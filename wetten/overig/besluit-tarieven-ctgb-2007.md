@@ -1,43 +1,17 @@
 ---
 title: "Besluit Tarieven Ctgb 2007"
 identifier: "BWBR0022971"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-12-08"
-last_updated: "2007-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022971"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9307323"
-version_id: "14946652"
-internal_id: "C20335371"
-label_id: "9286334"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022971/2007-12-08/0"
-intitule_bron: "Stcrt.2007-238"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-10"
-intitule_published: "2007-12-07"
-intitule_in_force: "2007-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-238"
-original_signed_date: "2007-10-10"
-original_published_date: "2007-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-238-p24-SC83273"
-entry_into_force_date: "2007-12-08"
-jci_1_3: "jci1.3:c:BWBR0022971&z=2007-12-08&g=2007-12-08"
-jci_1_0: "1.0:c:BWBR0022971&g=2007-12-08"
-citeertitel_status: "officieel"
-signed_date: "2007-10-10"
-entry_into_force: "2007-12-08"
+publicatiedatum: 2007-12-08
+laatste_update: 2007-12-08
+status: geldig
+toestand: 2007-12-08
+bron: "https://wetten.overheid.nl/BWBR0022971"
+opgehaald: 2026-08-12
 ---
+
 # Besluit Tarieven Ctgb 2007
-
-Gelet op [artikel 8, eerste lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=8), en [artikel 10, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=10) (Stb 2007, 125);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -51,7 +25,7 @@ In dit reglement wordt verstaan onder:
 
 - c. Onze Minister: de in [artikel 1, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1) bedoelde Minister.
 
-### Hoofdstuk 2. Gewasbeschermingsmiddelen op basis van in Bijlage I bij [Richtlijn 91/414/EEG](31991L0414) opgenomen werkzame stoffen
+### Hoofdstuk 2. Gewasbeschermingsmiddelen op basis van in Bijlage I bij Richtlijn 91/414/EEG opgenomen werkzame stoffen
 
 #### § 1. Aanvraag
 
@@ -61,7 +35,7 @@ Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschul
 
 - a. een toelating van een gewasbeschermingsmiddel als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=28) en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=35) alsmede een verlenging daarvan en een voorlopige toelating als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=34): € 4.420,–
 
-- b. een toelating van een gewasbeschermingsmiddel in het kader van een herregistratie nadat een werkzame stof is geplaatst op bijlage I bij [Richtlijn 91/414/EEG](31991L0414): € 2.460,–
+- b. een toelating van een gewasbeschermingsmiddel in het kader van een herregistratie nadat een werkzame stof is geplaatst op bijlage I bij Richtlijn 91/414/EEG: € 2.460,–
 
 - c. wederzijdse erkenning van een toelating als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36): € 1.640,–
 
@@ -77,17 +51,17 @@ Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschul
 
 - i. wijziging van de toelating als bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=41):
 
-- 1. administratieve wijziging: € 164,–
+   - 1. administratieve wijziging: € 164,–
 
-- 2. wijzigingen van het Wettelijk Gebruiksvoorschrift/Gebruiksaanwijzing: € 513,–
+   - 2. wijzigingen van het Wettelijk Gebruiksvoorschrift/Gebruiksaanwijzing: € 513,–
 
 - j. een wijziging van de samenstelling van een toegelaten gewasbeschermingsmiddel:
 
-- 1. indien bij de aanvraag onderzoeksgegevens moeten worden overgelegd: € 3.624,–
+   - 1. indien bij de aanvraag onderzoeksgegevens moeten worden overgelegd: € 3.624,–
 
-- 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–
+   - 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–
 
-- 3. overige gevallen: € 513,–.
+   - 3. overige gevallen: € 513,–.
 
 #### § 2. Samenvatten en evalueren
 
@@ -101,303 +75,303 @@ Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd 
 
 - c. de analysemethoden voor elk van de in het middel voorkomende werkzame stoffen onderscheidenlijk van elk van de omzettingsproducten:
 
-- 1. analysemethoden voor de bepaling van residuen op planten, plantaardige producten, levensmiddelen en diervoeder: € 820,–
+   - 1. analysemethoden voor de bepaling van residuen op planten, plantaardige producten, levensmiddelen en diervoeder: € 820,–
 
-- 2. analysemethode voor de bepaling van residuen in de bodem: € 328,–
+   - 2. analysemethode voor de bepaling van residuen in de bodem: € 328,–
 
-- 3. analysemethode voor de bepaling van residuen in drink en oppervlaktewater: € 328,–
+   - 3. analysemethode voor de bepaling van residuen in drink en oppervlaktewater: € 328,–
 
-- 4. analysemethode voor de bepaling van residuen in de lucht: € 164,–
+   - 4. analysemethode voor de bepaling van residuen in de lucht: € 164,–
 
-- 5. analysemethode voor de bepaling van residuen in lichaamsvloeistoffen en weefsels: € 164,–
+   - 5. analysemethode voor de bepaling van residuen in lichaamsvloeistoffen en weefsels: € 164,–
 
 - d. de toxiciteit van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten van deze werkzame stof(fen):
 
-- 1. metabolisme en kinetiek in proefdieren: € 4.623,–
+   - 1. metabolisme en kinetiek in proefdieren: € 4.623,–
 
-- 2. acute toxiciteit:
+   - 2. acute toxiciteit:
 
-- a. bepaling acute orale toxiciteit: € 82,–
+      - a. bepaling acute orale toxiciteit: € 82,–
 
-- b. bepaling acute percutane toxiciteit: € 82,–
+      - b. bepaling acute percutane toxiciteit: € 82,–
 
-- c. bepaling acute inhalatoire toxiciteit: € 82,–
+      - c. bepaling acute inhalatoire toxiciteit: € 82,–
 
-- d. bepaling van de huidirritatie € 82,–
+      - d. bepaling van de huidirritatie € 82,–
 
-- e. bepaling van de oogirritatie: € 82,–
+      - e. bepaling van de oogirritatie: € 82,–
 
-- f. bepaling van de sensibilisatie van de huid: € 82,–
+      - f. bepaling van de sensibilisatie van de huid: € 82,–
 
-- 3. kortdurend toxiciteitsonderzoek:
+   - 3. kortdurend toxiciteitsonderzoek:
 
-- a. onderzoek over 28 dagen bij orale toediening: € 538,–
+      - a. onderzoek over 28 dagen bij orale toediening: € 538,–
 
-- b. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–
+      - b. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–
 
-- c. onderzoek over 90 dagen bij orale toediening (2de dier): € 1.117,–
+      - c. onderzoek over 90 dagen bij orale toediening (2de dier): € 1.117,–
 
-- d. onderzoek over 1–2 jaar bij orale toediening (hond): € 2.228,–
+      - d. onderzoek over 1–2 jaar bij orale toediening (hond): € 2.228,–
 
-- e. onderzoek over 28 dagen bij dermale toediening: € 538,–
+      - e. onderzoek over 28 dagen bij dermale toediening: € 538,–
 
-- f. onderzoek over 28 dagen bij inhalatoire toediening: € 538,–
+      - f. onderzoek over 28 dagen bij inhalatoire toediening: € 538,–
 
-- g. onderzoek over 90 dagen bij dermale toediening: € 1.117,–
+      - g. onderzoek over 90 dagen bij dermale toediening: € 1.117,–
 
-- h. onderzoek over 90 dagen inhalatoire toediening: € 1.117,–
+      - h. onderzoek over 90 dagen inhalatoire toediening: € 1.117,–
 
-- 4. genotoxiciteitsproeven in vitro:
+   - 4. genotoxiciteitsproeven in vitro:
 
-- a. Salmonella typhimurium terugmutatietest: € 330,–
+      - a. Salmonella typhimurium terugmutatietest: € 330,–
 
-- b. Escherichia coli terugmutatietest: € 330,–
+      - b. Escherichia coli terugmutatietest: € 330,–
 
-- c. genmutatietest in zoogdiercellen: € 330,–
+      - c. genmutatietest in zoogdiercellen: € 330,–
 
-- d. Saccharomyces cerevisiae genmutatietest: € 330,–
+      - d. Saccharomyces cerevisiae genmutatietest: € 330,–
 
-- e. in vitro mammalian cytogenetic test: € 330,–
+      - e. in vitro mammalian cytogenetic test: € 330,–
 
-- f. in vitro sister chromatid exhange assay in mammalian cells: € 330,–
+      - f. in vitro sister chromatid exhange assay in mammalian cells: € 330,–
 
-- g. Saccharomyces cerevisiae mitotic recombination assay: € 330,–
+      - g. Saccharomyces cerevisiae mitotic recombination assay: € 330,–
 
-- h. DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
+      - h. DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
 
-- 5. gentoxiciteitsproeven in vivo (lichaamscellen):
+   - 5. gentoxiciteitsproeven in vivo (lichaamscellen):
 
-- a. micronucleus test: € 330,–
+      - a. micronucleus test: € 330,–
 
-- b. mammalian bone marrow cytogenetic test: € 330,–
+      - b. mammalian bone marrow cytogenetic test: € 330,–
 
-- c. vlekkentest bij muizen: € 330,–
+      - c. vlekkentest bij muizen: € 330,–
 
-- d. unscheduled DNA synthesis test with mammalian liver cells: € 330,–
+      - d. unscheduled DNA synthesis test with mammalian liver cells: € 330,–
 
-- e. mouse heritable translocation assay: € 330,–
+      - e. mouse heritable translocation assay: € 330,–
 
-- f. sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
+      - f. sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
 
-- 6. genotoxiteitsproeven in vivo (geslachtscellen):
+   - 6. genotoxiteitsproeven in vivo (geslachtscellen):
 
-- a. rodent dominant lethal test: € 330,–
+      - a. rodent dominant lethal test: € 330,–
 
-- b. mammalian spermatogonial chromosome aberration test: € 330,–
+      - b. mammalian spermatogonial chromosome aberration test: € 330,–
 
-- 7. toxiciteit bij langdurige blootstelling en carcinogeniteit: € 6.938,–
+   - 7. toxiciteit bij langdurige blootstelling en carcinogeniteit: € 6.938,–
 
-- 8. multigeneratieonderzoek: € 3.700,–
+   - 8. multigeneratieonderzoek: € 3.700,–
 
-- 9. onderzoek naar ontwikkelingstoxiciteit (bij 2 diersoorten): € 7.404,–
+   - 9. onderzoek naar ontwikkelingstoxiciteit (bij 2 diersoorten): € 7.404,–
 
-- 10. onderzoek vertraagd intredende neurotoxiciteit: € 2.228,–
+   - 10. onderzoek vertraagd intredende neurotoxiciteit: € 2.228,–
 
-- 11. onderzoek naar combinaties van middelen: € 929,–
+   - 11. onderzoek naar combinaties van middelen: € 929,–
 
-- 12. gegevens over blootstelling: € 929,–
+   - 12. gegevens over blootstelling: € 929,–
 
-- 13. dermale absorptie:
+   - 13. dermale absorptie:
 
-- a. in vivo onderzoek naar dermale absorptie: € 929,–
+      - a. in vivo onderzoek naar dermale absorptie: € 929,–
 
-- b. in vitro onderzoek naar dermale absorptie: € 929,–
+      - b. in vitro onderzoek naar dermale absorptie: € 929,–
 
-- 14. overige toxiciteit (A5.08) of medische gegevens: € 1.842,–
+   - 14. overige toxiciteit (A5.08) of medische gegevens: € 1.842,–
 
 - e. residuen van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen in/op behandelde producten, levensmiddelen en diervoeders:
 
-- 1. wanneer de aanvraag betrekking heeft op één of meer consumptiegewassen, worden voor elke gewasgroep (per klimaatzone dan wel volle grond of bedekte teelt), naar de indeling volgens het Lundehn document (Guidelines for the generation of data concerning residues as provided in Annex II part A, section 6 and Annex III, part A, section 8 of Directive 91/414/EEC), de volgende kosten in rekening gebracht:
+   - 1. wanneer de aanvraag betrekking heeft op één of meer consumptiegewassen, worden voor elke gewasgroep (per klimaatzone dan wel volle grond of bedekte teelt), naar de indeling volgens het Lundehn document (Guidelines for the generation of data concerning residues as provided in Annex II part A, section 6 and Annex III, part A, section 8 of Directive 91/414/EEC), de volgende kosten in rekening gebracht:
 
-- a. gegevens over de storage stability: € 330,–
+      - a. gegevens over de storage stability: € 330,–
 
-- b. gegevens over metabolisme en kinetiek bij planten: € 2.309,–
+      - b. gegevens over metabolisme en kinetiek bij planten: € 2.309,–
 
-- c. residuproeven: € 1.391,–
+      - c. residuproeven: € 1.391,–
 
-- d. gevolgen bewerking/bereiding: € 462,–
+      - d. gevolgen bewerking/bereiding: € 462,–
 
-- 2. metabolisme en kinetiek bij landbouwhuisdieren:
+   - 2. metabolisme en kinetiek bij landbouwhuisdieren:
 
-- a. metabolisme en kinetiek bij kip: € 2.309,–
+      - a. metabolisme en kinetiek bij kip: € 2.309,–
 
-- b. metabolisme en kinetiek bij geit: € 2.309,–
+      - b. metabolisme en kinetiek bij geit: € 2.309,–
 
-- c. metabolisme en kinetiek bij koe: € 2.309,–
+      - c. metabolisme en kinetiek bij koe: € 2.309,–
 
-- d. metabolisme en kinetiek bij varken: € 2.309,–
+      - d. metabolisme en kinetiek bij varken: € 2.309,–
 
-- e. metabolisme en kinetiek bij overige landbouwhuisdieren: € 2.309,–
+      - e. metabolisme en kinetiek bij overige landbouwhuisdieren: € 2.309,–
 
-- 3. onderzoek vervoedering bij landbouwhuisdieren:
+   - 3. onderzoek vervoedering bij landbouwhuisdieren:
 
-- a. onderzoek vervoedering bij kip: € 2.309,–
+      - a. onderzoek vervoedering bij kip: € 2.309,–
 
-- b. onderzoek vervoedering bij geit: € 2.309,–
+      - b. onderzoek vervoedering bij geit: € 2.309,–
 
-- c. onderzoek vervoedering bij koe: € 2.309,–
+      - c. onderzoek vervoedering bij koe: € 2.309,–
 
-- d. onderzoek vervoedering bij varken: € 2.309,–
+      - d. onderzoek vervoedering bij varken: € 2.309,–
 
-- e. onderzoek vervoedering bij overige landbouwhuisdieren: € 2.309,–
+      - e. onderzoek vervoedering bij overige landbouwhuisdieren: € 2.309,–
 
-- 4. bepaling van residuen in volggewassen: € 924,–
+   - 4. bepaling van residuen in volggewassen: € 924,–
 
-- 5. onderzoek naar de stabiliteit van de werkzame stof in het voedsel voor proefdieren: € 462,–
+   - 5. onderzoek naar de stabiliteit van de werkzame stof in het voedsel voor proefdieren: € 462,–
 
-- 6. overige gegevens met betrekking tot residuen: € 1.391,–
+   - 6. overige gegevens met betrekking tot residuen: € 1.391,–
 
 - f. het gedrag van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten in de grond:
 
-- 1. laboratoriumonderzoek omzettingsroute + omzettingssnelheid in de bodem: € 4.623,–
+   - 1. laboratoriumonderzoek omzettingsroute + omzettingssnelheid in de bodem: € 4.623,–
 
-- 2. adsorptie en desorptie in de bodem: € 2.309,–
+   - 2. adsorptie en desorptie in de bodem: € 2.309,–
 
-- 3. uitspoeling uit kolommen, kolomstudies met verouderd residu: € 2.309,–
+   - 3. uitspoeling uit kolommen, kolomstudies met verouderd residu: € 2.309,–
 
-- 4. veldonderzoek omtrent omzetting in de bodem: € 3.228,–
+   - 4. veldonderzoek omtrent omzetting in de bodem: € 3.228,–
 
-- 5. lysimeteronderzoek: € 3.228,–
+   - 5. lysimeteronderzoek: € 3.228,–
 
-- 6. veldonderzoek naar uitspoeling: € 3.228,–
+   - 6. veldonderzoek naar uitspoeling: € 3.228,–
 
-- 7. monitoringgegevens/aanvullend onderzoek: kostprijs
+   - 7. monitoringgegevens/aanvullend onderzoek: kostprijs
 
 - g. het gedrag van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten in water:
 
-- 1. hydrolytische en fotochemische omzetting in water: € 1.391,–
+   - 1. hydrolytische en fotochemische omzetting in water: € 1.391,–
 
-- 2. biologische omzetting: ready biodegradability in water en omzettingssnelheid en –route in water/sedimentsystemen: € 2.309,–
+   - 2. biologische omzetting: ready biodegradability in water en omzettingssnelheid en –route in water/sedimentsystemen: € 2.309,–
 
-- 3. effectiviteit van en invloed op waterbehandeling: € 924,–
+   - 3. effectiviteit van en invloed op waterbehandeling: € 924,–
 
-- 4. onderzoek in de verzadigde zone: € 4.623,–
+   - 4. onderzoek in de verzadigde zone: € 4.623,–
 
-- 5. adsorptie aan slibdeeltjes: € 1.842,–
+   - 5. adsorptie aan slibdeeltjes: € 1.842,–
 
-- 6. aanvullend veldonderzoek: kostprijs
+   - 6. aanvullend veldonderzoek: kostprijs
 
-- 7. monitoringgegevens: kostprijs
+   - 7. monitoringgegevens: kostprijs
 
 - h. het gedrag van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten in de lucht:
 
-- 1. omzettingssnelheid en -route in de lucht: € 2.309,–
+   - 1. omzettingssnelheid en -route in de lucht: € 2.309,–
 
 - i. giftigheid van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen, en de omzettingsproducten in het milieu, voor in het milieu voorkomende organismen:
 
-- 1. effecten op vogels:
+   - 1. effecten op vogels:
 
-- a. acute orale toxiciteit voor vogels: € 462,–
+      - a. acute orale toxiciteit voor vogels: € 462,–
 
-- b. dieetonderzoek voor vogels: € 462,–
+      - b. dieetonderzoek voor vogels: € 462,–
 
-- c. subchronische en reproductietoxiciteit: € 1.284,–
+      - c. subchronische en reproductietoxiciteit: € 1.284,–
 
-- d. proeven onder veldomstandigheden: € 3.228,–
+      - d. proeven onder veldomstandigheden: € 3.228,–
 
-- e. bepaling acceptatie lokaas, granulaten of behandeld zaad: € 924,–
+      - e. bepaling acceptatie lokaas, granulaten of behandeld zaad: € 924,–
 
-- f. bepaling effecten secundaire vergiftiging: € 2.309,–
+      - f. bepaling effecten secundaire vergiftiging: € 2.309,–
 
-- 2. effecten op aquatische organismen:
+   - 2. effecten op aquatische organismen:
 
-- a. effecten op vissen:
+      - a. effecten op vissen:
 
-- (i). acute toxiciteit voor vissen: € 462,–
+         - (i) acute toxiciteit voor vissen: € 462,–
 
-- (ii). chronische toxiciteit voor vissen: € 462,–
+         - (ii) chronische toxiciteit voor vissen: € 462,–
 
-- (iii). bioconcentratie bij vissen of gegevens over residuen in vissen: € 924,–
+         - (iii) bioconcentratie bij vissen of gegevens over residuen in vissen: € 924,–
 
-- b. effecten op ongewervelde aquatische organismen:
+      - b. effecten op ongewervelde aquatische organismen:
 
-- (i). acute toxiciteit ongewervelde aquatische organismen: € 462,–
+         - (i) acute toxiciteit ongewervelde aquatische organismen: € 462,–
 
-- (ii). chronische toxiciteit ongewervelde aquatische organismen: € 462,–;
+         - (ii) chronische toxiciteit ongewervelde aquatische organismen: € 462,–;
 
-- c. effecten op de groei van algen: € 462,–
+      - c. effecten op de groei van algen: € 462,–
 
-- d. bepaling effect op waterplanten: € 462,–
+      - d. bepaling effect op waterplanten: € 462,–
 
-- e. aanvullende studies aquatische organismen: € 923,–
+      - e. aanvullende studies aquatische organismen: € 923,–
 
-- f. effecten op sedimentorganismen: € 923,–
+      - f. effecten op sedimentorganismen: € 923,–
 
-- g. microcosmos-/mesocosmosstudie: € 3.228,–
+      - g. microcosmos-/mesocosmosstudie: € 3.228,–
 
-- h. aanvullend onderzoek: kostprijs
+      - h. aanvullend onderzoek: kostprijs
 
-- 3. effecten op geleedpotigen:
+   - 3. effecten op geleedpotigen:
 
-- a. effecten op bijen:
+      - a. effecten op bijen:
 
-- (i). acute toxiciteit voor bijen: € 924,–
+         - (i) acute toxiciteit voor bijen: € 924,–
 
-- (ii). voedingsproef met bijenbroed: € 924,–
+         - (ii) voedingsproef met bijenbroed: € 924,–
 
-- (iii). residuproef met bijen: € 924,–
+         - (iii) residuproef met bijen: € 924,–
 
-- (iv). kooiproeven met bijen: € 3.228,–
+         - (iv) kooiproeven met bijen: € 3.228,–
 
-- (v). veldproeven met bijen: € 3.228,–
+         - (v) veldproeven met bijen: € 3.228,–
 
-- (vi). tunnelproeven met bijen: € 3.228,–
+         - (vi) tunnelproeven met bijen: € 3.228,–
 
-- b. toxiciteit voor andere geleedpotigen dan bijen:
+      - b. toxiciteit voor andere geleedpotigen dan bijen:
 
-- (i). effecten op geselecteerde soorten geleedpotigen: € 924,–
+         - (i) effecten op geselecteerde soorten geleedpotigen: € 924,–
 
-- (ii). proeven op grotere laboratoriumschaal: € 924,–
+         - (ii) proeven op grotere laboratoriumschaal: € 924,–
 
-- (iii). proeven onder semi-veldomstandigheden: € 2.309,–
+         - (iii) proeven onder semi-veldomstandigheden: € 2.309,–
 
-- (iv). veldproeven: € 3.228,–
+         - (iv) veldproeven: € 3.228,–
 
-- 4. effecten op regenwormen:
+   - 4. effecten op regenwormen:
 
-- a. acute toxiciteit regenwormen: € 462,–
+      - a. acute toxiciteit regenwormen: € 462,–
 
-- b. subletale effecten op regenwormen: € 462,–
+      - b. subletale effecten op regenwormen: € 462,–
 
-- c. bioconcentratie in regenworm: € 924,–
+      - c. bioconcentratie in regenworm: € 924,–
 
-- d. veldstudies met regenwormen: € 3.228,–
+      - d. veldstudies met regenwormen: € 3.228,–
 
-- 5. effecten op andere niet-doel macro-organismen in de bodem, per studie € 915,–
+   - 5. effecten op andere niet-doel macro-organismen in de bodem, per studie € 915,–
 
-- 6. effecten op niet-doel micro-organismen in de bodem:
+   - 6. effecten op niet-doel micro-organismen in de bodem:
 
-- a. stikstofbinding en koolstofmineralisatie: € 462,–
+      - a. stikstofbinding en koolstofmineralisatie: € 462,–
 
-- b. veldstudies ten aanzien van effecten op niet-doel micro-organismen in de bodem: € 3.228,–
+      - b. veldstudies ten aanzien van effecten op niet-doel micro-organismen in de bodem: € 3.228,–
 
-- 7. invloed op biologische methoden voor de zuivering van afvalwater: € 924,–
+   - 7. invloed op biologische methoden voor de zuivering van afvalwater: € 924,–
 
-- 8. effecten op gewervelde terrestrische organismen m.u.v. vogels: € 2.309,–
+   - 8. effecten op gewervelde terrestrische organismen m.u.v. vogels: € 2.309,–
 
-- 9. effecten op andere niet-doelwitorganismen (flora/fauna):
+   - 9. effecten op andere niet-doelwitorganismen (flora/fauna):
 
-- a. laboratoriumgegevens over effecten op andere niet-doelwitorganismen: € 929,–
+      - a. laboratoriumgegevens over effecten op andere niet-doelwitorganismen: € 929,–
 
-- b. veldstudies effecten op andere niet-doelwitorganismen: € 3.228,–
+      - b. veldstudies effecten op andere niet-doelwitorganismen: € 3.228,–
 
 - j. voor het afleiden van een Maximaal Toelaatbaar Risico (MTR) zijn de volgende bedragen verschuldigd:
 
-- 1. voor het samenvatten en evalueren van gegevens over relevante proeven op laboratoriumschaal met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 462,–
+   - 1. voor het samenvatten en evalueren van gegevens over relevante proeven op laboratoriumschaal met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 462,–
 
-- 2. voor het samenvatten en evalueren van gegevens over relevante proeven onder semi-veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 2.309,–
+   - 2. voor het samenvatten en evalueren van gegevens over relevante proeven onder semi-veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 2.309,–
 
-- 3. voor het samenvatten en evalueren van gegevens over relevante proeven onder veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 3.228,–
+   - 3. voor het samenvatten en evalueren van gegevens over relevante proeven onder veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 3.228,–
 
-- 4. voor het evalueren van relevante gegevens uit de openbare literatuur over het middel onderscheidenlijk voer elk van de daarin voorkomende werkzame stoffen en omzettingsproducten: € 1.200,–
+   - 4. voor het evalueren van relevante gegevens uit de openbare literatuur over het middel onderscheidenlijk voer elk van de daarin voorkomende werkzame stoffen en omzettingsproducten: € 1.200,–
 
-- 5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–
+   - 5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–
 
 - k. voor het afleiden van een Maximaal Residu Limiet (MRL) zijn de volgende bedragen verschuldigd:
 
-- 1. voor het samenvatten en evalueren van de residugegevens: de bedragen als genoemd in onderdeel e.
+   - 1. voor het samenvatten en evalueren van de residugegevens: de bedragen als genoemd in onderdeel e.
 
-- 2. voor het afleiden van een MRL per gewasgroep: € 164,–.
+   - 2. voor het afleiden van een MRL per gewasgroep: € 164,–.
 
 ##### Artikel 4. micro-organismen
 
@@ -409,131 +383,131 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - c. de toxiciteit van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten:
 
-- 1. acute toxiciteit:
+   - 1. acute toxiciteit:
 
-- a. bepaling acute orale toxiciteit: € 82,–
+      - a. bepaling acute orale toxiciteit: € 82,–
 
-- b. bepaling acute inhalatoire toxiciteit: € 82,–
+      - b. bepaling acute inhalatoire toxiciteit: € 82,–
 
-- c. bepaling acute percutane toxiciteit: € 82,–
+      - c. bepaling acute percutane toxiciteit: € 82,–
 
-- d. bepaling van de huidirritatie: € 82,–
+      - d. bepaling van de huidirritatie: € 82,–
 
-- e. bepaling van de oogirritatie: € 82,–
+      - e. bepaling van de oogirritatie: € 82,–
 
-- f. bepaling van de sensibilisatie van de huid: € 82,–
+      - f. bepaling van de sensibilisatie van de huid: € 82,–
 
-- 2. basisinformatie toxiciteit van het micro-organisme: € 543,–
+   - 2. basisinformatie toxiciteit van het micro-organisme: € 543,–
 
-- 3. acute toxiciteit, pathogeniteit en infectiviteit:
+   - 3. acute toxiciteit, pathogeniteit en infectiviteit:
 
-- a. acute orale toxiciteit, pathogeniteit en infectiviteit: € 695,–
+      - a. acute orale toxiciteit, pathogeniteit en infectiviteit: € 695,–
 
-- b. acute inhalatoire toxiciteit, pathogeniteit en infectiviteit: € 695,–
+      - b. acute inhalatoire toxiciteit, pathogeniteit en infectiviteit: € 695,–
 
-- c. acute intraperitoneale/subcutane eenmalige dosis: € 695,–
+      - c. acute intraperitoneale/subcutane eenmalige dosis: € 695,–
 
-- 4. genotoxiciteitsproeven in vitro:
+   - 4. genotoxiciteitsproeven in vitro:
 
-- a. Salmonella typhimurium terugmutatietest: € 330,–
+      - a. Salmonella typhimurium terugmutatietest: € 330,–
 
-- b. Escherichia coli terugmutatietest: € 330,–
+      - b. Escherichia coli terugmutatietest: € 330,–
 
-- c. genmutatietest in zoogdiercellen: € 330,–
+      - c. genmutatietest in zoogdiercellen: € 330,–
 
-- d. Saccharomyces cerevisiae genmutatietest: € 330,–
+      - d. Saccharomyces cerevisiae genmutatietest: € 330,–
 
-- e. in vitro mammalian cytogenetic test: € 330,–
+      - e. in vitro mammalian cytogenetic test: € 330,–
 
-- f. in vitro sister chromatid exhange assay in mammalian cells: € 330,–
+      - f. in vitro sister chromatid exhange assay in mammalian cells: € 330,–
 
-- g. Saccharomyces cerevisiae mitotic recombination assay: € 330,–
+      - g. Saccharomyces cerevisiae mitotic recombination assay: € 330,–
 
-- h. DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
+      - h. DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
 
-- 5. celkweek onderzoek: € 538,–
+   - 5. celkweek onderzoek: € 538,–
 
-- 6. informatie over toxiciteit en pathogeniteit op de korte termijn: € 772,–
+   - 6. informatie over toxiciteit en pathogeniteit op de korte termijn: € 772,–
 
-- 7. effecten op de gezondheid na herhaalde inhalatoire blootstelling: € 772,–
+   - 7. effecten op de gezondheid na herhaalde inhalatoire blootstelling: € 772,–
 
-- 8. gentoxiciteitsproeven in vivo (lichaamscellen):
+   - 8. gentoxiciteitsproeven in vivo (lichaamscellen):
 
-- a. micronucleus test: € 330,–
+      - a. micronucleus test: € 330,–
 
-- b. mammalian bone marrow cytogenetic test: € 330,–
+      - b. mammalian bone marrow cytogenetic test: € 330,–
 
-- c. vlekkentest bij muizen: € 330,–
+      - c. vlekkentest bij muizen: € 330,–
 
-- d. unscheduled DNA synthesis test with mammalian liver cells: € 330,–
+      - d. unscheduled DNA synthesis test with mammalian liver cells: € 330,–
 
-- e. mouse heritable translocation assay: € 330,–
+      - e. mouse heritable translocation assay: € 330,–
 
-- f. sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
+      - f. sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
 
-- 9. genotoxiteitsproeven in vivo (geslachtscellen):
+   - 9. genotoxiteitsproeven in vivo (geslachtscellen):
 
-- a. rodent dominant lethal test: € 330,–
+      - a. rodent dominant lethal test: € 330,–
 
-- b. mammalian spermatogonial chromosome aberration test: € 330,–
+      - b. mammalian spermatogonial chromosome aberration test: € 330,–
 
-- 10. gegevens over blootstelling:
+   - 10. gegevens over blootstelling:
 
-- a. meting blootstelling toepasser: € 929,–
+      - a. meting blootstelling toepasser: € 929,–
 
-- b. meting blootstelling werknemer: € 929,–
+      - b. meting blootstelling werknemer: € 929,–
 
-- 11. bepaling dermale absorptie: € 929,–
+   - 11. bepaling dermale absorptie: € 929,–
 
-- 12. toxicologische gegevens niet-werkzame stoffen: € 929,–
+   - 12. toxicologische gegevens niet-werkzame stoffen: € 929,–
 
-- 13. aanvullend onderzoek naar combinaties van gewasbeschermingsmiddelen: € 929,–
+   - 13. aanvullend onderzoek naar combinaties van gewasbeschermingsmiddelen: € 929,–
 
 - d. residuen van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen in/op behandelde producten, levensmiddelen en diervoeders:
 
-- 1. residuproeven: € 1.391,–
+   - 1. residuproeven: € 1.391,–
 
-- 2. persistentie en waarschijnlijke vermeerdering in of op gewassen, levensmiddelen of diervoeders: € 995,–
+   - 2. persistentie en waarschijnlijke vermeerdering in of op gewassen, levensmiddelen of diervoeders: € 995,–
 
-- 3. niet levensvatbare/levensvatbare residuen: € 538,–
+   - 3. niet levensvatbare/levensvatbare residuen: € 538,–
 
 - e. het gedrag van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en zijn omzettingsproducten in het milieu:
 
-- 1. gegevens over levensvatbaarheid en populatiedynamiek in de bodem: € 462,–
+   - 1. gegevens over levensvatbaarheid en populatiedynamiek in de bodem: € 462,–
 
-- 2. gegevens over levensvatbaarheid en populatiedynamiek in natuurlijk sediment/watersystemen: € 462,–
+   - 2. gegevens over levensvatbaarheid en populatiedynamiek in natuurlijk sediment/watersystemen: € 462,–
 
-- 3. gegevens over concentraties in lucht: € 462,–
+   - 3. gegevens over concentraties in lucht: € 462,–
 
-- 4. gegevens over de mogelijke verspreiding van het micro-organisme in de bodem: € 462,–
+   - 4. gegevens over de mogelijke verspreiding van het micro-organisme in de bodem: € 462,–
 
-- 5. gegevens over de mogelijke verspreiding van het micro-organisme in natuurlijk sediment/watersystemen: € 462,–
+   - 5. gegevens over de mogelijke verspreiding van het micro-organisme in natuurlijk sediment/watersystemen: € 462,–
 
-- 6. gegevens over de mogelijke verspreiding van het micro-organisme in lucht: € 462,–
+   - 6. gegevens over de mogelijke verspreiding van het micro-organisme in lucht: € 462,–
 
 - f. effecten van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen, en de omzettingsproducten op niet-doelorganismen:
 
-- 1. effecten op vogels: € 462,–
+   - 1. effecten op vogels: € 462,–
 
-- 2. effecten op aquatische organismen:
+   - 2. effecten op aquatische organismen:
 
-- a. toxiciteit, infectiviteit en pathogeniteit bij vis: € 462,–
+      - a. toxiciteit, infectiviteit en pathogeniteit bij vis: € 462,–
 
-- b. toxiciteit, infectiviteit en pathogeniteit bij ongewervelde zoetwaterorganismen: € 462,–
+      - b. toxiciteit, infectiviteit en pathogeniteit bij ongewervelde zoetwaterorganismen: € 462,–
 
-- c. effecten op de algengroei, groeisnelheid en herstelcapaciteit: € 462,–
+      - c. effecten op de algengroei, groeisnelheid en herstelcapaciteit: € 462,–
 
-- d. effecten op andere planten dan algen: € 462,–
+      - d. effecten op andere planten dan algen: € 462,–
 
-- 3. toxiciteit, infectiviteit en pathogeniteit bij bijen: € 924,–
+   - 3. toxiciteit, infectiviteit en pathogeniteit bij bijen: € 924,–
 
-- 4. toxiciteit, infectiviteit en pathogeniteit bij andere geleedpotigen dan bijen: € 924,–
+   - 4. toxiciteit, infectiviteit en pathogeniteit bij andere geleedpotigen dan bijen: € 924,–
 
-- 5. toxiciteit, infectiviteit en pathogeniteit bij regenwormen: € 462,–
+   - 5. toxiciteit, infectiviteit en pathogeniteit bij regenwormen: € 462,–
 
-- 6. effecten op niet-doel micro-organismen in de bodem: € 462,–
+   - 6. effecten op niet-doel micro-organismen in de bodem: € 462,–
 
-- 7. aanvullend onderzoek: € 924,–
+   - 7. aanvullend onderzoek: € 924,–
 
 - g. indien voor enig aspect studies overlegd worden, welke niet onder de voornoemde posten vallen, zijn de tarieven van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-12-08&g=2007-12-08) van toepassing.
 
@@ -575,39 +549,39 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - 2. Werkzaamheid:
 
-- a. effectiviteit: € 82,–
+   - a. effectiviteit: € 82,–
 
-- b. schadelijke nevenwerkingen: € 41,–
+   - b. schadelijke nevenwerkingen: € 41,–
 
-- c. resistentie: € 41,–
+   - c. resistentie: € 41,–
 
 - 3. Humane toxicologische/toepasser&werker: € 82,–
 
 - 4. Milieu:
 
-- a. persistentie: € 41,–
+   - a. persistentie: € 41,–
 
-- b. uitspoeling: € 41,–
+   - b. uitspoeling: € 41,–
 
-- c. vogels/zoogdieren: € 41,–
+   - c. vogels/zoogdieren: € 41,–
 
-- d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–
+   - d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–
 
-- e. bijen/hommels: € 41,–
+   - e. bijen/hommels: € 41,–
 
-- f. niet-doelwit arthropoden: € 41,–
+   - f. niet-doelwit arthropoden: € 41,–
 
-- g. regenwormen: € 41,–
+   - g. regenwormen: € 41,–
 
-- h. bodem micro-organismen: € 41,
+   - h. bodem micro-organismen: € 41,
 
-- i. emissie naar RWZI: € 41,–
+   - i. emissie naar RWZI: € 41,–
 
 - 5. Volksgezondheid: € 82,–
 
 ##### Artikel 8. herregistratie
 
-1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=3&artikel=5&z=2007-12-08&g=2007-12-08) zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland voorlopig toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=34), op basis van een nieuwe stof die is geplaatst op Annex I van [Richtlijn 91/414/EEG](31991L0414), de volgende bedragen verschuldigd:
+1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=3&artikel=5&z=2007-12-08&g=2007-12-08) zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland voorlopig toegelaten gewasbeschermingsmiddel als bedoeld in [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=34), op basis van een nieuwe stof die is geplaatst op Annex I van Richtlijn 91/414/EEG, de volgende bedragen verschuldigd:
 
 - a. voor de beoordeling van de werkzaamheid: € 656,–
 
@@ -617,7 +591,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - d. voor de beoordeling van het risico ‘milieu’: € 656,–
 
-2. In afwijking van het eerste lid zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland toegelaten gewasbeschermingsmiddel op basis van een bestaande stof die is geplaatst op Annex I van [Richtlijn 91/414/EEG](31991L0414) en waar bij de beoordeling gebruik wordt gemaakt van een in een andere lidstaat van de Europese Unie uitgevoerde beoordeling als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36) (wederzijdse erkenning), de volgende bedragen verschuldigd:
+2. In afwijking van het eerste lid zijn voor de beoordeling van de navolgende aspecten en criteria in het kader van een aanvraag tot herregistratie van een in Nederland toegelaten gewasbeschermingsmiddel op basis van een bestaande stof die is geplaatst op Annex I van Richtlijn 91/414/EEG en waar bij de beoordeling gebruik wordt gemaakt van een in een andere lidstaat van de Europese Unie uitgevoerde beoordeling als bedoeld in [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=36) (wederzijdse erkenning), de volgende bedragen verschuldigd:
 
 - a. voor de beoordeling van de werkzaamheid: € 656,–
 
@@ -627,13 +601,13 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - d. voor de beoordeling van het risico ‘milieu’: € 1.804,–.
 
-#### § 4. Plaatsing werkzame stof op Bijlage I [Richtlijn 91/414/EEG](31991L0414)
+#### § 4. Plaatsing werkzame stof op Bijlage I Richtlijn 91/414/EEG
 
 ##### Artikel 9. aanvraag
 
-1. Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I bij [Richtlijn 91/414/EEG](31991L0414), is het volgende bedrag verschuldigd: € 11.165,–
+1. Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I bij Richtlijn 91/414/EEG, is het volgende bedrag verschuldigd: € 11.165,–
 
-2. Dit lid is nog niet in werking getreden.
+2. *Dit lid is nog niet in werking getreden.*
 
 ##### Artikel 10. samenvatten en beoordelen
 
@@ -643,7 +617,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoo
 
 - b. het navolgende bedrag als bij de in behandelingname van de aanvraag blijkt dat met een gedeeltelijk beperkte samenvatting of beoordeling kan worden volstaan: € 160.675,–
 
-2. Dit lid is nog niet in werking getreden.
+2. *Dit lid is nog niet in werking getreden.*
 
 ##### Artikel 11. overige werkzaamheden
 
@@ -661,7 +635,7 @@ Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoe
 
 - b. in overige gevallen een bedrag van € 157,–.
 
-### Hoofdstuk 3. Biociden op basis van in Bijlage I of IA bij [Richtlijn 98/8/EG](31998L0008) opgenomen werkzame stoffen
+### Hoofdstuk 3. Biociden op basis van in Bijlage I of IA bij Richtlijn 98/8/EG opgenomen werkzame stoffen
 
 #### § 1. Aanvraag
 
@@ -685,17 +659,17 @@ Voor de indiening van de navolgende aanvragen zijn de volgende bedragen verschul
 
 - h. wijziging van de toelating als bedoeld in [artikel 68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=68):
 
-- 1. administratieve wijziging: € 164,–
+   - 1. administratieve wijziging: € 164,–
 
-- 2. wijzigingen van het Wettelijk Gebruiksvoorschrift/Gebruiksaanwijzing: € 513,–
+   - 2. wijzigingen van het Wettelijk Gebruiksvoorschrift/Gebruiksaanwijzing: € 513,–
 
 - i. een wijziging van de samenstelling van een toegelaten biocide:
 
-- 1. indien bij de aanvraag onderzoeksgegevens moeten worden overgelegd: € 3.624,–
+   - 1. indien bij de aanvraag onderzoeksgegevens moeten worden overgelegd: € 3.624,–
 
-- 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–
+   - 2. indien sprake is van wijziging van de technische werkzame stof (nieuwe bron of andere aanpassing): € 656,–
 
-- 3. overige gevallen: € 513,–.
+   - 3. overige gevallen: € 513,–.
 
 #### § 2. Samenvatten en evalueren
 
@@ -709,253 +683,253 @@ Voor het samenvatten en evalueren van de navolgende gegevens, die zijn overlegd 
 
 - c. de toxiciteit van het middel onderscheidenlijk van elk van de daarin voorkomende werkzame stoffen en de omzettingsproducten van deze werkzame stof(fen):
 
-- 1. acute toxiciteit:
+   - 1. acute toxiciteit:
 
-- a. bepaling acute orale toxiciteit: € 82,–
+      - a. bepaling acute orale toxiciteit: € 82,–
 
-- b. bepaling van de acute intraperitoneale toxiciteit: € 82,–
+      - b. bepaling van de acute intraperitoneale toxiciteit: € 82,–
 
-- c. bepaling acute percutane toxiciteit: € 82,–
+      - c. bepaling acute percutane toxiciteit: € 82,–
 
-- d. bepaling acute inhalatoire toxiciteit: € 82,–
+      - d. bepaling acute inhalatoire toxiciteit: € 82,–
 
-- e. bepaling van de huidirritatie: € 82,–
+      - e. bepaling van de huidirritatie: € 82,–
 
-- f. bepaling van de oogirritatie: € 82,–
+      - f. bepaling van de oogirritatie: € 82,–
 
-- g. bepaling van de sensibilisatie van de huid: € 82,–
+      - g. bepaling van de sensibilisatie van de huid: € 82,–
 
-- 2. kortdurend toxiciteitsonderzoek:
+   - 2. kortdurend toxiciteitsonderzoek:
 
-- a. onderzoek over 28 dagen bij orale toediening: € 538,–
+      - a. onderzoek over 28 dagen bij orale toediening: € 538,–
 
-- b. onderzoek over 28 dagen bij dermale toediening: € 538,–
+      - b. onderzoek over 28 dagen bij dermale toediening: € 538,–
 
-- c. onderzoek over 28 dagen bij inhalatoire toediening: € 538,–
+      - c. onderzoek over 28 dagen bij inhalatoire toediening: € 538,–
 
-- 3. semi-chronische toxiciteit:
+   - 3. semi-chronische toxiciteit:
 
-- a. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–
+      - a. onderzoek over 90 dagen bij orale toediening (rat): € 1.117,–
 
-- b. onderzoek over 90 dagen bij orale toediening (2de dier): € 1.117,–
+      - b. onderzoek over 90 dagen bij orale toediening (2de dier): € 1.117,–
 
-- c. onderzoek over 1-2 jaar bij orale toediening (hond): € 2.228,–
+      - c. onderzoek over 1-2 jaar bij orale toediening (hond): € 2.228,–
 
-- d. onderzoek over 90 dagen bij dermale toediening: € 1.117,–
+      - d. onderzoek over 90 dagen bij dermale toediening: € 1.117,–
 
-- e. onderzoek over 90 dagen bij inhalatoire toediening: € 1.117,–
+      - e. onderzoek over 90 dagen bij inhalatoire toediening: € 1.117,–
 
-- 4. chronische orale toxiciteit: € 3.466,–
+   - 4. chronische orale toxiciteit: € 3.466,–
 
-- 5. genotoxiciteitsproeven:
+   - 5. genotoxiciteitsproeven:
 
-- a. in vitro onderzoek: Salmonella typhimurium terugmutatietest: € 330,–
+      - a. in vitro onderzoek: Salmonella typhimurium terugmutatietest: € 330,–
 
-- b. in vitro onderzoek: Escherichia coli terugmutatietest: € 330,–
+      - b. in vitro onderzoek: Escherichia coli terugmutatietest: € 330,–
 
-- c. in vitro onderzoek: genmutatietest in zoogdiercellen: € 330,–
+      - c. in vitro onderzoek: genmutatietest in zoogdiercellen: € 330,–
 
-- d. in vitro onderzoek: Saccharomyces cerevisiae genmutatietest: € 330,–
+      - d. in vitro onderzoek: Saccharomyces cerevisiae genmutatietest: € 330,–
 
-- e. in vitro onderzoek: in vitro mammalian cytogenetic test: € 330,–
+      - e. in vitro onderzoek: in vitro mammalian cytogenetic test: € 330,–
 
-- f. in vivo (lichaamscellen): micronucleus test: € 330,–
+      - f. in vivo (lichaamscellen): micronucleus test: € 330,–
 
-- g. in vivo (lichaamscellen): mammalian bone marrow cytogenetic test: € 330,–
+      - g. in vivo (lichaamscellen): mammalian bone marrow cytogenetic test: € 330,–
 
-- h. in vivo (lichaamscellen): vlekkentest bij muizen: € 330,–
+      - h. in vivo (lichaamscellen): vlekkentest bij muizen: € 330,–
 
-- i. in vivo (lichaamscellen): unscheduled DNA synthesis test with mammalian liver cells: € 330,–
+      - i. in vivo (lichaamscellen): unscheduled DNA synthesis test with mammalian liver cells: € 330,–
 
-- j. in vivo (geslachtscellen): rodent dominant lethal test: € 330,–
+      - j. in vivo (geslachtscellen): rodent dominant lethal test: € 330,–
 
-- k. In vitro onderzoek: in vitro sister chromatid exhange assay in mammalian cells: € 330,–
+      - k. In vitro onderzoek: in vitro sister chromatid exhange assay in mammalian cells: € 330,–
 
-- l. in vitro onderzoek: Saccharomyces cerevisiae mitotic recombination assay: € 330,–
+      - l. in vitro onderzoek: Saccharomyces cerevisiae mitotic recombination assay: € 330,–
 
-- m. in vitro onderzoek: DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
+      - m. in vitro onderzoek: DNA damage and repair/unscheduled DNA synthesis in mammalian cells: € 330,–
 
-- n. in vivo (geslachtscellen): mammalian spermatogonial chromosome aberration test: € 330,–
+      - n. in vivo (geslachtscellen): mammalian spermatogonial chromosome aberration test: € 330,–
 
-- o. in vivo (lichaamscellen): mouse heritable translocation assay: € 330,–
+      - o. in vivo (lichaamscellen): mouse heritable translocation assay: € 330,–
 
-- p. in vivo (lichaamscellen): sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
+      - p. in vivo (lichaamscellen): sex-linked recessive lethal test in Drosophila melanogaster: € 330,–
 
-- 6. bepaling van de carcinogeniteit: € 3.466,–
+   - 6. bepaling van de carcinogeniteit: € 3.466,–
 
-- 7. multigeneratie-onderzoek: € 3.700,–
+   - 7. multigeneratie-onderzoek: € 3.700,–
 
-- 8. onderzoek naar ontwikkelingstoxiciteit (bij 1 diersoort): € 3.700,–
+   - 8. onderzoek naar ontwikkelingstoxiciteit (bij 1 diersoort): € 3.700,–
 
-- 9. onderzoek naar absorptie, distributie, excretie en metabolisme bij zoogdieren: € 4.623,–
+   - 9. onderzoek naar absorptie, distributie, excretie en metabolisme bij zoogdieren: € 4.623,–
 
-- 10. onderzoek naar dermale absorptie in proefdieren:
+   - 10. onderzoek naar dermale absorptie in proefdieren:
 
-- a. in vivo onderzoek naar dermale absorptie: € 929,–
+      - a. in vivo onderzoek naar dermale absorptie: € 929,–
 
-- b. in vitro onderzoek naar dermale absorptie: € 929,–
+      - b. in vitro onderzoek naar dermale absorptie: € 929,–
 
-- 11. aanvullend onderzoek naar cholinesterase-remming of onderzoek naar vertraagd intredende neurotoxiciteit: € 2.228,–
+   - 11. aanvullend onderzoek naar cholinesterase-remming of onderzoek naar vertraagd intredende neurotoxiciteit: € 2.228,–
 
-- 12. overige toxiciteit: € 1.842,–
+   - 12. overige toxiciteit: € 1.842,–
 
 - d. metabolisme in de plant en residuen van het middel onderscheidenlijk van de daarin voorkomende werkzame stof of stoffen:
 
-- 1. residu-analyse methode: € 820,–
+   - 1. residu-analyse methode: € 820,–
 
-- 2. storage stability gegevens: € 330,–
+   - 2. storage stability gegevens: € 330,–
 
-- 3. residuproeven in of op plantaardige producten: € 3.700,–
+   - 3. residuproeven in of op plantaardige producten: € 3.700,–
 
-- 4. metabolisme en kinetiek bij landbouwhuisdieren:
+   - 4. metabolisme en kinetiek bij landbouwhuisdieren:
 
-- a. metabolisme en kinetiek bij kip: € 2.309,–
+      - a. metabolisme en kinetiek bij kip: € 2.309,–
 
-- b. metabolisme en kinetiek bij geit: € 2.309,–
+      - b. metabolisme en kinetiek bij geit: € 2.309,–
 
-- c. metabolisme en kinetiek bij koe: € 2.309,–
+      - c. metabolisme en kinetiek bij koe: € 2.309,–
 
-- d. metabolisme en kinetiek bij varken: € 2.309,–
+      - d. metabolisme en kinetiek bij varken: € 2.309,–
 
-- e. metabolisme en kinetiek bij overige landbouwhuisdieren: € 2.309,–
+      - e. metabolisme en kinetiek bij overige landbouwhuisdieren: € 2.309,–
 
-- 5. residuonderzoekingen in of op substraten, anders dan plantaardige of dierlijke producten: € 1.391,–
+   - 5. residuonderzoekingen in of op substraten, anders dan plantaardige of dierlijke producten: € 1.391,–
 
-- 6. gegevens afdampingspatroon van werkzame stoffen en toxicologisch relevante hulpstoffen van behandelde oppervlakken: € 1.391,–
+   - 6. gegevens afdampingspatroon van werkzame stoffen en toxicologisch relevante hulpstoffen van behandelde oppervlakken: € 1.391,–
 
-- 7. gegevens over ruimteconcentraties van werkzame stoffen en toxicologisch relevante hulpstoffen bij toepassing d.m.v. ruimtesprays: € 1.391,–
+   - 7. gegevens over ruimteconcentraties van werkzame stoffen en toxicologisch relevante hulpstoffen bij toepassing d.m.v. ruimtesprays: € 1.391,–
 
-- 8. gegevens over migratie naar (grondstoffen voor) levensmiddelen of veevoeders:
+   - 8. gegevens over migratie naar (grondstoffen voor) levensmiddelen of veevoeders:
 
-- 9. € 1.391,–
+   - 9. € 1.391,–
 
-- 10. onderzoek vervoedering bij landbouwhuisdieren:
+   - 10. onderzoek vervoedering bij landbouwhuisdieren:
 
-- a. onderzoek vervoedering bij kip: € 2.309,–
+      - a. onderzoek vervoedering bij kip: € 2.309,–
 
-- b. onderzoek vervoedering bij geit: € 2.309,–
+      - b. onderzoek vervoedering bij geit: € 2.309,–
 
-- c. onderzoek vervoedering bij koe: € 2.309,–
+      - c. onderzoek vervoedering bij koe: € 2.309,–
 
-- d. onderzoek vervoedering bij varken: € 2.309,–
+      - d. onderzoek vervoedering bij varken: € 2.309,–
 
-- e. onderzoek vervoedering bij overige landbouwhuisdieren: € 2.309,–
+      - e. onderzoek vervoedering bij overige landbouwhuisdieren: € 2.309,–
 
-- 11. blootstelling van werknemers: € 1.391,–
+   - 11. blootstelling van werknemers: € 1.391,–
 
-- 12. overige gegevens met betrekking tot residuen: € 1.391,–
+   - 12. overige gegevens met betrekking tot residuen: € 1.391,–
 
 - e. het gedrag van het middel onderscheidenlijk van de daarin voorkomende werkzame stof of stoffen en zijn omzettingsproducten in de grond:
 
-- 1. omzettingssnelheid en omzettingsroute in de bodem: € 4.623,–
+   - 1. omzettingssnelheid en omzettingsroute in de bodem: € 4.623,–
 
-- 2. adsorptie en desorptie in de bodem: € 2.309,–
+   - 2. adsorptie en desorptie in de bodem: € 2.309,–
 
-- 3. uitspoeling uit kolommen, kolomstudies met verouderd residu: € 2.309,–
+   - 3. uitspoeling uit kolommen, kolomstudies met verouderd residu: € 2.309,–
 
-- 4. lysimeteronderzoek: € 3.228,–
+   - 4. lysimeteronderzoek: € 3.228,–
 
-- 5. veldonderzoek naar uitspoeling: € 3.228,–;
+   - 5. veldonderzoek naar uitspoeling: € 3.228,–;
 
-- 6. onderzoek in de verzadigde zone: € 4.623,–
+   - 6. onderzoek in de verzadigde zone: € 4.623,–
 
-- 7. analysemethoden residuen bodem: €328,–
+   - 7. analysemethoden residuen bodem: €328,–
 
-- 8. aanvullende gegevens (bodem): kostprijs
+   - 8. aanvullende gegevens (bodem): kostprijs
 
 - f. het gedrag van het middel onderscheidenlijk van de daarin voorkomende werkzame stof of stoffen en zijn omzettingsproducten in water:
 
-- 1. omzetting in water
+   - 1. omzetting in water
 
-- a. bepaling ready biodegradability: € 330,–
+      - a. bepaling ready biodegradability: € 330,–
 
-- b. omzettingssnelheid en -route in water/sedimentsystemen: € 1.979,–
+      - b. omzettingssnelheid en -route in water/sedimentsystemen: € 1.979,–
 
-- 2. adsorptie aan slibdeeltjes: € 1.842,–
+   - 2. adsorptie aan slibdeeltjes: € 1.842,–
 
-- 3. fotochemische afbraak: € 1.391,–
+   - 3. fotochemische afbraak: € 1.391,–
 
-- 4. onderzoek naar de migratiesnelheid van de werkzame stof uit verflaag/hout naar water: € 579,–
+   - 4. onderzoek naar de migratiesnelheid van de werkzame stof uit verflaag/hout naar water: € 579,–
 
-- 5. onderzoek naar de migratiesnelheid van de werkzame stof uit hout naar de bodem: € 579,–
+   - 5. onderzoek naar de migratiesnelheid van de werkzame stof uit hout naar de bodem: € 579,–
 
-- 6. analyse methode water: € 328,–
+   - 6. analyse methode water: € 328,–
 
-- 7. aanvullend veldonderzoek: kostprijs
+   - 7. aanvullend veldonderzoek: kostprijs
 
 - g. het gedrag van het middel onderscheidenlijk van de daarin voorkomende werkzame stoffen en de omzettingsproducten in de lucht:
 
-- 1. gegevens naar de omzettingssnelheid en omzettingsroute in de lucht: € 2.309,–
+   - 1. gegevens naar de omzettingssnelheid en omzettingsroute in de lucht: € 2.309,–
 
-- 2. het effect van de biocide op de luchtkwaliteit: € 4.623,–
+   - 2. het effect van de biocide op de luchtkwaliteit: € 4.623,–
 
-- 3. analysemethoden residuen lucht: € 164,–
+   - 3. analysemethoden residuen lucht: € 164,–
 
 - h. het gedrag van het middel onderscheidenlijk van de daarin voorkomende werkzame stof of stoffen en zijn omzettingsproducten in de afvalfase:
 
-- 1. de verwijdering van de biocide en van materiaal dat daarmee behandeld is: € 3.228,–
+   - 1. de verwijdering van de biocide en van materiaal dat daarmee behandeld is: € 3.228,–
 
 - i. giftigheid voor in het milieu voorkomende organismen:
 
-- 1. effecten op vogels:
+   - 1. effecten op vogels:
 
-- a. acute orale toxiciteit voor vogels: € 462,–
+      - a. acute orale toxiciteit voor vogels: € 462,–
 
-- b. dieetonderzoek voor vogels: € 462,–
+      - b. dieetonderzoek voor vogels: € 462,–
 
-- c. subchronische en reproductietoxiciteit: € 1.284,–
+      - c. subchronische en reproductietoxiciteit: € 1.284,–
 
-- d. proeven onder veldomstandigheden: € 3.228,–
+      - d. proeven onder veldomstandigheden: € 3.228,–
 
-- 2. effecten op aquatische organismen:
+   - 2. effecten op aquatische organismen:
 
-- a. effecten op de groei van algen: € 462,–
+      - a. effecten op de groei van algen: € 462,–
 
-- b. acute toxiciteit ongewervelde aquatische organismen: € 462,–
+      - b. acute toxiciteit ongewervelde aquatische organismen: € 462,–
 
-- c. acute toxiciteit voor vissen: € 462,–
+      - c. acute toxiciteit voor vissen: € 462,–
 
-- d. chronische toxiciteit ongewervelde aquatische organismen: € 462,–
+      - d. chronische toxiciteit ongewervelde aquatische organismen: € 462,–
 
-- e. chronische toxiciteit voor vissen: € 462,–
+      - e. chronische toxiciteit voor vissen: € 462,–
 
-- f. bepaling effecten op sedimentorganismen: € 924,–
+      - f. bepaling effecten op sedimentorganismen: € 924,–
 
-- g. chronische toxiciteit sedimentorganismen: € 924,–
+      - g. chronische toxiciteit sedimentorganismen: € 924,–
 
-- h. microcosmos-/mesocosmosstudie: € 3.228,–
+      - h. microcosmos-/mesocosmosstudie: € 3.228,–
 
-- i. bioconcentratie bij vissen of gegevens over residuen in vissen € 924,–
+      - i. bioconcentratie bij vissen of gegevens over residuen in vissen € 924,–
 
-- 3. effecten op niet-doel micro-organismen in de bodem:
+   - 3. effecten op niet-doel micro-organismen in de bodem:
 
-- a. stikstofbinding en koolstofmineralisatie: € 462,–
+      - a. stikstofbinding en koolstofmineralisatie: € 462,–
 
-- b. veldstudies ten aanzien van effecten op niet-doel micro-organismen in de bodem: € 3.228,–
+      - b. veldstudies ten aanzien van effecten op niet-doel micro-organismen in de bodem: € 3.228,–
 
-- 4. effecten op regenwormen:
+   - 4. effecten op regenwormen:
 
-- a. acute toxiciteit regenwormen: € 462,–
+      - a. acute toxiciteit regenwormen: € 462,–
 
-- b. subletale effecten op regenwormen: € 462,–
+      - b. subletale effecten op regenwormen: € 462,–
 
-- c. veldstudies met regenwormen: € 3.228,–
+      - c. veldstudies met regenwormen: € 3.228,–
 
-- 5. invloed op biologische methoden voor zuivering afvalwater: € 924,–
+   - 5. invloed op biologische methoden voor zuivering afvalwater: € 924,–
 
-- 6. bepaling effecten van secundaire vergiftiging: € 2.309,–
+   - 6. bepaling effecten van secundaire vergiftiging: € 2.309,–
 
 - j. voor het afleiden van een Maximaal Toelaatbaar Risico (MTR) zijn de volgende bedragen verschuldigd:
 
-- 1. voor het samenvatten en evalueren van gegevens over relevante proeven op laboratoriumschaal met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 462,–
+   - 1. voor het samenvatten en evalueren van gegevens over relevante proeven op laboratoriumschaal met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 462,–
 
-- 2. voor het samenvatten en evalueren van gegevens over relevante proeven onder semi-veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 2.309,–
+   - 2. voor het samenvatten en evalueren van gegevens over relevante proeven onder semi-veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 2.309,–
 
-- 3. voor het samenvatten en evalueren van gegevens over relevante proeven onder veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 3.228,–
+   - 3. voor het samenvatten en evalueren van gegevens over relevante proeven onder veldomstandigheden met het middel onderscheidenlijk met elk van de daarin voorkomende werkzame stoffen en omzettingsproducten geldt per studie: € 3.228,–
 
-- 4. voor het evalueren van relevante gegevens uit de openbare literatuur over het middel onderscheidenlijk voer elk van de daarin voorkomende werkzame stoffen en omzettingsproducten: € 1.200,–
+   - 4. voor het evalueren van relevante gegevens uit de openbare literatuur over het middel onderscheidenlijk voer elk van de daarin voorkomende werkzame stoffen en omzettingsproducten: € 1.200,–
 
-- 5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–
+   - 5. voor het afleiden van een MTR voor de werkzame stof onderscheidenlijk de omzettingsproducten: € 1.200,–
 
 #### § 3. Beoordelen
 
@@ -975,11 +949,11 @@ Voor de beoordeling van de navolgende aspecten en criteria in het kader van een 
 
 - f. het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–.
 
-#### § 4. Plaatsing werkzame stof op Bijlage I [Richtlijn 98/8/EG](31998L0008)
+#### § 4. Plaatsing werkzame stof op Bijlage I Richtlijn 98/8/EG
 
 ##### Artikel 16. aanvraag
 
-Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I van [Richtlijn 98/8/EG](31998L0008) is het volgende bedrag verschuldigd: € 11.165,–.
+Voor het in behandeling nemen van een aanvraag tot plaatsing van een (nieuwe) werkzame stof op Bijlage I van Richtlijn 98/8/EG is het volgende bedrag verschuldigd: € 11.165,–.
 
 ##### Artikel 17. samenvatten en beoordelen
 
@@ -1007,7 +981,7 @@ Voor de indiening van een aanvraag voor een vrijstelling of ontheffing ten behoe
 
 - b. in overige gevallen een bedrag van € 157,–.
 
-### Hoofdstuk 4. Bijzondere procedures voor aanvragen inzake nog niet in bijlage I bij [Richtlijn 91/414/EEG](31991L0414) en bijlagen I, IA of IB bij [Richtlijn 98/8/EG](31998L0008) opgenomen werkzame stoffen
+### Hoofdstuk 4. Bijzondere procedures voor aanvragen inzake nog niet in bijlage I bij Richtlijn 91/414/EEG en bijlagen I, IA of IB bij Richtlijn 98/8/EG opgenomen werkzame stoffen
 
 #### § 1. Toepassingsbereik
 
@@ -1041,25 +1015,25 @@ Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedo
 
 - a. volksgezondheid
 
-- 1. indien gegevens beschikbaar zijn: € 738,–
+   - 1. indien gegevens beschikbaar zijn: € 738,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 1.066,–
+   - 2. indien gegevens niet beschikbaar zijn: € 1.066,–
 
 - b. toxicologie:
 
-- 1. indien gegevens beschikbaar zijn: € 738,–
+   - 1. indien gegevens beschikbaar zijn: € 738,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 1.066,–
+   - 2. indien gegevens niet beschikbaar zijn: € 1.066,–
 
 - c. milieu:
 
-- 1. indien gegevens beschikbaar zijn: € 656,–
+   - 1. indien gegevens beschikbaar zijn: € 656,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 1.066,–
+   - 2. indien gegevens niet beschikbaar zijn: € 1.066,–
 
 - d. werkzaamheid:
 
-- 1. Etikettering: € 492,–
+   - 1. Etikettering: € 492,–
 
 - e. Het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–
 
@@ -1067,25 +1041,25 @@ Dit hoofdstuk heeft betrekking op gewasbeschermingsmiddelen en biociden als bedo
 
 - a. volksgezondheid
 
-- 1. indien gegevens beschikbaar zijn: € 164,–
+   - 1. indien gegevens beschikbaar zijn: € 164,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 164,–-
+   - 2. indien gegevens niet beschikbaar zijn: € 164,–-
 
 - b. toxicologie:
 
-- 1. indien gegevens beschikbaar zijn: € 738,–
+   - 1. indien gegevens beschikbaar zijn: € 738,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 1.066,–
+   - 2. indien gegevens niet beschikbaar zijn: € 1.066,–
 
 - c. milieu:
 
-- 1. indien gegevens beschikbaar zijn: € 656,–
+   - 1. indien gegevens beschikbaar zijn: € 656,–
 
-- 2. indien gegevens niet beschikbaar zijn: € 1.066,–
+   - 2. indien gegevens niet beschikbaar zijn: € 1.066,–
 
 - d. werkzaamheid:
 
-- 1. Etikettering: € 492,–
+   - 1. Etikettering: € 492,–
 
 - e. Het eindoordeel over de toelaatbaarheidsaspecten: € 1.066,–
 
@@ -1109,33 +1083,33 @@ Voor de indiening van een aanvraag als bedoeld in [artikel 125 van de wet](https
 
 - 2. Werkzaamheid:
 
-- a. effectiviteit: € 82,–
+   - a. effectiviteit: € 82,–
 
-- b. schadelijke nevenwerkingen: € 41,–
+   - b. schadelijke nevenwerkingen: € 41,–
 
-- c. resistentie: € 41,–
+   - c. resistentie: € 41,–
 
 - 3. Humane toxicologische/toepasser&werker: € 82,–
 
 - 4. Milieu:
 
-- a. persistentie: € 41,–
+   - a. persistentie: € 41,–
 
-- b. uitspoeling: € 41,–
+   - b. uitspoeling: € 41,–
 
-- c. vogels/zoogdieren: € 41,–
+   - c. vogels/zoogdieren: € 41,–
 
-- d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–
+   - d. waterorganismen (incl. sedimentorganismen + bioaccumulatie): € 41,–
 
-- e. bijen/hommels: € 41,–
+   - e. bijen/hommels: € 41,–
 
-- f. niet-doelwit arthropoden: € 41,–
+   - f. niet-doelwit arthropoden: € 41,–
 
-- g. regenwormen: € 41,–
+   - g. regenwormen: € 41,–
 
-- h. bodem micro-organismen: € 41,–
+   - h. bodem micro-organismen: € 41,–
 
-- i. emissie naar RWZI: € 41,–
+   - i. emissie naar RWZI: € 41,–
 
 - 5. Volksgezondheid: € 82,–
 
@@ -1203,12 +1177,10 @@ Voor het op verzoek verstrekken van een verklaring ten behoeve van de export van
 
 1. Dit besluit treedt, na goedkeuring door Onze Minister, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
 
-2. In afwijking van het eerste lid treden [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=9&z=2007-12-08&g=2007-12-08) en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=10&z=2007-12-08&g=2007-12-08) in werking met ingang van de eerste dag na de kalendermaand waarin het besluit van de Europese Commissie houdende bepalingen voor de uitvoering van de vierde fase van het werkprogramma als bedoeld in artikel 8, tweede lid, [Richtlijn 91/414/EEG](31991L0414) is gepubliceerd in het Publicatieblad van de Europese Gemeenschappen.
+2. In afwijking van het eerste lid treden [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=9&z=2007-12-08&g=2007-12-08) en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022971&hoofdstuk=2&paragraaf=4&artikel=10&z=2007-12-08&g=2007-12-08) in werking met ingang van de eerste dag na de kalendermaand waarin het besluit van de Europese Commissie houdende bepalingen voor de uitvoering van de vierde fase van het werkprogramma als bedoeld in artikel 8, tweede lid, Richtlijn 91/414/EEG is gepubliceerd in het Publicatieblad van de Europese Gemeenschappen.
 
 3. Het [Tarievenbesluit CTB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020884) wordt ingetrokken.
 
 ##### Artikel 38. citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Tarieven Ctgb 2007.
-
-Vastgesteld in de vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden op d.d. 10 oktober 2007 (C-186).

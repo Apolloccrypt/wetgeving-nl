@@ -1,43 +1,17 @@
 ---
 title: "Besluit instelling Commissie evaluatie stelsel van speciale eenheden"
 identifier: "BWBR0023496"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-23"
-last_updated: "2008-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023496"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9422043"
-version_id: "15168202"
-internal_id: "C29390331"
-label_id: "9399574"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023496/2008-02-23/0"
-intitule_bron: "Stcrt.2008-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-05"
-intitule_published: "2008-02-21"
-intitule_in_force: "2008-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-37"
-original_signed_date: "2008-02-05"
-original_published_date: "2008-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-37-p21-SC84573"
-entry_into_force_date: "2008-02-23"
-jci_1_3: "jci1.3:c:BWBR0023496&z=2008-02-23&g=2008-02-23"
-jci_1_0: "1.0:c:BWBR0023496&g=2008-02-23"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-05"
-entry_into_force: "2008-02-23"
+publicatiedatum: 2008-02-23
+laatste_update: 2008-02-23
+status: geldig
+toestand: 2008-02-23
+bron: "https://wetten.overheid.nl/BWBR0023496"
+opgehaald: 2026-08-12
 ---
+
 # Besluit instelling Commissie evaluatie stelsel van speciale eenheden
-
-In overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -2,17 +2,16 @@
 title: "Deelregeling internationaliseringssubsidies Fonds Podiumkunsten"
 identifier: "BWBR0030540"
 categorie: "Overig"
-publicatiedatum: 2026-06-01
-laatste_update: 2026-06-01
+soort: "zbo"
+publicatiedatum: 2012-01-01
+laatste_update: 2026-08-07
 status: geldig
+toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0030540"
+opgehaald: 2026-08-12
 ---
 
 # Deelregeling internationaliseringssubsidies Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 3 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=3);
-
-Besluit:
 
 #### Paragraaf 1. : Algemeen
 
@@ -20,23 +19,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **festival:** reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijk noemer worden georganiseerd;
+- *festival:* reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijk noemer worden georganiseerd;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **groep:** een samenwerkingsverband van podiumkunstenaars dat regelmatig in vaste samenstelling onder een vaste naam voorstellingen of concerten verzorgt;
+- *groep:* een samenwerkingsverband van podiumkunstenaars dat regelmatig in vaste samenstelling onder een vaste naam voorstellingen of concerten verzorgt;
 
-- **Nederland:** Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **Europees Nederland:** Het Europese deel van het Koninkrijk der Nederlanden;
+- *Europees Nederland:* Het Europese deel van het Koninkrijk der Nederlanden;
 
-- **Caribisch deel van het Koninkrijk der Nederlanden:** Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Caribisch deel van het Koninkrijk der Nederlanden:* Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **performer:** een podiumkunstenaar die regelmatig onder een vaste naam voorstellingen of concerten verzorgt;
+- *performer:* een podiumkunstenaar die regelmatig onder een vaste naam voorstellingen of concerten verzorgt;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
 
 ##### Artikel 1.2. Subsidievormen
 
@@ -68,7 +67,7 @@ Een aanvrager kan nooit voor dezelfde activiteit meerdere subsidies ontvangen op
 
 1. Het bestuur kan advies vragen over ingediende aanvragen om subsidie. Adviseurs beoordelen de aan hen voorgelegde aanvragen en verzoeken met inachtneming van het bepaalde in deze regeling.
 
-2. Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies van een door het bestuur ingestelde adviescommissie wordt de tekst van het advies aan de aanvrager toegezonden.
+2. Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies van een door het bestuur ingestelde adviescommissie wordt de tekst van het advies aan de aanvrager toegezonden.
 
 ##### Artikel 1.6. Subsidieplafond
 
@@ -80,7 +79,7 @@ Een aanvrager kan nooit voor dezelfde activiteit meerdere subsidies ontvangen op
 
 ##### Artikel 1.7. Verdeling budget
 
-1. Aanvragen met een eindscore van 5 punten of meer komen in aanmerking voor honorering.
+1. Aanvragen met een eindscore van 5 punten of meer komen in aanmerking voor honorering.
 
 2. Indien een subsidieplafond ontoereikend is om alle aanvragen te honoreren die daarvoor in aanmerking komen, worden de aanvragen in een rangorde geplaatst op basis van het totaal behaalde aantal punten. De aanvraag die de meeste punten scoort wordt als eerste gehonoreerd. Telkens wordt de daaropvolgende aanvraag die de meeste punten scoort als eerste gehonoreerd.
 
@@ -88,27 +87,29 @@ Een aanvrager kan nooit voor dezelfde activiteit meerdere subsidies ontvangen op
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidiebedrag van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was gehonoreerd alsnog verhoogd tot het geadviseerde subsidiebedrag.
 
-5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de paragraaf 5, waarvoor geldt dat de subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag.
+5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de paragraaf 5, waarvoor geldt dat de subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag.
 
 ##### Artikel 1.8. Algemene weigeringsgronden
 
-1. Het bestuur weigert, onverminderd het bepaalde in artikel 4:35 van de Algemene wet bestuursrecht, de subsidie:
+1. Het bestuur weigert, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), de subsidie:
 
-- a. als de aanvrager geen rechtspersoon zonder winstoogmerk is;
+- a. als de aanvraag betrekking heeft op een subsidie als bedoeld in [artikel 1.2, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=1&artikel=1.2&z=2026-08-07&g=2026-08-07), en de aanvrager niet een rechtspersoon zonder winstoogmerk is;
 
-- b. als de aanvrager een meerjarige subsidie van Fonds Podiumkunsten ontvangt en de activiteiten waarop de aanvraag betrekking heeft naar het oordeel van het bestuur al door die subsidie ondersteund worden;
+- b. als de aanvraag betrekking heeft op een subsidie als bedoeld in [artikel 1.2, onderdeel b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=1&artikel=1.2&z=2026-08-07&g=2026-08-07), en de aanvrager niet een rechtspersoon is;
 
-- c. als de aanvraag betrekking heeft op activiteiten waarvoor eerder door het bestuur een subsidie is geweigerd, onder verwijzing naar een advies van een adviescommissie;
+- c. als de aanvrager een meerjarige subsidie van Fonds Podiumkunsten ontvangt en de activiteiten waarop de aanvraag betrekking heeft naar het oordeel van het bestuur al door die subsidie ondersteund worden;
 
-- d. als de aanvraag betrekking heeft op activiteiten waarvoor al eerder op basis van onderhavige of een andere regeling van Fonds Podiumkunsten subsidie is verstrekt;
+- d. als de aanvraag betrekking heeft op activiteiten waarvoor eerder door het bestuur een subsidie is geweigerd, onder verwijzing naar een advies van een adviescommissie;
 
-- e. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
+- e. als de aanvraag betrekking heeft op activiteiten waarvoor al eerder op basis van onderhavige of een andere regeling van Fonds Podiumkunsten subsidie is verstrekt;
 
-- f. als de aanvraag betrekking heeft op een al geheel of gedeeltelijk voltooide activiteit;
+- f. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
 
-- g. als de aanvraag niet aan het bepaalde in deze regeling voldoet;
+- g. als de aanvraag betrekking heeft op een al geheel of gedeeltelijk voltooide activiteit;
 
-- h. als de aanvraag niet tijdig is ontvangen, tenzij de aanvraag betrekking heeft op een subsidie als bedoeld in artikel 1.2, onder d.
+- h. als de aanvraag niet aan het bepaalde in deze regeling voldoet;
+
+- i. als de aanvraag niet tijdig is ontvangen, tenzij de aanvraag betrekking heeft op een subsidie als bedoeld in [artikel 1.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=1&artikel=1.2&z=2026-08-07&g=2026-08-07).
 
 2. Het bestuur kan de subsidie weigeren:
 
@@ -136,7 +137,7 @@ Een aanvraag kan worden gedaan voor het programmeren van een of meer voorstellin
 
 1. Subsidie kan worden verstrekt als de aanvraag betrekking heeft op voorstellingen of concerten van podiumkunstenaars die primair vanuit Nederland werken en de betreffende activiteiten ook in Nederland zijn of zullen worden gepresenteerd.
 
-2. Subsidie wordt niet verstrekt als de eerste uitvoering waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
+2. Subsidie wordt niet verstrekt als de eerste uitvoering waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
 ##### Artikel 2.5. Beoordeling
 
@@ -170,15 +171,15 @@ Subsidie kan uitsluitend worden aangevraagd door een organisatie die artistiek e
 
 1. Een aanvraag heeft betrekking op het programmeren van een of meer bijzondere voorstellingen of concerten van een buiten Nederland gevestigde organisatie.
 
-2. In afwijking van hetgeen is bepaald in lid 1, kan een aanvraag betrekking hebben op het programmeren van een of meer bijzondere voorstellingen of concerten van een organisatie die gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden wanneer de aanvrager gevestigd is in Europees Nederland.
+2. In afwijking van hetgeen is bepaald in lid 1, kan een aanvraag betrekking hebben op het programmeren van een of meer bijzondere voorstellingen of concerten van een organisatie die gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden wanneer de aanvrager gevestigd is in Europees Nederland.
 
-3. In afwijking van hetgeen is bepaald in lid 1, kan een aanvraag betrekking hebben op het programmeren van een of meer bijzondere voorstellingen of concerten van een organisatie die gevestigd is in Europees Nederland wanneer de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden.
+3. In afwijking van hetgeen is bepaald in lid 1, kan een aanvraag betrekking hebben op het programmeren van een of meer bijzondere voorstellingen of concerten van een organisatie die gevestigd is in Europees Nederland wanneer de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden.
 
 ##### Artikel 3.4. Vereisten
 
 1. Als de aanvrager reeds subsidie ontvangt van het Fonds Podiumkunsten op basis van de Podiumregeling, de Deelregeling Programma en Presentatiebijdrage of de Deelregeling programmeringssubsidies Fonds Podiumkunsten dient de aanvrager aan te tonen dat voorstellingen of concerten waarvoor subsidie wordt aangevraagd zich onderscheiden van zijn reguliere programmering.
 
-2. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
+2. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
 3. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
 
@@ -222,7 +223,7 @@ Een aanvraag heeft betrekking op een project waarbij sprake is van een professio
 
 3. Subsidie is alleen mogelijk voor zover de resultaten daarvan direct of indirect ten goede komen aan de podiumkunstpraktijk in Nederland.
 
-4. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
+4. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor de subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
 5. Subsidie wordt niet verstrekt als de gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
 
@@ -316,6 +317,10 @@ Subsidie voor het geven van voorstellingen of concerten kan worden verstrekt als
 
 - c. plaatsvinden op podia of festivals die, naar het oordeel van het bestuur, een relevante programmering verzorgen gezien de context waarbinnen zij functioneren.
 
+##### Artikel 5.6. Hoogte subsidie
+
+Een subsidie voor het geven van voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten voor de voor subsidie in aanmerking komende voorstellingen of concerten met een maximum van € 6.000 voor voorstellingen of concerten binnen Europa of binnen het Caribisch deel van het Koninkrijk der Nederlanden en € 10.000 voor voorstellingen of concerten buiten Europa of buiten het Caribisch deel van het Koninkrijk der Nederlanden.
+
 #### Paragraaf 6. : Overige bepalingen
 
 ##### Artikel 6.1. Aan het subsidie verbonden verplichtingen
@@ -334,7 +339,7 @@ Subsidie voor het geven van voorstellingen of concerten kan worden verstrekt als
 
 ##### Artikel 6.2. Verantwoording bij subsidies tot € 25.000
 
-1. Als de verstrekte subsidie kleiner is dan € 25.000, kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van de subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+1. Als de verstrekte subsidie kleiner is dan € 25.000, kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van de subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 2. Als de ontvanger van de subsidie niet kan aantonen dat de activiteiten waarvoor subsidie is verstrekt volgens plan hebben plaatsgevonden, kan het bestuur de subsidie lager vaststellen of intrekken.
 
@@ -344,9 +349,9 @@ Subsidie voor het geven van voorstellingen of concerten kan worden verstrekt als
 
 ##### Artikel 6.3. Verantwoording bij subsidies van € 25.000 en groter
 
-1. Als de verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van de subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+1. Als de verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van de subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
-2. Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van de subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+2. Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van de subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 ##### Artikel 6.4. Begrotingsvoorbehoud
 
@@ -373,13 +378,3 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 ##### Artikel 6.7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling internationaliseringssubsidies Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 5.6. Hoogte subsidie
-
-Een subsidie voor het geven van voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten voor de voor subsidie in aanmerking komende voorstellingen of concerten met een maximum van € 6.000 voor voorstellingen of concerten binnen Europa of binnen het Caribisch deel van het Koninkrijk der Nederlanden en € 10.000 voor voorstellingen of concerten buiten Europa of buiten het Caribisch deel van het Koninkrijk der Nederlanden.
-
-#### Paragraaf 6. : Overige bepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.

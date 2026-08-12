@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 25 maart 2008 houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2008)"
+citeertitel: "Verordening PT vakheffing boomkwekerijproducten 2008"
 identifier: "BWBR0024349"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-07-20"
-last_updated: "2008-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024349"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9694063"
-version_id: "15664152"
-internal_id: "C21390441"
-label_id: "9671114"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024349/2008-07-20/0"
-intitule_bron: "Vbbo.2008-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-25"
-intitule_published: "2008-07-18"
-intitule_in_force: "2008-07-18"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-58"
-original_signed_date: "2008-03-25"
-original_published_date: "2008-07-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-07-20"
-jci_1_3: "jci1.3:c:BWBR0024349&z=2008-07-20&g=2008-07-20"
-jci_1_0: "1.0:c:BWBR0024349&g=2008-07-20"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing boomkwekerijproducten 2008"
-signed_date: "2008-03-25"
-entry_into_force: "2008-07-20"
+publicatiedatum: 2008-07-20
+laatste_update: 2008-07-20
+status: geldig
+toestand: 2008-07-20
+bron: "https://wetten.overheid.nl/BWBR0024349"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 25 maart 2008 houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2008)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor boomkwekerijproducten, d.d. 7 februari 2008;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -67,9 +38,9 @@ Besluit:
 
 - g. heffingsgrondslag: het verschil tussen het verkoopbedrag van de in 2008 verhandelde en afgeleverde boomkwekerijproducten, verminderd met het inkoopbedrag van de in 2008 ingekochte boomkwekerijproducten. Op dit verschil kunnen in mindering worden gebracht:
 
-- 1. de vrachtkosten
+   - 1. de vrachtkosten
 
-- 2. de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie;
+   - 2. de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie;
 
 - h. jaarmutatie: jaarmutatie consumentenprijsindices alle huishoudens in de maand januari 2007.
 
@@ -120,5 +91,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing boomkwekerijproducten 2008.
-
-De verordening en de daarbij horende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

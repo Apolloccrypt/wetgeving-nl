@@ -1,44 +1,18 @@
 ---
 title: "Tijdelijke regeling van de Staatssecretaris van Justitie van 29 februari 2008, nr. 5532992/08/DJI, houdende de instelling van de adviescommissie individuele trajectafdelingen (Tijdelijke regeling adviescommissie individuele trajectafdelingen)"
+citeertitel: "Tijdelijke regeling adviescommissie individuele trajectafdelingen"
 identifier: "BWBR0023593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-04"
-last_updated: "2010-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023593"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9444583"
-version_id: "15207322"
-internal_id: "C29396371"
-label_id: "9422114"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023593/2010-03-04/0"
-intitule_bron: "Stcrt.2008-47"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-29"
-intitule_published: "2008-03-06"
-intitule_in_force: "2008-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-47"
-original_signed_date: "2008-02-29"
-original_published_date: "2008-03-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-47-p14-SC84829"
-entry_into_force_date: "2008-03-08"
-jci_1_3: "jci1.3:c:BWBR0023593&z=2010-03-04&g=2010-03-04"
-jci_1_0: "1.0:c:BWBR0023593&g=2010-03-04"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling adviescommissie individuele trajectafdelingen"
-signed_date: "2008-02-29"
-entry_into_force: "2008-03-08"
+publicatiedatum: 2008-03-08
+laatste_update: 2010-03-04
+status: geldig
+toestand: 2010-03-04
+bron: "https://wetten.overheid.nl/BWBR0023593"
+opgehaald: 2026-08-12
 ---
+
 # Tijdelijke regeling van de Staatssecretaris van Justitie van 29 februari 2008, nr. 5532992/08/DJI, houdende de instelling van de adviescommissie individuele trajectafdelingen (Tijdelijke regeling adviescommissie individuele trajectafdelingen)
-
-Gelet op [artikel 16, zevende lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=16);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -141,5 +115,3 @@ Tijdelijke regeling adviescommissie individuele trajectafdelingen
 1. Dit besluit vervalt, indien het bij koninklijke boodschap van 7 april 2009 ingediende voorstel van wet tot Wijziging van de Beginselenwet justitiële jeugdinrichtingen, het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten, in verband met de aanpassing van de tenuitvoerlegging van vrijheidsbenemende jeugdsancties (31 915), tot wet is of wordt verheven, op het tijdstip waarop artikel I, onderdeel Sa, van die wet in werking treedt.
 
 2. Indien het in het eerste lid genoemde voorstel van wet wordt ingetrokken of indien één van de Kamers van de Staten-Generaal tot het niet aannemen van het voorstel besluit, vervalt dit besluit op een door de Minister van Justitie te bepalen tijdstip.
-
-Deze tijdelijke regeling zal met toelichting in de Staatscourant worden geplaatst.

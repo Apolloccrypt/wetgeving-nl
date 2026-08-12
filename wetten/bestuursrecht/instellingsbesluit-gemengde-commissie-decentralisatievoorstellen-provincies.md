@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Gemengde commissie decentralisatievoorstellen provincies"
 identifier: "BWBR0022966"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-12-08"
-last_updated: "2007-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022966"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9306063"
-version_id: "14944082"
-internal_id: "C20332661"
-label_id: "9284564"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022966/2007-12-08/0"
-intitule_bron: "Stcrt.2007-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-27"
-intitule_published: "2007-12-06"
-intitule_in_force: "2007-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-237"
-original_signed_date: "2007-11-27"
-original_published_date: "2007-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-237-p7-SC83293"
-entry_into_force_date: "2007-12-08"
-jci_1_3: "jci1.3:c:BWBR0022966&z=2007-12-08&g=2007-12-08"
-jci_1_0: "1.0:c:BWBR0022966&g=2007-12-08"
-citeertitel_status: "officieel"
-signed_date: "2007-11-27"
-entry_into_force: "2007-12-08"
+publicatiedatum: 2007-12-08
+laatste_update: 2007-12-08
+status: geldig
+toestand: 2007-12-08
+bron: "https://wetten.overheid.nl/BWBR0022966"
+opgehaald: 2026-08-12
 ---
+
 # Instellingsbesluit Gemengde commissie decentralisatievoorstellen provincies
-
-Handelend in overeenstemming met het gevoelen van de Ministerraad en het Interprovinciaal Overleg (IPO);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -69,15 +43,15 @@ Er is een Gemengde commissie decentralisatievoorstellen provincies.
 
 1. De commissie bestaat uit de volgende leden:
 
-- –. mw. Mr. P.Ch. Lodders-Elfferich (voorzitter)
+- – mw. Mr. P.Ch. Lodders-Elfferich (voorzitter)
 
-- –. dhr. J.G.M. Alders
+- – dhr. J.G.M. Alders
 
-- –. dhr. prof.dr. A.N. van der Zande
+- – dhr. prof.dr. A.N. van der Zande
 
-- –. dhr. drs. G. Beukema
+- – dhr. drs. G. Beukema
 
-- –. mw. drs. A.C. van Es (secretaris)
+- – mw. drs. A.C. van Es (secretaris)
 
 2. De Minister benoemt en ontslaat de voorzitter en leden van de commissie.
 
@@ -100,5 +74,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Gemengde commissie decentralisatievoorstellen provincies.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

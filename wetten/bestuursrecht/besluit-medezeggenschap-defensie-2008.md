@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 juli 2008, houdende regels voor de medezeggenschap van het defensiepersoneel (Besluit medezeggenschap Defensie 2008)"
+citeertitel: "Besluit medezeggenschap Defensie 2008"
 identifier: "BWBR0024317"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024317"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9687993"
-version_id: "15653642"
-internal_id: "C21370921"
-label_id: "9665414"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024317/2020-01-01/0"
-intitule_bron: "Stb.2008-321"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-05"
-intitule_published: "2008-08-05"
-intitule_in_force: "2008-08-05"
-intitule_status: "goed"
-original_publication: "Stb.2008-321"
-original_signed_date: "2008-07-05"
-original_published_date: "2008-08-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-321"
-entry_into_force_date: "2008-09-01"
-jci_1_3: "jci1.3:c:BWBR0024317&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0024317&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit medezeggenschap Defensie 2008"
-signed_date: "2008-07-05"
-entry_into_force: "2008-09-01"
+publicatiedatum: 2008-09-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0024317"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 5 juli 2008, houdende regels voor de medezeggenschap van het defensiepersoneel (Besluit medezeggenschap Defensie 2008)
-
-Op de voordracht van de Staatssecretaris van Defensie van 17 maart 2008, nr. P/2008006246;
-
-Gelet op [artikel 125, eerste lid, onder i, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [artikel 12, onder l, van de Militaire Ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12);
-
-De Raad van State gehoord (advies van 24 april 2008, nr. WO7.08.0100/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 25 juni 2008, nr. P/2008012640;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -58,25 +26,25 @@ Hebben goedgevonden en verstaan:
 
 - c. werknemer:
 
-- 1°. de militair in werkelijke dienst, bedoeld in [artikel 1, eerste lid, onder c, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1),
+   - 1°. de militair in werkelijke dienst, bedoeld in [artikel 1, eerste lid, onder c, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1),
 
-- 2°. de ambtenaar, bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1),
+   - 2°. de ambtenaar, bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1),
 
-- 3°. degene die in het kader van de werkzaamheden van de diensteenheid daarin ten minste 24 maanden werkzaam is op grond van detachering of een uitzendovereenkomst als bedoeld in [artikel 690 van boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690).
+   - 3°. degene die in het kader van de werkzaamheden van de diensteenheid daarin ten minste 24 maanden werkzaam is op grond van detachering of een uitzendovereenkomst als bedoeld in [artikel 690 van boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690).
 
-- d. **defensieonderdeel**: de Bestuursstaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, de Koninklijke Marechaussee, het Commando DienstenCentra onderscheidenlijk de Defensie Materieelorganisatie;
+- d. *defensieonderdeel*: de Bestuursstaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, de Koninklijke Marechaussee, het Commando DienstenCentra onderscheidenlijk de Defensie Materieelorganisatie;
 
-- e. **hoofd defensieonderdeel**: de plaatsvervangend secretaris-generaal voor de bestuursstaf van het ministerie van Defensie, de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, de Commandant van het Commando DienstenCentra onderscheidenlijk de Directeur van de Defensie Materieelorganisatie voor dat gedeelte dat geen deel uitmaakt van de bestuursstaf;
+- e. *hoofd defensieonderdeel*: de plaatsvervangend secretaris-generaal voor de bestuursstaf van het ministerie van Defensie, de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Koninklijke Marechaussee, de Commandant van het Commando DienstenCentra onderscheidenlijk de Directeur van de Defensie Materieelorganisatie voor dat gedeelte dat geen deel uitmaakt van de bestuursstaf;
 
-- f. **diensteenheid:** een schip, een inrichting der zeemacht, een bataljon of eenheid van overeenkomstig niveau, een eenheid of groep eenheden bij het korps mariniers ter grootte van een bataljon of van een overeenkomstig niveau, een vliegbasis of een overeenkomstig onderdeel, een district of een eenheid van een overeenkomstig niveau dan wel een met een eigen taak bedeeld administratief of organisatorisch zelfstandig onderdeel van het ministerie van Defensie onderscheidenlijk een onderdeel van een bondgenootschappelijk orgaan of bondgenootschappelijke strijdkrachten in Nederland of door Onze Minister aan te wijzen nationale of internationale overheidsdiensten waar werknemers in de zin van dit besluit werkzaam zijn;
+- f. *diensteenheid:* een schip, een inrichting der zeemacht, een bataljon of eenheid van overeenkomstig niveau, een eenheid of groep eenheden bij het korps mariniers ter grootte van een bataljon of van een overeenkomstig niveau, een vliegbasis of een overeenkomstig onderdeel, een district of een eenheid van een overeenkomstig niveau dan wel een met een eigen taak bedeeld administratief of organisatorisch zelfstandig onderdeel van het ministerie van Defensie onderscheidenlijk een onderdeel van een bondgenootschappelijk orgaan of bondgenootschappelijke strijdkrachten in Nederland of door Onze Minister aan te wijzen nationale of internationale overheidsdiensten waar werknemers in de zin van dit besluit werkzaam zijn;
 
-- g. **sectorcommissie Defensie:** de commissie, bedoeld in [artikel 2 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=2);
+- g. *sectorcommissie Defensie:* de commissie, bedoeld in [artikel 2 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=2);
 
-- h. **college voor geschillen:** het college, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=33&z=2020-01-01&g=2020-01-01);
+- h. *college voor geschillen:* het college, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024317&hoofdstuk=6&artikel=33&z=2020-01-01&g=2020-01-01);
 
-- i. **centrale:** een centrale van verenigingen van ambtenaren als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=4);
+- i. *centrale:* een centrale van verenigingen van ambtenaren als bedoeld in [artikel 4 van het Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042&artikel=4);
 
-- j. **ambtelijk secretaris:** een van buiten de medezeggenschapscommissie te benoemen functionaris ter ondersteuning van het secretariaat van de medezeggenschapscommissie.
+- j. *ambtelijk secretaris:* een van buiten de medezeggenschapscommissie te benoemen functionaris ter ondersteuning van het secretariaat van de medezeggenschapscommissie.
 
 2. Voor de toepassing van dit besluit wordt de bestuursstaf geacht te bestaan uit de diensteenheden genoemd in [artikel 2, eerste lid, onderdelen a tot en met f, van het Algemeen organisatiebesluit Defensie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017799&artikel=2), alsmede de staf van de Defensie Materieelorganisatie.
 
@@ -510,6 +478,10 @@ Een voorgenomen maatregel als bedoeld in [artikel 29, eerste lid](https://wetten
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
+##### Artikel 37a
+
+Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
+
 ##### Artikel 38. Intrekking
 
 Het [Besluit medezeggenschap Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010617) wordt ingetrokken.
@@ -521,11 +493,3 @@ Dit besluit treedt in werking met ingang van 1 september 2008.
 ##### Artikel 40. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit medezeggenschap Defensie 2008.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 37a
-
-Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

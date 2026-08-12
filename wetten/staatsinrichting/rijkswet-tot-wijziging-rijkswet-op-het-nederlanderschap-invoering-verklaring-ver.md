@@ -1,49 +1,22 @@
 ---
 title: "Rijkswet van 27 juni 2008 tot wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning"
+citeertitel: "Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning)"
 identifier: "BWBR0024168"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2009-03-01"
-last_updated: "2009-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024168"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "9649543"
-version_id: "15568362"
-internal_id: "C22058701"
-label_id: "9626594"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024168/2009-03-01/0"
-intitule_bron: "Stb.2008-270"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-27"
-intitule_published: "2008-07-15"
-intitule_in_force: "2009-01-13"
-intitule_status: "goed"
-original_publication: "Stb.2008-270"
-original_signed_date: "2008-06-27"
-original_published_date: "2008-07-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "30584"
-original_url_id: "stb-2008-270"
-entry_into_force_date: "2009-03-01"
-jci_1_3: "jci1.3:c:BWBR0024168&z=2009-03-01&g=2009-03-01"
-jci_1_0: "1.0:c:BWBR0024168&g=2009-03-01"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning)"
-signed_date: "2008-06-27"
-entry_into_force: "2009-03-01"
+publicatiedatum: 2009-03-01
+laatste_update: 2009-03-01
+status: geldig
+toestand: 2009-03-01
+bron: "https://wetten.overheid.nl/BWBR0024168"
+opgehaald: 2026-08-12
 ---
+
 # Rijkswet van 27 juni 2008 tot wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) te wijzigen teneinde een verklaring van verbondenheid onderdeel te laten zijn van de verkrijging van het Nederlanderschap anders dan van rechtswege en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Rijkswet op het Nederlanderschap.
+*Wijzigt de Rijkswet op het Nederlanderschap.*
 
 ##### Artikel II
 
@@ -63,9 +36,9 @@ Wijzigt de Rijkswet op het Nederlanderschap.
 
 ##### Artikel IIa
 
-1. Wijzigt de Wet conflictenrecht namen.
+1. *Wijzigt de Wet conflictenrecht namen.*
 
-2. Wijzigt het Burgerlijk Wetboek Boek 1.
+2. *Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel IIb
 
@@ -78,5 +51,3 @@ De in [artikel I, onderdelen A en C tot en met J](https://wetten.overheid.nl/jci
 ##### Artikel IV
 
 Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

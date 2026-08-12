@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2010 (1602), houdende regels in verband met de erkenning van EG-beroepskwalificaties van onderwijspersoneel (Regeling erkenning EG-beroepskwalificaties onderwijspersoneel)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties onderwijspersoneel"
 identifier: "BWBR0023393"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023393"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "9403223"
-version_id: "15136752"
-internal_id: "C20637281"
-label_id: "9380764"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023393/2022-08-01/0"
-intitule_bron: "Stcrt.2008-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-16"
-intitule_published: "2008-01-30"
-intitule_in_force: "2008-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-21"
-original_signed_date: "2008-01-16"
-original_published_date: "2008-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-21-p25-SC84229"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0023393&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0023393&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties onderwijspersoneel"
-signed_date: "2008-01-16"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0023393"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2010 (1602), houdende regels in verband met de erkenning van EG-beroepskwalificaties van onderwijspersoneel (Regeling erkenning EG-beroepskwalificaties onderwijspersoneel)
-
-Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -60,27 +32,27 @@ Deze regeling is van toepassing op:
 
 - a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van beroepskwalificaties voor de toegang tot of uitoefening van de volgende gereglementeerde beroepen of werkzaamheden:
 
-- 1°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+   - 1°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- 2°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+   - 2°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- 3°. rector, directeur, conrector, adjunct-directeur en leraar als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+   - 3°. rector, directeur, conrector, adjunct-directeur en leraar als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- 4°. docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+   - 4°. docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- 5°. onderwijsondersteunende werkzaamheden van een instructeur als bedoeld in het [Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692).
+   - 5° onderwijsondersteunende werkzaamheden van een instructeur als bedoeld in het [Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692).
 
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep of gereglementeerde werkzaamheden als bedoeld onder a wenst uit te oefenen.
 
 ##### Artikel 3. Ib-groep
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Aanvraag erkenning beroepskwalificaties
 
 1. De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
-- a. een bewijs van de nationaliteit alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+- a. een bewijs van de nationaliteit alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
 - b.1°. een kopie van de bekwaamheidsattesten of de opleidingstitels, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst, op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van hetzelfde beroep als dat waarvoor de aanvrager erkenning van beroepskwalificaties wenst, of
 
@@ -142,7 +114,7 @@ Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld i
 
 - a. een schriftelijke verklaring waaruit blijkt welk gereglementeerd beroep de dienstverrichter tijdelijk en incidenteel in Nederland komt verrichten en waarin gegevens zijn opgenomen betreffende verzekering of soortgelijke bescherming tegen de financiële risico’s van beroepsaansprakelijkheid;
 
-- b. een bewijs van nationaliteit, alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016) of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de dienstverrichter het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+- b. een bewijs van nationaliteit, alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016) of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de dienstverrichter het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
 - c. een attest dat de dienstverrichter gerechtigd is om in een andere betrokken staat dan Nederland de betrokken beroepswerkzaamheden uit te oefenen, en dat de dienstverrichter op het moment van afgifte van het attest geen permanent of tijdelijk beroepsverbod is opgelegd;
 
@@ -161,5 +133,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties onderwijspersoneel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

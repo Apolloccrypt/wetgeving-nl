@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2008 (Verordening PT bijzondere heffing teelt fruit en champignons 2008)"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2008"
 identifier: "BWBR0022723"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022723"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9252713"
-version_id: "14840632"
-internal_id: "C20192481"
-label_id: "9231384"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022723/2007-10-21/0"
-intitule_bron: "Vbbo.2007-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-03"
-intitule_published: "2007-10-19"
-intitule_in_force: "2007-10-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-64"
-original_signed_date: "2007-07-03"
-original_published_date: "2007-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-10-21"
-jci_1_3: "jci1.3:c:BWBR0022723&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0022723&g=2007-10-21"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2008"
-signed_date: "2007-07-03"
-entry_into_force: "2007-10-21"
+publicatiedatum: 2007-10-21
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0022723"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2008 (Verordening PT bijzondere heffing teelt fruit en champignons 2008)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95),[100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 19 juni 2007;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,7 +26,7 @@ Besluit:
 
 | a. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
 | --- | --- | --- |
-| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022723&paragraaf=3&artikel=4&z=2007-10-21&g=2007-10-21) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de [Regeling Landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0021616), nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
 | d. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. | de contractteelt: | de teelt van gewassen op contract voor een ander. |
@@ -135,5 +108,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2008.
-
-Deze verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

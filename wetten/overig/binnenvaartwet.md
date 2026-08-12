@@ -1,47 +1,18 @@
 ---
 title: "Wet van 13 september 2007, houdende bepalingen met betrekking tot de veilige vaart op de binnenwateren (Binnenvaartwet)"
+citeertitel: "Binnenvaartwet"
 identifier: "BWBR0023009"
-country: "nl"
-rank: "wet"
-publication_date: "2025-06-01"
-last_updated: "2025-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023009"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "9314993"
-version_id: "16836112"
-internal_id: "C23204131"
-label_id: "9294324"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023009/2025-06-01/0"
-intitule_bron: "Stb.2007-498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-09-13"
-intitule_published: "2007-12-18"
-intitule_in_force: "2009-04-07"
-intitule_status: "goed"
-original_publication: "Stb.1998-687"
-original_signed_date: "1998-11-26"
-original_published_date: "1998-12-22"
-original_effect: "structuurwijziging"
-original_dossier: "25851"
-original_url_id: "stb-1998-687"
-entry_into_force_date: "2009-12-03"
-jci_1_3: "jci1.3:c:BWBR0023009&z=2025-06-01&g=2025-06-01"
-jci_1_0: "1.0:c:BWBR0023009&g=2025-06-01"
-citeertitel_status: "officieel"
-short_title: "Binnenvaartwet"
-signed_date: "1998-11-26"
-entry_into_force: "2009-12-03"
+publicatiedatum: 2009-12-03
+laatste_update: 2025-06-01
+status: geldig
+toestand: 2025-06-01
+bron: "https://wetten.overheid.nl/BWBR0023009"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 13 september 2007, houdende bepalingen met betrekking tot de veilige vaart op de binnenwateren (Binnenvaartwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van de binnenvaart wenselijk is de wetgeving te harmoniseren door de bepalingen die betrekking hebben op de toegang tot de markt, de technische staat van het schip, de scheepsmeting, de bemanning, het vaarbewijs, de scheepsnummering en de gegevensverstrekking in een wet bijeen te brengen, waarbij mede uitvoering wordt gegeven aan de Herziene Rijnvaartakte met bijbehorende protocollen, alsmede aan [Verordening 1017/68/EEG](31968R1017) van de Raad van 19 juli 1968 houdende de toepassing van mededingingsregels op het gebied van het vervoer per spoor, over de weg en over de binnenwateren (L 175), [Richtlijn 76/135/EEG](31976L0135) van de Raad van 20 januari 1976 inzake wederzijdse erkenning van scheepsattesten voor binnenschepen (L 021), [Richtlijn 80/1119/EEG](31980L1119) van de Raad van 17 november 1980 betreffende de statistische registratie van het goederenvervoer over de binnenwateren (L 339), [Richtlijn 82/714/EEG](31982L0714) van de Raad van 4 oktober 1982 tot vaststelling van de technische voorschriften voor binnenschepen (L 301), [Verordening nr. 2919/85/EEG](31985R2919) van de Raad van 17 oktober 1985 houdende vaststelling van de voorwaarden waaraan moet worden voldaan om in aanmerking te komen voor het regime dat door de Herziene Rijnvaartakte wordt gereserveerd voor de vaartuigen die tot de Rijnvaart behoren (L 280), [Richtlijn 87/540/EEG](31987L0540) van de Raad van 9 november 1987 betreffende de toegang tot het beroep van ondernemer van nationaal en internationaal goederenvervoer over de binnenwateren en inzake de onderlinge erkenning van dit beroep betreffende diploma's, certificaten en andere titels (L 322), [Verordening 3921/91/EEG](31991R3921) van de Raad van 16 december 1991 tot vaststelling van de voorwaarden waaronder vervoersondernemers worden toegelaten tot binnenlands goederen- en personenvervoer over de binnenwateren in een Lid-Staat waar zij niet gevestigd zijn (L 373), [Richtlijn 91/672/EEG](31991L0672) van de Raad van 16 december 1991 inzake wederzijdse erkenning van de nationale vaarbewijzen voor het besturen van schepen in het goederen- en personenvervoer over de binnenwateren (L 373), [Verordening 3912/92/EEG](31992R3912) van de Raad van 17 december 1992 inzake in de Gemeenschap in het wegvervoer en de binnenvaart uitgevoerde controles van in een derde land ingeschreven of tot het verkeer toegelaten vervoermiddelen (L 395), [Verordening 1356/96/EEG](31996R1356) van de Raad van 8 juli 1996 tot vaststelling van gemeenschappelijke voorschriften voor het vervoer van goederen of personen over de binnenwateren, tussen Lid-Staten, om voor dit vervoer het vrij verrichten van diensten te verzekeren (L 175) en [Richtlijn 96/50/EG](31996L0050) van de Raad van 23 juli 1996 betreffende de harmonisatie van voorwaarden voor de afgifte van nationale vaarbewijzen voor binnenvaartuigen welke bij het goederen- en personenvervoer in de Gemeenschap gebruikt worden (L 235);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Reikwijdte van de wet
 
@@ -85,7 +56,7 @@ gezagvoerder: degene die het gezag voert over een schip;
 
 Herziene Rijnvaartakte: op 17 oktober 1868 te Mannheim tot stand gekomen Herziene Rijnvaartakte (Trb. 1955, 161);
 
-kwalificatiecertificaat: een door een bevoegde autoriteit afgegeven certificaat waarin wordt verklaard dat een persoon aan de voorschriften van [Richtlijn 2017/2397](32017L2397) betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de [Richtlijnen 91/672/EEG](31991L0672) en [96/50/EG](31996L0050) van de Raad voldoet;
+kwalificatiecertificaat: een door een bevoegde autoriteit afgegeven certificaat waarin wordt verklaard dat een persoon aan de voorschriften van Richtlijn 2017/2397 betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de Richtlijnen 91/672/EEG en 96/50/EG van de Raad voldoet;
 
 kwalificatiecertificaat schipper: een kwalificatiecertificaat houdende een vaarbevoegdheid;
 
@@ -93,15 +64,15 @@ onderneming: rechtspersoon, vennootschap zonder rechtspersoonlijkheid, maatschap
 
 Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
-[richtlijn 2017/2397](32017L2397): [richtlijn (EU) 2017/2397](32017L2397) van het Europees Parlement en de Raad van 12 december 2017 betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de [richtlijnen 91/672/EEG](31991L0672) en [96/50/EG](31996L0050) van de Raad (PbEU 2017, L 345);
+richtlijn 2017/2397: richtlijn (EU) 2017/2397 van het Europees Parlement en de Raad van 12 december 2017 betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de richtlijnen 91/672/EEG en 96/50/EG van de Raad (PbEU 2017, L 345);
 
 schip: zeeschip of binnenschip;
 
 schipper: een dekbemanningslid dat gekwalificeerd is om een vaartuig op de binnenwateren te besturen en om aan boord de algemene verantwoordelijkheid te dragen, ook voor de bemanning, de passagiers en de lading;
 
-specifiek risico: een veiligheidsrisico als gevolg van bijzondere navigatie-omstandigheden waarvoor schippers competenties moeten hebben die verder gaan dan wat op grond van de [Richtlijn 2017/2397](32017L2397) betreffende de erkenning van beroepskwalificaties in de binnenvaart in het kader van de algemene normen voor managementcompetenties wordt verwacht;
+specifiek risico: een veiligheidsrisico als gevolg van bijzondere navigatie-omstandigheden waarvoor schippers competenties moeten hebben die verder gaan dan wat op grond van de Richtlijn 2017/2397 betreffende de erkenning van beroepskwalificaties in de binnenvaart in het kader van de algemene normen voor managementcompetenties wordt verwacht;
 
-specifieke vergunning: een door een bevoegde autoriteit afgegeven aantekening op het kwalificatiecertificaat schipper waarmee wordt aangegeven dat de schipper aan aanvullende voorschriften betreffende de activiteiten genoemd in artikel 6 van [richtlijn 2017/2397](32017L2397) voldoet;
+specifieke vergunning: een door een bevoegde autoriteit afgegeven aantekening op het kwalificatiecertificaat schipper waarmee wordt aangegeven dat de schipper aan aanvullende voorschriften betreffende de activiteiten genoemd in artikel 6 van richtlijn 2017/2397 voldoet;
 
 vaarbewijs: een bewijs van vaarbevoegdheid;
 
@@ -417,6 +388,26 @@ Deze paragraaf is van toepassing op:
 
 4. De in het eerste lid bedoelde voorschriften kunnen verschillend zijn naar gelang het soort specifieke vergunning of vaarbewijs.
 
+##### Artikel 26a
+
+1. Aan personen die een functie aan boord uitoefenen als onderdeel van de dekbemanning wordt een kwalificatiecertificaat voor de betreffende functie afgegeven.
+
+2. Bij ministeriële regeling worden de verschillende soorten kwalificatiecertificaten voor de dekbemanning niet zijnde gezagvoerder vastgesteld.
+
+3. Bij of krachtens algemene maatregel van bestuur wordt de geldigheidsduur van het kwalificatiecertificaat vastgesteld.
+
+4. Onze Minister verstrekt een kwalificatiecertificaat na overlegging van verklaringen waaruit blijkt dat de aanvrager voldoet aan bij ministeriële regeling te stellen voorschriften voor het uitoefenen van de desbetreffende functie van het lid van de dekbemanning.
+
+5. De voorschriften hebben betrekking op:
+
+- a. de lichamelijke en geestelijke geschiktheid; en
+
+- b. de kennis en de bekwaamheid om de desbetreffende functie als lid van de dekbemanning als bedoeld in het eerste lid uit te voeren.
+
+6. De voorschriften kunnen verschillend zijn naar gelang het soort kwalificatiecertificaat.
+
+7. Certificaten die worden gehouden door personen die betrokken zijn bij het bedienen van een vaartuig maar geen schipper zijn en die overeenkomstig Richtlijn 2008/106/EG afgegeven of erkend zijn, zijn geldig op zeeschepen die gebruikmaken van binnenwateren.
+
 ##### Artikel 27
 
 1. Een vaarbewijs, een kwalificatiecertificaat, specifieke vergunning of bewijs van vrijstelling of ontheffing, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2025-06-01&g=2025-06-01), wordt niet afgegeven aan degene:
@@ -441,21 +432,21 @@ Deze paragraaf is van toepassing op:
 
 4. De deskundige gaat eerst tot een onderzoek over nadat de aanvrager zich heeft gelegitimeerd.
 
-5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen het onderzoek achterwege blijft en op welke wijze en voor welk soort vaarbewijs, kwalificatiecertificaat of specifieke vergunning de aanvrager zijn lichamelijke en geestelijke geschiktheid opnieuw aantoont.
+5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen het onderzoek achterwege blijft en op welke wijze en voor welk soort vaarbewijs, kwalificatiecertificaat of specifieke vergunning de aanvrager zijn lichamelijke en geestelijke geschiktheid opnieuw aantoont.
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het onderzoek of de verklaring van lichamelijke en geestelijke geschiktheid.
 
-7. Het is de gezagvoerder of de werkgever verboden te handelen in strijd met de voorschriften die ingevolge het tweede lid zijn verbonden aan een vaarbewijs, een kwalificatiecertificaat of een specifieke vergunning.
+7. Het is de gezagvoerder of de werkgever verboden te handelen in strijd met de voorschriften die ingevolge het tweede lid zijn verbonden aan een vaarbewijs, een kwalificatiecertificaat of een specifieke vergunning.
 
 ##### Artikel 29
 
-1. Onze Minister wijst de instellingen of personen aan die belast zijn met het onderzoek naar de kennis en bekwaamheid als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2025-06-01&g=2025-06-01), en artikel 26a, vijfde lid, onderdeel b. Op de aangewezen instellingen of personen is de Kaderwet zelfstandige bestuursorganen van toepassing. Zij verstrekken een verklaring, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
+1. Onze Minister wijst de instellingen of personen aan die belast zijn met het onderzoek naar de kennis en bekwaamheid als bedoeld in [artikel 26, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=26&z=2025-06-01&g=2025-06-01), en artikel 26a, vijfde lid, onderdeel b. Op de aangewezen instellingen of personen is de Kaderwet zelfstandige bestuursorganen van toepassing. Zij verstrekken een verklaring, indien het onderzoek met gunstig gevolg heeft plaatsgevonden.
 
 2. Het onderzoek kan geheel of gedeeltelijk achterwege blijven, indien de aanvrager in het bezit is van:
 
 - a. een geldig vaarbewijs, een geldig kwalificatiecertificaat of een geldige specifieke vergunning;
 
-- b. een vaarbewijs, kwalificatiecertificaat of specifieke vergunning dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur;
+- b. een vaarbewijs, kwalificatiecertificaat of specifieke vergunning dat zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur;
 
 - c. een door Onze Minister ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=32&z=2025-06-01&g=2025-06-01), erkend gelijkwaardig document of bewijs van kennis en bekwaamheid voor de binnenvaart.
 
@@ -481,7 +472,7 @@ Deze paragraaf is van toepassing op:
 
 - f. de houder niet voldoet aan de voorschriften, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2025-06-01&g=2025-06-01).
 
-2. Indien bij het nader onderzoek, bedoeld in het eerste lid, onderdeel d, de ongeschiktheid niet blijkt, komen de kosten van het onderzoek, indien dat is uitgevoerd op vordering van Onze Minister, ten laste van het Rijk. [Artikel 28, eerste lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2025-06-01&g=2025-06-01), is van overeenkomstige toepassing.
+2. Indien bij het nader onderzoek, bedoeld in het eerste lid, onderdeel d, de ongeschiktheid niet blijkt, komen de kosten van het onderzoek, indien dat is uitgevoerd op vordering van Onze Minister, ten laste van het Rijk. [Artikel 28, eerste lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2025-06-01&g=2025-06-01), is van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het ongeldig verklaren, het invorderen en het teruggeven van een vaarbewijs, kwalificatiecertificaat of specifieke vergunning en met betrekking tot de schorsing van een kwalificatiecertificaat.
 
@@ -499,9 +490,9 @@ Deze paragraaf is van toepassing op:
 
 ##### Artikel 32
 
-1. Onze Minister kan, voor zover erkenning niet geregeld wordt door de [Richtlijn 2017/2397](32017L2397) betreffende de erkenning van beroepskwalificaties in de binnenvaart, een bewijs van kennis en bekwaamheid voor een of meer vormen van binnenvaart erkennen, indien naar zijn oordeel het bewijs voldoende waarborg biedt dat het vereiste competentieniveau behaald wordt en het veiligheidsniveau voldoende is. Alsdan treedt het bewijs van kennis en bekwaamheid gedeeltelijk in de plaats van het onderzoek of geheel in de plaats van de verklaring, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=29&z=2025-06-01&g=2025-06-01).
+1. Onze Minister kan, voor zover erkenning niet geregeld wordt door de Richtlijn 2017/2397 betreffende de erkenning van beroepskwalificaties in de binnenvaart, een bewijs van kennis en bekwaamheid voor een of meer vormen van binnenvaart erkennen, indien naar zijn oordeel het bewijs voldoende waarborg biedt dat het vereiste competentieniveau behaald wordt en het veiligheidsniveau voldoende is. Alsdan treedt het bewijs van kennis en bekwaamheid gedeeltelijk in de plaats van het onderzoek of geheel in de plaats van de verklaring, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=29&z=2025-06-01&g=2025-06-01).
 
-2. Bij ministeriële regeling kunnen, voor zover erkenning niet geregeld wordt door de [Richtlijn 2017/2397](32017L2397) betreffende de erkenning van beroepskwalificaties in de binnenvaart, vaarbewijzen of bewijzen van kennis en bekwaamheid worden erkend die zijn afgegeven door een bevoegde autoriteit in het buitenland. Het eerste lid is van overeenkomstige toepassing.
+2. Bij ministeriële regeling kunnen, voor zover erkenning niet geregeld wordt door de Richtlijn 2017/2397 betreffende de erkenning van beroepskwalificaties in de binnenvaart, vaarbewijzen of bewijzen van kennis en bekwaamheid worden erkend die zijn afgegeven door een bevoegde autoriteit in het buitenland. Het eerste lid is van overeenkomstige toepassing.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op andere geneeskundige verklaringen dan de verklaring, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=28&z=2025-06-01&g=2025-06-01).
 
@@ -527,9 +518,57 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld wor
 
 2. Aan de met de afgifte van kwalificatiecertificaten, specifieke vergunningen en vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
 
+#### § 5. Vaarbevoegdheid en registratie van gegevens
+
+##### Artikel 35a
+
+1. Onze Minister houdt een register bij van:
+
+- a. de afgifte, verlenging, schorsing of intrekking van kwalificatiecertificaten, specifieke vergunningen, vaarbewijzen, dienstboekjes en vaartijdenboeken;
+
+- b. ontzeggingen van de vaarbevoegdheid als bedoeld in [artikel 35b van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b);
+
+- c. vaarbewijzen of bewijzen van vrijstelling of ontheffing als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2025-06-01&g=2025-06-01), die:
+
+   - 1°. zijn ingeleverd of ingevorderd ingevolge de [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35a), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b) of [35c van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35c), of
+
+   - 2°. ongeldig zijn verklaard.
+
+- d. de afgifte, verlenging, schorsing, intrekking, diefstal, vernietiging of het verlies van kwalificatiecertificaten, vaarbewijzen, dienstboekjes en vaartijdenboeken, afgegeven overeenkomstig het [Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215).
+
+2. Het verwerken van gegevens als bedoeld in het eerste lid, geschiedt voor de volgende doeleinden:
+
+- a. een goede en adequate uitvoering van deze wet, voor zover het gaat om de ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2025-06-01&g=2025-06-01), en de in het eerste lid, onder a en d, benoemde handelingen;
+
+- b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor zover het gaat om ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2025-06-01&g=2025-06-01).
+
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en het beheer van het register. Deze regels betreffen in ieder geval:
+
+- a. de gegevens die in het register worden opgenomen;
+
+- b. de periode gedurende welke de gegevens worden bewaard;
+
+- c. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;
+
+- d. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;
+
+- e. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.
+
+##### Artikel 35b
+
+1. Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent ontzeggingen van de vaarbevoegdheid die deze autoriteiten voor de uitoefening van hun taak behoeven.
+
+2. Aan de met de afgifte van kwalificatiecertificaten, specifieke vergunningen of vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
+
+##### Artikel 35c
+
+1. Onze Minister is op bij algemene maatregel van bestuur bepaalde wijze bevoegd tot het invoeren, wijzigen dan wel verwijderen van gegevens die van belang zijn voor het bijhouden van het register.
+
+2. Het openbaar ministerie bij de rechtbank waar een ontzegging van de vaarbevoegdheid wordt uitgesproken, doet binnen twee weken mededeling aan Onze Minister van die ontzegging, waarbij de termijn van ontzegging wordt vermeld.
+
 ### Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
 
-#### § 5. Vaarbevoegdheid en registratie van gegevens
+#### § 1. Scheepsnummer
 
 ##### Artikel 36
 
@@ -573,13 +612,97 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 2. Onze Minister is verwerkingsverantwoordelijke voor de verwerking van de in het eerste lid bedoelde persoonsgegevens.
 
-3. Ter uitvoering van de Herziene Rijnvaartakte en de Europese [richtlijn (EU) 2017/2397](32017L2397) van het Europees Parlement en de Raad van 12 december 2017 betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de [Richtlijnen 91/672/EEG](31991L0672) en [96/50/EG](31996L0050) van de Raad (PbEU 2017, L 345) kunnen persoonsgegevens worden verwerkt over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming van de bemanning van schepen die zich op de Rijn, inbegrepen de Lek en de Waal, bevinden. De verwerking van deze gegevens vindt plaats teneinde de lichamelijke geschiktheid van de bemanning vast te stellen.
+3. Ter uitvoering van de Herziene Rijnvaartakte en de Europese richtlijn (EU) 2017/2397 van het Europees Parlement en de Raad van 12 december 2017 betreffende de erkenning van beroepskwalificaties in de binnenvaart en tot intrekking van de Richtlijnen 91/672/EEG en 96/50/EG van de Raad (PbEU 2017, L 345) kunnen persoonsgegevens worden verwerkt over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming van de bemanning van schepen die zich op de Rijn, inbegrepen de Lek en de Waal, bevinden. De verwerking van deze gegevens vindt plaats teneinde de lichamelijke geschiktheid van de bemanning vast te stellen.
 
 4. Bij of krachtens algemene maatregel van bestuur wordt bepaald wie verwerkingsverantwoordelijke is voor de verwerking van de in het derde lid bedoelde persoonsgegevens.
 
 ### Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
 
-#### § 2. Gegevensverstrekking
+#### § 1. Algemene bepalingen
+
+##### Artikel 39a
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. verdrag: het op 9 september 1996 te Straatsburg tot stand gekomen verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (Trb. 1996, 293);
+
+- b. afvalbeheerbijdrage: de in artikel 6, eerste lid, van het verdrag bedoelde verwijderingsbijdrage;
+
+- c. betrekken van gasolie: het betrekken van gasolie in gevallen waarin de levering van die gasolie gepaard gaat met een uitslag of een invoer ter zake waarvan [artikel 66, eerste lid, onder a, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66) van toepassing is, dan wel ter zake van de levering van die gasolie [artikel 70, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70) van toepassing is;
+
+- d. leverancier: leverancier van de gasolie;
+
+- e. nationaal instituut: Nederlandse nationaal instituut, bedoeld in artikel 9 van het verdrag.
+
+##### Artikel 39b
+
+1. Dit hoofdstuk is van toepassing op binnenschepen waarvan de hoofd- of hulpmotoren, met uitzondering van ankerlieren, verbrandingsmotoren zijn.
+
+2. In afwijking van het eerste lid is dit hoofdstuk, met uitzondering van [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2025-06-01&g=2025-06-01), niet van toepassing met betrekking tot schepen die zijn toegelaten voor de zee- of kustvaart en overwegend daartoe bestemd zijn.
+
+#### § 2. Afvalbeheerbijdrage
+
+##### Artikel 39c
+
+1. Ter zake van het betrekken van gasolie ten behoeve van een binnenschip wordt een afvalbeheerbijdrage geheven van de eigenaar van het binnenschip.
+
+2. De afvalbeheerbijdrage is verschuldigd op het tijdstip van het betrekken, bedoeld in het eerste lid.
+
+3. De betaling van de afvalbeheerbijdrage geschiedt namens de eigenaar van het binnenschip door de gezagvoerder en door tussenkomst van de leverancier, volgens de bij algemene maatregel van bestuur vastgestelde voorschriften voor de eigenaar van het binnenschip en de gezagvoerder ten aanzien van het betrekken en voor de leverancier ten aanzien van het leveren van gasolie.
+
+##### Artikel 39d
+
+1. De afvalbeheerbijdrage wordt berekend over het aantal liters gasolie dat ten behoeve van het binnenschip is betrokken.
+
+2. Het in een kalenderjaar geldende tarief van de afvalbeheerbijdrage is het tarief dat krachtens artikel 14, derde lid, onder b, van het verdrag voor het desbetreffende kalenderjaar is vastgesteld bij besluit van de Conferentie der Verdragsluitende Partijen.
+
+3. Het tarief van de afvalbeheerbijdrage wordt door Onze Minister telkens zo spoedig mogelijk na de in het tweede lid bedoelde vaststelling in de Staatscourant bekendgemaakt.
+
+##### Artikel 39e
+
+Bij algemene maatregel van bestuur worden de administratieve verplichtingen van de eigenaar van het schip en de gezagvoerder, alsmede van de leverancier in verband met de afvalbeheerbijdrage geregeld.
+
+##### Artikel 39f
+
+Bij constatering van het feit dat voor een binnenschip niet volledig is voldaan aan de ingevolge [artikel 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2025-06-01&g=2025-06-01), geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het binnenschip is verschuldigd toepassing aan [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86).
+
+#### § 3. Het nationaal instituut
+
+##### Artikel 39g
+
+1. Onze Minister wijst in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een rechtspersoon met volledige rechtsbevoegdheid, waarin vertegenwoordigers van de bedrijfstak van de binnenvaart zijn opgenomen, aan als nationaal instituut.
+
+2. Het nationaal instituut is belast met:
+
+- a. de organisatie van de inzameling en de verdere verwijdering van olie- en vethoudende scheepsafvalstoffen, alsmede de financiering daarvan, bedoeld in artikel 9, eerste lid, van het verdrag, met inbegrip van de inning van de afvalbeheerbijdrage, en
+
+- b. de Nederlandse vertegenwoordiging in het Internationaal Verevenings- en Coördinatieorgaan, in overeenstemming met artikel 10, tweede lid, laatste volzin, van het verdrag.
+
+3. Bij algemene maatregel van bestuur worden nadere regels omtrent de taken van het nationaal instituut en de wijze van uitoefening daarvan vastgesteld.
+
+4. Onze Minister draagt zorg voor de vervulling van de taken die ingevolge het verdrag aan nationale instituten kunnen worden opgedragen, voor zover die niet behoren tot de in het tweede lid bedoelde taken, alsmede voor de vervulling van de in het tweede lid bedoelde taken indien geen aanwijzing als bedoeld in het eerste lid van kracht is.
+
+5. Een aanwijzing als bedoeld in het eerste lid kan worden ingetrokken indien de aangewezen instelling niet langer voldoet aan het bepaalde in het eerste lid, dan wel handelt in strijd met de in het derde lid bedoelde regels.
+
+##### Artikel 39h
+
+1. Onze Minister verstrekt aan de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2025-06-01&g=2025-06-01) aangewezen rechtspersoon subsidie:
+
+- a. ten aanzien van de kosten van de personele en materiële voorzieningen die nodig zijn voor de uitvoering van de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2025-06-01&g=2025-06-01) aan het nationaal instituut toegekende taken en
+
+- b. ten aanzien van de internationale financiële verevening, bedoeld in artikel 10, eerste lid, van het verdrag.
+
+2. De [Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196) en [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) zijn van toepassing op de subsidieverstrekking.
+
+#### § 4. Uitvoering van het verdrag
+
+##### Artikel 39i
+
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in dit hoofdstuk geregelde onderwerpen, voor zover dat nodig is voor een goede uitvoering van het verdrag, daaronder begrepen de uitvoering van een besluit van de Conferentie der Verdragsluitende Partijen.
+
+### Hoofdstuk 5. Handhaving
+
+#### § 1. Toezicht en opsporing
 
 ##### Artikel 40
 
@@ -661,7 +784,7 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ##### Artikel 48a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
@@ -673,67 +796,67 @@ Vervallen
 
 ##### Artikel 49a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49e
 
-Vervallen
+*Vervallen*
 
-##### Artikel 48a
+##### Artikel 49f
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49g
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49a
+##### Artikel 49h
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49b
+##### Artikel 49i
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49c
+##### Artikel 49j
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49d
+##### Artikel 49k
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49e
+##### Artikel 49l
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
 Indien een bestuurlijke boete wordt opgelegd kan Onze Minister de geldsom invorderen bij dwangbevel.
 
-##### Artikel 49g
+##### Artikel 50a
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49a
+##### Artikel 50b
 
-Vervallen
+*Vervallen*
 
-##### Artikel 49b
+##### Artikel 50c
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -775,7 +898,7 @@ is voor de behandeling van die aanvraag een vergoeding van de kosten verschuldig
 
 ##### Artikel 53
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+*Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.*
 
 Bij toepassing van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=6&paragraaf=2&artikel=52&z=2025-06-01&g=2025-06-01), gelden de bepalingen van en krachtens deze wet ten aanzien van een schip en de gezagvoerder slechts, voor zover zulks bij algemene maatregel van bestuur is bepaald.
 
@@ -787,328 +910,8 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 54a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
 Deze wet wordt aangehaald als: Binnenvaartwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 2. Afvalbeheerbijdrage
-
-#### § 3. Het nationaal instituut
-
-##### Artikel 39g
-
-1. Onze Minister wijst in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een rechtspersoon met volledige rechtsbevoegdheid, waarin vertegenwoordigers van de bedrijfstak van de binnenvaart zijn opgenomen, aan als nationaal instituut.
-
-2. Het nationaal instituut is belast met:
-
-- a. de organisatie van de inzameling en de verdere verwijdering van olie- en vethoudende scheepsafvalstoffen, alsmede de financiering daarvan, bedoeld in artikel 9, eerste lid, van het verdrag, met inbegrip van de inning van de afvalbeheerbijdrage, en
-
-- b. de Nederlandse vertegenwoordiging in het Internationaal Verevenings- en Coördinatieorgaan, in overeenstemming met artikel 10, tweede lid, laatste volzin, van het verdrag.
-
-3. Bij algemene maatregel van bestuur worden nadere regels omtrent de taken van het nationaal instituut en de wijze van uitoefening daarvan vastgesteld.
-
-4. Onze Minister draagt zorg voor de vervulling van de taken die ingevolge het verdrag aan nationale instituten kunnen worden opgedragen, voor zover die niet behoren tot de in het tweede lid bedoelde taken, alsmede voor de vervulling van de in het tweede lid bedoelde taken indien geen aanwijzing als bedoeld in het eerste lid van kracht is.
-
-5. Een aanwijzing als bedoeld in het eerste lid kan worden ingetrokken indien de aangewezen instelling niet langer voldoet aan het bepaalde in het eerste lid, dan wel handelt in strijd met de in het derde lid bedoelde regels.
-
-##### Artikel 39h
-
-1. Onze Minister verstrekt aan de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2025-06-01&g=2025-06-01) aangewezen rechtspersoon subsidie:
-
-- a. ten aanzien van de kosten van de personele en materiële voorzieningen die nodig zijn voor de uitvoering van de ingevolge [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=3&artikel=39g&z=2025-06-01&g=2025-06-01) aan het nationaal instituut toegekende taken en
-
-- b. ten aanzien van de internationale financiële verevening, bedoeld in artikel 10, eerste lid, van het verdrag.
-
-2. De [Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196) en [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) zijn van toepassing op de subsidieverstrekking.
-
-#### § 1. Algemene bepalingen
-
-### Hoofdstuk 5. Handhaving
-
-#### § 2. Afvalbeheerbijdrage
-
-#### § 4. Uitvoering van het verdrag
-
-##### Artikel 48a
-
-Vervallen
-
-##### Artikel 48a
-
-Vervallen
-
-##### Artikel 48a
-
-Vervallen
-
-##### Artikel 49a
-
-Vervallen
-
-##### Artikel 49b
-
-Vervallen
-
-##### Artikel 49c
-
-Vervallen
-
-##### Artikel 49d
-
-Vervallen
-
-### Hoofdstuk 6. Overige bepalingen
-
-#### § 1. Vergoedingen
-
-#### § 2. Noodwetgeving
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 39a
-
-In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
-
-- a. verdrag: het op 9 september 1996 te Straatsburg tot stand gekomen verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (Trb. 1996, 293);
-
-- b. afvalbeheerbijdrage: de in artikel 6, eerste lid, van het verdrag bedoelde verwijderingsbijdrage;
-
-- c. betrekken van gasolie: het betrekken van gasolie in gevallen waarin de levering van die gasolie gepaard gaat met een uitslag of een invoer ter zake waarvan [artikel 66, eerste lid, onder a, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66) van toepassing is, dan wel ter zake van de levering van die gasolie [artikel 70, eerste lid, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70) van toepassing is;
-
-- d. leverancier: leverancier van de gasolie;
-
-- e. nationaal instituut: Nederlandse nationaal instituut, bedoeld in artikel 9 van het verdrag.
-
-##### Artikel 39b
-
-1. Dit hoofdstuk is van toepassing op binnenschepen waarvan de hoofd- of hulpmotoren, met uitzondering van ankerlieren, verbrandingsmotoren zijn.
-
-2. In afwijking van het eerste lid is dit hoofdstuk, met uitzondering van [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39e&z=2025-06-01&g=2025-06-01), niet van toepassing met betrekking tot schepen die zijn toegelaten voor de zee- of kustvaart en overwegend daartoe bestemd zijn.
-
-#### § 2. Afvalbeheerbijdrage
-
-##### Artikel 39c
-
-1. Ter zake van het betrekken van gasolie ten behoeve van een binnenschip wordt een afvalbeheerbijdrage geheven van de eigenaar van het binnenschip.
-
-2. De afvalbeheerbijdrage is verschuldigd op het tijdstip van het betrekken, bedoeld in het eerste lid.
-
-3. De betaling van de afvalbeheerbijdrage geschiedt namens de eigenaar van het binnenschip door de gezagvoerder en door tussenkomst van de leverancier, volgens de bij algemene maatregel van bestuur vastgestelde voorschriften voor de eigenaar van het binnenschip en de gezagvoerder ten aanzien van het betrekken en voor de leverancier ten aanzien van het leveren van gasolie.
-
-##### Artikel 39d
-
-1. De afvalbeheerbijdrage wordt berekend over het aantal liters gasolie dat ten behoeve van het binnenschip is betrokken.
-
-2. Het in een kalenderjaar geldende tarief van de afvalbeheerbijdrage is het tarief dat krachtens artikel 14, derde lid, onder b, van het verdrag voor het desbetreffende kalenderjaar is vastgesteld bij besluit van de Conferentie der Verdragsluitende Partijen.
-
-3. Het tarief van de afvalbeheerbijdrage wordt door Onze Minister telkens zo spoedig mogelijk na de in het tweede lid bedoelde vaststelling in de Staatscourant bekendgemaakt.
-
-##### Artikel 39e
-
-Bij algemene maatregel van bestuur worden de administratieve verplichtingen van de eigenaar van het schip en de gezagvoerder, alsmede van de leverancier in verband met de afvalbeheerbijdrage geregeld.
-
-##### Artikel 39f
-
-Bij constatering van het feit dat voor een binnenschip niet volledig is voldaan aan de ingevolge [artikel 39c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=4a&paragraaf=2&artikel=39c&z=2025-06-01&g=2025-06-01), geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het binnenschip is verschuldigd toepassing aan [artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86).
-
-#### § 2. Afvalbeheerbijdrage
-
-#### § 4. Uitvoering van het verdrag
-
-##### Artikel 39i
-
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in dit hoofdstuk geregelde onderwerpen, voor zover dat nodig is voor een goede uitvoering van het verdrag, daaronder begrepen de uitvoering van een besluit van de Conferentie der Verdragsluitende Partijen.
-
-### Hoofdstuk 5. Handhaving
-
-#### § 1. Toezicht en opsporing
-
-#### § 2. Bestuurlijke boete
-
-##### Artikel 49a
-
-Vervallen
-
-##### Artikel 49e
-
-Vervallen
-
-##### Artikel 49f
-
-Vervallen
-
-##### Artikel 49g
-
-Vervallen
-
-##### Artikel 49i
-
-Vervallen
-
-##### Artikel 49j
-
-Vervallen
-
-##### Artikel 49k
-
-Vervallen
-
-### Hoofdstuk 6. Overige bepalingen
-
-#### § 1. Vergoedingen
-
-#### § 2. Noodwetgeving
-
-#### § 1. Vergoedingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 5. Vaarbevoegdheid en registratie van gegevens
-
-##### Artikel 35a
-
-1. Onze Minister houdt een register bij van:
-
-- a. de afgifte, verlenging, schorsing of intrekking van kwalificatiecertificaten, specifieke vergunningen, vaarbewijzen, dienstboekjes en vaartijdenboeken;
-
-- b. ontzeggingen van de vaarbevoegdheid als bedoeld in [artikel 35b van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b);
-
-- c. vaarbewijzen of bewijzen van vrijstelling of ontheffing als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=31&z=2025-06-01&g=2025-06-01), die:
-
-- 1°. zijn ingeleverd of ingevorderd ingevolge de [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35a), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35b) of [35c van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=35c), of
-
-- 2°. ongeldig zijn verklaard.
-
-- d. de afgifte, verlenging, schorsing, intrekking, diefstal, vernietiging of het verlies van kwalificatiecertificaten, vaarbewijzen, dienstboekjes en vaartijdenboeken, afgegeven overeenkomstig het [Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215).
-
-2. Het verwerken van gegevens als bedoeld in het eerste lid, geschiedt voor de volgende doeleinden:
-
-- a. een goede en adequate uitvoering van deze wet, voor zover het gaat om de ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2025-06-01&g=2025-06-01), en de in het eerste lid, onder a en d, benoemde handelingen;
-
-- b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor zover het gaat om ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&hoofdstuk=3&paragraaf=4&artikel=25&z=2025-06-01&g=2025-06-01).
-
-3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en het beheer van het register. Deze regels betreffen in ieder geval:
-
-- a. de gegevens die in het register worden opgenomen;
-
-- b. de periode gedurende welke de gegevens worden bewaard;
-
-- c. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;
-
-- d. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;
-
-- e. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.
-
-##### Artikel 35b
-
-1. Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent ontzeggingen van de vaarbevoegdheid die deze autoriteiten voor de uitoefening van hun taak behoeven.
-
-2. Aan de met de afgifte van kwalificatiecertificaten, specifieke vergunningen of vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
-
-##### Artikel 35c
-
-1. Onze Minister is op bij algemene maatregel van bestuur bepaalde wijze bevoegd tot het invoeren, wijzigen dan wel verwijderen van gegevens die van belang zijn voor het bijhouden van het register.
-
-2. Het openbaar ministerie bij de rechtbank waar een ontzegging van de vaarbevoegdheid wordt uitgesproken, doet binnen twee weken mededeling aan Onze Minister van die ontzegging, waarbij de termijn van ontzegging wordt vermeld.
-
-### Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
-
-#### § 1. Scheepsnummer
-
-#### § 2. Gegevensverstrekking
-
-### Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
-
-#### § 1. Algemene bepalingen
-
-#### § 3. Het nationaal instituut
-
-#### § 4. Uitvoering van het verdrag
-
-### Hoofdstuk 5. Handhaving
-
-#### § 1. Toezicht en opsporing
-
-#### § 2. Bestuurlijke boete
-
-##### Artikel 49h
-
-Vervallen
-
-##### Artikel 50a
-
-Vervallen
-
-##### Artikel 50a
-
-Vervallen
-
-##### Artikel 50b
-
-Vervallen
-
-### Hoofdstuk 6. Overige bepalingen
-
-#### § 1. Vergoedingen
-
-#### § 2. Noodwetgeving
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 26a
-
-1. Aan personen die een functie aan boord uitoefenen als onderdeel van de dekbemanning wordt een kwalificatiecertificaat voor de betreffende functie afgegeven.
-
-2. Bij ministeriële regeling worden de verschillende soorten kwalificatiecertificaten voor de dekbemanning niet zijnde gezagvoerder vastgesteld.
-
-3. Bij of krachtens algemene maatregel van bestuur wordt de geldigheidsduur van het kwalificatiecertificaat vastgesteld.
-
-4. Onze Minister verstrekt een kwalificatiecertificaat na overlegging van verklaringen waaruit blijkt dat de aanvrager voldoet aan bij ministeriële regeling te stellen voorschriften voor het uitoefenen van de desbetreffende functie van het lid van de dekbemanning.
-
-5. De voorschriften hebben betrekking op:
-
-- a. de lichamelijke en geestelijke geschiktheid; en
-
-- b. de kennis en de bekwaamheid om de desbetreffende functie als lid van de dekbemanning als bedoeld in het eerste lid uit te voeren.
-
-6. De voorschriften kunnen verschillend zijn naar gelang het soort kwalificatiecertificaat.
-
-7. Certificaten die worden gehouden door personen die betrokken zijn bij het bedienen van een vaartuig maar geen schipper zijn en die overeenkomstig [Richtlijn 2008/106/EG](32008L0106) afgegeven of erkend zijn, zijn geldig op zeeschepen die gebruikmaken van binnenwateren.
-
-### Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
-
-#### § 1. Scheepsnummer
-
-### Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
-
-#### § 3. Het nationaal instituut
-
-### Hoofdstuk 5. Handhaving
-
-#### § 1. Toezicht en opsporing
-
-#### § 2. Bestuurlijke boete
-
-##### Artikel 49l
-
-Vervallen
-
-##### Artikel 50c
-
-Vervallen
-
-### Hoofdstuk 6. Overige bepalingen
-
-#### § 2. Noodwetgeving
-
-#### § 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

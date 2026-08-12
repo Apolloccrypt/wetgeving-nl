@@ -1,49 +1,69 @@
 ---
 title: "Circulaire Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2008"
 identifier: "BWBR0023083"
-country: "nl"
-rank: "circulaire"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023083"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "9331733"
-version_id: "14995442"
-internal_id: "C20407451"
-label_id: "9310374"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023083/2008-01-01/0"
-intitule_bron: "Stcrt.2007-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-05"
-intitule_published: "2007-12-20"
-intitule_in_force: "2007-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-247"
-original_signed_date: "2007-12-05"
-original_published_date: "2007-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-247-p10-SC83576"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0023083&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0023083&g=2008-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-12-05"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0023083"
+opgehaald: 2026-08-12
 ---
+
 # Circulaire Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2008
 
 ### Inleiding
 
 Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een circulaire over wijzigingen van de financiële arbeidsvoorwaarden voor het personeel van de sector Rijk. U treft in deze circulaire informatie aan over de volgende onderwerpen:
 
+- 1 [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912)
+
+- 2 Belastingvrije vergoeding voor reiskosten
+
+- 3 Te werken uren op jaarbasis
+
+- 4 Eindejaarsuitkering
+
+- 5 Salarisverhoging met ingang van 1 april 2008
+
+- 6 Maximum spaarloonbedrag
+
+- 7 Vakbondsfaciliteiten
+
+- 8 Inhoudingen en afdrachten van premies
+
+- 9 Bedrag ouderschapsverlofkorting
+
+- 10 Bedrag levensloopverlofkorting
+
+- 11 [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834)
+
+- 12 Wetsvoorstel(len) Belastingen 2008
+
+- 13 Verhaal WGA-lasten op de werknemer
+
+- 14 Teruggave van werknemerspremies
+
+- 15 Regelgeving en circulaires
+
 Voorzover de wijzigingen niet automatisch in uw salaris- of personeelssysteem worden aangebracht zal uw eigen personeels- of salarisadministratie de wijzigingen dienen aan te brengen.
 
 ### 1. Reisregeling binnenland
 
 Met ingang van 1 januari 2008 wijzigt in de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912):
+
+- – het bedrag voor kleine uitgaven overdag van € 3,71 in € 3,84;
+
+- – het bedrag voor kleine uitgaven ’s avonds van € 11,11 in € 11,48;
+
+- – het bedrag voor een lunch van € 11,69 in € 12,04;
+
+- – het bedrag voor een avondmaaltijd van € 17,69 in € 18,22;
+
+- – het bedrag voor logies van € 71,14 in € 74,70;
+
+- – het bedrag voor een ontbijt van € 6,95 in € 7,30.
 
 De bedragen van de vergoedingen per kilometer van € 0,37 en € 0,09 voor het gebruik van een privé-vervoermiddel blijven ongewijzigd.
 
@@ -58,6 +78,22 @@ De Belastingdienst handhaaft de belastingvrije vergoeding voor reiskosten op €
 Het aantal te werken uren op jaarbasis bedraagt in 2008 bij een volledige arbeidsduur van gemiddeld 36 uur per week afgerond 1829 uren.
 
 Dit aantal is het resultaat van de volgende berekening
+
+| Aantal dagen 2008 |  | 366 |
+| --- | --- | --- |
+| Aantal zaterdagen | 52 |  |
+| Aantal zondagen | 52 |  |
+| Nieuwjaarsdag, dinsdag 1 januari | 1 |  |
+| Tweede paasdag, maandag 24 maart | 1 |  |
+| Koninginnedag, woensdag 30 april | 1 |  |
+| Hemelvaartsdag, donderdag 1 mei | 1 |  |
+| Bevrijdingsdag, maandag 5 mei | 1 |  |
+| Tweede Pinksterdag, maandag 12 mei | 1 |  |
+| Eerste kerstdag, donderdag 25 december | 1 |  |
+| Tweede kerstdag, vrijdag 26 december | 1 |  |
+| Totaal zaterdag, zondag en feestdagen | 112 |  |
+| Totaal aantal te werken dagen 2008 |  | 254 |
+| Aantal te werken hele uren (254 x 7,2) |  | 1829 |
 
 ### 4. Eindejaarsuitkering
 
@@ -97,7 +133,7 @@ De Belastingdienst heeft bekend gemaakt, dat het bedrag van de levensloopverlofk
 
 Bij het vaststellen van de hoogte van de bijdrage wordt een uurprijs in aanmerking genomen die niet hoger is dan de op basis van [artikel 7 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=7) vastgestelde uurprijs.
 
-Per 1 januari 2008 bedraagt deze maximale uurprijs € 6,10. ([Regeling indexering kinderopvang 2008](onbekend), gepubliceerd in Staatscourant 2007, 167)
+Per 1 januari 2008 bedraagt deze maximale uurprijs € 6,10. ([Regeling indexering kinderopvang 2008](https://wetten.overheid.nl/BWBR0022458), gepubliceerd in Staatscourant 2007, 167)
 
 Met ingang van 1 januari 2008 is er één maximum uurprijs voor dagopvang, buitenschoolse opvang en gastouderopvang. Er is in tegenstelling tot voorgaande jaren geen onderscheid meer in uurprijs op basis van de leeftijd van de kinderen.
 
@@ -106,6 +142,14 @@ Met ingang van 1 januari 2008 is er één maximum uurprijs voor dagopvang, buite
 ### 12. Wetsvoorstel(len) Belastingen 2008
 
 Naar verwachting neemt de Eerste Kamer de wetsvoorstellen ‘Belastingplan 2008’ (kamerstuk 31 205) en ‘Overige fiscale maatregelen 2008’ (kamerstuk 31 206) in december aan. Behoudens de jaarlijkse aanpassing van tarieven bevatten de wetsvoorstellen een aantal maatregelen, waarop ik uw aandacht vestig. Sommige maatregelen gaan overigens pas op 1 januari 2009 in.
+
+- – Het percentage van de minimale bijtelling voor het privégebruik van een ter beschikking gestelde auto wordt met ingang van 1 januari 2008 verhoogd van 22% naar 25%. Nieuw is, dat voor een ter beschikking gestelde ‘schone’ auto (afhankelijk van de CO2-uitstoot) een bijtelling van 14% van toepassing is.
+
+- – De in 2007 door de Belastingdienst geaccepteerde wijze waarop loon in de salarisadministratie met terugwerkende kracht aan verstreken loontijdvakken wordt toegerekend, de zogenaamde ‘loon over’ methode, wordt ook in 2008 toegestaan, als de inhoudingsplichtige daarin een bestendige gedragslijn volgt.
+
+- – Vanaf 1 januari 2009 vervalt de mogelijkheid om een belastingvrije vergoeding te verstrekken voor de kosten van ziekte, invaliditeit en bevalling.
+
+- – De inkomensafhankelijkheid van de arbeidskorting wordt vanaf 1 januari 2009 versterkt door vanaf circa € 40.000,– een (gemaximeerde) korting toe te passen.
 
 Voor meer informatie verwijs ik u naar de documentatie behorend bij de wetsvoorstellen (kamerstuk 31 205 en 31 206) en naar de Belastingdienst.
 
@@ -127,40 +171,4 @@ De pseudo-premie WW wordt niet afgedragen en maakt dan ook geen deel uit van dez
 
 ### 15. Regelgeving en circulaires
 
-In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb’s, ministeriële regelingen en circulaires.
-
-## Bijlage. regelgeving en circulaires
-
-| Datum | Staatsblad | Beschrijving |
-| --- | --- | --- |
-| 08-02-2007 | 2007, 52 | Besluit van 6 februari 2007, houdende wijziging van het Algemeen Rijksambtenarenreglement, het Reglement Dienst Buitenlandse Zaken en het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 in verband met het beperken van het aantal Koninklijke Besluiten tot aanstelling en ontslag in de sector Rijk. |
-| 08-05-2007 | 2007, 159 | [Besluit van 10 april 2007 tot compensatie van het bij postactieve ambtenaren in de sectoren Rijk, Politie, Defensie, Rechterlijke Macht en Onderwijs van 65 jaar en ouder opgetreden koopkrachtverlies als gevolg van de invoering van de Zorgverzekeringswet (Besluit tijdelijke compensatie koopkrachtverlies postactieve ambtenaren Zorgverzekeringswet)](https://wetten.overheid.nl/jci1.3:c:BWBR0021811). |
-| 10-05-2007 | 2007, 168 | Wet van 19 april 2007 tot intrekking van het Besluit van 13 september 1945, houdende vaststelling van een leeftijdsgrens voor het vervullen van openbare functies (Stb. F 173), en wijziging van de Wet Nationale ombudsman in verband met de verhoging van de ontslagleeftijd van de Nationale ombudsman. |
-| 19-06-2007 | 2007, 214 | Besluit van 13 april 2007, houdende wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met wijziging van andere regelgeving, verbetering en verduidelijking van de tekst en formalisering van een aantal rechtspositionele aanpassingen. |
-| 09-10-2007 | 2007, 351 | [Besluit van 11 september 2007, houdende wijziging van het Algemeen Rijksambtenarenreglement en enkele andere rechtspositionele besluiten in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rijk 2007–2010](https://wetten.overheid.nl/jci1.3:c:BWBR0022589). |
-
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| --- | --- | --- | --- |
-| 26-02-2007 | 2007-0000062712 | 2007, 50 | Wijziging Reisregeling buitenland (Tarieflijst 1 april 2007). |
-| 14-05-2007 | 2007-0000166277 | 2007, 110 | [Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022062). |
-| 03-09-2007 | 2007-0000304100 | 2007, 180 | Wijziging Reisregeling buitenland (Tarieflijst 1 oktober 2007). |
-| 16-11-2007 | 2007-0000403727 | 2007, 223 | [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834) |
-| 03-12-2007 | 2007-0000470631 | 2007, 234 | Wijziging reisregeling binnenland. |
-
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| --- | --- | --- | --- |
-| 26-02-2007 | 2007-0000062711 | - | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2007. |
-| 21-03-2007 | 2007-0000065072 | 2007, 69 | [Optrekken van KB-grens bij aanstelling en ontslag van ARAR- en RDBZ-ambtenaren per 1 maart 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021662). |
-| 10-04-2007 | 2006-0000023263 | 2007, 81 | Toepassing ambtelijke rechtspositie END’ers. |
-| 14-05-2007 | 2007-0000166278 | 2007, 110 | [Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.](https://wetten.overheid.nl/jci1.3:c:BWBR0022067) |
-| 07-06-2007 | 2007-0000183198 | 2007, 114 | [Arbeidsvoorwaardenovereenkomst sector Rijk 2007-2010](https://wetten.overheid.nl/jci1.3:c:BWBR0022086). |
-| 21-06-2007 | 2007-0000222219 | 2007, 123 | [Aanpassing huurwaarde dienstwoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0022156) |
-| 25-06-2007 | 2007-0000171966 | 2007, 131 | [Afspraken inzake arbeidsongeschikten met een arbeidsongeschiktheidspercentage lager dan 35%](https://wetten.overheid.nl/jci1.3:c:BWBR0022218). |
-| 04-07-2007 | 2007-0000239087 | 2007, 137 | [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834). |
-| 06-08-2007 | 2007-0000285264 | 2007, 156 | Maaltijdvergoeding bij overwerk. |
-| 22-08-2007 | 2007-0000306848 | 2007, 167 | [Eindejaarsuitkering en berekeningsbasis gratificatie bij ambtsjubileum](https://wetten.overheid.nl/jci1.3:c:BWBR0022457). |
-| 05-09-2007 | 2007-0000304099 | 2007, 180 | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2007. |
-| xx-12-2007 | 2007-0000483922 | 2007, xxx | [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834) |
-| xx-12-2007 | 2007-0000470679 | 2007, xxx | Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2008. |
-
-Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.
+In de [bijlage](https://wetten.overheid.nl/BWBR0023083) vindt u een overzicht van de in dit jaar tot stand gekomen (wijzigingen van) amvb’s, ministeriële regelingen en circulaires.

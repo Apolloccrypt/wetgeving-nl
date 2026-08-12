@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 april 2008, nr. AV/A&Z/2008/8410, tot instelling van de Taskforce DeeltijdPlus (Instellingsbesluit Taskforce DeeltijdPlus)"
+citeertitel: "Instellingsbesluit Taskforce DeeltijdPlus"
 identifier: "BWBR0023744"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-04-25"
-last_updated: "2009-04-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023744"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9473403"
-version_id: "15261082"
-internal_id: "C29400791"
-label_id: "9450914"
-dtd_version: "2.0"
-original_entry_into_force: "2008-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023744/2009-04-25/0"
-intitule_bron: "Stcrt.2008-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-07"
-intitule_published: "2008-04-11"
-intitule_in_force: "2008-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-71"
-original_signed_date: "2008-04-07"
-original_published_date: "2008-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-71-p13-SC85279"
-entry_into_force_date: "2008-04-13"
-jci_1_3: "jci1.3:c:BWBR0023744&z=2009-04-25&g=2009-04-25"
-jci_1_0: "1.0:c:BWBR0023744&g=2009-04-25"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Taskforce DeeltijdPlus"
-signed_date: "2008-04-07"
-entry_into_force: "2008-04-13"
+publicatiedatum: 2008-04-13
+laatste_update: 2009-04-25
+status: geldig
+toestand: 2009-04-25
+bron: "https://wetten.overheid.nl/BWBR0023744"
+opgehaald: 2026-08-12
 ---
-# Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 april 2008, nr. AV/A&Z/2008/8410, tot instelling van de Taskforce DeeltijdPlus (Instellingsbesluit Taskforce DeeltijdPlus)
 
-Besluit:
+# Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 april 2008, nr. AV/A&Z/2008/8410, tot instelling van de Taskforce DeeltijdPlus (Instellingsbesluit Taskforce DeeltijdPlus)
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -84,17 +60,17 @@ De Taskforce DeeltijdPlus heeft tot doel te bevorderen dat de omvang van de arbe
 
 - b. als leden:
 
-- –. mevrouw mr. dr. D.M. van Gorp
+   - – mevrouw mr. dr. D.M. van Gorp
 
-- –. mevrouw S. Boucetta, met ingang van 1 januari 2009
+   - – mevrouw S. Boucetta, met ingang van 1 januari 2009
 
-- –. mevrouw J.D. Ploegman
+   - – mevrouw J.D. Ploegman
 
-- –. de heer drs. M.C.J. de Wildt
+   - – de heer drs. M.C.J. de Wildt
 
-- –. mevrouw L.P. Ntoane, met ingang van 1 februari 2009
+   - – mevrouw L.P. Ntoane, met ingang van 1 februari 2009
 
-- –. mevrouw M.A.S. van Noort, met ingang van 16 maart 2009.
+   - – mevrouw M.A.S. van Noort, met ingang van 16 maart 2009.
 
 ##### Artikel 7. Secretariaat en beheer bescheiden
 
@@ -121,5 +97,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce DeeltijdPlus.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

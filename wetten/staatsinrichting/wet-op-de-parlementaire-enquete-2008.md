@@ -1,48 +1,18 @@
 ---
 title: "Wet van 1 april 2008, houdende regels over de parlementaire enquête (Wet op de parlementaire enquête 2008)"
+citeertitel: "Wet op de parlementaire enquête 2008"
 identifier: "BWBR0023825"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023825"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9493803"
-version_id: "15309942"
-internal_id: "C20857261"
-label_id: "9471724"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023825/2025-02-12/0"
-intitule_bron: "Stb.2008-148"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-01"
-intitule_published: "2008-05-08"
-intitule_in_force: "2008-05-08"
-intitule_status: "goed"
-original_publication: "Stb.2008-148"
-original_signed_date: "2008-04-01"
-original_published_date: "2008-05-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "30415"
-original_url_id: "stb-2008-148"
-entry_into_force_date: "2008-05-09"
-entry_into_force_dossier: "30415"
-jci_1_3: "jci1.3:c:BWBR0023825&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0023825&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet op de parlementaire enquête 2008"
-signed_date: "2008-04-01"
-entry_into_force: "2008-05-09"
+publicatiedatum: 2008-05-09
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0023825"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 1 april 2008, houdende regels over de parlementaire enquête (Wet op de parlementaire enquête 2008)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 70 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=70), wenselijk is de huidige [Wet op de Parlementaire Enquête](https://wetten.overheid.nl/jci1.3:c:BWBR0001841) te moderniseren en te vervangen door een nieuwe Wet op de parlementaire enquête, onder meer met het oog op de uitbreiding en verduidelijking van de bevoegdheden van de enquêtecommissie en met het oog op de verbetering en verduidelijking van de positie van personen die verplicht zijn tot medewerking aan een parlementaire enquête, de samenloop met ander onderzoek en de regeling van de openbaarheid dan wel vertrouwelijkheid bij een parlementaire enquête;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -137,6 +107,18 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 1. De commissie kan personen als getuige of deskundige horen.
 
 2. De commissie kan een getuige of deskundige uitsluitend horen, indien ten minste drie leden aanwezig zijn.
+
+##### Artikel 9a
+
+1. De commissie kan bij het college van burgemeester en wethouders van de gemeente ’s-Gravenhage dan wel, indien het niet-ingezetenen betreft, bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties een verzoek indienen tot het verstrekken van adresgegevens van:
+
+- a. personen met wie zij een voorgesprek wenst;
+
+- b. getuigen, of
+
+- c. deskundigen.
+
+2. [Artikel 3.5, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.5) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 3. Bijzondere bepalingen ten aanzien van de bevoegdheid van de commissie getuigen en deskundigen te horen
 
@@ -252,6 +234,10 @@ Niemand is verplicht informatie aan de commissie te verstrekken, voor zover deze
 
 Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij uit hoofde van zijn ambt of beroep tot geheimhouding verplicht is en het informatie betreft die aan hem in die hoedanigheid is toevertrouwd.
 
+##### Artikel 24a
+
+Indien een persoon van wie informatie wordt gevorderd zich genoodzaakt ziet de gevorderde informatie te weigeren op grond van een van de verschoningsgronden genoemd in de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12), verstrekt hij bij zijn weigering een deugdelijke motivering.
+
 ### Hoofdstuk 5. Dwangmiddelen
 
 ##### Artikel 25
@@ -270,7 +256,7 @@ Niemand is verplicht informatie aan de commissie te verstrekken, voor zover hij 
 
 - c. de commissie in redelijkheid niet tot haar oordeel kan komen dat de verlangde medewerking nodig is voor de vervulling van haar taak.
 
-5. Door vernummering vervallen.
+5. *Door vernummering vervallen.*
 
 6. De uitspraak van de voorzieningenrechter is uitvoerbaar bij voorraad.
 
@@ -436,19 +422,19 @@ Het lidmaatschap van de commissie eindigt op de dag met ingang waarvan:
 
 ##### Artikel 41
 
-Wijzigt de Wet ministeriële verantwoordelijkheid.
+*Wijzigt de Wet ministeriële verantwoordelijkheid.*
 
 ##### Artikel 42
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 43
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 44
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 45
 
@@ -465,41 +451,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 48
 
 Deze wet wordt aangehaald als: Wet op de parlementaire enquête, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. De commissie kan bij het college van burgemeester en wethouders van de gemeente ’s-Gravenhage dan wel, indien het niet-ingezetenen betreft, bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties een verzoek indienen tot het verstrekken van adresgegevens van:
-
-- a. personen met wie zij een voorgesprek wenst;
-
-- b. getuigen, of
-
-- c. deskundigen.
-
-2. [Artikel 3.5, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.5) zijn van overeenkomstige toepassing.
-
-#### Paragraaf 3. Bijzondere bepalingen ten aanzien van de bevoegdheid van de commissie getuigen en deskundigen te horen
-
-### Hoofdstuk 4. De positie van personen die verplicht zijn medewerking te verlenen aan een parlementaire enquête
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Verschoningsgronden
-
-##### Artikel 24a
-
-Indien een persoon van wie informatie wordt gevorderd zich genoodzaakt ziet de gevorderde informatie te weigeren op grond van een van de verschoningsgronden genoemd in de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12), verstrekt hij bij zijn weigering een deugdelijke motivering.
-
-### Hoofdstuk 5. Dwangmiddelen
-
-### Hoofdstuk 6. De verhouding tot andere procedures
-
-### Hoofdstuk 7. De beëindiging van een parlementaire enquête en het einde van het lidmaatschap van de commissie
-
-### Hoofdstuk 8. Openbaarheid en vertrouwelijkheid van documenten
-
-### Hoofdstuk 9. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

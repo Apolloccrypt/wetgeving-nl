@@ -1,50 +1,18 @@
 ---
 title: "Bijdragebeschikking Stichting A+O Fonds Rijk"
+citeertitel: "Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk"
 identifier: "BWBR0023075"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-01"
-last_updated: "2008-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023075"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9331223"
-version_id: "14992262"
-internal_id: "C20403191"
-label_id: "9309644"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023075/2008-02-01/0"
-intitule_bron: "Stcrt.2007-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-05"
-intitule_published: "2007-12-27"
-intitule_in_force: "2007-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-250"
-original_signed_date: "2007-12-05"
-original_published_date: "2007-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-250-p10-SC83445"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0023075&z=2008-02-01&g=2008-02-01"
-jci_1_0: "1.0:c:BWBR0023075&g=2008-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk"
-signed_date: "2007-12-05"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2008-02-01
+status: geldig
+toestand: 2008-02-01
+bron: "https://wetten.overheid.nl/BWBR0023075"
+opgehaald: 2026-08-12
 ---
+
 # Bijdragebeschikking Stichting A+O Fonds Rijk
-
-Overwegende dat:
-
-– Ten behoeve van het stimuleren van de arbeidsmarkt-, werkgelegenheid- en scholingsactiviteiten de Stichting Arbeidsmarkt- en Opleidingsfonds Rijk is opgericht;
-
-– In het Sectoroverleg Rijkspersoneel overeenstemming is bereikt over de structurele bijdrage aan het fonds;
-
-– Het wenselijk is regels vast te stellen omtrent de jaarlijkse aan het fonds toe te kennen bijdragen en het beheer van de toegekende middelen.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,15 +34,15 @@ De toekenning van de bijdrage(n) geschiedt onder de volgende voorwaarden:
 
 - 4. De stichting hanteert een basispakket aan subsidievoorwaarden, die niet strijdig mogen zijn aan de statuten van de stichting. In het basispakket worden de volgende voorwaarden opgenomen:
 
-- –. Een projectaanvraag dient te zijn voorzien van een deugdelijke planning met daarin opgenomen een aantal ijkmomenten die maatgevend zijn voor de voortgang van de besteding van de middelen, alsmede de kasplanning. De subsidiënt dient op deze ijkmomenten de stand van zaken betreffende de financiële voortgang van het project te rapporteren;
+   - – Een projectaanvraag dient te zijn voorzien van een deugdelijke planning met daarin opgenomen een aantal ijkmomenten die maatgevend zijn voor de voortgang van de besteding van de middelen, alsmede de kasplanning. De subsidiënt dient op deze ijkmomenten de stand van zaken betreffende de financiële voortgang van het project te rapporteren;
 
-- –. Subsidieaanvragen kunnen tot maximaal 80% van het benodigde kasbedrag bevoorschot worden;
+   - – Subsidieaanvragen kunnen tot maximaal 80% van het benodigde kasbedrag bevoorschot worden;
 
-- –. Bij meerjarige projecten zal een evenredig deel van de kasbehoefte bevoorschot worden waarbij rekening gehouden wordt met de niet tot besteding gekomen middelen;
+   - – Bij meerjarige projecten zal een evenredig deel van de kasbehoefte bevoorschot worden waarbij rekening gehouden wordt met de niet tot besteding gekomen middelen;
 
-- –. De eindafrekening van projecten met een subsidiebedrag groter dan € 25.000,– vindt plaats op basis van een slotrapportage. Naast het basispakket kunnen door de stichting aanvullende subsidievoorwaarden worden gehanteerd;
+   - – De eindafrekening van projecten met een subsidiebedrag groter dan € 25.000,– vindt plaats op basis van een slotrapportage. Naast het basispakket kunnen door de stichting aanvullende subsidievoorwaarden worden gehanteerd;
 
-- –. De stichting dient zorg te dragen voor een adequaat vorderingenbeheer.
+   - – De stichting dient zorg te dragen voor een adequaat vorderingenbeheer.
 
 - 5. De stichting legt de jaarrekening, het jaarverslag en de accountantsverklaring als bedoelt in artikel 13 van de statuten, jaarlijks voor 1 juli over aan de Minister. Het jaarverslag en de jaarrekening dienen een duidelijk inzicht te geven in het functioneren van de stichting en in de realisatie van de doelstellingen van de stichting.
 

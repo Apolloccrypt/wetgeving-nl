@@ -1,43 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, december 2007"
 identifier: "BWBR0023152"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-01"
-last_updated: "2008-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023152"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9347463"
-version_id: "15026522"
-internal_id: "C20470801"
-label_id: "9325754"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023152/2008-02-01/0"
-intitule_bron: "Stcrt.2007-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-14"
-intitule_published: "2007-12-24"
-intitule_in_force: "2007-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-249"
-original_signed_date: "2007-12-14"
-original_published_date: "2007-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-249-p18-SC83656"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0023152&z=2008-02-01&g=2008-02-01"
-jci_1_0: "1.0:c:BWBR0023152&g=2008-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-12-14"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2008-02-01
+status: geldig
+toestand: 2008-02-01
+bron: "https://wetten.overheid.nl/BWBR0023152"
+opgehaald: 2026-08-12
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, december 2007
-
-Gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988 alsmede gelet op artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987;
-
-Besluit:
 
 ##### Artikel 1
 

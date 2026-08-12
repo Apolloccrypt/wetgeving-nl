@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2007)"
+citeertitel: "Verordening PT vakheffing boomkwekerijproducten 2007"
 identifier: "BWBR0022732"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022732"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9254533"
-version_id: "14842612"
-internal_id: "C20194501"
-label_id: "9233184"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022732/2007-10-21/0"
-intitule_bron: "Vbbo.2007-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-03"
-intitule_published: "2007-10-19"
-intitule_in_force: "2007-10-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-64"
-original_signed_date: "2007-07-03"
-original_published_date: "2007-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-10-21"
-jci_1_3: "jci1.3:c:BWBR0022732&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0022732&g=2007-10-21"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing boomkwekerijproducten 2007"
-signed_date: "2007-07-03"
-entry_into_force: "2007-10-21"
+publicatiedatum: 2007-10-21
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0022732"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2007)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor boomkwekerijproducten, d.d. 9 mei 2007;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -111,5 +82,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing boomkwekerijproducten 2007.
-
-De verordening en de daarbij horende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

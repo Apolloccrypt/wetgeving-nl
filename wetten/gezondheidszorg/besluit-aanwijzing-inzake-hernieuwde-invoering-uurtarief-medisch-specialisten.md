@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 januari 2008, nr. CZ/TSZ-2822952, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake hernieuwde vaststelling aanwijzing invoering uurtarief medisch specialisten"
+citeertitel: "Besluit aanwijzing inzake hernieuwde invoering uurtarief medisch specialisten"
 identifier: "BWBR0023285"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-01-09"
-last_updated: "2007-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023285"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9375473"
-version_id: "15091532"
-internal_id: "C29385381"
-label_id: "9353474"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023285/2008-01-09/0"
-intitule_bron: "Stcrt.2008-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-07"
-intitule_published: "2008-01-09"
-intitule_in_force: "2008-01-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-6"
-original_signed_date: "2008-01-07"
-original_published_date: "2008-01-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-6-p8-SC84018"
-entry_into_force_date: "2008-01-09"
-jci_1_3: "jci1.3:c:BWBR0023285&z=2008-01-09&g=2008-01-09"
-jci_1_0: "1.0:c:BWBR0023285&g=2008-01-09"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing inzake hernieuwde invoering uurtarief medisch specialisten"
-signed_date: "2008-01-07"
-entry_into_force: "2008-01-09"
+publicatiedatum: 2008-01-09
+laatste_update: 2008-01-09
+status: geldig
+toestand: 2008-01-09
+bron: "https://wetten.overheid.nl/BWBR0023285"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 januari 2008, nr. CZ/TSZ-2822952, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake hernieuwde vaststelling aanwijzing invoering uurtarief medisch specialisten
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 9 februari 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2006/07, 30800 XVI, nr. 129);
-
-Besluit:
 
 ##### Artikel 1
 

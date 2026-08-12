@@ -1,49 +1,21 @@
 ---
 title: "Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf"
 identifier: "BWBR0022792"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022792"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9269663"
-version_id: "14872952"
-internal_id: "C20236011"
-label_id: "9248294"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022792/2008-01-01/0"
-intitule_bron: "Stcrt.2007-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-01"
-intitule_published: "2007-11-07"
-intitule_in_force: "2007-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-216"
-original_signed_date: "2007-11-01"
-original_published_date: "2007-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-216-p9-SC82902"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0022792&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0022792&g=2008-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-11-01"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0022792"
+opgehaald: 2026-08-12
 ---
+
 # Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
-
-De Staatssecretaris van Economische Zaken,
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Financiën;
-
-Besluit op grond van [artikel 3.3, vijfde en zevende lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3) en [artikel 3, eerste en derde lid, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=3) het volgende:
 
 ### § 1. Inleiding
 
-In 2003 zijn op basis van de procedure van vergelijkende toets met een financieel bod door de Minister van Economische Zaken, op voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, vergunningen voor het gebruik van FM-frequentieruimte voor landelijke en niet-landelijke commerciële radio-omroep en voor het gebruik van AM-frequentieruimte verleend. Daarbij is aangekondigd dat voor niet-landelijke commerciële radio-omroep op termijn extra FM-frequentieruimte beschikbaar zou kunnen komen Nadat eerst verzorgingsproblemen van bestaande vergunninghouders zoveel als mogelijk zijn opgelost resteerde een lijst van 12 FM-frequenties die voor uitgifte voor niet- landelijke commerciële radio omroep beschikbaar is. Daarnaast is een vijftal AM-kavels vrijgevallen, wegens niet naleving van de vergunningvoorschriften door de vergunninghouder. Deze vergunningen zijn door de Minister van Economische Zaken ingetrokken. In paragraaf 3 is aangegeven welke kavels beschikbaar zijn gesteld.
+In 2003 zijn op basis van de procedure van vergelijkende toets met een financieel bod door de Minister van Economische Zaken, op voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, vergunningen voor het gebruik van FM-frequentieruimte voor landelijke en niet-landelijke commerciële radio-omroep en voor het gebruik van AM-frequentieruimte verleend. Daarbij is aangekondigd dat voor niet-landelijke commerciële radio-omroep op termijn extra FM-frequentieruimte beschikbaar zou kunnen komen Nadat eerst verzorgingsproblemen van bestaande vergunninghouders zoveel als mogelijk zijn opgelost resteerde een lijst van 12 FM-frequenties die voor uitgifte voor niet- landelijke commerciële radio omroep beschikbaar is. Daarnaast is een vijftal AM-kavels vrijgevallen, wegens niet naleving van de vergunningvoorschriften door de vergunninghouder. Deze vergunningen zijn door de Minister van Economische Zaken ingetrokken. In [paragraaf 3](https://wetten.overheid.nl/BWBR0022792) is aangegeven welke kavels beschikbaar zijn gesteld.
 
 ### § 2. Uitgangspunten verdeling radiofrequenties
 
@@ -51,9 +23,9 @@ De verdeling van de radiofrequenties voor de niet-landelijke commerciële omroep
 
 ### § 3. Beschikbare frequentieruimte ten behoeve van niet-landelijke commerciële omroep en middengolf
 
-Voor de niet-landelijke commerciële radio-omroep via FM-frequenties worden 12 kavels, genoemd in de bijlage bij dit besluit, beschikbaar gesteld (in aanvulling op de eerder verdeelde kavels B1-B26 genummerd; B27-B38). Bij brief van 29 mei 2007 (Kamerstukken II 2006/07, 24 095, nr. 211) is de Tweede Kamer geïnformeerd over het voornemen om in de tweede helft van 2007 de procedure te starten voor de uitgifte van deze kavels.
+Voor de niet-landelijke commerciële radio-omroep via FM-frequenties worden 12 kavels, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0022792) bij dit besluit, beschikbaar gesteld (in aanvulling op de eerder verdeelde kavels B1-B26 genummerd; B27-B38). Bij brief van 29 mei 2007 (Kamerstukken II 2006/07, 24 095, nr. 211) is de Tweede Kamer geïnformeerd over het voornemen om in de tweede helft van 2007 de procedure te starten voor de uitgifte van deze kavels.
 
-De vijf vrijgevallen kavels in de middengolf genoemd in de bijlage bij dit besluit (C4, C5, C8, C11, C12), zijn toegevoegd aan de verdeling. De Tweede Kamer is daarover bij brief van 22 maart 2007 (Kamerstukken II 2006/07, 24 095, nr. 207) geïnformeerd.
+De vijf vrijgevallen kavels in de middengolf genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0022792) bij dit besluit (C4, C5, C8, C11, C12), zijn toegevoegd aan de verdeling. De Tweede Kamer is daarover bij brief van 22 maart 2007 (Kamerstukken II 2006/07, 24 095, nr. 207) geïnformeerd.
 
 ### § 4. Vergunning, verdeelmechanisme en beschikbare kavels
 
@@ -84,34 +56,3 @@ De Minister van Onderwijs, Cultuur en Wetenschap
 Rijnstraat 50
 
 2500 BJ Den Haag
-
-## Bijlage behorende bij het besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
-
-| Kavel | Opstelplaats | Frequentie (Mhz) | Demografisch bereik |
-| --- | --- | --- | --- |
-| B27 | AMELAND | 89,4 MHz | 0,03% |
-| B28 | ZUTPHEN | 89,9 MHz | 0,29% |
-| B29 | OLDENZAAL | 90,0 MHz | 0,20% |
-| B30 | WINTERSWIJK | 94,3 MHz | 0,17% |
-| B31 | CUIJK | 95,3 MHz | 0,13% |
-| B32 | LICHTENVOORDE | 95,7 MHz | 0,10% |
-| B33 | DEN HELDER | 96,0 MHz | 0,33% |
-| B34 | STADSKANAAL | 96,0 MHz | 0,13% |
-| B35 | HEERENVEEN | 97,3 MHz | 0,30% |
-| B36 | AMERSFOORT | 99,5 MHz | 0,58% |
-| B37 | APPINGEDAM | 103,6 MHz | 0,22% |
-| B38 | KAATSHEUVEL | 104,3 MHz | 0,07% |
-
-| Kavel | Opstelplaats | Frequentie (khz) | Demografisch bereik | Demografisch bereik |
-| --- | --- | --- | --- | --- |
-|   |   |   | Dag | Nacht |
-| C4 | HEINENOORD | 828 kHz | 61,1% | 1,3% |
-| C5 | ALMERE | 1224 kHz | 48,8% | 3,2% |
-| C8 | ECHT | 1035 kHz | 5,8% | 0,4% |
-| C11 | DEN HAAG | 1485 kHz | 12,9% | 1,2% |
-| C11 | TILBURG | 1485 kHz | 3,0% | 0,8% |
-| C12 | AMSTERDAM | 1557 kHz | 13,7% | 0,1% |
-
-Het demografisch bereik is afgeleid van computervoorspellingen van de verzorgingsgebieden en is gebaseerd op een door de Staat toegepast theoretisch planningsmodel. Het is een indicatie waar geen rechten aan ontleend kunnen worden. De daadwerkelijke omvang van de verzorgingsgebieden is mede afhankelijk van de mate waarin vergunninghouders en operators tot optimale technische implementatie komen en eventuele veranderingen in de binnenlandse en buitenlandse situatie. Meer informatie hierover en gedetailleerde kavelbeschrijvingen staan op internet: http://www.agentschap-telecom.nl (via **frequenties** > **omroep** > **restfrequenties NLCO**)
-
-De verantwoordelijkheid voor de technische implementatie - inclusief de noodzakelijke vergunningen op grond van andere wetten - ligt bij de vergunninghouders. De Staat is dan ook niet aansprakelijk voor de implementatie en het om welke reden dan ook niet halen van het demografisch bereik.

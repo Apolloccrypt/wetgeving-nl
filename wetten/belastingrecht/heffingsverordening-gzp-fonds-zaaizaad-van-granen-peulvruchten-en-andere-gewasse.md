@@ -1,43 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 18 december 2007, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2008 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2008)"
+citeertitel: "Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2008"
 identifier: "BWBR0023668"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-03-16"
-last_updated: "2008-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023668"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9456973"
-version_id: "15229012"
-internal_id: "C29399071"
-label_id: "9434534"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023668/2008-03-16/0"
-intitule_bron: "Vbbo.2008-23"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-18"
-intitule_published: "2008-03-14"
-intitule_in_force: "2008-03-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-23"
-original_signed_date: "2007-12-18"
-original_published_date: "2008-03-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-03-16"
-jci_1_3: "jci1.3:c:BWBR0023668&z=2008-03-16&g=2008-03-16"
-jci_1_0: "1.0:c:BWBR0023668&g=2008-03-16"
-citeertitel_status: "officieel"
-short_title: "Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2008"
-signed_date: "2007-12-18"
-entry_into_force: "2008-03-16"
+publicatiedatum: 2008-03-16
+laatste_update: 2008-03-16
+status: geldig
+toestand: 2008-03-16
+bron: "https://wetten.overheid.nl/BWBR0023668"
+opgehaald: 2026-08-12
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 18 december 2007, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2008 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2008)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -60,15 +35,18 @@ Deze verordening verstaat onder:
 
 1. De ondernemer, die in het jaar 2008 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van granen, peulvruchten en andere gewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van granen, peulvruchten en andere gewassen, is verplicht aan het productschap te betalen:
 
-- a. een basisheffing volgens onderstaand tarief: Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
-
-| omzet | heffing |
-| --- | --- |
-| € 20.000 tot € 200.000 | € 54,45 |
-| € 200.000 – 1.000.000 | € 272,27 |
-| € 1.000.000 – 2.000.000 | € 544,54 |
-| € 2.000.000 – 4.000.000 | € 1.089,07 |
-| > € 4.000.000 | € 5.445,36 |
+- a. een basisheffing volgens onderstaand tarief: omzet
+ heffing
+ € 20.000 tot € 200.000
+ € 54,45
+ € 200.000 – 1.000.000
+ € 272,27
+ € 1.000.000 – 2.000.000
+ € 544,54
+ € 2.000.000 – 4.000.000
+ € 1.089,07
+ > € 4.000.000
+ € 5.445,36 Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derde lid verstrekte omzetgegeven, verminderd met het omzetbedrag dat is behaald over door de ondernemer geïmporteerde producten uit andere lidstaten.
 
 - b. een heffing van € 5,58 per ha aangekocht zaaizaad van granen, peulvruchten en andere gewassen dat op contractbasis in Nederland is geteeld met uitzondering van zaaizaad van vezelvlas.
 

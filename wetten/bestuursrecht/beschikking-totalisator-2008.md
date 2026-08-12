@@ -1,50 +1,18 @@
 ---
 title: "Beschikking van de Minister van Justitie van 19 juni 2008, nr. 5551529/08/DSP, houdende verlening van een vergunning tot het organiseren van een totalisator"
+citeertitel: "Beschikking totalisator 2008"
 identifier: "BWBR0024090"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024090"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9590143"
-version_id: "15492502"
-internal_id: "C21134121"
-label_id: "9567404"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024090/2011-07-01/0"
-intitule_bron: "Stcrt.2008-122"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-19"
-intitule_published: "2008-06-27"
-intitule_in_force: "2008-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-122"
-original_signed_date: "2008-06-19"
-original_published_date: "2008-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-122-p19-SC86422"
-entry_into_force_date: "2008-07-01"
-jci_1_3: "jci1.3:c:BWBR0024090&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0024090&g=2011-07-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking totalisator 2008"
-signed_date: "2008-06-19"
-entry_into_force: "2008-07-01"
+publicatiedatum: 2008-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0024090"
+opgehaald: 2026-08-12
 ---
+
 # Beschikking van de Minister van Justitie van 19 juni 2008, nr. 5551529/08/DSP, houdende verlening van een vergunning tot het organiseren van een totalisator
-
-Overwegende dat de geldigheidsduur van de [Beschikking Totalisator 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018459) op 30 juni 2008 verstrijkt;
-
-Gelezen het verzoek van Scientific Games Racing B.V. van 18 oktober 2007 haar opnieuw vergunning te verlenen tot het organiseren van een totalisator;
-
-Gelet op de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=25) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34);
-
-Gehoord het advies van het College van toezicht op de kansspelen van 22 november 2007, nr. C.949/07;
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,44 +1,20 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Economische zaken van 23 juni 2008, nr. WJZ 8074645, inzake het ondernemingsbegrip in het handelsregister"
+citeertitel: "Beleidsregel ondernemingsbegrip in handelsregister"
 identifier: "BWBR0024084"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-05-17"
-last_updated: "2011-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024084"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9576303"
-version_id: "15477752"
-internal_id: "C21117201"
-label_id: "9553324"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024084/2011-05-17/0"
-intitule_bron: "Stcrt.2008-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-23"
-intitule_published: "2008-06-30"
-intitule_in_force: "2008-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-123"
-original_signed_date: "2008-06-23"
-original_published_date: "2008-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-123-p15-SC86324"
-entry_into_force_date: "2008-07-01"
-jci_1_3: "jci1.3:c:BWBR0024084&z=2011-05-17&g=2011-05-17"
-jci_1_0: "1.0:c:BWBR0024084&g=2011-05-17"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel ondernemingsbegrip in handelsregister"
-signed_date: "2008-06-23"
-entry_into_force: "2008-07-01"
+publicatiedatum: 2008-07-01
+laatste_update: 2011-05-17
+status: geldig
+toestand: 2011-05-17
+bron: "https://wetten.overheid.nl/BWBR0024084"
+opgehaald: 2026-08-12
 ---
+
 # Beleidsregel van de Staatssecretaris van Economische zaken van 23 juni 2008, nr. WJZ 8074645, inzake het ondernemingsbegrip in het handelsregister
 
-Gelet op [artikel 54c, eerste lid, van de Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276&artikel=54c);
-
-Besluit dat de kamers bij de beoordeling van de vraag of er sprake is van een onderneming in de zin van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) rekening houden met het navolgende:
+Inleiding
 
 1. Ondernemingen die in Nederland zijn gevestigd dienen te worden ingeschreven in het handelsregister op grond van [artikel 5 Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5), verder genoemd ‘de wet’.
 
@@ -50,21 +26,49 @@ Besluit dat de kamers bij de beoordeling van de vraag of er sprake is van een on
 
 5. De kamer dient een afweging te maken of de opgegeven entiteit een onderneming is, door de omstandigheden van het geval te toetsen. De elementen die in de definitie zijn te onderscheiden moeten ‘voldoende’ aanwezig zijn. Daarbij is er geen sprake van een onderneming indien er, naar het oordeel van de kamer, onvoldoende omvang van activiteiten of omzet is.
 
+Het ondernemingsbegrip bij een naamloze vennootschap (N.V.), een besloten vennootschap met beperkte aansprakelijkheid (B.V.), of coöperatie en onderlinge waarborgmaatschappij
+
 1. Aan een N.V., B.V., coöperatie of onderlinge waarborgmaatschappij behoort in beginsel een onderneming toe. Dit aangezien er vrijwel altijd sprake is van een voldoende zelfstandig optredende organisatorische eenheid van één of meer personen waarin door voldoende inbreng van arbeid of middelen, ten behoeve van derden diensten of goederen worden geleverd of werken tot stand worden gebracht met het oogmerk daarmee materieel voordeel te behalen. Bestaande jurisprudentie bevestigt dit (zie onder andere het ANP-arrest ( HR 17-4-1939, NJ 1939, 690), het Coöperatieve Flatexploitatievereniging ‘Mariahoeve’-arrest (HR 13-1-1966, NJ 1966, 189) en het Hirschmann-arrest (HR 22-1-1989, NJ 1990, 433)).
 
 Ook aan een N.V., B.V., coöperatie en onderlinge waarborgmaatschappij, waarin alleen vermogen wordt beheerd, behoort altijd een onderneming toe (zie Cheops Holding, CBb 26-9-2000, JOR 2000, 236).
 
 2. Aan deze rechtspersonen behoort geen onderneming toe als er per saldo feitelijk geen middelen (meer) aanwezig zijn (zie het Hirschmann-arrest (HR 22-1-1989, NJ 1990, 433). In geval van een vennootschap welke alleen bestemd is voor het uitvoeren van pensioenverplichtingen wordt daarentegen wel een onderneming geacht aanwezig te zijn.
 
+Het ondernemingsbegrip bij een Europese naamloze vennootschap (SE), een Europese Coöperatieve vennootschap (SCE), een Europees economisch samenwerkingsverband (E.E.S.V.) en buitenlandse kapitaalvennootschap met een vestiging in Nederland
+
 Aan een SE met een vestiging in Nederland, een SCE met een vestiging in Nederland, een E.E.S.V. met een vestiging in Nederland en een buitenlandse kapitaalvennootschap met een vestiging in Nederland behoort een onderneming toe aangezien, naar analogie van hetgeen onder de passage met betrekking tot de naamloze vennootschap is gesteld, vrijwel altijd sprake zal zijn van een voldoende zelfstandig optredende organisatorische eenheid van één of meer personen waarin door voldoende inbreng van arbeid of middelen, ten behoeve van derden diensten of goederen worden geleverd of werken tot stand worden gebracht met het oogmerk daarmee materieel voordeel te behalen.
+
+Het ondernemingsbegrip bij een vennootschap onder firma (waaronder begrepen de commanditaire vennootschap) en ‘openbare maatschap’
 
 Voorafgaand aan de invoering van Titel 7.13 BW, wordt aan een VOF, CV of een openbare maatschap die is gevestigd in Nederland geacht een onderneming toe te behoren.
 
 Deze rechtsfiguren worden na invoering van Titel 7.13 BW een openbare vennootschap. Aan een openbare vennootschap behoort altijd een onderneming toe zoals ook beschreven in artikel 1 Hoofdstuk 3 van de Invoeringswet Titel 7.13 BW. De onderneming toebehorende aan een openbare vennootschap zonder rechtspersoonlijkheid is inschrijfplichtig indien deze in Nederland is gevestigd.
 
+Het ondernemingsbegrip bij de overige rechtsvormen
+
 Overige rechtsvormen waaraan een onderneming kan toebehoren zijn:
 
+- – eenmanszaak
+
+- – rederij
+
+- – vereniging
+
+- – stichting
+
+- – kerkgenootschap
+
+- – publiekrechtelijke rechtspersoon
+
+- – overige Nederlandse privaatrechtelijke rechtspersonen
+
+- – buitenlandse rechtsvormen met een vestiging in Nederland, anders dan kapitaalvennootschappen
+
 Onderstaand toetsingskader dient ter beantwoording van de vraag of aan de bovengenoemde overige rechtsvormen een onderneming in de zin van de wet toebehoort of niet. Ook aan een stille maatschap, of na invoering van [Titel 7.13 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) een stille vennootschap, kan een onderneming toebehoren indien de activiteiten van de maatschap in Nederland als zodanig kwalificeren. De maten, respectievelijk vennoten, maken aannemelijk dat de samenwerkingsvorm een stille maatschap betreft.
+
+Toetsingskader wel of geen onderneming in de zin van de
+
+Handelsregisterwet 2007
 
 1. Om na te gaan of sprake is van een onderneming worden allereerst de onder het hieronderstaande kopje ‘Toetsingscriteria’ onder A genoemde criteria gehanteerd. Deze criteria worden door de Belastingdienst gehanteerd bij het beoordelen of er sprake is van een ondernemer in de zin van de [Wet op de Omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) (BTW). Als is voldaan aan deze criteria is doorgaans sprake van een onderneming in de zin van de wet, tenzij niet voldaan wordt aan de criteria van het eerste lid van [artikel 2 van het Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&artikel=2).
 
@@ -82,6 +86,34 @@ Ook aan een vennoot van een openbare vennootschap of een bestuurder/groot aandee
 
 6. Als na het doorlopen van de voorgaande stappen niet zonder meer komt vast te staan dat sprake is van een onderneming, wordt aan de criteria als hieronder in de ‘Toetsingscriteria’ onder B genoemd (Voldoende omvang), getoetst. De Kamers van Koophandel kunnen hierbij degene die de opgave doet om bewijzen vragen.
 
-De Kamers van Koophandel passen deze beleidsregel toe met ingang met ingang van 1 juli 2008.
+Toetsingscriteria
 
-Deze beleidsregel zal in de Staatscourant worden geplaatst.
+- A. Criteria omzetbelasting (B.T.W.)
+
+   - – Worden er goederen en/of diensten geleverd?
+
+   - – Wordt er een meer dan symbolische vergoeding voor gevraagd?
+
+   - – Wordt deelgenomen aan het (normale) economische verkeer?
+
+   - – Is er een organisatie van arbeid en kapitaal?
+
+   - – Is er sprake van geregelde deelname aan het economische verkeer (duurzaamheid)?
+
+   - – Is er sprake van meer dan één opdrachtgever/afnemer (zelfstandigheid)?
+
+   - – Bestaat de vrijheid om de werkzaamheden naar eigen inzicht te verrichten?
+
+- B. Voldoende omvang
+
+   - 1°. Bij het beoordelen of er voldoende omvang is, als bedoeld in het [tweede lid van artikel 2 van het Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&artikel=2), kan onder meer worden gekeken naar de omzet die jaarlijks wordt verwacht of is behaald. Die omzet moet dan wel worden beoordeeld in relatie tot de aard van de onderneming in kwestie; harde bedragen kunnen daardoor niet worden genoemd. Een jaaromzet van (als voorbeeld) € 10.000 kan bij iemand die start met de verkoop van zelfgemaakte producten indiceren tot serieus ondernemerschap terwijl eenzelfde omzet bij iemand die handelt in tweedehands auto’s te laag is als indicator van voldoende omvang.
+
+   - 2°. Bij activiteiten waarbij niet of nauwelijks sprake is van vooraftrek van BTW (voorbeeld: muziekleraar) kan nog worden gerefereerd aan de afdrachtgrens die is neergelegd in [artikel 25 Wet op de Omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=25) (‘Regeling voor kleine ondernemers’). Is de omzet zodanig dat deze afdrachtgrens wordt gepasseerd dan is dat een genoegzame aanwijzing voor voldoende omvang. Deze stelling mag niet worden omgekeerd: wordt die afdrachtgrens niet gepasseerd dan vormt dat nog geen ontkenning van het bestaan van een onderneming. In laatstgenoemde situatie is het zinvol de hierboven genoemde toetsingscriteria nogmaals langs te lopen maar dan in omgekeerde volgorde.
+
+   - 3°. Bij het beoordelen of er voldoende omvang van activiteiten is, kan worden getoetst of er sprake is van een aantoonbaar vestigingsadres waar de vestigingsactiviteiten ook mogen worden uitgeoefend.
+
+   - 4°. Wordt niet aan deze twee criteria voldaan, dan is er in beginsel geen sprake van een onderneming. Als er wel aan wordt voldaan, dienen de voorgaande stappen opnieuw te worden doorlopen en wordt na beoordeling van de onderlinge samenhang alsnog duidelijk of er sprake is van een onderneming.
+
+Tijdstip toepassing van deze beleidsregel
+
+De Kamers van Koophandel passen deze beleidsregel toe met ingang met ingang van 1 juli 2008.

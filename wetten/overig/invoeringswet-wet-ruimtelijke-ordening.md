@@ -1,127 +1,98 @@
 ---
 title: "Wet van 22 mei 2008 tot aanpassing van een aantal wetten met het oog op de inwerkingtreding van de Wet ruimtelijke ordening alsmede regeling van overgangsrecht (Invoeringswet Wet ruimtelijke ordening)"
+citeertitel: "Invoeringswet Wet ruimtelijke ordening"
 identifier: "BWBR0023913"
-country: "nl"
-rank: "wet"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023913"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9513743"
-version_id: "15375162"
-internal_id: "C21070311"
-label_id: "9491844"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023913/2018-07-01/0"
-intitule_bron: "Stb.2008-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-05-22"
-intitule_published: "2008-06-03"
-intitule_in_force: "2008-06-26"
-intitule_status: "goed"
-original_publication: "Stb.2008-180"
-original_signed_date: "2008-05-22"
-original_published_date: "2008-06-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "30938"
-original_url_id: "stb-2008-180"
-entry_into_force_date: "2008-07-01"
-jci_1_3: "jci1.3:c:BWBR0023913&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0023913&g=2018-07-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Wet ruimtelijke ordening"
-signed_date: "2008-05-22"
-entry_into_force: "2008-07-01"
+publicatiedatum: 2008-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0023913"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 22 mei 2008 tot aanpassing van een aantal wetten met het oog op de inwerkingtreding van de Wet ruimtelijke ordening alsmede regeling van overgangsrecht (Invoeringswet Wet ruimtelijke ordening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, ter bevordering van een goede inwerkingtreding van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) wenselijk is een aantal wetten aan te passen, de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) op onderdelen aan te vullen, waaronder het hoofdstuk over Intergemeentelijke samenwerking in stedelijke gebieden, de vestigingsgrondslagen van het voorkeursrecht in de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) te vereenvoudigen, alsmede te voorzien in overgangsregels;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel 1.1
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 1.2
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 1.3
 
-Wijzigt de Wet algemene regels herindeling.
+*Wijzigt de Wet algemene regels herindeling.*
 
 ### Hoofdstuk II. Economische Zaken
 
 ##### Artikel 2.1
 
-Wijzigt de Elektriciteitswet 1998.
+*Wijzigt de Elektriciteitswet 1998.*
 
 ### Hoofdstuk III. Financiën
 
 ##### Artikel 3.1
 
-Wijzigt de Wet Financiering Wederopbouw Publiekrechtelijke Lichamen.
+*Wijzigt de Wet Financiering Wederopbouw Publiekrechtelijke Lichamen.*
 
 ### Hoofdstuk IV. Justitie
 
 ##### Artikel 4.1
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 4.2
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel 4.3
 
-Wijzigt de Pachtwet.
+*Wijzigt de Pachtwet.*
 
 ##### Artikel 4.4
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel 4.5
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ### Hoofdstuk V. Landbouw, Natuur en Voedselkwaliteit
 
 ##### Artikel 5.1
 
-Wijzigt de Boswet.
+*Wijzigt de Boswet.*
 
 ##### Artikel 5.2
 
-Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
+*Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.*
 
 ##### Artikel 5.3
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel 5.4
 
-Wijzigt de Reconstructiewet concentratiegebieden.
+*Wijzigt de Reconstructiewet concentratiegebieden.*
 
 ##### Artikel 5.5
 
-Wijzigt de Wet agrarisch grondverkeer.
+*Wijzigt de Wet agrarisch grondverkeer.*
 
 ### Hoofdstuk VI. Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 6.1
 
-Wijzigt de Monumentenwet 1988.
+*Wijzigt de Monumentenwet 1988.*
 
 ##### Artikel 6.2
 
-Wijzigt de Monumentenwet 1988.
+*Wijzigt de Monumentenwet 1988.*
 
 ##### Artikel 6.3
 
@@ -131,121 +102,121 @@ Wijzigt de Monumentenwet 1988.
 
 ##### Artikel 7.1
 
-Wijzigt de Luchtvaartwet.
+*Wijzigt de Luchtvaartwet.*
 
 ##### Artikel 7.2
 
-Wijzigt de Luchtvaartwet.
+*Wijzigt de Luchtvaartwet.*
 
 ##### Artikel 7.3
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel 7.4
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel 7.5
 
-Wijzigt de Ontgrondingenwet.
+*Wijzigt de Ontgrondingenwet.*
 
 ##### Artikel 7.6
 
-Wijzigt de Ontgrondingenwet.
+*Wijzigt de Ontgrondingenwet.*
 
 ##### Artikel 7.7
 
-Wijzigt de Planwet verkeer en vervoer.
+*Wijzigt de Planwet verkeer en vervoer.*
 
 ##### Artikel 7.8
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel 7.9
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel 7.10
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.
+*Wijzigt de Wet bereikbaarheid en mobiliteit.*
 
 ##### Artikel 7.11
 
-Wijzigt de Wet op de waterkering.
+*Wijzigt de Wet op de waterkering.*
 
 ### Hoofdstuk VIII. Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 ##### Artikel 8.1
 
-Wijzigt de Huisvestingswet.
+*Wijzigt de Huisvestingswet.*
 
 ##### Artikel 8.2
 
-Wijzigt de Interimwet stad-en-milieubenadering.
+*Wijzigt de Interimwet stad-en-milieubenadering.*
 
 ##### Artikel 8.2.a
 
-Wijzigt de Reconstructiewet Midden-Delfland.
+*Wijzigt de Reconstructiewet Midden-Delfland.*
 
 ##### Artikel 8.3
 
-Wijzigt de Waterleidingwet.
+*Wijzigt de Waterleidingwet.*
 
 ##### Artikel 8.4
 
-Wijzigt de Wet ammoniak en veehouderij.
+*Wijzigt de Wet ammoniak en veehouderij.*
 
 ##### Artikel 8.5
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel 8.6
 
-Wijzigt de Wet buitenspeelruimte.
+*Wijzigt de Wet buitenspeelruimte.*
 
 ##### Artikel 8.7
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel 8.8
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 8.9
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 8.10
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 8.11
 
-Wijzigt de Wet op de Raad voor de Wadden.
+*Wijzigt de Wet op de Raad voor de Wadden.*
 
 ##### Artikel 8.12
 
-Wijzigt de Wet op de VROM-raad.
+*Wijzigt de Wet op de VROM-raad.*
 
 ##### Artikel 8.13
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel 8.14
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel 8.15
 
-Wijzigt de Wijzigingswet Huisvestingswet, enz. (integratie van de woonwagen- en woonschepenregelgeving).
+*Wijzigt de Wijzigingswet Huisvestingswet, enz. (integratie van de woonwagen- en woonschepenregelgeving).*
 
 ##### Artikel 8.16
 
-Wijzigt de Wet voorkeursrecht gemeenten.
+*Wijzigt de Wet voorkeursrecht gemeenten.*
 
 ##### Artikel 8.17
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel 8.18
 
@@ -253,7 +224,7 @@ Vervallen.
 
 ##### Artikel 8.19
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel 8.20
 
@@ -261,7 +232,7 @@ De [Woningwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) wordt inget
 
 ### Hoofdstuk IX. Overgangsrecht
 
-### Afdeling 9.1. Overgangsrecht [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) – WRO
+#### Afdeling 9.1. Overgangsrecht Wet op de Ruimtelijke Ordening – WRO
 
 ##### Artikel 9.1.1
 
@@ -289,11 +260,11 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een bestemmingsplan, waarvan het ontwerp vóór dat tijdstip ter inzage is gelegd, met dien verstande dat na dat tijdstip niet meer een verzoek als bedoeld in [artikel 33, tweede lid, van de Wet op de Ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=33) kan worden ingediend.
 
-3. Vervallen.
+3. *Vervallen.*
 
-4. Vervallen.
+4. *Vervallen.*
 
-5. Dit lid is nog niet in werking getreden.
+5. *Dit lid is nog niet in werking getreden.*
 
 ##### Artikel 9.1.5
 
@@ -391,7 +362,11 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft tot 1 september 2010 op die overeenkomsten van toepassing.
 
-### Afdeling 9.2. Overgangsrecht [Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709) – WRO
+##### Artikel 9.1.20
+
+Voor zover op grond van een bestemmingsplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=10) of [11 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=11) bouwvergunning had kunnen worden verleend voor een bouwplan dat na 1 juli 2008 is aangewezen krachtens [artikel 6.12, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12), en bij de herziening van dat bestemmingsplan na dat tijdstip geen andere bestemmingsregeling is vastgesteld, blijven de [artikelen 6.12 tot en met 6.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12) ten aanzien van een dergelijk bouwplan buiten toepassing.
+
+#### Afdeling 9.2. Overgangsrecht Wet op de stads- en dorpsvernieuwing – WRO
 
 ##### Artikel 9.2.1
 
@@ -423,7 +398,7 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een vóór dat tijdstip genomen besluit als bedoeld in [artikel 29 van de Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709&artikel=29).
 
-### Afdeling 9.3. [Overgangswet Ruimtelijke Ordening en Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452) – WRO
+#### Afdeling 9.3. Overgangswet Ruimtelijke Ordening en Volkshuisvesting – WRO
 
 ##### Artikel 9.3.1
 
@@ -435,7 +410,7 @@ De [Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overhe
 
 2. De plannen, regelingen en voorschriften, bedoeld in het eerste lid, vervallen vijf jaar na het tijdstip van inwerkingtreding van deze wet.
 
-### Afdeling 9.4. Overgangsrecht [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) – WRO
+#### Afdeling 9.4. Overgangsrecht Wet voorkeursrecht gemeenten – WRO
 
 ##### Artikel 9.4.1
 
@@ -461,13 +436,13 @@ Een besluit tot aanwijzing van gronden als bedoeld in [artikel 8 van de Wet voor
 
 Een voorstel van burgemeester en wethouders als bedoeld in [artikel 8a van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=8a) zoals dat luidde vóór het tijdstip van inwerkingtreding van deze wet wordt gelijkgesteld met een aanwijzingsbesluit als bedoeld in [artikel 6 van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=6) zoals dit luidt na inwerkingtreding van deze wet, met dien verstande dat de in [laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=6) genoemde termijn acht weken bedraagt.
 
-### Afdeling 9.5. Overgangsrecht [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+#### Afdeling 9.5. Overgangsrecht Woningwet
 
 ##### Artikel 9.5.1
 
 De [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) zoals die gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een besluit omtrent een bouwvergunning als bedoeld in [artikel 40 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40) waarvan de aanvraag is ingekomen voor dat tijdstip.
 
-### Afdeling 9.6. Overgangsrecht uitvoeringsregelingen
+#### Afdeling 9.6. Overgangsrecht uitvoeringsregelingen
 
 ##### Artikel 9.6.1
 
@@ -479,7 +454,7 @@ De [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) zoals die gold v
 
 Na de inwerkingtreding van deze wet berust het [Besluit subsidiëring stichting bestuursrechtspraak milieu en ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0007574) op [artikel 8.8 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=8.8).
 
-### Afdeling 9.7. Overgangsrecht bouwplanonteigening
+#### Afdeling 9.7. Overgangsrecht bouwplanonteigening
 
 ##### Artikel 9.7.1
 
@@ -514,25 +489,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 10.3
 
 Deze wet wordt aangehaald als: Invoeringswet Wet ruimtelijke ordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9.1.20
-
-Voor zover op grond van een bestemmingsplan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=10) of [11 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=11) bouwvergunning had kunnen worden verleend voor een bouwplan dat na 1 juli 2008 is aangewezen krachtens [artikel 6.12, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12), en bij de herziening van dat bestemmingsplan na dat tijdstip geen andere bestemmingsregeling is vastgesteld, blijven de [artikelen 6.12 tot en met 6.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.12) ten aanzien van een dergelijk bouwplan buiten toepassing.
-
-### Afdeling 9.2. Overgangsrecht [Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709) – WRO
-
-### Afdeling 9.3. [Overgangswet Ruimtelijke Ordening en Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452) – WRO
-
-### Afdeling 9.4. Overgangsrecht [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) – WRO
-
-### Afdeling 9.5. Overgangsrecht [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
-
-### Afdeling 9.6. Overgangsrecht uitvoeringsregelingen
-
-### Afdeling 9.7. Overgangsrecht bouwplanonteigening
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

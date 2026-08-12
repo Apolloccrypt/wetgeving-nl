@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2008 (Verordening PT vakheffing bloemkwekerijproducten 2008)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2008"
 identifier: "BWBR0022727"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022727"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9253563"
-version_id: "14841652"
-internal_id: "C20193531"
-label_id: "9232244"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022727/2007-10-21/0"
-intitule_bron: "Vbbo.2007-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-03"
-intitule_published: "2007-10-19"
-intitule_in_force: "2007-10-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-64"
-original_signed_date: "2007-07-03"
-original_published_date: "2007-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-10-21"
-jci_1_3: "jci1.3:c:BWBR0022727&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0022727&g=2007-10-21"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2008"
-signed_date: "2007-07-03"
-entry_into_force: "2007-10-21"
+publicatiedatum: 2007-10-21
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0022727"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2008 (Verordening PT vakheffing bloemkwekerijproducten 2008)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bloemkwekerijproducten, d.d. 16 mei 2007;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -117,21 +88,21 @@ Voor kwekers van bloemzaden wordt bij de heffing, bij de berekening en oplegging
 
 7. Voor de kweker cq importeur, die aantoont dat hij bij de NAK-Tuinbouw is geregistreerd en teeltmateriaal onder toezicht van de NAK-Tuinbouw heeft verhandeld, geldt de heffing voor teeltmateriaal.
 
-- a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
+8. - a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
 
 - b. Wanneer het productschap bij handelsbedrijven vaststelt dat op jaarbasis de heffingsgrondslag van aangekochte bloemkwekerijproducten hoger is dan € 11.000.000,=, wordt over:
 
-- 1. het bedrag tussen € 0,0 - € 11.000.000= het heffingstarief van 0,31% toegepast,
+   - 1. het bedrag tussen € 0,0 - € 11.000.000= het heffingstarief van 0,31% toegepast,
 
-- 2. het bedrag tussen € 11.000.000,= en € 50.000.000,= het verlaagde heffingstarief van 0,21% toegepast, en
+   - 2. het bedrag tussen € 11.000.000,= en € 50.000.000,= het verlaagde heffingstarief van 0,21% toegepast, en
 
-- 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffingstarief van 0,11% toegepast,
+   - 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffingstarief van 0,11% toegepast,
 
 - c. Wanneer het productschap bij teeltbedrijven vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde teeltmateriaal) hoger is dan € 6.000.000,=, wordt over:
 
-- 1. de eerste € 6.000.000,= het heffingstarief van 0,91% toegepast, en
+   - 1. de eerste € 6.000.000,= het heffingstarief van 0,91% toegepast, en
 
-- 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,66% toegepast,
+   - 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,66% toegepast,
 
 - d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop van het jaar waarover de restitutie wordt gevraagd en vergezeld gaan van een accountantsverklaring.
 
@@ -176,5 +147,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2008.
-
-Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

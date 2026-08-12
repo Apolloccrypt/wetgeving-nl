@@ -1,39 +1,17 @@
 ---
 title: "Beleidslijn van de Minister van Financiën inzake de aanvraag of verlening van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een marktexploitant op grond van artikel 5:32d Wft"
+citeertitel: "Beleidslijn verklaring van geen bezwaar gekwalificeerde deelneming in een marktexploitant ex artikel 5:32d Wft"
 identifier: "BWBR0023446"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2008-02-07"
-last_updated: "2008-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023446"
+categorie: "Financieel recht"
 soort: "beleidsregel"
-stam_id: "9413003"
-version_id: "15152422"
-internal_id: "C20656271"
-label_id: "9390494"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023446/2008-02-07/0"
-intitule_bron: "Stcrt.2008-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-30"
-intitule_published: "2008-02-07"
-intitule_in_force: "2008-02-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-27"
-original_signed_date: "2008-01-30"
-original_published_date: "2008-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-27-p8-SC84384"
-entry_into_force_date: "2008-02-07"
-jci_1_3: "jci1.3:c:BWBR0023446&z=2008-02-07&g=2008-02-07"
-jci_1_0: "1.0:c:BWBR0023446&g=2008-02-07"
-citeertitel_status: "redactioneel"
-short_title: "Beleidslijn verklaring van geen bezwaar gekwalificeerde deelneming in een marktexploitant ex artikel 5:32d Wft"
-signed_date: "2008-01-30"
-entry_into_force: "2008-02-07"
+publicatiedatum: 2008-02-07
+laatste_update: 2008-02-07
+status: geldig
+toestand: 2008-02-07
+bron: "https://wetten.overheid.nl/BWBR0023446"
+opgehaald: 2026-08-12
 ---
+
 # Beleidslijn van de Minister van Financiën inzake de aanvraag of verlening van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een marktexploitant op grond van artikel 5:32d Wft
 
 ### Inleiding
@@ -63,6 +41,22 @@ Het vvgb-stelsel kent een ja-tenzij karakter. Dit betekent dat de vvgb wordt ver
 Maatgevend zijn de drie criteria in het tweede lid van [artikel 5:32d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32d): i) zou de handeling ertoe zou kunnen leiden dat de betrokken marktexploitant in een formele of feitelijke zeggenschapsstructuur wordt verbonden met personen die in zodanige mate ondoorzichtig is dat deze een belemmering zou vormen voor het adequaat uitoefenen van de controle op de naleving van de voor de gereglementeerde markt geldende regels, (ii) zou de handeling kunnen leiden tot een invloed op de desbetreffende marktexploitant die in strijd is met de belangen die [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) beoogt te beschermen en (iii) zou de handeling een bedreiging voor de gezonde en prudente bedrijfsvoering van de gereglementeerde markt kunnen vormen.
 
 De volgende elementen kunnen daarbij een rol spelen:
+
+- – financiële soliditeit van de aanvrager;
+
+- – mogelijke belangenconflicten tussen de gereglementeerde markt en de aanvrager, bijvoorbeeld ingeval die tevens een aangesloten onderneming is of een uitgevende instelling waarvan financiële instrumenten zijn toegelaten tot de handel op de gereglementeerde markt in kwestie;
+
+- – deskundigheid van de aanvrager, indien deze daadwerkelijk invloed kan hebben of heeft op (het beleid van) de gereglementeerde markt;
+
+- – betrouwbaarheid van de aanvrager;
+
+- – de groepsstructuur: welke persoon hebben formeel of feitelijk zeggenschap en welke personen zijn verantwoordelijke (mede)beleidsbepalers;
+
+- – voornemens van de aanvrager;
+
+- – mate van zeggenschap van de aanvrager;
+
+- – mogelijke invloed op de ordelijk handel op de gereglementeerde markt
 
 Uit de door de aanvrager van de vvgb over te leggen stukken zal moeten blijken dat deze elementen geen gronden voor bezwaar opleveren. Voor de goede orde wordt opgemerkt dat de toetsing – met name waar het (de beperking van) het uitoefenen van zeggenschap betreft – geen betrekking zal hebben op mededingingsrechtelijke aspecten en op de vennootschapsrechtelijke relatie tussen de verschillende bij de vennootschap betrokken organen.
 

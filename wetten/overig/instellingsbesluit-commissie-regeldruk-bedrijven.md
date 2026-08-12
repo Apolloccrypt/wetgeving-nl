@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Economische Zaken en de Staatssecretaris van Financiën van 20 april 2008, nr. WJZ 8037489, houdende instelling van de Commissie regeldruk bedrijven (Instellingsbesluit Commissie regeldruk bedrijven)"
+citeertitel: "Instellingsbesluit Commissie regeldruk bedrijven"
 identifier: "BWBR0023799"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-05-01"
-last_updated: "2008-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023799"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9489603"
-version_id: "15300662"
-internal_id: "C29403801"
-label_id: "9467064"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023799/2008-05-01/0"
-intitule_bron: "Stcrt.2008-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-20"
-intitule_published: "2008-04-29"
-intitule_in_force: "2008-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-83"
-original_signed_date: "2008-04-20"
-original_published_date: "2008-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-83-p12-SC85480"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBR0023799&z=2008-05-01&g=2008-05-01"
-jci_1_0: "1.0:c:BWBR0023799&g=2008-05-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie regeldruk bedrijven"
-signed_date: "2008-04-20"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2008-05-01
+status: geldig
+toestand: 2008-05-01
+bron: "https://wetten.overheid.nl/BWBR0023799"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de Staatssecretaris van Economische Zaken en de Staatssecretaris van Financiën van 20 april 2008, nr. WJZ 8037489, houdende instelling van de Commissie regeldruk bedrijven (Instellingsbesluit Commissie regeldruk bedrijven)
-
-Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -125,5 +99,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie regeldruk bedrijven.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

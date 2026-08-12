@@ -1,46 +1,18 @@
 ---
 title: "Besluit van De Nederlandsche Bank NV van 20 november 2007, nr. Juza/2007/00681/CLR, tot vaststelling van formulieren ten behoeve van de meldingen, bedoeld in de artikelen 102, eerste lid, en 125, onderdeel b, van de Pensioenwet respectievelijk de meldingen, bedoeld in de artikelen 107, eerste lid, en 25, onderdeel b, van de Wet verplichte beroepspensioenregeling (Besluit vaststelling meldingsformulieren pensioenfondsen)"
+citeertitel: "Besluit vaststelling meldingsformulieren pensioenfondsen"
 identifier: "BWBR0022906"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-11-29"
-last_updated: "2007-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022906"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "9292463"
-version_id: "14918562"
-internal_id: "C20292681"
-label_id: "9270994"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022906/2007-11-29/0"
-intitule_bron: "Stcrt.2007-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-20"
-intitule_published: "2007-11-27"
-intitule_in_force: "2007-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-230"
-original_signed_date: "2007-11-20"
-original_published_date: "2007-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-230-p10-SC83149"
-entry_into_force_date: "2007-11-29"
-jci_1_3: "jci1.3:c:BWBR0022906&z=2007-11-29&g=2007-11-29"
-jci_1_0: "1.0:c:BWBR0022906&g=2007-11-29"
-citeertitel_status: "officieel"
-short_title: "Besluit vaststelling meldingsformulieren pensioenfondsen"
-signed_date: "2007-11-20"
-entry_into_force: "2007-11-29"
+publicatiedatum: 2007-11-29
+laatste_update: 2007-11-29
+status: geldig
+toestand: 2007-11-29
+bron: "https://wetten.overheid.nl/BWBR0022906"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van De Nederlandsche Bank NV van 20 november 2007, nr. Juza/2007/00681/CLR, tot vaststelling van formulieren ten behoeve van de meldingen, bedoeld in de artikelen 102, eerste lid, en 125, onderdeel b, van de Pensioenwet respectievelijk de meldingen, bedoeld in de artikelen 107, eerste lid, en 25, onderdeel b, van de Wet verplichte beroepspensioenregeling (Besluit vaststelling meldingsformulieren pensioenfondsen)
-
-Na overleg met de representatieve organisaties;
-
-Gelet op de [artikelen 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=102), en [125, onderdeel b, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=125) respectievelijk de [artikelen 107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=107), en [25, onderdeel b, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,11 +37,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit vaststelling meldingsformulieren pensioenfondsen.
-
-## Bijlage A
-
-## Bijlage B
-
-## Bijlage C
-
-Dit besluit zal met zijn bijlagen en toelichting in de Staatscourant worden geplaatst.

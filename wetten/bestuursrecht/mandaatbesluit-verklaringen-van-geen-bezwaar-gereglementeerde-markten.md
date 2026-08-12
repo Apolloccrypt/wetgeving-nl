@@ -1,45 +1,17 @@
 ---
 title: "Mandaatbesluit verklaringen van geen bezwaar gereglementeerde markten"
 identifier: "BWBR0023447"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-04-01"
-last_updated: "2008-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023447"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9413133"
-version_id: "15152562"
-internal_id: "C20656411"
-label_id: "9390634"
-dtd_version: "2.0"
-original_entry_into_force: "2008-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023447/2008-04-01/0"
-intitule_bron: "Stcrt.2008-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-30"
-intitule_published: "2008-02-07"
-intitule_in_force: "2008-02-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-27"
-original_signed_date: "2008-01-30"
-original_published_date: "2008-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-27-p10-SC84383"
-entry_into_force_date: "2008-04-01"
-jci_1_3: "jci1.3:c:BWBR0023447&z=2008-04-01&g=2008-04-01"
-jci_1_0: "1.0:c:BWBR0023447&g=2008-04-01"
-citeertitel_status: "officieel"
-signed_date: "2008-01-30"
-entry_into_force: "2008-04-01"
+publicatiedatum: 2008-04-01
+laatste_update: 2008-04-01
+status: geldig
+toestand: 2008-04-01
+bron: "https://wetten.overheid.nl/BWBR0023447"
+opgehaald: 2026-08-12
 ---
+
 # Mandaatbesluit verklaringen van geen bezwaar gereglementeerde markten
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de Stichting Autoriteit Financiële Markten van 29 januari 2008, kenmerk JZ-MGEs-08011304;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,5 +60,3 @@ Het [Mandaatbesluit verklaringen van geen bezwaar markten in financiële instrum
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Mandaatbesluit verklaringen van geen bezwaar gereglementeerde markten.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

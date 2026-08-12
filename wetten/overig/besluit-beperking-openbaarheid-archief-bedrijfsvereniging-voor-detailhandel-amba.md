@@ -1,43 +1,17 @@
 ---
 title: "Besluit beperking openbaarheid archief Bedrijfsvereniging voor Detailhandel, Ambachten en Huisvrouwen"
 identifier: "BWBR0023911"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-06-04"
-last_updated: "2008-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023911"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9513463"
-version_id: "15373662"
-internal_id: "C20963371"
-label_id: "9490604"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023911/2008-06-04/0"
-intitule_bron: "Stcrt.2008-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-23"
-intitule_published: "2008-06-02"
-intitule_in_force: "2008-06-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-103"
-original_signed_date: "2008-04-23"
-original_published_date: "2008-06-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-103-p19-SC85849"
-entry_into_force_date: "2008-06-04"
-jci_1_3: "jci1.3:c:BWBR0023911&z=2008-06-04&g=2008-06-04"
-jci_1_0: "1.0:c:BWBR0023911&g=2008-06-04"
-citeertitel_status: "redactioneel"
-signed_date: "2008-04-23"
-entry_into_force: "2008-06-04"
+publicatiedatum: 2008-06-04
+laatste_update: 2008-06-04
+status: geldig
+toestand: 2008-06-04
+bron: "https://wetten.overheid.nl/BWBR0023911"
+opgehaald: 2026-08-12
 ---
+
 # Besluit beperking openbaarheid archief Bedrijfsvereniging voor Detailhandel, Ambachten en Huisvrouwen
-
-Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -74,7 +48,3 @@ Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de be
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst.
-
-## Bijlage
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

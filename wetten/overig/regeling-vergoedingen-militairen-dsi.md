@@ -1,69 +1,43 @@
 ---
 title: "Regeling vergoedingen militairen DSI"
 identifier: "BWBR0039792"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-15"
-last_updated: "2026-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039792"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "14072883"
-version_id: "24231992"
-internal_id: "C34807281"
-label_id: "14033844"
-dtd_version: "2.0"
-original_entry_into_force: "2017-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039792/2026-01-15/0"
-intitule_bron: "Stcrt.2017-40225"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-07-06"
-intitule_published: "2017-07-17"
-intitule_in_force: "2017-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-40225"
-original_signed_date: "2017-07-06"
-original_published_date: "2017-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-40225"
-entry_into_force_date: "2017-07-17"
-jci_1_3: "jci1.3:c:BWBR0039792&z=2026-01-15&g=2026-01-15"
-jci_1_0: "1.0:c:BWBR0039792&g=2026-01-15"
-citeertitel_status: "officieel"
-signed_date: "2017-07-06"
-entry_into_force: "2017-07-17"
+publicatiedatum: 2017-07-17
+laatste_update: 2026-08-11
+status: geldig
+toestand: 2026-08-11
+bron: "https://wetten.overheid.nl/BWBR0039792"
+opgehaald: 2026-08-12
 ---
+
 # Regeling vergoedingen militairen DSI
-
-Gelet op de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60a), [60c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60c) en [117 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=117), [artikel 12 van het Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=12) en [artikel 12 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12)
-
-De Minister van Defensie
 
 ##### Artikel 1. Begripsomschrijving
 
 In deze regeling wordt verstaan onder:
 
-- **Militair:**
+- *Militair:*
 
-- 1). de militair die is geplaatst bij de Dienst Speciale Interventies (DSI) en in dat kader voor operationele inzet beschikbaar is;
+   - 1) de militair die is geplaatst bij de Dienst Speciale Interventies (DSI) en in dat kader voor operationele inzet beschikbaar is;
 
-- 2). door de commandant van het Korps Mariniers aan te wijzen militairen, met een maximum van 142, van de Maritime Special Operations Forces indien deze voor operationele inzet beschikbaar zijn;
+   - 2) door de commandant van het Korps Mariniers aan te wijzen militairen, met een maximum van 142, van de Maritime Special Operations Forces indien deze voor operationele inzet beschikbaar zijn;
 
-- 3). door de commandant van de Brigade Speciale Beveiligingsopdrachten Koninklijke Marechaussee aan te wijzen militairen, met een maximum van 38, van de afdeling operaties 2 en deel uitmaakt van het Arrestatie en Ondersteuningsteam, indien deze voor operationele inzet beschikbaar zijn;
+   - 3) door de commandant van de Brigade Speciale Beveiligingsopdrachten Koninklijke Marechaussee aan te wijzen militairen, met een maximum van 38, van de afdeling operaties 2 en deel uitmaakt van het Arrestatie en Ondersteuningsteam, indien deze voor operationele inzet beschikbaar zijn;
 
-- **VROB:** Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+- *VROB:* Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
 
 ##### Artikel 2. Consignatie- en inzetvergoeding
 
 1. In afwijking van artikel 7 van de VROB wordt de militair voor consignatie een vergoeding toegekend.
 
-2. In afwijking van [artikel 12 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12) wordt de militair een tegemoetkoming voor verblijfskosten toegekend voor zover samenhangend met de operationele inzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15).
+2. In afwijking van [artikel 12 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12) wordt de militair een tegemoetkoming voor verblijfskosten toegekend voor zover samenhangend met de operationele inzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-08-11&g=2026-08-11).
 
-3. De in het eerste lid en tweede lid bedoelde vergoedingen bedragen tezamen € 1.296,62 bruto per maand.
+3. De in het eerste lid en tweede lid bedoelde vergoedingen bedragen tezamen € 1.339,41 bruto per maand.
 
 ##### Artikel 3. Tegemoetkoming kosten bovenmaatse kleding
 
-In afwijking van [artikel 14 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=14) wordt de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) voor de aanschaf van burgerkleding, waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair een tegemoetkoming van € 1.750,20 bruto per kalenderjaar toegekend.
+In afwijking van [artikel 14 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=14) wordt de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-08-11&g=2026-08-11) voor de aanschaf van burgerkleding, waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair een tegemoetkoming van € 1.807,96 bruto per kalenderjaar toegekend.
 
 ##### Artikel 4. Toelage DSI
 
@@ -75,13 +49,13 @@ Aan de militair wordt per maand een toelage toegekend van 15% over het maximum v
 
 2. In afwijking van artikel 6, eerste lid, van de VROB wordt aan de militair voor het verrichten van meerdaagse activiteiten die een aaneengesloten periode van een etmaal of langer dan een etmaal beslaan geen vergoeding toegekend.
 
-3. Het rooster van de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) is gebaseerd op een arbeidsduur van gemiddeld 36 uren per week, zonder dat hiervoor een korting op het salaris wordt toegepast.
+3. Het rooster van de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-08-11&g=2026-08-11) is gebaseerd op een arbeidsduur van gemiddeld 36 uren per week, zonder dat hiervoor een korting op het salaris wordt toegepast.
 
-4. De militair bedoeld in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) heeft geen aanspraak op vergoedingen zoals opgenomen in de [Regeling vergoeding extra werkdruk Brigade Speciale Beveiligingsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0039958).
+4. De militair bedoeld in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-08-11&g=2026-08-11) heeft geen aanspraak op vergoedingen zoals opgenomen in de [Regeling vergoeding extra werkdruk Brigade Speciale Beveiligingsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0039958).
 
 ##### Artikel 6. Inwerkingtreding
 
-Deze ministeriële regeling treedt in werking met ingang van de datum dat zij bekend wordt gemaakt en werkt terug tot 1 juli 2006.
+Deze ministeriële regeling treedt in werking met ingang van de datum dat zij bekend wordt gemaakt en werkt terug tot 1 juli 2006.
 
 ##### Artikel 7. Citeertitel
 

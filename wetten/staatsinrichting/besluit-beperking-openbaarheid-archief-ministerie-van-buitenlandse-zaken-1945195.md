@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 9 juni 2008, nr. DDI/ST/reg. 035/2008, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1945–1954"
+citeertitel: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1945–1954 (eerbiediging persoonlijke levenssfeer)"
 identifier: "BWBR0023999"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-06-19"
-last_updated: "2008-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023999"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9533913"
-version_id: "15413312"
-internal_id: "C21022761"
-label_id: "9510964"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023999/2008-06-19/0"
-intitule_bron: "Stcrt.2008-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-09"
-intitule_published: "2008-06-17"
-intitule_in_force: "2008-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-114"
-original_signed_date: "2008-06-09"
-original_published_date: "2008-06-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-114-p7-SC86091"
-entry_into_force_date: "2008-06-19"
-jci_1_3: "jci1.3:c:BWBR0023999&z=2008-06-19&g=2008-06-19"
-jci_1_0: "1.0:c:BWBR0023999&g=2008-06-19"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1945–1954 (eerbiediging persoonlijke levenssfeer)"
-signed_date: "2008-06-09"
-entry_into_force: "2008-06-19"
+publicatiedatum: 2008-06-19
+laatste_update: 2008-06-19
+status: geldig
+toestand: 2008-06-19
+bron: "https://wetten.overheid.nl/BWBR0023999"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2008, nr. DDI/ST/reg. 035/2008, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1945–1954
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -608,5 +582,3 @@ Het vervaardigen van reproducties van documenten uit, danwel het publiceren van 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 Dit besluit zal met de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0023999&bijlage=1&z=2008-06-19&g=2008-06-19) in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Ministerie van Buitenlandse Zaken 1945–1954’.
-
-## Bijlage 1

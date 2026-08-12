@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2007, nr. MEVA/NBO-2817611, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake budgetopschoning in verband met de 2e tranche opleidingsfonds AWBZ en ‘cure’"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake budgetopschoning in verband met de 2e tranche opleidingsfonds AWBZ en ‘cure’)"
 identifier: "BWBR0023120"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-12-21"
-last_updated: "2007-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023120"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9340353"
-version_id: "15014402"
-internal_id: "C20451411"
-label_id: "9318664"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023120/2007-12-21/0"
-intitule_bron: "Stcrt.2007-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-14"
-intitule_published: "2007-12-21"
-intitule_in_force: "2007-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-248"
-original_signed_date: "2007-12-14"
-original_published_date: "2007-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-248-p52-SC83645"
-entry_into_force_date: "2007-12-21"
-jci_1_3: "jci1.3:c:BWBR0023120&z=2007-12-21&g=2007-12-21"
-jci_1_0: "1.0:c:BWBR0023120&g=2007-12-21"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (inzake budgetopschoning in verband met de 2e tranche opleidingsfonds AWBZ en ‘cure’)"
-signed_date: "2007-12-14"
-entry_into_force: "2007-12-21"
+publicatiedatum: 2007-12-21
+laatste_update: 2007-12-21
+status: geldig
+toestand: 2007-12-21
+bron: "https://wetten.overheid.nl/BWBR0023120"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2007, nr. MEVA/NBO-2817611, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake budgetopschoning in verband met de 2e tranche opleidingsfonds AWBZ en ‘cure’
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 18 oktober 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, vergaderjaar 2007/08, 29 282, nr. 45);
-
-Besluit:
 
 ##### Artikel 1
 

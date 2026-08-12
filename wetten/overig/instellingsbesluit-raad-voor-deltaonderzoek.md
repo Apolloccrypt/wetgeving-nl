@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Verkeer en Waterstaat houdende instelling van de Raad voor Deltaonderzoek"
+citeertitel: "Instellingsbesluit Raad voor Deltaonderzoek"
 identifier: "BWBR0023444"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-10"
-last_updated: "2008-02-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023444"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9412713"
-version_id: "15151292"
-internal_id: "C20654671"
-label_id: "9390204"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023444/2008-02-10/0"
-intitule_bron: "Stcrt.2008-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-30"
-intitule_published: "2008-02-08"
-intitule_in_force: "2008-02-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-28"
-original_signed_date: "2008-01-30"
-original_published_date: "2008-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-28-p10-SC84378"
-entry_into_force_date: "2008-02-10"
-jci_1_3: "jci1.3:c:BWBR0023444&z=2008-02-10&g=2008-02-10"
-jci_1_0: "1.0:c:BWBR0023444&g=2008-02-10"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad voor Deltaonderzoek"
-signed_date: "2008-01-30"
-entry_into_force: "2008-02-10"
+publicatiedatum: 2008-02-10
+laatste_update: 2008-02-10
+status: geldig
+toestand: 2008-02-10
+bron: "https://wetten.overheid.nl/BWBR0023444"
+opgehaald: 2026-08-12
 ---
-# Besluit van de Staatssecretaris van Verkeer en Waterstaat houdende instelling van de Raad voor Deltaonderzoek
 
-Besluit:
+# Besluit van de Staatssecretaris van Verkeer en Waterstaat houdende instelling van de Raad voor Deltaonderzoek
 
 ##### Artikel 1
 
@@ -103,5 +79,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad voor Deltaonderzoek.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

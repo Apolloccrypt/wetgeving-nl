@@ -1,47 +1,18 @@
 ---
 title: "Wet van 10 april 2008, houdende bepalingen houdende regeling van de inwerkingtreding van de Binnenvaartwet (Invoeringswet Binnenvaartwet)"
+citeertitel: "Invoeringswet Binnenvaartwet"
 identifier: "BWBR0023849"
-country: "nl"
-rank: "wet"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023849"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9500643"
-version_id: "15320542"
-internal_id: "C22316691"
-label_id: "9478294"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023849/2009-07-01/0"
-intitule_bron: "Stb.2008-157"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-10"
-intitule_published: "2008-05-15"
-intitule_in_force: "2009-04-07"
-intitule_status: "goed"
-original_publication: "Stb.2008-157"
-original_signed_date: "2008-04-10"
-original_published_date: "2008-05-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "31291"
-original_url_id: "stb-2008-157"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0023849&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0023849&g=2009-07-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Binnenvaartwet"
-signed_date: "2008-04-10"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0023849"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 10 april 2008, houdende bepalingen houdende regeling van de inwerkingtreding van de Binnenvaartwet (Invoeringswet Binnenvaartwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de invoering van de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) te regelen, alsmede een aantal wetten waarin wordt verwezen naar de [Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443), de [Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319) en de [Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029) aan te passen aan de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Overgangsbepalingen
 
@@ -135,71 +106,71 @@ Na inwerkingtreding van [artikel 51, tweede lid, onderdeel a, van de Binnenvaart
 
 ##### Artikel 21
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ##### Artikel 22
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ##### Artikel 23
 
-Wijzigt de Vervoersnoodwet.
+*Wijzigt de Vervoersnoodwet.*
 
 ##### Artikel 24
 
-Wijzigt de Vervoersnoodwet.
+*Wijzigt de Vervoersnoodwet.*
 
 ##### Artikel 24a
 
-Wijzigt de Binnenschepenwet.
+*Wijzigt de Binnenschepenwet.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 25
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 26
 
-Wijzigt de Wet tot wijziging van bepalingen met betrekking tot de verwerking van persoonsgegevens.
+*Wijzigt de Wet tot wijziging van bepalingen met betrekking tot de verwerking van persoonsgegevens.*
 
-### Hoofdstuk 3. Wijziging van de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009)
+### Hoofdstuk 3. Wijziging van de Binnenvaartwet
 
 ##### Artikel 26a
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 27
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 28
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 29
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 30
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 31
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 32
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 33
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ##### Artikel 34
 
-Wijzigt de Binnenvaartwet.
+*Wijzigt de Binnenvaartwet.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -220,5 +191,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 37
 
 Deze wet wordt aangehaald als: Invoeringswet Binnenvaartwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

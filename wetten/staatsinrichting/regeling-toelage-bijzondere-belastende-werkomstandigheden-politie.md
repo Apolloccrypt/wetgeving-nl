@@ -9,7 +9,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0051876"
-opgehaald: 2026-08-11
+opgehaald: 2026-08-12
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 25 november 2025, nr. 6882787, houdende nadere regels betreffende een toelage wegens bijzondere belastende werkomstandigheden bij de politie (Regeling toelage bijzondere belastende werkomstandigheden politie)

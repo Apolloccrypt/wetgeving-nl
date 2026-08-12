@@ -1,122 +1,98 @@
 ---
 title: "Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten (Belastingplan 2008)"
+citeertitel: "Belastingplan 2008"
 identifier: "BWBR0023144"
-country: "nl"
-rank: "wet"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023144"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "9344913"
-version_id: "15021682"
-internal_id: "C20465401"
-label_id: "9323534"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023144/2011-01-01/0"
-intitule_bron: "Stb.2007-562"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-20"
-intitule_published: "2007-12-27"
-intitule_in_force: "2007-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2007-562"
-original_signed_date: "2007-12-20"
-original_published_date: "2007-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "31205"
-original_url_id: "stb-2007-562"
-entry_into_force_date: "2008-01-01"
-entry_into_force_dossier: "31205"
-jci_1_3: "jci1.3:c:BWBR0023144&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0023144&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2008"
-signed_date: "2007-12-20"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0023144"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten (Belastingplan 2008)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel Xa
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XV
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XVII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XVIIIa
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIX
 
@@ -128,19 +104,19 @@ Vervallen
 
 ##### Artikel XX
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet op de kansspelbelasting.
+*Wijzigt de Wet op de kansspelbelasting.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XXIV
 
@@ -158,11 +134,11 @@ Indien een wijziging van de meest gevraagde prijsklasse van sigaretten ondersche
 
 ##### Artikel XXVI
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXVII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVIII
 
@@ -170,7 +146,7 @@ Hetgeen door de belastingplichtige na 31 december 2008 is ontvangen als teruggav
 
 ##### Artikel XXIX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXIXa
 
@@ -180,15 +156,15 @@ Wijzigt deze wet.
 
 ##### Artikel XXIXb
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXIXc
 
-Wijzigt de Wijzigingswet Wet op de kansspelbelasting (kansspelen via internet) (Kst. 30583).
+*Wijzigt de Wijzigingswet Wet op de kansspelbelasting (kansspelen via internet) (Kst. 30583).*
 
 ##### Artikel XXIXd
 
-Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (fiscale facilitering banksparen t.b.v. pensioenopbouw of aflossing eigenwoningschuld) (Stb. 2007/577).
+*Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (fiscale facilitering banksparen t.b.v. pensioenopbouw of aflossing eigenwoningschuld) (Stb. 2007/577).*
 
 ##### Artikel XXX
 
@@ -198,7 +174,7 @@ Ingeval de samenloop van wetten die in 2007 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2008, met dien verstande dat de [artikelen I, onderdelen A, en F tot en met K](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2011-01-01&g=2011-01-01), en [VI, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=VI&z=2011-01-01&g=2011-01-01), eerst toepassing vinden nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2008 is toegepast.
 
-2. Vervallen.
+2. *Vervallen.*
 
 3. In afwijking van het eerste lid werkt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=I&z=2011-01-01&g=2011-01-01), terug tot en met 1 januari 2007.
 
@@ -208,7 +184,7 @@ Ingeval de samenloop van wetten die in 2007 in het Staatsblad zijn of worden gep
 
 6. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen 0A, A, B, D, E, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVIII&z=2011-01-01&g=2011-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XIX&z=2011-01-01&g=2011-01-01) en [XX, onderdelen A en C tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XX&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 februari 2008.
 
-7. Vervallen.
+7. *Vervallen.*
 
 8. In afwijking van het eerste lid treedt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXII&z=2011-01-01&g=2011-01-01) in werking met ingang van 1 juli 2008.
 
@@ -219,15 +195,3 @@ Ingeval de samenloop van wetten die in 2007 in het Staatsblad zijn of worden gep
 ##### Artikel XXXII
 
 Deze wet wordt aangehaald als: Belastingplan 2008.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2008 wenselijk is maatregelen te treffen, mede ter ondersteuning van het milieubeleid;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-##### Artikel XIII
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

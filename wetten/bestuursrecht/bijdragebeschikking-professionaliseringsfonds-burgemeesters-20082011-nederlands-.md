@@ -1,55 +1,17 @@
 ---
 title: "Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2008–2011 Nederlands Genootschap van Burgemeesters"
 identifier: "BWBR0023581"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-05-01"
-last_updated: "2008-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023581"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9439853"
-version_id: "15199332"
-internal_id: "C20713741"
-label_id: "9417314"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023581/2008-05-01/0"
-intitule_bron: "Stcrt.2008-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-25"
-intitule_published: "2008-03-05"
-intitule_in_force: "2008-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-46"
-original_signed_date: "2008-02-25"
-original_published_date: "2008-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-46-p5-SC84720"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBR0023581&z=2008-05-01&g=2008-05-01"
-jci_1_0: "1.0:c:BWBR0023581&g=2008-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-25"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2008-05-01
+status: geldig
+toestand: 2008-05-01
+bron: "https://wetten.overheid.nl/BWBR0023581"
+opgehaald: 2026-08-12
 ---
+
 # Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2008–2011 Nederlands Genootschap van Burgemeesters
-
-Overwegende dat:
-
-– Het Nederlands Genootschap van Burgemeesters zich ten doel stelt om faciliteiten aan te bieden aan alle burgemeesters ten behoeve van het voortdurend professioneel uitoef enen van het ambt;
-
-– Het Nederlands Genootschap van Burgemeesters daartoe organisatorische voorzieningen treft, onder de naam ‘Professionaliseringsfonds Burgemeesters’;
-
-– Deze faciliteiten de kwaliteit van het openbaar bestuur, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties zorg draagt, ten goede komen;
-
-– In het Georganiseerd Overleg Burgemeesters overeenstemming is bereikt over de financiering van het Professionaliseringsfonds Burgemeesters voor de periode 2008 tot en met 2011;
-
-– Een aanvraag voor een bijdrage van middelen voor het Professionaliseringsfonds Burgemeesters, inclusief een beleidsplan, door het Nederlands Genootschap van Burgemeesters bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is ingediend;
-
-– Het wenselijk is regels vast te stellen betreffende de aan het fonds toe te kennen bijdragen en het beheer van de toegekende middelen.
-
-Besluit:
 
 ##### Artikel 1. Bijdragen
 

@@ -1,59 +1,35 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2008"
 identifier: "BWBR0023061"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-07-01"
-last_updated: "2008-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023061"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9327553"
-version_id: "14986432"
-internal_id: "C20397121"
-label_id: "9305984"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023061/2008-07-01/0"
-intitule_bron: "Stcrt.2007-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-04"
-intitule_published: "2007-12-19"
-intitule_in_force: "2007-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-246"
-original_signed_date: "2007-12-04"
-original_published_date: "2007-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-246-p51-SC83526"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0023061&z=2008-07-01&g=2008-07-01"
-jci_1_0: "1.0:c:BWBR0023061&g=2008-07-01"
-citeertitel_status: "officieel"
-signed_date: "2007-12-04"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-07-01
+status: geldig
+toestand: 2008-07-01
+bron: "https://wetten.overheid.nl/BWBR0023061"
+opgehaald: 2026-08-12
 ---
-# Beleidsregels UWV normbedragen voorzieningen 2008
 
-Besluit:
+# Beleidsregels UWV normbedragen voorzieningen 2008
 
 ##### Artikel 1
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
-- –. de [artikelen 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
+- – de [artikelen 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
 
-- –. [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d),
+- – [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d),
 
-- –. [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e),
+- – [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e),
 
-- –. [artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b),
+- – [artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b),
 
-- –. [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c), en
+- – [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c), en
 
-- –. [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17),
+- – [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17),
 
-worden met ingang van 1 januari 2008 vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
+worden met ingang van 1 januari 2008 vastgesteld op de bedragen, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0023061) bij dit besluit.
 
 ##### Artikel 2
 
@@ -98,94 +74,3 @@ Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2008. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2008.
-
-## Bijlage
-
-| code | beschrijving | oud t/m 30-06-08 | nieuw per 01-07-08 |
-| --- | --- | --- | --- |
-|   | Drempelbedrag voorzieningen |   |   |
-| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend (kostenbedrag inclusief BTW) | € 114,= | € 115,= |
-|   |   |   |   |
-|   | Motorinvalidenwagen |   |   |
-| C11 | – in bruikleen, vergoeding per km | € 0,10 | € 0,11 |
-| C13 | – in eigen bezit, vergoeding per km | € 0,39 | € 0,42 |
-|   |   |   |   |
-|   | Afweging taxivervoer t.o.v. (bruikleen)auto |   |   |
-| C18-IA | normbedrag (inclusief BTW) | € 22.500,= | € 23.300,= |
-|   |   |   |   |
-|   | Referentieauto |   |   |
-| C18-II | normbedrag referentieauto (aanschafbedrag inclusief BTW) | € 17.100,= | €16.900,= |
-| C18-III | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 31,20 | € 31,45 |
-| C18-IV | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 24,= | € 24,= |
-|   |   |   |   |
-|   | Inkomensgrenzen vervoersvoorziening |   |   |
-| C20-I | inkomensgrens werk- en leefvervoer | € 32.300,= | €32.300,= |
-| C20-III | inkomensgrens tweede auto | € 48.500,= | €48.500,= |
-|   |   |   |   |
-|   | Kilometervergoeding bruikleenauto’s |   |   |
-| C22-BA | brandstof benzine, automatische transmissie, bedrag per km. | € 0,11 | € 0,12 |
-| C22-BS | brandstof benzine, handgeschakeld, bedrag per km. | € 0,09 | € 0,10 |
-| C22-D | brandstof dieselolie, bedrag per km. | € 0,11 | € 0,13 |
-|   |   |   |   |
-|   | Reparaties vervoersvoorziening – eigen bijdrage c.q. risico bedragen inclusief BTW |   |   |
-| C24-I | eigen bijdrage bij schade: (bruikleencontract volgens model 1994 t/m 2004) | € 63,= | € 65,= |
-| C41 | eigen risico bij frequent voorkomende aanrijdingschade: | € 125,= | € 130,= |
-|   |   |   |   |
-|   | Kilometervergoeding voor auto’s in eigen bezit |   |   |
-| C25-I | personenauto | € 0,39 | € 0,42 |
-| C25-V | bestelauto | € 0,51 | € 0,53 |
-|   |   |   |   |
-|   | Aftrek algemeen gebruikelijke kosten per kilometer |   |   |
-| C26-I | beneden inkomensgrens C20-I, resp. C 20-III | € 0,09 | € 0,10 |
-| C26-II | boven inkomensgrens C-20-I, resp. C20-III | € 0,39 | € 0,42 |
-|   |   |   |   |
-|   | Taxikostenvergoeding leefvervoer (maximaal) |   |   |
-| C31 | algemeen | € 1.378,= | € 1.460,= |
-| C32 | gehalveerd (visueel gehandicapten) | € 689,= | € 730,= |
-| C33 | rolstoeltaxikosten | € 2.067,= | € 2.190,= |
-|   |   |   |   |
-|   | Rijles |   |   |
-| C51 | vaste leskilometervergoeding bij het lesrijden in een eigen auto | € 0,30 | € 0,32 |
-|   | Begeleidingskosten |   |   |
-| C71 | maximale vergoeding reiskosten van de begeleider per jaar | € 753,= | € 793,= |
-
-|   | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW |
-| --- | --- | --- | --- |
-|   | uurvergoeding voor: |   |   |
-| E17-I | – doventolk (geregistreerd) | € 47,40 | € 47,40 |
-| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | € 17,20 | € 17,40 |
-|   |   |   |   |
-|   | vergoeding reizen, bedrag per kilometer, voor: |   |   |
-| E17-A1 | - doventolk (geregistreerd) | € 0,90 | € 0,90 |
-| E17-A3 | – tolk in opleiding HU, communicatieassistent | € 0,36 | € 0,37 |
-|   |   |   |   |
-|   | vergoeding mentor (via HU): |   |   |
-| E17-C1 | – uurvergoeding mentor (= gediplomeerde tolk) | € 47,40 | € 47,40 |
-| E17-C2 | – vergoeding reizen mentor, per kilometer | € 0,90 | € 0,90 |
-|   |   |   |   |
-|   | Technische apparatuur (maximaal) aanschafprijzen inclusief BTW |   |   |
-| G21 | Daisyspeler | € 475,= | € 475,= |
-| G22-I | PC-configuratie (exclusief aanpassingen), één maal per drie jaar | € 1.415,= | € 1.415,= |
-| G22-II | eenmalige bijdrage verzekering PC-configuratie voor drie jaar | € 200,= | € 200,= |
-| G23 | Hoortoestel | € 700,= | € 700,= |
-|   |   |   |   |
-|   | Voorzieningen met beheersaspecten |   |   |
-| I-11 | verstrekkingen in eigendom, kosten minder dan: | € 2.950,= | € 3.050,= |
-| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | € 5.900,= | € 6.150,= |
-| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | € 5.900,= | € 6.150,= |
-|   |   |   |   |
-|   | Kosten m.b.t. opleiding – per opleidingsdag, uitsluitend geldig voor opleidingen, gestart vóór 1 januari 2006 |   |   |
-| L1 | Hoensbroeck | € 107,= | € 107,= |
-| L2 | Werkenrode | € 128,= | € 128,= |
-| L3 | Sonneheerdt | € 84,= | € 84,= |
-| L4 | Eega | € 81,= | € 81,= |
-| L5 | Heliomare | € 81,= | € 81,= |
-|   |   |   |   |
-|   | Persoonlijke ondersteuning gehandicapten bedrag vergoeding per uur, exclusief BTW |   |   |
-| Q1 | persoonlijke ondersteuning (jobcoach) | € 76,20 | € 76,20 |
-|   |   |   |   |
-|   | Intermediaire activiteiten bedrag vergoeding per uur, exclusief BTW |   |   |
-| S1 | Uurvergoeding | € 17,20 | € 17,40 |
-| S1-R | vergoeding reizen, bedrag per kilometer | € 0,36 | € 0,37 |
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

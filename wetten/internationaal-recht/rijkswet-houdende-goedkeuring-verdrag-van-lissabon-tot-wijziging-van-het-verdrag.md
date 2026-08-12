@@ -1,48 +1,18 @@
 ---
 title: "Rijkswet van 10 juli 2008, houdende goedkeuring van het op 13 december 2007 te Lissabon totstandgekomen Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, met Protocollen en Bijlagen (Trb. 2008, 11)"
+citeertitel: "Rijkswet houdende goedkeuring Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap"
 identifier: "BWBR0024257"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2008-07-25"
-last_updated: "2008-07-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024257"
+categorie: "Internationaal recht"
 soort: "rijkswet"
-stam_id: "9666663"
-version_id: "15600982"
-internal_id: "C21299211"
-label_id: "9643704"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024257/2008-07-25/0"
-intitule_bron: "Stb.2008-301"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-10"
-intitule_published: "2008-07-24"
-intitule_in_force: "2008-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2008-301"
-original_signed_date: "2008-07-10"
-original_published_date: "2008-07-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "31384"
-original_url_id: "stb-2008-301"
-entry_into_force_date: "2008-07-25"
-entry_into_force_dossier: "31384"
-jci_1_3: "jci1.3:c:BWBR0024257&z=2008-07-25&g=2008-07-25"
-jci_1_0: "1.0:c:BWBR0024257&g=2008-07-25"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet houdende goedkeuring Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap"
-signed_date: "2008-07-10"
-entry_into_force: "2008-07-25"
+publicatiedatum: 2008-07-25
+laatste_update: 2008-07-25
+status: geldig
+toestand: 2008-07-25
+bron: "https://wetten.overheid.nl/BWBR0024257"
+opgehaald: 2026-08-12
 ---
+
 # Rijkswet van 10 juli 2008, houdende goedkeuring van het op 13 december 2007 te Lissabon totstandgekomen Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, met Protocollen en Bijlagen (Trb. 2008, 11)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het op 13 december 2007 te Lissabon totstandgekomen Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, met Protocollen en Bijlagen, ingevolge [artikel 91, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=91) de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -79,5 +49,3 @@ Het op 13 december 2007 te Lissabon totstandgekomen Verdrag van Lissabon tot wij
 ##### Artikel 5
 
 Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

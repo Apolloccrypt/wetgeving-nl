@@ -1,43 +1,17 @@
 ---
 title: "Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006"
 identifier: "BWBR0023439"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-08"
-last_updated: "2008-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023439"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9411953"
-version_id: "15150012"
-internal_id: "C29388211"
-label_id: "9389454"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023439/2008-02-08/0"
-intitule_bron: "Stcrt.2008-26"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-25"
-intitule_published: "2008-02-06"
-intitule_in_force: "2008-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-26"
-original_signed_date: "2008-01-25"
-original_published_date: "2008-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-26-p7-SC84359"
-entry_into_force_date: "2008-02-08"
-jci_1_3: "jci1.3:c:BWBR0023439&z=2008-02-08&g=2008-02-08"
-jci_1_0: "1.0:c:BWBR0023439&g=2008-02-08"
-citeertitel_status: "officieel"
-signed_date: "2008-01-25"
-entry_into_force: "2008-02-08"
+publicatiedatum: 2008-02-08
+laatste_update: 2008-02-08
+status: geldig
+toestand: 2008-02-08
+bron: "https://wetten.overheid.nl/BWBR0023439"
+opgehaald: 2026-08-12
 ---
+
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006
-
-In overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -150,5 +124,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

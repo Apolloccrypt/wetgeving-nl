@@ -1,66 +1,38 @@
 ---
 title: "Besluit van 10 december 2007 van de Minister van Financiën houdende aanpassing van de bijlagen A en B bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie (Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie)"
+citeertitel: "Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie"
 identifier: "BWBR0023041"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-12-20"
-last_updated: "2007-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023041"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9324813"
-version_id: "14980872"
-internal_id: "C20390431"
-label_id: "9303294"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023041/2007-12-20/0"
-intitule_bron: "Stcrt.2007-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-10"
-intitule_published: "2007-12-18"
-intitule_in_force: "2007-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-245"
-original_signed_date: "2007-12-10"
-original_published_date: "2007-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-245-p17-SC83481"
-entry_into_force_date: "2007-12-20"
-jci_1_3: "jci1.3:c:BWBR0023041&z=2007-12-20&g=2007-12-20"
-jci_1_0: "1.0:c:BWBR0023041&g=2007-12-20"
-citeertitel_status: "officieel"
-short_title: "Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie"
-signed_date: "2007-12-10"
-entry_into_force: "2007-12-20"
+publicatiedatum: 2007-12-20
+laatste_update: 2007-12-20
+status: geldig
+toestand: 2007-12-20
+bron: "https://wetten.overheid.nl/BWBR0023041"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 10 december 2007 van de Minister van Financiën houdende aanpassing van de bijlagen A en B bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie (Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie)
-
-Gelet op [artikel 4 van het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](https://wetten.overheid.nl/jci1.3:c:BWBR0017117&artikel=4);
-
-In overeenstemming met de Ministers van Justitie, Binnenlandse Zaken en Koninkrijksrelaties, Onderwijs, Cultuur en Wetenschap, Verkeer en Waterstaat, Economische Zaken, Landbouw, Natuur en Voedselkwaliteit, Sociale Zaken en Werkgelegenheid en Volksgezondheid, Welzijn en Sport;
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel II
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel III
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel IV
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel V
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel VI
 
@@ -77,5 +49,3 @@ Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, met dien verstande dat het opnemen in het [onderdeel 1 of 2 van bijlage A bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie voor de rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0017117&bijlage=A), genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017117&artikel=1), respectievelijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017117&artikel=3), terugwerkt tot en met de datum waarop deze rechtspersonen daadwerkelijk aan het schatkistbankieren zijn gaan deelnemen.
 
 2. Dit besluit wordt aangehaald als: Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

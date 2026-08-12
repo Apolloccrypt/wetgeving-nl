@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 5 november 2007, nr. DLZ/SFI-2817774, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding invoering zorgzwaartepakketten AWBZ 2009"
+citeertitel: "Regeling aanwijzing voorbereiding invoering zorgzwaartepakketten AWBZ 2009"
 identifier: "BWBR0023018"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-12-14"
-last_updated: "2007-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023018"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9317193"
-version_id: "14964452"
-internal_id: "C20357491"
-label_id: "9295674"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023018/2007-12-14/0"
-intitule_bron: "Stcrt.2007-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-05"
-intitule_published: "2007-12-14"
-intitule_in_force: "2007-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-243"
-original_signed_date: "2007-11-05"
-original_published_date: "2007-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-243-p22-SC83427"
-entry_into_force_date: "2007-12-14"
-jci_1_3: "jci1.3:c:BWBR0023018&z=2007-12-14&g=2007-12-14"
-jci_1_0: "1.0:c:BWBR0023018&g=2007-12-14"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing voorbereiding invoering zorgzwaartepakketten AWBZ 2009"
-signed_date: "2007-11-05"
-entry_into_force: "2007-12-14"
+publicatiedatum: 2007-12-14
+laatste_update: 2007-12-14
+status: geldig
+toestand: 2007-12-14
+bron: "https://wetten.overheid.nl/BWBR0023018"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 5 november 2007, nr. DLZ/SFI-2817774, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding invoering zorgzwaartepakketten AWBZ 2009
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 1 november 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2007–2008, 26 631, nr. 231);
-
-Besluit:
 
 ##### Artikel 1
 

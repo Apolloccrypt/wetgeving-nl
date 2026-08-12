@@ -1,41 +1,17 @@
 ---
 title: "Beleidsregels aansluiting WW-beoordeling op WAO- en WIA-beoordeling"
 identifier: "BWBR0024268"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-07-27"
-last_updated: "2008-07-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024268"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "9670223"
-version_id: "15607292"
-internal_id: "C21311571"
-label_id: "9647264"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024268/2008-07-27/0"
-intitule_bron: "Stcrt.2008-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-08"
-intitule_published: "2008-07-25"
-intitule_in_force: "2008-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-142"
-original_signed_date: "2008-07-08"
-original_published_date: "2008-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-142-p20-SC86809"
-entry_into_force_date: "2008-07-27"
-jci_1_3: "jci1.3:c:BWBR0024268&z=2008-07-27&g=2008-07-27"
-jci_1_0: "1.0:c:BWBR0024268&g=2008-07-27"
-citeertitel_status: "officieel"
-signed_date: "2008-07-08"
-entry_into_force: "2008-07-27"
+publicatiedatum: 2008-07-27
+laatste_update: 2008-07-27
+status: geldig
+toestand: 2008-07-27
+bron: "https://wetten.overheid.nl/BWBR0024268"
+opgehaald: 2026-08-12
 ---
-# Beleidsregels aansluiting WW-beoordeling op WAO- en WIA-beoordeling
 
-Besluit:
+# Beleidsregels aansluiting WW-beoordeling op WAO- en WIA-beoordeling
 
 ##### Artikel 1. Vaststelling moment arbeidsurenverlies
 
@@ -58,5 +34,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels aansluiting WW-beoordeling op WAO- en WIA-beoordeling.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

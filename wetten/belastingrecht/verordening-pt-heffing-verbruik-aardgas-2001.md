@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het Productschap Tuinbouw van 26 september 2000, houdende de vaststelling van een bestemmingsheffing ten behoeve van maatregelen gericht op verbetering van de energie-efficiëntie voor het jaar 2001 (Verordening PT heffing verbruik aardgas 2001)"
+citeertitel: "Verordening PT heffing verbruik aardgas 2001"
 identifier: "BWBR0024284"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-06-29"
-last_updated: "2008-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024284"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9673443"
-version_id: "15612762"
-internal_id: "C29418031"
-label_id: "9650594"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024284/2008-06-29/0"
-intitule_bron: "Vbbo.2008-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-26"
-intitule_published: "2008-06-27"
-intitule_in_force: "2008-06-27"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-50"
-original_signed_date: "2000-09-26"
-original_published_date: "2008-06-27"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-06-29"
-jci_1_3: "jci1.3:c:BWBR0024284&z=2008-06-29&g=2008-06-29"
-jci_1_0: "1.0:c:BWBR0024284&g=2008-06-29"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing verbruik aardgas 2001"
-signed_date: "2000-09-26"
-entry_into_force: "2008-06-29"
+publicatiedatum: 2008-06-29
+laatste_update: 2008-06-29
+status: geldig
+toestand: 2008-06-29
+bron: "https://wetten.overheid.nl/BWBR0024284"
+opgehaald: 2026-08-12
 ---
+
 # Verordening van het Productschap Tuinbouw van 26 september 2000, houdende de vaststelling van een bestemmingsheffing ten behoeve van maatregelen gericht op verbetering van de energie-efficiëntie voor het jaar 2001 (Verordening PT heffing verbruik aardgas 2001)
-
-op voorstel van de Sectorcommissie voor energie;
-
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
-
-besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -57,7 +30,7 @@ besluit:
 | e. | ondernemer: | de natuurlijke of rechtspersoon die de onderneming drijft; |
 | f. | heffingsplichtige: | de ondernemer die ingevolge deze heffingsverordening heffing verschuldigd is. |
 | g. | energiebedrijf: | het energiebedrijf waarvan de heffingsplichtige aardgas of warmte afneemt; |
-| h. | groeiproces van tuinbouwproducten: | het groeiproces van tuinbouwproducten als bedoeld in de beschikking van de staatssecretaris van Financiën, inzake de toepassing van [post a 32 van de bij de Wet op de Omzetbelasting 1968 behorende tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I); |
+| h. | groeiproces van tuinbouwproducten: | het groeiproces van tuinbouwproducten als bedoeld in de beschikking van de staatssecretaris van Financiën, inzake de toepassing van post a 32 van de bij de Wet op de Omzetbelasting 1968 behorende tabel I; |
 | i. | warmte/kracht-installatie: | een voorziening, strekkende tot gecombineerde opwekking van warme en kracht, waarbij de daarbij opgewekte warmte wordt aangewend ter bevordering van het groeiproces van tuinbouwproducten, door het installeren van krachtwerktuigen en daarbij behorende voorzieningen; |
 | j. | indirect aardgasverbruik: | het door de heffingsplichtige afnemen van warmte van het energiebedrijf, waarbij deze warmte is vrijgekomen door verbranding van aardgas; |
 | k. | aardgasequivalent: | een in m3 aardgas omgerekende hoeveelheid energie, waarbij 1 equivalent gelijk is aan 1 m3 aardgas. |

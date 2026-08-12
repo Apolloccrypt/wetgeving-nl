@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen"
+citeertitel: "Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen"
 identifier: "BWBR0023641"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-03-20"
-last_updated: "2008-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023641"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9453043"
-version_id: "15221752"
-internal_id: "C20741271"
-label_id: "9430574"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023641/2008-03-20/0"
-intitule_bron: "Stcrt.2008-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-07"
-intitule_published: "2008-03-18"
-intitule_in_force: "2008-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-55"
-original_signed_date: "2008-03-07"
-original_published_date: "2008-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-55-p16-SC84929"
-entry_into_force_date: "2008-03-20"
-jci_1_3: "jci1.3:c:BWBR0023641&z=2008-03-20&g=2008-03-20"
-jci_1_0: "1.0:c:BWBR0023641&g=2008-03-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen"
-signed_date: "2008-03-07"
-entry_into_force: "2008-03-20"
+publicatiedatum: 2008-03-20
+laatste_update: 2008-03-20
+status: geldig
+toestand: 2008-03-20
+bron: "https://wetten.overheid.nl/BWBR0023641"
+opgehaald: 2026-08-12
 ---
-# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen
 
-Besluit:
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen
 
 ##### Artikel 1
 
@@ -58,19 +34,19 @@ In deze regeling wordt verstaan onder:
 
 3. Uit het in het tweede lid genoemde gebruikelijke nadeelcompensatierecht vloeien de volgende uitgangspunten voort:
 
-- –. het ziekenhuis toont een causaal verband aan tussen de schade en de afschaffing van het bouwregime waaronder de nacalculatie op de gebouwgebonden kapitaallasten;
+- – het ziekenhuis toont een causaal verband aan tussen de schade en de afschaffing van het bouwregime waaronder de nacalculatie op de gebouwgebonden kapitaallasten;
 
-- –. het ziekenhuis toont aan als gevolg van deze maatregel onevenredig zwaar te worden getroffen;
+- – het ziekenhuis toont aan als gevolg van deze maatregel onevenredig zwaar te worden getroffen;
 
-- –. de schade die kan worden geacht te behoren tot het normale ondernemersrisico wordt niet in de berekening betrokken;
+- – de schade die kan worden geacht te behoren tot het normale ondernemersrisico wordt niet in de berekening betrokken;
 
-- –. geen schade wordt in de berekening betrokken voor zover het ziekenhuis eigen schuld kan worden verweten;
+- – geen schade wordt in de berekening betrokken voor zover het ziekenhuis eigen schuld kan worden verweten;
 
-- –. de schade wordt op objectieve wijze berekend en geverifieerd;
+- – de schade wordt op objectieve wijze berekend en geverifieerd;
 
-- –. een eventueel voordeel dat voor een ziekenhuis voortvloeit uit de afschaffing van het bouwregime waaronder de nacalculatie op gebouwgebonden kapitaallasten, wordt verdisconteerd met het schadebedrag;
+- – een eventueel voordeel dat voor een ziekenhuis voortvloeit uit de afschaffing van het bouwregime waaronder de nacalculatie op gebouwgebonden kapitaallasten, wordt verdisconteerd met het schadebedrag;
 
-- –. de compensatie neemt de onevenredigheid van de schade weg en is in ieder geval niet hoger dan de schade.
+- – de compensatie neemt de onevenredigheid van de schade weg en is in ieder geval niet hoger dan de schade.
 
 4. De commissie heeft daarnaast als taak te adviseren over de wijze van berekening ter bepaling van nadeelcompensatie.
 
@@ -92,13 +68,13 @@ Tot lid van de commissie worden benoemd:
 
 - b. als onafhankelijk lid:
 
-- –. dhr. drs. A.L.M. Barendregt
+   - – dhr. drs. A.L.M. Barendregt
 
-- –. dhr. drs. M.J. van Rooijen
+   - – dhr. drs. M.J. van Rooijen
 
-- –. mw. drs. E.J. Mulock Houwer
+   - – mw. drs. E.J. Mulock Houwer
 
-- –. dhr. prof. dr. A. Hordijk
+   - – dhr. prof. dr. A. Hordijk
 
 ##### Artikel 5
 

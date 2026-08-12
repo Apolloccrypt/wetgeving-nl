@@ -1,48 +1,18 @@
 ---
 title: "Regeling houdende bepalingen omtrent de instelling van een gezamenlijke schadebeoordelingcommissie ten behoeve van de coördinatie van verzoeken om schadevergoeding in verband met de aanleg van de Tweede Maasvlakte (Schaderegeling Tweede Maasvlakte)"
+citeertitel: "Schaderegeling Tweede Maasvlakte"
 identifier: "BWBR0024048"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-06-27"
-last_updated: "2008-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024048"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9554193"
-version_id: "15448452"
-internal_id: "C29412371"
-label_id: "9531364"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024048/2008-06-27/0"
-intitule_bron: "Stcrt.2008-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-17"
-intitule_published: "2008-06-25"
-intitule_in_force: "2008-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-120"
-original_signed_date: "2008-06-17"
-original_published_date: "2008-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-120-p16-SC86220"
-entry_into_force_date: "2008-06-27"
-jci_1_3: "jci1.3:c:BWBR0024048&z=2008-06-27&g=2008-06-27"
-jci_1_0: "1.0:c:BWBR0024048&g=2008-06-27"
-citeertitel_status: "officieel"
-short_title: "Schaderegeling Tweede Maasvlakte"
-signed_date: "2008-06-17"
-entry_into_force: "2008-06-27"
+publicatiedatum: 2008-06-27
+laatste_update: 2008-06-27
+status: geldig
+toestand: 2008-06-27
+bron: "https://wetten.overheid.nl/BWBR0024048"
+opgehaald: 2026-08-12
 ---
+
 # Regeling houdende bepalingen omtrent de instelling van een gezamenlijke schadebeoordelingcommissie ten behoeve van de coördinatie van verzoeken om schadevergoeding in verband met de aanleg van de Tweede Maasvlakte (Schaderegeling Tweede Maasvlakte)
-
-Handelende in overeenstemming met het College van Gedeputeerde Staten van de provincie Zuid-Holland, en de Colleges van Burgemeester en Wethouders van de Gemeenten Rotterdam en Westvoorne;
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), en onder meer [artikel 31 Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=31), [artikel 49 Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49) en [artikel 26 Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=26);
-
-Besluiten:
-
-tot vaststelling van de navolgende beleidsregeling en het navolgende instellingsbesluit en het navolgende mandaat-, volmacht- en machtigingsbesluit.
 
 #### § 1. Algemeen
 
@@ -139,5 +109,3 @@ De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toega
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Schaderegeling Tweede Maasvlakte.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,58 +1,18 @@
 ---
 title: "Besluit van 14 mei 2008, houdende regels over de inschrijving en luchtwaardigheid van luchtvaartuigen en de erkenning van bedrijven voor werkzaamheden die de luchtwaardigheid betreffen (Besluit luchtvaartuigen 2008)"
+citeertitel: "Besluit luchtvaartuigen 2008"
 identifier: "BWBR0023922"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-02-20"
-last_updated: "2024-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023922"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "9515953"
-version_id: "15379162"
-internal_id: "C20976011"
-label_id: "9493394"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023922/2024-02-20/0"
-intitule_bron: "Stb.2008-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-05-14"
-intitule_published: "2008-06-03"
-intitule_in_force: "2008-06-03"
-intitule_status: "goed"
-original_publication: "Stb.2008-190"
-original_signed_date: "2008-05-14"
-original_published_date: "2008-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-190"
-entry_into_force_date: "2008-06-04"
-jci_1_3: "jci1.3:c:BWBR0023922&z=2024-02-20&g=2024-02-20"
-jci_1_0: "1.0:c:BWBR0023922&g=2024-02-20"
-citeertitel_status: "officieel"
-short_title: "Besluit luchtvaartuigen 2008"
-signed_date: "2008-05-14"
-entry_into_force: "2008-06-04"
+publicatiedatum: 2008-06-04
+laatste_update: 2024-02-20
+status: geldig
+toestand: 2024-02-20
+bron: "https://wetten.overheid.nl/BWBR0023922"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 14 mei 2008, houdende regels over de inschrijving en luchtwaardigheid van luchtvaartuigen en de erkenning van bedrijven voor werkzaamheden die de luchtwaardigheid betreffen (Besluit luchtvaartuigen 2008)
-
-Op de voordracht van Onze minister van Verkeer en Waterstaat van 4 januari 2008, nr. CEND/HDJZ-2007/1644, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met de staatssecretaris van Defensie;
-
-Gelet op
-
-– [verordening (EG) nr. 1592/2002](32002R1592) van het Europees Parlement en de Raad van de Europese Gemeenschappen van 15 juli 2002 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart (PbEG L 240),
-
-– [verordening (EG) nr. 1702/2003](32003R1702) van de Commissie van de Europese Gemeenschappen van 24 september 2003 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PbEU L 243),
-
-– [verordening (EG) nr. 2042/2003](32003R2042) van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315) en
-
-– de [artikelen 1.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.2), [3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.3), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.7), [3.13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.13), [3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.15), [3.19a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19a), [3.22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.22), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.23), [3.25, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.25), [3.26, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.26), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.29) en [3.31 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.31);
-
-De Raad van State gehoord (advies van 31 januari 2008, nr. W09.08.00009/IV);
-
-Gezien het nader rapport van Onze minister van Verkeer en Waterstaat van 8 mei 2008, nr. CEND/HDJZ/2008-437, Hoofddirectie Juridische Zaken, uitgebracht in overeenstemming met de staatssecretaris van Defensie;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Definities en toepassingsgebied
 
@@ -60,51 +20,51 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onder:
 
-**aanvullende geluidsverklaring:** verklaring als bedoeld in [artikel 3.19c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19c);
+*aanvullende geluidsverklaring:* verklaring als bedoeld in [artikel 3.19c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19c);
 
-**aanvullend type-certificaat:** type-certificaat van een aanpassing van het orginele ontwerp zoals vastgelegd in het orginele type-certificaat van het ongewijzigd product;
+*aanvullend type-certificaat:* type-certificaat van een aanpassing van het orginele ontwerp zoals vastgelegd in het orginele type-certificaat van het ongewijzigd product;
 
-**akkoordverklaring:** door Onze Minister afgegeven verklaring waarmee hij akkoord gaat met het aantonen van de conformiteit van individuele producten, onderdelen en uitrustingsstukken overeenkomstig verordening (EU) nr. 748/2012, Part 21, section A, subpart F;
+*akkoordverklaring:* door Onze Minister afgegeven verklaring waarmee hij akkoord gaat met het aantonen van de conformiteit van individuele producten, onderdelen en uitrustingsstukken overeenkomstig verordening (EU) nr. 748/2012, Part 21, section A, subpart F;
 
-**ARC:** certificaat van beoordeling van de luchtwaardigheid dat periodiek wordt afgegeven door Onze minister of een daartoe erkende managementorganisatie voor permanente luchtwaardigheid, dat deel uitmaakt van een geldig BvL (EASA Form 15, Airworthiness Review Certificate);
+*ARC:* certificaat van beoordeling van de luchtwaardigheid dat periodiek wordt afgegeven door Onze minister of een daartoe erkende managementorganisatie voor permanente luchtwaardigheid, dat deel uitmaakt van een geldig BvL (EASA Form 15, Airworthiness Review Certificate);
 
-**blijvende luchtwaardigheid:** alle processen waarmee gewaarborgd wordt dat het luchtvaartuig gedurende de gehele operationele levensduur voldoet aan de geldende normen voor luchtwaardigheid en zich in een toestand van veilige exploitatie bevindt;
+*blijvende luchtwaardigheid:* alle processen waarmee gewaarborgd wordt dat het luchtvaartuig gedurende de gehele operationele levensduur voldoet aan de geldende normen voor luchtwaardigheid en zich in een toestand van veilige exploitatie bevindt;
 
-**BvL:** Bewijs van Luchtwaardigheid;
+*BvL:* Bewijs van Luchtwaardigheid;
 
-**certificaat**, als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2024-02-20&g=2024-02-20): certificaat ten aanzien van werkzaamheden die zijn opgenomen in de erkenning en die verband houden met de luchtwaardigheid en geluidsproductie van producten of onderdelen;
+*certificaat*, als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2024-02-20&g=2024-02-20): certificaat ten aanzien van werkzaamheden die zijn opgenomen in de erkenning en die verband houden met de luchtwaardigheid en geluidsproductie van producten of onderdelen;
 
-**EASA-beperkt-BvL:** bewijs van luchtwaardigheid voor een EASA-luchtvaartuig dat wel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoet, maar niet aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage II en bijlage III bij de basisverordening;
+*EASA-beperkt-BvL:* bewijs van luchtwaardigheid voor een EASA-luchtvaartuig dat wel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoet, maar niet aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage II en bijlage III bij de basisverordening;
 
-**EASA-standaard-BvL:** bewijs van luchtwaardigheid voor een EASA- luchtvaartuig dat zowel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag als aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage II en bijlage III bij de basisverordening voldoet;
+*EASA-standaard-BvL:* bewijs van luchtwaardigheid voor een EASA- luchtvaartuig dat zowel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag als aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage II en bijlage III bij de basisverordening voldoet;
 
-**export-BvL:** bewijs waarin de status van het luchtvaartuig betreffende de luchtwaardigheid wordt aangegeven, getoetst volgens de eisen van het importerende land;
+*export-BvL:* bewijs waarin de status van het luchtvaartuig betreffende de luchtwaardigheid wordt aangegeven, getoetst volgens de eisen van het importerende land;
 
-**gedelegeerde verordening (EU) nr. 2019/945:** gedelegeerde verordening (EU) nr. 2019/945 van de Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L 152);
+*gedelegeerde verordening (EU) nr. 2019/945:* gedelegeerde verordening (EU) nr. 2019/945 van de Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L 152);
 
-**geluidscertificaat:** certificaat als bedoeld in [artikel 3.19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19a);
+*geluidscertificaat:* certificaat als bedoeld in [artikel 3.19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19a);
 
-**geluidsverklaring:** verklaring als bedoeld in [artikel 3.19c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19c);
+*geluidsverklaring:* verklaring als bedoeld in [artikel 3.19c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19c);
 
-**gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
+*gemotoriseerd schermvliegtuig:* schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
 
-**gyrokopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aerodynamische reactiekrachten op zijn rotorbladen, waarvan de rotorbladen niet door de motor worden aangedreven;
+*gyrokopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aerodynamische reactiekrachten op zijn rotorbladen, waarvan de rotorbladen niet door de motor worden aangedreven;
 
-**ICAO-staat:** staat die het ICAO-verdrag heeft bekrachtigd;
+*ICAO-staat:* staat die het ICAO-verdrag heeft bekrachtigd;
 
-**ICAO-standaard-BvL:** bewijs van luchtwaardigheid als bedoeld in het ICAO-verdrag;
+*ICAO-standaard-BvL:* bewijs van luchtwaardigheid als bedoeld in het ICAO-verdrag;
 
-**ICAO Annex 8:** bijlage 8 bij het ICAO-verdrag, betreffende de luchtwaardigheid van luchtvaartuigen;
+*ICAO Annex 8:* bijlage 8 bij het ICAO-verdrag, betreffende de luchtwaardigheid van luchtvaartuigen;
 
-**lichte gyrokopter:** gyrokopter met een maximum startmassa van niet meer dan 600 kg, een- of tweezitter;
+*lichte gyrokopter:* gyrokopter met een maximum startmassa van niet meer dan 600 kg, een- of tweezitter;
 
-**MLA:** (Micro Light Aeroplane) land-, amfibie- of watervliegtuig met niet meer dan twee zitplaatsen, een overtreksnelheid die niet hoger is dan 45 knopen gecalibreerde luchtsnelheid en een maximum startmassa van niet meer dan:
+*MLA:* (Micro Light Aeroplane) land-, amfibie- of watervliegtuig met niet meer dan twee zitplaatsen, een overtreksnelheid die niet hoger is dan 45 knopen gecalibreerde luchtsnelheid en een maximum startmassa van niet meer dan:
 
 600 kg voor een landvliegtuig, inclusief een eventueel op het frame gemonteerd Total Recovery Parachute System;
 
 650 kg voor een amfibie- of watervliegtuig, inclusief een eventueel op het frame gemonteerd Total Recovery Parachute System, mits een micro light die als watervliegtuig en als landvliegtuig gebruikt kan worden binnen beide daarvoor geldende massalimieten valt;
 
-**MLH:** (Micro Light Helicopter) helikopter met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
+*MLH:* (Micro Light Helicopter) helikopter met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
 
 300 kg voor een landhelikopter, eenzitter;
 
@@ -114,53 +74,62 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 495 kg voor een amfibie- of waterhelikopter, tweezitter, waarbij geldt dat een helikopter die als waterhelikopter en als landhelikopter gebruikt kan worden binnen beide daarvoor geldende massalimieten valt;
 
-**MOA-F:** erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in [verordening (EU) nr. 1321/2014](32003R2042), Part M, section A, subpart F (Maintenance Organisation Approval-F);
+*MOA-F:* erkenning voor het onderhoud van vliegtuigen, helikopters en ballonnen of onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart F (Maintenance Organisation Approval-F);
 
-**modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
+*modelluchtvaartuig:* luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
 
-**Nederland:** Europees deel van het Koninkrijk en de openbare lichamen Bonaire, Sint Eustatius en Saba;
+*Nederland:* Europees deel van het Koninkrijk en de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-**onderdeel:** elk deel dat is geïnstalleerd in of bevestigd aan een luchtvaartuig en dat bestemd is voor gebruik van dat luchtvaartuig tijdens de vlucht;
+*onderdeel:* elk deel dat is geïnstalleerd in of bevestigd aan een luchtvaartuig en dat bestemd is voor gebruik van dat luchtvaartuig tijdens de vlucht;
 
-**Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
+*Onze Minister:* Onze Minister van Infrastructuur en Waterstaat;
 
-**paramotortrike:** luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
+*paramotortrike:* luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
 
 - a. 300 kg voor een eenzitter;
 
 - b. 450 kg voor een tweezitter;
 
-**Part 21:** deel betreffende certificatieprocedures voor EASA-luchtvaartuigen, aanverwante producten en onderdelen (bijlage bij verordening (EU) nr. 748/2012);
+*Part 21:* deel betreffende certificatieprocedures voor EASA-luchtvaartuigen, aanverwante producten en onderdelen (bijlage bij verordening (EU) nr. 748/2012);
 
-**Part M:** deel betreffende de blijvende luchtwaardigheid van EASA-luchtvaartuigen (bijlage I bij [verordening (EU) nr. 1321/2014](32003R2042));
+*Part M:* deel betreffende de blijvende luchtwaardigheid van EASA-luchtvaartuigen (bijlage I bij verordening (EU) nr. 1321/2014);
 
-**POA:** erkenning voor het vervaardigen van producten en onderdelen als bedoeld in Part 21, section A, subpart G (Production Organisation Approval);
+*POA:* erkenning voor het vervaardigen van producten en onderdelen als bedoeld in Part 21, section A, subpart G (Production Organisation Approval);
 
-**product:** luchtvaartuig, een voortstuwingsinrichting of een propeller;
+*product:* luchtvaartuig, een voortstuwingsinrichting of een propeller;
 
-**RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
+*RPA:* op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
 
-**RPAS:** RPA, het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type ontwerp gespecificeerde componenten;
+*RPAS:* RPA, het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type ontwerp gespecificeerde componenten;
 
-**speciaal-BvL:** bewijs van luchtwaardigheid voor luchtvaartuigen die buiten het kader van de basisverordening vallen en ook niet aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoen;
+*speciaal-BvL:* bewijs van luchtwaardigheid voor luchtvaartuigen die buiten het kader van de basisverordening vallen en ook niet aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoen;
 
-**staat van ontwerp:** ICAO-lidstaat die rechtsmacht heeft over de organisatie die verantwoordelijk is voor het ontwerp van een luchtvaartuig, zoals gedefinieerd in ICAO Annex 8;
+*staat van ontwerp:* ICAO-lidstaat die rechtsmacht heeft over de organisatie die verantwoordelijk is voor het ontwerp van een luchtvaartuig, zoals gedefinieerd in ICAO Annex 8;
 
-**Total Recovery Parachute System:** reddingssysteem met valscherm voor het hele luchtvaartuig;
+*Total Recovery Parachute System:* reddingssysteem met valscherm voor het hele luchtvaartuig;
 
-**type-certificaat:** het geheel van documenten omvattende het type-ontwerp, de operationele beperkingen, het gegevensblad, de luchtwaardigheidsregelgeving en alle andere voorschriften en beperkingen zoals voorgeschreven in de van toepassing zijnde eisen;
+*type-certificaat:* het geheel van documenten omvattende het type-ontwerp, de operationele beperkingen, het gegevensblad, de luchtwaardigheidsregelgeving en alle andere voorschriften en beperkingen zoals voorgeschreven in de van toepassing zijnde eisen;
 
-**type-ontwerp:** het geheel van documenten omvattende alle tekeningen en specificaties benodigd om de configuratie, de eigenschappen van het ontwerp vast te leggen, informatie over materialen, processen en productiemethodieken, luchtwaardigheidsbeperkingen ten behoeve van het onderhoud en alle gegevens die nodig zijn om de luchtwaardigheid en voor zover van toepassing de geluidsproductie vast te stellen van latere producten van het type;
+*type-ontwerp:* het geheel van documenten omvattende alle tekeningen en specificaties benodigd om de configuratie, de eigenschappen van het ontwerp vast te leggen, informatie over materialen, processen en productiemethodieken, luchtwaardigheidsbeperkingen ten behoeve van het onderhoud en alle gegevens die nodig zijn om de luchtwaardigheid en voor zover van toepassing de geluidsproductie vast te stellen van latere producten van het type;
 
-**verdrag:** het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb.1973,109) (ICAO-verdrag);
+*verdrag:* het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb.1973,109) (ICAO-verdrag);
 
-**verklaring van conformiteit:** verklaring dat het luchtvaartuig of het onderdeel aan het goedgekeurde ontwerp voldoet (Statement of Conformity);
+*verklaring van conformiteit:* verklaring dat het luchtvaartuig of het onderdeel aan het goedgekeurde ontwerp voldoet (Statement of Conformity);
 
-**verordening (EU) nr. 748/2012:** verordening van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
+*verordening (EU) nr. 748/2012:* verordening van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
 
-**verordening (EU) nr. 1321/2014:** verordening van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
+*verordening (EU) nr. 1321/2014:* verordening van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 362);
 
-**wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+*wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+
+##### Artikel 1a
+
+Dit besluit berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
+
+##### Artikel 1b
+
+De aanvraag voor de afgifte van een bewijs van luchtwaardigheid, erkenning of hieraan gerelateerde certificaten of verklaringen als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet hiertoe een andere instantie is aangewezen.
 
 ##### Artikel 2
 
@@ -182,7 +151,7 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 - g. valschermen, zijnde schermen die dienen om de daalsnelheid van personen zodanig te beperken dat deze veilig het aardoppervlak kunnen bereiken,
 
-- h. zeilvliegtuigen met een totale massa zonder piloot van minder dan 70 kg,
+- h. zeilvliegtuigen met een totale massa zonder piloot van minder dan 70 kg,
 
 - i. schermzweeftoestellen met een totale massa zonder piloot van minder dan 70 kg,
 
@@ -212,13 +181,13 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 - b. met het luchtvaartuig wordt uitsluitend gevlogen indien de door Onze Minister van Defensie vastgestelde instructies in acht worden genomen met betrekking tot:
 
-- 1°. een veilige lancering,
+   - 1°. een veilige lancering,
 
-- 2°. het voor en na elke vlucht uitvoeren van een functionele en een technische inspectie,
+   - 2°. het voor en na elke vlucht uitvoeren van een functionele en een technische inspectie,
 
-- 3°. het onderhoud van het luchtvaartuig,
+   - 3°. het onderhoud van het luchtvaartuig,
 
-- 4°. het per parachute op een veilige wijze en binnen het aangewezen landingsgebied doen landen van het luchtvaartuig,
+   - 4°. het per parachute op een veilige wijze en binnen het aangewezen landingsgebied doen landen van het luchtvaartuig,
 
 - c. het luchtvaartuig is uitgerust met een zodanige veiligheidsvoorziening dat bij verstoring van of bij het verloren gaan van het radiocontact tussen luchtvaartuig en bedieningsstation, de vlucht van het luchtvaartuig wordt afgebroken en de landing per parachute wordt ingezet,
 
@@ -226,7 +195,7 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 7. Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, zijn:
 
-- a. de basisverordening, voor zover het Hoofdstuk III, Afdeling I en Deel II betreft,
+- a. de basisverordening, voor zover het Hoofdstuk III, Afdeling I en Deel II betreft,
 
 - b. verordening (EU) nr. 1321/2014, en
 
@@ -272,7 +241,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot:
 
 - b. de vernieuwing van het inschrijvingsbewijs.
 
-### Hoofdstuk 3. Aanvullende type-certificaten
+### Hoofdstuk 3. Type-certificaten en aanvullende type-certificaten
 
 ##### Artikel 5
 
@@ -344,17 +313,17 @@ Onze Minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal
 
 - b. indien de staat van invoer met betrekking tot het desbetreffende luchtvaartuig heeft aangegeven in te stemmen met de erkenning van een daartoe af te geven export-BvL, en
 
-- 1°. het luchtvaartuig voldoet aan een type-ontwerp dat acceptabel is voor de bevoegde autoriteit van de staat van invoer,
+   - 1°. het luchtvaartuig voldoet aan een type-ontwerp dat acceptabel is voor de bevoegde autoriteit van de staat van invoer,
 
-- 2°. het luchtvaartuig voldoet aan de aanvullende eisen voor invoer die de bevoegde autoriteit van de staat van invoer stelt,
+   - 2°. het luchtvaartuig voldoet aan de aanvullende eisen voor invoer die de bevoegde autoriteit van de staat van invoer stelt,
 
-- 3°. het luchtvaartuig is geproduceerd door een houder van een POA, dan wel door degene die een akkoordverklaring heeft verkregen,
+   - 3°. het luchtvaartuig is geproduceerd door een houder van een POA, dan wel door degene die een akkoordverklaring heeft verkregen,
 
-- 4°. de bij ministeriële regeling vereiste documentatie is overgelegd,
+   - 4°. de bij ministeriële regeling vereiste documentatie is overgelegd,
 
-- 5°. het luchtvaartuig is geïdentificeerd overeenkomstig Part 21, section A, subpart Q, van verordening (EU) nr. 748/2012,
+   - 5°. het luchtvaartuig is geïdentificeerd overeenkomstig Part 21, section A, subpart Q, van verordening (EU) nr. 748/2012,
 
-- 6°. Het luchtvaartuig zich op een zodanige plaats bevindt, dat Onze Minister kan vaststellen dat aan de onder 1° tot en met 5°, gestelde eisen is voldaan.
+   - 6°. Het luchtvaartuig zich op een zodanige plaats bevindt, dat Onze Minister kan vaststellen dat aan de onder 1° tot en met 5°, gestelde eisen is voldaan.
 
 2. Het eerste lid is van overeenkomstige toepassing op gebruikte luchtvaartuigen, met uitzondering van onderdeel b, onder 3°, en met dien verstande dat de houder beschikt over een ICAO-standaard-BvL, een EASA-standaard-BvL of een EASA-beperkt-BvL, dan wel het luchtvaartuig in aanmerking komt voor een van deze bewijzen.
 
@@ -530,13 +499,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot start
 
 3. Wanneer na de betaling van de verschuldigde vergoeding degene, die een aanvraag als bedoeld in het eerste lid, heeft ingediend, verzoekt die aanvraag als niet ingediend te beschouwen, kan hem op zijn verzoek een, nader door Onze Minister in elk geval afzonderlijk te bepalen, bedrag worden terugbetaald.
 
-### Hoofdstuk 8. Overgangsbepalingen
+### Hoofdstuk 8. Conformiteitsbeoordelingsinstanties
 
 ##### Artikel 24
 
-Onze Minister kan, met inachtneming van hoofdstuk II, deel 4 van gedelegeerde verordening (EU) nr. 2019/945, op aanvraag besluiten conformiteitsbeoordelingsinstanties aan te melden.
+Onze Minister kan, met inachtneming van hoofdstuk II, deel 4 van gedelegeerde verordening (EU) nr. 2019/945, op aanvraag besluiten conformiteitsbeoordelingsinstanties aan te melden.
 
-### Hoofdstuk 8. Conformiteitsbeoordelingsinstanties
+### Hoofdstuk 9. Slotbepalingen
 
 ##### Artikel 25
 
@@ -575,29 +544,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsbl
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit luchtvaartuigen 2008.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
-
-##### Artikel 1b
-
-De aanvraag voor de afgifte van een bewijs van luchtwaardigheid, erkenning of hieraan gerelateerde certificaten of verklaringen als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet hiertoe een andere instantie is aangewezen.
-
-### Hoofdstuk 2. Nationaliteit en inschrijving van luchtvaartuigen
-
-### Hoofdstuk 3. Type-certificaten en aanvullende type-certificaten
-
-### Hoofdstuk 4. Bewijzen van luchtwaardigheid
-
-### Hoofdstuk 5. Geluidscertificaten, geluidsverklaringen en aanvullende geluidsverklaringen
-
-### Hoofdstuk 6. Erkenningen
-
-### Hoofdstuk 7. Vergoedingen
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken van 7 juli 2008, nr. WJZ 8076154, met betrekking tot de uitoefening door de raad van bestuur van de mededingingsautoriteit van de bevoegdheid, bedoeld in artikel 82, tweede lid, van de Gaswet"
+citeertitel: "Beleidsregel uitoefening bevoegdheid ex artikel 82, tweede lid, van de Gaswet"
 identifier: "BWBR0024159"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2008-07-13"
-last_updated: "2008-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024159"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "9646873"
-version_id: "15560682"
-internal_id: "C21217451"
-label_id: "9623914"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024159/2008-07-13/0"
-intitule_bron: "Stcrt.2008-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-07"
-intitule_published: "2008-07-11"
-intitule_in_force: "2008-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-132"
-original_signed_date: "2008-07-07"
-original_published_date: "2008-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-132-p15-SC86402"
-entry_into_force_date: "2008-07-13"
-jci_1_3: "jci1.3:c:BWBR0024159&z=2008-07-13&g=2008-07-13"
-jci_1_0: "1.0:c:BWBR0024159&g=2008-07-13"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel uitoefening bevoegdheid ex artikel 82, tweede lid, van de Gaswet"
-signed_date: "2008-07-07"
-entry_into_force: "2008-07-13"
+publicatiedatum: 2008-07-13
+laatste_update: 2008-07-13
+status: geldig
+toestand: 2008-07-13
+bron: "https://wetten.overheid.nl/BWBR0024159"
+opgehaald: 2026-08-12
 ---
+
 # Beleidsregel van de Minister van Economische Zaken van 7 juli 2008, nr. WJZ 8076154, met betrekking tot de uitoefening door de raad van bestuur van de mededingingsautoriteit van de bevoegdheid, bedoeld in artikel 82, tweede lid, van de Gaswet
-
-Gelet op [artikel 5d van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5d) en [artikel 82, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=82);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -83,5 +57,3 @@ Bij het vaststellen van de methode van regulering voor de taken van de netbeheer
 ##### Artikel 4
 
 Deze beleidsregel treedt in werking op de tweede dag na publicatie in de Staatscourant.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

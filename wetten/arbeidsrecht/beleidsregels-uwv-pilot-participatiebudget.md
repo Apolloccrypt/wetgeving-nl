@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregels UWV pilot participatiebudget"
 identifier: "BWBR0023499"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-03-21"
-last_updated: "2009-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023499"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9422523"
-version_id: "15168762"
-internal_id: "C29390501"
-label_id: "9400094"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023499/2009-03-21/0"
-intitule_bron: "Stcrt.2008-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-20"
-intitule_published: "2008-02-20"
-intitule_in_force: "2008-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-36"
-original_signed_date: "2007-11-20"
-original_published_date: "2008-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-36-p25-SC84534"
-entry_into_force_date: "2008-02-22"
-jci_1_3: "jci1.3:c:BWBR0023499&z=2009-03-21&g=2009-03-21"
-jci_1_0: "1.0:c:BWBR0023499&g=2009-03-21"
-citeertitel_status: "officieel"
-signed_date: "2007-11-20"
-entry_into_force: "2008-02-22"
+publicatiedatum: 2008-02-22
+laatste_update: 2009-03-21
+status: geldig
+toestand: 2009-03-21
+bron: "https://wetten.overheid.nl/BWBR0023499"
+opgehaald: 2026-08-12
 ---
+
 # Beleidsregels UWV pilot participatiebudget
-
-Gelet op [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -113,7 +87,7 @@ De subsidieontvanger heeft gedurende het subsidietijdvak geen aanspraak op de we
 
 6. De subsidieontvanger mag in een kalenderjaar maximaal 1,5% van de som van de subsidie en het netto persoonsgebonden budget, maar ten minste € 250 en ten hoogste € 1250, anders aanwenden dan als werkvoorziening of als netto persoonsgebonden budget. Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of eindigt, worden de bedragen, genoemd in de vorige zin, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar. In afwijking van het eerste lid geldt de verantwoordingsplicht, bedoeld in dat lid, niet voor het in de eerste zin bedoelde bestedingsvrije bedrag.
 
-##### Artikel 9. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
+##### Artikel 9. Titel 4.2 Algemene wet bestuursrecht
 
 De [afdelingen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.3), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) en [4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.7) zijn van toepassing.
 
@@ -126,5 +100,3 @@ Subsidie op grond van dit besluit kan worden aangevraagd tot en met 31 december 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2008.
 
 2. Dit besluit wordt aangehaald als: Beleidsregels UWV pilot participatiebudget.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

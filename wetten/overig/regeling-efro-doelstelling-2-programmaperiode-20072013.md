@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 12 november 2007, nr. WJZ 7130350, houdende de Rijkscofinanciering voor EFRO-programma's 2007–2013 voor doelstelling 2"
+citeertitel: "Regeling EFRO doelstelling 2 programmaperiode 2007–2013"
 identifier: "BWBR0022831"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-02-18"
-last_updated: "2012-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022831"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9279513"
-version_id: "18895142"
-internal_id: "C26361811"
-label_id: "9258144"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022831/2012-02-18/0"
-intitule_bron: "Stcrt.2007-222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-12"
-intitule_published: "2007-11-15"
-intitule_in_force: "2007-11-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19664"
-original_signed_date: "2011-10-26"
-original_published_date: "2011-11-02"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-19664"
-entry_into_force_date: "2011-10-26"
-jci_1_3: "jci1.3:c:BWBR0022831&z=2012-02-18&g=2012-02-18"
-jci_1_0: "1.0:c:BWBR0022831&g=2012-02-18"
-citeertitel_status: "officieel"
-short_title: "Regeling EFRO doelstelling 2 programmaperiode 2007–2013"
-signed_date: "2011-10-26"
-entry_into_force: "2011-10-26"
+publicatiedatum: 2011-10-26
+laatste_update: 2012-02-18
+status: geldig
+toestand: 2012-02-18
+bron: "https://wetten.overheid.nl/BWBR0022831"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Economische Zaken van 12 november 2007, nr. WJZ 7130350, houdende de Rijkscofinanciering voor EFRO-programma's 2007–2013 voor doelstelling 2
-
-Gelet op artikel 56, derde lid, van de Kaderverordening 1083/2006, [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), en [8, eerste lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=8) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=2) en [3 van het Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -124,39 +98,43 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 4. Aan een ontheffing als bedoeld in het derde lid kunnen voorschriften worden verbonden.
 
+##### Artikel 9a
+
+Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/BWBR0022831) opgenomen procedure.
+
 ##### Artikel 10
 
 1. Als subsidiabele kosten worden uitsluitend de volgende rechtstreeks aan het project toe te rekenen kosten in aanmerking genomen:
 
 - a. de volgende door de subsidieontvanger gemaakte en betaalde kosten:
 
-- 1°. loonkosten, voor de berekening waarvan de aanvrager bij de aanvraag kiest uit:
+   - 1°. loonkosten, voor de berekening waarvan de aanvrager bij de aanvraag kiest uit:
 
-- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18),
+      - – de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18),
 
-- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18);
+      - – de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2012-02-18&g=2012-02-18);
 
-- –. forfaitaire kosten berekend door toepassing van van overheidswege gehanteerde standaardschalen van eenheidskosten;
+      - – forfaitaire kosten berekend door toepassing van van overheidswege gehanteerde standaardschalen van eenheidskosten;
 
-- 2°. kosten ten behoeve van promotie en publiciteit;
+   - 2°. kosten ten behoeve van promotie en publiciteit;
 
-- 3°. aankoop of inbreng van grond, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden, tot een maximum van 10% van de subsidiabele projectkosten;
+   - 3°. aankoop of inbreng van grond, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden, tot een maximum van 10% van de subsidiabele projectkosten;
 
-- 4°. aankoop of inbreng van gebouwen en onroerende zaken, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
+   - 4°. aankoop of inbreng van gebouwen en onroerende zaken, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
+   - 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
+   - 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 7°. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
+   - 7°. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
 
-- 8°. kosten voor financiële transacties, financieel juridische diensten, patenten en bankkosten, met uitzondering van debetrente, boetes, financiële sancties en gerechtskosten;
+   - 8°. kosten voor financiële transacties, financieel juridische diensten, patenten en bankkosten, met uitzondering van debetrente, boetes, financiële sancties en gerechtskosten;
 
-- 9°. reis- en verblijfskosten voor binnenlandse en buitenlandse reizen, voorzover deze niet inbegrepen zijn in het integrale uurtarief;
+   - 9°. reis- en verblijfskosten voor binnenlandse en buitenlandse reizen, voorzover deze niet inbegrepen zijn in het integrale uurtarief;
 
-- 10°. andere aan derden verschuldigde kosten;
+   - 10°. andere aan derden verschuldigde kosten;
 
-- b. kosten voor bijdragen in fondsen of andere methoden op het gebied van financiële instrumentering als bedoeld in artikel 44 van de [kaderverordening 1083/2006](32006R1083).
+- b. kosten voor bijdragen in fondsen of andere methoden op het gebied van financiële instrumentering als bedoeld in artikel 44 van de kaderverordening 1083/2006.
 
 2. Indien geen loonkosten worden gemaakt als bedoeld in het eerste lid, onder a, onderdeel 1°, maar desniettemin als bijdrage in natura arbeid ten behoeve van het project wordt verricht, worden de subsidiabele kosten berekend door het aantal uren dat de deelnemers aan het project ten behoeve van deze activiteiten hebben gemaakt te vermenigvuldigen met een vast uurtarief van € 35.
 
@@ -167,6 +145,22 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 5. De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de subsidieontvanger die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen of niet gecompenseerd wordt uit het BTW-compensatiefonds als genoemd in [artikel 2 van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2).
 
 6. Indien ter zake van de projectkosten of een deel daarvan reeds door een ander bestuursorgaan of de Europese commissie subsidie is verstrekt, wordt slechts een zodanig bedrag aan subsidie verstrekt, dat het totale bedrag aan subsidies niet meer bedraagt dan de totale waarde van projectkosten die voor deze subsidie in aanmerking komen.
+
+##### Artikel 10a
+
+1. Indien de subsidieontvanger kiest voor de loonkosten plus overhead systematiek, worden de volgende kosten in aanmerking genomen:
+
+- a. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van het brutoloon volgens de loonstaat van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van 1650 productieve uren per jaar bij een voltijds dienstverband van 40 uren;
+
+- b. algemene indirecte kosten (overhead), gerelateerd aan de loonkosten en gebaseerd op de werkelijke kosten van de uitgevoerde activiteit, volgens een bij de aanvraag om subsidie overgelegde berekeningsmethodiek.
+
+2. Indien de subsidieontvanger kiest voor de integraal uurtarief systematiek worden de subsidiabele kosten berekend door het aantal door het direct bij de uitvoering van het project betrokken personeel gemaakte uren te vermenigvuldigen met het in het derde en vierde lid bedoelde integrale uurtarief dat de subsidieontvanger hanteert voor de functiecategorie van dat personeel, met dien verstande dat het aantal gemaakte uren per persoon op jaarbasis niet meer bedraagt dan het aantal uren dat voor de desbetreffende functiecategorie op jaarbasis is gehanteerd voor de berekening van het integrale uurtarief.
+
+3. De subsidieontvanger berekent het integrale uurtarief op basis van een bij de subsidieontvanger gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die de subsidieontvanger stelselmatig toepast. Het integrale uurtarief is samengesteld uit de directe personeelskosten en de algemene indirecte kosten (overhead). Het integrale uurtarief betreft uitsluitend de kosten uit de gewone bedrijfsvoering en bevat geen winstopslag.
+
+4. De subsidieontvanger legt bij de aanvraag om subsidie en daarna jaarlijks een specificatie over van alle kostensoorten binnen het gehanteerde integrale uurtarief en het aantal uren per functiecategorie waarop het integrale uurtarief is gebaseerd.
+
+5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2012-02-18&g=2012-02-18), sluitend.
 
 ##### Artikel 11
 
@@ -219,53 +213,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiode 2007–2013.
-
-##### Artikel 10a
-
-1. Indien de subsidieontvanger kiest voor de loonkosten plus overhead systematiek, worden de volgende kosten in aanmerking genomen:
-
-- a. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van het brutoloon volgens de loonstaat van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van 1650 productieve uren per jaar bij een voltijds dienstverband van 40 uren;
-
-- b. algemene indirecte kosten (overhead), gerelateerd aan de loonkosten en gebaseerd op de werkelijke kosten van de uitgevoerde activiteit, volgens een bij de aanvraag om subsidie overgelegde berekeningsmethodiek.
-
-2. Indien de subsidieontvanger kiest voor de integraal uurtarief systematiek worden de subsidiabele kosten berekend door het aantal door het direct bij de uitvoering van het project betrokken personeel gemaakte uren te vermenigvuldigen met het in het derde en vierde lid bedoelde integrale uurtarief dat de subsidieontvanger hanteert voor de functiecategorie van dat personeel, met dien verstande dat het aantal gemaakte uren per persoon op jaarbasis niet meer bedraagt dan het aantal uren dat voor de desbetreffende functiecategorie op jaarbasis is gehanteerd voor de berekening van het integrale uurtarief.
-
-3. De subsidieontvanger berekent het integrale uurtarief op basis van een bij de subsidieontvanger gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die de subsidieontvanger stelselmatig toepast. Het integrale uurtarief is samengesteld uit de directe personeelskosten en de algemene indirecte kosten (overhead). Het integrale uurtarief betreft uitsluitend de kosten uit de gewone bedrijfsvoering en bevat geen winstopslag.
-
-4. De subsidieontvanger legt bij de aanvraag om subsidie en daarna jaarlijks een specificatie over van alle kostensoorten binnen het gehanteerde integrale uurtarief en het aantal uren per functiecategorie waarop het integrale uurtarief is gebaseerd.
-
-5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2012-02-18&g=2012-02-18), sluitend.
-
-##### Artikel 9a
-
-Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende bijlage 1 opgenomen procedure.
-
-## Bijlage. bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9a&z=2012-02-18&g=2012-02-18) van de regeling efro doestelling 2 programmaperiode 2007–2013
-
-### Procedures voor authentiek gewaarmerkte versies van originele bewijsstukken en digitale bewijsstukken
-
-In het kader van de verantwoording dient de subsidieontvanger de kosten te onderbouwen met originele bewijsstukken. Artikel 19 van de Uitvoeringsverordening maakt het mogelijk om gewaarmerkte kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een waarmerkingsprocedure voor de vaststelling van de authenticiteit worden opgesteld.
-
-De Europese Commissie accepteert op basis van bovengenoemd artikel ten minste de volgende documenten als bewijsstukken:
-
-Hieronder vindt u de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de EFRO-administratie. Niet vergeten mag worden dat ook voor deze bewijsstukken de bewaarplicht van bewijsstukken van toepassing is (artikel 90 van de Kaderverordening). De subsidieontvanger dient derhalve te waarborgen dat ook deze bewijsstukken daaraan zullen voldoen.
-
-### Procedure voor het waarmerken van geconverteerde documenten (onderdelen a en b)
-
-De Belastingdienst spreekt van conversie van gegevens op het moment dat gegevens vanaf de originele gegevensdrager worden overgezet naar een andere gegevensdrager. In de opsomming van de Europese Commissie (artikel 19 van Verordening (EG) 1828/2006) gaat het dan om de onderdelen a en b: fotokopieën van originelen, microfiches van originelen. Deze procedure kan bijvoorbeeld worden toegepast indien het project een samenwerkingsverband betreft en de penvoerder - het aanspreekpunt c.q. de eerstverantwoordelijke namens alle projectpartners - alle bewijsstukken wil of dient over te leggen.
-
-U kunt deze geconverteerde gegevens onder voorwaarden gebruiken als bewijsstukken ter onderbouwing van de EFRO-administratie. Als dit op de juiste wijze gebeurt, is het, in het kader van de EFRO-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager over te leggen. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
-
-Voorwaarde hierbij is dat het document dat naar een nieuwe gegevensdrager wordt geconverteerd, vóór conversie wordt gewaarmerkt door de begunstigde c.q. de eigenaar van het document. Dit wordt als volgt bewerkstelligd: de betrokken functionaris zet op het origineel, voordat het wordt geconverteerd, een waarmerk door (1.) een handtekening, (2.) de datum van waarmerking en (3.) de mededeling dat het gaat om waarmerking ten behoeve van EFRO1Voorzover dat niet al duidelijk blijkt.. Vervolgens is dat waarmerk ook zichtbaar op het geconverteerde document.
-
-### Procedure voor elektronische versies van originelen (onderdeel c)
-
-In Nederland is de praktijk steeds vaker dat bij binnenkomst een document direct wordt gescand en met de gescande versie het verdere traject wordt doorlopen. In dat geval dient de betrouwbaarheid, authenticiteit en integriteit van het omzettingsproces en van de elektronische versies te worden gewaarborgd. Het is aan de subsidieontvanger om aan te tonen dat het scanproces en het verdere verloop c.q. de verdere procesgang binnen de organisatie daaraan kan voldoen.
-
-Indien de verdere procesgang volkomen elektronisch geschiedt, moet de subsidieontvanger kunnen aantonen dat:
-
-Indien de verdere procesgang overeenkomt met die van een papieren bewijsstuk (de verdere afhandeling geschiedt met een print van de scan, welke aan het einde weer wordt gescand), moet de subsidieontvanger kunnen aantonen dat:
-
-### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
-
-Indien een subsidieontvanger gebruik maakt van elektronische documenten waarvan uitsluitend een elektronische versie bestaat, dienen de geautomatiseerde systemen voorzien te zijn van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Hierbij kan worden aangesloten op de voorschriften die de Belastingdienst stelt aan digitale administraties. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt.

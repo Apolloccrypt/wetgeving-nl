@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 13 november 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2007 (Verordening PT vakheffing bloemkwekerijproducten 2007/2)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2007/2"
 identifier: "BWBR0023487"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-02-10"
-last_updated: "2008-02-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023487"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9420303"
-version_id: "15165662"
-internal_id: "C20671861"
-label_id: "9397894"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023487/2008-02-10/0"
-intitule_bron: "Vbbo.2008-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-13"
-intitule_published: "2008-02-08"
-intitule_in_force: "2008-02-08"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-10"
-original_signed_date: "2007-11-13"
-original_published_date: "2008-02-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-02-10"
-jci_1_3: "jci1.3:c:BWBR0023487&z=2008-02-10&g=2008-02-10"
-jci_1_0: "1.0:c:BWBR0023487&g=2008-02-10"
-citeertitel_status: "redactioneel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2007/2"
-signed_date: "2007-11-13"
-entry_into_force: "2008-02-10"
+publicatiedatum: 2008-02-10
+laatste_update: 2008-02-10
+status: geldig
+toestand: 2008-02-10
+bron: "https://wetten.overheid.nl/BWBR0023487"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 13 november 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2007 (Verordening PT vakheffing bloemkwekerijproducten 2007/2)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bloemkwekerijproducten, d.d. 18 september 2007;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,21 +24,21 @@ Besluit:
 
 3. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-| a. | de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| a. | de bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |  |
 | --- | --- | --- | --- |
-|   |   | 1. | winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; |
-|   |   | 2. | voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; |
-|   |   | 3. | dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en |
-|   |   | 4. | aquariumplanten en niet-levende bloemkwekerijproducten; |
-| b. | teeltmateriaal: | planten en plantendelen die bestemd zijn om voor de teelt van bloemkwekerijproducten of ter vermeerdering te dienen dan wel daartoe gebruikt worden; | planten en plantendelen die bestemd zijn om voor de teelt van bloemkwekerijproducten of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
+|  |  | 1. | winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; |
+|  |  | 2. | voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; |
+|  |  | 3. | dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en |
+|  |  | 4. | aquariumplanten en niet-levende bloemkwekerijproducten; |
+| b. | teeltmateriaal: | planten en plantendelen die bestemd zijn om voor de teelt van bloemkwekerijproducten of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |  |
 | c. | het kweken van bloemkwekerijproducten of teeltmateriaal: | 1. | het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of teeltmateriaal; |
-|   |   | 2. | het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of teeltmateriaal, of |
-|   |   | 3. | het oogsten van bloemkwekerijproducten of teeltmateriaal; |
-| d. | de kweker: | de ondernemer die bloemkwekerijproducten of teeltmateriaal kweekt; | de ondernemer die bloemkwekerijproducten of teeltmateriaal kweekt; |
-| e. | de importeur: | de ondernemer die bloemkwekerijproducten of teeltmateriaal invoert; | de ondernemer die bloemkwekerijproducten of teeltmateriaal invoert; |
-| f. | de omzet: | het bruto-verkoopfactuurbedrag inclusief kosten doch exclusief BTW; | het bruto-verkoopfactuurbedrag inclusief kosten doch exclusief BTW; |
-| g. | de invoerwaarde: | de cif-waarde van hetgeen de importeur heeft ingevoerd; | de cif-waarde van hetgeen de importeur heeft ingevoerd; |
-| h. | de veiling: | een organisatie die bemiddelt bij de aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. | een organisatie die bemiddelt bij de aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. |
+|  |  | 2. | het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of teeltmateriaal, of |
+|  |  | 3. | het oogsten van bloemkwekerijproducten of teeltmateriaal; |
+| d. | de kweker: | de ondernemer die bloemkwekerijproducten of teeltmateriaal kweekt; |  |
+| e. | de importeur: | de ondernemer die bloemkwekerijproducten of teeltmateriaal invoert; |  |
+| f. | de omzet: | het bruto-verkoopfactuurbedrag inclusief kosten doch exclusief BTW; |  |
+| g. | de invoerwaarde: | de cif-waarde van hetgeen de importeur heeft ingevoerd; |  |
+| h. | de veiling: | een organisatie die bemiddelt bij de aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. |  |
 
 4. Onder het kweken van bloemkwekerijproducten of teeltmateriaal wordt mede begrepen het doen kweken.
 
@@ -97,10 +68,10 @@ Besluit:
 
 2. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de omzet en bedraagt voor:
 
-| a. | bloemkwekerijproducten (met uitzondering van bloemzaden): | 0,91%; |   |
+| a. | bloemkwekerijproducten (met uitzondering van bloemzaden): | 0,91%; |  |
 | --- | --- | --- | --- |
 | b. | teeltmateriaal: | 0,60%, | en |
-| c. | bloemzaden: | 1,000%. |   |
+| c. | bloemzaden: | 1,000%. |  |
 
 Voor kwekers van bloemzaden wordt bij de heffing, bij de berekening en oplegging van de heffing uitgegaan van een veronderstelde omzet van € 3.400 per hectare, welke omzet wordt toegepast naar rato van het areaal van de kweker van bloemzaden.
 
@@ -124,21 +95,21 @@ ontvangt van het productschap een restitutie ter grootte van de over de oorspron
 
 7. Voor de kweker, die aantoont dat hij bij een gecertificeerde instelling is geregistreerd en teeltmateriaal onder toezicht van die gecertificeerde instelling heeft verhandeld, geldt dat de heffing voor teeltmateriaal, over de omzet waarover de vakheffing wordt berekend, verminderd met 60%.
 
-- a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
+8. - a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
 
 - b. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van aangekochte bloemkwekerijproducten hoger is dan € 11.344.505,–, wordt over:
 
-- –. het bedrag tussen € 0,0 – € 11.344.505,– het heffingstarief van 0,31% toegepast,
+   - – het bedrag tussen € 0,0 – € 11.344.505,– het heffingstarief van 0,31% toegepast,
 
-- –. het bedrag tussen € 11.344.505,– en € 50.000.000,– het verlaagde heffingstarief van 0,21% toegepast, en
+   - – het bedrag tussen € 11.344.505,– en € 50.000.000,– het verlaagde heffingstarief van 0,21% toegepast, en
 
-- –. het bedrag groter dan € 50.000.000,–, het verlaagde heffingstarief van 0,11% toegepast.
+   - – het bedrag groter dan € 50.000.000,–, het verlaagde heffingstarief van 0,11% toegepast.
 
 - c. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde teeltmateriaal) hoger is dan € 6.000.000,–, wordt over:
 
-- 1. de eerste € 6.000.000,– het heffingstarief van 0,91% toegepast, en
+   - 1. de eerste € 6.000.000,– het heffingstarief van 0,91% toegepast, en
 
-- 2. het bedrag hoger dan € 6.000.000,– het verlaagde heffingstarief van 0,66% toegepast.
+   - 2. het bedrag hoger dan € 6.000.000,– het verlaagde heffingstarief van 0,66% toegepast.
 
 - d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop van het jaar waarover de restitutie wordt gevraagd en vergezeld gaan van een accountantsverklaring.
 
@@ -187,5 +158,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2007/2.
-
-Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

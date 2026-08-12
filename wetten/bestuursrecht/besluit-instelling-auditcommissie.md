@@ -1,60 +1,28 @@
 ---
 title: "Besluit van 26 juli 2008 tot uitvoering van artikel 41 van Richtlijn nr. 2006/43/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen nr. 78/660/EEG en nr. 83/349/EEG van de Raad van de Europese Gemeenschappen en houdende intrekking van Richtlijn nr. 84/253/EEG van de Raad van de Europese Gemeenschappen"
+citeertitel: "Besluit instelling auditcommissie"
 identifier: "BWBR0024324"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024324"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "9689913"
-version_id: "23729032"
-internal_id: "C34150631"
-label_id: "9666894"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024324/2017-01-01/0"
-intitule_bron: "Stb.2008-323"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-26"
-intitule_published: "2008-08-07"
-intitule_in_force: "2008-08-07"
-intitule_status: "goed"
-original_publication: "Stb.2016-507"
-original_signed_date: "2016-12-08"
-original_published_date: "2016-12-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2016-507"
-entry_into_force_date: "2016-12-08"
-jci_1_3: "jci1.3:c:BWBR0024324&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0024324&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling auditcommissie"
-signed_date: "2016-12-08"
-entry_into_force: "2016-12-08"
+publicatiedatum: 2016-12-08
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0024324"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 26 juli 2008 tot uitvoering van artikel 41 van Richtlijn nr. 2006/43/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen nr. 78/660/EEG en nr. 83/349/EEG van de Raad van de Europese Gemeenschappen en houdende intrekking van Richtlijn nr. 84/253/EEG van de Raad van de Europese Gemeenschappen
-
-Op de voordracht van Onze Minister van Justitie van 24 april 2007, Directie Wetgeving, nr. 5479513/07/6;
-
-Gelet op [artikel 21a Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=21a) en [artikel 391 lid 5 en 6 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391);
-
-De Raad van State gehoord (advies van 14 juni 2007, nr. W03.07.0114/II);
-
-Gezien het nader rapport van 15 juli 2008, nr. 5552473/08/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **organisatie van openbaar belang:** een organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- a. *organisatie van openbaar belang:* een organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- b. **richtlijn:** richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad, en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEU 2006, L 157);
+- b. *richtlijn:* richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad, en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEU 2006, L 157);
 
-- c. **EU-verordening:** Verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158).
+- c. *EU-verordening:* Verordening (EU) nr. 537/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende specifieke eisen voor de wettelijke controles van financiële overzichten van organisaties van openbaar belang (PbEU 2014, L 158).
 
 ##### Artikel 2
 
@@ -98,10 +66,6 @@ Dit besluit is van toepassing op een bestuursverslag dat betrekking heeft op een
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit instelling auditcommissie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

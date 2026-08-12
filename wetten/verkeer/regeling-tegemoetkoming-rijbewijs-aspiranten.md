@@ -9,7 +9,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0048802"
-opgehaald: 2026-08-11
+opgehaald: 2026-08-12
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 24 oktober 2023, nr. 4960470, houdende bepalingen betreffende tegemoetkoming van het rijbewijs B aan aspiranten (Regeling tegemoetkoming rijbewijs aspiranten)

@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het Productschap Tuinbouw van 25 september 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van uien voor het jaar 2000"
+citeertitel: "Verordening PT Bijzondere heffing uien 2000"
 identifier: "BWBR0023363"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-01-12"
-last_updated: "2008-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023363"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9392793"
-version_id: "15118862"
-internal_id: "C20613121"
-label_id: "9370434"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023363/2008-01-12/0"
-intitule_bron: "Vbbo.2008-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-09-25"
-intitule_published: "2008-01-11"
-intitule_in_force: "2008-01-11"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-3"
-original_signed_date: "2001-09-25"
-original_published_date: "2008-01-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-01-12"
-jci_1_3: "jci1.3:c:BWBR0023363&z=2008-01-12&g=2008-01-12"
-jci_1_0: "1.0:c:BWBR0023363&g=2008-01-12"
-citeertitel_status: "officieel"
-short_title: "Verordening PT Bijzondere heffing uien 2000"
-signed_date: "2001-09-25"
-entry_into_force: "2008-01-12"
+publicatiedatum: 2008-01-12
+laatste_update: 2008-01-12
+status: geldig
+toestand: 2008-01-12
+bron: "https://wetten.overheid.nl/BWBR0023363"
+opgehaald: 2026-08-12
 ---
+
 # Verordening van het Productschap Tuinbouw van 25 september 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van uien voor het jaar 2000
-
-op voorstel van de Sectorcommissie Groenten en Fruit;
-
-gelet op de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +28,7 @@ Besluit:
 | c. | voorzitter: | de voorzitter van het productschap; |
 | d. | onderneming: | onderneming waarvoor het productschap is ingesteld; |
 | e. | ondernemer: | de natuurlijke of rechtspersoon die de onderneming drijft; |
-| f. | cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023363&paragraaf=3&artikel=4&z=2008-01-12&g=2008-01-12) genoemde gewassen of producten kunnen word geteeld, of ten tijde van het tijdvak, bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| f. | cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen word geteeld, of ten tijde van het tijdvak, bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | g. | gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | h. | contractteelt: | de teelt van gewassen of producten ingevolge een overeenkomst; |
 | i. | heffingplichtige: | degene die ingevolge deze heffingsverordening heffing verschuldigd is. |

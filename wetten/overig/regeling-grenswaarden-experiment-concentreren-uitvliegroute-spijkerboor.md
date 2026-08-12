@@ -1,45 +1,17 @@
 ---
 title: "Regeling grenswaarden experiment concentreren uitvliegroute Spijkerboor"
 identifier: "BWBR0022862"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-11-01"
-last_updated: "2009-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022862"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9284523"
-version_id: "14903062"
-internal_id: "C20275291"
-label_id: "9263084"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022862/2009-11-01/0"
-intitule_bron: "Stcrt.2007-225"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-20"
-intitule_published: "2007-11-20"
-intitule_in_force: "2007-11-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-225"
-original_signed_date: "2007-11-20"
-original_published_date: "2007-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-225-p42-SC83082"
-entry_into_force_date: "2007-11-22"
-jci_1_3: "jci1.3:c:BWBR0022862&z=2009-11-01&g=2009-11-01"
-jci_1_0: "1.0:c:BWBR0022862&g=2009-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-11-20"
-entry_into_force: "2007-11-22"
+publicatiedatum: 2007-11-22
+laatste_update: 2009-11-01
+status: geldig
+toestand: 2009-11-01
+bron: "https://wetten.overheid.nl/BWBR0022862"
+opgehaald: 2026-08-12
 ---
+
 # Regeling grenswaarden experiment concentreren uitvliegroute Spijkerboor
-
-De Minister van Verkeer en Waterstaat, handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-
-Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -248,15 +220,15 @@ Als gevolg van het experiment zal naar verwachting per saldo minder hinder worde
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
-- –. het effect op de hinderbeleving in Hoofddorp, Nieuw-Vennep en omliggende gebieden;
+- – het effect op de hinderbeleving in Hoofddorp, Nieuw-Vennep en omliggende gebieden;
 
-- –. het effect op de berekende geluidbelasting in de betreffende handhavingspunten en de geluidbelasting in het binnen- en buitengebied;
+- – het effect op de berekende geluidbelasting in de betreffende handhavingspunten en de geluidbelasting in het binnen- en buitengebied;
 
-- –. het effect op de interne en externe veiligheid;
+- – het effect op de interne en externe veiligheid;
 
-- –. het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
+- – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
 
-- –. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329), alsmede op de 20Ke contour uit de Nota Ruimte.
+- – het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329), alsmede op de 20Ke contour uit de Nota Ruimte.
 
 ##### Artikel 7. Onvoorziene gevallen
 
@@ -269,5 +241,3 @@ De termijn van het experiment betreft de periode vanaf 22 november 2007 tot en m
 ##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 22 november 2007.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

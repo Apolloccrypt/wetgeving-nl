@@ -1,44 +1,18 @@
 ---
 title: "Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten"
+citeertitel: "Besluit vaststelling vergoeding voorzitter en leden Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten"
 identifier: "BWBR0024375"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-08-17"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024375"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9698273"
-version_id: "15672742"
-internal_id: "C29422771"
-label_id: "9675234"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024375/2008-08-17/0"
-intitule_bron: "Stcrt.2008-157"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-12"
-intitule_published: "2008-08-15"
-intitule_in_force: "2008-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-157"
-original_signed_date: "2008-08-12"
-original_published_date: "2008-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-157-p5-SC87100"
-entry_into_force_date: "2008-08-17"
-jci_1_3: "jci1.3:c:BWBR0024375&z=2008-08-17&g=2008-08-17"
-jci_1_0: "1.0:c:BWBR0024375&g=2008-08-17"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling vergoeding voorzitter en leden Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten"
-signed_date: "2008-08-12"
-entry_into_force: "2008-08-17"
+publicatiedatum: 2008-08-17
+laatste_update: 2008-08-17
+status: geldig
+toestand: 2008-08-17
+bron: "https://wetten.overheid.nl/BWBR0024375"
+opgehaald: 2026-08-12
 ---
+
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten
-
-Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -57,5 +31,3 @@ Het [besluit van de Minister van Economische Zaken van 14 maart 2005, kenmerk nr
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2008.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

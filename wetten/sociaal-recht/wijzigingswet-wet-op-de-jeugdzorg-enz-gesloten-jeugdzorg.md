@@ -1,71 +1,42 @@
 ---
 title: "Wet van 20 december 2007, houdende wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)"
+citeertitel: "Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg)"
 identifier: "BWBR0023166"
-country: "nl"
-rank: "wet"
-publication_date: "2014-02-15"
-last_updated: "2014-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023166"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9350953"
-version_id: "15037542"
-internal_id: "C20504491"
-label_id: "9329274"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023166/2014-02-15/0"
-intitule_bron: "Stb.2007-578"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-20"
-intitule_published: "2007-12-28"
-intitule_in_force: "2007-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2007-578"
-original_signed_date: "2007-12-20"
-original_published_date: "2007-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "30644"
-original_url_id: "stb-2007-578"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0023166&z=2014-02-15&g=2014-02-15"
-jci_1_0: "1.0:c:BWBR0023166&g=2014-02-15"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg)"
-signed_date: "2007-12-20"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2014-02-15
+status: geldig
+toestand: 2014-02-15
+bron: "https://wetten.overheid.nl/BWBR0023166"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 20 december 2007, houdende wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) te wijzigen teneinde jeugdzorg waarop aanspraak bestaat ingevolge [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) in gesloten kader mogelijk te maken;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de Jeugdzorg.
+*Wijzigt de Wet op de Jeugdzorg.*
 
 ##### Artikel II
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel III
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel IV
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
 
 ##### Artikel V
 
-Wijzigt de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.
+*Wijzigt de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.*
 
 ##### Artikel VI
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel VII
 
@@ -89,10 +60,8 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel VIIa
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
 
 ##### Artikel VIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 7 februari 2008, nr. WJZ 7119929, houdende regels voor het aanvragen om een vergunning voor het verrichten van ruimtevaartactiviteiten en registratie van ruimtevoorwerpen"
+citeertitel: "Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie"
 identifier: "BWBR0023494"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023494"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9421673"
-version_id: "15167872"
-internal_id: "C20674441"
-label_id: "9399264"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023494/2015-07-01/0"
-intitule_bron: "Stcrt.2008-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-07"
-intitule_published: "2008-02-20"
-intitule_in_force: "2008-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-36"
-original_signed_date: "2008-02-07"
-original_published_date: "2008-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-36-p13-SC84552"
-entry_into_force_date: "2008-02-22"
-jci_1_3: "jci1.3:c:BWBR0023494&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0023494&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie"
-signed_date: "2008-02-07"
-entry_into_force: "2008-02-22"
+publicatiedatum: 2008-02-22
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0023494"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Economische Zaken van 7 februari 2008, nr. WJZ 7119929, houdende regels voor het aanvragen om een vergunning voor het verrichten van ruimtevaartactiviteiten en registratie van ruimtevoorwerpen
-
-Gelet op [artikel 4, tweede en derde lid, van de Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&artikel=4) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022944&artikel=3) en [6 van het Besluit register ruimtevoorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0022944&artikel=6);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -64,13 +38,13 @@ ruimtevaartactiviteiten geschiedt door middel van het indienen van het formulier
 
 - d. financiële bescheiden, bestaande uit:
 
-- 1°. de jaarrekening over het afgelopen boekjaar, indien aanwezig inclusief de accountantsverklaring;
+   - 1°. de jaarrekening over het afgelopen boekjaar, indien aanwezig inclusief de accountantsverklaring;
 
-- 2°. een geprognosticeerde winst- en verliesrekening met toelichting;
+   - 2°. een geprognosticeerde winst- en verliesrekening met toelichting;
 
-- 3°. een liquiditeitsprognose met toelichting;
+   - 3°. een liquiditeitsprognose met toelichting;
 
-- 4°. een risicoanalyse waarin aangegeven wordt welke beheersmaatregelen zijn getroffen ter waarborging van de continuïteit van de ruimtevaartactiviteiten;
+   - 4°. een risicoanalyse waarin aangegeven wordt welke beheersmaatregelen zijn getroffen ter waarborging van de continuïteit van de ruimtevaartactiviteiten;
 
 - d. een bewijsstuk met betrekking tot de toestemming voor het gebruik van frequentieruimte.
 
@@ -101,9 +75,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie.
-
-## Bijlage I. behorend bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), van de Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie
-
-## Bijlage II. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023494&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01) van de Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie
-
-Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.

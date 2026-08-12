@@ -1,45 +1,18 @@
 ---
 title: "Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 19 november 2007, houdende verlening van mandaat aan veilingen en in- en verkoopbureaus teneinde over te kunnen gaan tot het rechtsgeldig opleggen en innen van heffingen namens het Productschap Tuinbouw (Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008)"
+citeertitel: "Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008"
 identifier: "BWBR0022924"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-11-25"
-last_updated: "2007-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022924"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9296153"
-version_id: "14925042"
-internal_id: "C20307521"
-label_id: "9274654"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022924/2007-11-25/0"
-intitule_bron: "Vbbo.2007-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-19"
-intitule_published: "2007-11-23"
-intitule_in_force: "2007-11-23"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-73"
-original_signed_date: "2007-11-19"
-original_published_date: "2007-11-23"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-11-25"
-jci_1_3: "jci1.3:c:BWBR0022924&z=2007-11-25&g=2007-11-25"
-jci_1_0: "1.0:c:BWBR0022924&g=2007-11-25"
-citeertitel_status: "officieel"
-short_title: "Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008"
-signed_date: "2007-11-19"
-entry_into_force: "2007-11-25"
+publicatiedatum: 2007-11-25
+laatste_update: 2007-11-25
+status: geldig
+toestand: 2007-11-25
+bron: "https://wetten.overheid.nl/BWBR0022924"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 19 november 2007, houdende verlening van mandaat aan veilingen en in- en verkoopbureaus teneinde over te kunnen gaan tot het rechtsgeldig opleggen en innen van heffingen namens het Productschap Tuinbouw (Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008)
-
-Gelet op [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) en [hoofdstuk 10.1.1, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10);
-
-Gelet op het [Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0019834);
-
-Besluit:
 
 ##### Artikel 1
 

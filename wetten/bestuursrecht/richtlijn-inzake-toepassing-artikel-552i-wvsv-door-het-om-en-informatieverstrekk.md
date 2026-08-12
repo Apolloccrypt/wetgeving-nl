@@ -1,36 +1,17 @@
 ---
 title: "Richtlijn inzake de toepassing van artikel 552i WvSv door het OM en de informatieverstrekking door de politie in het kader van de wederzijdse rechtshulp in strafzaken"
+citeertitel: "Richtlijn inzake toepassing artikel 552i WvSv door het OM en informatieverstrekking door de politie (wederzijdse rechtshulp in strafzaken)"
 identifier: "BWBR0023576"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2008-03-01"
-last_updated: "2008-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023576"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9438463"
-version_id: "15197852"
-internal_id: "C20711681"
-label_id: "9416194"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023576/2008-03-01/0"
-intitule_bron: "Stcrt.2008-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-03-04"
-intitule_in_force: "2008-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-45"
-original_published_date: "2008-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-45-p18-SC84741"
-entry_into_force_date: "2008-03-01"
-jci_1_3: "jci1.3:c:BWBR0023576&z=2008-03-01&g=2008-03-01"
-jci_1_0: "1.0:c:BWBR0023576&g=2008-03-01"
-citeertitel_status: "redactioneel"
-short_title: "Richtlijn inzake toepassing artikel 552i WvSv door het OM en informatieverstrekking door de politie (wederzijdse rechtshulp in strafzaken)"
-entry_into_force: "2008-03-01"
+publicatiedatum: 2008-03-01
+laatste_update: 2008-03-01
+status: geldig
+toestand: 2008-03-01
+bron: "https://wetten.overheid.nl/BWBR0023576"
+opgehaald: 2026-08-12
 ---
+
 # Richtlijn inzake de toepassing van artikel 552i WvSv door het OM en de informatieverstrekking door de politie in het kader van de wederzijdse rechtshulp in strafzaken
 
 ### 1. Inleiding
@@ -51,15 +32,15 @@ De informatieverstrekking op verzoek van een buitenlandse autoriteit wordt behee
 
 ### 1.3. Informatie over Nederlandse ingezetenen
 
-Het belang van de internationale strafrechtelijke samenwerking dient voorop te staan bij de verstrekking van informatie, met inachtneming van de hieronder te noemen regels. Het verstrekken van informatie aan het buitenland mag derhalve niet zonder meer afspringen op het feit dat deze betrekking heeft op een Nederlandse ingezetene. Oók niet indien de informatieverstrekking betrekking heeft op Nederlandse ingezetenen en het niet uitgesloten moet worden geacht dat dezen als gevolg daarvan in het buitenland worden aangehouden met het oog op de vervolging én berechting aldaar. Informatie kan worden verstrekt indien dat in het belang is van een effectieve criminaliteitsbestrijding, zonder dat daarbij standaard de voorwaarde behoeft te worden gesteld dat de verdachte na diens aanhouding bijvoorbeeld in het kader van de strafvervolging aan Nederland dient te worden uitgeleverd. Het bovenstaande lijdt slechts uitzondering in de gevallen onder punt 2 aangegeven. In de daar genoemde gevallen beslist het OM.
+Het belang van de internationale strafrechtelijke samenwerking dient voorop te staan bij de verstrekking van informatie, met inachtneming van de hieronder te noemen regels. Het verstrekken van informatie aan het buitenland mag derhalve niet zonder meer afspringen op het feit dat deze betrekking heeft op een Nederlandse ingezetene. Oók niet indien de informatieverstrekking betrekking heeft op Nederlandse ingezetenen en het niet uitgesloten moet worden geacht dat dezen als gevolg daarvan in het buitenland worden aangehouden met het oog op de vervolging én berechting aldaar. Informatie kan worden verstrekt indien dat in het belang is van een effectieve criminaliteitsbestrijding, zonder dat daarbij standaard de voorwaarde behoeft te worden gesteld dat de verdachte na diens aanhouding bijvoorbeeld in het kader van de strafvervolging aan Nederland dient te worden uitgeleverd. Het bovenstaande lijdt slechts uitzondering in de gevallen onder punt [2](https://wetten.overheid.nl/BWBR0023576) aangegeven. In de daar genoemde gevallen beslist het OM.
 
 ### 2. Aanwending opsporingsbevoegdheden door de politie in het kader van internationale rechtshulp
 
 ### 2.1. Bevoegdhedenverdeling tussen het OM en de politie
 
-Zoals onder 1.2 gemeld, is bij wet van 24 februari 1993 [artikel 552i Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i) gewijzigd. De politie heeft de bevoegdheid rechtshulpverzoeken zelfstandig te behandelen indien uitsluitend om informatie wordt gevraagd en voor het verkrijgen daarvan geen dwangmiddelen nodig zijn. Dit betekent een verruiming van de reeds bestaande bevoegdheid. De politie is niet langer verplicht om rechtshulpverzoeken door te zenden aan het OM als om informatie wordt gevraagd die zij zonder toepassing van dwangmiddelen of bevoegdheden als bedoeld in de [artikelen 126g tot en met 126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), de [artikelen 126zd tot en met 126zu](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) en [artikel 126gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) dan wel toepassing van [artikel 126ff](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) kan verkrijgen. Het gewijzigde doorzendregime blijft niet beperkt tot de Schengenpartners omdat in de wet geen verdragseis wordt gesteld.
+Zoals onder [1.2](https://wetten.overheid.nl/BWBR0023576) gemeld, is bij wet van 24 februari 1993 [artikel 552i Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i) gewijzigd. De politie heeft de bevoegdheid rechtshulpverzoeken zelfstandig te behandelen indien uitsluitend om informatie wordt gevraagd en voor het verkrijgen daarvan geen dwangmiddelen nodig zijn. Dit betekent een verruiming van de reeds bestaande bevoegdheid. De politie is niet langer verplicht om rechtshulpverzoeken door te zenden aan het OM als om informatie wordt gevraagd die zij zonder toepassing van dwangmiddelen of bevoegdheden als bedoeld in de [artikelen 126g tot en met 126z](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g), de [artikelen 126zd tot en met 126zu](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) en [artikel 126gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) dan wel toepassing van [artikel 126ff](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ff) kan verkrijgen. Het gewijzigde doorzendregime blijft niet beperkt tot de Schengenpartners omdat in de wet geen verdragseis wordt gesteld.
 
-Het OM blijft echter verantwoordelijk voor de in het kader van de internationale rechtshulp door de politie te verrichten handelingen. Ook blijven overeind de hierna onder 2.2.2 beschreven wettelijke absolute en relatieve weigeringsgronden ([552k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552k), [552l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552l) en [552m Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552m)).
+Het OM blijft echter verantwoordelijk voor de in het kader van de internationale rechtshulp door de politie te verrichten handelingen. Ook blijven overeind de hierna onder [2.2.2](https://wetten.overheid.nl/BWBR0023576) beschreven wettelijke absolute en relatieve weigeringsgronden ([552k](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552k), [552l](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552l) en [552m Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552m)).
 
 Afgezien van het feit dat de samenwerking tussen nationale politiediensten niet begrensd wordt door het Schengenterritorium, zal deze zich naar verwachting in de praktijk eveneens toespitsen op bepaalde opsporingshandelingen waarvan het wenselijk is dat die zich afspelen onder regie van het OM. Te denken valt daarbij in het bijzonder aan ingrijpende opsporingshandelingen als onder meer gecontroleerde aflevering, infiltratie en schaduwen.
 
@@ -69,17 +50,35 @@ Hieronder wordt beschreven in welke gevallen door het OM toestemming verleend mo
 
 ### 2.2.1. Toepassing van dwangmiddelen
 
+- – gevraagd wordt om de toepassing van dwangmiddelen;
+
 ### 2.2.2. Wettelijke absolute en relatieve weigeringsgronden
+
+- – het rechtshulpverzoek niet op een verdrag is gebaseerd, dan wel het toepasselijk verdrag niet tot inwilliging verplicht, en de afdoening van het verzoek mogelijk in strijd komt met een wettelijk voorschrift of met een aanwijzing van de minister van Justitie ([art. 552k Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552k));
 
 Ingeval het rechtshulpverzoek geheel of gedeeltelijk betrekking heeft op de verstrekking van informatie, geldt als aanvulling op [art. 552k Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552k) hetgeen is bepaald in [artikel 17 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17) en [artikel 5:1 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=5:1). In [lid 5 van voornoemd artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=17) staat dat politiegegevens alleen worden verstrekt indien bij de ontvangende instantie voldoende waarborgen aanwezig zijn voor een juist gebruik en voor de bescherming van de persoonlijke levenssfeer. In lid 1 van voornoemd [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=5:1) is de algemene bepaling opgenomen dat politiegegevens verstrekt kunnen worden aan autoriteiten in een ander land die zijn belast met de uitvoering van de politietaak, voorzover de verstrekking noodzakelijk is voor de goede uitvoering van de politietaak in Nederland, dan wel voor de goede uitvoering van de politietaak in het buitenland. Is dit laatste het geval, dan is verstrekking mogelijk in geval van de opsporing van een ernstig misdrijf of de voorkoming van een ernstig gevaar voor de openbare orde of in geval van een verzoek met betrekking tot een bepaald persoon of bepaald geval. In lid 2 staat het belangrijke beginsel dat de gegevens slechts verder kunnen worden verwerkt voor het doel waarvoor ze zijn verstrekt.
 
+- – bij de politie het vermoeden rijst dat het verzoek is gedaan met het oog op een van de gronden, genoemd in [artikel 552l, eerste lid onder a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552l) (discriminatoire vervolging);
+
+- – het verlenen van rechtshulp in strijd zou komen met de in [artikel 552l, eerste lid onder b en c Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552l) genoemde weigeringsgronden (ne bis in idem en vervolging in Nederland ter zake van dezelfde feiten).
+
 Indien dit laatste zich voordoet kunnen door het OM in overleg met het Ministerie, afdeling Internationale Rechtshulp, voorwaarden gesteld worden ten aanzien van het gebruik van die gegevens;
 
-### 2.2.3. Algemene aanwijzingen in de zin van [art. 552i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i) aan de politie/CRI vanwege het OM
+- – om rechtshulp wordt gevraagd ten behoeve van een onderzoek naar politieke delicten, ongeacht of het verzoek afkomstig is van een Staat die partij is bij het Europees Verdrag tot bestrijding van het terrorisme of bij de Overeenkomst betreffende de toepassing van dat Verdrag ([art. 552m, eerste lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552m));
+
+- – om rechtshulp wordt gevraagd ten behoeve van een onderzoek naar strafbare feiten met betrekking tot retributies, belastingen, douane, deviezen, of daarmee verband houdende feiten ([art. 552m, derde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552m)).
+
+### 2.2.3. Algemene aanwijzingen in de zin van art. 552i, vierde lid aan de politie/CRI vanwege het OM
 
 Een rechtshulpverzoek moet door de politie ook worden doorgezonden naar het OM indien om inlichtingen wordt gevraagd en het voor het verkrijgen daarvan noodzakelijk dan wel wenselijk is dat:
 
-### 2.2.4. Bijzondere aanwijzingen in de zin van [art. 552i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i) aan de politie/CRI vanwege het OM
+- – personen en/of objecten worden geobserveerd;
+
+- – een gecontroleerde aflevering wordt begeleid;
+
+- – in het kader van een buitenlands opsporingsonderzoek het optreden op Nederlands grondgebied van informanten/infiltranten wordt toegestaan, bevorderd dan wel begeleid.
+
+### 2.2.4. Bijzondere aanwijzingen in de zin van art. 552i, vierde lid aan de politie/CRI vanwege het OM
 
 Ook moet het rechtshulpverzoek worden doorgezonden aan het OM indien het lokale OM daartoe ingevolge het vierde lid van [artikel 552i Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552i) bijzondere aanwijzingen geeft aan de politie. Deze bepaling geeft het lokale OM de mogelijkheid om op het punt van de doorzendplicht van rechtshulpverzoeken door de politie aan het OM een eigen beleid te ontwikkelen. Hierbij kan bijvoorbeeld gedacht worden aan het maken van afspraken met de politie omtrent de vraag wie in welke gevallen de in [artikel 5:1 tweede lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=5:1)4Tekst van artikel 5:1 Besluit Politiegegevens, tweede lid:De gegevens worden verstrekt onder de algemene voorwaarde dat deze slechts verder kunnen worden verwerkt voor het doel waarvoor ze zijn verstrekt. In bijzondere gevallen kunnen de verstrekte gegevens verder worden verwerkt ten behoeve van de voorkoming van een onmiddellijke en ernstige bedreiging van de openbare veiligheid. Op verzoek van de ontvangende persoon of instantie kan de verantwoordelijke instemmen met de verdere verwerking van verstrekte gegevens voor een ander doel voor zover dit noodzakelijk is voor de goede uitvoering van de politietaak in dat land. voorziene toestemming verleent (en ná inwerkingtreding 'Schengen' de in artikel 39, tweede lid SUO5Tekst artikel 39 SUO, tweede lid:Schriftelijke informatie die krachtens het bepaalde in lid 1 door de aangezochte Overeenkomstsluitende Partij wordt verstrekt, kan door de verzoekende Overeenkomstsluitende Partij slechts met toestemming van de bevoegde justitiële autoriteiten van de aangezochte Overeenkomstsluitende Partij als bewijsmiddel voor het ten laste gelegde feit worden aangewend. voorziene toestemming).
 

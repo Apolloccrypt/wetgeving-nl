@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2007, nr. DGB 2007-5948, houdende regels ten aanzien van de behandeling van klachten over gedragingen van opsporingsambtenaren, werkzaam bij de bijzondere opsporingsdiensten en tot instelling van een onafhankelijke klachtencommissie (Klachtenregeling bijzondere opsporingsdiensten)"
+citeertitel: "Klachtenregeling bijzondere opsporingsdiensten"
 identifier: "BWBR0023007"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023007"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9314613"
-version_id: "14960412"
-internal_id: "C20352621"
-label_id: "9293184"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023007/2022-01-01/0"
-intitule_bron: "Stcrt.2007-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-07"
-intitule_published: "2007-12-18"
-intitule_in_force: "2007-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-245"
-original_signed_date: "2007-12-07"
-original_published_date: "2007-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-245-p13-SC83408"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0023007&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0023007&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling bijzondere opsporingsdiensten"
-signed_date: "2007-12-07"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0023007"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2007, nr. DGB 2007-5948, houdende regels ten aanzien van de behandeling van klachten over gedragingen van opsporingsambtenaren, werkzaam bij de bijzondere opsporingsdiensten en tot instelling van een onafhankelijke klachtencommissie (Klachtenregeling bijzondere opsporingsdiensten)
-
-Gelet op [artikel 14 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=14);
-
-Besluiten:
 
 #### § 1. Algemeen
 
@@ -125,5 +99,3 @@ De klachtencommissie draagt zorg voor:
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Klachtenregeling bijzondere opsporingsdiensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

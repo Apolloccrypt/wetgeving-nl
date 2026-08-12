@@ -1,45 +1,17 @@
 ---
 title: "Regeling experiment routewijzigingen"
 identifier: "BWBR0023613"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-11-01"
-last_updated: "2009-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023613"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9447883"
-version_id: "15213862"
-internal_id: "C20731641"
-label_id: "9425414"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023613/2009-11-01/0"
-intitule_bron: "Stcrt.2008-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-09"
-intitule_published: "2008-03-11"
-intitule_in_force: "2008-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-50"
-original_signed_date: "2008-03-09"
-original_published_date: "2008-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-50-p15-SC84875"
-entry_into_force_date: "2008-03-13"
-jci_1_3: "jci1.3:c:BWBR0023613&z=2009-11-01&g=2009-11-01"
-jci_1_0: "1.0:c:BWBR0023613&g=2009-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-03-09"
-entry_into_force: "2008-03-13"
+publicatiedatum: 2008-03-13
+laatste_update: 2009-11-01
+status: geldig
+toestand: 2009-11-01
+bron: "https://wetten.overheid.nl/BWBR0023613"
+opgehaald: 2026-08-12
 ---
+
 # Regeling experiment routewijzigingen
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -303,11 +275,11 @@ De routewijzigingen gelden voor al het straalverkeer op de betreffende routes. H
 
 Als gevolg van het experiment zal naar verwachting per saldo minder hinder worden ervaren in de omgeving. De hinderbeperking komt tot stand
 
-- –. doordat woonkernen vermeden worden,
+- – doordat woonkernen vermeden worden,
 
-- –. doordat de voorspelbaarheid van het vliegverkeer vergroot wordt, of
+- – doordat de voorspelbaarheid van het vliegverkeer vergroot wordt, of
 
-- –. door het vermijden van het maken van bochten boven bewoond gebied.
+- – door het vermijden van het maken van bochten boven bewoond gebied.
 
 Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
@@ -315,17 +287,17 @@ Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
-- –. het effect op de hinder in de gebieden waar de routewijzigingen betrekking op hebben;
+- – het effect op de hinder in de gebieden waar de routewijzigingen betrekking op hebben;
 
-- –. het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
+- – het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
 
-- –. de berekende geluidbelasting in de gebieden waar de routewijzigingen betrekking op hebben;
+- – de berekende geluidbelasting in de gebieden waar de routewijzigingen betrekking op hebben;
 
-- –. het effect op de interne en externe veiligheid;
+- – het effect op de interne en externe veiligheid;
 
-- –. het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
+- – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
 
-- –. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en bestaande verstedelijking en nieuwbouwplannen.
+- – het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en bestaande verstedelijking en nieuwbouwplannen.
 
 ##### Artikel 8. Onvoorziene gevallen
 
@@ -338,5 +310,3 @@ De termijn van de experimenten betreft de periode vanaf 13 maart 2008 tot en met
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

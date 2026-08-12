@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling vaneen heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2008 (Verordening PT bijzondere heffing vollegrondsgroenten 2008)"
+citeertitel: "Verordening PT bijzondere heffing vollegrondsgroenten 2008"
 identifier: "BWBR0022736"
-country: "nl"
-rank: "pbo"
-publication_date: "2007-10-21"
-last_updated: "2007-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022736"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9256223"
-version_id: "14844542"
-internal_id: "C20196441"
-label_id: "9234894"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022736/2007-10-21/0"
-intitule_bron: "Vbbo.2007-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-03"
-intitule_published: "2007-10-19"
-intitule_in_force: "2007-10-19"
-intitule_status: "goed"
-original_publication: "Vbbo.2007-64"
-original_signed_date: "2007-07-03"
-original_published_date: "2007-10-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2007-10-21"
-jci_1_3: "jci1.3:c:BWBR0022736&z=2007-10-21&g=2007-10-21"
-jci_1_0: "1.0:c:BWBR0022736&g=2007-10-21"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing vollegrondsgroenten 2008"
-signed_date: "2007-07-03"
-entry_into_force: "2007-10-21"
+publicatiedatum: 2007-10-21
+laatste_update: 2007-10-21
+status: geldig
+toestand: 2007-10-21
+bron: "https://wetten.overheid.nl/BWBR0022736"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling vaneen heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2008 (Verordening PT bijzondere heffing vollegrondsgroenten 2008)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 19 juni 2007;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +26,7 @@ Besluit:
 
 | a. | het braakland: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | --- | --- | --- |
-| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022736&paragraaf=3&artikel=4&z=2007-10-21&g=2007-10-21) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. | de cultuurgrond: | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. | de teelt onder glas: | iedere andere teelt dan die in de open grond; |
 | d. | de gemeten maat: | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. | de contractteelt: | de teelt van gewassen op contract voor een ander. |
@@ -94,12 +65,12 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 | Groep 9: | ultuurgrond, in gebruik voor de teelt in de open grond van witlofwortel: | € 25,00 per ha; |
 | Groep 10: | cultuurgrond, in gebruik voor de teelt in de open grond van sla: | € 42,50 per ha; |
 | Groep 11: | cultuurgrond, in gebruik voor de teelt in de open grond van asperges: | € 80,75 perha; |
-| Groep 12: | cultuurgrond, in gebruik voor de teelt in de open grond van: |   |
-|   | aardbeien, productievelden | € 102,00 per ha |
-|   | aardbeien, vermeerderingsvelden | € 50,00 per ha |
-|   | aardbeien, wachtbedden | € 25,00 per ha |
-|   | cultuurgrond, in gebruik voor de teelt in de open grond van: |   |
-|   | andijvie, bleekselderij, Chinese kool, courgette, rabarber, radicchio rosso en venkel; | € 75,00 per ha |
+| Groep 12: | cultuurgrond, in gebruik voor de teelt in de open grond van: |  |
+|  | aardbeien, productievelden | € 102,00 per ha |
+|  | aardbeien, vermeerderingsvelden | € 50,00 per ha |
+|  | aardbeien, wachtbedden | € 25,00 per ha |
+|  | cultuurgrond, in gebruik voor de teelt in de open grond van: |  |
+|  | andijvie, bleekselderij, Chinese kool, courgette, rabarber, radicchio rosso en venkel; | € 75,00 per ha |
 | Groep 13: | cultuurgrond, in gebruik voor de teelt onder glas van aardbeien: | € 9,35 per are; teeltoppervlak; |
 | Groep 14: | cultuurgrond, beschikbaar voor de trek van witlof in bakken (vermenigvuldigd met het aantal teeltlagen: | € 1,50 per m2 teeltoppervlak; |
 | Groep 15: | cultuurgrond in gebruik voor de teelt in de open grond van andere groenten dan in de groepen 1 tot en met 14 genoemd: | € 40,00 per ha. |
@@ -147,5 +118,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing vollegrondsgroenten 2008.
-
-Deze verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

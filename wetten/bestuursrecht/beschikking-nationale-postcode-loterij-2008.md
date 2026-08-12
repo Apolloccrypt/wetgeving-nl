@@ -1,52 +1,18 @@
 ---
 title: "Beschikking van de Minister van Justitie van 21 december 2007, nr. 5523483/07/DSP, houdende verlening van een vergunning tot het organiseren van een postcodeloterij"
+citeertitel: "Beschikking Nationale Postcode Loterij 2008"
 identifier: "BWBR0023321"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-04-01"
-last_updated: "2009-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023321"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9383933"
-version_id: "15102372"
-internal_id: "C20583721"
-label_id: "9362104"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023321/2009-04-01/0"
-intitule_bron: "Stcrt.2008-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-21"
-intitule_published: "2008-01-15"
-intitule_in_force: "2008-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-10"
-original_signed_date: "2007-12-21"
-original_published_date: "2008-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-10-p19-SC84038"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0023321&z=2009-04-01&g=2009-04-01"
-jci_1_0: "1.0:c:BWBR0023321&g=2009-04-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking Nationale Postcode Loterij 2008"
-signed_date: "2007-12-21"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2009-04-01
+status: geldig
+toestand: 2009-04-01
+bron: "https://wetten.overheid.nl/BWBR0023321"
+opgehaald: 2026-08-12
 ---
+
 # Beschikking van de Minister van Justitie van 21 december 2007, nr. 5523483/07/DSP, houdende verlening van een vergunning tot het organiseren van een postcodeloterij
-
-Overwegende dat de geldigheidsduur van de Beschikking Nationale Postcode Loterij op 31 december 2007 verstrijkt;
-
-Overwegende dat Nationale Postcode Loterij N.V., gevestigd te Amsterdam, bij brief van 9 augustus 2007 heeft verzocht haar opnieuw vergunning te verlenen voor het organiseren van de Nationale Postcode Loterij;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2) en [5 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=5);
-
-Gezien het advies van het College van toezicht op de kansspelen van 27 september 2007, nr. C.816/07;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Artikel I
 
@@ -156,25 +122,25 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 2. De afdracht komt, overeenkomstig een door de vennootschap in haar reglementen opgenomen verdeelsleutel, ten goede aan:
 
-- –. Vereniging tot Behoud van Natuurmonumenten in Nederland, gevestigd te ’s-Graveland;
+- – Vereniging tot Behoud van Natuurmonumenten in Nederland, gevestigd te ’s-Graveland;
 
-- –. Stichting Oxfam Novib, gevestigd te ’s-Gravenhage;
+- – Stichting Oxfam Novib, gevestigd te ’s-Gravenhage;
 
-- –. Vereniging Vluchtelingen Werk Nederland, gevestigd te Amsterdam;
+- – Vereniging Vluchtelingen Werk Nederland, gevestigd te Amsterdam;
 
-- –. Wereld Natuur Fonds, gevestigd te Zeist;
+- – Wereld Natuur Fonds, gevestigd te Zeist;
 
-- –. Artsen Zonder Grenzen, gevestigd te Amsterdam;
+- – Artsen Zonder Grenzen, gevestigd te Amsterdam;
 
-- –. Stichting Nederlands Comité UNICEF, gevestigd te ’s-Gravenhage;
+- – Stichting Nederlands Comité UNICEF, gevestigd te ’s-Gravenhage;
 
-- –. Stichting Duurzame Ontwikkeling en Natuurbescherming, gevestigd te Amsterdam;
+- – Stichting Duurzame Ontwikkeling en Natuurbescherming, gevestigd te Amsterdam;
 
-- –. Stichting Oranje Fonds, gevestigd te Bunnik;
+- – Stichting Oranje Fonds, gevestigd te Bunnik;
 
-- –. Stichting Skanfonds, gevestigd te Bussum;
+- – Stichting Skanfonds, gevestigd te Bussum;
 
-- –. andere instellingen werkzaam op de in het eerste lid genoemde terreinen, in de vorm van structurele of incidentele uitkeringen, overeenkomstig het bepaalde in de reglementen van de vennootschap.
+- – andere instellingen werkzaam op de in het eerste lid genoemde terreinen, in de vorm van structurele of incidentele uitkeringen, overeenkomstig het bepaalde in de reglementen van de vennootschap.
 
 3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=14&z=2009-04-01&g=2009-04-01), bedoelde jaarrekening.
 

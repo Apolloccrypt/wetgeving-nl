@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 oktober 2007, nr. MC-U-2803757, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tweedelijns geneeskundige geestelijke gezondheidszorg"
+citeertitel: "Aanwijzing tweedelijns geneeskundige geestelijke gezondheidszorg"
 identifier: "BWBR0022714"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-10-25"
-last_updated: "2007-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022714"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9250103"
-version_id: "14835832"
-internal_id: "C20187591"
-label_id: "9228674"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022714/2007-10-25/0"
-intitule_bron: "Stcrt.2007-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-05"
-intitule_published: "2007-10-25"
-intitule_in_force: "2007-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-207"
-original_signed_date: "2007-10-05"
-original_published_date: "2007-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-207-p21-SC82661"
-entry_into_force_date: "2007-10-25"
-jci_1_3: "jci1.3:c:BWBR0022714&z=2007-10-25&g=2007-10-25"
-jci_1_0: "1.0:c:BWBR0022714&g=2007-10-25"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing tweedelijns geneeskundige geestelijke gezondheidszorg"
-signed_date: "2007-10-05"
-entry_into_force: "2007-10-25"
+publicatiedatum: 2007-10-25
+laatste_update: 2007-10-25
+status: geldig
+toestand: 2007-10-25
+bron: "https://wetten.overheid.nl/BWBR0022714"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 oktober 2007, nr. MC-U-2803757, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tweedelijns geneeskundige geestelijke gezondheidszorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 11 juli 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2006/07, 29689, nr. 143);
-
-Besluit:
 
 ##### Artikel 1
 

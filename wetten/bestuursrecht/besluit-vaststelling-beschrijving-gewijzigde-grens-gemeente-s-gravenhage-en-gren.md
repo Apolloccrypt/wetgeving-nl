@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties tot vaststelling van de beschrijving van de gewijzigde grens van de gemeente ’s-Gravenhage en van de grens met de gemeente Rijswijk, overeenkomstig de Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving"
+citeertitel: "Besluit vaststelling beschrijving gewijzigde grens gemeente ’s-Gravenhage en grens met gemeente Rijswijk"
 identifier: "BWBR0022707"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-12-01"
-last_updated: "2007-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022707"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9249093"
-version_id: "14832632"
-internal_id: "C20184321"
-label_id: "9227654"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022707/2007-12-01/0"
-intitule_bron: "Stcrt.2007-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-16"
-intitule_published: "2007-10-25"
-intitule_in_force: "2007-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-207"
-original_signed_date: "2007-10-16"
-original_published_date: "2007-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-207-p7-SC82679"
-entry_into_force_date: "2007-12-01"
-jci_1_3: "jci1.3:c:BWBR0022707&z=2007-12-01&g=2007-12-01"
-jci_1_0: "1.0:c:BWBR0022707&g=2007-12-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling beschrijving gewijzigde grens gemeente ’s-Gravenhage en grens met gemeente Rijswijk"
-signed_date: "2007-10-16"
-entry_into_force: "2007-12-01"
+publicatiedatum: 2007-12-01
+laatste_update: 2007-12-01
+status: geldig
+toestand: 2007-12-01
+bron: "https://wetten.overheid.nl/BWBR0022707"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties tot vaststelling van de beschrijving van de gewijzigde grens van de gemeente ’s-Gravenhage en van de grens met de gemeente Rijswijk, overeenkomstig de Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving
-
-Gelet op [artikel 10 van de Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0012687&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 

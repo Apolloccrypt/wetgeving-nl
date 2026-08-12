@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 28 november 2006, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2006 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2006)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2006"
 identifier: "BWBR0023719"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-03-30"
-last_updated: "2008-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023719"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9467423"
-version_id: "15249312"
-internal_id: "C20779251"
-label_id: "9444964"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023719/2008-03-30/0"
-intitule_bron: "Vbbo.2008-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-28"
-intitule_published: "2008-03-28"
-intitule_in_force: "2008-03-28"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-25"
-original_signed_date: "2006-11-28"
-original_published_date: "2008-03-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-03-30"
-jci_1_3: "jci1.3:c:BWBR0023719&z=2008-03-30&g=2008-03-30"
-jci_1_0: "1.0:c:BWBR0023719&g=2008-03-30"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2006"
-signed_date: "2006-11-28"
-entry_into_force: "2008-03-30"
+publicatiedatum: 2008-03-30
+laatste_update: 2008-03-30
+status: geldig
+toestand: 2008-03-30
+bron: "https://wetten.overheid.nl/BWBR0023719"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 november 2006, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2006 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2006)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, 6 juni 2006;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -110,5 +81,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na publicatie in
 ##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT heffing export bloembollen naar Japan oogstjaar 2006.
-
-Deze verordening en de daarbij behorende toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

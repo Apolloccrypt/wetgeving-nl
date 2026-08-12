@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 november 2007, houdende regels inzake een register met gegevens betreffende ruimtevoorwerpen (Besluit register ruimtevoorwerpen)"
+citeertitel: "Besluit register ruimtevoorwerpen"
 identifier: "BWBR0022944"
-country: "nl"
-rank: "amvb"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022944"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9301463"
-version_id: "14935382"
-internal_id: "C20341531"
-label_id: "9280064"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022944/2008-01-01/0"
-intitule_bron: "Stb.2007-475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-13"
-intitule_published: "2007-12-04"
-intitule_in_force: "2007-12-13"
-intitule_status: "goed"
-original_publication: "Stb.2007-475"
-original_signed_date: "2007-11-13"
-original_published_date: "2007-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2007-475"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0022944&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0022944&g=2008-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit register ruimtevoorwerpen"
-signed_date: "2007-11-13"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0022944"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 13 november 2007, houdende regels inzake een register met gegevens betreffende ruimtevoorwerpen (Besluit register ruimtevoorwerpen)
-
-Op de voordracht van Onze Minister van Economische Zaken van 10 juli 2007, nr. WJZ 7080976;
-
-Gelet op [artikel 11, tweede en vierde lid, van de Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&artikel=11);
-
-De Raad van State gehoord (advies van 1 augustus 2007, nr. W10.07.0224/III);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 7 november 2007, nr. WJZ 7130082;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -129,5 +97,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit register ruimtevoorwerpen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

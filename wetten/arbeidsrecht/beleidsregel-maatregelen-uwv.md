@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregel maatregelen UWV"
 identifier: "BWBR0023789"
-country: "nl"
-rank: "zbo"
-publication_date: "2015-03-31"
-last_updated: "2015-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023789"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9486883"
-version_id: "15294442"
-internal_id: "C20835391"
-label_id: "9464394"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023789/2015-03-31/0"
-intitule_bron: "Stcrt.2008-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-18"
-intitule_published: "2008-04-24"
-intitule_in_force: "2008-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-80"
-original_signed_date: "2008-03-18"
-original_published_date: "2008-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-80-p19-SC85437"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBR0023789&z=2015-03-31&g=2015-03-31"
-jci_1_0: "1.0:c:BWBR0023789&g=2015-03-31"
-citeertitel_status: "officieel"
-signed_date: "2008-03-18"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2015-03-31
+status: geldig
+toestand: 2015-03-31
+bron: "https://wetten.overheid.nl/BWBR0023789"
+opgehaald: 2026-08-12
 ---
+
 # Beleidsregel maatregelen UWV
-
-Gelet op de [artikelen 27, zevende lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), [45, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [29, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29), [88, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88), [47, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=47), [39, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=39), en [14, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14), en op het [Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -45,15 +19,15 @@ In dit besluit wordt verstaan onder:
 
 - a. betrokkene:
 
-- 1°. de werknemer, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3) en [53 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53),
+   - 1°. de werknemer, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3) en [53 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=53),
 
-- 2°. de persoon, bedoeld in de [artikelen 3 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) en [64 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), [3 tot en met 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) juncto [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=23), en [81 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) en [18 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=3) en [2:68](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:68) en [3:39 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:39),
+   - 2°. de persoon, bedoeld in de [artikelen 3 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3) en [64 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=64), [3 tot en met 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3) juncto [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=23), en [81 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=81), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) en [18 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=18), [3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=3) en [2:68](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:68) en [3:39 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:39),
 
-- 3°. degene die aanspraak maakt op een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), zijn echtgenoot of zijn wettelijk vertegenwoordiger, en
+   - 3°. degene die aanspraak maakt op een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), zijn echtgenoot of zijn wettelijk vertegenwoordiger, en
 
-- 4°. de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in de [artikelen 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) en [3:17 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17);
+   - 4°. de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in de [artikelen 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) en [3:17 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17);
 
-- 5°. de aanvrager en de uitkeringsgerechtigde als bedoeld in [artikel 1 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=1).
+   - 5°. de aanvrager en de uitkeringsgerechtigde als bedoeld in [artikel 1 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=1).
 
 - b. niet naleven van een verplichting: het niet, niet tijdig of niet behoorlijk nakomen van een verplichting op grond van een van de wetten, genoemd in [artikel 1 van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1);
 
@@ -161,7 +135,7 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de duur van de maatregel langer is dan de periode tussen de datum waarop de maatregel op grond van het eerste lid zou ingaan en de datum waarop het recht op uitkering zal eindigen wegens het verstrijken van de daarvoor geldende maximumtermijn, gaat de maatregel, in afwijking van het eerste lid, in op een zodanige datum dat de maatregel tegelijk met het uitkeringsrecht zal eindigen, doch niet eerder dan op de datum met ingang waarvan de verplichting niet is nageleefd.
 
-##### Artikel 10. Intrekking [Besluit waarschuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0010378)
+##### Artikel 10. Intrekking Besluit waarschuwing
 
 Het [Besluit waarschuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0010378) wordt ingetrokken.
 
@@ -176,5 +150,3 @@ Dit besluit treedt in werking met ingang van 1 mei 2008.
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel maatregelen UWV.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

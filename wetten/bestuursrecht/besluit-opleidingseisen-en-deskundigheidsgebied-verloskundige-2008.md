@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 juli 2008, houdende regels inzake de opleiding tot en de deskundigheid van de verloskundige (Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008"
 identifier: "BWBR0024254"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024254"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9665043"
-version_id: "15599012"
-internal_id: "C21297201"
-label_id: "9642184"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024254/2023-01-01/0"
-intitule_bron: "Stb.2008-300"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-03"
-intitule_published: "2008-07-24"
-intitule_in_force: "2008-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2008-300"
-original_signed_date: "2008-07-03"
-original_published_date: "2008-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-300"
-entry_into_force_date: "2008-09-01"
-jci_1_3: "jci1.3:c:BWBR0024254&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0024254&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008"
-signed_date: "2008-07-03"
-entry_into_force: "2008-09-01"
+publicatiedatum: 2008-09-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0024254"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 3 juli 2008, houdende regels inzake de opleiding tot en de deskundigheid van de verloskundige (Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 april 2008, MEVA/BO-2839188;
-
-Gelet op de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=30) en [31 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=31);
-
-De Raad van State gehoord (advies van 8 mei 2008, no. W13.08.0119/I);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2008, MEVA/BO-2851158;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **studiepunt** de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4) bedoelde eenheid waarin de studielast wordt uitgedrukt;
+- b. *studiepunt* de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4) bedoelde eenheid waarin de studielast wordt uitgedrukt;
 
-- c. **EBM** Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk onderzoek op medisch, in het bijzonder verloskundig, gebied, die gebruikt worden ter onderbouwing van het verloskundige handelen.
+- c. *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk onderzoek op medisch, in het bijzonder verloskundig, gebied, die gebruikt worden ter onderbouwing van het verloskundige handelen.
 
 #### § 2. Titel
 
@@ -104,29 +72,29 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - a. prenatale zorg:
 
-- –. inschrijving, anamnese en onderzoek: 50 cliënten;
+   - – inschrijving, anamnese en onderzoek: 50 cliënten;
 
-- –. zwangerschapscontroles: 300 fysiologische zwangerschappen en 150 pathologische zwangerschappen;
+   - – zwangerschapscontroles: 300 fysiologische zwangerschappen en 150 pathologische zwangerschappen;
 
 - b. natale zorg:
 
-- –. begeleiden en eigenhandig verrichten van partus: in totaal 60, waarvan ten minste 30 fysiologisch gestarte partus in de zelfstandige verloskundige praktijk alsmede 8 voltooide thuisbevallingen;
+   - – begeleiden en eigenhandig verrichten van partus: in totaal 60, waarvan ten minste 30 fysiologisch gestarte partus in de zelfstandige verloskundige praktijk alsmede 8 voltooide thuisbevallingen;
 
-- –. actieve deelname bij zowel een partus in het geval van een stuitligging als een partus in het geval van een gemelli;
+   - – actieve deelname bij zowel een partus in het geval van een stuitligging als een partus in het geval van een gemelli;
 
-- –. het zetten en hechten van 5 episiotomieën, waarvan ten hoogste 2 in een gesimuleerde setting;
+   - – het zetten en hechten van 5 episiotomieën, waarvan ten hoogste 2 in een gesimuleerde setting;
 
-- –. het hechten van 5 perineum rupturen;
+   - – het hechten van 5 perineum rupturen;
 
-- –. algemeen onderzoek van 40 neonatus;
+   - – algemeen onderzoek van 40 neonatus;
 
 - c. postnatale zorg:
 
-- –. kraambedcontrole: 120 visites ten behoeve van moeder en kind;
+   - – kraambedcontrole: 120 visites ten behoeve van moeder en kind;
 
-- –. evaluatie van zorg: 30 onderzoeken, waarvan 10 adviezen inzake preconceptie.
+   - – evaluatie van zorg: 30 onderzoeken, waarvan 10 adviezen inzake preconceptie.
 
-6. Onverminderd het vierde en het vijfde lid voldoen het theoretische en praktische onderwijs ten minste aan de eisen, gesteld in punt 5.5.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
+6. Onverminderd het vierde en het vijfde lid voldoen het theoretische en praktische onderwijs ten minste aan de eisen, gesteld in punt 5.5.1 van Bijlage V van richtlijn 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
 7. Een wijziging van punt 5.5.1 van Bijlage V, bedoeld in het zesde lid, gaat voor de toepassing van het zesde lid gelden met ingang van de dag waarop aan die wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -372,7 +340,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Degene aan wie op grond van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen.
 
-2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01) blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) volgen, de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=2) en [12 tot en met 18 van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=12) van kracht, met dien verstande dat in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=13), in plaats van [richtlijn 80/155/EEG](31980L0155) gelezen wordt [richtlijn 2005/36/EG](32005L0036).
+2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01) blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) volgen, de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=2) en [12 tot en met 18 van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=12) van kracht, met dien verstande dat in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=13), in plaats van richtlijn 80/155/EEG gelezen wordt richtlijn 2005/36/EG.
 
 ##### Artikel 7
 
@@ -385,5 +353,3 @@ Dit besluit treedt in werking met ingang van 1 september 2008.
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

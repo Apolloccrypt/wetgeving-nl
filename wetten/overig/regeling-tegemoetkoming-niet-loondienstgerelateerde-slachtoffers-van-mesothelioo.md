@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 november 2007, nr. SAS 2007115642, Directoraat Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende regels voor de verlening van een tegemoetkoming in de immateriële schade aan personen bij wie ten gevolge van de blootstelling aan asbest mesothelioom is geconstateerd en deze blootstelling niet heeft plaatsgevonden als gevolg van arbeid in loondienst (Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom)"
+citeertitel: "Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose"
 identifier: "BWBR0022913"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-01"
-last_updated: "2023-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022913"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9293723"
-version_id: "14921072"
-internal_id: "C20297321"
-label_id: "9272444"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022913/2023-04-01/0"
-intitule_bron: "Stcrt.2007-232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-22"
-intitule_published: "2007-11-29"
-intitule_in_force: "2007-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-232"
-original_signed_date: "2007-11-22"
-original_published_date: "2007-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-232-p18-SC83165"
-entry_into_force_date: "2007-12-01"
-jci_1_3: "jci1.3:c:BWBR0022913&z=2023-04-01&g=2023-04-01"
-jci_1_0: "1.0:c:BWBR0022913&g=2023-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose"
-signed_date: "2007-11-22"
-entry_into_force: "2007-12-01"
+publicatiedatum: 2007-12-01
+laatste_update: 2023-04-01
+status: geldig
+toestand: 2023-04-01
+bron: "https://wetten.overheid.nl/BWBR0022913"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 november 2007, nr. SAS 2007115642, Directoraat Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende regels voor de verlening van een tegemoetkoming in de immateriële schade aan personen bij wie ten gevolge van de blootstelling aan asbest mesothelioom is geconstateerd en deze blootstelling niet heeft plaatsgevonden als gevolg van arbeid in loondienst (Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom)
-
-Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
-
-Gelet op de tweede suppletore begrotingswet van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voor het jaar 2007 en op [artikel 31, tweede lid, onderdeel l, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -48,51 +20,51 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **Minister:** Minister van Infrastructuur en Milieu;
+- a. *Minister:* Minister van Infrastructuur en Milieu;
 
-- b. **asbest:** stoffen die een of meer van de volgende vezelachtige silicaten bevatten:
+- b. *asbest:* stoffen die een of meer van de volgende vezelachtige silicaten bevatten:
 
-- 1°. actinoliet (Cas-nummer 77536-66-4);
+   - 1°. actinoliet (Cas-nummer 77536-66-4);
 
-- 2°. amosiet (Cas-nummer 12172-73-5);
+   - 2°. amosiet (Cas-nummer 12172-73-5);
 
-- 3°. anthofylliet (Cas-nummer 77536-67-5);
+   - 3°. anthofylliet (Cas-nummer 77536-67-5);
 
-- 4°. chrysotiel (Cas-nummer 12001-29-5);
+   - 4°. chrysotiel (Cas-nummer 12001-29-5);
 
-- 5°. tremoliet (Cas-nummer 77536-68-6);
+   - 5°. tremoliet (Cas-nummer 77536-68-6);
 
-- 6°. crocidoliet (Cas-nummer 12001-28-4);
+   - 6°. crocidoliet (Cas-nummer 12001-28-4);
 
-- c. **maligne mesothelioom:** door blootstelling aan asbest veroorzaakte tumor van het longvlies, het buikvlies of het hartvlies, als bedoeld in het protocol diagnostiek maligne mesothelioom;
+- c. *maligne mesothelioom:* door blootstelling aan asbest veroorzaakte tumor van het longvlies, het buikvlies of het hartvlies, als bedoeld in het protocol diagnostiek maligne mesothelioom;
 
-- d. **asbestose:** aandoening die is gekenmerkt door verbindweefseling (longfibrose) van de long ten gevolge van asbestblootstelling;
+- d. *asbestose:* aandoening die is gekenmerkt door verbindweefseling (longfibrose) van de long ten gevolge van asbestblootstelling;
 
-- e. **protocol diagnostiek asbestose:** protocol diagnostiek asbestose, opgenomen in [bijlage 1 bij de Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=1);
+- e. *protocol diagnostiek asbestose:* protocol diagnostiek asbestose, opgenomen in [bijlage 1 bij de Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=1);
 
-- f. **protocol diagnostiek maligne mesothelioom:** protocol diagnostiek maligne mesothelioom, opgenomen in [bijlage 2 bij de Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=2);
+- f. *protocol diagnostiek maligne mesothelioom:* protocol diagnostiek maligne mesothelioom, opgenomen in [bijlage 2 bij de Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&bijlage=2);
 
-- g. **SVB:** Sociale Verzekeringsbank, bedoeld in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- g. *SVB:* Sociale Verzekeringsbank, bedoeld in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- h. **instituut asbestslachtoffers:** Stichting Instituut Asbestslachtoffers te s-Gravenhage;
+- h. *instituut asbestslachtoffers:* Stichting Instituut Asbestslachtoffers te s-Gravenhage;
 
-- i. **nabestaanden:**
+- i. *nabestaanden:*
 
-- 1°. de langstlevende van de echtgenoten;
+   - 1°. de langstlevende van de echtgenoten;
 
-- 2°. bij ontstentenis van de onder 1° bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
+   - 2°. bij ontstentenis van de onder 1° bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
 
-- 3°. bij ontstentenis van de onder 1° en 2° bedoelde personen, degenen met wie de overledene in gezinsverband leefde;
+   - 3°. bij ontstentenis van de onder 1° en 2° bedoelde personen, degenen met wie de overledene in gezinsverband leefde;
 
-- 4°. bij ontstentenis van de onder 1°, 2° en 3° bedoelde personen, erfgenamen als bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
+   - 4°. bij ontstentenis van de onder 1°, 2° en 3° bedoelde personen, erfgenamen als bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
 
-- j. **lasten:**
+- j. *lasten:*
 
-- 1°. tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2023-04-01&g=2023-04-01);
+   - 1°. tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2023-04-01&g=2023-04-01);
 
-- 2°. vergoedingen die door de SVB aan het instituut asbestslachtoffers worden verstrekt voor de advisering ten behoeve van deze regeling;
+   - 2°. vergoedingen die door de SVB aan het instituut asbestslachtoffers worden verstrekt voor de advisering ten behoeve van deze regeling;
 
-- 3°. uitvoeringskosten gemaakt bij de uitvoering van deze regeling.
+   - 3°. uitvoeringskosten gemaakt bij de uitvoering van deze regeling.
 
 2. In deze regeling wordt met de echtgenoot gelijkgesteld de geregistreerde partner en de persoon die op grond van [artikel 1, derde lid, onderdeel a, en vierde tot en met zevende lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) en de daarop berustende bepalingen mede als zodanig wordt aangemerkt.
 
@@ -118,9 +90,23 @@ Recht op een tegemoetkoming heeft een persoon:
 
 - g. die niet reeds in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose een betaling op grond van een buitenlandse voorziening heeft ontvangen of een aanvraag daartoe heeft ingediend en op die aanvraag nog niet is beslist,
 
-- h. die geen vergoeding van de immateriële schade in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan, en
+- h. die geen vergoeding van de immateriële schade in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan, en
 
 - i. die gedurende een aaneengesloten periode van ten minste 10 jaar woonplaats in Nederland, als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11), heeft gehad en die periode gelegen is in het tijdvak tussen 10 en 60 jaar voorafgaand aan het tijdstip van indiening van de aanvraag om een tegemoetkoming.
+
+##### Artikel 2a
+
+1. Recht op een tegemoetkoming, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), heeft een persoon:
+
+- a. die op het moment van indiening van de aanvraag in leven is,
+
+- b. bij wie met toepassing van het protocol diagnostiek asbestose de ziekte asbestose is vastgesteld, en
+
+- c. waarbij sprake is van een longfunctiebeperking als bedoeld in klasse 2, 3 of 4 van het protocol diagnostiek asbestose.
+
+2. In afwijking van het eerste lid heeft een persoon geen recht op een tegemoetkoming indien de persoon voor het geconstateerde maligne mesothelioom reeds een tegemoetkoming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) heeft verkregen.
+
+3. De [artikelen 2, onderdelen c en f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01) en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -134,7 +120,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 3. In het geval van het eerste lid, onderdeel b, voor zover de persoon, bedoeld in [artikel 2,](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) de aanvraag om tegemoetkoming niet heeft ingediend, geschiedt de beoordeling welke persoon of personen met toepassing van [artikel 1, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2023-04-01&g=2023-04-01), als nabestaande wordt aangemerkt, op basis van de omstandigheden op het tijdstip van de indiening van de aanvraag.
 
-4. Nabestaanden hebben alleen recht op een tegemoetkoming indien zij geen vergoeding van de immateriële schade in verband met het bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) bedoelde persoon geconstateerde maligne mesothelioom of de geconstateerde asbestose hebben ontvangen, dan wel in verband daarmee een bedrag hebben ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan.
+4. Nabestaanden hebben alleen recht op een tegemoetkoming indien zij geen vergoeding van de immateriële schade in verband met het bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) bedoelde persoon geconstateerde maligne mesothelioom of de geconstateerde asbestose hebben ontvangen, dan wel in verband daarmee een bedrag hebben ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan.
 
 5. In het geval van het eerste lid, onderdeel a, wordt de behandeling van de aanvraag ten behoeve van de nabestaanden voortgezet, tenzij deze schriftelijk te kennen geven daarop geen prijs te stellen.
 
@@ -142,11 +128,15 @@ Recht op een tegemoetkoming heeft een persoon:
 
 ##### Artikel 4
 
-1. De tegemoetkoming strekt tot tegemoetkoming in immateriële schade en bedraagt € 18.392,– .
+1. De tegemoetkoming strekt tot tegemoetkoming in immateriële schade en bedraagt € 18.392,– .
 
-2. Voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), of diens nabestaanden in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose reeds een vergoeding van de immateriële schade heeft of hebben ontvangen en die vergoeding lager is dan € 18.392,–, wordt de hoogte van de tegemoetkoming vastgesteld op het verschil tussen het ontvangen bedrag en € 18.392,– .
+2. Voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), of diens nabestaanden in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose reeds een vergoeding van de immateriële schade heeft of hebben ontvangen en die vergoeding lager is dan € 18.392,–, wordt de hoogte van de tegemoetkoming vastgesteld op het verschil tussen het ontvangen bedrag en € 18.392,– .
 
 3. Indien belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)of premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) verschuldigd is, wordt voor de toepassing van het tweede lid de hoogte van de vergoeding in aanmerking genomen nadat daarop de verschuldigde belasting en premie in mindering zijn gebracht.
+
+##### Artikel 4a
+
+Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), die op grond van [artikel 19 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=19) in de Staatscourant voor een bepaald kalenderjaar bekend zijn gemaakt, geldt met ingang van dat kalenderjaar in de plaats van de bedragen, genoemd in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2023-04-01&g=2023-04-01).
 
 #### § 3. De aanvraag en informatieverplichtingen
 
@@ -244,7 +234,7 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 ##### Artikel 12
 
-1. De SVB verstrekt jaarlijks, vóór 1 juli, informatie aan de Minister over het vorige jaar met betrekking tot:
+1. De SVB verstrekt jaarlijks, vóór 1 juli, informatie aan de Minister over het vorige jaar met betrekking tot:
 
 - a. het aantal ingediende aanvragen om een tegemoetkoming,
 
@@ -286,17 +276,17 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&pa
 
 1. De SVB dient jaarlijks vóór 1 juli de afrekening in bij de Minister met betrekking tot de kasuitgaven in het kader van deze regeling over het afgelopen kalenderjaar. Op grond van deze afrekening vindt een betaling ten gunste of ten laste van de SVB plaats.
 
-2. De Minister stelt jaarlijks vóór 1 september, na ontvangst van de jaarrekening met een verklaring over de rechtmatigheid, de rijksbijdrage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2023-04-01&g=2023-04-01), definitief vast op de lasten van de SVB in het kader van deze regeling over het afgelopen kalenderjaar.
+2. De Minister stelt jaarlijks vóór 1 september, na ontvangst van de jaarrekening met een verklaring over de rechtmatigheid, de rijksbijdrage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2023-04-01&g=2023-04-01), definitief vast op de lasten van de SVB in het kader van deze regeling over het afgelopen kalenderjaar.
 
 #### § 6. Wijzigingen regelgeving
 
 ##### Artikel 16
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 17
 
-Wijzigt de Regeling WWB.
+*Wijzigt de Regeling WWB.*
 
 #### § 7. Slotbepalingen
 
@@ -307,47 +297,3 @@ Deze regeling treedt in werking met ingang van 1 december 2007.
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), die op grond van [artikel 19 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=19) in de Staatscourant voor een bepaald kalenderjaar bekend zijn gemaakt, geldt met ingang van dat kalenderjaar in de plaats van de bedragen, genoemd in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2023-04-01&g=2023-04-01).
-
-#### § 3. De aanvraag en informatieverplichtingen
-
-#### § 4. Betaling en terugvordering
-
-#### § 5. Uitvoering en financiering
-
-#### § 6. Wijzigingen regelgeving
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Recht op een tegemoetkoming, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), heeft een persoon:
-
-- a. die op het moment van indiening van de aanvraag in leven is,
-
-- b. bij wie met toepassing van het protocol diagnostiek asbestose de ziekte asbestose is vastgesteld, en
-
-- c. waarbij sprake is van een longfunctiebeperking als bedoeld in klasse 2, 3 of 4 van het protocol diagnostiek asbestose.
-
-2. In afwijking van het eerste lid heeft een persoon geen recht op een tegemoetkoming indien de persoon voor het geconstateerde maligne mesothelioom reeds een tegemoetkoming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) heeft verkregen.
-
-3. De [artikelen 2, onderdelen c en f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01) en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing.
-
-#### § 3. De aanvraag en informatieverplichtingen
-
-#### § 4. Betaling en terugvordering
-
-#### § 5. Uitvoering en financiering
-
-#### § 6. Wijzigingen regelgeving
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

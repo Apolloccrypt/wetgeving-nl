@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen"
+citeertitel: "Regeling melding ongeoorloofde afwezigheid"
 identifier: "BWBR0023428"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023428"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "9409963"
-version_id: "15147892"
-internal_id: "C20649381"
-label_id: "9387874"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023428/2025-09-04/0"
-intitule_bron: "Stcrt.2008-24"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-29"
-intitule_published: "2008-02-04"
-intitule_in_force: "2008-02-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-24"
-original_signed_date: "2008-01-29"
-original_published_date: "2008-02-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-24-p11-SC84156"
-entry_into_force_date: "2008-02-06"
-jci_1_3: "jci1.3:c:BWBR0023428&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0023428&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Regeling melding ongeoorloofde afwezigheid"
-signed_date: "2008-01-29"
-entry_into_force: "2008-02-06"
+publicatiedatum: 2008-02-06
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0023428"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen
-
-Gelet op [artikel 5a, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a), [artikel 7a, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a) en [artikel 5, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -60,6 +34,10 @@ In deze Regeling wordt verstaan onder:
 
 - g. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.
 
+##### Artikel 1.1a
+
+Deze regeling berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
+
 ##### Artikel 1.2. Aanvang en einde van ongeoorloofde afwezigheid
 
 1. Ongeoorloofde afwezigheid vangt aan op de dag van het zich onttrekken aan de tenuitvoerlegging bedoeld in [artikel 1.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=1&artikel=1.1&z=2025-09-04&g=2025-09-04).
@@ -70,7 +48,7 @@ In deze Regeling wordt verstaan onder:
 
 De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2025-09-04&g=2025-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2025-09-04&g=2025-09-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2025-09-04&g=2025-09-04) van deze regeling meldt ongeoorloofde afwezigheid en het einde daarvan aan de Minister van Veiligheid en Justitie, de politie en overige betrokkenen volgens de procedure beschreven in het betreffende hoofdstuk.
 
-### Hoofdstuk 2. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5a, tweede lid, van de penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a)
+### Hoofdstuk 2. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 5a, tweede lid, van de penitentiaire beginselenwet
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -108,9 +86,9 @@ In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolge
 
 - b. groep B omvat degenen die:
 
-- 1°. zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-04&g=2025-09-04);
+   - 1°. zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-04&g=2025-09-04);
 
-- 2°. zich hebben onttrokken aan vreemdelingenbewaring op enige wijze als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-04&g=2025-09-04).
+   - 2°. zich hebben onttrokken aan vreemdelingenbewaring op enige wijze als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-04&g=2025-09-04).
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
@@ -182,7 +160,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - b. de divisiedirecteur IZ.
 
-### Hoofdstuk 3. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a)
+### Hoofdstuk 3. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -195,6 +173,10 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 - a. de inrichting: de inrichting bedoeld in [artikel 1, onder b, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1);
 
 - b. het hoofd: het hoofd van de inrichting voor verpleging van ter beschikking gestelden bedoeld in [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1).
+
+##### Artikel 3.1a
+
+Dit hoofdstuk berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
 
 ##### Artikel 3.2. Ontstaan ongeoorloofde afwezigheid
 
@@ -242,7 +224,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 2. Het hoofd verstrekt aan het Landelijk Meldpunt, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
-#### Paragraaf 3. Overige inlichtingen
+#### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
 ##### Artikel 3.7. Meldingen bij einde ongeoorloofde afwezigheid
 
@@ -252,7 +234,7 @@ Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inri
 
 - b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; het hoofd stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.
 
-### Hoofdstuk 4. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5)
+### Hoofdstuk 4. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -284,19 +266,19 @@ In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolge
 
 - a. de groep strafrechtelijk geplaatsten omvat de jeugdigen aan wie is opgelegd:
 
-- 1°. de maatregel van plaatsing in een inrichting voor jeugdigen;
+   - 1°. de maatregel van plaatsing in een inrichting voor jeugdigen;
 
-- 2°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-04&g=2025-09-04);
+   - 2°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-04&g=2025-09-04);
 
-- 3°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-04&g=2025-09-04).
+   - 3°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-04&g=2025-09-04).
 
 - b. de groep niet-strafrechtelijk geplaatsten omvat de jeugdigen:
 
-- 1°. die op grond van [artikel 6.2.2, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.2.2) in de inrichting verblijven;
+   - 1° die op grond van [artikel 6.2.2, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.2.2) in de inrichting verblijven;
 
-- 2°. in vreemdelingenbewaring;
+   - 2° in vreemdelingenbewaring;
 
-- 3°. met overige vrijheidsbenemende maatregelen.
+   - 3° met overige vrijheidsbenemende maatregelen.
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
@@ -401,45 +383,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melding ongeoorloofde afwezigheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.1a
-
-Deze regeling berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
-
-### Hoofdstuk 2. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5a, tweede lid, van de penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a)
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
-
-#### Paragraaf 3. Overige inlichtingen
-
-#### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
-
-### Hoofdstuk 3. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a)
-
-#### Paragraaf 1. Algemene bepalingen
-
-##### Artikel 3.1a
-
-Dit hoofdstuk berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
-
-#### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
-
-#### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
-
-### Hoofdstuk 4. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5)
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
-
-#### Paragraaf 3. Overige inlichtingen en registratie
-
-#### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
-
-### Hoofdstuk 5. Inwerkingtreding en citeertitel
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

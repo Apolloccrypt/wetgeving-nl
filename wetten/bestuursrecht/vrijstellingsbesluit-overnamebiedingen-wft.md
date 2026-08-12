@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 25 januari 2008, houdende bepalingen ter uitvoering van artikel 5:81, eerste lid, van de Wet op het financieel toezicht (Vrijstellingsbesluit overnamebiedingen Wft)"
+citeertitel: "Vrijstellingsbesluit overnamebiedingen Wft"
 identifier: "BWBR0023403"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-21"
-last_updated: "2019-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023403"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "9405073"
-version_id: "15139522"
-internal_id: "C20640131"
-label_id: "9382554"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023403/2019-07-21/0"
-intitule_bron: "Stb.2008-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-25"
-intitule_published: "2008-01-31"
-intitule_in_force: "2008-01-31"
-intitule_status: "goed"
-original_publication: "Stb.2008-27"
-original_signed_date: "2008-01-25"
-original_published_date: "2008-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-27"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0023403&z=2019-07-21&g=2019-07-21"
-jci_1_0: "1.0:c:BWBR0023403&g=2019-07-21"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsbesluit overnamebiedingen Wft"
-signed_date: "2008-01-25"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2019-07-21
+status: geldig
+toestand: 2019-07-21
+bron: "https://wetten.overheid.nl/BWBR0023403"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van 25 januari 2008, houdende bepalingen ter uitvoering van artikel 5:81, eerste lid, van de Wet op het financieel toezicht (Vrijstellingsbesluit overnamebiedingen Wft)
-
-Op voordracht van Onze minister van Financiën van 22 november 2007, FM 2007-2905 M;
-
-Gelet op [artikel 5:81, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:81);
-
-De Raad van State gehoord (advies d.d. 5 december 2007, No. W06.07.0448/III);
-
-Gezien het nader rapport van Onze minister van Financiën van 23 januari 2008, FM 2007-3297;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -62,15 +30,15 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 - d. als gevolg van een onvoorwaardelijke overeenkomst tussen een rechthebbende op effecten en een bieder die voldoet aan de volgende vereisten:
 
-- 1°. in de overeenkomst verplicht de rechthebbende zich onherroepelijk in het kader van een voorgenomen of in voorbereiding zijnd openbaar bod om die effecten aan de bieder aan te bieden nadat het openbaar bod is uitgebracht;
+   - 1° in de overeenkomst verplicht de rechthebbende zich onherroepelijk in het kader van een voorgenomen of in voorbereiding zijnd openbaar bod om die effecten aan de bieder aan te bieden nadat het openbaar bod is uitgebracht;
 
-- 2°. de duur van de overeenkomst is beperkt tot aan de gestanddoening van het openbaar bod; en
+   - 2° de duur van de overeenkomst is beperkt tot aan de gestanddoening van het openbaar bod; en
 
-- 3°. in de overeenkomst verplicht de rechthebbende zich ten aanzien van de uitoefening van zijn stemrechten uitsluitend om in de algemene vergadering van de doelvennootschap:
+   - 3° in de overeenkomst verplicht de rechthebbende zich ten aanzien van de uitoefening van zijn stemrechten uitsluitend om in de algemene vergadering van de doelvennootschap:
 
-- a. voor besluiten te stemmen die specifiek in de overeenkomst zijn genoemd waarvan besluitvorming onder voorbehoud van gestanddoening van het bod geschiedt en die rechtstreeks verband houden met het openbaar bod; of
+      - a. voor besluiten te stemmen die specifiek in de overeenkomst zijn genoemd waarvan besluitvorming onder voorbehoud van gestanddoening van het bod geschiedt en die rechtstreeks verband houden met het openbaar bod; of
 
-- b. tegen besluiten te stemmen die erop zijn gericht het welslagen van het aangekondigd openbaar bod te dwarsbomen.
+      - b. tegen besluiten te stemmen die erop zijn gericht het welslagen van het aangekondigd openbaar bod te dwarsbomen.
 
 2. Van [artikel 5:70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70) zijn vrijgesteld degenen die, overwegende zeggenschap verkrijgen gelijktijdig met het verkrijgen van hetzelfde aantal stemrechten in dezelfde naamloze vennootschap door:
 
@@ -92,7 +60,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 ##### Artikel 3
 
-Wijzigt het Besluit openbare biedingen Wft.
+*Wijzigt het Besluit openbare biedingen Wft.*
 
 ##### Artikel 4
 
@@ -101,5 +69,3 @@ Dit besluit treedt in werking met ingang van 1 februari 2008.
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Vrijstellingsbesluit overnamebiedingen Wft.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

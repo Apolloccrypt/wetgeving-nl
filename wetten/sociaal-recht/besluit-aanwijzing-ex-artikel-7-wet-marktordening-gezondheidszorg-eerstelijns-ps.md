@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 oktober 2007, nr. MC-U-2802732, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake eerstelijns psychologische zorg niet verleend door huisartsen"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (eerstelijns psychologische zorg niet verleend door huisartsen)"
 identifier: "BWBR0022754"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-11-01"
-last_updated: "2007-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022754"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9260993"
-version_id: "14855012"
-internal_id: "C20207001"
-label_id: "9239514"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022754/2007-11-01/0"
-intitule_bron: "Stcrt.2007-212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-15"
-intitule_published: "2007-11-01"
-intitule_in_force: "2007-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-212"
-original_signed_date: "2007-10-15"
-original_published_date: "2007-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-212-p12-SC82777"
-entry_into_force_date: "2007-11-01"
-jci_1_3: "jci1.3:c:BWBR0022754&z=2007-11-01&g=2007-11-01"
-jci_1_0: "1.0:c:BWBR0022754&g=2007-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (eerstelijns psychologische zorg niet verleend door huisartsen)"
-signed_date: "2007-10-15"
-entry_into_force: "2007-11-01"
+publicatiedatum: 2007-11-01
+laatste_update: 2007-11-01
+status: geldig
+toestand: 2007-11-01
+bron: "https://wetten.overheid.nl/BWBR0022754"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 oktober 2007, nr. MC-U-2802732, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake eerstelijns psychologische zorg niet verleend door huisartsen
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 3 september 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2006/07, 25 424, nr. 67)
-
-Besluit:
 
 ##### Artikel 1
 

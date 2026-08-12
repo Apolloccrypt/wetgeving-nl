@@ -1,48 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 mei 2008, MC-U-2847325 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
+citeertitel: "Besluit inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
 identifier: "BWBR0023862"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-05-16"
-last_updated: "2008-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023862"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9504303"
-version_id: "15348912"
-internal_id: "C20912961"
-label_id: "9481614"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023862/2008-05-16/0"
-intitule_bron: "Stcrt.2008-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-05-08"
-intitule_published: "2008-05-16"
-intitule_in_force: "2008-05-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-92"
-original_signed_date: "2008-05-08"
-original_published_date: "2008-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-92-p22-SC85758"
-entry_into_force_date: "2008-05-16"
-jci_1_3: "jci1.3:c:BWBR0023862&z=2008-05-16&g=2008-05-16"
-jci_1_0: "1.0:c:BWBR0023862&g=2008-05-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
-signed_date: "2008-05-08"
-entry_into_force: "2008-05-16"
+publicatiedatum: 2008-05-16
+laatste_update: 2008-05-16
+status: geldig
+toestand: 2008-05-16
+bron: "https://wetten.overheid.nl/BWBR0023862"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 mei 2008, MC-U-2847325 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Gezien de uitvoeringstoets van de Nederlandse Zorgautoriteit van 16 oktober 2007, kenmerk MNIS/ihot/A/07/453;
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Brieven van 4 december 2007; Kamerstukken II, 2006/07, 30 186, nr. 64);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,15 +20,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - 1°. kortdurende kleinschalige experimenten: experimenten die:
 
-- a. een looptijd hebben van maximaal drie jaren;
+   - a. een looptijd hebben van maximaal drie jaren;
 
-- b. gericht zijn op nieuwe of vernieuwde zorglevering met een betere prijs/kwaliteitsverhouding, op efficiënte zorgorganisatie waaronder mede begrepen substitutie van tweedelijnsgezondheidszorg naar eerstelijnsgezondheidszorg of op verbetering van kwaliteit van zorg voor de patiënt;
+   - b. gericht zijn op nieuwe of vernieuwde zorglevering met een betere prijs/kwaliteitsverhouding, op efficiënte zorgorganisatie waaronder mede begrepen substitutie van tweedelijnsgezondheidszorg naar eerstelijnsgezondheidszorg of op verbetering van kwaliteit van zorg voor de patiënt;
 
-- c. naar gelang hun doelstelling beperkt zijn tot een specifieke patiëntengroep, prestatie, een of meerdere zorgaanbieders, een of meerdere ziektekostenverzekeraars of een beperkte regio;
+   - c. naar gelang hun doelstelling beperkt zijn tot een specifieke patiëntengroep, prestatie, een of meerdere zorgaanbieders, een of meerdere ziektekostenverzekeraars of een beperkte regio;
 
-- d. niet tot gevolg hebben dat zorg waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder a en b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening wordt gebracht, zorg wordt waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening kan worden gebracht en
+   - d. niet tot gevolg hebben dat zorg waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder a en b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening wordt gebracht, zorg wordt waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening kan worden gebracht en
 
-- e. per experiment zijn vastgelegd in een overeenkomst als bedoeld onder 2°.
+   - e. per experiment zijn vastgelegd in een overeenkomst als bedoeld onder 2°.
 
 - 2°. experiment-overeenkomst: een tussen een of meer zorgaanbieders en een ziektekostenverzekeraar gesloten en door hen ondertekende overeenkomst waarin aard, inhoud en omvang van het door hen te houden kortdurend kleinschalig experiment is beschreven;
 

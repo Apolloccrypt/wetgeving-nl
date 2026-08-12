@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/34454 (2661), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2008)"
+citeertitel: "OCW-intrekkingsregeling 2008"
 identifier: "BWBR0024297"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-08-01"
-last_updated: "2008-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024297"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "9681923"
-version_id: "15624382"
-internal_id: "C21332591"
-label_id: "9659014"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024297/2008-08-01/0"
-intitule_bron: "Stcrt.2008-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-10"
-intitule_published: "2008-07-30"
-intitule_in_force: "2008-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-145"
-original_signed_date: "2008-07-10"
-original_published_date: "2008-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-145-p39-SC86904"
-entry_into_force_date: "2008-08-01"
-jci_1_3: "jci1.3:c:BWBR0024297&z=2008-08-01&g=2008-08-01"
-jci_1_0: "1.0:c:BWBR0024297&g=2008-08-01"
-citeertitel_status: "officieel"
-short_title: "OCW-intrekkingsregeling 2008"
-signed_date: "2008-07-10"
-entry_into_force: "2008-08-01"
+publicatiedatum: 2008-08-01
+laatste_update: 2008-08-01
+status: geldig
+toestand: 2008-08-01
+bron: "https://wetten.overheid.nl/BWBR0024297"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/34454 (2661), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2008)
-
-Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Economische Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=2), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=5a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=11), en [48 van het Bekostigingsbesluit cultuuruitingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006759&artikel=48), de [artikelen 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=10), en [56a, derde lid, van het Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=56a), de [artikelen 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=8a), [14a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a), [18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=18), [37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=37), en [52 van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=52), de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11), en [17, derde lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=17), [artikel 4 van het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&artikel=4), de [artikel 3, vierde lid, van het Besluit RVC’s en regionaal zorgbudget](https://wetten.overheid.nl/jci1.3:c:BWBR0015137&artikel=3), [artikel 18 van het Besluit RVC’s regionaal zorgbudget en praktijkscholen met declaratiebekostiging](https://wetten.overheid.nl/jci1.3:c:BWBR0015137&artikel=18), de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=11), [30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=30), en [31, derde lid, van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=31), [artikel B18 van het Besluit trekkende bevolking](onbekend), [artikel 72 van het Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=72), [artikel 71 van het Bekostigingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=71), [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=7), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002869&artikel=6) en [29 van het Eindexamenbesluit m.h.n.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0002869&artikel=29), de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=7), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=10), [52, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=52), en [53, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=53), [artikel 6 van de Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=6), de artikelen 3, vierde lid, 4, eerste lid, 11 en 13, eerste lid, van het Huisvestingsbesluit WVO/WCBO, artikel 16 van het Inrichtingsbesluit dagscholen m.b.o., [artikel 17 van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=17), [artikel 3 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), [artikel I-A8, tweede en derde lid, van het Rechtspositiebesluit onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003771&artikel=I-A8), artikel D.7 van het Uitvoeringsbesluit W.C.B.O., de [artikelen 2.2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.3), en [4.1.4 van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.4), [artikel 3 van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=3), de [artikelen 2.1.1., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1), [2.1.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.2), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.1), [2.2.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3), [2.3.6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), [2.5.5a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), [4.2.1, eerste lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), [12.3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8), [12.3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.9), [12.3.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.48), [12.3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.13) en [7.2.4, eerste, tweede en derde lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), [artikel 17, vijfde lid, van de Wet financiële verhoudingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=26), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) en [117, derde en vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=56), [96e](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=96e), [107c](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=107c) en [114 van de Wet op het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=114), [artikel 2.14 van de Wet op het hoger onderwijs en onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.14), de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=23) en [24 van de Wet op het onderwijs toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24), de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=15), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), [120, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), en [156, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=156), de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17), [29, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82), [84b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84b), [85, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), [85a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a), [85b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85b), [89](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=91), [91a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=91a), [95d.1](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=95d.1), [103b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b), en [146, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=146), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=3), en [4, eerste en derde lid, onderdeel c, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), [artikel XLIII, vierde lid, van de Wet van 2 april 1998 (Stb. 228)](https://wetten.overheid.nl/jci1.3:c:BWBR0009525&artikel=XLIII), [artikel II, onderdelen R en S, van de Wet van 23 mei 1990 (Stb. 266)](onbekend), [artikel XVI van de Wet van 27 februari 1992, houdende regeling herziening bekostigingsstelsel voortgezet onderwijs (Stb. 112)](https://wetten.overheid.nl/jci1.3:c:BWBR0005428&artikel=XVI), [artikel XV van de Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (Stb. 631)](https://wetten.overheid.nl/jci1.3:c:BWBR0014350&artikel=XV);
-
-Besluit:
 
 #### § 1. Intrekking van regelingen en besluiten
 
@@ -287,5 +259,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2008.
 ##### Artikel XII. Citeertitel
 
 Deze regeling wordt aangehaald als: OCW-intrekkingsregeling 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

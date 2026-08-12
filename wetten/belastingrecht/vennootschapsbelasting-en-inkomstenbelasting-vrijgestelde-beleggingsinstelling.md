@@ -1,41 +1,17 @@
 ---
 title: "Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling"
 identifier: "BWBR0023599"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-01-18"
-last_updated: "2025-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023599"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "9445473"
-version_id: "30561572"
-internal_id: "C43813331"
-label_id: "9423024"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023599/2025-01-18/0"
-intitule_bron: "Stcrt.2008-49"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-10"
-intitule_published: "2008-03-10"
-intitule_in_force: "2008-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-1741"
-original_signed_date: "2024-11-25"
-original_published_date: "2025-01-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-1741"
-entry_into_force_date: "2025-01-18"
-jci_1_3: "jci1.3:c:BWBR0023599&z=2025-01-18&g=2025-01-18"
-jci_1_0: "1.0:c:BWBR0023599&g=2025-01-18"
-citeertitel_status: "redactioneel"
-signed_date: "2024-11-25"
-entry_into_force: "2025-01-18"
+publicatiedatum: 2025-01-18
+laatste_update: 2025-01-18
+status: geldig
+toestand: 2025-01-18
+bron: "https://wetten.overheid.nl/BWBR0023599"
+opgehaald: 2026-08-12
 ---
-# Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling
 
-**Dit besluit bevat het beleid met betrekking tot de vrijgestelde beleggingsinstelling (VBI) van artikel 6a van de Wet op de vennootschapsbelasting 1969 en is meest recent gewijzigd bij besluit van 25 november 2024, nr. 2024-28160, (Stcrt. 2025-1741). De aanpassing betrof de vermelding van de wijziging van de wettelijke definitie van de vrijgestelde beleggingsinstelling met ingang 1 januari 2025 (artikel I, onderdeel B). Ook werd het onderdeel over de centrale uitvoering aangepast (artikel I, onderdeel C).**
+# Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling
 
 ### 1. Inleiding
 
@@ -75,46 +51,28 @@ Het VBI regime vereist (ook) dat ‘de aandelen of bewijzen van deelgerechtigdhe
 
 Met ingang van 2025 is het wettelijke regime met betrekking tot de vrijgestelde beleggingsinstelling (VBI) gewijzigd. Een belangrijke wijziging betrof de aanscherping van de wettelijke definitie van de VBI. In deze nieuwe definitie is vastgelegd dat een vrijgestelde beleggingsinstelling moet kwalificeren als een beleggingsinstelling of ICBE, in de zin van [artikel 1.1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) (Wft).1Zie artikel 6a van de Wet op de vennootschapsbelasting 1969, zoals gewijzigd door de Wet aanpassing Fonds voor Gemene Rekening en Vrijgestelde Beleggingsinstelling (Stb. 2023, 503).
 
-Deze wijziging beoogt met name een belemmering op te werpen tegen de toegang tot het VBI-regime voor lichamen die worden gebruikt voor individueel vermogensbeheer, zoals familieconstructies. De koppeling van het begrip vrijgestelde beleggingsinstelling aan de begrippen beleggingsinstelling en ICBE in de zin van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) sluit namelijk uit dat deze beleggingsinstellingen kunnen worden gebruikt voor familieconstructies. Dit volgt uit de wetsgeschiedenis van de Wft, waaruit expliciet blijkt dat beleggingsinstellingen en ICBE's in de zin van de Wft niet zijn bedoeld voor individueel vermogensbeheer.2Zie Kamerstukken II 33 235, nr. 3, blz. 11 en 46.
-
-Evenmin wordt aan de beleggingseisen voldaan, indien hetzij activa van de beleggingsinstelling, hetzij aandelen daarin, op enigerlei wijze dienen tot voorwerp van zekerheid voor schulden van de vennootschap, waarin niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing zijn of worden ondergebracht. Dat is een vorm van indirect financieren van andere activiteiten. Ook mag de beleggingsinstelling geen voertuigen bezitten, (mede) bestemd voor gebruik door aandeelhouders, of beleggen in andere waarden dan genoemde financiële instrumenten. Het verstrekken van kredieten aan (andere) ondernemingen, zal van geval tot geval worden beoordeeld aan de hand van de concrete feitelijke omstandigheden.
-
-Het VBI regime kan alleen van toepassing zijn indien doel en feitelijke werkzaamheid uitsluitend bestaan uit beleggen in financiële instrumenten, met toepassing van het beginsel van risicospreiding.
-
-### 4. Splitsing omwille van het VBI regime kan vrijgesteld plaatsvinden (onder voorwaarden)
-
-Evenmin wordt aan de beleggingseisen voldaan, indien hetzij activa van de beleggingsinstelling, hetzij aandelen daarin, op enigerlei wijze dienen tot voorwerp van zekerheid voor schulden van de vennootschap, waarin niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing zijn of worden ondergebracht. Dat is een vorm van indirect financieren van andere activiteiten. Ook mag de beleggingsinstelling geen voertuigen bezitten, (mede) bestemd voor gebruik door aandeelhouders, of beleggen in andere waarden dan genoemde financiële instrumenten. Het verstrekken van kredieten aan (andere) ondernemingen, zal van geval tot geval worden beoordeeld aan de hand van de concrete feitelijke omstandigheden.
-
-### 5. Centrale uitvoering door de Belastingdienst Grote Ondernemingen Noordoost/Kantoor Groningen
-
-Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen aan als bevoegde eenheid voor het afgeven van beschikkingen en de beoordeling of na het afgeven van een positieve beschikking aan de eisen wordt voldaan. Alle verzoeken dienen onverwijld aan deze eenheid te worden doorgeleid. Dat geldt ook voor reeds ingediende verzoeken. De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen draagt in overleg de bevoegdheid over aan de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam wanneer sprake is van vergunningplicht ingevolge de Wet op het financieel toezicht zonder vrijstelling of ontheffing, en daarmee vergelijkbare gevallen. De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen wijs ik hierbij ook aan als bevoegd, te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie paragraaf 4 van dit Besluit).
-
-In veel gevallen waarin het VBI regime wordt aangevraagd is sprake van een voorafgaande splitsing van bestaande vennootschappen (met geen of niet uitsluitend beleggingsactiviteiten) en wordt verzocht om deze splitsing fiscaal vrijgesteld te mogen uitvoeren. Voor deze vrijstelling is onder andere vereist dat de splitsing niet in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing (zie o.a. [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)). Ik keur goed dat een splitsing die enkel gericht is op de verkrijging van de voordelen van het VBI regime niet wordt aangemerkt als een splitsing die gericht is op het ontgaan of uitstellen van belastingheffing (in de zin van onder andere [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)).
-
-Naar aanleiding van deze goedkeuring ben ik voornemens een dienovereenkomstig voorstel tot wetswijziging te doen.
-
-### 6. Centrale uitvoering door de Belastingdienst Oost/kantoor Almelo
-
-Indien het verzoek afkomstig is van een partij met een vergunning ingevolge de Wft zonder vrijstelling of ontheffing, wijs ik de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam, Unit Financiële Instellingen aan als bevoegd voor de afhandeling en het afgeven van beschikkingen.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Deze wijziging beoogt met name een belemmering op te werpen tegen de toegang tot het VBI-regime voor lichamen die worden gebruikt voor individueel vermogensbeheer, zoals familieconstructies. De koppeling van het begrip vrijgestelde beleggingsinstelling aan de begrippen beleggingsinstelling en ICBE in de zin van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) sluit namelijk uit dat deze beleggingsinstellingen kunnen worden gebruikt voor familieconstructies. Dit volgt uit de wetsgeschiedenis van de Wft, waaruit expliciet blijkt dat beleggingsinstellingen en ICBE's in de zin van de Wft niet zijn bedoeld voor individueel vermogensbeheer.2Zie Kamerstukken II 33 235, nr. 3, blz. 11 en 46.
 
 ### 3. Toetsing aan de beleggingseisen
 
+Het VBI regime kan alleen van toepassing zijn indien doel en feitelijke werkzaamheid uitsluitend bestaan uit beleggen in financiële instrumenten, met toepassing van het beginsel van risicospreiding.
+
 Aan de beleggingseisen wordt niet voldaan, indien de beleggingsinstelling direct of indirect een of meer leningen verstrekt aan de vennootschap waarin de niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing, bedoeld onder punt 4 hierna, zijn of worden ondergebracht. Ook een lening aan de aandeelhouder zelf, dan wel aan een particulier, hoe gering van betekenis die lening ook is in het vermogen van de vennootschap, zal leiden tot de conclusie dat niet is voldaan aan de beleggingseisen.
+
+Evenmin wordt aan de beleggingseisen voldaan, indien hetzij activa van de beleggingsinstelling, hetzij aandelen daarin, op enigerlei wijze dienen tot voorwerp van zekerheid voor schulden van de vennootschap, waarin niet-beleggingsactiviteiten, bijvoorbeeld na de splitsing zijn of worden ondergebracht. Dat is een vorm van indirect financieren van andere activiteiten. Ook mag de beleggingsinstelling geen voertuigen bezitten, (mede) bestemd voor gebruik door aandeelhouders, of beleggen in andere waarden dan genoemde financiële instrumenten. Het verstrekken van kredieten aan (andere) ondernemingen, zal van geval tot geval worden beoordeeld aan de hand van de concrete feitelijke omstandigheden.
 
 Het voldoen aan de beleggingseisen acht ik van groot belang. Toetsing dient dan ook geregeld te geschieden.
 
 ### 4. Splitsing omwille van het VBI regime kan vrijgesteld plaatsvinden (onder voorwaarden)
 
+In veel gevallen waarin het VBI regime wordt aangevraagd is sprake van een voorafgaande splitsing van bestaande vennootschappen (met geen of niet uitsluitend beleggingsactiviteiten) en wordt verzocht om deze splitsing fiscaal vrijgesteld te mogen uitvoeren. Voor deze vrijstelling is onder andere vereist dat de splitsing niet in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing (zie o.a. [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)). Ik keur goed dat een splitsing die enkel gericht is op de verkrijging van de voordelen van het VBI regime niet wordt aangemerkt als een splitsing die gericht is op het ontgaan of uitstellen van belastingheffing (in de zin van onder andere [artikel 3.56, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56)).
+
 ### 5. Centrale uitvoering door de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en Noordwest/kantoor Amsterdam
 
 Ter bevordering van de eenheid van rechtstoepassing en de snelheid van afhandeling wijs ik hierbij de bevoegdheid tot afhandeling van verzoeken en het afgeven van de beschikkingen toe aan de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen en de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam, op de wijze zoals hieronder beschreven.
 
+Indien het verzoek afkomstig is van een partij met een vergunning ingevolge de Wft zonder vrijstelling of ontheffing, wijs ik de Belastingdienst Grote Ondernemingen Noordwest/kantoor Amsterdam, Unit Financiële Instellingen aan als bevoegd voor de afhandeling en het afgeven van beschikkingen.
+
 Indien het verzoek afkomstig is van een partij zonder vergunning ingevolge de Wft, wijs ik de Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen aan als bevoegd voor de afhandeling en het afgeven van beschikkingen.
 
-De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen blijft daarnaast bevoegd om te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie paragraaf 4 van dit Besluit).
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+De Belastingdienst Grote Ondernemingen Noordoost/kantoor Groningen blijft daarnaast bevoegd om te beslissen op splitsingsverzoeken die (mede) zijn gericht op het verkrijgen van de VBI-status (zie [paragraaf 4](https://wetten.overheid.nl/BWBR0023599) van dit Besluit).

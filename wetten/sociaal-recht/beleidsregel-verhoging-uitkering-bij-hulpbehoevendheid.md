@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregel verhoging uitkering bij hulpbehoevendheid"
 identifier: "BWBR0022997"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-08-19"
-last_updated: "2010-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022997"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "9313133"
-version_id: "14957162"
-internal_id: "C20348501"
-label_id: "9291634"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022997/2010-08-19/0"
-intitule_bron: "Stcrt.2007-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-23"
-intitule_published: "2007-12-12"
-intitule_in_force: "2007-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-241"
-original_signed_date: "2007-10-23"
-original_published_date: "2007-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-241-p32-SC83361"
-entry_into_force_date: "2007-12-14"
-jci_1_3: "jci1.3:c:BWBR0022997&z=2010-08-19&g=2010-08-19"
-jci_1_0: "1.0:c:BWBR0022997&g=2010-08-19"
-citeertitel_status: "officieel"
-signed_date: "2007-10-23"
-entry_into_force: "2007-12-14"
+publicatiedatum: 2007-12-14
+laatste_update: 2010-08-19
+status: geldig
+toestand: 2010-08-19
+bron: "https://wetten.overheid.nl/BWBR0022997"
+opgehaald: 2026-08-12
 ---
+
 # Beleidsregel verhoging uitkering bij hulpbehoevendheid
-
-Gelet op de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53) en [63 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10) en [artikel 9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=9);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -80,5 +54,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel verhoging uitkering bij hulpbehoevendheid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

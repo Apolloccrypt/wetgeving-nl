@@ -1,54 +1,18 @@
 ---
 title: "Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders"
+citeertitel: "Besluit instelling Taskforce Antilliaanse Nederlanders"
 identifier: "BWBR0023489"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-22"
-last_updated: "2008-02-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023489"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9421093"
-version_id: "15166652"
-internal_id: "C29390201"
-label_id: "9398644"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023489/2008-02-22/0"
-intitule_bron: "Stcrt.2008-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-06"
-intitule_published: "2008-02-20"
-intitule_in_force: "2008-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-36"
-original_signed_date: "2008-02-06"
-original_published_date: "2008-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-36-p25-SC84536"
-entry_into_force_date: "2008-02-22"
-jci_1_3: "jci1.3:c:BWBR0023489&z=2008-02-22&g=2008-02-22"
-jci_1_0: "1.0:c:BWBR0023489&g=2008-02-22"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Taskforce Antilliaanse Nederlanders"
-signed_date: "2008-02-06"
-entry_into_force: "2008-02-22"
+publicatiedatum: 2008-02-22
+laatste_update: 2008-02-22
+status: geldig
+toestand: 2008-02-22
+bron: "https://wetten.overheid.nl/BWBR0023489"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders
-
-Overwegende dat:
-
-– in 2005 met de 21 Antillianengemeenten bestuurlijke arrangementen zijn afgesloten terzake van de terugdringing van de oververtegenwoordiging van Antilliaanse jongeren op het gebied van voortijdig schoolverlaten, criminaliteit en werkloosheid en deze arrangementen eind 2008 aflopen;
-
-– het, gelet op de medio 2007 uitgebrachte tussentijdse outputrapportage Antillianenprojecten, van belang is al gedurende 2008 een extra inspanning te leveren teneinde betere resultaten te halen op de projecten die zijn geïnitieerd;
-
-– voor de periode na 2008 een meerjarig, op duurzaamheid gericht, beleid ontwikkeld moet worden waarbij het voor alle betrokken partijen, waaronder het Rijk en gemeenten, duidelijk dient te zijn welke inzet van hen voor de uitvoering van dat beleid wordt verwacht;
-
-– deze beleidsopvattingen op 21 november 2007 in een bestuurlijk overleg door de 21 Antillianengemeenten zijn onderschreven;
-
-– er een Taskforce Antilliaanse Nederlanders dient te worden ingesteld teneinde voornoemde beleidsopvattingen in de praktijk te realiseren;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -143,5 +107,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit instelling Taskforce Antilliaanse Nederlanders.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

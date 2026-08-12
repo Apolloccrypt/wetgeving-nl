@@ -1,43 +1,19 @@
 ---
 title: "Regeling EFRO doelstelling 3 programmaperiode 2007–2013"
 identifier: "BWBR0023118"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-02-18"
-last_updated: "2012-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023118"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9339983"
-version_id: "15861842"
-internal_id: "C21759341"
-label_id: "9318424"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023118/2012-02-18/0"
-intitule_bron: "Stcrt.2007-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-16"
-intitule_published: "2007-12-20"
-intitule_in_force: "2007-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-232"
-original_signed_date: "2008-11-14"
-original_published_date: "2008-11-28"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2008-1066"
-entry_into_force_date: "2008-11-30"
-jci_1_3: "jci1.3:c:BWBR0023118&z=2012-02-18&g=2012-02-18"
-jci_1_0: "1.0:c:BWBR0023118&g=2012-02-18"
-citeertitel_status: "officieel"
-signed_date: "2008-11-14"
-entry_into_force: "2008-11-30"
+publicatiedatum: 2008-11-30
+laatste_update: 2012-02-18
+status: geldig
+toestand: 2012-02-18
+bron: "https://wetten.overheid.nl/BWBR0023118"
+opgehaald: 2026-08-12
 ---
+
 # Regeling EFRO doelstelling 3 programmaperiode 2007–2013
 
-Gelet op artikel 56, derde lid, van Kaderverordening 1083/2006, [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en [8, eerste lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=8) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=2) en [3 van het Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=3);
-
-Besluit:
+#### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
@@ -48,6 +24,8 @@ In deze regeling wordt verstaan onder:
 - b. projectsubsidie: een subsidie die wordt verstrekt aan degene die een project uitvoert dat past in een Europees programma;
 
 - c. programmasubsidie: een subsidie die wordt verstrekt aan de managementautoriteit van een Europees programma.
+
+#### § 2. Aangewezen programma’s
 
 ##### Artikel 2
 
@@ -60,6 +38,8 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 - c. het Operationeel Programma voor Euregio Maas–Rijn, goedgekeurd bij beschikking van de Europese Commissie van 18 september 2007, nr. C (2007)4250;
 
 - d. het Operationeel Programma Twee Zeeën, goedgekeurd bij beschikking van de Europese Commissie van 19 september 2008, nr. C (2008)5113.
+
+#### § 3. Projectsubsidies EMR en Twee Zeeën
 
 ##### Artikel 3
 
@@ -173,6 +153,8 @@ De Minister verbindt zodanige verplichtingen aan de projectsubsidie dat de subsi
 
 Als toezichthouder op deze regeling voor de programma’s, bedoeld in [artikel 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2012-02-18&g=2012-02-18), worden aangewezen de ambtenaren van de Auditdienst van het Ministerie van Economische Zaken.
 
+#### § 4. Programmasubsidie Nederland-Duitsland en Vlaanderen-Nederland
+
 ##### Artikel 15
 
 De Minister verstrekt op aanvraag een programmasubsidie aan de managementautoriteit van het programma, bedoeld in [artikel 2, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2012-02-18&g=2012-02-18), voor het financieren van projecten die vallen onder prioriteit 1 of 4 van het desbetreffende programma.
@@ -188,16 +170,6 @@ Het subsidieplafond voor de programmasubsidie bedoeld in [artikel 15](https://we
 ##### Artikel 17
 
 De ontvanger van een programmasubsidie financiert geen projecten ten laste van de programmasubsidie zonder voorafgaande schriftelijke instemming van de Minister.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 1. Begripsbepalingen
-
-#### § 2. Aangewezen programma’s
-
-#### § 3. Projectsubsidies EMR en Twee Zeeën
-
-#### § 4. Programmasubsidie Nederland-Duitsland en Vlaanderen-Nederland
 
 ##### Artikel 18
 
@@ -217,13 +189,13 @@ De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overh
 
 - g. het project valt in prioriteit 1 en niet in voldoende mate bijdraagt aan ten minste twee van de volgende doelstellingen:
 
-- –. versterking en betere benutting van het kennispotentieel;
+   - – versterking en betere benutting van het kennispotentieel;
 
-- –. kennisoverdracht;
+   - – kennisoverdracht;
 
-- –. toepassing van kennis in nieuwe projecten, diensten, organisatievormen, processen, markten of combinaties hiervan, of
+   - – toepassing van kennis in nieuwe projecten, diensten, organisatievormen, processen, markten of combinaties hiervan, of
 
-- –. toepassing en uitbouw van kennis in nieuwe of bestaande kennis- en onderzoeksinfrastructuur.
+   - – toepassing en uitbouw van kennis in nieuwe of bestaande kennis- en onderzoeksinfrastructuur.
 
 ##### Artikel 19
 
@@ -257,8 +229,6 @@ Het subsidieplafond voor de subsidie, bedoeld in [artikel 21](https://wetten.ove
 
 De subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2012-02-18&g=2012-02-18), wordt verleend, gehoord de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 24
 
 1. Indien de subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2012-02-18&g=2012-02-18), een projectsubsidie is, zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=5&z=2012-02-18&g=2012-02-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=6&z=2012-02-18&g=2012-02-18) en [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2012-02-18&g=2012-02-18) van overeenkomstige toepassing.
@@ -278,15 +248,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 3 programmaperiode 2007–2013.
-
-## Bijlage I
-
-De doelen van de Nota Ruimte (Kamerstukken II 2003/2004, 29435, nr. 2):
-
-### Stedelijke Netwerken
-
-### Water en Groene Ruimte
-
-### Gebieden en Thema’s
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

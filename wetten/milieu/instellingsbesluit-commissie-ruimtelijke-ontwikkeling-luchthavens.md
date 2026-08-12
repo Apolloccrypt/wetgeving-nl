@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie ruimtelijke ontwikkeling luchthavens"
 identifier: "BWBR0024033"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-06-25"
-last_updated: "2008-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024033"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9546203"
-version_id: "15433642"
-internal_id: "C21046321"
-label_id: "9523264"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024033/2008-06-25/0"
-intitule_bron: "Stcrt.2008-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-13"
-intitule_published: "2008-06-23"
-intitule_in_force: "2008-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-118"
-original_signed_date: "2008-06-13"
-original_published_date: "2008-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-118-p30-SC86190"
-entry_into_force_date: "2008-06-25"
-jci_1_3: "jci1.3:c:BWBR0024033&z=2008-06-25&g=2008-06-25"
-jci_1_0: "1.0:c:BWBR0024033&g=2008-06-25"
-citeertitel_status: "officieel"
-signed_date: "2008-06-13"
-entry_into_force: "2008-06-25"
+publicatiedatum: 2008-06-25
+laatste_update: 2008-06-25
+status: geldig
+toestand: 2008-06-25
+bron: "https://wetten.overheid.nl/BWBR0024033"
+opgehaald: 2026-08-12
 ---
-# Instellingsbesluit Commissie ruimtelijke ontwikkeling luchthavens
 
-Besluiten:
+# Instellingsbesluit Commissie ruimtelijke ontwikkeling luchthavens
 
 ##### Artikel 1
 
@@ -80,5 +56,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie ruimtelijke ontwikkeling luchthavens.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 24 januari 2008, houdende regels omtrent de basisregistraties adressen en gebouwen (Wet basisregistraties adressen en gebouwen)"
+citeertitel: "Wet basisregistratie adressen en gebouwen"
 identifier: "BWBR0023466"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023466"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9416513"
-version_id: "15159542"
-internal_id: "C22661821"
-label_id: "9394584"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023466/2025-02-12/0"
-intitule_bron: "Stb.2008-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-24"
-intitule_published: "2008-02-14"
-intitule_in_force: "2009-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2008-39"
-original_signed_date: "2008-01-24"
-original_published_date: "2008-02-14"
-original_effect: "nieuwe-regeling"
-original_dossier: "30968"
-original_url_id: "stb-2008-39"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0023466&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0023466&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet basisregistratie adressen en gebouwen"
-signed_date: "2008-01-24"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0023466"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 24 januari 2008, houdende regels omtrent de basisregistraties adressen en gebouwen (Wet basisregistraties adressen en gebouwen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van een goede vervulling van publiekrechtelijke taken wenselijk is om een basisregistratie adressen en een basisregistratie gebouwen tot stand te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -87,15 +58,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. situaties van feitelijk gebruik van:
 
-- 1°. een terrein of gedeelte daarvan voor het permanent plaatsen van een niet direct en niet duurzaam met de aarde verbonden en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte ruimte, niet zijnde een standplaats;
+   - 1°. een terrein of gedeelte daarvan voor het permanent plaatsen van een niet direct en niet duurzaam met de aarde verbonden en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte ruimte, niet zijnde een standplaats;
 
-- 2°. een plaats in het water, al dan niet aangevuld met een op de oever aanwezig terrein of gedeelte daarvan, voor het permanent afmeren van een drijvend object, niet zijnde een ligplaats;
+   - 2°. een plaats in het water, al dan niet aangevuld met een op de oever aanwezig terrein of gedeelte daarvan, voor het permanent afmeren van een drijvend object, niet zijnde een ligplaats;
 
-- 3°. een benaming van een gedeelte van het grondgebied van de gemeente, niet zijnde een woonplaats;
+   - 3°. een benaming van een gedeelte van het grondgebied van de gemeente, niet zijnde een woonplaats;
 
-- 4°. een benaming van een buitenruimte die binnen één woonplaats of situatie als bedoeld in de aanhef en onder 3° is gelegen, niet zijnde een openbare ruimte;
+   - 4°. een benaming van een buitenruimte die binnen één woonplaats of situatie als bedoeld in de aanhef en onder 3° is gelegen, niet zijnde een openbare ruimte;
 
-- 5°. een aanduiding van een verblijfsobject, een standplaats, een ligplaats of een situatie als bedoeld in de aanhef en onder 1° of 2°, niet zijnde een nummeraanduiding.
+   - 5°. een aanduiding van een verblijfsobject, een standplaats, een ligplaats of een situatie als bedoeld in de aanhef en onder 1° of 2°, niet zijnde een nummeraanduiding.
 
 ##### Artikel 3
 
@@ -125,11 +96,11 @@ In de basisregistratie gebouwen worden geen gegevens opgenomen met betrekking to
 
 ##### Artikel 6a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -145,7 +116,7 @@ Vervallen
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
@@ -155,9 +126,9 @@ Het bijhouden van de basisregistratie vindt plaats op basis van brondocumenten. 
 
 - b. door een daartoe aangewezen ambtenaar opgemaakte documenten, in welke vorm dan ook, waarin de constatering is vastgelegd van:
 
-- 1°. een pand of verblijfsobject, ten aanzien waarvan een krachtens onderdeel a aangewezen brondocument ontbreekt,
+   - 1°. een pand of verblijfsobject, ten aanzien waarvan een krachtens onderdeel a aangewezen brondocument ontbreekt,
 
-- 2°. een situatie als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2025-02-12&g=2025-02-12).
+   - 2°. een situatie als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2025-02-12&g=2025-02-12).
 
 ##### Artikel 11
 
@@ -165,7 +136,7 @@ Bij algemene maatregel van bestuur kunnen in het belang van het goed functionere
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -183,15 +154,15 @@ Een brondocument waaraan een in de basisregistratie opgenomen gegeven is ontleen
 
 ##### Artikel 14a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -199,13 +170,13 @@ Vervallen
 
 2. Bij ministeriële regeling wordt voor de basisregistratie een systeembeschrijving vastgelegd, die in ieder geval omvat:
 
-- a. de gegevensdefinities van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&z=2025-02-12&g=2025-02-12) van dit hoofdstuk bedoelde gegevens en de voor die gegevens geldende kwaliteitseisen, en
+- a. de gegevensdefinities van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&z=2025-02-12&g=2025-02-12) van dit hoofdstuk bedoelde gegevens en de voor die gegevens geldende kwaliteitseisen, en
 
 - b. de beschrijving van het koppelvlak met de landelijke voorziening ten behoeve van het elektronisch berichtenverkeer met die voorziening.
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 #### § 2. De inhoud van de basisregistratie
 
@@ -239,29 +210,29 @@ Vervallen
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 #### § 3. De gebouwenregistratie
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. De landelijke voorziening
 
@@ -327,7 +298,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
@@ -340,6 +311,38 @@ Vervallen
 - b. niet-commercieel en commercieel gebruik van die gegevens.
 
 #### § 2. Gebruik van gegevens
+
+##### Artikel 35
+
+1. Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, gebruikt het dat authentieke gegeven.
+
+2. Een bestuursorgaan kan een ander gegeven gebruiken dan een krachtens deze wet beschikbaar authentiek gegeven, ingeval:
+
+- a. bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12) is geplaatst;
+
+- b. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
+
+- c. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2025-02-12&g=2025-02-12);
+
+- d. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of
+
+- e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.
+
+##### Artikel 36
+
+Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens:
+
+- a. ingeval bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12) is geplaatst;
+
+- b. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
+
+- c. in geval van opsporing of onderzoek naar overtreding van een wettelijk voorschrift of van controle op de naleving van een wettelijk voorschrift;
+
+- d. in geval van dreiging van, of het zich voordoen van, een oproerige beweging, wanordelijkheden, verstoring van de openbare orde, rampen of zware ongevallen;
+
+- e. ingeval bij wettelijk voorschrift anders is bepaald, of
+
+- f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.
 
 ### Hoofdstuk 6. Wijziging van de in de registraties opgenomen gegevens
 
@@ -395,29 +398,29 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in de basis
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
 ##### Artikel 45a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Onze Minister zendt vier jaar na inwerkingtreding van de Wet van 10 februari 2017 tot wijziging van de Wet basisregistraties adressen en gebouwen en enige andere wetten in verband met modernisering en vereenvoudiging van de registratie en het toezicht (Stb. 2017, 60) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt vier jaar na inwerkingtreding van de Wet van 10 februari 2017 tot wijziging van de Wet basisregistraties adressen en gebouwen en enige andere wetten in verband met modernisering en vereenvoudiging van de registratie en het toezicht (Stb. 2017, 60) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 47
 
@@ -426,45 +429,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 48
 
 Deze wet wordt aangehaald als: Wet basisregistratie adressen en gebouwen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 35
-
-1. Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, gebruikt het dat authentieke gegeven.
-
-2. Een bestuursorgaan kan een ander gegeven gebruiken dan een krachtens deze wet beschikbaar authentiek gegeven, ingeval:
-
-- a. bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12) is geplaatst;
-
-- b. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
-
-- c. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2025-02-12&g=2025-02-12);
-
-- d. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of
-
-- e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.
-
-##### Artikel 36
-
-Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens:
-
-- a. ingeval bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2025-02-12&g=2025-02-12) is geplaatst;
-
-- b. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
-
-- c. in geval van opsporing of onderzoek naar overtreding van een wettelijk voorschrift of van controle op de naleving van een wettelijk voorschrift;
-
-- d. in geval van dreiging van, of het zich voordoen van, een oproerige beweging, wanordelijkheden, verstoring van de openbare orde, rampen of zware ongevallen;
-
-- e. ingeval bij wettelijk voorschrift anders is bepaald, of
-
-- f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.
-
-### Hoofdstuk 6. Wijziging van de in de registraties opgenomen gegevens
-
-### Hoofdstuk 7. Toezicht en controle
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

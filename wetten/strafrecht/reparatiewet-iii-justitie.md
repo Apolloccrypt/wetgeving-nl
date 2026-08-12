@@ -1,218 +1,194 @@
 ---
 title: "Wet van 13 maart 2008 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het ministerie van Justitie (Reparatiewet III Justitie)"
+citeertitel: "Reparatiewet III Justitie"
 identifier: "BWBR0023650"
-country: "nl"
-rank: "wet"
-publication_date: "2008-03-26"
-last_updated: "2008-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023650"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9454663"
-version_id: "15226562"
-internal_id: "C20748761"
-label_id: "9432564"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023650/2008-03-26/0"
-intitule_bron: "Stb.2008-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-13"
-intitule_published: "2008-03-25"
-intitule_in_force: "2008-03-25"
-intitule_status: "goed"
-original_publication: "Stb.2008-85"
-original_signed_date: "2008-03-13"
-original_published_date: "2008-03-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "31248"
-original_url_id: "stb-2008-85"
-entry_into_force_date: "2008-03-26"
-entry_into_force_dossier: "31248"
-jci_1_3: "jci1.3:c:BWBR0023650&z=2008-03-26&g=2008-03-26"
-jci_1_0: "1.0:c:BWBR0023650&g=2008-03-26"
-citeertitel_status: "officieel"
-short_title: "Reparatiewet III Justitie"
-signed_date: "2008-03-13"
-entry_into_force: "2008-03-26"
+publicatiedatum: 2008-03-26
+laatste_update: 2008-03-26
+status: geldig
+toestand: 2008-03-26
+bron: "https://wetten.overheid.nl/BWBR0023650"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 13 maart 2008 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het ministerie van Justitie (Reparatiewet III Justitie)
 
 ##### Artikel I
 
-Wijzigt de Advocatenwet.
+*Wijzigt de Advocatenwet.*
 
 ##### Artikel II
 
-Wijzigt de Auteurswet 1912.
+*Wijzigt de Auteurswet 1912.*
 
 ##### Artikel III
 
-Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
+*Wijzigt de Beginselenwet justitiële jeugdinrichtingen.*
 
 ##### Artikel IV
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel V
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel VI
 
-Wijzigt het Burgerlijk Wetboek Boek 4.
+*Wijzigt het Burgerlijk Wetboek Boek 4.*
 
 ##### Artikel VII
 
-Wijzigt het Burgerlijk Wetboek Boek 5.
+*Wijzigt het Burgerlijk Wetboek Boek 5.*
 
 ##### Artikel VIII
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel IX
 
-Wijzigt de Databankenwet.
+*Wijzigt de Databankenwet.*
 
 ##### Artikel X
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel XI
 
-Wijzigt de Luchtvaartwet.
+*Wijzigt de Luchtvaartwet.*
 
 ##### Artikel XII
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel XIII
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel XIV
 
-Wijzigt de Uitleveringswet.
+*Wijzigt de Uitleveringswet.*
 
 ##### Artikel XV
 
-Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
+*Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.*
 
 ##### Artikel XVI
 
-Wijzigt de Vreemdelingenwet 2000.
+*Wijzigt de Vreemdelingenwet 2000.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet beëdigde tolken en vertalers.
+*Wijzigt de Wet beëdigde tolken en vertalers.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
+*Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.*
 
 ##### Artikel XX
 
-Wijzigt de Wet bescherming persoonsgegevens.
+*Wijzigt de Wet bescherming persoonsgegevens.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
+*Wijzigt de Wet Centraal Orgaan opvang asielzoekers.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet Justitie-subsidies.
+*Wijzigt de Wet Justitie-subsidies.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet openbaarheid van bestuur.
+*Wijzigt de Wet openbaarheid van bestuur.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.
+*Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten.
+*Wijzigt de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
+*Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet wapens en munitie.
+*Wijzigt de Wet wapens en munitie.*
 
 ##### Artikel XXX
 
-Wijzigt de Wet op de bijzondere opsporingsdiensten.
+*Wijzigt de Wet op de bijzondere opsporingsdiensten.*
 
 ##### Artikel XXXI
 
-Wijzigt de Wet op de jeugdzorg.
+*Wijzigt de Wet op de jeugdzorg.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet op de naburige rechten.
+*Wijzigt de Wet op de naburige rechten.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel XXXV
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel XXXVII
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel XXXVIII
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel XXXIX
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel XL
 
-Wijzigt de Wijzigingswet Auteurswet 1912, enz. (richtlijn Raad van de Europese Gemeenschappen betreffende verhuurrecht, uitleenrecht en bepaalde naburige rechten).
+*Wijzigt de Wijzigingswet Auteurswet 1912, enz. (richtlijn Raad van de Europese Gemeenschappen betreffende verhuurrecht, uitleenrecht en bepaalde naburige rechten).*
 
 ##### Artikel XLa
 
-Wijzigt het bij koninklijke boodschap van 9 juni 2005 ingediende voorstel van wet tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet schadefonds geweldsmisdrijven ter versterking van de positie van het slachtoffer in het strafproces (30 143).
+*Wijzigt het bij koninklijke boodschap van 9 juni 2005 ingediende voorstel van wet tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet schadefonds geweldsmisdrijven ter versterking van de positie van het slachtoffer in het strafproces (30 143).*
 
 ##### Artikel XLI
 
-Wijzigt de Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel.
+*Wijzigt de Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel.*
 
 ##### Artikel XLII
 
-Wijzigt de Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij).
+*Wijzigt de Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij).*
 
 ##### Artikel XLIIa
 
-Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (gedragsbeïnvloeding jeugdigen).
+*Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (gedragsbeïnvloeding jeugdigen).*
 
 ##### Artikel XLIII
 
@@ -231,11 +207,3 @@ In strafzaken waarin voor de inwerkingtreding van [artikel II, onderdelen O tot 
 ##### Artikel XLV
 
 Deze wet wordt aangehaald als: Reparatiewet III Justitie.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in diverse wetsbepalingen op het terrein van het ministerie van Justitie wijzigingen van wetstechnische of anderszins ondergeschikte aard aan te brengen in verband met geconstateerde wetstechnische gebreken en leemten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

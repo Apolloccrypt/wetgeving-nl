@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2008, nr. STAF/CZW/WVOB 2008-00000287353, houdende regels betreffende de beroepserkenning van executief politiepersoneel (Regeling erkenning EG-beroepskwalificaties politiepersoneel)"
+citeertitel: "Regeling erkenning EG-beroepskwalificaties politiepersoneel"
 identifier: "BWBR0024380"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024380"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "9699583"
-version_id: "15674992"
-internal_id: "C21408891"
-label_id: "9676584"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024380/2025-09-04/0"
-intitule_bron: "Stcrt.2008-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-14"
-intitule_published: "2008-08-19"
-intitule_in_force: "2008-08-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-159"
-original_signed_date: "2008-08-14"
-original_published_date: "2008-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-159-p7-SC87156"
-entry_into_force_date: "2008-08-21"
-jci_1_3: "jci1.3:c:BWBR0024380&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0024380&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EG-beroepskwalificaties politiepersoneel"
-signed_date: "2008-08-14"
-entry_into_force: "2008-08-21"
+publicatiedatum: 2008-08-21
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0024380"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2008, nr. STAF/CZW/WVOB 2008-00000287353, houdende regels betreffende de beroepserkenning van executief politiepersoneel (Regeling erkenning EG-beroepskwalificaties politiepersoneel)
-
-Gelet op [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -70,9 +44,9 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 - a. een bewijs van nationaliteit van de aanvrager alsmede:
 
-- 1°. indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 2 van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of
+   - 1° indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 2 van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of
 
-- 2°. indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 3 van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+   - 2° indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 3 van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
 - b. een kopie van het diploma, het certificaat of het bekwaamheidsattest, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=9), gewaarmerkt door de bevoegde autoriteit in de lidstaat van oorsprong of herkomst;
 
@@ -126,9 +100,9 @@ Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld i
 
 - b. een bewijs van nationaliteit, alsmede:
 
-- 1°. indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 2° van de definitie in artikel 1 van de wet, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016) of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of
+   - 1° indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 2° van de definitie in artikel 1 van de wet, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016) of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of
 
-- 2°. indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 3° van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de dienstverrichter het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+   - 2° indien de migrerende beroepsbeoefenaar voldoet aan onderdeel 3° van de definitie in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de dienstverrichter het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
 - c. een attest dat de dienstverrichter gerechtigd is om in een andere betrokken staat dan Nederland de betrokken beroepswerkzaamheden uit te oefenen, en dat de dienstverrichter op het moment van afgifte van het attest geen permanent of tijdelijk beroepsverbod is opgelegd;
 
@@ -143,5 +117,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties politiepersoneel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

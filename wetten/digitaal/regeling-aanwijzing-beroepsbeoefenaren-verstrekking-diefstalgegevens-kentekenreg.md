@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat en de Minister van Justitie, houdende een gezamenlijke aanwijzing van belanghebbenden inzake de verstrekking van gegevens uit het kentekenregister omtrent aangifte van diefstel en verduistering van voertuigen (Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008)"
+citeertitel: "Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008"
 identifier: "BWBR0024057"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-21"
-last_updated: "2010-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024057"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9555923"
-version_id: "15452312"
-internal_id: "C21083501"
-label_id: "9532974"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024057/2010-07-21/0"
-intitule_bron: "Stcrt.2008-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-16"
-intitule_published: "2008-06-26"
-intitule_in_force: "2008-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-121"
-original_signed_date: "2008-06-16"
-original_published_date: "2008-06-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-121-p13-SC86215"
-entry_into_force_date: "2008-07-01"
-jci_1_3: "jci1.3:c:BWBR0024057&z=2010-07-21&g=2010-07-21"
-jci_1_0: "1.0:c:BWBR0024057&g=2010-07-21"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008"
-signed_date: "2008-06-16"
-entry_into_force: "2008-07-01"
+publicatiedatum: 2008-07-01
+laatste_update: 2010-07-21
+status: geldig
+toestand: 2010-07-21
+bron: "https://wetten.overheid.nl/BWBR0024057"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat en de Minister van Justitie, houdende een gezamenlijke aanwijzing van belanghebbenden inzake de verstrekking van gegevens uit het kentekenregister omtrent aangifte van diefstel en verduistering van voertuigen (Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008)
-
-Gelet op [artikel 9, eerste lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -69,5 +43,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2008.
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

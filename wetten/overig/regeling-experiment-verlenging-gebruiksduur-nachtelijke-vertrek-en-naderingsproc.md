@@ -1,45 +1,17 @@
 ---
 title: "Regeling experiment verlenging gebruiksduur nachtelijke vertrek- en naderingsprocedures"
 identifier: "BWBR0023610"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-11-19"
-last_updated: "2008-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023610"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9447393"
-version_id: "15213362"
-internal_id: "C20731141"
-label_id: "9424924"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023610/2008-11-19/0"
-intitule_bron: "Stcrt.2008-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-09"
-intitule_published: "2008-03-11"
-intitule_in_force: "2008-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-50"
-original_signed_date: "2008-03-09"
-original_published_date: "2008-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-50-p17-SC84881"
-entry_into_force_date: "2008-03-13"
-jci_1_3: "jci1.3:c:BWBR0023610&z=2008-11-19&g=2008-11-19"
-jci_1_0: "1.0:c:BWBR0023610&g=2008-11-19"
-citeertitel_status: "redactioneel"
-signed_date: "2008-03-09"
-entry_into_force: "2008-03-13"
+publicatiedatum: 2008-03-13
+laatste_update: 2008-11-19
+status: geldig
+toestand: 2008-11-19
+bron: "https://wetten.overheid.nl/BWBR0023610"
+opgehaald: 2026-08-12
 ---
+
 # Regeling experiment verlenging gebruiksduur nachtelijke vertrek- en naderingsprocedures
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -225,17 +197,17 @@ Als gevolg van het experiment vindt er een geografische verschuiving plaats van 
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het LVB zijn:
 
-- –. Het effect op de hinder en slaapverstoring in het betrokken gebied;
+- – Het effect op de hinder en slaapverstoring in het betrokken gebied;
 
-- –. het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
+- – het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
 
-- –. de berekende geluidbelasting in het betrokken gebied ;
+- – de berekende geluidbelasting in het betrokken gebied ;
 
-- –. het effect op de interne en externe veiligheid;
+- – het effect op de interne en externe veiligheid;
 
-- –. het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
+- – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
 
-- –. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
+- – het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
 ##### Artikel 8. Onvoorziene gevallen
 
@@ -248,5 +220,3 @@ De termijn van het experiment betreft de periode vanaf 13 maart 2008 tot en met 
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2008, Directie Arbeidsmarkt, nr. AM/BR/07/42258, houdende de vergoeding voorzitters en leden Nationaal Thematische Netwerken ESF EQUAL"
+citeertitel: "Besluit vergoeding voorzitters en leden Nationaal Thematische Netwerken ESF EQUAL"
 identifier: "BWBR0023406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-02-01"
-last_updated: "2008-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023406"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9405483"
-version_id: "15141372"
-internal_id: "C29387361"
-label_id: "9382954"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023406/2008-02-01/0"
-intitule_bron: "Stcrt.2008-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-23"
-intitule_published: "2008-01-30"
-intitule_in_force: "2008-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-21"
-original_signed_date: "2008-01-23"
-original_published_date: "2008-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-21-p28-SC84273"
-entry_into_force_date: "2008-02-01"
-jci_1_3: "jci1.3:c:BWBR0023406&z=2008-02-01&g=2008-02-01"
-jci_1_0: "1.0:c:BWBR0023406&g=2008-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vergoeding voorzitters en leden Nationaal Thematische Netwerken ESF EQUAL"
-signed_date: "2008-01-23"
-entry_into_force: "2008-02-01"
+publicatiedatum: 2008-02-01
+laatste_update: 2008-02-01
+status: geldig
+toestand: 2008-02-01
+bron: "https://wetten.overheid.nl/BWBR0023406"
+opgehaald: 2026-08-12
 ---
+
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2008, Directie Arbeidsmarkt, nr. AM/BR/07/42258, houdende de vergoeding voorzitters en leden Nationaal Thematische Netwerken ESF EQUAL
-
-Gelet op het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317);
-
-Besluit:
 
 ##### Artikel 1
 

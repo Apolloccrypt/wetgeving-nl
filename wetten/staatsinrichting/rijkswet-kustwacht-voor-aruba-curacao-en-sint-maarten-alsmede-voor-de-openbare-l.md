@@ -1,47 +1,18 @@
 ---
 title: "Rijkswet van 25 februari 2008, houdende regeling van de taken en bevoegdheden, alsmede het beheer en beleid van de Kustwacht voor de Nederlandse Antillen en Aruba (Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba)"
+citeertitel: "Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0023731"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023731"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "9470453"
-version_id: "15255452"
-internal_id: "C22216181"
-label_id: "9448144"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023731/2010-10-10/0"
-intitule_bron: "Stb.2008-98"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-25"
-intitule_published: "2008-04-08"
-intitule_in_force: "2009-03-12"
-intitule_status: "goed"
-original_publication: "Stb.2008-98"
-original_signed_date: "2008-02-25"
-original_published_date: "2008-04-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "30531"
-original_url_id: "stb-2008-98"
-entry_into_force_date: "2009-05-01"
-jci_1_3: "jci1.3:c:BWBR0023731&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0023731&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2008-02-25"
-entry_into_force: "2009-05-01"
+publicatiedatum: 2009-05-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0023731"
+opgehaald: 2026-08-12
 ---
+
 # Rijkswet van 25 februari 2008, houdende regeling van de taken en bevoegdheden, alsmede het beheer en beleid van de Kustwacht voor de Nederlandse Antillen en Aruba (Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, gelet op [artikel 38, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), alsmede op [artikel 3, eerste lid, onder a en b, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=3), te voorzien in een structurele regeling betreffende de Kustwacht voor de Nederlandse Antillen en Aruba;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -278,5 +249,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 24
 
 Deze rijkswet wordt aangehaald als: Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

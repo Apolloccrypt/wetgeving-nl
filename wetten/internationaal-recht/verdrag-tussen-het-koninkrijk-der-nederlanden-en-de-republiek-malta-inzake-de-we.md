@@ -7,7 +7,7 @@ laatste_update: 2026-07-28
 status: geldig
 toestand: 2026-07-28
 bron: "https://wetten.overheid.nl/BWBV0007169"
-opgehaald: 2026-08-11
+opgehaald: 2026-08-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Malta inzake de wederzijdse beveiliging en uitwisseling van gerubriceerde gegevens

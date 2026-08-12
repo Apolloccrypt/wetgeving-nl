@@ -8,7 +8,7 @@ laatste_update: 2026-08-11
 status: geldig
 toestand: 2026-08-11
 bron: "https://wetten.overheid.nl/BWBR0039849"
-opgehaald: 2026-08-11
+opgehaald: 2026-08-12
 ---
 
 # Voorzieningenstelsel buitenland defensiepersoneel

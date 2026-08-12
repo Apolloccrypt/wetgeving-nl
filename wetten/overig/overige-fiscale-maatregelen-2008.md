@@ -1,98 +1,74 @@
 ---
 title: "Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2008)"
+citeertitel: "Overige fiscale maatregelen 2008"
 identifier: "BWBR0023147"
-country: "nl"
-rank: "wet"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023147"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "9346463"
-version_id: "15023932"
-internal_id: "C20468171"
-label_id: "9325074"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023147/2010-01-01/0"
-intitule_bron: "Stb.2007-563"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-20"
-intitule_published: "2007-12-27"
-intitule_in_force: "2007-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2007-563"
-original_signed_date: "2007-12-20"
-original_published_date: "2007-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "31206"
-original_url_id: "stb-2007-563"
-entry_into_force_date: "2007-12-31"
-entry_into_force_dossier: "31206"
-jci_1_3: "jci1.3:c:BWBR0023147&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0023147&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Overige fiscale maatregelen 2008"
-signed_date: "2007-12-20"
-entry_into_force: "2007-12-31"
+publicatiedatum: 2007-12-31
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0023147"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2008)
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel Ia
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel III
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel IV
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel V
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de kansspelbelasting.
+*Wijzigt de Wet op de kansspelbelasting.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel X
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel XI
 
-Wijzigt de Registratiewet 1970.
+*Wijzigt de Registratiewet 1970.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel XIV
 
@@ -100,23 +76,23 @@ Indien vóór het tijdstip waarop [artikel XIII](https://wetten.overheid.nl/jci1
 
 ##### Artikel XV
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XV0a
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XVa
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XVb
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XVII
 
@@ -124,19 +100,19 @@ De in [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023147&artikel=XVI&
 
 ##### Artikel XVIII
 
-Wijzigt het Belastingplan 2007.
+*Wijzigt het Belastingplan 2007.*
 
 ##### Artikel XIX
 
-Wijzigt de Wijzigingswet belastingwetten ter vermindering van administratieve lasten (Wijzigingsplan «Paarse krokodil»).
+*Wijzigt de Wijzigingswet belastingwetten ter vermindering van administratieve lasten (Wijzigingsplan «Paarse krokodil»).*
 
 ##### Artikel XX
 
-Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving).
+*Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving).*
 
 ##### Artikel XXI
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel XXII
 
@@ -166,19 +142,19 @@ Voor de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https:/
 
 ##### Artikel XXV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVa
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel XXVb
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op het kindgebonden budget.*
 
 ##### Artikel XXVc
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XXVd
 
@@ -186,11 +162,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVe
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVf
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXVI
 
@@ -215,11 +191,3 @@ Vervallen
 ##### Artikel XXVII
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2008.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2008 wenselijk is in een aantal belastingwetten wijzigingen, bijstellingen alsmede enkele technische reparaties aan te brengen,
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

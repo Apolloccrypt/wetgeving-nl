@@ -1,43 +1,18 @@
 ---
 title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 18 december 2007, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening GZP financieringsheffing jaar 2008)"
+citeertitel: "Verordening GZP financieringsheffing jaar 2008"
 identifier: "BWBR0023515"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-02-17"
-last_updated: "2008-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023515"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9425163"
-version_id: "15172872"
-internal_id: "C29391331"
-label_id: "9402804"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023515/2008-02-17/0"
-intitule_bron: "Vbbo.2008-14"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-18"
-intitule_published: "2008-02-15"
-intitule_in_force: "2008-02-15"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-14"
-original_signed_date: "2007-12-18"
-original_published_date: "2008-02-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-02-17"
-jci_1_3: "jci1.3:c:BWBR0023515&z=2008-02-17&g=2008-02-17"
-jci_1_0: "1.0:c:BWBR0023515&g=2008-02-17"
-citeertitel_status: "officieel"
-short_title: "Verordening GZP financieringsheffing jaar 2008"
-signed_date: "2007-12-18"
-entry_into_force: "2008-02-17"
+publicatiedatum: 2008-02-17
+laatste_update: 2008-02-17
+status: geldig
+toestand: 2008-02-17
+bron: "https://wetten.overheid.nl/BWBR0023515"
+opgehaald: 2026-08-12
 ---
+
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 18 december 2007, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening GZP financieringsheffing jaar 2008)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 eerste lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -103,9 +78,9 @@ De [Verordening GZP algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:
 
 2. De heffing bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17), wordt door het productschap geïnd
 
-- –. voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens en overigens
+- – voor de telers van graszaad op basis van de door de teler aan het Hoofdproductschap Akkerbouw ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014846) verstrekte gegevens en overigens
 
-- –. door middel van de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
+- – door middel van de in het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023515&paragraaf=2&artikel=4&z=2008-02-17&g=2008-02-17) bedoelde ondernemers op basis van door hen afgesloten teeltcontracten.
 
 ##### Artikel 8
 

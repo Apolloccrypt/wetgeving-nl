@@ -1,41 +1,17 @@
 ---
 title: "Regeling commissie van toezicht detentieplaatsen Koninklijke Marechaussee"
 identifier: "BWBR0022877"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-12-02"
-last_updated: "2023-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022877"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9286193"
-version_id: "14904792"
-internal_id: "C20277311"
-label_id: "9264784"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022877/2023-12-02/0"
-intitule_bron: "Stcrt.2007-226"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-02"
-intitule_published: "2007-11-21"
-intitule_in_force: "2007-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-226"
-original_signed_date: "2007-11-02"
-original_published_date: "2007-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-226-p10-SC83039"
-entry_into_force_date: "2007-11-23"
-jci_1_3: "jci1.3:c:BWBR0022877&z=2023-12-02&g=2023-12-02"
-jci_1_0: "1.0:c:BWBR0022877&g=2023-12-02"
-citeertitel_status: "officieel"
-signed_date: "2007-11-02"
-entry_into_force: "2007-11-23"
+publicatiedatum: 2007-11-23
+laatste_update: 2023-12-02
+status: geldig
+toestand: 2023-12-02
+bron: "https://wetten.overheid.nl/BWBR0022877"
+opgehaald: 2026-08-12
 ---
-# Regeling commissie van toezicht detentieplaatsen Koninklijke Marechaussee
 
-Besluit:
+# Regeling commissie van toezicht detentieplaatsen Koninklijke Marechaussee
 
 ##### Artikel 1
 

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI"
+citeertitel: "Instellingsbesluit Raad van Advies NVI"
 identifier: "BWBR0022973"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-01-01"
-last_updated: "2008-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022973"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9308193"
-version_id: "14947322"
-internal_id: "C20336081"
-label_id: "9286734"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022973/2008-01-01/0"
-intitule_bron: "Stcrt.2007-237"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-11-28"
-intitule_published: "2007-12-06"
-intitule_in_force: "2007-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-237"
-original_signed_date: "2007-11-28"
-original_published_date: "2007-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-237-p1-SC83291"
-entry_into_force_date: "2008-01-01"
-jci_1_3: "jci1.3:c:BWBR0022973&z=2008-01-01&g=2008-01-01"
-jci_1_0: "1.0:c:BWBR0022973&g=2008-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies NVI"
-signed_date: "2007-11-28"
-entry_into_force: "2008-01-01"
+publicatiedatum: 2008-01-01
+laatste_update: 2008-01-01
+status: geldig
+toestand: 2008-01-01
+bron: "https://wetten.overheid.nl/BWBR0022973"
+opgehaald: 2026-08-12
 ---
-# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI
 
-Besluit:
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -161,5 +137,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Instellingsbesluit Raad van Advies NVI.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

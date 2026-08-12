@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat deze hun betekenis hebben verloren (VenW-Intrekkingsregeling 2008)"
+citeertitel: "VenW-intrekkingsregeling 2008"
 identifier: "BWBR0024209"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-07-23"
-last_updated: "2008-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024209"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9656413"
-version_id: "15579782"
-internal_id: "C21249221"
-label_id: "9633484"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024209/2008-07-23/0"
-intitule_bron: "Stcrt.2008-138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-10"
-intitule_published: "2008-07-21"
-intitule_in_force: "2008-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-138"
-original_signed_date: "2008-07-10"
-original_published_date: "2008-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-138-p17-SC86630"
-entry_into_force_date: "2008-07-23"
-jci_1_3: "jci1.3:c:BWBR0024209&z=2008-07-23&g=2008-07-23"
-jci_1_0: "1.0:c:BWBR0024209&g=2008-07-23"
-citeertitel_status: "officieel"
-short_title: "VenW-intrekkingsregeling 2008"
-signed_date: "2008-07-10"
-entry_into_force: "2008-07-23"
+publicatiedatum: 2008-07-23
+laatste_update: 2008-07-23
+status: geldig
+toestand: 2008-07-23
+bron: "https://wetten.overheid.nl/BWBR0024209"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat deze hun betekenis hebben verloren (VenW-Intrekkingsregeling 2008)
-
-Gelet op [artikel 2b, derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=2b) en artikel 12, derde lid, van het Lozingenbesluit Wvo tandartspraktijken;
-
-Gelet op [Hoofdstuk IV, §4 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=4), [Hoofdstuk 5, Afdeling 2 van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&afdeling=2) en [Hoofdstuk 2 van de Regeling Permanente eisen](https://wetten.overheid.nl/jci1.3:c:BWBR0009581&hoofdstuk=2), alsmede op [artikel 88 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=88);
-
-Besluit:
 
 #### § 1. Intrekking van regelingen
 
@@ -81,5 +53,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel V. Citeertitel
 
 Deze regeling wordt aangehaald als: VenW-intrekkingsregeling 2008.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

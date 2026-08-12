@@ -1,68 +1,40 @@
 ---
 title: "Regeling van de Ministers van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, houdende regels ter uitvoering van het Arbeidstijdenbesluit vervoer (Regeling werk- en rusttijden luchtvaart)"
+citeertitel: "Regeling werk- en rusttijden luchtvaart"
 identifier: "BWBR0024175"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-07-19"
-last_updated: "2008-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024175"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9650803"
-version_id: "15570142"
-internal_id: "C21250731"
-label_id: "9627934"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024175/2008-07-19/0"
-intitule_bron: "Stcrt.2008-133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-10"
-intitule_published: "2008-07-14"
-intitule_in_force: "2008-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-133"
-original_signed_date: "2008-07-10"
-original_published_date: "2008-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-133-p27-SC86628"
-entry_into_force_date: "2008-07-19"
-jci_1_3: "jci1.3:c:BWBR0024175&z=2008-07-19&g=2008-07-19"
-jci_1_0: "1.0:c:BWBR0024175&g=2008-07-19"
-citeertitel_status: "officieel"
-short_title: "Regeling werk- en rusttijden luchtvaart"
-signed_date: "2008-07-10"
-entry_into_force: "2008-07-19"
+publicatiedatum: 2008-07-19
+laatste_update: 2008-07-19
+status: geldig
+toestand: 2008-07-19
+bron: "https://wetten.overheid.nl/BWBR0024175"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Ministers van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, houdende regels ter uitvoering van het Arbeidstijdenbesluit vervoer (Regeling werk- en rusttijden luchtvaart)
-
-Gelet op [verordeningen (EG) nr. 1899/2006](32006R1899) en [8/2008](32008R0008) tot wijziging van [verordening (EEG) nr. 3922/91](31991R3922) inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart, en op de [artikelen 4.5:3 tot en met 4.5:6 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=4.5:3);
-
-Besluiten:
-
-Treedt in werking op het tijdstip waarop het Besluit vluchtuitvoering in werking treedt.
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- –. grondtijd: elke tijdsduur binnen de vliegdienstperiode die geen deel uitmaakt van de bloktijd;
+- – grondtijd: elke tijdsduur binnen de vliegdienstperiode die geen deel uitmaakt van de bloktijd;
 
-- –. verordening: bijlage III van [verordening (EEG) nr. 3922/91](31991R3922) van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart (PbEG L 373);
+- – verordening: bijlage III van verordening (EEG) nr. 3922/91 van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de harmonisatie van technische voorschriften en administratieve procedures op het gebied van de burgerluchtvaart (PbEG L 373);
 
-- –. bloktijd: bloktijd als bedoeld in onderdeel 1.1095 van de verordening;
+- – bloktijd: bloktijd als bedoeld in onderdeel 1.1095 van de verordening;
 
-- –. thuisbasis: thuisbasis als bedoeld in onderdeel 1.1095 van de verordening;
+- – thuisbasis: thuisbasis als bedoeld in onderdeel 1.1095 van de verordening;
 
-- –. besluit: [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386);
+- – besluit: [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386);
 
-- –. horizontale rustgelegenheid: een deugdelijke accommodatie aan boord van het luchtvaartuig die is afgeschermd van zowel de cockpit als het passagiersgedeelte en kan worden verduisterd, en waarin horizontale rust kan worden genoten;
+- – horizontale rustgelegenheid: een deugdelijke accommodatie aan boord van het luchtvaartuig die is afgeschermd van zowel de cockpit als het passagiersgedeelte en kan worden verduisterd, en waarin horizontale rust kan worden genoten;
 
-- –. zitplaats klasse A: een zitplaats buiten de cockpit die ten minste even breed is als een economy class stoel, meer pitch heeft dan een economy class stoel, minimaal 40° recline en een volledig geïntegreerde steun aan benen en voeten geeft, en met ingang van 1 april 2009 is afgeschermd van de passagiers door ten minste een gordijn;
+- – zitplaats klasse A: een zitplaats buiten de cockpit die ten minste even breed is als een economy class stoel, meer pitch heeft dan een economy class stoel, minimaal 40° recline en een volledig geïntegreerde steun aan benen en voeten geeft, en met ingang van 1 april 2009 is afgeschermd van de passagiers door ten minste een gordijn;
 
-- –. zitplaats klasse B: een economy class passagiersstoel, buiten de cockpit, en met ingang van 1 april 2009 afgeschermd van de passagiers door ten minste een gordijn; indien deze zitplaats zich in het passagiersgedeelte bevindt, wordt een naastgelegen zitplaats die niet gescheiden is door een gangpad, enkel bezet door een ander lid van het boordpersoneel;
+- – zitplaats klasse B: een economy class passagiersstoel, buiten de cockpit, en met ingang van 1 april 2009 afgeschermd van de passagiers door ten minste een gordijn; indien deze zitplaats zich in het passagiersgedeelte bevindt, wordt een naastgelegen zitplaats die niet gescheiden is door een gangpad, enkel bezet door een ander lid van het boordpersoneel;
 
-- –. cumulatieve diensturen: uren als bedoeld in onderdeel 1.1100 van de verordening.
+- – cumulatieve diensturen: uren als bedoeld in onderdeel 1.1100 van de verordening.
 
 ##### Artikel 2. Maximale vliegdienstperiode
 
@@ -110,9 +82,9 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 1. In geval van uitbreiding van het basiscockpitpersoneel kan de maximale vliegdienstperiode, bedoeld in onderdeel 1.1105 van de verordening, worden verlengd overeenkomstig onderstaande tabel:
 
-| Geboden rustfaciliteit aan boord | Maximale vliegdienstperiode | Maximale vliegdienstperiode |
+| Geboden rustfaciliteit aan boord | Maximale vliegdienstperiode |  |
 | --- | --- | --- |
-|   | cockpitpersoneel dat is uitgebreid overeenkomstig onderdeel 1.1095, onder 1.1, van de verordening | cockpitpersoneel dat is uitgebreid overeenkomstig onderdeel 1.1095, onder 1.1, van de verordening, zodanig dat het cockpitpersoneel ten opzichte van de basiscockpitbemanning getalsmatig is verdubbeld |
+|  | cockpitpersoneel dat is uitgebreid overeenkomstig onderdeel 1.1095, onder 1.1, van de verordening | cockpitpersoneel dat is uitgebreid overeenkomstig onderdeel 1.1095, onder 1.1, van de verordening, zodanig dat het cockpitpersoneel ten opzichte van de basiscockpitbemanning getalsmatig is verdubbeld |
 | Horizontale rustgelegenheid | 4 uur | 5 uur |
 | Zitplaats klasse A | 3 uur | 4 uur |
 | Zitplaats klasse B | 2 uur | 3 uur |
@@ -170,33 +142,3 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoe
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling werk- en rusttijden luchtvaart.
-
-## Bijlage A. behorend bij [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024175&artikel=4&z=2008-07-19&g=2008-07-19), van de Regeling werk- en rusttijden luchtvaart.
-
-## Bijlage B. behorend bij [artikel 8, zesde lid, van de Regeling werk- en rusttijden luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0024175&artikel=8&z=2008-07-19&g=2008-07-19)
-
-| Tijdstip voor aanmelding (LT) | Korting op de maximale vliegdienstperiode overeenkomstig onderdeel 1.1105 of 1.1115 van de verordening, na een oproep binnen de periode van paraatheid, doch na de eerste 3 uur hiervan en waarbij het tijdstip van aanmelding plaatsvindt binnen 8 uur na deze oproep |
-| --- | --- |
-| 00:01 – 04:30 | 2 uur |
-| 04:31 – 05:00 | 1 uur en 45 minuten |
-| 05:01 – 05:30 | 1 uur en 30 minuten |
-| 05:31 – 06:00 | 1 uur en 15 minuten |
-| 06:01 – 06:30 | 1 uur |
-| 06:31 – 07:00 | 45 minuten |
-| 07:01 – 07:30 | 30 minuten |
-| 07:31 – 08:00 | 15 minuten |
-| 08:01 – 13:30 | 0 |
-| 13:31 – 14:00 | 10 minuten |
-| 14:01 – 14:30 | 20 minuten |
-| 14:31 – 15:00 | 30 minuten |
-| 15:01 – 15:30 | 40 minuten |
-| 15:31 – 16:00 | 50 minuten |
-| 16:01 – 16:30 | 1 uur |
-| 16:31 – 17:00 | 1 uur en 10 minuten |
-| 17:01 – 17:30 | 1 uur en 20 minuten |
-| 17:31 – 18:00 | 1 uur en 30 minuten |
-| 18:01 – 18:30 | 1 uur en 40 minuten |
-| 18:31 – 19:00 | 1 uur en 50 minuten |
-| 19:01 – 24:00 | 2 uur |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

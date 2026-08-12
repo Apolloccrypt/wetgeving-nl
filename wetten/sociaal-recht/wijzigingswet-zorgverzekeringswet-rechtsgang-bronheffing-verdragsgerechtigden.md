@@ -1,51 +1,22 @@
 ---
 title: "Wet van 29 mei 2008 tot wijziging van de Zorgverzekeringswet in verband met de rechtsgang bij inhouding van de bijdrage van verdragsgerechtigden (rechtsgang bronheffing verdragsgerechtigden)"
+citeertitel: "Wijzigingswet Zorgverzekeringswet (rechtsgang bronheffing verdragsgerechtigden)"
 identifier: "BWBR0024178"
-country: "nl"
-rank: "wet"
-publication_date: "2008-08-01"
-last_updated: "2008-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024178"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "9651283"
-version_id: "15570912"
-internal_id: "C21235951"
-label_id: "9628304"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024178/2008-08-01/0"
-intitule_bron: "Stb.2008-277"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-05-29"
-intitule_published: "2008-07-17"
-intitule_in_force: "2008-07-17"
-intitule_status: "goed"
-original_publication: "Stb.2008-277"
-original_signed_date: "2008-05-29"
-original_published_date: "2008-07-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "31377"
-original_url_id: "stb-2008-277"
-entry_into_force_date: "2008-08-01"
-jci_1_3: "jci1.3:c:BWBR0024178&z=2008-08-01&g=2008-08-01"
-jci_1_0: "1.0:c:BWBR0024178&g=2008-08-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Zorgverzekeringswet (rechtsgang bronheffing verdragsgerechtigden)"
-signed_date: "2008-05-29"
-entry_into_force: "2008-08-01"
+publicatiedatum: 2008-08-01
+laatste_update: 2008-08-01
+status: geldig
+toestand: 2008-08-01
+bron: "https://wetten.overheid.nl/BWBR0024178"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 29 mei 2008 tot wijziging van de Zorgverzekeringswet in verband met de rechtsgang bij inhouding van de bijdrage van verdragsgerechtigden (rechtsgang bronheffing verdragsgerechtigden)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nadere regels te stellen voor de rechtsgang die is aangewezen ter zake van de inhouding van de bijdrage van verdragsgerechtigden;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel II
 
@@ -64,5 +35,3 @@ Wijzigt de Zorgverzekeringswet.
 ##### Artikel III
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

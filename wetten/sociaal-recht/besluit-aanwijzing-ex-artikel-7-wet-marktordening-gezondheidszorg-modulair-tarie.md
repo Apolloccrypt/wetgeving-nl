@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 oktober 2007, nr. MC-U-2805003, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake modulair tariefsysteem voor farmaceutische hulp"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (modulair tariefsysteem voor farmaceutische hulp)"
 identifier: "BWBR0022760"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2007-11-05"
-last_updated: "2007-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0022760"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9262103"
-version_id: "14857942"
-internal_id: "C20212641"
-label_id: "9240654"
-dtd_version: "2.0"
-original_entry_into_force: "2007-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0022760/2007-11-05/0"
-intitule_bron: "Stcrt.2007-214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-22"
-intitule_published: "2007-11-05"
-intitule_in_force: "2007-11-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-214"
-original_signed_date: "2007-10-22"
-original_published_date: "2007-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-214-p20-SC82778"
-entry_into_force_date: "2007-11-05"
-jci_1_3: "jci1.3:c:BWBR0022760&z=2007-11-05&g=2007-11-05"
-jci_1_0: "1.0:c:BWBR0022760&g=2007-11-05"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (modulair tariefsysteem voor farmaceutische hulp)"
-signed_date: "2007-10-22"
-entry_into_force: "2007-11-05"
+publicatiedatum: 2007-11-05
+laatste_update: 2007-11-05
+status: geldig
+toestand: 2007-11-05
+bron: "https://wetten.overheid.nl/BWBR0022760"
+opgehaald: 2026-08-12
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 oktober 2007, nr. MC-U-2805003, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake modulair tariefsysteem voor farmaceutische hulp
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken Tweede Kamer, 2006–2007, 29 359, nr. 101);
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,45 +1,17 @@
 ---
 title: "Regeling militaire steunverlening in het openbaar belang"
 identifier: "BWBR0023217"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-07-01"
-last_updated: "2014-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023217"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9363533"
-version_id: "15070262"
-internal_id: "C20539311"
-label_id: "9341814"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023217/2014-07-01/0"
-intitule_bron: "Stcrt.2008-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-19"
-intitule_published: "2008-01-04"
-intitule_in_force: "2008-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-3"
-original_signed_date: "2007-12-19"
-original_published_date: "2008-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-3-p15-SC83892"
-entry_into_force_date: "2008-01-06"
-jci_1_3: "jci1.3:c:BWBR0023217&z=2014-07-01&g=2014-07-01"
-jci_1_0: "1.0:c:BWBR0023217&g=2014-07-01"
-citeertitel_status: "officieel"
-signed_date: "2007-12-19"
-entry_into_force: "2008-01-06"
+publicatiedatum: 2008-01-06
+laatste_update: 2014-07-01
+status: geldig
+toestand: 2014-07-01
+bron: "https://wetten.overheid.nl/BWBR0023217"
+opgehaald: 2026-08-12
 ---
+
 # Regeling militaire steunverlening in het openbaar belang
-
-Handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Gelet op aanwijzing 24 van de Aanwijzingen voor het verrichten van marktactiviteiten door de Rijksoverheid;
-
-Besluit:
 
 ##### Artikel 1
 

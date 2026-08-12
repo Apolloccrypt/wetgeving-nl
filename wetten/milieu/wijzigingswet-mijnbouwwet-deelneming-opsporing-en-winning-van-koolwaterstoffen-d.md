@@ -1,51 +1,22 @@
 ---
 title: "Wet van 12 juni 2008 tot wijziging van de Mijnbouwwet in verband met nieuwe regels omtrent deelneming in de opsporing en winning van koolwaterstoffen door een daartoe aangewezen vennootschap en omtrent andere taken en activiteiten van die vennootschap"
+citeertitel: "Wijzigingswet Mijnbouwwet (deelneming opsporing en winning van koolwaterstoffen door daartoe aangewezen vennootschap)"
 identifier: "BWBR0024108"
-country: "nl"
-rank: "wet"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024108"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "9635403"
-version_id: "15541962"
-internal_id: "C21382201"
-label_id: "9612424"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024108/2011-01-01/0"
-intitule_bron: "Stb.2008-248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-12"
-intitule_published: "2008-07-03"
-intitule_in_force: "2008-08-07"
-intitule_status: "goed"
-original_publication: "Stb.2008-248"
-original_signed_date: "2008-06-12"
-original_published_date: "2008-07-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "31090"
-original_url_id: "stb-2008-248"
-entry_into_force_date: "2008-08-08"
-jci_1_3: "jci1.3:c:BWBR0024108&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0024108&g=2011-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Mijnbouwwet (deelneming opsporing en winning van koolwaterstoffen door daartoe aangewezen vennootschap)"
-signed_date: "2008-06-12"
-entry_into_force: "2008-08-08"
+publicatiedatum: 2008-08-08
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0024108"
+opgehaald: 2026-08-12
 ---
+
 # Wet van 12 juni 2008 tot wijziging van de Mijnbouwwet in verband met nieuwe regels omtrent deelneming in de opsporing en winning van koolwaterstoffen door een daartoe aangewezen vennootschap en omtrent andere taken en activiteiten van die vennootschap
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) wordt gewijzigd in verband met het stellen van nieuwe regels omtrent deelneming in de opsporing en winning van koolwaterstoffen door een daartoe aangewezen vennootschap en de andere taken en activiteiten van die vennootschap, alsmede in verband met de bevoegdheid ten aanzien van mergelgroeven;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
 ##### Artikel II
 
@@ -74,5 +45,3 @@ Wijzigt de Mijnbouwwet.
 ##### Artikel III
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

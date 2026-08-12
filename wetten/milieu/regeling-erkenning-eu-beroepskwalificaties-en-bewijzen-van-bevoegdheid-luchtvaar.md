@@ -1,39 +1,17 @@
 ---
 title: "Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking tot de luchtvaart en de erkenning van buitenlandse bewijzen van bevoegdheid voor luchtverkeersleiders (Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid voor de luchtvaart)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart"
 identifier: "BWBR0024135"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-23"
-last_updated: "2016-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024135"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "9641493"
-version_id: "15551302"
-internal_id: "C21204041"
-label_id: "9618634"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024135/2016-01-23/0"
-intitule_bron: "Stcrt.2008-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-30"
-intitule_published: "2008-07-08"
-intitule_in_force: "2008-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-129"
-original_signed_date: "2008-06-30"
-original_published_date: "2008-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-129-p15-SC86508"
-entry_into_force_date: "2008-07-10"
-jci_1_3: "jci1.3:c:BWBR0024135&z=2016-01-23&g=2016-01-23"
-jci_1_0: "1.0:c:BWBR0024135&g=2016-01-23"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart"
-signed_date: "2008-06-30"
-entry_into_force: "2008-07-10"
+publicatiedatum: 2008-07-10
+laatste_update: 2016-01-23
+status: geldig
+toestand: 2016-01-23
+bron: "https://wetten.overheid.nl/BWBR0024135"
+opgehaald: 2026-08-12
 ---
+
 # Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking tot de luchtvaart en de erkenning van buitenlandse bewijzen van bevoegdheid voor luchtverkeersleiders (Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid voor de luchtvaart)
 
 #### § 1. Algemene bepalingen
@@ -56,7 +34,7 @@ Deze regeling is van toepassing op
 
 - c. de erkenning van een bewijs van bevoegdheid, bedoeld in [artikel 2.8 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8).
 
-#### § 2. Erkenning EG-beroepskwalificaties
+#### § 2. Erkenning EU-beroepskwalificaties
 
 ##### Artikel 3
 
@@ -84,19 +62,15 @@ Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overh
 
 #### § 3. Erkenning bewijzen van bevoegdheid
 
-#### § 3. Erkenning bewijzen van bevoegdheid
-
-Gelet op [artikel 2.8 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8), [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en [richtlijn nr. 2006/23/EG](32006L0023) van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 inzake een communautaire vergunning van luchtverkeersleiders;
-
-Besluit:
-
-#### § 1. Algemene bepalingen
-
-#### § 2. Erkenning EU-beroepskwalificaties
-
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
+
+##### Artikel 7a
+
+1. Een bewijs van bevoegdheid als bedoeld in [artikel 3.30 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) dat onder het toepassingsbereik valt van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en is afgegeven door een lidstaat van de Europese Unie, de Europese Economische Ruimte of door Zwitserland, wordt door de Minister erkend.
+
+2. Een wijziging van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) gaat voor de toepassing van onderhavige regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 #### § 4. Slotbepalingen
 
@@ -111,15 +85,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart.
-
-Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-1. Een bewijs van bevoegdheid als bedoeld in [artikel 3.30 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) dat onder het toepassingsbereik valt van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en is afgegeven door een lidstaat van de Europese Unie, de Europese Economische Ruimte of door Zwitserland, wordt door de Minister erkend.
-
-2. Een wijziging van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) gaat voor de toepassing van onderhavige regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.

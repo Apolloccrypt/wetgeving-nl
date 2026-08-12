@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2007, nr. WJZ/2007/46896 (8228), houdende de behandeling van bezwaarschriften op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en wijziging van het Organisatie- en mandaatbesluit van OCW in dat verband (Regeling behandeling bezwaarschriften OCW)"
+citeertitel: "Regeling behandeling bezwaarschriften OCW"
 identifier: "BWBR0023195"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-06-01"
-last_updated: "2011-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023195"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "9359793"
-version_id: "15062332"
-internal_id: "C29383771"
-label_id: "9338104"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023195/2011-06-01/0"
-intitule_bron: "Stcrt.2008-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-18"
-intitule_published: "2008-01-03"
-intitule_in_force: "2008-01-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-2"
-original_signed_date: "2007-12-18"
-original_published_date: "2008-01-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2-p18-SC83845"
-entry_into_force_date: "2008-01-04"
-jci_1_3: "jci1.3:c:BWBR0023195&z=2011-06-01&g=2011-06-01"
-jci_1_0: "1.0:c:BWBR0023195&g=2011-06-01"
-citeertitel_status: "officieel"
-short_title: "Regeling behandeling bezwaarschriften OCW"
-signed_date: "2007-12-18"
-entry_into_force: "2008-01-04"
+publicatiedatum: 2008-01-04
+laatste_update: 2011-06-01
+status: geldig
+toestand: 2011-06-01
+bron: "https://wetten.overheid.nl/BWBR0023195"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2007, nr. WJZ/2007/46896 (8228), houdende de behandeling van bezwaarschriften op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en wijziging van het Organisatie- en mandaatbesluit van OCW in dat verband (Regeling behandeling bezwaarschriften OCW)
-
-Gelet op de [artikelen 7:2 tot en met 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -48,7 +22,7 @@ In deze regeling wordt verstaan onder:
 
 - b. ministerie: Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. vervallen;
+- c. *vervallen;*
 
 - d. bezwaar: bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
@@ -90,27 +64,27 @@ Deze regeling is van toepassing op te nemen beslissingen op bezwaarschriften op 
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Wijzigt het Organisatie- en mandaatbesluit OCW 2005.
+*Wijzigt het Organisatie- en mandaatbesluit OCW 2005.*
 
 ##### Artikel 12
 
@@ -119,5 +93,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2008. Indien de Staatsc
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling behandeling bezwaarschriften OCW.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website www.bezwaarschriftenocw.nl.

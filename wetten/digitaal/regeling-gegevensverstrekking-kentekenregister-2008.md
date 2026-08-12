@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels ten aanzien van de gegevensverstrekking uit het kentekenregister (Regeling gegevensverstrekking kentekenregister 2008)"
+citeertitel: "Regeling gegevensverstrekking kentekenregister 2008"
 identifier: "BWBR0024045"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024045"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9553803"
-version_id: "20967692"
-internal_id: "C30105261"
-label_id: "9530924"
-dtd_version: "2.0"
-original_entry_into_force: "2013-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024045/2026-01-01/0"
-intitule_bron: "Stcrt.2008-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-16"
-intitule_published: "2008-06-26"
-intitule_in_force: "2008-06-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-32739"
-original_signed_date: "2013-11-21"
-original_published_date: "2013-12-12"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-32739"
-entry_into_force_date: "2013-11-21"
-jci_1_3: "jci1.3:c:BWBR0024045&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0024045&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gegevensverstrekking kentekenregister 2008"
-signed_date: "2013-11-21"
-entry_into_force: "2013-11-21"
+publicatiedatum: 2013-11-21
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0024045"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels ten aanzien van de gegevensverstrekking uit het kentekenregister (Regeling gegevensverstrekking kentekenregister 2008)
-
-Gelet op [artikel 41a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a), en [45a, derde lid, van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=45a) en de [artikelen 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=14), en [16a, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=16a);
-
-Besluit:
 
 ##### Artikel 1. Aanwijzing overheidsorganen
 
@@ -80,7 +54,7 @@ De volgende instanties worden aangewezen als overheidsorgaan als bedoeld in [art
 
 - d. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806),
 
-- e. wat betreft fabrikanten en importeurs van in Nederland geregistreerde motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk: ten behoeve van het terugroepen van motorrijtuigen of aanhangwagens ingeval zich, naar het oordeel van deze partijen en de Dienst Wegverkeer, een gevaar voor de gezondheid van de mens of de veiligheid van de mens of zaken voordoet of voor kan doen en met de uitvoering van een terugroepactie niet gewacht kan worden tot regulier onderhoud, en
+- e. wat betreft fabrikanten en importeurs van in Nederland geregistreerde motorrijtuigen of aanhangwagens of van onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens met een ‘e-’, ‘E-’ of ‘NL-’goedkeurmerk: ten behoeve van het terugroepen van motorrijtuigen of aanhangwagens ingeval zich, naar het oordeel van deze partijen en de Dienst Wegverkeer, een gevaar voor de gezondheid van de mens of de veiligheid van de mens of zaken voordoet of voor kan doen en met de uitvoering van een terugroepactie niet gewacht kan worden tot regulier onderhoud, en
 
 - f. wat betreft houders van de erkenning voorbehoud en verplichtingen: gegevens ten behoeve van voertuigen in eigendom van het bedrijf waaraan een erkenning voorbehoud en verplichtingen is verleend, en waarover een aantekening, als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=17), in het kentekenregister is opgenomen.
 
@@ -98,9 +72,19 @@ Aan de door de Minister van Verkeer en Waterstaat aangewezen informatieproviders
 
 - c. de gegevens opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&bijlage=III&z=2026-01-01&g=2026-01-01) bij deze regeling ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2026-01-01&g=2026-01-01).
 
+##### Artikel 3a. Verstrekking aan belanghebbenden in geval van vervallenverklaring wegens onvrijwillig verlies voertuig
+
+1. Aan iedere belanghebbende kan het gegeven worden verstrekt dat een tenaamstelling vervallen is verklaard op grond van [artikel 40b, vierde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=40b).
+
+2. Verstrekking vindt plaats na opgave van een kenteken.
+
+##### Artikel 3b. Verstrekking aan erkende bedrijven van gegevens inzake tellerstanden
+
+Aan een bedrijf waaraan een erkenning bedrijfsvoorraad als bedoeld in [artikel 1 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=1) is verleend, kan de volledige reeks geregistreerde tellerstanden worden verstrekt van een motorrijtuig dat in de bedrijfsvoorraad van dat bedrijf is aangemeld.
+
 ##### Artikel 4. Voorwaarden voor verstrekking en regels voor gebruik
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. Tarief voor toezicht en inspectie
 
@@ -114,7 +98,7 @@ Vervallen
 
 ##### Artikel 6. Intrekking regeling en beleidsregels
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -123,113 +107,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2008.
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking kentekenregister 2008.
-
-## Bijlage I
-
-Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandkoming en instandhouding van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) voor verzekeringsmaatschappijen of hun gevolmachtigden, als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2008-07-01&g=2008-07-01), en [3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2008-07-01&g=2008-07-01), zijn aangewezen:
-
-- –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
-
-- –. kilometerstand bij keuring;
-
-- –. voertuigstatus;
-
-- –. begindatum voertuigstatus;
-
-- –. einddatum voertuigstatus;
-
-## Bijlage I
-
-Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandkoming en instandhouding van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) voor verzekeringsmaatschappijen of hun gevolmachtigden, als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2010-07-21&g=2010-07-21), en [3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2010-07-21&g=2010-07-21), zijn aangewezen:
-
-- –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
-
-- –. kilometerstand bij keuring;
-
-- –. voertuigstatus;
-
-- –. begindatum voertuigstatus;
-
-- –. einddatum voertuigstatus;
-
-## Bijlage I
-
-Als gevoelige gegevens die kunnen worden verstrekt ten behoeve van de totstandkoming en instandhouding van verzekeringen op grond van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415) voor verzekeringsmaatschappijen of hun gevolmachtigden, als bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=2&z=2026-01-01&g=2026-01-01), en [3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
-
-- –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
-
-- –. laatst geregistreerde tellerstand;
-
-- –. voertuigstatus;
-
-- –. begindatum voertuigstatus;
-
-- –. einddatum voertuigstatus;
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
-##### Artikel 3a. Verstrekking aan belanghebbenden in geval van vervallenverklaring wegens onvrijwillig verlies voertuig
-
-1. Aan iedere belanghebbende kan het gegeven worden verstrekt dat een tenaamstelling vervallen is verklaard op grond van [artikel 40b, vierde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=40b).
-
-2. Verstrekking vindt plaats na opgave van een kenteken.
-
-## Bijlage II
-
-Als gevoelige gegevens die kunnen worden verstrekt voor statistische doeleinden, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
-
-- –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
-
-- –. voertuigidentificatienummer;
-
-- –. meldcode;
-
-- –. duplicaatcode van het kentekenbewijs;
-
-- –. laatst geregistreerde tellerstand;
-
-- –. voertuigstatus;
-
-- –. begindatum voertuigstatus;
-
-- –. einddatum voertuigstatus;
-
-- –. numerieke deel van de postcode (4 posities);
-
-- –. Kamer van Koophandelnummer van rechtspersonen;
-
-- –. Kamer van Koophandelnummer van erkende bedrijven;
-
-- –. geslachtsaanduiding natuurlijke persoon (M/V);
-
-- –. geboortejaar natuurlijk persoon.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
-
-##### Artikel 3b. Verstrekking aan erkende bedrijven van gegevens inzake tellerstanden
-
-Aan een bedrijf waaraan een erkenning bedrijfsvoorraad als bedoeld in [artikel 1 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=1) is verleend, kan de volledige reeks geregistreerde tellerstanden worden verstrekt van een motorrijtuig dat in de bedrijfsvoorraad van dat bedrijf is aangemeld.
-
-## Bijlage III
-
-Als gevoelige gegevens die kunnen worden verstrekt voor voertuiginformatiesystemen ten behoeve van de voertuigbranche, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), en ten behoeve van informatiesystemen voor de totstandkoming en instandhouding van de verzekeringen ten aanzien van motorrijtuigen en aanhangwagens voor de verzekeraars of de door hen aangewezen gevolmachtigden, als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024045&artikel=3&z=2026-01-01&g=2026-01-01), zijn aangewezen:
-
-- –. kenteken in combinatie met één van de onderstaande gevoelige gegevens;
-
-- –. voertuigidentificatienummer;
-
-- –. meldcode;
-
-- –. duplicaatcode van het kentekenbewijs;
-
-- –. laatst geregistreerde tellerstand;
-
-- –. voertuigstatus;
-
-- –. begindatum voertuigstatus;
-
-- –. einddatum voertuigstatus;
-
-- –. Kamer van Koophandelnummer van erkende bedrijven.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst

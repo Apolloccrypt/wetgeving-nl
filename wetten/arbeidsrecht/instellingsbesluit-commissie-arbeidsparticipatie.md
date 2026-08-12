@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2008, nr. AV/IR/2008/1568, houdende instelling van de commissie Arbeidsparticipatie (Instellingsbesluit commissie Arbeidsparticipatie)"
+citeertitel: "Instellingsbesluit commissie Arbeidsparticipatie"
 identifier: "BWBR0023366"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-01-24"
-last_updated: "2008-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023366"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "9393413"
-version_id: "15119832"
-internal_id: "C20614771"
-label_id: "9370944"
-dtd_version: "2.0"
-original_entry_into_force: "2008-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023366/2008-01-24/0"
-intitule_bron: "Stcrt.2008-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-18"
-intitule_published: "2008-01-22"
-intitule_in_force: "2008-01-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-15"
-original_signed_date: "2008-01-18"
-original_published_date: "2008-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-15-p9-SC84185"
-entry_into_force_date: "2008-01-24"
-jci_1_3: "jci1.3:c:BWBR0023366&z=2008-01-24&g=2008-01-24"
-jci_1_0: "1.0:c:BWBR0023366&g=2008-01-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit commissie Arbeidsparticipatie"
-signed_date: "2008-01-18"
-entry_into_force: "2008-01-24"
+publicatiedatum: 2008-01-24
+laatste_update: 2008-01-24
+status: geldig
+toestand: 2008-01-24
+bron: "https://wetten.overheid.nl/BWBR0023366"
+opgehaald: 2026-08-12
 ---
-# Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2008, nr. AV/IR/2008/1568, houdende instelling van de commissie Arbeidsparticipatie (Instellingsbesluit commissie Arbeidsparticipatie)
 
-Besluit:
+# Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2008, nr. AV/IR/2008/1568, houdende instelling van de commissie Arbeidsparticipatie (Instellingsbesluit commissie Arbeidsparticipatie)
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -66,23 +42,23 @@ In de commissie hebben zitting:
 
 - a. als voorzitter:
 
-- –. drs.ir. P. Bakker (voorzitter van de Raad van Bestuur van TNT).
+   - – drs.ir. P. Bakker (voorzitter van de Raad van Bestuur van TNT).
 
 - b. als leden:
 
-- –. prof.dr. S. Klosse (hoogleraar sociaal recht Universiteit Maastricht);
+   - – prof.dr. S. Klosse (hoogleraar sociaal recht Universiteit Maastricht);
 
-- –. drs. J.W. Oosterwijk (voorzitter College van Bestuur Erasmus Universiteit);
+   - – drs. J.W. Oosterwijk (voorzitter College van Bestuur Erasmus Universiteit);
 
-- –. prof.dr. A.L. Bovenberg (wetenschappelijk directeur Netspar);
+   - – prof.dr. A.L. Bovenberg (wetenschappelijk directeur Netspar);
 
-- –. drs. R. de Groot (voorzitter Raad van Bestuur Centrale organisatie Werk en Inkomen);
+   - – drs. R. de Groot (voorzitter Raad van Bestuur Centrale organisatie Werk en Inkomen);
 
-- –. mr. A. Westerlaken (lid Raad van Bestuur Erasmus Medisch Centrum);
+   - – mr. A. Westerlaken (lid Raad van Bestuur Erasmus Medisch Centrum);
 
-- –. drs. D. Schrijer (wethouder werk, sociale zaken en grote stedenbeleid Rotterdam);
+   - – drs. D. Schrijer (wethouder werk, sociale zaken en grote stedenbeleid Rotterdam);
 
-- –. prof.dr. P. Ester (directeur Organisatie voor Strategisch Arbeidsmarktonderzoek).
+   - – prof.dr. P. Ester (directeur Organisatie voor Strategisch Arbeidsmarktonderzoek).
 
 ##### Artikel 5. Secretariaat en beheer bescheiden
 
@@ -107,5 +83,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie Arbeidsparticipatie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

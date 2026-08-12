@@ -1,45 +1,17 @@
 ---
 title: "Regeling experiment parallel starten"
 identifier: "BWBR0023609"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-03-13"
-last_updated: "2008-03-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0023609"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9447223"
-version_id: "15213132"
-internal_id: "C20730911"
-label_id: "9424754"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0023609/2008-03-13/0"
-intitule_bron: "Stcrt.2008-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-09"
-intitule_published: "2008-03-11"
-intitule_in_force: "2008-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-50"
-original_signed_date: "2008-03-09"
-original_published_date: "2008-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-50-p20-SC84882"
-entry_into_force_date: "2008-03-13"
-jci_1_3: "jci1.3:c:BWBR0023609&z=2008-03-13&g=2008-03-13"
-jci_1_0: "1.0:c:BWBR0023609&g=2008-03-13"
-citeertitel_status: "redactioneel"
-signed_date: "2008-03-09"
-entry_into_force: "2008-03-13"
+publicatiedatum: 2008-03-13
+laatste_update: 2008-03-13
+status: geldig
+toestand: 2008-03-13
+bron: "https://wetten.overheid.nl/BWBR0023609"
+opgehaald: 2026-08-12
 ---
+
 # Regeling experiment parallel starten
-
-Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -155,15 +127,15 @@ Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment leidt tot het beoogde doel:
 
-- –. De mate waarin de vaste uitvliegroute vanaf de Zwanenburgbaan (36C) gevlogen kan worden onafhankelijk van het weer of van gelijktijdig gebruik van de Polderbaan;
+- – De mate waarin de vaste uitvliegroute vanaf de Zwanenburgbaan (36C) gevlogen kan worden onafhankelijk van het weer of van gelijktijdig gebruik van de Polderbaan;
 
-- –. het zoveel mogelijk voorkomen van tijdelijke hinder gedurende het implementatietraject;
+- – het zoveel mogelijk voorkomen van tijdelijke hinder gedurende het implementatietraject;
 
-- –. het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
+- – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);
 
-- –. het effect op de veiligheid zowel intern als extern;
+- – het effect op de veiligheid zowel intern als extern;
 
-- –. het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
+- – het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
 ##### Artikel 8. Onvoorziene gevallen
 
@@ -176,5 +148,3 @@ De startdatum van dit experiment is 13 maart 2008 en het eindigt aan het einde v
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

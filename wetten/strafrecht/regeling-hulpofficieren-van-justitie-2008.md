@@ -1,44 +1,18 @@
 ---
 title: "Regeling van 9 juli 2008 van de Minister van Justitie, nr. 5552130/08, inhoudende de aanwijzing van hulpofficieren van Justitie"
+citeertitel: "Regeling hulpofficieren van justitie 2008"
 identifier: "BWBR0024263"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-27"
-last_updated: "2018-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024263"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9669093"
-version_id: "15604862"
-internal_id: "C21304831"
-label_id: "9646194"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024263/2018-02-27/0"
-intitule_bron: "Stcrt.2008-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-09"
-intitule_published: "2008-07-24"
-intitule_in_force: "2008-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-141"
-original_signed_date: "2008-07-09"
-original_published_date: "2008-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-141-p44-SC86717"
-entry_into_force_date: "2008-08-01"
-jci_1_3: "jci1.3:c:BWBR0024263&z=2018-02-27&g=2018-02-27"
-jci_1_0: "1.0:c:BWBR0024263&g=2018-02-27"
-citeertitel_status: "officieel"
-short_title: "Regeling hulpofficieren van justitie 2008"
-signed_date: "2008-07-09"
-entry_into_force: "2008-08-01"
+publicatiedatum: 2008-08-01
+laatste_update: 2018-02-27
+status: geldig
+toestand: 2018-02-27
+bron: "https://wetten.overheid.nl/BWBR0024263"
+opgehaald: 2026-08-12
 ---
+
 # Regeling van 9 juli 2008 van de Minister van Justitie, nr. 5552130/08, inhoudende de aanwijzing van hulpofficieren van Justitie
-
-Gelet op [artikel 154 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -103,5 +77,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2008.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling hulpofficieren van justitie 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
