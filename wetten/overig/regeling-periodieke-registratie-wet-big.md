@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de minister van Volksgezondheid, Welzijn en Sport van 18 maart 2009, MEVA/BO-2819721, houdende regels inzake de periodieke registratie op grond van de Wet op de beroepen in de individuele gezondheidszorg"
+citeertitel: "Regeling periodieke registratie Wet BIG"
 identifier: "BWBR0025605"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025605"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9965383"
-version_id: "30328732"
-internal_id: "C43504421"
-label_id: "9941744"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025605/2024-10-01/0"
-intitule_bron: "Stcrt.2009-65"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-18"
-intitule_published: "2009-04-03"
-intitule_in_force: "2009-04-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-30417"
-original_signed_date: "2024-09-13"
-original_published_date: "2024-09-20"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-30417"
-entry_into_force_date: "2024-09-13"
-jci_1_3: "jci1.3:c:BWBR0025605&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0025605&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling periodieke registratie Wet BIG"
-signed_date: "2024-09-13"
-entry_into_force: "2024-09-13"
+publicatiedatum: 2024-09-13
+laatste_update: 2024-10-01
+status: geldig
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0025605"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de minister van Volksgezondheid, Welzijn en Sport van 18 maart 2009, MEVA/BO-2819721, houdende regels inzake de periodieke registratie op grond van de Wet op de beroepen in de individuele gezondheidszorg
-
-Gelet op [artikel 8, tweede lid, onderdeel b, en zevende lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet:* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **register:** register, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+- b. *register:* register, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
 
-- c. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- c. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- d. **cliënt:** een ieder die zorg vraagt of aan wie zorg wordt verleend.
+- d. *cliënt:* een ieder die zorg vraagt of aan wie zorg wordt verleend.
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog, psychotherapeut physician assistant, orthopedagoog-generalist of klinisch technoloog. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog, psychotherapeut physician assistant, orthopedagoog-generalist of klinisch technoloog. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01).
 
-4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
+4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
 - a. de naam, de geboortedatum en indien aanwezig het BIG-registratienummer van de betrokkene;
 
@@ -78,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden,
 
-- a. worden verricht binnen de individuele gezondheidszorg, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), en
+- a. worden verricht binnen de individuele gezondheidszorg, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), en
 
 - b. vallen binnen het deskundigheidsgebied van het beroep, bedoeld in [hoofdstuk III van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III), waarvoor betrokkene is ingeschreven in een register, en op het verrichten waarvan de opleiding tot dat beroep, bedoeld bij of krachtens hoofdstuk III van de wet, is gericht.
 
@@ -137,56 +111,6 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 5. Het in het eerste lid, onderdeel d, genoemde aspect is zodanig ingericht dat de verpleegkundige in staat is tot het verlenen van basiszorg zowel op somatisch als op psychosociaal gebied, zoals het helpen van een cliënt bij persoonlijke verzorging, opname van voeding en vocht, uitscheiding, mobiliteit en het bewaken van vitale functies, het toedienen van medicijnen, het beïnvloeden van de lichaamstemperatuur en het verzorgen van wonden. Ook is een verpleegkundige in staat tot het uitvoeren van verpleegtechnische handelingen, zoals het geven van subcutane, intramusculaire en intraveneuze injecties, het verrichten van blaascatheterisaties bij volwassenen en venapuncties, het inbrengen van een maagsonde of infuus, het verrichten van een hielprik bij neonaten, het toedienen van zuurstof en het uitzuigen van mond- en keelholten. De verpleegkundige kan de vereiste basiszorg en verpleegtechnische handelingen efficiënt en met flexibiliteit uitvoeren.
 
 6. Het in het eerste lid, onderdeel e, genoemde aspect is zodanig ingericht dat een verpleegkundige in staat is om periodiek de effecten van de zorgverlening op de gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden. De verpleegkundige roept de beroepsbeoefenaar die de cliënt heeft toegewezen in consult, wanneer er sprake is van veranderingen in de zorgvraag of in de omgeving van de cliënt die de competentie of de verantwoordelijkheid van de verpleegkundige te boven gaan.
-
-##### Artikel 7
-
-1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de fysiotherapeut wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied fysiotherapie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut.
-
-2. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verloskundigen wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 4, eerste tot en met vijfde lid, van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=4) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verloskundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
-
-3. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verpleegkundige wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied verpleegkunde, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen verpleegkundige 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verpleegkundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van:
-
-- a. een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-- b. een van de navolgende door Stichting College Zorg Opleidingen te Utrecht erkende verpleegkundige vervolg opleidingen. Het betreft de opleiding tot: Ambulance verpleegkundige, Cardiac Care verpleegkundige, Dialyse verpleegkundige, Geriatrie verpleegkundige, Intensive Care verpleegkundige, Intensive Care Kinderverpleegkundige, Intensive Care Neonatologie verpleegkundige, Kinderverpleegkundige, Obstetrie verpleegkundige, Oncologie verpleegkundige, Recovery verpleegkundige en Spoedeisende Hulp verpleegkundige.
-
-4. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de arts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van competenties als bedoeld in [artikel 3 van het Besluit opleidingseisen arts](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van artsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-5. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de tandarts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in `de aspecten van de tandheelkundige beroepsuitoefening als bedoeld in [artikel 3 van het Besluit opleidingseisen tandarts](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van tandartsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-6. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de apotheker wordt aangewezen: het verzorgen van onderwijs in het centrale vakgebied farmacie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, tweede lid, van het Besluit opleidingseisen apotheker](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van apothekers bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-7. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van gezondheidszorgpsycholoog wordt aangewezen het verzorgen van onderwijs als bedoeld in :
-
-- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=3) en [4, tweede lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van gezondheidszorgpsychologen als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-- b. [artikel 5, tweede en derde lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit gezondheidszorgpsycholoog, dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
-
-8. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van psychotherapeut wordt aangewezen het verzorgen van onderwijs als bedoeld in:
-
-- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=3) en [4, tweede lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van psychotherapeuten bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
-
-- b. [artikel 5, tweede en derde lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit psychotherapeut.
-
-9. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van physician assistant wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 5 van het Besluit opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van physician assistant, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
-
-10. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van orthopedagoog-generalist wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheden in de competenties als bedoeld in:
-
-- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=4) en [5 van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=5), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van orthopedagogen-generalist, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
-
-- b. [artikel 6, tweede en derde lid, van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=6), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 6, eerste lid, van het Besluit opleidingseisen orthopedagoog-generalist.
-
-11. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van klinisch technoloog wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=3) en [4 van het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van klinisch technologen, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
-
-##### Artikel 8
-
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-##### Artikel 9
-
-Deze regeling wordt aangehaald als: Regeling periodieke registratie Wet BIG.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
@@ -308,14 +232,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. Het in het eerste lid, onderdeel e, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om periodiek de effecten van de psychotherapeutische behandelingen op de psychische gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van een van de in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemde beroepen, worden aangewezen de werkzaamheden die worden verricht ten behoeve van een beroepsgerelateerde promotie ter verkrijging van de graad Doctor.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 6f
 
 1. Voor het beroep van physician assistant gelden de volgende kerncompetenties en kernvaardigheden:
@@ -336,7 +252,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het in het eerste lid, onderdeel e, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de physician assistant in staat is een plan voor begeleiding op te stellen gericht op advies, voorlichting en verlenen van preventieve zorg.
 
-5. De kerncompetenties en kernvaardigheden, genoemd in het eerste lid, richten zich op vraagstukken rondom gezondheid en ziekte, bedoeld in [artikel 5 van het opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5).
+5. De kerncompetenties en kernvaardigheden, genoemd in het eerste lid, richten zich op vraagstukken rondom gezondheid en ziekte, bedoeld in [artikel 5 van het opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5).
 
 6. Bij de uitvoering van de in het eerste lid genoemde kerncompetenties en kernvaardigheden:
 
@@ -348,8 +264,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. betrekt de physician assistant de persoonlijke omstandigheden en voorkeuren van de cliënt en houdt de physician assistant rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 6g
 
 1. Voor het beroep van orthopedagoog-generalist gelden de volgende kerncompetenties en kernvaardigheden:
@@ -360,9 +274,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. het zelfstandig uitvoeren en evalueren van orthopedagogische behandeling en begeleiding ten aanzien van:
 
-- 1°. kinderen en jeugdigen en diegenen die betrokken zijn bij hun opvoeding en ontwikkeling; en
+   - 1°. kinderen en jeugdigen en diegenen die betrokken zijn bij hun opvoeding en ontwikkeling; en
 
-- 2°. volwassenen met een orthopedagogische zorgvraag en diegenen die betrokken zijn bij hun begeleiding en ontwikkeling;
+   - 2°. volwassenen met een orthopedagogische zorgvraag en diegenen die betrokken zijn bij hun begeleiding en ontwikkeling;
 
 - d. het coördineren van de behandelingen of aansturen van andere disciplines bij de diagnostiek en de behandelingen.
 
@@ -396,4 +310,54 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De in het eerste lid, onderdeel d en e, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de klinisch technoloog in staat is om een diagnose of behandelplan te bespreken met de cliënt, de familie of andere zorgverleners, en het behandelplan uit te voeren. Hierbij houdt de klinisch technoloog rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 7
+
+1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de fysiotherapeut wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied fysiotherapie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut.
+
+2. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verloskundigen wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 4, eerste tot en met vijfde lid, van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=4) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verloskundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+3. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de verpleegkundige wordt aangewezen het verzorgen van onderwijs in het centrale vakgebied verpleegkunde, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, eerste lid, van het Besluit opleidingseisen verpleegkundige 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van verpleegkundige, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van:
+
+- a. een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+- b. een van de navolgende door Stichting College Zorg Opleidingen te Utrecht erkende verpleegkundige vervolg opleidingen. Het betreft de opleiding tot: Ambulance verpleegkundige, Cardiac Care verpleegkundige, Dialyse verpleegkundige, Geriatrie verpleegkundige, Intensive Care verpleegkundige, Intensive Care Kinderverpleegkundige, Intensive Care Neonatologie verpleegkundige, Kinderverpleegkundige, Obstetrie verpleegkundige, Oncologie verpleegkundige, Recovery verpleegkundige en Spoedeisende Hulp verpleegkundige.
+
+4. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de arts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van competenties als bedoeld in [artikel 3 van het Besluit opleidingseisen arts](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van artsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+5. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de tandarts wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in `de aspecten van de tandheelkundige beroepsuitoefening als bedoeld in [artikel 3 van het Besluit opleidingseisen tandarts](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van tandartsen bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+6. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van de apotheker wordt aangewezen: het verzorgen van onderwijs in het centrale vakgebied farmacie, voor zover onderwijs gegeven wordt in de vakken genoemd in [artikel 3, tweede lid, van het Besluit opleidingseisen apotheker](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&artikel=3) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van apothekers bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+7. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van gezondheidszorgpsycholoog wordt aangewezen het verzorgen van onderwijs als bedoeld in :
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=3) en [4, tweede lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van gezondheidszorgpsychologen als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+- b. [artikel 5, tweede en derde lid, van het Besluit gezondheidszorgpsycholoog](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit gezondheidszorgpsycholoog, dan wel voor zover het onderwijs wordt gegeven in het kader van een specialistenopleiding, die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14).
+
+8. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van psychotherapeut wordt aangewezen het verzorgen van onderwijs als bedoeld in:
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=3) en [4, tweede lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van psychotherapeuten bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+- b. [artikel 5, tweede en derde lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit psychotherapeut.
+
+9. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van physician assistant wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 5 van het Besluit opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van physician assistant, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+10. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van orthopedagoog-generalist wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheden in de competenties als bedoeld in:
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=4) en [5 van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=5), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van orthopedagogen-generalist, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+
+- b. [artikel 6, tweede en derde lid, van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=6), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 6, eerste lid, van het Besluit opleidingseisen orthopedagoog-generalist.
+
+11. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van klinisch technoloog wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=3) en [4 van het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van klinisch technologen, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+##### Artikel 7a
+
+1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van een van de in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemde beroepen, worden aangewezen de werkzaamheden die worden verricht ten behoeve van een beroepsgerelateerde promotie ter verkrijging van de graad Doctor.
+
+##### Artikel 8
+
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+##### Artikel 9
+
+Deze regeling wordt aangehaald als: Regeling periodieke registratie Wet BIG.

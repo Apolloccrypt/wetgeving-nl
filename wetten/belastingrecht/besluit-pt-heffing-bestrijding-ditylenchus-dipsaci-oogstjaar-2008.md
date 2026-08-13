@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw d.d. 11 november 2008, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008)"
+citeertitel: "Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008"
 identifier: "BWBR0025212"
-country: "nl"
-rank: "pbo"
-publication_date: "2008-11-30"
-last_updated: "2008-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025212"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9886373"
-version_id: "16138432"
-internal_id: "C22147931"
-label_id: "9862784"
-original_entry_into_force: "2008-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025212/2008-11-30/0"
-intitule_bron: "Vbbo.2009-11"
-intitule_effect: "wijziging"
-intitule_signed: "2008-11-11"
-intitule_published: "2009-02-06"
-intitule_in_force: "2009-02-06"
-intitule_status: "goed"
-original_publication: "Vbbo.2009-11"
-original_signed_date: "2008-11-11"
-original_published_date: "2009-02-06"
-original_effect: "wijziging"
-entry_into_force_date: "2008-11-30"
-jci_1_3: "jci1.3:c:BWBR0025212&z=2008-11-30&g=2008-11-30"
-jci_1_0: "1.0:c:BWBR0025212&g=2008-11-30"
-citeertitel_status: "officieel"
-short_title: "Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008"
-signed_date: "2008-11-11"
-entry_into_force: "2008-11-30"
+publicatiedatum: 2008-11-30
+laatste_update: 2008-11-30
+status: geldig
+toestand: 2008-11-30
+bron: "https://wetten.overheid.nl/BWBR0025212"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 11 november 2008, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008)
-
-gelet op [artikel 2 van de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024348&artikel=2);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 30 september 2008.
-
-Besluit:
 
 ##### Artikel 1
 

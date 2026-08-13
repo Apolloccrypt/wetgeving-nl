@@ -8,7 +8,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0030540"
-opgehaald: 2026-08-12
+opgehaald: 2026-08-13
 ---
 
 # Deelregeling internationaliseringssubsidies Fonds Podiumkunsten

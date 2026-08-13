@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 maart 2009, nr. TRCJZ/2009/921, houdende vaststelling van de vergoeding voor de leden van de kamers voor het kwekersrecht"
+citeertitel: "Regeling vergoeding deskundige leden kamers voor het kwekersrecht"
 identifier: "BWBR0025665"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025665"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9975873"
-version_id: "16290302"
-internal_id: "C22343731"
-label_id: "9952114"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025665/2020-01-01/0"
-intitule_bron: "Stcrt.2009-68"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-31"
-intitule_published: "2009-04-08"
-intitule_in_force: "2009-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-68"
-original_signed_date: "2009-03-31"
-original_published_date: "2009-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-5273"
-entry_into_force_date: "2009-04-10"
-jci_1_3: "jci1.3:c:BWBR0025665&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0025665&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vergoeding deskundige leden kamers voor het kwekersrecht"
-signed_date: "2009-03-31"
-entry_into_force: "2009-04-10"
+publicatiedatum: 2009-04-10
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0025665"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 maart 2009, nr. TRCJZ/2009/921, houdende vaststelling van de vergoeding voor de leden van de kamers voor het kwekersrecht
-
-Gelet op [artikel 81 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,7 +28,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Voor een plaatselijke bezichtiging, waaraan wordt deelgenomen krachtens opdracht van de kamer voor het kwekersrecht, wordt aan de deskundige leden van de kamer voor het kwekersrecht van de rechtbank, bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), en hun plaatsvervangers, een vergoeding toegekend van € 20,45 per uur en aan de deskundige leden van de kamer voor het kwekersrecht van het gerechtshof, bedoeld in [artikel 70, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en hun plaatsvervangers een vergoeding van € 22,73 per uur.
+1. Voor een plaatselijke bezichtiging, waaraan wordt deelgenomen krachtens opdracht van de kamer voor het kwekersrecht, wordt aan de deskundige leden van de kamer voor het kwekersrecht van de rechtbank, bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), en hun plaatsvervangers, een vergoeding toegekend van € 20,45 per uur en aan de deskundige leden van de kamer voor het kwekersrecht van het gerechtshof, bedoeld in [artikel 70, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en hun plaatsvervangers een vergoeding van € 22,73 per uur.
 
 2. Bij de berekening van deze vergoeding wordt de tijdsduur van de reis mede in aanmerking genomen.
 
@@ -73,5 +47,3 @@ Deze regeling wordt aangehaald als: Regeling vergoeding deskundige leden kamers 
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

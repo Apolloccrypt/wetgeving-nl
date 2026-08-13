@@ -1,38 +1,16 @@
 ---
 title: "Regeling vervoer gevaarlijke stoffen met zeeschepen"
 identifier: "BWBR0025770"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025770"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9997263"
-version_id: "16349522"
-internal_id: "C22440651"
-label_id: "9973784"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025770/2025-07-01/0"
-intitule_bron: "Stcrt.2008-235"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-24"
-intitule_published: "2008-12-03"
-intitule_in_force: "2008-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-235"
-original_signed_date: "2008-11-24"
-original_published_date: "2008-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1258"
-entry_into_force_date: "2008-12-05"
-jci_1_3: "jci1.3:c:BWBR0025770&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0025770&g=2025-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-11-24"
-entry_into_force: "2008-12-05"
+publicatiedatum: 2008-12-05
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0025770"
+opgehaald: 2026-08-13
 ---
+
 # Regeling vervoer gevaarlijke stoffen met zeeschepen
 
 #### Paragraaf 1. Algemene bepalingen
@@ -41,61 +19,61 @@ entry_into_force: "2008-12-05"
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegde plaatselijke autoriteit:** de autoriteit aangeduid in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=1&z=2025-07-01&g=2025-07-01);
+- a. *bevoegde plaatselijke autoriteit:* de autoriteit aangeduid in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&bijlage=1&z=2025-07-01&g=2025-07-01);
 
-- b. **IMO:** de Internationale Maritieme Organisatie van de Verenigde Naties;
+- b. *IMO:* de Internationale Maritieme Organisatie van de Verenigde Naties;
 
-- c. **SOLAS:** het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag);
+- c. *SOLAS:* het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag);
 
-- d. **MARPOL:** het op 2 november 1973 te Londen totstandgekomen Verdrag ter voorkoming van verontreiniging door schepen, met protocollen en bijlagen (Trb. 1975, 147 en 1978, 187) (MARPOL-verdrag);
+- d. *MARPOL:* het op 2 november 1973 te Londen totstandgekomen Verdrag ter voorkoming van verontreiniging door schepen, met protocollen en bijlagen (Trb. 1975, 147 en 1978, 187) (MARPOL-verdrag);
 
-- e. **IMDG-Code:** de IMO Code voor het vervoer van verpakte gevaarlijke stoffen over zee (International Maritime Dangerous Goods Code), bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag;
+- e. *IMDG-Code:* de IMO Code voor het vervoer van verpakte gevaarlijke stoffen over zee (International Maritime Dangerous Goods Code), bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag;
 
-- f. **GC-Code:** de bij resolutie A.328(IX) van de Algemene vergadering van de IMO aangenomen Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (Gas Carrier Code);
+- f. *GC-Code:* de bij resolutie A.328(IX) van de Algemene vergadering van de IMO aangenomen Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (Gas Carrier Code);
 
-- g. **IMSBC-Code:** de bij resolutie MSC.268(85) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie van de Verenigde Naties aangenomen Internationale Maritieme Code voor het vervoer van vaste lading in bulk (International Maritime Solid Bulk Cargoes Code);
+- g. *IMSBC-Code:* de bij resolutie MSC.268(85) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie van de Verenigde Naties aangenomen Internationale Maritieme Code voor het vervoer van vaste lading in bulk (International Maritime Solid Bulk Cargoes Code);
 
-- h. **IGC-Code:** de bij resolutie MSC.5(48) van de Maritieme Veiligheidscommissie van de IMO aangenomen Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (International Gas Carrier Code) (van toepassing op tankers gebouwd op of na 1 juli 1986);
+- h. *IGC-Code:* de bij resolutie MSC.5(48) van de Maritieme Veiligheidscommissie van de IMO aangenomen Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (International Gas Carrier Code) (van toepassing op tankers gebouwd op of na 1 juli 1986);
 
-- i. **BCH-Code:** de bij resolutie MEPC.20(22) van de Mariene Milieucommissie van de IMO aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (Bulk Chemical Code);
+- i. *BCH-Code:* de bij resolutie MEPC.20(22) van de Mariene Milieucommissie van de IMO aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (Bulk Chemical Code);
 
-- j. **IBC-Code:** de bij resolutie MSC.4(48) van de Maritieme Veiligheidscommissie van de IMO aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (International Bulk Chemical Code) (van toepassing op chemicaliën tankers gebouwd op of na 1 juli 1986);
+- j. *IBC-Code:* de bij resolutie MSC.4(48) van de Maritieme Veiligheidscommissie van de IMO aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (International Bulk Chemical Code) (van toepassing op chemicaliën tankers gebouwd op of na 1 juli 1986);
 
-- k. **gevaarlijke stoffen:** stoffen vallende onder de voorschriften van:
+- k. *gevaarlijke stoffen:* stoffen vallende onder de voorschriften van:
 
-- –. de GC-Code;
+   - – de GC-Code;
 
-- –. de IGC-Code;
+   - – de IGC-Code;
 
-- –. de BCH-Code;
+   - – de BCH-Code;
 
-- –. de IBC-Code;
+   - – de IBC-Code;
 
-- –. de IMDG-Code;
+   - – de IMDG-Code;
 
-- –. de IMSBC-Code;
+   - – de IMSBC-Code;
 
-- –. Annex I van MARPOL;
+   - – Annex I van MARPOL;
 
-- –. Annex II van MARPOL; of
+   - – Annex II van MARPOL; of
 
-- –. Annex III van MARPOL.
+   - – Annex III van MARPOL.
 
-- l. **VN-nummer:** identificatienummer door de Verenigde Naties toegekend aan een stof of voorwerp of aan een groep van stoffen of voorwerpen en dat is opgenomen in de VN-aanbevelingen, met de daarbij behorende bijlage inzake het vervoer van gevaarlijke stoffen;
+- l. *VN-nummer:* identificatienummer door de Verenigde Naties toegekend aan een stof of voorwerp of aan een groep van stoffen of voorwerpen en dat is opgenomen in de VN-aanbevelingen, met de daarbij behorende bijlage inzake het vervoer van gevaarlijke stoffen;
 
-- m. **subklasse:** een nadere onderverdeling van een bepaalde gevarenklasse in de IMDG-Code;
+- m. *subklasse:* een nadere onderverdeling van een bepaalde gevarenklasse in de IMDG-Code;
 
-- n. **zeeschip:** een schip bestemd tot of daadwerkelijk gebruikt voor de vaart op zee;
+- n. *zeeschip:* een schip bestemd tot of daadwerkelijk gebruikt voor de vaart op zee;
 
-- o. **tankschip:** een zeeschip dat is gebouwd of geschikt is gemaakt voor het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk en dat een dergelijke lading daadwerkelijk vervoert, of dat met gevaarlijke stoffen in vloeibare vorm in bulk die brandbaar, giftig of bijtend zijn, beladen is geweest en waarvoor door een gasdeskundige, zijnde een persoon die in het bezit is van een certificaat van bekwaamheid gasdeskundige dat is afgegeven door de Minister van Sociale Zaken en Werkgelegenheid of door een certificerende instelling, of door of vanwege de bevoegde Belgische autoriteit, geen verklaring is verstrekt, waaruit blijkt dat het schip vrij is van ladingresten of dat in het schip aanwezige ladingresten geen gevaar opleveren;
+- o. *tankschip:* een zeeschip dat is gebouwd of geschikt is gemaakt voor het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk en dat een dergelijke lading daadwerkelijk vervoert, of dat met gevaarlijke stoffen in vloeibare vorm in bulk die brandbaar, giftig of bijtend zijn, beladen is geweest en waarvoor door een gasdeskundige, zijnde een persoon die in het bezit is van een certificaat van bekwaamheid gasdeskundige dat is afgegeven door de Minister van Sociale Zaken en Werkgelegenheid of door een certificerende instelling, of door of vanwege de bevoegde Belgische autoriteit, geen verklaring is verstrekt, waaruit blijkt dat het schip vrij is van ladingresten of dat in het schip aanwezige ladingresten geen gevaar opleveren;
 
-- p. **Belgiëvaarder:** een zeeschip en een tankschip die, tenzij nautische omstandigheden daartoe noodzaken, zonder een haven, overlaadplaats, ankerplaats of wachtplaats in Nederland aan te doen, zonder dat er laad-, los- of bunkerhandelingen worden verricht en zonder dat er sprake is van het schoonmaken, gasvrijmaken of spoelen van tanks, varen:
+- p. *Belgiëvaarder:* een zeeschip en een tankschip die, tenzij nautische omstandigheden daartoe noodzaken, zonder een haven, overlaadplaats, ankerplaats of wachtplaats in Nederland aan te doen, zonder dat er laad-, los- of bunkerhandelingen worden verricht en zonder dat er sprake is van het schoonmaken, gasvrijmaken of spoelen van tanks, varen:
 
-- –. van zee, over de Westerschelde of door het Kanaal van Gent naar Terneuzen, naar België, of
+   - – van zee, over de Westerschelde of door het Kanaal van Gent naar Terneuzen, naar België, of
 
-- –. van België, over de Westerschelde of door het Kanaal van Gent naar Terneuzen, naar zee, of
+   - – van België, over de Westerschelde of door het Kanaal van Gent naar Terneuzen, naar zee, of
 
-- –. van België, over de Westerschelde en door het Kanaal van Gent naar Terneuzen, naar België.
+   - – van België, over de Westerschelde en door het Kanaal van Gent naar Terneuzen, naar België.
 
 ##### Artikel 2. Reikwijdte
 
@@ -127,9 +105,13 @@ De kapitein van een zeeschip of een tankschip is verantwoordelijk voor de nalevi
 
 #### Paragraaf 2. Vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip niet zijnde een tankschip
 
-##### Artikel 6. In acht nemen IMDG-Code, IMSBC-Code, [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) en [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
+##### Artikel 6. In acht nemen IMDG-Code, IMSBC-Code, Schepenbesluit 2004 en Wet voorkoming verontreiniging door schepen
 
 De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde handelingen worden, voor wat het vervoer van gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk met een zeeschip betreft, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, of door degene die verantwoordelijk is voor de belading van een container of een vrachtwagen die met een zeeschip wordt vervoerd, verricht met inachtneming van de bepalingen van de IMDG-Code, dan wel de bepalingen van de IMSBC-Code, en voor een zeeschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren met inachtneming van het bepaalde bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of bij of krachtens de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642).
+
+##### Artikel 6a. Vervoersverbod en andere maatregelen
+
+Indien de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde handelingen niet worden verricht overeenkomstig de bepalingen van de IMDG-Code, kan de Minister het vervoer van de betrokken lading verbieden, onderbreken of andere maatregelen voorschrijven, tot de vastgestelde gebreken zijn opgeheven. Het onderbreken van het vervoer van de desbetreffende lading kan ter plekke geschieden of op een andere door de Minister op grond van veiligheidsoverwegingen aangewezen plaats.
 
 ##### Artikel 7. Verpakking die niet aan de eisen voldoet
 
@@ -221,7 +203,7 @@ Een zeeschip dat gevaarlijke stoffen in verpakte vorm of vaste vorm in bulk aan 
 
 De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [10, onderdelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op een tankschip.
 
-##### Artikel 15. In acht nemen GC-Code, IGC-Code, BCH-Code en IBC-Code, [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) en [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
+##### Artikel 15. In acht nemen GC-Code, IGC-Code, BCH-Code en IBC-Code, Schepenbesluit 2004 en Wet voorkoming verontreiniging door schepen
 
 1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde handelingen worden, voor wat betreft het vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip, door de kapitein, de agent, de rompbevrachter, de afzender of diens agent, ieder voor dat deel van de vervoersketen waarvoor hij in het maatschappelijk verkeer verantwoordelijk is, verricht met inachtneming van de bepalingen van de GC-Code, de IGC-Code, de BCH-Code en de IBC-Code, en voor een tankschip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren tevens met inachtneming van het bij of krachtens het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642) daarenboven bepaalde.
 
@@ -260,103 +242,3 @@ De [artikelen 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&pa
 ##### Artikel 20. Verbinden voorschriften of beperkingen aan toestemming
 
 Aan een in deze regeling bedoelde toestemming kunnen door de bevoegde plaatselijke autoriteit voorschriften of beperkingen worden verbonden.
-
-## Bijlage 1. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2013-03-15&g=2013-03-15), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
-
-De bevoegde plaatselijke autoriteit, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2013-03-15&g=2013-03-15), is:
-
-- 1. De havenmeester van de gemeente of het havenschap, binnen welks beheersgebied de desbetreffende haven, overlaadplaats of ankerplaats is gelegen;
-
-- 2. Voor schepen die zich niet in een haven, op een overlaadplaats of ankerplaats bevinden: de hoofdingenieur-directeur van Rijkswaterstaat binnen wiens beheersgebied het riviergedeelte ligt waarop het schip zich bevindt;
-
-- 3. Voor schepen op de Westerschelde en voor de op de Westerschelde en in het Kanaal van Gent naar Terneuzen bij het rijk in beheer zijnde anker-, overlaad-, los-, en wachtplaatsen, alsmede de sluizen te Terneuzen: de Rijkshavenmeester Westerschelde als bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
-
-- 4. Voor de bij de gemeente Rotterdam in beheer zijnde riviergedeelten, havens, overlaadplaatsen en ankerplaatsen: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;
-
-- 5. Voor ten anker komende en liggende schepen in de Waddenzee en op de Eems: de hoofdingenieur-directeur van Rijkswaterstaat Noord-Nederland;
-
-- 6. Voor de bij het Havenschap Moerdijk in beheer zijnde havens, overlaadplaatsen en ankerplaatsen: de havenmeester van het Havenschap Moerdijk;
-
-- 7. Voor het Noordzeekanaalgebied met inbegrip van de Noordzeesluizen tot en met het afgesloten IJ: de directeur-generaal Rijkswaterstaat;
-
-- 8. Voor IJmuiden: voor de hoogovenhavens, de 1e, 2e en 3e Rijksbinnenhaven, de kade van de papierfabriek van Gelder, de Vissershaven en de Haringhaven: de burgemeester van de gemeente Velsen.
-
-## Bijlage 1. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
-
-De bevoegde plaatselijke autoriteit, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), is:
-
-- 1. De havenmeester van de gemeente of het havenschap, binnen welks beheersgebied de desbetreffende haven, overlaadplaats of ankerplaats is gelegen;
-
-- 2. Voor schepen die zich niet in een haven, op een overlaadplaats of ankerplaats bevinden: de hoofdingenieur-directeur van Rijkswaterstaat binnen wiens beheersgebied het riviergedeelte ligt waarop het schip zich bevindt;
-
-- 3. Voor schepen op de Westerschelde en voor de op de Westerschelde en in het Kanaal van Gent naar Terneuzen bij het rijk in beheer zijnde anker-, overlaad-, los-, en wachtplaatsen, alsmede de sluizen te Terneuzen: de Rijkshavenmeester Westerschelde als bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=2);
-
-- 4. Voor de bij de gemeente Rotterdam in beheer zijnde riviergedeelten, havens, overlaadplaatsen en ankerplaatsen: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;
-
-- 5. Voor ten anker komende en liggende schepen in de Waddenzee en op de Eems: de hoofdingenieur-directeur van Rijkswaterstaat Noord-Nederland;
-
-- 6. Voor de bij het Havenschap Moerdijk in beheer zijnde havens, overlaadplaatsen en ankerplaatsen: de havenmeester van het Havenschap Moerdijk;
-
-- 7. Voor het Noordzeekanaalgebied met inbegrip van de Noordzeesluizen tot en met het afgesloten IJ: de directeur-generaal Rijkswaterstaat;
-
-- 8. Voor IJmuiden: voor de hoogovenhavens, de 1e, 2e en 3e Rijksbinnenhaven, de kade van de papierfabriek van Gelder, de Vissershaven en de Haringhaven: de burgemeester van de gemeente Velsen.
-
-##### Artikel 6a. Vervoersverbod en andere maatregelen
-
-Indien de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde handelingen niet worden verricht overeenkomstig de bepalingen van de IMDG-Code, kan de Minister het vervoer van de betrokken lading verbieden, onderbreken of andere maatregelen voorschrijven, tot de vastgestelde gebreken zijn opgeheven. Het onderbreken van het vervoer van de desbetreffende lading kan ter plekke geschieden of op een andere door de Minister op grond van veiligheidsoverwegingen aangewezen plaats.
-
-#### Paragraaf 3. Vervoer van gevaarlijke stoffen in vloeibare vorm in bulk met een tankschip
-
-#### Paragraaf 4. Belgiëvaarders
-
-#### Paragraaf 5. Slotbepalingen
-
-## Bijlage 2. bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025770&paragraaf=3&artikel=15&z=2025-07-01&g=2025-07-01), van de Regeling vervoer gevaarlijke stoffen met zeeschepen
-
-Criteria voor vloeibaar gemaakte gassen die niet mogen worden vervoerd.
-
-In deze bijlage wordt verstaan onder:
-
-- **Tkrit:** kritische temperatuur bij atmosferische druk, uitgedrukt in graden Kelvin;
-
-- **Tkook:** kookpunt bij atmosferische druk, uitgedrukt in graden Kelvin;
-
-- **LC50:** LC50 inhalatie rat bij 1 uur blootstelling, uitgedrukt in deeltjes per miljoen (ppm).
-
-Vloeibaar gemaakte gassen waarvoor de volgende criteria van toepassing zijn, worden niet vervoerd:
-
-- a. Tkrit < 440, Tkook < 273, en LC50 < 103 ppm;
-
-- b. 400 < Tkrit < 440, 253 < Tkook < 273 en LC50 < 104 ppm;
-
-- c. 293 < Tkrit < 400, 182 < Tkook < 253, en LC50 < 5 .105 ppm.
-
-Dit zijn in ieder geval de volgende vloeibaar gemaakte gassen:
-
-| VN nr. | Stofnaam |
-| --- | --- |
-| 1017 | Chloor |
-| 1026 | Dicyaan |
-| 1032 | Dimethylamine, watervrij |
-| 1048 | Waterstofbromide, watervrij |
-| 1050 | Waterstofchloride, watervrij |
-| 1053 | Waterstofsulphide (zwavelwaterstof) |
-| 1061 | Methylamine, watervrij |
-| 1067 | Distikstoftetroxide |
-| 1069 | Nitrosylchloride |
-| 1076 | Fosgeen |
-| 1079 | Zwaveldioxide |
-| 1082 | Chloortrifluorethyleen |
-| 1083 | Trimethylamine, watervrij |
-| 1589 | Cyaanchloride |
-| 2188 | Arseenwaterstof |
-| 2189 | Dichloorsilaan |
-| 2192 | Germaanwaterstof |
-| 2196 | Wolfraamhexafluoride |
-| 2197 | Waterstofjodide |
-| 2199 | Fosforwaterstof (fosfine) |
-| 2202 | Waterstofselenide, watervrij |
-| 2204 | Carbonylsulfide |
-| 2418 | Zwaveltretrafluoride |
-| 2534 | Methylchloorsilaan |
-| 2676 | Antimoonwaterstof (stibine) |

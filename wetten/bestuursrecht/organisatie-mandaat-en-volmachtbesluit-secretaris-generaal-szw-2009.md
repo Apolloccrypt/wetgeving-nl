@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 december 2008, nr. BSG/2008/35059, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de secretaris-generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit secretaris-generaal 2009)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009"
 identifier: "BWBR0024991"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-16"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024991"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9833683"
-version_id: "30677312"
-internal_id: "C43979151"
-label_id: "9810334"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024991/2026-04-16/0"
-intitule_bron: "Stcrt.2008-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-09"
-intitule_published: "2008-12-24"
-intitule_in_force: "2008-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-11678"
-original_signed_date: "2025-03-26"
-original_published_date: "2025-04-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-11678"
-entry_into_force_date: "2025-03-26"
-jci_1_3: "jci1.3:c:BWBR0024991&z=2026-04-16&g=2026-04-16"
-jci_1_0: "1.0:c:BWBR0024991&g=2026-04-16"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009"
-signed_date: "2025-03-26"
-entry_into_force: "2025-03-26"
+publicatiedatum: 2025-03-26
+laatste_update: 2026-04-16
+status: geldig
+toestand: 2026-04-16
+bron: "https://wetten.overheid.nl/BWBR0024991"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 december 2008, nr. BSG/2008/35059, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de secretaris-generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit secretaris-generaal 2009)
-
-Gelet op de [artikelen 4, vierde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=4), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bewindspersoon:** de Minister van Sociale Zaken en Werkgelegenheid of de Minister van Werk en Participatie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* de Minister van Sociale Zaken en Werkgelegenheid of de Minister van Werk en Participatie, afhankelijk van wie het aangaat;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2026-04-16&g=2026-04-16);
+- b. *directie:* een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2026-04-16&g=2026-04-16);
 
-- c. **directeur:** een functionaris die leiding geeft aan een directie;
+- c. *directeur:* een functionaris die leiding geeft aan een directie;
 
-- d. **RCN:** Rijksdienst Caribisch Nederland.
+- d. *RCN:* Rijksdienst Caribisch Nederland.
 
 #### § 2. Organisatie
 
@@ -106,11 +80,11 @@ Onder de secretaris-generaal ressorteren:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
@@ -150,6 +124,18 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 2. In afwijking van het eerste lid, onderdeel e, is de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden niet verantwoordelijk voor het behandelen van bezwaar- en beroepszaken, die betrekking hebben op besluiten die door de RCN-unit SZW, gevestigd te Bonaire, Sint Eustatius en Saba, namens de bewindspersoon zijn genomen.
 
+##### Artikel 8a
+
+De directie Bestuursondersteuning is verantwoordelijk voor:
+
+- a. inhoudelijk advies en ondersteuning bieden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie;
+
+- b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de secretaris-generaal en de politieke leiding van het ministerie;
+
+- c. de coördinatie van de crisisbeheersing binnen het ministerie en de daarmee verband houdende secretariële ondersteuning;
+
+- d. het bieden van ondersteuning aan de verschillende directies van SZW om innovatie toe te passen, zodat de inhoudelijke doelstellingen van het ministerie beter bereikt kunnen worden, alsmede het bieden van ondersteuning op het gebied van praktijkgericht werken.
+
 #### § 4. Bevoegdheden directeuren
 
 ##### Artikel 9
@@ -166,7 +152,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -174,7 +160,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 - c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. overeenkomsten met betrekking tot raden en commissies;
 
@@ -194,11 +180,11 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 3. De directeur Financieel Economische Zaken is bevoegd tot het aangaan van:
 
-- a. overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 1.000.000,–; en
+- a. overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 1.000.000,–; en
 
 - b. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening die het verzamelen, bewerken en leveren van beleidsinformatie betreffen, voor zover deze informatie primair bedoeld is voor ramingen en verdeelmodellen, dan wel verband houdt met verplichtingen die voortvloeien uit de Regeling Prestatiegegevens en Evaluatieonderzoek Rijksoverheid zoals opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid of met verplichtingen die voortvloeien uit internationale verdragen.
 
-4. De directeur Financieel Economische Zaken is voorts bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de voorlopige buiteninvorderingstelling van vorderingen op derden, de definitieve buiteninvorderingstelling van vorderingen op derden en de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–.
+4. De directeur Financieel Economische Zaken is voorts bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de voorlopige buiteninvorderingstelling van vorderingen op derden, de definitieve buiteninvorderingstelling van vorderingen op derden en de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–.
 
 5. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is bevoegd tot het aangaan van overeenkomsten met de Landsadvocaat en andere juridische dienstverleners inzake advisering en procureurstelling alsmede het instellen van gerechtelijke procedures, voor zover het niet betreft gerechtelijke procedures van (ex-)medewerkers inzake aangelegenheden verband houdend met de dienstbetrekking en voor zover het niet betreft de invordering van geldvorderingen van de Staat.
 
@@ -216,7 +202,25 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 9. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van een beslissing op een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-10. De directeur Bestuursondersteuning is bevoegd om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
+10. De directeur Bestuursondersteuning is bevoegd om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
+
+#### § 4a. Bevoegdheden plaatsvervangend secretaris-generaal en plaatsvervanging
+
+##### Artikel 10a
+
+1. De plaatsvervangend secretaris-generaal is bevoegd om op te treden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad Kerndepartement.
+
+2. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal treedt de secretaris-generaal op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad Kerndepartement.
+
+3. Bij afwezigheid of verhindering van de secretaris-generaal treedt de plaatsvervangend secretaris-generaal op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad.
+
+4. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en de secretaris-generaal treedt een van de functionarissen, genoemd in [artikel 3, onderdelen c tot en met e, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=3) op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
+
+#### § 4b. Bevoegdheden directeur-generaal Sociale Zekerheid en Integratie inburgering
+
+##### Artikel 10b
+
+*Vervallen*
 
 #### § 5. Slotbepalingen
 
@@ -248,54 +252,6 @@ Na de inwerkingtreding van deze regeling berusten de volgende regelingen die gen
 
 ##### Artikel 13
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2009.
+1. Deze regeling treedt in werking met ingang van 1 januari 2009.
 
 2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-1. De plaatsvervangend secretaris-generaal is bevoegd om op te treden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad Kerndepartement.
-
-2. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal treedt de secretaris-generaal op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad Kerndepartement.
-
-3. Bij afwezigheid of verhindering van de secretaris-generaal treedt de plaatsvervangend secretaris-generaal op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad.
-
-4. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en de secretaris-generaal treedt een van de functionarissen, genoemd in [artikel 3, onderdelen c tot en met e, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=3) op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10b
-
-Vervallen
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-De directie Bestuursondersteuning is verantwoordelijk voor:
-
-- a. inhoudelijk advies en ondersteuning bieden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie;
-
-- b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de secretaris-generaal en de politieke leiding van het ministerie;
-
-- c. de coördinatie van de crisisbeheersing binnen het ministerie en de daarmee verband houdende secretariële ondersteuning;
-
-- d. het bieden van ondersteuning aan de verschillende directies van SZW om innovatie toe te passen, zodat de inhoudelijke doelstellingen van het ministerie beter bereikt kunnen worden, alsmede het bieden van ondersteuning op het gebied van praktijkgericht werken.
-
-#### § 4. Bevoegdheden directeuren
-
-#### § 4a. Bevoegdheden plaatsvervangend secretaris-generaal en plaatsvervanging
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,16 @@
 ---
 title: "Circulaire Definitie Dienstongeval"
 identifier: "BWBR0025524"
-country: "nl"
-rank: "circulaire"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025524"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "9948483"
-version_id: "16218962"
-internal_id: "C22244391"
-label_id: "9924844"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025524/2009-01-01/0"
-intitule_bron: "Stcrt.2009-57"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-09"
-intitule_published: "2009-03-24"
-intitule_in_force: "2009-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-57"
-original_signed_date: "2009-03-09"
-original_published_date: "2009-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-4308"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0025524&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBR0025524&g=2009-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2009-03-09"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBR0025524"
+opgehaald: 2026-08-13
 ---
+
 # Circulaire Definitie Dienstongeval
 
 In het Akkoord Arbeidsvoorwaarden sector Politie (2005–2007) is afgesproken om de regionale verschillen in arbeidsvoorwaarden te harmoniseren. Met de politievakorganisaties is in het voorjaar 2008 overeenstemming bereikt over het eerste deel van de op landelijk niveau te harmoniseren arbeidsvoorwaarden.

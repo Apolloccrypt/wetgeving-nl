@@ -1,57 +1,28 @@
 ---
 title: "Wet van 13 november 2008, houdende regeling van de vergoedingen voor adviescolleges en commissies (Wet vergoedingen adviescolleges en commissies)"
+citeertitel: "Wet vergoedingen adviescolleges en commissies"
 identifier: "BWBR0024775"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024775"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9780593"
-version_id: "15864832"
-internal_id: "C22141271"
-label_id: "9757354"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024775/2020-01-01/0"
-intitule_bron: "Stb.2008-495"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-13"
-intitule_published: "2008-12-04"
-intitule_in_force: "2009-02-12"
-intitule_status: "goed"
-original_publication: "Stb.2008-495"
-original_signed_date: "2008-11-13"
-original_published_date: "2008-12-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "31489"
-original_url_id: "stb-2008-495"
-entry_into_force_date: "2009-02-13"
-jci_1_3: "jci1.3:c:BWBR0024775&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0024775&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet vergoedingen adviescolleges en commissies"
-signed_date: "2008-11-13"
-entry_into_force: "2009-02-13"
+publicatiedatum: 2009-02-13
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0024775"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 13 november 2008, houdende regeling van de vergoedingen voor adviescolleges en commissies (Wet vergoedingen adviescolleges en commissies)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot de vergoeding van de leden van adviescolleges en bij of krachtens wet, bij koninklijk besluit of bij ministerieel besluit ingestelde commissies te harmoniseren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **een adviescollege:** een adviescollege als bedoeld in de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), met uitzondering van adviescolleges waarvan de adviestaak, bedoeld in [artikel 1, onderdeel a, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=1) niet de hoofdtaak is;
+- a. *een adviescollege:* een adviescollege als bedoeld in de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), met uitzondering van adviescolleges waarvan de adviestaak, bedoeld in [artikel 1, onderdeel a, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=1) niet de hoofdtaak is;
 
-- b. **een commissie:** een bij of krachtens wet, bij koninklijk besluit of bij ministerieel besluit ingestelde commissie, niet zijnde een adviescollege of een zelfstandig bestuursorgaan als bedoeld in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- b. *een commissie:* een bij of krachtens wet, bij koninklijk besluit of bij ministerieel besluit ingestelde commissie, niet zijnde een adviescollege of een zelfstandig bestuursorgaan als bedoeld in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- c. **Onze Minister:** Onze Minister wie het aangaat.
+- c. *Onze Minister:* Onze Minister wie het aangaat.
 
 ##### Artikel 2
 
@@ -77,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Wijzigt de Kaderwet adviescolleges.
+1. *Wijzigt de Kaderwet adviescolleges.*
 
 2. Na de inwerkingtreding van deze wet berusten de ministeriële regelingen die krachtens [artikel 14 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=14) zijn vastgesteld op deze wet.
 
@@ -92,5 +63,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 6
 
 Deze wet wordt aangehaald als: Wet vergoedingen adviescolleges en commissies.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

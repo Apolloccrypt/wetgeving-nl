@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2008, nr. DP&O/PZ-2891439"
+citeertitel: "Instellingsbesluit VWS-matchingscommissie"
 identifier: "BWBR0024994"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024994"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9834133"
-version_id: "16001062"
-internal_id: "C21924921"
-label_id: "9810654"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024994/2020-01-01/0"
-intitule_bron: "Stcrt.2008-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-01"
-intitule_published: "2008-12-24"
-intitule_in_force: "2008-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-250"
-original_signed_date: "2008-12-01"
-original_published_date: "2008-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2495"
-entry_into_force_date: "2008-12-26"
-jci_1_3: "jci1.3:c:BWBR0024994&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0024994&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit VWS-matchingscommissie"
-signed_date: "2008-12-01"
-entry_into_force: "2008-12-26"
+publicatiedatum: 2008-12-26
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0024994"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2008, nr. DP&O/PZ-2891439
-
-Met instemming van de betreffende ondernemingsraden;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- a. *ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- b. **de matchingscommissie:** de commissie als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024994&artikel=2&z=2020-01-01&g=2020-01-01).
+- b. *de matchingscommissie:* de commissie als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024994&artikel=2&z=2020-01-01&g=2020-01-01).
 
-- c. **VWS-medewerker:** de bij het ministerie werkzame ambtenaar;
+- c. *VWS-medewerker:* de bij het ministerie werkzame ambtenaar;
 
-- d. **dienstonderdelen:** de organisatieonderdelen zoals genoemd in [artikel 2, b tot en met g, van het Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606&artikel=2).
+- d. *dienstonderdelen:* de organisatieonderdelen zoals genoemd in [artikel 2, b tot en met g, van het Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606&artikel=2).
 
 ##### Artikel 2. Taak en samenstelling van de commissie
 
@@ -99,5 +73,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als Instellingsbesluit VWS-matchingscommissie.
-
-Dit besluit zal in de Staatscourant worden geplaatst en worden gepubliceerd op het VWS-intranet.

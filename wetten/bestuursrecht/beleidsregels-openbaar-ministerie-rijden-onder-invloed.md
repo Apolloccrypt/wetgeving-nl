@@ -1,35 +1,16 @@
 ---
 title: "Beleidsregels Openbaar Ministerie, rijden onder invloed"
 identifier: "BWBR0025200"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2009-02-01"
-last_updated: "2009-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025200"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9883143"
-version_id: "16099192"
-internal_id: "C22085371"
-label_id: "9860214"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025200/2009-02-01/0"
-intitule_bron: "Stcrt.2009-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-01-20"
-intitule_in_force: "2009-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-12"
-original_published_date: "2009-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-851"
-entry_into_force_date: "2009-02-01"
-jci_1_3: "jci1.3:c:BWBR0025200&z=2009-02-01&g=2009-02-01"
-jci_1_0: "1.0:c:BWBR0025200&g=2009-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-02-01"
+publicatiedatum: 2009-02-01
+laatste_update: 2009-02-01
+status: geldig
+toestand: 2009-02-01
+bron: "https://wetten.overheid.nl/BWBR0025200"
+opgehaald: 2026-08-13
 ---
+
 # Beleidsregels Openbaar Ministerie, rijden onder invloed
 
 Op 1 februari treden de volgende Polaris-OBM-regelingen in werking die alle zijn aangepast aan fase 1B van de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074)
@@ -50,6 +31,12 @@ Basisfactor
 
 ### Antwoordmogelijkheden
 
+| • | Geen recidive | 0 pt |
+| --- | --- | --- |
+| – | 1 maal | 4 pt |
+| – | Meermalen | 4 pt |
+|  |  | + dagvaarden |
+
 ### Uitgangspunt indien onbekend
 
 Geen recidive.
@@ -60,6 +47,28 @@ Geen.
 
 ### Zie basisdelicten
 
+- – besturen motorvoertuig op twee of meer wielen onder invloed van een stof, zoals bedoeld in [art. 8, lid 1 WVW94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand
+
+- – besturen bromfiets, snorfiets of gehandicaptenvoertuig met motor onder invloed van een stof, zoals bedoeld in [art. 8, lid 1 WVW94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand
+
+- – besturen fiets of gehandicaptenvoertuig zonder motor onder invloed van een stof, zoals bedoeld in [art. 8, lid 1 WVW94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand
+
+- – besturen van een motorvoertuig op twee of meer wielen met een AAG(-equivalent) van 235 µg/l of meer
+
+- – besturen van bromfiets, snorfiets of gehandicaptenvoertuig met motor met een AAG(-equivalent) van 235 µg/l of meer
+
+- – besturen van fiets of gehandicaptenvoertuig zonder motor met een AAG(-equivalent) van 235 µg/l of meer
+
+- – weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (motorvoertuig op twee of meer wielen)
+
+- – weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (bromfiets, snorfiets of gehandicaptenvoertuig met motor)
+
+- – weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (fiets of gehandicaptenvoertuig zonder motor)
+
+- – als beginnend bestuurder of bestuurder zonder rijbewijs besturen van een motorvoertuig op twee of meer wielen met een AAG(-equivalent) van 95 µg/l of meer
+
+- – als jeugdig bestuurder in bezit van een bromfietscertificaat, als beginnend bestuurder of als bestuurder zonder rijbewijs besturen van bromfiets, snorfiets of brommobiel met een AAG(-equivalent) van 95 µg/l of meer
+
 ### 4.01.01. Obm regeling rijden onder invloed motorvoertuigen
 
 ### Beschrijving
@@ -69,6 +78,24 @@ Binnen de verkeersrichtlijnen is de ontzegging van de bevoegdheid tot het bestur
 ### Uitwerking
 
 Indien deze OBM regeling van toepassing is, gelden in afwijking van andere Polaris-regels, de onderstaande sancties als uitgangspunt voor de strafmaat. Indien de sanctie uitsluitend een geldbedrag betreft, dient (indien niet op andere gronden dagvaarden is geïndiceerd) een transactie te worden aangeboden of een strafbeschikking inhoudende een geldboete te worden uitgevaardigd.
+
+| Schaal I: | 10 strafpunten | – €250 |
+| --- | --- | --- |
+| Schaal II: | 14 strafpunten | – €350 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal III: | 18 strafpunten | – €450 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal IV: | 22 strafpunten | – €550 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal V: | 26 strafpunten | – €650 en, in geval van recidive, 6 mnd OBM ov |
+| Schaal VI: | 30 strafpunten | – €750 en 6 mnd OBM ov |
+| Schaal VII: | 34 strafpunten | – €850 en 7 mnd OBM ov |
+| Schaal VIII: | 38 strafpunten | – €950 en 8 mnd OBM ov |
+| Schaal IX: | 42 strafpunten | – €1000 en 9 mnd OBM ov |
+| Schaal X: | 46 strafpunten | – €1100 en 10 mnd OBM ov |
+| Schaal XI: | 50 strafpunten | 28 uur TS (cq 14 dg GS) en 12 mnd OBM ov |
+| Schaal XII: | 54 strafpunten | 36 uur TS (cq 18 dg GS) en 15 mnd OBM ov |
+| Schaal XIII: | 58 strafpunten | 42 uur TS (cq 21 dg GS) en 18 mnd OBM ov |
+| Extra schaal: | 62 strafpunten | 48 uur TS (cq 24 dg GS) en 21 mnd OBM ov |
+| Extra schaal: | 66 strafpunten | 54 uur TS (cq 27 dg GS) en 24 mnd OBM ov |
+| Extra schaal: | 70 strafpunten | 60 uur TS (cq 30 dg GS) en 27 mnd OBM ov |
 
 Gebruikte afkortingen:
 
@@ -82,6 +109,12 @@ Geen
 
 ### Zie basisdelicten
 
+- – besturen motorvoertuig op twee of meer wielen onder invloed van een stof, zoals bedoeld in [art. 8, lid 1 WVW94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand
+
+- – besturen van een motorvoertuig op twee of meer wielen met een AAG(-equivalent) van 235 µg/l of meer
+
+- – weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (motorvoertuig op twee of meer wielen)
+
 ### 4.01.02. Obm regeling rijden onder invloed bromfietsen
 
 ### Beschrijving
@@ -91,6 +124,15 @@ Binnen de verkeersrichtlijnen is de ontzegging van de bevoegdheid tot het bestur
 ### Uitwerking
 
 Indien deze OBM regeling van toepassing is, gelden in afwijking van andere Polaris-regels, de onderstaande sancties als uitgangspunt voor de strafmaat. Indien de sanctie uitsluitend een geldbedrag betreft, dient (indien niet op andere gronden dagvaarden is geïndiceerd) een transactie te worden aangeboden of een strafbeschikking inhoudende een geldboete te worden uitgevaardigd.
+
+| Schaal I: | 5 strafpunten | – €120 |
+| --- | --- | --- |
+| Schaal II: | 9 strafpunten | – €220 en, in geval van recidive, 2 mnd OBM ov |
+| Schaal III: | 13 strafpunten | – €320 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal IV: | 17 strafpunten | – €420 en 6 mnd OBM ov |
+| Schaal V: | 21 strafpunten | – €500 en 9 mnd OBM ov |
+| Extra schaal: | 25 strafpunten | – €600 en 12 mnd OBM ov |
+| Extra schaal: | 29 strafpunten | – €700 en 15 mnd OBM ov |
 
 Gebruikte afkortingen:
 
@@ -104,6 +146,14 @@ Geen
 
 ### Zie basisdelicten
 
+- – besturen bromfiets, snorfiets of gehandicaptenvoertuig met motor onder invloed van een stof, zoals bedoeld in [art. 8, lid 1 WVW94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand
+
+- – besturen van bromfiets, snorfiets of gehandicaptenvoertuig met motor met een AAG(-equivalent) van 235 µg/l of meer
+
+- – weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (bromfiets, snorfiets of gehandicaptenvoertuig met motor)
+
+- – als jeugdig bestuurder in bezit van een bromfietscertificaat, als beginnend bestuurder of als bestuurder zonder rijbewijs besturen van bromfiets, snorfiets of brommobiel met een AAG(-equivalent) van 95 µg/l of meer
+
 ### 4.01.05. Regeling negeren beslissing
 
 ### Beschrijving
@@ -116,11 +166,21 @@ Gezien de ernst van dergelijke normschendingen die worden gepleegd terwijl het b
 
 De sanctiepunten dienen, indien deze regeling van toepassing is, op de volgende wijze naar sanctie(s) te worden omgerekend:
 
+- – 50% van de punten wordt omgerekend naar geldboete
+
+- – 50% van de punten wordt omgerekend naar onvoorwaardelijke gevangenisstraf
+
 ### Factoren
 
 Geen
 
 ### Zie basisdelicten
+
+- – motorrijtuig waarvoor bezit rijbewijs is vereist (doen) besturen tijdens ontzegging rijbevoegdheid.
+
+- – motorrijtuig (doen) besturen in geval van (gedeeltelijk) ongeldig verklaard rijbewijs
+
+- – motorrijtuig (doen) besturen na vordering tot overgifte en/of invordering en/of inhouding van het rijbewijs
 
 ### 4.01.10. Obm regeling rijden onder invloed motorvoertuigen door beginnend bestuurders en bestuurders zonder rijbewijs
 
@@ -131,6 +191,24 @@ Binnen de verkeersrichtlijnen is de ontzegging van de bevoegdheid tot het bestur
 ### Uitwerking
 
 Indien deze OBM regeling van toepassing is, gelden in afwijking van andere Polaris-regels, de onderstaande sancties als uitgangspunt voor de strafmaat. Indien de sanctie uitsluitend een geldbedrag betreft, dient (indien niet op andere gronden dagvaarden is geïndiceerd) een transactie te worden aangeboden of een strafbeschikking inhoudende een geldboete te worden opgelegd.
+
+| Schaal I: | 10 strafpunten | – €250 |
+| --- | --- | --- |
+| Schaal II: | 14 strafpunten | – €350 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal III: | 18 strafpunten | – €450 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal IV: | 22 strafpunten | – €550 en, in geval van recidive, 4 mnd OBM ov |
+| Schaal V: | 26 strafpunten | – € 650 en 6 mnd OBM ov |
+| Schaal VI: | 30 strafpunten | – €750 en 6 mnd OBM ov |
+| Schaal VII: | 34 strafpunten | – €850 en 7 mnd OBM ov |
+| Schaal VIII: | 38 strafpunten | – €950 en 8 mnd OBM ov |
+| Schaal IX: | 42 strafpunten | – €1000 en 9 mnd OBM ov |
+| Schaal X: | 46 strafpunten | – €1100 en 10 mnd OBM ov |
+| Schaal XI: | 50 strafpunten | 28 uur TS (cq 14 dg GS) en 12 mnd OBM ov |
+| Schaal XII: | 54 strafpunten | 36 uur TS (cq 18 dg GS) en 15 mnd OBM ov |
+| Schaal XIII: | 58 strafpunten | 42 uur TS (cq 21 dg GS) en 18 mnd OBM ov |
+| Extra schaal: | 62 strafpunten | 48 uur TS (cq 24 dg GS) en 21 mnd OBM ov |
+| Extra schaal: | 66 strafpunten | 54 uur TS (cq 27 dg GS) en 24 mnd OBM ov |
+| Extra schaal: | 70 strafpunten | 60 uur TS (cq 30 dg GS) en 27 mnd OBM ov |
 
 Gebruikte afkortingen:
 
@@ -143,6 +221,8 @@ De regels van het afnemend strafnut zijn niet van toepassing op de OBM. Als OBM 
 Geen
 
 ### Zie basisdelicten
+
+- – als beginnend bestuurder of bestuurder zonder rijbewijs besturen van een motorvoertuig op twee of meer wielen met een AAG(-equivalent) van 95 µg/l of meer
 
 ### 5.22.03. Basisdelict besturen van fiets of gehandicaptenvoertuig zonder motor met een AAG(-equivalent) van 235 µg/l of meer
 
@@ -163,6 +243,18 @@ Commuun en verkeer.
 Nee.
 
 ### Basisfactoren
+
+| Rijgedrag |  |  |
+| --- | --- | --- |
+| • | Er is geen sprake van strafverzwarend rijgedrag | 0 pt |
+| – | Er was sprake van roekeloos of zeer onvoorzichtig verkeersgedrag. | 4 pt |
+| – | Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis. (Er wordt geen aparte strafvervolging ex art.6 WVW94 ingesteld). | 4 pt |
+|  | + dagvaarden |  |
+| Recidive bij rijden onder invloed |  |  |
+| • | Geen recidive | 0 pt |
+| – | 1 maal | 4 pt |
+| – | Meermalen | 4 pt |
+|  |  | + dagvaarden |
 
 ### Delictspecifieke factoren
 

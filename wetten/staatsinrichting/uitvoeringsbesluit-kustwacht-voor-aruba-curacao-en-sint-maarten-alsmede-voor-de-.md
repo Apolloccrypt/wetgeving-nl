@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 7 januari 2009, houdende bepalingen ter uitvoering van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba (Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba)"
+citeertitel: "Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0025441"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025441"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "9933573"
-version_id: "16198062"
-internal_id: "C22215921"
-label_id: "9910264"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025441/2010-10-10/0"
-intitule_bron: "Stb.2009-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-07"
-intitule_published: "2009-03-12"
-intitule_in_force: "2009-03-12"
-intitule_status: "goed"
-original_publication: "Stb.2009-114"
-original_signed_date: "2009-01-07"
-original_published_date: "2009-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-114"
-entry_into_force_date: "2009-05-01"
-jci_1_3: "jci1.3:c:BWBR0025441&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0025441&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2009-01-07"
-entry_into_force: "2009-05-01"
+publicatiedatum: 2009-05-01
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0025441"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 7 januari 2009, houdende bepalingen ter uitvoering van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba (Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba)
-
-Op de voordracht van Onze Minister van Defensie van 3 november 2008, nr. C/2008027300, directie juridische zaken, sector wet- en regelgeving;
-
-Gelet op de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=1), en [10, derde lid, van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=10);
-
-De Raad van State van het Koninkrijk gehoord (advies van 3 december 2008, nr. W07.08.0476/II/K);
-
-Gezien het nader rapport van Onze Minister van Defensie van 31 december 2008, nr. C2008033279;
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
@@ -54,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **aangewezen opvarende:** opvarende als bedoeld in [artikel 10, eerste lid, van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=10);
+- a. *aangewezen opvarende:* opvarende als bedoeld in [artikel 10, eerste lid, van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=10);
 
-- b. **niet-penetrerende munitie:** munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
+- b. *niet-penetrerende munitie:* munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
 
-- c. **officier van piket:** functionaris die belast is met piketdienst;
+- c. *officier van piket:* functionaris die belast is met piketdienst;
 
-- d. **ernstig misdrijf:** misdrijf waarvoor in de strafwetgeving van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba voorlopige hechtenis is toegelaten.
+- d. *ernstig misdrijf:* misdrijf waarvoor in de strafwetgeving van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba voorlopige hechtenis is toegelaten.
 
 2. Onder het aanwenden van geweld wordt mede verstaan:
 
@@ -279,5 +245,3 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Besluit registratie UWV 2009"
 identifier: "BWBR0025363"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-03-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025363"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9915423"
-version_id: "16168362"
-internal_id: "C22182491"
-label_id: "9891854"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025363/2009-03-01/0"
-intitule_bron: "Stcrt.2009-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-15"
-intitule_published: "2009-02-27"
-intitule_in_force: "2009-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-40"
-original_signed_date: "2008-12-15"
-original_published_date: "2009-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-3006"
-entry_into_force_date: "2009-03-01"
-jci_1_3: "jci1.3:c:BWBR0025363&z=2009-03-01&g=2009-03-01"
-jci_1_0: "1.0:c:BWBR0025363&g=2009-03-01"
-citeertitel_status: "officieel"
-signed_date: "2008-12-15"
-entry_into_force: "2009-03-01"
+publicatiedatum: 2009-03-01
+laatste_update: 2009-03-01
+status: geldig
+toestand: 2009-03-01
+bron: "https://wetten.overheid.nl/BWBR0025363"
+opgehaald: 2026-08-13
 ---
+
 # Besluit registratie UWV 2009
-
-Gelet op [artikel 26, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -64,5 +38,3 @@ Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van we
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit registratie UWV 2009.
-
-Dit besluit wordt met de toelichting in de Staatscourant gepubliceerd.

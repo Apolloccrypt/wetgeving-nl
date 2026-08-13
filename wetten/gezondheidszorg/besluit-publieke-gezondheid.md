@@ -1,40 +1,34 @@
 ---
-title: "Besluit publieke gezondheid"
+title: "Besluit van 27 oktober 2008, houdende nieuwe eisen inzake de publieke gezondheid (Besluit publieke gezondheid)"
+citeertitel: "Besluit publieke gezondheid"
 identifier: "BWBR0024708"
 categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+soort: "AMvB"
+publicatiedatum: 2025-10-15
+laatste_update: 2026-04-23
 status: geldig
+toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0024708"
+opgehaald: 2026-08-13
 ---
 
 # Besluit van 27 oktober 2008, houdende nieuwe eisen inzake de publieke gezondheid (Besluit publieke gezondheid)
 
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 mei 2008, kenmerk PG/ZP-2848098;
-
-Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=2), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=15), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=19), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=49), [62, tweede lid, van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=62);
-
-De Raad van State gehoord (advies van 23 juni 2008, nummer W13.08.0193/I);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 21 oktober 2008, kenmerk DWJZ/SWW-2885172;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de wet:** de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
+- a. *de wet:* de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
-- b. **basistakenpakket jeugdgezondheidszorg:** de in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheden;
+- b. *basistakenpakket jeugdgezondheidszorg:* de in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheden;
 
-- c. **de KNMG:** de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst.
+- c. *de KNMG:* de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst.
 
 ### Hoofdstuk II. Algemene taken publieke gezondheidszorg
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 2, tweede lid, aanhef en onder a in samenhang met onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=2) genoemde werkzaamheden omvatten in ieder geval het via onderzoek verwerven van inzicht in de gezondheidstoestand van degenen die door een ramp worden getroffen.
 
@@ -62,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk III. Jeugdgezondheidszorg
 
-#### Artikel 3
+##### Artikel 3
 
 De werkzaamheden inzake het op systematische wijze volgen en signaleren van ontwikkelingen in de gezondheidstoestand van jeugdigen en van gezondheidsbevorderende en -bedreigende factoren omvatten de volgende aspecten:
 
@@ -84,7 +78,7 @@ De werkzaamheden inzake het op systematische wijze volgen en signaleren van ontw
 
 - i. het in kaart brengen van het zorgsysteem rondom de jeugdige.
 
-#### Artikel 4
+##### Artikel 4
 
 De werkzaamheden inzake de vroegtijdige opsporing en preventie van specifieke stoornissen omvatten de volgende aspecten:
 
@@ -102,7 +96,7 @@ De werkzaamheden inzake de vroegtijdige opsporing en preventie van specifieke st
 
 - g. het zo nodig aanbieden van vaccinatie tegen tuberculose.
 
-#### Artikel 5
+##### Artikel 5
 
 De werkzaamheden inzake het ramen van de behoeften aan zorg omvatten de volgende aspecten:
 
@@ -116,93 +110,93 @@ De werkzaamheden inzake het ramen van de behoeften aan zorg omvatten de volgende
 
 - e. het in afstemming met de jeugdige en zijn ouders of verzorgers ramen welke zorgverlening nodig is en het formuleren van maatregelen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De werkzaamheden inzake het geven van voorlichting, advies, instructie en begeleiding aan jeugdigen tot 14 jaar, omvatten individueel of groepsgerichte voorlichting, advies, instructie en begeleiding, gericht op het ondersteunen van ouders en jeugdigen, en betreffen in ieder geval de onderwerpen:
 
-- •. gezonde (borst-)voeding
+- • gezonde (borst-)voeding
 
-- •. overgewicht / ondergewicht
+- • overgewicht / ondergewicht
 
-- •. voedselovergevoeligheid
+- • voedselovergevoeligheid
 
-- •. vitamine D en K
+- • vitamine D en K
 
-- •. veilig slapen
+- • veilig slapen
 
-- •. veiligheid
+- • veiligheid
 
-- •. voorkeurshouding
+- • voorkeurshouding
 
-- •. meeroken
+- • meeroken
 
-- •. gebit en gebitsverzorging
+- • gebit en gebitsverzorging
 
-- •. middelengebruik (alcohol, roken, cannabis en andere drugs)
+- • middelengebruik (alcohol, roken, cannabis en andere drugs)
 
-- •. leefstijl
+- • leefstijl
 
-- –. sport en bewegen
+   - – sport en bewegen
 
-- –. seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
+   - – seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
 
-- –. internetgebruik en gameverslaving
+   - – internetgebruik en gameverslaving
 
-- •. psychosociale problemen
+- • psychosociale problemen
 
-- •. opvoedvragen, -problemen en kindermishandeling (waaronder vrouwelijke genitale verminking en shaken baby syndroom)
+- • opvoedvragen, -problemen en kindermishandeling (waaronder vrouwelijke genitale verminking en shaken baby syndroom)
 
-- •. weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
+- • weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
 
-- •. depressie
+- • depressie
 
-- •. disbalans draagkracht/draaglast en ontvangen zorg/zorgbehoefte bij kind en gezin
+- • disbalans draagkracht/draaglast en ontvangen zorg/zorgbehoefte bij kind en gezin
 
-- •. gezondheidsbedreigingen gezin en omgeving (sociaal, fysiek, psychisch, pedagogisch milieu)
+- • gezondheidsbedreigingen gezin en omgeving (sociaal, fysiek, psychisch, pedagogisch milieu)
 
-- •. school-/ziekteverzuim/schooluitval.
+- • school-/ziekteverzuim/schooluitval.
 
 2. De werkzaamheden inzake het geven van voorlichting, advies, instructie en begeleiding aan jeugdigen vanaf 14 jaar, omvatten individueel of groepsgerichte voorlichting, advies, instructie en begeleiding, en betreffen in ieder geval de onderwerpen:
 
-- •. overgewicht / ondergewicht
+- • overgewicht / ondergewicht
 
-- •. middelengebruik (alcohol, roken, cannabis en andere drugs)
+- • middelengebruik (alcohol, roken, cannabis en andere drugs)
 
-- •. leefstijl
+- • leefstijl
 
-- –. sport en bewegen
+   - – sport en bewegen
 
-- –. seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
+   - – seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
 
-- –. internetgebruik en gameverslaving
+   - – internetgebruik en gameverslaving
 
-- •. weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
+- • weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
 
-- •. depressie
+- • depressie
 
-- •. school-/ziekteverzuim/schooluitval.
+- • school-/ziekteverzuim/schooluitval.
 
-#### Artikel 7
+##### Artikel 7
 
-1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
+1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-04-23&g=2026-04-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-04-23&g=2026-04-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-04-23&g=2026-04-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-04-23&g=2026-04-23) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
 
-2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
+2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-04-23&g=2026-04-23), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-04-23&g=2026-04-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2026-04-23&g=2026-04-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-04-23&g=2026-04-23), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
 
-#### Artikel 8
+##### Artikel 8
 
-De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-01-01&g=2026-01-01) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
+De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2026-04-23&g=2026-04-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2026-04-23&g=2026-04-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2026-04-23&g=2026-04-23) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
 
-#### Artikel 9
+##### Artikel 9
 
-Vervallen
+*Vervallen*
 
-#### Artikel 10
+##### Artikel 10
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2026-01-01&g=2026-01-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2026-04-23&g=2026-04-23), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
 
 ### Hoofdstuk IV. Infectieziektebestrijding
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ter uitvoering van de taak, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6) zorgt het college van burgemeester en wethouders in ieder geval voor:
 
@@ -230,7 +224,13 @@ Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 
 
 - b. bij een pasgeborene van een draagster van hepatitis B-virus behoort tevens tot het vaccinatieprogramma het na afloop van de vaccinatieserie in gang zetten van een serologische evaluatie (bloedonderzoek);
 
-- c. voor zwangeren: kinkhoest (K).
+- c. voor zwangeren: kinkhoest (K);
+
+- d. in de openbare lichamen Bonaire, Sint Eustatius en Saba:
+
+   - 1°. voor alle personen tot 18 jaar: infectie veroorzaakt door het respiratoir syncytieel virus (RSV) en infectie veroorzaakt door het rotavirus;
+
+   - 2°. voor zwangeren: infectie veroorzaakt door het griepvirus.
 
 3. Ter uitvoering van [artikel 6b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6b) draagt het college van burgemeester en wethouders mede zorg voor het deel van het vaccinatieprogramma, bedoeld in het tweede lid, en zorgt het college van burgemeester en wethouders ervoor dat:
 
@@ -246,13 +246,29 @@ Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 
 
 - f. jaarlijks overleg plaatsvindt tussen de afdeling infectieziektebestrijding van de gemeentelijke gezondheidsdienst en de uitvoerders van de jeugdgezondheidszorg over de door het RIVM opgestelde rapportage over de vaccinatiegraad.
 
-4. Onverminderd het tweede lid bestaat het vaccinatieprogramma, bedoeld in [artikel 6b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6b), tevens uit vaccinaties voor alle personen tegen een infectie veroorzaakt door SARS-CoV-2.
+4. Onverminderd het tweede lid bestaat het vaccinatieprogramma, bedoeld in [artikel 6b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6b), tevens uit vaccinaties voor alle personen tegen een infectie veroorzaakt door SARS-CoV-2 en in het Europese deel van Nederland voor alle personen tot 18 jaar tegen een infectie veroorzaakt door het respiratoir syncytieel virus (RSV) en een infectie veroorzaakt door het rotavirus en voor zwangeren tegen een infectie veroorzaakt door het griepvirus.
 
-#### Artikel 12
+##### Artikel 12
 
 De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucellose, Carbapenemaseproducerende Enterobacteriaceae, chikungunya, dengue, gele koorts, hantavirusinfectie, heamophilus influenza infectie, pneumokokkenziekte, legionellose, leptospirose, listeriose, malaria, meningokokkenziekte, mrsa-infectie, psittacose, q-koorts, tekenencefalitis, tetanus, trichinose, tularemie west-nile virusinfectie, ziekte van creutzfeldt-jakob, zikavirusinfectie.
 
-#### Artikel 13
+##### Artikel 12a
+
+De vectoren, bedoeld in [artikel 6a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6a) zijn de:
+
+- a. Aedes aegypti;
+
+- b. Aedes albopictus;
+
+- c. Aedes atropalpus;
+
+- d. Aedes japonicus;
+
+- e. Aedes koreicus;
+
+- f. Aedes triseriatus.
+
+##### Artikel 13
 
 1. Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie B aangewezen haven of luchthaven beschikt over een plan voor noodsituaties op het gebied van de infectieziektebestrijding, met inbegrip van de benoeming van een coördinator.
 
@@ -272,15 +288,15 @@ De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucello
 
 - g. hoe over het onder a tot en met f gestelde wordt samengewerkt met betrokken diensten en organisaties.
 
-#### Artikel 14
+##### Artikel 14
 
-Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01) van dit besluit, tevens over de volgende voorzieningen:
+Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-04-23&g=2026-04-23) van dit besluit, tevens over de volgende voorzieningen:
 
-- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-01-01&g=2026-01-01) van dit besluit,
+- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2026-04-23&g=2026-04-23) van dit besluit,
 
 - b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die voor de gemeente voortvloeien uit het door de voorzitter van de veiligheidsregio dan wel de burgemeester uitvoeren van de door Onze Minister opgedragen maatregelen, bedoeld in [artikel 62, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=62).
 
@@ -294,9 +310,9 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Geen bijdrage wordt toegekend, indien de kosten, bedoeld in het derde lid, € 45.000 of minder bedragen.
 
-#### Artikel 16
+##### Artikel 16
 
-1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
+1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-04-23&g=2026-04-23), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
 
 2. In afwijking van het eerste lid wordt, indien de maatregelen onafgebroken gedurende één jaar worden getroffen, de aanvraag uiterlijk twaalf maanden na het verstrijken van dat jaar ingediend.
 
@@ -304,7 +320,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
+5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2026-04-23&g=2026-04-23). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
 
 6. Onze Minister kan de vaststelling van een bijdrage intrekken of ten nadele van de ontvanger wijzigen:
 
@@ -312,9 +328,39 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. indien de vaststelling van de bijdrage onjuist was en de ontvanger dit wist of behoorde te weten.
 
+### Hoofdstuk IVa. Bevolkingsonderzoek
+
+##### Artikel 16a
+
+Het bevolkingsonderzoek, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12a) bestaat uit:
+
+- a. de neonatale hielprikscreening, waarbij onderzoek wordt uitgevoerd bij pasgeborenen naar ernstige aangeboren aandoeningen in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- b. de prenatale screening infectieziekten en erytrocytenimmunisatie (PSIE) in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- c. het bevolkingsonderzoek naar borstkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- d. het bevolkingsonderzoek naar baarmoederhalskanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- e. het bevolkingsonderzoek naar darmkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+### Hoofdstuk IVb. Integrale suïcidepreventie
+
+##### Artikel 16b
+
+1. Het integraal beleid, bedoeld in [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) is gericht op het bevorderen van een duurzame en brede aandacht en inzet voor suïcidepreventie, binnen de beschikbare middelen, en kan daartoe de volgende instrumenten omvatten:
+
+- a. een landelijke agenda suïcidepreventie gericht op een integrale aanpak van preventieve maatregelen, die gebaseerd zijn op de actuele stand van de wetenschap en de praktijk, vertaald naar acties en doelstellingen die, waar mogelijk, ook te vertalen zijn naar gemeentelijke doelstellingen;
+
+- b. een nationale communicatiestrategie suïcidepreventie om gedachten aan suïcide bespreekbaar te maken en suïcidepreventie algemene bekendheid te geven;
+
+- c. een onderzoeksprogramma suïcidepreventie voor het ontwikkelen en verspreiden van kennis op het gebied van suïcide en suïcidepreventie.
+
+2. Het integraal beleid wordt door Onze Minister en Onze Ministers die het mede aangaat opgesteld, waar nodig in samenspraak met vertegenwoordigers van de wetenschap en uit de praktijk en met ervaringsdeskundigen.
+
 ### Hoofdstuk V. Gemeentelijke gezondheidsdiensten
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met het oog op de uitvoering van de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=2) omschreven taak voldoen de deskundigen, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=15), aan de volgende eisen:
 
@@ -338,79 +384,15 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. de sociaal geneeskundige, belast met de bestrijding van tuberculose, is:
 
-- –. op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als arts tuberculosebestrijding KNMG, of
+   - – op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als arts tuberculosebestrijding KNMG, of
 
-- –. op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als longarts,
+   - – op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als longarts,
 
 - c. de deskundige op het terrein van de sociale verpleegkunde is op grond van [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) geregistreerd als verpleegkundige en in het bezit van het diploma HBO-V.
 
-### Hoofdstuk VI. Overige bepalingen
+### Hoofdstuk Va. Vergunning- en meldplicht poliovirus
 
-#### Artikel 18
-
-Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.
-
-#### Artikel 19
-
-Wijzigt het Algemeen Rijksambtenarenreglement.
-
-#### Artikel 20
-
-Wijzigt het Ambtenarenreglement Staten-Generaal.
-
-#### Artikel 21
-
-Wijzigt het Burgerlijk ambtenarenreglement defensie.
-
-#### Artikel 22
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-#### Artikel 23
-
-Dit besluit wordt aangehaald als: Besluit publieke gezondheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 12a
-
-De vectoren, bedoeld in [artikel 6a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6a) zijn de:
-
-- a. Aedes aegypti;
-
-- b. Aedes albopictus;
-
-- c. Aedes atropalpus;
-
-- d. Aedes japonicus;
-
-- e. Aedes koreicus;
-
-- f. Aedes triseriatus.
-
-### Hoofdstuk IVa. Bevolkingsonderzoek
-
-#### Artikel 16a
-
-Het bevolkingsonderzoek, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12a) bestaat uit:
-
-- a. de neonatale hielprikscreening, waarbij onderzoek wordt uitgevoerd bij pasgeborenen naar ernstige aangeboren aandoeningen in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-- b. de prenatale screening infectieziekten en erytrocytenimmunisatie (PSIE) in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-- c. het bevolkingsonderzoek naar borstkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-- d. het bevolkingsonderzoek naar baarmoederhalskanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
-
-- e. het bevolkingsonderzoek naar darmkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-### Hoofdstuk IVb. Integrale suïcidepreventie
-
-### Hoofdstuk V. Gemeentelijke gezondheidsdiensten
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 17a
+##### Artikel 17a
 
 1. De vergunningplicht, bedoeld in [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b), is van toepassing op:
 
@@ -432,15 +414,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Degene aan wie eerder een vergunning is verleend en die voorafgaand aan het verstrijken van de geldigheidsduur daarvan of voordat zich de situatie, bedoeld in [artikel 12f, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12f) voordoet, een aanvraag om verlenging van de geldigheidsduur van die vergunning heeft ingediend, mag de handelingen met het betreffende poliovirus blijven voortzetten totdat op die aanvraag is beslist, behoudens de in [artikel 12b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) neergelegde bevoegdheid van Onze Minister.
 
-#### Artikel 17b
+##### Artikel 17b
 
-Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=Va&artikel=17a&z=2026-01-01&g=2026-01-01), aangewezen typen poliovirus geldt dat degene die de handelingen daarmee verricht of beoogt te verrichten:
+Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=Va&artikel=17a&z=2026-04-23&g=2026-04-23), aangewezen typen poliovirus geldt dat degene die de handelingen daarmee verricht of beoogt te verrichten:
 
 - a. een essentiële faciliteit is; en
 
 - b. voldoet aan de bij regeling van Onze Minister gestelde eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Wereld Gezondheidsorganisatie.
 
-#### Artikel 17c
+##### Artikel 17c
 
 1. De meldplicht, bedoeld in [artikel 12i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12i), is van toepassing op het bewaren, bewerken, gebruiken of anderszins verwerken van:
 
@@ -468,22 +450,26 @@ Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in 
 
 ### Hoofdstuk VI. Overige bepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 18
 
-#### Artikel 16b
+*Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.*
 
-1. Het integraal beleid, bedoeld in [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) is gericht op het bevorderen van een duurzame en brede aandacht en inzet voor suïcidepreventie, binnen de beschikbare middelen, en kan daartoe de volgende instrumenten omvatten:
+##### Artikel 19
 
-- a. een landelijke agenda suïcidepreventie gericht op een integrale aanpak van preventieve maatregelen, die gebaseerd zijn op de actuele stand van de wetenschap en de praktijk, vertaald naar acties en doelstellingen die, waar mogelijk, ook te vertalen zijn naar gemeentelijke doelstellingen;
+*Wijzigt het Algemeen Rijksambtenarenreglement.*
 
-- b. een nationale communicatiestrategie suïcidepreventie om gedachten aan suïcide bespreekbaar te maken en suïcidepreventie algemene bekendheid te geven;
+##### Artikel 20
 
-- c. een onderzoeksprogramma suïcidepreventie voor het ontwikkelen en verspreiden van kennis op het gebied van suïcide en suïcidepreventie.
+*Wijzigt het Ambtenarenreglement Staten-Generaal.*
 
-2. Het integraal beleid wordt door Onze Minister en Onze Ministers die het mede aangaat opgesteld, waar nodig in samenspraak met vertegenwoordigers van de wetenschap en uit de praktijk en met ervaringsdeskundigen.
+##### Artikel 21
 
-### Hoofdstuk Va. Vergunning- en meldplicht poliovirus
+*Wijzigt het Burgerlijk ambtenarenreglement defensie.*
 
-### Hoofdstuk VI. Overige bepalingen
+##### Artikel 22
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 23
+
+Dit besluit wordt aangehaald als: Besluit publieke gezondheid.

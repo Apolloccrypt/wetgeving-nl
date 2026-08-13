@@ -1,47 +1,17 @@
 ---
 title: "Beleidsregel Opheffing terugwerkende kracht Hoofdstuk 4 WTOS"
 identifier: "BWBR0024632"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-10-25"
-last_updated: "2008-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024632"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9753733"
-version_id: "15807962"
-internal_id: "C29435661"
-label_id: "9730524"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024632/2008-10-25/0"
-intitule_bron: "Stcrt.2008-206"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-14"
-intitule_published: "2008-10-23"
-intitule_in_force: "2008-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-206"
-original_signed_date: "2008-10-14"
-original_published_date: "2008-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-281"
-entry_into_force_date: "2008-10-25"
-jci_1_3: "jci1.3:c:BWBR0024632&z=2008-10-25&g=2008-10-25"
-jci_1_0: "1.0:c:BWBR0024632&g=2008-10-25"
-citeertitel_status: "redactioneel"
-signed_date: "2008-10-14"
-entry_into_force: "2008-10-25"
+publicatiedatum: 2008-10-25
+laatste_update: 2008-10-25
+status: geldig
+toestand: 2008-10-25
+bron: "https://wetten.overheid.nl/BWBR0024632"
+opgehaald: 2026-08-13
 ---
+
 # Beleidsregel Opheffing terugwerkende kracht Hoofdstuk 4 WTOS
-
-Datum: 14 oktober 2008
-
-Nummer: CT/08.068
-
-Gelet op [artikel 11.4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=11.4);
-
-Besluit:
 
 ##### Artikel 1
 

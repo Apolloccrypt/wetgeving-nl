@@ -1,67 +1,38 @@
 ---
 title: "Wet van 20 november 2008 tot wijziging van de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, ter vereenvoudiging van de uitvoering, alsmede tot het aanbrengen van wijzigingen van andere en ondergeschikte aard"
+citeertitel: "Wijzigingswet Wet buitengewoon pensioen 1940–1945, enz. (vereenvoudiging van uitvoering)"
 identifier: "BWBR0024833"
-country: "nl"
-rank: "wet"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024833"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "9792713"
-version_id: "15895202"
-internal_id: "C21809461"
-label_id: "9769454"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024833/2009-01-01/0"
-intitule_bron: "Stb.2008-531"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-20"
-intitule_published: "2008-12-16"
-intitule_in_force: "2008-12-16"
-intitule_status: "goed"
-original_publication: "Stb.2008-531"
-original_signed_date: "2008-11-20"
-original_published_date: "2008-12-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "31551"
-original_url_id: "stb-2008-531"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024833&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBR0024833&g=2009-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet buitengewoon pensioen 1940–1945, enz. (vereenvoudiging van uitvoering)"
-signed_date: "2008-11-20"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBR0024833"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 20 november 2008 tot wijziging van de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, ter vereenvoudiging van de uitvoering, alsmede tot het aanbrengen van wijzigingen van andere en ondergeschikte aard
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de administratieve belasting van de buitengewoon gepensioneerden en uitkeringsgerechtigden en de Pensioen- en Uitkeringsraad te verminderen en daartoe de uitvoering van de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664) te vereenvoudigen, alsmede wijzigingen van andere en ondergeschikte aard aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet buitengewoon pensioen 1940-1945.
+*Wijzigt de Wet buitengewoon pensioen 1940-1945.*
 
 ##### Artikel II
 
-Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
+*Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.*
 
 ##### Artikel III
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel V
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.*
 
 ##### Artikel VI
 
@@ -78,5 +49,3 @@ Het buitengewoon pensioen, bedoeld in de [artikelen 4](https://wetten.overheid.n
 ##### Artikel VIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

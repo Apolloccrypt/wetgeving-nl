@@ -1,40 +1,17 @@
 ---
 title: "Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2009"
 identifier: "BWBR0025239"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-03-08"
-last_updated: "2010-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025239"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9890203"
-version_id: "16110982"
-internal_id: "C22107911"
-label_id: "9866654"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025239/2010-03-08/0"
-intitule_bron: "Stcrt.2009-17"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-01-27"
-intitule_in_force: "2009-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-17"
-original_published_date: "2009-01-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-1198"
-entry_into_force_date: "2009-01-29"
-jci_1_3: "jci1.3:c:BWBR0025239&z=2010-03-08&g=2010-03-08"
-jci_1_0: "1.0:c:BWBR0025239&g=2010-03-08"
-citeertitel_status: "officieel"
-entry_into_force: "2009-01-29"
+publicatiedatum: 2009-01-29
+laatste_update: 2010-03-08
+status: geldig
+toestand: 2010-03-08
+bron: "https://wetten.overheid.nl/BWBR0025239"
+opgehaald: 2026-08-13
 ---
+
 # Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2009
-
-Gelet op [artikel 91, eerste lid Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.4, eerste en tweede lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en gelet op de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024986);
-
-Heeft in zijn vergadering van 15 december 2008 besloten:
 
 ##### Artikel 1
 
@@ -79,5 +56,3 @@ Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2009.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

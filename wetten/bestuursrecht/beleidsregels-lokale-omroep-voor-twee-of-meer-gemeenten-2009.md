@@ -1,50 +1,18 @@
 ---
 title: "Besluit van het Commissariaat voor de Media van 10 maart 2009 houdende beleidsregels omtrent lokaal publiek media-aanbod voor twee of meer gemeenten (Beleidsregels lokaal publiek media-aanbod voor twee of meer gemeenten 2009)"
+citeertitel: "Beleidsregels lokale omroep voor twee of meer gemeenten 2009"
 identifier: "BWBR0025643"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-03-10"
-last_updated: "2009-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025643"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9972503"
-version_id: "16285272"
-internal_id: "C22337541"
-label_id: "9948924"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025643/2009-03-10/0"
-intitule_bron: "Stcrt.2009-69"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-10"
-intitule_published: "2009-04-09"
-intitule_in_force: "2009-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-69"
-original_signed_date: "2009-03-10"
-original_published_date: "2009-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-5376"
-entry_into_force_date: "2009-03-10"
-jci_1_3: "jci1.3:c:BWBR0025643&z=2009-03-10&g=2009-03-10"
-jci_1_0: "1.0:c:BWBR0025643&g=2009-03-10"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels lokale omroep voor twee of meer gemeenten 2009"
-signed_date: "2009-03-10"
-entry_into_force: "2009-03-10"
+publicatiedatum: 2009-03-10
+laatste_update: 2009-03-10
+status: geldig
+toestand: 2009-03-10
+bron: "https://wetten.overheid.nl/BWBR0025643"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van het Commissariaat voor de Media van 10 maart 2009 houdende beleidsregels omtrent lokaal publiek media-aanbod voor twee of meer gemeenten (Beleidsregels lokaal publiek media-aanbod voor twee of meer gemeenten 2009)
-
-Gelet op de [artikelen 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12),
-
-Gelet op [artikel 2.64 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.64),
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Strekking van de regeling
 

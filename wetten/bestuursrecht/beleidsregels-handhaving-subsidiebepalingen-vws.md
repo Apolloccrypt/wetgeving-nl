@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 19 september 2008, nr. FEZ-U-2874154, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS en JenG"
+citeertitel: "Beleidsregels handhaving subsidiebepalingen VWS"
 identifier: "BWBR0024547"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-09-21"
-last_updated: "2022-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024547"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "9738333"
-version_id: "18543602"
-internal_id: "C25876901"
-label_id: "9715204"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024547/2022-09-21/0"
-intitule_bron: "Stcrt.2008-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-19"
-intitule_published: "2008-09-30"
-intitule_in_force: "2008-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-7999"
-original_signed_date: "2011-04-28"
-original_published_date: "2011-05-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-7999"
-entry_into_force_date: "2011-04-28"
-jci_1_3: "jci1.3:c:BWBR0024547&z=2022-09-21&g=2022-09-21"
-jci_1_0: "1.0:c:BWBR0024547&g=2022-09-21"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels handhaving subsidiebepalingen VWS"
-signed_date: "2011-04-28"
-entry_into_force: "2011-04-28"
+publicatiedatum: 2011-04-28
+laatste_update: 2022-09-21
+status: geldig
+toestand: 2022-09-21
+bron: "https://wetten.overheid.nl/BWBR0024547"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 19 september 2008, nr. FEZ-U-2874154, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS en JenG
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluiten:
 
 ##### Artikel 1. Algemeen
 
@@ -72,6 +46,20 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 - b. de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
+##### Artikel 3a. Meldingsplicht
+
+1. Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van:
+
+- a. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 9.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+
+- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.
+
+2. Afhankelijk van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan, kan de minister een hoger bedrag in mindering brengen op de subsidie dan voortvloeit uit het eerste lid.
+
 ##### Artikel 4. De subsidievaststelling
 
 1. Indien een aanvraag tot vaststelling van een verleende subsidie niet binnen de wettelijke termijn is ingediend of indien de aanvrager niet heeft voldaan aan het gestelde bij of krachtens enig ander wettelijk voorschrift voor de aanvraag tot vaststelling van een verleende subsidie, wordt de aanvrager schriftelijk in de gelegenheid gesteld de aanvraag binnen een daarbij te stellen termijn alsnog in te dienen of aan te vullen.
@@ -82,21 +70,21 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 4. Indien de aanvrager binnen de termijn, gesteld op grond van het eerste lid, niet heeft voldaan aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie, wordt op het bedrag van de vast te stellen subsidie een bedrag in mindering gebracht van:
 
-- a. 3% van het bedrag van de verleende subsidie tot ten hoogste € 9.000 indien:
+- a. 3% van het bedrag van de verleende subsidie tot ten hoogste € 9.000 indien:
 
-- –. in het geheel geen aanvraag tot vaststelling van een verleende subsidie is ontvangen of
+   - – in het geheel geen aanvraag tot vaststelling van een verleende subsidie is ontvangen of
 
-- –. alle voorgeschreven verantwoordingselementen ontbreken;
+   - – alle voorgeschreven verantwoordingselementen ontbreken;
 
-- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien:
+- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien:
 
-- –. twee van de drie voorgeschreven verantwoordingselementen ontbreken of
+   - – twee van de drie voorgeschreven verantwoordingselementen ontbreken of
 
-- –. één van de twee voorgeschreven verantwoordingselementen ontbreekt;
+   - – één van de twee voorgeschreven verantwoordingselementen ontbreekt;
 
-- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien één van de drie voorgeschreven verantwoordingselementen ontbreekt;
+- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien één van de drie voorgeschreven verantwoordingselementen ontbreekt;
 
-- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien er uitsluitend andere gebreken aan de aanvraag kleven.
+- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien er uitsluitend andere gebreken aan de aanvraag kleven.
 
 5. Indien rekening en verantwoording dient te worden afgelegd aan de hand van een financieel verslag dat vergezeld gaat van een controleverklaring, opgesteld door een accountant en de accountant een controleverklaring met beperking of oordeelsonthouding afgeeft, kan op het bedrag van de vast te stellen subsidie of het relevante subsidieonderdeel een bedrag in mindering gebracht worden van minstens 20%.
 
@@ -108,7 +96,7 @@ Indien de aanvrager in gebreke blijft te voldoen aan het gestelde bij of krachte
 
 ##### Artikel 6. Intrekking vorige beleidsregels
 
-Het [besluit van 7 mei 1997 tot vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0008674) (Stcrt. 1997, nr. 94) wordt ingetrokken.
+Het [besluit van 7 mei 1997 tot vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0008674) (Stcrt. 1997, nr. 94) wordt ingetrokken.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -117,21 +105,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 8. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Meldingsplicht
-
-1. Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van:
-
-- a. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 9.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
-
-- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
-
-- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
-
-- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.
-
-2. Afhankelijk van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan, kan de minister een hoger bedrag in mindering brengen op de subsidie dan voortvloeit uit het eerste lid.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

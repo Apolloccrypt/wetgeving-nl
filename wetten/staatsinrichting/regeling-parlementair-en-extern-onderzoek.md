@@ -1,37 +1,16 @@
 ---
 title: "Regeling parlementair en extern onderzoek"
 identifier: "BWBR0024414"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-07-06"
-last_updated: "2023-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024414"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "9707193"
-version_id: "29520052"
-internal_id: "C42205201"
-label_id: "9684324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024414/2023-07-06/0"
-intitule_bron: "Kst.2008-31019"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-05-14"
-intitule_published: "2008-05-14"
-intitule_in_force: "2008-05-14"
-intitule_status: "goed"
-original_publication: "Kst.2023-34400"
-original_published_date: "2023-07-10"
-original_effect: "structuurwijziging"
-original_dossier: "34400"
-entry_into_force_date: "2023-07-06"
-entry_into_force_dossier: "34400"
-jci_1_3: "jci1.3:c:BWBR0024414&z=2023-07-06&g=2023-07-06"
-jci_1_0: "1.0:c:BWBR0024414&g=2023-07-06"
-citeertitel_status: "officieel"
-entry_into_force: "2023-07-06"
+publicatiedatum: 2023-07-06
+laatste_update: 2023-07-06
+status: geldig
+toestand: 2023-07-06
+bron: "https://wetten.overheid.nl/BWBR0024414"
+opgehaald: 2026-08-13
 ---
+
 # Regeling parlementair en extern onderzoek
 
 ### Hoofdstuk 1. Algemeen en definities
@@ -54,9 +33,9 @@ entry_into_force: "2023-07-06"
 
 - a. parlementair onderzoek door een enquêtecommissie, in de variant van:
 
-- 1°. een beknopte enquête als bedoeld in [artikel 14bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14bis&z=2023-07-06&g=2023-07-06), of
+   - 1° een beknopte enquête als bedoeld in [artikel 14bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14bis&z=2023-07-06&g=2023-07-06), of
 
-- 2°. een parlementaire enquête als bedoeld in [artikel 14ter](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14ter&z=2023-07-06&g=2023-07-06),
+   - 2° een parlementaire enquête als bedoeld in [artikel 14ter](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14ter&z=2023-07-06&g=2023-07-06),
 
 - b. parlementair onderzoek door een tijdelijke commissie,
 
@@ -128,7 +107,7 @@ Derden zijn niet verplicht medewerking te verlenen aan een tijdelijke commissie.
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -152,56 +131,6 @@ Vervallen
 
 3. De verstrekte documenten worden na afloop van het parlementair onderzoek opgenomen in het archief van de Kamer.
 
-##### Artikel 14
-
-Indien tijdens het onderzoek van de tijdelijke commissie tevens een strafrechtelijk, bestuursrechtelijk of tuchtrechtelijk onderzoek plaatsvindt naar het onderwerp van het onderzoek van de commissie of naar personen die voorkomen in dat onderzoek, vindt overleg plaats tussen de tijdelijke commissie en het orgaan dat het andere onderzoek uitvoert, indien van toepassing met tussenkomst van de betrokken minister.
-
-### Hoofdstuk 4. Aanbieding en beëindiging
-
-##### Artikel 15
-
-1. Alle rapporten van tijdelijke commissies en enquêtecommissies worden aangeboden aan de Voorzitter van de Kamer.
-
-2. Het rapport wordt doorgeleid naar de meest betrokken commissie.
-
-3. Extern onderzoek voor de Kamer door derden wordt direct aangeboden aan de meest betrokken commissie.
-
-##### Artikel 16
-
-Nadat een tijdelijke commissie aan de Kamer verantwoording over haar werkzaamheden heeft afgelegd, beëindigt de Kamer het parlementair onderzoek en heft zij de tijdelijke commissie op.
-
-### Hoofdstuk 3a. Varianten, bevoegdheden en uitvoering onderzoek door een enquêtecommissie
-
-##### Artikel 17
-
-1. Met ingang van de dag dat de Kamer het parlementair onderzoek beëindigt, gaan van rechtswege over op de Kamer:
-
-- a. de documenten die op verzoek aan de tijdelijke commissie zijn verstrekt;
-
-- b. de documenten die zijn opgesteld ten behoeve van intern beraad, en
-
-- c. andere documenten die de tijdelijke commissie van belang acht.
-
-2. Bij extern onderzoek berust de verantwoordelijkheid voor de archivering bij de uitvoerder, voor zover de Kamer geen aanspraak wenst te maken op de door derden in opdracht van de Kamer verzamelde documenten.
-
-##### Artikel 18
-
-1. Er wordt tot de dag waarop de tijdelijke commissie haar rapport aanbiedt aan de Kamer geen inzage gegeven in documenten die onder de commissie berusten tenzij de tijdelijke commissie anders besluit.
-
-2. De tijdelijke commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2023-07-06&g=2023-07-06), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
-
-3. De Kamer kan besluiten een op grond van het tweede lid aan de openbaarheid gestelde beperking op te heffen, dan wel deze ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
-
-##### Artikel 19
-
-Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2023-07-06&g=2023-07-06).
-
-### Hoofdstuk 6. Slotbepaling
-
-##### Artikel 20
-
-Deze regeling wordt aangehaald als: Regeling parlementair en extern onderzoek.
-
 ##### Artikel 13a
 
 1. Documenten die ter inzage aan de tijdelijke commissie zijn gegeven, worden vertrouwelijk behandeld.
@@ -221,6 +150,28 @@ Deze regeling wordt aangehaald als: Regeling parlementair en extern onderzoek.
 ##### Artikel 13c
 
 De tijdelijke commissie kan, zo nodig in afwijking van de [artikelen 13 tot en met 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3&artikel=13&z=2023-07-06&g=2023-07-06), nadere afspraken maken over de wijze waarop uitvoering wordt gegeven aan verzoeken om documenten en schriftelijke inlichtingen.
+
+##### Artikel 14
+
+Indien tijdens het onderzoek van de tijdelijke commissie tevens een strafrechtelijk, bestuursrechtelijk of tuchtrechtelijk onderzoek plaatsvindt naar het onderwerp van het onderzoek van de commissie of naar personen die voorkomen in dat onderzoek, vindt overleg plaats tussen de tijdelijke commissie en het orgaan dat het andere onderzoek uitvoert, indien van toepassing met tussenkomst van de betrokken minister.
+
+### Hoofdstuk 3a. Varianten, bevoegdheden en uitvoering onderzoek door een enquêtecommissie
+
+#### § 3a.1. Varianten
+
+##### Artikel 14bis
+
+De variant van een beknopte enquête is een parlementair onderzoek door een enquêtecommissie met een beknopte onderzoeksvraag.
+
+##### Artikel 14ter
+
+De variant van een parlementaire enquête is elk ander parlementair onderzoek door een enquêtecommissie dan dat bedoeld in [artikel 14bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14bis&z=2023-07-06&g=2023-07-06).
+
+##### Artikel 14quater
+
+Indien een enquêtecommissie die een parlementair onderzoek uitvoert in de variant van een beknopte enquête het noodzakelijk acht haar onderzoek voort zetten in een andere variant, doet zij daartoe een voorstel als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=2&artikel=4&z=2023-07-06&g=2023-07-06) aan de Kamer.
+
+#### § 3a.2. Bevoegdheden en uitvoering
 
 ##### Artikel 14a
 
@@ -260,28 +211,6 @@ De tijdelijke commissie kan, zo nodig in afwijking van de [artikelen 13 tot en m
 
 De enquêtecommissie kan, zo nodig in afwijking van de [artikelen 14b tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.2&artikel=14b&z=2023-07-06&g=2023-07-06), nadere afspraken maken met de betrokken minister of met derden over de wijze waarop uitvoering wordt gegeven aan een vordering tot het verstrekken van afschrift van, inzage in of kennisneming van documenten.
 
-### Hoofdstuk 4. Aanbieding en beëindiging
-
-### Hoofdstuk 5. Archivering en toegankelijkheid van documenten
-
-### Hoofdstuk 4. Aanbieding en beëindiging
-
-#### § 3a.1. Varianten
-
-##### Artikel 14bis
-
-De variant van een beknopte enquête is een parlementair onderzoek door een enquêtecommissie met een beknopte onderzoeksvraag.
-
-##### Artikel 14ter
-
-De variant van een parlementaire enquête is elk ander parlementair onderzoek door een enquêtecommissie dan dat bedoeld in [artikel 14bis](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=3a&paragraaf=3a.1&artikel=14bis&z=2023-07-06&g=2023-07-06).
-
-##### Artikel 14quater
-
-Indien een enquêtecommissie die een parlementair onderzoek uitvoert in de variant van een beknopte enquête het noodzakelijk acht haar onderzoek voort zetten in een andere variant, doet zij daartoe een voorstel als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=2&artikel=4&z=2023-07-06&g=2023-07-06) aan de Kamer.
-
-#### § 3a.2. Bevoegdheden en uitvoering
-
 ### Hoofdstuk 3b. Ondersteuning (oud-)leden die worden gehoord
 
 ##### Artikel 14f
@@ -290,6 +219,48 @@ Indien een enquêtecommissie die een parlementair onderzoek uitvoert in de varia
 
 2. Het Presidium deelt de voorzieningen, en elke wijziging daarvan, mee aan de Kamer.
 
+### Hoofdstuk 4. Aanbieding en beëindiging
+
+##### Artikel 15
+
+1. Alle rapporten van tijdelijke commissies en enquêtecommissies worden aangeboden aan de Voorzitter van de Kamer.
+
+2. Het rapport wordt doorgeleid naar de meest betrokken commissie.
+
+3. Extern onderzoek voor de Kamer door derden wordt direct aangeboden aan de meest betrokken commissie.
+
+##### Artikel 16
+
+Nadat een tijdelijke commissie aan de Kamer verantwoording over haar werkzaamheden heeft afgelegd, beëindigt de Kamer het parlementair onderzoek en heft zij de tijdelijke commissie op.
+
 ### Hoofdstuk 5. Archivering en toegankelijkheid van documenten
 
+##### Artikel 17
+
+1. Met ingang van de dag dat de Kamer het parlementair onderzoek beëindigt, gaan van rechtswege over op de Kamer:
+
+- a. de documenten die op verzoek aan de tijdelijke commissie zijn verstrekt;
+
+- b. de documenten die zijn opgesteld ten behoeve van intern beraad, en
+
+- c. andere documenten die de tijdelijke commissie van belang acht.
+
+2. Bij extern onderzoek berust de verantwoordelijkheid voor de archivering bij de uitvoerder, voor zover de Kamer geen aanspraak wenst te maken op de door derden in opdracht van de Kamer verzamelde documenten.
+
+##### Artikel 18
+
+1. Er wordt tot de dag waarop de tijdelijke commissie haar rapport aanbiedt aan de Kamer geen inzage gegeven in documenten die onder de commissie berusten tenzij de tijdelijke commissie anders besluit.
+
+2. De tijdelijke commissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commissie berusten of, nadat deze documenten op grond van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2023-07-06&g=2023-07-06), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten.
+
+3. De Kamer kan besluiten een op grond van het tweede lid aan de openbaarheid gestelde beperking op te heffen, dan wel deze ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
+
+##### Artikel 19
+
+Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024414&hoofdstuk=5&artikel=17&z=2023-07-06&g=2023-07-06).
+
 ### Hoofdstuk 6. Slotbepaling
+
+##### Artikel 20
+
+Deze regeling wordt aangehaald als: Regeling parlementair en extern onderzoek.

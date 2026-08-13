@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 4 december 2008, houdende regels met betrekking tot onderwijsvoorzieningen voor jongeren met een handicap en de uitvoering daarvan door UWV (Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap)"
+citeertitel: "Uitvoeringsbesluit onderwijsvoorzieningen"
 identifier: "BWBR0024869"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-10-04"
-last_updated: "2025-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024869"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "9800203"
-version_id: "15912452"
-internal_id: "C21824871"
-label_id: "9777054"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024869/2025-10-04/0"
-intitule_bron: "Stb.2008-540"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-04"
-intitule_published: "2008-12-18"
-intitule_in_force: "2008-12-18"
-intitule_status: "goed"
-original_publication: "Stb.2008-540"
-original_signed_date: "2008-12-04"
-original_published_date: "2008-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-540"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024869&z=2025-10-04&g=2025-10-04"
-jci_1_0: "1.0:c:BWBR0024869&g=2025-10-04"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit onderwijsvoorzieningen"
-signed_date: "2008-12-04"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2025-10-04
+status: geldig
+toestand: 2025-10-04
+bron: "https://wetten.overheid.nl/BWBR0024869"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 4 december 2008, houdende regels met betrekking tot onderwijsvoorzieningen voor jongeren met een handicap en de uitvoering daarvan door UWV (Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap)
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, Sharon A.M. Dijksma, van 6 oktober 2008, nr. WJZ/57270 (2658), directie Wetgeving en Juridische Zaken; gedaan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op [artikel 19a, zevende lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a);
-
-De Raad van State gehoord (advies van 22 oktober 2008, nr. W05.08.0425/I);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, Sharon A.M. Dijksma, van 25 november 2008, nr. WJZ/72435 (2658), directie Wetgeving en Juridische Zaken; uitgebracht in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 19a van de Wet overige OCW-subsidies in werking treedt.
 
 #### Paragraaf 1. Algemeen
 
@@ -54,13 +20,13 @@ Treedt in werking op het tijdstip waarop artikel 19a van de Wet overige OCW-subs
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
+- a. *wet:* de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
 
-- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- b. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- c. **intermediaire activiteit:** persoonlijke dienstverlening die gericht is op de vervanging of ondersteuning van een door ziekte of gebrek geheel of gedeeltelijk ontbrekende lichaamsfunctie;
+- c. *intermediaire activiteit:* persoonlijke dienstverlening die gericht is op de vervanging of ondersteuning van een door ziekte of gebrek geheel of gedeeltelijk ontbrekende lichaamsfunctie;
 
-- d. **cluster 1, 2, 3 onderscheidenlijk 4:** de clusters, bedoeld in [artikel 2, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
+- d. *cluster 1, 2, 3 onderscheidenlijk 4:* de clusters, bedoeld in [artikel 2, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
 
 ##### Artikel 2. Uitgangspunten verlening voorzieningen
 
@@ -98,9 +64,9 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 - a. voorzieningen waarvoor een regeling is getroffen bij of krachtens:
 
-- 1°. de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); of
+   - 1°. de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682); of
 
-- 2°. de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), tenzij het gaat om intermediaire activiteiten voor leerlingen die ingeschreven zijn op een school behorend tot cluster 2, ten behoeve van het volgen van een stage of symbiose-onderwijs als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9), respectievelijk [artikel 12 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=12), of om intermediaire activiteiten voor leerlingen die ingeschreven staan op een school behorend tot cluster 1, 3 of 4;
+   - 2°. de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), tenzij het gaat om intermediaire activiteiten voor leerlingen die ingeschreven zijn op een school behorend tot cluster 2, ten behoeve van het volgen van een stage of symbiose-onderwijs als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9), respectievelijk [artikel 12 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=12), of om intermediaire activiteiten voor leerlingen die ingeschreven staan op een school behorend tot cluster 1, 3 of 4;
 
 - b. voorzieningen waarvoor een regeling is getroffen onder verantwoordelijkheid van Onze Minister van Volksgezondheid, Welzijn en Sport of aanvullingen op die voorzieningen waarvoor een eigen bijdrage wordt betaald, met uitzondering van bij ministeriële regeling aangewezen hulpmiddelen, genoemd in de [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715), voor zover die hulpmiddelen vrijwel uitsluitend worden gebruikt in de onderwijssituatie;
 
@@ -195,5 +161,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 19a van de wet](ht
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit onderwijsvoorzieningen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-06
 status: geldig
 toestand: 2026-08-06
 bron: "https://wetten.overheid.nl/BWBR0035436"
-opgehaald: 2026-08-12
+opgehaald: 2026-08-13
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 4 augustus 2014, nr. MinBuZa.2014.398562, houdende beperkende maatregelen in verband met de situatie in Sudan (Sanctieregeling Sudan 2014)

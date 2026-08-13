@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 mei 2009, houdende regels met betrekking tot de verlening van een toevoeging ten behoeve van mediation, de eigen bijdrage in geval van mediation op basis van een toevoeging alsmede de vaststelling van de vergoeding voor op basis van een toevoeging verleende mediation (Besluit toevoeging mediation)"
+citeertitel: "Besluit toevoeging mediation"
 identifier: "BWBR0025830"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-02-01"
-last_updated: "2026-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025830"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10038793"
-version_id: "16399942"
-internal_id: "C22591071"
-label_id: "10015254"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025830/2026-02-01/0"
-intitule_bron: "Stb.2009-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-05-04"
-intitule_published: "2009-05-14"
-intitule_in_force: "2009-06-04"
-intitule_status: "goed"
-original_publication: "Stb.2009-205"
-original_signed_date: "2009-05-04"
-original_published_date: "2009-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-205"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0025830&z=2026-02-01&g=2026-02-01"
-jci_1_0: "1.0:c:BWBR0025830&g=2026-02-01"
-citeertitel_status: "officieel"
-short_title: "Besluit toevoeging mediation"
-signed_date: "2009-05-04"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2026-02-01
+status: geldig
+toestand: 2026-02-01
+bron: "https://wetten.overheid.nl/BWBR0025830"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 4 mei 2009, houdende regels met betrekking tot de verlening van een toevoeging ten behoeve van mediation, de eigen bijdrage in geval van mediation op basis van een toevoeging alsmede de vaststelling van de vergoeding voor op basis van een toevoeging verleende mediation (Besluit toevoeging mediation)
-
-Op de voordracht van de Staatssecretaris van Justitie van 23 maart 2009, nr. 5593413/09/6;
-
-Gelet op [artikel 33e, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), juncto de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=12), [25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=25), [28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), [34a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34a), [34d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34d), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35), [37, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37), en [41 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=41);
-
-De Raad van State gehoord (advies van 15 april 2009, nr. W03.09.0101/II);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 24 april 2009, nr. 5599234/09/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -52,9 +20,10 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- a. *wet:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. **eigen bijdrage:** eigen bijdrage, bedoeld in [artikel 33e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), juncto [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35).
+- b. *eigen bijdrage:* eigen bijdrage, bedoeld in [artikel 33e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), juncto [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35).
 
 ### Hoofdstuk 2. Toevoeging ten behoeve van mediation
 
@@ -70,15 +39,15 @@ De [artikelen 8 tot en met 10 van het Besluit eigen bijdrage rechtsbijstand](htt
 
 ##### Artikel 4
 
-1. De eigen bijdrage die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 115 per 1 januari 2026: € 138.
+1. De eigen bijdrage die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 115 *per 1 januari 2026: € 138*.
 
-2. In afwijking van het eerste lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 53,– per 1 januari 2026: € 69, indien:
+2. In afwijking van het eerste lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 53,– *per 1 januari 2026: € 69*, indien:
 
-- a. uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen en het inkomen ten hoogste € 16 800,– per 1 januari 2026: € 25.200 bedraagt; of
+- a. uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen en het inkomen ten hoogste € 16 800,– *per 1 januari 2026: € 25.200* bedraagt; of
 
-- b. in andere gevallen, het inkomen ten hoogste € 23 400,– per 1 januari 2026: € 35.000 bedraagt.
+- b. in andere gevallen, het inkomen ten hoogste € 23 400,– *per 1 januari 2026: € 35.000* bedraagt.
 
-3. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 105,– per 1 januari 2026: € 138.
+3. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 105,– *per 1 januari 2026: € 138*.
 
 4. [Artikel 3 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=3) is van overeenkomstige toepassing ten aanzien van de inkomensgrenzen, bedoeld in het tweede lid, alsmede de hoogten van de eigen bijdragen, bedoeld in het eerste tot en met derde lid.
 
@@ -130,7 +99,7 @@ Indien een toevoeging ten behoeve van mediation wordt verleend in een zaak waari
 
 De [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=30) en [31 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=31) zijn van overeenkomstige toepassing ten aanzien van de vaststelling van de vergoeding van een mediator, met dien verstande dat:
 
-- a. de mediator bij zijn aanvraag tot vaststelling van de vergoeding, indien als resultaat van de mediation een vaststellingsovereenkomst is gesloten en een rechtzoekende uit hoofde hiervan een vordering met betrekking tot een geldsom ter hoogte van tenminste 50% van het drempelbedrag, genoemd in artikel 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 heeft, van deze vordering melding maakt; en
+- a. de mediator bij zijn aanvraag tot vaststelling van de vergoeding, indien als resultaat van de mediation een vaststellingsovereenkomst is gesloten en een rechtzoekende uit hoofde hiervan een vordering met betrekking tot een geldsom ter hoogte van tenminste 50% van het drempelbedrag, genoemd in artikel 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 heeft, van deze vordering melding maakt; en
 
 - b. de vergoeding wordt vastgesteld met inachtneming van [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=7&z=2026-02-01&g=2026-02-01), van dit besluit.
 
@@ -146,7 +115,7 @@ De [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&ar
 
 ##### Artikel 12
 
-Wijzigt het Besluit eigen bijdrage rechtsbijstand.
+*Wijzigt het Besluit eigen bijdrage rechtsbijstand.*
 
 ##### Artikel 13
 
@@ -155,5 +124,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit toevoeging mediation.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

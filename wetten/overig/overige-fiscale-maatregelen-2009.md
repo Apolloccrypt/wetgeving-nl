@@ -1,110 +1,80 @@
 ---
 title: "Wet van 18 december 2008, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2009)"
+citeertitel: "Overige fiscale maatregelen 2009"
 identifier: "BWBR0025024"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025024"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "9840353"
-version_id: "16012412"
-internal_id: "C21941541"
-label_id: "9816994"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025024/2012-01-01/0"
-intitule_bron: "Stb.2008-566"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-18"
-intitule_published: "2008-12-29"
-intitule_in_force: "2008-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2008-566"
-original_signed_date: "2008-12-18"
-original_published_date: "2008-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "31705"
-original_url_id: "stb-2008-566"
-entry_into_force_date: "2008-12-31"
-entry_into_force_dossier: "31705"
-jci_1_3: "jci1.3:c:BWBR0025024&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0025024&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Overige fiscale maatregelen 2009"
-signed_date: "2008-12-18"
-entry_into_force: "2008-12-31"
+publicatiedatum: 2008-12-31
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0025024"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 18 december 2008, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2009)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2009 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen alsmede enkele technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/640.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/640.*
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel V
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel X
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XI
 
-Wijzigt het Belastingplan 2007.
+*Wijzigt het Belastingplan 2007.*
 
 ##### Artikel XII
 
-Wijzigt de Overige fiscale maatregelen 2008.
+*Wijzigt de Overige fiscale maatregelen 2008.*
 
 ##### Artikel XIII
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet kinderopvang.
+*Wijzigt de Wet kinderopvang.*
 
 ##### Artikel XV
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel XVI
 
@@ -125,5 +95,3 @@ Wijzigt de Wet studiefinanciering 2000.
 ##### Artikel XVIII
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2009.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,56 +1,30 @@
 ---
 title: "Beleidsregel met betrekking tot de behandeling en beoordeling van aanvragen voor schadevergoeding of nadeelcompensatie in verband met de uitvoering van de Planologische kernbeslissing Ruimte voor de Rivier (Beleidsregel schadevergoeding Ruimte voor de Rivier)"
+citeertitel: "Beleidsregel schadevergoeding Ruimte voor de Rivier"
 identifier: "BWBR0025792"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-02-01"
-last_updated: "2013-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025792"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "10002973"
-version_id: "16360392"
-internal_id: "C22460231"
-label_id: "9979294"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025792/2013-02-01/0"
-intitule_bron: "Stcrt.2009-82"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-04-21"
-intitule_published: "2009-05-06"
-intitule_in_force: "2009-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-82"
-original_signed_date: "2009-04-21"
-original_published_date: "2009-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-6611"
-entry_into_force_date: "2009-05-08"
-jci_1_3: "jci1.3:c:BWBR0025792&z=2013-02-01&g=2013-02-01"
-jci_1_0: "1.0:c:BWBR0025792&g=2013-02-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel schadevergoeding Ruimte voor de Rivier"
-signed_date: "2009-04-21"
-entry_into_force: "2009-05-08"
+publicatiedatum: 2009-05-08
+laatste_update: 2013-02-01
+status: geldig
+toestand: 2013-02-01
+bron: "https://wetten.overheid.nl/BWBR0025792"
+opgehaald: 2026-08-13
 ---
+
 # Beleidsregel met betrekking tot de behandeling en beoordeling van aanvragen voor schadevergoeding of nadeelcompensatie in verband met de uitvoering van de Planologische kernbeslissing Ruimte voor de Rivier (Beleidsregel schadevergoeding Ruimte voor de Rivier)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **de minister:** de Minister van Verkeer en Waterstaat;
+- a. *de minister:* de Minister van Verkeer en Waterstaat;
 
-- b. **aanvraag:** aanvraag om schadevergoeding of tegemoetkoming in de schade als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025792&artikel=2&z=2013-02-01&g=2013-02-01);
+- b. *aanvraag:* aanvraag om schadevergoeding of tegemoetkoming in de schade als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025792&artikel=2&z=2013-02-01&g=2013-02-01);
 
-- c. **de Overeenkomst:** de overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN (Stcrt. 1999, 97).
+- c. *de Overeenkomst:* de overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN (Stcrt. 1999, 97).
 
-- d. **de PKB Ruimte voor de Rivier:** de bij besluit van 19 december 2006 vastgestelde Planologische Kernbeslissing Ruimte voor de Rivier, deel 4, die op 26 januari 2007 van kracht is geworden (Stcrt. 2007, 18).
+- d. *de PKB Ruimte voor de Rivier:* de bij besluit van 19 december 2006 vastgestelde Planologische Kernbeslissing Ruimte voor de Rivier, deel 4, die op 26 januari 2007 van kracht is geworden (Stcrt. 2007, 18).
 
 ##### Artikel 2. Het recht op schadevergoeding
 
@@ -88,7 +62,7 @@ een vergoeding, dan wel tegemoetkoming toe, overeenkomstig de materiële maatsta
 
 8. Deze beleidsregel is niet van toepassing op besluiten of handelingen die verband houden met de maatregel Uiterwaardvergraving Huissense Waarden, genoemd in de bijlage behorende bij de PKB Ruimte voor de Rivier.
 
-##### Artikel 3. Overeenkomstige toepassing procedurebepalingen [RNC VenW 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010692)
+##### Artikel 3. Overeenkomstige toepassing procedurebepalingen RNC VenW 1999
 
 De [artikelen 12 tot en met 20 van de Regeling nadeelcompensatie Verkeer en Waterstaat 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010692&artikel=12) zijn van overeenkomstige toepassing op het aanvragen en behandelen van een aanvraag, tenzij en voorzover dit niet verenigbaar is met een in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025792&artikel=2&z=2013-02-01&g=2013-02-01), bedoeld wettelijk voorschrift.
 
@@ -99,5 +73,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel schadevergoeding Ruimte voo
 ##### Artikel 5. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

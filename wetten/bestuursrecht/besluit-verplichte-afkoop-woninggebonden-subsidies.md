@@ -1,58 +1,26 @@
 ---
 title: "Besluit van 22 augustus 2008, houdende regels met betrekking tot verplichte afkoop van krachtens het Besluit woninggebonden subsidies verleende geldelijke steun en houdende wijziging en intrekking van het Besluit woninggebonden subsidies 1995 (Besluit verplichte afkoop woninggebonden subsidies)"
+citeertitel: "Besluit verplichte afkoop woninggebonden subsidies"
 identifier: "BWBR0024444"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-09-01"
-last_updated: "2009-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024444"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9711083"
-version_id: "15702662"
-internal_id: "C21622001"
-label_id: "9688064"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024444/2009-09-01/0"
-intitule_bron: "Stb.2008-354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-22"
-intitule_published: "2008-09-09"
-intitule_in_force: "2008-11-06"
-intitule_status: "goed"
-original_publication: "Stb.2008-354"
-original_signed_date: "2008-08-22"
-original_published_date: "2008-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-354"
-entry_into_force_date: "2008-11-10"
-jci_1_3: "jci1.3:c:BWBR0024444&z=2009-09-01&g=2009-09-01"
-jci_1_0: "1.0:c:BWBR0024444&g=2009-09-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verplichte afkoop woninggebonden subsidies"
-signed_date: "2008-08-22"
-entry_into_force: "2008-11-10"
+publicatiedatum: 2008-11-10
+laatste_update: 2009-09-01
+status: geldig
+toestand: 2009-09-01
+bron: "https://wetten.overheid.nl/BWBR0024444"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 22 augustus 2008, houdende regels met betrekking tot verplichte afkoop van krachtens het Besluit woninggebonden subsidies verleende geldelijke steun en houdende wijziging en intrekking van het Besluit woninggebonden subsidies 1995 (Besluit verplichte afkoop woninggebonden subsidies)
-
-Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 16 juni 2008, nr. BJZ2008057286, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op de [artikelen 81 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=81) en [18 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=18);
-
-De Raad van State gehoord (advies van 23 juli 2008, nr. W08.08.0231/IV);
-
-Gezien het nader rapport van Onze Minister voor Wonen, Wijken en Integratie van 15 augustus 2008, nr. BJZ2008073097, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **afkoopdatum:** het tijdstip van inwerkingtreding van het [eerste, tweede, derde of vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2009-09-01&g=2009-09-01) of, ingeval het tijdstip van inwerkingtreding van het betreffende lid valt na 1 oktober van het kalenderjaar, 31 december van dat kalenderjaar;
+- *afkoopdatum:* het tijdstip van inwerkingtreding van het [eerste, tweede, derde of vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2009-09-01&g=2009-09-01) of, ingeval het tijdstip van inwerkingtreding van het betreffende lid valt na 1 oktober van het kalenderjaar, 31 december van dat kalenderjaar;
 
-- **Onze Minister:** Onze Minister voor Wonen, Wijken en Integratie.
+- *Onze Minister:* Onze Minister voor Wonen, Wijken en Integratie.
 
 ##### Artikel 2
 
@@ -104,7 +72,7 @@ Na vaststelling van de beschikking, bedoeld in [artikel 3](https://wetten.overhe
 
 ##### Artikel 8
 
-Wijzigt het Besluit woninggebonden subsidies 1995.
+*Wijzigt het Besluit woninggebonden subsidies 1995.*
 
 ##### Artikel 9
 
@@ -113,5 +81,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit verplichte afkoop woninggebonden subsidies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

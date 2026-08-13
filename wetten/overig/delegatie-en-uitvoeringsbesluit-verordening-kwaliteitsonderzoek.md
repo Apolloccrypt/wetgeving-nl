@@ -1,63 +1,40 @@
 ---
 title: "Besluit houdende regels inzake delegatie van kwaliteitsonderzoek aan de Nederlandse Orde van Accountants-Administratieconsulenten (Delegatie- en uitvoeringsbesluit Verordening Kwaliteitsonderzoek)"
+citeertitel: "Delegatie- en uitvoeringsbesluit Verordening Kwaliteitsonderzoek"
 identifier: "BWBR0025101"
-country: "nl"
-rank: "pbo"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025101"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9867003"
-version_id: "16068672"
-internal_id: "C22039711"
-label_id: "9843434"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025101/2009-01-01/0"
-intitule_bron: "Stcrt.2008-253"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-12-31"
-intitule_in_force: "2008-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-253"
-original_published_date: "2008-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2751"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0025101&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBR0025101&g=2009-01-01"
-citeertitel_status: "officieel"
-short_title: "Delegatie- en uitvoeringsbesluit Verordening Kwaliteitsonderzoek"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBR0025101"
+opgehaald: 2026-08-13
 ---
+
 # Besluit houdende regels inzake delegatie van kwaliteitsonderzoek aan de Nederlandse Orde van Accountants-Administratieconsulenten (Delegatie- en uitvoeringsbesluit Verordening Kwaliteitsonderzoek)
-
-Het bestuur van de Orde Koninklijk Nederlands Instituut van Registeraccountants maakt, gelet op [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42), onderstaand besluit bekend welke op 11 december 2008 door het bestuur is genomen.
-
-Besluit als volgt:
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **aanbevelingen:** de aanbevelingen, bedoeld in [artikel 11, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=11);
+- a. *aanbevelingen:* de aanbevelingen, bedoeld in [artikel 11, eerste lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=11);
 
-- b. **accountant:** de accountant, bedoeld in [artikel 1, onderdeel b, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
+- b. *accountant:* de accountant, bedoeld in [artikel 1, onderdeel b, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
 
-- c. **accountantsafdeling:** de accountantsafdeling, bedoeld in de Verordening gedragscode;
+- c. *accountantsafdeling:* de accountantsafdeling, bedoeld in de Verordening gedragscode;
 
-- d. **accountantskantoor:** het accountantskantoor, bedoeld in de Verordening gedragscode;
+- d. *accountantskantoor:* het accountantskantoor, bedoeld in de Verordening gedragscode;
 
-- e. **College:** het College Kwaliteitsonderzoek, bedoeld in [artikel 21 van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=21);
+- e. *College:* het College Kwaliteitsonderzoek, bedoeld in [artikel 21 van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=21);
 
-- f. **NOvAA:** de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in [artikel 2 van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=2);
+- f. *NOvAA:* de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in [artikel 2 van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=2);
 
-- g. **periodiek onderzoek:** het periodiek onderzoek, bedoeld in [artikel 1, onderdeel o, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
+- g. *periodiek onderzoek:* het periodiek onderzoek, bedoeld in [artikel 1, onderdeel o, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
 
-- h. **systeem van kwaliteitsborging:** het systeem van kwaliteitsborging, bedoeld in [artikel 1, onderdeel q, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
+- h. *systeem van kwaliteitsborging:* het systeem van kwaliteitsborging, bedoeld in [artikel 1, onderdeel q, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1);
 
-- i. **vervolgonderzoek:** het vervolgonderzoek, bedoeld in [artikel 1, onderdeel s, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1).
+- i. *vervolgonderzoek:* het vervolgonderzoek, bedoeld in [artikel 1, onderdeel s, van de Verordening Kwaliteitsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0025091&artikel=1).
 
 ##### Artikel 2
 

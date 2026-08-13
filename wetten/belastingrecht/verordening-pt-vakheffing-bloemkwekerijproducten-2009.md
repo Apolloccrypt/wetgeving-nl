@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van i juli 2008, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2009 (Verordening PT vakheffing bloemkwekerijproducten 2009)"
+citeertitel: "Verordening PT vakheffing bloemkwekerijproducten 2009"
 identifier: "BWBR0025121"
-country: "nl"
-rank: "pbo"
-publication_date: "2010-07-25"
-last_updated: "2010-07-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025121"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9871403"
-version_id: "16078362"
-internal_id: "C22055131"
-label_id: "9847934"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025121/2010-07-25/0"
-intitule_bron: "Vbbo.2008-93"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-01"
-intitule_published: "2008-11-14"
-intitule_in_force: "2008-11-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-93"
-original_signed_date: "2008-07-01"
-original_published_date: "2008-11-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-11-16"
-jci_1_3: "jci1.3:c:BWBR0025121&z=2010-07-25&g=2010-07-25"
-jci_1_0: "1.0:c:BWBR0025121&g=2010-07-25"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloemkwekerijproducten 2009"
-signed_date: "2008-07-01"
-entry_into_force: "2008-11-16"
+publicatiedatum: 2008-11-16
+laatste_update: 2010-07-25
+status: geldig
+toestand: 2010-07-25
+bron: "https://wetten.overheid.nl/BWBR0025121"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van i juli 2008, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2009 (Verordening PT vakheffing bloemkwekerijproducten 2009)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bloemkwekerijproducten, d.d. 15 mei 2008;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,7 +24,7 @@ Besluit:
 
 3. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-| a. bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| a. bloemkwekerijproducten: | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: 1°. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; 2°. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; 3°. dahliastekken, begonia-en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en 4°. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | --- | --- |
 | b. teeltmateriaal: | planten en plantendelen (m.u.v. bloemzaden) die bestemd zijn om voor de teelt van bloemkwekerijproducten of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 | c. het kweken van bloemkwekerijproducten of teeltmateriaal: | 1°. het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of teeltmateriaal; 2°. het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of teeltmateriaal, of 3°. het oogsten van bloemkwekerijproducten of teeltmateriaal; |
@@ -118,21 +89,21 @@ ontvangt van het productschap een restitutie ter grootte van de over de oorspron
 
 7. Voor de kweker cq importeur, die aantoont dat hij bij de NAK-Tuinbouw is geregistreerd en teeltmateriaal onder toezicht van de NAK-Tuinbouw heeft verhandeld, geldt de heffing voor teeltmateriaal.
 
-- a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
+8. - a. Bedrijven die in aanmerking willen komen voor een gedeeltelijke verlaging van het heffingstarief, dienen over het betrokken kalenderjaar de gecertificeerde jaarrekening aan het productschap te overleggen.
 
 - b. Wanneer het productschap bij handelsbedrijven vaststelt dat op jaarbasis de heffingsgrondslag van aangekochte bloemkwekerijproducten hoger is dan € 11.000.000,=, wordt over:
 
-- 1. het bedrag tussen € 0,0 - € 11.000.000= het heffingstarief van 0,31% toegepast,
+   - 1. het bedrag tussen € 0,0 - € 11.000.000= het heffingstarief van 0,31% toegepast,
 
-- 2. het bedrag tussen € 11.000.000,= en € 50.000.000,= het verlaagde heffingstarief van 0,21% toegepast, en
+   - 2. het bedrag tussen € 11.000.000,= en € 50.000.000,= het verlaagde heffingstarief van 0,21% toegepast, en
 
-- 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffmgstarief van 0,11% toegepast,
+   - 3. het bedrag groter dan € 50.000.000,=, het verlaagde heffmgstarief van 0,11% toegepast,
 
 - c. Wanneer het productschap bij teeltbedrijven vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde teeltmateriaal) hoger is dan € 6.000.000,=, wordt over:
 
-- 1. de eerste € 6.000.000,= het heffingstarief van 0,82% toegepast, en
+   - 1. de eerste € 6.000.000,= het heffingstarief van 0,82% toegepast, en
 
-- 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,57% toegepast,
+   - 2. het bedrag hoger dan € 6.000.000,= het verlaagde heffingstarief van 0,57% toegepast,
 
 - d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop van het jaar waarover de restitutie wordt gevraagd en vergezeld gaan van een accountantsverklaring.
 
@@ -175,5 +146,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2009.
-
-Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

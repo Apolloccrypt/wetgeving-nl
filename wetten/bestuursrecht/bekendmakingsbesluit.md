@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 21 januari 2009 tot uitvoering van de Bekendmakingswet (Bekendmakingsbesluit)"
+citeertitel: "Bekendmakingsbesluit"
 identifier: "BWBR0025257"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025257"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9894223"
-version_id: "16120432"
-internal_id: "C22728941"
-label_id: "9870804"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025257/2021-07-01/0"
-intitule_bron: "Stb.2009-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-21"
-intitule_published: "2009-02-03"
-intitule_in_force: "2009-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2009-30"
-original_signed_date: "2009-01-21"
-original_published_date: "2009-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-30"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0025257&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0025257&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Bekendmakingsbesluit"
-signed_date: "2009-01-21"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0025257"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 21 januari 2009 tot uitvoering van de Bekendmakingswet (Bekendmakingsbesluit)
-
-Op de voordracht van Onze Minister van Justitie van 15 oktober 2008, nr. 556829/08/6, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
-
-Gelet op de [artikelen 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=8) en [10a, eerste en tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=10a);
-
-De Raad van State gehoord (advies van 12 november 2008, nr. W03.08.0457/II);
-
-Gezien het nader rapport van Onze Minister van Justitie van 15 december 2008, nr. 5577375/08/6, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I van de Wet elektronische bekendmaking in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -86,35 +52,43 @@ In het Staatsblad wordt opgenomen al hetgeen waarvan een wet, algemene maatregel
 
 Wetten, algemene maatregelen van bestuur en andere koninklijke besluiten waarbij algemeen verbindende voorschriften worden vastgesteld, worden na plaatsing in het Staatsblad door Onze Minister teruggezonden aan het Kabinet van de Koning.
 
+##### Artikel 8
+
+Onze Minister past met betrekking tot de plaatsing in het Staatsblad de regels of technische standaarden toe die krachtens het Besluit elektronische publicaties zijn gesteld onderscheidenlijk zijn aangewezen.
+
 ### Hoofdstuk 3. Uitgifte van de Staatscourant
 
 ##### Artikel 8
 
-Onze Minister past met betrekking tot de plaatsing in het Staatsblad de regels of technische standaarden toe die krachtens het [Besluit elektronische publicaties](onbekend) zijn gesteld onderscheidenlijk zijn aangewezen.
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Beschikbaarstelling van teksten in geconsolideerde vorm
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 13
+
+Dit besluit berust op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=15) en [16, eerste, tweede en vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16).
 
 ##### Artikel 14
 
@@ -127,21 +101,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet elekt
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Bekendmakingsbesluit.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk 3. Uitgifte van de Staatscourant
-
-##### Artikel 8
-
-Vervallen
-
-### Hoofdstuk 4. Beschikbaarstelling van teksten in geconsolideerde vorm
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 13
-
-Dit besluit berust op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=15) en [16, eerste, tweede en vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

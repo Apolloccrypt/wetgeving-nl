@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2008, nr. BREM2008094427, houdende regels met betrekking tot de programmafinanciering van lokale luchtkwaliteitsmaatregelen (Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen)"
+citeertitel: "Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen"
 identifier: "BWBR0024593"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-11-02"
-last_updated: "2011-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024593"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9747523"
-version_id: "15794992"
-internal_id: "C29433991"
-label_id: "9724494"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024593/2011-11-02/0"
-intitule_bron: "Stcrt.2008-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-02"
-intitule_published: "2008-10-09"
-intitule_in_force: "2008-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-196"
-original_signed_date: "2008-10-02"
-original_published_date: "2008-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-196-p19-SC87885"
-entry_into_force_date: "2008-10-11"
-jci_1_3: "jci1.3:c:BWBR0024593&z=2011-11-02&g=2011-11-02"
-jci_1_0: "1.0:c:BWBR0024593&g=2011-11-02"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen"
-signed_date: "2008-10-02"
-entry_into_force: "2008-10-11"
+publicatiedatum: 2008-10-11
+laatste_update: 2011-11-02
+status: geldig
+toestand: 2011-11-02
+bron: "https://wetten.overheid.nl/BWBR0024593"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2008, nr. BREM2008094427, houdende regels met betrekking tot de programmafinanciering van lokale luchtkwaliteitsmaatregelen (Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen)
-
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -124,19 +98,19 @@ In deze regeling wordt verstaan onder:
 
 - d. een overzicht met:
 
-- 1. het totaal van de kosten van de lokale luchtkwaliteitsmaatregelen voor het desbetreffende gebied;
+   - 1. het totaal van de kosten van de lokale luchtkwaliteitsmaatregelen voor het desbetreffende gebied;
 
-- 2. inzicht in de eigen bijdrage van de deelnemende decentrale overheden, en, indien van toepassing, de bijdragen van derden;
+   - 2. inzicht in de eigen bijdrage van de deelnemende decentrale overheden, en, indien van toepassing, de bijdragen van derden;
 
-- 3. de toedeling van de in totaal beschikbaar gestelde rijksmiddelen aan de deelnemende decentrale overheden;
+   - 3. de toedeling van de in totaal beschikbaar gestelde rijksmiddelen aan de deelnemende decentrale overheden;
 
-- 4. de geraamde subsidie luchtkwaliteit derde tranche en de indicatieve subsidie luchtkwaliteit vierde tranche;
+   - 4. de geraamde subsidie luchtkwaliteit derde tranche en de indicatieve subsidie luchtkwaliteit vierde tranche;
 
-- 5. de door de Minister eerder bij beschikking beschikbaar gestelde subsidies luchtkwaliteit eerste en tweede tranche in de door een provincie, plusregio, openbaar lichaam of gemeente te maken of gemaakte kosten voor het treffen van lokale luchtkwaliteitsmaatregelen;
+   - 5. de door de Minister eerder bij beschikking beschikbaar gestelde subsidies luchtkwaliteit eerste en tweede tranche in de door een provincie, plusregio, openbaar lichaam of gemeente te maken of gemaakte kosten voor het treffen van lokale luchtkwaliteitsmaatregelen;
 
-- 6. gegevens waaruit blijkt dat in de kosten waarvoor een subsidie luchtkwaliteit wordt gevraagd geen winstopslag ten behoeve van de subsidie-ontvanger is opgenomen en waaruit blijkt voor welke lokale luchtkwaliteitsmaatregel en kosten eventueel uit andere hoofde dan deze regeling subsidie is of wordt aangevraagd, dan wel is verstrekt;
+   - 6. gegevens waaruit blijkt dat in de kosten waarvoor een subsidie luchtkwaliteit wordt gevraagd geen winstopslag ten behoeve van de subsidie-ontvanger is opgenomen en waaruit blijkt voor welke lokale luchtkwaliteitsmaatregel en kosten eventueel uit andere hoofde dan deze regeling subsidie is of wordt aangevraagd, dan wel is verstrekt;
 
-- 7. gegevens waardoor aannemelijk wordt gemaakt dat volgens met de saneringstool, of een andere ingevolge de [Regeling beoordeling luchtkwaliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022817) goedgekeurde methode, gemaakte berekeningen, inzichten en prognoses waarvan wordt uitgegaan ten tijde van de aanvraag en uitgaande van een volledige uitvoering van de Europese thematische strategie inzake het luchtkwaliteitsbeleid, het nationale generieke beleid en de lokale inspanningen, de grenswaarden voor luchtkwaliteit tijdig worden bereikt;
+   - 7. gegevens waardoor aannemelijk wordt gemaakt dat volgens met de saneringstool, of een andere ingevolge de [Regeling beoordeling luchtkwaliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022817) goedgekeurde methode, gemaakte berekeningen, inzichten en prognoses waarvan wordt uitgegaan ten tijde van de aanvraag en uitgaande van een volledige uitvoering van de Europese thematische strategie inzake het luchtkwaliteitsbeleid, het nationale generieke beleid en de lokale inspanningen, de grenswaarden voor luchtkwaliteit tijdig worden bereikt;
 
 - e. een overzicht van projecten die in betekenende mate bijdragen aan de concentraties in de buitenlucht van een stof waarvoor in [bijlage 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2) een grenswaarde is opgenomen.
 
@@ -195,43 +169,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen.
-
-## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-11-02&g=2011-11-02), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
-
-### **Maximale subsidie luchtkwaliteit per provincie uit derde tranche luchtkwaliteit**
-
-De gehanteerde verdeelsystematiek is de volgende:
-
-Met de saneringstool versie 2.2.1 (inclusief actualisatie Regionaal Overleg Amsterdam (ROA), Haarlemmermeer, Zaanstad en Amsterdam; februari 2008) zijn de knelpuntkilometers per provincie op het Onderliggende Wegen Net (OWN) 2006 bepaald. Daarbij weegt het aandeel kilometers voor overschrijdingen met NO2 en het aandeel kilometers voor overschrijdingen PM10 in gelijke mate mee in de verdeling. Dat heeft tot onderstaande verdeling geleid:
-
-De verdeling over de jaren heen is als volgt:
-
-2008: 25%
-
-2009: 25%
-
-2010: 25%
-
-2011: 20%
-
-2012: bij afrekening 5%.
-
-## Bijlage 2. behorende bij [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=3&z=2011-11-02&g=2011-11-02), van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
-
-### A. De indicatieve verdeling subsidie luchtkwaliteit per grote stad/provincie uit de vierde tranche luchtkwaliteit
-
-De gehanteerde verdeelsystematiek is de volgende:
-
-Op basis van de omvang (restkilometers overschrijding wegennet plus hoogte overschrijding) van de na de derde tranche resterende knelpunten is een procentuele verdeling gemaakt van de verhouding tussen de vier grote steden wat betreft de omvang van de restproblematiek.
-
-Deze procentuele verhouding is op de beschikbare € 75 miljoen toegepast en bepaalt de voorlopige indicatieve verdeling zoals hieronder opgenomen:
-
-In deze berekening is uitgegaan van de overschrijdingen en weglengtes zonder het effect van Euro 6. Daarnaast is het op- en overslagknelpunt Nieuwe Hemweg (Amsterdam) buiten beschouwing gelaten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### B. Maximale subsidie luchtkwaliteit per provincie uit de vierde tranche luchtkwaliteit
-
-Op basis van de omvang van na de derde tranche resterende (dreigende) luchtkwaliteitsknelpunten, blijkend uit de midterm-review en de monitoring NSL 2010, zijn de volgende maximale bedragen voor de subsidie luchtkwaliteit vierde tranche vastgesteld:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

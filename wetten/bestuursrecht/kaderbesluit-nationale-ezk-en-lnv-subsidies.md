@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 november 2008, houdende regels voor het verstrekken van subsidies door de Minister van Economische Zaken op het gebied van het technologiebeleid, het beleid met betrekking tot het midden- en kleinbedrijf en het ruimtelijk economisch beleid (Kaderbesluit EZ-subsidies)"
+citeertitel: "Kaderbesluit nationale EZK- en LNV-subsidies"
 identifier: "BWBR0024796"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-03-09"
-last_updated: "2021-03-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024796"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9785373"
-version_id: "15875112"
-internal_id: "C21774521"
-label_id: "9762884"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024796/2021-03-09/0"
-intitule_bron: "Stb.2008-499"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-21"
-intitule_published: "2008-12-09"
-intitule_in_force: "2008-12-09"
-intitule_status: "goed"
-original_publication: "Stb.2008-499"
-original_signed_date: "2008-11-21"
-original_published_date: "2008-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-499"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024796&z=2021-03-09&g=2021-03-09"
-jci_1_0: "1.0:c:BWBR0024796&g=2021-03-09"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit nationale EZK- en LNV-subsidies"
-signed_date: "2008-11-21"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2021-03-09
+status: geldig
+toestand: 2021-03-09
+bron: "https://wetten.overheid.nl/BWBR0024796"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 21 november 2008, houdende regels voor het verstrekken van subsidies door de Minister van Economische Zaken op het gebied van het technologiebeleid, het beleid met betrekking tot het midden- en kleinbedrijf en het ruimtelijk economisch beleid (Kaderbesluit EZ-subsidies)
-
-Op de voordracht van Onze Minister van Economische Zaken van 14 juli 2008, nr. WJZ / 8086267;
-
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-De Raad van State gehoord (advies van 29 augustus 2008, nr. W10.08.0292 III);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 17 november 2008, nr. WJZ / 8177535;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,49 +20,55 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bank:** binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;
+- – *bank:* binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;
 
-- –. **de-minimisverordening:** verordening van de Europese Commissie betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, die bij ministeriële regeling als toepasselijke de-minimisverordening is aangewezen;
+- – *de-minimisverordening:* verordening van de Europese Commissie betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, die bij ministeriële regeling als toepasselijke de-minimisverordening is aangewezen;
 
-- –. **Europees steunkader:** een mededeling, richtsnoer, kaderregeling, beschikking, besluit of verordening op het gebied van staatssteun die de Europese Commissie, gelet op de artikelen 42, 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie heeft vastgesteld, en die bij ministeriële regeling als toepasselijk Europees steunkader is aangewezen;
+- – *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking, besluit of verordening op het gebied van staatssteun die de Europese Commissie, gelet op de artikelen 42, 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie heeft vastgesteld, en die bij ministeriële regeling als toepasselijk Europees steunkader is aangewezen;
 
-- –. **financier:** bank, participatiemaatschappij, instelling die valt onder een bij ministeriële regeling aangewezen categorie instellingen of andere, krachtens ministeriële regeling door Onze Minister aangewezen instelling;
+- – *financier:* bank, participatiemaatschappij, instelling die valt onder een bij ministeriële regeling aangewezen categorie instellingen of andere, krachtens ministeriële regeling door Onze Minister aangewezen instelling;
 
-- –. **groep:** een economische eenheid, waarin organisatorisch zijn verbonden:
+- – *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
-- a. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
+   - a. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect:
 
-- 1°. meer dan de helft van het geplaatste kapitaal verschaft aan,
+      - 1°. meer dan de helft van het geplaatste kapitaal verschaft aan,
 
-- 2°. volledig aansprakelijk vennoot is van, of
+      - 2°. volledig aansprakelijk vennoot is van, of
 
-- 3°. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
+      - 3°. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
 
-- b. laatstbedoelde rechtspersonen of vennootschappen;
+   - b. laatstbedoelde rechtspersonen of vennootschappen;
 
-- –. **kapitaalvennootschap:**
+- – *kapitaalvennootschap:*
 
-- a. een vennootschap als bedoeld in artikel 1 van de Eerste [Richtlijn 68/151/EEG](31968L0151) van de Raad van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken (PB EG L 65), of
+   - a. een vennootschap als bedoeld in artikel 1 van de Eerste Richtlijn 68/151/EEG van de Raad van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken (PB EG L 65), of
 
-- b. een kapitaalvennootschap die is ingericht naar het recht van één van de lidstaten van de Europese Unie, die rechtspersoonlijkheid bezit, een apart vermogen heeft dat bij uitsluiting voor de schulden van de vennootschap kan worden aangesproken en op grond van haar nationale wetgeving onderworpen is aan garantievoorwaarden zoals bedoeld in [Richtlijn 68/151/EEG](31968L0151) van de Raad om de belangen van zowel deelgerechtigden als derden te beschermen;
+   - b. een kapitaalvennootschap die is ingericht naar het recht van één van de lidstaten van de Europese Unie, die rechtspersoonlijkheid bezit, een apart vermogen heeft dat bij uitsluiting voor de schulden van de vennootschap kan worden aangesproken en op grond van haar nationale wetgeving onderworpen is aan garantievoorwaarden zoals bedoeld in Richtlijn 68/151/EEG van de Raad om de belangen van zowel deelgerechtigden als derden te beschermen;
 
-- –. **kostendrager:** een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
+- – *kostendrager:* een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
 
-- –. **ondernemer:** een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
+- – *ondernemer:* een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
 
-- –. **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
+- – *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- –. **onderzoeksorganisatie:** organisatie voor onderzoek en kennisverspreiding als bedoeld in het toepasselijke Europese steunkader;
+- – *onderzoeksorganisatie:* organisatie voor onderzoek en kennisverspreiding als bedoeld in het toepasselijke Europese steunkader;
 
-- –. **penvoerder:** de door het samenwerkingsverband aangewezen penvoerende persoon of organisatie die deelneemt aan het samenwerkingsverband;
+- – *penvoerder:* de door het samenwerkingsverband aangewezen penvoerende persoon of organisatie die deelneemt aan het samenwerkingsverband;
 
-- –. **participatiemaatschappij:** kapitaalvennootschap, vennootschap met een afgescheiden vermogen, of rechtspersoon met een afgescheiden vermogen niet zijnde een vennootschap, ingericht naar het recht van één van de lidstaten van de Europese Unie, die blijkens zijn statuten of blijkens de overeenkomst waarbij hij is ingesteld tot doel heeft of mede tot doel heeft het verstrekken van risicokapitaal aan ondernemers teneinde winst te behalen;
+- – *participatiemaatschappij:* kapitaalvennootschap, vennootschap met een afgescheiden vermogen, of rechtspersoon met een afgescheiden vermogen niet zijnde een vennootschap, ingericht naar het recht van één van de lidstaten van de Europese Unie, die blijkens zijn statuten of blijkens de overeenkomst waarbij hij is ingesteld tot doel heeft of mede tot doel heeft het verstrekken van risicokapitaal aan ondernemers teneinde winst te behalen;
 
-- –. **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
+- – *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
 
-- –. **subsidie aan een financier:** een subsidie, verstrekt aan een financier, met als doel om kapitaal te doen verstrekken aan ondernemingen;
+- – *subsidie aan een financier:* een subsidie, verstrekt aan een financier, met als doel om kapitaal te doen verstrekken aan ondernemingen;
 
-- –. **voucher:** een op grond van dit besluit door Onze Minister afgegeven waardedocument voor een deel van de kosten die met het doel waarvoor de voucher wordt gegeven, gepaard gaan.
+- – *voucher:* een op grond van dit besluit door Onze Minister afgegeven waardedocument voor een deel van de kosten die met het doel waarvoor de voucher wordt gegeven, gepaard gaan.
+
+##### Artikel 1a
+
+1. Indien de op grond van dit besluit bij ministeriële regeling gestelde regels bepalen dat een subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is dit besluit voor die subsidie aldaar van toepassing.
+
+2. In het geval, bedoeld in het eerste lid, wordt in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=2&artikel=3&z=2021-03-09&g=2021-03-09), onder «de Nederlandse economie of andere Nederlandse belangen» verstaan de economie en andere belangen van Bonaire, Sint Eustatius of Saba, en wordt in de [artikelen 31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2021-03-09&g=2021-03-09), en [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=11&paragraaf=1&artikel=39a&z=2021-03-09&g=2021-03-09) onder «Nederland» verstaan Bonaire, Sint Eustatius of Saba.
 
 ### Hoofdstuk 2. Verstrekken van subsidie
 
@@ -168,7 +142,7 @@ Indien bij ministeriële regeling is bepaald dat toepassing is gegeven aan een E
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Subsidiabele kosten
 
@@ -214,7 +188,7 @@ Vervallen
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendragers te vermenigvuldigen met de ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-3. Bij een aanvraag om subsidie van € 125.000 of meer dient de subsidieontvanger uiterlijk bij de aanvraag om subsidievaststelling een afschrift in van een rapport van feitelijke bevindingen over de uitkomst van het onderzoek van een accountant betreffende de door de subsidieontvanger gehanteerde integrale kostensystematiek.
+3. Bij een aanvraag om subsidie van € 125.000 of meer dient de subsidieontvanger uiterlijk bij de aanvraag om subsidievaststelling een afschrift in van een rapport van feitelijke bevindingen over de uitkomst van het onderzoek van een accountant betreffende de door de subsidieontvanger gehanteerde integrale kostensystematiek.
 
 4. Bij ministeriële regeling worden voorschriften gegeven over het rapport, bedoeld in het derde lid en kunnen andere rapporten worden aangewezen die in plaats van het rapport, bedoeld in het derde lid, worden ingediend.
 
@@ -238,6 +212,10 @@ Indien de aanvrager kiest voor de vaste-uurtarief-systematiek, worden de subsidi
 
 - b. de aan derden betaalde kosten.
 
+##### Artikel 14a
+
+*Vervallen*
+
 #### § 3. Delegatiebepaling
 
 ##### Artikel 15
@@ -248,7 +226,7 @@ Bij ministeriële regeling kan worden afgeweken van de subsidiabele kosten, bedo
 
 ##### Artikel 16
 
-Bij ministeriële regeling wordt een subsidieplafond vastgesteld voor het verstrekken van subsidies op in een bepaalde periode ontvangen aanvragen op grond van dit besluit, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan. Daarbij kunnen afzonderlijke subsidieplafonds worden vastgesteld voor bepaalde categorieën van aanvragers, ondernemingen of activiteiten of voor bepaalde thema’s of voor bepaalde vormen van subsidie.
+Bij ministeriële regeling wordt een subsidieplafond vastgesteld voor het verstrekken van subsidies op in een bepaalde periode ontvangen aanvragen op grond van dit besluit, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan. Daarbij kunnen afzonderlijke subsidieplafonds worden vastgesteld voor bepaalde categorieën van aanvragers, ondernemingen of activiteiten of voor bepaalde thema’s of voor bepaalde vormen van subsidie.
 
 ##### Artikel 17
 
@@ -304,7 +282,7 @@ Bij ministeriële regeling wordt een subsidieplafond vastgesteld voor het verstr
 
 12. De adviescommissie verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-### Hoofdstuk 6. Adviescommissies
+### Hoofdstuk 7. Indienen van de aanvraag
 
 ##### Artikel 19
 
@@ -338,25 +316,25 @@ Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dient de
 
 - b. de subsidieverstrekking:
 
-- 1°. niet zou voldoen aan de eis van transparantie van steun, bedoeld in het toepasselijke Europese steunkader;
+   - 1°. niet zou voldoen aan de eis van transparantie van steun, bedoeld in het toepasselijke Europese steunkader;
 
-- 2°. zou leiden tot een overschrijding van het de-minimisplafond of de aanmeldingsdrempel, bedoeld in het toepasselijke Europese steunkader;
+   - 2°. zou leiden tot een overschrijding van het de-minimisplafond of de aanmeldingsdrempel, bedoeld in het toepasselijke Europese steunkader;
 
-- 3°. zou leiden tot een overschrijding van de maximale steunintensiteit, die van toepassing is op de specifieke steuncategorie, bedoeld in het toepasselijke Europese steunkader;
+   - 3°. zou leiden tot een overschrijding van de maximale steunintensiteit, die van toepassing is op de specifieke steuncategorie, bedoeld in het toepasselijke Europese steunkader;
 
-- 4°. in strijd zou zijn met het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=6&z=2021-03-09&g=2021-03-09), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=7&z=2021-03-09&g=2021-03-09) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=8&z=2021-03-09&g=2021-03-09) of een bepaling inzake het cumuleren van steun als bedoeld in het toepasselijke Europese steunkader;
+   - 4°. in strijd zou zijn met het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=6&z=2021-03-09&g=2021-03-09), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=7&z=2021-03-09&g=2021-03-09) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=8&z=2021-03-09&g=2021-03-09) of een bepaling inzake het cumuleren van steun als bedoeld in het toepasselijke Europese steunkader;
 
 - c. niet voldaan wordt aan de eisen inzake het stimulerend effect, bedoeld in het toepasselijke Europese steunkader;
 
 - d. de subsidie is bestemd voor:
 
-- 1°. een onderneming tegen wie een bevel tot terugvordering uitstaat als bedoeld in het toepasselijke Europese steunkader;
+   - 1°. een onderneming tegen wie een bevel tot terugvordering uitstaat als bedoeld in het toepasselijke Europese steunkader;
 
-- 2°. een onderneming in moeilijkheden als bedoeld in het toepasselijke Europese steunkader, tenzij het op grond van het toepasselijke Europese steunkader is toegestaan aan een onderneming in moeilijkheden subsidie te verlenen;
+   - 2°. een onderneming in moeilijkheden als bedoeld in het toepasselijke Europese steunkader, tenzij het op grond van het toepasselijke Europese steunkader is toegestaan aan een onderneming in moeilijkheden subsidie te verlenen;
 
-- 3°. een onderneming die geen activiteiten verricht of niet actief is in de sectoren waarvoor steun wordt verleend op grond van het toepasselijke Europese steunkader, of
+   - 3°. een onderneming die geen activiteiten verricht of niet actief is in de sectoren waarvoor steun wordt verleend op grond van het toepasselijke Europese steunkader, of
 
-- 4°. een onderneming die actief is in een sector waarvoor het op grond van het toepasselijke Europese steunkader niet is toegestaan steun te verlenen, tenzij deze onderneming tevens werkzaam is in een andere sector en zij er, met passende middelen zoals een scheiding van de activiteiten of een uitsplitsing van de kosten, voor zorgt dat de activiteiten in de uitgesloten sector geen voor de andere sector bestemde subsidie genieten;
+   - 4°. een onderneming die actief is in een sector waarvoor het op grond van het toepasselijke Europese steunkader niet is toegestaan steun te verlenen, tenzij deze onderneming tevens werkzaam is in een andere sector en zij er, met passende middelen zoals een scheiding van de activiteiten of een uitsplitsing van de kosten, voor zorgt dat de activiteiten in de uitgesloten sector geen voor de andere sector bestemde subsidie genieten;
 
 - e. de subsidie bestaat uit steun die een effect heeft op de in- en uitvoer dat niet is toegestaan op grond van het toepasselijke Europese steunkader;
 
@@ -382,7 +360,7 @@ Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een sub
 
 - g. onvoldoende vertrouwen bestaat dat de betrokkenen de capaciteiten hebben om de activiteiten naar behoren uit te voeren;
 
-- h. er een naar het oordeel van Onze Minister onaanvaardbaar risico bestaat dat de uitvoering van een voorgenomen activiteit een onevenredige inbreuk zal maken op de economische, ecologische of sociale dimensie van duurzaamheid.
+- h. er een naar het oordeel van Onze Minister onaanvaardbaar risico bestaat dat de uitvoering van een voorgenomen activiteit een onevenredige inbreuk zal maken op de economische, ecologische of sociale dimensie van duurzaamheid.
 
 ##### Artikel 24
 
@@ -408,18 +386,18 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de afwijzing
 
 2. Indien een beschikking niet binnen de in de tabel aangegeven termijn kan worden gegeven, kan deze termijn eenmaal met de in de tabel aangegeven termijn worden verlengd.
 
-| **Wijze van verdelen** | **Bij ministeriële regeling is wel/niet aangegeven dat een bijdrage van een gemeente, een provincie, een openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering** | **Wel/geen advies ingewonnen bij een adviescommissie** | **Beslistermijn** |
+| Wijze van verdelen | Bij ministeriële regeling is wel/niet aangegeven dat een bijdrage van een gemeente, een provincie, een openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering | Wel/geen advies ingewonnen bij een adviescommissie | Beslistermijn |
 | --- | --- | --- | --- |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt geen advies ingewonnen bij een adviescommissie | 8 weken na ontvangst van de aanvraag |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt advies ingewonnen bij een adviescommissie | 13 weken na ontvangst van de aanvraag |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Wel sprake van publieke co-financiering |   | 22 weken na ontvangst van de aanvraag |
-| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Maximumbedrag per financier ([artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) |   |   | Voor de bij ministeriële regeling bepaalde datum |
-| Verdeling van het subsidieplafond door loting ([artikel 17, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2021-03-09&g=2021-03-09)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-|   | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Volgorde van binnenkomst (artikel 17, eerste lid, onderdeel a) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt geen advies ingewonnen bij een adviescommissie | 8 weken na ontvangst van de aanvraag |
+| Over aanvragen om subsidie wordt advies ingewonnen bij een adviescommissie | 13 weken na ontvangst van de aanvraag |  |  |
+| Wel sprake van publieke co-financiering |  | 22 weken na ontvangst van de aanvraag |  |
+| Volgorde van rangschikking (artikel 17, eerste lid, onderdeel b) | Geen sprake van publieke co-financiering |  | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Wel sprake van publieke co-financiering |  | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |  |
+| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen (artikel 17, eerste lid, onderdeel c) | Geen sprake van publieke co-financiering |  | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Wel sprake van publieke co-financiering |  | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |  |
+| Maximumbedrag per financier (artikel 17, eerste lid, onderdeel d) |  |  | Voor de bij ministeriële regeling bepaalde datum |
+| Verdeling van het subsidieplafond door loting (artikel 17, eerste lid, onderdeel e) | Geen sprake van publieke co-financiering |  | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+|  | Wel sprake van publieke co-financiering |  | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
 
 ##### Artikel 27
 
@@ -435,13 +413,17 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de afwijzing
 
 2. Voor zover het subsidieplafond wordt overschreden, stelt de minister de onderlinge rangschikking van die aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
 
+##### Artikel 28a
+
+Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond door loting, verdeelt Onze Minister het beschikbare bedrag in de volgorde zoals door loting is bepaald.
+
 ##### Artikel 29
 
 Indien de subsidie wordt verstrekt aan deelnemers in een samenwerkingsverband, verzendt Onze Minister de beschikkingen tot subsidieverlening aan de penvoerder.
 
-### Hoofdstuk 10. Voorwaarden voor de subsidie-ontvanger
+### Hoofdstuk 10. Voorwaarden voor de subsidieontvanger
 
-#### § 1. Voorwaarden voor de subsidie-ontvanger indien deze een financier is
+#### § 1. Voorwaarden voor de subsidieontvanger indien deze een financier is
 
 ##### Artikel 30
 
@@ -517,7 +499,7 @@ De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Bij ministeriële regeling wordt de hoogte van de vergoeding of de wijze van berekenen van de rente vastgesteld.
 
-#### § 2. Voorwaarden voor de subsidie-ontvanger algemeen
+#### § 2. Voorwaarden voor de subsidieontvanger algemeen
 
 ##### Artikel 34
 
@@ -525,9 +507,9 @@ De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Indien een subsidie wordt verleend aan de deelnemers in een samenwerkingsverband, kan bij ministeriële regeling of bij de beschikking tot subsidieverlening als voorwaarde worden gesteld dat binnen een bepaalde termijn een overeenkomst wordt verstrekt waarin de samenwerking tussen de deelnemers in het samenwerkingsverband is geregeld.
 
-### Hoofdstuk 11. Verplichtingen van de subsidie-ontvanger niet zijnde een financier
+### Hoofdstuk 11. Verplichtingen van de subsidieontvanger niet zijnde een financier
 
-#### § 2. Voorwaarden voor de subsidieontvanger algemeen
+#### § 1. Verplichtingen van de subsidieontvanger algemeen
 
 ##### Artikel 35
 
@@ -537,13 +519,21 @@ De in dit hoofdstuk opgenomen verplichtingen gelden voor een ontvanger van een s
 
 De subsidieontvanger en de penvoerder doen onverwijld schriftelijk mededeling aan Onze Minister van de indiening bij de rechtbank van een verzoek tot het op hem toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
+##### Artikel 36a
+
+De subsidieontvanger doet onverwijld schriftelijk mededeling aan Onze Minister zodra aannemelijk is dat:
+
+- a. de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht, of
+
+- b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+
 ##### Artikel 37
 
 1. Indien de beschikking tot subsidieverlening betrekking heeft op een plan, voert de subsidieontvanger de activiteiten uit overeenkomstig dit plan.
 
 2. De subsidieontvanger meldt aan Onze Minister indien de subsidiabele kosten zoals opgenomen in de mijlpalen in het plan in het desbetreffende kwartaal of, indien er geen mijlpalenplanning is, in het desbetreffende kalenderjaar meer dan 25% afwijken van de begroting.
 
-3. Onze Minister kan voor het vertragenof het essentieel wijzigen van de wijze van uitvoering van de activiteiten op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste lid, tenzij hierdoor afbreuk wordt gedaan aan doelstellingen als omschreven in het plan. Aan de ontheffing kunnen voorschriften worden verbonden.
+3. Onze Minister kan voor het vertragenof het essentieel wijzigen van de wijze van uitvoering van de activiteiten op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste lid, tenzij hierdoor afbreuk wordt gedaan aan doelstellingen als omschreven in het plan. Aan de ontheffing kunnen voorschriften worden verbonden.
 
 ##### Artikel 38
 
@@ -561,7 +551,7 @@ De subsidieontvanger en de penvoerder doen onverwijld schriftelijk mededeling aa
 
 2. De administratie wordt tot vijf jaar na de datum van de beschikking tot subsidievaststelling bewaard.
 
-3. Indien de subsidie minder bedraagt dan € 125.000 en de aanvraag voor vaststelling van de subsidie niet vergezeld dient te gaan van een verklaring als bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2021-03-09&g=2021-03-09), zijn het eerste en tweede lid niet van toepassing; in dat geval beschikt de subsidieontvanger tot vijf jaar na de datum van de beschikking tot subsidievaststelling over die gegevens die nodig zijn om desgevraagd aan te tonen dat de subsidiabele activiteiten zijn verricht.
+3. Indien de subsidie minder bedraagt dan € 125.000 en de aanvraag voor vaststelling van de subsidie niet vergezeld dient te gaan van een verklaring als bedoeld in [artikel 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2021-03-09&g=2021-03-09), zijn het eerste en tweede lid niet van toepassing; in dat geval beschikt de subsidieontvanger tot vijf jaar na de datum van de beschikking tot subsidievaststelling over die gegevens die nodig zijn om desgevraagd aan te tonen dat de subsidiabele activiteiten zijn verricht.
 
 ##### Artikel 39
 
@@ -570,6 +560,10 @@ De subsidieontvanger en de penvoerder doen onverwijld schriftelijk mededeling aa
 2. Indien subsidieontvangers samenwerken in een samenwerkingsverband, dienen zij hun rapportages in via een penvoerder.
 
 3. Indien de subsidie minder bedraagt dan € 25.000 is het eerste lid niet van toepassing.
+
+##### Artikel 39a
+
+Een onderneming die op het tijdstip van de verlening van de subsidie geen vaste inrichting of dochteronderneming in Nederland heeft, draagt er zorg voor dat deze onderneming voor de eerste voorschotbetaling een vaste inrichting of dochteronderneming in Nederland heeft.
 
 ##### Artikel 40
 
@@ -581,7 +575,7 @@ De subsidieontvanger en de penvoerder doen onverwijld schriftelijk mededeling aa
 
 De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan een evaluatie van de doeltreffendheid en de effecten van de aan hem verleende subsidie, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### § 2. Verplichtingen van de subsidie-ontvanger bij subsidie met terugbetalingsverplichting
+#### § 2. Verplichtingen van de subsidieontvanger bij subsidie met terugbetalingsverplichting
 
 ##### Artikel 42
 
@@ -599,7 +593,7 @@ De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking
 
 5. Aan de ontheffingen, bedoeld in het derde en vierde lid, kunnen voorschriften worden verbonden.
 
-#### § 2. Verplichtingen van de subsidie-ontvanger bij subsidie met terugbetalingsverplichting
+#### § 3. Nadere uitwerking verplichtingen
 
 ##### Artikel 43
 
@@ -621,18 +615,18 @@ Onze Minister kan bij de beschikking tot subsidieverlening bij of krachtens dit 
 
 | Soort subsidie | Maximaal bedrag subsidie | Wel of geen begroting per mijlpaal | Duur subsidie volgens regeling | Regels voor voorschotten |
 | --- | --- | --- | --- | --- |
-| Subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | [Artikel 47, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2021-03-09&g=2021-03-09) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 |   | Eén jaar of minder | Artikel 47, eerste en derde lid |
-| Subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 | Wel begroting per mijlpaal | Meer dan één jaar | [Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2021-03-09&g=2021-03-09) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 | Geen begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid |
-| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid |
-| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | Artikel 47, eerste en derde lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 |   | Eén jaar of minder | Artikel 47, eerste en tweede lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 | Wel begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met vierde, zesde en tiende lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000 maar niet meer dan € 125.000 | Geen begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met vierde, zevende en tiende lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | Artikel 46, eerste tot en met vierde, zesde en tiende lid |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | Artikel 46, eerste tot en met vierde, zevende en tiende lid |
+| Subsidie met terugbetalingsverplichting | € 25.000 of minder |  |  | Artikel 47, eerste en derde lid |
+| Meer dan € 25.000 maar niet meer dan € 125.000 |  | Eén jaar of minder | Artikel 47, eerste en derde lid |  |
+| Wel begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid |  |  |
+| Geen begroting per mijlpaal | Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid |  |  |  |
+| Meer dan € 125.000 | Wel begroting per mijlpaal |  | Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid |  |
+| Geen begroting per mijlpaal | Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid |  |  |  |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | € 25.000 of minder |  |  | Artikel 47, eerste en derde lid |
+| Meer dan € 25.000 maar niet meer dan € 125.000 |  | Eén jaar of minder | Artikel 47, eerste en tweede lid |  |
+| Wel begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met vierde, zesde en tiende lid |  |  |
+| Geen begroting per mijlpaal | Meer dan één jaar | Artikel 46, eerste tot en met vierde, zevende en tiende lid |  |  |
+| Meer dan € 125.000 | Wel begroting per mijlpaal |  | Artikel 46, eerste tot en met vierde, zesde en tiende lid |  |
+| Geen begroting per mijlpaal | Artikel 46, eerste tot en met vierde, zevende en tiende lid |  |  |  |
 
 ##### Artikel 46
 
@@ -676,11 +670,11 @@ Onze Minister kan bij de beschikking tot subsidieverlening bij of krachtens dit 
 
 - b. subsidies die worden verstrekt met het oog op cofinanciering van een door de Raad of de Commissie van de Europese Unie goedgekeurd programma.
 
-4. Bij ministeriële regeling kan in afwijking van [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2021-03-09&g=2021-03-09), voor subsidies waarvan het maximaal voor subsidie in aanmerking komende bedrag meer bedraagt dan € 25.000 maar niet meer dan € 125.000 en waarvan de duur van de subsidie meer dan één jaar kan bedragen, worden bepaald dat voor de bevoorschotting de regels gelden van [artikel 46, eerste, derde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2021-03-09&g=2021-03-09).
+4. Bij ministeriële regeling kan in afwijking van [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2021-03-09&g=2021-03-09), voor subsidies waarvan het maximaal voor subsidie in aanmerking komende bedrag meer bedraagt dan € 25.000 maar niet meer dan € 125.000 en waarvan de duur van de subsidie meer dan één jaar kan bedragen, worden bepaald dat voor de bevoorschotting de regels gelden van [artikel 46, eerste, derde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2021-03-09&g=2021-03-09).
 
-5. Indien de subsidie minder bedraagt dan € 25.000 is het eerste lid niet van toepassing.
+5. Indien de subsidie minder bedraagt dan € 25.000 is het eerste lid niet van toepassing.
 
-### Hoofdstuk 12. Voorschotten
+### Hoofdstuk 13. Subsidievaststelling
 
 ##### Artikel 49
 
@@ -696,7 +690,7 @@ De in dit hoofdstuk opgenomen bepalingen gelden voor een ontvanger van een subsi
 
 - b. een mededeling van andere inkomsten, waaronder subsidies, waarmee de activiteit waarop de subsidie betrekking heeft is gefinancierd en
 
-- c. indien het subsidiebedrag € 125.000 of meer bedraagt, een controleverklaring van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften bedoeld in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45).
+- c. indien het subsidiebedrag € 125.000 of meer bedraagt, een controleverklaring van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften bedoeld in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45).
 
 3. In afwijking van het tweede lid, kan bij ministeriële regeling worden bepaald dat de aanvraag uitsluitend vergezeld gaat van een verklaring van de subsidieontvanger waaruit blijkt:
 
@@ -726,7 +720,7 @@ De in dit hoofdstuk opgenomen bepalingen gelden voor een ontvanger van een subsi
 
 - b. de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
-9. Indien door Onze Minister krachtens dit besluit een subsidie wordt verleend van minder dan € 25.000, wordt de subsidie ambtshalve vastgesteld, tenzij bij ministeriële regeling anders is bepaald.
+9. Indien door Onze Minister krachtens dit besluit een subsidie wordt verleend van minder dan € 25.000, wordt de subsidie ambtshalve vastgesteld, tenzij bij ministeriële regeling anders is bepaald.
 
 ##### Artikel 51
 
@@ -758,7 +752,11 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 met dien verstande dat deze besluiten van toepassing blijven op de aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.
 
-2. De overeenkomsten, gesloten op basis van [artikel 10 van het Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052&artikel=10), worden geacht in stand te blijven tot een nieuwe overeenkomst is gesloten of, indien dit eerder is, tot twee jaar na de datum van inwerkingtreding van dit besluit, behoudens beëindiging van een overeenkomst.
+2. De overeenkomsten, gesloten op basis van [artikel 10 van het Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052&artikel=10), worden geacht in stand te blijven tot een nieuwe overeenkomst is gesloten of, indien dit eerder is, tot twee jaar na de datum van inwerkingtreding van dit besluit, behoudens beëindiging van een overeenkomst.
+
+##### Artikel 54a
+
+Op aanvragen om subsidie die zijn ingediend tijdens een openstellingsperiode van een subsidie-instrument waarvan de begindatum ligt voor 1 juli 2016 en de einddatum daarna, en op subsidies die voor 1 juli 2016 zijn verstrekt, blijven de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2021-03-09&g=2021-03-09) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=51&z=2021-03-09&g=2021-03-09) van toepassing zoals deze golden voor die datum.
 
 ##### Artikel 55
 
@@ -767,179 +765,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2009.
 ##### Artikel 56
 
 Dit besluit wordt aangehaald als: Kaderbesluit nationale EZK- en LNV-subsidies.
-
-## Bijlage. ([artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2009-01-01&g=2009-01-01))
-
-|   |   | Kleine onderneming | Middelgrote onderneming | Grote onderneming en onderzoeksorganisaties voor zover het betreft economische activiteiten |
-| --- | --- | --- | --- | --- |
-| **Onderzoek & Ontwikkeling** | **Onderzoek & Ontwikkeling** | **Onderzoek & Ontwikkeling** | **Onderzoek & Ontwikkeling** | **Onderzoek & Ontwikkeling** |
-| Fundamenteel onderzoek |   | 75 | 75 | 75 |
-| Industrieel onderzoek | Basis | 70 (80)1De tussen haken opgenomen getallen zijn van toepassing bij krediet met rente en opslag. | 60 (70) | 50 (60) |
-| Industrieel onderzoek | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming of – samenwerking van een onderneming met een onderzoeksorganisatie of – verspreiding van resultaten | 80 (80) | 75 (80) | 65 (75) |
-| Experimentele ontwikkeling | Basis | 45 (60) | 35 (50) | 25 (40) |
-| Experimentele ontwikkeling | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming of – samenwerking van een onderneming met een onderzoeksorganisatie | 60 (75) | 50 (65) | 40 (55) |
-| Technische haalbaarheidstudie | voor technische haalbaarheidstudies ter voorbereiding van activiteiten op het gebied van industrieel onderzoek | 75 | 75 | 65 |
-|   | voor studies ter voorbereiding van activiteiten op het gebied van experimentele ontwikkeling | 50 | 50 | 40 |
-| **Innovatie** | **Innovatie** | **Innovatie** | **Innovatie** | **Innovatie** |
-| Innovatieve starters die minder dan 6 jaar bestaan op tijdstip van subsidieverlening. **NB mag cumuleren** | Innovatieve starters die minder dan 6 jaar bestaan op tijdstip van subsidieverlening. **NB mag cumuleren** | Max. 1 miljoen euro | – | – |
-| proces- en organisatie-innovatie op het gebied van diensten | Basis | 35 | 25 | – |
-|   | Bij samenwerking met kleine of middelgrote ondernemingen en een minimum van 30% van de kosten ten laste omen van de kleine of middelgrote ondernemingen | – | – | 15 |
-| Opzetten, uitbreiden en aansturen van Innovatieclusters t.b.v. de rechtspersoon die het cluster exploiteert | **Investeringssteun:** – opleidingsfaciliteiten en onderzoekcentra; – open access-onderzoeksinfrastructuur: laboratoria, testfaciliteiten; – breedbandnetwerk-infrastructuur. | 35 | 25 | 15 |
-|   | **Exploitatiesteun:** – Aansturen clusters | Over 5 jaar: – 50; of – ineair aflopend van 100 naar 0. | Over 5 jaar: – 50; of – ineair aflopend van 100 naar 0. | Over 5 jaar: – 50; of – ineair aflopend van 100 naar 0. |
-| **MKB** | **MKB** | **MKB** | **MKB** | **MKB** |
-| Steun voor investeringen in materiële en immateriële activa. | Steun voor investeringen in materiële en immateriële activa. | 20 | 10 | – |
-| Advies- en andere diensten en werkzaamheden: – diensten van externe adviseurs (niet regulier) – Deelneming vakbeurzen en tentoonstellingen | Advies- en andere diensten en werkzaamheden: – diensten van externe adviseurs (niet regulier) – Deelneming vakbeurzen en tentoonstellingen | 50 | 50 | – |
-| Verkrijging en validering industriële eigendomsrechten | Verkrijging en validering industriële eigendomsrechten | Hetzelfde steunpeil als zou gelden ten aanzien van O&O-steun voor de onderzoeksactiviteiten die in de eerste plaats in de betrokken industriële eigendomsrechten hebben geresulteerd. | Hetzelfde steunpeil als zou gelden ten aanzien van O&O-steun voor de onderzoeksactiviteiten die in de eerste plaats in de betrokken industriële eigendomsrechten hebben geresulteerd. | – |
-| innovatieadviesdiensten en voor diensten inzake innovatieondersteuning | Basis | 75 met een maximum van 200.000,– per subsidieontvanger over een periode van 3 jaar. | 75 met een maximum van 200.000,– per subsidieontvanger over een periode van 3 jaar. | – |
-| Uitlenen hooggekwalificeerd personeel | Uitlenen hooggekwalificeerd personeel | 50 | 50 | – |
-| **Opleiding** | **Opleiding** | **Opleiding** | **Opleiding** | **Opleiding** |
-| Algemene opleiding | Algemene opleiding | 70 [80]2De tussen haken opgenomen getallen zijn van toepassing op een opleiding voor kwetsbare of gehandicapte werknemers als bedoeld in deel 9 van dealgemene groepsvrijstellingsverordening. | 70 [80] | 50 [60] |
-| Specifieke opleiding | Specifieke opleiding | 35 [45] | 35 [45] | 25 [35] |
-| **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** |
-| Steun voor scheepsbouwinnovatie | Steun voor scheepsbouwinnovatie | 20 | 20 | 20 |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 14a
-
-Vervallen
-
-#### § 3. Delegatiebepaling
-
-### Hoofdstuk 5. Wijze van verdelen en subsidieplafond
-
-### Hoofdstuk 6. Adviescommissies
-
-### Hoofdstuk 7. Indienen van de aanvraag
-
-### Hoofdstuk 8. Afwijzingsgronden
-
-### Hoofdstuk 9. Beslissing op de aanvraag
-
-### Hoofdstuk 10. Voorwaarden voor de subsidie-ontvanger
-
-#### § 1. Voorwaarden voor de subsidie-ontvanger indien deze een financier is
-
-#### § 2. Voorwaarden voor de subsidie-ontvanger algemeen
-
-### Hoofdstuk 11. Verplichtingen van de subsidie-ontvanger niet zijnde een financier
-
-#### § 1. Verplichtingen van de subsidie-ontvanger algemeen
-
-#### § 2. Verplichtingen van de subsidie-ontvanger bij subsidie met terugbetalingsverplichting
-
-#### § 3. Nadere uitwerking verplichtingen
-
-### Hoofdstuk 12. Voorschotten
-
-### Hoofdstuk 13. Subsidievaststelling
-
-### Hoofdstuk 14. Overgangs- en slotbepalingen
-
-## Bijlage. (artikel 5, eerste lid)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 36a
-
-De subsidieontvanger doet onverwijld schriftelijk mededeling aan Onze Minister zodra aannemelijk is dat:
-
-- a. de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht, of
-
-- b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
-
-#### § 2. Verplichtingen van de subsidie-ontvanger bij subsidie met terugbetalingsverplichting
-
-### Hoofdstuk 12. Voorschotten
-
-### Hoofdstuk 13. Subsidievaststelling
-
-### Hoofdstuk 14. Overgangs- en slotbepalingen
-
-## Bijlage. (artikel 5, eerste lid)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-1. Indien de op grond van dit besluit bij ministeriële regeling gestelde regels bepalen dat een subsidie kan worden verstrekt in de openbare lichamen Bonaire, Sint Eustatius of Saba, is dit besluit voor die subsidie aldaar van toepassing.
-
-2. In het geval, bedoeld in het eerste lid, wordt in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=2&artikel=3&z=2021-03-09&g=2021-03-09), onder «de Nederlandse economie of andere Nederlandse belangen» verstaan de economie en andere belangen van Bonaire, Sint Eustatius of Saba, en wordt in de [artikelen 31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2021-03-09&g=2021-03-09), en [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=11&paragraaf=1&artikel=39a&z=2021-03-09&g=2021-03-09) onder «Nederland» verstaan Bonaire, Sint Eustatius of Saba.
-
-### Hoofdstuk 2. Verstrekken van subsidie
-
-### Hoofdstuk 3. Hoogte subsidie
-
-#### § 1. Hoogte subsidie
-
-#### § 2. Cumulatie verschillende subsidies
-
-#### § 3. Hoogte subsidie voor andere activiteiten dan opgenomen in de bijlage
-
-### Hoofdstuk 4. Subsidiabele kosten
-
-#### § 1. Subsidiabele kosten
-
-#### § 2. Standaardmethoden van berekenen subsidiabele kosten
-
-#### § 3. Delegatiebepaling
-
-### Hoofdstuk 5. Wijze van verdelen en subsidieplafond
-
-### Hoofdstuk 7. Indienen van de aanvraag
-
-### Hoofdstuk 8. Afwijzingsgronden
-
-### Hoofdstuk 9. Beslissing op de aanvraag
-
-##### Artikel 28a
-
-Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond door loting, verdeelt Onze Minister het beschikbare bedrag in de volgorde zoals door loting is bepaald.
-
-### Hoofdstuk 10. Voorwaarden voor de subsidieontvanger
-
-#### § 1. Voorwaarden voor de subsidieontvanger indien deze een financier is
-
-### Hoofdstuk 11. Verplichtingen van de subsidieontvanger niet zijnde een financier
-
-#### § 1. Verplichtingen van de subsidieontvanger algemeen
-
-#### § 3. Nadere uitwerking verplichtingen
-
-### Hoofdstuk 12. Voorschotten
-
-### Hoofdstuk 13. Subsidievaststelling
-
-### Hoofdstuk 14. Overgangs- en slotbepalingen
-
-## Bijlage. (artikel 5, eerste lid)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 39a
-
-Een onderneming die op het tijdstip van de verlening van de subsidie geen vaste inrichting of dochteronderneming in Nederland heeft, draagt er zorg voor dat deze onderneming voor de eerste voorschotbetaling een vaste inrichting of dochteronderneming in Nederland heeft.
-
-#### § 2. Verplichtingen van de subsidieontvanger bij subsidie met terugbetalingsverplichting
-
-#### § 3. Nadere uitwerking verplichtingen
-
-### Hoofdstuk 13. Subsidievaststelling
-
-### Hoofdstuk 14. Overgangs- en slotbepalingen
-
-##### Artikel 54a
-
-Op aanvragen om subsidie die zijn ingediend tijdens een openstellingsperiode van een subsidie-instrument waarvan de begindatum ligt voor 1 juli 2016 en de einddatum daarna, en op subsidies die voor 1 juli 2016 zijn verstrekt, blijven de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2021-03-09&g=2021-03-09) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=51&z=2021-03-09&g=2021-03-09) van toepassing zoals deze golden voor die datum.
-
-## Bijlage. (artikel 5, eerste lid)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

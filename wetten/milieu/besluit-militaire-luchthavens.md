@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 februari 2009, houdende de vaststelling van regels met betrekking tot militaire luchthavens (Besluit militaire luchthavens)"
+citeertitel: "Besluit militaire luchthavens"
 identifier: "BWBR0025302"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025302"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9904083"
-version_id: "16148242"
-internal_id: "C23100881"
-label_id: "9881054"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025302/2024-01-01/0"
-intitule_bron: "Stb.2009-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-06"
-intitule_published: "2009-02-19"
-intitule_in_force: "2009-10-30"
-intitule_status: "goed"
-original_publication: "Stb.2009-72"
-original_signed_date: "2009-02-06"
-original_published_date: "2009-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-72"
-entry_into_force_date: "2009-11-01"
-jci_1_3: "jci1.3:c:BWBR0025302&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0025302&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit militaire luchthavens"
-signed_date: "2009-02-06"
-entry_into_force: "2009-11-01"
+publicatiedatum: 2009-11-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0025302"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 6 februari 2009, houdende de vaststelling van regels met betrekking tot militaire luchthavens (Besluit militaire luchthavens)
-
-Op de voordracht van de Staatssecretaris van Defensie van 21 april 2008, nr. C/2008009692, Directie Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op de [artikelen 10.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12), [10.13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.13), [10.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.19), [10.27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.27), en [10.39, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39);
-
-De Raad van State gehoord (advies van 29 mei 2008, no. W07.08.0143/II);
-
-Gezien het nader rapport van de Staatssecretaris van Defensie van 2 februari 2009, nr. C/2009001479, Directie Juridische Zaken, uitgebracht in overeenstemming met Onze Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,35 +20,36 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- **ander geluidsgevoelig gebouw:** gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *ander geluidsgevoelig gebouw:* gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **gebouw:** gebouw als bedoeld in de [bijlage bij de Omgevingswet](onbekend);
+- *gebouw:* gebouw als bedoeld in de [bijlage bij de Omgevingswet](https://wetten.overheid.nl/BWBR0037885);
 
-- **geluidscontour:** de lijn die punten verbindt waar de geluidsbelasting een gelijke waarde heeft;
+- *geluidscontour:* de lijn die punten verbindt waar de geluidsbelasting een gelijke waarde heeft;
 
-- **geluidszone:** dat deel van het in [artikel 10.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde grenswaarde voor de geluidsbelasting;
+- *geluidszone:* dat deel van het in [artikel 10.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde grenswaarde voor de geluidsbelasting;
 
-- **grenswaarde voor de geluidsbelasting:** grenswaarde voor de geluidsbelasting als bedoeld in [artikel 10.12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12);
+- *grenswaarde voor de geluidsbelasting:* grenswaarde voor de geluidsbelasting als bedoeld in [artikel 10.12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12);
 
-- **helihaven:** luchthaven die permanent is ingericht en uitgerust voor het uitsluitend gebruik door helikopters;
+- *helihaven:* luchthaven die permanent is ingericht en uitgerust voor het uitsluitend gebruik door helikopters;
 
-- **ligplaats:** plaats in het water, bestemd of aangewezen om door een woonschip bij verblijf te worden ingenomen;
+- *ligplaats:* plaats in het water, bestemd of aangewezen om door een woonschip bij verblijf te worden ingenomen;
 
-- **obstakelbeheergebied:** dat deel van het in [artikel 10.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde regels voor de maximale hoogte van objecten;
+- *obstakelbeheergebied:* dat deel van het in [artikel 10.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) bedoelde regels voor de maximale hoogte van objecten;
 
-- **Onze Minister:** Onze Minister van Defensie;
+- *Onze Minister:* Onze Minister van Defensie;
 
-- **omgevingsvergunning voor het bouwen:** vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40), omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
+- *omgevingsvergunning voor het bouwen:* vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40), omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
 
-- **reguliere openstellingstijden:** openstellingstijden van de militaire luchthaven zoals vastgelegd in het luchthavenbesluit of de luchthavenregeling;
+- *reguliere openstellingstijden:* openstellingstijden van de militaire luchthaven zoals vastgelegd in het luchthavenbesluit of de luchthavenregeling;
 
-- **standplaats:** kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten;
+- *standplaats:* kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten;
 
-- **tijdstip van vaststelling van de geluidszone:** tijdstip waarop door Onze Minister voor de betrokken militaire luchthaven de geluidszone op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a) is vastgesteld dan wel de geluidszone als onderdeel van het beperkingengebied op grond van [artikel 10.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) is vastgesteld;
+- *tijdstip van vaststelling van de geluidszone:* tijdstip waarop door Onze Minister voor de betrokken militaire luchthaven de geluidszone op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a) is vastgesteld dan wel de geluidszone als onderdeel van het beperkingengebied op grond van [artikel 10.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) is vastgesteld;
 
-- **VFR-vlucht:** VFR-vlucht als bedoeld in [artikel 1 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=1);
+- *VFR-vlucht:* VFR-vlucht als bedoeld in [artikel 1 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=1);
 
-- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 2. Voor de toepassing van het begrip «ligplaats» wordt onder woonschip verstaan een schip dat uitsluitend of in hoofdzaak wordt gebezigd of bestemd is voor bewoning.
 
@@ -104,13 +73,13 @@ Hebben goedgevonden en verstaan:
 
 1. De geluidsbelasting door landende en opstijgende luchtvaartuigen, bedoeld in [artikel 10.12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12), wordt uitgedrukt in Kosteneenheden.
 
-2. De geluidsbelasting in Kosteneenheden, bedoeld in het eerste lid, op een bepaalde plaats, veroorzaakt door de gezamenlijke op een luchthaven landende en opstijgende luchtvaartuigen met een toegelaten totaalmassa van ten minste 6000 kg dan wel minder dan 6000 kg maar meer dan 390 kg, voor zover dit vaste-vleugelvliegtuigen met straalaandrijving en helikopters betreft, dan wel deze luchtvaartuigen gebruik maken van dezelfde aan- en uitvliegroutes als de luchtvaartuigen van ten minste 6000 kg, dan wel de vliegpatronen van deze luchtvaartuigen overeenkomen met die van luchtvaartuigen van ten minste 6000 kg, wordt vastgesteld volgens de formule:
+2. De geluidsbelasting in Kosteneenheden, bedoeld in het eerste lid, op een bepaalde plaats, veroorzaakt door de gezamenlijke op een luchthaven landende en opstijgende luchtvaartuigen met een toegelaten totaalmassa van ten minste 6000 kg dan wel minder dan 6000 kg maar meer dan 390 kg, voor zover dit vaste-vleugelvliegtuigen met straalaandrijving en helikopters betreft, dan wel deze luchtvaartuigen gebruik maken van dezelfde aan- en uitvliegroutes als de luchtvaartuigen van ten minste 6000 kg, dan wel de vliegpatronen van deze luchtvaartuigen overeenkomen met die van luchtvaartuigen van ten minste 6000 kg, wordt vastgesteld volgens de formule:
 
 geluidsbelasting = 20xlog(Σ nx10L/15)-157, waarin het teken «Σ » staat voor de optelling van de bijdragen van alle luchtvaartuigen die ter plaatse voorbij vliegen in een periode van een jaar en waarin het teken «n» staat voor een factor gelijk aan 1 gedurende de periode van 8.00 tot 18.00 uur en voor de verdere tijdsperiode volgens onderstaande tabel:
 
-| n | Tijdsperiode (lokale tijd) | Tijdsperiode (lokale tijd) |
+| n | Tijdsperiode (lokale tijd) |  |
 | --- | --- | --- |
-|   | van | tot |
+|  | van | tot |
 | 10 | 0 | 6 uur |
 | 8 | 6 | 7 uur |
 | 4 | 7 | 8 uur |
@@ -132,7 +101,7 @@ Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.
 
 #### § 2.3. De maximaal toelaatbare geluidsbelasting binnen de geluidszone
 
-#### § 2.3.1. Nieuwbouw
+##### § 2.3.1. Nieuwbouw
 
 ##### Artikel 5
 
@@ -166,9 +135,9 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - 5°. voor woningen of andere geluidsgevoelige gebouwen die woningen, andere geluidsgevoelige gebouwen of standplaatsen vervangen die reeds aanwezig zijn.
 
-#### § 2.3.2. Bestaande situaties
+##### § 2.3.2. Bestaande situaties
 
-#### § 2.3.2.1. Bestaande woningen
+##### § 2.3.2.1. Bestaande woningen
 
 ##### Artikel 8
 
@@ -186,11 +155,11 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoo
 
 - d. door de eigenaar of bewoner geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.
 
-#### § 2.3.2.2. Bestaande andere geluidsgevoelige gebouwen
+##### § 2.3.2.2. Bestaande andere geluidsgevoelige gebouwen
 
 ##### Artikel 10
 
-35 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw dat op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend.
+35 Kosteneenheden is de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw dat op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend.
 
 ##### Artikel 11
 
@@ -198,13 +167,13 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&ho
 
 - a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.24) j° [8.32 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.32) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;
 
-- b. het andere geluidsgevoelige gebouw gebouwd is krachtens een omgevingsvergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de omgevingsvergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [paragraaf 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=4.3.1) of [artikel 5.5 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.5);
+- b. het andere geluidsgevoelige gebouw gebouwd is krachtens een omgevingsvergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de omgevingsvergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [paragraaf 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&paragraaf=4.3.1) of [artikel 5.5 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.5);
 
 - c. door Onze Minister een aanbod wordt gedaan voor het treffen van zodanige geluidwerende voorzieningen dat voldaan wordt aan de onder a bedoelde waarden; of
 
 - d. door de eigenaar geen toestemming wordt gegeven voor het uitvoeren van een akoestisch en bouwtechnisch onderzoek als bedoeld in de onder a bedoelde regeling.
 
-#### § 2.3.2.3. Bestaande standplaatsen en ligplaatsen
+##### § 2.3.2.3. Bestaande standplaatsen en ligplaatsen
 
 ##### Artikel 12
 
@@ -214,11 +183,11 @@ De maximaal toelaatbare geluidsbelasting van een standplaats die op het tijdstip
 
 De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.
 
-#### § 2.3.2.4. Blijfrecht
+##### § 2.3.2.4. Blijfrecht
 
 ##### Artikel 14
 
-1. Ten aanzien van degene die op het tijdstip van vaststelling van de geluidszone rechtmatig gebruiker is van een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats als bedoeld in § 2.3.2, kan beëindiging van dit gebruik niet worden gevergd.
+1. Ten aanzien van degene die op het tijdstip van vaststelling van de geluidszone rechtmatig gebruiker is van een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats als bedoeld in § 2.3.2, kan beëindiging van dit gebruik niet worden gevergd.
 
 2. Van rechtmatig gebruik is sprake indien op het tijdstip van vaststelling van de geluidszone op de desbetreffende plaats een woning, ander geluidsgevoelig gebouw, standplaats of ligplaats rechtmatig aanwezig is en overeenkomstig de oorspronkelijke functie wordt gebruikt, of vóór dat tijdstip een omgevingsvergunning voor het bouwen daarvoor is verleend.
 
@@ -232,17 +201,17 @@ Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/
 
 ##### Artikel 16
 
-1. De maximaal toelaatbare hoogte van objecten in, op of boven de grond, die op 25 juni 2004 niet in het obstakelbeheergebied aanwezig waren is, in verband met de veiligheid van het luchthavenluchtverkeer, in overeenstemming met de blijkens een in de Staatscourant bekend gemaakte mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 3759 inzake NATO Supplement to ICAO DOC 8168-OPS/611, Volume II, for the preparation of instrument approach and departure Procedures – AATCP-1(B). De eerste volzin is niet van toepassing indien:
+1. De maximaal toelaatbare hoogte van objecten in, op of boven de grond, die op 25 juni 2004 niet in het obstakelbeheergebied aanwezig waren is, in verband met de veiligheid van het luchthavenluchtverkeer, in overeenstemming met de blijkens een in de Staatscourant bekend gemaakte mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 3759 inzake NATO Supplement to ICAO DOC 8168-OPS/611, Volume II, for the preparation of instrument approach and departure Procedures – AATCP-1(B). De eerste volzin is niet van toepassing indien:
 
-- a. de omgevingsvergunning voor het bouwen voor het object vóór 25 juni 2004 is verleend, of
+- a. de omgevingsvergunning voor het bouwen voor het object vóór 25 juni 2004 is verleend, of
 
-- b. de bouw van het object is voorzien in het bestemmingsplan zoals dat op 25 juni 2004 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
+- b. de bouw van het object is voorzien in het bestemmingsplan zoals dat op 25 juni 2004 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
-2. De maximaal toelaatbare hoogte van objecten in, op of boven de grond, die op 1 november 2006 niet in het obstakelbeheergebied aanwezig waren, is, in verband met de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, in overeenstemming met de blijkens een in de Staatscourant bekend gemaakte mededeling van Onze Minister van kracht zijnde versie van de ICAO EUR DOC 015. De eerste volzin is niet van toepassing indien:
+2. De maximaal toelaatbare hoogte van objecten in, op of boven de grond, die op 1 november 2006 niet in het obstakelbeheergebied aanwezig waren, is, in verband met de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, in overeenstemming met de blijkens een in de Staatscourant bekend gemaakte mededeling van Onze Minister van kracht zijnde versie van de ICAO EUR DOC 015. De eerste volzin is niet van toepassing indien:
 
-- a. de omgevingsvergunning voor het bouwen voor het object vóór 1 november 2006 is verleend, of
+- a. de omgevingsvergunning voor het bouwen voor het object vóór 1 november 2006 is verleend, of
 
-- b. de bouw van het object is voorzien in het bestemmingsplan zoals dat op 1 november 2006 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
+- b. de bouw van het object is voorzien in het bestemmingsplan zoals dat op 1 november 2006 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
 3. Het beeld van de op de luchthaven aanwezige radar mag niet worden verstoord als gevolg van de hoogte van objecten in, op of boven de grond. De eerste volzin is niet van toepassing op objecten:
 
@@ -250,7 +219,7 @@ Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/
 
 - b. waarvoor de omgevingsvergunning voor het bouwen vóór die datum is verleend, of
 
-- c. waarvan de bouw is voorzien in het bestemmingsplan zoals dat op 1 november 2006 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
+- c. waarvan de bouw is voorzien in het bestemmingsplan zoals dat op 1 november 2006 gold krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
 4. Afwijking van het tweede en derde lid wordt toegestaan indien uit een daartoe uitgevoerd onderzoek blijkt dat de beïnvloeding van het instrument landingssysteem onderscheidenlijk het radarbeeld uit oogpunt van de veiligheid van het luchtverkeer aanvaardbaar is.
 
@@ -288,25 +257,25 @@ De militaire luchthaven wordt op behoorlijke wijze gebruikt door het burgerlucht
 
 In deze paragraaf wordt verstaan onder:
 
-- a. **recreatieve burgerluchtvaart:** het beoefenen van de luchtvaart in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen;
+- a. *recreatieve burgerluchtvaart:* het beoefenen van de luchtvaart in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen;
 
-- b. **zweefvliegen:** vliegen met een zweefvliegtuig of een motorzweefvliegtuig;
+- b. *zweefvliegen:* vliegen met een zweefvliegtuig of een motorzweefvliegtuig;
 
-- c. **sleepvliegen:** vliegen met een als sleepvliegtuig ingericht motorvliegtuig voor:
+- c. *sleepvliegen:* vliegen met een als sleepvliegtuig ingericht motorvliegtuig voor:
 
-- 1°. vluchten voor het opslepen van zweefvliegtuigen;
+   - 1°. vluchten voor het opslepen van zweefvliegtuigen;
 
-- 2°. controlevluchten die noodzakelijkerwijs vóór de aanvang van het daadwerkelijk sleepvliegen moeten worden verricht;
+   - 2°. controlevluchten die noodzakelijkerwijs vóór de aanvang van het daadwerkelijk sleepvliegen moeten worden verricht;
 
-- 3°. vluchten, al dan niet slepend, van en naar een andere luchthaven dan dat van stationering voor het overslepen van zweefvliegtuigen;
+   - 3°. vluchten, al dan niet slepend, van en naar een andere luchthaven dan dat van stationering voor het overslepen van zweefvliegtuigen;
 
-- 4°. vluchten voor het overbrengen van het sleepvliegtuig van en naar een andere luchthaven dan dat van stationering teneinde het aldaar in te zetten of er onderhoud aan te verrichten;
+   - 4°. vluchten voor het overbrengen van het sleepvliegtuig van en naar een andere luchthaven dan dat van stationering teneinde het aldaar in te zetten of er onderhoud aan te verrichten;
 
-- d. **motorsportvliegen:** niet beroepsmatig vliegen met een vastevleugelvliegtuig met schroefaandrijving, met inbegrip van ultralichte vliegtuigen, waarbij de vlucht uitsluitend het karakter van een sportvlucht draagt;
+- d. *motorsportvliegen:* niet beroepsmatig vliegen met een vastevleugelvliegtuig met schroefaandrijving, met inbegrip van ultralichte vliegtuigen, waarbij de vlucht uitsluitend het karakter van een sportvlucht draagt;
 
-- e. **modelvliegen:** gecontroleerd modelvliegen met modelluchtvaartuigen met een totale startmassa van ten hoogste 25 kg;
+- e. *modelvliegen:* gecontroleerd modelvliegen met modelluchtvaartuigen met een totale startmassa van ten hoogste 25 kg;
 
-- f. **zeilvliegen:** vliegen met een zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder.
+- f. *zeilvliegen:* vliegen met een zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder.
 
 ##### Artikel 21
 
@@ -366,7 +335,7 @@ Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofds
 
 - a. een hoofdvliegcoördinator is aanwezig;
 
-- b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het [Besluit luchtverkeer 2014](onbekend);
+- b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het Besluit luchtverkeer 2014;
 
 - c. de terreingedeeltes en verkeerscircuits voor zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen en zeilvliegen zijn geheel van elkaar gescheiden, waarbij voor motorsportvliegen het circuit voor ultralichte vliegtuigen gescheiden is van de overige motorsportvliegtuigen;
 
@@ -394,7 +363,7 @@ Burgerluchtvaart die een algemeen maatschappelijk belang dient, kan buiten de re
 
 - a. de vlucht wordt uitgevoerd met een helikopter of met een vaste-vleugelvliegtuig met schroefaandrijving en met een massa van ten hoogste 6000 kg;
 
-- b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het [Besluit luchtverkeer 2014](onbekend);
+- b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het Besluit luchtverkeer 2014;
 
 - c. gebruik wordt gemaakt van daarvoor door de commandant van de luchthaven aangewezen routes;
 
@@ -474,6 +443,10 @@ De vergunning voor medegebruik wordt niet verleend aan een rechtspersoon die doe
 
 ### Hoofdstuk 8. Slotbepalingen
 
+##### Artikel 36a
+
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=6&artikel=34&z=2024-01-01&g=2024-01-01) van dit besluit, zoals dat artikel luidde vóór 1 januari 2017, blijft ten aanzien van de in dat artikel genoemde gegevens met betrekking tot de geluidsbelasting van toepassing op de periode voorafgaande aan dat tijdstip.
+
 ##### Artikel 37
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillenden artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
@@ -481,11 +454,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 38
 
 Dit besluit wordt aangehaald als: Besluit militaire luchthavens.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 36a
-
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=6&artikel=34&z=2024-01-01&g=2024-01-01) van dit besluit, zoals dat artikel luidde vóór 1 januari 2017, blijft ten aanzien van de in dat artikel genoemde gegevens met betrekking tot de geluidsbelasting van toepassing op de periode voorafgaande aan dat tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

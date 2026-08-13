@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 december 2008, houdende bepalingen verband houdende met de instelling van het Speciaal Tribunaal voor Libanon, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007 (Uitvoeringswet Speciaal Tribunaal voor Libanon)"
+citeertitel: "Uitvoeringswet Speciaal Tribunaal voor Libanon"
 identifier: "BWBR0025263"
-country: "nl"
-rank: "wet"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025263"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9895623"
-version_id: "16124762"
-internal_id: "C22123561"
-label_id: "9872124"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025263/2018-07-01/0"
-intitule_bron: "Stb.2009-40"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-29"
-intitule_published: "2009-02-05"
-intitule_in_force: "2009-02-05"
-intitule_status: "goed"
-original_publication: "Stb.2009-40"
-original_signed_date: "2008-12-29"
-original_published_date: "2009-02-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "31365"
-original_url_id: "stb-2009-40"
-entry_into_force_date: "2009-02-06"
-entry_into_force_dossier: "31365"
-jci_1_3: "jci1.3:c:BWBR0025263&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0025263&g=2018-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Speciaal Tribunaal voor Libanon"
-signed_date: "2008-12-29"
-entry_into_force: "2009-02-06"
+publicatiedatum: 2009-02-06
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0025263"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 29 december 2008, houdende bepalingen verband houdende met de instelling van het Speciaal Tribunaal voor Libanon, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007 (Uitvoeringswet Speciaal Tribunaal voor Libanon)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke voorzieningen te treffen voor de vervolging van personen door het Speciaal Tribunaal voor Libanon die verantwoordelijk zijn voor de aanslag van 14 februari 2005 die heeft geresulteerd in de dood van voormalig minister-president Rafiq Hariri en anderen, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007, handelende krachtens Hoofdstuk VII van het Handvest van de Verenigde Naties, alsmede de bij de Resolutie aangegeven inwerkingtreding van de bepalingen van de bijlage bij de Resolutie 1757, inclusief het Statuut van het Speciaal Tribunaal voor Libanon op 10 juni 2007;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -60,11 +30,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Voor de toepassing van deze wet wordt mede verstaan onder:
 
-- **Nederlands grondgebied:** het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *Nederlands grondgebied:* het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **Nederlandse wet:** een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *Nederlandse wet:* een wet die van kracht is in de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **in Nederland:** in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- *in Nederland:* in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2
 
@@ -147,5 +117,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 14
 
 Deze wet wordt aangehaald als: Uitvoeringswet Speciaal Tribunaal voor Libanon.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

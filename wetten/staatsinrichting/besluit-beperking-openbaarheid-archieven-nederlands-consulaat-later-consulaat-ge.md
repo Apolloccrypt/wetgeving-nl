@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 057/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken"
+citeertitel: "Besluit beperking openbaarheid archieven Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0024772"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-12-03"
-last_updated: "2008-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024772"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9780183"
-version_id: "15863582"
-internal_id: "C21761211"
-label_id: "9756944"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024772/2008-12-03/0"
-intitule_bron: "Stcrt.2008-233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-18"
-intitule_published: "2008-12-01"
-intitule_in_force: "2008-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-233"
-original_signed_date: "2008-11-18"
-original_published_date: "2008-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1139"
-entry_into_force_date: "2008-12-03"
-jci_1_3: "jci1.3:c:BWBR0024772&z=2008-12-03&g=2008-12-03"
-jci_1_0: "1.0:c:BWBR0024772&g=2008-12-03"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archieven Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken"
-signed_date: "2008-11-18"
-entry_into_force: "2008-12-03"
+publicatiedatum: 2008-12-03
+laatste_update: 2008-12-03
+status: geldig
+toestand: 2008-12-03
+bron: "https://wetten.overheid.nl/BWBR0024772"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 057/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,7 +29,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ##### Artikel 2
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024772&artikel=1&z=2008-12-03&g=2008-12-03), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024772&artikel=1&z=2008-12-03&g=2008-12-03), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/BWBR0024772) bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 3
 
@@ -64,7 +38,3 @@ Het vervaardigen van reproducties van documenten uit, danwel het publiceren van 
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage
-
-Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken’.

@@ -1,70 +1,45 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2008, nr. MEVA/BO-2890092, houdende regels in verband met de erkenning van EG beroepskwalificaties in de individuele gezondheidszorg"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg"
 identifier: "BWBR0024755"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-08"
-last_updated: "2022-07-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024755"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9776873"
-version_id: "23068522"
-internal_id: "C33337141"
-label_id: "9753654"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024755/2022-07-08/0"
-intitule_bron: "Stcrt.2008-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-19"
-intitule_published: "2008-11-27"
-intitule_in_force: "2008-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-13755"
-original_signed_date: "2016-03-10"
-original_published_date: "2016-03-18"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-13755"
-entry_into_force_date: "2016-03-10"
-jci_1_3: "jci1.3:c:BWBR0024755&z=2022-07-08&g=2022-07-08"
-jci_1_0: "1.0:c:BWBR0024755&g=2022-07-08"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg"
-signed_date: "2016-03-10"
-entry_into_force: "2016-03-10"
+publicatiedatum: 2016-03-10
+laatste_update: 2022-07-08
+status: geldig
+toestand: 2022-07-08
+bron: "https://wetten.overheid.nl/BWBR0024755"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2008, nr. MEVA/BO-2890092, houdende regels in verband met de erkenning van EG beroepskwalificaties in de individuele gezondheidszorg
-
-Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) en [33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
-
-Gelet op [artikel 41, zesde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanpassingsstage:** aanpassingsstage, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- a. *aanpassingsstage:* aanpassingsstage, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- b. **beroepskwalificaties:** beroepskwalificaties, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- b. *beroepskwalificaties:* beroepskwalificaties, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- c. **betrokken staat:** betrokken staat, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- c. *betrokken staat:* betrokken staat, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- d. **commissie:** de in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1) bedoelde commissie;
+- d. *commissie:* de in [artikel 1, onderdeel c, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1) bedoelde commissie;
 
-- e. **dienstverrichter:** dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
+- e. *dienstverrichter:* dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
 
-- f. **minister:** Minister voor Medische Zorg;
+- f. *minister:* Minister voor Medische Zorg;
 
-- g. **proeve van bekwaamheid:** proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
+- g. *proeve van bekwaamheid:* proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1);
 
-- h. **richtlijn:** [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEG, L 255);
+- h. *richtlijn:*
+ richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEG, L 255);
 
-- i. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- i. *wet:*
+ [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- j. **wet BIG:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
+- j. *wet BIG:*
+ [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
 ##### Artikel 2
 
@@ -84,11 +59,11 @@ In deze regeling wordt verstaan onder:
 
 - f. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
 
-- –. dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
+   - – dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
 
-- –. dat de houder een beroepservaring heeft van ten minste drie jaar in de betrokken staat; en
+   - – dat de houder een beroepservaring heeft van ten minste drie jaar in de betrokken staat; en
 
-- –. voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
+   - – voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
 
 - g. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
 
@@ -126,11 +101,11 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 - f. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
 
-- –. dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
+   - – dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
 
-- –. dat de houder een beroepservaring heeft van ten minste drie jaar in de betrokken staat; en
+   - – dat de houder een beroepservaring heeft van ten minste drie jaar in de betrokken staat; en
 
-- –. voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn, dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
+   - – voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn, dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
 
 - g. voor gevallen als bedoeld in [artikel 22, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22) een bewijs van de in [genoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22) omschreven beroepservaring.
 

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8186951, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan"
+citeertitel: "Regeling intrekking aantal subsidieregelingen in verband met de stroomlijning hiervan"
 identifier: "BWBR0024899"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-06-16"
-last_updated: "2011-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024899"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9808293"
-version_id: "18613822"
-internal_id: "C25971551"
-label_id: "9785014"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024899/2011-06-16/0"
-intitule_bron: "Stcrt.2008-245"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-03"
-intitule_published: "2008-12-17"
-intitule_in_force: "2008-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10258"
-original_signed_date: "2011-06-06"
-original_published_date: "2011-06-15"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-10258"
-entry_into_force_date: "2011-06-06"
-jci_1_3: "jci1.3:c:BWBR0024899&z=2011-06-16&g=2011-06-16"
-jci_1_0: "1.0:c:BWBR0024899&g=2011-06-16"
-citeertitel_status: "redactioneel"
-short_title: "Regeling intrekking aantal subsidieregelingen in verband met de stroomlijning hiervan"
-signed_date: "2011-06-06"
-entry_into_force: "2011-06-06"
+publicatiedatum: 2011-06-06
+laatste_update: 2011-06-16
+status: geldig
+toestand: 2011-06-16
+bron: "https://wetten.overheid.nl/BWBR0024899"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8186951, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en na overleg met de Minister van Landbouw, Natuurbeheer en Voedselveiligheid;
-
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 #### § 1. Intrekking regelingen op het gebied van starten, groeien en overdragen
 
@@ -230,13 +202,13 @@ De volgende regelingen worden ingetrokken:
 
 2. De onderdelen a en b van het eerste lid gelden niet voor de regelingen bedoeld in:
 
-- –. [artikel I, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
+- – [artikel I, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
+- – [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel V, onderdelen b, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=5&artikel=V&z=2011-06-16&g=2011-06-16);
+- – [artikel V, onderdelen b, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=5&artikel=V&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel VI, onderdelen c, d, j, z en bb](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=6&artikel=VI&z=2011-06-16&g=2011-06-16).
+- – [artikel VI, onderdelen c, d, j, z en bb](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=6&artikel=VI&z=2011-06-16&g=2011-06-16).
 
 3. Onverminderd het eerste en tweede lid, blijven bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), in stand.
 
@@ -248,23 +220,17 @@ De volgende regelingen worden ingetrokken:
 
 | Adviescommissie | Regeling | Artikel | Adviescommissie | Regeling | Artikel |
 | --- | --- | --- | --- | --- | --- |
-| De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 18 van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0018997&artikel=18) | [Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0018997) | [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018997&artikel=6) | De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 3.7 van de Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.7) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.9) |
-| Adviescommissie innovatieprogramma Food & Nutrition Delta | [Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0020296) | [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020296&artikel=12) | Adviescommissie Food & Nutrition Delta | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.13) |
-| Adviescommissie HTAS-innovatieprojecten | [Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0023865) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0023865&artikel=2) | Adviescommissie HTAS-innovatieproejcten | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.6) |
-| Adviescommissie innoWATOR | [Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0020316) | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020316&artikel=6) | Adviescommissie innoWATOR | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.6) |
-| Adviescommissie Maritiem Innovatie Programma | [Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0022224) | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022224&artikel=11) | Adviescommissie Maritiem Innovatie Programma | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.12) |
-| Adviescommissie Boegbeeldprogramma | [Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0022190) | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022190&artikel=11) | Adviescommissie Point One Programma | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.11) |
-| Adviescommissie groeifaciliteit | [Regeling Groeifaciliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0020560) | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020560) | Adviescommissie Groeifaciliteit | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.6) |
-| Adviescommissie seed capital technostarters | [Regeling seed capital technostarters](https://wetten.overheid.nl/jci1.3:c:BWBR0018146) | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018146&artikel=4) | Adviescommissie seed capital technostarters | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.8) |
-| Adviescommissie kennisexploitatie | [Regeling subsidieprogramma kennisexploitatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017312) | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017312&artikel=5) | Adviescommissie kennisexploitatie | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.6) |
-| Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling ondernemerschap en onderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021101) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021101&artikel=2) | Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.7) |
+| De adviescommissies voor de onderzoeksprogramma’s genoemd in artikel 18 van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten | Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten | 6, tweede lid | De adviescommissies voor de onderzoeksprogramma’s genoemd in artikel 3.7 van de Subsidieregeling sterktes in innovatie | Subsidieregeling sterktes in innovatie | 3.9 |
+| Adviescommissie innovatieprogramma Food & Nutrition Delta | Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten | 12 | Adviescommissie Food & Nutrition Delta | Subsidieregeling sterktes in innovatie | 5.13 |
+| Adviescommissie HTAS-innovatieprojecten | Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten | 2 | Adviescommissie HTAS-innovatieproejcten | Subsidieregeling sterktes in innovatie | 6.6 |
+| Adviescommissie innoWATOR | Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten | 6 | Adviescommissie innoWATOR | Subsidieregeling sterktes in innovatie | 7.6 |
+| Adviescommissie Maritiem Innovatie Programma | Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten | 11 | Adviescommissie Maritiem Innovatie Programma | Subsidieregeling sterktes in innovatie | 8.12 |
+| Adviescommissie Boegbeeldprogramma | Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten | 11 | Adviescommissie Point One Programma | Subsidieregeling sterktes in innovatie | 9.11 |
+| Adviescommissie groeifaciliteit | Regeling Groeifaciliteit | 6 | Adviescommissie Groeifaciliteit | Subsidieregeling starten, groeien en overdragen van ondernemingen | 3.6 |
+| Adviescommissie seed capital technostarters | Regeling seed capital technostarters | 4 | Adviescommissie seed capital technostarters | Subsidieregeling starten, groeien en overdragen van ondernemingen | 4.8 |
+| Adviescommissie kennisexploitatie | Regeling subsidieprogramma kennisexploitatie | 5 | Adviescommissie kennisexploitatie | Subsidieregeling starten, groeien en overdragen van ondernemingen | 5.6 |
+| Adviescommissie ondernemerschap en onderwijs | Subsidieregeling ondernemerschap en onderwijs 2007 | 2 | Adviescommissie ondernemerschap en onderwijs | Subsidieregeling starten, groeien en overdragen van ondernemingen | 6.7 |
 
 ##### Artikel VIII
 
 Deze regeling treedt in werking met ingang van 1 januari 2009.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

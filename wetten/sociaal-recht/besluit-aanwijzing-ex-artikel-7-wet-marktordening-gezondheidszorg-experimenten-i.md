@@ -1,78 +1,48 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2009, nr. DLZ/KZ-U-2909122 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake experimenten in het kader van het Transitie Programma Langdurige Zorg"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten in het kader van het Transitie Programma Langdurige Zorg)"
 identifier: "BWBR0025327"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-02-20"
-last_updated: "2009-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025327"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9908633"
-version_id: "16156162"
-internal_id: "C22169121"
-label_id: "9885094"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025327/2009-02-20/0"
-intitule_bron: "Stcrt.2009-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-09"
-intitule_published: "2009-02-20"
-intitule_in_force: "2009-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-35"
-original_signed_date: "2009-02-09"
-original_published_date: "2009-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-2696"
-entry_into_force_date: "2009-02-20"
-jci_1_3: "jci1.3:c:BWBR0025327&z=2009-02-20&g=2009-02-20"
-jci_1_0: "1.0:c:BWBR0025327&g=2009-02-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten in het kader van het Transitie Programma Langdurige Zorg)"
-signed_date: "2009-02-09"
-entry_into_force: "2009-02-20"
+publicatiedatum: 2009-02-20
+laatste_update: 2009-02-20
+status: geldig
+toestand: 2009-02-20
+bron: "https://wetten.overheid.nl/BWBR0025327"
+opgehaald: 2026-08-13
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2009, nr. DLZ/KZ-U-2909122 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake experimenten in het kader van het Transitie Programma Langdurige Zorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 23 oktober 2008; Kamerstukken II, 2008/09, 30597, nr. 33);
-
-Gezien het schriftelijk overleg over transitie-experimenten Langdurige Zorg van 23 december 2008 (Kamerstukken II, 2008/09, 30597, nr. 44);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** de minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **TPLZ:** het Transitieprogramma Langdurige Zorg voortvloeiend uit het Convenant AWBZ 2005–2007;
+- d. *TPLZ:* het Transitieprogramma Langdurige Zorg voortvloeiend uit het Convenant AWBZ 2005–2007;
 
-- e. **TPLZ-experiment:** een experiment te houden in het kader van het Transitieprogramma Langdurige Zorg dat:
+- e. *TPLZ-experiment:* een experiment te houden in het kader van het Transitieprogramma Langdurige Zorg dat:
 
-- 1. een looptijd heeft van maximaal drie jaren en uiterlijk op 31 december 2011 eindigt,
+   - 1. een looptijd heeft van maximaal drie jaren en uiterlijk op 31 december 2011 eindigt,
 
-- 2. gericht is op het bevorderen van de houdbaarheid van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of op het helpen voldoen aan de toenemende zorgvraag, op een zodanige wijze dat de hele sector langdurige zorg de daarbij opgedane kennis en ervaring kan toepassen,
+   - 2. gericht is op het bevorderen van de houdbaarheid van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of op het helpen voldoen aan de toenemende zorgvraag, op een zodanige wijze dat de hele sector langdurige zorg de daarbij opgedane kennis en ervaring kan toepassen,
 
-- 3. naar gelang zijn doelstelling beperkt is tot een specifieke patiëntengroep, prestatie, een of meerdere zorgaanbieders, een of meerdere ziektekostenverzekeraars dan wel een of meerdere regio’s,
+   - 3. naar gelang zijn doelstelling beperkt is tot een specifieke patiëntengroep, prestatie, een of meerdere zorgaanbieders, een of meerdere ziektekostenverzekeraars dan wel een of meerdere regio’s,
 
-- 4. niet tot gevolg heeft dat zorg waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening wordt gebracht, zorg wordt waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening kan worden gebracht,
+   - 4. niet tot gevolg heeft dat zorg waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening wordt gebracht, zorg wordt waarvoor een tarief als bedoeld in [artikel 57, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) in rekening kan worden gebracht,
 
-- 5. is vastgelegd in een overeenkomst als bedoeld onder f van dit artikel, en
+   - 5. is vastgelegd in een overeenkomst als bedoeld onder f van dit artikel, en
 
-- 6. als TPLZ-experiment is aangewezen door de minister bij besluit op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025327&artikel=3&z=2009-02-20&g=2009-02-20);
+   - 6. als TPLZ-experiment is aangewezen door de minister bij besluit op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025327&artikel=3&z=2009-02-20&g=2009-02-20);
 
-- f. **TPLZ-experiment-overeenkomst:** een tussen een of meer zorgaanbieders en een of meerdere ziektekostenverzekeraars en eventuele andere deelnemers, niet zijnde verzekerden of patiënten, gesloten en door hen ondertekende overeenkomst waarin aard, inhoud en omvang van het door hen te houden TPLZ-experiment is beschreven;
+- f. *TPLZ-experiment-overeenkomst:* een tussen een of meer zorgaanbieders en een of meerdere ziektekostenverzekeraars en eventuele andere deelnemers, niet zijnde verzekerden of patiënten, gesloten en door hen ondertekende overeenkomst waarin aard, inhoud en omvang van het door hen te houden TPLZ-experiment is beschreven;
 
-- g. **financieel kader:** het landelijk financieel kader dat voor het jaar 2008 is vastgesteld in [artikel 5, onder 3, van de aanwijzing inzake Contracteerruimte AWBZ 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023008&artikel=5) (Stcrt. 2007, 249), het landelijk financieel kader dat voor het jaar 2009 is vastgesteld in [artikel 5, aanhef en onder c, van de aanwijzing inzake Contracteerruimte AWBZ 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024742&artikel=5) en enkele andere aangelegenheden (Stcrt. 2008, 230) en het financieel kader dat telkens per jaar voor latere jaren ten behoeve van TPLZ experimenten wordt vastgesteld door de minister.
+- g. *financieel kader:* het landelijk financieel kader dat voor het jaar 2008 is vastgesteld in [artikel 5, onder 3, van de aanwijzing inzake Contracteerruimte AWBZ 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023008&artikel=5) (Stcrt. 2007, 249), het landelijk financieel kader dat voor het jaar 2009 is vastgesteld in [artikel 5, aanhef en onder c, van de aanwijzing inzake Contracteerruimte AWBZ 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024742&artikel=5) en enkele andere aangelegenheden (Stcrt. 2008, 230) en het financieel kader dat telkens per jaar voor latere jaren ten behoeve van TPLZ experimenten wordt vastgesteld door de minister.
 
 ##### Artikel 2. Werkingssfeer
 

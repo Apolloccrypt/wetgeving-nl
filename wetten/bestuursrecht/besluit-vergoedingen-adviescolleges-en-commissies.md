@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)"
+citeertitel: "Besluit vergoedingen adviescolleges en commissies"
 identifier: "BWBR0025279"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025279"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9899043"
-version_id: "16135742"
-internal_id: "C22141011"
-label_id: "9875514"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025279/2020-01-01/0"
-intitule_bron: "Stb.2009-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-21"
-intitule_published: "2009-02-12"
-intitule_in_force: "2009-02-12"
-intitule_status: "goed"
-original_publication: "Stb.2009-50"
-original_signed_date: "2009-01-21"
-original_published_date: "2009-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-50"
-entry_into_force_date: "2009-02-13"
-jci_1_3: "jci1.3:c:BWBR0025279&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0025279&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit vergoedingen adviescolleges en commissies"
-signed_date: "2009-01-21"
-entry_into_force: "2009-02-13"
+publicatiedatum: 2009-02-13
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0025279"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 november 2008, 2008-0000560740, directie Constitutionele Zaken en Wetgeving;
-
-Gelet op [artikel 2, vierde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en op [artikel 89, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=89);
-
-De Raad van State gehoord (advies van 10 december 2008, nr. W04.08.0508/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 januari 2009, nr. 2008-000626938;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet vergoedingen adviescolleges en commissies in werking treedt.
 
 ##### Artikel 1
 
@@ -101,5 +67,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet vergoedingen advies
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen adviescolleges en commissies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008, nr. PO&I/2008/34894, houdende de inrichting van de organisatie van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede verdeling van taken en verlening van vertegenwoordigingsbevoegdheden (Organisatie-, mandaat- en volmachtbesluit SZW 2009)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit SZW 2009"
 identifier: "BWBR0024956"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-16"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024956"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9824703"
-version_id: "15981212"
-internal_id: "C21891561"
-label_id: "9801534"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024956/2026-04-16/0"
-intitule_bron: "Stcrt.2008-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-10"
-intitule_published: "2008-12-23"
-intitule_in_force: "2008-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-249"
-original_signed_date: "2008-12-10"
-original_published_date: "2008-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2380"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024956&z=2026-04-16&g=2026-04-16"
-jci_1_0: "1.0:c:BWBR0024956&g=2026-04-16"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit SZW 2009"
-signed_date: "2008-12-10"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2026-04-16
+status: geldig
+toestand: 2026-04-16
+bron: "https://wetten.overheid.nl/BWBR0024956"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008, nr. PO&I/2008/34894, houdende de inrichting van de organisatie van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede verdeling van taken en verlening van vertegenwoordigingsbevoegdheden (Organisatie-, mandaat- en volmachtbesluit SZW 2009)
-
-Gelet op de [artikelen 2, eerste lid, van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2) en [10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -46,25 +20,25 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **het ministerie:** het Ministerie van Sociale Zaken en Werkgelegenheid;
+- a. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **bewindspersoon:** de Minister van Sociale Zaken en Werkgelegenheid of de Minister van Werk en Participatie, afhankelijk van wie het aangaat;
+- b. *bewindspersoon:* de Minister van Sociale Zaken en Werkgelegenheid of de Minister van Werk en Participatie, afhankelijk van wie het aangaat;
 
-- c. **mandaat:** de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
+- c. *mandaat:* de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
 
-- d. **volmacht:** de bevoegdheid om in naam van een bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- d. *volmacht:* de bevoegdheid om in naam van een bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- e. **machtiging:** de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
+- e. *machtiging:* de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
 
-- f. **vertegenwoordigingsbevoegdheid:** de bevoegdheid om namens een bewindspersoon, onder diens verantwoordelijkheid en met inachtneming van diens algemene en bijzondere aanwijzingen, besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten dan wel handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- f. *vertegenwoordigingsbevoegdheid:* de bevoegdheid om namens een bewindspersoon, onder diens verantwoordelijkheid en met inachtneming van diens algemene en bijzondere aanwijzingen, besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten dan wel handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- g. **bedrijfsvoering:** de sturing en beheersing van bedrijfsprocessen om de gestelde (beleids)doelstellingen te kunnen realiseren;
+- g. *bedrijfsvoering:* de sturing en beheersing van bedrijfsprocessen om de gestelde (beleids)doelstellingen te kunnen realiseren;
 
-- h. **Commissie Management Development:** de commissie, bestaande uit de functionarissen, genoemd in [artikel 3, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16), waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt;
+- h. *Commissie Management Development:* de commissie, bestaande uit de functionarissen, genoemd in [artikel 3, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16), waarin managementbenoemingen en de selectie voor managementopleidingen plaatsvindt;
 
-- i. **CIO:** Chief Information Officer;
+- i. *CIO:* Chief Information Officer;
 
-- j. **CIO-stelsel:** de inrichting van de samenwerking tussen de CIO’s van het ministerie, de Sociale Verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen.
+- j. *CIO-stelsel:* de inrichting van de samenwerking tussen de CIO’s van het ministerie, de Sociale Verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen.
 
 ### Hoofdstuk 2. Organisatie
 
@@ -74,71 +48,71 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - a. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de secretaris generaal:
 
-  - 1°. de directie Financieel-economische Zaken;
+   - 1°. de directie Financieel-economische Zaken;
 
-  - 2°. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden;
+   - 2°. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden;
 
-  - 3°. de directie Communicatie;
+   - 3°. de directie Communicatie;
 
-  - 4°. de directie Bestuursondersteuning;
+   - 4°. de directie Bestuursondersteuning;
 
 - b. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de plaatsvervangend secretaris-generaal:
 
-  - 1°. de directie Organisatie, Bedrijfsvoering en Personeel;
+   - 1°. de directie Organisatie, Bedrijfsvoering en Personeel;
 
-  - 2°. de Rijksschoonmaakorganisatie;
+   - 2°. de Rijksschoonmaakorganisatie;
 
-  - 3°. de directie Dienstverlening, samenwerkingsverbanden en uitvoering;
+   - 3°. de directie Dienstverlening, samenwerkingsverbanden en uitvoering;
 
-  - 4°. de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
+   - 4°. de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
 - c. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Sociale Zekerheid en Integratie:
 
-  - 1°. de directie Participatie en Decentrale Voorzieningen;
+   - 1°. de directie Participatie en Decentrale Voorzieningen;
 
-  - 2°. de directie Werknemersregelingen;
+   - 2°. de directie Werknemersregelingen;
 
-  - 3°. de directie Stelsel en Volksverzekeringen;
+   - 3°. de directie Stelsel en Volksverzekeringen;
 
-  - 4°. de directie Samenleving en Integratie;
+   - 4°. de directie Samenleving en Integratie;
 
-  - 5°. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
+   - 5°. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
 
 - d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Werk:
 
-  - 1°. de directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden;
+   - 1°. de directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden;
 
-  - 2°. de directie Gezond en Veilig Werken;
+   - 2°. de directie Gezond en Veilig Werken;
 
-  - 3°. de directie Arbeidsverhoudingen;
+   - 3°. de directie Arbeidsverhoudingen;
 
-  - 4°. de directie Internationale Zaken;
+   - 4°. de directie Internationale Zaken;
 
-  - 5°. de directie Collectieve arbeidsovereenkomsten;
+   - 5°. de directie Collectieve arbeidsovereenkomsten;
 
-  - 6°. de projectdirectie Leren en Werken;
+   - 6°. de projectdirectie Leren en Werken;
 
-  - 7°. een bureau DG-control en Managementondersteuning;
+   - 7°. een bureau DG-control en Managementondersteuning;
 
-  - 8°. de directie Kinderopvang;
+   - 8°. de directie Kinderopvang;
 
 - e. de Nederlandse Arbeidsinspectie, in het Engels genaamd Netherlands Labour Authority, bestaande uit hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de inspecteur-generaal Nederlandse Arbeidsinspectie:
 
-  - 1°. de directie Analyse, Programmering en Strategie;
+   - 1°. de directie Analyse, Programmering en Strategie;
 
-  - 2°. de directie Toezicht;
+   - 2°. de directie Toezicht;
 
-  - 3°. de directie Meldingen en Verzoeken;
+   - 3°. de directie Meldingen en Verzoeken;
 
-  - 4°. de directie Informatievoorziening;
+   - 4°. de directie Informatievoorziening;
 
-  - 5°. de directie Opsporing;
+   - 5°. de directie Opsporing;
 
 - f. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de programma-directeur-generaal Werk aan Uitvoering:
 
-  - 1°. de directie Werk aan Uitvoering;
+   - 1°. de directie Werk aan Uitvoering;
 
-  - 2°. de directie Vereenvoudiging Inkomensondersteuning voor Mensen;
+   - 2°. de directie Vereenvoudiging Inkomensondersteuning voor Mensen;
 
 - g. de Regeringscommissaris transitie pensioenen als bedoeld in het [Instellingsbesluit Regeringscommissaris transitie pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0049114).
 
@@ -164,7 +138,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 ##### Artikel 4. Verantwoordelijkheden secretaris-generaal
 
-1. De secretaris-generaal is, gelet op het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499), belast met de ambtelijke leiding van het ministerie.
+1. De secretaris-generaal is, gelet op het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499), belast met de ambtelijke leiding van het ministerie.
 
 2. De secretaris-generaal geeft rechtstreeks leiding aan de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16), en aan de functionarissen die leiding geven aan de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16).
 
@@ -184,11 +158,11 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - f. de personeelsaangelegenheden voor zover die betrekking hebben op functies waarover bij koninklijk besluit is besloten tot het aangaan van een arbeidsovereenkomst;
 
-- g. vervallen;
+- g. *vervallen;*
 
 - h. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de functionarissen, genoemd in [artikel 3, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16), en op gedragingen van de functionarissen van de organisatieonderdelen, genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16);
 
-- i. vervallen;
+- i. *vervallen;*
 
 - j. het oordeel of over een wet en de stilzwijgende goedkeuring van een verdrag een referendum kan worden gehouden overeenkomstig de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443);
 
@@ -208,9 +182,9 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - b. de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=4&z=2026-04-16&g=2026-04-16), genoemde aangelegenheden, met uitzondering van het nemen van een besluit als bedoeld in onderdeel f;
 
-- c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 1.000.000,–;
+- c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 1.000.000,–;
 
-- d. de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–;
+- d. de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–;
 
 - e. beslissingen op verzoeken om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
@@ -254,7 +228,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - l. de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG;
 
-- m. vervallen;
+- m. *vervallen;*
 
 - n. de uitvoering van de taken van de Rijksschoonmaakorganisatie.
 
@@ -478,6 +452,36 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 3. Waar in wet- en regelgeving bevoegdheden zijn toegekend aan de directie Arbeidsmarktfraude, de directie Arbeidsomstandigheden en de directie Major Hazard Control dan wel aan ambtenaren van die directies, worden deze bevoegdheden uitgeoefend door de directie Meldingen en Verzoeken, dan wel de directie Toezicht respectievelijk ambtenaren van die directies.
 
+##### Artikel 13a. Werkterrein programma-directeur-generaal Werk aan Uitvoering
+
+De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de programma-directeur-generaal Werk aan Uitvoering omvat in brede zin:
+
+- a. het vormgeven en ondersteunen van de door de Ambtelijke Commissie Uitvoering (ACU) benoemde programmatische en projectmatige activiteiten;
+
+- b. het inspireren, signaleren, faciliteren, evalueren en het bieden van richting en support aan de Werk aan Uitvoering-beweging door interventies optimaal in te zetten bij de politiek, beleidsmakers en publieke dienstverleners;
+
+- c. het werken aan domein overstijgende vereenvoudiging van wet- en regelgeving voor inkomensondersteuning vanuit het perspectief van burgers.
+
+##### Artikel 13b. Werkterrein Regeringscommissaris transitie pensioenen
+
+1. De Regeringscommissaris transitie pensioenen staat beheersmatig onder leiding van de directeur-generaal Werk.
+
+2. De Regeringscommissaris transitie pensioenen heeft de volgende taken:
+
+- a. het beoordelen en bevorderen van het verloop van de transitie naar het nieuwe pensioenstelsel;
+
+- b. het volgen van de voortgang van de transitie naar het nieuwe pensioenstelsel en het signaleren van eventuele knelpunten;
+
+- c. het gevraagd en ongevraagd adviseren van de bewindspersoon over de mogelijke maatregelen om eventuele knelpunten in de transitie weg te nemen;
+
+- d. het bevorderen dat bij de transitie betrokken partijen hun verantwoordelijkheid nemen voor het tijdig en zorgvuldig doorlopen van de transitie;
+
+- e. het stimuleren dat goede voorbeelden die bevorderlijk zijn voor het verloop van de transitie worden gedeeld, met inachtneming van de wettelijke kaders;
+
+met dien verstande dat de Regeringscommissaris transitie pensioenen zijn taken uitvoert onder de verantwoordelijkheid van de bewindspersoon, een en ander overeenkomstig het [Instellingsbesluit Regeringscommissaris transitie pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0049114).
+
+3. De Regeringscommissaris transitie pensioenen wordt in de taakuitoefening ondersteund door de directie Pensioenbeleid.
+
 ### Hoofdstuk 4. Algemene bepalingen ten aanzien van de uitoefening van taken en bevoegdheden
 
 ##### Artikel 14. Uitoefening bevoegdheden
@@ -546,9 +550,9 @@ worden vastgesteld en ondertekend door een bewindspersoon.
 
 3. Besluiten inzake het verlenen van goedkeuring aan, het schorsen of het vernietigen van dan wel het onthouden van goedkeuring aan besluiten van een ander bestuursorgaan worden genomen en ondertekend door een bewindspersoon.
 
-4. Besluiten inzake de definitieve buiteninvorderingstelling van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.
+4. Besluiten inzake de definitieve buiteninvorderingstelling van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.
 
-5. Besluiten inzake kwijtschelding van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.
+5. Besluiten inzake kwijtschelding van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.
 
 6. Besluiten tot instelling van een externe of interdepartementale commissie of een adviescollege in de zin van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159) en de benoeming van de leden van deze organen dan wel de inschakeling van externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen en ondertekend door een bewindspersoon.
 
@@ -574,17 +578,17 @@ Een vertegenwoordigingsbevoegde is niet bevoegd tot het nemen van besluiten over
 
 ##### Artikel 21. Subsidies
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22. Overeenkomsten en opdrachten
 
 1. Het gebruik van een afgesloten raamovereenkomst is verplicht, behoudens toestemming van de houder van de raamovereenkomst om hiervan af te wijken.
 
-2. Vervallen.
+2. *Vervallen.*
 
-3. Indien de geraamde waarde van een voorgenomen opdracht € 33.000,– exclusief BTW of meer bedraagt, is inschakeling van de Rijksinkoopsamenwerking verplicht.
+3. Indien de geraamde waarde van een voorgenomen opdracht € 33.000,– exclusief BTW of meer bedraagt, is inschakeling van de Rijksinkoopsamenwerking verplicht.
 
-4. Vervallen.
+4. *Vervallen.*
 
 5. Een opdracht voor de externe inhuur van interim-management, organisatie- en formatieadviezen, communicatieadvies of beleidsadvies wordt slechts verleend na voorafgaande instemming van een van de functionarissen, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16).
 
@@ -596,7 +600,7 @@ Vervallen
 
 2. Bevoegdheden ten aanzien van de volgende aangelegenheden kunnen niet worden doorverleend aan andere dan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=3&z=2026-04-16&g=2026-04-16), genoemde functionarissen:
 
-- a. het aangaan van overeenkomsten met een waarde van € 500.000,– of meer, tenzij het betreft overeenkomsten met het Centraal bureau voor de statistiek in welk geval het mag gaan om overeenkomsten met een waarde van ten hoogste € 1.000.000,–;
+- a. het aangaan van overeenkomsten met een waarde van € 500.000,– of meer, tenzij het betreft overeenkomsten met het Centraal bureau voor de statistiek in welk geval het mag gaan om overeenkomsten met een waarde van ten hoogste € 1.000.000,–;
 
 - b. het aangaan en beëindigen van arbeidsovereenkomsten met functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren;
 
@@ -638,15 +642,15 @@ Vervallen
 
 ##### Artikel 26. Wijziging andere regeling
 
-Wijzigt het Mandaatbesluit Tijdelijke SZW-borgstellingsregeling startende ondernemers vanuit een uitkering.
+*Wijzigt het Mandaatbesluit Tijdelijke SZW-borgstellingsregeling startende ondernemers vanuit een uitkering.*
 
 ##### Artikel 27. Wijziging andere regeling
 
-Wijzigt het Mandaatbesluit SZW-Subsidieregeling preventie van arbeidsuitval 2004.
+*Wijzigt het Mandaatbesluit SZW-Subsidieregeling preventie van arbeidsuitval 2004.*
 
 ##### Artikel 28. Wijziging andere regeling
 
-Wijzigt het Mandaat projectdirectie Leren en Werken.
+*Wijzigt het Mandaat projectdirectie Leren en Werken.*
 
 ##### Artikel 29. Intrekking en nieuwe grondslag regelingen
 
@@ -656,70 +660,26 @@ Wijzigt het Mandaat projectdirectie Leren en Werken.
 
 3. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens [artikel 22, eerste en derde lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=22) op [artikel 23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=23&z=2026-04-16&g=2026-04-16), van deze regeling:
 
-- a. de [Mandaatregeling Farbo](onbekend);
+- a. de [Mandaatregeling Farbo](https://wetten.overheid.nl/BWBR0018861);
 
-- b. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8691, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Regeling schoonmaakdiensten particulieren, de Regeling schoonmaakdiensten particulieren 2005 en de Tijdelijke subsidieregeling beëindiging subsidiëring schoonmaakdiensten particulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0021746);
+- b. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8691, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Regeling schoonmaakdiensten particulieren, de Regeling schoonmaakdiensten particulieren 2005 en de Tijdelijke subsidieregeling beëindiging subsidiëring schoonmaakdiensten particulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0021746);
 
-- c. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8687, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke stimuleringsregeling regulier maken 10.000 ID-banen](https://wetten.overheid.nl/jci1.3:c:BWBR0021745);
+- c. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8687, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke stimuleringsregeling regulier maken 10.000 ID-banen](https://wetten.overheid.nl/jci1.3:c:BWBR0021745);
 
-- d. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8692, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke subsidieregeling beëindiging subsidiëring schoonmaakdiensten particulieren 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021748);
+- d. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8692, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke subsidieregeling beëindiging subsidiëring schoonmaakdiensten particulieren 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021748);
 
-- e. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8688, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke aanvullende stimuleringsregeling regulier maken 10.000 ID-banen](https://wetten.overheid.nl/jci1.3:c:BWBR0021749);
+- e. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8688, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke aanvullende stimuleringsregeling regulier maken 10.000 ID-banen](https://wetten.overheid.nl/jci1.3:c:BWBR0021749);
 
-- f. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8689, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke stimuleringsregeling leer-/werktrajecten](https://wetten.overheid.nl/jci1.3:c:BWBR0021750);
+- f. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8689, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke stimuleringsregeling leer-/werktrajecten](https://wetten.overheid.nl/jci1.3:c:BWBR0021750);
 
-- g. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8690, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke subsidieregeling stimuleren leeftijdsbewust beleid](https://wetten.overheid.nl/jci1.3:c:BWBR0021751);
+- g. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 april 2007, Directie Arbeidsmarkt, nr. AM/SAM/07/8690, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke subsidieregeling stimuleren leeftijdsbewust beleid](https://wetten.overheid.nl/jci1.3:c:BWBR0021751);
 
-- h. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen](https://wetten.overheid.nl/jci1.3:c:BWBR0021838).
+- h. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen](https://wetten.overheid.nl/jci1.3:c:BWBR0021838).
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat [artikel 26, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=5&artikel=26&z=2026-04-16&g=2026-04-16) terugwerkt tot en met 1 juli 2007.
+Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat [artikel 26, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=5&artikel=26&z=2026-04-16&g=2026-04-16) terugwerkt tot en met 1 juli 2007.
 
 ##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit SZW 2009.
-
-Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Werkterrein programma-directeur-generaal Werk aan Uitvoering
-
-De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de programma-directeur-generaal Werk aan Uitvoering omvat in brede zin:
-
-- a. het vormgeven en ondersteunen van de door de Ambtelijke Commissie Uitvoering (ACU) benoemde programmatische en projectmatige activiteiten;
-
-- b. het inspireren, signaleren, faciliteren, evalueren en het bieden van richting en support aan de Werk aan Uitvoering-beweging door interventies optimaal in te zetten bij de politiek, beleidsmakers en publieke dienstverleners;
-
-- c. het werken aan domein overstijgende vereenvoudiging van wet- en regelgeving voor inkomensondersteuning vanuit het perspectief van burgers.
-
-### Hoofdstuk 4. Algemene bepalingen ten aanzien van de uitoefening van taken en bevoegdheden
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
-
-##### Artikel 13b. Werkterrein Regeringscommissaris transitie pensioenen
-
-1. De Regeringscommissaris transitie pensioenen staat beheersmatig onder leiding van de directeur-generaal Werk.
-
-2. De Regeringscommissaris transitie pensioenen heeft de volgende taken:
-
-- a. het beoordelen en bevorderen van het verloop van de transitie naar het nieuwe pensioenstelsel;
-
-- b. het volgen van de voortgang van de transitie naar het nieuwe pensioenstelsel en het signaleren van eventuele knelpunten;
-
-- c. het gevraagd en ongevraagd adviseren van de bewindspersoon over de mogelijke maatregelen om eventuele knelpunten in de transitie weg te nemen;
-
-- d. het bevorderen dat bij de transitie betrokken partijen hun verantwoordelijkheid nemen voor het tijdig en zorgvuldig doorlopen van de transitie;
-
-- e. het stimuleren dat goede voorbeelden die bevorderlijk zijn voor het verloop van de transitie worden gedeeld, met inachtneming van de wettelijke kaders;
-
-met dien verstande dat de Regeringscommissaris transitie pensioenen zijn taken uitvoert onder de verantwoordelijkheid van de bewindspersoon, een en ander overeenkomstig het [Instellingsbesluit Regeringscommissaris transitie pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0049114).
-
-3. De Regeringscommissaris transitie pensioenen wordt in de taakuitoefening ondersteund door de directie Pensioenbeleid.
-
-### Hoofdstuk 4. Algemene bepalingen ten aanzien van de uitoefening van taken en bevoegdheden
-
-### Hoofdstuk 5. Slotbepalingen
-
-Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.

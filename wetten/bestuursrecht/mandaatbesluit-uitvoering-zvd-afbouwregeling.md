@@ -1,51 +1,25 @@
 ---
 title: "Mandaatbesluit uitvoering ZVD-afbouwregeling"
 identifier: "BWBR0025828"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-04-16"
-last_updated: "2009-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025828"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10038513"
-version_id: "16399552"
-internal_id: "C22542011"
-label_id: "10014864"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025828/2009-04-16/0"
-intitule_bron: "Stcrt.2009-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-04-16"
-intitule_published: "2009-05-12"
-intitule_in_force: "2009-05-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-86"
-original_signed_date: "2009-04-16"
-original_published_date: "2009-05-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-6909"
-entry_into_force_date: "2009-04-16"
-jci_1_3: "jci1.3:c:BWBR0025828&z=2009-04-16&g=2009-04-16"
-jci_1_0: "1.0:c:BWBR0025828&g=2009-04-16"
-citeertitel_status: "redactioneel"
-signed_date: "2009-04-16"
-entry_into_force: "2009-04-16"
+publicatiedatum: 2009-04-16
+laatste_update: 2009-04-16
+status: geldig
+toestand: 2009-04-16
+bron: "https://wetten.overheid.nl/BWBR0025828"
+opgehaald: 2026-08-13
 ---
+
 # Mandaatbesluit uitvoering ZVD-afbouwregeling
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **APG Algemene Pensioen Groep:** de APG Algemene Pensioen Groep N.V.
+- a. *APG Algemene Pensioen Groep:* de APG Algemene Pensioen Groep N.V.
 
-- b. **Staatssecretaris:** de Staatssecretaris van Defensie.
+- b. *Staatssecretaris:* de Staatssecretaris van Defensie.
 
 ##### Artikel 2
 
@@ -92,5 +66,3 @@ voor deze,
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 1 maart 2008.
-
-Dit besluit zal worden gepubliceerd in de Staatscourant.

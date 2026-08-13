@@ -1,44 +1,18 @@
 ---
 title: "Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)"
+citeertitel: "Regeling erkenningen luchtwaardigheid 2008"
 identifier: "BWBR0024682"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024682"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9762593"
-version_id: "22407822"
-internal_id: "C32153591"
-label_id: "9740004"
-dtd_version: "2.0"
-original_entry_into_force: "2015-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024682/2020-10-01/0"
-intitule_bron: "Stcrt.2008-218"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-30"
-intitule_published: "2008-11-10"
-intitule_in_force: "2008-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2015-11508"
-original_signed_date: "2015-04-24"
-original_published_date: "2015-05-01"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2015-11508"
-entry_into_force_date: "2015-04-24"
-jci_1_3: "jci1.3:c:BWBR0024682&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0024682&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenningen luchtwaardigheid 2008"
-signed_date: "2015-04-24"
-entry_into_force: "2015-04-24"
+publicatiedatum: 2015-04-24
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0024682"
+opgehaald: 2026-08-13
 ---
+
 # Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)
-
-Gelet op [artikel 3.25 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.25) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,33 +20,37 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **autoriseringspersoneel:** personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;
+- *autoriseringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd geluidsmeetrapporten af te geven nadat geluidsmetingen zijn verricht;
 
-- **BvL-acceptatiekeuring:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
+- *BvL-acceptatiekeuring:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
 
-- **BvL-verlengingsinspectie:** inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
+- *BvL-verlengingsinspectie:* inspectie zoals gedefinieerd in [artikel 1 van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&artikel=1);
 
-- **CAMO-erkenning:** erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart G;
+- *CAMO-erkenning:* erkenning voor het beheren van de blijvende luchtwaardigheid van luchtvaartuigen en de onderdelen daarvan, als bedoeld in verordening (EU) nr. 1321/2014, Part M, section A, subpart G;
 
-- **certificeringspersoneel:** personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;
+- *certificeringspersoneel:* personeel dat door de houder van een erkenning volgens een door de Minister aanvaarde procedure is gemachtigd luchtvaartuigen of onderdelen daarvan als geschikt voor gebruik te certificeren;
 
-- **ernstig defect of gebrek:** defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;
+- *ernstig defect of gebrek:* defect of gebrek van zodanige aard, dat als gevolg hiervan de veilige uitvoering van de vlucht niet meer is gewaarborgd of een ernstige verwonding van een inzittende tot gevolg kan hebben of zijn leven in gevaar kan brengen;
 
-- **houder van een erkenning:** natuurlijk of rechtspersoon, erkend door de minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;
+- *houder van een erkenning:* natuurlijk of rechtspersoon, erkend door de minister voor de werkzaamheden die zijn opgenomen in het bewijs van erkenning;
 
-- **kwaliteitssysteem:** stelsel van vastgelegde bedrijfskundige procedures, regels en voorzieningen dat betrekking heeft op het productieproces en ten doel heeft te verzekeren dat de resultaten van het productieproces aan de vooraf gestelde eisen voldoen;
+- *kwaliteitssysteem:* stelsel van vastgelegde bedrijfskundige procedures, regels en voorzieningen dat betrekking heeft op het productieproces en ten doel heeft te verzekeren dat de resultaten van het productieproces aan de vooraf gestelde eisen voldoen;
 
-- **kwaliteitsborging:** het aantoonbaar op het vereiste peil houden van het kwaliteitssysteem;
+- *kwaliteitsborging:* het aantoonbaar op het vereiste peil houden van het kwaliteitssysteem;
 
-- **kwaliteitsborgingsfunctie:** inspectie- en kwaliteitsorganisatie, aanvaard door de Minister voor het houden van toezicht en het beoordelen van de kwaliteit van de werkzaamheden, teneinde het vereiste kwaliteitsniveau te handhaven;
+- *kwaliteitsborgingsfunctie:* inspectie- en kwaliteitsorganisatie, aanvaard door de Minister voor het houden van toezicht en het beoordelen van de kwaliteit van de werkzaamheden, teneinde het vereiste kwaliteitsniveau te handhaven;
 
-- **luchtwaardigheidsgegevens:** alle informatie die nodig is om ervoor te zorgen dat het luchtvaartuig of het onderdeel daarvan in een zodanige staat kan worden gehouden dat de luchtwaardigheid van het luchtvaartuig of het goed functioneren van de operationele uitrusting of de nooduitrusting verzekerd is;
+- *luchtwaardigheidsgegevens:* alle informatie die nodig is om ervoor te zorgen dat het luchtvaartuig of het onderdeel daarvan in een zodanige staat kan worden gehouden dat de luchtwaardigheid van het luchtvaartuig of het goed functioneren van de operationele uitrusting of de nooduitrusting verzekerd is;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **MOA:** erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in bijlage II bij verordening (EU) nr. 1321/2014, (Maintenance Organisation Approval).
+- *MOA:* erkenning voor het onderhoud van vliegtuigen, helikopters en luchtschepen of onderdelen daarvan, als bedoeld in bijlage II bij verordening (EU) nr. 1321/2014, (Maintenance Organisation Approval).
 
 2. In deze regeling wordt onder productie mede verstaan: het verrichten van diensten.
+
+##### Artikel 1a
+
+Deze regeling is gebaseerd op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20).
 
 ### Hoofdstuk 2. Europese erkenningen
 
@@ -110,103 +88,135 @@ Besluit:
 
 De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part 21 bij verordening (EU) nr. 748/2012 schriftelijk en onverwijld maar uiterlijk binnen 72 uur na constatering aan de Minister melden.
 
+##### Artikel 6a
+
+1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 2, eerste lid, onderdeel b, onder i, van de basisverordening en de daarbij behorende verklaringen.
+
+2. De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.
+
+3. De minister kan de aanvullende erkenning tot het uitvoeren van acceptatiekeuringen intrekken, indien:
+
+- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
+
+- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
+
 ### Hoofdstuk 3. Erkend inspecteur
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Erkend zweefvliegtechnicus (EZT)
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
+
+##### Artikel 29a
+
+1. De minister kan op aanvraag aan een bedrijf de volgende erkenningen afgeven:
+
+- a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig;
+
+- b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig;
+
+- c. een erkenning voor het verrichten van ontwerpwerkzaamheden voor een Nederlands luchtvaartuig, en
+
+- d. een erkenning tot het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een speciaal-BvL voor een RPA.
+
+De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts mogelijk voor zover het een luchtvaartuig betreft als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten.
+
+2. De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid, onderdelen a en b, de bevoegdheid verlenen tot het aanvullend erkennen voor:
+
+- a. het uitvoeren van een BvL-verlengingsinspectie aan een luchtvaartuig als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, en dat is ingeschreven in het Nederlands register voor burgerluchtvaartuigen; en
+
+- b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.
 
 ##### Artikel 30
 
@@ -234,9 +244,9 @@ Vervallen
 
 - b. hij voldoet aan:
 
-- 1°. de overeenkomstig van toepassing zijnde voorwaarden van Part 21, subpart J, van verordening (EU) nr. 748/2012; en
+   - 1°. de overeenkomstig van toepassing zijnde voorwaarden van Part 21, subpart J, van verordening (EU) nr. 748/2012; en
 
-- 2°. de aanvullende of afwijkende voorwaarden opgenomen in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2020-10-01&g=2020-10-01).
+   - 2°. de aanvullende of afwijkende voorwaarden opgenomen in de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=E&z=2020-10-01&g=2020-10-01).
 
 5. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond dat:
 
@@ -280,7 +290,7 @@ Van de erkenning wordt een bewijs afgegeven.
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
@@ -316,6 +326,14 @@ Vervallen
 
 2. Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.
 
+##### Artikel 36a
+
+1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), intrekken, indien:
+
+- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
+
+- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
+
 ##### Artikel 37
 
 1. Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.
@@ -344,9 +362,9 @@ Vervallen
 
 - c. de ontvangen certificaten van vrijgave voor gebruik of verklaringen van conformiteit voor materialen of onderdelen, welke van derden zijn betrokken: tien jaren na de verwerking van deze materialen of onderdelen.
 
-2. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), die in het bezit is van een MOA of MOA-F, bewaart de gegevens, bedoeld in Part M, subpart F, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
+2. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), die in het bezit is van een MOA of MOA-F, bewaart de gegevens, bedoeld in Part M, subpart F, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
 
-3. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de gegevens, bedoeld in Part M, subpart G, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
+3. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de gegevens, bedoeld in Part M, subpart G, van verordening (EU) nr. 1321/2014, ten minste gedurende de daarin aangegeven termijnen.
 
 4. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de verklaring van goedkeuring, de ontwerpgegevens en de technische onderbouwing ten minste tot 2 jaar na het uit dienst nemen van het goedgekeurde ontwerp.
 
@@ -396,7 +414,7 @@ Van de erkenning wordt een bewijs afgegeven.
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
@@ -497,419 +515,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 57
 
 Deze regeling wordt aangehaald als: Regeling erkenningen luchtwaardigheid 2008.
-
-## Bijlage A. Erkenningsvoorwaarden voor een erkend inspecteur
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt.
-
-### Artikel 2. Vakbekwaamheid
-
-De aanvrager beschikt met betrekking tot het gebied van de werkzaamheden ten aanzien waarvan hij de erkenning aanvraagt, over:
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt.
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt met betrekking tot het gebied van de werkzaamheden ten aanzien waarvan hij de erkenning aanvraagt, over:
-
-### Artikel 3. Bedrijfsmiddelen
-
-Ten einde een goede uitvoering van werkzaamheden te kunnen waarborgen, zal de aanvrager:
-
-### Artikel 4. Documentatie
-
-De aanvrager beschikt op de werkplek over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de minister van toepassing zijn op de certificatieprocessen.
-
-### Artikel 6. Kwaliteitsbeleid
-
-De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat:
-
-### Artikel 8. De productieprocessen
-
-### Artikel 7. Het documentatiebeheer
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 8. De vrijgave
-
-### Artikel 10. De meet- en beproevingsmiddelen
-
-De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
-
-## Bijlage B. Erkenningsvoorwaarden voor EZT
-
-### Artikel 10. Kwaliteitsborging
-
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek.
-
-### Artikel 14. De vrijgave
-
-### Artikel 15. Een doelmatige en deugdelijke technische administratie
-
-De aanvrager beschikt in de werkplaats over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 17. Handboek
-
-De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat:
-
-### Artikel 1. De organisatiestructuur
-
-### Artikel 2. Personeelscapaciteit
-
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 4. Documentatie
-
-De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.
-
-### Artikel 5. Kwaliteitssysteem
-
-De aanvrager waarborgt dat:
-
-### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
-
-### Artikel 8. Het geluidsmeetproces
-
-### Artikel 10. De meet- en beproevingsmiddelen
-
-De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
-
-### Artikel 11. De deugdelijkheid van toegeleverde materialen, onderdelen en producten en uitbestede werkzaamheden
-
-### Artikel 10. De identificatie en traceerbaarheid van meetapparatuur
-
-### Artikel 11. De geluidsmeetrapporten
-
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 2 tot en met 13 voldoet alsmede een wijzigingsprocedure van het handboek.
-
-## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
-
-### Artikel 14. Kwaliteitsborging bij een eenmansorganisatie
-
-### Artikel 15. Bevoegdheden en verantwoordelijkheden van de uitvoerder van de kwaliteitsborgingsfunctie bij een eenmansorganisatie
-
-### Artikel 16. Handboek
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 2. Personeelscapaciteit
-
-### Artikel 3. Bedrijfsmiddelen
-
-### Artikel 4. Documentatie
-
-### Artikel 5. Kwaliteitssysteem
-
-De aanvrager waarborgt dat:
-
-### Artikel 6. Kwaliteitsbeleid
-
-De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 8. Het geluidsmeetproces
-
-### Artikel 9. Het documentatiebeheer
-
-### Artikel 9. Het documentatiebeheer
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 10. De identificatie en traceerbaarheid van meetapparatuur
-
-### Artikel 11. De geluidsmeetrapporten
-
-### Artikel 12. Een doelmatige en deugdelijke technische administratie
-
-### Artikel 13. De kwaliteitsborging bij een organisatie niet zijnde een eenmansorganisatie
-
-### Artikel 14. Kwaliteitsborging bij een eenmansorganisatie
-
-## Bijlage D. Erkenningsvoorwaarden voor een erkende geluidsmeetorganisatie
-
-### Artikel 16. Handboek
-
-### Artikel 2. Personeelscapaciteit
-
-### Artikel 3. Bedrijfsmiddelen
-
-### Artikel 4. Documentatie
-
-De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.
-
-### Artikel 5. Kwaliteitssysteem
-
-### Artikel 6. Kwaliteitsbeleid
-
-### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
-
-### Artikel 8. Het geluidsmeetproces
-
-De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.
-
-### Artikel 9. Het documentatiebeheer
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 10. De identificatie en traceerbaarheid van meetapparatuur
-
-### Artikel 11. De geluidsmeetrapporten
-
-### Artikel 12. Een doelmatige en deugdelijke technische administratie
-
-### Artikel 13. De kwaliteitsborging bij een organisatie niet zijnde een eenmansorganisatie
-
-### Artikel 14. Kwaliteitsborging bij een eenmansorganisatie
-
-### Artikel 15. Bevoegdheden en verantwoordelijkheden van de uitvoerder van de kwaliteitsborgingsfunctie bij een eenmansorganisatie
-
-### Artikel 16. Handboek
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 2, eerste lid, onderdeel b, onder i, van de basisverordening en de daarbij behorende verklaringen.
-
-2. De minister geeft deze aanvullende erkenning af indien de aanvrager zijn handboek heeft aangevuld met een procedure met betrekking tot deze keuringen en verklaringen.
-
-3. De minister kan de aanvullende erkenning tot het uitvoeren van acceptatiekeuringen intrekken, indien:
-
-- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
-
-- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
-
-### Hoofdstuk 3. Erkend inspecteur
-
-### Hoofdstuk 4. Erkend zweefvliegtechnicus (EZT)
-
-### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
-
-##### Artikel 29a
-
-1. De minister kan op aanvraag aan een bedrijf de volgende erkenningen afgeven:
-
-- a. een erkenning tot het onderhoud van een Nederlands luchtvaartuig;
-
-- b. een erkenning tot het onderhoudsmanagement van een Nederlands luchtvaartuig;
-
-- c. een erkenning voor het verrichten van ontwerpwerkzaamheden voor een Nederlands luchtvaartuig, en
-
-- d. een erkenning tot het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een speciaal-BvL voor een RPA.
-
-De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts mogelijk voor zover het een luchtvaartuig betreft als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten.
-
-2. De minister kan op aanvraag de houder van een erkenning als bedoeld in het eerste lid, onderdelen a en b, de bevoegdheid verlenen tot het aanvullend erkennen voor:
-
-- a. het uitvoeren van een BvL-verlengingsinspectie aan een luchtvaartuig als bedoeld in onderdeel 1, onder a, b, en d, van bijlage I bij de basisverordening of dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, en dat is ingeschreven in het Nederlands register voor burgerluchtvaartuigen; en
-
-- b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.
-
-##### Artikel 36a
-
-1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), intrekken, indien:
-
-- a. een positief advies is uitgebracht over een niet-luchtwaardig luchtvaartuig; of
-
-- b. positieve adviezen zijn uitgebracht die op onderdelen onjuist zijn, zonder dat er sprake is van niet-luchtwaardige luchtvaartuigen.
-
-### Hoofdstuk 6. Erkende geluidsmeetorganisatie
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage A. Erkenningsvoorwaarden voor een erkend inspecteur
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt over een beschrijving, inclusief een organisatieschema, waaruit de plaats van de aanvrager in de onderneming blijkt.
-
-### Artikel 2. Vakbekwaamheid
-
-De aanvrager beschikt met betrekking tot het gebied van de werkzaamheden ten aanzien waarvan hij de erkenning aanvraagt, over:
-
-### Artikel 2. Personeelscapaciteit
-
-Ten einde een goede uitvoering van werkzaamheden te kunnen waarborgen, zal de aanvrager:
-
-### Artikel 4. Documentatie
-
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 5. Kwaliteitssysteem
-
-De aanvrager is verantwoordelijk voor een kwaliteitssysteem dat in ieder geval de volgende aspecten bevat:
-
-### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
-
-De certificatieprocessen van de aanvrager waarborgen dat de werkzaamheden worden uitgevoerd, overeenkomstig de van toepassing zijnde specificaties, voorschriften en instructies zodat de resultaten van het certificatieproces aan een vooraf vastgestelde kwaliteit voldoen.
-
-### Artikel 12. De opslag van materialen en producten
-
-## Bijlage B. Erkenningsvoorwaarden voor EZT
-
-Vervallen
-
-## Bijlage B. Erkenningsvoorwaarden voor EZT
-
-Vervallen
-
-### Artikel 16. De kwaliteitsborging
-
-### Artikel 2. Personeelscapaciteit
-
-De aanvrager beschikt in het bedrijf, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens, die ingevolge de aanwijzingen van de Minister van toepassing zijn op de materialen, onderdelen, producten en productieprocessen.
-
-### Artikel 3. Bedrijfsmiddelen
-
-### Artikel 6. Kwaliteitsbeleid
-
-De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 9. Het documentatiebeheer
-
-De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
-
-### Artikel 12. Een doelmatige en deugdelijke technische administratie
-
-### Artikel 13. De kwaliteitsborging bij een organisatie niet zijnde een eenmansorganisatie
-
-## Bijlage D. Erkenningsvoorwaarden voor een erkende geluidsmeetorganisatie
-
-### Artikel 1. De organisatiestructuur
-
-De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.
-
-### Artikel 5. Kwaliteitssysteem
-
-### Artikel 7. De opleiding, kwalificatie en ervaring van het personeel
-
-De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 10. De identificatie en traceerbaarheid van meetapparatuur
-
-### Artikel 15. Bevoegdheden en verantwoordelijkheden van de uitvoerder van de kwaliteitsborgingsfunctie bij een eenmansorganisatie
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling is gebaseerd op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20).
-
-### Hoofdstuk 2. Europese erkenningen
-
-### Hoofdstuk 3. Erkend inspecteur
-
-### Hoofdstuk 4. Erkend zweefvliegtechnicus (EZT)
-
-### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
-
-### Hoofdstuk 6. Erkende geluidsmeetorganisatie
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage A. Erkenningsvoorwaarden voor een erkend inspecteur
-
-Vervallen
-
-De aanvrager waarborgt dat:
-
-### Artikel 9. Het documentatiebeheer
-
-De aanvrager beschikt over een systeem dat waarborgt, dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-### Artikel 11. De deugdelijkheid van toegeleverde materialen, onderdelen en producten en uitbestede werkzaamheden
-
-De aanvrager zorgt voor een doelmatige en deugdelijke technische administratie met betrekking tot:
-
-### Artikel 13. De identificatie en traceerbaarheid van materialen, onderdelen en producten
-
-Het handboek van de aanvrager bevat een beschrijving hoe hij aan de artikelen 4 tot en met 10 voldoet en een wijzigingsprocedure van het handboek.
-
-## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
-
-### Artikel 6. Kwaliteitsbeleid
-
-De aanvrager waarborgt dat:
-
-De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.
-
-De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
-
-## Bijlage E. bedoeld in [artikel 30, vierde lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2020-10-01&g=2020-10-01), en[artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=38&z=2020-10-01&g=2020-10-01), van de Regeling erkenningen luchtwaardigheid 2008
-
-De minister geeft een nationale ontwerperkenning af overeenkomstig verordening Bijlage I (Part 21) van verordening (EU) nr. 748/2012, en bijbehorend AMC en GM materiaal, met dien verstande dat:
-
-- a. onder ‘het Agentschap’ of ‘EASA’ telkens moet worden verstaan: de Inspectie Leefomgeving en Transport;
-
-- b. in afwijking van onderdelen 21.A.113 en 21.A.115 van Subdeel E een aanvraag voor een aanvullend typecertificaat wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;
-
-- c. in onderdeel 21.A.118A(b) van Subdeel E onder ‘EPA’ moet worden verstaan: NLPA;
-
-- d. in afwijking van onderdelen 21.A.234, 21.A.247 en 21.A.253 van Subdeel J een aanvraag voor een erkenning of wijziging van een erkenning wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Aanvraag nationale bedrijfserkenning’ waarvan exemplaren bij de Inspectie Leefomgeving en Transport te verkrijgen zijn;
-
-- e. in afwijking van items 3 en 4 van onderdeel 21.A.263(c) van Subdeel J de nationaal erkende ontwerporganisatie (NL.DOA) gebruik kan maken van haar privileges om documenten goed te keuren onder vermelding van ‘De technische inhoud van dit document is goedgekeurd krachtens erkenning als ontwerporganisatie ref. NL.DOA.[XYZ]’;
-
-- f. in afwijking van onderdeel 21.A.433 van Subdeel M wordt een aanvraag voor goedkeuring van een reparatieontwerp ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;
-
-- g. in onderdelen 21.A.451(a)2 en 21.A.451(b)2 van Subdeel M onder ‘EPA’ moet worden verstaan: NLPA;
-
-- h. in afwijking van onderdeel 21.A.707(a) een aanvraag voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;
-
-- i. in afwijking van onderdeel 21.A.709(a)1 van Subdeel P een aanvraag voor goedkeuring van de vluchtcondities voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;
-
-- j. in onderdeel 21.A.804(a)3 van Subdeel Q onder ‘EPA’ moet worden verstaan: NLPA.
-
-De aanvrager beschikt in de organisatie, daar waar deze voor de uitvoering van de werkzaamheden benodigd zijn, over de van toepassing zijnde voorschriften, specificaties, normen en andere gegevens.
-
-De aanvrager waarborgt dat de werkzaamheden tijdens het geluidsmeetproces worden uitgevoerd, overeenkomstig de van toepassing zijnde voorschriften en instructies, met gebruikmaking van de van toepassing zijnde bedrijfsmiddelen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage E. , bedoeld in[artikel 30, onderdeel c, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=30&z=2016-07-01&g=2016-07-01), en[artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=38&z=2016-07-01&g=2016-07-01), van de Regeling erkenningen luchtwaardigheid 2008
-
-De minister geeft een nationale ontwerperkenning af overeenkomstig verordening Bijlage I (Part 21) van verordening (EU) nr. 748/2012, en bijbehorend AMC en GM materiaal, met dien verstande dat:
-
-- a. onder ‘het Agentschap’ of ‘EASA’ telkens moet worden verstaan: de Inspectie Leefomgeving en Transport;
-
-- b. in afwijking van onderdelen 21.A.113 en 21.A.115 van Subdeel E een aanvraag voor een aanvullend typecertificaat wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;
-
-- c. in onderdeel 21.A.118A(b) van Subdeel E onder ‘EPA’ moet worden verstaan: NLPA;
-
-- d. in afwijking van onderdelen 21.A.234, 21.A.247 en 21.A.253 van Subdeel J een aanvraag voor een erkenning of wijziging van een erkenning wordt ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Aanvraag nationale bedrijfserkenning’ waarvan exemplaren bij de Inspectie Leefomgeving en Transport te verkrijgen zijn;
-
-- e. in afwijking van onderdeel 21.A.259(a) van Subdeel J de geldigheidsduur van de erkenning maximaal 2 jaar is;
-
-- f. in afwijking van items 3 en 4 van onderdeel 21.A.263(c) van Subdeel J de nationaal erkende ontwerporganisatie (NL.DOA) gebruik kan maken van haar privileges om documenten goed te keuren onder vermelding van ‘De technische inhoud van dit document is goedgekeurd krachtens erkenning als ontwerporganisatie ref. NL.DOA.[XYZ]’;
-
-- g. in afwijking van onderdeel 21.A.433 van Subdeel M wordt een aanvraag voor goedkeuring van een reparatieontwerp ingediend bij de Inspectie Leefomgeving en Transport door middel van een volledig ingevuld en ondertekend aanvraagformulier ‘Goedkeuring wijziging luchtvaartuig (-onderdeel) (GWL)’;
-
-- h. in onderdelen 21.A.451(a)2 en 21.A.451(b)2 van Subdeel M onder ‘EPA’ moet worden verstaan: NLPA;
-
-- i. in afwijking van onderdeel 21.A.707(a) een aanvraag voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;
-
-- j. in afwijking van onderdeel 21.A.709(a)1 van Subdeel P een aanvraag voor goedkeuring van de vluchtcondities voor een vliegvergunning wordt ingediend bij de Inspectie Leefomgeving en Transport;
-
-- k. in onderdeel 21.A.804(a)3 van Subdeel Q onder ‘EPA’ moet worden verstaan: NLPA.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage B. Erkenningsvoorwaarden voor EZT
-
-Vervallen
-
-## Bijlage C. Erkenningsvoorwaarden voor een erkend bedrijf
-
-De aanvrager zorgt voor een goede opslag van en een goede handelwijze met materialen, halffabrikaten, onderdelen en producten, zodat:
-
-## Bijlage D. Erkenningsvoorwaarden voor een erkende geluidsmeetorganisatie
-
-De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare documentatie wordt bijgehouden en actueel blijft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

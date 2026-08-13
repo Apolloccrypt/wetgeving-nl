@@ -1,51 +1,22 @@
 ---
 title: "Wet van 3 juli 2008 tot wijziging van de Wet op het financieel toezicht in verband met de uitvoering van Richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG (PbEU L 323)"
+citeertitel: "Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering)"
 identifier: "BWBR0024391"
-country: "nl"
-rank: "wet"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024391"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "9701793"
-version_id: "15680292"
-internal_id: "C21433891"
-label_id: "9678924"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024391/2016-01-01/0"
-intitule_bron: "Stb.2008-333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-03"
-intitule_published: "2008-08-26"
-intitule_in_force: "2008-08-26"
-intitule_status: "goed"
-original_publication: "Stb.2008-333"
-original_signed_date: "2008-07-03"
-original_published_date: "2008-08-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "31131"
-original_url_id: "stb-2008-333"
-entry_into_force_date: "2008-09-01"
-jci_1_3: "jci1.3:c:BWBR0024391&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0024391&g=2016-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering)"
-signed_date: "2008-07-03"
-entry_into_force: "2008-09-01"
+publicatiedatum: 2008-09-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0024391"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 3 juli 2008 tot wijziging van de Wet op het financieel toezicht in verband met de uitvoering van Richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG (PbEU L 323)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is uitvoering te geven aan [Richtlijn nr. 2005/68/EG](32005L0068) van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van [Richtlijnen 73/239/EEG](31973L0239) en [92/49/EEG](31992L0049) van de Raad en van Richtlijnen [98/78/EG](31998L0078) en [2002/83/EG](32002L0083) (PbEG L 323), teneinde regels te stellen met betrekking tot het uitoefenen van het bedrijf van herverzekeraar en het toezicht op de naleving van die regels;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
@@ -133,11 +104,11 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - m. indien van toepassing:
 
-- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
+   - 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
 
-- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
+   - 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
 
-- 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een verklaring van geen bezwaar blijken.
+   - 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een verklaring van geen bezwaar blijken.
 
 2. De gegevens, bedoeld in het eerste lid, onderdeel g, zijn:
 
@@ -157,7 +128,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](onbekend); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](https://wetten.overheid.nl/BWBR0020413); en
 
 - d. een opgave van referenten.
 
@@ -245,11 +216,11 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 - m. indien van toepassing:
 
-- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
+   - 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
 
-- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
+   - 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
 
-- 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken.
+   - 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken.
 
 2. De gegevens, bedoeld in het eerste lid, aanhef en onderdeel g, zijn:
 
@@ -269,7 +240,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 - b. een kopie van een geldig identiteitsbewijs;
 
-- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](onbekend); en
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](https://wetten.overheid.nl/BWBR0020413); en
 
 - d. een opgave van referenten.
 
@@ -297,31 +268,31 @@ Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVII
 
@@ -333,14 +304,12 @@ De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), met uitzondering van 
 
 ##### Artikel XVIIIa
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel XIX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

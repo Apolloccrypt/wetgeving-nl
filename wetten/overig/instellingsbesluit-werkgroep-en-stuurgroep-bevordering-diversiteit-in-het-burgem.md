@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Werkgroep en stuurgroep bevordering diversiteit in het burgemeestersambt"
 identifier: "BWBR0024527"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-09-28"
-last_updated: "2008-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024527"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9730673"
-version_id: "15761282"
-internal_id: "C29430241"
-label_id: "9707584"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024527/2008-09-28/0"
-intitule_bron: "Stcrt.2008-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-15"
-intitule_published: "2008-09-26"
-intitule_in_force: "2008-09-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-187"
-original_signed_date: "2008-09-15"
-original_published_date: "2008-09-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-187-p23-SC87607"
-entry_into_force_date: "2008-09-28"
-jci_1_3: "jci1.3:c:BWBR0024527&z=2008-09-28&g=2008-09-28"
-jci_1_0: "1.0:c:BWBR0024527&g=2008-09-28"
-citeertitel_status: "officieel"
-signed_date: "2008-09-15"
-entry_into_force: "2008-09-28"
+publicatiedatum: 2008-09-28
+laatste_update: 2008-09-28
+status: geldig
+toestand: 2008-09-28
+bron: "https://wetten.overheid.nl/BWBR0024527"
+opgehaald: 2026-08-13
 ---
-# Instellingsbesluit Werkgroep en stuurgroep bevordering diversiteit in het burgemeestersambt
 
-Besluit:
+# Instellingsbesluit Werkgroep en stuurgroep bevordering diversiteit in het burgemeestersambt
 
 ##### Artikel 1
 
@@ -94,5 +70,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep en stuurgroep bevordering diversiteit in het burgemeestersambt.
-
-Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.

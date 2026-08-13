@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 12 november 2008, nr. 5557004/08, houdende bepalingen met betrekking tot eigen bijdrage asielzoekers met inkomen en vermogen (regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008)"
+citeertitel: "Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008"
 identifier: "BWBR0024733"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-01"
-last_updated: "2025-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024733"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9773683"
-version_id: "15853622"
-internal_id: "C21746461"
-label_id: "9750614"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024733/2025-11-01/0"
-intitule_bron: "Stcrt.2008-228"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-12"
-intitule_published: "2008-11-24"
-intitule_in_force: "2008-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-228"
-original_signed_date: "2008-11-12"
-original_published_date: "2008-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-850"
-entry_into_force_date: "2008-11-26"
-jci_1_3: "jci1.3:c:BWBR0024733&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0024733&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008"
-signed_date: "2008-11-12"
-entry_into_force: "2008-11-26"
+publicatiedatum: 2008-11-26
+laatste_update: 2025-11-01
+status: geldig
+toestand: 2025-11-01
+bron: "https://wetten.overheid.nl/BWBR0024733"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 12 november 2008, nr. 5557004/08, houdende bepalingen met betrekking tot eigen bijdrage asielzoekers met inkomen en vermogen (regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008)
-
-Gelet op [artikel 12, tweede lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=12);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -70,7 +44,7 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 - a. van de verstrekkingen bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=14), die aan of ten behoeve van de asielzoeker of vergunninghouder wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;
 
-- b. van de verstrekkingen bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): € 50,00 voor een alleenstaande asielzoeker of vergunninghouder of eerste gezinslid, € 25,00, voor het tweede gezinslid en € 12,50 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 433,00;
+- b. van de verstrekkingen bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): € 50,00 voor een alleenstaande asielzoeker of vergunninghouder of eerste gezinslid, € 25,00, voor het tweede gezinslid en € 12,50 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 433,00;
 
 - c. van de verstrekkingen bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2025-11-01&g=2025-11-01): een geldbedrag gelijk aan de gemiddelde basis zorgpremie als bedoeld in [artikel 2b van het Besluit minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=2b) minus de maximale zorgtoeslag.
 
@@ -148,11 +122,17 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - e. vergoedingen voor immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, vanuit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord is.
 
+##### Artikel 7a
+
+1. [Artikel 1, eerste lid, onder d en f, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=1) en [artikel 3, tweede en derde lid van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3) zijn van overeenkomstige toepassing.
+
+2. Indien het college overeenkomstig [artikel 22a van de Regeling verstrekkingen asielzoekers en andere categorieën 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=22a) een opvangvoorziening exploiteert zijn de [artikelen 1 tot en met 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=1&artikel=1&z=2025-11-01&g=2025-11-01), van toepassing.
+
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -165,15 +145,3 @@ De [Regeling eigen bijdrage asielzoekers met inkomen en vermogen](https://wetten
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
-
-##### Artikel 7a
-
-1. [Artikel 1, eerste lid, onder d en f, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=1) en [artikel 3, tweede en derde lid van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3) zijn van overeenkomstige toepassing.
-
-2. Indien het college overeenkomstig [artikel 22a van de Regeling verstrekkingen asielzoekers en andere categorieën 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=22a) een opvangvoorziening exploiteert zijn de [artikelen 1 tot en met 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=1&artikel=1&z=2025-11-01&g=2025-11-01), van toepassing.
-
-### Hoofdstuk 3. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.

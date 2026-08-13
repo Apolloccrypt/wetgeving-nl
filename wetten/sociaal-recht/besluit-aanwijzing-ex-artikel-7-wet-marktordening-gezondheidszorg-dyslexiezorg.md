@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 18 december 2008, CZ CGG 2902762 houdende op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake dyslexiezorg"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (dyslexiezorg)"
 identifier: "BWBR0025144"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-01-08"
-last_updated: "2009-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025144"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9875353"
-version_id: "16083702"
-internal_id: "C22062651"
-label_id: "9851764"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025144/2009-01-08/0"
-intitule_bron: "Stcrt.2009-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-18"
-intitule_published: "2009-01-08"
-intitule_in_force: "2009-01-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-4"
-original_signed_date: "2008-12-18"
-original_published_date: "2009-01-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-352"
-entry_into_force_date: "2009-01-08"
-jci_1_3: "jci1.3:c:BWBR0025144&z=2009-01-08&g=2009-01-08"
-jci_1_0: "1.0:c:BWBR0025144&g=2009-01-08"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (dyslexiezorg)"
-signed_date: "2008-12-18"
-entry_into_force: "2009-01-08"
+publicatiedatum: 2009-01-08
+laatste_update: 2009-01-08
+status: geldig
+toestand: 2009-01-08
+bron: "https://wetten.overheid.nl/BWBR0025144"
+opgehaald: 2026-08-13
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 18 december 2008, CZ CGG 2902762 houdende op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake dyslexiezorg
-
-Gelet op [artikel 7 van de Wet Marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten Generaal (Brieven d.d. 25 november 2008, CZ CGG-2895567 en CZ CGG-2895571)
-
-Besluit:
 
 ##### Artikel 1
 

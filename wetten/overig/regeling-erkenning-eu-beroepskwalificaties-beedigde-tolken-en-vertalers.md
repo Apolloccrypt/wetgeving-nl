@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 9 december 2008, nr. 5564127/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties en tijdelijke en incidentele dienstverrichting van beëdigde tolken en vertalers (Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers"
 identifier: "BWBR0024932"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-05"
-last_updated: "2016-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024932"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9816303"
-version_id: "15951752"
-internal_id: "C21859621"
-label_id: "9793024"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024932/2016-04-05/0"
-intitule_bron: "Stcrt.2008-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-09"
-intitule_published: "2008-12-19"
-intitule_in_force: "2008-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-247"
-original_signed_date: "2008-12-09"
-original_published_date: "2008-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2211"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024932&z=2016-04-05&g=2016-04-05"
-jci_1_0: "1.0:c:BWBR0024932&g=2016-04-05"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers"
-signed_date: "2008-12-09"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2016-04-05
+status: geldig
+toestand: 2016-04-05
+bron: "https://wetten.overheid.nl/BWBR0024932"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 9 december 2008, nr. 5564127/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties en tijdelijke en incidentele dienstverrichting van beëdigde tolken en vertalers (Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers)
-
-Gelet op [artikel 33 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
 
-- a. **wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- a. *wet:* de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- b. **bestuur:** het bestuur van de raad voor rechtsbijstand;
+- b. *bestuur:* het bestuur van de raad voor rechtsbijstand;
 
-- c. **aanvraag:** de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), met betrekking tot een of meer bron- en doeltalen, als beëdigd tolk of beëdigd vertaler;
+- c. *aanvraag:* de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), met betrekking tot een of meer bron- en doeltalen, als beëdigd tolk of beëdigd vertaler;
 
-- d. **aanvrager:** de migrerende beroepsbeoefenaar die een aanvraag indient;
+- d. *aanvrager:* de migrerende beroepsbeoefenaar die een aanvraag indient;
 
-- e. **compenserende maatregel:** een aanpassingsstage of een proeve van bekwaamheid;
+- e. *compenserende maatregel:* een aanpassingsstage of een proeve van bekwaamheid;
 
-- f. **stagiair:** de migrerende beroepsbeoefenaar die een aanpassingsstage volgt;
+- f. *stagiair:* de migrerende beroepsbeoefenaar die een aanpassingsstage volgt;
 
-- g. **dienstverrichter:** de dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
+- g. *dienstverrichter:* de dienstverrichter, bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21);
 
-- h. **register:** het register voor beëdigde tolken en vertalers, bedoeld in [artikel 2 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
+- h. *register:* het register voor beëdigde tolken en vertalers, bedoeld in [artikel 2 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
 
 ##### Artikel 2. Mandaat en machtiging
 
@@ -78,9 +52,9 @@ Besluit:
 
 - b. een kopie van de opleidingstitels en bekwaamheidsattesten:
 
-- i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het gereglementeerde beroep tolk of vertaler of een daarmee vergelijkbaar beroep en waaruit tevens de duur van de opleiding blijkt; of
+   - i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het gereglementeerde beroep tolk of vertaler of een daarmee vergelijkbaar beroep en waaruit tevens de duur van de opleiding blijkt; of
 
-- ii. gewaarmerkt door het in een derde land bevoegde gezag dat de opleidingstitel heeft afgegeven en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste drie jaar beroepservaring in het gereglementeerde beroep tolk of vertaler of een daarmee vergelijkbaar beroep heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
+   - ii. gewaarmerkt door het in een derde land bevoegde gezag dat de opleidingstitel heeft afgegeven en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste drie jaar beroepservaring in het gereglementeerde beroep tolk of vertaler of een daarmee vergelijkbaar beroep heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
 
 - c. een overzicht van vakken die onderdeel hebben uitgemaakt van de opleidingen, waarin opleidingstitels zijn behaald als bedoeld in onderdeel b, en waarin de aanvrager met goed gevolg examen heeft afgelegd alsmede een leerstofomschrijving van deze vakken en de daarbij behorende studietijd;
 
@@ -108,19 +82,19 @@ Besluit:
 
 2. De compenserende maatregel wordt beoordeeld aan de hand van de vraag of de wettelijke competenties in voldoende mate worden beheerst:
 
-- –. attitude van een tolk voor de tolk;
+- – attitude van een tolk voor de tolk;
 
-- –. attitude van een vertaler voor de vertaler;
+- – attitude van een vertaler voor de vertaler;
 
-- –. integriteit;
+- – integriteit;
 
-- –. taalvaardigheid in de bron- en doeltaal;
+- – taalvaardigheid in de bron- en doeltaal;
 
-- –. kennis van de cultuur van het land of gebied van de bron- en doeltaal;
+- – kennis van de cultuur van het land of gebied van de bron- en doeltaal;
 
-- –. tolkvaardigheid voor de tolk;
+- – tolkvaardigheid voor de tolk;
 
-- –. vertaalvaardigheid voor de vertaler.
+- – vertaalvaardigheid voor de vertaler.
 
 ##### Artikel 5. Aanpassingsstage
 
@@ -169,5 +143,3 @@ Deze regeling treedt in werking op 1 januari 2009.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

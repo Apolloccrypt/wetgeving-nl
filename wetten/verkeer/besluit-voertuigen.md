@@ -1,36 +1,31 @@
 ---
-title: "Besluit voertuigen"
+title: "Besluit van 21 februari 2009, houdende de vaststelling van nationale verkoopverboden en bepalingen met betrekking tot de algemene periodieke keuring van voertuigen, en tot intrekking van het Voertuigreglement (Besluit voertuigen)"
+citeertitel: "Besluit voertuigen"
 identifier: "BWBR0025554"
 categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
+soort: "AMvB"
+publicatiedatum: 2020-12-04
+laatste_update: 2026-07-04
 status: geldig
+toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0025554"
+opgehaald: 2026-08-13
 ---
 
 # Besluit van 21 februari 2009, houdende de vaststelling van nationale verkoopverboden en bepalingen met betrekking tot de algemene periodieke keuring van voertuigen, en tot intrekking van het Voertuigreglement (Besluit voertuigen)
 
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 4 december 2008, nr. CEND/HDJZ-2008/1657 sector AWW, Hoofddirectie Juridische Zaken;
-
-Gelet op de [artikelen 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34), [73, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=73), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), en [91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=91), en [179, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179);
-
-De Raad van State gehoord (advies van 17 december 2008, nr. W09.08.0530/IV);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 12 februari 2009, nr. CEND/HJDZ-2009/51 sector AWW, Hoofddirectie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **wet:** [Wegenverkeerswet 1994](onbekend).
+- *wet:*
+ [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622).
 
 ### Hoofdstuk 2. Verbodsbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden om radarontvangstapparaten die geschikt zijn om de aanwezigheid aan te tonen van een apparaat dat tot doel heeft om een overschrijding van de maximumsnelheid vast te stellen, in te voeren, te koop aan te bieden, in voorraad te hebben of af te leveren.
 
@@ -38,29 +33,29 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het is verboden om apparaten die geschikt zijn om de teller van een motorrijtuig stil te zetten of op andere wijze te manipuleren, te vervaardigen, in te voeren, in voorraad te hebben, te koop aan te bieden, af te leveren of te vervoeren.
 
-#### Artikel 3
+##### Artikel 3
 
-1. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01).
+1. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2026-07-04&g=2026-07-04).
 
-2. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een apparaat aanwezig is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01).
+2. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een apparaat aanwezig is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2026-07-04&g=2026-07-04).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
-### Afdeling 1. Uitzondering keuringsplicht
+#### Afdeling 1. Uitzondering keuringsplicht
 
 #### § 1. Uitzondering voertuigen
 
-#### Artikel 4
+##### Artikel 4
 
-1. [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor:
+1. [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor:
 
 - a. landbouw- en bosbouwtrekkers:
 
-- 1°. op wielen met een maximumconstructiesnelheid van 40 km/h of minder;
+   - 1°. op wielen met een maximumconstructiesnelheid van 40 km/h of minder;
 
-- 2°. op rupsbanden; of
+   - 2°. op rupsbanden; of
 
-- 3°. die worden gebruikt voor landbouw-, tuinbouw-, bosbouw-, veeteelt- of visserijdoeleinden hoofdzakelijk op het terrein waar zulke activiteit plaatsvindt, met inbegrip van landwegen, bospaden of akkers;
+   - 3°. die worden gebruikt voor landbouw-, tuinbouw-, bosbouw-, veeteelt- of visserijdoeleinden hoofdzakelijk op het terrein waar zulke activiteit plaatsvindt, met inbegrip van landwegen, bospaden of akkers;
 
 - b. motorrijtuigen met beperkte snelheid;
 
@@ -78,23 +73,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. verwisselbare getrokken uitrustingsstukken.
 
-2. [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een motorrijtuig of een aanhangwagen, met uitzondering van taxi’s, ov-auto’s en bussen, waarvan de datum van eerste toelating ten minste vijftig jaar geleden is.
+2. [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een motorrijtuig of een aanhangwagen, met uitzondering van taxi’s, ov-auto’s en bussen, waarvan de datum van eerste toelating ten minste vijftig jaar geleden is.
 
-#### Artikel 5
+##### Artikel 5
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een motorrijtuig, niet zijnde een landbouw- of bosbouwtrekker, of aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg, zolang sinds de datum van eerste toelating van het voertuig nog geen jaar is verstreken.
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een motorrijtuig, niet zijnde een landbouw- of bosbouwtrekker, of aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg, zolang sinds de datum van eerste toelating van het voertuig nog geen jaar is verstreken.
 
-#### Artikel 6
+##### Artikel 6
 
 [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een taxi of ov-auto, zolang sinds de datum van eerste toelating van het voertuig nog geen jaar is verstreken.
 
-#### Artikel 7
+##### Artikel 7
 
 [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor ambulances zolang sinds de datum van eerste toelating van het voertuig nog geen jaar is verstreken.
 
-#### Artikel 8
+##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2026-07-04&g=2026-07-04) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -102,51 +97,51 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Overige uitzonderingen
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een motorrijtuig of een aanhangwagen op de dag waarop dat voertuig naar aanleiding van de aanvraag van een keuringsrapport aan een keuring wordt onderworpen.
 
-#### Artikel 10
+##### Artikel 10
 
 [Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor:
 
 - a. bij ministeriële regeling aangewezen motorrijtuigen en aanhangwagens:
 
-- 1°. waarvoor een bijzonder kenteken als bedoeld in het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) is opgegeven,
+   - 1°. waarvoor een bijzonder kenteken als bedoeld in het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) is opgegeven,
 
-- 2°. die een keuring als bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) of [26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) ondergaan en waarvoor een bij ministeriële regeling vastgesteld kenteken is opgegeven, of
+   - 2°. die een keuring als bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22) of [26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26) ondergaan en waarvoor een bij ministeriële regeling vastgesteld kenteken is opgegeven, of
 
-- 3°. Op de dag waarop zij overeenkomstig de bij ministeriële regeling vastgestelde voorschriften worden onderzocht in verband met de inschrijving en tenaamstelling;
+   - 3°. Op de dag waarop zij overeenkomstig de bij ministeriële regeling vastgestelde voorschriften worden onderzocht in verband met de inschrijving en tenaamstelling;
 
 - b. bij ministeriële regeling aangewezen categorieën van rijdende werktuigen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een motorrijtuig of een aanhangwagen mag gedurende twee maanden na het tijdstip waarop [artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) voor dat voertuig gelding verkrijgt, op de weg staan zonder dat voor dat voertuig een keuringsbewijs is afgegeven waarvan de geldigheidsduur niet is verstreken.
 
 2. Een motorrijtuig of een aanhangwagen mag gedurende twee maanden na het tijdstip waarop de geldigheidsduur van een voor dat motorrijtuig of die aanhangwagen afgegeven keuringsbewijs verstrijkt, op de weg staan zonder dat voor dat motorrijtuig of die aanhangwagen een keuringsbewijs is afgegeven waarvan de geldigheidsduur niet is verstreken.
 
-#### Artikel 12
+##### Artikel 12
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor motorrijtuigen en aanhangwagens die behoren tot de bedrijfsvoorraad van een natuurlijke persoon of rechtspersoon aan wie een erkenning als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62) is verleend.
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor motorrijtuigen en aanhangwagens die behoren tot de bedrijfsvoorraad van een natuurlijke persoon of rechtspersoon aan wie een erkenning als bedoeld in [artikel 2 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=2) is verleend.
 
-### Afdeling 2. Keuringsrapport
+#### Afdeling 2. Keuringsrapport
 
 #### § 1. Aanvraag keuringsrapport en verplichtingen
 
-#### Artikel 13
+##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-#### Artikel 14
+##### Artikel 14
 
 1. Degene die een keuringsrapport aanvraagt bij de Dienst Wegverkeer, stelt het motorrijtuig of de aanhangwagen waarvoor de afgifte van het rapport wordt gevraagd, voor een keuring ter beschikking van een door de Dienst Wegverkeer met het verrichten van de keuring belaste functionaris, op een door deze bepaalde plaats en bepaald tijdstip.
 
-2. Degene die een keuringsrapport aanvraagt bij een ingevolge [artikel 84 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=84) erkende natuurlijke persoon of rechtspersoon, stelt ter verkrijging daarvan het motorrijtuig of de aanhangwagen waarvoor de afgifte van het rapport wordt gevraagd, voor een keuring ter beschikking van een door die persoon met het verrichten van de keuring belaste functionaris op een door deze bepaalde plaats en bepaald tijdstip.
+2. Degene die een keuringsrapport aanvraagt bij een ingevolge [artikel 14, eerste lid, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14) erkende natuurlijke persoon of rechtspersoon, stelt ter verkrijging daarvan het motorrijtuig of de aanhangwagen waarvoor de afgifte van het rapport wordt gevraagd, voor een keuring ter beschikking van een door die persoon met het verrichten van de keuring belaste functionaris op een door deze bepaalde plaats en bepaald tijdstip.
 
 #### § 2. Aanvang geldigheidsduur keuringsbewijs
 
-#### Artikel 15
+##### Artikel 15
 
 1. De geldigheidsduur van een keuringsbewijs vangt aan met ingang van de dag van afgifte.
 
@@ -156,49 +151,53 @@ Vervallen
 
 #### § 3. Geldigheidsduur keuringsbewijs
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2026-07-04&g=2026-07-04) bedoeld, en:
 
-- a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel; en
+- a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel; en
 
 - b. sinds de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2026-07-04&g=2026-07-04) bedoeld.
 
 4. In afwijking van het eerste tot en met derde lid is een keuringsbewijs afgegeven voor een landbouw- of bosbouwtrekker geldig voor de duur van twee jaren.
 
+##### Artikel 16a
+
+*Vervallen*
+
 #### § 4. Afgifte keuringsbewijs
 
-#### Artikel 17
+##### Artikel 17
 
 De afgifte van een keuringsbewijs geschiedt niet elektronisch.
 
-#### Artikel 18
+##### Artikel 18
 
 De termijn, bedoeld in [artikel 91, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=91), waarbinnen tegen een beschikking tot afgifte van een keuringsbewijs bezwaar kan worden gemaakt, bedraagt een jaar.
 
-### Afdeling 3. Herkeuring en deskundigenonderzoek
+#### Afdeling 3. Herkeuring en deskundigenonderzoek
 
 #### § 1. Herkeuring
 
-#### Artikel 19
+##### Artikel 19
 
 Het verzoek om herkeuring, bedoeld in [artikel 90, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=90), wordt ingediend door op het keuringsrapport dan wel het steekproefcontrolerapport aan te tekenen dat om herkeuring wordt verzocht en deze aantekening te ondertekenen alsmede hiervan kennis te geven aan degene die het keuringsrapport dan wel het steekproefcontrolerapport heeft afgegeven. Laatstgenoemde doet hiervan onverwijld mededeling aan de Dienst Wegverkeer.
 
-#### Artikel 20
+##### Artikel 20
 
 De verzoeker heeft het recht bij de herkeuring aanwezig te zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 De Dienst Wegverkeer doet, indien een beschikking tot weigering van de afgifte van een keuringsbewijs is afgegeven door een erkende natuurlijke persoon of rechtspersoon, aan deze afschrift toekomen van het na de herkeuring afgegeven keuringsrapport.
 
 #### § 2. Deskundigenonderzoek
 
-#### Artikel 22
+##### Artikel 22
 
 1. De verzoeker legt voorafgaande aan het in [artikel 91 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=91) bedoelde deskundigenonderzoek aan de deskundige die door de Dienst Wegverkeer is aangewezen om het onderzoek te verrichten, het keuringsbewijs dat is afgegeven voor het motorrijtuig of de aanhangwagen waarop het verzoek betrekking heeft over.
 
@@ -206,27 +205,107 @@ De Dienst Wegverkeer doet, indien een beschikking tot weigering van de afgifte v
 
 3. De verzoeker heeft het recht bij het onderzoek aanwezig te zijn.
 
-#### Artikel 23
+##### Artikel 23
 
 De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrapport werd afgegeven is verricht door een erkende natuurlijke persoon of rechtspersoon, aan deze afschrift toekomen van de uitslag van het onderzoek.
 
 ### Hoofdstuk 3a. Experiment acceptatie buitenlandse algemene periodieke keuringen
 
-#### Artikel 24
+#### Paragraaf 1. Algemeen
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01) is een strafbaar feit.
+##### Artikel 23a. Begripsbepaling
 
-#### Artikel 25
+*Vervallen*
+
+##### Artikel 23b. Doel experiment
+
+*Vervallen*
+
+#### Paragraaf 2. Afwijkingen
+
+##### Artikel 23c. Afgifte keuringsbewijzen door buitenlandse keuringsinstanties
+
+*Vervallen*
+
+##### Artikel 23d. Afgifte keuringsbewijs
+
+*Vervallen*
+
+##### Artikel 23e. Herkeuring
+
+*Vervallen*
+
+##### Artikel 23f. Ter beschikking stellen van het voertuig
+
+*Vervallen*
+
+##### Artikel 23g. Bezwaar en beroep
+
+*Vervallen*
+
+##### Artikel 23h. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren niet van toepassing
+
+*Vervallen*
+
+##### Artikel 23i. Vervallen hoofdstuk 3a na zes jaar
+
+*Vervallen*
+
+### Hoofdstuk 3b. Tellerstanden
+
+##### Artikel 23j
+
+De in [artikel 70m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70m) bedoelde categorieën motorrijtuigen zijn motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u.
+
+##### Artikel 23k
+
+1. Erkende bedrijven verstrekken aan de Dienst Wegverkeer de tellerstand van een motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u bij:
+
+- a. opname in de bedrijfsvoorraad als bedoeld in [artikel 2 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=2);
+
+- b. beëindiging van de tenaamstelling krachtens de regels gesteld op grond van [artikel 20, eerste lid, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=20) voor de erkenning export, bedoeld in [artikel 9 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=9);
+
+- c. afgifte van een keuringsbewijs als bedoeld in [artikel 72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72);
+
+- d. het waarborgen dat een wijziging in de bouw of inrichting van een voertuig aan de eisen voldoet als bedoeld in [artikel 99, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=99);
+
+- e. het waarborgen dat een voertuig aan de eisen voldoet als bedoeld in [artikel 106, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=106);
+
+- f. *vervallen;*
+
+- g. *vervallen;*
+
+- h. het indienen van een aanvraag van een tenaamstelling als bedoeld in [artikel 4 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=4);
+
+- i. werkzaamheden aan de boordcomputer taxi krachtens het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
+
+- j. onderhoud, reparaties en vernieuwen of wisselen van banden, voor zover deze bedrijfsmatig worden verricht.
+
+2. Het eerste lid, onder i, is niet van toepassing op motorrijtuigen van de rijbewijscategorieën A, A1 en A2.
+
+### Hoofdstuk 4. Strafbepalingen
+
+##### Artikel 24
+
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2026-07-04&g=2026-07-04) is een strafbaar feit.
+
+##### Artikel 25
 
 Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [artikel 5.1.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), of [artikel 5.1.2 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) kan hem de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste twee jaren worden ontzegd.
 
+### Hoofdstuk 4a. Overgangsrecht APK-plicht voor bestaande landbouw- en bosbouwtrekkers
+
+##### Artikel 25a
+
+*Vervallen*
+
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2026-07-04&g=2026-07-04) van dit besluit.
 
-#### Artikel 27
+##### Artikel 27
 
 De volgende besluiten worden ingetrokken:
 
@@ -238,13 +317,13 @@ De volgende besluiten worden ingetrokken:
 
 - d. [besluit van 18 januari 1999, houdende wijziging van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0010222) (Stb. 28);
 
-- e. [besluit van 12 november 2003, houdende wijziging van het Voertuigreglement ter uitvoering van richtlijn nr. 2001/85/EG van het Europees Parlement en de Raad van 20 november 2001 betreffende speciale voorschriften voor voertuigen bestemd voor het vervoer van passagiers, met meer dan acht zitplaatsen, die van de bestuurder niet meegerekend, en tot wijziging van Richtlijn 70/156/EEG van de Raad en van richtlijn 97/27/EG (PbEG L42) betreffende bussen](https://wetten.overheid.nl/jci1.3:c:BWBR0015871) (Stb. 484);
+- e. [besluit van 12 november 2003, houdende wijziging van het Voertuigreglement ter uitvoering van richtlijn nr. 2001/85/EG van het Europees Parlement en de Raad van 20 november 2001 betreffende speciale voorschriften voor voertuigen bestemd voor het vervoer van passagiers, met meer dan acht zitplaatsen, die van de bestuurder niet meegerekend, en tot wijziging van Richtlijn 70/156/EEG van de Raad en van richtlijn 97/27/EG (PbEG L42) betreffende bussen](https://wetten.overheid.nl/jci1.3:c:BWBR0015871) (Stb. 484);
 
 - f. [besluit van 3 februari 2004, houdende wijziging van het Voertuigreglement in verband met de implementatie van richtlijn nr. 2004/56/EG met betrekking tot de verwarming van motorvoertuigen en aanhangwagens daarvan](https://wetten.overheid.nl/jci1.3:c:BWBR0016356) (Stb. 60);
 
-- g. [besluit van 21 juli 2004, houdende wijziging van het Voertuigreglement in verband met de implementatie van Richtlijn nr. 2003/102/EG van het Europees Parlement en de Raad van 17 november 2003 betreffende de bescherming van voetgangers en andere kwetsbare weggebruikers voor en bij een botsing met een motorvoertuig](https://wetten.overheid.nl/jci1.3:c:BWBR0017060) (Stb. 401);
+- g. [besluit van 21 juli 2004, houdende wijziging van het Voertuigreglement in verband met de implementatie van Richtlijn nr. 2003/102/EG van het Europees Parlement en de Raad van 17 november 2003 betreffende de bescherming van voetgangers en andere kwetsbare weggebruikers voor en bij een botsing met een motorvoertuig](https://wetten.overheid.nl/jci1.3:c:BWBR0017060) (Stb. 401);
 
-- h. [besluit van 2 november 2004, houdende wijziging van het Voertuigreglement in verband met de implementatie van Richtlijn nr. 2003/97/EG van het Europees Parlement en de Raad van 10 november 2003 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake de typegoedkeuring van inrichtingen voor indirect zicht en van voertuigen met deze inrichtingen, tot wijziging van Richtlijn 70/156/EEG en tot intrekking van Richtlijn 71/127/EEG](https://wetten.overheid.nl/jci1.3:c:BWBR0017402) (Stb. 586);
+- h. [besluit van 2 november 2004, houdende wijziging van het Voertuigreglement in verband met de implementatie van Richtlijn nr. 2003/97/EG van het Europees Parlement en de Raad van 10 november 2003 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake de typegoedkeuring van inrichtingen voor indirect zicht en van voertuigen met deze inrichtingen, tot wijziging van Richtlijn 70/156/EEG en tot intrekking van Richtlijn 71/127/EEG](https://wetten.overheid.nl/jci1.3:c:BWBR0017402) (Stb. 586);
 
 - i. [besluit van 3 november 2004, houdende wijziging van het Voertuigreglement tot uitvoering van richtlijn nr. 2002/85/EG van het Europees Parlement en de Raad van de Europese Unie van 5 november 2002 tot wijziging van richtlijn nr. 92/6/EEG van de Raad betreffende de installatie en het gebruik in de Gemeenschap van snelheidsbegrenzers in bepaalde categorieën motorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0017419) (Stb. 659);
 
@@ -254,130 +333,10 @@ De volgende besluiten worden ingetrokken:
 
 - l. [besluit van 28 januari 2008, houdende wijziging van het Voertuigreglement in verband met de implementatie van richtlijn nr. 2006/40/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 (PbEU L 161) betreffende emissies van klimaatregelingsapparatuur in motorvoertuigen en houdende wijziging van Richtlijn 70/156/EEG van de Raad en in verband met enkele correcties van technische aard](https://wetten.overheid.nl/jci1.3:c:BWBR0023533) (Stb. 53).
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit wordt aangehaald als: Besluit voertuigen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Paragraaf 1. Algemeen
-
-#### Artikel 23a. Begripsbepaling
-
-Vervallen
-
-#### Artikel 23b. Doel experiment
-
-Vervallen
-
-#### Paragraaf 2. Afwijkingen
-
-#### Artikel 23c. Afgifte keuringsbewijzen door buitenlandse keuringsinstanties
-
-Vervallen
-
-#### Artikel 23d. Afgifte keuringsbewijs
-
-Vervallen
-
-#### Artikel 23e. Herkeuring
-
-Vervallen
-
-#### Artikel 23f. Ter beschikking stellen van het voertuig
-
-Vervallen
-
-#### Artikel 23g. Bezwaar en beroep
-
-Vervallen
-
-#### Artikel 23h. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren niet van toepassing
-
-Vervallen
-
-#### Artikel 23i. Vervallen hoofdstuk 3a na zes jaar
-
-Vervallen
-
-### Hoofdstuk 3b. Tellerstanden
-
-### Hoofdstuk 4. Strafbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 23j
-
-De in [artikel 70m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70m) bedoelde categorieën motorrijtuigen zijn motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u.
-
-#### Artikel 23k
-
-1. Erkende bedrijven verstrekken aan de Dienst Wegverkeer de tellerstand van een motorrijtuigen van de rijbewijscategorieën A, A1, A2 en B, voor zover deze harder kunnen en mogen rijden dan 25 km/u bij:
-
-- a. opname in de bedrijfsvoorraad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=62);
-
-- b. beëindiging van de tenaamstelling als bedoeld in [artikel 66a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=66a);
-
-- c. afgifte van een keuringsbewijs als bedoeld in [artikel 72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72);
-
-- d. het waarborgen dat een wijziging in de bouw of inrichting van een voertuig aan de eisen voldoet als bedoeld in [artikel 100, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=100);
-
-- e. het waarborgen dat een voertuig aan de eisen voldoet als bedoeld in [artikel 106a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=106a);
-
-- f. het inbouwen van een alcoholslot als bedoeld in [artikel 132f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132f);
-
-- g. melding van het voorgoed buiten Nederland brengen van een voertuig als bedoeld in [artikel 46, tweede lid, onder b, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
-
-- h. het indienen van een aanvraag van een tenaamstelling als bedoeld in [artikel 46, tweede lid, onder d, Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46);
-
-- i. werkzaamheden aan de boordcomputer taxi krachtens het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
-
-- j. onderhoud, reparaties en vernieuwen of wisselen van banden, voor zover deze bedrijfsmatig worden verricht.
-
-2. Het eerste lid, onder i, is niet van toepassing op motorrijtuigen van de rijbewijscategorieën A, A1 en A2.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 16a
-
-Vervallen
-
-#### § 4. Afgifte keuringsbewijs
-
-### Afdeling 3. Herkeuring en deskundigenonderzoek
-
-#### § 1. Herkeuring
-
-#### § 2. Deskundigenonderzoek
-
-### Hoofdstuk 3a. Experiment acceptatie buitenlandse algemene periodieke keuringen
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. Afwijkingen
-
-### Hoofdstuk 3b. Tellerstanden
-
-### Hoofdstuk 4. Strafbepalingen
-
-### Hoofdstuk 4a. Overgangsrecht APK-plicht voor bestaande landbouw- en bosbouwtrekkers
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 25a
-
-Vervallen
-
-### Hoofdstuk 5. Slotbepalingen
-
-## Bijlage. Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=4a&artikel=25a&z=2023-01-01&g=2023-01-01)
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

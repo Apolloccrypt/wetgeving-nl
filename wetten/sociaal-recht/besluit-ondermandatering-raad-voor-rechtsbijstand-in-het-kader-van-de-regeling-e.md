@@ -1,43 +1,17 @@
 ---
 title: "Besluit ondermandatering Raad voor Rechtsbijstand in het kader van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers"
 identifier: "BWBR0025679"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-04-09"
-last_updated: "2009-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025679"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "9978243"
-version_id: "16294372"
-internal_id: "C22348971"
-label_id: "9954474"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025679/2009-04-09/0"
-intitule_bron: "Stcrt.2009-67"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-19"
-intitule_published: "2009-04-07"
-intitule_in_force: "2009-04-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-67"
-original_signed_date: "2009-02-19"
-original_published_date: "2009-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-5174"
-entry_into_force_date: "2009-04-09"
-jci_1_3: "jci1.3:c:BWBR0025679&z=2009-04-09&g=2009-04-09"
-jci_1_0: "1.0:c:BWBR0025679&g=2009-04-09"
-citeertitel_status: "officieel"
-signed_date: "2009-02-19"
-entry_into_force: "2009-04-09"
+publicatiedatum: 2009-04-09
+laatste_update: 2009-04-09
+status: geldig
+toestand: 2009-04-09
+bron: "https://wetten.overheid.nl/BWBR0025679"
+opgehaald: 2026-08-13
 ---
+
 # Besluit ondermandatering Raad voor Rechtsbijstand in het kader van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers
-
-Gelet op [hoofdstuk 10, Titel 10.1, Afdeling 10.1.1. van de Algemene Wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 2 van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024932) (Stc. 2008, 2211);
-
-Besluit:
 
 ##### Artikel 1
 

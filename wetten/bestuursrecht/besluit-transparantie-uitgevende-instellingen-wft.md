@@ -1,90 +1,30 @@
 ---
 title: "Besluit van 16 december 2008, houdende bepalingen tot implementatie van richtlijn nr. 2007/14/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) (Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft)"
+citeertitel: "Besluit transparantie uitgevende instellingen Wft"
 identifier: "BWBR0024950"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-07-21"
-last_updated: "2019-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024950"
+categorie: "Internationaal recht"
 soort: "AMvB"
-stam_id: "9823393"
-version_id: "15978792"
-internal_id: "C21907641"
-label_id: "9800124"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024950/2019-07-21/0"
-intitule_bron: "Stb.2008-578"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-16"
-intitule_published: "2008-12-24"
-intitule_in_force: "2008-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2008-578"
-original_signed_date: "2008-12-16"
-original_published_date: "2008-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-578"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024950&z=2019-07-21&g=2019-07-21"
-jci_1_0: "1.0:c:BWBR0024950&g=2019-07-21"
-citeertitel_status: "officieel"
-short_title: "Besluit transparantie uitgevende instellingen Wft"
-signed_date: "2008-12-16"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2019-07-21
+status: geldig
+toestand: 2019-07-21
+bron: "https://wetten.overheid.nl/BWBR0024950"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 16 december 2008, houdende bepalingen tot implementatie van richtlijn nr. 2007/14/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) (Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft)
 
-Op de voordracht van Onze Minister van Financiën van 21 november 2008, Generale Thesaurie, Directie Financiële Markten, Afdeling Marktgedrag/Effectenverkeer, nr. FM 2008-2941 M;
-
-Gelet op [richtlijn nr. 2004/109/EG](32004L0109) van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van [Richtlijn 2001/34/EG](32001L0034) (PbEU L 390), [richtlijn nr. 2007/14/EG](32007L0014) van de Commissie van de Europese gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van [richtlijn 2004/109/EG](32004L0109) betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) en de [artikelen 5:25i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i), [5:25w](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25w), [5:33, eerste lid, onderdeel b, onder 4°, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:33), [5:38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), [5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:44), [5:45, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) en [5:46, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:46);
-
-De Raad van State gehoord (advies van 8 december 2008, nr. W06.08.0504/III);
-
-Gezien het nader rapport van Onze Minister van Financiën van 15 december 2008 (nr. FM/2008/3186 M);
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk I. Inleidende bepalingen
-
-### Hoofdstuk II. Bepalingen over halfjaarlijkse financiële verslaggeving
-
-### Hoofdstuk II. Bepalingen over halfjaarlijkse financiële verslaggeving
-
-### Hoofdstuk II. Bepalingen over halfjaarlijkse financiële verslaggeving
-
-### Hoofdstuk V. Bepalingen voor uitgevende instelling met zetel in een staat die geen lidstaat is
-
-### Hoofdstuk III. Bepalingen over uitstel algemeenverkrijgbaarstelling koersgevoelige informatie
-
-##### Artikel 13
-
-Het prospectus, bedoeld in [artikel 5:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
-
-##### Artikel 14
-
-De jaarlijkse financiële verslaggeving, bedoeld in [artikel 5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), bevat ten minste de gegevens bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
-
-##### Artikel 15
-
-Vervallen
-
-##### Artikel 16
-
-Vervallen
-
-##### Artikel 17
-
-Vervallen
-
-### Hoofdstuk V. Bepalingen voor uitgevende instelling met zetel in een staat die geen lidstaat is
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+
+##### Artikel 1a
+
+Dit besluit berust mede op de [artikelen 5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c).
+
+### Hoofdstuk II. Bepalingen over halfjaarlijkse financiële verslaggeving
 
 ##### Artikel 2
 
@@ -114,9 +54,11 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 2. Indien de uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarlijks bestuursverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.
 
+### Hoofdstuk III. Bepalingen over uitstel algemeenverkrijgbaarstelling koersgevoelige informatie
+
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Bepalingen over algemeenverkrijgbaarstelling en opslag gereglementeerde informatie
 
@@ -172,6 +114,8 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 - d. de centrale opslag van gereglementeerde informatie op zodanig wijze wordt ingericht dat samenwerking met andere instanties die belast zijn met de centrale opslag van gereglementeerde informatie op eenvoudige wijze kan plaatsvinden.
 
+### Hoofdstuk V. Bepalingen voor uitgevende instelling met zetel in een staat die geen lidstaat is
+
 ##### Artikel 8
 
 1. Het bestuursverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
@@ -220,7 +164,27 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 3. De jaarrekening, bedoeld in het eerste lid, dient door een accountant worden gecontroleerd. Indien de jaarrekening is opgesteld overeenkomstig de in de die staat die geen lidstaat is geldende voorschriften, kan de controle worden verricht door een onafhankelijk accountant, niet zijnde een accountant als bedoeld in [artikel 5:25a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25a) die bevoegd is tot controle van de jaarrekening.
 
-### Hoofdstuk VI. Wijziging van andere besluiten
+### Hoofdstuk VI. Bepalingen voor beleggingsinstellingen
+
+##### Artikel 13
+
+Het prospectus, bedoeld in [artikel 5:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+
+##### Artikel 14
+
+De jaarlijkse financiële verslaggeving, bedoeld in [artikel 5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), bevat ten minste de gegevens bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+
+##### Artikel 15
+
+*Vervallen*
+
+##### Artikel 16
+
+*Vervallen*
+
+##### Artikel 17
+
+*Vervallen*
 
 ### Hoofdstuk VII. Inwerkingtreding- en slotbepalingen
 
@@ -233,21 +197,3 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit transparantie uitgevende instellingen Wft.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op de [artikelen 5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c).
-
-### Hoofdstuk III. Bepalingen over uitstel algemeenverkrijgbaarstelling koersgevoelige informatie
-
-### Hoofdstuk IV. Bepalingen over algemeenverkrijgbaarstelling en opslag gereglementeerde informatie
-
-### Hoofdstuk V. Bepalingen voor uitgevende instelling met zetel in een staat die geen lidstaat is
-
-### Hoofdstuk VI. Bepalingen voor beleggingsinstellingen
-
-### Hoofdstuk VII. Inwerkingtreding- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

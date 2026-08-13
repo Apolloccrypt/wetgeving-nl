@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 15 januari 2009, nr. RB/2008123259, na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit, tot het verlenen van mandaat, volmacht en machtiging voor de uitvoering van de Saneringsregeling asbestwegen derde fase (Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase"
 identifier: "BWBR0025221"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-01-25"
-last_updated: "2009-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025221"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "9887703"
-version_id: "16105022"
-internal_id: "C22097611"
-label_id: "9864134"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025221/2009-01-25/0"
-intitule_bron: "Stcrt.2009-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-15"
-intitule_published: "2009-01-23"
-intitule_in_force: "2009-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-15"
-original_signed_date: "2009-01-15"
-original_published_date: "2009-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-1055"
-entry_into_force_date: "2009-01-25"
-jci_1_3: "jci1.3:c:BWBR0025221&z=2009-01-25&g=2009-01-25"
-jci_1_0: "1.0:c:BWBR0025221&g=2009-01-25"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase"
-signed_date: "2009-01-15"
-entry_into_force: "2009-01-25"
+publicatiedatum: 2009-01-25
+laatste_update: 2009-01-25
+status: geldig
+toestand: 2009-01-25
+bron: "https://wetten.overheid.nl/BWBR0025221"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 15 januari 2009, nr. RB/2008123259, na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit, tot het verlenen van mandaat, volmacht en machtiging voor de uitvoering van de Saneringsregeling asbestwegen derde fase (Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase)
-
-Gezien de schriftelijke instemming van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2008 met kenmerk DLG 2008/62769;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -91,5 +65,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

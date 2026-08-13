@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0005537"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-13
 ---
 
 # Wet van 4 juni 1992, houdende algemene regels van bestuursrecht (Algemene wet bestuursrecht)
@@ -2898,7 +2898,7 @@ Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter
 
 - f. inzake vergoeding van schade wegens onrechtmatig bestuurshandelen.
 
-2. Onverminderd [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=2&z=2026-08-01&g=2026-08-01) van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak kan geen beroep worden ingesteld tegen een besluit:
+2. Onverminderd [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2&z=2026-08-01&g=2026-08-01) van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak kan geen beroep worden ingesteld tegen een besluit:
 
 - a. op grond van een in enig wettelijk voorschrift voor het geval van buitengewone omstandigheden toegekende bevoegdheid of opgelegde verplichting in deze omstandigheden genomen,
 

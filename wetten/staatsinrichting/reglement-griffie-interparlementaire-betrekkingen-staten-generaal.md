@@ -1,40 +1,17 @@
 ---
 title: "Reglement voor de Griffie interparlementaire betrekkingen der Staten-Generaal"
+citeertitel: "Reglement griffie interparlementaire betrekkingen Staten-Generaal"
 identifier: "BWBR0024419"
-country: "nl"
-rank: "reglement"
-publication_date: "2020-01-28"
-last_updated: "2020-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024419"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "9707783"
-version_id: "15695532"
-internal_id: "C21459631"
-label_id: "9684694"
-dtd_version: "2.0"
-original_entry_into_force: "2008-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024419/2020-01-28/0"
-intitule_bron: "Kst.2008-31517"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-25"
-intitule_published: "2008-06-25"
-intitule_in_force: "2008-06-25"
-intitule_status: "goed"
-original_publication: "Kst.2008-31517"
-original_signed_date: "2008-06-25"
-original_published_date: "2008-06-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "31517"
-entry_into_force_date: "2008-07-08"
-entry_into_force_dossier: "31517"
-jci_1_3: "jci1.3:c:BWBR0024419&z=2020-01-28&g=2020-01-28"
-jci_1_0: "1.0:c:BWBR0024419&g=2020-01-28"
-citeertitel_status: "officieel"
-short_title: "Reglement griffie interparlementaire betrekkingen Staten-Generaal"
-signed_date: "2008-06-25"
-entry_into_force: "2008-07-08"
+publicatiedatum: 2008-07-08
+laatste_update: 2020-01-28
+status: geldig
+toestand: 2020-01-28
+bron: "https://wetten.overheid.nl/BWBR0024419"
+opgehaald: 2026-08-13
 ---
+
 # Reglement voor de Griffie interparlementaire betrekkingen der Staten-Generaal
 
 ##### Artikel 1

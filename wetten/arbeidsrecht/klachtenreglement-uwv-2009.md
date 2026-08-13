@@ -1,45 +1,17 @@
 ---
 title: "Klachtenreglement UWV 2009"
 identifier: "BWBR0024838"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024838"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9793633"
-version_id: "15896532"
-internal_id: "C22036081"
-label_id: "9770504"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024838/2009-01-01/0"
-intitule_bron: "Stcrt.2008-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-18"
-intitule_published: "2008-12-11"
-intitule_in_force: "2008-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-241"
-original_signed_date: "2008-11-18"
-original_published_date: "2008-12-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1733"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024838&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBR0024838&g=2009-01-01"
-citeertitel_status: "officieel"
-signed_date: "2008-11-18"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBR0024838"
+opgehaald: 2026-08-13
 ---
+
 # Klachtenreglement UWV 2009
-
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,15 +19,15 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeri
 
 In dit reglement wordt verstaan onder:
 
-- a. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2) en [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- a. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2) en [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- b. **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **klacht:** iedere uiting van ongenoegen over een gedraging, handeling of nalaten door (een medewerker van) UWV;
+- c. *klacht:* iedere uiting van ongenoegen over een gedraging, handeling of nalaten door (een medewerker van) UWV;
 
-- d. **medewerker:** een ieder die onder verantwoordelijkheid van UWV werkzaamheden verricht voor UWV, ongeacht of hij in dienst is van UWV of anderszins werkzaam is voor UWV
+- d. *medewerker:* een ieder die onder verantwoordelijkheid van UWV werkzaamheden verricht voor UWV, ongeacht of hij in dienst is van UWV of anderszins werkzaam is voor UWV
 
-- e. **Nationale ombudsman:** De Nationale ombudsman, bedoeld in [art 9:17 Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17), die belast is met de klachtbehandeling en -beoordeling in tweede aanleg.
+- e. *Nationale ombudsman:* De Nationale ombudsman, bedoeld in [art 9:17 Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17), die belast is met de klachtbehandeling en -beoordeling in tweede aanleg.
 
 ##### Artikel 2. Klachtrecht
 
@@ -188,5 +160,3 @@ Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van we
 ##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Klachtenreglement UWV 2009
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

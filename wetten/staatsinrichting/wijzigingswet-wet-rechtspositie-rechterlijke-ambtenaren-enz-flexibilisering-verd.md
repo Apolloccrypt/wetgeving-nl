@@ -1,133 +1,110 @@
 ---
 title: "Wet van 11 december 2008 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten in verband met de flexibilisering en verduidelijking alsmede enkele aanvullingen van de regeling van de rechtspositie van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding"
+citeertitel: "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (flexibilisering, verduidelijking en aanvullingen regeling rechtspositie rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding)"
 identifier: "BWBR0025155"
-country: "nl"
-rank: "wet"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025155"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "9876543"
-version_id: "16085982"
-internal_id: "C22147111"
-label_id: "9853174"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025155/2010-07-01/0"
-intitule_bron: "Stb.2009-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-11"
-intitule_published: "2009-01-13"
-intitule_in_force: "2009-02-12"
-intitule_status: "goed"
-original_publication: "Stb.2009-8"
-original_signed_date: "2008-12-11"
-original_published_date: "2009-01-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "31227"
-original_url_id: "stb-2009-8"
-entry_into_force_date: "2009-02-28"
-jci_1_3: "jci1.3:c:BWBR0025155&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBR0025155&g=2010-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (flexibilisering, verduidelijking en aanvullingen regeling rechtspositie rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding)"
-signed_date: "2008-12-11"
-entry_into_force: "2009-02-28"
+publicatiedatum: 2009-02-28
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBR0025155"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 11 december 2008 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten in verband met de flexibilisering en verduidelijking alsmede enkele aanvullingen van de regeling van de rechtspositie van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel III
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel IVa
 
-Wijzigt de Advocatenwet, de Gerechtsdeurwaarderswet, de Loodsenwet en de Wet op de beroepen in de individuele gezondheidszorg.
+*Wijzigt de Advocatenwet, de Gerechtsdeurwaarderswet, de Loodsenwet en de Wet op de beroepen in de individuele gezondheidszorg.*
 
 ##### Artikel IVb
 
-Wijzigt de Algemene wet gelijke behandeling, de Uitvoeringswet grondkamers, de Wet bescherming persoonsgegevens, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Aanpassingswet invoering bachelor-masterstructuur, de Wet personenvervoer 2000 en de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
+*Wijzigt de Algemene wet gelijke behandeling, de Uitvoeringswet grondkamers, de Wet bescherming persoonsgegevens, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Aanpassingswet invoering bachelor-masterstructuur, de Wet personenvervoer 2000 en de Wet tuchtrechtspraak bedrijfsorganisatie 2004.*
 
 ##### Artikel V
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel VI
 
-Wijzigt de Algemene wet op het binnentreden.
+*Wijzigt de Algemene wet op het binnentreden.*
 
 ##### Artikel VII
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### Artikel VIIa
 
-Wijzigt de Comptabiliteitswet 2001.
+*Wijzigt de Comptabiliteitswet 2001.*
 
 ##### Artikel VIIb
 
-Wijzigt de Militaire Ambtenarenwet 1931.
+*Wijzigt de Militaire Ambtenarenwet 1931.*
 
 ##### Artikel VIIc
 
-Wijzigt de Wet gewetensbezwaren militaire dienst.
+*Wijzigt de Wet gewetensbezwaren militaire dienst.*
 
 ##### Artikel VIId
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel VIIe
 
-Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
+*Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.*
 
 ##### Artikel VIIf
 
-Wijzigt de Wet organisatie en bestuur gerechten.
+*Wijzigt de Wet organisatie en bestuur gerechten.*
 
 ##### Artikel VIIg
 
-Wijzigt de Zaaizaad- en plantgoedwet 2005.
+*Wijzigt de Zaaizaad- en plantgoedwet 2005.*
 
 ##### Artikel VIIh
 
-Wijzigt de Wet op de Raad van State en deze wet.
+*Wijzigt de Wet op de Raad van State en deze wet.*
 
 ##### Artikel VIIi
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel VIIj
 
-Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van State) en de Wet op de rechterlijke organisatie.
+*Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van State) en de Wet op de rechterlijke organisatie.*
 
 ##### Artikel VIIk
 
-Wijzigt de Wet Dieren en deze wet.
+*Wijzigt de Wet Dieren en deze wet.*
 
 ##### Artikel VIIl
 
-Wijzigt het Burgerlijk Wetboek Boek 1.
+*Wijzigt het Burgerlijk Wetboek Boek 1.*
 
 ##### Artikel VIIm
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
 
 ##### Artikel VIIn
 
-Wijzigt de Beroepswet en de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Beroepswet en de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel VIII
 
@@ -156,11 +133,3 @@ Na de inwerkingtreding van deze wet:
 ##### Artikel X
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in verband met flexibilisering, verduidelijking en enkele aanvullingen van de rechtspositieregeling van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en enige andere wetten te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2009 (Verordening PT algemene heffing handel groenten en fruit 2009)"
+citeertitel: "Verordening PT algemene heffing handel groenten en fruit 2009"
 identifier: "BWBR0024573"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024573"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9743933"
-version_id: "15786742"
-internal_id: "C21576161"
-label_id: "9720864"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024573/2011-09-11/0"
-intitule_bron: "Vbbo.2009-38"
-intitule_effect: "wijziging"
-intitule_signed: "2009-03-24"
-intitule_published: "2009-06-26"
-intitule_in_force: "2009-06-26"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-71"
-original_signed_date: "2008-07-01"
-original_published_date: "2008-09-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-09-07"
-jci_1_3: "jci1.3:c:BWBR0024573&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0024573&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing handel groenten en fruit 2009"
-signed_date: "2008-07-01"
-entry_into_force: "2008-09-07"
+publicatiedatum: 2008-09-07
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0024573"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2009 (Verordening PT algemene heffing handel groenten en fruit 2009)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 17 juni 2008;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,13 +24,13 @@ Besluit:
 
 3. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-| a. | de handel | : | het aankopen bij/verkopen van, producten aan anderen dan consumenten voor hun persoonlijke behoeften; | het aankopen bij/verkopen van, producten aan anderen dan consumenten voor hun persoonlijke behoeften; |
-| --- | --- | --- | --- | --- |
-| b. | het bewerken | : | alle handelingen waarbij van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; | alle handelingen waarbij van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
-| c. | de ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten: | de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten: |
-| d. | de aankoopwaarde handel | : | het bedrag van de door de ondernemer gedurende een kalenderjaar aangekochte producten; | het bedrag van de door de ondernemer gedurende een kalenderjaar aangekochte producten; |
-| e. | een afzetorganisatie/bemiddelaar | : | de natuurlijke of rechtspersoon die in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; | de natuurlijke of rechtspersoon die in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
-| f. | uien | : | alle uien met uitzondering van zilveruien. | alle uien met uitzondering van zilveruien. |
+| a. | de handel | : | het aankopen bij/verkopen van, producten aan anderen dan consumenten voor hun persoonlijke behoeften; |
+| --- | --- | --- | --- |
+| b. | het bewerken | : | alle handelingen waarbij van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
+| c. | de ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in de verse of bewerkte producten: 1. fruit, met uitzondering van slaggrondnoten en kopra; 2. groenten, met uitzondering van zaden van groenten; |
+| d. | de aankoopwaarde handel | : | het bedrag van de door de ondernemer gedurende een kalenderjaar aangekochte producten; |
+| e. | een afzetorganisatie/bemiddelaar | : | de natuurlijke of rechtspersoon die in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
+| f. | uien | : | alle uien met uitzondering van zilveruien. |
 
 4. Met de ondernemer als bedoeld in het derde lid, onder c, wordt gelijk gesteld de natuurlijke of rechtspersoon die groenten en fruit van telers of van buitenlandse handelaren aankoopt en deze zonder tussenkomst van andere handelaren verkoopt aan consumenten. Voor de aankoopwaarde handel wordt in dat geval uitsluitend in aanmerking genomen hetgeen van telers of buitenlandse handelaren op deze wijze is aangekocht.
 
@@ -118,5 +89,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing handel groenten en fruit 2009.
-
-De verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

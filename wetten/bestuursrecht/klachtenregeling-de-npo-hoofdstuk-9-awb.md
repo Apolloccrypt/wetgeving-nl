@@ -1,36 +1,17 @@
 ---
 title: "Klachtenregeling De Nederlandse Publieke Omroep, als bedoeld in Hoofdstuk 9 Algemene Wet Bestuursrecht"
+citeertitel: "Klachtenregeling De NPO Hoofdstuk 9 Awb"
 identifier: "BWBR0024787"
-country: "nl"
-rank: "zbo"
-publication_date: "2008-12-10"
-last_updated: "2008-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024787"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9783623"
-version_id: "15871082"
-internal_id: "C21770411"
-label_id: "9760474"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024787/2008-12-10/0"
-intitule_bron: "Stcrt.2008-239"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-12-09"
-intitule_in_force: "2008-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-239"
-original_published_date: "2008-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1572"
-entry_into_force_date: "2008-12-10"
-jci_1_3: "jci1.3:c:BWBR0024787&z=2008-12-10&g=2008-12-10"
-jci_1_0: "1.0:c:BWBR0024787&g=2008-12-10"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling De NPO Hoofdstuk 9 Awb"
-entry_into_force: "2008-12-10"
+publicatiedatum: 2008-12-10
+laatste_update: 2008-12-10
+status: geldig
+toestand: 2008-12-10
+bron: "https://wetten.overheid.nl/BWBR0024787"
+opgehaald: 2026-08-13
 ---
+
 # Klachtenregeling De Nederlandse Publieke Omroep, als bedoeld in Hoofdstuk 9 Algemene Wet Bestuursrecht
 
 Vastgesteld bij besluit van de raad van bestuur d.d. 11 november 2008.
@@ -47,23 +28,23 @@ Heeft de volgende klachtenregeling vastgesteld:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Awb:** de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- a. *Awb:* de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-- b. **Raad van bestuur:** de raad van bestuur van de NPO.
+- b. *Raad van bestuur:* de raad van bestuur van de NPO.
 
-- c. **Raad van toezicht:** de raad van toezicht van de NPO.
+- c. *Raad van toezicht:* de raad van toezicht van de NPO.
 
-- d. **Medewerker:** persoon die ten tijde van de omstreden gedraging werkzaam is bij en onder verantwoordelijkheid van de NPO, met inbegrip van zelfstandigen, uitzendkrachten, gedetacheerden en stagiaires.
+- d. *Medewerker:* persoon die ten tijde van de omstreden gedraging werkzaam is bij en onder verantwoordelijkheid van de NPO, met inbegrip van zelfstandigen, uitzendkrachten, gedetacheerden en stagiaires.
 
-- e. **Directe leidinggevende:** persoon die de gezagsverhouding over een medewerker uitoefent.
+- e. *Directe leidinggevende:* persoon die de gezagsverhouding over een medewerker uitoefent.
 
-- f. **Klachtbehandeling:** het onderzoek van een klacht met inachtneming van [afdeling 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.2) en [9.3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.3).
+- f. *Klachtbehandeling:* het onderzoek van een klacht met inachtneming van [afdeling 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.2) en [9.3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.3).
 
-- g. **Klachtbehandelaar:** degene die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024787&artikel=6&z=2008-12-10&g=2008-12-10) de klacht in behandeling neemt en afdoet.
+- g. *Klachtbehandelaar:* degene die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024787&artikel=6&z=2008-12-10&g=2008-12-10) de klacht in behandeling neemt en afdoet.
 
-- h. **Klachtadviesprocedure:** de procedure als bedoeld in [afdeling 9.3. Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.3).
+- h. *Klachtadviesprocedure:* de procedure als bedoeld in [afdeling 9.3. Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.3).
 
-- i. **Klachtafdoening:** de schriftelijke bekendmaking aan de klager van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12, eerste lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12).
+- i. *Klachtafdoening:* de schriftelijke bekendmaking aan de klager van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12, eerste lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12).
 
 ##### Artikel 2. Doel
 

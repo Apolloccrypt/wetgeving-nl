@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel Uurloonschatting 2008"
+citeertitel: "Beleidsregel uurloonschatting 2008"
 identifier: "BWBR0024497"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-08-19"
-last_updated: "2010-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024497"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9721783"
-version_id: "15734532"
-internal_id: "C29425421"
-label_id: "9698684"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024497/2010-08-19/0"
-intitule_bron: "Stcrt.2008-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-12"
-intitule_published: "2008-09-18"
-intitule_in_force: "2008-09-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-181"
-original_signed_date: "2008-08-12"
-original_published_date: "2008-09-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-181-p19-SC87501"
-entry_into_force_date: "2008-09-20"
-jci_1_3: "jci1.3:c:BWBR0024497&z=2010-08-19&g=2010-08-19"
-jci_1_0: "1.0:c:BWBR0024497&g=2010-08-19"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel uurloonschatting 2008"
-signed_date: "2008-08-12"
-entry_into_force: "2008-09-20"
+publicatiedatum: 2008-09-20
+laatste_update: 2010-08-19
+status: geldig
+toestand: 2010-08-19
+bron: "https://wetten.overheid.nl/BWBR0024497"
+opgehaald: 2026-08-13
 ---
+
 # Beleidsregel Uurloonschatting 2008
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) en [5 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5), [18 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), [2 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=2) en [2 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2) en het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -83,5 +57,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel uurloonschatting 2008.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -7,7 +7,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBV0007168"
-opgehaald: 2026-08-12
+opgehaald: 2026-08-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens

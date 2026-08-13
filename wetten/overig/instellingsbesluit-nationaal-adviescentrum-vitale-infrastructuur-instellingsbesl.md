@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Nationaal Adviescentrum Vitale Infrastructuur (Instellingsbesluit NAVI)"
 identifier: "BWBR0024499"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-09-21"
-last_updated: "2007-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024499"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9722133"
-version_id: "15735092"
-internal_id: "C29425791"
-label_id: "9699074"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024499/2008-09-21/0"
-intitule_bron: "Stcrt.2008-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-11"
-intitule_published: "2008-09-19"
-intitule_in_force: "2008-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-182"
-original_signed_date: "2008-09-11"
-original_published_date: "2008-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-182-p2-SC87522"
-entry_into_force_date: "2008-09-21"
-jci_1_3: "jci1.3:c:BWBR0024499&z=2008-09-21&g=2008-09-21"
-jci_1_0: "1.0:c:BWBR0024499&g=2008-09-21"
-citeertitel_status: "officieel"
-signed_date: "2008-09-11"
-entry_into_force: "2008-09-21"
+publicatiedatum: 2008-09-21
+laatste_update: 2008-09-21
+status: geldig
+toestand: 2008-09-21
+bron: "https://wetten.overheid.nl/BWBR0024499"
+opgehaald: 2026-08-13
 ---
+
 # Instellingsbesluit Nationaal Adviescentrum Vitale Infrastructuur (Instellingsbesluit NAVI)
-
-Gelet op [artikel 2, eerste lid, van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2);
-
-Besluit:
 
 ### Hoofdstuk I
 
@@ -100,5 +74,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Adviescentrum Vitale Infrastructuur (Instellingsbesluit NAVI).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

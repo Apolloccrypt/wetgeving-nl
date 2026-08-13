@@ -1,43 +1,45 @@
 ---
 title: "Uitvoeringsregeling subsidie vertaaldiensten 2009"
 identifier: "BWBR0025599"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-04-01"
-last_updated: "2009-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025599"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "9964433"
-version_id: "16273732"
-internal_id: "C22305141"
-label_id: "9940794"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025599/2009-04-01/0"
-intitule_bron: "Stcrt.2009-63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-13"
-intitule_published: "2009-04-01"
-intitule_in_force: "2009-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-63"
-original_signed_date: "2009-01-13"
-original_published_date: "2009-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-4788"
-entry_into_force_date: "2009-04-01"
-jci_1_3: "jci1.3:c:BWBR0025599&z=2009-04-01&g=2009-04-01"
-jci_1_0: "1.0:c:BWBR0025599&g=2009-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2009-01-13"
-entry_into_force: "2009-04-01"
+publicatiedatum: 2009-04-01
+laatste_update: 2009-04-01
+status: geldig
+toestand: 2009-04-01
+bron: "https://wetten.overheid.nl/BWBR0025599"
+opgehaald: 2026-08-13
 ---
+
 # Uitvoeringsregeling subsidie vertaaldiensten 2009
 
 De Raad voor Rechtsbijstand,
 
 Overwegende:
+
+- • dat de Raad is belast met de organisatie van verlening van gesubsidieerde rechtsbijstand, met het nemen van besluiten op aanvragen om rechtsbijstand en die om verlening van toevoegingen en met het vaststellen en uitbetalen van vergoedingen aan rechtsbijstandverleners;
+
+- • dat het Ministerie van Justitie het beheer van het budget voor de verlening van tolken- en vertaaldiensten ten behoeve van de advocatuur, het Juridisch Loket, Amnesty International en uitvoerenden van de Wet schuldsanering natuurlijke personen aan de Raad heeft overgedragen;
+
+- • dat tolk- en vertaaldiensten worden verleend door Tvcn/Manpower;
+
+- • dat volgens het [Besluit vergoedingen rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) vertaaldiensten in toevoegingszaken niet worden vergoed;
+
+- • dat het derhalve om organisatorische en budgettaire redenen noodzakelijk is beleidsregels en grenzen vast te stellen voor het faciliteren van vertaaldiensten door TVCN/Manpower aan toegevoegde advocaten;
+
+- • dat deze regels, gelet op het bepaalde in [artikel 37b, vierde lid Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b) de volgende onderwerpen bevatten:
+
+   - a. een uitwerking van de diensten die voor subsidie in aanmerking komen;
+
+   - b. een nadere omschrijving van aan de subsidie verbonden verplichtingen;
+
+   - c. de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;
+
+   - d. de aan de subsidie verbonden verplichtingen;
+
+   - e. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht moet worden genomen;
+
+   - f. de wijze waarop het beschikbare bedrag wordt verdeeld.
 
 Stelt de volgende beleidsregels vast:
 
@@ -47,17 +49,49 @@ Een advocaat die ten behoeve van een cliënt stukken wil laten vertalen, richt z
 
 De door Tvcn bij de aanvraag te onderscheiden rechtsgebieden betreffen:
 
+- • asielrechtsbijstand
+
+- • strafrechtsbijstand
+
+- • civiele rechtsbijstand
+
 ### 2. Asielrechtsbijstand
 
 Voor de asielrechtsbijstand geldt als regel dat een vertaaldienst wordt verstrekt indien aan de volgende cumulatieve vereisten is voldaan:
 
-**Werkwijze:**
+- • de verzoeker betreft een bij de Raad ingeschreven advocaat met de specialisatie asiel- en vluchtelingenrecht
+
+- • de verzoeker specificeert zijn aanvraag met het vreemdelingennummer (het BVV-nummer), naam en geboortedatum client
+
+- • de verzoeker vermeldt of sprake is van een eerste of een herhaalde aanvraag.
+
+*Werkwijze:*
+
+- 1. de Raad verstrekt aan Tvcn een lijst met alle ingeschreven rechtsbijstandverleners met de specialisatie asiel- en vluchtelingenrecht;
+
+- 2. de vertaaldiensten die na overlegging van een BVV-nummer zijn verleend aan ingeschreven rechtsbijstandverleners met de specialisatie asiel- en vluchtelingenrecht, worden gefactureerd aan de Raad;
+
+- 3. als een advocaat die om een vertaaldienst verzoekt ten behoeve van asielrechtsbijstand, bij de Raad geen inschrijvingsspecialisatie asiel- en vluchtelingenrecht heeft dan wel geen BVV-nummer heeft overgelegd, wordt de verleende tolkdienst door Tvcn gefactureerd aan de advocaat;
+
+- 4. Tvcn rapporteert aan de Raad maandelijks welke aan de raad gefactureerde diensten, onder vermelding van BVV-nummers, naam en geboortedatum client, zijn verleend.
+
+- 5. door middel van een controle bij de Raad wordt periodiek nagegaan welke telefonisch doorgegeven nummers achteraf niet tot een toevoeging hebben geleid.
 
 ### 3. Strafrechtsbijstand
 
 Als regel wordt gehanteerd dat de door de Raad gesubsidieerde vertaaldiensten pas door Tvcn worden geleverd, na verstrekking van het toevoegnummer bij de aanvraag. Een complicerende factor daarbij is dat niet per definitie te allen tijde een beslissing over een toevoegaanvraag is genomen alvorens de dienst wordt geleverd.
 
-**Werkwijze:**
+*Werkwijze:*
+
+- 1. een advocaat overlegt bij de aanvraag voor een vertaaldienst het toevoegnummer;
+
+- 2. indien over de toevoeging nog niet is beslist, belt de advocaat de afdeling toevoegen van de Raad met het verzoek om het nummer telefonisch door te geven;
+
+- 3. alle aanvragen met een toevoegnummer worden gefactureerd aan de Raad;
+
+- 4. als een advocaat geen toevoegnummer kan overleggen wordt hij/zij door Tvcn gefactureerd;
+
+- 5. Tvcn rapporteert aan de Raad maandelijks welke diensten onder welke toevoegnummers zijn verleend. Door middel van een controle bij de raden wordt nagegaan welke telefonisch doorgegeven nummers achteraf niet tot een toevoeging hebben geleid.
 
 ### 4. Civiele rechtsbijstand
 

@@ -1,85 +1,51 @@
 ---
 title: "Verordening op de kwaliteit"
 identifier: "BWBR0024830"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-08-16"
-last_updated: "2012-08-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024830"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "9792313"
-version_id: "15894212"
-internal_id: "C21795161"
-label_id: "9769064"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024830/2012-08-16/0"
-intitule_bron: "Stcrt.2008-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-24"
-intitule_published: "2008-12-10"
-intitule_in_force: "2008-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-240"
-original_signed_date: "2008-09-24"
-original_published_date: "2008-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1658"
-entry_into_force_date: "2009-01-02"
-jci_1_3: "jci1.3:c:BWBR0024830&z=2012-08-16&g=2012-08-16"
-jci_1_0: "1.0:c:BWBR0024830&g=2012-08-16"
-citeertitel_status: "officieel"
-signed_date: "2008-09-24"
-entry_into_force: "2009-01-02"
+publicatiedatum: 2009-01-02
+laatste_update: 2012-08-16
+status: geldig
+toestand: 2012-08-16
+bron: "https://wetten.overheid.nl/BWBR0024830"
+opgehaald: 2026-08-13
 ---
+
 # Verordening op de kwaliteit
-
-Overwegende dat het gewenst is regelen te stellen met betrekking tot de kwaliteit en de integriteit van de notaris en de kandidaat-notaris;
-
-Gelet op [artikel 61 a, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61a);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gezien de adviezen van de Kamers van Toezicht;
-
-Gezien de adviezen van de ringen;
-
-Stelt de navolgende verordening vast:
 
 ##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
-- a. **notaris:** de notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), alsmede de kandidaat-notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), tenzij uit de aard van de bepaling anders voortvloeit;
+- a. *notaris:* de notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), alsmede de kandidaat-notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), tenzij uit de aard van de bepaling anders voortvloeit;
 
-- b. **bestuur:** het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
+- b. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
 
-- c. **eigen verklaring:** door de notaris ondertekende verklaring overeenkomstig het door het bestuur vastgestelde model;
+- c. *eigen verklaring:* door de notaris ondertekende verklaring overeenkomstig het door het bestuur vastgestelde model;
 
-- d. **intercollegiale kwaliteitstoetsing:** onafhankelijk onderzoek door notariële deskundigen naar de wijze waarop de notaris voldoet aan de voor hem geldende normen van kwaliteit en integriteit, op basis van gesprekken en het doornemen van dossiers met de notaris en medewerkers van de notaris;
+- d. *intercollegiale kwaliteitstoetsing:* onafhankelijk onderzoek door notariële deskundigen naar de wijze waarop de notaris voldoet aan de voor hem geldende normen van kwaliteit en integriteit, op basis van gesprekken en het doornemen van dossiers met de notaris en medewerkers van de notaris;
 
-- e. **nadere toetsing:** nadere intercollegiale kwaliteitstoetsing;
+- e. *nadere toetsing:* nadere intercollegiale kwaliteitstoetsing;
 
-- f. **toetser:** notariële deskundige die door de KNB is opgeleid om in opdracht van het bestuur intercollegiale kwaliteitstoetsingen te verrichten.
+- f. *toetser:* notariële deskundige die door de KNB is opgeleid om in opdracht van het bestuur intercollegiale kwaliteitstoetsingen te verrichten.
 
 ##### Artikel 2
 
 1. Notarissen verstrekken desgevraagd aan het bestuur of de namens het bestuur optredende personen inlichtingen over de wijze waarop zij . voldoen aan de bij of krachtens de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) gegeven bepalingen of een op deze wet berustende verordening,
 
-- •. de zorg betrachten die zij als notarissen behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en
+- • de zorg betrachten die zij als notarissen behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en
 
-- •. handelen of nalaten zoals een behoorlijk notaris betaamt.
+- • handelen of nalaten zoals een behoorlijk notaris betaamt.
 
 2. Notarissen verstrekken deze inlichtingen door overlegging van een eigen verklaring en door deel te nemen aan een intercollegiale kwaliteitstoetsing of nadere toetsing op hun kantoor.
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-De criteria aan de hand waarvan de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden hebben betrekking op de beoordeling van de opdracht, voorlichting over de gevraagde werkzaamheden en de opdrachtbevestiging, de uitvoering en afronding van de opdracht en het besef van kwaliteit en integriteit. De criteria zijn nader uitgewerkt in de aan deze verordening gehechte bijlage.
+De criteria aan de hand waarvan de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden hebben betrekking op de beoordeling van de opdracht, voorlichting over de gevraagde werkzaamheden en de opdrachtbevestiging, de uitvoering en afronding van de opdracht en het besef van kwaliteit en integriteit. De criteria zijn nader uitgewerkt in de aan deze verordening gehechte [bijlage](https://wetten.overheid.nl/BWBR0024830).
 
 ##### Artikel 5
 
@@ -98,15 +64,3 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 1. De verordening treedt in werking met ingang van 2 januari 2009.
 
 2. De [Verordening op de kwaliteit (onderdeel WID/MOT)](https://wetten.overheid.nl/jci1.3:c:BWBR0021333) vervalt drie maanden na de datum waarop de Verordening op de kwaliteit in werking treedt.
-
-## Bijlage
-
-### Criteria Intercollegiale Toetsing
-
-### I. Beoordeling opdracht
-
-### II. Voorlichting en opdrachtbevestiging
-
-### III. Uitvoering en afronding van de opdracht
-
-### IV. Besef van kwaliteit en integriteit

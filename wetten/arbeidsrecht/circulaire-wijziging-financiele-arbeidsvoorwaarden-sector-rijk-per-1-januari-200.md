@@ -1,49 +1,73 @@
 ---
 title: "Circulaire wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2009"
 identifier: "BWBR0025133"
-country: "nl"
-rank: "circulaire"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025133"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "9873573"
-version_id: "16081122"
-internal_id: "C22058291"
-label_id: "9850294"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025133/2009-01-01/0"
-intitule_bron: "Stcrt.2009-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-16"
-intitule_published: "2009-01-09"
-intitule_in_force: "2009-01-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-5"
-original_signed_date: "2008-12-16"
-original_published_date: "2009-01-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-410"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0025133&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBR0025133&g=2009-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-12-16"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBR0025133"
+opgehaald: 2026-08-13
 ---
+
 # Circulaire wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2009
 
 ### Inleiding
 
 Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een circulaire over wijzigingen in de financiële arbeidsvoorwaarden voor het personeel van de sector Rijk. U treft in deze circulaire informatie aan over de volgende onderwerpen:
 
+- 1 Vergoeding van verblijfkosten bij dienstreizen
+
+- 2 Tegemoetkomingen in het woon-werkverkeer
+
+- 3 Voorzieningen Sociaal flankerend beleid
+
+- 4 Loonbegrip bij deelname aan de levensloopregeling
+
+- 5 Te werken uren op jaarbasis
+
+- 6 Eindejaarsuitkering
+
+- 7 Salarisverhoging met ingang van 1 april 2009
+
+- 8 Maximum spaarloonbedrag
+
+- 9 Inhoudingen en afdrachten van premies
+
+- 10 Ouderschapsverlof(korting)
+
+- 11 Bedrag levensloopverlofkorting
+
+- 12 [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834)
+
+- 13 Wetsvoorstel(len) Belastingen 2009
+
+- 14 Verlaging werknemersdeel WW premie tot nihil
+
+- 15 Premiekorting oudere werknemers
+
+- 16 Verhaal WGA-lasten op de werknemer
+
+- 17 Regelgeving en circulaires
+
 Voorzover de wijzigingen niet automatisch in uw salaris- of personeelssysteem worden aangebracht dient uw eigen personeels- of salarisadministratie de wijzigingen aan te brengen.
 
 ### 1. Vergoeding van verblijfkosten bij dienstreizen
 
 De vergoedingen voor verblijfkosten tijdens dienstreizen wijzigen met ingang van 1 januari 2009 als volgt:
+
+- – het bedrag voor kleine uitgaven overdag: € 3,98 (was € 3,84).
+
+- – het bedrag voor kleine uitgaven ’s-avonds: € 11,90 (was € 11,48).
+
+- – het bedrag voor een lunch: € 12,56 (was € 12,04).
+
+- – het bedrag voor een avondmaaltijd: € 19,00 (was € 18,22).
+
+- – het bedrag voor logies: € 75,67 (was € 74,70).
+
+- – het bedrag voor een ontbijt: € 7,39 (was € 7,30).
 
 De vergoedingsbedragen voor het gebruik van een privé vervoermiddel, € 0,37 en € 0,09 per kilometer, wijzigen niet.
 
@@ -52,6 +76,20 @@ NB: De Belastingdienst handhaaft het bedrag per kilometer dat maximaal onbelast 
 ### 2. Tegemoetkomingen in het woon-werkverkeer
 
 Met ingang van 1 januari 2009 wijzigen de bedragen die in het kader van het woon-werkverkeer als tegemoetkoming voor het gebruik van eigen vervoer kunnen worden verstrekt als volgt:
+
+- – het maximum bedrag per maand voor de hoge kilometervergoeding wijzigt van € 282,75 in € 315,82;
+
+- – het maximum bedrag per dag voor de hoge kilometervergoeding wijzigt van € 15,86 in € 17,71;
+
+- – het maximumbedrag per maand van de lage kilometervergoeding wijzigt van € 45,00 in € 47,44;
+
+- – het maximumbedrag per dag van de lage kilometervergoeding wijzigt van € 2,52 in € 2,66;
+
+- – het bedrag van de hoge kilometervergoeding wijzigt van € 0,15 in € 0,16;
+
+- – het bedrag van de lage kilometervergoeding blijft ongewijzigd € 0,05;
+
+- – het maximaal te vergoeden bedrag van de aantoonbare stallingkosten wijzigt van € 10,00 in € 10,28.
 
 In het kader van het woonwerkverkeer was afgesproken om met ingang van 1 januari 2009 het recht op de verhuiskostenvergoeding van € 1361,34 en op de vergoeding van € 91 per jaar voor het reizen naar het NS station te beëindigen.
 
@@ -78,6 +116,21 @@ In de Levensloopregeling rijkspersoneel wordt als loon aangemerkt, het loon als 
 Het aantal te werken uren op jaarbasis bedraagt in 2009 bij een volledige arbeidsduur van gemiddeld 36 uur per week afgerond 1829 uren.
 
 Dit aantal is het resultaat van de volgende berekening
+
+| Aantal dagen 2009 |  | 365 |
+| --- | --- | --- |
+| Aantal zaterdagen | 52 |  |
+| Aantal zondagen | 52 |  |
+| Nieuwjaarsdag, donderdag 1 januari | 1 |  |
+| Tweede paasdag, maandag 13 april | 1 |  |
+| Koninginnedag, donderdag 30 april | 1 |  |
+| Bevrijdingsdag, dinsdag 5 mei | 1 |  |
+| Hemelvaartsdag, donderdag 21 mei | 1 |  |
+| Tweede Pinksterdag, maandag 1 juni | 1 |  |
+| Eerste kerstdag, vrijdag 25 december | 1 |  |
+| Totaal zaterdag, zondag en feestdagen | 111 |  |
+| Totaal aantal te werken dagen 2009 |  | 254 |
+| Aantal te werken hele uren (254 × 7,2) |  | 1829 |
 
 ### 6. Eindejaarsuitkering
 
@@ -117,7 +170,7 @@ Voor het recht op de ouderschapsverlofkorting hoeft vanaf 2009 geen inleg ingevo
 
 De Belastingdienst heeft bekend gemaakt, dat het bedrag van de levensloopverlofkorting met ingang van 1 januari 2009 wijzigt van € 191,00 in € 195,00 per gespaard kalenderjaar.
 
-### 12. [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0022834)
+### 12. Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel
 
 In deze regeling wordt bij het vaststellen van de hoogte van de bijdrage een uurprijs in aanmerking genomen die niet hoger is dan de op basis van [artikel 7 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=7) vastgestelde uurprijs.
 
@@ -126,6 +179,26 @@ Gebruikelijk is, dat deze uurprijs jaarlijks wordt geïndexeerd. Het kabinet hee
 ### 13. Wetsvoorstel(len) Belastingen 2009
 
 Met de wetsvoorstellen ‘[Belastingplan 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024975)’ en ‘[Overige fiscale maatregelen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025024)’ worden een aantal maatregelen aangekondigd, waarop ik graag uw aandacht vestig.
+
+- – Er wordt een, op basis van de CO2-uitstoot gebaseerde, nieuwe categorie ‘schone’ auto’s geïntroduceerd. De minimale bijtelling voor het privégebruik van deze auto’s bedraagt 20%.
+
+- – De maximale onbelaste vergoeding bij verhuizing wijzigt in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471). Naast de kosten voor het overbrengen van de inboedel kon onbelast 12% van het jaarloon met een maximum van € 5445,00 worden vergoed. Die bepaling wijzigt zodanig, dat ongeacht het jaarloon maximaal € 7750,00 kan worden vergoed, als de verhuizing plaatsvindt van een afstand van meer dan 25 kilometer naar een afstand van minder dan 10 kilometer van de plaats van de dienstbetrekking.
+
+- – Het minimale aantal dagen waarop gereisd moet worden om in aanmerking te komen voor een vaste reiskostenvergoeding wijzigt van 150 in 128.
+
+- – De bestaande eerstedagsmelding (EDM) wordt met ingang van 1 januari 2009 afgeschaft. De inspecteur der belastingen krijgt echter de bevoegdheid een EDM verplichting aan de werkgever op te leggen als sprake is van bijzondere risico’s op fraude en illegale tewerkstelling.
+
+- – Het bedrag van de afdrachtvermindering onderwijs voor een procedure erkenning van verworven competenties (EVC) dient niet meer te worden verdeeld over de loontijdvakken in het kalenderjaar. Het bedrag dient in één keer in zijn geheel in aanmerking genomen te worden in het loontijdvak waarin de werknemer aanvangt met het volgen van de EVC procedure of in het daaropvolgende tijdvak.
+
+- – Net als kosten van studie en opleiding mogen kosten voor het volgen van een EVC-procedure, op basis van een verklaring van een aangewezen instantie, belastingvrij door de werkgever vergoed of verstrekt worden.
+
+- – De door de Belastingdienst geaccepteerde wijze waarop loon in de salarisadministratie met terugwerkende kracht aan verstreken loontijdvakken wordt toegerekend, de zogenaamde ‘loon over’ methode, wordt ook in 2009 toegestaan, als de inhoudingsplichtige daarin een bestendige gedragslijn volgt. Het is de bedoeling om vanaf 2010 de ‘loon over’ methode in de salarisadministratie te handhaven, maar correcties te laten opnemen in de loonaangifte van het eerstvolgende loontijdvak.
+
+- – Het recht op de ouderschapsverlofkorting is vanaf 2009 niet meer afhankelijk van inleg in een levensloopregeling.
+
+- – Met ingang van 1 januari 2009 wordt wettelijk geregeld, dat het op de werknemer verhaalde gedeelte van de WGA-premie geen fiscaal negatief loon vormt. Zo wordt de bestaande onzekerheid weggenomen en is formeel geregeld, dat het verhalen van deze premie op het nettoloon dient plaats te vinden.
+
+- – Voor werknemers die in het kalenderjaar 62 jaar of ouder worden komt er onder de naam ‘doorwerkbonus’ een, via de inkomstenbelasting te verkrijgen, heffingskorting van 5% (62 jaar), 7% (63 jaar), 10% (64 jaar), 2% (65 jaar), 1% (66 jaar en ouder).
 
 Voor meer informatie verwijs ik u naar de documentatie behorend bij de wetsvoorstellen (kamerstuk 31704 en 31705) en naar de Belastingdienst.
 
@@ -147,42 +220,6 @@ Het verhaal is geen negatief loon voor de loonheffing, zodat de inhouding plaats
 
 ### 17. Regelgeving en circulaires
 
-In de bijlage vindt u een overzicht van de in 2008 tot stand gekomen (wijzigingen van) amvb’s, ministeriële regelingen en circulaires.
+In de [bijlage](https://wetten.overheid.nl/BWBR0025133) vindt u een overzicht van de in 2008 tot stand gekomen (wijzigingen van) amvb’s, ministeriële regelingen en circulaires.
 
 Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.
-
-## Bijlage
-
-| Wetgeving en Algemene maatregelen van bestuur | Wetgeving en Algemene maatregelen van bestuur | Wetgeving en Algemene maatregelen van bestuur |
-| --- | --- | --- |
-| Datum | Staatsblad | Beschrijving |
-| 25-11-2008 | 2008, 483 | Besluit tot aanpassing van enkele rechtspositionele regelingen in verband met de wijziging van andere regelingen, de verduidelijking van de berekening van de diensttijdgratificatie, de eindejaarsuitkering en de vakantieuitkering alsmede het wegnemen van ongelijke behandeling. |
-
-| Ministeriële regelingen | Ministeriële regelingen | Ministeriële regelingen | Ministeriële regelingen |
-| --- | --- | --- | --- |
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| 21-12-2007 | 2007-0000554833 | 2008, 6 | Wijziging Reisregeling buitenland t.a.v. Pakistan. |
-| 28-02-2008 | 2008-0000096725 | 2008, 53 | Wijziging Reisregeling buitenland (Tarieflijst 1 april 2008). |
-| 09-05-2008 | [2008-0000202306](https://wetten.overheid.nl/jci1.3:c:BWBR0023866) | 2008, 94 | Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel. |
-| 29-08-2008 | 2008-0000402475 | 2008, 181 | Wijziging Reisregeling buitenland (Tarieflijst 1 oktober 2008). |
-| 11-09-2008 | 2008-0000411584 | 2008, 187 | Wijziging Regeling gratificatie bij ambtsjubileum. |
-| Nog niet bekend | 2008-0000553604 | Nog niet bekend | Wijziging reisregeling binnenland. |
-
-| Circulaires | Circulaires | Circulaires | Circulaires |
-| --- | --- | --- | --- |
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| 12-02-2008 | [2008-0000059482](https://wetten.overheid.nl/jci1.3:c:BWBR0023497) | 2008, 36 | Levensloopregeling. |
-| 14-02-2008 | [2008-0000063614](https://wetten.overheid.nl/jci1.3:c:BWBR0023518) | 2008, 38 | Doorwerken na bereiken leeftijd 65 jaar. |
-| 28-02-2008 | [2008-0000096618](onbekend) | 2008, 53 | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2008. |
-| 21-04-2008 | [2008-0000181427](https://wetten.overheid.nl/jci1.3:c:BWBR0023827) | 2008, 85 | Nieuwe voorziening voor het woon-werkverkeer |
-| 06-05-2008 | [2008-0000195249](https://wetten.overheid.nl/jci1.3:c:BWBR0023859) | 2008, 93 | Sociaal flankerend beleid sector Rijk 2008–2012. |
-| 09-05-2008 | [2008-0000202305](https://wetten.overheid.nl/jci1.3:c:BWBR0023868) | 2008, 94 | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d. |
-| 20-05-2008 | [2008-0000224655](https://wetten.overheid.nl/jci1.3:c:BWBR0023956) | 2008, 104 en 108 | Pilot tussen Rijk en Onderwijs. |
-| 21-05-2008 | [2008-0000224119](https://wetten.overheid.nl/jci1.3:c:BWBR0023924) | 2008, 104 | Teruggave pseudo-premie WW 2006. |
-| 04-06-2008 | [2008-0000242819](https://wetten.overheid.nl/jci1.3:c:BWBR0024046) | 2008, 120 | Gelaatsbedekkende kleding. |
-| 10-06-2008 | [2008-0000258541](https://wetten.overheid.nl/jci1.3:c:BWBR0024027) | 2008, 117 | Aanpassing huurwaarde dienstwoningen. |
-| 10-07-2008 | 2008-0000296476 | 2008, 139 | Verkeersboetes. |
-| 18-07-2008 | 2008-0000323682 | 2008, 146 | Teruggave ZVW en werknemerspremie 2007. |
-| 29-08-2008 | [2008-0000402476](onbekend) | 2008, 181 | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2008. |
-| Aug. 2008 | 2008-0000383911 | – | Aanbieding handreiking fasegewijs (re)organiseren. |
-| 16-12-2008 | 2008-0000564650 | Nog niet bekend | Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2009. |

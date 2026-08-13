@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 28 augustus 2008, houdende regels inzake toepassing van fiscale waarderingsgrondslagen in de jaarrekening van kleine rechtspersonen (Besluit fiscale waarderingsgrondslagen)"
+citeertitel: "Besluit fiscale waarderingsgrondslagen"
 identifier: "BWBR0024445"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024445"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9711293"
-version_id: "15705272"
-internal_id: "C21475971"
-label_id: "9688234"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024445/2015-11-01/0"
-intitule_bron: "Stb.2008-353"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-28"
-intitule_published: "2008-09-09"
-intitule_in_force: "2008-09-09"
-intitule_status: "goed"
-original_publication: "Stb.2008-353"
-original_signed_date: "2008-08-28"
-original_published_date: "2008-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-353"
-entry_into_force_date: "2008-09-10"
-jci_1_3: "jci1.3:c:BWBR0024445&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0024445&g=2015-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit fiscale waarderingsgrondslagen"
-signed_date: "2008-08-28"
-entry_into_force: "2008-09-10"
+publicatiedatum: 2008-09-10
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0024445"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 28 augustus 2008, houdende regels inzake toepassing van fiscale waarderingsgrondslagen in de jaarrekening van kleine rechtspersonen (Besluit fiscale waarderingsgrondslagen)
-
-Op de voordracht van Onze Minister van Justitie van 28 juli 2008, Directie Wetgeving, nr. 5555616/08/6;
-
-Gelet op [artikel 396 lid 6 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396);
-
-De Raad van State gehoord (advies van 13 augustus 2008, nr. W03.08.0355/II);
-
-Gezien het nader rapport van Onze Minister van Justitie van 22 augustus 2008, nr. 5560791/08/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -77,5 +45,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit fiscale waarderingsgrondslagen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

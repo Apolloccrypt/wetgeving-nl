@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2009 (Verordening PT bijzondere heffing teelt fruit en champignons 2009)"
+citeertitel: "Verordening PT bijzondere heffing teelt fruit en champignons 2009"
 identifier: "BWBR0024903"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024903"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "9810243"
-version_id: "15940292"
-internal_id: "C21847161"
-label_id: "9786964"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024903/2011-09-11/0"
-intitule_bron: "Vbbo.2008-92"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-01"
-intitule_published: "2008-11-14"
-intitule_in_force: "2008-11-14"
-intitule_status: "goed"
-original_publication: "Vbbo.2008-92"
-original_signed_date: "2008-07-01"
-original_published_date: "2008-11-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2008-11-16"
-jci_1_3: "jci1.3:c:BWBR0024903&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0024903&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2009"
-signed_date: "2008-07-01"
-entry_into_force: "2008-11-16"
+publicatiedatum: 2008-11-16
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0024903"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2009 (Verordening PT bijzondere heffing teelt fruit en champignons 2009)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 17 juni 2008;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +26,7 @@ Besluit:
 
 | a. | het braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld, alsmede niet beteelde gronden, waarop in juli of augustus in enig oogstjaar aardbeien zullen worden geplant en waarvan in het daaropvolgende jaar zal worden geoogst; |
 | --- | --- | --- | --- |
-| b. | de cultuurgrond: | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024903&paragraaf=3&artikel=4&z=2011-09-11&g=2011-09-11) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| b. | de cultuurgrond: | : | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4 genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | c. | de teelt onder glas | : | iedere andere teelt dan die in de open grond; |
 | d. | de gemeten maat | : | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | e. | de contractteelt | : | de teelt van gewassen op contract voor een ander. |
@@ -137,5 +108,3 @@ Deze verordening treedt in werking met ingang van de tweede dag na de datum van 
 ##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2009.
-
-Deze verordening en de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.

@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 12 december 2008, nr. 5579196/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties voor de toegang tot en de uitoefening van het beroep van kandidaat-notaris (Regeling erkenning EG-beroepskwalificaties kandidaat-notaris)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties kandidaat-notaris"
 identifier: "BWBR0024977"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-04-05"
-last_updated: "2016-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024977"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9831343"
-version_id: "15994142"
-internal_id: "C21906431"
-label_id: "9807874"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024977/2016-04-05/0"
-intitule_bron: "Stcrt.2008-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-12"
-intitule_published: "2008-12-24"
-intitule_in_force: "2008-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-250"
-original_signed_date: "2008-12-12"
-original_published_date: "2008-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2452"
-entry_into_force_date: "2008-12-26"
-jci_1_3: "jci1.3:c:BWBR0024977&z=2016-04-05&g=2016-04-05"
-jci_1_0: "1.0:c:BWBR0024977&g=2016-04-05"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties kandidaat-notaris"
-signed_date: "2008-12-12"
-entry_into_force: "2008-12-26"
+publicatiedatum: 2008-12-26
+laatste_update: 2016-04-05
+status: geldig
+toestand: 2016-04-05
+bron: "https://wetten.overheid.nl/BWBR0024977"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 12 december 2008, nr. 5579196/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties voor de toegang tot en de uitoefening van het beroep van kandidaat-notaris (Regeling erkenning EG-beroepskwalificaties kandidaat-notaris)
-
-Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **kandidaat-notaris:** de kandidaat-notaris, bedoeld in [artikel 1, onder c, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1);
+- a. *kandidaat-notaris:* de kandidaat-notaris, bedoeld in [artikel 1, onder c, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1);
 
-- b. **wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- b. *wet:* de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- c. **KNB:** de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel i, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1).
+- c. *KNB:* de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel i, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1).
 
 ##### Artikel 2. KNB
 
@@ -64,9 +38,9 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - b. een kopie van de opleidingstitel(s):
 
-- i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het beroep van kandidaat-notaris, notaris of een daarmee vergelijkbaar beroep en waaruit tevens de duur van de opleiding blijkt, of
+   - i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het beroep van kandidaat-notaris, notaris of een daarmee vergelijkbaar beroep en waaruit tevens de duur van de opleiding blijkt, of
 
-- ii. gewaarmerkt door het in een derde land bevoegde gezag dat de opleidingstitel heeft afgegeven en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst, waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager tenminste drie jaar ervaring in het beroep van kandidaat-notaris, notaris, of een daarmee vergelijkbaar beroep heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
+   - ii. gewaarmerkt door het in een derde land bevoegde gezag dat de opleidingstitel heeft afgegeven en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst, waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager tenminste drie jaar ervaring in het beroep van kandidaat-notaris, notaris, of een daarmee vergelijkbaar beroep heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
 
 - c. een overzicht van vakken die deel hebben uitgemaakt van de opleidingen, bedoeld in onderdeel b, en waarin de aanvrager met goed gevolg examen heeft afgelegd, alsmede een leerstofomschrijving van deze vakken en de daarbij behorende studietijd;
 
@@ -115,5 +89,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties kandidaat-notaris.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,41 +1,17 @@
 ---
 title: "Mandaatbesluit Defensie aanwijzen personen ten behoeve van uitvoeren confrontaties en maken van opnamen daartoe"
 identifier: "BWBR0025826"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-05-16"
-last_updated: "2009-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025826"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10038033"
-version_id: "16399012"
-internal_id: "C22541471"
-label_id: "10014334"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025826/2009-05-16/0"
-intitule_bron: "Stcrt.2009-88"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-04-14"
-intitule_published: "2009-05-14"
-intitule_in_force: "2009-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-88"
-original_signed_date: "2009-04-14"
-original_published_date: "2009-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-7033"
-entry_into_force_date: "2009-05-16"
-jci_1_3: "jci1.3:c:BWBR0025826&z=2009-05-16&g=2009-05-16"
-jci_1_0: "1.0:c:BWBR0025826&g=2009-05-16"
-citeertitel_status: "redactioneel"
-signed_date: "2009-04-14"
-entry_into_force: "2009-05-16"
+publicatiedatum: 2009-05-16
+laatste_update: 2009-05-16
+status: geldig
+toestand: 2009-05-16
+bron: "https://wetten.overheid.nl/BWBR0025826"
+opgehaald: 2026-08-13
 ---
-# Mandaatbesluit Defensie aanwijzen personen ten behoeve van uitvoeren confrontaties en maken van opnamen daartoe
 
-Besluit:
+# Mandaatbesluit Defensie aanwijzen personen ten behoeve van uitvoeren confrontaties en maken van opnamen daartoe
 
 ##### Artikel 1
 
@@ -62,5 +38,3 @@ De bevoegdheid tot het nemen van de besluiten, bedoeld in [artikel 1](https://we
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal worden geplaatst in de Staatscourant en in de reeks ministeriële publicaties 10-003 van het Ministerie van Defensie.

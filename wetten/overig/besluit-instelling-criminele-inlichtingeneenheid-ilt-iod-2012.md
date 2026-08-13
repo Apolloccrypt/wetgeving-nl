@@ -1,62 +1,34 @@
 ---
 title: "Regeling van 9 december 2008, nr. BJZ2008117292, houdende de instelling van een criminele-inlichtingeneenheid VROM-IOD"
+citeertitel: "Besluit instelling criminele-inlichtingeneenheid ILT-IOD 2012"
 identifier: "BWBR0024867"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-15"
-last_updated: "2013-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024867"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9799803"
-version_id: "15911932"
-internal_id: "C21816311"
-label_id: "9776604"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024867/2013-01-15/0"
-intitule_bron: "Stcrt.2008-244"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-09"
-intitule_published: "2008-12-16"
-intitule_in_force: "2008-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-244"
-original_signed_date: "2008-12-09"
-original_published_date: "2008-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-1973"
-entry_into_force_date: "2008-12-18"
-jci_1_3: "jci1.3:c:BWBR0024867&z=2013-01-15&g=2013-01-15"
-jci_1_0: "1.0:c:BWBR0024867&g=2013-01-15"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling criminele-inlichtingeneenheid ILT-IOD 2012"
-signed_date: "2008-12-09"
-entry_into_force: "2008-12-18"
+publicatiedatum: 2008-12-18
+laatste_update: 2013-01-15
+status: geldig
+toestand: 2013-01-15
+bron: "https://wetten.overheid.nl/BWBR0024867"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van 9 december 2008, nr. BJZ2008117292, houdende de instelling van een criminele-inlichtingeneenheid VROM-IOD
-
-Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie;
-
-Gelet op [artikel 12, tweede lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **nationale criminele-inlichtingeneenheid:** eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
+- a. *nationale criminele-inlichtingeneenheid:* eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
 
-- b. **informantgegevens:** gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
+- b. *informantgegevens:* gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
 
-- c. **criminele-inlichtingen:** gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- c. *criminele-inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **CIE-officier van justitie:** de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid ILT-IOD;
+- d. *CIE-officier van justitie:* de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid ILT-IOD;
 
-- e. **ILT-IOD:** Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu;
+- e. *ILT-IOD:* Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu;
 
-- f. **verantwoordelijke:** Minister van Infrastructuur en Milieu.
+- f. *verantwoordelijke:* Minister van Infrastructuur en Milieu.
 
 2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de criminele-inlichtingeneenheid ILT-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=5&z=2013-01-15&g=2013-01-15), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=7&z=2013-01-15&g=2013-01-15), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=8&z=2013-01-15&g=2013-01-15), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=9&z=2013-01-15&g=2013-01-15).
 
@@ -80,9 +52,9 @@ Besluit:
 
 - d. het analyseren van criminele-inlichtingen en het aan de hand daarvan:
 
-- 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
+   - 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-- 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
+   - 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
 
 - e. het ter beschikking stellen van criminele-inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
@@ -145,57 +117,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Besluit instelling criminele-inlichtingeneenheid ILT-IOD 2012.
-
-## Bijlage I
-
-Het Criminele inlichtingenrapport dient de volgende verplichte rubrieken te bevatten:
-
-| Uniek registratienummer | Datum van registratie | Naam/nummer rapporteur |
-| --- | --- | --- |
-| Naam van de CIE | Regionummer (PL-code) | Telefoonnummer CIE |
-
-| Herkomstbron | Tekstveld |
-| --- | --- |
-| Openbron | Welke bron + datum |
-| Verkennend onderzoek | Korps / eenheid + Landelijk parketnummer en/of naam onderzoek |
-| Opsporingsonderzoek | Korps / eenheid + PV-nummer en/of naam onderzoek onderzoe |
-| Buitenlands opsporingsonderzoek | Land + uniek nummer en/of naam onderzoek + ontvangstregio |
-| Informant | Geen veld, niet relevant |
-| Anonieme bron | Naam opsporingsambtenaar die bericht ontvangt en PV-nummer |
-| Getuige | Naam + geb.datum + bedrijf/ instelling, tenzij de identiteit van de getuige afgeschermd wordt; in dat geval worden geen gegevens vermeld |
-| Waarneming opsporingsambtenaar buiten opsporingsonderzoek | Naam verbalisant en PV-nummer |
-
-| 11 | Operationeel te gebruiken |
-| --- | --- |
-| 01 | Alleen te gebruiken na overleg met de afzender |
-| 00 | Informatie met zware beperkingen voor gebruik |
-| 200 | Kan niet operationeel gebruikt worden, maar kan onder bepaalde voorwaarden wel voor coördinatie- en analysedoeleinden worden gebruikt. + Informatie met verhoogd afbreukrisico |
-| 300 | Kan niet operationeel gebruikt worden, maar kan onder bepaalde voorwaarden wel voor coördinatie- en analysedoeleinden worden gebruikt. + Informatie met bronbeschermingsbelangen |
-
-| In CIE-informatie genoemde herleidbare persoon: | In CIE-informatie genoemde herleidbare rechtspersoon: |
-| --- | --- |
-| – Achternaam | – Bedrijfs/handelsnaam |
-| – Voornaam | –KvK-code/inschrijvingsnummer |
-| – Geboortedatum | – Adres |
-| – Adres | – Vestigingsplaats |
-| – Status (verdachte, CIE-subject, relatie,) |   |
-
-De volgende twee rubrieken (evaluatiecode informant en evaluatiecode informatie afkomstig van informanten) zijn voor de eigen administratie van de CIE. Deze gegevens worden niet verstrekt buiten de CIE-structuur.
-
-| A | Betrouwbaar | B | Meestal betrouwbaar |
-| --- | --- | --- | --- |
-| C | Minder | X | Niet te beoordelen |
-|   | betrouwbaar/tot niet betrouwbaar |   |   |
-
-| 1 | Waargenomen (door bron zelf) |
-| --- | --- |
-| 2 | Gehoord (van iemand die erbij geweest is) |
-| 3 | Indirect gehoord (via via) |
-
-## Bijlage 2. Verwijsindex-gegevens
-
-### Overzicht van de digitaal aan te leveren gegevens aan de NCIE t.b.v. de verwijsindexen
-
-Opmerkingen:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

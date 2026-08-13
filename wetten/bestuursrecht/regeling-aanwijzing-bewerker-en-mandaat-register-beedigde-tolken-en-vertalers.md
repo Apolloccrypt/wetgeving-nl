@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 9 december, nr. 5577676/08, houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Justitie aan de raad voor rechtsbijstand te ’s-Hertogenbosch betreffende het register beëdigde tolken en vertalers (Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers)"
+citeertitel: "Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers"
 identifier: "BWBR0024993"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-01"
-last_updated: "2024-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024993"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9833943"
-version_id: "29607422"
-internal_id: "C42351651"
-label_id: "9810524"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024993/2024-06-01/0"
-intitule_bron: "Stcrt.2008-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-09"
-intitule_published: "2008-12-24"
-intitule_in_force: "2008-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-24408"
-original_signed_date: "2023-08-23"
-original_published_date: "2023-09-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-24408"
-entry_into_force_date: "2023-08-23"
-jci_1_3: "jci1.3:c:BWBR0024993&z=2024-06-01&g=2024-06-01"
-jci_1_0: "1.0:c:BWBR0024993&g=2024-06-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers"
-signed_date: "2023-08-23"
-entry_into_force: "2023-08-23"
+publicatiedatum: 2023-08-23
+laatste_update: 2024-06-01
+status: geldig
+toestand: 2024-06-01
+bron: "https://wetten.overheid.nl/BWBR0024993"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 9 december, nr. 5577676/08, houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Justitie aan de raad voor rechtsbijstand te ’s-Hertogenbosch betreffende het register beëdigde tolken en vertalers (Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:5),[10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en [artikel 2, tweede en derde lid, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Veiligheid en Justitie;
+- a. *Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **raad:** de raad voor rechtsbijstand;
+- b. *raad:* de raad voor rechtsbijstand;
 
-- c. **Wet:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- c. *Wet:* de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- d. **Besluit:** het [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
+- d. *Besluit:* het [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896);
 
-- e. **lijst:** de lijst, bedoeld in [artikel 2, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
+- e. *lijst:* de lijst, bedoeld in [artikel 2, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
 
 #### § 2. Aanwijzen bewerker register en bijhouder lijst
 
@@ -86,28 +60,24 @@ In deze regeling wordt verstaan onder:
 
 #### § 3a. Tijdelijk mandaat nadeelcompensatie
 
+##### Artikel 5a
+
+*Vervallen*
+
+#### § 4. Overgangs- en slotbepalingen
+
 ##### Artikel 6
 
 Ingetrokken worden:
 
-- a. De [regeling van 29 mei 2008, houdende verlening mandaat en machtiging inzake bezwaar en beroep betreffende het kwaliteitsregister tolken en vertalers aan de Raad voor rechtsbijstand te ’s-Hertogenbosch](https://wetten.overheid.nl/jci1.3:c:BWBR0023965);
+- a. De [regeling van 29 mei 2008, houdende verlening mandaat en machtiging inzake bezwaar en beroep betreffende het kwaliteitsregister tolken en vertalers aan de Raad voor rechtsbijstand te ’s-Hertogenbosch](https://wetten.overheid.nl/jci1.3:c:BWBR0023965);
 
-- b. De [tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0015070).
+- b. De [tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0015070).
 
 ##### Artikel 7
 
-Deze regeling treedt in werking op 1 januari 2009.
+Deze regeling treedt in werking op 1 januari 2009.
 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Vervallen
-
-#### § 4. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

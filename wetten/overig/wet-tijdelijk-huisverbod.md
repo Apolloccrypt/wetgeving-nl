@@ -1,57 +1,28 @@
 ---
 title: "Wet van 9 oktober 2008, houdende regels strekkende tot het opleggen van een tijdelijk huisverbod aan personen van wie een ernstige dreiging van huiselijk geweld uitgaat (Wet tijdelijk huisverbod)"
+citeertitel: "Wet tijdelijk huisverbod"
 identifier: "BWBR0024649"
-country: "nl"
-rank: "wet"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024649"
+categorie: "Overig"
 soort: "wet"
-stam_id: "9757753"
-version_id: "15817912"
-internal_id: "C21747661"
-label_id: "9734654"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024649/2020-07-01/0"
-intitule_bron: "Stb.2008-421"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-09"
-intitule_published: "2008-11-04"
-intitule_in_force: "2008-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2008-421"
-original_signed_date: "2008-10-09"
-original_published_date: "2008-11-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "30657"
-original_url_id: "stb-2008-421"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024649&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0024649&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet tijdelijk huisverbod"
-signed_date: "2008-10-09"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0024649"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 9 oktober 2008, houdende regels strekkende tot het opleggen van een tijdelijk huisverbod aan personen van wie een ernstige dreiging van huiselijk geweld uitgaat (Wet tijdelijk huisverbod)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om een maatregel in te voeren waarmee een persoon die een ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen met wie deze een huishouden deelt tijdelijk een huisverbod kan worden opgelegd teneinde de veiligheid van deze personen te waarborgen en een periode te creëren waarin maatregelen genomen kunnen worden om de dreiging van huiselijk geweld te doen wegnemen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- a. **ambtenaar van politie:** de ambtenaar van politie, bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de ambtenaar van politie, bedoeld in artikel 2, onder c, van die wet, voor zover hij is belast met de uitvoering van de politietaak;
+- a. *ambtenaar van politie:* de ambtenaar van politie, bedoeld in [artikel 2, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de ambtenaar van politie, bedoeld in artikel 2, onder c, van die wet, voor zover hij is belast met de uitvoering van de politietaak;
 
-- b. **huisverbod:** beschikking houdende een last tot het onmiddellijk verlaten van een bepaalde woning en een verbod tot het betreden van, zich ophouden bij of aanwezig zijn in die woning en een verbod om contact op te nemen met degenen die met de persoon tot wie de beschikking is gericht in dezelfde woning wonen of daarin anders dan incidenteel verblijven;
+- b. *huisverbod:* beschikking houdende een last tot het onmiddellijk verlaten van een bepaalde woning en een verbod tot het betreden van, zich ophouden bij of aanwezig zijn in die woning en een verbod om contact op te nemen met degenen die met de persoon tot wie de beschikking is gericht in dezelfde woning wonen of daarin anders dan incidenteel verblijven;
 
-- c. **uithuisgeplaatste:** degene aan wie een huisverbod is opgelegd.
+- c. *uithuisgeplaatste:* degene aan wie een huisverbod is opgelegd.
 
 ##### Artikel 2
 
@@ -139,7 +110,7 @@ De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste b
 
 ##### Artikel 10
 
-1. De beschikking waarbij het huisverbod met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), of [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01), is opgelegd of verlengd, wordt gedurende vijf jaren ter gemeentesecretarie bewaard en vervolgens vernietigd. De gedurende deze termijn ontvangen stukken betreffende het huisverbod worden daarbij gevoegd.
+1. De beschikking waarbij het huisverbod met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), of [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01), is opgelegd of verlengd, wordt gedurende vijf jaren ter gemeentesecretarie bewaard en vervolgens vernietigd. De gedurende deze termijn ontvangen stukken betreffende het huisverbod worden daarbij gevoegd.
 
 2. De persoonsgegevens, opgenomen in de beschikkingen of in de andere stukken, bedoeld in het eerste lid, worden verwerkt met het oog op het opleggen, het verlengen en de controle op de naleving van het huisverbod.
 
@@ -151,7 +122,7 @@ De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste b
 
 ##### Artikel 12
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel 13
 
@@ -159,7 +130,7 @@ De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is o
 
 ##### Artikel 14
 
-Wijzigt de Wet op de rechtsbijstand.
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ##### Artikel 15
 
@@ -172,5 +143,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet tijdelijk huisverbod.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

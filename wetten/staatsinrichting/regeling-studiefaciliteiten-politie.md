@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 april 2009, nr. 2009-0000225698, houdende regels betreffende het toekennen van studieverlof en vergoeding van studiekosten ten behoeve van politie-ambtenaren (Regeling studiefaciliteiten politie)"
+citeertitel: "Regeling studiefaciliteiten politie"
 identifier: "BWBR0025814"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-04"
-last_updated: "2025-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025814"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "10023123"
-version_id: "16383512"
-internal_id: "C22524791"
-label_id: "9999594"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025814/2025-09-04/0"
-intitule_bron: "Stcrt.2009-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-04-27"
-intitule_published: "2009-05-11"
-intitule_in_force: "2009-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-85"
-original_signed_date: "2009-04-27"
-original_published_date: "2009-05-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-6828"
-entry_into_force_date: "2009-05-13"
-jci_1_3: "jci1.3:c:BWBR0025814&z=2025-09-04&g=2025-09-04"
-jci_1_0: "1.0:c:BWBR0025814&g=2025-09-04"
-citeertitel_status: "officieel"
-short_title: "Regeling studiefaciliteiten politie"
-signed_date: "2009-04-27"
-entry_into_force: "2009-05-13"
+publicatiedatum: 2009-05-13
+laatste_update: 2025-09-04
+status: geldig
+toestand: 2025-09-04
+bron: "https://wetten.overheid.nl/BWBR0025814"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 april 2009, nr. 2009-0000225698, houdende regels betreffende het toekennen van studieverlof en vergoeding van studiekosten ten behoeve van politie-ambtenaren (Regeling studiefaciliteiten politie)
-
-Gelet op [artikel 58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=58), en [67, vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67);
-
-Besluit:
 
 ### Hoofdstuk 1. : Definities
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker, en de vrijwillige ambtenaar;
+- a. *ambtenaar:* de ambtenaar, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker, en de vrijwillige ambtenaar;
 
-- b. **bevoegd gezag:** het gezag, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- b. *bevoegd gezag:* het gezag, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- c. **functiegerichte opleiding:** een bij algemeen verbindend voorschrift verplicht gestelde of door het bevoegd gezag opgedragen opleiding die noodzakelijk is voor de huidige functie van de betrokken ambtenaar, met uitzondering van een krachtens [artikel 2c van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding;
+- c. *functiegerichte opleiding:* een bij algemeen verbindend voorschrift verplicht gestelde of door het bevoegd gezag opgedragen opleiding die noodzakelijk is voor de huidige functie van de betrokken ambtenaar, met uitzondering van een krachtens [artikel 2c van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding;
 
-- d. **loopbaangerichte opleiding:** een opleiding die noodzakelijk is voor het verrichten van een toekomstige functie en die past in de ontwikkelafspraken die het bevoegd gezag en de ambtenaar in een gesprek over een persoonlijk ontwikkelingsplan als bedoeld in [artikel 72 Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=72) hebben gemaakt;
+- d. *loopbaangerichte opleiding:* een opleiding die noodzakelijk is voor het verrichten van een toekomstige functie en die past in de ontwikkelafspraken die het bevoegd gezag en de ambtenaar in een gesprek over een persoonlijk ontwikkelingsplan als bedoeld in [artikel 72 Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=72) hebben gemaakt;
 
-- e. **niet-functiegerichte opleiding:** een opleiding die niet functie- of loopbaangericht is, maar toch in enige mate in het belang is van zowel de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) als de ambtenaar;
+- e. *niet-functiegerichte opleiding:* een opleiding die niet functie- of loopbaangericht is, maar toch in enige mate in het belang is van zowel de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) als de ambtenaar;
 
-- f. **zelfstudie-opleiding:** een opleiding die bestaat uit het zelfstandig bestuderen van voorgeschreven studiemateriaal zonder contactonderwijs op locatie;
+- f. *zelfstudie-opleiding:* een opleiding die bestaat uit het zelfstandig bestuderen van voorgeschreven studiemateriaal zonder contactonderwijs op locatie;
 
-- g. **studiebelastingsnorm:** het aantal door de onderwijsinstelling vastgestelde uren dat de ambtenaar geacht wordt te besteden aan het volgen van contactonderwijs, het verrichten van praktijkopdrachten en zelfstudie;
+- g. *studiebelastingsnorm:* het aantal door de onderwijsinstelling vastgestelde uren dat de ambtenaar geacht wordt te besteden aan het volgen van contactonderwijs, het verrichten van praktijkopdrachten en zelfstudie;
 
-- h. **contacturen:** de uren die de ambtenaar, conform de daartoe gestelde studiebelastingsnormen, besteedt aan het volgen van lessen en het afleggen van een examen op een locatie bij een opleidingsinstituut;
+- h. *contacturen:* de uren die de ambtenaar, conform de daartoe gestelde studiebelastingsnormen, besteedt aan het volgen van lessen en het afleggen van een examen op een locatie bij een opleidingsinstituut;
 
-- i. **studieverlof:** het verlof ten behoeve van de contacturen en het verrichten van praktijkopdrachten conform de daartoe gestelde studiebelastingsnormen van de onderwijsinstelling;
+- i. *studieverlof:* het verlof ten behoeve van de contacturen en het verrichten van praktijkopdrachten conform de daartoe gestelde studiebelastingsnormen van de onderwijsinstelling;
 
-- j. **zelfstudieverlof:** het verlof voor de uren die de ambtenaar aan zelfstudie ten behoeve van de opleiding besteedt, conform de daartoe gestelde studiebelastingsnormen van de onderwijsinstelling;
+- j. *zelfstudieverlof:* het verlof voor de uren die de ambtenaar aan zelfstudie ten behoeve van de opleiding besteedt, conform de daartoe gestelde studiebelastingsnormen van de onderwijsinstelling;
 
-- k. **studiekosten:** de kosten van cursus-, les-, college-, examen- en diplomagelden alsmede van verplicht voorgeschreven studiemateriaal met uitzondering van schrijfbehoeften en duurzame gebruiksartikelen inclusief bijkomende kosten.
+- k. *studiekosten:* de kosten van cursus-, les-, college-, examen- en diplomagelden alsmede van verplicht voorgeschreven studiemateriaal met uitzondering van schrijfbehoeften en duurzame gebruiksartikelen inclusief bijkomende kosten.
 
 ### Hoofdstuk 2. : Aanspraken
 
@@ -96,19 +70,19 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 - 1. Bij een hoog organisatiebelang:
 
-- a. studieverlof ten behoeve van contacturen en praktijkopdrachten voor 100%;
+   - a. studieverlof ten behoeve van contacturen en praktijkopdrachten voor 100%;
 
-- b. een vergoeding van de reis- en verblijfkosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064) waarbij de reis van en naar de onderwijsinstelling wordt aangemerkt als dienstreis;
+   - b. een vergoeding van de reis- en verblijfkosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064) waarbij de reis van en naar de onderwijsinstelling wordt aangemerkt als dienstreis;
 
-- c. een vergoeding van 100% van de studiekosten op declaratiebasis.
+   - c. een vergoeding van 100% van de studiekosten op declaratiebasis.
 
 - 2. Bij een laag organisatiebelang:
 
-- a. studieverlof ten behoeve van contacturen en praktijkopdrachten voor 50%;
+   - a. studieverlof ten behoeve van contacturen en praktijkopdrachten voor 50%;
 
-- b. een vergoeding van de reis- en verblijfkosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064) waarbij de reis van en naar de onderwijsinstelling wordt aangemerkt als dienstreis;
+   - b. een vergoeding van de reis- en verblijfkosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064) waarbij de reis van en naar de onderwijsinstelling wordt aangemerkt als dienstreis;
 
-- c. een vergoeding van 50% van de studiekosten op declaratiebasis.
+   - c. een vergoeding van 50% van de studiekosten op declaratiebasis.
 
 ##### Artikel 6
 
@@ -134,7 +108,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 - a. een vergoeding van de reis- en verblijfkosten op basis van het [Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064), waarbij de reis van en naar de onderwijsinstelling wordt aangemerkt als woon-werkverkeer;
 
-- b. een vergoeding van 50% van de studiekosten op declaratiebasis tot een maximum van € 1000 per kalenderjaar.
+- b. een vergoeding van 50% van de studiekosten op declaratiebasis tot een maximum van € 1000 per kalenderjaar.
 
 2. Iedere drie jaar wordt de hoogte van het in het eerste lid, onder b, genoemde bedrag herzien.
 
@@ -206,24 +180,8 @@ De ambtenaar behoudt de op het moment van inwerkingtreding van deze regeling ree
 
 ##### Artikel 14
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.
 
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
-
-## Bijlage. bij [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=10&z=2025-09-04&g=2025-09-04), van de Regeling studiefaciliteiten politie
-
-### Verklaring
-
-*
-
-[Artikel 67 van het Besluit Algemene Rechtspositie Politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67) (BARP)
-
-**
-
-[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=11&z=2009-05-13&g=2009-05-13)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

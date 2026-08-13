@@ -1,62 +1,37 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. MC-U-2898120, houdende aanwijzing categorieën van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorieën persoonsgegevens WMG)"
+citeertitel: "Regeling categorieën persoonsgegevens WMG"
 identifier: "BWBR0024926"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024926"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9814973"
-version_id: "15949412"
-internal_id: "C21856841"
-label_id: "9791614"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024926/2026-01-01/0"
-intitule_bron: "Stcrt.2008-247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-08"
-intitule_published: "2008-12-19"
-intitule_in_force: "2008-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-247"
-original_signed_date: "2008-12-08"
-original_published_date: "2008-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2213"
-entry_into_force_date: "2008-12-21"
-jci_1_3: "jci1.3:c:BWBR0024926&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0024926&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling categorieën persoonsgegevens WMG"
-signed_date: "2008-12-08"
-entry_into_force: "2008-12-21"
+publicatiedatum: 2008-12-21
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0024926"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. MC-U-2898120, houdende aanwijzing categorieën van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorieën persoonsgegevens WMG)
-
-Gelet op [artikel 65 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **bestuurder:** lid van raad van bestuur, raad van toezicht, eigenaar;
+- – *bestuurder:* lid van raad van bestuur, raad van toezicht, eigenaar;
 
-- –. **CAK:** CAK, genoemd in [artikel 6.1.1, eerste lid van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- – *CAK:* CAK, genoemd in [artikel 6.1.1, eerste lid van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- –. **categorie van persoonsgegevens:** een categorie als bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=60), onderscheiden in identificerende persoonsgegevens, medische persoonsgegevens en strafrechtelijke persoonsgegevens;
+- – *categorie van persoonsgegevens:* een categorie als bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=60), onderscheiden in identificerende persoonsgegevens, medische persoonsgegevens en strafrechtelijke persoonsgegevens;
 
-- –. **Inspectie gezondheidszorg:** Inspectie gezondheidszorg en jeugd;
+- – *Inspectie gezondheidszorg:* Inspectie gezondheidszorg en jeugd;
 
-- –. **medewerker:** natuurlijk persoon, werkzaam ten behoeve van een zorgaanbieder of een ziektekostenverzekeraar;
+- – *medewerker:* natuurlijk persoon, werkzaam ten behoeve van een zorgaanbieder of een ziektekostenverzekeraar;
 
-- –. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- – *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- –. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- – *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
 2. In deze regeling wordt onder zorgaanbieder mede verstaan degene bedoeld in [artikel 37, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=44), en een zorgaanbieder forensische zorg als bedoeld in de [Wet Forensische zorg, artikel 1.1, eerste lid, aanhef en onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1).
 
@@ -190,7 +165,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 6 van de
 
 ##### Artikel 6. inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 november 2008.
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 november 2008.
 
 ##### Artikel 7. citeertitel
 

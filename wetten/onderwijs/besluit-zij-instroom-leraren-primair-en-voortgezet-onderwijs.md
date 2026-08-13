@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 juli 2008 houdende regels over de zij-instroom van leraren in het primair en voortgezet onderwijs (Besluit zij-instroom leraren primair en voortgezet onderwijs)"
+citeertitel: "Besluit zij-instroom leraren primair en voortgezet onderwijs"
 identifier: "BWBR0024390"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024390"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "9701453"
-version_id: "15679862"
-internal_id: "C22168851"
-label_id: "9678574"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024390/2022-08-01/0"
-intitule_bron: "Stb.2008-336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-07-05"
-intitule_published: "2008-08-26"
-intitule_in_force: "2009-02-26"
-intitule_status: "goed"
-original_publication: "Stb.2008-336"
-original_signed_date: "2008-07-05"
-original_published_date: "2008-08-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-336"
-entry_into_force_date: "2009-03-01"
-jci_1_3: "jci1.3:c:BWBR0024390&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0024390&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit zij-instroom leraren primair en voortgezet onderwijs"
-signed_date: "2008-07-05"
-entry_into_force: "2009-03-01"
+publicatiedatum: 2009-03-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0024390"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 5 juli 2008 houdende regels over de zij-instroom van leraren in het primair en voortgezet onderwijs (Besluit zij-instroom leraren primair en voortgezet onderwijs)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 29 april 2008, nr. WJZ/11507 (2646), directie Wetgeving en Juridische Zaken, mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op de [artikelen 38a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38a), en [176i van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176i), [38a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38a), en [162l van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162l) en [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=38), [118l, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), en [118r van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118r);
-
-De Raad van State gehoord (advies van 5 juni 2008, nr. W05.08.0164/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 2 juli 2008, nr. WJZ/27997 (2646), directie Wetgeving en Juridische Zaken, mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -52,21 +20,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- ****assessment:**** onderdeel van het geschiktheidsonderzoek, bedoeld in [artikel 172, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.27, vierde lid, onderdeel b, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27);
+- **assessment:** onderdeel van het geschiktheidsonderzoek, bedoeld in [artikel 172, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.27, vierde lid, onderdeel b, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27);
 
-- ****bekwaamheidsonderzoek:**** bekwaamheidsonderzoek, bedoeld in [artikel 175 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [artikel 155 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.31 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.31);
+- **bekwaamheidsonderzoek:** bekwaamheidsonderzoek, bedoeld in [artikel 175 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [artikel 155 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.31 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.31);
 
-- ****betrokkene:**** degene op wie het geschiktheidsonderzoek of het bekwaamheidsonderzoek betrekking heeft;
+- **betrokkene:** degene op wie het geschiktheidsonderzoek of het bekwaamheidsonderzoek betrekking heeft;
 
-- ****bevoegd gezag:**** bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- ****geschiktheidsonderzoek:**** geschiktheidsonderzoek, bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.27 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27);
+- **geschiktheidsonderzoek:** geschiktheidsonderzoek, bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.27 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27);
 
-- ****instellingsbestuur:**** instellingsbestuur dat op grond van [artikel 174 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=174), [artikel 154 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=154) of [artikel 7.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.29) bevoegd is om een geschiktheidsverklaring af te geven dan wel een instellingsbestuur als bedoeld in [artikel 170, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), [artikel 150, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150) en [artikel 7.26 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.26) dat bevoegd is een bekwaamheidsonderzoek af te nemen.
+- **instellingsbestuur:** instellingsbestuur dat op grond van [artikel 174 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=174), [artikel 154 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=154) of [artikel 7.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.29) bevoegd is om een geschiktheidsverklaring af te geven dan wel een instellingsbestuur als bedoeld in [artikel 170, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), [artikel 150, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150) en [artikel 7.26 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.26) dat bevoegd is een bekwaamheidsonderzoek af te nemen.
 
 ##### Artikel 2. Aanwijzing onderwijs in beroepsgerichte vakken
 
-De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) en [7.27, derde lid, onderdeel b, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), zijn de volgende van de in [artikel 2.21, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.21) genoemde vakken:
+De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) en [7.27, derde lid, onderdeel b, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), zijn de volgende van de in [artikel 2.21, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.21) genoemde vakken:
 
 - a. bouwen, wonen en interieur;
 
@@ -194,6 +162,10 @@ Aan degene die met goed gevolg het bekwaamheidsonderzoek heeft afgesloten, verst
 
 Voor zover de betrokkene de werkzaamheden ten aanzien waarvan hem een geschiktheidsverklaring is verstrekt, gelijktijdig verricht bij twee of meer bevoegde gezagsorganen, dragen deze bevoegde gezagsorganen er zorg voor dat de overeenkomsten, bedoeld in de [artikelen 38a, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38a), [38a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38a) of [7.30 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.30), waarbij zij ten aanzien van de betrokkene partij zijn, op elkaar worden afgestemd. Zonodig wordt een al gesloten overeenkomst daartoe gewijzigd.
 
+##### Artikel 12a. Omhangbepaling
+
+Dit besluit berust mede op de [artikelen 7.27, derde lid, onderdeel b, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), en [7.30, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.30).
+
 ##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
@@ -201,11 +173,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit zij-instroom leraren primair en voortgezet onderwijs.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 12a. Omhangbepaling
-
-Dit besluit berust mede op de [artikelen 7.27, derde lid, onderdeel b, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), en [7.30, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.30).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

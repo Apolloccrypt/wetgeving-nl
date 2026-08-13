@@ -1,48 +1,22 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 september 2008, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/2008/21558, tot intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2008)"
+citeertitel: "SZW-intrekkingsregeling 2008"
 identifier: "BWBR0024509"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-09-25"
-last_updated: "2008-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024509"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9724543"
-version_id: "15738932"
-internal_id: "C21519361"
-label_id: "9701704"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024509/2008-09-25/0"
-intitule_bron: "Stcrt.2008-184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-12"
-intitule_published: "2008-09-23"
-intitule_in_force: "2008-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-184"
-original_signed_date: "2008-09-12"
-original_published_date: "2008-09-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-184-p9-SC87527"
-entry_into_force_date: "2008-09-25"
-jci_1_3: "jci1.3:c:BWBR0024509&z=2008-09-25&g=2008-09-25"
-jci_1_0: "1.0:c:BWBR0024509&g=2008-09-25"
-citeertitel_status: "officieel"
-short_title: "SZW-intrekkingsregeling 2008"
-signed_date: "2008-09-12"
-entry_into_force: "2008-09-25"
+publicatiedatum: 2008-09-25
+laatste_update: 2008-09-25
+status: geldig
+toestand: 2008-09-25
+bron: "https://wetten.overheid.nl/BWBR0024509"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 september 2008, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/2008/21558, tot intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2008)
-
-Gelet op het [Buitengewoon besluit arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014), de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), de [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754), de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), de Wet aanpassing uitkeringsregelingen overheveling opslagpremies, de [Wet betreffende verplichte deelneming in een beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002830), de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987), de [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698), de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), de Wet op de inkomstenbelasting 1994, de [Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317), de [Wet Sociale Werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de Wet arbeid buitenlandse werknemers, [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Invoeringswet Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015704), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), de Verordening (EEG) nr. 4253/88 van de Raad van de Europese Gemeenschappen van 19 december 1988 (tot de coördinatie van de bijstandsverlening uit de onderscheiden Structuurfondsen enerzijds en van die bijstandsverlening met die van de Europese Investeringsbank en de andere bestaande financieringsinstrumenten anderzijds (PbEG L 374)), de Verordening (EG) Nr. 1260/1999 van de Raad van 21 juni 1999 houdende algemene bepalingen inzake de Structuurfondsen (PbEG. L 161), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), het [Besluit aanpassing inkomensbesluit i.o.a.w. overheveling opslagpremies](https://wetten.overheid.nl/jci1.3:c:BWBR0004668), het [Besluit aanpassing inkomensbesluit IOAZ overheveling opslagpremies](https://wetten.overheid.nl/jci1.3:c:BWBR0004667), de [Regeling verslaglegging](https://wetten.overheid.nl/jci1.3:c:BWBR0010066), het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498), de [Subsidieregeling emancipatie-ondersteuning 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009242), de [Subsidieregeling Dagindeling ESF-3](https://wetten.overheid.nl/jci1.3:c:BWBR0014156), het [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182), het [Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070), het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317), het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353), het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), het [Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020);
-
-Besluiten:
 
 #### § 1. Intrekking regelingen
 
-##### Artikel I. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+##### Artikel I. Arbeidsomstandighedenwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -72,9 +46,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel IV. Wet op het ter beschikking stellen van arbeidskrachten
 
-De [Regeling van 25 november 1985 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 85/4508, tot instelling van een Commissie Bezwaarschriften inzake de Wet op het ter beschikking stellen van arbeidskrachten](onbekend) (Stcrt. 237) wordt ingetrokken.
+De [Regeling van 25 november 1985 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 85/4508, tot instelling van een Commissie Bezwaarschriften inzake de Wet op het ter beschikking stellen van arbeidskrachten](https://wetten.overheid.nl/BWBR0003886) (Stcrt. 237) wordt ingetrokken.
 
-##### Artikel V. [Buitengewoon besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
+##### Artikel V. Buitengewoon besluit Arbeidsverhoudingen 1945
 
 De volgende regelingen worden ingetrokken:
 
@@ -96,13 +70,13 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Bijdrageregeling 1991 incentive Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005576);
 
-- c. [Bijdrageregeling 1991 intensivering bijzondere bijstand](onbekend);
+- c. Bijdrageregeling 1991 intensivering bijzondere bijstand;
 
 - d. [Bijdrageregeling 1992 incentive Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005970);
 
 - e. [Bijdrageregeling 1993 incentive Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007205).
 
-##### Artikel VII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+##### Artikel VII. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
 De volgende regelingen worden ingetrokken:
 
@@ -112,7 +86,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. [Besluit rekenregels i.o.a.w. en i.o.a.z. overheveling opslagpremies](https://wetten.overheid.nl/jci1.3:c:BWBR0004699).
 
-##### Artikel VIII. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel VIII. Algemene Kinderbijslagwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -134,15 +108,15 @@ De volgende regelingen worden ingetrokken:
 
 - i. [Regeling indexering AKW- en TOG-bedragen januari 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020710).
 
-##### Artikel IX. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel IX. Algemene Ouderdomswet
 
 De [Wijzigingsregeling sociale verzekeringen 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013225) wordt ingetrokken.
 
-##### Artikel X. [Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel X. Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten
 
 De [Regeling van 22 september 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. SV/R&S/05/73154, houdende regels omtrent de hoogte van aan REA-scholingsinstituten te verstrekken subsidie (Overgangsregeling REA-scholingsinstituten)](https://wetten.overheid.nl/jci1.3:c:BWBR0018794), (Stcrt. 188) wordt ingetrokken.
 
-##### Artikel XI. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel XI. Werkloosheidswet
 
 De volgende regelingen worden ingetrokken:
 
@@ -154,15 +128,15 @@ De volgende regelingen worden ingetrokken:
 
 - d. Regeling van 19 mei 1994 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 942397, tot wijziging van de Regeling gelijkstelling niet-gewerkte weken met gewerkte weken (Wijzigingsregeling Besluit vaststelling regels ex artikel 17 Werkloosheidswet), (Stcrt. 105).
 
-##### Artikel XII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel XII. Ziektewet
 
 Het [Besluit van 26 april 1985 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. SV/85/1531, houdende maximering van ziekengelduitkering ten aanzien van zieke werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0003787), (Stcrt. 82) wordt ingetrokken.
 
-##### Artikel XIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel XIII. Wet structuur uitvoeringsorganisatie werk en inkomen
 
 De [Regeling vrijstelling Sofi-nummer volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008572) wordt ingetrokken.
 
-##### Artikel XIV. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+##### Artikel XIV. Wet sociale werkvoorziening
 
 De volgende regelingen worden ingetrokken:
 
@@ -170,11 +144,11 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Regeling van 13 juli 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/RAW/01/30412, houdende verlenging Beleidsregels vaststelling subsidie Wet sociale werkvoorziening voor het jaar 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012688), (Stcrt. 136);
 
-- c. [Besluit tijdelijke extra-vergoeding sociale werkvoorziening](onbekend);
+- c. [Besluit tijdelijke extra-vergoeding sociale werkvoorziening](https://wetten.overheid.nl/BWBR0003462);
 
 - d. [Besluit van 13 december 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. BV/SW/BJF/36405, tot instelling van een Commissie ‘Toetsing toekomstbestendigheid Wet Sociale Werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0006304)’, (Stcrt. 240).
 
-##### Artikel XV. [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
+##### Artikel XV. Wet bescherming persoonsgegevens
 
 De volgende regelingen worden ingetrokken:
 
@@ -182,7 +156,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Privacyreglement klachtenregistratie en ongevallenregistratie Directoraat-Generaal van de Arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0005389).
 
-##### Artikel XVI. [Subsidieregeling emancipatie-ondersteuning 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009242)
+##### Artikel XVI. Subsidieregeling emancipatie-ondersteuning 1998
 
 De volgende regelingen worden ingetrokken:
 
@@ -204,7 +178,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van 28 november 1983 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, houdende richtlijnen betreffende vrijwillige voorzieningen in beroepspensioenregelingen, die in het kader van de uitvoering van de Wet betreffende verplichte deelneming in een beroepspensioenregeling waar nodig zullen worden gehanteerd bij verzoeken om verplichtstelling van de deelneming in een beroepspensioenregeling of de wijziging daarvan, en bij verzoeken om afgifte van een verklaring van geen bezwaar ten aanzien van wijzigingen in de statuten en reglementen van de betreffende rechtspersoon, (Stcrt. 231).
 
-##### Artikel XVIII. [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754)
+##### Artikel XVIII. Kaderwet SZW-subsidies
 
 De volgende regelingen worden ingetrokken:
 
@@ -234,7 +208,7 @@ De volgende regelingen worden ingetrokken:
 
 - m. [Besluit van 5 maart 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/93/328, tot instelling van een projectgroep ‘vergroting van de deelname van vrouwen aan politieke en maatschappelijke besluitvorming’](https://wetten.overheid.nl/jci1.3:c:BWBR0005896), (Stcrt. 46).
 
-##### Artikel XIX. [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458)
+##### Artikel XIX. Wet overige OCW-subsidies
 
 De volgende regelingen worden ingetrokken:
 
@@ -272,7 +246,7 @@ De volgende regelingen worden ingetrokken:
 
 - j. [Regeling van 21 juni 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/ESM/01/40870, tot instelling van een Monitorcomité ESF3](https://wetten.overheid.nl/jci1.3:c:BWBR0012596), (Stcrt. 118).
 
-##### Artikel XXI. [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159)
+##### Artikel XXI. Kaderwet adviescolleges
 
 De [Vergoedingenregeling Adviescommissie Arbeidsongeschiktheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011499) wordt ingetrokken.
 
@@ -294,23 +268,23 @@ De volgende regelingen worden ingetrokken:
 
 - g. [Regeling van 1 september 1995 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/AAB/95/5683, tot instelling van een Comité van Toezicht voor de uitvoering van de ESF-subsidieregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007533) (Stcrt. 172).
 
-##### Artikel XXIII. [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402)
+##### Artikel XXIII. Kernenergiewet
 
 Het [Organisatie- en mandaatbesluit KFD 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006645) wordt ingetrokken.
 
-##### Artikel XXIV. [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
+##### Artikel XXIV. Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten
 
 De [Regeling van 23 oktober 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/A&M/2001/60856, tot wijziging van het Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0012911) (Stcrt. 207) wordt ingetrokken.
 
-##### Artikel XXV. [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950)
+##### Artikel XXV. Algemeen Rijksambtenarenreglement
 
 De [Regeling van 26 oktober 2000 van de Minister van Sociale Zaken en Werkgelegenheid, nr. PO&I/Beleid/2000/51620, houdende een Regeling tot mandaatverlening aan het bestuur van USZO B.V.](https://wetten.overheid.nl/jci1.3:c:BWBR0011737) (Stcrt. 209) wordt ingetrokken.
 
-##### Artikel XXVI. [Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020)
+##### Artikel XXVI. Coördinatiebesluit organisatie en formatie rijksdienst 2007
 
 De [Regeling van 11 februari 2005 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. ARBO/P&G/2005/9284, tot verlening van mandaat aan de Directeur-Generaal Arbeidsomstandigheden en Sociale Verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018011) (Stcrt. 35) wordt ingetrokken.
 
-##### Artikel XXVII. [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317)
+##### Artikel XXVII. Vacatiegeldenbesluit 1988
 
 De [Regeling van 19 december 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/IR/2005/100769a, tot toekenning van de vergoeding aan de leden van de werkgroep ‘Gelijke beloning, dat werkt!’](https://wetten.overheid.nl/jci1.3:c:BWBR0019331) (Stcrt. 250) wordt ingetrokken.
 
@@ -343,5 +317,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel XXXI. Citeertitel
 
 Deze regeling wordt aangehaald als: SZW-intrekkingsregeling 2008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

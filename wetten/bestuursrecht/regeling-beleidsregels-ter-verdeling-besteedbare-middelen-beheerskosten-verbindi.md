@@ -1,50 +1,27 @@
 ---
 title: "Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009"
 identifier: "BWBR0025242"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-02-07"
-last_updated: "2010-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025242"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "9890693"
-version_id: "17125762"
-internal_id: "C23631371"
-label_id: "9867154"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025242/2010-02-07/0"
-intitule_bron: "Stcrt.2009-18"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-01-28"
-intitule_in_force: "2009-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1653"
-original_published_date: "2010-02-05"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-1653"
-entry_into_force_date: "2010-02-07"
-jci_1_3: "jci1.3:c:BWBR0025242&z=2010-02-07&g=2010-02-07"
-jci_1_0: "1.0:c:BWBR0025242&g=2010-02-07"
-citeertitel_status: "officieel"
-entry_into_force: "2010-02-07"
+publicatiedatum: 2010-02-07
+laatste_update: 2010-02-07
+status: geldig
+toestand: 2010-02-07
+bron: "https://wetten.overheid.nl/BWBR0025242"
+opgehaald: 2026-08-13
 ---
+
 # Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009
-
-Gelet op [artikel 91, eerste lid Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5, eerste en tweede lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024986);
-
-Heeft in zijn vergadering van 15 december 2008 besloten:
 
 ##### Artikel 1
 
 Dit besluit verstaat onder:
 
-- a. **regio:** regio zoals genoemd in de Wijziging aanwijzing van administratie-instellingen bijzondere ziektekosten;
+- a. *regio:* regio zoals genoemd in de Wijziging aanwijzing van administratie-instellingen bijzondere ziektekosten;
 
-- b. **budgethouder:** houder van een persoonsgebonden budget krachtens [subsidieparagraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
+- b. *budgethouder:* houder van een persoonsgebonden budget krachtens [subsidieparagraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
 
-- c. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
+- c. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
 ##### Artikel 2
 
@@ -98,18 +75,6 @@ Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.n
 
 2. Bij de nadere vaststelling, bedoeld in het eerste lid, controleert het college of de verbindingskantoren aan de voorwaarden genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=6&z=2010-02-07&g=2010-02-07) hebben voldaan.
 
-##### Artikel 8
-
-Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2009.
-
-##### Artikel 9
-
-Dit besluit kan worden aangehaald als:
-
-Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a
 
 1. Voor verbindingskantoren waarvan het college op grond van [artikel 4.6 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) heeft vastgesteld dat deze per 31 december 2009 een negatieve reserve hebben die groter is dan 10 procent van het op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=7&z=2010-02-07&g=2010-02-07) nader vastgestelde budget, stelt het college een tegemoetkoming vast.
@@ -122,4 +87,12 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Binnen drie maanden nadat de Nederlandse Zorgautoriteit haar Rapport uitvoering AWBZ 2009 voor alle verbindingskantoren heeft uitgebracht, stelt het college de tegemoetkoming definitief vast, overeenkomstig het bepaalde in het vierde lid.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 8
+
+Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2009.
+
+##### Artikel 9
+
+Dit besluit kan worden aangehaald als:
+
+Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009.

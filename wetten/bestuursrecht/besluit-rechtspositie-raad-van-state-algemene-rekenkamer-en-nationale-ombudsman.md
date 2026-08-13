@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 26 januari 2009, houdende nadere regeling van de rechtspositie van de vice-president van de Raad van State, de staatsraden, de president en overige leden van de Algemene Rekenkamer, alsmede van de Nationale ombudsman en de substituut-ombudsmannen (Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman)"
+citeertitel: "Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman"
 identifier: "BWBR0025278"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025278"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9898843"
-version_id: "18138482"
-internal_id: "C25219741"
-label_id: "9875344"
-dtd_version: "2.0"
-original_entry_into_force: "2010-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025278/2026-01-01/0"
-intitule_bron: "Stb.2009-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-01-26"
-intitule_published: "2009-02-12"
-intitule_in_force: "2009-02-12"
-intitule_status: "goed"
-original_publication: "Stb.2010-795"
-original_signed_date: "2010-11-22"
-original_published_date: "2010-12-03"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-795"
-entry_into_force_date: "2010-11-22"
-jci_1_3: "jci1.3:c:BWBR0025278&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0025278&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman"
-signed_date: "2010-11-22"
-entry_into_force: "2010-11-22"
+publicatiedatum: 2010-11-22
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0025278"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 26 januari 2009, houdende nadere regeling van de rechtspositie van de vice-president van de Raad van State, de staatsraden, de president en overige leden van de Algemene Rekenkamer, alsmede van de Nationale ombudsman en de substituut-ombudsmannen (Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 december 2008, 2008-00000558625, directie Constitutionele Zaken en Wetgeving,
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=2), en [3, tweede lid, van de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=3) en [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125);
-
-De Raad van State gehoord (advies van 7 januari 2009, nr. W04.08.0567/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 januari 2009, nr. 2009-0000011628;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding, indien zij zich met de verhuizing binnen een afstand van 25 kilometer van de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman hebben gevestigd en de afstand tussen de oude woning en de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman ten minste 50 kilometer bedroeg.
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding, indien zij zich met de verhuizing binnen een afstand van 25 kilometer van de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman hebben gevestigd en de afstand tussen de oude woning en de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman ten minste 50 kilometer bedroeg.
 
 2. De verhuiskostenvergoeding bestaat uit:
 
@@ -70,13 +38,17 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. De leden van de Raad van State en de staatsraden ontvangen op de voet van hetgeen hieromtrent voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in de laatstelijk afgesloten collectieve arbeidsovereenkomst is overeengekomen een vergoeding van reis- en verblijfkosten.
 
+##### Artikel 3a
+
+De vice-president van de Raad van State en de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, de leden van de Raad van State en de staatsraden, de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag dat voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in de laatstelijk afgesloten collectieve arbeidsovereenkomst is overeengekomen.
+
 ##### Artikel 4
 
 1. De vice-president van de Raad van State heeft voor de duur van vervulling van zijn ambt een dienstauto met chauffeur ter beschikking.
 
 2. Ten behoeve van het woon-werkverkeer van de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen worden de noodzakelijke faciliteiten ter beschikking gesteld. Indien aan deze functionarissen voor dienstreizen en woon-werkverkeer een dienstauto ter beschikking wordt gesteld, zijn het derde tot en met zesde lid van toepassing.
 
-3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,82 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,82 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 4. Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
@@ -140,7 +112,7 @@ waarin:
 
 M = het bedrag van de vergoeding;
 
-CAT = de catalogusprijs van de dienstauto, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, verminderd met het deel van de catalogusprijs, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, dat toerekenbaar is aan buitengewone beveiligingsmaatregelen;
+CAT = de catalogusprijs van de dienstauto, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, verminderd met het deel van de catalogusprijs, met inbegrip van belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen, dat toerekenbaar is aan buitengewone beveiligingsmaatregelen;
 
 P = het toepasselijke percentage, genoemd in [artikel 13bis, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis).
 
@@ -162,15 +134,15 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 470,01;
+- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 470,01;
 
-- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 391,14.
+- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 391,14.
 
 3. De staatsraden ontvangen voor de kosten die aan de vervulling van het ambt zijn verbonden en die voor eigen rekening komen een zodanig deel van het bedrag, bedoeld in het tweede lid, onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
 
 4. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
-5. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
+5. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
 ##### Artikel 7
 
@@ -188,7 +160,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties treft voor de Nation
 
 ##### Artikel 10
 
-Wijzigt het Reisbesluit buitenland.
+*Wijzigt het Reisbesluit buitenland.*
 
 ##### Artikel 11
 
@@ -204,6 +176,10 @@ De volgende besluiten worden ingetrokken:
 
 - e. Het [besluit van 28 april 1982, houdende vaststelling van de regeling betreffende de uitkering die na het overlijden van Ministers, Commissarissen des Konings, krachtens Grondwet of wet voor hun leven aangestelde ambtenaren, de Nationale ombudsman en substituut-ombudsmannen zal worden uitgekeerd](https://wetten.overheid.nl/jci1.3:c:BWBR0003493) (Stb. 308).
 
+##### Artikel 11a
+
+*Vervallen*
+
 ##### Artikel 12
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
@@ -215,15 +191,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a
-
-De vice-president van de Raad van State en de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, de leden van de Raad van State en de staatsraden, de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen hebben recht op de vergoeding van gemaakte kosten voor verlies, diefstal of beschadiging van voor de dienstreis meegenomen noodzakelijke bagage tot ten hoogste het bedrag dat voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in de laatstelijk afgesloten collectieve arbeidsovereenkomst is overeengekomen.
-
-##### Artikel 11a
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

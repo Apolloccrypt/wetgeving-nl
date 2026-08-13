@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 december 2008, houdende regels inzake de kwaliteit en integriteit van beëdigde tolken en vertalers (Besluit beëdigde tolken en vertalers)"
+citeertitel: "Besluit beëdigde tolken en vertalers"
 identifier: "BWBR0024896"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024896"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9807603"
-version_id: "15936182"
-internal_id: "C21843021"
-label_id: "9784444"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024896/2020-07-01/0"
-intitule_bron: "Stb.2008-555"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-11"
-intitule_published: "2008-12-22"
-intitule_in_force: "2008-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2008-555"
-original_signed_date: "2008-12-11"
-original_published_date: "2008-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-555"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBR0024896&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0024896&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit beëdigde tolken en vertalers"
-signed_date: "2008-12-11"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0024896"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 11 december 2008, houdende regels inzake de kwaliteit en integriteit van beëdigde tolken en vertalers (Besluit beëdigde tolken en vertalers)
-
-Op de voordracht van Onze Minister van Justitie van 15 juli 2008, nr. 5554808/08/6;
-
-Gelet op de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=8), [16, vierde lid, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16);
-
-De Raad van State gehoord (advies van 20 augustus 2008, nr. W03.08.0302/II);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie van 4 december 2008, nr. 5576160;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
+- a. *wet:* de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704);
 
-- b. **commissie:** de commissie beëdigde tolken en vertalers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=2&z=2020-07-01&g=2020-07-01);
+- b. *commissie:* de commissie beëdigde tolken en vertalers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&hoofdstuk=2&artikel=2&z=2020-07-01&g=2020-07-01);
 
-- c. **klachtencommissie:** de klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16).
+- c. *klachtencommissie:* de klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16).
 
 ### Hoofdstuk 2. De commissie beëdigde tolken en vertalers
 
@@ -88,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. De aanvraag tot inschrijving
 
@@ -114,9 +82,9 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 ##### Artikel 7
 
-1. Voor de behandeling van de aanvraag tot inschrijving in het register is de verzoeker een bedrag van € 125,– verschuldigd.
+1. Voor de behandeling van de aanvraag tot inschrijving in het register is de verzoeker een bedrag van € 125,– verschuldigd.
 
-2. Voor de behandeling van de aanvraag tot verlenging van de inschrijving in het register is de verzoeker een bedrag van € 75,– verschuldigd.
+2. Voor de behandeling van de aanvraag tot verlenging van de inschrijving in het register is de verzoeker een bedrag van € 75,– verschuldigd.
 
 3. Indien een verzoeker een aanvraag tot inschrijving of verlenging indient voor zowel tolk als vertaler of voor meer dan één bron- of doeltaal, is slechts eenmaal het betrokken bedrag verschuldigd.
 
@@ -130,11 +98,11 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 - a. hij beschikt over een of meer van de volgende getuigschriften waaruit blijkt dat hij met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tolk of vertaler als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682):
 
-- 1°. een getuigschrift waaruit blijkt dat het recht is verkregen om de titel baccalaureus te voeren;
+   - 1°. een getuigschrift waaruit blijkt dat het recht is verkregen om de titel baccalaureus te voeren;
 
-- 2°. een getuigschrift waaruit blijkt dat de graad Bachelor is verleend; of
+   - 2°. een getuigschrift waaruit blijkt dat de graad Bachelor is verleend; of
 
-- 3°. een getuigschrift waaruit blijkt dat de graad Master is verleend;
+   - 3°. een getuigschrift waaruit blijkt dat de graad Master is verleend;
 
 - b. hij anderszins kan aantonen te voldoen aan de wettelijke competenties, waaronder taalvaardigheid in bron- en doeltaal op niveau C1 van het Europees Referentiekader voor Talen.
 
@@ -156,21 +124,21 @@ Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een 
 
 1. Bij de inschrijving in het register worden van een tolk of vertaler ten minste de volgende gegevens opgenomen:
 
-- –. de naam;
+- – de naam;
 
-- –. de voornaam of voornamen;
+- – de voornaam of voornamen;
 
-- –. de contactgegevens;
+- – de contactgegevens;
 
-- –. de aanduiding of betrokkene tolk of vertaler is;
+- – de aanduiding of betrokkene tolk of vertaler is;
 
-- –. het geslacht;
+- – het geslacht;
 
-- –. de geboortedatum;
+- – de geboortedatum;
 
-- –. de nationaliteit; en
+- – de nationaliteit; en
 
-- –. de bron- en de doeltaal dan wel de bron- en de doeltalen.
+- – de bron- en de doeltaal dan wel de bron- en de doeltalen.
 
 2. Indien een tolk of vertaler schriftelijk aantoont over overige specifieke bekwaamheden te beschikken, kunnen deze bekwaamheden op diens verzoek in het register worden vermeld.
 
@@ -238,10 +206,8 @@ De klachtencommissie stelt een reglement op ter regeling van haar werkwijze.
 
 ##### Artikel 20
 
-De [artikelen 1 tot en met 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1) en dit besluit treden in werking met ingang van 1 januari 2009.
+De [artikelen 1 tot en met 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1) en dit besluit treden in werking met ingang van 1 januari 2009.
 
 ##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit beëdigde tolken en vertalers.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

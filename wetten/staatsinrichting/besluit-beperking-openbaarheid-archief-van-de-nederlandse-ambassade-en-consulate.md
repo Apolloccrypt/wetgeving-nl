@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2008, nr. DDI/ST/reg. 037/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974"
+citeertitel: "Besluit beperking openbaarheid archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974"
 identifier: "BWBR0024616"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-10-19"
-last_updated: "2008-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024616"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9751703"
-version_id: "15804522"
-internal_id: "C21596881"
-label_id: "9728544"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024616/2008-10-19/0"
-intitule_bron: "Stcrt.2008-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-08"
-intitule_published: "2008-10-17"
-intitule_in_force: "2008-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-202"
-original_signed_date: "2008-10-08"
-original_published_date: "2008-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-230"
-entry_into_force_date: "2008-10-19"
-jci_1_3: "jci1.3:c:BWBR0024616&z=2008-10-19&g=2008-10-19"
-jci_1_0: "1.0:c:BWBR0024616&g=2008-10-19"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974"
-signed_date: "2008-10-08"
-entry_into_force: "2008-10-19"
+publicatiedatum: 2008-10-19
+laatste_update: 2008-10-19
+status: geldig
+toestand: 2008-10-19
+bron: "https://wetten.overheid.nl/BWBR0024616"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2008, nr. DDI/ST/reg. 037/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,7 +50,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ##### Artikel 3
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024616&artikel=2&z=2008-10-19&g=2008-10-19), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024616&artikel=2&z=2008-10-19&g=2008-10-19), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/BWBR0024616) bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
 ##### Artikel 4
 
@@ -89,7 +63,3 @@ Het [Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage
-
-Dit besluit zal met de toelichting en de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974’.

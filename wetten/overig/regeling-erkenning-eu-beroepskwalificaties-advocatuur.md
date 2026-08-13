@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5561403/08, houdende nadere regels ten aanzien van de erkenning van beroepskwalificaties voor advocaten (Regeling erkenning EG-beroepskwalificaties advocatuur)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties advocatuur"
 identifier: "BWBR0024507"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-08-26"
-last_updated: "2016-08-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024507"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "9724233"
-version_id: "15738342"
-internal_id: "C21518751"
-label_id: "9701184"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024507/2016-08-26/0"
-intitule_bron: "Stcrt.2008-184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-02"
-intitule_published: "2008-09-23"
-intitule_in_force: "2008-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-184"
-original_signed_date: "2008-09-02"
-original_published_date: "2008-09-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-184-p7-SC87572"
-entry_into_force_date: "2008-09-25"
-jci_1_3: "jci1.3:c:BWBR0024507&z=2016-08-26&g=2016-08-26"
-jci_1_0: "1.0:c:BWBR0024507&g=2016-08-26"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties advocatuur"
-signed_date: "2008-09-02"
-entry_into_force: "2008-09-25"
+publicatiedatum: 2008-09-25
+laatste_update: 2016-08-26
+status: geldig
+toestand: 2016-08-26
+bron: "https://wetten.overheid.nl/BWBR0024507"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5561403/08, houdende nadere regels ten aanzien van de erkenning van beroepskwalificaties voor advocaten (Regeling erkenning EG-beroepskwalificaties advocatuur)
-
-Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -68,9 +42,9 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - b. een kopie van de opleidingstitels:
 
-- i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het beroep advocaat en waaruit tevens de duur van de opleiding blijkt, of
+   - i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het beroep advocaat en waaruit tevens de duur van de opleiding blijkt, of
 
-- ii. die door het in een derde land bevoegde gezag is afgegeven, gewaarmerkt door dat bevoegde gezag en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste één jaar beroepservaring in de advocatuur heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
+   - ii. die door het in een derde land bevoegde gezag is afgegeven, gewaarmerkt door dat bevoegde gezag en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste één jaar beroepservaring in de advocatuur heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
 
 - c. een overzicht van vakken die onderdeel hebben uitgemaakt van de opleidingen die ten grondslag liggen aan de opleidingstitels, bedoeld in onderdeel b, en waarin de aanvrager met goed gevolg examen heeft afgelegd alsmede een leerstofomschrijving van deze vakken en de daarbij behorende studietijd;
 
@@ -118,7 +92,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - d. wordt geïnformeerd over degene aan wie de kosten van de proeve van bekwaamheid of van het examen moeten worden voldaan, en
 
-- e. vervallen.
+- e. *vervallen.*
 
 ##### Artikel 6
 
@@ -139,5 +113,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties advocatuur.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,22 @@
 ---
 title: "Besluit van 26 augustus 2008, tot wijziging van het Besluit handel in emissierechten in verband met verlenging NOx-opt-out, aanscherping prestatienormen en enkele andere wijzigingen (Aanpassingsbesluit handel in emissierechten III)"
+citeertitel: "Aanpassingsbesluit handel in emissierechten III"
 identifier: "BWBR0024461"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024461"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "9714903"
-version_id: "15716892"
-internal_id: "C21487991"
-label_id: "9691824"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024461/2011-01-01/0"
-intitule_bron: "Stb.2008-358"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-26"
-intitule_published: "2008-09-11"
-intitule_in_force: "2008-09-11"
-intitule_status: "goed"
-original_publication: "Stb.2008-358"
-original_signed_date: "2008-08-26"
-original_published_date: "2008-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2008-358"
-entry_into_force_date: "2008-09-12"
-jci_1_3: "jci1.3:c:BWBR0024461&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0024461&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanpassingsbesluit handel in emissierechten III"
-signed_date: "2008-08-26"
-entry_into_force: "2008-09-12"
+publicatiedatum: 2008-09-12
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0024461"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 26 augustus 2008, tot wijziging van het Besluit handel in emissierechten in verband met verlenging NOx-opt-out, aanscherping prestatienormen en enkele andere wijzigingen (Aanpassingsbesluit handel in emissierechten III)
 
 ##### Artikel I
 
-Wijzigt het Besluit handel in emissierechten.
+*Wijzigt het Besluit handel in emissierechten.*
 
 ##### Artikel II
 
@@ -59,15 +37,3 @@ Met betrekking tot een aanvraag als bedoeld in [artikel 3, eerste lid](https://w
 ##### Artikel IV
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit handel in emissierechten III.
-
-Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 juli 2008, nr. BJZ2008069982, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
-
-Gelet op de [artikelen 16.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.6), [16.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.33), en [16.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.50);
-
-De Raad van State gehoord (advies van 8 augustus, nr. W08.0288/IV);
-
-Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 augustus 2008, nr. BJZ2008073100, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

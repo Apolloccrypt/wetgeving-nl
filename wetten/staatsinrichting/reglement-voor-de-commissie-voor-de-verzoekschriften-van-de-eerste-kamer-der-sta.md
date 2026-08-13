@@ -1,37 +1,16 @@
 ---
 title: "Reglement voor de Commissie voor de Verzoekschriften van de Eerste Kamer der Staten-Generaal"
 identifier: "BWBR0024421"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-06-13"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024421"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "9708003"
-version_id: "29458712"
-internal_id: "C42128141"
-label_id: "9684934"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024421/2023-06-13/0"
-intitule_bron: "Kst.1995-160a"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-28"
-intitule_published: "1995-12-28"
-intitule_in_force: "1995-12-28"
-intitule_status: "goed"
-original_publication: "Kst.2023-CLVI"
-original_signed_date: "2023-03-28"
-original_published_date: "2023-05-16"
-original_effect: "structuurwijziging"
-entry_into_force_date: "2023-06-13"
-jci_1_3: "jci1.3:c:BWBR0024421&z=2023-06-13&g=2023-06-13"
-jci_1_0: "1.0:c:BWBR0024421&g=2023-06-13"
-citeertitel_status: "redactioneel"
-signed_date: "2023-03-28"
-entry_into_force: "2023-06-13"
+publicatiedatum: 2023-06-13
+laatste_update: 2023-06-13
+status: geldig
+toestand: 2023-06-13
+bron: "https://wetten.overheid.nl/BWBR0024421"
+opgehaald: 2026-08-13
 ---
+
 # Reglement voor de Commissie voor de Verzoekschriften van de Eerste Kamer der Staten-Generaal
 
 ##### Artikel 1
@@ -107,9 +86,5 @@ Een verzoekschrift dient te bevatten:
 2. Een verzoekschrift wordt, tenzij de commissie dit niet nodig acht, gezonden naar de verantwoordelijke minister of staatssecretaris met het verzoek daaromtrent inlichtingen te verschaffen.
 
 ##### Artikel 7
-
-Dit reglement treedt in werking met ingang van de dag na die waarop het door de Kamer is vastgesteld.
-
-##### Artikel 8
 
 Dit reglement treedt in werking met ingang van de dag na die waarop het door de Kamer is vastgesteld.

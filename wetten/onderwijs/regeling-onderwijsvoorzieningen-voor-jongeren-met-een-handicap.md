@@ -1,68 +1,46 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 januari 2008, nr. JOZ/94546, houdende regels met betrekking tot het verstrekken van onderwijsvoorzieningen voor jongeren met een handicap (Regeling onderwijsvoorzieningen voor jongeren met een handicap)"
+citeertitel: "Regeling onderwijsvoorzieningen voor jongeren met een handicap"
 identifier: "BWBR0025261"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025261"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "9895033"
-version_id: "19269922"
-internal_id: "C26885161"
-label_id: "9871534"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025261/2015-01-01/0"
-intitule_bron: "Stcrt.2009-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-01-15"
-intitule_published: "2009-02-02"
-intitule_in_force: "2009-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-3682"
-original_signed_date: "2012-02-27"
-original_published_date: "2012-02-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-3682"
-entry_into_force_date: "2012-02-27"
-jci_1_3: "jci1.3:c:BWBR0025261&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0025261&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling onderwijsvoorzieningen voor jongeren met een handicap"
-signed_date: "2012-02-27"
-entry_into_force: "2012-02-27"
+publicatiedatum: 2012-02-27
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0025261"
+opgehaald: 2026-08-13
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 januari 2008, nr. JOZ/94546, houdende regels met betrekking tot het verstrekken van onderwijsvoorzieningen voor jongeren met een handicap (Regeling onderwijsvoorzieningen voor jongeren met een handicap)
-
-Gelet op [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), en [artikel 6, vierde lid, van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- a. *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
-- b. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- b. *Wet WIA:*
+ [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-- c. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- c. *WAO:*
+ [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- d. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+- d. *WAZ:*
+ [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- e. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- e. *Wajong:*
+ [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- f. **vervoersvoorziening:** voorziening als bedoeld in [artikel 19a, derde lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a);
+- f. *vervoersvoorziening:* voorziening als bedoeld in [artikel 19a, derde lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a);
 
-- g. **persoon:** persoon als bedoeld in [artikel 19a, eerste lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a).
+- g. *persoon:* persoon als bedoeld in [artikel 19a, eerste lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a).
 
 2. Voor de toepassing van deze regeling wordt gelijkgesteld met:
 
-- a. **echtgenoot:** geregistreerde partner alsmede ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert als bedoeld in [artikel 1, vierde en vijfde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1), tenzij het betreft een bloedverwant in de eerste graad;
+- a. *echtgenoot:* geregistreerde partner alsmede ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert als bedoeld in [artikel 1, vierde en vijfde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1), tenzij het betreft een bloedverwant in de eerste graad;
 
-- b. **ongehuwd persoon:** persoon die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
+- b. *ongehuwd persoon:* persoon die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
 
 ##### Artikel 2. Doel
 
@@ -75,6 +53,10 @@ Voor de toepassing van [artikel 6, eerste lid, van het Uitvoeringsbesluit onderw
 - a. uitkeringen op grond van een werknemersverzekering, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
 
 - b. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat.
+
+##### Artikel 3a. Overgangsrecht
+
+*Vervallen*
 
 ##### Artikel 4. Inkomen echtgenoot
 
@@ -132,41 +114,41 @@ De hulpmiddelen als bedoeld in [artikel 5, tweede lid, onderdeel b, van het Uitv
 
 - a. Van de Orthesen en orthetische hulpmiddelen:
 
-- 1°. (semi-) orthopedisch werkschoeisel, dat voor praktijkmodulen en stages nodig is;
+   - 1°. (semi-) orthopedisch werkschoeisel, dat voor praktijkmodulen en stages nodig is;
 
-- 2°. Orthopedische voorzieningen in of aan confectiewerkschoenen, die voor praktijk-modulen en stages nodig zijn;
+   - 2°. Orthopedische voorzieningen in of aan confectiewerkschoenen, die voor praktijk-modulen en stages nodig zijn;
 
 - b. Van de visuele hulpmiddelen:
 
-- 1°. Bijzondere optische hulpmiddelen, zoals telescoopbrillen, verrekijkerbrillen, loepen;
+   - 1°. Bijzondere optische hulpmiddelen, zoals telescoopbrillen, verrekijkerbrillen, loepen;
 
-- 2°. Beeldschermloepen;
+   - 2°. Beeldschermloepen;
 
-- 3°. Tactiel-leesapparatuur met toebehoren;
+   - 3°. Tactiel-leesapparatuur met toebehoren;
 
 - c. Van de hulpmiddelen voor de mobiliteit:
 
-- 1°. Loophulpen met drie of vier poten;
+   - 1°. Loophulpen met drie of vier poten;
 
-- 2°. Looprekken;
+   - 2°. Looprekken;
 
-- 3°. Rollators;
+   - 3°. Rollators;
 
-- 4°. Loopwagens;
+   - 4°. Loopwagens;
 
-- 5°. Trippelstoelen;
+   - 5°. Trippelstoelen;
 
 - d. Van de hulpmiddelen voor communicatie, informatievoorziening en signalering:
 
-- 1°. computers met bijbehorende apparatuur voor lichamelijk gehandicapten;
+   - 1°. computers met bijbehorende apparatuur voor lichamelijk gehandicapten;
 
-- 2°. invoer- en uitvoerapparatuur (en bijbehorende programmatuur), alsmede accessoires voor computers/schrijfmachines/rekenmachines aangepast aan lichamelijke handicap;
+   - 2°. invoer- en uitvoerapparatuur (en bijbehorende programmatuur), alsmede accessoires voor computers/schrijfmachines/rekenmachines aangepast aan lichamelijke handicap;
 
-- 3°. computerprogrammatuur voor grootlettersystemen voor visueel gehandicapten;
+   - 3°. computerprogrammatuur voor grootlettersystemen voor visueel gehandicapten;
 
-- 4°. bladomslagapparatuur;
+   - 4°. bladomslagapparatuur;
 
-- 5°. opname- en voorleesapparatuur voor gehandicapten, waaronder begrepen een memorecorder voor visueel gehandicapten, daisyprogrammatuur en voorleesapparatuur voor zwartdrukinformatie voor visueel gehandicapten;
+   - 5°. opname- en voorleesapparatuur voor gehandicapten, waaronder begrepen een memorecorder voor visueel gehandicapten, daisyprogrammatuur en voorleesapparatuur voor zwartdrukinformatie voor visueel gehandicapten;
 
 - e. Van de telefoons en telefoonhulpmiddelen: hulpmiddelen voor het kiezen telefoonnummers;
 
@@ -179,11 +161,3 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsvoorzieningen voor jongeren met een handicap.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Overgangsrecht
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-11
 status: geldig
 toestand: 2026-08-11
 bron: "https://wetten.overheid.nl/BWBR0052970"
-opgehaald: 2026-08-12
+opgehaald: 2026-08-13
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 8 juli 2026 betreffende de digitale vervanging van archiefbescheiden van Justis/Verlening & Toetsing (V&T) van het Ministerie van Justitie en Veiligheid (Besluit digitale vervanging archiefbescheiden Justis/ Verlening & Toetsing (V&T) Justitie en Veiligheid 2026)

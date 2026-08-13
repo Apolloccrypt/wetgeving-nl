@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2008, nr. CZ/FBI-2874233, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake taakstelling ziekenhuizen 2009"
+citeertitel: "Aanwijzing inzake taakstelling ziekenhuizen 2009"
 identifier: "BWBR0024550"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-11-01"
-last_updated: "2008-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024550"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9740543"
-version_id: "15780342"
-internal_id: "C21566711"
-label_id: "9717374"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024550/2008-11-01/0"
-intitule_bron: "Stcrt.2008-189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-22"
-intitule_published: "2008-09-30"
-intitule_in_force: "2008-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-189"
-original_signed_date: "2008-09-22"
-original_published_date: "2008-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-189-p13-SC87752"
-entry_into_force_date: "2008-11-01"
-jci_1_3: "jci1.3:c:BWBR0024550&z=2008-11-01&g=2008-11-01"
-jci_1_0: "1.0:c:BWBR0024550&g=2008-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing inzake taakstelling ziekenhuizen 2009"
-signed_date: "2008-09-22"
-entry_into_force: "2008-11-01"
+publicatiedatum: 2008-11-01
+laatste_update: 2008-11-01
+status: geldig
+toestand: 2008-11-01
+bron: "https://wetten.overheid.nl/BWBR0024550"
+opgehaald: 2026-08-13
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2008, nr. CZ/FBI-2874233, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake taakstelling ziekenhuizen 2009
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 11 juni 2008 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2007/2008, 29 248, nr. 48);
-
-Besluit:
 
 ##### Artikel 1
 

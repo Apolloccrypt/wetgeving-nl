@@ -1,94 +1,64 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, nr. DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten"
+citeertitel: "Regeling aanwijzing inzake invoering prestatiebekostiging intramurale langdurige zorg op grond van zorgzwaartepakketten"
 identifier: "BWBR0024676"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-11-26"
-last_updated: "2008-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024676"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "9761843"
-version_id: "15827802"
-internal_id: "C21646651"
-label_id: "9738774"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024676/2008-11-26/0"
-intitule_bron: "Stcrt.2008-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-10-31"
-intitule_published: "2008-11-11"
-intitule_in_force: "2008-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-219"
-original_signed_date: "2008-10-31"
-original_published_date: "2008-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-561"
-entry_into_force_date: "2008-11-11"
-jci_1_3: "jci1.3:c:BWBR0024676&z=2008-11-26&g=2008-11-26"
-jci_1_0: "1.0:c:BWBR0024676&g=2008-11-26"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing inzake invoering prestatiebekostiging intramurale langdurige zorg op grond van zorgzwaartepakketten"
-signed_date: "2008-10-31"
-entry_into_force: "2008-11-11"
+publicatiedatum: 2008-11-11
+laatste_update: 2008-11-26
+status: geldig
+toestand: 2008-11-26
+bron: "https://wetten.overheid.nl/BWBR0024676"
+opgehaald: 2026-08-13
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, nr. DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 22 september 2008 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2008–2009, 26 631, nr. 273);
-
-Gezien mijn inbreng van het schriftelijk verslag van 27 oktober 2008, kenmerk DLZ-CB-U-2882839;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **zorgautoriteit:** de Nederlandse Zorgautoriteit;
+- b. *zorgautoriteit:* de Nederlandse Zorgautoriteit;
 
-- c. **intramurale zorgaanbieder:** instelling die op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) is toegelaten voor de functie verblijf, in combinatie met de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding, begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149);
+- c. *intramurale zorgaanbieder:* instelling die op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) is toegelaten voor de functie verblijf, in combinatie met de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding, begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149);
 
-- d. **extramurale zorgaanbieder:** instelling die op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) is toegelaten voor een of meer van de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding, begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149);
+- d. *extramurale zorgaanbieder:* instelling die op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) is toegelaten voor een of meer van de functies persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding, begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149);
 
-- e. **MFC:** op grond van de [Wet zorginstellingen toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) als Multifunctionele centra (MFC’s), die als samenwerkingsverband zorg bieden met verblijf en behandeling op het raakvlak van gehandicaptenzorg en kinder/ en jeugdpsychiatrie;
+- e. *MFC:* op grond van de [Wet zorginstellingen toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) als Multifunctionele centra (MFC’s), die als samenwerkingsverband zorg bieden met verblijf en behandeling op het raakvlak van gehandicaptenzorg en kinder/ en jeugdpsychiatrie;
 
-- f. **KIB:** Klinieken voor Intensieve Behandeling in de geestelijke gezondheidszorg;
+- f. *KIB:* Klinieken voor Intensieve Behandeling in de geestelijke gezondheidszorg;
 
-- g. **budgetverzoek:** tariefverzoek van een intra- of extramurale zorgaanbieder of zorgkantoor op grond van het bepaalde bij of krachtens [paragraaf 4.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) ter vaststelling van de aanvaardbare kosten in enig jaar;
+- g. *budgetverzoek:* tariefverzoek van een intra- of extramurale zorgaanbieder of zorgkantoor op grond van het bepaalde bij of krachtens [paragraaf 4.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) ter vaststelling van de aanvaardbare kosten in enig jaar;
 
-- h. **budgetronde:** de onderhandelingen tussen een intra- of extramurale zorgaanbieder en zorgkantoor voorafgaande aan het budgetverzoek, de indiening bij de zorgautoriteit van dat budgetverzoek en de besluitvorming van de zorgautoriteit op dat verzoek;
+- h. *budgetronde:* de onderhandelingen tussen een intra- of extramurale zorgaanbieder en zorgkantoor voorafgaande aan het budgetverzoek, de indiening bij de zorgautoriteit van dat budgetverzoek en de besluitvorming van de zorgautoriteit op dat verzoek;
 
-- i. **capaciteitsmutatie:** een wijziging met ingang van 1 januari 2009 van de op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) toegelaten capaciteit van een intramurale zorgaanbieder die na 31 december 2008 feitelijk in gebruik wordt genomen;
+- i. *capaciteitsmutatie:* een wijziging met ingang van 1 januari 2009 van de op grond van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) toegelaten capaciteit van een intramurale zorgaanbieder die na 31 december 2008 feitelijk in gebruik wordt genomen;
 
-- j. **oude bekostigingsparameters:** de in het jaar 2008 gebruikelijke parameters voor de bekostiging in het jaar 2009 van een intramurale zorgaanbieder, gerelateerd aan bedden en plaatsen;
+- j. *oude bekostigingsparameters:* de in het jaar 2008 gebruikelijke parameters voor de bekostiging in het jaar 2009 van een intramurale zorgaanbieder, gerelateerd aan bedden en plaatsen;
 
-- k. **productieafspraken:** de lokale afspraken tussen een intra- of extramurale zorgaanbieder en een zorgkantoor met betrekking tot de intramurale of extramurale productie;
+- k. *productieafspraken:* de lokale afspraken tussen een intra- of extramurale zorgaanbieder en een zorgkantoor met betrekking tot de intramurale of extramurale productie;
 
-- l. **budgetbasis:** het financiële totaal van een zorgaanbieder dat de zorgautoriteit vaststelt op grond van de door zorgaanbieder en zorgkantoor ingediende productieafspraken in termen van de oude bekostigingsparameters rekening houdend met loonkosten, materiële kosten, intramurale zorgprestaties met uitzondering van de nachtverpleging, nachtverzorging en de zittingen paramedische zorg, palliatief terminale zorg, zorgzwaartetoeslagen, zorg op maat, toepassing van de hardheidsclausule zoals opgenomen in de tot 31 december 2003 geldende Beleidsregel wachtlijstmiddelen en bestendig beleid dat voor 2009 middels een afzonderlijk besluit is toegekend ter bekostiging van de zorgzwaarte van daarbij aangegeven categorieën van cliënten, energie- en onderhoudskosten zoals die voortvloeien uit de beleidsregel kleinschalig wonen en vergoedingen die voortvloeien uit de toepassing van de beleidsregel herallocatie normatieve budgettering;
+- l. *budgetbasis:* het financiële totaal van een zorgaanbieder dat de zorgautoriteit vaststelt op grond van de door zorgaanbieder en zorgkantoor ingediende productieafspraken in termen van de oude bekostigingsparameters rekening houdend met loonkosten, materiële kosten, intramurale zorgprestaties met uitzondering van de nachtverpleging, nachtverzorging en de zittingen paramedische zorg, palliatief terminale zorg, zorgzwaartetoeslagen, zorg op maat, toepassing van de hardheidsclausule zoals opgenomen in de tot 31 december 2003 geldende Beleidsregel wachtlijstmiddelen en bestendig beleid dat voor 2009 middels een afzonderlijk besluit is toegekend ter bekostiging van de zorgzwaarte van daarbij aangegeven categorieën van cliënten, energie- en onderhoudskosten zoals die voortvloeien uit de beleidsregel kleinschalig wonen en vergoedingen die voortvloeien uit de toepassing van de beleidsregel herallocatie normatieve budgettering;
 
-- m. **ZZP:** een zorgzwaartepakket bestaande uit een volledig pakket van intramurale zorg dat aansluit op de kenmerken van de cliënt en het soort zorg dat die cliënt nodig heeft;
+- m. *ZZP:* een zorgzwaartepakket bestaande uit een volledig pakket van intramurale zorg dat aansluit op de kenmerken van de cliënt en het soort zorg dat die cliënt nodig heeft;
 
-- n. **ZZP-opgave:** de door de zorgautoriteit vastgestelde opgave op basis van het door zorgaanbieder en zorgkantoor afgesproken aantal ZZP’s en bijbehorende tarieven en de door zorgaanbieder en zorgkantoor afgesproken toeslagen die voortvloeien uit de beleidsregel ZZP-prestaties, verblijfscomponent voor niet geïndiceerde partner, tijdelijk verblijf, afwezigheidsdag, CVA, observatie, MFC’s, KIB’s, epilepsie, waarbij die opgave is gebaseerd op de indicatiegegevens van nieuwe cliënten of herindicaties, op de geactualiseerde zorgzwaarte van bestaande cliënten met verwerking van de resultaten van de controle door het Centrum Indicatiestelling Zorg met aanpassingen op basis van onderhoud pakketten en aanpassingen beslisregels, en op de uitkomst van het expertteam van het Centrum voor Consultatie en Expertise indien en voor zover van toepassing;
+- n. *ZZP-opgave:* de door de zorgautoriteit vastgestelde opgave op basis van het door zorgaanbieder en zorgkantoor afgesproken aantal ZZP’s en bijbehorende tarieven en de door zorgaanbieder en zorgkantoor afgesproken toeslagen die voortvloeien uit de beleidsregel ZZP-prestaties, verblijfscomponent voor niet geïndiceerde partner, tijdelijk verblijf, afwezigheidsdag, CVA, observatie, MFC’s, KIB’s, epilepsie, waarbij die opgave is gebaseerd op de indicatiegegevens van nieuwe cliënten of herindicaties, op de geactualiseerde zorgzwaarte van bestaande cliënten met verwerking van de resultaten van de controle door het Centrum Indicatiestelling Zorg met aanpassingen op basis van onderhoud pakketten en aanpassingen beslisregels, en op de uitkomst van het expertteam van het Centrum voor Consultatie en Expertise indien en voor zover van toepassing;
 
-- o. **herallocatiebedrag:** het verschil tussen de budgetbasis en ZZP-opgave. Dit herallocatiebedrag wordt eenmalig in 2009 door de zorgautoriteit vastgesteld op basis van de budgetverzoeken in de maartronde 2009. Capaciteitsmutaties in 2009 worden niet meegenomen bij de berekening van het herallocatiebedrag;
+- o. *herallocatiebedrag:* het verschil tussen de budgetbasis en ZZP-opgave. Dit herallocatiebedrag wordt eenmalig in 2009 door de zorgautoriteit vastgesteld op basis van de budgetverzoeken in de maartronde 2009. Capaciteitsmutaties in 2009 worden niet meegenomen bij de berekening van het herallocatiebedrag;
 
-- p. **aanvaardbare kosten 2009:** de budgetbasis plus of min het te effectueren herallocatiebedrag op basis van de afbouw-/opbouw- of maatwerkregeling plus de overige door de zorgautoriteit in een beleidsregel aan te geven budgetcomponenten (kapitaallasten en extramurale zorg);
+- p. *aanvaardbare kosten 2009:* de budgetbasis plus of min het te effectueren herallocatiebedrag op basis van de afbouw-/opbouw- of maatwerkregeling plus de overige door de zorgautoriteit in een beleidsregel aan te geven budgetcomponenten (kapitaallasten en extramurale zorg);
 
-- q. **verrekentarief:** het tarief dat dient ter dekking van het verschil tussen de door de zorgaanbieder gedeclareerde ZZP’s en extramurale zorgprestaties en de door de zorgautoriteit bepaalde aanvaardbare kosten 2009 van die zorgaanbieder;
+- q. *verrekentarief:* het tarief dat dient ter dekking van het verschil tussen de door de zorgaanbieder gedeclareerde ZZP’s en extramurale zorgprestaties en de door de zorgautoriteit bepaalde aanvaardbare kosten 2009 van die zorgaanbieder;
 
-- r. **afbouw:** het heralloctietraject als de ZZP-opgave lager uitkomt dan de budgetbasis;
+- r. *afbouw:* het heralloctietraject als de ZZP-opgave lager uitkomt dan de budgetbasis;
 
-- s. **opbouw:** het herallocatietraject als de ZZP-opgave hoger is dan de budgetbasis;
+- s. *opbouw:* het herallocatietraject als de ZZP-opgave hoger is dan de budgetbasis;
 
-- t. **maatwerkregeling:** door de zorgautoriteit in het kader van de invoering van ZZP’s voor intramurale AWBZ-zorg vast te stellen regeling voor intramurale zorgaanbieders van wie het door de zorgautoriteit vastgestelde herallocatiebedrag meer is dan dertien procent van hun budgetbasis.
+- t. *maatwerkregeling:* door de zorgautoriteit in het kader van de invoering van ZZP’s voor intramurale AWBZ-zorg vast te stellen regeling voor intramurale zorgaanbieders van wie het door de zorgautoriteit vastgestelde herallocatiebedrag meer is dan dertien procent van hun budgetbasis.
 
-- u. **opbouwregeling:** een door de zorgautoriteit in het kader van de invoering van ZZP’s voor intramurale AWBZ-zorg vast te stellen herallocatieregeling voor intramurale zorgaanbieders van wie de door de zorgautoriteit vastgestelde ZZP-opgave hoger is dan de budgetbasis.
+- u. *opbouwregeling:* een door de zorgautoriteit in het kader van de invoering van ZZP’s voor intramurale AWBZ-zorg vast te stellen herallocatieregeling voor intramurale zorgaanbieders van wie de door de zorgautoriteit vastgestelde ZZP-opgave hoger is dan de budgetbasis.
 
 ##### Artikel 2. Werkingssfeer
 
@@ -102,11 +72,11 @@ De zorgautoriteit:
 
 - a. voert met ingang van 1 januari 2009 voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=2&z=2008-11-26&g=2008-11-26) bedoelde zorg geleverd door intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-26&g=2008-11-26), die ultimo 2008 waren toegelaten op grond van de Wet toelating zorgaanbieders en die voor 2008 productieafspraken hebben gemaakt met een zorgkantoor, een bekostigingssystematiek in waarbij:
 
-- 1. de prestatiebeschrijvingen zijn gebaseerd op zorgzwaartepakketten, verder aan te duiden als ZZP’s, met uitzondering van de prestatiebeschrijvingen voor KIB’s, kinder- en jeugdpsychiatrie, observatie, MFC’s, tijdelijk verblijf en afwezigheid;
+   - 1. de prestatiebeschrijvingen zijn gebaseerd op zorgzwaartepakketten, verder aan te duiden als ZZP’s, met uitzondering van de prestatiebeschrijvingen voor KIB’s, kinder- en jeugdpsychiatrie, observatie, MFC’s, tijdelijk verblijf en afwezigheid;
 
-- 2. de intramurale zorgaanbieder voor die prestatiebeschrijvingen tarieven in rekening brengt voor de geleverde zorg, en
+   - 2. de intramurale zorgaanbieder voor die prestatiebeschrijvingen tarieven in rekening brengt voor de geleverde zorg, en
 
-- 3. de overgang van de in 2008 geldende bekostigingssystematiek naar de in de aanhef en onder 1 en 2 van dit artikel bedoelde bekostigingssystematiek door middel van een geleidelijke herallocatie laat verlopen.
+   - 3. de overgang van de in 2008 geldende bekostigingssystematiek naar de in de aanhef en onder 1 en 2 van dit artikel bedoelde bekostigingssystematiek door middel van een geleidelijke herallocatie laat verlopen.
 
 - b. stelt prestatiebeschrijvingen vast voor te onderscheiden ZZP’s;
 

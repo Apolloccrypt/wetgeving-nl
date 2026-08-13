@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel betreffende de erkenning van bedrijven bevoegd tot inbouw, vervanging en de controle van het functioneren van een radarinstallatie, bochtaanwijzer en Automatic Identification System (Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System)"
+citeertitel: "Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System"
 identifier: "BWBR0024971"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2008-12-25"
-last_updated: "2008-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024971"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "9827903"
-version_id: "15986912"
-internal_id: "C21898701"
-label_id: "9804424"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024971/2008-12-25/0"
-intitule_bron: "Stcrt.2008-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-08"
-intitule_published: "2008-12-23"
-intitule_in_force: "2008-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-249"
-original_signed_date: "2008-12-08"
-original_published_date: "2008-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-2382"
-entry_into_force_date: "2008-12-25"
-jci_1_3: "jci1.3:c:BWBR0024971&z=2008-12-25&g=2008-12-25"
-jci_1_0: "1.0:c:BWBR0024971&g=2008-12-25"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System"
-signed_date: "2008-12-08"
-entry_into_force: "2008-12-25"
+publicatiedatum: 2008-12-25
+laatste_update: 2008-12-25
+status: geldig
+toestand: 2008-12-25
+bron: "https://wetten.overheid.nl/BWBR0024971"
+opgehaald: 2026-08-13
 ---
+
 # Beleidsregel betreffende de erkenning van bedrijven bevoegd tot inbouw, vervanging en de controle van het functioneren van een radarinstallatie, bochtaanwijzer en Automatic Identification System (Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System)
-
-Gelet op [artikel 3, eerste en tweede lid, van het Besluit radar- en bochtaanwijzerapparatuur Rijnvaart 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004653&artikel=3), artikel 3, eerste en tweede lid, van de Voorschriften omtrent de inbouw en de controle van het functioneren van radarinstallaties en bochtaanwijzers voor de Rijnvaart, [artikel V, eerste lid, van de Regeling typegoedkeuring en inbouw radarinstallaties en bochtaanwijzers Rijnvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0004748&artikel=V), [artikel 7.06, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007858&artikel=7.06), en Bijlage N, deel 1, onderdeel B, subonderdeel 1, van het Reglement onderzoek schepen op de Rijn 1995, [artikel 3, eerste lid, van de Aanwijzing bevoegde autoriteiten reglementen CCR](https://wetten.overheid.nl/jci1.3:c:BWBR0019146&artikel=3), alsmede artikel 3 van bijlage IX, Deel V, bij [richtlijn nr. 2006/87/EG](32006L0087) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006, tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van [richtlijn nr. 82/714/EEG](31982L0714) van de Raad van de Europese Unie (PbEG L 389);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -85,5 +59,3 @@ Deze beleidsregel kan worden aangehaald als: Beleidsregel erkenning bedrijven ra
 ##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.

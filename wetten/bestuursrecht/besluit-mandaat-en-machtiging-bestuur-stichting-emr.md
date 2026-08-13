@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 27 september 2008, nr. WJZ/8142836, houdende regels inzake mandaat en machtiging aan het bestuur van de Stichting Euregio Maas-Rijn betreffende de uitvoering van de Regeling EFRO programmaperiode 2007–2013 (Besluit mandaat en machtiging bestuur Stichting EMR)"
+citeertitel: "Besluit mandaat en machtiging bestuur Stichting EMR"
 identifier: "BWBR0024571"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2008-10-09"
-last_updated: "2008-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0024571"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "9743673"
-version_id: "15786422"
-internal_id: "C29432511"
-label_id: "9720544"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0024571/2008-10-09/0"
-intitule_bron: "Stcrt.2008-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-09-27"
-intitule_published: "2008-10-07"
-intitule_in_force: "2008-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-194"
-original_signed_date: "2008-09-27"
-original_published_date: "2008-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-194-p2-SC87742"
-entry_into_force_date: "2008-10-09"
-jci_1_3: "jci1.3:c:BWBR0024571&z=2008-10-09&g=2008-10-09"
-jci_1_0: "1.0:c:BWBR0024571&g=2008-10-09"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging bestuur Stichting EMR"
-signed_date: "2008-09-27"
-entry_into_force: "2008-10-09"
+publicatiedatum: 2008-10-09
+laatste_update: 2008-10-09
+status: geldig
+toestand: 2008-10-09
+bron: "https://wetten.overheid.nl/BWBR0024571"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Minister van Economische Zaken van 27 september 2008, nr. WJZ/8142836, houdende regels inzake mandaat en machtiging aan het bestuur van de Stichting Euregio Maas-Rijn betreffende de uitvoering van de Regeling EFRO programmaperiode 2007–2013 (Besluit mandaat en machtiging bestuur Stichting EMR)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van het bestuur van de Stichting Euregio Maas-Rijn;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -95,5 +67,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging bestuur Stichting EMR.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

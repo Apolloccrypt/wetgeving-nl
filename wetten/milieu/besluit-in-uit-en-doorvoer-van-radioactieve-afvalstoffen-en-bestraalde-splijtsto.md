@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 maart 2009, houdende implementatie van richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en intrekking van het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen (Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)"
+citeertitel: "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen"
 identifier: "BWBR0025680"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025680"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "9978373"
-version_id: "16295942"
-internal_id: "C22351051"
-label_id: "9955354"
-dtd_version: "2.0"
-original_entry_into_force: "2009-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025680/2025-01-01/0"
-intitule_bron: "Stb.2009-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-27"
-intitule_published: "2009-04-14"
-intitule_in_force: "2009-04-14"
-intitule_status: "goed"
-original_publication: "Stb.2009-168"
-original_signed_date: "2009-03-27"
-original_published_date: "2009-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-168"
-entry_into_force_date: "2009-04-15"
-jci_1_3: "jci1.3:c:BWBR0025680&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0025680&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen"
-signed_date: "2009-03-27"
-entry_into_force: "2009-04-15"
+publicatiedatum: 2009-04-15
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0025680"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van 27 maart 2009, houdende implementatie van richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en intrekking van het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen (Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)
-
-Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 november 2008, nr. BJZ2008105972, Directie Bestuurlijke en Juridische Zaken;
-
-Gelet op [richtlijn nr. 2006/117](32006L0117)/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en op [artikel 67 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=67);
-
-De Raad van State gehoord (advies van 12 december 2008, nr. W08.08.0507/IV);
-
-Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 24 maart 2009, nr. BJZ200901662, Directie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -52,49 +20,50 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beheerder:** degene die verantwoordelijk is voor het beheer van de overbrenging binnen de eerste lidstaat van doorvoer;
+- *beheerder:* degene die verantwoordelijk is voor het beheer van de overbrenging binnen de eerste lidstaat van doorvoer;
 
-- **bestraalde splijtstoffen:** bestraalde splijtstoffen die permanent verwijderd zijn uit een reactorkern en voor opwerking bedoeld zijn;
+- *bestraalde splijtstoffen:* bestraalde splijtstoffen die permanent verwijderd zijn uit een reactorkern en voor opwerking bedoeld zijn;
 
-- **derde staat:** staat buiten de Europese Unie;
+- *derde staat:* staat buiten de Europese Unie;
 
-- **derde staat van bestemming:** derde staat waarnaar een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *derde staat van bestemming:* derde staat waarnaar een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **derde staat van doorvoer:** derde staat, anders dan de derde staat van herkomst en de derde staat van bestemming, over het grondgebied waarvan een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *derde staat van doorvoer:* derde staat, anders dan de derde staat van herkomst en de derde staat van bestemming, over het grondgebied waarvan een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **derde staat van herkomst:** derde staat van waaruit een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *derde staat van herkomst:* derde staat van waaruit een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **eerste lidstaat van doorvoer:** lidstaat van doorvoer waarin het douanekantoor is gelegen waarlangs de radioactieve afvalstoffen of de bestraalde splijtstoffen voor de eerste keer de Europese Unie binnenkomen;
+- *eerste lidstaat van doorvoer:* lidstaat van doorvoer waarin het douanekantoor is gelegen waarlangs de radioactieve afvalstoffen of de bestraalde splijtstoffen voor de eerste keer de Europese Unie binnenkomen;
 
-- **eindberging:** de plaatsing van radioactieve afvalstoffen of verbruikte splijtstoffen in een inrichting zonder de bedoeling die afvalstoffen of splijtstoffen terug te halen;
+- *eindberging:* de plaatsing van radioactieve afvalstoffen of verbruikte splijtstoffen in een inrichting zonder de bedoeling die afvalstoffen of splijtstoffen terug te halen;
 
-- **houder:** degene die vóór de overbrenging verantwoordelijk is voor de radioactieve afvalstoffen of de bestraalde splijtstoffen en die voornemens is die stoffen over te brengen of te doen overbrengen;
+- *houder:* degene die vóór de overbrenging verantwoordelijk is voor de radioactieve afvalstoffen of de bestraalde splijtstoffen en die voornemens is die stoffen over te brengen of te doen overbrengen;
 
-- **ingekapselde bron:** radioactieve stoffen of splijtstoffen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van radioactieve stoffen of splijtstoffen te voorkomen;
+- *ingekapselde bron:* radioactieve stoffen of splijtstoffen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand biedt om onder normale gebruiksomstandigheden elke verspreiding van radioactieve stoffen of splijtstoffen te voorkomen;
 
-- **lidstaat:** lidstaat van de Europese Unie;
+- *lidstaat:* lidstaat van de Europese Unie;
 
-- **lidstaat van bestemming:** lidstaat waarnaar een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *lidstaat van bestemming:* lidstaat waarnaar een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **lidstaat van doorvoer:** lidstaat, anders dan de lidstaat van herkomst en de lidstaat van bestemming, over het grondgebied waarvan een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *lidstaat van doorvoer:* lidstaat, anders dan de lidstaat van herkomst en de lidstaat van bestemming, over het grondgebied waarvan een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **lidstaat van herkomst:** lidstaat van waaruit een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
+- *lidstaat van herkomst:* lidstaat van waaruit een overbrenging of een voorgenomen overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen plaatsvindt;
 
-- **ontvanger:** degene naar wie radioactieve afvalstoffen of bestraalde splijtstoffen worden overgebracht;
+- *ontvanger:* degene naar wie radioactieve afvalstoffen of bestraalde splijtstoffen worden overgebracht;
 
-- **radioactieve afvalstof:**
+- *radioactieve afvalstof:*
 
-- a. radioactieve afvalstof als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
+   - a. radioactieve afvalstof als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
-- b. splijtstof of erts, waarvoor geen gebruik of product- of materiaalhergebruik is voorzien door het bevoegd gezag van de lidstaat of derde staat van herkomst of van bestemming of door een natuurlijke of rechtspersoon wiens beslissing door deze bevoegde gezagsorganen wordt aanvaard, of die door een regelgevende instantie als radioactieve afvalstof wordt aangemerkt overeenkomstig het wet- en regelgevingskader van de lidstaten of derde staten van herkomst en van bestemming;
+   - b. splijtstof of erts, waarvoor geen gebruik of product- of materiaalhergebruik is voorzien door het bevoegd gezag van de lidstaat of derde staat van herkomst of van bestemming of door een natuurlijke of rechtspersoon wiens beslissing door deze bevoegde gezagsorganen wordt aanvaard, of die door een regelgevende instantie als radioactieve afvalstof wordt aangemerkt overeenkomstig het wet- en regelgevingskader van de lidstaten of derde staten van herkomst en van bestemming;
 
-- **richtlijn:** [richtlijn nr. 2006/117](32006L0117)/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337);
+- *richtlijn:*
+ richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337);
 
-- **toestemming:** ingevolge dit besluit of de richtlijn vereiste toestemming met betrekking tot de aanvraag om een vergunning voor een overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen;
+- *toestemming:* ingevolge dit besluit of de richtlijn vereiste toestemming met betrekking tot de aanvraag om een vergunning voor een overbrenging van radioactieve afvalstoffen of bestraalde splijtstoffen;
 
-- **uniform document:** door de Commissie van de Europese Gemeenschappen bij beschikking van 5 maart 2008 ter uitvoering van de richtlijn vastgesteld document (PbEU L 107);
+- *uniform document:* door de Commissie van de Europese Gemeenschappen bij beschikking van 5 maart 2008 ter uitvoering van de richtlijn vastgesteld document (PbEU L 107);
 
-- **verbruikte splijtstof:** kernsplijtstof die bestraald is en permanent uit een reactorkern is verwijderd.
+- *verbruikte splijtstof:* kernsplijtstof die bestraald is en permanent uit een reactorkern is verwijderd.
 
 2. Voor de toepassing van dit besluit wordt als overbrengen aangemerkt alle verrichtingen voor het verplaatsen van radioactieve afvalstoffen of bestraalde splijtstoffen van de lidstaat of derde staat van herkomst naar de lidstaat of derde staat van bestemming.
 
@@ -104,11 +73,11 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 - a. ingekapselde bronnen die niet langer worden gebruikt, noch bestemd zijn om te worden gebruikt voor de handeling waarvoor een vergunning is verleend, voor zover die bronnen worden overgebracht naar:
 
-- 1°. een leverancier als bedoeld in [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
+   - 1°. een leverancier als bedoeld in [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
-- 2°. een fabrikant van dergelijke bronnen, of
+   - 2°. een fabrikant van dergelijke bronnen, of
 
-- 3°. een voor de ontvangst van radioactieve afvalstoffen bestemde instelling;
+   - 3°. een voor de ontvangst van radioactieve afvalstoffen bestemde instelling;
 
 - b. radioactieve afvalstoffen als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), bestaande uit natuurlijke bronnen waarvan de totale activiteit of de activiteitsconcentratie van de radionucliden gelijk of lager is dan de van toepassing zijnde vrijstellings- of vrijgavewaarde in [bijlage 3 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3);
 
@@ -150,11 +119,11 @@ Het uniforme document wordt gebruikt:
 
 - b. door de Autoriteit:
 
-- 1°. bij het indienen van een verzoek om toestemming bij het bevoegd gezag van een andere lidstaat of een derde staat van bestemming,
+   - 1°. bij het indienen van een verzoek om toestemming bij het bevoegd gezag van een andere lidstaat of een derde staat van bestemming,
 
-- 2°. bij het verzenden van een ontvangstbevestiging op grond van dit besluit en
+   - 2°. bij het verzenden van een ontvangstbevestiging op grond van dit besluit en
 
-- 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en op een verzoek om toestemming als bedoeld in de richtlijn.
+   - 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en op een verzoek om toestemming als bedoeld in de richtlijn.
 
 ##### Artikel 6. Taal
 
@@ -188,7 +157,7 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ### Hoofdstuk 3. Het overbrengen van radioactieve afvalstoffen en bestraalde splijtstoffen tussen lidstaten van de Europese Unie
 
-## Titel 3.1. Overbrenging van Nederland naar de lidstaat van bestemming
+### Titel 3.1. Overbrenging van Nederland naar de lidstaat van bestemming
 
 ##### Artikel 11. Dagtekening
 
@@ -250,7 +219,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 4. De houder is aansprakelijk voor alle kosten die verband houden met het niet kunnen uitvoeren van de overbrenging.
 
-## Titel 3.2. Overbrenging van de lidstaat van herkomst naar Nederland
+### Titel 3.2. Overbrenging van de lidstaat van herkomst naar Nederland
 
 ##### Artikel 17. Beoordeling op volledigheid; ontvangstbevestiging
 
@@ -316,9 +285,9 @@ Toestemming wordt geweigerd indien:
 
 3. De houder is aansprakelijk voor alle kosten die verband houden met het niet kunnen uitvoeren van de overbrenging.
 
-## Titel 3.3. Overbrenging van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming
+### Titel 3.3. Overbrenging van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming
 
-##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 23. Van overeenkomstige toepassing verklaring titel 3.2
 
 Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -340,9 +309,9 @@ Indien zij toestemming heeft verleend met betrekking tot een aanvraag om een ver
 
 - b. er is sprake van een niet-uitgevoerde overbrenging als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), of het bevoegd gezag van een andere betrokken lidstaat beslist op grond van artikel 12, eerste lid, van de richtlijn dat de overbrenging niet kan worden uitgevoerd, indien de terugzending op dezelfde voorwaarden en met dezelfde specificaties wordt verricht.
 
-## Titel 3.4. Overbrenging van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland
+### Titel 3.4. Overbrenging van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland
 
-##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01)
+##### Artikel 25. Van overeenkomstige toepassing verklaring titel 3.1
 
 Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2025-01-01&g=2025-01-01), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01).
 
@@ -372,7 +341,7 @@ Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bes
 
 ### Hoofdstuk 4. Het overbrengen van radioactieve afvalstoffen en bestraalde splijtstoffen tussen een lidstaat van de Europese Unie en een derde staat
 
-## Titel 4.1. Overbrenging van de derde staat van herkomst naar Nederland
+### Titel 4.1. Overbrenging van de derde staat van herkomst naar Nederland
 
 ##### Artikel 28. Vergunningaanvraag; terugnameplicht
 
@@ -444,13 +413,13 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 3. De ontvanger is aansprakelijk voor alle kosten die verband houden met het niet kunnen uitvoeren van de overbrenging.
 
-## Titel 4.2. Overbrenging van de derde staat van herkomst via Nederland naar de lidstaat van bestemming
+### Titel 4.2. Overbrenging van de derde staat van herkomst via Nederland naar de lidstaat van bestemming
 
 ##### Artikel 34. Beoordeling op volledigheid
 
 Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in eerstgenoemde lidstaat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 35. Van overeenkomstige toepassing verklaring titel 3.2
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -468,7 +437,7 @@ Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag
 
 2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-## Titel 4.3. Overbrenging van Nederland naar de derde staat van bestemming
+### Titel 4.3. Overbrenging van Nederland naar de derde staat van bestemming
 
 ##### Artikel 36. Dagtekening
 
@@ -506,9 +475,9 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 - b. de radioactieve afvalstoffen of de bestraalde splijtstoffen een bestemming hebben in een gebied ten zuiden van 60° zuiderbreedte,
 
-- c. de radioactieve afvalstoffen of de bestraalde splijtstoffen een bestemming hebben binnen een derde staat die partij is bij de op 23 juni 2000 in Cotonou (Benin) ondertekende Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds (ACS-EG-Overeenkomst van Cotonou; PbEU L 317), tenzij de overbrenging radioactieve afvalstoffen betreft die na bewerking naar de derde staat van herkomst worden teruggezonden,
+- c. de radioactieve afvalstoffen of de bestraalde splijtstoffen een bestemming hebben binnen een derde staat die partij is bij de op 23 juni 2000 in Cotonou (Benin) ondertekende Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds (ACS-EG-Overeenkomst van Cotonou; PbEU L 317), tenzij de overbrenging radioactieve afvalstoffen betreft die na bewerking naar de derde staat van herkomst worden teruggezonden,
 
-- d. de radioactieve afvalstoffen of de bestraalde splijtstoffen een bestemming hebben binnen een derde staat die naar het oordeel van de Autoriteit volgens de door de Commissie van de Europese Gemeenschappen vastgestelde criteria niet beschikt over de technische, wettelijke of bestuurlijke middelen om die stoffen veilig te beheren, zoals in het Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval (Wenen, 5 september 1997; Trb. 2001, 111) is vastgesteld, bij welke beoordeling de Autoriteit rekening houdt met alle relevante informatie van andere lidstaten,
+- d. de radioactieve afvalstoffen of de bestraalde splijtstoffen een bestemming hebben binnen een derde staat die naar het oordeel van de Autoriteit volgens de door de Commissie van de Europese Gemeenschappen vastgestelde criteria niet beschikt over de technische, wettelijke of bestuurlijke middelen om die stoffen veilig te beheren, zoals in het Gezamenlijk Verdrag inzake de veiligheid van het beheer van bestraalde splijtstof en inzake de veiligheid van het beheer van radioactief afval (Wenen, 5 september 1997; Trb. 2001, 111) is vastgesteld, bij welke beoordeling de Autoriteit rekening houdt met alle relevante informatie van andere lidstaten,
 
 - e. wettelijke voorschriften inzake het beheer of vervoer van radioactieve afvalstoffen of bestraalde splijtstoffen zich tegen de overbrenging verzetten of
 
@@ -552,13 +521,13 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 2. [Artikel 16, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=16&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-## Titel 4.4. Overbrenging van de lidstaat van herkomst via Nederland naar de derde staat van bestemming
+### Titel 4.4. Overbrenging van de lidstaat van herkomst via Nederland naar de derde staat van bestemming
 
 ##### Artikel 43. Beoordeling op volledigheid
 
 Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 44. Van overeenkomstige toepassing verklaring titel 3.2
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -572,7 +541,7 @@ Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag o
 
 2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-## Titel 4.5. Overbrenging van de derde staat van herkomst via Nederland naar de derde staat van bestemming
+### Titel 4.5. Overbrenging van de derde staat van herkomst via Nederland naar de derde staat van bestemming
 
 #### Paragraaf 4.5.1. Nederland als eerste lidstaat van doorvoer
 
@@ -636,7 +605,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 Indien het bevoegd gezag van de eerste lidstaat van doorvoer verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 52. Van overeenkomstige toepassing verklaring titel 3.2
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -662,7 +631,7 @@ Het [Besluit in-, uit- en doorvoer van radioactieve afvalstoffen](https://wetten
 
 ##### Artikel 54. Overgangsrecht vergunningen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55. Citeertitel
 
@@ -671,5 +640,3 @@ Dit besluit wordt aangehaald als: Besluit in-, uit- en doorvoer van radioactieve
 ##### Artikel 56. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

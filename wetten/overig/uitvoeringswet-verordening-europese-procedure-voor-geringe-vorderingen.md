@@ -1,56 +1,27 @@
 ---
 title: "Wet van 29 mei 2009 tot uitvoering van verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199) (Uitvoeringswet verordening Europese procedure voor geringe vorderingen)"
+citeertitel: "Uitvoeringswet verordening Europese procedure voor geringe vorderingen"
 identifier: "BWBR0025914"
-country: "nl"
-rank: "wet"
-publication_date: "2017-07-14"
-last_updated: "2017-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025914"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "10054963"
-version_id: "24028122"
-internal_id: "C34531271"
-label_id: "10031334"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025914/2017-07-14/0"
-intitule_bron: "Stb.2009-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-05-29"
-intitule_published: "2009-06-09"
-intitule_in_force: "2009-06-09"
-intitule_status: "goed"
-original_publication: "Stb.2017-125"
-original_signed_date: "2017-03-22"
-original_published_date: "2017-03-31"
-original_effect: "structuurwijziging"
-original_dossier: "34609"
-original_url_id: "stb-2017-125"
-entry_into_force_date: "2017-03-22"
-entry_into_force_dossier: "34609"
-jci_1_3: "jci1.3:c:BWBR0025914&z=2017-07-14&g=2017-07-14"
-jci_1_0: "1.0:c:BWBR0025914&g=2017-07-14"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet verordening Europese procedure voor geringe vorderingen"
-signed_date: "2017-03-22"
-entry_into_force: "2017-03-22"
+publicatiedatum: 2017-03-22
+laatste_update: 2017-07-14
+status: geldig
+toestand: 2017-07-14
+bron: "https://wetten.overheid.nl/BWBR0025914"
+opgehaald: 2026-08-13
 ---
+
 # Wet van 29 mei 2009 tot uitvoering van verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199) (Uitvoeringswet verordening Europese procedure voor geringe vorderingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van de verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- a. **verordening:** [verordening (EG) nr. 861/2007](32007R0861) van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199), zoals laatstelijk gewijzigd bij Verordening (EU) 2015/2421 van het Europees Parlement en de Raad van 16 december 2015 (PbEU 2015, L 341/1);
+- a. *verordening:*
+ verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199), zoals laatstelijk gewijzigd bij Verordening (EU) 2015/2421 van het Europees Parlement en de Raad van 16 december 2015 (PbEU 2015, L 341/1);
 
-- b. **Europese geringe vordering:** vordering in grensoverschrijdende burgerlijke zaken en handelszaken met een waarde van ten hoogste € 5.000 als bedoeld in artikel 2, eerste lid, van de verordening.
+- b. *Europese geringe vordering:* vordering in grensoverschrijdende burgerlijke zaken en handelszaken met een waarde van ten hoogste € 5.000 als bedoeld in artikel 2, eerste lid, van de verordening.
 
 ##### Artikel 2
 
@@ -59,6 +30,10 @@ In deze wet wordt verstaan onder:
 2. Tegen een beslissing van de kantonrechter in de Europese procedure voor geringe vorderingen staat overeenkomstig de [eerste tot en met derde afdeling van de zevende titel van het Eerste Boek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Derde), hoger beroep open, met dien verstande dat het hoger beroep wordt ingesteld binnen dertig dagen te rekenen vanaf de dag van de beslissing.
 
 3. [Artikel 80 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80) is van overeenkomstige toepassing.
+
+##### Artikel 2a
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 3
 
@@ -101,11 +76,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 11
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese procedure voor geringe vorderingen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

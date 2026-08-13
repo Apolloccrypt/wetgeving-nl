@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2009, nr. R&P/RA/2009/2855 tot instelling van een Comité van Experts subsidieregeling ESF 2007–2013/Actie C"
+citeertitel: "Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie C"
 identifier: "BWBR0025369"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-02-24"
-last_updated: "2010-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025369"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "9916433"
-version_id: "16170642"
-internal_id: "C22185741"
-label_id: "9892884"
-dtd_version: "2.0"
-original_entry_into_force: "2009-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025369/2010-02-24/0"
-intitule_bron: "Stcrt.2009-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-18"
-intitule_published: "2009-03-02"
-intitule_in_force: "2009-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-41"
-original_signed_date: "2009-02-18"
-original_published_date: "2009-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-3084"
-entry_into_force_date: "2009-03-04"
-jci_1_3: "jci1.3:c:BWBR0025369&z=2010-02-24&g=2010-02-24"
-jci_1_0: "1.0:c:BWBR0025369&g=2010-02-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie C"
-signed_date: "2009-02-18"
-entry_into_force: "2009-03-04"
+publicatiedatum: 2009-03-04
+laatste_update: 2010-02-24
+status: geldig
+toestand: 2010-02-24
+bron: "https://wetten.overheid.nl/BWBR0025369"
+opgehaald: 2026-08-13
 ---
+
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2009, nr. R&P/RA/2009/2855 tot instelling van een Comité van Experts subsidieregeling ESF 2007–2013/Actie C
-
-Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, S.A.M. Dijksma, en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, J.M. van Bijsterveldt-Vliegenthart;
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **het comité:** het Comité van experts Subsidieregeling ESF 2007–2013/Actie C als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313&artikel=5);
+- a. *het comité:* het Comité van experts Subsidieregeling ESF 2007–2013/Actie C als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313&artikel=5);
 
-- b. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- b. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- c. **het ministerie:** het Ministerie van Sociale Zaken en Werkgelegenheid.
+- c. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Instelling
 
@@ -99,5 +73,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie C.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
