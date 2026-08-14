@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2009, nr. DBV/PZ 2947060, tot het verlenen van machtiging aan P-Direkt"
+citeertitel: "Besluit machtiging P-Direkt (Minister van Minister van Volksgezondheid, Welzijn en Sport)"
 identifier: "BWBR0026624"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026624"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10271733"
-version_id: "16811762"
-internal_id: "C23143331"
-label_id: "10247174"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026624/2018-07-28/0"
-intitule_bron: "Stcrt.2009-16819"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-09-22"
-intitule_published: "2009-11-10"
-intitule_in_force: "2009-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16819"
-original_signed_date: "2009-09-22"
-original_published_date: "2009-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-16819"
-entry_into_force_date: "2009-11-11"
-jci_1_3: "jci1.3:c:BWBR0026624&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0026624&g=2018-07-28"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging P-Direkt (Minister van Minister van Volksgezondheid, Welzijn en Sport)"
-signed_date: "2009-09-22"
-entry_into_force: "2009-11-11"
+publicatiedatum: 2009-11-11
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0026624"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2009, nr. DBV/PZ 2947060, tot het verlenen van machtiging aan P-Direkt
-
-Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
-
-Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de minister Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de minister Volksgezondheid, Welzijn en Sport;
 
-- b. **ministerie:** ministerie van Volksgezondheid, Welzijn en Sport;
+- b. *ministerie:* ministerie van Volksgezondheid, Welzijn en Sport;
 
-- c. **P-Direkt:** de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;
+- c. *P-Direkt:* de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;
 
-- d. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 

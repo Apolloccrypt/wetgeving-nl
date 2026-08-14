@@ -1,60 +1,30 @@
 ---
 title: "Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2010)"
+citeertitel: "Belastingplan 2010"
 identifier: "BWBR0026958"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026958"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "10347833"
-version_id: "16993522"
-internal_id: "C23432661"
-label_id: "10323374"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026958/2015-01-01/0"
-intitule_bron: "Stb.2009-609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-23"
-intitule_published: "2009-12-29"
-intitule_in_force: "2009-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2009-609"
-original_signed_date: "2009-12-23"
-original_published_date: "2009-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "32128"
-original_url_id: "stb-2009-609"
-entry_into_force_date: "2010-01-01"
-entry_into_force_dossier: "32128"
-jci_1_3: "jci1.3:c:BWBR0026958&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0026958&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2010"
-signed_date: "2009-12-23"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0026958"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2010)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2010 wenselijk is fiscale maatregelen te treffen in het kader van het inkomensbeleid en mede ter bevordering van ondernemerschap, vergroening en vereenvoudiging;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Vervallen
+*Vervallen*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
@@ -62,15 +32,15 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel V
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VIII
 
@@ -78,35 +48,35 @@ Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 janu
 
 ##### Artikel IX
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel XI
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XVI
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVII
 
@@ -118,15 +88,15 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XIX
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel XIXa
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XX
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXI
 
@@ -134,15 +104,15 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XXIV
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
 ##### Artikel XXIVa
 
@@ -152,15 +122,15 @@ Wijzigt de Algemene douanewet.
 
 ##### Artikel XXV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XXVI
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel XXVIII
 
@@ -168,19 +138,19 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XXIX
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel XXX
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel XXXI
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel XXXII
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
 ##### Artikel XXXIII
 
@@ -188,19 +158,19 @@ De wijziging ingevolge [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.
 
 ##### Artikel XXXIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXV
 
-Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.
+*Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
+*Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.*
 
 ##### Artikel XXXVII
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel XXXVIII
 
@@ -235,5 +205,3 @@ Ingeval de samenloop van wetten die in 2009 in het Staatsblad zijn of worden gep
 ##### Artikel XL
 
 Deze wet wordt aangehaald als: Belastingplan 2010.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

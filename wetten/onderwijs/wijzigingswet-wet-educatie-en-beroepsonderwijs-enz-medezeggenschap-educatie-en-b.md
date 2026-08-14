@@ -1,55 +1,26 @@
 ---
 title: "Wet van 17 december 2009, tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op de ondernemingsraden in verband met de medezeggenschap van personeel en deelnemers in de educatie en het beroepsonderwijs (medezeggenschap educatie en beroepsonderwijs)"
+citeertitel: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (medezeggenschap educatie en beroepsonderwijs)"
 identifier: "BWBR0027054"
-country: "nl"
-rank: "wet"
-publication_date: "2010-03-01"
-last_updated: "2010-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027054"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "10383203"
-version_id: "17072082"
-internal_id: "C23638141"
-label_id: "10358634"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027054/2010-03-01/0"
-intitule_bron: "Stb.2010-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-17"
-intitule_published: "2010-01-12"
-intitule_in_force: "2010-02-09"
-intitule_status: "goed"
-original_publication: "Stb.2010-8"
-original_signed_date: "2009-12-17"
-original_published_date: "2010-01-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "31266"
-original_url_id: "stb-2010-8"
-entry_into_force_date: "2010-03-01"
-jci_1_3: "jci1.3:c:BWBR0027054&z=2010-03-01&g=2010-03-01"
-jci_1_0: "1.0:c:BWBR0027054&g=2010-03-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (medezeggenschap educatie en beroepsonderwijs)"
-signed_date: "2009-12-17"
-entry_into_force: "2010-03-01"
+publicatiedatum: 2010-03-01
+laatste_update: 2010-03-01
+status: geldig
+toestand: 2010-03-01
+bron: "https://wetten.overheid.nl/BWBR0027054"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 17 december 2009, tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op de ondernemingsraden in verband met de medezeggenschap van personeel en deelnemers in de educatie en het beroepsonderwijs (medezeggenschap educatie en beroepsonderwijs)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de medezeggenschapsstructuur in de educatie en het beroepsonderwijs in overeenstemming te brengen met de kenmerken en omstandigheden van deze onderwijssector en in dat verband de medezeggenschap van personeel en deelnemers in deze onderwijssector te versterken door middel van invoering van een gedeelde medezeggenschapsstructuur;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+*Wijzigt de Wet educatie en beroepsonderwijs.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### Artikel III
 
@@ -57,7 +28,7 @@ De [Wet medezeggenschap onderwijs 1992](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel IV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel V
 
@@ -98,5 +69,3 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap zendt in overeenstemming met 
 ##### Artikel IX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

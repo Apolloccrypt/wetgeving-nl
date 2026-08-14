@@ -1,84 +1,54 @@
 ---
 title: "Wet van 17 december 2009 tot wijziging van de Successiewet 1956 en enige andere belastingwetten (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur in de Successiewet 1956, alsmede introductie van een regeling voor afgezonderd particulier vermogen in de Wet inkomstenbelasting 2001 en de Successiewet 1956)"
+citeertitel: "Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen)"
 identifier: "BWBR0026937"
-country: "nl"
-rank: "wet"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026937"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "10340363"
-version_id: "16978642"
-internal_id: "C23413271"
-label_id: "10315664"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026937/2011-01-01/0"
-intitule_bron: "Stb.2009-564"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-17"
-intitule_published: "2009-12-23"
-intitule_in_force: "2009-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2009-564"
-original_signed_date: "2009-12-17"
-original_published_date: "2009-12-23"
-original_effect: "nieuwe-regeling"
-original_dossier: "31930"
-original_url_id: "stb-2009-564"
-entry_into_force_date: "2010-01-01"
-entry_into_force_dossier: "31930"
-jci_1_3: "jci1.3:c:BWBR0026937&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0026937&g=2011-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen)"
-signed_date: "2009-12-17"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0026937"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 17 december 2009 tot wijziging van de Successiewet 1956 en enige andere belastingwetten (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur in de Successiewet 1956, alsmede introductie van een regeling voor afgezonderd particulier vermogen in de Wet inkomstenbelasting 2001 en de Successiewet 1956)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) de tarieven te verlagen, het stelsel van vrijstellingen te vereenvoudigen, daar waar nodig de wet aan te passen om ontgaansmogelijkheden te pareren, de bedrijfsopvolgingsregeling opnieuw vorm te geven en in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) een regeling voor afgezonderd particulier vermogen te introduceren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel V
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel VII
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel VIII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel VIIIA
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel VIIIB
 
@@ -88,11 +58,11 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel IX
 
-Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.
+*Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.*
 
 ##### Artikel X
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XA
 
@@ -116,9 +86,9 @@ In afwijking in zoverre van [artikel 6.33, derde lid, van de Wet inkomstenbelast
 
 - b. de ingevolge [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01) gewijzigde of ingevoegde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) voor het eerst toepassing vinden met betrekking tot belastbare feiten in de zin van de Successiewet 1956 die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet, met dien verstande dat:
 
-- 1°. het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01), opgenomen [artikel 1a, vierde lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) voor het eerst toepassing vindt met ingang van 1 januari 2012;
+   - 1°. het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01), opgenomen [artikel 1a, vierde lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) voor het eerst toepassing vindt met ingang van 1 januari 2012;
 
-- 2°. indien een akte als bedoeld in het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01), opgenomen [artikel 1a, vierde lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) is verleden in de periode tot 1 januari 2012, geacht wordt te zijn voldaan aan de termijn, bedoeld in het in artikel I, onderdeel B, opgenomen artikel 1a, vijfde lid, onderdeel a, van de Successiewet 1956.
+   - 2°. indien een akte als bedoeld in het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01), opgenomen [artikel 1a, vierde lid, onderdeel c, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1a) is verleden in de periode tot 1 januari 2012, geacht wordt te zijn voldaan aan de termijn, bedoeld in het in artikel I, onderdeel B, opgenomen artikel 1a, vijfde lid, onderdeel a, van de Successiewet 1956.
 
 2. De [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) zoals die luidde op 31 december 2009 blijft van toepassing op belastbare feiten in de zin van die wet zoals die op die datum luidde, die zich hebben voorgedaan vóór 1 januari 2010. Het in de artikelen [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=53a), [53b](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=53b) en [53c van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=53c), zoals die artikelen op 31 december 2009 luidden, bepaalde blijft van toepassing indien het een schenking of overlijden betreft van vóór 1 januari 2010.
 
@@ -131,5 +101,3 @@ In afwijking in zoverre van [artikel 6.33, derde lid, van de Wet inkomstenbelast
 6. In afwijking van het eerste lid treden [artikel I, onderdeel AHa, en artikel V, onderdeel C, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026937&artikel=I&z=2011-01-01&g=2011-01-01), in werking met ingang van 1 januari 2011.
 
 7. Voor de toepassing van [artikel 5.4, eerste lid, van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.4) wordt onder echtgenoot mede begrepen de persoon die met de erflater een gemeenschappelijke huishouding heeft gevoerd als bedoeld in [artikel 24, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=24) zoals dat lid luidde vóór 1 januari 2010 en de ouder als bedoeld in artikel 5.4, eerste lid, vóór 1 januari 2012 is overleden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

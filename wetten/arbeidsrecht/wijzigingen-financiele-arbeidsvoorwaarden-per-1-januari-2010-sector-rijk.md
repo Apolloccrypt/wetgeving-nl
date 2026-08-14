@@ -1,45 +1,66 @@
 ---
 title: "Wijzigingen in de financiële arbeidsvoorwaarden per 1 januari 2010 voor de ambtenaren werkzaam in de sector Rijk"
+citeertitel: "Wijzigingen financiële arbeidsvoorwaarden per 1 januari 2010 sector Rijk"
 identifier: "BWBR0026898"
-country: "nl"
-rank: "circulaire"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026898"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "10332493"
-version_id: "16959852"
-internal_id: "C23385071"
-label_id: "10307944"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026898/2010-01-01/0"
-intitule_bron: "Stcrt.2009-19716"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-12-21"
-intitule_in_force: "2009-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19716"
-original_published_date: "2009-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19716"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026898&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0026898&g=2010-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingen financiële arbeidsvoorwaarden per 1 januari 2010 sector Rijk"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0026898"
+opgehaald: 2026-08-14
 ---
+
 # Wijzigingen in de financiële arbeidsvoorwaarden per 1 januari 2010 voor de ambtenaren werkzaam in de sector Rijk
 
 ### Inleiding
 
 Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een circulaire over de wijzigingen in de financiële arbeidsvoorwaarden voor de ambtenaren werkzaam in de sector Rijk. U treft in deze circulaire informatie aan over de volgende onderwerpen:
 
+- 1 Vergoeding van verblijfkosten bij dienstreizen
+
+- 2 Tegemoetkomingen in het woon-werkverkeer
+
+- 3 Verhuisvoorzieningen Sociaal flankerend beleid
+
+- 4 Te werken uren op jaarbasis
+
+- 5 Eindejaarsuitkering
+
+- 6 Maximum spaarloonbedrag
+
+- 7 Inhoudingen en afdrachten van premies
+
+- 8 Ouderschapsverlofkorting
+
+- 9 Levensloopverlofkorting
+
+- 10 Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel
+
+- 11 Wetsvoorstel(len) Belastingen 2010
+
+- 12 Verhaal van WGA-lasten op de werknemer
+
+- 13 Salderen van kilometers bij vervoer vanwege de werkgever
+
+- 14 Bijlage regelgeving en circulaires
+
 ### 1. Vergoeding van verblijfkosten bij dienstreizen
 
 De vergoedingen voor verblijfkosten tijdens dienstreizen wijzigen met ingang van 1 januari 2010 als volgt:
+
+- – het bedrag voor kleine uitgaven overdag: € 4,15 (was € 3,98).
+
+- – het bedrag voor kleine uitgaven ’s-avonds: € 12,41 (was € 11,90).
+
+- – het bedrag voor een lunch: € 12,94 (was € 12,56).
+
+- – het bedrag voor een avondmaaltijd: € 19,57 (was € 19,00).
+
+- – het bedrag voor logies: € 83,01 (was € 75,67).
+
+- – het bedrag voor een ontbijt: € 8,11 (was € 7,39).
 
 De vergoedingsbedragen voor het gebruik van een privé vervoermiddel, € 0,37 en € 0,09 per kilometer, wijzigen niet.
 
@@ -48,6 +69,24 @@ NB: De Belastingdienst handhaaft het bedrag per kilometer dat maximaal onbelast 
 ### 2. Tegemoetkomingen in het woon-werkverkeer
 
 Met ingang van 1 januari 2010 wijzigen de bedragen die in het kader van het woon-werkverkeer als tegemoetkoming voor het gebruik van eigen vervoer kunnen worden verstrekt als volgt:
+
+- – het maximum bedrag per maand voor de hoge kilometervergoeding wijzigt van € 315,82 in € 328,15;
+
+- – het maximum bedrag per dag voor de hoge kilometervergoeding wijzigt van
+
+- – € 17,71 in € 18,40;
+
+- – het maximumbedrag per maand van de lage kilometervergoeding wijzigt van
+
+- – € 47,44 in € 49,29;
+
+- – het maximumbedrag per dag van de lage kilometervergoeding wijzigt van
+
+- – € 2,66 in € 2,76;
+
+- – na afronding blijft het bedrag van de hoge kilometervergoeding € 0,16;
+
+- – na afronding blijft het bedrag van de lage kilometervergoeding € 0,05.
 
 ### 3. Verhuisvoorzieningen Sociaal flankerend beleid
 
@@ -62,6 +101,20 @@ voorziening 12: € 11.454,42 (was € 11.374,80)
 Het aantal te werken uren op jaarbasis bedraagt in 2010 bij een volledige arbeidsduur van gemiddeld 36 uur per week afgerond 1836 uren.
 
 Dit aantal is het resultaat van de volgende berekening
+
+| Aantal dagen 2010 |  | 365 |
+| --- | --- | --- |
+| Aantal zaterdagen | 52 |  |
+| Aantal zondagen | 52 |  |
+| Nieuwjaarsdag, vrijdag 1 januari | 1 |  |
+| Tweede paasdag, maandag 5 april | 1 |  |
+| Koninginnedag, vrijdag 30 april | 1 |  |
+| Bevrijdingsdag, woensdag 5 mei | 1 |  |
+| Hemelvaartsdag, donderdag 13 mei | 1 |  |
+| Tweede Pinksterdag, maandag 24 mei | 1 |  |
+| Totaal zaterdag, zondag en feestdagen | 110 |  |
+| Totaal aantal te werken dagen 2010 |  | 255 |
+| Aantal te werken hele uren (255 x 7,2) |  | 1836 |
 
 NB: In de oktobervergadering van de ICOP zijn de blokdagen voor het jaar 2010 en 2011 rijksbreed vastgelegd, voor zover dit de Haagse kern betreft ofwel de delen waarvoor ministeries voorheen allen afzonderlijk blokdagen vaststelden. Als blokdagen zijn aangewezen: 14 mei 2010 (dag na Hemelvaart), 6 mei 2011 (dag na Bevrijdingsdag) en 3 juni 2011 (dag na Hemelvaart). Besloten is echter, dat de Belastingdienst in de gelegenheid wordt gesteld op 6 mei 2011 zijn dienstonderdelen wel open te stellen.
 
@@ -97,11 +150,37 @@ In deze regeling wordt bij het vaststellen van de hoogte van de bijdrage een uur
 
 Het kabinet heeft besloten vanaf 2010 afzonderlijke uurprijzen te hanteren, te weten voor:
 
+- a. dagopvang een bedrag van maximaal € 6,25;
+
+- b. buitenschoolse opvang een bedrag van maximaal € 5,82;
+
+- c. gastouderopvang een bedrag van maximaal € 5,00.
+
 (Besluit van 29 september 2009, gepubliceerd in Staatsblad 2009, nr. 402).
 
 ### 11. Wetsvoorstel(len) Belastingen 2010
 
 Het Belastingplan 2010 c.a. bestaat uit 6 onderdelen, te weten:
+
+- – Belastingplan 2010, Overige fiscale maatregelen 2010, Fiscale Vereenvoudigingswet 2010, Wetsvoorstel uniformering loonbegrip, Fiscale onderhoudswet 2010 en Wetsvoorstel afschaffing vliegbelasting. Op een aantal maatregelen vestig ik graag uw aandacht.
+
+- – Er wordt een nieuwe categorie auto’s zonder CO2 uitstoot geïntroduceerd, zoals elektrische auto’s, waarvoor een bijtelling voor het privégebruik van 0% geldt in de jaren 2010 tot en met 2014 en van 14% vanaf 2015.
+
+- – De door de Belastingdienst geaccepteerde wijze waarop loon in de salarisadministratie met terugwerkende kracht aan verstreken loontijdvakken wordt toegerekend, de ‘loon over’ methode, wordt ook in 2010 toegestaan, als de inhoudingsplichtige daarin een bestendige gedragslijn volgt.
+
+- – Wetgeving is in de maak om vanaf 2011 de ‘eenduidige loonaangifte’ in te voeren, waarbij onder handhaving van de ‘loon over’ methode de correctieberichten met betrekking tot het lopende kalenderjaar komen te vervallen.
+
+- – Voor werknemers jonger dan 23 jaar geldt de ‘kleine banen regeling’, vooralsnog alleen in 2010, waarbij een vrijstelling geldt voor de premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). Of sprake is van een ‘kleine baan’ wordt bepaald aan de hand van een per leeftijd verschillend maximaal loon.
+
+- – Het door werknemers, die op 1 januari van het jaar 61 jaar of ouder zijn, opgenomen levenslooploon wordt niet langer als loon uit tegenwoordige arbeid aangemerkt. Er bestaat over dat loon geen recht meer op de arbeidskorting en evenmin op de doorwerkbonus. De groene loonbelastingtabel is van toepassing.
+
+- – Met ingang van 1 januari 2010 is er een nieuwe afdrachtvermindering onderwijs: de afdrachtvermindering voor verhoging van het opleidingsniveau van de werknemer. Deze afdrachtvermindering geldt voor één jaar en vervalt per 1 januari 2011.
+
+- – Vanaf 1 januari 2010 bestaat ook recht op premiekorting oudere werknemers voor het in dienst nemen van werknemers van 50 jaar of ouder met minimaal twee jaar recht op een nabestaandenuitkering (ANW) en in die twee jaar geen arbeidsinkomen.
+
+- – Vanaf 1 januari 2011 wordt onder de naam ‘werkkostenregeling’ voor de vrije vergoedingen en verstrekkingen een eenvoudiger stelsel gecreëerd. Werkgevers krijgen tot 2014 per kalenderjaar de keuze om het bestaande stelsel te handhaven. Over de gevolgen van dit voorstel voor de sector Rijk zal met de Sectorcommissie overleg rijkspersoneel (SOR) gesproken worden.
+
+- – Vanaf 1 januari 2011 of 2012, voor 1 juli 2010 wordt dat bekend gemaakt, wordt het loonbegrip voor de loonbelasting/premie volksverzekeringen, voor de werknemersverzekeringen en voor de zorgverzekeringswet geüniformeerd.
 
 Voor meer informatie verwijs ik u naar de documentatie behorend bij de wetsvoorstellen (kamerstuk 32128 t/m 32133) en naar de informatie van de Belastingdienst.
 
@@ -119,53 +198,12 @@ Vergoedingen voor zakelijke kilometers zijn belastingvrij, voor zover deze een b
 
 Variabele kilometervergoedingen mogen daarbij gesaldeerd worden om te bepalen of de vergoeding gemiddeld meer is dan € 0,19 per kilometer. Kilometers die gemaakt zijn met vervoer vanwege de werkgever mogen niet in de saldering worden betrokken. In het Interdepartementaal Fiscaal Overleg is benadrukt, dat als vervoer vanwege de werkgever ook wordt aangemerkt:
 
+- - het vervoer van de ambtenaar die meereist met een collega die daarvoor een verhoogde kilometervergoeding ontvangt ([artikel 3 Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=3));
+
+- - het vervoer van de ambtenaar die meereist met een collega die daarvoor ook de omrijdkilometers vergoed krijgt ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=2) en [3 Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=3)).
+
 ### 14. Regelgeving en circulaires
 
-In de bijlage vindt u een overzicht van de in 2009 tot stand gekomen (wijzigingen van) algemene maatregelen van bestuur, ministeriële regelingen en circulaires.
+In de [bijlage](https://wetten.overheid.nl/BWBR0026898) vindt u een overzicht van de in 2009 tot stand gekomen (wijzigingen van) algemene maatregelen van bestuur, ministeriële regelingen en circulaires.
 
 Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.
-
-## Bijlage
-
-| Wetgeving en Algemene maatregelen van bestuur | Wetgeving en Algemene maatregelen van bestuur | Wetgeving en Algemene maatregelen van bestuur |
-| --- | --- | --- |
-| Datum | Staatsblad | Beschrijving |
-| 12-02-2009 | 2009, 50 | [Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) |
-| 12-02-2009 | 2009, 51 | Besluit van 21 januari 2009 houdende vaststelling van het tijdstip van inwerkingtreding van de Wet vergoedingen adviescolleges en commissies |
-| 02-07-2009 | 2009, 279 | Besluit van 17 juni 2009, houdende wijziging van het Arbeidstijdenbesluit in verband met personenchauffeurs |
-| 21-07-2009 | 2009, 302 | Besluit van 3 juli 2009 tot wijziging van het Verplaatsingskostenbesluit 1989 en het Besluit reis-, verblijf- en verhuiskosten politie in verband met enkele wijzigingen in de tegemoetkoming voor woon-werkverkeer en enkele andere wijzigingen |
-| 26-08-2009 | 2009, 354 | [Besluit van 18 juli 2009, houdende wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met een aanpassing in de benoemingstermijnen van commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0026301) |
-
-| Ministeriële regelingen | Ministeriële regelingen | Ministeriële regelingen | Ministeriële regelingen |
-| --- | --- | --- | --- |
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| 16-03-2009 | 2009-000080494 | 2009, 51 | Wijziging Verplaatsingskostenregeling 1989 (tegemoetkoming woon-werkverkeer) |
-| 31-03-2009 | 2009-0000136539 | 2009, 62 | Wijziging Reisregeling buitenland (Tarieflijst 1 april 2009) |
-| 07-05-2009 | 2009-0000209371 | 2009, 83 | Levensloopregeling rijkspersoneel |
-| 11-05-2009 | 2009-0000221776 | 2009, 85 | Spaarloonregeling rijkspersoneel |
-| 25-06-2009 | 2009-0000279708 | 2009, 115 | Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel. |
-| 20-07-2009 | 2009-0000350074 | 2009, 10878 | Wijziging Verplaatsingskostenregeling 1989 (tegemoetkoming woon-werkverkeer) |
-| 29-09-2009 | 2009-0000509932 | 2009, 14405 | Wijziging Reisregeling buitenland (Tarieflijst 1 oktober 2009) |
-| Nog onbekend | 2009-0000678530 | Nog onbekend | Wijziging reisregeling binnenland. |
-
-| Circulaires | Circulaires | Circulaires | Circulaires |
-| --- | --- | --- | --- |
-| Datum | Kenmerk | Staatscourant | Beschrijving |
-| 08-01-2009 | 2008-0000557098 | 2009, 16 | Aanvullende afspraken betreffende de circulaire "pilot tussen Rijk en Onderwijs" |
-| 29-01-2009 | [2009-0000033018](https://wetten.overheid.nl/jci1.3:c:BWBR0025276) | 2009, 26 | Vergoedingen adviescolleges en commissies |
-| 23-02-2009 | [2009-0000049210](https://wetten.overheid.nl/jci1.3:c:BWBR0025384) | 2009, 43 | Woon-werkverkeer: regioproblematiek |
-| 27-02-2009 | [2009-0000107039](https://wetten.overheid.nl/jci1.3:c:BWBR0025459) | 2009, 49 | Harmonisering stagevergoedingen |
-| 02-03-2009 | 2009-0000107860 | 2009, 53 | Woon-werkverkeer: regioproblematiek correctie |
-| 02-03-2009 | 2009-0000109419 | 2009, 53 | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2009 |
-| 27-04-2009 | 2009-0000216564 | 2009, 88 | WGA-premieverhaal naar 0,0% |
-| 29-04-2009 | [2009-0000093084](https://wetten.overheid.nl/jci1.3:c:BWBR0025885) | 2009, 97 | Woon-werkverkeer: aanvullende afspraken |
-| 04-06-2009 | [2009-0000297075](https://wetten.overheid.nl/jci1.3:c:BWBR0025974) | 2009, 111 | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d. |
-| 04-06-2009 | [2009-0000303728](https://wetten.overheid.nl/jci1.3:c:BWBR0025976) | 2009, 111 | Aanpassing huurwaarde dienstwoningen |
-| 23-07-2009 | 2009-0000320969 | 2009, 11622 | Arbeidsvoorwaarden personenchauffeurs |
-| 29-07-2009 | [2009-0000411580](https://wetten.overheid.nl/jci1.3:c:BWBR0026232) | 2009, 11937 | SGI faciliteiten |
-| 29-07-2009 | [2009-0000411125](https://wetten.overheid.nl/jci1.3:c:BWBR0026236) | 2009, 11938 | Spaarloonregeling |
-| 08-09-2009 | 2009-0000487069 | 2009, 14049 | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2009 |
-| 03-11-2009 | 2009-0000574557 | 2009, 17140 | Doorwerken na 65 jaar bij de sector Rijk |
-| xx-xx-2009 | 2009-0000591255 | Op datum circulaire niet bekend | Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2010 |
-| Nog onbekend | 2009-0000290758 | Nog onbekend | Registratie integriteitsschendingen |
-| Nog onbekend | 2009-0000662800 | Nog onbekend | Aanvulling Modelgedragscode Integriteit Sector Rijk |

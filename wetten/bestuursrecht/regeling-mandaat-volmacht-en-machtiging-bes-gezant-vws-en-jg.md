@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 1 december 2009, nr. IZ 2971712, houdende verlening van mandaat, volmacht en machtiging aan de gezant voor de BES-eilanden, Bonaire, St. Eustatius en Saba"
+citeertitel: "Regeling mandaat, volmacht en machtiging BES-gezant VWS en J&G"
 identifier: "BWBR0026807"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2009-12-15"
-last_updated: "2009-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026807"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "10309233"
-version_id: "16895402"
-internal_id: "C23272831"
-label_id: "10284684"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026807/2009-12-15/0"
-intitule_bron: "Stcrt.2009-19102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-01"
-intitule_published: "2009-12-14"
-intitule_in_force: "2009-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19102"
-original_signed_date: "2009-12-01"
-original_published_date: "2009-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19102"
-entry_into_force_date: "2009-12-15"
-jci_1_3: "jci1.3:c:BWBR0026807&z=2009-12-15&g=2009-12-15"
-jci_1_0: "1.0:c:BWBR0026807&g=2009-12-15"
-citeertitel_status: "officieel"
-short_title: "Regeling mandaat, volmacht en machtiging BES-gezant VWS en J&G"
-signed_date: "2009-12-01"
-entry_into_force: "2009-12-15"
+publicatiedatum: 2009-12-15
+laatste_update: 2009-12-15
+status: geldig
+toestand: 2009-12-15
+bron: "https://wetten.overheid.nl/BWBR0026807"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 1 december 2009, nr. IZ 2971712, houdende verlening van mandaat, volmacht en machtiging aan de gezant voor de BES-eilanden, Bonaire, St. Eustatius en Saba
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluiten:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport of de Minister voor Jeugd en Gezin;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport of de Minister voor Jeugd en Gezin;
 
-- b. **Centrum:** Regionaal Service Centrum als bedoeld in [artikel 2 van het Instellingsbesluit Regionaal Service Centrum BES-eilanden](https://wetten.overheid.nl/jci1.3:c:BWBR0024746&artikel=2);
+- b. *Centrum:* Regionaal Service Centrum als bedoeld in [artikel 2 van het Instellingsbesluit Regionaal Service Centrum BES-eilanden](https://wetten.overheid.nl/jci1.3:c:BWBR0024746&artikel=2);
 
-- c. **BES-gezant:** functionaris die ten behoeve van de minister werkzaamheden verricht op het terrein van Volksgezondheid, Welzijn en Sport en Jeugd en Gezin op de eilanden Bonaire, Sint Eustatius en Saba;
+- c. *BES-gezant:* functionaris die ten behoeve van de minister werkzaamheden verricht op het terrein van Volksgezondheid, Welzijn en Sport en Jeugd en Gezin op de eilanden Bonaire, Sint Eustatius en Saba;
 
-- d. **kwartiermaker:** functionaris die ten behoeve van de minister werkzaam is bij het Centrum;
+- d. *kwartiermaker:* functionaris die ten behoeve van de minister werkzaam is bij het Centrum;
 
-- e. **mandaat:** de bevoegdheid om in naam van de minister die het aangaat besluiten te nemen;
+- e. *mandaat:* de bevoegdheid om in naam van de minister die het aangaat besluiten te nemen;
 
-- f. **volmacht:** de bevoegdheid om in naam van de minister die het aangaat privaatrechtelijke rechtshandelingen te verrichten;
+- f. *volmacht:* de bevoegdheid om in naam van de minister die het aangaat privaatrechtelijke rechtshandelingen te verrichten;
 
-- g. **machtiging:** bevoegdheid om in naam van de minister die het aangaat handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+- g. *machtiging:* bevoegdheid om in naam van de minister die het aangaat handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2. Machtiging
 
@@ -105,5 +79,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9. Citeertitel
 
 Deze regeling zal worden aangehaald als: Regeling mandaat, volmacht en machtiging BES-gezant VWS en J&G.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

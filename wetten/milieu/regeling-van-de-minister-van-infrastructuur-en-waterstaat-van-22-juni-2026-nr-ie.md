@@ -9,7 +9,7 @@ laatste_update: 2026-08-13
 status: geldig
 toestand: 2026-08-13
 bron: "https://wetten.overheid.nl/BWBR0052977"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-14
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 22 juni 2026, nr. IENW/BSK-2026/101849, houdende tijdelijke regels voor subsidiëring van de vroege opschaling van de energietransitie van zeeschepen 2026 – 2030 (Tijdelijke subsidieregeling vroege opschaling energietransitie zeeschepen 2026–2030) [KetenID WGK027870]

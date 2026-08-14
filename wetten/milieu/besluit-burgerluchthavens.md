@@ -1,58 +1,18 @@
 ---
 title: "Besluit van 30 september 2009, houdende regels voor burgerluchthavens (Besluit burgerluchthavens)"
+citeertitel: "Besluit burgerluchthavens"
 identifier: "BWBR0026525"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026525"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10238593"
-version_id: "16748232"
-internal_id: "C23099801"
-label_id: "10214594"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026525/2024-01-01/0"
-intitule_bron: "Stb.2009-412"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-09-30"
-intitule_published: "2009-10-20"
-intitule_in_force: "2009-10-30"
-intitule_status: "goed"
-original_publication: "Stb.2009-412"
-original_signed_date: "2009-09-30"
-original_published_date: "2009-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-412"
-entry_into_force_date: "2009-11-01"
-jci_1_3: "jci1.3:c:BWBR0026525&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0026525&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit burgerluchthavens"
-signed_date: "2009-09-30"
-entry_into_force: "2009-11-01"
+publicatiedatum: 2009-11-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0026525"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 30 september 2009, houdende regels voor burgerluchthavens (Besluit burgerluchthavens)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 9 februari 2009, nr. CEND/HDJZ-2009/120 sector LUV, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Gelet op:
-
-bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart;
-
-de [artikelen 8.1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a), [8.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.41), [8.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.44), [8.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.47), [8.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54), [8.64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), [8a.38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), [8a.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), [8a.50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50), en [8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51);
-
-[artikel 76, eerste lid, onderdeel a, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=76);
-
-[artikel 23, onder a, van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=23);
-
-De Raad van State gehoord (advies van 19 maart 2009, nr. W09.09.0030/IV);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 24 september 2009, nr. CEND/HDJZ-2009/1009 sector LUV, Hoofddirectie Juridische Zaken, uitgebracht mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -60,71 +20,72 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
+- *bedrijfswoning:* woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
 
-- **beperkt kwetsbaar gebouw:** gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *beperkt kwetsbaar gebouw:* gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **gebouw:** gebouw als bedoeld in [bijlage bij de Omgevingswet](onbekend);
+- *gebouw:* gebouw als bedoeld in [bijlage bij de Omgevingswet](https://wetten.overheid.nl/BWBR0037885);
 
-- **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *geluidsgevoelig gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
+- *gemotoriseerd schermvliegtuig:* schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
 
-- **handhavingspunt:** locatie waar de geluidbelasting van het luchthavenluchtverkeer niet hoger mag zijn dan de in het luchthavenbesluit of de luchthavenregeling vastgestelde waarde;
+- *handhavingspunt:* locatie waar de geluidbelasting van het luchthavenluchtverkeer niet hoger mag zijn dan de in het luchthavenbesluit of de luchthavenregeling vastgestelde waarde;
 
-- **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn rotorbladen;
+- *helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn rotorbladen;
 
-- **instrumentbaan categorie I, II, of III:** landingsbaan van het type zoals omschreven in de onderdelen b, c en d van de definitie van het begrip Instrument runway in bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48);
+- *instrumentbaan categorie I, II, of III:* landingsbaan van het type zoals omschreven in de onderdelen b, c en d van de definitie van het begrip Instrument runway in bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48);
 
-- **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *kwetsbaar gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01);
+- *Lden:* geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
-- **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
+- *luchtschip:* luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
-- **micro light aeroplane:** MLA als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922);
+- *micro light aeroplane:* MLA als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922);
 
-- **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
+- *modelluchtvaartuig:* luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
 
-- **nood- of voorzorgslanding:** onvermijdbare landing van een luchtvaartuig op land of op water in het geval dat het voortzetten van de vlucht niet langer mogelijk dan wel niet langer veilig is;
+- *nood- of voorzorgslanding:* onvermijdbare landing van een luchtvaartuig op land of op water in het geval dat het voortzetten van de vlucht niet langer mogelijk dan wel niet langer veilig is;
 
-- **omgevingsvergunning voor een aanlegactiviteit:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit het uitvoeren van een werk, geen bouwwerk zijnde, of van werkzaamheden;
+- *omgevingsvergunning voor een aanlegactiviteit:* omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit het uitvoeren van een werk, geen bouwwerk zijnde, of van werkzaamheden;
 
-- **omgevingsvergunning voor het bouwen:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
+- *omgevingsvergunning voor het bouwen:* omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
 
-- **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
+- *obstakel:* object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
-- **onbemand luchtvaartuig:** onbemand luchtvaartuig als bedoeld in artikel 3 van de basisverordening;
+- *onbemand luchtvaartuig:* onbemand luchtvaartuig als bedoeld in artikel 3 van de basisverordening;
 
-- **overig gebouw:** gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
+- *overig gebouw:* gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
 
-- **paramotortrike:** luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
+- *paramotortrike:* luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
 
-- a. 300 kg voor een eenzitter;
+   - a. 300 kg voor een eenzitter;
 
-- b. 450 kg voor een tweezitter;
+   - b. 450 kg voor een tweezitter;
 
-- **RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
+- *RPA:* op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
 
-- **schermzweeftoestel:** ongemotoriseerd schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
+- *schermzweeftoestel:* ongemotoriseerd schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
 
-- **valscherm:** scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat hij veilig de begane grond kan bereiken;
+- *valscherm:* scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat hij veilig de begane grond kan bereiken;
 
-- **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn vleugels;
+- *vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn vleugels;
 
-- **vrije ballon:** luchtvaartuig, lichter dan lucht, dat niet voorzien is van een voortstuwingsinrichting en is ingericht en bestemd om ten minste één persoon te vervoeren;
+- *vrije ballon:* luchtvaartuig, lichter dan lucht, dat niet voorzien is van een voortstuwingsinrichting en is ingericht en bestemd om ten minste één persoon te vervoeren;
 
-- **watervliegtuig:** een luchtvaartuig dat zich te water als schip kan verplaatsen;
+- *watervliegtuig:* een luchtvaartuig dat zich te water als schip kan verplaatsen;
 
-- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
-- **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd;
+- *woning:* gebouw dat geheel of gedeeltelijk voor bewoning is bestemd;
 
-- **zeilvliegtuig:** zweeftoestel met een starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
+- *zeilvliegtuig:* zweeftoestel met een starre hoofdstructuur, dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
 
-- **zweeftoestel:** luchtvaartuig, niet zijnde een motorzweefvliegtuig, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor;
+- *zweeftoestel:* luchtvaartuig, niet zijnde een motorzweefvliegtuig, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor;
 
-- **zweefvliegtuig:** zweeftoestel met vaste vleugel, zijnde een luchtvaartuig zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten waarvan de vrije vlucht niet afhankelijk is van een motor.
+- *zweefvliegtuig:* zweeftoestel met vaste vleugel, zijnde een luchtvaartuig zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten waarvan de vrije vlucht niet afhankelijk is van een motor.
 
 2. In dit besluit en de daarop berustende bepalingen wordt onder woning tevens verstaan woonboot of woonwagen.
 
@@ -174,13 +135,13 @@ De in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarden worden 
 
 ### Hoofdstuk 3. Burgerluchthavens van regionale betekenis
 
-## Titel 1. Reikwijdte
+### Titel 1. Reikwijdte
 
 ##### Artikel 6
 
 Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1).
 
-## Titel 2. Gebruik luchthaven van regionale betekenis bij bovenprovinciaal belang
+### Titel 2. Gebruik luchthaven van regionale betekenis bij bovenprovinciaal belang
 
 ##### Artikel 7
 
@@ -190,9 +151,9 @@ Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als
 
 3. Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Infrastructuur en Waterstaat naar voren te brengen.
 
-## Titel 3. Luchthavenbesluit voor een luchthaven van regionale betekenis
+### Titel 3. Luchthavenbesluit voor een luchthaven van regionale betekenis
 
-### Afdeling 3.1. Grenswaarden voor de geluidbelasting
+#### Afdeling 3.1. Grenswaarden voor de geluidbelasting
 
 ##### Artikel 8
 
@@ -202,7 +163,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - b. één handhavingspunt met een grenswaarde voor de geluidbelasting op elke locatie waar woonbebouwing met een aaneengesloten karakter gelegen is op of in de nabijheid van een geluidcontour van 56 dB(A) Lden.
 
-### Afdeling 3.2. Regels omtrent de ruimtelijke indeling
+#### Afdeling 3.2. Regels omtrent de ruimtelijke indeling
 
 #### § 3.2.1. Algemeen
 
@@ -290,11 +251,11 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - b. kan een verklaring van geen bezwaar slechts worden afgegeven voor een woning of een geluidsgevoelig gebouw, gelegen op de contour van 56 dB(A) Lden of in het gebied tussen de contour van 56 dB(A) Lden en de contour van 70 dB(A) Lden die:
 
-- 1°. een open plek in de bestaande bebouwing opvult,
+   - 1°. een open plek in de bestaande bebouwing opvult,
 
-- 2°. zal dienen ter vervanging van op die plaats reeds aanwezige bebouwing, of
+   - 2°. zal dienen ter vervanging van op die plaats reeds aanwezige bebouwing, of
 
-- 3°. binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
+   - 3°. binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
 
 4. Het derde lid, onderdeel b, aanhef en onder 3°, wordt niet eerder toegepast dan nadat de oude woning of het oude geluidsgevoelige gebouw aan de functie is onttrokken.
 
@@ -396,7 +357,7 @@ Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de
 
 Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50) worden aangewezen:
 
-- a. Modelluchtvaartuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt en RPA’s waarvan de totale massa ten hoogste 25 kilogram bedraagt;
+- a. Modelluchtvaartuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt en RPA’s waarvan de totale massa ten hoogste 25 kilogram bedraagt;
 
 - b. ballonnen die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 meter of een inhoud van ten hoogste 4 kubieke meter hebben, alsmede aan elkaar gekoppelde ballonnen waarvan de gezamenlijke diameter en inhoud deze waarden niet te boven gaan;
 
@@ -442,7 +403,7 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 - d. micro light aeroplanes;
 
-- e. RPA’s waarvan de totale massa meer dan 25 kilogram maar niet meer dan 150 kilogram bedraagt;
+- e. RPA’s waarvan de totale massa meer dan 25 kilogram maar niet meer dan 150 kilogram bedraagt;
 
 - f. vliegtuigen die deelnemen aan een luchtvaartvertoning;
 
@@ -464,7 +425,7 @@ De formules ter bepaling van de geluidsproductie met betrekking tot de luchthave
 
 ##### Artikel 23
 
-Wijzigt het Besluit informatie-uitwisseling ondergrondse netten.
+*Wijzigt het Besluit informatie-uitwisseling ondergrondse netten.*
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -479,5 +440,3 @@ Dit besluit wordt aangehaald als: Besluit burgerluchthavens.
 ##### Artikel 26
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

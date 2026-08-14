@@ -1,91 +1,62 @@
 ---
 title: "Wet van 11 maart 2010 tot aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s)"
+citeertitel: "Aanpassingswet veiligheidsregio’s"
 identifier: "BWBR0027465"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027465"
+categorie: "Overig"
 soort: "wet"
-stam_id: "10486373"
-version_id: "17256242"
-internal_id: "C24205711"
-label_id: "10461934"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027465/2015-01-01/0"
-intitule_bron: "Stb.2010-146"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-11"
-intitule_published: "2010-04-01"
-intitule_in_force: "2010-07-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-146"
-original_signed_date: "2010-03-11"
-original_published_date: "2010-04-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "31968"
-original_url_id: "stb-2010-146"
-entry_into_force_date: "2010-10-01"
-jci_1_3: "jci1.3:c:BWBR0027465&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0027465&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanpassingswet veiligheidsregio’s"
-signed_date: "2010-03-11"
-entry_into_force: "2010-10-01"
+publicatiedatum: 2010-10-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0027465"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 11 maart 2010 tot aanpassing van een aantal wetten aan de Wet veiligheidsregio’s en enkele wijzigingen in de Wet veiligheidsregio’s (Aanpassingswet veiligheidsregio’s)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met de invoering van de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) een aantal wetten aan te passen en enkele bepalingen van de Wet veiligheidsregio’s te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Ministerie van Justitie
 
 ##### Artikel I
 
-Wijzigt het Burgerlijk Wetboek Boek 4.
+*Wijzigt het Burgerlijk Wetboek Boek 4.*
 
 ##### Artikel II
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ### Hoofdstuk II. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel IV
 
-Wijzigt de Coördinatiewet uitzonderingstoestanden.
+*Wijzigt de Coördinatiewet uitzonderingstoestanden.*
 
 ##### Artikel V
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel VI
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel VIa
 
-Wijzigt de Wet op het LSOP en het politieonderwijs.
+*Wijzigt de Wet op het LSOP en het politieonderwijs.*
 
 ##### Artikel VII
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet rechtspositionele voorzieningen rampbestrijders.
+*Wijzigt de Wet rechtspositionele voorzieningen rampbestrijders.*
 
 ##### Artikel IX
 
-Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.
+*Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.*
 
 ##### Artikel X
 
@@ -93,121 +64,121 @@ De [Wet van 11 november 1993, houdende wijziging van de Brandweerwet 1985 in ver
 
 ##### Artikel Xa
 
-1. Wijzigt de Wet herindeling gemeenten Horst aan de Maas, Meerlo-Wanssum, Sevenum en Venray, de Wet samenvoeging gemeenten Reiderland, Scheemda en Winschoten, de Wet samenvoeging gemeenten Helden, Kessel, Maasbree en Meijel, de Wet samenvoeging gemeenten Arcen en Velden en Venlo en een deel van het grondgebied van de gemeente Bergen Lb en de Wet samenvoeging gemeenten Moordrecht, Nieuwerkerk aan den IJssel en Zevenhuizen-Moerkapelle.
+1. *Wijzigt de Wet herindeling gemeenten Horst aan de Maas, Meerlo-Wanssum, Sevenum en Venray, de Wet samenvoeging gemeenten Reiderland, Scheemda en Winschoten, de Wet samenvoeging gemeenten Helden, Kessel, Maasbree en Meijel, de Wet samenvoeging gemeenten Arcen en Velden en Venlo en een deel van het grondgebied van de gemeente Bergen Lb en de Wet samenvoeging gemeenten Moordrecht, Nieuwerkerk aan den IJssel en Zevenhuizen-Moerkapelle.*
 
-2. Wijzigt de Wet tot samenvoeging van de gemeenten Abcoude, Breukelen, De Ronde Venen en Loenen (Kst. 31 840).
+2. *Wijzigt de Wet tot samenvoeging van de gemeenten Abcoude, Breukelen, De Ronde Venen en Loenen (Kst. 31 840).*
 
-3. Wijzigt de Wet herindeling gemeenten Rotterdam en Rozenburg.
+3. *Wijzigt de Wet herindeling gemeenten Rotterdam en Rozenburg.*
 
 ##### Artikel XI
 
-Wijzigt de Wet veiligheidsregio's.
+*Wijzigt de Wet veiligheidsregio's.*
 
 ### Hoofdstuk III. Ministerie van Defensie
 
 ##### Artikel XII
 
-Wijzigt de Belemmeringenwet Landsverdediging.
+*Wijzigt de Belemmeringenwet Landsverdediging.*
 
 ### Hoofdstuk IV. Ministerie van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
 
 ##### Artikel XIII
 
-Wijzigt de Kernenergiewet.
+*Wijzigt de Kernenergiewet.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel XV
 
-De [Wet van 25 februari 1999 tot wijziging van de Wet milieubeheer, de Wet rampen en zware ongevallen en de Arbeidsomstandighedenwet ter uitvoering van de EG-richtlijn betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (Seveso-II)](https://wetten.overheid.nl/jci1.3:c:BWBR0010294) ( **Stb.** 1999, 122) wordt ingetrokken.
+De [Wet van 25 februari 1999 tot wijziging van de Wet milieubeheer, de Wet rampen en zware ongevallen en de Arbeidsomstandighedenwet ter uitvoering van de EG-richtlijn betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (Seveso-II)](https://wetten.overheid.nl/jci1.3:c:BWBR0010294) ( *Stb.* 1999, 122) wordt ingetrokken.
 
 ### Hoofdstuk V. Ministerie van Verkeer en Waterstaat
 
 ##### Artikel XVI
 
-Wijzigt de Havenbeveiligingswet.
+*Wijzigt de Havenbeveiligingswet.*
 
 ##### Artikel XVII
 
-Wijzigt de Luchtvaartwet.
+*Wijzigt de Luchtvaartwet.*
 
 ##### Artikel XVIII
 
-Wijzigt de Scheepvaartverkeerswet.
+*Wijzigt de Scheepvaartverkeerswet.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet aanvullende regels veiligheid wegtunnels.
+*Wijzigt de Wet aanvullende regels veiligheid wegtunnels.*
 
 ##### Artikel XX
 
-Wijzigt de Waterstaatswet 1900.
+*Wijzigt de Waterstaatswet 1900.*
 
 ##### Artikel XXI
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet bestrijding ongevallen Noordzee.
+*Wijzigt de Wet bestrijding ongevallen Noordzee.*
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op de strandvonderij.
+*Wijzigt de Wet op de strandvonderij.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet vervoer gevaarlijke stoffen.
+*Wijzigt de Wet vervoer gevaarlijke stoffen.*
 
 ### Hoofdstuk VI. Ministerie van Economische Zaken
 
 ##### Artikel XXV
 
-Wijzigt de Vorderingswet.
+*Wijzigt de Vorderingswet.*
 
 ### Hoofdstuk VII. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel XXVI
 
-Wijzigt de Arbeidstijdenwet.
+*Wijzigt de Arbeidstijdenwet.*
 
 ##### Artikel XXVII
 
-Wijzigt de Noodwet Arbeidsvoorziening.
+*Wijzigt de Noodwet Arbeidsvoorziening.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel XXX
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ### Hoofdstuk VIII. Ministerie van Volksgezondheid, Welzijn en Sport
 
 ##### Artikel XXXI
 
-Wijzigt de Wet ambulancevervoer.
+*Wijzigt de Wet ambulancevervoer.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet ambulancezorg.
+*Wijzigt de Wet ambulancezorg.*
 
 ##### Artikel XXXIII
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/540.
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/540.*
 
-Wijzigt de Wet veiligheidsregio's.
+*Wijzigt de Wet veiligheidsregio's.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet publieke gezondheid.
+*Wijzigt de Wet publieke gezondheid.*
 
 ### Hoofdstuk IX. Overgangs- en slotbepalingen
 
@@ -262,5 +233,3 @@ Deze wet wordt aangehaald als: Aanpassingswet veiligheidsregio’s.
 ##### Artikel XLI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

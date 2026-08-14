@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juli 2009, nr. BJZ2009044653, houdende vervanging van de Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (Regeling acceptatie afvalstoffen op stortplaatsen)"
+citeertitel: "Regeling acceptatie afvalstoffen op stortplaatsen"
 identifier: "BWBR0026131"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026131"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10132173"
-version_id: "20236522"
-internal_id: "C28469031"
-label_id: "10108754"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026131/2024-01-01/0"
-intitule_bron: "Stcrt.2009-10808"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-09"
-intitule_published: "2009-07-17"
-intitule_in_force: "2009-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-6432"
-original_signed_date: "2013-03-07"
-original_published_date: "2013-03-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-6432"
-entry_into_force_date: "2013-03-07"
-jci_1_3: "jci1.3:c:BWBR0026131&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0026131&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling acceptatie afvalstoffen op stortplaatsen"
-signed_date: "2013-03-07"
-entry_into_force: "2013-03-07"
+publicatiedatum: 2013-03-07
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0026131"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juli 2009, nr. BJZ2009044653, houdende vervanging van de Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (Regeling acceptatie afvalstoffen op stortplaatsen)
-
-Gelet op beschikking nr. 2003/33/EG van de Raad van de Europese Unie van 19 december 2002 tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen overeenkomstig artikel 16 en bijlage II van [Richtlijn 1999/31/EG](31999L0031) betreffende het storten van afvalstoffen (PbEG L 11) en de [artikelen 11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11f), en [11h, vierde lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,49 +20,50 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **bepalingsgrens:** laagste concentratie van de parameter in het monster waarvan de aanwezigheid nog met een bepaalde zekerheid kan worden vastgesteld;
+- *bepalingsgrens:* laagste concentratie van de parameter in het monster waarvan de aanwezigheid nog met een bepaalde zekerheid kan worden vastgesteld;
 
-- **besluit:** [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094);
+- *besluit:*
+ [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094);
 
-- **blok:** vaste vorm van bepaalde afmetingen die door uitharding van een mengsel van sterk uitloogbare, en toeslagstoffen met een bekende samenstelling als één geheel in een compartiment of op een daarvoor geëigende plaats wordt gevormd;
+- *blok:* vaste vorm van bepaalde afmetingen die door uitharding van een mengsel van sterk uitloogbare, en toeslagstoffen met een bekende samenstelling als één geheel in een compartiment of op een daarvoor geëigende plaats wordt gevormd;
 
-- **bouwstoffen:** bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1);
+- *bouwstoffen:* bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1);
 
-- **compartiment:** afzonderlijk deel van een stortplaats dat niet beïnvloed kan worden vanuit andere compartimenten van de stortplaats en voorzien is van een separate afvoer van het percolaat uit het compartiment;
+- *compartiment:* afzonderlijk deel van een stortplaats dat niet beïnvloed kan worden vanuit andere compartimenten van de stortplaats en voorzien is van een separate afvoer van het percolaat uit het compartiment;
 
-- **kritische parameter:** parameter met een kans van meer dan vijf procent op het overschrijden van de grenswaarde;
+- *kritische parameter:* parameter met een kans van meer dan vijf procent op het overschrijden van de grenswaarde;
 
-- **opslaglocatie voor metallisch kwik:** complete faciliteit voor de opslag van metallisch kwik;
+- *opslaglocatie voor metallisch kwik:* complete faciliteit voor de opslag van metallisch kwik;
 
-- **opslagvoorziening voor metallisch kwik:** onderdeel van een opslaglocatie voor metallisch kwik waarin één of meerdere vaten metallisch kwik zijn geplaatst;
+- *opslagvoorziening voor metallisch kwik:* onderdeel van een opslaglocatie voor metallisch kwik waarin één of meerdere vaten metallisch kwik zijn geplaatst;
 
-- **proefstuk:** uit hetzelfde materiaal als een blok gevormd voorwerp bestemd voor de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde proeven;
+- *proefstuk:* uit hetzelfde materiaal als een blok gevormd voorwerp bestemd voor de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde proeven;
 
-- **sterk uitloogbare afvalstoffen:** gevaarlijke, anorganische, korrelvormige afvalstoffen die wat betreft de uitloging van zware metalen en zouten niet voldoen aan de waarde, genoemd in voorschrift 3.1 in de [bijlage bij het besluit](onbekend);
+- *sterk uitloogbare afvalstoffen:* gevaarlijke, anorganische, korrelvormige afvalstoffen die wat betreft de uitloging van zware metalen en zouten niet voldoen aan de waarde, genoemd in voorschrift 3.1 in de [bijlage bij het besluit](https://wetten.overheid.nl/BWBR0009094);
 
-- **toeslagstoffen:** stoffen, waaronder water, die aan te conditioneren afvalstoffen worden toegevoegd om het immobilisatieproces beheersbaar te laten verlopen, de uitloging van de te conditioneren afvalstoffen te beperken en de mengsels een duurzame vaste vorm te geven;
+- *toeslagstoffen:* stoffen, waaronder water, die aan te conditioneren afvalstoffen worden toegevoegd om het immobilisatieproces beheersbaar te laten verlopen, de uitloging van de te conditioneren afvalstoffen te beperken en de mengsels een duurzame vaste vorm te geven;
 
-- **verzamelmonster:** monster dat tot stand komt tijdens de monsterneming van afvalstoffen en waarin ten minste vijf grepen van afvalstoffen zijn samengevoegd.
+- *verzamelmonster:* monster dat tot stand komt tijdens de monsterneming van afvalstoffen en waarin ten minste vijf grepen van afvalstoffen zijn samengevoegd.
 
-- **vloeistofkerende voorziening:** voorziening die vloeistoffen afvoert voordat indringing daarvan in de door die voorziening afgeschermde afvalstoffen kan plaatsvinden;
+- *vloeistofkerende voorziening:* voorziening die vloeistoffen afvoert voordat indringing daarvan in de door die voorziening afgeschermde afvalstoffen kan plaatsvinden;
 
-- **AP04-A:** Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Algemeen, versie 4;
+- *AP04-A:* Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Algemeen, versie 4;
 
-- **AP04-E:** Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Analyse van Eluaten, versie 4;
+- *AP04-E:* Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Analyse van Eluaten, versie 4;
 
-- **AP04-SB:** Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Samenstelling Bouwstoffen (niet zijnde grond) en Afvalstoffen, versie 4;
+- *AP04-SB:* Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Samenstelling Bouwstoffen (niet zijnde grond) en Afvalstoffen, versie 4;
 
-- **AP04-U:** Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Uitloogonderzoek, versie 4;
+- *AP04-U:* Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Uitloogonderzoek, versie 4;
 
-- **AP04-V:** Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Monstervoorbehandeling, versie 5;
+- *AP04-V:* Accreditatieprogramma voor keuring van partijen grond, bouwstoffen en korrelvormige afvalstoffen, onderdeel Monstervoorbehandeling, versie 5;
 
-- **BRL 1000:** Beoordelingsrichtlijn voor het SIKB-procescertificaat Monsterneming voor partijkeuringen bouwstoffenbesluit, versie 8;
+- *BRL 1000:* Beoordelingsrichtlijn voor het SIKB-procescertificaat Monsterneming voor partijkeuringen bouwstoffenbesluit, versie 8;
 
-- **NEN 7375:** Uitloogkarakteristieken – Bepaling van de uitloging van anorganische componenten uit vormgegeven en monolitische materialen met een diffusieproef – Vaste grond- en steenachtige materialen, uitgave januari 2004;
+- *NEN 7375:* Uitloogkarakteristieken – Bepaling van de uitloging van anorganische componenten uit vormgegeven en monolitische materialen met een diffusieproef – Vaste grond- en steenachtige materialen, uitgave januari 2004;
 
-- **NEN 5861:** Nederlandse norm, uitgegeven door het Nederlands Normalisatie-instituut, Procedures voor monsteroverdracht, uitgave 1999;
+- *NEN 5861:* Nederlandse norm, uitgegeven door het Nederlands Normalisatie-instituut, Procedures voor monsteroverdracht, uitgave 1999;
 
-- **VKB-protocol 1004:** BRL 1000 protocol, Monsterneming korrelvormige afvalstoffen voor partijkeuringen.
+- *VKB-protocol 1004:* BRL 1000 protocol, Monsterneming korrelvormige afvalstoffen voor partijkeuringen.
 
 2. Met normen, richtlijnen, protocollen of accreditatieprogramma's als bedoeld in deze regeling worden gelijkgesteld normen, richtlijnen, protocollen of accreditatieprogramma's die zijn vastgesteld of aangewezen in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
@@ -130,7 +105,7 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 ##### Artikel 7
 
-1. De emissiewaarden van een proefstuk overschrijden niet de waarden van de in de bijlage bij deze regeling opgenomen tabel.
+1. De emissiewaarden van een proefstuk overschrijden niet de waarden van de in de [bijlage](https://wetten.overheid.nl/BWBR0026131) bij deze regeling opgenomen tabel.
 
 2. In afwijking van het eerste lid mogen de emissiewaarden voor Br, Cl en SO4 de waarden van de tabel overschrijden:
 
@@ -142,7 +117,7 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 - a. geconditioneerde afvalstoffen, waarvan het proefstuk voldoet aan de waarden, bedoeld in het eerste of tweede lid, onder a,
 
-- b. anorganische korrelvormige afvalstoffen die voldoen aan de voorschriften 3.1 en 3.2 van de bijlage bij het besluit, of
+- b. anorganische korrelvormige afvalstoffen die voldoen aan de voorschriften 3.1 en 3.2 van de [bijlage](https://wetten.overheid.nl/BWBR0026131) bij het besluit, of
 
 - c. bouwstoffen die voldoen aan de daarvoor geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d).
 
@@ -170,7 +145,7 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 ##### Artikel 11
 
-1. Een compartiment is aan de onderzijde voorzien van een bufferlaag van ten minste 0,5 meter dikte en ten hoogste 1 meter dikte, bestaande uit organische stof of rijk grondachtig materiaal met bewezen pH-bufferende en metaalbindende eigenschappen.
+1. Een compartiment is aan de onderzijde voorzien van een bufferlaag van ten minste 0,5 meter dikte en ten hoogste 1 meter dikte, bestaande uit organische stof of rijk grondachtig materiaal met bewezen pH-bufferende en metaalbindende eigenschappen.
 
 2. Ten behoeve van drainage in een bufferlaag en taluds mogen korrelvormige anorganische afvalstoffen of bouwstoffen worden gebruikt.
 
@@ -190,7 +165,7 @@ In geval van desintegratie als gevolg van weersinvloeden worden zo spoedig mogel
 
 1. Een volledig gevuld compartiment wordt voorafgaand aan de definitieve afdichting zo snel als technisch mogelijk afgedekt met hoge dichtheid polyethyleenfolie met een dikte van minimaal 1 mm.
 
-2. Voor tijdelijke afdekking mogen, indien het compartiment nog niet volledig is gevuld, ook korrelvormige afvalstoffen worden gebruikt, die voldoen aan de voorschriften 3.1 en 3.2 van de bijlage bij het besluit. Deze afvalstoffen:
+2. Voor tijdelijke afdekking mogen, indien het compartiment nog niet volledig is gevuld, ook korrelvormige afvalstoffen worden gebruikt, die voldoen aan de voorschriften 3.1 en 3.2 van de [bijlage](https://wetten.overheid.nl/BWBR0026131) bij het besluit. Deze afvalstoffen:
 
 - a. mogen het uitlooggedrag van de blokken niet negatief beïnvloeden,
 
@@ -236,7 +211,7 @@ waarbij
 
 k: k-waarde;
 
-grenswaarde: logaritme (10-log) van de grenswaarde als bedoeld in het voor de betreffende stortplaats van toepassing zijnde onderdeel van de [bijlage bij het besluit](onbekend);
+grenswaarde: logaritme (10-log) van de grenswaarde als bedoeld in het voor de betreffende stortplaats van toepassing zijnde onderdeel van de [bijlage bij het besluit](https://wetten.overheid.nl/BWBR0009094);
 
 xgem: gemiddelde voor de logaritmisch getransformeerde (10-log) analyseresultaten;
 
@@ -265,28 +240,28 @@ De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter d
 | 1,47 tot en met 2,74 | 1 op 6 vrachten | 60 vrachten |
 | 0,69 tot en met 1,46 | 1 op 2 vrachten | 20 vrachten |
 | < 0,69 | Elke vracht | 10 vrachten |
-|   |   |   |
+|  |  |  |
 | k-waarde op basis van 10 < analyseresultaten ≤ 15 | Monsternemingsfrequentie | Schaalgrootte en verzamelmonster |
 | > 2,57 | Geen monsterneming | Geen toetsing |
 | 2,08 tot en met 2,57 | 1 op 10 vrachten | 100 vrachten |
 | 1,08 tot en met 2,07 | 1 op 6 vrachten | 60 vrachten |
 | 0,44 tot en met 1,07 | 1 op 2 vrachten | 20 vrachten |
 | < 0,44 | Elke vracht | 10 vrachten |
-|   |   |   |
+|  |  |  |
 | k-waarde op basis van 15 < analyseresultaten ≤ 20 | Monsternemingsfrequentie | Schaalgrootte en verzamelmonster |
 | > 2,33 | Geen monsterneming | Geen toetsing |
 | 1,88 tot en met 2,33 | 1 op 10 vrachten | 100 vrachten |
 | 0,95 tot en met 1,87 | 1 op 6 vrachten | 60 vrachten |
 | 0,35 tot en met 0,94 | 1 op 2 vrachten | 20 vrachten |
 | < 0,35 | Elke vracht | 10 vrachten |
-|   |   |   |
+|  |  |  |
 | k-waarde op basis van 20 < analyseresultaten ≤ 25 | Monsternemingsfrequentie | Schaalgrootte en verzamelmonster |
 | > 2,21 | Geen monsterneming | Geen toetsing |
 | 1,77 tot en met 2,21 | 1 op 10 vrachten | 100 vrachten |
 | 0,88 tot en met 1,76 | 1 op 6 vrachten | 60 vrachten |
 | 0,30 tot en met 0,87 | 1 op 2 vrachten | 20 vrachten |
 | < 0,30 | Elke vracht | 10 vrachten |
-|   |   |   |
+|  |  |  |
 | k-waarde op basis van > 25 analyseresultaten | Monsternemingsfrequentie | Schaalgrootte en verzamelmonster |
 | > 2,13 | Geen monsterneming | Geen toetsing |
 | 1,71 tot en met 2,13 | 1 op 10 vrachten | 100 vrachten |
@@ -300,9 +275,9 @@ De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter d
 
 - a. op basis van kennis over de aard en het proces waarbij de afvalstromen vrijkomen:
 
-- 1°. het aannemelijk is dat deze afvalstromen overeenkomen en
+   - 1°. het aannemelijk is dat deze afvalstromen overeenkomen en
 
-- 2°. het aannemelijk is dat de overeenkomsten in de tijd gehandhaafd blijven,
+   - 2°. het aannemelijk is dat de overeenkomsten in de tijd gehandhaafd blijven,
 
 - b. voor de afzonderlijke afvalstromen de kritische parameters dezelfde zijn en
 
@@ -394,7 +369,7 @@ een jaar is verstreken sinds:
 
 - a. in geval van een verzamelmonster dat nog niet het tiende opeenvolgende verzamelmonster is: de overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-01-01&g=2024-01-01), bepaalde kritische parameters;
 
-- b. bij elk tiende verzamelmonster: alle parameters waarvoor in de [bijlage bij het besluit](onbekend) grenswaarden zijn opgenomen;
+- b. bij elk tiende verzamelmonster: alle parameters waarvoor in de [bijlage bij het besluit](https://wetten.overheid.nl/BWBR0009094) grenswaarden zijn opgenomen;
 
 - c. voor elke afvalstroom, of indien toepassing is gegeven aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2024-01-01&g=2024-01-01), voor de desbetreffende afvalstromen: het zuurbindend vermogen (ZBV) tot een neutrale pH van een vracht, waarbij tevens wordt aangegeven dat die parameter één keer per jaar moet worden bepaald.
 
@@ -439,53 +414,6 @@ Degene die de stortplaats exploiteert, registreert voor zover van toepassing:
 - j. de verschillende afvalstromen waaruit het verzamelmonster is samengesteld.
 
 ### Hoofdstuk 3a. Tijdelijke opslag van metallisch kwik dat als afval wordt beschouwd op stortplaatsen gedurende meer dan één jaar
-
-##### Artikel 33
-
-De in deze regeling opgenomen verwijzingen naar NEN-normen hebben betrekking op de laatst uitgegeven NEN-normen met de daarop uitgegeven aanvullingen en correctiebladen. Een uitgegeven aanvulling, onderscheidenlijk correctieblad, wordt eerst van toepassing op 1 januari van het kalenderjaar volgende op dat waarin de uitgifte heeft plaatsgevonden.
-
-##### Artikel 34
-
-Deze regeling berust tevens op Richtlijn 2011/97/EU van de Raad van 5 december 2011 tot wijziging van Richtlijn 1999/31/EG met betrekking tot specifieke criteria voor opslag van metallisch kwik dat als afval wordt beschouwd (PbEU 2011, L328/49) en op [artikel 11f, zevende lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11f).
-
-##### Artikel 35
-
-Deze regeling treedt in werking met ingang van 21 juli 2009.
-
-##### Artikel 36
-
-Deze regeling wordt aangehaald als: Regeling acceptatie afvalstoffen op stortplaatsen.
-
-## Bijlage
-
-In deze bijlage zijn de emissiewaarden uitgedrukt in mg/m2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2011-07-19&g=2011-07-19) bedoelde proef met een proefstuk duurt totaal 64 dagen, waarbij het proefstuk vrijwel voortdurend in contact is met water dat tijdens die periode op gezette tijden wordt ververst. De uitloogwaarden in de tabel betreffen het aantal mg, per parameter, dat na 64 dagen is vrijgekomen in verhouding met het totale oppervlak van het proefstuk.
-
-| Parameter | Emissiewaarden in mg/m2 |
-| --- | --- |
-| As | 50 |
-| Ba | 1500 |
-| Cd | 5 |
-| Co | 60 |
-| Cr | 500 |
-| Cu | 500 |
-| Hg | 1 |
-| Mo | 900 |
-| Ni | 400 |
-| Pb | 5000 |
-| Sb | 50 |
-| Se | 60 |
-| Sn | 50 |
-| V | 1500 |
-| W | 250 |
-| Zn | 800 |
-| Br | 5000 |
-| Cl | 250000 |
-| CN-com | 220 |
-| CN-vrij | 20 |
-| F | 2500 |
-| SO4 | 250000 |
-
-Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 32a
 
@@ -575,9 +503,9 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 Op de opslaglocatie voor metallisch kwik is een permanent meetsysteem voor kwikdamp met een gevoeligheid van ten minste 0,02 mg kwik/m3 geïnstalleerd, waarbij:
 
-- a. de sensoren van het meetsysteem op het grondniveau en op hoofdhoogte worden opgesteld, en
+- a de sensoren van het meetsysteem op het grondniveau en op hoofdhoogte worden opgesteld, en
 
-- b. het meetsysteem een visueel en akoestisch alarmmechanisme omvat en jaarlijks onderhouden wordt.
+- b het meetsysteem een visueel en akoestisch alarmmechanisme omvat en jaarlijks onderhouden wordt.
 
 ##### Artikel 32h
 
@@ -605,33 +533,18 @@ Op de opslaglocatie voor metallisch kwik staan noodplannen met het oog op mogeli
 
 ### Hoofdstuk 4. Overige bepalingen
 
-## Bijlage
+##### Artikel 33
 
-In deze bijlage zijn de emissiewaarden uitgedrukt in mg/m2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde proef met een proefstuk duurt totaal 64 dagen, waarbij het proefstuk vrijwel voortdurend in contact is met water dat tijdens die periode op gezette tijden wordt ververst. De uitloogwaarden in de tabel betreffen het aantal mg, per parameter, dat na 64 dagen is vrijgekomen in verhouding met het totale oppervlak van het proefstuk.
+De in deze regeling opgenomen verwijzingen naar NEN-normen hebben betrekking op de laatst uitgegeven NEN-normen met de daarop uitgegeven aanvullingen en correctiebladen. Een uitgegeven aanvulling, onderscheidenlijk correctieblad, wordt eerst van toepassing op 1 januari van het kalenderjaar volgende op dat waarin de uitgifte heeft plaatsgevonden.
 
-| Parameter | Emissiewaarden in mg/m2 |
-| --- | --- |
-| As | 50 |
-| Ba | 1500 |
-| Cd | 5 |
-| Co | 60 |
-| Cr | 500 |
-| Cu | 500 |
-| Hg | 1 |
-| Mo | 900 |
-| Ni | 400 |
-| Pb | 5000 |
-| Sb | 50 |
-| Se | 60 |
-| Sn | 50 |
-| V | 1500 |
-| W | 250 |
-| Zn | 800 |
-| Br | 5000 |
-| Cl | 250000 |
-| CN-com | 220 |
-| CN-vrij | 20 |
-| F | 2500 |
-| SO4 | 250000 |
+##### Artikel 34
 
-Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
+Deze regeling berust tevens op Richtlijn 2011/97/EU van de Raad van 5 december 2011 tot wijziging van Richtlijn 1999/31/EG met betrekking tot specifieke criteria voor opslag van metallisch kwik dat als afval wordt beschouwd (PbEU 2011, L328/49) en op [artikel 11f, zevende lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11f).
+
+##### Artikel 35
+
+Deze regeling treedt in werking met ingang van 21 juli 2009.
+
+##### Artikel 36
+
+Deze regeling wordt aangehaald als: Regeling acceptatie afvalstoffen op stortplaatsen.

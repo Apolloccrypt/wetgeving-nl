@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Comité Binnenvaartveiligheid"
 identifier: "BWBR0027086"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027086"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10388843"
-version_id: "17091092"
-internal_id: "C23579341"
-label_id: "10364294"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027086/2010-01-01/0"
-intitule_bron: "Stcrt.2010-910"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-12"
-intitule_published: "2010-01-20"
-intitule_in_force: "2010-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-910"
-original_signed_date: "2010-01-12"
-original_published_date: "2010-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-910"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027086&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0027086&g=2010-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-01-12"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0027086"
+opgehaald: 2026-08-14
 ---
+
 # Instellingsbesluit Comité Binnenvaartveiligheid
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -110,5 +84,3 @@ Dit besluit treedt in werking op 1 januari 2010.
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Comité Binnenvaartveiligheid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

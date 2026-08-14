@@ -1,63 +1,34 @@
 ---
 title: "Wet van 18 juli 2009 tot wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige andere wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering)"
+citeertitel: "Wijzigingswet Zorgverzekeringswet, Wet op de zorgtoeslag, enz. (structurele maatregelen wanbetalers zorgverzekering)"
 identifier: "BWBR0026276"
-country: "nl"
-rank: "wet"
-publication_date: "2011-09-01"
-last_updated: "2011-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026276"
+categorie: "Gezondheidszorg"
 soort: "wet"
-stam_id: "10159143"
-version_id: "16619352"
-internal_id: "C22891861"
-label_id: "10135314"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026276/2011-09-01/0"
-intitule_bron: "Stb.2009-356"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-08-26"
-intitule_in_force: "2009-08-26"
-intitule_status: "goed"
-original_publication: "Stb.2009-356"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-08-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "31736"
-original_url_id: "stb-2009-356"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0026276&z=2011-09-01&g=2011-09-01"
-jci_1_0: "1.0:c:BWBR0026276&g=2011-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Zorgverzekeringswet, Wet op de zorgtoeslag, enz. (structurele maatregelen wanbetalers zorgverzekering)"
-signed_date: "2009-07-18"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2011-09-01
+status: geldig
+toestand: 2011-09-01
+bron: "https://wetten.overheid.nl/BWBR0026276"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 18 juli 2009 tot wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige andere wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen opdat ook wanbetalers premie voor hun zorgverzekering betalen, zodat voorkomen wordt dat zij onverzekerd raken of dat verplichtingen afgewenteld worden op anderen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de zorgtoeslag.
+*Wijzigt de Wet op de zorgtoeslag.*
 
 ##### Artikel III
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IV
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel V
 
@@ -65,11 +36,11 @@ Vervallen
 
 ##### Artikel VI
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.*
 
 ##### Artikel VII
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.*
 
 ##### Artikel VIII
 
@@ -101,10 +72,8 @@ Na inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0026
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
 Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -8,7 +8,7 @@ laatste_update: 2026-08-12
 status: geldig
 toestand: 2026-08-12
 bron: "https://wetten.overheid.nl/BWBR0039786"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-14
 ---
 
 # Verplaatsingskostenregeling defensie

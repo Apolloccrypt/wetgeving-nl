@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2009 (Verordening PT algemene heffing groenten en fruit 2009)"
+citeertitel: "Verordening algemene heffing groenten en fruit 2009"
 identifier: "BWBR0026253"
-country: "nl"
-rank: "pbo"
-publication_date: "2009-06-28"
-last_updated: "2009-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026253"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "10154523"
-version_id: "16610742"
-internal_id: "C22869401"
-label_id: "10130754"
-dtd_version: "2.0"
-original_entry_into_force: "2009-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026253/2009-06-28/0"
-intitule_bron: "Vbbo.2009-38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-24"
-intitule_published: "2009-06-26"
-intitule_in_force: "2009-06-26"
-intitule_status: "goed"
-original_publication: "Vbbo.2009-38"
-original_signed_date: "2009-03-24"
-original_published_date: "2009-06-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2009-06-28"
-jci_1_3: "jci1.3:c:BWBR0026253&z=2009-06-28&g=2009-06-28"
-jci_1_0: "1.0:c:BWBR0026253&g=2009-06-28"
-citeertitel_status: "officieel"
-short_title: "Verordening algemene heffing groenten en fruit 2009"
-signed_date: "2009-03-24"
-entry_into_force: "2009-06-28"
+publicatiedatum: 2009-06-28
+laatste_update: 2009-06-28
+status: geldig
+toestand: 2009-06-28
+bron: "https://wetten.overheid.nl/BWBR0026253"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2009 (Verordening PT algemene heffing groenten en fruit 2009)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 24 februari 2009.
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -58,10 +29,10 @@ Besluit:
 | afzetorganisatie/ bemiddelaar | : | de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld, |
-| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=3&artikel=3&z=2009-06-28&g=2009-06-28) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : | de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| groenten en fruit | : | de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
+| groenten en fruit | : | de producten vermeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 | handelen | : | het aankopen van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan aan anderen dan consumenten voor hun persoonlijke behoeften; |
 | noten | : | amandelen, cashewnoten, hazelnoten. paranoten, peacannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd; |
 | ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
@@ -91,7 +62,7 @@ Besluit:
 
 1. Aan de ondernemer, die de hieronder genoemde groenten en fruit teelt, wordt de heffing opgelegd naar het grondgebruik. De heffing wordt berekend naar de oppervlakte van de bij zijn onderneming behorende cultuurgrond en bedraagt voor:
 
-| **Glasgroenten** | **Productgroep** | **Tarief/eenheid** |
+| Glasgroenten | Productgroep | Tarief/eenheid |
 | --- | --- | --- |
 | Aubergines | 618 | 2,13 are |
 | Komkommers | 605 | 2,13 are |
@@ -103,8 +74,8 @@ Besluit:
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 2,13 are |
 | Tomaten - Cherry-tomaten | 606 | 2,13 are |
 | Overige groenten (inclusief meloenen) | 621 | 1,21 are |
-|   |   |   |
-| **Volle grondsgroenten** | **Productgroep** | **Tarief/eenheid** |
+|  |  |  |
+| Volle grondsgroenten | Productgroep | Tarief/eenheid |
 | Erwten groen te oogsten | 244 | 1,71 ha |
 | Suikermais | 814 | 1,71 ha |
 | Tuinbonen (groen te oogsten) | 854 | 1,71 ha |
@@ -155,8 +126,8 @@ Besluit:
 | Witlof in bakken | 585 | 0,34 m2 |
 | Aardbeien onder glas | 610 | 1,28 are |
 | Aardbeien plastic tunnel | 611 | 1,28 are |
-|   |   |   |
-| **Fruit** | **Productgroep** | **Tarief/eenheid** |
+|  |  |  |
+| Fruit | Productgroep | Tarief/eenheid |
 | Amandelen | 1696 | 2,68 ha |
 | Hazelnoten | 1697 | 2,68 ha |
 | Walnoten | 1698 | 2,68 ha |

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)"
+citeertitel: "Regeling storingsmeldingen"
 identifier: "BWBR0026550"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026550"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10251173"
-version_id: "16773682"
-internal_id: "C23079271"
-label_id: "10226894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026550/2023-01-01/0"
-intitule_bron: "Stcrt.2009-15977"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-18"
-intitule_published: "2009-10-26"
-intitule_in_force: "2009-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-15977"
-original_signed_date: "2009-10-18"
-original_published_date: "2009-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-15977"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026550&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0026550&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling storingsmeldingen"
-signed_date: "2009-10-18"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0026550"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)
-
-Gelet op de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=20) en [22 van het Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=22) en [artikel 20 van het Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037&artikel=20) en de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), en [5 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5);
-
-Besluit:
 
 #### § 1. Begripsomschrijvingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken en Klimaat;
+- a. *minister:* Minister van Economische Zaken en Klimaat;
 
-- b. **storing:** elektromagnetische storing, ondervonden in uitrusting of radioapparaten als gevolg van het gebruik van uitrusting of radioapparaten;
+- b. *storing:* elektromagnetische storing, ondervonden in uitrusting of radioapparaten als gevolg van het gebruik van uitrusting of radioapparaten;
 
-- c. **beschermingseisen:** de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=4) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037&artikel=5);
+- c. *beschermingseisen:* de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=4) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037&artikel=5);
 
-- d. **Radioreglement:** Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);
+- d. *Radioreglement:* Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);
 
-- e. **Rijksinspectie Digitale Infrastructuur:** Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
+- e. *Rijksinspectie Digitale Infrastructuur:* Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 #### § 2. Storingsmelding en beoordeling
 
@@ -138,11 +112,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.
+*Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.*
 
 ##### Artikel 7
 
-Wijzigt de Regeling elektromagnetische compatibiliteit 2007.
+*Wijzigt de Regeling elektromagnetische compatibiliteit 2007.*
 
 #### § 5. Slotbepalingen
 
@@ -157,5 +131,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2010.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling storingsmeldingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

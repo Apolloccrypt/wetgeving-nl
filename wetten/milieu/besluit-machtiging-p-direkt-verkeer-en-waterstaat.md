@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de minister van Verkeer en Waterstaat tot het verlenen van machtiging aan P-Direkt"
+citeertitel: "Besluit machtiging P-Direkt (Verkeer en Waterstaat)"
 identifier: "BWBR0026851"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-12-19"
-last_updated: "2009-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026851"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10318663"
-version_id: "16914362"
-internal_id: "C23312521"
-label_id: "10294064"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026851/2009-12-19/0"
-intitule_bron: "Stcrt.2009-19430"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-09"
-intitule_published: "2009-12-17"
-intitule_in_force: "2009-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19430"
-original_signed_date: "2009-12-09"
-original_published_date: "2009-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19430"
-entry_into_force_date: "2009-12-19"
-jci_1_3: "jci1.3:c:BWBR0026851&z=2009-12-19&g=2009-12-19"
-jci_1_0: "1.0:c:BWBR0026851&g=2009-12-19"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging P-Direkt (Verkeer en Waterstaat)"
-signed_date: "2009-12-09"
-entry_into_force: "2009-12-19"
+publicatiedatum: 2009-12-19
+laatste_update: 2009-12-19
+status: geldig
+toestand: 2009-12-19
+bron: "https://wetten.overheid.nl/BWBR0026851"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de minister van Verkeer en Waterstaat tot het verlenen van machtiging aan P-Direkt
-
-handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
-
-gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** De minister van Verkeer en Waterstaat.
+- a. *minister:* De minister van Verkeer en Waterstaat.
 
-- b. **ministerie:** ministerie van Verkeer en Waterstaat.
+- b. *ministerie:* ministerie van Verkeer en Waterstaat.
 
-- c. **P-Direkt:** de baten-lastendienst, ingesteld bij [besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
+- c. *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
 
-- d. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 

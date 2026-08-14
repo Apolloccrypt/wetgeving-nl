@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Verkeer en Waterstaat tot het instellen van het directoraat-generaal Rijkswaterstaat (Instellingsbesluit directoraat-generaal Rijkswaterstaat)"
+citeertitel: "Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013"
 identifier: "BWBR0026953"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-12"
-last_updated: "2025-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026953"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10346083"
-version_id: "16989112"
-internal_id: "C23427591"
-label_id: "10321264"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026953/2025-03-12/0"
-intitule_bron: "Stcrt.2009-20348"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-18"
-intitule_published: "2009-12-24"
-intitule_in_force: "2009-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20348"
-original_signed_date: "2009-12-18"
-original_published_date: "2009-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20348"
-entry_into_force_date: "2009-12-22"
-jci_1_3: "jci1.3:c:BWBR0026953&z=2025-03-12&g=2025-03-12"
-jci_1_0: "1.0:c:BWBR0026953&g=2025-03-12"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013"
-signed_date: "2009-12-18"
-entry_into_force: "2009-12-22"
+publicatiedatum: 2009-12-22
+laatste_update: 2025-03-12
+status: geldig
+toestand: 2025-03-12
+bron: "https://wetten.overheid.nl/BWBR0026953"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Verkeer en Waterstaat tot het instellen van het directoraat-generaal Rijkswaterstaat (Instellingsbesluit directoraat-generaal Rijkswaterstaat)
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -94,7 +68,7 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking 
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1) in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1) in werking treedt.
 
 ##### Artikel 5
 

@@ -1,44 +1,18 @@
 ---
 title: "Circulaire van 2 november 2009, nr. DGM/K&L 2009060686, ter bekendmaking van de wijze van verkrijging van een bijdrage uit het Gemeentefonds voor planstudies op grond van het Innovatieprogramma Klimaatneutrale Steden (IKS)"
+citeertitel: "Circulaire wijze verkrijging bijdrage uit het Gemeentefonds voor planstudies Innovatieprogramma Klimaatneutrale Steden (IKS)"
 identifier: "BWBR0026617"
-country: "nl"
-rank: "circulaire"
-publication_date: "2009-11-12"
-last_updated: "2009-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026617"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "10269873"
-version_id: "16807612"
-internal_id: "C23139011"
-label_id: "10245374"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026617/2009-11-12/0"
-intitule_bron: "Stcrt.2009-16874"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-02"
-intitule_published: "2009-11-10"
-intitule_in_force: "2009-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16874"
-original_signed_date: "2009-11-02"
-original_published_date: "2009-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-16874"
-entry_into_force_date: "2009-11-12"
-jci_1_3: "jci1.3:c:BWBR0026617&z=2009-11-12&g=2009-11-12"
-jci_1_0: "1.0:c:BWBR0026617&g=2009-11-12"
-citeertitel_status: "redactioneel"
-short_title: "Circulaire wijze verkrijging bijdrage uit het Gemeentefonds voor planstudies Innovatieprogramma Klimaatneutrale Steden (IKS)"
-signed_date: "2009-11-02"
-entry_into_force: "2009-11-12"
+publicatiedatum: 2009-11-12
+laatste_update: 2009-11-12
+status: geldig
+toestand: 2009-11-12
+bron: "https://wetten.overheid.nl/BWBR0026617"
+opgehaald: 2026-08-14
 ---
+
 # Circulaire van 2 november 2009, nr. DGM/K&L 2009060686, ter bekendmaking van de wijze van verkrijging van een bijdrage uit het Gemeentefonds voor planstudies op grond van het Innovatieprogramma Klimaatneutrale Steden (IKS)
-
-Aan de colleges van burgemeester en wethouders,
-
-Geachte colleges,
 
 Met deze circulaire informeer ik u over de uitvoering van het Innovatieprogramma Klimaatneutrale Steden (IKS). Het IKS is een onderdeel van de Innovatieagenda Energie, een van de pijlers van ‘Nieuwe Energie voor het Klimaat. Werkprogramma Schoon en Zuinig’. Voor dit programma ben ik op zoek naar gemeenten die voor zichzelf een koploperpositie zien weggelegd en mee willen doen in een gezamenlijk kennistraject. De beschikbare middelen kunnen door gemeenten worden ingezet voor de uitvoering van planstudies en voor de uitvoering van praktijkproeven.
 
@@ -54,6 +28,12 @@ De ambitie van het IKS is dat in 2012 honderd gemeenten serieus de weg naar klim
 
 Met het IKS is gekozen voor het leren in de praktijk. Het IKS is verdeeld in drie programmalijnen:
 
+- 1. het doen van specifiek onderzoek en het ontsluiten van specifieke kennis voor de gemeenten;
+
+- 2. het realiseren en evalueren van concrete proefprojecten rond integrale gebiedsontwikkeling, procesinnovaties op het gebied van organisatievormen, samenwerking, participatie en draagvlak en
+
+- 3. het organiseren van kennisoverdracht met betrekking tot leerervaringen, (proces)innovaties, ontwikkelde instrumenten, nieuwe vaardigheden naar alle gemeenten, steden, regio’s en andere geïnteresseerden.
+
 ### 2. Doel van de bijdrage
 
 De onderhavige bijdrage dient ter uitvoering van programmalijn 1 en heeft tot doel gemeenten te stimuleren om concrete projecten (programmalijn 2) gericht op de klimaatneutrale stad verder uit te werken.
@@ -61,6 +41,12 @@ De onderhavige bijdrage dient ter uitvoering van programmalijn 1 en heeft tot do
 ### 3. Activiteiten die in aanmerking komen voor een bijdrage
 
 Planstudies die zich richten op de volgende procesinnovaties (of een combinatie van procesinnovaties) komen in aanmerking voor een bijdrage:
+
+- − een combinatie en integratie van innovaties uit de thematische innovatieprogramma’s en/of
+
+- − het ontwikkelen of implementeren van nieuwe organisatievormen (waaronder financiële en juridische arrangementen) en/of
+
+- − procesinnovaties die zorgen voor meer draagvlak en betrokkenheid bij inwoners, ondernemers en maatschappelijke organisaties.
 
 ### 4. Aanvraag van de bijdrage
 
@@ -70,26 +56,8 @@ De aanvragen moet ook worden ingediend bij SenterNovem.
 
 ### 5. Beslissing op de aanvraag
 
-Aanvragen moeten voldoen aan de in de bijlage van deze circulaire opgenomen criteria en worden beoordeeld op volgorde van binnenkomst.
+Aanvragen moeten voldoen aan de in de [bijlage](https://wetten.overheid.nl/BWBR0026617) van deze circulaire opgenomen criteria en worden beoordeeld op volgorde van binnenkomst.
 
 ### 6. Ingangsdatum
 
 Deze circulaire treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze circulaire wordt geplaatst.
-
-## Bijlage. . Voorwaarden om in aanmerking te komen voor een bijdrage op basis van het Innovatieprogramma Klimaatneutrale Steden
-
-### 1. Begripsomschrijvingen
-
-In deze bijlage wordt verstaan onder:
-
-### 2. Beoordelingscriteria
-
-### 3. Kosten waarvoor een bijdrage kan worden verstrekt
-
-Als kosten die in aanmerking komen voor een bijdrage worden de volgende noodzakelijke, rechtsreeks aan de uitvoering van de planstudies toe te rekenen en door de aanvrager van de bijdrage betaalde of te betalen kosten in aanmerking genomen:
-
-### 4. Hoogte van de bijdrage
-
-De bijdrage bedraagt per planstudie minimaal € 50.000,− en maximaal € 150.000,−.
-
-### 5. Aanvraag tot bijdrageverlening

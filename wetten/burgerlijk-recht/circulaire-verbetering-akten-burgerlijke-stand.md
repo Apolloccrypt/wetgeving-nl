@@ -1,38 +1,16 @@
 ---
 title: "Circulaire Verbetering akten burgerlijke stand"
 identifier: "BWBR0026086"
-country: "nl"
-rank: "circulaire"
-publication_date: "2009-07-15"
-last_updated: "2009-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026086"
+categorie: "Burgerlijk recht"
 soort: "circulaire"
-stam_id: "10123503"
-version_id: "16547662"
-internal_id: "C22776591"
-label_id: "10099804"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026086/2009-07-15/0"
-intitule_bron: "Stcrt.2009-10428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-30"
-intitule_published: "2009-07-13"
-intitule_in_force: "2009-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-10428"
-original_signed_date: "2009-06-30"
-original_published_date: "2009-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-10428"
-entry_into_force_date: "2009-07-15"
-jci_1_3: "jci1.3:c:BWBR0026086&z=2009-07-15&g=2009-07-15"
-jci_1_0: "1.0:c:BWBR0026086&g=2009-07-15"
-citeertitel_status: "redactioneel"
-signed_date: "2009-06-30"
-entry_into_force: "2009-07-15"
+publicatiedatum: 2009-07-15
+laatste_update: 2009-07-15
+status: geldig
+toestand: 2009-07-15
+bron: "https://wetten.overheid.nl/BWBR0026086"
+opgehaald: 2026-08-14
 ---
+
 # Circulaire Verbetering akten burgerlijke stand
 
 Bij besluit van het Kabinet van 25 mei 2007 is ingestemd met een regeling ter afwikkeling van de nalatenschap van de oude Vreemdelingenwet. De regeling omvat onder meer een procedure voor vreemdelingen die aan bepaalde voorwaarden voldoen, om eenmalig ten overstaan van de Immigratie- en Naturalisatiedienst (IND) binnen twee maanden hun juiste identiteit (naam, geboortedatum, geboorteplaats en geboorteland) en nationaliteit aan te tonen.
@@ -58,137 +36,3 @@ Als bijlagen treft u een modelformulier aan waarmee toestemming tot verbetering 
 Indien u in individuele gevallen gegronde twijfel mocht hebben over de juistheid van de door de IND vastgestelde gegevens, dient u dat voor te leggen aan de Officier van Justitie. Deze zal u dan nadere instructies geven en zonodig de zaak voorleggen aan de bevoegde rechtbank.
 
 Indien de Officier van Justitie van mening is dat niet kan worden overgegaan tot verbetering van de desbetreffende akte van de burgerlijke stand, dient u de IND hiervan in kennis te stellen alsmede de gba-ambtenaar van uw gemeente. Voor het informeren van de IND is een model vastgesteld dat u als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026086&bijlage=4&z=2009-07-15&g=2009-07-15) aantreft.
-
-## Bijlage 1. bij Circulaire Verbetering akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2)
-
-Aan de Officier van Justitie
-
-Op grond van de Circulaire tot verbetering van akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2), verzoek ik u toestemming te geven voor verbetering van de volgende akte(n) van de burgerlijke stand:
-
-Geboorte/huwelijk/registratie partnerschap: Akte nr..... betreffende (geslachtsnaam, voornaam)
-
-Geboorte/huwelijk/registratie partnerschap: Akte nr..... betreffende (geslachtsnaam, voornaam)
-
-Geboorte/huwelijk/registratie partnerschap: Akte nr..... betreffende (geslachtsnaam, voornaam)
-
-enz.
-
-De verbetering betreft het/de volgende gegeven(s):
-
-- –. geslachtsnaam kind/moeder/vader/echtgeno(o)t(e)/geregistreerd partner
-
-- –. voornamen kind/moeder/vader/echtgeno(o)te/geregistreerd partner
-
-- –. geboorteplaats kind/moeder/vader/echtgeno(o)t(e)e/geregistreerd partner
-
-- –. geboortedatum kind/moeder/vader/echtgeno(o)t(e)/geregistreerd partner
-
-Het/de nieuwe gegeven(s) luidt/luiden:
-
-.....
-
-.....
-
-.....
-
-..... .
-
-enz.
-
-Bijgevoegd treft u aan:
-
-- a). een volledig afschrift van de akte(n)
-
-- b). de verklaring(en) van de IND inzake identiteitsherstel
-
-- c). een kopie, dan wel uittreksel van de aangepaste persoonslijst in de GBA
-
-- d). de verklaring van instemming van de betrokkene met de verbetering
-
-- e). overige documenten, namelijk .....
-
-Plaats, datum...
-
-De ambtenaar van de burgerlijke stand te........
-
-## Bijlage 2. bij Circulaire Verbetering akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2)
-
-Verklaring betrokkene(n)
-
-Ondergetekende(n),
-
-Geslachtsnaam.....
-
-Voornamen.....
-
-Geboorteplaats en -datum.....
-
-Woonadres.....
-
-Geslachtsnaam.....
-
-Voornamen.....
-
-Geboorteplaats en -datum.....
-
-Woonadres.....
-
-Verkla(art)ren dat hij/zij bekend is/zijn met het feit dat de ambtenaar van de burgerlijke stand te............... de Officier van Justitie verzoekt om toestemming tot verbetering van de volgende akte(n) van de burgerlijke stand en dat hij/zij instem(t)men/niet instem(t)men met het verzoek.
-
-Akte geboorte/huwelijk/registratie partnerschap nr.....
-
-betreffende: geslachtsnaam en voornamen.....
-
-Aard van de verbetering(en):
-
-.....
-
-.....
-
-.....
-
-Plaats, datum, ondertekening
-
-## Bijlage 3. bij Circulaire Verbetering akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2)
-
-Toestemming Officier van Justitie tot verbetering akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2)
-
-Betreft: akte(n) nr (s). .....
-
-### 1. Overwegingen
-
-De officier van justitie in het Arrondissement **** heeft een brief, met bijlagen, ontvangen van de ambtenaar van de burgerlijke stand van de gemeente ***, gedateerd ***. Hieruit blijkt dat in de akte(n) met bovengenoemd(e) kenmerk(en) en/of latere vermelding(en) bij die akte(n), ingeschreven in het daartoe bestemde register van genoemde gemeente, (een) misslag(en) voorkomt/voorkomen die verbetering behoeft/behoeven.
-
-Gelet op [artikel 1:24a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=24a) en de circulaire van de Minister van Justitie d.d. ..... 2009 tot verbetering van akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2) heeft de ambtenaar de officier verzocht om toestemming als bedoeld in [artikel 1:24a, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=24a).
-
-In het onderhavige geval bestaat aanleiding toestemming te verlenen tot verbetering van genoemde akte(n) als beschreven in genoemde brief van de ambtenaar van de burgerlijke stand.
-
-### 2. Toestemming
-
-Gelet op het vorenstaande, bezien in samenhang met [artikel 1:24a, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=24a), geeft de officier genoemde ambtenaar van de burgerlijke stand toestemming de misslag in genoemde akte(n) te verbeteren in vorenbedoelde zin.
-
-Plaats, datum, ondertekening
-
-## Bijlage 4. bij Circulaire Verbetering akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2)
-
-Bericht aan de IND inzake weigering toestemming tot verbetering van akten van de burgerlijke stand in verband met de regeling van de afwikkeling van de nalatenschap van de oude Vreemdelingenwet (Kamerstuk II 2006/07, 31 018, nr. 2).
-
-Aan de IND te .....
-
-Hierbij deel ik u mee dat de Officier van Justitie te .....
-
-geen toestemming verleent tot verbetering van de volgende akte(n) van de burgerlijke stand in het kader van de bovenvermelde regeling:
-
-geboorte/huwelijk/registratie partnerschap akte nr .....
-
-betreffende: geslachtsnaam en voornamen .....
-
-geweigerde verbetering(en):
-
-.....
-
-Bijgevoegd treft u een kopie van de verklaring(en) van de IND inzake identiteitsherstel in het kader van deze regeling.
-
-De ambtenaar van de burgerlijke stand te .....
-
-(datum en ondertekening)

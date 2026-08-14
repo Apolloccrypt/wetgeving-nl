@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 6 november 2009, nr. WJZ / 9196477, houdende vaststelling van regels ter uitvoering van de Rijksoctrooiwet 1995 en het Uitvoeringsbesluit Rijksoctrooiwet 1995 (Uitvoeringsregeling 2009 Rijksoctrooiwet 1995)"
+citeertitel: "Uitvoeringsregeling 2009 Rijksoctrooiwet 1995"
 identifier: "BWBR0026646"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-04-01"
-last_updated: "2010-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026646"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10275743"
-version_id: "16817792"
-internal_id: "C23152581"
-label_id: "10251454"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026646/2010-04-01/0"
-intitule_bron: "Stcrt.2009-17294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-06"
-intitule_published: "2009-11-17"
-intitule_in_force: "2009-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-17294"
-original_signed_date: "2009-11-06"
-original_published_date: "2009-11-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-17294"
-entry_into_force_date: "2010-04-01"
-jci_1_3: "jci1.3:c:BWBR0026646&z=2010-04-01&g=2010-04-01"
-jci_1_0: "1.0:c:BWBR0026646&g=2010-04-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling 2009 Rijksoctrooiwet 1995"
-signed_date: "2009-11-06"
-entry_into_force: "2010-04-01"
+publicatiedatum: 2010-04-01
+laatste_update: 2010-04-01
+status: geldig
+toestand: 2010-04-01
+bron: "https://wetten.overheid.nl/BWBR0026646"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Economische Zaken van 6 november 2009, nr. WJZ / 9196477, houdende vaststelling van regels ter uitvoering van de Rijksoctrooiwet 1995 en het Uitvoeringsbesluit Rijksoctrooiwet 1995 (Uitvoeringsregeling 2009 Rijksoctrooiwet 1995)
-
-Gelet op de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24), en [52, tweede lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=14a) en [14c van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=14c);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -46,11 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **wet:** [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118);
+- *wet:*
+ [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118);
 
-- **besluit:** [Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246);
+- *besluit:*
+ [Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246);
 
-- **mededeling:** elke aanvrage tot verlening van een octrooi of elk verzoek, elke verklaring, elk document, elke correspondentie of andere informatie met betrekking tot een aanvrage om octrooi, ongeacht of deze verband houdt met een procedure ingevolge het op 1 juni 2000 te Genève tot stand gekomen Verdrag inzake octrooirecht (Trb. 2001, 120).
+- *mededeling:* elke aanvrage tot verlening van een octrooi of elk verzoek, elke verklaring, elk document, elke correspondentie of andere informatie met betrekking tot een aanvrage om octrooi, ongeacht of deze verband houdt met een procedure ingevolge het op 1 juni 2000 te Genève tot stand gekomen Verdrag inzake octrooirecht (Trb. 2001, 120).
 
 ### Hoofdstuk 2. Mededelingen
 
@@ -64,7 +40,7 @@ In deze regeling wordt verstaan onder:
 
 - b. indien van toepassing: het nummer van de aanvrage om octrooi of het octrooi waarop de mededeling betrekking heeft.
 
-2. Het bureau aanvaardt een mededeling die door een aanvrager om octrooi of octrooihouder wordt verstrekt met gebruikmaking van een internationaal standaardformulier ten aanzien van mededelingen dat overeenkomt met de vereisten ingevolge het op 19 juni 1970 te Washington tot stand gekomen Verdrag tot samenwerking inzake octrooien (Trb. 1973, 20).
+2. Het bureau aanvaardt een mededeling die door een aanvrager om octrooi of octrooihouder wordt verstrekt met gebruikmaking van een internationaal standaardformulier ten aanzien van mededelingen dat overeenkomt met de vereisten ingevolge het op 19 juni 1970 te Washington tot stand gekomen Verdrag tot samenwerking inzake octrooien (Trb. 1973, 20).
 
 3. Indien de afzender, bedoeld in het eerste lid, namens een aanvrager om octrooi, octrooihouder of andere belanghebbende bij een octrooi optreedt, bevat de mededeling tevens de naam en het adres van degene namens wie hij optreedt. Indien een gemachtigde optreedt, geldt het adres van de gemachtigde als het correspondentieadres tenzij degene voor wie hij optreedt uitdrukkelijk een afwijkend correspondentieadres heeft vermeld.
 
@@ -120,7 +96,7 @@ De bij een aanvrage om octrooi behorende beschrijving voldoet aan de volgende vo
 
 - c. in getypte of gedrukte tekst wordt 1½ regelafstand gebruikt;
 
-- d. de gehele tekst is weergegeven in letters waarvan de hoofdletters ten minste 0,21 cm hoog zijn;
+- d. de gehele tekst is weergegeven in letters waarvan de hoofdletters ten minste 0,21 cm hoog zijn;
 
 - e. grafische symbolen en tekens, en chemische of wiskundige formules zijn nauwkeurig weergegeven en mogen zo nodig met de hand worden geschreven of getekend;
 
@@ -132,7 +108,7 @@ De bij een aanvrage om octrooi behorende beschrijving voldoet aan de volgende vo
 
 - i. de bladen van de beschrijving zijn doorlopend genummerd in Arabische cijfers, waarbij de nummers van de bladen zijn geplaatst boven aan de bladzijden in het midden;
 
-- j. de bladen van de beschrijving hebben rondom onbeschreven randen van ten minste de volgende afmetingen: bovenmarge 2 cm, rechtermarge 2 cm, linkermarge 2,5 cm, benedenmarge 2 cm;
+- j. de bladen van de beschrijving hebben rondom onbeschreven randen van ten minste de volgende afmetingen: bovenmarge 2 cm, rechtermarge 2 cm, linkermarge 2,5 cm, benedenmarge 2 cm;
 
 - k. de beschrijving geeft aan welke uitkomst op het gebied van de nijverheid met de uitvinding wordt beoogd, met afbakening van het nieuwe ten opzichte van de stand van de techniek;
 
@@ -150,19 +126,19 @@ De bij een aanvrage om octrooi behorende beschrijving voldoet aan de volgende vo
 
 - r. indien de aanvrage betrekking heeft op een nucleotide- of aminozuursequentie:
 
-- 1°. bevat de beschrijving van de uitvinding een sequentie-opsomming die voldoet aan de door de Wereldorganisatie voor de Intellectuele Eigendom opgestelde standaarden;
+   - 1°. bevat de beschrijving van de uitvinding een sequentie-opsomming die voldoet aan de door de Wereldorganisatie voor de Intellectuele Eigendom opgestelde standaarden;
 
-- 2°. wordt de aanvrage vergezeld van een elektronische gegevensdrager die de onder 1° bedoelde sequentie-opsomming bevat in een machine-leesbare vorm die voldoet aan de door het Europees Octrooibureau vastgestelde criteria.
+   - 2°. wordt de aanvrage vergezeld van een elektronische gegevensdrager die de onder 1° bedoelde sequentie-opsomming bevat in een machine-leesbare vorm die voldoet aan de door het Europees Octrooibureau vastgestelde criteria.
 
 ##### Artikel 9
 
 De bij een aanvrage om octrooi behorende tekeningen voldoen aan de volgende vormvoorschriften:
 
-- a. zij zijn gesteld op één zijde van één of meer bladen buigzaam, sterk, wit, glad, niet-glanzend, ongekreukt, ongescheurd, niet-gevouwen en duurzaam papier van het formaat A4 (29,7 x 21 cm);
+- a. zij zijn gesteld op één zijde van één of meer bladen buigzaam, sterk, wit, glad, niet-glanzend, ongekreukt, ongescheurd, niet-gevouwen en duurzaam papier van het formaat A4 (29,7 x 21 cm);
 
 - b. zij zijn in al hun onderdelen uitgevoerd in krachtige en gelijkmatig getrokken duurzame lijnen van een enkele donkere kleur, dit zodanig dat zij in een onbeperkt aantal exemplaren rechtstreeks kunnen worden gereproduceerd door middel van fotografie, elektrostatische werkwijzen, foto-offset en microfilm;
 
-- c. de bladen van de tekeningen hebben rondom onbeschreven randen van ten minste de volgende afmetingen: bovenmarge 2 cm, rechtermarge 2 cm, linkermarge 2,5 cm, benedenmarge 2 cm;
+- c. de bladen van de tekeningen hebben rondom onbeschreven randen van ten minste de volgende afmetingen: bovenmarge 2 cm, rechtermarge 2 cm, linkermarge 2,5 cm, benedenmarge 2 cm;
 
 - d. de afzonderlijke figuren zijn duidelijk van elkaar gescheiden en doorlopend genummerd;
 
@@ -184,7 +160,7 @@ De bij een aanvrage om octrooi behorende tekeningen voldoen aan de volgende vorm
 
 Het bij een aanvrage om octrooi behorende uittreksel voldoet aan de volgende vereisten:
 
-- a. het is met een donkere, onuitwisbare inkt getypt of gedrukt op duurzaam wit papier van het formaat A4 (29,7 x 21 cm);
+- a. het is met een donkere, onuitwisbare inkt getypt of gedrukt op duurzaam wit papier van het formaat A4 (29,7 x 21 cm);
 
 - b. het is in de Nederlandse taal gesteld en bevat ten minste 50 en ten hoogste 250 woorden dan wel ten hoogste 150, indien het uittreksel een figuur bevat;
 
@@ -323,83 +299,3 @@ Deze regeling treedt in werking met ingang van 1 april 2010.
 ##### Artikel 26
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling 2009 Rijksoctrooiwet 1995.
-
-## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-04-01&g=2010-04-01)
-
-Voorwaarden en vereisten voor het indienen van aanvragen om octrooi, vertalingen van Europese octrooien, en andere documenten in elektronische vorm als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-04-01&g=2010-04-01) van de Uitvoeringsregeling 2009 Rijksoctrooiwet 1995
-
-### Te gebruiken software
-
-Voor het indienen van aanvragen om octrooi, vertalingen van Europese octrooien, en andere documenten in elektronische vorm dient gebruik te worden gemaakt van de NL **epoline**® software die Octrooicentrum Nederland (het bureau, bedoeld in de [ROW 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118)) beschikbaar stelt, tenzij wordt besloten ook het gebruik van andere software toe te laten.
-
-### Te gebruiken hardware
-
-Er dient gebruik te worden gemaakt van een geldige, via Octrooicentrum Nederland verkregen smart-card en daarbij behorende card reader, of van een smart-card en reader die door Octrooicentrum Nederland is toegestaan.
-
-### Minimum hardware vereisten
-
-### Ondersteunde operating systems
-
-### Elektronische drager
-
-Bij indiening met behulp van een elektronische drager dient gebruik te worden gemaakt van een CD-R die voldoet aan ISO 9660:1988.
-
-### Toegestane formaten van elektronische documenten
-
-XML
-
-PDF
-
-TIFF
-
-JPEG
-
-WIPO standard 25 voor sequentieopsommingen
-
-### Wijze van verpakking van het elektronische document
-
-Voor on-line ingediende documenten: WASP (Wrapped and Signed Package)
-
-Voor via een elektronische drager ingediende documenten: WAD (Wrapped Application Document).
-
-### De elektronische handtekening
-
-Langs elektronische weg ingediende documenten die door aanvrager of zijn gemachtigde moeten worden ondertekend, kunnen op de volgende wijzen worden ondertekend:
-
-### Wijze van inzenden
-
-Documenten kunnen met de genoemde software zowel on line als via een elektronische drager worden ingediend.
-
-Indien wordt gebruik gemaakt van een elektronische drager dient deze te samen met een document in papieren vorm waarin vermeld de indiener of zijn gemachtigde, zijn correspondentieadres en een inventarislijst van de op de drager opgenomen documenten, te worden ingediend.
-
-### Ontvangstbevestiging
-
-De ontvangst van in elektronische vorm ingediende documenten wordt door Octrooicentrum Nederland uitsluitend langs elektronische weg bevestigd, onder vermelding van de naam van Octrooicentrum Nederland, datum en tijdstip van ontvangst, een lijst van de ingediende documenten, en een zogenaamde Message Digest (een unieke reeks tekens die tot stand komt door versleuteling van het totale ontvangen bericht met behulp van het certificaat van de inzender), een referentienummer en eventueel een aanvraagnummer. Elektronische bevestiging vindt alleen plaats als aan de hier boven genoemde voorwaarden en vereisten is voldaan.
-
-Indien de bevestiging van ontvangst langs elektronische weg niet slaagt, zal deze zo spoedig mogelijk op een andere wijze aan de afzender worden toegezonden.
-
-### Onleesbare of onvolledige documenten
-
-Indien een elektronisch ingediend document onleesbaar of onvolledig is, zal het gedeelte dat onleesbaar of onvolledig is als niet ontvangen worden beschouwd.
-
-### Virussen en/of schadetoebrengende software
-
-Indien een ingediend document een virus of andere schadetoebrengende software bevat behoudt Octrooicentrum Nederland zich het recht voor een dergelijk document als onleesbaar te beschouwen en niet te openen of verwerken.
-
-### Indieningsdatum
-
-De datum waarop Octrooicentrum Nederland van langs elektronische weg ingediende aanvragen ontvangt is de datum van indiening, mits de aanvrage voldoet aan de minimumeisen genoemd in [artikel 29, eerste lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=29).
-
-### Ondersteuning door helpdesk
-
-Octrooicentrum Nederland beschikt over een helpdesk ter beantwoording van vragen van de gebruikers van de elektronische indieningsoftware. De helpdesk is bereikbaar tussen 09.00 and 17.30 uur maandag tot vrijdag m.u.v. officiële feestdagen.
-
-De helpdesk kan worden bereikt:
-
-Telefonisch: +31703986655
-
-Per fax: +31703900190
-
-Per e-mail: publieksvoorlichting@octrooicentrum.nl
-
-Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche Courant worden geplaatst.

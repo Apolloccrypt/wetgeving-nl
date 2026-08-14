@@ -1,70 +1,36 @@
 ---
 title: "Besluit van 18 juli 2009, houdende instelling van het Nederlands register gerechtelijk deskundigen en kwaliteitseisen aan deskundigen in strafzaken (Besluit register deskundige in strafzaken)"
+citeertitel: "Besluit register deskundige in strafzaken"
 identifier: "BWBR0026190"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026190"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10144683"
-version_id: "16593192"
-internal_id: "C22883381"
-label_id: "10120974"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026190/2026-01-01/0"
-intitule_bron: "Stb.2009-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-07-30"
-intitule_in_force: "2009-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2009-330"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-330"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026190&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0026190&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit register deskundige in strafzaken"
-signed_date: "2009-07-18"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0026190"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 18 juli 2009, houdende instelling van het Nederlands register gerechtelijk deskundigen en kwaliteitseisen aan deskundigen in strafzaken (Besluit register deskundige in strafzaken)
-
-Op de voordracht van Onze Minister van Justitie van 28 november 2008, nr. 5576404/08/6;
-
-Gelet op de [artikelen 51i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51i) en [51k, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51k);
-
-De Raad van State gehoord (advies van 26 januari 2009, nr. W03.08.0519/II);
-
-Gezien het nader rapport van Onze Minister van Justitie mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juli 2009, nr. 5606193/09/6;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet deskundige in strafzaken in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Justitie;
+- a. *Onze Minister:* Onze Minister van Justitie;
 
-- b. **register:** het landelijk openbaar register, bedoeld in [artikel 51k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51k), met als volledige benaming het Nederlands register gerechtelijk deskundigen;
+- b. *register:* het landelijk openbaar register, bedoeld in [artikel 51k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51k), met als volledige benaming het Nederlands register gerechtelijk deskundigen;
 
-- c. **geregistreerde deskundige:** degene die als deskundige in het register is ingeschreven;
+- c. *geregistreerde deskundige:* degene die als deskundige in het register is ingeschreven;
 
-- d. **het College:** het College, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3&z=2026-01-01&g=2026-01-01);
+- d. *het College:* het College, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3&z=2026-01-01&g=2026-01-01);
 
-- e. **de secretaris:** de secretaris van het College, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10&z=2026-01-01&g=2026-01-01);
+- e. *de secretaris:* de secretaris van het College, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10&z=2026-01-01&g=2026-01-01);
 
-- f. **het bureau:** het bureau ter ondersteuning van het College, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11&z=2026-01-01&g=2026-01-01);
+- f. *het bureau:* het bureau ter ondersteuning van het College, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11&z=2026-01-01&g=2026-01-01);
 
-- g. **aanvrager:** degene die bij het College een aanvraag tot registratie heeft ingediend.
+- g. *aanvrager:* degene die bij het College een aanvraag tot registratie heeft ingediend.
 
 ##### Artikel 2
 
@@ -196,11 +162,11 @@ Het College heeft tot taak:
 
 - b.
 
-- –. de deskundige die minder dan vier jaar in Nederland woonachtig is, en voordien langer dan een jaar in een ander land woonachtig is geweest, legt naast de verklaring omtrent het gedrag zo mogelijk tevens een integriteitverklaring over die is afgegeven door een daartoe bevoegde instantie in het land waarin hij voor zijn komst naar Nederland langer dan een jaar woonachtig was;
+   - – de deskundige die minder dan vier jaar in Nederland woonachtig is, en voordien langer dan een jaar in een ander land woonachtig is geweest, legt naast de verklaring omtrent het gedrag zo mogelijk tevens een integriteitverklaring over die is afgegeven door een daartoe bevoegde instantie in het land waarin hij voor zijn komst naar Nederland langer dan een jaar woonachtig was;
 
-- –. de deskundige die niet in Nederland woonachtig is, legt in plaats van de verklaring omtrent het gedrag zo mogelijk een integriteitverklaring over die is afgegeven door een daartoe bevoegde instantie in het land waarin hij woonachtig is;
+   - – de deskundige die niet in Nederland woonachtig is, legt in plaats van de verklaring omtrent het gedrag zo mogelijk een integriteitverklaring over die is afgegeven door een daartoe bevoegde instantie in het land waarin hij woonachtig is;
 
-- –. indien geen integriteitverklaring kan worden overgelegd of de integriteitverklaring afkomstig is uit een land buiten de Europese Unie en het College niet overtuigd is dat de overgelegde integriteitverklaring voldoende waarborg biedt inzake de integriteit, kan het College inschrijving weigeren of een verklaring verlangen waarin de deskundige instemt met openbaarmaking van het gegeven dat de integriteit niet objectief kon worden vastgesteld;
+   - – indien geen integriteitverklaring kan worden overgelegd of de integriteitverklaring afkomstig is uit een land buiten de Europese Unie en het College niet overtuigd is dat de overgelegde integriteitverklaring voldoende waarborg biedt inzake de integriteit, kan het College inschrijving weigeren of een verklaring verlangen waarin de deskundige instemt met openbaarmaking van het gegeven dat de integriteit niet objectief kon worden vastgesteld;
 
 - c. bewijsstukken van de kwalificaties voor zover relevant voor de inschrijving;
 
@@ -319,5 +285,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet deskundige in straf
 ##### Artikel 22
 
 Dit besluit kan worden aangehaald als: Besluit register deskundige in strafzaken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

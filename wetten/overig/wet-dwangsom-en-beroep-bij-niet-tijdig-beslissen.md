@@ -1,64 +1,34 @@
 ---
 title: "Wet van 28 augustus 2009 tot aanvulling van de Algemene wet bestuursrecht met doeltreffendere rechtsmiddelen tegen niet tijdig beslissen door bestuursorganen (Wet dwangsom en beroep bij niet tijdig beslissen)"
+citeertitel: "Wet dwangsom en beroep bij niet tijdig beslissen"
 identifier: "BWBR0026450"
-country: "nl"
-rank: "wet"
-publication_date: "2009-10-01"
-last_updated: "2009-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026450"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10192903"
-version_id: "16676912"
-internal_id: "C22956541"
-label_id: "10168744"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026450/2009-10-01/0"
-intitule_bron: "Stb.2009-383"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-08-28"
-intitule_published: "2009-09-30"
-intitule_in_force: "2009-09-30"
-intitule_status: "goed"
-original_publication: "Stb.2009-383"
-original_signed_date: "2009-08-28"
-original_published_date: "2009-09-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "29934"
-original_url_id: "stb-2009-383"
-entry_into_force_date: "2009-10-01"
-entry_into_force_dossier: "29934"
-jci_1_3: "jci1.3:c:BWBR0026450&z=2009-10-01&g=2009-10-01"
-jci_1_0: "1.0:c:BWBR0026450&g=2009-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet dwangsom en beroep bij niet tijdig beslissen"
-signed_date: "2009-08-28"
-entry_into_force: "2009-10-01"
+publicatiedatum: 2009-10-01
+laatste_update: 2009-10-01
+status: geldig
+toestand: 2009-10-01
+bron: "https://wetten.overheid.nl/BWBR0026450"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 28 augustus 2009 tot aanvulling van de Algemene wet bestuursrecht met doeltreffendere rechtsmiddelen tegen niet tijdig beslissen door bestuursorganen (Wet dwangsom en beroep bij niet tijdig beslissen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is belanghebbenden doeltreffendere rechtsmiddelen te bieden tegen het niet tijdig nemen van een besluit door een bestuursorgaan;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IA
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel IB
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel II
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel IIA
 
@@ -85,5 +55,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel V
 
 Deze wet wordt aangehaald als: Wet dwangsom en beroep bij niet tijdig beslissen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

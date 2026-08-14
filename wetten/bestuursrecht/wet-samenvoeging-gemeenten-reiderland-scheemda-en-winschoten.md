@@ -1,48 +1,18 @@
 ---
 title: "Wet van 18 juli 2009 tot samenvoeging van de gemeenten Reiderland, Scheemda en Winschoten"
+citeertitel: "Wet samenvoeging gemeenten Reiderland, Scheemda en Winschoten"
 identifier: "BWBR0026272"
-country: "nl"
-rank: "wet"
-publication_date: "2010-10-01"
-last_updated: "2010-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026272"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10158583"
-version_id: "16618112"
-internal_id: "C22880891"
-label_id: "10134764"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026272/2010-10-01/0"
-intitule_bron: "Stb.2009-339"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-08-25"
-intitule_in_force: "2009-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2009-339"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-08-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "31816"
-original_url_id: "stb-2009-339"
-entry_into_force_date: "2009-08-26"
-entry_into_force_dossier: "31816"
-jci_1_3: "jci1.3:c:BWBR0026272&z=2010-10-01&g=2010-10-01"
-jci_1_0: "1.0:c:BWBR0026272&g=2010-10-01"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Reiderland, Scheemda en Winschoten"
-signed_date: "2009-07-18"
-entry_into_force: "2009-08-26"
+publicatiedatum: 2009-08-26
+laatste_update: 2010-10-01
+status: geldig
+toestand: 2010-10-01
+bron: "https://wetten.overheid.nl/BWBR0026272"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 18 juli 2009 tot samenvoeging van de gemeenten Reiderland, Scheemda en Winschoten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Reiderland, Scheemda en Winschoten samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling worden de gemeenten Reiderland, Scheemda
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Oldambt ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Reiderland, Scheemda en Winschoten zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Oldambt ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Reiderland, Scheemda en Winschoten zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0026272).
 
 #### § 2. Overige bepalingen
 
@@ -82,20 +52,16 @@ Voor de op te heffen gemeenten Reiderland en Scheemda en Winschoten wordt de nie
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 8
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026272&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01) van de Wet samenvoeging van de gemeenten Reiderland, Scheemda en Winschoten
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,45 +1,17 @@
 ---
 title: "Beleidsregels verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2010"
 identifier: "BWBR0027147"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-01-26"
-last_updated: "2011-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027147"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "10409733"
-version_id: "17125232"
-internal_id: "C23630831"
-label_id: "10385234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027147/2011-01-26/0"
-intitule_bron: "Stcrt.2010-1684"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-21"
-intitule_published: "2010-02-05"
-intitule_in_force: "2010-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1684"
-original_signed_date: "2009-12-21"
-original_published_date: "2010-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-1684"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027147&z=2011-01-26&g=2011-01-26"
-jci_1_0: "1.0:c:BWBR0027147&g=2011-01-26"
-citeertitel_status: "redactioneel"
-signed_date: "2009-12-21"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2011-01-26
+status: geldig
+toestand: 2011-01-26
+bron: "https://wetten.overheid.nl/BWBR0027147"
+opgehaald: 2026-08-14
 ---
+
 # Beleidsregels verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2010
-
-Gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5, eerste en tweede lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026940);
-
-heeft in zijn vergadering van 21 december 2009 besloten:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemeen
 
@@ -47,11 +19,11 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Dit besluit verstaat onder:
 
-- a. **regio:** regio zoals genoemd in de Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2008, nr. Z/VU-2892517, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 232, 28 november 2008;
+- a. *regio:* regio zoals genoemd in de Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2008, nr. Z/VU-2892517, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 232, 28 november 2008;
 
-- b. **budgethouder:** houder van een persoonsgebonden budget krachtens [subsidieparagraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
+- b. *budgethouder:* houder van een persoonsgebonden budget krachtens [subsidieparagraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
 
-- c. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
+- c. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
 ##### Artikel 2
 

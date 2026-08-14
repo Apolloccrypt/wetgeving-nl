@@ -1,48 +1,18 @@
 ---
 title: "Wet van 12 november 2009 tot implementatie van Europese regelgeving betreffende het verkeer van diensten op de interne markt (Dienstenwet)"
+citeertitel: "Dienstenwet"
 identifier: "BWBR0026759"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026759"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "10298183"
-version_id: "16978812"
-internal_id: "C23413441"
-label_id: "10274484"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026759/2026-01-01/0"
-intitule_bron: "Stb.2009-503"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-12"
-intitule_published: "2009-12-04"
-intitule_in_force: "2009-12-04"
-intitule_status: "goed"
-original_publication: "Stb.2009-616"
-original_signed_date: "2009-12-23"
-original_published_date: "2009-12-24"
-original_effect: "structuurwijziging"
-original_dossier: "31859"
-original_url_id: "stb-2009-616"
-entry_into_force_date: "2009-12-23"
-entry_into_force_dossier: "31859"
-jci_1_3: "jci1.3:c:BWBR0026759&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0026759&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Dienstenwet"
-signed_date: "2009-12-23"
-entry_into_force: "2009-12-23"
+publicatiedatum: 2009-12-23
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0026759"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 12 november 2009 tot implementatie van Europese regelgeving betreffende het verkeer van diensten op de interne markt (Dienstenwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om te voorzien in wettelijke regels om uitvoering te geven aan richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,49 +22,50 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **afnemer:** natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;
+- *afnemer:* natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;
 
-- **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **bevoegde instantie:** bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
+- *bevoegde instantie:* bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
 
-- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2026-01-01&g=2026-01-01);
+- *centraal loket:* het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2026-01-01&g=2026-01-01);
 
-- **consument:** afnemer die een natuurlijke persoon is, niet handelend in de uitoefening van een beroep of bedrijf;
+- *consument:* afnemer die een natuurlijke persoon is, niet handelend in de uitoefening van een beroep of bedrijf;
 
-- **dienst:** economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;
+- *dienst:* economische activiteit, anders dan in loondienst, die gewoonlijk tegen vergoeding geschiedt, als bedoeld in artikel 50 van het Verdrag;
 
-- **dienstverrichter:** natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;
+- *dienstverrichter:* natuurlijke persoon die onderdaan is van een lidstaat of een rechtspersoon in de zin van artikel 48 van het Verdrag, die in een lidstaat is gevestigd en die een dienst aanbiedt of verricht;
 
-- **dwingende redenen van algemeen belang:** redenen die als zodanig zijn erkend in de rechtspraak van het Hof van Justitie van de Europese Unie;
+- *dwingende redenen van algemeen belang:* redenen die als zodanig zijn erkend in de rechtspraak van het Hof van Justitie van de Europese Unie;
 
-- **eis:** verplichting, verbodsbepaling, voorwaarde of beperking uit hoofde van wettelijke en bestuursrechtelijke bepalingen of voortvloeiend uit de rechtspraak, de administratieve praktijk, de regels van beroepsorden of de collectieve regels van beroepsverenigingen of andere beroepsorganisaties, die deze in het kader van de hun toegekende bevoegdheden hebben vastgesteld, met uitzondering van regels vastgelegd in collectieve arbeidsovereenkomsten waarover door de sociale partners is onderhandeld;
+- *eis:* verplichting, verbodsbepaling, voorwaarde of beperking uit hoofde van wettelijke en bestuursrechtelijke bepalingen of voortvloeiend uit de rechtspraak, de administratieve praktijk, de regels van beroepsorden of de collectieve regels van beroepsverenigingen of andere beroepsorganisaties, die deze in het kader van de hun toegekende bevoegdheden hebben vastgesteld, met uitzondering van regels vastgelegd in collectieve arbeidsovereenkomsten waarover door de sociale partners is onderhandeld;
 
-- **gereglementeerd beroep:** beroepsactiviteit of een geheel van beroepsactiviteiten als bedoeld in artikel 3, eerste lid, onder a, van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);
+- *gereglementeerd beroep:* beroepsactiviteit of een geheel van beroepsactiviteiten als bedoeld in artikel 3, eerste lid, onder a, van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);
 
-- **informatiepunt:** het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01);
+- *informatiepunt:* het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01);
 
-- **interne markt informatiesysteem:** elektronisch informatiesysteem, bedoeld in artikel 34 van de richtlijn, voor de uitwisseling van informatie tussen de bevoegde instanties van de lidstaten;
+- *interne markt informatiesysteem:* elektronisch informatiesysteem, bedoeld in artikel 34 van de richtlijn, voor de uitwisseling van informatie tussen de bevoegde instanties van de lidstaten;
 
-- **lidstaat:** lidstaat van de Europese Unie of van de Europese Economische Ruimte;
+- *lidstaat:* lidstaat van de Europese Unie of van de Europese Economische Ruimte;
 
-- **lidstaat van vestiging:** lidstaat op het grondgebied waarvan de dienstverrichter is gevestigd;
+- *lidstaat van vestiging:* lidstaat op het grondgebied waarvan de dienstverrichter is gevestigd;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- **procedures en formaliteiten:** activiteiten die naar hun aard door middel van uitwisseling van gegevens en bescheiden tussen een dienstverrichter en een of meer bevoegde instanties plaatsvinden en die op een eis of een vergunning betrekking hebben;
+- *procedures en formaliteiten:* activiteiten die naar hun aard door middel van uitwisseling van gegevens en bescheiden tussen een dienstverrichter en een of meer bevoegde instanties plaatsvinden en die op een eis of een vergunning betrekking hebben;
 
-- **richtlijn:** [richtlijn 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376);
+- *richtlijn:*
+ richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376);
 
-- **Verdrag:** Verdrag tot oprichting van de Europese Gemeenschap;
+- *Verdrag:* Verdrag tot oprichting van de Europese Gemeenschap;
 
-- **vergunningstelsel:** procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een vergunning;
+- *vergunningstelsel:* procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een vergunning;
 
-- **vergunning:** beslissing, uitdrukkelijk of stilzwijgend, over de toegang tot of de uitoefening van een dienst;
+- *vergunning:* beslissing, uitdrukkelijk of stilzwijgend, over de toegang tot of de uitoefening van een dienst;
 
-- **vestiging:** daadwerkelijke uitoefening van een economische activiteit als bedoeld in artikel 43 van het Verdrag, door een dienstverrichter voor onbepaalde tijd en vanuit een duurzame infrastructuur, van waaruit daadwerkelijk diensten worden verricht;
+- *vestiging:* daadwerkelijke uitoefening van een economische activiteit als bedoeld in artikel 43 van het Verdrag, door een dienstverrichter voor onbepaalde tijd en vanuit een duurzame infrastructuur, van waaruit daadwerkelijk diensten worden verricht;
 
-- **zakelijke afnemer:** afnemer, niet zijnde een consument.
+- *zakelijke afnemer:* afnemer, niet zijnde een consument.
 
 ##### Artikel 2
 
@@ -106,11 +77,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a.
 
-- 1°. onderwerpen en diensten die op grond van artikel 1, tweede tot en met zevende lid, artikel 2, derde lid en artikel 3, tweede lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd,
+   - 1°. onderwerpen en diensten die op grond van artikel 1, tweede tot en met zevende lid, artikel 2, derde lid en artikel 3, tweede lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd,
 
-- 2°. diensten en sectoren die op grond van de artikel 2, tweede lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd,
+   - 2°. diensten en sectoren die op grond van de artikel 2, tweede lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd,
 
-- 3°. bepalingen van communautaire regelgeving, die ingeval zich een strijdigheid voordoet als omschreven in artikel 3, eerste lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd;
+   - 3°. bepalingen van communautaire regelgeving, die ingeval zich een strijdigheid voordoet als omschreven in artikel 3, eerste lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd;
 
 - b. procedures van bezwaar en beroep;
 
@@ -126,6 +97,20 @@ Het bij of krachtens deze wet bepaalde is mede van toepassing in de Nederlandse 
 
 #### § 1.2. Wederzijdse erkenning van gegevens en bescheiden
 
+##### Artikel 4
+
+1. Een bevoegde instantie waaraan een afnemer of dienstverrichter gegevens of bescheiden overlegt ten bewijze dat aan een eis is voldaan of een vergunning is verkregen aanvaardt ook:
+
+- a. gegevens en bescheiden uit een andere lidstaat die een gelijkwaardig doel dienen of waaruit blijkt dat aan de betrokken eis is voldaan of de vergunning is verkregen;
+
+- b. daartoe strekkende formulieren als bedoeld in artikel 5, tweede lid, van de richtlijn.
+
+2. Bij de toepassing van het eerste lid kan een bevoegde instantie voor gegevens en bescheiden uit een andere lidstaat uitsluitend originelen, afschriften van originelen die als eensluidend met het origineel gewaarmerkt zijn, of een authentieke vertaling van originelen, verlangen, indien dit uit een verdrag van de Europese Unie of uit een voor lidstaten bindend besluit van één of meer instellingen van de Europese Unie volgt, of indien dit op grond van een dwingende reden van algemeen belang gerechtvaardigd is.
+
+3. Onverminderd het tweede lid kan een bevoegde instantie bij de toepassing van het eerste lid voor gegevens en bescheiden uit een andere lidstaat in een vreemde taal een niet-gelegaliseerde vertaling verlangen in de Nederlandse of Friese taal.
+
+4. Het eerste lid, onderdeel a, is niet van toepassing op gegevens en bescheiden als bedoeld in artikel 5, vierde lid, van de richtlijn.
+
 ### Hoofdstuk 2. Centrale elektronische voorzieningen voor dienstverrichters en afnemers
 
 #### § 2.1. Het centraal loket
@@ -136,21 +121,33 @@ Het bij of krachtens deze wet bepaalde is mede van toepassing in de Nederlandse 
 
 - a. ten behoeve van dienstverrichters:
 
-- 1°. informatie toegankelijk wordt gemaakt die van belang is voor het verkrijgen van toegang tot of de uitoefening van diensten;
+   - 1°. informatie toegankelijk wordt gemaakt die van belang is voor het verkrijgen van toegang tot of de uitoefening van diensten;
 
-- 2°. berichtenverkeer dat betrekking heeft op procedures en formaliteiten wordt uitgewisseld tussen dienstverrichters en bevoegde instanties.
+   - 2°. berichtenverkeer dat betrekking heeft op procedures en formaliteiten wordt uitgewisseld tussen dienstverrichters en bevoegde instanties.
 
 - b. ten behoeve van zakelijke afnemers:
 
-- 1°. informatie toegankelijk wordt gemaakt in verband met het afnemen van diensten in Nederland of een andere lidstaat;
+   - 1°. informatie toegankelijk wordt gemaakt in verband met het afnemen van diensten in Nederland of een andere lidstaat;
 
-- 2°. op verzoek informatie wordt verschaft in verband met het afnemen van diensten in een andere lidstaat dan Nederland.
+   - 2°. op verzoek informatie wordt verschaft in verband met het afnemen van diensten in een andere lidstaat dan Nederland.
 
 2. Het centraal loket is gemakkelijk langs elektronische weg bereikbaar.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inrichting, instandhouding, werking en beveiliging van het centraal loket.
 
 #### § 2.2. Het informatiepunt
+
+##### Artikel 6
+
+1. De Autoriteit Consument en Markt draagt zorg voor de inrichting, instandhouding, werking en beveiliging van een informatiepunt met behulp waarvan ten behoeve van consumenten:
+
+- a. informatie toegankelijk wordt gemaakt in verband met het afnemen van diensten in Nederland of een andere lidstaat;
+
+- b. op verzoek informatie wordt verschaft in verband met het afnemen van diensten in een andere lidstaat dan Nederland.
+
+2. Het informatiepunt is gemakkelijk langs elektronische weg bereikbaar.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inrichting, instandhouding, werking en beveiliging van het informatiepunt.
 
 ### Hoofdstuk 3. Informatie, bijstand en elektronische afwikkeling voor dienstverrichters
 
@@ -200,6 +197,20 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 #### § 3.2. Verlening van bijstand aan dienstverrichters
 
+##### Artikel 12
+
+1. Een bevoegde instantie verstrekt een dienstverrichter op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
+
+2. De in het eerste lid bedoelde informatie wordt zo spoedig mogelijk verstrekt, is actueel, duidelijk en ondubbelzinnig. Waar passend wordt informatie verstrekt in de vorm van een handleiding.
+
+3. Indien een bevoegde instantie de verzochte informatie niet kan verstrekken, deelt zij dat onverwijld mee.
+
+4. Een bevoegde instantie draagt er zorg voor dat zij langs elektronische weg voldoende bereikbaar is voor een verzoek van een dienstverrichter om informatie als bedoeld in het eerste lid.
+
+5. Een bevoegde instantie verzendt een bericht met de verzochte informatie als bedoeld in het eerste lid, of een mededeling als bedoeld in het derde lid, langs elektronische weg, voor zover een dienstverrichter waarvoor het bericht bestemd is aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.
+
+6. Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
+
 #### § 3.3. Op procedures en formaliteiten betrekking hebbend berichtenverkeer
 
 ##### Artikel 13
@@ -248,7 +259,7 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 ### Hoofdstuk 4. Informatie en bijstand voor afnemers
 
-#### § 3.4. Gegevensbescherming
+#### § 4.1. Toegankelijkheid van informatie voor afnemers
 
 ##### Artikel 17
 
@@ -312,129 +323,45 @@ Indien daarin niet op andere wijze is voorzien, draagt Onze Minister van Binnenl
 
 #### § 4.2. Verlening van bijstand aan afnemers
 
-### Hoofdstuk 5. Vergunningstelsels
+##### Artikel 23
+
+Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties verstrekt een zakelijke afnemer op diens verzoek:
+
+- a. algemene informatie over in de andere lidstaten geldende eisen inzake de toegang tot en de uitoefening van diensten.
+
+- b. algemene informatie over in andere lidstaten beschikbare rechtsmiddelen voor het beslechten van geschillen tussen een dienstverrichter en een zakelijke afnemer;
+
+- c. namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk uit een andere lidstaat, die geen bevoegde instanties in die lidstaat zijn, en van welke een zakelijke afnemer praktische bijstand kan krijgen.
+
+##### Artikel 24
+
+De Autoriteit Consument en Markt verstrekt een consument op diens verzoek:
+
+- a. algemene informatie over in de andere lidstaten geldende eisen inzake de toegang tot en uitoefening van diensten, in het bijzonder die inzake consumentenbescherming;
+
+- b. algemene informatie over in andere lidstaten beschikbare rechtsmiddelen voor het beslechten van geschillen tussen een dienstverrichter en een consument;
+
+- c. namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk uit een andere lidstaat, die geen bevoegde instanties in die lidstaat zijn, en van welke een consument praktische bijstand kan krijgen.
+
+##### Artikel 25
+
+Een bevoegde instantie verstrekt een afnemer op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
+
+##### Artikel 26
+
+Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2026-01-01&g=2026-01-01) is [artikel 12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties gericht verzoek geschiedt via het centraal loket en een tot de Autoriteit Consument en Markt gericht verzoek via het informatiepunt.
+
+##### Artikel 27
+
+1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van zakelijke afnemers.
+
+2. De Autoriteit Consument en Markt verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van consumenten.
+
+3. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kan ten aanzien van zakelijke afnemers en Onze Minister kan ten aanzien van consumenten regels stellen ter uitvoering van op grond van artikel 21, derde lid, laatste volzin en artikel 21, vierde lid, van de richtlijn vastgestelde praktische regelingen en uitvoeringsmaatregelen.
 
 ### Hoofdstuk 5. Vergunningstelsels
-
-#### § 4.2. Verlening van bijstand aan afnemers
-
-#### § 6.2. Informatie over de betrouwbaarheid van dienstverrichters
-
-#### § 6.3. Veiligheidsmaatregelen jegens dienstverrichters in individuele gevallen
-
-#### § 6.4. Het waarschuwingsmechanisme
-
-##### Artikel 51
-
-1. Zodra een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kennis neemt van gedragingen, ernstige specifieke handelingen of omstandigheden met betrekking tot een dienstverrichter of een dienstverrichting die ernstige schade aan de gezondheid, veiligheid van personen of het milieu kan veroorzaken, stelt deze instantie alle andere lidstaten, de Europese Commissie en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt daarvan onverwijld in kennis.
-
-2. De in het eerste lid bedoelde kennisgeving geschiedt via het interne markt informatiesysteem, tenzij naar het oordeel van de bevoegde instantie ter uitvoering van regelgeving van de Europese Gemeenschap een ander elektronisch communicatiesysteem is aangewezen.
-
-3. De kennisgeving wordt gelijkgesteld met een besluit.
-
-4. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van het besluit mededeling gedaan aan de dienstverrichter.
-
-5. Het eerste lid is niet van toepassing op opsporingsonderzoeken als bedoeld in [artikel 132a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=132a).
-
-##### Artikel 52
-
-Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de door de Europese Commissie krachtens artikel 32, derde lid, van de richtlijn vastgestelde regels.
-
-#### § 6.5. Toezicht en handhaving
 
 #### § 5.1. Vergunningen op aanvraag
-
-##### Artikel 55
-
-1. Onze Minister draagt zorg voor de inrichting en instandhouding van een contactpunt.
-
-2. Het contactpunt:
-
-- a. ondersteunt de uitwisseling van verzoeken om informatie over en tot het verrichten van verificaties, inspecties en onderzoeken naar dienstverrichters en hun dienstverrichtingen tussen de bevoegde instanties en de bevoegde instanties uit andere lidstaten;
-
-- b. is de bevoegde instanties al dan niet op verzoek behulpzaam bij
-
-- 1°. het oplossen van problemen bij verzoeken om informatie over en tot het verrichten van verificaties, inspecties en onderzoeken naar dienstverrichters en hun dienstverrichtingen aan of van bevoegde instanties uit andere lidstaten,
-
-- 2°. het gebruik van het waarschuwingsmechanisme;
-
-- c. verstrekt al dan niet op verzoek aan de bevoegde instanties de nodige informatie met betrekking tot gelijkwaardige, of gezien hun doel in wezen vergelijkbare eisen en onderzoeken waaraan een dienstverrichter in een andere lidstaat is onderworpen;
-
-- d. onderhoudt contacten met de contactpunten van andere lidstaten ten behoeve van een goede werking van de administratieve samenwerking.
-
-#### § 6.7. Het interne markt informatiesysteem
-
-##### Artikel 56
-
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), draagt zorg voor aansluiting op het interne markt informatiesysteem.
-
-##### Artikel 57
-
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot technische eisen waaraan de bevoegde instanties moeten voldoen met het oog op aansluiting op het interne markt informatiesysteem en met betrekking tot de beveiliging van persoonsgegevens bij gebruik van het interne markt informatiesysteem.
-
-##### Artikel 58
-
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kan het interne markt informatiesysteem benutten voor de uitwisseling van gegevens binnen Nederland met betrekking tot dienstverrichters en dienstverrichtingen.
-
-##### Artikel 59
-
-1. Onze Minister verwerkt persoonsgegevens, bestaande uit de contactgegevens van de contactpersonen van de bevoegde instanties, met het doel de uitwisseling van berichten die betrekking hebben op de afwikkeling van verzoeken om informatie en verificaties, inspecties en onderzoeken en op waarschuwingsberichten, bedoeld in dit hoofdstuk, door bevoegde instanties via het interne markt informatiesysteem mogelijk te maken.
-
-2. Ten aanzien van de verwerking van persoonsgegevens, bedoeld in het eerste lid, is onze Minister verwerkingsverantwoordelijke.
-
-##### Artikel 60
-
-Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door de Commissie krachtens artikel 36 van de richtlijn vastgestelde uitvoeringsmaatregelen en praktische regels voor de elektronische uitwisseling van informatie tussen de lidstaten.
-
-### Hoofdstuk 7. Wijziging van andere wetten
-
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel 65
-
-[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
-
-##### Artikel 66
-
-1. Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is uitgezonderd van de toepassing van [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3).
-
-2. Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
-
-3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt voor de eerste maal niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-##### Artikel 67
-
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 68
-
-Deze wet wordt aangehaald als: Dienstenwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12
-
-1. Een bevoegde instantie verstrekt een dienstverrichter op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
-
-2. De in het eerste lid bedoelde informatie wordt zo spoedig mogelijk verstrekt, is actueel, duidelijk en ondubbelzinnig. Waar passend wordt informatie verstrekt in de vorm van een handleiding.
-
-3. Indien een bevoegde instantie de verzochte informatie niet kan verstrekken, deelt zij dat onverwijld mee.
-
-4. Een bevoegde instantie draagt er zorg voor dat zij langs elektronische weg voldoende bereikbaar is voor een verzoek van een dienstverrichter om informatie als bedoeld in het eerste lid.
-
-5. Een bevoegde instantie verzendt een bericht met de verzochte informatie als bedoeld in het eerste lid, of een mededeling als bedoeld in het derde lid, langs elektronische weg, voor zover een dienstverrichter waarvoor het bericht bestemd is aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.
-
-6. Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8).
-
-#### § 3.2. Verlening van bijstand aan dienstverrichters
-
-#### § 3.4. Gegevensbescherming
-
-### Hoofdstuk 4. Informatie en bijstand voor afnemers
-
-#### § 4.1. Toegankelijkheid van informatie voor afnemers
-
-#### § 4.2. Verlening van bijstand aan afnemers
 
 ##### Artikel 28
 
@@ -450,7 +377,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. beschikbare rechtsmiddelen om tegen de beschikking op te komen.
 
-2. Indien [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) op een aanvraag van toepassing is, vermeldt de ontvangstbevestiging tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.
+2. Indien [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) op een aanvraag van toepassing is, vermeldt de ontvangstbevestiging tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.
 
 ##### Artikel 30
 
@@ -531,106 +458,6 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 ### Hoofdstuk 6. Administratieve samenwerking
 
 #### § 6.1. Wederzijdse bijstand
-
-#### § 6.2. Informatie over de betrouwbaarheid van dienstverrichters
-
-#### § 6.3. Veiligheidsmaatregelen jegens dienstverrichters in individuele gevallen
-
-#### § 5.2. Meldingen
-
-#### § 6.5. Toezicht en handhaving
-
-#### § 6.1. Wederzijdse bijstand
-
-#### § 6.7. Het interne markt informatiesysteem
-
-### Hoofdstuk 7. Wijziging van andere wetten
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4
-
-1. Een bevoegde instantie waaraan een afnemer of dienstverrichter gegevens of bescheiden overlegt ten bewijze dat aan een eis is voldaan of een vergunning is verkregen aanvaardt ook:
-
-- a. gegevens en bescheiden uit een andere lidstaat die een gelijkwaardig doel dienen of waaruit blijkt dat aan de betrokken eis is voldaan of de vergunning is verkregen;
-
-- b. daartoe strekkende formulieren als bedoeld in artikel 5, tweede lid, van de richtlijn.
-
-2. Bij de toepassing van het eerste lid kan een bevoegde instantie voor gegevens en bescheiden uit een andere lidstaat uitsluitend originelen, afschriften van originelen die als eensluidend met het origineel gewaarmerkt zijn, of een authentieke vertaling van originelen, verlangen, indien dit uit een verdrag van de Europese Unie of uit een voor lidstaten bindend besluit van één of meer instellingen van de Europese Unie volgt, of indien dit op grond van een dwingende reden van algemeen belang gerechtvaardigd is.
-
-3. Onverminderd het tweede lid kan een bevoegde instantie bij de toepassing van het eerste lid voor gegevens en bescheiden uit een andere lidstaat in een vreemde taal een niet-gelegaliseerde vertaling verlangen in de Nederlandse of Friese taal.
-
-4. Het eerste lid, onderdeel a, is niet van toepassing op gegevens en bescheiden als bedoeld in artikel 5, vierde lid, van de richtlijn.
-
-### Hoofdstuk 2. Centrale elektronische voorzieningen voor dienstverrichters en afnemers
-
-#### § 2.1. Het centraal loket
-
-#### § 2.2. Het informatiepunt
-
-##### Artikel 6
-
-1. De Autoriteit Consument en Markt draagt zorg voor de inrichting, instandhouding, werking en beveiliging van een informatiepunt met behulp waarvan ten behoeve van consumenten:
-
-- a. informatie toegankelijk wordt gemaakt in verband met het afnemen van diensten in Nederland of een andere lidstaat;
-
-- b. op verzoek informatie wordt verschaft in verband met het afnemen van diensten in een andere lidstaat dan Nederland.
-
-2. Het informatiepunt is gemakkelijk langs elektronische weg bereikbaar.
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inrichting, instandhouding, werking en beveiliging van het informatiepunt.
-
-### Hoofdstuk 3. Informatie, bijstand en elektronische afwikkeling voor dienstverrichters
-
-#### § 3.1. Toegankelijkheid van informatie voor dienstverrichters
-
-#### § 3.3. Op procedures en formaliteiten betrekking hebbend berichtenverkeer
-
-### Hoofdstuk 4. Informatie en bijstand voor afnemers
-
-#### § 4.1. Toegankelijkheid van informatie voor afnemers
-
-##### Artikel 23
-
-Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties verstrekt een zakelijke afnemer op diens verzoek:
-
-- a. algemene informatie over in de andere lidstaten geldende eisen inzake de toegang tot en de uitoefening van diensten.
-
-- b. algemene informatie over in andere lidstaten beschikbare rechtsmiddelen voor het beslechten van geschillen tussen een dienstverrichter en een zakelijke afnemer;
-
-- c. namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk uit een andere lidstaat, die geen bevoegde instanties in die lidstaat zijn, en van welke een zakelijke afnemer praktische bijstand kan krijgen.
-
-##### Artikel 24
-
-De Autoriteit Consument en Markt verstrekt een consument op diens verzoek:
-
-- a. algemene informatie over in de andere lidstaten geldende eisen inzake de toegang tot en uitoefening van diensten, in het bijzonder die inzake consumentenbescherming;
-
-- b. algemene informatie over in andere lidstaten beschikbare rechtsmiddelen voor het beslechten van geschillen tussen een dienstverrichter en een consument;
-
-- c. namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk uit een andere lidstaat, die geen bevoegde instanties in die lidstaat zijn, en van welke een consument praktische bijstand kan krijgen.
-
-##### Artikel 25
-
-Een bevoegde instantie verstrekt een afnemer op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), waarbij die bevoegde instantie is betrokken.
-
-##### Artikel 26
-
-Op een informatieverzoek als bedoeld in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2026-01-01&g=2026-01-01) is [artikel 12, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat de behandeling van een tot Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties gericht verzoek geschiedt via het centraal loket en een tot de Autoriteit Consument en Markt gericht verzoek via het informatiepunt.
-
-##### Artikel 27
-
-1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van zakelijke afnemers.
-
-2. De Autoriteit Consument en Markt verstrekt aan een relevante organisatie als bedoeld in artikel 21, derde lid, van de richtlijn op verzoek informatie als bedoeld in artikel 21, eerste lid, onderdelen a tot en met c, van de richtlijn, voor Nederland ten behoeve van consumenten.
-
-3. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties kan ten aanzien van zakelijke afnemers en Onze Minister kan ten aanzien van consumenten regels stellen ter uitvoering van op grond van artikel 21, derde lid, laatste volzin en artikel 21, vierde lid, van de richtlijn vastgestelde praktische regelingen en uitvoeringsmaatregelen.
-
-### Hoofdstuk 5. Vergunningstelsels
-
-### Hoofdstuk 6. Administratieve samenwerking
 
 ##### Artikel 37
 
@@ -776,6 +603,22 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 #### § 6.4. Het waarschuwingsmechanisme
 
+##### Artikel 51
+
+1. Zodra een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kennis neemt van gedragingen, ernstige specifieke handelingen of omstandigheden met betrekking tot een dienstverrichter of een dienstverrichting die ernstige schade aan de gezondheid, veiligheid van personen of het milieu kan veroorzaken, stelt deze instantie alle andere lidstaten, de Europese Commissie en het in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=6&paragraaf=6.6&artikel=55&z=2026-01-01&g=2026-01-01) bedoelde contactpunt daarvan onverwijld in kennis.
+
+2. De in het eerste lid bedoelde kennisgeving geschiedt via het interne markt informatiesysteem, tenzij naar het oordeel van de bevoegde instantie ter uitvoering van regelgeving van de Europese Gemeenschap een ander elektronisch communicatiesysteem is aangewezen.
+
+3. De kennisgeving wordt gelijkgesteld met een besluit.
+
+4. Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van het besluit mededeling gedaan aan de dienstverrichter.
+
+5. Het eerste lid is niet van toepassing op opsporingsonderzoeken als bedoeld in [artikel 132a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=132a).
+
+##### Artikel 52
+
+Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de door de Europese Commissie krachtens artikel 32, derde lid, van de richtlijn vastgestelde regels.
+
 #### § 6.5. Toezicht en handhaving
 
 ##### Artikel 53
@@ -788,44 +631,102 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 #### § 6.6. Het contactpunt
 
+##### Artikel 55
+
+1. Onze Minister draagt zorg voor de inrichting en instandhouding van een contactpunt.
+
+2. Het contactpunt:
+
+- a. ondersteunt de uitwisseling van verzoeken om informatie over en tot het verrichten van verificaties, inspecties en onderzoeken naar dienstverrichters en hun dienstverrichtingen tussen de bevoegde instanties en de bevoegde instanties uit andere lidstaten;
+
+- b. is de bevoegde instanties al dan niet op verzoek behulpzaam bij
+
+   - 1°. het oplossen van problemen bij verzoeken om informatie over en tot het verrichten van verificaties, inspecties en onderzoeken naar dienstverrichters en hun dienstverrichtingen aan of van bevoegde instanties uit andere lidstaten,
+
+   - 2°. het gebruik van het waarschuwingsmechanisme;
+
+- c. verstrekt al dan niet op verzoek aan de bevoegde instanties de nodige informatie met betrekking tot gelijkwaardige, of gezien hun doel in wezen vergelijkbare eisen en onderzoeken waaraan een dienstverrichter in een andere lidstaat is onderworpen;
+
+- d. onderhoudt contacten met de contactpunten van andere lidstaten ten behoeve van een goede werking van de administratieve samenwerking.
+
 #### § 6.7. Het interne markt informatiesysteem
+
+##### Artikel 56
+
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), draagt zorg voor aansluiting op het interne markt informatiesysteem.
+
+##### Artikel 57
+
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot technische eisen waaraan de bevoegde instanties moeten voldoen met het oog op aansluiting op het interne markt informatiesysteem en met betrekking tot de beveiliging van persoonsgegevens bij gebruik van het interne markt informatiesysteem.
+
+##### Artikel 58
+
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), kan het interne markt informatiesysteem benutten voor de uitwisseling van gegevens binnen Nederland met betrekking tot dienstverrichters en dienstverrichtingen.
+
+##### Artikel 59
+
+1. Onze Minister verwerkt persoonsgegevens, bestaande uit de contactgegevens van de contactpersonen van de bevoegde instanties, met het doel de uitwisseling van berichten die betrekking hebben op de afwikkeling van verzoeken om informatie en verificaties, inspecties en onderzoeken en op waarschuwingsberichten, bedoeld in dit hoofdstuk, door bevoegde instanties via het interne markt informatiesysteem mogelijk te maken.
+
+2. Ten aanzien van de verwerking van persoonsgegevens, bedoeld in het eerste lid, is onze Minister verwerkingsverantwoordelijke.
+
+##### Artikel 60
+
+Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door de Commissie krachtens artikel 36 van de richtlijn vastgestelde uitvoeringsmaatregelen en praktische regels voor de elektronische uitwisseling van informatie tussen de lidstaten.
 
 ### Hoofdstuk 6a. Naleving verplichtingen door bevoegde instanties
 
 ##### Artikel 59a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 59d
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Wijziging van andere wetten
 
 ##### Artikel 61
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 62
 
-Wijzigt het Burgerlijk Wetboek Boek 6.
+*Wijzigt het Burgerlijk Wetboek Boek 6.*
 
 ##### Artikel 63
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
 ##### Artikel 64
 
-Wijzigt het Wetboek van Burgerlijke rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke rechtsvordering.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 65
+
+[Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
+
+##### Artikel 66
+
+1. Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=28&z=2026-01-01&g=2026-01-01) is uitgezonderd van de toepassing van [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3).
+
+2. Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) en de [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
+
+3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt voor de eerste maal niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+##### Artikel 67
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 68
+
+Deze wet wordt aangehaald als: Dienstenwet.

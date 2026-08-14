@@ -1,160 +1,33 @@
 ---
-title: "Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak"
+title: "Regeling van de Minister van Justitie van 5 januari 2010, nr. 5636246/10, houdende vaststelling van de hoogte van de onkostenvergoeding als bedoeld in het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak (Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak)"
+citeertitel: "Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak"
 identifier: "BWBR0027093"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2024-09-27
-laatste_update: 2024-09-27
+laatste_update: 2026-06-13
 status: geldig
+toestand: 2026-06-13
 bron: "https://wetten.overheid.nl/BWBR0027093"
+opgehaald: 2026-08-14
 ---
 
 # Regeling van de Minister van Justitie van 5 januari 2010, nr. 5636246/10, houdende vaststelling van de hoogte van de onkostenvergoeding als bedoeld in het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak (Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak)
 
-Gelet op [artikel 9b van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9b);
-
-Besluit:
-
-#### Artikel 1
+##### Artikel 1
 
 De bedragen van de onkostenvergoeding als bedoeld in [artikel 9 van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9) worden jaarlijks geïndexeerd op basis van de consumentenprijsindex over het voorgaande kalenderjaar.
 
-#### Artikel 2
+##### Artikel 2
 
-De indexering van de onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast.
+De indexering van de onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast.
 
-#### Artikel 3
+##### Artikel 3
 
-1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2022 wordt met 2,57% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage 1 genoemde bedrag.
+1. Het bedrag van de algemene onkostenvergoeding voor het jaar 2025 wordt met 2,54% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=1&z=2026-06-13&g=2026-06-13) genoemde bedrag.
 
-2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2023 wordt met 17,16% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage 2 genoemde bedrag.
+2. Het bedrag van de algemene onkostenvergoeding voor het jaar 2026 wordt met 3,16% verhoogd en vastgesteld op het in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&bijlage=2&z=2026-06-13&g=2026-06-13) genoemde bedrag.
 
-3. Het bedrag van de algemene onkostenvergoeding voor het jaar 2024 wordt met –1,39% verhoogd en vastgesteld op het in de bij deze regeling behorende bijlage 3 genoemde bedrag.
-
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak.
-
-#### Artikel 5
-
-Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak.
-
-## Bijlage 2. als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2024-09-27)
-
-| Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
-| --- | --- | --- | --- | --- |
-| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | **€ 6.238** | € 1.183 | € 176 | € 4.879 |
-| niet-rechterlijk lid Raad voor de rechtspraak | **€ 6.116** | € 1.183 | € 176 | € 4.757 |
-| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | **€ 3.597** | € 1.183 | € 176 | € 2.238 |
-| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | **€ 2.401** | € 1.183 | € 176 | € 1.042 |
-
-## Bijlage 3. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2024-09-27)
-
-| Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
-| --- | --- | --- | --- | --- |
-| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | **€ 6.152** | € 1.167 | € 174 | € 4.811 |
-| niet-rechterlijk lid Raad voor de rechtspraak | **€ 6.031** | € 1.167 | € 174 | € 4.690 |
-| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | **€ 3.547** | € 1.167 | € 174 | € 2.206 |
-| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | **€ 2.368** | € 1.167 | € 174 | € 1.027 |
-
-## Bijlage 2
-
-Niet opgenomen.
-
-## Bijlage 3
-
-Niet opgenomen.
-
-## Bijlage 4
-
-Niet opgenomen.
-
-## Bijlage 5
-
-Niet opgenomen.
-
-## Bijlage 6
-
-Niet opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 7
-
-Niet opgenomen.
-
-## Bijlage 8
-
-Niet opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 10. als bedoeld in [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2013-01-01&g=2018-01-01), van de Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak
-
-| functie | per jaar (nbelaste vergoeding) | per maand (onbelaste vergoeding) |
-| --- | --- | --- |
-|   |   |   |
-| voorzitter Raad voor de Rechtspraak | € 4.702,00 | € 391,83 |
-| rechterlijk lid Raad voor de rechtspraak |   |   |
-|   |   |   |
-|   |   |   |
-| niet-rechterlijk lid van de Raad | € 4.611,00 | € 384,25 |
-|   |   |   |
-| voorzitter bestuur gerechtshof | € 2.711,00 | € 225,92 |
-| voorzitter bestuur rechtbank |   |   |
-| voorzitter bestuur Centrale Raad van Beroep |   |   |
-| voorzitter bestuur College van Beroep voor het Bedrijfsleven |   |   |
-|   |   |   |
-| voorzitter of het andere rechterlijk lid van het bestuur | € 1.807,00 | € 150,58 |
-| rechterlijk lid bestuur Centrale Raad van Beroep |   |   |
-| rechterlijk lid bestuur College van Beroep voor het Bedrijfsleven |   |   |
-|   |   |   |
-| voorzitter of het andere rechterlijk lid van het bestuur | € 1.657,00 | € 138,08 |
-|   |   |   |
-| NB |   |   |
-| de directeuren bedrijfsvoering bij de gerechtshoven, de rechtbanken, de Centrale Raad van beroep en het College van beroep voor het Bedrijfsleven | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
-|   | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 10. als bedoeld in [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2018-12-08&g=2018-01-01), van de Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak
-
-| functie | per jaar (nbelaste vergoeding) | per maand (onbelaste vergoeding) |
-| --- | --- | --- |
-|   |   |   |
-| voorzitter Raad voor de Rechtspraak | € 4.702,00 | € 391,83 |
-| rechterlijk lid Raad voor de rechtspraak |   |   |
-|   |   |   |
-|   |   |   |
-| niet-rechterlijk lid van de Raad | € 4.611,00 | € 384,25 |
-|   |   |   |
-| voorzitter bestuur gerechtshof | € 2.711,00 | € 225,92 |
-| voorzitter bestuur rechtbank |   |   |
-| voorzitter bestuur Centrale Raad van Beroep |   |   |
-| voorzitter bestuur College van Beroep voor het Bedrijfsleven |   |   |
-|   |   |   |
-| voorzitter of het andere rechterlijk lid van het bestuur | € 1.807,00 | € 150,58 |
-| rechterlijk lid bestuur Centrale Raad van Beroep |   |   |
-| rechterlijk lid bestuur College van Beroep voor het Bedrijfsleven |   |   |
-|   |   |   |
-| voorzitter of het andere rechterlijk lid van het bestuur | € 1.657,00 | € 138,08 |
-|   |   |   |
-| NB |   |   |
-| de directeuren bedrijfsvoering bij de gerechtshoven, de rechtbanken, de Centrale Raad van beroep en het College van beroep voor het Bedrijfsleven | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
-|   | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur | [Besluit vergoeding representatiekosten-vergoeding rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102) is van toepassing. Maximaal € 6.400 per kalenderjaar (belaste vergoeding) Bestuur |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2024-09-27)
-
-| Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
-| --- | --- | --- | --- | --- |
-| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | **€ 5.324** | € 1.009 | € 150 | € 4.165 |
-| niet-rechterlijk lid Raad voor de rechtspraak | **€ 5.220** | € 1.009 | € 150 | € 4.061 |
-| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | **€ 3.070** | € 1.009 | € 150 | € 1.911 |
-| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | **€ 2.049** | € 1.009 | € 150 | € 890 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

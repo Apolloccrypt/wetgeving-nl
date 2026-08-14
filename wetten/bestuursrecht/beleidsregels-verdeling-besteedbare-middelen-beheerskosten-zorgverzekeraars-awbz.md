@@ -1,42 +1,17 @@
 ---
 title: "Beleidsregels verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2010"
 identifier: "BWBR0027146"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-01-26"
-last_updated: "2011-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027146"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "10409543"
-version_id: "17125022"
-internal_id: "C23630611"
-label_id: "10385024"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027146/2011-01-26/0"
-intitule_bron: "Stcrt.2010-1654"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-02-05"
-intitule_in_force: "2010-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1654"
-original_published_date: "2010-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-1654"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027146&z=2011-01-26&g=2011-01-26"
-jci_1_0: "1.0:c:BWBR0027146&g=2011-01-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2011-01-26
+status: geldig
+toestand: 2011-01-26
+bron: "https://wetten.overheid.nl/BWBR0027146"
+opgehaald: 2026-08-14
 ---
+
 # Beleidsregels verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2010
-
-gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5, eerste en tweede lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026940);
-
-heeft in zijn vergadering van 21 december 2009 besloten:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemeen
 
@@ -44,9 +19,9 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Dit besluit verstaat onder:
 
-- a. **zorgverzekeraar:** een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1);
+- a. *zorgverzekeraar:* een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1);
 
-- b. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
+- b. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
 ##### Artikel 2
 

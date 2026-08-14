@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9203919, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2009)"
+citeertitel: "Regeling windenergie op zee 2009"
 identifier: "BWBR0026690"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-24"
-last_updated: "2010-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026690"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10283423"
-version_id: "16831012"
-internal_id: "C23173911"
-label_id: "10258994"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026690/2010-07-24/0"
-intitule_bron: "Stcrt.2009-17851"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-18"
-intitule_published: "2009-11-24"
-intitule_in_force: "2009-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-17851"
-original_signed_date: "2009-11-18"
-original_published_date: "2009-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-17851"
-entry_into_force_date: "2009-11-25"
-jci_1_3: "jci1.3:c:BWBR0026690&z=2010-07-24&g=2010-07-24"
-jci_1_0: "1.0:c:BWBR0026690&g=2010-07-24"
-citeertitel_status: "officieel"
-short_title: "Regeling windenergie op zee 2009"
-signed_date: "2009-11-18"
-entry_into_force: "2009-11-25"
+publicatiedatum: 2009-11-25
+laatste_update: 2010-07-24
+status: geldig
+toestand: 2010-07-24
+bron: "https://wetten.overheid.nl/BWBR0026690"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9203919, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2009)
-
-Handelende na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën;
-
-Gelet op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=18), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20), [22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=57), [60, tweede lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [63, tweede lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=63);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -48,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Economische Zaken;
+- a. *Minister:* de Minister van Economische Zaken;
 
-- b. **besluit:** het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
+- b. *besluit:* het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
 
-- c. **Wbr-vergunning:** de vergunning op grond van [artikel 2 van de Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=2) voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.
+- c. *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=2) voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.
 
 #### § 2. Windenergie op zee
 
@@ -152,67 +124,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling windenergie op zee 2009.
-
-## Bijlage 1
-
-## Bijlage 2. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=6&z=2010-07-24&g=2010-07-24)
-
-### Uitvoeringsovereenkomst tot zekerheid van het aanvangen van de activiteiten ter zake waarvan subsidie is verstrekt op basis van de Regeling windenergie op zee 2009
-
-overwegen:
-
-Partijen komen daartoe het volgende overeen:
-
-### Artikel 1. Begripsbepaling
-
-### Artikel 2. Tijdige aanvang van de bouw
-
-De Ondernemer verplicht zich jegens de Staat de bouwperiode tijdig aan te vangen en wel vóór 1 augustus 2013.
-
-### Artikel 3. Inhoud en omvang van de garantie
-
-De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&paragraaf=2&artikel=2&z=2010-07-24&g=2010-07-24) bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot € 20.000.000,– (zegge: twintig miljoen euro) door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model opgenomen als Bijlage B
-
-### Artikel 4. Vrijval van de garantie
-
-### Artikel 5. Boetes
-
-### Artikel 6. Aanvang en einde Uitvoeringsovereenkomst
-
-### Artikel 7. Domiciliekeuze en berichtgevingen
-
-### Artikel 8. Rechtskeuze
-
-### Artikel 9. Citeertitel
-
-Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst Wind op zee Staat/...................... ’.
-
-Aldus overeengekomen en in tweevoud ondertekend
-
-te .......
-
-Ondernemer
-
-te 's-Gravenhage op ....................
-
-De Minister van Economische Zaken.
-
-## Bijlage
-
-### Model bankgarantie
-
-DE ONDERGETEKENDE,
-
-............................., gevestigd te ......., hierna te noemen de ‘Bank’,
-
-IN AANMERKING NEMENDE DAT:
-
-VERKLAART ALS VOLGT
-
-Getekend te
-
-op
-
-De Bank.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

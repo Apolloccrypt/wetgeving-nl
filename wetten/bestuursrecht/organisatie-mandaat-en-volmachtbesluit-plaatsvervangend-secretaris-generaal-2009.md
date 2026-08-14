@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW"
 identifier: "BWBR0026589"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-09-19"
-last_updated: "2024-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026589"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "10261363"
-version_id: "16794242"
-internal_id: "C23124611"
-label_id: "10236994"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026589/2024-09-19/0"
-intitule_bron: "Stcrt.2009-16658"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-28"
-intitule_published: "2009-11-05"
-intitule_in_force: "2009-11-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16658"
-original_signed_date: "2009-10-28"
-original_published_date: "2009-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-16658"
-entry_into_force_date: "2009-11-06"
-jci_1_3: "jci1.3:c:BWBR0026589&z=2024-09-19&g=2024-09-19"
-jci_1_0: "1.0:c:BWBR0026589&g=2024-09-19"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW"
-signed_date: "2009-10-28"
-entry_into_force: "2009-11-06"
+publicatiedatum: 2009-11-06
+laatste_update: 2024-09-19
+status: geldig
+toestand: 2024-09-19
+bron: "https://wetten.overheid.nl/BWBR0026589"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)
-
-Gelet op de [artikelen 6, vijfde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=6), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19);
+- a. *directie:* een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19);
 
-- b. **directeur:** een functionaris die leiding geeft aan een directie;
+- b. *directeur:* een functionaris die leiding geeft aan een directie;
 
-- c. **ICT:** informatie- en communicatietechnologie;
+- c. *ICT:* informatie- en communicatietechnologie;
 
-- d. vervallen;
+- d. *vervallen;*
 
-- e. **CIO:** Chief Information Officer;
+- e. *CIO:* Chief Information Officer;
 
-- f. **CDI:** Coördinerend Directeur Inkoop;
+- f. *CDI:* Coördinerend Directeur Inkoop;
 
-- g. **hoofd van de afdeling Bedrijfsvoering, Financiën en Control:** een functionaris die leiding geeft aan de afdeling Bedrijfsvoering, Financiën en Control.
+- g. *hoofd van de afdeling Bedrijfsvoering, Financiën en Control:* een functionaris die leiding geeft aan de afdeling Bedrijfsvoering, Financiën en Control.
 
 #### § 2. Organisatie
 
@@ -76,7 +50,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de afdeling Bedrijfsvoering, Financiën en Control.
 
-2. Vervallen.
+2. *Vervallen.*
 
 #### § 3. Verantwoordelijkheden directeuren en afdelingshoofden
 
@@ -113,6 +87,10 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583).
 
 2. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Bedrijfsvoering, Financiën en Control.
+
+##### Artikel 3a
+
+*Vervallen*
 
 ##### Artikel 4
 
@@ -156,13 +134,99 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
-#### § 4. Bevoegdheden directeuren
+##### Artikel 6a
+
+*Door vernummering vervallen.*
+
+##### Artikel 6b
+
+*Vervallen*
+
+##### Artikel 6c
+
+1. De Rijksschoonmaakorganisatie is verantwoordelijk voor:
+
+- a. het opbouwen en uitbouwen van de Rijksschoonmaakorganisatie;
+
+- b. het rijksbreed verzorgen van de schoonmaakdienstverlening;
+
+- c. het voeren van overleg over de uitbouw van de Rijksschoonmaakorganisatie met alle betrokken partijen, waaronder departementen, brancheorganisaties en vakbonden;
+
+- d. het bevorderen van de samenhang tussen de Rijksschoonmaakorganisatie en andere rijksbrede programma’s en activiteiten op het terrein van de rijksbrede bedrijfsvoering;
+
+- e. de in- en externe communicatie over de Rijksschoonmaakorganisatie.
+
+2. De directeur van de Rijksschoonmaakorganisatie is verantwoordelijk voor het inzake van de Rijksschoonmaakorganisatie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1).
+
+##### Artikel 6d
+
+De directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering, is verantwoordelijk voor de aansturing van de samenwerkingsverbanden SZW en de uitvoering van subsidieregelingen en andere regelingen op het terrein van werk en inkomen.
+
+##### Artikel 6e
+
+*Vervallen*
+
+##### Artikel 6f
+
+*Vervallen*
+
+##### Artikel 6g
+
+*Vervallen*
+
+##### Artikel 6h
+
+1. De directeur van de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is onverminderd het bepaalde in [Beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512), artikel 4 derde lid en de Algemene Verordening Gegevensbescherming, artikel 37 eerste lid, verantwoordelijk voor:
+
+- a. het adviseren over informatievoorziening, beleidstrajecten met een Informatievoorziening of ICT-component, de ICT-projecten, het portfolio-management voor het ministerie, veiligheid en privacy mede op basis van de rijksbrede kaders;
+
+- b. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
+
+- c. het bewaken van de samenhang in de informatievoorziening en ICT bij het ministerie door het opstellen en implementeren van de departementale strategie en beleidsvisie op de aandachtsgebieden van de directie;
+
+- d. het verdelen van het departementale ICT-budget binnen het ministerie in afstemming met de directie Financieel-Economische Zaken, het voeren van de control daarover en rapportage aan de plaatsvervangend Secretaris-Generaal;
+
+- e. het adviseren van het ministerie over ICT-projecten, alsmede over de start, het opschorten of bijsturen tijdens de uitvoering van die projecten;
+
+- f. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten;
+
+- g. het genereren van beleidsinformatie op de aandachtsgebieden van de directie;
+
+- h. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de directie;
+
+- i. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de directie;
+
+- j. het houden van toezicht op de naleving van de kaders en regelingen binnen het ministerie op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
+
+- k. het adviseren van de eigenaar en opdrachtgevers van de Sociale Verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen over de aandachtsgebieden van de directie;
+
+2. De directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is tevens CIO van het ministerie SZW. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal Nederlandse Arbeidsinspectie en de directeuren-generaal over informatievoorziening en ICT in brede zin.
+
+##### Artikel 6i
+
+1. De afdeling Bedrijfsvoering, Financiën en Control is ten behoeve van de secretaris-generaal en de plaatsvervangend secretaris-generaal en de onder de plaatsvervangend secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2, onderdelen a tot en met b en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19) en de onder de secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=2), verantwoordelijk voor:
+
+- a. alle interne bedrijfsvoeringprocessen, waaronder administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
+
+- b. het aanleveren van managementinformatie op het gebied van de bedrijfsvoeringsprocessen;
+
+- c. het leveren van een bijdrage aan documenten die door de dienstonderdelen van het secretariaat-generaal en plaatsvervangend secretariaat-generaal in het kader van de planning- en controlcyclus van het ministerie worden opgesteld;
+
+- d. een goede afstemming met de tweedelijns bedrijfsvoering die centraal voor het gehele ministerie gevoerd wordt;
+
+- e. het financieel beheer;
+
+- f. het beheersmatig en beleidsinhoudelijk ondersteunen van de secretaris-generaal en de plaatsvervangend secretaris-generaal bij de aansturing van de onder hem ressorterende directies.
+
+2. De aansturing van het hoofd van de afdeling Bedrijfsvoering, Financiën en Control berust bij de plaatsvervangend secretaris-generaal.
+
+#### § 4. Bevoegdheden directeuren en afdelingshoofden
 
 ##### Artikel 7
 
@@ -178,7 +242,7 @@ Vervallen
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW:
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -186,13 +250,13 @@ Vervallen
 
 - c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
 
-- d. vervallen;
+- d. *vervallen;*
 
 - e. overeenkomsten met betrekking tot raden en commissies;
 
 - f. overeenkomsten met betrekking tot onderzoek.
 
-6. In aanvulling op het vijfde lid geldt voor de directeur Organisatie, Bedrijfsvoering en Personeel dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst inclusief BTW:
+6. In aanvulling op het vijfde lid geldt voor de directeur Organisatie, Bedrijfsvoering en Personeel dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst inclusief BTW:
 
 - a. overeenkomsten met betrekking tot voorzieningen op het gebied van telefonie en het technisch beheer daarvan;
 
@@ -210,15 +274,49 @@ Vervallen
 
 - h. overeenkomsten met bestrekking tot de arbodienst en het centraal flankerend beleid ten behoeve van herplaatsers.
 
-7. Vervallen.
+7. *Vervallen.*
 
 8. In aanvulling op het tweede lid, onderdeel a, geldt dat aan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging wordt verleend ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder hem ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 9. In aanvulling op het tweede lid, onderdeel a, geldt dat aan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging wordt verleend ten aanzien van beslissingen in gerechtelijke procedures voor zover die betrekking hebben op de dienstbetrekking van de onder hem ressorterende functionarissen.
 
-10. In aanvulling op het vijfde lid geldt voor de directeur van de Rijksschoonmaakorganisatie dat deze bevoegd is om overeenkomsten met betrekking tot de schoonmaakdienstverlening aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
+10. In aanvulling op het vijfde lid geldt voor de directeur van de Rijksschoonmaakorganisatie dat deze bevoegd is om overeenkomsten met betrekking tot de schoonmaakdienstverlening aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
 
-#### § 4. Bevoegdheden directeuren
+##### Artikel 7a
+
+1. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om besluiten te nemen over en stukken vast te stellen en te ondertekenen met betrekking tot het uitvoeren van bekostigingsactiviteiten die verband houden met de toekenning en de verrekening van subsidies, voorschotten en budgetten aan uitvoerende instellingen in het kader van subsidieregelingen waarvan de uitvoering aan de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is opgedragen.
+
+2. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd tot het afsluiten van:
+
+- a. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening, na afstemming met de directeur Financieel-Economische Zaken;
+
+- b. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen;
+
+- c. overeenkomsten met betrekking tot de productie en distributie van voorlichtingsmateriaal voor zover het betreft de voorlichting over de door de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering uit te voeren subsidieprogramma’s aan doelgroepen en publiek, na afstemming met de directeur Communicatie;
+
+- d. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van geautomatiseerde informatie- en salarissystemen, systeemontwikkeling en licenties, mits er gebleven wordt binnen de door de secretaris-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie te stellen kaders;
+
+- e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal Nederlandse Arbeidsinspectie, zijn gehuisvest;
+
+- f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
+
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2024-09-19&g=2024-09-19), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst inclusief BTW.
+
+4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2024-09-19&g=2024-09-19).
+
+##### Artikel 7b
+
+*Vervallen*
+
+##### Artikel 7c
+
+Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdeling, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering.
+
+##### Artikel 7d
+
+Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal besluit de plaatsvervangend secretaris-generaal, voor de duur van de afwezigheid of verhindering, welke directeur diens taken en bevoegdheden waarneemt.
+
+#### § 5. Slotbepalingen
 
 ##### Artikel 8
 
@@ -250,194 +348,12 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2024-09-19&g=2024-09-19) van deze regeling.
 
-##### Artikel 11
-
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.
-
-2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-Door vernummering vervallen.
-
-#### § 4. Bevoegdheden directeuren
-
-##### Artikel 7a
-
-1. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om besluiten te nemen over en stukken vast te stellen en te ondertekenen met betrekking tot het uitvoeren van bekostigingsactiviteiten die verband houden met de toekenning en de verrekening van subsidies, voorschotten en budgetten aan uitvoerende instellingen in het kader van subsidieregelingen waarvan de uitvoering aan de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is opgedragen.
-
-2. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd tot het afsluiten van:
-
-- a. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening, na afstemming met de directeur Financieel-Economische Zaken;
-
-- b. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen;
-
-- c. overeenkomsten met betrekking tot de productie en distributie van voorlichtingsmateriaal voor zover het betreft de voorlichting over de door de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering uit te voeren subsidieprogramma’s aan doelgroepen en publiek, na afstemming met de directeur Communicatie;
-
-- d. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van geautomatiseerde informatie- en salarissystemen, systeemontwikkeling en licenties, mits er gebleven wordt binnen de door de secretaris-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie te stellen kaders;
-
-- e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal Nederlandse Arbeidsinspectie, zijn gehuisvest;
-
-- f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
-
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2024-09-19&g=2024-09-19), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst inclusief BTW.
-
-4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2024-09-19&g=2024-09-19).
-
-#### § 5. Slotbepalingen
-
 ##### Artikel 10a
 
 Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2024-09-19&g=2024-09-19) van deze regeling.
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 11
 
-##### Artikel 6b
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.
 
-Vervallen
-
-##### Artikel 7b
-
-Vervallen
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6c
-
-1. De Rijksschoonmaakorganisatie is verantwoordelijk voor:
-
-- a. het opbouwen en uitbouwen van de Rijksschoonmaakorganisatie;
-
-- b. het rijksbreed verzorgen van de schoonmaakdienstverlening;
-
-- c. het voeren van overleg over de uitbouw van de Rijksschoonmaakorganisatie met alle betrokken partijen, waaronder departementen, brancheorganisaties en vakbonden;
-
-- d. het bevorderen van de samenhang tussen de Rijksschoonmaakorganisatie en andere rijksbrede programma’s en activiteiten op het terrein van de rijksbrede bedrijfsvoering;
-
-- e. de in- en externe communicatie over de Rijksschoonmaakorganisatie.
-
-2. De directeur van de Rijksschoonmaakorganisatie is verantwoordelijk voor het inzake van de Rijksschoonmaakorganisatie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1).
-
-#### § 4. Bevoegdheden directeuren
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Vervallen
-
-##### Artikel 6a
-
-1. Het Agentschap SZW is verantwoordelijk voor:
-
-- a. de uitvoering van door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds;
-
-- b. de eventuele uitvoering van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen;
-
-- c. het, na instemming van de plaatsvervangend secretaris-generaal, verrichten van andere dan in dit artikel bedoelde diensten;
-
-- d. het, na instemming van de plaatsvervangend secretaris-generaal, uitvoeren van regelingen voor opdrachtgevers buiten het ministerie;
-
-- e. de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
-
-2. De directeur van het Agentschap SZW is verantwoordelijk voor de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van het Agentschap SZW, voor zover het niet gaat om centraal georganiseerde werkgeversverplichtingen als bedoeld in [artikel 6, vijfde lid, onderdeel b, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=6).
-
-3. De directeur van het Agentschap SZW is tevens verantwoordelijk voor het inzake van zijn directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1).
-
-##### Artikel 6d
-
-De directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering, is verantwoordelijk voor de aansturing van de samenwerkingsverbanden SZW en de uitvoering van subsidieregelingen en andere regelingen op het terrein van werk en inkomen.
-
-##### Artikel 6e
-
-Vervallen
-
-##### Artikel 6f
-
-Vervallen
-
-##### Artikel 6g
-
-Vervallen
-
-#### § 4. Bevoegdheden directeuren en afdelingshoofden
-
-##### Artikel 7c
-
-Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdeling, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. Bevoegdheden directeuren en afdelingshoofden
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6h
-
-1. De directeur van de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is onverminderd het bepaalde in [Beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512), artikel 4 derde lid en de Algemene Verordening Gegevensbescherming, artikel 37 eerste lid, verantwoordelijk voor:
-
-- a. het adviseren over informatievoorziening, beleidstrajecten met een Informatievoorziening of ICT-component, de ICT-projecten, het portfolio-management voor het ministerie, veiligheid en privacy mede op basis van de rijksbrede kaders;
-
-- b. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
-
-- c. het bewaken van de samenhang in de informatievoorziening en ICT bij het ministerie door het opstellen en implementeren van de departementale strategie en beleidsvisie op de aandachtsgebieden van de directie;
-
-- d. het verdelen van het departementale ICT-budget binnen het ministerie in afstemming met de directie Financieel-Economische Zaken, het voeren van de control daarover en rapportage aan de plaatsvervangend Secretaris-Generaal;
-
-- e. het adviseren van het ministerie over ICT-projecten, alsmede over de start, het opschorten of bijsturen tijdens de uitvoering van die projecten;
-
-- f. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten;
-
-- g. het genereren van beleidsinformatie op de aandachtsgebieden van de directie;
-
-- h. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de directie;
-
-- i. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de directie;
-
-- j. het houden van toezicht op de naleving van de kaders en regelingen binnen het ministerie op de aandachtsgebieden van de directie zoals ICT en informatievoorziening, privacy en informatiebeveiliging;
-
-- k. het adviseren van de eigenaar en opdrachtgevers van de Sociale Verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen over de aandachtsgebieden van de directie;
-
-2. De directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is tevens CIO van het ministerie SZW. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal Nederlandse Arbeidsinspectie en de directeuren-generaal over informatievoorziening en ICT in brede zin.
-
-##### Artikel 7d
-
-Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal besluit de plaatsvervangend secretaris-generaal, voor de duur van de afwezigheid of verhindering, welke directeur diens taken en bevoegdheden waarneemt.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6i
-
-1. De afdeling Bedrijfsvoering, Financiën en Control is ten behoeve van de secretaris-generaal en de plaatsvervangend secretaris-generaal en de onder de plaatsvervangend secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2, onderdelen a tot en met b en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19) en de onder de secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=2), verantwoordelijk voor:
-
-- a. alle interne bedrijfsvoeringprocessen, waaronder administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
-
-- b. het aanleveren van managementinformatie op het gebied van de bedrijfsvoeringsprocessen;
-
-- c. het leveren van een bijdrage aan documenten die door de dienstonderdelen van het secretariaat-generaal en plaatsvervangend secretariaat-generaal in het kader van de planning- en controlcyclus van het ministerie worden opgesteld;
-
-- d. een goede afstemming met de tweedelijns bedrijfsvoering die centraal voor het gehele ministerie gevoerd wordt;
-
-- e. het financieel beheer;
-
-- f. het beheersmatig en beleidsinhoudelijk ondersteunen van de secretaris-generaal en de plaatsvervangend secretaris-generaal bij de aansturing van de onder hem ressorterende directies.
-
-2. De aansturing van het hoofd van de afdeling Bedrijfsvoering, Financiën en Control berust bij de plaatsvervangend secretaris-generaal.
-
-#### § 4. Bevoegdheden directeuren en afdelingshoofden
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW.

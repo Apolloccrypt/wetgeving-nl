@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, d.d. 18 februari 2010, nr. 85920, houdende instelling van de Stuurgroep Nationale Veiligheid"
+citeertitel: "Instellingsbesluit Stuurgroep Nationale Veiligheid"
 identifier: "BWBR0027277"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-02-23"
-last_updated: "2010-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027277"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "10433443"
-version_id: "17159672"
-internal_id: "C23673731"
-label_id: "10408794"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027277/2010-02-23/0"
-intitule_bron: "Stcrt.2010-2523"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-02-18"
-intitule_published: "2010-02-22"
-intitule_in_force: "2010-02-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-2523"
-original_signed_date: "2010-02-18"
-original_published_date: "2010-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-2523"
-entry_into_force_date: "2010-02-23"
-jci_1_3: "jci1.3:c:BWBR0027277&z=2010-02-23&g=2010-02-23"
-jci_1_0: "1.0:c:BWBR0027277&g=2010-02-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Stuurgroep Nationale Veiligheid"
-signed_date: "2010-02-18"
-entry_into_force: "2010-02-23"
+publicatiedatum: 2010-02-23
+laatste_update: 2010-02-23
+status: geldig
+toestand: 2010-02-23
+bron: "https://wetten.overheid.nl/BWBR0027277"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, d.d. 18 februari 2010, nr. 85920, houdende instelling van de Stuurgroep Nationale Veiligheid
-
-verantwoordelijk voor de coördinatie van het regeringsbeleid op het gebied van nationale veiligheid en crisisbeheersing op nationaal niveau, handelend in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,37 +36,37 @@ De SNV heeft, met inachtneming van de departementale verantwoordelijkheden en be
 
 - a. Ambtelijke leden:
 
-- 1. de directeur-generaal Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (voorzitter);
+   - 1. de directeur-generaal Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (voorzitter);
 
-- 2. vertegenwoordiger Kabinet van de Minister-President, ministerie van Algemene Zaken;
+   - 2. vertegenwoordiger Kabinet van de Minister-President, ministerie van Algemene Zaken;
 
-- 3. vertegenwoordiger van het ministerie van Buitenlandse Zaken;
+   - 3. vertegenwoordiger van het ministerie van Buitenlandse Zaken;
 
-- 4. vertegenwoordiger van het ministerie van Defensie;
+   - 4. vertegenwoordiger van het ministerie van Defensie;
 
-- 5. vertegenwoordiger van het ministerie van Economische Zaken;
+   - 5. vertegenwoordiger van het ministerie van Economische Zaken;
 
-- 6. vertegenwoordiger van het ministerie van Financiën;
+   - 6. vertegenwoordiger van het ministerie van Financiën;
 
-- 7. vertegenwoordiger van het ministerie van Justitie;
+   - 7. vertegenwoordiger van het ministerie van Justitie;
 
-- 8. vertegenwoordiger van het ministerie van Landbouw, Natuur en Voedselkwaliteit;
+   - 8. vertegenwoordiger van het ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- 9. vertegenwoordiger van het ministerie van Onderwijs, Cultuur en Wetenschap;
+   - 9. vertegenwoordiger van het ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- 10. vertegenwoordiger van het ministerie van Sociale Zaken en Werkgelegenheid;
+   - 10. vertegenwoordiger van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- 11. vertegenwoordiger van het ministerie van Verkeer en Waterstaat;
+   - 11. vertegenwoordiger van het ministerie van Verkeer en Waterstaat;
 
-- 12. vertegenwoordiger van het ministerie van Volksgezondheid, Welzijn en Sport;
+   - 12. vertegenwoordiger van het ministerie van Volksgezondheid, Welzijn en Sport;
 
-- 13. vertegenwoordiger van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+   - 13. vertegenwoordiger van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- 14. vertegenwoordiger van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+   - 14. vertegenwoordiger van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- 15. vertegenwoordiger van de Algemene Inlichtingen en Veiligheidsdienst;
+   - 15. vertegenwoordiger van de Algemene Inlichtingen en Veiligheidsdienst;
 
-- 16. vertegenwoordiger van de Nationaal Coördinator Terrorismebestrijding.
+   - 16. vertegenwoordiger van de Nationaal Coördinator Terrorismebestrijding.
 
 - b. Externe leden:
 

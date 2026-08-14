@@ -1,59 +1,30 @@
 ---
 title: "Wet van 4 maart 2010 tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)"
+citeertitel: "Wijzigingswet Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)"
 identifier: "BWBR0027415"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027415"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10468613"
-version_id: "17224112"
-internal_id: "C25441741"
-label_id: "10443754"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027415/2015-01-01/0"
-intitule_bron: "Stb.2010-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-04"
-intitule_published: "2010-03-25"
-intitule_in_force: "2010-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-130"
-original_signed_date: "2010-03-04"
-original_published_date: "2010-03-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "32016"
-original_url_id: "stb-2010-130"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0027415&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0027415&g=2015-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)"
-signed_date: "2010-03-04"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0027415"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 4 maart 2010 tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189) om te vormen tot een krachtiger kwaliteitsinstrument door beroepservaring te eisen voor de inschrijving in het architectenregister en de bij- en nascholing uit te breiden tot stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten en voorts om het zelfstandig bestuursorgaan op privaatrechtelijke grondslag, de Stichting bureau architectenregister, in die wet te vervangen door een zelfstandig bestuursorgaan op publiekrechtelijke grondslag, waarop de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing is;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de architectentitel.
+*Wijzigt de Wet op de architectentitel.*
 
 ##### Artikel II
 
 In de [artikelen III tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=III&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
 
-- **bureau:** bureau architectenregister als bedoeld in [artikel 2a, eerste lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2a);
+- *bureau:* bureau architectenregister als bedoeld in [artikel 2a, eerste lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2a);
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+- *Onze Minister:* Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ##### Artikel III
 
@@ -92,5 +63,3 @@ Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt b
 ##### Artikel VIII
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, de onderdelen daarvan of de daarin opgenomen bepalingen verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

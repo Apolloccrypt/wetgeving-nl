@@ -1,42 +1,23 @@
 ---
 title: "Circulaire Arbeidsvoorwaarden personenchauffeurs"
 identifier: "BWBR0026215"
-country: "nl"
-rank: "circulaire"
-publication_date: "2009-08-04"
-last_updated: "2009-08-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026215"
+categorie: "Arbeidsrecht"
 soort: "circulaire"
-stam_id: "10148613"
-version_id: "16600802"
-internal_id: "C22855681"
-label_id: "10124804"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026215/2009-08-04/0"
-intitule_bron: "Stcrt.2009-11622"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-08-04"
-intitule_in_force: "2009-08-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-11622"
-original_published_date: "2009-08-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-11622"
-entry_into_force_date: "2009-08-04"
-jci_1_3: "jci1.3:c:BWBR0026215&z=2009-08-04&g=2009-08-04"
-jci_1_0: "1.0:c:BWBR0026215&g=2009-08-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-08-04"
+publicatiedatum: 2009-08-04
+laatste_update: 2009-08-04
+status: geldig
+toestand: 2009-08-04
+bron: "https://wetten.overheid.nl/BWBR0026215"
+opgehaald: 2026-08-14
 ---
+
 # Circulaire Arbeidsvoorwaarden personenchauffeurs
 
 ### Inleiding
 
 In deze circulaire wordt een toelichting gegeven op de nieuwe normen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) voor personenchauffeurs en op de afspraken die met de centrales van overheidspersoneel voor personenchauffeurs zijn gemaakt over de toepassing van die nieuwe normen en over verruiming van de gemiddelde werkweek, het afschaffen van geconsigneerde pauzes en de compensatie voor het verlies van de consignatievergoeding.
 
-### Normen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+### Normen in het Arbeidstijdenbesluit
 
 Op 3 juli 2009 is het Besluit houdende wijziging van het Arbeidstijdenbesluit in verband met personenchauffeurs (Staatsblad 2009, nr. 279) in werking getreden en daarmee een nieuwe paragraaf aan het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) toegevoegd, met uitzonderingsbepalingen specifiek voor bepaalde personenchauffeurs. De definitie van deze personenchauffeurs in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) luidt: ‘de persoon die als chauffeur uitsluitend of nagenoeg uitsluitend is belast met het vervoer van doorgaans dezelfde persoon per auto.’
 
@@ -45,6 +26,19 @@ Het gewijzigde [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR00
 Het toepassen van de uitzonderingsbepalingen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) is niet verplicht, maar uitsluitend mogelijk bij collectieve regeling, zoals een rechtspositieregeling. In de Sectorcommissie overleg rijkspersoneel is overeenstemming bereikt om de toepassing van de uitzonderingsbepalingen mogelijk te maken. U kunt deze bepalingen uiteraard slechts toepassen op de personenchauffeurs, zoals bedoeld in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687). Voor chauffeurs die niet uitsluitend of nagenoeg uitsluitend dezelfde personen vervoeren, zoals de poolchauffeurs, geldt deze uitzonderingsmogelijkheid niet. Voor hen zijn de bepalingen uit de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en [-besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) onverkort van toepassing.
 
 In de toelichting op het gewijzigde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687) treft u nadere informatie aan over de wijzigingen in het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687). In de volgende tabel worden de verschillen tussen de algemene bepalingen uit de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de nieuwe uitzonderingsbepalingen voor de personenchauffeurs verkort weergegeven:
+
+| Algemene bepalingen | Uitzonderingen personenchauffeurs |
+| --- | --- |
+| – | In elke periode van 14 aaneengesloten dagen wordt ten hoogste 7 maal arbeid verricht |
+| Per periode van 24 uren geldt een minimale rusttijd van 11 uren. | Per periode van 24 uren geldt een minimale rusttijd van 8 uren. |
+| Per aaneengesloten periode van 7 maal 24 uren mag de rusttijd 1 maal worden ingekort tot ten minste 8 uren. | Per aaneengesloten periode van 7 maal 24 uren mag de rusttijd 3 maal worden ingekort tot ten minste 6 uren. |
+| Per dienst wordt ten hoogste 12 uren arbeid verricht | Er is geen maximum gesteld aan het aantal uren arbeid per dienst. |
+| Per week wordt gedurende ten hoogste 60 uren arbeid verricht. | Er is geen maximum gesteld aan het aantal uren arbeid per week. |
+| Diverse beperkingen voor het werken in nachtdiensten. NB: Een nachtdienst is een dienst waarin meer dan een uur arbeid wordt verricht tussen 00.00 uur en 06.00 uur. | Geen beperkingen, behalve: In elke periode van 16 aaneengesloten weken wordt ten hoogste 36 maal arbeid verricht in een nachtdienst die eindigt na 02.00 uur. De ATW biedt ruimte via collectieve regeling af te wijken. |
+| Diverse bepalingen rondom consignatiedienst. | De uitzonderingen hebben betrekking op consignatiedienst tijdens nachtdienst. NB: Zie ook verderop in deze circulaire |
+| – | De dagelijkse rijtijd bedraagt niet meer dan 9 uren per dag. Deze rijtijd mag 2 maal in elke periode van 7 dagen worden verlengd tot 10 uren per dag. |
+| – | De rijtijd wordt onderbroken als door vermoeidheid van de chauffeur de verkeersveiligheid in het gedrang komt. |
+| – | Per periode van 7 dagen geldt een maximale rijtijd van 56 uren. |
 
 ### Gemiddelde werkweek
 

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 2 december 2009, nr. WJZ/9165300, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan"
+citeertitel: "Regeling intrekking subsidieregelingen (EZ 2009)"
 identifier: "BWBR0026869"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-06-16"
-last_updated: "2011-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026869"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10324993"
-version_id: "18613892"
-internal_id: "C25971621"
-label_id: "10300424"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026869/2011-06-16/0"
-intitule_bron: "Stcrt.2009-19654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-02"
-intitule_published: "2009-12-18"
-intitule_in_force: "2009-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10258"
-original_signed_date: "2011-06-06"
-original_published_date: "2011-06-15"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-10258"
-entry_into_force_date: "2011-06-06"
-jci_1_3: "jci1.3:c:BWBR0026869&z=2011-06-16&g=2011-06-16"
-jci_1_0: "1.0:c:BWBR0026869&g=2011-06-16"
-citeertitel_status: "redactioneel"
-short_title: "Regeling intrekking subsidieregelingen (EZ 2009)"
-signed_date: "2011-06-06"
-entry_into_force: "2011-06-06"
+publicatiedatum: 2011-06-06
+laatste_update: 2011-06-16
+status: geldig
+toestand: 2011-06-16
+bron: "https://wetten.overheid.nl/BWBR0026869"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Economische Zaken van 2 december 2009, nr. WJZ/9165300, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan
-
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 #### § 1. Intrekking regelingen op het terrein van ondernemen en innovatie
 
@@ -144,13 +118,13 @@ De volgende regelingen worden ingetrokken:
 
 2. De onderdelen a en b van het eerste lid gelden niet voor de regelingen bedoeld in:
 
-- –. [artikel I, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
+- – [artikel I, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
+- – [artikel II, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=2&artikel=II&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel III, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=3&artikel=III&z=2011-06-16&g=2011-06-16);
+- – [artikel III, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=3&artikel=III&z=2011-06-16&g=2011-06-16);
 
-- –. [artikel IV, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=4&artikel=IV&z=2011-06-16&g=2011-06-16).
+- – [artikel IV, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=4&artikel=IV&z=2011-06-16&g=2011-06-16).
 
 3. Onverminderd het eerste en tweede lid, blijven bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), in stand.
 
@@ -170,9 +144,3 @@ De volgende regelingen worden ingetrokken:
 ##### Artikel VI
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

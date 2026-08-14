@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de staatssecretaris van Financiën van 1 juli 2009, nr. RR/2009/286 M, tot mandaatverlening aan de algemeen directeur van SenterNovem voor de uitvoering van de Tijdelijke regeling stimulering betere dienstverlening aan bedrijven (hierna: de Regeling)"
+citeertitel: "Besluit mandaat en machtiging AgentschapNL Tijdelijke regeling stimulering betere dienstverlening aan bedrijven"
 identifier: "BWBR0026278"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-04"
-last_updated: "2010-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026278"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10159503"
-version_id: "16622372"
-internal_id: "C22886911"
-label_id: "10135654"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026278/2010-03-04/0"
-intitule_bron: "Stcrt.2009-12630"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-01"
-intitule_published: "2009-08-25"
-intitule_in_force: "2009-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-12630"
-original_signed_date: "2009-07-01"
-original_published_date: "2009-08-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-12630"
-entry_into_force_date: "2009-08-27"
-jci_1_3: "jci1.3:c:BWBR0026278&z=2010-03-04&g=2010-03-04"
-jci_1_0: "1.0:c:BWBR0026278&g=2010-03-04"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging AgentschapNL Tijdelijke regeling stimulering betere dienstverlening aan bedrijven"
-signed_date: "2009-07-01"
-entry_into_force: "2009-08-27"
+publicatiedatum: 2009-08-27
+laatste_update: 2010-03-04
+status: geldig
+toestand: 2010-03-04
+bron: "https://wetten.overheid.nl/BWBR0026278"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de staatssecretaris van Financiën van 1 juli 2009, nr. RR/2009/286 M, tot mandaatverlening aan de algemeen directeur van SenterNovem voor de uitvoering van de Tijdelijke regeling stimulering betere dienstverlening aan bedrijven (hierna: de Regeling)
-
-In overeenstemming met de Staatssecretaris van Economische Zaken;
-
-Gelet op [artikel 10:3, eerste lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gezien de schriftelijke instemming van de algemeen directeur van SenterNovem van 29-06-2009 (kenmerk ZJZ0913902);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -91,5 +61,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging AgentschapNL Tijdelijke regeling stimulering betere dienstverlening aan bedrijven.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

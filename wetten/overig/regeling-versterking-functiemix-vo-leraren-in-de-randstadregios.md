@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)"
+citeertitel: "Regeling versterking functiemix vo-leraren in de Randstadregio’s"
 identifier: "BWBR0027113"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027113"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10392553"
-version_id: "17098882"
-internal_id: "C23594761"
-label_id: "10368034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027113/2026-01-01/0"
-intitule_bron: "Stcrt.2010-1014"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-08"
-intitule_published: "2010-01-25"
-intitule_in_force: "2010-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1014"
-original_signed_date: "2010-01-08"
-original_published_date: "2010-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-1014"
-entry_into_force_date: "2010-01-26"
-jci_1_3: "jci1.3:c:BWBR0027113&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0027113&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling versterking functiemix vo-leraren in de Randstadregio’s"
-signed_date: "2010-01-08"
-entry_into_force: "2010-01-26"
+publicatiedatum: 2010-01-26
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0027113"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)
-
-Gelet op [artikel 85a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a);
-
-Besluit:
 
 ### 1. Algemene bepalingen
 
@@ -46,25 +20,26 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bezoldigingsschaal:** de salarisschaal volgens welke de betrokken leraar wordt bezoldigd;
+- *bezoldigingsschaal:* de salarisschaal volgens welke de betrokken leraar wordt bezoldigd;
 
-- **Convenant Leerkracht van Nederland:** tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, als vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);
+- *Convenant Leerkracht van Nederland:* tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, als vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);
 
-- **functiemix:** verdeling van leraren in voltijdequivalenten over de bezoldigingsschalen;
+- *functiemix:* verdeling van leraren in voltijdequivalenten over de bezoldigingsschalen;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **personeelsgegevens:** personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
+- *personeelsgegevens:* personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
 
-- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2025 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2026-01-01&g=2026-01-01);
+- *Randstadregio’s:* verzameling van gemeenten op peildatum 1 oktober 2025 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2026-01-01&g=2026-01-01);
 
-- **school:** een school of scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), die wordt bekostigd op grond van de wet;
+- *school:* een school of scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), die wordt bekostigd op grond van de wet;
 
-- **teldatum:** 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt;
+- *teldatum:* 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt;
 
-- **vestiging:** hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school als bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) en [4.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 6.12, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12);
+- *vestiging:* hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school als bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) en [4.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 6.12, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12);
 
-- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ### 2. Hoofdlijnen
 
@@ -86,7 +61,7 @@ De aanvullende bekostiging wordt verstrekt aan bevoegde gezagsorganen met één 
 
 ##### Artikel 4. Berekening aanvullende bekostiging
 
-1. Voor de aanvullende bekostiging is in 2026 een bedrag van € 85.428.000 beschikbaar.
+1. Voor de aanvullende bekostiging is in 2026 een bedrag van € 85.428.000 beschikbaar.
 
 2. De verstrekking van de aanvullende bekostiging vindt plaats per kalenderjaar.
 
@@ -130,236 +105,16 @@ Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeke
 
 ### 4. Slotbepalingen
 
-##### Artikel 8. Inwerkingtreding
-
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
-
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
-
-##### Artikel 9. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren in de Randstadregio’s.
-
-## Bijlage 1. Gemeenten in Randstadregio’s
-
-| Aalsmeer |
-| --- |
-| Alblasserdam |
-| Albrandswaard |
-| Almere |
-| Alphen aan den Rijn |
-| Amersfoort |
-| Amstelveen |
-| Amsterdam |
-| Baarn |
-| Barendrecht |
-| Beemster |
-| Beverwijk |
-| Blaricum |
-| Bloemendaal |
-| Bodegraven-Reeuwijk |
-| Brielle |
-| Bunnik |
-| Bunschoten |
-| Capelle aan den IJssel |
-| De Bilt |
-| De Ronde Venen |
-| Delft |
-| Diemen |
-| Dordrecht |
-| Edam-Volendam |
-| Eemnes |
-| Goeree-Overflakkee |
-| Gooise Meren |
-| Gorinchem |
-| Gouda |
-| 's-Gravenhage |
-| Haarlem |
-| Haarlemmermeer |
-| Hardinxveld-Giessendam |
-| Heemskerk |
-| Heemstede |
-| Hellevoetsluis |
-| Hendrik-Ido-Ambacht |
-| Hillegom |
-| Hilversum |
-| Hoeksche Waard |
-| Houten |
-| Huizen |
-| IJsselstein |
-| Kaag en Braassem |
-| Katwijk |
-| Krimpen aan den IJssel |
-| Krimpenerwaard |
-| Landsmeer |
-| Lansingerland |
-| Laren |
-| Leiden |
-| Leiderdorp |
-| Leidschendam-Voorburg |
-| Leusden |
-| Lisse |
-| Lopik |
-| Maassluis |
-| Midden-Delfland |
-| Molenlanden |
-| Montfoort |
-| Nieuwegein |
-| Nieuwkoop |
-| Nissewaard |
-| Noordwijk |
-| Oegstgeest |
-| Oostzaan |
-| Ouder-Amstel |
-| Oudewater |
-| Papendrecht |
-| Pijnacker-Nootdorp |
-| Purmerend |
-| Ridderkerk |
-| Rijswijk |
-| Rotterdam |
-| Schiedam |
-| Sliedrecht |
-| Soest |
-| Stichtse Vecht |
-| Teylingen |
-| Uitgeest |
-| Uithoorn |
-| Utrecht |
-| Utrechtse Heuvelrug |
-| Velsen |
-| Vijfheerenlanden |
-| Vlaardingen |
-| Voorschoten |
-| Waddinxveen |
-| Wassenaar |
-| Waterland |
-| Weesp |
-| Westland |
-| Westvoorne |
-| Wijdemeren |
-| Wijk bij Duurstede |
-| Woerden |
-| Wormerland |
-| Woudenberg |
-| Zaanstad |
-| Zandvoort |
-| Zeist |
-| Zoetermeer |
-| Zoeterwoude |
-| Zuidplas |
-| Zwijndrecht |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a. Omhangbepaling
 
 Deze regeling berust op [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
-## Bijlage 1. Gemeenten in Randstadregio’s
+##### Artikel 8. Inwerkingtreding
 
-| Aalsmeer |
-| --- |
-| Alblasserdam |
-| Albrandswaard |
-| Almere |
-| Alphen aan den Rijn |
-| Amersfoort |
-| Amstelveen |
-| Amsterdam |
-| Baarn |
-| Barendrecht |
-| Beverwijk |
-| Blaricum |
-| Bloemendaal |
-| Bodegraven-Reeuwijk |
-| Bunnik |
-| Bunschoten |
-| Capelle aan den IJssel |
-| De Bilt |
-| De Ronde Venen |
-| Delft |
-| Diemen |
-| Dordrecht |
-| Edam-Volendam |
-| Eemnes |
-| Goeree-Overflakkee |
-| Gooise Meren |
-| Gorinchem |
-| Gouda |
-| 's-Gravenhage |
-| Haarlem |
-| Haarlemmermeer |
-| Hardinxveld-Giessendam |
-| Heemskerk |
-| Heemstede |
-| Hendrik-Ido-Ambacht |
-| Hillegom |
-| Hilversum |
-| Hoeksche Waard |
-| Houten |
-| Huizen |
-| IJsselstein |
-| Kaag en Braassem |
-| Katwijk |
-| Krimpen aan den IJssel |
-| Krimpenerwaard |
-| Landsmeer |
-| Lansingerland |
-| Laren |
-| Leiden |
-| Leiderdorp |
-| Leidschendam-Voorburg |
-| Leusden |
-| Lisse |
-| Lopik |
-| Maassluis |
-| Midden-Delfland |
-| Molenlanden |
-| Montfoort |
-| Nieuwegein |
-| Nieuwkoop |
-| Nissewaard |
-| Noordwijk |
-| Oegstgeest |
-| Oostzaan |
-| Ouder-Amstel |
-| Oudewater |
-| Papendrecht |
-| Pijnacker-Nootdorp |
-| Purmerend |
-| Ridderkerk |
-| Rijswijk |
-| Rotterdam |
-| Schiedam |
-| Sliedrecht |
-| Soest |
-| Stichtse Vecht |
-| Teylingen |
-| Uitgeest |
-| Uithoorn |
-| Utrecht |
-| Utrechtse Heuvelrug |
-| Velsen |
-| Vijfheerenlanden |
-| Vlaardingen |
-| Voorne aan Zee |
-| Voorschoten |
-| Waddinxveen |
-| Wassenaar |
-| Waterland |
-| Westland |
-| Wijdemeren |
-| Wijk bij Duurstede |
-| Woerden |
-| Wormerland |
-| Woudenberg |
-| Zaanstad |
-| Zandvoort |
-| Zeist |
-| Zoetermeer |
-| Zoeterwoude |
-| Zuidplas |
-| Zwijndrecht |
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
+
+##### Artikel 9. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren in de Randstadregio’s.

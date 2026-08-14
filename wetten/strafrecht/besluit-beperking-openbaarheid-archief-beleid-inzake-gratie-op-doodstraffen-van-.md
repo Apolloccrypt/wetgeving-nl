@@ -1,39 +1,35 @@
 ---
 title: "Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71 (als bedoeld in artikel 10 van het Archiefbesluit 1995)"
+citeertitel: "Besluit beperking openbaarheid archief beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71"
 identifier: "BWBR0026093"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-09-01"
-last_updated: "2009-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026093"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10124533"
-version_id: "16549552"
-internal_id: "C22780241"
-label_id: "10100794"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026093/2009-09-01/0"
-intitule_bron: "Stcrt.2009-10394"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-12-10"
-intitule_published: "2009-07-13"
-intitule_in_force: "2009-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-10394"
-original_signed_date: "2008-12-10"
-original_published_date: "2009-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-10394"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0026093&z=2009-09-01&g=2009-09-01"
-jci_1_0: "1.0:c:BWBR0026093&g=2009-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71"
-signed_date: "2008-12-10"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2009-09-01
+status: geldig
+toestand: 2009-09-01
+bron: "https://wetten.overheid.nl/BWBR0026093"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende beleid inzake gratie op doodstraffen van het Ministerie van Justitie, 1945–1977, toegang nr. 2.09.71 (als bedoeld in artikel 10 van het Archiefbesluit 1995)
 
 Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende personen, worden op grond van [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) aan de openbaarheid van de naar het Nationaal Archief over te brengen dossiers betreffende het beleid inzake gratie op doodstraffen van het Ministerie van Justitie (1945–1977), de volgende beperkingen gesteld:
+
+- 1. Dossiers die jonger zijn dan 75 jaar zijn beperkt openbaar; uitgangspunt daarbij is het jaar waarin het betreffende dossier is afgesloten. De beperking van de openbaarheid is niet van toepassing op de dossiers die in de toegang zijn opgenomen onder de inventarisnummers: 1–19, 179–181 en de nrs. 183–185.
+
+- 2. Raadpleging van de archiefbescheiden is, gelet op [art. 15, derde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), slechts mogelijk na schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. Deze toestemming kan worden verleend, indien wordt voldaan aan de volgende voorwaarden: Voordat hij toestemming verleent, beoordeelt de directeur van het Nationaal Archief het verzoek.
+
+   - – De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden, waarin wordt aangegeven: de omschrijving van het onderzoeksdoel, de onderzoeksopzet en de wijze waarop de vertrouwelijkheid van de persoonsgegevens zal worden gewaarborgd.
+
+   - – De verzoeker vult hiertoe het *Formulier voor toestemming tot raadpleging van niet-openbare archieven van het Ministerie van Justitie* in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de in het formulier opgenomen bepalingen. Een exemplaar van het formulier is als bijlage 2 bij de Verklaring van Overbrenging gevoegd.
+
+- 3. De directeur van het Nationaal Archief bereidt de beschikbaarstelling van het dossier voor. In de belangenafweging betrekt hij de belangen van alle personen waarvan persoonsgegevens in het dossier zijn opgenomen.
+
+- 4. Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. Deze kan uitsluitend toestemming verlenen voor: De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.
+
+   - – Reproducties van in dossiers aangetroffen openbare stukken, zoals krantenknipsels.
+
+   - – Reproducties van in persoonsdossiers aangetroffen foto’s, persoonlijke brieven, dagboeken, andere soortgelijke documenten, indien deze aantoonbare persoonlijke emotionele waarde hebben voor de verzoeker, indien deze documenten geen belastende aanwijzingen bevatten en het bezit daarvan de belangen van nog levende personen niet onevenredig kan schaden.
+
+- 5. De directeur van het Nationaal Archief geeft voor publicatie uit deze bescheiden voor stukken houdende bijzondere persoonsgegevens in de zin van [artikel 16 Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), geen toestemming zonder voorafgaand overleg met de Minister van Justitie.

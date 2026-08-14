@@ -1,48 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 januari 2010, nr. BJZ2010001197 tot vaststelling van regels met betrekking tot de unieke identificatie van explosieven voor civiel gebruik"
+citeertitel: "Regeling identificatie en traceerbaarheid van explosieven voor civiel gebruik"
 identifier: "BWBR0027285"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027285"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10434943"
-version_id: "17161692"
-internal_id: "C26961441"
-label_id: "10410424"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027285/2016-01-01/0"
-intitule_bron: "Stcrt.2010-2576"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-28"
-intitule_published: "2010-02-23"
-intitule_in_force: "2010-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-2576"
-original_signed_date: "2010-01-28"
-original_published_date: "2010-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-2576"
-entry_into_force_date: "2013-04-05"
-jci_1_3: "jci1.3:c:BWBR0027285&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0027285&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling identificatie en traceerbaarheid van explosieven voor civiel gebruik"
-signed_date: "2010-01-28"
-entry_into_force: "2013-04-05"
+publicatiedatum: 2013-04-05
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0027285"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 januari 2010, nr. BJZ2010001197 tot vaststelling van regels met betrekking tot de unieke identificatie van explosieven voor civiel gebruik
-
-Handelend in overeenstemming met de Minister van Economische Zaken;
-
-Gelet op [artikel 3, vierde en vijfde lid, van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=3);
-
-Besluit:
-
-Inwerkingtreding voorheen door Stcrt. 2010/2576 gesteld op 5 april 2012.
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -50,15 +20,16 @@ Inwerkingtreding voorheen door Stcrt. 2010/2576 gesteld op 5 april 2012.
 
 In deze regeling wordt verstaan onder:
 
-- **ILT:** Inspectie Leefomgeving en Transport;
+- *ILT:* Inspectie Leefomgeving en Transport;
 
-- **lonten:** niet-exploderende ontstekingsvoorzieningen in de vorm van een snoer;
+- *lonten:* niet-exploderende ontstekingsvoorzieningen in de vorm van een snoer;
 
-- **slaghoedjes:** metalen of kunststof doppen met een kleine hoeveelheid van een primair explosief mengsel dat gemakkelijk ontbrandt door wrijving en die dienen als ontstekingselement in kleine wapenpatronen of in ontstekingsmechanismen voor voortdrijvende ladingen;
+- *slaghoedjes:* metalen of kunststof doppen met een kleine hoeveelheid van een primair explosief mengsel dat gemakkelijk ontbrandt door wrijving en die dienen als ontstekingselement in kleine wapenpatronen of in ontstekingsmechanismen voor voortdrijvende ladingen;
 
-- **veiligheidslonten:** lonten bestaande uit een kern van fijngemalen zwart kruit, omhuld door een flexibel weefsel met een of meer beschermende buitenlagen en die bij ontsteking branden in een vooraf bepaald tempo zonder extern explosie-effect;
+- *veiligheidslonten:* lonten bestaande uit een kern van fijngemalen zwart kruit, omhuld door een flexibel weefsel met een of meer beschermende buitenlagen en die bij ontsteking branden in een vooraf bepaald tempo zonder extern explosie-effect;
 
-- **wet:** [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803).
+- *wet:*
+ [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803).
 
 ##### Artikel 1a
 
@@ -110,9 +81,9 @@ De unieke identificatie van primers en boosters wordt in de vorm van een zelfkle
 
 De unieke identificatie van slagsnoeren wordt:
 
-- a). in de vorm van een zelfklevend etiket op de haspel aangebracht of rechtstreeks daarop gedrukt; en
+- a) in de vorm van een zelfklevend etiket op de haspel aangebracht of rechtstreeks daarop gedrukt; en
 
-- b). om de vijf meter aangebracht op het buitenste omhulsel van het snoer of op het geëxtrudeerde plastic omhulsel net onder de buitenlaag van het snoer.
+- b) om de vijf meter aangebracht op het buitenste omhulsel van het snoer of op het geëxtrudeerde plastic omhulsel net onder de buitenlaag van het snoer.
 
 ##### Artikel 12
 
@@ -139,5 +110,3 @@ Deze regeling treedt in werking met ingang van 5 april 2013.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling identificatie en traceerbaarheid van explosieven voor civiel gebruik.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

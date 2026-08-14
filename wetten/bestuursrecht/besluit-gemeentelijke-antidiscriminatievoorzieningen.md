@@ -1,70 +1,39 @@
 ---
 title: "Besluit van 25 augustus 2009, houdende regels betreffende de inrichting van en de onafhankelijke bijstandsverlening door antidiscriminatievoorzieningen alsmede de verslaglegging over de door de antidiscriminatievoorziening geregistreerde klachten door gemeenten (Besluit gemeentelijke antidiscriminatievoorzieningen)"
+citeertitel: "Besluit gemeentelijke antidiscriminatievoorzieningen"
 identifier: "BWBR0026353"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026353"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "10171333"
-version_id: "16644022"
-internal_id: "C22914651"
-label_id: "10147364"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026353/2020-01-01/0"
-intitule_bron: "Stb.2009-373"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-08-25"
-intitule_published: "2009-09-15"
-intitule_in_force: "2009-09-15"
-intitule_status: "goed"
-original_publication: "Stb.2009-373"
-original_signed_date: "2009-08-25"
-original_published_date: "2009-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-373"
-entry_into_force_date: "2009-09-16"
-jci_1_3: "jci1.3:c:BWBR0026353&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0026353&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gemeentelijke antidiscriminatievoorzieningen"
-signed_date: "2009-08-25"
-entry_into_force: "2009-09-16"
+publicatiedatum: 2009-09-16
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0026353"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 25 augustus 2009, houdende regels betreffende de inrichting van en de onafhankelijke bijstandsverlening door antidiscriminatievoorzieningen alsmede de verslaglegging over de door de antidiscriminatievoorziening geregistreerde klachten door gemeenten (Besluit gemeentelijke antidiscriminatievoorzieningen)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 juni 2009 (nr. 2009-0000340189), gedaan mede namens Onze Minister voor Wonen, Wijken en Integratie;
-
-Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=2), en [3, tweede lid, van de Wet gemeentelijke antidiscriminatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=3);
-
-De Raad van State gehoord (advies van 22 juli 2009, nr. W04.09.0236/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 augustus 2009, nr. 2009-0000425051, uitgebracht mede namens Onze Minister voor Wonen, Wijken en Integratie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **antidiscriminatievoorziening:** antidiscriminatievoorziening als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1);
+- a. *antidiscriminatievoorziening:* antidiscriminatievoorziening als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=1);
 
-- b. **beklaagde:** degene tegen wie de klacht is gericht;
+- b. *beklaagde:* degene tegen wie de klacht is gericht;
 
-- c. **klacht:** klacht als bedoeld in [artikel 2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=2);
+- c. *klacht:* klacht als bedoeld in [artikel 2, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026168&artikel=2);
 
-- d. **klachtbehandelaar:** persoon, werkzaam onder de verantwoordelijkheid van een antidiscriminatievoorziening, die onafhankelijke bijstand verleent bij de afwikkeling van klachten;
+- d. *klachtbehandelaar:* persoon, werkzaam onder de verantwoordelijkheid van een antidiscriminatievoorziening, die onafhankelijke bijstand verleent bij de afwikkeling van klachten;
 
-- e. **klager:** persoon die een klacht wil indienen of heeft ingediend;
+- e. *klager:* persoon die een klacht wil indienen of heeft ingediend;
 
-- f. **wet:** [Wet gemeentelijke antidiscriminatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0026168).
+- f. *wet:*
+ [Wet gemeentelijke antidiscriminatievoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0026168).
 
 ##### Artikel 2
 
-1. Een klachtbehandelaar is niet tevens lid van het college van burgemeester en wethouders van een gemeente, voor zover hij werkzaam is onder de verantwoordelijkheid van de antidiscriminatievoorziening van die gemeente.
+1. Een klachtbehandelaar is niet tevens lid van het college van burgemeester en wethouders van een gemeente, voor zover hij werkzaam is onder de verantwoordelijkheid van de antidiscriminatievoorziening van die gemeente.
 
 2. Een klachtbehandelaar heeft niet als zodanig een arbeidsovereenkomst met de gemeente, waarover het college van burgemeester en wethouders besluit.
 
@@ -181,5 +150,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke antidiscriminatievoorzieningen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

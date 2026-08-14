@@ -1,164 +1,108 @@
 ---
 title: "Wet van 9 november 2009 tot intrekking van enige wetten betreffende het waterbeheer, aanpassing van een aantal andere wetten, regeling van het overgangsrecht en aanvulling van de Waterwet, met het oog op de invoering van die wet (Invoeringswet Waterwet)"
+citeertitel: "Invoeringswet Waterwet"
 identifier: "BWBR0026710"
-country: "nl"
-rank: "wet"
-publication_date: "2014-07-01"
-last_updated: "2014-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026710"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "10287013"
-version_id: "16842122"
-internal_id: "C23187961"
-label_id: "10263174"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026710/2014-07-01/0"
-intitule_bron: "Stb.2009-489"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-09"
-intitule_published: "2009-11-24"
-intitule_in_force: "2009-11-24"
-intitule_status: "goed"
-original_publication: "Stb.2009-489"
-original_signed_date: "2009-11-09"
-original_published_date: "2009-11-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "31858"
-original_url_id: "stb-2009-489"
-entry_into_force_date: "2009-11-25"
-entry_into_force_dossier: "31858"
-jci_1_3: "jci1.3:c:BWBR0026710&z=2014-07-01&g=2014-07-01"
-jci_1_0: "1.0:c:BWBR0026710&g=2014-07-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Waterwet"
-signed_date: "2009-11-09"
-entry_into_force: "2009-11-25"
+publicatiedatum: 2009-11-25
+laatste_update: 2014-07-01
+status: geldig
+toestand: 2014-07-01
+bron: "https://wetten.overheid.nl/BWBR0026710"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 9 november 2009 tot intrekking van enige wetten betreffende het waterbeheer, aanpassing van een aantal andere wetten, regeling van het overgangsrecht en aanvulling van de Waterwet, met het oog op de invoering van die wet (Invoeringswet Waterwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) noodzakelijk is een aantal wetten, waaronder de Waterwet, aan te passen en enige andere wetten in te trekken, alsmede het overgangsrecht te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Wijziging van enige wetten
 
 ##### Artikel 1.1
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
 ##### Artikel 1.2
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 1.3
 
-Wijzigt de Kaderwet subsidies Verkeer en Waterstaat.
+*Wijzigt de Kaderwet subsidies Verkeer en Waterstaat.*
 
 ##### Artikel 1.4
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel 1.4a
 
-Wijzigt de Ontgrondingenwet.
+*Wijzigt de Ontgrondingenwet.*
 
 ##### Artikel 1.5
 
-Wijzigt de Planwet verkeer en vervoer.
+*Wijzigt de Planwet verkeer en vervoer.*
 
 ##### Artikel 1.6
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 1.7
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel 1.8
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel 1.9
 
-Wijzigt de Waterstaatswet 1900.
+*Wijzigt de Waterstaatswet 1900.*
 
 ##### Artikel 1.10
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
 ##### Artikel 1.11
 
-Wijzigt de Wet beheer rijkswaterstaatswerken.
+*Wijzigt de Wet beheer rijkswaterstaatswerken.*
 
 ##### Artikel 1.12
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel 1.13
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel 1.14
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 1.15
 
-Wijzigt de Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart.
+*Wijzigt de Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart.*
 
 ##### Artikel 1.16
 
-Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+*Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.*
 
 ##### Artikel 1.17
 
-Wijzigt de Wet inzake de luchtverontreiniging.
+*Wijzigt de Wet inzake de luchtverontreiniging.*
 
 ##### Artikel 1.18
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 1.19
 
-Wijzigt de Wet rampen en zware ongevallen.
+*Wijzigt de Wet rampen en zware ongevallen.*
 
 ##### Artikel 1.20
 
-Wijzigt de Wet voorkoming verontreiniging door schepen.
+*Wijzigt de Wet voorkoming verontreiniging door schepen.*
 
 ### Hoofdstuk 2. Intrekking van wetten en overgangsrecht
 
-### Hoofdstuk 3. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3.1
-
-1. De tekst van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) wordt in het Staatsblad geplaatst.
-
-2. Voor de plaatsing in het Staatsblad stelt Onze Minister van Verkeer en Waterstaat de nummering van de hoofdstukken, paragrafen en artikelen van de Waterwet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de hoofdstukken, paragrafen en artikelen met de nieuwe nummering in overeenstemming.
-
-##### Artikel 3.2
-
-Wijzigt de Waterwet.
-
-##### Artikel 3.3
-
-1. De [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=1&artikel=1.3&z=2014-07-01&g=2014-07-01) en [1.8, onderdelen B, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=1&artikel=1.8&z=2014-07-01&g=2014-07-01), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst.
-
-2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 3.4
-
-Deze wet wordt aangehaald als: Invoeringswet Waterwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling 2.1. Intrekking van enige wetten
+#### Afdeling 2.1. Intrekking van enige wetten
 
 ##### Artikel 2.1
 
@@ -178,15 +122,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - f. de [Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801).
 
-### Afdeling 2.2. Overgangsbepalingen
+#### Afdeling 2.2. Overgangsbepalingen
 
-#### § 2.2.1. Overgangsbepalingen [Waterwet hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=1)
+#### § 2.2.1. Overgangsbepalingen Waterwet hoofdstuk 1
 
 ##### Artikel 2.2
 
 Het horen van gedeputeerde staten van de betrokken provincies en de beheerders alsmede de bevoegde autoriteiten van de andere staten in het stroomgebieddistrict, bedoeld in [artikel 1.2, derde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.2), blijft achterwege voor zover de in de maatregel vast te stellen grenzen gelijk zijn aan de grenzen die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van kracht zijn ingevolge [artikel 2a van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=2a).
 
-#### § 2.2.2. Overgangsbepalingen [Waterwet hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=2)
+#### § 2.2.2. Overgangsbepalingen Waterwet hoofdstuk 2
 
 ##### Artikel 2.3
 
@@ -210,7 +154,7 @@ De door Onze Minister van Verkeer en Waterstaat ingevolge [artikel 10, derde lid
 
 De eerste toezending van een verslag als bedoeld in [artikel 2.13 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.13) vindt plaats voor 16 januari 2018.
 
-#### § 2.2.3. Overgangsbepalingen [Waterwet hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3)
+#### § 2.2.3. Overgangsbepalingen Waterwet hoofdstuk 3
 
 ##### Artikel 2.8
 
@@ -232,7 +176,7 @@ De ingevolge [artikel 15, tweede lid, van de Wet op de waterkering](https://wett
 
 Besluiten als bedoeld in [artikel 6, tweede lid, van de Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801&artikel=6) die onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 3.9 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.9) van kracht zijn, worden gelijkgesteld met besluiten als bedoeld in artikel 3.9, tweede lid, van de Waterwet.
 
-#### § 2.2.4. Overgangsbepalingen [Waterwet hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=4)
+#### § 2.2.4. Overgangsbepalingen Waterwet hoofdstuk 4
 
 ##### Artikel 2.12
 
@@ -244,7 +188,7 @@ Besluiten als bedoeld in [artikel 6, tweede lid, van de Wet op de waterkering](h
 
 De eerste herziening van de plannen, bedoeld in [artikel 4.8 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.8), wordt voltooid voor 22 december 2015.
 
-#### § 2.2.5. Overgangsbepalingen [Waterwet hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=5)
+#### § 2.2.5. Overgangsbepalingen Waterwet hoofdstuk 5
 
 ##### Artikel 2.14
 
@@ -316,25 +260,25 @@ Maatregelen die onmiddellijk voor het tijdstip van inwerkingtreding van artikel 
 
 Een opdracht krachtens [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=74), of [75 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=75) die onmiddellijk voor de inwerkingtreding van artikel 5.31 van de Waterwet van kracht is, wordt gelijkgesteld met een aanwijzing krachtens artikel 5.31, eerste onderscheidenlijk derde lid, van de Waterwet.
 
-#### § 2.2.6. Overgangsbepalingen [Waterwet hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6)
+#### § 2.2.6. Overgangsbepalingen Waterwet hoofdstuk 6
 
-##### Artikel 2.22. ([Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406))
+##### Artikel 2.22. (Grondwaterwet)
 
 1. Een vergunning met betrekking tot een handeling als bedoeld in [artikel 6.4 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van de Waterwet van kracht is overeenkomstig [artikel 14 van de Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406&artikel=14), wordt gelijkgesteld met een door gedeputeerde staten verleende watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling.
 
 2. Een vergunning met betrekking tot het onttrekken van grondwater of het infiltreren van water in andere gevallen dan bedoeld in [artikel 6.4 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van de Waterwet van kracht is overeenkomstig [artikel 14 van de Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406&artikel=14), wordt gelijkgesteld met een door het bestuur van het betrokken waterschap verleende watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling, voor zover bij verordening van een waterschap dan wel bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 6.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) een vergunning of ontheffing voor die handeling wordt vereist.
 
-##### Artikel 2.23. ([Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331))
+##### Artikel 2.23. (Wet beheer rijkswaterstaatswerken)
 
 1. Een vergunning met betrekking tot een handeling als bedoeld in [artikel 6.5, onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van kracht is overeenkomstig [artikel 2 van de Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=2), wordt gelijkgesteld met een door Onze Minister van Verkeer en Waterstaat verleende watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling, voor zover deze krachtens artikel 6.5, onderdeel c, van die wet wordt vereist.
 
 2. Een verbod of beperking met betrekking tot een van de in [artikel 1 van de Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=1) bedoelde wateren, waterkeringen of daarin gelegen kunstwerken dat overeenkomstig [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=6) onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) van kracht is, wordt gelijkgesteld met een verbod of beperking als bedoeld in laatstgenoemd artikel.
 
-##### Artikel 2.24. ([Wet droogmakerijen en indijkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0001871))
+##### Artikel 2.24. (Wet droogmakerijen en indijkingen)
 
 Een concessie voor een handeling als bedoeld in [artikel 6.5, onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van kracht is overeenkomstig [artikel 1 van de Wet van 14 juli 1904 (Stb. 147), houdende bepalingen omtrent het ondernemen van droogmakerijen en indijkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0001871&artikel=1), wordt gelijkgesteld met een door Onze Minister van Verkeer en Waterstaat verleende watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling voor zover deze krachtens artikel 6.5, onderdeel c, van die wet wordt vereist.
 
-##### Artikel 2.25. ([Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682))
+##### Artikel 2.25. (Wet verontreiniging oppervlaktewateren)
 
 1. Een vergunning van Onze Minister van Verkeer en Waterstaat dan wel het bestuur van een waterschap met betrekking tot een handeling als bedoeld in [artikel 6.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van de Waterwet van kracht is krachtens [artikel 1, eerste, tweede of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1), wordt gelijkgesteld met een door Onze Minister van Verkeer en Waterstaat onderscheidenlijk het bestuur van het waterschap verleende watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling, tenzij ingevolge [artikel 6.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7) een vrijstelling van toepassing is.
 
@@ -374,11 +318,11 @@ Tot het tijdstip van inwerkingtreding van [artikel 5.20 van de Wet algemene bepa
 
 het dagelijks bestuur van het in [artikel 3.4, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.4) bedoelde waterschap of de beheerder van het oppervlaktewaterlichaam waarop het afvalwater vanuit die voorziening wordt gebracht, voor zover dat nodig is om die gevolgen te beperken of weg te nemen, het voor die inrichting bevoegde bestuursorgaan een verzoek doen om een beschikking te geven tot oplegging van bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing. Het bevoegde bestuursorgaan geeft daaraan gevolg, voor zover dat niet in strijd is met het belang van de bescherming van het milieu.
 
-##### Artikel 2.26. ([Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975))
+##### Artikel 2.26. (Wet verontreiniging zeewater)
 
 Een ontheffing met betrekking tot een handeling als bedoeld in [artikel 6.3 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3), die onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van de Waterwet van kracht is overeenkomstig [artikel 3 van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3), wordt gelijkgesteld met een door Onze Minister van Verkeer en Waterstaat verleende watervergunning als bedoeld in de Waterwet voor de desbetreffende handeling, tenzij ingevolge [artikel 6.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7) een vrijstelling van toepassing is.
 
-##### Artikel 2.27. ([Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575))
+##### Artikel 2.27. (Wet op de waterhuishouding)
 
 Een vergunning met betrekking tot een handeling als bedoeld in [artikel 6.5, onderdeel a, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), die onmiddellijk voor het tijdstip van inwerkingtreding van [hoofdstuk 6 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6) van kracht is overeenkomstig [artikel 24 van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=24), wordt gelijkgesteld met een watervergunning als bedoeld in de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) voor de desbetreffende handeling, voor zover deze krachtens artikel 6.5, onderdeel a, van die wet dan wel een verordening van een waterschap wordt vereist.
 
@@ -406,7 +350,7 @@ Een vergunning of ontheffing voor een handeling in een watersysteem of een besch
 
 2. Een vergunning, ontheffing of concessie die overeenkomstig het eerste lid wordt verleend wordt, zodra deze onherroepelijk is geworden, gelijkgesteld met een door het betrokken bestuursorgaan verleende watervergunning voor de desbetreffende handeling, voor zover na de inwerkingtreding van [paragraaf 6.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&paragraaf=2) nog steeds een vergunning of ontheffing voor die handeling wordt vereist.
 
-##### Artikel 2.30. ([Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994))
+##### Artikel 2.30. (Wet bodembescherming)
 
 1. [Artikel 6.8 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.8) is mede van toepassing op een ieder die vóór het tijdstip van inwerkingtreding van dat artikel handelingen heeft verricht als bedoeld in de [artikelen 6 tot en met 11 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=6), zoals die luidden onmiddellijk vóór het tijdstip van inwerkingtreding van eerstgenoemd artikel 6.8, en die wist of redelijkerwijs had kunnen vermoeden dat door die handelingen de bodem of oever van een oppervlaktewaterlichaam kon worden verontreinigd of aangetast.
 
@@ -414,13 +358,13 @@ Een vergunning of ontheffing voor een handeling in een watersysteem of een besch
 
 3. Een beschikking tot het toepassen van bestuursdwang of een last onder dwangsom, gegeven door Onze Minister van Verkeer en Waterstaat of gedeputeerde staten vóór het tijdstip, bedoeld in het tweede lid, ter zake van een overtreding van het in [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13) bepaalde met betrekking tot de bodem of oever van een oppervlaktewaterlichaam, wordt gelijkgesteld met een beschikking tot het toepassen van bestuursdwang of een last onder dwangsom, gegeven door de beheerder, bedoeld in [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1).
 
-##### Artikel 2.31. ([Scheepsafvalstoffenbesluit Rijn- en binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012019))
+##### Artikel 2.31. (Scheepsafvalstoffenbesluit Rijn- en binnenvaart)
 
 1. Na de inwerkingtreding van de [artikelen 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6), [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7) en [10.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=10.1) berust het [Scheepsafvalstoffenbesluit Rijn- en binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012019) op die artikelen, voor zover dat besluit voordien berustte op de [artikelen 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1), en [2f van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=2f).
 
 2. Na de inwerkingtreding van [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=1&artikel=1.15&z=2014-07-01&g=2014-07-01) berust het [Scheepsafvalstoffenbesluit Rijn- en binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012019) op [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39), [39e](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39e), [39g](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39g) en [39i van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39i), voor zover dat besluit voordien berustte op [artikel 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28c), [28e](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28e), [28i](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28i) onderscheidenlijk [28k van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28k).
 
-#### § 2.2.7. Overgangsbepalingen [Waterwet hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7)
+#### § 2.2.7. Overgangsbepalingen Waterwet hoofdstuk 7
 
 ##### Artikel 2.32. (verontreinigingsheffing)
 
@@ -448,13 +392,13 @@ Artikel 7.21 van de Waterwet is niet van toepassing indien schade als bedoeld in
 
 Met betrekking tot subsidies die krachtens [artikel 12 van de Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801&artikel=12) zijn verleend blijft het bepaalde bij en krachtens genoemd artikel, zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van artikel 7.23 van de Waterwet, van toepassing.
 
-#### § 2.2.8. Overgangsbepalingen [Waterwet hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=8)
+#### § 2.2.8. Overgangsbepalingen Waterwet hoofdstuk 8
 
 ##### Artikel 2.38. (handhavingsbeschikkingen)
 
 Het bestuursorgaan dat vóór het tijdstip van inwerkingtreding van [hoofdstuk 8 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=8) een beschikking tot toepassing van bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing heeft gegeven ter zake van een overtreding van een voorschrift dat door deze wet wordt ingetrokken, maar ingevolge [§ 2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.6&z=2014-07-01&g=2014-07-01) van kracht blijft na die intrekking, blijft bevoegd met betrekking tot die beschikking.
 
-#### § 2.2.9. Overgangsbepalingen [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
+#### § 2.2.9. Overgangsbepalingen Waterschapswet
 
 ##### Artikel 2.39. (goedkeuring van of beroep tegen besluiten en beslissingen)
 
@@ -464,4 +408,22 @@ Het bestuursorgaan dat vóór het tijdstip van inwerkingtreding van [hoofdstuk 8
 
 ### Hoofdstuk 3. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 3.1
+
+1. De tekst van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) wordt in het Staatsblad geplaatst.
+
+2. Voor de plaatsing in het Staatsblad stelt Onze Minister van Verkeer en Waterstaat de nummering van de hoofdstukken, paragrafen en artikelen van de Waterwet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de hoofdstukken, paragrafen en artikelen met de nieuwe nummering in overeenstemming.
+
+##### Artikel 3.2
+
+*Wijzigt de Waterwet.*
+
+##### Artikel 3.3
+
+1. De [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=1&artikel=1.3&z=2014-07-01&g=2014-07-01) en [1.8, onderdelen B, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&hoofdstuk=1&artikel=1.8&z=2014-07-01&g=2014-07-01), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst.
+
+2. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 3.4
+
+Deze wet wordt aangehaald als: Invoeringswet Waterwet.

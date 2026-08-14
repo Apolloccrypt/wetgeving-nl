@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 november 2009, houdende regels ter uitvoering van de Dienstenwet met betrekking tot het centraal loket (Dienstenbesluit centraal loket)"
+citeertitel: "Dienstenbesluit centraal loket"
 identifier: "BWBR0026761"
-country: "nl"
-rank: "amvb"
-publication_date: "2009-12-07"
-last_updated: "2009-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026761"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10299463"
-version_id: "16876312"
-internal_id: "C23243121"
-label_id: "10274974"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026761/2009-12-07/0"
-intitule_bron: "Stb.2009-504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-26"
-intitule_published: "2009-12-04"
-intitule_in_force: "2009-12-04"
-intitule_status: "goed"
-original_publication: "Stb.2009-504"
-original_signed_date: "2009-11-26"
-original_published_date: "2009-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-504"
-entry_into_force_date: "2009-12-07"
-jci_1_3: "jci1.3:c:BWBR0026761&z=2009-12-07&g=2009-12-07"
-jci_1_0: "1.0:c:BWBR0026761&g=2009-12-07"
-citeertitel_status: "officieel"
-short_title: "Dienstenbesluit centraal loket"
-signed_date: "2009-11-26"
-entry_into_force: "2009-12-07"
+publicatiedatum: 2009-12-07
+laatste_update: 2009-12-07
+status: geldig
+toestand: 2009-12-07
+bron: "https://wetten.overheid.nl/BWBR0026761"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 26 november 2009, houdende regels ter uitvoering van de Dienstenwet met betrekking tot het centraal loket (Dienstenbesluit centraal loket)
-
-Op de voordracht van Onze Minister van Economische Zaken van 15 mei 2009, nr. WJZ / 9082391;
-
-Gelet op de artikelen 6, 8 en 21 van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), en [artikel 5, derde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5);
-
-De Raad van State gehoord (advies van 3 juni 2009, nr. W10.09.0158/III);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 23 november 2009, nr. WJZ / 9207240;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
@@ -52,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **bijstandsbericht:** een informatieverzoek als bedoeld in [artikel 23 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=23) of een bericht dat tot afhandeling daarvan dient;
+- *bijstandsbericht:* een informatieverzoek als bedoeld in [artikel 23 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=23) of een bericht dat tot afhandeling daarvan dient;
 
-- **procedurebericht:** een bericht dat op procedures en formaliteiten betrekking heeft.
+- *procedurebericht:* een bericht dat op procedures en formaliteiten betrekking heeft.
 
 #### § 2. Het centraal loket ten behoeve van de transactiefunctie
 
@@ -155,5 +123,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Dienstenbesluit centraal loket.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

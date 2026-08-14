@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 juni 2009, nr. OHW-U-2936758, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor oorlogsgetroffenen per 1 juli 2009"
+citeertitel: "Regeling aanpassing factoren, grondslagen en bedragen wetten voor oorlogsgetroffenen per 1 juli 2009"
 identifier: "BWBR0026100"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026100"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10126683"
-version_id: "16554182"
-internal_id: "C22789011"
-label_id: "10103044"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026100/2009-07-01/0"
-intitule_bron: "Stcrt.2009-10481"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-29"
-intitule_published: "2009-07-14"
-intitule_in_force: "2009-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-10481"
-original_signed_date: "2009-06-29"
-original_published_date: "2009-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-10481"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0026100&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBR0026100&g=2009-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanpassing factoren, grondslagen en bedragen wetten voor oorlogsgetroffenen per 1 juli 2009"
-signed_date: "2009-06-29"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBR0026100"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 juni 2009, nr. OHW-U-2936758, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor oorlogsgetroffenen per 1 juli 2009
-
-Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31a), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28a), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=18) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=25);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -50,10 +22,10 @@ De pensioenbedragen, bedoeld in [artikel 31b van de Wet buitengewoon pensioen 19
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden per 1 juli 2009 vastgesteld als volgt:
 
-| A | A | B |
+| A | B |  |
 | --- | --- | --- |
-| pensioengrondslagen 1947 per jaar in euro | pensioengrondslagen 1947 per jaar in euro | welvaartstoeslag vanaf 1 juli 2009 |
-| van | tot en met |   |
+| pensioengrondslagen 1947 per jaar in euro | welvaartstoeslag vanaf 1 juli 2009 |  |
+| van | tot en met |  |
 | 1.225,21 | 1.356,79 | 23.108,00 minus pensioengrondslag |
 
 | van | tot en met | pensioengrondslag maal factor | plus extra bedrag in euro |
@@ -114,7 +86,7 @@ De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van
 
 ##### Artikel 4
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 5
 
@@ -122,7 +94,7 @@ De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet u
 
 ##### Artikel 6
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.*
 
 ##### Artikel 7
 
@@ -130,10 +102,8 @@ De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negend
 
 ##### Artikel 8
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.*
 
 ##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 juli 2009.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

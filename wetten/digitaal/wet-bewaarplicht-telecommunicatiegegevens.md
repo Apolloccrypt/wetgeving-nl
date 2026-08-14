@@ -1,55 +1,26 @@
 ---
 title: "Wet van 18 juli 2009 tot wijziging van de Telecommunicatiewet en de Wet op de economische delicten in verband met de implementatie van Richtlijn 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie betreffende de bewaring van gegevens die zijn verwerkt in verband met het aanbieden van openbare elektronische communicatiediensten en tot wijziging van Richtlijn 2002/58/EG (Wet bewaarplicht telecommunicatiegegevens)"
+citeertitel: "Wet bewaarplicht telecommunicatiegegevens"
 identifier: "BWBR0026191"
-country: "nl"
-rank: "wet"
-publication_date: "2009-09-01"
-last_updated: "2009-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026191"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "10145003"
-version_id: "16593702"
-internal_id: "C22894021"
-label_id: "10121124"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026191/2009-09-01/0"
-intitule_bron: "Stb.2009-333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-07-30"
-intitule_in_force: "2009-08-28"
-intitule_status: "goed"
-original_publication: "Stb.2009-333"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-07-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "31145"
-original_url_id: "stb-2009-333"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0026191&z=2009-09-01&g=2009-09-01"
-jci_1_0: "1.0:c:BWBR0026191&g=2009-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet bewaarplicht telecommunicatiegegevens"
-signed_date: "2009-07-18"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2009-09-01
+status: geldig
+toestand: 2009-09-01
+bron: "https://wetten.overheid.nl/BWBR0026191"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 18 juli 2009 tot wijziging van de Telecommunicatiewet en de Wet op de economische delicten in verband met de implementatie van Richtlijn 2006/24/EG van het Europees Parlement en de Raad van de Europese Unie betreffende de bewaring van gegevens die zijn verwerkt in verband met het aanbieden van openbare elektronische communicatiediensten en tot wijziging van Richtlijn 2002/58/EG (Wet bewaarplicht telecommunicatiegegevens)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) en de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) te wijzigen in verband met implementatie van [Richtlijn nr 2006/24/EG](32006L0024) van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2006 betreffende de bewaring van gegevens die zijn verwerkt in verband met het aanbieden van openbare elektronische communicatiediensten en tot wijziging van [Richtlijn 2002/58/EG](32002L0058) (PbEG L 105);
-
-Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Telecommunicatiewet.
+*Wijzigt de Telecommunicatiewet.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
@@ -72,5 +43,3 @@ Bij koninklijk besluit kan worden bepaald dat deze wet gedurende een in dat besl
 ##### Artikel VI
 
 Deze wet wordt aangehaald als: Wet bewaarplicht telecommunicatiegegevens.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

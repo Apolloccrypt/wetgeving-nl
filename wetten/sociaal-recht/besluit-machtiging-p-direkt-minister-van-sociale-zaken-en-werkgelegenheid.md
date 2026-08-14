@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt"
+citeertitel: "Besluit machtiging P-Direkt (Minister van Sociale Zaken en Werkgelegenheid)"
 identifier: "BWBR0026622"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-11-12"
-last_updated: "2009-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026622"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "10271503"
-version_id: "16811422"
-internal_id: "C23142841"
-label_id: "10246944"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026622/2009-11-12/0"
-intitule_bron: "Stcrt.2009-16845"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-02"
-intitule_published: "2009-11-10"
-intitule_in_force: "2009-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16845"
-original_signed_date: "2009-11-02"
-original_published_date: "2009-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-16845"
-entry_into_force_date: "2009-11-12"
-jci_1_3: "jci1.3:c:BWBR0026622&z=2009-11-12&g=2009-11-12"
-jci_1_0: "1.0:c:BWBR0026622&g=2009-11-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging P-Direkt (Minister van Sociale Zaken en Werkgelegenheid)"
-signed_date: "2009-11-02"
-entry_into_force: "2009-11-12"
+publicatiedatum: 2009-11-12
+laatste_update: 2009-11-12
+status: geldig
+toestand: 2009-11-12
+bron: "https://wetten.overheid.nl/BWBR0026622"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt
-
-Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
-
-Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Sociale Zaken en Werkgelegenheid
+- a. *minister:* de Minister van Sociale Zaken en Werkgelegenheid
 
-- b. **ministerie:** ministerie van Sociale Zaken en Werkgelegenheid
+- b. *ministerie:* ministerie van Sociale Zaken en Werkgelegenheid
 
-- c. **P-Direkt:** de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;
+- c. *P-Direkt:* de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;
 
-- d. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 

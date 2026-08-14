@@ -1,45 +1,24 @@
 ---
 title: "Regeling van de Minister van Justitie, in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie tot instelling van een Beleidsteam voor de advisering en ondersteuning van de Minister van Justitie bij de inzet van de DSI (Instellingsregeling Beleidsteam DSI 2009)"
+citeertitel: "Instellingsregeling Beleidsteam DSI 2009"
 identifier: "BWBR0026994"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026994"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "10360133"
-version_id: "17016292"
-internal_id: "C23469531"
-label_id: "10335294"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026994/2013-01-01/0"
-intitule_bron: "Stcrt.2009-20302"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-12-30"
-intitule_in_force: "2009-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20302"
-original_published_date: "2009-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20302"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026994&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0026994&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Beleidsteam DSI 2009"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0026994"
+opgehaald: 2026-08-14
 ---
-# Regeling van de Minister van Justitie, in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie tot instelling van een Beleidsteam voor de advisering en ondersteuning van de Minister van Justitie bij de inzet van de DSI (Instellingsregeling Beleidsteam DSI 2009)
 
-Besluit:
+# Regeling van de Minister van Justitie, in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie tot instelling van een Beleidsteam voor de advisering en ondersteuning van de Minister van Justitie bij de inzet van de DSI (Instellingsregeling Beleidsteam DSI 2009)
 
 ##### Artikel 1
 
-- 1. **DSI:** Dienst Speciale Interventies, bijstandseenheid als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
+- 1. *DSI:* Dienst Speciale Interventies, bijstandseenheid als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
 
-- 2. **UIM:** Unit Interventie Mariniers, eenheid van de DSI, in beheer bij het ministerie van Defensie.
+- 2. *UIM:* Unit Interventie Mariniers, eenheid van de DSI, in beheer bij het ministerie van Defensie.
 
 ##### Artikel 2
 

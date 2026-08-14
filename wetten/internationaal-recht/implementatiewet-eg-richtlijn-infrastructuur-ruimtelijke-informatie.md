@@ -1,47 +1,18 @@
 ---
 title: "Wet van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie)"
+citeertitel: "Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie"
 identifier: "BWBR0026158"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026158"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "10137503"
-version_id: "16574332"
-internal_id: "C22882031"
-label_id: "10113754"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026158/2025-02-12/0"
-intitule_bron: "Stb.2009-310"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-02"
-intitule_published: "2009-07-27"
-intitule_in_force: "2009-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2009-310"
-original_signed_date: "2009-07-02"
-original_published_date: "2009-07-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "31771"
-original_url_id: "stb-2009-310"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0026158&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0026158&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie"
-signed_date: "2009-07-02"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0026158"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is ter implementatie van [richtlijn nr. 2007/2/EG](32007L0002) van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU L 108), regels te stellen om de toegankelijkheid van ruimtelijke informatie, in het bijzonder met het oog op de bescherming van het milieu, te vergroten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -49,23 +20,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **derde partij:** natuurlijke persoon of rechtspersoon die geen bestuursorgaan is;
+- *derde partij:* natuurlijke persoon of rechtspersoon die geen bestuursorgaan is;
 
-- **diensten met betrekking tot ruimtelijke gegevens:** de verwerking van de ruimtelijke gegevens die zich in verzamelingen ruimtelijke gegevens bevinden of de verwerking van de aanverwante metagegevens door middel van een computertoepassing;
+- *diensten met betrekking tot ruimtelijke gegevens:* de verwerking van de ruimtelijke gegevens die zich in verzamelingen ruimtelijke gegevens bevinden of de verwerking van de aanverwante metagegevens door middel van een computertoepassing;
 
-- **EG-richtlijn infrastructuur ruimtelijke informatie:** [richtlijn nr. 2007/2/EG](32007L0002) van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU L 108);
+- *EG-richtlijn infrastructuur ruimtelijke informatie:*
+ richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU L 108);
 
-- **interoperabiliteit:** de mogelijkheid dat, zonder terugkerende handmatige verrichtingen, verzamelingen ruimtelijke gegevens zodanig worden gecombineerd en dat diensten zodanig op elkaar inwerken dat het resultaat coherent is en de meerwaarde van de verzamelingen gegevens en de diensten wordt verhoogd;
+- *interoperabiliteit:* de mogelijkheid dat, zonder terugkerende handmatige verrichtingen, verzamelingen ruimtelijke gegevens zodanig worden gecombineerd en dat diensten zodanig op elkaar inwerken dat het resultaat coherent is en de meerwaarde van de verzamelingen gegevens en de diensten wordt verhoogd;
 
-- **metagegevens:** informatie waarin verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens worden beschreven en die het mogelijk maakt deze gegevens en diensten te zoeken, te inventariseren en te gebruiken;
+- *metagegevens:* informatie waarin verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens worden beschreven en die het mogelijk maakt deze gegevens en diensten te zoeken, te inventariseren en te gebruiken;
 
-- **netwerk:** het netwerk van diensten met betrekking tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens, bedoeld in artikel 11, eerste lid, van de EG-richtlijn infrastructuur ruimtelijke informatie;
+- *netwerk:* het netwerk van diensten met betrekking tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens, bedoeld in artikel 11, eerste lid, van de EG-richtlijn infrastructuur ruimtelijke informatie;
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- *Onze Minister:* Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- **ruimtelijke gegevens:** gegevens die direct of indirect verwijzen naar een specifieke locatie of een specifiek geografisch gebied;
+- *ruimtelijke gegevens:* gegevens die direct of indirect verwijzen naar een specifieke locatie of een specifiek geografisch gebied;
 
-- **verzameling ruimtelijke gegevens:** een identificeerbare verzameling ruimtelijke gegevens.
+- *verzameling ruimtelijke gegevens:* een identificeerbare verzameling ruimtelijke gegevens.
 
 2. In deze wet en de daarop berustende bepalingen wordt onder bestuursorgaan mede verstaan een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf.
 
@@ -79,9 +51,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c.
 
-- 1°. wordt bewaard door of namens een bestuursorgaan in de zin dat de desbetreffende verzameling ruimtelijke gegevens is geproduceerd of ontvangen dan wel wordt beheerd of bijgewerkt door dat bestuursorgaan en binnen zijn publieke taak valt, dan wel,
+   - 1°. wordt bewaard door of namens een bestuursorgaan in de zin dat de desbetreffende verzameling ruimtelijke gegevens is geproduceerd of ontvangen dan wel wordt beheerd of bijgewerkt door dat bestuursorgaan en binnen zijn publieke taak valt, dan wel,
 
-- 2°. wordt bewaard door of namens een derde partij waaraan het netwerk, ter beschikking is gesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), en
+   - 2°. wordt bewaard door of namens een derde partij waaraan het netwerk, ter beschikking is gesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), en
 
 - d. betrekking heeft op een of meer van bij algemene maatregel van bestuur aangewezen thematische categorieën.
 
@@ -133,7 +105,7 @@ In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https
 
 - a. op verzoek van de desbetreffende derde partij;
 
-- b. indien de desbetreffende derde partij naar het oordeel van Onze Minister niet voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12).
+- b. indien de desbetreffende derde partij naar het oordeel van Onze Minister niet voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=5&z=2025-02-12&g=2025-02-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=2&artikel=6&z=2025-02-12&g=2025-02-12).
 
 5. Bij ministeriële regeling kunnen regels worden gesteld omtrent de wijze van inrichting en indiening van een verzoek als bedoeld in het eerste en vierde lid, onderdeel a, de daarbij te verstrekken gegevens en over te leggen bescheiden.
 
@@ -171,11 +143,11 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 3. Omtrent de voorwaarden voor toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens door instellingen en organen van de Europese Gemeenschap kunnen aanvullende regels worden gesteld.
 
-4. Het uitwisselen van de verzamelingen ruimtelijke gegevens en diensten, als bedoeld in het tweede lid, met het oog op het gebruik van die verzamelingen en diensten voor publieke taken die van invloed kunnen zijn op het milieu, kan uitsluitend worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
+4. Het uitwisselen van de verzamelingen ruimtelijke gegevens en diensten, als bedoeld in het tweede lid, met het oog op het gebruik van die verzamelingen en diensten voor publieke taken die van invloed kunnen zijn op het milieu, kan uitsluitend worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
 
 ##### Artikel 11
 
-In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) kan de publieke toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en diensten, die de elektronische handel in die diensten mogelijk maken, worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), met dien verstande dat op de diensten bedoeld in het [eerste lid, onderdeel a, van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
+In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) kan de publieke toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en diensten, die de elektronische handel in die diensten mogelijk maken, worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), met dien verstande dat op de diensten bedoeld in het [eerste lid, onderdeel a, van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
 
 ##### Artikel 12
 
@@ -220,5 +192,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

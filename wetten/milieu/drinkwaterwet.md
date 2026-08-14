@@ -1,47 +1,18 @@
 ---
 title: "Wet van 18 juli 2009, houdende nieuwe bepalingen met betrekking tot de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening (Drinkwaterwet)"
+citeertitel: "Drinkwaterwet"
 identifier: "BWBR0026338"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026338"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "10167973"
-version_id: "16637332"
-internal_id: "C26023111"
-label_id: "10144784"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026338/2024-01-01/0"
-intitule_bron: "Stb.2009-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-09-03"
-intitule_in_force: "2011-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2009-370"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-09-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "30895"
-original_url_id: "stb-2009-370"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0026338&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0026338&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Drinkwaterwet"
-signed_date: "2009-07-18"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0026338"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 18 juli 2009, houdende nieuwe bepalingen met betrekking tot de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening (Drinkwaterwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het belang van een duurzame veiligstelling van de openbare drinkwatervoorziening en in het belang van de volksgezondheid wenselijk is de bepalingen van de Waterleidingwet inzake de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening aan te vullen, te verbeteren en te moderniseren en deze in een nieuwe wet onder te brengen, met inachtneming van [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Unie van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330), en enige andere wetten in verband daarmee te wijzigen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Algemeen
 
@@ -49,89 +20,90 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bereiding:** iedere behandeling van grondwater, oppervlaktewater, zeewater of een andere grondstof met het oog op de productie van drinkwater, tot aan het punt waar het drinkwater voor consumptie beschikbaar komt;
+- *bereiding:* iedere behandeling van grondwater, oppervlaktewater, zeewater of een andere grondstof met het oog op de productie van drinkwater, tot aan het punt waar het drinkwater voor consumptie beschikbaar komt;
 
-- **collectief leidingnet:** samenstel van leidingen, fittingen en toestellen dat tijdelijk, doch niet ten behoeve van bevoorrading, dan wel permanent, is aangesloten op het distributienet van een drinkwaterbedrijf of collectieve watervoorziening, en door middel waarvan drinkwater of warm tapwater ter beschikking wordt gesteld aan consumenten of andere afnemers;
+- *collectief leidingnet:* samenstel van leidingen, fittingen en toestellen dat tijdelijk, doch niet ten behoeve van bevoorrading, dan wel permanent, is aangesloten op het distributienet van een drinkwaterbedrijf of collectieve watervoorziening, en door middel waarvan drinkwater of warm tapwater ter beschikking wordt gesteld aan consumenten of andere afnemers;
 
-- **collectieve watervoorziening:**
+- *collectieve watervoorziening:*
 
-- a. landgebonden voorziening, niet zijnde een drinkwaterbedrijf, voor de productie of distributie van water dat met behulp van een leiding of distributienet aan consumenten of andere afnemers als drinkwater of warm tapwater ter beschikking wordt gesteld;
+   - a. landgebonden voorziening, niet zijnde een drinkwaterbedrijf, voor de productie of distributie van water dat met behulp van een leiding of distributienet aan consumenten of andere afnemers als drinkwater of warm tapwater ter beschikking wordt gesteld;
 
-- b. voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), welk water als drinkwater of warm tapwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld;
+   - b. voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), welk water als drinkwater of warm tapwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld;
 
-- **distributie:** transport en levering;
+- *distributie:* transport en levering;
 
-- **distributiegebied:** gebied waarbinnen de eigenaar van een drinkwaterbedrijf bevoegd en verplicht is tot levering van drinkwater aan consumenten of andere afnemers;
+- *distributiegebied:* gebied waarbinnen de eigenaar van een drinkwaterbedrijf bevoegd en verplicht is tot levering van drinkwater aan consumenten of andere afnemers;
 
-- **distributienet:** samenstel van leidingen en daarmee verbonden koppelingen, kleppen en andere technische voorzieningen voor het transport en de levering van drinkwater, niet zijnde een collectief leidingnet;
+- *distributienet:* samenstel van leidingen en daarmee verbonden koppelingen, kleppen en andere technische voorzieningen voor het transport en de levering van drinkwater, niet zijnde een collectief leidingnet;
 
-- **drinkwater:** water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden dan wel voor andere huishoudelijke doeleinden, met uitzondering van warm tapwater, dat door middel van leidingen ter beschikking wordt gesteld aan consumenten of andere afnemers;
+- *drinkwater:* water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden dan wel voor andere huishoudelijke doeleinden, met uitzondering van warm tapwater, dat door middel van leidingen ter beschikking wordt gesteld aan consumenten of andere afnemers;
 
-- **drinkwaterbedrijf:**
+- *drinkwaterbedrijf:*
 
-- a. bedrijf uitsluitend of mede bestemd tot openbare drinkwatervoorziening door levering van drinkwater aan consumenten of andere afnemers, of
+   - a. bedrijf uitsluitend of mede bestemd tot openbare drinkwatervoorziening door levering van drinkwater aan consumenten of andere afnemers, of
 
-- b. bedrijf uitsluitend of mede bestemd tot levering van drinkwater aan een bedrijf of bedrijven als bedoeld onder a;
+   - b. bedrijf uitsluitend of mede bestemd tot levering van drinkwater aan een bedrijf of bedrijven als bedoeld onder a;
 
-- **Drinkwaterrichtlijn:** [Richtlijn (EU) 2020/2184](32020L2184) van het Europees Parlement en de Raad van 16 december 2020, betreffende de kwaliteit van voor menselijke consumptie bestemd water (herschikking);
+- *Drinkwaterrichtlijn:*
+ Richtlijn (EU) 2020/2184 van het Europees Parlement en de Raad van 16 december 2020, betreffende de kwaliteit van voor menselijke consumptie bestemd water (herschikking);
 
-- **eigenaar:** juridische eigenaar;
+- *eigenaar:* juridische eigenaar;
 
-- **gewogen gemiddelde vermogenskostenvoet:** gewogen gemiddelde van de kostenvoet van vreemd vermogen en eigen vermogen, waarbij het aandeel van deze vermogenstypen in het totale vermogen als wegingsfactor wordt gehanteerd;
+- *gewogen gemiddelde vermogenskostenvoet:* gewogen gemiddelde van de kostenvoet van vreemd vermogen en eigen vermogen, waarbij het aandeel van deze vermogenstypen in het totale vermogen als wegingsfactor wordt gehanteerd;
 
-- **gekwalificeerde rechtspersoon:**
+- *gekwalificeerde rechtspersoon:*
 
-- a. publiekrechtelijke rechtspersoon, zijnde de Staat, een provincie, gemeente, waterschap of gemeenschappelijke regeling in de zin van de Wet gemeenschappelijke regelingen;
+   - a. publiekrechtelijke rechtspersoon, zijnde de Staat, een provincie, gemeente, waterschap of gemeenschappelijke regeling in de zin van de Wet gemeenschappelijke regelingen;
 
-- b. naamloze of besloten vennootschap die voldoet aan de volgende voorwaarden:
+   - b. naamloze of besloten vennootschap die voldoet aan de volgende voorwaarden:
 
-- 1°. in de statuten is bepaald dat de aandelen in zijn kapitaal uitsluitend middellijk of onmiddellijk worden gehouden door publiekrechtelijke rechtspersonen, en
+      - 1°. in de statuten is bepaald dat de aandelen in zijn kapitaal uitsluitend middellijk of onmiddellijk worden gehouden door publiekrechtelijke rechtspersonen, en
 
-- 2°. de vennootschap heeft zich niet verbonden de zeggenschap over het drinkwaterbedrijf dat haar toebehoort of zal toebehoren, geheel of gedeeltelijk uit te oefenen of te doen uitoefenen tezamen met anderen dan een publiekrechtelijke rechtspersoon of een vennootschap als bedoeld in dit onderdeel;
+      - 2°. de vennootschap heeft zich niet verbonden de zeggenschap over het drinkwaterbedrijf dat haar toebehoort of zal toebehoren, geheel of gedeeltelijk uit te oefenen of te doen uitoefenen tezamen met anderen dan een publiekrechtelijke rechtspersoon of een vennootschap als bedoeld in dit onderdeel;
 
-- c. coöperatie waarvan de leden voldoen aan de voorwaarden, bedoeld in onderdeel b;
+   - c. coöperatie waarvan de leden voldoen aan de voorwaarden, bedoeld in onderdeel b;
 
-- d. stichting ten aanzien waarvan bij besluit van Onze Minister is vastgesteld dat in haar statuten en in de tussen de stichting en de publiekrechtelijke rechtspersoon of rechtspersonen, die haar hebben opgericht, van kracht zijnde overeenkomsten zodanige bepalingen zijn opgenomen dat gewaarborgd wordt dat de volledige zeggenschap over het betreffende drinkwaterbedrijf wordt uitgeoefend door een of meer publiekrechtelijke rechtspersonen;
+   - d. stichting ten aanzien waarvan bij besluit van Onze Minister is vastgesteld dat in haar statuten en in de tussen de stichting en de publiekrechtelijke rechtspersoon of rechtspersonen, die haar hebben opgericht, van kracht zijnde overeenkomsten zodanige bepalingen zijn opgenomen dat gewaarborgd wordt dat de volledige zeggenschap over het betreffende drinkwaterbedrijf wordt uitgeoefend door een of meer publiekrechtelijke rechtspersonen;
 
-- **indicatorparameters:** indicatorparameters als bedoeld in artikel 5, eerste lid, juncto tweede lid, tweede volzin, en bijlage I, deel C, van de Drinkwaterrichtlijn;
+- *indicatorparameters:* indicatorparameters als bedoeld in artikel 5, eerste lid, juncto tweede lid, tweede volzin, en bijlage I, deel C, van de Drinkwaterrichtlijn;
 
-- **inspecteur:** inspecteur als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2024-01-01&g=2024-01-01);
+- *inspecteur:* inspecteur als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2024-01-01&g=2024-01-01);
 
-- **installatie:** samenstel van leidingen, fittingen en toestellen dat middellijk of onmiddellijk is aangesloten op het distributienet van een drinkwaterbedrijf;
+- *installatie:* samenstel van leidingen, fittingen en toestellen dat middellijk of onmiddellijk is aangesloten op het distributienet van een drinkwaterbedrijf;
 
-- **kleine collectieve watervoorziening:** collectieve watervoorziening die per dag gemiddeld tussen 10 kubieke meter en 100 kubieke meter drinkwater levert of die tussen 50 en 500 personen per dag bedient;
+- *kleine collectieve watervoorziening:* collectieve watervoorziening die per dag gemiddeld tussen 10 kubieke meter en 100 kubieke meter drinkwater levert of die tussen 50 en 500 personen per dag bedient;
 
-- **kleinverbruiker:** consument of andere afnemer met een aansluiting waarbij de volumestroom van de levering van water niet meer bedraagt dan vijf kubieke meter per uur;
+- *kleinverbruiker:* consument of andere afnemer met een aansluiting waarbij de volumestroom van de levering van water niet meer bedraagt dan vijf kubieke meter per uur;
 
-- **microbiologische of chemische parameters:** microbiologische of chemische parameters als bedoeld in artikel 5, eerste lid juncto tweede lid, eerste volzin, en bijlage I, deel A, B en D, van de Drinkwaterrichtlijn;
+- *microbiologische of chemische parameters:* microbiologische of chemische parameters als bedoeld in artikel 5, eerste lid juncto tweede lid, eerste volzin, en bijlage I, deel A, B en D, van de Drinkwaterrichtlijn;
 
-- **nooddrinkwater:** water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden, dan wel voor andere huishoudelijke doeleinden, dat bij een verstoring anders dan door middel van een distributienet wordt geleverd aan consumenten of andere afnemers;
+- *nooddrinkwater:* water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden, dan wel voor andere huishoudelijke doeleinden, dat bij een verstoring anders dan door middel van een distributienet wordt geleverd aan consumenten of andere afnemers;
 
-- **noodwater:** water, uitsluitend bestemd voor sanitaire doeleinden, dat bij een verstoring door middel van een distributienet wordt geleverd aan consumenten of andere afnemers;
+- *noodwater:* water, uitsluitend bestemd voor sanitaire doeleinden, dat bij een verstoring door middel van een distributienet wordt geleverd aan consumenten of andere afnemers;
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
+- *Onze Minister:* Onze Minister van Infrastructuur en Milieu;
 
-- **openbare drinkwatervoorziening:** productie en distributie van drinkwater door drinkwaterbedrijven;
+- *openbare drinkwatervoorziening:* productie en distributie van drinkwater door drinkwaterbedrijven;
 
-- **opslag:** opslag van water in reservoirs of bekkens in verband met de productie of distributie van drinkwater;
+- *opslag:* opslag van water in reservoirs of bekkens in verband met de productie of distributie van drinkwater;
 
-- **prestatievergelijking:** periodieke, systematische vergelijking van de prestaties van drinkwaterbedrijven;
+- *prestatievergelijking:* periodieke, systematische vergelijking van de prestaties van drinkwaterbedrijven;
 
-- **productie:** winning, bereiding en daarmee verband houdende opslag van drinkwater;
+- *productie:* winning, bereiding en daarmee verband houdende opslag van drinkwater;
 
-- **toezichthouder:** inspecteur of andere krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2024-01-01&g=2024-01-01) aangewezen toezichthouder;
+- *toezichthouder:* inspecteur of andere krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2024-01-01&g=2024-01-01) aangewezen toezichthouder;
 
-- **verstoring:** uitval of aantasting van watervoorzieningswerken, waardoor de continuïteit van de levering van deugdelijk drinkwater wordt verbroken of in gevaar komt;
+- *verstoring:* uitval of aantasting van watervoorzieningswerken, waardoor de continuïteit van de levering van deugdelijk drinkwater wordt verbroken of in gevaar komt;
 
-- **warm tapwater:** water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden dan wel voor andere huishoudelijke doeleinden, dat wordt verwarmd voordat het voor die toepassingen ter beschikking wordt gesteld;
+- *warm tapwater:* water bestemd of mede bestemd om te drinken, te koken of voedsel te bereiden dan wel voor andere huishoudelijke doeleinden, dat wordt verwarmd voordat het voor die toepassingen ter beschikking wordt gesteld;
 
-- **watervoorzieningswerken:** werken ten behoeve van de productie en distributie van drinkwater en daarmee rechtstreeks verband houdende werken en beschermingsvoorzieningen ten dienste van drinkwaterbedrijven;
+- *watervoorzieningswerken:* werken ten behoeve van de productie en distributie van drinkwater en daarmee rechtstreeks verband houdende werken en beschermingsvoorzieningen ten dienste van drinkwaterbedrijven;
 
-- **winning:** onttrekking van grondwater, oppervlaktewater of zeewater ten behoeve van de bereiding van drinkwater;
+- *winning:* onttrekking van grondwater, oppervlaktewater of zeewater ten behoeve van de bereiding van drinkwater;
 
-- **woninginstallatie:** van een woning deel uitmakend samenstel van leidingen, fittingen en toestellen, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet;
+- *woninginstallatie:* van een woning deel uitmakend samenstel van leidingen, fittingen en toestellen, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet;
 
-- **zeer kleine collectieve watervoorziening:** collectieve watervoorziening die gemiddeld minder dan 10 kubieke meter per dag drinkwater levert of minder dan 50 personen per dag bedient.
+- *zeer kleine collectieve watervoorziening:* collectieve watervoorziening die gemiddeld minder dan 10 kubieke meter per dag drinkwater levert of minder dan 50 personen per dag bedient.
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat een of meer daarbij aan te geven artikelen van deze wet niet van toepassing zijn op water dat uitsluitend bestemd is voor bij die maatregel aangegeven doeleinden, waarbij de kwaliteit van het water niet van invloed is op de gezondheid van de betrokken consumenten. Bij of krachtens die maatregel kunnen nadere eisen worden gesteld aan de productie, distributie en het gebruik van dit water.
 
@@ -173,9 +145,9 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - b. consumenten of andere afnemers buiten het gebouw of het terrein waar de productie of distributie plaatsvindt, voor zover dat gebouw of terrein:
 
-- 1°. voorheen deel uitmaakte van het in onderdeel a bedoelde gebouw of terrein, of
+   - 1°. voorheen deel uitmaakte van het in onderdeel a bedoelde gebouw of terrein, of
 
-- 2°. voor 25 februari 2005 was aangesloten op de collectieve watervoorziening van de eigenaar, bedoeld in de aanhef.
+   - 2°. voor 25 februari 2005 was aangesloten op de collectieve watervoorziening van de eigenaar, bedoeld in de aanhef.
 
 3. De verboden, bedoeld in het eerste lid, gelden voorts niet voor de eigenaar van een voorziening voor de productie of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.
 
@@ -183,15 +155,15 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - a. voor zover dat leidingnet deel uitmaakt van:
 
-- 1°. een gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+   - 1°. een gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
-- 2°. een terrein of plaats, geheel of gedeeltelijk ingericht, en blijkens die inrichting bestemd, om daarop ten behoeve van recreatief nachtverblijf gelegenheid te geven tot het plaatsen of geplaatst houden van tenten, tentwagens, kampeerauto’s of voertuigen of gewezen voertuigen of gedeelten daarvan, voor zover geen bouwwerk zijnde, waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is vereist; een en ander voor zover deze onderkomens of voertuigen geheel of ten dele blijvend zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf;
+   - 2°. een terrein of plaats, geheel of gedeeltelijk ingericht, en blijkens die inrichting bestemd, om daarop ten behoeve van recreatief nachtverblijf gelegenheid te geven tot het plaatsen of geplaatst houden van tenten, tentwagens, kampeerauto’s of voertuigen of gewezen voertuigen of gedeelten daarvan, voor zover geen bouwwerk zijnde, waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is vereist; een en ander voor zover deze onderkomens of voertuigen geheel of ten dele blijvend zijn bestemd of opgericht dan wel worden of kunnen worden gebruikt voor recreatief nachtverblijf;
 
-- 3°. een bungalowpark;
+   - 3°. een bungalowpark;
 
-- 4°. een volkstuincomplex;
+   - 4°. een volkstuincomplex;
 
-- 5°. een bedrijfsterrein;
+   - 5°. een bedrijfsterrein;
 
 - b. voor zover op dat leidingnet, al dan niet tijdelijk, een of meer tappunten zijn aangesloten in openbare of voor het publiek of andere personen toegankelijke terreinen of ruimten.
 
@@ -267,17 +239,17 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - a. het bijdragen aan de bescherming van de bronnen voor de drinkwatervoorziening in zijn distributiegebied tegen verontreiniging, waaronder in elk geval wordt begrepen:
 
-- 1°. het verrichten van onderzoek naar de kwaliteit van deze bronnen;
+   - 1°. het verrichten van onderzoek naar de kwaliteit van deze bronnen;
 
-- 2°. het beheren of medebeheren van terreinen rondom deze bronnen gericht op het voorkomen of beperken van verontreiniging van deze bronnen;
+   - 2°. het beheren of medebeheren van terreinen rondom deze bronnen gericht op het voorkomen of beperken van verontreiniging van deze bronnen;
 
 - b. het bijdragen aan het uit een oogpunt van volksgezondheid verantwoord omgaan met drinkwater door eigenaars, consumenten en andere afnemers tussen het punt van levering en het punt waar het drinkwater voor consumptie ter beschikking komt, waaronder in elk geval wordt begrepen:
 
-- 1°. het geven van voorlichting aan consumenten;
+   - 1°. het geven van voorlichting aan consumenten;
 
-- 2°. het opstellen van technische eisen ten aanzien van de op zijn distributienet aan te sluiten en aangesloten installaties;
+   - 2°. het opstellen van technische eisen ten aanzien van de op zijn distributienet aan te sluiten en aangesloten installaties;
 
-- 3°. het overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=24&z=2024-01-01&g=2024-01-01) uitvoeren van controles ten aanzien van bedoelde installaties.
+   - 3°. het overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=24&z=2024-01-01&g=2024-01-01) uitvoeren van controles ten aanzien van bedoelde installaties.
 
 3. Indien de eigenaar van een drinkwaterbedrijf baten die zijn verkregen ter uitvoering van een taak of taken als bedoeld in het eerste of tweede lid aanwendt voor het verrichten van economische activiteiten, geschiedt de aanwending van die baten tegen condities die in het normale handelsverkeer gebruikelijk zijn voor de financiering van de desbetreffende economische activiteiten. De [artikelen 25a, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25a), en [25b van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25b) zijn van overeenkomstige toepassing op de eigenaren van drinkwaterbedrijven.
 
@@ -307,9 +279,9 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 1. Bij of krachtens algemene maatregel van bestuur wordt een algemeen aanvaarde bedrijfseconomische methode vastgesteld volgens welke de gewogen gemiddelde vermogenskostenvoet en het aandeel eigen vermogen in het totale vermogen worden bepaald.
 
-2. Onze Minister stelt driejaarlijks voor 1 november, ten behoeve van de bepaling van de tarieven voor de daarop volgende drie kalenderjaren, het maximaal toegestane aandeel vast van het eigen vermogen in het totale vermogen. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld volgens welke criteria en tot welk niveau Onze Minister op een daartoe strekkend verzoek van de eigenaar van een drinkwaterbedrijf van dit in de vorige volzin bedoelde maximale aandeel kan afwijken.
+2. Onze Minister stelt driejaarlijks voor 1 november, ten behoeve van de bepaling van de tarieven voor de daarop volgende drie kalenderjaren, het maximaal toegestane aandeel vast van het eigen vermogen in het totale vermogen. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld volgens welke criteria en tot welk niveau Onze Minister op een daartoe strekkend verzoek van de eigenaar van een drinkwaterbedrijf van dit in de vorige volzin bedoelde maximale aandeel kan afwijken.
 
-3. Onze Minister stelt driejaarlijks voor 1 november, ten behoeve van de bepaling van de tarieven voor de daarop volgende drie kalenderjaren, de gewogen gemiddelde vermogenskostenvoet vast volgens de methode, bedoeld in het eerste lid. Onze Minister kan een besluit houdende vaststelling van de gewogen gemiddelde vermogenskostenvoet een maal verlengen met ten hoogste drie kalenderjaren, indien noodzakelijk met het oog op de continuïteit of veiligheid van de openbare drinkwatervoorziening en onder met het oog daarop te stellen voorwaarden. Tegen de vaststelling is geen bezwaar of beroep mogelijk.
+3. Onze Minister stelt driejaarlijks voor 1 november, ten behoeve van de bepaling van de tarieven voor de daarop volgende drie kalenderjaren, de gewogen gemiddelde vermogenskostenvoet vast volgens de methode, bedoeld in het eerste lid. Onze Minister kan een besluit houdende vaststelling van de gewogen gemiddelde vermogenskostenvoet een maal verlengen met ten hoogste drie kalenderjaren, indien noodzakelijk met het oog op de continuïteit of veiligheid van de openbare drinkwatervoorziening en onder met het oog daarop te stellen voorwaarden. Tegen de vaststelling is geen bezwaar of beroep mogelijk.
 
 ##### Artikel 11
 
@@ -325,7 +297,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 1. Uit de begroting van het drinkwaterbedrijf blijkt op welke wijze de kosten, waaronder de vermogenskosten die ten hoogste mogen worden gehanteerd, in het tarief zijn verwerkt.
 
-2. De eigenaar van een drinkwaterbedrijf brengt jaarlijks voor 1 oktober aan Onze Minister een verslag uit dat inzicht verschaft in de kosten, waaronder de vermogenskosten, die in het voorafgaande kalenderjaar zijn gehanteerd bij het vaststellen van de tarieven voor de levering van drinkwater en het gerealiseerde bedrijfsresultaat over dat jaar. Het verslag dient voorzien te zijn van een goedkeurende verklaring van een registeraccountant. Onze Minister zendt dit verslag voor het einde van het kalenderjaar aan de beide Kamers der Staten-Generaal.
+2. De eigenaar van een drinkwaterbedrijf brengt jaarlijks voor 1 oktober aan Onze Minister een verslag uit dat inzicht verschaft in de kosten, waaronder de vermogenskosten, die in het voorafgaande kalenderjaar zijn gehanteerd bij het vaststellen van de tarieven voor de levering van drinkwater en het gerealiseerde bedrijfsresultaat over dat jaar. Het verslag dient voorzien te zijn van een goedkeurende verklaring van een registeraccountant. Onze Minister zendt dit verslag voor het einde van het kalenderjaar aan de beide Kamers der Staten-Generaal.
 
 3. Indien uit het verslag, bedoeld in het tweede lid, blijkt dat het gerealiseerde bedrijfsresultaat de voor dat jaar op basis van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), bepaalde vermogenskosten overschrijdt, draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat die overschrijding wordt gecompenseerd uiterlijk in de tariefstelling voor het daaropvolgende kalenderjaar.
 
@@ -337,7 +309,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - b. de elementen en wijze van berekening van de tarieven, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01).
 
-2. Indien niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) of nadere regels als bedoeld in het eerste lid kan Onze Minister een aanwijzing geven aan de eigenaar van een drinkwaterbedrijf. Bij de aanwijzing wordt aangegeven op welke gronden niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) of de bedoelde regels en welke wijzigingen met het oog daarop in het tarief vereist zijn. Bij de aanwijzing wordt een termijn gesteld waarbinnen aan de aanwijzing voldaan moet worden.
+2. Indien niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) of nadere regels als bedoeld in het eerste lid kan Onze Minister een aanwijzing geven aan de eigenaar van een drinkwaterbedrijf. Bij de aanwijzing wordt aangegeven op welke gronden niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) of de bedoelde regels en welke wijzigingen met het oog daarop in het tarief vereist zijn. Bij de aanwijzing wordt een termijn gesteld waarbinnen aan de aanwijzing voldaan moet worden.
 
 #### § 4. De zeggenschap over een drinkwaterbedrijf
 
@@ -419,9 +391,9 @@ De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artik
 
 - a. de hoedanigheid van het drinkwater na de bereiding en op het punt waar het ter beschikking komt voor gebruik, alsmede het nemen en analyseren van monsters en het verrichten van onderzoek teneinde die hoedanigheid vast te stellen. De eisen met betrekking tot de hoedanigheid van het drinkwater hebben in elk geval betrekking op:
 
-- 1°. microbiologische en chemische parameters;
+   - 1°. microbiologische en chemische parameters;
 
-- 2°. indicatorparameters waaronder signaleringsparameters voor het signaleren van mogelijke verontreiniging van het drinkwater;
+   - 2°. indicatorparameters waaronder signaleringsparameters voor het signaleren van mogelijke verontreiniging van het drinkwater;
 
 - b. het toezicht, door of vanwege de eigenaar van een drinkwaterbedrijf te houden op de toestand en de werking van het bedrijf, alsmede op de hoedanigheid van het in dat bedrijf bereide drinkwater;
 
@@ -429,19 +401,19 @@ De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artik
 
 - d. het onderzoek dat de eigenaar van een drinkwaterbedrijf verricht naar oorzaak en mogelijke nadelige gevolgen voor de volksgezondheid en de door hem te nemen herstelmaatregelen in geval niet wordt voldaan aan de eisen met betrekking tot de hoedanigheid van het drinkwater, bedoeld in onderdeel a, waarbij:
 
-- 1°. in geval van het niet voldoen aan een microbiologische of chemische parameter steeds herstelmaatregelen zijn vereist, gericht op het voldoen aan de eisen;
+   - 1°. in geval van het niet voldoen aan een microbiologische of chemische parameter steeds herstelmaatregelen zijn vereist, gericht op het voldoen aan de eisen;
 
-- 2°. in geval van het niet voldoen aan een indicatorparameter, herstelmaatregelen zijn vereist, gericht op het voldoen aan de eisen, tenzij er naar het oordeel van de toezichthouder geen gevaar is voor de volksgezondheid;
+   - 2°. in geval van het niet voldoen aan een indicatorparameter, herstelmaatregelen zijn vereist, gericht op het voldoen aan de eisen, tenzij er naar het oordeel van de toezichthouder geen gevaar is voor de volksgezondheid;
 
 - e. de informatie die de eigenaar van een drinkwaterbedrijf verstrekt:
 
-- 1°. aan consumenten en andere afnemers: over de kwaliteit van het geleverde drinkwater;
+   - 1°. aan consumenten en andere afnemers: over de kwaliteit van het geleverde drinkwater;
 
-- 2°. aan consumenten en andere afnemers: indien de levering van drinkwater gevaar kan opleveren voor de volksgezondheid;
+   - 2°. aan consumenten en andere afnemers: indien de levering van drinkwater gevaar kan opleveren voor de volksgezondheid;
 
-- 3°. aan de eigenaars van percelen waaraan de eigenaar drinkwater levert, en aan de betreffende consumenten en andere afnemers: over door hen te nemen voorzorgs- of herstelmaatregelen, indien door een omstandigheid, te wijten aan een collectief leidingnet of een woninginstallatie, het drinkwater niet voldoet aan de eisen, bedoeld in de aanhef en onder a, of indien de deugdelijkheid van het drinkwater anderszins wordt aangetast;
+   - 3°. aan de eigenaars van percelen waaraan de eigenaar drinkwater levert, en aan de betreffende consumenten en andere afnemers: over door hen te nemen voorzorgs- of herstelmaatregelen, indien door een omstandigheid, te wijten aan een collectief leidingnet of een woninginstallatie, het drinkwater niet voldoet aan de eisen, bedoeld in de aanhef en onder a, of indien de deugdelijkheid van het drinkwater anderszins wordt aangetast;
 
-- 4°. aan de toezichthouder: over de kwaliteit van het geleverde drinkwater en de maatregelen die zijn of worden genomen om deze kwaliteit te waarborgen;
+   - 4°. aan de toezichthouder: over de kwaliteit van het geleverde drinkwater en de maatregelen die zijn of worden genomen om deze kwaliteit te waarborgen;
 
 - f. de kwaliteit van het water waaruit warm tapwater wordt bereid.
 
@@ -469,7 +441,7 @@ De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artik
 
 3. Het is verboden drinkwater te bereiden uit oppervlaktewater, dat niet voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen voor microbiologische of chemische parameters, bedoeld in het tweede lid, aanhef en onderdeel 1. Bij of krachtens die maatregel kan worden bepaald dat het verbod niet geldt indien het water tevoren op een daarbij vastgestelde wijze is behandeld, waarbij voor water van verschillende hoedanigheid verschillende wijzen van behandeling kunnen worden vastgesteld.
 
-4. In bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, aan te wijzen categorieën van gevallen kan Onze Minister, indien het belang van de bescherming van de volksgezondheid zich daar niet tegen verzet, gedurende een daarbij aan te geven periode ontheffing verlenen van het verbod, bedoeld in dat lid, eerste volzin, dan wel van de bij of krachtens die maatregel gestelde eisen voor microbiologische of chemische parameters of van de daarbij vastgestelde wijze of wijzen van behandeling.
+4. In bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, aan te wijzen categorieën van gevallen kan Onze Minister, indien het belang van de bescherming van de volksgezondheid zich daar niet tegen verzet, gedurende een daarbij aan te geven periode ontheffing verlenen van het verbod, bedoeld in dat lid, eerste volzin, dan wel van de bij of krachtens die maatregel gestelde eisen voor microbiologische of chemische parameters of van de daarbij vastgestelde wijze of wijzen van behandeling.
 
 5. Onze Minister kan aan een ontheffing voorschriften en beperkingen verbinden, deze wijzigen of intrekken en een ontheffing intrekken. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, worden hieromtrent nadere regels gesteld. Van een besluit inzake een ontheffing wordt mededeling gedaan in de Staatscourant.
 
@@ -485,7 +457,7 @@ De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artik
 
 ##### Artikel 23
 
-Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van ernstig gevaar voor de volksgezondheid een onverwijlde voorziening noodzakelijk is, na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, een regeling vaststellen van de in [artikel 21, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2024-01-01&g=2024-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2024-01-01&g=2024-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2024-01-01&g=2024-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2024-01-01&g=2024-01-01) bedoelde strekking. Een zodanige regeling vervalt een jaar nadat deze in werking is getreden, of, indien binnen die periode een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Bij ministeriële regeling kan de geldigheidsduur van de regeling eenmaal met ten hoogste een jaar worden verlengd.
+Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van ernstig gevaar voor de volksgezondheid een onverwijlde voorziening noodzakelijk is, na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, een regeling vaststellen van de in [artikel 21, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2024-01-01&g=2024-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2024-01-01&g=2024-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2024-01-01&g=2024-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2024-01-01&g=2024-01-01) bedoelde strekking. Een zodanige regeling vervalt een jaar nadat deze in werking is getreden, of, indien binnen die periode een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Bij ministeriële regeling kan de geldigheidsduur van de regeling eenmaal met ten hoogste een jaar worden verlengd.
 
 ##### Artikel 24
 
@@ -599,7 +571,7 @@ De eigenaar van een drinkwaterbedrijf draagt zorg voor de uitvoering van een ana
 
 3. Het leveringsplan behoeft de goedkeuring van de inspecteur en wordt daartoe aan hem overgelegd.
 
-4. De in het leveringsplan opgenomen gegevens, die betrekking hebben op het voorkomen van een verstoring, de voorbereiding op een verstoring dan wel het optreden in geval van een verstoring, zijn informatie als bedoeld in [artikel 5.1, eerste lid, aanhef en onderdeel b, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
+4. De in het leveringsplan opgenomen gegevens, die betrekking hebben op het voorkomen van een verstoring, de voorbereiding op een verstoring dan wel het optreden in geval van een verstoring, zijn informatie als bedoeld in [artikel 5.1, eerste lid, aanhef en onderdeel b, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
 
 ##### Artikel 38
 
@@ -627,7 +599,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 40
 
-1. De in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=39&z=2024-01-01&g=2024-01-01), bedoelde instantie stelt ten behoeve van de uitvoering van een prestatievergelijking uiterlijk op 1 maart van het jaar, waarin die prestatievergelijking wordt uitgevoerd, een protocol vast, inhoudend:
+1. De in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=39&z=2024-01-01&g=2024-01-01), bedoelde instantie stelt ten behoeve van de uitvoering van een prestatievergelijking uiterlijk op 1 maart van het jaar, waarin die prestatievergelijking wordt uitgevoerd, een protocol vast, inhoudend:
 
 - a. een uitwerking van de in dat lid genoemde categorieën van prestaties waarop de vergelijking betrekking heeft;
 
@@ -671,7 +643,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 43
 
-1. De met de uitvoering van de prestatievergelijking belaste instantie draagt er zorg voor dat uiterlijk op 31 december van het kalenderjaar, waarin een prestatievergelijking is uitgevoerd, een verslag houdende de resultaten van die prestatievergelijking is opgesteld ten behoeve van de eigenaren van drinkwaterbedrijven en aan hen wordt toegezonden.
+1. De met de uitvoering van de prestatievergelijking belaste instantie draagt er zorg voor dat uiterlijk op 31 december van het kalenderjaar, waarin een prestatievergelijking is uitgevoerd, een verslag houdende de resultaten van die prestatievergelijking is opgesteld ten behoeve van de eigenaren van drinkwaterbedrijven en aan hen wordt toegezonden.
 
 2. Het in het eerste lid bedoelde verslag wordt gelijktijdig toegezonden aan Onze Minister.
 
@@ -689,7 +661,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 45
 
-1. Onze Minister stelt uiterlijk op 31 december van elk kalenderjaar een verslag op met betrekking tot de kwaliteit van het drinkwater gedurende het aan dat jaar voorafgaande kalenderjaar.
+1. Onze Minister stelt uiterlijk op 31 december van elk kalenderjaar een verslag op met betrekking tot de kwaliteit van het drinkwater gedurende het aan dat jaar voorafgaande kalenderjaar.
 
 2. Onze Minister zendt het verslag, bedoeld in het eerste lid, aan beide Kamers der Staten-Generaal en doet van het verslag mededeling in de Staatscourant.
 
@@ -743,27 +715,31 @@ Hetgeen ten aanzien van de inspecteur of de eigenaar van een drinkwaterbedrijf i
 
 Onze Minister kan in geval van buitengewone omstandigheden, zo mogelijk na overleg met de eigenaar van een drinkwaterbedrijf en zo lang als die omstandigheden dat vereisen, regels stellen of maatregelen treffen die hij redelijkerwijs nodig acht in het belang van de veiligstelling van de openbare drinkwatervoorziening.
 
+##### Artikel 54a
+
+Bij algemene maatregel van bestuur of, indien strekkend tot een goede uitvoering, bij regeling van Onze Minister, kunnen ter implementatie van internationale verplichtingen nadere regels worden gesteld omtrent de in deze wet geregelde onderwerpen.
+
 ### Hoofdstuk IX. Wijziging van andere wetten
 
 ##### Artikel 55
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 56
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel 57
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel 58
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 59
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.
+*Wijzigt de Wet verontreiniging oppervlaktewateren.*
 
 ### Hoofdstuk X. Evaluatie
 
@@ -789,7 +765,7 @@ Aan de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00263
 
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
@@ -812,17 +788,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 68
 
 Deze wet wordt aangehaald als: Drinkwaterwet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 54a
-
-Bij algemene maatregel van bestuur of, indien strekkend tot een goede uitvoering, bij regeling van Onze Minister, kunnen ter implementatie van internationale verplichtingen nadere regels worden gesteld omtrent de in deze wet geregelde onderwerpen.
-
-### Hoofdstuk IX. Wijziging van andere wetten
-
-### Hoofdstuk X. Evaluatie
-
-### Hoofdstuk XI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

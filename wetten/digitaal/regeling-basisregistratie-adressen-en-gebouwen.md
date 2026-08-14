@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 juni 2009, nr. BJZ2009038757, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Regeling basisregistraties adressen en gebouwen)"
+citeertitel: "Regeling basisregistratie adressen en gebouwen"
 identifier: "BWBR0025961"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-01"
-last_updated: "2018-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025961"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10066413"
-version_id: "16449522"
-internal_id: "C22619321"
-label_id: "10042814"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025961/2018-07-01/0"
-intitule_bron: "Stcrt.2009-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-08"
-intitule_published: "2009-06-17"
-intitule_in_force: "2009-06-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-109"
-original_signed_date: "2009-06-08"
-original_published_date: "2009-06-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-8946"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0025961&z=2018-07-01&g=2018-07-01"
-jci_1_0: "1.0:c:BWBR0025961&g=2018-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling basisregistratie adressen en gebouwen"
-signed_date: "2009-06-08"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2018-07-01
+status: geldig
+toestand: 2018-07-01
+bron: "https://wetten.overheid.nl/BWBR0025961"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 juni 2009, nr. BJZ2009038757, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Regeling basisregistraties adressen en gebouwen)
-
-Gelet op de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=9), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=14), en [17, tweede lid, van de Wet basisregistraties adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -79,9 +53,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2009.
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling basisregistratie adressen en gebouwen.
-
-## Bijlage I. bij de Regeling basisregistratie adressen en gebouwen
-
-## Bijlage II. bij de Regeling basisregistratie adressen en gebouwen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=I&z=2018-07-01&g=2018-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0025961&bijlage=II&z=2018-07-01&g=2018-07-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en op internet worden geplaatst op www.vrom.nl.

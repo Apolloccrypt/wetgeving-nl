@@ -1,44 +1,18 @@
 ---
 title: "Besluit beperking van de openbaarheid van de archieven van de Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en van de Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven"
+citeertitel: "Besluit beperking openbaarheid archieven Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven"
 identifier: "BWBR0027436"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-03-30"
-last_updated: "2010-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027436"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10474583"
-version_id: "17236772"
-internal_id: "C23780711"
-label_id: "10449714"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027436/2010-03-30/0"
-intitule_bron: "Stcrt.2010-4681"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-11"
-intitule_published: "2010-03-29"
-intitule_in_force: "2010-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-4681"
-original_signed_date: "2010-03-11"
-original_published_date: "2010-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-4681"
-entry_into_force_date: "2010-03-30"
-jci_1_3: "jci1.3:c:BWBR0027436&z=2010-03-30&g=2010-03-30"
-jci_1_0: "1.0:c:BWBR0027436&g=2010-03-30"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archieven Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven"
-signed_date: "2010-03-11"
-entry_into_force: "2010-03-30"
+publicatiedatum: 2010-03-30
+laatste_update: 2010-03-30
+status: geldig
+toestand: 2010-03-30
+bron: "https://wetten.overheid.nl/BWBR0027436"
+opgehaald: 2026-08-14
 ---
+
 # Besluit beperking van de openbaarheid van de archieven van de Bedrijfsvereniging voor de Leder- en Lederverwerkende Industrie en van de Bedrijfsvereniging voor de Horeca, Pension- en Aanverwante Bedrijven
-
-Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -114,29 +88,3 @@ Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de be
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage
-
-### Formulier voor toestemming tot raadpleging van niet-openbare archieven
-
-vraagt hierbij toestemming tot het raadplegen van het archief: ........................................
-
-...................................................................................................................................................
-
-Nummer Toegang:
-
-De gegevens uit dit archief zullen eventueel worden vastgelegd in een scriptie / dissertatie / artikel in een (wetenschappelijk) periodiek / boek.
-
-Het onderzoek vindt plaats aan **(instelling)**: ........................................
-
-.................................................................................................................
-
-onder leiding van: ........................................
-
-Ondergetekende verklaart hierbij dat **hij/zij**
-
-Indien de Directeur Nationaal Archief of diens gemachtigde afwijzend beschikt op een verzoek tot raadpleging of een verzoek tot publicatie van gegevens uit dit archief, zullen de motieven die tot deze afwijzing hebben geleid, aangegeven worden.
-
-De geldigheidsduur van de toestemming bedraagt twaalf maanden. Indien het beoogde doel na afloop van deze periode niet is verwezenlijkt, kan een verzoek tot verlenging worden ingediend.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

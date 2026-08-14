@@ -1,52 +1,22 @@
 ---
 title: "Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale vereenvoudigingswet 2010)"
+citeertitel: "Fiscale vereenvoudigingswet 2010"
 identifier: "BWBR0026981"
-country: "nl"
-rank: "wet"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026981"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "10353743"
-version_id: "17004442"
-internal_id: "C23455571"
-label_id: "10329214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026981/2014-01-01/0"
-intitule_bron: "Stb.2009-611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-23"
-intitule_published: "2009-12-29"
-intitule_in_force: "2009-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2009-611"
-original_signed_date: "2009-12-23"
-original_published_date: "2009-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "32130"
-original_url_id: "stb-2009-611"
-entry_into_force_date: "2010-01-01"
-entry_into_force_dossier: "32130"
-jci_1_3: "jci1.3:c:BWBR0026981&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0026981&g=2014-01-01"
-citeertitel_status: "officieel"
-short_title: "Fiscale vereenvoudigingswet 2010"
-signed_date: "2009-12-23"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0026981"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale vereenvoudigingswet 2010)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om fiscale vereenvoudigingen door te voeren ter vermindering van de administratieve lasten van burgers en bedrijven en de uitvoeringskosten van de Belastingdienst alsmede ter vermindering van de regeldruk;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
@@ -54,61 +24,61 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IIIa
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel Vbis
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel Va
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VIa
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel X
 
-1. Wijzigt de Wet op de accijns.
+1. *Wijzigt de Wet op de accijns.*
 
 2. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in het eerste lid vermelde bedragen.
 
 ##### Artikel XI
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XII
 
-[Artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) vindt geen toepassing bij het begin van het kalenderjaar 2010 op de bedragen, genoemd in [artikel 27, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), [71e, tweede lid](onbekend), [71f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71f), en [71g, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g).
+[Artikel 27a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27a) vindt geen toepassing bij het begin van het kalenderjaar 2010 op de bedragen, genoemd in [artikel 27, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), 71e, tweede lid, [71f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71f), en [71g, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g).
 
 ##### Artikel XIII
 
@@ -126,51 +96,51 @@ De bij de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel
 
 ##### Artikel XV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XVI
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XVII
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XVIII
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XVIIIa
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XIX
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XX
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet op de huurtoeslag.
+*Wijzigt de Wet op de huurtoeslag.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XXIII
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
 ##### Artikel XXIV
 
-Wijzigt het Belastingplan 2008.
+*Wijzigt het Belastingplan 2008.*
 
 ##### Artikel XXV
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel XXVa
 
@@ -178,7 +148,7 @@ Onze Minister zendt begin 2013 aan de Staten Generaal een verslag over het gebru
 
 ##### Artikel XXVI
 
-Wijzigt de Wijzigingswet Wet op de accijns, enz. (Implementatie horizontale richtlijn accijns) en de Wet belastingen op milieugrondslag.
+*Wijzigt de Wijzigingswet Wet op de accijns, enz. (Implementatie horizontale richtlijn accijns) en de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXVIa
 
@@ -209,5 +179,3 @@ Met betrekking tot een op 31 december 2010 bestaande kapitaalverzekering die op 
 ##### Artikel XXVIII
 
 Deze wet wordt aangehaald als: Fiscale vereenvoudigingswet 2010.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

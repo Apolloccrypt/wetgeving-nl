@@ -1,56 +1,34 @@
 ---
 title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178048, inzake de ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ op grond van artikel 9b Les- en cursusgeldwet (LCW) is bestemd voor asielzoekers en bepaalde categorieën vreemdelingen, die lesgeld dienen te betalen en voor buiteninvorderingstelling hiervan in aanmerking willen komen"
+citeertitel: "Beleidsregel ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ ex artikel 9b Les- en cursusgeldwet"
 identifier: "BWBR0027038"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-07-06"
-last_updated: "2021-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027038"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "10380093"
-version_id: "17064182"
-internal_id: "C23527071"
-label_id: "10355114"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027038/2021-07-06/0"
-intitule_bron: "Stcrt.2009-20666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-17"
-intitule_published: "2009-12-31"
-intitule_in_force: "2009-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20666"
-original_signed_date: "2009-12-17"
-original_published_date: "2009-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20666"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027038&z=2021-07-06&g=2021-07-06"
-jci_1_0: "1.0:c:BWBR0027038&g=2021-07-06"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ ex artikel 9b Les- en cursusgeldwet"
-signed_date: "2009-12-17"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2021-07-06
+status: geldig
+toestand: 2021-07-06
+bron: "https://wetten.overheid.nl/BWBR0027038"
+opgehaald: 2026-08-14
 ---
-# Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178048, inzake de ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ op grond van artikel 9b Les- en cursusgeldwet (LCW) is bestemd voor asielzoekers en bepaalde categorieën vreemdelingen, die lesgeld dienen te betalen en voor buiteninvorderingstelling hiervan in aanmerking willen komen
 
-Heeft besloten onderstaand beleid te laten uitvoeren door de Dienst Uitvoering Onderwijs:
+# Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178048, inzake de ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ op grond van artikel 9b Les- en cursusgeldwet (LCW) is bestemd voor asielzoekers en bepaalde categorieën vreemdelingen, die lesgeld dienen te betalen en voor buiteninvorderingstelling hiervan in aanmerking willen komen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **lesgeld:** het lesgeld, bedoeld in [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
+- *lesgeld:* het lesgeld, bedoeld in [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
 
-- **lesgeldplichtige vreemdeling:** vreemdeling die op grond van [artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) rechtmatig in Nederland verblijft, en die lesgeldplichtig is op grond van [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
+- *lesgeldplichtige vreemdeling:* vreemdeling die op grond van [artikel 8, onderdelen f, g, h, j of k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) rechtmatig in Nederland verblijft, en die lesgeldplichtig is op grond van [artikel 3 van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=3);
 
-- **schooljaar:** tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daarop volgend;
+- *schooljaar:* tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daarop volgend;
 
-- **WSF 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
+- *WSF 2000:*
+ [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
 
-- **WTOS:** [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
+- *WTOS:*
+ [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
 
 ##### Artikel 2. Voorwaarden
 
@@ -88,12 +66,12 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 5. Wijzigingen in de verblijfsstatus
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6. Overgangsrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Bekendmaking
 
-Deze beleidsregel treedt met ingang van 1 januari 2010 in werking. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
+Deze beleidsregel treedt met ingang van 1 januari 2010 in werking. Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.

@@ -1,53 +1,29 @@
 ---
 title: "Instellingsbesluit Commissie van Wijzen Bewoners Aanspreekpunt Schiphol"
 identifier: "BWBR0026111"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-17"
-last_updated: "2009-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026111"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10128383"
-version_id: "16556942"
-internal_id: "C22793401"
-label_id: "10104774"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026111/2009-07-17/0"
-intitule_bron: "Stcrt.2009-10510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-01"
-intitule_published: "2009-07-15"
-intitule_in_force: "2009-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-10510"
-original_signed_date: "2009-07-01"
-original_published_date: "2009-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-10510"
-entry_into_force_date: "2009-07-17"
-jci_1_3: "jci1.3:c:BWBR0026111&z=2009-07-17&g=2009-07-17"
-jci_1_0: "1.0:c:BWBR0026111&g=2009-07-17"
-citeertitel_status: "officieel"
-signed_date: "2009-07-01"
-entry_into_force: "2009-07-17"
+publicatiedatum: 2009-07-17
+laatste_update: 2009-07-17
+status: geldig
+toestand: 2009-07-17
+bron: "https://wetten.overheid.nl/BWBR0026111"
+opgehaald: 2026-08-14
 ---
-# Instellingsbesluit Commissie van Wijzen Bewoners Aanspreekpunt Schiphol
 
-Besluit:
+# Instellingsbesluit Commissie van Wijzen Bewoners Aanspreekpunt Schiphol
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Bas:** Bewoners Aanspreekpunt Schiphol;
+- a. *Bas:* Bewoners Aanspreekpunt Schiphol;
 
-- b. **Commissie:** Commissie van Wijzen Bewoners Aanspreekpunt Schiphol als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026111&artikel=2&z=2009-07-17&g=2009-07-17);
+- b. *Commissie:* Commissie van Wijzen Bewoners Aanspreekpunt Schiphol als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026111&artikel=2&z=2009-07-17&g=2009-07-17);
 
-- c. **Verzoekschrift:** schriftelijke uiting van ongenoegen over de wijze waarop Bas zich in een bepaalde aangelegenheid jegens verzoeker heeft gedragen, als bedoeld in het klachtenregelement van Bas, artikel 6.5.
+- c. *Verzoekschrift:* schriftelijke uiting van ongenoegen over de wijze waarop Bas zich in een bepaalde aangelegenheid jegens verzoeker heeft gedragen, als bedoeld in het klachtenregelement van Bas, artikel 6.5.
 
-- d. **Verzoeker:** degene die een verzoekschrift indient bij de Commissie.
+- d. *Verzoeker:* degene die een verzoekschrift indient bij de Commissie.
 
 ##### Artikel 2. Instelling Commissie van Wijzen
 
@@ -142,5 +118,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen Bewoners Aanspreekpunt Schiphol.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

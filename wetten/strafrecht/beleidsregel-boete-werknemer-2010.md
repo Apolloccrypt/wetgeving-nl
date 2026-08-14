@@ -1,76 +1,63 @@
 ---
 title: "Beleidsregel Boete werknemer 2010"
 identifier: "BWBR0027125"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-12-10"
-last_updated: "2013-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027125"
+categorie: "Arbeidsrecht"
 soort: "zbo"
-stam_id: "10405063"
-version_id: "20939232"
-internal_id: "C30058981"
-label_id: "10380544"
-dtd_version: "2.0"
-original_entry_into_force: "2013-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027125/2013-12-10/0"
-intitule_bron: "Stcrt.2010-1126"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-01-27"
-intitule_in_force: "2010-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-31800"
-original_published_date: "2013-12-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-31800"
-entry_into_force_date: "2013-12-10"
-jci_1_3: "jci1.3:c:BWBR0027125&z=2013-12-10&g=2013-12-10"
-jci_1_0: "1.0:c:BWBR0027125&g=2013-12-10"
-citeertitel_status: "officieel"
-entry_into_force: "2013-12-10"
+publicatiedatum: 2013-12-10
+laatste_update: 2013-12-10
+status: geldig
+toestand: 2013-12-10
+bron: "https://wetten.overheid.nl/BWBR0027125"
+opgehaald: 2026-08-14
 ---
+
 # Beleidsregel Boete werknemer 2010
-
-Gelet op [artikel 27a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40 Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), de [artikelen 3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [artikel 14a van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a) en het [Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- a. *WW:*
+ [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- b. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- b. *ZW:*
+ [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- c. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- c. *WAO:*
+ [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- d. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+- d. *WAZ:*
+ [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- e. **Wet Wajong:** [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- e. *Wet Wajong:*
+ [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- f. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- f. *Wet WIA:*
+ [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-- g. **Wazo:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+- g. *Wazo:*
+ [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-- h. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+- h. *TW:*
+ [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- i. **Wet IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+- i. *Wet IOW:*
+ [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-- j. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- j. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- k. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- k. *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
-- l. **basis boetebedrag:** het boetebedrag vastgesteld volgens [artikel 2 van het Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2);
+- l. *basis boetebedrag:* het boetebedrag vastgesteld volgens [artikel 2 van het Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2);
 
-- m. **afstemming:** de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in [artikel 5:46, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
+- m. *afstemming:* de verplichting om in elk individueel geval het boetebedrag vast te stellen in evenredigheid tot de ernst van de gedraging, de mate van verwijtbaarheid en de omstandigheden waarin de belanghebbende verkeert, bedoeld in [artikel 5:46, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
 
-- n. **inlichtingenverplichting:** de verplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7) en [3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [artikel 12 van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12);
+- n. *inlichtingenverplichting:* de verplichting, genoemd in [artikel 25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [artikel 80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [artikelen 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7) en [3:74 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:47), [artikel 27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [artikel 12 van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12) en [artikel 12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12);
 
-- o. **boete:** de boete, genoemd in [artikel 27a, eerste lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikel 2:69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [artikel 3:40, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, eerste lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a);
+- o. *boete:* de boete, genoemd in [artikel 27a, eerste lid van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikel 2:69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [artikel 3:40, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, eerste lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, eerste lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a);
 
-- p. **waarschuwing:** de waarschuwing, genoemd in [artikel 27a, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), [artikel 29a, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, tweede lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40, tweede lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, tweede lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a).
+- p. *waarschuwing:* de waarschuwing, genoemd in [artikel 27a, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 45a, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), [artikel 29a, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, tweede lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40, tweede lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [artikel 21, tweede lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21) en [artikel 14a, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a).
 
 ##### Artikel 2. Afstemming
 
@@ -138,14 +125,10 @@ Indien de inlichtingenverplichting opzettelijk is overtreden wordt niet volstaan
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 31 december 2009.
 
-##### Artikel 14. Citeertitel
-
-Dit besluit wordt aangehaald als: Beleidsregel Boete werknemer 2010.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 13a
 
 Met ingang van 1 januari 2013 geldt deze beleidsregel alleen nog maar voor gevallen die, op grond van het in de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) van 4 oktober 2012 (Staatsblad 462, 2012) opgenomen overgangsrecht, nog onder het recht, geldend op 31 december 2012, vallen.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 14. Citeertitel
+
+Dit besluit wordt aangehaald als: Beleidsregel Boete werknemer 2010.

@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 november 2009, nr. HO&S/BL/165742, houdende instelling van de Commissie Associate degree (Instellingsbesluit Commissie Associate degree)"
+citeertitel: "Instellingsbesluit Commissie Associate degree"
 identifier: "BWBR0026738"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-12-02"
-last_updated: "2009-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026738"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10292303"
-version_id: "16864302"
-internal_id: "C23220441"
-label_id: "10267764"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026738/2009-12-02/0"
-intitule_bron: "Stcrt.2009-18303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-17"
-intitule_published: "2009-12-01"
-intitule_in_force: "2009-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-18303"
-original_signed_date: "2009-11-17"
-original_published_date: "2009-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-18303"
-entry_into_force_date: "2009-12-02"
-jci_1_3: "jci1.3:c:BWBR0026738&z=2009-12-02&g=2009-12-02"
-jci_1_0: "1.0:c:BWBR0026738&g=2009-12-02"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Associate degree"
-signed_date: "2009-11-17"
-entry_into_force: "2009-12-02"
+publicatiedatum: 2009-12-02
+laatste_update: 2009-12-02
+status: geldig
+toestand: 2009-12-02
+bron: "https://wetten.overheid.nl/BWBR0026738"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 november 2009, nr. HO&S/BL/165742, houdende instelling van de Commissie Associate degree (Instellingsbesluit Commissie Associate degree)
-
-Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **staatssecretaris:** Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
+- b. *staatssecretaris:* Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-- c. **commissie:** commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026738&artikel=2&z=2009-12-02&g=2009-12-02).
+- c. *commissie:* commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026738&artikel=2&z=2009-12-02&g=2009-12-02).
 
 ##### Artikel 2. Instelling en taak
 
@@ -105,5 +79,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Associate degree.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

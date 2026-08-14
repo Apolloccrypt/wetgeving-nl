@@ -1,66 +1,37 @@
 ---
 title: "Beschikking van de Minister van Justitie van 7 december 2009, nr. 5631620/09/DSP, houdende verlening van een vergunning tot het organiseren van een loterij (Beschikking SNL Loterij 2009)"
+citeertitel: "Beschikking SNL Loterij 2009"
 identifier: "BWBR0026979"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026979"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "10353073"
-version_id: "17003572"
-internal_id: "C23454701"
-label_id: "10328374"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026979/2010-01-01/0"
-intitule_bron: "Stcrt.2009-20235"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-07"
-intitule_published: "2009-12-30"
-intitule_in_force: "2009-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20235"
-original_signed_date: "2009-12-07"
-original_published_date: "2009-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20235"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026979&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0026979&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking SNL Loterij 2009"
-signed_date: "2009-12-07"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0026979"
+opgehaald: 2026-08-14
 ---
+
 # Beschikking van de Minister van Justitie van 7 december 2009, nr. 5631620/09/DSP, houdende verlening van een vergunning tot het organiseren van een loterij (Beschikking SNL Loterij 2009)
-
-Gelezen het verzoek van de Stichting Samenwerkende non-profit Loterijen van 20 juli 2009 haar vergunning te verlenen voor het openstellen van een gelegenheid als bedoeld in [artikel 1, onder a, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1);
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3) en [5 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2) en [5 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=5);
-
-Gezien het advies van het College van toezicht op de kansspelen van 30 september 2009, nr. C.697/09;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **het besluit:** het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067)
+- b. *het besluit:* het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067)
 
-- c. **de minister:** de Minister van Justitie;
+- c. *de minister:* de Minister van Justitie;
 
-- d. **de stichting:** de Stichting Samenwerkende non-profit Loterijen, gevestigd te Tilburg;
+- d. *de stichting:* de Stichting Samenwerkende non-profit Loterijen, gevestigd te Tilburg;
 
-- e. **het college:** het College van toezicht op de kansspelen bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- e. *het college:* het College van toezicht op de kansspelen bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- f. **SNL Loterij:** een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), georganiseerd door de stichting, waarbij de deelnemers mededingen naar prijzen die door trekking worden verkregen.
+- f. *SNL Loterij:* een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), georganiseerd door de stichting, waarbij de deelnemers mededingen naar prijzen die door trekking worden verkregen.
 
-- g. **trekking:** aanwijzing van één of meerdere winnende deelnamebewijzen.
+- g. *trekking:* aanwijzing van één of meerdere winnende deelnamebewijzen.
 
 ##### Artikel 2
 
@@ -146,15 +117,15 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 1. De afdracht komt, overeenkomstig een door de stichting in haar financieel reglement opgenomen verdeelsleutel, ten goede aan:
 
-- –. de aan de Grote Clubactie of Support Actie meewerkende verenigingen, stichtingen en instellingen, waarbij de afdracht wordt besteed overeenkomstig hun statutaire doelstellingen;
+- – de aan de Grote Clubactie of Support Actie meewerkende verenigingen, stichtingen en instellingen, waarbij de afdracht wordt besteed overeenkomstig hun statutaire doelstellingen;
 
-- –. Stichting Koningin Wilhelmina Fonds voor de Nederlandse Kankerbestrijding, gevestigd te Amsterdam;
+- – Stichting Koningin Wilhelmina Fonds voor de Nederlandse Kankerbestrijding, gevestigd te Amsterdam;
 
-- –. Scouting Nederland, gevestigd te Leusden, alsmede de bij Scouting Nederland aangesloten plaatselijke scoutinggroepen;
+- – Scouting Nederland, gevestigd te Leusden, alsmede de bij Scouting Nederland aangesloten plaatselijke scoutinggroepen;
 
-- –. Stichting Nationaal Jeugd Fonds Jantje Beton, gevestigd te Utrecht;
+- – Stichting Nationaal Jeugd Fonds Jantje Beton, gevestigd te Utrecht;
 
-- –. Nationale Vereniging De Zonnebloem, gevestigd te Breda.
+- – Nationale Vereniging De Zonnebloem, gevestigd te Breda.
 
 2. Uiterlijk binnen drie maanden na afloop van een kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het eerste lid genoemde verenigingen, stichtingen en instellingen. Daarvan doet de stichting verslag in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=14&z=2010-01-01&g=2010-01-01), bedoelde jaarrekening die betrekking heeft op het kalenderjaar waarin de opbrengst van de loterij is gegenereerd.
 

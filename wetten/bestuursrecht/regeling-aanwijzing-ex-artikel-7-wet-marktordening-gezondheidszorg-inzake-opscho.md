@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 22 juli 2009, nr. MEVA/NBO-2936858, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake opschoning in verband met het opleidingsfonds AWBZ en Zvw"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake opschoning in verband met het opleidingsfonds AWBZ en Zvw"
 identifier: "BWBR0026198"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-30"
-last_updated: "2009-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026198"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "10145993"
-version_id: "16595852"
-internal_id: "C22849341"
-label_id: "10122114"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026198/2009-07-30/0"
-intitule_bron: "Stcrt.2009-11551"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-22"
-intitule_published: "2009-07-30"
-intitule_in_force: "2009-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-11551"
-original_signed_date: "2009-07-22"
-original_published_date: "2009-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-11551"
-entry_into_force_date: "2009-07-30"
-jci_1_3: "jci1.3:c:BWBR0026198&z=2009-07-30&g=2009-07-30"
-jci_1_0: "1.0:c:BWBR0026198&g=2009-07-30"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake opschoning in verband met het opleidingsfonds AWBZ en Zvw"
-signed_date: "2009-07-22"
-entry_into_force: "2009-07-30"
+publicatiedatum: 2009-07-30
+laatste_update: 2009-07-30
+status: geldig
+toestand: 2009-07-30
+bron: "https://wetten.overheid.nl/BWBR0026198"
+opgehaald: 2026-08-14
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 22 juli 2009, nr. MEVA/NBO-2936858, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake opschoning in verband met het opleidingsfonds AWBZ en Zvw
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 18 oktober 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, vergaderjaar 2007/08, 29 282, nr. 45);
-
-Besluit:
 
 ##### Artikel 1
 

@@ -1,67 +1,43 @@
 ---
 title: "Tariefbeschikking kraamzorg Nederlandse Zorgautoriteit"
 identifier: "BWBR0026853"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-12-17"
-last_updated: "2009-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026853"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10318883"
-version_id: "16915072"
-internal_id: "C23315121"
-label_id: "10294324"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026853/2009-12-17/0"
-intitule_bron: "Stcrt.2009-19532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-05"
-intitule_published: "2009-12-17"
-intitule_in_force: "2009-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19532"
-original_signed_date: "2009-12-05"
-original_published_date: "2009-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19532"
-entry_into_force_date: "2009-12-17"
-jci_1_3: "jci1.3:c:BWBR0026853&z=2009-12-17&g=2009-12-17"
-jci_1_0: "1.0:c:BWBR0026853&g=2009-12-17"
-citeertitel_status: "redactioneel"
-signed_date: "2009-12-05"
-entry_into_force: "2009-12-17"
+publicatiedatum: 2009-12-17
+laatste_update: 2009-12-17
+status: geldig
+toestand: 2009-12-17
+bron: "https://wetten.overheid.nl/BWBR0026853"
+opgehaald: 2026-08-14
 ---
+
 # Tariefbeschikking kraamzorg Nederlandse Zorgautoriteit
-
-heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4)
-
-**op basis van de beleidsregel:**
-
-Tariefstructuur kraamzorg
-
-**en gelet op:**
-
-[artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) juncto [artikel 52 lid 5 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52)
-
-**besloten:**
 
 dat rechtsgeldig
 
-**door:**
+*door:*
 
 zorgaanbieders die kraamzorg bieden als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
-**aan:**
+*aan:*
 
 alle ziektekostenverzekeraars en alle (niet-)verzekerden
 
-**prestatiebeschrijving en bijbehorend tarief (in euro’s):**
+*prestatiebeschrijving en bijbehorend tarief (in euro’s):*
 
 de volgende tarieven, vermeld achter de desbetreffende prestaties in rekening kunnen worden gebracht.
 
 De tarieven kunnen elk als maximumtarief in rekening worden gebracht.
+
+|  |  |  |
+| --- | --- | --- |
+| Per uur kraamzorg1 | € | 41,21 |
+| Per uur partusassistentie | € | 41,21 |
+| Per inschrijving | € | 38,22 |
+| Per intake2 |  |  |
+| − of bij de cliënt thuis | € | 57,33 |
+| − of telefonisch | € | 19,12 |
+| Per partusassistentie3 | € | 76,45 |
 
 1 Kraamzorg zoals omschreven in [artikel 2.12 van het besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12).
 
@@ -80,6 +56,14 @@ Kraamzorg zoals omschreven in [artikel 2.12 van het Besluit zorgverzekering](htt
 ### Inschrijving
 
 Onder inschrijving worden de volgende handelingen verstaan:
+
+- – het verwerken van de (telefonische) aanmelding;
+
+- – het toesturen van informatiemateriaal en het inschrijfformulier;
+
+- – op basis van het ingevulde inschrijfformulier verrichten van diverse administratieve handelingen;
+
+- – het plannen van het op termijn in te zetten personeel.
 
 ### Intake bij de cliënt thuis en telefonische intake
 

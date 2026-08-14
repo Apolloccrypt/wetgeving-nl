@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling eisen praktijkexamens rijbewijscategorie AM (Regeling praktijkexamens rijbewijscategorie AM)"
+citeertitel: "Regeling eisen praktijkexamens rijbewijscategorie AM"
 identifier: "BWBR0027266"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-01"
-last_updated: "2010-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027266"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10431393"
-version_id: "17156962"
-internal_id: "C23670741"
-label_id: "10406714"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027266/2010-03-01/0"
-intitule_bron: "Stcrt.2010-2506"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-02-02"
-intitule_published: "2010-02-19"
-intitule_in_force: "2010-02-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-2506"
-original_signed_date: "2010-02-02"
-original_published_date: "2010-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-2506"
-entry_into_force_date: "2010-03-01"
-jci_1_3: "jci1.3:c:BWBR0027266&z=2010-03-01&g=2010-03-01"
-jci_1_0: "1.0:c:BWBR0027266&g=2010-03-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen praktijkexamens rijbewijscategorie AM"
-signed_date: "2010-02-02"
-entry_into_force: "2010-03-01"
+publicatiedatum: 2010-03-01
+laatste_update: 2010-03-01
+status: geldig
+toestand: 2010-03-01
+bron: "https://wetten.overheid.nl/BWBR0027266"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling eisen praktijkexamens rijbewijscategorie AM (Regeling praktijkexamens rijbewijscategorie AM)
-
-Gelet op [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -191,5 +165,3 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorie AM.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,56 +1,32 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)"
+citeertitel: "Instellingsbesluit Rathenau Instituut"
 identifier: "BWBR0026157"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-07-24"
-last_updated: "2009-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026157"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10137343"
-version_id: "16574042"
-internal_id: "C22822721"
-label_id: "10113464"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026157/2009-07-24/0"
-intitule_bron: "Stcrt.2009-11024"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-03"
-intitule_published: "2009-07-22"
-intitule_in_force: "2009-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-11024"
-original_signed_date: "2009-07-03"
-original_published_date: "2009-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-11024"
-entry_into_force_date: "2009-07-24"
-jci_1_3: "jci1.3:c:BWBR0026157&z=2009-07-24&g=2009-07-24"
-jci_1_0: "1.0:c:BWBR0026157&g=2009-07-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Rathenau Instituut"
-signed_date: "2009-07-03"
-entry_into_force: "2009-07-24"
+publicatiedatum: 2009-07-24
+laatste_update: 2009-07-24
+status: geldig
+toestand: 2009-07-24
+bron: "https://wetten.overheid.nl/BWBR0026157"
+opgehaald: 2026-08-14
 ---
-# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)
 
-Besluit:
+# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **Instituut:** het instituut, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026157&artikel=2&z=2009-07-24&g=2009-07-24) van dit besluit;
+- b. *Instituut:* het instituut, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026157&artikel=2&z=2009-07-24&g=2009-07-24) van dit besluit;
 
-- c. **KNAW:** de Koninklijke Akademie van Wetenschappen, gevestigd te Amsterdam;
+- c. *KNAW:* de Koninklijke Akademie van Wetenschappen, gevestigd te Amsterdam;
 
-- d. **WRR:** de Wetenschappelijke Raad voor het Regeringsbeleid, gevestigd te Den Haag;
+- d. *WRR:* de Wetenschappelijke Raad voor het Regeringsbeleid, gevestigd te Den Haag;
 
-- e. **WHW:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- e. *WHW:* de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2. Instelling
 
@@ -155,5 +131,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Rathenau Instituut.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2009, nr. WJZ/172902 (2709), houdende regels voor het verstrekken van subsidie ten behoeve van het volgen van een certificeringsprocedure door gastouders kinderopvang (Subsidieregeling goed gastouderschap kinderopvang 2010)"
+citeertitel: "Subsidieregeling goed gastouderschap kinderopvang 2010"
 identifier: "BWBR0026796"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-14"
-last_updated: "2010-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026796"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10305633"
-version_id: "16886622"
-internal_id: "C23257901"
-label_id: "10281234"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026796/2010-10-14/0"
-intitule_bron: "Stcrt.2009-18809"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-30"
-intitule_published: "2009-12-10"
-intitule_in_force: "2009-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-18809"
-original_signed_date: "2009-11-30"
-original_published_date: "2009-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-18809"
-entry_into_force_date: "2009-12-11"
-jci_1_3: "jci1.3:c:BWBR0026796&z=2010-10-14&g=2010-10-14"
-jci_1_0: "1.0:c:BWBR0026796&g=2010-10-14"
-citeertitel_status: "redactioneel"
-short_title: "Subsidieregeling goed gastouderschap kinderopvang 2010"
-signed_date: "2009-11-30"
-entry_into_force: "2009-12-11"
+publicatiedatum: 2009-12-11
+laatste_update: 2010-10-14
+status: geldig
+toestand: 2010-10-14
+bron: "https://wetten.overheid.nl/BWBR0026796"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2009, nr. WJZ/172902 (2709), houdende regels voor het verstrekken van subsidie ten behoeve van het volgen van een certificeringsprocedure door gastouders kinderopvang (Subsidieregeling goed gastouderschap kinderopvang 2010)
-
-Gelet op [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2), juncto [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), en [artikel 10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10), alsmede [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **gastouderbureau:** gastouderbureau waarop [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
+- b. *gastouderbureau:* gastouderbureau waarop [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
 
-- c. **gastouder:** gastouder op wie [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
+- c. *gastouder:* gastouder op wie [artikel 3.2 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.2) van toepassing is;
 
-- d. **certificaat goed gastouderschap:** bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), specifiek gericht op gastouderopvang;
+- d. *certificaat goed gastouderschap:* bewijs van het met goed gevolg hebben doorlopen van een certificeringsprocedure goed gastouderschap waaruit blijkt dat de houder voor een voorziening voor gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) voldoet aan de competenties, behorende bij de beroepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), specifiek gericht op gastouderopvang;
 
-- f. **certificeringsprocedure:** geheel van processtappen en gehanteerde instrumenten waarmee een aanbieder de verworven competenties van personen beoordeelt ten opzichte van een specifieke landelijke standaard, uitgevoerd conform de EVC-code;
+- f. *certificeringsprocedure:* geheel van processtappen en gehanteerde instrumenten waarmee een aanbieder de verworven competenties van personen beoordeelt ten opzichte van een specifieke landelijke standaard, uitgevoerd conform de EVC-code;
 
-- g. **aanbieder:** erkende EVC-aanbieder, die volgens de principes en uitgangspunten van de EVC-code certificeringsprocedures aanbiedt en als zodanig is opgenomen in het register van erkende EVC-aanbieders, bedoeld in de EVC-code, of organisatie die in het kalenderjaar 2009 in dit register was opgenomen;
+- g. *aanbieder:* erkende EVC-aanbieder, die volgens de principes en uitgangspunten van de EVC-code certificeringsprocedures aanbiedt en als zodanig is opgenomen in het register van erkende EVC-aanbieders, bedoeld in de EVC-code, of organisatie die in het kalenderjaar 2009 in dit register was opgenomen;
 
-- h. **BKK:** Stichting Bureau Kwaliteit Kinderopvang, gevestigd te Utrecht;
+- h. *BKK:* Stichting Bureau Kwaliteit Kinderopvang, gevestigd te Utrecht;
 
-- i. **werkelijke kosten van de certificeringsprocedure:** de netto kosten die het gastouderbureau betaalt aan de aanbieder voor de certificeringsprocedure, niet zijnde de vergoeding die de aanbieder betaalt aan het gastouderbureau of aan de gastouder voor activiteiten die door het gastouderbureau of de gastouder worden verricht in het kader van de certificeringsprocedure.
+- i. *werkelijke kosten van de certificeringsprocedure:* de netto kosten die het gastouderbureau betaalt aan de aanbieder voor de certificeringsprocedure, niet zijnde de vergoeding die de aanbieder betaalt aan het gastouderbureau of aan de gastouder voor activiteiten die door het gastouderbureau of de gastouder worden verricht in het kader van de certificeringsprocedure.
 
 ##### Artikel 2. Doelomschrijving
 
@@ -223,5 +197,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling goed gastouderschap kinderopvang 2010.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

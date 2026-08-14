@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 oktober 2009 tot herindeling van de gemeenten Rotterdam en Rozenburg"
+citeertitel: "Wet herindeling gemeenten Rotterdam en Rozenburg"
 identifier: "BWBR0026599"
-country: "nl"
-rank: "wet"
-publication_date: "2010-10-01"
-last_updated: "2010-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026599"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10265883"
-version_id: "16801432"
-internal_id: "C23132441"
-label_id: "10241374"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026599/2010-10-01/0"
-intitule_bron: "Stb.2009-456"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-29"
-intitule_published: "2009-11-10"
-intitule_in_force: "2009-11-10"
-intitule_status: "goed"
-original_publication: "Stb.2009-456"
-original_signed_date: "2009-10-29"
-original_published_date: "2009-11-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "31916"
-original_url_id: "stb-2009-456"
-entry_into_force_date: "2009-11-11"
-entry_into_force_dossier: "31916"
-jci_1_3: "jci1.3:c:BWBR0026599&z=2010-10-01&g=2010-10-01"
-jci_1_0: "1.0:c:BWBR0026599&g=2010-10-01"
-citeertitel_status: "redactioneel"
-short_title: "Wet herindeling gemeenten Rotterdam en Rozenburg"
-signed_date: "2009-10-29"
-entry_into_force: "2009-11-11"
+publicatiedatum: 2009-11-11
+laatste_update: 2010-10-01
+status: geldig
+toestand: 2010-10-01
+bron: "https://wetten.overheid.nl/BWBR0026599"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 29 oktober 2009 tot herindeling van de gemeenten Rotterdam en Rozenburg
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeente Rozenburg door een grenswijziging toe te voegen aan de gemeente Rotterdam;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en grenswijziging van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling wordt de gemeente Rozenburg opgeheven.
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de op te heffen gemeente Rozenburg toegevoegd aan de gemeente Rotterdam door een grenswijziging van de gemeente Rotterdam, zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de op te heffen gemeente Rozenburg toegevoegd aan de gemeente Rotterdam door een grenswijziging van de gemeente Rotterdam, zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0026599).
 
 ##### Artikel 3
 
@@ -90,16 +60,12 @@ In [artikel 7, vierde lid, van de Wet op de rechterlijke indeling](https://wette
 
 ##### Artikel 8
 
-In de [bijlage](onbekend), genoemd in [artikel 21, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21) vervalt met ingang van de datum van herindeling in het gestelde onder «Rotterdam-Rijnmond», «Rozenburg».
+In de [bijlage](https://wetten.overheid.nl/BWBR0006299), genoemd in [artikel 21, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21) vervalt met ingang van de datum van herindeling in het gestelde onder «Rotterdam-Rijnmond», «Rozenburg».
 
 ##### Artikel 9
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 10
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Bijlage. Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026599&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

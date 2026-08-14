@@ -1,43 +1,17 @@
 ---
 title: "Regeling geluidniveaus aan boord van vissersvaartuigen"
 identifier: "BWBR0027070"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027070"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10386513"
-version_id: "17088312"
-internal_id: "C23575291"
-label_id: "10362184"
-dtd_version: "2.0"
-original_entry_into_force: "2000-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027070/2017-01-01/0"
-intitule_bron: "Stcrt.2000-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-08-17"
-intitule_published: "2000-09-01"
-intitule_in_force: "2000-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2000-169"
-original_signed_date: "2000-08-17"
-original_published_date: "2000-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2000-169-p8-SC25400"
-entry_into_force_date: "2000-11-01"
-jci_1_3: "jci1.3:c:BWBR0027070&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0027070&g=2017-01-01"
-citeertitel_status: "officieel"
-signed_date: "2000-08-17"
-entry_into_force: "2000-11-01"
+publicatiedatum: 2000-11-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0027070"
+opgehaald: 2026-08-14
 ---
+
 # Regeling geluidniveaus aan boord van vissersvaartuigen
-
-Gelet op [artikel 193b, vierde lid, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=193b);
-
-Besluit:
 
 #### § 1. Omschrijvingen
 
@@ -63,9 +37,9 @@ In deze regeling wordt verstaan onder:
 
 - i. geluiddrukniveau: een maat voor het geluidniveau, behorende bij een bepaalde frequentie, op een logaritmische schaal weergegeven door: L = 20log(p/po) dB waarin:
 
-- p = de effectieve waarde van de gemeten geluiddruk tussen 20 Hz en 20 kHz,
+   - p = de effectieve waarde van de gemeten geluiddruk tussen 20 Hz en 20 kHz,
 
-- po = referentiewaarde = 20*10-6 pascal.
+   - po = referentiewaarde = 20*10-6 pascal.
 
 #### § 2. Maximaal toelaatbare grenswaarden
 
@@ -111,7 +85,7 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 1. Met gehoorbeschermingsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01) worden ten minste de in onderstaande tabel vermelde niveauverlagingen verkregen. De niveauverlaging, die getoetst wordt aan de waarde in de tabel, wordt verkregen door de gemiddelde waarde van de met de gehoorbeschermingsmiddelen verkregen niveauverlaging te verminderen met de standaardafwijking, gemeten volgens de ISO-Norm 4969.
 
-|   | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) |
+|  | Middenfrequentie van de octaafbanden (in Hz) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Type gehoorbeschermingsmiddel | 125 | 250 | 500 | 1.000 | 2.000 | 3.150 | 4.000 | 6.300 |
 | Oordoppen | 0 | 5 | 10 | 15 | 22 | 22 | 22 | 22 |
@@ -312,5 +286,3 @@ Deze regeling treedt voor Nederland en Aruba in werking met ingang van de eerste
 ##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling geluidniveaus aan boord van vissersvaartuigen.
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.

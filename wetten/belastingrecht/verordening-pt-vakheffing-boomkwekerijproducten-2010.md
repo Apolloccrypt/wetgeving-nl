@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het Productschap Tuinbouw van 30 juni 2009, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2010)"
+citeertitel: "Verordening PT vakheffing boomkwekerijproducten 2010"
 identifier: "BWBR0027385"
-country: "nl"
-rank: "pbo"
-publication_date: "2010-02-14"
-last_updated: "2010-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027385"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "10459943"
-version_id: "17204762"
-internal_id: "C23735741"
-label_id: "10435134"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027385/2010-02-14/0"
-intitule_bron: "Vbbo.2010-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-30"
-intitule_published: "2010-02-12"
-intitule_in_force: "2010-02-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2010-9"
-original_signed_date: "2009-06-30"
-original_published_date: "2010-02-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2010-02-14"
-jci_1_3: "jci1.3:c:BWBR0027385&z=2010-02-14&g=2010-02-14"
-jci_1_0: "1.0:c:BWBR0027385&g=2010-02-14"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing boomkwekerijproducten 2010"
-signed_date: "2009-06-30"
-entry_into_force: "2010-02-14"
+publicatiedatum: 2010-02-14
+laatste_update: 2010-02-14
+status: geldig
+toestand: 2010-02-14
+bron: "https://wetten.overheid.nl/BWBR0027385"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van het Productschap Tuinbouw van 30 juni 2009, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2010)
-
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikel 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Commissie voor boomkwekerijproducten, d.d. 20 mei 2009;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -53,8 +24,8 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 | --- | --- | --- |
 | b. | boomkwekerijproducten: | winterharde en half-winterharde houtgewassen, die niet vervroegd of verlaat zijn, alsmede delen daarvan en voorts vaste planten en wortelstokken; |
 | c. | heffingsgrondslag: | het verkoopbedrag van de in een kalenderjaar verhandelde en afgeleverde boomkwekerijproducten, verminderd met het inkoopbedrag van de in hetzelfde kalenderjaar ingekochte boomkwekerijproducten. Op dit verschil kunnen in mindering worden gebracht: |
-|   |   | 1. de vrachtkosten |
-|   |   | 2. de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie; |
+|  |  | 1. de vrachtkosten |
+|  |  | 2. de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie; |
 | d. | inkoopbedrag: | het bruto inkoopfactuurbedrag (eindbedrag van de factuur) waarover de BTW wordt berekend; |
 | e. | jaarmutatie: | inflatie over een jaar in procenten volgens de consumentenprijsindex van het CBS in de maand januari; |
 | f. | kweken van boomkwekerijproducten: | het ter verkrijging van een oogst van boomkwekerijproducten brengen, hebben of houden in al dan niet overdekte grond van boomkwekerijproducten of van zaden, stekken of ander plantmateriaal daarvan, alsmede het ter bevordering van het verkrijgen van een oogst van boomkwekerijproducten, verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van boomkwekerijproducten, respectievelijk de zaden, stekken of ander plantmateriaal daarvan; |

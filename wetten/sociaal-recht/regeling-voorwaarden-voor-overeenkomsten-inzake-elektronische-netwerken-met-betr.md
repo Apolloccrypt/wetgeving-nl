@@ -1,67 +1,41 @@
 ---
 title: "Regeling voorwaarden voor overeenkomsten inzake elektronische netwerken met betrekking tot zorg"
 identifier: "BWBR0026950"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-12-25"
-last_updated: "2009-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026950"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10343533"
-version_id: "16985082"
-internal_id: "C23420941"
-label_id: "10318754"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026950/2009-12-25/0"
-intitule_bron: "Stcrt.2009-20257"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-01"
-intitule_published: "2009-12-24"
-intitule_in_force: "2009-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20257"
-original_signed_date: "2009-12-01"
-original_published_date: "2009-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20257"
-entry_into_force_date: "2009-12-25"
-jci_1_3: "jci1.3:c:BWBR0026950&z=2009-12-25&g=2009-12-25"
-jci_1_0: "1.0:c:BWBR0026950&g=2009-12-25"
-citeertitel_status: "officieel"
-signed_date: "2009-12-01"
-entry_into_force: "2009-12-25"
+publicatiedatum: 2009-12-25
+laatste_update: 2009-12-25
+status: geldig
+toestand: 2009-12-25
+bron: "https://wetten.overheid.nl/BWBR0026950"
+opgehaald: 2026-08-14
 ---
+
 # Regeling voorwaarden voor overeenkomsten inzake elektronische netwerken met betrekking tot zorg
-
-Op 1 december 2009 heeft de Nederlandse Zorgautoriteit (NZa) op grond van [artikel 45 Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) de Regeling voorwaarden voor overeenkomsten inzake elektronische netwerken met betrekking tot zorg vastgesteld.
-
-Gelet op [artikel 45 Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) stelt de Nederlandse Zorgautoriteit de volgende regeling vast.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- 1. **de Wmg:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- 1. *de Wmg:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- 2. **zorgaanbieder:** een natuurlijke persoon of rechtspersoon zoals bedoeld in [artikel 1 onderdeel c sub 1 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) die beroeps- of bedrijfsmatig zorg verleent zoals bedoeld in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- 2. *zorgaanbieder:* een natuurlijke persoon of rechtspersoon zoals bedoeld in [artikel 1 onderdeel c sub 1 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) die beroeps- of bedrijfsmatig zorg verleent zoals bedoeld in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- 3. **elektronisch netwerk met betrekking tot zorg:** hiervan is sprake wanneer verschillende niet tot dezelfde economische eenheid behorende zorgaanbieders op basis van een onderlinge overeenkomst op elektronische wijze gegevens met betrekking tot zorg uitwisselen, teneinde:
+- 3. *elektronisch netwerk met betrekking tot zorg:* hiervan is sprake wanneer verschillende niet tot dezelfde economische eenheid behorende zorgaanbieders op basis van een onderlinge overeenkomst op elektronische wijze gegevens met betrekking tot zorg uitwisselen, teneinde:
 
-- a. patiëntengegevens uit te wisselen;
+   - a. patiëntengegevens uit te wisselen;
 
-- b. medicatiegegevens uit te wisselen;
+   - b. medicatiegegevens uit te wisselen;
 
-- c. uitslagen van laboratoria (bloed-, faeces-, en urinetesten, röntgenfoto’s en functieonderzoeken) uit te wisselen;
+   - c. uitslagen van laboratoria (bloed-, faeces-, en urinetesten, röntgenfoto’s en functieonderzoeken) uit te wisselen;
 
-- d. receptenverkeer mogelijk te maken;
+   - d. receptenverkeer mogelijk te maken;
 
-- e. door te verwijzen naar en afspraken te maken met een andere zorgaanbieder, inbegrepen het verstrekken van wachttijdgegevens.
+   - e. door te verwijzen naar en afspraken te maken met een andere zorgaanbieder, inbegrepen het verstrekken van wachttijdgegevens.
 
-- 4. **toegang:** de aansluiting van een zorgaanbieder op een elektroniscnetwerk met betrekking tot zorg zodat daarmee een effectief gebruik van dit netwerk mogelijk is.
+- 4. *toegang:* de aansluiting van een zorgaanbieder op een elektroniscnetwerk met betrekking tot zorg zodat daarmee een effectief gebruik van dit netwerk mogelijk is.
 
-- 5. **zeggenschap:** door eigendom, gebruik, beheer of anderszins de zeggenschap hebben over het verlenen van toegang.
+- 5. *zeggenschap:* door eigendom, gebruik, beheer of anderszins de zeggenschap hebben over het verlenen van toegang.
 
 ##### Artikel 2. Algemene eisen
 
@@ -81,9 +55,9 @@ De bepalingen als bedoeld in het eerste lid omvatten ten minste voorwaarden inza
 
 - b. de wijze waarop verzoeken om toegang tijdig en adequaat in behandeling worden genomen, waarbij:
 
-- –. een termijn van ten hoogste twee weken wordt gehanteerd om aan te geven of een verzoek als volledig wordt gezien, alsmede,
+   - – een termijn van ten hoogste twee weken wordt gehanteerd om aan te geven of een verzoek als volledig wordt gezien, alsmede,
 
-- –. indien het verzoek volledig is, een termijn van ten hoogste twee weken wordt gehanteerd om uitsluitsel te geven of toegang wordt verstrekt;
+   - – indien het verzoek volledig is, een termijn van ten hoogste twee weken wordt gehanteerd om uitsluitsel te geven of toegang wordt verstrekt;
 
 - c. de wijze waarop een afwijzing van een verzoek om toegang wordt gemotiveerd, waarbij de gronden voor afwijzing slechts gelegen kunnen zijn in de voorwaarden van toegang;
 

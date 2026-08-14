@@ -1,51 +1,17 @@
 ---
 title: "Besluit instelling Commissie Overleg en Voorlichting Milieuhygiëne (COVM) Vliegbasis Woensdrecht"
 identifier: "BWBR0026246"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-10-01"
-last_updated: "2009-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026246"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10153313"
-version_id: "16609052"
-internal_id: "C22866831"
-label_id: "10129434"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026246/2009-10-01/0"
-intitule_bron: "Stcrt.2009-12107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-09"
-intitule_published: "2009-08-13"
-intitule_in_force: "2009-08-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-12107"
-original_signed_date: "2009-03-09"
-original_published_date: "2009-08-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-12107"
-entry_into_force_date: "2009-10-01"
-jci_1_3: "jci1.3:c:BWBR0026246&z=2009-10-01&g=2009-10-01"
-jci_1_0: "1.0:c:BWBR0026246&g=2009-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2009-03-09"
-entry_into_force: "2009-10-01"
+publicatiedatum: 2009-10-01
+laatste_update: 2009-10-01
+status: geldig
+toestand: 2009-10-01
+bron: "https://wetten.overheid.nl/BWBR0026246"
+opgehaald: 2026-08-14
 ---
+
 # Besluit instelling Commissie Overleg en Voorlichting Milieuhygiëne (COVM) Vliegbasis Woensdrecht
-
-Overwegende dat een commissie ten behoeve van overleg en voorlichting omtrent de milieuhygiëne rond het militaire luchtvaartterrein van de vliegbasis Woensdrecht kan functioneren als een doelmatige organisatie voor het opstellen van adviezen uit eigen hoofde of naar aanleiding van vragen of klachten aan de bevoegde instanties betreffende alle maatregelen en voorschriften ter vermindering van geluidhinder rond het luchtvaartterrein;
-
-Overwegende dat de vliegbasis Woensdrecht door de Minister van Defensie is aangewezen als militair luchtvaartterrein bij beschikking nr. 264.020/H van 3 januari 1962 (Stcrt. 34);
-
-Overwegende dat de geluidszone als weergave van de geluidsbelasting door startende en landende vliegtuigen voor de vliegbasis Woensdrecht is vastgelegd in het Structuurschema Militaire Terreinen;
-
-Handelende na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de besturen van de Provincies Noord-Brabant en Zeeland en de besturen van de gemeenten Woensdrecht, Bergen op Zoom, Roosendaal, Reimerswaal en Essen (B).
-
-Gelet op [artikel 28 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=28);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -102,7 +68,3 @@ De Commissie heeft als taak:
 ##### Artikel 5
 
 Het secretariaat wordt gevoerd door een door de Staatssecretaris van Defensie aan te wijzen ambtenaar.
-
-Deze beschikking wordt geplaatst in de Staatscourant.
-
-Afschrift van de beschikking wordt gezonden aan betrokkenen, de Algemene Rekenkamer en het secretariaat.

@@ -1,59 +1,29 @@
 ---
 title: "Instellingsbesluit Stuurgroep decentralisatie Friese taal naar de provincie Fryslân"
 identifier: "BWBR0025936"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-06-13"
-last_updated: "2009-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025936"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "10059263"
-version_id: "16439742"
-internal_id: "C22605371"
-label_id: "10035604"
-dtd_version: "2.0"
-original_entry_into_force: "2009-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025936/2009-06-13/0"
-intitule_bron: "Stcrt.2009-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-05-26"
-intitule_published: "2009-06-11"
-intitule_in_force: "2009-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-105"
-original_signed_date: "2009-05-26"
-original_published_date: "2009-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-8600"
-entry_into_force_date: "2009-06-13"
-jci_1_3: "jci1.3:c:BWBR0025936&z=2009-06-13&g=2009-06-13"
-jci_1_0: "1.0:c:BWBR0025936&g=2009-06-13"
-citeertitel_status: "officieel"
-signed_date: "2009-05-26"
-entry_into_force: "2009-06-13"
+publicatiedatum: 2009-06-13
+laatste_update: 2009-06-13
+status: geldig
+toestand: 2009-06-13
+bron: "https://wetten.overheid.nl/BWBR0025936"
+opgehaald: 2026-08-14
 ---
+
 # Instellingsbesluit Stuurgroep decentralisatie Friese taal naar de provincie Fryslân
-
-Mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Gelet op het bestuursakkoord Rijk-provincies 2008–2011, tot stand gekomen op 4 juni 2008;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **stuurgroep:** Stuurgroep decentralisatie Friese taal naar de provincie Fryslân;
+- a. *stuurgroep:* Stuurgroep decentralisatie Friese taal naar de provincie Fryslân;
 
-- b. **bestuursakkoord:** bestuursakkoord Rijk-provincies 2008–2011;
+- b. *bestuursakkoord:* bestuursakkoord Rijk-provincies 2008–2011;
 
-- c. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **Staatssecretaris:** de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties.
+- d. *Staatssecretaris:* de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
@@ -75,17 +45,17 @@ Er is een Stuurgroep decentralisatie Friese taal naar de provincie Fryslân.
 
 1. De stuurgroep bestaat uit de volgende leden:
 
-- −. dhr. mr. R.J. Hoekstra (voorzitter)
+- − dhr. mr. R.J. Hoekstra (voorzitter)
 
-- −. mw. drs. M.J. Sanders-ten Holte
+- − mw. drs. M.J. Sanders-ten Holte
 
-- −. dhr. prof.dr. J. de Ridder
+- − dhr. prof.dr. J. de Ridder
 
-- −. mw. drs. M.C.M. Waanders
+- − mw. drs. M.C.M. Waanders
 
-- −. dhr. prof.dr. P.J.J. Zoontjens
+- − dhr. prof.dr. P.J.J. Zoontjens
 
-- −. dhr. dr. R. Bagchus.
+- − dhr. dr. R. Bagchus.
 
 2. De Minister benoemt en ontslaat de voorzitter en leden van de stuurgroep.
 
@@ -108,5 +78,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Stuurgroep decentralisatie Friese taal naar de provincie Fryslân.
-
-Dit besluit zal, met toelichting, in de Nederlandse en de Friese taal in de Staatscourant worden geplaatst.

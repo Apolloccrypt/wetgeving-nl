@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 januari 2010, houdende regels voor vergoedingen van luchtvaartnavigatiediensten ter uitvoering van Verordening (EG) nr. 1794/2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten (PbEU L 341) (Besluit vergoedingen luchtvaartnavigatiediensten 2010)"
+citeertitel: "Besluit vergoedingen luchtvaartnavigatiediensten 2010"
 identifier: "BWBR0027134"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-01-30"
-last_updated: "2010-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027134"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "10406503"
-version_id: "17116882"
-internal_id: "C23621581"
-label_id: "10382034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027134/2010-01-30/0"
-intitule_bron: "Stb.2010-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-20"
-intitule_published: "2010-01-29"
-intitule_in_force: "2010-01-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-27"
-original_signed_date: "2010-01-20"
-original_published_date: "2010-01-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-27"
-entry_into_force_date: "2010-01-30"
-jci_1_3: "jci1.3:c:BWBR0027134&z=2010-01-30&g=2010-01-30"
-jci_1_0: "1.0:c:BWBR0027134&g=2010-01-30"
-citeertitel_status: "officieel"
-short_title: "Besluit vergoedingen luchtvaartnavigatiediensten 2010"
-signed_date: "2010-01-20"
-entry_into_force: "2010-01-30"
+publicatiedatum: 2010-01-30
+laatste_update: 2010-01-30
+status: geldig
+toestand: 2010-01-30
+bron: "https://wetten.overheid.nl/BWBR0027134"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 20 januari 2010, houdende regels voor vergoedingen van luchtvaartnavigatiediensten ter uitvoering van Verordening (EG) nr. 1794/2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten (PbEU L 341) (Besluit vergoedingen luchtvaartnavigatiediensten 2010)
-
-Op de voordracht van Onze Minister van Verkeer en Waterstaat van 2 december 2009, nr. CEND/HDJZ-2009/1433 sector LUV, Hoofddirectie Juridische Zaken;
-
-Gelet op de vergoedingenverordening en de [artikelen 5.20, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.20), en [5.21, eerste en tweede lid, Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.21);
-
-De Raad van State gehoord (advies van 16 december 2009, nr. W09.09.0516/IV);
-
-Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 14 januari 2010, nr. CEND/HDJZ-2009/1629 sector LUV, Hoofddirectie Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **NSA Amsterdam:** gebied zoals gedefinieerd in de door LVNL uitgegeven luchtvaartgids, volume I, hoofdstuk ENR 6-2-5.
+- *NSA Amsterdam:* gebied zoals gedefinieerd in de door LVNL uitgegeven luchtvaartgids, volume I, hoofdstuk ENR 6-2-5.
 
 ##### Artikel 2
 
@@ -129,5 +97,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen luchtvaartnavigatiediensten 2010.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

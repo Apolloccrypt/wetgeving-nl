@@ -1,48 +1,18 @@
 ---
 title: "Wet van 26 november 2009, houdende uitvoering van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) (Uitvoeringswet EGTS-verordening)"
+citeertitel: "Uitvoeringswet EGTS-verordening"
 identifier: "BWBR0026784"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026784"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "10303803"
-version_id: "16883182"
-internal_id: "C23250681"
-label_id: "10279434"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026784/2021-07-01/0"
-intitule_bron: "Stb.2009-512"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-26"
-intitule_published: "2009-12-08"
-intitule_in_force: "2009-12-08"
-intitule_status: "goed"
-original_publication: "Stb.2009-512"
-original_signed_date: "2009-11-26"
-original_published_date: "2009-12-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "31926"
-original_url_id: "stb-2009-512"
-entry_into_force_date: "2009-12-09"
-entry_into_force_dossier: "31926"
-jci_1_3: "jci1.3:c:BWBR0026784&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0026784&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet EGTS-verordening"
-signed_date: "2009-11-26"
-entry_into_force: "2009-12-09"
+publicatiedatum: 2009-12-09
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0026784"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 26 november 2009, houdende uitvoering van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) (Uitvoeringswet EGTS-verordening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is wettelijke bepalingen vast te stellen ter uitvoering van [verordening (EG) nr. 1082/2006](32006R1082) van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. verordening: [verordening (EG) nr. 1082/2006](32006R1082) van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210);
+- b. verordening: verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210);
 
 - c. EGTS: Europese groepering voor territoriale samenwerking als bedoeld in artikel 1 van de verordening.
 
@@ -140,7 +110,7 @@ De statuten bevatten naast de onderwerpen genoemd in artikel 9, tweede lid, van 
 
 1. Als bevoegde autoriteit als bedoeld in artikel 6, eerste lid, van de verordening, wordt aangewezen: Onze Minister.
 
-2. Een EGTS stelt jaarlijks voor 1 juli een jaarverslag op. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid. Het jaarverslag wordt aan Onze Minister toegezonden.
+2. Een EGTS stelt jaarlijks voor 1 juli een jaarverslag op. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid. Het jaarverslag wordt aan Onze Minister toegezonden.
 
 3. Tegelijk met het jaarverslag, dient de EGTS de jaarrekening bij Onze Minister in.
 
@@ -204,11 +174,11 @@ Onze Minister is bevoegd om overeenkomstig artikel 13 van de verordening activit
 
 ##### Artikel 19
 
-Wijzigt de Handelsregisterwet 2007.
+*Wijzigt de Handelsregisterwet 2007.*
 
 ##### Artikel 19a
 
-Wijzigt de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens.
+*Wijzigt de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens.*
 
 ##### Artikel 20
 
@@ -221,5 +191,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 22
 
 Deze wet wordt aangehaald als: Uitvoeringswet EGTS-verordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

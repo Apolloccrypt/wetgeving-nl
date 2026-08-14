@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken van 17 december 2009, nr. WJZ/9226789, houdende nadere regels ten aanzien van het antenneregister (Regeling openbaar antenneregister)"
+citeertitel: "Regeling openbaar antenneregister"
 identifier: "BWBR0027031"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-03-15"
-last_updated: "2013-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027031"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10371003"
-version_id: "17044662"
-internal_id: "C23505561"
-label_id: "10346014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027031/2013-03-15/0"
-intitule_bron: "Stcrt.2009-20330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-17"
-intitule_published: "2009-12-31"
-intitule_in_force: "2009-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20330"
-original_signed_date: "2009-12-17"
-original_published_date: "2009-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20330"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027031&z=2013-03-15&g=2013-03-15"
-jci_1_0: "1.0:c:BWBR0027031&g=2013-03-15"
-citeertitel_status: "officieel"
-short_title: "Regeling openbaar antenneregister"
-signed_date: "2009-12-17"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2013-03-15
+status: geldig
+toestand: 2013-03-15
+bron: "https://wetten.overheid.nl/BWBR0027031"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken van 17 december 2009, nr. WJZ/9226789, houdende nadere regels ten aanzien van het antenneregister (Regeling openbaar antenneregister)
-
-Gelet op [artikel 20e van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=20e);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +41,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2010
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openbaar antenneregister.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

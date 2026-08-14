@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 27 november 2009, nr. WJZ/9214712, houdende regels met betrekking tot het centraal loket en het interne markt informatiesysteem (Dienstenregeling centraal loket en interne markt informatiesysteem)"
+citeertitel: "Dienstenregeling centraal loket en interne markt informatiesysteem"
 identifier: "BWBR0026766"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026766"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10300173"
-version_id: "16990162"
-internal_id: "C23426451"
-label_id: "10275854"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026766/2024-01-01/0"
-intitule_bron: "Stcrt.2009-18558"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-27"
-intitule_published: "2009-12-07"
-intitule_in_force: "2009-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20180"
-original_signed_date: "2009-12-18"
-original_published_date: "2009-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2009-20180"
-entry_into_force_date: "2009-12-18"
-jci_1_3: "jci1.3:c:BWBR0026766&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0026766&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Dienstenregeling centraal loket en interne markt informatiesysteem"
-signed_date: "2009-12-18"
-entry_into_force: "2009-12-18"
+publicatiedatum: 2009-12-18
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0026766"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Economische Zaken van 27 november 2009, nr. WJZ/9214712, houdende regels met betrekking tot het centraal loket en het interne markt informatiesysteem (Dienstenregeling centraal loket en interne markt informatiesysteem)
-
-Gelet op de artikelen 6, 8 en 21 van [richtlijn nr. 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), de beschikking 2009/739/EG van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van [richtlijn nr. 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=10), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=21), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=52) en [60 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=60), [artikel 8, van het Dienstenbesluit centraal loket](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&artikel=8) en [artikel 2:15, eerste lid, tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **berichtenbox:** een beveiligde elektronische postbus die deel uitmaakt van de elektronische omgeving van het centraal loket;
+- a. *berichtenbox:* een beveiligde elektronische postbus die deel uitmaakt van de elektronische omgeving van het centraal loket;
 
-- b. **toegangsgegevens:** gegevens die toegang verschaffen tot een berichtenbox;
+- b. *toegangsgegevens:* gegevens die toegang verschaffen tot een berichtenbox;
 
-- c. **webinterface berichtenbox:** een applicatie die toegankelijk is via de website die deel uitmaakt van het centraal loket en geschikt is om met handmatige invoering van toegangsgegevens toegang te verschaffen tot een berichtenbox;
+- c. *webinterface berichtenbox:* een applicatie die toegankelijk is via de website die deel uitmaakt van het centraal loket en geschikt is om met handmatige invoering van toegangsgegevens toegang te verschaffen tot een berichtenbox;
 
-- d. **adresseringsgegevens:** gegevens waarmee ten behoeve van verzending of ontvangst van procedureberichten op een voor dienstverrichters en bevoegde instanties bruikbare wijze een berichtenbox langs elektronische weg geïdentificeerd kan worden;
+- d. *adresseringsgegevens:* gegevens waarmee ten behoeve van verzending of ontvangst van procedureberichten op een voor dienstverrichters en bevoegde instanties bruikbare wijze een berichtenbox langs elektronische weg geïdentificeerd kan worden;
 
-- e. **koppelvlak voor procedureberichten**: het geheel van standaarden, bedoeld in paragraaf 1 van de bijlage bij deze regeling, waarvan het gebruik voorwaarde is om geautomatiseerde uitwisseling van procedureberichten mogelijk te maken tussen een systeem voor gegevensverwerking van een bevoegde instantie buiten het centraal loket en een berichtenbox waar zij toegang tot heeft;
+- e. *koppelvlak voor procedureberichten*: het geheel van standaarden, bedoeld in paragraaf 1 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) bij deze regeling, waarvan het gebruik voorwaarde is om geautomatiseerde uitwisseling van procedureberichten mogelijk te maken tussen een systeem voor gegevensverwerking van een bevoegde instantie buiten het centraal loket en een berichtenbox waar zij toegang tot heeft;
 
-- f. **machtigingsvoorziening berichtenbox:** een voorziening met behulp waarvan een dienstverrichter die toegang tot een voor hem aangemaakte berichtenbox heeft, die toegang kan uitbreiden en ongedaan maken voor personen die voor hem of haar werkzaam zijn en voor anderen die in zijn of haar opdracht betrokken zijn bij de afwikkeling van procedures en formaliteiten;
+- f. *machtigingsvoorziening berichtenbox:* een voorziening met behulp waarvan een dienstverrichter die toegang tot een voor hem aangemaakte berichtenbox heeft, die toegang kan uitbreiden en ongedaan maken voor personen die voor hem of haar werkzaam zijn en voor anderen die in zijn of haar opdracht betrokken zijn bij de afwikkeling van procedures en formaliteiten;
 
-- g. **complex webformulier:** een door een bevoegde instantie vastgesteld formulier dat op procedures en formaliteiten betrekking heeft en waarbij met betrekking tot dit formulier is voldaan aan de voorwaarden, bedoeld in [artikel 4, tweede lid, van het Dienstenbesluit centraal loket](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&artikel=4);
+- g. *complex webformulier:* een door een bevoegde instantie vastgesteld formulier dat op procedures en formaliteiten betrekking heeft en waarbij met betrekking tot dit formulier is voldaan aan de voorwaarden, bedoeld in [artikel 4, tweede lid, van het Dienstenbesluit centraal loket](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&artikel=4);
 
-- h. **verwijzingscatalogus loketinformatie:** een applicatie die het geheel aan door bevoegde instanties langs elektronische weg toegankelijk gemaakte complexe webformulieren en informatie, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) en [19 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19), samenhangend categoriseert met behulp van metagegevens;
+- h. *verwijzingscatalogus loketinformatie:* een applicatie die het geheel aan door bevoegde instanties langs elektronische weg toegankelijk gemaakte complexe webformulieren en informatie, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) en [19 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19), samenhangend categoriseert met behulp van metagegevens;
 
-- i. **meldings- en notificatiesysteem Dienstenwet:** een applicatie met behulp waarvan een bevoegde instantie de informatie, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) aanmaakt en beschikbaar stelt voor opname in de verwijzingscatalogus loketinformatie of het centraal loket;
+- i. *meldings- en notificatiesysteem Dienstenwet:* een applicatie met behulp waarvan een bevoegde instantie de informatie, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) aanmaakt en beschikbaar stelt voor opname in de verwijzingscatalogus loketinformatie of het centraal loket;
 
-- j. **betafase-berichtenbox:** een testversie van de berichtenbox waar een bevoegde instantie onder voorwaarden tot uiterlijk de inwerkingtreding van deze regeling toegang kon verkrijgen;
+- j. *betafase-berichtenbox:* een testversie van de berichtenbox waar een bevoegde instantie onder voorwaarden tot uiterlijk de inwerkingtreding van deze regeling toegang kon verkrijgen;
 
-- k. **uitvoeringsbeschikking IMI:** beschikking van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van [Richtlijn 2006/123/EG](32006L0123) van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 263).
+- k. *uitvoeringsbeschikking IMI:* beschikking van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 263).
 
 #### § 2. De inrichting van het centraal loket voor procedure- en bijstandsberichten
 
@@ -144,7 +118,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 1. Er is een verwijzingscatalogus loketinformatie beschikbaar met behulp waarvan een complex webformulier kan worden ontsloten via de website die van het centraal loket deel uitmaakt.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel 12
 
@@ -190,11 +164,11 @@ De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&pa
 
 ##### Artikel 15
 
-1. Voor een dienstverrichter wordt een berichtenbox aangemaakt en komen toegangsgegevens beschikbaar, indien hij via het centraal loket aan Onze Minister de aanmeldingsgegevens, bedoeld in paragraaf 2 van de bijlage bij deze regeling, verstrekt.
+1. Voor een dienstverrichter wordt een berichtenbox aangemaakt en komen toegangsgegevens beschikbaar, indien hij via het centraal loket aan Onze Minister de aanmeldingsgegevens, bedoeld in paragraaf 2 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) bij deze regeling, verstrekt.
 
 2. Een dienstverrichter waarvoor een berichtenbox is aangemaakt en die over toegangsgegevens beschikt, heeft toegang tot die berichtenbox indien hij zorg draagt voor een verbinding tussen een eigen systeem voor gegevensverwerking en de webinterface berichtenbox.
 
-3. Een dienstverrichter met toegang tot een berichtenbox kan met behulp van de machtigingsvoorziening berichtenbox toegang tot die berichtenbox verschaffen aan een persoon die voor hem werkzaam is of aan een ander die in zijn opdracht betrokken is bij de afwikkeling van procedures en formaliteiten, indien de dienstverrichter de aanmeldingsgegevens, bedoeld in paragraaf 3 van de bijlage bij deze regeling, aan Onze Minister heeft verstrekt.
+3. Een dienstverrichter met toegang tot een berichtenbox kan met behulp van de machtigingsvoorziening berichtenbox toegang tot die berichtenbox verschaffen aan een persoon die voor hem werkzaam is of aan een ander die in zijn opdracht betrokken is bij de afwikkeling van procedures en formaliteiten, indien de dienstverrichter de aanmeldingsgegevens, bedoeld in paragraaf 3 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) bij deze regeling, aan Onze Minister heeft verstrekt.
 
 ##### Artikel 16
 
@@ -204,7 +178,7 @@ De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&pa
 
 - b. bescheiden waaruit de machtiging om namens de bevoegde instantie het verzoek, bedoeld in onderdeel a, te doen, blijkt of een mededeling dat die bevoegdheid blijkt uit een openbaar register;
 
-- c. de aanmeldingsgegevens, bedoeld in paragraaf 4 van de bijlage bij deze regeling.
+- c. de aanmeldingsgegevens, bedoeld in paragraaf 4 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) bij deze regeling.
 
 2. Een bevoegde instantie waarvoor een berichtenbox is aangemaakt en die over toegangsgegevens beschikt, heeft toegang tot die berichtenbox indien zij zorg draagt voor een verbinding tussen een eigen systeem voor gegevensverwerking en de webinterface berichtenbox.
 
@@ -220,7 +194,7 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 1. Een complex webformulier wordt met behulp van de verwijzingscatalogus loketinformatie ontsloten via de website die van het centraal loket deel uitmaakt, indien een bevoegde instantie:
 
-- a. voldoet aan de specificaties en kenmerken, bedoeld paragraaf 5 van de bijlage bij deze regeling, waardoor metagegevens met betrekking tot een complex webformulier worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie;
+- a. voldoet aan de specificaties en kenmerken, bedoeld paragraaf 5 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) bij deze regeling, waardoor metagegevens met betrekking tot een complex webformulier worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie;
 
 - b. zorg draagt voor een verbinding tussen het systeem voor gegevensverwerking van de bevoegde instantie en het centraal loket, waarbij die verbinding voldoet aan de specificaties en kenmerken van het koppelvlak voor procedureberichten;
 
@@ -232,7 +206,7 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 ##### Artikel 19
 
-1. Ten behoeve van een goede uitvoering door Onze Minister van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=7) en [17, onderdelen a, c, en e, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=17), voldoet een bevoegde instantie met betrekking tot de informatie, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) en [19 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19), aan de specificaties en kenmerken, bedoeld in paragraaf 5 van de bijlage van deze regeling, waardoor metagegevens die op die informatie betrekking hebben worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie.
+1. Ten behoeve van een goede uitvoering door Onze Minister van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=7) en [17, onderdelen a, c, en e, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=17), voldoet een bevoegde instantie met betrekking tot de informatie, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) en [19 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19), aan de specificaties en kenmerken, bedoeld in paragraaf 5 van de [bijlage](https://wetten.overheid.nl/BWBR0026766) van deze regeling, waardoor metagegevens die op die informatie betrekking hebben worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie.
 
 2. Een bevoegde instantie maakt voorts de informatie bedoeld in de [artikelen 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8), en [19, onderdeel a, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19) voor zover deze betrekking heeft op de informatie, bedoeld in artikel 8, eerste lid, onderdeel a, van de Dienstenwet langs elektronische weg toegankelijk door middel van het meldings- en notificatiesysteem Dienstenwet.
 
@@ -240,9 +214,29 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 #### § 3a. Het gebruik van elektronische handtekeningen
+
+##### Artikel 20a
+
+1. Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14) zijn de genoemde elektronische handtekeningen, bedoeld in de aanhef van dat artikellid de elektronische handtekeningen, die:
+
+- a. ten aanzien van de gebruikte methode voor authenticatie voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen aan een gekwalificeerde elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van die verordening,
+
+- b. ten aanzien van de gebruikte methode voor authenticatie voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen aan een geavanceerde elektronische handtekening als bedoeld in artikel 3, onderdeel 11, van die verordening en die zijn gebaseerd op een gekwalificeerd certificaat voor elektronische handtekeningen als bedoeld in artikel 3, onderdeel 15, van diezelfde verordening, of
+
+- c. voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) aan een elektronische handtekening als bedoeld in artikel 3, onderdeel 10, van die verordening gestelde eisen.
+
+2. Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14) is de elektronische handtekening met het laagste niveau van betrouwbaarheid, bedoeld in onderdeel b van dat artikellid, de elektronische handtekening, bedoeld in het eerste lid, onderdeel c.
+
+3. Het eerste lid is niet van toepassing op een elektronische handtekening, bedoeld in het eerste lid, onderdeel a of b, indien daarbij gebruik is gemaakt van een gekwalificeerd certificaat als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), waarbij de naam van de ondertekenaar die in dat certificaat staat vermeld een als zodanig geïdentificeerd pseudoniem betreft.
+
+##### Artikel 20b
+
+Het centraal loket is zodanig ingericht dat het ten behoeve van de bevoegde instanties documenten kan verwerken die elektronisch ondertekend zijn met een geavanceerde elektronische XML-, CMS- of PDF-handtekening in het BES- of EPES-formaat en die voldoet aan de technische specificaties uit de bijlage van besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 53).
+
+#### § 4. Het interne markt informatiesysteem
 
 ##### Artikel 21
 
@@ -303,97 +297,3 @@ Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overh
 ##### Artikel 26
 
 Deze regeling wordt aangehaald als: Dienstenregeling centraal loket en interne markt informatiesysteem.
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2009-12-16&g=2009-12-16), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2009-12-16&g=2009-12-16), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2009-12-16&g=2009-12-16), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2009-12-16&g=2009-12-16)
-
-### § 1. Koppelvlak voor procedureberichten
-
-Onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2009-12-16&g=2009-12-16), wordt verstaan:
-
-### § 1a. SMTP-koppelvlak voor procedureberichten
-
-Onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), wordt verstaan:
-
-### § 1b. Digikoppeling-koppelvlak voor procedureberichten
-
-Indien de bevoegde instantie daarvan gebruik wil maken wordt onder het geheel van standaarden en elektronische voorzieningen, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), verstaan:
-
-### § 2. Aanmeldingsgegevens dienstverrichter voor berichtenbox
-
-De aanmeldingsgegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2010-10-01&g=2010-10-01), hebben betrekking op:
-
-### § 3. Aanmeldingsgegevens dienstverrichter voor toegangsuitbreiding
-
-De aanmeldingsgegevens, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2010-10-01&g=2010-10-01), hebben betrekking op een gebruikersnaam om degene aan te kunnen duiden aan wie de dienstverrichter toegang tot een berichtenbox wil verschaffen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 20a
-
-1. Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14) zijn de genoemde elektronische handtekeningen, bedoeld in de aanhef van dat artikellid de elektronische handtekeningen, die:
-
-- a. ten aanzien van de gebruikte methode voor authenticatie voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen aan een gekwalificeerde elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van die verordening,
-
-- b. ten aanzien van de gebruikte methode voor authenticatie voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen aan een geavanceerde elektronische handtekening als bedoeld in artikel 3, onderdeel 11, van die verordening en die zijn gebaseerd op een gekwalificeerd certificaat voor elektronische handtekeningen als bedoeld in artikel 3, onderdeel 15, van diezelfde verordening, of
-
-- c. voldoen aan de bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) aan een elektronische handtekening als bedoeld in artikel 3, onderdeel 10, van die verordening gestelde eisen.
-
-2. Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14) is de elektronische handtekening met het laagste niveau van betrouwbaarheid, bedoeld in onderdeel b van dat artikellid, de elektronische handtekening, bedoeld in het eerste lid, onderdeel c.
-
-3. Het eerste lid is niet van toepassing op een elektronische handtekening, bedoeld in het eerste lid, onderdeel a of b, indien daarbij gebruik is gemaakt van een gekwalificeerd certificaat als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), waarbij de naam van de ondertekenaar die in dat certificaat staat vermeld een als zodanig geïdentificeerd pseudoniem betreft.
-
-#### § 4. Het interne markt informatiesysteem
-
-#### § 5. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2010-10-01&g=2010-10-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2010-10-01&g=2010-10-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2010-10-01&g=2010-10-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2010-10-01&g=2010-10-01)
-
-### § 4. Aanmeldingsgegevens bevoegde instantie voor berichtenbox
-
-De aanmeldingsgegevens, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2010-10-01&g=2010-10-01), hebben betrekking op:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### § 5. Specificaties en kenmerken metagegevens complexe webformulieren
-
-Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2010-10-01&g=2010-10-01), wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 2.1 is opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 20b
-
-Het centraal loket is zodanig ingericht dat het ten behoeve van de bevoegde instanties documenten kan verwerken die elektronisch ondertekend zijn met een geavanceerde elektronische XML-, CMS- of PDF-handtekening in het BES- of EPES-formaat en die voldoet aan de technische specificaties uit de bijlage van besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 53).
-
-#### § 4. Het interne markt informatiesysteem
-
-#### § 5. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), [16, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01)[18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01), en [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2024-01-01&g=2024-01-01)
-
-### § 1. Digikoppeling-koppelvlak voor procedureberichten
-
-Onder het geheel van standaarden, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), wordt verstaan:
-
-### § 2. Aanmeldingsgegevens dienstverrichter voor berichtenbox
-
-De aanmeldingsgegevens, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), hebben betrekking op:
-
-### § 3. Aanmeldingsgegevens dienstverrichter voor toegangsuitbreiding
-
-De aanmeldingsgegevens, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), hebben betrekking op een gebruikersnaam om degene aan te kunnen duiden aan wie de dienstverrichter toegang tot een berichtenbox wil verschaffen.
-
-### § 4. Aanmeldingsgegevens bevoegde instantie voor berichtenbox
-
-De aanmeldingsgegevens, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), hebben betrekking op:
-
-### § 5. Specificaties en kenmerken metagegevens complexe webformulieren
-
-Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01), wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 4.0 is opgenomen.
-
-### § 5. Specificaties en kenmerken metagegevens complexe webformulieren
-
-Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=18&z=2015-04-01&g=2015-04-01), wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 4.0 is opgenomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

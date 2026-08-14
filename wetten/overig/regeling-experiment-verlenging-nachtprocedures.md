@@ -1,53 +1,27 @@
 ---
 title: "Regeling experiment verlenging nachtprocedures"
 identifier: "BWBR0026598"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-11-01"
-last_updated: "2010-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026598"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10265713"
-version_id: "16801242"
-internal_id: "C23132241"
-label_id: "10241184"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026598/2010-11-01/0"
-intitule_bron: "Stcrt.2009-16778"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-30"
-intitule_published: "2009-11-06"
-intitule_in_force: "2009-11-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-16778"
-original_signed_date: "2009-10-30"
-original_published_date: "2009-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-16778"
-entry_into_force_date: "2009-11-08"
-jci_1_3: "jci1.3:c:BWBR0026598&z=2010-11-01&g=2010-11-01"
-jci_1_0: "1.0:c:BWBR0026598&g=2010-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2009-10-30"
-entry_into_force: "2009-11-08"
+publicatiedatum: 2009-11-08
+laatste_update: 2010-11-01
+status: geldig
+toestand: 2010-11-01
+bron: "https://wetten.overheid.nl/BWBR0026598"
+opgehaald: 2026-08-14
 ---
+
 # Regeling experiment verlenging nachtprocedures
-
-Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **LVB:** het [Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330);
+- a. *LVB:* het [Luchthavenverkeerbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014330);
 
-- b. **het experiment:** het experiment ‘Verlenging gebruiksduur nachtelijke vertrek- en naderingprocedures’;
+- b. *het experiment:* het experiment ‘Verlenging gebruiksduur nachtelijke vertrek- en naderingprocedures’;
 
-- c. **gebruiksjaar 2010:** de periode van 1 november 2009 tot en met 31 oktober 2010.
+- c. *gebruiksjaar 2010:* de periode van 1 november 2009 tot en met 31 oktober 2010.
 
 ##### Artikel 2. Doel
 
@@ -211,17 +185,17 @@ Als gevolg van het experiment vindt er een geografische verschuiving plaats van 
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
-- •. Het effect op de hinder en slaapverstoring in het betrokken gebied;
+- • Het effect op de hinder en slaapverstoring in het betrokken gebied;
 
-- •. het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
+- • het effect op de berekende geluidbelasting in de betreffende handhavingspunten;
 
-- •. de berekende geluidbelasting in het betrokken gebied;
+- • de berekende geluidbelasting in het betrokken gebied;
 
-- •. het effect op de interne en externe veiligheid;
+- • het effect op de interne en externe veiligheid;
 
-- •. het effect op de vliegoperatie (betrouwbaarheid, efficiency, netwerkkwaliteit en capaciteit);
+- • het effect op de vliegoperatie (betrouwbaarheid, efficiency, netwerkkwaliteit en capaciteit);
 
-- •. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
+- • het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en op bestaande verstedelijking en nieuwbouwplannen.
 
 ##### Artikel 8. Onvoorziene gevallen
 
@@ -236,5 +210,3 @@ De termijn van het op grond van [artikel 8.23a, vijfde lid, van de Wet luchtvaar
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 november 2009.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

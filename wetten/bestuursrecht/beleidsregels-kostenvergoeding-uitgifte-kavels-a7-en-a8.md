@@ -1,56 +1,33 @@
 ---
 title: "Beleidsregel kostenvergoeding uitgifte kavels A7 en A8"
+citeertitel: "Beleidsregels kostenvergoeding uitgifte kavels A7 en A8"
 identifier: "BWBR0026206"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2009-08-02"
-last_updated: "2009-08-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026206"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "10147333"
-version_id: "16598712"
-internal_id: "C22852361"
-label_id: "10123484"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026206/2009-08-02/0"
-intitule_bron: "Stcrt.2009-11532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-20"
-intitule_published: "2009-07-31"
-intitule_in_force: "2009-07-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-11532"
-original_signed_date: "2009-07-20"
-original_published_date: "2009-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-11532"
-entry_into_force_date: "2009-08-02"
-jci_1_3: "jci1.3:c:BWBR0026206&z=2009-08-02&g=2009-08-02"
-jci_1_0: "1.0:c:BWBR0026206&g=2009-08-02"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels kostenvergoeding uitgifte kavels A7 en A8"
-signed_date: "2009-07-20"
-entry_into_force: "2009-08-02"
+publicatiedatum: 2009-08-02
+laatste_update: 2009-08-02
+status: geldig
+toestand: 2009-08-02
+bron: "https://wetten.overheid.nl/BWBR0026206"
+opgehaald: 2026-08-14
 ---
-# Beleidsregel kostenvergoeding uitgifte kavels A7 en A8
 
-Besluit:
+# Beleidsregel kostenvergoeding uitgifte kavels A7 en A8
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **minister:** de Minister van Economische Zaken;
+- a. *minister:* de Minister van Economische Zaken;
 
-- b. **verzoeker:** de indiener van een verzoek om kostenvergoeding of diens rechtsopvolger;
+- b. *verzoeker:* de indiener van een verzoek om kostenvergoeding of diens rechtsopvolger;
 
-- c. **Tijdelijke regeling:** [Tijdelijke regeling uitgifte kavels A7 en A8](https://wetten.overheid.nl/jci1.3:c:BWBR0025560);
+- c. *Tijdelijke regeling:*
+ [Tijdelijke regeling uitgifte kavels A7 en A8](https://wetten.overheid.nl/jci1.3:c:BWBR0025560);
 
-- d. **kavel A7:** een kavel zoals bedoeld in [artikel 1, eerste lid, onder a, van de Tijdelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025560&artikel=1) (ongeclausuleerd kavel);
+- d. *kavel A7:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder a, van de Tijdelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025560&artikel=1) (ongeclausuleerd kavel);
 
-- e. **kavel A8:** een kavel zoals bedoeld in [artikel 1, eerste lid, onder b, van de Tijdelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025560&artikel=1) (geclausuleerd kavel).
+- e. *kavel A8:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder b, van de Tijdelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025560&artikel=1) (geclausuleerd kavel).
 
 ##### Artikel 2
 
@@ -121,5 +98,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 9
 
 Deze beleidsregels worden aangehaald als: Beleidsregels kostenvergoeding uitgifte kavels A7 en A8.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

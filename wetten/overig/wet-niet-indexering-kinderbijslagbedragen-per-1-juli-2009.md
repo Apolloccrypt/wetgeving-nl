@@ -1,48 +1,18 @@
 ---
 title: "Wet van 18 juli 2009, houdende Regeling voor niet-indexering van kinderbijslagbedragen per 1 juli 2009"
+citeertitel: "Wet niet-indexering kinderbijslagbedragen per 1 juli 2009"
 identifier: "BWBR0026273"
-country: "nl"
-rank: "wet"
-publication_date: "2009-08-26"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026273"
+categorie: "Overig"
 soort: "wet"
-stam_id: "10158763"
-version_id: "16618252"
-internal_id: "C22881151"
-label_id: "10134844"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026273/2009-08-26/0"
-intitule_bron: "Stb.2009-347"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-18"
-intitule_published: "2009-08-25"
-intitule_in_force: "2009-08-25"
-intitule_status: "goed"
-original_publication: "Stb.2009-347"
-original_signed_date: "2009-07-18"
-original_published_date: "2009-08-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "31966"
-original_url_id: "stb-2009-347"
-entry_into_force_date: "2009-08-26"
-entry_into_force_dossier: "31966"
-jci_1_3: "jci1.3:c:BWBR0026273&z=2009-08-26&g=2009-08-26"
-jci_1_0: "1.0:c:BWBR0026273&g=2009-08-26"
-citeertitel_status: "redactioneel"
-short_title: "Wet niet-indexering kinderbijslagbedragen per 1 juli 2009"
-signed_date: "2009-07-18"
-entry_into_force: "2009-08-26"
+publicatiedatum: 2009-08-26
+laatste_update: 2009-08-26
+status: geldig
+toestand: 2009-08-26
+bron: "https://wetten.overheid.nl/BWBR0026273"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 18 juli 2009, houdende Regeling voor niet-indexering van kinderbijslagbedragen per 1 juli 2009
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in verband met de beheersing van de uitgaven aan kinderbijslag de indexering van de bedragen voor de kinderbijslag per 1 juli 2009 achterwege te laten;
-
-Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
@@ -53,5 +23,3 @@ Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-G
 ##### Artikel II
 
 Deze wet treedt in werking met ingang van 1 juli 2009. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 30 juni 2009, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2009.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

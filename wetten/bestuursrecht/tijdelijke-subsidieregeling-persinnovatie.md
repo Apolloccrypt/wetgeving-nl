@@ -1,46 +1,18 @@
 ---
 title: "Regeling van het Stimuleringsfonds voor de pers van 23 december 2009, nr. 19063, tot vaststelling van een Tijdelijke subsidieregeling persinnovatie"
+citeertitel: "Tijdelijke subsidieregeling persinnovatie"
 identifier: "BWBR0027267"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-01-05"
-last_updated: "2010-01-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027267"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10431543"
-version_id: "17157282"
-internal_id: "C23671061"
-label_id: "10407014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027267/2010-01-05/0"
-intitule_bron: "Stcrt.2010-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-23"
-intitule_published: "2010-01-04"
-intitule_in_force: "2010-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-42"
-original_signed_date: "2009-12-23"
-original_published_date: "2010-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-42"
-entry_into_force_date: "2010-01-05"
-jci_1_3: "jci1.3:c:BWBR0027267&z=2010-01-05&g=2010-01-05"
-jci_1_0: "1.0:c:BWBR0027267&g=2010-01-05"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling persinnovatie"
-signed_date: "2009-12-23"
-entry_into_force: "2010-01-05"
+publicatiedatum: 2010-01-05
+laatste_update: 2010-01-05
+status: geldig
+toestand: 2010-01-05
+bron: "https://wetten.overheid.nl/BWBR0027267"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van het Stimuleringsfonds voor de pers van 23 december 2009, nr. 19063, tot vaststelling van een Tijdelijke subsidieregeling persinnovatie
-
-Handelende na overleg met de Minister van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 8.3, tweede lid, onder a, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -191,5 +163,3 @@ Binnen 13 weken na afloop van de data, bedoeld in [artikel 5](https://wetten.ove
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling persinnovatie.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

@@ -1,60 +1,34 @@
 ---
 title: "Koninklijk besluit van 21 september 1926 tot vaststelling van het Curacaosch Uitleveringsbesluit"
+citeertitel: "Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0027429"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-05-01"
-last_updated: "2024-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027429"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "10471293"
-version_id: "29994042"
-internal_id: "C43000981"
-label_id: "10446614"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027429/2024-05-01/0"
-intitule_bron: "PvdA.1926-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1926-09-21"
-intitule_published: "1926-12-06"
-intitule_in_force: "1926-12-06"
-intitule_status: "goed"
-original_publication: "Stb.2024-49"
-original_signed_date: "2024-03-01"
-original_published_date: "2024-03-07"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2024-49"
-entry_into_force_date: "2024-03-01"
-jci_1_3: "jci1.3:c:BWBR0027429&z=2024-05-01&g=2024-05-01"
-jci_1_0: "1.0:c:BWBR0027429&g=2024-05-01"
-citeertitel_status: "officieel"
-short_title: "Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten"
-signed_date: "2024-03-01"
-entry_into_force: "2024-03-01"
+publicatiedatum: 2024-03-01
+laatste_update: 2024-05-01
+status: geldig
+toestand: 2024-05-01
+bron: "https://wetten.overheid.nl/BWBR0027429"
+opgehaald: 2026-08-14
 ---
+
 # Koninklijk besluit van 21 september 1926 tot vaststelling van het Curacaosch Uitleveringsbesluit
-
-Gelet op:
-
-[Artikel 3, eerste lid, onder h, Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=3)
-
-Artikel 48, derde lid, Samenwerkingsregeling Nederlandse Antillen en Aruba
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Gouverneur:** Gouverneur van het land waar de opgeëiste persoon wordt of is aangetroffen. Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=21&z=2024-05-01&g=2024-05-01) van het besluit wordt daaronder verstaan de Gouverneur van het land waar de vreemdeling zich bevindt;
+- a. *Gouverneur:* Gouverneur van het land waar de opgeëiste persoon wordt of is aangetroffen. Voor de toepassing van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=21&z=2024-05-01&g=2024-05-01) van het besluit wordt daaronder verstaan de Gouverneur van het land waar de vreemdeling zich bevindt;
 
-- b. **het Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- b. *het Hof van Justitie:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- c. **de procureur-generaal:** de procureur-generaal van het land waar de opgeëiste persoon wordt of is aangetroffen. Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=13&z=2024-05-01&g=2024-05-01) van het besluit wordt daaronder verstaan de procureur-generaal met de behandeling van de zaak belast;
+- c. *de procureur-generaal:* de procureur-generaal van het land waar de opgeëiste persoon wordt of is aangetroffen. Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=13&z=2024-05-01&g=2024-05-01) van het besluit wordt daaronder verstaan de procureur-generaal met de behandeling van de zaak belast;
 
-- d. **openbaar ministerie:** het openbaar ministerie van het land waar de opgeëiste persoon wordt of is aangetroffen.
+- d. *openbaar ministerie:* het openbaar ministerie van het land waar de opgeëiste persoon wordt of is aangetroffen.
+
+##### Artikel 1a
+
+Ten aanzien van de uitlevering van personen worden geen nieuwe verdragen gesloten of bestaande vernieuwd, dan met inachtneming van de bepalingen van dit besluit.
 
 ##### Artikel 2
 
@@ -64,7 +38,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de tenuitvoerlegging van een vrijheidsstraf van vier maanden, of van langere duur, door de opgeëiste persoon op het grondgebied van de verzoekende Staat te ondergaan wegens een feit als onder a bedoeld.
 
-2. Voor de toepassing van het voorgaande lid wordt onder een naar het geldend recht in Aruba, Curaçao onderscheidenlijk Sint Maarten strafbaar feit mede verstaan een feit waardoor inbreuk is gemaakt op de rechtsorde van de verzoekende staat, terwijl krachtens de wetgeving van Aruba, Curaçao onderscheidenlijk Sint Maarten eenzelfde inbreuk op de rechtsorde van Aruba, Curaçao onderscheidenlijk Sint Maarten strafbaar is.
+2.. Voor de toepassing van het voorgaande lid wordt onder een naar het geldend recht in Aruba, Curaçao onderscheidenlijk Sint Maarten strafbaar feit mede verstaan een feit waardoor inbreuk is gemaakt op de rechtsorde van de verzoekende staat, terwijl krachtens de wetgeving van Aruba, Curaçao onderscheidenlijk Sint Maarten eenzelfde inbreuk op de rechtsorde van Aruba, Curaçao onderscheidenlijk Sint Maarten strafbaar is.
 
 3. Indien de aanvraag tot uitlevering betrekking heeft op verscheidene, afzonderlijke feiten, die alle krachtens de wetgeving van de verzoekende Staat en van Aruba, Curaçao onderscheidenlijk Sint Maarten strafbaar zijn gesteld met vrijheidsstraf, maar waarvan sommige niet voldoen aan de voorwaarde met betrekking tot de hoogte van de straf, kan de uitlevering eveneens voor deze laatste feiten worden toegestaan.
 
@@ -72,9 +46,9 @@ In dit besluit wordt verstaan onder:
 
 Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=2&z=2024-05-01&g=2024-05-01) worden gelijkgesteld:
 
-- a. **met vrijheidsstraffen:** door de rechter naast of in plaats van een straf op te leggen maatregelen strekkende tot vrijheidsbeneming;
+- a. *met vrijheidsstraffen:* door de rechter naast of in plaats van een straf op te leggen maatregelen strekkende tot vrijheidsbeneming;
 
-- b. **met vrijheidsstraffen van langere duur dan een jaar:** vrijheidsstraffen — met inbegrip van maatregelen als bedoeld onder a — voor de duur van het leven of voor onbepaalde tijd.
+- b. *met vrijheidsstraffen van langere duur dan een jaar:* vrijheidsstraffen — met inbegrip van maatregelen als bedoeld onder a — voor de duur van het leven of voor onbepaalde tijd.
 
 ##### Artikel 2b
 
@@ -85,6 +59,10 @@ Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00274
 3. De aanslag tegen het leven of de vrijheid van een Staatshoofd of een lid van het regerende Huis wordt niet beschouwd als een strafbaar feit van politieke aard in de zin van het eerste lid.
 
 4. Militaire delicten die niet tevens misdrijven naar het algemene strafrecht van Aruba, Curaçao onderscheidenlijk Sint Maarten zijn, en fiscale delicten kunnen geen aanleiding geven tot uitlevering, tenzij bij verdrag uitdrukkelijk anders is bepaald.
+
+##### Artikel 2c
+
+Indien, naar het recht van de verzoekende staat, de doodstraf is gesteld op het feit waarvoor de uitlevering is gevraagd, wordt de opgeëiste persoon niet uitgeleverd, tenzij naar het oordeel van de Gouverneur voldoende is gewaarborgd dat die straf, zo een veroordeling daartoe mocht volgen, niet ten uitvoer zal worden gelegd.
 
 ##### Artikel 3
 
@@ -138,6 +116,10 @@ Geen uitlevering wordt toegestaan dan onder voorwaarde dat de uitgeleverde niet 
 
 6. De procureur-generaal, onderscheidenlijk de rechter-commissaris, beveelt de onmiddellijke invrijheidstelling van de aangehoudene, tenzij hij uit anderen hoofde behoort in verzekerde bewaring te blijven, en de teruggave van de in beslag genomen goederen, tenzij er uit anderen hoofde redenen van terughouding bestaan, een en ander indien hem geen aanvrage tot uitlevering met de daarbij nodige bescheiden is medegedeeld binnen een termijn bij het verdrag te bepalen en van niet langer dan: twee maanden na de dagtekening van het bevel tot voorlopige aanhouding. Geschiedt de aanvrage tot uitlevering binnen de gestelde termijn, dan wordt verder gehandeld overeenkomstig het bepaalde bij de artikelen [13 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=13&z=2024-05-01&g=2024-05-01).
 
+##### Artikel 10a
+
+De bijstand door en vergoeding van een raadsman geschieden op overeenkomstige wijze als bepaald in de Wetboeken van Strafvordering van Aruba, Curaçao onderscheidenlijk Sint Maarten.
+
 ##### Artikel 11
 
 Bij de aanvrage tot uitlevering moet in het oorspronkelijke of in gewaarmerkt afschrift worden overgelegd hetzij het vonnis van veroordeling hetzij het vonnis van in staat van beschuldiging stelling of van rechtsingang met bevel van gevangenneming, hetzij een daarmede gelijk te stellen akte, in de verzoekende Staat gebruikelijk en als zodanig in het verdrag aangewezen.
@@ -174,11 +156,11 @@ Binnen veertien dagen na het verhoor zendt het Hof zijn advies en zijn beslissin
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -191,50 +173,6 @@ Vervallen
 ##### Artikel 19
 
 Is de opgeëiste persoon niet aangehouden en, na behoorlijk te zijn opgeroepen om door het Hof van Justitie te worden gehoord, niet verschenen, dan gaat de termijn, in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=15&z=2024-05-01&g=2024-05-01) genoemd, in met de dag, waarop het verhoor door het Hof is bepaald.
-
-##### Artikel 20
-
-De Gouverneur kan toestaan dat een persoon wiens uitlevering door een vreemde Staat aan een andere Staat is toegestaan, over het grondgebied van Aruba, Curaçao of Sint Maarten onder medegeleide van ambtenaren van Aruba, Curaçao of Sint Maarten wordt vervoerd, mits met de Staat, waaraan de uitlevering geschiedt, een uitleveringsverdrag is gesloten en het misdrijf waarvoor uitlevering is toegestaan onder de werking van dat verdrag valt.
-
-##### Artikel 21
-
-1. Personen die in Aruba, Curaçao of Sint Maarten in voorlopige hechtenis zijn of straf ondergaan mogen ter confrontatie of tot het afleggen van verklaringen in strafgedingen, die in een vreemde Staat aanhangig zijn, op last van de Gouverneur tijdelijk worden overgezonden.
-
-2. Indien die personen in Aruba, Curaçao of Sint Maarten straf ondergaan, zal hun straftijd geacht worden niet te zijn afgebroken door die tijdelijke overzending.
-
-##### Artikel 22
-
-Vervallen
-
-##### Artikel 23
-
-1. Alle akten en stukken ten gevolge van dit besluit op te maken, zijn vrij van zegel en worden kosteloos afgegeven.
-
-2. Alle ingevolge dit besluit te verrichten betekeningen mogen geschieden door een dienaar der openbare macht.
-
-##### Artikel 24
-
-Dit besluit is niet van toepassing op het aanhouden, het aan boord terugbrengen of het ter beschikking van de consulaire ambtenaren stellen van gedeserteerde matrozen.
-
-##### Artikel 25
-
-Voor de toepassing van dit besluit wordt onder Staat mede begrepen: elk tot het westelijk halfrond behorend gebied of gebiedsdeel van Frankrijk, van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland of van de Verenigde Staten van Amerika, of voor welks buitenlandse betrekkingen een van genoemde mogendheden de zorg draagt.
-
-##### Artikel 1a
-
-Ten aanzien van de uitlevering van personen worden geen nieuwe verdragen gesloten of bestaande vernieuwd, dan met inachtneming van de bepalingen van dit besluit.
-
-##### Artikel 26
-
-Dit besluit wordt aangehaald als: Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten.
-
-##### Artikel 2c
-
-Indien, naar het recht van de verzoekende staat, de doodstraf is gesteld op het feit waarvoor de uitlevering is gevraagd, wordt de opgeëiste persoon niet uitgeleverd, tenzij naar het oordeel van de Gouverneur voldoende is gewaarborgd dat die straf, zo een veroordeling daartoe mocht volgen, niet ten uitvoer zal worden gelegd.
-
-##### Artikel 10a
-
-De bijstand door en vergoeding van een raadsman geschieden op overeenkomstige wijze als bepaald in de Wetboeken van Strafvordering van Aruba, Curaçao onderscheidenlijk Sint Maarten.
 
 ##### Artikel 19a
 
@@ -275,3 +213,35 @@ Voor zover het toepasselijke verdrag daarin voorziet, wordt de persoon wiens voo
 2. Na de dag waarop een verklaring overeenkomstig [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=19b&z=2024-05-01&g=2024-05-01) is afgelegd, kan de aangehoudene op bevel van de rechter-commissaris ten hoogste veertig dagen in bewaring gesteld blijven of gesteld worden. Wanneer de uitlevering door bijzondere omstandigheden niet binnen de termijn van veertig dagen heeft kunnen plaatsvinden, kan deze termijn op vordering van de procureur-generaal door de rechter-commissaris voor ten hoogste dertig dagen worden verlengd. De aangehoudene wordt in de gelegenheid gesteld op de vordering tot verlenging door de rechter-commissaris te worden gehoord.
 
 3. Indien de aangehoudene een verklaring als bedoeld in [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=19b&z=2024-05-01&g=2024-05-01) heeft afgelegd, maar de procureur-generaal niettemin besluit de procedure, bedoeld in [artikel 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=19c&z=2024-05-01&g=2024-05-01), niet toe te passen, stelt de procureur-generaal de verzoekende staat daarvan zo spoedig mogelijk in kennis om deze in de gelegenheid te stellen een verzoek tot uitlevering langs de diplomatieke weg in te dienen voordat de gestelde termijn in [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=10&z=2024-05-01&g=2024-05-01), verstrijkt. Het tweede lid blijft in dat geval buiten toepassing.
+
+##### Artikel 20
+
+De Gouverneur kan toestaan dat een persoon wiens uitlevering door een vreemde Staat aan een andere Staat is toegestaan, over het grondgebied van Aruba, Curaçao of Sint Maarten onder medegeleide van ambtenaren van Aruba, Curaçao of Sint Maarten wordt vervoerd, mits met de Staat, waaraan de uitlevering geschiedt, een uitleveringsverdrag is gesloten en het misdrijf waarvoor uitlevering is toegestaan onder de werking van dat verdrag valt.
+
+##### Artikel 21
+
+1. Personen die in Aruba, Curaçao of Sint Maarten in voorlopige hechtenis zijn of straf ondergaan mogen ter confrontatie of tot het afleggen van verklaringen in strafgedingen, die in een vreemde Staat aanhangig zijn, op last van de Gouverneur tijdelijk worden overgezonden.
+
+2. Indien die personen in Aruba, Curaçao of Sint Maarten straf ondergaan, zal hun straftijd geacht worden niet te zijn afgebroken door die tijdelijke overzending.
+
+##### Artikel 22
+
+*Vervallen*
+
+##### Artikel 23
+
+1. Alle akten en stukken ten gevolge van dit besluit op te maken, zijn vrij van zegel en worden kosteloos afgegeven.
+
+2. Alle ingevolge dit besluit te verrichten betekeningen mogen geschieden door een dienaar der openbare macht.
+
+##### Artikel 24
+
+Dit besluit is niet van toepassing op het aanhouden, het aan boord terugbrengen of het ter beschikking van de consulaire ambtenaren stellen van gedeserteerde matrozen.
+
+##### Artikel 25
+
+Voor de toepassing van dit besluit wordt onder Staat mede begrepen: elk tot het westelijk halfrond behorend gebied of gebiedsdeel van Frankrijk, van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland of van de Verenigde Staten van Amerika, of voor welks buitenlandse betrekkingen een van genoemde mogendheden de zorg draagt.
+
+##### Artikel 26
+
+Dit besluit wordt aangehaald als: Uitleveringsbesluit van Aruba, Curaçao en Sint Maarten.

@@ -1,103 +1,74 @@
 ---
 title: "Wet van 14 december 2009 tot aanvulling van de Algemene wet bestuursrecht met een regeling voor herstel van gebreken in een besluit hangende beroep bij de bestuursrechter (Wet bestuurlijke lus Awb)"
+citeertitel: "Wet bestuurlijke lus Awb"
 identifier: "BWBR0026955"
-country: "nl"
-rank: "wet"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026955"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10346373"
-version_id: "16989772"
-internal_id: "C23431241"
-label_id: "10321654"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026955/2010-01-01/0"
-intitule_bron: "Stb.2009-570"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-14"
-intitule_published: "2009-12-24"
-intitule_in_force: "2009-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2009-570"
-original_signed_date: "2009-12-14"
-original_published_date: "2009-12-24"
-original_effect: "nieuwe-regeling"
-original_dossier: "31352"
-original_url_id: "stb-2009-570"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026955&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0026955&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet bestuurlijke lus Awb"
-signed_date: "2009-12-14"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0026955"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 14 december 2009 tot aanvulling van de Algemene wet bestuursrecht met een regeling voor herstel van gebreken in een besluit hangende beroep bij de bestuursrechter (Wet bestuurlijke lus Awb)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te openen dat gebreken in een besluit hangende het beroep bij de bestuursrechter worden hersteld;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel II
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel III
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de Raad van State.
+*Wijzigt de Wet op de Raad van State.*
 
 ##### Artikel Va
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel Vb
 
-1. Wijzigt de Spoedwet wegverbreding.
+1. *Wijzigt de Spoedwet wegverbreding.*
 
-2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
+2. *Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).*
 
 ##### Artikel Vc
 
-1. Wijzigt de Tracéwet.
+1. *Wijzigt de Tracéwet.*
 
-2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
+2. *Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).*
 
 ##### Artikel Vd
 
-1. Wijzigt de Waterwet.
+1. *Wijzigt de Waterwet.*
 
-2. Wijzigt de Waterwet.
+2. *Wijzigt de Waterwet.*
 
 ##### Artikel VI
 
-Wijzigt de Wet algemene bepalingen omgevingsrecht.
+*Wijzigt de Wet algemene bepalingen omgevingsrecht.*
 
 ##### Artikel VII
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel VIIa
 
-1. Wijzigt de Wet ruimtelijke ordening.
+1. *Wijzigt de Wet ruimtelijke ordening.*
 
-2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
+2. *Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).*
 
 ##### Artikel VIIb
 
@@ -122,5 +93,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel IX
 
 Deze wet wordt aangehaald als: Wet bestuurlijke lus Awb.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

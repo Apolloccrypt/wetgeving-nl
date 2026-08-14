@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 4 februari 2010 tot vaststelling van de rechtspositie van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters van de huurcommissie (Rechtspositiebesluit voorzitters huurcommissie 2010)"
+citeertitel: "Rechtspositiebesluit voorzitters huurcommissie 2010"
 identifier: "BWBR0027218"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-04-01"
-last_updated: "2010-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027218"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10422773"
-version_id: "17145452"
-internal_id: "C23787371"
-label_id: "10398334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027218/2010-04-01/0"
-intitule_bron: "Stb.2010-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-02-04"
-intitule_published: "2010-02-16"
-intitule_in_force: "2010-03-30"
-intitule_status: "goed"
-original_publication: "Stb.2010-41"
-original_signed_date: "2010-02-04"
-original_published_date: "2010-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-41"
-entry_into_force_date: "2010-04-01"
-jci_1_3: "jci1.3:c:BWBR0027218&z=2010-04-01&g=2010-04-01"
-jci_1_0: "1.0:c:BWBR0027218&g=2010-04-01"
-citeertitel_status: "officieel"
-short_title: "Rechtspositiebesluit voorzitters huurcommissie 2010"
-signed_date: "2010-02-04"
-entry_into_force: "2010-04-01"
+publicatiedatum: 2010-04-01
+laatste_update: 2010-04-01
+status: geldig
+toestand: 2010-04-01
+bron: "https://wetten.overheid.nl/BWBR0027218"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 4 februari 2010 tot vaststelling van de rechtspositie van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters van de huurcommissie (Rechtspositiebesluit voorzitters huurcommissie 2010)
-
-Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 14 december 2009, nr. BJZ2009064960, Directie Bestuurlijke en Juridische Zaken, gedaan na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [artikel 3b, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3b);
-
-De Raad van State gehoord (advies van 6 januari 2010, W08.09.0534/IV);
-
-Gezien het nader rapport van Onze Minister voor Wonen, Wijken en Integratie van 1 februari 2010, nr. BJZ2010002164, Directie Bestuurlijke en Juridische Zaken, uitgebracht na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,19 +20,20 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **ambt:** voorzitterschap, plaatsvervangend voorzitterschap of zittingsvoorzitterschap van de huurcommissie;
+- a. *ambt:* voorzitterschap, plaatsvervangend voorzitterschap of zittingsvoorzitterschap van de huurcommissie;
 
-- b. **huurcommissie:** commissie, genoemd in [artikel 3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- b. *huurcommissie:* commissie, genoemd in [artikel 3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- c. **Onze Minister:** Onze Minister voor Wonen, Wijken en Integratie;
+- c. *Onze Minister:* Onze Minister voor Wonen, Wijken en Integratie;
 
-- d. **plaatsvervangend voorzitter:** plaatsvervangend voorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- d. *plaatsvervangend voorzitter:* plaatsvervangend voorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- e. **voorzitter:** voorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- e. *voorzitter:* voorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **wet:** [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
+- f. *wet:*
+ [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
 
-- g. **zittingsvoorzitter:** zittingsvoorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a).
+- g. *zittingsvoorzitter:* zittingsvoorzitter van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a).
 
 ### Hoofdstuk 2. Benoeming en herbenoeming
 
@@ -208,7 +177,7 @@ Het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](h
 
 ##### Artikel 21
 
-Wijzigt het Algemeen Rijksambtenarenreglement.
+*Wijzigt het Algemeen Rijksambtenarenreglement.*
 
 ##### Artikel 22
 
@@ -221,33 +190,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit voorzitters huurcommissie 2010.
-
-## Bijlage als bedoeld in artikel 4, eerste lid, van het Rechtspositiebesluit voorzitters huurcommissie 2010
-
-### Formulier voor het afleggen van de eed of belofte door de voorzitter, de plaatsvervangend voorzitter of de zittingsvoorzitter van de huurcommissie
-
-Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten zal onderhouden en nakomen.
-
-Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of welk voorwendsel ook, tot het verkrijgen van een benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij betrokken is of zal zijn bij enige aangelegenheid welke aanhangig is of zou kunnen worden bij de huurcommissie waarbij ik als voorzitter/plaatsvervangend voorzitter/zittingsvoorzitter betrokken zou kunnen zijn.
-
-Ik zweer/beloof dat ik gegevens waarover ik bij de uitoefening van mijn ambt de beschikking krijg en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden, behoudens voor zover enig wettelijk voorschrift mij tot mededeling verplicht of uit mijn taak de noodzaak tot mededeling voortvloeit, geheim zal houden.
-
-Ik zweer/beloof dat ik mijn ambt met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien des persoons, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een voorzitter/plaatsvervangend voorzitter/zittingsvoorzitter betaamt.
-
-Zo waarlijk helpe mij God almachtig!/Dat verklaar en beloof ik!
-
-Op ........................, werd te .....................
-
-ten overstaan van (1) ..............................
-
-door (2) .............................
-
-de bovenvermelde eed/belofte afgelegd.
-
-(1) .............................
-
-(2) .............................
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

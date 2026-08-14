@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 januari 2010, nr. DBV/IenA/I , houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986)"
+citeertitel: "Regeling beperking openbaarheid archiefbescheiden (Regionaal Medisch Tuchtcollege Groningen periode (1930) 1931–1985 (1986)"
 identifier: "BWBR0027128"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-29"
-last_updated: "2010-01-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027128"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10405533"
-version_id: "17114972"
-internal_id: "C23618091"
-label_id: "10380944"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027128/2010-01-29/0"
-intitule_bron: "Stcrt.2010-1170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-20"
-intitule_published: "2010-01-28"
-intitule_in_force: "2010-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1170"
-original_signed_date: "2010-01-20"
-original_published_date: "2010-01-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-1170"
-entry_into_force_date: "2010-01-29"
-jci_1_3: "jci1.3:c:BWBR0027128&z=2010-01-29&g=2010-01-29"
-jci_1_0: "1.0:c:BWBR0027128&g=2010-01-29"
-citeertitel_status: "redactioneel"
-short_title: "Regeling beperking openbaarheid archiefbescheiden (Regionaal Medisch Tuchtcollege Groningen periode (1930) 1931–1985 (1986)"
-signed_date: "2010-01-20"
-entry_into_force: "2010-01-29"
+publicatiedatum: 2010-01-29
+laatste_update: 2010-01-29
+status: geldig
+toestand: 2010-01-29
+bron: "https://wetten.overheid.nl/BWBR0027128"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 januari 2010, nr. DBV/IenA/I , houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Groningen, over de periode (1930) 1931–1985 (1986)
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -109,60 +83,3 @@ Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit do
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage
-
-| **Raadpleging niet-openbare archiefbescheiden** |   |
-| --- | --- |
-
-Ondergetekende .....
-
-Bezoekersnummer .....
-
-**vraagt toestemming tot het raadplegen van**
-
-| Nr. | Omschrijving ¹ |
-| --- | --- |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-
-¹ De te raadplegen bescheiden nauwkeurig aangeven, zo mogelijk met bestands- of toegangsnummer en inventarisnummer.
-
-**in verband met een onderzoek betreffende**
-
-.....
-
-.....
-
-en ten behoeve van .....
-
-**De toestemming tot raadpleging wordt gevraagd voor de periode**
-
-| van ..... | tot en met ..... |
-| --- | --- |
-
-**Hij/zij verklaart**
-
-- 1. bekend te zijn met het feit dat de hierboven genoemde bescheiden van openbaarheid zijn uitgesloten en dat hem/haar het recht tot inzage ervan bij wijze van uitzondering wordt verleend voor een beperkte periode;
-
-- 2. de uit bovengenoemde bescheiden verkregen gegevens slechts voor bovengenoemd doel te zullen aanwenden en niets daarvan te zullen publiceren of op andere wijze openbaar maken wat strijdig is met de eerbiediging van de persoonlijke levenssfeer, afbreuk doet aan de belangen van de Staat, of strekt tot onevenredige bevoordeling of benadeling van betrokken natuurlijke of rechtspersonen dan wel derden;
-
-- 3. geen fotografische of andere reprodukties van bovengenoemde of bescheiden of gedeelten daarvan te zullen (doen) maken dan met toestemming van de rijks-, c.q. gemeentearchivaris; aan het verlenen van een dergelijke toestemming kunnen nadere voorwaarden worden verbonden;
-
-- 4. niet tot openbaarmaking van enige gegevens uit bovengenoemde archiefbescheiden te zullen overgaan dan met schriftelijke toestemming van de rijks- c.q. gemeentearchivaris; aan wie hij/zij de openbaar te maken passages vooraf zal voorleggen;
-
-- 5. overige gegevens, die hem/haar ter kennis zullen komen als gevolg van de raadpleging van bovengenoemde archiefbescheiden en voor de openbaarmaking waarvan geen toestemming is verkregen, slechts voor eigen studie te zullen gebruiken en niet aan derden mededelen;
-
-- 6. aansprakelijk te zijn voor de gevolgen van verspreiding van de hierboven genoemde informatie;
-
-- 7. het rijk c.q. de gemeente Groningen te vrijwaren voor aanspraken van derden ter zake van enige door hen geleden of te lijden schade tengevolge van de raadpleging door de verzoeker.
-
-|   |   |
-| --- | --- |
-| Datum ..... | Handtekening ..... |
-
-Deze regeling zal in de Staatscourant worden geplaatst.

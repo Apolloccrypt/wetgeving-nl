@@ -1,45 +1,17 @@
 ---
 title: "Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK"
 identifier: "BWBR0026519"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-10-18"
-last_updated: "2009-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026519"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10237213"
-version_id: "16745332"
-internal_id: "C23037471"
-label_id: "10212934"
-dtd_version: "2.0"
-original_entry_into_force: "2009-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026519/2009-10-18/0"
-intitule_bron: "Stcrt.2009-15597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-09-08"
-intitule_published: "2009-10-16"
-intitule_in_force: "2009-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-15597"
-original_signed_date: "2009-09-08"
-original_published_date: "2009-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-15597"
-entry_into_force_date: "2009-10-18"
-jci_1_3: "jci1.3:c:BWBR0026519&z=2009-10-18&g=2009-10-18"
-jci_1_0: "1.0:c:BWBR0026519&g=2009-10-18"
-citeertitel_status: "officieel"
-signed_date: "2009-09-08"
-entry_into_force: "2009-10-18"
+publicatiedatum: 2009-10-18
+laatste_update: 2009-10-18
+status: geldig
+toestand: 2009-10-18
+bron: "https://wetten.overheid.nl/BWBR0026519"
+opgehaald: 2026-08-14
 ---
+
 # Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
-
-Gehoord het Departementaal Georganiseerd Overleg, als bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113), ingesteld voor het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -47,11 +19,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **het ministerie:** het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *het ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **medewerker:** degene die op basis van een ambtelijke aanstelling werkzaamheden verricht of heeft verricht bij een ministerie.
+- c. *medewerker:* degene die op basis van een ambtelijke aanstelling werkzaamheden verricht of heeft verricht bij een ministerie.
 
 #### § 2. De Commissie
 
@@ -136,5 +108,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

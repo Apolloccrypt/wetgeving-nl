@@ -1,41 +1,17 @@
 ---
 title: "Regeling Wet bescherming persoonsgegevens ministerie van Defensie"
 identifier: "BWBR0026257"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-05-13"
-last_updated: "2016-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026257"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "10155383"
-version_id: "16612262"
-internal_id: "C22871291"
-label_id: "10131714"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026257/2016-05-13/0"
-intitule_bron: "Stcrt.2009-12209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-08-03"
-intitule_published: "2009-08-18"
-intitule_in_force: "2009-08-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-12209"
-original_signed_date: "2009-08-03"
-original_published_date: "2009-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-12209"
-entry_into_force_date: "2009-09-01"
-jci_1_3: "jci1.3:c:BWBR0026257&z=2016-05-13&g=2016-05-13"
-jci_1_0: "1.0:c:BWBR0026257&g=2016-05-13"
-citeertitel_status: "officieel"
-signed_date: "2009-08-03"
-entry_into_force: "2009-09-01"
+publicatiedatum: 2009-09-01
+laatste_update: 2016-05-13
+status: geldig
+toestand: 2016-05-13
+bron: "https://wetten.overheid.nl/BWBR0026257"
+opgehaald: 2026-08-14
 ---
-# Regeling Wet bescherming persoonsgegevens ministerie van Defensie
 
-Besluit:
+# Regeling Wet bescherming persoonsgegevens ministerie van Defensie
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -43,45 +19,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Wet:** [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
+- a. *Wet:*
+ [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
 
-- b. **Minister:** Minister van Defensie;
+- b. *Minister:* Minister van Defensie;
 
-- c. **persoonsgegeven:** elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+- c. *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
 
-- d. **bijzondere persoonsgegevens:** persoonsgegevens als bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16);
+- d. *bijzondere persoonsgegevens:* persoonsgegevens als bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16);
 
-- e. **verwerking van persoonsgegevens:** elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen, of vernietigen van gegevens;
+- e. *verwerking van persoonsgegevens:* elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen, of vernietigen van gegevens;
 
-- f. **verwerker:** een ieder die persoonsgegevens verwerkt in de zin van onderdeel e van dit artikel;
+- f. *verwerker:* een ieder die persoonsgegevens verwerkt in de zin van onderdeel e van dit artikel;
 
-- g. **meldingsformulier:** het meldingsformulier als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13) van deze regeling;
+- g. *meldingsformulier:* het meldingsformulier als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13) van deze regeling;
 
-- h. **register:** register als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.4&z=2016-05-13&g=2016-05-13) van deze regeling;
+- h. *register:* register als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.4&z=2016-05-13&g=2016-05-13) van deze regeling;
 
-- i. **verantwoordelijke:** Minister van Defensie;
+- i. *verantwoordelijke:* Minister van Defensie;
 
-- j. **Wbp-beheerder:** het diensthoofd die namens de minister belast is met de zorg voor de naleving van de wet ten aanzien van verwerkingen die gevoerd worden binnen het dienstonderdeel;
+- j. *Wbp-beheerder:* het diensthoofd die namens de minister belast is met de zorg voor de naleving van de wet ten aanzien van verwerkingen die gevoerd worden binnen het dienstonderdeel;
 
-- k. **bewerker:** degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;
+- k. *bewerker:* degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;
 
-- l. **gebruiker:** degene die bevoegd is gegevens in te zien dan wel in te voeren of te muteren;
+- l. *gebruiker:* degene die bevoegd is gegevens in te zien dan wel in te voeren of te muteren;
 
-- m. **betrokkene:** degene op wie een persoonsgegeven betrekking heeft;
+- m. *betrokkene:* degene op wie een persoonsgegeven betrekking heeft;
 
-- n. **derde:** ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;
+- n. *derde:* ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;
 
-- o. **ontvanger:** degene aan wie persoonsgegevens worden verstrekt;
+- o. *ontvanger:* degene aan wie persoonsgegevens worden verstrekt;
 
-- p. **College bescherming persoonsgegevens of het College:** College als bedoeld in [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51);
+- p. *College bescherming persoonsgegevens of het College:* College als bedoeld in [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51);
 
-- q. **functionaris gegevensbescherming:** de functionaris als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62);
+- q. *functionaris gegevensbescherming:* de functionaris als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62);
 
-- r. **melding:** melding bij de functionaris gegevensbescherming van een verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=28) en in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van deze regeling;
+- r. *melding:* melding bij de functionaris gegevensbescherming van een verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=28) en in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van deze regeling;
 
-- s. **verstrekken van gegevens:** het bekend maken of ter beschikking stellen van persoonsgegevens, voor zover zulks geheel of grotendeels steunt op gegevens die verwerkt zijn, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;
+- s. *verstrekken van gegevens:* het bekend maken of ter beschikking stellen van persoonsgegevens, voor zover zulks geheel of grotendeels steunt op gegevens die verwerkt zijn, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;
 
-- t. **Wbp:** [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+- t. *Wbp:*
+ [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -169,7 +147,7 @@ Persoonsgegevens worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaa
 
 ##### Artikel 2.2. Melding
 
-1. De Wbp-beheerder, dan wel de Wbp-onderbeheerder, meldt verwerkingen van persoonsgegevens voordat met de verwerking wordt begonnen door middel van het in bijlage opgenomen meldingenformulier Defensie bij de functionaris voor de gegevensbescherming.
+1. De Wbp-beheerder, dan wel de Wbp-onderbeheerder, meldt verwerkingen van persoonsgegevens voordat met de verwerking wordt begonnen door middel van het in [bijlage](https://wetten.overheid.nl/BWBR0026257) opgenomen meldingenformulier Defensie bij de functionaris voor de gegevensbescherming.
 
 2. De Wbp-beheerder, dan wel de Wbp-onderbeheerder, meldt wijzigingen ten aanzien van een melding, zo mogelijk voor aanvang van de wijziging, doch uiterlijk één week na de wijziging, bij de functionaris voor de gegevensbescherming.
 
@@ -204,6 +182,10 @@ Persoonsgegevens worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaa
 1. Voorafgaand aan de ontwikkeling van Defensie-wetgeving of Defensie-beleid waarmee de bouw van nieuwe ICT-systemen of de aanleg van grote databestanden wordt voorzien, wordt door de Wbp-beheerder dan wel de Wbp-onderbeheerder een privacy impact assessment uitgevoerd conform het toetsmodel Privacy Impact Assessment Rijksdienst.
 
 2. Een afschrift van de resultaten van de privacy impact assessment wordt gezonden aan de functionaris voor de gegevensbescherming en de hoofddirecteur bedrijfsvoering.
+
+##### Artikel 2.6. Verwijderen van persoonsgegevens
+
+De persoonsgegevens worden verwijderd wanneer deze voor het doel van de verwerking niet meer noodzakelijk zijn.
 
 #### Paragraaf 3. Rechten van betrokkene
 
@@ -264,37 +246,3 @@ Deze regeling treedt in werking met ingang van 1 september 2009.
 ##### Artikel 7.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Wet bescherming persoonsgegevens ministerie van Defensie.
-
-## Bijlage
-
-### Meldingenformulier als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2009-09-01&g=2009-09-01), van de Regeling bescherming persoonsgegevens ministerie van Defensie
-
-[ ] Eerste melding
-
-[ ] Eerste melding
-
-[ ] Doorgeven wijziging eerdere melding (nr. MvD/Wbp/.....)
-
-Deze regeling zal worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
-
-##### Artikel 2.6. Verwijderen van persoonsgegevens
-
-De persoonsgegevens worden verwijderd wanneer deze voor het doel van de verwerking niet meer noodzakelijk zijn.
-
-#### Paragraaf 3. Rechten van betrokkene
-
-#### Paragraaf 4. Beveiliging en beheer
-
-#### Paragraaf 5. Audit
-
-#### Paragraaf 6. Aanwijzing
-
-#### Paragraaf 7. Slotbepalingen
-
-## Bijlage
-
-### Meldingenformulier als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van de Regeling bescherming persoonsgegevens ministerie van Defensie
-
-Datum:
-
-Deze regeling zal worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.

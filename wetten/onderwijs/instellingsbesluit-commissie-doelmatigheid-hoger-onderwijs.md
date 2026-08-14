@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni 2009, nr. HO&S/BS/2009/119774, tot het instellen van een Commissie doelmatigheid hoger onderwijs (Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs)"
+citeertitel: "Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs"
 identifier: "BWBR0026019"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-20"
-last_updated: "2024-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026019"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10092433"
-version_id: "16498802"
-internal_id: "C22693441"
-label_id: "10068854"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026019/2024-03-20/0"
-intitule_bron: "Stcrt.2009-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-17"
-intitule_published: "2009-06-29"
-intitule_in_force: "2009-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-117"
-original_signed_date: "2009-06-17"
-original_published_date: "2009-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-9710"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBR0026019&z=2024-03-20&g=2024-03-20"
-jci_1_0: "1.0:c:BWBR0026019&g=2024-03-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs"
-signed_date: "2009-06-17"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2024-03-20
+status: geldig
+toestand: 2024-03-20
+bron: "https://wetten.overheid.nl/BWBR0026019"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni 2009, nr. HO&S/BS/2009/119774, tot het instellen van een Commissie doelmatigheid hoger onderwijs (Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs)
-
-Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. *wet:* de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2024-03-20&g=2024-03-20);
+- c. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2024-03-20&g=2024-03-20);
 
-- d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie;
+- d. *NVAO:* de Nederlands-Vlaamse Accreditatieorganisatie;
 
-- e. **RIO:** de Registratie instellingen en opleidingen als bedoeld in [artikel 6.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+- e. *RIO:* de Registratie instellingen en opleidingen als bedoeld in [artikel 6.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 ##### Artikel 2. Instelling
 
@@ -82,7 +56,7 @@ De commissie heeft tot taak:
 
 ##### Artikel 6. Leden
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Werkwijze
 
@@ -156,32 +130,30 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 Afschrift van dit besluit wordt gezonden aan:
 
-- •. De voorzitter en leden van de commissie;
+- • De voorzitter en leden van de commissie;
 
-- •. De President van de Algemene Rekenkamer;
+- • De President van de Algemene Rekenkamer;
 
-- •. De Voorzitters van de Eerste en Tweede Kamer der Staten-Generaal;
+- • De Voorzitters van de Eerste en Tweede Kamer der Staten-Generaal;
 
-- •. De HBO-raad;
+- • De HBO-raad;
 
-- •. De VSNU;
+- • De VSNU;
 
-- •. Het ISO;
+- • Het ISO;
 
-- •. De LSVb;
+- • De LSVb;
 
-- •. De NVAO;
+- • De NVAO;
 
-- •. VNO-NCW;
+- • VNO-NCW;
 
-- •. MKB-Nederland.
+- • MKB-Nederland.
 
 ##### Artikel 15. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Indien dit besluit wordt geplaatst in een staatscourant die verschijnt na 1 juli 2009, dan heeft dit besluit terugwerkende kracht tot 1 juli 2009.
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Indien dit besluit wordt geplaatst in een staatscourant die verschijnt na 1 juli 2009, dan heeft dit besluit terugwerkende kracht tot 1 juli 2009.
 
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

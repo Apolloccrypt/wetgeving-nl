@@ -1,75 +1,46 @@
 ---
 title: "Wet van 17 december 2009 tot wijziging van de Wet milieubeheer en enkele daarmee verband houdende wetten (modernisering van de regelgeving over de milieueffectrapportage)"
+citeertitel: "Wijzigingswet Wet milieubeheer, enz. (modernisering regelgeving milieueffectrapportage)"
 identifier: "BWBR0027110"
-country: "nl"
-rank: "wet"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027110"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "10392063"
-version_id: "17098202"
-internal_id: "C23963811"
-label_id: "10367504"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027110/2010-07-01/0"
-intitule_bron: "Stb.2010-20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-17"
-intitule_published: "2010-01-26"
-intitule_in_force: "2010-05-28"
-intitule_status: "goed"
-original_publication: "Stb.2010-20"
-original_signed_date: "2009-12-17"
-original_published_date: "2010-01-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "31755"
-original_url_id: "stb-2010-20"
-entry_into_force_date: "2010-07-01"
-jci_1_3: "jci1.3:c:BWBR0027110&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBR0027110&g=2010-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet milieubeheer, enz. (modernisering regelgeving milieueffectrapportage)"
-signed_date: "2009-12-17"
-entry_into_force: "2010-07-01"
+publicatiedatum: 2010-07-01
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBR0027110"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 17 december 2009 tot wijziging van de Wet milieubeheer en enkele daarmee verband houdende wetten (modernisering van de regelgeving over de milieueffectrapportage)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de bepalingen inzake [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7) en de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&paragraaf=2.2) (en [14.2) van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&paragraaf=14.2) te vereenvoudigen en de samenhang te verzekeren tussen de milieueffectrapportage voor plannen en die voor besluiten;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel III
 
-Wijzigt de Wet bescherming Antarctica.
+*Wijzigt de Wet bescherming Antarctica.*
 
 ##### Artikel IV
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel IVA
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel IVB
 
-Wijzigt de Wet ammoniak en veehouderij.
+*Wijzigt de Wet ammoniak en veehouderij.*
 
 ##### Artikel IVC
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel V
 
@@ -88,5 +59,3 @@ Ten aanzien van een besluit als bedoeld in [artikel 7.2, derde of vierde lid, va
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

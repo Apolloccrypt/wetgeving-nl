@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 maart 2010 nr. PG/JFB 2990179, houdende vaststelling van de vergoedingen van de leden en externe deskundigen van de Gezondheidsraad (Vergoedingenbesluit leden en externe deskundigen Gezondheidsraad)"
+citeertitel: "Vergoedingenbesluit leden en externe deskundigen Gezondheidsraad"
 identifier: "BWBR0027402"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027402"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10463773"
-version_id: "17214192"
-internal_id: "C23747821"
-label_id: "10438894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027402/2021-01-01/0"
-intitule_bron: "Stcrt.2010-4328"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-15"
-intitule_published: "2010-03-23"
-intitule_in_force: "2010-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-4328"
-original_signed_date: "2010-03-15"
-original_published_date: "2010-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-4328"
-entry_into_force_date: "2010-03-24"
-jci_1_3: "jci1.3:c:BWBR0027402&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0027402&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenbesluit leden en externe deskundigen Gezondheidsraad"
-signed_date: "2010-03-15"
-entry_into_force: "2010-03-24"
+publicatiedatum: 2010-03-24
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0027402"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 15 maart 2010 nr. PG/JFB 2990179, houdende vaststelling van de vergoedingen van de leden en externe deskundigen van de Gezondheidsraad (Vergoedingenbesluit leden en externe deskundigen Gezondheidsraad)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -60,7 +34,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De vergoeding per vergadering bedraagt € 275,–.
+1. De vergoeding per vergadering bedraagt € 275,–.
 
 2. De vergoeding per vergadering wordt uitsluitend betaald indien door middel van een getekende presentielijst, overgelegd door de secretaris van de Gezondheidsraad, is aangetoond dat de betrokkene heeft deelgenomen aan de vergadering.
 

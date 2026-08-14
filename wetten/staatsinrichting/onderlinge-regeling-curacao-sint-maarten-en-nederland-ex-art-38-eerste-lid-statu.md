@@ -1,56 +1,18 @@
 ---
 title: "Onderlinge regeling tussen Curaçao, Sint Maarten en Nederland, zoals bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen de landen op het gebied van de vreemdelingenketen"
+citeertitel: "Onderlinge regeling Curaçao, Sint Maarten en Nederland ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van vreemdelingenketen)"
 identifier: "BWBR0027352"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027352"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "10453933"
-version_id: "17195482"
-internal_id: "C25167581"
-label_id: "10429604"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027352/2010-10-10/0"
-intitule_bron: "Stcrt.2010-3443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-02-11"
-intitule_published: "2010-03-08"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-3443"
-original_signed_date: "2010-02-11"
-original_published_date: "2010-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-3443"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0027352&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0027352&g=2010-10-10"
-citeertitel_status: "redactioneel"
-short_title: "Onderlinge regeling Curaçao, Sint Maarten en Nederland ex art. 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van vreemdelingenketen)"
-signed_date: "2010-02-11"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0027352"
+opgehaald: 2026-08-14
 ---
+
 # Onderlinge regeling tussen Curaçao, Sint Maarten en Nederland, zoals bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, regelende de samenwerking tussen de landen op het gebied van de vreemdelingenketen
-
-Overwegende dat:
-
-in hoofdstuk I, onderdeel E van de Slotverklaring van het bestuurlijk overleg over de toekomstige staatkundige positie van Curaçao en Sint Maarten van 2 november 2006 is afgesproken dat Curaçao, Sint Maarten en Nederland een onderlinge regeling zullen treffen waarin ze afspraken maken over de vreemdelingenketen, zoals een gezamenlijk systeem, garanties voor professionaliteit, kwaliteit en integriteit, eenduidige procedures en registratiesystemen;
-
-een goed functionerende vreemdelingenketen in ieder van de afzonderlijke landen van het Koninkrijk en onderlinge samenwerking tussen de landen van belang zijn voor een goede uitvoering van en effectiviteit van het vreemdelingenbeleid,en het grensbeheer van de landen;
-
-maatregelen ter innovatie en optimalisering van de vreemdelingenketens in de Landen zo veel mogelijk zouden moeten aansluiten bij eerdere maatregelen die hetzelfde tot doel hadden;
-
-de onderlinge regeling betreft de instanties in de vreemdelingenketen van landen Curaçao en St. Maarten en het Caribische deel van Nederland (Bonaire, St. Eustastius en Saba);
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Verklaren het volgende te zijn overeengekomen:
-
-Treedt in werking op het tijdstip waarop de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ### Hoofdstuk 1. Doel en reikwijdte
 
@@ -170,7 +132,7 @@ Indien twee of meer van de landen gezamenlijke terugkeervluchten uitvoeren dan d
 
 De landen zorgen ervoor dat de (voorbereidingen ten behoeve van de) gedwongen terugkeer en de daadwerkelijke uitvoering van de terugkeer van vreemdelingen op een zorgvuldige, humane en snelle wijze gebeurt, met in achtneming van bijzondere voorzorgen ten aanzien van de medische aspecten, de terugkeer van minderjarige vreemdelingen en situaties waarbij aspecten spelen van mensenhandel of schrijdendheid.
 
-### Hoofdstuk 8. [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738)
+### Hoofdstuk 8. Rijkswet op het Nederlanderschap
 
 ##### Artikel 27
 
@@ -267,5 +229,3 @@ De onderlinge regeling kan op voorstel van een of meerdere landen met instemming
 ##### Artikel 47
 
 Deze onderlinge regeling treedt in werking op het tijdstip waarop de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
-
-Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant en de Curaçaosche Courant.

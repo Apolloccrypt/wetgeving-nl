@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 oktober 2009, houdende regels omtrent de aanwijzing van een nationale accreditatie-instantie in verband met de implementatie van EG-verordening nr. 765/2008 (Wet aanwijzing nationale accreditatie-instantie)"
+citeertitel: "Wet aanwijzing nationale accreditatie-instantie"
 identifier: "BWBR0026591"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026591"
+categorie: "Overig"
 soort: "wet"
-stam_id: "10261623"
-version_id: "16794512"
-internal_id: "C23124981"
-label_id: "10237254"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026591/2019-01-01/0"
-intitule_bron: "Stb.2009-455"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-29"
-intitule_published: "2009-11-10"
-intitule_in_force: "2009-11-10"
-intitule_status: "goed"
-original_publication: "Stb.2009-455"
-original_signed_date: "2009-10-29"
-original_published_date: "2009-11-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "31931"
-original_url_id: "stb-2009-455"
-entry_into_force_date: "2010-01-01"
-entry_into_force_dossier: "31931"
-jci_1_3: "jci1.3:c:BWBR0026591&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0026591&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet aanwijzing nationale accreditatie-instantie"
-signed_date: "2009-10-29"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0026591"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 29 oktober 2009, houdende regels omtrent de aanwijzing van een nationale accreditatie-instantie in verband met de implementatie van EG-verordening nr. 765/2008 (Wet aanwijzing nationale accreditatie-instantie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat ter implementatie van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [verordening (EG) nr. 339/93](31993R0339) voorzien moet worden in de aanwijzing van de nationale accreditatie-instantie;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Economische Zaken en Klimaat;
 
-- b. verordening: [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EG) nr. 339/93](31993R0339);
+- b. verordening: verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 (PbEU L 218) tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EG) nr. 339/93;
 
 - c. conformiteitsbeoordelingsinstantie: conformiteitsbeoordelingsinstantie als bedoeld in artikel 2, onderdeel 13, van de verordening;
 
@@ -118,20 +88,18 @@ De [artikelen 26 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](htt
 
 ##### Artikel 9
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
 ##### Artikel 10
 
-Op verzoeken om accreditatie die aan de Raad voor Accreditatie zijn gedaan voor 1 januari 2010 en waarop op die datum nog geen beslissing is genomen, wordt besloten met inachtneming van deze wet.
+Op verzoeken om accreditatie die aan de Raad voor Accreditatie zijn gedaan voor 1 januari 2010 en waarop op die datum nog geen beslissing is genomen, wordt besloten met inachtneming van deze wet.
 
 ##### Artikel 11
 
-Deze wet treedt in werking met ingang van 1 januari 2010. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2009, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2010.
+Deze wet treedt in werking met ingang van 1 januari 2010. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2009, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2010.
 
 ##### Artikel 12
 
 Deze wet wordt aangehaald als: Wet aanwijzing nationale accreditatie-instantie.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

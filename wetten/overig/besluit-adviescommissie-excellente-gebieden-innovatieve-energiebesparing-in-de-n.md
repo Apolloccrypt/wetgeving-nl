@@ -1,52 +1,26 @@
 ---
 title: "Besluit van 11 maart 2010, nr. 2010007597 houdende de instelling van de adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw"
+citeertitel: "Besluit adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw"
 identifier: "BWBR0027428"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-03-28"
-last_updated: "2010-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027428"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10471003"
-version_id: "17228532"
-internal_id: "C23766141"
-label_id: "10446144"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027428/2010-03-28/0"
-intitule_bron: "Stcrt.2010-4546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-11"
-intitule_published: "2010-03-26"
-intitule_in_force: "2010-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-4546"
-original_signed_date: "2010-03-11"
-original_published_date: "2010-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-4546"
-entry_into_force_date: "2010-03-28"
-jci_1_3: "jci1.3:c:BWBR0027428&z=2010-03-28&g=2010-03-28"
-jci_1_0: "1.0:c:BWBR0027428&g=2010-03-28"
-citeertitel_status: "officieel"
-short_title: "Besluit adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw"
-signed_date: "2010-03-11"
-entry_into_force: "2010-03-28"
+publicatiedatum: 2010-03-28
+laatste_update: 2010-03-28
+status: geldig
+toestand: 2010-03-28
+bron: "https://wetten.overheid.nl/BWBR0027428"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 11 maart 2010, nr. 2010007597 houdende de instelling van de adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw
-
-Gelet op de brief en bijlage van de minister voor Wonen, Wijken en Integratie aan de Colleges van B&W van 22 december 2009, nr. SB2009066621 over onder andere de wijze van toekenning van de decentralisatie-uitkering voor maximaal 13 excellente gebieden innovatie energiebesparing in de nieuwbouw;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=2&z=2010-03-28&g=2010-03-28),
+- a. *commissie:* commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=2&z=2010-03-28&g=2010-03-28),
 
-- b. **minister:** Minister voor Wonen, Wijken en Integratie.
+- b. *minister:* Minister voor Wonen, Wijken en Integratie.
 
 ##### Artikel 2
 
@@ -125,5 +99,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie excellente gebieden innovatieve energiebesparing in de nieuwbouw.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

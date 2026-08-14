@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 november 2009, R&P/RA/2009/26289 tot Instelling van een Comité van Experts subsidieregeling ESF 2007–2013 (herzien), Actie Jeugd2"
+citeertitel: "Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie Jeugd2"
 identifier: "BWBR0026713"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-11-28"
-last_updated: "2009-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026713"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "10288123"
-version_id: "16852642"
-internal_id: "C23198941"
-label_id: "10263584"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026713/2009-11-28/0"
-intitule_bron: "Stcrt.2009-18092"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-20"
-intitule_published: "2009-11-27"
-intitule_in_force: "2009-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-18092"
-original_signed_date: "2009-11-20"
-original_published_date: "2009-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-18092"
-entry_into_force_date: "2009-11-28"
-jci_1_3: "jci1.3:c:BWBR0026713&z=2009-11-28&g=2009-11-28"
-jci_1_0: "1.0:c:BWBR0026713&g=2009-11-28"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie Jeugd2"
-signed_date: "2009-11-20"
-entry_into_force: "2009-11-28"
+publicatiedatum: 2009-11-28
+laatste_update: 2009-11-28
+status: geldig
+toestand: 2009-11-28
+bron: "https://wetten.overheid.nl/BWBR0026713"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 november 2009, R&P/RA/2009/26289 tot Instelling van een Comité van Experts subsidieregeling ESF 2007–2013 (herzien), Actie Jeugd2
-
-Gelet op [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313&artikel=5),
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **het comité:** het Comité van experts Subsidieregeling ESF 2007–2013/Actie Jeugd2 als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313&artikel=5);
+- a. *het comité:* het Comité van experts Subsidieregeling ESF 2007–2013/Actie Jeugd2 als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313&artikel=5);
 
-- b. **de Subsidieregeling:** de [subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313);
+- b. *de Subsidieregeling:* de [subsidieregeling ESF 2007–2013 (herzien)](https://wetten.overheid.nl/jci1.3:c:BWBR0026313);
 
-- c. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- c. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **het ministerie:** het Ministerie van Sociale Zaken en Werkgelegenheid.
+- d. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Instelling
 
@@ -101,5 +75,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Comité van experts Subsidieregeling ESF 2007–2013/Actie Jeugd2.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

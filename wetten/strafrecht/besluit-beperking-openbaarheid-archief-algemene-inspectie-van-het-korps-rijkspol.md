@@ -1,39 +1,37 @@
 ---
 title: "Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Algemene Inspectie van het Korps Rijkspolitie van het Ministerie van Justitie (1945–1992) (als bedoeld in artikel 10 van het Archiefbesluit 1995)"
+citeertitel: "Besluit beperking openbaarheid archief Algemene Inspectie van het Korps Rijkspolitie Ministerie van Justitie 1945–1992"
 identifier: "BWBR0026324"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-11-01"
-last_updated: "2009-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026324"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10165503"
-version_id: "16632382"
-internal_id: "C22900961"
-label_id: "10141364"
-dtd_version: "2.0"
-original_entry_into_force: "2009-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026324/2009-11-01/0"
-intitule_bron: "Stcrt.2009-13111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-24"
-intitule_published: "2009-09-02"
-intitule_in_force: "2009-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-13111"
-original_signed_date: "2009-02-24"
-original_published_date: "2009-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-13111"
-entry_into_force_date: "2009-11-01"
-jci_1_3: "jci1.3:c:BWBR0026324&z=2009-11-01&g=2009-11-01"
-jci_1_0: "1.0:c:BWBR0026324&g=2009-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Algemene Inspectie van het Korps Rijkspolitie Ministerie van Justitie 1945–1992"
-signed_date: "2009-02-24"
-entry_into_force: "2009-11-01"
+publicatiedatum: 2009-11-01
+laatste_update: 2009-11-01
+status: geldig
+toestand: 2009-11-01
+bron: "https://wetten.overheid.nl/BWBR0026324"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Algemene Inspectie van het Korps Rijkspolitie van het Ministerie van Justitie (1945–1992) (als bedoeld in artikel 10 van het Archiefbesluit 1995)
 
 Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende personen, worden op grond van [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) aan de openbaarheid van het naar het Nationaal Archief over te brengen archief van de Algemene Inspectie van het Korps Rijkspolitie van het Ministerie van Justitie bevattende de hierboven genoemde archieven, de volgende beperkingen gesteld:
+
+- 1. De dossiers die in de toegang zijn opgenomen onder de inventarisnummers 422, 453 en 474 en die jonger zijn dan 75 jaar, zijn beperkt openbaar; uitgangspunt daarbij is het jaar waarin het betreffende dossier is afgesloten.
+
+- 2. Deze beperking is niet van toepassing op de overige inventarisnummers van de toegang.
+
+- 3. Raadpleging van de archiefbescheiden is, gelet op [art. 15, derde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), slechts mogelijk na schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. Deze toestemming kan worden verleend, indien wordt voldaan aan de volgende voorwaarden: Voordat hij toestemming verleent, beoordeelt de directeur van het Nationaal Archief het verzoek.
+
+   - – De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden, waarin wordt aangegeven: de omschrijving van het onderzoeksdoel, de onderzoeksopzet en de wijze waarop de vertrouwelijkheid van de persoonsgegevens zal worden gewaarborgd.
+
+   - – De verzoeker vult hiertoe het *Formulier voor toestemming tot raadpleging van niet-openbare archieven van het Ministerie van Justitie* in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de in het formulier opgenomen bepalingen. Een exemplaar van het formulier is als bijlage 2 bij de Verklaring van Overbrenging gevoegd.
+
+- 4. De directeur van het Nationaal Archief bereidt de beschikbaarstelling van de dossiers voor. In de belangenafweging betrekt hij de belangen van alle personen waarvan persoonsgegevens in het dossier zijn opgenomen.
+
+- 5. Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, zonder toestemming van de directeur van het Nationaal Archief. Deze kan uitsluitend toestemming verlenen voor: De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.
+
+   - – Reproducties van in dossiers aangetroffen openbare stukken, zoals krantenknipsels.
+
+   - – Reproducties van in persoonsdossiers aangetroffen foto’s, persoonlijke brieven, dagboeken, andere soortgelijke documenten, indien deze aantoonbare persoonlijke emotionele waarde hebben voor de verzoeker, indien deze documenten geen belastende aanwijzingen bevatten en het bezit daarvan de belangen van nog levende personen niet onevenredig kan schaden.
+
+- 6. De directeur van het Nationaal Archief geeft voor publicatie uit deze bescheiden voor stukken houdende bijzondere persoonsgegevens in de zin van artikel 16 Wet bescherming persoonsgegevens, geen toestemming zonder voorafgaand overleg met de Minister van Justitie.

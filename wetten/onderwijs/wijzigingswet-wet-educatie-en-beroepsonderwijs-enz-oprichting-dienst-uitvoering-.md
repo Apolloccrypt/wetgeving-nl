@@ -1,83 +1,54 @@
 ---
 title: "Wet van 15 oktober 2009 tot intrekking van de Wet verzelfstandiging Informatiseringsbank en wijziging van diverse wetten in verband met de oprichting van de Dienst Uitvoering Onderwijs (DUO)"
+citeertitel: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (oprichting Dienst Uitvoering Onderwijs (DUO))"
 identifier: "BWBR0026723"
-country: "nl"
-rank: "wet"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026723"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "10289603"
-version_id: "16857732"
-internal_id: "C23230711"
-label_id: "10265294"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026723/2010-01-01/0"
-intitule_bron: "Stb.2009-492"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-10-15"
-intitule_published: "2009-12-01"
-intitule_in_force: "2009-12-01"
-intitule_status: "goed"
-original_publication: "Stb.2009-492"
-original_signed_date: "2009-10-15"
-original_published_date: "2009-12-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "31944"
-original_url_id: "stb-2009-492"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026723&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0026723&g=2010-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (oprichting Dienst Uitvoering Onderwijs (DUO))"
-signed_date: "2009-10-15"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0026723"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 15 oktober 2009 tot intrekking van de Wet verzelfstandiging Informatiseringsbank en wijziging van diverse wetten in verband met de oprichting van de Dienst Uitvoering Onderwijs (DUO)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de uitvoeringsorganisaties voor het onderwijs, Centrale Financiën Instellingen en de Informatie Beheer Groep, samen te voegen tot een nieuwe uitvoeringsorganisatie voor het onderwijs, de Dienst Uitvoering Onderwijs, en dat het daartoe nodig is de [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320) in te trekken en diverse wetten aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+*Wijzigt de Wet educatie en beroepsonderwijs.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de expertisecentra.
+*Wijzigt de Wet op de expertisecentra.*
 
 ##### Artikel III
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
 
 ##### Artikel IIIa
 
-Wijzigt de Leerplichtwet 1969.
+*Wijzigt de Leerplichtwet 1969.*
 
 ##### Artikel IV
 
-Wijzigt de Les- en cursusgeldwet.
+*Wijzigt de Les- en cursusgeldwet.*
 
 ##### Artikel V
 
-Wijzigt de Wet op het onderwijstoezicht.
+*Wijzigt de Wet op het onderwijstoezicht.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op het primair onderwijs.
+*Wijzigt de Wet op het primair onderwijs.*
 
 ##### Artikel VII
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel IX
 
@@ -85,7 +56,7 @@ De [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.
 
 ##### Artikel X
 
-Wijzigt de Wet op het voortgezet onderwijs.
+*Wijzigt de Wet op het voortgezet onderwijs.*
 
 ##### Artikel Xa
 
@@ -95,35 +66,35 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel XI
 
-Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
+*Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.*
 
 ##### Artikel XII
 
-Wijzigt de Algemene kinderbijslagwet.
+*Wijzigt de Algemene kinderbijslagwet.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel XV
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet werk en inkomen kunstenaars.
+*Wijzigt de Wet werk en inkomen kunstenaars.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet inburgering.
+*Wijzigt de Wet inburgering.*
 
 ##### Artikel XIX
 
@@ -161,34 +132,32 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap is met ingang van de datum va
 
 ##### Artikel XXIV
 
-Wijzigt de Wet College voor examens.
+*Wijzigt de Wet College voor examens.*
 
 ##### Artikel XXV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet op de expertisecentra.
+*Wijzigt de Wet op de expertisecentra.*
 
 ##### Artikel XXVIIa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVIIb
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVIIc
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

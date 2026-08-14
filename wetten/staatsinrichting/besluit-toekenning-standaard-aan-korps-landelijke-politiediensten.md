@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 21 augustus 2009, houdende toekenning van een standaard aan het Korps landelijke politiediensten"
+citeertitel: "Besluit toekenning standaard aan Korps landelijke politiediensten"
 identifier: "BWBR0026352"
-country: "nl"
-rank: "kb"
-publication_date: "2009-09-11"
-last_updated: "2009-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026352"
+categorie: "Overig"
 soort: "KB"
-stam_id: "10171203"
-version_id: "16643792"
-internal_id: "C22914411"
-label_id: "10147134"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026352/2009-09-11/0"
-intitule_bron: "Stb.2009-374"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-08-21"
-intitule_published: "2009-09-10"
-intitule_in_force: "2009-09-10"
-intitule_status: "goed"
-original_publication: "Stb.2009-374"
-original_signed_date: "2009-08-21"
-original_published_date: "2009-09-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-374"
-entry_into_force_date: "2009-09-11"
-jci_1_3: "jci1.3:c:BWBR0026352&z=2009-09-11&g=2009-09-11"
-jci_1_0: "1.0:c:BWBR0026352&g=2009-09-11"
-citeertitel_status: "redactioneel"
-short_title: "Besluit toekenning standaard aan Korps landelijke politiediensten"
-signed_date: "2009-08-21"
-entry_into_force: "2009-09-11"
+publicatiedatum: 2009-09-11
+laatste_update: 2009-09-11
+status: geldig
+toestand: 2009-09-11
+bron: "https://wetten.overheid.nl/BWBR0026352"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 21 augustus 2009, houdende toekenning van een standaard aan het Korps landelijke politiediensten
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 augustus 2009, 2009-0000441775, Directoraat-generaal Veiligheid, bureau Korpsbeheer en Relatiebeheer Agentschappen;
-
-Hebben goedgevonden en verstaan;
 
 ##### Artikel 1
 
@@ -48,13 +22,13 @@ Het Korps landelijke politiediensten voert een standaard, bestaande uit een stan
 
 1. Het standaarddoek is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het standaarddoek zijn vijftig centimeter.
 
-2. Op de voorzijde is in goud geborduurd een gestileerde gekroonde **B**, de kroon in de kleuren van het Koninklijk wapen. Onder de **B** is in goud geborduurd:
+2. Op de voorzijde is in goud geborduurd een gestileerde gekroonde *B*, de kroon in de kleuren van het Koninklijk wapen. Onder de *B* is in goud geborduurd:
 
-**KORPS LANDELIJKE**
+*KORPS LANDELIJKE*
 
-**POLITIEDIENSTEN**
+*POLITIEDIENSTEN*
 
-Het geheel van de gekroonde **B** en de naam van het korps is omgeven door een doorlopende oranjetak.
+Het geheel van de gekroonde *B* en de naam van het korps is omgeven door een doorlopende oranjetak.
 
 3. Op de achterzijde is in kleuren geborduurd het Koninklijk wapen zonder de daarbij behorende mantel. Het geheel is omgeven door een doorlopende oranjetak.
 
@@ -83,5 +57,3 @@ De voor de krijgsmacht geldende richtlijnen en instructies met betrekking tot he
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit, dat met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons militair Huis.

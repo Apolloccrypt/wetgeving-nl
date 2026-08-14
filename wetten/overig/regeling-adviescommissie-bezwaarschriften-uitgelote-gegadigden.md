@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Directeur-Generaal van de Dienst Uitvoering Onderwijs van 15 december 2009, nr. HD-09.196, inzake de behandeling bezwaarschriften aanmelding en selectie (Regeling adviescommissie bezwaarschriften uitgelote gegadigden)"
+citeertitel: "Regeling adviescommissie bezwaarschriften uitgelote gegadigden"
 identifier: "BWBR0027030"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027030"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "10370823"
-version_id: "17044262"
-internal_id: "C23504751"
-label_id: "10345894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027030/2010-01-01/0"
-intitule_bron: "Stcrt.2009-20614"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-15"
-intitule_published: "2009-12-31"
-intitule_in_force: "2009-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20614"
-original_signed_date: "2009-12-15"
-original_published_date: "2009-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20614"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0027030&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0027030&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling adviescommissie bezwaarschriften uitgelote gegadigden"
-signed_date: "2009-12-15"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0027030"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Directeur-Generaal van de Dienst Uitvoering Onderwijs van 15 december 2009, nr. HD-09.196, inzake de behandeling bezwaarschriften aanmelding en selectie (Regeling adviescommissie bezwaarschriften uitgelote gegadigden)
-
-Overwegende dat een adviescommissie voor de behandeling van bezwaarschriften aanmelding en selectie bij DUO wenselijk is;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** de adviescommissie bezwaarschriften uitgelote gegadigden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027030&artikel=3&z=2010-01-01&g=2010-01-01) van deze regeling;
+- *commissie:* de adviescommissie bezwaarschriften uitgelote gegadigden als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027030&artikel=3&z=2010-01-01&g=2010-01-01) van deze regeling;
 
-- **DUO:** Dienst Uitvoering Onderwijs;
+- *DUO:* Dienst Uitvoering Onderwijs;
 
-- **DG-DUO:** Directeur-Generaal DUO;
+- *DG-DUO:* Directeur-Generaal DUO;
 
-- **indiener:** degene die een bezwaarschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027030&artikel=2&z=2010-01-01&g=2010-01-01) van deze regeling heeft ingediend;
+- *indiener:* degene die een bezwaarschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027030&artikel=2&z=2010-01-01&g=2010-01-01) van deze regeling heeft ingediend;
 
-- **medewerker:** degene die in vaste of tijdelijke dienst van DUO is;
+- *medewerker:* degene die in vaste of tijdelijke dienst van DUO is;
 
-- **WHW:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- *WHW:* de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2. Onderwerp
 

@@ -1,51 +1,25 @@
 ---
 title: "Instellingsbesluit Task Force Next Generation Networks"
 identifier: "BWBR0026910"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-12-23"
-last_updated: "2009-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026910"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10335083"
-version_id: "16964372"
-internal_id: "C23391421"
-label_id: "10310334"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026910/2009-12-23/0"
-intitule_bron: "Stcrt.2009-19948"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-09"
-intitule_published: "2009-12-22"
-intitule_in_force: "2009-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19948"
-original_signed_date: "2009-12-09"
-original_published_date: "2009-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19948"
-entry_into_force_date: "2009-12-23"
-jci_1_3: "jci1.3:c:BWBR0026910&z=2009-12-23&g=2009-12-23"
-jci_1_0: "1.0:c:BWBR0026910&g=2009-12-23"
-citeertitel_status: "officieel"
-signed_date: "2009-12-09"
-entry_into_force: "2009-12-23"
+publicatiedatum: 2009-12-23
+laatste_update: 2009-12-23
+status: geldig
+toestand: 2009-12-23
+bron: "https://wetten.overheid.nl/BWBR0026910"
+opgehaald: 2026-08-14
 ---
+
 # Instellingsbesluit Task Force Next Generation Networks
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de staatssecretaris:** de Staatssecretaris van Economische Zaken;
+- a. *de staatssecretaris:* de Staatssecretaris van Economische Zaken;
 
-- b. **Task Force:** de Task Force Next Generation Networks.
+- b. *Task Force:* de Task Force Next Generation Networks.
 
 ##### Artikel 2
 
@@ -55,15 +29,15 @@ In dit besluit wordt verstaan onder:
 
 3. Voor de uitvoering van de taak zal de Task Force:
 
-- a). in het advies aandacht besteden aan de verschillende bedrijfseconomische, financiële, juridische en organisatorische modellen die relevant zijn voor gemeenten om hun participatie vorm te geven.
+- a) in het advies aandacht besteden aan de verschillende bedrijfseconomische, financiële, juridische en organisatorische modellen die relevant zijn voor gemeenten om hun participatie vorm te geven.
 
-- b). het advies doen uitmonden in een ‘menukaart’ die gemeenten kunnen gebruiken voor het vormgeven van hun eigen rol, en hun relatie met ondernemingen, institutionele investeerders, private investeerders en banken, woningcorporaties en andere spelers.
+- b) het advies doen uitmonden in een ‘menukaart’ die gemeenten kunnen gebruiken voor het vormgeven van hun eigen rol, en hun relatie met ondernemingen, institutionele investeerders, private investeerders en banken, woningcorporaties en andere spelers.
 
-- c). in het advies expliciet aandacht besteden aan de do’s en dont’s zodanig dat de menukaart op eenvoudige wijze kan worden gebruikt als input of inspiratie voor de decentrale besturen.
+- c) in het advies expliciet aandacht besteden aan de do’s en dont’s zodanig dat de menukaart op eenvoudige wijze kan worden gebruikt als input of inspiratie voor de decentrale besturen.
 
-- d). in het advies inzicht geven in de voorziene behoefte aan (diensten) en groeipotentie van Next Generation Networks tussen 2015 en 2020.
+- d) in het advies inzicht geven in de voorziene behoefte aan (diensten) en groeipotentie van Next Generation Networks tussen 2015 en 2020.
 
-- e). in het advies ingaan op de mogelijkheden voor decentrale overheden om diensteninnovatie te stimuleren en aan te geven welke randvoorwaarden hiervoor gewenst zijn.
+- e) in het advies ingaan op de mogelijkheden voor decentrale overheden om diensteninnovatie te stimuleren en aan te geven welke randvoorwaarden hiervoor gewenst zijn.
 
 ##### Artikel 3
 
@@ -120,5 +94,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Task Force Next Generation Networks.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

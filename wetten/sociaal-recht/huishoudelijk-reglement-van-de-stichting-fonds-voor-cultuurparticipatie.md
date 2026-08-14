@@ -1,73 +1,51 @@
 ---
 title: "Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie"
 identifier: "BWBR0026366"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-05-09"
-last_updated: "2009-05-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026366"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10174423"
-version_id: "16647842"
-internal_id: "C22919111"
-label_id: "10150414"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026366/2009-05-09/0"
-intitule_bron: "Stcrt.2009-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-02-05"
-intitule_published: "2009-05-07"
-intitule_in_force: "2009-05-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-83"
-original_signed_date: "2009-02-05"
-original_published_date: "2009-05-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-6685"
-entry_into_force_date: "2009-05-09"
-jci_1_3: "jci1.3:c:BWBR0026366&z=2009-05-09&g=2009-05-09"
-jci_1_0: "1.0:c:BWBR0026366&g=2009-05-09"
-citeertitel_status: "officieel"
-signed_date: "2009-02-05"
-entry_into_force: "2009-05-09"
+publicatiedatum: 2009-05-09
+laatste_update: 2009-05-09
+status: geldig
+toestand: 2009-05-09
+bron: "https://wetten.overheid.nl/BWBR0026366"
+opgehaald: 2026-08-14
 ---
+
 # Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a). **De Wet:** de [Wet op specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) wet van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;
+- a) *De Wet:* de [Wet op specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) wet van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;
 
-- b). **Het Fonds:** Stichting Fonds voor Cultuurparticipatie;
+- b) *Het Fonds:* Stichting Fonds voor Cultuurparticipatie;
 
-- c). **Raad van toezicht:** de raad van toezicht als bedoeld in artikel 11 van de statuten;
+- c) *Raad van toezicht:* de raad van toezicht als bedoeld in artikel 11 van de statuten;
 
-- d). **Het bestuur:** het bestuur als bedoeld in artikel 5 van de statuten;
+- d) *Het bestuur:* het bestuur als bedoeld in artikel 5 van de statuten;
 
-- e). **Het bureau:** het ondersteunend bureau als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026366&artikel=10&z=2009-05-09&g=2009-05-09) van dit Huishoudelijk Reglement;
+- e) *Het bureau:* het ondersteunend bureau als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026366&artikel=10&z=2009-05-09&g=2009-05-09) van dit Huishoudelijk Reglement;
 
-- f). **Bezwaar:** bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
+- f) *Bezwaar:* bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
-- g). **Bezwaarschrift:** een bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5);
+- g) *Bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5);
 
-- h). **De minister:** de minister voor Onderwijs, Cultuur en Wetenschap
+- h) *De minister:* de minister voor Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 2. Inrichting van de organisatie
 
 Het Fonds kent:
 
-- a). een Raad van Toezicht;
+- a) een Raad van Toezicht;
 
-- b). een bestuur;
+- b) een bestuur;
 
-- c). Adviseurs;
+- c) Adviseurs;
 
-- d). Bureau;
+- d) Bureau;
 
-- e). een Bezwarenadviescommissie;
+- e) een Bezwarenadviescommissie;
 
 ##### Artikel 3. Het bestuur
 
@@ -125,11 +103,11 @@ Het Fonds kent:
 
 3. Secretarissen hebben in ieder geval tot taak:
 
-- −. in hun specifieke aandachtsgebied contact met het veld en de desbetreffende adviescommissie te onderhouden;
+- − in hun specifieke aandachtsgebied contact met het veld en de desbetreffende adviescommissie te onderhouden;
 
-- −. subsidieaanvragen te voorzien van een preadvies waarin de aanvraag wordt getoetst aan de subsidiereglementen en beleidsmatige richtlijnen;
+- − subsidieaanvragen te voorzien van een preadvies waarin de aanvraag wordt getoetst aan de subsidiereglementen en beleidsmatige richtlijnen;
 
-- −. het beheer van subsidierelaties.
+- − het beheer van subsidierelaties.
 
 4. De secretarissen melden hun functies en nevenfuncties aan het bestuur.
 
@@ -141,13 +119,13 @@ Het Fonds kent:
 
 3. Adviseurs beschikken over kennis van één of meer van de volgende gebieden:
 
-- −. de nationale en internationale ontwikkelingen van de disciplines: amateurkunst, cultuureducatie en/of volkscultuur;
+- − de nationale en internationale ontwikkelingen van de disciplines: amateurkunst, cultuureducatie en/of volkscultuur;
 
-- −. implementatie van de kernwoorden vernieuwing, verankering en culturele diversiteit binnen subsidieaanvragen;
+- − implementatie van de kernwoorden vernieuwing, verankering en culturele diversiteit binnen subsidieaanvragen;
 
-- −. de werkwijze van culturele instellingen;
+- − de werkwijze van culturele instellingen;
 
-- −. zakelijk inzicht;
+- − zakelijk inzicht;
 
 4. Adviseurs worden door het bestuur benoemd voor een periode van ten hoogste twee jaar, met de mogelijkheid tot herbenoeming van ten hoogste twee jaar. Voorzitters van de adviescommissies zijn adviseurs die als zodanig door het bestuur zijn benoemd. Voorzitters van de adviescommissies worden benoemd voor een periode van drie jaar, met de mogelijkheid tot herbenoeming van ten hoogste drie jaar.
 
@@ -175,17 +153,17 @@ Het Fonds kent:
 
 6. De voorzitter:
 
-- −. Leidt de adviescommissievergadering;
+- − Leidt de adviescommissievergadering;
 
-- −. Is verantwoordelijk voor een evenwichtige besluitvorming;
+- − Is verantwoordelijk voor een evenwichtige besluitvorming;
 
-- −. Ziet erop toe dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidiereglementen en de beleidsmatige richtlijnen;
+- − Ziet erop toe dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidiereglementen en de beleidsmatige richtlijnen;
 
-- −. Waarborgt een eerlijke en open besluitvorming;
+- − Waarborgt een eerlijke en open besluitvorming;
 
-- −. Bewaakt de kwaliteit van de voorbereiding door adviescommissieleden;
+- − Bewaakt de kwaliteit van de voorbereiding door adviescommissieleden;
 
-- −. Bewaakt de integriteit van het beoordelingsproces.
+- − Bewaakt de integriteit van het beoordelingsproces.
 
 7. Adviescommissievergaderingen zijn niet openbaar.
 
@@ -227,11 +205,11 @@ Het Fonds kent:
 
 8. Het besluit tot toekenning of afwijzing van de subsidieaanvraag omvat, naast hetgeen wettelijk is vereist:
 
-- −. feitelijke informatie over de aanvraag;
+- − feitelijke informatie over de aanvraag;
 
-- −. indien de subsidieaanvraag is voorgelegd aan adviseurs: de namen van de adviseurs of de naam van de adviescommissie die het advies heeft uitgebracht;
+- − indien de subsidieaanvraag is voorgelegd aan adviseurs: de namen van de adviseurs of de naam van de adviescommissie die het advies heeft uitgebracht;
 
-- −. de gemotiveerde overwegingen die door de adviescommissie over de aanvraag aan het Fonds zijn uitgebracht.
+- − de gemotiveerde overwegingen die door de adviescommissie over de aanvraag aan het Fonds zijn uitgebracht.
 
 9. Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website. Het Fonds publiceert periodiek de gehonoreerde en niet gehonoreerde aanvragen.
 

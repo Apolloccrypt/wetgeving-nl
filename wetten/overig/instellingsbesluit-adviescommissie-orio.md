@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de minister voor Ontwikkelingssamenwerking van 8 juni 2009, nr. DDE-355/2009, tot instelling van de Adviescommissie OntwikkelingsRelevante Infrastructuur Ontwikkeling"
+citeertitel: "Instellingsbesluit Adviescommissie ORIO"
 identifier: "BWBR0025986"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2009-06-26"
-last_updated: "2009-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0025986"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10083993"
-version_id: "16476212"
-internal_id: "C22651991"
-label_id: "10060334"
-dtd_version: "2.0"
-original_entry_into_force: "2009-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0025986/2009-06-26/0"
-intitule_bron: "Stcrt.2009-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-08"
-intitule_published: "2009-06-24"
-intitule_in_force: "2009-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-114"
-original_signed_date: "2009-06-08"
-original_published_date: "2009-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-9385"
-entry_into_force_date: "2009-06-26"
-jci_1_3: "jci1.3:c:BWBR0025986&z=2009-06-26&g=2009-06-26"
-jci_1_0: "1.0:c:BWBR0025986&g=2009-06-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie ORIO"
-signed_date: "2009-06-08"
-entry_into_force: "2009-06-26"
+publicatiedatum: 2009-06-26
+laatste_update: 2009-06-26
+status: geldig
+toestand: 2009-06-26
+bron: "https://wetten.overheid.nl/BWBR0025986"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van de minister voor Ontwikkelingssamenwerking van 8 juni 2009, nr. DDE-355/2009, tot instelling van de Adviescommissie OntwikkelingsRelevante Infrastructuur Ontwikkeling
-
-Gelet op het [besluit van 23 februari 2009, R-nr. 649, tot vaststelling van de beleidsregels voor de schenkingsfaciliteit OntwikkelingsRelevante Infrastructuur Ontwikkeling (ORIO)](https://wetten.overheid.nl/jci1.3:c:BWBR0025451);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -91,5 +65,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie ORIO.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

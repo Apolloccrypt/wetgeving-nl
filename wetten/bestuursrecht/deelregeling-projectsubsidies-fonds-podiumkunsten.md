@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0029367"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-14
 ---
 
 # Deelregeling projectsubsidies Fonds Podiumkunsten

@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2009, nr R&P/RA/2009/16207 tot openstelling van de mogelijkheid projectvoorstellen in te dienen in het kader van het Europees Globaliseringsfonds (EGF)"
+citeertitel: "EGF regeling"
 identifier: "BWBR0026153"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026153"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "10136593"
-version_id: "17452232"
-internal_id: "C24124941"
-label_id: "10112694"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026153/2013-01-01/0"
-intitule_bron: "Stcrt.2010-9434"
-intitule_effect: "wijziging"
-intitule_signed: "2010-06-14"
-intitule_published: "2010-06-22"
-intitule_in_force: "2010-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-9434"
-original_signed_date: "2010-06-14"
-original_published_date: "2010-06-22"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2010-9434"
-entry_into_force_date: "2010-06-14"
-jci_1_3: "jci1.3:c:BWBR0026153&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0026153&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "EGF regeling"
-signed_date: "2010-06-14"
-entry_into_force: "2010-06-14"
+publicatiedatum: 2010-06-14
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0026153"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2009, nr R&P/RA/2009/16207 tot openstelling van de mogelijkheid projectvoorstellen in te dienen in het kader van het Europees Globaliseringsfonds (EGF)
-
-Gelet op artikel 18 van Verordening (EG) nr. 1927/2006 van het Europees Parlement en de Raad van 20 december 2006, zoals gewijzigd door Verordening (EG) nr. 546/2009 van het Europees parlement en de Raad van 18 juni 2009;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- –. **De Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- – *De Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **De verordening:** Verordening (EG) nr. 1927/2006 van het Europees Parlement en de Raad van 20 december 2006, zoals gewijzigd door Verordening (EG) nr. 546/2009 van het Europees parlement en de Raad van 18 juni 2009;
+- – *De verordening:* Verordening (EG) nr. 1927/2006 van het Europees Parlement en de Raad van 20 december 2006, zoals gewijzigd door Verordening (EG) nr. 546/2009 van het Europees parlement en de Raad van 18 juni 2009;
 
-- –. **EGF:** Europees fonds voor aanpassing aan de globalisering;
+- – *EGF:* Europees fonds voor aanpassing aan de globalisering;
 
-- –. **aanvrager:** rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF en daartoe een projectvoorstel indient bij de Minister.
+- – *aanvrager:* rechtspersoon die in aanmerking wil komen voor een financiële bijdrage uit het EGF en daartoe een projectvoorstel indient bij de Minister.
 
 ##### Artikel 2. Projectvoorstel
 
@@ -92,10 +66,6 @@ De aanvrager richt de nodige beheers- en controle systemen in conform de eisen d
 
 De Minister stelt de aanvrager zo snel mogelijk op de hoogte van de beslissing van de Europese Commissie waarin de financiële bijdrage van het EGF wordt afgesloten, en stelt op basis daarvan de subsidie vast.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als ‘EGF regeling’.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

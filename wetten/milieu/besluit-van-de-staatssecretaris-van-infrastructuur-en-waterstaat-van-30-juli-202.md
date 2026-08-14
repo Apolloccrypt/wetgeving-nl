@@ -9,7 +9,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0052976"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-14
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 30 juli 2026, nr. IENW/BSK-2026/122470 houdende tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van Maxforce kwantum ter bestrijding van het Mediterraan Draaigatje; (Vrijstelling Maxforce Quantum 2026)

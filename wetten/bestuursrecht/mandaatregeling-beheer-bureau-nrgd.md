@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister van Justitie van 4 december 2009, nr. 5620763/09, houdende verlening van mandaat, volmacht en machtiging aan de voorzitter van het College gerechtelijk deskundigen ten aanzien van de aangelegenheden die het beheer van het bureau van het Nederlands Register Gerechtelijk Deskundigen betreffen (Mandaatregeling beheer bureau NRGD)"
+citeertitel: "Mandaatregeling beheer bureau NRGD"
 identifier: "BWBR0026815"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026815"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10311153"
-version_id: "16898592"
-internal_id: "C23277891"
-label_id: "10286564"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026815/2010-01-01/0"
-intitule_bron: "Stcrt.2009-19153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-04"
-intitule_published: "2009-12-14"
-intitule_in_force: "2009-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-19153"
-original_signed_date: "2009-12-04"
-original_published_date: "2009-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-19153"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBR0026815&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBR0026815&g=2010-01-01"
-citeertitel_status: "officieel"
-short_title: "Mandaatregeling beheer bureau NRGD"
-signed_date: "2009-12-04"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBR0026815"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Minister van Justitie van 4 december 2009, nr. 5620763/09, houdende verlening van mandaat, volmacht en machtiging aan de voorzitter van het College gerechtelijk deskundigen ten aanzien van de aangelegenheden die het beheer van het bureau van het Nederlands Register Gerechtelijk Deskundigen betreffen (Mandaatregeling beheer bureau NRGD)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32), [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **het College:** het College gerechtelijk deskundigen, bedoeld in [artikel 3 van het Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3);
+- a. *het College:* het College gerechtelijk deskundigen, bedoeld in [artikel 3 van het Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3);
 
-- b. **het bureau:** het bureau ter ondersteuning van het College;
+- b. *het bureau:* het bureau ter ondersteuning van het College;
 
-- c. **mandaat:** de bevoegdheid om in naam van de Minister van Justitie besluiten te nemen;
+- c. *mandaat:* de bevoegdheid om in naam van de Minister van Justitie besluiten te nemen;
 
-- d. **volmacht:** de bevoegdheid om in naam van de Minister van Justitie privaatrechtelijke rechtshandelingen te verrichten;
+- d. *volmacht:* de bevoegdheid om in naam van de Minister van Justitie privaatrechtelijke rechtshandelingen te verrichten;
 
-- e. **machtiging:** de bevoegdheid om in naam van de Minister van Justitie handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+- e. *machtiging:* de bevoegdheid om in naam van de Minister van Justitie handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -73,5 +47,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2010.
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Mandaatregeling beheer bureau NRGD.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

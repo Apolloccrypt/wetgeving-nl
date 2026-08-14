@@ -9,7 +9,7 @@ laatste_update: 2026-08-13
 status: geldig
 toestand: 2026-08-13
 bron: "https://wetten.overheid.nl/BWBR0049755"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-14
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2024, nr. 46204814, houdende instelling van de Regiegroep Sociale Veiligheid in Hoger Onderwijs en Wetenschap (Instellingsbesluit Regiegroep Sociale Veiligheid Hoger Onderwijs en Wetenschap)

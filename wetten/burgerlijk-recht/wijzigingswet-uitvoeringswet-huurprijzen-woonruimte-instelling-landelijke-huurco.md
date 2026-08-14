@@ -1,63 +1,34 @@
 ---
 title: "Wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)"
+citeertitel: "Wijzigingswet Uitvoeringswet huurprijzen woonruimte (instelling landelijke huurcommissie)"
 identifier: "BWBR0027142"
-country: "nl"
-rank: "wet"
-publication_date: "2010-04-01"
-last_updated: "2010-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027142"
+categorie: "Overig"
 soort: "wet"
-stam_id: "10408853"
-version_id: "17123272"
-internal_id: "C23785601"
-label_id: "10384314"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027142/2010-04-01/0"
-intitule_bron: "Stb.2010-28"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-23"
-intitule_published: "2010-02-02"
-intitule_in_force: "2010-03-30"
-intitule_status: "goed"
-original_publication: "Stb.2010-28"
-original_signed_date: "2009-12-23"
-original_published_date: "2010-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "31903"
-original_url_id: "stb-2010-28"
-entry_into_force_date: "2010-04-01"
-jci_1_3: "jci1.3:c:BWBR0027142&z=2010-04-01&g=2010-04-01"
-jci_1_0: "1.0:c:BWBR0027142&g=2010-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Uitvoeringswet huurprijzen woonruimte (instelling landelijke huurcommissie)"
-signed_date: "2009-12-23"
-entry_into_force: "2010-04-01"
+publicatiedatum: 2010-04-01
+laatste_update: 2010-04-01
+status: geldig
+toestand: 2010-04-01
+bron: "https://wetten.overheid.nl/BWBR0027142"
+opgehaald: 2026-08-14
 ---
+
 # Wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) zodanig te wijzigen dat een landelijke huurcommissie wordt ingesteld;
-
-Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Uitvoeringswet huurprijzen woonruimte.
+*Wijzigt de Uitvoeringswet huurprijzen woonruimte.*
 
 ##### Artikel II
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel III
 
-Wijzigt de Huisvestingswet.
+*Wijzigt de Huisvestingswet.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de huurtoeslag.
+*Wijzigt de Wet op de huurtoeslag.*
 
 ##### Artikel V
 
@@ -90,5 +61,3 @@ Het in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.
 ##### Artikel X
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

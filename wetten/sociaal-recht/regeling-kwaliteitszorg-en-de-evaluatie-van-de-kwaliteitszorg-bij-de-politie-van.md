@@ -1,45 +1,17 @@
 ---
 title: "Regeling kwaliteitszorg en de evaluatie van de kwaliteitszorg bij de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0027357"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-05-01"
-last_updated: "2010-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027357"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10455233"
-version_id: "17196452"
-internal_id: "C23721991"
-label_id: "10430334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027357/2010-05-01/0"
-intitule_bron: "Stcrt.2010-3442"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-02-11"
-intitule_published: "2010-03-08"
-intitule_in_force: "2010-03-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-3442"
-original_signed_date: "2010-02-11"
-original_published_date: "2010-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-3442"
-entry_into_force_date: "2010-05-01"
-jci_1_3: "jci1.3:c:BWBR0027357&z=2010-05-01&g=2010-05-01"
-jci_1_0: "1.0:c:BWBR0027357&g=2010-05-01"
-citeertitel_status: "officieel"
-signed_date: "2010-02-11"
-entry_into_force: "2010-05-01"
+publicatiedatum: 2010-05-01
+laatste_update: 2010-05-01
+status: geldig
+toestand: 2010-05-01
+bron: "https://wetten.overheid.nl/BWBR0027357"
+opgehaald: 2026-08-14
 ---
+
 # Regeling kwaliteitszorg en de evaluatie van de kwaliteitszorg bij de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba
-
-Overwegende dat op grond van artikel 50, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba de landen onderling een regeling treffen houdende regels voor de kwaliteitszorg en de evaluatie daarvan;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en artikel 50, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;
-
-Komen het volgende overeen:
 
 ##### Artikel 1
 
@@ -80,5 +52,3 @@ De kwaliteitszorg omvat de systematische bewaking, beheersing en verbetering van
 ##### Artikel 4
 
 De regeling wordt aangehaald als: Regeling kwaliteitszorg en de evaluatie van de kwaliteitszorg bij de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant en de Curaçaosche Courant.

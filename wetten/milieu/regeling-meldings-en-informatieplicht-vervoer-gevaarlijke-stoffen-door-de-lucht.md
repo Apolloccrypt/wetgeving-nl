@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels inzake de meldingsplicht bij voorvallen in de luchtvaart en de informatieplicht bij luchtvaartongevallen (Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht)"
+citeertitel: "Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht."
 identifier: "BWBR0027348"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027348"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10452723"
-version_id: "17191852"
-internal_id: "C23717251"
-label_id: "10427954"
-dtd_version: "2.0"
-original_entry_into_force: "2003-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027348/2012-01-01/0"
-intitule_bron: "Stcrt.2003-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-28"
-intitule_published: "2003-03-14"
-intitule_in_force: "2003-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2003-52"
-original_signed_date: "2003-02-28"
-original_published_date: "2003-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2003-052-p16-SC38989"
-entry_into_force_date: "2003-03-16"
-jci_1_3: "jci1.3:c:BWBR0027348&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0027348&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht."
-signed_date: "2003-02-28"
-entry_into_force: "2003-03-16"
+publicatiedatum: 2003-03-16
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0027348"
+opgehaald: 2026-08-14
 ---
+
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels inzake de meldingsplicht bij voorvallen in de luchtvaart en de informatieplicht bij luchtvaartongevallen (Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht)
-
-Gelet op de [artikelen 6.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.60) en [6.61a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.61a);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **incident:** incident met gevaarlijke stoffen (Dangerous goods incident) als bedoeld in Hoofdstuk 1 van Annex 18;
+- a. *incident:* incident met gevaarlijke stoffen (Dangerous goods incident) als bedoeld in Hoofdstuk 1 van Annex 18;
 
-- b. **minister:** Minister van Infrastructuur en Milieu;
+- b. *minister:* Minister van Infrastructuur en Milieu;
 
-- c. **NOTOC:** mededeling aan de gezagvoerder als bedoeld in Deel 7, hoofdstuk 4, § 1 van de Technische Voorschriften;
+- c. *NOTOC:* mededeling aan de gezagvoerder als bedoeld in Deel 7, hoofdstuk 4, § 1 van de Technische Voorschriften;
 
-- d. **ongeval:** ongeval met gevaarlijke stoffen (Dangerous goods accident) als bedoeld in Hoofdstuk 1 van Annex 18;
+- d. *ongeval:* ongeval met gevaarlijke stoffen (Dangerous goods accident) als bedoeld in Hoofdstuk 1 van Annex 18;
 
-- e. **PSN:** juiste vervoersnaam (proper shipping name);
+- e. *PSN:* juiste vervoersnaam (proper shipping name);
 
-- f. **Technische Voorschriften:** Technische Voorschriften als gedefinieerd in [artikel 1, eerste lid, onderdeel c, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1).
+- f. *Technische Voorschriften:* Technische Voorschriften als gedefinieerd in [artikel 1, eerste lid, onderdeel c, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=1).
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Melding van voorvallen
 
@@ -70,7 +44,7 @@ Vervallen
 
 2. De melding van een incident of ongeval vindt elektronisch, per fax of schriftelijk plaats aan de Inspectie Leefomgeving en Transport.
 
-3. De melding wordt gedaan overeenkomstig het model zoals opgenomen in de bij deze regeling behorende bijlage.
+3. De melding wordt gedaan overeenkomstig het model zoals opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0027348).
 
 ##### Artikel 4
 
@@ -159,7 +133,3 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling meldings- en informatieplicht vervoer gevaarlijke stoffen door de lucht.
-
-## Bijlage. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027348&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

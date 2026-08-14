@@ -1,66 +1,36 @@
 ---
 title: "Regeling Nederlands-Antilliaanse tarieven vissersvaartuigen 2009"
+citeertitel: "Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen"
 identifier: "BWBR0026405"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026405"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10181203"
-version_id: "16659462"
-internal_id: "C22932051"
-label_id: "10157214"
-dtd_version: "2.0"
-original_entry_into_force: "2009-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026405/2010-10-10/0"
-intitule_bron: "Stcrt.2009-13996"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-09-11"
-intitule_published: "2009-09-21"
-intitule_in_force: "2009-09-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-13996"
-original_signed_date: "2009-09-11"
-original_published_date: "2009-09-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-13996"
-entry_into_force_date: "2009-09-15"
-jci_1_3: "jci1.3:c:BWBR0026405&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0026405&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen"
-signed_date: "2009-09-11"
-entry_into_force: "2009-09-15"
+publicatiedatum: 2009-09-15
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0026405"
+opgehaald: 2026-08-14
 ---
+
 # Regeling Nederlands-Antilliaanse tarieven vissersvaartuigen 2009
-
-Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
-
-Gelet op [artikel 72, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=72);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **certificaat van overeenstemming:** het certificaat, bedoeld in [artikel 1.8 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.8);
+- a. *certificaat van overeenstemming:* het certificaat, bedoeld in [artikel 1.8 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.8);
 
-- b. **certificaat van vrijstelling:** het certificaat, bedoeld in [artikel 1.9 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.9);
+- b. *certificaat van vrijstelling:* het certificaat, bedoeld in [artikel 1.9 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.9);
 
-- c. **certificaat van deugdelijkheid:** het certificaat, bedoeld in [artikel 22 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=22);
+- c. *certificaat van deugdelijkheid:* het certificaat, bedoeld in [artikel 22 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=22);
 
-- d. **certificaat van veiligheid:** het certificaat, bedoeld in [artikel 23 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=23);
+- d. *certificaat van veiligheid:* het certificaat, bedoeld in [artikel 23 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=23);
 
-- e. **certificaat van ontheffing:** het certificaat, bedoeld in [artikel 24 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=24);
+- e. *certificaat van ontheffing:* het certificaat, bedoeld in [artikel 24 van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=24);
 
-- f. **certificaten:** de onder a tot en met e genoemde certificaten;
+- f. *certificaten:* de onder a tot en met e genoemde certificaten;
 
-- g. **eerste onderzoek:** het onderzoek, bedoeld in [artikel 1.12, eerste lid van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) en in [artikel 12, eerste lid, onder 1°, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=12).
+- g. *eerste onderzoek:* het onderzoek, bedoeld in [artikel 1.12, eerste lid van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) en in [artikel 12, eerste lid, onder 1°, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=12).
 
 ##### Artikel 2
 
@@ -128,7 +98,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissers
 
 ##### Artikel 9
 
-1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1.635,–.
+1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0026405), wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1.635,–.
 
 2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten komen voor rekening van de aanvrager van het certificaat. Deze kosten worden afzonderlijk in rekening gebracht.
 
@@ -140,7 +110,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissers
 
 ##### Artikel 11
 
-Wijzigt de Regeling tarieven vissersvaartuigen 1999.
+*Wijzigt de Regeling tarieven vissersvaartuigen 1999.*
 
 ##### Artikel 12
 
@@ -149,16 +119,3 @@ Deze regeling treedt in werking met ingang van 15 september 2009.
 ##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen.
-
-## Bijlage
-
-Bijlage als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=9&z=2010-10-10&g=2010-10-10). De onderzoekstermijn begint op de dag van vertrek uit de Nederlandse Antillen en eindigt op de desbetreffende dag van terugkomst in de Nederlandse Antillen.
-
-| Nieuwbouw | Lengte | Aantal dagen |
-| --- | --- | --- |
-| a. niet-geklasseerde vissersvaartuigen | < 24 meter | 14 |
-| b. niet-geklasseerde vissersvaartuigen | > 24 meter | 22 |
-| c. niet-geklasseerde mosselvaartuigen | > 24 meter | 12 |
-| d. geklasseerde vissersvaartuigen | > 24 meter | 18 |
-
-Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.

@@ -1,74 +1,43 @@
 ---
 title: "Besluit van 3 juli 2009, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door een dienst van een publiekrechtelijk lichaam die is belast met de opsporing van strafbare feiten (Besluit politiegegevens bijzondere opsporingsdiensten)"
+citeertitel: "Besluit politiegegevens bijzondere opsporingsdiensten"
 identifier: "BWBR0026117"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026117"
+categorie: "Digitaal en privacy"
 soort: "AMvB"
-stam_id: "10129383"
-version_id: "16559782"
-internal_id: "C22797801"
-label_id: "10105744"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026117/2025-01-01/0"
-intitule_bron: "Stb.2009-305"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-07-03"
-intitule_published: "2009-07-16"
-intitule_in_force: "2009-07-16"
-intitule_status: "goed"
-original_publication: "Stb.2009-305"
-original_signed_date: "2009-07-03"
-original_published_date: "2009-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2009-305"
-entry_into_force_date: "2009-07-17"
-jci_1_3: "jci1.3:c:BWBR0026117&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0026117&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit politiegegevens bijzondere opsporingsdiensten"
-signed_date: "2009-07-03"
-entry_into_force: "2009-07-17"
+publicatiedatum: 2009-07-17
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0026117"
+opgehaald: 2026-08-14
 ---
+
 # Besluit van 3 juli 2009, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door een dienst van een publiekrechtelijk lichaam die is belast met de opsporing van strafbare feiten (Besluit politiegegevens bijzondere opsporingsdiensten)
-
-Op de voordracht van Onze Minister van Justitie, gedaan mede namens Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretarissen van Financiën en van Sociale Zaken en Werkgelegenheid, van 14 april 2009, nr. 5596761/09/6;
-
-Gelet op de [artikelen 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46);
-
-De Raad van State gehoord (advies van 27 mei 2009, nr. W03.09.0132/II);
-
-Gezien het nader rapport van Onze Minister van Justitie, mede namens Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretarissen van Financiën en van Sociale Zaken en Werkgelegenheid, van 1 juli 2009, nr. 5606412/09/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definitiebepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
+- a. *wet:*
+ [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463);
 
-- b. **bijzondere opsporingsdienst:** een van de diensten bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- b. *bijzondere opsporingsdienst:* een van de diensten bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- c. **verwerkingsverantwoordelijke:** dit is bij:
+- c. *verwerkingsverantwoordelijke:* dit is bij:
 
-- 1°. de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst: Onze Minister van Financiën;
+   - 1° de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst: Onze Minister van Financiën;
 
-- 2°. de Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport: Onze Minister van Infrastructuur en Waterstaat;
+   - 2° de Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport: Onze Minister van Infrastructuur en Waterstaat;
 
-- 3°. de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+   - 3° de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- 4°. de Directie Opsporing van de Nederlandse Arbeidsinspectie: Onze Minister van Sociale Zaken en Werkgelegenheid;
+   - 4° de Directie Opsporing van de Nederlandse Arbeidsinspectie: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **ambtenaar van politie:** de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- d. *ambtenaar van politie:* de ambtenaar, bedoeld in [artikel 1, onderdeel k, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- e. **bevoegde functionaris:** functionaris, bedoeld in [artikel 2:10, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:10);
+- e. *bevoegde functionaris:* functionaris, bedoeld in [artikel 2:10, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:10);
 
-- f. **politiegegevens over toezicht:** politiegegevens die betrekking hebben op het toezicht op de naleving van wetgeving of de uitvoering van wettelijke voorschriften.
+- f. *politiegegevens over toezicht:* politiegegevens die betrekking hebben op het toezicht op de naleving van wetgeving of de uitvoering van wettelijke voorschriften.
 
 ##### Artikel 2. Van overeenkomstige toepassing verklaring
 
@@ -112,9 +81,9 @@ Onverminderd [artikel 2:12 van het Besluit politiegegevens](https://wetten.overh
 
 3. In bijzondere gevallen kunnen politiegegevens als bedoeld in het eerste lid, die door een ambtenaar van politie worden verwerkt ter uitvoering van de taak, bedoeld in het eerste lid, na instemming van de officier van justitie worden verstrekt aan een bestuursorgaan dat of aan personen die bij of krachtens wetgeving is of zijn belast met het houden van toezicht op de naleving dan wel de uitvoering van wetgeving op het beleidsterrein van een andere verwerkingsverantwoordelijke, voorzover dat noodzakelijk is voor een goede uitvoering van zijn of hun taak.
 
-##### Artikel 7. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 7. Wijziging Besluit politiegegevens
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ##### Artikel 8. Inwerkingtreding
 
@@ -123,5 +92,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit politiegegevens bijzondere opsporingsdiensten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

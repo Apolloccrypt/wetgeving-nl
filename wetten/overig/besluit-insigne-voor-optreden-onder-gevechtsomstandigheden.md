@@ -1,46 +1,26 @@
 ---
 title: "Besluit van de Minister van Defensie houdende instelling van het Insigne voor Optreden onder Gevechtsomstandigheden (Besluit Insigne voor Optreden onder Gevechtsomstandigheden)"
+citeertitel: "Besluit Insigne voor Optreden onder Gevechtsomstandigheden"
 identifier: "BWBR0026129"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0026129"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10131803"
-version_id: "20626702"
-internal_id: "C29522491"
-label_id: "10108064"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0026129/2016-01-01/0"
-intitule_bron: "Stcrt.2009-10785"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-06-12"
-intitule_published: "2009-07-17"
-intitule_in_force: "2009-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-18295"
-original_signed_date: "2013-06-20"
-original_published_date: "2013-07-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-18295"
-entry_into_force_date: "2013-06-20"
-jci_1_3: "jci1.3:c:BWBR0026129&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0026129&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Insigne voor Optreden onder Gevechtsomstandigheden"
-signed_date: "2013-06-20"
-entry_into_force: "2013-06-20"
+publicatiedatum: 2013-06-20
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0026129"
+opgehaald: 2026-08-14
 ---
-# Besluit van de Minister van Defensie houdende instelling van het Insigne voor Optreden onder Gevechtsomstandigheden (Besluit Insigne voor Optreden onder Gevechtsomstandigheden)
 
-Besluit:
+# Besluit van de Minister van Defensie houdende instelling van het Insigne voor Optreden onder Gevechtsomstandigheden (Besluit Insigne voor Optreden onder Gevechtsomstandigheden)
 
 ##### Artikel 1
 
 In dit besluit wordt onder ‘gevechtshandelingen’ verstaan: iedere vorm van actief en professioneel handelen binnen de taakopdracht van de desbetreffende militair waarbij tevens sprake is van vijandelijk optreden met indirect vuur, direct vuur of hiermee vergelijkbaar gevechtscontact, dan wel van enige andere vorm van excessieve geweldsuitoefening jegens de militair.
+
+##### Artikel 1a
+
+Ingesteld wordt het ‘Insigne voor Optreden onder Gevechtsomstandigheden’, hierna aangeduid als ‘Gevechtsinsigne’.
 
 ##### Artikel 2
 
@@ -109,15 +89,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit Insigne voor Optreden onder Gevechtsomstandigheden.
-
-## Bijlage
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Ingesteld wordt het ‘Insigne voor Optreden onder Gevechtsomstandigheden’, hierna aangeduid als ‘Gevechtsinsigne’.
-
-## Bijlage
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,17 @@
 ---
 title: "Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010"
 identifier: "BWBR0027231"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-02-18"
-last_updated: "2010-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027231"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10425493"
-version_id: "17148752"
-internal_id: "C23660371"
-label_id: "10400824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027231/2010-02-18/0"
-intitule_bron: "Stcrt.2010-2170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-28"
-intitule_published: "2010-02-16"
-intitule_in_force: "2010-02-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-2170"
-original_signed_date: "2010-01-28"
-original_published_date: "2010-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-2170"
-entry_into_force_date: "2010-02-18"
-jci_1_3: "jci1.3:c:BWBR0027231&z=2010-02-18&g=2010-02-18"
-jci_1_0: "1.0:c:BWBR0027231&g=2010-02-18"
-citeertitel_status: "officieel"
-signed_date: "2010-01-28"
-entry_into_force: "2010-02-18"
+publicatiedatum: 2010-02-18
+laatste_update: 2010-02-18
+status: geldig
+toestand: 2010-02-18
+bron: "https://wetten.overheid.nl/BWBR0027231"
+opgehaald: 2026-08-14
 ---
+
 # Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010
-
-Mei it each op kêst 7, fjirde lid, fan it Europeesk Hânfest foar regionale talen of talen fan minderheden (Trb. 1993, 1 en 199; 1998, 20);
-
-Mei it each op it Ramtferdrach oangeande it beskermjen fan nasjonale minderheden (Trb. 1995, 73 en 197; 2005, 77);
-
-Mei it each op kêst 9, tsiende lid, fan de Bestjoersôfspraak Fryske taal en kultuer 2001 (Stcrt. 2001,125);
-
-Beslút:
 
 ##### Kêst 1
 
@@ -98,7 +68,3 @@ Dit beslút giet yn op de twadde dei nei de datum fan útjefte fan de Staatscour
 ##### Kêst 10
 
 Dit beslút wurdt oanhelle as: Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010.
-
-Dit beslút wurdt mei de taljochting yn de Nederlânske taal en de Fryske taal yn de Staatscourant publisearre.
-
-In ôfskrift fan dit beslút wurdt stjoerd oan de Algemiene Rekkenkeamer en oan it KO Frysk.
