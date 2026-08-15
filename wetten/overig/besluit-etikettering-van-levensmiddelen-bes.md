@@ -1,38 +1,16 @@
 ---
 title: "Besluit etikettering van levensmiddelen BES"
 identifier: "BWBR0028313"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028313"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10749883"
-version_id: "17724152"
-internal_id: "C24789431"
-label_id: "10724884"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028313/2010-10-10/0"
-intitule_bron: "Stb.2010-659"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-659"
-original_signed_date: "2010-09-15"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-659"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028313&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028313&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-15"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028313"
+opgehaald: 2026-08-15
 ---
+
 # Besluit etikettering van levensmiddelen BES
 
 #### § 1. Algemene bepalingen
@@ -41,23 +19,23 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **etikettering:** de vermeldingen, aanwijzingen, fabrieks- of handelsmerken, afbeeldingen of tekens die betrekking hebben op een levensmiddel en voorkomen op enig verpakkingsmiddel, document, schriftstuk, etiket, band of label, dat respectievelijk die bij dit levensmiddel is gevoegd of daarop betrekking heeft;
+- a. *etikettering:* de vermeldingen, aanwijzingen, fabrieks- of handelsmerken, afbeeldingen of tekens die betrekking hebben op een levensmiddel en voorkomen op enig verpakkingsmiddel, document, schriftstuk, etiket, band of label, dat respectievelijk die bij dit levensmiddel is gevoegd of daarop betrekking heeft;
 
-- b. **instellingen:** voedselbedrijven, zoals restaurants, snacks, ziekenhuizen, kantines en andere soortgelijke instellingen;
+- b. *instellingen:* voedselbedrijven, zoals restaurants, snacks, ziekenhuizen, kantines en andere soortgelijke instellingen;
 
-- c. **verpakking:** het verpakkingsmateriaal waarin een waar wordt verpakt alvorens die waar ten verkoop wordt aangeboden, waarbij dat verpakkingsmateriaal de waar geheel of ten dele bedekt of kan bedekken, maar zodanig dat de inhoud niet kan worden veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;
+- c. *verpakking:* het verpakkingsmateriaal waarin een waar wordt verpakt alvorens die waar ten verkoop wordt aangeboden, waarbij dat verpakkingsmateriaal de waar geheel of ten dele bedekt of kan bedekken, maar zodanig dat de inhoud niet kan worden veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;
 
-- d. **voorverpakte eet- of drinkwaar:** de verkoopeenheid die bestemd is als zodanig aan de eindverbruiker of aan een instelling te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;
+- d. *voorverpakte eet- of drinkwaar:* de verkoopeenheid die bestemd is als zodanig aan de eindverbruiker of aan een instelling te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;
 
-- e. **verpakte eet- of drinkwaar:** de verkoopeenheid die niet bestemd is als zodanig aan de eindverbruiker of aan instellingen te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;
+- e. *verpakte eet- of drinkwaar:* de verkoopeenheid die niet bestemd is als zodanig aan de eindverbruiker of aan instellingen te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;
 
-- f. **ingrediënt:** iedere grondstof die bij de bereiding van een eet- of drinkwaar is gebruikt en die als zodanig of als omzettingsprodukt in de waar aanwezig is;
+- f. *ingrediënt:* iedere grondstof die bij de bereiding van een eet- of drinkwaar is gebruikt en die als zodanig of als omzettingsprodukt in de waar aanwezig is;
 
-- g. **technologische hulpmiddelen:** stoffen die op zichzelf niet als ingrediënt worden geconsumeerd, die bij de verwerking van grondstoffen, eet- en drinkwaren of ingrediënten bewust worden gebruikt om tijdens de bewerking of verwerking aan een bepaald technisch doel te beantwoorden en die kunnen leiden tot de onbedoelde maar technisch onvermijdelijke aanwezigheid van residuen van deze stoffen of derivaten ervan in het eindprodukt, mits deze residuen geen gevaar voor de gezondheid opleveren en geen technologische gevolgen voor het eindprodukt hebben;
+- g. *technologische hulpmiddelen:* stoffen die op zichzelf niet als ingrediënt worden geconsumeerd, die bij de verwerking van grondstoffen, eet- en drinkwaren of ingrediënten bewust worden gebruikt om tijdens de bewerking of verwerking aan een bepaald technisch doel te beantwoorden en die kunnen leiden tot de onbedoelde maar technisch onvermijdelijke aanwezigheid van residuen van deze stoffen of derivaten ervan in het eindprodukt, mits deze residuen geen gevaar voor de gezondheid opleveren en geen technologische gevolgen voor het eindprodukt hebben;
 
-- h. **opgietvloeistof:** een al dan niet bevroren of diepgevroren vloeistof, voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van de betrokken waar en derhalve niet doorslaggevend is voor de aankoop;
+- h. *opgietvloeistof:* een al dan niet bevroren of diepgevroren vloeistof, voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van de betrokken waar en derhalve niet doorslaggevend is voor de aankoop;
 
-- i. **produktiepartij:** een verzameling verkoopeenheden van een eet- of drinkwaar die onder vrijwel identieke omstandigheden zijn geproduceerd, vervaardigd of verpakt, en waarvan de grootte is vastgesteld door de betrokken verhandelaar.
+- i. *produktiepartij:* een verzameling verkoopeenheden van een eet- of drinkwaar die onder vrijwel identieke omstandigheden zijn geproduceerd, vervaardigd of verpakt, en waarvan de grootte is vastgesteld door de betrokken verhandelaar.
 
 2. Voor de toepassing van dit besluit, behoudens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=4&artikel=30&z=2010-10-10&g=2010-10-10), worden de als verhandelen aan te merken handelingen, voor wat betreft het te koop aanbieden, beperkt tot het te koop aanbieden op de plaats van verkoop.
 
@@ -157,7 +135,7 @@ Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren 
 
 5. Bij de verhandeling van een eet- of drinkwaar die is behandeld met ioniserende stralen, wordt de doorstraling vermeld in de documenten welke die eet- of drinkwaar vergezellen of daarop betrekking hebben.
 
-#### § 3.1. De lijst van ingrediënten
+##### § 3.1. De lijst van ingrediënten
 
 ##### Artikel 6
 
@@ -231,9 +209,9 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - g. een eet- of drinkwaar welke bestaat uit één ingrediënt, voor zover:
 
-- 1°. de aanduiding van de eet- of drinkwaar en de naam van het ingrediënt identiek zijn; of
+   - 1°. de aanduiding van de eet- of drinkwaar en de naam van het ingrediënt identiek zijn; of
 
-- 2°. uit de aanduiding van de eet- of drinkwaar de aard van het ingrediënt duidelijk kan worden afgeleid.
+   - 2°. uit de aanduiding van de eet- of drinkwaar de aard van het ingrediënt duidelijk kan worden afgeleid.
 
 ##### Artikel 10
 
@@ -261,9 +239,9 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - a. wordt bij eet- en drinkwaren die tijdens de bereiding vocht verliezen als gevolg van een thermische of andere behandeling, de in het vierde lid bedoelde hoeveelheid als volgt vermeld:
 
-- 1°. als percentage van het eindproduct, of
+   - 1°. als percentage van het eindproduct, of
 
-- 2°. indien dit percentage groter dan 100 is, als het gewicht van de hoeveelheid ingrediënt, vermeld in grammen, dat voor de bereiding van 100 gram eindproduct is gebruikt;
+   - 2°. indien dit percentage groter dan 100 is, als het gewicht van de hoeveelheid ingrediënt, vermeld in grammen, dat voor de bereiding van 100 gram eindproduct is gebruikt;
 
 - b. wordt de hoeveelheid van vluchtige ingrediënten vermeld als het percentage in het eindproduct;
 
@@ -279,7 +257,7 @@ De in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - c. in de lijst van ingrediënten in samenhang met het betreffende ingrediënt of de categorie van ingrediënten.
 
-#### § 3.2. De nettohoeveelheid
+##### § 3.2. De nettohoeveelheid
 
 ##### Artikel 11
 
@@ -345,7 +323,7 @@ De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&su
 
 - b. voorverpakte eet- en drinkwaren waarvan de nettohoeveelheid in totaal hetzij minder dan 25 gram bedraagt in het geval van suikerwerk, hetzij minder dan 5 gram of 5 milliliter bedraagt in het geval van andere eet- of drinkwaren dan kruiden of specerijen.
 
-#### § 3.3. De datum van minimale houdbaarheid
+##### § 3.3. De datum van minimale houdbaarheid
 
 ##### Artikel 16
 
@@ -403,7 +381,7 @@ een en ander met dien verstande dat in afwijking van het in het tweede lid bepaa
 
 - k. afzonderlijke porties consumptie-ijs.
 
-#### § 3.4. De uiterste consumptiedatum
+##### § 3.4. De uiterste consumptiedatum
 
 ##### Artikel 17
 
@@ -415,7 +393,7 @@ een en ander met dien verstande dat in afwijking van het in het tweede lid bepaa
 
 4. [Artikel 16, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.3&artikel=16&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing op de in dit artikel bedoelde vermelding.
 
-#### § 3.5. Overige vermeldingen
+##### § 3.5. Overige vermeldingen
 
 ##### Artikel 18
 
@@ -554,66 +532,3 @@ Dit besluit treedt in werking met ingang van de dag na die der uitgifte van het 
 ##### Artikel 33
 
 Dit besluit kan worden aangehaald als: Besluit etikettering van levensmiddelen BES.
-
-## Bijlage I
-
-Deze bijlage behoort bij [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2010-10-10&g=2010-10-10), van het Besluit etikettering van levensmiddelen BES
-
-De in [artikel 7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde ingrediënten zijn de volgende:
-
-| Definitie | Vermelding |
-| --- | --- |
-| Andere geraffineerde oliën dan olijfolie | «olie», nader omschreven met: |
-|   | – de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of |
-|   | – de aanduiding van de specifieke plantaardige of dierlijke oorsprong. |
-|   | De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een geharde olie. |
-| Geraffineerde vetten | «vet», nader omschreven met: |
-|   | – de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of |
-|   | – de aanduiding van de specifieke plantaardige of dierlijke oorsprong. |
-| Mengsels van meel van twee of meer graansoorten | De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een gehard vet. |
-|   | «meel», gevolgd door de vermelding van de graansoorten waarvan het afkomstig is, in dalende volgorde van hun gewichtspercentage. |
-| Natief zetmeel en langs fysische weg of enzymen gemodificeerd zetmeel | «zetmeel» nader aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten. |
-| Alle soorten vis wanneer die vis een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort vis | vis |
-| Alle soorten kaas wanneer de kaas of het mengsel van kaassoorten een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort kaas | kaas |
-| Alle specerijen die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken | «specerijen» of «mengsel van specerijen» |
-| Alle kruiden of delen daarvan die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken | «kruiden» of «mengsel van kruiden» |
-| Alle soorten gompreparaten die voor de bereiding van gom als basis voor kauwgom worden gebruikt | gom |
-| Alle soorten paneermeel | paneermeel |
-| Alle categorieën saccharose | suiker |
-| Watervrije dextrose en dextrosemonohydraat | dextrose |
-| Glucosestroop en gedehydrateerde glucosestroop | glucosestroop |
-| Alle melkeiwitten (caseïne, caseïnaten en eiwitten van wei) en mengsels daarvan | melkeiwitten |
-| Cacaopersboter cacao-wringboter of geraffineerde cacaoboter | cacaoboter |
-| Alle geconfijte vruchten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken | geconfijte vruchten |
-| Mengsels van groenten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken | groenten |
-| Alle soorten wijn | wijn |
-
-## Bijlage II
-
-Deze bijlage behoort bij [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2010-10-10&g=2010-10-10), van het Besluit etikettering van levensmiddelen BES
-
-De in [artikel 7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028313&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde categorieën van levensmiddelenadditieven zijn de volgende:
-
-| antiklontermiddel |   |
-| --- | --- |
-| antioxydant |   |
-| antischuimmiddel |   |
-| bevochtigingsmiddel |   |
-| conserveermiddel |   |
-| drijfgas |   |
-| emulgator |   |
-| geleermiddel |   |
-| gemodificeerd zetmeel | (de specifieke aanduiding of het EG-nummer behoeven niet vermeld te worden) |
-| glansmiddel |   |
-| kleurstof |   |
-| meelverbeteraar |   |
-| rijsmiddel |   |
-| smaakversterker |   |
-| smeltzout | (alleen voor smeltkaas en produkten op basis van smeltkaas) |
-| stabilisator |   |
-| verdikkingsmiddel |   |
-| verstevigingsmiddel |   |
-| voedingszuur |   |
-| vulstof |   |
-| zoetstof |   |
-| zuurteregelaar |   |

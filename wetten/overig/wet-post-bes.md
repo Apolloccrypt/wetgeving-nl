@@ -1,38 +1,16 @@
 ---
 title: "Wet post BES"
 identifier: "BWBR0028263"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028263"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10726823"
-version_id: "17697092"
-internal_id: "C24773871"
-label_id: "10701704"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028263/2019-01-01/0"
-intitule_bron: "Stb.2010-439"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-439"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-439"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028263&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028263&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028263"
+opgehaald: 2026-08-15
 ---
+
 # Wet post BES
 
 ### Hoofdstuk I. Begripsbepalingen
@@ -41,21 +19,21 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- a. *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- b. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- c. **houder van de concessie:** de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01);
+- c. *houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01);
 
-- d. **brieven:** bescheiden en schriftelijke mededelingen, al dan niet verpakt, met uitzondering van die welke door toepassing van druk- of andere vermenigvuldigingstechnieken in een aantal geheel met elkaar overeenstemmende exemplaren ter verspreiding zijn vervaardigd en waarin, behoudens de adressering, geen bijvoegingen, doorhalingen of aanduidingen zijn aangebracht;
+- d. *brieven:* bescheiden en schriftelijke mededelingen, al dan niet verpakt, met uitzondering van die welke door toepassing van druk- of andere vermenigvuldigingstechnieken in een aantal geheel met elkaar overeenstemmende exemplaren ter verspreiding zijn vervaardigd en waarin, behoudens de adressering, geen bijvoegingen, doorhalingen of aanduidingen zijn aangebracht;
 
-- e. **postzendingen:** brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), verplicht is te vervoeren;
+- e. *postzendingen:* brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), verplicht is te vervoeren;
 
-- f. **vervoer:** het geheel van handelingen dat ertoe leidt dat een ter verzending aangeboden postzending wordt afgeleverd;
+- f. *vervoer:* het geheel van handelingen dat ertoe leidt dat een ter verzending aangeboden postzending wordt afgeleverd;
 
-- g. **de akten van de Wereldpostunie:** de Constitutie (Trb. 1965, 170) met in begrip van alle daarin sedertdien aangebrachte en nog aan te brengen wijzigingen, het Algemeen Postverdrag en de overige Overeenkomsten, gesloten door de leden van de Wereldpostunie, alsmede de daarbij behorende reglementen;
+- g. *de akten van de Wereldpostunie:* de Constitutie (Trb. 1965, 170) met in begrip van alle daarin sedertdien aangebrachte en nog aan te brengen wijzigingen, het Algemeen Postverdrag en de overige Overeenkomsten, gesloten door de leden van de Wereldpostunie, alsmede de daarbij behorende reglementen;
 
-- h. **algemene voorwaarden:** door de houder van de concessie opgestelde schriftelijke bedingen, die in overeenkomsten terzake van het vervoer van postzendingen worden opgenomen.
+- h. *algemene voorwaarden:* door de houder van de concessie opgestelde schriftelijke bedingen, die in overeenkomsten terzake van het vervoer van postzendingen worden opgenomen.
 
 ### Hoofdstuk II. Bepalingen inzake het vervoer van postzendingen
 
@@ -191,17 +169,17 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 - a. op en tussen het grondgebied van de openbare lichamen, naar Nederland, naar Aruba, Curaçao en Sint Maarten dan wel naar het buitenland worden vervoerd op een wijze die ten aanzien van dat vervoer in een dienstverlening voorziet, die het niveau van dienstverlening ten aanzien van het normale versnelde vervoer dat door de houder van de concessie voor een ieder op het gehele grondgebied van de openbare lichamen wordt aangeboden, voor wat betreft snelheid van overkomst, de garantie daarvoor en de lokaliseerbaarheid tijdens het vervoer in betekenende mate te boven gaat, en die:
 
-- 1°. worden vervoerd tegen een tarief dat voor het vervoer op en tussen het grondgebied van de openbare lichamen dan wel naar Nederland, Aruba, Curaçao en Sint Maarten dan wel naar het buitenland hoger is dan daarvoor bij algemene maatregel van bestuur bepaald, en
+   - 1° worden vervoerd tegen een tarief dat voor het vervoer op en tussen het grondgebied van de openbare lichamen dan wel naar Nederland, Aruba, Curaçao en Sint Maarten dan wel naar het buitenland hoger is dan daarvoor bij algemene maatregel van bestuur bepaald, en
 
-- 2°. worden vervoerd door een vervoerder die op een door Onze Minister aan te geven wijze is geregistreerd;
+   - 2° worden vervoerd door een vervoerder die op een door Onze Minister aan te geven wijze is geregistreerd;
 
 - b. worden vervoerd in opdracht van de houder van de concessie;
 
 - c. anders dan bedrijfsmatig worden vervoerd in opdracht van één natuurlijk persoon en de leden van zijn gezin, of van één rechtspersoon of onderdeel daarvan, mits afkomstig van één adres en overigens aan de voorwaarden wordt voldaan, dat:
 
-- 1°. het vervoer plaats heeft binnen de grenzen van één openbaar lichaam, dan wel in het onderlinge verkeer tussen de openbare lichamen;
+   - 1° het vervoer plaats heeft binnen de grenzen van één openbaar lichaam, dan wel in het onderlinge verkeer tussen de openbare lichamen;
 
-- 2°. de persoon die de brieven vervoert niet is de gezagvoerder van het schip of van het luchtvaartuig, dan wel de bestuurder van de scheepvaart- of luchtvaartonderneming, waarmee dit brievenvervoer plaatsvindt, noch in dienst is van die gezagvoerder of die onderneming;
+   - 2° de persoon die de brieven vervoert niet is de gezagvoerder van het schip of van het luchtvaartuig, dan wel de bestuurder van de scheepvaart- of luchtvaartonderneming, waarmee dit brievenvervoer plaatsvindt, noch in dienst is van die gezagvoerder of die onderneming;
 
 - d. kennelijk bestemd zijn om te worden vervoerd door de houder van de concessie, dan wel te worden afgeleverd na vervoer door de houder van de concessie;
 
@@ -310,6 +288,8 @@ Alle bescheiden, welke door de houder van de concessie bij de uitvoering van de 
 Bij de voorbereiding van besluiten als bedoeld in de [artikel 2, tweede lid, aanhef onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=9&z=2019-01-01&g=2019-01-01), [12, tweede lid, onderdeel a, ten 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=III&artikel=14&z=2019-01-01&g=2019-01-01), of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie.
 
 ### Hoofdstuk VI
+
+[Vervallen]
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 

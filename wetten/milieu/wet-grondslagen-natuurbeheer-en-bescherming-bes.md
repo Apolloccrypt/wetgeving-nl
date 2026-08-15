@@ -1,38 +1,16 @@
 ---
 title: "Wet grondslagen natuurbeheer- en bescherming BES"
 identifier: "BWBR0028434"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028434"
+categorie: "Milieu"
 soort: "wet-BES"
-stam_id: "10783143"
-version_id: "17760772"
-internal_id: "C24820051"
-label_id: "10758234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028434/2019-01-01/0"
-intitule_bron: "Stb.2010-565"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-565"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-565"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028434&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028434&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028434"
+opgehaald: 2026-08-15
 ---
+
 # Wet grondslagen natuurbeheer- en bescherming BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,33 +19,33 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. *Onze minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **bestuurscollege:** bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- b. *bestuurscollege:* bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- c. **eilandsraad:** eilandsraad van het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- c. *eilandsraad:* eilandsraad van het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- d. **commissie:** de commissie, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01);
+- d. *commissie:* de commissie, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01);
 
-- e. **beheersinstantie:** de instantie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01);
+- e. *beheersinstantie:* de instantie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01);
 
-- f. **wetenschappelijke autoriteit:** autoriteit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=6&z=2019-01-01&g=2019-01-01)
+- f. *wetenschappelijke autoriteit:* autoriteit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=6&z=2019-01-01&g=2019-01-01)
 
-- g. **inheemse fauna en flora:** de op de openbare lichamen Bonaire, Sint Eustatius en Saba of in de wateren van de genoemde openbare lichamen van nature voorkomende dieren en planten;
+- g. *inheemse fauna en flora:* de op de openbare lichamen Bonaire, Sint Eustatius en Saba of in de wateren van de genoemde openbare lichamen van nature voorkomende dieren en planten;
 
-- h. **soort:** elke soort, ondersoort of een geografisch geïsoleerde populatie van flora of fauna;
+- h. *soort:* elke soort, ondersoort of een geografisch geïsoleerde populatie van flora of fauna;
 
-- i. **Verdrag van Ramsar:** de op 2 februari 1971 te Ramsar tot stand gekomen Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats van watervogels (Trb. 1975, 84);
+- i. *Verdrag van Ramsar:* de op 2 februari 1971 te Ramsar tot stand gekomen Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats van watervogels (Trb. 1975, 84);
 
-- j. **CITES-verdrag:** de op 3 maart 1973 te Washington gesloten Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantsoorten, met bijlagen (Trb. 1975, 23) alsmede de Resoluties van de Conferentie van Partijen behorende bij dit verdrag;
+- j. *CITES-verdrag:* de op 3 maart 1973 te Washington gesloten Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantsoorten, met bijlagen (Trb. 1975, 23) alsmede de Resoluties van de Conferentie van Partijen behorende bij dit verdrag;
 
-- k. **Bonn-conventie:** het op 23 juni 1979 te Bonn tot stand gekomen Verdrag inzake de bescherming van trekkende wilde diersoorten, met bijlagen (Trb. 1981, 6);
+- k. *Bonn-conventie:* het op 23 juni 1979 te Bonn tot stand gekomen Verdrag inzake de bescherming van trekkende wilde diersoorten, met bijlagen (Trb. 1981, 6);
 
-- l. **SPAW-protocol:** het op 18 januari 1990 te Kingston getekende protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
+- l. *SPAW-protocol:* het op 18 januari 1990 te Kingston getekende protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
 
-- m. **Biodiversiteitsverdrag:** het op 5 juni 1992 te Rio de Janeiro tot stand gekomen verdrag inzake de biologische diversiteit (Trb. 1992, 164);
+- m. *Biodiversiteitsverdrag:* het op 5 juni 1992 te Rio de Janeiro tot stand gekomen verdrag inzake de biologische diversiteit (Trb. 1992, 164);
 
-- n. **Zeeschildpaddenverdrag:** Inter-Amerikaans Verdrag inzake de bescherming en het behoud van zeeschildpadden, met Bijlagen; Caracas, 1 december 1996 (Trb. 1999, 45).
+- n. *Zeeschildpaddenverdrag:* Inter-Amerikaans Verdrag inzake de bescherming en het behoud van zeeschildpadden, met Bijlagen; Caracas, 1 december 1996 (Trb. 1999, 45).
 
 2. De geldende tekst van de in het eerste lid, onderdelen i tot en met n, genoemde verdragen liggen voor een ieder ter inzage bij de beheersinstantie en de commissie.
 
@@ -125,11 +103,11 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 - b. heeft tot taak het bijhouden van de volgende registers:
 
-- 1°. een register van in de openbare lichamen Bonaire, Sint Eustatius en Saba gehouden of in bezit zijnde soorten, opgenomen in bijlage 1 van het CITES-verdrag en de Bonn-conventie en bijlagen 1 en 2 van het SPAW-protocol;
+   - 1°. een register van in de openbare lichamen Bonaire, Sint Eustatius en Saba gehouden of in bezit zijnde soorten, opgenomen in bijlage 1 van het CITES-verdrag en de Bonn-conventie en bijlagen 1 en 2 van het SPAW-protocol;
 
-- 2°. een register in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig het voorschrift, bedoeld in Artikel VIII, zesde lid, onderdelen a en b, van het CITES-verdrag;
+   - 2°. een register in de openbare lichamen Bonaire, Sint Eustatius en Saba overeenkomstig het voorschrift, bedoeld in Artikel VIII, zesde lid, onderdelen a en b, van het CITES-verdrag;
 
-- 3°. een register van personen die diersoorten of plantensoorten, opgenomen in de bijlagen van het CITES-verdrag, in gevangenschap doen voorttelen onderscheidenlijk kweken.
+   - 3°. een register van personen die diersoorten of plantensoorten, opgenomen in de bijlagen van het CITES-verdrag, in gevangenschap doen voorttelen onderscheidenlijk kweken.
 
 3. De beheersinstantie verstrekt van elke registratie in de registers, bedoeld in het tweede lid, onderdeel b, ten 1, een bewijs.
 
@@ -151,9 +129,9 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 - 4. het desgevraagd adviseren van Onze Minister, het bestuurscollege, de beheersinstantie alsmede de ambtenaren, bedoeld in de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2019-01-01&g=2019-01-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2019-01-01&g=2019-01-01), over:
 
-- a. de identificatie van specimens als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01), of soorten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8&z=2019-01-01&g=2019-01-01); en
+   - a. de identificatie van specimens als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01), of soorten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8&z=2019-01-01&g=2019-01-01); en
 
-- b. alle andere aangelegenheden betrekking hebbende op het natuurbeheer en de natuurbescherming die hem om advies worden voorgelegd.
+   - b. alle andere aangelegenheden betrekking hebbende op het natuurbeheer en de natuurbescherming die hem om advies worden voorgelegd.
 
 3. De wetenschappelijke autoriteit is bevoegd voor haar taken als bedoeld in het tweede lid, vergoedingen in rekening te brengen die bij ministeriële regeling worden vastgesteld.
 
@@ -161,19 +139,19 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2019-01-01&g=2019-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=11&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=35&z=2019-01-01&g=2019-01-01), alsmede de daarop berustende bepaling wordt verstaan onder:
 
-- a. **specimen:** specimen als bedoeld in artikel I, onderdeel b, van het CITES-verdrag;
+- a. *specimen:* specimen als bedoeld in artikel I, onderdeel b, van het CITES-verdrag;
 
-- b. **invoer:** iedere handeling die kennelijk rechtstreeks is gericht op het bewerkstelligen van het binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba.
+- b. *invoer:* iedere handeling die kennelijk rechtstreeks is gericht op het bewerkstelligen van het binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
-- c. **uitvoer:** iedere handeling die kennelijk rechtstreeks is gericht op het bewerkstelligen van het buiten het grondgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba.
+- c. *uitvoer:* iedere handeling die kennelijk rechtstreeks is gericht op het bewerkstelligen van het buiten het grondgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
-- d. **wederuitvoer:** de uitvoer van hetgeen tevoren is ingevoerd;
+- d. *wederuitvoer:* de uitvoer van hetgeen tevoren is ingevoerd;
 
-- e. **handel:** de uitvoer, de wederuitvoer, de invoer en het inbrengen vanuit de zee voortkomende dieren en planten;
+- e. *handel:* de uitvoer, de wederuitvoer, de invoer en het inbrengen vanuit de zee voortkomende dieren en planten;
 
-- f. **aanvoer van uit de zee voortkomen de planten en dieren:** het tot binnen de grenzen van de openbare lichamen Bonaire, Sint Eustatius of Saba vervoeren van specimens van soorten, opgenomen in de bijlagen van het CITES-verdrag, die zijn gehaald uit zeegebied dat niet tot het rechtsgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba;
+- f. *aanvoer van uit de zee voortkomen de planten en dieren:* het tot binnen de grenzen van de openbare lichamen Bonaire, Sint Eustatius of Saba vervoeren van specimens van soorten, opgenomen in de bijlagen van het CITES-verdrag, die zijn gehaald uit zeegebied dat niet tot het rechtsgebied van de openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- g. **doorvoer:** de uitvoer van elk tevoren ingevoerd specimen zonder dat dit in het vrije verkeer is gebracht.
+- g. *doorvoer:* de uitvoer van elk tevoren ingevoerd specimen zonder dat dit in het vrije verkeer is gebracht.
 
 ##### Artikel 7a
 
@@ -201,15 +179,15 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2019-01-01&g=2019-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2019-01-01&g=2019-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2019-01-01&g=2019-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), alsmede de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **uitstervende soorten:** soorten als bedoeld in artikel 1, onderdeel f, van het SPAW-protocol;
+- a. *uitstervende soorten:* soorten als bedoeld in artikel 1, onderdeel f, van het SPAW-protocol;
 
-- b. **bedreigde soorten:** soorten als bedoeld in artikel 1, onderdeel g, van het SPAW-protocol;
+- b. *bedreigde soorten:* soorten als bedoeld in artikel 1, onderdeel g, van het SPAW-protocol;
 
-- c. **beschermde soorten:** soorten als bedoeld in artikel 1, onderdeel h, van het SPAW-protocol;
+- c. *beschermde soorten:* soorten als bedoeld in artikel 1, onderdeel h, van het SPAW-protocol;
 
-- d. **endemische soorten:** soorten als bedoeld in artikel 1, onderdeel i, van het SPAW-protocol;
+- d. *endemische soorten:* soorten als bedoeld in artikel 1, onderdeel i, van het SPAW-protocol;
 
-- e. **Wetenschappelijke en Technische Raadgevende Commissie:** als bedoeld in artikel 20 van het SPAW-protocol.
+- e. *Wetenschappelijke en Technische Raadgevende Commissie:* als bedoeld in artikel 20 van het SPAW-protocol.
 
 ##### Artikel 8a
 
@@ -342,6 +320,12 @@ De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, z
 2. Voor zover de in het eerste lid bedoelde opsporing betrekking heeft op feiten die zijn strafbaar gesteld in de door de openbare lichamen Bonaire, Sint Eustatius en Saba ter uitvoering van deze wet gestelde voorschriften, wordt de opsporing mede uitgeoefend door ambtenaren of personen die daartoe door het bestuurscollege worden aangewezen. Een zodanige aanwijzing wordt bekendgemaakt in het blad waarin door het desbetreffende openbare lichaam gebruikelijk officiële berichten worden bekendgemaakt.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vereisten waaraan de krachtens het eerste en het tweede lid aangewezen ambtenaren of personen dienen te voldoen.
+
+##### Artikel 18a
+
+1. De ambtenaren of personen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2019-01-01&g=2019-01-01), hebben de beschikking over de bevoegdheden, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=53) en [55 tot en met 61 van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=55).
+
+2. Het eerste lid is alleen van toepassing waar het betreft de opsporing van overtredingen van beperkingen of verboden opgelegd aan de vaart overeenkomstig [artikel 8D, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8d&z=2019-01-01&g=2019-01-01).
 
 ##### Artikel 19
 
@@ -483,7 +467,9 @@ De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&h
 
 ### Hoofdstuk 7. Beroep
 
-### Hoofdstuk 7. Beroep
+[vervallen]
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
 
 ##### Artikel 38
 
@@ -520,19 +506,3 @@ De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&h
 ##### Artikel 42
 
 Deze regeling wordt aangehaald als: Wet grondslagen natuurbeheer- en bescherming BES.
-
-##### Artikel 18a
-
-1. De ambtenaren of personen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2019-01-01&g=2019-01-01), hebben de beschikking over de bevoegdheden, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=53) en [55 tot en met 61 van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=55).
-
-2. Het eerste lid is alleen van toepassing waar het betreft de opsporing van overtredingen van beperkingen of verboden opgelegd aan de vaart overeenkomstig [artikel 8D, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8d&z=2019-01-01&g=2019-01-01).
-
-### Hoofdstuk 6. Sancties
-
-#### § 1. Bestuursdwang
-
-#### § 2. Dwangsom
-
-#### § 3. Strafbepalingen
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen

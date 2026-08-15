@@ -1,38 +1,16 @@
 ---
 title: "Deurwaarderswet BES"
 identifier: "BWBR0028261"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028261"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10726193"
-version_id: "17696352"
-internal_id: "C24752271"
-label_id: "10700964"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028261/2015-01-01/0"
-intitule_bron: "Stb.2010-512"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-512"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-512"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028261&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0028261&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0028261"
+opgehaald: 2026-08-15
 ---
+
 # Deurwaarderswet BES
 
 ##### Artikel 1
@@ -235,11 +213,11 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 - b. naam en voornamen en standplaats van de deurwaarder, te wiens kantore de toegevoegd-adspirant-deurwaarder werkzaam is.
 
-- a. Binnen een week nadat een toegevoegd-adspirant-deurwaarder zijn werkzaamheden als zodanig ten kantore van een deurwaarder heeft beëindigd, geeft de laatste hiervan schriftelijk kennis aan Onze Minister van Justitie en de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba .
+3. - a. Binnen een week nadat een toegevoegd-adspirant-deurwaarder zijn werkzaamheden als zodanig ten kantore van een deurwaarder heeft beëindigd, geeft de laatste hiervan schriftelijk kennis aan Onze Minister van Justitie en de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba .
 
 - b. De aanwijzing van de toegevoegd-adspirant-deurwaarder vervalt van rechtswege tegelijk met het defungeren van de deurwaarder die de aanwijzing heeft gedaan.
 
-- a. De toegevoegd-adspirant-deurwaarder is bevoegd alle ambtshandelingen en diensten te verrichten namens en onder verantwoordelijkheid van de deurwaarder te wiens kantore hij werkzaam is.
+4. - a. De toegevoegd-adspirant-deurwaarder is bevoegd alle ambtshandelingen en diensten te verrichten namens en onder verantwoordelijkheid van de deurwaarder te wiens kantore hij werkzaam is.
 
 - b. De toegevoegd-adspirant-deurwaarder vermeldt naast zijn naam, voornamen en hoedanigheid van toegevoegd-adspirant-deurwaarder, de naam, voornamen en standplaats van de deurwaarder, op wiens kantore hij werkzaam is.
 

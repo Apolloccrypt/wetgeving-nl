@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 september 2010, nr. Z/M-3020417, houdende nadere regels omtrent een goede afwikkeling van de Wet op de toegang tot ziektekostenverzekeringen 1998 met betrekking tot de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen"
+citeertitel: "Regeling nadere regels goede afwikkeling Wet op de toegang tot ziektekostenverzekeringen 1998 (uitvoering wachtgeldregeling personeel Stichting Uitvoering Omslagregelingen)"
 identifier: "BWBR0028277"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028277"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10734703"
-version_id: "17707612"
-internal_id: "C24474031"
-label_id: "10709324"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028277/2020-01-01/0"
-intitule_bron: "Stcrt.2010-14321"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-09-17"
-intitule_in_force: "2010-09-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14321"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-09-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14321"
-entry_into_force_date: "2010-09-18"
-jci_1_3: "jci1.3:c:BWBR0028277&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028277&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling nadere regels goede afwikkeling Wet op de toegang tot ziektekostenverzekeringen 1998 (uitvoering wachtgeldregeling personeel Stichting Uitvoering Omslagregelingen)"
-signed_date: "2010-09-07"
-entry_into_force: "2010-09-18"
+publicatiedatum: 2010-09-18
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028277"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 september 2010, nr. Z/M-3020417, houdende nadere regels omtrent een goede afwikkeling van de Wet op de toegang tot ziektekostenverzekeringen 1998 met betrekking tot de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen
-
-Gelet op [artikel 2.2.2, zevende lid van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830);
+- a. *de wet:* de [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830);
 
-- b. **de Stichting Uitvoering Omslagregelingen:** de rechtspersoon bedoeld in [artikel 2.2.2, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2), die is belast met de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen;
+- b. *de Stichting Uitvoering Omslagregelingen:* de rechtspersoon bedoeld in [artikel 2.2.2, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2), die is belast met de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen;
 
-- c. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- c. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
@@ -134,6 +108,4 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2010.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2010.

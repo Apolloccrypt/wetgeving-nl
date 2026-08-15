@@ -1,38 +1,16 @@
 ---
 title: "Wet basisadministraties persoonsgegevens BES"
 identifier: "BWBR0028208"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028208"
+categorie: "Digitaal en privacy"
 soort: "wet-BES"
-stam_id: "10697313"
-version_id: "17660562"
-internal_id: "C24786511"
-label_id: "10672494"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028208/2025-11-11/0"
-intitule_bron: "Stb.2010-403"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-403"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-403"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028208&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0028208&g=2025-11-11"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-11-11
+status: geldig
+toestand: 2025-11-11
+bron: "https://wetten.overheid.nl/BWBR0028208"
+opgehaald: 2026-08-15
 ---
+
 # Wet basisadministraties persoonsgegevens BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,43 +19,43 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **openbaar lichaam:** openbaar lichaam als bedoeld in [artikel 1, eerste lid, onder a, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=1);
+- a. *openbaar lichaam:* openbaar lichaam als bedoeld in [artikel 1, eerste lid, onder a, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=1);
 
-- b. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **basisadministratie:** een basisadministratie, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=I&artikel=2&z=2025-11-11&g=2025-11-11);
+- c. *basisadministratie:* een basisadministratie, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=I&artikel=2&z=2025-11-11&g=2025-11-11);
 
-- d. **andere basisadministratie:** een basisadministratie over de bevolking in een ander openbaar lichaam, Aruba, Curaçao of Sint Maarten dan wel de basisregistratie personen in het Europese deel van Nederland;
+- d. *andere basisadministratie:* een basisadministratie over de bevolking in een ander openbaar lichaam, Aruba, Curaçao of Sint Maarten dan wel de basisregistratie personen in het Europese deel van Nederland;
 
-- e. **persoonslijst:** het geheel van gegevens als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11), over een persoon in een basisadministratie;
+- e. *persoonslijst:* het geheel van gegevens als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11), over een persoon in een basisadministratie;
 
-- f. **inschrijving:** de opneming van een persoonslijst in een basisadministratie;
+- f. *inschrijving:* de opneming van een persoonslijst in een basisadministratie;
 
-- g. **ingeschrevene:** degene ten aanzien van wie een persoonslijst is opgenomen in een basisadministratie of een andere basisadministratie;
+- g. *ingeschrevene:* degene ten aanzien van wie een persoonslijst is opgenomen in een basisadministratie of een andere basisadministratie;
 
-- h. **ingezetene:** de ingeschrevene op wiens persoonslijst niet het gegeven van zijn overlijden of zijn vertrek is opgenomen;
+- h. *ingezetene:* de ingeschrevene op wiens persoonslijst niet het gegeven van zijn overlijden of zijn vertrek is opgenomen;
 
-- i. **afnemer:** een orgaan van een openbaar lichaam alsmede een daaronder ressorterende dienst of een bij eilandsverordening als zodanig aangewezen bedrijf of instelling met een publiekrechtelijke taak gericht op het territorium van het betreffende openbaar lichaam;
+- i. *afnemer:* een orgaan van een openbaar lichaam alsmede een daaronder ressorterende dienst of een bij eilandsverordening als zodanig aangewezen bedrijf of instelling met een publiekrechtelijke taak gericht op het territorium van het betreffende openbaar lichaam;
 
-- j. **overheidsorgaan:**
+- j. *overheidsorgaan:*
 
-- 1. een orgaan van een rechtspersoon die in Nederland krachtens publiekrecht is ingesteld, of
+   - 1. een orgaan van een rechtspersoon die in Nederland krachtens publiekrecht is ingesteld, of
 
-- 2. een ander persoon of college, met enig openbaar gezag in Nederland bekleed;
+   - 2. een ander persoon of college, met enig openbaar gezag in Nederland bekleed;
 
-- k. **derde:** elke andere persoon of instelling dan een afnemer, een overheidsorgaan of de ingeschrevene;
+- k. *derde:* elke andere persoon of instelling dan een afnemer, een overheidsorgaan of de ingeschrevene;
 
-- l. **gegevensuitwisseling:** het verstrekken van informatie over een ingeschrevene aan een andere basisadministratie;
+- l. *gegevensuitwisseling:* het verstrekken van informatie over een ingeschrevene aan een andere basisadministratie;
 
-- m. **gegevensverstrekking:** het verstrekken van informatie uit de persoonslijst van de ingeschrevene aan afnemers, overheidsorganen of derden;
+- m. *gegevensverstrekking:* het verstrekken van informatie uit de persoonslijst van de ingeschrevene aan afnemers, overheidsorganen of derden;
 
-- n. **adres:** het adres waar betrokkene woont, of bij ontbreken hiervan een adres waar betrokkene naar redelijke verwachting gedurende drie maanden het merendeel van de tijd zal overnachten;
+- n. *adres:* het adres waar betrokkene woont, of bij ontbreken hiervan een adres waar betrokkene naar redelijke verwachting gedurende drie maanden het merendeel van de tijd zal overnachten;
 
-- o. **verblijfstitel:** een verblijfstitel krachtens de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571);
+- o. *verblijfstitel:* een verblijfstitel krachtens de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571);
 
-- p. **verstrekkingenvoorziening:** de verstrekkingenvoorziening, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=I&artikel=3a&z=2025-11-11&g=2025-11-11);
+- p. *verstrekkingenvoorziening:* de verstrekkingenvoorziening, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=I&artikel=3a&z=2025-11-11&g=2025-11-11);
 
-- q. **burgerservicenummer:** het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
+- q. *burgerservicenummer:* het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
 2. Onder «adres» wordt mede begrepen het adres van een woning die zich in een voertuig of vaartuig bevindt, indien het voertuig of vaartuig een vaste stand- of ligplaats heeft.
 
@@ -137,7 +115,7 @@ Voor het uitvoeren van de verplichtingen op grond van [hoofdstuk 2, afdeling 1, 
 
 ### Hoofdstuk II. Het bijhouden van de basisadministratie
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 #### Paragraaf 1. Inschrijving en vertrek
 
@@ -183,43 +161,43 @@ Degene die is ingeschreven in de basisadministratie blijft daarin na zijn vertre
 
 - a. algemene gegevens:
 
-- 1°. gegevens over de burgerlijke staat;
+   - 1° gegevens over de burgerlijke staat;
 
-- 2°. gegevens over kinderen die op het moment van de geboorte niet meer in leven zijn of omtrent wie een akte in een openbaar lichaam is opgemaakt die vermeldt dat het kind op het ogenblik van de aangifte niet in leven is, dan wel die zijn overleden zonder zelf ingeschrevene te zijn;
+   - 2° gegevens over kinderen die op het moment van de geboorte niet meer in leven zijn of omtrent wie een akte in een openbaar lichaam is opgemaakt die vermeldt dat het kind op het ogenblik van de aangifte niet in leven is, dan wel die zijn overleden zonder zelf ingeschrevene te zijn;
 
-- 3°. gegevens over curatele;
+   - 3° gegevens over curatele;
 
-- 4°. gegevens over het gezag dat over de minderjarige wordt uitgeoefend;
+   - 4° gegevens over het gezag dat over de minderjarige wordt uitgeoefend;
 
-- 5°. gegevens over de nationaliteit;
+   - 5° gegevens over de nationaliteit;
 
-- 6°. gegevens over de verblijfstitel;
+   - 6° gegevens over de verblijfstitel;
 
-- 7°. gegevens over het adres alsmede over het verblijf in en het vertrek uit het openbaar lichaam;
+   - 7° gegevens over het adres alsmede over het verblijf in en het vertrek uit het openbaar lichaam;
 
-- 8°. gegevens over de administratienummers van de ingeschrevene, de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
+   - 8° gegevens over de administratienummers van de ingeschrevene, de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
 
-- 9°. gegevens over het burgerservicenummer van de ingeschrevene, de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
+   - 9° gegevens over het burgerservicenummer van de ingeschrevene, de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen;
 
-- 10°. gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot of eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.
+   - 10° gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot of eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.
 
 - b. bijzondere gegevens:
 
-- 1°. gegevens, noodzakelijk in verband met de uitvoering van de Paspoortwet;
+   - 1° gegevens, noodzakelijk in verband met de uitvoering van de Paspoortwet;
 
-- 2°. gegevens, noodzakelijk in verband met de uitvoering van de Kieswet.
+   - 2° gegevens, noodzakelijk in verband met de uitvoering van de Kieswet.
 
 - c. administratieve gegevens:
 
-- 1°. gegevens in verband met de inschrijving;
+   - 1° gegevens in verband met de inschrijving;
 
-- 2°. gegevens ter aanduiding van akten en andere geschriften waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke gegevens over het Nederlanderschap zijn opgenomen;
+   - 2° gegevens ter aanduiding van akten en andere geschriften waaruit algemene gegevens zijn verkregen, dan wel van de rechtsgrond krachtens welke gegevens over het Nederlanderschap zijn opgenomen;
 
-- 3°. gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met het bijhouden van de basisadministratie;
+   - 3° gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de openbare orde van een opgenomen gegeven over de burgerlijke staat dan wel over een onderzoek naar die onjuistheid of strijdigheid, alsmede andere gegevens, noodzakelijk in verband met het bijhouden van de basisadministratie;
 
-- 4°. gegevens over de systematische verstrekking van gegevens;
+   - 4° gegevens over de systematische verstrekking van gegevens;
 
-- 5°. gegevens over de niet-verstrekking krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=III&paragraaf=4&artikel=28&z=2025-11-11&g=2025-11-11).
+   - 5° gegevens over de niet-verstrekking krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=III&paragraaf=4&artikel=28&z=2025-11-11&g=2025-11-11).
 
 2. Bij algemene maatregel van bestuur wordt nader bepaald welke algemene, bijzondere en administratieve gegevens worden opgenomen, en bij ministeriële regeling worden regels gesteld met betrekking tot de verwijdering en de vernietiging van deze gegevens.
 
@@ -229,11 +207,11 @@ Degene die is ingeschreven in de basisadministratie blijft daarin na zijn vertre
 
 - a. verwijsgegevens:
 
-- 1°. gegevens over de naam en de geboorte;
+   - 1° gegevens over de naam en de geboorte;
 
-- 2°. gegevens over het administratienummer;
+   - 2° gegevens over het administratienummer;
 
-- 3°. het gegeven dat de persoon intussen is ingeschreven in een andere basisadministratie, het adres en de datum van inschrijving, voor zover deze gegevens bekend zijn;
+   - 3° het gegeven dat de persoon intussen is ingeschreven in een andere basisadministratie, het adres en de datum van inschrijving, voor zover deze gegevens bekend zijn;
 
 - b. administratieve gegevens in verband met de verwijsgegevens.
 
@@ -245,7 +223,13 @@ Degene die is ingeschreven in de basisadministratie blijft daarin na zijn vertre
 
 Bij algemene maatregel van bestuur wordt bepaald aan welke geschriften, mededelingen of andere bronnen in de daarbij aangegeven gevallen gegevens als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=11&z=2025-11-11&g=2025-11-11) worden ontleend om te worden opgenomen in de basisadministratie; bij algemene maatregel van bestuur worden tevens bepaald de verplichtingen van instellingen belast met de uitvoering van publiekrechtelijke taken tot het verstrekken van informatie die van belang is voor de bijhouding van de basisadministratie.
 
-### Afdeling 2. De verplichtingen van de burger
+##### Artikel 12a
+
+1. Het burgerservicenummer dat aan een persoon is toegekend overeenkomstig [artikel 8 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) wordt opgenomen op diens persoonslijst, voordat over de betrokken persoon voor de eerste keer gegevens worden verstrekt.
+
+2. De gegevens over het burgerservicenummer van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen worden ontleend aan de desbetreffende persoonslijsten.
+
+#### Afdeling 2. De verplichtingen van de burger
 
 ##### Artikel 13
 
@@ -285,7 +269,7 @@ Verplichtingen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:B
 
 - d. het hoofd van een instelling voor gezondheidszorg voor een in die instelling verblijvende persoon die wegens de toestand van zijn gezondheid niet in staat kan worden geacht aan zijn verplichtingen te voldoen of een machtiging daartoe te geven, dan wel de echtgenoot, de geregistreerde partner of de bloed- of aanverwanten tot en met de tweede graad van een zodanige persoon, onder overlegging van een schriftelijke verklaring van het hoofd van de desbetreffende instelling.
 
-### Afdeling 3. De rechten van de burger
+#### Afdeling 3. De rechten van de burger
 
 ##### Artikel 17
 
@@ -294,6 +278,24 @@ Verplichtingen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:B
 2. Het bestuurscollege verleent eenieder op diens verzoek binnen vier weken inzage in hem betreffende gegevens in de basisadministratie. Hiervoor worden geen kosten in rekening gebracht.
 
 3. Het bestuurscollege verstrekt op verzoek van de ingeschrevene binnen vier weken een afschrift van de hem betreffende gegevens die zijn opgenomen in de basisadministratie.
+
+##### Artikel 17a
+
+1. Het bestuurscollege neemt op schriftelijk verzoek van de ouder binnen vier weken kosteloos op diens persoonslijst de gegevens op over een kind als bedoeld in [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11), indien de ouder ten tijde van het verzoek als ingezetene in de basisadministratie is of wordt ingeschreven.
+
+2. Het bestuurscollege doet terstond schriftelijke mededeling aan de verzoeker van de voldoening aan het verzoek.
+
+3. Het bestuurscollege verwijdert op schriftelijk verzoek van de ouder binnen vier weken kosteloos van de persoonslijst van die ouder de gegevens over het kind, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11).
+
+##### Artikel 17b
+
+1. Het bestuurscollege verstrekt aan de ingeschrevene binnen vier weken na een inschrijving als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=5&z=2025-11-11&g=2025-11-11) in begrijpelijke vorm een volledig overzicht van zijn persoonslijst.
+
+2. Bij minderjarigen jonger dan 16 jaar en bij onder curatele gestelden geschiedt de verstrekking aan de ouders, voogden of verzorgers, onderscheidenlijk aan de curator.
+
+3. Bij de verstrekking van de persoonslijst wordt schriftelijk mededeling gedaan van de hoofdlijnen van de ter zake van de basisadministratie geldende regels, waaronder ten minste de hoofdlijnen van de regels betreffende de identiteit van de voor de verwerking verantwoordelijke, de doeleinden van de basisadministratie, de opgenomen gegevenscategorieën, de categorieën van ontvangers van gegevens en de rechten van de ingeschrevene.
+
+4. Degene die aangifte van verblijf en adres doet, wordt bij die gelegenheid schriftelijk op de hoogte gesteld van het recht, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=III&paragraaf=4&artikel=28&z=2025-11-11&g=2025-11-11).
 
 ##### Artikel 18
 
@@ -345,7 +347,7 @@ Verplichtingen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:B
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de indiening van verzoeken tot verstrekking van gegevens en de wijzen van verstrekking van gegevens uit de basisadministraties en de verstrekkingenvoorziening.
 
-#### Paragraaf 1. Algemeen
+#### Paragraaf 2. De verstrekking aan afnemers
 
 ##### Artikel 21a
 
@@ -455,6 +457,20 @@ Een andere verstrekking uit een basisadministratie of de verstrekkingenvoorzieni
 
 4. De [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=50) en [51 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=51) zijn van overeenkomstige toepassing.
 
+##### Artikel 30a
+
+1. *Dit lid is nog niet in werking getreden.*
+
+2. *Dit lid is nog niet in werking getreden.*
+
+3. *Dit lid is nog niet in werking getreden.*
+
+4. Onze Minister verricht periodiek een onderzoek naar de consistentie en integriteit van de in de verstrekkingenvoorziening opgeslagen gegevens.
+
+##### Artikel 30b
+
+Onze Minister verstrekt aan een bestuurscollege dat daar belang bij heeft spontaan of op verzoek zo spoedig mogelijk alle inlichtingen die van belang zijn voor een goede uitvoering van de taak met betrekking tot de basisadministratie.
+
 #### Paragraaf 2. Strafbepaling
 
 ##### Artikel 31
@@ -511,6 +527,10 @@ Een andere verstrekking uit een basisadministratie of de verstrekkingenvoorzieni
 
 4. De ID-nummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen worden ontleend aan de desbetreffende persoonslijsten in de basisadministratie.
 
+##### Artikel 35a
+
+[Artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=12a&z=2025-11-11&g=2025-11-11), is niet van toepassing als een persoon op het moment van inwerkingtreding van dat artikel reeds in de basisadministratie is ingeschreven. In dat geval wordt het burgerservicenummer dat aan diegene is toegekend overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8), of [artikel 22, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22) onmiddellijk opgenomen op diens persoonslijst.
+
 ### Hoofdstuk VI. Slotbepalingen
 
 ##### Artikel 36
@@ -528,93 +548,3 @@ Deze wet treedt in werking met ingang van de dag na die van haar afkondiging.
 ##### Artikel 39
 
 Deze wet wordt aangehaald als: Wet basisadministraties persoonsgegevens BES.
-
-##### Artikel 17a
-
-1. Het bestuurscollege neemt op schriftelijk verzoek van de ouder binnen vier weken kosteloos op diens persoonslijst de gegevens op over een kind als bedoeld in [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11), indien de ouder ten tijde van het verzoek als ingezetene in de basisadministratie is of wordt ingeschreven.
-
-2. Het bestuurscollege doet terstond schriftelijke mededeling aan de verzoeker van de voldoening aan het verzoek.
-
-3. Het bestuurscollege verwijdert op schriftelijk verzoek van de ouder binnen vier weken kosteloos van de persoonslijst van die ouder de gegevens over het kind, bedoeld in [artikel 10, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=10&z=2025-11-11&g=2025-11-11).
-
-### Hoofdstuk III. Het verstrekken van gegevens uit de basisadministratie
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 2. De verstrekking aan afnemers
-
-#### Paragraaf 3. De verstrekking aan overheidsorganen en aan derden
-
-#### Paragraaf 3a. Andere gegevensverstrekkingen
-
-#### Paragraaf 3a. Andere gegevensverstrekkingen
-
-#### Paragraaf 3b. Gegevensuitwisseling tussen de basisadministraties
-
-### Hoofdstuk IV. Overige bepalingen
-
-#### Paragraaf 1. Toezicht
-
-#### Paragraaf 1. Toezicht
-
-#### Paragraaf 3. Bijzondere bepalingen
-
-### Hoofdstuk V. Overgangsbepalingen
-
-### Hoofdstuk VI. Slotbepalingen
-
-##### Artikel 12a
-
-1. Het burgerservicenummer dat aan een persoon is toegekend overeenkomstig [artikel 8 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) wordt opgenomen op diens persoonslijst, voordat over de betrokken persoon voor de eerste keer gegevens worden verstrekt.
-
-2. De gegevens over het burgerservicenummer van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen worden ontleend aan de desbetreffende persoonslijsten.
-
-### Afdeling 2. De verplichtingen van de burger
-
-### Afdeling 3. De rechten van de burger
-
-##### Artikel 17b
-
-1. Het bestuurscollege verstrekt aan de ingeschrevene binnen vier weken na een inschrijving als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=1&artikel=5&z=2025-11-11&g=2025-11-11) in begrijpelijke vorm een volledig overzicht van zijn persoonslijst.
-
-2. Bij minderjarigen jonger dan 16 jaar en bij onder curatele gestelden geschiedt de verstrekking aan de ouders, voogden of verzorgers, onderscheidenlijk aan de curator.
-
-3. Bij de verstrekking van de persoonslijst wordt schriftelijk mededeling gedaan van de hoofdlijnen van de ter zake van de basisadministratie geldende regels, waaronder ten minste de hoofdlijnen van de regels betreffende de identiteit van de voor de verwerking verantwoordelijke, de doeleinden van de basisadministratie, de opgenomen gegevenscategorieën, de categorieën van ontvangers van gegevens en de rechten van de ingeschrevene.
-
-4. Degene die aangifte van verblijf en adres doet, wordt bij die gelegenheid schriftelijk op de hoogte gesteld van het recht, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=III&paragraaf=4&artikel=28&z=2025-11-11&g=2025-11-11).
-
-### Hoofdstuk III. Het verstrekken van gegevens uit de basisadministratie
-
-#### Paragraaf 2. De verstrekking aan afnemers
-
-#### Paragraaf 3. De verstrekking aan overheidsorganen en aan derden
-
-#### Paragraaf 4. Het recht op geheimhouding
-
-### Hoofdstuk IV. Overige bepalingen
-
-##### Artikel 30a
-
-1. Dit lid is nog niet in werking getreden.
-
-2. Dit lid is nog niet in werking getreden.
-
-3. Dit lid is nog niet in werking getreden.
-
-4. Onze Minister verricht periodiek een onderzoek naar de consistentie en integriteit van de in de verstrekkingenvoorziening opgeslagen gegevens.
-
-##### Artikel 30b
-
-Onze Minister verstrekt aan een bestuurscollege dat daar belang bij heeft spontaan of op verzoek zo spoedig mogelijk alle inlichtingen die van belang zijn voor een goede uitvoering van de taak met betrekking tot de basisadministratie.
-
-#### Paragraaf 2. Strafbepaling
-
-#### Paragraaf 3. Bijzondere bepalingen
-
-### Hoofdstuk V. Overgangsbepalingen
-
-##### Artikel 35a
-
-[Artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=12a&z=2025-11-11&g=2025-11-11), is niet van toepassing als een persoon op het moment van inwerkingtreding van dat artikel reeds in de basisadministratie is ingeschreven. In dat geval wordt het burgerservicenummer dat aan diegene is toegekend overeenkomstig [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8), of [artikel 22, eerste lid, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22) onmiddellijk opgenomen op diens persoonslijst.
-
-### Hoofdstuk VI. Slotbepalingen

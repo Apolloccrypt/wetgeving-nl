@@ -1,38 +1,17 @@
 ---
 title: "Het begrip ,,vaste inrichting’’ in de verdragen tot het vermijden van dubbele belasting Resolutie staatssecretaris van Financiën 22 januari 1979, nr. 079-24, gewijzigd bij Resolutie staatssecretaris van Financiën 26 maart 1989, nr. 088-3766"
+citeertitel: "Het begrip ‘vaste inrichting’ in bilaterale verdragen"
 identifier: "BWBR0027789"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1979-01-22"
-last_updated: "1979-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027789"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10578013"
-version_id: "17458552"
-internal_id: "C24150191"
-label_id: "10552964"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027789/1979-01-22/0"
-intitule_bron: "Infob.1979-0"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-01-22"
-intitule_published: "1979-01-01"
-intitule_in_force: "1979-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1979-0"
-original_signed_date: "1979-01-22"
-original_published_date: "1979-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1979-01-22"
-jci_1_3: "jci1.3:c:BWBR0027789&z=1979-01-22&g=1979-01-22"
-jci_1_0: "1.0:c:BWBR0027789&g=1979-01-22"
-citeertitel_status: "redactioneel"
-short_title: "Het begrip ‘vaste inrichting’ in bilaterale verdragen"
-signed_date: "1979-01-22"
-entry_into_force: "1979-01-22"
+publicatiedatum: 1979-01-22
+laatste_update: 1979-01-22
+status: geldig
+toestand: 1979-01-22
+bron: "https://wetten.overheid.nl/BWBR0027789"
+opgehaald: 2026-08-15
 ---
+
 # Het begrip ,,vaste inrichting’’ in de verdragen tot het vermijden van dubbele belasting Resolutie staatssecretaris van Financiën 22 januari 1979, nr. 079-24, gewijzigd bij Resolutie staatssecretaris van Financiën 26 maart 1989, nr. 088-3766
 
 ### I. Inleiding
@@ -46,6 +25,26 @@ Een deel van de aanschrijvingen die betrekking hebben op het begrip ,,vaste inri
 Voor de toepassing van het [Besluit voorkoming dubbele belasting](https://wetten.overheid.nl/jci1.3:c:BWBR0012095) (boekwerk IFZ, 1.00.20) wordt ingevolge [artikel 2, vierde lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=2) onder ,,vaste inrichting’’ mede verstaan ,,werken waarvan de uitvoering langer dan twaalf maanden duurt’’. Deze bepaling dient evenwel geen toepassing te vinden bij de uitvoering van verdragen ter voorkoming van dubbele belasting. Indien werken worden uitgevoerd in een land waarmede Nederland een belastingverdrag heeft gesloten, dient de vraag of in dat land een bedrijf wordt uitgeoefend met behulp van een aldaar aanwezige vaste inrichting, te worden beantwoord aan de hand van het desbetreffende verdrag. Indien een verdrag niet voorziet in een regeling terzake, terwijl ook in het vervolg van deze aanschrijving terzake geen aanwijzing wordt gegeven, behoort in voorkomende gevallen de vraag, of de uitvoering van een werk al dan niet als het uitoefenen van een bedrijf in het desbetreffende land met behulp van een vaste inrichting moet worden beschouwd, aan het ministerie (directie Internationale Fiscale Zaken) te worden voorgelegd.
 
 ### B. Afzonderlijke verdragslanden
+
+- 1. Belgie. Samenloop verschillende bouwwerken. Op de voet van artikel 26, par. 3, van de Nederlands-Belgische belastingovereenkomst van 1970 (boekwerk IFZ, 60.00.00) zijn met de Belgische belastingautoriteiten interpretatieregels overeengekomen die voor de toepassing van artikel 5, par. 2, 7e, in acht dienen te worden genomen in gevallen waarin moet worden uitgemaakt of bouwwerken, die op verschillende plaatsen en op verschillende tijdstippen worden uitgevoerd, al dan niet te zamen in aanmerking moeten worden genomen voor de berekening van de termijn van negen maanden. De regels luiden: Voor 1 januari 1989 Zulke eenheid kan aanwezig zijn: in de tijd, nl. wanneer de verschillende opdrachten tegelijkertijd of onmiddellijk na elkaar zonder onderbreking worden uitgevoerd; in de ruimte, wanneer de werken, ofschoon op verschillende plaatsen uitgevoerd, slechts een deel van een groter geheel vormen en er geen noemenswaardige werkonderbreking is geweest. Van 1 januari 1989 af
+
+   - a. afzonderlijke bouwwerken of constructiewerkzaamheden moeten voor de berekening van de tijdsduur niet worden samengenomen;
+
+   - b. normaal kunnen als afzonderlijke werken worden beschouwd werken die voor verschillende opdrachtgevers worden uitgevoerd, tenzij die werken uit economisch oogpunt een geheel vormen;
+
+   - c. verschillende werken voor rekening van een enkele opdrachtgever worden in elk geval als een geheel behandeld, indien zij ingevolge een enkele overeenkomst worden uitgevoerd;
+
+   - d. indien werken voor rekening van een enkele opdrachtgever worden uitgevoerd ingevolge meer dan een overeenkomst, dienen zij eveneens te worden samengenomen in geval van eenheid van uitvoering.
+
+   - a. afzonderlijke bouwwerken of constructiewerkzaamheden moeten voor de berekening van de tijdsduur niet worden samengenomen;
+
+   - b. normaal kunnen als afzonderlijke werken worden beschouwd werken die voor verschillende opdrachtgevers worden uitgevoerd, tenzij die werken uit economisch oogpunt een geheel vormen;
+
+   - c. indien verschillende werken voor rekening van een enkele opdrachtgever worden uitgevoerd ingevolge een enkele overeenkomst, worden zij als een geheel behandeld, tenzij die werken niet in enige samenhang worden verricht;
+
+   - d. indien verschillende werken voor rekening van een enkele opdrachtgever worden uitgevoerd ingevolge meer dan een overeenkomst, dienen zij eveneens te worden samengenomen ingeval de werken, ofschoon op verschillende plaatsen uitgevoerd, slechts een deel van een groter geheel vormen en er geen noemenswaardige werkonderbreking is geweest.
+
+- 2. Zwitserland. Werken met tijdelijk karakter. Voor wat betreft de toepassing van het Nederlands-Zwitserse belastingverdrag van 1951 (boekwerk IFZ, 261.00.00) is met de Zwitserse belastingautoriteiten overeengekomen, dat niet als het uitoefenen van een bedrijf met behulp van een vaste inrichting in de zin van artikel 4 van dat verdrag zal worden beschouwd het uitvoeren van werken, voor zover dit plaatsvindt met behulp van installaties en dergelijke, die een tijdelijk karakter hebben en alleen voor een bepaald werk zijn opgericht, ook indien de uitvoering van het werk langer dan een jaar duurt.
 
 ### III. Overige gevallen
 

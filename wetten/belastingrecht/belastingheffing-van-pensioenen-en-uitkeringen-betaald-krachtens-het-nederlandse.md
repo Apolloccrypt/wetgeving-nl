@@ -1,48 +1,43 @@
 ---
 title: "Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk"
 identifier: "BWBR0028087"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1996-10-08"
-last_updated: "1996-10-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028087"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10651063"
-version_id: "17596772"
-internal_id: "C24350291"
-label_id: "10627344"
-dtd_version: "2.0"
-original_entry_into_force: "1996-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028087/1996-10-08/0"
-intitule_bron: "Infob.1996-0"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-10-08"
-intitule_published: "1996-01-01"
-intitule_in_force: "1996-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1996-0"
-original_signed_date: "1996-10-08"
-original_published_date: "1996-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-10-08"
-jci_1_3: "jci1.3:c:BWBR0028087&z=1996-10-08&g=1996-10-08"
-jci_1_0: "1.0:c:BWBR0028087&g=1996-10-08"
-citeertitel_status: "redactioneel"
-signed_date: "1996-10-08"
-entry_into_force: "1996-10-08"
+publicatiedatum: 1996-10-08
+laatste_update: 1996-10-08
+status: geldig
+toestand: 1996-10-08
+bron: "https://wetten.overheid.nl/BWBR0028087"
+opgehaald: 2026-08-15
 ---
-# Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk
 
-De directeur-generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk
 
 ### Inleiding
 
 Mij is gebleken, dat er behoefte bestaat aan nadere informatie omtrent de behandeling van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) (BRK). Het Nederlandse sociale zekerheidsstelsel kan worden verdeeld in twee groepen:
 
+- -de sociale voorzieningen en
+
+- -de sociale verzekeringen.
+
 ### Sociale voorzieningen
 
 De sociale voorzieningen geven recht op een uitkering indien men geen inkomen heeft en over geen of een besheiden vermogen beschikt. De uitkeringen uit hoofde van de sociale voorzieningen worden volledig gefinancierd uit de algemene middelen. Er vindt geen heffing van premies plaats. Tot de sociale voorzieningen behoren:
+
+- - de [Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333);
+
+- - de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+
+- - de [Wet inkomensvoorziening voor oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- -de [Wet inkomensvoorziening voor oudere en gedeeltelijk Arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+
+- -de [Wet Sociale Werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903);
+
+- -de Rijksgroepsregeling werkloze werknemers (tot 1 januari 1997);
+
+- -het [Besluit bijstandverlening zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007335).
 
 Tot de sociale voorzieningen kunnen ook worden gerekend de pensioenen en uitkeringen ingevolge de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844), de [Wet uitkeringen burgeroorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968) en de Algemene oorlogsongevallenregeling.
 
@@ -54,17 +49,71 @@ Bij de sociale verzekeringen ligt het accent op het verzekeringselement. De uitk
 
 De sociale verzekeringen kunnen worden verdeeld in:
 
+- -volksverzekeringen en
+
+- -werknemersverzekeringen.
+
 ### Volksverzekeringen
 
 Tot de volksverzekeringen behoren:
+
+- -de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+
+- -de Algemene Weduwen- en Wezenwet (op 1 juli 1996 vervangen door de Algemene nabestaandenwet);
+
+- -de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) (op 1 juli 1996 in de plaats getreden van de Algemene Weduwen- en Wezenwet);
+
+- -de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+
+- -de Algemene Arbeidsongeschiktheidswet;
+
+- -de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
 ### Werknemersverzekeringen
 
 Tot de werknemersverzekeringen behoren:
 
+- -de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (op 1 maart 1996 grotendeels geprivatiseerd);
+
+- -de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- -de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+- -de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460).
+
 ### In de praktijk voorkomende pensioenen en uitkeringen
 
 In de praktijk komen onder de werking van de belastingverdragen en de [BRK](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) regelmatig de navolgende pensioenen en uitkeringen voor:
+
+- -Pensioenen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)(AOW-pensioenen);
+
+- -Pensioenen ingevolge de Algemene Weduwen- en Wezenwet (AWW-pensioenen);
+
+- -Uitkeringen ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) (Anw-uitkeringen);
+
+- -Uitkeringen ingevolge de [Algemene Arbeidsongeschiktheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AAW-uitkeringen);
+
+- -Uitkeringen ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (WAO-uitkeringen);
+
+- -Uitkeringen ingevolge de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) (Ziektewetuitkeringen);
+
+- -Uitkeringen ingevolge de [Algemene Bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333) (Bijstandsuitkeringen);
+
+- -Buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) (WBP-pensioenen);
+
+- -Buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) (WBPZO-pensioenen);
+
+- -Buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968)(WIV-pensioenen);
+
+- -Uitkeringen ingevolge de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) (WUV-uitkeringen);
+
+- -Uitkeringen ingevolge de [Wet uitkeringen burgeroorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664) (WUBO-uitkeringen);
+
+- -Uitkeringen ingevolge de Wet Algemene Oorlogsongevallenregeling (AOR-uitkeringen);
+
+- -Uitkeringen ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)(WW-uitkeringen)
+
+- -Toeslagen ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) (TW-toeslagen).
 
 Met betrekking tot de ziektewetuitkeringen merk ik nog op, dat als gevolg van de privatisering van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) sedert 1 maart 1996 het aantal gevallen dat nog een uitkering op grond van die wet wordt genoten zeer beperkt zal zijn (zie ook het hierna opgenomen onderdeel loondoorbetalingen wegens ziekte)
 
@@ -122,13 +171,17 @@ Indien het sociale zekerheidsartikel toepassing mist en het desbetreffende belas
 
 Met betrekking tot de werkloosheidsuitkeringen die op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)van 1987 worden toegekend dient voor de toepassing van de door Nederland gesloten belastingverdragen onderscheid te worden gemaakt tussen werkloosheidsuitkeringen waarbij:
 
+- a. de dienstbetrekking *niet* is verbroken;
+
+- b. de dienstbetrekking *wel* is verbroken.
+
 De onder a. vallende WW-uitkeringen volgen het verdragsregime van de inkomsten uit dienstbetrekking of dat van directeursbeloningen, omdat het dienstverband is blijven bestaan en ze derhalve in de plaats treden van de beloning die door de werknemer of directeur zou zijn genoten. Kent het desbetreffende belastingverdrag een aparte verdragsbepaling voor sociale verzekeringsuitkeringen c.q. sociale zekerheidsuitkeringen, dan hangt het van de formulering van die bepaling af of op dit soort WW-uitkeringen die bepaling van toepassing is of het dienstbetrekkingartikel of het directeurenartikel.
 
 Op de onder b. vallende WW-uitkeringen is het restartikel van toepassing. Kent het desbetreffende belastingverdrag echter een aparte verdragsbepaling voor sociale verzekeringsuitkeringen c.q. sociale zekerheidsuitkeringen, dan hangt het van de formulering van die bepaling af of op dit soort WW-uitkeringen die bepaling van toepassing is of het restartikel. Ontbreken beide bepalingen in het desbetreffende belastingverdrag, dan blijft de nationale wetgeving in stand; in Nederland zal dan steeds over dit soort WW-uitkeringen loon- en (eventueel) inkomstenbelasting moeten worden geheven.
 
 Aanvullingen die door de voormalige werkgever op dit soort WW-uitkeringen worden gedaan volgen het regime van die uitkeringen.
 
-### Toeslagen ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+### Toeslagen ingevolge de Toeslagenwet
 
 Deze wet biedt een minimumgarantie aan uitkeringsgerechtigden ingevolge de Algemene Arbeidsongeschiktheidswet, de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888). De uitkeringen krachtens voornoemde wetten worden op het voor betrokkenen geldende sociale minimum gebracht door het verlenen van een toeslag op die uitkeringen.
 
@@ -152,6 +205,21 @@ In het verleden is door mij met betrekking tot vervolgingsuitkeringen en oorlogs
 
 Samengevat zijn aan inwoners van Australië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW-pensioenen: | belastbaar in Australië (art. 18, lid 1) |
+| AWW-pensioenen: | belastbaar in Australië (art. 18, lid 1) |
+| Anw-uitkeringen: | belastbaar in Australië (art. 18, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Australië (art. 18, lid 1) |
+| Verzetspensioenen: | belastbaar in Australië (art. 18, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Australië (art. 18, lid 1) |
+| Vervolgingsuitkeringen : | belastbaar in Australië (art. 18, lid 1) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.); belastbaar in Australië (art. 18, lid 1), indien de genieter van die uitkeringen op of voor 1 juli 1990 in Australië woonde. |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.); belastbaar in Australië (art. 18, lid 1), indien de genieter van die uitkeringen op of voor 1 juli 1990 in Australië woonde. |
+
 ### Bangladesh
 
 Het verdrag met Bangladesh kent een restartikel (art. 22) alsmede een gecombineerd pensioen-, lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -159,6 +227,21 @@ Het verdrag met Bangladesh kent een restartikel (art. 22) alsmede een gecombinee
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Bangladesh onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Bangladesh betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Belarus 1)1) Verdrag is nog niet in werking getreden.
 
@@ -168,6 +251,21 @@ Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziekte
 
 Samengevat zijn aan inwoners van Belarus betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+
 ### België
 
 Het verdrag met België kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 22) opgenomen.
@@ -175,6 +273,21 @@ Het verdrag met België kent geen sociaal zekerheidsartikel. Wel is in het verdr
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van België op grond van het restartikel belastbaar in België. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van België zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16).
 
 Samengevat zijn aan inwoners van België betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in België (art. 22) |
+| AOW pensioenen: | belastbaar in België (art. 22) |
+| AWW pensioenen: | belastbaar in België (art. 22) |
+| Anw uitkeringen: | belastbaar in België (art. 22) |
+| Bijstandsuitkeringen: | belastbaar in België (art. 22) |
+| Oorlogspensioenen: | belastbaar in België (art. 22) |
+| Verzetspensioenen: | belastbaar in België (art. 22) |
+| Oorlogsuitkeringen: | belastbaar in België (art. 22) |
+| Vervolgingsuitkeringen: | belastbaar in België (art. 22) |
+| AAW uitkeringen: | belastbaar in België (art. 22) |
+| WAO uitkeringen: | belastbaar in België (art. 22) |
 
 ### Brazilië
 
@@ -184,6 +297,21 @@ Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziekte
 
 Samengevat zijn aan inwoners van Brazilië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+
 ### Bulgarije
 
 Het verdrag met Bulgarije kent een restartikel (art. 22) alsmede een gecombineerd pensioen- en sociaal zekerheidsartikel (art. 18).
@@ -192,13 +320,43 @@ Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziekte
 
 Samengevat zijn aan inwoners van Bulgarije betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW-pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+
 ### Canada (Protocol Trb 1997, 258 nog beoordelen)
 
 Het verdrag met Canada kent een gecombineerd pensioen , lijfrente- en sociaal zekerheidsartikel (art. 18), waarin voor de bronstaat het heffingsrecht met betrekking tot pensioenen en andere uitkeringen betaald krachtens zijn sociale zekerheidsstelsel wordt ingeperkt tot maximaal 15% van het brutobedrag van die pensioenen en uitkeringen. Ook kent het verdrag een restartikel (art. 21a) waarin is bepaald dat inkomsten verkregen door een inwoner van Canada waarvoor in het Verdrag geen afzonderlijke regeling is getroffen slechts in Canada belastbaar zijn (art. 21a, lid 1), tenzij die inkomsten afkomstig zijn uit Nederland. In dat geval mogen die inkomsten ook in Nederland worden belast, zij het echter tot maximaal 25% van het brutobedrag van die inkomsten (art. 21a, lid 2).
 
-Gelet op de formulering van artikel 18, eerste lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen betaald aan inwoners van Canada in Nederland belastbaar zijn tot maximaal 15% van het brutobedrag van die pensioenen en uitkeringen. Daarentegen zijn loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) volledig in Nederland belastbaar. Voor die betalingen geldt derhalve **geen inperking** van het heffingsrecht tot 15%.
+Gelet op de formulering van artikel 18, eerste lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen betaald aan inwoners van Canada in Nederland belastbaar zijn tot maximaal 15% van het brutobedrag van die pensioenen en uitkeringen. Daarentegen zijn loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) volledig in Nederland belastbaar. Voor die betalingen geldt derhalve *geen inperking* van het heffingsrecht tot 15%.
 
 Samengevat zijn aan inwoners van Canada betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| AOW pensioenen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die pensioenen (art. 18, lid 1) |
+| AWW pensioenen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die pensioenen (art. 18, lid 1) |
+| Anw uitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| Oorlogspensioenen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die pensioenen (art. 18, lid 1) |
+| Verzetspensioenen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die pensioenen (art. 18, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| AAW-uitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
+| WAO-uitkeringen: | belastbaar in Nederland tot maximaal 15% van het brutobedrag van die uitkeringen (art. 18, lid 1) |
 
 ### China
 
@@ -207,6 +365,21 @@ Het verdrag met China kent een gecombineerd pensioen- en sociaal zekerheidsartik
 De formulering van artikel 18, lid 2, van het verdrag is zodanig dat in verband met het arrest van de Hoge Raad van 4 juli 1989, nr. 25 660, de werkloosheidsuitkeringen, indien het dienstverband is verbroken, de bijstandsuitkeringen, de oorlogsuitkeringen, de vervolgingsuitkeringen, de AAW-uitkeringen en de WAO-uitkeringen daar niet onder vallen. Die uitkeringen vallen onder artikel 22, lid 3, waardoor die uitkeringen betaald aan inwoners van China in Nederland belastbaar zijn. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van China zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16). Ook zijn op grond van artikel 18, lid 2, in Nederland belastbaar de aan inwoners van China betaalde AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspensioenen.
 
 Samengevat zijn aan inwoners van China betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of art. 22, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 2) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 22, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 22, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 22, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 22, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 22, lid 3) |
 
 ### Denemarken 1957
 
@@ -222,6 +395,21 @@ Nederland mag over werkloosheidsuitkeringen, indien het dienstverband niet is ve
 
 Samengevat zijn aan inwoners van Denemarken betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 13 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 13 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 13 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Denemarken (art. 4) |
+| AOW pensioenen: | belastbaar in Nederland (art. 15, par. 1 en 4) |
+| AWW pensioenen: | belastbaar in Denemarken (art. 4) |
+| Anw uitkeringen: | belastbaar in Denemarken (art. 4) |
+| Bijstandsuitkeringen: | belastbaar in Denemarken (art. 4) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 15, par. 1 en 4) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 15, par. 1 en 4) |
+| Oorlogsuitkeringen: | belastbaar in Denemarken (art. 4) |
+| Vervolgingsuitkeringen: | belastbaar in Denemarken (art. 4) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 15, par. 1 en 4) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 15, par. 1 en 4) |
+
 ### Denemarken 1996 2)Verdrag is nog niet in werking getreden.
 
 Het verdrag met Denemarken van 1996 kent een restartikel (art. 21) alsmede een gecombineerd pensioen-, lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -229,6 +417,21 @@ Het verdrag met Denemarken van 1996 kent een restartikel (art. 21) alsmede een g
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen betaald aan inwoners van Denemarken in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Denemarken betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Bondsrepubliek Duitsland
 
@@ -240,6 +443,21 @@ In het verleden is door mij, zij het ten onrechte, met betrekking tot vervolging
 
 Samengevat zijn aan inwoners van de BRD betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| --- | --- |
+| Loondoorbetalingen ex: | belastbaar in Nederland (art. 10) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| AOW pensioenen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| AWW pensioenen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| Bijstandsuitkeringen: | belastbaar in BRD (art. 16) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 2) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 2) |
+| Oorlogsuitkeringen: | belastbaar in BRD (art. 16) |
+| Vervolgingsuitkeringen: | belastbaar in BRD (art. 16) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 12, lid 3, onderdeel 1) |
+
 ### Filippijnen
 
 Het verdrag met de Filippijnen kent geen sociaal zekerheidsartikel en evenmin een restartikel.
@@ -248,6 +466,21 @@ Door het ontbreken van een restartikel en een sociaal zekerheidsartikel blijft o
 
 Samengevat zijn aan inwoners van de Filippijnen betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AWW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Anw uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Verzetspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Finland 1970
 
 Het verdrag met Finland van 1970 kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 23) opgenomen.
@@ -255,6 +488,21 @@ Het verdrag met Finland van 1970 kent geen sociaal zekerheidsartikel. Wel is in 
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Finland op grond van het restartikel belastbaar in Finland. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Finland zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Finland betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Finland (art. 23) |
+| AOW pensioenen: | belastbaar in Finland (art. 23) |
+| AWW pensioenen: | belastbaar in Finland (art. 23) |
+| Anw uitkeringen: | belastbaar in Finland (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Finland (art. 23) |
+| Oorlogspensioenen: | belastbaar in Finland (art. 23) |
+| Verzetspensioenen: | belastbaar in Finland (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Finland (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Finland (art. 23) |
+| AAW-uitkeringen: | belastbaar in Finland (art. 23) |
+| WAO-uitkeringen: | belastbaar in Finland (art. 23) |
 
 ### Finland 1995 3)Verdrag is nog niet in werking getreden.
 
@@ -268,6 +516,19 @@ Loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overhei
 
 Samengevat zijn aan inwoners van Finland betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: AWW pensioenen: Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) entenzij die pensioenen en uitkeringen op de datum van inwerkingtreding van het verdrag reeds waren ingegaan. In dat geval zijn de AOW-pensioenen, AWW-pensioenen en Anw-uitkeringen belastbaar in Finland (onderdeel IX protocol) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+
 ### Frankrijk
 
 Het verdrag met Frankrijk kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 22) opgenomen.
@@ -275,6 +536,21 @@ Het verdrag met Frankrijk kent geen sociaal zekerheidsartikel. Wel is in het ver
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Frankrijk op grond van het restartikel belastbaar in Frankrijk. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Frankrijk zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16).
 
 Samengevat zijn aan inwoners van Frankrijk betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Frankrijk (art. 22) |
+| AOW pensioenen: | belastbaar in Frankrijk (art. 22) |
+| AWW pensioenen: | belastbaar in Frankrijk (art. 22) |
+| Anw uitkeringen: | belastbaar in Frankrijk (art. 22) |
+| Bijstandsuitkeringen: | belastbaar in Frankrijk (art. 22) |
+| Oorlogspensioenen: | belastbaar in Frankrijk (art. 22) |
+| Verzetspensioenen: | belastbaar in Frankrijk (art. 22) |
+| Oorlogsuitkeringen: | belastbaar in Frankrijk (art. 22) |
+| Vervolgingsuitkeringen: | belastbaar in Frankrijk (art. 22) |
+| AAW-uitkeringen: | belastbaar in Frankrijk (art. 22) |
+| WAO-uitkeringen: | belastbaar in Frankrijk (art. 22) |
 
 ### Georgië
 
@@ -286,6 +562,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Griekenland betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Griekenland (art. 23, lid 1) |
+| AOW pensioenen: | belastbaar in Griekenland (art. 23, lid 1) |
+| AWW pensioenen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Anw uitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Oorlogspensioenen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Verzetspensioenen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+| AAW-uitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+| WAO-uitkeringen: | belastbaar in Griekenland (art. 23, lid 1) |
+
 ### Groot-Brittannië en Noord-Ierland
 
 Het verdrag met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (V.K.) kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 21) opgenomen.
@@ -293,6 +584,21 @@ Het verdrag met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van het V.K. op grond van het restartikel belastbaar in het V.K. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van het V.K. zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16).
 
 Samengevat zijn aan inwoners van het V.K. betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in het V.K. (art. 21, lid 1) |
+| AOW pensioenen: | belastbaar in het V.K. (art. 21, lid 1) |
+| AWW pensioenen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Anw uitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Oorlogspensioenen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Verzetspensioenen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
+| AAW-uitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
+| WAO-uitkeringen: | belastbaar in het V.K. (art. 21, lid 1) |
 
 In het verdrag met het V.K. is een "remittance base" bepaling opgenomen (art. 27, lid 1). Die bepaling leidt ertoe, dat Nederland aan non domiciled residents in het V.K. slechts vrijstelling voor de hiervoor vermelde pensioenen en uitkeringen verleent voor zover die pensioenen en uitkeringen naar het V.K. zijn overgemaakt of aldaar zijn ontvangen.
 
@@ -308,6 +614,21 @@ Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetu
 
 Samengevat zijn aan inwoners van Hongarije betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Hongarije (art. 22, lid 1) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Hongarije (art. 22, lid 1) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Hongarije (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Hongarije (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Hongarije (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Hongarije (art. 22, lid 1) |
+
 ### Ierland
 
 Het verdrag met Ierland kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 20) opgenomen.
@@ -315,6 +636,21 @@ Het verdrag met Ierland kent geen sociaal zekerheidsartikel. Wel is in het verdr
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Ierland op grond van het restartikel belastbaar in Ierland. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [artikel 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Ierland zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 14) of het directeurenartikel (art. 15).
 
 Samengevat zijn aan inwoners van Ierland betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 14 of art. 15) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 14 of art. 15) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 14 of art. 15), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Ierland (art. 20) |
+| AOW pensioenen: | belastbaar in Ierland (art. 20) |
+| AWW pensioenen: | belastbaar in Ierland (art. 20) |
+| Anw uitkeringen: | belastbaar in Ierland (art. 20) |
+| Bijstandsuitkeringen: | belastbaar in Ierland (art. 20) |
+| Oorlogspensioenen: | belastbaar in Ierland (art. 20) |
+| Verzetspensioenen: | belastbaar in Ierland (art. 20) |
+| Oorlogsuitkeringen: | belastbaar in Ierland (art. 20) |
+| Vervolgingsuitkeringen: | belastbaar in Ierland (art. 20) |
+| AAW-uitkeringen: | belastbaar in Ierland (art. 20) |
+| WAO-uitkeringen: | belastbaar in Ierland (art. 20) |
 
 In het verdrag met Ierland is een "remittance base" bepaling opgenomen (art. 2, derde lid), doch die bepaling mist met betrekking tot de hiervoor genoemde pensioenen en uitkeringen genoten door inwoners van Ierland toepassing in verband met het arrest van de Hoge Raad van 26 januari 1977, nr. 18 010 (BNB 1977/111).
 
@@ -328,6 +664,21 @@ AOW pensioenen, AWW pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspen
 
 Samengevat zijn aan inwoners van India betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Indonesië (zie Trb. 2002, nr. 32)
 
 Het verdrag met Indonesië kent geen sociaal zekerheids-artikel en evenmin een restartikel.
@@ -335,6 +686,21 @@ Het verdrag met Indonesië kent geen sociaal zekerheids-artikel en evenmin een r
 Door het ontbreken van een restartikel en een sociaal zekerheidsartikel blijft op alle pensioenen en uitkeringen betaald krachtens de Nederlandse sociale zekerheid de Nederlandse nationale wetgeving in stand, waardoor deze aan inwoners van Indonesië betaalde pensioenen en uitkeringen in Nederland aan de loon- en (eventueel) inkomstenbelasting zijn onderworpen. Met betrekking tot de werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, en de ziektewetuitkeringen is dit mede in overeenstemming met het bepaalde in het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16). Loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) gedaan aan inwoners van Indonesië zijn op grond het dienstbetrekkingartikel (art. 15) of het directeuren-artikel (art. 16) in Nederland aan de loon- en (eventueel) inkomstenbelasting onderworpen
 
 Samengevat zijn aan inwoners van Indonesië betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AWW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Anw uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Verzetspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
 
 De bepalingen van dit verdrag en het protocol blijven van toepassing tot het uit 2002 daterende verdrag in werking treedt.
 
@@ -346,6 +712,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Israël betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 17 of art.18) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 17 of art.18) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 17 of art. 18), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Israël (art. 24) |
+| AOW pensioenen: | belastbaar in Israël (art. 24) |
+| AWW pensioenen: | belastbaar in Israël (art. 24) |
+| Anw uitkeringen: | belastbaar in Israël (art. 24) |
+| Bijstandsuitkeringen: | belastbaar in Israël (art. 24) |
+| Oorlogspensioenen: | belastbaar in Israël (art. 24) |
+| Verzetspensioenen: | belastbaar in Israël (art. 24) |
+| Oorlogsuitkeringen: | belastbaar in Israël (art. 24) |
+| Vervolgingsuitkeringen: | belastbaar in Israël (art. 24) |
+| AAW-uitkeringen: | belastbaar in Israël (art. 24) |
+| WAO-uitkeringen: | belastbaar in Israël (art. 24) |
+
 In het verdrag met Israël is een "remittance base" bepaling opgenomen (art. 6), doch die bepaling mist met betrekking tot de hiervoor genoemde pensioenen en uitkeringen genoten door inwoners van Israël toepassing in verband met het arrest van de Hoge Raad van 26 januari 1977, nr. 18 010 (BNB 1977/111).
 
 ### Italië
@@ -356,6 +737,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Italië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art.16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art.16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Italië (art. 22, lid 1) |
+| AOW pensioenen: | belastbaar in Italië (art. 22, lid 1) |
+| AWW pensioenen: | belastbaar in Italië (art. 22, lid 1) |
+| Anw uitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+| Oorlogspensioenen: | belastbaar in Italië (art. 22, lid 1) |
+| Verzetspensioenen: | belastbaar in Italië (art. 22, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Italië (art. 22, lid 1) |
+
 ### Japan
 
 Het verdrag met Japan kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 23) opgenomen.
@@ -363,6 +759,21 @@ Het verdrag met Japan kent geen sociaal zekerheidsartikel. Wel is in het verdrag
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Japan op grond van het restartikel belastbaar in Japan. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Japan zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Japan betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art.17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art.17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Japan (art. 23) |
+| AOW pensioenen: | belastbaar in Japan (art. 23) |
+| AWW pensioenen: | belastbaar in Japan (art. 23) |
+| Anw uitkeringen: | belastbaar in Japan (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Japan (art. 23) |
+| Oorlogspensioenen: | belastbaar in Japan (art. 23) |
+| Verzetspensioenen: | belastbaar in Japan (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Japan (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Japan (art. 23) |
+| AAW-uitkeringen: | belastbaar in Japan (art. 23) |
+| WAO-uitkeringen: | belastbaar in Japan (art. 23) |
 
 In het verdrag met Japan is een "remittance base" bepaling opgenomen (art. 6), doch die bepaling mist met betrekking tot de hiervoor genoemde pensioenen en uitkeringen genoten door inwoners van Japan toepassing in verband met het arrest van de Hoge Raad van 26 januari 1977, nr. 18 010 (BNB 1977/111).
 
@@ -376,6 +787,21 @@ AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspen
 
 Samengevat zijn aan inwoners van Joegoslavië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Joegoslavië (art. 21, lid 1) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| Bijstandsuitkeringen: | belastbaar in Joegoslavië (art. 21, lid 1) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Oorlogsuitkeringen: | belastbaar in Joegoslavië (art. 21, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Joegoslavië (art. 21, lid 1) |
+| AAW-uitkeringen: | belastbaar in Joegoslavië (art. 21, lid 1) |
+| WAO-uitkeringen: | belastbaar in Joegoslavië (art. 21, lid 1) |
+
 ### Kazachstan5)Verdrag is nog niet in werking getreden.
 
 Het verdrag met Kazachstan kent een restartikel (art. 21) alsmede een gecombineerd pensioen- , lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -383,6 +809,21 @@ Het verdrag met Kazachstan kent een restartikel (art. 21) alsmede een gecombinee
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Kazachstan onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Kazachstan betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Korea, zie Trb 1998, 272
 
@@ -394,6 +835,21 @@ AOW pensioenen, AWW pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspen
 
 Samengevat zijn aan inwoners van Korea betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (art. 19, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 19, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 19, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 19, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 19, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Letland
 
 Het verdrag met Letland kent een restartikel (art. 22) alsmede een gecombineerd pensioen-, lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -401,6 +857,21 @@ Het verdrag met Letland kent een restartikel (art. 22) alsmede een gecombineerd 
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Letland onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Letland betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Luxemburg
 
@@ -410,6 +881,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Luxemburg betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Luxemburg (art. 21) |
+| AOW pensioenen: | belastbaar in Luxemburg (art. 21) |
+| AWW pensioenen: | belastbaar in Luxemburg (art. 21) |
+| Anw uitkeringen: | belastbaar in Luxemburg (art. 21) |
+| Bijstandsuitkeringen: | belastbaar in Luxemburg (art. 21) |
+| Oorlogspensioenen: | belastbaar in Luxemburg (art. 21) |
+| Verzetspensioenen: | belastbaar in Luxemburg (art. 21) |
+| Oorlogsuitkeringen: | belastbaar in Luxemburg (art. 21) |
+| Vervolgingsuitkeringen: | belastbaar in Luxemburg (art. 21) |
+| AAW-uitkeringen: | belastbaar in Luxemburg (art. 21) |
+| WAO-uitkeringen: | belastbaar in Luxemburg (art. 21) |
+
 ### Maleisië, zie Trb 1997, 13
 
 Het verdrag met Maleisië kent geen sociaal zekerheidsartikel. Wel kent het verdrag een restartikel (art. 22) dat echter de inkomsten die niet afzonderlijk in het verdrag zijn geregeld ter belastingheffing laat aan de bronstaat indien die inkomsten daaruit afkomstig zijn.
@@ -418,6 +904,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Maleisië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of art. 22, lid 1) |
+| AOW pensioenen: | belastbaar in Nederland (art. 22, lid 1) |
+| AWW pensioenen: | belastbaar in Nederland (art. 22, lid 1) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 22, lid 1) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 22, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 22, lid 1) |
+
 ### Malta (zie Protocol, Trb 1995, 224)
 
 Het verdrag met Malta kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 23) opgenomen.
@@ -425,6 +926,21 @@ Het verdrag met Malta kent geen sociaal zekerheidsartikel. Wel is in het verdrag
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Malta op grond van het restartikel belastbaar in Malta. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Malta zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Malta betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Malta (art. 23, lid 1) |
+| AOW pensioenen: | belastbaar in Malta (art. 23, lid 1) |
+| AWW pensioenen: | belastbaar in Malta (art. 23, lid 1) |
+| Anw uitkeringen: | belastbaar in Malta (art. 23, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Malta (art. 23, lid 1) |
+| Oorlogspensioenen: | belastbaar in Malta (art. 23, lid 1) |
+| Verzetspensioenen: | belastbaar in Malta (art. 23, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Malta (art. 23, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Malta (art. 23, lid 1) |
+| AAW-uitkeringen: | belastbaar in Malta (art. 23, lid 1) |
+| WAO-uitkeringen: | belastbaar in Malta (art. 23, lid 1) |
 
 In het verdrag met Malta is een "remittance base" bepaling opgenomen (art. 2, lid 5). Die bepaling leidt ertoe, dat Nederland aan non domiciled residents in Malta slechts vrijstelling voor de hiervoor vermelde pensioenen en uitkeringen verleent voor zover die pensioenen en uitkeringen naar Malta zijn overgemaakt of aldaar zijn ontvangen.
 
@@ -438,6 +954,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Marokko betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Marokko (art. 22) |
+| AOW pensioenen: | belastbaar in Marokko (art. 22) |
+| AWW pensioenen: | belastbaar in Marokko (art. 22) |
+| Anw uitkeringen: | belastbaar in Marokko (art. 22) |
+| Bijstandsuitkeringen: | belastbaar in Marokko (art. 22) |
+| Oorlogspensioenen: | belastbaar in Marokko (art. 22) |
+| Verzetspensioenen: | belastbaar in Marokko (art. 22) |
+| Oorlogsuitkeringen: | belastbaar in Marokko (art. 22) |
+| Vervolgingsuitkeringen: | belastbaar in Marokko (art. 22) |
+| AAW-uitkeringen: | belastbaar in Marokko (art. 22) |
+| WAO-uitkeringen: | belastbaar in Marokko (art. 22) |
+
 ### Mexico
 
 Het verdrag met Mexico kent een gecombineerd pensioen- en sociaal zekerheidsartikel (art. 18), waarin voor de bronstaat het heffingsrecht met betrekking tot pensioenen en andere betalingen gedaan krachtens zijn sociale zekerheidsstelsel wordt ingeperkt tot maximaal 17,5% van het brutobedrag van die pensioenen en betalingen. Ook kent het verdrag een restartikel (art. 21) dat echter de inkomsten die niet afzonderlijk in het verdrag zijn geregeld ter belastingheffing laat aan de bronstaat tot maximaal 17,5% van het brutobedrag van die inkomsten indien die inkomsten daaruit afkomstig zijn.
@@ -445,6 +976,21 @@ Het verdrag met Mexico kent een gecombineerd pensioen- en sociaal zekerheidsarti
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen betaald aan inwoners van Mexico in Nederland belastbaar zijn tot maximaal 17,5% van het bruto-bedrag van die pensioenen en uitkeringen. Daarentegen zijn loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) volledig in Nederland belastbaar. Voor die betalingen geldt derhalve geen inperking van het heffingsrecht tot 17,5%.
 
 Samengevat zijn aan inwoners van Mexico betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die pensioenen (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die pensioenen (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland tot maximaal 17,5% van het brutobedrag van die uitkeringen (art. 18, lid 3) |
 
 ### Nieuw-Zeeland
 
@@ -458,6 +1004,17 @@ In het verleden is door mij met betrekking tot vervolgingsuitkeringen en oorlogs
 
 Samengevat zijn aan inwoners van Nieuw-Zeeland betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen, AWW pensioenen en Anw uitkeringen: | belastbaar in Nederland (art. 19, lid 2, onderdeel a), tenzij genieter onderdaan van Nieuw-Zeeland is. In dat geval zijn de AOWpensioenen, AWW pensioenen en Anw-uitkeringen belastbaar in Nieuw-Zeeland (art. 19, tweede lid, onderdeel b) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen en Verzetspensioenen: | belastbaar in Nederland (art. 19, lid 2, onderdeel a), tenzij de genieter onderdaan van Nieuw-Zeeland is. In dat geval zijn de oorlogspensioenen en verzetspensioenen belastbaar in Nieuw-Zeeland (art. 19, lid 2, onderdeel b) |
+| Vervolgingsuitkeringen: en Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.), tenzij de genieter onderdaan van Nieuw-Zeeland is.In dat geval zijn de uitkeringen belastbaar in Nieuw-Zeeland op grond van artikel 19, tweede lid, onderdeel b |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Nieuw Zeeland na inwerkingtreding 2e Protocol, zie Trb 2002, 46)
 
 Artikel 21 A wordt het restartikel.
@@ -470,6 +1027,21 @@ Gelet op de formulering van artikel 19, tweede lid, van het verdrag vallen ziekt
 
 Samengevat zijn aan inwoners van Nigeria betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| AOW pensioenen: | belastbaar in Nederland (art. 19, lid 2) |
+| AWW pensioenen: | belastbaar in Nederland (art. 19, lid 2) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 19, lid 2) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 19, lid 2) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 19, lid 2) |
+
 ### Noorwegen
 
 Het verdrag met Noorwegen kent een restartikel (art. 21) en een gecombineerd pensioen , lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -480,6 +1052,21 @@ AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspen
 
 Samengevat zijn aan inwoners van Noorwegen betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Noorwegen (art. 21, lid 1) |
+| AOW pensioenen: | belastbaar in Noorwegen (art. 18, lid 4) |
+| AWW pensioenen: | belastbaar in Noorwegen (art. 18, lid 4) |
+| Anw uitkeringen: | belastbaar in Noorwegen (art. 18, lid 4) |
+| Bijstandsuitkeringen: | belastbaar in Noorwegen (art. 21, lid 1) |
+| Oorlogspensioenen: | belastbaar in Noorwegen (art. 18, lid 4) |
+| Verzetspensioenen: | belastbaar in Noorwegen (art. 18, lid 4) |
+| Oorlogsuitkeringen: | belastbaar in Noorwegen (art. 21, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Noorwegen (art. 21, lid 1) |
+| AAW-uitkeringen: | belastbaar in Noorwegen (art. 21, lid 1) |
+| WAO-uitkeringen: | belastbaar in Noorwegen (art. 21, lid 1) |
+
 ### Oekraïne 6)Verdrag is nog niet in werking getreden.
 
 Het verdrag met Oekraïne kent een restartikel (art. 22) alsmede een gecombineerd pensioen-, lijfrente- en sociaal zekerheidsartikel (art. 18).
@@ -487,6 +1074,21 @@ Het verdrag met Oekraïne kent een restartikel (art. 22) alsmede een gecombineer
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van de Oekraïne onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van de Oekraïne betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Oostenrijk
 
@@ -500,6 +1102,21 @@ Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetu
 
 Samengevat zijn aan inwoners van Oostenrijk betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex: art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Oostenrijk (art. 22) |
+| AOW pensioenen: | belastbaar in Nederland (art. 20, lid 2) |
+| AWW pensioenen: | belastbaar in Nederland (art. 20, lid 2) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 20, lid 2) |
+| Bijstandsuitkeringen: | belastbaar in Oostenrijk (art. 22) |
+| Oorlogspensioenen: | belastbaar in Oostenrijk (art. 22) |
+| Verzetspensioenen: | belastbaar in Oostenrijk (art. 22) |
+| Oorlogsuitkeringen: | belastbaar in Oostenrijk (art. 22) |
+| Vervolgingsuitkeringen: | belastbaar in Oostenrijk (art. 22) |
+| AAW-uitkeringen: | belastbaar in Oostenrijk (art. 22) |
+| WAO-uitkeringen: | belastbaar in Oostenrijk (art. 22) |
+
 ### Pakistan
 
 Het verdrag met Pakistan kent geen restartikel en evenmin een sociaal zekerheidsartikel.
@@ -508,6 +1125,21 @@ Door het ontbreken van een restartikel en een sociaal zekerheidsartikel blijft o
 
 Samengevat zijn aan inwoners van Pakistan betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AWW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Anw uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Verzetspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Polen
 
 Het verdrag met Polen kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 22) opgenomen.
@@ -515,6 +1147,21 @@ Het verdrag met Polen kent geen sociaal zekerheidsartikel. Wel is in het verdrag
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Polen op grond van het restartikel belastbaar in Polen. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan zijn aan inwoners van Polen zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16).
 
 Samengevat zijn aan inwoners van Polen betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Polen (art. 22, lid 1) |
+| AOW pensioenen: | belastbaar in Polen (art. 22, lid 1) |
+| AWW pensioenen: | belastbaar in Polen (art. 22, lid 1) |
+| Anw uitkeringen: | belastbaar in Polen (art. 22, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Polen (art. 22, lid 1) |
+| Oorlogspensioenen: | belastbaar in Polen (art. 22, lid 1) |
+| Verzetspensioenen: | belastbaar in Polen (art. 22, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Polen (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Polen (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Polen (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Polen (art. 22, lid 1) |
 
 ### Roemenië
 
@@ -528,6 +1175,21 @@ Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetu
 
 Samengevat zijn aan inwoners van Roemenië betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Roemenië (art. 23) |
+| AOW pensioenen: | belastbaar in Roemenië (art. 19) |
+| AWW pensioenen: | belastbaar in Roemenië (art. 19) |
+| Anw uitkeringen: | belastbaar in Roemenië (art. 19) |
+| Bijstandsuitkeringen: | belastbaar in Roemenië (art. 23) |
+| Oorlogspensioenen: | belastbaar in Roemenië (art. 19) |
+| Verzetspensioenen: | belastbaar in Roemenië (art. 19) |
+| Oorlogsuitkeringen: | belastbaar in Roemenië (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Roemenië (art. 23) |
+| AAW-uitkeringen: | belastbaar in Roemenië (art. 23) |
+| WAO-uitkeringen: | belastbaar in Roemenië (art. 23) |
+
 ### Singapore
 
 Het verdrag met Singapore kent geen sociaal zekerheidsartikel. Wel zijn in het verdrag een restartikel (art. 21) en een pensioenartikel (art. 18) opgenomen.
@@ -535,6 +1197,21 @@ Het verdrag met Singapore kent geen sociaal zekerheidsartikel. Wel zijn in het v
 De uitdrukking "pensioen" in artikel 18, eerste lid, van het verdrag omvat blijkens het bepaalde in het derde lid van dat artikel periodieke betalingen gedaan ter zake van bewezen diensten of als vergoeding voor bekomen letsel. Dit betekent, dat WAO-uitkeringen betaald aan inwoners van Singapore onder de werking van artikel 18, eerste lid, vallen en derhalve belastbaar zijn in Singapore. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Singapore zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16). Daarentegen zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, oorlogsuitkeringen en AAW-uitkeringen betaald aan inwoners van Singapore op grond van het restartikel belastbaar in Singapore.
 
 Samengevat zijn aan inwoners van Singapore betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Singapore (art. 21) |
+| AOW pensioenen: | belastbaar in Singapore (art. 21) |
+| AWW pensioenen: | belastbaar in Singapore (art. 21) |
+| Anw uitkeringen: | belastbaar in Singapore (art. 21) |
+| Bijstandsuitkeringen: | belastbaar in Singapore (art. 21) |
+| Oorlogspensioenen: | belastbaar in Singapore (art. 21) |
+| Verzetspensioenen: | belastbaar in Singapore (art. 21) |
+| Oorlogsuitkeringen: | belastbaar in Singapore (art. 21) |
+| Vervolgingsuitkeringen: | belastbaar in Singapore (art. 21) |
+| AAW-uitkeringen: | belastbaar in Singapore (art. 21) |
+| WAO-uitkeringen: | belastbaar in Singapore (art. 18, leden 1 en 3) |
 
 In het verdrag met Singapore is een "remittance base" bepaling opgenomen (art. 4), doch die bepaling mist met betrekking tot de hiervoor genoemde pensioenen en uitkeringen genoten door inwoners van Singapore toepassing in verband met het arrest van de Hoge Raad van 26 januari 1977, nr. 18 010 (BNB 1977/111). (zie Protocol Trb 1996, 90)
 
@@ -546,6 +1223,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van de Sovjet-Unie betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 12, lid 1 of art. 12, lid 5) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 12, lid 1 of art. 12, lid 5) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 12, lid 1 of art. 12 lid 5)), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in de Sovjet-Unie (art. 16) |
+| AOW pensioenen: | belastbaar in de Sovjet-Unie (art. 16) |
+| AWW pensioenen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Anw uitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Bijstandsuitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Oorlogspensioenen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Verzetspensioenen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Oorlogsuitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+| Vervolgingsuitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+| AAW-uitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+| WAO-uitkeringen: | belastbaar in de Sovjet-Unie (art. 16) |
+
 ### Spanje
 
 Het verdrag met Spanje kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 23) opgenomen.
@@ -553,6 +1245,21 @@ Het verdrag met Spanje kent geen sociaal zekerheidsartikel. Wel is in het verdra
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Spanje op grond van het restartikel belastbaar in Spanje. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Spanje zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Spanje betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Spanje (art. 23) |
+| AOW pensioenen: | belastbaar in Spanje (art. 23) |
+| AWW pensioenen: | belastbaar in Spanje (art. 23) |
+| Anw uitkeringen: | belastbaar in Spanje (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Spanje (art. 23) |
+| Oorlogspensioenen: | belastbaar in Spanje (art. 23) |
+| Verzetspensioenen: | belastbaar in Spanje (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Spanje (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Spanje (art. 23) |
+| AAW-uitkeringen: | belastbaar in Spanje (art. 23) |
+| WAO-uitkeringen: | belastbaar in Spanje (art. 23) |
 
 ### Sri Lanka
 
@@ -564,6 +1271,21 @@ Loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overhei
 
 Samengevat zijn aan inwoners van Sri Lanka betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AWW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Anw uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Verzetspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 ### Suriname
 
 Het verdrag met Suriname kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 22) opgenomen.
@@ -571,6 +1293,21 @@ Het verdrag met Suriname kent geen sociaal zekerheidsartikel. Wel is in het verd
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Suriname op grond van het restartikel belastbaar in Suriname. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Suriname zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Suriname betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Suriname (art. 22) |
+| AOW pensioenen: | belastbaar in Suriname (art. 22) |
+| AWW pensioenen: | belastbaar in Suriname (art. 22) |
+| Anw uitkeringen: | belastbaar in Suriname (art. 22) |
+| Bijstandsuitkeringen: | belastbaar in Suriname (art. 22) |
+| Oorlogspensioenen: | belastbaar in Suriname (art. 22) |
+| Verzetspensioenen: | belastbaar in Suriname (art. 22) |
+| Oorlogsuitkeringen: | belastbaar in Suriname (art. 22) |
+| Vervolgingsuitkeringen: | belastbaar in Suriname (art. 22) |
+| AAW-uitkeringen: | belastbaar in Suriname (art. 22) |
+| WAO-uitkeringen: | belastbaar in Suriname (art. 22) |
 
 ### Thailand
 
@@ -582,6 +1319,21 @@ Loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overhei
 
 Samengevat zijn aan inwoners van Thailand betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16 of Nederl. nat. wetg.) |
+| AOW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AWW pensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Anw uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Verzetspensioenen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| AAW-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+| WAO-uitkeringen: | belastbaar in Nederland (Nederl. nat. wetg.) |
+
 (zie Protocol Trb 1996, 209)
 
 ### Tsjechoslowakije8)Verdrag is van toepassing op Tsjechië en Slowakije.
@@ -592,6 +1344,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Tsjechoslowakije betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Tsjechoslowakije (art. 23) |
+| AOW pensioenen: | belastbaar in Tsjechoslowakije (art. 23) |
+| AWW pensioenen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Anw uitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Oorlogspensioenen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Verzetspensioenen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+| AAW-uitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+| WAO-uitkeringen: | belastbaar in Tsjechoslowakije (art. 23) |
+
 ### Tunesië
 
 Het verdrag met Tunesië kent een restartikel (art. 21) alsmede een gecombineerd pensioen- en sociaal zekerheidsartikel (art. 18).
@@ -599,6 +1366,21 @@ Het verdrag met Tunesië kent een restartikel (art. 21) alsmede een gecombineerd
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Tunesië onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Tunesië betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Turkije
 
@@ -612,13 +1394,40 @@ Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetu
 
 Samengevat zijn aan inwoners van Turkije betaalde
 
-### Venezuela 9)Verdrag is nog niet in werking getreden.(zie Protocol Trb 1995, 252)
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16)), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Turkije (art. 22, lid 1) |
+| AOW pensioenen, AWW pensioenen en Anw uitkeringen: | belastbaar in Nederland (art. 18, derde lid, eerste volzin), tenzij de genieter onderdaan van Turkije is. In dat geval zijn de AOW pensioenen, AWW pensioenen en Anw-uitkeringen belastbaar in Turkije (art. 18, derde lid, laatste volzin) |
+| Bijstandsuitkeringen: | belastbaar in Turkije (art. 22, lid 1) |
+| Oorlogspensioenen en Verzetspensioenen: | belastbaar in Nederland (art. 18, derde lid, eerste volzin), tenzij de genieter onderdaan van Turkije is. In dat geval zijn de oorlogspensioenen en verzetspensioenen belastbaar in Turkije (art. 18, derde lid, laatste volzin) |
+| Oorlogsuitkeringen: | belastbaar in Turkije (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Turkije (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Turkije (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Turkije (art. 22, lid 1) |
+
+### Venezuela 9) Verdrag is nog niet in werking getreden.(zie Protocol Trb 1995, 252)
 
 Het verdrag met Venezuela kent een restartikel (art. 22) alsmede een gecombineerd pensioen-, lijfrente- en sociaal zekerheidsartikel (art. 18).
 
 Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziektewetuitkeringen, werkloosheidsuitkeringen, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen onder de werking van deze bepaling, waardoor deze pensioenen en uitkeringen betaald aan inwoners van Venezuela in Nederland belastbaar zijn. Dit is ook het geval met de loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)), omdat voor die betalingen op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16) het heffingsrecht aan Nederland toekomt.
 
 Samengevat zijn aan inwoners van Venezuela betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
 
 ### Verenigde Staten van Amerika
 
@@ -628,6 +1437,21 @@ Gelet op de formulering van artikel 19, vierde lid, van het verdrag vallen ziekt
 
 Samengevat zijn aan inwoners van de Verenigde Staten van Amerika betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| AOW pensioenen: | belastbaar in Nederland (art. 19, lid 4) |
+| AWW pensioenen: | belastbaar in Nederland (art. 19, lid 4) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 19, lid 4) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 19, lid 4) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 19, lid 4) |
+
 ### Vietnam
 
 Het verdrag met Vietnam kent een restartikel (art. 22) alsmede een artikel inzake overheidsfuncties en betalingen in het kader van sociale zekerheid (art. 18).
@@ -636,6 +1460,21 @@ Gelet op de formulering van artikel 18, vierde lid, van het verdrag vallen ziekt
 
 Samengevat zijn aan inwoners van Vietnam betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 4) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 4) |
+
 ### Zambia
 
 Het verdrag met Zambia kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 21) opgenomen.
@@ -643,6 +1482,21 @@ Het verdrag met Zambia kent geen sociaal zekerheidsartikel. Wel is in het verdra
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Zambia op grond van het restartikel belastbaar in Zambia. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Zambia zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 15) of het directeurenartikel (art. 16).
 
 Samengevat zijn aan inwoners van Zambia betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Zambia (art. 23) |
+| AOW pensioenen: | belastbaar in Zambia (art. 23) |
+| AWW pensioenen: | belastbaar in Zambia (art. 23) |
+| Anw uitkeringen: | belastbaar in Zambia (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Zambia (art. 23) |
+| Oorlogspensioenen: | belastbaar in Zambia (art. 23) |
+| Verzetspensioenen: | belastbaar in Zambia (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Zambia (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Zambia (art. 23) |
+| AAW-uitkeringen: | belastbaar in Zambia (art. 23) |
+| WAO-uitkeringen: | belastbaar in Zambia (art. 23) |
 
 ### Zimbabwe
 
@@ -654,6 +1508,21 @@ AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, oorlogspensioenen en verzetspen
 
 Samengevat zijn aan inwoners van Zimbabwe betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15 of art. 16), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Zimbabwe (art. 22, lid 1) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 2) |
+| Bijstandsuitkeringen: | belastbaar in Zimbabwe (art. 22, lid 1) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 2) |
+| Oorlogsuitkeringen: | belastbaar in Zimbabwe (art. 22, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Zimbabwe (art. 22, lid 1) |
+| AAW-uitkeringen: | belastbaar in Zimbabwe (art. 22, lid 1) |
+| WAO-uitkeringen: | belastbaar in Zimbabwe (art. 22, lid 1) |
+
 ### Zuid-Afrika (Protocol Trb 1999, 27 heeft geen gevolgen)
 
 Het verdrag met Zuid Afrika kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 23) opgenomen.
@@ -661,6 +1530,21 @@ Het verdrag met Zuid Afrika kent geen sociaal zekerheidsartikel. Wel is in het v
 Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkeringen, indien het dienstverband is verbroken, AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, vervolgingsuitkeringen, AAW-uitkeringen en WAO-uitkeringen betaald aan inwoners van Zuid-Afrika op grond van het restartikel belastbaar in Zuid-Afrika. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van Zuid-Afrika zijn in Nederland belastbaar op grond van het dienstbetrekkingartikel (art. 16) of het directeurenartikel (art. 17).
 
 Samengevat zijn aan inwoners van Zuid-Afrika betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 16 of art. 17) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 16 of art. 17), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Zuid-Afrika (art. 23) |
+| AOW pensioenen: | belastbaar in Zuid-Afrika (art. 23) |
+| AWW pensioenen: | belastbaar in Zuid-Afrika (art. 23) |
+| Anw uitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
+| Bijstandsuitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
+| Oorlogspensioenen: | belastbaar in Zuid-Afrika (art. 23) |
+| Verzetspensioenen: | belastbaar in Zuid-Afrika (art. 23) |
+| Oorlogsuitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
+| Vervolgingsuitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
+| AAW-uitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
+| WAO-uitkeringen: | belastbaar in Zuid-Afrika (art. 23) |
 
 ### Zweden
 
@@ -670,6 +1554,21 @@ Gelet op de formulering van artikel 18, derde lid, van het verdrag vallen ziekte
 
 Samengevat zijn aan inwoners van Zweden betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15 of art. 16) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AOW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| AWW pensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Anw uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Bijstandsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Verzetspensioenen: | belastbaar in Nederland (art. 18, lid 3) |
+| Oorlogsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| Vervolgingsuitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| AAW-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 18, lid 3) |
+
 ### Zwitserland
 
 Het verdrag met Zwitserland kent geen sociaal zekerheidsartikel. Wel is in het verdrag een restartikel (art. 2) opgenomen.
@@ -678,6 +1577,21 @@ Door het ontbreken van een sociaal zekerheidsartikel zijn werkloosheidsuitkering
 
 Samengevat zijn aan inwoners van Zwitserland betaalde
 
+| ZW-uitkeringen: | belastbaar in Nederland (art. 6, lid 1, of art. 7, lid 2) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 6, lid 1, of art. 7, lid 2) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 6, lid 1, of art. 7, lid 2), indien het dienstverband niet is verbroken. Is dat wel het geval, dan belastbaar in Zwitserland (art. 2, lid 1) |
+| AOW pensioenen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| AWW pensioenen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Anw uitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Bijstandsuitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Oorlogspensioenen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Verzetspensioenen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Oorlogsuitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| Vervolgingsuitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| AAW-uitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+| WAO-uitkeringen: | belastbaar in Zwitserland (art. 2, lid 1) |
+
 ### Belastingregeling voor het Koninkrijk
 
 In de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) (BRK) is geen sociaal zekerheidsartikel opgenomen. Wel is in de BRK een restartikel ([art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=20)) opgenomen.
@@ -685,6 +1599,21 @@ In de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:
 Gelet op de formulering van [artikel 17, leden 1, 2 en 4 van de BRK](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=17) vallen werkloosheidsuitkeringen, indien het dienstverband is verbroken, en WAO-uitkeringen onder de werking van het eerste lid van dat artikel, waardoor deze uitkeringen betaald aan inwoners van de Nederlandse Antillen of Aruba belastbaar zijn in Nederland. Werkloosheidsuitkeringen, indien het dienstverband niet is verbroken, ziektewetuitkeringen en loondoorbetalingen wegens ziekte (loon ex [art. 1638c BW](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1638c)) die betaald/gedaan worden aan inwoners van de Nederlandse Antillen of Aruba zijn op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=15), of [artikel 15, derde lid, van de BRK](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=15) ook in Nederland belastbaar. Daarentegen zijn AOW-pensioenen, AWW-pensioenen, Anw-uitkeringen, bijstandsuitkeringen, oorlogspensioenen, verzetspensioenen, oorlogsuitkeringen, verzetsuitkeringen en AAW-uitkeringen betaald aan inwoners van de Nederlandse Antillen of Aruba op grond van het restartikel belastbaar in de Nederlandse Antillen onderscheidenlijk Aruba.
 
 Samengevat zijn aan inwoners van de Nederlandse Antillen en Aruba betaalde
+
+| ZW-uitkeringen: | belastbaar in Nederland (art. 15, lid 1 of art. 15, lid 3) |
+| --- | --- |
+| Loondoorbetalingen ex:art. 1638c BW | belastbaar in Nederland (art. 15, lid 1 of art. 15, lid 3) |
+| WW-uitkeringen: | belastbaar in Nederland (art. 15, lid 1 of art. 15, lid 3 of art. 17, leden 1, 2 en 4): |
+| AOW pensioenen: | belastbaar in N.A. of Aruba (art. 20) |
+| AWW pensioenen: | belastbaar in N.A. of Aruba (art. 20) |
+| Anw uitkeringen: | belastbaar in N.A. of Aruba (art. 20) |
+| Bijstandsuitkeringen: | belastbaar in N.A. of Aruba (art. 20) |
+| Oorlogspensioenen: | belastbaar in N.A. of Aruba (art. 20) |
+| Verzetspensioenen: | belastbaar in N.A. of Aruba (art. 20) |
+| Oorlogsuitkeringen: | belastbaar in N.A. of Aruba (art. 20) |
+| Vervolgingsuitkeringen: | belastbaar in N.A. of Aruba (art. 20) |
+| AAW-uitkeringen: | belastbaar in N.A. of Aruba (art. 20) |
+| WAO-uitkeringen: | belastbaar in Nederland (art. 17, leden 1, 2 en 4) |
 
 ### Vervallen aanschrijving
 

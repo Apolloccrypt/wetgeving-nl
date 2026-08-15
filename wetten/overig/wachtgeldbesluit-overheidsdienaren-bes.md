@@ -1,38 +1,16 @@
 ---
 title: "Wachtgeldbesluit overheidsdienaren BES"
 identifier: "BWBR0028541"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2018-12-25"
-last_updated: "2018-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028541"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10842033"
-version_id: "17822572"
-internal_id: "C24785451"
-label_id: "10817144"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028541/2018-12-25/0"
-intitule_bron: "Stb.2010-410"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-410"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-410"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028541&z=2018-12-25&g=2018-12-25"
-jci_1_0: "1.0:c:BWBR0028541&g=2018-12-25"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-12-25
+status: geldig
+toestand: 2018-12-25
+bron: "https://wetten.overheid.nl/BWBR0028541"
+opgehaald: 2026-08-15
 ---
+
 # Wachtgeldbesluit overheidsdienaren BES
 
 #### § 1. Definities
@@ -45,47 +23,47 @@ De in deze paragraaf vastgestelde begripsbepalingen zijn mede van toepassing op 
 
 In dit besluit wordt verstaan onder:
 
-- **bevoegd gezag:**
+- *bevoegd gezag:*
 
-- a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien de overheidsdienaar, belanghebbende of wachtgelder in dienst van deze rechtspersoon aangesteld is of is geweest;
+   - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, indien de overheidsdienaar, belanghebbende of wachtgelder in dienst van deze rechtspersoon aangesteld is of is geweest;
 
-- b. het bestuurscollege, indien de overheidsdienaar, belanghebbende of wachtgelder in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba is of is geweest,.
+   - b. het bestuurscollege, indien de overheidsdienaar, belanghebbende of wachtgelder in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba is of is geweest,.
 
-- **overheidsdienaren:**
+- *overheidsdienaren:*
 
-- a. ambtenaren in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215), die in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam zijn geweest. Voor de berekening van de in de vorige volzin bedoelde termijn van vijf jaren wordt de tijd vóór de inwerkingtreding van dit besluit, waarin de ambtenaar in dienst was van de Nederlandse Antillen of van het eilandgebied Bonaire, Sint Eustatius of Saba, meegeteld.
+   - a. ambtenaren in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215), die in vaste dienst of gedurende ten minste vijf jaren onafgebroken in tijdelijke dienst werkzaam zijn geweest. Voor de berekening van de in de vorige volzin bedoelde termijn van vijf jaren wordt de tijd vóór de inwerkingtreding van dit besluit, waarin de ambtenaar in dienst was van de Nederlandse Antillen of van het eilandgebied Bonaire, Sint Eustatius of Saba, meegeteld.
 
-- b. werknemers met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten om in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba werkzaam te zijn, indien deze overeenkomst is aangegaan voor onbepaalde tijd.
+   - b. werknemers met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten om in dienst van het openbaar lichaam Bonaire, Sint Eustatius of Saba werkzaam te zijn, indien deze overeenkomst is aangegaan voor onbepaalde tijd.
 
-- **belanghebbende:** de overheidsdienaar, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&paragraaf=2&artikel=4&z=2018-12-25&g=2018-12-25).
+- *belanghebbende:* de overheidsdienaar, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&paragraaf=2&artikel=4&z=2018-12-25&g=2018-12-25).
 
-- **wachtgelder:** de belanghebbende die in het genot is gesteld van een wachtgeld.
+- *wachtgelder:* de belanghebbende die in het genot is gesteld van een wachtgeld.
 
 ##### Artikel 3
 
 In dit besluit wordt voorts verstaan onder:
 
-- **Diensttijd:** De tijd, door een overheidsdienaar doorgebracht in dienst van de staat of van het openbaar lichaam Bonaire, Sint Eustatius of Saba, alsmede de tijd waarin de overheidsdienaar vóór de inwerkingtreding van dit besluit in dienst was van de Nederlandse Antillen, het eilandgebied Bonaire, Sint Eustatius of Saba of bij enig ander binnen de Nederlandse Antillen gevestigd openbaar lichaam, daarbij inbegrepen de tijd gedurende welke hij als werknemer bij een door een openbaar lichaam in het leven geroepen en op grond van zijn doelstelling en in financieel opzicht tot zulk een lichaam in een bijzondere verhouding staande rechtspersoon in dienst geweest is; zulks met dien verstaande dat:
+- *Diensttijd:* De tijd, door een overheidsdienaar doorgebracht in dienst van de staat of van het openbaar lichaam Bonaire, Sint Eustatius of Saba, alsmede de tijd waarin de overheidsdienaar vóór de inwerkingtreding van dit besluit in dienst was van de Nederlandse Antillen, het eilandgebied Bonaire, Sint Eustatius of Saba of bij enig ander binnen de Nederlandse Antillen gevestigd openbaar lichaam, daarbij inbegrepen de tijd gedurende welke hij als werknemer bij een door een openbaar lichaam in het leven geroepen en op grond van zijn doelstelling en in financieel opzicht tot zulk een lichaam in een bijzondere verhouding staande rechtspersoon in dienst geweest is; zulks met dien verstaande dat:
 
-- a. indien aan de belanghebbende reeds eerder een wachtgeld is toegekend, de diensttijd welke voor de berekening van dat eerdere wachtgeld in aanmerking genomen is, opnieuw wordt medegeteld;
+   - a. indien aan de belanghebbende reeds eerder een wachtgeld is toegekend, de diensttijd welke voor de berekening van dat eerdere wachtgeld in aanmerking genomen is, opnieuw wordt medegeteld;
 
-- b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhouding van inkomen geschorst is of anders dan ter vervulling van een openbare functie of wegens een studieopdracht op non-activiteit is gesteld, voor berekening van de diensttijd niet in aanmerking wordt genomen.
+   - b. de tijd, gedurende welke de belanghebbende met gehele of gedeeltelijke inhouding van inkomen geschorst is of anders dan ter vervulling van een openbare functie of wegens een studieopdracht op non-activiteit is gesteld, voor berekening van de diensttijd niet in aanmerking wordt genomen.
 
-- **Inkomen:** De bezoldiging of het loon van de overheidsdienaar, verhoogd met de hem toekomende persoonlijke toelage, kostwinnerstoelage, toelage op grond van [artikel 23 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=23), de voor het onderwijzend personeel geldende, wettelijk vastgestelde vaste toelagen, en de compensatietoeslag krachtens de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) en de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387); in bijzondere gevallen, ter beoordeling van het bevoegd gezag, wordt een standplaatstoelage voor berekening van het inkomen mede in aanmerking genomen.
+- *Inkomen:* De bezoldiging of het loon van de overheidsdienaar, verhoogd met de hem toekomende persoonlijke toelage, kostwinnerstoelage, toelage op grond van [artikel 23 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=23), de voor het onderwijzend personeel geldende, wettelijk vastgestelde vaste toelagen, en de compensatietoeslag krachtens de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) en de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387); in bijzondere gevallen, ter beoordeling van het bevoegd gezag, wordt een standplaatstoelage voor berekening van het inkomen mede in aanmerking genomen.
 
-- **Laatstelijk genoten inkomen:** Het inkomen vermeerderd met de vakantie-uitkering, waarop de overheidsdienaar ingevolge de voor hem toepasselijke wettelijke bepalingen gedurende de periode van een jaar onmiddellijk voorafgaande aan de dag waarop het hem verleende ontslag ingaat aanspraak heeft gehad, gedeeld door twaalf; indien de overheidsdienaar gedurende de bedoelde periode gehele of gedeeltelijke inhouding van bezoldiging of loon wegens schorsing of een vermindering daarvan in verband met vrijstelling van dienst wegens ziekte heeft ondergaan, wordt het inkomen in aanmerking genomen dat hij zou hebben genoten, indien de inhouding of vermindering niet was geschied.
+- *Laatstelijk genoten inkomen:* Het inkomen vermeerderd met de vakantie-uitkering, waarop de overheidsdienaar ingevolge de voor hem toepasselijke wettelijke bepalingen gedurende de periode van een jaar onmiddellijk voorafgaande aan de dag waarop het hem verleende ontslag ingaat aanspraak heeft gehad, gedeeld door twaalf; indien de overheidsdienaar gedurende de bedoelde periode gehele of gedeeltelijke inhouding van bezoldiging of loon wegens schorsing of een vermindering daarvan in verband met vrijstelling van dienst wegens ziekte heeft ondergaan, wordt het inkomen in aanmerking genomen dat hij zou hebben genoten, indien de inhouding of vermindering niet was geschied.
 
-- **Pensioen:**
+- *Pensioen:*
 
-- 1°. het pensioen in de zin van de [Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712);
+   - 1°. het pensioen in de zin van de [Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712);
 
-- 2°. vervallen;
+   - 2°. *vervallen;*
 
-- 3°. elke ander vorm van pensioen, bedoeld voor de voorziening in de oude dag en de verzorging van weduwen, weduwnaars en wezen van overheidsdienaren en ten laste komend van de geldmiddelen van de Staat, gevestigd openbaar lichaam of van van enig door de overheid ingesteld fonds, met uitzondering van de fondsen, bedoeld in de Landsverordening Sociale Verzekeringsbank (P.B. 1960, 154); In alle gevallen met inbegrip van de daarop bij enige wettelijke bepaling verleende ander toeslagen en bijslagen.
+   - 3°. elke ander vorm van pensioen, bedoeld voor de voorziening in de oude dag en de verzorging van weduwen, weduwnaars en wezen van overheidsdienaren en ten laste komend van de geldmiddelen van de Staat, gevestigd openbaar lichaam of van van enig door de overheid ingesteld fonds, met uitzondering van de fondsen, bedoeld in de Landsverordening Sociale Verzekeringsbank (P.B. 1960, 154); In alle gevallen met inbegrip van de daarop bij enige wettelijke bepaling verleende ander toeslagen en bijslagen.
 
-- 4°. voor zover een uitkering bij wijze van pensioen, dan wel in overeenstemming met de bestaande praktijk een onderstand bij wijze van pensioen blijft of wordt toegekend, deze uitkering, onderscheidenlijk onderstand;
+   - 4°. voor zover een uitkering bij wijze van pensioen, dan wel in overeenstemming met de bestaande praktijk een onderstand bij wijze van pensioen blijft of wordt toegekend, deze uitkering, onderscheidenlijk onderstand;
 
-- 5°. voor zover ingevolge een wettelijke regeling aan een pensioen of een uitkering of onderstand bij wijze van pensioen een duurtetoeslag is verbonden, het betreffende pensioen, onderscheidenlijk de betreffende uitkering of onderstand tezamen met de eraan verbonden duurtetoeslag als één geheel beschouwd.
+   - 5°. voor zover ingevolge een wettelijke regeling aan een pensioen of een uitkering of onderstand bij wijze van pensioen een duurtetoeslag is verbonden, het betreffende pensioen, onderscheidenlijk de betreffende uitkering of onderstand tezamen met de eraan verbonden duurtetoeslag als één geheel beschouwd.
 
 #### § 2. Het wachtgeld
 
@@ -93,9 +71,9 @@ In dit besluit wordt voorts verstaan onder:
 
 Aan de overheidsdienaar wordt met ingang van de dag waarop het hem verleende ontslag ingaat op zijn daartoe strekkend verzoek door het bevoegd gezag een wachtgeld toegekend, indien het ontslag hem eervol, doch niet op eigen verzoek is verleend met toepassing van het bepaalde bij:
 
-- –. hetzij [artikel 91 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=91)
+- – hetzij [artikel 91 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=91)
 
-- –. hetzij [artikel 92, aanhef en onderdeel f, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=92) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 91, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=91) zoals gewijzigd genoemde redenen van ontslag overeenkomt.
+- – hetzij [artikel 92, aanhef en onderdeel f, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=92) met betrekking tot het ontslag op grond van ongeschiktheid voor het ambt, anders dan op grond van ziels- of lichaamsgebreken, indien het de secretaris van het openbaar lichaam Bonaire, Sint Eustatius of Saba betreft; dan wel, voor zover geen van de bovengenoemde bepalingen op hem van toepassing is, indien zulk ontslag hem verleend is om een reden welke met een van de in [artikel 91, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=91) zoals gewijzigd genoemde redenen van ontslag overeenkomt.
 
 ##### Artikel 5
 
@@ -298,7 +276,7 @@ De aanspraak op wachtgeld vervalt, wanneer niet binnen twee jaren na de dag waar
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 

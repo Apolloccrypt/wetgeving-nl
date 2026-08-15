@@ -1,41 +1,19 @@
 ---
 title: "Lumpsumbesluit ambtenaren BES"
 identifier: "BWBR0028476"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028476"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10801253"
-version_id: "17779902"
-internal_id: "C24808761"
-label_id: "10776444"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028476/2011-10-09/0"
-intitule_bron: "Stb.2010-411"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-411"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-411"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028476&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028476&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028476"
+opgehaald: 2026-08-15
 ---
+
 # Lumpsumbesluit ambtenaren BES
 
-## 1. Definities
+### 1. Definities
 
 ##### Artikel 1
 
@@ -57,11 +35,11 @@ In dit besluit worden onder «overheidsdienaren» dezelfden verstaan als in het 
 
 In dit besluit wordt verstaan onder:
 
-- **lumpsum:** de geldsom, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=4&artikel=20&z=2011-10-09&g=2011-10-09) van dit besluit;
+- *lumpsum:* de geldsom, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=4&artikel=20&z=2011-10-09&g=2011-10-09) van dit besluit;
 
-- **reorganisatie:** iedere wijziging of opheffing van een dienst, bedrijf of instelling, welke kan leiden tot ontslag als bedoeld in [artikel 4 van de Wachtgeldbesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=4), en waarmede een vermindering van het aantal in die dienst, dat bedrijf of die instelling benodigde arbeidsplaatsen met twee of meer te zelfder tijd of in een samenhangende periode wordt beoogd.
+- *reorganisatie:* iedere wijziging of opheffing van een dienst, bedrijf of instelling, welke kan leiden tot ontslag als bedoeld in [artikel 4 van de Wachtgeldbesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=4), en waarmede een vermindering van het aantal in die dienst, dat bedrijf of die instelling benodigde arbeidsplaatsen met twee of meer te zelfder tijd of in een samenhangende periode wordt beoogd.
 
-## 2. De uitnodiging tot vrijwillig ontslag
+### 2. De uitnodiging tot vrijwillig ontslag
 
 ##### Artikel 5
 
@@ -103,7 +81,7 @@ Gerekend vanaf de dagtekening van de in het [vorige artikel](https://wetten.over
 
 Na afloop van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=2&artikel=11&z=2011-10-09&g=2011-10-09) bedoelde termijn wordt in verband met dezelfde reorganisatie noch aan enige daarbij betrokken overheidsdienaar afzonderlijk, noch aan een groep of categorie van overheidsdienaren gezamenlijk opnieuw de gelegenheid gegeven om de wens tot beëindiging van het dienstverband met de in dit besluit bepaalde rechtsgevolgen kenbaar te maken.
 
-## 3. Het ontslag
+### 3. Het ontslag
 
 ##### Artikel 13
 
@@ -151,7 +129,7 @@ Degene aan wie ingevolge dit besluit op zijn verzoek ontslag verleend is, heeft 
 
 2. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties of bij eilandsverordening, al naar gelang de lumpsum is toegekend door een bevoegd gezag als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=1&artikel=2&z=2011-10-09&g=2011-10-09), onderscheidenlijk door een bevoegd gezag als bedoeld in artikel 2, onder b, kunnen privaatrechtelijke rechtspersonen of instellingen aan de werking van het eerste lid worden onttrokken of daaronder worden gebracht.
 
-## 4. De Lumpsum
+### 4. De Lumpsum
 
 ##### Artikel 20
 
@@ -183,19 +161,19 @@ Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan
 
 1. Indien de gewezen overheidsdienaar aan wie een lumpsum is toegekend, in afwijking van het beginsel bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=3&artikel=19&z=2011-10-09&g=2011-10-09), niettemin binnen het aldaar genoemde tijdvak en bij een aldaar bedoelde rechtspersoon of instelling een dienstbetrekking aanvaardt, is hij verplicht van die lumpsum terug te betalen, indien de indiensttreding geschiedt:
 
-- –. binnen één jaar: 90%;
+- – binnen één jaar: 90%;
 
-- –. na één jaar, maar binnen twee jaren: 75%;
+- – na één jaar, maar binnen twee jaren: 75%;
 
-- –. na twee jaren, maar binnen drie jaren: 50%;
+- – na twee jaren, maar binnen drie jaren: 50%;
 
-- –. na drie jaren, maar binnen vier jaren: 25%.
+- – na drie jaren, maar binnen vier jaren: 25%.
 
 2. Bij de vaststelling van het terug te betalen bedrag worden inhoudingen, uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=6&artikel=39&z=2011-10-09&g=2011-10-09) toegepast, buiten beschouwing gelaten. Van de ingevolge de Wet inkomstenbelasting BES over de lumpsum betaalde of verschuldigde belasting wordt op verzoek van de betrokkene een gedeelte, overeenkomende met de in het eerste lid genoemde percentages in aldaar bedoelde gevallen, op het bedrag in mindering gebracht; in dit geval wordt in het jaar waarin de terugbetaling geschiedt het inkomen voor de vaststelling van de aanslag niet met het terugbetaalde bedrag verminderd. Onze Minister van Financiën kan nadere regelen vaststellen aangaande de wijze waarop de vermindering dient te geschieden, ingeval nog geen definitieve aanslag in de inkomstenbelasting voor het jaar waarin de lumpsum is ontvangen, is opgelegd, deze aanslag nog niet is voldaan, de belastingplichtige tegen de aanslag bezwaar gemaakt heeft of in beroep gekomen is, of tot navordering wordt overgegaan.
 
 3. De terugbetaling geschiedt aan de staat, indien de lumpsum is toegekend door een bevoegd gezag als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=1&artikel=2&z=2011-10-09&g=2011-10-09); indien de lumpsum is toegekend door een bevoegd gezag als bedoeld in artikel 2, onder b, geschiedt de terugbetaling aan het betrokken openbaar lichaam.
 
-## 5. Investeringsfaciliteiten
+### 5. Investeringsfaciliteiten
 
 ##### Artikel 25
 
@@ -205,9 +183,9 @@ Aan de gewezen overheidsdienaar die in het genot is gesteld van een lumpsum, en 
 
 1. De beoordeling of voorgenomen investeringen voor de terbeschikkingstelling van bijzondere faciliteiten in aanmerking komen wordt, zoveel mogelijk reeds voordat het aan de betrokkenen verleende of te verlenen ontslag is ingegaan, uitgevoerd door een of meer publiek- of privaatrechtelijke instellingen, daartoe aangewezen door
 
-- –. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het betreft de voorgenomen investeringen van gewezen overheidsdienaren die een lumpsum ten laste van de staat genieten;
+- – Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het betreft de voorgenomen investeringen van gewezen overheidsdienaren die een lumpsum ten laste van de staat genieten;
 
-- –. het bestuurscollege van een openbaar lichaam, voor zover het betreft de voorgenomen investeringen van gewezen overheidsdienaren die een lumpsum ten laste van dat openbaar lichaam genieten.
+- – het bestuurscollege van een openbaar lichaam, voor zover het betreft de voorgenomen investeringen van gewezen overheidsdienaren die een lumpsum ten laste van dat openbaar lichaam genieten.
 
 2. Indien de beoordeling positief is, vinden de verdere begeleiding en advisering met betrekking tot het bedrijf ten behoeve waarvan de faciliteiten ter beschikking worden gesteld door dezelfde instelling plaats die de beoordeling heeft verricht.
 
@@ -255,11 +233,11 @@ Indien de beoordeling van een voorgenomen investering als bedoeld in [artikel 26
 
 In een eilandsverordening als bedoeld in het [tweede lid van het voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=5&artikel=33&z=2011-10-09&g=2011-10-09) kunnen bepalingen zijn opgenomen, overeenkomende met die van de [artikelen 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=5&artikel=28&z=2011-10-09&g=2011-10-09), en [31, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028476&titeldeel=5&artikel=31&z=2011-10-09&g=2011-10-09).
 
-## 6. Verschillende bepalingen
+### 6. Verschillende bepalingen
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
@@ -269,7 +247,7 @@ Vervallen
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
@@ -321,7 +299,7 @@ Indien de overheidsdienaar of gewezen overheidsdienaar opzettelijk onjuiste gege
 
 Dit besluit berust op [artikel 100 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=100).
 
-## 7. Overgangs- en slotbepalingen
+### 7. Overgangs- en slotbepalingen
 
 ##### Artikel 49
 

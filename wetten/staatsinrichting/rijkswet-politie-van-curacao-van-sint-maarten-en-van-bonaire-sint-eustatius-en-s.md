@@ -1,49 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010, houdende regeling van de inrichting, de organisatie, het gezag en het beheer van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028079"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028079"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10648893"
-version_id: "17593022"
-internal_id: "C24678111"
-label_id: "10624354"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028079/2010-10-10/0"
-intitule_bron: "Stb.2010-337"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-337"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32019"
-original_url_id: "stb-2010-337"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028079&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028079&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028079"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010, houdende regeling van de inrichting, de organisatie, het gezag en het beheer van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten binnen het Koninkrijk willen samenwerken door de inrichting, de organisatie, het gezag en het beheer van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba te regelen bij of krachtens een rijkswet op grond van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), dat de Minister van Justitie van Curaçao en de Minister van Justitie van Sint Maarten verantwoordelijk zijn voor de politie van hun land en daarover verantwoording afleggen in de Staten van hun land en dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten instemmen met de inhoud van deze regeling;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treden.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,37 +20,38 @@ Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wi
 
 1. In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **ambtsinstructie:** ambtsinstructie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=3&artikel=14&z=2010-10-10&g=2010-10-10);
+- a. *ambtsinstructie:* ambtsinstructie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=3&artikel=14&z=2010-10-10&g=2010-10-10);
 
-- b. **gezaghebber:** gezaghebber van Bonaire, van Sint Eustatius of van Saba;
+- b. *gezaghebber:* gezaghebber van Bonaire, van Sint Eustatius of van Saba;
 
-- c. **directeur van de gemeenschappelijke voorziening politie:** directeur van de gemeenschappelijke voorziening politie als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=21&z=2010-10-10&g=2010-10-10);
+- c. *directeur van de gemeenschappelijke voorziening politie:* directeur van de gemeenschappelijke voorziening politie als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=21&z=2010-10-10&g=2010-10-10);
 
-- d. **korpsbeheerder:** degene die op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=7&artikel=47&z=2010-10-10&g=2010-10-10) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps;
+- d. *korpsbeheerder:* degene die op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=7&artikel=47&z=2010-10-10&g=2010-10-10) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps;
 
-- e. **gemeenschappelijke voorziening politie:** gemeenschappelijke voorziening politie als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10);
+- e. *gemeenschappelijke voorziening politie:* gemeenschappelijke voorziening politie als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10);
 
-- f. **korpschef:** korpschef als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10);
+- f. *korpschef:* korpschef als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10);
 
-- g. **landen:** Curaçao, Sint Maarten en Nederland, voor zover het Bonaire, Sint Eustatius en Saba betreft;
+- g. *landen:* Curaçao, Sint Maarten en Nederland, voor zover het Bonaire, Sint Eustatius en Saba betreft;
 
-- h. **Onze Minister:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie van Nederland.
+- h. *Onze Minister:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie van Nederland.
 
-- i. **Onze Ministers:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie van Nederland gezamenlijk;
+- i. *Onze Ministers:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie van Nederland gezamenlijk;
 
-- j. **politiegegeven:** elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon dat in het kader van de uitoefening van de politietaak overeenkomstig de wetgeving van de landen wordt verwerkt;
+- j. *politiegegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon dat in het kader van de uitoefening van de politietaak overeenkomstig de wetgeving van de landen wordt verwerkt;
 
-- k. **politietaak:** taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10);
+- k. *politietaak:* taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10);
 
-- l. **procureur-generaal:** procureur-generaal als bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=2);
+- l. *procureur-generaal:* procureur-generaal als bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=2);
 
-- m. **Statuut:** [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
+- m. *Statuut:*
+ [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
 
-- n. **taken ten dienste van de justitie:**
+- n. *taken ten dienste van de justitie:*
 
-- 1°. de uitvoering van wettelijke voorschriften waarmee Onze Minister van Justitie van Nederland is belast;
+   - 1°. de uitvoering van wettelijke voorschriften waarmee Onze Minister van Justitie van Nederland is belast;
 
-- 2°. de betekening van gerechtelijke mededelingen in strafzaken, het vervoer van rechtens van hun vrijheid beroofde personen, en de dienst bij de gerechten.
+   - 2°. de betekening van gerechtelijke mededelingen in strafzaken, het vervoer van rechtens van hun vrijheid beroofde personen, en de dienst bij de gerechten.
 
 2. In deze wet en de daarop berustende bepalingen wordt onder de strafrechtelijke handhaving van de rechtsorde mede verstaan: het waken voor de veiligheid van personen.
 
@@ -419,9 +389,9 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 3. De politiekorpsen registreren gegevens voor door Onze Ministers te bepalen doeleinden en door hen te bepalen categorieën.
 
-4. Dit lid is nog niet in werking getreden.
+4. *Dit lid is nog niet in werking getreden.*
 
-5. Dit lid is nog niet in werking getreden.
+5. *Dit lid is nog niet in werking getreden.*
 
 ##### Artikel 40
 
@@ -596,5 +566,3 @@ Totdat het [vierde respectievelijk vijfde lid van artikel 39](https://wetten.ove
 ##### Artikel 59
 
 Deze rijkswet wordt aangehaald als: Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

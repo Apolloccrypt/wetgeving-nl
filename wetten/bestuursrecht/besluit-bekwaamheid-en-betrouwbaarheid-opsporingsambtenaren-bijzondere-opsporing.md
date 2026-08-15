@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 september 2010, houdende regels ter uitvoering van artikel 7, derde lid, van de Wet op de bijzondere opsporingsdiensten met betrekking tot de bekwaamheid en betrouwbaarheid van opsporingsambtenaren van de bijzondere opsporingsdiensten (Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010)"
+citeertitel: "Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010"
 identifier: "BWBR0028308"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028308"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10748833"
-version_id: "17722762"
-internal_id: "C26426521"
-label_id: "10723644"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028308/2020-01-01/0"
-intitule_bron: "Stb.2010-690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-08"
-intitule_published: "2010-09-21"
-intitule_in_force: "2011-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-690"
-original_signed_date: "2010-09-08"
-original_published_date: "2010-09-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-690"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0028308&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028308&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010"
-signed_date: "2010-09-08"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028308"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 8 september 2010, houdende regels ter uitvoering van artikel 7, derde lid, van de Wet op de bijzondere opsporingsdiensten met betrekking tot de bekwaamheid en betrouwbaarheid van opsporingsambtenaren van de bijzondere opsporingsdiensten (Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010)
-
-Op voordracht van Onze Minister van Justitie van 20 mei 2010, nummer 5651122/10/6;
-
-Gelet op [artikel 7, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7);
-
-De Raad van State gehoord (advies van 7 juli 2010, nr. W03.10.0193/II);
-
-Gezien het nader rapport van Onze Minister van Justitie van 30 augustus 2010, nummer 5666098/10/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemeen
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **examencommissie:** de examencommissie bijzondere opsporingsdiensten;
+- a. *examencommissie:* de examencommissie bijzondere opsporingsdiensten;
 
-- b. **Onze Minister:** Onze Minister van Justitie;
+- b. *Onze Minister:* Onze Minister van Justitie;
 
-- c. **de wet:** de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919).
+- c. *de wet:* de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919).
 
 ##### Artikel 2
 
@@ -181,5 +149,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit bekwaamheid en betrouwbaarheid opsporingsambtenaren bijzondere opsporingsdiensten 2010.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

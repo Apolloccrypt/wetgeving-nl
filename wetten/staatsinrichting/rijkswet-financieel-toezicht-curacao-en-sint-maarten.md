@@ -1,59 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010, houdende regels voor het financieel toezicht op de landen Curaçao en Sint Maarten (Rijkswet financieel toezicht Curaçao en Sint Maarten)"
+citeertitel: "Rijkswet financieel toezicht Curaçao en Sint Maarten"
 identifier: "BWBR0028132"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028132"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10669423"
-version_id: "17623642"
-internal_id: "C24663911"
-label_id: "10644424"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028132/2010-10-10/0"
-intitule_bron: "Stb.2010-334"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-334"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32026"
-original_url_id: "stb-2010-334"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028132&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028132&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet financieel toezicht Curaçao en Sint Maarten"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028132"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010, houdende regels voor het financieel toezicht op de landen Curaçao en Sint Maarten (Rijkswet financieel toezicht Curaçao en Sint Maarten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van de Nederlandse Antillen en Nederland en de bestuurscolleges van Curaçao en Sint Maarten zijn overeengekomen
-
-dat op de voet van samenwerking tussen gelijkwaardige partners financieel toezicht wordt ingesteld op de landen Curaçao en Sint Maarten dat er op gericht is dat die landen structureel voldoen aan de in deze wet opgenomen begrotingsnormen die tevens zijn verankerd in de eigen wetgeving zodat het toezicht op termijn overbodig wordt,
-
-dat in verband daarmee in deze rijkswet bepalingen zijn opgenomen die voorzien in evaluatie ter voorbereiding van beslissingen inzake voortzetting, beperking en beëindiging van het toezicht,
-
-dat Nederland aan deze ontwikkelingen een bijdrage levert door middel van overname bij het ingaan van de nieuwe staatkundige verhoudingen van de dan resterende hoofdsom van het totaal van de door Nederland over te nemen schulden,
-
-dat zij deze samenwerking onderling willen regelen in een rijkswet op grond van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38),
-
-dat de regeringen van de Nederlandse Antillen en Nederland en de bestuurscolleges van Curaçao en Sint Maarten instemmen met de inhoud van deze rijkswet;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Definitiebepalingen
 
@@ -61,29 +20,29 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 In deze wet wordt verstaan onder:
 
-- –. **begroting:** begroting, bedoeld in de onderscheiden Staatsregelingen van de landen;
+- – *begroting:* begroting, bedoeld in de onderscheiden Staatsregelingen van de landen;
 
-- –. **bestuur:** raad van ministers van het land Curaçao onderscheidenlijk ministerraad van het land Sint Maarten;
+- – *bestuur:* raad van ministers van het land Curaçao onderscheidenlijk ministerraad van het land Sint Maarten;
 
-- –. **collectieve sector:** land Curaçao onderscheidenlijk land Sint Maarten tezamen met de rechtspersonen die met toepassing van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=5&artikel=23&z=2010-10-10&g=2010-10-10) als zodanig zijn aangewezen;
+- – *collectieve sector:* land Curaçao onderscheidenlijk land Sint Maarten tezamen met de rechtspersonen die met toepassing van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=5&artikel=23&z=2010-10-10&g=2010-10-10) als zodanig zijn aangewezen;
 
-- –. **college:** College financieel toezicht Curaçao en Sint Maarten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10);
+- – *college:* College financieel toezicht Curaçao en Sint Maarten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10);
 
-- –. **landen:** landen Curaçao en Sint Maarten;
+- – *landen:* landen Curaçao en Sint Maarten;
 
-- –. **land:** land Curaçao of land Sint Maarten;
+- – *land:* land Curaçao of land Sint Maarten;
 
-- –. **geconsolideerde schuld:** gezamenlijke schulden van de collectieve sector van een land in de vorm van leningen en betalingsachterstanden, met uitzondering van de onderlinge schulden binnen de desbetreffende collectieve sector;
+- – *geconsolideerde schuld:* gezamenlijke schulden van de collectieve sector van een land in de vorm van leningen en betalingsachterstanden, met uitzondering van de onderlinge schulden binnen de desbetreffende collectieve sector;
 
-- –. **kapitaaluitgaven:** uitgaven die ingevolge de geldende definitie van het System of National Accounts van de Verenigde Naties op de kapitaaldienst van de overheidsrekening worden geboekt;
+- – *kapitaaluitgaven:* uitgaven die ingevolge de geldende definitie van het System of National Accounts van de Verenigde Naties op de kapitaaldienst van de overheidsrekening worden geboekt;
 
-- –. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **rentelast:** uitgaven aan rente, toerekenbaar aan een begrotingsjaar, over de geconsolideerde schuld van een land;
+- – *rentelast:* uitgaven aan rente, toerekenbaar aan een begrotingsjaar, over de geconsolideerde schuld van een land;
 
-- –. **rentelastnorm:** rentelast die overeenkomt met 5% van de gemiddelde gerealiseerde gezamenlijke inkomsten van de collectieve sector van een land, over de drie jaren voorafgaand aan het jaar waarin de begroting is of wordt ingediend;
+- – *rentelastnorm:* rentelast die overeenkomt met 5% van de gemiddelde gerealiseerde gezamenlijke inkomsten van de collectieve sector van een land, over de drie jaren voorafgaand aan het jaar waarin de begroting is of wordt ingediend;
 
-- –. **Staten:** Staten van een land.
+- – *Staten:* Staten van een land.
 
 ### Hoofdstuk 2. Het College financieel toezicht Curaçao en Sint Maarten
 
@@ -585,7 +544,7 @@ Het beheer van de bescheiden betreffende de werkzaamheden van het college wordt 
 
 ##### Artikel 33a
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 34. Inwerkingtreding
 
@@ -598,5 +557,3 @@ Deze wet vervalt op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip
 ##### Artikel 36. Citeertitel
 
 Deze wet wordt aangehaald als: Rijkswet financieel toezicht Curaçao en Sint Maarten.
-
-Lasten en bevelen dat deze Rijkswet in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

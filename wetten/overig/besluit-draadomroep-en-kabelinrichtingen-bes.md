@@ -1,38 +1,16 @@
 ---
 title: "Besluit draadomroep en kabelinrichtingen BES"
 identifier: "BWBR0028504"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-05-13"
-last_updated: "2022-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028504"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10828833"
-version_id: "17807572"
-internal_id: "C24775721"
-label_id: "10803854"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028504/2022-05-13/0"
-intitule_bron: "Stb.2010-457"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-457"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-457"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028504&z=2022-05-13&g=2022-05-13"
-jci_1_0: "1.0:c:BWBR0028504&g=2022-05-13"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-05-13
+status: geldig
+toestand: 2022-05-13
+bron: "https://wetten.overheid.nl/BWBR0028504"
+opgehaald: 2026-08-15
 ---
+
 # Besluit draadomroep en kabelinrichtingen BES
 
 #### § 1. Definities
@@ -41,17 +19,18 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- a. *wet:*
+ [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **toezicht houdende ambtenaar:** de ambtenaar, bedoeld in [artikel 31a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31a);
+- b. *toezicht houdende ambtenaar:* de ambtenaar, bedoeld in [artikel 31a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31a);
 
-- c. **kabelinrichting:** een inrichting bestemd voor telecommunicatie door middel van kabels en kabelwerken niet zijnde draadomroepinrichtingen;
+- c. *kabelinrichting:* een inrichting bestemd voor telecommunicatie door middel van kabels en kabelwerken niet zijnde draadomroepinrichtingen;
 
-- d. **aanvullende machtiging:** een machtiging als bedoeld in [artikel 18b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18b);
+- d. *aanvullende machtiging:* een machtiging als bedoeld in [artikel 18b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18b);
 
-- e. **ontheffing:** een ontheffing als bedoeld in [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19);
+- e. *ontheffing:* een ontheffing als bedoeld in [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19);
 
-- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
+- f. *bewijs van goedkeuring:* een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 1a
 
@@ -59,7 +38,7 @@ Dit besluit berust op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### § 2. Aanvraag
 
-#### 1. Indiening van een aanvraag
+##### 1. Indiening van een aanvraag
 
 ##### Artikel 2
 
@@ -131,7 +110,7 @@ De aanvrager kan weigeren gegevens en bescheiden te verschaffen op grond van het
 
 Indien een aanvraag niet is ingediend op de wijze krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
 
-#### 2. Behandeling van een aanvraag
+##### 2. Behandeling van een aanvraag
 
 ##### Artikel 9
 
@@ -229,7 +208,7 @@ Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffi
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 #### § 6. Technische eisen
 
@@ -243,11 +222,11 @@ Vervallen
 
 - b.
 
-- 1°. het voorkomen van storingen door draadomroep- of kabelinrichtingen in andere elektrische en elektronische inrichtingen;
+   - 1°. het voorkomen van storingen door draadomroep- of kabelinrichtingen in andere elektrische en elektronische inrichtingen;
 
-- 2°. bestand zijn van draadomroep- en kabelinrichtingen tegen storingen van andere elektrische en elektronische inrichtingen;
+   - 2°. bestand zijn van draadomroep- en kabelinrichtingen tegen storingen van andere elektrische en elektronische inrichtingen;
 
-- 3°. het voorkomen van storingen in de werking van de draadomroep- en kabelinfrastructuur;
+   - 3°. het voorkomen van storingen in de werking van de draadomroep- en kabelinfrastructuur;
 
 - c. de waarborg van de kwaliteit van de omroepsignalen die via de draadomroep- en kabelinfrastructuur geleverd worden aan de gebruikers;
 
@@ -349,7 +328,7 @@ Vervallen
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 

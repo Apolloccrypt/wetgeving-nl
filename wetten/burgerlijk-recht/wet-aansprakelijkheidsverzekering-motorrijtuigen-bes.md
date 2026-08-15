@@ -1,59 +1,37 @@
 ---
 title: "Wet aansprakelijkheidsverzekering motorrijtuigen BES"
 identifier: "BWBR0028254"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028254"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10722473"
-version_id: "17691362"
-internal_id: "C24764231"
-label_id: "10697424"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028254/2012-07-01/0"
-intitule_bron: "Stb.2010-499"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-499"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-499"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028254&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0028254&g=2012-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0028254"
+opgehaald: 2026-08-15
 ---
+
 # Wet aansprakelijkheidsverzekering motorrijtuigen BES
 
-## Algemene bepalingen
+### Algemene bepalingen
 
 ##### Artikel 1
 
 Voor de toepassing van deze wet worden verstaan onder:
 
-- **motorrijtuigen:** alle rij- of voertuigen, bestemd om over de grond te worden voortbewogen uitsluitend of mede door een mechanische kracht; als een deel daarvan wordt aangemerkt al hetgeen aan het rij- of voertuig is gekoppeld of na koppeling daarvan is losgemaakt of losgeraakt, zolang het nog niet buiten het verkeer tot stilstand is gekomen;
+- *motorrijtuigen:* alle rij- of voertuigen, bestemd om over de grond te worden voortbewogen uitsluitend of mede door een mechanische kracht; als een deel daarvan wordt aangemerkt al hetgeen aan het rij- of voertuig is gekoppeld of na koppeling daarvan is losgemaakt of losgeraakt, zolang het nog niet buiten het verkeer tot stilstand is gekomen;
 
-- **verzekerden:** zij wier aansprakelijkheid overeenkomstig de bepalingen van deze wet is gedekt;
+- *verzekerden:* zij wier aansprakelijkheid overeenkomstig de bepalingen van deze wet is gedekt;
 
-- **benadeelden:** zij die schade hebben geleden welke grond oplevert voor toepassing van deze wet, alsmede hun rechtverkrijgenden;
+- *benadeelden:* zij die schade hebben geleden welke grond oplevert voor toepassing van deze wet, alsmede hun rechtverkrijgenden;
 
-- **vergunning:** vergunning die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is vereist voor de branche motorrijtuigverzekering;
+- *vergunning:* vergunning die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is vereist voor de branche motorrijtuigverzekering;
 
-- **verzekeraar:** onderneming die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) het bedrijf van schadeverzekeraar in de branche motorrijtuigverzekering mag uitoefenen;
+- *verzekeraar:* onderneming die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) het bedrijf van schadeverzekeraar in de branche motorrijtuigverzekering mag uitoefenen;
 
-- **weg:** voor het openbaar verkeer openstaand pad, verharde of onverharde rijbaan met inbegrip van de middenberm of middengeleiding, de parkeerstroken en parkeerhavens en vluchtstroken alsmede de in de weg gelegen bruggen en de naast de rijbaan gelegen paden, bermen en zijkanten;
+- *weg:* voor het openbaar verkeer openstaand pad, verharde of onverharde rijbaan met inbegrip van de middenberm of middengeleiding, de parkeerstroken en parkeerhavens en vluchtstroken alsmede de in de weg gelegen bruggen en de naast de rijbaan gelegen paden, bermen en zijkanten;
 
-- **Waarborgfonds Motorverkeer en fonds:** de krachtens [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=23) aangewezen rechtspersoon.
+- *Waarborgfonds Motorverkeer en fonds:* de krachtens [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=23) aangewezen rechtspersoon.
 
 ##### Artikel 2
 
@@ -143,21 +121,21 @@ Tot verhaal van de schadevergoeding op de verzekeringnemer bestaat geen grond, i
 
 Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdheid daartoe uit de bepaling zelve blijkt.
 
-## Verzekerde sommen
+### Verzekerde sommen
 
 ##### Artikel 14
 
 De som of sommen, waarvoor de in deze wet bedoelde verzekering ten minste moet zijn gesloten, worden bij algemene maatregel van bestuur bepaald.
 
-## Waarborgfonds Motorverkeer
+### Waarborgfonds Motorverkeer
 
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 16
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 16A
 
@@ -165,17 +143,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 18
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 19
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
-## Gevolgen van de intrekking van een vergunning
+### Gevolgen van de intrekking van een vergunning
 
 ##### Artikel 20
 
@@ -183,13 +161,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Degene die met een verzekeringsonderneming die niet of niet meer in het bezit is van een vergunning, een verzekering heeft gesloten ter dekking van de wettelijke aansprakelijkheid waartoe een motorrijtuig in het verkeer aanleiding kan geven, is bevoegd deze verzekering door opzegging te beëindigen. De verzekeringsonderneming geeft alsdan de vooruitbetaalde premie terug voor het gedeelte dat evenredig is aan het op de datum van de ontvangst der opzegging nog niet verstreken gedeelte van de termijn waarvoor de premie werd betaald, onder aftrek van een door de Nederlandsche Bank N.V. te bepalen percentage van het terug te betalen bedrag aan onkosten.
 
-## Beroep
+### Beroep
+
+[vervallen]
 
 ##### Artikel 21
 
 [vervallen]
 
-## Toezicht
+### Toezicht
 
 ##### Artikel 21a
 
@@ -197,7 +177,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Op de eerste vordering van een ambtenaar als bedoeld in het eerste lid, is de bestuurder van een motorrijtuig verplicht dit te doen stil houden en het document, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=11&z=2012-07-01&g=2012-07-01), behoorlijk ter inzage af te geven.
 
-## Verbods- en strafbepalingen
+### Verbods- en strafbepalingen
 
 ##### Artikel 22
 
@@ -229,7 +209,7 @@ De bij of krachtens deze wet strafbaar gestelde feiten zijn overtredingen.
 
 [vervallen]
 
-## Slotbepalingen
+### Slotbepalingen
 
 ##### Artikel 28
 

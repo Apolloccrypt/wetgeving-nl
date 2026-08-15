@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 9 september 2010, nr. WJZ/10134751 houdende een tijdelijke voorziening voor internationale merken en regels ter uitvoering van het Uitvoeringsbesluit merken BES (Uitvoeringsregeling merken BES)"
+citeertitel: "Uitvoeringsregeling merken BES"
 identifier: "BWBR0028310"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-10-07"
-last_updated: "2011-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028310"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10749323"
-version_id: "17723242"
-internal_id: "C24490011"
-label_id: "10723984"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028310/2011-10-07/0"
-intitule_bron: "Stcrt.2010-14382"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-09"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14382"
-original_signed_date: "2010-09-09"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14382"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028310&z=2011-10-07&g=2011-10-07"
-jci_1_0: "1.0:c:BWBR0028310&g=2011-10-07"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling merken BES"
-signed_date: "2010-09-09"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-07
+status: geldig
+toestand: 2011-10-07
+bron: "https://wetten.overheid.nl/BWBR0028310"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van de Minister van Economische Zaken van 9 september 2010, nr. WJZ/10134751 houdende een tijdelijke voorziening voor internationale merken en regels ter uitvoering van het Uitvoeringsbesluit merken BES (Uitvoeringsregeling merken BES)
-
-Gelet op [artikel 44 van de Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=44) en de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=2), [3, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=3), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=6), [10, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=10), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=11), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=19), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=24), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=26) en [30 van het Uitvoeringsbesluit merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&artikel=30);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -46,7 +20,7 @@ In deze regeling wordt onder ‘het besluit’ verstaan: het [Uitvoeringsbesluit
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -78,29 +52,29 @@ Vervallen
 
 - a. inzake overdracht of overgang, licentie, pandrecht of beslag:
 
-- 1°. eerste merk een bedrag van USD 70;
+   - 1°. eerste merk een bedrag van USD 70;
 
-- 2°. tweede tot en met vijfde merk een bedrag van USD 35;
+   - 2°. tweede tot en met vijfde merk een bedrag van USD 35;
 
-- 3°. elk volgend merk gratis;
+   - 3°. elk volgend merk gratis;
 
 - b. inzake aantekening waren- en dienstenbeperking een bedrag van USD 57;
 
 - c. inzake wijziging van gemachtigde, inbegrepen diens aanwijzing na inschrijving van het depot:
 
-- 1°. eerste merk een bedrag van USD 28;
+   - 1°. eerste merk een bedrag van USD 28;
 
-- 2°. tweede tot en met vijfde merk een bedrag van USD 14;
+   - 2°. tweede tot en met vijfde merk een bedrag van USD 14;
 
-- 3°. elk volgend merk gratis;
+   - 3°. elk volgend merk gratis;
 
 - d. wijziging naam en/of adres van een merkhouder, gemachtigde of licentiehouder gratis;
 
 - e. herstel van aan de houder te wijten schrijffouten na inschrijving:
 
-- 1°. eerste merk een bedrag van USD 24;
+   - 1°. eerste merk een bedrag van USD 24;
 
-- 2°. elk volgend merk een bedrag van USD 12.
+   - 2°. elk volgend merk een bedrag van USD 12.
 
 ##### Artikel 4
 
@@ -126,19 +100,19 @@ Het bedrag van USD de individuele rechten als bedoeld in artikel 8, zevende lid,
 
 - a. voor een internationaal depot:
 
-- 1°. basisrecht individueel merk, tot drie klassen een bedrag van USD 205;
+   - 1°. basisrecht individueel merk, tot drie klassen een bedrag van USD 205;
 
-- 2°. basisrecht collectief merk, tot drie klassen een bedrag van USD 293;
+   - 2°. basisrecht collectief merk, tot drie klassen een bedrag van USD 293;
 
-- 3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 21;
+   - 3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 21;
 
 - b. voor vernieuwing van een internationale inschrijving:
 
-- 1°. basisrecht individueel merk, tot drie klassen een bedrag van USD 335;
+   - 1°. basisrecht individueel merk, tot drie klassen een bedrag van USD 335;
 
-- 2°. basisrecht collectief merk, tot drie klassen een bedrag van USD 611;
+   - 2°. basisrecht collectief merk, tot drie klassen een bedrag van USD 611;
 
-- 3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 59.
+   - 3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 59.
 
 ##### Artikel 7
 
@@ -160,11 +134,11 @@ Het depot van een merk gaat vergezeld van:
 
 - b. in voorkomend geval:
 
-- 1°. de vermelding van de kleur of kleuren van het merk;
+   - 1°. de vermelding van de kleur of kleuren van het merk;
 
-- 2°. de vermelding dat het merk of een deel ervan driedimensionaal is;
+   - 2°. de vermelding dat het merk of een deel ervan driedimensionaal is;
 
-- 3°. de vermelding dat het merk bestaat uit de vorm van de waar of de verpakking;
+   - 3°. de vermelding dat het merk bestaat uit de vorm van de waar of de verpakking;
 
 - c. indien het een collectief merk betreft: een exemplaar van het reglement op het gebruik en toezicht.
 
@@ -175,5 +149,3 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling merken BES
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

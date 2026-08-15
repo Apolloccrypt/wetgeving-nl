@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2010 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010)"
+citeertitel: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010"
 identifier: "BWBR0028233"
-country: "nl"
-rank: "pbo"
-publication_date: "2010-09-05"
-last_updated: "2010-09-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028233"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "10713823"
-version_id: "17678762"
-internal_id: "C24443851"
-label_id: "10688504"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028233/2010-09-05/0"
-intitule_bron: "Vbbo.2010-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-30"
-intitule_published: "2010-09-03"
-intitule_in_force: "2010-09-03"
-intitule_status: "goed"
-original_publication: "Vbbo.2010-50"
-original_signed_date: "2010-03-30"
-original_published_date: "2010-09-03"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2010-09-05"
-jci_1_3: "jci1.3:c:BWBR0028233&z=2010-09-05&g=2010-09-05"
-jci_1_0: "1.0:c:BWBR0028233&g=2010-09-05"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010"
-signed_date: "2010-03-30"
-entry_into_force: "2010-09-05"
+publicatiedatum: 2010-09-05
+laatste_update: 2010-09-05
+status: geldig
+toestand: 2010-09-05
+bron: "https://wetten.overheid.nl/BWBR0028233"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2010 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2010)
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 16 maart 2010;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

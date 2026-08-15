@@ -1,83 +1,59 @@
 ---
 title: "Opiumwet 1960 BES"
 identifier: "BWBR0028519"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028519"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10833723"
-version_id: "30551362"
-internal_id: "C43794581"
-label_id: "10808534"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028519/2025-04-01/0"
-intitule_bron: "Stb.2010-641"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2024-377"
-original_signed_date: "2024-11-20"
-original_published_date: "2024-12-03"
-original_effect: "structuurwijziging"
-original_dossier: "36462"
-original_url_id: "stb-2024-377"
-entry_into_force_date: "2024-11-20"
-entry_into_force_dossier: "36462"
-jci_1_3: "jci1.3:c:BWBR0028519&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0028519&g=2025-04-01"
-citeertitel_status: "officieel"
-signed_date: "2024-11-20"
-entry_into_force: "2024-11-20"
+publicatiedatum: 2024-11-20
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0028519"
+opgehaald: 2026-08-15
 ---
+
 # Opiumwet 1960 BES
 
 ##### Artikel 1
 
 1. Deze wet verstaat onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **ruw opium:** het sap, vanzelf gestremd, verkregen uit de plant van de soort Papaver somniferum L. en dat slechts de bewerkingen heeft ondergaan die nodig zijn voor de verpakking en het vervoer, ongeacht het morfinegehalte;
+- b. *ruw opium:* het sap, vanzelf gestremd, verkregen uit de plant van de soort Papaver somniferum L. en dat slechts de bewerkingen heeft ondergaan die nodig zijn voor de verpakking en het vervoer, ongeacht het morfinegehalte;
 
-- c. **medicinaal opium:** ruw opium dat de nodige bereidingen heeft ondergaan teneinde het geschikt te maken voor geneeskundig gebruik, hetzij in poedervorm of in korrelachtige toestand, hetzij vermengd met neutrale stoffen, overeenkomstig de eisen van de farmacopee;
+- c. *medicinaal opium:* ruw opium dat de nodige bereidingen heeft ondergaan teneinde het geschikt te maken voor geneeskundig gebruik, hetzij in poedervorm of in korrelachtige toestand, hetzij vermengd met neutrale stoffen, overeenkomstig de eisen van de farmacopee;
 
-- d. **cocablad:** het blad van de plant van een van de soorten van het geslacht Erythroxylon met uitzondering van een blad waaruit alle ecgonine, cocaïne en alle andere ecgonine alkaloïden zijn verwijderd;
+- d. *cocablad:* het blad van de plant van een van de soorten van het geslacht Erythroxylon met uitzondering van een blad waaruit alle ecgonine, cocaïne en alle andere ecgonine alkaloïden zijn verwijderd;
 
-- e. **ruwe cocaïne:** alle producten, getrokken uit het cocablad, die rechtstreeks of middellijk kunnen dienen voor de vervaardiging van cocaïne;
+- e. *ruwe cocaïne:* alle producten, getrokken uit het cocablad, die rechtstreeks of middellijk kunnen dienen voor de vervaardiging van cocaïne;
 
-- f. **ecgonine:** de linksdraaiende ecgonine ([a] = 45.6 bepaald in een oplossing van 5% in water) met de formule C9H15NO3H2O, en alle derivaten van deze ecgonine, die in de industrie gebruikt zouden kunnen worden om opnieuw ecgonine te maken;
+- f. *ecgonine:* de linksdraaiende ecgonine ([a] = 45.6 bepaald in een oplossing van 5% in water) met de formule C9H15NO3H2O, en alle derivaten van deze ecgonine, die in de industrie gebruikt zouden kunnen worden om opnieuw ecgonine te maken;
 
-- g. **morfine:** het voornaamste alcaloïde van opium, met de scheikundige formule C17H19NO3;
+- g. *morfine:* het voornaamste alcaloïde van opium, met de scheikundige formule C17H19NO3;
 
-- h. **diacetylmorfine:** diacetylmorfine (diamorfine, heroïne) dat de formule heeft C21H23NO5;
+- h. *diacetylmorfine:* diacetylmorfine (diamorfine, heroïne) dat de formule heeft C21H23NO5;
 
-- i. **cocaïne:** de methylester van de linksdraaiende benzoyl-ecgonine ([a] = –16.4 bepaald in een oplossing van 20% in chloroform) met de formule C17H21NO4;
+- i. *cocaïne:* de methylester van de linksdraaiende benzoyl-ecgonine ([a] = –16.4 bepaald in een oplossing van 20% in chloroform) met de formule C17H21NO4;
 
-- j. **hennep:** de bloeiende of vruchtdragende toppen, of delen daarvan, van iedere plant van het geslacht cannabis (met uitzondering van de zaden en bladeren indien deze niet vergezeld gaan van de toppen) waaruit de hars niet is geëxtraheerd, met welke naam ook aangeduid;
+- j. *hennep:* de bloeiende of vruchtdragende toppen, of delen daarvan, van iedere plant van het geslacht cannabis (met uitzondering van de zaden en bladeren indien deze niet vergezeld gaan van de toppen) waaruit de hars niet is geëxtraheerd, met welke naam ook aangeduid;
 
-- k. **bereid opium:** het product, verkregen van ruw opium door een reeks van bijzondere bewerkingen, en in het bijzonder door oplossing, opbruising, roostering en gisting, en ten doel hebbende om het te vervormen tot een extract, geschikt voor het gebruik, daaronder mede verstaan de droesen en al het andere afval van het gerookte opium;
+- k. *bereid opium:* het product, verkregen van ruw opium door een reeks van bijzondere bewerkingen, en in het bijzonder door oplossing, opbruising, roostering en gisting, en ten doel hebbende om het te vervormen tot een extract, geschikt voor het gebruik, daaronder mede verstaan de droesen en al het andere afval van het gerookte opium;
 
-- l. **Enkelvoudig Verdrag:** het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen, met bijlagen (Trb. 1963, 81);
+- l. *Enkelvoudig Verdrag:* het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen, met bijlagen (Trb. 1963, 81);
 
-- m. **zelfstandigheid:** stof van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder mede verstaan dieren, planten, delen van dieren of planten, alsmede micro-organismen;
+- m. *zelfstandigheid:* stof van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder mede verstaan dieren, planten, delen van dieren of planten, alsmede micro-organismen;
 
-- n. **bereiding:** een vast of vloeibaar mengsel van zelfstandigheden;
+- n. *bereiding:* een vast of vloeibaar mengsel van zelfstandigheden;
 
-- o. **middel:** zelfstandigheid of bereiding;
+- o. *middel:* zelfstandigheid of bereiding;
 
-- p. **Verdrag tegen sluikhandel:** het op 20 december 1988 tot stand gekomen Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 1989, 97);
+- p. *Verdrag tegen sluikhandel:* het op 20 december 1988 tot stand gekomen Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 1989, 97);
 
-- q. **Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel:** het op 31 januari 1995 te Straatsburg tot stand gekomen Verdrag inzake de sluikhandel over zee, ter uitvoering van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 2010, 165 en 239).
+- q. *Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel:* het op 31 januari 1995 te Straatsburg tot stand gekomen Verdrag inzake de sluikhandel over zee, ter uitvoering van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 2010, 165 en 239).
 
-2. Onder het invoeren van middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), wordt mede verstaan: het invoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling van wie het ook zij, met betrekking tot de hier te lande aanwezige, niet in het vrije verkeer gebrachte middelen zelf of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
+2. Onder het invoeren van middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), wordt mede verstaan: het invoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling van wie het ook zij, met betrekking tot de hier te lande aanwezige, niet in het vrije verkeer gebrachte middelen zelf of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
 
-3. Onder het uitvoeren van middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), wordt mede verstaan: het uitvoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer aangeven en het in, op of aan een naar het buitenland bestemd vaar- of voertuig aanwezig hebben van de zich hier te lande in het vrije verkeer bevindende middelen zelve, of van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
+3. Onder het uitvoeren van middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), wordt mede verstaan: het uitvoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer aangeven en het in, op of aan een naar het buitenland bestemd vaar- of voertuig aanwezig hebben van de zich hier te lande in het vrije verkeer bevindende middelen zelve, of van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
 
 ##### Artikel 2
 
@@ -103,19 +79,19 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 - f. de door Onze Minister aan te wijzen middelen die onder de werking van het Enkelvoudig Verdrag zijn gebracht en bewustzijnsbeïnvloedende middelen die bij aanwending bij de mens kunnen leiden tot schade voor zijn gezondheid of tot schade voor de samenleving;
 
-- A. in, uit of door te voeren;
+   - A. in, uit of door te voeren;
 
-- B. te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren;
+   - B. te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren;
 
-- C. te bezitten, aanwezig te hebben of aan te wenden;
+   - C. te bezitten, aanwezig te hebben of aan te wenden;
 
-- D. te vervaardigen, waaronder begrepen raffineren en omzetten.
+   - D. te vervaardigen, waaronder begrepen raffineren en omzetten.
 
-2. Onze Minister kan bereidingen aanwijzen als bedoeld in het eerste lid, onderdeel e, waarop het eerste lid geheel of ten dele niet van toepassing is.
+2. Onze Minister kan bereidingen aanwijzen als bedoeld in het eerste lid, onderdeel e, waarop het eerste lid geheel of ten dele niet van toepassing is.
 
 3. Bereiding van preparaten, rechtstreeks van ruw opium of medicinaal opium en meer dan 20% morfine bevattende, wordt aangemerkt als vervaardiging van morfine.
 
-4. Onder omzetten als bedoeld in het eerste lid, onderdeel D, wordt alleen het omzetten langs scheikundige weg verstaan. Daaronder wordt niet het omzetten verstaan van alkaloïden in hun zouten.
+4. Onder omzetten als bedoeld in het eerste lid, onderdeel D, wordt alleen het omzetten langs scheikundige weg verstaan. Daaronder wordt niet het omzetten verstaan van alkaloïden in hun zouten.
 
 5. Bij algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid bedoelde middelen regels worden gesteld om de naleving van de bepalingen van het Enkelvoudig Verdrag en van het bij of krachtens deze wet gestelde te verzekeren en misbruik te voorkomen.
 
@@ -143,39 +119,39 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 - d. de gebruikelijke bereidingen waaraan deze hars ten grondslag ligt zoals hasjiesj, esrar, chiras en djamba;
 
-- A. in, uit of door te voeren;
+   - A. in, uit of door te voeren;
 
-- B. te bezitten, aanwezig te hebben of aan te wenden.
+   - B. te bezitten, aanwezig te hebben of aan te wenden.
 
-2. Bij algemene maatregel van bestuur kunnen gevallen worden aangewezen waarin het eerste lid, onderdeel B, niet geldt.
+2. Bij algemene maatregel van bestuur kunnen gevallen worden aangewezen waarin het eerste lid, onderdeel B, niet geldt.
 
 3. Bij algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid bedoelde middelen regels worden gesteld om naleving van de bepalingen van het Enkelvoudig Verdrag en van het bij of krachtens deze wet te verzekeren en misbruik te voorkomen.
 
 ##### Artikel 5
 
-1. Het voorschrijven op recept van enig middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) mag slechts geschieden, wanneer dit recept voldoet aan nader door Onze Minister te geven voorschriften.
+1. Het voorschrijven op recept van enig middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) mag slechts geschieden, wanneer dit recept voldoet aan nader door Onze Minister te geven voorschriften.
 
-2. Het bestellen van enig middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) door houders van een verlof als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01), en door apothekers, geneeskundigen tot het afleveren van geneesmiddelen bevoegd en dierenartsen als bedoeld in artikel 7, tweede lid, mag slechts geschieden met inachtneming van nader door Onze Minister te geven voorschriften.
+2. Het bestellen van enig middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) door houders van een verlof als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01), en door apothekers, geneeskundigen tot het afleveren van geneesmiddelen bevoegd en dierenartsen als bedoeld in artikel 7, tweede lid, mag slechts geschieden met inachtneming van nader door Onze Minister te geven voorschriften.
 
-3. Het is verboden een vals of vervalst recept aan te bieden ter verkrijging van enig middel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01).
+3. Het is verboden een vals of vervalst recept aan te bieden ter verkrijging van enig middel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01).
 
 ##### Artikel 6
 
-1. [Artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), en [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing in geval de in-, uit- of doorvoer, al dan niet gepaard gaande met opslag in entrepots of andere douanebergplaatsen, geschiedt met verlof van Onze Minister en met inachtneming van de door of vanwege Onze Minister te geven voorschriften. Deze voorschriften kunnen verschillen voor de onderscheiden middelen, in die artikelen bedoeld. De in-, uit- en doorvoer van bereid opium en van bereidingen van bereid opium mag slechts plaatshebben voor wetenschappelijke of politionele doeleinden.
+1. [Artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), en [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing in geval de in-, uit- of doorvoer, al dan niet gepaard gaande met opslag in entrepots of andere douanebergplaatsen, geschiedt met verlof van Onze Minister en met inachtneming van de door of vanwege Onze Minister te geven voorschriften. Deze voorschriften kunnen verschillen voor de onderscheiden middelen, in die artikelen bedoeld. De in-, uit- en doorvoer van bereid opium en van bereidingen van bereid opium mag slechts plaatshebben voor wetenschappelijke of politionele doeleinden.
 
 2. Voor een verlof kan een vergoeding worden geheven overeenkomstig een bij algemene maatregel van bestuur vastgesteld tarief.
 
 ##### Artikel 7
 
-1. [Artikel 3, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [artikel 3a, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing:
+1. [Artikel 3, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [artikel 3a, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing:
 
-- a. voor zover Onze Minister dit heeft bepaald ten aanzien van een in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), bedoeld middel;
+- a. voor zover Onze Minister dit heeft bepaald ten aanzien van een in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), bedoeld middel;
 
 - b. voor zover Onze Minister schriftelijk verlof heeft gegeven tot het verrichten van een of meer van de daar bedoelde handelingen.
 
 Voor een verlof kan een jaarlijkse vergoeding worden geheven overeenkomstig een bij algemene maatregel van bestuur vastgesteld tarief.
 
-2. Behoudens bij algemene maatregel van bestuur te geven voorschriften is het verbod tot het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken of vervoeren van de in de [artikelen 3, eerste lid, onderdelen a, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), eerste lid bedoelde middelen en tot het bezitten en aanwezig hebben van die middelen en van de in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), bedoelde middelen niet van toepassing:
+2. Behoudens bij algemene maatregel van bestuur te geven voorschriften is het verbod tot het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken of vervoeren van de in de [artikelen 3, eerste lid, onderdelen a, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), eerste lid bedoelde middelen en tot het bezitten en aanwezig hebben van die middelen en van de in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), bedoelde middelen niet van toepassing:
 
 - a. op gevestigde apothekers en geneeskundigen tot het afleveren van geneesmiddelen bevoegd, mits zij deze middelen slechts voor geneeskundig doel bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren, bezitten of aanwezig hebben, en bij een en ander in acht nemen de bepalingen van de [Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486) of de bepalingen die deze wet te eniger tijd vervangen, en de nadere voorschriften door Onze Minister te geven om naleving van de bepalingen van het Enkelvoudig Verdrag te verzekeren;
 
@@ -185,11 +161,11 @@ Voor een verlof kan een jaarlijkse vergoeding worden geheven overeenkomstig een 
 
 - a. [artikel 3, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), voor zover het betreft het vervoeren;
 
-- b. [artikel 3, eerste lid, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), voor zover het betreft de in dat lid, onderdelen a, c, d, e en f genoemde middelen;
+- b. [artikel 3, eerste lid, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), voor zover het betreft de in dat lid, onderdelen a, c, d, e en f genoemde middelen;
 
 - c. [artikel 3a, eerste lid, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01);
 
-- d. [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), voor zover het betreft de in dat lid, onderdelen a en b genoemde middelen.
+- d. [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), voor zover het betreft de in dat lid, onderdelen a en b genoemde middelen.
 
 4. De volgende verboden zijn niet van toepassing op hen die aantonen dat zij deze middelen vervoeren in opdracht van een daartoe bevoegde:
 
@@ -201,7 +177,7 @@ Voor een verlof kan een jaarlijkse vergoeding worden geheven overeenkomstig een 
 
 - d. [artikel 3a, eerste lid, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), voor zover het betreft het bezitten en aanwezig hebben;
 
-- e. [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), met betrekking tot de in dat lid, onderdelen a en b, bedoelde middelen en voor zover het betreft het bezitten en aanwezig hebben.
+- e. [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), met betrekking tot de in dat lid, onderdelen a en b, bedoelde middelen en voor zover het betreft het bezitten en aanwezig hebben.
 
 ##### Artikel 8
 
@@ -289,55 +265,55 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 - a. indien degene het feit opzettelijk heeft gepleegd:
 
-- 1. hetzij met levenslange gevangenisstraf;
+   - 1. hetzij met levenslange gevangenisstraf;
 
-- 2. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
+   - 2. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
 
-- 3. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste tweeënzeventig maanden;
+   - 3. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste tweeënzeventig maanden;
 
-- 4. hetzij met beide straffen als bedoeld in de subonderdelen 2 en 3;
+   - 4. hetzij met beide straffen als bedoeld in de subonderdelen 2 en 3;
 
 - b. in de overige gevallen:
 
-- 1. hetzij met een tijdelijke gevangenisstraf van ten hoogste twaalf jaren;
+   - 1. hetzij met een tijdelijke gevangenisstraf van ten hoogste twaalf jaren;
 
-- 2. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste zesendertig maanden;
+   - 2. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste zesendertig maanden;
 
-- 3. hetzij met beide straffen als bedoeld in de subonderdelen 1 en 2.
+   - 3. hetzij met beide straffen als bedoeld in de subonderdelen 1 en 2.
 
 2. Degene die handelt in strijd met [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2a&z=2025-04-01&g=2025-04-01), [3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=5&z=2025-04-01&g=2025-04-01), voor zover het betreft de in artikel 3a, eerste lid, genoemde middelen, dan wel met een krachtens artikel 3a, tweede lid, of 4, derde lid, gestelde regel, dan wel met een voorwaarde of voorschrift gesteld krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6&z=2025-04-01&g=2025-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=8&z=2025-04-01&g=2025-04-01), wordt gestraft:
 
 - a. indien degene het feit opzettelijk heeft gepleegd:
 
-- 1. hetzij met levenslange gevangenisstraf;
+   - 1. hetzij met levenslange gevangenisstraf;
 
-- 2. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
+   - 2. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
 
-- 3. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste tweeënzeventig maanden;
+   - 3. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste tweeënzeventig maanden;
 
-- 4. hetzij met beide straffen als bedoeld in de subonderdelen 2 en 3.
+   - 4. hetzij met beide straffen als bedoeld in de subonderdelen 2 en 3.
 
 - b. in de overige gevallen:
 
-- 1. hetzij met een tijdelijke gevangenisstraf van ten hoogste twaalf jaren;
+   - 1. hetzij met een tijdelijke gevangenisstraf van ten hoogste twaalf jaren;
 
-- 2. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste zesendertig maanden;
+   - 2. hetzij met een geldboete van de vijfde categorie of vervangende hechtenis van ten hoogste zesendertig maanden;
 
-- 3. hetzij met beide straffen als bedoeld in de subonderdelen 1 en 2.
+   - 3. hetzij met beide straffen als bedoeld in de subonderdelen 1 en 2.
 
 3. Degene die handelt in strijd met [artikel 9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9c&z=2025-04-01&g=2025-04-01), of niet voldoet aan een vordering als bedoeld in [artikel 10b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=10b&z=2025-04-01&g=2025-04-01), of [artikel 10c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=10c&z=2025-04-01&g=2025-04-01), wordt gestraft met hechtenis van ten hoogste vier maanden of een geldboete van de derde categorie, dan wel met beide straffen.
 
-4. De gebruiker, huurder of eigenaar van een voertuig, vaartuig of luchtvaartuig, gebouw, erf of besloten terrein, waar een of meer van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), bedoelde middelen aanwezig worden bevonden, wordt gestraft met hechtenis van ten hoogste vier maanden of een geldboete van de derde categorie, dan wel met beide straffen, indien niet blijkt dat die aanwezigheid aldaar geoorloofd is. Degene is niet strafbaar, indien blijkt dat diegene alle nodige maatregelen heeft genomen om de ongeoorloofde aanwezigheid van de middelen te voorkomen.
+4. De gebruiker, huurder of eigenaar van een voertuig, vaartuig of luchtvaartuig, gebouw, erf of besloten terrein, waar een of meer van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), bedoelde middelen aanwezig worden bevonden, wordt gestraft met hechtenis van ten hoogste vier maanden of een geldboete van de derde categorie, dan wel met beide straffen, indien niet blijkt dat die aanwezigheid aldaar geoorloofd is. Degene is niet strafbaar, indien blijkt dat diegene alle nodige maatregelen heeft genomen om de ongeoorloofde aanwezigheid van de middelen te voorkomen.
 
 5. Al hetgeen, naar redelijkerwijze vermoed kan worden, gediend heeft of bestemd geweest is tot het plegen van een overtreding van deze wet, alsmede al hetgeen voorwerp van het begane strafbare feit heeft uitgemaakt, kan verbeurd worden verklaard, voor zover het zesde lid niet van toepassing was.
 
-6. Alle, onverschillig waar, ongeoorloofd aanwezig bevonden middelen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), vervallen met de voorwerpen die tot hun verpakking of berging gediend hebben, van rechtswege in eigendom aan de openbare lichamen Bonaire, Sint Eustatius en Saba, tenzij de eigenaar van de goederen binnen de tijd van drie maanden na de aanhaling bewijst dat deze ten onrechte is geschied of dat hij de goederen heeft, of dat deze aan hem ontvreemd zijn en hij deze op geoorloofde wijze aanwezig heeft gehad, in welke gevallen hem de aangehaalde middelen met de voorwerpen die tot hun verpakking of berging hebben gediend, voor zover deze voorwerpen hem in eigendom toebehoorden, worden teruggegeven.
+6. Alle, onverschillig waar, ongeoorloofd aanwezig bevonden middelen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), vervallen met de voorwerpen die tot hun verpakking of berging gediend hebben, van rechtswege in eigendom aan de openbare lichamen Bonaire, Sint Eustatius en Saba, tenzij de eigenaar van de goederen binnen de tijd van drie maanden na de aanhaling bewijst dat deze ten onrechte is geschied of dat hij de goederen heeft, of dat deze aan hem ontvreemd zijn en hij deze op geoorloofde wijze aanwezig heeft gehad, in welke gevallen hem de aangehaalde middelen met de voorwerpen die tot hun verpakking of berging hebben gediend, voor zover deze voorwerpen hem in eigendom toebehoorden, worden teruggegeven.
 
 7. De verbeurdverklaarde of aan de openbare lichamen Bonaire, Sint Eustatius en Saba vervallen middelen worden, met inachtneming van de door Onze Minister gegeven voorschriften, slechts verkocht, afgeleverd of verstrekt aan personen die deze in bezit of aanwezig mogen hebben. Zo nodig worden zij op last van Onze Minister onbruikbaar gemaakt of vernietigd.
 
 ##### Artikel 11a
 
-Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdeel A of B,](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) voor zover opzettelijk gepleegd, of [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), voor zover opzettelijk gepleegd, voor te bereiden of te bevorderen:
+Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdeel A of B,](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) voor zover opzettelijk gepleegd, of [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), voor zover opzettelijk gepleegd, voor te bereiden of te bevorderen:
 
 - a. een ander tracht te bewegen om dat feit te plegen, te doen plegen, mede te plegen of uit te lokken, om daarbij behulpzaam te zijn of om daartoe gelegenheid, middelen of inlichtingen te verschaffen;
 
@@ -345,13 +321,13 @@ Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of 
 
 - c. voorwerpen voorhanden heeft, waarvan degene weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van dat feit, wordt gestraft:
 
-- a. hetzij met levenslange gevangenisstraf;
+   - a. hetzij met levenslange gevangenisstraf;
 
-- b. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
+   - b. hetzij met een tijdelijke gevangenisstraf van ten hoogste vierentwintig jaren;
 
-- c. hetzij met een geldboete van de vijfde categorie;
+   - c. hetzij met een geldboete van de vijfde categorie;
 
-- d. hetzij met beide straffen als bedoeld in de onderdelen b en c.
+   - d. hetzij met beide straffen als bedoeld in de onderdelen b en c.
 
 ##### Artikel 11b
 
@@ -389,52 +365,52 @@ Voor de toepassing van de [artikelen 11a tot en met 11c](https://wetten.overheid
 
 ##### Artikel 14
 
-1. De bij of krachtens deze wet strafbaar gestelde feiten worden, voor zover zij bestaan in overtredingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2&z=2025-04-01&g=2025-04-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2a&z=2025-04-01&g=2025-04-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=5&z=2025-04-01&g=2025-04-01) of van de regels gesteld krachtens artikel 3, vijfde lid, 3a, tweede lid, of 4, derde lid, of in het niet voldoen aan de voorwaarden of voorschriften bij een verlof als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6&z=2025-04-01&g=2025-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=8&z=2025-04-01&g=2025-04-01) of bij de herroeping van een zodanig verlof gesteld, beschouwd als misdrijven en anders als overtredingen. De in de [artikelen 11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten worden beschouwd als misdrijven, die in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11&z=2025-04-01&g=2025-04-01), als overtredingen.
+1. De bij of krachtens deze wet strafbaar gestelde feiten worden, voor zover zij bestaan in overtredingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2&z=2025-04-01&g=2025-04-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2a&z=2025-04-01&g=2025-04-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=5&z=2025-04-01&g=2025-04-01) of van de regels gesteld krachtens artikel 3, vijfde lid, 3a, tweede lid, of 4, derde lid, of in het niet voldoen aan de voorwaarden of voorschriften bij een verlof als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6&z=2025-04-01&g=2025-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=8&z=2025-04-01&g=2025-04-01) of bij de herroeping van een zodanig verlof gesteld, beschouwd als misdrijven en anders als overtredingen. De in de [artikelen 11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten worden beschouwd als misdrijven, die in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11&z=2025-04-01&g=2025-04-01), als overtredingen.
 
 2. Op feiten die vallen onder een strafbepaling van deze wet, zijn de strafbepalingen niet van toepassing die voorkomen in wetten die gaan over de invoerrechten en accijnzen.
 
 3. Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) is toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius en Saba schuldig maakt aan:
 
-- a. een van de in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten voor zover die zijn gepleegd om opzettelijk handelen in strijd met [artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), of [artikel 3a, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), voor te bereiden of te bevorderen;
+- a. een van de in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten voor zover die zijn gepleegd om opzettelijk handelen in strijd met [artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), of [artikel 3a, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), voor te bereiden of te bevorderen;
 
 - b. poging tot of deelneming aan het opzettelijk handelen in strijd met [artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [artikel 3a, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), of [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01).
 
 4. Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is toepasselijk op een van de in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11&z=2025-04-01&g=2025-04-01), en [11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.
 
-##### Artikel 15
-
-Deze wet wordt aangehaald als: Opiumwet 1960 BES.
-
 ##### Artikel 14a
 
 1. De gezaghebber is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf:
 
-- a. een middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;
+- a. een middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;
 
-- b. een voorwerp als bedoeld in [artikel 11a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01), voorhanden is.
+- b. een voorwerp als bedoeld in [artikel 11a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01), voorhanden is.
 
 2. Voor de toepassing van het eerste lid wordt onder een voorwerp mede verstaan een stof.
 
 3. Het eerste lid is niet van toepassing, indien de woning, het lokaal of het daarbij behorende erf gebruikt wordt ter uitoefening van de artsenijbereidkunst, geneeskunst, tandheelkunst of diergeneeskunde door onderscheidenlijk een apotheker, arts, tandarts of dierenarts.
 
-4. [Artikel 1:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), en de [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.3) zijn van overeenkomstige toepassing, met uitzondering van de [artikelen 4:85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:85), [4:88](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:88), [4:91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:91), [4:95](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95), [4:96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:100](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:100), [4:107](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:107), [4:108](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:108), [4:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:109), [4:111, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:111),[4:118](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:118), [4:120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:120), en [5:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a), en met dien verstande dat:
+4. [Artikel 1:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), en de [titels 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) en [5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.3) zijn van overeenkomstige toepassing, met uitzondering van de [artikelen 4:85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:85), [4:88](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:88), [4:91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:91), [4:95](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95), [4:96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:100](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:100), [4:107](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:107), [4:108](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:108), [4:109](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:109), [4:111, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:111),[4:118](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:118), [4:120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:120), en [5:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a), en met dien verstande dat:
 
-- a. in [artikel 4:89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89), in plaats van «euro» wordt gelezen «US dollar»;
+- a. in [artikel 4:89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89), in plaats van «euro» wordt gelezen «US dollar»;
 
 - b. in de [artikelen 4:93, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), [4:98, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), [4:105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:105), en [4:110, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:110), in plaats van «Burgerlijk Wetboek» wordt gelezen «Burgerlijk Wetboek BES»;
 
-- c. in [artikel 4:98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), in plaats van «artikel 120, eerste lid,» wordt gelezen «artikel 120»;
+- c. in [artikel 4:98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), in plaats van «artikel 120, eerste lid,» wordt gelezen «artikel 120»;
 
-- d. in plaats van [artikel 4:98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), wordt gelezen: «Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan USD 22.»;
+- d. in plaats van [artikel 4:98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), wordt gelezen: «Wettelijke rente is niet verschuldigd indien het bedrag ervan bij enige of laatste betaling minder bedraagt dan USD 22.»;
 
-- e. in [artikel 4:113, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), in plaats van de daar genoemde bedragen achtereenvolgens wordt gelezen «USD 8», «USD 550», «USD 18» en «USD 550»;
+- e. in [artikel 4:113, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), in plaats van de daar genoemde bedragen achtereenvolgens wordt gelezen «USD 8», «USD 550», «USD 18» en «USD 550»;
 
-- f. in [artikel 4:116](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116) en [4:123](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123) in plaats van «Wetboek van Burgerlijke Rechtsvordering» wordt gelezen «Wetboek van Burgerlijke Rechtsvordering BES»;
+- f. in [artikel 4:116](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116) en [4:123](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123) in plaats van «Wetboek van Burgerlijke Rechtsvordering» wordt gelezen «Wetboek van Burgerlijke Rechtsvordering BES»;
 
-- g. in [artikel 5:1, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1), in plaats van «artikel 51, tweede en derde lid, van het Wetboek van Strafrecht» wordt gelezen «artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES»;
+- g. in [artikel 5:1, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1), in plaats van «artikel 51, tweede en derde lid, van het Wetboek van Strafrecht» wordt gelezen «artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES»;
 
-- h. in plaats van [artikel 5:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27), wordt gelezen: «De titels X en XI van het Derde Boek van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, met dien verstande dat de zinsnede «en zoveel mogelijk de grond van de verdenking» vervalt, en 160, eerste lid, en met dien verstande dat de machtiging in afwijking van artikel 156, eerste lid, wordt verleend door de gezaghebber, het legitimatiebewijs in afwijking van artikel 162, derde lid, eerste zin, wordt uitgegeven door de gezaghebber en het schriftelijk verslag in afwijking van artikel 163, derde lid, eerste zin, wordt toegezonden aan de gezaghebber.».
+- h. in plaats van [artikel 5:27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27), wordt gelezen: «De titels X en XI van het Derde Boek van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, met dien verstande dat de zinsnede «en zoveel mogelijk de grond van de verdenking» vervalt, en 160, eerste lid, en met dien verstande dat de machtiging in afwijking van artikel 156, eerste lid, wordt verleend door de gezaghebber, het legitimatiebewijs in afwijking van artikel 162, derde lid, eerste zin, wordt uitgegeven door de gezaghebber en het schriftelijk verslag in afwijking van artikel 163, derde lid, eerste zin, wordt toegezonden aan de gezaghebber.».
 
 5. De in het vierde lid, onderdelen d en e, genoemde bedragen kunnen bij regeling van Onze Minister van Justitie en Veiligheid worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
 6. De gezaghebber kan de geldschuld die voortvloeit uit het besluit, bedoeld in het eerste lid, invorderen bij dwangbevel.
+
+##### Artikel 15
+
+Deze wet wordt aangehaald als: Opiumwet 1960 BES.

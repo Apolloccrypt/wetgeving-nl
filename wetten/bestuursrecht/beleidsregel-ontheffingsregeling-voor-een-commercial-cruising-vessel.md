@@ -1,43 +1,17 @@
 ---
 title: "Beleidsregel ontheffingsregeling voor een Commercial Cruising Vessel"
 identifier: "BWBR0027553"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2004-04-06"
-last_updated: "2004-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027553"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "10507543"
-version_id: "17307902"
-internal_id: "C23876871"
-label_id: "10482544"
-dtd_version: "2.0"
-original_entry_into_force: "2004-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027553/2004-04-06/0"
-intitule_bron: "Stcrt.2004-67"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-03-31"
-intitule_published: "2004-04-06"
-intitule_in_force: "2004-04-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-67"
-original_signed_date: "2004-03-31"
-original_published_date: "2004-04-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-67-p18-SC64568"
-entry_into_force_date: "2004-04-06"
-jci_1_3: "jci1.3:c:BWBR0027553&z=2004-04-06&g=2004-04-06"
-jci_1_0: "1.0:c:BWBR0027553&g=2004-04-06"
-citeertitel_status: "officieel"
-signed_date: "2004-03-31"
-entry_into_force: "2004-04-06"
+publicatiedatum: 2004-04-06
+laatste_update: 2004-04-06
+status: geldig
+toestand: 2004-04-06
+bron: "https://wetten.overheid.nl/BWBR0027553"
+opgehaald: 2026-08-15
 ---
+
 # Beleidsregel ontheffingsregeling voor een Commercial Cruising Vessel
-
-Gelet op [artikel 5, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5);
-
-Besluit:
 
 ##### Artikel 1
 

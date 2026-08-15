@@ -1,49 +1,36 @@
 ---
 title: "Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692"
+citeertitel: "Inwerkingtreding van de nieuwe overeenkomst met Canada tot het vermijden van dubbele belasting"
 identifier: "BWBR0027791"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1987-08-24"
-last_updated: "1987-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027791"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10578253"
-version_id: "17458712"
-internal_id: "C24150501"
-label_id: "10553124"
-dtd_version: "2.0"
-original_entry_into_force: "1987-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027791/1987-08-24/0"
-intitule_bron: "Infob.1987-0"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-08-24"
-intitule_published: "1987-01-01"
-intitule_in_force: "1987-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1987-0"
-original_signed_date: "1987-08-24"
-original_published_date: "1987-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1987-08-24"
-jci_1_3: "jci1.3:c:BWBR0027791&z=1987-08-24&g=1987-08-24"
-jci_1_0: "1.0:c:BWBR0027791&g=1987-08-24"
-citeertitel_status: "redactioneel"
-short_title: "Inwerkingtreding van de nieuwe overeenkomst met Canada tot het vermijden van dubbele belasting"
-signed_date: "1987-08-24"
-entry_into_force: "1987-08-24"
+publicatiedatum: 1987-08-24
+laatste_update: 1987-08-24
+status: geldig
+toestand: 1987-08-24
+bron: "https://wetten.overheid.nl/BWBR0027791"
+opgehaald: 2026-08-15
 ---
+
 # Resolutie Ministerie van Financiën 24 augustus 1987, nr. 087-1692
 
 Hierbij deel ik u mede dat de op 27 mei 1986 ondertekende Overeenkomst tussen Nederland en Canada tot het vermijden van dubbele belasting op 21 augustus 1987 in werking is getreden. Ingevolge artikel 30, eerste lid, vinden de bepalingen van de Overeenkomst toepassing vanaf 1 januari 1987. Artikel 30 bevat evenwel een algemene overgangsbepaling (derde lid) en een drietal bijzondere overgangsbepalingen (vierde, vijfde en zesde lid) welke ertoe leiden dat sommige bepalingen van de nieuwe Overeenkomst op een van 1 januari 1987 afwijkend tijdstip toepassing kunnen vinden.
 
+Algemene Overgangsbepaling (artikel 30, derde lid)
+
 Indien enige bepaling van de oude Overeenkomst van 2 april 1957, met uitzondering van die bepalingen die het onderwerp zijn van de bijzondere overgangsbepalingen (artikel 30, vierde, vijfde en zesde lid), een grotere vermindering van belasting zou hebben opgeleverd dan ingevolge de nieuwe Overeenkomst wordt verleend, blijft zulk een bepaling als hiervoor bedoeld van toepassing voor het belastingjaar 1987.
 
+Bijzondere overgangsbepaling met betrekking tot deelnemingsdividenden (artikel 30, vierde lid)
+
 Krachtens de bijzondere overgangsbepaling neergelegd in artikel 30, vierde lid, van de nieuwe Overeenkomst kunnen moedervennootschappen, die op 27 mei 1986 (datum ondertekening nieuwe Overeenkomst) inwoner van Nederland of Canada waren, nog tot en met 31 december 1988 aanspraak maken op de toepassing van het nul-tarief van artikel VII, derde lid, van de oude Overeenkomst indien aan de in dit artikel gestelde voorwaarden wordt voldaan. Verder is in dit vierde lid vastgelegd dat eventueel behaalde vervreemdingswinsten bij de vervreemding van deelnemingen geen belemmering zullen zijn voor de toepassing van het hiervoor bedoelde nul-tarief. Voorts is in dit vierde lid nog vastgelegd, dat in het geval van een juridische fusie (,,merger’’) het opvolgende lichaam op een lijn wordt gesteld met het lichaam dat in het opvolgende lichaam is opgegaan.
+
+Bijzondere overgangsbepaling met betrekking tot rente op hypothecaire vorderingen (artikel 30, vijfde lid)
 
 De rente op hypothecaire vorderingen die inwoners van Nederland uit Canada ontvangen, is onder de oude Overeenkomst vrijgesteld van belastingheffing in Nederland. Deze vrijstelling met progressievoorbehoud komt onder de nieuwe Overeenkomst te vervallen.
 
 Voor hypothecaire rente ontvangen ingevolge overeenkomsten die op 27 mei 1986 (datum ondertekening nieuwe Overeenkomst) reeds bestonden, blijft de vrijstelling van belastingheffing in Nederland echter gehandhaafd tot en met 30 juni 1987, voor zover het althans rente betreft die betrekking heeft op een tijdvak voor die datum.
+
+Bijzondere overgangsbepalingen met betrekking tot bepaalde royalty’s (artikel 30, zesde lid)
 
 Krachtens de oude Overeenkomst zijn royalty’s in beginsel aan een bronbelasting van ten hoogste 15% onderworpen. Een uitzondering geldt voor zogenaamde culturele royalty’s, welke van bronbelasting zijn vrijgesteld.
 
@@ -51,15 +38,31 @@ Onder de nieuwe Overeenkomst zijn royalty’s, waaronder begrepen vergoedingen v
 
 Krachtens de bijzondere overgangsbepaling neergelegd in artikel 30, zesde lid, van de nieuwe Overeenkomst kunnen echter vergoedingen van welke aard ook voor het gebruik van of voor het recht van gebruik van nijverheids- of handelsuitrusting of wetenschappelijke uitrusting, betaald ingevolge overeenkomsten die op 27 mei 1986 (datum ondertekening van de nieuwe Overeenkomst) reeds bestonden, pas na 31 december 1988 in het bronland aan belasting worden onderworpen.
 
+Pensioenen en sociale verzekeringsuitkeringen Oude Overeenkomst
+
 De oude Overeenkomst bevat geen specifieke regeling voor pensioenen, waardoor particuliere pensioenen, overheidspensioenen en sociale verzekeringspensioenen genoten door inwoners van Canada op grond van de zogenaamde saldobepaling (artikel XVII) uitsluitend in Canada belastbaar zijn.
+
+Nieuwe Overeenkomst
 
 In de nieuwe Overeenkomst zijn met betrekking tot vanuit Nederland aan inwoners van Canada betaalde particuliere pensioenen, overheidspensioenen, afkoopsommen uit een pensioenregeling of opkomende bij de afkoop, en sociale verzekeringsuitkeringen specifieke regelingen getroffen, waarop hierna nader wordt ingegaan.
 
+Particuliere pensioenen
+
 Particuliere pensioenen genoten door inwoners van Canada mogen ingevolge artikel 18, tweede lid, in Nederland worden belast tot een bedrag van maximaal 15% van het bruto-pensioen. In dit verband wordt onder pensioen mede begrepen een door of via de werkgever door middel van een lijfrenteverzekering gevormd pensioen.
+
+Overheidspensioenen
 
 Overheidspensioenen genoten door inwoners van Canada zijn ingevolge de eerste volzin van het derde lid van artikel 18 in Nederland belastbaar. De heffing wordt evenwel ingevolge de tweede volzin van dit lid beperkt tot een bedrag van maximaal 15% van het bruto-pensioen indien:
 
+- a) de pensioengenieter de Canadese nationaliteit bezit of
+
+- b) het pensioen wordt genoten ter zake van diensten bewezen in het kader van een op winst gericht bedrijf, die niet het karakter van werkzaamheden van publiekrechtelijke aard hebben.
+
+Afkoopsommen
+
 Afkoopsommen van pensioenen genoten door inwoners van Canada zijn in Nederland volledig belastbaar
+
+Sociale verzekeringsuitkeringen
 
 De door inwoners van Canada genoten sociale-verzekeringsuitkeringen zoals bijvoorbeeld de pensioenen en uitkeringen ingevolge de AOW, AWW en AAW, zijn uitsluitend in Nederland belastbaar.
 
@@ -69,7 +72,11 @@ Ten aanzien van inwoners van Canada die een Nederlands overheidspensioen of een 
 
 Dit geldt ook ten aanzien van inwoners van Canada die vanuit Nederland een particulier pensioen ontvangen. Dit brengt met zich mede dat deze pensioenen de sociale verzekeringspensioenen pas vanaf 1 januari 1988 in de Nederlandse belastingheffing betrokken dienen te worden.
 
+Op eigen verzoek Nederlandse belastingheffing in 1987
+
 Mocht evenwel de nieuwe Overeenkomst in voorkomend geval tot een voor belanghebbende gunstiger resultaat leiden, dan kan die belanghebbende op eigen verzoek reeds in 1987 in de Nederlandse belastingheffing worden betrokken (zie ook hierna).
+
+Praktische gevolgen voor de heffing van de loonbelasting
 
 Onder de werking van de oude Overeenkomst zijn verklaringen ex [artikel 27, derde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) (hierna ,,verklaringen ex art. 27 lid 3 LB’’) afgegeven op grond waarvan op onder meer particuliere pensioenen, overheidspensioenen en sociale verzekeringspensioenen inhouding van Nederlandse loonbelasting achterwege is gebleven. Gelet op de hiervoor beschreven wijzigingen zullen deze verklaringen ex art. 27 lid 3 LB per 1 januari 1988 ingetrokken dienen te worden.
 
@@ -79,7 +86,11 @@ In het geval dat Nederland op grond van artikel 18 van de nieuwe Overeenkomst ov
 
 Inspecteur geeft op de verklaring ex[art. 27 lid 3 LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) het in te houden loonbelastingbedrag aan Wanneer een pensioen waarover het Nederlandse heffingsrecht beperkt is, te zamen in een bedrag met bijvoorbeeld de AOW- of AWW-uitkering wordt uitbetaald, kan de berekening van het maximaal in te houden loonbelastingbedrag aanleiding geven tot moeilijkheden. Teneinde inhoudingsplichtigen niet te belasten met de uitvoeringsproblemen van deze regeling heb ik besloten dat het in te houden loonbelastingbedrag door de betrokken inspecteur der directe belastingen wordt berekend en door hem wordt vermeld op de verklaring ex art. 27 lid 3 LB. In verband met deze berekening zal belastingplichtige in ieder geval elk jaar opnieuw om afgifte van een verklaring dienen te verzoeken.
 
+Berekening maximaal in te houden loonbelastingbedrag
+
 Indien aan een persoon die in Canada woonachtig is een pensioen waarover de heffing op grond van de Overeenkomst tot 15% is beperkt wordt betaald, geeft de berekening van het in te houden loonbelastingbedrag geen problemen, hetgeen uit onderstaand voorbeeld moge blijken.
+
+Voorbeeld
 
 Particulier pensioen per jaar: f 24 000. Maximaal mag worden ingehouden: 15% van f 24 000 = f 3600. Bij betaling per maand bedraagt de maximaal in te houden belasting derhalve: f 3600 : 12 = f 300 per betaling
 
@@ -96,6 +107,8 @@ Als de belasting minder bedraagt is ten onrechte om afgifte van een verklaring e
 Als de belasting inderdaad meer dan 15% bedraagt, dient de totale belasting over de maandelijkse AOW-uitkering en de maandelijkse pensioenuitkering te worden bepaald op de aan de hiervoor bedoelde AOW-component toe te rekenen belasting, verhoogd met 15% van het maandbedrag van het pensioen.
 
 De over het gezamenlijke bedrag van de AOW-vakantie-uitkering en de eventuele pensioen-vakantie-uitkering in te houden loonbelasting wordt berekend door op de AOW-component de tabel voor bijzondere beloningen toe te passen en daarbij op te tellen 15% van de pensioen-vakantie-uitkering.
+
+Cijfervoorbeeld
 
 AOW-uitkering (gefingeerd) 1000
 
@@ -135,28 +148,18 @@ Totale inhouding op vakantie-uitkering: 540
 
 Zo nodig kan aan de inhoudingsplichtige worden verzocht aan te geven hoe groot de AOW-component en hoe groot de pensioen-component bedraagt in het door hem totaal uitgekeerde bedrag.
 
+Praktische gevolgen voor de heffing van de inkomstenbelasting
+
 Voor de beoordeling van de vraag of in Canada woonachtige genieters van Nederlandse pensioenen of sociale verzekeringspensioenen door de Inspectie der directe belastingen (buitenlanders) te Brunssum voor de inkomstenbelasting beschreven dienen te worden behoort met deze pensioenen pas rekening te worden gehouden met ingang van het belastingjaar 1988.
 
 Dit is uiteraard niet het geval indien een belastingplichtige die in het genot is van dergelijke pensioenen opteert voor Nederlandse belastingheffing in 1987. Alsdan wordt al in 1987 met vorenbedoelde inkomsten rekening gehouden. Ten aanzien van belastingplichtigen die reeds op voornoemde Inspectie beschreven zijn worden pensioenen en sociale verzekeringspensioenen in 1987, behoudens het geval waarin voor belastingheffing in 1987 wordt geopteerd, niet tot hun belastbaar binnenlandse inkomen gerekend.
 
 Uiteraard geldt ook voor de berekening van de inkomstenbelasting dat de Nederlandse belastingheffing over bepaalde in artikel 18 van de nieuwe Overeenkomst vermelde inkomsten beperkt blijft tot maximaal 15% van die inkomsten. Deze inkomsten dienen echter wel volledig in aanmerking te worden genomen bij de bepaling van de over de overige in Nederland belastbare inkomsten verschuldigde belasting.
 
+Toepassing hardheidsclausule ten aanzien van genieters van Overheidspensioenen die niet de Canadese nationaliteit bezitten
+
 Bij de behandeling van de goedkeuringswet van de nieuwe Overeenkomst is op wens van de Tweede Kamer door mij toegezegd dat ten aanzien van die genieters van overheidspensioenen die ten tijde van het tekenen van de Overeenkomst (27 mei 1986) in Canada woonachtig waren, in het kader van de hardheidsclausule een regeling zou worden getroffen, op grond waarvan teruggaaf kan worden gevraagd van de op het overheidspensioen ingehouden dan wel daarover geheven Nederlandse belasting voor zover deze de in Canada geheven belasting overtreft en derhalve aldaar onverrekenbaar is. Gelet op het feit dat op een Nederlands overheidspensioen toekomend aan een inwoner van Canada die tevens de Canadese nationaliteit bezit, gemiddeld 15% Nederlandse belasting mag drukken is op grond van het gelijkheidsbeginsel in de regeling een grens gesteld in die zin dat teruggave uitsluitend plaatsvindt indien en voor zover de Nederlandse belastingheffing meer bedraagt dan 15% van dit pensioen.
 
 De Inspectie der directe belastingen (buitenlanders) te Brunssum zal deze teruggaafregeling uitvoeren. Belanghebbenden zijn door middel van een aan hen toegezonden folder over het vorenstaande geinformeerd (zie [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027791&bijlage=II&z=1987-08-24&g=1987-08-24)).
 
 Indien belastingplichtige punt c van het bij de folder gevoegde aanvraagformulier heeft ingevuld zal de Inspecteur der directe belastingen te Heerlen dit verzoek om afgifte van een verklaring ex [art. 27 lid 3 LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27) doorzenden aan zijn ter zake bevoegde ambtgenoot.
-
-## Bijlage I. bij Resolutie 24 augustus 1987, nr. 087-1692
-
-In augustus 1987 is een nieuw belastingverdrag met Canada in werking getreden. Het nieuwe verdrag bevat o.a. gewijzigde bepalingen met betrekking tot inhoudingen op pensioenen en sociale-verzekeringsuitkeringen, welke worden uitbetaald aan inwoners van Canada.
-
-Indien u pensioenuitkeringen, al dan niet te zamen met een sociale-verzekeringsuitkering, uitbetaalt aan inwoners van Canada, verzoek ik u contact op te nemen met de afdeling loonbelasting van mijn inspectie.
-
-De onder de werking van het oude belastingverdrag verstrekte verklaringen op grond waarvan de inhouding van loonbelasting op de desbetreffende uitkeringen achterwege kon blijven, verliezen met ingang van 1 januari 1988 hun geldigheid.
-
-De inspecteur.
-
-## Bijlage II. bij Resolutie 24 augustus 1987, nr. 087-1692
-
-(niet opgenomen; achterhaald)

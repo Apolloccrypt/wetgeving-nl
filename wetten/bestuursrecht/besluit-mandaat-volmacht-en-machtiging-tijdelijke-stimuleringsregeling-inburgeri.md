@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister voor Wonen, Wijken en Integratie van 30 maart 2010, nr. DDS2010010102, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Tijdelijke stimuleringsregeling inburgering op de werkvloer"
+citeertitel: "Besluit mandaat, volmacht en machtiging Tijdelijke stimuleringsregeling inburgering op de werkvloer"
 identifier: "BWBR0027484"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-04-13"
-last_updated: "2010-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027484"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10494833"
-version_id: "17288262"
-internal_id: "C23851291"
-label_id: "10469834"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027484/2010-04-13/0"
-intitule_bron: "Stcrt.2010-5483"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-30"
-intitule_published: "2010-04-12"
-intitule_in_force: "2010-04-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-5483"
-original_signed_date: "2010-03-30"
-original_published_date: "2010-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-5483"
-entry_into_force_date: "2010-04-13"
-jci_1_3: "jci1.3:c:BWBR0027484&z=2010-04-13&g=2010-04-13"
-jci_1_0: "1.0:c:BWBR0027484&g=2010-04-13"
-citeertitel_status: "redactioneel"
-short_title: "Besluit mandaat, volmacht en machtiging Tijdelijke stimuleringsregeling inburgering op de werkvloer"
-signed_date: "2010-03-30"
-entry_into_force: "2010-04-13"
+publicatiedatum: 2010-04-13
+laatste_update: 2010-04-13
+status: geldig
+toestand: 2010-04-13
+bron: "https://wetten.overheid.nl/BWBR0027484"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 30 maart 2010, nr. DDS2010010102, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Tijdelijke stimuleringsregeling inburgering op de werkvloer
-
-Handelende in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
-
-Gezien de schriftelijke instemming van de directeur van het Agentschap SZW van maart 2010;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +39,3 @@ gevolgd door functieaanduiding, handtekening en naam van de betrokken functionar
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,65 +1,39 @@
 ---
 title: "Wet van 17 juli 2024, houdende regels ter bevordering van de digitale weerbaarheid van bedrijven (Wet bevordering digitale weerbaarheid bedrijven)"
+citeertitel: "Wet bevordering digitale weerbaarheid bedrijven"
 identifier: "BWBR0050130"
-country: "nl"
-rank: "wet"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050130"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "17202983"
-version_id: "30292072"
-internal_id: "C43496921"
-label_id: "17108824"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050130/2024-10-01/0"
-intitule_bron: "Stb.2024-236"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-17"
-intitule_published: "2024-08-13"
-intitule_in_force: "2024-09-12"
-intitule_status: "goed"
-original_publication: "Stb.2024-236"
-original_signed_date: "2024-07-17"
-original_published_date: "2024-08-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "36270"
-original_url_id: "stb-2024-236"
-entry_into_force_date: "2024-10-01"
-jci_1_3: "jci1.3:c:BWBR0050130&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0050130&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet bevordering digitale weerbaarheid bedrijven"
-signed_date: "2024-07-17"
-entry_into_force: "2024-10-01"
+publicatiedatum: 2024-10-01
+laatste_update: 2026-08-15
+status: geldig
+toestand: 2026-08-15
+bron: "https://wetten.overheid.nl/BWBR0050130"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 juli 2024, houdende regels ter bevordering van de digitale weerbaarheid van bedrijven (Wet bevordering digitale weerbaarheid bedrijven)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de weerbaarheid van niet-vitale bedrijven te versterken tegen digitale dreigingen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanbieder:** aanbieder als bedoeld in [artikel 1 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=1);
+- *bedrijf:* in Nederland gevestigde natuurlijke persoon of privaatrechtelijke rechtspersoon die bedrijfsmatige activiteiten uitvoert, niet zijnde essentiële entiteit of belangrijke entiteit;
 
-- **bedrijf:** in Nederland gevestigde natuurlijke persoon of privaatrechtelijke rechtspersoon die bedrijfsmatige activiteiten uitvoert, niet zijnde vitale aanbieders of digitaledienstverleners als bedoeld in [artikel 1 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=1);
+- *belangrijke entiteit:* belangrijke entiteit als bedoeld in [artikel 1 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=1);
 
-- **CSIRT voor digitale diensten:** CSIRT voor digitale diensten als bedoeld in [artikel 1 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=1);
+- *CSIRT:* krachtens [artikel 16, eerste lid, van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=16) aangewezen Computer security incident response team;
 
-- **incident:** incident als bedoeld in artikel 4, onder 7, van de NIB-richtlijn;
+- *essentiële entiteit:* essentiële entiteit als bedoeld in [artikel 1 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=1);
 
-- **netwerk- en informatiesysteem:** netwerk- en informatiesysteem als bedoeld in artikel 4, onder 1, van de NIB-richtlijn;
+- *incident:* incident als bedoeld in artikel 6, onder 6, van de NIS2-richtlijn;
 
-- **NIB-richtlijn:** [richtlijn (EU) 2016/1148](32016L1148) van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);
+- *netwerk- en informatiesysteem:* netwerk- en informatiesysteem als bedoeld in artikel 6, onder 1, van de NIS2-richtlijn;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
+- *NIS2-richtlijn:*
+ Richtlijn (EU) 2022/2555 van het Europees Parlement en de Raad van 14 december 2022 betreffende maatregelen voor een hoog gezamenlijk niveau van cyberbeveiliging in de Unie, tot wijziging van Verordening (EU) nr. 910/2014 en Richtlijn (EU) 2018/1972 en tot intrekking van Richtlijn (EU) 2016/1148*(PbEU* 2022, L 333);
+
+- *Onze Minister:* Onze Minister van Economische Zaken.
 
 ##### Artikel 2. Taken van Onze Minister
 
@@ -69,7 +43,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het informeren en adviseren van bedrijven over kwetsbaarheden, dreigingen en incidenten die betrekking kunnen hebben op hun netwerk- en informatiesystemen;
 
-- c. indien relevant het verstrekken van ingevolge onder a verkregen gegevens aan bedrijven.
+- c. indien relevant het verstrekken van ingevolge onder a verkregen gegevens aan bedrijven.
 
 2. Voorts heeft Onze Minister, ter verdere versterking van de digitale weerbaarheid van de Nederlandse samenleving of ter voorkoming van nadelige maatschappelijke gevolgen in en buiten Nederland, de volgende taken:
 
@@ -77,37 +51,33 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. samenwerken met bestuursorganen en rechtspersonen op het gebied van digitale weerbaarheid;
 
-- c. het verstrekken van ingevolge het eerste lid, onder a, verkregen gegevens over dreigingen en incidenten aan de Minister van Justitie en Veiligheid, ten behoeve van de uitvoering van diens taken, bedoeld in [artikel 3, eerste lid, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=3);
-
-- d. het verstrekken van ingevolge het eerste lid, onder a, verkregen gegevens over dreigingen en incidenten aan het CSIRT voor digitale diensten, ten behoeve van de uitvoering van diens taken, bedoeld in [artikel 4, vierde lid, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4).
+- c. het verstrekken van ingevolge het eerste lid, onder a, verkregen gegevens over dreigingen en incidenten aan een CSIRT, ten behoeve van de uitvoering van diens taken als bedoeld in [artikel 16, tweede lid, van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=16).
 
 ##### Artikel 3. Verstrekking gegevens aan Onze Minister
 
-1. Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taken.
+1. Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2026-08-15&g=2026-08-15), genoemde taken.
 
 2. De rechtspersoon of het orgaan kan op grond van het eerste lid gevraagde persoonsgegevens ook aan Onze Minister verstrekken als die verstrekking onverenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verzameld.
 
 ##### Artikel 4. Verstrekking van vertrouwelijke gegevens door Onze Minister
 
-1. Ter uitvoering van de in [artikel 2, eerste en tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taak verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een bedrijf die hij ingevolge deze wet verkrijgt, als:
+1. Ter uitvoering van de in [artikel 2, eerste en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2026-08-15&g=2026-08-15), genoemde taak verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een bedrijf die hij ingevolge deze wet verkrijgt, als:
 
 - a. de geheimhouding van die gegevens onvoldoende is geborgd, of
 
 - b. onvoldoende is gewaarborgd dat zij uitsluitend worden gebruikt voor het doel waarvoor zij worden verstrekt.
 
-2. Ter uitvoering van de in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taken kan Onze Minister vertrouwelijke gegevens met betrekking tot een vitale aanbieder als bedoeld in [artikel 1 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=1) of een andere aanbieder die onderdeel is van de Rijksoverheid die hij ingevolge deze wet verkrijgt, zonder diens instemming verstrekken aan de Minister van Justitie en Veiligheid, ten behoeve van de uitvoering van diens taken als bedoeld in [artikel 3, eerste lid, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=3).
+2. Ter uitvoering van de in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2026-08-15&g=2026-08-15), genoemde taken kan Onze Minister vertrouwelijke gegevens met betrekking tot een essentiële entiteit of belangrijke entiteit die hij ingevolge deze wet verkrijgt, zonder dier instemming verstrekken aan een CSIRT, ten behoeve van de uitvoering van diens taken als bedoeld in [artikel 16, tweede lid, van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=16).
 
-3. Ter uitvoering van de in [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taken kan Onze Minister vertrouwelijke gegevens met betrekking tot een digitaledienstverlener als bedoeld in [artikel 1 van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=1) die hij ingevolge deze wet verkrijgt, zonder diens instemming verstrekken aan het CSIRT voor digitale diensten, ten behoeve van de uitvoering van diens taken als bedoeld in [artikel 4, vierde lid, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4).
+3. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) is niet van toepassing op gegevens als bedoeld in het eerste en tweede lid, die herleid kunnen worden tot een bedrijf of een in het tweede lid bedoelde entiteit, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking op grond van dit artikel.
 
-4. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) is niet van toepassing op gegevens als bedoeld in het eerste tot en met derde lid, die herleid kunnen worden tot een bedrijf of een in het tweede of derde lid bedoelde aanbieder onderscheidenlijk digitaledienstverlener, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking op grond van dit artikel.
+##### Artikel 5. (wijziging Wet beveiliging netwerk- en informatiesystemen)
 
-##### Artikel 5. (wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515))
+*Wijzigt de Wet beveiliging netwerk- en informatiesystemen.*
 
-Wijzigt de Wet beveiliging netwerk- en informatiesystemen.
+##### Artikel 6. (wijziging Wet open overheid)
 
-##### Artikel 6. (wijziging [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754))
-
-Wijzigt de Wet open overheid.
+*Wijzigt de Wet open overheid.*
 
 ##### Artikel 7. (toepasselijkheid in Caribisch Nederland)
 
@@ -120,5 +90,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 9. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet bevordering digitale weerbaarheid bedrijven.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

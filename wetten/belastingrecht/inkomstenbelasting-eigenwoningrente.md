@@ -1,43 +1,19 @@
 ---
 title: "Inkomstenbelasting, eigenwoningrente"
 identifier: "BWBR0027731"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-06-11"
-last_updated: "2010-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027731"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10552593"
-version_id: "17399482"
-internal_id: "C24057651"
-label_id: "10529244"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027731/2010-06-11/0"
-intitule_bron: "Stcrt.2010-8462"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-10"
-intitule_published: "2010-06-10"
-intitule_in_force: "2010-06-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-8462"
-original_signed_date: "2010-06-10"
-original_published_date: "2010-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-8462"
-entry_into_force_date: "2010-06-11"
-jci_1_3: "jci1.3:c:BWBR0027731&z=2010-06-11&g=2010-06-11"
-jci_1_0: "1.0:c:BWBR0027731&g=2010-06-11"
-citeertitel_status: "redactioneel"
-signed_date: "2010-06-10"
-entry_into_force: "2010-06-11"
+publicatiedatum: 2010-06-11
+laatste_update: 2010-06-11
+status: geldig
+toestand: 2010-06-11
+bron: "https://wetten.overheid.nl/BWBR0027731"
+opgehaald: 2026-08-15
 ---
+
 # Inkomstenbelasting, eigenwoningrente
 
-De Minister van Financiën heeft het volgende besloten.
-
-**Dit besluit bevat het beleid over de eigenwoningrente. Het vervangt het besluit van 29 oktober 2009, CPP2009/2148M en is aangevuld met de onderdelen over de eigenwoningrente uit het besluit van 1 oktober 2003, nr. CPP2003/1606M (woonverenigingen). Dit besluit is geactualiseerd en aangevuld met nieuwe beleidsstandpunten. Ook zijn enkele onderdelen redactioneel aangepast. Met deze redactionele aanpassingen is geen beleidswijziging bedoeld. Onderdeel 9 is niet aangepast maar zal binnenkort worden geactualiseerd.**
+*Dit besluit bevat het beleid over de eigenwoningrente. Het vervangt het besluit van 29 oktober 2009, CPP2009/2148M en is aangevuld met de onderdelen over de eigenwoningrente uit het besluit van 1 oktober 2003, nr. CPP2003/1606M (woonverenigingen). Dit besluit is geactualiseerd en aangevuld met nieuwe beleidsstandpunten. Ook zijn enkele onderdelen redactioneel aangepast. Met deze redactionele aanpassingen is geen beleidswijziging bedoeld. Onderdeel 9 is niet aangepast maar zal binnenkort worden geactualiseerd.*
 
 ### 1. Inleiding
 
@@ -45,7 +21,43 @@ Dit besluit behandelt de aftrek voor de inkomstenbelasting van de renten van de 
 
 In dit besluit zijn nieuwe standpunten opgenomen over de volgende onderwerpen:
 
+- – Onderdeel [3.](https://wetten.overheid.nl/BWBR0027731) is aangevuld naar aanleiding van de laatste ‘oogmerkarresten’ van de Hoge Raad.
+
+- – [3.1.2.](https://wetten.overheid.nl/BWBR0027731) (Gemengde leningen. Vrije keuze bij aflossing of toerekening eigenwoningschuld als een deel van woning naar box 3 verhuist). De goedkeuring voor aflossing was voorheen opgenomen onder [3.2.4.](https://wetten.overheid.nl/BWBR0027731) Toegevoegd is de vrije keuze van toerekening als een deel van de eigen woning naar box 3 verhuist. Verduidelijkt is dat bij overgang naar box 3 de eigenwoningschuld niet meer bedraagt dan het deel van de schuld dat overeenkomt met het deel van de oorspronkelijke aankoopprijs dat kan worden toegerekend aan het box 1-gedeelte.
+
+- – Geen saldering van betaalde en ontvangen rente bij een verbouwingsdepot gedurende de eerste zes maanden ([onderdeel 3.2.1.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Herfinanciering van de eigen woning is mogelijk met behoud van renteaftrek als de oude lening direct wordt afgelost met de nieuwe lening. ([onderdeel 3.5.](https://wetten.overheid.nl/BWBR0027731)). De goedkeuring voor herfinanciering bij schuldaflossing bij faillissement van een bank door verrekening geldt voor elke verrekening op grond van [artikel 53 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=53).
+
+- – Herbesteding van een box 3-lening leidt niet tot eigenwoningschuld. Herbesteding van een eigenwoningschuld voor verwerving, onderhoud, verbetering leidt wel weer tot een eigenwoningschuld. ([onderdeel 3.5.1.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – De financiering van huurderslasten leidt niet tot een eigenwoningschuld ([onderdeel 3.8.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Successierechtschulden en schulden (bij staking) van een onderneming zijn geen eigenwoningschuld. Verzoeken om toepassing van de hardheidsclausule worden afgewezen ([onderdeel 3.10.1.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Vanaf 1 januari 2010 kan de eigenwoningschuld ook bij doorstromers worden verhoogd met de lening voor de financieringskosten ([onderdeel 3.11.](https://wetten.overheid.nl/BWBR0027731)). Dit geldt ook voor leningen voor de financieringskosten die zijn afgesloten in 2004–2009.
+
+- – De rentebeperking na de 30-jaarsperiode in samenhang met eerder gebruik vrijstelling kapitaalverzekering is aangevuld met eerder gebruik van de vrijstelling voor de spaarrekening of beleggingsrecht eigen woning. Ook is een voorbeeld toegevoegd ([onderdeel 3.12.1](https://wetten.overheid.nl/BWBR0027731)). Daarnaast wordt de 30-jaarsperiode bij partners behandeld ([onderdeel 3.12.2](https://wetten.overheid.nl/BWBR0027731)).
+
+- – De tekst van verkoop van (ondergrond van) de woning gevolgd door uitgifte in erfpacht is aangepast ([onderdeel 3.13.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Borgstellingprovisie van kind aan de ouders kan aftrekbaar zijn ([onderdeel 4.5.1.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Kosten voor renteverlaging bij waardestijging eigen woning ([onderdeel 4.11.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Boete bij aflossing budgethypotheek ([onderdeel 4.12.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Annuleringskosten lening ([onderdeel 4.13.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Het beleid over rentebetaling door een ander is versoepeld ([onderdeel 7.](https://wetten.overheid.nl/BWBR0027731)).
+
+- – Renteaftrek bij woonverenigingen ([onderdeel 10.5.](https://wetten.overheid.nl/BWBR0027731)).
+
 ### 1.1. Gebruikte afkortingen
+
+| Wet op de inkomstenbelasting 1964 | Wet IB 1964 |
+| --- | --- |
+| Burgerlijk wetboek | BW |
 
 ### 2. Bijleenregeling
 
@@ -73,15 +85,25 @@ Leningen kunnen zijn aangewend voor verschillende doeleinden. Zo kan één lenin
 
 Een lening wordt ook een gemengde lening als een deel van de woning niet langer als eigen woning wordt aangemerkt, bijvoorbeeld bij verhuur van een deel van de woning. Ook dan moet de eigenwoningschuld pro rata worden verminderd met het deel dat naar box 3 gaat (vermindering eigenwoningschuld).
 
+Goedkeuring
+
 Om praktische redenen keur ik goed dat ook wordt aangesloten bij het oogmerk van de belastingplichtige bij:
 
+- – de aflossing van een gemengde lening; en
+
+- – de vermindering van de eigenwoningschuld bij overgang van een deel van de eigen woning naar box 3.
+
 Bij aflossing van de gemengde lening kan de belastingplichtige kan zelf kiezen aan welk vermogensbestanddeel of welk deel van de lening hij de aflossing toerekent. Bij overgang van een deel van de eigen woning naar box 3 is de resterende eigenwoningschuld maximaal het deel van de oorspronkelijke verwervingsprijsdat kan worden toegerekend aan het box 1-gedeelte. De keuze voor toerekening bij aflossing van de gemengde lening of bij overgang van een deel van de eigen woning naar box 3, moet de belastingplichtige maken in de aangifte inkomstenbelasting over het desbetreffende jaar.
+
+Voorbeeld
 
 De woning is gekocht voor € 420.000. De eigenwoningschuld is € 300.000. Een derde deel van de woning wordt permanent verhuurd en gaat over naar box 3. Bij pro rata toerekening zou een eigenwoningschuld resteren van (2/3 van € 300.000=) € 200.000. Op grond van de goedkeuring resteert echter een maximale eigenwoningschuld van (2/3 van € 420.000=) € 280.000.
 
 ### 3.2. Verbouwing. Financiering vooraf of achteraf. Zesmaandsgoedkeuring
 
 Bij verbouwingen betaalt de belastingplichtige de kosten dikwijls gespreid. Hij moet dan een nauwkeurige financiële administratie bijhouden om de renteaftrek te berekenen. Het tijdstip van de aanwending van de lening is dan van belang. Als een lening nog niet (geheel) is besteed aan de verbouwing kan daarover een discussie ontstaan tussen de inspecteur en belastingplichtige.
+
+Goedkeuring
 
 Om praktische redenen keur ik goed dat gedurende een periode van zes maanden na het afsluiten van de lening de rente en kosten van de lening steeds volledig in aftrek komen. Deze goedkeuring geldt alleen voor zover is voldaan aan het oogmerkvereiste.
 
@@ -93,17 +115,21 @@ Een restant van de lening behoort na de verbouwingsperiode of na zes maanden tot
 
 De belastingplichtige kan gebruik maken van een rentedragende rekening die hij speciaal voor de verbouwing heeft geopend (verbouwingsdepot).
 
+Goedkeuring
+
 Om praktische redenen keur ik goed dat bij een verbouwingsdepot de betaalde en ontvangen rente na zes maanden tot gedurende twee jaren na het afsluiten van de lening als volgt worden behandeld. Na de eerste zes maanden is de rente niet meer volledig aftrekbaar. Op de aftrekbare rente komt in mindering de rente die wordt ontvangen op het depot. De betaalde rente drukt in zoverre niet. Uiteraard moet zijn voldaan aan de overige vereisten die voor de toepassing van de eigenwoningregeling gelden. Als binnen de termijn van twee jaren het verbouwingsdepot niet meer is bestemd voor de betalingen voor de eigen woning, eindigt de goedkeuring op dat tijdstip.
 
 Een restant van de lening behoort na de verbouwingsperiode of na twee jaar tot box 3. De inspecteur corrigeert in deze gevallen een evenredig gedeelte van de kosten van geldleningen (zonodig via navordering).
 
-Deze depotgoedkeuring geldt naast de zesmaandsgoedkeuring van onderdeel 3.2. Dat betekent dus dat gedurende de eerste zes maanden de betaalde rente voor de aftrek niet hoeft te worden gesaldeerd met de ontvangen depotrente.
+Deze depotgoedkeuring geldt naast de zesmaandsgoedkeuring van [onderdeel 3.2](https://wetten.overheid.nl/BWBR0027731). Dat betekent dus dat gedurende de eerste zes maanden de betaalde rente voor de aftrek niet hoeft te worden gesaldeerd met de ontvangen depotrente.
 
-Deze goedkeuring geldt alleen voor leningen die zijn aangegaan in verband met een verbouwing. Het beleid bij aankoop van nieuwbouwwoningen staat in onderdeel 3.5 van dit besluit.
+Deze goedkeuring geldt alleen voor leningen die zijn aangegaan in verband met een verbouwing. Het beleid bij aankoop van nieuwbouwwoningen staat in [onderdeel 3.5](https://wetten.overheid.nl/BWBR0027731) van dit besluit.
 
 ### 3.2.2. Financiering achteraf
 
 Als de belastingplichtige de verbouwing achteraf financiert, moet hij aannemelijk maken dat hij aan het oogmerkvereiste voldoet. Dit kan eenvoudig zijn, bijvoorbeeld als hij rond het tijdstip van de betaling van de kosten een hypotheekofferte heeft aangevraagd op basis waarvan de lening is afgesloten. In andere gevallen zal hij het minder gemakkelijk aannemelijk kunnen maken. Hierover kunnen bewijsrechtelijke problemen ontstaan.
+
+Goedkeuring
 
 Om bewijsrechtelijke problemen te voorkomen, keur ik om praktische redenen het volgende goed. Als de belastingplichtige de lening is aangegaan binnen zes maanden na de aanvang van de verbouwing wordt voor het bedrag van de in die zesmaandsperiode betaalde verbouwingskosten geacht te zijn voldaan aan het oogmerkvereiste.
 
@@ -117,7 +143,9 @@ De bijleenregeling ([artikel 3.119a, van de Wet IB 2001](https://wetten.overheid
 
 ### 3.3. Betaling voor toekomstig onderhoud; instandhoudingsverplichting
 
-Een lening voor de (af)koopsom of een periodieke koopsom voor toekomstig onderhoud kan nog niet worden aangemerkt als een betaling voor onderhoud of verbetering (zie onderdeel 3.1). Degene die een (af)koopsom voor het toekomstig onderhoud van de eigen woning betaalt, verwerft een recht dat behoort tot de bezittingen in box 3 ([artikel 5.3, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3)). Hierbij is niet van belang of het recht is gebaseerd op een contractuele regeling of dat bij de koper de beschikkingsmacht over het betaalde bedrag ontbreekt. De schuld waarmee de aankoop van een dergelijk recht wordt gefinancierd, is een schuld die behoort tot de rendementsgrondslag van box 3. De rentebetalingen over zo’n schuld zijn geen aftrekbare kosten van de eigen woning. Slechts voor zover de belastingplichtige het onderhoud daadwerkelijk pleegt ten laste van (de (af)koopsom van) het recht is de rente over het dat deel van de geldlening aan te merken als aftrekbare kosten van de eigen woning. De omstandigheid dat het depot inmiddels aangegroeid kan zijn door rentebijschrijving, is verwaarloosbaar.
+Een lening voor de (af)koopsom of een periodieke koopsom voor toekomstig onderhoud kan nog niet worden aangemerkt als een betaling voor onderhoud of verbetering (zie [onderdeel 3.1](https://wetten.overheid.nl/BWBR0027731)). Degene die een (af)koopsom voor het toekomstig onderhoud van de eigen woning betaalt, verwerft een recht dat behoort tot de bezittingen in box 3 ([artikel 5.3, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3)). Hierbij is niet van belang of het recht is gebaseerd op een contractuele regeling of dat bij de koper de beschikkingsmacht over het betaalde bedrag ontbreekt. De schuld waarmee de aankoop van een dergelijk recht wordt gefinancierd, is een schuld die behoort tot de rendementsgrondslag van box 3. De rentebetalingen over zo’n schuld zijn geen aftrekbare kosten van de eigen woning. Slechts voor zover de belastingplichtige het onderhoud daadwerkelijk pleegt ten laste van (de (af)koopsom van) het recht is de rente over het dat deel van de geldlening aan te merken als aftrekbare kosten van de eigen woning. De omstandigheid dat het depot inmiddels aangegroeid kan zijn door rentebijschrijving, is verwaarloosbaar.
+
+Voorbeeld
 
 Eigenwoningbezitter A sluit voor zijn eigen woning een 10-jarige instandhoudingovereenkomst af. De overeenkomst geeft de garantie dat de woning na 10 jaar in dezelfde staat van onderhoud verkeert. De geldlening voor de financiering van de betaling(en) voor de instandhoudingovereenkomst is geen eigenwoningschuld. Slechts voor zover het onderhoud daadwerkelijk is verricht, kan A het daarmee samenhangende deel van de geldlening aanmerken als een eigenwoningschuld. A kan de rente over die eigenwoningschuld vanaf dat moment aftrekken.
 
@@ -125,7 +153,19 @@ Eigenwoningbezitter A sluit voor zijn eigen woning een 10-jarige instandhoudingo
 
 Bij nieuwbouw is het gebruikelijk dat (een deel van) het geleende geld wordt geplaatst in een depot van waaruit de bouwtermijnen worden voldaan (nieuwbouwdepot). Op het in depot gehouden bedrag geeft de bank een rentevergoeding die (bijna) gelijk is aan de op de schuld verschuldigde rente. In beginsel behoren het depot en de daarmee samenhangende schuld tot de grondslag van box 3. De schuld verhuist pas naar box 1 voor zover vanuit het depot een bouwtermijn wordt betaald.
 
+Goedkeuring
+
 Ik keur om praktische redenen goed dat bij nieuwbouwwoningen de schuld en het nieuwbouwdepot in box 1 worden geplaatst. De rente en de kosten van de schuld die verband houdt met de aanschaf van de eigen woning zijn aftrekbaar als eigenwoningrente in box 1. Ik stel hierbij de volgende voorwaarden.
+
+- – Het depot is bestemd voor de betaling van een eigen woning als bedoeld in [artikel 3.111, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111).
+
+- – In box 1 wordt alleen dat gedeelte in aanmerking genomen dat uiteindelijk kan worden aangemerkt als een eigenwoningschuld. Andere gedeelten blijven in box 3. Dit geldt bijvoorbeeld voor zover de lening ziet op meegefinancierde kosten die niet tot de aanschafkosten van de woning behoren (bijvoorbeeld aftrekbare bouwrente, waarvan de financieringsschuld niet kan behoren tot de eigenwoningschuld op grond van [artikel 3.120, lid 4, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)).
+
+- – De rente die wordt ontvangen op het depot, komt in mindering op de aftrekbare rente.
+
+- – De goedkeuring geldt voor maximaal twee jaar. De tweejaarstermijn begint in beginsel te lopen op het moment van ondertekening van de koop/aanneemovereenkomst. Het is gebruikelijk dat op dat moment nog geen lening is afgesloten. De lening wordt meestal later afgesloten en pas uitbetaald bij de levering van de onroerende zaak bij de notaris. In dat geval vangt de tweejaarstermijn aan op het moment van de levering bij de notaris.
+
+- – De 30-jaarstermijn als bedoeld in [artikel 3.120, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), begint voor de hele lening te lopen bij de aanvang van de tweejaarstermijn. Vanaf dat moment worden de renten van de eigenwoningschuld immers in aftrek gebracht in box 1.
 
 Het nieuwbouwdepot kan ook deels als overbruggingskrediet fungeren omdat de oude eigen woning nog niet is verkocht. De belastingplichtige hoeft geen rekening te houden met de gevolgen van de bijleenregeling totdat een eigenwoningreserve daadwerkelijk is gerealiseerd.
 
@@ -133,9 +173,29 @@ Het nieuwbouwdepot kan ook deels als overbruggingskrediet fungeren omdat de oude
 
 Een nieuwbouwdepot wordt onder voorwaarden in box 1 in aanmerking genomen voor het deel dat uiteindelijk wordt aangemerkt als een eigenwoningschuld. Als het depot deels in box 3 valt, moet de belastingplichtige een administratieve splitsing maken. Van dag tot dag moet hij bijhouden welke bedragen hij opneemt uit het depot. Aan de hand van de opgenomen bedragen moet worden bepaald welk deel van de ontvangen depotrente betrekking heeft op de eigenwoningschuld en de schuld in box 3. Als de belastingplichtige in dat soort situaties twee afzonderlijke depots aanhoudt, is er geen probleem. Meestal is er echter maar één depot. Dan zal de belastingplichtige niet altijd eenvoudig kunnen herleiden welke bedragen hij in box 1 dan wel in box 3 in aanmerking moet nemen.
 
+Goedkeuring
+
 Uit praktische overwegingen keur ik goed dat in die situatie de bedragen pro rata worden toegedeeld. In de praktijk weet de belastingplichtige vooraf niet welk bedrag hij zal moeten betalen aan rente tijdens de bouw. Dit hoeft echter niet te leiden tot een toerekeningsprobleem. Het deel van de geldlening en het bouwdepot dat betrekking heeft op de koopsom van de woning vallen in box 1. Het restant van de geldlening en het bouwdepot vallen in box 3. Aan het eind van ieder jaar is bekend welke bedragen de belastingplichtige aan bouwtermijnen heeft betaald. Aan het eind van het jaar is dus bekend welk bedrag van de geldlening is aangewend voor de woning en welk deel van het bouwdepot en de geldlening nog resteert voor de koopsom van de woning. Deze bedragen vallen in box 1, de resterende bedragen vallen in box 3.
 
+Voorbeeld
+
 A koopt op 2 januari 2010 een nieuwbouwwoning. De woning en de rente tijdens de bouw worden geheel gefinancierd. Het gaat om de volgende bedragen en uitgangspunten:
+
+- – De koopaanneemsom is € 300.000.
+
+- – Op het moment van ondertekening van de koop/aannemingsovereenkomst was geen rente tijdens de bouw verschuldigd of gerijpt.
+
+- – De rente tijdens de bouw zal € 30.000 bedragen. In totaal wordt er dus € 330.000 geleend en in een bouwdepot gestort.
+
+- – De bijleenregeling is in dit voorbeeld niet van toepassing.
+
+- – Aan het einde van het jaar 2010 bedraagt het saldo van het depot € 200.000.
+
+- – In 2010 is de betaalde rente over de gehele schuld € 22.000.
+
+- – De kosten van de geldlening (afsluitprovisie, notariskosten in verband met de hypotheeklening) bedragen € 3 630.
+
+- – In 2010 is € 15.000 depotrente ontvangen.
 
 Hierna is de verdeling van bedragen over box 1 en box 3 aangeven.
 
@@ -145,13 +205,29 @@ Van zowel de lening, de betaalde rente op de lening, het depot, als de over het 
 
 ### In cijfers:
 
+Box 1
+
+- – De betaalde rente over 2010 is per saldo € 22.000 – € 15.000 = € 7.000. Hiervan is 10/11e deel aftrekbare eigenwoningrente. Dit is 10/11e van € 7.000 = € 6.364.
+
+- – De kosten van geldlening zijn € 3 630. Hiervan heeft 10/11e betrekking op de eigenwoningschuld. Dit is 10/11evan € 3.630 = € 3 300.
+
+- – De aftrekbare kosten eigen woning bedragen in totaal € 6.364 + € 3.300 = € 9.664.
+
+Box 3
+
 Tot de rendementsgrondslag op 31 december 2010 behoort:
+
+- – Bezitting: 1/11e van het bouwdepot, groot € 200.000 = € 18.181.
+
+- – Schuld: 1/11e van de schuld, groot € 330.000 = € 30.000.
 
 ### 3.5. Herfinanciering en herbesteding
 
 Als een belastingplichtige een eigenwoningschuld aflost en enige tijd later weer een lening opneemt, houdt die lening geen causaal verband meer met de oorspronkelijke verwerving, onderhoud of verbetering van de eigen woning. Dit is anders als een eigenwoningschuld na verloop van tijd wordt vervangen door of wordt omgezet in een nieuwe lening (zogenoemde herfinanciering). Die lening kan uiteraard ook bij een andere financier worden afgesloten. Bij herfinanciering is de nieuwe lening alleen ook een eigenwoningschuld als de oorspronkelijke lening wordt afgelost uit de nieuwe lening. Bij het vervangen van de lening is dat vanzelfsprekend. Bij het omzetten in een nieuwe lening (bij een andere financier) is dus alleen sprake van herfinancieren als de oude lening direct wordt afgelost met de nieuwe lening. In dat geval is het causale verband blijven bestaan met de oorspronkelijke kosten van verwerving, onderhoud of verbetering van de eigen woning.
 
 In het kader van de afwikkeling van het faillissement van een bank kan de volgende situatie voorkomen. Een klant van de bank heeft bij die bank naast een eigenwoningschuld ook een spaarsaldo. De lening en het spaarsaldo worden (door de curator) met elkaar verrekend. Hierdoor is de eigenwoningschuld (deels) afgelost. Dit betekent dat over het afgeloste deel van de eigenwoningschuld geen aftrek van eigenwoningrente meer mogelijk is. Het maakt hierbij niet uit dat de klant niet het oogmerk had de lening af te lossen. Ik acht dit een ongewenst gevolg van het faillissement van de bank.
+
+Goedkeuring
 
 Ik keur daarom met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat bij een latere herfinanciering de lening toch tot maximaal het bedrag van de schuld ten tijde van de toegepaste verrekening kan worden aangemerkt als een eigenwoningschuld.
 
@@ -161,6 +237,8 @@ De goedkeuring geldt voor de verrekening op grond van [artikel 53 van de Faillis
 
 Bij herbesteding van een lening voor aankoop, onderhoud of verbetering van een eigen woning is niet voldaan aan het oogmerkvereiste. Dit kan betekenen dat de belastingplichtige soms extra kosten moet maken door zijn bestaande lening af te lossen en (voor hetzelfde bedrag) een nieuwe lening op te nemen. Dat is niet gewenst als een bestaande eigenwoningschuld wordt aangewend voor aankoop, onderhoud of verbetering van een andere eigen woning.
 
+Goedkeuring
+
 Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat een eigenwoningschuld bij directe herbesteding aan verwerving, onderhoud of verbetering van een (andere) eigen woning blijft aangemerkt als lening voor verwerving, onderhoud of verbetering van de eigen woning.
 
 Bij verandering in de aanwending, volgt de lening dus de nieuwe aanwending van de lening. Maar alleen voor zover de oude eigenwoningschuld direct wordt herbesteed aan de verwerving, onderhoud of verbetering van een woning in box 1.
@@ -169,19 +247,27 @@ Als (een recht op) een woning in box 3 overgaat naar een eigen woning in box 1, 
 
 Bij verandering van de fiscale kwalificatie van het bezit volgt de lening dus het bezit (box 3-bezitting wordt box 1 eigen woning).
 
+Voorbeeld 1
+
 Een belastingplichtige verkoopt zijn oude eigen woning en koopt een nieuwe eigen woning. De bestaande lening op zijn oude woning gaat over op de nieuw aangekochte eigen woning. Dit kan bijvoorbeeld te maken hebben met aantrekkelijke voorwaarden met betrekking tot die lening. De opbrengst van de oude eigen woning wordt dan in zoverre niet gebruikt voor aflossing van de eigenwoningschuld op die woning, maar wordt direct herbesteed aan de nieuwe eigen woning. Alleen de eigen woning waarover hypothecaire zekerheid wordt gegeven, is veranderd. Door de goedkeuring kan de herbestede lening worden aangemerkt als lening voor de verwerving van de nieuwe eigen woning. Dit geldt voor zover de lening wordt gebruikt voor de verwerving van de nieuwe eigen woning. Als er (daarnaast) nog een lening wordt afgesloten voor de nieuwe eigen woning, kan die lening binnen de grenzen van de bijleenregeling uiteraard ook worden aangemerkt als lening voor de verwerving van die nieuwe eigen woning.
+
+Voorbeeld 2
 
 Een belastingplichtige koopt een nieuwe eigen woning. De verwervingskosten zijn € 200.000. Zijn oude eigen woning staat te koop. Hij sluit een lening af voor de aankoop van de nieuwe eigen woning. Ingeschat wordt dat de oude woning bij verkoop € 180.000 zal opleveren. De eigenwoningschuld op de oude eigen woning is € 150.000. Bij verkoop brengt de woning meer op dan gedacht, namelijk € 190.000. De overwaarde is dus (€ 190.000 minus € 150.000 =) € 40.000.
 
 Door de bijleenregeling wordt de eigenwoningschuld voor de nieuwe eigen woning (€ 200.000 minus € 40.000 =) € 160.000. Het restant van de lening (€ 200.000 minus € 160.000 =) € 40.000 gaat daardoor naar box 3. Omdat de verkoop van de oude eigen woning meer heeft opgebracht, wil de belastingplichtige de extra opbrengst gebruiken voor de aankoop van een nieuwe keuken van € 10.000. Hij gebruikt hiervoor € 10.000 van de lening. Hij herbesteedt de lening voor € 10.000 dus direct voor de eigen woning. In dit geval is sprake van herbesteding aan dezelfde eigen woning. Door de goedkeuring kan de herbestede lening worden aangemerkt als lening voor onderhoud of verbetering van de nieuwe eigen woning (de aanschaf van de keuken).
 
+Voorbeeld 3
+
 A heeft een lening van € 100.000 afgesloten om de blote eigendom te kopen van de woning waarin zijn moeder (de vruchtgebruikster) woont. Zijn moeder overlijdt. A is vol eigenaar geworden. A verhuist naar de woning. Dit is geen herbesteding. Het verschil met voorbeeld 1 is dat in dit geval het bezit waarmee de lening is gefinancierd hetzelfde blijft. Alleen de fiscale kwalificatie verandert. A heeft op zich de € 100.000 geleend met een ander oogmerk dan voor een eigen woning (namelijk voor de financiering van een box 3-bestanddeel, de blote eigendom). Toch kan in deze situatie de lening van € 100.000 worden aangemerkt als een eigenwoningschuld. De lening volgt de kwalificatie van het vermogensbestanddeel van box 3 naar box 1.
+
+Voorbeeld 4
 
 Een belastingplichtige sluit een lening af voor de aankoop van effecten. Na verkoop van de effecten gebruikt hij de lening voor onderhoud van de eigen woning. Hij heeft de lening niet opgenomen met het oogmerk het onderhoud van de eigen woning te financieren, zodat deze lening ook na herbesteding geen eigenwoningschuld wordt. De goedkeuring is niet van toepassing omdat de lening vóór de herbesteding geen eigenwoningschuld was.
 
 ### 3.6. Aankoop rechten die verband houden met de woning
 
-Als een belastingplichtige rechten die verband houden met de woning erbij koopt, dan kan daardoor de eigenwoningregeling van toepassing worden. Als de eigenwoningregeling al van toepassing was, dan kan de bijkoop van deze rechten leiden tot **verbetering** van eigendom. In beide gevallen kan de financiering van de bijgekochte rechten worden aangemerkt als een eigenwoningschuld.
+Als een belastingplichtige rechten die verband houden met de woning erbij koopt, dan kan daardoor de eigenwoningregeling van toepassing worden. Als de eigenwoningregeling al van toepassing was, dan kan de bijkoop van deze rechten leiden tot *verbetering* van eigendom. In beide gevallen kan de financiering van de bijgekochte rechten worden aangemerkt als een eigenwoningschuld.
 
 ### 3.6.1. Erfpachter koopt ‘de grond’
 
@@ -190,6 +276,8 @@ Bij erfpacht kan de eigenwoningregeling gelden. De periodieke erfpachtcanon is a
 ### 3.6.2. Vruchtgebruiker koopt blote eigendom
 
 Bij verkoop van de blote eigendom van de woning geldt de eigenwoningregeling niet meer. Het is mogelijk dat de vruchtgebruiker de blote eigendom terugkoopt. De terugkoop van de blote eigendom kan in combinatie met het bezit van het recht van vruchtgebruik worden aangemerkt als de aanschaf van een eigen woning. De lening voor de aankoop van de blote eigendom is een eigenwoningschuld. Een bestaande lening in verband met het vruchtgebruik wordt in dit geval ook een eigenwoningschuld.
+
+Voorbeeld
 
 De ouders hadden in 1997 een schuld in verband met hun eigen woning van € 500.000. In dat jaar verkochten zij de blote eigendom van die woning aan hun kinderen voor een bedrag van € 300.000. Op 1 juli 2010 kopen de ouders de blote eigendom terug voor € 400.000. Hierdoor wordt de woning per 1 juli 2010 weer als eigen woning aangemerkt. De geldlening in verband met de eigen woning waarvoor renteaftrek mogelijk is, bedraagt maximaal € 600.000.
 
@@ -213,6 +301,8 @@ Als een belastingplichtige een lening afsluit voor de aanschaf van een zonnepane
 
 Een lening afsluiten voor de overname van een deel van de woning van de ex-partner kan leiden tot een eigenwoningschuld. De eigenwoningschuld is dan maximaal de waarde in het economische verkeer van het overgenomen deel van de eigen woning op het moment van de ‘uitkoop’. Dit geldt ook als de woning in het kader van de boedelverdeling (bij echtscheiding) is toegewezen aan de ex-partner die daardoor is overbedeeld. De overbedelingsschuld kan in beginsel worden aangemerkt als een eigenwoningschuld, voor zover die overbedeling betrekking heeft op de eigen woning. De overbedelingsschuld moet naar evenredigheid worden toegerekend aan de verkregen activa uit de boedel. Zie het arrest van de Hoge Raad van 20 januari 1988, nr. 24.768 (BNB1988/143).
 
+Voorbeeld
+
 De woning van A en B is op het moment van de verdeling van de huwelijkse boedel € 250.000 waard. De eigenwoningschuld, tevens hypotheekschuld, is op dat moment € 150.000. Tot de boedel behoort daarnaast een auto ter waarde van € 30.000. De waarde van de totale huwelijksgemeenschap bedraagt € 130.000 (huis € 250.000 plus auto € 30.000 minus eigenwoningschuld € 150.000). A en B hebben ieder per saldo recht op € 65.000. Ex-partner B heeft de woning verlaten en krijgt bij de boedelverdeling de auto toegewezen (€ 30.000). Het huis en de eigenwoningschuld worden geheel aan de blijvende partner A toegewezen. De totale overwaarde van het huis is € 100.000. A had recht op € 65.000. A wordt dus overbedeeld voor € 35.000. Hij neemt de helft van de woning over van B (waard € 125.000) met het aandeel in de hypotheekschuld van B (€ 75.000). Voor de nieuwe eigenwoningschuld betekent dit het volgende. A had zelf een eigenwoningschuld van € 75.000. De eigenwoningschuld van A wordt verhoogd met het aandeel in de hypotheekschuld van B van € 75.000. Daarnaast kan hij nog € 35.000 lenen voor de overname van het deel van B in de woning. Zijn maximale eigenwoningschuld is dus € 185.000.
 
 ### 3.9.1. De ex-partner die geen eigenaar is, deelt toch mee in de waardeverandering van de woning
@@ -227,7 +317,7 @@ Echtgenoten kunnen gehuwd zijn buiten gemeenschap van goederen met een periodiek
 
 ### 3.9.3. Vooruitbetaling voor de overname van het aandeel in de eigen woning van de ex-partner bij echtscheiding
 
-Een belastingplichtige kan, vooruitlopend op de definitieve afwikkeling van de echtscheiding, zijn ex-partner alvast een voorschot geven voor de toekomstige overname van de woning. Een lening voor de betaling aan de ex-partner is dan (nog) geen eigenwoningschuld. De lening is (nog) niet besteed aan de overname door de blijvende partner van (het aandeel van) de ex-partner in de woning. Beiden zijn weliswaar overeengekomen dat de blijvende partner de woning zal overnemen, maar die intentie is nog geen overdracht van een eigen woning. Vanaf het moment dat het aandeel van de vertrekkende ex-partner in de woning daadwerkelijk is overgenomen, kan de lening voor de belastingplichtige een eigenwoningschuld worden. Die overname zal zijn bij de boedelscheiding na de inschrijving van het echtscheidingsconvenant. De hoogte van de nieuwe eigenwoningschuld is afhankelijk van de wijze waarop de boedel is verdeeld. Zie ook onderdeel 3.10.
+Een belastingplichtige kan, vooruitlopend op de definitieve afwikkeling van de echtscheiding, zijn ex-partner alvast een voorschot geven voor de toekomstige overname van de woning. Een lening voor de betaling aan de ex-partner is dan (nog) geen eigenwoningschuld. De lening is (nog) niet besteed aan de overname door de blijvende partner van (het aandeel van) de ex-partner in de woning. Beiden zijn weliswaar overeengekomen dat de blijvende partner de woning zal overnemen, maar die intentie is nog geen overdracht van een eigen woning. Vanaf het moment dat het aandeel van de vertrekkende ex-partner in de woning daadwerkelijk is overgenomen, kan de lening voor de belastingplichtige een eigenwoningschuld worden. Die overname zal zijn bij de boedelscheiding na de inschrijving van het echtscheidingsconvenant. De hoogte van de nieuwe eigenwoningschuld is afhankelijk van de wijze waarop de boedel is verdeeld. Zie ook [onderdeel 3.10](https://wetten.overheid.nl/BWBR0027731).
 
 ### 3.10. Restschuld bij verkoop eigen woning
 
@@ -240,6 +330,8 @@ Het successierecht over de erfrechtelijke verkrijging van de eigen woning is gee
 Dit geldt ook voor de financiering van andere belastingschulden en schulden zoals een restschuld bij staking van een onderneming waarvoor hypotheek wordt genomen op de eigen woning. Dergelijke schulden zijn geen eigenwoningschuld. Hetzelfde geldt als voor de behaalde stakingswinst een stamrecht wordt bedongen waarvan de koopsom wordt geleend. Zie het arrest van de Hoge Raad van 13 juli 2007, nr. 43433 (VN 2007/51.19).
 
 Verzoeken om toepassing van de hardheidsclausule hierover wijs ik af.
+
+Voorbeeld
 
 Bij de overgang van een eigen woning van ondernemingsvermogen naar privévermogen rekent de belastingplichtige af over de zogenoemde stille reserves. Een geldlening waarmee hij de inkomstenbelasting betaalt die hij verschuldigd is over de stille reserves, wordt niet aangemerkt als een eigenwoningschuld. Bij de overgang van ondernemingsvermogen naar privévermogen kan alleen de schuld op het moment van overgang naar privé aangemerkt worden als eigenwoningschuld. Dit is de schuld waarmee de woning indertijd is gekocht dan wel onderhoud en/of verbetering van de woning is betaald, voor zover die schuld inmiddels niet is afgelost.
 
@@ -263,6 +355,8 @@ Periode vanaf 2010
 
 Vanaf 1 januari 2010 is het onderscheid tussen starters en doorstromers vervallen. Het maakt niet meer uit of de bijleenregeling wel of niet van toepassing is. De eigenwoningschuld wordt bij starters en doorstromers vanaf 2010 worden verhoogd met de lening voor de financieringskosten ([artikel 3.119a, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a)). Tijdens de behandeling van deze wetswijziging is aangegeven dat voor bestaande leningen het regime van vóór 1 januari 2010 blijft gelden: de rente op deze leningen is niet aftrekbaar (EK, 2009/2010, 32 128). Mede gelet op het vermijden van splitsingsproblemen en met het oog op het voorinvullen van de aangifte heeft het mijn instemming dat de in 2004–2009 afgesloten lening voor de financieringskosten ook als eigen woningschuld wordt aangemerkt.
 
+Voorbeeld
+
 Doorstromer heeft in 2009 een nieuwe woning gekocht. Na toepassing van de bijleenregeling is zijn eigenwoningschuld € 200.000. De financieringskosten die betrekking hebben op de eigenwoningschuld bedragen € 2.000 en zijn ook gefinancierd. De aftrek is als volgt.
 
 2009
@@ -275,11 +369,17 @@ De lening voor de financieringskosten wordt ook aangemerkt als eigenwoningschuld
 
 De rente en kosten over het gedeelte van de lening dat geen betrekking heeft op de eigenwoningschuld zijn niet aftrekbaar. Ook de rente op meegefinancierde kosten die geen direct verband houden met de eigen woning is niet aftrekbaar. Dit is bijvoorbeeld:
 
+- – meegefinancierde boeterente wegens de vervroegde aflossing of omzetting van een bestaande lening; en
+
+- – rente over meegefinancierde bouwrente die betrekking heeft op de periode na het sluiten van de koopovereenkomst.
+
 ### 3.12. 30-jaarstermijn
 
 ### 3.12.1. De 30-jaarstermijn na eerder gebruik vrijstelling kapitaalverzekering, spaarrekening of beleggingsrecht eigen woning
 
 De aftrek van eigenwoningrente wordt beperkt als een vrijgestelde uitkering uit bijvoorbeeld een kapitaalverzekering eigen woning is ontvangen ([artikel 3.122, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.122)). Die aftrekbeperking cumuleert niet met de aftrekbeperking van de 30-jaarstermijn.
+
+Voorbeeld
 
 De eigenwoningschuld op 1 januari 2001 is € 100.000. De schuld is op 1 juli 2020 verhoogd tot € 250.000 wegens een verbouwing van € 150.000. Voor die verhoging gaat een nieuwe 30-jaarstermijn lopen. Op 1 juli 2025 keert de kapitaalverzekering eigen woning een bedrag uit van € 100.000. De uitkering wordt gebruikt voor aflossing van de eigenwoningschuld. De eigenwoningschuld is dan nog € 150.000 (artikel 3.122, eerste lid, van de Wet IB 2001. Op 1 januari 2031 loopt de 30-jaarstermijn af voor de schuld van € 100.000 die op 1 januari 2001 bestond. Er is geen cumulatie met de toegepaste vrijstelling van de kapitaalverzekering. De eigenwoningschuld op 1 januari 2031 is € 150.000, tot 1 juli 2050.
 
@@ -305,6 +405,8 @@ De kosten van een hypotheekadvies zijn aftrekbare kosten van een geldlening voor
 
 De geldlening kan ook betrekking hebben op andere zaken dan de eigen woning, bijvoorbeeld op de aanschaf van een auto of een kapitaalverzekering (eigen woning) en een belegging (beleggingshypotheek). Ook is het mogelijk dat een deel van de lening niet als eigenwoningschuld kwalificeert als gevolg van de bijleenregeling. De advieskosten die betrekking hebben op het deel van de geldlening dat geen eigenwoningschuld is, zijn niet aftrekbaar.
 
+Voorbeeld
+
 Tussenpersoon A bemiddelt tussen de bank en potentiële kopers over een financiering van de eigen woning. A berekent, naast de afsluitprovisie van de bank, extra afsluitprovisie. In ruil daarvoor draagt A de kosten van de makelaar die door de kopers voor de aankoop van de nieuwe eigen woning is ingeschakeld.
 
 Deze afsluitprovisie is niet helemaal aftrekbaar. De kosten zien niet alleen op de eigenwoningschuld, maar houden ook verband met een andere prestatie. Voor zover de kosten geen verband houden met de eigenwoningschuld zijn ze niet aftrekbaar. In dit geval omvat de afsluitprovisie tevens een vergoeding voor de makelaar. Dat is een prestatie die niet door de geldgever, maar door een tussenpersoon wordt verricht. De afsluitprovisie is niet aftrekbaar voor zover die betrekking heeft op de vergoeding voor de makelaar. In dit geval is het niet-aftrekbare deel de extra provisie.
@@ -313,6 +415,8 @@ Deze afsluitprovisie is niet helemaal aftrekbaar. De kosten zien niet alleen op 
 
 De rente over de lening die is afgesloten voor de eigen woning is aftrekbaar. Meestal is direct duidelijk welk bedrag de rente is. Bij een leasecontract of aankoop op afbetaling is alleen de rentecomponent in de termijnen als eigenwoningrente aftrekbaar. De rente moet dan worden herleid uit de betalingen.
 
+Voorbeeld
+
 A heeft in zijn eigen woning nieuwe kozijnen laten plaatsen. Hiervoor heeft A een leasecontract afgesloten. Termijnen van een leasecontract bevatten een aflossingscomponent en een rentecomponent. A kan de rentecomponent in de leasetermijnen aftrekken voor zover sprake is van een eigenwoningschuld.
 
 Als voor de betaling van de leasetermijnen een (hypothecaire) geldlening is afgesloten, geldt het volgende. De rente over de lening om de leasetermijnen te betalen is niet helemaal aftrekbaar. Met de geldlening wordt zowel de aflossingscomponent als de rentecomponent in de leasetermijnen betaald. De betaling voor de aflossingscomponent is een betaling voor onderhoudskosten van de eigen woning. De rente op de financiering van de aflossingscomponent is daarmee aftrekbare eigenwoningrente. De rente op de financiering van de rentecomponent is niet aftrekbaar ([artikel 3.120, vierde lid, letter a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)).
@@ -320,6 +424,8 @@ Als voor de betaling van de leasetermijnen een (hypothecaire) geldlening is afge
 ### 4.3. Vooraf of achteraf betaalde rente
 
 Eigenwoningrente is aftrekbaar op het moment waarop deze wordt betaald, verrekend, ter beschikking gesteld of wanneer deze rentedragend wordt ([artikel 3.147, aanhef en onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.147)). Het tijdstip van de rentebetaling is niet van belang voor de beoordeling of sprake is van eigenwoningrente. De aftrekbaarheid van rente moet beoordeeld worden naar de periode waarop de rente betrekking heeft (compartimentering). Door betaling vooraf of achteraf verandert de rente niet van karakter. Voor zover de rente betrekking heeft op een lening die (in de periode waarover zij is verschuldigd) behoort tot de rendementsgrondslag van box 3, is de rente geen eigenwoningrente. Als deze rente wordt betaald in een periode dat de lening niet meer behoort tot de rendementsgrondslag van box 3, dan verandert de rente niet van karakter. Die rente blijft box 3-rente. Als rente betrekking heeft op een periode dat de lening een eigenwoningschuld was, is deze rente aftrekbaar als eigenwoningrente ook al wordt feitelijk betaald in de periode dat de lening behoort tot de rendementsgrondslag van box 3.
+
+Voorbeeld
 
 A is van plan te verhuizen en na zijn verhuizing zijn eigen woning te gaan verhuren waardoor er niet langer sprake is van een eigen woning. De woning en de eigenwoningschuld behoren vanaf het moment van de verhuizing tot de rendementsgrondslag van box 3. A betaalt voordat hij verhuist de rente over een aantal maanden vooruit. De rente die betrekking heeft op de periode ná verhuizing is voor A geen aftrekbare eigenwoningrente. Het tijdstip van rentebetaling is immers niet van belang voor de beoordeling van eigenwoningrente.
 
@@ -340,6 +446,8 @@ Een borgstellingsprovisie (vergoeding voor de borgtocht) is aan te merken als ko
 In sommige gevallen is voor de Nationale Hypotheek Garantie een bouwkundig rapport vereist. Ook de kosten van een bouwkundig rapport in verband met de aanvraag van de Nationale Hypotheek Garantie zijn kosten van de eigenwoningschuld in verband met de aankoop, onderhoud of verbetering van de eigen woning.
 
 De kosten van een schaderapport voor een onderzoek naar de noodzaak tot reparatie of in verband met eventuele verkoop zijn echter geen kosten van een eigenwoningschuld.
+
+Voorbeeld
 
 Aan een woning is betonschade geconstateerd. De eigenaar geeft een opdracht voor technisch onderzoek naar de schade aan de vloeren. Het schaderapport bevat ook een taxatie van de herstelkosten van de betonschade. De bank wil een hypotheeklening verstrekken voor de financiering van de herstelkosten. De bank stelt daarbij de voorwaarde dat er naast de reguliere taxatie van de woning ook het schaderapport wordt overgelegd.
 
@@ -371,9 +479,15 @@ Aan deze omzetting kunnen kosten zijn verbonden. Een belastingplichtige kan een 
 
 Vóór de omzetting is de coöperatieve flatexploitatievereniging juridisch gezien eigenaar van het flatgebouw. Na de omzetting is belastingplichtige (rechtstreeks) eigenaar van een deel van het gehele flatgebouw. Een redelijke wetstoepassing brengt met zich mee dat de lening voor de kosten die direct verband houden met de omzetting van coöperatieve flatexploitatievereniging in de vereniging van eigenaren als eigenwoningschuld wordt aangemerkt. De volgende kosten worden aangemerkt als kosten die direct verband houden met deze omzetting.
 
+- – de kosten van de transportakte voor de eigendomsoverdracht van de coöperatieve vereniging naar het individuele lid;
+
+- – de kadastrale kosten in verband met de inschrijving van de overdracht en
+
+- – recherchekosten.
+
 ### 4.10. Oversluitkosten. Financiering boeterente
 
-Rente over meegefinancierde boeterente is niet aftrekbaar ([artikel 3.120, vierde lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)). Op 31 december 2000 bestaande schulden die zijn aangegaan ter betaling van oversluitkosten worden aangemerkt als een eigenwoningschuld ([Hoofdstuk 2, artikel I, onderdeel AKac, tweede lid, van de Invoeringswet Wet IB 2001](onbekend)). De rente over deze schulden is aftrekbaar als eigenwoningrente. Ook boeterente die een belastingplichtige betaalt voor het oversluiten van de oorspronkelijke hoofdsom wordt in dit kader aangemerkt als oversluitkosten.
+Rente over meegefinancierde boeterente is niet aftrekbaar ([artikel 3.120, vierde lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)). Op 31 december 2000 bestaande schulden die zijn aangegaan ter betaling van oversluitkosten worden aangemerkt als een eigenwoningschuld ([Hoofdstuk 2, artikel I, onderdeel AKac, tweede lid, van de Invoeringswet Wet IB 2001](https://wetten.overheid.nl/BWBR0011354)). De rente over deze schulden is aftrekbaar als eigenwoningrente. Ook boeterente die een belastingplichtige betaalt voor het oversluiten van de oorspronkelijke hoofdsom wordt in dit kader aangemerkt als oversluitkosten.
 
 ### 4.11. Kosten voor renteverlaging bij waardestijging eigen woning
 
@@ -405,11 +519,15 @@ Voordelen die de geldgever aan de belastingplichtige geeft zijn van invloed op d
 
 Voor een lening in verband met de aankoop van (een deel) van de eigen woning van de partner of huisgenoot geldt het volgende. De rente is niet aftrekbaar voor zover het totaal van de leningen waarmee de woning is verworven na die aankoop hoger is dan daarvoor ([artikel 3.120, vierde lid, onderdeel c, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)). Deze aftrekbeperking geldt vanaf het moment dat en zolang sprake is van partnerschap of een gezamenlijke huishouding.
 
+Voorbeeld
+
 Een echtpaar heeft een eigen woning zonder schulden. Het echtpaar wil een nieuwe woning bouwen. Om de bouw daarvan te betalen verkoopt het echtpaar de woning aan de inwonende zoon. Als de woning gereed is, zal het echtpaar verhuizen naar de nieuwe woning. De zoon blijft dan in het voormalig ouderlijk huis wonen. Hij financiert de aankoop met een lening bij een bank.
 
 Zolang zijn ouders nog bij hem wonen, heeft de zoon geen recht op renteaftrek. De ouders en de zoon zijn immers nog huisgenoten waardoor de aftrekbeperking voor de zoon van toepassing is. Het maakt hierbij niet uit dat de verkoop aan de zoon voorafgaat aan een geplande verhuizing. Verzoeken om toepassing van de hardheidsclausule die hierop zien, wijs ik af.
 
 De aftrekbeperking geldt niet meer vanaf het moment dat de zoon geen gezamenlijke huishouding meer voert met zijn ouders. De rente is vanaf dat moment voor de zoon aftrekbaar, mits sprake is van een eigenwoningschuld.
+
+Goedkeuring
 
 Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat de aftrekbeperking voor partners of huisgenoten ([artikel 3.120, vierde lid, onderdeel c, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)) niet geldt voor (het gedeelte) van de eigen woning dat vóór 1 januari 2001 is verkregen van de partner of de huisgenoot.
 
@@ -417,13 +535,21 @@ Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelasting
 
 Rente over leningen tussen partners of huisgenoten is niet aftrekbaar ([artikel 3.120, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120)). Deze aftrekbeperking geldt ook voor de rente over een lening van de ouders aan een inwonend kind voor de woning die het kind zelfstandig gaat bewonen. Zolang het kind nog niet is verhuisd voert hij immers een gezamenlijke huishouding met zijn ouders/geldverstrekkers. Ik acht het niet overeenkomstig de bedoeling van de wetgever om in dergelijke gevallen de bepaling altijd onverkort toe te passen.
 
+Goedkeuring
+
 Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat [artikel 3.120, negende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120) niet geldt voor een lening aan partner of huisgenoot die gaat verhuizen. Ik stel hierbij de volgende voorwaarden.
+
+- – De lening is bestemd voor de woning in aanbouw of de aangekochte bestaande woning.
+
+- – De nieuwe woning is voor de geldlener een eigen woning ([artikel 3.111, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)).
+
+- – De geldlener en de leningverstrekker(s) gaan *geen* gezamenlijke huishouding voeren in de nieuwe woning. De leningverstrekker(s) mogen dus niet meeverhuizen met de geldlener.
 
 ### 7. Rentebetaling door een ander
 
 Het standpunt over de rentebetaling door een ander, heb ik versoepeld. Hierna beschrijf ik mijn beleid. Daarna geef ik aan hoe de renteaftrek kan verlopen in de verschillende situaties.
 
-Rente is aftrekbaar als de degene die recht heeft op aftrek (de draagplichtige) heeft betaald als bedoeld in [artikel 3.147 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.147). Voor aftrek moet de rente ook op de belastingplichtige drukken ([artikel 3.110 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.110)). Als een ander voor de draagplichtige betaalt, is van belang of die ander (mede) voor rekening van de draagplichtige betaalt. Het is niet gebruikelijk om zomaar de rente voor de draagplichtige te betalen. Er kan dus niet altijd vanuit worden gegaan dat bij de betaling door een ander, de draagplichtige **fiscaal** ook heeft betaald. Als die ander dat niet verhaalt of verrekent, drukt de betaling niet op de draagplichtige. Als de ander niet voor rekening van de draagplichtige **wil** betalen, (maar bijvoorbeeld op grond van zijn hoofdelijke aansprakelijkheid of borgtocht betaalt of moet betalen) is sprake van subrogatie. Bij subrogatie heeft de draagplichtige nog niet betaald. De draagplichtige heeft dan pas recht op aftrek als hij zijn schuld als draagplichtige voldoet.
+Rente is aftrekbaar als de degene die recht heeft op aftrek (de draagplichtige) heeft betaald als bedoeld in [artikel 3.147 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.147). Voor aftrek moet de rente ook op de belastingplichtige drukken ([artikel 3.110 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.110)). Als een ander voor de draagplichtige betaalt, is van belang of die ander (mede) voor rekening van de draagplichtige betaalt. Het is niet gebruikelijk om zomaar de rente voor de draagplichtige te betalen. Er kan dus niet altijd vanuit worden gegaan dat bij de betaling door een ander, de draagplichtige *fiscaal* ook heeft betaald. Als die ander dat niet verhaalt of verrekent, drukt de betaling niet op de draagplichtige. Als de ander niet voor rekening van de draagplichtige *wil* betalen, (maar bijvoorbeeld op grond van zijn hoofdelijke aansprakelijkheid of borgtocht betaalt of moet betalen) is sprake van subrogatie. Bij subrogatie heeft de draagplichtige nog niet betaald. De draagplichtige heeft dan pas recht op aftrek als hij zijn schuld als draagplichtige voldoet.
 
 Gemeenschappelijke eigenaren hebben in beginsel een pro rata draagplicht voor de totale kosten van de eigen woning. Maar iedere eigenaar zal hoofdelijk aansprakelijk zijn voor de totale kosten. Dit houdt in dat met de betaling van gezamenlijke kosten door de ene eigenaar doorgaans de andere eigenaar fiscaal ook heeft betaald volgens de eisen van [artikel 3.147 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.147).
 
@@ -435,15 +561,21 @@ Belastingplichtigen, die het hele jaar fiscale partners zijn, kunnen de gezamenl
 
 Als twee personen gezamenlijk een huis kopen, zijn zij meestal wederzijds hoofdelijk aansprakelijk of medeschuldenaar voor de totale schuld. Voor ieder is de eigenwoningschuld alleen het deel van de lening dat hij of zij zelf is aangegaan voor de verwerving van de eigen woning.
 
+Voorbeeld 1
+
 A en B, geen fiscale partners, kopen samen een woning voor € 200.000. A betaalt zijn aandeel contant. B wil € 100.000 lenen. De bank leent dat bedrag onder de voorwaarde dat A zich hoofdelijk aansprakelijk stelt voor die schuld. Daardoor wordt de lening niet (deels) de eigenwoningschuld van A. B is immers de lening aangegaan in verband met de verwerving van haar deel van de eigen woning. De schuldverhouding is ook niet afhankelijk van de eigendomsverhouding. De eigenwoningschuld van A is nihil.
 
 De rente die A betaalt wordt aangemerkt als betaling door B. B kan de betaalde rente aftrekken. Dit is anders bij subrogatie (zie voorbeeld 2) of als de betaling door de één niet zal worden verrekend.
+
+Voorbeeld 2
 
 A en B zijn samen eigenaar van de echtelijke woning en hoofdelijk aansprakelijk voor de volledige eigenwoningschuld. A verhuist in het kader van echtscheiding. B kan de rente die betrekking heeft op de periode daarna, aftrekken over ‘haar helft’ van de eigenwoningschuld. Na zijn verhuizing blijft de woning voor A nog twee jaar eigen woning ([artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). A kan nog twee jaar lang de rente aftrekken over ‘zijn helft’ van de eigenwoningschuld. A weigert om de rente te betalen. De bank spreekt daarop B aan op grond van haar hoofdelijke aansprakelijkheid. B kan deze rente niet aftrekken. Ook A heeft geen recht op aftrek van de op B verhaalde rente. Hij heeft immers niets betaald. Pas als A de rente aan B heeft vergoed, kan voor hem sprake zijn van aftrek.
 
 ### 7.3. Rente betaald door hoofdelijke aansprakelijke of medeschuldenaar die geen eigenaar is
 
 Voor degene die hoofdelijk aansprakelijk of medeschuldenaar is voor een lening is de lening nog geen eigenwoningschuld. De lening kan pas eigenwoningschuld zijn voor zover die belastingplichtige zelf de lening is aangegaan voor verwerving, onderhoud of verbetering van (zijn deel van) zijn eigen woning.
+
+Voorbeeld
 
 Een kind koopt een eigen woning. Hij is hiervoor een eigenwoningschuld aangegaan. Zijn ouders, die elders wonen, zijn hoofdelijk aansprakelijk of medeschuldenaar voor die eigenwoningschuld. De ouders betalen de rente aan de bank.
 
@@ -470,6 +602,14 @@ Hiertoe behoren niet de hypotheekvormen waarvan ik al voor 1 juli 1987 het stand
 Voor deze bijleenhypotheken heb ik goedgekeurd dat de rente die tot uiterlijk 31 december 2000 is bijgeschreven, niet als een box 3-schuld zal worden aangemerkt, maar als eigenwoningschuld (besluit van 7 juni 1987, nr. 287-8007, laatstelijk gewijzigd bij besluit van 3 mei 1988, nr. DB88/2857; beiden ingetrokken bij besluit van 14 april 1999, nr. DB99/982). Deze verruiming komt er op neer dat rente die vanaf 1 januari 2001 wordt betaald over de tot en met 31 december 2000 bijgeschreven rente, in box 1 als aftrekbare kosten van de eigen woning in aftrek kan worden gebracht.
 
 Deze bijleenhypotheken moeten op uiterlijk 31 mei 1999 tot stand zijn gekomen. Het betreft de volgende hypotheken:
+
+- – Perspectiefhypotheek (nieuwe stijl), van Van Nierop Assuradeuren NV.
+
+- – Lage Lasten Hypotheek (nieuwe stijl), van Westland/Utrecht Hypotheekbank NV.
+
+- – Netto Lasten Hypotheek (voorheen Prominent-hypotheek), van SNS Bank.
+
+Goedkeuring
 
 Voor de hiervoor vermelde bijleenhypotheken geldt dat de stand van de hypotheekschuld per 31 december 2000 in zijn geheel als eigenwoningschuld wordt aangemerkt. Het gaat dus om de hoofdsom vermeerderd met de tot en met 31 december 2000 bijgeschreven rente. De na 31 december 2000 bijgeschreven rente wordt echter niet tot de eigenwoningschuld gerekend.
 
@@ -505,7 +645,7 @@ De hier bedoelde producten moeten aan de hand van deze uitgangspunten worden beo
 
 ### 9.4. Geen aftrek voor betaling voor rechten en verplichtingen
 
-Uit de ontwikkelingen in de jurisprudentie (zie 9.2) is het volgende op te maken. Niet iedere betaling ter zake van het geheel van rechten en verplichtingen dat deel uitmaakt van een overeenkomst van geldlening, is aan te merken als rente, louter omdat partijen deze betaling ten titel van rente zijn overeengekomen.
+Uit de ontwikkelingen in de jurisprudentie (zie [9.2](https://wetten.overheid.nl/BWBR0027731)) is het volgende op te maken. Niet iedere betaling ter zake van het geheel van rechten en verplichtingen dat deel uitmaakt van een overeenkomst van geldlening, is aan te merken als rente, louter omdat partijen deze betaling ten titel van rente zijn overeengekomen.
 
 Een betaling die door partijen ten titel van rente is overeengekomen hoeft niet altijd te worden aangemerkt als rente. Door het geheel van rechten en verplichtingen van de overeenkomst van geldlening, kan een de betaling (deels) niet als rente wordt aangemerkt.
 
@@ -519,9 +659,15 @@ De omvang van de vergoeding voor het ter beschikking stellen van een hoofdsom is
 
 Uit praktische overwegingen keur ik goed dat de hiervóór bedoelde splitsing achterwege kan blijven indien de omvang van de rechten of verplichtingen uit hoofde van de met de overeenkomst van geldlening samenhangende overeenkomst verwaarloosbaar is.
 
+Voorbeeld
+
 Het hiervóór gemaakte onderscheid tussen de overeenkomst van geldlening en de daarmee samenhangende rechten (en verplichtingen) met zelfstandige betekenis kan als volgt worden toegelicht.
 
+Niet splitsen
+
 Er is een relatief hoge, maar marktconforme, rentevergoeding louter omdat de hoofdsom luidt in een andere valuta. Dan is naar mijn oordeel geen splitsing als hiervóór bedoeld nodig. De valuta waarin de hoofdsom luidt, is immers een wezenlijk onderdeel van een overeenkomst van geldlening. Naast deze overeenkomst ontstaat tussen de partijen geen afzonderlijke rechtsverhouding waaruit rechten en verplichtingen voortvloeien die een waarde in het economisch verkeer hebben.
+
+Wel splitsen
 
 Splitsing is daarentegen naar mijn oordeel wel geboden indien de debiteur naar keuze kan aflossen in een andere valuta dan die waarin de hoofdsom luidt. In zo’n geval heeft de door de geldnemer verschuldigde vergoeding immers enerzijds betrekking op de terbeschikkingstelling van de hoofdsom. Daarnaast heeft hij het recht gekregen af te lossen in een andere valuta dan die waarin de hoofdsom luidt.
 
@@ -557,7 +703,7 @@ Bij de aankoop van een appartement heeft de aankoopsom voor een deel betrekking 
 
 Zodra en voor zover de VVE gelden uit het depot opneemt voor onderhoud en/of verbetering van de eigen woning kan het daarmee overeenkomende deel van de lening aangemerkt worden als eigenwoningschuld. Het moment waarop een appartementseigenaar aan de vereniging voor beheer en onderhoud betaalt, is hierbij niet beslissend. Het gaat om het bedrag ten laste van het fonds dat aan een appartementseigenaar kan worden toegerekend voor de in een bepaald jaar gedane uitgaven voor beheer en onderhoud. Voor de betaling door de VVE kan verwaarloosd worden dat het depot mogelijk is aangegroeid doordat rente is bijgeschreven.
 
-Zolang de VVE het gestorte bedrag nog niet heeft besteed, kan op het betaalde bedrag de zesmaandsgoedkeuring gelden (zie onderdeel 3.2.). De depotgoedkeuring van onderdeel 3.2.1. is niet van toepassing omdat de storting bij de VVE niet is aan te merken als een verbouwingsdepot als daar is bedoeld.
+Zolang de VVE het gestorte bedrag nog niet heeft besteed, kan op het betaalde bedrag de zesmaandsgoedkeuring gelden (zie onderdeel [3.2.](https://wetten.overheid.nl/BWBR0027731)). De depotgoedkeuring van [onderdeel 3.2.1.](https://wetten.overheid.nl/BWBR0027731) is niet van toepassing omdat de storting bij de VVE niet is aan te merken als een verbouwingsdepot als daar is bedoeld.
 
 ### 10.4. Lening door de VVE bij een eigen woning
 
@@ -565,7 +711,13 @@ Het uitgangspunt voor de renteaftrek is dat de appartementseigenaar zelf een eig
 
 Ook kan een VVE zelf een lening aangaan. De VVE-leden zijn (voor hun deel) hoofdelijk verbonden met de schuld van de VVE ([artikel 5:113, vijfde lid, van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=113)). De rente en aflossing worden voldaan uit de dotaties van de leden. De VVE is fiscaal niet transparant. Omdat de leden hoofdelijk zijn verbonden met de schuld van de VVE worden de lening en de rentebetaling door de VVE toch aan leden toegerekend. Het VVE-lid heeft dan recht op aftrek van het deel van de rente over de lening van de VVE waarvoor hij aansprakelijk is (artikel 5:113, tweede lid, van het BW). De schuldeiser mag daarvoor van het VVE-lid extra zekerheid eisen. De rente is aftrekbaar op het moment dat is voldaan aan de volgende voorwaarden.
 
-Zolang de VVE de lening nog niet heeft besteed, kan op het betaalde bedrag de zesmaandsgoedkeuring gelden (zie onderdeel 3.2). De depotgoedkeuring van onderdeel 3.2.1 is niet van toepassing omdat de lening door de VVE niet is aan te merken als een verbouwingsdepot als daar is bedoeld.
+- – De VVE heeft de rente betaald aan de schuldeiser.
+
+- – Het lid van de VVE heeft zijn deel in de (totaal) te betalen rente voldaan aan de VVE.
+
+- – de VVE heeft de onderhoudskosten betaald. Voor zover de VVE de onderhoudskosten nog niet heeft betaald is geen sprake van een eigenwoningschuld. Voor zover het onderhoud wordt gepleegd en wordt betaald verhuist de lening van box 3 naar box 1.
+
+Zolang de VVE de lening nog niet heeft besteed, kan op het betaalde bedrag de zesmaandsgoedkeuring gelden (zie [onderdeel 3.2](https://wetten.overheid.nl/BWBR0027731)). De depotgoedkeuring van [onderdeel 3.2.1](https://wetten.overheid.nl/BWBR0027731) is niet van toepassing omdat de lening door de VVE niet is aan te merken als een verbouwingsdepot als daar is bedoeld.
 
 ### 10.5. Woonverenigingen en dergelijke
 
@@ -582,6 +734,10 @@ De SOT-regeling houdt in dat (een gedeelte van) de subsidie voor huiseigenaren o
 Als de huiseigenaar tussentijds het pand verkoopt, heeft hij in het algemeen recht op uitbetaling van een gedeelte van de toegezegde subsidie. Hierbij geldt dat hij tot het moment van verkoop aan de gestelde voorwaarden heeft voldaan.
 
 De huiseigenaar zal bij de SOT-regeling veelal de renovatiekosten voorfinancieren. In verband met de voorfinanciering van de renovatie kan de huiseigenaar via het NRF (onder marktconforme voorwaarden) een tweetal leningen afsluiten:
+
+- 1. Een lening tot maximaal het bedrag van de toegezegde subsidie die gedurende het subsidietijdvak niet hoeft te worden afgelost (hierna: de aflossingsvrije lening). De aflossingsvrije lening wordt afgelost met de subsidie die wordt uitbetaald. De aflossingsvrije lening moet door de huiseigenaar/bewoner steeds en onverkort aan het NRF terugbetaald te worden. Dit geldt ook wanneer de toegezegde subsidie niet of slechts gedeeltelijk wordt uitbetaald. Als de gemeente een voorschot op de subsidie verstrekt, komt dit voorschot in mindering op de aflossingsvrije lening of beperkt dit voorschot de maximale omvang van de af te sluiten aflossingsvrije lening. Over dit verstrekte voorschot brengt de gemeente aan de huiseigenaar/bewoner geen rente in rekening. Het onderhoud gedurende het subsidietijdvak komt voor rekening en risico van de huiseigenaar/bewoner. Als de huiseigenaar/bewoner de voorwaarden voor uitbetaling van de toegezegde subsidie niet nakomt, geldt een sanctie. Afhankelijk van de ernst van de nalatigheid, verliest hij het recht op uitbetaling tot maximaal het bedrag van de toegezegde subsidie. De gemeente vordert in die situatie een eventueel verstrekt voorschot, geheel of gedeeltelijk terug, afhankelijk van de ernst van de nalatigheid.
+
+- 2. Een annuïteitenlening voor de niet-gesubsidieerde renovatiekosten.
 
 ### 11.2. Fiscale gevolgen voor de huiseigenaar/bewoner
 
@@ -617,8 +773,10 @@ Het voordeel uit de Starterslening vormt geen belastbare schenking. Voor zover s
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
+- – 1 oktober 2003, nr. [CPP2003/1606M](https://wetten.overheid.nl/jci1.3:c:BWBR0015655); en
+
+- – 29 oktober 2009, nr. [CPP2009/2148M](https://wetten.overheid.nl/jci1.3:c:BWBR0026582)
+
 ### 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst.
-
-Dit besluit zal in de **Staatscourant** worden geplaatst.

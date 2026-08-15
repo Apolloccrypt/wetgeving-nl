@@ -1,64 +1,34 @@
 ---
 title: "Wet van 15 april 2010, houdende regeling van de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank (Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen)"
+citeertitel: "Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen"
 identifier: "BWBR0027660"
-country: "nl"
-rank: "wet"
-publication_date: "2016-01-01"
-last_updated: "2016-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027660"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "10528193"
-version_id: "17353512"
-internal_id: "C23946141"
-label_id: "10503284"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027660/2016-01-01/0"
-intitule_bron: "Stb.2010-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-15"
-intitule_published: "2010-05-20"
-intitule_in_force: "2010-05-20"
-intitule_status: "goed"
-original_publication: "Stb.2010-182"
-original_signed_date: "2010-04-15"
-original_published_date: "2010-05-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "32310"
-original_url_id: "stb-2010-182"
-entry_into_force_date: "2011-01-01"
-entry_into_force_dossier: "32310"
-jci_1_3: "jci1.3:c:BWBR0027660&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBR0027660&g=2016-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen"
-signed_date: "2010-04-15"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBR0027660"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 15 april 2010, houdende regeling van de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank (Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de continuïteit en de kwaliteit van de dienstverlening aan verzetsdeelnemers en oorlogsgetroffenen te waarborgen en daartoe nieuwe regels te treffen voor de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Raad:** de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3&z=2016-01-01&g=2016-01-01);
+- b. *Raad:* de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3&z=2016-01-01&g=2016-01-01);
 
-- c. **Sociale verzekeringsbank:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- c. *Sociale verzekeringsbank:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- d. **Cliëntenraad:** de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=10&z=2016-01-01&g=2016-01-01);
+- d. *Cliëntenraad:* de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=10&z=2016-01-01&g=2016-01-01);
 
-- e. **wetten voor verzetsdeelnemers en oorlogsgetroffenen:** de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664);
+- e. *wetten voor verzetsdeelnemers en oorlogsgetroffenen:* de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664);
 
-- f. **AOR:** de Algemene Oorlogsongevallenregeling Indonesië met inbegrip van het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118).
+- f. *AOR:* de Algemene Oorlogsongevallenregeling Indonesië met inbegrip van het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118).
 
 ##### Artikel 2
 
@@ -184,31 +154,31 @@ De Sociale verzekeringsbank heeft tot taak:
 
 ##### Artikel 13
 
-Op het tijdstip van inwerkingtreding van de [wet tot wijziging van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen in verband met het opnemen van een grondslag voor de uitvoering door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank van de Algemene Oorlogsongevallenregeling Indonesië en het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118)](onbekend) worden de archiefbescheiden van de Stichting Administratie Indonesische Pensioenen, voor zover betrekking hebbend op de AOR, overgedragen aan de Sociale verzekeringsbank respectievelijk de Pensioen- en Uitkeringsraad, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
+Op het tijdstip van inwerkingtreding van de wet tot wijziging van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen in verband met het opnemen van een grondslag voor de uitvoering door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank van de Algemene Oorlogsongevallenregeling Indonesië en het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118) worden de archiefbescheiden van de Stichting Administratie Indonesische Pensioenen, voor zover betrekking hebbend op de AOR, overgedragen aan de Sociale verzekeringsbank respectievelijk de Pensioen- en Uitkeringsraad, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Wijzigt de Wet buitengewoon pensioen 1940–1945.
+*Wijzigt de Wet buitengewoon pensioen 1940–1945.*
 
 ##### Artikel 16
 
-Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
+*Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.*
 
 ##### Artikel 17
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 18
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel 19
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.*
 
 ##### Artikel 20
 
@@ -220,7 +190,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Sociale Zaken en We
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
@@ -229,5 +199,3 @@ Deze wet treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 24
 
 Deze wet wordt aangehaald als: Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

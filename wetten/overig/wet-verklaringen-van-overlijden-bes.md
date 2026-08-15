@@ -1,38 +1,16 @@
 ---
 title: "Wet verklaringen van overlijden BES"
 identifier: "BWBR0028199"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-04"
-last_updated: "2011-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028199"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10693243"
-version_id: "17655722"
-internal_id: "C24783801"
-label_id: "10667914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028199/2011-10-04/0"
-intitule_bron: "Stb.2010-405"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-405"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-405"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028199&z=2011-10-04&g=2011-10-04"
-jci_1_0: "1.0:c:BWBR0028199&g=2011-10-04"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-04
+status: geldig
+toestand: 2011-10-04
+bron: "https://wetten.overheid.nl/BWBR0028199"
+opgehaald: 2026-08-15
 ---
+
 # Wet verklaringen van overlijden BES
 
 ##### Artikel 1
@@ -65,11 +43,11 @@ Ontbreekt de verklaring in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028
 
 Indien sprake is van een mededeling als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) brengt de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04) aangewezen geneeskundige door invulling van een formulier onverwijld verslag uit aan:
 
-- –. de officier van justitie;
+- – de officier van justitie;
 
-- –. de ambtenaar van de Burgerlijke Stand;
+- – de ambtenaar van de Burgerlijke Stand;
 
-- –. de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c).
+- – de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c).
 
 De op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4&z=2011-10-04&g=2011-10-04) aangewezen ambtenaar zendt het beredeneerd verslag als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1&z=2011-10-04&g=2011-10-04) mee.
 
@@ -99,7 +77,7 @@ Ontbreekt eene der verklaringen, in deze wet aangeduid, op het tijdstip, dat het
 
 Bij het verleenen van het verlof, genoemd in [art. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=9&z=2011-10-04&g=2011-10-04), en bij de lastgeving bedoeld in [art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=10&z=2011-10-04&g=2011-10-04), verbiedt de ambtenaar van den Burgerlijken Stand uitdrukkelijk het anders dan op eene baar dragen van een kinder-lijk, indien blijkt, dat het kind is overleden aan eene besmettelijke ziekte.
 
-## Strafbepalingen
+### Strafbepalingen
 
 ##### Artikel 12
 
@@ -111,7 +89,7 @@ Bij het verleenen van het verlof, genoemd in [art. 9](https://wetten.overheid.nl
 
 4. De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
-## Slotbepaling
+### Slotbepaling
 
 ##### Artikel 13
 

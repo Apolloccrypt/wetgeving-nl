@@ -1,54 +1,28 @@
 ---
 title: "Beleidsregel van de Minister van Verkeer en Waterstaat omtrent de uitleg van artikel 17, derde lid, van de Spoorwegwet"
+citeertitel: "Beleidsregel Minister Verkeer en Waterstaat omtrent uitleg van artikel 17, derde lid, Spoorwegwet"
 identifier: "BWBR0027834"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-07-02"
-last_updated: "2010-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027834"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "10590083"
-version_id: "17487742"
-internal_id: "C24189991"
-label_id: "10565014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027834/2010-07-02/0"
-intitule_bron: "Stcrt.2010-9380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-11"
-intitule_published: "2010-07-01"
-intitule_in_force: "2010-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-9380"
-original_signed_date: "2010-06-11"
-original_published_date: "2010-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-9380"
-entry_into_force_date: "2010-07-02"
-jci_1_3: "jci1.3:c:BWBR0027834&z=2010-07-02&g=2010-07-02"
-jci_1_0: "1.0:c:BWBR0027834&g=2010-07-02"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel Minister Verkeer en Waterstaat omtrent uitleg van artikel 17, derde lid, Spoorwegwet"
-signed_date: "2010-06-11"
-entry_into_force: "2010-07-02"
+publicatiedatum: 2010-07-02
+laatste_update: 2010-07-02
+status: geldig
+toestand: 2010-07-02
+bron: "https://wetten.overheid.nl/BWBR0027834"
+opgehaald: 2026-08-15
 ---
+
 # Beleidsregel van de Minister van Verkeer en Waterstaat omtrent de uitleg van artikel 17, derde lid, van de Spoorwegwet
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **beheerder:** beheerder als bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
+- a. *beheerder:* beheerder als bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
 
-- b. **gerechtigde:** gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57);
+- b. *gerechtigde:* gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57);
 
-- c. **Onze Minister:** Onze Minister van Verkeer en Waterstaat.
+- c. *Onze Minister:* Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
@@ -93,5 +67,3 @@ De beheerder doet zijn verzoek tot instemming op grond van [artikel 17, derde li
 ##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

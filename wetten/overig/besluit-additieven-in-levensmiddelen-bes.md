@@ -1,97 +1,75 @@
 ---
 title: "Besluit additieven in levensmiddelen BES"
 identifier: "BWBR0028406"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028406"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10776523"
-version_id: "17753092"
-internal_id: "C24790841"
-label_id: "10751194"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028406/2010-10-10/0"
-intitule_bron: "Stb.2010-655"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-655"
-original_signed_date: "2010-09-15"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-655"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028406&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028406&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-15"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028406"
+opgehaald: 2026-08-15
 ---
+
 # Besluit additieven in levensmiddelen BES
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **additieven:** levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen;
+- a. *additieven:* levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen;
 
-- b. **quantum satis:** een hoeveelheid van een additief toegevoegd aan eet- en drinkwaren overeenkomstig goede productiemethoden, die niet groter is dan voor het beoogde doel nodig is, onder de voorwaarde dat de consument niet wordt misleid;
+- b. *quantum satis:* een hoeveelheid van een additief toegevoegd aan eet- en drinkwaren overeenkomstig goede productiemethoden, die niet groter is dan voor het beoogde doel nodig is, onder de voorwaarde dat de consument niet wordt misleid;
 
-- c. **onverwerkte eet- of drinkwaar:** een eet- of drinkwaar die geen behandeling heeft ondergaan welke een ingrijpende wijziging veroorzaakt in de oorspronkelijke staat daarvan, met dien verstande dat die eet- of drinkwaar gesneden, verdeeld, uitgebeend, gehakt, gepeld, geschild, gewassen, gemalen, schoongemaakt, diepgevroren, ingevroren, gekoeld, ontkorst, gedopt, verpakt of niet-verpakt kan zijn;
+- c. *onverwerkte eet- of drinkwaar:* een eet- of drinkwaar die geen behandeling heeft ondergaan welke een ingrijpende wijziging veroorzaakt in de oorspronkelijke staat daarvan, met dien verstande dat die eet- of drinkwaar gesneden, verdeeld, uitgebeend, gehakt, gepeld, geschild, gewassen, gemalen, schoongemaakt, diepgevroren, ingevroren, gekoeld, ontkorst, gedopt, verpakt of niet-verpakt kan zijn;
 
-- d. **conserveermiddelen:** stoffen die de houdbaarheid van eet- en drinkwaren vergroten door deze te beschermen tegen bederf door micro-organismen;
+- d. *conserveermiddelen:* stoffen die de houdbaarheid van eet- en drinkwaren vergroten door deze te beschermen tegen bederf door micro-organismen;
 
-- e. **anti-oxidanten:** stoffen die de houdbaarheid van eet- en drinkwaren vergroten door deze te beschermen tegen bederf door oxidatie;
+- e. *anti-oxidanten:* stoffen die de houdbaarheid van eet- en drinkwaren vergroten door deze te beschermen tegen bederf door oxidatie;
 
-- f. **draagstoffen:** stoffen, met inbegrip van oplosmiddelen die als draagstoffen fungeren die gebruikt worden om een additief op te lossen, te verdunnen, te dispergeren of op een andere wijze fysisch te wijzigen zonder de technologische functie daarvan te veranderen en zonder zelf enig technologisch effect uit te oefenen ten einde de verwerking, de toepassing of het gebruik van het additief te vergemakkelijken;
+- f. *draagstoffen:* stoffen, met inbegrip van oplosmiddelen die als draagstoffen fungeren die gebruikt worden om een additief op te lossen, te verdunnen, te dispergeren of op een andere wijze fysisch te wijzigen zonder de technologische functie daarvan te veranderen en zonder zelf enig technologisch effect uit te oefenen ten einde de verwerking, de toepassing of het gebruik van het additief te vergemakkelijken;
 
-- g. **voedingszuren:** stoffen die de zuurtegraad van eet- en drinkwaren verhogen of er een zure smaak aan geven;
+- g. *voedingszuren:* stoffen die de zuurtegraad van eet- en drinkwaren verhogen of er een zure smaak aan geven;
 
-- h. **zuurteregelaars:** stoffen die de zuurte of alkaliteit van eet- en drinkwaren veranderen of regelen;
+- h. *zuurteregelaars:* stoffen die de zuurte of alkaliteit van eet- en drinkwaren veranderen of regelen;
 
-- i. **antiklontermiddelen:** stoffen die de neiging van afzonderlijke deeltjes van eet- en drinkwaren om aan elkaar te kleven verkleinen;
+- i. *antiklontermiddelen:* stoffen die de neiging van afzonderlijke deeltjes van eet- en drinkwaren om aan elkaar te kleven verkleinen;
 
-- j. **antischuimmiddelen:** stoffen die schuimvorming verhinderen of verminderen;
+- j. *antischuimmiddelen:* stoffen die schuimvorming verhinderen of verminderen;
 
-- k. **vulstoffen:** stoffen die het volume van een eet- of drinkwaar vergroten zonder noemenswaardig tot de beschikbare energiewaarde ervan bij te dragen;
+- k. *vulstoffen:* stoffen die het volume van een eet- of drinkwaar vergroten zonder noemenswaardig tot de beschikbare energiewaarde ervan bij te dragen;
 
-- l. **emulgatoren:** stoffen die een homogene menging van twee of meer onmengbare fasen in een eet- of drinkwaar mogelijk maken of instandhouden;
+- l. *emulgatoren:* stoffen die een homogene menging van twee of meer onmengbare fasen in een eet- of drinkwaar mogelijk maken of instandhouden;
 
-- m. **smeltzouten:** stoffen die de kaaseiwitten in gedispergeerde vorm omzetten en zodoende een homogene verdeling van vet en andere bestanddelen bewerkstelligen;
+- m. *smeltzouten:* stoffen die de kaaseiwitten in gedispergeerde vorm omzetten en zodoende een homogene verdeling van vet en andere bestanddelen bewerkstelligen;
 
-- n. **verstevigingsmiddelen:** stoffen die de vezels van fruit en groeten stevig of knapperig maken of houden, of een wisselwerking met geleermiddelen aangaan om een gel te vormen of te verstevigen;
+- n. *verstevigingsmiddelen:* stoffen die de vezels van fruit en groeten stevig of knapperig maken of houden, of een wisselwerking met geleermiddelen aangaan om een gel te vormen of te verstevigen;
 
-- o. **smaakversterkers:** stoffen die de karakteristieke smaak of geur van een eet- of drinkwaar versterken;
+- o. *smaakversterkers:* stoffen die de karakteristieke smaak of geur van een eet- of drinkwaar versterken;
 
-- p. **schuimmiddelen:** stoffen die het mogelijk maken een homogene dispersie van een gasvormige fase in een vloeibare of vaste eet- of drinkwaar te vormen;
+- p. *schuimmiddelen:* stoffen die het mogelijk maken een homogene dispersie van een gasvormige fase in een vloeibare of vaste eet- of drinkwaar te vormen;
 
-- q. **geleermiddelen:** stoffen die een eet- of drinkwaar vorm geven door de vorming van een gel;
+- q. *geleermiddelen:* stoffen die een eet- of drinkwaar vorm geven door de vorming van een gel;
 
-- r. **glansmiddelen:** stoffen, met inbegrip van glijmiddelen die, wanneer zij worden aangebracht op het oppervlak van een eet- of drinkwaar, daaraan een glanzend uiterlijk geven, of daarop een beschermende deklaag vormen;
+- r. *glansmiddelen:* stoffen, met inbegrip van glijmiddelen die, wanneer zij worden aangebracht op het oppervlak van een eet- of drinkwaar, daaraan een glanzend uiterlijk geven, of daarop een beschermende deklaag vormen;
 
-- s. **bevochtigingsmiddelen:** stoffen die uitdroging van eet- en drinkwaren beletten door de gevolgen van een lage luchtvochtigheid tegen te gaan, of de oplossing van een poeder in een waterig medium bevorderen;
+- s. *bevochtigingsmiddelen:* stoffen die uitdroging van eet- en drinkwaren beletten door de gevolgen van een lage luchtvochtigheid tegen te gaan, of de oplossing van een poeder in een waterig medium bevorderen;
 
-- t. **gemodificeerde zetmelen:** stoffen die door één of meer chemische behandelingen worden verkregen uit zemelen, die een fysische of enzymatische behandeling kunnen hebben ondergaan, en die met zuur of loog mogen zijn verdund of gebleekt;
+- t. *gemodificeerde zetmelen:* stoffen die door één of meer chemische behandelingen worden verkregen uit zemelen, die een fysische of enzymatische behandeling kunnen hebben ondergaan, en die met zuur of loog mogen zijn verdund of gebleekt;
 
-- u. **verpakkingsgassen:** gassen, met uitzondering van lucht die vóór, tijdens of na het in de verpakking brengen van een eet- of drinkwaar in die verpakking worden gebracht;
+- u. *verpakkingsgassen:* gassen, met uitzondering van lucht die vóór, tijdens of na het in de verpakking brengen van een eet- of drinkwaar in die verpakking worden gebracht;
 
-- v. **drijfgassen:** gassen met uitzondering van lucht die een eet- of drinkwaar uit zijn recipiënt drukken;
+- v. *drijfgassen:* gassen met uitzondering van lucht die een eet- of drinkwaar uit zijn recipiënt drukken;
 
-- w. **rijsmiddelen:** stoffen of mengels van stoffen die gas vrijmaken en daardoor het volume van deeg of beslag vergroten;
+- w. *rijsmiddelen:* stoffen of mengels van stoffen die gas vrijmaken en daardoor het volume van deeg of beslag vergroten;
 
-- x. **complexvormers:** stoffen die chemische complexen vormen met metaalionen;
+- x. *complexvormers:* stoffen die chemische complexen vormen met metaalionen;
 
-- y. **stabilisatoren:** stoffen die het mogelijk maken de fysisch-chemische toestand van een eet- of drinkwaar in stand te houden door een homogene dispersie van twee of meer onmengbare stoffen in een eet- of drinkwaar in stand te houden, of een karakteristieke kleur van een eet- of drinkwaar te stabiliseren, fixeren of intensiveren;
+- y. *stabilisatoren:* stoffen die het mogelijk maken de fysisch-chemische toestand van een eet- of drinkwaar in stand te houden door een homogene dispersie van twee of meer onmengbare stoffen in een eet- of drinkwaar in stand te houden, of een karakteristieke kleur van een eet- of drinkwaar te stabiliseren, fixeren of intensiveren;
 
-- z. **verdikkingsmiddelen:** stoffen die de viscositeit van een eet- of drinkwaar vergroten;
+- z. *verdikkingsmiddelen:* stoffen die de viscositeit van een eet- of drinkwaar vergroten;
 
-- aa. **meelverbeteraars:** stoffen, met uitzondering van emulgatoren, die aan meel of deeg worden toegevoegd om de bakeigenschappen te verbeteren.
+- aa. *meelverbeteraars:* stoffen, met uitzondering van emulgatoren, die aan meel of deeg worden toegevoegd om de bakeigenschappen te verbeteren.
 
 2. Dit besluit is niet van toepassing op:
 
@@ -202,23 +180,3 @@ Dit besluit treedt in werking de dag na de uitgifte van het Publicatieblad waari
 ##### Artikel 9
 
 Dit besluit kan worden aangehaald als: Besluit additieven in levensmiddelen BES.
-
-## Bijlage 1
-
-Niet opgenomen.
-
-## Bijlage 2
-
-Niet opgenomen.
-
-## Bijlage 3
-
-Niet opgenomen.
-
-## Bijlage 4
-
-Niet opgenomen.
-
-## Bijlage 5
-
-Niet opgenomen.

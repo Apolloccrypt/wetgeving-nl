@@ -1,47 +1,17 @@
 ---
 title: "Regeling luchtvaartmeteorologische inlichtingen BES 2010"
 identifier: "BWBR0028494"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028494"
+categorie: "Verkeer"
 soort: "ministeriele-regeling-BES"
-stam_id: "10816273"
-version_id: "17794792"
-internal_id: "C24753231"
-label_id: "10791034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028494/2020-01-01/0"
-intitule_bron: "Stcrt.2010-14537"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14537"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14537"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028494&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028494&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028494"
+opgehaald: 2026-08-15
 ---
+
 # Regeling luchtvaartmeteorologische inlichtingen BES 2010
-
-Handelende in overeenstemming met de minister van Defensie;
-
-Gelet op de [artikelen 3, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=3), [3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=3a), en [8b van de wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=8b) en [artikel 26, tweede lid, onderdeel b, van het Besluit luchtvaart BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=26);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -49,55 +19,63 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 In deze regeling wordt verstaan onder:
 
-- **AERODROME WARNING:** een waarschuwing aan luchtvaartterreinverkeer op de grond voor onweer, hagel, sneeuw, ijzel, rijp, harde wind, windstoten of vorst;
+- *AERODROME WARNING:* een waarschuwing aan luchtvaartterreinverkeer op de grond voor onweer, hagel, sneeuw, ijzel, rijp, harde wind, windstoten of vorst;
 
-- **AIREP:** een rapport dat vanuit een luchtvaartuig tijdens de vlucht wordt verstrekt met informatie over positie en operationele of meteorologische omstandigheden (air report);
+- *AIREP:* een rapport dat vanuit een luchtvaartuig tijdens de vlucht wordt verstrekt met informatie over positie en operationele of meteorologische omstandigheden (air report);
 
-- **AUTO METAR:** volledig automatisch tot stand gekomen uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (automated meteorological aerodrome report);
+- *AUTO METAR:* volledig automatisch tot stand gekomen uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (automated meteorological aerodrome report);
 
-- **AUTO SPECI:** volledig automatisch tot stand gekomen tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (automated special report);
+- *AUTO SPECI:* volledig automatisch tot stand gekomen tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (automated special report);
 
-- **BES luchtruim:** die delen van het luchtruim in het Vluchtinformatiegebied Curaçao en het Vluchtinformatiegebied San Juan waarbinnen de Minister van Infrastructuur en Milieu de verantwoordelijkheid voor het verlenen van luchtverkeersdiensten heeft aanvaard, te weten Flamingo CTR, F.D. Roosevelt ATZ en Yrausquin ATZ;
+- *BES luchtruim:* die delen van het luchtruim in het Vluchtinformatiegebied Curaçao en het Vluchtinformatiegebied San Juan waarbinnen de Minister van Infrastructuur en Milieu de verantwoordelijkheid voor het verlenen van luchtverkeersdiensten heeft aanvaard, te weten Flamingo CTR, F.D. Roosevelt ATZ en Yrausquin ATZ;
 
-- **BES luchtvaartterrein:** Flamingo Luchthaven op Bonaire, F.D. Roosevelt vliegveld op Sint Eustatius en Juancho Yrausquin vliegveld op Saba;
+- *BES luchtvaartterrein:* Flamingo Luchthaven op Bonaire, F.D. Roosevelt vliegveld op Sint Eustatius en Juancho Yrausquin vliegveld op Saba;
 
-- **BRIEFING:** mondeling verstrekken van actuele of verwachte meteorologische condities gebaseerd op bestaande berichten over het actuele of verwachte weer, dat wordt gebruikt tijdens de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten;
+- *BRIEFING:* mondeling verstrekken van actuele of verwachte meteorologische condities gebaseerd op bestaande berichten over het actuele of verwachte weer, dat wordt gebruikt tijdens de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten;
 
-- **CAR/SAM ANP:** gedetailleerde informatie over faciliteiten, diensten of procedures voor de internationale luchtvaartnavigatie, van toepassing in het Caribisch gebied (Caribbean and South America Regional Air Navigation Plan);
+- *CAR/SAM ANP:* gedetailleerde informatie over faciliteiten, diensten of procedures voor de internationale luchtvaartnavigatie, van toepassing in het Caribisch gebied (Caribbean and South America Regional Air Navigation Plan);
 
-- **CONSULTATIE** : toelichting door een meteoroloog of een ander gekwalificeerd persoon, op verstrekte meteorologische inlichtingen over de heersende of verwachte weersomstandigheden in relatie tot de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en overleg;
+- *CONSULTATIE* : toelichting door een meteoroloog of een ander gekwalificeerd persoon, op verstrekte meteorologische inlichtingen over de heersende of verwachte weersomstandigheden in relatie tot de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en overleg;
 
-- **ICAO:** International Civil Aviation Organization, een VN agentschap voor de burgerluchtvaart met als doel veilige (safe and secure) en duurzame ontwikkeling door middel van samenwerking tussen landen.
+- *ICAO:* International Civil Aviation Organization, een VN agentschap voor de burgerluchtvaart met als doel veilige (safe and secure) en duurzame ontwikkeling door middel van samenwerking tussen landen.
 
-- **Kustwacht:** Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *Kustwacht:* Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **LLFC:** verwachting voor het vluchtinformatiegebied, voor luchtverkeer beneden vliegniveau 100, die bij overschrijding van limietwaarden geamendeerd wordt (low-level-forecast);
+- *LLFC:* verwachting voor het vluchtinformatiegebied, voor luchtverkeer beneden vliegniveau 100, die bij overschrijding van limietwaarden geamendeerd wordt (low-level-forecast);
 
-- **METAR** : uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (meteorological aerodrome report);
+- *METAR* : uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (meteorological aerodrome report);
 
-- **OPMET:** de verzameling van alfanumerieke waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AUTO METAR, AUTO SPECI, LLFC, METAR, SIGMET, SPECI, TAF en TREND-forecast (operational meteorological information);
+- *OPMET:* de verzameling van alfanumerieke waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AUTO METAR, AUTO SPECI, LLFC, METAR, SIGMET, SPECI, TAF en TREND-forecast (operational meteorological information);
 
-- **SIGMET:** ongecodeerde waarschuwing voor weersomstandigheden die van invloed kunnen zijn op een veilige vluchtuitvoering (significant meteorological conditions);
+- *SIGMET:* ongecodeerde waarschuwing voor weersomstandigheden die van invloed kunnen zijn op een veilige vluchtuitvoering (significant meteorological conditions);
 
-- **SPECI:** tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (special report);
+- *SPECI:* tussentijds waarnemingsrapport in luchtvaartmeteorologische code bij overschrijding van limietwaarden of andere significante verandering in gebruik voor de voorbereiding van een vlucht (special report);
 
-- **TAF:** 6-uurlijkse luchtvaartterreinweersverwachting in luchtvaartmeteorologische code voor de komende 24 uur, die bij overschrijding van limietwaarden wordt geamendeerd (terminal aerodrome forecast);
+- *TAF:* 6-uurlijkse luchtvaartterreinweersverwachting in luchtvaartmeteorologische code voor de komende 24 uur, die bij overschrijding van limietwaarden wordt geamendeerd (terminal aerodrome forecast);
 
-- **VERDRAG:** het op 7 december 1944 in Chicago gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+- *VERDRAG:* het op 7 december 1944 in Chicago gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
-- **WAFC:** binnen het WAFS zijn twee centra aangewezen voor de beschikbaarstelling van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100, Washington en Londen. De inlichtingen voor de openbare lichamen Bonaire, Sint Eustatius en Saba worden aan de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie door het WAFC Washington beschikbaar gesteld (world area forecast centre);
+- *WAFC:* binnen het WAFS zijn twee centra aangewezen voor de beschikbaarstelling van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100, Washington en Londen. De inlichtingen voor de openbare lichamen Bonaire, Sint Eustatius en Saba worden aan de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie door het WAFC Washington beschikbaar gesteld (world area forecast centre);
 
-- **WAFS:** een middels ICAO annex 3 bij het verdrag geregeld systeem voor de beschikbaarstelling en verstrekking van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100 (world area forecast system);
+- *WAFS:* een middels ICAO annex 3 bij het verdrag geregeld systeem voor de beschikbaarstelling en verstrekking van luchtvaartmeteorologische inlichtingen voor gebruik hoger dan vliegniveau 100 (world area forecast system);
 
-- **WEERRADAR:** beeld van weerradar-ontvangers op Curaçao en Sint Maarten;
+- *WEERRADAR:* beeld van weerradar-ontvangers op Curaçao en Sint Maarten;
 
-- **WIFS:** het door de Internationale Burgerluchtvaartorganisatie beheerde WAFC Internet File Service distributiesysteem van OPMET en WAFS informatie afkomstig van de WAFC Washington;
+- *WIFS:* het door de Internationale Burgerluchtvaartorganisatie beheerde WAFC Internet File Service distributiesysteem van OPMET en WAFS informatie afkomstig van de WAFC Washington;
 
-- **WINDSHEAR WAARSCHUWINGEN:** waarschuwing voor opgetreden of verwachte sterke verticale of horizontale windrichtingverandering of windsnelheidveranderingen;
+- *WINDSHEAR WAARSCHUWINGEN:* waarschuwing voor opgetreden of verwachte sterke verticale of horizontale windrichtingverandering of windsnelheidveranderingen;
 
-- **WMO:** Wereld Meteorologische Organisatie, een VN agentschap waarin de nationale meteorologische diensten wereldwijd samenwerken op het gebied van meteorologie en klimaat;
+- *WMO:* Wereld Meteorologische Organisatie, een VN agentschap waarin de nationale meteorologische diensten wereldwijd samenwerken op het gebied van meteorologie en klimaat;
 
-- **LLTI:** waarschuwing voor verticale temperatuurtoenames ter plaatse (Low Level Temperature Inversion).
+- *LLTI:* waarschuwing voor verticale temperatuurtoenames ter plaatse (Low Level Temperature Inversion).
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 5.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b).
+
+##### Artikel 1b
+
+Het Koninklijk Nederlands Meteorologisch Instituut wordt op exclusieve basis aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie in het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
 
 #### § 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
 
@@ -127,25 +105,25 @@ In deze regeling wordt verstaan onder:
 
 - a. producten en diensten gebaseerd op de internationale eisen die zijn vastgelegd in ICAO Annex 3 bij het verdrag, voor zover toepasselijk nader omschreven in deel V van het CAR/SAM ANP:
 
-- 1°. bewaakte weerwaarnemingen en rapporten;
+   - 1°. bewaakte weerwaarnemingen en rapporten;
 
-- 2°. bewaakte weersverwachtingen;
+   - 2°. bewaakte weersverwachtingen;
 
-- 3°. bewaakte weerswaarschuwingen;
+   - 3°. bewaakte weerswaarschuwingen;
 
-- 4°. meteorologische satellietwaarnemingen;
+   - 4°. meteorologische satellietwaarnemingen;
 
-- 5°. weerradarinformatie;
+   - 5°. weerradarinformatie;
 
-- 6°. klimatologische rapporten;
+   - 6°. klimatologische rapporten;
 
-- 7°. WAFC producten;
+   - 7°. WAFC producten;
 
-- 8°. OPMET data (WIFS);
+   - 8°. OPMET data (WIFS);
 
-- 9°. briefing, en
+   - 9°. briefing, en
 
-- 10°. consultatie;
+   - 10°. consultatie;
 
 - b. door de Minister van Infrastructuur en Waterstaat opgedragen nationale producten en diensten.
 
@@ -155,11 +133,11 @@ In deze regeling wordt verstaan onder:
 
 5. De in het derde en vierde lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b).
 
-#### § 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
+#### § 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor de delen van het BES luchtruim
 
 ##### Artikel 3
 
-1. Voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers in het BES luchtruim stelt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
+1. Voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers in het BES luchtruim stelt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
 - a. SIGMET;
 
@@ -191,47 +169,47 @@ In deze regeling wordt verstaan onder:
 
 2. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie houdt de ingevolge het eerste lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 100 dagen beschikbaar.
 
-#### § 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor de delen van het BES luchtruim
+#### § 4. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer
 
 ##### Artikel 4
 
 1. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt tijdens de reguliere openstellinguren van BES luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
-- a. voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers:
+- a. voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers:
 
-- 1°. aerodrome Warning;
+   - 1°. aerodrome Warning;
 
-- 2°. windshear waarschuwingen;
+   - 2°. windshear waarschuwingen;
 
-- 3°. TAF;
+   - 3°. TAF;
 
-- 4°. METAR en SPECI, en
+   - 4°. METAR en SPECI, en
 
-- 5°. take-off forecast, indien daarom wordt verzocht;
+   - 5°. take-off forecast, indien daarom wordt verzocht;
 
-- b. voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers tevens:
+- b. voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers tevens:
 
-- 1°. windinformatie representatief voor de landingsplek op de landingsbaan, en
+   - 1°. windinformatie representatief voor de landingsplek op de landingsbaan, en
 
-- 2°. windinformatie representatief voor de vertrekplek op de landingsbaan.
+   - 2°. windinformatie representatief voor de vertrekplek op de landingsbaan.
 
 2. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt buiten de reguliere openstellinguren van de in het eerste lid bedoelde BES luchtvaartterreinen de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
-- a. voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers: TAF;
+- a. voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers: TAF;
 
-- b. voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) genoemde gebruikers tevens:
+- b. voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01) genoemde gebruikers tevens:
 
-- 1°. windinformatie, representatief voor de landingsplek op de landingsbaan, en
+   - 1°. windinformatie, representatief voor de landingsplek op de landingsbaan, en
 
-- 2°. windinformatie, representatief voor de vertrekplek op de landingsbaan.
+   - 2°. windinformatie, representatief voor de vertrekplek op de landingsbaan.
 
 3. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie houdt de ingevolge het eerste en tweede lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 100 dagen beschikbaar.
 
-#### § 4. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer
+#### § 5. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer
 
 ##### Artikel 5
 
-De exploitant stelt tijdens de reguliere openstellinguren van BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers:
+De exploitant stelt tijdens de reguliere openstellinguren van BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers:
 
 - a. de actuele windrichting en snelheid op de grond, inclusief belangrijke wisselingen, representatief voor de in gebruik zijnde baan;
 
@@ -243,33 +221,33 @@ De exploitant stelt tijdens de reguliere openstellinguren van BES luchtvaartterr
 
 - e. de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert onder instrumentweersomstandigheden.
 
-#### § 5. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer
+#### § 6. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
 
 ##### Artikel 6
 
-Voor de voorbereiding van een vlucht door de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de luchtvaartmeteorologische inlichtingen, bedoeld in artikel 2, tweede lid, door middel van mondelinge briefing, telefonische briefing of internetbriefing en consultatie.
+Voor de voorbereiding van een vlucht door de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de luchtvaartmeteorologische inlichtingen, bedoeld in artikel 2, tweede lid, door middel van mondelinge briefing, telefonische briefing of internetbriefing en consultatie.
 
-#### § 6. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
+#### § 7. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchtvaarttereinoperaties en het verlenen van luchtverkeersdiensten
 
 ##### Artikel 7
 
-1. Ten behoeve van de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie luchtvaartmeteorologische inlichtingen door direct toegang te verlenen tot de meteorologische informatie, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), via een voor deze gebruikers toegankelijk systeem.
+1. Ten behoeve van de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie luchtvaartmeteorologische inlichtingen door direct toegang te verlenen tot de meteorologische informatie, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), via een voor deze gebruikers toegankelijk systeem.
 
 2. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie kan voorwaarden verbinden aan de toegang tot het in het eerste lid bedoelde systeem, in verband met de zorg voor een veilige en efficiënte verstrekking van luchtvaartmeteorologische inlichtingen.
 
-#### § 7. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchtvaarttereinoperaties en het verlenen van luchtverkeersdiensten
+#### § 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
 
 ##### Artikel 8
 
 Voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen f tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie op verzoek luchtvaartmeteorologische inlichtingen door middel van rapporten met als doel een meteorologische reconstructie mogelijk te maken.
 
-#### § 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
+#### § 9. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
 
 ##### Artikel 9
 
-De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt in overeenstemming met de normen van ICAO en bilaterale overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=3&artikel=3&z=2020-01-01&g=2020-01-01), [artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), beschikbaar aan buitenlandse organisaties.
+De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt in overeenstemming met de normen van ICAO en bilaterale overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=3&artikel=3&z=2020-01-01&g=2020-01-01), [artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), beschikbaar aan buitenlandse organisaties.
 
-#### § 9. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
+#### § 10. Slotbepalingen
 
 ##### Artikel 10
 
@@ -278,17 +256,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen BES 2010.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op de [artikelen 5.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b).
-
-##### Artikel 1b
-
-Het Koninklijk Nederlands Meteorologisch Instituut wordt op exclusieve basis aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie in het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

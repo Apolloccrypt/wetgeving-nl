@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken, de Minister van Verkeer en Waterstaat en de Minister van Defensie van 3 september 2010, nr. 3095255, tot gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht"
+citeertitel: "Besluit gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht"
 identifier: "BWBR0028229"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-05-01"
-last_updated: "2019-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028229"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "10713023"
-version_id: "17677832"
-internal_id: "C24442431"
-label_id: "10687754"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028229/2019-05-01/0"
-intitule_bron: "Stcrt.2010-14126"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-03"
-intitule_published: "2010-09-13"
-intitule_in_force: "2010-09-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14126"
-original_signed_date: "2010-09-03"
-original_published_date: "2010-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14126"
-entry_into_force_date: "2010-09-14"
-jci_1_3: "jci1.3:c:BWBR0028229&z=2019-05-01&g=2019-05-01"
-jci_1_0: "1.0:c:BWBR0028229&g=2019-05-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht"
-signed_date: "2010-09-03"
-entry_into_force: "2010-09-14"
+publicatiedatum: 2010-09-14
+laatste_update: 2019-05-01
+status: geldig
+toestand: 2019-05-01
+bron: "https://wetten.overheid.nl/BWBR0028229"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken, de Minister van Verkeer en Waterstaat en de Minister van Defensie van 3 september 2010, nr. 3095255, tot gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht
-
-Overwegende dat het wenselijk is regels vast te stellen met betrekking tot het gebruik, de gebruiksvolgorde en de gebruiksvergoeding van het regeringsvliegtuig, alsmede nadere regels te stellen voor de taakuitoefening van de vluchtcoördinator;
-
-Besluiten:
 
 #### § 1. Algemeen
 
@@ -46,11 +20,11 @@ Besluiten:
 
 In dit besluit wordt verstaan onder:
 
-- **vluchtcoördinator:** een door de Minister van Infrastructuur en Waterstaat aan te wijzen ambtenaar;
+- *vluchtcoördinator:* een door de Minister van Infrastructuur en Waterstaat aan te wijzen ambtenaar;
 
-- **regeringsvliegtuig:** het vliegtuig met de registratie PH-GOV;
+- *regeringsvliegtuig:* het vliegtuig met de registratie PH-GOV;
 
-- **aanvrager:** de indiener van de aanvraag bedoeld in [artikel 6, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028229&paragraaf=3&artikel=6&z=2019-05-01&g=2019-05-01).
+- *aanvrager:* de indiener van de aanvraag bedoeld in [artikel 6, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028229&paragraaf=3&artikel=6&z=2019-05-01&g=2019-05-01).
 
 #### § 2. Luchtvaartuigen
 
@@ -148,18 +122,16 @@ In bijzondere omstandigheden kan de Minister van Infrastructuur en Waterstaat, d
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit gebruik van het regeringsvliegtuig en luchtvaartuigen van de krijgsmacht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

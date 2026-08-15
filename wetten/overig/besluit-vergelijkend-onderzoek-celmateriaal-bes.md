@@ -1,38 +1,16 @@
 ---
 title: "Besluit vergelijkend onderzoek celmateriaal BES"
 identifier: "BWBR0028458"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2018-02-01"
-last_updated: "2018-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028458"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10792503"
-version_id: "17770922"
-internal_id: "C24825171"
-label_id: "10767484"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028458/2018-02-01/0"
-intitule_bron: "Stb.2010-554"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-554"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-554"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028458&z=2018-02-01&g=2018-02-01"
-jci_1_0: "1.0:c:BWBR0028458&g=2018-02-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-02-01
+status: geldig
+toestand: 2018-02-01
+bron: "https://wetten.overheid.nl/BWBR0028458"
+opgehaald: 2026-08-15
 ---
+
 # Besluit vergelijkend onderzoek celmateriaal BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,27 +19,27 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit wordt verstaan onder:
 
-- **het wetboek:** het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681);
+- *het wetboek:* het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681);
 
-- **Onze Minister:** Onze Minister van Justitie;
+- *Onze Minister:* Onze Minister van Justitie;
 
-- **vergelijkend onderzoek:** het onderzoek, bedoeld in [artikel 79, eerste lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79);
+- *vergelijkend onderzoek:* het onderzoek, bedoeld in [artikel 79, eerste lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79);
 
-- **tegenonderzoek:** het vergelijkend onderzoek, bedoeld in [artikel 79b, eerste lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79b);
+- *tegenonderzoek:* het vergelijkend onderzoek, bedoeld in [artikel 79b, eerste lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79b);
 
-- **referentie-materiaal:** celmateriaal waarvan bij de monsterneming bekend is van wie het afkomstig is;
+- *referentie-materiaal:* celmateriaal waarvan bij de monsterneming bekend is van wie het afkomstig is;
 
-- **sporenmateriaal:** met het oog op het vergelijkend onderzoek verzameld celmateriaal, niet zijnde referentiemateriaal;
+- *sporenmateriaal:* met het oog op het vergelijkend onderzoek verzameld celmateriaal, niet zijnde referentiemateriaal;
 
-- **bloedafname:** het afnemen van een hoeveelheid bloed ten behoeve van het vergelijkend onderzoek;
+- *bloedafname:* het afnemen van een hoeveelheid bloed ten behoeve van het vergelijkend onderzoek;
 
-- **afname van wangslijmvlies:** het afnemen van een hoeveelheid wangslijmvlies ten behoeve van het vergelijkend onderzoek;
+- *afname van wangslijmvlies:* het afnemen van een hoeveelheid wangslijmvlies ten behoeve van het vergelijkend onderzoek;
 
-- **afname van haarwortels:** het afnemen van een hoeveelheid haarwortels ten behoeve van het vergelijkend onderzoek;
+- *afname van haarwortels:* het afnemen van een hoeveelheid haarwortels ten behoeve van het vergelijkend onderzoek;
 
-- **opsporingsambtenaar:** een opsporingsambtenaar als bedoeld in [artikel 184 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
+- *opsporingsambtenaar:* een opsporingsambtenaar als bedoeld in [artikel 184 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
 
-- **profiel:** de gecodeerd weergegeven uitkomst van een onderzoek naar kenmerken van celmateriaal.
+- *profiel:* de gecodeerd weergegeven uitkomst van een onderzoek naar kenmerken van celmateriaal.
 
 2. Dit besluit berust op de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79), [79a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79a), [79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79b), [79c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79c) en [79d van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=79d).
 

@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 30 augustus 2010, houdende de vaststelling van regels ter uitwerking van de Pensioenwet BES (Besluit Pensioenwet BES)"
+citeertitel: "Besluit Pensioenwet BES"
 identifier: "BWBR0028316"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2013-10-10"
-last_updated: "2013-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028316"
+categorie: "Sociaal recht"
 soort: "AMvB-BES"
-stam_id: "10750603"
-version_id: "17725402"
-internal_id: "C24686071"
-label_id: "10725954"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028316/2013-10-10/0"
-intitule_bron: "Stb.2010-370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-30"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-370"
-original_signed_date: "2010-08-30"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-370"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028316&z=2013-10-10&g=2013-10-10"
-jci_1_0: "1.0:c:BWBR0028316&g=2013-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit Pensioenwet BES"
-signed_date: "2010-08-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2013-10-10
+status: geldig
+toestand: 2013-10-10
+bron: "https://wetten.overheid.nl/BWBR0028316"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 30 augustus 2010, houdende de vaststelling van regels ter uitwerking van de Pensioenwet BES (Besluit Pensioenwet BES)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 juni 2010, nr. AV/PB/2010/13055, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 5a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a), [5b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13), [13b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b), [13c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14), [14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a), [16a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a), [16b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b), [16d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16d), [16e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e), [16f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f), [22a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=22a), [24, vierde lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=24);
-
-De Raad van State gehoord (advies van 15 juli 2010, nr. W.12.10.0262/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 23 augustus 2010, nr. AV/PB/2010/16654, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Definities
 
@@ -54,17 +20,18 @@ Treedt in werking op het tijdstip waarop de artikel I, tweede lid, van de Rijksw
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **uitbesteding door een pensioenuitvoerder:** het door een pensioenuitvoerder verlenen van een opdracht aan een derde tot het ten behoeve van die uitvoerder verrichten van werkzaamheden die deel uitmaken van:
+- – *uitbesteding door een pensioenuitvoerder:* het door een pensioenuitvoerder verlenen van een opdracht aan een derde tot het ten behoeve van die uitvoerder verrichten van werkzaamheden die deel uitmaken van:
 
-- 1°. of voortvloeien uit het uitoefenen van het bedrijf; of
+   - 1°. of voortvloeien uit het uitoefenen van het bedrijf; of
 
-- 2°. de wezenlijke bedrijfsprocessen ter ondersteuning daarvan;
+   - 2°. de wezenlijke bedrijfsprocessen ter ondersteuning daarvan;
 
-- –. **wet:** [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712).
+- – *wet:*
+ [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712).
 
 #### § 2. Eisen ten aanzien van deskundigheid en betrouwbaarheid
 
-#### Bepalingen ter uitvoering van [artikel 5a, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a)
+##### Bepalingen ter uitvoering van artikel 5a, tiende lid, van de wet
 
 ##### Artikel 2. Toets deskundigheid en betrouwbaarheid
 
@@ -156,7 +123,7 @@ De Bank neemt bij de vaststelling, bedoeld in [artikel 4](https://wetten.overhei
 
 #### § 3. Beheerste en integere bedrijfsvoering
 
-#### Bepalingen ter uitvoering van [artikel 5b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b)
+##### Bepalingen ter uitvoering van artikel 5b van de wet
 
 ##### Artikel 8. Beheerste bedrijfsvoering
 
@@ -190,11 +157,11 @@ Een pensioenfonds voert een beleid gericht op het duurzaam beheersen van te lope
 
 #### § 4. Parameters
 
-#### Bepaling ter uitvoering van [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b) en [16d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16d)
+##### Bepaling ter uitvoering van artikel 5b, 13, 13b, 16a, 16b en 16d van de wet
 
 ##### Artikel 13. Parameters
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Parameters vanaf 2012
 
@@ -222,11 +189,11 @@ Vervallen
 
 ##### Artikel 16. Overgangsbepaling voor nieuwe herstelplannen
 
-Vervallen
+*Vervallen*
 
 #### § 5. Technische voorzieningen
 
-#### Bepalingen ter uitvoering van [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13)
+##### Bepalingen ter uitvoering van artikel 13 van de wet
 
 ##### Artikel 17. Hoogte technische voorzieningen
 
@@ -244,7 +211,7 @@ Vervallen
 
 #### § 6. Kostendekkende premie
 
-#### Bepalingen ter uitvoering van [artikel 13b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b)
+##### Bepalingen ter uitvoering van artikel 13b van de wet
 
 ##### Artikel 19. Kostendekkende premie
 
@@ -258,7 +225,7 @@ De benodigde premie in verband met de pensioenverplichtingen wordt berekend over
 
 #### § 7. Eigen vermogen
 
-#### Bepalingen ter uitvoering van [artikel 13c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c)
+##### Bepalingen ter uitvoering van artikel 13c van de wet
 
 ##### Artikel 20. Samenstelling eigen vermogen
 
@@ -336,7 +303,7 @@ De benodigde premie in verband met de pensioenverplichtingen wordt berekend over
 
 #### § 8. Beleggingen en leningen
 
-#### Bepalingen ter uitvoering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14) en [14a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a)
+##### Bepalingen ter uitvoering van artikel 14 en 14a van de wet
 
 ##### Artikel 24. Eisen ten aanzien van beleggingen
 
@@ -360,7 +327,7 @@ De benodigde premie in verband met de pensioenverplichtingen wordt berekend over
 
 #### § 9. Herstelplannen
 
-#### Bepalingen ter uitvoering van [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a) en [16b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b)
+##### Bepalingen ter uitvoering van artikel 16a en 16b van de wet
 
 ##### Artikel 26. Langetermijnherstelplan
 
@@ -392,7 +359,7 @@ Het kortetermijnherstelplan, bedoeld in artikel 16b van de wet, bevat in ieder g
 
 #### § 10. Actuariële en bedrijfstechnische nota
 
-#### Bepalingen ter uitvoering van [artikel 16e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e)
+##### Bepalingen ter uitvoering van artikel 16e van de wet
 
 ##### Artikel 28. Inhoud actuariële en bedrijfstechnische nota
 
@@ -454,7 +421,7 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 #### § 11. Informatieuitwisseling met de Bank
 
-#### Bepalingen ter uitvoering van [artikel 16f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f)
+##### Bepalingen ter uitvoering van artikel 16f van de wet
 
 ##### Artikel 34. Informatieverstrekking door pensioenfondsen aan de Bank
 
@@ -462,43 +429,43 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 - a. het pensioenfonds en zijn organisatie met betrekking tot:
 
-- 1°. het aantal medewerkers;
+   - 1°. het aantal medewerkers;
 
-- 2°. uitbesteding;
+   - 2°. uitbesteding;
 
-- 3°. de medebeleidsbepalers;
+   - 3°. de medebeleidsbepalers;
 
-- 4°. deskundigheidsbevordering van het bestuur;
+   - 4°. deskundigheidsbevordering van het bestuur;
 
-- 5°. de persoongegevens van de actuaris bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-10-10&g=2013-10-10), de externe deskundige, bedoeld in artikel 35, derde lid, en de adviserende actuaris;
+   - 5°. de persoongegevens van de actuaris bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&paragraaf=11&artikel=35&z=2013-10-10&g=2013-10-10), de externe deskundige, bedoeld in artikel 35, derde lid, en de adviserende actuaris;
 
-- 6°. de verklaring van een externe deskundige; en
+   - 6°. de verklaring van een externe deskundige; en
 
-- 7°. het interne toezicht.
+   - 7°. het interne toezicht.
 
 - b. een bestuursverslag;
 
 - c. de balans, bestaande uit een enkelvoudige balans en, indien van toepassing, een geconsolideerde balans, een toelichting op de balans alsmede:
 
-- 1°. een specificatie van de activa met betrekking tot immateriële activa, onroerende zaken, niet geconsolideerde en geconsolideerde deelnemingen, indien van toepassing, herverzekeringsdeel technische voorzieningen, overige activa en beleggingen voor risico deelnemers;
+   - 1°. een specificatie van de activa met betrekking tot immateriële activa, onroerende zaken, niet geconsolideerde en geconsolideerde deelnemingen, indien van toepassing, herverzekeringsdeel technische voorzieningen, overige activa en beleggingen voor risico deelnemers;
 
-- 2°. een specificatie van de passiva met betrekking tot gespecificeerde reserves, het aandeel van derden in geval van een geconsolideerde balans, andere voorzieningen en overige verplichtingen;
+   - 2°. een specificatie van de passiva met betrekking tot gespecificeerde reserves, het aandeel van derden in geval van een geconsolideerde balans, andere voorzieningen en overige verplichtingen;
 
-- 3°. informatie over ontvangen en gestelde zekerheden en garanties;
+   - 3°. informatie over ontvangen en gestelde zekerheden en garanties;
 
-- 4°. informatie over grote posten binnen de beleggingen; en
+   - 4°. informatie over grote posten binnen de beleggingen; en
 
-- 5°. specificatie van de beleggingen met betrekking tot de valuta, de risicoklassen, derivatenposities, beleggingsrendementen;
+   - 5°. specificatie van de beleggingen met betrekking tot de valuta, de risicoklassen, derivatenposities, beleggingsrendementen;
 
 - d. de financiële relaties en transacties van het pensioenfonds met:
 
-- 1°. bijdragende ondernemingen;
+   - 1°. bijdragende ondernemingen;
 
-- 2°. ondernemingen uit dezelfde groep als de bijdragende onderneming;
+   - 2°. ondernemingen uit dezelfde groep als de bijdragende onderneming;
 
-- 3°. personen die een relatie hebben of hebben gehad met het pensioenfonds wanneer sprake is van een bijzondere lening; en
+   - 3°. personen die een relatie hebben of hebben gehad met het pensioenfonds wanneer sprake is van een bijzondere lening; en
 
-- 4°. anderen dan de onder 1° en 2° genoemden inzake achtergestelde leningen aan het pensioenfonds;
+   - 4°. anderen dan de onder 1° en 2° genoemden inzake achtergestelde leningen aan het pensioenfonds;
 
 - e. een rekening van baten en lasten met specificatie van de posten;
 
@@ -506,47 +473,47 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 - g. toetsing van het eigen vermogen:
 
-- 1°. aanwezig eigen vermogen;
+   - 1°. aanwezig eigen vermogen;
 
-- 2°. de dekkingspositie;
+   - 2°. de dekkingspositie;
 
-- 3°. bij gebruik van het standaard model; en
+   - 3°. bij gebruik van het standaard model; en
 
-- 4°. bij gebruik van een intern model;
+   - 4°. bij gebruik van een intern model;
 
 - h. actuariële staten:
 
-- 1°. technische voorzieningen voor risico pensioenfonds;
+   - 1°. technische voorzieningen voor risico pensioenfonds;
 
-- 2°. premiespecificatie garantiecontract;
+   - 2°. premiespecificatie garantiecontract;
 
-- 3°. indexatiegegevens;
+   - 3°. indexatiegegevens;
 
-- 4°. actuarieel verslag; en
+   - 4°. actuarieel verslag; en
 
-- 5°. een analyse van het saldo van baten en lasten;
+   - 5°. een analyse van het saldo van baten en lasten;
 
 - i. het deelnemersbestand inzake:
 
-- 1°. de leeftijdsopbouw en de technische voorzieningen; en
+   - 1°. de leeftijdsopbouw en de technische voorzieningen; en
 
-- 2°. de geografische spreiding van deelnemers en premies;
+   - 2°. de geografische spreiding van deelnemers en premies;
 
 - j. de door het pensioenfonds uitgevoerde pensioenregeling met betrekking tot:
 
-- 1°. de kenmerken van de pensioenregeling; en
+   - 1°. de kenmerken van de pensioenregeling; en
 
-- 2°. het aantal deelnemers;
+   - 2°. het aantal deelnemers;
 
 - k. premiegegevens over het nieuwe jaar, tenzij sprake is van een gesloten pensioenfonds;
 
 - l. herverzekering, met betrekking tot:
 
-- 1°. garantiecontracten;
+   - 1°. garantiecontracten;
 
-- 2°. risicoherverzekering; en
+   - 2°. risicoherverzekering; en
 
-- 3°. kapitaalcontracten.
+   - 3°. kapitaalcontracten.
 
 - m. verplichtingen van het pensioenfonds voor risico van de deelnemers;
 
@@ -632,7 +599,7 @@ De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [
 
 #### § 12. Boeteregeling
 
-#### Bepalingen ter uitvoering van [artikel 22a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=22a)
+##### Bepalingen ter uitvoering van artikel 22a van de wet
 
 ##### Artikel 38
 
@@ -658,35 +625,35 @@ De Bank stelt regels met betrekking tot de te verstrekken gegevens, bedoeld in [
 
 #### § 13. Kostenregeling
 
-#### Bepalingen ter uitvoering van artikel 24, vierde lid, van de wet
+##### Bepalingen ter uitvoering van artikel 24, vierde lid, van de wet
 
 ##### Artikel 41. Kosten
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42. Vaststelling verschuldigd bedrag
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43. Verschuldigd bedrag bij gedeelte jaar
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44. Gegevensverstrekking
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45. Betaling
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46. Fusie pensioenuitvoerders
 
-Vervallen
+*Vervallen*
 
 #### § 14. Uitbesteding
 
-#### Bepalingen ter uitvoering van artikel 34, tweede lid, van de wet
+##### Bepalingen ter uitvoering van artikel 34, tweede lid, van de wet
 
 ##### Artikel 47. Werkzaamheden die niet mogen worden uitbesteed
 
@@ -747,5 +714,3 @@ die drie jaar na het genoemde tijdstip in werking treden.
 ##### Artikel 51. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Pensioenwet BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

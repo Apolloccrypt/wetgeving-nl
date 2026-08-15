@@ -8,7 +8,7 @@ laatste_update: 2026-08-12
 status: geldig
 toestand: 2026-08-12
 bron: "https://wetten.overheid.nl/BWBR0052283"
-opgehaald: 2026-08-14
+opgehaald: 2026-08-15
 ---
 
 # Handhavingsbeleid DNB voor tijdige indiening van statistische rapportages

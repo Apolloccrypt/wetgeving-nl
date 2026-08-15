@@ -1,61 +1,39 @@
 ---
 title: "Besluit tarieven in burgerlijke zaken BES"
 identifier: "BWBR0028448"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028448"
+categorie: "Burgerlijk recht"
 soort: "AMvB-BES"
-stam_id: "10787303"
-version_id: "17765742"
-internal_id: "C24739701"
-label_id: "10762304"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028448/2010-10-10/0"
-intitule_bron: "Stb.2010-549"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-549"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-549"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028448&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028448&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028448"
+opgehaald: 2026-08-15
 ---
+
 # Besluit tarieven in burgerlijke zaken BES
 
-## Algemene bepaling
+### Algemene bepaling
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **het Hof:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- a. *het Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- b. **het Gerecht:** het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- b. *het Gerecht:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- c. **de griffier:** de griffier van het Hof onderscheidenlijk het Gerecht;
+- c. *de griffier:* de griffier van het Hof onderscheidenlijk het Gerecht;
 
-- d. **Onze Minister:** Onze Minister van Justitie;
+- d. *Onze Minister:* Onze Minister van Justitie;
 
-- e. **het Wetboek van Burgerlijke Rechtsvordering:** het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496).
+- e. *het Wetboek van Burgerlijke Rechtsvordering:* het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496).
 
 ##### Artikel 1a
 
 Dit besluit berust op [artikel 59 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=59).
 
-### afdeling Eerste. Deurwaarders
+#### afdeling Eerste. Deurwaarders
 
 ##### Artikel 2
 
@@ -159,7 +137,7 @@ Aan ieder van de getuigen die de deurwaarder moet vergezellen wordt de helft van
 
 - l. elke andere dag bij besluit aangewezen.
 
-### afdeling Tweede. Bewaarders, deskundigen, getuigen en tolken
+#### afdeling Tweede. Bewaarders, deskundigen, getuigen en tolken
 
 ##### Artikel 9
 
@@ -205,7 +183,7 @@ De vergoeding voor schriftelijke vertalingen bedraagt 28 USD per pagina vertalin
 
 Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=17&z=2010-10-10&g=2010-10-10), gesteld op 70% van de daarin genoemde bedragen.
 
-### afdeling Derde. Heffing van rechten
+#### afdeling Derde. Heffing van rechten
 
 #### § 1. Vast recht
 

@@ -1,49 +1,25 @@
 ---
 title: "Arbeidsveiligheidswet BES"
 identifier: "BWBR0028228"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2023-06-20"
-last_updated: "2023-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028228"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10712863"
-version_id: "19229632"
-internal_id: "C26826901"
-label_id: "10687494"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028228/2023-06-20/0"
-intitule_bron: "Stb.2010-588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-09"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2012-27"
-original_signed_date: "2011-12-22"
-original_published_date: "2012-02-03"
-original_effect: "structuurwijziging"
-original_dossier: "32473"
-original_url_id: "stb-2012-27"
-entry_into_force_date: "2011-12-22"
-entry_into_force_dossier: "32473"
-jci_1_3: "jci1.3:c:BWBR0028228&z=2023-06-20&g=2023-06-20"
-jci_1_0: "1.0:c:BWBR0028228&g=2023-06-20"
-citeertitel_status: "officieel"
-signed_date: "2011-12-22"
-entry_into_force: "2011-12-22"
+publicatiedatum: 2011-12-22
+laatste_update: 2023-06-20
+status: geldig
+toestand: 2023-06-20
+bron: "https://wetten.overheid.nl/BWBR0028228"
+opgehaald: 2026-08-15
 ---
+
 # Arbeidsveiligheidswet BES
 
 ##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **arbeid:** alle werkzaamheden in een onderneming;
+- *arbeid:* alle werkzaamheden in een onderneming;
 
-- **arbeider:** een ieder die arbeid verricht.
+- *arbeider:* een ieder die arbeid verricht.
 
 2. Voor de toepassing van deze wet en de daarop berustende bepalingen worden met een onderneming gelijk gesteld:
 
@@ -121,7 +97,11 @@ Deze ongevallen kunnen bij ministeriële regeling nader worden omschreven.
 
 11. Een beschikking krachtens deze wet van de ambtenaar, bedoeld in het vijfde lid, wordt gegeven namens Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-12. De bevoegdheden uit het derde en vierde lid zijn van overeenkomstige toepassing indien in verband met de epidemie van een infectieziekte behorend tot groep A1 of een directe dreiging daarvan als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705), bij of krachtens wettelijk voorschrift dan wel gezien de stand van de wetenschap en professionele dienstverlening benodigde noodzakelijke maatregelen of voorzieningen die de kans op besmetting van arbeiders of derden in ondernemingen kunnen voorkomen of beperken, in ernstige mate niet worden getroffen.
+12. De bevoegdheden uit het derde en vierde lid zijn van overeenkomstige toepassing indien in verband met de epidemie van een infectieziekte behorend tot groep A1 of een directe dreiging daarvan als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705), bij of krachtens wettelijk voorschrift dan wel gezien de stand van de wetenschap en professionele dienstverlening benodigde noodzakelijke maatregelen of voorzieningen die de kans op besmetting van arbeiders of derden in ondernemingen kunnen voorkomen of beperken, in ernstige mate niet worden getroffen.
+
+##### Artikel 2a
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 3
 
@@ -165,6 +145,10 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 
 4. In de gevallen waarin wegens overtreding straf wordt bepaald tegen het hoofd of de bestuurder, wordt geen straf uitgesproken tegen het hoofd of de bestuurder van wie blijkt dat de overtreding buiten zijn toedoen is gepleegd.
 
+##### Artikel 5a
+
+*Dit onderdeel is nog niet inwerking getreden*
+
 ##### Artikel 6
 
 1. Met het opsporen der feiten strafbaar gesteld bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=5&z=2023-06-20&g=2023-06-20) zijn, behalve de bij [artikel 8 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=8) aangewezen personen, belast de daartoe door Onze Minister van Justitie aan te wijzen ambtenaren.
@@ -185,7 +169,7 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 
 4. Geen vervolging heeft plaats dan op klachte van het hoofd of de bestuurder van de onderneming of van degene, de nadeel van de schending van de geheimhouding heeft ondervonden of kan ondervinden.
 
-## Slot- en overgangsbepalingen
+### Slot- en overgangsbepalingen
 
 ##### Artikel 8
 
@@ -198,13 +182,3 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 ##### Artikel 9
 
 Met ingang van het tijdstip van inwerkingtreding van deze landsverordening wordt het Veiligheidsbesluit I (P.B. 1955, no. 102) geacht te zijn vastgesteld ter uitvoering van artikel 2 dezer landsverordening.
-
-##### Artikel 2a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 5a
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Slot- en overgangsbepalingen

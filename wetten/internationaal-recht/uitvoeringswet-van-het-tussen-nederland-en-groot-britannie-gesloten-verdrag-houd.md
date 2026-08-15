@@ -1,53 +1,31 @@
 ---
 title: "Uitvoeringswet van het tussen Nederland en Groot-Britannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen BES"
 identifier: "BWBR0028201"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028201"
+categorie: "Internationaal recht"
 soort: "wet-BES"
-stam_id: "10693593"
-version_id: "17656192"
-internal_id: "C24762611"
-label_id: "10668384"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028201/2010-10-10/0"
-intitule_bron: "Stb.2010-504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-504"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-504"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028201&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028201&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028201"
+opgehaald: 2026-08-15
 ---
+
 # Uitvoeringswet van het tussen Nederland en Groot-Britannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen BES
 
-## Algemene bepaling
+### Algemene bepaling
 
 ##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
-- a. **het verdrag:** het op 31 Mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
+- a. *het verdrag:* het op 31 Mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
 
-- b. **de bevoegde Nederlandsche consulaire ambtenaar:** de Nederlandsche consul-generaal te Londen of degeen, die hem vervangt.
+- b. *de bevoegde Nederlandsche consulaire ambtenaar:* de Nederlandsche consul-generaal te Londen of degeen, die hem vervangt.
 
 2. In afwijking in zooverre van het bepaalde in deze wet, is ten aanzien van Sint Eustatius en Saba, een vertaling in het Nederlandsch van in de Engelsche taal gestelde exploiten en stukken niet verplicht.
 
-## Mededeeling van gerechtelijke en buitengerechtelijke stukken in Curaçao
+### Mededeeling van gerechtelijke en buitengerechtelijke stukken in Curaçao
 
 ##### Artikel 2
 
@@ -63,15 +41,15 @@ Oordeelt de rechter in eerste aanleg, wien eene aanvrage om mededeeling van eeni
 
 Alle stukken, opgemaakt om gevolg te geven aan het verzoek om mededeeling van een gerechtelijk of buitengerechtelijk stuk, zijn vrij van de rechten van zegel en registratie.
 
-## Mededeeling van gerechtelijke en buitengerechtelijke stukken van uit de openbare lichamen Bonaire, Sint Eustatius en Saba
+### Mededeeling van gerechtelijke en buitengerechtelijke stukken van uit de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 5
 
 1. Om overeenkomstig artikel 3 van het verdrag eenig stuk te doen mededeelen wordt, in afwijking van het bepaalde bij [artikel 5, 7°., van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=5), het exploit steeds gedaan aan de rechter in eerste aanleg, met dien verstande, dat:
 
-- –. indien het exploit een rechtsgeding betreft te voeren of aanhangig voor het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, het gedaan wordt aan de rechter in eerste aanleg in de openbare lichamen Bonaire, Sint Eustatius en Saba, en voor een Gerecht in eerste aanleg, aan de betrokken rechter in eerste aanleg op het betrokken eiland;
+- – indien het exploit een rechtsgeding betreft te voeren of aanhangig voor het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, het gedaan wordt aan de rechter in eerste aanleg in de openbare lichamen Bonaire, Sint Eustatius en Saba, en voor een Gerecht in eerste aanleg, aan de betrokken rechter in eerste aanleg op het betrokken eiland;
 
-- –. indien het exploit niet reeds een te voeren of aanhangig rechtsgeding betreft, het gedaan wordt aan de rechter in eerste aanleg binnen wiens rechtsgebied de verzoeker zijne woonplaats heeft.
+- – indien het exploit niet reeds een te voeren of aanhangig rechtsgeding betreft, het gedaan wordt aan de rechter in eerste aanleg binnen wiens rechtsgebied de verzoeker zijne woonplaats heeft.
 
 2. Onverminderd de vereischten bij het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) voor het exploit gesteld, zullen daarbij in ieder geval worden vermeld de volledige namen, het adres, en de hoedanigheid van dengeen voor wien het stuk bestemd is. Tevens wordt vermeld, dat het exploit overeenkomstig artikel 3 van het verdrag moet worden medegedeeld, met opgave of eene bijzondere wijze van mededeeling wordt verlangd.
 
@@ -97,7 +75,7 @@ De rechter in eerste aanleg kan, als waarborg voor de kosten, ter zake van de me
 
 Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eischer het bewijsstuk, bedoeld bij het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028201&artikel=8&z=2010-10-10&g=2010-10-10), nog niet ontvangen heeft, de rechter op verzoek van den eischer het verleenen van verstek en de behandeling der zaak tot eene volgende zitting aanhouden.
 
-## Rogatoire commisies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba uit te voeren
+### Rogatoire commisies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba uit te voeren
 
 ##### Artikel 10
 
@@ -131,7 +109,7 @@ Zoodra de rechter de rogatoire commissie heeft afgedaan, zendt hij de ontvangen 
 
 Alle stukken, ter zake van de uitvoering van rogatoire commissies opgemaakt, zijn vrij van de rechten van zegel en van registratie.
 
-## Rogatoire commissies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
+### Rogatoire commissies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
 
 ##### Artikel 16
 
@@ -151,7 +129,7 @@ De rechter stelt, indien eene rogatoire commissie overeenkomstog het verdrag opg
 
 Het proces-verbaal van de uitvoering eener rogatoire commissie overeenkomstig het verdrag heeft gelijke kracht als dat van de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-## Slotbepaling
+### Slotbepaling
 
 ##### Artikel 20
 

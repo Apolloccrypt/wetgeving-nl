@@ -1,36 +1,16 @@
 ---
 title: "Begrafeniswet BES"
 identifier: "BWBR0028363"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-04"
-last_updated: "2011-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028363"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10757943"
-version_id: "18826082"
-internal_id: "C26277821"
-label_id: "10732964"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028363/2011-10-04/0"
-intitule_bron: "Stb.2010-400"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-17488"
-original_published_date: "2011-10-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-17488"
-entry_into_force_date: "2011-10-04"
-jci_1_3: "jci1.3:c:BWBR0028363&z=2011-10-04&g=2011-10-04"
-jci_1_0: "1.0:c:BWBR0028363&g=2011-10-04"
-citeertitel_status: "officieel"
-entry_into_force: "2011-10-04"
+publicatiedatum: 2011-10-04
+laatste_update: 2011-10-04
+status: geldig
+toestand: 2011-10-04
+bron: "https://wetten.overheid.nl/BWBR0028363"
+opgehaald: 2026-08-15
 ---
+
 # Begrafeniswet BES
 
 ##### Artikel 1
@@ -64,6 +44,10 @@ In het daarvan of te maken proces-verbaal worden, zooveel mogelijk, vermeld de v
 Geene begraving geschiedt zonder schriftelijk verlof van den ambtenaar van den Burgerlijken Stand, vrij van zegel en kosteloos af te geven, waarin de begraafplaats, of de in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04) bedoelde plaats, waar het lijk ter aarde zal worden besteld, wordt vermeld.
 
 Bij het vragen van verlof tot begraven moet worden overgelegd eene der schriftelijke verklaringen als bedoeld in de [Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199).
+
+##### Artikel 4a
+
+In gevallen als bedoeld in [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1) wordt geen verlof tot begraving afgegeven zolang niet is overgelegd een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving. Indien de officier van justitie meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving te kunnen overgaan, stelt deze de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige en de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c), hiervan onverwijld op de hoogte.
 
 ##### Artikel 5
 
@@ -129,7 +113,7 @@ Tenzij wegens overlijden aan eene besmettelijke ziekte of andere redenen hierteg
 
 Geschiedt de aanvraag later, dan kan de afgifte nog geschieden, wanneer daartegen bij het bestuur der inrichting geen bezwaar bestaat.
 
-## Van de begraafplaatsen
+### Van de begraafplaatsen
 
 ##### Artikel 14
 
@@ -321,7 +305,7 @@ Het recht moet vóór de begrafenis of het opdelven worden betaald.
 
 Geen recht wordt geheven voor de begraving of opdelving van lijken van krijgslieden in werkelijken dienst.
 
-## Van het verkrijgen in eigendom van graf- en kelderplaatsen
+### Van het verkrijgen in eigendom van graf- en kelderplaatsen
 
 ##### Artikel 39
 
@@ -333,13 +317,13 @@ De verklaring moet inhouden de voornamen, den naam, het beroep en de woonplaats 
 
 Indien een vereeniging of vennootschap kooper is, dan worden de benaming en de plaats van vestiging daarvan in de verklaring vermeld, in plaats van voornamen, naam, beroep en woonplaats.
 
-## Van het vervoer van lijken uit en naar een openbaar lichaam
+### Van het vervoer van lijken uit en naar een openbaar lichaam
 
 ##### Artikel 40
 
 Het vervoer van een lijk uit een openbaar lichaam naar elders of van elders naar een openbaar lichaam, is slechts toegestaan indien voldaan wordt aan bij algemene maatregel van bestuur te stellen regelen.
 
-## Strafbepalingen
+### Strafbepalingen
 
 ##### Artikel 41
 
@@ -362,15 +346,3 @@ De in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=
 ##### Artikel 45
 
 Deze wet wordt aangehaald als: Begrafeniswet BES.
-
-##### Artikel 4a
-
-In gevallen als bedoeld in [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1) wordt geen verlof tot begraving afgegeven zolang niet is overgelegd een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving. Indien de officier van justitie meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving te kunnen overgaan, stelt deze de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige en de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c), hiervan onverwijld op de hoogte.
-
-## Van de begraafplaatsen
-
-## Van het verkrijgen in eigendom van graf- en kelderplaatsen
-
-## Van het vervoer van lijken uit en naar een openbaar lichaam
-
-## Strafbepalingen

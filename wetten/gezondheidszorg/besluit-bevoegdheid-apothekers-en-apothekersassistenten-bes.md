@@ -1,38 +1,16 @@
 ---
 title: "Besluit bevoegdheid apothekers en apothekersassistenten BES"
 identifier: "BWBR0028456"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028456"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10791223"
-version_id: "17769412"
-internal_id: "C24792311"
-label_id: "10765974"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028456/2010-10-10/0"
-intitule_bron: "Stb.2010-650"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-650"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-650"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028456&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028456&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028456"
+opgehaald: 2026-08-15
 ---
+
 # Besluit bevoegdheid apothekers en apothekersassistenten BES
 
 #### § 1. De verkrijging van de bevoegdheid als apotheker
@@ -120,12 +98,3 @@ Degene die tot het moment van inwerkingtreding van dit besluit op grond van de t
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit bevoegdheid apothekers en apothekersassistenten BES.
-
-## Bijlage. bij het Besluit bevoegdheid apothekers en apothekersassistenten BES.
-
-| Land | Titel van de kwalificatie | Toekennende instantie | Bijbehorend certificaat | Referentiedatum |
-| --- | --- | --- | --- | --- |
-| Ísland | Próf í lyfjafræđi | Háskóli Íslands |   | 1 Januari 1994 |
-| Liechtenstein | The diplomas, certificates and other titles awarded in another State to which this Directive applies and listed in the present Annex | Competent authorities | Certificate on the completed practical training issued by the competent authorities | 1 Mei 1995 |
-| Norge | Vitnemål for fullført grad **candidata/candidatus pharmaciae,** short form: **cand.pharm.** | Universitetsfakultet |   | 1 Januari 1994 |
-| Zwitserland | Titulaire du diplôme fédéral de pharmacien, Eidgenössisch diplomierter Apotheker, Titolare di diploma federale di farmacista | Département fédéral de l’intérieur |   |   |

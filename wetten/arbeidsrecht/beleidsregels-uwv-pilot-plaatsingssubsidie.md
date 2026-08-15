@@ -1,57 +1,31 @@
 ---
 title: "Beleidsregels UWV pilot plaatsingssubsidie"
 identifier: "BWBR0027481"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-04-10"
-last_updated: "2010-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027481"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10493683"
-version_id: "17286152"
-internal_id: "C23847381"
-label_id: "10468754"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027481/2010-04-10/0"
-intitule_bron: "Stcrt.2010-5380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-30"
-intitule_published: "2010-04-09"
-intitule_in_force: "2010-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-5380"
-original_signed_date: "2010-03-30"
-original_published_date: "2010-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-5380"
-entry_into_force_date: "2010-04-10"
-jci_1_3: "jci1.3:c:BWBR0027481&z=2010-04-10&g=2010-04-10"
-jci_1_0: "1.0:c:BWBR0027481&g=2010-04-10"
-citeertitel_status: "officieel"
-signed_date: "2010-03-30"
-entry_into_force: "2010-04-10"
+publicatiedatum: 2010-04-10
+laatste_update: 2010-04-10
+status: geldig
+toestand: 2010-04-10
+bron: "https://wetten.overheid.nl/BWBR0027481"
+opgehaald: 2026-08-15
 ---
+
 # Beleidsregels UWV pilot plaatsingssubsidie
-
-Gelet op [artikel 32b van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- a. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- b. **school:** een school voor praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f) dan wel een uit ’s Rijks kas bekostigde school voor voortgezet speciaal onderwijs of een uit ’s Rijks kas bekostigde school voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- b. *school:* een school voor praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f) dan wel een uit ’s Rijks kas bekostigde school voor voortgezet speciaal onderwijs of een uit ’s Rijks kas bekostigde school voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- c. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- c. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- d. **leerling:** een leerling met een structurele functionele beperking en met een indicatiestelling voor het praktijkonderwijs of voortgezet speciaal onderwijs;
+- d. *leerling:* een leerling met een structurele functionele beperking en met een indicatiestelling voor het praktijkonderwijs of voortgezet speciaal onderwijs;
 
-- e. **plaatsing:** er is sprake van een plaatsing indien en voorzover sprake is van een arbeidsovereenkomst naar burgerlijk recht van tenminste 19 uur in reguliere arbeid, niet zijnde arbeid in een arbeidstrainingscentrum, voor de duur van 6 maanden;
+- e. *plaatsing:* er is sprake van een plaatsing indien en voorzover sprake is van een arbeidsovereenkomst naar burgerlijk recht van tenminste 19 uur in reguliere arbeid, niet zijnde arbeid in een arbeidstrainingscentrum, voor de duur van 6 maanden;
 
 ##### Artikel 2. Toekennen van subsidie
 
@@ -107,7 +81,7 @@ Indien omstandigheden in relatie tot [artikel 3, tweede lid](https://wetten.over
 
 De betrokken scholen verstrekken desgevraagd de informatie die nodig is voor de evaluatie van deze regeling ten behoeve van de verantwoording van UWV aan de Minister van Sociale Zaken en Werkgelegenheid.
 
-##### Artikel 9. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
+##### Artikel 9. Titel 4.2 Algemene wet bestuursrecht
 
 De [afdelingen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.3), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) en [4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.7) zijn van toepassing.
 
@@ -120,5 +94,3 @@ Plaatsingssubsidie op grond van dit besluit kan worden aangevraagd tot en met 30
 1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit besluit wordt aangehaald als: Beleidsregels UWV pilot plaatsingssubsidie.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Heffing van omzetbelasting ten aanzien van veerdiensten"
 identifier: "BWBR0027976"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027976"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10623613"
-version_id: "17550882"
-internal_id: "C24354921"
-label_id: "10598414"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027976/2003-01-01/0"
-intitule_bron: "Infob.2003-24"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-20"
-intitule_published: "2003-01-01"
-intitule_in_force: "2003-01-01"
-intitule_status: "goed"
-original_publication: "Infob.2003-24"
-original_signed_date: "2002-12-20"
-original_published_date: "2003-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBR0027976&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBR0027976&g=2003-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-20"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBR0027976"
+opgehaald: 2026-08-15
 ---
-# Heffing van omzetbelasting ten aanzien van veerdiensten
 
-De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.
+# Heffing van omzetbelasting ten aanzien van veerdiensten
 
 ### Inleiding
 

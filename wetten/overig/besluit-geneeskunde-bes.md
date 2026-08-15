@@ -1,38 +1,16 @@
 ---
 title: "Besluit geneeskunde BES"
 identifier: "BWBR0028449"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028449"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10787813"
-version_id: "17765922"
-internal_id: "C24793601"
-label_id: "10762484"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028449/2018-08-01/0"
-intitule_bron: "Stb.2010-648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-648"
-original_signed_date: "2010-09-15"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-648"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028449&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0028449&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-15"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0028449"
+opgehaald: 2026-08-15
 ---
+
 # Besluit geneeskunde BES
 
 ##### Artikel 1
@@ -53,9 +31,9 @@ entry_into_force: "2010-10-10"
 
 - a. zij, die de hoedanigheid van arts hebben verkregen op de wijze zoals voorgeschreven in de terzake in Nederland geldende wettelijke bepalingen;
 
-- b. zij, die beschikken over een getuigschrift genoemd in bijlage V, onder 5.1.1 van de [richtlijn nr. 2005/36/EG](32005L0036) betreffende de erkenning van beroepskwalificaties;
+- b. zij, die beschikken over een getuigschrift genoemd in bijlage V, onder 5.1.1 van de richtlijn nr. 2005/36/EG betreffende de erkenning van beroepskwalificaties;
 
-- c. zij, die beschikken over een getuigschrift genoemd in de bijlage bij dit besluit, voor zover het getuigschrift is behaald als gevolg van een opleiding die is begonnen na de desbetreffende daarbij genoemde referentiedatum en indien deze is afgegeven door de daartoe bevoegde opleidingsinstelling;
+- c. zij, die beschikken over een getuigschrift genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0028449) bij dit besluit, voor zover het getuigschrift is behaald als gevolg van een opleiding die is begonnen na de desbetreffende daarbij genoemde referentiedatum en indien deze is afgegeven door de daartoe bevoegde opleidingsinstelling;
 
 - d. zij, die op aanvrage van Onze Minister een verklaring hebben gekregen, inhoudende dat zij op basis van de door hen genoten opleiding vakbekwaam worden geacht om de geneeskunst uit te oefenen.
 
@@ -110,12 +88,3 @@ Het verstrekken van brillen en brilleglazen uitsluitend door het met behulp van 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit geneeskunde BES.
-
-## Bijlage. behorende bij het Besluit geneeskunde BES
-
-| Land | Titel van de kwalificatie | Toekennende instantie | Bijbehorend certificaat | Referentie-datum |
-| --- | --- | --- | --- | --- |
-| Ísland | Embættispróf í læknisfræđi, candidatus medicinae (cand. med.) | Háskóli Íslands | Vottorđ um viđbótarnám (kandidatsár) útgefiđ af Heilbrigđis- og tryggingamála-ráđuneytinu | 1 Januari 1994 |
-| Liechtenstein | The diplomas, certificates and other titles awarded in another State to which this Directive applies and listed in the present Annex | Competent authorities | Certificate on the completed practical training issued by the competent authorities | 1 Mei 1995 |
-| Norge | Vitnemål for fullført grad candidata/ candidatus medicinae, short form cand.med. | Medisinsk universitetsfakultet | Bekreftelse på praktisk tjeneste som lege utstedt av kompetent offentlig myndighet | 1 Januari 1994 |
-| Zwitserland | Titulaire du diplôme fédéral de médecin, Eidgenössisch diplomierter Artz, Titolare di diploma federale di medico | Département fédéral de l’intérieur |   |   |

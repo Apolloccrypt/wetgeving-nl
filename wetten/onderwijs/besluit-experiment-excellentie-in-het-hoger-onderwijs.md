@@ -1,64 +1,33 @@
 ---
 title: "Besluit van 1 april 2010, houdende bepalingen voor een experiment met het oog op het bevorderen van excellentie in het hoger onderwijs (Besluit experiment excellentie in het hoger onderwijs)"
+citeertitel: "Besluit experiment excellentie in het hoger onderwijs"
 identifier: "BWBR0027601"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027601"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "10516213"
-version_id: "17324782"
-internal_id: "C23908401"
-label_id: "10491314"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027601/2019-01-01/0"
-intitule_bron: "Stb.2010-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-01"
-intitule_published: "2010-04-29"
-intitule_in_force: "2010-04-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-166"
-original_signed_date: "2010-04-01"
-original_published_date: "2010-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-166"
-entry_into_force_date: "2010-04-30"
-jci_1_3: "jci1.3:c:BWBR0027601&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0027601&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment excellentie in het hoger onderwijs"
-signed_date: "2010-04-01"
-entry_into_force: "2010-04-30"
+publicatiedatum: 2010-04-30
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0027601"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 1 april 2010, houdende bepalingen voor een experiment met het oog op het bevorderen van excellentie in het hoger onderwijs (Besluit experiment excellentie in het hoger onderwijs)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 24 november 2009, nr. WJZ/170222(4857), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Gelet op [artikel 1.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.7a);
-
-De Raad van State gehoord (advies van 15 januari 2010, nr. W05.09.0494/l);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 30 maart 2010, nr. WJZ/186329 (4857), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. *wet:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **instellingsbestuur:** het instellingsbestuur van een bekostigde instelling, bedoeld in [artikel 1.1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- c. *instellingsbestuur:* het instellingsbestuur van een bekostigde instelling, bedoeld in [artikel 1.1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- d. **studiejaar:** het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
+- d. *studiejaar:* het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
 
-- e. **experimenteel programma:** programma binnen een masteropleiding waarvan de duur van het programma gelijk is aan de duur van die masteropleiding en waarvoor aanvullende toelatingseisen of collegegeldverhoging worden toegestaan.
+- e. *experimenteel programma:* programma binnen een masteropleiding waarvan de duur van het programma gelijk is aan de duur van die masteropleiding en waarvoor aanvullende toelatingseisen of collegegeldverhoging worden toegestaan.
 
 ##### Artikel 2. Doelstelling experiment
 
@@ -195,5 +164,3 @@ Dit besluit wordt ingetrokken op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment excellentie in het hoger onderwijs.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

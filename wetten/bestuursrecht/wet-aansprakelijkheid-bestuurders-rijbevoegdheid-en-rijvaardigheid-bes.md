@@ -1,51 +1,27 @@
 ---
 title: "Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES"
 identifier: "BWBR0028317"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028317"
+categorie: "Bestuursrecht"
 soort: "wet-BES"
-stam_id: "10751463"
-version_id: "18253732"
-internal_id: "C25394791"
-label_id: "10726054"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028317/2011-01-01/0"
-intitule_bron: "Stb.2010-630"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-830"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-24"
-original_effect: "structuurwijziging"
-original_dossier: "32428"
-original_url_id: "stb-2010-830"
-entry_into_force_date: "2010-12-16"
-entry_into_force_dossier: "32428"
-jci_1_3: "jci1.3:c:BWBR0028317&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0028317&g=2011-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-16"
-entry_into_force: "2010-12-16"
+publicatiedatum: 2010-12-16
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0028317"
+opgehaald: 2026-08-15
 ---
+
 # Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES
 
 ##### Artikel 1
 
 1. Voor de toepassing van deze wet wordt verstaan onder:
 
-- a. **voertuigen:** motorrijtuigen, rijwielen en andere rij- of voertuigen, met uitzondering van kruiwagens, kinderwagens en dergelijke kleine voertuigen;
+- a. *voertuigen:* motorrijtuigen, rijwielen en andere rij- of voertuigen, met uitzondering van kruiwagens, kinderwagens en dergelijke kleine voertuigen;
 
-- b. **motorrijtuigen:** rij- of voertuigen, bestemd om uitsluitend of mede door een mechanische kracht, op of aan het rij- of voertuig zelf aanwezig, te worden voortbewogen;
+- b. *motorrijtuigen:* rij- of voertuigen, bestemd om uitsluitend of mede door een mechanische kracht, op of aan het rij- of voertuig zelf aanwezig, te worden voortbewogen;
 
-- c. **bestuurder:** hij, die het motorrijtuig bestuurt of onder zijn onmiddellijk toezicht doet besturen.
+- c. *bestuurder:* hij, die het motorrijtuig bestuurt of onder zijn onmiddellijk toezicht doet besturen.
 
 2. Voor de toepassing van deze wet worden onder bezitter mede verstaan de beheerder en voorts allen, die krachtens enig zakelijk recht de beschikking over enig goed hebben.
 
@@ -85,10 +61,6 @@ entry_into_force: "2010-12-16"
 
 2. Het bij het eerste lid strafbaar gesteld feit wordt beschouwd als een misdrijf.
 
-##### Artikel 6
-
-Deze wet wordt aangehaald als: Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES.
-
 ##### Artikel 5a
 
 1. Bij verdenking dat de bestuurder van een motorrijtuig heeft gehandeld in strijd met de bij eilandsverordening vastgestelde bepalingen omtrent het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen verminderen, kan de opsporingsambtenaar onderscheidenlijk de officier van justitie of de hulpofficier van justitie hem bevelen zijn medewerking te verlenen aan een blaastest of speekseltest onderscheidenlijk een onderzoek van bloed of urine teneinde de aanwezigheid van die stoffen vast te stellen.
@@ -96,3 +68,7 @@ Deze wet wordt aangehaald als: Wet aansprakelijkheid bestuurders, rijbevoegdheid
 2. Indien uit een blaastest of speekseltest als bedoeld in het eerste lid of op andere wijze is gebleken dat een bestuurder onder zodanige invloed van het gebruik van een stof als bedoeld in het eerste lid verkeert dat hij onvoldoende in staat is een motorrijtuig behoorlijk te besturen, kan de opsporingsambtenaar, officier van justitie, of hulpofficier van justitie, bedoeld in het eerste lid, hem een rijverbod opleggen voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uren. De vorige volzin is van overeenkomstige toepassing op degene die aanstalten maakt een motorrijtuig te gaan besturen. Degene die het rijverbod oplegt legt dit vast in een proces verbaal waarin ook aantekening wordt gemaakt van bezwaren van de betrokkene. Van dit proces verbaal ontvangt de betrokkene een afschrift.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de uitvoering van het eerste lid. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek.
+
+##### Artikel 6
+
+Deze wet wordt aangehaald als: Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES.

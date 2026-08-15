@@ -1,38 +1,16 @@
 ---
 title: "Wet van 4 juli 1946 houdende de instelling van een arbeidsbureau BES"
 identifier: "BWBR0028536"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028536"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10840053"
-version_id: "17820142"
-internal_id: "C24903611"
-label_id: "10814714"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028536/2013-07-01/0"
-intitule_bron: "Stb.2010-599"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-599"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-599"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028536&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0028536&g=2013-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0028536"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 4 juli 1946 houdende de instelling van een arbeidsbureau BES
 
 ##### Artikel 1

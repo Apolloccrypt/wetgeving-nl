@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/159853, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Besluit mandaat, volmacht en machtiging ANVS)"
+citeertitel: "Besluit mandaat, volmacht en machtiging ANVS"
 identifier: "BWBR0039796"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-01"
-last_updated: "2024-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0039796"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "14073843"
-version_id: "24233892"
-internal_id: "C34809201"
-label_id: "14034914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0039796/2024-03-01/0"
-intitule_bron: "Stcrt.2017-36874"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-06-27"
-intitule_published: "2017-07-19"
-intitule_in_force: "2017-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2017-36874"
-original_signed_date: "2017-06-27"
-original_published_date: "2017-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2017-36874"
-entry_into_force_date: "2017-08-01"
-jci_1_3: "jci1.3:c:BWBR0039796&z=2024-03-01&g=2024-03-01"
-jci_1_0: "1.0:c:BWBR0039796&g=2024-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging ANVS"
-signed_date: "2017-06-27"
-entry_into_force: "2017-08-01"
+publicatiedatum: 2017-08-01
+laatste_update: 2026-08-15
+status: geldig
+toestand: 2026-08-15
+bron: "https://wetten.overheid.nl/BWBR0039796"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/159853, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Besluit mandaat, volmacht en machtiging ANVS)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **ANVS:** Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3),
+- *ANVS:* Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3),
 
-- **minister:** Minister van Infrastructuur en Waterstaat,
+- *minister:* Minister van Infrastructuur en Waterstaat,
 
-- **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat.
+- *secretaris-generaal:* secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging
 
@@ -58,17 +32,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Aan de ANVS wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
-- a. het aanvragen van een vergunning op grond van [Verordening (EG) nr. 428/2009](32009R0428) van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);
+- a. het aanvragen van een vergunning op grond van Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);
 
-- b. het opleggen van een last onder bestuursdwang ter handhaving van hetgeen bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) is bepaald;
+- b. [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11, eerste, derde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=25), [27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30c), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), en [35 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) in verband met gereglementeerde beroepen als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), op het terrein van nucleaire veiligheid, stralingsbescherming, de daarmee samenhangende crisisvoorbereiding, alsmede beveiliging en waarborgen;
 
-- c. [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11, eerste, derde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=25), [27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30c), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), en [35 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) in verband met gereglementeerde beroepen als bedoeld in [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), op het terrein van nucleaire veiligheid, stralingsbescherming, de daarmee samenhangende crisisvoorbereiding, alsmede beveiliging en waarborgen;
+- c. de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5), en [5a, eerste lid, van de Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5a);
 
-- d. de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5), en [5a, eerste lid, van de Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234&artikel=5a);
+- d. de taken en bevoegdheden van de bevoegde autoriteit met betrekking tot de meldplicht, bedoeld in [hoofdstuk 10 van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&hoofdstuk=10) en [hoofdstuk 8 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&hoofdstuk=8), voor zover het betreft kritieke entiteiten uit de nucleaire sector die uit hoofde van nucleaire veiligheid en stralingsbescherming zijn aangewezen op grond van [artikel 7, eerste lid, van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=7);
 
-- e. de voorbereiding van een besluit op een aanvraag om goedkeuring als bedoeld in [artikel 15f, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f).
+- e. het houden van toezicht door de bevoegde autoriteit op de naleving, bedoeld in [artikel 36, eerste lid, van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=36) en [artikel 68, eerste lid, van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=68), inclusief het aanwijzen van toezichthouders, voor zover het betreft kritieke entiteiten als bedoeld in onderdeel d;
 
-2. Indien de minister de ANVS een algemene of bijzondere instructie geeft ter zake van de uitoefening van de in het eerste lid, onder b, gemandateerde bevoegdheid, doet de minister daarvan onverwijld mededeling in de Staatscourant.
+- f. de taken en bevoegdheden van de bevoegde autoriteit met betrekking tot de handhaving, bedoeld in [hoofdstuk 16 van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&hoofdstuk=16) en [hoofdstuk 15 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&hoofdstuk=15), voor zover het betreft kritieke entiteiten als bedoeld in onderdeel d;
+
+- g. de taken en bevoegdheden van de bevoegde autoriteit, bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=10), 10 tweede lid, aanhef en onder a, b en c, [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=26) en [28 tot en met 30 van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&artikel=28) en de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=51), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=55) en [57 tot en met 61 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&artikel=57), voor zover het betreft kritieke entiteiten als bedoeld in onderdeel d;
+
+- h. het verwerken van persoonsgegevens ten behoeve van uitvoering van de onder de onderdelen d tot en met g genoemde taken en bevoegdheden, voor zover de bevoegdheid daartoe in [hoofdstuk 15 van de Wet weerbaarheid kritieke entiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0052871&hoofdstuk=15) en [hoofdstuk 14 van de Cyberbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&hoofdstuk=14) is toebedeeld aan de Minister van Infrastructuur en Waterstaat als bevoegde autoriteit.
+
+2. Indien de minister de ANVS een algemene of bijzondere instructie geeft ter zake van de uitoefening van de in het eerste lid, onder d tot en met h, gemandateerde bevoegdheid, doet de minister daarvan onverwijld mededeling in de Staatscourant.
 
 ##### Artikel 3. Personeel en organisatie
 
@@ -90,9 +70,9 @@ Aan de ANVS wordt op haar werkterrein volmacht en machtiging verleend voor het v
 
 Aan de ANVS wordt mandaat, volmacht en machtiging verleend:
 
-- a. voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2024-03-01&g=2024-03-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep; en
+- a. voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2026-08-15&g=2026-08-15), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep; en
 
-- b. voor het indienen van of behandelen van verzoekschriften en vorderingen gericht tegen besluiten en rechtshandelingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=3&z=2024-03-01&g=2024-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=4&z=2024-03-01&g=2024-03-01), waaronder begrepen het instellen van (hoger) beroep.
+- b. voor het indienen van of behandelen van verzoekschriften en vorderingen gericht tegen besluiten en rechtshandelingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=3&z=2026-08-15&g=2026-08-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=4&z=2026-08-15&g=2026-08-15), waaronder begrepen het instellen van (hoger) beroep.
 
 ##### Artikel 6. Ondermandaat
 
@@ -112,9 +92,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
 
-1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2024-03-01&g=2024-03-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2026-08-15&g=2026-08-15) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2026-08-15&g=2026-08-15), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2026-08-15&g=2026-08-15), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 9. Kaders uitoefening bevoegdheden
 
@@ -186,10 +166,8 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 2017.
+Dit besluit treedt in werking met ingang van 1 augustus 2017.
 
 ##### Artikel 14. Titel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging ANVS.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

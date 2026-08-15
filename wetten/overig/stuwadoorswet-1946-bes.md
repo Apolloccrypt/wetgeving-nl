@@ -1,57 +1,35 @@
 ---
 title: "Stuwadoorswet 1946 BES"
 identifier: "BWBR0028169"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028169"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10687163"
-version_id: "17648032"
-internal_id: "C24839411"
-label_id: "10661774"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028169/2010-10-10/0"
-intitule_bron: "Stb.2010-589"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-589"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-589"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028169&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028169&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028169"
+opgehaald: 2026-08-15
 ---
+
 # Stuwadoorswet 1946 BES
 
 ##### Artikel 1
 
 1. Voor de toepassing van deze wet en van de naar aanleiding daarvan uitgevaardigde besluiten wordt verstaan onder:
 
-- **zeeschip:** ieder schip, dat wordt gebruikt tot de vaart ter zee of daartoe bestemd is, met uitzondering van oorlogsschepen en visschersvaartuigen;
+- *zeeschip:* ieder schip, dat wordt gebruikt tot de vaart ter zee of daartoe bestemd is, met uitzondering van oorlogsschepen en visschersvaartuigen;
 
-- **bemanning van een zeeschip:** allen, die zich blijkens de monsterrol of bij gebreke daarvan, blijkens een ander aan boord van het schip aanwezig geschrift, als schepeling hebben verbonden;
+- *bemanning van een zeeschip:* allen, die zich blijkens de monsterrol of bij gebreke daarvan, blijkens een ander aan boord van het schip aanwezig geschrift, als schepeling hebben verbonden;
 
-- **stuwadoorsarbeid:**
+- *stuwadoorsarbeid:*
 
-- a. alle werkzaamheden verbonden aan: het brengen van goederen in een zeeschip; het, in rechtstreeksch verband daarmede, verwerken der in het schip te brengen goederen op de kade, in zich aldaar bevindende pakhuizen of opslagplaatsen of in het vaartuig of voertuig, van waaruit zij rechtstreeks in het zeeschip worden gebracht; het stuwen of het verwerken van goederen in het zeeschip; het brengen van goederen uit een zeeschip; het, in rechtstreeksch verband daarmede, opstapelen der uit het schip gebrachte goederen op de kade, in zich aldaar bevindende pakhuizen of opslagplaatsen, of het stuwen of het verwerken dier goederen in het vaartuig of voertuig, waarin of waarop zij rechtstreeks uit het zeeschip worden gebracht; één en ander met inbegrip van het bedienen van inrichtingen of werktuigen ten behoeve van vorenbedoelde werkzaamheden.
+   - a. alle werkzaamheden verbonden aan: het brengen van goederen in een zeeschip; het, in rechtstreeksch verband daarmede, verwerken der in het schip te brengen goederen op de kade, in zich aldaar bevindende pakhuizen of opslagplaatsen of in het vaartuig of voertuig, van waaruit zij rechtstreeks in het zeeschip worden gebracht; het stuwen of het verwerken van goederen in het zeeschip; het brengen van goederen uit een zeeschip; het, in rechtstreeksch verband daarmede, opstapelen der uit het schip gebrachte goederen op de kade, in zich aldaar bevindende pakhuizen of opslagplaatsen, of het stuwen of het verwerken dier goederen in het vaartuig of voertuig, waarin of waarop zij rechtstreeks uit het zeeschip worden gebracht; één en ander met inbegrip van het bedienen van inrichtingen of werktuigen ten behoeve van vorenbedoelde werkzaamheden.
 
-- b. bij ministeriële regeling zoo nodig aan te wijzen werkzaamheden, bestaande in of verband houdende met het opslaan, verwerken en afleveren van goederen in bij dat besluit aangewezen pakhuizen, opslagplaatsen, vaartuigen of voertuigen;
+   - b. bij ministeriële regeling zoo nodig aan te wijzen werkzaamheden, bestaande in of verband houdende met het opslaan, verwerken en afleveren van goederen in bij dat besluit aangewezen pakhuizen, opslagplaatsen, vaartuigen of voertuigen;
 
-- **stuwadoorsonderneming:** iedere onderneming, waarin, zij het niet voortdurend of uitsluitend, stuwadoorsarbeid wordt verricht;
+- *stuwadoorsonderneming:* iedere onderneming, waarin, zij het niet voortdurend of uitsluitend, stuwadoorsarbeid wordt verricht;
 
-- **havenarbeider:** ieder, die stuwadoorsarbeid verricht.
+- *havenarbeider:* ieder, die stuwadoorsarbeid verricht.
 
 2. Onder goederen worden voor de toepassing van deze wet en de daarop berustende bepalingen mede begrepen de brandstof voor de voortbeweging van het zeeschip, het water en de ballast, doch worden overigens voor zoover een en ander zonder behulp van krachtwerktuigen wordt behandeld, niet begrepen hetgeen dient tot uitrusting van het schip, de bagage van de reizigers en van de bemanning, zoomede het proviand.
 
@@ -119,7 +97,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid wijst de ambtenaren aan, die 
 
 3. Wordt hun de toegang geweigerd, dan verschaffen zij zich dien desnoods met inroeping van den sterken arm.
 
-## Slotbepalingen
+### Slotbepalingen
 
 ##### Artikel 7
 

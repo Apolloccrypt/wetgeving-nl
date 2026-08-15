@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 24 juni 2010, houdende regels over het personeel van de brandweer, functies voor de bedrijfsbrandweer, functies binnen de GHOR en functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing en het overleg over het personeel van de brandweer (Besluit personeel veiligheidsregio’s)"
+citeertitel: "Besluit personeel veiligheidsregio’s"
 identifier: "BWBR0027841"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-12-01"
-last_updated: "2017-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027841"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10593123"
-version_id: "22750842"
-internal_id: "C32894271"
-label_id: "10568164"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027841/2017-12-01/0"
-intitule_bron: "Stb.2010-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-24"
-intitule_published: "2010-07-01"
-intitule_in_force: "2010-07-01"
-intitule_status: "goed"
-original_publication: "Stb.2015-380"
-original_signed_date: "2015-10-15"
-original_published_date: "2015-10-30"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2015-380"
-entry_into_force_date: "2015-10-15"
-jci_1_3: "jci1.3:c:BWBR0027841&z=2017-12-01&g=2017-12-01"
-jci_1_0: "1.0:c:BWBR0027841&g=2017-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit personeel veiligheidsregio’s"
-signed_date: "2015-10-15"
-entry_into_force: "2015-10-15"
+publicatiedatum: 2015-10-15
+laatste_update: 2017-12-01
+status: geldig
+toestand: 2017-12-01
+bron: "https://wetten.overheid.nl/BWBR0027841"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 24 juni 2010, houdende regels over het personeel van de brandweer, functies voor de bedrijfsbrandweer, functies binnen de GHOR en functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing en het overleg over het personeel van de brandweer (Besluit personeel veiligheidsregio’s)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 februari 2010, nr. 2009-0000506161, CZW/WVOB;
-
-Gelet op de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18) en [31, vierde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=31);
-
-De Raad van State gehoord (advies van 15 april 2010, nr. W04.10.0062/1);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 juni 2010, nr. 2010-0000398206;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,9 +20,9 @@ Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking tr
 
 In dit besluit wordt verstaan onder:
 
-- a. **functie:** samenstel van te verrichten werkzaamheden;
+- a. *functie:* samenstel van te verrichten werkzaamheden;
 
-- b. **diploma:** diploma als bedoeld in [artikel 18, vierde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18).
+- b. *diploma:* diploma als bedoeld in [artikel 18, vierde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18).
 
 ### Hoofdstuk 2. Functies
 
@@ -201,86 +167,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
-
-## Bijlage 1. behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2017-12-01&g=2017-12-01), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=4&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Functies met diplomavereiste)
-
-| Functies: | Rang: | Keuring |
-| --- | --- | --- |
-| adviseur gevaarlijke stoffen | commandeur | ja |
-| bevelvoerder | brandmeester | ja |
-| brandweerduiker | brandwacht of hoofdbrandwacht | ja |
-| centralist meldkamer | maximaal brandmeester | nee |
-| chauffeur | brandwacht of hoofdbrandwacht | ja |
-| commandant | hoofdcommandeur | nee |
-| commandant van dienst | adjunct-hoofdcommandeur | ja |
-| controleur brandpreventie | maximaal hoofdbrandwacht | nee |
-| docent | maximaal brandmeester | nee |
-| duikploegleider | hoofdbrandwacht | ja |
-| gaspakdrager | brandwacht of hoofdbrandwacht | ja |
-| hoofdofficier van dienst | commandeur | ja |
-| instructeur | maximaal brandmeester | ja |
-| manschap | brandwacht of hoofdbrandwacht | ja |
-| medewerker brandpreventie | maximaal brandmeester | nee |
-| meetplanleider | commandeur | ja |
-| officier van dienst | hoofdbrandmeester | ja |
-| specialist brandpreventie | maximaal hoofdbrandmeester | nee |
-| specialist risico’s en veiligheid | maximaal commandeur | nee |
-| verkenner gevaarlijke stoffen | brandwacht of hoofdbrandwacht | ja |
-| voertuigbediener | brandwacht of hoofdbrandwacht | ja |
-
-## Bijlage 1a. behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=3&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Functies zonder diplomavereiste)
-
-| Functies: | Rang: |
-| --- | --- |
-| manager veiligheid | maximaal adjunct-hoofdcommandeur |
-| medewerker operationele voorbereiding | maximaal brandmeester |
-| medewerker opleiden en oefenen | maximaal brandmeester |
-| oefencoördinator | maximaal brandmeester |
-| operationeel manager | maximaal hoofdbrandmeester |
-| ploegchef | maximaal brandmeester |
-| specialist operationele voorbereiding | maximaal commandeur |
-| specialist opleiden en oefenen | maximaal hoofdbrandmeester |
-| strategisch manager | maximaal adjunct-hoofdcommandeur |
-| tactisch manager | maximaal commandeur |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage 2. behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=4&artikel=10&z=2017-12-01&g=2017-12-01), van het Besluit personeel veiligheidsregio’s (Gelijkwaardigheid diploma’s)
-
-| Diploma | Gelijkwaardig aan | Genoemd in Examenreglement |
-| --- | --- | --- |
-| diploma adviseur gevaarlijke stoffen | certificaat van de module waarschuwings- en verkenningsdienstdeskundige in combinatie met het certificaat van de module officier gevaarlijke stoffen | [artikel 2, onder h, van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=2) artikel 2, onder g, van het Examenreglement hoofdbrandmeester 1993 |
-| diploma bevelvoerder | diploma onderbrandmeester | [artikel 5 van het Examenreglement onderbrandmeester](https://wetten.overheid.nl/jci1.3:c:BWBR0005520&artikel=5) |
-| diploma brandweerduiker | diploma brandwacht eerste klasse in combinatie met het diploma brandweerduiker | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 8 van het Examenreglement brandweerduiker 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007355&artikel=8) |
-| diploma centralist meldkamer | diploma brandweercentralist | [artikel 2, onder a, van het Examenreglement brandweercentralist 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017863&artikel=2) |
-| diploma chauffeur | diploma brandwacht eerste klasse in combinatie met het diploma brandweerchauffeur | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 10 van het Examenreglement brandweerchauffeur 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008757&artikel=10) |
-| diploma commandant van dienst | diploma commandeur of diploma hoofdbrandmeester | [artikel 12 van het Examenreglement commandeur 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0011556&artikel=12) of [artikel 10 van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=10) |
-| diploma controleur brandpreventie | diploma hoofdbrandwacht, in combinatie met het certificaat van de module preventiecontrolefunctionaris | [artikel 5 van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=5) [artikel 2, onder c, van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=2) |
-| diploma instructeur | diploma instructeur | [artikel 6 van het Examenreglement instructeur 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006055&artikel=6). |
-| diploma duikploegleider | diploma brandwacht eerste klasse in combinatie met het diploma duikploegleider | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 7 van het Examenreglement duikploegleider 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016143&artikel=7) |
-| diploma gaspakdrager | diploma brandwacht eerste klasse in combinatie met het certificaat van de module gaspakdrager | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) [artikel 2, onder e, van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=2) |
-| diploma hoofdofficier van dienst | diploma hoofdbrandmeester | [artikel 10 van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=10). |
-| diploma manschap | diploma brandwacht eerste klasse | [Artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) |
-|   | diploma hoofdbrandwacht | [Artikel 5 van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=5) |
-| diploma medewerker brandpreventie | certificaat van de module preventie | [artikel 2, onder c, van het Examenreglement brandmeester](https://wetten.overheid.nl/jci1.3:c:BWBR0005518&artikel=2) |
-|   | of |   |
-|   | certificaat van de module preventie | [artikel 2, onder e, van het Examenreglement adjunct-hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006053&artikel=2) |
-| diploma meetplanleider | certificaat van de module waarschuwings- en verkenningsdienstdeskundige | [artikel 2, onder h, van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=2) |
-|   | in combinatie met |   |
-|   | het certificaat van de module officier gevaarlijke stoffen | [artikel 2, onder g, van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=2) |
-| diploma officier van dienst | diploma adjunct-hoofdbrandmeester | [artikel 13 van het Examenreglement adjunct-hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006053&artikel=13) |
-| diploma specialist brandpreventie | certificaat van de module preventie | [artikel 2, onder e, van het Examenreglement adjunct-hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006053&artikel=2) |
-| diploma specialist risico’s en veiligheid | diploma veiligheidsmanager | [artikel 27 van het Examenreglement veiligheidsmanager 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016938&artikel=27) |
-|   | of |   |
-|   | in combinatie met het diploma hoofdbrandmeester: | [artikel 10 van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=10) |
-|   | het certificaat van de module proactie en risicoanalyse | [artikel 2, onder e, van het Examenreglement veiligheidsmanager 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016938&artikel=2) |
-|   | en |   |
-|   | het certificaat van de module basisveiligheidsmanagement | [artikel 2, onder d, van het Examenreglement hoofdbrandmeester 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006054&artikel=2) |
-| diploma verkenner gevaarlijke stoffen | diploma brandwacht eerste klasse | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) |
-|   | in combinatie met |   |
-|   | het certificaat van de module verkenner gevaarlijke stoffen | [artikel 2, onder d, van het Examenreglement hoofdbrandwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0005521&artikel=2) |
-| diploma voertuigbediener | diploma brandwacht eerste klasse | [artikel 5 van het Examenreglement brandwacht eerste klasse](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=5) |
-|   | in combinatie met |   |
-|   | het certificaat van de module pompbediener | [artikel 2, onder b, van het Examenreglement brandwacht eerste klasse.](https://wetten.overheid.nl/jci1.3:c:BWBR0005519&artikel=2) |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

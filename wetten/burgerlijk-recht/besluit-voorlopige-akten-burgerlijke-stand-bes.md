@@ -1,43 +1,21 @@
 ---
 title: "Besluit voorlopige akten burgerlijke stand BES"
 identifier: "BWBR0028439"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028439"
+categorie: "Burgerlijk recht"
 soort: "AMvB-BES"
-stam_id: "10784843"
-version_id: "17762822"
-internal_id: "C24740211"
-label_id: "10759584"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028439/2010-10-10/0"
-intitule_bron: "Stb.2010-534"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-534"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-534"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028439&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028439&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028439"
+opgehaald: 2026-08-15
 ---
+
 # Besluit voorlopige akten burgerlijke stand BES
 
 ### Hoofdstuk 1. Het verbod van verkeer en andere buitengewone omstandigheden, de voorlopige akten van geboorte en overlijden en de indeling en de inhoud van de voorlopige akten van geboorte en overlijden
 
-### Afdeling 1. Het verbod van verkeer en andere buitengewone omstandigheden
+#### Afdeling 1. Het verbod van verkeer en andere buitengewone omstandigheden
 
 ##### Artikel 1
 
@@ -77,7 +55,7 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 Tot de aangifte van overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.
 
-### Afdeling 2. De voorlopige akten van geboorte en overlijden
+#### Afdeling 2. De voorlopige akten van geboorte en overlijden
 
 ##### Artikel 6
 
@@ -115,7 +93,7 @@ In de voorlopige akten worden opgenomen:
 
 Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duidelijk aan de voet van de akte aangegeven en worden goedgekeurd en ondertekend door degenen die de akte ondertekenen.
 
-### Afdeling 3. De indeling en de inhoud van de voorlopige akten van geboorte en overlijden
+#### Afdeling 3. De indeling en de inhoud van de voorlopige akten van geboorte en overlijden
 
 ##### Artikel 10
 

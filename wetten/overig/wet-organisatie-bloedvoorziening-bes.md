@@ -1,38 +1,16 @@
 ---
 title: "Wet organisatie bloedvoorziening BES"
 identifier: "BWBR0028454"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028454"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10789483"
-version_id: "17767822"
-internal_id: "C24822741"
-label_id: "10764384"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028454/2018-08-01/0"
-intitule_bron: "Stb.2010-637"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-637"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-637"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028454&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0028454&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0028454"
+opgehaald: 2026-08-15
 ---
+
 # Wet organisatie bloedvoorziening BES
 
 ### Hoofdstuk 1. Begripsbepaling
@@ -41,23 +19,23 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- **bestuurscollege:** het bestuurscollege van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- *bestuurscollege:* het bestuurscollege van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- **Bloedvoorzieningsorganisatie:** de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), aangewezen rechtspersoon;
+- *Bloedvoorzieningsorganisatie:* de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), aangewezen rechtspersoon;
 
-- **donor:** persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen of ten behoeve van wetenschappelijk onderzoek;
+- *donor:* persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen of ten behoeve van wetenschappelijk onderzoek;
 
-- **inzamelen van bloed:** het werven, oproepen en keuren van donoren en het bij donoren afnemen van bloed, bloedcellen of bloedplasma;
+- *inzamelen van bloed:* het werven, oproepen en keuren van donoren en het bij donoren afnemen van bloed, bloedcellen of bloedplasma;
 
-- **product:** menselijk bloed, alsmede daaruit afgescheiden bestanddelen, waaraan al dan niet een andere substantie is toegevoegd;
+- *product:* menselijk bloed, alsmede daaruit afgescheiden bestanddelen, waaraan al dan niet een andere substantie is toegevoegd;
 
-- **tussenproduct:** product, niet geschikt voor toediening aan de mens;
+- *tussenproduct:* product, niet geschikt voor toediening aan de mens;
 
-- **bloedproduct:** product, geschikt voor toediening aan de mens;
+- *bloedproduct:* product, geschikt voor toediening aan de mens;
 
-- **bloedvoorziening:** het geheel van maatregelen en middelen terzake van onder meer het inzamelen van bloed en het bereiden en afleveren van tussenproducten en bloedproducten.
+- *bloedvoorziening:* het geheel van maatregelen en middelen terzake van onder meer het inzamelen van bloed en het bereiden en afleveren van tussenproducten en bloedproducten.
 
 - 2. Met een donor wordt gelijkgesteld de persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed laat afzonderen ten behoeve van de geneeskundige behandeling van zichzelf.
 
@@ -145,9 +123,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het op systematische wijze verzamelen en registreren van gegevens betreffende:
 
-- 1°. de kwaliteit, doelmatigheid en doeltreffendheid van de te verrichten werkzaamheden; en
+   - 1°. de kwaliteit, doelmatigheid en doeltreffendheid van de te verrichten werkzaamheden; en
 
-- 2°. de kwaliteit van het bloedproduct;
+   - 2°. de kwaliteit van het bloedproduct;
 
 - b. het aan de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering overeenkomt met een verantwoorde uitvoering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=5&z=2018-08-01&g=2018-08-01); en
 

@@ -1,38 +1,16 @@
 ---
 title: "Wet telecommunicatievoorzieningen BES"
 identifier: "BWBR0028469"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028469"
+categorie: "Digitaal en privacy"
 soort: "wet-BES"
-stam_id: "10799593"
-version_id: "17778372"
-internal_id: "C24771001"
-label_id: "10774934"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028469/2019-01-01/0"
-intitule_bron: "Stb.2010-441"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-441"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-441"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028469&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028469&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028469"
+opgehaald: 2026-08-15
 ---
+
 # Wet telecommunicatievoorzieningen BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,39 +19,39 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- a. *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- b. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba
+- b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba
 
-- c. **telecommunicatie:** iedere overdracht, uitzending of ontvangst van gegevens van welke aard ook door middel van kabels, langs radio-elektrische weg of door middel van optische of andere elektromagnetische systemen;
+- c. *telecommunicatie:* iedere overdracht, uitzending of ontvangst van gegevens van welke aard ook door middel van kabels, langs radio-elektrische weg of door middel van optische of andere elektromagnetische systemen;
 
-- d. **openbare gronden:**
+- d. *openbare gronden:*
 
-- 1. de openbare wegen met inbegrip van de daartoe behorende stoepen, glooiingen, bermen, sloten, bruggen, viaducten, tunnels, duikers, beschoeiingen en andere werken;
+   - 1. de openbare wegen met inbegrip van de daartoe behorende stoepen, glooiingen, bermen, sloten, bruggen, viaducten, tunnels, duikers, beschoeiingen en andere werken;
 
-- 2. de wateren met de daartoe behorende bruggen, de plantsoenen, pleinen en andere plaatsen, welke tot gemene dienst van allen zijn bestemd;
+   - 2. de wateren met de daartoe behorende bruggen, de plantsoenen, pleinen en andere plaatsen, welke tot gemene dienst van allen zijn bestemd;
 
-- e. **kabels:** geleidingen bestemd voor telecommunicatie
+- e. *kabels:* geleidingen bestemd voor telecommunicatie
 
-- f. **kabelwerken:** de bij kabels behorende ondersteuningswerken, beschermingswerken en signaalinrichtingen, alsmede inrichtingen, bestemd om daarin verbinding tot stand te brengen tussen kabels in, op of boven openbare gronden enerzijds en kabels in gebouwen en daarmee één geheel vormende gronden anderzijds dan wel tussen laatstgenoemde kabels onderling;
+- f. *kabelwerken:* de bij kabels behorende ondersteuningswerken, beschermingswerken en signaalinrichtingen, alsmede inrichtingen, bestemd om daarin verbinding tot stand te brengen tussen kabels in, op of boven openbare gronden enerzijds en kabels in gebouwen en daarmee één geheel vormende gronden anderzijds dan wel tussen laatstgenoemde kabels onderling;
 
-- g. **Intern net:** een samenstel van kabels en kabelwerken dat zich bevindt binnen een gebouw of een groep van gebouwen voor zover behorende tot één onderneming, al dan niet met elkaar verbonden door middel van radio-elektrische zend- en ontvanginrichtingen, en waarmee diverse typen randapparatuur zowel onderling als met de openbare telecommunicatie-infrastructuur zijn verbonden;
+- g. *Intern net:* een samenstel van kabels en kabelwerken dat zich bevindt binnen een gebouw of een groep van gebouwen voor zover behorende tot één onderneming, al dan niet met elkaar verbonden door middel van radio-elektrische zend- en ontvanginrichtingen, en waarmee diverse typen randapparatuur zowel onderling als met de openbare telecommunicatie-infrastructuur zijn verbonden;
 
-- h. **kabelnet:** telecommunicatie-infrastructuur verbonden aan en ten behoeve van het functioneren van draadomroep- en kabelinrichtingen;
+- h. *kabelnet:* telecommunicatie-infrastructuur verbonden aan en ten behoeve van het functioneren van draadomroep- en kabelinrichtingen;
 
-- i. **telecommunicatie-infrastructuur:** een stelsel van inrichtingen met daarbij behorende middelen, bestemd voor telecommunicatie die, geheel of gedeeltelijk, openbare gronden overschrijdt, welk stelsel is begrensd door daartoe behorende aansluitpunten en met inbegrip van de aansluitingen op telecommunicatie-inrichtingen buitenlands;
+- i. *telecommunicatie-infrastructuur:* een stelsel van inrichtingen met daarbij behorende middelen, bestemd voor telecommunicatie die, geheel of gedeeltelijk, openbare gronden overschrijdt, welk stelsel is begrensd door daartoe behorende aansluitpunten en met inbegrip van de aansluitingen op telecommunicatie-inrichtingen buitenlands;
 
-- j. **draadomroepinrichting:** een inrichting of onderdeel daarvan, bestemd om met gebruik van kabels en kabelwerken of radioverbindingen tussen vaste punten, omroepprogramma’s te verspreiden naar een of meer bij anderen in gebruik zijnde gronden, woningen dan wel niet tot woning dienende gebouwen of gedeelten van gebouwen;
+- j. *draadomroepinrichting:* een inrichting of onderdeel daarvan, bestemd om met gebruik van kabels en kabelwerken of radioverbindingen tussen vaste punten, omroepprogramma’s te verspreiden naar een of meer bij anderen in gebruik zijnde gronden, woningen dan wel niet tot woning dienende gebouwen of gedeelten van gebouwen;
 
-- k. **omroepprogramma:** een programma van woord-, toon- of beeldinhoud, bestemd voor allen die deze wensen te ontvangen;
+- k. *omroepprogramma:* een programma van woord-, toon- of beeldinhoud, bestemd voor allen die deze wensen te ontvangen;
 
-- l. **vaste verbinding:** een mogelijkheid voor het directe transport van gegevens tussen twee aansluitpunten, waarvan de totstandkoming niet door de gebruiker via een aansluitpunt kan worden beïnvloed;
+- l. *vaste verbinding:* een mogelijkheid voor het directe transport van gegevens tussen twee aansluitpunten, waarvan de totstandkoming niet door de gebruiker via een aansluitpunt kan worden beïnvloed;
 
-- m. **aansluitpunt:** een eindpunt van de telecommunicatie-infrastructuur, dat dient voor aansluiting van randapparatuur;
+- m. *aansluitpunt:* een eindpunt van de telecommunicatie-infrastructuur, dat dient voor aansluiting van randapparatuur;
 
-- n. **randapparatuur:** een inrichting of samenstel van inrichtingen, bestemd voor rechtstreekse aansluiting op de telecommunicatie-infrastructuur door middel van een sluitpunt;
+- n. *randapparatuur:* een inrichting of samenstel van inrichtingen, bestemd voor rechtstreekse aansluiting op de telecommunicatie-infrastructuur door middel van een sluitpunt;
 
-- o. **de houder van de concessie:** de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01).
+- o. *de houder van de concessie:* de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01).
 
 ### Hoofdstuk II. Telecommunicatie-infrastructuur
 
@@ -125,23 +103,23 @@ Het vervaardigen, verspreiden of ter verspreiding in voorraad hebben van lijsten
 
 2. Deze concessievoorwaarden of deze algemene richtlijnen kunnen in elk geval betrekking hebben op:
 
-- a). het instandhouden van een goede telecommunicatie-infrastructuur en een goede dienstverlening;
+- a) het instandhouden van een goede telecommunicatie-infrastructuur en een goede dienstverlening;
 
-- b). de wijze en mate van dienstverlening;
+- b) de wijze en mate van dienstverlening;
 
-- c). de samenwerking tussen de houders van een concessie;
+- c) de samenwerking tussen de houders van een concessie;
 
-- d). de tarieven;
+- d) de tarieven;
 
-- e). de geheimhouding;
+- e) de geheimhouding;
 
-- f). de bescherming van de persoonlijke levenssfeer;
+- f) de bescherming van de persoonlijke levenssfeer;
 
-- g). het instellen van een geschillencommissie voor gebruikers met betrekking tot de toepassing van de door de houder van de concessie vast te stellen algemene voorwaarden;
+- g) het instellen van een geschillencommissie voor gebruikers met betrekking tot de toepassing van de door de houder van de concessie vast te stellen algemene voorwaarden;
 
-- i). de omvang en aard van de concessie;
+- i) de omvang en aard van de concessie;
 
-- j). de gronden voor intrekking van de concessie.
+- j) de gronden voor intrekking van de concessie.
 
 3. De concessievoorwaarden of algemene richtlijnen bevatten alleen verplichtingen ten aanzien van het door de houder van de concessie te bereiken resultaat en niet ten aanzien van de wijze van bedrijfsvoering om dit resultaat te bereiken.
 
@@ -557,13 +535,13 @@ De houder van de concessie is verplicht de nodige voorzieningen aan te brengen t
 
 - b. de kosten van bemoeiingen met betrekking tot:
 
-- 1°. de keuring van radio-elektrische inrichtingen, bedoeld in [artikel 15, vijfde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-01-01&g=2019-01-01);
+   - 1°. de keuring van radio-elektrische inrichtingen, bedoeld in [artikel 15, vijfde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-01-01&g=2019-01-01);
 
-- 2°. de keuring van draadomroep- en kabelinrichtingen, bedoeld in [artikel 18a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=3&artikel=18a&z=2019-01-01&g=2019-01-01), onderscheidenlijk [artikel 18c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=3a&artikel=18c&z=2019-01-01&g=2019-01-01), alsmede van de daarmee verbonden kabelnetten;
+   - 2°. de keuring van draadomroep- en kabelinrichtingen, bedoeld in [artikel 18a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=3&artikel=18a&z=2019-01-01&g=2019-01-01), onderscheidenlijk [artikel 18c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=3a&artikel=18c&z=2019-01-01&g=2019-01-01), alsmede van de daarmee verbonden kabelnetten;
 
-- 3°. de toelating van randapparatuur alsmede de keuring van interne netten, bedoeld in [artikel 22, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01); en
+   - 3°. de toelating van randapparatuur alsmede de keuring van interne netten, bedoeld in [artikel 22, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01); en
 
-- 4°. het toezicht op de naleving van de met betrekking tot de onder 1°, 2° en 3° bedoelde keuringen en toelating;
+   - 4°. het toezicht op de naleving van de met betrekking tot de onder 1°, 2° en 3° bedoelde keuringen en toelating;
 
 - c. de kosten van de behandeling van klachten over storing of belemmering als bedoeld in [artikel 15, vijfde lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=2&artikel=15&z=2019-01-01&g=2019-01-01), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=2&artikel=16&z=2019-01-01&g=2019-01-01), voorzover daarin artikel 15, vijfde lid onder d, van overeenkomstige toepassing is verklaard, [artikel 18, derde lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III&paragraaf=3&artikel=18&z=2019-01-01&g=2019-01-01) en [artikel 22, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV&artikel=22&z=2019-01-01&g=2019-01-01);
 
@@ -719,13 +697,13 @@ De houder van de concessie is verplicht medewerking te verlenen aan de uitvoerin
 
 - c. de taken en bevoegdheden van een dergelijke raad ten aanzien van:
 
-- 1. De advisering van Onze Minister;
+   - 1. De advisering van Onze Minister;
 
-- 2. Het voeren van overleg en de bevordering van de samenwerking tussen de houders van een concessie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01);
+   - 2. Het voeren van overleg en de bevordering van de samenwerking tussen de houders van een concessie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01);
 
-- 3. Het behandelen van geschillen tussen de houders van een concessie;
+   - 3. Het behandelen van geschillen tussen de houders van een concessie;
 
-- 4. De bespreking van problemen van internationale aard.
+   - 4. De bespreking van problemen van internationale aard.
 
 3. Bij algemene maatregel van bestuur kan aan Onze Minister de bevoegdheid worden verleend tot het nemen van een beslissing over geschillen als bedoeld in het tweede lid, onderdeel b, ten derde, die de houders van een concessie bindt.
 

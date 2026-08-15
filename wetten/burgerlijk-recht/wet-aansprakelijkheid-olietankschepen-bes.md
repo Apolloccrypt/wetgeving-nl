@@ -1,38 +1,16 @@
 ---
 title: "Wet aansprakelijkheid olietankschepen BES"
 identifier: "BWBR0028324"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028324"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10752323"
-version_id: "17727172"
-internal_id: "C24763621"
-label_id: "10727334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028324/2010-10-10/0"
-intitule_bron: "Stb.2010-500"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-500"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-500"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028324&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028324&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028324"
+opgehaald: 2026-08-15
 ---
+
 # Wet aansprakelijkheid olietankschepen BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,29 +19,29 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de minister:** Onze Minister van Verkeer en Waterstaat;
+- a. *de minister:* Onze Minister van Verkeer en Waterstaat;
 
-- b. **Verdrag:** het op 27 november 1992 te Londen tot stand gekomen Internationaal verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
+- b. *Verdrag:* het op 27 november 1992 te Londen tot stand gekomen Internationaal verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
 
-- c. **schip:** alle zeeschepen en andere zeegaande vaartuigen, van welk type ook, gebouwd of aangepast voor het vervoer van olie in bulk als lading, met dien verstande dat een schip dat olie en andere soorten lading kan vervoeren alleen als schip wordt beschouwd, wanneer het daadwerkelijk olie in bulk als lading vervoert en tijdens iedere reis na een zodanig vervoer, tenzij wordt aangetoond dat het geen residuen van zulk vervoer van olie aan boord heeft;
+- c. *schip:* alle zeeschepen en andere zeegaande vaartuigen, van welk type ook, gebouwd of aangepast voor het vervoer van olie in bulk als lading, met dien verstande dat een schip dat olie en andere soorten lading kan vervoeren alleen als schip wordt beschouwd, wanneer het daadwerkelijk olie in bulk als lading vervoert en tijdens iedere reis na een zodanig vervoer, tenzij wordt aangetoond dat het geen residuen van zulk vervoer van olie aan boord heeft;
 
-- d. **persoon:** een natuurlijke persoon of een privaatrechtelijke of publiekrechtelijke rechtspersoon;
+- d. *persoon:* een natuurlijke persoon of een privaatrechtelijke of publiekrechtelijke rechtspersoon;
 
-- e. **eigenaar:** de persoon die in het register waarin het schip is teboekgesteld als eigenaar van het schip is ingeschreven of, bij gebreke van enige teboekstelling, de persoon die het schip in eigendom heeft, met dien verstande dat de persoon die een schip, dat eigendom is van een staat, exploiteert of reedt en die in die staat als exploitant of reder van dat schip is ingeschreven, als eigenaar van het schip wordt beschouwd;
+- e. *eigenaar:* de persoon die in het register waarin het schip is teboekgesteld als eigenaar van het schip is ingeschreven of, bij gebreke van enige teboekstelling, de persoon die het schip in eigendom heeft, met dien verstande dat de persoon die een schip, dat eigendom is van een staat, exploiteert of reedt en die in die staat als exploitant of reder van dat schip is ingeschreven, als eigenaar van het schip wordt beschouwd;
 
-- f. **olie:** alle persistente uit koolwaterstoffen bestaande minerale oliën, zoals ruwe olie, stookolie, zware dieselolie en smeerolie, alsmede zonodig bij algemene maatregel van bestuur, nader te omschrijven andere bestendige oliën, vervoerd aan boord van een schip als lading of in de bunkers van het schip;
+- f. *olie:* alle persistente uit koolwaterstoffen bestaande minerale oliën, zoals ruwe olie, stookolie, zware dieselolie en smeerolie, alsmede zonodig bij algemene maatregel van bestuur, nader te omschrijven andere bestendige oliën, vervoerd aan boord van een schip als lading of in de bunkers van het schip;
 
-- g. **schade door verontreiniging:**
+- g. *schade door verontreiniging:*
 
-- 1. verlies of schade buiten het schip veroorzaakt door bevuiling ten gevolge van het ontsnappen of doen wegvloeien van olie uit het schip, waar zulk ontsnappen of doen wegvloeien ook mag plaatsvinden, met dien verstande dat vergoeding voor andere schade aan het milieu dan winstderving ten gevolge van deze schade, wordt beperkt tot de kosten van redelijke maatregelen tot herstel die daadwerkelijk worden ondernomen of zullen worden ondernomen,
+   - 1. verlies of schade buiten het schip veroorzaakt door bevuiling ten gevolge van het ontsnappen of doen wegvloeien van olie uit het schip, waar zulk ontsnappen of doen wegvloeien ook mag plaatsvinden, met dien verstande dat vergoeding voor andere schade aan het milieu dan winstderving ten gevolge van deze schade, wordt beperkt tot de kosten van redelijke maatregelen tot herstel die daadwerkelijk worden ondernomen of zullen worden ondernomen,
 
-- 2. de kosten van preventieve maatregelen alsmede verlies of schade veroorzaakt door die maatregelen;
+   - 2. de kosten van preventieve maatregelen alsmede verlies of schade veroorzaakt door die maatregelen;
 
-- h. **preventieve maatregelen:** na een voorval genomen redelijke maatregelen ter voorkoming of beperking van schade door verontreiniging;
+- h. *preventieve maatregelen:* na een voorval genomen redelijke maatregelen ter voorkoming of beperking van schade door verontreiniging;
 
-- i. **voorval:** elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade door verontreiniging wordt veroorzaakt, of waardoor een ernstige en onmiddellijke dreiging ontstaat dat zulk een schade zal worden veroorzaakt;
+- i. *voorval:* elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade door verontreiniging wordt veroorzaakt, of waardoor een ernstige en onmiddellijke dreiging ontstaat dat zulk een schade zal worden veroorzaakt;
 
-- j. **ton:** een gewichtseenheid van 1.000 kilogram.
+- j. *ton:* een gewichtseenheid van 1.000 kilogram.
 
 ##### Artikel 2
 
@@ -181,7 +159,7 @@ In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Hoofdstuk V. Bepalingen tot uitvoering van artikel VII van het Verdrag
 
-## Titel 1. De verplichting tot het in stand houden van een verzekering of andere financiële zekerheid en de overeenkomst tot verstrekking van financiële zekerheid
+### Titel 1. De verplichting tot het in stand houden van een verzekering of andere financiële zekerheid en de overeenkomst tot verstrekking van financiële zekerheid
 
 ##### Artikel 14
 
@@ -207,7 +185,7 @@ De overeenkomst tot verstrekking van financiële zekerheid ten aanzien van een s
 
 Gelden uit een verzekering of andere financiële zekerheid die ingevolge de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028324&hoofdstuk=V&titeldeel=1&artikel=14&z=2010-10-10&g=2010-10-10) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028324&hoofdstuk=V&titeldeel=1&artikel=15&z=2010-10-10&g=2010-10-10) in stand wordt gehouden, zijn uitsluitend beschikbaar voor de voldoening van vorderingen ingevolge deze wet. Voor andere vorderingen kan op deze gelden geen beslag worden gelegd.
 
-## Titel 2. Het certificaat
+### Titel 2. Het certificaat
 
 ##### Artikel 18
 

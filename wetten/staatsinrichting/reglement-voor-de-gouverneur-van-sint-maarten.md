@@ -1,51 +1,20 @@
 ---
 title: "Rijkswet van 7 juli 2010, houdende Reglement voor de Gouverneur van Sint Maarten"
+citeertitel: "Reglement voor de Gouverneur van Sint Maarten"
 identifier: "BWBR0028096"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028096"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10654013"
-version_id: "17599542"
-internal_id: "C24684021"
-label_id: "10629054"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028096/2020-04-01/0"
-intitule_bron: "Stb.2010-340"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-340"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32179(R1899)"
-original_url_id: "stb-2010-340"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028096&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0028096&g=2020-04-01"
-citeertitel_status: "officieel"
-short_title: "Reglement voor de Gouverneur van Sint Maarten"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0028096"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010, houdende Reglement voor de Gouverneur van Sint Maarten
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is, in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Sint Maarten, uitvoering te geven aan het bepaalde in [artikel 2, tweede en derde lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=2);
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
-
-### afdeling Eerste. **Benoeming en ontslag van de Gouverneur**
+#### afdeling Eerste. Benoeming en ontslag van de Gouverneur
 
 ##### Artikel 1
 
@@ -171,7 +140,7 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in [artikel 10](https:/
 
 2. De waarnemende Gouverneur legt in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028096&afdeling=Eerste&artikel=13&z=2020-04-01&g=2020-04-01), en van het proces-verbaal van zijn eedaflegging.
 
-### afdeling Tweede. **De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk**
+#### afdeling Tweede. De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk
 
 ##### Artikel 15
 
@@ -280,5 +249,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 27
 
 Deze rijkswet wordt aangehaald als: Reglement voor de Gouverneur van Sint Maarten.
-
-Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

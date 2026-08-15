@@ -1,59 +1,37 @@
 ---
 title: "Arbeidsveiligheidsbesluit III BES"
 identifier: "BWBR0028426"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028426"
+categorie: "Arbeidsrecht"
 soort: "AMvB-BES"
-stam_id: "10780863"
-version_id: "17757462"
-internal_id: "C24840311"
-label_id: "10755564"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028426/2010-10-10/0"
-intitule_bron: "Stb.2010-617"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-617"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-617"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028426&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028426&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028426"
+opgehaald: 2026-08-15
 ---
+
 # Arbeidsveiligheidsbesluit III BES
 
-## Definities
+### Definities
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de minister van Sociale Zaken en Werkgelegenheid.
+- a. *de minister:* de minister van Sociale Zaken en Werkgelegenheid.
 
-- b. **de ambtenaar:** de ambtenaar bedoeld in [artikel 2 lid 2 van de Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2)
+- b. *de ambtenaar:* de ambtenaar bedoeld in [artikel 2 lid 2 van de Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2)
 
-- c. **een reservoir:** een stationair reservoir, dat is een drukhouder met een waterinhoud van meer dan 150 l, die gebruikt wordt voor het opslaan van propaan of butaan.
+- c. *een reservoir:* een stationair reservoir, dat is een drukhouder met een waterinhoud van meer dan 150 l, die gebruikt wordt voor het opslaan van propaan of butaan.
 
-- d. **een installatie:** de op een leidingnet aangesloten verbruikstoestellen en reservoirs zomede alle leidingen, inrichtingen en hulpapparaten, die voor het goed functioneren van de verbruikstoestellen nodig zijn.
+- d. *een installatie:* de op een leidingnet aangesloten verbruikstoestellen en reservoirs zomede alle leidingen, inrichtingen en hulpapparaten, die voor het goed functioneren van de verbruikstoestellen nodig zijn.
 
-- e. **butaan:** een tot vloeistof verdicht gas, uitsluitend of in hoofdzaak bestaande uit de stoffen butaan, isobutaan, buteen, waarvan de dampspanning bij 70C ten hoogste 11 kg/cm2 absoluut bedraagt.
+- e. *butaan:* een tot vloeistof verdicht gas, uitsluitend of in hoofdzaak bestaande uit de stoffen butaan, isobutaan, buteen, waarvan de dampspanning bij 70C ten hoogste 11 kg/cm2 absoluut bedraagt.
 
-- f. **propaan:** een tot vloeistof verdicht gas, uitsluitend of in hoofdzaak bestaande uit de stoffen propeen, propaan, butaan en isobutaan, waarvan de dampspanning bij 70C ten hoogste 31 kg/cm2 absoluut bedraagt.
+- f. *propaan:* een tot vloeistof verdicht gas, uitsluitend of in hoofdzaak bestaande uit de stoffen propeen, propaan, butaan en isobutaan, waarvan de dampspanning bij 70C ten hoogste 31 kg/cm2 absoluut bedraagt.
 
-## Vergunning tot het gebruik van reservoirs
+### Vergunning tot het gebruik van reservoirs
 
 ##### Artikel 2
 
@@ -77,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien het reservoir in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt geïmporteerd moet de aanvrager een certificaat van goedkeuring overleggen, dat opgemaakt is door een door de Minister erkende instantie of deskundige.
 
-## Het reservoir en toebehoren
+### Het reservoir en toebehoren
 
 ##### Artikel 3
 
@@ -113,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 - c. mag in gesloten stand geen grotere doorlaat hebben dan 2 mm2.
 
-## Installatie
+### Installatie
 
 ##### Artikel 4
 
@@ -155,7 +133,7 @@ In dit besluit wordt verstaan onder:
 
 17. Voor de beproeving van gasdichtheid moet het gehele leidingnet vanaf de uitlaatzijde van de drukregelaar tot en met de gesloten kranen op de verbruikstoestellen, respectievelijk de gesloten aansluitkranen van de niet afsluitbare toestellen, op een druk worden gebracht, die tenminste gelijk moet zijn aan 110% van de dampspanning bij de maximum heersende temperatuur.
 
-## Onderhoud en herstel
+### Onderhoud en herstel
 
 ##### Artikel 5
 
@@ -163,7 +141,7 @@ In dit besluit wordt verstaan onder:
 
 2. Een reservoir mag niet door of met behulp van lassen worden hersteld of aan een warmtebehandeling worden onderworpen dan wel bij aanwezigheid van een belangrijke vervorming koud noch warm in de oorspronkelijke staat worden teruggebracht, indien dit niet door de ambtenaar is goedgekeurd.
 
-## Keuring
+### Keuring
 
 ##### Artikel 6
 
@@ -175,7 +153,7 @@ In dit besluit wordt verstaan onder:
 
 - b. alle belangrijke veranderingen of herstelwerkzaamheden aan het reservoir.
 
-- a. De keuringen bedoeld in lid 2 dienen te geschieden door of onder toezicht van de ambtenaar.
+3. - a. De keuringen bedoeld in lid 2 dienen te geschieden door of onder toezicht van de ambtenaar.
 
 - b. De ambtenaar kan, indien hij vermoedt dat enig reservoir ondeugdelijk is of is geworden, proefnemingen voorschrijven.
 
@@ -191,7 +169,7 @@ In dit besluit wordt verstaan onder:
 
 8. Hij, die een reservoir gebruikt, is verplicht een register bij te houden vermeldende de kentekenen van het reservoir alsmede de data waarop het aan de vereiste keuringen is onderworpen.
 
-## Diverse bepalingen
+### Diverse bepalingen
 
 ##### Artikel 7
 
@@ -199,7 +177,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het bepaalde in dit besluit is niet van toepassing op de installaties van petroleumraffinaderijen.
 
-## Slotbepalingen
+### Slotbepalingen
 
 ##### Artikel 8
 

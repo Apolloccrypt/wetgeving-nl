@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 23 augustus 2010 betreffende nieuwe regels inzake de financiering van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit financiering Gemeenschappelijk Hof van Justitie)"
+citeertitel: "Rijksbesluit financiering Gemeenschappelijk Hof van Justitie"
 identifier: "BWBR0028144"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028144"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "10678543"
-version_id: "17634162"
-internal_id: "C24665971"
-label_id: "10653364"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028144/2010-10-10/0"
-intitule_bron: "Stb.2010-352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-23"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-352"
-original_signed_date: "2010-08-23"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-352"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028144&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028144&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit financiering Gemeenschappelijk Hof van Justitie"
-signed_date: "2010-08-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028144"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 23 augustus 2010 betreffende nieuwe regels inzake de financiering van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit financiering Gemeenschappelijk Hof van Justitie)
-
-Op de voordracht van Onze Minister van Justitie van 2 december 2009, nr. 5630762/09/6, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 55, eerste en tweede lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=55);
-
-De Raad van State van het Koninkrijk gehoord (advies van 23 december 2009, nr. W03.09.0518/II/K);
-
-Gezien het nader rapport van Onze Minister van Justitie van 17 augustus 2010, nr. 5636986/10, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 66 van de Rijkswet Gemeenschappelijk Hof van Justitie in werking treedt. Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -56,13 +20,13 @@ Treedt in werking op het tijdstip waarop artikel 66 van de Rijkswet Gemeenschapp
 
 In dit besluit wordt verstaan onder:
 
-- **instroom:** instroom van te behandelen rechtszaken in een jaar onderverdeeld naar afzonderlijke zaakscategorieën;
+- *instroom:* instroom van te behandelen rechtszaken in een jaar onderverdeeld naar afzonderlijke zaakscategorieën;
 
-- **kostprijs:** de naar de zaakscluster gedifferentieerde kosten per product die worden gebruikt voor de vaststelling van instroomgerelateerde bijdrage van de landen aan het Hof;
+- *kostprijs:* de naar de zaakscluster gedifferentieerde kosten per product die worden gebruikt voor de vaststelling van instroomgerelateerde bijdrage van de landen aan het Hof;
 
-- **zaakscategorie:** een deel van de instroom dat door het Hof en de gerechten op gelijksoortige wijze wordt behandeld;
+- *zaakscategorie:* een deel van de instroom dat door het Hof en de gerechten op gelijksoortige wijze wordt behandeld;
 
-- **zaakscluster:** een aantal op basis van de werklast samenhangende zaakscategorieën.
+- *zaakscluster:* een aantal op basis van de werklast samenhangende zaakscategorieën.
 
 ### Hoofdstuk 2. Ondersteunende systemen en modellen
 
@@ -257,5 +221,3 @@ Dit besluit treedt in werking op het krachtens [artikel 66 van de Rijkswet Gemee
 ##### Artikel 21
 
 Dit besluit wordt aangehaald als: Rijksbesluit financiering Gemeenschappelijk Hof van Justitie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

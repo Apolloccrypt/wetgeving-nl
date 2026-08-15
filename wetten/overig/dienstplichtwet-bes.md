@@ -1,41 +1,19 @@
 ---
 title: "Dienstplichtwet BES"
 identifier: "BWBR0028468"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028468"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10797713"
-version_id: "17777522"
-internal_id: "C24781851"
-label_id: "10774084"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028468/2011-10-09/0"
-intitule_bron: "Stb.2010-426"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-426"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-426"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028468&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028468&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028468"
+opgehaald: 2026-08-15
 ---
+
 # Dienstplichtwet BES
 
-## Titel I. Dienstplicht
+### Titel I. Dienstplicht
 
 ### Hoofdstuk I. Algemene Bepalingen
 
@@ -43,15 +21,15 @@ entry_into_force: "2010-10-10"
 
 1. Voor de toepassing van deze titel wordt verstaan onder:
 
-- a. **krijgsmacht:** de krijgsmacht van het Koninkrijk;
+- a. *krijgsmacht:* de krijgsmacht van het Koninkrijk;
 
-- b. **werkelijke dienst:** dienst in de krijgsmacht;
+- b. *werkelijke dienst:* dienst in de krijgsmacht;
 
-- c. **dienstplicht:** de verplichting tot het vervullen van werkelijke dienst;
+- c. *dienstplicht:* de verplichting tot het vervullen van werkelijke dienst;
 
-- d. **dienstplichtige:** hij, die ingevolge deze wet tot werkelijke dienst kan worden opgeroepen;
+- d. *dienstplichtige:* hij, die ingevolge deze wet tot werkelijke dienst kan worden opgeroepen;
 
-- e. **Onze Minister:** Onze Minister van Defensie.
+- e. *Onze Minister:* Onze Minister van Defensie.
 
 2. Onder de ingevolge deze wet voor de dienstplicht in te schrijven personen worden uitsluitend mannelijke personen verstaan.
 
@@ -391,7 +369,7 @@ De dienstplichtige met groot verlof is verplicht om aan door Onze Minister aan t
 
 3. Ontslag van een langdurig vrijwillig nadienende dienstplichtige om de reden, genoemd in [artikel 35, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=I&hoofdstuk=IX&artikel=35&z=2011-10-09&g=2011-10-09), kan slechts plaatsvinden indien naar het oordeel van de Regionaal Bevelhebber na een zorgvuldig onderzoek niet mogelijk gebleken is de militair binnen het krijgsmachtdeel waar hij werkzaam is, een andere, passende, functie toe te wijzen, dan wel indien hij een zodanige functie weigert te aanvaarden. In het onderzoek wordt de mogelijkheid tot bij- of omscholing van de militair betrokken.
 
-## Titel II. Rechtstoestand
+### Titel II. Rechtstoestand
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -703,7 +681,7 @@ De vrijwillig nadienende dienstplichtige wordt voor zover betreft de regeling va
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 11. Andere voorzieningen van materiele aard
 
@@ -1095,13 +1073,13 @@ Tegen een besluit als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:
 
 Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder:
 
-- a. **klager:** de dienstplichtige, die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) (P.B. 1922, no. 54) ontvangen bevel, dan wel vermeent van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden;
+- a. *klager:* de dienstplichtige, die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) (P.B. 1922, no. 54) ontvangen bevel, dan wel vermeent van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden;
 
-- b. **klaagschrift:** het door een klager bij de beklagmeerdere ingediend geschrift, houdende een beschrijving van het bevel of de handeling waartegen het beklag is gericht;
+- b. *klaagschrift:* het door een klager bij de beklagmeerdere ingediend geschrift, houdende een beschrijving van het bevel of de handeling waartegen het beklag is gericht;
 
-- c. **beklagmeerdere:** de tot straffen bevoegde militaire meerdere, als bedoeld in [artikel 49 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=49) (P.B. 1990, no. 64), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door Onze Minister van Defensie aangewezen functionaris;
+- c. *beklagmeerdere:* de tot straffen bevoegde militaire meerdere, als bedoeld in [artikel 49 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=49) (P.B. 1990, no. 64), onder wiens rechtstreeks bevel degene, tegen wie het klaagschrift is gericht, is gesteld dan wel een door Onze Minister van Defensie aangewezen functionaris;
 
-- d. **vertrouwensman:** de vertrouwensman als bedoeld in [artikel 57 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=57).
+- d. *vertrouwensman:* de vertrouwensman als bedoeld in [artikel 57 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=57).
 
 ##### Artikel 116c
 
@@ -1185,7 +1163,7 @@ Indien de belanghebbende tijdens de duur van de uitkering overlijdt eindigt de u
 
 ##### Artikel 125
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 126
 
@@ -1219,7 +1197,7 @@ Voor de vrijwillig nadienende dienstplichtige, die op de dag voorafgaand aan die
 
 De dienstplichtige die op het tijdstip van inwerkingtreding van de landsverordening waarbij [titel II](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&titeldeel=II&z=2011-10-09&g=2011-10-09) in deze landsverordening is ingevoegd, in werkelijke dienst is, blijft gedurende de tijd dat hij als zodanig werkelijke dienst verricht, aanspraak houden op de bezoldiging waarop hij aanspraak had op de dag voorafgaande aan dat tijdstip van inwerkingtreding.
 
-## Titel III. Straf- en Slotbepalingen
+### Titel III. Straf- en Slotbepalingen
 
 ##### Artikel 132
 

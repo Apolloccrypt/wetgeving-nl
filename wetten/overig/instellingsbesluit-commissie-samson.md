@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin van 16 augustus 2010, nr. DDS 5663593, houdende instelling van de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst (Instellingsbesluit Commissie Samson)"
+citeertitel: "Instellingsbesluit Commissie Samson"
 identifier: "BWBR0028140"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-03-22"
-last_updated: "2012-03-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028140"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10672243"
-version_id: "17627142"
-internal_id: "C24389551"
-label_id: "10646924"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028140/2012-03-22/0"
-intitule_bron: "Stcrt.2010-13487"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-16"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-13487"
-original_signed_date: "2010-08-16"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-13487"
-entry_into_force_date: "2010-09-02"
-jci_1_3: "jci1.3:c:BWBR0028140&z=2012-03-22&g=2012-03-22"
-jci_1_0: "1.0:c:BWBR0028140&g=2012-03-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Samson"
-signed_date: "2010-08-16"
-entry_into_force: "2010-09-02"
+publicatiedatum: 2010-09-02
+laatste_update: 2012-03-22
+status: geldig
+toestand: 2012-03-22
+bron: "https://wetten.overheid.nl/BWBR0028140"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin van 16 augustus 2010, nr. DDS 5663593, houdende instelling van de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst (Instellingsbesluit Commissie Samson)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Ministers:** de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de Ministers:* de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **de Commissie:** de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.
+- b. *de Commissie:* de Commissie onderzoek seksueel misbruik van minderjarigen die onder verantwoordelijkheid van de overheid in instellingen zijn geplaatst.
 
 ##### Artikel 2. Instelling
 
@@ -135,5 +109,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Samson.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

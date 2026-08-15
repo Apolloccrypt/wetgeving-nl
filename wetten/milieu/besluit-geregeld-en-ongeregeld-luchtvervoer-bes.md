@@ -1,38 +1,16 @@
 ---
 title: "Besluit geregeld en ongeregeld luchtvervoer BES"
 identifier: "BWBR0028527"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028527"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10835653"
-version_id: "17815262"
-internal_id: "C24807831"
-label_id: "10810314"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028527/2010-10-10/0"
-intitule_bron: "Stb.2010-634"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-634"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-634"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028527&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028527&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028527"
+opgehaald: 2026-08-15
 ---
+
 # Besluit geregeld en ongeregeld luchtvervoer BES
 
 ##### Artikel 1
@@ -103,9 +81,9 @@ Bij een aanvraag gericht op geregeld luchtvervoer wordt de wenselijkheid van het
 
 - b. over voldoende middelen beschikt om:
 
-- 1°. de voorbereidingskosten (kosten die gemaakt moeten worden voordat met de operatie begonnen kan worden) te dekken;
+   - 1°. de voorbereidingskosten (kosten die gemaakt moeten worden voordat met de operatie begonnen kan worden) te dekken;
 
-- 2°. gedurende een periode van drie maanden vanaf het begin van de exploitatie haar vaste en bedrijfsuitgaven die voortvloeien uit de exploitatie volgens haar bedrijfsplan en die op realistische onderstellingen zijn gebaseerd, te dekken, zonder dat rekening wordt gehouden met haar inkomsten uit exploitatie.
+   - 2°. gedurende een periode van drie maanden vanaf het begin van de exploitatie haar vaste en bedrijfsuitgaven die voortvloeien uit de exploitatie volgens haar bedrijfsplan en die op realistische onderstellingen zijn gebaseerd, te dekken, zonder dat rekening wordt gehouden met haar inkomsten uit exploitatie.
 
 2. Voor de toepassing van het eerste lid verstrekt de aanvrager alle relevante inlichtingen, met name de gegevens vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&bijlage=B&z=2010-10-10&g=2010-10-10).
 
@@ -126,69 +104,3 @@ Dit besluit berust op [artikel 8, vierde lid, van de Luchtvaartwet BES](https://
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit geregeld en ongeregeld luchtvervoer BES.
-
-## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&artikel=2&z=2010-10-10&g=2010-10-10) van het Besluit geregeld en ongeregeld luchtvervoer BES.
-
-De documenten of gegevens die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&artikel=2&z=2010-10-10&g=2010-10-10) als bijlage overgelegd moeten worden bij het indienen van een aanvraag tot het verkrijgen van een vergunning als bedoeld in artikel 8, eerste en derde lid, van de Luchtvaartwet BES zijn:
-
-- 1. De statuten van de vennootschap en eventuele wijzigingen hiervan.
-
-- 2. Een geldig bewijs van inschrijving bij de Kamer van Koophandel.
-
-- 3. De geldende samenstelling van het bestuur der vennootschap, onder vermelding van namen, nationaliteit en vestiging alsmede adres van de directeuren.
-
-- 4. Namen, nationaliteit en vestiging van de aandeelhouders en opgave van het type aandelen en aandelenpercentage van deze.
-
-- 5. Het aandeelhoudersregister.
-
-- 6. De nodige geldige vergunningen o.g.v. de [Wet vestiging bedrijven BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028164) [vestigingsvergunning, directeursvergunning(en)].
-
-- 7. De nodige geldige vergunningen o.g.v. de Wet toelating en uitzetting BES [vergunning(en) tot verblijf, directievergunning(en), werkvergunning(en)].
-
-- 8. Een bewijs/bewijzen van goed gedrag.
-
-## Bijlage B. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&artikel=6&z=2010-10-10&g=2010-10-10) van het Besluit geregeld en ongeregeld luchtvervoer BES.
-
-De ondernemingen, die voor het eerst een aanvraag voor een economische vergunning indienen, verstrekken uit het oogpunt van financiële draagkracht de volgende gegevens:
-
-- 1. Een door een onafhankelijke ter zake kundige opgesteld bedrijfsplan bevattende o.a. een balansraming en een winst- en verliesrekening voor de eerste twee exploitatiejaren.
-
-- 2. Cash-flow-staten en liquiditeitsplannen voor de eerste twee exploitatiejaren.
-
-- 3. De basis voor de geraamde uitgaven en ontvangsten voor posten zoals brandstof, tarieven, lonen, onderhoud, afschrijvingen, mogelijke wisselkoersschommelingen, luchthavenrechten, verzekering en prognoses inzake vervoer/ontvangsten.
-
-- 4. Bijzonderheden over de aanloopkosten tijdens de periode die loopt van het indienen van de aanvraag tot het begin van de exploitatie en een toelichting over de voorgenomen wijze van financiering van deze kosten.
-
-- 5. Bijzonderheden over de bestaande en geplande financieringsbronnen.
-
-- 6. Bijzonderheden over de aandeelhouders, waaronder hun nationaliteit en de soorten aandelen, alsmede de statuten. Indien de onderneming deel uitmaakt van een groep van ondernemingen, inlichtingen over de onderlinge banden.
-
-- 7. Bijzonderheden over de financiering van de aankoop/huur van luchtvaartuigen met, in het geval van huur, de contractvoorwaarden.
-
-## Bijlage C. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&artikel=6&z=2010-10-10&g=2010-10-10) van het Besluit geregeld en ongeregeld luchtvervoer BES.
-
-De gegevens die verstrekt moeten worden ter beoordeling van de financiële draagkracht van vergunninghouders, die een wijziging van hun structuren of activiteiten overwegen, welke een aanzienlijke invloed op hun financiële positie heeft zijn:
-
-- 1. Het meest recente interne verslag over de bedrijfsvoering en door externe accountants gecontroleerde rekeningen over het voorgaande boekjaar.
-
-- 2. Nauwkeurige bijzonderheden over alle voorgenomen wijzigingen, bijvoorbeeld wijziging van het soort dienst, voorgenomen overneming of fusie, wijzigingen in het aandelenkapitaal, wijzigingen wat de aandeelhouders betreft.
-
-- 3. Een balansraming, met een winst en verliesrekening over het lopende boekjaar, inclusief alle voorgenomen wijzigingen in de structuur of activiteiten die een belangrijke weerslag op de financiële positie hebben.
-
-- 4. Vroegere en geraamde uitgaven en inkomsten met betrekking tot brandstof, tarieven, lonen, onderhoud, afschrijvingen, wisselkoersschommelingen, luchthavenrechten, verzekering en prognoses inzake vervoer/ontvangsten.
-
-- 5. Cash-flow-staten en liquiditeitsplannen voor het volgend jaar, met alle voorgenomen wijzigingen in de structuur of activiteiten die een aanzienlijke weerslag hebben op de financiële positie.
-
-- 6. Bijzonderheden over de financiering van de aankoop/huur van luchtvaartuigen met, in het geval van huur, de contractvoorwaarden.
-
-## Bijlage D. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&artikel=6&z=2010-10-10&g=2010-10-10) van het Besluit geregeld en ongeregeld luchtvervoer BES.
-
-De te verstrekken inlichtingen voor de beoordeling van de financiële draagkracht van houders van een vergunning zijn:
-
-- 1. Door externe accountants gecontroleerde rekeningen uiterlijk zes maanden na het einde van het boekjaar en het meest recente interne verslag over de bedrijfsvoering.
-
-- 2. Een balansraming, met inbegrip van een winst- en verliesrekening voor het volgend jaar.
-
-- 3. Vroegere en geraamde uitgaven en inkomsten met betrekking tot brandstof, tarieven, lonen, onderhoud, afschrijvingen, wisselkoersschommelingen, luchthavenrechten, verzekeringen en prognoses inzake vervoer/ontvangsten.
-
-- 4. Cash-flow-staten en liquiditeitsplannen voor het volgend jaar.

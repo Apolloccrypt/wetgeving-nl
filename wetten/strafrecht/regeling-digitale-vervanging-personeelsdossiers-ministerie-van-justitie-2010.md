@@ -1,58 +1,34 @@
 ---
 title: "Regeling van de Minister van Justitie van 19 april 2010, nr. DDS-nummer 5646604 inzake de vervanging van papieren door digitale personeelsdossiers (Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010)"
+citeertitel: "Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010"
 identifier: "BWBR0027775"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-12-20"
-last_updated: "2011-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027775"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "10574383"
-version_id: "17449872"
-internal_id: "C24117141"
-label_id: "10549334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027775/2011-12-20/0"
-intitule_bron: "Stcrt.2010-9361"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-19"
-intitule_published: "2010-06-21"
-intitule_in_force: "2010-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-9361"
-original_signed_date: "2010-04-19"
-original_published_date: "2010-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-9361"
-entry_into_force_date: "2010-06-22"
-jci_1_3: "jci1.3:c:BWBR0027775&z=2011-12-20&g=2011-12-20"
-jci_1_0: "1.0:c:BWBR0027775&g=2011-12-20"
-citeertitel_status: "officieel"
-short_title: "Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010"
-signed_date: "2010-04-19"
-entry_into_force: "2010-06-22"
+publicatiedatum: 2010-06-22
+laatste_update: 2011-12-20
+status: geldig
+toestand: 2011-12-20
+bron: "https://wetten.overheid.nl/BWBR0027775"
+opgehaald: 2026-08-15
 ---
-# Regeling van de Minister van Justitie van 19 april 2010, nr. DDS-nummer 5646604 inzake de vervanging van papieren door digitale personeelsdossiers (Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010)
 
-Besluit:
+# Regeling van de Minister van Justitie van 19 april 2010, nr. DDS-nummer 5646604 inzake de vervanging van papieren door digitale personeelsdossiers (Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010)
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **selectielijst:** de selectielijst die op 16 augustus 2007 door de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Justitie, [kenmerk C/S&A/07/1516](https://wetten.overheid.nl/jci1.3:c:BWBR0022869) is vastgesteld naar [artikel 5, tweede lid onder b van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) (Stcrt. 2007, 225);
+- a. *selectielijst:* de selectielijst die op 16 augustus 2007 door de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Justitie, [kenmerk C/S&A/07/1516](https://wetten.overheid.nl/jci1.3:c:BWBR0022869) is vastgesteld naar [artikel 5, tweede lid onder b van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) (Stcrt. 2007, 225);
 
-- b. **digitale vervanging:** de vervanging van papieren personeelsdossiers, die op basis van de selectielijst voor vernietiging in aanmerking komen, door digitale bestanden;
+- b. *digitale vervanging:* de vervanging van papieren personeelsdossiers, die op basis van de selectielijst voor vernietiging in aanmerking komen, door digitale bestanden;
 
-- c. **vervangingsbesluit:** een besluit tot digitale vervanging als bedoeld in [artikel 7, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);
+- c. *vervangingsbesluit:* een besluit tot digitale vervanging als bedoeld in [artikel 7, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);
 
-- d. **bewerkersovereenkomst:** een overeenkomst als bedoeld in [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14);
+- d. *bewerkersovereenkomst:* een overeenkomst als bedoeld in [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14);
 
-- e. **P-Direkt:** de baten-lastendienst, ingesteld bij [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
+- e. *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Financiën van 11 februari 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025362);
 
-- f. **beheersorganisatie:** ‘de organisatieonderdelen die krachtens de Organisatieregeling Ministerie van Veiligheid en Justitie 2011 zijn belast met de bedrijfsvoeringstaken van het Ministerie van Veiligheid en Justitie.
+- f. *beheersorganisatie:* ‘de organisatieonderdelen die krachtens de Organisatieregeling Ministerie van Veiligheid en Justitie 2011 zijn belast met de bedrijfsvoeringstaken van het Ministerie van Veiligheid en Justitie.
 
 ##### Artikel 2. Reikwijdte
 
@@ -92,7 +68,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 2. De [Mandaatregeling Ministerie van Veiligheid en Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0030842) en de daarop gebaseerde mandaatregelingen zijn van overeenkomstige toepassing op het nemen van een vervangingsbesluit.
 
-##### Artikel 4. Besliscriteria [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 4. Besliscriteria Archiefwet 1995
 
 1. Alvorens een vervangingsbesluit te nemen wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2011-12-20&g=2011-12-20), genoemde ambtenaren ten aanzien van het beheer vastgesteld en schriftelijk vastgelegd:
 
@@ -128,7 +104,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - c. dat de beheerorganisatie beschikt over een informatiebeveiligingsplan dat voldoet aan eisen voor lange termijn beheer.
 
-##### Artikel 5. Besliscriteria [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
+##### Artikel 5. Besliscriteria Wet bescherming persoonsgegevens
 
 1. Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2011-12-20&g=2011-12-20), genoemde ambtenaren ten aanzien van de verwerking van persoonsgegevens vastgesteld en schriftelijk vastgelegd:
 
@@ -162,7 +138,7 @@ voor zover zij gebruik maken van de voorzieningen van P-Direkt en voor zover zij
 
 - c. de behandeling van bezwaarschriften, beroepschriften en verzoekschriften als bedoeld in de [artikelen 45 tot en met 50 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=45).
 
-##### Artikel 6. Besliscriteria [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+##### Artikel 6. Besliscriteria Algemene wet inzake rijksbelastingen
 
 Alvorens een vervangingsbesluit te nemen, wordt door de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3&z=2011-12-20&g=2011-12-20), bedoelde ambtenaren ten aanzien van de verwerking van declaraties en vergoedingen vastgesteld en schriftelijk vastgelegd:
 
@@ -203,5 +179,3 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,41 +1,19 @@
 ---
 title: "Besluit ter uitvoering van de artikelen 16 en 19 van de Wet medisch tuchtrecht BES"
 identifier: "BWBR0028483"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028483"
+categorie: "Gezondheidszorg"
 soort: "AMvB-BES"
-stam_id: "10812473"
-version_id: "17790842"
-internal_id: "C24809461"
-label_id: "10787374"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028483/2018-08-01/0"
-intitule_bron: "Stb.2010-660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-660"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-660"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028483&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0028483&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0028483"
+opgehaald: 2026-08-15
 ---
+
 # Besluit ter uitvoering van de artikelen 16 en 19 van de Wet medisch tuchtrecht BES
 
-## Begripsbepalingen
+### Begripsbepalingen
 
 ##### Artikel 1
 
@@ -83,11 +61,11 @@ De leden en de secretaris van het College ontvangen voor het bijwonen van bijeen
 
 - 4e. indien geklaagd wordt:
 
-- a. door een rechtstreeks belanghebbende: een duidelijke aanduiding van het belang, hetwelk de klager bij het onderwerp van de klacht heeft;
+   - a. door een rechtstreeks belanghebbende: een duidelijke aanduiding van het belang, hetwelk de klager bij het onderwerp van de klacht heeft;
 
-- b. door een van overheidswege met het toezicht op de Volksgezondheid belaste persoon: vermelding van de kwaliteit van de klager;
+   - b. door een van overheidswege met het toezicht op de Volksgezondheid belaste persoon: vermelding van de kwaliteit van de klager;
 
-- c. door het bestuur van een lichaam, bij hetwelk de geneeskundige, tandheelkundige, vroedvrouw of apotheker in dienst is of waarbij deze voor het verlenen van geneeskundige, tandheelkundige, verloskundige of artsenijkundige hulp is ingeschreven: een duidelijke omschrijving van de onderlinge verhouding.
+   - c. door het bestuur van een lichaam, bij hetwelk de geneeskundige, tandheelkundige, vroedvrouw of apotheker in dienst is of waarbij deze voor het verlenen van geneeskundige, tandheelkundige, verloskundige of artsenijkundige hulp is ingeschreven: een duidelijke omschrijving van de onderlinge verhouding.
 
 2. Bij het klaagschrift wordt tenminste een afschrift daarvan overgelegd.
 
@@ -281,7 +259,7 @@ Indien meer personen binnen de bepaalde termijn, beroep hebben ingesteld worden 
 
 2. De [artikelen 15 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028483&hoofdstuk=IV&artikel=15&z=2018-08-01&g=2018-08-01) van dit besluit zijn op de behandeling voor het Hof van Justitie van overeenkomstige toepassing.
 
-## Slotbepaling
+### Slotbepaling
 
 ##### Artikel 29
 

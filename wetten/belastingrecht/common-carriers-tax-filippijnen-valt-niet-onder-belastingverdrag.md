@@ -1,40 +1,17 @@
 ---
 title: "Common carriers tax Filippijnen valt niet onder belastingverdrag"
 identifier: "BWBR0028091"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1994-12-15"
-last_updated: "1994-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028091"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10653303"
-version_id: "17597712"
-internal_id: "C24351901"
-label_id: "10628064"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028091/1994-12-15/0"
-intitule_bron: "Infob.1995-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-15"
-intitule_published: "1995-01-01"
-intitule_in_force: "1995-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1995-8"
-original_signed_date: "1994-12-15"
-original_published_date: "1995-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1994-12-15"
-jci_1_3: "jci1.3:c:BWBR0028091&z=1994-12-15&g=1994-12-15"
-jci_1_0: "1.0:c:BWBR0028091&g=1994-12-15"
-citeertitel_status: "redactioneel"
-signed_date: "1994-12-15"
-entry_into_force: "1994-12-15"
+publicatiedatum: 1994-12-15
+laatste_update: 1994-12-15
+status: geldig
+toestand: 1994-12-15
+bron: "https://wetten.overheid.nl/BWBR0028091"
+opgehaald: 2026-08-15
 ---
-# Common carriers tax Filippijnen valt niet onder belastingverdrag
 
-De staatssecretaris deelt het volgende mee.
+# Common carriers tax Filippijnen valt niet onder belastingverdrag
 
 In de Filippijnen wordt van buitenlandse internationaal opererende vervoersondernemingen zoals van vergelijkbare binnenlandse ondernemingen naast een income tax ook een common carriers tax geheven. De grondslag van deze common carriers tax is dezelfde als die van de income tax, namelijk de bruto vrachtsom. Naar haar aard is de common carriers tax echter geen belasting van het inkomen maar een omzetbelasting. Deze aard blijkt onder meer uit de systematiek van het Filippijnse belastingstelsel waarin vrijstelling van de algemene omzetbelasting geldt waar de - overigens beduidend lagere - common carriers tax is verschuldigd. Als zodanig valt de common carriers tax dan ook in beginsel niet onder de werking van het verdrag.
 

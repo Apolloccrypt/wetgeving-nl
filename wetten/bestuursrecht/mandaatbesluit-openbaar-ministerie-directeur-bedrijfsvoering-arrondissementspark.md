@@ -1,54 +1,18 @@
 ---
 title: "Regeling van de hoofdofficier van justitie te Den Bosch houdende het verlenen van mandaat, volmacht en machtiging aan de directeur bedrijfsvoering"
+citeertitel: "Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009"
 identifier: "BWBR0027971"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-29"
-last_updated: "2010-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027971"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10622843"
-version_id: "17549342"
-internal_id: "C24286131"
-label_id: "10597734"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027971/2010-07-29/0"
-intitule_bron: "Stcrt.2010-11807"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-24"
-intitule_published: "2010-07-27"
-intitule_in_force: "2010-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-11807"
-original_signed_date: "2010-03-24"
-original_published_date: "2010-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-11807"
-entry_into_force_date: "2010-07-29"
-jci_1_3: "jci1.3:c:BWBR0027971&z=2010-07-29&g=2010-07-29"
-jci_1_0: "1.0:c:BWBR0027971&g=2010-07-29"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009"
-signed_date: "2010-03-24"
-entry_into_force: "2010-07-29"
+publicatiedatum: 2010-07-29
+laatste_update: 2010-07-29
+status: geldig
+toestand: 2010-07-29
+bron: "https://wetten.overheid.nl/BWBR0027971"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van de hoofdofficier van justitie te Den Bosch houdende het verlenen van mandaat, volmacht en machtiging aan de directeur bedrijfsvoering
-
-Overwegende dat bij besluit van 18 december 2009, nummer PaG/14398 het mandaat, de volmacht en de machtiging verleend aan de voorzitter van het Bestuur van de regio Den Bosch, is geregeld;
-
-Dat de directeur bedrijfsvoering specifieke taken en verantwoordelijkheden heeft ten aanzien van de bedrijfsvoering;
-
-Dat er aanleiding is om de directeur bedrijfsvoering mandaat, volmacht en machtiging te verlenen om zijn bedrijfsvoering taken uit te kunnen oefenen;
-
-Dat de regeling van mandaat, volmacht en machtiging ertoe dient om de (regionale) samenwerking te faciliteren en de voorzitter van het Bestuur en de directeur bedrijfsvoering – samen met de fungerend hoofdofficier van justitie – de mogelijkheid te geven om aan die regionale samenwerking inhoud en vorm te geven;
-
-Gelet op de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), het [Besluit Algemene Rechtspositie Politieambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), de [Mandaatregeling niet-beheersaangelegenheden openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) en de [Mandaatregeling beheer openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0026644) en het [Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027872);
-
-Gezien het advies van de ondernemingsraad van het arrondissementsparket te Den Bosch van 23 maart 2010;
-
-Besluit:
 
 #### Paragraaf 1. Definities
 
@@ -56,25 +20,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Ambtenaar:** de rijksambtenaren aangesteld bij het arrondissementsparket Den Bosch, die zijn belast met taken op het gebied van bedrijfsvoering;
+- 1. *Ambtenaar:* de rijksambtenaren aangesteld bij het arrondissementsparket Den Bosch, die zijn belast met taken op het gebied van bedrijfsvoering;
 
-- 2. **Bedrijfsvoering:** de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;
+- 2. *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;
 
-- 3. **College:** het College van procureurs-generaal;
+- 3. *College:* het College van procureurs-generaal;
 
-- 4. **Directeur bedrijfsvoering:** de directeur bedrijfsvoering van het arrondissementsparket te Den Bosch;
+- 4. *Directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Den Bosch;
 
-- 5. **Machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;
+- 5. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;
 
-- 6. **Mandaat:** de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;
+- 6. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;
 
-- 7. **Minister:** de minister van justitie;
+- 7. *Minister:* de minister van justitie;
 
-- 8. **Rijksambtenaren:** de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
+- 8. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
 
-- 9. **Volmacht:** de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;
+- 9. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;
 
-- 10. **Voorzitter van het Bestuur:** de hoofdofficier van justitie van het arrondissementsparket te Den Bosch.
+- 10. *Voorzitter van het Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Den Bosch.
 
 #### Paragraaf 2. De bevoegdheden
 
@@ -84,9 +48,9 @@ In dit besluit wordt verstaan onder:
 
 Aan de directeur bedrijfsvoering wordt volmacht verleend om ten behoeve van de bedrijfsvoering van het arrondissementsparket te Den Bosch:
 
-- a). dienstverleningsovereenkomsten met de dienstverleningsorganisatie OM af te sluiten. De directeur bedrijfsvoering treedt als zodanig op als contractmanager, en;
+- a) dienstverleningsovereenkomsten met de dienstverleningsorganisatie OM af te sluiten. De directeur bedrijfsvoering treedt als zodanig op als contractmanager, en;
 
-- b). externen in te huren.
+- b) externen in te huren.
 
 2. Budgetverantwoordelijkheid
 
@@ -100,17 +64,17 @@ Aan de directeur bedrijfsvoering wordt mandaat verleend, tenzij bij wettelijke v
 
 Aan de directeur bedrijfsvoering wordt mandaat verleend om:
 
-- a). Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de medewerkers bedrijfsvoering aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2010-07-29). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
+- a) Besluiten te nemen, stukken af te doen en brieven te ondertekenen, al dan niet met rechtspositionele gevolgen, voor zover het de medewerkers bedrijfsvoering aangaat met uitzondering van de besluiten en/of handelingen bedoeld in [artikel 3, tweede lid, aanhef, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027971&paragraaf=3&artikel=3&z=2010-07-29&g=2010-07-29). Deze bevoegdheden worden uitgeoefend op basis van de geldende voorschriften, de vastgestelde formatie en het toegekende personele budget.
 
-- b). Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een schadeloosstelling wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
+- b) Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een schadeloosstelling wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
 
-- c). Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een eenmalige of periodieke toeslag wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
+- c) Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een eenmalige of periodieke toeslag wordt toegekend tot het bedrag van € 5.000,– op jaarbasis.
 
 5. Mandaat arbeidsomstandigheden
 
-- a). Aan de directeur bedrijfsvoering wordt mandaat verleend om het arbeidsomstandighedenbeleid te coördineren en uit te voeren zoals dat geldt binnen het openbaar ministerie en hij volgt daarbij – voor zover het betreft de huisvesting en de materiële voorzieningen – het voor het openbaar ministerie geldende arbeidsomstandighedenbeleid.
+- a) Aan de directeur bedrijfsvoering wordt mandaat verleend om het arbeidsomstandighedenbeleid te coördineren en uit te voeren zoals dat geldt binnen het openbaar ministerie en hij volgt daarbij – voor zover het betreft de huisvesting en de materiële voorzieningen – het voor het openbaar ministerie geldende arbeidsomstandighedenbeleid.
 
-- b). Aan de directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist zijn.
+- b) Aan de directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist zijn.
 
 6. Klachtenafhandeling
 
@@ -120,11 +84,11 @@ Aan de directeur bedrijfsvoering wordt mandaat verleend om klachten als bedoeld 
 
 Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluiten te nemen en andere handelingen te verrichten, voortvloeiende uit aangelegenheden van de Nationale Ombudsman indien het gaat om:
 
-- c). het sturen van ontvangstbevestigingen;
+- c) het sturen van ontvangstbevestigingen;
 
-- d). het sturen van tussenberichten, waaronder uitstelberichten, of;
+- d) het sturen van tussenberichten, waaronder uitstelberichten, of;
 
-- e). stukken naar aanleiding van pogingen van de nationale Ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies).
+- e) stukken naar aanleiding van pogingen van de nationale Ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies).
 
 8. [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
 
@@ -142,9 +106,9 @@ Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluit
 
 - b. Het nemen van besluiten met rechtspositionele gevolgen ten aanzien van:
 
-- i). De rechterlijke ambtenaren, bezoldigd volgens salariscategorie 9 en hoger als bedoeld in [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), en;
+   - i) De rechterlijke ambtenaren, bezoldigd volgens salariscategorie 9 en hoger als bedoeld in [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), en;
 
-- ii). De niet rechterlijke ambtenaren, bezoldigd volgens salarisschaal 14 en hoger van de [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), respectievelijk salarisschaal 14 en hoger van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
+   - ii) De niet rechterlijke ambtenaren, bezoldigd volgens salarisschaal 14 en hoger van de [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), respectievelijk salarisschaal 14 en hoger van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
 - c. Het verlenen van ontslag op grond van de [artikelen 99 van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95) en artikel 36b van de Wet rechtspositie rechterlijke ambtenaren.
 

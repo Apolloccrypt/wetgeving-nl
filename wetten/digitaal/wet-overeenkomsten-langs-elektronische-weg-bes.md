@@ -1,38 +1,16 @@
 ---
 title: "Wet overeenkomsten langs elektronische weg BES"
 identifier: "BWBR0028237"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028237"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10718253"
-version_id: "17686382"
-internal_id: "C24763041"
-label_id: "10693314"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028237/2010-10-10/0"
-intitule_bron: "Stb.2010-502"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-502"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-502"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028237&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028237&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028237"
+opgehaald: 2026-08-15
 ---
+
 # Wet overeenkomsten langs elektronische weg BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,25 +19,25 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **certificaat:** een bevestiging, afkomstig van een derde, gericht aan de ontvanger van langs elektronische weg verzonden informatie, dat die informatie van een bepaalde natuurlijke persoon of rechtspersoon afkomstig is;
+- a. *certificaat:* een bevestiging, afkomstig van een derde, gericht aan de ontvanger van langs elektronische weg verzonden informatie, dat die informatie van een bepaalde natuurlijke persoon of rechtspersoon afkomstig is;
 
-- b. **certificatiedienstverlener:** de natuurlijke of rechtspersoon die certificaten afgeeft of andere diensten in verband met elektronische handtekeningen verleent;
+- b. *certificatiedienstverlener:* de natuurlijke of rechtspersoon die certificaten afgeeft of andere diensten in verband met elektronische handtekeningen verleent;
 
-- c. **commerciële communicatie:** alle vormen van aanbieden en aanprijzen van zaken, diensten, bedrijven en personen, waaronder reclame en direct marketing, langs elektronische weg vanuit of gericht op de openbare lichamen Bonaire, Sint Eustatius en Saba, direct of indirect gericht op het tot stand brengen van overeenkomsten;
+- c. *commerciële communicatie:* alle vormen van aanbieden en aanprijzen van zaken, diensten, bedrijven en personen, waaronder reclame en direct marketing, langs elektronische weg vanuit of gericht op de openbare lichamen Bonaire, Sint Eustatius en Saba, direct of indirect gericht op het tot stand brengen van overeenkomsten;
 
-- d. **cryptografie:** technieken voor het versleutelen van elektronisch opgeslagen gegevens met het oogmerk dat die gegevens slechts door bepaalde personen te ontsleutelen zijn;
+- d. *cryptografie:* technieken voor het versleutelen van elektronisch opgeslagen gegevens met het oogmerk dat die gegevens slechts door bepaalde personen te ontsleutelen zijn;
 
-- e. **dienstenaanbieder:** de natuurlijke of rechtspersoon die diensten aanbiedt strekkende tot het faciliteren van informatie langs elektronische weg;
+- e. *dienstenaanbieder:* de natuurlijke of rechtspersoon die diensten aanbiedt strekkende tot het faciliteren van informatie langs elektronische weg;
 
-- f. **informatie:** alle vormen van data, tekst, beeld, geluid, codes, computerprogramma’s, software en databestanden;
+- f. *informatie:* alle vormen van data, tekst, beeld, geluid, codes, computerprogramma’s, software en databestanden;
 
-- g. **langs elektronische weg:** het overbrengen of opslaan van gegevens, die daartoe worden omgezet in reeksen elektronische, radio-elektrische, elektromagnetische of optische signalen;
+- g. *langs elektronische weg:* het overbrengen of opslaan van gegevens, die daartoe worden omgezet in reeksen elektronische, radio-elektrische, elektromagnetische of optische signalen;
 
-- h. **minister:** de Minister van Justitie;
+- h. *minister:* de Minister van Justitie;
 
-- i. **persoonsgegevens:** gegevens betreffende een bepaalde natuurlijke of rechtspersoon, daaronder zowel begrepen informatie die de identiteit bepaalt, met inbegrip van adresgegevens, telefoonnummer, faxnummer en elektronisch postadres, alsook bijzonderheden met betrekking tot die persoon zoals koopgedrag en preferenties.
+- i. *persoonsgegevens:* gegevens betreffende een bepaalde natuurlijke of rechtspersoon, daaronder zowel begrepen informatie die de identiteit bepaalt, met inbegrip van adresgegevens, telefoonnummer, faxnummer en elektronisch postadres, alsook bijzonderheden met betrekking tot die persoon zoals koopgedrag en preferenties.
 
-- j. **elektronische handtekening:** elektronische gegevens die zijn vastgehecht aan of logisch geassocieerd zijn met andere elektronische gegevens en die worden gebruikt als middel voor authentificatie.
+- j. *elektronische handtekening:* elektronische gegevens die zijn vastgehecht aan of logisch geassocieerd zijn met andere elektronische gegevens en die worden gebruikt als middel voor authentificatie.
 
 ### Hoofdstuk 2. Commerciële communicatie
 
@@ -81,9 +59,9 @@ Bij algemene maatregel van bestuur kunnen:
 
 - c. soorten overeenkomsten worden aangewezen die:
 
-- 1°. niet langs elektronische weg of niet met behulp van een of meer met name genoemde elektronische technieken mogen worden gesloten, dan wel
+   - 1° niet langs elektronische weg of niet met behulp van een of meer met name genoemde elektronische technieken mogen worden gesloten, dan wel
 
-- 2°. ook langs niet-elektronische weg toegankelijk moeten blijven;
+   - 2° ook langs niet-elektronische weg toegankelijk moeten blijven;
 
 - d. in het kader van commerciële communicatie verplichte mededelingen worden voorgeschreven;
 
@@ -153,15 +131,15 @@ Bij algemene maatregel van bestuur kunnen:
 
 1. Een dienstenaanbieder is niet aansprakelijk voor de inhoud van commerciële communicatie of andere informatie die door zijn tussenkomst langs elektronische weg wordt verzonden of opgeslagen, op voorwaarde dat hij:
 
-- 1°. niet degene is van wie de informatie stamt;
+- 1° niet degene is van wie de informatie stamt;
 
-- 2°. de ontvanger van de informatie niet heeft geselecteerd;
+- 2° de ontvanger van de informatie niet heeft geselecteerd;
 
-- 3°. de doorgegeven informatie niet heeft geselecteerd noch gewijzigd;
+- 3° de doorgegeven informatie niet heeft geselecteerd noch gewijzigd;
 
-- 4°. niet daadwerkelijk kennis ervan heeft dat de informatie onwettig is of onwettige activiteiten betreft, en
+- 4° niet daadwerkelijk kennis ervan heeft dat de informatie onwettig is of onwettige activiteiten betreft, en
 
-- 5°. geen verbod overtreedt door zijn diensten aan te bieden.
+- 5° geen verbod overtreedt door zijn diensten aan te bieden.
 
 2. Een dienstenaanbieder is gehouden om informatie te verwijderen of de toegang daartoe onmogelijk te maken, zodra hem door of namens de Minister de verwijdering van de informatie is gelast of de toegang daartoe is verboden, alsmede wanneer het hem duidelijk moet zijn dat deze informatie onwettig is of onwettige activiteiten betreft
 

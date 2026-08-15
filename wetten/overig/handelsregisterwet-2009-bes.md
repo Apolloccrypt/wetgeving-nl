@@ -1,61 +1,39 @@
 ---
 title: "Handelsregisterwet 2009 BES"
 identifier: "BWBR0028503"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2022-03-02"
-last_updated: "2022-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028503"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10828443"
-version_id: "17807042"
-internal_id: "C24853081"
-label_id: "10803324"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028503/2022-03-02/0"
-intitule_bron: "Stb.2010-437"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-437"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-437"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028503&z=2022-03-02&g=2022-03-02"
-jci_1_0: "1.0:c:BWBR0028503&g=2022-03-02"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-03-02
+status: geldig
+toestand: 2022-03-02
+bron: "https://wetten.overheid.nl/BWBR0028503"
+opgehaald: 2026-08-15
 ---
+
 # Handelsregisterwet 2009 BES
 
-## Definities
+### Definities
 
 ##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **Kamer:** kamer van koophandel en nijverheid als bedoeld in de [Wet op de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028238);
+- a. *Kamer:* kamer van koophandel en nijverheid als bedoeld in de [Wet op de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028238);
 
-- b. **Secretaris:** de secretaris van de betreffende kamer van koophandel en nijverheid;
+- b. *Secretaris:* de secretaris van de betreffende kamer van koophandel en nijverheid;
 
-- c. **eigen vermogen:** het op het ogenblik van aangifte volgens de balans van het laatste boekjaar aanwezige, eventueel volgens de balans van het lopende boekjaar werkelijk aanwezige, eigen vermogen van de onderneming, rechtspersoon of nevenvestiging;
+- c. *eigen vermogen:* het op het ogenblik van aangifte volgens de balans van het laatste boekjaar aanwezige, eventueel volgens de balans van het lopende boekjaar werkelijk aanwezige, eigen vermogen van de onderneming, rechtspersoon of nevenvestiging;
 
-- d. **hoofdvestiging:** het door een onderneming als zodanig aangemerkte onderdeel van de onderneming;
+- d. *hoofdvestiging:* het door een onderneming als zodanig aangemerkte onderdeel van de onderneming;
 
-- e. **nevenvestiging:** een ondernemingsonderdeel, niet zijnde de hoofdvestiging, dat geheel of ten dele elders is ondergebracht in een gebouw of complex van gebouwen, waar duurzaam activiteiten van de onderneming plaatsvinden;
+- e. *nevenvestiging:* een ondernemingsonderdeel, niet zijnde de hoofdvestiging, dat geheel of ten dele elders is ondergebracht in een gebouw of complex van gebouwen, waar duurzaam activiteiten van de onderneming plaatsvinden;
 
-- f. **hoofdnederzetting:** de in het openbaar lichaam gelegen nevenvestiging van een buiten het openbaar lichaam gevestigde onderneming of, indien er meer nevenvestigingen zijn, de door de onderneming als hoofdnederzetting aangemerkte nevenvestiging;
+- f. *hoofdnederzetting:* de in het openbaar lichaam gelegen nevenvestiging van een buiten het openbaar lichaam gevestigde onderneming of, indien er meer nevenvestigingen zijn, de door de onderneming als hoofdnederzetting aangemerkte nevenvestiging;
 
-- g. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba.
+- g. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-## Handelsregister
+### Handelsregister
 
 ##### Artikel 2
 
@@ -83,7 +61,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Verenigingen zonder volledige rechtsbevoegdheid kunnen in het handelsregister worden ingeschreven.
 
-## De inschrijving in het handelsregister
+### De inschrijving in het handelsregister
 
 ##### Artikel 5
 
@@ -135,7 +113,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. [Artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-03-02&g=2022-03-02), is op de inschrijving, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
-## Openbaarheid en externe werking handelsregisterinzage, afschrift of uittreksel
+### Openbaarheid en externe werking handelsregisterinzage, afschrift of uittreksel
 
 ##### Artikel 11
 
@@ -143,7 +121,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. De Kamer verstrekt op verzoek tegen betaling van een vergoeding afschrift van of uittreksel uit hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift aldaar is gedeponeerd.
 
-## Derdenbescherming
+### Derdenbescherming
 
 ##### Artikel 12
 
@@ -151,7 +129,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 2. Degene aan wie de onderneming toebehoort, de ingeschreven rechtspersoon of degene die enig feit heeft opgegeven of verplicht is enig feit op te geven, kan aan derden die daarvan onkundig waren niet de onjuistheid of onvolledigheid van de inschrijving dan wel de deponering tegenwerpen.
 
-## Persoonlijke levenssfeer
+### Persoonlijke levenssfeer
 
 ##### Artikel 13
 
@@ -173,7 +151,7 @@ Ter bescherming van de persoonlijke levenssfeer van de personen die in het hande
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
@@ -185,7 +163,7 @@ Voor het verstrekken van een afschrift van of een uittreksel uit hetgeen in het 
 
 ##### Artikel 17a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
@@ -203,17 +181,17 @@ Degene die verplicht is tot het doen van opgaven voor de inschrijving van een on
 
 Alles wat betreft de inrichting van en het toezicht op het handelsregister, de opgaven voor de inschrijving, de inschrijving zelf, de doorhaling, de aanvulling en de wijziging van het ingeschrevene, het ter inzage leggen en het geven van afschriften van en uittreksels uit hetgeen ingeschreven is en hetgeen verder nog ter uitvoering van deze wet nodig is, wordt, voorzover daarin niet bij deze wet is voorzien, bij of krachtens algemene maatregel van bestuur, geregeld.
 
-## Strafbepalingen
+### Strafbepalingen
 
 ##### Artikel 21
 
-1. Hij die opzettelijk een onjuiste of onvolledige opgave doet, bestemd voor inschrijving in het handelsregister, wordt gestraft met geldboete van ten hoogste USD 28.000.
+1. Hij die opzettelijk een onjuiste of onvolledige opgave doet, bestemd voor inschrijving in het handelsregister, wordt gestraft met geldboete van ten hoogste USD 28.000.
 
-2. Hij die wettelijk gehouden is een opgave te doen voor inschrijving in het handelsregister, wordt, indien het aan zijn schuld te wijten is dat die opgaaf gedaan door hemzelf of door een ander onjuist of onvolledig is, gestraft met geldboete van ten hoogste USD 11.200.
+2. Hij die wettelijk gehouden is een opgave te doen voor inschrijving in het handelsregister, wordt, indien het aan zijn schuld te wijten is dat die opgaaf gedaan door hemzelf of door een ander onjuist of onvolledig is, gestraft met geldboete van ten hoogste USD 11.200.
 
-3. Hij die niet voldoet aan zijn wettelijke verplichtingen tot het doen van opgave voor inschrijving in het handelsregister, wordt gestraft met geldboete van ten hoogste USD 28.000.
+3. Hij die niet voldoet aan zijn wettelijke verplichtingen tot het doen van opgave voor inschrijving in het handelsregister, wordt gestraft met geldboete van ten hoogste USD 28.000.
 
-4. Hij die niet voldoet aan zijn wettelijke verplichting tot het op alle van de onderneming, rechtspersoon of nevenvestiging uitgaande brieven, orders, facturen en offertes vermelden van het nummer onder welk de onderneming, rechtspersoon of nevenvestiging in het handelsregister is ingeschreven, wordt gestraft met geldboete van ten hoogste USD 28.000.
+4. Hij die niet voldoet aan zijn wettelijke verplichting tot het op alle van de onderneming, rechtspersoon of nevenvestiging uitgaande brieven, orders, facturen en offertes vermelden van het nummer onder welk de onderneming, rechtspersoon of nevenvestiging in het handelsregister is ingeschreven, wordt gestraft met geldboete van ten hoogste USD 28.000.
 
 5. De feiten, strafbaar gesteld in het eerste, derde en vierde lid, zijn misdrijven. Het feit strafbaar gesteld in het tweede lid, is een overtreding.
 
@@ -221,11 +199,11 @@ Alles wat betreft de inrichting van en het toezicht op het handelsregister, de o
 
 [vervallen]
 
-## Overgangs- en slotbepalingen
+### Overgangs- en slotbepalingen
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 

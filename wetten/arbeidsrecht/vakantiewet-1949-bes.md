@@ -1,75 +1,53 @@
 ---
 title: "Vakantiewet 1949 BES"
 identifier: "BWBR0028173"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028173"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10688033"
-version_id: "17649262"
-internal_id: "C24833081"
-label_id: "10662874"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028173/2026-01-01/0"
-intitule_bron: "Stb.2010-593"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-593"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-593"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028173&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028173&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028173"
+opgehaald: 2026-08-15
 ---
+
 # Vakantiewet 1949 BES
 
-## I. Definities
+### I. Definities
 
 ##### Artikel 1
 
 In deze wet en de naar aanleiding daarvan uitgevaardigde besluiten wordt verstaan:
 
-onder **werkgever:** ieder natuurlijk of rechtspersoon, die één of meer arbeiders in dienst heeft.
+onder *werkgever:* ieder natuurlijk of rechtspersoon, die één of meer arbeiders in dienst heeft.
 
 Voor de toepassing van deze wet wordt voor zoveel betreft de werkgever, die arbeid in één of meer van de openbare lichamen Bonaire, Sint Eustatius of Saba doet verrichten doch daarbuiten woont of gevestigd is, diens vertegenwoordiger of agent in één of meer van deze openbare lichamen, binnen welke de arbeid wordt verricht, als zodanig aangemerkt.
 
 De bestuurscolleges van de openbare lichamen Bonaire, Sint Eustatius en Saba worden niet als werkgever in de zin van dit artikel beschouwd ten aanzien van die arbeiders, die zij anders dan op burgerrechtelijke overeenkomst in hun dienst hebben.
 
-onder **arbeider:** ieder, die in dienstverhouding tegen loon arbeid verricht. Voor de toepassing van deze wet worden niet als arbeiders beschouwd personen, die krachtens de bepalingen van het [Tweede Boek van het Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede) recht hebben op vakantie, thuiswerkers en inwonende kinderen van een werkgever, die uitsluitend voor zijn rekening arbeid verrichten.
+onder *arbeider:* ieder, die in dienstverhouding tegen loon arbeid verricht. Voor de toepassing van deze wet worden niet als arbeiders beschouwd personen, die krachtens de bepalingen van het [Tweede Boek van het Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&boek=Tweede) recht hebben op vakantie, thuiswerkers en inwonende kinderen van een werkgever, die uitsluitend voor zijn rekening arbeid verrichten.
 
-onder **loon:** elke uitkering in welke vorm ook, welke de arbeider als vergoeding voor zijn arbeid gedurende de voor hem geldende arbeidstijd van zijn werkgever ontvangt, uitgezonderd overwerkgelden, premiegelden en vergoedingen voor het tijdelijk verrichten van andere dan zijn gewone arbeid; voor de berekening van het loon worden medegerekend ontvangsten van derden, welke van invloed zijn op de voorwaarden der arbeidsovereenkomst.
+onder *loon:* elke uitkering in welke vorm ook, welke de arbeider als vergoeding voor zijn arbeid gedurende de voor hem geldende arbeidstijd van zijn werkgever ontvangt, uitgezonderd overwerkgelden, premiegelden en vergoedingen voor het tijdelijk verrichten van andere dan zijn gewone arbeid; voor de berekening van het loon worden medegerekend ontvangsten van derden, welke van invloed zijn op de voorwaarden der arbeidsovereenkomst.
 
 Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 - a. voor de arbeider voor wie een zesdaagse werkweek geldt:
 
-- 1. door het tussen werkgever en arbeider overeengekomen loon per uur te vermenigvuldigen met het gemiddelde aantal werkuren per week van de betrokken arbeider en het verkregen product te delen door 6;
+   - 1. door het tussen werkgever en arbeider overeengekomen loon per uur te vermenigvuldigen met het gemiddelde aantal werkuren per week van de betrokken arbeider en het verkregen product te delen door 6;
 
-- 2. door het weekloon te delen door 6;
+   - 2. door het weekloon te delen door 6;
 
-- 3. door het maandloon te vermenigvuldigen met drie en het verkregen product te delen door 78;
+   - 3. door het maandloon te vermenigvuldigen met drie en het verkregen product te delen door 78;
 
 - b. voor de arbeider voor wie een vijfdaagse werkweek geldt:
 
-- 1. door het tussen werkgever en arbeider overeengekomen loon per uur te vermenigvuldigen met het gemiddelde aantal werkuren per week van de betrokken arbeider en het verkregen product te delen door 5;
+   - 1. door het tussen werkgever en arbeider overeengekomen loon per uur te vermenigvuldigen met het gemiddelde aantal werkuren per week van de betrokken arbeider en het verkregen product te delen door 5;
 
-- 2. door het weekloon te delen door 5;
+   - 2. door het weekloon te delen door 5;
 
-- 3. door het maandloon te vermenigvuldigen met drie en het verkregen product te delen door 65.
+   - 3. door het maandloon te vermenigvuldigen met drie en het verkregen product te delen door 65.
 
-## II. Van de vakantie
+### II. Van de vakantie
 
 ##### Artikel 2
 
@@ -103,7 +81,7 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 De vergoeding van één of meer vakantiedagen mag niet in de vorm van een opslag op het loon worden uitgekeerd.
 
-## III. Van uitstel en intrekking der vakantie
+### III. Van uitstel en intrekking der vakantie
 
 ##### Artikel 5
 
@@ -125,7 +103,7 @@ De werkgever kan een vakantie, waarvan het tijdstip van ingang reeds overeenkoms
 
 De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, welke de arbeider als onmiddellijk gevolg van uitstel der vakantie krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2026-01-01&g=2026-01-01) dan wel intrekking daarvan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) mocht lijden, tenzij het uitstel of de intrekking op verzoek van de arbeider is geschied.
 
-## IV. Van samenvoeging van en vergoeding voor niet genoten vakantie
+### IV. Van samenvoeging van en vergoeding voor niet genoten vakantie
 
 ##### Artikel 9
 
@@ -141,7 +119,7 @@ De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, 
 
 2. Voor de toepassing van het bepaalde in het voorgaande lid en in afwijking van het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2026-01-01&g=2026-01-01), wordt onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=3&z=2026-01-01&g=2026-01-01) geacht mede aanspraak te bestaan op een evenredig aantal vakantiedagen over de periode gedurende welke de arbeider bij dezelfde werkgever onafgebroken in dienst is geweest en waarover hij geen vakantie heeft genoten. Bij de berekening van het aantal vakantiedagen wordt een gedeelte van een dag gerekend als een gehele dag.
 
-## V. Algemene bepalingen
+### V. Algemene bepalingen
 
 ##### Artikel 11
 
@@ -169,7 +147,7 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 2. Als niet overeengekomen wordt beschouwd iedere voorwaarde, welke erop gericht is de aanspraak op vakantie geheel of gedeeltelijk afhankelijk te doen zijn van de verlenging of wijziging der arbeidsovereenkomst dan wel van het aangaan van een andere arbeidsovereenkomst.
 
-## VA. Toezicht
+### VA. Toezicht
 
 ##### Artikel 16a
 
@@ -189,7 +167,7 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd
 
-## VI. Strafbepalingen
+### VI. Strafbepalingen
 
 ##### Artikel 17
 
@@ -201,7 +179,7 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 [vervallen]
 
-## VII. Slotbepalingen
+### VII. Slotbepalingen
 
 ##### Artikel 19
 

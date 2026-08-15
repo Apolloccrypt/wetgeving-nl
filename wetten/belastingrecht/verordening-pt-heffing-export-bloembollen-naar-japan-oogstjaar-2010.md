@@ -1,69 +1,20 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2010 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2010)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2010"
 identifier: "BWBR0028002"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-06-03"
-last_updated: "2012-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028002"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "10629943"
-version_id: "17562762"
-internal_id: "C24305431"
-label_id: "10604834"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028002/2012-06-03/0"
-intitule_bron: "Vbbo.2010-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-30"
-intitule_published: "2010-06-18"
-intitule_in_force: "2010-06-18"
-intitule_status: "goed"
-original_publication: "Vbbo.2010-32"
-original_signed_date: "2010-03-30"
-original_published_date: "2010-06-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2010-06-20"
-jci_1_3: "jci1.3:c:BWBR0028002&z=2012-06-03&g=2012-06-03"
-jci_1_0: "1.0:c:BWBR0028002&g=2012-06-03"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2010"
-signed_date: "2010-03-30"
-entry_into_force: "2010-06-20"
+publicatiedatum: 2010-06-20
+laatste_update: 2012-06-03
+status: geldig
+toestand: 2012-06-03
+bron: "https://wetten.overheid.nl/BWBR0028002"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2010 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2010)
 
 #### § 1. Begripsbepalingen
-
-#### § 1. Begripsbepalingen
-
-#### § 3. Grondslag en hoogte
-
-##### Artikel 4
-
-1. De heffing die is verschuldigd wordt opgelegd naar de grondslag hoeveelheid product ten behoeve van de export naar Japan.
-
-2. De heffing als bedoeld in het eerste lid, bedraagt voor:
-
-| a. | amaryllis, hyacint, lelie, narcis en tulp: | € 0,34 per 1000 stuks leverbaar; |
-| --- | --- | --- |
-| b. | gladiool en overige bloembollen: | € 0,08 per 1000 stuks leverbaar; |
-| c. | plantgoed van iris, lelie en tulp: | € 6,81 per 1000 kg; en |
-| d. | narcis-tonnegoed: | € 3,40 per 1000 kg. |
-
-#### § 4. Oplegging en inning
-
-#### § 5. Slotbepalingen
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, 16 maart 2010;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -94,6 +45,18 @@ Besluit:
 2. De opgave als bedoeld in het vorige lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
 #### § 3. Grondslag en hoogte
+
+##### Artikel 4
+
+1. De heffing die is verschuldigd wordt opgelegd naar de grondslag hoeveelheid product ten behoeve van de export naar Japan.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt voor:
+
+| a. | amaryllis, hyacint, lelie, narcis en tulp: | € 0,34 per 1000 stuks leverbaar; |
+| --- | --- | --- |
+| b. | gladiool en overige bloembollen: | € 0,08 per 1000 stuks leverbaar; |
+| c. | plantgoed van iris, lelie en tulp: | € 6,81 per 1000 kg; en |
+| d. | narcis-tonnegoed: | € 3,40 per 1000 kg. |
 
 #### § 4. Oplegging en inning
 

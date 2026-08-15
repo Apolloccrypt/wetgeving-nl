@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 april 2010, DBV/IenA/I 2995849, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Regeringscommissaris voor het Radiowezen, vanaf 1969 voor de Omroep, over de periode (1926–) 1947–1987 (–1989)"
+citeertitel: "Regeling beperking openbaarheid archiefbescheiden (archief Regeringscommissaris voor het Radiowezen, vanaf 1969 voor de Omroep (1926–) 1947–1987 (–1989))"
 identifier: "BWBR0027649"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-05-20"
-last_updated: "2010-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027649"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10524243"
-version_id: "17344902"
-internal_id: "C23936121"
-label_id: "10499154"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027649/2010-05-20/0"
-intitule_bron: "Stcrt.2010-7552"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-29"
-intitule_published: "2010-05-19"
-intitule_in_force: "2010-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-7552"
-original_signed_date: "2010-04-29"
-original_published_date: "2010-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-7552"
-entry_into_force_date: "2010-05-20"
-jci_1_3: "jci1.3:c:BWBR0027649&z=2010-05-20&g=2010-05-20"
-jci_1_0: "1.0:c:BWBR0027649&g=2010-05-20"
-citeertitel_status: "redactioneel"
-short_title: "Regeling beperking openbaarheid archiefbescheiden (archief Regeringscommissaris voor het Radiowezen, vanaf 1969 voor de Omroep (1926–) 1947–1987 (–1989))"
-signed_date: "2010-04-29"
-entry_into_force: "2010-05-20"
+publicatiedatum: 2010-05-20
+laatste_update: 2010-05-20
+status: geldig
+toestand: 2010-05-20
+bron: "https://wetten.overheid.nl/BWBR0027649"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 april 2010, DBV/IenA/I 2995849, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Regeringscommissaris voor het Radiowezen, vanaf 1969 voor de Omroep, over de periode (1926–) 1947–1987 (–1989)
-
-Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,7 +24,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer en het anderszins 
 
 ##### Artikel 2
 
-Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027649&artikel=1&z=2010-05-20&g=2010-05-20) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd.
+Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027649&artikel=1&z=2010-05-20&g=2010-05-20) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/BWBR0027649) bij dit besluit gevoegd.
 
 ##### Artikel 3
 
@@ -59,7 +33,3 @@ Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit do
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage
-
-Deze regeling zal in de Staatscourant worden geplaatst.

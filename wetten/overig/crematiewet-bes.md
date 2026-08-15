@@ -1,38 +1,16 @@
 ---
 title: "Crematiewet BES"
 identifier: "BWBR0028203"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-04"
-last_updated: "2011-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028203"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10694473"
-version_id: "17657242"
-internal_id: "C24786061"
-label_id: "10669414"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028203/2011-10-04/0"
-intitule_bron: "Stb.2010-401"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-401"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-401"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028203&z=2011-10-04&g=2011-10-04"
-jci_1_0: "1.0:c:BWBR0028203&g=2011-10-04"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-04
+status: geldig
+toestand: 2011-10-04
+bron: "https://wetten.overheid.nl/BWBR0028203"
+opgehaald: 2026-08-15
 ---
+
 # Crematiewet BES
 
 ### Hoofdstuk I. Algemene bepalingen

@@ -1,49 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010 tot regeling van de instelling, taken en bevoegdheden van de Raad voor de rechtshandhaving van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Raad voor de rechtshandhaving)"
+citeertitel: "Rijkswet Raad voor de rechtshandhaving"
 identifier: "BWBR0028075"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028075"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10646813"
-version_id: "17589392"
-internal_id: "C24668251"
-label_id: "10622144"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028075/2010-10-10/0"
-intitule_bron: "Stb.2010-338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-338"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32020"
-original_url_id: "stb-2010-338"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028075&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028075&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet Raad voor de rechtshandhaving"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028075"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010 tot regeling van de instelling, taken en bevoegdheden van de Raad voor de rechtshandhaving van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Raad voor de rechtshandhaving)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten binnen het Koninkrijk willen samenwerken door instelling van een orgaan dat is belast met de inspectie van diensten en instellingen die deel uitmaken van de justitiële keten in Curaçao, in Sint Maarten en op Bonaire, Sint Eustatius en Saba, dat zij deze samenwerking onderling willen regelen in een rijkswet op grond van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten instemmen met de inhoud van deze regeling;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -51,25 +20,25 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 1. In deze rijkswet wordt verstaan onder:
 
-- a. **bestuursorgaan:**
+- a. *bestuursorgaan:*
 
-- –. een orgaan van een rechtspersoon in de landen die krachtens publiekrecht is ingesteld of
+   - – een orgaan van een rechtspersoon in de landen die krachtens publiekrecht is ingesteld of
 
-- –. een ander persoon of college met enig openbaar gezag bekleed in de landen;
+   - – een ander persoon of college met enig openbaar gezag bekleed in de landen;
 
-- b. **landen:** Curaçao, Sint Maarten of Nederland, voor zover het betreft Bonaire, Sint Eustatius en Saba;
+- b. *landen:* Curaçao, Sint Maarten of Nederland, voor zover het betreft Bonaire, Sint Eustatius en Saba;
 
-- c. **Gemeenschappelijk Hof van Justitie:** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- c. *Gemeenschappelijk Hof van Justitie:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- d. **Raad:** Raad voor de rechtshandhaving bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10);
+- d. *Raad:* Raad voor de rechtshandhaving bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10);
 
-- e. **Onze Minister:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Nederland wie het aangaat als bedoeld in het tweede tot en met vijfde lid;
+- e. *Onze Minister:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Nederland wie het aangaat als bedoeld in het tweede tot en met vijfde lid;
 
-- f. **Onze betrokken Minister:** Onze Minister van het land dat bij een inspectierapport of advies is betrokken;
+- f. *Onze betrokken Minister:* Onze Minister van het land dat bij een inspectierapport of advies is betrokken;
 
-- g. **Onze Ministers:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Nederland wie het aangaat als bedoeld in het tweede tot en met vijfde lid gezamenlijk;
+- g. *Onze Ministers:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Nederland wie het aangaat als bedoeld in het tweede tot en met vijfde lid gezamenlijk;
 
-- h. **vertegenwoordigend orgaan:** de Staten van Curaçao, de Staten van Sint Maarten of de Tweede Kamer der Staten-Generaal.
+- h. *vertegenwoordigend orgaan:* de Staten van Curaçao, de Staten van Sint Maarten of de Tweede Kamer der Staten-Generaal.
 
 2. Voor zover de inspectie door de Raad betrekking heeft op de politie of de opleiding van de politie en geheel of ten dele wordt uitgevoerd ten behoeve van Nederland, voor zover het betreft Bonaire, Sint Eustatius en Saba is Onze Minister van Nederland wie het aangaat: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie van Nederland.
 
@@ -139,7 +108,7 @@ De leden van de Raad worden benoemd, geschorst en ontslagen bij koninklijk beslu
 
 1. Onze Minister van één van de landen, doet een voorstel voor benoeming van één van de leden in overeenstemming met Onze Minister van beide andere landen.
 
-2. Alvorens hun ambt te aanvaarden leggen de leden in handen van de president van het Gemeenschappelijk Hof van Justitie de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
+2. Alvorens hun ambt te aanvaarden leggen de leden in handen van de president van het Gemeenschappelijk Hof van Justitie de eed of belofte af volgens het formulier zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0028075) bij deze rijkswet.
 
 ##### Artikel 8
 
@@ -241,13 +210,13 @@ Bij of krachtens algemene maatregel van rijksbestuur wordt de rechtspositie van 
 
 - a. als advocaat, gemachtigde of adviseur werkzaam zijn in geschillen voor:
 
-- 1°. een wederpartij van de Raad,
+   - 1°. een wederpartij van de Raad,
 
-- 2°. een partij die door de Raad wordt geadviseerd,
+   - 2°. een partij die door de Raad wordt geadviseerd,
 
-- 3°. een dienst of instelling die de Raad inspecteert, of
+   - 3°. een dienst of instelling die de Raad inspecteert, of
 
-- 4°. de Raad,
+   - 4°. de Raad,
 
 - b. rechtstreeks of middellijk een overeenkomst aangaan met de Raad met uitzondering van overeenkomsten die rechtstreeks samenhangen met de aanstelling als lid van de Raad of van het secretariaat,
 
@@ -488,29 +457,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 45
 
 Deze rijkswet wordt aangehaald als: Rijkswet Raad voor de rechtshandhaving.
-
-## Bijlage. bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=3&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10)
-
-**Formulier voor het afleggen van de eed of belofte door leden van de Raad**
-
-Ik zweer/ik beloof trouw aan de Koning en gehoorzaamheid aan de wettelijke regelingen
-
-Ik zweer/ik verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand, wie hij ook zij, iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/ik beloof dat ik nimmer enige giften of geschenken, hoe ook genaamd, zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij bij enige inspectie is of zal worden betrokken, waarin mijn ambtsverrichtingen te pas zouden kunnen komen.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-Op .., werd te ..
-
-Ten overstaan van ..
-
-De bovenstaande eed/belofte afgelegd.
-
-De ..
-
-- 1. ...
-
-- 2. ...
-
-Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

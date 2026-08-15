@@ -1,38 +1,16 @@
 ---
 title: "Besluit proceskosten bestuursrecht BES"
 identifier: "BWBR0028477"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028477"
+categorie: "Bestuursrecht"
 soort: "AMvB-BES"
-stam_id: "10801963"
-version_id: "17780032"
-internal_id: "C24825821"
-label_id: "10776574"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028477/2010-10-10/0"
-intitule_bron: "Stb.2010-552"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-552"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-552"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028477&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028477&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028477"
+opgehaald: 2026-08-15
 ---
+
 # Besluit proceskosten bestuursrecht BES
 
 ##### Artikel 1
@@ -57,7 +35,7 @@ Dit besluit berust op [artikel 50, negende lid](https://wetten.overheid.nl/jci1.
 
 1. Het bedrag van de kosten wordt in de uitspraak als volgt vastgesteld:
 
-- a. ten aanzien van de kosten, bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=1&z=2010-10-10&g=2010-10-10): overeenkomstig het in de bijlage opgenomen tarief;
+- a. ten aanzien van de kosten, bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=1&z=2010-10-10&g=2010-10-10): overeenkomstig het in de [bijlage](https://wetten.overheid.nl/BWBR0028477) opgenomen tarief;
 
 - b. ten aanzien van de kosten, bedoeld in [artikel 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=1&z=2010-10-10&g=2010-10-10): de vergoeding die ingevolge artikel 40, eerste lid, van de Wet administratieve rechtspraak BES is verschuldigd;
 
@@ -79,7 +57,7 @@ Dit besluit berust op [artikel 50, negende lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 4
 
-De in dit besluit en in de bijlage, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=2&z=2010-10-10&g=2010-10-10), genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer voor gezinsconsumptie daartoe aanleiding geeft.
+De in dit besluit en in de [bijlage](https://wetten.overheid.nl/BWBR0028477), bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=2&z=2010-10-10&g=2010-10-10), genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd voor zover het prijsindexcijfer voor gezinsconsumptie daartoe aanleiding geeft.
 
 ##### Artikel 5
 
@@ -88,17 +66,3 @@ Dit besluit wordt aangehaald als: Besluit proceskosten bestuursrecht BES.
 ##### Artikel 6
 
 [vervallen]
-
-## Bijlage. behorende bij het Besluit proceskosten bestuursrecht BES.
-
-### Berekening van het tarief, bedoeld in [artikel 2, lid 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=2&z=2010-10-10&g=2010-10-10), van het Besluit proceskosten bestuursrecht BES
-
-Het bedrag van de kosten, bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028477&artikel=1&z=2010-10-10&g=2010-10-10), van het Besluit proceskosten bestuursrecht BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactor (C).
-
-### A. Punten per proceshandeling in het kader van procedures waarop de [Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=5) en [6 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6) van toepassing of van overeenkomstige toepassing zijn.
-
-### B. Waarde per punt.
-
-1 punt = USD 391.
-
-### C. Gewicht van een zaak.

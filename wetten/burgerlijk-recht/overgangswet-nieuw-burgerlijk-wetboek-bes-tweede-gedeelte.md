@@ -1,47 +1,25 @@
 ---
 title: "Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte"
 identifier: "BWBR0028301"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028301"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10746463"
-version_id: "17720142"
-internal_id: "C24753661"
-label_id: "10721424"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028301/2010-10-10/0"
-intitule_bron: "Stb.2010-509"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-509"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-509"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028301&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028301&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028301"
+opgehaald: 2026-08-15
 ---
+
 # Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte
 
-## Titel 1. Algemene Bepaling
+### Titel 1. Algemene Bepaling
 
 ##### Artikel 1
 
 De [artikelen 2 tot en met 15 van de Overgangswet nieuw Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&artikel=2), gelden mede ter regeling van het overgangsrecht ter gelegenheid van de invoering van de landsverordeningen bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=2&artikel=2&z=2010-10-10&g=2010-10-10), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=3&artikel=10&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=4&artikel=27&z=2010-10-10&g=2010-10-10) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=5&artikel=30&z=2010-10-10&g=2010-10-10).
 
-## Titel 2. Overgangsbepalingen ter zake van de invoering van de Landsverordening houdende aanpassing van het bestaande Burgerlijk Wetboek van de Nederlandse Antillen en een aantal andere landsverordeningen in verband met de invoering van het nieuwe Burgerlijk Wetboek
+### Titel 2. Overgangsbepalingen ter zake van de invoering van de Landsverordening houdende aanpassing van het bestaande Burgerlijk Wetboek van de Nederlandse Antillen en een aantal andere landsverordeningen in verband met de invoering van het nieuwe Burgerlijk Wetboek
 
 ##### Artikel 2
 
@@ -85,7 +63,7 @@ Artikel 44a, derde lid, van de Landsverordening op het Notarisambt vindt alleen 
 
 De artikelen 72 tot en met 74 van de Landsverordening bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=1&artikel=1&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing ter regeling van het overgangsrecht ter gelegenheid van de invoering van artikel 118a van de Landsverordening materieel ambtenarenrecht.
 
-## Titel 3. Overgangsbepalingen ter zake van de invoering van de Landsverordening, houdende vaststelling van een nieuw Wetboek van Burgerlijke Rechtsvordering
+### Titel 3. Overgangsbepalingen ter zake van de invoering van de Landsverordening, houdende vaststelling van een nieuw Wetboek van Burgerlijke Rechtsvordering
 
 ##### Artikel 10
 
@@ -185,7 +163,7 @@ De artikelen 856 tot en met 861 van de wet zijn niet van toepassing op een gerec
 
 3. Op zaken waarin vóór het in het eerste lid bedoelde tijdstip hoger beroep op de rechter is voorbehouden, blijven de [artikelen 524](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=524) en [525 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=525), zoals dat totdien gold, van toepassing, met dien verstande dat na afloop van vijf jaren na dat tijdstip het voorbehoud van hoger beroep vervalt.
 
-## Titel 4. Overgangsbepalingen ter zake van de invoering van de Landsverordening houdende aanpassing van het Faillissementsbesluit 1931 en enige andere eenvormige landsverordeningen in verband met de invoering van het nieuwe Burgerlijk Wetboek
+### Titel 4. Overgangsbepalingen ter zake van de invoering van de Landsverordening houdende aanpassing van het Faillissementsbesluit 1931 en enige andere eenvormige landsverordeningen in verband met de invoering van het nieuwe Burgerlijk Wetboek
 
 ##### Artikel 27
 
@@ -205,7 +183,7 @@ In deze titel wordt onder «de wet» verstaan de Landsverordening houdende aanpa
 
 3. Artikel 180, eerste en tweede lid, van het Faillissementsbesluit 1931 geldt voor de daar geregelde gevolgen van een levering, welke na het in werking treden der wet plaats vindt. Wordt een tot de boedel behorend schip na het in werking treden der wet verkocht, dan is artikel 180, derde lid, van het Faillissementsbesluit 1931 van toepassing.
 
-## Titel 5. Overgangsbepalingen in verband met de invoering van de Landsverordening openbare registers
+### Titel 5. Overgangsbepalingen in verband met de invoering van de Landsverordening openbare registers
 
 ##### Artikel 30
 
@@ -235,7 +213,7 @@ Een met toepassing van het tevoren geldende recht uitgesproken veroordeling die 
 
 Een in een ingeschreven stuk gekozen woonplaats hier te lande, welk stuk vóór het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028301&titeldeel=5&artikel=31&z=2010-10-10&g=2010-10-10) bedoelde tijdstip is ingeschreven, wordt gelijkgesteld met een gekozen woonplaats, bedoeld in artikel 47 van de wet, tenzij uit de wet of het ingeschreven stuk anders blijkt.
 
-## Titel 6. Slotbepaling
+### Titel 6. Slotbepaling
 
 ##### Artikel 35
 

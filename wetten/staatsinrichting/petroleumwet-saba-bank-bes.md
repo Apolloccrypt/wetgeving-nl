@@ -1,67 +1,45 @@
 ---
 title: "Petroleumwet Saba Bank BES"
 identifier: "BWBR0028163"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028163"
+categorie: "Financieel recht"
 soort: "wet-BES"
-stam_id: "10685353"
-version_id: "17646222"
-internal_id: "C25829291"
-label_id: "10660054"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028163/2019-01-01/0"
-intitule_bron: "Stb.2010-433"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-433"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-433"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028163&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028163&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028163"
+opgehaald: 2026-08-15
 ---
+
 # Petroleumwet Saba Bank BES
 
 ##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- **Saba Bank** het onder de Caraïbische Zee in de nabijheid van het eiland Saba gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk aangegeven is op de bij deze wet als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=I&z=2019-01-01&g=2019-01-01) gevoegde kaart en in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=II&z=2019-01-01&g=2019-01-01) bij deze wet nader is omschreven.
+- *Saba Bank* het onder de Caraïbische Zee in de nabijheid van het eiland Saba gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden mede overeenkomstig het op 10 december 1982 te Montego-Bay gesloten Verdrag inzake het recht van de zee (Trb. 1983, 83) soevereine rechten heeft en hetwelk aangegeven is op de bij deze wet als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=I&z=2019-01-01&g=2019-01-01) gevoegde kaart en in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&bijlage=II&z=2019-01-01&g=2019-01-01) bij deze wet nader is omschreven.
 
-- **Petroleum:** aardolie en aardgas.
+- *Petroleum:* aardolie en aardgas.
 
-- **Aardolie:** ruwe minerale olie, condensaat, asfalt, ozokeriet en alle soorten koolwaterstoffen, zwavel en bitumina, in vaste en in vloeibare vorm, in hun natuurlijke staat of verkregen uit aardgas door condensatie of extractie.
+- *Aardolie:* ruwe minerale olie, condensaat, asfalt, ozokeriet en alle soorten koolwaterstoffen, zwavel en bitumina, in vaste en in vloeibare vorm, in hun natuurlijke staat of verkregen uit aardgas door condensatie of extractie.
 
-- **Aardgas:** alle gasvormige koolwaterstoffen geproduceerd uit een put, inbegrepen nat aardgas, droog aardgas, puthoofdgas en residuëel gas, overblijvende na de extractie van vloeibare koolwaterstoffen uit nat gas, en gas niet bestaande uit koolwaterstoffen voorkomend in natuurlijke associatie met gasvormige of vloeibare koolwaterstoffen.
+- *Aardgas:* alle gasvormige koolwaterstoffen geproduceerd uit een put, inbegrepen nat aardgas, droog aardgas, puthoofdgas en residuëel gas, overblijvende na de extractie van vloeibare koolwaterstoffen uit nat gas, en gas niet bestaande uit koolwaterstoffen voorkomend in natuurlijke associatie met gasvormige of vloeibare koolwaterstoffen.
 
-- **Vat:** een hoeveelheid of eenheid olie gelijk aan tweeënveertig (42) Amerikaanse Gallon bij een temperatuur van 60 graden Fahrenheit (60°F).
+- *Vat:* een hoeveelheid of eenheid olie gelijk aan tweeënveertig (42) Amerikaanse Gallon bij een temperatuur van 60 graden Fahrenheit (60°F).
 
-- **Petroleuminstallatie:**
+- *Petroleuminstallatie:*
 
-- a). een in, op of boven de Saba Bank geplaatste inrichting voor het onderzoek naar en de winning van petroleum;
+   - a) een in, op of boven de Saba Bank geplaatste inrichting voor het onderzoek naar en de winning van petroleum;
 
-- b). een samenstel van inrichtingen waarvan er tenminste één aan de onder a) gegeven omschrijving voldoet.
+   - b) een samenstel van inrichtingen waarvan er tenminste één aan de onder a) gegeven omschrijving voldoet.
 
-- **Mijnraad:** de raad bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2019-01-01&g=2019-01-01).
+- *Mijnraad:* de raad bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2019-01-01&g=2019-01-01).
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat.
 
-- **Inspectie-ambtenaren:** de ambtenaren aangewezen krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2019-01-01&g=2019-01-01).
+- *Inspectie-ambtenaren:* de ambtenaren aangewezen krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2019-01-01&g=2019-01-01).
 
-- **Rijk:** Nederland en Bonaire, Sint Eustatius en Saba.
+- *Rijk:* Nederland en Bonaire, Sint Eustatius en Saba.
 
 2. Deze wet en de daarop berustende bepalingen zijn mede van toepassing op de Saba Bank en binnen de daarboven gelegen exclusieve economische zone.
 
@@ -89,31 +67,31 @@ entry_into_force: "2010-10-10"
 
 2. Bij algemene maatregel van bestuur, worden, de Mijnraad gehoord, nadere regelen gesteld met betrekking tot het onderzoek naar- en de winning van petroleum in, op of boven de Saba Bank. De in de vorige volzin bedoelde algemene maatregel van bestuur, dient in ieder geval bepalingen te bevatten:
 
-- a). ter bescherming van en controle op de ontwikkeling van de levende en niet-levende natuurlijke rijkdommen, waaronder petroleum.
+- a) ter bescherming van en controle op de ontwikkeling van de levende en niet-levende natuurlijke rijkdommen, waaronder petroleum.
 
-- b). ter voorkoming van verontreiniging van het milieu.
+- b) ter voorkoming van verontreiniging van het milieu.
 
-- c). ten behoeve van de scheepvaart, de luchtvaart, de visserij, het zuiver wetenschappelijk onderzoek, het leggen en onderhouden van onderzeese kabels en pijpleidingen.
+- c) ten behoeve van de scheepvaart, de luchtvaart, de visserij, het zuiver wetenschappelijk onderzoek, het leggen en onderhouden van onderzeese kabels en pijpleidingen.
 
-- d). omtrent de arbeid en in het belang van de gezondheid van de personen, die bij het onderzoek naar- en de winning van petroleum betrokken zijn.
+- d) omtrent de arbeid en in het belang van de gezondheid van de personen, die bij het onderzoek naar- en de winning van petroleum betrokken zijn.
 
-- e). in het belang van de veiligheid van personen en goederen.
+- e) in het belang van de veiligheid van personen en goederen.
 
-- f). ter bescherming van historische, oudheidkundige en andere wetenschappelijke vondsten.
+- f) ter bescherming van historische, oudheidkundige en andere wetenschappelijke vondsten.
 
-- g). omtrent het gebruik van electromagnetische golven.
+- g) omtrent het gebruik van electromagnetische golven.
 
-- h). ten behoeve van andere in het volkenrecht erkende belangen, waaronder verplichtingen voortvloeiende uit internationale overeenkomsten.
+- h) ten behoeve van andere in het volkenrecht erkende belangen, waaronder verplichtingen voortvloeiende uit internationale overeenkomsten.
 
 3. Bij de in het eerste en tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald, dat Onze Minister en de Ministers wie het mede aangaat daarbij omschreven bevoegdheden hebben ter uitvoering van daarbij aangewezen voorschriften.
 
 4. Bij de in het tweede lid bedoelde algemene maatregel van bestuur kan voorts aan Onze Minister de bevoegdheid worden toegekend, om in gevallen waarin ernstige aantasting van de in het tweede lid bedoelde belangen ontstaat of dreigt te ontstaan:
 
-- a). maatregelen voor te schrijven ten aanzien van het onderzoek naar- en de winning van petroleum;
+- a) maatregelen voor te schrijven ten aanzien van het onderzoek naar- en de winning van petroleum;
 
-- b). deze werkzaamheden te doen staken, zolang de voorgeschreven maatregelen niet zijn getroffen;
+- b) deze werkzaamheden te doen staken, zolang de voorgeschreven maatregelen niet zijn getroffen;
 
-- c). de voorgeschreven maatregelen op kosten van de nalatige te doen verrichten.
+- c) de voorgeschreven maatregelen op kosten van de nalatige te doen verrichten.
 
 ##### Artikel 6
 
@@ -224,29 +202,3 @@ Voor de toepassing van het bij of krachtens [hoofdstuk II van de Douane- en Acci
 ##### Artikel 16
 
 Deze wet kan worden aangehaald als «Petroleumwet Saba Bank BES».
-
-## Bijlage I
-
-Niet opgenomen.
-
-## Bijlage II. behorende bij de Petroleumwet Saba Bank BES
-
-### Plaatsbepaling op de Saba Bank
-
-Het gebied dat bekend staat als Saba Bank beslaat 43 blokken, waarvan elk blok een rechthoekig gebied omsluit van 0° 03' 45" (langs een parallel gemeten) bij 0° 07' 30" (langs een meridiaan gemeten), met uitsluiting van het eiland Saba.
-
-De blokken worden genummerd volgens het ruitensysteem, dat op bijgaande situatie-tekening is aangegeven.
-
-De richtingen (lijnen) 17° 30' 00" noorderbreedte en 63° 30' 00" westerlengte verdelen het gebied (63° 00' 00" W tot 64° 00' 00" W, 17° 00' 00" N tot 18° 00' 00" N) in kwadranten A, B, C en D.
-
-Elk kwadrant wordt verdeeld in 32 blokken van 0° 03' 45" bij 0° 07' 30".
-
-De blokken die het gebied van de Saba Bank bestrijken zijn:
-
-De bovenvermelde blokken worden begrensd door lijnstukken, die de navolgende punten (deze zijn gedefinieerd in het geografische stelsel) onderling verbinden.
-
-De begrenzing wordt als volgt geformeerd:
-
-Vanuit het beginpunt A in zuidelijke richting via een rechte lijn naar punt B, vandaar in oostelijke richting via een rechte lijn naar punt C, vandaar in zuidelijke richting via een rechte lijn naar punt D, vandaar in oostelijke richting via een rechte lijn naar punt E, vandaar in zuidelijke richting via een rechte lijn naar punt F, vandaar in westelijke richting via een rechte lijn naar punt G, vandaar in zuidelijke richting via een rechte lijn naar punt H, vandaar in westelijke richting via een rechte lijn naar punt I, vandaar in zuidelijke richting via een rechte lijn naar punt J, vandaar in westelijke richting via een rechte lijn naar punt K, vandaar in noordelijke richting via een rechte lijn naar punt L, vandaar in westelijke richting via een rechte lijn naar punt M, vandaar in noordelijke richting via een rechte lijn naar punt N, vandaar in oostelijke richting via een rechte lijn naar punt O, vandaar in noordelijke richting via een rechte lijn naar punt P, vandaar in oostelijke richting via een rechte lijn naar punt Q, vandaar in noordelijke richting via een rechte lijn naar punt R, vandaar in oostelijke richting via een rechte lijn naar het beginpunt A.
-
-De geografische coördinaten (°=graden, '=minuten, "=seconden) van de punten A t/m R zijn:

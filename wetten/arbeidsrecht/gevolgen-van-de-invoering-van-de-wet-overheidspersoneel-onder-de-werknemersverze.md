@@ -1,40 +1,17 @@
 ---
 title: "Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen"
 identifier: "BWBR0028049"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1998-05-20"
-last_updated: "1998-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028049"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "10638343"
-version_id: "17575632"
-internal_id: "C24352561"
-label_id: "10613194"
-dtd_version: "2.0"
-original_entry_into_force: "1998-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028049/1998-05-20/0"
-intitule_bron: "Infob.1998-459"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-20"
-intitule_published: "1998-01-01"
-intitule_in_force: "1998-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1998-459"
-original_signed_date: "1998-05-20"
-original_published_date: "1998-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1998-05-20"
-jci_1_3: "jci1.3:c:BWBR0028049&z=1998-05-20&g=1998-05-20"
-jci_1_0: "1.0:c:BWBR0028049&g=1998-05-20"
-citeertitel_status: "redactioneel"
-signed_date: "1998-05-20"
-entry_into_force: "1998-05-20"
+publicatiedatum: 1998-05-20
+laatste_update: 1998-05-20
+status: geldig
+toestand: 1998-05-20
+bron: "https://wetten.overheid.nl/BWBR0028049"
+opgehaald: 2026-08-15
 ---
-# Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen
 
-De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Gevolgen van de invoering van de Wet overheidspersoneel onder de werknemersverzekeringen voor de toepassing van de Belastingregeling voor het Koninkrijk en de belastingverdragen
 
 ### 1. Inleiding
 
@@ -46,11 +23,25 @@ Sedert 1 april 1993 is het personeel bij de overheid voor wat betreft het arbeid
 
 In de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) zijn de overheidswerknemers die deel uitmaken van de hiervoor genoemde acht sectoren in twee categorieën onderverdeeld:
 
+- 1. de (ex) overheidswerknemers uitgezonderd beroepsmilitairen, en
+
+- 2. de (ex) beroepsmilitairen.
+
 ### 2. Overheidswerknemers sector Rijk
 
 Tot de overheidswerknemers sector Rijk behoort het personeel van de ministeries (uitgezonderd Defensie, maar inclusief de Dienst Buitenlandse Zaken), het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken, de Hoge Colleges van Staat en het Kabinet der Koningin.
 
 Uit informatie verkregen van het Ministerie van Binnenlandse Zaken, Afdeling Arbeidsvoorwaarden en Sociaal Beleid, over vorenbedoelde overheidswerknemers is mij onder meer gebleken:
+
+- 1. dat de arbeidsongeschikte overheidswerknemer met een WAO-uitkering (wettelijk deel) aanspraak kan maken op de doorbetaling van (een deel van) zijn/haar salaris gedurende de eerste 24 maanden van zijn/haar ziekte, indien zijn/haar dienstverband nog niet is verbroken;
+
+- 2. dat de gewezen arbeidsongeschikte overheidswerknemer met een WAO-uitkering (wettelijk deel) aanspraak kan maken op een bovenwettelijk invaliditeitspensioen (IP). Het bovenwettelijk invaliditeitspensioen is een aanvulling van de WAO-uitkering tot 65% van het laatstgenoten salaris (bij volledige arbeidsongeschiktheid). Aanvulling tot 70% van het laatstgenoten salaris (bij volledige arbeidsongeschiktheid) vindt plaats indien de betrokken overheidswerknemer hiervoor gekozen heeft en in verband hiermede een hoger bijdrageverhaal (1998: 0,5%) heeft betaald;
+
+- 3. dat de gewezen arbeidsongeschikte overheidswerknemer met een WAO-uitkering (wettelijk deel) aanspraak kan maken op een bovenwettelijk invaliditeitspensioen (IP), eventueel vermeerderd met een herplaatsingstoeslag (HPT);
+
+- 4. dat de gewezen gedeeltelijk arbeidsongeschikte overheidswerknemer met een eventuele WAO-uitkering (wettelijk deel) aanspraak kan maken op een suppletieuitkering (SU) ingevolge de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk, indien hij/zij voor het arbeidsgeschikte onderdeel werkloos is;
+
+- 5. dat voor overheidswerknemers die in het genot waren van een WAO-conforme uitkering die uitkering met ingang van 1 januari 1998 is omgezet in een WAO-uitkering, welke niet zoals de WAO-conforme uitkering op het pensioenreglement Stichting Pensioenfonds ABP berust maar op de WAO.
 
 De WAO-uitkering berust op de WAO (werknemersverzekeringswet). De gehele of gedeeltelijke doorbetaling van het salaris, de herplaatsingstoeslag en de suppletieuitkering berusten op de ambtelijke rechtspositieregeling (zoals het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) (ARAR), het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) (BBRA) en de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0007758), terwijl de uitbetaling van het invaliditeitspensioen berust op het pensioenreglement Stichting Pensioenfonds ABP (ABP). Ik merk hierbij nog op dat met ingang van 1 januari 1996 het Algemeen burgerlijk pensioenfonds is geprivatiseerd en opgegaan in de Stichting Pensioenfonds ABP. Voorts is per die datum de Algemene burgerlijke pensioenwet (Abp-wet) ingetrokken en zijn de in die wet geregelde pensioenaanspraken van overheidswerknemers opgenomen in het pensioenreglement van het ABP.
 
@@ -63,6 +54,20 @@ Ingevolge de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) behoren 
 ### 4. Beroepsmilitairen
 
 Uit informatie verkregen van het Ministerie van Defensie, Directie Arbeidsvoorwaardenbeleid, Afdeling Pensioenen en Sociale Zekerheid, is mij onder meer gebleken:
+
+- 1. dat de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) vanaf 1 januari 1998 voor de beroepsmilitairen op hoofdlijnen dezelfde consequenties heeft als voor de overige overheidswerknemers; dat houdt in dat door de toepassing van de Wet OOW de beroepsmilitairen vanaf die datum tot de kring van verzekerenden ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) behoren. Een uitzondering daarop vormen de beroepsmilitairen met een uitkering ingevolge de [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540) en de beroepsmilitairen die recht hebben op een pensioen ingevolge een vroegere militaire pensioenwet in de zin van de Algemene militaire pensioenwet (Amp-wet);
+
+- 2. dat de arbeidsongeschikte beroepsmilitair met een WAO-uitkering (wettelijk deel) aanspraak kan maken op de doorbetaling van (een deel van) zijn/haar inkomsten (bovenwettelijk deel) gedurende de eerste 24 maanden van zijn/ haar ziekte, indien zijn/haar aanstelling nog niet is verbroken; dit is geregeld in het [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816) en enkele andere rechtspositionele regelingen, zoals het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482) (Amar);
+
+- 3. dat de gewezen arbeidsongeschikte beroepsmilitair met een WAO-uitkering (wettelijk deel) aanspraak kan maken op een bovenwettelijk arbeidsongeschiktheidspensioen ingevolge de Amp-wet. Het bovenwettelijk arbeidsongeschiktheidspensioen is een aanvulling van de WAO-uitkering tot 65% van het laatstgenoten salaris (bij volledige arbeidsongeschiktheid). Aanvulling tot 70% van het laatstgenoten salaris (bij volledige arbeidsongeschiktheid) vindt plaats indien de betrokken beroepsmilitair hiervoor gekozen heeft en in verband hiermede een hoger bijdrageverhaal (1998: 0,5%) heeft betaald. De aanspraak op een arbeidsongeschiktheidspensioen komt overeen met de aanspraak van de burgerlijke overheidswerknemer op een invaliditeitspensioen, dat is neergelegd in het pensioenreglement Stichting Pensioenfonds ABP. Voor het militair personeel is dit arbeidsongeschiktheidspensioen gehandhaafd in de Amp-wet;
+
+- 4. dat de gewezen arbeidsongeschikte beroepsmilitair met een WAO-uitkering (wettelijk deel) aanspraak kan maken op een bovenwettelijk arbeidsongeschiktheidspensioen, eventueel vermeerderd met een herplaatsingstoelage ingevolge de Amp-wet;
+
+- 5. dat de gewezen gedeeltelijk arbeidsongeschikte beroepsmilitair met een eventuele WAO-uitkering (wettelijk deel) aanspraak kan maken op een suppletieuitkering ingevolge de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie;
+
+- 6. dat, afhankelijk van de situatie van de arbeidsongeschikte beroepsmilitair, hij/zij ook nog in aanmerking kan komen voor een verhoogd arbeidsongeschiktheidspensioen, een invaliditeitspensioen en een bijzondere invaliditeitsverhoging (smartengeld) ingevolge de Amp-wet; door middel van de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) is voor bedrijfsongevallen in vredestijd in de Amp-wet een verhoogd arbeidsongeschiktheidspensioen geïntroduceerd, zoals dat ook voorkomt in de rechtspositie van het burgerlijk overheidspersoneel. Het invaliditeitspensioen ingevolge de Amp-wet staat los van een eventuele arbeidsongeschiktheid van de militair en kan worden getypeerd als een bijzondere schadeloosstelling voor de medische beperkingen die hij/zij ten gevolge van een hem/haar in en door de uitoefening van de militaire dienst overkomen ongeval (invaliditeit met dienstverband) ondervindt. De hoogte en de duur van het invaliditeitspensioen zijn niet door de Wet OOW gewijzigd, maar wel zijn de toegangscriteria tot het invaliditeitspensioen door die wet aangescherpt. Het gaat hier om wijzigingen van de Amp-wet die uitvoering geven aan een enkele jaren geleden genomen kabinetsbesluit inzake een heroverweging van de zogenaamde militaire invaliditeitspensioenen. Voorts is de smartengeldproblematiek in de Amp-wet vastgelegd. Deze nieuwe smartengeldsystematiek geldt voor ongevallen vanaf 1 januari 1998;
+
+- 7. dat in de overgangsbepalingen van de [Wet OOW](https://wetten.overheid.nl/jci1.3:c:BWBR0009267) is geregeld dat voor beroepsmilitairen die in het genot waren van een pensioen ter zake van ziekte of gebreken ingevolge de Amp-wet dat pensioen met ingang van 1 januari 1998 is omgezet in een op de WAO-uitkering aanvullend bovenwettelijk arbeidsongeschiktheidspensioen ingevolge de Amp-wet en dat de hoogte en de duur van een op 1 januari 1998 bestaand invaliditeitspensioen ongewijzigd zijn gebleven. De WAO-uitkering berust op de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) (werknemersverzekeringswet). De gehele of gedeeltelijke doorbetaling van de inkomsten, de suppletieuitkering, de herplaatsingstoelage, het arbeidsongeschiktheidspensioen, het verhoogd arbeidsongeschiktheidspensioen, het invaliditeitspensioen en de bijzondere invaliditeitsverhoging (smartengeld) berusten op de militaire rechtspositieregeling (zoals de Amp-wet, het [Amar](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816) en de Suppletie-regeling gedeeltelijk arbeidsongeschikten sector Defensie).
 
 Ook voor de beroepsmilitair bestaat de mogelijkheid particulier een aanvullende arbeidsongeschiktheidsverzekering af te sluiten. Voor de aanspraken van de beroepsmilitair wordt dezelfde systematiek gevolgd als die welke geldt voor de overige overheidswerknemers.
 

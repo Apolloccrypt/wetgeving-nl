@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2010, nr. GMT/IB 3010709, houdende verlening van mandaat en machtiging aan Agentschap NL"
+citeertitel: "Besluit mandaat en machtiging Agentschap NL subsidieverstrekking Life Science and Health en Gezond Ouder Worden"
 identifier: "BWBR0027939"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-20"
-last_updated: "2010-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027939"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10615143"
-version_id: "17535552"
-internal_id: "C24263921"
-label_id: "10590054"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027939/2010-07-20/0"
-intitule_bron: "Stcrt.2010-11143"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-08"
-intitule_published: "2010-07-19"
-intitule_in_force: "2010-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-11143"
-original_signed_date: "2010-07-08"
-original_published_date: "2010-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-11143"
-entry_into_force_date: "2010-07-20"
-jci_1_3: "jci1.3:c:BWBR0027939&z=2010-07-20&g=2010-07-20"
-jci_1_0: "1.0:c:BWBR0027939&g=2010-07-20"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging Agentschap NL subsidieverstrekking Life Science and Health en Gezond Ouder Worden"
-signed_date: "2010-07-08"
-entry_into_force: "2010-07-20"
+publicatiedatum: 2010-07-20
+laatste_update: 2010-07-20
+status: geldig
+toestand: 2010-07-20
+bron: "https://wetten.overheid.nl/BWBR0027939"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2010, nr. GMT/IB 3010709, houdende verlening van mandaat en machtiging aan Agentschap NL
-
-Gelezen de instemming van de algemeen directeur van het Agentschap NL van 14 juni 2010;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Agentschap NL:** baten-lastendienst van het Ministerie van Economische Zaken, bedoeld in [artikel 1 van het Instellingsbesluit baten-lastendienst Agentschap NL](https://wetten.overheid.nl/jci1.3:c:BWBR0026918&artikel=1);
+- b. *Agentschap NL:* baten-lastendienst van het Ministerie van Economische Zaken, bedoeld in [artikel 1 van het Instellingsbesluit baten-lastendienst Agentschap NL](https://wetten.overheid.nl/jci1.3:c:BWBR0026918&artikel=1);
 
-- c. **algemeen directeur:** algemeen directeur van het Agentschap NL;
+- c. *algemeen directeur:* algemeen directeur van het Agentschap NL;
 
-- d. **FES:** Fonds Economische Structuurversterking.
+- d. *FES:* Fonds Economische Structuurversterking.
 
 ##### Artikel 2
 
@@ -75,5 +49,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Agentschap NL subsidieverstrekking Life Science and Health en Gezond Ouder Worden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

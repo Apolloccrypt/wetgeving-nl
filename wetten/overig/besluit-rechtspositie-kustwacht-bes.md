@@ -1,38 +1,16 @@
 ---
 title: "Besluit rechtspositie Kustwacht BES"
 identifier: "BWBR0028499"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028499"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10827323"
-version_id: "17806252"
-internal_id: "C24849691"
-label_id: "10802464"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028499/2010-10-10/0"
-intitule_bron: "Stb.2010-428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-428"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-428"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028499&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028499&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028499"
+opgehaald: 2026-08-15
 ---
+
 # Besluit rechtspositie Kustwacht BES
 
 #### § 1. Definities
@@ -41,17 +19,17 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
-- a. **belanghebbende:** degene die kenbaar heeft gemaakt in aanmerking te willen komen voor een aanstelling bij de Kustwacht;
+- a. *belanghebbende:* degene die kenbaar heeft gemaakt in aanmerking te willen komen voor een aanstelling bij de Kustwacht;
 
-- b. **functietoewijzing:** de aanwijzing van de geüniformeerde ambtenaar voor het vervullen van een functie;
+- b. *functietoewijzing:* de aanwijzing van de geüniformeerde ambtenaar voor het vervullen van een functie;
 
-- c. **inkomen:** de bezoldiging van de geüniformeerde ambtenaar, verhoogd met de eventuele schaalgarantieuitkering bedoeld in [artikel 13 van de Wet rechtspositie Kustwacht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&artikel=13), de eventuele kindertoelage, bonus en andere aan de betrekking van de geüniformeerde ambtenaar verbonden toelagen, welke op grond van een organieke regeling der bezoldigingen of ingevolge artikel 26 van de WMABES en [artikel 9 van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9) worden genoten, continudiensttoelage, vaartoelage en vergoeding van onkosten daaronder niet begrepen;
+- c. *inkomen:* de bezoldiging van de geüniformeerde ambtenaar, verhoogd met de eventuele schaalgarantieuitkering bedoeld in [artikel 13 van de Wet rechtspositie Kustwacht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&artikel=13), de eventuele kindertoelage, bonus en andere aan de betrekking van de geüniformeerde ambtenaar verbonden toelagen, welke op grond van een organieke regeling der bezoldigingen of ingevolge artikel 26 van de WMABES en [artikel 9 van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9) worden genoten, continudiensttoelage, vaartoelage en vergoeding van onkosten daaronder niet begrepen;
 
-- d. **uurloon:** de bezoldiging, vermenigvuldigd met twaalf en daarna gedeeld door tweeduizend;
+- d. *uurloon:* de bezoldiging, vermenigvuldigd met twaalf en daarna gedeeld door tweeduizend;
 
-- e. **varen:** het buiten de thuishaven verrichten van werkzaamheden aan boord van een kustwachtschip;
+- e. *varen:* het buiten de thuishaven verrichten van werkzaamheden aan boord van een kustwachtschip;
 
-- f. **normvaardigheidsvereisten:** een stelsel van fysieke, politiële en nautische eisen.
+- f. *normvaardigheidsvereisten:* een stelsel van fysieke, politiële en nautische eisen.
 
 #### § 2. Aanstelling
 
@@ -71,13 +49,13 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 - b. het instellen van een onderzoek naar gegevens die van belang zijn voor de beoordeling van de geschiktheid van de belanghebbende; hierbij wordt gelet op gegevens betreffende:
 
-- 1°. de justitiële inlichtingen die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258);
+   - 1° de justitiële inlichtingen die ten behoeve van het veiligheidsonderzoek zijn verkregen met inachtneming van het bepaalde bij of krachtens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258);
 
-- 2°. deelneming of steunverlening aan voor het Koninkrijk of zijn bondgenoten gevaarlijke activiteiten;
+   - 2° deelneming of steunverlening aan voor het Koninkrijk of zijn bondgenoten gevaarlijke activiteiten;
 
-- 3°. lidmaatschap van of steunverlening aan organisaties, die doeleinden nastreven dan wel ter verwezenlijking van hun doeleinden middelen hanteren, welke in strijd zijn met de grondslagen van een democratische rechtsorde;
+   - 3° lidmaatschap van of steunverlening aan organisaties, die doeleinden nastreven dan wel ter verwezenlijking van hun doeleinden middelen hanteren, welke in strijd zijn met de grondslagen van een democratische rechtsorde;
 
-- 4°. overige persoonlijke gedragingen en omstandigheden, die uit veiligheidsoogpunt van belang zijn.
+   - 4° overige persoonlijke gedragingen en omstandigheden, die uit veiligheidsoogpunt van belang zijn.
 
 3. Tenzij dringende redenen zich daarentegen verzetten, wordt het onderzoek gestart met het inwinnen van justitiële inlichtingen. Indien zulks niet leidt tot bezwaren tegen aanstelling, wordt het veiligheidsonderzoek voortgezet.
 
@@ -135,7 +113,7 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 ##### Artikel 8
 
-De rangen en de daarbij behorende bezoldigingsschalen voor degenen die worden aangesteld als geüniformeerde ambtenaar zijn vermeld in de bijlage bij dit besluit.
+De rangen en de daarbij behorende bezoldigingsschalen voor degenen die worden aangesteld als geüniformeerde ambtenaar zijn vermeld in de [bijlage](https://wetten.overheid.nl/BWBR0028499) bij dit besluit.
 
 #### § 5. Bevordering
 
@@ -313,7 +291,7 @@ Een rustdag bestaat uit een dienstvrije periode van 24 aaneengesloten uren, in b
 
 1. Indien de belangen van de dienst zulks onvermijdelijk maken, verrichten de geüniformeerde ambtenaren overwerk.
 
-2. Aan de geüniformeerde ambtenaar die een bezoldiging ontvangt van schaal 7 van de bijlage bij dit besluit of lager en die in opdracht van de directeur van de Kustwacht overwerk verricht, wordt behoudens het bepaalde in het derde lid een vergoeding toegekend. Aan geüniformeerde ambtenaren voor wie een hogere salarisschaal geldt, kan voor overwerk een tijdelijke vergoeding of een gratificatie worden toegekend, vast te stellen door Onze Minister, voor wat de gratificatie betreft met inachtneming van het gestelde in het derde lid van artikel 75 van de WMABES.
+2. Aan de geüniformeerde ambtenaar die een bezoldiging ontvangt van schaal 7 van de [bijlage](https://wetten.overheid.nl/BWBR0028499) bij dit besluit of lager en die in opdracht van de directeur van de Kustwacht overwerk verricht, wordt behoudens het bepaalde in het derde lid een vergoeding toegekend. Aan geüniformeerde ambtenaren voor wie een hogere salarisschaal geldt, kan voor overwerk een tijdelijke vergoeding of een gratificatie worden toegekend, vast te stellen door Onze Minister, voor wat de gratificatie betreft met inachtneming van het gestelde in het derde lid van artikel 75 van de WMABES.
 
 3. Voor overwerk dat gedurende korter dan vijftien minuten aansluitend aan de dagelijkse werktijd wordt verricht, wordt geen vergoeding toegekend.
 
@@ -440,52 +418,3 @@ Dit besluit wordt aangehaald als: Besluit rechtspositie Kustwacht BES.
 ##### Artikel 45
 
 [vervallen.]
-
-## Bijlage. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10) van het Besluit rechtspositie Kustwacht BES
-
-Overzicht van de rangen, bezoldigingschalen, de bezoldigingstreden en de bezoldigingen van geüniformeerde ambtenaren
-
-(Bedragen in USD)
-
-| Matroos | Matroos | Volmatroos | Volmatroos | Volmatroos | Volmatroos | Kwartiermeester 1ste klasse | Kwartiermeester 1ste klasse |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Schaal 1 | Schaal 1 | Schaal 2 | Schaal 2 | Schaal 3 | Schaal 3 | Schaal 4 | Schaal 4 |
-| 1 | 973 | 1 | 1176 | 1 | 1501 | 1 | 1720 |
-| 2 | 999 | 2 | 1208 | 2 | 1542 | 2 | 1766 |
-| 3 | 1027 | 3 | 1241 | 3 | 1585 | 3 | 1815 |
-| 4 | 1055 | 4 | 1275 | 4 | 1628 | 4 | 1865 |
-| 5 | 1084 | 5 | 1311 | 5 | 1673 | 5 | 1916 |
-|   |   |   |   |   |   | 6 | 1969 |
-|   |   |   |   |   |   | 7 | 2023 |
-|   |   |   |   |   |   | 8 | 2079 |
-|   |   |   |   |   |   | 9 | 2136 |
-|   |   |   |   |   |   | 10 | 2195 |
-|   |   |   |   |   |   | 11 | 2255 |
-|   |   |   |   |   |   | 12 | 2317 |
-
-| Bootsman | Bootsman | Schipper | Schipper | Opperschipper | Opperschipper | Stuurman | Stuurman |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Schaal 5 | Schaal 5 | Schaal 6 | Schaal 6 | Schaal 7 | Schaal 7 | Schaal 8 | Schaal 8 |
-| 1 | 1969 | 1 | 2195 | 1 | 2446 | 1 | 2802 |
-| 2 | 2023 | 2 | 2255 | 2 | 2513 | 2 | 2879 |
-| 3 | 2079 | 3 | 2317 | 3 | 2583 | 3 | 2958 |
-| 4 | 2136 | 4 | 2381 | 4 | 2654 | 4 | 3039 |
-| 5 | 2195 | 5 | 2446 | 5 | 2727 | 5 | 3123 |
-| 6 | 2255 | 6 | 2513 | 6 | 2802 | 6 | 3209 |
-| 7 | 2317 | 7 | 2583 | 7 | 2879 | 7 | 3297 |
-| 8 | 2381 | 8 | 2654 | 8 | 2958 | 8 | 3388 |
-| 9 | 2446 | 9 | 2727 | 9 | 3039 | 9 | 3481 |
-| 10 | 2513 |   |   |   |   |   |   |
-
-| Stuurman 2e klasse | Stuurman 2e klasse | Stuurman 1e klasse | Stuurman 1e klasse | Kapitein 1e klasse | Kapitein 1e klasse | Kapitein | Kapitein |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Schaal 9 | Schaal 9 | Schaal 10 | Schaal 10 | Schaal 11 | Schaal 11 | Schaal 12 | Schaal 12 |
-| 1 | 3123 | 1 | 3388 | 1 | 3577 | 1 | 3987 |
-| 2 | 3209 | 2 | 3481 | 2 | 3675 | 2 | 4096 |
-| 3 | 3297 | 3 | 3577 | 3 | 3776 | 3 | 4209 |
-| 4 | 3388 | 4 | 3675 | 4 | 3880 | 4 | 4325 |
-| 5 | 3481 | 5 | 3776 | 5 | 3987 | 5 | 4440 |
-| 6 | 3577 | 6 | 3880 | 6 | 4096 | 6 | 4565 |
-| 7 | 3675 | 7 | 3987 | 7 | 4209 | 7 | 4691 |
-| 8 | 3776 | 8 | 4096 | 8 | 4325 | 8 | 4820 |
-| 9 | 3880 | 9 | 4209 | 9 | 4440 | 9 | 4953 |

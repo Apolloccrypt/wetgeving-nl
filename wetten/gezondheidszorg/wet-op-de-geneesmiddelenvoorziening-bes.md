@@ -1,38 +1,16 @@
 ---
 title: "Wet op de geneesmiddelenvoorziening BES"
 identifier: "BWBR0028486"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028486"
+categorie: "Gezondheidszorg"
 soort: "wet-BES"
-stam_id: "10813223"
-version_id: "17792092"
-internal_id: "C24818841"
-label_id: "10788554"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028486/2025-01-01/0"
-intitule_bron: "Stb.2010-638"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-638"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-638"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028486&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0028486&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0028486"
+opgehaald: 2026-08-15
 ---
+
 # Wet op de geneesmiddelenvoorziening BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,41 +19,41 @@ entry_into_force: "2010-10-10"
 
 Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Inspecteur:** de Inspecteur van de inspectie, bedoeld in onderdeel c;
+- b. *Inspecteur:* de Inspecteur van de inspectie, bedoeld in onderdeel c;
 
-- c. **Inspectie:** de Inspectie gezondheidszorg en jeugd;
+- c. *Inspectie:* de Inspectie gezondheidszorg en jeugd;
 
-- d. **zelfstandigheden:** stoffen, dieren, planten delen of producten van dieren of planten, producten bereid uit dieren of planten of uit gedeelten van dieren of planten, alsmede de mengsels hiervan;
+- d. *zelfstandigheden:* stoffen, dieren, planten delen of producten van dieren of planten, producten bereid uit dieren of planten of uit gedeelten van dieren of planten, alsmede de mengsels hiervan;
 
-- e. **geneesmiddelen:**
+- e. *geneesmiddelen:*
 
-- 1°. Zelfstandigheden, welke worden gebruikt voor genezing, leniging of voorkoming van enige aandoening, ziekte, ziekteverschijnsel, pijn, verwonding of gebrek bij de mens, voor zover zij in een apotheek plegen aanwezig te zijn of uit een apotheek zijn of plegen te worden afgeleverd;
+   - 1°. Zelfstandigheden, welke worden gebruikt voor genezing, leniging of voorkoming van enige aandoening, ziekte, ziekteverschijnsel, pijn, verwonding of gebrek bij de mens, voor zover zij in een apotheek plegen aanwezig te zijn of uit een apotheek zijn of plegen te worden afgeleverd;
 
-- 2°. Zelfstandigheden, welke op recept zijn bereid waarbij onder bereiden tevens wordt verstaan het in de vereiste vorm brengen of het ter aflevering gereedmaken;
+   - 2°. Zelfstandigheden, welke op recept zijn bereid waarbij onder bereiden tevens wordt verstaan het in de vereiste vorm brengen of het ter aflevering gereedmaken;
 
-- 3°. Zelfstandigheden, welke zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd en welke op enigerlei wijze worden of werden aangeduid of aangeprezen als zijnde geschikt of als zouden zij geschikt kunnen zijn ter genezing, leniging of voorkoming van enige aandoening ziekte, ziekte- verschijnsel pijn, verwonding of gebrek bij de mens;
+   - 3°. Zelfstandigheden, welke zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd en welke op enigerlei wijze worden of werden aangeduid of aangeprezen als zijnde geschikt of als zouden zij geschikt kunnen zijn ter genezing, leniging of voorkoming van enige aandoening ziekte, ziekte- verschijnsel pijn, verwonding of gebrek bij de mens;
 
-- 4°. Zelfstandigheden, als zodanig door Onze Minister aangewezen;
+   - 4°. Zelfstandigheden, als zodanig door Onze Minister aangewezen;
 
-- f. **verpakte geneesmiddelen:** de geneesmiddelen, bedoeld in onderdeel e, onder 3° en 4° voor zover deze zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd;
+- f. *verpakte geneesmiddelen:* de geneesmiddelen, bedoeld in onderdeel e, onder 3° en 4° voor zover deze zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd;
 
 - g. uitoefening der artsenijbereidkunde:
 
-- 1°. bereiden: geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan;
+   - 1°. bereiden: geheel of gedeeltelijk vervaardigen van geneesmiddelen dan wel het verpakken of etiketteren daarvan;
 
-- 2°. in voorraad hebben; hieronder wordt niet verstaan het door geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen onder zich hebben van terhandgestelde geneesmiddelen alsmede het bewaren van terhandgestelde geneesmiddelen door de patiënt voor wie het geneesmiddel is bestemd;
+   - 2°. in voorraad hebben; hieronder wordt niet verstaan het door geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen onder zich hebben van terhandgestelde geneesmiddelen alsmede het bewaren van terhandgestelde geneesmiddelen door de patiënt voor wie het geneesmiddel is bestemd;
 
-- 3°. afleveren: anders dan door terhandstelling of uitvoer leveren van geneesmiddelen;
+   - 3°. afleveren: anders dan door terhandstelling of uitvoer leveren van geneesmiddelen;
 
-- 4°. terhandstellen: rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd, dan wel aan geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen die geneesmiddelen onder zich hebben ten behoeve van toediening aan hun patiënten; hieronder wordt niet verstaan het aanwenden van terhandgestelde geneesmiddelen door een geneeskundige, tandheelkundige, verloskundige, mondhygiënist of optometrist bij een patiënt;
+   - 4° terhandstellen: rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd, dan wel aan geneeskundigen, tandheelkundigen, verloskundigen, mondhygiënisten of optometristen die geneesmiddelen onder zich hebben ten behoeve van toediening aan hun patiënten; hieronder wordt niet verstaan het aanwenden van terhandgestelde geneesmiddelen door een geneeskundige, tandheelkundige, verloskundige, mondhygiënist of optometrist bij een patiënt;
 
-- h. **apotheek:** het lokaal dat of bij de elkaar behorende lokalen en bewaarplaatsen welke door een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) wordt of worden gebruikt voor of in verband met de uitoefening van de artsenijbereidkunde.
+- h. *apotheek:* het lokaal dat of bij de elkaar behorende lokalen en bewaarplaatsen welke door een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) wordt of worden gebruikt voor of in verband met de uitoefening van de artsenijbereidkunde.
 
-- i. **recept:** de schriftelijke aanwijzing nopens de bereiding of de aflevering van een geneesmiddel, afgegeven door een geneeskundige, een tandheelkundige of een vroedvrouw ten behoeve van een of meer met name genoemde dan wel met cijfers of letters aangeduide personen;
+- i. *recept:* de schriftelijke aanwijzing nopens de bereiding of de aflevering van een geneesmiddel, afgegeven door een geneeskundige, een tandheelkundige of een vroedvrouw ten behoeve van een of meer met name genoemde dan wel met cijfers of letters aangeduide personen;
 
-- j. **ziekenhuis:** een inrichting bestemd voor of gebezigd tot verpleging van personen, opgenomen voor het ondergaan van genees-, heel- of verloskundige behandelingen of genees-, heel of verloskundig onderzoek.
+- j. *ziekenhuis:* een inrichting bestemd voor of gebezigd tot verpleging van personen, opgenomen voor het ondergaan van genees-, heel- of verloskundige behandelingen of genees-, heel of verloskundig onderzoek.
 
 ##### Artikel 2
 
@@ -223,7 +201,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ##### Artikel 16
 
-1. De apotheker stelt geneesmiddelen terhand op recept of op enig ander verzoek met inachtneming van het bepaalde bij het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2025-01-01&g=2025-01-01).
+1. De apotheker stelt geneesmiddelen terhand op recept of op enig ander verzoek met inachtneming van het bepaalde bij het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2025-01-01&g=2025-01-01).
 
 2. De geneesmiddelen welke als UR-geneesmiddelen staan vermeld in de lijst, bedoeld in [artikel 60 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=60), mogen niet anders dan op recept worden afgeleverd.
 

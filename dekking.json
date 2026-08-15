@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-14",
+ "gegenereerd": "2026-08-15",
  "geverifieerd": true,
- "bwb_regelingen": 46844,
- "bwb_geldend": 22200,
- "site_totaal": 22373,
- "site_geldend": 22197,
+ "bwb_regelingen": 46860,
+ "bwb_geldend": 22208,
+ "site_totaal": 22389,
+ "site_geldend": 22205,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 176,
+ "aantal_ten_onrechte_geldig": 184,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -77,7 +77,7 @@
   },
   {
    "id": "BWBR0027937",
-   "titel": "Regeling gelijkwaardig erkende opleidingen Eisenbesluit lichaamsmateriaal 2006"
+   "titel": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 16 juni 2010, nr. GMT/MVG-3006021, houdende vaststelling van als gelijkwaardig erkende opleidingen voor het werken als verantwoordelijk persoon in een weefselinstelling (Regeling gelijkwaardig erkende opleidingen Eisenbesluit lichaamsmateriaal 2006)"
   },
   {
    "id": "BWBR0031613",
@@ -190,6 +190,26 @@
   {
    "id": "BWBR0041317",
    "titel": "Besluit digitale vervanging archiefbescheiden van het Ministerie van Sociale Zaken en Werkgelegenheid systeem Diane"
+  },
+  {
+   "id": "BWBR0041503",
+   "titel": "Besluit van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK-2018/224867, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van de Wet beveiliging netwerk- en informatiesystemen (Besluit aanwijzing toezichthoudende ambtenaren Wet beveiliging netwerk- en informatiesystemen)"
+  },
+  {
+   "id": "BWBR0041515",
+   "titel": "Wet van 17 oktober 2018, houdende regels ter implementatie van richtlijn (EU) 2016/1148 (Wet beveiliging netwerk- en informatiesystemen)"
+  },
+  {
+   "id": "BWBR0041520",
+   "titel": "Besluit van 30 oktober 2018, houdende regels ter uitvoering van de Wet beveiliging netwerk- en informatiesystemen (Besluit beveiliging netwerk- en informatiesystemen)"
+  },
+  {
+   "id": "BWBR0041524",
+   "titel": "Besluit van de Minister van Economische Zaken en Klimaat van 5 november 2018, nr. WJZ/18213911, tot aanwijzing toezichthouders Wet beveiliging netwerk- en informatiesystemen voor de sectoren energie, digitale infrastructuur en voor digitale diensten (Besluit aanwijzing toezichthouders Wet beveiliging netwerk- en informatiesystemen voor de sectoren energie, digitale infrastructuur en voor digitale diensten)"
+  },
+  {
+   "id": "BWBR0041536",
+   "titel": "Besluit van 30 oktober 2018 tot aanwijzing van het CSIRT voor digitale diensten en tot vaststelling van het tijdstip van inwerkingtreding van de Wet en het Besluit beveiliging netwerk- en informatiesystemen"
   },
   {
    "id": "BWBR0041819",
@@ -308,6 +328,10 @@
    "titel": "Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam 2021"
   },
   {
+   "id": "BWBR0045077",
+   "titel": "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 23 april 2021, nr. WJZ/ 21033154, houdende aanwijzing van aanbieders van essentiële diensten op het terrein van economische zaken (Regeling aanwijzing aanbieders essentiële diensten EZK)"
+  },
+  {
    "id": "BWBR0045114",
    "titel": "Besluit buitengewoon opsporingsambtenaar gemeente Breda 2021"
   },
@@ -330,6 +354,10 @@
   {
    "id": "BWBR0045160",
    "titel": "Besluit buitengewoon opsporingsambtenaar van de gemeente Roermond 2021"
+  },
+  {
+   "id": "BWBR0045163",
+   "titel": "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 mei 2021, nr. IENW/BSK-2021/135014, houdende nadere regels voor de veiligheid van aanbieders van essentiële diensten inzake de netwerk- en informatiesystemen in de sectoren vervoer en drinkwater (Regeling beveiliging netwerk- en informatiesystemen IenW)"
   },
   {
    "id": "BWBR0045179",
@@ -438,6 +466,10 @@
   {
    "id": "BWBR0047425",
    "titel": "Besluit Hybridemismatches"
+  },
+  {
+   "id": "BWBR0047530",
+   "titel": "Regeling van de Minister van Justitie en Veiligheid van 21 november 2022, nr. 4283291 houdende de aanwijzing van computercrisisteams en van organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek over dreigingen en incidenten met betrekking tot netwerk- en informatiesystemen te informeren als bedoeld in de Wet beveiliging netwerk- en informatiesystemen en tot intrekking van de Regeling aanwijzing computercrisisteams (Regeling aanwijzing schakelorganisaties cybersecurity)"
   },
   {
    "id": "BWBR0047632",

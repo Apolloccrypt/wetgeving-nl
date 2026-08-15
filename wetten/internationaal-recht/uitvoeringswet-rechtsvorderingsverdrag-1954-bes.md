@@ -1,49 +1,27 @@
 ---
 title: "Uitvoeringswet Rechtsvorderingsverdrag 1954 BES"
 identifier: "BWBR0028219"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028219"
+categorie: "Internationaal recht"
 soort: "wet-BES"
-stam_id: "10709343"
-version_id: "17672802"
-internal_id: "C24761261"
-label_id: "10684204"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028219/2010-10-10/0"
-intitule_bron: "Stb.2010-505"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-505"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-505"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028219&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028219&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028219"
+opgehaald: 2026-08-15
 ---
+
 # Uitvoeringswet Rechtsvorderingsverdrag 1954 BES
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- 1. **Het verdrag:** het op 1 maart 1954 te ’s-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering (Trb. 1954, no. 40);
+- 1. *Het verdrag:* het op 1 maart 1954 te ’s-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering (Trb. 1954, no. 40);
 
-- 2. **Minister:** de Minister van Justitie.
+- 2. *Minister:* de Minister van Justitie.
 
-## Mededeling van gerechtelijke en buitengerechtelijke stukken
+### Mededeling van gerechtelijke en buitengerechtelijke stukken
 
 ##### Artikel 2
 
@@ -83,7 +61,7 @@ De Procureur-Generaal zendt de stukken zoveel mogelijk rechtstreeks over de post
 
 Is dit laatste het geval, en is het exploot of het afzonderlijk stuk vergezeld van een vertaling in een der talen, bedoeld bij artikel 3 van het verdrag, dan verzoekt de Procureur-Generaal de diplomatieke of consulaire ambtenaar, zo de vertaling niet voor overeenstemmend is verklaard door een beëdigd vertaler in het land van bestemming, zelf die vertaling voor overeenstemmend te verklaren. De Procureur-Generaal zal voorts de diplomatieke of consulaire ambtenaar verzoeken, de stukken aan de bevoegde autoriteit te doen toekomen. Alles behoudens het bepaalde bij het derde en het vierde lid van artikel 1 van het verdrag.
 
-## Rogatoire commissies aan de rechter in de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
+### Rogatoire commissies aan de rechter in de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
 
 ##### Artikel 7
 
@@ -125,7 +103,7 @@ Alle overige kosten, op de uitvoering vallende, komen ten koste van de Staat, hi
 
 - b. in het geval, bedoeld in artikel 24 van het verdrag, de kosten, in het tweede lid van dat artikel genoemd.
 
-## Rogatoire commissies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
+### Rogatoire commissies door de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba opgedragen
 
 ##### Artikel 14
 
@@ -145,7 +123,7 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weder ter rolle zal
 
 De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke kracht als die van de rechter in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-## Verhaal der proceskosten
+### Verhaal der proceskosten
 
 ##### Artikel 18
 
@@ -197,7 +175,7 @@ De Minister stelt de griffier van het gerecht in eerste aanleg, dat de beschikki
 
 Alle stukken, benodigd voor de uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag, en de expedities, aan de verzoekende partij toe te zenden, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt verlangd, kosteloos geregistreerd. Alle overige noodzakelijke kosten terzake van de uitvoerbaarverklaring te maken, komen ten laste van de Staat.
 
-## Kosteloze rechtsbijstand
+### Kosteloze rechtsbijstand
 
 ##### Artikel 26
 
@@ -207,7 +185,7 @@ Als de autoriteit in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoeg
 
 [wijzigt het Wetboek van burgerlijke Rechtsvordering]
 
-## Slotbepaling
+### Slotbepaling
 
 ##### Artikel 28
 

@@ -1,40 +1,16 @@
 ---
 title: "Wet maritiem beheer BES"
 identifier: "BWBR0028550"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028550"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10846123"
-version_id: "24548222"
-internal_id: "C35160231"
-label_id: "10821904"
-dtd_version: "2.0"
-original_entry_into_force: "2017-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028550/2025-07-01/0"
-intitule_bron: "Stb.2010-626"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2017-401"
-original_signed_date: "2017-10-04"
-original_published_date: "2017-11-03"
-original_effect: "structuurwijziging"
-original_dossier: "34710"
-original_url_id: "stb-2017-401"
-entry_into_force_date: "2017-10-04"
-entry_into_force_dossier: "34710"
-jci_1_3: "jci1.3:c:BWBR0028550&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0028550&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "2017-10-04"
-entry_into_force: "2017-10-04"
+publicatiedatum: 2017-10-04
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0028550"
+opgehaald: 2026-08-15
 ---
+
 # Wet maritiem beheer BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -43,63 +19,63 @@ entry_into_force: "2017-10-04"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- a. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- b. **gezagvoerder:** de kapitein van een schip of degene die hem als zodanig vervangt;
+- b. *gezagvoerder:* de kapitein van een schip of degene die hem als zodanig vervangt;
 
-- c. **scheepsbeheerder:** degene die het beheer over een schip heeft, hetzij hij eigenaar, reder of boekhouder van de rederij van het schip is, hetzij het schip hem in rompbevrachting of anderszins in gebruik is gegeven;
+- c. *scheepsbeheerder:* degene die het beheer over een schip heeft, hetzij hij eigenaar, reder of boekhouder van de rederij van het schip is, hetzij het schip hem in rompbevrachting of anderszins in gebruik is gegeven;
 
-- d. **schip:** elk vaartuig, gebruikt of geschikt om te worden gebruikt als middel van vervoer te water, met inbegrip van een zeevissersschip, een watervliegtuig, een draagvleugelboot, een luchtkussenvoertuig, een drijvend platform, een verplaatsbare boorinstallatie, een baggermolen, een drijvende kraan, een ponton en elk ander drijvend werktuig, drijvend voorwerp of drijvende inrichting van soortgelijke aard, gedurende de tijd dat het drijft;
+- d. *schip:* elk vaartuig, gebruikt of geschikt om te worden gebruikt als middel van vervoer te water, met inbegrip van een zeevissersschip, een watervliegtuig, een draagvleugelboot, een luchtkussenvoertuig, een drijvend platform, een verplaatsbare boorinstallatie, een baggermolen, een drijvende kraan, een ponton en elk ander drijvend werktuig, drijvend voorwerp of drijvende inrichting van soortgelijke aard, gedurende de tijd dat het drijft;
 
-- e. **bestuurscollege:** bestuurscollege van een openbaar lichaam;
+- e. *bestuurscollege:* bestuurscollege van een openbaar lichaam;
 
-- f. **luchtvaartuig:** elk vaartuig, gebruikt of geschikt om te worden gebruikt als middel van vervoer door de lucht;
+- f. *luchtvaartuig:* elk vaartuig, gebruikt of geschikt om te worden gebruikt als middel van vervoer door de lucht;
 
-- g. **bouwwerk:** elk bouwsel door menselijk toedoen tot stand gebracht in de zin van artikel 60, eerste lid, van het VN-Zeerechtverdrag, geen schip zijnde;
+- g. *bouwwerk:* elk bouwsel door menselijk toedoen tot stand gebracht in de zin van artikel 60, eerste lid, van het VN-Zeerechtverdrag, geen schip zijnde;
 
-- h. **offshore-installatie:** elk vast of drijvend bouwwerk dat zich bevindt in de territoriale wateren of de exclusieve economische zone rond de eilanden Bonaire, Sint Eustatius of Saba, en wordt gebruikt ten behoeve van de exploratie, exploitatie of productie van aardgas of aardolie, dan wel het laden of lossen van aardolieproducten;
+- h. *offshore-installatie:* elk vast of drijvend bouwwerk dat zich bevindt in de territoriale wateren of de exclusieve economische zone rond de eilanden Bonaire, Sint Eustatius of Saba, en wordt gebruikt ten behoeve van de exploratie, exploitatie of productie van aardgas of aardolie, dan wel het laden of lossen van aardolieproducten;
 
-- i. **maritiem archeologisch erfgoed:** alle onder water gelegen, vóór tenminste vijftig jaar vervaardigde zaken welke van algemeen belang zijn wegens hun schoonheid, hun betekenis voor de wetenschap of hun cultuurhistorische waarde alsmede terreinen welke van algemeen belang zijn vanwege de daar aanwezige voornoemde zaken;
+- i. *maritiem archeologisch erfgoed:* alle onder water gelegen, vóór tenminste vijftig jaar vervaardigde zaken welke van algemeen belang zijn wegens hun schoonheid, hun betekenis voor de wetenschap of hun cultuurhistorische waarde alsmede terreinen welke van algemeen belang zijn vanwege de daar aanwezige voornoemde zaken;
 
-- j. **zee:** alle mariene wateren, met uitzondering van de binnenwateren van de landen van het Koninkrijk der Nederlanden en die van andere Staten;
+- j. *zee:* alle mariene wateren, met uitzondering van de binnenwateren van de landen van het Koninkrijk der Nederlanden en die van andere Staten;
 
-- k. **binnenwateren:** de wateren van Bonaire, Sint Eustatius en Saba, gelegen landinwaarts vanaf de basislijnen, als bedoeld in artikel 8 van het VN-Zeerechtverdrag;
+- k. *binnenwateren:* de wateren van Bonaire, Sint Eustatius en Saba, gelegen landinwaarts vanaf de basislijnen, als bedoeld in artikel 8 van het VN-Zeerechtverdrag;
 
-- l. **rede:** een deel van de territoriale zee, door de natuurlijke gesteldheid geschikt als ankerplaats, voor het overslaan van goederen dan wel het in- of ontschepen van passagiers, en gelegen in het verlengde van een haven op Bonaire, Sint Eustatius of Saba;
+- l. *rede:* een deel van de territoriale zee, door de natuurlijke gesteldheid geschikt als ankerplaats, voor het overslaan van goederen dan wel het in- of ontschepen van passagiers, en gelegen in het verlengde van een haven op Bonaire, Sint Eustatius of Saba;
 
-- m. **territoriale zee:** de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
+- m. *territoriale zee:* de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
 
-- n. **aansluitende zone:** de door het Koninkrijk der Nederlanden ingestelde aansluitende zone, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba;
+- n. *aansluitende zone:* de door het Koninkrijk der Nederlanden ingestelde aansluitende zone, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba;
 
-- o. **exclusieve economische zone:** de door het Koninkrijk ingestelde exclusieve economische zone, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba;
+- o. *exclusieve economische zone:* de door het Koninkrijk ingestelde exclusieve economische zone, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba;
 
-- p. **lozen:** elk vrijkomen van stoffen, hoe ook veroorzaakt, waaronder begrepen ontsnappen, over boord zetten, wegvloeien, weglekken, pompen of ledigen;
+- p. *lozen:* elk vrijkomen van stoffen, hoe ook veroorzaakt, waaronder begrepen ontsnappen, over boord zetten, wegvloeien, weglekken, pompen of ledigen;
 
-- q. **gevaarlijke stoffen:** stoffen die gevaar voor explosie, brand, corrosie, vergiftiging, bedwelming of straling kunnen opleveren, waartoe in elk geval worden gerekend de stoffen in de International Maritime Dangerous Goods Code, de (International) Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, de (International) Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk van de Internationale Maritieme Organisatie, gemerkt met de letter (s), alsmede elke andere stof aangewezen bij regeling van Onze Minister;
+- q. *gevaarlijke stoffen:* stoffen die gevaar voor explosie, brand, corrosie, vergiftiging, bedwelming of straling kunnen opleveren, waartoe in elk geval worden gerekend de stoffen in de International Maritime Dangerous Goods Code, de (International) Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, de (International) Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk van de Internationale Maritieme Organisatie, gemerkt met de letter (s), alsmede elke andere stof aangewezen bij regeling van Onze Minister;
 
-- r. **schadelijke stoffen:** stoffen en energie die, indien zij in zee terecht komen, gevaar kunnen opleveren voor de gezondheid van de mens, schade kunnen toebrengen aan het mariene milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kunnen werken op enig ander rechtmatig gebruik van de zee;
+- r. *schadelijke stoffen:* stoffen en energie die, indien zij in zee terecht komen, gevaar kunnen opleveren voor de gezondheid van de mens, schade kunnen toebrengen aan het mariene milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kunnen werken op enig ander rechtmatig gebruik van de zee;
 
-- s. **Interventieverdrag:** het op 29 november 1969 te Brussel tot stand gekomen Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, met Bijlage (Trb. 1970, 107);
+- s. *Interventieverdrag:* het op 29 november 1969 te Brussel tot stand gekomen Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, met Bijlage (Trb. 1970, 107);
 
-- t. **Zeeaanvaringsverdrag:** het op 20 oktober 1972 te Londen tot stand gekomen Verdrag inzake Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, met Bijlagen (Trb. 1974, 51);
+- t. *Zeeaanvaringsverdrag:* het op 20 oktober 1972 te Londen tot stand gekomen Verdrag inzake Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, met Bijlagen (Trb. 1974, 51);
 
-- u. **Interventieprotocol:** het op 2 november 1973 te Londen tot stand gekomen Protocol inzake optreden in volle zee bij ongevallen die verontreiniging door andere stoffen dan olie kunnen veroorzaken (Trb. 1977, 162);
+- u. *Interventieprotocol:* het op 2 november 1973 te Londen tot stand gekomen Protocol inzake optreden in volle zee bij ongevallen die verontreiniging door andere stoffen dan olie kunnen veroorzaken (Trb. 1977, 162);
 
-- v. **Marpolverdrag:** het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147 en Trb. 1978, 187);
+- v. *Marpolverdrag:* het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147 en Trb. 1978, 187);
 
-- w. **Grensverdrag:** het op 31 maart 1978 te Willemstad tot stand gekomen Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela (Trb. 1978, 61);
+- w. *Grensverdrag:* het op 31 maart 1978 te Willemstad tot stand gekomen Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela (Trb. 1978, 61);
 
-- x. **VN-Zeerechtverdrag:** het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee, met bijlagen (Trb. 1983, 83);
+- x. *VN-Zeerechtverdrag:* het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee, met bijlagen (Trb. 1983, 83);
 
-- y. **OPRC-Verdrag:** het op 30 november 1990 te Londen tot stand gekomen Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, met bijlage (Trb. 1992, 1);
+- y. *OPRC-Verdrag:* het op 30 november 1990 te Londen tot stand gekomen Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, met bijlage (Trb. 1992, 1);
 
-- z. **SPAW-protocol:** het op 18 januari 1990 te Kingston getekende Protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
+- z. *SPAW-protocol:* het op 18 januari 1990 te Kingston getekende Protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
 
-- aa. **Protocol van 1996:** op 7 november 1996 te Londen tot stand gekomen Protocol bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (Trb. 1998, 134);
+- aa. *Protocol van 1996:* op 7 november 1996 te Londen tot stand gekomen Protocol bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (Trb. 1998, 134);
 
-- bb. **Wrakopruimingsverdrag:** het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115);
+- bb. *Wrakopruimingsverdrag:* het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115);
 
-- cc. **Onze Minister:** Onze Minister van Infrastructuur en Milieu.
+- cc. *Onze Minister:* Onze Minister van Infrastructuur en Milieu.
 
 ##### Artikel 2
 
@@ -283,6 +259,38 @@ Het is verboden zonder of in afwijking van toestemming van de beheerder met een 
 
 Het eerste lid is niet van toepassing ingeval van overmacht en hulpverlening.
 
+##### Artikel 19a
+
+1. De gezagvoerder van een schip dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, licht de beheerder in omtrent hem bekende schepen, overblijfselen van schepen en alle andere voorwerpen in zee gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden, die nog niet zijn aangegeven op een nautische kaart.
+
+2. De verplichting, bedoeld in het eerste lid, rust ook op degene die belast is met het beheer van een platform dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt.
+
+##### Artikel 19b
+
+De gezagvoerder van een schip dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, meldt de beheerder zo uitgebreid mogelijk de volgende informatie met betrekking tot een schip, overblijfselen van schepen en alle andere voorwerpen in zee gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden:
+
+- a. de positie;
+
+- b. het aantal personen en de aard van de lading aan boord;
+
+- c. de aard van de schade;
+
+- d. of het schip naar zijn oordeel een gevaar is voor de navigatie;
+
+- e. andere nuttige informatie of bijzonderheden welke het opruimen van het schip vergemakkelijken.
+
+##### Artikel 19c
+
+1. De beheerder is bevoegd overblijfselen van schepen en alle andere voorwerpen in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, die zijn gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden, niet zijnde een wrak als bedoeld in [paragraaf 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&z=2025-07-01&g=2025-07-01), op te ruimen zonder dat hij door belanghebbenden bij het wrak, of het opgeruimde voorwerp dan wel de zaken aan boord van of in of op het wrak of voorwerp, aansprakelijk kan worden gesteld voor door die opruiming aan hen toegebrachte schade.
+
+2. De kosten, krachtens het eerste lid gemaakt, komen ten laste van de beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op degene, die volgens de wet daarvoor aansprakelijk is.
+
+3. Al hetgeen in verband met het opruimen op grond van het eerste lid wordt geborgen, wordt tegen voldoening van de ter zake van de opruiming gemaakte kosten of tegen het stellen van zekerheid voor de voldoening daarvan afgegeven aan belanghebbenden, die zich daartoe aanmelden en zich als zodanig kunnen legitimeren.
+
+4. De beheerder kan niet aansprakelijk worden gesteld voor afgifte van het geborgene aan een onbevoegde.
+
+5. Indien belanghebbenden zich niet aanmelden, dan wel in gebreke blijven binnen een door de beheerder te stellen termijn de in het derde lid bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
+
 #### § 3.2. Verbod inzake bouwwerken, voorwerpen of ander materiaal in zee
 
 ##### Artikel 20
@@ -357,6 +365,24 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 3. Bij regeling van Onze Minister kunnen, in het belang van orde en veiligheid, regels worden gegeven aangaande de vaart met snelle kleine schepen in de territoriale zee of daarmee in verbinding staande binnenwateren.
 
+##### Artikel 26a
+
+1. De beheerder is, in het belang van de orde, de veiligheid en ter bescherming van het milieu, bevoegd op kosten van de scheepsbeheerder een schip dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt te verhalen of te doen verhalen. Onder verhalen wordt in dit verband verstaan het verplaatsen van een schip naar een ligplaats of bewaarplaats.
+
+2. Met uitzondering van een spoedeisend geval, dan wel ingeval van een onbekende scheepsbeheerder, wordt van de bevoegdheid, bedoeld in het eerste lid, geen gebruik gemaakt dan nadat de beheerder schriftelijk opdracht heeft gegeven aan de scheepsbeheerder om dit schip vóór een in deze opdracht vermeld tijdstip te verhalen naar een door de beheerder aangewezen plaats en gebleken is dat op het genoemde tijdstip geen gevolg is gegeven aan de opdracht.
+
+3. Indien het schip in kennelijk onbeheerde toestand verkeert of de scheepsbeheerder onbekend is, roept de beheerder deze op om dit schip op te halen tegen betaling van de verhaalkosten en ligkosten. Bij deze oproep worden tenminste de naam, het type schip, alsmede het registratienummer of het brandmerk van het schip vermeld. De oproep geschiedt door middel van bekendmaking in de nieuwsbladen. Indien het een vreemd schip betreft geeft de beheerder zo spoedig mogelijk kennis van de oproep aan de consulaire ambtenaar van de vreemde Staat, voor zover zodanig consulair ambtenaar in de openbare lichamen Bonaire, Sint Eustatius en Saba benoemd is. Indien er geen consulaire ambtenaar in de openbare lichamen Bonaire, Sint Eustatius en Saba is benoemd, vindt deze kennisgeving plaats aan de ambassadeur of tijdelijk zaakgelastigde van de desbetreffende Staat tot wiens ambtsgebied de openbare lichamen Bonaire, Sint Eustatius en Saba behoren.
+
+4. Ten aanzien van het verhaal van de kosten, bedoeld in het eerste en derde lid, op de scheepsbeheerder van het betrokken schip is [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=70&z=2025-07-01&g=2025-07-01) van toepassing.
+
+##### Artikel 26b
+
+1. Indien een schip dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt gevaar, schade of hinder veroorzaakt of dreigt te veroorzaken, kan de beheerder aan de gezagvoerder of de scheepsbeheerder van dit schip voorschriften stellen, houdende maatregelen ter voorkoming of beëindiging van dat gevaar, die schade of hinder.
+
+2. De gezagvoerder en de scheepsbeheerder zijn verplicht te voldoen aan de voorschriften, bedoeld in het eerste lid.
+
+3. Indien één van de personen, bedoeld in het tweede lid, voldoet aan de verplichting, bedoeld in het tweede lid, vervalt deze verplichting voor de andere.
+
 ##### Artikel 27
 
 1. Het is verboden zonder of in afwijking van een vergunning van de beheerder schadelijke of gevaarlijke stoffen te laden in of te lossen uit een schip, dat zich bevindt in de territoriale zee of in de exclusieve economische zone.
@@ -383,6 +409,14 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 3. Het eerste lid is van toepassing in de exclusieve economische zone, met dien verstande dat de verrichtingen worden uitgevoerd overeenkomstig de wettelijke voorschriften ter bescherming van het mariene milieu en de natuur.
 
+##### Artikel 28a
+
+1. Een schip met een brutotonnage van 300 of meer dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, vaart niet een in Bonaire, Sint Eustatius of Saba, met inbegrip van de territoriale zee, gelegen haven of ankerplaats binnen of vertrekt daaruit niet, indien het voor dat schip overeenkomstig het gestelde in [artikel 28 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=28) dan wel artikel 12, veertiende lid, van het Wrakopruimingsverdrag afgegeven certificaat zich niet aan boord bevindt.
+
+2. Een niet in Nederland geregistreerd schip met een brutotonnage van 300 of meer vaart niet een in Bonaire, Sint Eustatius of Saba of in de territoriale zee gelegen haven of ankerplaats binnen of vertrekt daaruit niet, als voor dat schip niet overeenkomstig artikel 12 van het Wrakopruimingsverdrag een certificaat als bedoeld in dat artikel is afgegeven of indien dat certificaat zich niet aan boord bevindt.
+
+3. In afwijking van het eerste en tweede lid behoeft het certificaat zich niet aan boord te bevinden indien elektronisch, overeenkomstig artikel 12, dertiende lid, van het Wrakopruimingsverdrag, door of vanwege Onze Minister kan worden gecontroleerd of voor het desbetreffende schip een certificaat is afgegeven.
+
 #### § 3.4. Vaartbeperking in beschermde gebieden
 
 ##### Artikel 29
@@ -401,7 +435,7 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=3&pa
 
 4. Onze Minister stelt, in overeenstemming met Onze Minister van Buitenlandse Zaken, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Onderwijs, Cultuur en Wetenschap, de procedure vast voor behandeling en toetsing van een aanvraag van een andere Staat of een bevoegde internationale organisatie, met inachtneming van de desbetreffende bepalingen van het VN-Zeerechtverdrag.
 
-#### § 3.6
+#### § 3.6. Noodrecht
 
 ##### Artikel 31
 
@@ -481,7 +515,7 @@ Indien Onze Minister een melding aangaande een olielozing ontvangt, brengt hij d
 
 - c. het betrokken bestuurscollege.
 
-#### § 4.2. OPRC-Verdrag
+#### § 4.3. Interventieverdrag en rampenbestrijding
 
 ##### Artikel 40
 
@@ -549,6 +583,18 @@ Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nader
 
 3. Aan de ontheffing kunnen voorschriften worden verbonden en de ontheffing kan onder beperkingen worden verleend.
 
+##### Artikel 46a
+
+1. Het is zonder daartoe strekkende vergunning van Onze Minister verboden stoffen in zee te brengen vanaf of vanuit een schip, lucht- vaartuig of bouwwerk ten behoeve van een activiteit waarbij bewust wordt ingegrepen in het mariene milieu om natuurlijke processen te beïnvloeden en die als zodanig is aangewezen in bijlage 4 bij het Protocol van 1996.
+
+2. De beoordeling van de aanvraag voor een vergunning geschiedt met inachtneming van bijlage 4 en bijlage 5 bij het Protocol van 1996.
+
+3. Aan de vergunning kunnen voorschriften worden verbonden en de vergunning kan onder beperkingen worden verleend.
+
+4. Een wijziging van bijlage 4 bij het Protocol van 1996 gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop die wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+5. Indien voorafgaand aan de dag waarop het eerste lid van toepassing wordt op een activiteit, voor die activiteit een ontheffing is verleend op grond van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2025-07-01&g=2025-07-01), of [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2025-07-01&g=2025-07-01), wordt deze geacht te zijn verleend als een vergunning op grond van het eerste lid, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
+
 ##### Artikel 47
 
 1. In de gevallen, noodzakelijk voor de bescherming van mensenlevens, waarin het verbod, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=44&z=2025-07-01&g=2025-07-01) wordt overtreden, maakt de gezagvoerder van het betrokken schip of luchtvaartuig van het voorval melding in het scheepsdagboek onderscheidenlijk het journaal.
@@ -563,7 +609,7 @@ Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nader
 
 2. Alvorens een ontheffing, bedoeld in het eerste lid, wordt verleend, raadpleegt Onze Minister elke andere Staat dat bij het storten betrokken zou kunnen zijn.
 
-#### § 4.4. Protocol van 1996
+#### § 4.5. Grensverdrag
 
 ##### Artikel 49
 
@@ -572,6 +618,176 @@ Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nader
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven ter uitvoering van het Grensverdrag.
 
 3. Bij toepassing van het tweede lid, kan bij of krachtens die algemene maatregel van bestuur worden bepaald dat nadere regels worden gegeven bij eilandsverordening.
+
+#### § 4.6. Wrakopruimingsverdrag
+
+#### Onderdeel 4.6.1. Algemene bepalingen
+
+##### Artikel 49a
+
+In deze paragraaf wordt verstaan onder:
+
+- *daarmee samenhangende belangen:* de belangen van een kuststaat die rechtstreeks worden getroffen of bedreigd door een wrak, zoals:
+
+   - 1°. maritieme activiteiten op of voor de kust, in een haven of in zeemondingen, met inbegrip van de visserij, die een essentieel middel van bestaan vormen voor de betrokken personen;
+
+   - 2°. toeristische attracties en andere economische belangen in het betrokken gebied;
+
+   - 3°. de gezondheid van de bevolking aan de kust en het welzijn van het betrokken gebied, met inbegrip van het behoud van de levende mariene rijkdommen en van de flora en fauna;
+
+   - 4°. infrastructuur buitengaats en onder water;
+
+- *exploitant van het schip:* eigenaar van het schip of elke andere organisatie of persoon, zoals de manager of rompbevrachter, die namens de eigenaar de verantwoordelijkheid heeft aanvaard voor de exploitatie van het schip en die bij de aanvaarding van die verantwoordelijkheid de verplichting op zich heeft genomen zich te kwijten van alle bijbehorende taken en verantwoordelijkheden die worden opgelegd door de Internationale Veiligheidsbeleidscode (ISM-code), zoals gewijzigd;
+
+- *geregistreerde eigenaar:* degene die als eigenaar van het schip is ingeschreven of, bij het ontbreken van registratie, de persoon of personen die eigenaar was of waren van het schip op het tijdstip van het maritiem ongeval, met dien verstande dat indien evenwel een schip eigendom is van een staat en geëxploiteerd wordt door een maatschappij die in die staat is geregistreerd als exploitant van het schip, onder «geregistreerde eigenaar» die maatschappij wordt verstaan;
+
+- *gevaar:* elke situatie of dreiging die:
+
+   - 1°. een gevaar of belemmering vormt voor de scheepvaart, of
+
+   - 2°. naar redelijkerwijs verwacht kan worden zal uitmonden in grote schadelijke gevolgen voor het mariene milieu of schade aan de kustlijn of daarmee samenhangende belangen van een of meer staten;
+
+- *maritiem ongeval:* aanvaring, stranding, ander navigatieincident of ander voorval aan boord van het schip of daarbuiten waardoor materiële schade aan een schip of zijn lading wordt veroorzaakt of dreigt te worden veroorzaakt;
+
+- *Nederlands schip:* schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+
+- *opruiming en opruimen:* elke vorm van voorkomen, beperken of ongedaan maken van het gevaar dat ontstaat door een wrak;
+
+- *schip:* zeeschip, ongeacht het type, met inbegrip van draagvleugelboten, luchtkussenvaartuigen, onderwatervaartuigen, drijvende vaartuigen en drijvende platforms, met uitzondering van platforms die ter plaatse worden ingezet bij de exploratie, exploitatie of productie van minerale rijkdommen van de zeebodem;
+
+- *staat waar het schip geregistreerd is:* met betrekking tot een geregistreerd schip, de staat waarin het schip is geregistreerd en met betrekking tot een niet-geregistreerd schip, de staat waarvan het schip gerechtigd is de vlag te voeren;
+
+- *wrak:*
+
+   - 1°. als gevolg van een maritiem ongeval gezonken of gestrand schip;
+
+   - 2°. als gevolg van een maritiem ongeval gezonken of gestrand deel van een schip, met inbegrip van zaken die zich aan boord van dat schip bevinden of hebben bevonden;
+
+   - 3°. als gevolg van een maritiem ongeval op zee door een schip verloren zaak die is gestrand, gezonken of op zee op drift geraakt, of
+
+   - 4°. schip dat als gevolg van een maritiem ongeval op het punt van zinken of stranden staat of naar redelijkerwijs verwacht kan worden zal zinken of stranden indien niet reeds doeltreffende maatregelen worden genomen om hulp te verlenen aan het in gevaar verkerend schip of andere zaak.
+
+##### Artikel 49b
+
+1. Deze paragraaf is van toepassing op een wrak dat als gevolg van een maritiem ongeval een gevaar vormt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, en de exclusieve economische zone, voor zover niet elders in deze paragraaf anders is bepaald.
+
+##### Artikel 49c
+
+Voor de toepassing van deze paragraaf en de daarop berustende bepalingen, wordt onder het verlenen van hulp aan een schip mede verstaan het verlenen van hulp aan zaken die zich aan boord daarvan bevinden of aan van dat schip afkomstige drijvende of gezonken zaken.
+
+##### Artikel 49d
+
+Indien het schip toebehoort aan een rederij die een boekhouder heeft aangesteld, of indien er sprake is van rompbevrachting, treedt de boekhouder, onderscheidenlijk de rompbevrachter voor de toepassing van deze paragraaf en de daarop berustende bepalingen in de plaats van de geregistreerde eigenaar.
+
+#### Onderdeel 4.6.2. Meldingsverplichting
+
+##### Artikel 49e
+
+1. Indien zich een maritiem ongeval heeft voorgedaan ten gevolge waarvan:
+
+- 1°. een schip is gezonken of gestrand;
+
+- 2°. een deel van een schip, met inbegrip van zaken die zich aan boord van dat schip bevinden of hebben bevonden, is gezonken of gestrand;
+
+- 3°. een door een schip op zee verloren zaak is gestrand, gezonken of op zee op drift geraakt, of
+
+- 4°. een schip op het punt van zinken of stranden staat of naar redelijkerwijs verwacht kan worden, zal zinken of stranden indien niet reeds doeltreffende maatregelen worden genomen om hulp te verlenen, maakt de gezagvoerder of de exploitant van het schip daarvan zo spoedig mogelijk melding en verstrekt daarbij de gegevens, bedoeld in artikel 5, tweede lid, van het Wrakopruimingsverdrag aan Onze Minister, die daarvoor een instantie kan aanwijzen. Zodra door de gezagvoerder of de exploitant van het schip aan de meldplicht uit hoofde van dit artikel is voldaan, is de ander daarvan ontslagen.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de te verstrekken informatie, alsmede de wijze waarop de melding geschiedt en de informatie wordt verstrekt.
+
+3. Het eerste lid en het bepaalde krachtens het tweede lid is niet van toepassing voor zover op grond van [artikel 14 van de Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&artikel=14) aan de bevoegde autoriteiten van het ongeval melding moet worden gemaakt en daarbij de in het tweede lid bedoelde informatie moet worden verstrekt.
+
+#### Onderdeel 4.6.3. Lokaliseren, markeren, waarschuwen, vaststellen gevaar
+
+##### Artikel 49f
+
+1. Zodra Onze Minister op de hoogte is van de aanwezigheid van een wrak, draagt hij er zorg voor dat onmiddellijk de deelnemers aan het scheepvaartverkeer en de betrokken staten worden gewaarschuwd.
+
+2. Indien Onze Minister redenen heeft om aan te nemen dat een wrak een gevaar vormt, draagt hij er zorg voor dat alle redelijkerwijs uitvoerbare maatregelen worden getroffen om de precieze locatie van het wrak vast te stellen.
+
+##### Artikel 49g
+
+1. Zodra Onze Minister op de hoogte is van de aanwezigheid van een wrak, neemt hij een beschikking, inhoudend dat het wrak een gevaar vormt, indien hij daarvoor met inachtneming van de criteria van artikel 6 van het Wrakopruimingsverdrag gronden aanwezig acht.
+
+2. Indien Onze Minister overeenkomstig het eerste lid heeft vastgesteld dat een wrak een gevaar vormt, draagt hij er zorg voor dat:
+
+- a. alle redelijke maatregelen worden getroffen om het wrak te markeren overeenkomstig het toepasselijke internationaal aanvaarde systeem voor bebakening;
+
+- b. de bijzonderheden van de markering van het wrak worden bekendgemaakt met behulp van alle gepaste middelen, met inbegrip van zeevaartkundige publicaties;
+
+- c. de beschikking wordt bekendgemaakt aan de geregistreerde eigenaar en zo spoedig mogelijk wordt medegedeeld aan de staat waar het schip geregistreerd is;
+
+- d. met het bevoegd gezag van de staat waar het schip geregistreerd is en van andere staten die negatieve gevolgen van het wrak ondervinden, overleg wordt gevoerd over de met betrekking tot het wrak te treffen maatregelen.
+
+#### Onderdeel 4.6.4. Opruimen
+
+##### Artikel 49h
+
+1. Indien Onze Minister overeenkomstig [artikel 49g](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.3&artikel=49g&z=2025-07-01&g=2025-07-01) heeft vastgesteld dat een wrak een gevaar vormt, draagt de geregistreerde eigenaar er zorg voor dat:
+
+- a. het wrak wordt opgeruimd en
+
+- b. aan Onze Minister een bewijs wordt overgelegd van verzekering of andere financiële zekerheid zoals vereist op grond van artikel 12 van het Wrakopruimingsverdrag, tenzij een andere belanghebbende een zodanig bewijs heeft overgelegd.
+
+2. De geregistreerde eigenaar kan ter voldoening aan het eerste lid, aanhef en onderdeel a, een overeenkomst sluiten met een hulpverlener of andere persoon teneinde het wrak te doen opruimen.
+
+##### Artikel 49i
+
+Indien Onze Minister overeenkomstig artikel 6 van het Wrakopruimingsverdrag heeft vastgesteld dat een wrak een gevaar vormt:
+
+- a. stelt hij in een beschikking een redelijke termijn binnen welke de geregistreerde eigenaar het wrak moet opruimen, rekening houdend met de aard van het vastgestelde gevaar;
+
+- b. vermeldt hij bij de bekendmaking van de beschikking met de door hem gestelde termijn, dat hij het wrak overeenkomstig [artikel 49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) en [artikel 8:615 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=615) voor rekening van de geregistreerde eigenaar kan doen opruimen, indien de geregistreerde eigenaar verzuimt het wrak binnen die termijn op te ruimen en
+
+- c. stelt hij de geregistreerde eigenaar schriftelijk ervan in kennis dat hij voornemens is onmiddellijk op te treden indien het gevaar bijzonder groot wordt.
+
+##### Artikel 49j
+
+Alvorens het opruimen aanvangt, kan Onze Minister in een tot de geregistreerde eigenaar gerichte beschikking voorschriften vastleggen voor dit opruimen, uitsluitend voor zover dat nodig is om te waarborgen dat het opruimen geschiedt in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
+
+##### Artikel 49k
+
+Wanneer het opruimen door de geregistreerde eigenaar is aangevangen, kan Onze Minister besluiten tot optreden bij het opruimen voor zover dat nodig is om te waarborgen dat dit doeltreffend geschiedt, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
+
+##### Artikel 49l
+
+1. Indien de geregistreerde eigenaar verzuimt het wrak binnen de ingevolge [artikel 49i, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49i&z=2025-07-01&g=2025-07-01), vastgestelde termijn op te ruimen, of indien geen contact kan worden gelegd met de geregistreerde eigenaar, kan Onze Minister het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
+
+2. Voorts kan Onze Minister in omstandigheden waarin onmiddellijk optreden vereist is en hij de staat waar het schip geregistreerd is en de geregistreerde eigenaar daarvan in kennis heeft gesteld, het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
+
+3. Al hetgeen in verband met het opruimen op grond van het eerste lid wordt geborgen, wordt tegen voldoening van de ter zake van de opruiming gemaakte kosten of tegen het stellen van zekerheid voor de voldoening daarvan afgegeven aan belanghebbenden, die zich daartoe aanmelden en zich als zodanig kunnen legitimeren.
+
+4. Onze Minister kan niet aansprakelijk worden gesteld voor afgifte van het geborgene aan een onbevoegde.
+
+5. Indien belanghebbenden zich niet aanmelden, dan wel in gebreke blijven binnen een door Onze Minister te stellen termijn de in het derde lid bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is Onze Minister bevoegd het geborgene te verkopen.
+
+#### Onderdeel 4.6.5. Bepalingen voor de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan
+
+##### Artikel 49m
+
+1. Met betrekking tot een wrak dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, zijn [artikel 49g, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.3&artikel=49g&z=2025-07-01&g=2025-07-01), wat betreft mededeling aan de staat waar het schip geregistreerd is, en onderdeel d, alsmede de kennisgevingsverplichtingen van [artikel 49l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01), niet van toepassing.
+
+### Hoofdstuk 4a. Vergoeding van kosten
+
+##### Artikel 49n
+
+Indien Onze Minister ingevolge [artikel 49j](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49j&z=2025-07-01&g=2025-07-01), [49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) een schip naar een haven in Bonaire, Sint Eustatius of Saba heeft doen brengen, vergoedt Onze Minister de redelijke kosten van die maatregelen van het daartoe bevoegde gezag die redelijkerwijs nodig zijn om het gevaar verbonden aan het brengen van het schip naar, en het verblijf in, de haven dan wel de gevolgen ervan, te voorkomen, te beperken of ongedaan te maken.
+
+##### Artikel 49o
+
+1. Indien een persoon, nadat een maritiem ongeval als bedoeld in[artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.1&artikel=49a&z=2025-07-01&g=2025-07-01) heeft plaatsgevonden, hulp heeft verleend aan het desbetreffende schip en als gevolg van een besluit of handeling van Onze Minister krachtens [artikel 49j](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49j&z=2025-07-01&g=2025-07-01), [49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) bij de hulpverlening schade heeft geleden die hij niet kan verhalen op de geregistreerde eigenaar van dat schip of een andere persoon, kent Onze Minister de hulpverlener op diens verzoek een billijke tegemoetkoming in die schade toe.
+
+2. Een tegemoetkoming als bedoeld in het eerste lid wordt geweigerd, respectievelijk kan slechts gedeeltelijk worden toegekend, indien de door de hulpverlener geleden schade geheel respectievelijk gedeeltelijk is te wijten aan diens schuld of de schuld van degenen voor wie hij aansprakelijk is.
+
+3. Onze Minister neemt bij de toepassing van het eerste lid bij de bepaling van de door de hulpverlener geleden schade in het bijzonder in aanmerking:
+
+- a. de bij de hulpverlening gemaakte kosten;
+
+- b. het verlies of de beschadiging van het bij de hulpverlening ingezet materieel of gebruikte materialen;
+
+- c. de bij de hulpverlening gelopen risico's;
+
+- d. het gederfde hulploon.
 
 ### Hoofdstuk 5. Handhaving
 
@@ -593,6 +809,10 @@ Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nader
 
 4. Een ieder is verplicht aan de krachtens dit artikel aangewezen personen alle medewerking te verlenen.
 
+##### Artikel 51a
+
+De ambtenaren, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2025-07-01&g=2025-07-01), zijn tevens belast met het uitvoeren van maatregelen genomen krachtens [artikel 49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01).
+
 ##### Artikel 52
 
 1. De krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2025-07-01&g=2025-07-01) aangewezen personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd:
@@ -613,7 +833,7 @@ Bij regeling van Onze Minister kunnen, na overleg met de bestuurscolleges, nader
 
 3. Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het derde lid, onderdeel f, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging, indien het betreft de krachtens het eerste lid aangewezen personen, wordt verleend door de procureur-generaal en, indien het betreft de krachtens het tweede lid aangewezen personen, de gezaghebber.
 
-#### § 4.5. Grensverdrag
+#### § 5.2. Aanhouding en vasthouding van schepen
 
 ##### Artikel 53
 
@@ -885,7 +1105,7 @@ Degene die opzettelijk handelt in strijd met het gebod gegeven bij [artikel 26](
 
 4. Onverminderd het recht op volledige schadevergoeding, is het bevoegd gezag bevoegd het gestorte bedrag aan zekerheidsstelling, bedoeld in het eerste lid, aan te wenden tot herstel van de schade. Indien de werkelijke schade minder blijkt te bedragen dan het gestorte bedrag, dan wordt het overschot met de wettelijke rente daarvan, te rekenen van de dag van storting, ter beschikking gesteld van hem, die de zekerheid heeft gesteld.
 
-#### § 5.3. Stilleggen van werkzaamheden
+#### § 6.5. Geheimhoudingsplicht
 
 ##### Artikel 86
 
@@ -939,330 +1159,8 @@ De Algemene Termijnenwet is van toepassing op termijnen gesteld bij of krachtens
 
 ##### Artikel 98
 
-Indien voorafgaand aan de inwerkingtreding van de wet van 14 maart 2018 tot wijziging van de Waterwet en van de Wet maritiem beheer BES in verband met de uitvoering van de wijziging van het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (mariene geo-engineering) (Stb. 98) voor een activiteit als bedoeld in [artikel 46a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46a&z=2025-07-01&g=2025-07-01), een ontheffing is verleend op grond van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2025-07-01&g=2025-07-01), of [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2025-07-01&g=2025-07-01), berust deze op artikel 46a, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
+Indien voorafgaand aan de inwerkingtreding van de wet van 14 maart 2018 tot wijziging van de Waterwet en van de Wet maritiem beheer BES in verband met de uitvoering van de wijziging van het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (mariene geo-engineering) (Stb. 98) voor een activiteit als bedoeld in [artikel 46a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46a&z=2025-07-01&g=2025-07-01), een ontheffing is verleend op grond van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2025-07-01&g=2025-07-01), of [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2025-07-01&g=2025-07-01), berust deze op artikel 46a, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
 
 ##### Artikel 99
 
 Deze wet wordt aangehaald als: Wet maritiem beheer BES.
-
-##### Artikel 19a
-
-1. De gezagvoerder van een schip dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, licht de beheerder in omtrent hem bekende schepen, overblijfselen van schepen en alle andere voorwerpen in zee gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden, die nog niet zijn aangegeven op een nautische kaart.
-
-2. De verplichting, bedoeld in het eerste lid, rust ook op degene die belast is met het beheer van een platform dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt.
-
-##### Artikel 19b
-
-De gezagvoerder van een schip dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, meldt de beheerder zo uitgebreid mogelijk de volgende informatie met betrekking tot een schip, overblijfselen van schepen en alle andere voorwerpen in zee gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden:
-
-- a. de positie;
-
-- b. het aantal personen en de aard van de lading aan boord;
-
-- c. de aard van de schade;
-
-- d. of het schip naar zijn oordeel een gevaar is voor de navigatie;
-
-- e. andere nuttige informatie of bijzonderheden welke het opruimen van het schip vergemakkelijken.
-
-##### Artikel 19c
-
-1. De beheerder is bevoegd overblijfselen van schepen en alle andere voorwerpen in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, die zijn gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden, niet zijnde een wrak als bedoeld in [paragraaf 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&z=2025-07-01&g=2025-07-01), op te ruimen zonder dat hij door belanghebbenden bij het wrak, of het opgeruimde voorwerp dan wel de zaken aan boord van of in of op het wrak of voorwerp, aansprakelijk kan worden gesteld voor door die opruiming aan hen toegebrachte schade.
-
-2. De kosten, krachtens het eerste lid gemaakt, komen ten laste van de beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op degene, die volgens de wet daarvoor aansprakelijk is.
-
-3. Al hetgeen in verband met het opruimen op grond van het eerste lid wordt geborgen, wordt tegen voldoening van de ter zake van de opruiming gemaakte kosten of tegen het stellen van zekerheid voor de voldoening daarvan afgegeven aan belanghebbenden, die zich daartoe aanmelden en zich als zodanig kunnen legitimeren.
-
-4. De beheerder kan niet aansprakelijk worden gesteld voor afgifte van het geborgene aan een onbevoegde.
-
-5. Indien belanghebbenden zich niet aanmelden, dan wel in gebreke blijven binnen een door de beheerder te stellen termijn de in het derde lid bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
-
-#### § 3.2. Verbod inzake bouwwerken, voorwerpen of ander materiaal in zee
-
-#### § 3.3. Regels voor scheepsactiviteiten
-
-##### Artikel 26a
-
-1. De beheerder is, in het belang van de orde, de veiligheid en ter bescherming van het milieu, bevoegd op kosten van de scheepsbeheerder een schip dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt te verhalen of te doen verhalen. Onder verhalen wordt in dit verband verstaan het verplaatsen van een schip naar een ligplaats of bewaarplaats.
-
-2. Met uitzondering van een spoedeisend geval, dan wel ingeval van een onbekende scheepsbeheerder, wordt van de bevoegdheid, bedoeld in het eerste lid, geen gebruik gemaakt dan nadat de beheerder schriftelijk opdracht heeft gegeven aan de scheepsbeheerder om dit schip vóór een in deze opdracht vermeld tijdstip te verhalen naar een door de beheerder aangewezen plaats en gebleken is dat op het genoemde tijdstip geen gevolg is gegeven aan de opdracht.
-
-3. Indien het schip in kennelijk onbeheerde toestand verkeert of de scheepsbeheerder onbekend is, roept de beheerder deze op om dit schip op te halen tegen betaling van de verhaalkosten en ligkosten. Bij deze oproep worden tenminste de naam, het type schip, alsmede het registratienummer of het brandmerk van het schip vermeld. De oproep geschiedt door middel van bekendmaking in de nieuwsbladen. Indien het een vreemd schip betreft geeft de beheerder zo spoedig mogelijk kennis van de oproep aan de consulaire ambtenaar van de vreemde Staat, voor zover zodanig consulair ambtenaar in de openbare lichamen Bonaire, Sint Eustatius en Saba benoemd is. Indien er geen consulaire ambtenaar in de openbare lichamen Bonaire, Sint Eustatius en Saba is benoemd, vindt deze kennisgeving plaats aan de ambassadeur of tijdelijk zaakgelastigde van de desbetreffende Staat tot wiens ambtsgebied de openbare lichamen Bonaire, Sint Eustatius en Saba behoren.
-
-4. Ten aanzien van het verhaal van de kosten, bedoeld in het eerste en derde lid, op de scheepsbeheerder van het betrokken schip is [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=6&paragraaf=6.1&artikel=70&z=2025-07-01&g=2025-07-01) van toepassing.
-
-##### Artikel 26b
-
-1. Indien een schip dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt gevaar, schade of hinder veroorzaakt of dreigt te veroorzaken, kan de beheerder aan de gezagvoerder of de scheepsbeheerder van dit schip voorschriften stellen, houdende maatregelen ter voorkoming of beëindiging van dat gevaar, die schade of hinder.
-
-2. De gezagvoerder en de scheepsbeheerder zijn verplicht te voldoen aan de voorschriften, bedoeld in het eerste lid.
-
-3. Indien één van de personen, bedoeld in het tweede lid, voldoet aan de verplichting, bedoeld in het tweede lid, vervalt deze verplichting voor de andere.
-
-##### Artikel 28a
-
-1. Een schip met een brutotonnage van 300 of meer dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, vaart niet een in Bonaire, Sint Eustatius of Saba, met inbegrip van de territoriale zee, gelegen haven of ankerplaats binnen of vertrekt daaruit niet, indien het voor dat schip overeenkomstig het gestelde in [artikel 28 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=28) dan wel artikel 12, veertiende lid, van het Wrakopruimingsverdrag afgegeven certificaat zich niet aan boord bevindt.
-
-2. Een niet in Nederland geregistreerd schip met een brutotonnage van 300 of meer vaart niet een in Bonaire, Sint Eustatius of Saba of in de territoriale zee gelegen haven of ankerplaats binnen of vertrekt daaruit niet, als voor dat schip niet overeenkomstig artikel 12 van het Wrakopruimingsverdrag een certificaat als bedoeld in dat artikel is afgegeven of indien dat certificaat zich niet aan boord bevindt.
-
-3. In afwijking van het eerste en tweede lid behoeft het certificaat zich niet aan boord te bevinden indien elektronisch, overeenkomstig artikel 12, dertiende lid, van het Wrakopruimingsverdrag, door of vanwege Onze Minister kan worden gecontroleerd of voor het desbetreffende schip een certificaat is afgegeven.
-
-#### § 3.4. Vaartbeperking in beschermde gebieden
-
-#### § 3.5. Wetenschappelijk onderzoek
-
-#### § 3.6. Noodrecht
-
-### Hoofdstuk 4. Uitvoering van specifieke verdragen
-
-#### § 4.1
-
-#### § 4.3. Interventieverdrag en rampenbestrijding
-
-#### § 4.5. Grensverdrag
-
-#### § 4.6. Wrakopruimingsverdrag
-
-### Onderdeel 4.6.1. Algemene bepalingen
-
-##### Artikel 49a
-
-In deze paragraaf wordt verstaan onder:
-
-- **daarmee samenhangende belangen:** de belangen van een kuststaat die rechtstreeks worden getroffen of bedreigd door een wrak, zoals:
-
-- 1°. maritieme activiteiten op of voor de kust, in een haven of in zeemondingen, met inbegrip van de visserij, die een essentieel middel van bestaan vormen voor de betrokken personen;
-
-- 2°. toeristische attracties en andere economische belangen in het betrokken gebied;
-
-- 3°. de gezondheid van de bevolking aan de kust en het welzijn van het betrokken gebied, met inbegrip van het behoud van de levende mariene rijkdommen en van de flora en fauna;
-
-- 4°. infrastructuur buitengaats en onder water;
-
-- **exploitant van het schip:** eigenaar van het schip of elke andere organisatie of persoon, zoals de manager of rompbevrachter, die namens de eigenaar de verantwoordelijkheid heeft aanvaard voor de exploitatie van het schip en die bij de aanvaarding van die verantwoordelijkheid de verplichting op zich heeft genomen zich te kwijten van alle bijbehorende taken en verantwoordelijkheden die worden opgelegd door de Internationale Veiligheidsbeleidscode (ISM-code), zoals gewijzigd;
-
-- **geregistreerde eigenaar:** degene die als eigenaar van het schip is ingeschreven of, bij het ontbreken van registratie, de persoon of personen die eigenaar was of waren van het schip op het tijdstip van het maritiem ongeval, met dien verstande dat indien evenwel een schip eigendom is van een staat en geëxploiteerd wordt door een maatschappij die in die staat is geregistreerd als exploitant van het schip, onder «geregistreerde eigenaar» die maatschappij wordt verstaan;
-
-- **gevaar:** elke situatie of dreiging die:
-
-- 1°. een gevaar of belemmering vormt voor de scheepvaart, of
-
-- 2°. naar redelijkerwijs verwacht kan worden zal uitmonden in grote schadelijke gevolgen voor het mariene milieu of schade aan de kustlijn of daarmee samenhangende belangen van een of meer staten;
-
-- **maritiem ongeval:** aanvaring, stranding, ander navigatieincident of ander voorval aan boord van het schip of daarbuiten waardoor materiële schade aan een schip of zijn lading wordt veroorzaakt of dreigt te worden veroorzaakt;
-
-- **Nederlands schip:** schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
-
-- **opruiming en opruimen:** elke vorm van voorkomen, beperken of ongedaan maken van het gevaar dat ontstaat door een wrak;
-
-- **schip:** zeeschip, ongeacht het type, met inbegrip van draagvleugelboten, luchtkussenvaartuigen, onderwatervaartuigen, drijvende vaartuigen en drijvende platforms, met uitzondering van platforms die ter plaatse worden ingezet bij de exploratie, exploitatie of productie van minerale rijkdommen van de zeebodem;
-
-- **staat waar het schip geregistreerd is:** met betrekking tot een geregistreerd schip, de staat waarin het schip is geregistreerd en met betrekking tot een niet-geregistreerd schip, de staat waarvan het schip gerechtigd is de vlag te voeren;
-
-- **wrak:**
-
-- 1°. als gevolg van een maritiem ongeval gezonken of gestrand schip;
-
-- 2°. als gevolg van een maritiem ongeval gezonken of gestrand deel van een schip, met inbegrip van zaken die zich aan boord van dat schip bevinden of hebben bevonden;
-
-- 3°. als gevolg van een maritiem ongeval op zee door een schip verloren zaak die is gestrand, gezonken of op zee op drift geraakt, of
-
-- 4°. schip dat als gevolg van een maritiem ongeval op het punt van zinken of stranden staat of naar redelijkerwijs verwacht kan worden zal zinken of stranden indien niet reeds doeltreffende maatregelen worden genomen om hulp te verlenen aan het in gevaar verkerend schip of andere zaak.
-
-##### Artikel 49b
-
-1. Deze paragraaf is van toepassing op een wrak dat als gevolg van een maritiem ongeval een gevaar vormt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, en de exclusieve economische zone, voor zover niet elders in deze paragraaf anders is bepaald.
-
-##### Artikel 49c
-
-Voor de toepassing van deze paragraaf en de daarop berustende bepalingen, wordt onder het verlenen van hulp aan een schip mede verstaan het verlenen van hulp aan zaken die zich aan boord daarvan bevinden of aan van dat schip afkomstige drijvende of gezonken zaken.
-
-##### Artikel 49d
-
-Indien het schip toebehoort aan een rederij die een boekhouder heeft aangesteld, of indien er sprake is van rompbevrachting, treedt de boekhouder, onderscheidenlijk de rompbevrachter voor de toepassing van deze paragraaf en de daarop berustende bepalingen in de plaats van de geregistreerde eigenaar.
-
-### Onderdeel 4.6.2. Meldingsverplichting
-
-##### Artikel 49e
-
-1. Indien zich een maritiem ongeval heeft voorgedaan ten gevolge waarvan:
-
-- 1°. een schip is gezonken of gestrand;
-
-- 2°. een deel van een schip, met inbegrip van zaken die zich aan boord van dat schip bevinden of hebben bevonden, is gezonken of gestrand;
-
-- 3°. een door een schip op zee verloren zaak is gestrand, gezonken of op zee op drift geraakt, of
-
-- 4°. een schip op het punt van zinken of stranden staat of naar redelijkerwijs verwacht kan worden, zal zinken of stranden indien niet reeds doeltreffende maatregelen worden genomen om hulp te verlenen, maakt de gezagvoerder of de exploitant van het schip daarvan zo spoedig mogelijk melding en verstrekt daarbij de gegevens, bedoeld in artikel 5, tweede lid, van het Wrakopruimingsverdrag aan Onze Minister, die daarvoor een instantie kan aanwijzen. Zodra door de gezagvoerder of de exploitant van het schip aan de meldplicht uit hoofde van dit artikel is voldaan, is de ander daarvan ontslagen.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de te verstrekken informatie, alsmede de wijze waarop de melding geschiedt en de informatie wordt verstrekt.
-
-3. Het eerste lid en het bepaalde krachtens het tweede lid is niet van toepassing voor zover op grond van [artikel 14 van de Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&artikel=14) aan de bevoegde autoriteiten van het ongeval melding moet worden gemaakt en daarbij de in het tweede lid bedoelde informatie moet worden verstrekt.
-
-### Onderdeel 4.6.3. Lokaliseren, markeren, waarschuwen, vaststellen gevaar
-
-##### Artikel 49f
-
-1. Zodra Onze Minister op de hoogte is van de aanwezigheid van een wrak, draagt hij er zorg voor dat onmiddellijk de deelnemers aan het scheepvaartverkeer en de betrokken staten worden gewaarschuwd.
-
-2. Indien Onze Minister redenen heeft om aan te nemen dat een wrak een gevaar vormt, draagt hij er zorg voor dat alle redelijkerwijs uitvoerbare maatregelen worden getroffen om de precieze locatie van het wrak vast te stellen.
-
-##### Artikel 49g
-
-1. Zodra Onze Minister op de hoogte is van de aanwezigheid van een wrak, neemt hij een beschikking, inhoudend dat het wrak een gevaar vormt, indien hij daarvoor met inachtneming van de criteria van artikel 6 van het Wrakopruimingsverdrag gronden aanwezig acht.
-
-2. Indien Onze Minister overeenkomstig het eerste lid heeft vastgesteld dat een wrak een gevaar vormt, draagt hij er zorg voor dat:
-
-- a. alle redelijke maatregelen worden getroffen om het wrak te markeren overeenkomstig het toepasselijke internationaal aanvaarde systeem voor bebakening;
-
-- b. de bijzonderheden van de markering van het wrak worden bekendgemaakt met behulp van alle gepaste middelen, met inbegrip van zeevaartkundige publicaties;
-
-- c. de beschikking wordt bekendgemaakt aan de geregistreerde eigenaar en zo spoedig mogelijk wordt medegedeeld aan de staat waar het schip geregistreerd is;
-
-- d. met het bevoegd gezag van de staat waar het schip geregistreerd is en van andere staten die negatieve gevolgen van het wrak ondervinden, overleg wordt gevoerd over de met betrekking tot het wrak te treffen maatregelen.
-
-### Onderdeel 4.6.4. Opruimen
-
-##### Artikel 49h
-
-1. Indien Onze Minister overeenkomstig [artikel 49g](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.3&artikel=49g&z=2025-07-01&g=2025-07-01) heeft vastgesteld dat een wrak een gevaar vormt, draagt de geregistreerde eigenaar er zorg voor dat:
-
-- a. het wrak wordt opgeruimd en
-
-- b. aan Onze Minister een bewijs wordt overgelegd van verzekering of andere financiële zekerheid zoals vereist op grond van artikel 12 van het Wrakopruimingsverdrag, tenzij een andere belanghebbende een zodanig bewijs heeft overgelegd.
-
-2. De geregistreerde eigenaar kan ter voldoening aan het eerste lid, aanhef en onderdeel a, een overeenkomst sluiten met een hulpverlener of andere persoon teneinde het wrak te doen opruimen.
-
-##### Artikel 49i
-
-Indien Onze Minister overeenkomstig artikel 6 van het Wrakopruimingsverdrag heeft vastgesteld dat een wrak een gevaar vormt:
-
-- a. stelt hij in een beschikking een redelijke termijn binnen welke de geregistreerde eigenaar het wrak moet opruimen, rekening houdend met de aard van het vastgestelde gevaar;
-
-- b. vermeldt hij bij de bekendmaking van de beschikking met de door hem gestelde termijn, dat hij het wrak overeenkomstig [artikel 49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) en [artikel 8:615 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=615) voor rekening van de geregistreerde eigenaar kan doen opruimen, indien de geregistreerde eigenaar verzuimt het wrak binnen die termijn op te ruimen en
-
-- c. stelt hij de geregistreerde eigenaar schriftelijk ervan in kennis dat hij voornemens is onmiddellijk op te treden indien het gevaar bijzonder groot wordt.
-
-##### Artikel 49j
-
-Alvorens het opruimen aanvangt, kan Onze Minister in een tot de geregistreerde eigenaar gerichte beschikking voorschriften vastleggen voor dit opruimen, uitsluitend voor zover dat nodig is om te waarborgen dat het opruimen geschiedt in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
-
-##### Artikel 49k
-
-Wanneer het opruimen door de geregistreerde eigenaar is aangevangen, kan Onze Minister besluiten tot optreden bij het opruimen voor zover dat nodig is om te waarborgen dat dit doeltreffend geschiedt, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
-
-##### Artikel 49l
-
-1. Indien de geregistreerde eigenaar verzuimt het wrak binnen de ingevolge [artikel 49i, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49i&z=2025-07-01&g=2025-07-01), vastgestelde termijn op te ruimen, of indien geen contact kan worden gelegd met de geregistreerde eigenaar, kan Onze Minister het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
-
-2. Voorts kan Onze Minister in omstandigheden waarin onmiddellijk optreden vereist is en hij de staat waar het schip geregistreerd is en de geregistreerde eigenaar daarvan in kennis heeft gesteld, het wrak langs de naar zijn oordeel meest praktische en snelle weg doen opruimen, in overeenstemming met overwegingen betreffende de veiligheid en de bescherming van het mariene milieu.
-
-3. Al hetgeen in verband met het opruimen op grond van het eerste lid wordt geborgen, wordt tegen voldoening van de ter zake van de opruiming gemaakte kosten of tegen het stellen van zekerheid voor de voldoening daarvan afgegeven aan belanghebbenden, die zich daartoe aanmelden en zich als zodanig kunnen legitimeren.
-
-4. Onze Minister kan niet aansprakelijk worden gesteld voor afgifte van het geborgene aan een onbevoegde.
-
-5. Indien belanghebbenden zich niet aanmelden, dan wel in gebreke blijven binnen een door Onze Minister te stellen termijn de in het derde lid bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is Onze Minister bevoegd het geborgene te verkopen.
-
-### Onderdeel 4.6.5. Bepalingen voor de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan
-
-##### Artikel 49m
-
-1. Met betrekking tot een wrak dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, zijn [artikel 49g, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.3&artikel=49g&z=2025-07-01&g=2025-07-01), wat betreft mededeling aan de staat waar het schip geregistreerd is, en onderdeel d, alsmede de kennisgevingsverplichtingen van [artikel 49l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01), niet van toepassing.
-
-### Hoofdstuk 4a. Vergoeding van kosten
-
-##### Artikel 49n
-
-Indien Onze Minister ingevolge [artikel 49j](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49j&z=2025-07-01&g=2025-07-01), [49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) een schip naar een haven in Bonaire, Sint Eustatius of Saba heeft doen brengen, vergoedt Onze Minister de redelijke kosten van die maatregelen van het daartoe bevoegde gezag die redelijkerwijs nodig zijn om het gevaar verbonden aan het brengen van het schip naar, en het verblijf in, de haven dan wel de gevolgen ervan, te voorkomen, te beperken of ongedaan te maken.
-
-##### Artikel 49o
-
-1. Indien een persoon, nadat een maritiem ongeval als bedoeld in[artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.1&artikel=49a&z=2025-07-01&g=2025-07-01) heeft plaatsgevonden, hulp heeft verleend aan het desbetreffende schip en als gevolg van een besluit of handeling van Onze Minister krachtens [artikel 49j](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49j&z=2025-07-01&g=2025-07-01), [49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01) bij de hulpverlening schade heeft geleden die hij niet kan verhalen op de geregistreerde eigenaar van dat schip of een andere persoon, kent Onze Minister de hulpverlener op diens verzoek een billijke tegemoetkoming in die schade toe.
-
-2. Een tegemoetkoming als bedoeld in het eerste lid wordt geweigerd, respectievelijk kan slechts gedeeltelijk worden toegekend, indien de door de hulpverlener geleden schade geheel respectievelijk gedeeltelijk is te wijten aan diens schuld of de schuld van degenen voor wie hij aansprakelijk is.
-
-3. Onze Minister neemt bij de toepassing van het eerste lid bij de bepaling van de door de hulpverlener geleden schade in het bijzonder in aanmerking:
-
-- a. de bij de hulpverlening gemaakte kosten;
-
-- b. het verlies of de beschadiging van het bij de hulpverlening ingezet materieel of gebruikte materialen;
-
-- c. de bij de hulpverlening gelopen risico's;
-
-- d. het gederfde hulploon.
-
-### Hoofdstuk 5. Handhaving
-
-#### § 5.1. Toezicht en opsporing
-
-##### Artikel 51a
-
-De ambtenaren, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=5&paragraaf=5.1&artikel=51&z=2025-07-01&g=2025-07-01), zijn tevens belast met het uitvoeren van maatregelen genomen krachtens [artikel 49k](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49k&z=2025-07-01&g=2025-07-01) of [49l](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.6&deel=4.6.4&artikel=49l&z=2025-07-01&g=2025-07-01).
-
-#### § 5.2. Aanhouding en vasthouding van schepen
-
-#### § 5.3. Stilleggen van werkzaamheden
-
-### Hoofdstuk 6. Sancties
-
-#### § 6.1. Bestuursdwang
-
-#### § 6.2. Last onder dwangsom
-
-#### § 6.3. Strafbepalingen
-
-#### § 6.4. Zekerheidsstelling
-
-#### § 6.5. Geheimhoudingsplicht
-
-### Hoofdstuk 7. [vervallen]
-
-### Hoofdstuk 8. Slotbepalingen
-
-##### Artikel 46a
-
-1. Het is zonder daartoe strekkende vergunning van Onze Minister verboden stoffen in zee te brengen vanaf of vanuit een schip, lucht- vaartuig of bouwwerk ten behoeve van een activiteit waarbij bewust wordt ingegrepen in het mariene milieu om natuurlijke processen te beïnvloeden en die als zodanig is aangewezen in bijlage 4 bij het Protocol van 1996.
-
-2. De beoordeling van de aanvraag voor een vergunning geschiedt met inachtneming van bijlage 4 en bijlage 5 bij het Protocol van 1996.
-
-3. Aan de vergunning kunnen voorschriften worden verbonden en de vergunning kan onder beperkingen worden verleend.
-
-4. Een wijziging van bijlage 4 bij het Protocol van 1996 gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop die wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-5. Indien voorafgaand aan de dag waarop het eerste lid van toepassing wordt op een activiteit, voor die activiteit een ontheffing is verleend op grond van [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=45&z=2025-07-01&g=2025-07-01), of [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4&paragraaf=4.4&artikel=46&z=2025-07-01&g=2025-07-01), wordt deze geacht te zijn verleend als een vergunning op grond van het eerste lid, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
-
-#### § 4.6. Wrakopruimingsverdrag
-
-### Onderdeel 4.6.1. Algemene bepalingen
-
-### Onderdeel 4.6.2. Meldingsverplichting
-
-### Onderdeel 4.6.3. Lokaliseren, markeren, waarschuwen, vaststellen gevaar
-
-### Onderdeel 4.6.4. Opruimen
-
-### Onderdeel 4.6.5. Bepalingen voor de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan
-
-### Hoofdstuk 4a. Vergoeding van kosten
-
-### Hoofdstuk 5. Handhaving
-
-#### § 5.1. Toezicht en opsporing
-
-#### § 5.2. Aanhouding en vasthouding van schepen
-
-### Hoofdstuk 6. Sancties
-
-#### § 6.1. Bestuursdwang
-
-#### § 6.2. Last onder dwangsom
-
-#### § 6.3. Strafbepalingen
-
-#### § 6.4. Zekerheidsstelling
-
-#### § 6.5. Geheimhoudingsplicht
-
-### Hoofdstuk 7. [vervallen]
-
-### Hoofdstuk 8. Slotbepalingen

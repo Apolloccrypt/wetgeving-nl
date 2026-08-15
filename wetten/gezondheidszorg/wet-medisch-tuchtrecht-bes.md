@@ -1,63 +1,39 @@
 ---
 title: "Wet medisch tuchtrecht BES"
 identifier: "BWBR0028542"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028542"
+categorie: "Gezondheidszorg"
 soort: "wet-BES"
-stam_id: "10842653"
-version_id: "25186932"
-internal_id: "C36016561"
-label_id: "10817424"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028542/2024-01-01/0"
-intitule_bron: "Stb.2010-642"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2018-260"
-original_signed_date: "2018-07-11"
-original_published_date: "2018-08-24"
-original_effect: "structuurwijziging"
-original_dossier: "34629"
-original_url_id: "stb-2018-260"
-entry_into_force_date: "2018-07-11"
-entry_into_force_dossier: "34629"
-jci_1_3: "jci1.3:c:BWBR0028542&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0028542&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2018-07-11"
-entry_into_force: "2018-07-11"
+publicatiedatum: 2018-07-11
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0028542"
+opgehaald: 2026-08-15
 ---
+
 # Wet medisch tuchtrecht BES
 
 ##### Artikel 1
 
 In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **geneeskundige:** degene die tot de uitoefening van de geneeskunde bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
+- a. *geneeskundige:* degene die tot de uitoefening van de geneeskunde bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
 
-- b. **tandheelkundige:** degene die tot de uitoefening van de tandheelkunst bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
+- b. *tandheelkundige:* degene die tot de uitoefening van de tandheelkunst bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
 
-- c. **verloskundige:** degene die tot de uitoefening van de praktijk als verloskundige bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
+- c. *verloskundige:* degene die tot de uitoefening van de praktijk als verloskundige bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
 
-- d. **apotheker:** degene die tot de uitoefening van de artsenijbereidkunde bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
+- d. *apotheker:* degene die tot de uitoefening van de artsenijbereidkunde bevoegd is op grond van bij of krachtens algemene maatregel van bestuur te stellen regels;
 
-- e. **College:** het college, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=8&z=2024-01-01&g=2024-01-01);
+- e. *College:* het college, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=8&z=2024-01-01&g=2024-01-01);
 
-- f. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- f. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- g. **openbare lichamen:** openbare lichamen Bonaire, Sint Eustatius en Saba;
+- g. *openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- h. **Gemeenschappelijk Hof:** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- h. *Gemeenschappelijk Hof:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- i. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport.
+- i. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
@@ -95,11 +71,11 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 
 - c. oplegging van een bij of krachtens algemene maatregel van bestuur vast te stellen geldboete;
 
-- d. schorsing in de uitoefening van de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde voor ten hoogste één jaar;
+- d. schorsing in de uitoefening van de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde voor ten hoogste één jaar;
 
-- e. voorwaardelijke schorsing in de uitoefening van de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde;
+- e. voorwaardelijke schorsing in de uitoefening van de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde;
 
-- f. gedeeltelijke ontzegging van de bevoegdheid om de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde uit te oefenen;
+- f. gedeeltelijke ontzegging van de bevoegdheid om de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde uit te oefenen;
 
 - g. ontzegging van de bevoegdheid om de geneeskunde, tandheelkunst, verloskunde, onderscheidenlijk de artsenijbereidkunde uit te oefenen.
 
@@ -116,6 +92,18 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 1. De toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01) vermelde maatregelen geschiedt in eerste aanleg door het Medisch Tuchtcollege.
 
 2. Het College is gevestigd op een van de openbare lichamen en houdt zo nodig mede zitting op de andere openbare lichamen.
+
+##### Artikel 8a
+
+1. In gevallen waarin een der in [artikel 7, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregelen is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de betrokkene in de hem ontzegde bevoegdheid wordt hersteld.
+
+2. In een besluit krachtens het eerste lid kunnen, al dan niet met een beperking tot een in dat besluit te bepalen proeftijd, voorwaarden worden gesteld, door de betrokkene in acht te nemen. Indien blijkt dat de betrokkene zich schuldig heeft gemaakt aan niet-naleving van een gestelde voorwaarde, kan, onder intrekking van dat besluit, bij koninklijk besluit worden bepaald dat de opgelegde maatregel opnieuw van kracht wordt.
+
+3. De voordracht tot een besluit krachtens het eerste of tweede lid, tweede volzin, wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van het college.
+
+##### Artikel 8b
+
+Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarbij een in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregel werd opgelegd, is mogelijk, wanneer naderhand omstandigheden zijn gebleken die naar ernstig vermoeden tot een afwijkende beslissing zouden hebben geleid, indien zij tijdig bekend waren geworden. Bij algemene maatregel van bestuur worden hieromtrent nadere regels gesteld. De herziening zal niet kunnen leiden tot een wijziging in hetgeen voorheen was beslist, ten nadele van de betrokkene.
 
 ##### Artikel 9
 
@@ -151,7 +139,7 @@ De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a),
 
 ##### Artikel 10b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
@@ -254,15 +242,3 @@ Op klachten die aanhangig zijn gemaakt voor de datum van inwerkingtreding van de
 ##### Artikel 20
 
 Deze wet wordt aangehaald als: Wet medisch tuchtrecht BES.
-
-##### Artikel 8a
-
-1. In gevallen waarin een der in [artikel 7, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregelen is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de betrokkene in de hem ontzegde bevoegdheid wordt hersteld.
-
-2. In een besluit krachtens het eerste lid kunnen, al dan niet met een beperking tot een in dat besluit te bepalen proeftijd, voorwaarden worden gesteld, door de betrokkene in acht te nemen. Indien blijkt dat de betrokkene zich schuldig heeft gemaakt aan niet-naleving van een gestelde voorwaarde, kan, onder intrekking van dat besluit, bij koninklijk besluit worden bepaald dat de opgelegde maatregel opnieuw van kracht wordt.
-
-3. De voordracht tot een besluit krachtens het eerste of tweede lid, tweede volzin, wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van het college.
-
-##### Artikel 8b
-
-Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarbij een in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregel werd opgelegd, is mogelijk, wanneer naderhand omstandigheden zijn gebleken die naar ernstig vermoeden tot een afwijkende beslissing zouden hebben geleid, indien zij tijdig bekend waren geworden. Bij algemene maatregel van bestuur worden hieromtrent nadere regels gesteld. De herziening zal niet kunnen leiden tot een wijziging in hetgeen voorheen was beslist, ten nadele van de betrokkene.

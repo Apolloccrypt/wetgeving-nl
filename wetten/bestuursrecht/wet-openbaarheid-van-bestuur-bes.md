@@ -1,38 +1,16 @@
 ---
 title: "Wet openbaarheid van bestuur BES"
 identifier: "BWBR0028154"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028154"
+categorie: "Bestuursrecht"
 soort: "wet-BES"
-stam_id: "10682653"
-version_id: "17642822"
-internal_id: "C24978121"
-label_id: "10657464"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028154/2010-10-10/0"
-intitule_bron: "Stb.2010-391"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-391"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-391"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028154&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028154&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028154"
+opgehaald: 2026-08-15
 ---
+
 # Wet openbaarheid van bestuur BES
 
 #### § 1. Definities
@@ -41,21 +19,21 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bestuursorgaan:**
+- a. *bestuursorgaan:*
 
-- –. de bestuurorganen van de openbare lichamen die het rechtstreeks aangaat;
+   - – de bestuurorganen van de openbare lichamen die het rechtstreeks aangaat;
 
-- –. de Rijksvertegenwoordiger;
+   - – de Rijksvertegenwoordiger;
 
-- b. **document:** een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat;
+- b. *document:* een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat;
 
-- c. **bestuurlijke aangelegenheid:** een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan;
+- c. *bestuurlijke aangelegenheid:* een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan;
 
-- d. **niet-ambtelijke advies-commissie:** een van overheidswege ingestelde commissie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de commissie zijn voorgelegd. Ambtenaren, die secretaris of adviserend lid zijn van een adviescommissie worden voor de toepassing van deze bepaling niet als leden daarvan beschouwd;
+- d. *niet-ambtelijke advies-commissie:* een van overheidswege ingestelde commissie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de commissie zijn voorgelegd. Ambtenaren, die secretaris of adviserend lid zijn van een adviescommissie worden voor de toepassing van deze bepaling niet als leden daarvan beschouwd;
 
-- e. **openbare lichamen:** openbare lichamen Bonaire, Sint Eustatius en Saba;
+- e. *openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- f. **Rijksvertegenwoordiger:** Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- f. *Rijksvertegenwoordiger:* Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 #### § 2. Openbaarheid
 

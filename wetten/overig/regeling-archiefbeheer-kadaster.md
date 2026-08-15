@@ -1,43 +1,17 @@
 ---
 title: "Regeling archiefbeheer Kadaster"
 identifier: "BWBR0027605"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-02-06"
-last_updated: "2021-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027605"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10516963"
-version_id: "17326482"
-internal_id: "C23910191"
-label_id: "10492274"
-dtd_version: "2.0"
-original_entry_into_force: "2004-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027605/2021-02-06/0"
-intitule_bron: "Stcrt.2004-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-20"
-intitule_published: "2004-05-06"
-intitule_in_force: "2004-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-86"
-original_signed_date: "2004-04-20"
-original_published_date: "2004-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-86-p13-SC64974"
-entry_into_force_date: "2004-05-08"
-jci_1_3: "jci1.3:c:BWBR0027605&z=2021-02-06&g=2021-02-06"
-jci_1_0: "1.0:c:BWBR0027605&g=2021-02-06"
-citeertitel_status: "officieel"
-signed_date: "2004-04-20"
-entry_into_force: "2004-05-08"
+publicatiedatum: 2004-05-08
+laatste_update: 2021-02-06
+status: geldig
+toestand: 2021-02-06
+bron: "https://wetten.overheid.nl/BWBR0027605"
+opgehaald: 2026-08-15
 ---
+
 # Regeling archiefbeheer Kadaster
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -45,39 +19,40 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
+- a. *wet:*
+ [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
 
-- b. **de Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- b. *de Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- c. **archief:** geheel van archiefbescheiden, ontvangen of opgemaakt door de Dienst en naar hun aard bestemd daaronder te berusten;
+- c. *archief:* geheel van archiefbescheiden, ontvangen of opgemaakt door de Dienst en naar hun aard bestemd daaronder te berusten;
 
-- d. **archiefbeheer:** feitelijke werkzaamheden om de archiefbescheiden van de Dienst in goede, geordende en toegankelijke staat te brengen en te bewaren, met toepassing van de daarvoor geldende NEN-ISO standaard, en de daarbij ondersteunende standaarden en richtlijnen;
+- d. *archiefbeheer:* feitelijke werkzaamheden om de archiefbescheiden van de Dienst in goede, geordende en toegankelijke staat te brengen en te bewaren, met toepassing van de daarvoor geldende NEN-ISO standaard, en de daarbij ondersteunende standaarden en richtlijnen;
 
-- e. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), zijnde archiefwaardige informatie en nader gespecificeerd in de ordeningsstructuur, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027605&hoofdstuk=2&artikel=3&z=2021-02-06&g=2021-02-06);
+- e. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), zijnde archiefwaardige informatie en nader gespecificeerd in de ordeningsstructuur, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027605&hoofdstuk=2&artikel=3&z=2021-02-06&g=2021-02-06);
 
-- f. **beheerder:** directeur of hoofd van een organisatieonderdeel, dan wel domeineigenaar;
+- f. *beheerder:* directeur of hoofd van een organisatieonderdeel, dan wel domeineigenaar;
 
-- g. **documentatie:** documenten en records die door zijn nauwe verbondenheid met het archiefstuk, onderdeel is van archiefbescheiden;
+- g. *documentatie:* documenten en records die door zijn nauwe verbondenheid met het archiefstuk, onderdeel is van archiefbescheiden;
 
-- h. **domeineigenaar:** persoon die verantwoordelijk is voor een werkproces;
+- h. *domeineigenaar:* persoon die verantwoordelijk is voor een werkproces;
 
-- i. **organisatieonderdeel:** een onderdeel van de Dienst, bedoeld in [artikel 1, van het Reglement inrichting organisatie Kadaster 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035964&artikel=1);
+- i. *organisatieonderdeel:* een onderdeel van de Dienst, bedoeld in [artikel 1, van het Reglement inrichting organisatie Kadaster 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035964&artikel=1);
 
-- j. **raadpleging:** beschikbaarstelling van archiefbescheiden voor inzage;
+- j. *raadpleging:* beschikbaarstelling van archiefbescheiden voor inzage;
 
-- k. **Recordsmanager:** degene die namens het bestuur van de Dienst belast is met de uitvoering van het archiefbeheer;
+- k. *Recordsmanager:* degene die namens het bestuur van de Dienst belast is met de uitvoering van het archiefbeheer;
 
-- l. **selectielijst:** document waarin voor de Dienst is omschreven welke archiefbescheiden voor blijvende bewaring of vernietiging in aanmerking komen;
+- l. *selectielijst:* document waarin voor de Dienst is omschreven welke archiefbescheiden voor blijvende bewaring of vernietiging in aanmerking komen;
 
-- m. **terbeschikkingstelling:** in tijdelijk gebruik geven van archiefbescheiden aan een ander organisatieonderdeel;
+- m. *terbeschikkingstelling:* in tijdelijk gebruik geven van archiefbescheiden aan een ander organisatieonderdeel;
 
-- n. **uitlening:** tijdelijk in gebruik geven van archiefbescheiden aan medeoverheden;
+- n. *uitlening:* tijdelijk in gebruik geven van archiefbescheiden aan medeoverheden;
 
-- o. **vervanging:** vervangen van archiefbescheiden door reproducties, waarna de vervangen bescheiden worden vernietigd;
+- o. *vervanging:* vervangen van archiefbescheiden door reproducties, waarna de vervangen bescheiden worden vernietigd;
 
-- p. **vervreemding:** overdracht van de zorgplicht aan een andere organisatie als bedoeld in [artikel 8 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8);
+- p. *vervreemding:* overdracht van de zorgplicht aan een andere organisatie als bedoeld in [artikel 8 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8);
 
-- q. **werkproces:** uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door de Dienst worden ontvangen of opgemaakt als naar hun aard bestemd om onder de Dienst te berusten.
+- q. *werkproces:* uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door de Dienst worden ontvangen of opgemaakt als naar hun aard bestemd om onder de Dienst te berusten.
 
 ##### Artikel 2. Reikwijdte van de regeling
 
@@ -245,7 +220,7 @@ Het bestuur van de Dienst draagt zorg voor een adequate informatiebeveiliging, w
 
 ##### Artikel 14. Overdracht van archiefbescheiden aan het semi-statisch archief
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Overbrenging van archiefbescheiden naar een archiefbewaarplaats
 
@@ -263,7 +238,7 @@ Vervallen
 
 ##### Artikel 16. Digitale archiefbescheiden
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -313,30 +288,8 @@ Deze regeling kan worden aangehaald als: Regeling archiefbeheer Kadaster.
 
 ##### Artikel 23. Intrekking van bestaande regelingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-## Bijlage 1
-
-Vervallen
-
-## Bijlage 2
-
-Vervallen
-
-## Bijlage 3
-
-Vervallen
-
-## Bijlage 4
-
-Vervallen
-
-## Bijlage 5
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

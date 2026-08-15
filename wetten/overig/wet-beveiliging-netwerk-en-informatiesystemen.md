@@ -1,47 +1,19 @@
 ---
 title: "Wet van 17 oktober 2018, houdende regels ter implementatie van richtlijn (EU) 2016/1148 (Wet beveiliging netwerk- en informatiesystemen)"
+citeertitel: "Wet beveiliging netwerk- en informatiesystemen"
 identifier: "BWBR0041515"
-country: "nl"
-rank: "wet"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0041515"
+categorie: "Overig"
 soort: "wet"
-stam_id: "14849493"
-version_id: "25386262"
-internal_id: "C36271231"
-label_id: "14801474"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0041515/2024-10-01/0"
-intitule_bron: "Stb.2018-387"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2018-10-17"
-intitule_published: "2018-11-08"
-intitule_in_force: "2018-11-08"
-intitule_status: "goed"
-original_publication: "Stb.2018-387"
-original_signed_date: "2018-10-17"
-original_published_date: "2018-11-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "34883"
-original_url_id: "stb-2018-387"
-entry_into_force_date: "2018-11-09"
-jci_1_3: "jci1.3:c:BWBR0041515&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0041515&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Wet beveiliging netwerk- en informatiesystemen"
-signed_date: "2018-10-17"
-entry_into_force: "2018-11-09"
+publicatiedatum: 2018-11-09
+laatste_update: 2024-10-01
+status: vervallen
+vervallen_op: 2026-08-14
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0041515"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 oktober 2018, houdende regels ter implementatie van richtlijn (EU) 2016/1148 (Wet beveiliging netwerk- en informatiesystemen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het gelet op richtlijn (EU) 2016/1148 noodzakelijk is om wettelijke bepalingen vast te stellen ter bevordering van de beveiliging van netwerk- en informatiesystemen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,31 +21,31 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanbieder:** overheidsorganisatie of privaatrechtelijke rechtspersoon die een dienst exploiteert, beheert of beschikbaar stelt;
+- – *aanbieder:* overheidsorganisatie of privaatrechtelijke rechtspersoon die een dienst exploiteert, beheert of beschikbaar stelt;
 
-- –. **aanbieder van een essentiële dienst:** aanbieder van een essentiële dienst als bedoeld in artikel 4 van de NIB-richtlijn, aangewezen op grond van [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2024-10-01&g=2024-10-01);
+- – *aanbieder van een essentiële dienst:* aanbieder van een essentiële dienst als bedoeld in artikel 4 van de NIB-richtlijn, aangewezen op grond van [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=1&artikel=5&z=2024-10-01&g=2024-10-01);
 
-- –. **beveiliging van netwerk- en informatiesystemen, digitale dienst, incident, netwerk- en informatiesysteem, norm, onderscheidenlijk afbreekrisico:** hetgeen daaronder wordt verstaan in artikel 4 van de NIB-richtlijn;
+- – *beveiliging van netwerk- en informatiesystemen, digitale dienst, incident, netwerk- en informatiesysteem, norm, onderscheidenlijk afbreekrisico:* hetgeen daaronder wordt verstaan in artikel 4 van de NIB-richtlijn;
 
-- –. **bevoegde autoriteit:** bevoegde autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2024-10-01&g=2024-10-01);
+- – *bevoegde autoriteit:* bevoegde autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2024-10-01&g=2024-10-01);
 
-- –. **centraal contactpunt:** centraal contactpunt als bedoeld in artikel 8, derde lid, van de NIB-richtlijn;
+- – *centraal contactpunt:* centraal contactpunt als bedoeld in artikel 8, derde lid, van de NIB-richtlijn;
 
-- –. **CSIRT:** Computer security incident response team als bedoeld in artikel 9 van de NIB-richtlijn;
+- – *CSIRT:* Computer security incident response team als bedoeld in artikel 9 van de NIB-richtlijn;
 
-- –. **CSIRT voor digitale diensten:** CSIRT, aangewezen op grond van [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2024-10-01&g=2024-10-01);
+- – *CSIRT voor digitale diensten:* CSIRT, aangewezen op grond van [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=3&artikel=4&z=2024-10-01&g=2024-10-01);
 
-- –. **digitaledienstverlener:** rechtspersoon die een digitale dienst aanbiedt en gelet op artikel 18, eerste en tweede lid, van de NIB-richtlijn onder de jurisdictie van Nederland valt, met uitzondering van kleine en micro-ondernemingen als bedoeld in artikel 16, elfde lid, van de NIB-richtlijn;
+- – *digitaledienstverlener:* rechtspersoon die een digitale dienst aanbiedt en gelet op artikel 18, eerste en tweede lid, van de NIB-richtlijn onder de jurisdictie van Nederland valt, met uitzondering van kleine en micro-ondernemingen als bedoeld in artikel 16, elfde lid, van de NIB-richtlijn;
 
-- –. **NIB-richtlijn:** richtlijn (EU) 2016/1148 van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);
+- – *NIB-richtlijn:* richtlijn (EU) 2016/1148 van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);
 
-- –. **Onze Minister:** Onze Minister van Justitie en Veiligheid;
+- – *Onze Minister:* Onze Minister van Justitie en Veiligheid;
 
-- –. **vitale aanbieder:**
+- – *vitale aanbieder:*
 
-- a. aanbieder van een essentiële dienst;
+   - a. aanbieder van een essentiële dienst;
 
-- b. aanbieder van een andere dienst waarvan de continuïteit van vitaal belang is voor de Nederlandse samenleving.
+   - b. aanbieder van een andere dienst waarvan de continuïteit van vitaal belang is voor de Nederlandse samenleving.
 
 ### Hoofdstuk 2. Taken van Onze Minister
 
@@ -103,7 +75,7 @@ Onze Minister is:
 
 2. Voorts heeft Onze Minister, ter voorkoming van nadelige maatschappelijke gevolgen in en buiten Nederland, tot taak: het verstrekken van ingevolge het eerste lid, onder e, verkregen gegevens over dreigingen en incidenten met betrekking tot andere netwerk- en informatiesystemen dan bedoeld in de aanhef van het eerste lid aan:
 
-- a. organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek daarover te informeren, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;
+- a. organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek daarover te informeren, aangewezen bij regeling van Onze Minister of behorend tot een bij die regeling aangewezen categorie;
 
 - b. CSIRT’s;
 
@@ -111,9 +83,9 @@ Onze Minister is:
 
 - d. aanbieders van internettoegangs- en internetcommunicatiediensten ten behoeve van het informeren van gebruikers van die diensten;
 
-- e. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2);
+- e. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2);
 
-- f. aanbieders, niet zijnde een vitale aanbieder of een andere aanbieder die onderdeel is van de rijksoverheid, indien een dreiging of incident aanzienlijke gevolgen heeft of kan hebben voor de continuïteit van hun dienstverlening en voor de verstrekking van gegevens een onder a tot en met c of e bedoelde organisatie ontbreekt.
+- f. aanbieders, niet zijnde een vitale aanbieder of een andere aanbieder die onderdeel is van de rijksoverheid, indien een dreiging of incident aanzienlijke gevolgen heeft of kan hebben voor de continuïteit van hun dienstverlening en voor de verstrekking van gegevens een onder a tot en met c of e bedoelde organisatie ontbreekt.
 
 3. Voorts heeft Onze Minister tot taak: de behandeling van vrijwillige meldingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&hoofdstuk=4&paragraaf=4&artikel=16&z=2024-10-01&g=2024-10-01).
 
@@ -123,14 +95,14 @@ Onze Minister is:
 
 1. De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, van de NIB-richtlijn, is voor de sectoren, genoemd in bijlage II van die richtlijn:
 
-| **Bevoegde autoriteit** | **Sector** |
+| Bevoegde autoriteit | Sector |
 | --- | --- |
 | Onze Minister van Economische Zaken en Klimaat | energie |
-| Onze Minister van Economische Zaken en Klimaat | digitale infrastructuur |
+| digitale infrastructuur |  |
 | De Nederlandsche Bank N.V. | bankwezen |
-| De Nederlandsche Bank N.V. | infrastructuur voor de financiële markt |
+| infrastructuur voor de financiële markt |  |
 | Onze Minister van Infrastructuur en Waterstaat | vervoer |
-| Onze Minister van Infrastructuur en Waterstaat | levering en distributie van drinkwater |
+| levering en distributie van drinkwater |  |
 | Onze Minister voor Medische Zorg | gezondheidszorg |
 
 2. Voor de digitale diensten, genoemd in bijlage III van de NIB-richtlijn, is:
@@ -341,7 +313,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 - d. de inlichtingen- en veiligheidsdiensten, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- e. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2).
+- e. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2).
 
 3. Als een vitale aanbieder, of een andere aanbieder die onderdeel is van de rijksoverheid, onvoldoende gevolg geeft aan een door Onze Minister gegeven advies, kan Onze Minister in het advies opgenomen gegevens als bedoeld in het tweede lid verstrekken aan de bevoegde autoriteit of Onze betrokken Minister.
 
@@ -373,7 +345,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 - c. de inlichtingen- en veiligheidsdiensten, bedoeld in de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- d. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2).
+- d. Onze Minister van Economische Zaken en Klimaat, ten behoeve van de uitvoering van de taken, bedoeld in [artikel 2, eerste lid, van de Wet bevordering digitale weerbaarheid bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2).
 
 3. Als een digitaledienstverlener onvoldoende gevolg geeft aan een door het CSIRT voor digitale diensten gegeven advies, kan het CSIRT voor digitale diensten in het advies opgenomen gegevens als bedoeld in het tweede lid verstrekken aan de bevoegde autoriteit of Onze Minister van Economische Zaken en Klimaat.
 
@@ -457,23 +429,23 @@ De bevoegde autoriteit is bevoegd tot oplegging van een last onder bestuursdwang
 
 ### Hoofdstuk 7. Slotbepalingen
 
-##### Artikel 30. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 30. (wijziging Algemene wet bestuursrecht)
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 31. (samenloop met wetsvoorstel Wet bekostiging financieel toezicht 2019)
 
-Wijzigt de Wet bekostiging financieel toezicht 2019.
+*Wijzigt de Wet bekostiging financieel toezicht 2019.*
 
-##### Artikel 32. (samenloop met [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896))
+##### Artikel 32. (samenloop met Wet op de inlichtingen- en veiligheidsdiensten 2017)
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 33. (samenloop met wetsvoorstel Wet open overheid)
 
-Wijzigt de Wet open overheid.
+*Wijzigt de Wet open overheid.*
 
-##### Artikel 34. (intrekking [Wet gegevensverwerking en meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0039866))
+##### Artikel 34. (intrekking Wet gegevensverwerking en meldplicht cybersecurity)
 
 De [Wet gegevensverwerking en meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0039866) wordt ingetrokken.
 
@@ -484,5 +456,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 36. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet beveiliging netwerk- en informatiesystemen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

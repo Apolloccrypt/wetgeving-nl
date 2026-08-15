@@ -1,38 +1,16 @@
 ---
 title: "Werkliedenwet 1944 BES"
 identifier: "BWBR0028467"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-08-30"
-last_updated: "2011-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028467"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10797053"
-version_id: "17775642"
-internal_id: "C24826011"
-label_id: "10772204"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028467/2011-08-30/0"
-intitule_bron: "Stb.2010-393"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-393"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-393"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028467&z=2011-08-30&g=2011-08-30"
-jci_1_0: "1.0:c:BWBR0028467&g=2011-08-30"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-08-30
+status: geldig
+toestand: 2011-08-30
+bron: "https://wetten.overheid.nl/BWBR0028467"
+opgehaald: 2026-08-15
 ---
+
 # Werkliedenwet 1944 BES
 
 ### Hoofdstuk I. Algemene Bepalingen
@@ -45,9 +23,9 @@ In deze wet wordt verstaan onder ‘Onderlinge regeling’: de [Onderlinge regel
 
 In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
+- b. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 2
 
@@ -55,219 +33,219 @@ Wanneer ingevolge artikel 2, zevende lid, van de Onderlinge regeling deelgenoten
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6b
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Pensioenen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41a
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk III. Straffen
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 43
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. Beëindiging van de dienst
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 46
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 47
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 

@@ -1,49 +1,18 @@
 ---
 title: "Wet van 17 mei 2010, houdende regels met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet openbare lichamen Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Wet openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028142"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028142"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10675323"
-version_id: "17633392"
-internal_id: "C24914031"
-label_id: "10652694"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028142/2025-02-12/0"
-intitule_bron: "Stb.2010-345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-17"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-345"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "31954"
-original_url_id: "stb-2010-345"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028142&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0028142&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-05-17"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0028142"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 mei 2010, houdende regels met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet openbare lichamen Bonaire, Sint Eustatius en Saba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en worden ingericht als openbaar lichaam in de zin van [artikel 134 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=134) en dat het in verband hiermee wenselijk is de instelling en inrichting van deze openbare lichamen te regelen, de samenstelling en bevoegdheid van hun besturen, de openbaarheid van hun vergaderingen alsmede het toezicht op deze besturen, waarbij voor zover mogelijk aansluiting wordt gezocht bij het gemeentelijk bestuursmodel;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -51,13 +20,13 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- a. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- b. **eilandsbestuur:** ieder bevoegd orgaan van het openbaar lichaam;
+- b. *eilandsbestuur:* ieder bevoegd orgaan van het openbaar lichaam;
 
-- c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **Rijksvertegenwoordiger:** Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. *Rijksvertegenwoordiger:* Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 2. In deze wet wordt onder ambtenaar mede verstaan: degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is.
 
@@ -93,13 +62,13 @@ Bij algemene maatregel van bestuur worden de grenzen van de openbare lichamen va
 
 ### Hoofdstuk III. De inrichting en samenstelling van de organen van het openbaar lichaam
 
-### Afdeling I. Algemene bepaling
+#### Afdeling I. Algemene bepaling
 
 ##### Artikel 5
 
-In elk openbaar lichaam is een eilandsraad, een bestuurscollege, een gezaghebber en een kiescollege voor de Eerste Kamer.
+In elk openbaar lichaam is een eilandsraad, een bestuurscollege, een gezaghebber en een kiescollege voor de Eerste Kamer.
 
-### Afdeling II. De eilandsraad
+#### Afdeling II. De eilandsraad
 
 ##### Artikel 6
 
@@ -107,11 +76,11 @@ De eilandsraad vertegenwoordigt de gehele bevolking van het openbaar lichaam.
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
@@ -245,25 +214,25 @@ So help me God Almighty!
 
 - c. als vertegenwoordiger of adviseur werkzaam zijn ten behoeve van derden tot het met het openbaar lichaam aangaan van:
 
-- 1°. overeenkomsten als bedoeld in onderdeel d;
+   - 1°. overeenkomsten als bedoeld in onderdeel d;
 
-- 2°. overeenkomsten tot het leveren van onroerende zaken aan het openbaar lichaam;
+   - 2°. overeenkomsten tot het leveren van onroerende zaken aan het openbaar lichaam;
 
 - d. rechtstreeks of middellijk een overeenkomst aangaan betreffende:
 
-- 1°. het aannemen van werk ten behoeve van het openbaar lichaam;
+   - 1°. het aannemen van werk ten behoeve van het openbaar lichaam;
 
-- 2°. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van het openbaar lichaam;
+   - 2°. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van het openbaar lichaam;
 
-- 3°. het leveren van roerende zaken anders dan om niet aan het openbaar lichaam;
+   - 3°. het leveren van roerende zaken anders dan om niet aan het openbaar lichaam;
 
-- 4°. het verhuren van roerende zaken aan het openbaar lichaam;
+   - 4°. het verhuren van roerende zaken aan het openbaar lichaam;
 
-- 5°. het verwerven van betwiste vorderingen ten laste van het openbaar lichaam;
+   - 5°. het verwerven van betwiste vorderingen ten laste van het openbaar lichaam;
 
-- 6°. het van het openbaar lichaam onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
+   - 6°. het van het openbaar lichaam onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
 
-- 7°. het onderhands huren of pachten van het openbaar lichaam.
+   - 7°. het onderhands huren of pachten van het openbaar lichaam.
 
 2. Van het eerste lid, aanhef en onderdeel d, kan de Rijksvertegenwoordiger ontheffing verlenen.
 
@@ -353,7 +322,7 @@ De leden van het eilandsbestuur en andere personen die deelnemen aan de beraadsl
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
@@ -435,7 +404,7 @@ De leden van de eilandsraad stemmen zonder last.
 
 4. De eilandsverordening behoeft de goedkeuring van de Rijksvertegenwoordiger.
 
-### Afdeling III. Het bestuurscollege
+#### Afdeling III. Het bestuurscollege
 
 ##### Artikel 36
 
@@ -607,7 +576,7 @@ So help me God Almighty!
 
 3. Een eilandgedeputeerde maakt zijn nevenfuncties openbaar. De openbaarmaking vindt plaats terstond na benoeming tot eilandgedeputeerde of aanvaarding van een nevenfunctie en geschiedt zowel op elektronische wijze als door terinzagelegging van een opgave van de functies op het bestuurskantoor van het openbaar lichaam.
 
-4. Een eilandgedeputeerde maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
+4. Een eilandgedeputeerde maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
 
 5. Onder inkomsten wordt verstaan: loon in de zin van [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6).
 
@@ -625,7 +594,7 @@ So help me God Almighty!
 
 2. [Artikel 41, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=41&z=2025-02-12&g=2025-02-12), is van toepassing.
 
-3. Geen opgave hoeft te worden gedaan van belangen, zaken, met uitzondering van onroerende zaken, rechten, vorderingen en schulden, waarvan de waarde niet meer dan USD 11 175 bedraagt.
+3. Geen opgave hoeft te worden gedaan van belangen, zaken, met uitzondering van onroerende zaken, rechten, vorderingen en schulden, waarvan de waarde niet meer dan USD 11 175 bedraagt.
 
 4. De verklaring wordt door de eilandgedeputeerde ondertekend.
 
@@ -699,11 +668,11 @@ Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wet
 
 1. Tegen een besluit van de gezaghebber als bedoeld in [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=57&z=2025-02-12&g=2025-02-12), kan de eilandgedeputeerde beroep instellen bij het Gemeenschappelijk Hof van Justitie van Curaçao, Aruba, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
-2. [De Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455) is voor zoveel nodig van overeenkomstige toepassing, met uitzondering van de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=54) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=55) en [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=1) en [3 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=3).
+2. [De Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455) is voor zoveel nodig van overeenkomstige toepassing, met uitzondering van de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=54) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=55) en [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=1) en [3 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=3).
 
 3. In afwijking van [artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=17) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.
 
-4. Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van [paragraaf 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=2). Aan de gezaghebber en degene die beroep heeft ingesteld wordt terstond een afschrift van het beroepschrift toegezonden.
+4. Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van [paragraaf 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=2). Aan de gezaghebber en degene die beroep heeft ingesteld wordt terstond een afschrift van het beroepschrift toegezonden.
 
 ##### Artikel 59
 
@@ -747,7 +716,7 @@ Het bestuurscollege stelt een reglement van orde voor zijn vergaderingen en ande
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
@@ -787,7 +756,7 @@ De [artikelen 29, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3
 
 3. Het bestuurscollege maakt de besluitenlijst van zijn vergaderingen terstond na de vaststelling daarvan openbaar op de in het openbaar lichaam gebruikelijke wijze. Het bestuurscollege laat de openbaarmaking achterwege in de gevallen waarin een verplichting tot geheimhouding geldt of wanneer openbaarmaking in strijd is met het openbaar belang.
 
-### Afdeling IV. De gezaghebber
+#### Afdeling IV. De gezaghebber
 
 ##### Artikel 73
 
@@ -899,7 +868,7 @@ So help me God Almighty!
 
 3. De gezaghebber maakt nevenfuncties, anders dan uit hoofde van zijn ambt van gezaghebber, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot gezaghebber of aanvaarding van een nevenfunctie en geschiedt zowel op elektronische wijze als door terinzaggelegging van een opgave van de functies op het bestuurskantoor van het openbaar lichaam.
 
-4. De gezaghebber maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
+4. De gezaghebber maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
 
 5. Onder inkomsten wordt verstaan: loon in de zin van [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6).
 
@@ -1009,7 +978,7 @@ Bij koninklijk besluit wordt bepaald, welke de onderscheidingstekenen van de gez
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
@@ -1025,7 +994,39 @@ Ten aanzien van degene die met de waarneming van het ambt van gezaghebber is bel
 
 2. De gezaghebber laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
 
-### Afdeling IVa. Het kiescollege voor de Eerste Kamer
+#### Afdeling IVa. Het kiescollege voor de Eerste Kamer
+
+##### Artikel 94a
+
+Het aantal leden van het kiescollege is in het openbaar lichaam Bonaire, in het openbaar lichaam Sint Eustatius en in het openbaar lichaam Saba gelijk aan het aantal leden van de eilandsraad van dat openbaar lichaam, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=9&z=2025-02-12&g=2025-02-12).
+
+##### Artikel 94b
+
+De gezaghebber is voorzitter van het kiescollege.
+
+##### Artikel 94c
+
+1. Voor het lidmaatschap van het kiescollege is vereist dat men Nederlander en ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.
+
+2. [Artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=11&z=2025-02-12&g=2025-02-12), is van toepassing.
+
+##### Artikel 94d
+
+Op het kiescollege en zijn leden zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2025-02-12&g=2025-02-12), [14, eerste lid, aanhef en onder a tot en met h, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2025-02-12&g=2025-02-12), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=15&z=2025-02-12&g=2025-02-12), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2025-02-12&g=2025-02-12), [17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=17&z=2025-02-12&g=2025-02-12), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=22&z=2025-02-12&g=2025-02-12), [23 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2025-02-12&g=2025-02-12), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=33&z=2025-02-12&g=2025-02-12), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=34&z=2025-02-12&g=2025-02-12) en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=88&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 15 in plaats van «de eilandsraad», «koseho insular» en «the island council» telkens wordt gelezen «het kiescollege», «kolegio elektoral», onderscheidenlijk «the electoral committee».
+
+##### Artikel 94e
+
+1. De leden van het kiescollege ontvangen een door de eilandsraad bij eilandsverordening vastgestelde vergoeding als bedoeld in [121, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2025-02-12&g=2025-02-12).
+
+2. De [artikelen 121, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2025-02-12&g=2025-02-12), [122a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=122a&z=2025-02-12&g=2025-02-12) en [123](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=123&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing.
+
+##### Artikel 94f
+
+1. De eilandgriffier, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=130&z=2025-02-12&g=2025-02-12), of de vervanger van de eilandgriffier, bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=133&z=2025-02-12&g=2025-02-12), staat het kiescollege bij de uitoefening van zijn taak terzijde.
+
+2. De [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=131&z=2025-02-12&g=2025-02-12), en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=132&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing.
+
+#### Afdeling V. De gezamenlijke rekenkamer
 
 ##### Artikel 95
 
@@ -1193,21 +1194,21 @@ De eilandsraden stellen, na overleg met de gezamenlijke rekenkamer, de gezamenli
 
 2. De eilandsverordening behoeft de goedkeuring van de Rijksvertegenwoordiger.
 
-### Afdeling VI. De ombudsfunctie
+#### Afdeling VI. De ombudsfunctie
 
 #### § 1. Algemene bepalingen
 
 ##### Artikel 106
 
-[Titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2), met uitzondering van de [artikelen 9:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:20) en [9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21), is van overeenkomstige toepassing op schriftelijke verzoeken om een onderzoek in te stellen naar de wijze waarop een bestuursorgaan van het openbaar lichaam zich in een bepaalde aangelegenheid heeft gedragen met dien verstande dat in [artikel 9:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), voor «[artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1)» wordt gelezen: [artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11).
+[Titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2), met uitzondering van de [artikelen 9:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:20) en [9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21), is van overeenkomstige toepassing op schriftelijke verzoeken om een onderzoek in te stellen naar de wijze waarop een bestuursorgaan van het openbaar lichaam zich in een bepaalde aangelegenheid heeft gedragen met dien verstande dat in [artikel 9:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), voor «[artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1)» wordt gelezen: [artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11).
 
 ##### Artikel 107
 
 1. De eilandsraden kunnen voor de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18) een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen.
 
-2. Een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden ingesteld. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat.
+2. Een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden ingesteld. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat.
 
-3. De instelling van een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden beëindigd. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.
+3. De instelling van een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden beëindigd. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.
 
 ##### Artikel 108
 
@@ -1307,7 +1308,7 @@ De gezamenlijke ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan
 
 De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsraden vastgestelde vergoeding voor zijn werkzaamheden en een tegemoetkoming in de kosten.
 
-#### § 2. De gezamenlijke ombudsman
+#### § 3. De gezamenlijke ombudscommissie
 
 ##### Artikel 115
 
@@ -1323,7 +1324,7 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 2. Op de gezamenlijke ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 109, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=109&z=2025-02-12&g=2025-02-12), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=110&z=2025-02-12&g=2025-02-12), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=111&z=2025-02-12&g=2025-02-12), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=112&z=2025-02-12&g=2025-02-12) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=114&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
 
-### Afdeling VII. De commissies
+#### Afdeling VII. De commissies
 
 ##### Artikel 117
 
@@ -1349,9 +1350,41 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 ##### Artikel 119
 
-Vervallen
+*Vervallen*
 
-### Afdeling VIII. Geldelijke voorzieningen ten behoeve van de leden van de eilandsraad en de commissies
+#### Afdeling VIIa. Geheimhouding
+
+##### Artikel 119a
+
+De eilandsraad, het bestuurscollege, de gezaghebber en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), kunnen op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11), een verplichting tot geheimhouding opleggen ten aanzien van informatie die bij dat orgaan berust.
+
+##### Artikel 119b
+
+1. De eilandsraad kan informatie ten aanzien waarvan krachtens [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=24&z=2025-02-12&g=2025-02-12), een verplichting tot geheimhouding geldt of zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het bestuurscollege, de gezaghebber, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
+
+2. Het bestuurscollege kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
+
+3. De gezaghebber kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, het bestuurscollege, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
+
+4. Een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), kan informatie ten aanzien waarvan zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, het bestuurscollege, de gezaghebber en de gezamenlijke rekenkamer.
+
+5. Indien het bestuurscollege of de gezaghebber overeenkomstig het tweede of derde lid informatie verstrekt aan een commissie waarin leden van de eilandsraad zitting hebben, verstrekt het bestuurscollege of de gezaghebber die informatie tevens aan de eilandsraad.
+
+6. Indien het bestuurscollege, de gezaghebber of een commissie overeenkomstig het tweede, derde of vierde lid informatie verstrekt aan de eilandsraad, kan de eilandsraad die informatie verstrekken aan anderen. De eilandsraad kan regels stellen over het verstrekken van informatie ten aanzien waarvan een verplichting tot geheimhouding is opgelegd door het bestuurscollege, de gezaghebber of een commissie en die tevens aan de eilandsraad is verstrekt.
+
+##### Artikel 119c
+
+1. Een verplichting tot geheimhouding wordt vermeld op het stuk ten aanzien waarvan de geheimhouding geldt. Indien de geheimhouding geldt ten aanzien van informatie anders dan in schriftelijke vorm, wordt de verplichting op een passende wijze kenbaar gemaakt.
+
+2. Een verplichting tot geheimhouding wordt in acht genomen door allen die van de informatie kennis dragen.
+
+3. Een verplichting tot geheimhouding duurt voort totdat het orgaan dat de verplichting heeft opgelegd haar opheft. Indien de verplichting tot geheimhouding is opgelegd door een commissie, kan die verplichting tevens worden opgeheven door het orgaan dat de commissie heeft ingesteld.
+
+4. Indien informatie ten aanzien waarvan een verplichting tot geheimhouding geldt aan de eilandsraad is verstrekt, duurt die verplichting in afwijking van het derde lid voort totdat de eilandsraad haar opheft.
+
+5. Een lid van de eilandsraad of van een door de eilandsraad ingestelde commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), dat in strijd handelt met het tweede lid kan bij besluit van de eilandsraad ten hoogste drie maanden worden uitgesloten van het ontvangen van informatie ten aanzien waarvan een verplichting tot geheimhouding geldt.
+
+#### Afdeling VIII. Geldelijke voorzieningen ten behoeve van de leden van de eilandsraad en de commissies
 
 ##### Artikel 120
 
@@ -1389,7 +1422,7 @@ De eilandsverordeningen, bedoeld in de [artikelen 120 tot en met 122](https://we
 
 2. Voordelen ten laste van het openbaar lichaam, anders dan in de vorm van vergoedingen en tegemoetkomingen, genieten zij slechts voor zover dat is bepaald bij of krachtens de wet dan wel bij eilandsverordening van de eilandsraad. De eilandsverordening behoeft de goedkeuring van de Rijksvertegenwoordiger.
 
-### Afdeling IX. De eilandsecretaris en de eilandgriffier
+#### Afdeling IX. De eilandsecretaris en de eilandgriffier
 
 #### § 1. Algemene bepalingen
 
@@ -1427,7 +1460,7 @@ De eilandsecretaris is in de vergadering van het bestuurscollege aanwezig.
 
 2. De [artikelen 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=124&z=2025-02-12&g=2025-02-12) en [125 tot en met 128](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=125&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op degene die de eilandsecretaris vervangt.
 
-#### § 1. Algemene bepalingen
+#### § 3. De eilandgriffier
 
 ##### Artikel 130
 
@@ -1461,7 +1494,7 @@ Een besluit houdende de benoeming, bevordering, schorsing of ontslag van de eila
 
 ### Hoofdstuk IV. De bevoegdheid van het eilandsbestuur
 
-### Afdeling I. Algemene bepalingen
+#### Afdeling I. Algemene bepalingen
 
 #### § 1. Inleidende bepalingen
 
@@ -1481,9 +1514,9 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **plan:** een beslissing die een samenhangend geheel van op elkaar afgestemde keuzes bevat omtrent door het eilandsbestuur te nemen besluiten of te verrichten andere handelingen, ten einde een of meer doelstellingen te bereiken;
+- a. *plan:* een beslissing die een samenhangend geheel van op elkaar afgestemde keuzes bevat omtrent door het eilandsbestuur te nemen besluiten of te verrichten andere handelingen, ten einde een of meer doelstellingen te bereiken;
 
-- b. **beleidsverslag:** een schriftelijke rapportage betreffende het door het eilandsbestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.
+- b. *beleidsverslag:* een schriftelijke rapportage betreffende het door het eilandsbestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.
 
 2. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het eilandsbestuur slechts worden gevorderd in bij de wet te bepalen gevallen.
 
@@ -1533,17 +1566,17 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 - a. de machtiging, bedoeld in [artikel 155 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), wordt verleend door:
 
-- 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;
+   - 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;
 
-- 2°. de gezaghebber in de gevallen, bedoeld in het derde lid;
+   - 2°. de gezaghebber in de gevallen, bedoeld in het derde lid;
 
 - b. het legitimatiebewijs, bedoeld in [artikel 162 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=162), wordt uitgegeven door de gezaghebber;
 
 - c. het schriftelijk verslag omtrent het binnentreden, bedoeld in [artikel 163 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=163), wordt toegezonden aan:
 
-- 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;
+   - 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;
 
-- 2°. de gezaghebber in de gevallen, bedoeld in het derde lid.
+   - 2°. de gezaghebber in de gevallen, bedoeld in het derde lid.
 
 ##### Artikel 141
 
@@ -1553,39 +1586,39 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 3. De [artikelen 1:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), [4:116](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116) en [5:10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) zijn alsdan van toepassing.
 
-#### § 1. Inleidende bepalingen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
 ##### Artikel 142
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 143
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 144
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 145
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 146
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 147
 
-Vervallen
+*Vervallen*
 
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. Termijnen
 
 ##### Artikel 148
 
 Op termijnen gesteld in een eilandsverordening zijn de [artikelen 1 tot en met 4 van de Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) van overeenkomstige toepassing, tenzij in de eilandsverordening anders is bepaald.
 
-### Afdeling II. De bevoegdheid van de eilandsraad
+#### Afdeling II. De bevoegdheid van de eilandsraad
 
 ##### Artikel 149
 
@@ -1789,6 +1822,44 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 Het bestuurscollege neemt de door de eilandsraad geraamde kosten voor een onderzoek in een bepaald jaar op in de ontwerp-begroting.
 
+##### Artikel 165a
+
+1. De eilandsraad kan tezamen met de eilandsraden van de andere deelnemende openbare lichamen aan een gemeenschappelijke regeling als bedoeld in [artikel 125, eerste of tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) op voorstel van een van de eilandsraden van de deelnemende openbare lichamen aan de betreffende regeling een onderzoek instellen naar het door het samenwerkingslichaam of het gemeenschappelijk orgaan gevoerde bestuur.
+
+2. Het eerste lid is niet van toepassing op een regeling die uitsluitend of mede is getroffen door de eilandsraad of eilandsraden van de deelnemende openbare lichamen.
+
+3. Het besluit tot het instellen van een gemeenschappelijke onderzoekscommissie omvat een omschrijving van het onderwerp van onderzoek alsmede een toelichting. Deze omschrijving kan hangende het onderzoek door de vertegenwoordigende organen, bedoeld in het eerste lid, worden gewijzigd.
+
+4. Het onderzoek wordt uitgevoerd door een door de eilandsraden gezamenlijk, met toepassing van de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124) en [125, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) in te stellen gemeenschappelijke onderzoekscommissie. De gemeenschappelijke onderzoekscommissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de vertegenwoordigende organen, bedoeld in het eerste lid.
+
+5. Bij de samenstelling van de gemeenschappelijke onderzoekscommissie wordt gezorgd voor een evenwichtige vertegenwoordiging van de in het samenwerkingslichaam of gemeenschappelijk orgaan deelnemende openbare lichamen.
+
+6. De regeling waarbij de gemeenschappelijke onderzoekscommissie wordt ingesteld houdt bepalingen in omtrent het onderzoek, bedoeld in het eerste lid. In elk geval worden bepalingen opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de gemeenschappelijke onderzoekscommissie.
+
+7. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2025-02-12&g=2025-02-12) en [119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie.
+
+8. De gemeenschappelijke onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
+
+9. De bevoegdheden en werkzaamheden van een gemeenschappelijke onderzoekscommissie worden niet geschorst door het aftreden van een van de eilandsraden, bedoeld in het eerste lid.
+
+10. Op het besluit tot instelling van een onderzoek en tot instelling van een gemeenschappelijke onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek, is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
+
+11. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21) en [23 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23) zijn niet van toepassing. De overige bepalingen uit de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) zijn slechts van toepassing voor zover de aard van de aan de gemeenschappelijke onderzoekscommissie opgedragen taken zich daartegen niet verzet.
+
+##### Artikel 165b
+
+De [artikelen 161 tot en met 165](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie, bedoeld in [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=165a&z=2025-02-12&g=2025-02-12), met dien verstande dat:
+
+- a. in de [artikelen 161 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12) voor «onderzoekscommissie» telkens wordt gelezen: gemeenschappelijke onderzoekscommissie;
+
+- b. de verplichtingen, bedoeld in de [artikelen 161, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12), en [162, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=162&z=2025-02-12&g=2025-02-12), ook van toepassing zijn op de ambtenaren en gewezen ambtenaren aangesteld door of vanwege het bestuur van een samenwerkingslichaam als bedoeld in [artikel 125, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) aangesteld of daaraan ondergeschikt;
+
+- c. bij de toepassing van [artikel 161, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12), voor «het eilandbestuur» wordt gelezen «het eilandbestuur, indien onderzoek gedaan wordt naar de bestuursvoering van een instelling ingesteld bij een regeling als bedoeld in [artikel 124 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124), het bestuur van een samenwerkingslichaam als bedoeld in [artikel 125, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125)» en voor «[artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2025-02-12&g=2025-02-12)» wordt gelezen: [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=165a&z=2025-02-12&g=2025-02-12);
+
+- d. bij de toepassing van [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=164&z=2025-02-12&g=2025-02-12), voor «door of vanwege het bestuurscollege» wordt gelezen: door of vanwege het bestuurscollege of het bestuur van een samenwerkingslichaam, ingesteld bij een regeling als bedoeld in [artikel 124 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124) die uitsluitend of mede is getroffen door bestuurscolleges of gezaghebbers.
+
+- e. bij de toepassing van [artikel 164, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=164&z=2025-02-12&g=2025-02-12), voor «de gezaghebber gevoerde bestuur, door de gezaghebber» wordt gelezen: de gezaghebber of het bestuur van een samenwerkingslichaam of gemeenschappelijk orgaan als bedoeld in [artikel 125 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) gevoerde bestuur, door de gezaghebber of het bestuur van een samenwerkingslichaam of gemeenschappelijk orgaan.
+
 ##### Artikel 166
 
 1. De eilandsraad kan aan het bestuurscollege bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
@@ -1821,7 +1892,7 @@ Het bestuurscollege neemt de door de eilandsraad geraamde kosten voor een onderz
 
 2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
 
-### Afdeling III. De bevoegdheid van het bestuurscollege
+#### Afdeling III. De bevoegdheid van het bestuurscollege
 
 ##### Artikel 168
 
@@ -1875,7 +1946,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 168, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=III&artikel=168&z=2025-02-12&g=2025-02-12), geen uitstel kan lijden, geven zij in afwijking van het vierde lid de eilandsraad zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
 
-### Afdeling IV. De bevoegdheid van de gezaghebber
+#### Afdeling IV. De bevoegdheid van de gezaghebber
 
 ##### Artikel 172
 
@@ -1931,7 +2002,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 - b. door ernstig geweld, of bedreiging daarmee, in of in de onmiddellijke nabijheid van de woning of het lokaal of op het erf of in de onmiddellijke nabijheid van het erf, de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord of ernstige vrees bestaat voor het ontstaan van een zodanige verstoring;
 
-- c. door het aantreffen in de woning of het lokaal of op het erf van een wapen als bedoeld in [artikel 1, tweede lid, van de Wapenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1) de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord of ernstige vrees bestaat voor het ontstaan van een zodanige verstoring.
+- c. door het aantreffen in de woning of het lokaal of op het erf van een wapen als bedoeld in [artikel 1, tweede lid, van de Wapenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1) de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord of ernstige vrees bestaat voor het ontstaan van een zodanige verstoring.
 
 2. De in het eerste lid, aanhef, genoemde bevoegdheid komt de gezaghebber eveneens toe in geval van ernstige vrees voor verstoring van de openbare orde op de grond dat de rechthebbende op de woning, het lokaal of het erf eerder een woning, een niet voor het publiek toegankelijk lokaal of een bij die woning of dat lokaal behorend erf op een zodanige wijze heeft gebruikt of doen gebruiken dat die woning, dat lokaal of dat erf op grond van het eerste lid, onderdeel a, is gesloten, en er aanwijzingen zijn dat betrokkene de woning, het lokaal of het erf ten aanzien waarvan hij rechthebbende is eveneens op een zodanige wijze zal gebruiken of doen gebruiken.
 
@@ -1987,7 +2058,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 3. Hij geeft de eilandsraad mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
 
-### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
+#### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
 
 ##### Artikel 183
 
@@ -2023,7 +2094,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 2. De gezamenlijke rekenkamer deelt aan de eilandsraad en het bestuurscollege van het betrokken openbaar lichaam en, indien van toepassing, aan de betrokken instelling, de opmerkingen en bedenkingen mee die zij naar aanleiding van haar bevindingen van belang acht. Aan de eilandsraad of het bestuurscollege kan zij ter zake voorstellen doen.
 
-3. De gezamenlijke rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar. Het verslag wordt door de gezamenlijke rekenkamer aan de eilandsraden en de bestuurscolleges van de openbare lichamen gezonden.
+3. De gezamenlijke rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar. Het verslag wordt door de gezamenlijke rekenkamer aan de eilandsraden en de bestuurscolleges van de openbare lichamen gezonden.
 
 4. De gezamenlijke rekenkamer zendt een afschrift van haar rapporten aan de eilandsraad en het bestuurscollege van het betrokken openbare lichaam. Indien zij met toepassing van [artikel 38, elfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38) een onderzoek heeft ingesteld, zendt de gezamenlijke rekenkamer tevens een afschrift van het rapport aan de betrokken instelling.
 
@@ -2031,7 +2102,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 ### Hoofdstuk V. Verhouding tot het Rijk
 
-### Afdeling I. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba
+#### Afdeling I. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 #### § 1. Algemene bepalingen
 
@@ -2109,7 +2180,7 @@ Zo waarlijk helpe mij God Almachtig!»
 
 3. De Rijksvertegenwoordiger maakt nevenfuncties, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot Rijksvertegenwoordiger of aanvaarding van een nevenfunctie en geschiedt zowel op elektronische wijze als door terinzaggelegging van een opgave van de functies op het Bureau van de Rijksvertegenwoordiger, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=202&z=2025-02-12&g=2025-02-12).
 
-4. De Rijksvertegenwoordiger maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het Bureau van de Rijksvertegenwoordiger uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
+4. De Rijksvertegenwoordiger maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het Bureau van de Rijksvertegenwoordiger uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
 
 5. Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
@@ -2167,25 +2238,25 @@ De Rijksvertegenwoordiger mag niet:
 
 - c. als vertegenwoordiger of adviseur werkzaam zijn ten behoeve van derden tot het met een openbaar lichaam aangaan van:
 
-- 1°. overeenkomsten als bedoeld in onderdeel d;
+   - 1°. overeenkomsten als bedoeld in onderdeel d;
 
-- 2°. overeenkomsten tot het leveren van onroerende zaken aan een openbaar lichaam;
+   - 2°. overeenkomsten tot het leveren van onroerende zaken aan een openbaar lichaam;
 
 - d. rechtstreeks of middellijk een overeenkomst aangaan betreffende:
 
-- 1°. het aannemen van werk ten behoeve van een openbaar lichaam;
+   - 1°. het aannemen van werk ten behoeve van een openbaar lichaam;
 
-- 2°. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van een openbaar lichaam;
+   - 2°. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van een openbaar lichaam;
 
-- 3°. het leveren van roerende zaken anders dan om niet aan een openbaar lichaam;
+   - 3°. het leveren van roerende zaken anders dan om niet aan een openbaar lichaam;
 
-- 4°. het verhuren van roerende zaken aan een openbaar lichaam;
+   - 4°. het verhuren van roerende zaken aan een openbaar lichaam;
 
-- 5°. het verwerven van betwiste vorderingen ten laste van een openbaar lichaam;
+   - 5°. het verwerven van betwiste vorderingen ten laste van een openbaar lichaam;
 
-- 6°. het van een openbaar lichaam onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
+   - 6°. het van een openbaar lichaam onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
 
-- 7°. het onderhands huren of pachten van een openbaar lichaam.
+   - 7°. het onderhands huren of pachten van een openbaar lichaam.
 
 ##### Artikel 197
 
@@ -2281,7 +2352,7 @@ Voor zover dit niet bij wet is geschied, worden bij of krachtens algemene maatre
 
 De eilandsbesturen alsmede de onder hen ressorterende diensten en ambtenaren verlenen op verzoek van de Rijksvertegenwoordiger hun medewerking bij de uitoefening van de hem toegekende taken.
 
-### Afdeling II. Verhouding tot het Rijk
+#### Afdeling II. Verhouding tot het Rijk
 
 ##### Artikel 207
 
@@ -2353,7 +2424,7 @@ De bevoegdheid tot het maken van eilandsverordeningen blijft ten aanzien van het
 
 De bepalingen van eilandsverordeningen in wier onderwerp door een wet of een algemene maatregel van bestuur wordt voorzien, zijn van rechtswege vervallen.
 
-### Afdeling III. Toezicht op het eilandsbestuur
+#### Afdeling III. Toezicht op het eilandsbestuur
 
 #### § 1. Goedkeuring
 
@@ -2457,19 +2528,19 @@ De gedragscode, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 235
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 236
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 237
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 238
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 239
 
@@ -2481,286 +2552,8 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 240a
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 241
 
 Deze wet wordt aangehaald als: Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 94a
-
-Het aantal leden van het kiescollege is in het openbaar lichaam Bonaire, in het openbaar lichaam Sint Eustatius en in het openbaar lichaam Saba gelijk aan het aantal leden van de eilandsraad van dat openbaar lichaam, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=9&z=2025-02-12&g=2025-02-12).
-
-##### Artikel 94b
-
-De gezaghebber is voorzitter van het kiescollege.
-
-##### Artikel 94c
-
-1. Voor het lidmaatschap van het kiescollege is vereist dat men Nederlander en ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.
-
-2. [Artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=11&z=2025-02-12&g=2025-02-12), is van toepassing.
-
-##### Artikel 94d
-
-Op het kiescollege en zijn leden zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2025-02-12&g=2025-02-12), [14, eerste lid, aanhef en onder a tot en met h, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2025-02-12&g=2025-02-12), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=15&z=2025-02-12&g=2025-02-12), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2025-02-12&g=2025-02-12), [17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=17&z=2025-02-12&g=2025-02-12), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=22&z=2025-02-12&g=2025-02-12), [23 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2025-02-12&g=2025-02-12), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=33&z=2025-02-12&g=2025-02-12), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=34&z=2025-02-12&g=2025-02-12) en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=88&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 15 in plaats van «de eilandsraad», «koseho insular» en «the island council» telkens wordt gelezen «het kiescollege», «kolegio elektoral», onderscheidenlijk «the electoral committee».
-
-##### Artikel 94e
-
-1. De leden van het kiescollege ontvangen een door de eilandsraad bij eilandsverordening vastgestelde vergoeding als bedoeld in [121, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2025-02-12&g=2025-02-12).
-
-2. De [artikelen 121, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2025-02-12&g=2025-02-12), [122a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=122a&z=2025-02-12&g=2025-02-12) en [123](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=123&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing.
-
-##### Artikel 94f
-
-1. De eilandgriffier, bedoeld in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=130&z=2025-02-12&g=2025-02-12), of de vervanger van de eilandgriffier, bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=133&z=2025-02-12&g=2025-02-12), staat het kiescollege bij de uitoefening van zijn taak terzijde.
-
-2. De [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=131&z=2025-02-12&g=2025-02-12), en [132](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=132&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing.
-
-### Afdeling V. De gezamenlijke rekenkamer
-
-### Afdeling VI. De ombudsfunctie
-
-#### § 1. Algemene bepalingen
-
-#### § 3. De gezamenlijke ombudscommissie
-
-### Afdeling VII. De commissies
-
-### Afdeling VIIa. Geheimhouding
-
-### Afdeling IX. De eilandsecretaris en de eilandgriffier
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De eilandsecretaris
-
-#### § 3. De eilandgriffier
-
-### Hoofdstuk IV. De bevoegdheid van het eilandsbestuur
-
-### Afdeling I. Algemene bepalingen
-
-#### § 1. Inleidende bepalingen
-
-#### § 2. Bestuursdwang
-
-#### § 4. Termijnen
-
-### Afdeling II. De bevoegdheid van de eilandsraad
-
-### Afdeling III. De bevoegdheid van het bestuurscollege
-
-### Afdeling IV. De bevoegdheid van de gezaghebber
-
-### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
-
-### Hoofdstuk V. Verhouding tot het Rijk
-
-### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De bevoegdheid van de Rijksvertegenwoordiger
-
-### Afdeling II. Verhouding tot het Rijk
-
-### Afdeling III. Toezicht op het eilandsbestuur
-
-#### § 1. Goedkeuring
-
-#### § 1. Goedkeuring
-
-#### § 3. Bijzondere voorzieningen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 165a
-
-1. De eilandsraad kan tezamen met de eilandsraden van de andere deelnemende openbare lichamen aan een gemeenschappelijke regeling als bedoeld in [artikel 125, eerste of tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) op voorstel van een van de eilandsraden van de deelnemende openbare lichamen aan de betreffende regeling een onderzoek instellen naar het door het samenwerkingslichaam of het gemeenschappelijk orgaan gevoerde bestuur.
-
-2. Het eerste lid is niet van toepassing op een regeling die uitsluitend of mede is getroffen door de eilandsraad of eilandsraden van de deelnemende openbare lichamen.
-
-3. Het besluit tot het instellen van een gemeenschappelijke onderzoekscommissie omvat een omschrijving van het onderwerp van onderzoek alsmede een toelichting. Deze omschrijving kan hangende het onderzoek door de vertegenwoordigende organen, bedoeld in het eerste lid, worden gewijzigd.
-
-4. Het onderzoek wordt uitgevoerd door een door de eilandsraden gezamenlijk, met toepassing van de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124) en [125, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) in te stellen gemeenschappelijke onderzoekscommissie. De gemeenschappelijke onderzoekscommissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de vertegenwoordigende organen, bedoeld in het eerste lid.
-
-5. Bij de samenstelling van de gemeenschappelijke onderzoekscommissie wordt gezorgd voor een evenwichtige vertegenwoordiging van de in het samenwerkingslichaam of gemeenschappelijk orgaan deelnemende openbare lichamen.
-
-6. De regeling waarbij de gemeenschappelijke onderzoekscommissie wordt ingesteld houdt bepalingen in omtrent het onderzoek, bedoeld in het eerste lid. In elk geval worden bepalingen opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de gemeenschappelijke onderzoekscommissie.
-
-7. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2025-02-12&g=2025-02-12) en [119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2025-02-12&g=2025-02-12), zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie.
-
-8. De gemeenschappelijke onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
-
-9. De bevoegdheden en werkzaamheden van een gemeenschappelijke onderzoekscommissie worden niet geschorst door het aftreden van een van de eilandsraden, bedoeld in het eerste lid.
-
-10. Op het besluit tot instelling van een onderzoek en tot instelling van een gemeenschappelijke onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek, is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
-
-11. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21) en [23 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23) zijn niet van toepassing. De overige bepalingen uit de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) zijn slechts van toepassing voor zover de aard van de aan de gemeenschappelijke onderzoekscommissie opgedragen taken zich daartegen niet verzet.
-
-##### Artikel 165b
-
-De [artikelen 161 tot en met 165](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie, bedoeld in [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=165a&z=2025-02-12&g=2025-02-12), met dien verstande dat:
-
-- a. in de [artikelen 161 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12) voor «onderzoekscommissie» telkens wordt gelezen: gemeenschappelijke onderzoekscommissie;
-
-- b. de verplichtingen, bedoeld in de [artikelen 161, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12), en [162, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=162&z=2025-02-12&g=2025-02-12), ook van toepassing zijn op de ambtenaren en gewezen ambtenaren aangesteld door of vanwege het bestuur van een samenwerkingslichaam als bedoeld in [artikel 125, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) aangesteld of daaraan ondergeschikt;
-
-- c. bij de toepassing van [artikel 161, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2025-02-12&g=2025-02-12), voor «het eilandbestuur» wordt gelezen «het eilandbestuur, indien onderzoek gedaan wordt naar de bestuursvoering van een instelling ingesteld bij een regeling als bedoeld in [artikel 124 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124), het bestuur van een samenwerkingslichaam als bedoeld in [artikel 125, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125)» en voor «[artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2025-02-12&g=2025-02-12)» wordt gelezen: [artikel 165a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=165a&z=2025-02-12&g=2025-02-12);
-
-- d. bij de toepassing van [artikel 164, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=164&z=2025-02-12&g=2025-02-12), voor «door of vanwege het bestuurscollege» wordt gelezen: door of vanwege het bestuurscollege of het bestuur van een samenwerkingslichaam, ingesteld bij een regeling als bedoeld in [artikel 124 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=124) die uitsluitend of mede is getroffen door bestuurscolleges of gezaghebbers.
-
-- e. bij de toepassing van [artikel 164, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=164&z=2025-02-12&g=2025-02-12), voor «de gezaghebber gevoerde bestuur, door de gezaghebber» wordt gelezen: de gezaghebber of het bestuur van een samenwerkingslichaam of gemeenschappelijk orgaan als bedoeld in [artikel 125 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=125) gevoerde bestuur, door de gezaghebber of het bestuur van een samenwerkingslichaam of gemeenschappelijk orgaan.
-
-### Afdeling III. De bevoegdheid van het bestuurscollege
-
-### Afdeling IV. De bevoegdheid van de gezaghebber
-
-### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
-
-### Hoofdstuk V. Verhouding tot het Rijk
-
-### Afdeling I. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De bevoegdheid van de Rijksvertegenwoordiger
-
-### Afdeling II. Verhouding tot het Rijk
-
-### Afdeling III. Toezicht op het eilandsbestuur
-
-#### § 1. Goedkeuring
-
-#### § 2. Schorsing en vernietiging
-
-#### § 3. Bijzondere voorzieningen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling VIII. Geldelijke voorzieningen ten behoeve van de leden van de eilandsraad en de commissies
-
-### Afdeling IX. De eilandsecretaris en de eilandgriffier
-
-#### § 1. Algemene bepalingen
-
-#### § 3. De eilandgriffier
-
-### Hoofdstuk IV. De bevoegdheid van het eilandsbestuur
-
-### Afdeling I. Algemene bepalingen
-
-#### § 2. Bestuursdwang
-
-#### § 2. Bestuursdwang
-
-#### § 4. Termijnen
-
-### Afdeling II. De bevoegdheid van de eilandsraad
-
-### Afdeling III. De bevoegdheid van het bestuurscollege
-
-### Afdeling IV. De bevoegdheid van de gezaghebber
-
-### Afdeling V. De bevoegdheid van de gezamenlijke rekenkamer
-
-### Hoofdstuk V. Verhouding tot het Rijk
-
-### Afdeling I. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De bevoegdheid van de Rijksvertegenwoordiger
-
-### Afdeling II. Verhouding tot het Rijk
-
-### Afdeling III. Toezicht op het eilandsbestuur
-
-#### § 1. Goedkeuring
-
-#### § 3. Bijzondere voorzieningen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 119a
-
-De eilandsraad, het bestuurscollege, de gezaghebber en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), kunnen op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11), een verplichting tot geheimhouding opleggen ten aanzien van informatie die bij dat orgaan berust.
-
-##### Artikel 119b
-
-1. De eilandsraad kan informatie ten aanzien waarvan krachtens [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=24&z=2025-02-12&g=2025-02-12), een verplichting tot geheimhouding geldt of zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het bestuurscollege, de gezaghebber, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
-
-2. Het bestuurscollege kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
-
-3. De gezaghebber kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, het bestuurscollege, de gezamenlijke rekenkamer en een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12).
-
-4. Een commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), kan informatie ten aanzien waarvan zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de eilandsraad, het bestuurscollege, de gezaghebber en de gezamenlijke rekenkamer.
-
-5. Indien het bestuurscollege of de gezaghebber overeenkomstig het tweede of derde lid informatie verstrekt aan een commissie waarin leden van de eilandsraad zitting hebben, verstrekt het bestuurscollege of de gezaghebber die informatie tevens aan de eilandsraad.
-
-6. Indien het bestuurscollege, de gezaghebber of een commissie overeenkomstig het tweede, derde of vierde lid informatie verstrekt aan de eilandsraad, kan de eilandsraad die informatie verstrekken aan anderen. De eilandsraad kan regels stellen over het verstrekken van informatie ten aanzien waarvan een verplichting tot geheimhouding is opgelegd door het bestuurscollege, de gezaghebber of een commissie en die tevens aan de eilandsraad is verstrekt.
-
-##### Artikel 119c
-
-1. Een verplichting tot geheimhouding wordt vermeld op het stuk ten aanzien waarvan de geheimhouding geldt. Indien de geheimhouding geldt ten aanzien van informatie anders dan in schriftelijke vorm, wordt de verplichting op een passende wijze kenbaar gemaakt.
-
-2. Een verplichting tot geheimhouding wordt in acht genomen door allen die van de informatie kennis dragen.
-
-3. Een verplichting tot geheimhouding duurt voort totdat het orgaan dat de verplichting heeft opgelegd haar opheft. Indien de verplichting tot geheimhouding is opgelegd door een commissie, kan die verplichting tevens worden opgeheven door het orgaan dat de commissie heeft ingesteld.
-
-4. Indien informatie ten aanzien waarvan een verplichting tot geheimhouding geldt aan de eilandsraad is verstrekt, duurt die verplichting in afwijking van het derde lid voort totdat de eilandsraad haar opheft.
-
-5. Een lid van de eilandsraad of van een door de eilandsraad ingestelde commissie als bedoeld in [hoofdstuk III, afdeling VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&z=2025-02-12&g=2025-02-12), dat in strijd handelt met het tweede lid kan bij besluit van de eilandsraad ten hoogste drie maanden worden uitgesloten van het ontvangen van informatie ten aanzien waarvan een verplichting tot geheimhouding geldt.
-
-### Afdeling VIII. Geldelijke voorzieningen ten behoeve van de leden van de eilandsraad en de commissies
-
-### Afdeling IX. De eilandsecretaris en de eilandgriffier
-
-#### § 2. De eilandsecretaris
-
-#### § 3. De eilandgriffier
-
-### Hoofdstuk IV. De bevoegdheid van het eilandsbestuur
-
-### Afdeling I. Algemene bepalingen
-
-#### § 1. Inleidende bepalingen
-
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
-
-#### § 4. Termijnen
-
-### Afdeling II. De bevoegdheid van de eilandsraad
-
-### Afdeling III. De bevoegdheid van het bestuurscollege
-
-### Afdeling IV. De bevoegdheid van de gezaghebber
-
-### Hoofdstuk V. Verhouding tot het Rijk
-
-### Afdeling I. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba
-
-#### § 1. Algemene bepalingen
-
-#### § 2. De bevoegdheid van de Rijksvertegenwoordiger
-
-### Afdeling II. Verhouding tot het Rijk
-
-### Afdeling III. Toezicht op het eilandsbestuur
-
-#### § 2. Schorsing en vernietiging
-
-#### § 3. Bijzondere voorzieningen
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

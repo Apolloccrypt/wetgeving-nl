@@ -1,52 +1,28 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 31 juli 2010, nr. WJZ/10032665, houdende instelling van de Beoordelingscommissie Small Business Innovation Research programma"
+citeertitel: "Instellingsbesluit Beoordelingscommissie Small Business Innovation Research programma"
 identifier: "BWBR0028029"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-08-12"
-last_updated: "2010-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028029"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10634343"
-version_id: "17569382"
-internal_id: "C24317891"
-label_id: "10609164"
-dtd_version: "2.0"
-original_entry_into_force: "2010-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028029/2010-08-12/0"
-intitule_bron: "Stcrt.2010-12479"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-31"
-intitule_published: "2010-08-11"
-intitule_in_force: "2010-08-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-12479"
-original_signed_date: "2010-07-31"
-original_published_date: "2010-08-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-12479"
-entry_into_force_date: "2010-08-12"
-jci_1_3: "jci1.3:c:BWBR0028029&z=2010-08-12&g=2010-08-12"
-jci_1_0: "1.0:c:BWBR0028029&g=2010-08-12"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Beoordelingscommissie Small Business Innovation Research programma"
-signed_date: "2010-07-31"
-entry_into_force: "2010-08-12"
+publicatiedatum: 2010-08-12
+laatste_update: 2010-08-12
+status: geldig
+toestand: 2010-08-12
+bron: "https://wetten.overheid.nl/BWBR0028029"
+opgehaald: 2026-08-15
 ---
-# Besluit van de Minister van Economische Zaken van 31 juli 2010, nr. WJZ/10032665, houdende instelling van de Beoordelingscommissie Small Business Innovation Research programma
 
-Besluit:
+# Besluit van de Minister van Economische Zaken van 31 juli 2010, nr. WJZ/10032665, houdende instelling van de Beoordelingscommissie Small Business Innovation Research programma
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **commissie:** de Beoordelingscommissie Small Business Innovation Research programma;
+- b. *commissie:* de Beoordelingscommissie Small Business Innovation Research programma;
 
-- c. **SBIR:** Small Business Innovation Research programma.
+- c. *SBIR:* Small Business Innovation Research programma.
 
 ##### Artikel 2
 
@@ -85,5 +61,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Beoordelingscommissie Small Business Innovation Research programma.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

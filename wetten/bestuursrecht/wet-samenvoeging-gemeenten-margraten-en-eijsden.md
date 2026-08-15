@@ -1,48 +1,18 @@
 ---
 title: "Wet van 4 juni 2010 tot samenvoeging van de gemeenten Margraten en Eijsden"
+citeertitel: "Wet samenvoeging gemeenten Margraten en Eijsden"
 identifier: "BWBR0027896"
-country: "nl"
-rank: "wet"
-publication_date: "2010-07-14"
-last_updated: "2010-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027896"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10606923"
-version_id: "17521922"
-internal_id: "C24248061"
-label_id: "10581894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027896/2010-07-14/0"
-intitule_bron: "Stb.2010-272"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-04"
-intitule_published: "2010-07-13"
-intitule_in_force: "2010-07-13"
-intitule_status: "goed"
-original_publication: "Stb.2010-272"
-original_signed_date: "2010-06-04"
-original_published_date: "2010-07-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "32245"
-original_url_id: "stb-2010-272"
-entry_into_force_date: "2010-07-14"
-entry_into_force_dossier: "32245"
-jci_1_3: "jci1.3:c:BWBR0027896&z=2010-07-14&g=2010-07-14"
-jci_1_0: "1.0:c:BWBR0027896&g=2010-07-14"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Margraten en Eijsden"
-signed_date: "2010-06-04"
-entry_into_force: "2010-07-14"
+publicatiedatum: 2010-07-14
+laatste_update: 2010-07-14
+status: geldig
+toestand: 2010-07-14
+bron: "https://wetten.overheid.nl/BWBR0027896"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 4 juni 2010 tot samenvoeging van de gemeenten Margraten en Eijsden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Margraten en Eijsden samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling worden de gemeenten Margraten en Eijsden
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Eijsden-Margraten ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Margraten en Eijsden zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Eijsden-Margraten ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Margraten en Eijsden zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0027896).
 
 #### § 2. Overige bepalingen
 
@@ -82,20 +52,16 @@ Voor de op te heffen gemeenten Margraten en Eijsden wordt de nieuwe gemeente Eij
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 8
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027896&paragraaf=1&artikel=2&z=2010-07-14&g=2010-07-14)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

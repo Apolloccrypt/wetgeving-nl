@@ -1,49 +1,18 @@
 ---
 title: "Wet van 17 mei 2010, houdende regels inzake de bescherming van persoonsgegevens van Bonaire, Sint Eustatius en Saba (Wet bescherming persoonsgegevens BES)"
+citeertitel: "Wet bescherming persoonsgegevens BES"
 identifier: "BWBR0028067"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-11-11"
-last_updated: "2025-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028067"
+categorie: "Digitaal en privacy"
 soort: "wet-BES"
-stam_id: "10642843"
-version_id: "17583382"
-internal_id: "C25053441"
-label_id: "10618284"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028067/2025-11-11/0"
-intitule_bron: "Stb.2010-349"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-17"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-349"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32161"
-original_url_id: "stb-2010-349"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028067&z=2025-11-11&g=2025-11-11"
-jci_1_0: "1.0:c:BWBR0028067&g=2025-11-11"
-citeertitel_status: "officieel"
-short_title: "Wet bescherming persoonsgegevens BES"
-signed_date: "2010-05-17"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-11-11
+status: geldig
+toestand: 2025-11-11
+bron: "https://wetten.overheid.nl/BWBR0028067"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 mei 2010, houdende regels inzake de bescherming van persoonsgegevens van Bonaire, Sint Eustatius en Saba (Wet bescherming persoonsgegevens BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is dat met betrekking tot de bescherming van persoonsgegevens in de openbare lichamen Bonaire, Sint Eustatius en Saba uitvoering wordt gegeven aan [artikel 10, tweede en derde lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=10);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -53,35 +22,35 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 2. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **persoonsgegeven:** elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+- a. *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
 
-- b. **verwerking van persoonsgegevens:** elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
+- b. *verwerking van persoonsgegevens:* elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;
 
-- c. **bestand:** elk gestructureerd geheel van persoonsgegevens, ongeacht of dit geheel van gegevens gecentraliseerd is of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen;
+- c. *bestand:* elk gestructureerd geheel van persoonsgegevens, ongeacht of dit geheel van gegevens gecentraliseerd is of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen;
 
-- d. **verantwoordelijke:** de natuurlijke persoon, rechtspersoon of ieder ander die of het bestuursorgaan dat, alleen of tezamen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt;
+- d. *verantwoordelijke:* de natuurlijke persoon, rechtspersoon of ieder ander die of het bestuursorgaan dat, alleen of tezamen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt;
 
-- e. **bewerker:** degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;
+- e. *bewerker:* degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;
 
-- f. **betrokkene:** degene op wie een persoonsgegeven betrekking heeft;
+- f. *betrokkene:* degene op wie een persoonsgegeven betrekking heeft;
 
-- g. **derde:** ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;
+- g. *derde:* ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;
 
-- h. **ontvanger:** degene aan wie de persoonsgegevens worden verstrekt;
+- h. *ontvanger:* degene aan wie de persoonsgegevens worden verstrekt;
 
-- i. **toestemming van de betrokkene:** elke vrije, specifieke en op informatie berustende wilsuiting waarmee de betrokkene aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;
+- i. *toestemming van de betrokkene:* elke vrije, specifieke en op informatie berustende wilsuiting waarmee de betrokkene aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;
 
-- j. **Onze Minister:** Onze Minister van Justitie;
+- j. *Onze Minister:* Onze Minister van Justitie;
 
-- k. **verstrekken van persoonsgegevens:** het bekend maken of ter beschikking stellen van persoonsgegevens;
+- k. *verstrekken van persoonsgegevens:* het bekend maken of ter beschikking stellen van persoonsgegevens;
 
-- l. **verzamelen van persoonsgegevens:** het verkrijgen van persoonsgegevens;
+- l. *verzamelen van persoonsgegevens:* het verkrijgen van persoonsgegevens;
 
-- m. **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- m. *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- n. **gerecht:** het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- n. *gerecht:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- o. **commissie:** de Commissie toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2025-11-11&g=2025-11-11) van deze wet.
+- o. *commissie:* de Commissie toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2025-11-11&g=2025-11-11) van deze wet.
 
 ##### Artikel 2
 
@@ -245,11 +214,11 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 - b. met het doel personen van een bepaalde etnische of culturele minderheidsgroep een bevoorrechte positie toe te kennen ten einde feitelijke nadelen verband houdende met de grond ras op te heffen of te verminderen en slechts indien:
 
-- 1°. dit voor dat doel noodzakelijk is;
+   - 1°. dit voor dat doel noodzakelijk is;
 
-- 2°. de gegevens slechts betrekking hebben op het geboorteland van de betrokkene, van diens ouders of grootouders, dan wel op andere, bij wet vastgestelde criteria, op grond waarvan op objectieve wijze vastgesteld kan worden of iemand tot een minderheidsgroep als bedoeld in de aanhef van onderdeel b behoort, en
+   - 2°. de gegevens slechts betrekking hebben op het geboorteland van de betrokkene, van diens ouders of grootouders, dan wel op andere, bij wet vastgestelde criteria, op grond waarvan op objectieve wijze vastgesteld kan worden of iemand tot een minderheidsgroep als bedoeld in de aanhef van onderdeel b behoort, en
 
-- 3°. de betrokkene daartegen geen schriftelijk bezwaar heeft gemaakt.
+   - 3°. de betrokkene daartegen geen schriftelijk bezwaar heeft gemaakt.
 
 ##### Artikel 19
 
@@ -275,9 +244,9 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 - b. verzekeraars als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=1), en financiële dienstverleners die bemiddelen in verzekeringen als bedoeld in die wet, voor zover dat noodzakelijk is voor:
 
-- 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of
+   - 1°. de beoordeling van het door de verzekeraar te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt; of
 
-- 2°. de uitvoering van de overeenkomst van verzekering;
+   - 2°. de uitvoering van de overeenkomst van verzekering;
 
 - c. scholen voor zover dat met het oog op de speciale begeleiding van leerlingen of het treffen van bijzondere voorzieningen in verband met hun gezondheidstoestand noodzakelijk is;
 
@@ -287,9 +256,9 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 - f. bestuursorganen, pensioenfondsen, werkgevers of instellingen die te hunnen behoeve werkzaam zijn voor zover dat noodzakelijk is voor:
 
-- 1°. een goede uitvoering van wettelijke voorschriften, pensioenregelingen of collectieve arbeidsovereenkomsten die voorzien in aanspraken die afhankelijk zijn van de gezondheidstoestand van de betrokkene of
+   - 1°. een goede uitvoering van wettelijke voorschriften, pensioenregelingen of collectieve arbeidsovereenkomsten die voorzien in aanspraken die afhankelijk zijn van de gezondheidstoestand van de betrokkene of
 
-- 2°. de reïntegratie of begeleiding van werknemers of uitkeringsgerechtigden in verband met ziekte of arbeidsongeschiktheid.
+   - 2°. de reïntegratie of begeleiding van werknemers of uitkeringsgerechtigden in verband met ziekte of arbeidsongeschiktheid.
 
 2. In de gevallen, bedoeld in het eerste lid worden de gegevens alleen verwerkt door personen die uit hoofde van ambt, beroep of wettelijk voorschrift, dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht. Indien de verantwoordelijke gegevens persoonlijk verwerkt en op hem niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht rust, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover de wet hem tot mededeling verplicht of uit zijn taak de noodzaak voortvloeit dat de gegevens worden meegedeeld aan anderen die krachtens het eerste lid bevoegd zijn tot verwerking daarvan.
 
@@ -445,9 +414,9 @@ Een nummer dat ter identificatie van een persoon bij wet is voorgeschreven, word
 
 - a. wordt genomen in het kader van het sluiten of uitvoeren van een overeenkomst en
 
-- 1°. aan het verzoek van de betrokkene is voldaan of
+   - 1°. aan het verzoek van de betrokkene is voldaan of
 
-- 2°. passende maatregelen zijn genomen ter bescherming van zijn gerechtvaardigd belang, of
+   - 2°. passende maatregelen zijn genomen ter bescherming van zijn gerechtvaardigd belang, of
 
 - b. zijn grondslag vindt in een wet waarin maatregelen zijn vastgelegd die strekken tot bescherming van het gerechtvaardigde belang van de betrokkene.
 
@@ -475,17 +444,17 @@ De verantwoordelijke kan de [artikelen 9, eerste lid](https://wetten.overheid.nl
 
 1. Indien een verwerking plaatsvindt door instellingen of diensten voor wetenschappelijk onderzoek of statistiek, en de nodige voorzieningen zijn getroffen om te verzekeren dat de persoonsgegevens uitsluitend voor statistische en wetenschappelijke doeleinden kunnen worden gebruikt, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2025-11-11&g=2025-11-11) achterwege laten en weigeren aan een verzoek als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2025-11-11&g=2025-11-11) te voldoen.
 
-2. Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2025-11-11&g=2025-11-11) achterwege laten.
+2. Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2025-11-11&g=2025-11-11) achterwege laten.
 
 ### Hoofdstuk 6. Rechtsbescherming
 
 ##### Artikel 37
 
-Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2025-11-11&g=2025-11-11), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2025-11-11&g=2025-11-11) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2025-11-11&g=2025-11-11), alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2025-11-11&g=2025-11-11) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=33&z=2025-11-11&g=2025-11-11) gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
+Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2025-11-11&g=2025-11-11), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2025-11-11&g=2025-11-11) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2025-11-11&g=2025-11-11), alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2025-11-11&g=2025-11-11) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=33&z=2025-11-11&g=2025-11-11) gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
 ##### Artikel 38
 
-1. Indien een beslissing als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=37&z=2025-11-11&g=2025-11-11) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek, de verantwoordelijke te bevelen alsnog een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2025-11-11&g=2025-11-11), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2025-11-11&g=2025-11-11) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2025-11-11&g=2025-11-11), toe of af te wijzen dan wel een verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2025-11-11&g=2025-11-11) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=31&z=2025-11-11&g=2025-11-11) al dan niet te honoreren.
+1. Indien een beslissing als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=37&z=2025-11-11&g=2025-11-11) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek, de verantwoordelijke te bevelen alsnog een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2025-11-11&g=2025-11-11), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2025-11-11&g=2025-11-11) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2025-11-11&g=2025-11-11), toe of af te wijzen dan wel een verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2025-11-11&g=2025-11-11) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=31&z=2025-11-11&g=2025-11-11) al dan niet te honoreren.
 
 2. Het verzoekschrift moet worden ingediend binnen zes weken na ontvangst van het antwoord van de verantwoordelijke. Indien de verantwoordelijke niet binnen de gestelde termijn heeft geantwoord, moet het verzoekschrift worden ingediend binnen zes weken na afloop van die termijn.
 
@@ -611,7 +580,7 @@ Houden de voorlopige bevindingen verband met de uitvoering van enige wet, dan br
 
 ##### Artikel 52
 
-De commissie stelt jaarlijks vóór 1 september een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van haar werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
+De commissie stelt jaarlijks vóór 1 september een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van haar werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
 
 ##### Artikel 53
 
@@ -640,5 +609,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 58
 
 Deze wet wordt aangehaald als: Wet bescherming persoonsgegevens BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

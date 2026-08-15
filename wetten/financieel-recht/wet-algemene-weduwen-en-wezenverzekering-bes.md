@@ -1,38 +1,16 @@
 ---
 title: "Wet algemene weduwen- en wezenverzekering BES"
 identifier: "BWBR0028387"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028387"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10768293"
-version_id: "17744362"
-internal_id: "C24842891"
-label_id: "10743604"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028387/2026-01-01/0"
-intitule_bron: "Stb.2010-604"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-604"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-604"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028387&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028387&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028387"
+opgehaald: 2026-08-15
 ---
+
 # Wet algemene weduwen- en wezenverzekering BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,15 +19,15 @@ entry_into_force: "2010-10-10"
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **ingezetene:** degene die in de openbare lichamen Bonaire, Sint Eustatius of Saba woont;
+- b. *ingezetene:* degene die in de openbare lichamen Bonaire, Sint Eustatius of Saba woont;
 
-- c. **inspecteur:** de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
+- c. *inspecteur:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
 
-- d. **ontvanger:** de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
+- d. *ontvanger:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
 
-- e. **uitreiziger:** persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
+- e. *uitreiziger:* persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
 ##### Artikel 2
 
@@ -77,7 +55,7 @@ De bepalingen van deze wet voor weduwen zijn van overeenkomstige toepassing op w
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk II. Kring van de verzekerden
 
@@ -145,7 +123,7 @@ De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouder
 
 2. Ingeval van kinderen tot wie de verzekerde vader niet in familierechtelijke betrekking stond is het eerste lid, onderdelen a en c, van toepassing indien:
 
-- a. de verzekerde vader ten tijde van zijn overlijden onderhoudsplicht op grond van [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) is opgelegd, dan wel door hem bij authentieke akte onderhoudsplicht is erkend; of
+- a. de verzekerde vader ten tijde van zijn overlijden onderhoudsplicht op grond van [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) is opgelegd, dan wel door hem bij authentieke akte onderhoudsplicht is erkend; of
 
 - b. zij in een gezinsverband met de overleden verzekerde man samen leefden.
 
@@ -165,31 +143,37 @@ De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouder
 
 Geen recht op wezenpensioen bestaat indien de verzekerde aan wiens overlijden het recht daarop zou worden ontleend vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) nimmer verzekerd is geweest.
 
+##### Artikel 10a
+
+1. Geen recht op een wezenuitkering heeft degene die een uitreiziger is.
+
+2. Voor de persoon, bedoeld in het eerste lid, herleeft, onverminderd de bepalingen van deze wet, het recht op een wezenuitkering op de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
+
 #### § 2. De bedragen van het weduwen- en het wezenpensioen
 
 ##### Artikel 11
 
 1. Het weduwenpensioen per maand bedraagt voor de weduwe:
 
-- a. jonger dan 40 jaar: USD 163 per 1 januari 2026: USD 729, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire; per 1 januari 2026: USD 723, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius; per 1 januari 2026: USD 727, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en per 1 januari 2026: USD 723, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- a. jonger dan 40 jaar: USD 163 *per 1 januari 2026: USD 729, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;* *per 1 januari 2026: USD 723, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;* *per 1 januari 2026: USD 727, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en* *per 1 januari 2026: USD 723, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-- b. van 40 tot en met 48 jaar: USD 222 per 1 januari 2026: USD 955, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire; per 1 januari 2026: USD 948, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius; per 1 januari 2026: USD 952, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en per 1 januari 2026: USD 948, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- b. van 40 tot en met 48 jaar: USD 222 *per 1 januari 2026: USD 955, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;* *per 1 januari 2026: USD 948, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;* *per 1 januari 2026: USD 952, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en* *per 1 januari 2026: USD 948, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-- c. van 49 tot en met 57 jaar: USD 278 per 1 januari 2026: USD 1.195, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire; per 1 januari 2026: USD 1.186, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius; per 1 januari 2026: USD 1.192, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en per 1 januari 2026: USD 1.186, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- c. van 49 tot en met 57 jaar: USD 278 *per 1 januari 2026: USD 1.195, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;* *per 1 januari 2026: USD 1.186, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;* *per 1 januari 2026: USD 1.192, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en* *per 1 januari 2026: USD 1.186, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-- d. van 58 tot de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459): USD 365 per 1 januari 2026: USD 1.576, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire; per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius; per 1 januari 2026: USD 1.571, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. van 58 tot de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459): USD 365 *per 1 januari 2026: USD 1.576, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;* *per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;* *per 1 januari 2026: USD 1.571, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en* *per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
 2. Verhoging van het pensioenbedrag gaat in op de eerste dag van de maand volgende op die, waarin het recht op verhoging is ontstaan.
 
-3. In afwijking van het bepaalde in het eerste lid bedraagt het weduwenpensioen voor een weduwe die invalide is of die een of meer kinderen heeft die tot haar last komen en recht hebben op wezenpensioen, USD 365
+3. In afwijking van het bepaalde in het eerste lid bedraagt het weduwenpensioen voor een weduwe die invalide is of die een of meer kinderen heeft die tot haar last komen en recht hebben op wezenpensioen, USD 365
 
-per 1 januari 2026: USD 1.576, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+*per 1 januari 2026: USD 1.576, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
 
-per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+*per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
 
-per 1 januari 2026: USD 1.571, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+*per 1 januari 2026: USD 1.571, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
 
-per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+*per 1 januari 2026: USD 1.563, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
 per maand.
 
@@ -201,69 +185,69 @@ per maand.
 
 ##### Artikel 12
 
-1. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde ouderloos is geworden, USD 134
+1. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde ouderloos is geworden, USD 134
 
-per 1 januari 2026: USD 575, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+*per 1 januari 2026: USD 575, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
 
-per 1 januari 2026: USD 571, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+*per 1 januari 2026: USD 571, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
 
-per 1 januari 2026: USD 573, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+*per 1 januari 2026: USD 573, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
 
-per 1 januari 2026: USD 571, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+*per 1 januari 2026: USD 571, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-per maand, indien het jonger is dan tien jaar en USD 146
+per maand, indien het jonger is dan tien jaar en USD 146
 
-per 1 januari 2026: USD 630, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+*per 1 januari 2026: USD 630, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
 
-per 1 januari 2026: USD 625, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+*per 1 januari 2026: USD 625, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
 
-per 1 januari 2026: USD 628, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+*per 1 januari 2026: USD 628, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
 
-per 1 januari 2026: USD 625, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-per maand indien het tien jaar of ouder, doch nog geen 15 jaar is.
-
-2. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde vaderloos onderscheidenlijk moederloos is geworden, USD 132
-
-per 1 januari 2026: USD 528, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
-
-per 1 januari 2026: USD 524, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
-
-per 1 januari 2026: USD 526, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
-
-per 1 januari 2026: USD 524, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-per maand, indien het jonger is dan tien jaar en USD 134
-
-per 1 januari 2026: USD 575, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
-
-per 1 januari 2026: USD 571, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
-
-per 1 januari 2026: USD 573, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
-
-per 1 januari 2026: USD 571, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+*per 1 januari 2026: USD 625, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
 per maand indien het tien jaar of ouder, doch nog geen 15 jaar is.
 
-3. Het wezenpensioen bedraagt voor een kind, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), USD 146
+2. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde vaderloos onderscheidenlijk moederloos is geworden, USD 132
 
-per 1 januari 2026: USD 630, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+*per 1 januari 2026: USD 528, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
 
-per 1 januari 2026: USD 625, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+*per 1 januari 2026: USD 524, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
 
-per 1 januari 2026: USD 628, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+*per 1 januari 2026: USD 526, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
 
-per 1 januari 2026: USD 625, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+*per 1 januari 2026: USD 524, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
-per maand, voor zover het voldoet aan artikel 9, eerste lid, onderdelen a of b, en USD 169
+per maand, indien het jonger is dan tien jaar en USD 134
 
-per 1 januari 2026: USD 727, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;
+*per 1 januari 2026: USD 575, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
 
-per 1 januari 2026: USD 721, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;
+*per 1 januari 2026: USD 571, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
 
-per 1 januari 2026: USD 725, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en
+*per 1 januari 2026: USD 573, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
 
-per 1 januari 2026: USD 721, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
+*per 1 januari 2026: USD 571, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
+
+per maand indien het tien jaar of ouder, doch nog geen 15 jaar is.
+
+3. Het wezenpensioen bedraagt voor een kind, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), USD 146
+
+*per 1 januari 2026: USD 630, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
+
+*per 1 januari 2026: USD 625, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
+
+*per 1 januari 2026: USD 628, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
+
+*per 1 januari 2026: USD 625, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
+
+per maand, voor zover het voldoet aan artikel 9, eerste lid, onderdelen a of b, en USD 169
+
+*per 1 januari 2026: USD 727, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;*
+
+*per 1 januari 2026: USD 721, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;*
+
+*per 1 januari 2026: USD 725, indien belanghebbende woonachtig is in het openbaar lichaam Saba; en*
+
+*per 1 januari 2026: USD 721, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.*
 
 per maand, voor zover het voldoet aan [artikel 9, eerste lid, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01).
 
@@ -272,6 +256,18 @@ per maand, voor zover het voldoet aan [artikel 9, eerste lid, onderdelen c of d]
 4. Indien op grond van meer dan één overlijden aanspraak op wezenpensioen kan worden gemaakt, wordt het hoogste wezenpensioen toegekend.
 
 #### § 2a. Aanpassing en herziening van het weduwen- en wezenpensioen
+
+##### Artikel 12a
+
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+
+2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.
+
+3. De overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01).
+
+4. Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.
+
+#### § 3. Toekenning, ingang, betaling en einde van het weduwen- en wezenpensioen
 
 ##### Artikel 13
 
@@ -282,6 +278,10 @@ Waar in deze paragraaf wordt gesproken van pensioen wordt daaronder verstaan het
 1. Het pensioen wordt op aanvraag toegekend door Onze Minister door middel van een door Onze Minister beschikbaar gesteld aanvraagformulier.
 
 2. In afwijking van het bepaalde in het voorgaande lid is Onze Minister bevoegd het pensioen ambtshalve toe te kennen.
+
+##### Artikel 14a
+
+Voor de toepassing van [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), onderwerpt de betrokken persoon zich op verzoek van Onze Minister aan een geneeskundig onderzoek.
 
 ##### Artikel 15
 
@@ -305,7 +305,7 @@ Het pensioen gaat in op de eerste dag van de maand volgende op de maand, waarin 
 
 2. Voorzover in verband met het bepaalde in het voorgaande lid het pensioen niet werd uitbetaald aan de gepensioneerde of diens wettelijke vertegenwoordiger, wordt het na het overlijden van de gepensioneerde voorzover nodig in afwijking van het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01) bepaalde, tot en met de laatste dag van de maand, waarin het overlijden heeft plaats gehad, uitbetaald aan het in het voorgaande lid bedoelde orgaan.
 
-3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
 ##### Artikel 18
 
@@ -357,6 +357,28 @@ Aan de weduwe, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.o
 
 Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of wezen geleden als gevolg van het overlijden van de verzekerde man of vrouw, is voor het pensioen van de weduwe, weduwnaar of wezen toegekend op grond van deze wet aansprakelijk jegens Onze Minister.
 
+##### Artikel 23b
+
+1. Onze Minister kan een beschikking herzien dan wel intrekken indien:
+
+- a. het niet of niet behoorlijk nakomen van een verplichting op grond van de [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=37a&z=2026-01-01&g=2026-01-01), heeft geleid tot een te hoog of ten onrechte toegekend pensioen;
+
+- b. ten onrechte pensioen is toegekend;
+
+- c. het niet of niet behoorlijk nakomen van een verplichting op grond van de [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=37a&z=2026-01-01&g=2026-01-01), ertoe leidt dat niet kan worden vastgesteld of nog recht op pensioen bestaat; of
+
+- d. degene aan wie pensioen is toegekend, ingevolge het op grond van deze wet bepaalde, daarvoor niet of niet of niet meer in aanmerking komt, dan wel voor een hoger of lager pensioen in aanmerking komt.
+
+2. De herziening van het pensioen, die voortvloeit uit een wijziging van de omstandigheden en die een verhoging van dit pensioen tot gevolg heeft, gaat in op de eerste dag van de maand, volgende op de maand waarin de wijziging van die omstandigheden heeft plaats gevonden. Het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
+
+3. De intrekking van het pensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de beschikking is gelegen.
+
+4. De herziening van het pensioen in verband met [artikel 12a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2a&artikel=12a&z=2026-01-01&g=2026-01-01), gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 12a, eerste en tweede lid, de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01) genoemde bedragen van het pensioen zijn herzien.
+
+5. Indien daarvoor dringende redenen aanwezig zijn, kan Onze Minister geheel of gedeeltelijk van herziening of intrekking afzien.
+
+6. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven ter uitvoering van dit artikel.
+
 ##### Artikel 24
 
 1. Behoudens het bepaalde in het volgende lid zijn de eenmaal uitbetaalde termijnen van het pensioen niet vatbaar voor terugvordering.
@@ -377,7 +399,7 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk IV. De op te brengen middelen
 
@@ -397,11 +419,11 @@ Vervallen
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -421,23 +443,23 @@ Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffin
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32b
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Het verstrekken van inlichtingen
 
@@ -449,7 +471,7 @@ Vervallen
 
 ##### Artikel 36
 
-1. Een ieder is verplicht aan Onze Minister of aan enige vanwege Onze Minister aangewezen persoon de voor de uitvoering van deze wet van hem gevraagde inlichtingen te verstrekken. De door Onze Minister verlangde inlichtingen omvatten ten minste de naam en de voornamen van de persoon van wie de inlichtingen worden gevraagd en het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is.
+1. Een ieder is verplicht aan Onze Minister of aan enige vanwege Onze Minister aangewezen persoon de voor de uitvoering van deze wet van hem gevraagde inlichtingen te verstrekken. De door Onze Minister verlangde inlichtingen omvatten ten minste de naam en de voornamen van de persoon van wie de inlichtingen worden gevraagd en het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is.
 
 2. De inlichtingen moeten desgevraagd schriftelijk worden verstrekt binnen een schriftelijk te stellen termijn.
 
@@ -461,7 +483,15 @@ Vervallen
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-### Hoofdstuk VI. Bezwaar en beroep
+##### Artikel 37a
+
+1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
+
+2. De gepensioneerde, zijn wettelijke vertegenwoordiger of het orgaan waaraan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) pensioen wordt uitbetaald, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet. Gelijke verplichting geldt voor de wettelijke vertegenwoordiger van het kind dat recht heeft op wezenpensioen en de persoon, aan wie op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01), tweede lid, het wezenpensioen betaalbaar wordt gesteld.
+
+3. De gepensioneerde, zijn wettelijke vertegenwoordiger, de wettelijke vertegenwoordiger van het kind dat recht heeft op wezenpensioen en de persoon, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01) onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
+
+### Hoofdstuk VI. Bekendmaking, bezwaar en beroep
 
 ##### Artikel 38
 
@@ -491,17 +521,17 @@ Vervallen
 
 4. Tegen hetgeen omtrent de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) dezer wet, alsmede omtrent het zuiver inkomen in de zin van de [Wet op de inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) voor de heffing van die belasting onherroepelijk is komen vast te staan, is beroep niet toegelaten.
 
-### Hoofdstuk VI. Bekendmaking, bezwaar en beroep
+### Hoofdstuk VII. Overgangsbepalingen
 
 ##### Artikel 41
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 42
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk VII. Overgangsbepalingen
+### Hoofdstuk VIIa. Overige bepalingen
 
 ##### Artikel 42a
 
@@ -511,7 +541,11 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van taakuitoefening van de op grond van het eerste lid aangewezen functionarissen.
 
-### Hoofdstuk VIIa
+##### Artikel 42b
+
+[Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
+
+### Hoofdstuk VIII. Strafbepalingen
 
 ##### Artikel 43
 
@@ -561,7 +595,7 @@ De in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstu
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
@@ -571,7 +605,7 @@ Vervallen
 
 ##### Artikel 54
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 55
 
@@ -579,7 +613,7 @@ Hetgeen overigens ter uitvoering van deze wet nodig is, wordt bij algemene maatr
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
@@ -588,113 +622,3 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 ##### Artikel 58
 
 Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
-
-##### Artikel 12a
-
-1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
-
-2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.
-
-3. De overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01).
-
-4. Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.
-
-#### § 3. Toekenning, ingang, betaling en einde van het weduwen- en wezenpensioen
-
-#### § 4. Waarborg pensioenbetaling
-
-### Hoofdstuk IV. De op te brengen middelen
-
-### Hoofdstuk V. Het verstrekken van inlichtingen
-
-### Hoofdstuk VI. Bezwaar en beroep
-
-### Hoofdstuk VI. Bekendmaking, bezwaar en beroep
-
-### Hoofdstuk VIIa. Overige bepalingen
-
-### Hoofdstuk IX. Slotbepalingen
-
-##### Artikel 10a
-
-1. Geen recht op een wezenuitkering heeft degene die een uitreiziger is.
-
-2. Voor de persoon, bedoeld in het eerste lid, herleeft, onverminderd de bepalingen van deze wet, het recht op een wezenuitkering op de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
-
-#### § 2. De bedragen van het weduwen- en het wezenpensioen
-
-#### § 2a. Aanpassing en herziening van het weduwen- en wezenpensioen
-
-#### § 3. Toekenning, ingang, betaling en einde van het weduwen- en wezenpensioen
-
-#### § 4. Waarborg pensioenbetaling
-
-### Hoofdstuk IV. De op te brengen middelen
-
-### Hoofdstuk V. Het verstrekken van inlichtingen
-
-### Hoofdstuk VI. Bekendmaking, bezwaar en beroep
-
-### Hoofdstuk VII. Overgangsbepalingen
-
-### Hoofdstuk VIII. Strafbepalingen
-
-### Hoofdstuk IX. Slotbepalingen
-
-##### Artikel 42b
-
-[Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
-
-### Hoofdstuk VIIa. Overige bepalingen
-
-### Hoofdstuk IX. Slotbepalingen
-
-##### Artikel 37a
-
-1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
-
-2. De gepensioneerde, zijn wettelijke vertegenwoordiger of het orgaan waaraan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) pensioen wordt uitbetaald, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet. Gelijke verplichting geldt voor de wettelijke vertegenwoordiger van het kind dat recht heeft op wezenpensioen en de persoon, aan wie op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01), tweede lid, het wezenpensioen betaalbaar wordt gesteld.
-
-3. De gepensioneerde, zijn wettelijke vertegenwoordiger, de wettelijke vertegenwoordiger van het kind dat recht heeft op wezenpensioen en de persoon, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01) onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
-
-### Hoofdstuk VII. Overgangsbepalingen
-
-### Hoofdstuk VIII. Strafbepalingen
-
-### Hoofdstuk IX. Slotbepalingen
-
-##### Artikel 14a
-
-Voor de toepassing van [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), onderwerpt de betrokken persoon zich op verzoek van Onze Minister aan een geneeskundig onderzoek.
-
-##### Artikel 23b
-
-1. Onze Minister kan een beschikking herzien dan wel intrekken indien:
-
-- a. het niet of niet behoorlijk nakomen van een verplichting op grond van de [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=37a&z=2026-01-01&g=2026-01-01), heeft geleid tot een te hoog of ten onrechte toegekend pensioen;
-
-- b. ten onrechte pensioen is toegekend;
-
-- c. het niet of niet behoorlijk nakomen van een verplichting op grond van de [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=37a&z=2026-01-01&g=2026-01-01), ertoe leidt dat niet kan worden vastgesteld of nog recht op pensioen bestaat; of
-
-- d. degene aan wie pensioen is toegekend, ingevolge het op grond van deze wet bepaalde, daarvoor niet of niet of niet meer in aanmerking komt, dan wel voor een hoger of lager pensioen in aanmerking komt.
-
-2. De herziening van het pensioen, die voortvloeit uit een wijziging van de omstandigheden en die een verhoging van dit pensioen tot gevolg heeft, gaat in op de eerste dag van de maand, volgende op de maand waarin de wijziging van die omstandigheden heeft plaats gevonden. Het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-3. De intrekking van het pensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de beschikking is gelegen.
-
-4. De herziening van het pensioen in verband met [artikel 12a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2a&artikel=12a&z=2026-01-01&g=2026-01-01), gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 12a, eerste en tweede lid, de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01) genoemde bedragen van het pensioen zijn herzien.
-
-5. Indien daarvoor dringende redenen aanwezig zijn, kan Onze Minister geheel of gedeeltelijk van herziening of intrekking afzien.
-
-6. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven ter uitvoering van dit artikel.
-
-#### § 4. Waarborg pensioenbetaling
-
-### Hoofdstuk IV. De op te brengen middelen
-
-### Hoofdstuk V. Het verstrekken van inlichtingen
-
-### Hoofdstuk VIII. Strafbepalingen
-
-### Hoofdstuk IX. Slotbepalingen

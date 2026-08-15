@@ -1,38 +1,16 @@
 ---
 title: "Besluit extra beslaglegging dienstplichtigen BES"
 identifier: "BWBR0028405"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028405"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10776253"
-version_id: "17752892"
-internal_id: "C24779901"
-label_id: "10750994"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028405/2010-10-10/0"
-intitule_bron: "Stb.2010-430"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-430"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-430"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028405&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028405&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028405"
+opgehaald: 2026-08-15
 ---
+
 # Besluit extra beslaglegging dienstplichtigen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,21 +19,21 @@ entry_into_force: "2010-10-10"
 
 In dit besluit wordt verstaan onder:
 
-- a. **oefenen:** het nabootsen van operationele taken, die door de regionaal bevelhebber als zodanig zijn aangemerkt, waarbij theoretisch onderwezen bekwaamheden in praktijk worden gebracht teneinde aldus de bedrevenheid in het uitvoeren van die taken te vergroten;
+- a. *oefenen:* het nabootsen van operationele taken, die door de regionaal bevelhebber als zodanig zijn aangemerkt, waarbij theoretisch onderwezen bekwaamheden in praktijk worden gebracht teneinde aldus de bedrevenheid in het uitvoeren van die taken te vergroten;
 
-- b. **(wacht)diensten:** activiteiten die niet behoeven voort te vloeien uit de door de dienstplichtige of de vrijwillig nadienende dienstplichtige vervulde functie doch die zijn vereist voor het functioneren van de militaire organisatie;
+- b. *(wacht)diensten:* activiteiten die niet behoeven voort te vloeien uit de door de dienstplichtige of de vrijwillig nadienende dienstplichtige vervulde functie doch die zijn vereist voor het functioneren van de militaire organisatie;
 
-- c. **werkzaamheden:** activiteiten die voortvloeien uit de door de dienstplichtige of de vrijwillig nadienende dienstplichtige vervulde functie, alsmede andere opgedragen activiteiten die om redenen van dienst dan wel in het algemeen belang noodzakelijk zijn;
+- c. *werkzaamheden:* activiteiten die voortvloeien uit de door de dienstplichtige of de vrijwillig nadienende dienstplichtige vervulde functie, alsmede andere opgedragen activiteiten die om redenen van dienst dan wel in het algemeen belang noodzakelijk zijn;
 
-- d. **continu- of ploegen diensten:** werkzaamheden die door meerdere groepen van militairen regelmatig of vrij regelmatig op ongebruikelijke uren worden verricht, waarbij de roosterperiode de cyclus beslaat waarin alle voorkomende werktijden en roostervrije perioden eenmaal zijn doorlopen;
+- d. *continu- of ploegen diensten:* werkzaamheden die door meerdere groepen van militairen regelmatig of vrij regelmatig op ongebruikelijke uren worden verricht, waarbij de roosterperiode de cyclus beslaat waarin alle voorkomende werktijden en roostervrije perioden eenmaal zijn doorlopen;
 
-- e. **maximale arbeidsduur:** de tijdsduur, uitgedrukt in een aantal uren per dag of per week, gedurende welke de dienstplichtige of de vrijwillig nadienende dienstplichtige met inachtneming van [artikel 66, eerste lid, van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&artikel=66) werkzaamheden of diensten moet verrichten;
+- e. *maximale arbeidsduur:* de tijdsduur, uitgedrukt in een aantal uren per dag of per week, gedurende welke de dienstplichtige of de vrijwillig nadienende dienstplichtige met inachtneming van [artikel 66, eerste lid, van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&artikel=66) werkzaamheden of diensten moet verrichten;
 
-- f. **meetperiode:** de periode waarvoor het rooster geldt, doch in beginsel één kalendermaand;
+- f. *meetperiode:* de periode waarvoor het rooster geldt, doch in beginsel één kalendermaand;
 
-- g. **rooster:** een voor een periode van tenminste één week opgesteld en van tevoren bekendgemaakt schema van aanvang en einde der dagelijkse werk- en rusttijden eventueel afzonderlijk vastgesteld voor werkzaamheden en voor diensten;
+- g. *rooster:* een voor een periode van tenminste één week opgesteld en van tevoren bekendgemaakt schema van aanvang en einde der dagelijkse werk- en rusttijden eventueel afzonderlijk vastgesteld voor werkzaamheden en voor diensten;
 
-- h. **feest- of gedenkdag:** Nieuwjaarsdag, eerste en tweede Paasdag, 5 mei, Hemelvaartsdag, eerste en tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koningin wordt gevierd, door Onze Minister aan te wijzen andere feest- en gedenkdagen alsmede iedere andere dag als zodanig genoemd in de regelingen voor landsdienaren.
+- h. *feest- of gedenkdag:* Nieuwjaarsdag, eerste en tweede Paasdag, 5 mei, Hemelvaartsdag, eerste en tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koningin wordt gevierd, door Onze Minister aan te wijzen andere feest- en gedenkdagen alsmede iedere andere dag als zodanig genoemd in de regelingen voor landsdienaren.
 
 ##### Artikel 2
 

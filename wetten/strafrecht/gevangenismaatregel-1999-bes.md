@@ -1,38 +1,16 @@
 ---
 title: "Gevangenismaatregel 1999 BES"
 identifier: "BWBR0028513"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028513"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10831453"
-version_id: "17810292"
-internal_id: "C24903011"
-label_id: "10806574"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028513/2010-10-10/0"
-intitule_bron: "Stb.2010-558"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-558"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-558"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028513&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028513&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028513"
+opgehaald: 2026-08-15
 ---
+
 # Gevangenismaatregel 1999 BES
 
 #### § 1. Algemene bepalingen
@@ -41,11 +19,11 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit wordt verstaan onder:
 
-- **gesticht:** een huis van bewaring, gevangenis of een door Onze Minister aangewezen inrichting of instelling;
+- *gesticht:* een huis van bewaring, gevangenis of een door Onze Minister aangewezen inrichting of instelling;
 
-- **directeur:** de lokatie-directeur van een gesticht en bij zijn afwezigheid, degene die hem vervangt;
+- *directeur:* de lokatie-directeur van een gesticht en bij zijn afwezigheid, degene die hem vervangt;
 
-- **gedetineerde:** de persoon ingesloten in een gesticht.
+- *gedetineerde:* de persoon ingesloten in een gesticht.
 
 2. Dit besluit berust op de artikelen 12, 16, vierde lid, 18, tweede lid, 28, 32a, 37g, 42 en 44, zesde lid, van de Wet beginselen gevangeniswezen BES.
 

@@ -1,49 +1,27 @@
 ---
 title: "Besluit identiteitskaarten BES"
 identifier: "BWBR0028517"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028517"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10833113"
-version_id: "17811502"
-internal_id: "C24784231"
-label_id: "10807784"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028517/2010-10-10/0"
-intitule_bron: "Stb.2010-422"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-422"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-422"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028517&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028517&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028517"
+opgehaald: 2026-08-15
 ---
+
 # Besluit identiteitskaarten BES
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de wet:** de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279);
+- a. *de wet:* de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279);
 
-- b. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- b. *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 1a
 

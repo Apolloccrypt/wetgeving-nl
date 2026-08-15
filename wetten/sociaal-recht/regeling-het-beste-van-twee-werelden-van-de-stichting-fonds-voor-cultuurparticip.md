@@ -1,65 +1,27 @@
 ---
 title: "Regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie"
 identifier: "BWBR0027611"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-05-04"
-last_updated: "2010-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027611"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10518663"
-version_id: "17330922"
-internal_id: "C23915611"
-label_id: "10493684"
-dtd_version: "2.0"
-original_entry_into_force: "2010-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027611/2010-05-04/0"
-intitule_bron: "Stcrt.2010-6671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-09"
-intitule_published: "2010-05-03"
-intitule_in_force: "2010-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-6671"
-original_signed_date: "2010-04-09"
-original_published_date: "2010-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-6671"
-entry_into_force_date: "2010-05-04"
-jci_1_3: "jci1.3:c:BWBR0027611&z=2010-05-04&g=2010-05-04"
-jci_1_0: "1.0:c:BWBR0027611&g=2010-05-04"
-citeertitel_status: "officieel"
-signed_date: "2010-04-09"
-entry_into_force: "2010-05-04"
+publicatiedatum: 2010-05-04
+laatste_update: 2010-05-04
+status: geldig
+toestand: 2010-05-04
+bron: "https://wetten.overheid.nl/BWBR0027611"
+opgehaald: 2026-08-15
 ---
+
 # Regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie
-
-Het Fonds voor Cultuurparticipatie wil met de deelregeling **Het beste van twee werelden** professionele cultuurinstellingen stimuleren bij te dragen aan de ontwikkeling van de amateursector. Om dit doel te bereiken ondersteunt het fonds innovatieve voorbeeldprojecten waaruit een duurzame betrokkenheid van professionele cultuurinstellingen bij de amateursector spreekt. Deze betrokkenheid kan bestaan uit het voornemen de artistieke of inhoudelijke samenwerking tussen professionals en amateurs of erfgoedvrijwilligers te bevorderen, de ondersteuning en zichtbaarheid van de amateursector te verbeteren of talentontwikkeling van amateurs te stimuleren. Binnen het programma is nadrukkelijk aandacht voor culturele diversiteit.
-
-Het fonds streeft ernaar verspreid over het land dergelijke initiatieven te ondersteunen die gericht zijn op:
-
-het ontwikkelen van kennis, of
-
-realisatie van praktijkvoorbeelden; of
-
-ontwikkeling van methodieken of werkwijzen die kunnen worden overgedragen aan derden of door hen verder kunnen worden ontwikkeld.
-
-Deze regeling is vastgesteld om het beleid op dit punt, zoals dat is vastgelegd in het beleidsplan van het Fonds voor Cultuurparticipatie, te operationaliseren. Gezien het stimuleringskarakter richt het programma zich op vernieuwende, niet-reguliere activiteiten met een looptijd van 2010 tot en met 2012, met als oogmerk dat deze hierna structureel verankerd raken in het reguliere beleid van de deelnemende organisaties.
-
-De Stichting Fonds voor Cultuurparticipatie, gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, op 22 april 2010;
-
-Besluit:
 
 ##### Artikel 1. Ondersteuningsmogelijkheden
 
 Het Fonds voor Cultuurparticipatie ondersteunt onder de noemer ‘Het beste van twee werelden’ projecten afkomstig van cultuurinstellingen die zijn gericht op:
 
-- a). het stimuleren van artistieke of inhoudelijke samenwerking tussen professionals en amateurs of erfgoedvrijwilligers met als doel het bevorderen van de artistieke of inhoudelijke ontwikkeling van de amateursector in al zijn diversiteit; of
+- a) het stimuleren van artistieke of inhoudelijke samenwerking tussen professionals en amateurs of erfgoedvrijwilligers met als doel het bevorderen van de artistieke of inhoudelijke ontwikkeling van de amateursector in al zijn diversiteit; of
 
-- b). het verbeteren van de ondersteuning en de zichtbaarheid van de amateursector met als doel het optimaliseren van de faciliteiten, de begeleiding en de dienstverlening aan amateurs of erfgoedvrijwilligers; of
+- b) het verbeteren van de ondersteuning en de zichtbaarheid van de amateursector met als doel het optimaliseren van de faciliteiten, de begeleiding en de dienstverlening aan amateurs of erfgoedvrijwilligers; of
 
-- c). de ontwikkeling van doorgroeimogelijkheden voor talentvolle amateurs, met name op die gebieden waar de amateursector nog onvoldoende aansluiting biedt op het kunstvakonderwijs, zoals op het gebied van urban arts, circustheater, creative design, wereldmuziek en -dans.
+- c) de ontwikkeling van doorgroeimogelijkheden voor talentvolle amateurs, met name op die gebieden waar de amateursector nog onvoldoende aansluiting biedt op het kunstvakonderwijs, zoals op het gebied van urban arts, circustheater, creative design, wereldmuziek en -dans.
 
 ##### Artikel 2. Ontvankelijkheid en indientermijn
 
@@ -71,27 +33,27 @@ Het Fonds voor Cultuurparticipatie ondersteunt onder de noemer ‘Het beste van 
 
 Voor alle categorieën projecten geldt dat het project:
 
-- a). zich richt op een samenwerkingsvorm met amateurs zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04); en
+- a) zich richt op een samenwerkingsvorm met amateurs zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04); en
 
-- b). een landelijke voorbeeldfunctie heeft doordat de resultaten van het project het belang van de organiserende instelling overstijgen; en
+- b) een landelijke voorbeeldfunctie heeft doordat de resultaten van het project het belang van de organiserende instelling overstijgen; en
 
-- c). blijk geeft van de ambitie van de betrokken instelling(en) om zich duurzaam aan de samenwerking met de amateurs te committeren; en
+- c) blijk geeft van de ambitie van de betrokken instelling(en) om zich duurzaam aan de samenwerking met de amateurs te committeren; en
 
-- d). wordt gemonitord en geëvalueerd.
+- d) wordt gemonitord en geëvalueerd.
 
 ##### Artikel 4. Niet in aanmerking voor subsidie komen:
 
-- –. instellingen waarvan het toezicht op het doelmatig en verantwoord functioneren onvoldoende is;
+- – instellingen waarvan het toezicht op het doelmatig en verantwoord functioneren onvoldoende is;
 
-- –. projecten waarbij de ontwikkeling van de amateursector niet de hoofddoelstelling is;
+- – projecten waarbij de ontwikkeling van de amateursector niet de hoofddoelstelling is;
 
-- –. projecten die tot doel hebben subsidie te verwerven voor investeringen in bedrijfsmiddelen of bouwkundige voorzieningen;
+- – projecten die tot doel hebben subsidie te verwerven voor investeringen in bedrijfsmiddelen of bouwkundige voorzieningen;
 
-- –. projecten die onderdeel uitmaken van het reguliere beleidsplan van een cultuurinstelling die in het kader van de basisinfrastructuur rechtstreeks is gefinancierd met cultuurmiddelen door de rijksoverheid, de provinciale of lokale overheid, of door het Fonds Podiumkunsten.
+- – projecten die onderdeel uitmaken van het reguliere beleidsplan van een cultuurinstelling die in het kader van de basisinfrastructuur rechtstreeks is gefinancierd met cultuurmiddelen door de rijksoverheid, de provinciale of lokale overheid, of door het Fonds Podiumkunsten.
 
-- –. projecten die redelijkerwijs gefinancierd kunnen worden uit het reguliere taakstellingbudget van aanvragers;
+- – projecten die redelijkerwijs gefinancierd kunnen worden uit het reguliere taakstellingbudget van aanvragers;
 
-- –. projecten die zijn ingediend zonder gebruikmaking van het daarvoor onder [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=2&z=2010-05-04&g=2010-05-04) bedoelde aanvraagformulier.
+- – projecten die zijn ingediend zonder gebruikmaking van het daarvoor onder [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=2&z=2010-05-04&g=2010-05-04) bedoelde aanvraagformulier.
 
 ##### Artikel 5. Beslissing op de aanvraag
 
@@ -103,15 +65,15 @@ Uiterlijk binnen 3 maanden na indiening van de aanvraag, stelt het bestuur van h
 
 Voor alle drie de categorieën projecten geldt dat:
 
-- a). het projectplan aangeeft waarom het initiatief past binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) genoemde ondersteuningsmogelijkheden en goed is onderbouwd; en
+- a) het projectplan aangeeft waarom het initiatief past binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) genoemde ondersteuningsmogelijkheden en goed is onderbouwd; en
 
-- b). het projectplan inhoudelijk van goede kwaliteit is; en
+- b) het projectplan inhoudelijk van goede kwaliteit is; en
 
-- c). de organisatorische kwaliteit van de betrokken instellingen goed is; en
+- c) de organisatorische kwaliteit van de betrokken instellingen goed is; en
 
-- d). het projectplan uitgaat van een expliciet partnerschap tussen professionele instelling(en) en één of meerdere organisaties van en voor amateurs of erfgoedvrijwilligers; en
+- d) het projectplan uitgaat van een expliciet partnerschap tussen professionele instelling(en) en één of meerdere organisaties van en voor amateurs of erfgoedvrijwilligers; en
 
-- e). de begroting realistisch en inzichtelijk is.
+- e) de begroting realistisch en inzichtelijk is.
 
 ##### Artikel 7. Hoogte en duur van de bijdrage
 
@@ -149,25 +111,25 @@ Projecten kunnen binnen de regeling ‘Het beste van twee werelden’ worden ond
 
 Bij de beoordeling van de projectplannen zoals genoemd in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) streeft het fonds ernaar dat ten minste een van de binnen deze categorie te honoreren aanvragen voldoet aan de volgende subdoelstellingen dat:
 
-- a). het project tot doel heeft het tot stand brengen van een netwerk waarin kennis en ervaring op het gebied van community arts wordt gedeeld; of
+- a) het project tot doel heeft het tot stand brengen van een netwerk waarin kennis en ervaring op het gebied van community arts wordt gedeeld; of
 
-- b). het project op bijzondere wijze artistieke samenwerking realiseert tussen professionals en amateurs met een beperking; of
+- b) het project op bijzondere wijze artistieke samenwerking realiseert tussen professionals en amateurs met een beperking; of
 
-- c). het project is gericht op de ontwikkeling en uitvoering van eigentijds jongerentheaterrepertoire dat onderscheidend is ten opzichte van het reeds aanwezige aanbod.
+- c) het project is gericht op de ontwikkeling en uitvoering van eigentijds jongerentheaterrepertoire dat onderscheidend is ten opzichte van het reeds aanwezige aanbod.
 
 Bij de beoordeling van de projectplannen zoals genoemd in [artikel 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) streeft het fonds ernaar dat ten minste een van de binnen deze categorie te honoreren aanvragen voldoet aan de volgende subdoelstellingen dat:
 
-- a). het project gericht is op de realisatie van een landelijke, grootschalige tentoonstelling waarbij beeldend werk van professionals en amateurs gezamenlijk wordt geëxposeerd; of
+- a) het project gericht is op de realisatie van een landelijke, grootschalige tentoonstelling waarbij beeldend werk van professionals en amateurs gezamenlijk wordt geëxposeerd; of
 
-- b). het project gericht is op het aanzienlijk verbeteren of ontwikkelen van de presentatiemogelijkheden voor amateurproducties. Bijvoorbeeld door het in meerdere seizoenen programmeren van kwalitatief hoogwaardige amateurvoorstellingen en het verlenen van professionele bijstand aan amateurs bij de organisatie, de technische uitvoering van een productie of het voeren van publiciteit, alles op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is; of
+- b) het project gericht is op het aanzienlijk verbeteren of ontwikkelen van de presentatiemogelijkheden voor amateurproducties. Bijvoorbeeld door het in meerdere seizoenen programmeren van kwalitatief hoogwaardige amateurvoorstellingen en het verlenen van professionele bijstand aan amateurs bij de organisatie, de technische uitvoering van een productie of het voeren van publiciteit, alles op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is; of
 
-- c). het project gericht is op het verbeteren van de infrastructuur van koorbegeleiding zodat meer amateurkoren gebruik kunnen maken van een professionele orkestbegeleiding op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is; of
+- c) het project gericht is op het verbeteren van de infrastructuur van koorbegeleiding zodat meer amateurkoren gebruik kunnen maken van een professionele orkestbegeleiding op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is; of
 
-- d). het project gericht is op de ontwikkeling van organisatorische ondersteuning van (groepen) amateurs of vrijwilligers en de mogelijkheden verkent om facilitaire ondersteuning te bieden aan deze doelgroep(en). Bijvoorbeeld door het beschikbaar stellen van archiefmateriaal, ruimtes, apparatuur, decors, kostuums, rekwisieten, het verlenen van ondersteunend advies of hulp bij de ontsluiting van collecties, alles op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is.
+- d) het project gericht is op de ontwikkeling van organisatorische ondersteuning van (groepen) amateurs of vrijwilligers en de mogelijkheden verkent om facilitaire ondersteuning te bieden aan deze doelgroep(en). Bijvoorbeeld door het beschikbaar stellen van archiefmateriaal, ruimtes, apparatuur, decors, kostuums, rekwisieten, het verlenen van ondersteunend advies of hulp bij de ontsluiting van collecties, alles op een schaal en manier die onderscheidend is ten opzichte van wat tot nu toe gebruikelijk is.
 
 Bij de beoordeling van de projectplannen zoals genoemd in [artikel 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) streeft het fonds ernaar dat ten minste een van de binnen deze categorie te honoreren aanvragen voldoet aan de volgende subdoelstellingen dat:
 
-- a). het project nieuwe mogelijkheden onderzoekt voor de ontwikkeling van bestendige doorgroeimogelijkheden voor talentvolle jongeren die niet of nog in onvoldoende mate de kans hebben zich te ontwikkelen via reguliere kunstopleidingen. Prioriteit daarbij hebben projecten waarin urban arts, circustheater, creative design, wereldmuziek en -dans, interdisciplinaire of cultureel diverse activiteiten centraal staan.
+- a) het project nieuwe mogelijkheden onderzoekt voor de ontwikkeling van bestendige doorgroeimogelijkheden voor talentvolle jongeren die niet of nog in onvoldoende mate de kans hebben zich te ontwikkelen via reguliere kunstopleidingen. Prioriteit daarbij hebben projecten waarin urban arts, circustheater, creative design, wereldmuziek en -dans, interdisciplinaire of cultureel diverse activiteiten centraal staan.
 
 ##### Artikel 10. Inwerkingtreding
 

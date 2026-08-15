@@ -1,55 +1,33 @@
 ---
 title: "Monumentenwet BES"
 identifier: "BWBR0028429"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028429"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10781733"
-version_id: "17758762"
-internal_id: "C24812781"
-label_id: "10756394"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028429/2010-10-10/0"
-intitule_bron: "Stb.2010-580"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-580"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-580"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028429&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028429&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028429"
+opgehaald: 2026-08-15
 ---
+
 # Monumentenwet BES
 
 ##### Artikel 1
 
 Voor de toepassing van deze wet wordt verstaan onder:
 
-- a. **monumenten:** roerende en onroerende zaken, welke vóór tenminste vijftig jaar vervaardigd zijn en die van algemeen belang worden geacht wegens hun schoonheid, hun kunstwaarde, hun betekenis voor de wetenschap, de geschiedenis van het land of hun volkskundige waarde, met inbegrip van archeologisch erfgoed;
+- a. *monumenten:* roerende en onroerende zaken, welke vóór tenminste vijftig jaar vervaardigd zijn en die van algemeen belang worden geacht wegens hun schoonheid, hun kunstwaarde, hun betekenis voor de wetenschap, de geschiedenis van het land of hun volkskundige waarde, met inbegrip van archeologisch erfgoed;
 
-- b. **stads- en dorpsgezichten:** groepen van onroerende zaken, hieronder begrepen bomen, wegen, straten en pleinen, welke met een of meer tot de groep behorende monumenten een beeld vormen dat van algemeen belang is wegens de schoonheid of het karakter van het geheel;
+- b. *stads- en dorpsgezichten:* groepen van onroerende zaken, hieronder begrepen bomen, wegen, straten en pleinen, welke met een of meer tot de groep behorende monumenten een beeld vormen dat van algemeen belang is wegens de schoonheid of het karakter van het geheel;
 
-- c. **monumenteneilandsverordening:** de verordening bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=2&z=2010-10-10&g=2010-10-10);
+- c. *monumenteneilandsverordening:* de verordening bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=2&z=2010-10-10&g=2010-10-10);
 
-- d. **beschermde monumenten:** monumenten welke zijn ingeschreven in de bij de monumenteneilandsverordening vastgestelde registers;
+- d. *beschermde monumenten:* monumenten welke zijn ingeschreven in de bij de monumenteneilandsverordening vastgestelde registers;
 
-- e. **beschermde stads- en dorpsgezichten:** stads- en dorpsgezichten welke zijn ingeschreven in de bij de monumenteneilandsverordening vastgestelde registers.
+- e. *beschermde stads- en dorpsgezichten:* stads- en dorpsgezichten welke zijn ingeschreven in de bij de monumenteneilandsverordening vastgestelde registers.
 
-- f. **archeologisch erfgoed:** bouwwerken, voorwerpen of resten die zelfstandig of gezamenlijk, en al dan niet in de context van de vindplaats, duiden op menselijke activiteiten die in het verleden hebben plaatsgevonden, doch in elk geval langer dan vijftig jaar geleden.
+- f. *archeologisch erfgoed:* bouwwerken, voorwerpen of resten die zelfstandig of gezamenlijk, en al dan niet in de context van de vindplaats, duiden op menselijke activiteiten die in het verleden hebben plaatsgevonden, doch in elk geval langer dan vijftig jaar geleden.
 
 ##### Artikel 2
 

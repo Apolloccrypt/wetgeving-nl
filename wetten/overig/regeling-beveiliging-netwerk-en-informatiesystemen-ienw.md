@@ -1,44 +1,19 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 mei 2021, nr. IENW/BSK-2021/135014, houdende nadere regels voor de veiligheid van aanbieders van essentiële diensten inzake de netwerk- en informatiesystemen in de sectoren vervoer en drinkwater (Regeling beveiliging netwerk- en informatiesystemen IenW)"
+citeertitel: "Regeling beveiliging netwerk- en informatiesystemen IenW"
 identifier: "BWBR0045163"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045163"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15965743"
-version_id: "27782352"
-internal_id: "C39185511"
-label_id: "15900104"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045163/2023-01-01/0"
-intitule_bron: "Stcrt.2021-25471"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-25"
-intitule_published: "2021-05-26"
-intitule_in_force: "2021-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-25471"
-original_signed_date: "2021-05-25"
-original_published_date: "2021-05-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-25471"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0045163&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0045163&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling beveiliging netwerk- en informatiesystemen IenW"
-signed_date: "2021-05-25"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2023-01-01
+status: vervallen
+vervallen_op: 2026-08-14
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0045163"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 mei 2021, nr. IENW/BSK-2021/135014, houdende nadere regels voor de veiligheid van aanbieders van essentiële diensten inzake de netwerk- en informatiesystemen in de sectoren vervoer en drinkwater (Regeling beveiliging netwerk- en informatiesystemen IenW)
-
-Gelet op [artikel 3a, tweede lid, van het Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a);
-
-BESLUIT:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,13 +21,14 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **AED:** aanbieder van een essentiële dienst;
+- *AED:* aanbieder van een essentiële dienst;
 
-- **besluit:** [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520);
+- *besluit:*
+ [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520);
 
-- **ISMS:** Information Security Management System als bedoeld in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01);
+- *ISMS:* Information Security Management System als bedoeld in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01);
 
-- **risicoanalyse:** risicoanalyse als bedoeld in onderdeel 1 van de [bijlage bij artikel 3a, eerste lid, van het besluit](onbekend).
+- *risicoanalyse:* risicoanalyse als bedoeld in onderdeel 1 van de [bijlage bij artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/BWBR0041520).
 
 #### Paragraaf 2. Reikwijdte
 
@@ -60,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 1. Deze regeling is van toepassing op iedere AED in de sectoren drinkwater en vervoer, voor zover het de netwerk- en informatiesystemen betreft die gebruikt worden voor de essentiële dienst.
 
-2. Bij het nemen van de maatregelen, opgenomen in onderdelen 1 tot en met 5 van de [bijlage bij artikel 3a van het besluit](onbekend), past de AED de [paragrafen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2023-01-01&g=2023-01-01) toe.
+2. Bij het nemen van de maatregelen, opgenomen in onderdelen 1 tot en met 5 van de [bijlage bij artikel 3a van het besluit](https://wetten.overheid.nl/BWBR0041520), past de AED de [paragrafen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2023-01-01&g=2023-01-01) toe.
 
 #### Paragraaf 3. ISMS en risicoanalyse
 
@@ -102,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Beschrijving taken, bevoegdheden en verantwoordelijkheden
 
-De AED beschrijft bij wie of welke functionaris taken, bevoegdheden en verantwoordelijkheden als bedoeld in de [bijlage bij artikel 3a van het besluit](onbekend), onderdeel 2, zijn belegd en actualiseert deze beschrijving als er wijzigingen zijn.
+De AED beschrijft bij wie of welke functionaris taken, bevoegdheden en verantwoordelijkheden als bedoeld in de [bijlage bij artikel 3a van het besluit](https://wetten.overheid.nl/BWBR0041520), onderdeel 2, zijn belegd en actualiseert deze beschrijving als er wijzigingen zijn.
 
 ##### Artikel 7. Kwalificaties functionarissen
 
@@ -120,7 +96,7 @@ De AED beschrijft bij wie of welke functionaris taken, bevoegdheden en verantwoo
 
 ##### Artikel 9. Netwerk- en informatiesystemen
 
-1. Het actueel overzicht, bedoeld in onderdeel 1 van de [bijlage bij artikel 3a van het besluit](onbekend), bevat de actuele configuratie van de netwerk- en informatiesystemen en de relevante kenmerken ervan. Onderdeel van het overzicht is een beschrijving van de zonering en koppelingen van netwerken.
+1. Het actueel overzicht, bedoeld in onderdeel 1 van de [bijlage bij artikel 3a van het besluit](https://wetten.overheid.nl/BWBR0041520), bevat de actuele configuratie van de netwerk- en informatiesystemen en de relevante kenmerken ervan. Onderdeel van het overzicht is een beschrijving van de zonering en koppelingen van netwerken.
 
 2. Het overzicht classificeert de systemen en onderdelen ervan aan de hand van de gevolgen voor de AED bij verstoringen en beschrijft het beveiligingsniveau.
 
@@ -226,7 +202,7 @@ Het crisis- of bedrijfscontinuïteitsplan wordt ten minste jaarlijks getest op d
 
 1. Een AED kan aantonen dat de [paragrafen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2023-01-01&g=2023-01-01) zijn toegepast, door aan te tonen dat een met deze regeling tenminste gelijkwaardige sectorspecifieke norm wordt toegepast.
 
-2. De Beveiligingsnorm Procesautomatisering, zoals vastgesteld op 28 maart 2019 door de drinkwaterbedrijven gezamenlijk en die geldt voor de sector drinkwater, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling, behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=6&z=2023-01-01&g=2023-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=7&z=2023-01-01&g=2023-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=8&z=2023-01-01&g=2023-01-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=10&z=2023-01-01&g=2023-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=12&z=2023-01-01&g=2023-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=13&z=2023-01-01&g=2023-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=15&z=2023-01-01&g=2023-01-01) en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=8&artikel=23&z=2023-01-01&g=2023-01-01).
+2. De Beveiligingsnorm Procesautomatisering, zoals vastgesteld op 28 maart 2019 door de drinkwaterbedrijven gezamenlijk en die geldt voor de sector drinkwater, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling, behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=6&z=2023-01-01&g=2023-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=7&z=2023-01-01&g=2023-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=8&z=2023-01-01&g=2023-01-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=10&z=2023-01-01&g=2023-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=12&z=2023-01-01&g=2023-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=13&z=2023-01-01&g=2023-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=15&z=2023-01-01&g=2023-01-01) en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=8&artikel=23&z=2023-01-01&g=2023-01-01).
 
 3. EASA.rmt720, zodra deze is vastgesteld en geldt voor de sector vervoer, onderdeel luchtvaart, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling.
 
@@ -234,10 +210,8 @@ Het crisis- of bedrijfscontinuïteitsplan wordt ten minste jaarlijks getest op d
 
 ##### Artikel 25. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2021.
+Deze regeling treedt in werking met ingang van 1 juli 2021.
 
 ##### Artikel 26. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beveiliging netwerk- en informatiesystemen IenW.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

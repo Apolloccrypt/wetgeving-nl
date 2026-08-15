@@ -1,38 +1,16 @@
 ---
 title: "Wet voorschriften bestrijdingsmiddelen BES"
 identifier: "BWBR0028176"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028176"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10688683"
-version_id: "17650202"
-internal_id: "C24818351"
-label_id: "10663664"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028176/2010-10-10/0"
-intitule_bron: "Stb.2010-567"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-567"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-567"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028176&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028176&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028176"
+opgehaald: 2026-08-15
 ---
+
 # Wet voorschriften bestrijdingsmiddelen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,21 +19,21 @@ entry_into_force: "2010-10-10"
 
 Deze wet en de ter uitvoering daarvan te geven voorschriften verstaan onder:
 
-- **bestrijdingsmiddelen:** elke stof of elk mengsel van stoffen, alsmede micro-organismen, bestemd om als zodanig of met andere stoffen gemengd, te worden gebruikt bij:
+- *bestrijdingsmiddelen:* elke stof of elk mengsel van stoffen, alsmede micro-organismen, bestemd om als zodanig of met andere stoffen gemengd, te worden gebruikt bij:
 
-- a. de bestrijding van onkruid en van ongewenste groei bij planten of delen van planten dan wel bij het doden van loof;
+   - a. de bestrijding van onkruid en van ongewenste groei bij planten of delen van planten dan wel bij het doden van loof;
 
-- b. de bestrijding van de verwekkers van plantenziekten;
+   - b. de bestrijding van de verwekkers van plantenziekten;
 
-- c. de bestrijding en afweer van dieren, welke schade kunnen aanrichten aan gewassen in land-, tuin- en bosbouw in de ruimste zin;
+   - c. de bestrijding en afweer van dieren, welke schade kunnen aanrichten aan gewassen in land-, tuin- en bosbouw in de ruimste zin;
 
-- d. de bestrijding en afweer van ander gedierte;
+   - d. de bestrijding en afweer van ander gedierte;
 
-- e. de wering van bederf van de voortbrengselen van land-, tuin- en bosbouw in de ruimste zin;
+   - e. de wering van bederf van de voortbrengselen van land-, tuin- en bosbouw in de ruimste zin;
 
-- **Onze Minister:** Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
+- *Onze Minister:* Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
 
-- **bevoegde instantie:** door Onze Minister aangewezen dienst, autoriteit of instantie.
+- *bevoegde instantie:* door Onze Minister aangewezen dienst, autoriteit of instantie.
 
 ##### Artikel 2
 
@@ -155,7 +133,7 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid.
 
-## Bestuursdwang
+### Bestuursdwang
 
 ##### Artikel 12
 
@@ -223,7 +201,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 6. Bij ministeriële regeling kunnen regels worden gesteld ter zake van het in het eerste lid bedoelde in eigendom overdragen aan een derde.
 
-## Last onder dwangsom
+### Last onder dwangsom
 
 ##### Artikel 21
 
@@ -253,7 +231,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 2. De verjaring wordt gestuit door faillissement en ieder wettelijk beletsel voor invordering van de dwangsom.
 
-## Bestuurlijke boete
+### Bestuurlijke boete
 
 ##### Artikel 25
 

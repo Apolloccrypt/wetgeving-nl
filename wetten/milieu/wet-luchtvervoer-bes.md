@@ -1,45 +1,23 @@
 ---
 title: "Wet luchtvervoer BES"
 identifier: "BWBR0028227"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2016-10-01"
-last_updated: "2016-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028227"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10712323"
-version_id: "17677412"
-internal_id: "C24833431"
-label_id: "10687334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028227/2016-10-01/0"
-intitule_bron: "Stb.2010-629"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-09"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-629"
-original_signed_date: "2010-09-09"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-629"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028227&z=2016-10-01&g=2016-10-01"
-jci_1_0: "1.0:c:BWBR0028227&g=2016-10-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-09"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2016-10-01
+status: geldig
+toestand: 2016-10-01
+bron: "https://wetten.overheid.nl/BWBR0028227"
+opgehaald: 2026-08-15
 ---
+
 # Wet luchtvervoer BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
@@ -57,7 +35,7 @@ Wanneer in deze wet sprake is van dagen, worden kalenderdagen en niet werkdagen 
 
 ### Hoofdstuk II. Luchtvervoerbewijzen
 
-## Deel I. Reisbiljet
+### Deel I. Reisbiljet
 
 ##### Artikel 5
 
@@ -65,7 +43,7 @@ Wanneer in deze wet sprake is van dagen, worden kalenderdagen en niet werkdagen 
 
 2. Het reisbiljet strekt, behoudens tegenbewijs, tot bewijs van het sluiten van de luchtvervoerovereenkomst en de voorwaarden daarvan. Het ontbreken van het reisbiljet, een onnauwkeurigheid daarin of het verlies daarvan heeft invloed noch op het bestaan, noch op de geldigheid van de luchtvervoerovereenkomst, welke desondanks zal zijn onderworpen aan de bepalingen van deze wet. Indien evenwel de reiziger met toestemming van de vervoerder aan boord gaat, zonder dat een reisbiljet is uitgereikt, heeft de vervoerder niet het recht zich te beroepen op de bepalingen van deze wet, welke zijn aansprakelijkheid uitsluiten of beperken.
 
-## Deel II. Bagagebiljet
+### Deel II. Bagagebiljet
 
 ##### Artikel 6
 
@@ -75,7 +53,7 @@ Wanneer in deze wet sprake is van dagen, worden kalenderdagen en niet werkdagen 
 
 3. Het bagagebiljet strekt, behoudens tegenbewijs, tot bewijs van het aangeven van de bagage en van de voorwaarden van de luchtvervoerovereenkomst. Het ontbreken van het bagagebiljet, een onnauwkeurigheid daarin of het verlies daarvan heeft invloed noch op het bestaan, noch op de geldigheid van de luchtvervoerovereenkomst, welke desondanks zal zijn onderworpen aan de bepalingen van deze wet. Indien evenwel de vervoerder bagage aanneemt zonder dat een bagagebiljet is uitgereikt, heeft hij niet het recht zich te beroepen op de bepalingen welke zijn aansprakelijkheid uitsluiten of beperken.
 
-## Deel III. Luchtvrachtbrief
+### Deel III. Luchtvrachtbrief
 
 ##### Artikel 7
 
@@ -177,7 +155,7 @@ De afzender en de geadresseerde kunnen, ieder op zijn eigen naam, al de rechten 
 
 3. Niets in deze wet belet de uitgifte van een verhandelbare luchtvrachtbrief.
 
-## Deel IV. Vrijstelling van bepalingen
+### Deel IV. Vrijstelling van bepalingen
 
 ##### Artikel 22
 
@@ -287,7 +265,7 @@ De rechtsvordering ter zake van de aansprakelijkheid moet op straffe van verval 
 
 2. Geen bepaling van deze wet belet partijen om in geval van gecombineerd vervoer in het luchtvervoerbewijs voorwaarden op te nemen betreffende andere wijzen van vervoer, mits de bepalingen van deze wet voor wat betreft het luchtvervoer worden in acht genomen.
 
-### Hoofdstuk V. Bepalingen betreffende luchtvervoer, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01)
+### Hoofdstuk V. Bepalingen betreffende luchtvervoer, als bedoeld in artikel 2, eerste lid
 
 ##### Artikel 39
 

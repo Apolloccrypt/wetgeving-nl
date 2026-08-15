@@ -2,23 +2,16 @@
 title: "Kadasterregeling 1994"
 identifier: "BWBR0027695"
 categorie: "Overig"
-publicatiedatum: 2026-07-16
-laatste_update: 2026-07-17
+soort: "zbo"
+publicatiedatum: 2007-06-12
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0027695"
+opgehaald: 2026-08-15
 ---
 
 # Kadasterregeling 1994
-
-**14 april 1994/Nr. KAZ15494004**
-
-**Dienst voor het Kadaster en de Openbare registers**
-
-Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=4), [7, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7), [8, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8), [11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=12), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=14), [15, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=17), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=44), [48, tweede lid, onder h, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), [49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=49), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=51), [52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=52), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=71), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=72), [75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=75), [76, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=76), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=79), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=80), [81, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=82), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=83), [99, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), [102, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), [103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=103), [108, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=108), [111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=111), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=115) en [116, eerste en tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=116), alsmede op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=5), [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=7), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=10), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=11), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=12), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=13), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=17), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=38) en [39 van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=39);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -26,15 +19,15 @@ Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking t
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541);
+- a. *de wet:* de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541);
 
-- b. **het besluit:** het [Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259);
+- b. *het besluit:* het [Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259);
 
-- c. **de Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- c. *de Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- d. **de bewaarder:** de bewaarder, bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=6);
+- d. *de bewaarder:* de bewaarder, bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=6);
 
-- e. **een perceel:** een deel van het Nederlandse grondgebied van welk deel de Dienst de begrenzing met behulp van landmeetkundige gegevens heeft vastgelegd op grond van gegevens betreffende de rechtstoestand, bestemming en het gebruik en dat door zijn kadastrale aanduiding is gekenmerkt;
+- e. *een perceel:* een deel van het Nederlandse grondgebied van welk deel de Dienst de begrenzing met behulp van landmeetkundige gegevens heeft vastgelegd op grond van gegevens betreffende de rechtstoestand, bestemming en het gebruik en dat door zijn kadastrale aanduiding is gekenmerkt;
 
 - f. de integriteitswaarde: de unieke waarde voor een gegevensbestand of een verzameling van gegevensbestanden, waarmee het ongewijzigd zijn ervan kan worden gecontroleerd;
 
@@ -66,11 +59,21 @@ In deze regeling wordt verstaan onder:
 
 - t. aanbiedportaal: een systeem dat voor onderlinge communicatie met andere systemen of door een aanbieder kan worden gebruikt voor het elektronisch aanbieden van stukken en ontvangen van mededelingen daarover;
 
-- u. **KIK-bestand:** een representatie van een ter inschrijving aangeboden stuk dat zich leent voor automatische verwerking van het stuk.
+- u. *KIK-bestand:* een representatie van een ter inschrijving aangeboden stuk dat zich leent voor automatische verwerking van het stuk.
+
+##### Artikel 1a
+
+1. Het stukidentifcatienummer, bedoeld in [artikel 11c, eerste lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11c) bestaat uit de vermelding van achtereenvolgens:
+
+- a. de afkorting ‘OZ’, ‘SC’ of ‘LU’, naar gelang inschrijving wordt verzocht in het in [artikel 3, eerste lid, onder a, b onderscheidelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16) bedoelde register;
+
+- b. het nummer van het voor de inschrijving gereserveerde deel en nummer van het desbetreffende register.
+
+2. Een stuk tot verbetering of een bijhoudingsverklaring als bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=42) respectievelijk [46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a), dan wel een procesverbaal als bedoeld in [artikel 45, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45), dat binnen 48 uur na de dag van verzending van een verzoek als bedoeld in [artikel 21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=21b&z=2026-07-16&g=2026-07-16), ter inschrijving wordt aangeboden, wordt in de openbare registers ingeschreven onder hetzelfde stukidentificatienummer als het stuk, waarop het stuk tot verbetering, de bijhoudingsverklaring of het proces-verbaal betrekking heeft.
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -86,9 +89,9 @@ Vervallen
 
 - a. een register Hypotheken 3 voor de inschrijving van:
 
-  - 1°. stukken betreffende de vestiging van een recht van hypotheek, alsmede stukken betreffende feiten die betrekking hebben op een ingeschreven recht van hypotheek, en
+   - 1° stukken betreffende de vestiging van een recht van hypotheek, alsmede stukken betreffende feiten die betrekking hebben op een ingeschreven recht van hypotheek, en
 
-  - 2°. processen-verbaal van inbeslagneming, alsmede stukken betreffende feiten die betrekking hebben op een ingeschreven proces-verbaal van inbeslagneming;
+   - 2° processen-verbaal van inbeslagneming, alsmede stukken betreffende feiten die betrekking hebben op een ingeschreven proces-verbaal van inbeslagneming;
 
 - b. een register Hypotheken 4 voor de inschrijving van alle overige stukken, en
 
@@ -98,9 +101,29 @@ Vervallen
 
 4. De openbare registers worden deels in papieren vorm en deels in elektronische vorm gehouden.
 
+##### Artikel 3a
+
+1. De in elektronische vorm gehouden gedeelten van de openbare registers bestaan uit een databank die is onderverdeeld in logische databanken per:
+
+- a. soort van registergoed als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16), en
+
+- b. soort van register als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16).
+
+2. Per kantoor van de Dienst wordt een logische databank voor archiefbestanden gehouden, waarin stukken in elektronische vorm worden opgeslagen, die samen met een ingeschreven stuk zijn aangeboden, maar zelf niet in de openbare registers worden ingeschreven.
+
+3. Stukken in elektronische vorm die gesteld zijn in een vreemde of in de Friese taal, als bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=41), worden opgeslagen in de logische databank, bedoeld in het tweede lid.
+
+##### Artikel 3b
+
+1. De hoofdbewaarder onderzoekt op grond van de door de functioneel beheerder aan hem te verstrekken rapportages en overzichten tijdig of de duplicaten, bedoeld in [artikel 9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=9), zijn vervaardigd in overeenstemming met de daarvoor door het bestuur van de Dienst vastgestelde maatregelen. Indien dat het geval is, maakt de hoofdbewaarder een door hem te ondertekenen verklaring op als bedoeld in artikel 9, zesde lid, van de wet. Deze verklaring heeft de vorm van het model dat als [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=2a&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
+
+2. Indien van een in papieren vorm gehouden gedeelte van de openbare registers een duplicaat op microfilm en een duplicaat in elektronische vorm is vervaardigd en de verklaring, bedoeld in het eerste lid, is opgemaakt, vervangen deze duplicaten het desbetreffende in papieren vorm gehouden gedeelte van de openbare registers.
+
+3. De in het eerste lid bedoelde rapportage van de functioneel beheerder heeft de vorm van het model dat als [bijlage 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=2b&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
+
 ### Hoofdstuk 2. Openbare registers voor onroerende zaken
 
-## Titel 1. Vorm van de openbare registers
+### Titel 1. Boekingen in het register Hypotheken 4D
 
 ##### Artikel 4
 
@@ -130,7 +153,7 @@ Vervallen
 
 2. Indien een stuk dat is opgeslagen in het elektronische gedeelte van het register Hypotheken 4D krachtens een hernieuwd verzoek tot inschrijving alsnog dient te worden ingeschreven in het register Hypotheken 3 of het register Hypotheken 4, wordt dat stuk rechtstreeks overgebracht naar de logische databank van het desbetreffende in elektronische vorm gehouden gedeelte van het register Hypotheken 3 of het register Hypotheken 4, onder toevoeging van het tijdstip van ontvangst van het hernieuwde verzoek tot inschrijving.
 
-## Titel 2. Aantekeningen in de openbare registers
+### Titel 2. Aantekeningen in de de in papieren vorm gehouden gedeelten van openbare registers
 
 ##### Artikel 7
 
@@ -172,7 +195,7 @@ Vervallen
 
 De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2&artikel=7&z=2026-07-16&g=2026-07-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2&artikel=7&z=2026-07-16&g=2026-07-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2&artikel=8&z=2026-07-16&g=2026-07-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2&artikel=10&z=2026-07-16&g=2026-07-16) bedoelde aantekeningen geschieden met zwarte inkt in de daarvoor bestemde plaatsen op de formulieren Hypotheken 3, 4 en 4D.
 
-## Titel 2a. Formulieren voor de inschrijving van stukken in de openbare registers; vereisten voor de invulling en aanbieding ter inschrijving van die formulieren
+### Titel 2a. Aantekeningen in de in elektronische vorm gehouden gedeelten van de openbare registers
 
 ##### Artikel 11a
 
@@ -182,7 +205,23 @@ De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk
 
 ##### Artikel 11b
 
-Vervallen
+*Vervallen*
+
+##### Artikel 11ba
+
+1. Bij gebruikmaking van het aanbiedportaal, worden het in te schrijven stuk met eventuele bijlage(n) en bewijsstuk(ken) samengevoegd in één verzoek tot inschrijving dat tevens metagegevens, essentialia uit het stuk of indien van toepassing het KIK-bestand en een eventuele verwijzing naar eerder in depot genomen depotstuk(ken) bevat.
+
+2. Het verzoek en het in het verzoek tot inschrijving aanwezige stuk, eventuele bijlage(n) of bewijsstuk(ken) of indien van toepassing het KIK-bestand zijn elk afzonderlijk voorzien van een valide zichtbare elektronische handtekening van de ondertekenaar.
+
+3. Een verzoek tot inschrijving, bedoeld in het eerste lid, kan tezamen met andere verzoeken in één pakket worden aangeboden, als genoemd in de technische handleiding.
+
+4. Als de ondertekenaar tot een van de erkende beroepen behoort, wordt de valide elektronische handtekening gerealiseerd door een gekwalificeerd persoonsgebonden beroepscertificaat. In andere gevallen wordt de valide elektronische handtekening met een persoonsgebonden certificaat gerealiseerd.
+
+5. Na ontvangst en acceptatie wordt, in de elektronisch vorm gehouden gedeelten van de openbare registers, ingeschreven het stuk met eventuele bijlage(n), bewijsstuk(ken) uit het verzoek tot inschrijving, en eventueel depotstuk(ken) waarnaar in het verzoek tot inschrijving is verwezen.
+
+Het in de eerste zin bedoelde stuk wordt voorzien van een verklaring van inschrijving, dat is ondertekend door de bewaarder met een zichtbaar elektronisch zegel, bedoeld in [artikel 7e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
+
+### Titel 2b. Aanbieden van stukken in papieren vorm
 
 ##### Artikel 11c
 
@@ -212,11 +251,117 @@ Vervallen
 
 7. Bij de inschrijving, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=12), plaatst de bewaarder zijn handtekening op het aan het afschrift toegevoegde voorblad.
 
+### Titel 2c. Aanbieden van stukken in elektronische vorm
+
 ##### Artikel 11e
 
 Het elektronische postadres, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=10), is vermeld in de technische handleiding.
 
-## Titel 2b. Aanbieden van stukken in papieren vorm
+##### Artikel 11f
+
+Het door de Dienst gehouden systeem ten behoeve van het elektronisch verzenden en ontvangen van berichten, bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), wordt op de in de technische handleiding beschreven wijze ingericht.
+
+##### Artikel 11g
+
+*Vervallen*
+
+##### Artikel 11h
+
+*Vervallen*
+
+##### Artikel 11i
+
+1. Het elektronische berichtenverkeer met de Dienst vindt plaats op basis van het uitwisselingsprotocol ofwel de interactie van de aanbieder met het aanbiedportaal, zoals dat is vastgelegd in de technische handleiding.
+
+2. De hoofdbewaarder informeert alle aanbieders die stukken elektronisch aanbieden tijdig over wijzigingen in het uitwisselingsprotocol.
+
+##### Artikel 11j
+
+1. Een verzoek tot vaststelling van een afwijkend uitwisselingsprotocol als bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) kan worden ingediend overeenkomstig de door de bewaarder aangegeven wijze.
+
+2. De hoofdbewaarder wijst het verzoek, bedoeld in het eerste lid, alleen toe indien:
+
+- a. het afwijkende uitwisselingsprotocol geen afbreuk doet aan de doelstelling van elektronische gegevensuitwisseling;
+
+- b. het afwijkende uitwisselingsprotocol past bij het gebruik van geavanceerde elektronische handtekeningen, en
+
+- c. de kosten die verband houden met de vaststelling van het afwijkende uitwisselingsprotocol worden gedragen door degene die het verzoek indient.
+
+3. De hoofdbewaarder deelt na ontvangst van het verzoek, bedoeld in het tweede lid, binnen een redelijke termijn aan de indiener van dit verzoek mee of een afwijkend uitwisselingsprotocol zal worden vastgesteld en over de daaraan verbonden kosten.
+
+##### Artikel 11k
+
+1. Na ontvangst van een verzoek tot verkrijging van een permanente aansluiting op het door de Dienst gehouden systeem, bedoeld in [artikel 11a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), ontvangt de verzoeker de technische specificaties waaraan de permanente aansluiting moet voldoen en dient de verzoeker het certificaat voor elektronische ondertekening aan te melden waarna hij kan aanvangen met het aanbieden van stukken.
+
+2. In afwijking van het eerste lid, ontvangt de verzoeker die stukken elektronisch wenst aan te bieden via het aanbiedportaal, de gebruiksvoorwaarden waaronder hij gebruik kan maken van de faciliteiten van het aanbiedportaal en zal hij, na acceptatie en elektronische ondertekening van deze voorwaarden, kunnen aanvangen met het aanbieden van stukken via het aanbiedportaal.
+
+3. Indien de applicatiesoftware nog niet eerder gebruikt is voor het aanbieden van stukken via het aanbiedportaal, wordt voor aanvang van het gebruik van het aanbiedportaal de mogelijkheid geboden om de werking van de applicatiesoftware met het aanbiedportaal te testen in een daartoe beschikbaar gestelde exploitatie-testomgeving.
+
+4. De kosten verbonden aan en voortvloeiende uit de verkrijging van een aansluiting of de mogelijkheid tot gebruik van het aanbiedportaal komen voor rekening van de verzoeker.
+
+##### Artikel 11l
+
+Het bericht, bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), voldoet aan de specificaties als genoemd in de technische handleiding en is door de aanbieder voorzien van een elektronische handtekening.
+
+##### Artikel 11m
+
+1. Indien de bewaarder overeenkomstig [artikel 11a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) besluit om een bericht niet te aanvaarden, deelt hij dit binnen 24 uur na het tijdstip van ontvangst van het bericht mee aan de aanbieder door middel van een bericht van afkeuring in elektronische vorm. Het bericht van afkeuring voldoet aan het gestelde daarover in de technische handleiding.
+
+2. Indien de hoofdbewaarder overeenkomstig [artikel 11a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) besluit om ook andere berichten van de aanbieder niet te aanvaarden, deelt hij dit met bekwame spoed mee aan die aanbieder.
+
+3. De aanbieder, bedoeld in het tweede lid, kan de hoofdbewaarder verzoeken om in de gelegenheid te worden gesteld om aan te tonen dat hij in staat is bij het in elektronische vorm aanbieden van stukken ter inschrijving in de openbare registers te voldoen aan de daarvoor geldende eisen. De aanbieder kan daartoe bij de hoofdbewaarder een door hem gedagtekend en ondertekend verzoek als bedoeld in [artikel 11a, vierde lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) indienen.
+
+4. Na ontvangst van het verzoek stelt de hoofdbewaarder een onderzoek in, waarbij hij nagaat of de betrokken aanbieder bij het in elektronische vorm toezenden van berichten ter inschrijving van stukken in de openbare registers in staat is te voldoen aan de daarvoor geldende eisen.
+
+5. De hoofdbewaarder deelt de aanbieder de uitkomsten van zijn onderzoek mede door middel van een door hem gedagtekende en ondertekende verklaring. In de verklaring vermeldt de hoofdbewaarder de uitkomsten van het onderzoek, bedoeld in [artikel 11a, vierde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), alsmede of zijn besluit, bedoeld in het tweede lid, vervalt en, zo dat niet het geval is, de reden daarvan.
+
+##### Artikel 11n
+
+1. Het verzoek tot inschrijving in elektronische vorm, bedoeld in [artikel 11b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), voldoet aan de eisen die zijn opgenomen in de technische handleiding.
+
+2. Het verzoek tot inschrijving in elektronische vorm van een stuk tot verbetering als bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=42) voldoet aan de eisen die zijn opgenomen in de technische handleiding.
+
+3. Het tweede lid is van overeenkomstige toepassing op het verzoek tot inschrijving in elektronische vorm van een bijhoudingsverklaring als bedoeld in [artikel 46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a) of een proces-verbaal als bedoeld in [artikel 45, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45).
+
+##### Artikel 11o
+
+1. In het verzoek tot inschrijving in elektronische vorm wordt door middel van de vermelding van een verwijzing naar het register ‘Hypotheken 3’ of het register ‘Hypotheken 4’ kenbaar gemaakt voor welk register het stuk dat ter inschrijving wordt aangeboden, bestemd is.
+
+2. In het verzoek tot inschrijving dat via het aanbiedportaal wordt aangeboden worden metagegevens en waar mogelijk essentialia vermeld als bedoeld in de technische handleiding.
+
+##### Artikel 11p
+
+1. Indien een afschrift van een tekening of een ander stuk overeenkomstig [artikel 10 van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=10) in papieren vorm in bewaring is genomen, vervaardigt de bewaarder hiervan een duplicaat in elektronische vorm dat hij opslaat in een logische databank van depotbestanden.
+
+2. De bewaarder onderzoekt op grond van een door de functioneel beheerder verstrekte rapportage of het duplicaat in elektronische vorm een juiste en volledige weergave is van het in bewaring genomen afschrift in papieren vorm. Indien dat het geval is, vervangt de bewaarder het afschrift in papieren vorm door het duplicaat in elektronische vorm en legt hij dit vast in een verklaring die de vorm heeft van het model dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=5&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
+
+3. Nadat het afschrift in papieren vorm is vervangen door het duplicaat in elektronische vorm, zendt de bewaarder het afschrift in papieren vorm terug aan de aanbieder, onder toevoeging van de volgende door hem te ondertekenen verklaring: ‘Ondergetekende, Bewaarder van het kadaster en de openbare registers, verklaart dat deze tekening, na digitalisering, in elektronische vorm in bewaring is genomen onder het depotnummer ..., d.d. ..., de Bewaarder’.
+
+##### Artikel 11q
+
+1. Indien een verzoek wordt ingediend tot inschrijving van een stuk in elektronische vorm en van dit stuk een tekening of een ander stuk in papieren vorm deel uitmaakt, wordt in het verzoek tot inschrijving tevens verzocht om het afschrift van de tekening of het andere stuk dat overeenkomstig [artikel 10 van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=10) in bewaring is genomen, in te schrijven.
+
+2. Na ontvangst van het verzoek tot inschrijving brengt de bewaarder het duplicaat in elektronische vorm, bedoeld in [artikel 11p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11p&z=2026-07-16&g=2026-07-16), terstond over van de logische database voor depotbestanden naar de logische database van ter inschrijving aangeboden stukken, onder vermelding van het stukidentificatienummer van het ter inschrijving aangeboden stuk.
+
+##### Artikel 11r
+
+1. De elektronische handtekening wordt vervaardigd door de integriteitswaarde van het verzoek als geheel, elk afzonderlijk document en indien van toepassing het KIK-bestand, in het verzoek overeenkomstig de technische handleiding te berekenen en te versleutelen.
+
+2. Bij het aanbieden van stukken via het aanbiedportaal, wordt de elektronische handtekening en de geldigheid van het gekwalificeerd certificaat, in het aanbiedportaal gecontroleerd.
+
+##### Artikel 11s
+
+*Vervallen*
+
+##### Artikel 11sa
+
+1. Indien bij de controle, bedoeld in [artikel 11r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11r&z=2026-07-16&g=2026-07-16), blijkt dat een gekwalificeerd certificaat niet meer geldig is, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
+
+2. Indien het verzoek tot inschrijving via het aanbiedportaal wordt aangeboden, wordt eveneens de bevoegdheid gecontroleerd van degene die het stuk heeft ondertekend en van degene die de verklaring, bedoeld in [artikel 11b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), heeft gesteld. Indien een van deze onbevoegd is door bijvoorbeeld schorsing of ontzetting uit zijn ambt, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
+
+3. Indien het verzoek tot inschrijving via het aanbiedportaal wordt aangeboden in een vacant protocol dan wordt gecontroleerd of het een ambtshalve benoemde waarneming betreft, bedoeld in [artikel 28, onderdelen c, d, e of f van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28). Indien dat niet het geval is, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
+
+### Titel 3. Rangschikking en wijze van opberging van de afschriften van ter inschrijving van aangeboden stukken in papieren vorm
 
 ##### Artikel 12
 
@@ -228,11 +373,19 @@ Het elektronische postadres, bedoeld in [artikel 10 van de wet](https://wetten.o
 
 2. In geval van inschrijving van een stuk dat aanvankelijk in het register Hypotheken 4D is geboekt, worden de afschriften die zijn aangeboden door middel van het eerste verzoek tot inschrijving, opgeborgen bij de afschriften die ter inschrijving zijn aangeboden door middel het hernieuwde verzoek tot inschrijving, bedoeld in [artikel 14b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=14b).
 
+##### Artikel 13
+
+*Vervallen*
+
+##### Artikel 14
+
+*Vervallen*
+
 ##### Artikel 15
 
 De losse afschriften van tekeningen, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2&artikel=7&z=2026-07-16&g=2026-07-16), worden van een doorlopend volgnummer voorzien en opgeborgen in een opbergeenheid, waarop nummers worden vermeld van de daarin opgeborgen afschriften van tekeningen.
 
-## Titel 2c. Aanbieden van stukken in elektronische vorm
+### Titel 4. Voorlopige aantekeningen
 
 ##### Artikel 16
 
@@ -243,6 +396,12 @@ De boeking in het register Hypotheken 4D geschiedt door vermelding van de gegeve
 1. Indien het stuk waarvan de inschrijving is geweigerd in papieren vorm is aangeboden en bij dit stuk niet tevens een afschrift is aangeboden, vervaardigt de bewaarder een afschrift van het stuk, dat in het register Hypotheken 4D wordt gevoegd achter het desbetreffende formulier Hypotheken 4D.
 
 2. Het eerste lid is van overeenkomstige toepassing indien de inschrijving is geweigerd op grond van een omstandigheid als bedoeld in [artikel 15a, derde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15a), met dien verstande dat de bewaarder slechts een afschrift vervaardigt, indien hij van oordeel is dat het aangeboden afschrift niet voldoende leesbaar is.
+
+##### Artikel 17a
+
+1. De verklaring van niet-inschrijving, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15a), heeft de volgende vorm: ‘Dit stuk, dat is aangeboden op .......... om .............. uur, met stukidentificatienummer ...................... is geboekt in het register Hypotheken 4D, omdat ........’ onder invulling van de desbetreffende gegevens.
+
+2. Het bewijs van niet-inschrijving, bedoeld in [artikel 15b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15b), voldoet aan de technische handleiding en wordt binnen 48 uur na het tijdstip van verzending van de attendering op niet-inschrijving, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=21&z=2026-07-16&g=2026-07-16), door middel van een elektronisch bericht verzonden aan de aanbieder van het stuk waarvan de inschrijving is geweigerd.
 
 ##### Artikel 18
 
@@ -256,7 +415,7 @@ De boeking in het register Hypotheken 4D geschiedt door vermelding van de gegeve
 
 5. het derde lid is van overeenkomstige toepassing indien sprake is van de omstandigheid, bedoeld in [artikel 20, zesde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=20).
 
-## Titel 5. Bewijs van ontvangst en overige bepalingen
+### Titel 5. Bewijs van ontvangst en overige bepalingen
 
 ##### Artikel 19
 
@@ -265,6 +424,26 @@ De boeking in het register Hypotheken 4D geschiedt door vermelding van de gegeve
 2. Indien een stuk is geboekt in het register Hypotheken 4D, wordt dit op het stuk vermeld onder opgaaf van het stukidentificatienummer.
 
 3. Het bewijs van ontvangst in elektronische vorm voldoet aan de technische handleiding.
+
+##### Artikel 19a
+
+1. Na de inschrijving van een stuk dat in papieren vorm is aangeboden, stelt de bewaarder op dit stuk de volgende verklaring van inschrijving, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13): ‘Dit stuk is ingeschreven ten kantore van de Dienst voor het kadaster en de openbare registers op .............. om ....... uur in register ....... in deel ....... en nummer ......’ onder invulling van de desbetreffende gegevens, waarbij het tijdstip wordt uitgedrukt in uur en minuut.
+
+2. Na de inschrijving van een stuk dat in elektronische vorm is aangeboden, zendt de bewaarder aan de aanbieder van dit stuk een bewijs van inschrijving als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13) dat voldoet aan het gestelde hierover in de technische handleiding.
+
+3. Na de inschrijving van het stuk, als bedoeld in [artikel 6 van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=6), dat in elektronische vorm is aangeboden, ontvangt het bestuursorgaan van de bewaarder elektronisch een bewijs van inschrijving als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13) met de volgende verklaring: ‘PB succesvol ingeschreven met ID ... .’ Via het identificatienummer (‘ID’) van de publiekrechtelijke beperking is tevens voor het bestuursorgaan het deel en nummer in het register Hypotheken 4 raadpleegbaar dat aan het ingeschreven stuk is toegekend.
+
+4. Indien een tekening of een ander stuk als bedoeld in [artikel 11b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) in papieren vorm deel uitmaakt van een stuk dat in elektronische vorm ter inschrijving is aangeboden, stelt de bewaarder na de inschrijving op het eerst genoemde stuk de volgende verklaring van inschrijving: ‘Ingeschreven als bijlage van een stuk met een elektronische vorm dat is ingeschreven ten kantore van de Dienst voor het kadaster en de openbare registers op .............. om ....... uur in register ....... in deel ....... en nummer ......’ onder invulling van de desbetreffende gegevens, waarbij het tijdstip wordt uitgedrukt in uur en minuut.
+
+##### Artikel 19b
+
+1. Indien ter verkrijging van de inschrijving van een stuk in papieren vorm door de aanbieder bewijsstukken in papieren vorm zijn overgelegd, vult de bewaarder de verklaring van inschrijving, bedoeld in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=19a&z=2026-07-16&g=2026-07-16), als volgt aan: ‘Bij de aanbieding ter inschrijving is/ zijn het/de volgende stuk(ken) overgelegd:’, onder vermelding van een korte aanduiding van elk van de overgelegde bewijsstukken.
+
+2. Indien ter verkrijging van de inschrijving van een stuk in elektronische vorm door de aanbieder bewijsstukken in elektronische vorm als bedoeld in [artikel 11b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) zijn overgelegd, wordt zulks vermeld door de bewaarder op het bewijs van inschrijving.
+
+##### Artikel 19c
+
+Indien ter verkrijging van de inschrijving van een stuk door de aanbieder bewijsstukken zijn overgelegd, vermeldt de bewaarder dit in de in elektronische vorm gehouden gedeelten van de openbare registers door het stellen van de volgende door hem te ondertekenen verklaring: ‘Bij de aanbieding ter inschrijving zijn overgelegd: ...’, onder vermelding van een korte aanduiding van de stukken.
 
 ##### Artikel 20
 
@@ -282,9 +461,21 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 5. De termijnen waarbinnen een verzoek tot inschrijving kan worden ingetrokken, bedoeld in het derde en vierde lid, worden gerekend over werkdagen.
 
-### Hoofdstuk 3. Kadastrale registratie, kaartenbestand, daaraan ten grondslag liggende bescheiden en net van coördinaatpunten
+##### Artikel 21a
 
-## Titel 1. Wijze waarop de kadastrale registratie wordt gehouden
+De afschriften van stukken die zijn meegezonden in het bericht, bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), maar zelf niet worden ingeschreven, worden blijvend bewaard in de logische databank voor archiefbestanden.
+
+##### Artikel 21b
+
+1. Indien na de inschrijving van een stuk blijkt dat het stuk onjuistheden of onvolledigheden bevat, of in het stuk gegevens ontbreken die noodzakelijk zijn voor een juiste en volledige bijhouding, verzoekt de bewaarder aan de aanbieder het stuk te verbeteren op de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), of de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) voorgeschreven wijze.
+
+2. Indien het ingeschreven stuk in papieren vorm is aangeboden, heeft het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring dan wel een proces-verbaal de vorm van het een model dat door de bewaarder wordt voorgeschreven.
+
+3. Indien het ingeschreven stuk in elektronische vorm ter inschrijving is aangeboden, is het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring, dan wel een proces- verbaal voorzien van een elektronisch zegel van de bewaarder, bedoeld in [artikel 7e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
+
+### Hoofdstuk 3. Basisregistratie kadaster, kaartenbestand, daaraan ten grondslag liggende bescheiden en net van coördinaatpunten
+
+### Titel 1. Wijze waarop de basisregistratie kadaster wordt gehouden
 
 ##### Artikel 22
 
@@ -332,9 +523,9 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 - d. vóór 1 juli 1979 gevestigde rechten van opstal voor zover betreffend het leggen en houden van leidingen in, op of boven de onroerende zaak van een ander, zijn de registers uitsluitend toegankelijk door middel van de kadastrale aanduiding van het perceel. Ter zake van de zogenoemde oude zakelijke rechten, gevestigd vóór 1 oktober 1838 en waarbij geen kadastrale aanduiding van de desbetreffende onroerende zaken bekend is gesteld, zijn de registers alleen toegankelijk door middel van de naam van de rechthebbende.
 
-## Titel 2. Kaartenbestand
+### Titel 2. Kaartenbestand
 
-### Afdeling 1. Op de kadastrale kaart voorgestelde opstallen
+#### Afdeling 1. Op de kadastrale kaart voorgestelde opstallen
 
 ##### Artikel 26
 
@@ -346,7 +537,7 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 2. De opstallen worden overgenomen van de grootschalige basiskaart van Nederland.
 
-### Afdeling 2. Inrichting van de kadastrale kaarten
+#### Afdeling 2. Inrichting van de kadastrale kaarten
 
 ##### Artikel 27
 
@@ -372,7 +563,7 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 2. De verzamelkaarten worden vervaardigd op de schaal 1 : 25.000.
 
-## Titel 3. Vorm van de aan de kadastrale kaarten ten grondslag liggende bescheiden
+### Titel 3. Vorm van de aan de kadastrale kaarten ten grondslag liggende bescheiden
 
 ##### Artikel 31
 
@@ -420,7 +611,7 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 2. De zelfstandige karteringen worden gemaakt op de desbetreffende hulpkaart dan wel op een afzonderlijke hulpkaart.
 
-## Titel 5. Bewijs van ontvangst en overige bepalingen
+### Titel 4. Registratie en weergave van de coördinaatpunten
 
 ##### Artikel 34
 
@@ -448,11 +639,11 @@ Indien de bewaarder vermoedt dat een inschrijving, bedoeld in de [artikelen 38](
 
 4. Beschrijving en coördinaten van RD-punten worden vermeld op coördinaatlijsten.
 
-### Hoofdstuk 4. Bijwerking van de kadastrale registratie, het kaartenbestand en het net van coördinaatpunten
+### Hoofdstuk 4. Bijwerking van de basisregistratie kadaster, het kaartenbestand en het net van coördinaatpunten
 
-## Titel 1. Bijwerking van de kadastrale registratie en de kadastrale kaarten
+### Titel 1. Bijwerking van de basisregistratie kadaster en de kadastrale kaarten
 
-### Afdeling 1. Wijze van bijwerking van de kadastrale registratie en de kadastrale kaarten
+#### Afdeling 1. Wijze van bijwerking van de basisregistratie kadaster en de kadastrale kaarten
 
 #### Paragraaf 1. Aantekening betreffende de inschrijving van een stuk: verwijzing naar het stuk op grond waarvan de bijwerking heeft plaatsgevonden
 
@@ -470,7 +661,7 @@ De aantekening betreffende een inschrijving in de openbare registers, bedoeld in
 
 2. De verwijzing, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=5) wordt ook gesteld bij het wijzigen of aanvullen van de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=6&artikel=64&z=2026-07-16&g=2026-07-16) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=6&artikel=67&z=2026-07-16&g=2026-07-16) bedoelde gegevens.
 
-#### Paragraaf 2. Wijziging of aanvulling van de in de kadastrale registratie vermelde gegevens
+#### Paragraaf 2. Wijziging of aanvulling van de in de basisregistratie kadaster vermelde gegevens
 
 ##### Artikel 39
 
@@ -490,7 +681,7 @@ De aantekening betreffende een inschrijving in de openbare registers, bedoeld in
 
 8. Indien een verklaring van waardeloosheid of enig ander stuk dat strekt tot inschrijving van de waardeloosheid van een inschrijving, wordt ingeschreven betreffende een inschrijving als bedoeld in het zevende lid, wordt, ingeval het een in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=2&artikel=41&z=2026-07-16&g=2026-07-16), vermeld feit betreft, in afwijking van het zevende lid de in dat lid bedoelde aanduiding verwijderd onder vermelding van het stukidentificatienummer van het desbetreffende stuk.
 
-9. Vervallen.
+9. *Vervallen.*
 
 10. Het vierde lid is van overeenkomstige toepassing op de inschrijving van stukken die betrekking hebben op mijnen als bedoeld in de Loi concernant les Mines, les Minières et les Carrières, du 21 avril 1810 (Bulletin des Lois no. 285).
 
@@ -504,25 +695,25 @@ De aantekening betreffende een inschrijving in de openbare registers, bedoeld in
 
 1. De in [artikel 39, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=2&artikel=39&z=2026-07-16&g=2026-07-16), bedoelde aanduidingen van de aard van de ingeschreven stukken luiden als volgt:
 
-| **Aard ingeschreven stuk** | **Aanduiding** |
+| Aard ingeschreven stuk | Aanduiding |
 | --- | --- |
 | a. Ondercuratelestelling | Ondercuratelestelling, onder vermelding van de naam en de woonplaats met adres van de curator |
 | b. Faillietverklaring | Faillietverklaring, onder vermelding van de naam en de woonplaats met adres van de curator |
 | c. Verleende surséance van betaling | Surséance, onder vermelding van de naam en woonplaats met adres van de bewindvoerder |
 | cc. het van toepassing zijn van een schuldsaneringsregeling natuurlijke personen | schuldsaneringsregeling onder vermelding van de naam en woonplaats met adres van de bewindvoerder; |
-| d. Toestemming als bedoeld in de [artikelen 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=41), en [50, eerste lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=50) om een boom, heester of heg dan wel een venster, balcon of soortgelijke werken binnen de verboden afstand van de grens van een erf te hebben | Toestemming om boom enz. binnen verboden afstand te hebben |
-| e. Afwijkende regeling als bedoeld in [artikel 59 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=59) | Afwijkende regeling [artikel 5:59 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=59) |
+| d. Toestemming als bedoeld in de artikelen 41, eerste lid, en 50, eerste lid, van Boek 5 van het Burgerlijk Wetboek om een boom, heester of heg dan wel een venster, balcon of soortgelijke werken binnen de verboden afstand van de grens van een erf te hebben | Toestemming om boom enz. binnen verboden afstand te hebben |
+| e. Afwijkende regeling als bedoeld in artikel 59 van Boek 5 van het Burgerlijk Wetboek | Afwijkende regeling artikel 5:59 BW |
 | f. Onderbewindstelling van een register goed of een algemeenheid van goederen of een aandeel daarin | Onderbewindstelling, onder vermelding van de naam en de woonplaats met adres van de bewindvoerder |
-| g. Beding als bedoeld in [artikel 252 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) | Kwalitatieve verbintenis |
-| h. Huurkoop als bedoeld in de [Tijdelijke wet huurkoop onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002887) | Huurkoop |
+| g. Beding als bedoeld in artikel 252 van Boek 6 van het Burgerlijk Wetboek | Kwalitatieve verbintenis |
+| h. Huurkoop als bedoeld in de Tijdelijke wet huurkoop onroerende zaken | Huurkoop |
 | i. Reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld | Reglementen |
 | j. Instelling van een rechtsvordering of de indiening van een verzoekschrift ter verkrijging van een rechterlijke uitspraak | Instelling rechtsvordering |
 | k. Instelling van een rechtsmiddel tegen een rechterlijke uitspraak | Instelling rechtsmiddel |
-| l. Ruilverkavelingsovereenkomst als bedoeld in [artikel 119, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=119) | Ruilv. overeenkomst |
-| m. Lastgeving als bedoeld in [artikel 423 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=423), voorkomend in een akte van economische eigendomsoverdracht | Privatieve last (economische overdracht) |
-| n. Lastgeving als bedoeld in [artikel 423 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=423), voorkomend in een akte anders dan onder x bedoeld | Privatieve last |
-| o. Koopovereenkomst als bedoeld in [artikel 3 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=3) en overeenkomst als bedoeld in [artikel 10, derde lid, van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=10) | KP: koop, zie [art. 7:3 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=3) KC: koopovereenkomst [BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290) en [WVG](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) KT: koop of voorovereenkomst tot koop, zie [art. 10 WVG](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=10) DP: doorhaling koop, zie art. 7:3 BW DC: doorhaling koopovereenkomst BW en WVG DT: doorhaling koop of voorovereenkomst tot koop, zie art. 10 WVG |
-| p. Besluit als bedoeld in [artikel 110i van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110i) tot vaststelling van een hogere waarde, en mededeling inzake het vervallen van de verplichting tot de realisatie van maatregelen als bedoeld in [artikel 114a van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=114a) | Besluit Wet geluidhinder |
+| l. Ruilverkavelingsovereenkomst als bedoeld in artikel 119, eerste lid, van de Landinrichtingswet | Ruilv. overeenkomst |
+| m. Lastgeving als bedoeld in artikel 423 van Boek 7 van het Burgerlijk Wetboek, voorkomend in een akte van economische eigendomsoverdracht | Privatieve last (economische overdracht) |
+| n. Lastgeving als bedoeld in artikel 423 van Boek 7 van het Burgerlijk Wetboek, voorkomend in een akte anders dan onder x bedoeld | Privatieve last |
+| o. Koopovereenkomst als bedoeld in artikel 3 van Boek 7 van het Burgerlijk Wetboek en overeenkomst als bedoeld in artikel 10, derde lid, van de Wet voorkeursrecht gemeenten | KP: koop, zie art. 7:3 BW KC: koopovereenkomst BW en WVG KT: koop of voorovereenkomst tot koop, zie art. 10 WVG DP: doorhaling koop, zie art. 7:3 BW DC: doorhaling koopovereenkomst BW en WVG DT: doorhaling koop of voorovereenkomst tot koop, zie art. 10 WVG |
+| p. Besluit als bedoeld in artikel 110i van de Wet geluidhinder tot vaststelling van een hogere waarde, en mededeling inzake het vervallen van de verplichting tot de realisatie van maatregelen als bedoeld in artikel 114a van de Wet geluidhinder | Besluit Wet geluidhinder |
 
 2. De in het eerste lid bedoelde aanduidingen kunnen worden afgekort, indien dit uit praktische overwegingen noodzakelijk is mits aan de duidelijkheid geen afbreuk wordt gedaan.
 
@@ -552,6 +743,8 @@ De aantekening betreffende een inschrijving in de openbare registers, bedoeld in
 
 3. De basisregistratie kadaster wordt in overeenstemming gebracht met de uit de metingstaat blijkende nieuwe gegevens. In de basisregistratie kadaster vindt zo mogelijk een wederkerige verwijzing plaats tussen de vervallen en de nieuwe percelen.
 
+#### Paragraaf 2a. Wijze van bijwerking van de basisregistratie kadaster omtrent publiekrechtelijke beperkingen
+
 ##### Artikel 45
 
 1. Na inschrijving van een beperkingenbesluit als bedoeld in [artikel 3, eerste lid van de Wkpb](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=3), vindt bijhouding van de basisregistratie kadaster plaats op basis van de essentialia, genoemd in [artikel 3, eerste lid, van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3).
@@ -580,15 +773,67 @@ De aantekening betreffende een inschrijving in de openbare registers, bedoeld in
 
 - d. opheffing van de onder a en b bedoelde splitsingen.
 
-#### Paragraaf 3. Wijze van bijwerking van de kadastrale registratie in bijzondere gevallen
+##### Artikel 45b
 
-##### Artikel 13
+1. Ingeval de kadastrale aanduiding van de in [artikel 15, eerste lid, van de Wkpb](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15) bedoelde onroerende zaken wordt gewijzigd en met betrekking tot de daarop rustende beperkingen de handmatig ingetekende geometrie in elektronische vorm is ingeschreven, vindt bijhouding van de basisregistratie kadaster plaats met inachtneming van het tweede en derde lid.
 
-Vervallen
+2. De Dienst stelt op basis van de handmatige ingetekende geometrie vast op welke van de nieuw gevormde percelen de publiekrechtelijke beperking geheel of gedeeltelijk rust. De handhaving van de vermelding van een publiekrechtelijke beperking, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=10), geschiedt door bij de actuele gegevens van de nieuw gevormde percelen waarop de publiekrechtelijke beperking geheel of gedeeltelijk rust, de korte aanduiding die bij de vervallen percelen was vermeld, over te nemen, zo mogelijk onder verwijzing naar het stukidentificatienummer van inschrijving van het stuk op grond waarvan de desbetreffende aanduiding werd gesteld.
 
-##### Artikel 14
+3. Het tweede lid is van overeenkomstige toepassing in geval van
 
-Vervallen
+- a. splitsing in appartementsrechten als bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106) en [107 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=107);
+
+- b. ondersplitsing in appartementsrechten als bedoeld in [artikel 106, derde lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106);
+
+- c. wijziging van de onder a en b bedoelde splitsingen, en
+
+- d. de opheffing van de onder a en b bedoelde splitsingen.
+
+##### Artikel 45c
+
+1. Het verantwoordelijke bestuursorgaan kan via de daarvoor bestemde internetapplicatie van de Dienst, ambtshalve een object aanwijzen als bedoeld in [artikel 7, van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=7).
+
+2. Wanneer een object, waarop een beperking rust, niet langer actueel is, mag het bestuursorgaan dit niet ambtshalve vervangen door een ander object als daardoor het werkingsgebied van de beperking groter wordt dan in het oorspronkelijke besluit was bedoeld. In dat geval dient de wijziging via een inschrijving in de openbare registers te worden aangeboden.
+
+##### Artikel 45d
+
+*Vervallen*
+
+##### Artikel 45e
+
+*Vervallen*
+
+##### Artikel 45f
+
+*Vervallen*
+
+##### Artikel 45g
+
+*Vervallen*
+
+##### Artikel 45h
+
+*Vervallen*
+
+##### Artikel 45i
+
+*Vervallen*
+
+#### Paragraaf 3. Wijze van bijwerking van de basisregistratie kadaster in bijzondere gevallen
+
+##### Artikel 46
+
+1. Indien een inschrijving in de openbare registers een overdracht betreft van een registergoed voor een bepaalde tijd, wordt de verkrijger in de basisregistratie kadaster vermeld als vruchtgebruiker en de vervreemder als eigenaar, gedurende de in het ingeschreven stuk gestelde tijd.
+
+2. Indien een inschrijving in de openbare registers een overdracht betreft van een registergoed onder opschortende tijdsbepaling, wordt de verkrijger in de basisregistratie kadaster vermeld als eigenaar en de vervreemder als vruchtgebruiker, gedurende de in het ingeschreven stuk gestelde tijd.
+
+##### Artikel 47
+
+1. Indien een inschrijving in de openbare registers een overdracht betreft onder een opschortende voorwaarde, wordt het perceel eerst op naam van de verkrijger gesteld wanneer de vervulling van die voorwaarde is ingeschreven.
+
+2. Zolang de vervulling van de voorwaarde niet is ingeschreven, wordt bij het perceel aangetekend: ‘onder opschortende voorwaarde geleverd aan ...’, onder invulling van de persoonsgegevens van de verkrijger.
+
+3. Indien wordt geleverd aan een rechtspersoon in oprichting, wordt bij het perceel aangetekend: ‘Overgedragen aan ... in oprichting’, onder invulling van de gegevens van die rechtspersoon in oprichting.
 
 ##### Artikel 48
 
@@ -602,7 +847,7 @@ Indien een inschrijving in de openbare registers een overdracht betreft onder ee
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
@@ -612,7 +857,7 @@ Vervallen
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 4. Wijze van bijwerking omtrent appartementsrechten
 
@@ -640,11 +885,11 @@ Vervallen
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 58
 
@@ -658,7 +903,7 @@ Vervallen
 
 - c. een stuk is ingeschreven waaruit blijkt dat een erfpacht of recht van opstal dat naast één of meer onroerende zaken in een splitsing in appartementsrechten is betrokken, is geëindigd.
 
-#### Paragraaf 1. Aantekening betreffende de inschrijving van een stuk: verwijzing naar het stuk op grond waarvan de bijwerking heeft plaatsgevonden
+#### Paragraaf 5. Wijze van bijwerking omtrent netwerken
 
 ##### Artikel 59
 
@@ -686,7 +931,7 @@ Vervallen
 
 Indien de inschrijving van een stuk, bedoeld in [artikel 59, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=5&artikel=59&z=2026-07-16&g=2026-07-16), aanleiding geeft tot het toekennen van een nieuwe kadastrale aanduiding aan een kabelnet, wordt in de verwijzing tussen de kadastrale aanduiding van het kabelnet en de kadastrale aanduiding van de percelen waarbinnen dat kabelnet is of wordt aangelegd, bedoeld in artikel 59, eerste lid, en in de verwijzing tussen het stukidentificatienummer van het in de openbare registers ingeschreven beslag en de kadastrale aanduiding van het kabelnet, bedoeld in [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=5&artikel=60&z=2026-07-16&g=2026-07-16), de oude kadastrale aanduiding vervangen door de nieuwe kadastrale aanduiding.
 
-#### Paragraaf 6. Wijze van bijwerking van gegevens als bedoeld in [artikel 48, tweede lid, onder i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48)
+#### Paragraaf 6. Wijze van bijwerking van gegevens als bedoeld in artikel 48, tweede lid, onder i, van de wet
 
 ##### Artikel 62
 
@@ -720,7 +965,7 @@ Zodra het afschrift van een lijst van rechthebbenden, bedoeld in [artikel 188 va
 
 ##### Artikel 66
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 67
 
@@ -826,7 +1071,7 @@ Bij de in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00276
 
 2. Indien een akte van toedeling betrekking heeft op een gehele of gedeeltelijke kadastrale gemeente die een andere naam draagt dan de desbetreffende burgerlijke gemeente, wordt het desbetreffende gebied in beginsel ingedeeld bij, dan wel gevormd tot de kadastrale gemeente die de naam van de burgerlijke gemeente draagt.
 
-### Afdeling 2. Bijhouding
+#### Afdeling 2. Bijhouding
 
 #### Paragraaf 1. Bijhouding op grond van ingeschreven stukken, waarbij een meting noodzakelijk is
 
@@ -844,7 +1089,7 @@ Bij de in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00276
 
 3. Na inschrijving van een stuk tot verbetering wordt tot perceelsvorming overgegaan en wordt de in het tweede lid bedoelde grens tot perceelgrens gemaakt.
 
-#### Paragraaf 4. Wijze van bijwerking omtrent appartementsrechten
+#### Paragraaf 2. Bijhouding op grond van inlichtingen omtrent het overlijden van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de basisregistratie kadaster staan vermeld
 
 ##### Artikel 84
 
@@ -854,13 +1099,13 @@ Bij de in [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00276
 
 3. Ingeval evenwel uit de ontvangen inlichtingen van een ander boedeladres blijkt dan het in het tweede lid bedoelde, wordt in dat geval wordt het eerstbedoelde boedeladres vermeld.
 
-#### Paragraaf 3. Bijhouding op grond van inlichtingen van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de kadastrale registratie staan vermeld omtrent hun wettelijke woonplaats
+#### Paragraaf 3. Bijhouding op grond van inlichtingen van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de basisregistratie kadaster staan vermeld omtrent hun wettelijke woonplaats
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
-#### Paragraaf 4. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35)
+#### Paragraaf 4. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de artikelen 29 en 35 van Boek 5 van het Burgerlijk Wetboek
 
 ##### Artikel 86
 
@@ -974,7 +1219,7 @@ Bijhouding van de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR002769
 
 De in [artikel 19, eerste lid, van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=19) bedoelde brief heeft de vorm van het model dat als [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=10&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
 
-### Afdeling 3. Vernieuwing
+#### Afdeling 3. Vernieuwing
 
 ##### Artikel 95
 
@@ -1008,7 +1253,7 @@ De in [artikel 21, eerste lid, van de Uitvoeringsregeling Kadasterwet 1994](http
 
 2. als bijlagen worden afschriften van de in het eerste lid bedoelde stukken bij het voorstel van vernieuwing gevoegd.
 
-### Afdeling 4. Metingen
+#### Afdeling 4. Metingen
 
 ##### Artikel 99
 
@@ -1074,7 +1319,7 @@ Ingeval bij een meting op het terrein verandering wordt geconstateerd in een vro
 
 Andere dan de in [artikel 56d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56d) bedoelde metingen kunnen door anderen dan ambtenaren van de Dienst worden verricht, mits deze metingen afhankelijk zijn van de goedkeuring door de Dienst.
 
-### Afdeling 2. Bijhouding
+#### Afdeling 5. Vorm van mededelingen, kennisgevingen, relazen van bevindingen, voorstellen van vernieuwing en te geven beslissingen op bezwaarschriften
 
 ##### Artikel 109
 
@@ -1144,7 +1389,7 @@ De brief, bedoeld in de [artikelen 68, tweede lid](https://wetten.overheid.nl/jc
 
 [Artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=111&z=2026-07-16&g=2026-07-16) is voor zover mogelijk van overeenkomstige toepassing op de in [artikel 76, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=76) bedoelde beslissing van de ambtenaar op bezwaarschriften tegen voorstellen van vernieuwing alsmede op de brief waarbij die beslissing aan belanghebbenden wordt bekendgemaakt.
 
-## Titel 2. Bijhouding van het net van coördinaatpunten
+### Titel 2. Bijhouding van het net van coördinaatpunten
 
 ##### Artikel 116
 
@@ -1152,9 +1397,9 @@ De bijhouding van het net van coördinaatpunten, bedoeld in [artikel 52, eerste 
 
 ### Hoofdstuk 5. Verstrekking van inlichtingen
 
-## Titel 1. Verstrekking van inlichitngen uit de openbare registers voor onroerende zaken
+### Titel 1. Verstrekking van inlichitngen uit de openbare registers voor onroerende zaken
 
-### Afdeling 3. Vernieuwing
+#### Afdeling 1. Afschriften
 
 ##### Artikel 119
 
@@ -1162,7 +1407,7 @@ De bijhouding van het net van coördinaatpunten, bedoeld in [artikel 52, eerste 
 
 2. Op een afschrift of uittreksel van een vóór 1 april 1950 in de openbare registers opgenomen stuk wordt melding gemaakt van het kantoor en het deel en nummer van inschrijving.
 
-### Afdeling 2. Getuigschriften
+#### Afdeling 2. Getuigschriften
 
 ##### Artikel 126
 
@@ -1178,7 +1423,7 @@ De vorm van de in [artikel 99, eerste lid, van de wet](https://wetten.overheid.n
 
 Op afschriften als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), die zijn gevoegd bij de in [artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=5&titeldeel=1&afdeling=2&artikel=126&z=2026-07-16&g=2026-07-16) bedoelde getuigschriften, is [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=5&titeldeel=1&afdeling=1&artikel=119&z=2026-07-16&g=2026-07-16) van toepassing.
 
-### Afdeling 4. Metingen
+#### Afdeling 3. Vermelding van voorlopige aantekeningen; wijze van raadpleging
 
 ##### Artikel 129
 
@@ -1188,9 +1433,9 @@ Indien op een getuigschrift als bedoeld in [artikel 126](https://wetten.overheid
 
 De raadpleging van de openbare registers geschiedt door het verlenen van inzage aan het kantoor van de Dienst en digitale raadpleging.
 
-## Titel 2. Verstrekking van inlichtingen uit de kadastrale registratie, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
+### Titel 2. Verstrekking van inlichtingen uit de basisregistratie kadaster, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
 
-### Afdeling 3. Vernieuwing
+#### Afdeling 1. Uittreksels uit de basisregistratie kadaster
 
 ##### Artikel 131
 
@@ -1208,29 +1453,33 @@ De raadpleging van de openbare registers geschiedt door het verlenen van inzage 
 
 ##### Artikel 132
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 133
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 134
 
-Vervallen
+*Vervallen*
 
-### Afdeling 4. Metingen
+#### Afdeling 2. Afschriften en uittreksels van de kadastrale kaarten
 
 ##### Artikel 135
 
 Afschriften van de kadastrale kaart worden verstrekt in de vorm van een digitaal bestand en een plot.
 
-### Afdeling 4. Metingen
+#### Afdeling 3. Wijze van raadpleging van de basisregistratie kadaster en de door de Dienst gehouden kaarten
 
 ##### Artikel 136
 
 De raadpleging van de basisregistratie kadaster en de kadastrale kaart geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via de permanente aansluiting op de geautomatiseerde basisregistratie kadaster, of door het verstrekken van inlichtingen op de daarvoor aangewezen elektronische wijze.
 
-### Afdeling 4. Inlichtingen uit bescheiden die ten grondslag liggen aan door de Dienst gehouden kaarten
+##### Artikel 136a
+
+*Vervallen*
+
+#### Afdeling 4. Inlichtingen uit bescheiden die ten grondslag liggen aan door de Dienst gehouden kaarten
 
 ##### Artikel 137
 
@@ -1270,13 +1519,13 @@ De raadpleging van de bescheiden die ten grondslag liggen aan door de Dienst geh
 
 2. In geval van verstrekking van een afschrift van relazen van bevindingen wordt daarbij op verzoek een mondelinge of schriftelijke toelichting van algemene aard verstrekt.
 
-### Afdeling 5. Inlichtingen omtrent het net van coördinaatpunten
+#### Afdeling 5. Inlichtingen omtrent het net van coördinaatpunten
 
 ##### Artikel 141
 
 Het verstrekken van inlichtingen, bedoeld in [artikel 102, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102) geschiedt door het in elektronische vorm verstrekken van een afschrift van de in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=3&titeldeel=4&artikel=35&z=2026-07-16&g=2026-07-16) bedoelde overzichtskaarten, alsmede door het in schriftelijke dan wel elektronische vorm verstrekken van een afschrift van de in artikel 35 bedoelde coördinaatlijsten.
 
-### Afdeling 6. Overige bepalingen
+#### Afdeling 6. Overige bepalingen
 
 ##### Artikel 142
 
@@ -1285,6 +1534,20 @@ Met de verstrekking van de in [artikel 106, tweede en derde lid, van de wet](htt
 - a. voor zover het betreft de kadastrale kaarten: de bewaarder van het kantoor van de Dienst waar de kaarten worden gehouden, alsmede de directeur van het kadaster en de openbare registers van dat kantoor;
 
 - b. voor zover het betreft het net van coördinaatpunten, bedoeld in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=52): het hoofd van het bureau Rijksdriehoeksmeting, welk bureau onderdeel is van de eenheid Vastgoedinformatie en Geodesie van de concernstaf van de Dienst.
+
+##### Artikel 142a
+
+1. De bewaarder waarmerkt afschriften en uittreksels in papieren vorm als bedoeld in de [artikelen 99 tot en met 102 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99) door in het afschrift of het uittreksel de volgende door hem te ondertekenen verklaring op te nemen: ‘Voor eensluidend afschrift’ of ‘Voor eensluidend uittreksel’, onder vermelding van zijn naam, voorletters en functie.
+
+2. De bewaarder waarmerkt getuigschriften in papieren vorm als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99) door het getuigschrift te ondertekenen, onder vermelding van zijn naam, voorletters en functie.
+
+3. De bewaarder waarmerkt afschriften, uittreksels en getuigschriften in elektronische vorm door hieraan een afzonderlijk elektronisch bestand toe te voegen, waarin hij verklaart dat de gegevens overeenstemmen met de bij de Dienst berustende gegevens. Het bestand wordt voorzien van de elektronische handtekening van de bewaarder en bevat voorts de volgende gegevens:
+
+- a. de naam van het kantoor van de Dienst,
+
+- b. de datum van afgifte, en
+
+- c. de naam van de bewaarder die het document elektronisch heeft gewaarmerkt.
 
 ### Hoofdstuk 6. Overige en slotbepalingen
 
@@ -1308,7 +1571,7 @@ Ten aanzien van de wijze waarop wijzigingen, bedoeld in [artikel 111, eerste lid
 
 ##### Artikel 146
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 147
 
@@ -1345,954 +1608,3 @@ De kennelijke misslagen, begaan bij de bijwerking van de basisregistratie kadast
 Kadasterregeling 1994.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=1&z=2026-07-16&g=2026-07-16). De [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=1&z=2026-07-16&g=2026-07-16) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=19&z=2026-07-16&g=2026-07-16)1De bijlagen 1, 2, 3 en 19 liggen met ingang van 1 mei 1994 ter inzage op de afdeling Bewaring, Juridische Zaken en Vastgoedinformatie van alle kantoren van het Kadaster, met uitzondering van het kantoor te Apeldoorn. worden ter inzage gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
-
-## Bijlage 1
-
-Ligt ter inzage op de afdeling Bewaring, Juridische Zaken en Vastgoedinformatie van alle kantoren van het Kadaster, met uitzondering van het kantoor te Apeldoorn.
-
-## Bijlage 2
-
-Ligt ter inzage op de afdeling Bewaring, Juridische Zaken en Vastgoedinformatie van alle kantoren van het Kadaster, met uitzondering van het kantoor te Apeldoorn.
-
-## Bijlage 3
-
-Ligt ter inzage op de afdeling Bewaring, Juridische Zaken en Vastgoedinformatie van alle kantoren van het Kadaster, met uitzondering van het kantoor te Apeldoorn.
-
-## Bijlage 4
-
-Niet opgenomen.
-
-## Bijlage 5
-
-Niet opgenomen.
-
-## Bijlage 6
-
-Niet opgenomen.
-
-## Bijlage 7
-
-Niet opgenomen.
-
-## Bijlage 8
-
-Niet opgenomen.
-
-## Bijlage 9
-
-Niet opgenomen.
-
-## Bijlage 10
-
-Niet opgenomen.
-
-## Bijlage 11
-
-Niet opgenomen.
-
-## Bijlage 12
-
-Niet opgenomen.
-
-## Bijlage 12a
-
-Niet opgenomen.
-
-## Bijlage 13
-
-Niet opgenomen.
-
-## Bijlage 13a
-
-Niet opgenomen.
-
-## Bijlage 14
-
-Niet opgenomen.
-
-## Bijlage 14a
-
-Niet opgenomen.
-
-## Bijlage 14b
-
-Niet opgenomen.
-
-## Bijlage 15
-
-Niet opgenomen.
-
-## Bijlage 16
-
-Vervallen
-
-## Bijlage 17
-
-Niet opgenomen.
-
-## Bijlage 18
-
-Niet opgenomen.
-
-## Bijlage 19
-
-Ligt ter inzage op elk van de kantoren van de directies van de Dienst voor het kadaster en de openbare registers in de regio’s.
-
-## Bijlage 20. als bedoeld in artikel 111, tweede lid
-
-Vervallen
-
-## Bijlage 21. als bedoeld in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=112&z=2004-07-10&g=2004-07-10)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te ......
-
-Aan .......
-
-Datum:
-
-**Beslissing op het verzoek**
-
-Naar aanleiding van uw verzoek van ...... om een onderzoek in te stellen naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29)([35) van boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), deel ik u mede dat ik uw verzoek heb afgewezen. Een afschrift van deze beslissing treft u hierbij aan.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-## Bijlage 22. als bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=113&z=2004-07-10&g=2004-07-10)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Mededeling inzake niet-bijhouding van de kadastrale registratie en de kadastrale kaarten**
-
-Onder verwijzing naar het op ....... gehouden onderzoek ter plaatse naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29)([35) van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), deel ik u mede dat het onderzoek geen aanleiding heeft gegeven tot bijhouding.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-## Bijlage 23. als bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=114&z=2004-07-10&g=2004-07-10)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Afwijzing verzoek**
-
-Naar aanleiding van uw verzoek van ....... tot splitsing/samenvoeging van het perceel/de percelen kadastraal bekend gemeente ...... sectie ...... nr(s) ....... deel ik u mede dat ik uw verzoek heb afgewezen. Een afschrift van deze beslissing treft u hierbij aan.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-## Bijlage 24. als bedoeld in [artikel 114, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=114&z=2004-07-10&g=2004-07-10)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Bekendmaking van voorstellen van vernieuwing**
-
-Hierbij deel ik u mede dat het door het Kadster uitgevoerde onderzoek van vernieuwing heeft geleid tot vernieuwing van de kadastrale registratie en kaarten
-
-Bijgaand doe ik u toekomen het voorstel/de voorstellen van vernieuwing betreffende het perceel/de percelen waarbij u belanghebbende bent. Dit voorstel/Deze voorstellen ligt/liggen voorts ook voor een ieder ter inzage op mijn kantoor (kamer ...), en wel tot en met ...
-
-In het voorstel/de voorstellen zijn onder meer vermeld de gegevens omtrent de rechten, de rechthebbenden, de grootte en de kadstrale aanduiding betreffende het perceel/de percelen.
-
-Indien u het met de inhoude van het voorstel/de voorstellen van vernieuwing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van de verzending van deze brief.
-
-De directeur.
-
-## Bijlage 1
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2a
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2b
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 3
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4a
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4b
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 5
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 6
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 1
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-##### Artikel 1a
-
-1. Het stukidentifcatienummer, bedoeld in [artikel 11c, eerste lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11c) bestaat uit de vermelding van achtereenvolgens:
-
-- a. de afkorting ‘OZ’, ‘SC’ of ‘LU’, naar gelang inschrijving wordt verzocht in het in [artikel 3, eerste lid, onder a, b onderscheidelijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16) bedoelde register;
-
-- b. het nummer van het voor de inschrijving gereserveerde deel en nummer van het desbetreffende register.
-
-2. Een stuk tot verbetering of een bijhoudingsverklaring als bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=42) respectievelijk [46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a), dan wel een procesverbaal als bedoeld in [artikel 45, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45), dat binnen 48 uur na de dag van verzending van een verzoek als bedoeld in [artikel 21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=21b&z=2026-07-16&g=2026-07-16), ter inschrijving wordt aangeboden, wordt in de openbare registers ingeschreven onder hetzelfde stukidentificatienummer als het stuk, waarop het stuk tot verbetering, de bijhoudingsverklaring of het proces-verbaal betrekking heeft.
-
-##### Artikel 3a
-
-1. De in elektronische vorm gehouden gedeelten van de openbare registers bestaan uit een databank die is onderverdeeld in logische databanken per:
-
-- a. soort van registergoed als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16), en
-
-- b. soort van register als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=1&artikel=3&z=2026-07-16&g=2026-07-16).
-
-2. Per kantoor van de Dienst wordt een logische databank voor archiefbestanden gehouden, waarin stukken in elektronische vorm worden opgeslagen, die samen met een ingeschreven stuk zijn aangeboden, maar zelf niet in de openbare registers worden ingeschreven.
-
-3. Stukken in elektronische vorm die gesteld zijn in een vreemde of in de Friese taal, als bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=41), worden opgeslagen in de logische databank, bedoeld in het tweede lid.
-
-##### Artikel 3b
-
-1. De hoofdbewaarder onderzoekt op grond van de door de functioneel beheerder aan hem te verstrekken rapportages en overzichten tijdig of de duplicaten, bedoeld in [artikel 9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=9), zijn vervaardigd in overeenstemming met de daarvoor door het bestuur van de Dienst vastgestelde maatregelen. Indien dat het geval is, maakt de hoofdbewaarder een door hem te ondertekenen verklaring op als bedoeld in artikel 9, zesde lid, van de wet. Deze verklaring heeft de vorm van het model dat als [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=2a&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
-
-2. Indien van een in papieren vorm gehouden gedeelte van de openbare registers een duplicaat op microfilm en een duplicaat in elektronische vorm is vervaardigd en de verklaring, bedoeld in het eerste lid, is opgemaakt, vervangen deze duplicaten het desbetreffende in papieren vorm gehouden gedeelte van de openbare registers.
-
-3. De in het eerste lid bedoelde rapportage van de functioneel beheerder heeft de vorm van het model dat als [bijlage 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=2b&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
-
-### Hoofdstuk 2. Openbare registers voor onroerende zaken
-
-## Titel 1. Boekingen in het register Hypotheken 4D
-
-## Titel 2. Aantekeningen in de de in papieren vorm gehouden gedeelten van openbare registers
-
-## Titel 2a. Aantekeningen in de in elektronische vorm gehouden gedeelten van de openbare registers
-
-##### Artikel 11f
-
-Het door de Dienst gehouden systeem ten behoeve van het elektronisch verzenden en ontvangen van berichten, bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), wordt op de in de technische handleiding beschreven wijze ingericht.
-
-##### Artikel 11g
-
-Vervallen
-
-##### Artikel 11h
-
-Vervallen
-
-##### Artikel 11i
-
-1. Het elektronische berichtenverkeer met de Dienst vindt plaats op basis van het uitwisselingsprotocol ofwel de interactie van de aanbieder met het aanbiedportaal, zoals dat is vastgelegd in de technische handleiding.
-
-2. De hoofdbewaarder informeert alle aanbieders die stukken elektronisch aanbieden tijdig over wijzigingen in het uitwisselingsprotocol.
-
-##### Artikel 11j
-
-1. Een verzoek tot vaststelling van een afwijkend uitwisselingsprotocol als bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) kan worden ingediend overeenkomstig de door de bewaarder aangegeven wijze.
-
-2. De hoofdbewaarder wijst het verzoek, bedoeld in het eerste lid, alleen toe indien:
-
-- a. het afwijkende uitwisselingsprotocol geen afbreuk doet aan de doelstelling van elektronische gegevensuitwisseling;
-
-- b. het afwijkende uitwisselingsprotocol past bij het gebruik van geavanceerde elektronische handtekeningen, en
-
-- c. de kosten die verband houden met de vaststelling van het afwijkende uitwisselingsprotocol worden gedragen door degene die het verzoek indient.
-
-3. De hoofdbewaarder deelt na ontvangst van het verzoek, bedoeld in het tweede lid, binnen een redelijke termijn aan de indiener van dit verzoek mee of een afwijkend uitwisselingsprotocol zal worden vastgesteld en over de daaraan verbonden kosten.
-
-##### Artikel 11k
-
-1. Na ontvangst van een verzoek tot verkrijging van een permanente aansluiting op het door de Dienst gehouden systeem, bedoeld in [artikel 11a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), ontvangt de verzoeker de technische specificaties waaraan de permanente aansluiting moet voldoen en dient de verzoeker het certificaat voor elektronische ondertekening aan te melden waarna hij kan aanvangen met het aanbieden van stukken.
-
-2. In afwijking van het eerste lid, ontvangt de verzoeker die stukken elektronisch wenst aan te bieden via het aanbiedportaal, de gebruiksvoorwaarden waaronder hij gebruik kan maken van de faciliteiten van het aanbiedportaal en zal hij, na acceptatie en elektronische ondertekening van deze voorwaarden, kunnen aanvangen met het aanbieden van stukken via het aanbiedportaal.
-
-3. Indien de applicatiesoftware nog niet eerder gebruikt is voor het aanbieden van stukken via het aanbiedportaal, wordt voor aanvang van het gebruik van het aanbiedportaal de mogelijkheid geboden om de werking van de applicatiesoftware met het aanbiedportaal te testen in een daartoe beschikbaar gestelde exploitatie-testomgeving.
-
-4. De kosten verbonden aan en voortvloeiende uit de verkrijging van een aansluiting of de mogelijkheid tot gebruik van het aanbiedportaal komen voor rekening van de verzoeker.
-
-##### Artikel 11l
-
-Het bericht, bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), voldoet aan de specificaties als genoemd in de technische handleiding en is door de aanbieder voorzien van een elektronische handtekening.
-
-##### Artikel 11m
-
-1. Indien de bewaarder overeenkomstig [artikel 11a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) besluit om een bericht niet te aanvaarden, deelt hij dit binnen 24 uur na het tijdstip van ontvangst van het bericht mee aan de aanbieder door middel van een bericht van afkeuring in elektronische vorm. Het bericht van afkeuring voldoet aan het gestelde daarover in de technische handleiding.
-
-2. Indien de hoofdbewaarder overeenkomstig [artikel 11a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) besluit om ook andere berichten van de aanbieder niet te aanvaarden, deelt hij dit met bekwame spoed mee aan die aanbieder.
-
-3. De aanbieder, bedoeld in het tweede lid, kan de hoofdbewaarder verzoeken om in de gelegenheid te worden gesteld om aan te tonen dat hij in staat is bij het in elektronische vorm aanbieden van stukken ter inschrijving in de openbare registers te voldoen aan de daarvoor geldende eisen. De aanbieder kan daartoe bij de hoofdbewaarder een door hem gedagtekend en ondertekend verzoek als bedoeld in [artikel 11a, vierde lid, eerste zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a) indienen.
-
-4. Na ontvangst van het verzoek stelt de hoofdbewaarder een onderzoek in, waarbij hij nagaat of de betrokken aanbieder bij het in elektronische vorm toezenden van berichten ter inschrijving van stukken in de openbare registers in staat is te voldoen aan de daarvoor geldende eisen.
-
-5. De hoofdbewaarder deelt de aanbieder de uitkomsten van zijn onderzoek mede door middel van een door hem gedagtekende en ondertekende verklaring. In de verklaring vermeldt de hoofdbewaarder de uitkomsten van het onderzoek, bedoeld in [artikel 11a, vierde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), alsmede of zijn besluit, bedoeld in het tweede lid, vervalt en, zo dat niet het geval is, de reden daarvan.
-
-##### Artikel 11n
-
-1. Het verzoek tot inschrijving in elektronische vorm, bedoeld in [artikel 11b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), voldoet aan de eisen die zijn opgenomen in de technische handleiding.
-
-2. Het verzoek tot inschrijving in elektronische vorm van een stuk tot verbetering als bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=42) voldoet aan de eisen die zijn opgenomen in de technische handleiding.
-
-3. Het tweede lid is van overeenkomstige toepassing op het verzoek tot inschrijving in elektronische vorm van een bijhoudingsverklaring als bedoeld in [artikel 46a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=46a) of een proces-verbaal als bedoeld in [artikel 45, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=45).
-
-##### Artikel 11o
-
-1. In het verzoek tot inschrijving in elektronische vorm wordt door middel van de vermelding van een verwijzing naar het register ‘Hypotheken 3’ of het register ‘Hypotheken 4’ kenbaar gemaakt voor welk register het stuk dat ter inschrijving wordt aangeboden, bestemd is.
-
-2. In het verzoek tot inschrijving dat via het aanbiedportaal wordt aangeboden worden metagegevens en waar mogelijk essentialia vermeld als bedoeld in de technische handleiding.
-
-##### Artikel 11p
-
-1. Indien een afschrift van een tekening of een ander stuk overeenkomstig [artikel 10 van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=10) in papieren vorm in bewaring is genomen, vervaardigt de bewaarder hiervan een duplicaat in elektronische vorm dat hij opslaat in een logische databank van depotbestanden.
-
-2. De bewaarder onderzoekt op grond van een door de functioneel beheerder verstrekte rapportage of het duplicaat in elektronische vorm een juiste en volledige weergave is van het in bewaring genomen afschrift in papieren vorm. Indien dat het geval is, vervangt de bewaarder het afschrift in papieren vorm door het duplicaat in elektronische vorm en legt hij dit vast in een verklaring die de vorm heeft van het model dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&bijlage=5&z=2026-07-16&g=2026-07-16) bij deze regeling is gevoegd.
-
-3. Nadat het afschrift in papieren vorm is vervangen door het duplicaat in elektronische vorm, zendt de bewaarder het afschrift in papieren vorm terug aan de aanbieder, onder toevoeging van de volgende door hem te ondertekenen verklaring: ‘Ondergetekende, Bewaarder van het kadaster en de openbare registers, verklaart dat deze tekening, na digitalisering, in elektronische vorm in bewaring is genomen onder het depotnummer ..., d.d. ..., de Bewaarder’.
-
-##### Artikel 11q
-
-1. Indien een verzoek wordt ingediend tot inschrijving van een stuk in elektronische vorm en van dit stuk een tekening of een ander stuk in papieren vorm deel uitmaakt, wordt in het verzoek tot inschrijving tevens verzocht om het afschrift van de tekening of het andere stuk dat overeenkomstig [artikel 10 van de Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596&artikel=10) in bewaring is genomen, in te schrijven.
-
-2. Na ontvangst van het verzoek tot inschrijving brengt de bewaarder het duplicaat in elektronische vorm, bedoeld in [artikel 11p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11p&z=2026-07-16&g=2026-07-16), terstond over van de logische database voor depotbestanden naar de logische database van ter inschrijving aangeboden stukken, onder vermelding van het stukidentificatienummer van het ter inschrijving aangeboden stuk.
-
-##### Artikel 11r
-
-1. De elektronische handtekening wordt vervaardigd door de integriteitswaarde van het verzoek als geheel, elk afzonderlijk document en indien van toepassing het KIK-bestand, in het verzoek overeenkomstig de technische handleiding te berekenen en te versleutelen.
-
-2. Bij het aanbieden van stukken via het aanbiedportaal, wordt de elektronische handtekening en de geldigheid van het gekwalificeerd certificaat, in het aanbiedportaal gecontroleerd.
-
-##### Artikel 11s
-
-Vervallen
-
-## Titel 3. Rangschikking en wijze van opberging van de afschriften van ter inschrijving van aangeboden stukken in papieren vorm
-
-## Titel 4. Voorlopige aantekeningen
-
-##### Artikel 17a
-
-1. De verklaring van niet-inschrijving, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15a), heeft de volgende vorm: ‘Dit stuk, dat is aangeboden op .......... om .............. uur, met stukidentificatienummer ...................... is geboekt in het register Hypotheken 4D, omdat ........’ onder invulling van de desbetreffende gegevens.
-
-2. Het bewijs van niet-inschrijving, bedoeld in [artikel 15b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15b), voldoet aan de technische handleiding en wordt binnen 48 uur na het tijdstip van verzending van de attendering op niet-inschrijving, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=21&z=2026-07-16&g=2026-07-16), door middel van een elektronisch bericht verzonden aan de aanbieder van het stuk waarvan de inschrijving is geweigerd.
-
-##### Artikel 19a
-
-1. Na de inschrijving van een stuk dat in papieren vorm is aangeboden, stelt de bewaarder op dit stuk de volgende verklaring van inschrijving, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13): ‘Dit stuk is ingeschreven ten kantore van de Dienst voor het kadaster en de openbare registers op .............. om ....... uur in register ....... in deel ....... en nummer ......’ onder invulling van de desbetreffende gegevens, waarbij het tijdstip wordt uitgedrukt in uur en minuut.
-
-2. Na de inschrijving van een stuk dat in elektronische vorm is aangeboden, zendt de bewaarder aan de aanbieder van dit stuk een bewijs van inschrijving als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13) dat voldoet aan het gestelde hierover in de technische handleiding.
-
-3. Na de inschrijving van het stuk, als bedoeld in [artikel 6 van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=6), dat in elektronische vorm is aangeboden, ontvangt het bestuursorgaan van de bewaarder elektronisch een bewijs van inschrijving als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=13) met de volgende verklaring: ‘PB succesvol ingeschreven met ID ... .’ Via het identificatienummer (‘ID’) van de publiekrechtelijke beperking is tevens voor het bestuursorgaan het deel en nummer in het register Hypotheken 4 raadpleegbaar dat aan het ingeschreven stuk is toegekend.
-
-4. Indien een tekening of een ander stuk als bedoeld in [artikel 11b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) in papieren vorm deel uitmaakt van een stuk dat in elektronische vorm ter inschrijving is aangeboden, stelt de bewaarder na de inschrijving op het eerst genoemde stuk de volgende verklaring van inschrijving: ‘Ingeschreven als bijlage van een stuk met een elektronische vorm dat is ingeschreven ten kantore van de Dienst voor het kadaster en de openbare registers op .............. om ....... uur in register ....... in deel ....... en nummer ......’ onder invulling van de desbetreffende gegevens, waarbij het tijdstip wordt uitgedrukt in uur en minuut.
-
-##### Artikel 19b
-
-1. Indien ter verkrijging van de inschrijving van een stuk in papieren vorm door de aanbieder bewijsstukken in papieren vorm zijn overgelegd, vult de bewaarder de verklaring van inschrijving, bedoeld in [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=5&artikel=19a&z=2026-07-16&g=2026-07-16), als volgt aan: ‘Bij de aanbieding ter inschrijving is/ zijn het/de volgende stuk(ken) overgelegd:’, onder vermelding van een korte aanduiding van elk van de overgelegde bewijsstukken.
-
-2. Indien ter verkrijging van de inschrijving van een stuk in elektronische vorm door de aanbieder bewijsstukken in elektronische vorm als bedoeld in [artikel 11b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b) zijn overgelegd, wordt zulks vermeld door de bewaarder op het bewijs van inschrijving.
-
-##### Artikel 19c
-
-Indien ter verkrijging van de inschrijving van een stuk door de aanbieder bewijsstukken zijn overgelegd, vermeldt de bewaarder dit in de in elektronische vorm gehouden gedeelten van de openbare registers door het stellen van de volgende door hem te ondertekenen verklaring: ‘Bij de aanbieding ter inschrijving zijn overgelegd: ...’, onder vermelding van een korte aanduiding van de stukken.
-
-##### Artikel 21a
-
-De afschriften van stukken die zijn meegezonden in het bericht, bedoeld in [artikel 11a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11a), maar zelf niet worden ingeschreven, worden blijvend bewaard in de logische databank voor archiefbestanden.
-
-##### Artikel 21b
-
-1. Indien na de inschrijving van een stuk blijkt dat het stuk onjuistheden of onvolledigheden bevat, of in het stuk gegevens ontbreken die noodzakelijk zijn voor een juiste en volledige bijhouding, verzoekt de bewaarder aan de aanbieder het stuk te verbeteren op de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), of de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) voorgeschreven wijze.
-
-2. Indien het ingeschreven stuk in papieren vorm is aangeboden, heeft het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring dan wel een proces-verbaal de vorm van het een model dat door de bewaarder wordt voorgeschreven.
-
-3. Indien het ingeschreven stuk in elektronische vorm ter inschrijving is aangeboden, is het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring, dan wel een proces- verbaal voorzien van een elektronisch zegel van de bewaarder, bedoeld in [artikel 7e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
-
-### Hoofdstuk 3. Basisregistratie kadaster, kaartenbestand, daaraan ten grondslag liggende bescheiden en net van coördinaatpunten
-
-## Titel 1. Wijze waarop de basisregistratie kadaster wordt gehouden
-
-## Titel 2. Kaartenbestand
-
-### Afdeling 1. Op de kadastrale kaart voorgestelde opstallen
-
-### Afdeling 1. Op de kadastrale kaart voorgestelde opstallen
-
-## Titel 3. Vorm van de aan de kadastrale kaarten ten grondslag liggende bescheiden
-
-## Titel 4. Registratie en weergave van de coördinaatpunten
-
-### Hoofdstuk 4. Bijwerking van de basisregistratie kadaster, het kaartenbestand en het net van coördinaatpunten
-
-## Titel 1. Bijwerking van de basisregistratie kadaster en de kadastrale kaarten
-
-### Afdeling 1. Wijze van bijwerking van de basisregistratie kadaster en de kadastrale kaarten
-
-#### Paragraaf 2. Wijziging of aanvulling van de in de basisregistratie kadaster vermelde gegevens
-
-##### Artikel 44
-
-1. De in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=7) bedoelde vervanging van de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=2&artikel=43&z=2020-04-19&g=2020-04-19) bedoelde vermeldingen door de tevens door de meting verkregen gegevens, geschiedt aan de hand van een metingstaat, die wordt opgemaakt nadat het relaas van bevindingen en de hulpkaarten gereed zijn. In de metingstaat worden vermeld de gegevens van de vervallen en de nieuw gevormde percelen, alsmede het verband daartussen, op een zodanige wijze dat de basisregistratie kadaster volledig kan worden gewijzigd of aangevuld.
-
-2. Op de metingstaat wordt de dagtekening van het ontstaan van de nieuwe kadastrale aanduidingen vermeld.
-
-3. De basisregistratie kadaster wordt in overeenstemming gebracht met de uit de metingstaat blijkende nieuwe gegevens. In de basisregistratie kadaster vindt zo mogelijk een wederkerige verwijzing plaats tussen de vervallen en de nieuwe percelen.
-
-##### Artikel 45
-
-De handhaving van de vermelding van een publiekrechtelijke eigendoms- of gebruiksbeperking dan wel een schuldplichtigheid met zakelijke werking, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=10), geschiedt door bij de actuele gegevens de desbetreffende aanduiding over te nemen, zo mogelijk onder verwijzing naar het stukidentificatienummer van het stuk op grond waarvan de desbetreffende aanduiding werd gesteld.
-
-#### Paragraaf 2a. Wijze van bijwerking van de basisregistratie kadaster omtrent publiekrechtelijke beperkingen
-
-#### Paragraaf 4. Wijze van bijwerking omtrent appartementsrechten
-
-#### Paragraaf 5. Wijze van bijwerking omtrent netwerken
-
-#### Paragraaf 5. Wijze van bijwerking omtrent netwerken
-
-#### Paragraaf 8. Berekening van de grootte van de percelen
-
-#### Paragraaf 7. Wijze van bijwerking van de kadastrale kaarten: perceelsvorming
-
-### Afdeling 2. Bijhouding
-
-#### Paragraaf 1. Bijhouding op grond van ingeschreven stukken, waarbij een meting noodzakelijk is
-
-#### Paragraaf 9. Metingstaten overige bepalingen
-
-#### Paragraaf 9. Metingstaten overige bepalingen
-
-#### Paragraaf 4. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35)
-
-#### Paragraaf 1. Bijhouding op grond van ingeschreven stukken, waarbij een meting noodzakelijk is
-
-#### Paragraaf 3. Bijhouding op grond van inlichtingen van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de basisregistratie kadaster staan vermeld omtrent hun wettelijke woonplaats
-
-#### Paragraaf 4. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29) en [35 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35)
-
-### Afdeling 5. Vorm van mededelingen, kennisgevingen, relazen van bevindingen, voorstellen van vernieuwing en te geven beslissingen op bezwaarschriften
-
-## Titel 2. Bijhouding van het net van coördinaatpunten
-
-### Hoofdstuk 5. Verstrekking van inlichtingen
-
-## Titel 1. Verstrekking van inlichitngen uit de openbare registers voor onroerende zaken
-
-### Afdeling 1. Afschriften
-
-### Afdeling 2. Getuigschriften
-
-### Afdeling 3. Vermelding van voorlopige aantekeningen; wijze van raadpleging
-
-## Titel 1. Verstrekking van inlichitngen uit de openbare registers voor onroerende zaken
-
-### Afdeling 1. Afschriften
-
-### Afdeling 3. Vermelding van voorlopige aantekeningen; wijze van raadpleging
-
-### Afdeling 3. Vermelding van voorlopige aantekeningen; wijze van raadpleging
-
-### Afdeling 1. Uittreksels uit de basisregistratie kadaster
-
-### Afdeling 2. Afschriften en uittreksels van de kadastrale kaarten
-
-### Afdeling 2. Afschriften en uittreksels van de kadastrale kaarten
-
-##### Artikel 142a
-
-1. De bewaarder waarmerkt afschriften en uittreksels in papieren vorm als bedoeld in de [artikelen 99 tot en met 102 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99) door in het afschrift of het uittreksel de volgende door hem te ondertekenen verklaring op te nemen: ‘Voor eensluidend afschrift’ of ‘Voor eensluidend uittreksel’, onder vermelding van zijn naam, voorletters en functie.
-
-2. De bewaarder waarmerkt getuigschriften in papieren vorm als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99) door het getuigschrift te ondertekenen, onder vermelding van zijn naam, voorletters en functie.
-
-3. De bewaarder waarmerkt afschriften, uittreksels en getuigschriften in elektronische vorm door hieraan een afzonderlijk elektronisch bestand toe te voegen, waarin hij verklaart dat de gegevens overeenstemmen met de bij de Dienst berustende gegevens. Het bestand wordt voorzien van de elektronische handtekening van de bewaarder en bevat voorts de volgende gegevens:
-
-- a. de naam van het kantoor van de Dienst,
-
-- b. de datum van afgifte, en
-
-- c. de naam van de bewaarder die het document elektronisch heeft gewaarmerkt.
-
-### Hoofdstuk 6. Overige en slotbepalingen
-
-## Bijlage 2
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 1
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2a
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 2b
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 3
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4a
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 4b
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 5
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 6
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 6a
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 6b
-
-Ligt ter inzage bij alle Kadasterkantoren en is gepubliceerd op www.kadaster.nl/zakelijk.
-
-## Bijlage 6c
-
-Niet opgenomen.
-
-## Bijlage 6d. als bedoeld in [artikel 45, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=1&paragraaf=2a&artikel=45&z=2026-07-16&g=2026-07-16), van de Kadasterregeling 1994
-
-| **Lijst aanduiding publiekrechtelijke beperkingen** | **Lijst aanduiding publiekrechtelijke beperkingen** |
-| --- | --- |
-| **Publiekrechtelijke beperkingen ingevolge:** | **Korte aanduiding publiekrechtelijke beperking** |
-| [Belemmeringenwet Landsverdediging](https://wetten.overheid.nl/jci1.3:c:BWBR0002079) | Besluit op basis van Belemmeringenwet Landsverdediging |
-| [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) | Besluit op basis van Belemmeringenwet Privaatrecht |
-| [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357) | Kapverbod op basis van Boswet |
-| [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) | Beschermde leefomgeving Flora- en faunawet |
-| [Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406) | Gedoogplicht op basis van Grondwaterwet |
-| [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) | Verbod op basis van Luchtvaartwet |
-| [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) | Besluit op basis van Monumentenwet 1988 |
-| [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641) | Besluit op basis van Natuurbeschermingswet 1988 |
-| [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505) | Gedoogplicht Ontgrondingenwet |
-| Provinciale verordening inzake monumenten | Provinciaal monument |
-| [Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867) | Besluit of bevel op basis van Waterstaatswet 1900 |
-| [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386) | Besluit op basis van Wet agrarisch grondverkeer |
-| [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) | Kennisgeving, vordering, bevel of beschikking, Wet bodembescherming |
-
-## Bijlage 7
-
-Niet opgenomen.
-
-## Bijlage 8
-
-Niet opgenomen.
-
-## Bijlage 9
-
-Niet opgenomen.
-
-## Bijlage 10
-
-Niet opgenomen.
-
-## Bijlage 11
-
-Niet opgenomen.
-
-## Bijlage 12
-
-Niet opgenomen.
-
-## Bijlage 12a
-
-Niet opgenomen.
-
-## Bijlage 13
-
-Niet opgenomen.
-
-## Bijlage 13a
-
-Niet opgenomen.
-
-## Bijlage 14
-
-Niet opgenomen.
-
-## Bijlage 14a
-
-Niet opgenomen.
-
-## Bijlage 14b
-
-Niet opgenomen.
-
-## Bijlage 15
-
-Niet opgenomen.
-
-## Bijlage 16
-
-Vervallen
-
-## Bijlage 17
-
-Niet opgenomen.
-
-## Bijlage 18
-
-Niet opgenomen.
-
-## Bijlage 19
-
-Ligt ter inzage op elk van de kantoren van de directies van de Dienst voor het kadaster en de openbare registers in de regio’s.
-
-## Bijlage 20. als bedoeld in artikel 111, tweede lid
-
-Vervallen
-
-## Bijlage 21. als bedoeld in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=112&z=2026-07-16&g=2026-07-16)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te ......
-
-Aan .......
-
-Datum:
-
-**Beslissing op het verzoek**
-
-Naar aanleiding van uw verzoek van ...... om een onderzoek in te stellen naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29)([35) van boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), deel ik u mede dat ik uw verzoek heb afgewezen. Een afschrift van deze beslissing treft u hierbij aan.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-## Bijlage 22. als bedoeld in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=113&z=2026-07-16&g=2026-07-16)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Mededeling inzake niet-bijhouding van de kadastrale registratie en de kadastrale kaarten**
-
-Onder verwijzing naar het op ....... gehouden onderzoek ter plaatse naar het zich voorgedaan hebben van een feit als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=29)([35) van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=35), deel ik u mede dat het onderzoek geen aanleiding heeft gegeven tot bijhouding.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-#### Paragraaf 2a. Wijze van bijwerking van de basisregistratie kadaster omtrent publiekrechtelijke beperkingen
-
-##### Artikel 45
-
-1. Na inschrijving van een beperkingenbesluit als bedoeld in [artikel 3, eerste lid van de Wkpb](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=3), vindt bijhouding van de basisregistratie kadaster plaats op basis van de essentialia, genoemd in [artikel 3, eerste lid, van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3).
-
-2. Het bestuursorgaan levert de essentialia, bedoeld in het eerste lid, aan met toevoeging van de volgende verklaring: ‘Hierbij verklaar ik dat de essentialia van het besluit zoals hiervoor vermeld de volledige en juiste gegevens bevatten op grond waarvan de basisregistratie kadaster kan worden bijgewerkt en dat dit stuk met de daaraan toegevoegde bijlage(n) een volledige en juiste weergave is van het stuk waarvan het een afschrift is.’.
-
-##### Artikel 45b
-
-1. Ingeval de kadastrale aanduiding van de in [artikel 15, eerste lid, van de Wkpb](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15) bedoelde onroerende zaken wordt gewijzigd en met betrekking tot de daarop rustende beperkingen de handmatig ingetekende geometrie in elektronische vorm is ingeschreven, vindt bijhouding van de basisregistratie kadaster plaats met inachtneming van het tweede en derde lid.
-
-2. De Dienst stelt op basis van de handmatige ingetekende geometrie vast op welke van de nieuw gevormde percelen de publiekrechtelijke beperking geheel of gedeeltelijk rust. De handhaving van de vermelding van een publiekrechtelijke beperking, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=10), geschiedt door bij de actuele gegevens van de nieuw gevormde percelen waarop de publiekrechtelijke beperking geheel of gedeeltelijk rust, de korte aanduiding die bij de vervallen percelen was vermeld, over te nemen, zo mogelijk onder verwijzing naar het stukidentificatienummer van inschrijving van het stuk op grond waarvan de desbetreffende aanduiding werd gesteld.
-
-3. Het tweede lid is van overeenkomstige toepassing in geval van
-
-- a. splitsing in appartementsrechten als bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106) en [107 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=107);
-
-- b. ondersplitsing in appartementsrechten als bedoeld in [artikel 106, derde lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106);
-
-- c. wijziging van de onder a en b bedoelde splitsingen, en
-
-- d. de opheffing van de onder a en b bedoelde splitsingen.
-
-##### Artikel 45c
-
-1. Het verantwoordelijke bestuursorgaan kan via de daarvoor bestemde internetapplicatie van de Dienst, ambtshalve een object aanwijzen als bedoeld in [artikel 7, van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=7).
-
-2. Wanneer een object, waarop een beperking rust, niet langer actueel is, mag het bestuursorgaan dit niet ambtshalve vervangen door een ander object als daardoor het werkingsgebied van de beperking groter wordt dan in het oorspronkelijke besluit was bedoeld. In dat geval dient de wijziging via een inschrijving in de openbare registers te worden aangeboden.
-
-##### Artikel 45d
-
-Vervallen
-
-##### Artikel 45e
-
-Vervallen
-
-##### Artikel 45f
-
-Vervallen
-
-##### Artikel 45g
-
-Vervallen
-
-##### Artikel 45h
-
-Vervallen
-
-##### Artikel 45i
-
-Vervallen
-
-#### Paragraaf 3. Wijze van bijwerking van de basisregistratie kadaster in bijzondere gevallen
-
-#### Paragraaf 4. Wijze van bijwerking omtrent appartementsrechten
-
-#### Paragraaf 5. Wijze van bijwerking omtrent netwerken
-
-#### Paragraaf 6. Wijze van bijwerking van gegevens als bedoeld in [artikel 48, tweede lid, onder i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48)
-
-#### Paragraaf 7. Wijze van bijwerking van de kadastrale kaarten: perceelsvorming
-
-#### Paragraaf 8. Berekening van de grootte van de percelen
-
-#### Paragraaf 2. Bijhouding op grond van inlichtingen omtrent het overlijden van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de basisregistratie kadaster staan vermeld
-
-#### Paragraaf 2. Bijhouding op grond van inlichtingen omtrent het overlijden van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de basisregistratie kadaster staan vermeld
-
-#### Paragraaf 6. Bijhouidng met betrekking tot voorlopige aantekeningen en doorhalingen daarvan
-
-#### Paragraaf 6. Bijhouidng met betrekking tot voorlopige aantekeningen en doorhalingen daarvan
-
-### Afdeling 5. Vorm van mededelingen, kennisgevingen, relazen van bevindingen, voorstellen van vernieuwing en te geven beslissingen op bezwaarschriften
-
-## Titel 2. Bijhouding van het net van coördinaatpunten
-
-### Hoofdstuk 5. Verstrekking van inlichtingen
-
-### Afdeling 1. Afschriften
-
-## Titel 2. Verstrekking van inlichtingen uit de basisregistratie kadaster, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
-
-##### Artikel 136a
-
-Vervallen
-
-### Afdeling 4. Inlichtingen uit bescheiden die ten grondslag liggen aan door de Dienst gehouden kaarten
-
-### Afdeling 5. Inlichtingen omtrent het net van coördinaatpunten
-
-### Afdeling 5. Inlichtingen omtrent het net van coördinaatpunten
-
-### Hoofdstuk 6. Overige en slotbepalingen
-
-## Bijlage 23. als bedoeld in [artikel 114, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=114&z=2026-07-16&g=2026-07-16)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Afwijzing verzoek**
-
-Naar aanleiding van uw verzoek van ....... tot splitsing/samenvoeging van het perceel/de percelen kadastraal bekend gemeente ...... sectie ...... nr(s) ....... deel ik u mede dat ik uw verzoek heb afgewezen. Een afschrift van deze beslissing treft u hierbij aan.
-
-Indien u het met deze beslissing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van verzending van deze brief.
-
-De directeur.
-
-## Bijlage 24. als bedoeld in [artikel 114, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=4&titeldeel=1&afdeling=5&artikel=114&z=2026-07-16&g=2026-07-16)
-
-Kantoor van de Dienst voor het kadaster en de openbare registers te .......
-
-Aan: ......
-
-Datum:
-
-**Bekendmaking van voorstellen van vernieuwing**
-
-Hierbij deel ik u mede dat het door het Kadster uitgevoerde onderzoek van vernieuwing heeft geleid tot vernieuwing van de kadastrale registratie en kaarten
-
-Bijgaand doe ik u toekomen het voorstel/de voorstellen van vernieuwing betreffende het perceel/de percelen waarbij u belanghebbende bent. Dit voorstel/Deze voorstellen ligt/liggen voorts ook voor een ieder ter inzage op mijn kantoor (kamer ...), en wel tot en met ...
-
-In het voorstel/de voorstellen zijn onder meer vermeld de gegevens omtrent de rechten, de rechthebbenden, de grootte en de kadstrale aanduiding betreffende het perceel/de percelen.
-
-Indien u het met de inhoude van het voorstel/de voorstellen van vernieuwing niet eens bent, kunt u op grond van [artikel 56b, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56b) bij mij een gemotiveerd bezwaarschrift indienen. Dit moet u doen binnen zes weken na de dag van de verzending van deze brief.
-
-De directeur.
-
-## Bijlage 25
-
-Niet opgenomen.
-
-## Bijlage 26
-
-Niet opgenomen.
-
-## Bijlage 27
-
-Niet opgenomen.
-
-## Bijlage 28
-
-Niet opgenomen.
-
-## Bijlage 29
-
-Niet opgenomen.
-
-## Bijlage 30
-
-Niet opgenomen.
-
-## Bijlage 31
-
-Niet opgenomen.
-
-## Bijlage 32
-
-Niet opgenomen.
-
-## Bijlage 32a
-
-Niet opgenomen.
-
-##### Artikel 11ba
-
-1. Bij gebruikmaking van het aanbiedportaal, worden het in te schrijven stuk met eventuele bijlage(n) en bewijsstuk(ken) samengevoegd in één verzoek tot inschrijving dat tevens metagegevens, essentialia uit het stuk of indien van toepassing het KIK-bestand en een eventuele verwijzing naar eerder in depot genomen depotstuk(ken) bevat.
-
-2. Het verzoek en het in het verzoek tot inschrijving aanwezige stuk, eventuele bijlage(n) of bewijsstuk(ken) of indien van toepassing het KIK-bestand zijn elk afzonderlijk voorzien van een valide zichtbare elektronische handtekening van de ondertekenaar.
-
-3. Een verzoek tot inschrijving, bedoeld in het eerste lid, kan tezamen met andere verzoeken in één pakket worden aangeboden, als genoemd in de technische handleiding.
-
-4. Als de ondertekenaar tot een van de erkende beroepen behoort, wordt de valide elektronische handtekening gerealiseerd door een gekwalificeerd persoonsgebonden beroepscertificaat. In andere gevallen wordt de valide elektronische handtekening met een persoonsgebonden certificaat gerealiseerd.
-
-5. Na ontvangst en acceptatie wordt, in de elektronisch vorm gehouden gedeelten van de openbare registers, ingeschreven het stuk met eventuele bijlage(n), bewijsstuk(ken) uit het verzoek tot inschrijving, en eventueel depotstuk(ken) waarnaar in het verzoek tot inschrijving is verwezen.
-
-Het in de eerste zin bedoelde stuk wordt voorzien van een verklaring van inschrijving, dat is ondertekend door de bewaarder met een zichtbaar elektronisch zegel, bedoeld in [artikel 7e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=7e).
-
-## Titel 2b. Aanbieden van stukken in papieren vorm
-
-## Titel 2c. Aanbieden van stukken in elektronische vorm
-
-##### Artikel 11sa
-
-1. Indien bij de controle, bedoeld in [artikel 11r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11r&z=2026-07-16&g=2026-07-16), blijkt dat een gekwalificeerd certificaat niet meer geldig is, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
-
-2. Indien het verzoek tot inschrijving via het aanbiedportaal wordt aangeboden, wordt eveneens de bevoegdheid gecontroleerd van degene die het stuk heeft ondertekend en van degene die de verklaring, bedoeld in [artikel 11b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b), heeft gesteld. Indien een van deze onbevoegd is door bijvoorbeeld schorsing of ontzetting uit zijn ambt, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
-
-3. Indien het verzoek tot inschrijving via het aanbiedportaal wordt aangeboden in een vacant protocol dan wordt gecontroleerd of het een ambtshalve benoemde waarneming betreft, bedoeld in [artikel 28, onderdelen c, d, e of f van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=28). Indien dat niet het geval is, ontvangt de aanbieder terstond een mededeling, bedoeld in [artikel 11m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2&titeldeel=2c&artikel=11m&z=2026-07-16&g=2026-07-16).
-
-## Titel 3. Rangschikking en wijze van opberging van de afschriften van ter inschrijving van aangeboden stukken in papieren vorm
-
-## Titel 4. Voorlopige aantekeningen
-
-## Titel 5. Bewijs van ontvangst en overige bepalingen
-
-### Hoofdstuk 3. Basisregistratie kadaster, kaartenbestand, daaraan ten grondslag liggende bescheiden en net van coördinaatpunten
-
-## Titel 1. Wijze waarop de basisregistratie kadaster wordt gehouden
-
-## Titel 2. Kaartenbestand
-
-### Afdeling 2. Inrichting van de kadastrale kaarten
-
-## Titel 3. Vorm van de aan de kadastrale kaarten ten grondslag liggende bescheiden
-
-## Titel 4. Registratie en weergave van de coördinaatpunten
-
-### Hoofdstuk 4. Bijwerking van de basisregistratie kadaster, het kaartenbestand en het net van coördinaatpunten
-
-## Titel 1. Bijwerking van de basisregistratie kadaster en de kadastrale kaarten
-
-### Afdeling 1. Wijze van bijwerking van de basisregistratie kadaster en de kadastrale kaarten
-
-#### Paragraaf 1. Aantekening betreffende de inschrijving van een stuk: verwijzing naar het stuk op grond waarvan de bijwerking heeft plaatsgevonden
-
-#### Paragraaf 2. Wijziging of aanvulling van de in de basisregistratie kadaster vermelde gegevens
-
-#### Paragraaf 3. Wijze van bijwerking van de basisregistratie kadaster in bijzondere gevallen
-
-##### Artikel 46
-
-1. Indien een inschrijving in de openbare registers een overdracht betreft van een registergoed voor een bepaalde tijd, wordt de verkrijger in de basisregistratie kadaster vermeld als vruchtgebruiker en de vervreemder als eigenaar, gedurende de in het ingeschreven stuk gestelde tijd.
-
-2. Indien een inschrijving in de openbare registers een overdracht betreft van een registergoed onder opschortende tijdsbepaling, wordt de verkrijger in de basisregistratie kadaster vermeld als eigenaar en de vervreemder als vruchtgebruiker, gedurende de in het ingeschreven stuk gestelde tijd.
-
-##### Artikel 47
-
-1. Indien een inschrijving in de openbare registers een overdracht betreft onder een opschortende voorwaarde, wordt het perceel eerst op naam van de verkrijger gesteld wanneer de vervulling van die voorwaarde is ingeschreven.
-
-2. Zolang de vervulling van de voorwaarde niet is ingeschreven, wordt bij het perceel aangetekend: ‘onder opschortende voorwaarde geleverd aan ...’, onder invulling van de persoonsgegevens van de verkrijger.
-
-3. Indien wordt geleverd aan een rechtspersoon in oprichting, wordt bij het perceel aangetekend: ‘Overgedragen aan ... in oprichting’, onder invulling van de gegevens van die rechtspersoon in oprichting.
-
-#### Paragraaf 6. Wijze van bijwerking van gegevens als bedoeld in [artikel 48, tweede lid, onder i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48)
-
-#### Paragraaf 8. Berekening van de grootte van de percelen
-
-### Afdeling 2. Bijhouding
-
-#### Paragraaf 1. Bijhouding op grond van ingeschreven stukken, waarbij een meting noodzakelijk is
-
-#### Paragraaf 5. Bijhouding op grond van inlichtingen of waarnemingen omtrent de feitelijke gesteld heid van onroerende zaken
-
-#### Paragraaf 7. Bijhouding inzake splitsing of samenvoeging van percelen, ambtshalve of op verzoek
-
-### Afdeling 3. Vernieuwing
-
-### Afdeling 5. Vorm van mededelingen, kennisgevingen, relazen van bevindingen, voorstellen van vernieuwing en te geven beslissingen op bezwaarschriften
-
-## Titel 2. Bijhouding van het net van coördinaatpunten
-
-### Hoofdstuk 5. Verstrekking van inlichtingen
-
-## Titel 1. Verstrekking van inlichitngen uit de openbare registers voor onroerende zaken
-
-### Afdeling 2. Getuigschriften
-
-## Titel 2. Verstrekking van inlichtingen uit de basisregistratie kadaster, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
-
-### Afdeling 1. Uittreksels uit de basisregistratie kadaster
-
-### Afdeling 3. Wijze van raadpleging van de basisregistratie kadaster en de door de Dienst gehouden kaarten
-
-### Afdeling 4. Inlichtingen uit bescheiden die ten grondslag liggen aan door de Dienst gehouden kaarten
-
-### Afdeling 6. Overige bepalingen
-
-### Hoofdstuk 6. Overige en slotbepalingen
-
-## Bijlage 33
-
-Niet opgenomen.
-
-## Bijlage 34
-
-Niet opgenomen.

@@ -1,43 +1,17 @@
 ---
 title: "Regeling teboekgestelde luchtvaartuigen 2005"
 identifier: "BWBR0027604"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-11-24"
-last_updated: "2006-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027604"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "10516623"
-version_id: "17326062"
-internal_id: "C23909771"
-label_id: "10491854"
-dtd_version: "2.0"
-original_entry_into_force: "2005-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027604/2006-11-24/0"
-intitule_bron: "Stcrt.2004-238"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-26"
-intitule_published: "2004-12-09"
-intitule_in_force: "2004-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-238"
-original_signed_date: "2004-11-26"
-original_published_date: "2004-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-238-p22-SC67812"
-entry_into_force_date: "2005-01-01"
-jci_1_3: "jci1.3:c:BWBR0027604&z=2006-11-24&g=2006-11-24"
-jci_1_0: "1.0:c:BWBR0027604&g=2006-11-24"
-citeertitel_status: "officieel"
-signed_date: "2004-11-26"
-entry_into_force: "2005-01-01"
+publicatiedatum: 2005-01-01
+laatste_update: 2006-11-24
+status: geldig
+toestand: 2006-11-24
+bron: "https://wetten.overheid.nl/BWBR0027604"
+opgehaald: 2026-08-15
 ---
+
 # Regeling teboekgestelde luchtvaartuigen 2005
-
-Gelet op de [artikelen 8, tweede, lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=12), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=14), [15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=17), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=44), [92, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), juncto [artikel 85, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), [94, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=94), juncto [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=72), [98, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=98), [99, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99), [107, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), juncto [artikel 102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), [107, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=107), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=115) en [116 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=116), de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=30), [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=34), en [38 van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=38), alsmede op de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&artikel=12), en [15 van de Maatregel teboekgestelde luchtvaartuigen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008233&artikel=15);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -79,7 +53,7 @@ Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens 
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Wijze waarop de registratie voor luchtvaartuigen wordt gehouden en bijgehouden
 
@@ -124,6 +98,10 @@ In geval van teboekstelling van een luchtvaartuig dat reeds in een register heef
 3. De bewaarder waarmerkt getuigschriften in papieren vorm door hierop zijn naam, voorletters en functie te vermelden en het getuigschrift te ondertekenen.
 
 4. De bewaarder waarmerkt afschriften, uittreksels en getuigschriften in elektronische vorm door hieraan een afzonderlijk bestand toe te voegen, waarin zijn opgenomen zijn naam, de naam van het kantoor van de Dienst, de datum van afgifte en de verklaring dat de gegevens overeenstemmen met de bij de Dienst berustende gegevens.
+
+##### Artikel 9a
+
+De raadpleging van de kadastrale registratie voor luchtvaartuigen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
 
 ##### Artikel 10
 
@@ -184,29 +162,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2005.
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling teboekgestelde luchtvaartuigen 2005.
-
-## Bijlage 1
-
-Niet opgenomen.
-
-## Bijlage 1
-
-Niet opgenomen.
-
-## Bijlage 2
-
-Niet opgenomen.
-
-Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027604&bijlage=1&z=2005-01-01&g=2005-01-01).
-
-##### Artikel 9a
-
-De raadpleging van de kadastrale registratie voor luchtvaartuigen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
-
-### Hoofdstuk 5. Overige en slotbepalingen
-
-## Bijlage 3
-
-Niet opgenomen.
-
-Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0027604&bijlage=1&z=2006-11-24&g=2006-11-24).

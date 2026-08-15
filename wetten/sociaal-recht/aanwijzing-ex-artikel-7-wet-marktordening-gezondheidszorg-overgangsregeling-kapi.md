@@ -1,58 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2010, nr. CZ-U-3001512, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen"
+citeertitel: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overgangsregeling kapitaallasten algemene en academische ziekenhuizen)"
 identifier: "BWBR0027853"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-02"
-last_updated: "2010-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027853"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10597283"
-version_id: "17501342"
-internal_id: "C24205141"
-label_id: "10572214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027853/2010-07-02/0"
-intitule_bron: "Stcrt.2010-10255"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-22"
-intitule_published: "2010-07-02"
-intitule_in_force: "2010-07-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-10255"
-original_signed_date: "2010-06-22"
-original_published_date: "2010-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-10255"
-entry_into_force_date: "2010-07-02"
-jci_1_3: "jci1.3:c:BWBR0027853&z=2010-07-02&g=2010-07-02"
-jci_1_0: "1.0:c:BWBR0027853&g=2010-07-02"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overgangsregeling kapitaallasten algemene en academische ziekenhuizen)"
-signed_date: "2010-06-22"
-entry_into_force: "2010-07-02"
+publicatiedatum: 2010-07-02
+laatste_update: 2010-07-02
+status: geldig
+toestand: 2010-07-02
+bron: "https://wetten.overheid.nl/BWBR0027853"
+opgehaald: 2026-08-15
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 juni 2010, nr. CZ-U-3001512, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 19 januari 2010 schriftelijk mededeling te hebben gedaan aan de Eerste Kamer der Staten-Generaal, aangevuld bij brief van 1 april 2010 (Kamerstukken II 2009/10, 29 248, nr. 109, respectievelijk Kamerstukken I 2009/10, 29 248, F);
-
-Gezien het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport/Jeugd en Gezin van de Eerste Kamer der Staten-Generaal van 13 april 2010 inzake de voorhang overgangsregeling kapitaallasten (Kamerstukken I 2009/10, 29 248, G);
-
-Gelet op de korte aantekening van de vaste commissie voor Volksgezondheid, Welzijn en Sport/Jeugd en Gezin van de Eerste Kamer der Staten-Generaal van 18 mei 2010 inzake de voorhang overgangsregeling kapitaallasten;
-
-En
-
-Na 19 januari 2010 schriftelijk mededeling te hebben gedaan aan Tweede Kamer der Staten-Generaal, aangevuld bij brieven van 16 maart 2010 en 1 april 2010 (Kamerstukken II, 2009/10, 29 248, nrs. 109, 113 respectievelijk 114);
-
-Gezien het verslag van een algemeen overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal op 7 april 2010 inzake de voorhang overgangsregeling kapitaallasten (Kamerstukken II 2009/10, 29 248, 119);
-
-Gelet op de besluitenlijsten van procedurevergaderingen van 8 en 21 april 2010 van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal;
-
-Besluit:
 
 ##### Artikel 1
 

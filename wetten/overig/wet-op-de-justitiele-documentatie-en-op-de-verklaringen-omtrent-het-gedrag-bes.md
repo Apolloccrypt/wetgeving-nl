@@ -1,41 +1,19 @@
 ---
 title: "Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES"
 identifier: "BWBR0028258"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-12-15"
-last_updated: "2010-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028258"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10725263"
-version_id: "17695692"
-internal_id: "C24751241"
-label_id: "10700314"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028258/2010-12-15/0"
-intitule_bron: "Stb.2010-514"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-514"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-514"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028258&z=2010-12-15&g=2010-12-15"
-jci_1_0: "1.0:c:BWBR0028258&g=2010-12-15"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-12-15
+status: geldig
+toestand: 2010-12-15
+bron: "https://wetten.overheid.nl/BWBR0028258"
+opgehaald: 2026-08-15
 ---
+
 # Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES
 
-## Titel I. De justitiële documentatie
+### Titel I. De justitiële documentatie
 
 #### § 1. Het registreren van gegevens
 
@@ -57,9 +35,9 @@ entry_into_force: "2010-10-10"
 
 - a. strafbladen van de tegen natuurlijke personen gewezen onherroepelijke veroordelingen, waarbij, al dan niet tezamen met maatregelen, een of meer straffen zijn opgelegd, door rechters in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gewezen:
 
-- 1°. wegens misdrijven;
+   - 1°. wegens misdrijven;
 
-- 2°. wegens overtredingen, indien daarbij vrijheidsstraf – anders dan vervangende – is opgelegd, alsmede wegens overtreding van [artikel 474 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=474);
+   - 2°. wegens overtredingen, indien daarbij vrijheidsstraf – anders dan vervangende – is opgelegd, alsmede wegens overtreding van [artikel 474 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=474);
 
 - b. uittreksels van onherroepelijk geworden veroordelingen door andere dan rechters in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gewezen, voorzover Onze Minister van Justitie daartoe een voorschrift heeft gegeven. Deze uittreksels worden voor de toepassing van deze wet met strafbladen gelijkgesteld.
 
@@ -217,7 +195,7 @@ Een strafkaart wordt vernietigd:
 
 2. De afgifte van deze uittreksels geschiedt door of namens de procureur-generaal.
 
-## Titel Ia. Rechten van de betrokkene op kennisneming en verbetering
+### Titel Ia. Rechten van de betrokkene op kennisneming en verbetering
 
 ##### Artikel 14a
 
@@ -277,7 +255,7 @@ Een schriftelijke beslissing op een verzoek als bedoeld in de [artikelen 14a](ht
 
 2. De vergoeding wordt teruggegeven ingeval Onze Minister op verzoek van de betrokkene, of op bevel van de rechter tot verbetering, aanvulling, verwijdering of afscherming is overgegaan of wanneer het verzoek moet worden geweigerd op grond van [artikel 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=Ia&artikel=14d&z=2010-12-15&g=2010-12-15).
 
-## Titel II. Verklaringen omtrent het gedrag
+### Titel II. Verklaringen omtrent het gedrag
 
 #### § 1. Algemeen
 
@@ -427,7 +405,7 @@ Van de verlenging wordt mededeling gedaan aan de betrokkene.
 
 Wordt het klaagschrift gegrond verklaard, dan geeft de gezaghebber binnen drie dagen na ontvangst van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028258&titeldeel=II&paragraaf=4&artikel=28&z=2010-12-15&g=2010-12-15) bedoelde brief de verklaring omtrent het gedrag af.
 
-## Titel III. Overgangs- en slotbepalingen
+### Titel III. Overgangs- en slotbepalingen
 
 ##### Artikel 30
 

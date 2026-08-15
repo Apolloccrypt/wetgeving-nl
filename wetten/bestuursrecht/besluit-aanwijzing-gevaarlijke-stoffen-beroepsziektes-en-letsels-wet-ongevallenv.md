@@ -1,38 +1,16 @@
 ---
 title: "Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES"
 identifier: "BWBR0028546"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028546"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10843273"
-version_id: "17920472"
-internal_id: "C25425891"
-label_id: "10817844"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028546/2020-01-01/0"
-intitule_bron: "Stb.2010-607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-366"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-366"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0028546&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028546&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028546"
+opgehaald: 2026-08-15
 ---
+
 # Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES
 
 ##### Artikel 1. Bepaling van gevaarlijke stoffen
@@ -62,31 +40,31 @@ entry_into_force: "2011-01-01"
 
 - a. aandoeningen als gevolg van: indien deze aandoeningen zich openbaren bij werknemers, die werkzaamheden verrichten, waarbij met de hierboven genoemde stoffen wordt omgegaan;
 
-- 1°. lood of loodhoudende stoffen,
+   - 1°. lood of loodhoudende stoffen,
 
-- 2°. kwik of kwikhoudende stoffen,
+   - 2°. kwik of kwikhoudende stoffen,
 
-- 3°. fosfor of zijn verbindingen,
+   - 3°. fosfor of zijn verbindingen,
 
-- 4°. arsenicum of zijn verbindingen,
+   - 4°. arsenicum of zijn verbindingen,
 
-- 5°. benzol of zijn homologen,
+   - 5°. benzol of zijn homologen,
 
-- 6°. nitro- en amidoverbindingen van benzol of zijn homologen,
+   - 6°. nitro- en amidoverbindingen van benzol of zijn homologen,
 
-- 7°. halogeenderivaten van koolwaterstoffen,
+   - 7°. halogeenderivaten van koolwaterstoffen,
 
-- 8°. chroomverbindingen,
+   - 8°. chroomverbindingen,
 
-- 9°. mangaanverbindingen,
+   - 9°. mangaanverbindingen,
 
-- 10°. nicotine of nicotinehoudende stoffen,
+   - 10°. nicotine of nicotinehoudende stoffen,
 
-- 11°. cement,
+   - 11°. cement,
 
-- 12°. kunstmeststoffen en middelen tot bestrijding van de verwekkers van plantenziekten, van onkruiden en van schadelijk gedierte, of
+   - 12°. kunstmeststoffen en middelen tot bestrijding van de verwekkers van plantenziekten, van onkruiden en van schadelijk gedierte, of
 
-- 13°. kininestof,
+   - 13°. kininestof,
 
 - b. huidaandoeningen door teer, bitumen, roet, pek, mineraaloliën, paraffine of door verbindingen, producten of overblijfsels van die stoffen, indien deze zich openbaren bij werknemers, die werkzaamheden verrichten, waarbij met genoemde stoffen of met verbindingen, producten of overblijfsels van die stoffen wordt omgegaan;
 
@@ -104,19 +82,19 @@ entry_into_force: "2011-01-01"
 
 - i. tuberculose, indien deze zich openbaart bij werknemers, die werkzaamheden verrichten, verbonden aan:
 
-- 1°. wijkverpleging,
+   - 1°. wijkverpleging,
 
-- 2°. het houden en exploiteren van ziekenhuizen,
+   - 2°. het houden en exploiteren van ziekenhuizen,
 
-- 3°. nazorg inrichtingen,
+   - 3°. nazorg inrichtingen,
 
-- 4°. klinieken en poliklinieken,
+   - 4°. klinieken en poliklinieken,
 
-- 5°. medische consultatie- en keuringsbureaus,
+   - 5°. medische consultatie- en keuringsbureaus,
 
-- 6°. verpleeginrichtingen, of
+   - 6°. verpleeginrichtingen, of
 
-- 7°. bacteriologische laboratoria; en
+   - 7°. bacteriologische laboratoria; en
 
 - j. caissonziekte, indien deze zich openbaart bij werknemers na het verrichten van werkzaamheden onder grotere dan de atmosferische luchtdruk.
 
@@ -130,7 +108,7 @@ entry_into_force: "2011-01-01"
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. Lichamelijke letsels, die aangemerkt worden als ongeval
 

@@ -1,60 +1,40 @@
 ---
 title: "Koninklijk besluit van 16 juni 1954 houdende overlevering inzake oorlogsmisdrijven Nederlandse Antillen"
+citeertitel: "Besluit overlevering inzake oorlogsmisdrijven Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0027536"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027536"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10505103"
-version_id: "17633402"
-internal_id: "C24395851"
-label_id: "10480144"
-dtd_version: "2.0"
-original_entry_into_force: "2010-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027536/2010-10-10/0"
-intitule_bron: "PvdA.1955-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1954-06-16"
-intitule_published: "1955-01-20"
-intitule_in_force: "1955-01-20"
-intitule_status: "goed"
-original_publication: "Stb.2010-343"
-original_signed_date: "2010-08-20"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-343"
-entry_into_force_date: "2010-08-20"
-jci_1_3: "jci1.3:c:BWBR0027536&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0027536&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit overlevering inzake oorlogsmisdrijven Aruba, Curaçao en Sint Maarten"
-signed_date: "2010-08-20"
-entry_into_force: "2010-08-20"
+publicatiedatum: 2010-08-20
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0027536"
+opgehaald: 2026-08-15
 ---
+
 # Koninklijk besluit van 16 juni 1954 houdende overlevering inzake oorlogsmisdrijven Nederlandse Antillen
-
-Gelet op:
-
-Artikel 48, derde lid, Samenwerkingsregeling Nederlandse Antillen en Aruba
-
-[Artikel 8, Wet overlevering inzake oorlogsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=8) (Stb. 1954, 215)
-
-[Nederlands-Antilliaans Uitleveringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027429)
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder
 
-- a. **Gouverneur:** Gouverneur van het land waar de opgeëiste persoon wordt of is aangetroffen;
+- a. *Gouverneur:* Gouverneur van het land waar de opgeëiste persoon wordt of is aangetroffen;
 
-- b. **het Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- b. *het Hof van Justitie:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- c. **openbaar ministerie:** het openbaar ministerie van het land waar de opgeëiste persoon wordt of is aangetroffen.
+- c. *openbaar ministerie:* het openbaar ministerie van het land waar de opgeëiste persoon wordt of is aangetroffen.
+
+##### Artikel 1a
+
+Onverminderd het bepaalde in met andere mogendheden gesloten verdragen ten aanzien van de uitlevering van vreemdelingen kunnen vreemdelingen aan een andere mogendheid ter berechting worden overgeleverd terzake van een der in Aruba, Curaçao of Sint Maarten strafbaar gestelde misdrijven van schending van de wetten en gebruiken van de oorlog dan wel van het opzettelijk toelaten dat een ondergeschikte zodanig feit pleegt, indien het feit een ernstige schending oplevert van een der navolgende verdragen van Genève van 12 augustus 1949:
+
+- a. verdrag voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
+
+- b. verdrag voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
+
+- c. verdrag betreffende de behandeling van krijgsgevangenen;
+
+- d. verdrag betreffende de bescherming van burgers in oorlogstijd, dan wel van het Aanvullend Protocol bij die Verdragen betreffende bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977.
 
 ##### Artikel 2
 
@@ -97,15 +77,3 @@ De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027429&artikel=2), [4]
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit overlevering inzake oorlogsmisdrijven Aruba, Curaçao en Sint Maarten.
-
-##### Artikel 1a
-
-Onverminderd het bepaalde in met andere mogendheden gesloten verdragen ten aanzien van de uitlevering van vreemdelingen kunnen vreemdelingen aan een andere mogendheid ter berechting worden overgeleverd terzake van een der in Aruba, Curaçao of Sint Maarten strafbaar gestelde misdrijven van schending van de wetten en gebruiken van de oorlog dan wel van het opzettelijk toelaten dat een ondergeschikte zodanig feit pleegt, indien het feit een ernstige schending oplevert van een der navolgende verdragen van Genève van 12 augustus 1949:
-
-- a. verdrag voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
-
-- b. verdrag voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
-
-- c. verdrag betreffende de behandeling van krijgsgevangenen;
-
-- d. verdrag betreffende de bescherming van burgers in oorlogstijd, dan wel van het Aanvullend Protocol bij die Verdragen betreffende bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977.

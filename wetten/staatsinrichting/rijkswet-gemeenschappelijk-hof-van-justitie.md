@@ -1,49 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010, houdende regeling van taken en bevoegdheden van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Gemeenschappelijk Hof van Justitie)"
+citeertitel: "Rijkswet Gemeenschappelijk Hof van Justitie"
 identifier: "BWBR0028070"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028070"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10644493"
-version_id: "17585472"
-internal_id: "C24664151"
-label_id: "10620034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028070/2010-10-10/0"
-intitule_bron: "Stb.2010-335"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-335"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32017"
-original_url_id: "stb-2010-335"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028070&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028070&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet Gemeenschappelijk Hof van Justitie"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028070"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010, houdende regeling van taken en bevoegdheden van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Gemeenschappelijk Hof van Justitie)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van de landen van het Koninkrijk en de bestuurscolleges van Curaçao en Sint Maarten binnen het Koninkrijk willen samenwerken door inrichting van één rechterlijke organisatie voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba, dat zij deze samenwerking onderling willen regelen in een rijkswet op grond van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en dat de regeringen van de landen van het Koninkrijk en de bestuurscolleges van Curaçao en Sint Maarten instemmen met de inhoud van deze regeling;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,29 +20,29 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **algemene maatregel van rijksbestuur:** algemene maatregel van rijksbestuur in de zin van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
+- a. *algemene maatregel van rijksbestuur:* algemene maatregel van rijksbestuur in de zin van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
 
-- b. **bestuur van het Hof:** bestuur als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=4&artikel=40&z=2010-10-10&g=2010-10-10);
+- b. *bestuur van het Hof:* bestuur als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=4&artikel=40&z=2010-10-10&g=2010-10-10);
 
-- c. **hofvergadering:** hofvergadering als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10);
+- c. *hofvergadering:* hofvergadering als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10);
 
-- d. **Beheerraad:** Beheerraad als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=5&artikel=50&z=2010-10-10&g=2010-10-10);
+- d. *Beheerraad:* Beheerraad als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=5&artikel=50&z=2010-10-10&g=2010-10-10);
 
-- e. **Hof :** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10);
+- e. *Hof :* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10);
 
-- f. **Gerechten in eerste aanleg:** Gerecht in eerste aanleg van Aruba, Gerecht in eerste aanleg van Curaçao, Gerecht in eerste aanleg van Sint Maarten of Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- f. *Gerechten in eerste aanleg:* Gerecht in eerste aanleg van Aruba, Gerecht in eerste aanleg van Curaçao, Gerecht in eerste aanleg van Sint Maarten of Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- g. **gerechtsambtenaren:** personen op basis van een aanstelling werkzaam bij het Hof, niet met rechtspraak belast en niet zijnde rechterlijke ambtenaar in opleiding, directeur bedrijfsvoering of buitengriffier;
+- g. *gerechtsambtenaren:* personen op basis van een aanstelling werkzaam bij het Hof, niet met rechtspraak belast en niet zijnde rechterlijke ambtenaar in opleiding, directeur bedrijfsvoering of buitengriffier;
 
-- h. **Hoge Raad:** Hoge Raad der Nederlanden;
+- h. *Hoge Raad:* Hoge Raad der Nederlanden;
 
-- i. **landen:** Aruba, Curaçao, Sint Maarten en Nederland, voor zover betrekking hebbende op Bonaire, Sint Eustatius en Saba;
+- i. *landen:* Aruba, Curaçao, Sint Maarten en Nederland, voor zover betrekking hebbende op Bonaire, Sint Eustatius en Saba;
 
-- j. **Onze Ministers:** Onze Minister van Justitie van Aruba, Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Justitie van Nederland;
+- j. *Onze Ministers:* Onze Minister van Justitie van Aruba, Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Justitie van Nederland;
 
-- k. **rechter:** lid of plaatsvervangend lid van het Hof of rechter-plaatsvervanger in eerste aanleg;
+- k. *rechter:* lid of plaatsvervangend lid van het Hof of rechter-plaatsvervanger in eerste aanleg;
 
-- l. **Statuut:** Statuut voor het Koninkrijk.
+- l. *Statuut:* Statuut voor het Koninkrijk.
 
 ##### Artikel 2
 
@@ -329,7 +298,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 ##### Artikel 28
 
-1. Een rechter legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
+1. Een rechter legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0028070) bij deze rijkswet.
 
 2. De eedsaflegging van de rechters geschiedt ten overstaan van de Gouverneur van Aruba, Curaçao of Sint Maarten of een door één van hen aangewezen ambtenaar.
 
@@ -389,13 +358,13 @@ Een rechter kan door de Hoge Raad worden ontslagen:
 
 - d. na eerder wegens gelijke overtreding te zijn gewaarschuwd, de bepalingen overtreedt waarbij hem:
 
-- 1°. een woonplaats wordt aangewezen;
+   - 1°. een woonplaats wordt aangewezen;
 
-- 2°. verboden wordt zich in enig onderhoud of gesprek in te laten met partijen of haar advocaten of gemachtigden, of enige bijzondere inlichting of schriftelijk stuk van hen aan te nemen;
+   - 2°. verboden wordt zich in enig onderhoud of gesprek in te laten met partijen of haar advocaten of gemachtigden, of enige bijzondere inlichting of schriftelijk stuk van hen aan te nemen;
 
-- 3°. de verplichting wordt opgelegd een geheim te bewaren;
+   - 3°. de verplichting wordt opgelegd een geheim te bewaren;
 
-- 4°. de verplichting wordt opgelegd zijn ontslag in te dienen op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10).
+   - 4°. de verplichting wordt opgelegd zijn ontslag in te dienen op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 33
 
@@ -724,29 +693,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 67
 
 Deze rijkswet wordt aangehaald als: Rijkswet Gemeenschappelijk Hof van Justitie.
-
-## Bijlage. bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=28&z=2010-10-10&g=2010-10-10)
-
-Ik zweer/ik beloof trouw aan de Koning en gehoorzaamheid aan de wettelijke regelingen
-
-Ik zweer/ik verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand, wie hij ook zij, iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/ik beloof dat ik nimmer enige giften of geschenken, hoe ook genaamd, zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij in enige rechtszaak is of zal worden betrokken, waarin mijn ambtsverrichtingen te pas zouden kunnen komen.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-Op ...... werd te .........
-
-ten overstaan van ..........
-
-de bovenstaande eed/belofte afgelegd.
-
-De .........
-
-- 1. ...........
-
-- 2. ..........
-
-De rechter is verplicht tot geheimhouding van gevoelens die in raadkamer zijn geuit. De rechter mag zich niet op enige wijze inlaten met partijen of hun advocaten of gemachtigden over enig voor hem aanhangig geschil of een geschil waarvan hij weet of vermoedt dat deze voor hem aanhangig wordt.
-
-Lasten en bevelen dat deze rijkswet in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

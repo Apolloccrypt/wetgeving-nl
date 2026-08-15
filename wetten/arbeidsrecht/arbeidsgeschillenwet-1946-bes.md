@@ -1,38 +1,16 @@
 ---
 title: "Arbeidsgeschillenwet 1946 BES"
 identifier: "BWBR0028178"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028178"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10689483"
-version_id: "17650912"
-internal_id: "C24832311"
-label_id: "10664374"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028178/2012-01-01/0"
-intitule_bron: "Stb.2010-596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-596"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-596"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028178&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0028178&g=2012-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0028178"
+opgehaald: 2026-08-15
 ---
+
 # Arbeidsgeschillenwet 1946 BES
 
 ### Hoofdstuk I. Inleidende bepalingen
@@ -47,13 +25,13 @@ entry_into_force: "2010-10-10"
 
 In deze wet wordt verstaat onder:
 
-- a. **geschil:** ieder geschil tusschen werknemers en een of meer werkgevers over arbeidsaangelegenheden;
+- a. *geschil:* ieder geschil tusschen werknemers en een of meer werkgevers over arbeidsaangelegenheden;
 
-- b. **rechtsgeschil:** ieder geschil, dat uitsluitend ter kennisneming van de rechterlijke macht staat;
+- b. *rechtsgeschil:* ieder geschil, dat uitsluitend ter kennisneming van de rechterlijke macht staat;
 
-- c. **werknemersraad:** een vertegenwoordiging, welke bij vrije en geheime stemming is gekozen uit en door de tot een of meer categorieën van werknemers behorende werknemers van eenzelfde bedrijf ter behartiging van hun arbeidsaangelegenheden, een en ander zoals nader omschreven in een door Onze Minister van Sociale Zaken en Werkgelegenheid goedgekeurd reglement, waarvan een gezamenlijk door of namens het bestuur van het betrokken bedrijf en door de betrokken vertegenwoordiging van werknemers in dat bedrijf gewaarmerkt exemplaar bij Onze Minister van Sociale Zaken en Werkgelegenheid is gedeponeerd;
+- c. *werknemersraad:* een vertegenwoordiging, welke bij vrije en geheime stemming is gekozen uit en door de tot een of meer categorieën van werknemers behorende werknemers van eenzelfde bedrijf ter behartiging van hun arbeidsaangelegenheden, een en ander zoals nader omschreven in een door Onze Minister van Sociale Zaken en Werkgelegenheid goedgekeurd reglement, waarvan een gezamenlijk door of namens het bestuur van het betrokken bedrijf en door de betrokken vertegenwoordiging van werknemers in dat bedrijf gewaarmerkt exemplaar bij Onze Minister van Sociale Zaken en Werkgelegenheid is gedeponeerd;
 
-- d. **de Rijksvertegenwoordiger:** de Rijksvertegenwoordiger, bedoeld in [Hoofdstuk V, afdeling 1, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&afdeling=I).
+- d. *de Rijksvertegenwoordiger:* de Rijksvertegenwoordiger, bedoeld in [Hoofdstuk V, afdeling 1, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&afdeling=I).
 
 ### Hoofdstuk II. Van geschillen
 

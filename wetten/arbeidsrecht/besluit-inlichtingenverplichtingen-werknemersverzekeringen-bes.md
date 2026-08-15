@@ -1,38 +1,16 @@
 ---
 title: "Besluit inlichtingenverplichtingen werknemersverzekeringen BES"
 identifier: "BWBR0028535"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028535"
+categorie: "Arbeidsrecht"
 soort: "AMvB-BES"
-stam_id: "10839953"
-version_id: "17819912"
-internal_id: "C24865671"
-label_id: "10814524"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028535/2022-01-01/0"
-intitule_bron: "Stb.2010-609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-609"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-609"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028535&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0028535&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0028535"
+opgehaald: 2026-08-15
 ---
+
 # Besluit inlichtingenverplichtingen werknemersverzekeringen BES
 
 ##### Artikel 1

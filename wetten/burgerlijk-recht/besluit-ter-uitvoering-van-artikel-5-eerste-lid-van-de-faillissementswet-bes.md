@@ -1,38 +1,16 @@
 ---
 title: "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES"
 identifier: "BWBR0028299"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028299"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10745933"
-version_id: "17719172"
-internal_id: "C24825651"
-label_id: "10720484"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028299/2010-10-10/0"
-intitule_bron: "Stb.2010-551"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-551"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-551"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028299&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028299&g=2010-10-10"
-citeertitel_status: "redactioneel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028299"
+opgehaald: 2026-08-15
 ---
+
 # Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES
 
 ##### artikel Enig

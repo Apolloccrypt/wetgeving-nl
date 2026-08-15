@@ -1,51 +1,29 @@
 ---
 title: "Wet op de weerkorpsen BES"
 identifier: "BWBR0028240"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-08-30"
-last_updated: "2011-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028240"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10719373"
-version_id: "17687082"
-internal_id: "C24746771"
-label_id: "10694014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028240/2011-08-30/0"
-intitule_bron: "Stb.2010-520"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-520"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-520"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028240&z=2011-08-30&g=2011-08-30"
-jci_1_0: "1.0:c:BWBR0028240&g=2011-08-30"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-08-30
+status: geldig
+toestand: 2011-08-30
+bron: "https://wetten.overheid.nl/BWBR0028240"
+opgehaald: 2026-08-15
 ---
+
 # Wet op de weerkorpsen BES
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **regionaal bevelhebber:** de door Onze Minister van Defensie van het Koninkrijk aangewezen commandant van de Zeemacht in het Carabisch gebied;
+- b. *regionaal bevelhebber:* de door Onze Minister van Defensie van het Koninkrijk aangewezen commandant van de Zeemacht in het Carabisch gebied;
 
-- c. **weerkorps:** iedere organisatie van particulieren, welke gericht is op of voorbereidt tot het in onderling verband verrichten van of deelnemen aan handelingen in bijstand of hulpverlening aan Onze Minister of de regionaal bevelhebber dan wel aan door hen aan te wijzen functionarissen;
+- c. *weerkorps:* iedere organisatie van particulieren, welke gericht is op of voorbereidt tot het in onderling verband verrichten van of deelnemen aan handelingen in bijstand of hulpverlening aan Onze Minister of de regionaal bevelhebber dan wel aan door hen aan te wijzen functionarissen;
 
-- d. **militaire bijstand:** de terbeschikking van de krijgsmacht ter handhaving van de openbare orde en rust, dan wel in het kader van hulpverlening bij rampen en crisis.
+- d. *militaire bijstand:* de terbeschikking van de krijgsmacht ter handhaving van de openbare orde en rust, dan wel in het kader van hulpverlening bij rampen en crisis.
 
 ##### Artikel 2
 
@@ -97,7 +75,7 @@ De kosten verbonden aan operationele inzet, daaronder begrepen de vergoeding, be
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 

@@ -1,40 +1,17 @@
 ---
 title: "Overheidspensioen, opbouw ter zake van diensten bewezen aan voormalige overzeese gebiedsdelen"
 identifier: "BWBR0028086"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1996-06-28"
-last_updated: "1996-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028086"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "10651003"
-version_id: "17595182"
-internal_id: "C24348701"
-label_id: "10625754"
-dtd_version: "2.0"
-original_entry_into_force: "1996-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028086/1996-06-28/0"
-intitule_bron: "Infob.1996-0"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-28"
-intitule_published: "1996-01-01"
-intitule_in_force: "1996-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1996-0"
-original_signed_date: "1996-06-28"
-original_published_date: "1996-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-06-28"
-jci_1_3: "jci1.3:c:BWBR0028086&z=1996-06-28&g=1996-06-28"
-jci_1_0: "1.0:c:BWBR0028086&g=1996-06-28"
-citeertitel_status: "redactioneel"
-signed_date: "1996-06-28"
-entry_into_force: "1996-06-28"
+publicatiedatum: 1996-06-28
+laatste_update: 1996-06-28
+status: geldig
+toestand: 1996-06-28
+bron: "https://wetten.overheid.nl/BWBR0028086"
+opgehaald: 2026-08-15
 ---
-# Overheidspensioen, opbouw ter zake van diensten bewezen aan voormalige overzeese gebiedsdelen
 
-De staatssecretaris heeft besloten voor een groot aantal belastingverdragen af te zien van belastingheffing van dat deel van een Nederlands overheidspensioen dat is opgebouwd ter zake van diensten bewezen aan een voormalig overzees gebiedsdeel. Op dat deel van het pensioen moet de verdragsregeling voor particuliere pensioenen worden toegepast, die het heffingsrecht toewijst aan de woonstaat van de pensioengenieter.
+# Overheidspensioen, opbouw ter zake van diensten bewezen aan voormalige overzeese gebiedsdelen
 
 Mij is gebleken dat er onduidelijkheid bestaat over de fiscale behandeling van door buitenlandse belastingplichtigen genoten Nederlandse overheidspensioenen waarbij een deel van het pensioen is opgebouwd ter zake van diensten bewezen aan de voormalige overzeese gebiedsdelen.
 

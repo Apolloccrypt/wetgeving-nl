@@ -1,39 +1,19 @@
 ---
 title: "Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES"
 identifier: "BWBR0028533"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028533"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10839323"
-version_id: "17920862"
-internal_id: "C25426121"
-label_id: "10813904"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028533/2022-07-01/0"
-intitule_bron: "Stb.2010-611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-366"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2010-366"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0028533&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0028533&g=2022-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0028533"
+opgehaald: 2026-08-15
 ---
+
 # Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES
+
+#### § 1. Uitbreiding en beperking kring van verzekerden Wet algemene ouderdomsverzekering BES
 
 ##### Artikel 1. Uitbreiding kring verzekerden
 
@@ -42,6 +22,10 @@ De volgende personen, die de leeftijd van vijftien jaar, doch nog niet die van 2
 - a. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie degene, die voldoet aan [artikel 5, eerste lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5), recht heeft op kinderbijslag BES op grond van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347);
 
 - b. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba recht heeft op kinderbijslag BES op grond van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
+
+##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
+
+*Vervallen*
 
 ##### Artikel 2. Beperking kring verzekerden
 
@@ -57,9 +41,9 @@ Niet verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://w
 
 - e. degene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba woont en gewoonlijk slechts gedurende korte tijd wordt geëngageerd om binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te werken als:
 
-- 1°. leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
+   - 1° leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
 
-- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
+   - 2° wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
 
 - f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
@@ -75,15 +59,13 @@ Voor toepassing van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - a. het wonen in het voormalige Nederlands-Indië;
 
-- b. het wonen in Indonesië, voor zover dit heeft plaats gevonden voor 27 september 1949 en voor zover de betrokkene Indonesië heeft verlaten vóór 28 december 1964;
+- b. het wonen in Indonesië, voor zover dit heeft plaats gevonden voor 27 september 1949 en voor zover de betrokkene Indonesië heeft verlaten vóór 28 december 1964;
 
-- c. het wonen in Indonesië van een gehuwde of gehuwd geweest zijnde vrouw, die zelf niet, doch wier echtgenoot of gewezen echtgenoot, wel op 27 december 1949 in Indonesië woonde, gedurende de tijd, dat zij dezelfde woonplaats had als haar echtgenoot of gewezen echtgenoot vóórdat deze vrouw na 27 december 1949 Indonesië voor de eerste maal niet meer in Indonesië woonde, mits zij Indonesië vóór 28 december 1964 heeft verlaten;
+- c. het wonen in Indonesië van een gehuwde of gehuwd geweest zijnde vrouw, die zelf niet, doch wier echtgenoot of gewezen echtgenoot, wel op 27 december 1949 in Indonesië woonde, gedurende de tijd, dat zij dezelfde woonplaats had als haar echtgenoot of gewezen echtgenoot vóórdat deze vrouw na 27 december 1949 Indonesië voor de eerste maal niet meer in Indonesië woonde, mits zij Indonesië vóór 28 december 1964 heeft verlaten;
 
 - d. het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba gedurende de tijd dat de betrokkene als Nederlander voor buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon genoot ten laste van Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba, terwijl hij niet geacht kon worden blijvend buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen;
 
 - e. het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba van de gehuwde of gehuwd geweest zijnde vrouw gedurende de tijd, dat haar echtgenoot aan in onderdeel d gestelde voorwaarden voldeed en zij dezelfde woonplaats als haar echtgenoot, dan wel gewezen echtgenoot had, evenals het wonen buiten Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba van de vrouw, wier overleden echtgenoot op de dag van zijn overlijden aan de in onderdeel d gestelde voorwaarden voldeed, gedurende zes maanden of een door Onze Minister te bepalen langere termijn na de dag van overlijden.
-
-#### § 1. Uitbreiding en beperking kring van verzekerden [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 ##### Artikel 5. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bij arbeid buiten de openbare lichamen Bonaire, Sint Eustatius en Saba
 
@@ -93,7 +75,7 @@ Voor de toepassing van [artikel 42 van de Wet algemene ouderdomsverzekering BES]
 
 - b. het wonen buiten de openbare lichamen Bonaire, Sint Eustatius of Saba van de echtgenote van een Nederlander als bedoeld in onderdeel a, evenals het wonen buiten de openbare lichamen Bonaire, Sint Eustatius of Saba van een vrouw, wier overleden echtgenoot op de dag van zijn overlijden gedurende zes maanden of door een door Onze Minister te bepalen langere termijn aan de voorwaarden van onderdeel a voldeed na de dag van overlijden.
 
-#### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+#### § 2. Uitbreiding en beperking kring van verzekerden Wet algemene weduwen en wezenverzekering BES
 
 ##### Artikel 6. Beperking kring verzekerden
 
@@ -109,9 +91,9 @@ Niet als verzekerde op grond van de [Wet algemene weduwen- en wezenverzekering B
 
 - e. degene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba woont en gewoonlijk slechts gedurende korte tijd wordt geëngageerd om binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te werken als:
 
-- 1°. leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
+   - 1° leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
 
-- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
+   - 2° wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
 
 - f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -132,11 +114,3 @@ Dit besluit berust op de [artikelen 5, derde en vierde lid](https://wetten.overh
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES.
-
-##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
-
-Vervallen
-
-#### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
-
-#### § 3. Slotbepalingen

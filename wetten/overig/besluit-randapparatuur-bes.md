@@ -1,38 +1,16 @@
 ---
 title: "Besluit randapparatuur BES"
 identifier: "BWBR0028396"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-05-13"
-last_updated: "2022-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028396"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10773303"
-version_id: "17749942"
-internal_id: "C24776771"
-label_id: "10748284"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028396/2022-05-13/0"
-intitule_bron: "Stb.2010-454"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-454"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-454"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028396&z=2022-05-13&g=2022-05-13"
-jci_1_0: "1.0:c:BWBR0028396&g=2022-05-13"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-05-13
+status: geldig
+toestand: 2022-05-13
+bron: "https://wetten.overheid.nl/BWBR0028396"
+opgehaald: 2026-08-15
 ---
+
 # Besluit randapparatuur BES
 
 #### § 1. Definities
@@ -41,19 +19,20 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- a. *wet:*
+ [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **toezicht houdende ambtenaar:** een ambtenaar als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=8&artikel=19&z=2022-05-13&g=2022-05-13);
+- b. *toezicht houdende ambtenaar:* een ambtenaar als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=8&artikel=19&z=2022-05-13&g=2022-05-13);
 
-- c. **technische eisen:** een document, uitgegeven door een deskundige, onafhankelijke nationale of internationale instelling, waarin technische specificaties voor randapparatuur alsmede methoden voor het testen van randapparatuur aan deze specificaties zijn omschreven;
+- c. *technische eisen:* een document, uitgegeven door een deskundige, onafhankelijke nationale of internationale instelling, waarin technische specificaties voor randapparatuur alsmede methoden voor het testen van randapparatuur aan deze specificaties zijn omschreven;
 
-- d. **verklaring van conformiteit:** een bewijsstuk als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2022-05-13&g=2022-05-13);
+- d. *verklaring van conformiteit:* een bewijsstuk als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2022-05-13&g=2022-05-13);
 
-- e. **verklaring van toelating:** een bewijsstuk als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2022-05-13&g=2022-05-13);
+- e. *verklaring van toelating:* een bewijsstuk als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2022-05-13&g=2022-05-13);
 
-- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13);
+- f. *bewijs van goedkeuring:* een bewijsstuk als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13);
 
-- g. **het installeren van randapparatuur:** het beroeps- of bedrijfsmatig aanleggen en onderhouden van randapparatuur.
+- g. *het installeren van randapparatuur:* het beroeps- of bedrijfsmatig aanleggen en onderhouden van randapparatuur.
 
 ##### Artikel 1a
 
@@ -73,17 +52,17 @@ Dit besluit berust op de artikelen [22](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - a. de samenwerking van de randapparatuur met de telecommunicatie-infrastructuur ten behoeve van:
 
-- 1°. het tot stand brengen, instandhouden en beëindigen van een verbinding door middel van de telecommunicatie-infrastructuur;
+   - 1°. het tot stand brengen, instandhouden en beëindigen van een verbinding door middel van de telecommunicatie-infrastructuur;
 
-- 2°. de rechtstreekse verzending dan wel ontvangst van gegevens over die verbinding;
+   - 2°. de rechtstreekse verzending dan wel ontvangst van gegevens over die verbinding;
 
 - b. het voorkomen van storing in de werking van de telecommunicatie-infrastructuur;
 
 - c. het verzekeren van de veiligheid van randapparatuur voor:
 
-- 1°. de gebruikers daarvan;
+   - 1°. de gebruikers daarvan;
 
-- 2°. de personen werkzaam in het beheer van de telecommunicatie-infrastructuur.
+   - 2°. de personen werkzaam in het beheer van de telecommunicatie-infrastructuur.
 
 2. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2022-05-13&g=2022-05-13) vast te stellen technische eisen mogen verder slechts strekken tot:
 
@@ -249,7 +228,7 @@ De eigenaar of beheerder van een intern net, op wiens naam het bewijs van goedke
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 #### § 7. Behandeling van storingsklachten
 

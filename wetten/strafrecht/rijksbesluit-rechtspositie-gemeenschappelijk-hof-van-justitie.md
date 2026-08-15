@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet Gemeenschappelijk Hof van Justitie (Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie)"
+citeertitel: "Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie"
 identifier: "BWBR0028548"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028548"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "10844223"
-version_id: "17825102"
-internal_id: "C24665011"
-label_id: "10819674"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028548/2010-10-10/0"
-intitule_bron: "Stb.2010-358"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-358"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-358"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028548&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028548&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028548"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet Gemeenschappelijk Hof van Justitie (Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie)
-
-Op de voordracht van Onze Minister van Justitie van 13 juli 2010, nr. 5656881/10/6;
-
-Gelet op de [artikelen 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=31), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=39), [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=41), [46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=46), [50, zevende lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=50);
-
-De Raad van State van het Koninkrijk gehoord (advies van 12 augustus 2010, nr. W03.10.0358/II/K);
-
-Gezien het nader rapport van Onze Minister van Justitie van 22 september 2010, nr. 5666927/10/6;
-
-De bepalingen van het [Statuut van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet Gemeenschappelijk Hof van Justitie in werking treedt. Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -56,17 +20,18 @@ Treedt in werking op het tijdstip waarop de Rijkswet Gemeenschappelijk Hof van J
 
 1. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt verstaan onder:
 
-- **volledige arbeidsduur:** het aantal uren dat bij volledige vervulling van de functie per week gewerkt wordt;
+- *volledige arbeidsduur:* het aantal uren dat bij volledige vervulling van de functie per week gewerkt wordt;
 
-- **rijkswet:** [Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070);
+- *rijkswet:*
+ [Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070);
 
-- **salaris:** het bedrag waarop de leden van het Hof of rechterlijke ambtenaren in opleiding in verband met het vervullen van een ambt, met inachtneming van het bij of krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=5&artikel=47&z=2010-10-10&g=2010-10-10) van deze algemene maatregel van rijksbestuur bepaalde, aanspraak hebben;
+- *salaris:* het bedrag waarop de leden van het Hof of rechterlijke ambtenaren in opleiding in verband met het vervullen van een ambt, met inachtneming van het bij of krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=5&artikel=47&z=2010-10-10&g=2010-10-10) van deze algemene maatregel van rijksbestuur bepaalde, aanspraak hebben;
 
-- **selectiecommissie:** selectiecommissie rechterlijke ambtenaren in opleiding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=2&artikel=37&z=2010-10-10&g=2010-10-10).
+- *selectiecommissie:* selectiecommissie rechterlijke ambtenaren in opleiding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=2&artikel=37&z=2010-10-10&g=2010-10-10).
 
 2. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt mede verstaan onder:
 
-- **echtgenoot:** de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
+- *echtgenoot:* de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
 
 ##### Artikel 2
 
@@ -600,9 +565,9 @@ Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, kan een r
 
 - e. na eerder wegens gelijke overtreding te zijn gewaarschuwd, de bepalingen overtreedt waarbij hem:
 
-- 1°. verboden wordt zich in enig onderhoud of gesprek in te laten met partijen of haar advocaten of gemachtigden, of enige bijzondere inlichting of schriftelijk stuk van hen aan te nemen;
+   - 1°. verboden wordt zich in enig onderhoud of gesprek in te laten met partijen of haar advocaten of gemachtigden, of enige bijzondere inlichting of schriftelijk stuk van hen aan te nemen;
 
-- 2°. de verplichting wordt opgelegd een geheim te bewaren.
+   - 2°. de verplichting wordt opgelegd een geheim te bewaren.
 
 ##### Artikel 46
 
@@ -829,95 +794,3 @@ Deze algemene maatregel van rijksbestuur treedt in werking op de dag van inwerki
 ##### Artikel 68
 
 Deze algemene maatregel van rijksbestuur wordt aangehaald als: Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie.
-
-## Bijlage. bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), van het Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie
-
-Ik zweer/ Ik beloof dat ik als directeur bedrijfsvoering van het Gemeenschappelijk Hof overeenkomstig de voorschriften bij of krachtens de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070) of enige andere wet gegeven, nauwgezet en onpartijdig, zonder aanzien van personen, zal vervullen.
-
-Ik zweer/ Ik verklaar dat ik om tot directeur bedrijfsvoering van het Gemeenschappelijk Hof te worden benoemd geen giften of gunsten heb gegeven of beloofd.
-
-Ik zweer/ Ik verklaar dat ik om iets als directeur bedrijfsvoering van het Gemeenschappelijk Hof te doen of te laten geen geschenken of beloften heb aangenomen of zal aannemen.
-
-Zo waarlijk helpe mij God almachtig/ Dit verklaar en beloof ik.
-
-Op .......... werd te .............................
-
-ten overstaan van ..............................
-
-de bovenstaande eed/belofte afgelegd.
-
-De ....................
-
-1. .....................
-
-2. .....................
-
-## Bijlage. bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=3&artikel=41&z=2010-10-10&g=2010-10-10), van het Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie
-
-Ik zweer/ Ik beloof trouw aan de Koning en gehoorzaamheid aan de wettelijke regelingen.
-
-Ik zweer/ Ik verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand, wie hij ook zij, iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/ Ik beloof dat ik nimmer enige giften of geschenken, hoe ook genaamd, zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij in enige rechtszaak is of zal worden betrokken, waarin mijn ambtsverrichtingen te pas zouden kunnen komen.
-
-Zo waarlijk helpe mij God Almachtig!/ Dat verklaar en beloof ik!
-
-Op .......... werd te .............................
-
-ten overstaan van ..............................
-
-de bovenstaande eed/belofte afgelegd.
-
-De ....................
-
-1. .....................
-
-2. .....................
-
-De rechterlijk ambtenaar in opleiding is verplicht tot geheimhouding van gevoelens die in raadkamer zijn geuit. De rechterlijk ambtenaar mag zich niet op enige wijze inlaten met partijen of hun advocaten of gemachtigden over enig voor hem aanhangig geschil of een geschil waarvan hij weet of vermoedt dat deze voor hem aanhangig wordt.
-
-## Bijlage. bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=5&artikel=49&z=2010-10-10&g=2010-10-10), van het Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie
-
-Ik zweer/ Ik beloof dat ik het ambt van voorzitter van de Beheerraad van het Gemeenschappelijk Hof/ dat ik het ambt van lid van de Beheerraad van het Gemeenschappelijk Hof overeenkomstig de voorschriften bij of krachtens de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070) of enige andere wet gegeven, nauwgezet en onpartijdig, zonder aanzien van personen, zal vervullen.
-
-Ik zweer/ Ik verklaar dat ik om in dit ambt te worden benoemd geen giften of gunsten heb gegeven of beloofd.
-
-Ik zweer/ Ik verklaar dat ik om iets in het ambt te doen of te laten geen geschenken of beloften heb aangenomen of zal aannemen.
-
-Zo waarlijk helpe mij God almachtig/ Dit verklaar en beloof ik.
-
-Op .......... werd te .............................
-
-ten overstaan van ..............................
-
-de bovenstaande eed/belofte afgelegd.
-
-De ....................
-
-1. .....................
-
-2. .....................
-
-## Bijlage. bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=2&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=10&z=2010-10-10&g=2010-10-10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), en [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=5&artikel=50&z=2010-10-10&g=2010-10-10), van het Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie
-
-### Leden van het Bestuur van het Gemeenschappelijk Hof
-
-De bedragen in deze bijlage zijn vermeld in AWG en ANG1De munteenheid van het land de Nederlandse Antillen wordt op een nog nader te bepalen tijdstip vervangen door een nieuwe munteenheid van het land Curaçao en Sint Maarten. Deze nieuwe munteenheid zal een vaste wisselkoers kennen ten opzichte van de AWG en ANG. Tot 1 januari 2011 blijft de ANG de munteenheid van Bonaire, Sint Eustatius en Saba. Met ingang van 1 januari 2011 is de dollar de munteenheid van Bonaire, Sint Eustatius en Saba (zie verder Wet geldstelsel BES, Kamerstukken II 2009/10, 32 217)..
-
-### Toelage president en vice-president 2010
-
-### Salaris Directeur Bedrijfsvoering 2010
-
-### Salaris leden Gemeenschappelijk Hof 2010
-
-### Salaris plaatsvervangend leden Gemeenschappelijk Hof 2010
-
-### Salaris rechter-plaatsvervanger in eerste aanleg 2010
-
-### Salaris rechterlijke ambtenaren in opleiding 2010
-
-### Vergoeding plaatsvervangers 2010
-
-### Vergoeding per vergadering leden Beheerraad 2010
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

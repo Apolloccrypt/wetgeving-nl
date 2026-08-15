@@ -1,38 +1,16 @@
 ---
 title: "Wet voorkoming van verontreiniging door schepen BES"
 identifier: "BWBR0028453"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028453"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10788873"
-version_id: "17767412"
-internal_id: "C24791481"
-label_id: "10763974"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028453/2025-07-01/0"
-intitule_bron: "Stb.2010-622"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-622"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-622"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028453&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0028453&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0028453"
+opgehaald: 2026-08-15
 ---
+
 # Wet voorkoming van verontreiniging door schepen BES
 
 ### Hoofdstuk I. Begripsomschrijvingen
@@ -41,45 +19,45 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **MARPOL-verdrag:** het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147 en 1978, 187), gewijzigd en aangevuld bij het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb, 1978, 188);
+- a. *MARPOL-verdrag:* het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147 en 1978, 187), gewijzigd en aangevuld bij het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb, 1978, 188);
 
-- b. **AFS-verdrag:** het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijke aangroeiwerende verfsystemen op schepen (Trb. 2004, 44);
+- b. *AFS-verdrag:* het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijke aangroeiwerende verfsystemen op schepen (Trb. 2004, 44);
 
-- c. **Ballastwaterverdrag:** het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, met Bijlage, Aanhangsels, en Resoluties (Trb. 2004, 256);
+- c. *Ballastwaterverdrag:* het op 13 februari 2004 te Londen tot stand gekomen Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, met Bijlage, Aanhangsels, en Resoluties (Trb. 2004, 256);
 
-- d. **de verdragen:** de in dit lid genoemde verdragen.
+- d. *de verdragen:* de in dit lid genoemde verdragen.
 
 2. In deze wet en de daarop rustende bepalingen wordt voorts verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Verkeer en Waterstaat;
+- a. *Onze Minister:* Onze Minister van Verkeer en Waterstaat;
 
-- b. **VN-Zeerechtverdrag:** het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
+- b. *VN-Zeerechtverdrag:* het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
 
-- c. **Milieuprotocol bij het Antarcticaverdrag:** het op 4 oktober 1991 te Madrid tot stand gekomen Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, met Bijlagen (Trb. 1992, 110);
+- c. *Milieuprotocol bij het Antarcticaverdrag:* het op 4 oktober 1991 te Madrid tot stand gekomen Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, met Bijlagen (Trb. 1992, 110);
 
-- d. **territoriale zee:** de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
+- d. *territoriale zee:* de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1);
 
-- e. **binnenwateren:** de wateren van Bonaire, Sint Eustatius en Saba gelegen landinwaarts vanaf de basislijn, bedoeld in het [Uitvoeringsbesluit ex artikel 1 Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=1);
+- e. *binnenwateren:* de wateren van Bonaire, Sint Eustatius en Saba gelegen landinwaarts vanaf de basislijn, bedoeld in het [Uitvoeringsbesluit ex artikel 1 Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=1);
 
-- f. **schip:** elk vaartuig, van welk type ook, waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, of wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;
+- f. *schip:* elk vaartuig, van welk type ook, waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, of wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;
 
-- g. **Nederlands schip:** een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+- g. *Nederlands schip:* een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
-- h. **buitenlands schip:** een schip, niet zijnde een Nederlands schip;
+- h. *buitenlands schip:* een schip, niet zijnde een Nederlands schip;
 
-- i. **schadelijke stof:** een stof die, indien zij in zee of in de lucht terechtkomt, gevaar kan opleveren voor de gezondheid van de mens, schade kan toebrengen aan het milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kan werken op enig ander rechtmatig gebruik van de zee en die vermeld is in een van de verdragen;
+- i. *schadelijke stof:* een stof die, indien zij in zee of in de lucht terechtkomt, gevaar kan opleveren voor de gezondheid van de mens, schade kan toebrengen aan het milieu, de recreatiemogelijkheden die de zee biedt kan schaden of storend kan werken op enig ander rechtmatig gebruik van de zee en die vermeld is in een van de verdragen;
 
-- j. **lozen:** elk vrijkomen van stoffen van een schip, hoe ook veroorzaakt, waaronder begrepen ontsnappen, over boord zetten, wegvloeien, weglekken, pompen of ledigen;
+- j. *lozen:* elk vrijkomen van stoffen van een schip, hoe ook veroorzaakt, waaronder begrepen ontsnappen, over boord zetten, wegvloeien, weglekken, pompen of ledigen;
 
-- k. **uitstoot:** emissie als bedoeld in voorschrift 2 van Bijlage VI van het MARPOL-verdrag;
+- k. *uitstoot:* emissie als bedoeld in voorschrift 2 van Bijlage VI van het MARPOL-verdrag;
 
-- l. **voorval:** een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat een schadelijke stof in zee wordt geloosd;
+- l. *voorval:* een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat een schadelijke stof in zee wordt geloosd;
 
-- m. **haven:** een rede, pier, steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;
+- m. *haven:* een rede, pier, steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;
 
-- n. **eigenaar:** degene aan wie het schip in eigendom toebehoort of, met betrekking tot een teboekgesteld schip, degene die in het register als eigenaar van het schip staat ingeschreven;
+- n. *eigenaar:* degene aan wie het schip in eigendom toebehoort of, met betrekking tot een teboekgesteld schip, degene die in het register als eigenaar van het schip staat ingeschreven;
 
-- o. **exclusieve economische zone:** de door het Koninkrijk ingestelde exclusieve economische zone, voor zover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
+- o. *exclusieve economische zone:* de door het Koninkrijk ingestelde exclusieve economische zone, voor zover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk II. Toepassing
 
@@ -138,6 +116,8 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 De afgifte bedoeld in het eerste lid mag niet anders geschieden dan op een wijze aangegeven bij of krachtens die maatregel.
 
 #### § 2. Regelen voor schepen
+
+[Vervallen]
 
 #### § 3. Verplichtingen van de kapitein
 
@@ -315,6 +295,8 @@ Van de aanhouding, bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.
 
 #### § 2. Onderzoek van voorvallen
 
+[vervallen]
+
 #### § 3. Medewerking en geheimhouding
 
 ##### Artikel 32
@@ -336,6 +318,8 @@ Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zij
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
 #### § 4. Ontheffing
+
+[vervallen]
 
 ### Hoofdstuk VI. Strafbepalingen en borgsom
 

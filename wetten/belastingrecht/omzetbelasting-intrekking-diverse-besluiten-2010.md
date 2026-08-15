@@ -1,42 +1,18 @@
 ---
 title: "Omzetbelasting, intrekking diverse besluiten"
+citeertitel: "Omzetbelasting, intrekking diverse besluiten (2010)"
 identifier: "BWBR0027847"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-07-02"
-last_updated: "2010-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027847"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10596183"
-version_id: "17499172"
-internal_id: "C24202951"
-label_id: "10571094"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027847/2010-07-02/0"
-intitule_bron: "Stcrt.2010-10248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-24"
-intitule_published: "2010-07-01"
-intitule_in_force: "2010-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-10248"
-original_signed_date: "2010-06-24"
-original_published_date: "2010-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-10248"
-entry_into_force_date: "2010-07-02"
-jci_1_3: "jci1.3:c:BWBR0027847&z=2010-07-02&g=2010-07-02"
-jci_1_0: "1.0:c:BWBR0027847&g=2010-07-02"
-citeertitel_status: "redactioneel"
-short_title: "Omzetbelasting, intrekking diverse besluiten (2010)"
-signed_date: "2010-06-24"
-entry_into_force: "2010-07-02"
+publicatiedatum: 2010-07-02
+laatste_update: 2010-07-02
+status: geldig
+toestand: 2010-07-02
+bron: "https://wetten.overheid.nl/BWBR0027847"
+opgehaald: 2026-08-15
 ---
-# Omzetbelasting, intrekking diverse besluiten
 
-De minister van Financiën heeft het volgende besloten.
+# Omzetbelasting, intrekking diverse besluiten
 
 In dit besluit wordt een aantal besluiten over de omzetbelasting ingetrokken, omdat ze hun belang hebben verloren of beschrijvend/casuïstisch zijn.
 
@@ -48,8 +24,19 @@ Het is wenselijk om de toegankelijkheid van het geldende beleid op het gebied va
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+| Nummer | Datum | Verkorte titel | Reden van intrekking |
+| --- | --- | --- | --- |
+| VB 93/22 | 18 januari 1993 | Heffing van omzetbelasting ten aanzien van de diensten van schade-expertisebureaus | Belang verloren. |
+| CPP 2002/602M | 28 februari 2002 | Wijzigingen in de omzetbelastingwetgeving per 1 januari 2002 | Belang verloren. |
+| CPP2001/3086M | 10 december 2001 | Toepassing artikel 3, eerste lid, onderdeel g, van de Wet op de omzetbelasting 1968 | Beschrijvend/casuïstisch. |
+| VB92/2487 | 20 november 1992 | Transport- en hypotheekakten voor buiten EG wonende particulieren | Beschrijvend/casuïstisch |
+| VB93/585 | 22 maart 1993 | Plaats van dienst van het verlijden van transport- en hypotheekakten met betrekking tot onroerende zaken in Nederland | Beschrijvend/casuïstisch |
+| VB89/1865 | 18 mei 1990 | Plaats van dienst. Vertaalwerkzaamheden. | Belang verloren. |
+| CPP2001/2402M | 23 oktober 2001 | Heffing van omzetbelasting met betrekking tot werkzaamheden in het kader van de omschakeling naar de chartale euro | Belang verloren. |
+| CPP2001/3083M | 10 december 2001 | Winstdeling | Casuïstisch/beschrijvend |
+| VB97/3003 | 19 januari 1998 | Heffing van omzetbelasting met betrekking tot het reinigen van tankauto’s | Belang verloren |
+| VB94/1759 | 26 oktober 1994 | Intracommunautaire levering, toepassing nultarief. Identificatienummer Belgische binnenschippers | Belang verloren |
+
 ### 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van het besluit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

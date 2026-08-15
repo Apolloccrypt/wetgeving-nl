@@ -1,38 +1,16 @@
 ---
 title: "Wet merken BES"
 identifier: "BWBR0028306"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028306"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10747983"
-version_id: "17721932"
-internal_id: "C24776251"
-label_id: "10723004"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028306/2019-01-01/0"
-intitule_bron: "Stb.2010-435"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-435"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-435"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028306&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028306&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028306"
+opgehaald: 2026-08-15
 ---
+
 # Wet merken BES
 
 ### Hoofdstuk I. Algemeen
@@ -93,15 +71,15 @@ Er wordt geen recht op een merk verkregen door:
 
 - f. het te kwader trouw verrichte depot, onder andere:
 
-- 1°. het depot dat wordt verricht terwijl de deposant weet of behoort te weten, dat een derde binnen de laatste drie jaren op Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, en die derde zijn toestemming niet heeft verleend;
+   - 1°. het depot dat wordt verricht terwijl de deposant weet of behoort te weten, dat een derde binnen de laatste drie jaren op Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, en die derde zijn toestemming niet heeft verleend;
 
-- 2°. het depot dat wordt verricht terwijl de deposant op grond van zijn rechtstreekse betrekking tot een derde weet, dat die derde binnen de laatste drie jaren buiten Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, tenzij die derde zijn toestemming heeft verleend, of bedoelde wetenschap eerst is verkregen nadat de deposant een begin had gemaakt met het gebruik van het merk op Bonaire, Sint Eustatius of Saba;
+   - 2°. het depot dat wordt verricht terwijl de deposant op grond van zijn rechtstreekse betrekking tot een derde weet, dat die derde binnen de laatste drie jaren buiten Bonaire, Sint Eustatius of Saba een overeenstemmend merk voor soortgelijke waren of diensten te goeder trouw en op normale wijze heeft gebruikt, tenzij die derde zijn toestemming heeft verleend, of bedoelde wetenschap eerst is verkregen nadat de deposant een begin had gemaakt met het gebruik van het merk op Bonaire, Sint Eustatius of Saba;
 
 - g. het depot van merken voor wijnen die geografische aanduidingen ter benoeming van wijnen bevatten dan wel uit zulke aanduidingen bestaan, of het depot van merken voor spiritualiën die geografische aanduidingen ter benoeming van spiritualiën bevatten dan wel uit zulke aanduidingen bestaan, met betrekking tot wijnen of spiritualiën die niet deze geografische oorsprong hebben, tenzij dit depot te goeder trouw is gedaan voordat:
 
-- 1°. de onderhavige bepaling in werking is getreden; of
+   - 1° de onderhavige bepaling in werking is getreden; of
 
-- 2°. de desbetreffende geografische benaming in het land van oorsprong is beschermd.
+   - 2° de desbetreffende geografische benaming in het land van oorsprong is beschermd.
 
 ##### Artikel 9
 
@@ -415,7 +393,7 @@ De bepalingen van deze wet doen geen afbreuk aan bepalingen van het Verdrag van 
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 

@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 6 september 2010, betreffende regels inzake de financiering van het parket van de procureur-generaal (Rijksbesluit financiering parket van de procureur-generaal)"
+citeertitel: "Rijksbesluit financiering parket van de procureur-generaal"
 identifier: "BWBR0028343"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028343"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "10754423"
-version_id: "17729562"
-internal_id: "C24661931"
-label_id: "10729174"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028343/2010-10-10/0"
-intitule_bron: "Stb.2010-360"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-06"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-360"
-original_signed_date: "2010-09-06"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-360"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028343&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028343&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit financiering parket van de procureur-generaal"
-signed_date: "2010-09-06"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028343"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 6 september 2010, betreffende regels inzake de financiering van het parket van de procureur-generaal (Rijksbesluit financiering parket van de procureur-generaal)
-
-Op de voordracht van Onze Minister van Justitie van 19 april 2010, nr. 5648956/10/6, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 29, vierde lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=29) en [artikel 38, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-De Raad van State van het Koninkrijk gehoord (advies van 3 juni 2010, nr. W03.10.0143/II/K);
-
-Gezien het nader rapport van Onze Minister van Justitie van 31 augustus 2010, nr. 5660711/10/6, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba in werking treedt. Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -56,13 +20,14 @@ Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Cu
 
 In dit besluit wordt verstaan onder:
 
-- **instroom:** aantal te behandelen zaken door de procureur-generaal in een jaar;
+- *instroom:* aantal te behandelen zaken door de procureur-generaal in een jaar;
 
-- **zaak:** een door de procureur-generaal te behandelen of afgehandelde procedure;
+- *zaak:* een door de procureur-generaal te behandelen of afgehandelde procedure;
 
-- **parket:** parket van de procureur-generaal;
+- *parket:* parket van de procureur-generaal;
 
-- **rijkswet:** [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072).
+- *rijkswet:*
+ [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072).
 
 ### Hoofdstuk 2. Bijdragetoekenning door Onze Ministers aan het parket
 
@@ -181,5 +146,3 @@ Indien het bij koninklijke boodschap van 18 juli 2009 ingediende voorstel van ri
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: Rijksbesluit financiering parket van de procureur-generaal.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

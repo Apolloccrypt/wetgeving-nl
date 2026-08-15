@@ -1,70 +1,59 @@
 ---
 title: "Cessantiawet BES"
 identifier: "BWBR0028304"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028304"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10747533"
-version_id: "18044822"
-internal_id: "C25417211"
-label_id: "10722324"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028304/2025-01-01/0"
-intitule_bron: "Stb.2010-605"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-350"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-09-01"
-original_effect: "structuurwijziging"
-original_dossier: "31959"
-original_url_id: "stb-2010-350"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0028304&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0028304&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-05-17"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0028304"
+opgehaald: 2026-08-15
 ---
+
 # Cessantiawet BES
 
-## Inleidende bepalingen
+### Inleidende bepalingen
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **werkgever:** de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
+- b. *werkgever:* de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
 
-- c. **werknemer:** de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van een persoon werkzaam bij een publiekrechtelijk lichaam en een beambte of leerkracht bij het gesubsidieerd bijzonder onderwijs;
+- c. *werknemer:* de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van een persoon werkzaam bij een publiekrechtelijk lichaam en een beambte of leerkracht bij het gesubsidieerd bijzonder onderwijs;
 
-- d. **cessantia-uitkering:** de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2025-01-01&g=2025-01-01);
+- d. *cessantia-uitkering:* de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2025-01-01&g=2025-01-01);
 
-- e. **loon:** het loon, bedoeld in [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6);
+- e. *loon:* het loon, bedoeld in [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6);
 
-- f. **weekloon:**
+- f. *weekloon:*
 
-- 1°. bij een uurloon: het loon per uur vermenigvuldigd met het aantal werkuren per week van de betrokken werknemer,
+   - 1°. bij een uurloon: het loon per uur vermenigvuldigd met het aantal werkuren per week van de betrokken werknemer,
 
-- 2°. bij een dagloon: het loon per dag vermenigvuldigd met het aantal werkdagen per week van de betrokken werknemer,
+   - 2°. bij een dagloon: het loon per dag vermenigvuldigd met het aantal werkdagen per week van de betrokken werknemer,
 
-- 3°. bij een maandloon: het loon per maand vermenigvuldigd met 12 en gedeeld door 52;
+   - 3°. bij een maandloon: het loon per maand vermenigvuldigd met 12 en gedeeld door 52;
 
-- g. **inspecteur:** de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
+- g. *inspecteur:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
 
-- h. **ontvanger:** de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris.
+- h. *ontvanger:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris.
 
-## Vaststelling van het weekloon
+##### Artikel 1a
+
+Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
+
+- a. ten aanzien van vreemdelingen;
+
+- b. ter voorkoming van samenloop op grond van deze wet met een overeenkomstige regeling buiten de openbare lichamen Bonaire, Sint Eustatius of Saba;
+
+- c. in de gevallen van tijdelijk verblijf of tijdelijke werkzaamheden binnen de openbare lichamen Bonaire, Sint Eustatius of Saba;
+
+- d. ten aanzien van echtgenoten en overige gezinsleden van de werknemer en van de in de onderdelen b en c bedoelde personen.
+
+### Vaststelling van het weekloon
 
 ##### Artikel 2
 
@@ -72,7 +61,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien sprake is van een uurloon en het aantal werkuren per week niet bij voorbaat vaststaat wordt het loon per dag vastgesteld aan de hand van het gemiddeld aantal werkuren per week in de periode van dertien weken voorafgaand aan de dag waarop de dienstbetrekking is geëindigd.
 
-## Cessantia-uitkering
+### Cessantia-uitkering
 
 ##### Artikel 3
 
@@ -86,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maanden na het eerste dienstjaar als een geheel dienstjaar.
 
-2. Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht éénzelfde, niet onderbroken dienstbetrekking te vormen in de in [artikel 1615fa, eerste lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615fa) genoemde gevallen.
+2. Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht éénzelfde, niet onderbroken dienstbetrekking te vormen in de in [artikel 1615fa, eerste lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615fa) genoemde gevallen.
 
 3. Van het bepaalde in het eerste lid kan slechts ten gunste van de werknemer worden afgeweken, terwijl van het bepaalde in het tweede lid slechts bij collectieve arbeidsovereenkomst kan worden afgeweken.
 
@@ -124,11 +113,11 @@ Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maa
 
 4. De betaalbaarstelling van de cessantia-uitkering op grond van het tweede lid geschiedt niet eerder dan zes maanden na het einde van de dienstbetrekking.
 
-## Uitvoering
+### Uitvoering
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -148,19 +137,21 @@ Vervallen
 
 8. Ten laste van het Rijk, komen de door Onze Minister verstrekte uitkeringen en alle kosten verbonden aan de uitvoering van deze wet.
 
+##### Artikel 7a
+
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+
 ##### Artikel 8
 
 1. Onze Minister treedt voor het bedrag van een door Onze Minister verstrekte cessantia-uitkering in de rechten van de werknemer op de cessantia-uitkering ten opzichte van de werkgever.
 
 2. De vorderingen van de werknemer en Onze Minister op de werkgever tot nakoming van diens verplichtingen op grond van deze wet zijn bevoorrecht op alle goederen van de werkgever en gaan boven alle andere voorrechten met uitzondering van die ter zake van de directe belastingen en de voorrechten uit de [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=287) en [288, onder a, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=288) en [artikel 284 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284), voor zover de daar bedoelde kosten zijn gemaakt na het ontstaan van de vorderingen van de werknemer of Onze Minister.
 
-## Beroep
-
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
-## Vorderingen en aansprakelijkheid
+### Vorderingen en aansprakelijkheid
 
 ##### Artikel 10
 
@@ -180,7 +171,7 @@ Vervallen
 
 5. Volmacht tot ontvangst van een cessantia-uitkering, onder welke vorm of welke benaming ook verleend, is steeds herroepelijk. Elk beding, strijdig met enige bepaling van dit artikellid, is nietig.
 
-## Uitvoering en toezicht
+### Uitvoering en toezicht
 
 ##### Artikel 11
 
@@ -193,6 +184,14 @@ Vervallen
 4. Ingeval de dienstbetrekking van de werknemer krachtens het bepaalde in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2025-01-01&g=2025-01-01), dan wel anderszins als rechtens ononderbroken dient te worden beschouwd, en de werkgever verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01), geeft de werkgever zo spoedig mogelijk hiervan kennis aan Onze Minister.
 
 5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
+
+##### Artikel 11a
+
+1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
+
+2. De werknemer, dan wel diens nagelaten betrekkingen, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
+
+3. De werknemer, dan wel diens nagelaten betrekkingen, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
 ##### Artikel 12
 
@@ -208,7 +207,7 @@ Ter uitvoering van deze wet kunnen bij algemene maatregel van bestuur nadere reg
 
 Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
-## Strafbepalingen
+### Strafbepalingen
 
 ##### Artikel 14
 
@@ -220,52 +219,12 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 4. De in het tweede lid strafbaar gestelde feiten zijn overtredingen
 
-## Strafbepalingen
+### Overgangs- en slotbepalingen
 
 ##### Artikel 15
 
-Indien een werknemer op grond van een op 19 juli 1983 geldende regeling of toezegging aanspraak kan maken op een uitkering ineens wordt de cessantia-uitkering in mindering gebracht op deze uitkering.
+Indien een werknemer op grond van een op 19 juli 1983 geldende regeling of toezegging aanspraak kan maken op een uitkering ineens wordt de cessantia-uitkering in mindering gebracht op deze uitkering.
 
 ##### Artikel 16
 
 Deze wet wordt aangehaald als: Cessantiawet BES.
-
-##### Artikel 7a
-
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
-
-##### Artikel 1a
-
-Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
-
-- a. ten aanzien van vreemdelingen;
-
-- b. ter voorkoming van samenloop op grond van deze wet met een overeenkomstige regeling buiten de openbare lichamen Bonaire, Sint Eustatius of Saba;
-
-- c. in de gevallen van tijdelijk verblijf of tijdelijke werkzaamheden binnen de openbare lichamen Bonaire, Sint Eustatius of Saba;
-
-- d. ten aanzien van echtgenoten en overige gezinsleden van de werknemer en van de in de onderdelen b en c bedoelde personen.
-
-## Vaststelling van het weekloon
-
-## Cessantia-uitkering
-
-## Uitvoering
-
-## Vorderingen en aansprakelijkheid
-
-## Uitvoering en toezicht
-
-## Strafbepalingen
-
-## Overgangs- en slotbepalingen
-
-##### Artikel 11a
-
-1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
-
-2. De werknemer, dan wel diens nagelaten betrekkingen, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
-
-3. De werknemer, dan wel diens nagelaten betrekkingen, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
-
-## Overgangs- en slotbepalingen

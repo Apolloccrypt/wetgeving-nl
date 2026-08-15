@@ -1,47 +1,25 @@
 ---
 title: "Besluit televisie- en radioreclame voor sterke drank BES"
 identifier: "BWBR0028414"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-02-17"
-last_updated: "2011-02-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028414"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10777773"
-version_id: "17754262"
-internal_id: "C24813801"
-label_id: "10752364"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028414/2011-02-17/0"
-intitule_bron: "Stb.2010-583"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-583"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-583"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028414&z=2011-02-17&g=2011-02-17"
-jci_1_0: "1.0:c:BWBR0028414&g=2011-02-17"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-02-17
+status: geldig
+toestand: 2011-02-17
+bron: "https://wetten.overheid.nl/BWBR0028414"
+opgehaald: 2026-08-15
 ---
+
 # Besluit televisie- en radioreclame voor sterke drank BES
 
 ##### Artikel 1
 
 Voor de toepassing van deze algemene maatregel van bestuur wordt verstaan onder «sterke drank»:
 
-- (a). drank, die bij een temperatuur van vijftien graden van de honderddelige schaal meer dan een en twintig volumen procenten alcohol bevat;
+- (a) drank, die bij een temperatuur van vijftien graden van de honderddelige schaal meer dan een en twintig volumen procenten alcohol bevat;
 
-- (b). onvermengde, door overhaling verkregen alcoholhoudende drank, alsmede likeur en bitter, voor zover niet reeds vallende onder de onder (a) bedoelde definitie van sterke drank.
+- (b) onvermengde, door overhaling verkregen alcoholhoudende drank, alsmede likeur en bitter, voor zover niet reeds vallende onder de onder (a) bedoelde definitie van sterke drank.
 
 ##### Artikel 2
 
@@ -55,7 +33,7 @@ De tijdsduur van een reclame boodschap voor sterke drank mag nimmer de duur van 
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -63,11 +41,11 @@ Vervallen
 
 2. Onder indirect aanprijzen van sterke drank wordt onder meer verstaan:
 
-- –. het aanprijzen van niet- of zwak-alcoholhoudende drank tezamen met sterke drank;
+- – het aanprijzen van niet- of zwak-alcoholhoudende drank tezamen met sterke drank;
 
-- –. het uitloven van sterke drank als prijs of geschenk;
+- – het uitloven van sterke drank als prijs of geschenk;
 
-- –. het aanbieden van geschenken of prijzen ter stimulering van de verkoop van sterke drank.
+- – het aanbieden van geschenken of prijzen ter stimulering van de verkoop van sterke drank.
 
 ##### Artikel 6
 

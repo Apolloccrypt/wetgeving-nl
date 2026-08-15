@@ -1,38 +1,16 @@
 ---
 title: "Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES"
 identifier: "BWBR0028373"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028373"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10763443"
-version_id: "17738832"
-internal_id: "C24738091"
-label_id: "10738094"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028373/2010-10-10/0"
-intitule_bron: "Stb.2010-539"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-539"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-539"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028373&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028373&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028373"
+opgehaald: 2026-08-15
 ---
+
 # Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES
 
 #### § 1. Elektronische handtekening
@@ -55,11 +33,11 @@ Aan een elektronische handtekening worden de volgende eisen gesteld:
 
 - a. Gewaarborgd is ten minste dat via passende technieken en procedures:
 
-- 1°. de gegevens voor het aanmaken van handtekeningen in de praktijk slechts één keer kunnen voorkomen en de vertrouwelijkheid daarvan redelijkerwijs gegarandeerd is;
+   - 1° de gegevens voor het aanmaken van handtekeningen in de praktijk slechts één keer kunnen voorkomen en de vertrouwelijkheid daarvan redelijkerwijs gegarandeerd is;
 
-- 2°. de gegevens voor het aanmaken van handtekeningen, met redelijke zekerheid, niet kunnen worden afgeleid en dat de handtekening beschermd is tegen vervalsing met de thans beschikbare technieken;
+   - 2° de gegevens voor het aanmaken van handtekeningen, met redelijke zekerheid, niet kunnen worden afgeleid en dat de handtekening beschermd is tegen vervalsing met de thans beschikbare technieken;
 
-- 3°. de gegevens voor het aanmaken van handtekeningen door de legitieme ondertekenaar op betrouwbare wijze kunnen worden beschermd tegen gebruik door anderen.
+   - 3° de gegevens voor het aanmaken van handtekeningen door de legitieme ondertekenaar op betrouwbare wijze kunnen worden beschermd tegen gebruik door anderen.
 
 - b. De te ondertekenen gegevens mogen niet worden gewijzigd en niet mag worden belet dat deze gegevens vóór de ondertekening aan de ondertekenaar worden voorgelegd.
 
@@ -131,13 +109,13 @@ Aan certificatiedienstverleners worden de navolgende eisen gesteld:
 
 - n. zij maken gebruik van betrouwbare systemen voor de opslag van certificaten in verifieerbare vorm, zodat:
 
-- 1°. alleen bevoegde personen gegevens kunnen invoeren en wijzigen;
+   - 1° alleen bevoegde personen gegevens kunnen invoeren en wijzigen;
 
-- 2°. de authenticiteit van de informatie kan worden gecontroleerd;
+   - 2° de authenticiteit van de informatie kan worden gecontroleerd;
 
-- 3°. de certificaten uitsluitend publiekelijk beschikbaar zijn in die gevallen waarvoor de certificaathouder toestemming heeft gegeven; en
+   - 3° de certificaten uitsluitend publiekelijk beschikbaar zijn in die gevallen waarvoor de certificaathouder toestemming heeft gegeven; en
 
-- 4°. elke technische wijziging die de bovengenoemde beveiligingsvoorschriften in gevaar kan brengen, voor de gebruiker duidelijk is.
+   - 4° elke technische wijziging die de bovengenoemde beveiligingsvoorschriften in gevaar kan brengen, voor de gebruiker duidelijk is.
 
 ##### Artikel 5a
 

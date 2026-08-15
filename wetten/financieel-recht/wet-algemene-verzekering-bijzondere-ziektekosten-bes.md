@@ -1,38 +1,16 @@
 ---
 title: "Wet algemene verzekering bijzondere ziektekosten BES"
 identifier: "BWBR0028294"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028294"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10744183"
-version_id: "17718152"
-internal_id: "C24812971"
-label_id: "10719514"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028294/2012-07-01/0"
-intitule_bron: "Stb.2010-644"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-644"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-644"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028294&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0028294&g=2012-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0028294"
+opgehaald: 2026-08-15
 ---
+
 # Wet algemene verzekering bijzondere ziektekosten BES
 
 ### Hoofdstuk I. Algemene Bepalingen
@@ -41,51 +19,51 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Uitvoeringsorgaan:** de Stichting Bureau Ziektekostenvoorzieningen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=10&z=2012-07-01&g=2012-07-01);
+- b. *Uitvoeringsorgaan:* de Stichting Bureau Ziektekostenvoorzieningen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=10&z=2012-07-01&g=2012-07-01);
 
-- c. **Fonds:** het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01);
+- c. *Fonds:* het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01);
 
-- d. **Indicatiecommissie:** de Indicatiecommissie Bijzondere Ziektekosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=2&artikel=12&z=2012-07-01&g=2012-07-01);
+- d. *Indicatiecommissie:* de Indicatiecommissie Bijzondere Ziektekosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=2&artikel=12&z=2012-07-01&g=2012-07-01);
 
 - e. [vervallen]
 
-- f. **Inspecteur:**
+- f. *Inspecteur:*
 
-- i. ten aanzien van de werkgever, die hetzij zijn woonplaats, hetzij zijn vestigingsplaats, of bij gebreke daarvan zijn vaste inrichting of vaste vertegenwoordiger heeft
+   - i. ten aanzien van de werkgever, die hetzij zijn woonplaats, hetzij zijn vestigingsplaats, of bij gebreke daarvan zijn vaste inrichting of vaste vertegenwoordiger heeft
 
-- 1. in het openbaar lichaam Bonaire: de Inspecteur der Belastingen op Bonaire;
+      - 1. in het openbaar lichaam Bonaire: de Inspecteur der Belastingen op Bonaire;
 
-- 2. in het openbaar lichaam Curaçao: de Inspecteur der Belastingen op Curaçao;
+      - 2. in het openbaar lichaam Curaçao: de Inspecteur der Belastingen op Curaçao;
 
-- 3. in één van de overige openbare lichamen: de Inspecteur der Belastingen op Sint Maarten;
+      - 3. in één van de overige openbare lichamen: de Inspecteur der Belastingen op Sint Maarten;
 
-- ii. ten aanzien van de verzekerde, die bij het begin van het desbetreffende jaar of bij de aanvang van zijn premieplicht in de loop van dat jaar, zijn woonplaats heeft:
+   - ii. ten aanzien van de verzekerde, die bij het begin van het desbetreffende jaar of bij de aanvang van zijn premieplicht in de loop van dat jaar, zijn woonplaats heeft:
 
-- 1. in het openbaar lichaam Bonaire: de Inspecteur der Belastingen op Bonaire;
+      - 1. in het openbaar lichaam Bonaire: de Inspecteur der Belastingen op Bonaire;
 
-- 2. in het openbaar lichaam Curaçao: de Inspecteur der Belastingen op Curaçao;
+      - 2. in het openbaar lichaam Curaçao: de Inspecteur der Belastingen op Curaçao;
 
-- 3. in één van de overige openbare lichamen: de Inspecteur der Belastingen op Sint Maarten;
+      - 3. in één van de overige openbare lichamen: de Inspecteur der Belastingen op Sint Maarten;
 
-- g. **toezichthouder:** de toezichthouder, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=40&z=2012-07-01&g=2012-07-01);
+- g. *toezichthouder:* de toezichthouder, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=40&z=2012-07-01&g=2012-07-01);
 
-- h. **ingezetene:** degene die blijkens inschrijving in het bevolkingsregister van een der openbare lichamen, metterwoon in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba gevestigd is;
+- h. *ingezetene:* degene die blijkens inschrijving in het bevolkingsregister van een der openbare lichamen, metterwoon in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba gevestigd is;
 
-- i. **instelling:** een instelling die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
+- i. *instelling:* een instelling die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
 
-- j. **zorgverlener:** een medische beroepsbeoefenaar of andere deskundige die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
+- j. *zorgverlener:* een medische beroepsbeoefenaar of andere deskundige die zich jegens het Uitvoeringsorgaan heeft verbonden om onder bij overeenkomst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), te bepalen voorwaarden, behandeling, verpleging of verzorging te verlenen;
 
-- k. **chronische zieke:** degene die als gevolg van een ziekte of een complicatie ervan of door ouderdom dermate verpleeg- of zorgbehoeftig is geworden, dat deze zich in zowel sociaal, maatschappelijk als economisch opzicht, niet meer als zelfstandig individu in de samenleving kan handhaven;
+- k. *chronische zieke:* degene die als gevolg van een ziekte of een complicatie ervan of door ouderdom dermate verpleeg- of zorgbehoeftig is geworden, dat deze zich in zowel sociaal, maatschappelijk als economisch opzicht, niet meer als zelfstandig individu in de samenleving kan handhaven;
 
-- l. **psychiatrisch zieke:** degene die door een combinatie van persoonlijke en maatschappelijke factoren in psychische nood verkeert;
+- l. *psychiatrisch zieke:* degene die door een combinatie van persoonlijke en maatschappelijke factoren in psychische nood verkeert;
 
-- m. **gehandicapte:** degene die in een nadelige positie verkeert door een stoornis of een beperking die de normale rolvervulling van die persoon begrenst of verhindert; onder stoornis wordt verstaan iedere afwezigheid of afwijking van een psychologische, fysiologische of anatomische structuur of functie; onder beperking wordt verstaan iedere vermindering of afwezigheid van de mogelijkheid van een voor de mens normale activiteit;
+- m. *gehandicapte:* degene die in een nadelige positie verkeert door een stoornis of een beperking die de normale rolvervulling van die persoon begrenst of verhindert; onder stoornis wordt verstaan iedere afwezigheid of afwijking van een psychologische, fysiologische of anatomische structuur of functie; onder beperking wordt verstaan iedere vermindering of afwezigheid van de mogelijkheid van een voor de mens normale activiteit;
 
-- n. **lichamen:** rechtspersonen, maat- en vennootschappen, andere verenigingen van personen, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;
+- n. *lichamen:* rechtspersonen, maat- en vennootschappen, andere verenigingen van personen, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;
 
-- o. **prijsindexcijfer van de gezinsconsumptie:** het door het Centraal Bureau voor de Statistiek vastgestelde afgeleide prijsindexcijfer van de gezinsconsumptie in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba.
+- o. *prijsindexcijfer van de gezinsconsumptie:* het door het Centraal Bureau voor de Statistiek vastgestelde afgeleide prijsindexcijfer van de gezinsconsumptie in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 2
 

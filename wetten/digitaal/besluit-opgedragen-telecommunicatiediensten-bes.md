@@ -1,38 +1,16 @@
 ---
 title: "Besluit opgedragen telecommunicatiediensten BES"
 identifier: "BWBR0028378"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028378"
+categorie: "Digitaal en privacy"
 soort: "AMvB-BES"
-stam_id: "10764963"
-version_id: "31178782"
-internal_id: "C44606131"
-label_id: "10739694"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028378/2026-01-01/0"
-intitule_bron: "Stb.2010-452"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2025-421"
-original_signed_date: "2025-12-04"
-original_published_date: "2025-12-10"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2025-421"
-entry_into_force_date: "2025-12-04"
-jci_1_3: "jci1.3:c:BWBR0028378&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028378&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-12-04"
-entry_into_force: "2025-12-04"
+publicatiedatum: 2025-12-04
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028378"
+opgehaald: 2026-08-15
 ---
+
 # Besluit opgedragen telecommunicatiediensten BES
 
 #### § 1. Definities
@@ -51,11 +29,11 @@ Dit besluit berust op [artikel 3 van de Wet telecommunicatievoorzieningen BES](h
 
 De opgedragen diensten met betrekking tot het directe transport van gegevens, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3), omvatten de in de navolgende paragrafen omschreven vaste telecommunicatiedienst, satelliettelecommunicatiedienst, mobiele telecommunicatiedienst en langeafstandstelecommunicatiedienst.
 
-#### § 3. Telefoondienst
-
 ##### Artikel 3
 
 De opgedragen diensten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028378&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), kunnen naar hun aard en omvang in een concessie worden beperkt tot één of meer van deze diensten dan wel delen daarvan.
+
+#### § 3. Vaste telecommunicatiedienst
 
 ##### Artikel 4
 
@@ -65,6 +43,18 @@ Onder vaste telecommunicatiedienst wordt verstaan de dienst met betrekking tot h
 
 - b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
 
+#### § 3a. Satelliettelecommunicatiedienst
+
+##### Artikel 4a
+
+Onder satelliettelecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via een combinatie van satellietverbindingen en grondstations, van en naar een locatie op een openbaar lichaam voor:
+
+- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
+
+- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
+
+#### § 4. Mobiele telecommunicatiedienst
+
 ##### Artikel 5
 
 Onder mobiele telecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via de mobiele telecommunicatie-infrastructuur van de houder van de concessie voor:
@@ -72,6 +62,8 @@ Onder mobiele telecommunicatiedienst wordt verstaan de dienst met betrekking tot
 - a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
 
 - b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
+
+#### § 5. Langeafstandstelecommunicatiedienst
 
 ##### Artikel 6
 
@@ -81,17 +73,13 @@ Onder langeafstandstelecommunicatiedienst wordt verstaan de dienst met betrekkin
 
 - b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
 
-#### § 4. Mobiele telecommunicatiedienst
-
 ##### Artikel 7
 
-Vervallen
-
-#### § 5. Langeafstandstelecommunicatiedienst
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 #### § 6. Overige bepalingen
 
@@ -128,17 +116,3 @@ Tot de in de [paragrafen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit opgedragen telecommunicatiediensten BES.
-
-#### § 3. Vaste telecommunicatiedienst
-
-#### § 3a. Satelliettelecommunicatiedienst
-
-##### Artikel 4a
-
-Onder satelliettelecommunicatiedienst wordt verstaan de dienst met betrekking tot het transport van gegevens via een combinatie van satellietverbindingen en grondstations, van en naar een locatie op een openbaar lichaam voor:
-
-- a. direct of indirect uitgaande en binnenkomende nationale of nationale en internationale gesprekken, met behulp van een nummer uit een nummerplan als bedoeld in [artikel 44e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e), en
-
-- b. toegang tot het internet en derhalve connectiviteit met vrijwel alle eindpunten van het internet, ongeacht de gebruikte netwerktechnologie en eindapparatuur.
-
-#### § 6. Overige bepalingen

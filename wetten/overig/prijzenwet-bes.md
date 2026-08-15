@@ -1,47 +1,25 @@
 ---
 title: "Prijzenwet BES"
 identifier: "BWBR0028250"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028250"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10721413"
-version_id: "17689542"
-internal_id: "C24772631"
-label_id: "10696084"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028250/2019-01-01/0"
-intitule_bron: "Stb.2010-440"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-440"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-440"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028250&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028250&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028250"
+opgehaald: 2026-08-15
 ---
+
 # Prijzenwet BES
 
 ##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- **goederen:** roerende zaken in de zin van het Burgerlijk Wetboek;
+- *goederen:* roerende zaken in de zin van het Burgerlijk Wetboek;
 
-- **diensten:** de verrichtingen, welke het voorwerp zijn van overeenkomsten tot het verrichten van enkele diensten of van aanneming van werk, als bedoeld in [artikel 1613 van boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613) of van verzekerings- of garantieovereenkomsten.
+- *diensten:* de verrichtingen, welke het voorwerp zijn van overeenkomsten tot het verrichten van enkele diensten of van aanneming van werk, als bedoeld in [artikel 1613 van boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613) of van verzekerings- of garantieovereenkomsten.
 
 ##### Artikel 2
 
@@ -111,11 +89,11 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 1. Indien een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01) strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
 
-- –. hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
+- – hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
 
-- –. hetzij tegen hen, die tot het feit opdracht hebben gegeven of feitelijk leiding hebben gehad bij het verboden handelen of nalaten,
+- – hetzij tegen hen, die tot het feit opdracht hebben gegeven of feitelijk leiding hebben gehad bij het verboden handelen of nalaten,
 
-- –. hetzij tegen beiden.
+- – hetzij tegen beiden.
 
 2. Een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01) strafbaar gesteld feit wordt onder meer begaan door of vanwege een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, indien het begaan wordt door personen, die, hetzij uit hoofde van een dienstbetrekking, hetzij uit andere hoofde handelen in de sfeer van de rechtspersoon, de vennootschap, de vereniging of het doelvermogen, ongeacht of deze personen ieder afzonderlijk het strafbare feit hebben begaan dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.
 

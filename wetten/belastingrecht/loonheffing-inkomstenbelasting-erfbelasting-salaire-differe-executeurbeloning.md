@@ -1,59 +1,52 @@
 ---
 title: "Loonheffing, inkomstenbelasting, erfbelasting, salaire differé, executeurbeloning"
 identifier: "BWBR0027722"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-06-11"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027722"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10550093"
-version_id: "17392722"
-internal_id: "C24127171"
-label_id: "10525214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027722/2010-06-11/0"
-intitule_bron: "Stcrt.2010-8446"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-10"
-intitule_published: "2010-06-10"
-intitule_in_force: "2010-06-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-8446"
-original_signed_date: "2010-06-10"
-original_published_date: "2010-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-8446"
-entry_into_force_date: "2010-06-11"
-jci_1_3: "jci1.3:c:BWBR0027722&z=2010-06-11&g=2010-06-11"
-jci_1_0: "1.0:c:BWBR0027722&g=2010-06-11"
-citeertitel_status: "redactioneel"
-signed_date: "2010-06-10"
-entry_into_force: "2010-06-11"
+publicatiedatum: 2010-06-11
+laatste_update: 2010-06-11
+status: geldig
+toestand: 2010-06-11
+bron: "https://wetten.overheid.nl/BWBR0027722"
+opgehaald: 2026-08-15
 ---
+
 # Loonheffing, inkomstenbelasting, erfbelasting, salaire differé, executeurbeloning
 
-De Minister van Financiën heeft het volgende besloten.
-
-**Dit besluit betreft de fiscale behandeling van het zogenoemde salaire differé en de executeurbeloning. Het besluit vervangt het besluit van 3 augustus 2004, nr. CPP2004/1121M. De aanpassingen zijn louter redactioneel, met name in verband met de herziening van de Successiewet. Dit leidt niet tot een inhoudelijke wijziging.**
+*Dit besluit betreft de fiscale behandeling van het zogenoemde salaire differé en de executeurbeloning. Het besluit vervangt het besluit van 3 augustus 2004, nr. CPP2004/1121M. De aanpassingen zijn louter redactioneel, met name in verband met de herziening van de Successiewet. Dit leidt niet tot een inhoudelijke wijziging.*
 
 ### 1. Inleiding
 
 In [artikel 4:36 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=36) zijn bepalingen opgenomen over het zogenoemde salaire differé. Een kind dat voor de erflater arbeid heeft verricht, zonder een voor die arbeid passende beloning te ontvangen, kan hierdoor aanspraak maken op een billijke vergoeding. In dit besluit behandel ik de gevolgen voor de loonheffing, erf- en inkomstenbelasting voor:
 
+- – het salaire differé en vergelijkbare beloningen voor werkzaamheden die zijn verricht voor de erflater; en
+
+- – executeurbeloningen.
+
 ### 1.1. Gebruikte afkortingen
+
+- *loonheffing:* loonbelasting/premie volksverzekeringen
+
+- *loonheffingen:* loonheffing, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+
+- *Successiewet:*
+ [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226)
 
 ### 2. Het salaire differé en vergelijkbare beloningen voor werkzaamheden die zijn verricht voor de erflater
 
 Met de bepalingen voor het salaire differé is gewaarborgd dat een kind alsnog een billijke beloning kan krijgen voor de door hem verrichte arbeid. Het salaire differé komt aan de orde als het kind nog niet op andere wijze een passende beloning voor zijn arbeid heeft ontvangen. De passende beloning kan het kind worden toegekend op de volgende manieren:
 
+- – tijdens het leven van de erflater, zoals de beloning die op het moment van overlijden van de erflater wel al is toegekend of verdiend maar nog niet is uitbetaald, bijvoorbeeld het maandloon dat achteraf wordt betaald;
+
+- – op grond van de uiterste wil van de erflater in verband met verrichte werkzaamheden, bijvoorbeeld door een legaat of de toekenning van een groter erfdeel; of
+
+- – als salaire differé.
+
 ### 3. De gevolgen voor de heffing van de loonheffing en inkomstenbelasting
 
 ### 3.1. De gevolgen voor de ontvanger
 
-De onder punt 2 van dit besluit genoemde beloningen vormen belastbaar inkomen uit werk en woning al dan niet in de vorm van loon uit (fictieve) dienstbetrekking tot de erflater.
+De onder [punt 2](https://wetten.overheid.nl/BWBR0027722) van dit besluit genoemde beloningen vormen belastbaar inkomen uit werk en woning al dan niet in de vorm van loon uit (fictieve) dienstbetrekking tot de erflater.
 
 ### 3.2. Gevolgen voor de loonheffingen
 
@@ -61,31 +54,41 @@ Het begrip salaire differé heeft net als een in de uiterste wil toegekende belo
 
 ### 3.3. De gevolgen voor de erflater
 
-**Voor de erflater is van belang of de beloning in aftrek kan komen in de winstsfeer**
+*Voor de erflater is van belang of de beloning in aftrek kan komen in de winstsfeer*
 
-**De beloning is verkregen tijdens het leven van de erflater**
+*De beloning is verkregen tijdens het leven van de erflater*
 
 Een normale beloning die door de ondernemer is verstrekt of toegekend voor in zijn onderneming verrichte werkzaamheden kan onder de gebruikelijke voorwaarden en uitgangspunten als bedrijfslast in aanmerking worden genomen.
 
-**De beloning is door de erflater toegekend in zijn uiterste wil of wordt ontvangen als salaire differé**
+*De beloning is door de erflater toegekend in zijn uiterste wil of wordt ontvangen als salaire differé*
 
 De betaling drukt niet op de erflater maar op de erfgenamen. Gelet op de achtergrond van de betaling kan in beginsel geen sprake zijn van een nagekomen bedrijfslast.
 
+Goedkeuring
+
 Ik keur op grond van een redelijke wetstoepassing goed dat de in zijn uiterste wil toegekende beloning of het salaire differé als nagekomen bedrijfslast bij de erflater in mindering op de winst over het jaar van zijn overlijden kan worden gebracht. Hierbij gelden de volgende drie voorwaarden:
+
+- – De erflater wordt tot het moment van zijn overlijden aangemerkt als ondernemer in de zin van [artikel 3.4 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4).
+
+- – De in zijn uiterste wil toegekende beloning of het salaire differé heeft betrekking op de door de erflater gedreven onderneming.
+
+- – De in zijn uiterste wil toegekende beloning of het salaire differé wordt als nagekomen bedrijfslast in aanmerking genomen voor zover de in zijn uiterste wil toegekende beloning of het salaire differé bij het kind feitelijk als belastbaar inkomen uit werk en woning in de heffing van de inkomstenbelasting dan wel in de loonheffing is betrokken.
 
 Gevallen die niet onder de goedkeuring vallen kunnen aan mij worden voorgelegd.
 
 ### 4. De gevolgen voor de erfbelasting
 
-**De beloning is verkregen tijdens het leven van de erflater**
+*De beloning is verkregen tijdens het leven van de erflater*
 
 De beloning wordt niet verkregen krachtens erfrecht. Voor zover de beloning feitelijk nog niet is betaald behoort die beloning tot de schulden van de nalatenschap.
 
-**De beloning is door de erflater toegekend in zijn uiterste wil of wordt ontvangen als salaire differé**
+*De beloning is door de erflater toegekend in zijn uiterste wil of wordt ontvangen als salaire differé*
 
-De beloning is verkregen krachtens erfrecht en behoort dus tot de nalatenschap. Ik merk daarbij op dat de onder onderdeel 3.3. opgenomen goedkeuring niet leidt tot een andersluidend oordeel. De beloning behoort immers ook tot de nalatenschap als de beloning voor de inkomstenbelasting als nagekomen bedrijfslast in aanmerking is genomen. De erfbelasting volgt immers in beginsel het civiele recht. Het eventuele inkomstenbelastingvoordeel van de nagekomen bedrijfslast behoort eveneens tot de nalatenschap.
+De beloning is verkregen krachtens erfrecht en behoort dus tot de nalatenschap. Ik merk daarbij op dat de onder [onderdeel 3.3.](https://wetten.overheid.nl/BWBR0027722) opgenomen goedkeuring niet leidt tot een andersluidend oordeel. De beloning behoort immers ook tot de nalatenschap als de beloning voor de inkomstenbelasting als nagekomen bedrijfslast in aanmerking is genomen. De erfbelasting volgt immers in beginsel het civiele recht. Het eventuele inkomstenbelastingvoordeel van de nagekomen bedrijfslast behoort eveneens tot de nalatenschap.
 
 De werknemersvrijstelling van [artikel 32, eerste lid, onderdeel 9, van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) is in het algemeen niet van toepassing omdat er doorgaans geen werknemersrelatie is in de zin van de werknemersvrijstelling. Ook zal geen sprake van voldoening aan een natuurlijke verbintenis. Voor het salaire differé is dat niet aan de orde omdat de vergoeding voortvloeit uit de wet.
+
+Goedkeuring
 
 De in de uiterste wil toegekende beloning en het salaire differé hebben overeenkomsten met de inkomsten waarop de werknemersvrijstelling van toepassing is. Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat de in de uiterste wil toegekende beloning of het salaire differé wordt vrijgesteld van de erfbelasting. De goedkeuring geldt voor zover de beloning of het salaire differé bij het kind feitelijk als belastbaar inkomen uit werk en woning in de heffing van inkomstenbelasting dan wel in de loonheffing is betrokken.
 
@@ -105,8 +108,8 @@ De executeurbeloning is belast voor de inkomstenbelasting als de executeur de ex
 
 Het volgende besluit is ingetrokken met terugwerkende kracht tot en met 1 januari 2010:
 
+- – [CPP2004/1121M](https://wetten.overheid.nl/jci1.3:c:BWBR0017079).
+
 ### 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2010.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

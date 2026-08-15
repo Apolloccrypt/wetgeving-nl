@@ -1,49 +1,18 @@
 ---
 title: "Wet van 17 mei 2010, houdende regels met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk (Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028151"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028151"
+categorie: "Belastingrecht"
 soort: "wet-BES"
-stam_id: "10679993"
-version_id: "17640312"
-internal_id: "C24925041"
-label_id: "10655814"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028151/2023-01-01/0"
-intitule_bron: "Stb.2010-365"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-17"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-365"
-original_signed_date: "2010-05-17"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "31958"
-original_url_id: "stb-2010-365"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028151&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0028151&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-05-17"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0028151"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 mei 2010, houdende regels met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk (Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -51,23 +20,23 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Onze Ministers:** Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën;
+- b. *Onze Ministers:* Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën;
 
-- c. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- c. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- d. **Rijksvertegenwoordiger:** Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- d. *Rijksvertegenwoordiger:* Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- e. **College financieel toezicht:** College financieel toezicht Bonaire, Sint Eustatius en Saba, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01);
+- e. *College financieel toezicht:* College financieel toezicht Bonaire, Sint Eustatius en Saba, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01);
 
-- f. **geconsolideerde schuld:** de gezamenlijke schulden van de collectieve sector van een openbaar lichaam in de vorm van leningen en kredieten, met uitzondering van de onderlinge schulden binnen de desbetreffende collectieve sector;
+- f. *geconsolideerde schuld:* de gezamenlijke schulden van de collectieve sector van een openbaar lichaam in de vorm van leningen en kredieten, met uitzondering van de onderlinge schulden binnen de desbetreffende collectieve sector;
 
-- g. **rentelast:** de uitgaven aan rente toerekenbaar aan een begrotingsjaar over de geconsolideerde schuld van de collectieve sector van een openbaar lichaam;
+- g. *rentelast:* de uitgaven aan rente toerekenbaar aan een begrotingsjaar over de geconsolideerde schuld van de collectieve sector van een openbaar lichaam;
 
-- h. **collectieve sector:** gezamenlijkheid van de rechtspersonen die op basis van het System of National Accounts van de Verenigde Naties tot de sector overheid worden gerekend;
+- h. *collectieve sector:* gezamenlijkheid van de rechtspersonen die op basis van het System of National Accounts van de Verenigde Naties tot de sector overheid worden gerekend;
 
-- i. **rentelastnorm:** de gemiddeld per begrotingsjaar toegestane rentelast voor de collectieve sector van een openbaar lichaam, als percentage van de gemiddelde gerealiseerde inkomsten van de collectieve sector van het openbaar lichaam over de drie jaren voorafgaand aan het jaar waarin de begroting wordt ingediend.
+- i. *rentelastnorm:* de gemiddeld per begrotingsjaar toegestane rentelast voor de collectieve sector van een openbaar lichaam, als percentage van de gemiddelde gerealiseerde inkomsten van de collectieve sector van het openbaar lichaam over de drie jaren voorafgaand aan het jaar waarin de begroting wordt ingediend.
 
 2. In deze wet wordt onder ambtenaar mede verstaan: degene die op arbeidsovereenkomst naar burgerlijk recht werkzaam is.
 
@@ -187,7 +156,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Hoofdstuk III. Financiële functie
 
-### Afdeling 1. Besluiten met financiële gevolgen
+#### Afdeling 1. Besluiten met financiële gevolgen
 
 ##### Artikel 9
 
@@ -239,7 +208,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 4. Een openbaar lichaam is niet bevoegd kredieten anders dan bij het College financieel toezicht op te nemen.
 
-### Afdeling 2. De begroting en de jaarrekening
+#### Afdeling 2. De begroting en de jaarrekening
 
 #### § 1. Algemene bepalingen
 
@@ -271,7 +240,7 @@ Aan de openbare lichamen kunnen slechts bij of krachtens de wet uitgaven worden 
 
 3. Het begrotingsjaar is het kalenderjaar.
 
-4. De dienst van het kalenderjaar wordt gesloten op 31 december van het kalenderjaar.
+4. De dienst van het kalenderjaar wordt gesloten op 31 december van het kalenderjaar.
 
 ##### Artikel 16
 
@@ -291,7 +260,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. Het College financieel toezicht zendt binnen twee weken na ontvangst van de ontwerpbegroting aan het bestuurscollege een advies, bevattende zijn bevindingen met betrekking tot de uitgevoerde toetsing en eventuele aanbevelingen met betrekking tot aanpassing van de ontwerpbegroting.
 
-4. Het bestuurscollege biedt jaarlijks uiterlijk op 1 september van het jaar, voorafgaand aan het begrotingsjaar, de ontwerpbegroting aan de eilandsraad aan en geeft daarbij aan op welke wijze rekening is gehouden met de bevindingen en aanbevelingen van het College financieel toezicht.
+4. Het bestuurscollege biedt jaarlijks uiterlijk op 1 september van het jaar, voorafgaand aan het begrotingsjaar, de ontwerpbegroting aan de eilandsraad aan en geeft daarbij aan op welke wijze rekening is gehouden met de bevindingen en aanbevelingen van het College financieel toezicht.
 
 5. De ontwerpbegroting en de overige in het eerste en derde lid bedoelde stukken liggen, zodra zij aan de eilandsraad zijn aangeboden, voor eenieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven.
 
@@ -321,7 +290,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met het financieel belang van het openbaar lichaam.
 
-4. Het bestuurscollege zendt de door de eilandsraad vastgestelde begroting binnen twee weken na de vaststelling, maar in ieder geval vóór 15 november van het jaar voorafgaande aan dat waarvoor de begroting dient, aan Onze Minister, door tussenkomst van het College financieel toezicht.
+4. Het bestuurscollege zendt de door de eilandsraad vastgestelde begroting binnen twee weken na de vaststelling, maar in ieder geval vóór 15 november van het jaar voorafgaande aan dat waarvoor de begroting dient, aan Onze Minister, door tussenkomst van het College financieel toezicht.
 
 5. Onze Minister maakt binnen twee weken na ontvangst van de vastgestelde begroting het besluit omtrent goedkeuring bekend aan de eilandsraad die de begroting heeft vastgesteld.
 
@@ -431,7 +400,7 @@ Behoudens later in rechte gebleken onregelmatigheden ontlast de vaststelling van
 
 ##### Artikel 31
 
-1. Het bestuurscollege zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=28&z=2023-01-01&g=2023-01-01) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister, door tussenkomst van het College financieel toezicht. Het bestuurscollege voegt daarbij, indien van toepassing, het besluit van de eilandsraad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=29&z=2023-01-01&g=2023-01-01).
+1. Het bestuurscollege zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=28&z=2023-01-01&g=2023-01-01) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister, door tussenkomst van het College financieel toezicht. Het bestuurscollege voegt daarbij, indien van toepassing, het besluit van de eilandsraad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=29&z=2023-01-01&g=2023-01-01).
 
 2. Het College financieel toezicht kan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) onderzoek laten doen naar de rechtmatigheid en doelmatigheid van het gevoerde bestuur.
 
@@ -441,7 +410,7 @@ Behoudens later in rechte gebleken onregelmatigheden ontlast de vaststelling van
 
 Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het bestuurscollege de jaarrekening, vergezeld van de overige in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=28&z=2023-01-01&g=2023-01-01) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan Onze Minister, door tussenkomst van het College financieel toezicht. Onze Minister stelt in dat geval de jaarrekening en in voorkomende gevallen het indemniteitsbesluit vast.
 
-### Afdeling 3. Het financieel beheer en de controle
+#### Afdeling 3. Het financieel beheer en de controle
 
 ##### Artikel 33
 
@@ -593,258 +562,6 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 ### Hoofdstuk IV. De belastingen
 
-### Hoofdstuk V. De financiële verhouding
-
-#### § 1. Algemene bepalingen
-
-##### Artikel 87
-
-1. Indien beleidsvoornemens van het Rijk leiden tot een wijziging van de uitoefening van taken of activiteiten door de openbare lichamen wordt in een afzonderlijk onderdeel van de bijbehorende toelichting met redenen omkleed en met kwantitatieve gegevens gestaafd welke de financiële gevolgen zijn voor de openbare lichamen.
-
-2. In de toelichting wordt tevens aangegeven via welke bekostigingswijze de financiële gevolgen voor de openbare lichamen kunnen worden opgevangen.
-
-3. Over de toepassing van het eerste en tweede lid vindt tijdig overleg plaats met Onze Ministers.
-
-#### § 2. Vrije uitkering
-
-##### Artikel 88
-
-1. Er is een BES-fonds.
-
-2. Het fonds is een begrotingsfonds als bedoeld in [artikel 2.11, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11).
-
-3. Bij de begrotingswet van het het fonds wordt ten aanzien van ieder uitkeringsjaar een bedrag aan middelen van het Rijk ten behoeve van het fonds afgezonderd, dat als ontvangst in de begroting wordt opgenomen.
-
-4. De begroting van het fonds vermeldt het bedrag voor het totaal aan uitkeringen als bedoeld in het zesde en het achtste lid aan de openbare lichamen gezamenlijk.
-
-5. In afwijking van [artikel 2.1, achtste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) bevat de begroting van het fonds de ramingen van de uitgaven en de ontvangsten.
-
-6. Een openbaar lichaam heeft over het uitkeringsjaar recht op een vrije uitkering ten laste van het BES-fonds in de vorm van een vast bedrag.
-
-7. De vrije uitkering komt ten goede aan de algemene middelen van het openbaar lichaam.
-
-8. Uit het BES-fonds kunnen uitkeringen aan een of meer openbare lichamen worden verstrekt op een andere wijze dan door middel van een vrije uitkering als bedoeld in het zesde lid.
-
-9. Onze Minister beheertde begroting van het fonds.
-
-##### Artikel 89
-
-1. Onze Minister wie het aangaat kan een renteloze lening verschaffen aan een openbaar lichaam, ten behoeve van het doen van een investering ten behoeve van de uitoefening van de publieke taak.
-
-2. Een aanvraag tot het verschaffen van een lening als bedoeld in het eerste lid wordt door de eilandsraad van het openbaar lichaam ingediend bij Onze Minister wie het aangaat, door tussenkomst van het College financieel toezicht. Het College financieel toezicht voorziet de aanvraag van zijn advies.
-
-3. Over toepassing van het eerste en tweede lid vindt tijdig overleg plaats met Onze Ministers.
-
-4. Onze Ministers stellen jaarlijks ten aanzien van ieder van de openbare lichamen vast welk bedrag verschuldigd is aan aflossing van de renteloze leningen.
-
-##### Artikel 90
-
-1. Onze Minister doet betalingen aan de openbare lichamen in verband met de vrije uitkering, bij wijze van voorschot, over het lopende begrotingsjaar, zoveel mogelijk in twaalf gelijke maandelijkse delen.
-
-2. Indien over enig uitkeringsjaar verrichte betalingen aan een openbaar lichaam hoger of lager zijn dan de over dat jaar voor het openbaar lichaam vastgestelde uitkering, wordt het verschil teruggevorderd of uitbetaald.
-
-3. Bij het doen van betalingen kan verrekening plaatsvinden in verband met andere verplichtingen als bedoeld in dit hoofdstuk.
-
-#### § 3. Bijzondere uitkeringen
-
-##### Artikel 91
-
-1. Een bijzondere uitkering is een bijdrage uit ’s Rijks kas die door Onze Minister wie het aangaat onder voorwaarden wordt verstrekt ten behoeve van een bepaalde publieke taak.
-
-2. Bijzondere uitkeringen worden vastgesteld in US dollars en kunnen worden verstrekt aan een openbaar lichaam voor de bestrijding van in de regeling van de uitkering aangeduide kosten van de ontvangers.
-
-3. Omtrent een voorstel tot regeling van een bijzondere uitkering vindt tijdig overleg plaats met Onze Ministers.
-
-##### Artikel 92
-
-1. Bijzondere uitkeringen worden geregeld bij of krachtens de wet.
-
-2. Het eerste lid is niet van toepassing
-
-- a. in afwachting van de totstandkoming van een wettelijk voorschrift gedurende ten hoogste een jaar of totdat een binnen dat jaar bij de Staten-Generaal ingediend wetsvoorstel is verworpen of tot wet is verheven en in werking is getreden;
-
-- b. indien de uitkering rechtstreeks op grond van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie vastgesteld programma wordt verstrekt;
-
-- c. indien de begroting de ontvanger van de uitkering en het bedrag waarop de uitkering ten hoogste kan worden vastgesteld, vermeldt, of
-
-- d. in incidentele gevallen, mits de uitkering voor ten hoogste vier jaren wordt verstrekt.
-
-3. Tijdelijke bijzondere uitkeringen kunnen worden geregeld bij algemene maatregel van bestuur. Krachtens de maatregel kan de verdeling van de uitkering nader worden bepaald.
-
-4. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt vier jaren nadat hij in werking is getreden, tenzij voor dat tijdstip een voorstel van wet bij de Staten-Generaal is ingediend waarin de bijzondere uitkering wordt geregeld.
-
-5. Eenmalige bijzondere uitkeringen kunnen worden geregeld bij ministeriële regeling.
-
-##### Artikel 93
-
-[Artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=214) is niet van toepassing op de regeling van de informatievoorziening ten aanzien van een bijzondere uitkering als bedoeld in [artikel 92, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=V&paragraaf=3&artikel=92&z=2023-01-01&g=2023-01-01).
-
-##### Artikel 94
-
-Onze Ministers publiceren jaarlijks uiterlijk op de derde woensdag van mei een overzicht van de bijzondere uitkeringen, met de daarvoor in de lopende begroting beschikbare bedragen.
-
-#### § 4. Overige bepalingen
-
-##### Artikel 95
-
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:
-
-- a. de toepassing van de in dit hoofdstuk gehanteerde begrippen;
-
-- b. de procedure tot vaststelling en verstrekking van uitkeringen als bedoeld in dit hoofdstuk;
-
-- c. het verzamelen en vaststellen van gegevens ten behoeve van uitkeringen;
-
-- d. het doen van mededelingen en het verschaffen van inlichtingen in verband met de vaststelling en verstrekking van uitkeringen.
-
-##### Artikel 96
-
-Op een uitkering als bedoeld in dit hoofdstuk kan geen beslag onder de Staat worden gelegd.
-
-### Hoofdstuk VI. Wijziging van andere wetten
-
-##### Artikel 97
-
-Wijzigt de Provinciewet.
-
-##### Artikel 98
-
-Wijzigt de Gemeentewet.
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-##### Artikel 99
-
-1. De regels voor de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag, gesteld in en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=13&z=2023-01-01&g=2023-01-01), worden voor het eerst toegepast voor het begrotingsjaar 2012.
-
-2. Op de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag voor de begrotingsjaren tot en met 2011 blijven de regels van toepassing zoals die golden op de dag voor de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet.
-
-3. Op besluiten die op grond van het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) ter beoordeling zijn voorgelegd aan het College financieel toezicht, maar waarover het College bij de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet nog geen beslissing heeft meegedeeld, zijn de regels van deze wet van toepassing. Voor zover daarbij termijnen gelden waarbinnen een beslissing moet zijn genomen of meegedeeld beginnen die termijnen te lopen op de datum van inwerkingtreding van deze wet.
-
-##### Artikel 100
-
-Na de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet berust de [Regeling rekening-courant en leningenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0021734) mede op [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=3&artikel=37&z=2023-01-01&g=2023-01-01), van deze wet.
-
-##### Artikel 101
-
-Het door het bestuurscollege van een eilandgebied voor het tijdstip van transitie ten behoeve van een openbaar lichaam ter kennis brengen van Onze Minister van Financiën van een besluit tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting wordt met ingang van het tijdstip van transitie aangemerkt als het door het bestuurscollege van het desbetreffende openbaar lichaam ter kennis brengen van Onze Minister van Financiën van het betreffende besluit.
-
-##### Artikel 101a
-
-In de [artikelen 101b tot en met 101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) wordt verstaan onder
-
-- a. **tijdstip van transitie:** het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
-
-- b. **tijdstip van inwerkingtreding:** het tijdstip waarop [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&z=2023-01-01&g=2023-01-01) van deze wet in werking treedt;
-
-- c. **overgangsperiode:** de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
-
-##### Artikel 101b
-
-1. Voor zover de belastingplichtige of inhoudingsplichtige op het tijdstip van transitie rechten en verplichtingen heeft ingevolge:
-
-- a. de Grondbelastingverordening 1908 of een eilandsverordening tot het heffen van opcenten op de grondbelasting als bedoeld in artikel 2a, eerste lid, onderdeel B, van de Eilandenregeling Nederlandse Antillen;
-
-- b. de Landsverordening Speelvergunningsrecht Hazardspelen 1957 of daarop gebaseerde regelgeving van de eilandgebieden Bonaire, Sint Eustatius of Saba;
-
-- c. de Overdrachtslandsverordening Loterijwezen, de Loterijverordening Bonaire of de daarop gebaseerde regelgeving;
-
-- d. de landsverordening slacht- en vleeskeuring Bonaire;
-
-- e. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Bonaire:
-
-- 1°. Motorrijtuigbelastingverordening Bonaire 1954;
-
-- 2°. Logeergastenbelastingverordening Bonaire;
-
-- 3°. Verhuurautobelastingverordening Bonaire;
-
-- 4°. Hondenbelastingverordening 1961;
-
-- 5°. Eilandsbesluit heffing afvalstoffen 2005;
-
-- 6°. Eilandsbesluit van 15 mei 1957, no. 1, houdende algemene maatregelen tot vaststelling van de rechten, welke ingevolge de Wegenverkeersverordening Bonaire worden geheven;
-
-- 7°. Loods- lig- en meerverordening Bonaire;
-
-- 8°. Algemene Retributieverordening Bonaire;
-
-- 9°. Drank- en horecaverordening;
-
-- 10°. Eilandsbesluit houdende algemene maatregelen van de 4e januari 1963, no. 5, regelende de heffing en inning van bioscooprechten;
-
-- 11°. Verordening marien milieu;
-
-- f. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Sint Eustatius:
-
-- 1°. Motorrijtuigbelastingverordening St. Eustatius;
-
-- 2°. Retributieverordening Sint Eustatius 1997;
-
-- g. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Saba:
-
-- 1°. Motorrijtuigenbelastingverordening Saba;
-
-- 2°. Retributieverordening Saba 2007,
-
-blijven deze rechten en verplichtingen ongewijzigd in stand, en blijven de onder a tot en met g genoemde verordeningen en de daarop gebaseerde regelingen daarop ongewijzigd van toepassing.
-
-2. Op de rechten en verplichtingen, bedoeld in het eerste lid, blijven tevens van toepassing de Algemene landsverordening landsbelastingen, de Invorderingsverordening 1961, de Invorderingsverordening 1970, en de overige heffings- en invorderingsbepalingen die op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van transitie in de desbetreffende eilandgebieden van toepassing zijn op de betreffende rechten en verplichtingen.
-
-3. Het eerste lid en het tweede lid zijn van overeenkomstige toepassing op, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van transitie, bestaande rechtsverhoudingen.
-
-4. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding, blijven in de overgangsperiode de in het eerste lid, onderdelen a tot en met g, en in het tweede lid bedoelde verordeningen en de daarop gebaseerde regelgeving van toepassing in de openbare lichamen.
-
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het vierde lid.
-
-##### Artikel 101c
-
-1. Op het tijdstip van transitie gaat de bevoegdheid tot het heffen van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen en de daarop gebaseerde regelgeving, over op de ambtenaar, bedoeld in [artikel 67, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01).
-
-2. Op het tijdstip van transitie gaat de bevoegdheid tot het invorderen van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen en de daarop gebaseerde regelgeving, over op de ambtenaar, bedoeld in [artikel 67, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01).
-
-3. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding gaan gedurende de overgangsperiode, in afwijking van het eerste en tweede lid, de bevoegdheden met betrekking tot heffing en invordering van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen, en de daarop gebaseerde regelgeving, van de in die verordeningen en de daarop gebaseerde regelgeving genoemde organen en functionarissen van de eilandgebieden Bonaire, Sint Eustatius en Saba, over op de overeenkomstige organen en functionarissen van de openbare lichamen.
-
-##### Artikel 101d
-
-De bepalingen van de verordeningen, bedoeld in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
-
-##### Artikel 101e
-
-1. Voor zover belastingen of rechten op grond van verordeningen als bedoeld in de [artikelen 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) en [101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101g&z=2023-01-01&g=2023-01-01) zijn verschuldigd voor een bepaald tijdvak, eindigt dat tijdvak uiterlijk op het tijdstip van inwerkingtreding.
-
-2. Indien een in het eerste lid bedoelde verordening een tijdvak kent dat mede een periode na het tijdstip van inwerkingtreding omvat, worden de voor dat tijdvak verschuldigde belastingen of rechten tijdsevenredig berekend. Voor zover belastingen of rechten reeds zijn betaald over het deel van het tijdvak na het tijdstip van inwerkingtreding, bestaat voor dat deel aanspraak op tijdsevenredige teruggaaf.
-
-3. Bedragen van minder dan USD 5 worden niet geheven of teruggegeven.
-
-##### Artikel 101f
-
-1. In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), treedt de Raad van Beroep voor belastingzaken, bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII), op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
-
-2. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van [titel 8 van hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&titeldeel=8) wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII)» gelezen: bedoeld in [paragraaf 2b van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b).
-
-##### Artikel 101g
-
-De [artikelen 101a tot en met 101f](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101a&z=2023-01-01&g=2023-01-01) zijn mede van toepassing op bij ministeriële regeling aan te wijzen andere landsverordeningen en eilandsverordeningen en daaraan opgehangen regelingen van de eilandgebieden Bonaire, Sint Eustatius en Saba.
-
-##### Artikel 102
-
-Onze Minister zendt binnen zes jaar na het tijdstip van transitie aan de beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
-
-##### Artikel 103
-
-Indien het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) is vervallen blijft het van toepassing voor de begrotingsjaren waarvoor het heeft gegolden.
-
-##### Artikel 104
-
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
-
-##### Artikel 105
-
-Deze wet wordt aangehaald als: Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 #### § 1. Algemene bepalingen
 
 ##### Artikel 40
@@ -869,9 +586,9 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 - a. onder de naam grondbelasting, een eilandbelasting van degenen die bij het begin van het kalenderjaar het genot hebben krachtens eigendom, bezit of beperkt recht van:
 
-- 1°. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=4) en die een in de aanhef bedoelde rechthebbende als hoofdverblijf ter beschikking staan;
+   - 1°. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=4) en die een in de aanhef bedoelde rechthebbende als hoofdverblijf ter beschikking staan;
 
-- 2°. onroerende zaken die tot het vermogen van een onderneming behoren waarmee die onderneming opbrengst als bedoeld in [artikel 6 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=6) verkrijgt;
+   - 2°. onroerende zaken die tot het vermogen van een onderneming behoren waarmee die onderneming opbrengst als bedoeld in [artikel 6 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=6) verkrijgt;
 
 - b. opcenten op de hoofdsom van de vastgoedbelasting, bedoeld in [artikel 4.1 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=4.1).
 
@@ -899,7 +616,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 ##### Artikel 44a
 
-1. Besluiten tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting treden in werking met ingang van 1 januari van enig jaar. Een desbetreffend besluit wordt vóór 30 november van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.
+1. Besluiten tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting treden in werking met ingang van 1 januari van enig jaar. Een desbetreffend besluit wordt vóór 30 november van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.
 
 2. Een in het eerste lid bedoeld besluit heeft geen gevolgen voor de opcenten die zijn betaald over een tijdvak dat vóór de datum van inwerkingtreding van dat besluit is aangevangen.
 
@@ -973,9 +690,9 @@ Indien een onroerende zaak in het jaar voorafgaand aan het tijdvak of in de loop
 
 ##### Artikel 51
 
-1. In de belastingverordening kan worden bepaald dat geen grondbelasting wordt geheven indien de heffingsmaatstaf blijft beneden een bedrag van USD 12 000 dan wel een in de belastingverordening te bepalen lager bedrag.
+1. In de belastingverordening kan worden bepaald dat geen grondbelasting wordt geheven indien de heffingsmaatstaf blijft beneden een bedrag van USD 12 000 dan wel een in de belastingverordening te bepalen lager bedrag.
 
-2. In de belastingverordening kunnen belastingbedragen tot maximaal USD 10 worden opgenomen waarvoor geen invordering zal plaatsvinden. Voor de toepassing van de vorige volzin kan in de belastingverordening worden bepaald dat het totaal van op één aanslagbiljet verenigde verschuldigde bedragen wordt aangemerkt als één belastingbedrag.
+2. In de belastingverordening kunnen belastingbedragen tot maximaal USD 10 worden opgenomen waarvoor geen invordering zal plaatsvinden. Voor de toepassing van de vorige volzin kan in de belastingverordening worden bepaald dat het totaal van op één aanslagbiljet verenigde verschuldigde bedragen wordt aangemerkt als één belastingbedrag.
 
 ##### Artikel 52
 
@@ -1046,6 +763,10 @@ Bij gehele of gedeeltelijke vernieling van gebouwen door onvoorziene rampen word
 ##### Artikel 57
 
 Onder de naam afvalstoffenheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalstoffen een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.7, derde lid, onderdeel a, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=4.7) een verplichting geldt tot het inzamelen van afvalstoffen.
+
+##### Artikel 57a
+
+Onder de naam afvalwaterheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=4.25) een verplichting geldt tot het beheer van afvalwater als bedoeld in die wet.
 
 ##### Artikel 58
 
@@ -1161,11 +882,11 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 2. De op andere wijze geheven belastingen worden voor de toepassing van de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
 
-- a. **de aanslag, de voorlopige aanslag en de navorderingsaanslag:** het gevorderde, het voorlopig gevorderde, onderscheidenlijk het nagevorderde bedrag;
+- a. *de aanslag, de voorlopige aanslag en de navorderingsaanslag:* het gevorderde, het voorlopig gevorderde, onderscheidenlijk het nagevorderde bedrag;
 
-- b. **het aanslagbiljet:** de kennisgeving van het in onderdeel a bedoelde bedrag;
+- b. *het aanslagbiljet:* de kennisgeving van het in onderdeel a bedoelde bedrag;
 
-- c. **de dagtekening van het aanslagbiljet:** de dagtekening van de schriftelijke kennisgeving van het in onderdeel a bedoelde bedrag, of bij gebreke van een schriftelijke kennisgeving, de datum waarop het bedrag op andere wijze ter kennis van de belastingplichtige is gebracht.
+- c. *de dagtekening van het aanslagbiljet:* de dagtekening van de schriftelijke kennisgeving van het in onderdeel a bedoelde bedrag, of bij gebreke van een schriftelijke kennisgeving, de datum waarop het bedrag op andere wijze ter kennis van de belastingplichtige is gebracht.
 
 ##### Artikel 71
 
@@ -1325,36 +1046,248 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake alle eilandbelasti
 
 #### § 1. Algemene bepalingen
 
-#### § 2. Het BES-fonds
+##### Artikel 87
 
-#### § 3. Bijzondere uitkeringen
+1. Indien beleidsvoornemens van het Rijk leiden tot een wijziging van de uitoefening van taken of activiteiten door de openbare lichamen wordt in een afzonderlijk onderdeel van de bijbehorende toelichting met redenen omkleed en met kwantitatieve gegevens gestaafd welke de financiële gevolgen zijn voor de openbare lichamen.
 
-#### § 4. Overige bepalingen
+2. In de toelichting wordt tevens aangegeven via welke bekostigingswijze de financiële gevolgen voor de openbare lichamen kunnen worden opgevangen.
 
-### Hoofdstuk VI. Wijziging van andere wetten
-
-### Hoofdstuk VII. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 57a
-
-Onder de naam afvalwaterheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=4.25) een verplichting geldt tot het beheer van afvalwater als bedoeld in die wet.
-
-#### § 4. Heffing en invordering
-
-### Hoofdstuk V. De financiële verhouding
-
-#### § 1. Algemene bepalingen
+3. Over de toepassing van het eerste en tweede lid vindt tijdig overleg plaats met Onze Ministers.
 
 #### § 2. Het BES-fonds
 
+##### Artikel 88
+
+1. Er is een BES-fonds.
+
+2. Het fonds is een begrotingsfonds als bedoeld in [artikel 2.11, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11).
+
+3. Bij de begrotingswet van het het fonds wordt ten aanzien van ieder uitkeringsjaar een bedrag aan middelen van het Rijk ten behoeve van het fonds afgezonderd, dat als ontvangst in de begroting wordt opgenomen.
+
+4. De begroting van het fonds vermeldt het bedrag voor het totaal aan uitkeringen als bedoeld in het zesde en het achtste lid aan de openbare lichamen gezamenlijk.
+
+5. In afwijking van [artikel 2.1, achtste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) bevat de begroting van het fonds de ramingen van de uitgaven en de ontvangsten.
+
+6. Een openbaar lichaam heeft over het uitkeringsjaar recht op een vrije uitkering ten laste van het BES-fonds in de vorm van een vast bedrag.
+
+7. De vrije uitkering komt ten goede aan de algemene middelen van het openbaar lichaam.
+
+8. Uit het BES-fonds kunnen uitkeringen aan een of meer openbare lichamen worden verstrekt op een andere wijze dan door middel van een vrije uitkering als bedoeld in het zesde lid.
+
+9. Onze Minister beheertde begroting van het fonds.
+
+##### Artikel 89
+
+1. Onze Minister wie het aangaat kan een renteloze lening verschaffen aan een openbaar lichaam, ten behoeve van het doen van een investering ten behoeve van de uitoefening van de publieke taak.
+
+2. Een aanvraag tot het verschaffen van een lening als bedoeld in het eerste lid wordt door de eilandsraad van het openbaar lichaam ingediend bij Onze Minister wie het aangaat, door tussenkomst van het College financieel toezicht. Het College financieel toezicht voorziet de aanvraag van zijn advies.
+
+3. Over toepassing van het eerste en tweede lid vindt tijdig overleg plaats met Onze Ministers.
+
+4. Onze Ministers stellen jaarlijks ten aanzien van ieder van de openbare lichamen vast welk bedrag verschuldigd is aan aflossing van de renteloze leningen.
+
+##### Artikel 90
+
+1. Onze Minister doet betalingen aan de openbare lichamen in verband met de vrije uitkering, bij wijze van voorschot, over het lopende begrotingsjaar, zoveel mogelijk in twaalf gelijke maandelijkse delen.
+
+2. Indien over enig uitkeringsjaar verrichte betalingen aan een openbaar lichaam hoger of lager zijn dan de over dat jaar voor het openbaar lichaam vastgestelde uitkering, wordt het verschil teruggevorderd of uitbetaald.
+
+3. Bij het doen van betalingen kan verrekening plaatsvinden in verband met andere verplichtingen als bedoeld in dit hoofdstuk.
+
 #### § 3. Bijzondere uitkeringen
+
+##### Artikel 91
+
+1. Een bijzondere uitkering is een bijdrage uit ’s Rijks kas die door Onze Minister wie het aangaat onder voorwaarden wordt verstrekt ten behoeve van een bepaalde publieke taak.
+
+2. Bijzondere uitkeringen worden vastgesteld in US dollars en kunnen worden verstrekt aan een openbaar lichaam voor de bestrijding van in de regeling van de uitkering aangeduide kosten van de ontvangers.
+
+3. Omtrent een voorstel tot regeling van een bijzondere uitkering vindt tijdig overleg plaats met Onze Ministers.
+
+##### Artikel 92
+
+1. Bijzondere uitkeringen worden geregeld bij of krachtens de wet.
+
+2. Het eerste lid is niet van toepassing
+
+- a. in afwachting van de totstandkoming van een wettelijk voorschrift gedurende ten hoogste een jaar of totdat een binnen dat jaar bij de Staten-Generaal ingediend wetsvoorstel is verworpen of tot wet is verheven en in werking is getreden;
+
+- b. indien de uitkering rechtstreeks op grond van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie vastgesteld programma wordt verstrekt;
+
+- c. indien de begroting de ontvanger van de uitkering en het bedrag waarop de uitkering ten hoogste kan worden vastgesteld, vermeldt, of
+
+- d. in incidentele gevallen, mits de uitkering voor ten hoogste vier jaren wordt verstrekt.
+
+3. Tijdelijke bijzondere uitkeringen kunnen worden geregeld bij algemene maatregel van bestuur. Krachtens de maatregel kan de verdeling van de uitkering nader worden bepaald.
+
+4. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt vier jaren nadat hij in werking is getreden, tenzij voor dat tijdstip een voorstel van wet bij de Staten-Generaal is ingediend waarin de bijzondere uitkering wordt geregeld.
+
+5. Eenmalige bijzondere uitkeringen kunnen worden geregeld bij ministeriële regeling.
+
+##### Artikel 93
+
+[Artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=214) is niet van toepassing op de regeling van de informatievoorziening ten aanzien van een bijzondere uitkering als bedoeld in [artikel 92, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=V&paragraaf=3&artikel=92&z=2023-01-01&g=2023-01-01).
+
+##### Artikel 94
+
+Onze Ministers publiceren jaarlijks uiterlijk op de derde woensdag van mei een overzicht van de bijzondere uitkeringen, met de daarvoor in de lopende begroting beschikbare bedragen.
 
 #### § 4. Overige bepalingen
 
+##### Artikel 95
+
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:
+
+- a. de toepassing van de in dit hoofdstuk gehanteerde begrippen;
+
+- b. de procedure tot vaststelling en verstrekking van uitkeringen als bedoeld in dit hoofdstuk;
+
+- c. het verzamelen en vaststellen van gegevens ten behoeve van uitkeringen;
+
+- d. het doen van mededelingen en het verschaffen van inlichtingen in verband met de vaststelling en verstrekking van uitkeringen.
+
+##### Artikel 96
+
+Op een uitkering als bedoeld in dit hoofdstuk kan geen beslag onder de Staat worden gelegd.
+
 ### Hoofdstuk VI. Wijziging van andere wetten
+
+##### Artikel 97
+
+*Wijzigt de Provinciewet.*
+
+##### Artikel 98
+
+*Wijzigt de Gemeentewet.*
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 99
+
+1. De regels voor de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag, gesteld in en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=13&z=2023-01-01&g=2023-01-01), worden voor het eerst toegepast voor het begrotingsjaar 2012.
+
+2. Op de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag voor de begrotingsjaren tot en met 2011 blijven de regels van toepassing zoals die golden op de dag voor de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet.
+
+3. Op besluiten die op grond van het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) ter beoordeling zijn voorgelegd aan het College financieel toezicht, maar waarover het College bij de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet nog geen beslissing heeft meegedeeld, zijn de regels van deze wet van toepassing. Voor zover daarbij termijnen gelden waarbinnen een beslissing moet zijn genomen of meegedeeld beginnen die termijnen te lopen op de datum van inwerkingtreding van deze wet.
+
+##### Artikel 100
+
+Na de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet berust de [Regeling rekening-courant en leningenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0021734) mede op [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=3&artikel=37&z=2023-01-01&g=2023-01-01), van deze wet.
+
+##### Artikel 101
+
+Het door het bestuurscollege van een eilandgebied voor het tijdstip van transitie ten behoeve van een openbaar lichaam ter kennis brengen van Onze Minister van Financiën van een besluit tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting wordt met ingang van het tijdstip van transitie aangemerkt als het door het bestuurscollege van het desbetreffende openbaar lichaam ter kennis brengen van Onze Minister van Financiën van het betreffende besluit.
+
+##### Artikel 101a
+
+In de [artikelen 101b tot en met 101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) wordt verstaan onder
+
+- a. *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+
+- b. *tijdstip van inwerkingtreding:* het tijdstip waarop [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&z=2023-01-01&g=2023-01-01) van deze wet in werking treedt;
+
+- c. *overgangsperiode:* de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
+
+##### Artikel 101b
+
+1. Voor zover de belastingplichtige of inhoudingsplichtige op het tijdstip van transitie rechten en verplichtingen heeft ingevolge:
+
+- a. de Grondbelastingverordening 1908 of een eilandsverordening tot het heffen van opcenten op de grondbelasting als bedoeld in artikel 2a, eerste lid, onderdeel B, van de Eilandenregeling Nederlandse Antillen;
+
+- b. de Landsverordening Speelvergunningsrecht Hazardspelen 1957 of daarop gebaseerde regelgeving van de eilandgebieden Bonaire, Sint Eustatius of Saba;
+
+- c. de Overdrachtslandsverordening Loterijwezen, de Loterijverordening Bonaire of de daarop gebaseerde regelgeving;
+
+- d. de landsverordening slacht- en vleeskeuring Bonaire;
+
+- e. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Bonaire:
+
+   - 1°. Motorrijtuigbelastingverordening Bonaire 1954;
+
+   - 2°. Logeergastenbelastingverordening Bonaire;
+
+   - 3°. Verhuurautobelastingverordening Bonaire;
+
+   - 4°. Hondenbelastingverordening 1961;
+
+   - 5°. Eilandsbesluit heffing afvalstoffen 2005;
+
+   - 6°. Eilandsbesluit van 15 mei 1957, no. 1, houdende algemene maatregelen tot vaststelling van de rechten, welke ingevolge de Wegenverkeersverordening Bonaire worden geheven;
+
+   - 7°. Loods- lig- en meerverordening Bonaire;
+
+   - 8°. Algemene Retributieverordening Bonaire;
+
+   - 9°. Drank- en horecaverordening;
+
+   - 10°. Eilandsbesluit houdende algemene maatregelen van de 4e januari 1963, no. 5, regelende de heffing en inning van bioscooprechten;
+
+   - 11°. Verordening marien milieu;
+
+- f. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Sint Eustatius:
+
+   - 1°. Motorrijtuigbelastingverordening St. Eustatius;
+
+   - 2°. Retributieverordening Sint Eustatius 1997;
+
+- g. een van de volgende eilandsverordeningen of eilandsbesluiten houdende algemene maatregelen alsmede daarop gebaseerde regelgeving van het eilandgebied Saba:
+
+   - 1° Motorrijtuigenbelastingverordening Saba;
+
+   - 2° Retributieverordening Saba 2007,
+
+blijven deze rechten en verplichtingen ongewijzigd in stand, en blijven de onder a tot en met g genoemde verordeningen en de daarop gebaseerde regelingen daarop ongewijzigd van toepassing.
+
+2. Op de rechten en verplichtingen, bedoeld in het eerste lid, blijven tevens van toepassing de Algemene landsverordening landsbelastingen, de Invorderingsverordening 1961, de Invorderingsverordening 1970, en de overige heffings- en invorderingsbepalingen die op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van transitie in de desbetreffende eilandgebieden van toepassing zijn op de betreffende rechten en verplichtingen.
+
+3. Het eerste lid en het tweede lid zijn van overeenkomstige toepassing op, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van transitie, bestaande rechtsverhoudingen.
+
+4. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding, blijven in de overgangsperiode de in het eerste lid, onderdelen a tot en met g, en in het tweede lid bedoelde verordeningen en de daarop gebaseerde regelgeving van toepassing in de openbare lichamen.
+
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het vierde lid.
+
+##### Artikel 101c
+
+1. Op het tijdstip van transitie gaat de bevoegdheid tot het heffen van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen en de daarop gebaseerde regelgeving, over op de ambtenaar, bedoeld in [artikel 67, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01).
+
+2. Op het tijdstip van transitie gaat de bevoegdheid tot het invorderen van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen en de daarop gebaseerde regelgeving, over op de ambtenaar, bedoeld in [artikel 67, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01).
+
+3. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding gaan gedurende de overgangsperiode, in afwijking van het eerste en tweede lid, de bevoegdheden met betrekking tot heffing en invordering van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen, en de daarop gebaseerde regelgeving, van de in die verordeningen en de daarop gebaseerde regelgeving genoemde organen en functionarissen van de eilandgebieden Bonaire, Sint Eustatius en Saba, over op de overeenkomstige organen en functionarissen van de openbare lichamen.
+
+##### Artikel 101d
+
+De bepalingen van de verordeningen, bedoeld in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
+
+##### Artikel 101e
+
+1. Voor zover belastingen of rechten op grond van verordeningen als bedoeld in de [artikelen 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) en [101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101g&z=2023-01-01&g=2023-01-01) zijn verschuldigd voor een bepaald tijdvak, eindigt dat tijdvak uiterlijk op het tijdstip van inwerkingtreding.
+
+2. Indien een in het eerste lid bedoelde verordening een tijdvak kent dat mede een periode na het tijdstip van inwerkingtreding omvat, worden de voor dat tijdvak verschuldigde belastingen of rechten tijdsevenredig berekend. Voor zover belastingen of rechten reeds zijn betaald over het deel van het tijdvak na het tijdstip van inwerkingtreding, bestaat voor dat deel aanspraak op tijdsevenredige teruggaaf.
+
+3. Bedragen van minder dan USD 5 worden niet geheven of teruggegeven.
+
+##### Artikel 101f
+
+1. In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), treedt de Raad van Beroep voor belastingzaken, bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII), op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
+
+2. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van [titel 8 van hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&titeldeel=8) wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII)» gelezen: bedoeld in [paragraaf 2b van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b).
+
+##### Artikel 101g
+
+De [artikelen 101a tot en met 101f](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101a&z=2023-01-01&g=2023-01-01) zijn mede van toepassing op bij ministeriële regeling aan te wijzen andere landsverordeningen en eilandsverordeningen en daaraan opgehangen regelingen van de eilandgebieden Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 102
+
+Onze Minister zendt binnen zes jaar na het tijdstip van transitie aan de beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+
+##### Artikel 103
+
+Indien het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) is vervallen blijft het van toepassing voor de begrotingsjaren waarvoor het heeft gegolden.
+
+##### Artikel 104
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
+
+##### Artikel 105
+
+Deze wet wordt aangehaald als: Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.

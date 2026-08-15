@@ -1,38 +1,16 @@
 ---
 title: "Visserijwet BES"
 identifier: "BWBR0028168"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028168"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10686773"
-version_id: "17647822"
-internal_id: "C24819681"
-label_id: "10661634"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028168/2023-01-01/0"
-intitule_bron: "Stb.2010-566"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-566"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-566"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028168&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0028168&g=2023-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0028168"
+opgehaald: 2026-08-15
 ---
+
 # Visserijwet BES
 
 ### Hoofdstuk I. Begripsbepalingen
@@ -41,13 +19,13 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **vissen:** te water brengen, te water hebben, lichten of ophalen van vistuigen alsmede het op enigerlei andere wijze pogen om vis uit het water te bemachtigen;
+- b. *vissen:* te water brengen, te water hebben, lichten of ophalen van vistuigen alsmede het op enigerlei andere wijze pogen om vis uit het water te bemachtigen;
 
-- c. **visserijcommissie:** commissie, ingesteld krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=III&artikel=13&z=2023-01-01&g=2023-01-01);
+- c. *visserijcommissie:* commissie, ingesteld krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=III&artikel=13&z=2023-01-01&g=2023-01-01);
 
-- d. **visserijzone:** zone bestaand uit de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1), en de exclusieve economische zone van het Koninkrijk, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
+- d. *visserijzone:* zone bestaand uit de territoriale zee rond Bonaire, Sint Eustatius en Saba, vastgesteld bij of krachtens [artikel 1 van de Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749&artikel=1), en de exclusieve economische zone van het Koninkrijk, voorzover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
 
 2. In deze wet en de daarop berustende bepalingen wordt onder vis mede verstaan:
 
@@ -217,9 +195,9 @@ Onder vissersvaartuig, afkomstig van Bonaire, Sint Eustatius of Saba wordt in di
 
 - c. eisen waaraan een vissersvaartuig dient te voldoen, waaronder:
 
-- 1°. het navigatiesysteem om de locatie van het vissersvaartuig vast te stellen;
+   - 1° het navigatiesysteem om de locatie van het vissersvaartuig vast te stellen;
 
-- 2°. het markeren van het vistuig;
+   - 2° het markeren van het vistuig;
 
 - d. eisen waaraan de bemanning van een vissersvaartuig dient te voldoen.
 

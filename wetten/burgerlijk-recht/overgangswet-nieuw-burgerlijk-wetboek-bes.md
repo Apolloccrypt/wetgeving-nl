@@ -1,43 +1,21 @@
 ---
 title: "Overgangswet nieuw Burgerlijk Wetboek BES"
 identifier: "BWBR0028466"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028466"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10795293"
-version_id: "17774982"
-internal_id: "C24756101"
-label_id: "10771544"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028466/2019-07-01/0"
-intitule_bron: "Stb.2010-508"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-508"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-508"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028466&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBR0028466&g=2019-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBR0028466"
+opgehaald: 2026-08-15
 ---
+
 # Overgangswet nieuw Burgerlijk Wetboek BES
 
 ### Overgangsrecht
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -149,7 +127,7 @@ Een beding dat naar een vóór het in werking treden van de wet geldend wetsarti
 
 De in overgangsbepalingen vervatte verwijzing naar de regels van de wet of naar die van het tevoren geldende recht is in aan de rechter voorgelegde zaken niet van toepassing, indien de gelijkenis met elders in die bepalingen geregelde gevallen daartoe noopt of indien de toepassing onder de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. De rechter beslist de zaak alsdan op de wijze die naar zijn oordeel in de gegeven omstandigheden het meest passend en billijk is.
 
-## Titel 2. Overgangsbepalingen in verband met [Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743)
+### Titel 2. Overgangsbepalingen in verband met Boek 1
 
 ##### Artikel 16
 
@@ -271,7 +249,7 @@ Artikel 466 van het Burgerlijk Wetboek, zoals dat gold tot aan het tijdstip van 
 
 Van het tijdstip van het in werking treden van de wet af wordt een curatele die is ingesteld op grond van het voordien geldende artikel 482, onder 1 (of 4), van het Burgerlijk Wetboek, aangemerkt als een curatele op grond van [artikel 378, onder a, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=378).
 
-## Titel 2A. Overgangsbepalingen in verband met [Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744)
+### Titel 2A. Overgangsbepalingen in verband met Boek 2
 
 ##### Artikel 37a
 
@@ -377,7 +355,7 @@ Bij de toepassing van [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028
 
 Zolang de op 19 november 2002 aan de Staten aangeboden ontwerplandsverordening houdende vaststelling van een Nieuw wetboek van Burgerlijk Rechtsvordering (Zitting 2002-2003-2709 (E-110)) niet tot landsverordening is verheven en in werking is getreden, worden aandelen op naam in een naamloze vennootschap of besloten vennootschap geacht zich onder de vennootschap te bevinden, ongeacht of aandeelbewijzen zijn uitgegeven.
 
-## Titel 3. Overgangsbepalingen in verband met [Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745)
+### Titel 3. Overgangsbepalingen in verband met Boek 3
 
 ##### Artikel 38
 
@@ -543,7 +521,7 @@ Vanaf een jaar na het tijdstip van het in werking treden der wet gelden de [arti
 
 Artikel 1992 van het Burgerlijk Wetboek, zoals dat tevoren gold, blijft van toepassing indien na het in werking treden van de wet een beroep wordt gedaan op verjaring ingevolge één van de tevoren geldende artikelen 1987 tot en met 1990 van het Burgerlijk Wetboek.
 
-## Titel 5. Overgangsbepalingen in verband met [Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028748)
+### Titel 5. Overgangsbepalingen in verband met Boek 5
 
 ##### Artikel 100
 
@@ -651,7 +629,7 @@ De [artikelen 114 tot en met 117](https://wetten.overheid.nl/jci1.3:c:BWBR002846
 
 4. Op een splitsing die heeft plaatsgevonden voor het tijdstip van inwerkingtreding van het eerste tot en met derde lid van [artikel 139 van Boek 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=139), zoals deze leden zijn komen te luiden bij de Landsverordening regeling gebruik in deeltijd van onroerende zaken en aanpassing appartementsrecht, zijn deze leden gedurende drie jaren na dat tijdstip niet van toepassing.
 
-## Titel 6. Overgangsbepalingen in verband met [Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749)
+### Titel 6. Overgangsbepalingen in verband met Boek 6
 
 ##### Artikel 121
 
@@ -747,7 +725,7 @@ Van het tijdstip van het in werking treden van de wet af is [artikel 257 van Boe
 
 In geval van een vordering tot wijziging of ontbinding van een overeenkomst als bedoeld in [artikel 258 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=258) houdt de rechter bij de toepassing van dat artikel geen rekening met een wijziging in de omstandigheden die zich vóór het in werking treden van de wet heeft voorgedaan.
 
-## Titel 7. Overgangsbepalingen in verband met [Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028751)
+### Titel 7. Overgangsbepalingen in verband met Boek 7
 
 ##### Artikel 143
 
@@ -789,7 +767,7 @@ De bepalingen van [titel 7A van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 [Artikel 904, eerste lid, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&artikel=904) is niet van toepassing op een beslissing die vóór zijn in werking treden is tot stand gekomen. Het tweede lid van dat artikel geldt mede voor een beslissing als in de vorige volzin is bedoeld, indien een partij overeenkomstig de maatstaven van het tevoren geldende recht daaraan niet gebonden wordt geacht.
 
-## Titel 8. Overgangsbepalingen in verband met [Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753)
+### Titel 8. Overgangsbepalingen in verband met Boek 8
 
 ##### Artikel 170
 
@@ -813,6 +791,10 @@ Op de overeenkomsten van vervoer en die tot het doen vervoeren van goederen, als
 
 Op een aanvaring welke heeft plaats gehad vóór het in werking treden van [titel 6, afdeling 1, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&afdeling=1) zijn de bepalingen van die afdeling niet van toepassing. Hetzelfde geldt voor schade die door een schip vóór het in werking treden van die afdeling is gemaakt.
 
+##### Artikel 174a
+
+De wet tot wijziging van Boek 8 van het Burgerlijk Wetboek, Boek 8 van het Burgerlijk Wetboek BES en de Wet bestrijding maritieme ongevallen in verband met de schrapping van de beperking van aansprakelijkheid voor vorderingen inzake wrakopruiming is slechts van toepassing ten aanzien van aansprakelijkheid voortvloeiende uit een maritiem ongeval dat zich na de inwerkingtreding van die wet heeft voorgedaan.
+
 ##### Artikel 175
 
 Op een hulpverlening die vóór het in werking treden van [titel 6, afdeling 2, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&afdeling=2) is aangevangen, zijn de bepalingen van die afdeling niet van toepassing, met uitzondering van het bepaalde in [artikel 571 van dat Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=571); de in dit artikel genoemde termijn wordt alsdan bepaald met inachtneming van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=1&artikel=8&z=2019-07-01&g=2019-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&titeldeel=3&artikel=49&z=2019-07-01&g=2019-07-01) van deze wet.
@@ -829,14 +811,8 @@ Op aansprakelijkheid die voortvloeit uit een voorval dat vóór het in werking t
 
 Op de verjaring en het verval van een rechtsvordering waarvan de termijn werd geregeld door het [Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278), zijn de bepalingen van[titel 20, afdelingen 2 en volgende, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&afdeling=2) niet van toepassing, indien die termijn vóór het in werking treden van dat [Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028753) reeds was aangevangen.
 
-## Titel 9. Slotbepaling
+### Titel 9. Slotbepaling
 
 ##### Artikel 179
 
 Deze wet wordt aangehaald als: Overgangswet nieuw Burgerlijk Wetboek BES.
-
-##### Artikel 174a
-
-De wet tot wijziging van Boek 8 van het Burgerlijk Wetboek, Boek 8 van het Burgerlijk Wetboek BES en de Wet bestrijding maritieme ongevallen in verband met de schrapping van de beperking van aansprakelijkheid voor vorderingen inzake wrakopruiming is slechts van toepassing ten aanzien van aansprakelijkheid voortvloeiende uit een maritiem ongeval dat zich na de inwerkingtreding van die wet heeft voorgedaan.
-
-## Titel 9. Slotbepaling

@@ -1,38 +1,16 @@
 ---
 title: "Loodsenwet 2001 BES"
 identifier: "BWBR0028220"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028220"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10709753"
-version_id: "17673252"
-internal_id: "C24838791"
-label_id: "10684604"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028220/2010-10-10/0"
-intitule_bron: "Stb.2010-623"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-09"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-623"
-original_signed_date: "2010-09-09"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-623"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028220&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028220&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-09"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028220"
+opgehaald: 2026-08-15
 ---
+
 # Loodsenwet 2001 BES
 
 ### Hoofdstuk I. Algemene Bepalingen
@@ -41,23 +19,23 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Verkeer en Waterstaat.
+- a. *Onze Minister:* Onze Minister van Verkeer en Waterstaat.
 
-- b. **loods:** degene die krachtens deze wet bevoegd is als loods op te treden;
+- b. *loods:* degene die krachtens deze wet bevoegd is als loods op te treden;
 
-- c. **loodsplichtige scheepvaartwegen:** de scheepvaartwegen waarop krachtens deze wet de kapitein van een schip verplicht is gebruik te maken van de diensten van een loods;
+- c. *loodsplichtige scheepvaartwegen:* de scheepvaartwegen waarop krachtens deze wet de kapitein van een schip verplicht is gebruik te maken van de diensten van een loods;
 
-- d. **schip:** een schip als bedoeld in [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), alsmede elk vaartuig, met inbegrip van een vaartuig zonder waterverplaatsing dat feitelijk wordt gebruikt of geschikt is om te worden gebruikt als middel tot verplaatsing te water, met inbegrip van een watervliegtuig, een draagvleugelboot, een luchtkussenvoertuig, een drijvend platform, een verplaatsbare boorinstallatie, een baggermolen, een drijvende kraan, een ponton en elk ander drijvend werktuig, drijvend voorwerp of drijvende inrichting van soortgelijke aard, gedurende de tijd dat het drijft, dan wel een samenstel van schepen of van een of meer schepen met een of meer andere vaartuigen, waarvan ten minste één schip deel uitmaakt dat ter voortbeweging gebruik maakt van zijn motor en dat dient voor het voortbewegen of het sturen van het samenstel;
+- d. *schip:* een schip als bedoeld in [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), alsmede elk vaartuig, met inbegrip van een vaartuig zonder waterverplaatsing dat feitelijk wordt gebruikt of geschikt is om te worden gebruikt als middel tot verplaatsing te water, met inbegrip van een watervliegtuig, een draagvleugelboot, een luchtkussenvoertuig, een drijvend platform, een verplaatsbare boorinstallatie, een baggermolen, een drijvende kraan, een ponton en elk ander drijvend werktuig, drijvend voorwerp of drijvende inrichting van soortgelijke aard, gedurende de tijd dat het drijft, dan wel een samenstel van schepen of van een of meer schepen met een of meer andere vaartuigen, waarvan ten minste één schip deel uitmaakt dat ter voortbeweging gebruik maakt van zijn motor en dat dient voor het voortbewegen of het sturen van het samenstel;
 
-- e. **kapitein:** degene die is belast met het gezag over een schip;
+- e. *kapitein:* degene die is belast met het gezag over een schip;
 
-- f. **scheepsbeheerder:** degene die het beheer over een schip heeft, hetzij hij eigenaar, reder of boekhouder van de rederij van het schip is, hetzij het schip hem in gebruik is gegeven.
+- f. *scheepsbeheerder:* degene die het beheer over een schip heeft, hetzij hij eigenaar, reder of boekhouder van de rederij van het schip is, hetzij het schip hem in gebruik is gegeven.
 
-- g. **haven:** een binnenwater of een gedeelte daarvan dat bij eilandsverordening of eilandsbesluit, houdende algemene maatregelen, als haven is aangewezen;
+- g. *haven:* een binnenwater of een gedeelte daarvan dat bij eilandsverordening of eilandsbesluit, houdende algemene maatregelen, als haven is aangewezen;
 
-- h. **bestuurscollege:** het bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba;.
+- h. *bestuurscollege:* het bestuurscollege van het openbaar lichaam Bonaire, Sint Eustatius of Saba;.
 
-- i. **bruto-inhoud van een schip:** de op de zee- of meetbrief uitgedrukte maat of bij gebreke daarvan enig ander document waaruit de bruto inhoud blijkt.
+- i. *bruto-inhoud van een schip:* de op de zee- of meetbrief uitgedrukte maat of bij gebreke daarvan enig ander document waaruit de bruto inhoud blijkt.
 
 2. Een kapitein van een schip die daarmede een haven van Bonaire, Sint Eustatius of Saba wil binnenkomen of uitgaan of daarin wil verhalen, is verplicht zich te bedienen van een loods wanneer deze door een bestuurscollege daartoe is ter beschikking gesteld. Tevens kunnen scheepvaartwegen in de territoriale zee of in de exclusieve economische zone, welke niet voeren van of naar bedoelde havens, bij eilandsverordening als loodsplichtige scheepvaartwegen worden aangewezen.
 
@@ -105,9 +83,9 @@ De kapitein is verplicht om tijdens de vaart van het schip op loodsplichtige sch
 
 - c.
 
-- 1°. schepen met een bruto inhoud van 300 ton of daarbeneden van petroleummaatschappijen of bij deze maatschappijen in gebruik, wanneer deze schepen dezelfde haven uit- en invaren teneinde binnen drie zeemijlen buiten die haven werkzaamheden te verrichten in verband met het bedrijf dier maatschappijen en dan terug te keren;
+   - 1°. schepen met een bruto inhoud van 300 ton of daarbeneden van petroleummaatschappijen of bij deze maatschappijen in gebruik, wanneer deze schepen dezelfde haven uit- en invaren teneinde binnen drie zeemijlen buiten die haven werkzaamheden te verrichten in verband met het bedrijf dier maatschappijen en dan terug te keren;
 
-- 2°. schepen met een bruto inhoud van 300 ton of daarbeneden van petroleummaatschappijen of bij deze maatschappijen in gebruik, wanneer de havens van hetzelfde eiland worden in- en uitgevaren om materialen, gereedschappen en werktuigen of baggerspecie langs de kust te vervoeren of teneinde in een andere haven van hetzelfde eiland werkzaamheden te verrichten in verband met het bedrijf dier maatschappijen;een en ander voor zover deze schepen niet meer dan één vaartuig op sleeptouw hebben of niet meer dan twee vaartuigen op sleeptouw hebben met een gezamenlijke inhoud van ten hoogste 135 ton;
+   - 2°. schepen met een bruto inhoud van 300 ton of daarbeneden van petroleummaatschappijen of bij deze maatschappijen in gebruik, wanneer de havens van hetzelfde eiland worden in- en uitgevaren om materialen, gereedschappen en werktuigen of baggerspecie langs de kust te vervoeren of teneinde in een andere haven van hetzelfde eiland werkzaamheden te verrichten in verband met het bedrijf dier maatschappijen;een en ander voor zover deze schepen niet meer dan één vaartuig op sleeptouw hebben of niet meer dan twee vaartuigen op sleeptouw hebben met een gezamenlijke inhoud van ten hoogste 135 ton;
 
 - d. schepen die hun thuishaven hebben op Bonaire met een bruto-inhoud van meer dan 50, doch minder dan 250 ton, mits door het bestuurscollege van Bonaire voor het binnenvaren van, uitvaren van, of verhalen in die thuishaven een vergunning is afgegeven.
 
@@ -149,9 +127,9 @@ Bij eilandsverordening, kan worden bepaald in welke gevallen en omstandigheden, 
 
 - c. de kapitein worden verplicht ten behoeve van het loodsen aanwijzingen op te volgen met betrekking tot:
 
-- 1°. het gebruik van meer dan één loods;
+   - 1°. het gebruik van meer dan één loods;
 
-- 2°. het gebruik maken van de diensten van een loods aan boord van het schip, dan wel vanaf de wal of vanaf een ander schip.
+   - 2°. het gebruik maken van de diensten van een loods aan boord van het schip, dan wel vanaf de wal of vanaf een ander schip.
 
 ##### Artikel 8
 

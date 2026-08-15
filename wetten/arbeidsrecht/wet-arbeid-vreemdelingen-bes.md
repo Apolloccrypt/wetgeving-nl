@@ -1,38 +1,16 @@
 ---
 title: "Wet arbeid vreemdelingen BES"
 identifier: "BWBR0028437"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028437"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10784103"
-version_id: "17761632"
-internal_id: "C24800721"
-label_id: "10758994"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028437/2010-10-10/0"
-intitule_bron: "Stb.2010-598"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-598"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-598"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028437&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028437&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028437"
+opgehaald: 2026-08-15
 ---
+
 # Wet arbeid vreemdelingen BES
 
 ### Hoofdstuk I. Begripsbepalingen
@@ -41,21 +19,21 @@ entry_into_force: "2010-10-10"
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **werkgever:**
+- b. *werkgever:*
 
-- 1. degene die in de uitoefening van een beroep of bedrijf een ander arbeid laat verrichten; of
+   - 1. degene die in de uitoefening van een beroep of bedrijf een ander arbeid laat verrichten; of
 
-- 2. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten;
+   - 2. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten;
 
-- c. **tewerkstellingsvergunning:** de vergunning welke de werkgever moet aanvragen bij Onze Minister voor het laten verrichten van arbeid door een vreemdeling;
+- c. *tewerkstellingsvergunning:* de vergunning welke de werkgever moet aanvragen bij Onze Minister voor het laten verrichten van arbeid door een vreemdeling;
 
-- d. **verblijfsvergunning:** de verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, bedoeld in [artikel 6, eerste lid, van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6);
+- d. *verblijfsvergunning:* de verblijfsvergunning voor bepaalde tijd of voor onbepaalde tijd, bedoeld in [artikel 6, eerste lid, van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6);
 
-- e. **vreemdeling:** een persoon die op grond van de bepalingen van de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) hetzij van rechtswege toelating heeft tot verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba, hetzij voor toelating een verblijfsvergunning behoeft;
+- e. *vreemdeling:* een persoon die op grond van de bepalingen van de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) hetzij van rechtswege toelating heeft tot verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba, hetzij voor toelating een verblijfsvergunning behoeft;
 
-- f. **lokale arbeidsmarkt:** de arbeidsmarkten van de openbare lichamen Bonaire, Sint Eustatius en Saba samen.
+- f. *lokale arbeidsmarkt:* de arbeidsmarkten van de openbare lichamen Bonaire, Sint Eustatius en Saba samen.
 
 ### Hoofdstuk II. De Tewerkstellingsvergunning
 

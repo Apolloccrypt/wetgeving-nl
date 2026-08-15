@@ -1,38 +1,16 @@
 ---
 title: "Besluit ter uitvoering van artikel 40 Begrafeniswet BES"
 identifier: "BWBR0028381"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028381"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10766163"
-version_id: "17741512"
-internal_id: "C24784121"
-label_id: "10740774"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028381/2010-10-10/0"
-intitule_bron: "Stb.2010-423"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-423"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-423"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028381&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028381&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028381"
+opgehaald: 2026-08-15
 ---
+
 # Besluit ter uitvoering van artikel 40 Begrafeniswet BES
 
 ##### Artikel 1
@@ -45,11 +23,11 @@ entry_into_force: "2010-10-10"
 
 - c. bij aankomst van het lijk worden overgelegd of bij vervoer uit de openbare lichamen Bonaire, Sint Eustatius of Saba ten behoeve van de autoriteiten in het land of eiland van bestemming worden afgegeven:
 
-- 1°. een geneeskundige verklaring betreffende de overledene afgegeven door de daartoe bevoegde geneeskundige in het land of eiland waar het overlijden plaatsvond, of een uittreksel van de desbetreffende akte van overlijden of een daarmee overeenstemmend document;
+   - 1°. een geneeskundige verklaring betreffende de overledene afgegeven door de daartoe bevoegde geneeskundige in het land of eiland waar het overlijden plaatsvond, of een uittreksel van de desbetreffende akte van overlijden of een daarmee overeenstemmend document;
 
-- 2°. een verklaring afgegeven door de persoon die het lijk heeft gebalsemd of anderszins heeft geconserveerd met vermelding van de wijze waarop het balsemen of de conservering heeft plaatsgehad;
+   - 2°. een verklaring afgegeven door de persoon die het lijk heeft gebalsemd of anderszins heeft geconserveerd met vermelding van de wijze waarop het balsemen of de conservering heeft plaatsgehad;
 
-- 3°. een verklaring afgegeven door de daartoe bevoegde autoriteit van het land of eiland waar het overlijden plaatsvond, behelzende de wijze waarop en de route waarlangs het vervoer zal plaatsvinden.
+   - 3°. een verklaring afgegeven door de daartoe bevoegde autoriteit van het land of eiland waar het overlijden plaatsvond, behelzende de wijze waarop en de route waarlangs het vervoer zal plaatsvinden.
 
 2. De geneeskundige verklaring als bedoeld in het eerste lid onder c, 1° moet tenminste bevatten de naam, de voornamen en de plaats en datum van geboorte van de overledene of de leeftijd, de datum en plaats van overlijden, alsmede de doodsoorzaak, dan wel een aanduiding dat de dood het gevolg was van natuurlijke oorzaken en, mocht zulks niet het geval zijn, een korte omschrijving van de omstandigheden die tot de dood hebben geleid, dan wel de verklaring dat de dood het gevolg was van een niet besmettelijke ziekte of, in geval sprake was van een besmettelijke ziekte, vermelding van de aard van de besmettelijke ziekte.
 

@@ -1,50 +1,18 @@
 ---
 title: "Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028063"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028063"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10640333"
-version_id: "18222242"
-internal_id: "C25355191"
-label_id: "10615774"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028063/2025-01-01/0"
-intitule_bron: "Stb.2010-346"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-17"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-829"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-24"
-original_effect: "structuurwijziging"
-original_dossier: "32368"
-original_url_id: "stb-2010-829"
-entry_into_force_date: "2010-12-16"
-entry_into_force_dossier: "32368"
-jci_1_3: "jci1.3:c:BWBR0028063&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0028063&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-12-16"
-entry_into_force: "2010-12-16"
+publicatiedatum: 2010-12-16
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0028063"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba overeengekomen is dat zij als openbare lichamen een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en het in verband hiermee wenselijk is wettelijke regels te stellen over het in deze openbare lichamen toepasselijke recht, alsmede enkele andere voorzieningen te treffen van overgangsrechtelijke aard;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,17 +20,17 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
-- a. **tijdstip van transitie:** het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- a. *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- b. **eilandgebieden:** de eilandgebieden Bonaire, Sint Eustatius en Saba, genoemd in artikel 1, onderdeel a, d en c, van de Staatsregeling van de Nederlandse Antillen, zoals die tot het tijdstip van transitie gold;
+- b. *eilandgebieden:* de eilandgebieden Bonaire, Sint Eustatius en Saba, genoemd in artikel 1, onderdeel a, d en c, van de Staatsregeling van de Nederlandse Antillen, zoals die tot het tijdstip van transitie gold;
 
-- c. **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- c. *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk 2. Het toepasselijke recht
 
 ##### Artikel 2
 
-1. In de openbare lichamen zijn de doorlopende teksten van de in de bijlage bij deze wet genoemde Nederlands-Antilliaanse regelingen, zoals deze bij besluit van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010 zijn vastgesteld en ter inzage zijn gelegd bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, als wet, algemene maatregel van bestuur of ministeriële regeling van toepassing overeenkomstig de status die de bijlage vermeldt. De regelingen worden in hun aldus verkregen status aangehaald op de wijze die de bijlage vermeldt.
+1. In de openbare lichamen zijn de doorlopende teksten van de in de [bijlage](https://wetten.overheid.nl/BWBR0028063) bij deze wet genoemde Nederlands-Antilliaanse regelingen, zoals deze bij besluit van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010 zijn vastgesteld en ter inzage zijn gelegd bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, als wet, algemene maatregel van bestuur of ministeriële regeling van toepassing overeenkomstig de status die de bijlage vermeldt. De regelingen worden in hun aldus verkregen status aangehaald op de wijze die de bijlage vermeldt.
 
 2. Andere wettelijke regelingen dan die, bedoeld in het eerste lid, zijn in de openbare lichamen alleen van toepassing voor zover:
 
@@ -72,7 +40,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 3. Het tweede lid laat onverlet de toepasselijkheid in de openbare lichamen van wettelijke regelingen die buiten het Europese deel van Nederland werking kunnen hebben.
 
-4. Voorzieningen van overgangsrechtelijke aard die zijn vastgesteld ten aanzien van de in de bijlage genoemde regelingen blijven van toepassing, tenzij bij wettelijk voorschrift anders is bepaald.
+4. Voorzieningen van overgangsrechtelijke aard die zijn vastgesteld ten aanzien van de in de [bijlage](https://wetten.overheid.nl/BWBR0028063) genoemde regelingen blijven van toepassing, tenzij bij wettelijk voorschrift anders is bepaald.
 
 ##### Artikel 3
 
@@ -100,11 +68,119 @@ Indien in een wettelijk voorschrift dat niet ingevolge [artikel 2, eerste of twe
 
 ### Hoofdstuk 2a. Publiekrechtelijke rechtsgevolgen huwelijk en geregistreerd partnerschap
 
+##### Artikel 4a
+
+In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van [Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) in een van de openbare lichamen.
+
+### Hoofdstuk 2b. De taal in het bestuurlijk verkeer
+
+#### § 1. Algemene bepalingen
+
+##### Artikel 4b
+
+1. Dit hoofdstuk is van toepassing op:
+
+- a. de eilandsraden en de bestuursorganen van de openbare lichamen;
+
+- b. de Rijksvertegenwoordiger;
+
+- c. personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid.
+
+2. In dit hoofdstuk worden onder «de organen van de openbare lichamen» en «de Rijksvertegenwoordiger» mede begrepen de onder hun onderscheidenlijk zijn verantwoordelijkheid werkzame personen.
+
+##### Artikel 4c
+
+1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen gebruiken de Nederlandse taal, tenzij bij of krachtens dit hoofdstuk anders is bepaald.
+
+2. Zij kunnen een andere taal gebruiken dan bij of krachtens dit hoofdstuk is bepaald, indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.
+
+#### § 2. Het bestuurlijk verkeer tussen de overheid en particulieren
+
+##### Artikel 4d
+
+1. Een ieder kan de Nederlandse taal gebruiken in het verkeer met de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen.
+
+2. Een ieder kan:
+
+- a. het Papiaments gebruiken in het verkeer met de organen van het openbaar lichaam Bonaire;
+
+- b. het Engels gebruiken in het verkeer met de organen van het openbaar lichaam Sint Eustatius of Saba.
+
+3. Een ieder kan het Papiaments ofwel het Engels gebruiken in het verkeer met de Rijksvertegenwoordiger en met personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid.
+
+4. Het tweede en derde lid gelden niet, indien het orgaan of de persoon heeft verzocht de Nederlandse taal te gebruiken op de grond, dat het gebruik van het Papiaments of het Engels tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
+
+##### Artikel 4e
+
+1. De organen van het openbaar lichaam Bonaire kunnen in het mondeling verkeer met een ieder het Papiaments gebruiken.
+
+2. De organen van het openbaar lichaam Sint Eustatius of Saba kunnen in het mondeling verkeer met een ieder het Engels gebruiken.
+
+3. De Rijksvertegenwoordiger en personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid kunnen in het mondeling verkeer met een ieder het Papiaments en het Engels gebruiken indien de wederpartij hierom heeft verzocht.
+
+4. Het eerste en tweede lid gelden niet, indien de wederpartij heeft verzocht de Nederlandse taal te gebruiken op de grond, dat het gebruik van het Papiaments of het Engels tot een onbevredigend verloop van het mondeling verkeer zou leiden.
+
+#### § 3. Het bestuurlijk verkeer bij de overheden en tussen hen onderling
+
+##### Artikel 4f
+
+1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen maken in hun onderling schriftelijk verkeer en in het schriftelijke verkeer met in het Europese deel van Nederland gevestigde organen alleen gebruik van het Nederlands.
+
+2. Indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad kunnen in afwijking van het eerste lid:
+
+- a. de organen van het openbare lichaam Bonaire in hun onderling schriftelijk verkeer het Papiaments gebruiken;
+
+- b. de organen van de openbare lichamen Sint Eustatius of Saba in hun onderling schriftelijk verkeer het Engels gebruiken.
+
+3. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen kunnen in hun onderling mondeling verkeer alleen gebruik van het Papiaments ofwel het Engels maken indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.
+
+##### Artikel 4g
+
+1. Een ieder kan in vergaderingen van de eilandsraad van het openbaar lichaam Bonaire dan wel van het openbaar lichaam Sint Eustatius of Saba het Papiaments onderscheidenlijk het Engels gebruiken.
+
+2. Hetgeen in het Papiaments dan wel in het Engels is gezegd, wordt in het Papiaments onderscheidenlijk het Engels genotuleerd.
+
+#### § 4. Bijzondere bepalingen inzake schriftelijke stukken van de overheid
+
+##### Artikel 4h
+
+Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=3&artikel=4f&z=2025-01-01&g=2025-01-01) kan:
+
+- a. de eilandsraad van het openbaar lichaam Bonaire dan wel van het openbaar lichaam Sint Eustatius of Saba bij eilandsverordening regels stellen over het gebruik van het Papiaments onderscheidenlijk het Engels in schriftelijke stukken;
+
+- b. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor de Rijksvertegenwoordiger regels stellen over het gebruik van het Papiaments ofwel het Engels in schriftelijke stukken;
+
+- c. Onze Minister wie het aangaat voor personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid, regels stellen over het gebruik van het Papiaments ofwel het Engels in schriftelijke stukken.
+
+##### Artikel 4i
+
+1. Indien een schriftelijk stuk in het Papiaments ofwel het Engels is opgesteld, verstrekken de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen daarvan op verzoek van een natuurlijk persoon of rechtspersoon die ingezetene is van of gevestigd is in de openbare lichamen een vertaling in de Nederlandse taal, tenzij het verstrekken tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
+
+2. Het orgaan of de persoon kan voor het vertalen een vergoeding van ten hoogste de kosten verlangen.
+
+3. Voor het vertalen kan geen vergoeding worden verlangd, indien het schriftelijk stuk:
+
+- a. de notulen van de vergadering van de eilandsraad inhoudt, en het belang van de verzoeker rechtstreeks bij het genotuleerde is betrokken, dan wel de notulen van de vergadering van de eilandsraad inhoudt, en de vaststelling van een eilandsverordening of beleidsregels betreft, of
+
+- b. een besluit of andere handeling inhoudt waarbij de verzoeker belanghebbende is.
+
+##### Artikel 4j
+
+1. Een schriftelijk stuk in het Papiaments of in het Engels wordt tevens in de Nederlandse taal opgesteld, indien het:
+
+- a. algemeen verbindende voorschriften of beleidsregels inhoudt, of
+
+- b. is opgesteld ter directe voorbereiding van de onder a genoemde voorschriften of regels.
+
+2. De bekendmaking, mededeling of terinzagelegging van een schriftelijk stuk als bedoeld in het eerste lid geschiedt in ieder geval ook in de Nederlandse taal, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
+
+### Hoofdstuk 3. Vonnissen en akten
+
 ##### Artikel 5
 
 Vonnissen, door de rechter in het Europese deel van Nederland of in de openbare lichamen gewezen, en bevelen door hem uitgevaardigd, alsmede grossen van authentieke akten, aldaar verleden, kunnen overal in Nederland worden ten uitvoer gelegd, met inachtneming van de wettelijke bepalingen die van kracht zijn op de plaats waar de tenuitvoerlegging plaatsvindt. Bij algemene maatregel van bestuur kunnen dienaangaande en over de erkenning van vonnissen, bevelen en authentieke akten van andere landen nadere regels worden gegeven.
 
-### Hoofdstuk 2b. De taal in het bestuurlijk verkeer
+### Hoofdstuk 4. Algemeen overgangsrecht
 
 ##### Artikel 6
 
@@ -186,15 +262,15 @@ Indien in een koninklijk besluit als bedoeld in [artikel 15](https://wetten.over
 
 Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=5&artikel=15&z=2025-01-01&g=2025-01-01) in werking gestelde artikelen.
 
-### Hoofdstuk 3. Vonnissen en akten
+### Hoofdstuk 6. Delegatiegrondslagen
 
 #### § 1. Minister voor Jeugd en Gezin
 
 ##### Artikel 18.1
 
-Vervallen
+*Vervallen*
 
-#### § 1. Minister voor Jeugd en Gezin
+#### § 2. Minister van Landbouw, Natuur en Voedselkwaliteit
 
 ##### Artikel 18.2.1
 
@@ -292,21 +368,21 @@ Vervallen
 
 Voor de toepassing van de [artikelen 18.2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4b&z=2025-01-01&g=2025-01-01), [18.2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4c&z=2025-01-01&g=2025-01-01), [18.2.4d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4d&z=2025-01-01&g=2025-01-01) en [18.2.4e](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4e&z=2025-01-01&g=2025-01-01) wordt verstaan onder:
 
-- a. **«directeur»:** directeur van de Plantenziektenkundige Dienst alsmede de ambtenaar die hem vervangt;
+- a. *«directeur»:* directeur van de Plantenziektenkundige Dienst alsmede de ambtenaar die hem vervangt;
 
-- b. **«schadelijke organismen»:** voor planten of plantaardige producten schadelijke organismen van dierlijke of plantaardige aard, alsmede virussen, mycoplasma’s, viroïden, rickettsia’s of andere ziekteverwekkers;
+- b. *«schadelijke organismen»:* voor planten of plantaardige producten schadelijke organismen van dierlijke of plantaardige aard, alsmede virussen, mycoplasma’s, viroïden, rickettsia’s of andere ziekteverwekkers;
 
-- c. **«planten»:** levende planten en levende delen van planten, met inbegrip van verse vruchten en zaden;
+- c. *«planten»:* levende planten en levende delen van planten, met inbegrip van verse vruchten en zaden;
 
-- d. **«plantaardige producten»:** voortbrengselen van plantaardige oorsprong die niet verwerkt zijn of die slechts een eenvoudige bewerking hebben ondergaan, voor zover het geen planten betreft;
+- d. *«plantaardige producten»:* voortbrengselen van plantaardige oorsprong die niet verwerkt zijn of die slechts een eenvoudige bewerking hebben ondergaan, voor zover het geen planten betreft;
 
-- e. **«verhandelen»:** verkopen, te koop aanbieden of afleveren alsmede met het oog daarop voorhanden of in voorraad hebben;
+- e. *«verhandelen»:* verkopen, te koop aanbieden of afleveren alsmede met het oog daarop voorhanden of in voorraad hebben;
 
-- f. **«invoeren»:** brengen binnen de eilandgebieden;
+- f. *«invoeren»:* brengen binnen de eilandgebieden;
 
-- g. **«uitvoeren»:** brengen buiten de eilandgebieden;
+- g. *«uitvoeren»:* brengen buiten de eilandgebieden;
 
-- h. **«telen»:** brengen of houden van planten in grond of in een ander cultuurmedium.
+- h. *«telen»:* brengen of houden van planten in grond of in een ander cultuurmedium.
 
 ##### Artikel 18.2.4b
 
@@ -452,7 +528,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 9. Het ontwerp van een op grond van het eerste, tweede, vierde of vijfde lid vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-#### § 3. Minister van Sociale Zaken en Werkgelegenheid
+#### § 4. Minister van Volksgezondheid, Welzijn en Sport
 
 ##### Artikel 18.4.1
 
@@ -486,15 +562,15 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 - a. zorg:
 
-- 1°. zorg of dienst als omschreven bij of krachtens het Besluit zorgverzekering BES;
+   - 1°. zorg of dienst als omschreven bij of krachtens het Besluit zorgverzekering BES;
 
-- 2°. handelingen op het gebied van de individuele gezondheidszorg als bedoeld in [artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) en voor zover die handelingen niet zijn begrepen onder 1°;
+   - 2°. handelingen op het gebied van de individuele gezondheidszorg als bedoeld in [artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) en voor zover die handelingen niet zijn begrepen onder 1°;
 
 - b. zorgaanbieder:
 
-- 1°. de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent;
+   - 1°. de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent;
 
-- 2°. de natuurlijke persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
+   - 2°. de natuurlijke persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
@@ -546,6 +622,10 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
+##### Artikel 18.4.5a
+
+Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of de veiligheidssituatie, in geval van een redelijk vermoeden van huiselijk geweld of kindermishandeling, te beoordelen, kunnen aan een AMHK als bedoeld in artikel 1.1 van het Besluit maatschappelijk ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES deze inlichtingen verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep.
+
 ##### Artikel 18.4.6
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de publieke gezondheidszorg.
@@ -567,6 +647,118 @@ Ter zake van de infectieziektebestrijding kunnen bij of krachtens algemene maatr
 - e. de maatregelen met betrekking tot toelating tot of de onttrekking aan het vrije verkeer van personen en goederen in havens en luchthavens;
 
 - f. het onderwerpen van personen aan de maatregelen van isolatie en quarantaine;
+
+##### Artikel 18.4.7a
+
+Voor de toepassing van de [artikelen 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01), [18.4.7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), [18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01), [18.4.7g](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7g&z=2025-01-01&g=2025-01-01), [18.4.7h](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7h&z=2025-01-01&g=2025-01-01) en [18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) wordt verstaan onder:
+
+- – *aanbieder van jeugdzorg:* de natuurlijke persoon, de rechtspersoon of een samenwerkingsverband dat op Bonaire, Sint Eustatius of Saba daartoe door het Rijk gefinancierde jeugdzorg verleent;
+
+- – *calamiteit:* niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van de jeugdzorg of (gezins)voogdij en die tot een ernstig schadelijk gevolg voor of de dood van een jeugdige of een ouder heeft geleid;
+
+- – *dossier:* geheel van schriftelijke of elektronisch vastgelegde gegevens met betrekking tot de verlening van door het rijk gefinancierde jeugdzorg of (gezins)voogdij aan een jeugdige of ouder;
+
+- – *geweld bij de verlening van jeugdzorg of de uitvoering van (gezins)voogdij:* lichamelijk, geestelijk of seksueel geweld jegens een jeugdige of een ouder, of bedreiging daarmee, door iemand die werkzaam is voor een aanbieder van jeugdzorg of een (gezins)voogdij-instelling, of door een andere jeugdige of ouder met wie de jeugdige of ouder gedurende het etmaal of een dagdeel bij de aanbieder van jeugdzorg of (gezins)voogdij- instelling verblijft;
+
+- – *(gezins)voogdij-instelling:* instelling die gezinsvoogdij verleent en voogdij uitoefent;
+
+- – *gezinsvoogdij:* de uitvoering van een door de rechter opgelegde maatregel tot ondertoezichtstelling op grond van [artikel 1:254 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=254);
+
+- – *jeugdige:* een persoon die:
+
+   - 1°. de leeftijd van achttien jaar nog niet heeft bereikt, of
+
+   - 2°. de leeftijd van drieëntwintig jaren nog niet heeft bereikt en voor wie:
+
+      - – voortzetting van jeugdzorg, die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, noodzakelijk is, of voor wie vóór het bereiken van de leeftijd van achttien jaar is gebleken dat jeugdzorg noodzakelijk is, of
+
+      - – na beëindiging van jeugdzorg die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, binnen een termijn van een half jaar hervatting van jeugdzorg noodzakelijk is;
+
+- – *jeugdzorg:* ondersteuning van en hulp aan jeugdigen, hun ouders, stiefouders of anderen, die een jeugdige als behorende tot hun gezin verzorgen en opvoeden, bij opgroei- en opvoedingsproblemen of bij dreigende zodanige problemen;
+
+- – *Onze Ministers:* Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Veiligheid en Justitie;
+
+- – *voogdij:* de uitoefening van de voogdij na een door de rechter opgelegde maatregel tot ontheffing of ontzetting uit de ouderlijke macht op grond van de [artikelen 1:267](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=267) en [1:269 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=269);
+
+- – *voogdijraad:* de voogdijraad, bedoeld in [artikel 1:238 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238).
+
+##### Artikel 18.4.7b
+
+1. Een aanbieder van jeugdzorg verleent verantwoorde jeugdzorg. Onder verantwoorde jeugdzorg wordt verstaan: jeugdzorg van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
+
+2. De verlening van verantwoorde jeugdzorg omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van jeugdzorg.
+
+##### Artikel 18.4.7c
+
+1. De (gezins)voogdij-instelling voert verantwoorde gezinsvoogdij uit en oefent verantwoorde voogdij uit. Onder verantwoorde (gezins)voogdij wordt verstaan: (gezins)voogdij van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
+
+2. De verlening van verantwoorde (gezins)voogdij omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van (gezins)voogdij.
+
+##### Artikel 18.4.7d
+
+1. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling doen aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), onverwijld melding van:
+
+- a. iedere calamiteit die gedurende de verlening van jeugdzorg of gedurende de uitvoering van (gezins)voogdij heeft plaatsgevonden, en
+
+- b. geweld gedurende de verlening van jeugdzorg of de uitvoering van (gezins)voogdij.
+
+2. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens, die voor het onderzoeken van de melding en voor het onderzoeken van de kwaliteit van de jeugdzorg of (gezins)voogdij, verleend voor, tijdens en na de gemelde calamiteit of het gemelde geweld noodzakelijk zijn.
+
+3. Voor zover bij het onderzoeken van een melding gegevens van een jeugdige ter beschikking van de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), zijn gekomen, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is, geldt gelijke verplichting voor de betrokken ambtenaren van de Inspectie gezondheidszorg en jeugd.
+
+##### Artikel 18.4.7e
+
+1. De ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast:
+
+- – met het toezicht op de naleving van [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels;
+
+- – met het verrichten van onderzoeken naar de kwaliteit in algemene zin van de jeugdzorg en van de aanbieders van jeugdzorg alsmede, waar nodig, het aangeven en bevorderen van middelen ter verbetering daarvan;
+
+- – met het toezicht op de uitvoering door de voogdijraad van de in het [Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) aan de voogdijraad opgedragen taken, en
+
+- – met het verrichten van onderzoeken naar de kwaliteit in algemene zin van de (gezins)voogdij, de (gezins)voogdij-instellingen en de voogdijraad, alsmede waar nodig, het aangeven en bevorderen van middelen ter verbetering daarvan.
+
+2. De ambtenaren van de Inspectie gezondheidszorg en jeugd houden, in afwijking van het eerste lid, geen toezicht op de naleving van de taak, genoemd in [artikel 1:240, tweede lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=240).
+
+3. De ambtenaren, genoemd in het eerste lid, nemen bij de vervulling van hun taak de instructies van Onze Ministers in acht.
+
+4. De Inspectie gezondheidszorg en jeugd verricht haar taak uit eigen beweging of op verzoek van een van Onze Ministers.
+
+##### Artikel 18.4.7f
+
+1. Indien een van Onze Ministers van oordeel is dat [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) of de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de aanbieder van jeugdzorg, dan wel de (gezins)voogdij-instelling een aanwijzing geven.
+
+2. In de aanwijzing geeft de Minister die het aangaat met redenen omkleed aan welke maatregelen de aanbieder van jeugdzorg of de (gezins)voogdij-instelling moet nemen met het oog op de naleving van [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) of de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels.
+
+3. De aanwijzing bevat de termijn waarbinnen de aanbieder van jeugdzorg of de (gezins)voogdij-instelling aan de aanwijzing moet voldoen.
+
+4. Indien het nemen van maatregelen in verband met gevaar voor de veiligheid, gevaar voor de gezondheid of gevaar voor ernstige aantasting van overige belangen van de jeugdigen redelijkerwijs geen uitstel kan lijden, kunnen de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door een van Onze Ministers kan worden verlengd.
+
+5. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling zijn verplicht binnen de daarbij gestelde termijn aan de aanwijzing, onderscheidenlijk onmiddellijk aan het bevel te voldoen.
+
+6. Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
+
+##### Artikel 18.4.7g
+
+De Minister die het aangaat is bevoegd een last onder bestuursdwang op te leggen ter zake van een gedraging die in strijd is met een krachtens [artikel 18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01) gegeven aanwijzing of bevel.
+
+##### Artikel 18.4.7h
+
+1. De ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), verwerken gegevens ten behoeve van de taken bedoeld in [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en [18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
+
+2. De gegevens, bedoeld in het eerste lid, kunnen persoonsgegevens zijn, voor zover deze gegevens noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taken van de ambtenaren, bedoeld in [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en [18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
+
+3. Tot de persoonsgegevens kunnen gegevens behoren betreffende iemands etnische of culturele achtergrond, seksuele leven of gezondheid, alsmede strafrechtelijke gegevens.
+
+4. De gegevens, bedoeld in het eerste lid, worden niet verwerkt voor andere doeleinden dan genoemd in het tweede lid of daarmee verenigbare doeleinden en worden daar waar mogelijk verwerkt op een wijze die waarborgt dat zij niet tot een persoon herleidbaar zijn.
+
+5. De aan de in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op dossiers.
+
+6. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01). Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
+
+##### Artikel 18.4.7i
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent jeugdzorg in de openbare lichamen, met inbegrip van de toegang, het aanbod, de kwaliteit, de bekostiging en een bijdrage in de kosten van de jeugdzorg.
 
 ##### Artikel 18.4.8
 
@@ -608,15 +800,15 @@ Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt een r
 
 ##### Artikel 18.4.14
 
-Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.1&z=2025-01-01&g=2025-01-01), [18.4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.3&z=2025-01-01&g=2025-01-01), [18.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.5&z=2025-01-01&g=2025-01-01), of [18.4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.6&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
+Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.1&z=2025-01-01&g=2025-01-01), [18.4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.3&z=2025-01-01&g=2025-01-01), [18.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.5&z=2025-01-01&g=2025-01-01), of [18.4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.6&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 19
 
-1. De bijlage kan worden gewijzigd bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Ministers wie het mede aangaat, die in werking treedt op dezelfde dag waarop deze wet in werking treedt, met dien verstande dat toevoeging aan of verwijdering uit de bijlage van regelingen die de status van wet of algemene maatregel van bestuur verkrijgen of zouden verkrijgen slechts geschiedt, indien het ontbreken of vóórkomen van die regelingen in de bijlage zal leiden tot onaanvaardbare gevolgen.
+1. De [bijlage](https://wetten.overheid.nl/BWBR0028063) kan worden gewijzigd bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Ministers wie het mede aangaat, die in werking treedt op dezelfde dag waarop deze wet in werking treedt, met dien verstande dat toevoeging aan of verwijdering uit de bijlage van regelingen die de status van wet of algemene maatregel van bestuur verkrijgen of zouden verkrijgen slechts geschiedt, indien het ontbreken of vóórkomen van die regelingen in de bijlage zal leiden tot onaanvaardbare gevolgen.
 
-2. Bij de ministeriële regeling, bedoeld in het eerste lid, worden de doorlopende teksten vastgesteld van de regelingen die worden toegevoegd aan de bijlage.
+2. Bij de ministeriële regeling, bedoeld in het eerste lid, worden de doorlopende teksten vastgesteld van de regelingen die worden toegevoegd aan de [bijlage](https://wetten.overheid.nl/BWBR0028063).
 
 ##### Artikel 20
 
@@ -624,15 +816,15 @@ Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.o
 
 2. Regelingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), die de status van algemene maatregel van bestuur hebben verkregen, kunnen tot een jaar na het tijdstip van transitie bij regeling van Onze Minister wie het aangaat worden gewijzigd voor zover dit noodzakelijk is voor de toepassing van die regelingen of ter voorkoming van onaanvaardbare gevolgen.
 
-3. Wijzigingen van regelingen die ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) uit de bijlage zijn verwijderd, vervallen op het tijdstip van transitie van rechtswege.
+3. Wijzigingen van regelingen die ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) uit de [bijlage](https://wetten.overheid.nl/BWBR0028063) zijn verwijderd, vervallen op het tijdstip van transitie van rechtswege.
 
-4. Bij regeling van Onze Minister wie het aangaat kunnen wetten tot een jaar na het tijdstip van transitie worden gewijzigd voor zover dit noodzakelijk is in verband met de verwijdering uit of toevoeging aan de bijlage van regelingen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of in verband met wijziging van regelingen op grond van het eerste lid.
+4. Bij regeling van Onze Minister wie het aangaat kunnen wetten tot een jaar na het tijdstip van transitie worden gewijzigd voor zover dit noodzakelijk is in verband met de verwijdering uit of toevoeging aan de [bijlage](https://wetten.overheid.nl/BWBR0028063) van regelingen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of in verband met wijziging van regelingen op grond van het eerste lid.
 
-5. Bij regeling van Onze Minister wie het aangaat kunnen algemene maatregelen van bestuur tot een jaar na het tijdstip van transitie worden gewijzigd voor zover dit noodzakelijk is in verband met de verwijdering uit of toevoeging aan de bijlage van regelingen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of in verband met wijziging van regelingen op grond van het tweede lid.
+5. Bij regeling van Onze Minister wie het aangaat kunnen algemene maatregelen van bestuur tot een jaar na het tijdstip van transitie worden gewijzigd voor zover dit noodzakelijk is in verband met de verwijdering uit of toevoeging aan de [bijlage](https://wetten.overheid.nl/BWBR0028063) van regelingen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of in verband met wijziging van regelingen op grond van het tweede lid.
 
 ##### Artikel 21
 
-1. Na de inwerkingtreding van een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of [artikel 20, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=20&z=2025-01-01&g=2025-01-01), vastgestelde ministeriële regeling wordt zo spoedig mogelijk een voorstel van wet tot goedkeuring van de ministeriële regeling bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de wijziging van de bijlage onderscheidenlijk van de betreffende regeling onverwijld bij ministeriële regeling ongedaan gemaakt.
+1. Na de inwerkingtreding van een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of [artikel 20, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=20&z=2025-01-01&g=2025-01-01), vastgestelde ministeriële regeling wordt zo spoedig mogelijk een voorstel van wet tot goedkeuring van de ministeriële regeling bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de wijziging van de [bijlage](https://wetten.overheid.nl/BWBR0028063) onderscheidenlijk van de betreffende regeling onverwijld bij ministeriële regeling ongedaan gemaakt.
 
 2. Na de inwerkingtreding van een krachtens [artikel 20, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=20&z=2025-01-01&g=2025-01-01), vastgestelde ministeriële regeling wordt zo spoedig mogelijk een algemene maatregel van bestuur tot goedkeuring van de ministeriële regeling vastgesteld. Indien een zodanige algemene maatregel van bestuur niet wordt vastgesteld, wordt de wijziging van de betreffende regeling onverwijld bij ministeriële regeling ongedaan gemaakt.
 
@@ -662,576 +854,14 @@ Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.o
 
 ##### Artikel 23
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor de verschillende in de bijlage genoemde regelingen verschillend kan worden vastgesteld.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor de verschillende in de [bijlage](https://wetten.overheid.nl/BWBR0028063) genoemde regelingen verschillend kan worden vastgesteld.
 
 ##### Artikel 24
 
-1. De teksten van de in de bijlage genoemde regelingen, zoals deze op het tijdstip van transitie bij wet of algemene maatregel van bestuur worden gewijzigd, worden in het Staatsblad geplaatst voor zover zij de status hebben van wet onderscheidenlijk algemene maatregel van bestuur.
+1. De teksten van de in de [bijlage](https://wetten.overheid.nl/BWBR0028063) genoemde regelingen, zoals deze op het tijdstip van transitie bij wet of algemene maatregel van bestuur worden gewijzigd, worden in het Staatsblad geplaatst voor zover zij de status hebben van wet onderscheidenlijk algemene maatregel van bestuur.
 
-2. De teksten van de in de bijlage genoemde regelingen, zoals deze op het tijdstip van transitie worden gewijzigd, worden in de Staatscourant geplaatst voor zover zij de status hebben van ministeriële regeling.
+2. De teksten van de in de [bijlage](https://wetten.overheid.nl/BWBR0028063) genoemde regelingen, zoals deze op het tijdstip van transitie worden gewijzigd, worden in de Staatscourant geplaatst voor zover zij de status hebben van ministeriële regeling.
 
 ##### Artikel 25
 
 Deze wet wordt aangehaald als: Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-## Bijlage. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-11), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Algemene Zaken
-
-**A Regelingen die de status van wet verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Buitenlandse Zaken
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Defensie
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Algemene Zaken
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Buitenlandse Zaken
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Defensie
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Economische Zaken
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Financiën
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister voor Jeugd en Gezin
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Justitie
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Onderwijs, Cultuur en Wetenschap
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Sociale Zaken en Werkgelegenheid
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 2b. De taal in het bestuurlijk verkeer
-
-### Hoofdstuk 4. Algemeen overgangsrecht
-
-### Hoofdstuk 5. Toepassing noodbevoegdheden buiten een noodtoestand in Bonaire, Sint Eustatius en Saba
-
-### Hoofdstuk 4. Algemeen overgangsrecht
-
-#### § 2. Minister van Landbouw, Natuur en Voedselkwaliteit
-
-#### § 4. Minister van Volksgezondheid, Welzijn en Sport
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage. bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2010-12-25&g=2010-12-25), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Algemene Zaken
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Buitenlandse Zaken
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Defensie
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Economische Zaken
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-### Minister van Financiën
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-### Minister van Algemene Zaken
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Buitenlandse Zaken
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Defensie
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Economische Zaken
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Financiën
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister voor Jeugd en Gezin
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Justitie
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 4a
-
-In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van [Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) in een van de openbare lichamen.
-
-#### § 1. Algemene bepalingen
-
-##### Artikel 4b
-
-1. Dit hoofdstuk is van toepassing op:
-
-- a. de eilandsraden en de bestuursorganen van de openbare lichamen;
-
-- b. de Rijksvertegenwoordiger;
-
-- c. personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid.
-
-2. In dit hoofdstuk worden onder «de organen van de openbare lichamen» en «de Rijksvertegenwoordiger» mede begrepen de onder hun onderscheidenlijk zijn verantwoordelijkheid werkzame personen.
-
-##### Artikel 4c
-
-1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen gebruiken de Nederlandse taal, tenzij bij of krachtens dit hoofdstuk anders is bepaald.
-
-2. Zij kunnen een andere taal gebruiken dan bij of krachtens dit hoofdstuk is bepaald, indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.
-
-#### § 2. Het bestuurlijk verkeer tussen de overheid en particulieren
-
-##### Artikel 4d
-
-1. Een ieder kan de Nederlandse taal gebruiken in het verkeer met de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen.
-
-2. Een ieder kan:
-
-- a. het Papiaments gebruiken in het verkeer met de organen van het openbaar lichaam Bonaire;
-
-- b. het Engels gebruiken in het verkeer met de organen van het openbaar lichaam Sint Eustatius of Saba.
-
-3. Een ieder kan het Papiaments ofwel het Engels gebruiken in het verkeer met de Rijksvertegenwoordiger en met personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid.
-
-4. Het tweede en derde lid gelden niet, indien het orgaan of de persoon heeft verzocht de Nederlandse taal te gebruiken op de grond, dat het gebruik van het Papiaments of het Engels tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
-
-##### Artikel 4e
-
-1. De organen van het openbaar lichaam Bonaire kunnen in het mondeling verkeer met een ieder het Papiaments gebruiken.
-
-2. De organen van het openbaar lichaam Sint Eustatius of Saba kunnen in het mondeling verkeer met een ieder het Engels gebruiken.
-
-3. De Rijksvertegenwoordiger en personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid kunnen in het mondeling verkeer met een ieder het Papiaments en het Engels gebruiken indien de wederpartij hierom heeft verzocht.
-
-4. Het eerste en tweede lid gelden niet, indien de wederpartij heeft verzocht de Nederlandse taal te gebruiken op de grond, dat het gebruik van het Papiaments of het Engels tot een onbevredigend verloop van het mondeling verkeer zou leiden.
-
-#### § 3. Het bestuurlijk verkeer bij de overheden en tussen hen onderling
-
-##### Artikel 4f
-
-1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen maken in hun onderling schriftelijk verkeer en in het schriftelijke verkeer met in het Europese deel van Nederland gevestigde organen alleen gebruik van het Nederlands.
-
-2. Indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad kunnen in afwijking van het eerste lid:
-
-- a. de organen van het openbare lichaam Bonaire in hun onderling schriftelijk verkeer het Papiaments gebruiken;
-
-- b. de organen van de openbare lichamen Sint Eustatius of Saba in hun onderling schriftelijk verkeer het Engels gebruiken.
-
-3. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen kunnen in hun onderling mondeling verkeer alleen gebruik van het Papiaments ofwel het Engels maken indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.
-
-##### Artikel 4g
-
-1. Een ieder kan in vergaderingen van de eilandsraad van het openbaar lichaam Bonaire dan wel van het openbaar lichaam Sint Eustatius of Saba het Papiaments onderscheidenlijk het Engels gebruiken.
-
-2. Hetgeen in het Papiaments dan wel in het Engels is gezegd, wordt in het Papiaments onderscheidenlijk het Engels genotuleerd.
-
-#### § 4. Bijzondere bepalingen inzake schriftelijke stukken van de overheid
-
-##### Artikel 4h
-
-Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=3&artikel=4f&z=2025-01-01&g=2025-01-01) kan:
-
-- a. de eilandsraad van het openbaar lichaam Bonaire dan wel van het openbaar lichaam Sint Eustatius of Saba bij eilandsverordening regels stellen over het gebruik van het Papiaments onderscheidenlijk het Engels in schriftelijke stukken;
-
-- b. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor de Rijksvertegenwoordiger regels stellen over het gebruik van het Papiaments ofwel het Engels in schriftelijke stukken;
-
-- c. Onze Minister wie het aangaat voor personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid, regels stellen over het gebruik van het Papiaments ofwel het Engels in schriftelijke stukken.
-
-##### Artikel 4i
-
-1. Indien een schriftelijk stuk in het Papiaments ofwel het Engels is opgesteld, verstrekken de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen daarvan op verzoek van een natuurlijk persoon of rechtspersoon die ingezetene is van of gevestigd is in de openbare lichamen een vertaling in de Nederlandse taal, tenzij het verstrekken tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
-
-2. Het orgaan of de persoon kan voor het vertalen een vergoeding van ten hoogste de kosten verlangen.
-
-3. Voor het vertalen kan geen vergoeding worden verlangd, indien het schriftelijk stuk:
-
-- a. de notulen van de vergadering van de eilandsraad inhoudt, en het belang van de verzoeker rechtstreeks bij het genotuleerde is betrokken, dan wel de notulen van de vergadering van de eilandsraad inhoudt, en de vaststelling van een eilandsverordening of beleidsregels betreft, of
-
-- b. een besluit of andere handeling inhoudt waarbij de verzoeker belanghebbende is.
-
-##### Artikel 4j
-
-1. Een schriftelijk stuk in het Papiaments of in het Engels wordt tevens in de Nederlandse taal opgesteld, indien het:
-
-- a. algemeen verbindende voorschriften of beleidsregels inhoudt, of
-
-- b. is opgesteld ter directe voorbereiding van de onder a genoemde voorschriften of regels.
-
-2. De bekendmaking, mededeling of terinzagelegging van een schriftelijk stuk als bedoeld in het eerste lid geschiedt in ieder geval ook in de Nederlandse taal, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
-
-### Hoofdstuk 5. Toepassing noodbevoegdheden buiten een noodtoestand in Bonaire, Sint Eustatius en Saba
-
-### Hoofdstuk 6. Delegatiegrondslagen
-
-#### § 1. Minister voor Jeugd en Gezin
-
-#### § 2. Minister van Landbouw, Natuur en Voedselkwaliteit
-
-#### § 3. Minister van Sociale Zaken en Werkgelegenheid
-
-#### § 4. Minister van Volksgezondheid, Welzijn en Sport
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage. , bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Verkeer en Waterstaat
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Volksgezondheid, Welzijn en Sport
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-### Minister voor Wonen, Wijken en Integratie
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18.4.7a
-
-Voor de toepassing van de [artikelen 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01), [18.4.7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), [18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01), [18.4.7g](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7g&z=2025-01-01&g=2025-01-01), [18.4.7h](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7h&z=2025-01-01&g=2025-01-01) en [18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) wordt verstaan onder:
-
-- –. **aanbieder van jeugdzorg:** de natuurlijke persoon, de rechtspersoon of een samenwerkingsverband dat op Bonaire, Sint Eustatius of Saba daartoe door het Rijk gefinancierde jeugdzorg verleent;
-
-- –. **calamiteit:** niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van de jeugdzorg of (gezins)voogdij en die tot een ernstig schadelijk gevolg voor of de dood van een jeugdige of een ouder heeft geleid;
-
-- –. **dossier:** geheel van schriftelijke of elektronisch vastgelegde gegevens met betrekking tot de verlening van door het rijk gefinancierde jeugdzorg of (gezins)voogdij aan een jeugdige of ouder;
-
-- –. **geweld bij de verlening van jeugdzorg of de uitvoering van (gezins)voogdij:** lichamelijk, geestelijk of seksueel geweld jegens een jeugdige of een ouder, of bedreiging daarmee, door iemand die werkzaam is voor een aanbieder van jeugdzorg of een (gezins)voogdij-instelling, of door een andere jeugdige of ouder met wie de jeugdige of ouder gedurende het etmaal of een dagdeel bij de aanbieder van jeugdzorg of (gezins)voogdij- instelling verblijft;
-
-- –. **(gezins)voogdij-instelling:** instelling die gezinsvoogdij verleent en voogdij uitoefent;
-
-- –. **gezinsvoogdij:** de uitvoering van een door de rechter opgelegde maatregel tot ondertoezichtstelling op grond van [artikel 1:254 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=254);
-
-- –. **jeugdige:** een persoon die:
-
-- 1°. de leeftijd van achttien jaar nog niet heeft bereikt, of
-
-- 2°. de leeftijd van drieëntwintig jaren nog niet heeft bereikt en voor wie:
-
-- –. voortzetting van jeugdzorg, die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, noodzakelijk is, of voor wie vóór het bereiken van de leeftijd van achttien jaar is gebleken dat jeugdzorg noodzakelijk is, of
-
-- –. na beëindiging van jeugdzorg die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, binnen een termijn van een half jaar hervatting van jeugdzorg noodzakelijk is;
-
-- –. **jeugdzorg:** ondersteuning van en hulp aan jeugdigen, hun ouders, stiefouders of anderen, die een jeugdige als behorende tot hun gezin verzorgen en opvoeden, bij opgroei- en opvoedingsproblemen of bij dreigende zodanige problemen;
-
-- –. **Onze Ministers:** Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Veiligheid en Justitie;
-
-- –. **voogdij:** de uitoefening van de voogdij na een door de rechter opgelegde maatregel tot ontheffing of ontzetting uit de ouderlijke macht op grond van de [artikelen 1:267](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=267) en [1:269 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=269);
-
-- –. **voogdijraad:** de voogdijraad, bedoeld in [artikel 1:238 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238).
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage. , bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2014-02-15&g=2014-02-15), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Algemene Zaken
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-### Minister van Algemene Zaken
-
-### Minister van Binnenlandse Zaken en Koninkrijksrelaties
-
-### Minister van Buitenlandse Zaken
-
-### Minister van Defensie
-
-### Minister van Economische Zaken
-
-### Minister van Financiën
-
-### Minister voor Jeugd en Gezin
-
-### Minister van Justitie
-
-### Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### Minister van Onderwijs, Cultuur en Wetenschap
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Sociale Zaken en Werkgelegenheid
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Verkeer en Waterstaat
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister van Volksgezondheid, Welzijn en Sport
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18.4.7b
-
-1. Een aanbieder van jeugdzorg verleent verantwoorde jeugdzorg. Onder verantwoorde jeugdzorg wordt verstaan: jeugdzorg van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
-
-2. De verlening van verantwoorde jeugdzorg omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van jeugdzorg.
-
-##### Artikel 18.4.7c
-
-1. De (gezins)voogdij-instelling voert verantwoorde gezinsvoogdij uit en oefent verantwoorde voogdij uit. Onder verantwoorde (gezins)voogdij wordt verstaan: (gezins)voogdij van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
-
-2. De verlening van verantwoorde (gezins)voogdij omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van (gezins)voogdij.
-
-##### Artikel 18.4.7d
-
-1. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling doen aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), onverwijld melding van:
-
-- a. iedere calamiteit die gedurende de verlening van jeugdzorg of gedurende de uitvoering van (gezins)voogdij heeft plaatsgevonden, en
-
-- b. geweld gedurende de verlening van jeugdzorg of de uitvoering van (gezins)voogdij.
-
-2. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens, die voor het onderzoeken van de melding en voor het onderzoeken van de kwaliteit van de jeugdzorg of (gezins)voogdij, verleend voor, tijdens en na de gemelde calamiteit of het gemelde geweld noodzakelijk zijn.
-
-3. Voor zover bij het onderzoeken van een melding gegevens van een jeugdige ter beschikking van de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), zijn gekomen, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is, geldt gelijke verplichting voor de betrokken ambtenaren van de Inspectie gezondheidszorg en jeugd.
-
-##### Artikel 18.4.7e
-
-1. De ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast:
-
-- –. met het toezicht op de naleving van [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels;
-
-- –. met het verrichten van onderzoeken naar de kwaliteit in algemene zin van de jeugdzorg en van de aanbieders van jeugdzorg alsmede, waar nodig, het aangeven en bevorderen van middelen ter verbetering daarvan;
-
-- –. met het toezicht op de uitvoering door de voogdijraad van de in het [Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) aan de voogdijraad opgedragen taken, en
-
-- –. met het verrichten van onderzoeken naar de kwaliteit in algemene zin van de (gezins)voogdij, de (gezins)voogdij-instellingen en de voogdijraad, alsmede waar nodig, het aangeven en bevorderen van middelen ter verbetering daarvan.
-
-2. De ambtenaren van de Inspectie gezondheidszorg en jeugd houden, in afwijking van het eerste lid, geen toezicht op de naleving van de taak, genoemd in [artikel 1:240, tweede lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=240).
-
-3. De ambtenaren, genoemd in het eerste lid, nemen bij de vervulling van hun taak de instructies van Onze Ministers in acht.
-
-4. De Inspectie gezondheidszorg en jeugd verricht haar taak uit eigen beweging of op verzoek van een van Onze Ministers.
-
-##### Artikel 18.4.7f
-
-1. Indien een van Onze Ministers van oordeel is dat [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) of de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de aanbieder van jeugdzorg, dan wel de (gezins)voogdij-instelling een aanwijzing geven.
-
-2. In de aanwijzing geeft de Minister die het aangaat met redenen omkleed aan welke maatregelen de aanbieder van jeugdzorg of de (gezins)voogdij-instelling moet nemen met het oog op de naleving van [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) of de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels.
-
-3. De aanwijzing bevat de termijn waarbinnen de aanbieder van jeugdzorg of de (gezins)voogdij-instelling aan de aanwijzing moet voldoen.
-
-4. Indien het nemen van maatregelen in verband met gevaar voor de veiligheid, gevaar voor de gezondheid of gevaar voor ernstige aantasting van overige belangen van de jeugdigen redelijkerwijs geen uitstel kan lijden, kunnen de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door een van Onze Ministers kan worden verlengd.
-
-5. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling zijn verplicht binnen de daarbij gestelde termijn aan de aanwijzing, onderscheidenlijk onmiddellijk aan het bevel te voldoen.
-
-6. Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
-
-##### Artikel 18.4.7g
-
-De Minister die het aangaat is bevoegd een last onder bestuursdwang op te leggen ter zake van een gedraging die in strijd is met een krachtens [artikel 18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01) gegeven aanwijzing of bevel.
-
-##### Artikel 18.4.7h
-
-1. De ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), verwerken gegevens ten behoeve van de taken bedoeld in [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en [18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
-
-2. De gegevens, bedoeld in het eerste lid, kunnen persoonsgegevens zijn, voor zover deze gegevens noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taken van de ambtenaren, bedoeld in [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en [18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
-
-3. Tot de persoonsgegevens kunnen gegevens behoren betreffende iemands etnische of culturele achtergrond, seksuele leven of gezondheid, alsmede strafrechtelijke gegevens.
-
-4. De gegevens, bedoeld in het eerste lid, worden niet verwerkt voor andere doeleinden dan genoemd in het tweede lid of daarmee verenigbare doeleinden en worden daar waar mogelijk verwerkt op een wijze die waarborgt dat zij niet tot een persoon herleidbaar zijn.
-
-5. De aan de in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op dossiers.
-
-6. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01). Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
-
-##### Artikel 18.4.7i
-
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent jeugdzorg in de openbare lichamen, met inbegrip van de toegang, het aanbod, de kwaliteit, de bekostiging en een bijdrage in de kosten van de jeugdzorg.
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage. , bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-### Minister voor Wonen, Wijken en Integratie
-
-**A Regelingen die de status van wet verkrijgen**
-
-**A Regelingen die de status van wet verkrijgen**
-
-**B Regelingen die de status van algemene maatregel van bestuur verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 18.4.5a
-
-Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of de veiligheidssituatie, in geval van een redelijk vermoeden van huiselijk geweld of kindermishandeling, te beoordelen, kunnen aan een AMHK als bedoeld in artikel 1.1 van het Besluit maatschappelijk ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES deze inlichtingen verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep.
-
-### Hoofdstuk 7. Slotbepalingen
-
-## Bijlage. , bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Minister van Onderwijs, Cultuur en Wetenschap
-
-### Minister van Sociale Zaken en Werkgelegenheid
-
-### Minister van Verkeer en Waterstaat
-
-### Minister van Volksgezondheid, Welzijn en Sport
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-### Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-### Minister voor Wonen, Wijken en Integratie
-
-**C Regelingen die de status van ministeriële regeling verkrijgen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

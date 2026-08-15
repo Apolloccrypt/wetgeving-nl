@@ -1,38 +1,16 @@
 ---
 title: "Besluit bevoegdheid verloskundigen BES"
 identifier: "BWBR0028370"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028370"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10761913"
-version_id: "17737342"
-internal_id: "C24792571"
-label_id: "10736604"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028370/2010-10-10/0"
-intitule_bron: "Stb.2010-649"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-649"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-649"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028370&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028370&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028370"
+opgehaald: 2026-08-15
 ---
+
 # Besluit bevoegdheid verloskundigen BES
 
 ##### Artikel 1
@@ -41,9 +19,9 @@ entry_into_force: "2010-10-10"
 
 - a. zij, die de hoedanigheid van verloskundige hebben verkregen op de wijze zoals voorgeschreven in de terzake in Nederland geldende wettelijke bepalingen;
 
-- b. zij, die beschikken over getuigschriften die in bijlage V, onder 5.5.2 van de [Richtlijn nr 2005/36/EG](32005L0036) betreffende de erkenning van beroepskwalificaties zijn genoemd;
+- b. zij, die beschikken over getuigschriften die in bijlage V, onder 5.5.2 van de Richtlijn nr 2005/36/EG betreffende de erkenning van beroepskwalificaties zijn genoemd;
 
-- c. zij, die beschikken over een getuigschrift genoemd in de bijlage bij dit besluit, voor zover het getuigschrift is behaald als gevolg van een opleiding die is begonnen na de desbetreffende daarbij genoemde referentiedatum en indien zij is afgegeven door de daartoe bevoegde opleidingsinstelling;
+- c. zij, die beschikken over een getuigschrift genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0028370) bij dit besluit, voor zover het getuigschrift is behaald als gevolg van een opleiding die is begonnen na de desbetreffende daarbij genoemde referentiedatum en indien zij is afgegeven door de daartoe bevoegde opleidingsinstelling;
 
 - d. zij, die op aanvrage van Onze Minister een verklaring hebben gekregen, inhoudende dat zij op basis van de door hen genoten opleiding vakbekwaam worden geacht om de verloskunst uit te oefenen.
 
@@ -122,12 +100,3 @@ Degene die tot het moment van inwerkingtreding van dit besluit op grond van de t
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit bevoegdheid verloskundigen BES.
-
-## Bijlage. Titels van diploma’s, certificaten en andere titels in de verloskunde
-
-| Land | Titel van de kwalificatie | Toekennende instantie | Beroepstitel | Referentiedatum |
-| --- | --- | --- | --- | --- |
-| Ísland | 1. Embættispróf í ljósmóđurfræđi 2. Próf í ljósmæđrafræđum | 1. Háskóli Íslands 2. Ljósmæđraskóli Íslands | Ljósmóđir | 1 Januari 1994 |
-| Liechtenstein | The diplomas, certificates and other titles awarded in another State to which this Directive applies and listed in the present Annex | Competent authorities | Hebamme | 1 Mei 1995 |
-| Norge | Vitnemål for bestått jordmorutdanning | Høgskole | Jordmor | 1 Januari 1994 |
-| Zwitserland | Sage-femme diplômée, Diplomierte Hebamm, Levatrice diplomata | Conférence des directeurs contonaux des affaires sanitaires | Sage-femme, Hebamme, Levatrice | 1 Juni 2002 |

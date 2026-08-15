@@ -1,57 +1,67 @@
 ---
 title: "Circulaire Burgemeestersbevel twaalfminners, artikel 172b Gemeentewet"
 identifier: "BWBR0028138"
-country: "nl"
-rank: "circulaire"
-publication_date: "2010-09-01"
-last_updated: "2010-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028138"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "10671483"
-version_id: "17626652"
-internal_id: "C24389051"
-label_id: "10646634"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028138/2010-09-01/0"
-intitule_bron: "Stcrt.2010-13482"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-19"
-intitule_published: "2010-08-31"
-intitule_in_force: "2010-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-13482"
-original_signed_date: "2010-08-19"
-original_published_date: "2010-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-13482"
-entry_into_force_date: "2010-09-01"
-jci_1_3: "jci1.3:c:BWBR0028138&z=2010-09-01&g=2010-09-01"
-jci_1_0: "1.0:c:BWBR0028138&g=2010-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2010-08-19"
-entry_into_force: "2010-09-01"
+publicatiedatum: 2010-09-01
+laatste_update: 2010-09-01
+status: geldig
+toestand: 2010-09-01
+bron: "https://wetten.overheid.nl/BWBR0028138"
+opgehaald: 2026-08-15
 ---
+
 # Circulaire Burgemeestersbevel twaalfminners, artikel 172b Gemeentewet
 
 ### 1. Inleiding
 
 ### 1.1. Algemeen
 
-Op 1 september 2010 treedt de Wet maatregelen bestrijding voetbalvandalisme en ernstige overlast (kamerstukken 31 467) in werking. Met deze wet is een aantal nieuwe artikelen ingevoegd in de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854). Eén van de wijzigingen heeft betrekking op de invoeging van [artikel 172b in de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b). Het artikel is geplaatst in [hoofdstuk XI van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XI) inzake ‘De bevoegdheid van de burgemeester’ en geeft de burgemeester een extra instrument in de bestrijding van groepsoverlast door kinderen beneden de leeftijd van twaalf jaar.
+Op 1 september 2010 treedt de Wet maatregelen bestrijding voetbalvandalisme en ernstige overlast (kamerstukken ) in werking. Met deze wet is een aantal nieuwe artikelen ingevoegd in de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854). Eén van de wijzigingen heeft betrekking op de invoeging van [artikel 172b in de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b). Het artikel is geplaatst in [hoofdstuk XI van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XI) inzake ‘De bevoegdheid van de burgemeester’ en geeft de burgemeester een extra instrument in de bestrijding van groepsoverlast door kinderen beneden de leeftijd van twaalf jaar.
 
 De burgemeester kan op grond van [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) aan diegene die het gezag uitoefent over een kind beneden de leeftijd van twaalf jaar, dat herhaaldelijk groepsgewijs de openbare orde heeft verstoord, bij ernstige vrees voor verdere verstoring van de openbare orde, een bevel geven ervoor zorg te dragen dat dit kind zich niet zonder begeleiding van een ouder of verzorger dan wel een andere door de burgemeester aan te wijzen meerderjarige, bijvoorbeeld een volwassen familielid, bevindt bij bepaalde objecten of in bepaalde delen van de gemeente. Het bevel kan ook inhouden dat het kind zich niet onbegeleid mag bevinden op voor het publiek toegankelijke plaatsen tussen 20.00 en 06.00 uur. De tekst van artikel 172b Gemeentewet luidt als volgt:
 
 ### Artikel 172b. Gemeentewet
 
+- 1. De burgemeester kan aan een persoon die het gezag uitoefent over een minderjarige die herhaaldelijk groepsgewijs de openbare orde heeft verstoord en de leeftijd van twaalf jaren nog niet heeft bereikt, bij ernstige vrees voor verdere verstoring van de openbare orde een bevel geven zorg te dragen:
+
+   - a. dat de minderjarige zich niet bevindt in of in de omgeving van een of meer bepaalde objecten binnen de gemeente, dan wel in een of meer bepaalde delen van de gemeente, tenzij de minderjarige wordt begeleid door een persoon die het gezag over hem uitoefent of door een andere meerderjarige als bedoeld in het derde lid; of
+
+   - b. dat de minderjarige zich op bepaalde dagen gedurende een aangegeven tijdvak tussen 8 uur ’s avonds en 6 uur ’s ochtends niet bevindt op voor het publiek toegankelijke plaatsen, tenzij de minderjarige wordt begeleid door een persoon die het gezag over hem uitoefent of door een andere meerderjarige als bedoeld in het derde lid.
+
+- 2. Het bevel geldt voor een door de burgemeester vast te stellen periode van ten hoogste drie maanden.
+
+- 3. De burgemeester kan voor de toepassing van het eerste lid ten hoogste twee andere meerderjarigen naast de persoon of personen die het gezag uitoefenen over een minderjarige aanwijzen ter begeleiding van de minderjarige.
+
+- 4. [Artikel 172a, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172a), is van overeenkomstige toepassing.
+
 De in het vierde lid aangehaalde leden van [artikel 172a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172a) luiden als volgt:
 
 ### Artikel 172a. Gemeentewet
 
+- 5. Op grond van nieuwe feiten of omstandigheden kan de burgemeester het bevel wijzigen ten nadele van betrokkene.
+
+- 6. De burgemeester kan op aanvraag tijdelijk ontheffing verlenen van de verboden of geboden die voortvloeien uit het bevel, dan wel van een of meer onderdelen daarvan. Aan de ontheffing kunnen voorschriften worden verbonden.
+
+- 7. Indien nieuwe feiten of omstandigheden daartoe aanleiding geven, wijzigt de burgemeester het bevel ten gunste van betrokkene. Het bevel wordt ingetrokken zodra het niet langer nodig is ter voorkoming van verdere verstoringen van de openbare orde.
+
 ### 1.2. Aanleiding circulaire leeswijzer
 
 Deze circulaire bevat met het oog op de ingrijpendheid van de onderhavige bevoegdheid en de relatie tot de Grondwet en het Europees verdrag voor de rechten van de mens en de fundamentele vrijheden (verder: EVRM) nadere informatie ten behoeve van een juiste en zorgvuldige toepassing van [artikel 172b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b). Tevens wordt deze gelegenheid aangegrepen om andere onderwerpen die relevant zijn voor de toepassing van de bevoegdheid onder uw aandacht te brengen. Achtereenvolgens wordt stil gestaan bij:
+
+- − Doel en achtergrond van de bevoegdheid ([§ 2](https://wetten.overheid.nl/BWBR0028138))
+
+- − Enkele begrippen uit [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) ([§ 3](https://wetten.overheid.nl/BWBR0028138))
+
+- − Artikel 8 EVRM en vereisten van proportionaliteit en subsidiariteit ([§ 4](https://wetten.overheid.nl/BWBR0028138))
+
+- − Vereisten en rechtsbescherming volgens de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) ([§ 5](https://wetten.overheid.nl/BWBR0028138))
+
+- − Duur en intrekking van de maatregel ([§ 6](https://wetten.overheid.nl/BWBR0028138))
+
+- − Samenwerking met andere partners ([§ 7](https://wetten.overheid.nl/BWBR0028138))
+
+- − Monitoring toepassing [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) ([§ 8](https://wetten.overheid.nl/BWBR0028138)).
 
 ### 2. Doel en achtergrond van de bevoegdheid
 
@@ -59,13 +69,16 @@ Deze circulaire bevat met het oog op de ingrijpendheid van de onderhavige bevoeg
 
 [Artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) is in de wet opgenomen door een amendement van de Tweede Kamer. De toelichting bij het amendement luidde:
 
-**Dit amendement strekt ertoe om de burgemeester de bevoegdheid te geven om de betrokken ouders/verzorgers van de (in groepsverband) overlast veroorzakende twaalfminner een bevel te geven erop toe te zien dat hun kinderen niet, althans niet onbegeleid, ’s avonds laat op straat zijn. Het niet naleven van dat bevel door de ouders/verzorgers levert dan voor die ouders /verzorgers een strafbaar feit op. Met het bevel wordt direct geappelleerd aan de opvoedende en toezichthoudende taak en wordt een extra middel gecreëerd om de overlast te doen beëindigen.** 1 **Amendement Kuiken (kamerstukken** **31 467, nr. 15**).
+*Dit amendement strekt ertoe om de burgemeester de bevoegdheid te geven om de betrokken ouders/verzorgers van de (in groepsverband) overlast veroorzakende twaalfminner een bevel te geven erop toe te zien dat hun kinderen niet, althans niet onbegeleid, ’s avonds laat op straat zijn. Het niet naleven van dat bevel door de ouders/verzorgers levert dan voor die ouders /verzorgers een strafbaar feit op. Met het bevel wordt direct geappelleerd aan de opvoedende en toezichthoudende taak en wordt een extra middel gecreëerd om de overlast te doen beëindigen.*
+ 1
+ *Amendement Kuiken (kamerstukken*
+ *31 467, nr. 15*).
 
 ### 2.2. Doel van de bevoegdheid/toepassing
 
 Zoals uit de toelichting bij het amendement blijkt, is het doel van het artikel om verdere verstoringen van de openbare orde door een twaalfminner tegen te gaan als die herhaaldelijk in groepsverband de orde heeft verstoord. Het is een preventieve maatregel, reparatoir (herstel sanctie) en niet punitief (straffend) van aard. De maatregel wordt ingezet om toekomstige ordeverstoringen te voorkomen. De maatregel richt zich op groepsgebonden verstoringen van de openbare orde door twaalfminners. Hierbij hoeft het niet te gaan om een groep die uitsluitend uit twaalfminners bestaat. De maatregel kan ook worden toegepast richting één of enkele twaalfminner(s) binnen een groep die verder bestaat uit kinderen van twaalf jaar of ouder. Tegen de oudere leden van de groep kan de burgemeester andere bestuursrechtelijke maatregelen inzetten, zoals die op basis van [artikel 172a Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172a).
 
-De maatregel wordt opgelegd aan diegene die het gezag uitoefent over het kind. Dat zijn in de regel de ouders2**In het hiernavolgende worden onder ‘ouders’ mede verstaan: andere personen die het gezag over een minderjarige uitoefenen.**. Hiervoor is gekozen omdat ouders, zeker bij kinderen jonger dan twaalf jaar, de verantwoording dragen over hun kinderen en over het gedrag van hun kinderen. Het is aan de ouders om ervoor te zorgen dat het bevel wordt nageleefd. De maatregel appelleert daarmee direct aan de verantwoordelijkheid van de ouders. Aldus heeft de maatregel ook als beoogd effect dat duidelijk wordt gemaakt dat het ordeverstorende gedrag niet wordt getolereerd en dat daaraan grenzen dienen te worden gesteld. Het is aan de ouders om die verantwoordelijkheid waar te maken.3**Kabinetsreactie op de voorlichting van de Raad van State (Kamerstukken****31 467, G**).Als ouders opzettelijk het bevel van de burgemeester niet naleven, kunnen zij strafrechtelijk worden vervolgd op basis van [artikel 184 van het Wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184).
+De maatregel wordt opgelegd aan diegene die het gezag uitoefent over het kind. Dat zijn in de regel de ouders2*In het hiernavolgende worden onder ‘ouders’ mede verstaan: andere personen die het gezag over een minderjarige uitoefenen.*. Hiervoor is gekozen omdat ouders, zeker bij kinderen jonger dan twaalf jaar, de verantwoording dragen over hun kinderen en over het gedrag van hun kinderen. Het is aan de ouders om ervoor te zorgen dat het bevel wordt nageleefd. De maatregel appelleert daarmee direct aan de verantwoordelijkheid van de ouders. Aldus heeft de maatregel ook als beoogd effect dat duidelijk wordt gemaakt dat het ordeverstorende gedrag niet wordt getolereerd en dat daaraan grenzen dienen te worden gesteld. Het is aan de ouders om die verantwoordelijkheid waar te maken.3*Kabinetsreactie op de voorlichting van de Raad van State (Kamerstukken**31 467, G*).Als ouders opzettelijk het bevel van de burgemeester niet naleven, kunnen zij strafrechtelijk worden vervolgd op basis van [artikel 184 van het Wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184).
 
 Voor de groep twaalfminners geldt verder dat ze minder goed met normale bestuursrechtelijke preventieve maatregelen te bereiken zijn, zoals een gebiedsverbod of samenscholingsverbod op grond van de APV, een gebiedsverbod op grond van de lichte bevelsbevoegdheid, bedoeld in [artikel 172 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172), of de nieuwe bevoegdheden uit [artikel 172a Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172a). Deze maatregelen worden immers bij niet-naleving strafrechtelijk gehandhaafd, en kinderen beneden de leeftijd van twaalf jaren kunnen niet strafrechtelijk worden vervolgd. Het burgemeestersbevel volgens [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) richt zich ook daarom op de ouders/verzorgers van het kind.
 
@@ -79,11 +92,11 @@ De maatregel gaat uit van herhaalde verstoringen van de openbare orde. Er zijn d
 
 Situaties in het gebied tussen een vrijwillig kader en een gedwongen kader zijn de natuurlijke werkruimte voor de bevelsmogelijkheden uit [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b). Echter ook in gevallen waarbij wel al OTS is opgelegd, kan het voorkomen dat de ordeverstoringen (nog) niet afdoende zijn afgenomen. Ook in deze gevallen kan de maatregel worden ingezet; daarbij dient de maatregel dan vooral als middel om de ordeverstoringen op korte termijn te kunnen stoppen. De langetermijnoplossing zal vervolgens alsnog binnen het versterken van de opvoedvaardigheden van de ouders moeten worden gezocht. Van groot belang is in ieder geval dat de genomen maartregel wordt gecombineerd met een zorgaanbod. Paragraaf 7 gaat hier nader op in.
 
-### 3. Enkele begrippen uit [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b)
+### 3. Enkele begrippen uit artikel 172b Gemeentewet
 
 ### 3.1. ‘Herhaalde groepsgewijze verstoring van de openbare orde’
 
-De burgemeester kan het bevel opleggen aan ouders van een twaalfminner ‘**die herhaaldelijk groepsgewijs de openbare orde heeft verstoord, bij ernstige vrees voor verdere verstoring van de openbare orde’.** Vier verschillende elementen zijn dus van belang: verstoring van de openbare orde, groepsgewijs, herhaald en ernstige vrees voor verdere verstoring.
+De burgemeester kan het bevel opleggen aan ouders van een twaalfminner ‘*die herhaaldelijk groepsgewijs de openbare orde heeft verstoord, bij ernstige vrees voor verdere verstoring van de openbare orde’.* Vier verschillende elementen zijn dus van belang: verstoring van de openbare orde, groepsgewijs, herhaald en ernstige vrees voor verdere verstoring.
 
 ### 3.1.1. Verstoring van de openbare orde
 
@@ -117,13 +130,13 @@ Wanneer de inmenging wettelijk is voorzien en voldoet aan de genoemde doeleinden
 
 ### 4.3.1. Proportionaliteit
 
-Het vereiste van proportionaliteit houdt in, dat het door het bestuur geschade belang in een redelijke verhouding staat met het beschermde belang. Het gaat hierbij om het vinden van een balans. Aan de ene kant van die balans bevindt zich het onacceptabele gedrag van het kind, aan de andere kant de ingrijpendheid van de maatregel. De maatregel is zeer ingrijpend en mag daarom nooit zwaarder zijn dan strikt noodzakelijk om de ordeverstoringen te doen stoppen en moet daarom zo mogelijk beperkt worden gehouden in tijd en plaats. Hoe zwaar de maatregel kan zijn is binnen de wettekst bepaald. Dit is echter een maximum. Of en hoe de maatregel moet worden ingezet is altijd afhankelijk van de context en intensiteit van de gedragingen. Dat het hierbij gaat om het gedrag van jonge kinderen, speelt bij deze afweging ook een rol. Bij de besluitvorming over het al dan niet opleggen van de maatregel dient de burgemeester dus ook de bepalingen in [afdeling 3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.2) (zorgvuldigheid en belangenafweging) in acht te nemen4**Het betreft dan de artikelen 3:2 (zorgvuldige voorbereiding), 3:3 (verbod van détournement de pouvoir) en 3:4 (belangenafweging en evenredigheidsbeginsel) van de Awb.**.
+Het vereiste van proportionaliteit houdt in, dat het door het bestuur geschade belang in een redelijke verhouding staat met het beschermde belang. Het gaat hierbij om het vinden van een balans. Aan de ene kant van die balans bevindt zich het onacceptabele gedrag van het kind, aan de andere kant de ingrijpendheid van de maatregel. De maatregel is zeer ingrijpend en mag daarom nooit zwaarder zijn dan strikt noodzakelijk om de ordeverstoringen te doen stoppen en moet daarom zo mogelijk beperkt worden gehouden in tijd en plaats. Hoe zwaar de maatregel kan zijn is binnen de wettekst bepaald. Dit is echter een maximum. Of en hoe de maatregel moet worden ingezet is altijd afhankelijk van de context en intensiteit van de gedragingen. Dat het hierbij gaat om het gedrag van jonge kinderen, speelt bij deze afweging ook een rol. Bij de besluitvorming over het al dan niet opleggen van de maatregel dient de burgemeester dus ook de bepalingen in [afdeling 3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.2) (zorgvuldigheid en belangenafweging) in acht te nemen4*Het betreft dan de artikelen 3:2 (zorgvuldige voorbereiding), 3:3 (verbod van détournement de pouvoir) en 3:4 (belangenafweging en evenredigheidsbeginsel) van de Awb.*.
 
 ### 4.3.2. Subsidiariteit
 
 Inbreuken op het recht moeten zo veel mogelijk worden geminimaliseerd. Daarom moet altijd worden gekozen voor de minst ingrijpende werkende maatregel. Als de verstoringen van de openbare orde nog te stoppen of voorkomen zijn door een andere lichtere maatregel dan het inzetten van [art 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b), moet in principe voor die maatregel worden gekozen.
 
-### 5. Vereisten en rechtsbescherming volgens de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+### 5. Vereisten en rechtsbescherming volgens de Algemene wet bestuursrecht
 
 ### 5.1. Algemene wet bestuursrecht
 
@@ -131,7 +144,7 @@ Een bevel op grond van [art 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:
 
 De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) vereist onder meer dat de belanghebbenden in de gelegenheid moeten worden gesteld hun zienswijze te geven over het voornemen om het bevel op te leggen ([artikel 4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8)). Onder belanghebbenden vallen in dit geval in elk geval de ouder(s) van het desbetreffende kind (de adressanten van de beschikking). Indien de burgemeester overeenkomstig [artikel 172b, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) andere meerderjarigen ter begeleiding wil aanwijzen naast de ouders, is het raadzaam om ook deze te horen. De ouders kunnen zich in het zienswijzengesprek door hun kind laten vergezellen.
 
-Van het horen vooraf kan worden afgezien als de vereiste spoed zich daartegen verzet ([artikel 4:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:11)). Het geven van een zienswijze kan mondeling en dus telefonisch worden uitgevoerd ([artikel 4:9 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:9)), doch slechts op verzoek van de burger zelf.5**Indien het bestuursorgaan de gelegenheid wil bieden tot telefonisch contact, zal dat veelal voor een belanghebbende aantrekkelijk zijn (MvT, Parl. Gesch. Awb I, p. 256). De keuze is echter, zo volgt uit het artikel, aan de belanghebbende. Uit: Borman, T.C., Buuren, P.J.J. van, Tekst & commentaar algemene wet bestuursrecht, Kluwer, Deventer, 2009.**Het is niet wenselijk om op initiatief van de gemeente de burger telefonisch te horen, bijvoorbeeld uit efficiëntieoverwegingen.
+Van het horen vooraf kan worden afgezien als de vereiste spoed zich daartegen verzet ([artikel 4:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:11)). Het geven van een zienswijze kan mondeling en dus telefonisch worden uitgevoerd ([artikel 4:9 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:9)), doch slechts op verzoek van de burger zelf.5*Indien het bestuursorgaan de gelegenheid wil bieden tot telefonisch contact, zal dat veelal voor een belanghebbende aantrekkelijk zijn (MvT, Parl. Gesch. Awb I, p. 256). De keuze is echter, zo volgt uit het artikel, aan de belanghebbende. Uit: Borman, T.C., Buuren, P.J.J. van, Tekst & commentaar algemene wet bestuursrecht, Kluwer, Deventer, 2009.*Het is niet wenselijk om op initiatief van de gemeente de burger telefonisch te horen, bijvoorbeeld uit efficiëntieoverwegingen.
 
 ### 5.2. Rechtsbescherming: bezwaar, beroep en voorlopige voorziening
 
@@ -153,6 +166,12 @@ Het bevel van de burgemeester op grond van [artikel 172b Gemeentewet](https://we
 
 De burgemeester moet het bevel intrekken als de omstandigheden zo zijn gewijzigd dat er niet langer een gevaar is voor de openbare orde ([artikel 172b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) juncto [artikel 172a, zevende lid, Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172a)). Kern van deze bepaling is dat de maatregel bedoeld is omdat er ernstige vrees is voor verdere verstoringen van de openbare orde. Enkele mogelijkheden waarbij aan te denken valt zijn:
 
+- • Het ordeverstorende gedrag van het kind hing samen met deelname aan een overlastgevende jeugdgroep, maar deze groep bestaat niet langer;
+
+- • Het ordeverstorend gedrag kwam mede voort uit een verstoorde thuis- of opvoedsituatie, waarbij door hulpverlening deze situatie zodanig verbeterd is dat ouders ook zonder burgemeestersbevel hun kind voldoende richting en sturing geven hetgeen het ordeverstorende gedrag kan doen stoppen;
+
+- • Het kind is in een (ander) pleeggezin geplaatst of in een jeugdinstelling opgenomen waardoor de ernstige vrees voor verdere verstoring van de openbare orde is komen te vervallen.
+
 ### 7. Samenwerking met andere partners
 
 ### 7.1. Investeren in zorg
@@ -162,6 +181,12 @@ De meest invloedrijke beschermende factoren in de vroege kinderjaren zijn het ge
 ### 7.2. Samenwerken
 
 Bij de zorg om jonge kinderen en bij het beëindigen van overlast door deze kinderen is samenwerking met alle betrokken partners essentieel. Er bestaan diverse samenwerkingsverbanden waarvan gebruik kan worden gemaakt:
+
+- − Als de nadruk nog vooral op zorg ligt en dus de instrumenten uit [artikel 172b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) nog niet noodzakelijk zijn, ligt het voor de hand om de samenwerking te zoeken met de Centra voor Jeugd en Gezin (CJG’s) en het zorgadviesteam (ZAT) en de casusoverleggen die in dat kader worden gehouden. Binnen het ZAT werken onder regie van de gemeenten in veel gevallen onder anderen de school, het maatschappelijk werk, de CJG’s en Bureau Jeugdzorg (BJZ) samen aan ondersteunen van het jonge kind en gezin in preventieve zin. Binnen het ZAT is ook de aansluiting op het CJG geregeld waar de zorgcoördinatie plaatsvindt. Goede coördinatie van zorg en hulp die worden ingezet en de ondersteuning die wordt aangeboden is essentieel. ‘Eén gezin, één plan’ is daarbij de leidraad. Door de voorgeschiedenis zal er bij het ZAT en de deelnemende partnes veel relevante informatie over het desbetreffende kind aanwezig zijn. Daarom is, ook als preventieve ondersteuning door aanhoudende overlast niet langer de primaire richting kan zijn, samenwerking met het ZAT van groot belang. Deze samenwerking kan op dat moment het beste vorm krijgen binnen het Veiligheidshuis, om te voorkomen dat vanuit het ZAT verkregen vertrouwelijke (achtergrond) gegevens zonder meer in een eventueel strafdossier terecht komen.
+
+- − Daarnaast werken de politie en BJZ al langere tijd samen in het werkproces ‘Vroegsignaleren en Doorverwijzen’. De politie meldt alle kinderen waar zij zich zorgen over maken (dit kan overlast zijn, maar ook kinderen die getuigen zijn van huiselijk geweld e.d.) door middel van het landelijk zorgformulier aan bij een meldpunt van BJZ. BJZ bekijkt of er zorg en/of bescherming nodig is (zorgtaxatie), organiseert deze zorg en koppelt terug aan de politie. Sinds januari 2010 meldt de politie ook de groep jonge kinderen die delicten plegen en niet strafrechtelijk vervolgd kunnen worden (12 min delictplegers) volgens dit werkproces bij BJZ aan.
+
+- − Als de nadruk is verschoven van het bieden van ondersteuning naar het stoppen van het overlastgevende gedrag, ligt het Veiligheidshuis als coördinatie centrum voor de hand. Hierbinnen zijn de veiligheidspartners en zorgpartners verenigd. Ook hier blijft de balans tussen optreden en ondersteunen van groot belang. De gemeente kan als veiligheidsregisseur zorgen dat de juiste partners worden betrokken.
 
 In alle gevallen waarin professionals en of instellingen zich zorgen maken om een jong kind is het delen van informatie via Verwijs Index Risico jongeren (VIR) essentieel. Ook de gemeente kan daar een melding in maken. De VIR is een belangrijk instrument bij het verzamelen van alle relevante informatie omdat uit de VIR duidelijk blijkt welke partner kennis heeft over het desbetreffende kind.
 
@@ -179,7 +204,7 @@ Veelal zullen de gezinnen waaraan het bevel wordt gericht al bekend zijn bij div
 
 Echter, het belang van de openbare orde kan tot andere afwegingen leiden dan zorgverleners zouden wensen. Het primaat voor het al dan niet inzetten van openbareordemaatregelen ligt bij de burgemeester. Als belangen tegengesteld zijn, is het aan de burgemeester om – na goed overleg – te beslissen of hij gebruik maakt van de mogelijkheden die de wet hem biedt om in te grijpen bij herhaalde verstoringen van de openbare orde. Leidt deze beslissing tot het niet kunnen of willen uitvoeren van het hulpverleningsplan van het kind dat onder toezicht staat, dan dient de burgemeester hierover contact op te nemen met de verantwoordelijke gedeputeerde of wethouder.
 
-### 8. Monitoring toepassing [artikel 172b Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b)
+### 8. Monitoring toepassing artikel 172b Gemeentewet
 
 Aan de Eerste Kamer is toegezegd dat de wet gemonitord en geëvalueerd wordt. Zeker voor [artikel 172b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=172b) is het van belang om goed te blijven kijken naar de mate waarin en de manier waarop het instrument wordt gebruikt. Daarom worden gemeenten dringend verzocht om een geanonimiseerde kopie van het uitgereikte bevel (alleen geboortejaar en -maand hoeven zichtbaar te zijn) te zenden aan het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Dat kan per e-mail aan postbus172b@minbzk.nl. De gegevens wordt gebruikt ter monitoring en voor evaluatie, niet ter controle.
 

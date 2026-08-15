@@ -1,43 +1,17 @@
 ---
 title: "Omzetbelasting, vrijstelling diensten door componisten, schrijvers en journalisten"
 identifier: "BWBR0027969"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2005-12-05"
-last_updated: "2005-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027969"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10622583"
-version_id: "17548712"
-internal_id: "C24284381"
-label_id: "10597464"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027969/2005-12-05/0"
-intitule_bron: "Stcrt.2006-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-05"
-intitule_published: "2006-01-12"
-intitule_in_force: "2006-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-9"
-original_signed_date: "2005-12-05"
-original_published_date: "2006-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-9-p68-SC73472"
-entry_into_force_date: "2005-12-05"
-jci_1_3: "jci1.3:c:BWBR0027969&z=2005-12-05&g=2005-12-05"
-jci_1_0: "1.0:c:BWBR0027969&g=2005-12-05"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-05"
-entry_into_force: "2005-12-05"
+publicatiedatum: 2005-12-05
+laatste_update: 2005-12-05
+status: geldig
+toestand: 2005-12-05
+bron: "https://wetten.overheid.nl/BWBR0027969"
+opgehaald: 2026-08-15
 ---
+
 # Omzetbelasting, vrijstelling diensten door componisten, schrijvers en journalisten
-
-De directeur-generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 Dit besluit is een samenvoeging van besluiten die tot op heden zijn verschenen met betrekking tot de vrijstelling voor de diensten door componisten, schrijvers en journalisten ([artikel 11, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)). Het besluit bevat geen inhoudelijke wijzigingen van het bestaande beleid. De samenvoeging heeft tot doel de toegankelijkheid van het bestaande beleid te vergroten.
 
@@ -46,6 +20,8 @@ Dit besluit is een samenvoeging van besluiten die tot op heden zijn verschenen m
 [Artikel 11, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) (de Wet) luidt:
 
 Onder bij algemene maatregel van bestuur vast te stellen voorwaarden zijn van de belasting vrijgesteld:
+
+- q. de diensten door componisten, schrijvers en journalisten;
 
 [Artikel 11, eerste lid, onderdeel q, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) is gebaseerd op artikel 28, derde lid, sub b, van de Zesde richtlijn.
 
@@ -63,13 +39,23 @@ Vrijgesteld zijn de diensten die naar hun aard diensten door een schrijver zijn.
 
 De volgende beleidsstandpunten zijn ingenomen.
 
+Presentatie van eigen werk
+
 Het signeren van eigen werk is een dienst door een schrijver. Ook voordrachten en lezingen evenals optredens voor radio en televisie in talkshows of eigen programma’s, waarbij de schrijver (nagenoeg) uitsluitend uit eigen werk voorleest of waarbij de schrijver (nagenoeg) uitsluitend vertelt over zijn eigen werk (bijv. over de inhoud) zijn diensten door een schrijver. Dat is niet het geval met andere voordrachten, lezingen en/of optredens voor radio en televisie (zoals de verzorging van een algemeen literair programma, waarin niet nagenoeg uitsluitend of in het geheel geen aandacht aan het eigen werk van de schrijver wordt besteed).
+
+Schrijversproducten aanbieden via internet
 
 Een schrijver die via internet de mogelijkheid biedt om de inhoud van door hem zelf geschreven boeken langs elektronische weg te ontvangen (downloaden) verricht een dienst door een schrijver. Het gelegenheid geven tot het downloaden van een door een ander geschreven boek is naar zijn aard geen dienst door een schrijver. Deze dienst is, nu het niet de levering van een boek betreft, onderworpen aan het algemene tarief.
 
+Werkzaamheden van vertalers
+
 De diensten bestaande in het vertalen van werken van schrijvers, zoals bijvoorbeeld een boek of een woordenboek, zijn diensten door een schrijver.
 
+Politieke spotprenten
+
 De vrijstelling kan toepassing vinden ten aanzien van tekenaars van politieke spotprenten in dagbladen, weekbladen en andere periodieken, als belanghebbenden daar prijs op stellen. Uit de gebruikmaking van deze faciliteit vloeit overigens voort dat in zoverre geen aanspraak kan worden gemaakt op aftrek van voorbelasting op de voet van [art. 15 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) en evenmin van terugbetaling van die voorbelasting op de voet van [art. 17 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17).
+
+Reclameteksten en advertorials
 
 Het maken van teksten die voor reclamedoeleinden worden gebruikt kan niet aangemerkt worden als een dienst door een schrijver. Hierbij is overigens niet van belang wie de tekst heeft geschreven, bijv. een journalist, romanschrijver, reclamebureau. Van een reclametekst is sprake als de tekst geschreven is om het publiek over een product of dienst te informeren, met het doel om de verkoop daarvan te bevorderen.
 
@@ -84,3 +70,11 @@ Er is sprake van een dienst door een journalist als een inhoudelijke of redactio
 Dit besluit treedt in werking met ingang van de dagtekening van dit besluit.
 
 De volgende besluiten zijn met ingang van de dagtekening van dit besluit ingetrokken:
+
+- - Besluit van 22 juni 1972, nr. B72/13422
+
+- - Besluit van 11 april 1975, no. B75/7151
+
+- - Besluit van 6 december 1988, nr. VB88/1983
+
+- - Besluit van 13 maart 2002, nr. CPP2002/803M

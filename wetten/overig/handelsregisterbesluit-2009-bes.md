@@ -1,38 +1,16 @@
 ---
 title: "Handelsregisterbesluit 2009 BES"
 identifier: "BWBR0028479"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028479"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10802573"
-version_id: "27525632"
-internal_id: "C38841551"
-label_id: "10777534"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028479/2022-01-01/0"
-intitule_bron: "Stb.2010-447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2021-69"
-original_signed_date: "2021-01-15"
-original_published_date: "2021-02-16"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2021-69"
-entry_into_force_date: "2021-01-15"
-jci_1_3: "jci1.3:c:BWBR0028479&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0028479&g=2022-01-01"
-citeertitel_status: "officieel"
-signed_date: "2021-01-15"
-entry_into_force: "2021-01-15"
+publicatiedatum: 2021-01-15
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0028479"
+opgehaald: 2026-08-15
 ---
+
 # Handelsregisterbesluit 2009 BES
 
 #### § 1. Definities
@@ -41,9 +19,9 @@ entry_into_force: "2021-01-15"
 
 In dit besluit wordt verstaan onder:
 
-- a. **«openbaar lichaam»:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- a. *«openbaar lichaam»:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- b. **«persoonlijke gegevens»:** de naam en voornamen, de geslachtsaanduiding, het woonadres, de datum, de plaats en, indien deze plaats is gelegen buiten het openbaar lichaam, het land van geboorte, de nationaliteit, alsmede de handtekening en paraaf van een natuurlijk persoon.
+- b. *«persoonlijke gegevens»:* de naam en voornamen, de geslachtsaanduiding, het woonadres, de datum, de plaats en, indien deze plaats is gelegen buiten het openbaar lichaam, het land van geboorte, de nationaliteit, alsmede de handtekening en paraaf van een natuurlijk persoon.
 
 #### § 2. De opgave ter inschrijving
 
@@ -79,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 #### § 3. Verwerking van opgaven
 
@@ -397,29 +375,13 @@ In geval van curatele van degene die als eigenaar van een onderneming, als venno
 
 #### § 5a. Bijdrage eerste inschrijving en jaarlijkse bijdrage onderneming, rechtspersoon of nevenvestiging
 
-##### Artikel 33
-
-Vervallen
-
-##### Artikel 34
-
-Dit besluit berust op [artikel 20 van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=20).
-
-##### Artikel 35
-
-Dit besluit treedt in werking op het tijdstip waarop de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) in werking treedt.
-
-##### Artikel 36
-
-Dit besluit wordt aangehaald als: Handelsregisterbesluit 2009 BES.
-
 ##### Artikel 32a
 
 1. Bij ministeriële regeling wordt het bedrag van de bijdrage bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging en van de jaarlijkse bijdrage als bedoeld in [artikel 14, eerste lid, van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=14), vastgesteld.
 
 2. Het gewicht van de jaarlijkse bijdrage is:
 
-| **Rechtsvorm** | **Gewicht jaarlijkse bijdrage** |
+| Rechtsvorm | Gewicht jaarlijkse bijdrage |
 | --- | --- |
 | Ondernemingen toebehorende aan een natuurlijk persoon | 1 |
 | Verenigingen, stichtingen en stichtingen particulier fonds | 2 |
@@ -433,3 +395,19 @@ Dit besluit wordt aangehaald als: Handelsregisterbesluit 2009 BES.
 3. Voor de toepassing van het tweede lid worden naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid als grote vennootschappen gekwalificeerd, indien het minimum aantal functionarissen dat de vennootschap volgens de statuten heeft of het aantal geregistreerde functionarissen, groter is dan een.
 
 #### § 6. Slotbepalingen
+
+##### Artikel 33
+
+*Vervallen*
+
+##### Artikel 34
+
+Dit besluit berust op [artikel 20 van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=20).
+
+##### Artikel 35
+
+Dit besluit treedt in werking op het tijdstip waarop de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) in werking treedt.
+
+##### Artikel 36
+
+Dit besluit wordt aangehaald als: Handelsregisterbesluit 2009 BES.

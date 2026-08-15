@@ -1,38 +1,16 @@
 ---
 title: "Wet vestiging bedrijven BES"
 identifier: "BWBR0028164"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028164"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10685563"
-version_id: "18830602"
-internal_id: "C26283771"
-label_id: "10660284"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028164/2019-01-01/0"
-intitule_bron: "Stb.2010-442"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-17604"
-original_signed_date: "2011-09-27"
-original_published_date: "2011-10-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-17604"
-entry_into_force_date: "2011-09-27"
-jci_1_3: "jci1.3:c:BWBR0028164&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028164&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2011-09-27"
-entry_into_force: "2011-09-27"
+publicatiedatum: 2011-09-27
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028164"
+opgehaald: 2026-08-15
 ---
+
 # Wet vestiging bedrijven BES
 
 ##### Artikel 1
@@ -86,6 +64,28 @@ Geen vergunning is vereischt voor één of meer van bovengenoemde handelingen te
 1. Het verzoekschrift tot het verkrijgen eener vergunning, houdt zooveel mogelijk en zoo nauwkeurig mogelijk in, de opgaven, vermeld in de artikelen 12 tot en met 21 van het Handelsregisterbesluit BES.
 
 2. Indien inlichtingen in het buitenland moeten worden ingewonnen, komen de daarop vallende kosten ten laste van den aanvrager der vergunning en is deze desverlangd verplicht tot dat einde het bedrag van USD 8 voor te schieten.
+
+##### Artikel 4a
+
+1. Het bestuurscollege beslist binnen acht weken op een aanvraag.
+
+2. De in het eerste lid genoemde termijn vangt aan op het moment dat een aanvraag op een door het bestuurscollege vast te stellen wijze is ingediend en kan door het bestuurscollege schriftelijk worden verlengd met ten hoogste acht weken, indien het bestuurscollege voornemens is een aanvraag af te wijzen op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=5&z=2019-01-01&g=2019-01-01).
+
+##### Artikel 4b
+
+1. Indien niet tijdig op de aanvraag is beslist, is de vestigingsvergunning van rechtswege gegeven.
+
+2. De verlening van rechtswege geldt als beschikking.
+
+3. De beschikking, bedoeld in het tweede lid, treedt in werking op de derde dag na afloop van de beslistermijn, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4a&z=2019-01-01&g=2019-01-01).
+
+##### Artikel 4c
+
+1. Het bestuurscollege maakt de beschikking, bedoeld in [artikel 4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4b&z=2019-01-01&g=2019-01-01), op de daarvoor gebruikelijke wijze bekend binnen twee weken nadat zij van rechtswege is gegeven.
+
+2. Bij de bekendmaking wordt vermeld dat de beschikking van rechtswege is gegeven.
+
+3. Het bestuurscollege kan nadere voorwaarden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=6&z=2019-01-01&g=2019-01-01), verbinden aan een van rechtswege gegeven vergunning, door binnen acht weken na afloop van de beslistermijn een nadere beschikking te nemen.
 
 ##### Artikel 5
 
@@ -168,25 +168,3 @@ Het bepaalde in [artikel 2, sub e](https://wetten.overheid.nl/jci1.3:c:BWBR00281
 ##### Artikel 18
 
 Deze wet wordt aangehaald als: Wet vestiging bedrijven BES.
-
-##### Artikel 4a
-
-1. Het bestuurscollege beslist binnen acht weken op een aanvraag.
-
-2. De in het eerste lid genoemde termijn vangt aan op het moment dat een aanvraag op een door het bestuurscollege vast te stellen wijze is ingediend en kan door het bestuurscollege schriftelijk worden verlengd met ten hoogste acht weken, indien het bestuurscollege voornemens is een aanvraag af te wijzen op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=5&z=2019-01-01&g=2019-01-01).
-
-##### Artikel 4b
-
-1. Indien niet tijdig op de aanvraag is beslist, is de vestigingsvergunning van rechtswege gegeven.
-
-2. De verlening van rechtswege geldt als beschikking.
-
-3. De beschikking, bedoeld in het tweede lid, treedt in werking op de derde dag na afloop van de beslistermijn, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4a&z=2019-01-01&g=2019-01-01).
-
-##### Artikel 4c
-
-1. Het bestuurscollege maakt de beschikking, bedoeld in [artikel 4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4b&z=2019-01-01&g=2019-01-01), op de daarvoor gebruikelijke wijze bekend binnen twee weken nadat zij van rechtswege is gegeven.
-
-2. Bij de bekendmaking wordt vermeld dat de beschikking van rechtswege is gegeven.
-
-3. Het bestuurscollege kan nadere voorwaarden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=6&z=2019-01-01&g=2019-01-01), verbinden aan een van rechtswege gegeven vergunning, door binnen acht weken na afloop van de beslistermijn een nadere beschikking te nemen.

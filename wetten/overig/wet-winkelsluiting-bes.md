@@ -1,38 +1,16 @@
 ---
 title: "Wet winkelsluiting BES"
 identifier: "BWBR0028197"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028197"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10692863"
-version_id: "17655332"
-internal_id: "C24779511"
-label_id: "10667524"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028197/2019-01-01/0"
-intitule_bron: "Stb.2010-443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-443"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-443"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028197&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028197&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028197"
+opgehaald: 2026-08-15
 ---
+
 # Wet winkelsluiting BES
 
 ##### Artikel 1
@@ -63,11 +41,11 @@ Het in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028197&
 
 - e. winkels voor zover de verkoop betreft van
 
-- 1. rouwkleding en begrafenisbenodigdheden;
+   - 1. rouwkleding en begrafenisbenodigdheden;
 
-- 2. brandstof en smeermiddelen voor motoren en onderdelen voor motoren en voertuigen;
+   - 2. brandstof en smeermiddelen voor motoren en onderdelen voor motoren en voertuigen;
 
-- 3. brood, verse melk en producten van verse melk.
+   - 3. brood, verse melk en producten van verse melk.
 
 ##### Artikel 4
 
@@ -113,11 +91,11 @@ Het is verboden in de uitoefening van een bedrijf anders dan in een winkel of an
 
 1. Indien een in deze wet strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
 
-- –. hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
+- – hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen,
 
-- –. hetzij tegen hen, die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten,
+- – hetzij tegen hen, die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten,
 
-- –. hetzij tegen beiden.
+- – hetzij tegen beiden.
 
 2. Een in deze wet strafbaar gesteld feit wordt onder meer begaan door of vanwege een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, indien het begaan wordt door personen, die, hetzij uit hoofde van een dienstbetrekking, hetzij uit anderen hoofde handelen in de sfeer van de rechtspersoon, de vennootschap, de vereniging of het doelvermogen, ongeacht of deze personen ieder afzonderlijk het strafbare feit hebben begaan dan wel bij hen gezamenlijk de elementen van dat feit aanwezig zijn.
 

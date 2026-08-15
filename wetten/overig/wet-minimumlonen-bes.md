@@ -1,38 +1,16 @@
 ---
 title: "Wet minimumlonen BES"
 identifier: "BWBR0028170"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028170"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10687293"
-version_id: "17648492"
-internal_id: "C24835631"
-label_id: "10662104"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028170/2026-01-01/0"
-intitule_bron: "Stb.2010-592"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-592"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-592"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028170&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028170&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028170"
+opgehaald: 2026-08-15
 ---
+
 # Wet minimumlonen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -119,11 +97,11 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 1. Het bruto minimumuurloon bedraagt voor werknemers van 21 jaar en ouder in het openbaar lichaam:
 
-- a. Bonaire: USD 4,03 per 1 januari 2026: USD 10,69;
+- a. Bonaire: USD 4,03 *per 1 januari 2026: USD 10,69*;
 
-- b. Sint Eustatius: USD 3,32 per 1 januari 2026: USD 10,61;
+- b. Sint Eustatius: USD 3,32 *per 1 januari 2026: USD 10,61*;
 
-- c. Saba: USD 3,50 per 1 januari 2026: USD 10,66.
+- c. Saba: USD 3,50 *per 1 januari 2026: USD 10,66*.
 
 2. [vervallen]
 

@@ -1,49 +1,17 @@
 ---
 title: "Regeling massale gegevensverstrekking uit de kadastrale registratie 1994"
 identifier: "BWBR0027517"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027517"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "10502323"
-version_id: "30121992"
-internal_id: "C43160351"
-label_id: "10477364"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027517/2024-07-01/0"
-intitule_bron: "Stcrt.1994-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-04-14"
-intitule_published: "1994-04-27"
-intitule_in_force: "1994-04-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17384"
-original_signed_date: "2024-05-24"
-original_published_date: "2024-05-31"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-17384"
-entry_into_force_date: "2024-05-24"
-jci_1_3: "jci1.3:c:BWBR0027517&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0027517&g=2024-07-01"
-citeertitel_status: "officieel"
-signed_date: "2024-05-24"
-entry_into_force: "2024-05-24"
+publicatiedatum: 2024-05-24
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0027517"
+opgehaald: 2026-08-15
 ---
+
 # Regeling massale gegevensverstrekking uit de kadastrale registratie 1994
-
-**14 april 1994/Nr. KAZ14494011**
-
-**Dienst voor het kadaster en de openbare registers**
-
-Gelet op [artikel 104, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=104) en [artikel 36 van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=36);
-
-Besluit
-
-Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking treedt.
 
 ##### Artikel 1
 
@@ -127,17 +95,11 @@ soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een p
 
 3. Om de permanente aansluiting te kunnen blijven gebruiken, informeert de betrokkene de Dienst onverwijld over een wijziging van de bij de aanmelding verstrekte gegevens, overeenkomstig de door de Dienst bepaalde wijze.
 
-##### Artikel 8
-
-1. Deze regeling treedt in werking met ingang van de dag waarop de Organisatiewet Kadaster in werking treedt.
-
-2. Deze regeling wordt aangehaald als: Regeling massale gegevensverstrekking uit de kadastrale registratie 1994. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a
 
-1. De toegang tot de permanente aansluiting wordt verkregen door gebruik te maken van ten minste een bedrijfs- en organisatiemiddel dat ingevolge [Verordening (EU) nr. 910/2014](32014R0910) bij de Europese Commissie is genotificeerd en voldoet aan het beveiligingsniveau ‘substantieel’.
+1. De toegang tot de permanente aansluiting wordt verkregen door gebruik te maken van ten minste een bedrijfs- en organisatiemiddel dat ingevolge Verordening (EU) nr. 910/2014 bij de Europese Commissie is genotificeerd en voldoet aan het beveiligingsniveau ‘substantieel’.
 
-2. Het eerste lid is niet van toepassing op een onderneming of rechtspersoon die niet in Nederland is gevestigd of in Nederland is vertegenwoordigd door een gevolmachtigde handelsagent, zolang in het land van vestiging nog geen bedrijfs- en organisatiemiddel voorhanden is dat ingevolge [Verordening (EU) nr. 910/2014](32014R0910) bij de Europese Commissie is genotificeerd en ten minste voldoet aan het beveiligingsniveau ‘substantieel’.
+2. Het eerste lid is niet van toepassing op een onderneming of rechtspersoon die niet in Nederland is gevestigd of in Nederland is vertegenwoordigd door een gevolmachtigde handelsagent, zolang in het land van vestiging nog geen bedrijfs- en organisatiemiddel voorhanden is dat ingevolge Verordening (EU) nr. 910/2014 bij de Europese Commissie is genotificeerd en ten minste voldoet aan het beveiligingsniveau ‘substantieel’.
 
 ##### Artikel 7b
 
@@ -152,3 +114,9 @@ op een nader te bepalen moment gebruik gaan maken van een bedrijfs- en organisat
 2. Het verzoek dat de in het eerste lid, onderdeel a en b genoemde ondernemingen en organisaties kunnen indienen, bevat voldoende gemotiveerd de redenen voor het verzoek tot uitstel. De beslissing op een dergelijk verzoek wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
 3. Het bestuur van de Dienst kan ten aanzien van een onderneming of organisatie [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=7a&z=2024-07-01&g=2024-07-01) voor bepaalde tijd buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat artikel 7a beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard. Het tweede lid is dan van overeenkomstige toepassing.
+
+##### Artikel 8
+
+1. Deze regeling treedt in werking met ingang van de dag waarop de Organisatiewet Kadaster in werking treedt.
+
+2. Deze regeling wordt aangehaald als: Regeling massale gegevensverstrekking uit de kadastrale registratie 1994. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

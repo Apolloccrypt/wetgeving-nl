@@ -1,48 +1,18 @@
 ---
 title: "Wet van 4 juni 2010 tot samenvoeging van de gemeenten Bodegraven en Reeuwijk"
+citeertitel: "Wet samenvoeging gemeenten Bodegraven en Reeuwijk"
 identifier: "BWBR0027903"
-country: "nl"
-rank: "wet"
-publication_date: "2010-07-14"
-last_updated: "2010-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027903"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10608193"
-version_id: "17523902"
-internal_id: "C24250181"
-label_id: "10583164"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027903/2010-07-14/0"
-intitule_bron: "Stb.2010-273"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-06-04"
-intitule_published: "2010-07-13"
-intitule_in_force: "2010-07-13"
-intitule_status: "goed"
-original_publication: "Stb.2010-273"
-original_signed_date: "2010-06-04"
-original_published_date: "2010-07-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "32243"
-original_url_id: "stb-2010-273"
-entry_into_force_date: "2010-07-14"
-entry_into_force_dossier: "32243"
-jci_1_3: "jci1.3:c:BWBR0027903&z=2010-07-14&g=2010-07-14"
-jci_1_0: "1.0:c:BWBR0027903&g=2010-07-14"
-citeertitel_status: "redactioneel"
-short_title: "Wet samenvoeging gemeenten Bodegraven en Reeuwijk"
-signed_date: "2010-06-04"
-entry_into_force: "2010-07-14"
+publicatiedatum: 2010-07-14
+laatste_update: 2010-07-14
+status: geldig
+toestand: 2010-07-14
+bron: "https://wetten.overheid.nl/BWBR0027903"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 4 juni 2010 tot samenvoeging van de gemeenten Bodegraven en Reeuwijk
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Bodegraven en Reeuwijk samen te voegen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing en instelling van gemeenten
 
@@ -52,7 +22,7 @@ Met ingang van de datum van herindeling worden de gemeenten Bodegraven en Reeuwi
 
 ##### Artikel 2
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Bodegraven-Reeuwijk ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Bodegraven en Reeuwijk, zoals aangegeven op de bij deze wet behorende kaart.
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Bodegraven-Reeuwijk ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Bodegraven en Reeuwijk, zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0027903).
 
 #### § 2. Overige bepalingen
 
@@ -82,20 +52,16 @@ Voor de op te heffen gemeenten Bodegraven en Reeuwijk wordt de nieuwe gemeente B
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Politiewet 1993.
+*Wijzigt de Politiewet 1993.*
 
 ##### Artikel 8
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
-
-## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027903&paragraaf=1&artikel=2&z=2010-07-14&g=2010-07-14)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

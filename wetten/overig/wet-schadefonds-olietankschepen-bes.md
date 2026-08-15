@@ -1,38 +1,16 @@
 ---
 title: "Wet schadefonds olietankschepen BES"
 identifier: "BWBR0028246"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028246"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10720113"
-version_id: "17688132"
-internal_id: "C24800231"
-label_id: "10694864"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028246/2019-01-01/0"
-intitule_bron: "Stb.2010-501"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-501"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-501"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028246&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028246&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028246"
+opgehaald: 2026-08-15
 ---
+
 # Wet schadefonds olietankschepen BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,15 +19,15 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- a. *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- b. **Verdrag:** het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een internationaal fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 1994, 228);
+- b. *Verdrag:* het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag betreffende de instelling van een internationaal fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 1994, 228);
 
-- c. **Fonds:** het Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het Verdrag;
+- c. *Fonds:* het Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het Verdrag;
 
-- d. **Aansprakelijkheidsverdrag 1992:** het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
+- d. *Aansprakelijkheidsverdrag 1992:* het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
 
-- e. **‘Aanvullend Fonds’**: het Internationaal Aanvullend Fonds voor de vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 2004, 196).
+- e. *‘Aanvullend Fonds’*: het Internationaal Aanvullend Fonds voor de vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 2004, 196).
 
 2. In het bepaalde bij of krachtens deze wet wordt onder schip, persoon, eigenaar, bijdragende olie, ton en garant verstaan hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag.
 
@@ -117,6 +95,8 @@ Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:
 
 ### Hoofdstuk 4
 
+[vervallen]
+
 ##### Artikel 9
 
 [vervallen]
@@ -153,6 +133,10 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 Bij of krachtens algemene maatregel van bestuur kunnen, indien dit in het belang van een goede uitvoering van de wet of in verband met internationale afspraken inzake de uitvoering van het Verdrag en de daarop berustende regelingen gewenst is, nadere regels worden gegeven betreffende de verkrijging van gegevens aangaande in de openbare lichamen Bonaire, Sint Eustatius en Saba ontvangen bijdragende olie en andere in deze wet geregelde onderwerpen.
 
+##### Artikel 13a
+
+Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in artikel 5, tweede lid, die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
+
 ##### Artikel 14
 
 [Vervallen]
@@ -160,7 +144,3 @@ Bij of krachtens algemene maatregel van bestuur kunnen, indien dit in het belang
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet schadefonds olietankschepen BES.
-
-##### Artikel 13a
-
-Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in artikel 5, tweede lid, die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.

@@ -1,38 +1,16 @@
 ---
 title: "Besluit slacht- en vleeskeuring BES"
 identifier: "BWBR0028462"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028462"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10794473"
-version_id: "17772922"
-internal_id: "C25750831"
-label_id: "10769484"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028462/2010-10-10/0"
-intitule_bron: "Stb.2010-568"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-568"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-568"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028462&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028462&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028462"
+opgehaald: 2026-08-15
 ---
+
 # Besluit slacht- en vleeskeuring BES
 
 ### Hoofdstuk I. Algemeen
@@ -41,31 +19,31 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **slachtvee:** voor onmiddellijke slachting bestemd vee;
+- a. *slachtvee:* voor onmiddellijke slachting bestemd vee;
 
-- b. **vee:** herkauwende dieren, eenhoevige dieren en varkens;
+- b. *vee:* herkauwende dieren, eenhoevige dieren en varkens;
 
-- c. **vlees:** gedood of geslacht vee of delen daarvan, al dan niet gekoeld of bevroren, ongeboren vruchten daaronder begrepen, met uitzondering van hoornen, hoeven, klauwen, borstels, haar, wol en huiden, voor zover niet afkomstig van varkens of van de onderpoten van herkauwers;
+- c. *vlees:* gedood of geslacht vee of delen daarvan, al dan niet gekoeld of bevroren, ongeboren vruchten daaronder begrepen, met uitzondering van hoornen, hoeven, klauwen, borstels, haar, wol en huiden, voor zover niet afkomstig van varkens of van de onderpoten van herkauwers;
 
-- d. **vleesprodukten:** vlees, dat een behandeling, niet zijnde een koel- of vriesbehandeling, heeft ondergaan, ter bevordering van de houdbaarheid, alsmede toebereid vlees al of niet vermengd met andere stoffen;
+- d. *vleesprodukten:* vlees, dat een behandeling, niet zijnde een koel- of vriesbehandeling, heeft ondergaan, ter bevordering van de houdbaarheid, alsmede toebereid vlees al of niet vermengd met andere stoffen;
 
-- e. **slachthuis:** het gebouw c.q. de gebouwen door het openbaar lichaam als openbare slachtplaats ingericht, alsmede het terrein behorend bij dit gebouw of deze gebouwen;
+- e. *slachthuis:* het gebouw c.q. de gebouwen door het openbaar lichaam als openbare slachtplaats ingericht, alsmede het terrein behorend bij dit gebouw of deze gebouwen;
 
-- f. **inrichtingen:** slachterijen, winkels, bewaarplaatsen van vlees, uitsnijderijen, vleesproduktenfabrieken, vetsmelterijen, inrichtingen voor het bewaren van bloed en bloedplasma en tot verwerking van bloed tot bloedplasma of bloedplasmapoeder, diervoerderfabrieken en andere inrichtingen bestemd tot of gebruikt voor het bewerken, voorverpakken of verduurzamen van vlees of het bereiden, bewerken of voorverpakken van vleesprodukten;
+- f. *inrichtingen:* slachterijen, winkels, bewaarplaatsen van vlees, uitsnijderijen, vleesproduktenfabrieken, vetsmelterijen, inrichtingen voor het bewaren van bloed en bloedplasma en tot verwerking van bloed tot bloedplasma of bloedplasmapoeder, diervoerderfabrieken en andere inrichtingen bestemd tot of gebruikt voor het bewerken, voorverpakken of verduurzamen van vlees of het bereiden, bewerken of voorverpakken van vleesprodukten;
 
-- g. **noodslachting:** het doden van vee dat:
+- g. *noodslachting:* het doden van vee dat:
 
-- a. door een ernstig ongeval is getroffen;
+   - a. door een ernstig ongeval is getroffen;
 
-- b. door ziekte in onmiddellijk levensgevaar verkeert;
+   - b. door ziekte in onmiddellijk levensgevaar verkeert;
 
-- c. onmiddellijk gevaar oplevert voor de volksgezondheid, voor de veiligheid van personen of goederen, dan wel voor besmetting van mensen of dieren;
+   - c. onmiddellijk gevaar oplevert voor de volksgezondheid, voor de veiligheid van personen of goederen, dan wel voor besmetting van mensen of dieren;
 
-- h. **dierenarts:** de door Onze Minister met de keuring van vee en vlees, het toezicht op de be- en verwerking van vlees en op de opslag, het vervoer en de verkoop van vlees en vleesprodukten belaste dierenarts;
+- h. *dierenarts:* de door Onze Minister met de keuring van vee en vlees, het toezicht op de be- en verwerking van vlees en op de opslag, het vervoer en de verkoop van vlees en vleesprodukten belaste dierenarts;
 
-- i. **keurmeester:** de persoon niet zijnde keuringsdierenarts, die onder toezicht en verantwoordelijkheid van een dierenarts, deze behulpzaam is bij het verrichten van zijn taak;
+- i. *keurmeester:* de persoon niet zijnde keuringsdierenarts, die onder toezicht en verantwoordelijkheid van een dierenarts, deze behulpzaam is bij het verrichten van zijn taak;
 
-- j. **invoer:** het brengen van niet van het openbaar lichaam Bonaire afkomstig vee, vlees of vleesprodukten in het vrije verkeer van het openbaar lichaam Bonaire.
+- j. *invoer:* het brengen van niet van het openbaar lichaam Bonaire afkomstig vee, vlees of vleesprodukten in het vrije verkeer van het openbaar lichaam Bonaire.
 
 ##### Artikel 1a
 

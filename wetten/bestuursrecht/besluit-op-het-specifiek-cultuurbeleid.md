@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 april 2010, houdende nadere regels voor subsidiëring van cultuuruitingen (Besluit op het specifiek cultuurbeleid)"
+citeertitel: "Besluit op het specifiek cultuurbeleid"
 identifier: "BWBR0027600"
-country: "nl"
-rank: "amvb"
-publication_date: "2017-04-11"
-last_updated: "2017-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027600"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10515923"
-version_id: "17323922"
-internal_id: "C23907271"
-label_id: "10491104"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027600/2017-04-11/0"
-intitule_bron: "Stb.2010-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-04-10"
-intitule_published: "2010-04-29"
-intitule_in_force: "2010-04-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-169"
-original_signed_date: "2010-04-10"
-original_published_date: "2010-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-169"
-entry_into_force_date: "2010-07-01"
-jci_1_3: "jci1.3:c:BWBR0027600&z=2017-04-11&g=2017-04-11"
-jci_1_0: "1.0:c:BWBR0027600&g=2017-04-11"
-citeertitel_status: "officieel"
-short_title: "Besluit op het specifiek cultuurbeleid"
-signed_date: "2010-04-10"
-entry_into_force: "2010-07-01"
+publicatiedatum: 2010-07-01
+laatste_update: 2017-04-11
+status: geldig
+toestand: 2017-04-11
+bron: "https://wetten.overheid.nl/BWBR0027600"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 10 april 2010, houdende nadere regels voor subsidiëring van cultuuruitingen (Besluit op het specifiek cultuurbeleid)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 3 november 2009, nr. WJZ/164386 (8253), directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 8, eerste lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=8);
-
-De Raad van State gehoord (advies van 23 december 2009, nr. W05.09.0464/I);
-
-Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 31 maart 2010, nr. WJZ/199438 (8253), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Subsidies ten behoeve van cultuuruitingen
 
@@ -177,5 +145,3 @@ Dit besluit treedt in werking met ingang van 1 juli 2010.
 ##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit op het specifiek cultuurbeleid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 13 augustus 2010, houdende nadere regels inzake de bij benoeming en herbenoeming van de gezaghebber te volgen procedure (Besluit benoemingsprocedure gezaghebber BES)"
+citeertitel: "Besluit benoemingsprocedure gezaghebber BES"
 identifier: "BWBR0028145"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028145"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10678873"
-version_id: "17634272"
-internal_id: "C25057041"
-label_id: "10653474"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028145/2010-10-10/0"
-intitule_bron: "Stb.2010-353"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-13"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-353"
-original_signed_date: "2010-08-13"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-353"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028145&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028145&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit benoemingsprocedure gezaghebber BES"
-signed_date: "2010-08-13"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028145"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 13 augustus 2010, houdende nadere regels inzake de bij benoeming en herbenoeming van de gezaghebber te volgen procedure (Besluit benoemingsprocedure gezaghebber BES)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 7 juli 2010, 2010-0000428573, CZW/WSG;
-
-Gelet op [artikel 73 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=73);
-
-De Raad van State gehoord (advies van 28 juli 2010, nr. W04.10.0295/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 6 augustus 2010, nr. 2010-0000525170, CZW/WSG;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treedt.
 
 ##### Artikel 1
 
@@ -75,5 +41,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen B
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit benoemingsprocedure gezaghebber BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

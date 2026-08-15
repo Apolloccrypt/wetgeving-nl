@@ -1,38 +1,16 @@
 ---
 title: "Wet rechtspositie Kustwacht BES"
 identifier: "BWBR0028160"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028160"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10684673"
-version_id: "17645612"
-internal_id: "C24781441"
-label_id: "10659454"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028160/2011-10-09/0"
-intitule_bron: "Stb.2010-427"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-427"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-427"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028160&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028160&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028160"
+opgehaald: 2026-08-15
 ---
+
 # Wet rechtspositie Kustwacht BES
 
 #### § 1. Algemene bepalingen
@@ -43,21 +21,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. [Vervallen];
 
-- b. **Onze Minister:** Onze Minister van Defensie;
+- b. *Onze Minister:* Onze Minister van Defensie;
 
 - c. [Vervallen]
 
-- d. vervallen;
+- d. *vervallen;*
 
-- e. **Kustwacht:** de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- e. *Kustwacht:* de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- f. **kustwachtschip:** een schip dat door de Kustwacht wordt ingezet ten behoeve van haar taken;
+- f. *kustwachtschip:* een schip dat door de Kustwacht wordt ingezet ten behoeve van haar taken;
 
 - g. [Vervallen];
 
-- h. **ambtenaar:** de ambtenaar die is aangesteld in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en werkzaam is bij de Kustwacht;
+- h. *ambtenaar:* de ambtenaar die is aangesteld in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en werkzaam is bij de Kustwacht;
 
-- i. **geüniformeerd ambtenaar:** de ambtenaar die als zodanig is aangesteld.
+- i. *geüniformeerd ambtenaar:* de ambtenaar die als zodanig is aangesteld.
 
 ##### Artikel 2
 
@@ -107,21 +85,21 @@ De bijdragegrondslag over een jaar wordt, voorzover de betrokkene in dat jaar ge
 
 Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **werkzaamheden:** activiteiten die voortvloeien uit de door de geüniformeerd ambtenaar vervulde functie, alsmede andere opgedragen activiteiten die om redenen van dienst dan wel in het algemeen belang noodzakelijk zijn;
+- a. *werkzaamheden:* activiteiten die voortvloeien uit de door de geüniformeerd ambtenaar vervulde functie, alsmede andere opgedragen activiteiten die om redenen van dienst dan wel in het algemeen belang noodzakelijk zijn;
 
-- b. **arbeidsduur:** de tijdsduur, uitgedrukt in een aantal uren per dag of per week, gedurende welke de geüniformeerd ambtenaar werkzaamheden moet verrichten;
+- b. *arbeidsduur:* de tijdsduur, uitgedrukt in een aantal uren per dag of per week, gedurende welke de geüniformeerd ambtenaar werkzaamheden moet verrichten;
 
-- c. **werktijd:** het totaal van de in kloktijden aangegeven perioden gedurende welke een geüniformeerd ambtenaar de hem opgedragen werkzaamheden daadwerkelijk moet verrichten;
+- c. *werktijd:* het totaal van de in kloktijden aangegeven perioden gedurende welke een geüniformeerd ambtenaar de hem opgedragen werkzaamheden daadwerkelijk moet verrichten;
 
-- d. **rusttijd:** een onderbreking van de arbeidsduur van 15 minuten of langer;
+- d. *rusttijd:* een onderbreking van de arbeidsduur van 15 minuten of langer;
 
-- e. **rooster:** een voor een periode van minstens een week opgesteld en van te voren bekendgemaakt schema van aanvang en einde der dagelijkse werk- en rusttijden voor werkzaamheden;
+- e. *rooster:* een voor een periode van minstens een week opgesteld en van te voren bekendgemaakt schema van aanvang en einde der dagelijkse werk- en rusttijden voor werkzaamheden;
 
-- f. **etmaal:** een tijdsbestek van 24 uur;
+- f. *etmaal:* een tijdsbestek van 24 uur;
 
-- g. **feestdag:** de Nieuwjaarsdag, de dag na de carnavalsoptocht, de Goede vrijdag, de Eerste Paasdag, de Tweede Paasdag, de Hemelvaartsdag, de beide Kerstdagen, de dag waarop de verjaardag van de Koning officieel wordt gevierd, de dag waarop de dag van de arbeid wordt gevierd (1 mei), de datum van 15 december als zijnde Koninkrijksdag, dan wel Dia dia Reino, dan wel Kingdom Day en iedere dag, die daarenboven bij besluit van het bestuurscollege van de openbare lichamen Bonaire, Sint Eustatius en Saba als zodanig wordt aangewezen; hierbij is de standplaats van de ambtenaar bepalend;
+- g. *feestdag:* de Nieuwjaarsdag, de dag na de carnavalsoptocht, de Goede vrijdag, de Eerste Paasdag, de Tweede Paasdag, de Hemelvaartsdag, de beide Kerstdagen, de dag waarop de verjaardag van de Koning officieel wordt gevierd, de dag waarop de dag van de arbeid wordt gevierd (1 mei), de datum van 15 december als zijnde Koninkrijksdag, dan wel Dia dia Reino, dan wel Kingdom Day en iedere dag, die daarenboven bij besluit van het bestuurscollege van de openbare lichamen Bonaire, Sint Eustatius en Saba als zodanig wordt aangewezen; hierbij is de standplaats van de ambtenaar bepalend;
 
-- h. **overwerk:** werkzaamheden door een geüniformeerd ambtenaar verricht buiten de voor hem bij dienstrooster voorgeschreven tijden, voor zover daardoor het per werkperiode vastgestelde aantal arbeidsuren wordt overschreden.
+- h. *overwerk:* werkzaamheden door een geüniformeerd ambtenaar verricht buiten de voor hem bij dienstrooster voorgeschreven tijden, voor zover daardoor het per werkperiode vastgestelde aantal arbeidsuren wordt overschreden.
 
 ##### Artikel 7
 

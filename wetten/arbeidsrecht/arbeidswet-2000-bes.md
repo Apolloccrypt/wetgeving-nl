@@ -1,40 +1,16 @@
 ---
 title: "Arbeidswet 2000 BES"
 identifier: "BWBR0028202"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028202"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10693903"
-version_id: "27271152"
-internal_id: "C38529671"
-label_id: "10668954"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028202/2025-01-01/0"
-intitule_bron: "Stb.2010-590"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2020-496"
-original_signed_date: "2020-11-25"
-original_published_date: "2020-12-04"
-original_effect: "structuurwijziging"
-original_dossier: "35494"
-original_url_id: "stb-2020-496"
-entry_into_force_date: "2020-11-25"
-entry_into_force_dossier: "35494"
-jci_1_3: "jci1.3:c:BWBR0028202&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0028202&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2020-11-25"
-entry_into_force: "2020-11-25"
+publicatiedatum: 2020-11-25
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0028202"
+opgehaald: 2026-08-15
 ---
+
 # Arbeidswet 2000 BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -69,33 +45,33 @@ entry_into_force: "2020-11-25"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **werknemer:** de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
+- a. *werknemer:* de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
 
-- b. **werkgever:** de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van degene die beroepsmatig arbeidskrachten ter beschikking stelt aan een derde als bedoeld in de [Wet op het ter beschikking stellen van arbeidskrachten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028435), doch met inbegrip van degene aan wie arbeidskrachten ter beschikking worden gesteld als bedoeld in die wet;
+- b. *werkgever:* de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van degene die beroepsmatig arbeidskrachten ter beschikking stelt aan een derde als bedoeld in de [Wet op het ter beschikking stellen van arbeidskrachten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028435), doch met inbegrip van degene aan wie arbeidskrachten ter beschikking worden gesteld als bedoeld in die wet;
 
-- c. **kinderen:** personen die de leeftijd van vijftien jaar nog niet hebben bereikt;
+- c. *kinderen:* personen die de leeftijd van vijftien jaar nog niet hebben bereikt;
 
-- d. **jeugdigen:** personen die de leeftijd van vijftien jaar, maar nog niet de leeftijd van achttien jaar, hebben bereikt;
+- d. *jeugdigen:* personen die de leeftijd van vijftien jaar, maar nog niet de leeftijd van achttien jaar, hebben bereikt;
 
-- e. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid.
+- e. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 2. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **arbeidsduur:** het aantal uren dat de werknemer per week of per dag werkt met uitzondering van overwerk;
+- a. *arbeidsduur:* het aantal uren dat de werknemer per week of per dag werkt met uitzondering van overwerk;
 
-- b. **arbeidstijd:** de tijdstippen waarbinnen de werknemer arbeid verricht;
+- b. *arbeidstijd:* de tijdstippen waarbinnen de werknemer arbeid verricht;
 
-- c. **werktijden:** de tijdstippen van aanvang en beëindiging van de arbeid;
+- c. *werktijden:* de tijdstippen van aanvang en beëindiging van de arbeid;
 
-- d. **rusttijd:** de tijd gedurende welke het verboden is arbeid te laten verrichten, anders dan bij wijze van overwerk;
+- d. *rusttijd:* de tijd gedurende welke het verboden is arbeid te laten verrichten, anders dan bij wijze van overwerk;
 
-- e. **schemawerk:** arbeid, niet zijnde overwerk, verricht volgens een periodiek werkrooster op verschillende, met het oog op de aard van de onderneming noodzakelijke, tijdstippen waardoor de arbeidstijd geheel of gedeeltelijk valt binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde rusttijd;
+- e. *schemawerk:* arbeid, niet zijnde overwerk, verricht volgens een periodiek werkrooster op verschillende, met het oog op de aard van de onderneming noodzakelijke, tijdstippen waardoor de arbeidstijd geheel of gedeeltelijk valt binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde rusttijd;
 
-- f. **overwerk:** arbeid, verricht gedurende de voor de werknemer geldende rusttijd, alsmede arbeid welke ten aanzien van de werknemer de op grond van deze wet of de daarop berustende bepalingen maximaal toegestane arbeidsduur per dag of per week overschrijdt;
+- f. *overwerk:* arbeid, verricht gedurende de voor de werknemer geldende rusttijd, alsmede arbeid welke ten aanzien van de werknemer de op grond van deze wet of de daarop berustende bepalingen maximaal toegestane arbeidsduur per dag of per week overschrijdt;
 
-- g. **week:** een periode van zeven opeenvolgende dagen;
+- g. *week:* een periode van zeven opeenvolgende dagen;
 
-- h. **rustdag:** de zondag dan wel de dag die voor de werknemer, die op zondag schemawerk verricht, volgens zijn werkrooster voor de zondag in de plaats komt. Onze Minister is bevoegd desverzocht te bepalen, dat voor de belijder van een godsdienst, die een andere wekelijkse rustdag voorschrijft dan de zondag, de voorgeschreven dag voor de toepassing van deze wet in de plaats treedt van de zondag.
+- h. *rustdag:* de zondag dan wel de dag die voor de werknemer, die op zondag schemawerk verricht, volgens zijn werkrooster voor de zondag in de plaats komt. Onze Minister is bevoegd desverzocht te bepalen, dat voor de belijder van een godsdienst, die een andere wekelijkse rustdag voorschrijft dan de zondag, de voorgeschreven dag voor de toepassing van deze wet in de plaats treedt van de zondag.
 
 ##### Artikel 3
 
@@ -135,7 +111,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 1. Als rusttijd geldt:
 
-- a. dagelijks de tijd voor 7.00 uur en de tijd na 20.00 uur, met dien verstande dat voor de werknemer in een onderneming, die krachtens enige wettelijke regeling een voorgeschreven sluitingstijd heeft, de laatst bedoelde rusttijd ten hoogste een half uur na die sluitingstijd valt, waarbij het tijdstip van aanvang van de arbeid op de volgende dag zodanig moet zijn dat voor die werknemer een aaneengesloten rusttijd van tenminste 11 uren geldt;
+- a. dagelijks de tijd voor 7.00 uur en de tijd na 20.00 uur, met dien verstande dat voor de werknemer in een onderneming, die krachtens enige wettelijke regeling een voorgeschreven sluitingstijd heeft, de laatst bedoelde rusttijd ten hoogste een half uur na die sluitingstijd valt, waarbij het tijdstip van aanvang van de arbeid op de volgende dag zodanig moet zijn dat voor die werknemer een aaneengesloten rusttijd van tenminste 11 uren geldt;
 
 - b. de wekelijkse rustdag;
 
@@ -197,7 +173,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 2. De arbeidsduur per nachtdienst, exclusief pauze, bedraagt ten hoogste acht uren.
 
-3. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt de arbeidsduur van de werknemer, die arbeid in nachtdienst verricht, over een periode van 13 weken berekend niet meer dan 40 uur per week.
+3. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt de arbeidsduur van de werknemer, die arbeid in nachtdienst verricht, over een periode van 13 weken berekend niet meer dan 40 uur per week.
 
 4. De werkgever deelt de arbeid zo in, dat:
 
@@ -277,6 +253,32 @@ Onze Minister is bevoegd het laten verrichten van overwerk binnen een bepaalde o
 
 ### Hoofdstuk 3A. Arbeid door zwangere en bevallen werkneemsters
 
+##### Artikel 17a. Arbeid in de nacht
+
+1. De zwangere werkneemster kan niet worden verplicht arbeid te verrichten tussen 00.00 uur en 06.00 uur, tenzij de werkgever aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
+
+2. Ter uitvoering van het eerste lid wordt desgevraagd een schriftelijke verklaring overgelegd van een geneeskundige of een verloskundige waaruit blijkt dat de betrokken werkneemster zwanger is.
+
+3. Het eerste lid is van overeenkomstige toepassing ten aanzien van een werkneemster gedurende de periode van zes maanden na haar bevalling.
+
+##### Artikel 17b. Arbeid in periode rond de bevalling
+
+De werkgever organiseert de arbeid zodanig, dat een werkneemster:
+
+- a. geen arbeid verricht binnen vier weken voor de vermoedelijke datum van de bevalling, zoals die is aangegeven in een door de werkneemster aan de werkgever overgelegde schriftelijke verklaring van een arts of verloskundige waaruit de vermoedelijke datum van bevalling blijkt. Het in de eerste zin bedoelde tijdvak wordt verlengd met het tijdvak, dat verloopt tussen de vermoedelijke datum van de bevalling en de werkelijke datum van de bevalling;
+
+- b. geen arbeid verricht binnen zes weken na haar bevalling.
+
+##### Artikel 17c. Recht op voed- en kolfverlof
+
+1. Een werkneemster die een borstkind voedt, heeft, indien zij de werkgever hiervan in kennis heeft gesteld, gedurende de eerste negen levensmaanden van dat kind het recht de arbeid te onderbreken teneinde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. De werkgever biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
+
+2. De onderbrekingen, bedoeld in het eerste lid, vinden plaats zo vaak en zo lang als nodig is, maar bedragen gezamenlijk ten hoogste een vierde van de dagelijkse arbeidsduur. De vaststelling van het tijdstip en de duur van de onderbrekingen vindt plaats door de betrokken werkneemster na overleg met de werkgever.
+
+3. De duur van de onderbrekingen, bedoeld in dit artikel, geldt voor de toepassing van deze wet en de daarop berustende bepalingen als arbeidstijd, waarover de werkneemster haar aanspraak op het naar tijdruimte vastgesteld loon behoudt.
+
+### Hoofdstuk 4. Verbod van kinderarbeid
+
 ##### Artikel 18
 
 Het is verboden kinderen, al dan niet tegen betaling en al dan niet op grond van een arbeidsovereenkomst, arbeid te laten verrichten.
@@ -351,13 +353,13 @@ Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
 
 - j. voor het openbaar lichaam Bonaire de dag waarop de viering van Dia di Rincon plaatsvindt;
 
-- k. voor het openbaar lichaam Sint Eustatius de datum 1 juli;
+- k. voor het openbaar lichaam Sint Eustatius de datum 1 juli;
 
-- l. de datum 6 september voor het openbaar lichaam Bonaire, de datum 16 november voor het openbaar lichaam Sint Eustatius en de datum van de eerste vrijdag van december voor het openbaar lichaam Saba.
+- l. de datum 6 september voor het openbaar lichaam Bonaire, de datum 16 november voor het openbaar lichaam Sint Eustatius en de datum van de eerste vrijdag van december voor het openbaar lichaam Saba.
 
 2. De Dag van de Arbeid wordt jaarlijks gevierd op 1 mei, tenzij die dag op een zondag valt of op die dag de verjaardag van de Koning officieel wordt gevierd, in welke gevallen de Dag van de Arbeid op de eerst volgende werkdag wordt gevierd.
 
-3. Het bestuurscollege van een openbaar lichaam is bevoegd te bepalen dat in het openbaar lichaam de in het eerste lid, onderdeel b of l bedoelde feestdag op een andere datum wordt gevierd.
+3. Het bestuurscollege van een openbaar lichaam is bevoegd te bepalen dat in het openbaar lichaam de in het eerste lid, onderdeel b of l bedoelde feestdag op een andere datum wordt gevierd.
 
 4. Bij algemene maatregel van bestuur kan worden bepaald dat andere dan in de vorige leden bedoelde dagen als feestdagen gelden.
 
@@ -443,7 +445,7 @@ De werkgever overlegt op verzoek van Onze Minister een personeelsregister, waari
 
 De werkgever overlegt op verzoek van Onze Minister een register van het binnen zijn onderneming verrichte overwerk over ten hoogste de afgelopen twaalf maanden. Het register geeft een overzicht van de namen van de werknemers, die overwerk hebben verricht, de data waarop het overwerk is verricht, de duur van het verrichte overwerk per werknemer en de voor het overwerk gegeven compensatie.
 
-### Hoofdstuk 8. Administratieve bepalingen
+### Hoofdstuk 9. Bezwaar en beroep
 
 ##### Artikel 31
 
@@ -485,7 +487,7 @@ De werkgever overlegt op verzoek van Onze Minister een register van het binnen z
 
 5. Zonodig, wordt de toegang tot een plaats als bedoeld in het vierde lid, onderdeel c, verschaft met behulp van de sterke arm.
 
-6. Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel d, is [titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
+6. Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel d, is [titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
 
 7. Een ieder is verplicht de in het eerste lid bedoelde ambtenaren en personen alle medewerking te verlenen die op grond van het vierde lid wordt gevorderd.
 
@@ -493,7 +495,7 @@ De werkgever overlegt op verzoek van Onze Minister een register van het binnen z
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
-### Hoofdstuk 10
+### Hoofdstuk 11. Strafbepalingen
 
 ##### Artikel 36
 
@@ -524,41 +526,3 @@ Alle ten gevolge van deze wet opgemaakte, overgelegde en over te leggen stukken 
 ##### Artikel 45
 
 Deze wet wordt aangehaald als: Arbeidswet 2000 BES.
-
-##### Artikel 17a. Arbeid in de nacht
-
-1. De zwangere werkneemster kan niet worden verplicht arbeid te verrichten tussen 00.00 uur en 06.00 uur, tenzij de werkgever aannemelijk maakt dat dit redelijkerwijs niet van hem kan worden gevergd.
-
-2. Ter uitvoering van het eerste lid wordt desgevraagd een schriftelijke verklaring overgelegd van een geneeskundige of een verloskundige waaruit blijkt dat de betrokken werkneemster zwanger is.
-
-3. Het eerste lid is van overeenkomstige toepassing ten aanzien van een werkneemster gedurende de periode van zes maanden na haar bevalling.
-
-##### Artikel 17b. Arbeid in periode rond de bevalling
-
-De werkgever organiseert de arbeid zodanig, dat een werkneemster:
-
-- a. geen arbeid verricht binnen vier weken voor de vermoedelijke datum van de bevalling, zoals die is aangegeven in een door de werkneemster aan de werkgever overgelegde schriftelijke verklaring van een arts of verloskundige waaruit de vermoedelijke datum van bevalling blijkt. Het in de eerste zin bedoelde tijdvak wordt verlengd met het tijdvak, dat verloopt tussen de vermoedelijke datum van de bevalling en de werkelijke datum van de bevalling;
-
-- b. geen arbeid verricht binnen zes weken na haar bevalling.
-
-##### Artikel 17c. Recht op voed- en kolfverlof
-
-1. Een werkneemster die een borstkind voedt, heeft, indien zij de werkgever hiervan in kennis heeft gesteld, gedurende de eerste negen levensmaanden van dat kind het recht de arbeid te onderbreken teneinde in de nodige rust en afzondering haar kind te zogen dan wel de borstvoeding te kolven. De werkgever biedt haar daartoe de gelegenheid en stelt, waar nodig, een geschikte af te sluiten besloten ruimte ter beschikking.
-
-2. De onderbrekingen, bedoeld in het eerste lid, vinden plaats zo vaak en zo lang als nodig is, maar bedragen gezamenlijk ten hoogste een vierde van de dagelijkse arbeidsduur. De vaststelling van het tijdstip en de duur van de onderbrekingen vindt plaats door de betrokken werkneemster na overleg met de werkgever.
-
-3. De duur van de onderbrekingen, bedoeld in dit artikel, geldt voor de toepassing van deze wet en de daarop berustende bepalingen als arbeidstijd, waarover de werkneemster haar aanspraak op het naar tijdruimte vastgesteld loon behoudt.
-
-### Hoofdstuk 4. Verbod van kinderarbeid
-
-### Hoofdstuk 5. Arbeid door jeugdigen
-
-### Hoofdstuk 6. Feestdagen
-
-### Hoofdstuk 7. Bijzondere bepalingen
-
-### Hoofdstuk 9. Bezwaar en beroep
-
-### Hoofdstuk 11. Strafbepalingen
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen

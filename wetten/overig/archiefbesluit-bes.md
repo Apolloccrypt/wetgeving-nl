@@ -1,38 +1,16 @@
 ---
 title: "Archiefbesluit BES"
 identifier: "BWBR0028445"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028445"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10786103"
-version_id: "17764322"
-internal_id: "C24827281"
-label_id: "10761034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028445/2013-01-01/0"
-intitule_bron: "Stb.2010-582"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-582"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-582"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028445&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0028445&g=2013-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0028445"
+opgehaald: 2026-08-15
 ---
+
 # Archiefbesluit BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,11 +19,12 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **wet:** [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369);
+- b. *wet:*
+ [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369);
 
-- c. **selectielijst:** lijst als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=7).
+- c. *selectielijst:* lijst als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=7).
 
 ### Hoofdstuk 2. Het ontwerpen van selectielijsten, alsmede de vervanging en vervreemding van archiefbescheiden
 
@@ -83,6 +62,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien de bestuurscolleges van twee of alle openbare lichamen Bonaire, Sint Eustatius en Saba gezamenlijk een selectielijst ontwerpen, kan volstaan worden met de betrokkenheid van een aangewezen persoon als bedoeld in het eerste lid, onderdeel a, en met de betrokkenheid van een eilandarchivaris.
 
+##### Artikel 4a
+
+1. De zorgdrager benoemt de deskundige, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), op voordracht van de personen, bedoeld in artikel 4, eerste lid, onderdelen a en b.
+
+2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
+
 ##### Artikel 5
 
 1. Een selectielijst bestaat tenminste uit:
@@ -95,9 +80,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een toelichting die in ieder geval bevat:
 
-- 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01);
+   - 1°. een verantwoording van de wijze waarop toepassing is gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01);
 
-- 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg; en
+   - 2°. een verslag van de wijze waarop derden en in elk geval de personen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), bij het ontwerpen van de selectielijst betrokken zijn en van de inhoud van het met hen gevoerde overleg; en
 
 - e. een opsomming van de criteria aan de hand waarvan de zorgdrager archiefbescheiden die ingevolge de selectielijst voor vernietiging in aanmerking komen, van vernietiging kan uitzonderen.
 
@@ -125,9 +110,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Toezicht
 
-#### § 2. Toezicht
+[vervallen]
 
 #### § 3. Zorg
+
+[vervallen]
+
+#### § 4. Vervanging en vervreemding
 
 ##### Artikel 16
 
@@ -240,19 +229,3 @@ Dit besluit berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0
 ##### Artikel 31
 
 Dit besluit wordt aangehaald als: Archiefbesluit BES.
-
-##### Artikel 4a
-
-1. De zorgdrager benoemt de deskundige, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), op voordracht van de personen, bedoeld in artikel 4, eerste lid, onderdelen a en b.
-
-2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
-
-#### § 4. Vervanging en vervreemding
-
-### Hoofdstuk 3. Opleiding tot en het verkrijgen van diploma’s in de archivistiek
-
-### Hoofdstuk 4. Overbrenging van archiefbescheiden
-
-### Hoofdstuk 5. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen

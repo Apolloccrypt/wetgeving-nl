@@ -1,39 +1,17 @@
 ---
 title: "Wet materieel ambtenarenrecht BES"
+citeertitel: "Ambtenarenwet BES"
 identifier: "BWBR0028215"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028215"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10707023"
-version_id: "18830612"
-internal_id: "C26283781"
-label_id: "10683274"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028215/2020-01-01/0"
-intitule_bron: "Stb.2010-395"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-18097"
-original_signed_date: "2011-10-03"
-original_published_date: "2011-10-07"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2011-18097"
-entry_into_force_date: "2011-10-09"
-jci_1_3: "jci1.3:c:BWBR0028215&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028215&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Ambtenarenwet BES"
-signed_date: "2011-10-03"
-entry_into_force: "2011-10-09"
+publicatiedatum: 2011-10-09
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028215"
+opgehaald: 2026-08-15
 ---
+
 # Wet materieel ambtenarenrecht BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -70,31 +48,31 @@ De bepalingen van deze wet en de uit kracht daarvan gegeven voorschriften vinden
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Overheid:**
+- *Overheid:*
 
-- a. de staat, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld;
+   - a. de staat, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld;
 
-- b. het openbaar lichaam, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld.
+   - b. het openbaar lichaam, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld.
 
-- **Bevoegd gezag:**
+- *Bevoegd gezag:*
 
-- a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft de ambtenaren in dienst van de staat, niet zijnde personeel van het Bureau van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+   - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft de ambtenaren in dienst van de staat, niet zijnde personeel van het Bureau van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. het bestuurscollege, voor wat betreft de ambtenaren in dienst van het openbare lichaam met inachtneming van sub c;
+   - b. het bestuurscollege, voor wat betreft de ambtenaren in dienst van het openbare lichaam met inachtneming van sub c;
 
-- c. de eilandsraad, voor wat betreft de eilandgriffier en de op de griffie werkzame ambtenaren;
+   - c. de eilandsraad, voor wat betreft de eilandgriffier en de op de griffie werkzame ambtenaren;
 
-- d. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+   - d. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk II. Bepalingen van materieel recht
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6A
 
@@ -106,27 +84,27 @@ Vervallen
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -134,9 +112,7 @@ Aanstelling en bevordering geschieden overeenkomstig de regels, vastgesteld bij 
 
 ##### Artikel 14
 
-Vervallen
-
-### Hoofdstuk III. Beoordeling en ranglijst
+*Vervallen*
 
 ##### Artikel 15
 
@@ -152,11 +128,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld aan
 
 ##### Artikel 16
 
-Vervallen
-
-### Hoofdstuk IV. Bezoldiging, uitkeringen en toelagen
-
-#### § 1. Bezoldiging, persoonlijke toelage en beloning voor overwerk
+*Vervallen*
 
 ##### Artikel 17
 
@@ -164,109 +136,99 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
-
-#### § 2. Kinder-, standplaats- en kostwinnerstoelage
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Vervallen
-
-#### § 3. Bezoldiging in militaire dienst
+*Vervallen*
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 35
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 38
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 39
 
-Vervallen
-
-#### § 4. Uitkering bij overlijden
+*Vervallen*
 
 ##### Artikel 40
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 41
 
 [vervallen]
 
-### Hoofdstuk V. Dienst- en werktijden
-
 ##### Artikel 42
 
 Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld met betrekking tot dienst- en werktijden, waarbij onderscheid kan worden gemaakt tussen ambtenaren in dienst van de staat en ambtenaren in dienst van de openbare lichamen.
-
-### Hoofdstuk VI. Verlof, verlofsbezoldiging en aanspraken in geval van ziekte
 
 ##### Artikel 43
 
@@ -276,33 +238,27 @@ Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld met be
 
 ##### Artikel 44
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45B
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 45C
 
-Vervallen
-
-### Hoofdstuk VII. Verschillende verplichtingen en rechten van de ambtenaar
-
-#### § 1. Eed of belofte
+*Vervallen*
 
 ##### Artikel 46
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de verplichte aflegging van de eed of belofte door de ambtenaar bij zijn aanstelling.
-
-#### § 2. Het verrichten van arbeid
 
 ##### Artikel 47
 
@@ -312,29 +268,27 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ##### Artikel 48
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 49
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 50
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 51
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 52
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 53
 
-Vervallen
-
-#### § 3. Nevenarbeid
+*Vervallen*
 
 ##### Artikel 54
 
@@ -346,37 +300,31 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld bet
 
 ##### Artikel 56
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 57A
 
-Vervallen
-
-#### § 4. Gebruik van overheidsgoederen
+*Vervallen*
 
 ##### Artikel 58
 
-Vervallen
-
-#### § 5. Verhouding tot derden
+*Vervallen*
 
 ##### Artikel 59
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 60
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 61
 
-Vervallen
-
-#### § 5a. Recht tot vereniging, vergadering en betoging
+*Vervallen*
 
 ##### Artikel 61a
 
@@ -388,13 +336,9 @@ Vervallen
 
 - b. een vakvereniging.
 
-#### § 5b. Onderzoek aan lichaam, kleding en goederen
-
 ##### Artikel 61b
 
 De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen aan een in het belang van de dienst door het bevoegde gezag gelast onderzoek aan zijn lichaam of aan zijn kleding of van zijn daar aanwezige goederen. Het bevoegd gezag, op wiens last het onderzoek plaatsheeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
-
-#### § 6. Geheimhouding
 
 ##### Artikel 62
 
@@ -414,97 +358,81 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 Het is de ambtenaar verboden misbruik te maken van hetgeen hij in zijn ambt heeft vernomen.
 
-#### § 7. Dienstkleding
-
 ##### Artikel 64
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 65
 
-Vervallen
-
-#### § 8. Ambts- en dienstwoningen
+*Vervallen*
 
 ##### Artikel 66
 
-Vervallen
-
-#### § 9. Schadeplicht en rekenplicht
+*Vervallen*
 
 ##### Artikel 67
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 68
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 69
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 70
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 71
 
-Vervallen
-
-#### § 10. Schadeloosstellingen
+*Vervallen*
 
 ##### Artikel 72
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 73
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 74
 
-Vervallen
-
-#### § 11. Beloningen en andere bijzondere eenmalige toelagen.
+*Vervallen*
 
 ##### Artikel 75
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 75a
 
-Vervallen
-
-#### § 12. Studieopdracht
+*Vervallen*
 
 ##### Artikel 76
 
-Vervallen
-
-#### § 13. Andere verplichtingen en rechten
+*Vervallen*
 
 ##### Artikel 77
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 78
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 79
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 80
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 81
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffende overige rechten en verplichtingen van ambtenaren, waarbij onderscheid kan worden gemaakt tussen ambtenaren in dienst van de staat en ambtenaren in dienst van de openbare lichamen.
-
-### Hoofdstuk VIII. Disciplinaire straffen
 
 ##### Artikel 82
 
@@ -512,29 +440,19 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 ##### Artikel 83
 
-Vervallen
-
-##### Artikel 83a
-
-1. De kennisgeving, bedoeld in artikel 95, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES, wordt zo mogelijk in het dienstgebouw of de werkplaats waar de ambtenaar zijn dienst verricht tegen gedagtekend en door hem ondertekend ontvangstbewijs ter hand gesteld.
-
-2. Indien de ambtenaar niet in het dienstgebouw of op de werkplaats aanwezig is, wordt de mededeling aan zijn woon- of verblijfplaats tegen gedagtekend en door de ontvanger ondertekend ontvangstbewijs afgegeven aan de betrokkene of aan een van zijn huisgenoten. Indien degene die met de afgifte van de mededeling belast is noch de ambtenaar, noch iemand van diens huisgenoten aantreft, of indien degene die hij aantreft weigert het stuk in ontvangst te nemen of het ontvangstbewijs te ondertekenen, wordt het bij aangetekende post aan zijn woon- of verblijfplaats gezonden.
-
-3. In de gevallen, bedoeld in het tweede lid, wordt de betrokken ambtenaar geacht met de mededeling bekend te zijn geworden op de dag van de afgifte aan zijn woon- of verblijfplaats, onderscheidenlijk op de dag waarop het door de postdienst aan die woon- of verblijfplaats is bezorgd of aangeboden.
+*Vervallen*
 
 ##### Artikel 84
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 85
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 86
 
-Vervallen
-
-### Hoofdstuk IX. Schorsing en ontslag
+*Vervallen*
 
 ##### Artikel 87
 
@@ -542,47 +460,47 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 ##### Artikel 88
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 97
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 99
 
@@ -592,7 +510,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de 
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de toekenning van een geldsom of van investeringsfaciliteiten aan personen die op eigen verzoek, doch gevolg gevend aan een uitnodiging van het bevoegd gezag tot het doen van dat verzoek, zijn ontslagen.
 
-### Hoofdstuk X. Georganiseerd overleg
+### Hoofdstuk III. Georganiseerd overleg
 
 ##### Artikel 101
 
@@ -602,7 +520,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake de 
 
 [vervallen]
 
-### Hoofdstuk XI. Inhouding, beslag en korting
+### Hoofdstuk IV. Inhouding, beslag en korting
 
 #### § 1. Algemeen
 
@@ -694,47 +612,45 @@ In geval van samenloop van inhouding, beslag en korting, zal, ongeacht in welke 
 
 Tenzij in bijzondere wetgeving anders is bepaald, verjaren rechtsvorderingen ter zake van bezoldiging, pensioenen en andere geldelijke aanspraken, verschuldigd krachtens een rechtsverhouding waarop dit hoofdstuk van toepassing of van overeenkomstige toepassing is, door verloop van vijf jaren na de aanvang van de dag, volgend op die waarop de vordering opeisbaar is geworden. De [artikelen 316 tot en met 323 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=316) zijn van toepassing.
 
-### Hoofdstuk XII. Bijzondere voorzieningen
-
 ##### Artikel 119
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 120
 
-Vervallen
+*Vervallen*
 
-### Hoofdstuk XIIa
+### Hoofdstuk V. Opleidingen
 
 ##### Artikel 120a
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende opleidingen en opleidingseisen, waarbij onderscheid kan worden gemaakt tussen ambtenaren in dienst van de staat en ambtenaren in dienst van de openbare lichamen.
 
-### Hoofdstuk XIII. Slot- en overgangsbepalingen
+### Hoofdstuk XIII. Slotbepalingen
 
 ##### Artikel 121
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 122
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 123
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124a
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 124b
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor het tijdstip van inwerkingtreding van [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) door ambtenaren in hun hoedanigheid van ambtenaar in de zin van de Landsverordening Materieel Ambtenarenrecht opgebouwde of verworven rechten en aanspraken.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor het tijdstip van inwerkingtreding van [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) door ambtenaren in hun hoedanigheid van ambtenaar in de zin van de Landsverordening Materieel Ambtenarenrecht opgebouwde of verworven rechten en aanspraken.
 
 ##### Artikel 125 t/m 129
 
@@ -743,79 +659,3 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor 
 ##### Artikel 130
 
 Deze wet wordt aangehaald als: Ambtenarenwet BES.
-
-##### Artikel 73a
-
-1. De ambtenaar die in verband met verandering van standplaats of bij eerste vestiging op een standplaats buiten de woonplaats is verhuisd, heeft recht op vergoeding van verhuiskosten.
-
-2. Regelen betreffende toekenning van de in het eerste lid bedoelde vergoeding worden vastgesteld:
-
-- a. bij ministeriële regeling, voor ambtenaren in dienst van de staat;
-
-- b. bij eilandsbesluit houdende algemene maatregelen, voor ambtenaren in dienst van een openbaar lichaam.
-
-#### § 11. Beloningen en andere bijzondere eenmalige toelagen.
-
-#### § 12. Studieopdracht
-
-#### § 13. Andere verplichtingen en rechten
-
-### Hoofdstuk VIII. Disciplinaire straffen
-
-### Hoofdstuk IX. Schorsing en ontslag
-
-### Hoofdstuk XIII. Slotbepalingen
-
-### Hoofdstuk XI. Inhouding, beslag en korting
-
-#### § 1. Algemeen
-
-#### § 2. Inhouding
-
-#### § 3. Beslag
-
-#### § 4. Korting
-
-#### § 5. Beperkingen
-
-#### § 6. Faillissement
-
-#### § 7. Samenloop
-
-#### § 8. Verdeling
-
-#### § 9. Overdracht en inpandgeving
-
-#### § 10. Verjaring van vorderingen
-
-### Hoofdstuk XII. Bijzondere voorzieningen
-
-### Hoofdstuk XIIa
-
-### Hoofdstuk XIII. Slot- en overgangsbepalingen
-
-### Hoofdstuk III. Georganiseerd overleg
-
-### Hoofdstuk IV. Inhouding, beslag en korting
-
-#### § 1. Algemeen
-
-#### § 2. Inhouding
-
-#### § 3. Beslag
-
-#### § 4. Korting
-
-#### § 5. Beperkingen
-
-#### § 6. Faillissement
-
-#### § 7. Samenloop
-
-#### § 8. Verdeling
-
-#### § 9. Overdracht en inpandgeving
-
-#### § 10. Verjaring van vorderingen
-
-### Hoofdstuk V. Opleidingen

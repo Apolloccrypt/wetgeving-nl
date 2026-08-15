@@ -1,38 +1,16 @@
 ---
 title: "Wet grondslagen ruimtelijke ontwikkelingsplanning BES"
 identifier: "BWBR0028218"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028218"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10709033"
-version_id: "17672352"
-internal_id: "C24788401"
-label_id: "10683804"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028218/2021-07-01/0"
-intitule_bron: "Stb.2010-673"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-673"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-673"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028218&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0028218&g=2021-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-08-31"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0028218"
+opgehaald: 2026-08-15
 ---
+
 # Wet grondslagen ruimtelijke ontwikkelingsplanning BES
 
 ### Hoofdstuk I. Definities
@@ -41,11 +19,11 @@ entry_into_force: "2010-10-10"
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Bouwen:** het plaatsen, het geheel of gedeeltelijk oprichten, vernieuwen of veranderen en het vergroten van een bouwwerk;
+- *Bouwen:* het plaatsen, het geheel of gedeeltelijk oprichten, vernieuwen of veranderen en het vergroten van een bouwwerk;
 
-- **Bezwaar:** het indienen van een zienswijze;
+- *Bezwaar:* het indienen van een zienswijze;
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Milieu.
+- *Onze Minister:* Onze Minister van Infrastructuur en Milieu.
 
 2. In deze wet wordt onder «grond» mede verstaan: de onder- en bovengrond op verschillende niveaus alsmede water en de territoriale zee.
 

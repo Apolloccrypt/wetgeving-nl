@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2010, nr. CZ/TSZ-3003410 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake medisch specialistische zorg 2010"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (medisch specialistische zorg 2010)"
 identifier: "BWBR0028021"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-08-06"
-last_updated: "2010-08-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028021"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "10633543"
-version_id: "17568082"
-internal_id: "C24314171"
-label_id: "10608344"
-dtd_version: "2.0"
-original_entry_into_force: "2010-08-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028021/2010-08-06/0"
-intitule_bron: "Stcrt.2010-12342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-07"
-intitule_published: "2010-08-06"
-intitule_in_force: "2010-08-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-12342"
-original_signed_date: "2010-05-07"
-original_published_date: "2010-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-12342"
-entry_into_force_date: "2010-08-06"
-jci_1_3: "jci1.3:c:BWBR0028021&z=2010-08-06&g=2010-08-06"
-jci_1_0: "1.0:c:BWBR0028021&g=2010-08-06"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (medisch specialistische zorg 2010)"
-signed_date: "2010-05-07"
-entry_into_force: "2010-08-06"
+publicatiedatum: 2010-08-06
+laatste_update: 2010-08-06
+status: geldig
+toestand: 2010-08-06
+bron: "https://wetten.overheid.nl/BWBR0028021"
+opgehaald: 2026-08-15
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2010, nr. CZ/TSZ-3003410 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake medisch specialistische zorg 2010
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 15 december 2009 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2009–2010, 29 248, nr. 107);
-
-Besluit:
 
 ##### Artikel 1
 

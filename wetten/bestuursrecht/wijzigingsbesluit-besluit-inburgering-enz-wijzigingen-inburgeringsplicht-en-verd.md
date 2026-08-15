@@ -1,62 +1,30 @@
 ---
 title: "Besluit van 31 augustus 2010 tot wijziging van het Besluit inburgering, het Besluit participatiebudget en enkele andere besluiten (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
+citeertitel: "Wijzigingsbesluit Besluit inburgering, enz. (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
 identifier: "BWBR0028171"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-09-07"
-last_updated: "2010-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028171"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "10687623"
-version_id: "17648622"
-internal_id: "C24411571"
-label_id: "10662234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028171/2010-09-07/0"
-intitule_bron: "Stb.2010-331"
-intitule_effect: "nieuw"
-intitule_signed: "2010-08-31"
-intitule_published: "2010-09-06"
-intitule_in_force: "2010-09-06"
-intitule_status: "goed"
-original_publication: "Stb.2010-331"
-original_signed_date: "2010-08-31"
-original_published_date: "2010-09-06"
-original_effect: "nieuw"
-original_url_id: "stb-2010-331"
-entry_into_force_date: "2010-09-07"
-jci_1_3: "jci1.3:c:BWBR0028171&z=2010-09-07&g=2010-09-07"
-jci_1_0: "1.0:c:BWBR0028171&g=2010-09-07"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Besluit inburgering, enz. (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
-signed_date: "2010-08-31"
-entry_into_force: "2010-09-07"
+publicatiedatum: 2010-09-07
+laatste_update: 2010-09-07
+status: geldig
+toestand: 2010-09-07
+bron: "https://wetten.overheid.nl/BWBR0028171"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 31 augustus 2010 tot wijziging van het Besluit inburgering, het Besluit participatiebudget en enkele andere besluiten (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)
-
-Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 2 juni 2010, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en Onze Minister van Justitie, nr. BJZ2010014471, Directie Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 5, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), [6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=18), [24a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=24a), en [31, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=31), [artikel 2, vierde en vijfde lid, van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=2), [artikel 4 van de Wet wettelijke grondslag bdu siv](https://wetten.overheid.nl/jci1.3:c:BWBR0026724&artikel=4) en [artikel 2a, tweede lid, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2a);
-
-De Raad van State gehoord (advies van 15 juli 2010, nr. W08.10.0208/IV);
-
-Gezien het nader rapport van Onze Minister voor Wonen, Wijken en Integratie van 27 augustus 2010, uitgebracht mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en Onze Minister van Justitie, nr. BJZ2010021296, Directie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Besluit inburgering.
+*Wijzigt het Besluit inburgering.*
 
 ##### Artikel II
 
-Wijzigt het Besluit participatiebudget.
+*Wijzigt het Besluit participatiebudget.*
 
 ##### Artikel III
 
-Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
+*Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.*
 
 ##### Artikel IV
 
@@ -64,14 +32,12 @@ Het in het tijdvak dat loopt van 1 januari 2009 tot en met de dag waarop [artike
 
 ##### Artikel V
 
-Wijzigt het Vreemdelingenbesluit 2000.
+*Wijzigt het Vreemdelingenbesluit 2000.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel VI
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0028171&artikel=V&z=2010-09-07&g=2010-09-07) treedt, in het geval dat het in de aanhef van dat artikel bedoelde besluit, voor zover het [artikel 1.16 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.16) betreft, na die dag in werking treedt, onmiddellijk na die inwerkingtreding in werking.
 
 2. [Artikel I, onderdelen A, onder 3, en G](https://wetten.overheid.nl/jci1.3:c:BWBR0028171&artikel=I&z=2010-09-07&g=2010-09-07), werken terug tot en met 1 januari 2010.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

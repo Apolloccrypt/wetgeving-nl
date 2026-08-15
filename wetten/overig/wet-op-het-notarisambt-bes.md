@@ -1,38 +1,16 @@
 ---
 title: "Wet op het notarisambt BES"
 identifier: "BWBR0028457"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028457"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10791483"
-version_id: "17770432"
-internal_id: "C24747311"
-label_id: "10766994"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028457/2015-07-01/0"
-intitule_bron: "Stb.2010-516"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-516"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-516"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028457&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0028457&g=2015-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0028457"
+opgehaald: 2026-08-15
 ---
+
 # Wet op het notarisambt BES
 
 ### Hoofdstuk I. Algemene Bepalingen
@@ -41,11 +19,11 @@ entry_into_force: "2010-10-10"
 
 In deze wet wordt verstaan onder:
 
-- a. **Hof van Justitie:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- a. *Hof van Justitie:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- b. **Onze Minister:** Onze Minister van Justitie;
+- b. *Onze Minister:* Onze Minister van Justitie;
 
-- c. **stageverklaring:** de verklaring van de volbrachte werktijd van drie jaar, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2015-07-01&g=2015-07-01).
+- c. *stageverklaring:* de verklaring van de volbrachte werktijd van drie jaar, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 2
 

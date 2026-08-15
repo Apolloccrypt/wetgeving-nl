@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetkoming ter zake van uitgaven voor specifieke zorgkosten die in de inkomstenbelasting als gevolg van heffingskortingen niet of niet geheel zijn verzilverd alsmede wijziging van enige andere regelingen (Besluit tegemoetkoming specifieke zorgkosten)"
+citeertitel: "Besluit tegemoetkoming specifieke zorgkosten"
 identifier: "BWBR0027859"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027859"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "10598943"
-version_id: "17505482"
-internal_id: "C24223461"
-label_id: "10573974"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027859/2018-07-28/0"
-intitule_bron: "Stb.2010-261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-31"
-intitule_published: "2010-07-06"
-intitule_in_force: "2010-07-06"
-intitule_status: "goed"
-original_publication: "Stb.2010-261"
-original_signed_date: "2010-05-31"
-original_published_date: "2010-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-261"
-entry_into_force_date: "2010-07-07"
-jci_1_3: "jci1.3:c:BWBR0027859&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0027859&g=2018-07-28"
-citeertitel_status: "officieel"
-short_title: "Besluit tegemoetkoming specifieke zorgkosten"
-signed_date: "2010-05-31"
-entry_into_force: "2010-07-07"
+publicatiedatum: 2010-07-07
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0027859"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetkoming ter zake van uitgaven voor specifieke zorgkosten die in de inkomstenbelasting als gevolg van heffingskortingen niet of niet geheel zijn verzilverd alsmede wijziging van enige andere regelingen (Besluit tegemoetkoming specifieke zorgkosten)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 19 januari 2010, kenmerk DWJZ/SWW-2979296, gedaan mede namens de Staatssecretaris van Financiën en in overeenstemming met Onze Minister van Justitie en Onze Minister voor Wonen, Wijken en Integratie;
-
-Gelet op [artikel 24 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=24), [artikel 24, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=24), [artikel 6.1, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [artikel 6, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6) en [artikel 55, zesde lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=55);
-
-De Raad van State gehoord (advies van 10 februari 2010, no. W13.09.0466/I);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 25 mei 2010, DWJZ/SWW-3003737, uitgebracht mede namens Onze Minister van Financiën en in overeenstemming met Onze Minister voor Wonen, Wijken en Integratie;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,29 +20,29 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **belastingplichtige:** een belastingplichtige als bedoeld in [artikel 2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.1);
+- a. *belastingplichtige:* een belastingplichtige als bedoeld in [artikel 2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.1);
 
-- b. **aanslag:** een aanslag als bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11);
+- b. *aanslag:* een aanslag als bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11);
 
-- c. **uitgaven voor specifieke zorgkosten:** uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5);
+- c. *uitgaven voor specifieke zorgkosten:* uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5);
 
-- d. **gecombineerde inkomensheffing:** het bedrag van de gecombineerde inkomensheffing, bedoeld in [artikel 8.1, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1);
+- d. *gecombineerde inkomensheffing:* het bedrag van de gecombineerde inkomensheffing, bedoeld in [artikel 8.1, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1);
 
-- e. **gecombineerde heffingskorting:** het bedrag van de gecombineerde heffingskorting, bedoeld in [artikel 8.1, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1), dat in aanmerking zou zijn genomen indien [artikel 8.8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) buiten toepassing zou zijn gebleven;
+- e. *gecombineerde heffingskorting:* het bedrag van de gecombineerde heffingskorting, bedoeld in [artikel 8.1, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.1), dat in aanmerking zou zijn genomen indien [artikel 8.8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) buiten toepassing zou zijn gebleven;
 
-- f. **persoonsgebonden aftrek:** de persoongebonden aftrek, bedoeld in [artikel 6.1, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1);
+- f. *persoonsgebonden aftrek:* de persoongebonden aftrek, bedoeld in [artikel 6.1, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1);
 
-- g. **partner:** een partner als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2) die het gehele kalenderjaar als zodanig is aan te merken dan wel voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt het gehele kalenderjaar partner te zijn geweest;
+- g. *partner:* een partner als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2) die het gehele kalenderjaar als zodanig is aan te merken dan wel voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt het gehele kalenderjaar partner te zijn geweest;
 
-- h. **inspecteur:** de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
+- h. *inspecteur:* de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
 
-- i. **ontvanger:** de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
+- i. *ontvanger:* de functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;
 
-- j. **verzamelinkomen:** het verzamelinkomen, bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18);
+- j. *verzamelinkomen:* het verzamelinkomen, bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18);
 
-- k. **navorderingsaanslag:** een navorderingsaanslag als bedoeld in [artikel 16 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16);
+- k. *navorderingsaanslag:* een navorderingsaanslag als bedoeld in [artikel 16 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16);
 
-- l. **ambtshalve vermindering:** een ambtshalve vermindering als bedoeld in [artikel 9.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6) van een aanslag of navorderingsaanslag inkomstenbelasting.
+- l. *ambtshalve vermindering:* een ambtshalve vermindering als bedoeld in [artikel 9.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6) van een aanslag of navorderingsaanslag inkomstenbelasting.
 
 ### Hoofdstuk 2. Tegemoetkoming specifieke zorgkosten
 
@@ -84,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 2. Voor de berekening van de tegemoetkoming wordt verstaan onder:
 
-- a. **factor A:** de gecombineerde inkomensheffing over het kalenderjaar;
+- a. *factor A:* de gecombineerde inkomensheffing over het kalenderjaar;
 
-- b. **factor B:** de gecombineerde heffingskorting over het kalenderjaar;
+- b. *factor B:* de gecombineerde heffingskorting over het kalenderjaar;
 
-- c. **factor C:** de gecombineerde inkomensheffing over het kalenderjaar, indien bij de berekening daarvan de uitgaven voor specifieke zorgkosten niet in aanmerking zouden zijn genomen, met dien verstande dat de overige onderdelen van de persoonsgebonden aftrek hierbij op een gelijk bedrag worden gesteld als in aanmerking genomen bij de factor A.
+- c. *factor C:* de gecombineerde inkomensheffing over het kalenderjaar, indien bij de berekening daarvan de uitgaven voor specifieke zorgkosten niet in aanmerking zouden zijn genomen, met dien verstande dat de overige onderdelen van de persoonsgebonden aftrek hierbij op een gelijk bedrag worden gesteld als in aanmerking genomen bij de factor A.
 
 3. Indien factor C kleiner is dan factor B, is de tegemoetkoming gelijk aan het verschil tussen factor C en factor A. In andere gevallen is de tegemoetkoming gelijk aan het verschil tussen factor B en factor A.
 
@@ -144,19 +112,19 @@ De tegemoetkomingen komen ten laste van de begroting van het ministerie van Volk
 
 ##### Artikel 8
 
-Wijzigt het Besluit gebruik sofi-nummer Wbp.
+*Wijzigt het Besluit gebruik sofi-nummer Wbp.*
 
 ##### Artikel 9
 
-Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
+*Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.*
 
 ##### Artikel 10
 
-Wijzigt het Bijdragebesluit zorg.
+*Wijzigt het Bijdragebesluit zorg.*
 
 ##### Artikel 11
 
-Wijzigt het Besluit op de huurtoeslag.
+*Wijzigt het Besluit op de huurtoeslag.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -164,14 +132,10 @@ Wijzigt het Besluit op de huurtoeslag.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-07-28) terug tot en met 1 januari 2009.
 
-##### Artikel 13
-
-Dit besluit wordt aangehaald als: Besluit tegemoetkoming specifieke zorgkosten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 12a
 
 Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet Algemene Verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 13
+
+Dit besluit wordt aangehaald als: Besluit tegemoetkoming specifieke zorgkosten.

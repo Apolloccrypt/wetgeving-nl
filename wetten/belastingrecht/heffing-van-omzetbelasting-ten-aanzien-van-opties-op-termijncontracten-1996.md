@@ -1,45 +1,28 @@
 ---
 title: "Besluit van 24 april 1996, nr. VB96/1157"
+citeertitel: "Heffing van omzetbelasting ten aanzien van opties op termijncontracten (1996)"
 identifier: "BWBR0027809"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "1996-04-24"
-last_updated: "1996-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027809"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "10583573"
-version_id: "17466592"
-internal_id: "C24161891"
-label_id: "10558494"
-dtd_version: "2.0"
-original_entry_into_force: "1996-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027809/1996-04-24/0"
-intitule_bron: "Infob.1996-343"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-04-24"
-intitule_published: "1996-01-01"
-intitule_in_force: "1996-01-01"
-intitule_status: "goed"
-original_publication: "Infob.1996-343"
-original_signed_date: "1996-04-24"
-original_published_date: "1996-01-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1996-04-24"
-jci_1_3: "jci1.3:c:BWBR0027809&z=1996-04-24&g=1996-04-24"
-jci_1_0: "1.0:c:BWBR0027809&g=1996-04-24"
-citeertitel_status: "redactioneel"
-short_title: "Heffing van omzetbelasting ten aanzien van opties op termijncontracten (1996)"
-signed_date: "1996-04-24"
-entry_into_force: "1996-04-24"
+publicatiedatum: 1996-04-24
+laatste_update: 1996-04-24
+status: geldig
+toestand: 1996-04-24
+bron: "https://wetten.overheid.nl/BWBR0027809"
+opgehaald: 2026-08-15
 ---
-# Besluit van 24 april 1996, nr. VB96/1157
 
-De plaatsvervangend Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
+# Besluit van 24 april 1996, nr. VB96/1157
 
 Mij hebben vragen bereikt met betrekking tot de heffing van omzetbelasting ter zake van bemiddelingsprestaties door makelaars bij handel in termijncontracten. Het betreft makelaars die in Nederland wonen, of zijn gevestigd, dan wel hier een vaste inrichting hebben van waaruit zij deze prestaties verrichten. De handel in termijncontracten ter zake waarvan wordt bemiddeld vindt niet plaats via een door een liquidatiekas georganiseerde termijnmarkt als bedoeld in de aanschrijving van 21 maart 1969, nr. D68/8974. De afnemers van de bemiddelingsprestaties kunnen of hier te lande zijn gevestigd, of in een andere lid-staat van de EU, of buiten de EU.
 
 De prestaties ter zake waarvan de makelaars bemiddelen zijn als volgt te onderscheiden:
+
+- 1 Transacties die niet leiden tot een feitelijke levering van de goederen;
+
+- 2 Transacties die leiden tot een feitelijk levering van goederen buiten Nederland;
+
+- 3 Transacties die leiden tot een feitelijke levering van goederen in Nederland.
 
 Ter zake merk ik, met inachtneming van dit onderscheid het volgende op.
 
@@ -61,4 +44,4 @@ De plaats van de dienst die de makelaar verricht wordt bepaald door [art. 6a OB]
 
 ### 3. Transacties die leiden tot een feitelijke levering van goederen binnen Nederland.
 
-Met betrekking tot de plaats van de bemiddelingsdienst verwijs ik naar hetgeen ik daaromtrent hiervoor onder 2 heb opgemerkt. Ingeval de plaats van dienst Nederland is, is het algemene tarief van toepassing. Dit is slechts anders indien [post b-1 van de bij de Wet behorende Tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II)van toepassing is. Bijvoorbeeld ingeval de goederen die worden geleverd zich nog onder douaneverband bevinden is gelet op eerder genoemde post b1 het nultarief van toepassing.
+Met betrekking tot de plaats van de bemiddelingsdienst verwijs ik naar hetgeen ik daaromtrent hiervoor onder [2](https://wetten.overheid.nl/BWBR0027809) heb opgemerkt. Ingeval de plaats van dienst Nederland is, is het algemene tarief van toepassing. Dit is slechts anders indien [post b-1 van de bij de Wet behorende Tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II)van toepassing is. Bijvoorbeeld ingeval de goederen die worden geleverd zich nog onder douaneverband bevinden is gelet op eerder genoemde post b1 het nultarief van toepassing.

@@ -1,49 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010 tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
+citeertitel: "Rijkswet tot vaststelling zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
 identifier: "BWBR0028093"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2018-09-01"
-last_updated: "2018-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028093"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10653443"
-version_id: "17598212"
-internal_id: "C24680001"
-label_id: "10628264"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028093/2018-09-01/0"
-intitule_bron: "Stb.2010-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-342"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32041"
-original_url_id: "stb-2010-342"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028093&z=2018-09-01&g=2018-09-01"
-jci_1_0: "1.0:c:BWBR0028093&g=2018-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Rijkswet tot vaststelling zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-09-01
+status: geldig
+toestand: 2018-09-01
+bron: "https://wetten.overheid.nl/BWBR0028093"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010 tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in verband met het verkrijgen door Curaçao en Sint Maarten van de hoedanigheid van land in het Koninkrijk, wenselijk is om een grens vast te stellen tussen de zeegebieden, met inbegrip van de daaronder gelegen zeebodem en ondergrond, van Curaçao enerzijds en Bonaire anderzijds, respectievelijk Sint Maarten enerzijds en Saba anderzijds;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ##### Artikel 1
 
@@ -110,9 +79,3 @@ In westelijke richting is het eindpunt van de grenslijn punt A, en in oostelijke
 ##### Artikel 5
 
 Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
-
-## Bijlage 1
-
-## Bijlage 2
-
-Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

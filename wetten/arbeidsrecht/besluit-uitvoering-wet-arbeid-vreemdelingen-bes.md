@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 augustus 2010 tot uitvoering van de Wet arbeid vreemdelingen BES (Besluit uitvoering Wet arbeid vreemdelingen BES)"
+citeertitel: "Besluit uitvoering Wet arbeid vreemdelingen BES"
 identifier: "BWBR0028231"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028231"
+categorie: "Arbeidsrecht"
 soort: "AMvB-BES"
-stam_id: "10713373"
-version_id: "17678422"
-internal_id: "C25142241"
-label_id: "10688204"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028231/2024-01-01/0"
-intitule_bron: "Stb.2010-371"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-26"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-371"
-original_signed_date: "2010-08-26"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-371"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028231&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0028231&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitvoering Wet arbeid vreemdelingen BES"
-signed_date: "2010-08-26"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0028231"
+opgehaald: 2026-08-15
 ---
+
 # Besluit van 26 augustus 2010 tot uitvoering van de Wet arbeid vreemdelingen BES (Besluit uitvoering Wet arbeid vreemdelingen BES)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 juni 2010, Directie Arbeidsverhoudingen, nr. AV/SDA/2010/11893, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 3, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=3), [5, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=6), [8, eerste lid, aanhef en onderdelen c en f, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=8), en [9, aanhef en onderdeel e, van de Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=9);
-
-De Raad van State gehoord (advies van 14 juli 2010, nr. W12.10.0261/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 23 augustus 2010, Directie Arbeidsverhoudingen, nr. AV/SDA/2010/15109, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Begripsbepaling
 
@@ -54,9 +20,10 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **openbaar lichaam/openbare lichamen:** openbare lichamen Bonaire, Sint Eustatius of Saba;
+- – *openbaar lichaam/openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- –. **wet:** [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437).
+- – *wet:*
+ [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437).
 
 #### § 2. Aanvraag tewerkstellingsvergunning
 
@@ -150,17 +117,17 @@ Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3
 
 1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van de wet is niet van toepassing met betrekking tot de vreemdeling:
 
-- a. die zijn hoofdverblijf heeft buiten de openbare lichamen en gedurende maximaal 4 aaneengesloten weken in een periode van 13 weken incidentele arbeid verricht uitsluitend bestaande uit:
+- a. die zijn hoofdverblijf heeft buiten de openbare lichamen en gedurende maximaal 4 aaneengesloten weken in een periode van 13 weken incidentele arbeid verricht uitsluitend bestaande uit:
 
-- 1°. het werkzaam zijn in de huishouding van toeristen, indien deze vreemdeling ook al werkzaam is in de huishouding van de desbetreffende toeristen in het land van herkomst;
+   - 1°. het werkzaam zijn in de huishouding van toeristen, indien deze vreemdeling ook al werkzaam is in de huishouding van de desbetreffende toeristen in het land van herkomst;
 
-- 2°. het monteren of repareren van door zijn buiten de openbare lichamen gevestigde werkgever geleverde machines of apparatuur, dan wel het installeren en aanpassen van door zijn buiten de openbare lichamen gevestigde werkgever geleverde software of het instrueren over het gebruik daarvan;
+   - 2°. het monteren of repareren van door zijn buiten de openbare lichamen gevestigde werkgever geleverde machines of apparatuur, dan wel het installeren en aanpassen van door zijn buiten de openbare lichamen gevestigde werkgever geleverde software of het instrueren over het gebruik daarvan;
 
-- 3°. het werkzaam zijn als artiest, musicus of beeldend kunstenaar;
+   - 3°. het werkzaam zijn als artiest, musicus of beeldend kunstenaar;
 
-- 4°. het werkzaam zijn als accountant, olie-inspecteur, advocaat, bankier of als technicus telecommunicatie in dienst van een werkgever die is gevestigd buiten het openbaar lichaam waar de werkzaamheden worden verricht;
+   - 4°. het werkzaam zijn als accountant, olie-inspecteur, advocaat, bankier of als technicus telecommunicatie in dienst van een werkgever die is gevestigd buiten het openbaar lichaam waar de werkzaamheden worden verricht;
 
-- 5°. het voeren van zakelijke besprekingen;
+   - 5°. het voeren van zakelijke besprekingen;
 
 - b. die zijn hoofdverblijf heeft buiten de openbare lichamen, werkzaam is voor een buiten de openbare lichamen gevestigde werkgever en uitsluitend werkzaamheden verricht op vervoermiddelen in het internationale verkeer;
 
@@ -173,6 +140,10 @@ Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3
 - f. zijn hoofdverblijf heeft buiten de openbare lichamen en als vrijwilliger deelneemt aan arbeid die gebruikelijk onbetaald wordt verricht, geen winstoogmerk heeft en een algemeen maatschappelijk doel dient, met een maximale duur van 12 weken in een periode van 52 weken.
 
 2. Een aantekening als bedoeld in het eerste lid, onderdeel e, wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning op grond van [artikel 12a van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=12a).
+
+##### Artikel 8a
+
+Het verbod, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=2) is niet van toepassing in het openbaar lichaam Saba met betrekking tot de vreemdeling die onderwijs geeft op een instelling als bedoeld in [artikel 1, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
 
 #### § 4. Voorschriften
 
@@ -194,11 +165,11 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragra
 
 - d. het een vreemdeling betreft:
 
-- 1°. die niet beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning, noch een zodanige vergunning heeft aangevraagd, noch, voor zover ter verkrijging van een dergelijke vergunning vereist, een machtiging tot voorlopig verblijf heeft aangevraagd;
+   - 1°. die niet beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning, noch een zodanige vergunning heeft aangevraagd, noch, voor zover ter verkrijging van een dergelijke vergunning vereist, een machtiging tot voorlopig verblijf heeft aangevraagd;
 
-- 2°. aan wie een verblijfsvergunning is geweigerd of wiens verblijfsvergunning is ingetrokken;
+   - 2°. aan wie een verblijfsvergunning is geweigerd of wiens verblijfsvergunning is ingetrokken;
 
-- 3°. aan wie verlenging van de verblijfsvergunning is geweigerd.
+   - 3°. aan wie verlenging van de verblijfsvergunning is geweigerd.
 
 ##### Artikel 11
 
@@ -206,7 +177,7 @@ Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragra
 
 - a. de vreemdeling arbeid zal verrichten die behoort tot een categorie van beroepen of functies waarvan aan het aantal arbeidsplaatsen ten behoeve van vreemdelingen een maximum is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid en dit maximum ten tijde van de aanvraag is bereikt;
 
-- b. het vertrek en bijbehoren, bedoeld in [artikel 4, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), naar het oordeel van Onze Minister van Sociale Zaken en Werkgelegenheid ongeschikt zijn gebleken;
+- b. het vertrek en bijbehoren, bedoeld in [artikel 4, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), naar het oordeel van Onze Minister van Sociale Zaken en Werkgelegenheid ongeschikt zijn gebleken;
 
 - c. overige aan de functie gestelde eisen voor het verrichten van de arbeid als bedoeld in [artikel 3, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), kennelijk onredelijk zijn, met dien verstande dat zij te hoog zijn gesteld of kennelijk onjuist zijn;
 
@@ -216,7 +187,7 @@ Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragra
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
@@ -234,9 +205,9 @@ Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdien
 
 - a. een stageovereenkomst, waarin in ieder geval wordt geregeld:
 
-- 1°. de door de stagiaire te verrichten werkzaamheden;
+   - 1°. de door de stagiaire te verrichten werkzaamheden;
 
-- 2°. de stagevergoeding;
+   - 2°. de stagevergoeding;
 
 - b. een verklaring van de onderwijsinstelling, waaruit blijkt dat de stage noodzakelijk is voor de voltooiing van de opleiding.
 
@@ -299,19 +270,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van
 ##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Het verbod, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=2) is niet van toepassing in het openbaar lichaam Saba met betrekking tot de vreemdeling die onderwijs geeft op een instelling als bedoeld in [artikel 1, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
-
-#### § 4. Voorschriften
-
-#### § 5. Aanvullende weigeringsgronden
-
-#### § 6. Bijzondere categorieën
-
-#### § 7. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

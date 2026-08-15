@@ -1,30 +1,18 @@
 ---
-title: "Samenwerkingsregeling waarborging plannen van aanpak landstaken Sint Maarten"
+title: "Besluit van 24 juli 2010, houdende tijdelijke voorzieningen voor de samenwerking bij en de waarborging van de uitvoering van de plannen van aanpak door de landen Curaçao en Sint Maarten (Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten)"
+citeertitel: "Samenwerkingsregeling waarborging plannen van aanpak landstaken Sint Maarten"
 identifier: "BWBR0028136"
 categorie: "Overig"
-publicatiedatum: 2026-07-16
-laatste_update: 2026-07-18
+soort: "rijksKB"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0028136"
+opgehaald: 2026-08-15
 ---
 
 # Besluit van 24 juli 2010, houdende tijdelijke voorzieningen voor de samenwerking bij en de waarborging van de uitvoering van de plannen van aanpak door de landen Curaçao en Sint Maarten (Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 maart 2010, nr. 2010-0000160250, CZW, in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-Gelet op [artikel 38, eerste en tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-De Raad van State van het Koninkrijk gehoord (advies van 29 april 2010, nr. W04.10.0085/I/K);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 2 juli 2010, nr. 2010-0000473843, CZW, in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-De bepalingen van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Overwegende, dat het wenselijk is dat er in samenwerking tussen Curaçao, Sint Maarten en Nederland, met toepassing van [Paragraaf 3 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&paragraaf=3) (Onderlinge bijstand, overleg en samenwerking) voorzieningen worden getroffen die waarborgen dat landstaken die op de datum dat Curaçao en Sint Maarten land worden binnen het Koninkrijk nog niet door Curaçao dan wel Sint Maarten kunnen worden uitgevoerd overeenkomstig de overeengekomen toetsingscriteria, vanaf de datum van transitie op een voldoende niveau worden uitgevoerd en dat Curaçao dan wel Sint Maarten op termijn deze taken wel overeenkomstig de criteria kunnen uitvoeren;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -32,21 +20,21 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 In dit besluit wordt verstaan onder:
 
-- a. **Land:** het land Sint Maarten;
+- a. *Land:* het land Sint Maarten;
 
-- b. **ministerieel overleg:** het ministerieel overleg plannen van aanpak Sint Maarten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=4&artikel=10&z=2026-07-16&g=2026-07-16);
+- b. *ministerieel overleg:* het ministerieel overleg plannen van aanpak Sint Maarten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=4&artikel=10&z=2026-07-16&g=2026-07-16);
 
-- c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **Onze Minister-President van het Land:** Onze Minister-President van het land Sint Maarten;
+- d. *Onze Minister-President van het Land:* Onze Minister-President van het land Sint Maarten;
 
-- e. **Onze Minister van het Land:** Onze Minister van het Land die verantwoordelijk is voor de uitoefening van een taak waarvoor een plan van aanpak is opgesteld;
+- e. *Onze Minister van het Land:* Onze Minister van het Land die verantwoordelijk is voor de uitoefening van een taak waarvoor een plan van aanpak is opgesteld;
 
-- f. **plan van aanpak:** een plan van aanpak als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=2&artikel=2&z=2026-07-16&g=2026-07-16) zoals bekrachtigd door de Slot Ronde Tafel Conferentie of zoals nadien gewijzigd en bekrachtigd door het ministerieel overleg;
+- f. *plan van aanpak:* een plan van aanpak als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=2&artikel=2&z=2026-07-16&g=2026-07-16) zoals bekrachtigd door de Slot Ronde Tafel Conferentie of zoals nadien gewijzigd en bekrachtigd door het ministerieel overleg;
 
-- g. **toetsingscriteria:** de criteria zoals deze zijn neergelegd in de brief d.d. 7 maart 2006 van de voorbereidingscommissie Ronde Tafel Conferentie aan de Voorzitter van de Ronde Tafel Conferentie waarover overeenstemming bestaat, de Slotverklaring van 2 november 2006 en de overige vervolgafspraken hierover;
+- g. *toetsingscriteria:* de criteria zoals deze zijn neergelegd in de brief d.d. 7 maart 2006 van de voorbereidingscommissie Ronde Tafel Conferentie aan de Voorzitter van de Ronde Tafel Conferentie waarover overeenstemming bestaat, de Slotverklaring van 2 november 2006 en de overige vervolgafspraken hierover;
 
-- h. **voortgangscommissie:** de voortgangscommissie Sint Maarten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=3&artikel=3&z=2026-07-16&g=2026-07-16).
+- h. *voortgangscommissie:* de voortgangscommissie Sint Maarten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=3&artikel=3&z=2026-07-16&g=2026-07-16).
 
 ### Hoofdstuk 2. Plannen van aanpak
 
@@ -64,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 4. Een plan van aanpak is bekrachtigd door de Slot Ronde Tafel Conferentie.
 
-5. Een plan van aanpak heeft uitsluitend betrekking op een van de organisaties en taken genoemd in de bijlage bij dit besluit.
+5. Een plan van aanpak heeft uitsluitend betrekking op een van de organisaties en taken genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0028136) bij dit besluit.
 
 6. Onze Minister van het Land kan een plan van aanpak zoals bekrachtigd door de Slot Ronde Tafel Conferentie wijzigen, mits deze wijziging wordt bekrachtigd door het ministerieel overleg.
 
@@ -482,7 +470,7 @@ De bescheiden betreffende de werkzaamheden van de voortgangscommissie worden na 
 
 2. Twee jaar na de inwerkingtreding van dit besluit wordt dit besluit bij koninklijk besluit ingetrokken.
 
-3. Indien nog niet alle plannen van aanpak zijn uitgevoerd, kan de termijn van twee jaar, bedoeld in het tweede lid, telkens met drie jaar bij koninklijk besluit worden verlengd. Het koninklijk besluit wordt uiterlijk 2 maanden voor het verstrijken van deze termijn in het Staatsblad gepubliceerd.
+3. Indien nog niet alle plannen van aanpak zijn uitgevoerd, kan de termijn van twee jaar, bedoeld in het tweede lid, telkens met drie jaar bij koninklijk besluit worden verlengd. Het koninklijk besluit wordt uiterlijk 2 maanden voor het verstrijken van deze termijn in het Staatsblad gepubliceerd.
 
 4. Een voordracht voor een koninklijk besluit, als bedoeld in het tweede en derde lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -491,13 +479,3 @@ De bescheiden betreffende de werkzaamheden van de voortgangscommissie worden na 
 ##### Artikel 43. Citeertitel
 
 Dit besluit wordt aangehaald als: Samenwerkingsregeling waarborging plannen van aanpak landstaken Sint Maarten.
-
-## Bijlage. bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028136&hoofdstuk=2&artikel=2&z=2026-07-16&g=2026-07-16)
-
-### Rechtshandhaving en rechtspleging
-
-### Goed bestuur
-
-### Financiën
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.

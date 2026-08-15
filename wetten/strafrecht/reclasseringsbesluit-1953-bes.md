@@ -1,38 +1,16 @@
 ---
 title: "Reclasseringsbesluit 1953 BES"
 identifier: "BWBR0028398"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028398"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10774033"
-version_id: "17750772"
-internal_id: "C24823261"
-label_id: "10749114"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028398/2010-10-10/0"
-intitule_bron: "Stb.2010-559"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-559"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-559"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028398&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028398&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028398"
+opgehaald: 2026-08-15
 ---
+
 # Reclasseringsbesluit 1953 BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,17 +19,17 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit wordt verstaan onder:
 
-- **instelling of reclasseringsinstelling:** de in de openbare lichamen Bonaire, Sint Eustatius en Saba gevestigde, rechtspersoonlijkheid bezittende vereniging of stichting, wier statuten, stichtingsbrieven of reglementen het aanwenden van reclasseringspogingen voorschrijven of gedogen voor zover ze een bereidverklaring overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10) heeft afgelegd en deze door Onze Minister is aanvaard;
+- *instelling of reclasseringsinstelling:* de in de openbare lichamen Bonaire, Sint Eustatius en Saba gevestigde, rechtspersoonlijkheid bezittende vereniging of stichting, wier statuten, stichtingsbrieven of reglementen het aanwenden van reclasseringspogingen voorschrijven of gedogen voor zover ze een bereidverklaring overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10) heeft afgelegd en deze door Onze Minister is aanvaard;
 
-- **Onze Minister:** Onze Minister van Justitie;
+- *Onze Minister:* Onze Minister van Justitie;
 
-- **Raad:** de Raad voor de rechtshandhaving bedoeld in [artikel 2 van de Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&artikel=2);
+- *Raad:* de Raad voor de rechtshandhaving bedoeld in [artikel 2 van de Rijkswet Raad voor de rechtshandhaving](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&artikel=2);
 
-- **gestichtshoofd:** het hoofd van de betreffende strafgevangenis of het betreffende huis van bewaring;
+- *gestichtshoofd:* het hoofd van de betreffende strafgevangenis of het betreffende huis van bewaring;
 
-- **voorwaardelijke veroordeling:** de veroordeling waarbij de straf, tenzij de rechter later anders beveelt, geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;
+- *voorwaardelijke veroordeling:* de veroordeling waarbij de straf, tenzij de rechter later anders beveelt, geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;
 
-- **voorwaardelijk veroordeelde:** de veroordeelde bij zodanige veroordeling.
+- *voorwaardelijk veroordeelde:* de veroordeelde bij zodanige veroordeling.
 
 2. Dit besluit berust op de [artikelen 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17d) en [20 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=20) en [artikel 15 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=15).
 
@@ -227,13 +205,13 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 - e. advies omtrent het al dan niet in het leven roepen van een bijzonder toezicht op de naleving der voorwaarden.
 
-3. Het voorstel tot voorwaardelijke invrijheidstelling, alsmede het gemotiveerd bericht, dat niet of nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, zoals bedoeld in [artikel 27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10) en het rapport van de reclasseringsinstellingen zoals bedoeld in [artikel 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=29&z=2010-10-10&g=2010-10-10), zijn samen vervat in een bij dit besluit vastgesteld model.
+3. Het voorstel tot voorwaardelijke invrijheidstelling, alsmede het gemotiveerd bericht, dat niet of nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, zoals bedoeld in [artikel 27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10) en het rapport van de reclasseringsinstellingen zoals bedoeld in [artikel 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=29&z=2010-10-10&g=2010-10-10), zijn samen vervat in een bij dit besluit vastgesteld [model](https://wetten.overheid.nl/BWBR0028398).
 
 ##### Artikel 29
 
 1. Indien het gestichtshoofd van mening is, dat ten aanzien van een veroordeelde niet of nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, deelt hij zulks, met vermelding van redenen, schriftelijk mede aan de in het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10) bedoelde reclasseringsinstellingen. In geval hij van mening is, dat nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, deelt hij tevens mede, wanneer de mogelijkheid ener voorwaardelijke invrijheidstelling opnieuw zou dienen te worden overwogen.
 
-2. Indien de reclasseringsinstellingen van mening zijn, dat omtrent de veroordeelde in voor deze gunstiger zin dient te worden geadviseerd, voegen zij bij hun advies aan het gestichtshoofd een rapport omtrent de persoon en de vooruitzichten van de veroordeelde, alsmede, indien zij van mening zijn, dat tot voorwaardelijke invrijheidstelling dient te worden overgegaan, een conceptvoorstel, ingericht volgens het in het [derde lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10) bedoelde model.
+2. Indien de reclasseringsinstellingen van mening zijn, dat omtrent de veroordeelde in voor deze gunstiger zin dient te worden geadviseerd, voegen zij bij hun advies aan het gestichtshoofd een rapport omtrent de persoon en de vooruitzichten van de veroordeelde, alsmede, indien zij van mening zijn, dat tot voorwaardelijke invrijheidstelling dient te worden overgegaan, een conceptvoorstel, ingericht volgens het in het [derde lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10) bedoelde [model](https://wetten.overheid.nl/BWBR0028398).
 
 3. Het gestichtshoofd voorziet de stukken van zijn nader advies, en zendt deze aan Onze Minister.
 
@@ -384,115 +362,3 @@ De reclasseringsinstellingen hebben tot taak op verzoek van Onze Minister hulp e
 ##### Artikel 46
 
 Dit besluit wordt aangehaald als: Reclasseringsbesluit 1953 BES.
-
-## Rapport in verband met voorwaardelijke invrijheidstelling gedetineerde [art. 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10), Reclasseringsbesluit 1953 BES
-
-### Gedetineerde:
-
-Naam, voornamen .................................................................................
-
-Geboortedatum en -plaats ......................................................................
-
-Laatst bekende adres .............................................................................
-
-Adres naaste familierelatie .......................................................................
-
-Rechterlijk College en datum vonnis ..........................................................
-
-Kwalificatie misdrijf .........................................................................................
-
-Opgelegde straf
-
-Verleende gratie.......................................................................................
-
-Datum inverzekeringstelling..................................................................
-
-Datum kracht van gewijsde....................................................................
-
-Datum strafexecutie................................................................................
-
-Expiratie straftijd......................................................................................
-
-Vroegste datum voor voorw. invrijheidstelling........................................
-
-Gedrag....................................................................................................
-
-Tewerkstelling..........................................................................................
-
-Karakter..................................................................................................
-
-Komt hij in aanmerking voor V.I.? Ja / neen / nog niet.
-
-Bijzondere opmerkingen (evt. per bijlage)............
-
-....................................
-
-Ondertekening,
-
-....................................................... (**plaats**)
-
-De directeur,
-
-....................................................... (**naam en handtekening**)
-
-### Rapport reclassering:
-
-Kan hij in milieu van herkomst terugkeren?...............................................
-
-Zo neen, wellicht in ander milieu?.............................................................
-
-Kan hij bij laatste werkgever terugkeren?.................................................
-
-Kan hij op andere wijze in onderhoud voorzien?.......................................
-
-Is hij kostwinner en/of gezinshoofd?..........................................................
-
-Wordt voorw. invrijheidstelling aanbevolen?..............................................
-
-Zo ja/zo neen, waarom?............................................................................
-
-Is reclassering bereid het uitoefenen van toezicht en het verlenen van hulp en bijstand op zich te nemen?................................................................
-
-Hoe is de kans op recidive?.......................................................................
-
-Adviezen betreffende:.................................................................................
-
-Uitkering van de uitgaanskas:......................................................................
-
-Bijzondere voorwaarden:............................................................................
-
-Bijzonder toezicht:......................................................................................
-
-Ondertekening,
-
-.............................................................. (**plaats**)
-
-De reclasseringsambtenaar,
-
-.............................................................. (**naam en handtekening**)
-
-## Voorstel/bericht in verband met voorwaardelijke invrijheidstelling [art. 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10), Reclasseringsbesluit 1953 BES
-
-De directeur van het strafgesticht te ........................................................(**naam**),
-
-- a. bericht dat de genoemde persoon niet/nog niet in aanmerking kan worden komen voor voorwaardelijke invrijheidstelling.
-
-- b. stelt voor om de genoemde persoon voorwaardelijk in vrijheid te stellen.
-
-Hij adviseert daarbij t.a.v.:......................................................................
-
-Uitkering v/d uitgaanskas:.......................................................................
-
-Bijzondere voorwaarden:........................................................................
-
-Bijzondere toezicht:.................................................................................
-
-Motivering:..............................................................................................
-
-Ondertekening,
-
-............................................................(**plaats**)
-
-De directeur,
-
-............................................................(**naam en handtekening**)

@@ -1,56 +1,18 @@
 ---
 title: "Regeling van het College van Procureurs Generaal van 18 december 2009, nummer PaG 14389, houdende de verlening van mandaat, volmacht en machtiging aan de hoofdofficieren van justitie van de arrondissementsparketten"
+citeertitel: "Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009"
 identifier: "BWBR0027872"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-07-09"
-last_updated: "2010-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027872"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10603063"
-version_id: "17514382"
-internal_id: "C24238451"
-label_id: "10578094"
-dtd_version: "2.0"
-original_entry_into_force: "2010-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027872/2010-07-09/0"
-intitule_bron: "Stcrt.2010-10429"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-18"
-intitule_published: "2010-07-07"
-intitule_in_force: "2010-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-10429"
-original_signed_date: "2009-12-18"
-original_published_date: "2010-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-10429"
-entry_into_force_date: "2010-07-09"
-jci_1_3: "jci1.3:c:BWBR0027872&z=2010-07-09&g=2010-07-09"
-jci_1_0: "1.0:c:BWBR0027872&g=2010-07-09"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009"
-signed_date: "2009-12-18"
-entry_into_force: "2010-07-09"
+publicatiedatum: 2010-07-09
+laatste_update: 2010-07-09
+status: geldig
+toestand: 2010-07-09
+bron: "https://wetten.overheid.nl/BWBR0027872"
+opgehaald: 2026-08-15
 ---
+
 # Regeling van het College van Procureurs Generaal van 18 december 2009, nummer PaG 14389, houdende de verlening van mandaat, volmacht en machtiging aan de hoofdofficieren van justitie van de arrondissementsparketten
-
-Overwegende dat bij besluiten van 9 november 2009 , [nummers 5602920/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) (Stcrt 2009, 17519) en [5628333/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026644) (Stcrt 2009, 17341) het mandaat, de volmacht en de machtiging verleend aan het College bij besluit van 15 december 1997, nummer 665429/897 is vervangen door een nieuwe regeling van mandaat, volmacht en machtiging;
-
-Dat er binnen het Openbaar Ministerie sprake is van verleende ondermandaten;
-
-Dat op grond van de besluiten van 9 november 2009 , [nummers 5602920/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) (Stcrt 2009, 17519) en [5628333/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026644) (Stcrt 2009, 17341) verleende ondermandaten geacht worden gegrond te zijn op de nieuwe regeling van mandaat, volmacht en machtiging;
-
-Dat er aanleiding is om de inhoud van het mandaat, volmacht en machtiging verleend aan de onderdelen van het openbaar ministerie aan te passen;
-
-Dat de regeling van mandaat, volmacht en machtiging ertoe dient om de (regionale) samenwerking te faciliteren en de hoofdofficieren van justitie en de directeur bedrijfsvoering de mogelijkheid te geven om aan die regionale samenwerking inhoud en vorm te geven;
-
-Gelet op de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), het [Besluit Algemene Rechtspositie Politieambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), de [Mandaatregeling niet-beheersaangelegenheden openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) en de [Mandaatregeling beheer openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0026644);
-
-Gezien het advies van de Medezeggenschapsraad Openbaar Ministerie van 26 maart 2009, kenmerk MROM 2009/ 006;
-
-Besluit:
 
 #### Paragraaf 1. Definities
 
@@ -58,53 +20,53 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- 1. **College:** het College van procureurs-generaal;
+- 1. *College:* het College van procureurs-generaal;
 
-- 2. **Directeur bedrijfsvoering:** de directeuren bedrijfsvoering van de arrondissementsparketten Amsterdam, Den Bosch en Den Haag en de regionaal directeuren bedrijfsvoering van de arrondissementsparketten Arnhem, Breda, Groningen, Haarlem, Maastricht, Rotterdam, Utrecht en Zwolle-Lelystad;
+- 2. *Directeur bedrijfsvoering:* de directeuren bedrijfsvoering van de arrondissementsparketten Amsterdam, Den Bosch en Den Haag en de regionaal directeuren bedrijfsvoering van de arrondissementsparketten Arnhem, Breda, Groningen, Haarlem, Maastricht, Rotterdam, Utrecht en Zwolle-Lelystad;
 
-- 3. **Hoofdofficier van Justitie:** de officier van justitie als bedoeld in [artikel 1, aanhef, onderdeel b, sub 6, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) die op grond van [artikel 136, derde lid van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=136) is aangewezen als hoofd van het arrondissementsparket;
+- 3. *Hoofdofficier van Justitie:* de officier van justitie als bedoeld in [artikel 1, aanhef, onderdeel b, sub 6, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) die op grond van [artikel 136, derde lid van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=136) is aangewezen als hoofd van het arrondissementsparket;
 
-- 4. **Machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, of een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;
+- 4. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, of een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;
 
-- 5. **Mandaat:** de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;
+- 5. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;
 
-- 6. **Minister:** de minister van justitie;
+- 6. *Minister:* de minister van justitie;
 
-- 7. **Niet rechterlijk ambtenaar:** de rijksambtenaren en de politieambtenaren;
+- 7. *Niet rechterlijk ambtenaar:* de rijksambtenaren en de politieambtenaren;
 
-- 8. **Politieambtenaren:** de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het [besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
+- 8. *Politieambtenaren:* de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het [besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
 
-- 9. **Rechterlijk ambtenaar:** de in de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) als zodanig aangeduide ambtenaren;
+- 9. *Rechterlijk ambtenaar:* de in de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) als zodanig aangeduide ambtenaren;
 
-- 10. **(Regionaal) managementteam:** het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie en de directeur bedrijfsvoering van de hierna genoemde gezamenlijke arrondissementsparketten:
+- 10. *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie en de directeur bedrijfsvoering van de hierna genoemde gezamenlijke arrondissementsparketten:
 
-- a. Arrondissementsparket Amsterdam;
+   - a. Arrondissementsparket Amsterdam;
 
-- b. Arrondissementsparketten Arnhem en Zutphen;
+   - b. Arrondissementsparketten Arnhem en Zutphen;
 
-- c. Arrondissementsparketten Breda en Middelburg;
+   - c. Arrondissementsparketten Breda en Middelburg;
 
-- d. Arrondissementsparket Den Bosch;
+   - d. Arrondissementsparket Den Bosch;
 
-- e. Arrondissementsparket Den Haag;
+   - e. Arrondissementsparket Den Haag;
 
-- f. Arrondissementsparketten Assen, Groningen en Leeuwarden;
+   - f. Arrondissementsparketten Assen, Groningen en Leeuwarden;
 
-- g. Arrondissementsparketten Alkmaar en Haarlem;
+   - g. Arrondissementsparketten Alkmaar en Haarlem;
 
-- h. Arrondissementsparketten Maastricht en Roermond;
+   - h. Arrondissementsparketten Maastricht en Roermond;
 
-- i. Arrondissementsparketten Dordrecht en Rotterdam;
+   - i. Arrondissementsparketten Dordrecht en Rotterdam;
 
-- j. Arrondissementsparket Utrecht en Zwolle-Lelystad, vestiging Lelystad, en;
+   - j. Arrondissementsparket Utrecht en Zwolle-Lelystad, vestiging Lelystad, en;
 
-- k. Arrondissementsparketten Almelo en Zwolle-Lelystad, exclusief de vestiging Lelystad;
+   - k. Arrondissementsparketten Almelo en Zwolle-Lelystad, exclusief de vestiging Lelystad;
 
-- 11. **Rijksambtenaren:** de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
+- 11. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950);
 
-- 12. **Volmacht:** de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;
+- 12. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;
 
-- 13. **Voorzitter van het regionaal managementteam:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09) aangewezen hoofdofficieren van justitie.
+- 13. *Voorzitter van het regionaal managementteam:* de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09) aangewezen hoofdofficieren van justitie.
 
 #### Paragraaf 2. De voorzitter van het regionaal managementteam
 
@@ -218,43 +180,43 @@ De voorzitter van het regionaal managementteam en de hoofdofficier van justitie 
 
 - 3. Een formatiebeheer te voeren dat in overeenstemming is met het justitiebrede beleid.
 
-- a. Het formatiebeheer dient gericht te zijn op de bewaking en bevordering van het effectief en doelmatig toedelen en inzetten van personele capaciteit.
+   - a. Het formatiebeheer dient gericht te zijn op de bewaking en bevordering van het effectief en doelmatig toedelen en inzetten van personele capaciteit.
 
-- b. Het mandaat ten aanzien van het formatiebeheer geldt voor alle functies die vallen onder het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) en het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517).
+   - b. Het mandaat ten aanzien van het formatiebeheer geldt voor alle functies die vallen onder het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) en het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517).
 
-- c. Voor het waarderen van deze functies wordt het binnen Justitie geldende functiewaarderingssysteem (Fuwasys en Fuwapol) gehanteerd inclusief het daarin vervatte normmateriaal.
+   - c. Voor het waarderen van deze functies wordt het binnen Justitie geldende functiewaarderingssysteem (Fuwasys en Fuwapol) gehanteerd inclusief het daarin vervatte normmateriaal.
 
-- d. De waardering van functies vindt plaats op grond van een functiewaarderingsadvies van een deskundige op het terrein van Fuwasys en/of Fuwapol.
+   - d. De waardering van functies vindt plaats op grond van een functiewaarderingsadvies van een deskundige op het terrein van Fuwasys en/of Fuwapol.
 
-- e. Van het organisatie en formatiemandaat zijn uitgesloten:
+   - e. Van het organisatie en formatiemandaat zijn uitgesloten:
 
-- i. De vaststelling van de organisatie en formatie van de managementfuncties vanaf schaal 14 en hoger;
+      - i. De vaststelling van de organisatie en formatie van de managementfuncties vanaf schaal 14 en hoger;
 
-- ii. Alle overige functies van schaal 14 en hoger.
+      - ii. Alle overige functies van schaal 14 en hoger.
 
 - 4. Van het beheer-, budget- , organisatie en formatiemandaat en personeelsmandaat zijn uitgesloten:
 
-- a. Besluiten en/of handelingen die neer worden gelegd in een document gericht aan de Koningin, de Ministerraad, de Raad voor de Rijksdienst, de Voorzitter van Eerste Kamer, de Voorzitter van de Tweede Kamer, de Vice President van de Raad van State en de President van de Algemene Rekenkamer.
+   - a. Besluiten en/of handelingen die neer worden gelegd in een document gericht aan de Koningin, de Ministerraad, de Raad voor de Rijksdienst, de Voorzitter van Eerste Kamer, de Voorzitter van de Tweede Kamer, de Vice President van de Raad van State en de President van de Algemene Rekenkamer.
 
-- b. Het nemen van besluiten met rechtspositionele gevolgen ten aanzien van:
+   - b. Het nemen van besluiten met rechtspositionele gevolgen ten aanzien van:
 
-- i. de rechterlijke ambtenaren, bezoldigd volgens salariscategorie 10 en hoger als bedoeld in [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=7), en;
+      - i. de rechterlijke ambtenaren, bezoldigd volgens salariscategorie 10 en hoger als bedoeld in [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=7), en;
 
-- ii. de niet rechterlijke ambtenaren, bezoldigd volgens salarisschaal 14 en hoger van de [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), respectievelijk salarisschaal 14 en hoger van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517).
+      - ii. de niet rechterlijke ambtenaren, bezoldigd volgens salarisschaal 14 en hoger van de [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), respectievelijk salarisschaal 14 en hoger van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517).
 
-- c. Het verlenen van ontslag op grond van de [artikelen 99 van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95) en [artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36b).
+   - c. Het verlenen van ontslag op grond van de [artikelen 99 van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95) en [artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36b).
 
 - 5. Van het beheer-, budget-, organisatie en formatiemandaat en het personeelsmandaat wordt gebruik gemaakt met inachtneming van:
 
-- a. de bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+   - a. de bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013891);
+   - b. de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013891);
 
-- c. de arbeidsvoorwaardelijke en rechtspositionele regels zoals die gelden in de sector rijk, de sector rechterlijke macht of de sector politie;
+   - c. de arbeidsvoorwaardelijke en rechtspositionele regels zoals die gelden in de sector rijk, de sector rechterlijke macht of de sector politie;
 
-- d. de algemeen geldende regels zoals die binnen het openbaar ministerie gelden, en;
+   - d. de algemeen geldende regels zoals die binnen het openbaar ministerie gelden, en;
 
-- e. de specifieke beleidsregels zoals die gelden binnen het dienstonderdeel.
+   - e. de specifieke beleidsregels zoals die gelden binnen het dienstonderdeel.
 
 - 6. De voorzitter van het regionaal managementteam legt over het gevoerde beheer verantwoording af aan het College.
 

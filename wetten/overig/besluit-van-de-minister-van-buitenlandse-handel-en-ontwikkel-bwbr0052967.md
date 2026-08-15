@@ -9,7 +9,7 @@ laatste_update: 2026-08-07
 status: geldig
 toestand: 2026-08-07
 bron: "https://wetten.overheid.nl/BWBR0052967"
-opgehaald: 2026-08-14
+opgehaald: 2026-08-15
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 28 juli 2026, nr. BZ2630491, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Humanitaire hulp 2027–2031)

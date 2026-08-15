@@ -1,47 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)"
+citeertitel: "Verordening PT algemene bepalingen 2009"
 identifier: "BWBR0027562"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-05-22"
-last_updated: "2011-05-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027562"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "10509293"
-version_id: "17310882"
-internal_id: "C23882671"
-label_id: "10484494"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027562/2011-05-22/0"
-intitule_bron: "Vbbo.2010-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-26"
-intitule_published: "2010-03-12"
-intitule_in_force: "2010-03-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2010-15"
-original_signed_date: "2010-01-26"
-original_published_date: "2010-03-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2010-03-14"
-jci_1_3: "jci1.3:c:BWBR0027562&z=2011-05-22&g=2011-05-22"
-jci_1_0: "1.0:c:BWBR0027562&g=2011-05-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene bepalingen 2009"
-signed_date: "2010-01-26"
-entry_into_force: "2010-03-14"
+publicatiedatum: 2010-03-14
+laatste_update: 2011-05-22
+status: geldig
+toestand: 2011-05-22
+bron: "https://wetten.overheid.nl/BWBR0027562"
+opgehaald: 2026-08-15
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)
-
-gelet op de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=77), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=83), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=96), [104](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=106), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127);
-
-gelet op [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -79,15 +50,15 @@ Besluit:
 
 - a. de door of vanwege het productschap met betrekking lot het voeren van een administratie gevraagde gegevens te verstrekken en voorschriften en aanwijzingen na te komen en deze administratie volledig en naar waarheid bij te houden en te bewaren. De te verstrekken gegevens omvatten tenminste:
 
-- naam, handelsnaam en rechtsvorm van de onderneming;
+   - naam, handelsnaam en rechtsvorm van de onderneming;
 
-- naam van de ondernemer;
+   - naam van de ondernemer;
 
-- plaats van de vestiging van de (hoofd)zetel;
+   - plaats van de vestiging van de (hoofd)zetel;
 
-- functies die de onderneming in de desbetreffende sector uitoefent;
+   - functies die de onderneming in de desbetreffende sector uitoefent;
 
-- e-rnailadres.
+   - e-rnailadres.
 
 - b. de vragen, welke hem door of vanwege het productschap betreffende de administratie van en de werkzaamheden in zijn onderneming worden gesteld, prompt, volledig en naar waarheid te beantwoorden, zomede op eerste vordering de door of vanwege het productschap verlangde boeken, papieren en/of andere bescheiden tegen ontvangstbewijs in te leveren of in te zenden.
 

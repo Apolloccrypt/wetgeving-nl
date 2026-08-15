@@ -1,38 +1,16 @@
 ---
 title: "Havenbeveiligingswet BES"
 identifier: "BWBR0028253"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028253"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10722073"
-version_id: "17690892"
-internal_id: "C24837501"
-label_id: "10696954"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028253/2010-10-10/0"
-intitule_bron: "Stb.2010-625"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-625"
-original_signed_date: "2010-09-15"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-625"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028253&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028253&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-15"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028253"
+opgehaald: 2026-08-15
 ---
+
 # Havenbeveiligingswet BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,45 +19,45 @@ entry_into_force: "2010-10-10"
 
 In deze wet wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Verkeer en Waterstaat;
+- a. *Onze Minister:* Onze Minister van Verkeer en Waterstaat;
 
-- b. **bestuurscollege:** het bestuurcollege van Bonaire, Sint Eustatius of Saba;
+- b. *bestuurscollege:* het bestuurcollege van Bonaire, Sint Eustatius of Saba;
 
-- c. **beheerder:** de natuurlijke persoon of rechtspersoon belast met het beheer van een havenfaciliteit;
+- c. *beheerder:* de natuurlijke persoon of rechtspersoon belast met het beheer van een havenfaciliteit;
 
-- d. **SOLAS-Verdrag:** het op 1 november 1974 te Londen tot stand gekomen Internationaal Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157);
+- d. *SOLAS-Verdrag:* het op 1 november 1974 te Londen tot stand gekomen Internationaal Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157);
 
-- e. **Code:** de Internationale Code voor de beveiliging van schepen en havenfaciliteiten (International Ship and Port Facility Security Code) behorende bij Hoofdstuk XI-2 van de bijlage bij het SOLAS-Verdrag;
+- e. *Code:* de Internationale Code voor de beveiliging van schepen en havenfaciliteiten (International Ship and Port Facility Security Code) behorende bij Hoofdstuk XI-2 van de bijlage bij het SOLAS-Verdrag;
 
-- f. **Voorschrift:** een voorschrift opgenomen in Hoofdstuk XI-2 van de bijlage bij het SOLAS-Verdrag;
+- f. *Voorschrift:* een voorschrift opgenomen in Hoofdstuk XI-2 van de bijlage bij het SOLAS-Verdrag;
 
-- g. **schip:** een vaartuig, behorende tot een van de navolgende soorten, mits op internationale reis:
+- g. *schip:* een vaartuig, behorende tot een van de navolgende soorten, mits op internationale reis:
 
-- i. passagiersvaartuigen, waaronder mede begrepen hogesnelheidspassagiersvaartuigen [met een bruto tonnage van twintig kubieke meters of meer];
+   - i. passagiersvaartuigen, waaronder mede begrepen hogesnelheidspassagiersvaartuigen [met een bruto tonnage van twintig kubieke meters of meer];
 
-- ii. schepen, waaronder mede begrepen hogesnelheids-vaartuigen, van 500 GT of meer en
+   - ii. schepen, waaronder mede begrepen hogesnelheids-vaartuigen, van 500 GT of meer en
 
-- iii. verplaatsbare offshore booreenheden voorzien van eigen middelen tot werktuiglijke voortstuwing;
+   - iii. verplaatsbare offshore booreenheden voorzien van eigen middelen tot werktuiglijke voortstuwing;
 
-- h. **havenfaciliteit:** het in overeenstemming met Voorschrift 1.1.9 aangewezen gebied, waarin interactie tussen een schip en de haven plaatsvindt. Dit omvat onder meer ankerplaatsen, ligplaatsen en aanvaarroutes, naar gelang van toepassing;
+- h. *havenfaciliteit:* het in overeenstemming met Voorschrift 1.1.9 aangewezen gebied, waarin interactie tussen een schip en de haven plaatsvindt. Dit omvat onder meer ankerplaatsen, ligplaatsen en aanvaarroutes, naar gelang van toepassing;
 
-- i. **interactie:** het laden of lossen van goederen, het inschepen of ontschepen van passagiers en personen werkzaam aan boord en het verlenen respectievelijk gebruiken van havendiensten;
+- i. *interactie:* het laden of lossen van goederen, het inschepen of ontschepen van passagiers en personen werkzaam aan boord en het verlenen respectievelijk gebruiken van havendiensten;
 
-- j. **beveiligingscertificaat:** een certificaat verleend aan een havenfaciliteit bij de goedkeuring, bedoeld in paragraaf 16, tweede lid, van Deel A, van de Code;
+- j. *beveiligingscertificaat:* een certificaat verleend aan een havenfaciliteit bij de goedkeuring, bedoeld in paragraaf 16, tweede lid, van Deel A, van de Code;
 
-- k. **veiligheidsincident:** elke gebeurtenis of situatie als gevolg van een opzettelijke ongeoorloofde actie die de veiligheid van een schip, of een havenfaciliteit, of enig contact tussen een schip en een havenfaciliteit, of enig contact tussen schepen onderling en van passagiers en lading, bedreigt;
+- k. *veiligheidsincident:* elke gebeurtenis of situatie als gevolg van een opzettelijke ongeoorloofde actie die de veiligheid van een schip, of een havenfaciliteit, of enig contact tussen een schip en een havenfaciliteit, of enig contact tussen schepen onderling en van passagiers en lading, bedreigt;
 
-- l. **beveiligingsniveau:** de beoordeling van het risico dat een veiligheidsincident zich kan of zal voordoen;
+- l. *beveiligingsniveau:* de beoordeling van het risico dat een veiligheidsincident zich kan of zal voordoen;
 
-- m. **beveiligingsniveau 1:** het niveau waarop een minimale hoeveelheid adequate beveiligingsmaatregelen wordt gehandhaafd;
+- m. *beveiligingsniveau 1:* het niveau waarop een minimale hoeveelheid adequate beveiligingsmaatregelen wordt gehandhaafd;
 
-- n. **beveiligingsniveau 2:** het niveau waarop additionele adequate beveiligingsmaatregelen worden gehandhaafd gedurende een bepaalde periode waarin er een verhoogd risico is op een veiligheidsincident;
+- n. *beveiligingsniveau 2:* het niveau waarop additionele adequate beveiligingsmaatregelen worden gehandhaafd gedurende een bepaalde periode waarin er een verhoogd risico is op een veiligheidsincident;
 
-- o. **beveiligingsniveau 3:** het niveau waarop verdere, specifieke beveiligingsmaatregelen worden gehandhaafd gedurende een beperkte periode waarin een veiligheidsincident waarschijnlijk is of ophanden is, maar waarbij het doelwit niet of niet met zekerheid kan worden vastgesteld;
+- o. *beveiligingsniveau 3:* het niveau waarop verdere, specifieke beveiligingsmaatregelen worden gehandhaafd gedurende een beperkte periode waarin een veiligheidsincident waarschijnlijk is of ophanden is, maar waarbij het doelwit niet of niet met zekerheid kan worden vastgesteld;
 
-- p. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- p. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- q. **gezaghebber:** de gezaghebber van een openbaar lichaam.
+- q. *gezaghebber:* de gezaghebber van een openbaar lichaam.
 
 ##### Artikel 2
 
@@ -252,6 +230,8 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 4. De beheerder is bevoegd degene die zich in een havenfaciliteit bevindt, de verdere aanwezigheid aldaar te ontzeggen, indien deze weigert te voldoen aan een vordering als bedoeld in de tweede volzin van het eerste lid of het tweede lid.
 
 ### Hoofdstuk 4
+
+[vervallen]
 
 ### Hoofdstuk 5. Toezicht
 

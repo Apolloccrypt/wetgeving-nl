@@ -1,41 +1,19 @@
 ---
 title: "Besluit tarief justitiekosten strafzaken BES"
 identifier: "BWBR0028534"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028534"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10839413"
-version_id: "17819652"
-internal_id: "C24807361"
-label_id: "10814384"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028534/2010-10-10/0"
-intitule_bron: "Stb.2010-563"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-563"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-563"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028534&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028534&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028534"
+opgehaald: 2026-08-15
 ---
+
 # Besluit tarief justitiekosten strafzaken BES
 
-## Toepasselijkheid
+### Toepasselijkheid
 
 ##### Artikel 1
 
@@ -43,7 +21,7 @@ entry_into_force: "2010-10-10"
 
 2. Dit besluit berust op [artikel 59 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=59).
 
-## Reis- en verblijfkosten
+### Reis- en verblijfkosten
 
 ##### Artikel 2
 
@@ -67,7 +45,7 @@ Indien een getuige, deskundige of tolk de reis- en verblijfkosten niet kan voors
 
 Als een getuige, deskundige of tolk die in het buitenland verblijft, zijn overkomst afhankelijk stelt van een andere of hogere schadeloosstelling dan voorzien in dit besluit, wordt de schadeloosstelling vooraf geregeld na bekomen machtiging van Onze Minister van Justitie.
 
-## Vergoedingen wegens dienstverlening door deskundigen en tolken
+### Vergoedingen wegens dienstverlening door deskundigen en tolken
 
 ##### Artikel 6
 
@@ -129,7 +107,7 @@ Voor schriftelijke vertalingen is verschuldigd voor elke bladzijde van vijf en t
 
 De uitgaven voor benodigdheden, die zijn aangekocht voor een onderzoek, worden terugbetaald op gespecificeerde rekeningen, tenzij de deskundige de benodigdheden voor verder gebruik wil behouden.
 
-## Schadeloosstelling voor tijdverlies aan getuigen
+### Schadeloosstelling voor tijdverlies aan getuigen
 
 ##### Artikel 13
 
@@ -137,19 +115,19 @@ De uitgaven voor benodigdheden, die zijn aangekocht voor een onderzoek, worden t
 
 2. Aan begeleiders van getuigen, die zich door ziekte of lichaamsgebreken of op grond van hun leeftijd noodzakelijk moeten laten vergezellen, kan de rechter eveneens een schadeloosstelling als in het eerste lid van dit artikel bedoeld toekennen.
 
-## Bewaarloon en onderhoudskosten
+### Bewaarloon en onderhoudskosten
 
 ##### Artikel 14
 
 Voor de bewaring en het noodzakelijke onderhoud van in beslag genomen of verzegelde zaken worden vergoed de werkelijk gemaakte kosten, waaronder begrepen het arbeidsloon, vermeerderd met een bewaarloon van USD 3,35 per dag.
 
-## Uitlevering en rogatoire commissies
+### Uitlevering en rogatoire commissies
 
 ##### Artikel 15
 
 De kosten van uitlevering en van rogatoire commissies worden zoveel mogelijk berekend op de voet van dit tarief, met dien verstande dat uit te leveren misdadigers zoveel mogelijk per goedkoopste gelegenheid worden vervoerd.
 
-## Vergoedingen aan deurwaarders voor strafzaken
+### Vergoedingen aan deurwaarders voor strafzaken
 
 ##### Artikel 16
 
@@ -189,7 +167,7 @@ Bij dienst ter terechtzitting wordt per afgeroepen zaak USD 0,42 vergoed.
 
 De in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028534&artikel=22&z=2010-10-10&g=2010-10-10) bedoelde stukken worden ingediend bij het openbaar ministerie bij het Gerecht in eerste aanleg, dat de bescheiden – na akkoordverklaring voor zover het de zaken in eerste aanleg betreft – met het oog op de betaalbaarstelling doorzendt aan het parket van de procureur generaal.
 
-## Verdachten
+### Verdachten
 
 ##### Artikel 24
 
@@ -199,7 +177,7 @@ In geval van vrijspraak, niet-ontvankelijk-verklaring van het openbaar ministeri
 
 De schadeloosstelling aan getuigen en deskundigen, die door een verdachte worden opgeroepen, komen alleen ten laste van ’s Rijks kas als de verdachte wordt vrijgesproken, buiten vervolging gesteld of het openbaar ministerie niet ontvankelijk wordt verklaard.
 
-## Betaling van schadeloosstellingen en vergoedingen
+### Betaling van schadeloosstellingen en vergoedingen
 
 ##### Artikel 26
 
@@ -209,7 +187,7 @@ De schadeloosstelling aan getuigen en deskundigen, die door een verdachte worden
 
 3. De betalingen vinden plaats tegen overlegging van een verklaring, afgegeven door het openbaar ministerie of de rechter, zonder nadere betaalbaarstelling, ingevolge het model in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028534&bijlage=II&z=2010-10-10&g=2010-10-10) van dit besluit.
 
-## Slotbepalingen
+### Slotbepalingen
 
 ##### Artikel 27
 
@@ -226,47 +204,3 @@ In gevallen, waarin dit besluit niet voorziet, kan de procureur-generaal uitgave
 ##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit tarief justitiekosten strafzaken BES.
-
-## Bijlage I
-
-### Specificatie van verrichtingen van de deurwaarder voor strafzaken ([artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028534&artikel=22&z=2010-10-10&g=2010-10-10), Besluit tarief justitiekosten strafzaken BES)
-
-........... **(plaats van ondertekening)**, ............ **(jaartal)**
-
-De deurwaarder,
-
-............ **(handtekening deurwaarder)**
-
-Akkoord wat betreft de zaken in eerste aanleg,
-
-............ **(plaats van ondertekening),** .................**(jaartal)**
-
-De officier van justitie,
-
-............ **(handtekening officier van justitie)**
-
-Akkoord,
-
-............ **(plaats van ondertekening)**, ................... **(jaartal)**
-
-De procureur-generaal
-
-............**(handtekening procureur-generaal)**
-
-## Bijlage II
-
-### Betaalbaarstelling ter uitvoering van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028534&artikel=26&z=2010-10-10&g=2010-10-10) Besluit tarief justitiekosten strafzaken BES.
-
-De ondergetekende
-
-........................................................................................ (**kwaliteit**)
-
-kent hierbij toe aan:
-
-............................................................................(**naam en voornamen**),
-
-getuige/deskundige (**doorstrepen wat niet van toepassing is**) in de strafzaak tegen ..............................................................................................
-
-een bedrag van ..................................................................... USD wegens:
-
-..................................................................

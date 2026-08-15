@@ -1,53 +1,31 @@
 ---
 title: "Besluit verpakte geneesmiddelen BES"
 identifier: "BWBR0028452"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-10-04"
-last_updated: "2011-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028452"
+categorie: "Gezondheidszorg"
 soort: "AMvB-BES"
-stam_id: "10788493"
-version_id: "17766802"
-internal_id: "C24791091"
-label_id: "10763364"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028452/2011-10-04/0"
-intitule_bron: "Stb.2010-652"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-652"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-652"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028452&z=2011-10-04&g=2011-10-04"
-jci_1_0: "1.0:c:BWBR0028452&g=2011-10-04"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-04
+status: geldig
+toestand: 2011-10-04
+bron: "https://wetten.overheid.nl/BWBR0028452"
+opgehaald: 2026-08-15
 ---
+
 # Besluit verpakte geneesmiddelen BES
 
 ##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze algemene maatregel van bestuur bepaalde wordt verstaan onder:
 
-- **wet:** de [wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486);
+- *wet:* de [wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486);
 
-- **importeur:** ieder, die verpakte geneesmiddelen invoert en krachtens een vergunning, als bedoeld in het [eerste lid onder d van artikel 3 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3), aflevert;
+- *importeur:* ieder, die verpakte geneesmiddelen invoert en krachtens een vergunning, als bedoeld in het [eerste lid onder d van artikel 3 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3), aflevert;
 
-- **bereiden:** iedere bewerking, welke wordt toegepast om zelfstandigheden in de vorm van een verpakt geneesmiddel te brengen, waaronder mede wordt begrepen het verdunnen, het vermengen, het verdelen van grotere eenheden in kleinere, het verpakken, het etiketteren en het bijvoegen van geschriften;
+- *bereiden:* iedere bewerking, welke wordt toegepast om zelfstandigheden in de vorm van een verpakt geneesmiddel te brengen, waaronder mede wordt begrepen het verdunnen, het vermengen, het verdelen van grotere eenheden in kleinere, het verpakken, het etiketteren en het bijvoegen van geschriften;
 
-- **fabrikant:** ieder die krachtens een vergunning als bedoeld in [artikel 3 lid 1 onder d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) verpakte geneesmiddelen bereidt en aflevert;
+- *fabrikant:* ieder die krachtens een vergunning als bedoeld in [artikel 3 lid 1 onder d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) verpakte geneesmiddelen bereidt en aflevert;
 
-- **groothandelaar:** ieder die krachtens een vergunning als bedoeld in [artikel 3 lid 1 onder d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) verpakte geneesmiddelen aflevert.
+- *groothandelaar:* ieder die krachtens een vergunning als bedoeld in [artikel 3 lid 1 onder d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) verpakte geneesmiddelen aflevert.
 
 ##### Artikel 1a
 
@@ -269,17 +247,17 @@ Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of te
 
 - n. de vermelding van ernstige therapeutische indicaties te maken, zoals:
 
-- 1°. tuberculose;
+   - 1° tuberculose;
 
-- 2°. seksueel overdraagbare ziekten;
+   - 2° seksueel overdraagbare ziekten;
 
-- 3°. andere ernstige infectieziekten;
+   - 3° andere ernstige infectieziekten;
 
-- 4°. kanker en andere tumorziekten;
+   - 4° kanker en andere tumorziekten;
 
-- 5°. chronische slapeloosheid;
+   - 5° chronische slapeloosheid;
 
-- 6°. diabetes en andere stofwisselingsziekten.
+   - 6° diabetes en andere stofwisselingsziekten.
 
 ##### Artikel 24
 
@@ -289,7 +267,9 @@ De bepalingen van deze algemene maatregel van bestuur zijn eveneens van toepassi
 
 [vervallen]
 
-## Overgangsbepalingen
+### Overgangsbepalingen
+
+De vergunningen die vóór de inwerkingtreding van dit besluit krachtens de [Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486) zijn verleend blijven van kracht tot de afgegeven geldigheidsdatum, maar maximaal tot 1 jaar na inwerkingtreding van dit besluit.
 
 ##### Artikel 26
 

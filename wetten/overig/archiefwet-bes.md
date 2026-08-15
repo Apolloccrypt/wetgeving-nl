@@ -1,38 +1,16 @@
 ---
 title: "Archiefwet BES"
 identifier: "BWBR0028369"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028369"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10761143"
-version_id: "17737122"
-internal_id: "C24816781"
-label_id: "10736404"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028369/2013-01-01/0"
-intitule_bron: "Stb.2010-573"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-573"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-573"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028369&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0028369&g=2013-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0028369"
+opgehaald: 2026-08-15
 ---
+
 # Archiefwet BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,29 +19,29 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **overheidsorgaan:**
+- b. *overheidsorgaan:*
 
-- 1°. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld; of
+   - 1°. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld; of
 
-- 2°. een ander persoon of college met enig openbaar gezag bekleed;
+   - 2°. een ander persoon of college met enig openbaar gezag bekleed;
 
-- c. **archiefbescheiden:**
+- c. *archiefbescheiden:*
 
-- 1°. bescheiden, ongeacht hun vorm, door een overheidsorgaan ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - 1°. bescheiden, ongeacht hun vorm, door een overheidsorgaan ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op enig overheidsorgaan zijn overgegaan;
+   - 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op enig overheidsorgaan zijn overgegaan;
 
-- 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit andere hoofde in de archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit andere hoofde in de archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4°. reproducties, ongeacht hun vorm, welke bij of krachtens deze wet in de plaats zijn gesteld van de archiefbescheiden, bedoeld in onderdeel c, sub 1, 2 of 3 of welke op grond van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=8&z=2013-01-01&g=2013-01-01) zijn vervaardigd;
+   - 4°. reproducties, ongeacht hun vorm, welke bij of krachtens deze wet in de plaats zijn gesteld van de archiefbescheiden, bedoeld in onderdeel c, sub 1, 2 of 3 of welke op grond van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=8&z=2013-01-01&g=2013-01-01) zijn vervaardigd;
 
-- d. **zorgdrager:** degene die bij of krachtens deze wet belast is met de zorg voor de archiefbescheiden;
+- d. *zorgdrager:* degene die bij of krachtens deze wet belast is met de zorg voor de archiefbescheiden;
 
-- e. **archiefruimte:** een ruimte, bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=17&z=2013-01-01&g=2013-01-01);
+- e. *archiefruimte:* een ruimte, bestemd of aangewezen voor de bewaring van archiefbescheiden in afwachting van hun overbrenging ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&hoofdstuk=II&artikel=17&z=2013-01-01&g=2013-01-01);
 
-- f. **archiefbewaarplaats:** een krachtens deze wet voor blijvende bewaring van archiefbescheiden aangewezen bewaarplaats.
+- f. *archiefbewaarplaats:* een krachtens deze wet voor blijvende bewaring van archiefbescheiden aangewezen bewaarplaats.
 
 ##### Artikel 2
 

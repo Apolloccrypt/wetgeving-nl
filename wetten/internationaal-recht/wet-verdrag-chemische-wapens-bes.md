@@ -1,38 +1,16 @@
 ---
 title: "Wet Verdrag Chemische Wapens BES"
 identifier: "BWBR0028248"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2014-01-25"
-last_updated: "2014-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028248"
+categorie: "Internationaal recht"
 soort: "wet-BES"
-stam_id: "10720973"
-version_id: "17689032"
-internal_id: "C24779041"
-label_id: "10695764"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028248/2014-01-25/0"
-intitule_bron: "Stb.2010-444"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-444"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-444"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028248&z=2014-01-25&g=2014-01-25"
-jci_1_0: "1.0:c:BWBR0028248&g=2014-01-25"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2014-01-25
+status: geldig
+toestand: 2014-01-25
+bron: "https://wetten.overheid.nl/BWBR0028248"
+opgehaald: 2026-08-15
 ---
+
 # Wet Verdrag Chemische Wapens BES
 
 ### Hoofdstuk 1. Begripsomschrijving
@@ -41,43 +19,43 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **verdrag:** het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162);
+- a. *verdrag:* het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162);
 
-- b. **minister:** Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- b. *minister:* Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- c. **stoffen:** chemische elementen en hun verbindingen, zoals zij voorkomen in hun natuurlijke toestand of bij produktie ontstaan, met inbegrip van additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en de onzuiverheden ten gevolge van het produktieprocédé;
+- c. *stoffen:* chemische elementen en hun verbindingen, zoals zij voorkomen in hun natuurlijke toestand of bij produktie ontstaan, met inbegrip van additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en de onzuiverheden ten gevolge van het produktieprocédé;
 
-- d. **giftige stoffen:** stoffen die door hun fysische of chemische inwerking op levensprocessen van mensen en dieren de dood, tijdelijke functie-aantasting of blijvend letsel kunnen veroorzaken;
+- d. *giftige stoffen:* stoffen die door hun fysische of chemische inwerking op levensprocessen van mensen en dieren de dood, tijdelijke functie-aantasting of blijvend letsel kunnen veroorzaken;
 
-- e. **precursoren:** chemische agens die zijn betrokken bij enigerlei stap in de produktie van een giftige stof, ongeacht de wijze van produktie, waartoe mede behoren hoofdbestanddelen van binaire of meerdere bestanddelen bevattende chemische systemen;
+- e. *precursoren:* chemische agens die zijn betrokken bij enigerlei stap in de produktie van een giftige stof, ongeacht de wijze van produktie, waartoe mede behoren hoofdbestanddelen van binaire of meerdere bestanddelen bevattende chemische systemen;
 
-- f. **chemische wapens:**
+- f. *chemische wapens:*
 
-- 1. giftige stoffen en hun precursoren, uitgezonderd die, bestemd voor ingevolge het verdrag niet verboden doeleinden, zolang de soorten en hoeveelheden met die doeleinden in overeenstemming zijn; en of
+   - 1. giftige stoffen en hun precursoren, uitgezonderd die, bestemd voor ingevolge het verdrag niet verboden doeleinden, zolang de soorten en hoeveelheden met die doeleinden in overeenstemming zijn; en of
 
-- 2. munitie en andere inzetmiddelen, ontworpen om de dood of ander letsel te veroorzaken door de toxische eigenschappen van giftige stoffen, die kunnen vrijkomen als gevolg van het gebruik van zodanige munitie en andere inzetmiddelen; en of
+   - 2. munitie en andere inzetmiddelen, ontworpen om de dood of ander letsel te veroorzaken door de toxische eigenschappen van giftige stoffen, die kunnen vrijkomen als gevolg van het gebruik van zodanige munitie en andere inzetmiddelen; en of
 
-- 3. uitrusting ontworpen voor gebruik dat rechtstreeks verband houdt met het gebruik van munitie en andere inzetmiddelen;
+   - 3. uitrusting ontworpen voor gebruik dat rechtstreeks verband houdt met het gebruik van munitie en andere inzetmiddelen;
 
-- g. **inrichting:** een inrichting als bedoeld in Afdeling I, onderdeel 6, van de Verificatiebijlage van het verdrag;
+- g. *inrichting:* een inrichting als bedoeld in Afdeling I, onderdeel 6, van de Verificatiebijlage van het verdrag;
 
-- h. **fabriekscomplex fabriek en eenheid:** hetgeen daaronder wordt verstaan in Afdeling I, onderdeel 6, van de Verificatiebijlage van het verdrag;
+- h. *fabriekscomplex fabriek en eenheid:* hetgeen daaronder wordt verstaan in Afdeling I, onderdeel 6, van de Verificatiebijlage van het verdrag;
 
-- i. **produceren van stoffen:** het vormen van stoffen door middel van een chemische reactie;
+- i. *produceren van stoffen:* het vormen van stoffen door middel van een chemische reactie;
 
-- j. **verwerken van stoffen:** het toepassen van een fysisch proces, zoals de formulering, extractie en zuivering, waarbij de stoffen niet worden omgezet in andere stoffen;
+- j. *verwerken van stoffen:* het toepassen van een fysisch proces, zoals de formulering, extractie en zuivering, waarbij de stoffen niet worden omgezet in andere stoffen;
 
-- k. **verbruiken van stoffen:** het omzetten in andere stoffen door middel van een chemische reactie;
+- k. *verbruiken van stoffen:* het omzetten in andere stoffen door middel van een chemische reactie;
 
-- l. **invoer en uitvoer:** invoer als bedoeld in [artikel 1.1. onder s. van de Wet Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1). Onder uitvoer wordt verstaan het brengen van goederen buiten Bonaire, Sint Eustatius of Saba;
+- l. *invoer en uitvoer:* invoer als bedoeld in [artikel 1.1. onder s. van de Wet Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1). Onder uitvoer wordt verstaan het brengen van goederen buiten Bonaire, Sint Eustatius of Saba;
 
-- m. **internationale routine-inspectie:** een inspectie als bedoeld in artikel VI, derde tot en met vijfde lid, van het verdrag ter verificatie van de naleving daarvan;
+- m. *internationale routine-inspectie:* een inspectie als bedoeld in artikel VI, derde tot en met vijfde lid, van het verdrag ter verificatie van de naleving daarvan;
 
-- n. **internationale uitdagingsinspectie:** een inspectie als bedoeld in artikel IX, achtste lid, van het verdrag ter verificatie van de naleving daarvan;
+- n. *internationale uitdagingsinspectie:* een inspectie als bedoeld in artikel IX, achtste lid, van het verdrag ter verificatie van de naleving daarvan;
 
-- o. **internationaal inspectie-team:** inspecteurs en inspectie-assistenten, door de Directeur-Generaal van de Organisatie voor het Verbod van Chemische Wapens belast met het verrichten van een Internationale routine- of uitdagingsinspectie;
+- o. *internationaal inspectie-team:* inspecteurs en inspectie-assistenten, door de Directeur-Generaal van de Organisatie voor het Verbod van Chemische Wapens belast met het verrichten van een Internationale routine- of uitdagingsinspectie;
 
-- p. **begeleidingsteam:** de door de minister tot begeleiding van het internationale inspectieteam aangewezen ambtenaren of andere personen.
+- p. *begeleidingsteam:* de door de minister tot begeleiding van het internationale inspectieteam aangewezen ambtenaren of andere personen.
 
 ### Hoofdstuk 2. Chemische wapens en stoffen en inrichtingen voor de produktie daarvan
 

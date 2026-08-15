@@ -1,15 +1,15 @@
 ---
 title: "Besluit van 19 oktober 2012, houdende nadere regels met betrekking tot technische en organisatorische eisen ter beperking van risico’s voor de veiligheid en de integriteit, de meldplicht van inbreuken op de veiligheid en verliezen van integriteit, de verstrekking van informatie voor de beoordeling van de veiligheid en de integriteit en de aanwijzing van inbreuken op de veiligheid en verliezen van integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit continuïteit openbare elektronische communicatienetwerken en -diensten)"
-citeertitel: "Besluit beveiliging en continuïteit openbare elektronische communicatienetwerken en -diensten"
+citeertitel: "Besluit beveiliging openbare elektronische communicatienetwerken en- diensten en antenne-opstelpunten"
 identifier: "BWBR0032149"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2016-10-27
-laatste_update: 2022-03-02
+laatste_update: 2026-08-15
 status: geldig
-toestand: 2022-03-02
+toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0032149"
-opgehaald: 2026-08-08
+opgehaald: 2026-08-15
 ---
 
 # Besluit van 19 oktober 2012, houdende nadere regels met betrekking tot technische en organisatorische eisen ter beperking van risico’s voor de veiligheid en de integriteit, de meldplicht van inbreuken op de veiligheid en verliezen van integriteit, de verstrekking van informatie voor de beoordeling van de veiligheid en de integriteit en de aanwijzing van inbreuken op de veiligheid en verliezen van integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit continuïteit openbare elektronische communicatienetwerken en -diensten)
@@ -18,16 +18,7 @@ opgehaald: 2026-08-08
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
-
-- a. *wet:*
- [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
-
-- b. *aanbieder:* aanbieder van een openbaar elektronisch communicatienetwerk of van een openbare elektronische communicatiedienst;
-
-- c. *melding:* kennisgeving als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2);
-
-- d. *meldpunt:* door Onze Minister aangewezen instantie waar de aanbieder een melding doet.
+In dit besluit en de daarop berustende bepalingen wordt onder wet verstaan: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 #### § 1a. Aanwijzing antenne-opstelpunten
 
@@ -41,53 +32,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De aanbieder beschikt over een beveiligingsplan dat in ieder geval de volgende onderdelen bevat:
-
-- a. een beschrijving van de risico’s en maatregelen, bedoeld in [artikel 11a.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), alsmede, voor zover van toepassing, de maatregelen, bedoeld in artikel 11a.1, tweede lid, van de wet;
-
-- b. de aanwijzing van een ter zake kundige functionaris die binnen zijn organisatie verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van de maatregelen, bedoeld onder a;
-
-- c. de aanwijzing van de functionaris, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=9&z=2022-03-02&g=2022-03-02).
-
-2. De aanbieder verstrekt de contactgegevens van de in het eerste lid, onder b, bedoelde functionaris en wijzigingen daarvan onverwijld aan Onze Minister.
-
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de maatregelen, bedoeld in [artikel 11a.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1).
+Bij ministeriële regeling kunnen regels worden gesteld omtrent de maatregelen, bedoeld in [artikel 11a.1, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1).
 
 ##### Artikel 2a
 
-Voor zover voor de aanbieding van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst gebruik wordt gemaakt van een antenne-opstelpunt als aangewezen op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=1a&artikel=1a&z=2022-03-02&g=2022-03-02), beschikt de aanbieder over een continuïteitsplan dat in ieder geval een beschrijving bevat van de risico’s en maatregelen, bedoeld in [artikel 11a.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), met betrekking tot de volgende onderwerpen:
-
-- a. beveiliging van de toegang tot het antenne-opstelpunt;
-
-- b. operationele werkzaamheden op het antenne-opstelpunt;
-
-- c. onderhoud van het antenne-opstelpunt;
-
-- d. brandpreventie;
-
-- e. branddetectie;
-
-- f. brandbestrijding;
-
-- g. onderbreking van de elektriciteitsvoorziening.
+*Vervallen*
 
 ##### Artikel 3
 
-De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de beveiliging van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het beveiligingsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2022-03-02&g=2022-03-02).
+*Vervallen*
 
 ##### Artikel 4
 
-De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij de voor de beveiliging van zijn netwerk of dienst relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2022-03-02&g=2022-03-02), en zorgt ervoor dat die personen te allen tijde over dit beveiligingsplan kunnen beschikken.
+*Vervallen*
 
 ##### Artikel 5
 
-1. De aanbieder zorgt voor een deugdelijke beveiliging van zijn netwerk of dienst door in ieder geval:
-
-- a. de fysieke toegang tot gebouwen of faciliteiten en
-
-- b. de elektronische toegang tot informatie en informatieverwerkende systemen die van belang zijn voor de beveiliging van zijn netwerk of dienst uitsluitend toe te staan aan daartoe gemachtigde personen.
-
-2. De aanbieder legt de voor hem werkzame personen die betrokken zijn bij de voor de beveiliging van zijn netwerk of dienst relevante processen een geheimhoudingsverplichting op.
+*Vervallen*
 
 ##### Artikel 5a
 
@@ -121,9 +82,9 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 1. Een continuïteitsplan als bedoeld in [artikel 11a.3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), bevat in elk geval de volgende onderdelen:
 
-- a. een beschrijving van de in de [artikelen 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), en [11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3) bedoelde risico’s;
+- a. een beschrijving van de in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3) bedoelde risico’s;
 
-- b. een beschrijving van de wijze waarop de maatregelen, bedoeld in de [artikelen 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), en [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), op elkaar worden afgestemd;
+- b. een beschrijving van de wijze waarop de maatregelen, bedoeld in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), op elkaar worden afgestemd;
 
 - c. een aanduiding per maatregel van de aanbieder en van de functionaris van deze aanbieder die verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van deze maatregel;
 
@@ -135,59 +96,17 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 - g. non-discriminatoire voorwaarden voor deelname aan het plan van nieuwe aanbieders als bedoeld in [artikel 11a.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3).
 
-2. De onderdelen a, b en c van het eerste lid hebben in elk geval betrekking op de onderwerpen, genoemd in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2a&z=2022-03-02&g=2022-03-02) en [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=5a&z=2022-03-02&g=2022-03-02).
+2. De onderdelen a, b en c van het eerste lid hebben in elk geval betrekking op de onderwerpen, genoemd in [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=5a&z=2026-08-15&g=2026-08-15).
 
 #### § 3. Meldplicht en informatieplicht
 
 ##### Artikel 6
 
-1. Om te bepalen of een beveiligingsincident aanzienlijke gevolgen heeft als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2), worden, voor zover beschikbaar, in elk geval in aanmerking genomen:
-
-- a. het aantal gebruikers dat gevolgen ondervindt van het beveiligingsincident;
-
-- b. de duur van het beveiligingsincident;
-
-- c. de omvang van het geografische gebied dat door het beveiligingsincident is getroffen;
-
-- d. de mate waarin het functioneren van het netwerk of de dienst wordt aangetast;
-
-- e. de omvang van de gevolgen voor de economische en maatschappelijke activiteiten;
-
-- f. de bereikbaarheid van alarmnummers.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van het eerste lid.
+*Vervallen*
 
 ##### Artikel 7
 
-1. De aanbieder doet de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde melding bij het meldpunt.
-
-2. De melding bevat in ieder geval:
-
-- a. het tijdstip van aanvang van het beveiligingsincident;
-
-- b. de aard en de omvang van het beveiligingsincident;
-
-- c. op welk netwerk of bij welke dienst het beveiligingsincident heeft plaatsgevonden;
-
-- d. een prognose van de hersteltijd.
-
-3. Indien de aanbieder melding heeft gedaan van een beveiligingsincident als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2), verstrekt hij Onze Minister zo spoedig mogelijk doch in ieder geval binnen vier weken na beëindiging van het beveiligingsincident alle informatie omtrent:
-
-- a. wanneer het beveiligingsincident is beëindigd;
-
-- b. welke maatregelen zijn genomen om het beveiligingsincident te beëindigen;
-
-- c. welke maatregelen zijn genomen om herhaling van het beveiligingsincident te voorkomen.
-
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent;
-
-- a. de wijze waarop de in het eerste lid bedoelde melding plaatsvindt;
-
-- b. de wijze waarop de in het derde lid bedoelde verstrekking plaatsvindt;
-
-- c. de openbaarmaking van de melding, bedoeld in [artikel 11a.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2);
-
-- d. de informatievoorziening richting gebruikers over een dreigend beveiligingsincident, bedoeld in [artikel 11a.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
+*Vervallen*
 
 ##### Artikel 8
 
@@ -195,18 +114,18 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 ##### Artikel 9
 
-1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2022-03-02&g=2022-03-02) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een beveiligingsincident als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
-
-2. De in het eerste lid bedoelde functionaris is te allen tijde voor het meldpunt bereikbaar door middel van elektronische communicatie.
-
-3. De aanbieder verstrekt de contactgegevens van de in het eerste lid bedoelde functionaris en wijzigingen daarvan onverwijld aan het meldpunt.
+*Vervallen*
 
 #### § 4. Slotbepalingen
 
-##### Artikel 10
+##### Artikel 6
+
+Dit besluit berust op [artikel 11a.3, zesde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3).
+
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-##### Artikel 11
+##### Artikel 8
 
-Dit besluit wordt aangehaald als: Besluit beveiliging en continuïteit openbare elektronische communicatienetwerken en -diensten.
+Dit besluit wordt aangehaald als: Besluit beveiliging openbare elektronische communicatienetwerken en- diensten en antenne-opstelpunten.

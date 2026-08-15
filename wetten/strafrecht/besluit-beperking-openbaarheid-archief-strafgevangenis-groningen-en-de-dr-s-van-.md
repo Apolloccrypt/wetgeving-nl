@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
+citeertitel: "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
 identifier: "BWBR0028187"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-11-01"
-last_updated: "2010-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028187"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "10691363"
-version_id: "17653382"
-internal_id: "C24416791"
-label_id: "10665914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028187/2010-11-01/0"
-intitule_bron: "Stcrt.2010-13870"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-08-17"
-intitule_published: "2010-09-07"
-intitule_in_force: "2010-09-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-13870"
-original_signed_date: "2010-08-17"
-original_published_date: "2010-09-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-13870"
-entry_into_force_date: "2010-11-01"
-jci_1_3: "jci1.3:c:BWBR0028187&z=2010-11-01&g=2010-11-01"
-jci_1_0: "1.0:c:BWBR0028187&g=2010-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
-signed_date: "2010-08-17"
-entry_into_force: "2010-11-01"
+publicatiedatum: 2010-11-01
+laatste_update: 2010-11-01
+status: geldig
+toestand: 2010-11-01
+bron: "https://wetten.overheid.nl/BWBR0028187"
+opgehaald: 2026-08-15
 ---
-# Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993
 
-Als bedoeld in [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
+# Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993
 
 Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende personen, worden op grond van [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), aan de openbaarheid van het, naar het Regionaal Historisch Centrum de Groninger Archieven, overgebrachte archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen over de periode (1943) 1951–1993 de volgende beperkingen gesteld:
 
@@ -44,15 +20,15 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 - 2. Raadpleging van de archiefbescheiden is, gelet op [art. 15, derde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), slechts mogelijk na schriftelijk verkregen toestemming van de Rijksarchivaris in de provincie Groningen. Deze toestemming kan worden verleend, indien wordt voldaan aan de volgende voorwaarden:
 
-- •. De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden;
+   - • De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden;
 
-- •. De verzoeker vult hiertoe het Formulier voor toestemming tot raadpleging van niet-openbare archieven van het Regionaal Historisch Centrum Groninger Archieven in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de, in het formulier opgenomen, bepalingen;
+   - • De verzoeker vult hiertoe het Formulier voor toestemming tot raadpleging van niet-openbare archieven van het Regionaal Historisch Centrum Groninger Archieven in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de, in het formulier opgenomen, bepalingen;
 
-- •. Tevens verklaart de verzoeker de bevoegdheid van de Rijksarchivaris in de provincie Groningen te erkennen om publicatie van bepaalde, uit de ter inzage gegeven bescheiden afkomstige, gegevens te verbieden;
+   - • Tevens verklaart de verzoeker de bevoegdheid van de Rijksarchivaris in de provincie Groningen te erkennen om publicatie van bepaalde, uit de ter inzage gegeven bescheiden afkomstige, gegevens te verbieden;
 
-- •. Tot individuele natuurlijke personen en rechtspersonen herleidbare gegevens worden niet in de openbaarheid gebracht;
+   - • Tot individuele natuurlijke personen en rechtspersonen herleidbare gegevens worden niet in de openbaarheid gebracht;
 
-- •. Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, zonder toestemming van de Rijksarchivaris in de provincie Groningen;
+   - • Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, zonder toestemming van de Rijksarchivaris in de provincie Groningen;
 
 - 3. De Rijksarchivaris in de provincie Groningen kan extra voorwaarden verbinden aan het verlenen van zijn toestemming.
 

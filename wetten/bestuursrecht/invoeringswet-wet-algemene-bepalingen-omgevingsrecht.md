@@ -1,55 +1,26 @@
 ---
 title: "Wet van 25 maart 2010 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de Wet algemene bepalingen omgevingsrecht (Invoeringswet Wet algemene bepalingen omgevingsrecht)"
+citeertitel: "Invoeringswet Wet algemene bepalingen omgevingsrecht"
 identifier: "BWBR0027474"
-country: "nl"
-rank: "wet"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0027474"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "10492203"
-version_id: "17284472"
-internal_id: "C24131911"
-label_id: "10467864"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0027474/2015-07-01/0"
-intitule_bron: "Stb.2010-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-03-25"
-intitule_published: "2010-04-01"
-intitule_in_force: "2010-06-22"
-intitule_status: "goed"
-original_publication: "Stb.2010-142"
-original_signed_date: "2010-03-25"
-original_published_date: "2010-04-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "31953"
-original_url_id: "stb-2010-142"
-entry_into_force_date: "2010-10-01"
-jci_1_3: "jci1.3:c:BWBR0027474&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0027474&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet Wet algemene bepalingen omgevingsrecht"
-signed_date: "2010-03-25"
-entry_into_force: "2010-10-01"
+publicatiedatum: 2010-10-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0027474"
+opgehaald: 2026-08-15
 ---
+
 # Wet van 25 maart 2010 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de Wet algemene bepalingen omgevingsrecht (Invoeringswet Wet algemene bepalingen omgevingsrecht)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+### Hoofdstuk 1. Wijzigingen in de Wet algemene bepalingen omgevingsrecht en overgangsrecht
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is met het oog op de invoering van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) in overgangsrecht te voorzien en een groot aantal wetten aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Hoofdstuk 1. Wijzigingen in de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) en overgangsrecht
-
-#### § 1.1. Wijzigingen in de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
+#### § 1.1. Wijzigingen in de Wet algemene bepalingen omgevingsrecht
 
 ##### Artikel 1.1
 
-Wijzigt de Wet algemene bepalingen omgevingsrecht.
+*Wijzigt de Wet algemene bepalingen omgevingsrecht.*
 
 #### § 1.2. Overgangsrechtelijke bepalingen
 
@@ -143,6 +114,32 @@ Een ontheffing als bedoeld in [artikel 3.23, eerste lid, van de Wet ruimtelijke 
 
 2. [Artikel 1.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
+##### Artikel 1.5a
+
+1. In afwijking van [artikel 1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2015-07-01&g=2015-07-01), wordt een beslissing omtrent een aanvraag om:
+
+- a. een ontheffing als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23) of [3.38, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38),
+
+- b. een projectbesluit als bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10), [3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.27), of [3.29, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.29) of een besluit als bedoeld in [artikel 3.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41), of [3.42, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42), of
+
+- c. een ontheffing van de regels die zijn gesteld krachtens [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of [4.3, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3),
+
+die op het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is genomen, maar nog niet onherroepelijk is, voor zover die beslissing ziet op een bouwactiviteit waarvoor onmiddellijk voor dat tijdstip nog geen aanvraag om bouwvergunning als bedoeld in artikel 40 van de Woningwet is ingediend, gelijkgesteld met een beschikking van het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), met betrekking tot de eerste fase van een omgevingsvergunning als bedoeld in [artikel 2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van die wet.
+
+2. Het eerste lid is van overeenkomstige toepassing op een beslissing als bedoeld in dat lid die voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is aangevraagd, maar nog niet is genomen, op het moment dat die beslissing wordt genomen.
+
+3. Indien op de voorbereiding van de beschikking met betrekking tot de tweede fase van een omgevingsvergunning die verband houdt met een beslissing als bedoeld in het eerste of tweede lid, op grond van [artikel 2.5, tweede lid, tweede volzin, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) de reguliere voorbereidingsprocedure, bedoeld in [paragraaf 3.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2), van toepassing is, is in afwijking daarvan niettemin de uitgebreide voorbereidingsprocedure, bedoeld in [paragraaf 3.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3), van toepassing, indien de beslissing, bedoeld in het eerste of tweede lid, is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
+
+4. Voor de mogelijkheid van beroep wordt een beslissing die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning met de beschikking met betrekking tot de tweede fase van die omgevingsvergunning als één besluit aangemerkt.
+
+##### Artikel 1.5b
+
+1. In afwijking van [artikel 9.1.10 van de Invoeringswet Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&artikel=9.1.10) wordt een vrijstelling als bedoeld in dat artikel, die op het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, maar nog niet onherroepelijk is, voor zover die vrijstelling ziet op een bouwactiviteit waarvoor onmiddellijk voor dat tijdstip nog geen aanvraag om bouwvergunning als bedoeld in [artikel 40 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40) is ingediend, gelijkgesteld met een beschikking van het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), met betrekking tot de eerste fase van een omgevingsvergunning als bedoeld in [artikel 2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van die wet.
+
+2. Het eerste lid is van overeenkomstige toepassing op een vrijstelling als bedoeld in dat lid die voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is aangevraagd, maar nog niet is verleend, op het moment dat de vrijstelling wordt verleend.
+
+3. [Artikel 1.5a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.5a&z=2015-07-01&g=2015-07-01), is op een vrijstelling die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning van overeenkomstige toepassing.
+
 ##### Artikel 1.6
 
 1. Indien voor het tijdstip waarop de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) in werking treedt met betrekking tot een activiteit als bedoeld in die wet een beschikking tot toepassing van bestuursdwang of oplegging van een last onder dwangsom of tot gehele of gedeeltelijke intrekking van een vergunning is gegeven, blijft het onmiddellijk voor dat tijdstip ten aanzien van een zodanige beschikking geldende recht van toepassing tot het tijdstip waarop de beschikking onherroepelijk wordt.
@@ -154,6 +151,10 @@ Een ontheffing als bedoeld in [artikel 3.23, eerste lid, van de Wet ruimtelijke 
 1. Het recht zoals dat gold op het tijdstip onmiddellijk voor het tijdstip van inwerkingtreding van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) blijft van toepassing ten aanzien van een beschikking tot vergoeding van kosten of schade ten gevolge van een beschikking met betrekking tot een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e of f, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) indien voor dat tijdstip een verzoek om een beschikking tot vergoeding van kosten of schade is ingediend.
 
 2. Een beschikking die overeenkomstig het eerste lid wordt verleend wordt, nadat deze onherroepelijk is geworden, gelijkgesteld met een beschikking krachtens [artikel 4.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=4.2).
+
+##### Artikel 1.7a
+
+Na het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) wordt, voor zover in een voor dat tijdstip vastgesteld bestemmingsplan, exploitatieplan, inpassingsplan of voorbereidingsbesluit of in een voor dat tijdstip vastgestelde beheersverordening op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.3), [3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.7), [3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26), [3.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28), [3.38, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38), [4.1, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), [4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.2), [4.3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), [4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.4), of [6.13, tweede lid, onder e, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.13), zoals die luidde voor dat tijdstip, is bepaald dat een vergunning is vereist of een ontheffing kan worden verleend, onder een zodanige vergunning respectievelijk een zodanige ontheffing een omgevingsvergunning verstaan.
 
 ##### Artikel 1.8
 
@@ -197,201 +198,201 @@ Het recht zoals dat gold op het tijdstip onmiddellijk voor het tijdstip van inwe
 
 ##### Artikel 2.1
 
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+*Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
 
 ##### Artikel 2.2
 
-Wijzigt de Wet algemene regels herindeling.
-
-### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-##### Artikel 3.1
-
-Wijzigt de Mijnbouwwet.
-
-##### Artikel 3.2
-
-Wijzigt de Uitvoeringswet verdrag chemische wapens.
+*Wijzigt de Wet algemene regels herindeling.*
 
 ### Hoofdstuk 3. Ministerie van Economische Zaken
 
+##### Artikel 3.1
+
+*Wijzigt de Mijnbouwwet.*
+
+##### Artikel 3.2
+
+*Wijzigt de Uitvoeringswet verdrag chemische wapens.*
+
+### Hoofdstuk 4. Ministerie van Financiën
+
 ##### Artikel 4.1
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel 4.2
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel 4.3
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel 4.4
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel 4.5
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel 4.6
 
-Wijzigt de Wet waardering onroerende zaken.
+*Wijzigt de Wet waardering onroerende zaken.*
 
 ### Hoofdstuk 5. Ministerie van Justitie
 
 ##### Artikel 5.1
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 5.2
 
-Wijzigt het Burgerlijk Wetboek Boek 6 en het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 6 en het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel 5.3
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
 ##### Artikel 5.4
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ### Hoofdstuk 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 ##### Artikel 6.1
 
-Wijzigt de Flora- en faunawet.
+*Wijzigt de Flora- en faunawet.*
 
 ##### Artikel 6.2
 
-Wijzigt de Natuurbeschermingswet 1998.
+*Wijzigt de Natuurbeschermingswet 1998.*
 
 ##### Artikel 6.3
 
-Wijzigt de Meststoffenwet.
+*Wijzigt de Meststoffenwet.*
 
 ##### Artikel 6.4
 
-Wijzigt de Reconstructiewet concentratiegebieden.
+*Wijzigt de Reconstructiewet concentratiegebieden.*
 
 ### Hoofdstuk 7. Ministerie van Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 7.1
 
-Wijzigt de Monumentenwet 1988.
+*Wijzigt de Monumentenwet 1988.*
 
-### Hoofdstuk 7. Ministerie van Onderwijs, Cultuur en Wetenschap
+### Hoofdstuk 8. Ministerie van Verkeer en Waterstaat
 
 ##### Artikel 8.1
 
-Wijzigt de Ontgrondingenwet.
+*Wijzigt de Ontgrondingenwet.*
 
 ##### Artikel 8.2
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel 8.3
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel 8.4
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
 ##### Artikel 8.5
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.
+*Wijzigt de Wet bereikbaarheid en mobiliteit.*
 
 ##### Artikel 8.6
 
-Wijzigt de Wet kabelbaaninstallaties.
+*Wijzigt de Wet kabelbaaninstallaties.*
 
 ##### Artikel 8.7
 
-Wijzigt de Wet luchtvaart
+*Wijzigt de Wet luchtvaart*
 
 ##### Artikel 8.8
 
-Wijzigt de Wet aanvullende regels veiligheid wegtunnels.
+*Wijzigt de Wet aanvullende regels veiligheid wegtunnels.*
 
 ### Hoofdstuk 9. Ministerie van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
 
 ##### Artikel 9.1
 
-Wijzigt de Huisvestingswet.
+*Wijzigt de Huisvestingswet.*
 
 ##### Artikel 9.2
 
-Wijzigt de Interimwet stad-en-milieubenadering.
+*Wijzigt de Interimwet stad-en-milieubenadering.*
 
 ##### Artikel 9.3
 
-Wijzigt de Kernenergiewet.
+*Wijzigt de Kernenergiewet.*
 
 ##### Artikel 9.4
 
-Wijzigt de Wet ammoniak en veehouderij.
+*Wijzigt de Wet ammoniak en veehouderij.*
 
 ##### Artikel 9.5
 
-Wijzigt de Wet bescherming Antarctica.
+*Wijzigt de Wet bescherming Antarctica.*
 
 ##### Artikel 9.6
 
-Wijzigt de Wet bodembescherming.
+*Wijzigt de Wet bodembescherming.*
 
 ##### Artikel 9.7
 
-Wijzigt de Wet geluidhinder
+*Wijzigt de Wet geluidhinder*
 
 ##### Artikel 9.8
 
-Wijzigt de Wet geurhinder en veehouderij.
+*Wijzigt de Wet geurhinder en veehouderij.*
 
 ##### Artikel 9.9
 
-Wijzigt de Wet inzake de luchtverontreiniging.
+*Wijzigt de Wet inzake de luchtverontreiniging.*
 
 ##### Artikel 9.10
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel 9.11
 
-Wijzigt de Wet op de huurtoeslag.
+*Wijzigt de Wet op de huurtoeslag.*
 
 ##### Artikel 9.12
 
-Wijzigt de Wet op het overleg huurders verhuurder.
+*Wijzigt de Wet op het overleg huurders verhuurder.*
 
 ##### Artikel 9.13
 
-Wijzigt de Wet ruimtelijke ordening.
+*Wijzigt de Wet ruimtelijke ordening.*
 
 ##### Artikel 9.14
 
-Wijzigt de Wet voorkeursrecht gemeenten.
+*Wijzigt de Wet voorkeursrecht gemeenten.*
 
 ##### Artikel 9.15
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikel 9.16
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 9.16
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 9.17
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 9.18
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ### Hoofdstuk 10. Slotbepalingen
 
@@ -409,7 +410,7 @@ Wijzigt deze wet.
 
 - e. de voordracht voor een algemene maatregel van bestuur moet worden gedaan door een andere minister dan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
-geldt dat voorschrift niet ten aanzien van het Invoeringsbesluit [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) of de [Invoeringsregeling Wet algemene bepalingen omgevingsrecht](onbekend).
+geldt dat voorschrift niet ten aanzien van het Invoeringsbesluit [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) of de Invoeringsregeling Wet algemene bepalingen omgevingsrecht.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op het horen van de Raad van State.
 
@@ -420,99 +421,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 10.3
 
 Deze wet wordt aangehaald als: Invoeringswet Wet algemene bepalingen omgevingsrecht.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1.7a
-
-Na het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) wordt, voor zover in een voor dat tijdstip vastgesteld bestemmingsplan, exploitatieplan, inpassingsplan of voorbereidingsbesluit of in een voor dat tijdstip vastgestelde beheersverordening op grond van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.3), [3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.7), [3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26), [3.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28), [3.38, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38), [4.1, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), [4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.2), [4.3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3), [4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.4), of [6.13, tweede lid, onder e, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.13), zoals die luidde voor dat tijdstip, is bepaald dat een vergunning is vereist of een ontheffing kan worden verleend, onder een zodanige vergunning respectievelijk een zodanige ontheffing een omgevingsvergunning verstaan.
-
-### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-### Hoofdstuk 3. Ministerie van Economische Zaken
-
-### Hoofdstuk 4. Ministerie van Financiën
-
-### Hoofdstuk 5. Ministerie van Justitie
-
-### Hoofdstuk 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### Hoofdstuk 7. Ministerie van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 7. Ministerie van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 9. Ministerie van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
-
-##### Artikel 9.16
-
-Wijzigt deze wet.
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1.5a
-
-1. In afwijking van [artikel 1.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2015-07-01&g=2015-07-01), wordt een beslissing omtrent een aanvraag om:
-
-- a. een ontheffing als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.22), [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.23) of [3.38, vierde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38),
-
-- b. een projectbesluit als bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10), [3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.27), of [3.29, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.29) of een besluit als bedoeld in [artikel 3.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.40), [3.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.41), of [3.42, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.42), of
-
-- c. een ontheffing van de regels die zijn gesteld krachtens [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), of [4.3, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3),
-
-die op het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is genomen, maar nog niet onherroepelijk is, voor zover die beslissing ziet op een bouwactiviteit waarvoor onmiddellijk voor dat tijdstip nog geen aanvraag om bouwvergunning als bedoeld in artikel 40 van de Woningwet is ingediend, gelijkgesteld met een beschikking van het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), met betrekking tot de eerste fase van een omgevingsvergunning als bedoeld in [artikel 2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van die wet.
-
-2. Het eerste lid is van overeenkomstige toepassing op een beslissing als bedoeld in dat lid die voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is aangevraagd, maar nog niet is genomen, op het moment dat die beslissing wordt genomen.
-
-3. Indien op de voorbereiding van de beschikking met betrekking tot de tweede fase van een omgevingsvergunning die verband houdt met een beslissing als bedoeld in het eerste of tweede lid, op grond van [artikel 2.5, tweede lid, tweede volzin, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) de reguliere voorbereidingsprocedure, bedoeld in [paragraaf 3.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.2), van toepassing is, is in afwijking daarvan niettemin de uitgebreide voorbereidingsprocedure, bedoeld in [paragraaf 3.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&paragraaf=3.3), van toepassing, indien de beslissing, bedoeld in het eerste of tweede lid, is voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
-
-4. Voor de mogelijkheid van beroep wordt een beslissing die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning met de beschikking met betrekking tot de tweede fase van die omgevingsvergunning als één besluit aangemerkt.
-
-##### Artikel 1.5b
-
-1. In afwijking van [artikel 9.1.10 van de Invoeringswet Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&artikel=9.1.10) wordt een vrijstelling als bedoeld in dat artikel, die op het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, maar nog niet onherroepelijk is, voor zover die vrijstelling ziet op een bouwactiviteit waarvoor onmiddellijk voor dat tijdstip nog geen aanvraag om bouwvergunning als bedoeld in [artikel 40 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40) is ingediend, gelijkgesteld met een beschikking van het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), met betrekking tot de eerste fase van een omgevingsvergunning als bedoeld in [artikel 2.5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.5) voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van die wet.
-
-2. Het eerste lid is van overeenkomstige toepassing op een vrijstelling als bedoeld in dat lid die voor het tijdstip van inwerkingtreding van [artikel 2.1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is aangevraagd, maar nog niet is verleend, op het moment dat de vrijstelling wordt verleend.
-
-3. [Artikel 1.5a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027474&hoofdstuk=1&paragraaf=1.2&artikel=1.5a&z=2015-07-01&g=2015-07-01), is op een vrijstelling die ingevolge het eerste of tweede lid is gelijkgesteld met een beschikking met betrekking tot de eerste fase van een omgevingsvergunning van overeenkomstige toepassing.
-
-### Hoofdstuk 2. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-
-### Hoofdstuk 3. Ministerie van Economische Zaken
-
-### Hoofdstuk 4. Ministerie van Financiën
-
-### Hoofdstuk 5. Ministerie van Justitie
-
-### Hoofdstuk 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### Hoofdstuk 8. Ministerie van Verkeer en Waterstaat
-
-### Hoofdstuk 9. Ministerie van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
-
-##### Artikel 9.16
-
-Wijzigt deze wet.
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Hoofdstuk 4. Ministerie van Financiën
-
-### Hoofdstuk 5. Ministerie van Justitie
-
-### Hoofdstuk 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
-
-### Hoofdstuk 8. Ministerie van Verkeer en Waterstaat
-
-### Hoofdstuk 9. Ministerie van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer
-
-##### Artikel 9.16
-
-Wijzigt deze wet.
-
-### Hoofdstuk 10. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,38 +1,16 @@
 ---
 title: "Besluit opleiding tot controleur der Belastingen BES"
 identifier: "BWBR0028492"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028492"
+categorie: "Belastingrecht"
 soort: "AMvB-BES"
-stam_id: "10815183"
-version_id: "17793672"
-internal_id: "C24754121"
-label_id: "10789924"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028492/2011-10-09/0"
-intitule_bron: "Stb.2010-492"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-492"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-492"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028492&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028492&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028492"
+opgehaald: 2026-08-15
 ---
+
 # Besluit opleiding tot controleur der Belastingen BES
 
 ##### Artikel 1
@@ -131,7 +109,7 @@ De docenten en de cursusleider houden aantekening van de vorderingen en verzuim 
 
 1. tot het afleggen van de examens worden slechts toegelaten de cursisten die zich hiervoor hebben aangemeld.
 
-2. De omvang van de kennis die bij de examens wordt gevorderd is aangegeven in het leerplan dat als bijlage bij dit besluit is gevoegd.
+2. De omvang van de kennis die bij de examens wordt gevorderd is aangegeven in het leerplan dat als [bijlage](https://wetten.overheid.nl/BWBR0028492) bij dit besluit is gevoegd.
 
 3. De examens worden afgenomen door de desbetreffende docent.
 
@@ -159,7 +137,7 @@ Een daartoe bij ministeriële regeling aangewezen functionaris of diens plaatsve
 
 - d. de herexamens.
 
-In het examenreglement worden in elk geval de voorschriften ter zake in de bijlage bij dit besluit opgenomen.
+In het examenreglement worden in elk geval de voorschriften ter zake in de [bijlage](https://wetten.overheid.nl/BWBR0028492) bij dit besluit opgenomen.
 
 2. De schriftelijke opgaven worden door de docenten ontworpen en door de examencommissie vastgesteld.
 
@@ -217,119 +195,3 @@ Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtena
 ##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit opleiding tot controleur der Belastingen BES.
-
-## Bijlage. behorende bij het Besluit opleiding tot controleur der Belastingen BES
-
-### LEERPLAN
-
-### a. Algemene vorming
-
-Doel:
-
-Het geven van inzicht in o.a.:
-
-### b. Nederlands taal
-
-Doel:
-
-Het vergroten van de taalvaardigheid, zowel passief (luisteren en lezen als actief (spreken en schrijven
-
-### c. Correspondentie en rapportage
-
-Doel:
-
-Het leren opstellen van brieven en rapporten in begrijpelijk Nederlands op een logische en systematische wijze.
-
-Dit onderdeel valt uiteen in:
-
-### d. Privaatrecht
-
-Doel:
-
-Het geven van inzicht in de structuur en functie van het rechtsbestel. Nadruk wordt gelegd op onderdelen die een raakvlak hebben met het belastingrecht.
-
-De volgende onderwerpen komen aan de orde:
-
-### e. Belastingrecht
-
-Doel:
-
-Het op een zodanig peil brengen van de kennis omtrent de regelgeving t.a.v. de verschillende belastingmiddelen, dat op verantwoorde wijze kan worden opgetreden bij heffing, inning dan wel controle.
-
-Bijzondere nadruk valt op de winstsfeer.
-
-Indeling:
-
-### f. Boekhouden
-
-Doel:
-
-Het bijbrengen van inzicht in boekhoudingen gevoerd door kleine en middelgrote ondernemingen en door beoefenaars van vrije beroepen. Tevens is opgenomen een aantal onderwerpen uit handelsrekenen en Handelskennis.
-
-Dit vak wordt als volgt behandeld:
-
-### g. Voortgezet boekhouden
-
-Doel:
-
-Het kennis laten maken met basis begrippen uit de statistiek en de financiële rekenkunde. Daarnaast het behandelen van enige onderwerpen uit het boekhouden die nauw verbonden zijn aan de bedrijfseconomie, alsmede het geven van enig inzicht in het geautomatiseerd administreren.
-
-Indeling:
-
-### h. Economie
-
-Doel:
-
-Het bijbrengen van kennis van belangrijke economische begrippen en het verschaffen van inzicht in het economische gebeuren.
-
-Nadruk lig op bedrijfseconomische aspecten, de algemene economie komst slechts zijdeling aan de orde.
-
-Indeling:
-
-### i. Controletechniek
-
-Doel:
-
-De cursisten te leren hoe een boekhouding kan worden gecontroleerd. De controle is hierbij gericht op het uitbrengen van een advies m.b.t. de aanvaardbaarheid van belastingsaangiften.
-
-De volgende onderdelen zullen worden behandeld:
-
-### j. Sociale vaardigheden
-
-Doel:
-
-Het leren omgaan met mensen in een van nature vaak vijandige sfeer, zonder de gestelde doelen van het oog te verliezen.
-
-In dit kader komen o.m. aan de orde:
-
-### EXAMENREGLEMENT als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028492&artikel=12&z=2011-10-09&g=2011-10-09), van het Besluit opleiding tot controleur der Belastingen BES.
-
-### Artikel 1
-
-Waarna hierna esproken wordt over «examen» wordt daaronder mede verstaand «tentamen»
-
-### Artikel 2
-
-### Artikel 3
-
-### Artikel 4
-
-### Artikel 5
-
-### Artikel 6
-
-### Artikel 7
-
-Voor de verschillende examenonderdelen geldt de volgende tijdsduur:
-
-### Artikel 8
-
-Geslaagd is de kandidaat die:
-
-### Artikel 9
-
-### Artikel 10
-
-### Artikel 11
-
-In die gevallen waarvoor dit reglement geen voorschriften bevat beslist de examencommissie.

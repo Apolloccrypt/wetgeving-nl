@@ -1,49 +1,18 @@
 ---
 title: "Rijkswet van 7 juli 2010 tot regeling van de inrichting, de organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de samenwerking daartussen (Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028072"
-country: "nl"
-rank: "rijkswet"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028072"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijkswet"
-stam_id: "10645473"
-version_id: "17586522"
-internal_id: "C24666531"
-label_id: "10620794"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028072/2010-10-10/0"
-intitule_bron: "Stb.2010-336"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-07"
-intitule_published: "2010-09-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-336"
-original_signed_date: "2010-07-07"
-original_published_date: "2010-09-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32018"
-original_url_id: "stb-2010-336"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028072&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028072&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-07-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028072"
+opgehaald: 2026-08-15
 ---
+
 # Rijkswet van 7 juli 2010 tot regeling van de inrichting, de organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de samenwerking daartussen (Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten binnen het Koninkrijk willen samenwerken door de inrichting, organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen deze openbare ministeries te regelen in een rijkswet op grond van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en dat de regeringen van Nederland en de Nederlandse Antillen en de bestuurscolleges van Curaçao en Sint Maarten instemmen met de inhoud van deze regeling;
-
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,21 +20,21 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **algemene maatregel van rijksbestuur:** algemene maatregel van rijksbestuur in de zin van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
+- a. *algemene maatregel van rijksbestuur:* algemene maatregel van rijksbestuur in de zin van [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
 
-- b. **landen:** Curaçao, Sint Maarten en Nederland voor zover het betreft Bonaire, Sint Eustatius en Saba;
+- b. *landen:* Curaçao, Sint Maarten en Nederland voor zover het betreft Bonaire, Sint Eustatius en Saba;
 
-- c. **Gerecht in eerste aanleg:** Gerecht in eerste aanleg van Curaçao, Gerecht in eerste aanleg van Sint Maarten of Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- c. *Gerecht in eerste aanleg:* Gerecht in eerste aanleg van Curaçao, Gerecht in eerste aanleg van Sint Maarten of Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- d. **Hof:** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- d. *Hof:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- e. **Hoge Raad:** Hoge Raad der Nederlanden;
+- e. *Hoge Raad:* Hoge Raad der Nederlanden;
 
-- f. **Onze Minister:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Justitie van Nederland afhankelijk van het land dat het aangaat;
+- f. *Onze Minister:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Justitie van Nederland afhankelijk van het land dat het aangaat;
 
-- g. **Onze Ministers:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Justitie van Nederland gezamenlijk;
+- g. *Onze Ministers:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Justitie van Nederland gezamenlijk;
 
-- h. **Statuut:** Statuut voor het Koninkrijk der Nederlanden.
+- h. *Statuut:* Statuut voor het Koninkrijk der Nederlanden.
 
 ### Hoofdstuk 2. De inrichting van de openbare ministeries
 
@@ -281,7 +250,7 @@ De openbare ministeries van de landen en van Nederland zijn onderling verplicht 
 
 ##### Artikel 19
 
-1. De leden van het openbaar ministerie leggen voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
+1. De leden van het openbaar ministerie leggen voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0028072) bij deze rijkswet.
 
 2. De leden van het openbaar ministerie leggen de eed af ten overstaan van de Gouverneur van Curaçao, de Gouverneur van Sint Maarten of de Rijksvertegenwoordiger van Bonaire, Sint Eustatius en Saba of ten overstaan van een door de Gouverneur of de Rijksvertegenwoordiger aangewezen ambtenaar.
 
@@ -516,27 +485,3 @@ Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 ##### Artikel 43
 
 Deze rijkswet wordt aangehaald als: Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-## Bijlage. bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=4&artikel=19&z=2010-10-10&g=2010-10-10)
-
-Ik zweer/ik beloof trouw aan de Koning en gehoorzaamheid aan de wettelijke regelingen.
-
-Ik zweer/ik verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van mijn benoeming aan iemand, wie hij ook zij, iets heb gegeven of beloofd, noch zal geven of beloven.
-
-Ik zweer/ik beloof dat ik nimmer enige giften of geschenken, hoe ook genaamd, zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij in enige rechtszaak is of zal worden betrokken, waarin mijn ambtsverrichtingen te pas zouden kunnen komen.
-
-Zo waarlijk helpe mij God Almachtig!/Dat verklaar en beloof ik!
-
-Op ..........................., werd te ............................................
-
-Ten overstaan van ...............................................................
-
-De bovenstaande eed/belofte afgelegd.
-
-De ........................................
-
-1...........................................
-
-2...........................................
-
-Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

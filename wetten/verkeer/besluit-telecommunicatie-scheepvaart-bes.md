@@ -1,38 +1,16 @@
 ---
 title: "Besluit telecommunicatie scheepvaart BES"
 identifier: "BWBR0028399"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028399"
+categorie: "Verkeer"
 soort: "AMvB-BES"
-stam_id: "10774643"
-version_id: "17751352"
-internal_id: "C24777791"
-label_id: "10749694"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028399/2010-10-10/0"
-intitule_bron: "Stb.2010-451"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-451"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-451"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028399&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028399&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028399"
+opgehaald: 2026-08-15
 ---
+
 # Besluit telecommunicatie scheepvaart BES
 
 #### § 1. Definities
@@ -41,59 +19,60 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- a. *wet:*
+ [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **radioreglement:** het bij het op 6 november 1982 te Nairobi gesloten Internationale Verdrag betreffende de Telecommunicatie (Trb. 1983, 164) behorende bij het op 6 december 1979 te Genève tot stand gekomen Radioreglement 1979 (Trb. 1981, 78);
+- b. *radioreglement:* het bij het op 6 november 1982 te Nairobi gesloten Internationale Verdrag betreffende de Telecommunicatie (Trb. 1983, 164) behorende bij het op 6 december 1979 te Genève tot stand gekomen Radioreglement 1979 (Trb. 1981, 78);
 
-- c. **beschikking:** de beschikking waarbij een machtiging is verleend;
+- c. *beschikking:* de beschikking waarbij een machtiging is verleend;
 
-- d. **machtiging:** een machtiging voor een radio-elektrische zend- of ontvanginrichting als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=16);
+- d. *machtiging:* een machtiging voor een radio-elektrische zend- of ontvanginrichting als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=16);
 
-- e. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), [onderscheidenlijk 69, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69);
+- e. *bewijs van goedkeuring:* een bewijsstuk als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), [onderscheidenlijk 69, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69);
 
-- f. **algemeen certificaat maritieme radiocommunicatie, beperkt certificaat maritieme radiocommunicatie, certificaat VHF marifonie:** bewijsstukken van een met goed gevolg afgelegd examen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=5&artikel=30&z=2010-10-10&g=2010-10-10);
+- f. *algemeen certificaat maritieme radiocommunicatie, beperkt certificaat maritieme radiocommunicatie, certificaat VHF marifonie:* bewijsstukken van een met goed gevolg afgelegd examen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=5&artikel=30&z=2010-10-10&g=2010-10-10);
 
-- g. **marifoon:** een zend- en ontvanginrichting ten behoeve van mondelinge maritieme VHF- en UHF-radiocommunicatie;
+- g. *marifoon:* een zend- en ontvanginrichting ten behoeve van mondelinge maritieme VHF- en UHF-radiocommunicatie;
 
-- h. **radiotelegraaf:** een zend- en ontvanginrichting ten behoeve van maritieme MF- en HF-radiocommunicatie door middel van morsetekens of telegrafie bestemd voor de automatische ontvangst;
+- h. *radiotelegraaf:* een zend- en ontvanginrichting ten behoeve van maritieme MF- en HF-radiocommunicatie door middel van morsetekens of telegrafie bestemd voor de automatische ontvangst;
 
-- i. **radiotelefoon:** een zend- en ontvanginrichting ten behoeve van maritieme telecommunicatie via de ether door middel van spraak;
+- i. *radiotelefoon:* een zend- en ontvanginrichting ten behoeve van maritieme telecommunicatie via de ether door middel van spraak;
 
-- j. **kuststation:** een op een vaste plaats opgestelde zend- en ontvanginrichting bestemd voor zowel maritieme radiocommunicatie als openbaar verkeer en dat is aangesloten op de openbare telecommunicatie-infrastructuur;
+- j. *kuststation:* een op een vaste plaats opgestelde zend- en ontvanginrichting bestemd voor zowel maritieme radiocommunicatie als openbaar verkeer en dat is aangesloten op de openbare telecommunicatie-infrastructuur;
 
-- k. **beperkt kuststation:** een kuststation dat niet is aangesloten op de openbare telecommunicatie-infrastructuur;
+- k. *beperkt kuststation:* een kuststation dat niet is aangesloten op de openbare telecommunicatie-infrastructuur;
 
-- l. **portofoon:** een draagbare zend- en ontvanginrichting ten behoeve van maritieme VHF-radiocommunicatie;
+- l. *portofoon:* een draagbare zend- en ontvanginrichting ten behoeve van maritieme VHF-radiocommunicatie;
 
-- m. **scheepsstation:** een zend- en ontvanginrichting aan boord van een schip bestaande uit een marifoon-, een radiotelefooninstallatie, radiotelegraafinstallatie, een EPIRB, SART alsmede een satellietsysteem;
+- m. *scheepsstation:* een zend- en ontvanginrichting aan boord van een schip bestaande uit een marifoon-, een radiotelefooninstallatie, radiotelegraafinstallatie, een EPIRB, SART alsmede een satellietsysteem;
 
-- n. **scheepssatellietstation:** een zend- en ontvanginrichting aan boord van een schip, geschikt voor deelname aan het nood-, spoed- en veiligheidsverkeer alsmede aan algemeen communicatieverkeer door middel van een satellietsysteem;
+- n. *scheepssatellietstation:* een zend- en ontvanginrichting aan boord van een schip, geschikt voor deelname aan het nood-, spoed- en veiligheidsverkeer alsmede aan algemeen communicatieverkeer door middel van een satellietsysteem;
 
-- o. **satellietsysteem:** een door een organisatie beheerd communicatiesysteem waarbij gebruik gemaakt wordt van satellietverbindingen;
+- o. *satellietsysteem:* een door een organisatie beheerd communicatiesysteem waarbij gebruik gemaakt wordt van satellietverbindingen;
 
-- p. **EPIRB:** Emergency Position Indication Radio Beacon;
+- p. *EPIRB:* Emergency Position Indication Radio Beacon;
 
-- q. **SART:** Search and Rescue Radio Transponder;
+- q. *SART:* Search and Rescue Radio Transponder;
 
-- r. **INMARSAT:** International Maritime Satellite Organization;
+- r. *INMARSAT:* International Maritime Satellite Organization;
 
-- s. **POSS:** Polar Orbiting Satellite Service;
+- s. *POSS:* Polar Orbiting Satellite Service;
 
-- t. **GMDSS:** Global Maritime Distress and Safety System;
+- t. *GMDSS:* Global Maritime Distress and Safety System;
 
-- u. **DSC:** Digital Selective Calling;
+- u. *DSC:* Digital Selective Calling;
 
-- v. **DPT:** Direct Printing Telegraphy;
+- v. *DPT:* Direct Printing Telegraphy;
 
-- w. **zeegebieden:** de internationaal afgebakende gebieden van de zee ten behoeve van de scheepvaartcommunicatie, onderscheidenlijk aangeduid als A1, A2, A3 en A4;
+- w. *zeegebieden:* de internationaal afgebakende gebieden van de zee ten behoeve van de scheepvaartcommunicatie, onderscheidenlijk aangeduid als A1, A2, A3 en A4;
 
-- x. **zeegebied A1:** een gebied binnen het VHF radiotelefonie bereik van ten minste een kuststation of kustwachtpost waarin een ononderbroken DSC-alarmering beschikbaar is;
+- x. *zeegebied A1:* een gebied binnen het VHF radiotelefonie bereik van ten minste een kuststation of kustwachtpost waarin een ononderbroken DSC-alarmering beschikbaar is;
 
-- y. **zeegebied A2:** een gebied, met uitzondering van het zeegebied A1, binnen het MF radiotelefonie bereik van ten minste een kuststation of kustwachtpost, waarin ononderbroken DSC-alarmering beschikbaar is;
+- y. *zeegebied A2:* een gebied, met uitzondering van het zeegebied A1, binnen het MF radiotelefonie bereik van ten minste een kuststation of kustwachtpost, waarin ononderbroken DSC-alarmering beschikbaar is;
 
-- z. **zeegebied A3:** een gebied, met uitzondering van de zeegebieden A1 en A2, binnen het bereik van een geostationaire INMARSAT-satelliet waarin ononderbroken alarmering beschikbaar is;
+- z. *zeegebied A3:* een gebied, met uitzondering van de zeegebieden A1 en A2, binnen het bereik van een geostationaire INMARSAT-satelliet waarin ononderbroken alarmering beschikbaar is;
 
-- aa. **zeegebied A4:** een gebied liggende buiten de zeegebieden A1, A2 en A3.
+- aa. *zeegebied A4:* een gebied liggende buiten de zeegebieden A1, A2 en A3.
 
 ##### Artikel 1a
 
@@ -214,12 +193,12 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 | Is-gelijk-teken | [=] | -...- |
 | Optelteken | [+] | .-.-. |
 | Vermenigvuldigteken | [x] | -..- |
-| Begrepen |   | ...-. |
-| Foutteken (acht punten of meer) |   | ........ |
-| Uitnodiging om te zenden |   | -.- |
-| Startsignaal(bij begin elke uitzending) |   | -.-.- |
-| Wachtteken |   | .-... |
-| Eindeteken |   | ...-.- |
+| Begrepen |  | ...-. |
+| Foutteken (acht punten of meer) |  | ........ |
+| Uitnodiging om te zenden |  | -.- |
+| Startsignaal(bij begin elke uitzending) |  | -.-.- |
+| Wachtteken |  | .-... |
+| Eindeteken |  | ...-.- |
 
 3. Indien in een identificatiecode cijfers zijn opgenomen, wordt gebruik gemaakt van de volgende cijfer aanduidingen:
 
@@ -278,7 +257,7 @@ De machtiginghouder onderscheidenlijk de gezagvoerder van een schip is verplicht
 
 #### § 4. Bijzondere voorschriften
 
-#### I. Maritieme VHF- en UHF-radiocommunicatie
+##### I. Maritieme VHF- en UHF-radiocommunicatie
 
 ##### Artikel 15
 
@@ -298,7 +277,7 @@ De machtiginghouder onderscheidenlijk de gezagvoerder van een schip is verplicht
 
 De machtiginghouder mag de marifoon tijdelijk aanwezig hebben op een andere plaats dan in de beschikking staat aangegeven, mits de machtiginghouder passende maatregelen treft ter voorkoming van het gebruik van de marifoon.
 
-#### II. Draagbare maritieme VHF-radiocommunicatie-apparatuur
+##### II. Draagbare maritieme VHF-radiocommunicatie-apparatuur
 
 ##### Artikel 17
 
@@ -308,7 +287,7 @@ Een portofoon mag alleen worden gebruikt voor uitwisseling van nautische informa
 
 De bediening van een portofoon mag ook geschieden door de houder van een beperkt certificaat maritieme radiocommunicatie of een certificaat VHF marifonie.
 
-#### III. Maritieme MF- en HF-radiocommunicatie
+##### III. Maritieme MF- en HF-radiocommunicatie
 
 ##### Artikel 19
 
@@ -322,7 +301,7 @@ De machtiginghouder mag uitsluitend gebruik maken van de kanalen, de frequenties
 
 Het is, behoudens in door Onze Minister te bepalen gevallen, verboden een scheepsstation te gebruiken buiten de toegestane frequenties die zijn aangegeven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&bijlage=2&z=2010-10-10&g=2010-10-10), alsmede indien het scheepsstation storing veroorzaakt.
 
-#### IV. Kuststation en beperkt kuststation
+##### IV. Kuststation en beperkt kuststation
 
 ##### Artikel 22
 
@@ -338,7 +317,7 @@ Het is, behoudens in door Onze Minister te bepalen gevallen, verboden een scheep
 
 4. Elk ander gebruik van de kuststations is verboden.
 
-#### V. Scheepssatellietstations
+##### V. Scheepssatellietstations
 
 ##### Artikel 23
 
@@ -354,7 +333,7 @@ De machtiginghouder is uitsluitend bevoegd het scheepssatellietstation te gebrui
 
 Behoudens voor zover het scheepssatellietstation wordt gebruikt voor nood-, spoed- en veiligheidsverkeer, mag de bediening ervan ook geschieden door degenen die niet in het bezit zijn van een algemeen certificaat maritieme radiocommunicatie.
 
-#### VI. Zend- en ontvanginrichtingen ten behoeve van het nautisch onderwijs
+##### VI. Zend- en ontvanginrichtingen ten behoeve van het nautisch onderwijs
 
 ##### Artikel 26
 
@@ -382,9 +361,9 @@ Behoudens voor zover het scheepssatellietstation wordt gebruikt voor nood-, spoe
 
 - a. het hoogfrequent uitgangsvermogen de volgende waarden niet mag overschrijden:
 
-- 1°. enkelzijband telefonie: 100 Watt;
+   - 1°. enkelzijband telefonie: 100 Watt;
 
-- 2°. telegrafie/telex/DSC/DPT: 100 Watt.
+   - 2°. telegrafie/telex/DSC/DPT: 100 Watt.
 
 - b. de uitzending van het telefonie-alarm is geblokkeerd en uitsluitend in de audio-test-mode mag plaatsvinden;
 
@@ -443,157 +422,3 @@ Een ontheffing die is verleend krachtens artikel 31, derde lid, van het Landsbes
 ##### Artikel 35
 
 Dit besluit wordt aangehaald als: Besluit telecommunicatie scheepvaart BES.
-
-## Bijlage 1. behorende bij het Besluit telecommunicatie scheepvaart BES
-
-### § 1. Radiotelefonie
-
-Aanroepprocedure radio maritiem verkeer/openbaar verkeer(*1):
-
-### § 2. Radiotelegrafie
-
-Aanroepprocedure nautisch verkeer/openbaar verkeer(*1):
-
-Bovenstaande aanroep mag tweemaal gezonden worden met een tussenruimte van minimaal een minuut. De aanroep mag daarna niet binnen drie minuten worden herhaald.
-
-### § 3. Nood-, spoed- en veiligheidsverkeer
-
-### 1. Noodverkeer
-
-Algemeen:
-
-Noodseinen:
-
-In het radio maritiem verkeer wordt van de volgende noodsein gebruik gemaakt:
-
-INMARSAT terminal:
-
-Dit geeft aan dat een schip, luchtvaartuig of ander middel van vervoer in ernstig en dreigend gevaar verkeert en onmiddellijk hulp nodig heeft.
-
-De radiotelefonie noodprocedure bestaat uit:
-
-De radiotelegrafie noodprocedure bestaat uit:
-
-Alarmsein:
-
-Het alarmsein bestaat uit twee, elkaar voortdurend afwisselende audio frequente tonen van 1300 en 2200 Hz. Het alarmsein wordt minimaal 30 seconden tot maximaal 1 miniuut uitgezonden.
-
-Noodoproep (radiotelefonie):
-
-Noodoproep (radiotelegrafie):
-
-Noodbericht (radiotelefonie):
-
-Noodbericht (radiotelegrafie):
-
-Bevestiging van ontvangst (reçu)
-
-Reçu (radiotelefonie):
-
-Reçu (radiotelegrafie):
-
-Aanvullend reçu:
-
-Ieder station in de nabijheid van het in nood verkerend station mag – indien nodig – een ander station het zwijgen opleggen:
-
-Radiotelefonie:
-
-Radiotelegrafie:
-
-Door het in nood verkerende station of door het station dat de leiding van het noodverkeer heeft zal voor dit doel gebruikt worden:
-
-Radiotelefonie:
-
-Radiotelegrafie:
-
-Elk station dat kennis heeft van noodverkeer en zelf het station in nood niet kan assisteren zal het noodverkeer volgen totdat hulpverlening gegarandeerd is.
-
-Totdat het bericht ontvangen is dat normaal werken kan worden hervat, is het alle stations die kennis hebben van het noodverkeer en hieraan niet deelnemen verboden te zenden op de frequenties waarop het noodverkeer plaatsvindt.
-
-Wanneer het noodverkeer op een frequentie geëindigd is zal het schip dat de leiding van dit noodverkeer heeft gehad, op deze frequentie de volgende, aan allen gerichte mededeling uitzenden, aangevende dat de normale werkzaamheden mogen worden hervat:
-
-Radiotelefonie:
-
-Radiotelegrafie:
-
-Wanneer het noodverkeer op een frequentie nog gaande is doch het niet langer noodzakelijk wordt geacht een absoluut stilzwijgen te handhaven zal het schip dat de leiding van het noodverkeer heeft, op deze frequentie de volgende aan allen gerichte mededeling uitzenden, aangevende dat op deze frequentie beperkt verkeer kan worden hervat:
-
-Radiotelefonie:
-
-Radiotelegrafie:
-
-Een scheepsstation of een kuststation dat bemerkt dat een station in nood verkeert, zal in een van de volgende gevallen een noodbericht heruitzenden:
-
-De heruitzending van het noodbericht wordt altijd voorafgegaan door de volgende oproep:
-
-Radiotelefonie:
-
-Radiotelegrafie:
-
-### 2. Spoedverkeer
-
-Algemeen:
-
-Spoedseinen:
-
-radiotelegrafie:
-
-radiotelex:
-
-DSC/INMARSAT SATCOM:
-
-Dit geeft aan dat het station een zeer dringend bericht zal overbrengen betreffende de veiligheid van een schip, een luchtvaartuig of ander middel van vervoer of de veiligheid van een persoon.
-
-Het spoedsein mag voorafgegaan worden door het alarmsein uitsluitend in geval van «Man over boord» indien de hulp van andere schepen is gewenst en deze hulp niet voldoende kan worden verkregen met gebruik van het spoedsein alleen.
-
-Het spoedsein en spoedbericht dienen te worden uitgezonden op een of meerdere internationale noodfrequenties.
-
-Het spoedbericht dient echter op een werkfrequentie uitgezonden te worden in geval van:
-
-Een aanduiding dienaangaande dient aan het einde van de oproep te worden vermeld.
-
-### 3. Veiligheidsverkeer
-
-Algemeen:
-
-Het veiligheidssein is:
-
-radiotelefonie:
-
-radiotelegrafie:
-
-radiotelex:
-
-DSC/INMARSAT SATCOM:
-
-Het veiligheidssein geeft aan dat het station een bericht zal overbrengen waarvan de inhoud een belangrijke waarschuwing bevat ter zake van de meteorologische omstandigheden en/of navigatie.
-
-Het veiligheidssein en de oproep dienen uitgezonden te worden op een of meerdere internationale noodfrequenties.
-
-Het veiligheidsbericht dient echter uitgezonden te worden:
-
-In de oproep wordt de desbetreffende frequentie vermeld.
-
-## Bijlage 2. behorende bij het Besluit telecommunicatie scheepvaart BES
-
-### Overzicht kanalen/frequenties en hun bestemmingen
-
-Onder bovengenoemde bestemmingen wordt verstaan:
-
-## Bijlage 3. behorende bij het Besluit telecommunicatie scheepvaart BES
-
-De EED of GELOFTE:
-
-Ik,......................., geboren de.............. te.............. zweer/beloof, dat ik de berichten, welke mij bij de uitvoering van de mij opgedragen werkzaamheden terzake van de maritieme telecommunicatie ter kennis komen, aan niemand, wie het ook zijn moge, zal openbaren, dan aan de bevoegde autoriteit aan wie ik volgens wettelijke regelingen verplicht ben zulks te doen. En dat ik alle overtredingen van wettelijke regelingen op het grondgebied van een openbaar lichaam geldig en van de wettelijke internationale voorschriften met betrekking tot de verreberichtgeving, alsmede van de voorwaarden, waaronder de machtiging aan de eigenaar van het vaartuig is verleend die mij ter kennis komen naar waarheid aan de bevoegde autoriteiten zal rapporteren.
-
-Zo waarlijk helpe mij God Almachtig / Dat beloof ik.
-
-Deze eed is door mij...................in mijn functie van........... afgenomen heden, de..............
-
-...........................................................
-
-Voor het Bureau Telecommunicatie,
-
-...................................
-
-De certificaathouder,
