@@ -1,42 +1,22 @@
 ---
 title: "Wet huurcommissie-regeling BES"
+citeertitel: "Wet huurcommissieregeling BES"
 identifier: "BWBR0028558"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028558"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10850633"
-version_id: "17832082"
-internal_id: "C24907691"
-label_id: "10826234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028558/2010-10-10/0"
-intitule_bron: "Stb.2010-390"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-390"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-390"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028558&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028558&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Wet huurcommissieregeling BES"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028558"
+opgehaald: 2026-08-16
 ---
+
 # Wet huurcommissie-regeling BES
 
-## Inleidende bepaling
+### Inleidende bepaling
+
+In gevallen waarin en voorzover daarvan bij deze regeling wordt afgeweken, worden, zolang dit besluit van kracht is, de bepalingen van het Burgerlijk Wetboek BES buiten werking gesteld.
 
 ### Hoofdstuk I
 
@@ -58,7 +38,7 @@ In elk der openbare lichamen Bonaire, Sint Eustatius en Saba wordt door het best
 
 4. De eilandsraad kan de in de voorgaande leden genoemde percentages verhogen of verlagen. Aan de verhoging of verlaging kunnen voorwaarden worden verbonden.
 
-- a. De huurcommissie geeft bij haar beslissing aan wanneer de vastgestelde huurprijs voor de nieuw gebouwde, na 1 maart 1977 voor het eerst in gebruik genomen woning ingaat. De dag van ingang mag niet op een vroegere datum worden vastgesteld dan de dag waarop het verzoek tot huurprijsvaststelling is ingediend.
+5. - a. De huurcommissie geeft bij haar beslissing aan wanneer de vastgestelde huurprijs voor de nieuw gebouwde, na 1 maart 1977 voor het eerst in gebruik genomen woning ingaat. De dag van ingang mag niet op een vroegere datum worden vastgesteld dan de dag waarop het verzoek tot huurprijsvaststelling is ingediend.
 
 - b. Bij verhuur van een gemeubileerde woning is de verhuurder verplicht de prijzen voor woning en meubilering afzonderlijk vast te stellen. Voor de meubilering mag geen hogere huurprijs worden berekend dan het bedrag dat door de huurcommissie is vastgesteld.
 
@@ -216,7 +196,7 @@ De voorzitter, de plaatsvervangend voorzitter, de verdere leden, de plaatsvervan
 
 #### § 2. De taak der huurcommissie
 
-#### A. Algemene bepalingen
+##### A. Algemene bepalingen
 
 ##### Artikel 23
 
@@ -238,7 +218,7 @@ Een woning die op 1 maart 1977 voor wat betreft de openbare lichamen Bonaire, Si
 
 De huurcommissie schat ambtshalve de huurprijs van 1 maart 1977 voor wat betreft de openbare lichamen Bonaire, Sint Eustatius en Saba van een woning, die voor of op die dag niet is verhuurd geweest, indien de schatting voor de uitvoering van dit besluit noodzakelijk is.
 
-#### B. De taak der huurcommissie in verband met het bepaalde in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10)
+##### B. De taak der huurcommissie in verband met het bepaalde in de artikelen 2 tot en met 6
 
 ##### Artikel 28
 
@@ -324,7 +304,7 @@ Het bepaalde in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoo
 
 Het door de huurcommissie ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=4&z=2010-10-10&g=2010-10-10) als huurprijs vast te stellen bedrag kan niet lager zijn dan de huurprijs, waarvoor de woning voor het eerst is verhuurd. Bij de vaststelling houdt de huurcommissie rekening met de hogere uitgaven, die de verhuurder ter zake van de woning heeft te bestrijden.
 
-#### C. De taak der huurcommissie in verband met het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=8&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=9&z=2010-10-10&g=2010-10-10)
+##### C. De taak der huurcommissie in verband met het bepaalde in de artikelen 8 en 9
 
 ##### Artikel 37
 
@@ -416,7 +396,7 @@ Van de indiening van een verzoek als bedoeld in het [voorgaand artikel](https://
 
 De [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=II&paragraaf=2&sub-paragraaf=B&artikel=36&z=2010-10-10&g=2010-10-10) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=II&paragraaf=2&sub-paragraaf=C&artikel=40&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
 
-#### D. De taak der huurcommissie in verband met het bepaalde in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=10&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=11&z=2010-10-10&g=2010-10-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028558&hoofdstuk=I&artikel=12&z=2010-10-10&g=2010-10-10)
+##### D. De taak der huurcommissie in verband met het bepaalde in de artikelen 10, 11 en 12
 
 ##### Artikel 50
 

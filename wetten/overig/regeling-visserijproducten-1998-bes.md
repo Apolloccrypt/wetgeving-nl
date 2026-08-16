@@ -1,38 +1,16 @@
 ---
 title: "Regeling visserijproducten 1998 BES"
 identifier: "BWBR0028710"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2014-04-25"
-last_updated: "2014-04-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028710"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10938303"
-version_id: "17924082"
-internal_id: "C24841071"
-label_id: "10913064"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028710/2014-04-25/0"
-intitule_bron: "Stcrt.2010-14614"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14614"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14614"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028710&z=2014-04-25&g=2014-04-25"
-jci_1_0: "1.0:c:BWBR0028710&g=2014-04-25"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2014-04-25
+status: geldig
+toestand: 2014-04-25
+bron: "https://wetten.overheid.nl/BWBR0028710"
+opgehaald: 2026-08-16
 ---
+
 # Regeling visserijproducten 1998 BES
 
 #### § 1. Algemene bepalingen
@@ -41,57 +19,60 @@ entry_into_force: "2010-10-10"
 
 In deze ministeriële regeling wordt verstaan onder:
 
-- a. **wet:** [Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619);
+- a. *wet:*
+ [Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619);
 
-- b. **bevoegde instantie:** door het bestuurscollege aangewezen personen;
+- b. *bevoegde instantie:* door het bestuurscollege aangewezen personen;
 
-- c. **Commissie:** de Commissie van de Europese Unie;
+- c. *Commissie:* de Commissie van de Europese Unie;
 
-- d. **Richtlijn laboratoriumpraktijken:** [richtlijn nr. 88/320/EEG](31988L0320) van de Raad van de Europese Gemeenschappen van 9 juni 1988 inzake de inspectie en de verificatie van goede laboratoriumpraktijken (PbEG L 145);
+- d. *Richtlijn laboratoriumpraktijken:*
+ richtlijn nr. 88/320/EEG van de Raad van de Europese Gemeenschappen van 9 juni 1988 inzake de inspectie en de verificatie van goede laboratoriumpraktijken (PbEG L 145);
 
-- e. **Richtlijn veterinaire controles:** richtlijn nr. 90/675/EEG van de Raad van de Europese Gemeenschappen van 10 december 1990 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten uit derde landen die in de Gemeenschap worden binnengebracht (PbEG L 373);
+- e. *Richtlijn veterinaire controles:* richtlijn nr. 90/675/EEG van de Raad van de Europese Gemeenschappen van 10 december 1990 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten uit derde landen die in de Gemeenschap worden binnengebracht (PbEG L 373);
 
-- f. **Richtlijn visserijproducten:** [richtlijn nr. 91/493/EEG](31991L0493) van de Raad van de Europese Gemeenschappen van 22 juli 1991 tot vaststelling van gezondheidsvoorschriften voor de productie en het in de handel brengen van visserijproducten (PbEG L 268);
+- f. *Richtlijn visserijproducten:*
+ richtlijn nr. 91/493/EEG van de Raad van de Europese Gemeenschappen van 22 juli 1991 tot vaststelling van gezondheidsvoorschriften voor de productie en het in de handel brengen van visserijproducten (PbEG L 268);
 
-- g. **ondernemer:** de persoon die verantwoordelijk is voor hetgeen in een inrichting of fabrieksvaartuig, of uit hoofde van het bedrijf dat in die inrichting, onderscheidenlijk in dat vaartuig wordt uitgeoefend plaatsvindt;
+- g. *ondernemer:* de persoon die verantwoordelijk is voor hetgeen in een inrichting of fabrieksvaartuig, of uit hoofde van het bedrijf dat in die inrichting, onderscheidenlijk in dat vaartuig wordt uitgeoefend plaatsvindt;
 
-- h. **inrichting:** iedere ruimte waar visserijproducten worden gekoeld, ingevroren, bewerkt, verwerkt, verpakt of opgeslagen;
+- h. *inrichting:* iedere ruimte waar visserijproducten worden gekoeld, ingevroren, bewerkt, verwerkt, verpakt of opgeslagen;
 
-- i. **fabrieksvaartuig:** vaartuig aan boord waarvan visserijproducten worden gefileerd, in moten verdeeld, gestroopt, gehakt, ingevroren of verwerkt, of meer dan een van deze handelingen ondergaan, en daarna al dan niet worden verpakt; vissersvaartuigen aan boord waarvan slechts wordt ingevroren worden niet als fabrieksvaartuigen beschouwd;
+- i. *fabrieksvaartuig:* vaartuig aan boord waarvan visserijproducten worden gefileerd, in moten verdeeld, gestroopt, gehakt, ingevroren of verwerkt, of meer dan een van deze handelingen ondergaan, en daarna al dan niet worden verpakt; vissersvaartuigen aan boord waarvan slechts wordt ingevroren worden niet als fabrieksvaartuigen beschouwd;
 
-- j. **visserijproducten:** alle zee- of zoetwaterdieren of delen daarvan, kuit en hom daaronder begrepen, met uitzondering van levende tweekleppige weekdieren en van in het water levende zoogdieren en kikkers;
+- j. *visserijproducten:* alle zee- of zoetwaterdieren of delen daarvan, kuit en hom daaronder begrepen, met uitzondering van levende tweekleppige weekdieren en van in het water levende zoogdieren en kikkers;
 
-- k. **verse producten:** visserijproducten, in gehele staat of na bewerking, daaronder begrepen vacuüm of onder een gewijzigde atmosfeer verpakte producten, die geen andere op conservering gerichte behandeling hebben ondergaan dan koeling;
+- k. *verse producten:* visserijproducten, in gehele staat of na bewerking, daaronder begrepen vacuüm of onder een gewijzigde atmosfeer verpakte producten, die geen andere op conservering gerichte behandeling hebben ondergaan dan koeling;
 
-- l. **koeling:** procédé dat erin bestaat de temperatuur van visserijproducten zodanig te doen dalen, dat zij de temperatuur van smeltend ijs benadert;
+- l. *koeling:* procédé dat erin bestaat de temperatuur van visserijproducten zodanig te doen dalen, dat zij de temperatuur van smeltend ijs benadert;
 
-- m. **bewerkte producten:** visserijproducten die een behandeling zoals strippen, ontkoppen, in moten verdelen, fileren of hakken hebben ondergaan, waardoor hun anatomische toestand is gewijzigd;
+- m. *bewerkte producten:* visserijproducten die een behandeling zoals strippen, ontkoppen, in moten verdelen, fileren of hakken hebben ondergaan, waardoor hun anatomische toestand is gewijzigd;
 
-- n. **verwerkte producten:** visserijproducten die in gekoelde of ingevroren toestand, al dan niet tezamen met andere levensmiddelen, een chemisch of fysisch procédé zoals verhitten, roken, zouten, drogen of marineren, of een combinatie daarvan, hebben ondergaan;
+- n. *verwerkte producten:* visserijproducten die in gekoelde of ingevroren toestand, al dan niet tezamen met andere levensmiddelen, een chemisch of fysisch procédé zoals verhitten, roken, zouten, drogen of marineren, of een combinatie daarvan, hebben ondergaan;
 
-- o. **ingevroren of diepgevroren producten:** visserijproducten die zo zijn ingevroren, dat hun kerntemperatuur na thermische stabilisatie ten minste -18 C bedraagt;
+- o. *ingevroren of diepgevroren producten:* visserijproducten die zo zijn ingevroren, dat hun kerntemperatuur na thermische stabilisatie ten minste -18 C bedraagt;
 
-- p. **verpakken:** het beschermen van visserijproducten door middel van het gebruik van een wikkel, een container of een ander daarvoor geschikt materiaal;
+- p. *verpakken:* het beschermen van visserijproducten door middel van het gebruik van een wikkel, een container of een ander daarvoor geschikt materiaal;
 
-- q. **verpakking:** afhankelijk van het verband waarin het woord voorkomt:
+- q. *verpakking:* afhankelijk van het verband waarin het woord voorkomt:
 
-- 1. hetzij de handeling, bedoeld in onderdeel q;
+   - 1. hetzij de handeling, bedoeld in onderdeel q;
 
-- 2. hetzij het voorwerp waarin een product verpakt is;
+   - 2. hetzij het voorwerp waarin een product verpakt is;
 
-- r. **verhandelen:** hetgeen de landsverordening daaronder verstaat, met dien verstande dat daartoe tevens behoort het in het gebied van de Europese Gemeenschap op de markt brengen, en dat daartoe niet behoort de verkoop in het klein en de rechtstreekse overdracht op een lokale markt in kleine hoeveelheden door een visser aan de kleinhandel of de consument, tenzij een bepaling van deze beschikking uitdrukkelijk ook op deze verkoop van toepassing is verklaard;
+- r. *verhandelen:* hetgeen de landsverordening daaronder verstaat, met dien verstande dat daartoe tevens behoort het in het gebied van de Europese Gemeenschap op de markt brengen, en dat daartoe niet behoort de verkoop in het klein en de rechtstreekse overdracht op een lokale markt in kleine hoeveelheden door een visser aan de kleinhandel of de consument, tenzij een bepaling van deze beschikking uitdrukkelijk ook op deze verkoop van toepassing is verklaard;
 
-- s. **partij:** de hoeveelheid visserijproducten die is verkregen in vrijwel identieke omstandigheden;
+- s. *partij:* de hoeveelheid visserijproducten die is verkregen in vrijwel identieke omstandigheden;
 
-- t. **recipiënt:** een vat, kist, container of iets dergelijks, waarin een visserijproduct of afval van visserijproducten wordt bewaard of opgeslagen;
+- t. *recipiënt:* een vat, kist, container of iets dergelijks, waarin een visserijproduct of afval van visserijproducten wordt bewaard of opgeslagen;
 
-- u. **uitvoer:** het uit de openbare lichamen Bonaire, Sint Eustatius en Saba uitvoeren van visserijproducten ten einde deze in een land dat tot de Europese Gemeenschap behoort of bij de op 2 mei 1992 te Oporto gesloten Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132) partij is in te voeren;
+- u. *uitvoer:* het uit de openbare lichamen Bonaire, Sint Eustatius en Saba uitvoeren van visserijproducten ten einde deze in een land dat tot de Europese Gemeenschap behoort of bij de op 2 mei 1992 te Oporto gesloten Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132) partij is in te voeren;
 
-- v. **zending:** een hoeveelheid visserijproducten, bestemd voor een of meer afnemers in het land van bestemming, en vervoerd met één en hetzelfde vervoermiddel;
+- v. *zending:* een hoeveelheid visserijproducten, bestemd voor een of meer afnemers in het land van bestemming, en vervoerd met één en hetzelfde vervoermiddel;
 
-- w. **vervoermiddelen:** scheepsruimen, containers voor vervoer te land, ter zee of door de lucht, en de voor belading bestemde gedeelten van motorvoertuigen en luchtvaartuigen;
+- w. *vervoermiddelen:* scheepsruimen, containers voor vervoer te land, ter zee of door de lucht, en de voor belading bestemde gedeelten van motorvoertuigen en luchtvaartuigen;
 
-- x. **kritisch punt:** elk punt waarop, elk stadium waarin of elk procédé waarmee, door middel van een adequate controle, een bedreiging van de veiligheid van het voedsel kan worden vermeden, opgeheven of tot een aanvaardbaar niveau gereduceerd.
+- x. *kritisch punt:* elk punt waarop, elk stadium waarin of elk procédé waarmee, door middel van een adequate controle, een bedreiging van de veiligheid van het voedsel kan worden vermeden, opgeheven of tot een aanvaardbaar niveau gereduceerd.
 
 ##### Artikel 2
 
@@ -279,9 +260,9 @@ De uitvoer van visserijproducten geschiedt uitsluitend, indien aan de navolgende
 
 - b. onverminderd de overige voorschriften die met betrekking tot de identificatie van producten in het algemeen of visserijproducten in het bijzonder reeds zijn of nog zullen worden vastgesteld, wordt het door middel van het merk of van de geleidedocumenten mogelijk gemaakt om met het oog op de keuring na te gaan van welke inrichting de producten afkomstig zijn; op de bedoelde documenten of op de verpakking worden daartoe vermeld:
 
-- 1. het land van verzending, voluit geschreven of, indien zulks door de binnen het gebied van de Europese Gemeenschap geldende regelgeving wordt toegelaten, met de gebruikelijke afkorting daarvan, en
+   - 1. het land van verzending, voluit geschreven of, indien zulks door de binnen het gebied van de Europese Gemeenschap geldende regelgeving wordt toegelaten, met de gebruikelijke afkorting daarvan, en
 
-- 2. het officiële erkenningsnummer van de inrichting of het fabrieksvaartuig.
+   - 2. het officiële erkenningsnummer van de inrichting of het fabrieksvaartuig.
 
 - c. de letters of cijfers die bij een vermelding op de verpakking, bedoeld in onderdeel b, worden gebruikt dienen goed en volledig leesbaar te zijn en bijeen te worden geplaatst op een zodanige plaats van de verpakking dat zij van buiten zichtbaar zijn, zonder dat de verpakking behoeft te worden geopend;
 
@@ -308,17 +289,3 @@ Deze regeling treedt in werking met ingang van de dag na die van uitgifte van he
 ##### Artikel 25
 
 Deze regeling kan worden aangehaald als: Regeling visserijproducten 1998 BES.
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
-
-#### § 1. Algemene bepalingen
-
-#### § 2. Behandeling, be- en verwerking
-
-#### § 3. Inrichtingen
-
-#### § 4. Analyse van visserijproducten; gezondheidscertificaat
-
-#### § 5. Verpakking, aanduiding, opslag en vervoer van voor de uitvoer bestemde visserijproducten
-
-#### § 6. Slotbepalingen

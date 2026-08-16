@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 oktober 2010, nr. 233714, houdende de toedeling van toezichtsbevoegdheden aan de functionarissen voor de gegevensbescherming van het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling toezichtsbevoegdheden functionarissen voor de gegevensbescherming OCW)"
+citeertitel: "Regeling toezichtsbevoegdheden functionarissen voor gegevensbescherming OCW"
 identifier: "BWBR0028921"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-06-21"
-last_updated: "2018-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028921"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "11071283"
-version_id: "25083682"
-internal_id: "C35871381"
-label_id: "11045824"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028921/2018-06-21/0"
-intitule_bron: "Stcrt.2010-17465"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-07"
-intitule_published: "2010-11-10"
-intitule_in_force: "2010-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2018-33885"
-original_signed_date: "2018-06-11"
-original_published_date: "2018-06-20"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2018-33885"
-entry_into_force_date: "2018-06-11"
-jci_1_3: "jci1.3:c:BWBR0028921&z=2018-06-21&g=2018-06-21"
-jci_1_0: "1.0:c:BWBR0028921&g=2018-06-21"
-citeertitel_status: "officieel"
-short_title: "Regeling toezichtsbevoegdheden functionarissen voor gegevensbescherming OCW"
-signed_date: "2018-06-11"
-entry_into_force: "2018-06-11"
+publicatiedatum: 2018-06-11
+laatste_update: 2018-06-21
+status: geldig
+toestand: 2018-06-21
+bron: "https://wetten.overheid.nl/BWBR0028921"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 oktober 2010, nr. 233714, houdende de toedeling van toezichtsbevoegdheden aan de functionarissen voor de gegevensbescherming van het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling toezichtsbevoegdheden functionarissen voor de gegevensbescherming OCW)
-
-Gelet op [artikel 64, derde lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=64);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **het ministerie:** het Ministerie van Onderwijs, Cultuur en Wetenschap;
+- b. *het ministerie:* het Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- c. **OCW:** Onderwijs, Cultuur en Wetenschap;
+- c. *OCW:* Onderwijs, Cultuur en Wetenschap;
 
-- d. **DUO:** Dienst Uitvoering Onderwijs;
+- d. *DUO:* Dienst Uitvoering Onderwijs;
 
-- e. **de functionarissen voor gegevensbescherming:** de bij het ministerie benoemde functionarissen voor gegevensbescherming, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming;
+- e. *de functionarissen voor gegevensbescherming:* de bij het ministerie benoemde functionarissen voor gegevensbescherming, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming;
 
-- f. **de functionaris voor gegevensbescherming OCW:** de bij het ministerie, inclusief de daaronder ressorterende diensten en instellingen, met uitzondering van DUO, benoemde functionaris voor gegevensbescherming;
+- f. *de functionaris voor gegevensbescherming OCW:* de bij het ministerie, inclusief de daaronder ressorterende diensten en instellingen, met uitzondering van DUO, benoemde functionaris voor gegevensbescherming;
 
-- g. **de functionaris voor gegevensbescherming DUO:** de bij het ministerie, voor zover het betreft verwerkingen van persoonsgegevens door of ten behoeve van DUO, benoemde functionaris voor gegevensbescherming.
+- g. *de functionaris voor gegevensbescherming DUO:* de bij het ministerie, voor zover het betreft verwerkingen van persoonsgegevens door of ten behoeve van DUO, benoemde functionaris voor gegevensbescherming.
 
 ##### Artikel 2. Reikwijdte
 
@@ -128,7 +102,7 @@ De functionarissen voor gegevensbescherming kunnen privacy-audits uit laten voer
 
 ##### Artikel 13. Register
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Aanbevelingen
 
@@ -137,6 +111,10 @@ De functionarissen voor gegevensbescherming kunnen rechtstreeks aanbevelingen do
 ##### Artikel 15. Geheimhouding
 
 De functionarissen voor gegevensbescherming alsmede de in voorkomend geval door hen ingeschakelde personen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028921&artikel=3&z=2018-06-21&g=2018-06-21), zijn verplicht tot geheimhouding van hetgeen hen op grond van een klacht of een verzoek van de betrokkene, bedoeld in artikel 4, onderdeel 1, van de Algemene verordening gegevensbescherming, bekend is geworden, tenzij deze betrokkene met bekendmaking instemt.
+
+##### Artikel 15a. Nieuwe grondslag
+
+Deze regeling berust op artikel 37 van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 16. Intrekking regelingen
 
@@ -149,11 +127,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toezichtsbevoegdheden functionarissen voor gegevensbescherming OCW.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 15a. Nieuwe grondslag
-
-Deze regeling berust op artikel 37 van de Algemene verordening gegevensbescherming.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

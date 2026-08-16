@@ -1,49 +1,18 @@
 ---
 title: "Wet van 16 december 2010 tot vaststelling van de Wet invoeringswet fiscaal stelsel BES (Invoeringswet fiscaal stelsel BES)"
+citeertitel: "Invoeringswet fiscaal stelsel BES"
 identifier: "BWBR0029268"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029268"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "11165913"
-version_id: "18263022"
-internal_id: "C25453381"
-label_id: "11140734"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029268/2019-01-01/0"
-intitule_bron: "Stb.2010-847"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-16"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2010-847"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "32276"
-original_url_id: "stb-2010-847"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029268&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0029268&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet fiscaal stelsel BES"
-signed_date: "2010-12-16"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0029268"
+opgehaald: 2026-08-16
 ---
+
 # Wet van 16 december 2010 tot vaststelling van de Wet invoeringswet fiscaal stelsel BES (Invoeringswet fiscaal stelsel BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om in verband met de invoering en inwerkingtreding van de [Wet Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244), de [Wet Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236), de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) en de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283) de aanpassing van enige wetten alsmede het overgangsrecht te regelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk I. Aanpassingen
 
@@ -57,7 +26,7 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 ##### Artikel III
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel IV
 
@@ -65,11 +34,11 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel V
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel VI
 
-Wijzigt de Kostenwet invordering rijksbelastingen.
+*Wijzigt de Kostenwet invordering rijksbelastingen.*
 
 ##### Artikel VII
 
@@ -77,11 +46,11 @@ Wijzigt de Kostenwet invordering rijksbelastingen.
 
 ##### Artikel VIII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel X
 
@@ -101,41 +70,21 @@ Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel XIV
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ### Hoofdstuk II. Overgangsrecht en invoering fiscaal stelsel BES
 
-### Hoofdstuk IIa. Wet inkomstenbelasting BES
-
-### Hoofdstuk IIb. Wet loonbelasting BES
-
-### Hoofdstuk IIc. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
-
-### Hoofdstuk IId. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
-
-### Hoofdstuk IIe. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
-
-### Hoofdstuk IIf. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
-
-### Hoofdstuk IIg. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
-
-### Hoofdstuk IIh. Vervallen voorzieningen van overgangsrechtelijke aard in [Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551)
-
-### Hoofdstuk III. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling 1. Afwikkeling Nederlands-Antilliaans fiscaal stelsel
+#### Afdeling 1. Afwikkeling Nederlands-Antilliaans fiscaal stelsel
 
 ##### Artikel I
 
 1. Dit hoofdstuk is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en verstaat onder:
 
-- a. **tijdstip van transitie:** het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- a. *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- b. **het tijdstip van inwerkingtreding:** het tijdstip waarop de [hoofdstukken IV tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV) en [IX van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IX) en de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III) en [V van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V) in werking treden;
+- b. *het tijdstip van inwerkingtreding:* het tijdstip waarop de [hoofdstukken IV tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV) en [IX van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IX) en de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III) en [V van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V) in werking treden;
 
-- c. **overgangsperiode:** de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
+- c. *overgangsperiode:* de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
 
 2. Op dit hoofdstuk zijn [artikel 1.3 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3) en [artikel 1.1 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1) van overeenkomstige toepassing.
 
@@ -155,7 +104,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 [vervallen]
 
-### Afdeling 2. Specifiek overgangsrecht
+#### Afdeling 2. Specifiek overgangsrecht
 
 ##### Artikel VI
 
@@ -187,9 +136,9 @@ De in [artikel 8 121, tweede lid, van de Belastingwet BES](https://wetten.overhe
 
 1. Dit artikel verstaat onder:
 
-- a. **landsverordeningen:** de verordeningen, bedoeld in [artikel 13b, eerste lid, onderdelen d en e, van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) en de daarop gebaseerde regelingen alsmede de in de overgangsperiode als wet van toepassing zijnde in artikel 13b, eerste lid, onderdelen d en e, van de Wet geldstelsel BES bedoelde verordeningen en de daarop gebaseerde, in die periode als ministeriële regelingen geldende, regelingen;
+- a. *landsverordeningen:* de verordeningen, bedoeld in [artikel 13b, eerste lid, onderdelen d en e, van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) en de daarop gebaseerde regelingen alsmede de in de overgangsperiode als wet van toepassing zijnde in artikel 13b, eerste lid, onderdelen d en e, van de Wet geldstelsel BES bedoelde verordeningen en de daarop gebaseerde, in die periode als ministeriële regelingen geldende, regelingen;
 
-- b. **belasting:** de belastingen geheven krachtens de in onderdeel a bedoelde landsverordeningen.
+- b. *belasting:* de belastingen geheven krachtens de in onderdeel a bedoelde landsverordeningen.
 
 2. In afwijking in zoverre van de bepalingen van de landsverordeningen wordt met betrekking tot leveringen en diensten, welke vóór het tijdstip van inwerkingtreding zijn verricht, de belasting uiterlijk op de aan het tijdstip van inwerkingtreding voorafgaande dag verschuldigd.
 
@@ -231,9 +180,9 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 - d. opbrengst van banktegoeden en overige schuldvorderingen, met uitzondering van:
 
-- 1°. schuldvorderingen, verzekerd door hypotheek, gevestigd op op de BES eilanden gelegen onroerende zaken;
+   - 1°. schuldvorderingen, verzekerd door hypotheek, gevestigd op op de BES eilanden gelegen onroerende zaken;
 
-- 2°. schuldvorderingen, niet zijnde banktegoeden, ten laste van een natuurlijke of rechtspersoon die woonachtig of statutair dan wel feitelijk gevestigd is op de BES eilanden;
+   - 2°. schuldvorderingen, niet zijnde banktegoeden, ten laste van een natuurlijke of rechtspersoon die woonachtig of statutair dan wel feitelijk gevestigd is op de BES eilanden;
 
 - e. opbrengst van rechten op aandelen in de winst, anders dan als aandeelhouder, van een niet op de BES eilanden uitgeoefend bedrijf;
 
@@ -277,13 +226,13 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 [vervallen]
 
-### Afdeling 3. Wijzigingen [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244)
+#### Afdeling 3. Wijzigingen Belastingwet BES
 
 ##### Artikel XVI
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
-### Afdeling 4. Overgang naar fiscaal stelsel voor de BES eilanden
+#### Afdeling 4. Overgang naar fiscaal stelsel voor de BES eilanden
 
 ##### Artikel XVII
 
@@ -291,19 +240,35 @@ Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van 
 
 ### Hoofdstuk IIa. Wet inkomstenbelasting BES
 
+*Wijzigt de Wet inkomstenbelasting BES.*
+
 ### Hoofdstuk IIb. Wet loonbelasting BES
 
-### Hoofdstuk IIc. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+*Wijzigt de Wet loonbelasting BES.*
 
-### Hoofdstuk IId. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+### Hoofdstuk IIc. Wet algemene ouderdomsverzekering BES
 
-### Hoofdstuk IIe. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
+*Wijzigt de Wet algemene ouderdomsverzekering BES.*
 
-### Hoofdstuk IIf. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
+### Hoofdstuk IId. Wet algemene weduwen- en wezenverzekering BES
 
-### Hoofdstuk IIg. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+*Wijzigt de Wet algemene weduwen- en wezenverzekering BES.*
 
-### Hoofdstuk IIh. Vervallen voorzieningen van overgangsrechtelijke aard in [Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551)
+### Hoofdstuk IIe. Cessantiawet BES
+
+*Wijzigt de Cessantiawet BES.*
+
+### Hoofdstuk IIf. Wet ziekteverzekering BES
+
+*Wijzigt de Wet ziekteverzekering BES.*
+
+### Hoofdstuk IIg. Wet ongevallenverzekering BES
+
+*Wijzigt de Wet ongevallenverzekering BES.*
+
+### Hoofdstuk IIh. Vervallen voorzieningen van overgangsrechtelijke aard in Wet geldstelsel BES
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ### Hoofdstuk III. Slotbepalingen
 
@@ -322,5 +287,3 @@ Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoeri
 ##### Artikel III
 
 Deze wet wordt aangehaald als: Invoeringswet fiscaal stelsel BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

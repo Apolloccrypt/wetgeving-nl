@@ -1,41 +1,17 @@
 ---
 title: "Regeling pensioenen BES"
 identifier: "BWBR0029319"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029319"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11179843"
-version_id: "18285902"
-internal_id: "C25450091"
-label_id: "11154194"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029319/2011-01-01/0"
-intitule_bron: "Stcrt.2010-21108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21108"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21108"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029319&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029319&g=2011-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029319"
+opgehaald: 2026-08-16
 ---
-# Regeling pensioenen BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur in het Europese deel van Nederland.
+# Regeling pensioenen BES
 
 ##### Artikel 1
 
@@ -55,9 +31,9 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 - a. pensioentoezeggingen:
 
-- 1°. van naamloze vennootschappen en andere vennootschappen waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en waarin een werknemer of gewezen werknemer, zijn echtgenoot of partner, indien hij gedurende tenminste één jaar onafgebroken een gezamenlijke huishouding met zijn partner voert, een van hun bloed- of aanverwanten in de rechte lijn of in de tweede graad van de zijlijn, dan wel een van hun pleegkinderen al dan niet tezamen voor ten minste 10% van het nominaal gestort kapitaal, onmiddellijk of middellijk, aandeelhouder is;
+   - 1°. van naamloze vennootschappen en andere vennootschappen waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en waarin een werknemer of gewezen werknemer, zijn echtgenoot of partner, indien hij gedurende tenminste één jaar onafgebroken een gezamenlijke huishouding met zijn partner voert, een van hun bloed- of aanverwanten in de rechte lijn of in de tweede graad van de zijlijn, dan wel een van hun pleegkinderen al dan niet tezamen voor ten minste 10% van het nominaal gestort kapitaal, onmiddellijk of middellijk, aandeelhouder is;
 
-- 2°. van andere dan de in onderdeel a bedoelde lichamen waarvan de werkzaamheden hoofdzakelijk bestaan in de uitvoering van pensioenregelingen of van regelingen voor vervroegde uittreding van werknemers of gewezen werknemers van naamloze vennootschappen of andere vennootschappen waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld, en waarin deze werknemers of gewezen werknemers, hun echtgenoten of partners, indien zij gedurende tenminste één jaar onafgebroken een gezamenlijke huishouding met hun partners voeren, hun bloed- of aanverwanten in de rechte lijn of in de tweede graad van de zijlijn, dan wel hun pleegkinderen al dan niet tezamen voor ten minste 10% van het nominaal gestort kapitaal, onmiddellijk of middellijk, aandeelhouder zijn of op enig moment zijn geweest, onderscheidenlijk
+   - 2°. van andere dan de in onderdeel a bedoelde lichamen waarvan de werkzaamheden hoofdzakelijk bestaan in de uitvoering van pensioenregelingen of van regelingen voor vervroegde uittreding van werknemers of gewezen werknemers van naamloze vennootschappen of andere vennootschappen waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld, en waarin deze werknemers of gewezen werknemers, hun echtgenoten of partners, indien zij gedurende tenminste één jaar onafgebroken een gezamenlijke huishouding met hun partners voeren, hun bloed- of aanverwanten in de rechte lijn of in de tweede graad van de zijlijn, dan wel hun pleegkinderen al dan niet tezamen voor ten minste 10% van het nominaal gestort kapitaal, onmiddellijk of middellijk, aandeelhouder zijn of op enig moment zijn geweest, onderscheidenlijk
 
 - b. pensioentoezeggingen die bij of na het beëindigen van het dienstverband worden gedaan en die onmiddellijk na het eindigen van het dienstverband ingaan.
 

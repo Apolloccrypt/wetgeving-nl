@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5677863/10, tot vaststelling van de Regeling naturalisatietoets Aruba 2011"
+citeertitel: "Regeling naturalisatietoets Aruba 2011"
 identifier: "BWBR0029225"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-28"
-last_updated: "2023-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029225"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "11143373"
-version_id: "18227282"
-internal_id: "C25362801"
-label_id: "11117874"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029225/2023-09-28/0"
-intitule_bron: "Stcrt.2010-20943"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-15"
-intitule_published: "2010-12-23"
-intitule_in_force: "2010-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20943"
-original_signed_date: "2010-12-15"
-original_published_date: "2010-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20943"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029225&z=2023-09-28&g=2023-09-28"
-jci_1_0: "1.0:c:BWBR0029225&g=2023-09-28"
-citeertitel_status: "officieel"
-short_title: "Regeling naturalisatietoets Aruba 2011"
-signed_date: "2010-12-15"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2023-09-28
+status: geldig
+toestand: 2023-09-28
+bron: "https://wetten.overheid.nl/BWBR0029225"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5677863/10, tot vaststelling van de Regeling naturalisatietoets Aruba 2011
-
-Gelet op [artikel 23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23) en [artikel 6 van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=6);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de naturalisatietoets:** de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
+- a. *de naturalisatietoets:* de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
 
-- b. **verzoeker:** degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
+- b. *verzoeker:* degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. **de Gouverneur:** de Gouverneur van Aruba;
+- c. *de Gouverneur:* de Gouverneur van Aruba;
 
-- d. **het Examenbureau Aruba:** een organisatorische eenheid van de Directie Onderwijs in Aruba;
+- d. *het Examenbureau Aruba:* een organisatorische eenheid van de Directie Onderwijs in Aruba;
 
-- e. **onderdeel van de naturalisatietoets:** een van de drie in [artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2).
+- e. *onderdeel van de naturalisatietoets:* een van de drie in [artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2).
 
 #### Paragraaf 2. Naturalisatietoets en afname
 
@@ -64,7 +38,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, wordt afgenomen en beantwoord in de Papiamentse taal.
 
-3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=1&z=2023-09-28&g=2023-09-28) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
+3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=1&z=2023-09-28&g=2023-09-28) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
 
 4. Om te slagen voor de naturalisatietoets dient het niveau van taalbeheersing bij alle onderdelen aantoonbaar op ten minste niveau A2 van het Europees Raamwerk voor moderne vreemde talen te zijn afgelegd.
 
@@ -82,7 +56,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. De directeur van de Directie Onderwijs in Aruba geeft aan de verzoeker die de naturalisatietoets met succes heeft afgelegd het Certificaat naturalisatietoets.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -104,13 +78,13 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 7
 
-Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst alsmede van het onderdeel dat de beheersing van de betreffende taal toetst, is vrijgesteld de verzoeker die beschikt over een Certificaat Naturalisatietoets Aruba, dat is uitgereikt voor 1 januari 2011. Vermeldt het Certificaat Naturalisatietoets Aruba dat de naturalisatietoets is afgelegd in de Papiamentse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Papiamentse taal. Vermeldt het Certificaat Naturalisatietoets Aruba dat de naturalisatietoets is afgelegd in de Nederlandse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Nederlandse taal.
+Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst alsmede van het onderdeel dat de beheersing van de betreffende taal toetst, is vrijgesteld de verzoeker die beschikt over een Certificaat Naturalisatietoets Aruba, dat is uitgereikt voor 1 januari 2011. Vermeldt het Certificaat Naturalisatietoets Aruba dat de naturalisatietoets is afgelegd in de Papiamentse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Papiamentse taal. Vermeldt het Certificaat Naturalisatietoets Aruba dat de naturalisatietoets is afgelegd in de Nederlandse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Nederlandse taal.
 
 ##### Artikel 8
 
-1. Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, is vrijgesteld de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Papiamentse taal.
+1. Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, is vrijgesteld de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Papiamentse taal.
 
-2. Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.
+2. Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.
 
 ##### Artikel 9
 
@@ -142,11 +116,11 @@ Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maat
 
 4. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van het Examenbureau Aruba over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
 
-5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
+5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Examengeld
 
@@ -154,9 +128,9 @@ Vervallen
 
 1. Aan het afleggen en beoordelen van de resultaten van de naturalisatietoets alsmede aan het opnieuw afleggen en het beoordelen van de resultaten van niet gehaalde toetsonderdelen zijn kosten verbonden die door de verzoeker worden betaald op het moment van inschrijving voor de examinering van het betreffende onderdeel of taalvaardigheid in geval van een herkansing.
 
-2. De in het eerste lid bedoelde examengelden zijn voor het afleggen of het herkansen van deel III: Afl. 150.
+2. De in het eerste lid bedoelde examengelden zijn voor het afleggen of het herkansen van deel III: Afl. 150.
 
-3. De in het eerste lid bedoelde examengelden zijn voor het herkansen van een onderdeel van deel III: Afl. 50.
+3. De in het eerste lid bedoelde examengelden zijn voor het herkansen van een onderdeel van deel III: Afl. 50.
 
 4. Het in het eerste lid bedoelde examengeld wordt betaald door storting van het verschuldigde bedrag op de daarvoor door het Examenbureau Aruba aangehouden bankrekening.
 
@@ -175,17 +149,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Aruba 2011.
-
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Aruba 2011
-
-### Thema’s van bevraging
-
-Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden uitsluitend gesteld over de thema’s:
-
-### Eindtermen
-
-De volgende eindtermen gelden:
-
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=3&artikel=5&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Aruba 2011
-
-Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsblad van Aruba geplaatst.

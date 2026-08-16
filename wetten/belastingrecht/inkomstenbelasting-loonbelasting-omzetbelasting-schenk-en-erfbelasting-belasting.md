@@ -1,38 +1,16 @@
 ---
 title: "Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding"
 identifier: "BWBR0028894"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2010-10-14"
-last_updated: "2010-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028894"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11060323"
-version_id: "18070312"
-internal_id: "C25120291"
-label_id: "11034754"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028894/2010-10-14/0"
-intitule_bron: "Stcrt.2010-16710"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-14"
-intitule_published: "2010-10-26"
-intitule_in_force: "2010-10-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16710"
-original_signed_date: "2010-10-14"
-original_published_date: "2010-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16710"
-entry_into_force_date: "2010-10-14"
-jci_1_3: "jci1.3:c:BWBR0028894&z=2010-10-14&g=2010-10-14"
-jci_1_0: "1.0:c:BWBR0028894&g=2010-10-14"
-citeertitel_status: "redactioneel"
-signed_date: "2010-10-14"
-entry_into_force: "2010-10-14"
+publicatiedatum: 2010-10-14
+laatste_update: 2010-10-14
+status: geldig
+toestand: 2010-10-14
+bron: "https://wetten.overheid.nl/BWBR0028894"
+opgehaald: 2026-08-16
 ---
+
 # Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding
 
 De minister deelt mee dat de instelling en de taakomschrijving van de Coördinatiegroep Constructiebestrijding is geherformuleerd.
@@ -44,6 +22,20 @@ Binnen de Belastingdienst is de Coördinatiegroep Constructiebestrijding (CCB) a
 ### 2. Taken van de CCB
 
 De CCB heeft de volgende taken:
+
+- – het aan de hand van concrete gevallen doen van voorstellen voor de ontwikkeling van uitvoeringsbeleid ter bestrijding van constructies;
+
+- – het meewerken aan de ontwikkeling van dat beleid;
+
+- – het coördineren van de uitvoering van dat beleid;
+
+- – het ondersteunen van regio’s/kantoren bij de bestrijding van constructies en bij de uitvoering van het beleid;
+
+- – het in voorkomende gevallen leveren van een bijdrage aan de totstandkoming van wetgeving;
+
+- – het signaleren van handhavingstekorten bij de rechtstoepassing;
+
+- – het informeren van de Belastingdienst over het bestaan en de aanpak van fiscale constructies.
 
 ### 3. Werkwijze van de CCB
 

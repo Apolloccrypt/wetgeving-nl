@@ -1,38 +1,16 @@
 ---
 title: "Regeling functioneringsgesprekken BES"
 identifier: "BWBR0028784"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028784"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11024273"
-version_id: "18012332"
-internal_id: "C25040281"
-label_id: "10998744"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028784/2011-10-09/0"
-intitule_bron: "Stcrt.2010-15066"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-24"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15066"
-original_signed_date: "2010-09-24"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15066"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028784&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028784&g=2011-10-09"
-citeertitel_status: "redactioneel"
-signed_date: "2010-09-24"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028784"
+opgehaald: 2026-08-16
 ---
+
 # Regeling functioneringsgesprekken BES
 
 ##### Artikel 1
@@ -43,11 +21,11 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **formulier:** het formulier, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=5&z=2011-10-09&g=2011-10-09), dat voor de vastlegging van het functioneringsgesprek dient te worden gebruikt;
+- a. *formulier:* het formulier, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=5&z=2011-10-09&g=2011-10-09), dat voor de vastlegging van het functioneringsgesprek dient te worden gebruikt;
 
-- b. **leidinggevende:** de chef van een functionaris die hiërarchisch direct boven de functionaris staat, direct verantwoordelijk is voor het functioneren van deze functionaris en als zodanig het functioneringsgesprek met de functionaris voert;
+- b. *leidinggevende:* de chef van een functionaris die hiërarchisch direct boven de functionaris staat, direct verantwoordelijk is voor het functioneren van deze functionaris en als zodanig het functioneringsgesprek met de functionaris voert;
 
-- c. **functionaris:** de ambtenaar of daarmee gelijkgestelde in dienst van het openbaar lichaam Bonaire, Sint Eustatius en Saba met wie de leidinggevende het functioneringsgesprek voert.
+- c. *functionaris:* de ambtenaar of daarmee gelijkgestelde in dienst van het openbaar lichaam Bonaire, Sint Eustatius en Saba met wie de leidinggevende het functioneringsgesprek voert.
 
 2. Waarin deze regeling de mannelijke woordvorm wordt gebruikt, wordt daarbij eveneens de vrouwelijke woordvorm begrepen.
 
@@ -63,7 +41,7 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 ##### Artikel 4
 
-1. Het als bijlage aan deze regeling gevoegde formulier is het door de staat goedgekeurde formulier om het functioneringsgesprek vast te leggen.
+1. Het als [bijlage](https://wetten.overheid.nl/BWBR0028784) aan deze regeling gevoegde formulier is het door de staat goedgekeurde formulier om het functioneringsgesprek vast te leggen.
 
 2. De leidinggevende is gehouden de daartoe benodigde persoonlijke en functionele gegevens op het formulier te vermelden.
 
@@ -140,9 +118,3 @@ Deze regeling berust op [artikel 15, tweede lid, van de Ambtenarenwet BES](https
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling functioneringsgesprekken BES.
-
-## Bijlage. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=4&z=2010-10-10&g=2010-10-10)
-
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
-
-## Bijlage. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028784&artikel=4&z=2011-10-09&g=2011-10-09)

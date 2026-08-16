@@ -1,43 +1,21 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 1"
 identifier: "BWBR0028743"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028743"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10952193"
-version_id: "17944372"
-internal_id: "C24996161"
-label_id: "10931914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028743/2025-07-01/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028743&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0028743&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0028743"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 1
 
 ## Boek 1. Personen- en familierecht
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -57,7 +35,7 @@ Het kind waarvan een vrouw zwanger is, wordt als reeds geboren aangemerkt, zo di
 
 3. Door ontbinding van het huwelijk wordt de aanverwantschap niet opgeheven.
 
-## Titel 2. Het recht op de naam
+### Titel 2. Het recht op de naam
 
 ##### Artikel 4
 
@@ -73,7 +51,7 @@ Het kind waarvan een vrouw zwanger is, wordt als reeds geboren aangemerkt, zo di
 
 1. Indien een kind in familierechtelijke betrekking staat tot één ouder, heeft het de geslachtsnaam van die ouder.
 
-2. Indien een kind door erkenning in familierechtelijke betrekking tot de vader komt te staan, houdt het de geslachtsnaam van de moeder, tenzij de moeder en de erkenner ter gelegenheid van de erkenning gezamenlijk verklaren dat het kind de geslachtsnaam van de vader zal hebben of van beide ouders in een vrij te bepalen volgorde. Van deze verklaring wordt melding gemaakt in de akte van erkenning. De eerste twee volzinnen zijn van overeenkomstige toepassing bij erkenning van een ongeboren kind. De ouders kunnen evenwel ter gelegenheid van de voltrekking van hun huwelijk alsnog gezamenlijk verklaren, dat hun kind voortaan de geslachtsnaam van de andere ouder zal hebben, of van beide ouders in een vrij te bepalen volgorde. Van deze verklaring wordt een akte van naamskeuze opgemaakt. Indien een kind door brieven van vaderschap in familierechtelijke betrekking tot de vader komt te staan, houdt het de geslachtsnaam van de moeder, tenzij de moeder ter gelegenheid van het verzoek verklaart dat het kind de geslachtsnaam van de vader zal hebben of van beide ouders in een vrij te bepalen volgorde. In de brieven van vaderschap wordt de verklaring van de moeder hieromtrent vermeld.
+2. Indien een kind door erkenning in familierechtelijke betrekking tot de vader komt te staan, houdt het de geslachtsnaam van de moeder, tenzij de moeder en de erkenner ter gelegenheid van de erkenning gezamenlijk verklaren dat het kind de geslachtsnaam van de vader zal hebben of van beide ouders in een vrij te bepalen volgorde. Van deze verklaring wordt melding gemaakt in de akte van erkenning. De eerste twee volzinnen zijn van overeenkomstige toepassing bij erkenning van een ongeboren kind. De ouders kunnen evenwel ter gelegenheid van de voltrekking van hun huwelijk alsnog gezamenlijk verklaren, dat hun kind voortaan de geslachtsnaam van de andere ouder zal hebben, of van beide ouders in een vrij te bepalen volgorde. Van deze verklaring wordt een akte van naamskeuze opgemaakt. Indien een kind door brieven van vaderschap in familierechtelijke betrekking tot de vader komt te staan, houdt het de geslachtsnaam van de moeder, tenzij de moeder ter gelegenheid van het verzoek verklaart dat het kind de geslachtsnaam van de vader zal hebben of van beide ouders in een vrij te bepalen volgorde. In de brieven van vaderschap wordt de verklaring van de moeder hieromtrent vermeld.
 
 3. Indien een kind door adoptie in familierechtelijke betrekking komt te staan tot beide adoptanten heeft het kind de geslachtsnaam van de vader, tenzij de adoptanten ter gelegenheid van de adoptie gezamenlijk verklaren dat het kind de geslachtsnaam van de moeder of de oorspronkelijke geslachtsnaam of de geslachtsnaam van beide adoptanten in een vrij te bepalen volgorde of van één van hen in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde zal hebben. Indien een kind door adoptie in familierechtelijke betrekking tot één adoptant komt te staan, heeft het kind de geslachtsnaam van de adoptant, tenzij de adoptant ter gelegenheid van de adoptie verklaart dat het kind de oorspronkelijke geslachtsnaam dan wel de naam van de adoptant in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde zal hebben. Indien een kind door adoptie in familierechtelijke betrekking tot de echtgenoot of levensgezel van een ouder komt te staan, houdt het zijn geslachtsnaam, tenzij de ouder en diens echtgenoot of levensgezel gezamenlijk verklaren dat het kind de geslachtsnaam zal hebben van die ouder dan wel de geslachtsnaam van de echtgenoot of levensgezel of van hen beiden in een vrij te bepalen volgorde of van één van hen in combinatie met de oorspronkelijke geslachtsnaam van het kind in een vrij te bepalen volgorde. De rechterlijke uitspraak inzake de adoptie vermeldt de verklaring van de adoptanten omtrent de geslachtsnaamkeuze.
 
@@ -127,7 +105,7 @@ Hij die de naam van een ander zonder diens toestemming voert, handelt jegens die
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van de man die gehuwd is of gehuwd is geweest en die niet is hertrouwd.
 
-## Titel 3. Woonplaats
+### Titel 3. Woonplaats
 
 ##### Artikel 10
 
@@ -167,9 +145,9 @@ Een persoon die een kantoor of een filiaal houdt, heeft ten aanzien van aangeleg
 
 Een persoon kan een andere woonplaats dan zijn werkelijke slechts kiezen, wanneer de wet hem daartoe verplicht, of wanneer de keuze bij schriftelijk aangegane overeenkomst voor een of meer bepaalde rechtshandelingen of rechtsbetrekkingen geschiedt en voor de gekozen woonplaats een redelijk belang aanwezig is.
 
-## Titel 4. Burgerlijke stand
+### Titel 4. Burgerlijke stand
 
-### Afdeling 1. De ambtenaar van de burgerlijke stand
+#### Afdeling 1. De ambtenaar van de burgerlijke stand
 
 ##### Artikel 16
 
@@ -193,7 +171,7 @@ Het bestuurscollege bepaalt de uren, waarop het bureau van de burgerlijke stand 
 
 1. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van de door het bestuurscollege te treffen voorzieningen ten behoeve van de taakuitoefening door de ambtenaar van de burgerlijke stand, en voorts ten aanzien van al wat verder de taak van de ambtenaar van de burgerlijke stand betreft.
 
-### Afdeling 2. De registers van de burgerlijke stand en de bewaring daarvan
+#### Afdeling 2. De registers van de burgerlijke stand en de bewaring daarvan
 
 ##### Artikel 17
 
@@ -215,7 +193,7 @@ De beheerder van een archiefbewaarplaats als bedoeld in [artikel 17a](https://we
 
 Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de inrichting van de registers, alsmede de in [artikel 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=4&afdeling=2&artikel=17b&z=2025-07-01&g=2025-07-01) genoemde handelingen ten aanzien van die registers.
 
-### Afdeling 3. Akten van de burgerlijke stand en partijen bij deze akten
+#### Afdeling 3. Akten van de burgerlijke stand en partijen bij deze akten
 
 ##### Artikel 18
 
@@ -251,7 +229,7 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 
 2. Bij algemene maatregel van bestuur wordt geregeld alles wat betreft de bewaring van de dubbelen of de afschriften, alsmede van de daarop betrekking hebbende latere vermeldingen.
 
-### Afdeling 4. De akten van geboorte en van overlijden
+#### Afdeling 4. De akten van geboorte en van overlijden
 
 ##### Artikel 19
 
@@ -347,7 +325,7 @@ De ambtenaar, die het verbaal van schouwing zal hebben opgemaakt, is verplicht a
 
 2. Bij algemene maatregel van bestuur wordt tevens geregeld op welke wijze en waar de akten van geboorte en van overlijden zullen worden opgemaakt en ingeschreven wanneer dit ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden niet op de gewone wijze kan geschieden.
 
-### Afdeling 5. Latere vermeldingen
+#### Afdeling 5. Latere vermeldingen
 
 ##### Artikel 20
 
@@ -399,7 +377,7 @@ De ambtenaar van de burgerlijke stand die een latere vermelding van naamskeuze, 
 
 De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjarige een latere vermelding toevoegt, waaruit blijkt dat de minderjarige is erkend, dat brieven van vaderschap zijn verleend of dat een naam van hem is gewijzigd, geeft van dit feit kennis aan de bewaarder van het in [artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=13&afdeling=4&artikel=244&z=2025-07-01&g=2025-07-01) bedoelde openbare register waarin rechtsfeiten omtrent die minderjarige zijn opgenomen.
 
-### Afdeling 6. Akten van inschrijving van bepaalde rechterlijke uitspraken
+#### Afdeling 6. Akten van inschrijving van bepaalde rechterlijke uitspraken
 
 ##### Artikel 21
 
@@ -409,7 +387,7 @@ De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjari
 
 3. Bij algemene maatregel van bestuur wordt geregeld al wat betreft de aan de ambtenaar over te leggen stukken, het opmaken van de akten van inschrijving en de inhoud daarvan.
 
-### Afdeling 7. De bewijskracht van akten van de burgerlijke stand, alsmede van afschriften en uittreksels
+#### Afdeling 7. De bewijskracht van akten van de burgerlijke stand, alsmede van afschriften en uittreksels
 
 ##### Artikel 22
 
@@ -423,7 +401,7 @@ De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjari
 
 Authentieke afschriften of uittreksels, in de wettige vorm opgemaakt en afgegeven door de daartoe bevoegde bewaarder van het register, hebben dezelfde bewijskracht als het origineel, tenzij bewezen wordt dat zij daarmede niet overeenstemmen.
 
-### Afdeling 8. De openbaarheid van de akten van de burgerlijke stand
+#### Afdeling 8. De openbaarheid van de akten van de burgerlijke stand
 
 ##### Artikel 23
 
@@ -453,7 +431,7 @@ Daarbij worden tevens regels gegeven voor het opmaken van uittreksels van akten 
 
 De in [artikel 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=4&afdeling=3&artikel=18c&z=2025-07-01&g=2025-07-01) bedoelde dubbelen of afschriften van de akten van de burgerlijke stand zijn slechts openbaar zolang zij onder de ambtenaar van de burgerlijke stand berusten.
 
-### Afdeling 9. De aanvulling van de registers van de burgerlijke stand en de verbetering van de daarin voorkomende akten en latere vermeldingen
+#### Afdeling 9. De aanvulling van de registers van de burgerlijke stand en de verbetering van de daarin voorkomende akten en latere vermeldingen
 
 ##### Artikel 24
 
@@ -471,7 +449,7 @@ Kennelijke misslagen en kennelijke schrijf- of spelfouten kunnen worden verbeter
 
 2. Van een verbetering of een doorhaling op grond van deze afdeling wordt een latere vermelding toegevoegd aan de desbetreffende akte, volgens regels, bij algemene maatregel van bestuur te stellen.
 
-### Afdeling 10. De verklaring voor recht omtrent de rechtsgeldigheid in de openbare lichamen Bonaire, Sint Eustatius en Saba van een buitenlandse akte of uitspraak
+#### Afdeling 10. De verklaring voor recht omtrent de rechtsgeldigheid in de openbare lichamen Bonaire, Sint Eustatius en Saba van een buitenlandse akte of uitspraak
 
 ##### Artikel 26
 
@@ -491,7 +469,7 @@ De overlegging van een authentiek afschrift van de buitenlandse akte of uitspraa
 
 De griffier van het college waarbij de zaak laatstelijk aanhangig was, zendt een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand in wiens registers een op de belanghebbende betrekking hebbende akte is opgenomen, waaraan een latere vermelding van de beschikking moet worden toegevoegd.
 
-### Afdeling 11. Voorziening tegen de weigering tot het opmaken van een akte van de burgerlijke stand of tot een andere verrichting
+#### Afdeling 11. Voorziening tegen de weigering tot het opmaken van een akte van de burgerlijke stand of tot een andere verrichting
 
 ##### Artikel 27
 
@@ -505,11 +483,13 @@ De rechter kan, op verzoek van een belanghebbende partij of ambtshalve, bij zijn
 
 De griffier zendt een afschrift van de beschikking aan de belanghebbende partijen en aan de ambtenaar van de burgerlijke stand.
 
-### Afdeling 12
+#### Afdeling 12
 
-## Titel 5. Het huwelijk
+[Vervallen.]
 
-#### **Algemene bepaling**
+### Titel 5. Het huwelijk
+
+#### Algemene bepaling
 
 ##### Artikel 30
 
@@ -517,7 +497,7 @@ De griffier zendt een afschrift van de beschikking aan de belanghebbende partije
 
 2. De wet beschouwt het huwelijk alleen in zijn burgerlijke betrekkingen.
 
-### Afdeling 1. Vereisten tot het aangaan van een huwelijk
+#### Afdeling 1. Vereisten tot het aangaan van een huwelijk
 
 ##### Artikel 31
 
@@ -563,7 +543,7 @@ Voor zover een volgens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028
 
 Zij die met elkander een huwelijk willen aangaan, mogen niet tegelijkertijd op de voet van het Nederlandse Burgerlijk Wetboek een geregistreerd partnerschap zijn aangegaan.
 
-### Afdeling 2. Formaliteiten die aan de voltrekking van het huwelijk moeten voorafgaan
+#### Afdeling 2. Formaliteiten die aan de voltrekking van het huwelijk moeten voorafgaan
 
 ##### Artikel 43
 
@@ -639,7 +619,7 @@ Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huweli
 
 ##### Artikel 49a
 
-1. Indien een buiten de openbare lichamen Bonaire, Sint Eustatius en Saba woonplaats hebbende of gehad hebbende Nederlander, vluchteling of staatloze van wie het personele statuut door de wetgeving van Bonaire, Sint Eustatius en Saba bepaald wordt, buiten de openbare lichamen Bonaire, Sint Eustatius en Saba een huwelijk wenst aan te gaan, wordt op zijn verzoek aan hem een verklaring van huwelijksbevoegdheid overeenkomstig het model, toegevoegd aan de op 5 september 1980 te München tot stand gekomen Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid (Trb. 1981, 71), afgegeven.
+1. Indien een buiten de openbare lichamen Bonaire, Sint Eustatius en Saba woonplaats hebbende of gehad hebbende Nederlander, vluchteling of staatloze van wie het personele statuut door de wetgeving van Bonaire, Sint Eustatius en Saba bepaald wordt, buiten de openbare lichamen Bonaire, Sint Eustatius en Saba een huwelijk wenst aan te gaan, wordt op zijn verzoek aan hem een verklaring van huwelijksbevoegdheid overeenkomstig het model, toegevoegd aan de op 5 september 1980 te München tot stand gekomen Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid (Trb. 1981, 71), afgegeven.
 
 2. Deze verklaring wordt afgegeven:
 
@@ -653,7 +633,7 @@ Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huweli
 
 5. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=2&artikel=6&z=2025-07-01&g=2025-07-01) van de in het eerste lid genoemde Overeenkomst worden de in het eerste lid van dat artikel bedoelde onveranderlijke vermeldingen op de verklaring bovendien gedrukt in de Engelse en de Spaanse taal.
 
-### Afdeling 3. Stuiting van het huwelijk
+#### Afdeling 3. Stuiting van het huwelijk
 
 ##### Artikel 50
 
@@ -707,7 +687,7 @@ Mocht het desniettemin voltrokken zijn hangende een geding tot opheffing van de 
 
 Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=5&afdeling=1&artikel=31&z=2025-07-01&g=2025-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=5&afdeling=1&artikel=42&z=2025-07-01&g=2025-07-01) omschreven huwelijksbeletselen bekend is, mag niet tot een huwelijksaangifte of een huwelijksvoltrekking meewerken, ook al zou geen stuiting hebben plaatsgehad.
 
-### Afdeling 4. De voltrekking van het huwelijk
+#### Afdeling 4. De voltrekking van het huwelijk
 
 ##### Artikel 58
 
@@ -745,7 +725,7 @@ Het staat de Minister van Justitie vrij uit hoofde van gewichtige redenen aan pa
 
 2. Terstond nadat deze verklaring is afgelegd, verklaart de ambtenaar van de burgerlijke stand dat partijen door de echt aan elkander zijn verbonden, en maakt hij daarvan in het daartoe bestemde register een akte op.
 
-### Afdeling 5. Nietigverklaring van een huwelijk
+#### Afdeling 5. Nietigverklaring van een huwelijk
 
 ##### Artikel 69
 
@@ -813,7 +793,7 @@ Behoudens het in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&bo
 
 - c. ten aanzien van andere personen dan de echtgenoten en hun kinderen, voor zover zij te goeder trouw vóór de inschrijving der nietigverklaring rechten hebben verkregen.
 
-### Afdeling 6. Bewijs van het bestaan van het huwelijk
+#### Afdeling 6. Bewijs van het bestaan van het huwelijk
 
 ##### Artikel 78
 
@@ -827,7 +807,17 @@ Heeft het huwelijksregister niet bestaan of is het verloren gegaan of ontbreekt 
 
 Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, uit een huwelijk is geboren, dan levert het feit dat de ouders openlijk als man en vrouw hebben geleefd, voldoende bewijs op.
 
-## Titel 6. Rechten en verplichtingen van echtgenoten
+#### Afdeling 7. Buiten de openbare lichamen voltrokken huwelijken en geregistreerde partnerschappen
+
+##### Artikel 80a
+
+Een huwelijk, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het betreffende huwelijk verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. De [artikelen 5 tot en met 7 van de Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=5) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 80b
+
+Een geregistreerd partnerschap, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het geregistreerd partnerschap verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. In de openbare lichamen Bonaire, Sint Eustatius en Saba is de [Wet conflictenrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004619) geregistreerd partnerschap van toepassing op een buiten het Koninkrijk aangegaan geregistreerd partnerschap.
+
+### Titel 6. Rechten en verplichtingen van echtgenoten
 
 ##### Artikel 81
 
@@ -945,9 +935,9 @@ Echtgenoten zijn jegens elkander verplicht hun kinderen te verzorgen en op te vo
 
 Deze titel is niet van toepassing op van tafel en bed gescheiden echtgenoten.
 
-## Titel 7. De wettelijke gemeenschap van goederen
+### Titel 7. De wettelijke gemeenschap van goederen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 93
 
@@ -973,7 +963,7 @@ Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten 
 
 2. De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen der gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap.
 
-### Afdeling 2. Het bestuur van de gemeenschap
+#### Afdeling 2. Het bestuur van de gemeenschap
 
 ##### Artikel 97
 
@@ -985,7 +975,7 @@ Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten 
 
 De echtgenoten verstrekken elkander desgevraagd inlichtingen over het gevoerde bestuur, alsmede over de stand der goederen en schulden van de gemeenschap.
 
-### Afdeling 2. Het bestuur van de gemeenschap
+#### Afdeling 3. Ontbinding van de gemeenschap
 
 ##### Artikel 99
 
@@ -1059,7 +1049,7 @@ De rechter in eerste aanleg van de zittingsplaats waar de akte van afstand moet 
 
 3. De termijn van drie maanden, genoemd in [artikel 1062 van Boek 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=1062), begint met de aanvang van de dag waarop hij aan [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=7&afdeling=3&artikel=104&z=2025-07-01&g=2025-07-01), heeft voldaan. De rechter in eerste aanleg kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.
 
-### Afdeling 4. Opheffing van de gemeenschap bij beschikking
+#### Afdeling 4. Opheffing van de gemeenschap bij beschikking
 
 ##### Artikel 109
 
@@ -1089,9 +1079,9 @@ Een echtgenoot kan opheffing van de gemeenschap verzoeken, wanneer de andere ech
 
 Is de gemeenschap door opheffing ontbonden, dan kunnen de echtgenoten daarna, echter alleen bij huwelijkse voorwaarden, wederom een gemeenschap overeenkomen.
 
-## Titel 8. Huwelijkse voorwaarden
+### Titel 8. Huwelijkse voorwaarden
 
-### Afdeling 1. Huwelijkse voorwaarden in het algemeen
+#### Afdeling 1. Huwelijkse voorwaarden in het algemeen
 
 ##### Artikel 114
 
@@ -1161,7 +1151,7 @@ Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden bui
 
 2. Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.
 
-### Afdeling 2. Giften bij huwelijkse voorwaarden
+#### Afdeling 2. Giften bij huwelijkse voorwaarden
 
 ##### Artikel 146
 
@@ -1189,9 +1179,9 @@ Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden bui
 
 Bij de huwelijkse voorwaarden kunnen ook andere personen dan de echtgenoten aan dezen of aan een dezer giften doen, echter alleen van tegenwoordige en bij de akte nauwkeurig omschreven goederen. Op deze giften is [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=8&afdeling=2&artikel=146&z=2025-07-01&g=2025-07-01) van toepassing.
 
-## Titel 9. Ontbinding van het huwelijk
+### Titel 9. Ontbinding van het huwelijk
 
-### Afdeling 1. Ontbinding van het huwelijk in het algemeen
+#### Afdeling 1. Ontbinding van het huwelijk in het algemeen
 
 ##### Artikel 149
 
@@ -1205,7 +1195,7 @@ Het huwelijk eindigt:
 
 - d. door ontbinding van het huwelijk na scheiding van tafel en bed, overeenkomstig [titel 10, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=10&afdeling=2&z=2025-07-01&g=2025-07-01).
 
-### Afdeling 2. Echtscheiding
+#### Afdeling 2. Echtscheiding
 
 ##### Artikel 150
 
@@ -1293,9 +1283,9 @@ Een verplichting van een gewezen echtgenoot om uit hoofde van echtscheiding leve
 
 Indien de gescheiden echtgenoten met elkander hertrouwen, herleven alle gevolgen van het huwelijk van rechtswege, alsof er geen echtscheiding had plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de ontbinding van het huwelijk en het nieuwe huwelijk zijn verricht, beoordeeld naar het tijdstip der handeling. Op het maken of wijzigen van huwelijkse voorwaarden vóór het aangaan van het nieuwe huwelijk vindt [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=8&afdeling=1&artikel=119&z=2025-07-01&g=2025-07-01) overeenkomstige toepassing.
 
-## Titel 10. Scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed
+### Titel 10. Scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed
 
-### Afdeling 1. Scheiding van tafel en bed
+#### Afdeling 1. Scheiding van tafel en bed
 
 ##### Artikel 168
 
@@ -1341,7 +1331,7 @@ Een scheiding van tafel en bed eindigt van rechtswege door de verzoening van de 
 
 2. De inschrijving geschiedt op gemeenschappelijk verzoek van partijen.
 
-### Afdeling 2. Ontbinding van het huwelijk na scheiding van tafel en bed
+#### Afdeling 2. Ontbinding van het huwelijk na scheiding van tafel en bed
 
 ##### Artikel 179
 
@@ -1373,9 +1363,9 @@ De [artikelen 154, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&b
 
 2. De [artikelen 163, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=9&afdeling=2&artikel=163&z=2025-07-01&g=2025-07-01), en [166](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=9&afdeling=2&artikel=166&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-## Titel 11. Afstamming
+### Titel 11. Afstamming
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 197
 
@@ -1407,7 +1397,7 @@ De in deze titel gestelde termijnen kunnen door de rechter buiten toepassing wor
 
 Een ieder heeft het recht om voor zover mogelijk te weten van welke biologische ouders men afstamt.
 
-### Afdeling 2. Ontkenning van het door huwelijk ontstane vaderschap
+#### Afdeling 2. Ontkenning van het door huwelijk ontstane vaderschap
 
 ##### Artikel 200
 
@@ -1441,7 +1431,7 @@ Een ieder heeft het recht om voor zover mogelijk te weten van welke biologische 
 
 3. Door de gegrondverklaring van de ontkenning ontstaat geen vordering tot teruggave van kosten van verzorging en opvoeding of van kosten van levensonderhoud en studie noch tot teruggave van het krachtens vruchtgenot genotene. Voorts ontstaat geen verplichting tot teruggave van genoten vermogensrechtelijke voordelen, voor zover degene die hen heeft genoten ten tijde van het doen van het verzoek daardoor niet was gebaat.
 
-### Afdeling 3. Erkenning
+#### Afdeling 3. Erkenning
 
 ##### Artikel 203
 
@@ -1503,7 +1493,7 @@ Voor het geval het kind overlijdt voor de afloop van de in het vierde lid gestel
 
 3. Door de vernietiging ontstaat geen vordering tot teruggave van de kosten van verzorging en opvoeding of van levensonderhoud en studie noch tot teruggave van het krachtens vruchtgenot genotene. Voorts ontstaat geen verplichting tot teruggave van genoten vermogensrechtelijke voordelen die uit de erkenning zijn voortgevloeid, voor zover degene die hen heeft genoten ten tijde van het instellen van het verzoek daardoor niet was gebaat.
 
-### Afdeling 4. Brieven van vaderschap
+#### Afdeling 4. Brieven van vaderschap
 
 ##### Artikel 207
 
@@ -1515,7 +1505,7 @@ Voor het geval het kind overlijdt voor de afloop van de in het vierde lid gestel
 
 Over het verzoek om brieven van vaderschap wint de Minister van Justitie het advies in van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba. Dit hoort, zo mogelijk, bloedverwanten van de man en van de moeder of doet hen horen; het kan ook bevelen dat het verzoek in door hem aan te wijzen dagbladen wordt bekend gemaakt.
 
-### Afdeling 4. Brieven van vaderschap
+#### Afdeling 5. Inroeping of betwisting van staat
 
 ##### Artikel 209
 
@@ -1535,13 +1525,15 @@ Een verzoek tot gegrondverklaring van de inroeping of betwisting van staat is ni
 
 2. Indien het kind een verzoek als bedoeld in het eerste lid had ingediend, kunnen zijn erfgenamen de procedure voortzetten.
 
-### Afdeling 6. De bijzondere curator
+#### Afdeling 6. De bijzondere curator
 
 ##### Artikel 212
 
 In zaken van afstamming wordt het minderjarige kind, optredende als verzoeker of belanghebbende, vertegenwoordigd door een bijzondere curator daartoe benoemd door het gerecht in eerste aanleg dat over de zaak beslist. Ook de voogdijraad kan tot bijzondere curator worden benoemd.
 
-## Titel 12. Adoptie
+### Titel 12. Adoptie
+
+#### Afdeling 1. Adoptie in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ##### Artikel 227
 
@@ -1611,7 +1603,13 @@ In zaken van afstamming wordt het minderjarige kind, optredende als verzoeker of
 
 3. [Artikel 230](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=12&afdeling=1&artikel=230&z=2025-07-01&g=2025-07-01) vindt ten aanzien van de herroeping overeenkomstige toepassing.
 
-## Titel 12a. Interlandelijke adoptie
+#### Afdeling 2. In het Europese deel van Nederland uitgesproken adopties
+
+##### Artikel 232aa
+
+Een in het Europese deel van Nederland uitgesproken adoptie heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan de adoptie verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen.
+
+### Titel 12a. Interlandelijke adoptie
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -1619,13 +1617,13 @@ In zaken van afstamming wordt het minderjarige kind, optredende als verzoeker of
 
 In deze Titel wordt verstaan onder:
 
-- a. **het verdrag:** het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie (Trb. 1993, 197);
+- a. *het verdrag:* het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie (Trb. 1993, 197);
 
-- b. **de centrale autoriteit van de staat van herkomst:** de in de staat van herkomst van het kind aangewezen centrale autoriteit dan wel de overheidsinstantie, de vergunninghoudende instelling of andere persoon of instelling aan wie in die staat bepaalde taken van de centrale autoriteit zijn opgedragen;
+- b. *de centrale autoriteit van de staat van herkomst:* de in de staat van herkomst van het kind aangewezen centrale autoriteit dan wel de overheidsinstantie, de vergunninghoudende instelling of andere persoon of instelling aan wie in die staat bepaalde taken van de centrale autoriteit zijn opgedragen;
 
-- c. **adoptie:** een interlandelijke adoptie op verzoek van de in [artikel 1:227, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=12&afdeling=1&artikel=227&z=2025-07-01&g=2025-07-01), van het Burgerlijk Wetboek BES genoemde personen;
+- c. *adoptie:* een interlandelijke adoptie op verzoek van de in [artikel 1:227, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=12&afdeling=1&artikel=227&z=2025-07-01&g=2025-07-01), van het Burgerlijk Wetboek BES genoemde personen;
 
-- d. **Onze Minister:** de Minister van Justitie.
+- d. *Onze Minister:* de Minister van Justitie.
 
 ### Hoofdstuk 2. Taak en bevoegdheden van de centrale autoriteit en de vergunninghoudende instelling
 
@@ -1649,7 +1647,7 @@ In deze Titel wordt verstaan onder:
 
 2. De voogdijraadtreedt, onder door Onze Minister nader te bepalen voorwaarden, op alsvergunninghoudende instelling in de zin van het verdrag en als vergunninghouder in de zin van de [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447).
 
-### Hoofdstuk 1. Algemene bepalingen
+### Hoofdstuk 3. Procedure in geval van interlandelijke adoptie door personen die hun gewone verblijfplaats in een openbaar lichaam hebben
 
 ##### Artikel 232e
 
@@ -1711,7 +1709,7 @@ De verklaring, bedoeld in artikel 23 van het verdrag, wordt op verzoek afgegeven
 
 - d. door de centrale autoriteit bescheiden zijn ontvangen waaruit blijkt dat overeenkomstig artikel 5 van het verdrag door de bevoegde autoriteiten van de staat van opvang is vastgesteld dat de aspirant-adoptiefouders aan de vereisten van adoptie voldoen en daartoe geschikt zijn en dat het kind vergunning heeft of zal verkrijgen de staat van opvang binnen te komen en een permanent verblijfsrecht in de staat van opvang heeft of zal verkrijgen.
 
-### Hoofdstuk 5. Toepassing [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
+### Hoofdstuk 5. Toepassing Wet opneming buitenlandse kinderen ter adoptie
 
 ##### Artikel 232n
 
@@ -1735,9 +1733,9 @@ De verklaring, bedoeld in artikel 23 van het verdrag, wordt op verzoek afgegeven
 
 Deze Titel is eveneens van toepassing op interlandelijke adopties die niet door het verdrag worden beheerst. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitvoering of toepassing van deze Titel.
 
-## Titel 13. Minderjarigheid
+### Titel 13. Minderjarigheid
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 233
 
@@ -1751,7 +1749,7 @@ Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt e
 
 3. De toestemming wordt aan de minderjarige verondersteld te zijn verleend, indien het een rechtshandeling betreft ten aanzien waarvan in het maatschappelijk verkeer gebruikelijk is dat minderjarigen van zijn leeftijd deze zelfstandig verrichten.
 
-### Afdeling 2. Handlichting
+#### Afdeling 2. Handlichting
 
 ##### Artikel 235
 
@@ -1777,7 +1775,7 @@ Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt e
 
 2. In de bekendmaking moet nauwkeurig worden vermeld hoedanig, en tot welk einde zij is verleend. Vóór de bekendmaking werkt zomin de handlichting als haar intrekking tegen derden die hiervan onkundig waren.
 
-### Afdeling 3. Voogdijraden
+#### Afdeling 3. Voogdijraden
 
 ##### Artikel 238
 
@@ -1789,7 +1787,7 @@ Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt e
 
 ##### Artikel 239
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 240
 
@@ -1815,15 +1813,15 @@ De voogdijraad stelt zich op de hoogte van alle gevallen, waarin maatregelen met
 
 3. Alle stukken en exploiten, die van de voogdijraad uitgaan, zijn vrij van zegel en worden, voor zover hun registratie vereist is, gratis geregistreerd.
 
-### Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
+#### Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
 
 ##### Artikel 244
 
 Bij elke zittingsplaats van het gerecht in eerste aanleg berusten openbare registers, waarin aantekening gehouden wordt van rechtsfeiten die op het over minderjarigen uitgeoefende gezag betrekking hebben. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden en op welke wijze deze aantekening geschiedt.
 
-## Titel 14. Het gezag over minderjarige kinderen
+### Titel 14. Het gezag over minderjarige kinderen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 245
 
@@ -1859,7 +1857,7 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 Wanneer in aangelegenheden betreffende diens verzorging en opvoeding, dan wel het vermogen van de minderjarige, de belangen van de met het gezag belaste ouders of een van hen dan wel van de voogd in strijd zijn met die van de minderjarige, benoemt de rechter in eerste aanleg indien hij dit in het belang van de minderjarige noodzakelijk acht, daarbij in het bijzonder de aard van deze belangenstrijd in aanmerking genomen, op verzoek van een belanghebbende of ambtshalve een bijzondere curator om de minderjarige ter zake, zowel in als buiten rechte, te vertegenwoordigen.
 
-### Afdeling 2. Ouderlijk gezag
+#### Afdeling 2. Ouderlijk gezag
 
 #### § 1. Het gezamenlijk gezag van ouders binnen en buiten huwelijk en het gezag van één ouder na scheiding
 
@@ -2019,7 +2017,7 @@ Op het bewind van de ouders of een ouder zijn de [artikelen 342, tweede lid](htt
 
 De ouder heeft geen vruchtgenot van het vermogen, ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat de ouders daarvan het vruchtgenot niet zullen hebben.
 
-### Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door de ouders en de gezagsuitoefening door één van hen
+#### Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door de ouders en de gezagsuitoefening door één van hen
 
 ##### Artikel 253n
 
@@ -2073,7 +2071,7 @@ De ouder heeft geen vruchtgenot van het vermogen, ten aanzien waarvan bij uiters
 
 3. In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechter te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek of vordering tot ondertoezichtstelling van het kind, dan wel tot ontheffing of ontzetting van een of beide ouders aanhangig gemaakt, dan blijft de beschikking gelden totdat op het verzoek of de vordering bij gewijsde is beslist.
 
-### Afdeling 4. Ondertoezichtstelling van kinderen
+#### Afdeling 4. Ondertoezichtstelling van kinderen
 
 ##### Artikel 254
 
@@ -2163,7 +2161,7 @@ De rechter in eerste aanleg kan te allen tijde bevelen het kind tot onderzoek va
 
 Bij algemene maatregel van bestuur worden voorschriften gegeven ten aanzien van alles wat in verband met de uitvoering van de voorschriften van deze afdeling nog nadere voorziening behoeft.
 
-### Afdeling 5. Ontheffing en ontzetting van het ouderlijk gezag
+#### Afdeling 5. Ontheffing en ontzetting van het ouderlijk gezag
 
 ##### Artikel 266
 
@@ -2199,11 +2197,11 @@ Mits het belang van het kind zich daar niet tegen verzet, kan de rechter in eers
 
 - c. onherroepelijke veroordeling:
 
-- 1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;
+   - 1° wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;
 
-- 2°. wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIII) en [XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIX);
+   - 2° wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIII) en [XVIII tot en met XX van Boek 2 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIX);
 
-- 3°. tot een vrijheidsstraf van twee jaar of langer;
+   - 3° tot een vrijheidsstraf van twee jaar of langer;
 
 - d. het in ernstige mate veronachtzamen van de aanwijzingen van de gezinsvoogd of belemmeren van een krachtens de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=4&artikel=262&z=2025-07-01&g=2025-07-01) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=4&artikel=263&z=2025-07-01&g=2025-07-01) bevolen opneming;
 
@@ -2277,7 +2275,7 @@ De kosten die de voogdijraad maakt ten behoeve van het hem toevertrouwde kind, k
 
 2. Hangende het onderzoek kan zowel de voogdijraad als de te herstellen ouder de rechter verzoeken de beslissing aan te houden tot het einde van een door hem te bepalen proeftijd van ten hoogste zes maanden; gedurende die tijd zal het kind bij de in het gezag te herstellen ouder verblijven. De rechter is te allen tijde bevoegd de proeftijd te beëindigen.
 
-### Afdeling 6. Voogdij
+#### Afdeling 6. Voogdij
 
 #### § 1. Voogdij in het algemeen
 
@@ -2321,7 +2319,7 @@ De door de ouder getroffen regeling heeft geen gevolg of vervalt:
 
 - b. indien en voor zover hij op het tijdstip van zijn overlijden het gezag over zijn kinderen niet meer uitoefende.
 
-#### § 1. Voogdij in het algemeen
+#### § 3. Voogdij door de rechter opgedragen
 
 ##### Artikel 295
 
@@ -2427,7 +2425,7 @@ De rechter in eerste aanleg benoemt de voogd op verzoek van bloed- of aanverwant
 
 2. De rechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.
 
-#### § 4. Voogdij van rechtspersonen
+#### § 5. Ontslag van de voogdij
 
 ##### Artikel 322
 
@@ -2449,7 +2447,7 @@ Iedere voogd kan zich van zijn bediening doen ontslaan, indien:
 
 ##### Artikel 325
 
-Vervallen
+*Vervallen*
 
 #### § 7. Ondertoezichtstelling van onder voogdij staande minderjarigen
 
@@ -2481,17 +2479,19 @@ Vervallen
 
 - f. onherroepelijke veroordeling:
 
-- 1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;
+   - 1° wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;
 
-- 2°. wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de [titels XIII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIII) en [XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIX);
+   - 2° wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de [titels XIII tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIII) en [XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIX);
 
-- 3°. tot een vrijheidsstraf van twee jaar of langer;
+   - 3° tot een vrijheidsstraf van twee jaar of langer;
 
 - g. het in ernstige mate veronachtzamen van de aanwijzingen van de gezinsvoogd of belemmering van een krachtens de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=4&artikel=262&z=2025-07-01&g=2025-07-01) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=4&artikel=263&z=2025-07-01&g=2025-07-01) bevolen opneming;
 
 - h. het bestaan van gegronde vrees voor verwaarlozing van de belangen van een onder zijn gezag staande minderjarige, doordat hij de minderjarige terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen;
 
 - i. de omstandigheid dat hij niet beschikt over de ingevolge [artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=2) vereiste beginseltoestemming.
+
+Gronden voor ontzetting
 
 2. Onder misdrijf wordt in het eerste lid begrepen medeplichtigheid aan en poging tot misdrijf.
 
@@ -2573,7 +2573,7 @@ De voogd draagt zorg dat de minderjarige overeenkomstig diens vermogen wordt ver
 
 ##### Artikel 339
 
-1. Wanneer de goederen van de minderjarigen een waarde van USD 14000,– niet te boven gaan, kan de voogd een door hem ondertekende, volgens een door de Minister van Justitie vastgesteld model opgemaakte, verklaring daaromtrent in plaats van de boedelbeschrijving inleveren. De voogd van twee of meer kinderen van dezelfde ouders kan met een zodanige verklaring slechts volstaan, wanneer bovendien de goederen der minderjarigen tezamen een waarde van USD 28000,– niet te boven gaan.
+1. Wanneer de goederen van de minderjarigen een waarde van USD 14000,– niet te boven gaan, kan de voogd een door hem ondertekende, volgens een door de Minister van Justitie vastgesteld model opgemaakte, verklaring daaromtrent in plaats van de boedelbeschrijving inleveren. De voogd van twee of meer kinderen van dezelfde ouders kan met een zodanige verklaring slechts volstaan, wanneer bovendien de goederen der minderjarigen tezamen een waarde van USD 28000,– niet te boven gaan.
 
 2. De rechter in eerste aanleg kan te allen tijde bepalen dat alsnog een beschrijving van het vermogen van de minderjarige, zoals dit op de datum van zijn beschikking is samengesteld, met overeenkomstige toepassing van [artikel 338](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=16&artikel=388&z=2025-07-01&g=2025-07-01) moet worden opgemaakt en ingeleverd.
 
@@ -2773,7 +2773,7 @@ Insgelijks kan de rechter in eerste aanleg de voogdijraad ervan in kennis stelle
 
 ##### Artikel 367
 
-De voogdijraad die van de rechter in eerste aanleg zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechter de vraag of ontzetting van de voogd op grond van [artikel 327, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-01&g=2025-07-01), moet volgen.
+De voogdijraad die van de rechter in eerste aanleg zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechter de vraag of ontzetting van de voogd op grond van [artikel 327, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=327&z=2025-07-01&g=2025-07-01), moet volgen.
 
 ##### Artikel 369
 
@@ -2843,7 +2843,7 @@ Wat de minderjarige aan de voogd schuldig blijft, draagt geen rente, zolang hij 
 
 Elke rechtsvordering op grond van het gevoerde voogdijbewind – zowel van de zijde van de minderjarige als van die van de voogd – verjaart door verloop van vijf jaren na de dag waarop de voogdij van laatstgenoemde is geëindigd.
 
-## Titel 15. Omgang, informatie en raadpleging
+### Titel 15. Omgang, informatie en raadpleging
 
 ##### Artikel 377a
 
@@ -2901,25 +2901,25 @@ De rechter kan, indien hem blijkt dat de minderjarige van twaalf jaar of ouder h
 
 2. De [artikelen 377e](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377e&z=2025-07-01&g=2025-07-01) en [377g](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377g&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-## Titel 15a. De centrale autoriteit en burgerrechtelijke aspecten van internationale kinderontvoering
+### Titel 15a. De centrale autoriteit en burgerrechtelijke aspecten van internationale kinderontvoering
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 377i
 
 In deze Titel wordt verstaan onder
 
-- a. het Europese verdrag: het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10);
+- a. het Europese verdrag: het op 20 mei 1980 te Luxemburg tot stand gekomen Europese Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10);
 
-- b. het Haagse verdrag: het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139);
+- b. het Haagse verdrag: het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139);
 
-- c. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in artikel 3 in verband met artikel 5 onder a van het Haagse verdrag;
+- c. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in artikel 3 in verband met artikel 5 onder a van het Haagse verdrag;
 
 - d. Gerecht in eerste aanleg: het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 377j
 
-Deze wet regelt de incorporatie van de in [artikel 377i](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=1&artikel=377i&z=2025-07-01&g=2025-07-01) vermelde verdragen en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
+Deze wet regelt de incorporatie van de in [artikel 377i](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=1&artikel=377i&z=2025-07-01&g=2025-07-01) vermelde verdragen en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
 
 ##### Artikel 377k
 
@@ -2927,11 +2927,11 @@ Deze wet regelt de incorporatie van de in [artikel 377i](https://wetten.overheid
 
 2. Bereikt een kind ten aanzien waarvan een verzoek om teruggeleiding in behandeling is de leeftijd van zestien jaren, dan wordt de behandeling van dat verzoek ambtshalve gestaakt. Hetzelfde geldt voor maatregelen ter uitvoering van een beslissing op een verzoek.
 
-### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
+#### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
 
 ##### Artikel 377l
 
-1. Onze Minister van Justitie wijst bij in de Staatscourant openbaar te maken besluit de onder zijn ministerie ressorterende dienst, diensten of vertegenwoordigers op de openbare lichamen Bonaire, Sint Eustatius en Saba aan, die aldaar wordt of worden belast met de taak van centrale autoriteit, bedoeld in artikel 2 van het Europese verdrag en in artikel 6 van het Haagse verdrag. Deze autoriteit is als zodanig tevens belast met de behandeling van verzoeken in gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
+1. Onze Minister van Justitie wijst bij in de Staatscourant openbaar te maken besluit de onder zijn ministerie ressorterende dienst, diensten of vertegenwoordigers op de openbare lichamen Bonaire, Sint Eustatius en Saba aan, die aldaar wordt of worden belast met de taak van centrale autoriteit, bedoeld in artikel 2 van het Europese verdrag en in artikel 6 van het Haagse verdrag. Deze autoriteit is als zodanig tevens belast met de behandeling van verzoeken in gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
 
 2. De aanwijzing van de centrale autoriteit als bedoeld in het eerste lid staat er niet aan in de weg dat een persoon zich rechtstreeks tot de rechter of andere autoriteiten wendt om de erkenning van het wettig gezag over een ontvoerd kind, het herstel van dat gezag en de teruggeleiding van dat kind te bereiken, of de vaststelling of wijziging van een omgangsregeling te verkrijgen.
 
@@ -2969,7 +2969,7 @@ De gezaghebber en de ambtenaren van de burgerlijke stand verschaffen de centrale
 
 2. De centrale autoriteit kan de in het vorige lid bedoelde mededeling achterwege laten, indien naar haar oordeel in verband met de omstandigheden van het geval de uiterste spoed geboden is of de vrijwillige medewerking van degene bij wie het kind verblijft niet is te verwachten.
 
-### Afdeling 3. Rechtspleging in verband met internationale ontvoering van kinderen en het omgangsrecht
+#### Afdeling 3. Rechtspleging in verband met internationale ontvoering van kinderen en het omgangsrecht
 
 ##### Artikel 377s
 
@@ -2985,9 +2985,9 @@ De in [artikel 377s](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&tite
 
 1. De gedwongen afgifte van een internationaal ontvoerd kind aan degene aan wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens van een openbaar lichaam is slechts mogelijk op grond van een daartoe strekkend bevel van de rechter.
 
-2. De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld. De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in [artikel 802 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=802) is van toepassing.
+2. De rechter behandelt het verzoek bij voorrang. Het verzoek wordt met gesloten deuren behandeld. De rechter beslist niet dan na het kind in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, althans na het daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind onmogelijk is of toepassing moet worden gegeven aan artikel 8 of 9 van het Europese verdrag. Het bepaalde in [artikel 802 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=802) is van toepassing.
 
-3. In de gevallen waarin geen verdrag toepasselijk is kan de rechter het verzoek afwijzen op de gronden vermeld in de artikelen 12, tweede lid, 13 en 20 van het Haagse verdrag.
+3. In de gevallen waarin geen verdrag toepasselijk is kan de rechter het verzoek afwijzen op de gronden vermeld in de artikelen 12, tweede lid, 13 en 20 van het Haagse verdrag.
 
 4. De rechter kan op verzoek of ambtshalve de voogdijraad belasten met de voorlopige toevertrouwing over het kind, indien gevaar bestaat dat het wordt onttrokken aan de tenuitvoerlegging van een bevel als bedoeld in het vijfde lid. De beschikking verliest haar kracht van rechtswege als het verzoek wordt afgewezen. De [zesde afdeling van titel veertien](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&z=2025-07-01&g=2025-07-01) van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=13&afdeling=3&artikel=241&z=2025-07-01&g=2025-07-01), [271](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=271&z=2025-07-01&g=2025-07-01), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=272&z=2025-07-01&g=2025-07-01), [331](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-01&g=2025-07-01) en [332](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=332&z=2025-07-01&g=2025-07-01) van dit Boek.
 
@@ -3025,7 +3025,173 @@ De rechter die moet beslissen met betrekking tot het gezag over een kind ten aan
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitvoering of toepassing van deze Titel.
 
-## Titel 15b. Ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
+### Titel 15b. Ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
+
+#### Afdeling 1. Algemene bepalingen
+
+##### Artikel 377aa
+
+In deze Titel wordt verstaan onder:
+
+- a. *het verdrag:* het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen (Trb. 1997, 299);
+
+- b. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
+
+- c. *Gerecht in eerste aanleg:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 377bb
+
+De afdelingen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=2&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=4&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=7&z=2025-07-01&g=2025-07-01) zijn mede van toepassing op internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die niet door het verdrag worden beheerst.
+
+##### Artikel 377cc
+
+1. Onverminderd het bepaalde in artikel 4 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139) en [artikel 377j](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=1&artikel=377j&z=2025-07-01&g=2025-07-01) van dit Boek, is deze wet van toepassing op kinderen die de leeftijd van achttien jaren nog niet hebben bereikt.
+
+2. Bereikt een kind ten aanzien waarvan een verzoek op grond van het verdrag of van deze wet in behandeling is, de leeftijd van achttien jaren, dan wordt de behandeling van dat verzoek ambtshalve gestaakt. Hetzelfde geldt voor maatregelen ter uitvoering van een beslissing op een verzoek.
+
+#### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
+
+##### Artikel 377dd
+
+1. Onze Minister wordt voor de openbare lichamen aangewezen als centrale autoriteit, bedoeld in artikel 29 van het verdrag. Bij in de Staatscourant openbaar te maken besluit wijst hij de onder zijn ministerie ressorterende dienst, diensten of vertegenwoordigers op de openbare lichamen Bonaire, Sint Eustatius en Saba aan, die aldaar wordt of worden belast met de taak van centrale autoriteit.
+
+2. De centrale autoriteit is belast met de in hoofdstuk V van het verdrag omschreven taken van de centrale autoriteit. Deze centrale autoriteit is als zodanig tevens belast met de behandeling van verzoeken om tussenkomst in internationale kwesties betreffende ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, wanneer deze niet door het verdrag worden beheerst. Bij de behandeling van deze verzoeken worden de bepalingen van hoofdstuk V van het verdrag zoveel mogelijk in acht genomen.
+
+3. In het bijzonder neemt de centrale autoriteit alle passende maatregelen om te bevorderen dat in de omstandigheden waarin het verdrag of deze wet van toepassing is, minnelijke schikkingen tot stand komen met betrekking tot de bescherming van de persoon of het vermogen van het kind.
+
+4. De aanwijzing van de centrale autoriteit staat er niet aan in de weg dat een persoon zich rechtstreeks tot de rechter of andere autoriteiten wendt om de erkenning van de ouderlijke verantwoordelijkheid over een kind, het herstel van die verantwoordelijkheid over een kind te bereiken, of de vaststelling of wijziging van een beslissing inzake ouderlijke verantwoordelijkheid dan wel een maatregel ter bescherming van een kind te verkrijgen.
+
+##### Artikel 377ee
+
+1. De centrale autoriteit is bevoegd, zo nodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.
+
+2. Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.
+
+##### Artikel 377ff
+
+De centrale autoriteit kan de uitvoering van bepaalde handelingen overeenkomstig door haar te geven aanwijzingen opdragen aan de voogdijraad. De bepalingen van dit hoofdstuk zijn mede van toepassing ten aanzien van de voogdijraad.
+
+##### Artikel 377gg
+
+De gezaghebber en de ambtenaren van de burgerlijke stand verschaffen de centrale autoriteit kosteloos alle inlichtingen en verstrekken haar kosteloos en vrij van zegel alle afschriften en uittreksels uit hun registers die deze autoriteit van hen vraagt in verband met de uitvoering van haar taak.
+
+##### Artikel 377hh
+
+1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in een openbaar lichaam medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie.
+
+2. De officier van justitie behandelt een verzoek om medewerking van de centrale autoriteit met voorrang.
+
+3. De ambtenaar, aangesteld voor de uitvoering van de politietaak, die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind, mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van die taak nodig is.
+
+#### Afdeling 3. Procedure in geval van plaatsing van een kind vanuit een openbaar lichaam in een andere staat en in geval van plaatsing van een kind vanuit een andere staat in een openbaar lichaam
+
+##### Artikel 377ii
+
+1. De beslissing tot plaatsing van, of tot verstrekking van zorg aan een uit een openbaar lichaam afkomstig kind in een pleeggezin of in een instelling in een andere staat ingevolge artikel 33 van het verdrag wordt genomen door de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=2&artikel=377dd&z=2025-07-01&g=2025-07-01), van dit Boek.
+
+2. De centrale autoriteit zendt een gemotiveerd verzoek, vergezeld van een rapport betreffende het kind, toe aan de centrale autoriteit dan wel de andere bevoegde autoriteit van de staat waar de plaatsing of de verstrekking van zorg dient plaats te vinden. Zij treedt met deze autoriteit in overleg.
+
+3. De in het eerste lid bedoelde beslissing wordt eerst genomen nadat de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377d&z=2025-07-01&g=2025-07-01), van dit Boek de volgende bescheiden heeft ontvangen:
+
+- a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming blijkt;
+
+- b. indien gewenst, een door de centrale autoriteit of de andere bevoegde autoriteit in het land van plaatsing opgesteld rapport waaruit de geschiktheid van de pleegouder tot het verstrekken van pleegzorg aan het kind blijkt;
+
+- c. de instemming, bedoeld in artikel 33, tweede lid, van het verdrag;
+
+- d. indien toepasselijk, bescheiden waaruit blijkt dat het kind toestemming heeft of zal verkrijgen om de staat waar de plaatsing of de verstrekking van zorg zal plaatsvinden, binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht in die staat heeft of zal verkrijgen.
+
+##### Artikel 377jj
+
+1. In geval van plaatsing van een kind vanuit een andere staat in een openbaar lichaam of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in een openbaar lichaam ingevolge artikel 33 van het verdrag dient de instemming, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377d&z=2025-07-01&g=2025-07-01), van dit Boek.
+
+2. De instemming, bedoeld in het eerste lid, wordt pas gegeven nadat de centrale autoriteit van de bevoegde autoriteit van de staat van herkomst van het kind een gemotiveerd verzoek heeft ontvangen, vergezeld van een rapport betreffende het kind, en nadat zij de volgende bescheiden heeft ontvangen, welke bescheiden zij toezendt aan de bevoegde autoriteit van het land van herkomst van het kind:
+
+- a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming blijkt;
+
+- b. indien gewenst, een rapport waaruit de geschiktheid van de pleegouder tot het verstrekken van pleegzorg aan het kind blijkt;
+
+- c. indien van toepassing, bescheiden waaruit blijkt dat het kind toestemming heeft of zal verkrijgen om Bonaire, Sint Eustatius of Saba binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht heeft of zal verkrijgen.
+
+##### Artikel 377kk
+
+1. Indien de voorschriften van [artikel 377jj](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=3&artikel=377jj&z=2025-07-01&g=2025-07-01) van dit Boek niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de rechter verzoeken de voogdijraad te belasten met de voorlopige toevertrouwing over het kind. Dit verzoek kan ook worden gedaan door de voogdijraad. Tenzij de rechter een langere termijn van verval van de voorlopige toevertrouwing heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter om een voorziening in het gezag over de minderjarige te verkrijgen.
+
+2. De [zesde afdeling van titel veertien](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&z=2025-07-01&g=2025-07-01) van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=13&afdeling=3&artikel=241&z=2025-07-01&g=2025-07-01), [271](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=271&z=2025-07-01&g=2025-07-01), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=272&z=2025-07-01&g=2025-07-01), [331](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-01&g=2025-07-01) en [332](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=332&z=2025-07-01&g=2025-07-01) van dit Boek. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=813) is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
+
+3. De voorlopige toevertrouwing eindigt, behoudens eerdere opheffing, op het tijdstip waarop hetzij de voogdij over het kind, dan wel diens plaatsing bij andere personen of een andere instelling, een aanvang neemt, of zijn terugkeer naar het land van herkomst is geregeld.
+
+4. De kosten die de voogdijraad of, in voorkomend geval, de gezinsvoogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met [artikel 377jj](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=3&artikel=377jj&z=2025-07-01&g=2025-07-01) van dit Boek is geplaatst.
+
+#### Afdeling 4. Rechtspleging ter zake van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
+
+##### Artikel 377ll
+
+Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455). Onverminderd de bevoegdheid van de rechter in kort geding, is het Gerecht in eerste aanleg bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.
+
+##### Artikel 377mm
+
+De zaken tot kennisneming waarvan het Gerecht in eerste aanleg op grond van [artikel 377ll](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=4&artikel=377ll&z=2025-07-01&g=2025-07-01) van dit Boek bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat.
+
+##### Artikel 377nn
+
+[Artikel 377v](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=3&artikel=377v&z=2025-07-01&g=2025-07-01) van dit Boek is van overeenkomstige toepassing in gevallen die door het verdrag of deze Titel worden bestreken.
+
+#### Afdeling 5. Erkenning, niet-erkenning en tenuitvoerlegging van beslissingen op grond van het verdrag
+
+##### Artikel 377oo
+
+1. De voorzieningenrechter van het Gerecht in eerste aanleg is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=985) niet van toepassing.
+
+2. Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat.
+
+##### Artikel 377pp
+
+1. De voorzieningenrechter bij wie een verzoek als bedoeld in [artikel 377oo](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01) van dit Boek, eerste lid, is ingediend, doet daarover onverwijld uitspraak.
+
+2. Het verlof tot tenuitvoerlegging is uitvoerbaar bij voorraad.
+
+##### Artikel 377qq
+
+1. Het Gerecht in eerste aanleg neemt kennis van het hoger beroep van een beschikking als bedoeld in [artikel 377pp, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377pp&z=2025-07-01&g=2025-07-01), van dit Boek. Alleen de partijen kunnen hoger beroep tegen de beschikking instellen.
+
+2. Het hoger beroep tegen een beschikking waarbij een verzoek als bedoeld in [artikel 377oo, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01), van dit Boek is ingewilligd, moet worden ingesteld binnen een maand na de betekening van de beschikking. Indien de partij tegen wie tenuitvoerlegging wordt gevraagd, haar gewone verblijfplaats heeft in het buitenland, bedraagt de termijn voor het instellen van hoger beroep twee maanden, te rekenen vanaf de datum van de betekening aan deze partij in persoon of aan zijn adres. De termijn kan niet op grond van de afstand worden verlengd.
+
+3. Indien hoger beroep wordt ingesteld door de verzoeker en is gericht tegen de weigering om een verzoek als bedoeld in [artikel 377oo, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01), van dit Boek in te willigen, wordt het ingesteld binnen een maand na de dagtekening van de beschikking.
+
+4. Het Gerecht in eerste aanleg doet onverwijld uitspraak in hoger beroep.
+
+5. Tegen de in hoger beroep gegeven beschikking kan slechts beroep in cassatie worden ingesteld.
+
+6. Het Gerecht in eerste aanleg in hoger beroep, onderscheidenlijk de Hoge Raad als beroep in cassatie is ingesteld, kan op verzoek van de partij tegen wie tenuitvoerlegging wordt gevraagd, zijn uitspraak aanhouden indien in de staat van herkomst van de beslissing een gewoon rechtsmiddel is ingesteld of de termijn daartoe nog niet is verstreken. In dit laatste geval kan het Gerecht, onderscheidenlijk de Hoge Raad, een termijn vaststellen binnen welke het rechtsmiddel moet worden ingesteld.
+
+7. Indien in de beslissing uitspraak is gedaan over meer dan een onderdeel van het verzoek en de tenuitvoerlegging niet voor het geheel kan worden toegestaan, wordt de tenuitvoerlegging voor één of meer van die onderdelen toegestaan.
+
+#### Afdeling 6. Internationale samenwerking van gerechten
+
+##### Artikel 377rr
+
+1. Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba kiest uit zijn leden een of meer rechters, die voor de openbare lichamen in het bijzonder belast zijn met het faciliteren van contacten, over en weer, met rechters in het buitenland over aanhangige procedures inzake internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen.
+
+2. Indien een rechter in verband met een procedure in het eerste lid een rechter in het buitenland wenst te consulteren, kan hij gebruik maken van de tussenkomst van de in het eerste lid bedoelde rechter.
+
+3. De in het tweede lid bedoelde tussenkomst wordt ook verleend aan een rechter in het buitenland die in verband met een bij hem aanhangige procedure als bedoeld in het eerste lid een rechter van het Gerecht in eerste aanleg of van het Gemeenschappelijk Hof wenst te consulteren.
+
+4. Indien in verband met een consultatie als bedoeld in het tweede of het derde lid stukken dienen te worden vertaald of indien daarvoor de bijstand van een tolk nodig is, draagt de in het eerste lid bedoelde rechter hiervoor zorg.
+
+5. Voordat een consultatie als bedoeld in het tweede lid plaatsvindt, stelt de rechter bij wie de procedure aanhangig is, de partijen hiervan in kennis. Nadat de consultatie heeft plaatsgevonden, doet hij partijen verslag van de consultatie.
+
+6. De overdracht van verzoeken als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=2&artikel=8&z=2025-07-01&g=2025-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=2&artikel=9&z=2025-07-01&g=2025-07-01) van het verdrag geschiedt door tussenkomst van de in het eerste lid bedoelde rechter. De rechter die een verzoek heeft overgedragen, stelt partijen hiervan in kennis.
+
+#### Afdeling 7. Verklaring inzake ouderlijke verantwoordelijkheid
+
+##### Artikel 377ss
+
+1. Tot de afgifte van een verklaring als bedoeld in artikel 40 van het verdrag is bevoegd de notaris.
+
+2. De verklaring wordt afgegeven op een door Onze Minister vastgesteld formulier.
+
+### Titel 16. Curatele
 
 ##### Artikel 378
 
@@ -3037,11 +3203,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 - c. wegens gewoonte van drankmisbruik dan wel gewoonte van misbruik van verdovende of stimulerende middelen, waardoor hij:
 
-- 1°. zijn belangen niet behoorlijk waarneemt,
+   - 1° zijn belangen niet behoorlijk waarneemt,
 
-- 2°. in het openbaar herhaaldelijk aanstoot geeft, of
+   - 2° in het openbaar herhaaldelijk aanstoot geeft, of
 
-- 3°. de eigen veiligheid of die van anderen in gevaar brengt.
+   - 3° de eigen veiligheid of die van anderen in gevaar brengt.
 
 2. Indien te verwachten is dat ten aanzien van een minderjarige op het tijdstip waarop hij meerderjarig zal worden, van een der in het eerste lid genoemde gronden voor curatele sprake zal zijn, kan de curatele reeds voor de meerderjarigheid worden uitgesproken.
 
@@ -3149,9 +3315,9 @@ Het verzoek tot vastzetting kan aan de rechter in eerste aanleg worden gedaan do
 
 Ter griffie van de rechtbank Den Haag berusten openbare registers, waarin aantekening wordt gehouden van rechtsfeiten die betrekking hebben op curatele. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden en op welke wijze deze aantekening geschiedt.
 
-## Titel 17. Levensonderhoud
+### Titel 17. Levensonderhoud
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 392
 
@@ -3213,7 +3379,7 @@ Een stiefouder is, onverminderd [artikel 395a](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 399
 
-De rechter kan de verplichting van bloed- en aanverwanten tot levensonderhoud matigen op grond van zodanige gedragingen van de tot onderhoud gerechtigde dat verstrekking van levensonderhoud naar redelijkheid niet of niet ten volle kan worden gevergd; onverminderd hetgeen in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=17&afdeling=2&z=2025-07-01&g=2025-07-01) is bepaald omtrent de voorziening in de kosten van de verzorging en opvoeding van minderjarige kinderen en stiefkinderen.
+De rechter kan de verplichting van bloed- en aanverwanten tot levensonderhoud matigen op grond van zodanige gedragingen van de tot onderhoud gerechtigde dat verstrekking van levensonderhoud naar redelijkheid niet of niet ten volle kan worden gevergd; onverminderd hetgeen in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=17&afdeling=2&z=2025-07-01&g=2025-07-01) is bepaald omtrent de voorziening in de kosten van de verzorging en opvoeding van minderjarige kinderen en stiefkinderen.
 
 ##### Artikel 400
 
@@ -3261,7 +3427,7 @@ De rechter kan de verplichting van bloed- en aanverwanten tot levensonderhoud ma
 
 Geen uitkering is verschuldigd over de tijd die op het tijdstip van het indienen van het verzoek reeds meer dan vijf jaren is verstreken.
 
-### Afdeling 7. Verklaring inzake ouderlijke verantwoordelijkheid
+#### Afdeling 2. Voorziening in de kosten van verzorging en opvoeding van minderjarige kinderen en stiefkinderen
 
 ##### Artikel 404
 
@@ -3309,7 +3475,7 @@ Een op [artikel 394](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&tite
 
 Een periodieke uitkering of som ineens tot voorziening in de kosten van verzorging en opvoeding waarvan het bedrag door de rechter is bepaald, moet ten behoeve van het kind aan de voogdijraad worden betaald.
 
-### Afdeling 3. Kosten van bevalling
+#### Afdeling 3. Kosten van bevalling
 
 ##### Artikel 408a
 
@@ -3319,15 +3485,15 @@ Een periodieke uitkering of som ineens tot voorziening in de kosten van verzorgi
 
 3. Het vorderingsrecht vervalt na verloop van een jaar, te rekenen van de dag der bevalling.
 
-### Afdeling 4. Uitkering tot levensonderhoud na beëindiging van een langdurige buitenhuwelijkse samenleving anders dan door de dood
+#### Afdeling 4. Uitkering tot levensonderhoud na beëindiging van een langdurige buitenhuwelijkse samenleving anders dan door de dood
 
 ##### Artikel 408b
 
 Hebben twee personen langdurig samengeleefd als waren zij gehuwd en is aan deze samenleving anders dan door de dood een einde gekomen, dan kan de rechter, indien dat redelijk is, aan een van hen op diens verzoek ten laste van de ander een uitkering tot levensonderhoud toekennen. Het bepaalde omtrent een uitkering tot levensonderhoud aan een gewezen echtgenoot is van overeenkomstige toepassing.
 
-## Titel 18. Afwezigheid, vermissing en vaststelling van overlijden in bepaalde gevallen
+### Titel 18. Afwezigheid, vermissing en vaststelling van overlijden in bepaalde gevallen
 
-### Afdeling 1. Onderbewindstelling in geval van afwezigheid
+#### Afdeling 1. Onderbewindstelling in geval van afwezigheid
 
 ##### Artikel 409
 
@@ -3357,7 +3523,7 @@ Het bewind eindigt:
 
 - c. wanneer de dood van de rechthebbende komt vast te staan.
 
-### Afdeling 2. Personen wier bestaan onzeker is
+#### Afdeling 2. Personen wier bestaan onzeker is
 
 ##### Artikel 412
 
@@ -3447,7 +3613,7 @@ Hetgeen in de [artikelen 418 tot en met 420](https://wetten.overheid.nl/jci1.3:c
 
 3. Iedere verbintenis tot teruggave vervalt wanneer twintig jaar na de dag waarop de akte is opgemaakt, zijn verlopen.
 
-### Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
+#### Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
 
 ##### Artikel 426
 
@@ -3485,7 +3651,7 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 De akten, opgemaakt volgens [artikel 429](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=18&afdeling=3&artikel=429&z=2025-07-01&g=2025-07-01), gelden als akten van overlijden in de zin van [artikel 19f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=4&afdeling=4&artikel=19f&z=2025-07-01&g=2025-07-01).
 
-## Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
+### Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
 ##### Artikel 431
 
@@ -3659,7 +3825,7 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 2. De rechter in eerste aanleg kan, indien de oorzaken die tot de onderbewindstelling aanleiding hebben gegeven, niet meer bestaan, het bewind opheffen op verzoek van de rechthebbende of op vordering van het Openbaar Ministerie; de beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
 
-## Titel 20. Mentorschap ten behoeve van meerderjarigen
+### Titel 20. Mentorschap ten behoeve van meerderjarigen
 
 ##### Artikel 450
 
@@ -3779,7 +3945,7 @@ Voor zover een of meer van de goederen van de betrokkene onder een bewind als be
 
 2. Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om mentor te kunnen worden, zulks op verzoek van de betrokkene, op vordering van het Openbaar Ministerie of ambtshalve. Hangende het onderzoek kan de rechter in eerste aanleg voorlopige voorzieningen in het mentorschap treffen en de mentor schorsen.
 
-3. Een gewezen mentor blijft verplicht al datgene te doen wat niet zonder nadeel voor de betrokkene kan worden uitgesteld, totdat wederom een persoon bevoegd is ten aanzien van de aangelegenheden, bedoeld in [artikel 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01). In de gevallen, genoemd in het eerste lid, onderdeel d, rust deze verplichting op diens curator of mentor, indien deze van het mentorschap kennis draagt.
+3. Een gewezen mentor blijft verplicht al datgene te doen wat niet zonder nadeel voor de betrokkene kan worden uitgesteld, totdat wederom een persoon bevoegd is ten aanzien van de aangelegenheden, bedoeld in [artikel 453, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=20&artikel=453&z=2025-07-01&g=2025-07-01). In de gevallen, genoemd in het eerste lid, onderdeel d, rust deze verplichting op diens curator of mentor, indien deze van het mentorschap kennis draagt.
 
 4. [Artikel 384](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=16&artikel=384&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
@@ -3788,367 +3954,3 @@ Voor zover een of meer van de goederen van de betrokkene onder een bewind als be
 1. Het mentorschap eindigt door het verstrijken van de tijdsduur waarvoor het is ingesteld, en door de dood of ondercuratelestelling van de betrokkene.
 
 2. De rechter in eerste aanleg kan, indien de noodzaak daartoe niet meer bestaat, het mentorschap opheffen op verzoek van de betrokkene of zijn mentor, dan wel op vordering van het Openbaar Ministerie. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
-
-### Afdeling 1. Algemene bepalingen
-
-##### Artikel 377aa
-
-In deze Titel wordt verstaan onder:
-
-- a. **het verdrag:** het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen (Trb. 1997, 299);
-
-- b. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
-
-- c. **Gerecht in eerste aanleg:** het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
-
-##### Artikel 377bb
-
-De afdelingen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=2&z=2025-07-01&g=2025-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=4&z=2025-07-01&g=2025-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=6&z=2025-07-01&g=2025-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=7&z=2025-07-01&g=2025-07-01) zijn mede van toepassing op internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die niet door het verdrag worden beheerst.
-
-##### Artikel 377cc
-
-1. Onverminderd het bepaalde in artikel 4 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139) en [artikel 377j](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=1&artikel=377j&z=2025-07-01&g=2025-07-01) van dit Boek, is deze wet van toepassing op kinderen die de leeftijd van achttien jaren nog niet hebben bereikt.
-
-2. Bereikt een kind ten aanzien waarvan een verzoek op grond van het verdrag of van deze wet in behandeling is, de leeftijd van achttien jaren, dan wordt de behandeling van dat verzoek ambtshalve gestaakt. Hetzelfde geldt voor maatregelen ter uitvoering van een beslissing op een verzoek.
-
-### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
-
-##### Artikel 377dd
-
-1. Onze Minister wordt voor de openbare lichamen aangewezen als centrale autoriteit, bedoeld in artikel 29 van het verdrag. Bij in de Staatscourant openbaar te maken besluit wijst hij de onder zijn ministerie ressorterende dienst, diensten of vertegenwoordigers op de openbare lichamen Bonaire, Sint Eustatius en Saba aan, die aldaar wordt of worden belast met de taak van centrale autoriteit.
-
-2. De centrale autoriteit is belast met de in hoofdstuk V van het verdrag omschreven taken van de centrale autoriteit. Deze centrale autoriteit is als zodanig tevens belast met de behandeling van verzoeken om tussenkomst in internationale kwesties betreffende ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, wanneer deze niet door het verdrag worden beheerst. Bij de behandeling van deze verzoeken worden de bepalingen van hoofdstuk V van het verdrag zoveel mogelijk in acht genomen.
-
-3. In het bijzonder neemt de centrale autoriteit alle passende maatregelen om te bevorderen dat in de omstandigheden waarin het verdrag of deze wet van toepassing is, minnelijke schikkingen tot stand komen met betrekking tot de bescherming van de persoon of het vermogen van het kind.
-
-4. De aanwijzing van de centrale autoriteit staat er niet aan in de weg dat een persoon zich rechtstreeks tot de rechter of andere autoriteiten wendt om de erkenning van de ouderlijke verantwoordelijkheid over een kind, het herstel van die verantwoordelijkheid over een kind te bereiken, of de vaststelling of wijziging van een beslissing inzake ouderlijke verantwoordelijkheid dan wel een maatregel ter bescherming van een kind te verkrijgen.
-
-##### Artikel 377ee
-
-1. De centrale autoriteit is bevoegd, zo nodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.
-
-2. Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.
-
-##### Artikel 377ff
-
-De centrale autoriteit kan de uitvoering van bepaalde handelingen overeenkomstig door haar te geven aanwijzingen opdragen aan de voogdijraad. De bepalingen van dit hoofdstuk zijn mede van toepassing ten aanzien van de voogdijraad.
-
-##### Artikel 377gg
-
-De gezaghebber en de ambtenaren van de burgerlijke stand verschaffen de centrale autoriteit kosteloos alle inlichtingen en verstrekken haar kosteloos en vrij van zegel alle afschriften en uittreksels uit hun registers die deze autoriteit van hen vraagt in verband met de uitvoering van haar taak.
-
-##### Artikel 377hh
-
-1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in een openbaar lichaam medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie.
-
-2. De officier van justitie behandelt een verzoek om medewerking van de centrale autoriteit met voorrang.
-
-3. De ambtenaar, aangesteld voor de uitvoering van de politietaak, die is aangewezen om zijn medewerking te verlenen aan de opsporing van de verblijfplaats van een kind, mag daartoe elke plaats betreden, voor zover dat redelijkerwijs voor de vervulling van die taak nodig is.
-
-### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
-
-##### Artikel 377ii
-
-1. De beslissing tot plaatsing van, of tot verstrekking van zorg aan een uit een openbaar lichaam afkomstig kind in een pleeggezin of in een instelling in een andere staat ingevolge artikel 33 van het verdrag wordt genomen door de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=2&artikel=377dd&z=2025-07-01&g=2025-07-01), van dit Boek.
-
-2. De centrale autoriteit zendt een gemotiveerd verzoek, vergezeld van een rapport betreffende het kind, toe aan de centrale autoriteit dan wel de andere bevoegde autoriteit van de staat waar de plaatsing of de verstrekking van zorg dient plaats te vinden. Zij treedt met deze autoriteit in overleg.
-
-3. De in het eerste lid bedoelde beslissing wordt eerst genomen nadat de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377d&z=2025-07-01&g=2025-07-01), van dit Boek de volgende bescheiden heeft ontvangen:
-
-- a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming blijkt;
-
-- b. indien gewenst, een door de centrale autoriteit of de andere bevoegde autoriteit in het land van plaatsing opgesteld rapport waaruit de geschiktheid van de pleegouder tot het verstrekken van pleegzorg aan het kind blijkt;
-
-- c. de instemming, bedoeld in artikel 33, tweede lid, van het verdrag;
-
-- d. indien toepasselijk, bescheiden waaruit blijkt dat het kind toestemming heeft of zal verkrijgen om de staat waar de plaatsing of de verstrekking van zorg zal plaatsvinden, binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht in die staat heeft of zal verkrijgen.
-
-##### Artikel 377jj
-
-1. In geval van plaatsing van een kind vanuit een andere staat in een openbaar lichaam of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in een openbaar lichaam ingevolge artikel 33 van het verdrag dient de instemming, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in [artikel 377dd, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15&artikel=377d&z=2025-07-01&g=2025-07-01), van dit Boek.
-
-2. De instemming, bedoeld in het eerste lid, wordt pas gegeven nadat de centrale autoriteit van de bevoegde autoriteit van de staat van herkomst van het kind een gemotiveerd verzoek heeft ontvangen, vergezeld van een rapport betreffende het kind, en nadat zij de volgende bescheiden heeft ontvangen, welke bescheiden zij toezendt aan de bevoegde autoriteit van het land van herkomst van het kind:
-
-- a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming blijkt;
-
-- b. indien gewenst, een rapport waaruit de geschiktheid van de pleegouder tot het verstrekken van pleegzorg aan het kind blijkt;
-
-- c. indien van toepassing, bescheiden waaruit blijkt dat het kind toestemming heeft of zal verkrijgen om Bonaire, Sint Eustatius of Saba binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht heeft of zal verkrijgen.
-
-##### Artikel 377kk
-
-1. Indien de voorschriften van [artikel 377jj](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=3&artikel=377jj&z=2025-07-01&g=2025-07-01) van dit Boek niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de rechter verzoeken de voogdijraad te belasten met de voorlopige toevertrouwing over het kind. Dit verzoek kan ook worden gedaan door de voogdijraad. Tenzij de rechter een langere termijn van verval van de voorlopige toevertrouwing heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter om een voorziening in het gezag over de minderjarige te verkrijgen.
-
-2. De [zesde afdeling van titel veertien](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&z=2025-07-01&g=2025-07-01) van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=13&afdeling=3&artikel=241&z=2025-07-01&g=2025-07-01), [271](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=271&z=2025-07-01&g=2025-07-01), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=5&artikel=272&z=2025-07-01&g=2025-07-01), [331](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=331&z=2025-07-01&g=2025-07-01) en [332](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=14&afdeling=6&paragraaf=8&artikel=332&z=2025-07-01&g=2025-07-01) van dit Boek. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=813) is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
-
-3. De voorlopige toevertrouwing eindigt, behoudens eerdere opheffing, op het tijdstip waarop hetzij de voogdij over het kind, dan wel diens plaatsing bij andere personen of een andere instelling, een aanvang neemt, of zijn terugkeer naar het land van herkomst is geregeld.
-
-4. De kosten die de voogdijraad of, in voorkomend geval, de gezinsvoogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met [artikel 377jj](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=3&artikel=377jj&z=2025-07-01&g=2025-07-01) van dit Boek is geplaatst.
-
-### Afdeling 4. Rechtspleging ter zake van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
-
-##### Artikel 377ll
-
-Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455). Onverminderd de bevoegdheid van de rechter in kort geding, is het Gerecht in eerste aanleg bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.
-
-##### Artikel 377mm
-
-De zaken tot kennisneming waarvan het Gerecht in eerste aanleg op grond van [artikel 377ll](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=4&artikel=377ll&z=2025-07-01&g=2025-07-01) van dit Boek bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat.
-
-##### Artikel 377nn
-
-[Artikel 377v](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15a&afdeling=3&artikel=377v&z=2025-07-01&g=2025-07-01) van dit Boek is van overeenkomstige toepassing in gevallen die door het verdrag of deze Titel worden bestreken.
-
-### Afdeling 5. Erkenning, niet-erkenning en tenuitvoerlegging van beslissingen op grond van het verdrag
-
-##### Artikel 377oo
-
-1. De voorzieningenrechter van het Gerecht in eerste aanleg is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=985) niet van toepassing.
-
-2. Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat.
-
-##### Artikel 377pp
-
-1. De voorzieningenrechter bij wie een verzoek als bedoeld in [artikel 377oo](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01) van dit Boek, eerste lid, is ingediend, doet daarover onverwijld uitspraak.
-
-2. Het verlof tot tenuitvoerlegging is uitvoerbaar bij voorraad.
-
-##### Artikel 377qq
-
-1. Het Gerecht in eerste aanleg neemt kennis van het hoger beroep van een beschikking als bedoeld in [artikel 377pp, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377pp&z=2025-07-01&g=2025-07-01), van dit Boek. Alleen de partijen kunnen hoger beroep tegen de beschikking instellen.
-
-2. Het hoger beroep tegen een beschikking waarbij een verzoek als bedoeld in [artikel 377oo, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01), van dit Boek is ingewilligd, moet worden ingesteld binnen een maand na de betekening van de beschikking. Indien de partij tegen wie tenuitvoerlegging wordt gevraagd, haar gewone verblijfplaats heeft in het buitenland, bedraagt de termijn voor het instellen van hoger beroep twee maanden, te rekenen vanaf de datum van de betekening aan deze partij in persoon of aan zijn adres. De termijn kan niet op grond van de afstand worden verlengd.
-
-3. Indien hoger beroep wordt ingesteld door de verzoeker en is gericht tegen de weigering om een verzoek als bedoeld in [artikel 377oo, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=15b&afdeling=5&artikel=377oo&z=2025-07-01&g=2025-07-01), van dit Boek in te willigen, wordt het ingesteld binnen een maand na de dagtekening van de beschikking.
-
-4. Het Gerecht in eerste aanleg doet onverwijld uitspraak in hoger beroep.
-
-5. Tegen de in hoger beroep gegeven beschikking kan slechts beroep in cassatie worden ingesteld.
-
-6. Het Gerecht in eerste aanleg in hoger beroep, onderscheidenlijk de Hoge Raad als beroep in cassatie is ingesteld, kan op verzoek van de partij tegen wie tenuitvoerlegging wordt gevraagd, zijn uitspraak aanhouden indien in de staat van herkomst van de beslissing een gewoon rechtsmiddel is ingesteld of de termijn daartoe nog niet is verstreken. In dit laatste geval kan het Gerecht, onderscheidenlijk de Hoge Raad, een termijn vaststellen binnen welke het rechtsmiddel moet worden ingesteld.
-
-7. Indien in de beslissing uitspraak is gedaan over meer dan een onderdeel van het verzoek en de tenuitvoerlegging niet voor het geheel kan worden toegestaan, wordt de tenuitvoerlegging voor één of meer van die onderdelen toegestaan.
-
-### Afdeling 6. Internationale samenwerking van gerechten
-
-##### Artikel 377rr
-
-1. Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba kiest uit zijn leden een of meer rechters, die voor de openbare lichamen in het bijzonder belast zijn met het faciliteren van contacten, over en weer, met rechters in het buitenland over aanhangige procedures inzake internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen.
-
-2. Indien een rechter in verband met een procedure in het eerste lid een rechter in het buitenland wenst te consulteren, kan hij gebruik maken van de tussenkomst van de in het eerste lid bedoelde rechter.
-
-3. De in het tweede lid bedoelde tussenkomst wordt ook verleend aan een rechter in het buitenland die in verband met een bij hem aanhangige procedure als bedoeld in het eerste lid een rechter van het Gerecht in eerste aanleg of van het Gemeenschappelijk Hof wenst te consulteren.
-
-4. Indien in verband met een consultatie als bedoeld in het tweede of het derde lid stukken dienen te worden vertaald of indien daarvoor de bijstand van een tolk nodig is, draagt de in het eerste lid bedoelde rechter hiervoor zorg.
-
-5. Voordat een consultatie als bedoeld in het tweede lid plaatsvindt, stelt de rechter bij wie de procedure aanhangig is, de partijen hiervan in kennis. Nadat de consultatie heeft plaatsgevonden, doet hij partijen verslag van de consultatie.
-
-6. De overdracht van verzoeken als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=2&artikel=8&z=2025-07-01&g=2025-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=2&artikel=9&z=2025-07-01&g=2025-07-01) van het verdrag geschiedt door tussenkomst van de in het eerste lid bedoelde rechter. De rechter die een verzoek heeft overgedragen, stelt partijen hiervan in kennis.
-
-### Afdeling 5. Erkenning, niet-erkenning en tenuitvoerlegging van beslissingen op grond van het verdrag
-
-##### Artikel 377ss
-
-1. Tot de afgifte van een verklaring als bedoeld in artikel 40 van het verdrag is bevoegd de notaris.
-
-2. De verklaring wordt afgegeven op een door Onze Minister vastgesteld formulier.
-
-## Titel 16. Curatele
-
-## Titel 17. Levensonderhoud
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Voorziening in de kosten van verzorging en opvoeding van minderjarige kinderen en stiefkinderen
-
-### Afdeling 3. Kosten van bevalling
-
-### Afdeling 4. Uitkering tot levensonderhoud na beëindiging van een langdurige buitenhuwelijkse samenleving anders dan door de dood
-
-## Titel 18. Afwezigheid, vermissing en vaststelling van overlijden in bepaalde gevallen
-
-### Afdeling 1. Onderbewindstelling in geval van afwezigheid
-
-### Afdeling 2. Personen wier bestaan onzeker is
-
-### Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
-
-## Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
-
-## Titel 20. Mentorschap ten behoeve van meerderjarigen
-
-### Afdeling 7. Buiten de openbare lichamen voltrokken huwelijken en geregistreerde partnerschappen
-
-##### Artikel 80a
-
-Een huwelijk, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het betreffende huwelijk verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. De [artikelen 5 tot en met 7 van de Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=5) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-##### Artikel 80b
-
-Een geregistreerd partnerschap, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het geregistreerd partnerschap verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. In de openbare lichamen Bonaire, Sint Eustatius en Saba is de [Wet conflictenrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004619) geregistreerd partnerschap van toepassing op een buiten het Koninkrijk aangegaan geregistreerd partnerschap.
-
-## Titel 6. Rechten en verplichtingen van echtgenoten
-
-## Titel 7. De wettelijke gemeenschap van goederen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 3. Ontbinding van de gemeenschap
-
-### Afdeling 4. Opheffing van de gemeenschap bij beschikking
-
-## Titel 8. Huwelijkse voorwaarden
-
-### Afdeling 1. Huwelijkse voorwaarden in het algemeen
-
-### Afdeling 2. Giften bij huwelijkse voorwaarden
-
-## Titel 9. Ontbinding van het huwelijk
-
-### Afdeling 1. Ontbinding van het huwelijk in het algemeen
-
-### Afdeling 2. Echtscheiding
-
-## Titel 10. Scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed
-
-### Afdeling 1. Scheiding van tafel en bed
-
-### Afdeling 2. Ontbinding van het huwelijk na scheiding van tafel en bed
-
-## Titel 11. Afstamming
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Ontkenning van het door huwelijk ontstane vaderschap
-
-### Afdeling 3. Erkenning
-
-### Afdeling 5. Inroeping of betwisting van staat
-
-### Afdeling 6. De bijzondere curator
-
-## Titel 12. Adoptie
-
-### Afdeling 1. Adoptie in de openbare lichamen Bonaire, Sint Eustatius en Saba
-
-### Afdeling 2. In het Europese deel van Nederland uitgesproken adopties
-
-## Titel 12a. Interlandelijke adoptie
-
-##### Artikel 232a
-
-In deze Titel wordt verstaan onder:
-
-- a. **het verdrag:** het op 29 mei 1993 te 's-Gravenhage tot stand gekomen verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie (Trb. 1993, 197);
-
-- b. **de centrale autoriteit van de staat van herkomst:** de in de staat van herkomst van het kind aangewezen centrale autoriteit dan wel de overheidsinstantie, de vergunninghoudende instelling of andere persoon of instelling aan wie in die staat bepaalde taken van de centrale autoriteit zijn opgedragen;
-
-- c. **adoptie:** een interlandelijke adoptie op verzoek van de in [artikel 1:227, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&boek=1&titeldeel=12&afdeling=1&artikel=227&z=2011-01-01&g=2011-01-01), van het Burgerlijk Wetboek BES genoemde personen;
-
-- d. **Onze Minister:** de Minister van Justitie.
-
-### Hoofdstuk 2. Taak en bevoegdheden van de centrale autoriteit en de vergunninghoudende instelling
-
-### Hoofdstuk 3. Procedure in geval van interlandelijke adoptie door personen die hun gewone verblijfplaats in een openbaar lichaam hebben
-
-### Hoofdstuk 4. Procedure in geval van interlandelijke adoptie van een kind dat zijn gewone verblijfplaats in een openbaar lichaam heeft
-
-### Hoofdstuk 5. Toepassing [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
-
-## Titel 13. Minderjarigheid
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Handlichting
-
-### Afdeling 3. Voogdijraden
-
-### Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
-
-## Titel 14. Het gezag over minderjarige kinderen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Ouderlijk gezag
-
-#### § 1. Het gezamenlijk gezag van ouders binnen en buiten huwelijk en het gezag van één ouder na scheiding
-
-#### § 2. Het gezag van één ouder anders dan na scheiding
-
-#### § 2a. Gezag na meerderjarigverklaring
-
-#### § 3. Het bewind van de ouders
-
-### Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door de ouders en de gezagsuitoefening door één van hen
-
-### Afdeling 4. Ondertoezichtstelling van kinderen
-
-### Afdeling 5. Ontheffing en ontzetting van het ouderlijk gezag
-
-### Afdeling 6. Voogdij
-
-#### § 2. Voogdij door een der ouders opgedragen
-
-#### § 3. Voogdij door de rechter opgedragen
-
-#### § 5. Ontslag van de voogdij
-
-#### § 6. Onbevoegdheid tot de voogdij
-
-#### § 7. Ondertoezichtstelling van onder voogdij staande minderjarigen
-
-#### § 8. Ontzetting van voogdij
-
-#### § 9. Het toezicht van de voogd over de persoon van de minderjarige
-
-#### § 10. Het bewind van de voogd
-
-#### § 11. De rekening en verantwoording bij het einde van de voogdij
-
-## Titel 15. Omgang, informatie en raadpleging
-
-## Titel 15a. De centrale autoriteit en burgerrechtelijke aspecten van internationale kinderontvoering
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Taak en bevoegdheden van de centrale autoriteit
-
-### Afdeling 3. Rechtspleging in verband met internationale ontvoering van kinderen en het omgangsrecht
-
-## Titel 15b. Ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 3. Procedure in geval van plaatsing van een kind vanuit een openbaar lichaam in een andere staat en in geval van plaatsing van een kind vanuit een andere staat in een openbaar lichaam
-
-### Afdeling 4. Rechtspleging ter zake van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
-
-### Afdeling 6. Internationale samenwerking van gerechten
-
-## Titel 16. Curatele
-
-## Titel 17. Levensonderhoud
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Voorziening in de kosten van verzorging en opvoeding van minderjarige kinderen en stiefkinderen
-
-### Afdeling 3. Kosten van bevalling
-
-### Afdeling 4. Uitkering tot levensonderhoud na beëindiging van een langdurige buitenhuwelijkse samenleving anders dan door de dood
-
-## Titel 18. Afwezigheid, vermissing en vaststelling van overlijden in bepaalde gevallen
-
-### Afdeling 1. Onderbewindstelling in geval van afwezigheid
-
-### Afdeling 2. Personen wier bestaan onzeker is
-
-### Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
-
-## Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
-
-## Titel 20. Mentorschap ten behoeve van meerderjarigen
-
-##### Artikel 232aa
-
-Een in het Europese deel van Nederland uitgesproken adoptie heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan de adoptie verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen.

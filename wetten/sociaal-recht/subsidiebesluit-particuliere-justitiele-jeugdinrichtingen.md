@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 23 december 2010, houdende regels omtrent het verstrekken van subsidie aan particuliere justitiële jeugdinrichtingen (Subsidiebesluit particuliere justitiële jeugdinrichtingen)"
+citeertitel: "Subsidiebesluit particuliere justitiële jeugdinrichtingen"
 identifier: "BWBR0029403"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-03-20"
-last_updated: "2013-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029403"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11198553"
-version_id: "18332282"
-internal_id: "C25531961"
-label_id: "11172784"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029403/2013-03-20/0"
-intitule_bron: "Stb.2011-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2011-01-11"
-intitule_in_force: "2011-01-11"
-intitule_status: "goed"
-original_publication: "Stb.2011-1"
-original_signed_date: "2010-12-23"
-original_published_date: "2011-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-1"
-entry_into_force_date: "2011-01-12"
-jci_1_3: "jci1.3:c:BWBR0029403&z=2013-03-20&g=2013-03-20"
-jci_1_0: "1.0:c:BWBR0029403&g=2013-03-20"
-citeertitel_status: "officieel"
-short_title: "Subsidiebesluit particuliere justitiële jeugdinrichtingen"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-12"
+publicatiedatum: 2011-01-12
+laatste_update: 2013-03-20
+status: geldig
+toestand: 2013-03-20
+bron: "https://wetten.overheid.nl/BWBR0029403"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 23 december 2010, houdende regels omtrent het verstrekken van subsidie aan particuliere justitiële jeugdinrichtingen (Subsidiebesluit particuliere justitiële jeugdinrichtingen)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie, van 15 november 2010, nr. 5675254/10/6;
-
-Gelet op [artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3b);
-
-De Raad van State gehoord (advies van 1 december 2010, nr. W03.10.0527/II;
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 17 december 2010, nr. 5678592/10/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de wet:** de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
+- a. *de wet:* de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756);
 
-- b. **operationele capaciteit:** het deel van de capaciteit waar jeugdigen geplaatst worden en waar – afhankelijk van de bestemming van [artikel 8 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8) – alle activiteiten plaatsvinden;
+- b. *operationele capaciteit:* het deel van de capaciteit waar jeugdigen geplaatst worden en waar – afhankelijk van de bestemming van [artikel 8 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8) – alle activiteiten plaatsvinden;
 
-- c. **reservecapaciteit:** het deel van de capaciteit waar in principe geen jeugdigen worden geplaatst en dat operationeel gemaakt wordt indien de reeds vastgestelde operationele capaciteit tijdens een subsidiejaar onvoldoende blijkt te zijn;
+- c. *reservecapaciteit:* het deel van de capaciteit waar in principe geen jeugdigen worden geplaatst en dat operationeel gemaakt wordt indien de reeds vastgestelde operationele capaciteit tijdens een subsidiejaar onvoldoende blijkt te zijn;
 
-- d. **buitengebruikstelling:** het deel van de capaciteit dat er toe strekt om een gebouw in stand te houden voor een eventueel later hergebruik.
+- d. *buitengebruikstelling:* het deel van de capaciteit dat er toe strekt om een gebouw in stand te houden voor een eventueel later hergebruik.
 
 ### Hoofdstuk 2. Subsidies
 
@@ -80,13 +48,13 @@ Voor particuliere inrichtingen met een vastgestelde operationele capaciteit tot 
 
 | (90% – gerealiseerde bezettingsgraad) x | vastgestelde operationele capaciteit | x 50% |
 | --- | --- | --- |
-| (90% – gerealiseerde bezettingsgraad) x | ——————— | x 50% |
-|   | 100 |   |
+| ——————— |  |  |
+|  | 100 |  |
 
 voor particuliere inrichtingen met een vastgestelde operationele capaciteit vanaf 100 plaatsen:
 
-| (90% – gerealiseerde bezetingsgraad) x 50% | (90% – gerealiseerde bezetingsgraad) x 50% | (90% – gerealiseerde bezetingsgraad) x 50% |
-| --- | --- | --- |
+| (90% – gerealiseerde bezetingsgraad) x 50% |
+| --- |
 
 3. Onze Minister kan de uitkomst van het tweede lid matigen, voor zover toepassing van het tweede lid, gelet op het belang van de continuïteit van de inrichting en daarmee de kwaliteit van de uitvoering van haar wettelijke taken, zal leiden tot een onbillijkheid van overwegende aard.
 
@@ -185,5 +153,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 17
 
 Dit besluit wordt aangehaald als: Subsidiebesluit particuliere justitiële jeugdinrichtingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,41 +1,19 @@
 ---
 title: "Wet ambtenarenrechtspraak 1951 BES"
 identifier: "BWBR0028616"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028616"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10898463"
-version_id: "17882962"
-internal_id: "C24853461"
-label_id: "10874794"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028616/2024-01-01/0"
-intitule_bron: "Stb.2010-394"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-394"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-394"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028616&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0028616&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0028616"
+opgehaald: 2026-08-16
 ---
+
 # Wet ambtenarenrechtspraak 1951 BES
 
-## Titel I. Algemene bepalingen
+### Titel I. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -53,11 +31,11 @@ entry_into_force: "2010-10-10"
 
 5. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **hof van justitie:** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- a. *hof van justitie:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- b. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- b. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- c. **woonplaats:** woonplaats als bedoeld in het Burgerlijk Wetboek BES.
+- c. *woonplaats:* woonplaats als bedoeld in het Burgerlijk Wetboek BES.
 
 ##### Artikel 2
 
@@ -73,15 +51,15 @@ In deze wet en de daarop berustende bepalingen wordt niet onder ambtenaren verst
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. de staat, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld:
+   - a. de staat, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld:
 
-- b. het openbaar lichaam, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld.
+   - b. het openbaar lichaam, indien de ambtenaar in dienst van deze rechtspersoon is aangesteld.
 
-- a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het de ambtenaren in dienst van de staat betreft;
+   - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor zover het de ambtenaren in dienst van de staat betreft;
 
-- b. het bestuurscollege, voor zover het de ambtenaren in dienst van het openbare lichaam betreft, met inachtneming van sub c;
+   - b. het bestuurscollege, voor zover het de ambtenaren in dienst van het openbare lichaam betreft, met inachtneming van sub c;
 
-- c. de eilandsraad, voor zover de eilandgriffier en de op de griffie werkzame ambtenaren betreft.
+   - c. de eilandsraad, voor zover de eilandgriffier en de op de griffie werkzame ambtenaren betreft.
 
 ##### Artikel 3
 
@@ -119,7 +97,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 2. Een college is evenwel bevoegd aan een zijner leden de vertegenwoordiging in bepaalde gedingen of bepaalde soorten van gedingen op te dragen.
 
-## Titel II. Het gerecht en de raad van beroep in ambtenarenzaken
+### Titel II. Het gerecht en de raad van beroep in ambtenarenzaken
 
 ### Hoofdstuk Eerste. Het gerecht in ambtenarenzaken
 
@@ -373,7 +351,7 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
-## Titel III. Procedure op bezwaarschriften
+### Titel III. Procedure op bezwaarschriften
 
 ### Hoofdstuk Eerste. Gewoon geding in eerste aanleg
 
@@ -859,7 +837,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 3. Indien het bezwaar gegrond bevonden wordt, veroordeelt het gerecht het betrokken lichaam tot vergoeding en stelt, met inachtneming van alle omstandigheden, het bedrag der schadevergoeding bij de beslissing vast. De rechter geeft daarvoor, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging af.
 
-## Titel IV
+### Titel IV
 
 ### Hoofdstuk Eerste. Gewoon geding in hoger beroep
 
@@ -1161,7 +1139,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 2. Het wordt als een gewoon beroep behandeld. [Artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2024-01-01&g=2024-01-01), vindt overeenkomstige toepassing.
 
-## Titel V. Herziening
+### Titel V. Herziening
 
 ##### Artikel 135
 
@@ -1181,7 +1159,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 Op de behandeling van een verzoek om herziening vinden de voorschriften omtrent de behandeling in eerste aanleg of in hoger beroep overeenkomstige toepassing. Tegen de uitspraak in herziening staat geen voorziening open.
 
-## Titel VI. Straf- en slotbepalingen
+### Titel VI. Straf- en slotbepalingen
 
 ##### Artikel 138
 

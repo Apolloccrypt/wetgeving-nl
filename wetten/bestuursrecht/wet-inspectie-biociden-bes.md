@@ -1,39 +1,17 @@
 ---
 title: "Wet Inspectie voor de Volksgezondheid BES"
+citeertitel: "Wet Inspectie Biociden BES"
 identifier: "BWBR0028563"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2012-07-28"
-last_updated: "2012-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028563"
+categorie: "Gezondheidszorg"
 soort: "wet-BES"
-stam_id: "10852423"
-version_id: "17833662"
-internal_id: "C24895851"
-label_id: "10827534"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028563/2012-07-28/0"
-intitule_bron: "Stb.2010-636"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-636"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-636"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028563&z=2012-07-28&g=2012-07-28"
-jci_1_0: "1.0:c:BWBR0028563&g=2012-07-28"
-citeertitel_status: "officieel"
-short_title: "Wet Inspectie Biociden BES"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2012-07-28
+status: geldig
+toestand: 2012-07-28
+bron: "https://wetten.overheid.nl/BWBR0028563"
+opgehaald: 2026-08-16
 ---
+
 # Wet Inspectie voor de Volksgezondheid BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -42,13 +20,13 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
+- *Onze Minister:* Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
 
-- **Inspectie:** de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28);
+- *Inspectie:* de Inspectie voor de Volksgezondheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=2&z=2012-07-28&g=2012-07-28);
 
-- **Inspecteurgeneraal:** de Inspecteurgeneraal voor de volksgezondheid, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=3&z=2012-07-28&g=2012-07-28);
+- *Inspecteurgeneraal:* de Inspecteurgeneraal voor de volksgezondheid, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=3&z=2012-07-28&g=2012-07-28);
 
-- **inspecteur:** de inspecteur voor de volksgezondheid, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=4&z=2012-07-28&g=2012-07-28);
+- *inspecteur:* de inspecteur voor de volksgezondheid, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=2&artikel=4&z=2012-07-28&g=2012-07-28);
 
 ### Hoofdstuk 2. Inspectie
 
@@ -58,13 +36,13 @@ Er is een Inspectie voor de Volksgezondheid. Zij is gevestigd in een door Onze M
 
 - 2. De Inspectie heeft tot taak:
 
-- a. het toezicht op de naleving van de wettelijke regelingen op het gebied van bestrijdingsmiddelen, gewasbeschermingsmiddelen, biociden en milieuaangelegenheden;
+   - a. het toezicht op de naleving van de wettelijke regelingen op het gebied van bestrijdingsmiddelen, gewasbeschermingsmiddelen, biociden en milieuaangelegenheden;
 
-- b. het uitbrengen, op verzoek of uit eigen beweging, van adviezen en het verstrekken van inlichtingen;
+   - b. het uitbrengen, op verzoek of uit eigen beweging, van adviezen en het verstrekken van inlichtingen;
 
-- c. de behandeling van klachten;
+   - c. de behandeling van klachten;
 
-- d. het verrichten van andere bij of krachtens wet opgedragen taken.
+   - d. het verrichten van andere bij of krachtens wet opgedragen taken.
 
 - 3. Ter zake van de het tweede lid bedoelde taken kunnen bij algemene maatregel van bestuur, regels worden gesteld.
 

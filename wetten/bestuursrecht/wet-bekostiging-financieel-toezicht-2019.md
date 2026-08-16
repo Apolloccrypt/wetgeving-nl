@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0041548"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Wet van 17 oktober 2018, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Autoriteit Financiële Markten en de Nederlandsche Bank en de financiering van de toezichtkosten (Wet bekostiging financieel toezicht 2019)

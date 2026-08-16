@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0032149"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Besluit van 19 oktober 2012, houdende nadere regels met betrekking tot technische en organisatorische eisen ter beperking van risico’s voor de veiligheid en de integriteit, de meldplicht van inbreuken op de veiligheid en verliezen van integriteit, de verstrekking van informatie voor de beoordeling van de veiligheid en de integriteit en de aanwijzing van inbreuken op de veiligheid en verliezen van integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit continuïteit openbare elektronische communicatienetwerken en -diensten)

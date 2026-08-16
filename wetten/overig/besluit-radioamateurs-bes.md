@@ -1,38 +1,16 @@
 ---
 title: "Besluit radioamateurs BES"
 identifier: "BWBR0028725"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028725"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10945243"
-version_id: "17931772"
-internal_id: "C24855811"
-label_id: "10920144"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028725/2010-10-10/0"
-intitule_bron: "Stb.2010-456"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-04"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-456"
-original_signed_date: "2010-10-04"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-456"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028725&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028725&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-10-04"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028725"
+opgehaald: 2026-08-16
 ---
+
 # Besluit radioamateurs BES
 
 #### § 1. Definities
@@ -41,37 +19,38 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- a. *wet:*
+ [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **beschikking:** de beschikking waarbij een machtiging is verleend;
+- b. *beschikking:* de beschikking waarbij een machtiging is verleend;
 
-- c. **bewijs van bevoegdheid:** het door Onze Minister afgegeven bewijs van bevoegdheid als radioamateur uitgereikt na een met goed gevolg afgelegd examen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10);
+- c. *bewijs van bevoegdheid:* het door Onze Minister afgegeven bewijs van bevoegdheid als radioamateur uitgereikt na een met goed gevolg afgelegd examen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10);
 
-- d. **machtiging:** een machtiging voor een radio-elektrische zend- en ontvanginrichting als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=16) bestemd voor de aanleg, het bezit of het gebruik van een amateurstation;
+- d. *machtiging:* een machtiging voor een radio-elektrische zend- en ontvanginrichting als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=16) bestemd voor de aanleg, het bezit of het gebruik van een amateurstation;
 
-- e. **radioamateur:** een daartoe bevoegd persoon die uit een zuiver persoonlijk oogmerk en zonder enig geldelijk voordeel proeven neemt op telecommunicatiegebied;
+- e. *radioamateur:* een daartoe bevoegd persoon die uit een zuiver persoonlijk oogmerk en zonder enig geldelijk voordeel proeven neemt op telecommunicatiegebied;
 
-- f. **amateurstation:** een zend- en ontvanginrichting voor radiotelegrafie of radiotelefonie, bestemd voor het nemen van proeven op telecommunicatiegebied;
+- f. *amateurstation:* een zend- en ontvanginrichting voor radiotelegrafie of radiotelefonie, bestemd voor het nemen van proeven op telecommunicatiegebied;
 
-- g. **radiotelegrafie:** telecommunicatie via de ether door middel van morsetekens;
+- g. *radiotelegrafie:* telecommunicatie via de ether door middel van morsetekens;
 
-- h. **radiotelefonie:** telecommunicatie via de ether door middel van spraak;
+- h. *radiotelefonie:* telecommunicatie via de ether door middel van spraak;
 
-- i. **klasse van uitzending:** een aanduiding bestaande uit drie symbolen die respectievelijk de modulatievorm van de draaggolf, het type signaal dat de draaggolf moduleert en de soort informatie die wordt uitgezonden, aangeven. De betekenis van de symbolen is aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&bijlage=1&z=2010-10-10&g=2010-10-10) behorende bij dit besluit;
+- i. *klasse van uitzending:* een aanduiding bestaande uit drie symbolen die respectievelijk de modulatievorm van de draaggolf, het type signaal dat de draaggolf moduleert en de soort informatie die wordt uitgezonden, aangeven. De betekenis van de symbolen is aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&bijlage=1&z=2010-10-10&g=2010-10-10) behorende bij dit besluit;
 
-- j. **bandbreedte:** het frequentieverschil tussen de hoogste en de laagste frequentie waarbinnen tijdens modulatie 99% van de uitgezonden energie wordt waargenomen;
+- j. *bandbreedte:* het frequentieverschil tussen de hoogste en de laagste frequentie waarbinnen tijdens modulatie 99% van de uitgezonden energie wordt waargenomen;
 
-- k. **ongewenste hoogfrequentuitstralingen:** alle hoogfrequente uitstralingen op andere frequenties dan de zendfrequentie en de frequentie in de frequentiebanden die noodzakelijkerwijs in verband met het modulatieproces in beslag worden genomen;
+- k. *ongewenste hoogfrequentuitstralingen:* alle hoogfrequente uitstralingen op andere frequenties dan de zendfrequentie en de frequentie in de frequentiebanden die noodzakelijkerwijs in verband met het modulatieproces in beslag worden genomen;
 
-- l. **zendvermogen:**
+- l. *zendvermogen:*
 
-- –. bij toepassing van frequentie- of fasemodulatie: het door de direct met de antenne-inrichting te koppelen trap van de zendinrichting afgegeven gemiddelde vermogen;
+   - – bij toepassing van frequentie- of fasemodulatie: het door de direct met de antenne-inrichting te koppelen trap van de zendinrichting afgegeven gemiddelde vermogen;
 
-- –. bij de overige modulatietoepassingen: 25% van het door de direct met de antenne-inrichting te koppelen trap afgegeven gemiddeld vermogen, gerekend over een periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van het modulerende signaal;
+   - – bij de overige modulatietoepassingen: 25% van het door de direct met de antenne-inrichting te koppelen trap afgegeven gemiddeld vermogen, gerekend over een periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van het modulerende signaal;
 
-- m. **toegestane zendvermogen:** de waarde van het zendvermogen welke tijdens het gebruik van de zendinrichting niet mag worden overschreden;
+- m. *toegestane zendvermogen:* de waarde van het zendvermogen welke tijdens het gebruik van de zendinrichting niet mag worden overschreden;
 
-- n. **maximum zendvermogen:** de waarde van het zendvermogen welke als gevolg van de constructie van de zendinrichting niet kan worden overschreden.
+- n. *maximum zendvermogen:* de waarde van het zendvermogen welke als gevolg van de constructie van de zendinrichting niet kan worden overschreden.
 
 ##### Artikel 1a
 
@@ -155,13 +134,13 @@ De machtiginghouder mag de navolgende zendinrichtingen aanwezig hebben:
 
 - 1. Zendinrichtingen die uitsluitend zijn ingericht voor de frequentiebanden waarin frequenties voorkomen welke zijn toegewezen aan de machtiginghouder mits deze voldoen aan de volgende eisen:
 
-- a. In de zendinrichting dienen zodanige technische voorzieningen te zijn aangebracht dat het gebruik is geblokkeerd van de niet aan de machtiginghouder toegewezen frequenties, één en ander voor zover de mechanische, elektrische en elektronische uitvoering van de zendinrichting dit toelaat;
+   - a. In de zendinrichting dienen zodanige technische voorzieningen te zijn aangebracht dat het gebruik is geblokkeerd van de niet aan de machtiginghouder toegewezen frequenties, één en ander voor zover de mechanische, elektrische en elektronische uitvoering van de zendinrichting dit toelaat;
 
-- b. Het toegestane zendvermogen van de zendinrichtingen bedraagt maximaal 250 Watt, tenzij overeenkomstig [artikel 12, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10), toestemming is verleend hiervan af te wijken. Tevens mogen delen of onderdelen van de zendinrichtingen niet meer hoogfrequent zendvermogen kunnen afgeven dan voor de goede werking van deze zendinrichtingen noodzakelijk is;
+   - b. Het toegestane zendvermogen van de zendinrichtingen bedraagt maximaal 250 Watt, tenzij overeenkomstig [artikel 12, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10), toestemming is verleend hiervan af te wijken. Tevens mogen delen of onderdelen van de zendinrichtingen niet meer hoogfrequent zendvermogen kunnen afgeven dan voor de goede werking van deze zendinrichtingen noodzakelijk is;
 
-- c. Indien de zendinrichting meer zendvermogen kan afgeven dan het toegestane zendvermogen moet de zendinrichting zijn uitgerust met een niet direct toegankelijke voorziening die ervoor zorgt dat het toegestane zendvermogen niet kan worden overschreden;
+   - c. Indien de zendinrichting meer zendvermogen kan afgeven dan het toegestane zendvermogen moet de zendinrichting zijn uitgerust met een niet direct toegankelijke voorziening die ervoor zorgt dat het toegestane zendvermogen niet kan worden overschreden;
 
-- d. De zendinrichtingen dienen te voldoen aan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=20&z=2010-10-10&g=2010-10-10) gestelde technische voorschriften.
+   - d. De zendinrichtingen dienen te voldoen aan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&paragraaf=3&artikel=20&z=2010-10-10&g=2010-10-10) gestelde technische voorschriften.
 
 - 2. Andere zendinrichtingen mits deze zodanig zijn gedemonteerd dat de zendinrichtingen niet geschikt zijn of op eenvoudige wijze geschikt gemaakt kunnen worden voor het doen van uitzendingen.
 
@@ -207,72 +186,108 @@ De uitzending van de roepletters dient op één van de hier navolgende wijze te 
 
 - 1. Identificatie door middel van spraak.
 
-- a. De toegelaten klassen van uitzending zijn: A3E, H3E, R3E, F3E, G3E of J3E.
+   - a. De toegelaten klassen van uitzending zijn: A3E, H3E, R3E, F3E, G3E of J3E.
 
-- b. Het te bezigen spellingsalfabet luidt:
-
-| A | Alfa | N | November |
-| --- | --- | --- | --- |
-| B | Bravo | O | Oscar |
-| C | Charlie | P | Papa |
-| D | Delta | Q | Quebec |
-| E | Echo | R | Romeo |
-| F | Foxtrot | S | Sierra |
-| G | Golf | T | Tango |
-| H | Hotel | U | Uniform |
-| I | India | V | Victor |
-| J | Juliet | W | Whiskey |
-| K | Kilo | X | X-ray |
-| L | Lima | Y | Yankee |
-| M | Mike | Z | Zulu |
+   - b. Het te bezigen spellingsalfabet luidt: A
+ Alfa
+ N
+ November
+ B
+ Bravo
+ O
+ Oscar
+ C
+ Charlie
+ P
+ Papa
+ D
+ Delta
+ Q
+ Quebec
+ E
+ Echo
+ R
+ Romeo
+ F
+ Foxtrot
+ S
+ Sierra
+ G
+ Golf
+ T
+ Tango
+ H
+ Hotel
+ U
+ Uniform
+ I
+ India
+ V
+ Victor
+ J
+ Juliet
+ W
+ Whiskey
+ K
+ Kilo
+ X
+ X-ray
+ L
+ Lima
+ Y
+ Yankee
+ M
+ Mike
+ Z
+ Zulu
 
 - 2. Identificatie door middel van morse telegrafie:
 
-- a. De toegelaten klassen van uitzending zijn: A1A, F1A, F2A, J2A en G2A.
+   - a. De toegelaten klassen van uitzending zijn: A1A, F1A, F2A, J2A en G2A.
 
-- b. Toegestaan is een seinsnelheid van ten hoogste twintig woorden per minuut. Ingeval van een georganiseerde amateurradiowedstrijd is een seinsnelheid van ten hoogste dertig woorden per minuut toegestaan.
+   - b. Toegestaan is een seinsnelheid van ten hoogste twintig woorden per minuut. Ingeval van een georganiseerde amateurradiowedstrijd is een seinsnelheid van ten hoogste dertig woorden per minuut toegestaan.
 
 - 3. Identificatie door middel van automatische telegrafie:
 
-- a. De toegelaten klassen van uitzending zijn: F1B, F2B of J2B.
+   - a. De toegelaten klassen van uitzending zijn: F1B, F2B of J2B.
 
-- b. Toegestaan is het gebruik van:
+   - b. Toegestaan is het gebruik van:
 
-- 1°. verreschrijfapparatuur: start-stop systeem met 5 eenheden informatie bits volgens het internationaal telegrafie-alfabet no. 2 (Baudot) met een seinsnelheid van 45, 50, 75, 100 of 200 baud.
+      - 1°. verreschrijfapparatuur: start-stop systeem met 5 eenheden informatie bits volgens het internationaal telegrafie-alfabet no. 2 (Baudot) met een seinsnelheid van 45, 50, 75, 100 of 200 baud.
 
-- 2°. verreschrijfapparatuur: start-stop systeem met 7 eenheden informatie bits volgens het internationaal telegrafie-alfabet no. 5 (ASCII) met een seinsnelheid van 110 of 300 baud.
+      - 2°. verreschrijfapparatuur: start-stop systeem met 7 eenheden informatie bits volgens het internationaal telegrafie-alfabet no. 5 (ASCII) met een seinsnelheid van 110 of 300 baud.
 
-- 3°. amtor: synchroon systeem met foutencorrectie met 7 eenheden informatie bits volgens het telegrafie-alfabet genoemd in aanbeveling 625 van het Comité Consultatif International de Radio (CCIR) met een seinsnelheid van 100 baud.
+      - 3°. amtor: synchroon systeem met foutencorrectie met 7 eenheden informatie bits volgens het telegrafie-alfabet genoemd in aanbeveling 625 van het Comité Consultatif International de Radio (CCIR) met een seinsnelheid van 100 baud.
 
-- 4°. systeem Hell: hierbij worden de karakters, als een soort beeldschrift weergegeven in een raster van 7x7 beeldpunten. De seinsnelheid is 122.5 baud.
+      - 4°. systeem Hell: hierbij worden de karakters, als een soort beeldschrift weergegeven in een raster van 7x7 beeldpunten. De seinsnelheid is 122.5 baud.
 
-- 5°. Packet-radio Ax-25: ARQ-telegrafiesysteem, afgeleid van het transmissieprotocol X.25 genoemd in de aanbevelingen van het Comité Consultatif International de Téléphone et de Télégraphe (CCITT). In het adresveld van het transmissieprotocol X-25 dienen de roepletters van de machtiginghouder, de eventuele tussenstations waarlangs het bericht wordt verzonden (maximaal 8) en de geadresseerde machtiginghouder te zijn opgenomen. De digitale informatie wordt uitgezonden in groepen van acht bits welke in het adresveld een ASCII-karakter vormen.
+      - 5°. Packet-radio Ax-25: ARQ-telegrafiesysteem, afgeleid van het transmissieprotocol X.25 genoemd in de aanbevelingen van het Comité Consultatif International de Téléphone et de Télégraphe (CCITT). In het adresveld van het transmissieprotocol X-25 dienen de roepletters van de machtiginghouder, de eventuele tussenstations waarlangs het bericht wordt verzonden (maximaal 8) en de geadresseerde machtiginghouder te zijn opgenomen. De digitale informatie wordt uitgezonden in groepen van acht bits welke in het adresveld een ASCII-karakter vormen.
 
 - 4. Identificatie door middel van systemen voor beeldoverdracht:
 
-- a. Facsimilé en Slow-scan televisie (SSTV)
+   - a. Facsimilé en Slow-scan televisie (SSTV)
 
-- 1°. De toegelaten klassen van uitzending zijn: A3C, A3F, F3C, F3F, G3C of J3C.
+      - 1°. De toegelaten klassen van uitzending zijn: A3C, A3F, F3C, F3F, G3C of J3C.
 
-- 2°. De opbouw van het facsimilé-beeld aantal lijnen per minuut: 60, 90, 120 of 240.
+      - 2°. De opbouw van het facsimilé-beeld aantal lijnen per minuut: 60, 90, 120 of 240.
 
-- 3°. De opbouw van het slow-scan televisiebeeld: lijnfrequentie: 16 2/3 Hz beeldfrequentie: 1/7,2 Hz aantal lijnen per beeld: 120 pulsduur lijnsynchronisatie: 5 ms pulsduur beeldsynchronisatie: 30 ms
+      - 3°. De opbouw van het slow-scan televisiebeeld: lijnfrequentie: 16 2/3 Hz beeldfrequentie: 1/7,2 Hz aantal lijnen per beeld: 120 pulsduur lijnsynchronisatie: 5 ms pulsduur beeldsynchronisatie: 30 ms
 
-- 4°. Indien het beeldsignaal via frequentiemodulatie van een hulpdraaggolf de zender moduleert, gelden hiervoor de volgende eisen voor de modulatie van de hulpdraaggolf:
+      - 4° Indien het beeldsignaal via frequentiemodulatie van een hulpdraaggolf de zender moduleert, gelden hiervoor de volgende eisen voor de modulatie van de hulpdraaggolf:
 
-- a. Facsimilé: Zwartniveau: 1500 Hz Witniveau: 2300 Hz
+         - a. Facsimilé: Zwartniveau: 1500 Hz Witniveau: 2300 Hz
 
-- b. SSTV: Synchronisatie-impuls (ultra zwart): 1200 Hz Zwartniveau: 1500 Hz Witniveau: 2300 Hz Indien het beeldsignaal de draaggolf direct in frequentie moduleert dient het frequentieverschil tussen de hoogste en de laagste frequentie overeen te komen met het verschil tussen de hierboven genoemde uiterste frequenties.
+         - b. SSTV: Synchronisatie-impuls (ultra zwart): 1200 Hz Zwartniveau: 1500 Hz Witniveau: 2300 Hz Indien het beeldsignaal de draaggolf direct in frequentie moduleert dient het frequentieverschil tussen de hoogste en de laagste frequentie overeen te komen met het verschil tussen de hierboven genoemde uiterste frequenties.
 
-- 5°. De roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar zijn.
+      - 5°. De roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar zijn.
 
-- b. Amateurtelevisie:
+   - b. Amateurtelevisie:
 
-- 1°. De toegelaten klassen van uitzending zijn: A3F, C3F en F3F.
+      - 1°. De toegelaten klassen van uitzending zijn: A3F, C3F en F3F.
 
-- 2°. De opbouw van het beeldsignaal dient zodanig te zijn dat weergave van het beeld na demodulatie mogelijk is met het desbetreffende gedeelte van een televisieontvanger geschikt voor CCIR-norm B en G: lijnfrequentie: 15 625 Hz beeldfrequentie: 25 Hz rasterfrequentie: 50 Hz aantal lijnen per beeld: 625 horizontale afbuiging van links naar rechts verticale afbuiging van boven naar beneden.
+      - 2°. De opbouw van het beeldsignaal dient zodanig te zijn dat weergave van het beeld na demodulatie mogelijk is met het desbetreffende gedeelte van een televisieontvanger geschikt voor CCIR-norm B en G: lijnfrequentie: 15 625 Hz beeldfrequentie: 25 Hz rasterfrequentie: 50 Hz aantal lijnen per beeld: 625 horizontale afbuiging van links naar rechts verticale afbuiging van boven naar beneden.
 
-- 3°. De roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar zijn.
+      - 3°. De roepletters moeten aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar zijn.
 
 - 5. Afwijkingen: Indien bij automatische telegrafie of beeldoverdracht niet aan de voorgeschreven wijze van identificatie kan worden voldaan, dient de identificatie te geschieden door middel van spraak of morse-telegrafie.
 
@@ -315,12 +330,12 @@ Het vermogen van ongewenste hoogfrequent-uitstralingen mag per component niet me
 | Frequentieband waarin de ongewenste hoogfrequent uitstraling plaatsvindt | Zendvermogen per hoogfrequent component | Maximaal vermogen |
 | --- | --- | --- |
 | 9 kHz – 40 MHz | 1 Watt | 100 microWatt |
-|   | > 1 Watt | – 40 dB(*1) |
+|  | > 1 Watt | – 40 dB(*1) |
 | 40 MHz – 960 MHz | 10 Watt | 10 microWatt |
-|   | > 10 Watt | – 60 dB(*1) |
+|  | > 10 Watt | – 60 dB(*1) |
 | 960 MHz – 17.7 GHz | 10 Watt | 100 microWatt |
-|   | – 50 dB (*1) | > 10 Watt |
-|   | > 17.7 GHz | Naar de stand van de techniek |
+|  | – 50 dB (*1) | > 10 Watt |
+|  | > 17.7 GHz | Naar de stand van de techniek |
 
 ##### Artikel 21
 
@@ -328,7 +343,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 #### § 4. Bijzondere voorschriften
 
-#### I. Amateurradio zendmachtiging A
+##### I. Amateurradio zendmachtiging A
 
 ##### Artikel 22
 
@@ -370,7 +385,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 4. Het gebruik van het amateurstation voor amateurtelevisie is uitsluitend toegestaan in frequentiebanden vanaf 430 MHz en hoger. In de frequentiebanden 430 – 440 MHz is hiervoor uitsluitend de klasse van uitzending C3F toegestaan.
 
-#### II. Amateurradio machtiging B
+##### II. Amateurradio machtiging B
 
 ##### Artikel 23
 
@@ -406,7 +421,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 3. Het gebruik van het amateurstation voor amateurtelevisie is uitsluitend toegestaan in frequentiebanden vanaf 430 MHz en hoger. In de frequentieband 430 – 440 MHz, is hiervoor uitsluitend de klasse van uitzending C3F toegestaan.
 
-#### III. Amateurradio machtiging C
+##### III. Amateurradio machtiging C
 
 ##### Artikel 24
 
@@ -437,7 +452,7 @@ De machtiginghouder moet er voor zorgdragen dat door de uitzendingen van de zend
 
 3. Het gebruik van het amateurstation voor amateurtelevisie is uitsluitend toegestaan in frequentiebanden vanaf 430 MHz en hoger. In de 430 – 440 MHz frequentieband is uitsluitend de klasse van uitzending C3F toegestaan.
 
-#### IV. Radioamateurmachtiging N
+##### IV. Radioamateurmachtiging N
 
 ##### Artikel 25
 
@@ -482,123 +497,3 @@ Een toestemming die is verleend krachtens artikel 11, eerste lid, onderdeel b, o
 ##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit radioamateurs BES.
-
-## Bijlage 1. behorende bij het Besluit radioamateurs BES
-
-### Symbolen van de klassen van uitzending
-
-**Eerste symbool (modulatie van de draaggolf)**
-
-N = ongemoduleerde draaggolf
-
-A = dubbelzijband (*1)
-
-B = onafhankelijke zijbanden
-
-H = enkelzijband, volledige draaggolf (* l)
-
-R = enkelzijband, gereduceerde of variabele draaggolf (* l)
-
-J = enkelzijband, onderdrukte draaggolf (*1)
-
-C = restzijband (rudimentaire zijband) (*1)
-
-G = fasemodulatie (*2)
-
-F = frequentiemodulatie (*2)
-
-D = de uitzending waarvan de draaggolf zowel in amplitude- als in frequentiefase gemoduleerd is, hetzij tegelijk dan wel in een van tevoren vastgestelde volgorde
-
-P = ongemoduleerde pulstrein
-
-K = pulstrein, amplitude-gemoduleerd
-
-L = pulstrein, gemoduleerd in lengte of duur
-
-M = pulstrein, gemoduleerd in positie of fase
-
-Q = pulstrein, waarbij de draaggolf frequentie- of fase-gemoduleerd is gedurende de pulstijd
-
-V = pulstrein, welke een combinatie is van het bovenstaande of op een andere wijze tot stand is gekomen
-
-W = gevallen, welke door bovenstaande symbolen niet worden gedekt en waarbij een uitzending bestaat uit een draaggolf, die tegelijk dan wel in een van tevoren vastgestelde volgorde wordt gemoduleerd met een combinatie van twee of meer van de volgende wijzen: amplitude, frequentie of fase, puls
-
-X = gevallen waarin niet is voorzien.
-
-**Tweede symbool (type signaal dat de draaggolf moduleert)**
-
-O = geen modulatie aanwezig
-
-1 = één enkel kanaal met niet-analoge informatie waarbij geen gebruik wordt gemaakt van een modulerende hulpdraaggolf
-
-2 = één enkel kanaal met niet-analoge informatie waarbij gebruik wordt gemaakt van een modulerende hulpdraaggolf
-
-3 = één enkel kanaal met analoge informatie
-
-7 = twee of meer kanalen met niet-analoge informatie
-
-8 = twee of meer kanalen met analoge informatie.
-
-9 = samengesteld systeem, waarbij één of meer kanalen met niet-analoge informatie te zamen met één of meer kanalen met analoge informatie
-
-X = gevallen waarin niet is voorzien.
-
-**Derde symbool (soort informatie welke uitgezonden wordt)**
-
-N = geen informatie (hierbij inbegrepen informatie van een constante, niet variabele aard. zoals b.v. bij standaardfrequenties, radarpulsen etc.)
-
-A = morse-telegrafie bestemd om op het gehoor opgenomen te worden
-
-B = telegrafie bestemd voor automatische ontvangst
-
-C = facsimilé
-
-D = datatransmissie
-
-E = telefonie
-
-F = televisie
-
-W = combinatie van bovenstaande
-
-X = gevallen waarin niet is voorzien
-
-aanduiding dat één dan wel een combinatie van de hierboven vermelde codes van toepassing zijn
-
-(*l) Deze codes hebben betrekking op uitzendingen waarbij de draaggolf amplitude gemoduleerd wordt, inclusief uitzendingen waarbij de subcarrier (hulpdraaggolf) frequentie- of fase-gemoduleerd wordt.
-
-(*2) Indien niet bekend is of fase- dan wel frequentiemo-dulatie wordt toegepast, wordt symbool «F» gebruikt.
-
-## Bijlage 2. behorende bij het Besluit radioamateurs BES
-
-De uitgifte van roepletters als bedoeld in artikel 40 van het Besluit radio-elektrische inrichtingen BES voor wat betreft radioamateurs geschiedt overeenkomstig de navolgende tabel.
-
-PJ2 etc. is het prefix;
-
-x, xx of xxx staat voor aantal nader in te vullen letters; bij xx en xxx is de keuze in beginsel aan de radioamateur.
-
-**) Internationale wedstrijden in groepsverband, voor de duur van de wedstrijd.
-
-### Algemene opmerkingen
-
-## Bijlage 3. behorende bij het Besluit radioamateurs BES
-
-### Register amateurstation
-
-## Bijlage 4. behorende bij het Besluit radioamateurs BES
-
-### Internationale status van de amateurdienst
-
-De verdeling van de frequentiebanden waarin de amateurdienst kan worden toegestaan alsmede de daaraan verbonden internationale status van de verschillende diensten zijn in onderstaande schema opgenomen. Er komen afwijkingen voor tussen de internationale en nationale status en frequentiebanden.
-
-***) Toelichting op de kolom Toewijzingen Status:**
-
-In de kolom toewijzing zijn de diensten opgenomen die tot het gebruik van de in de kolom frequentieband vermelde band zijn toegelaten.
-
-Bij deze toewijzing wordt onderscheid gemaakt tussen de primaire en secundaire status van de verschillende diensten.
-
-Diensten met primaire status zijn vermeld in het hoofdlettertype, met secundaire status in het normale lettertype.
-
-Primaire diensten hebben voorrang boven secundaire diensten. Waar storing optreedt moeten de secundaire diensten wijken c.q. hun uitzendingen onverwijld staken. Primaire diensten onderling hebben gelijke rechten met dien verstande dat geen onderlinge storing mag worden veroorzaakt. Secundaire diensten mogen geen storing veroorzaken op toepassingen van primaire diensten, zij hebben geen recht op bescherming tegen storing veroorzaakt door stations behorende tot primaire diensten. Secundaire diensten onderling hebben gelijke rechten.
-
-****) Toelichting op de kolom Bijzonderheden:**

@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregel uitvoering weggedragtest van de Dienst Wegverkeer bij toelating en wijziging constructie van voertuigen (Beleidsregel weggedrag)"
+citeertitel: "Beleidsregel weggedrag"
 identifier: "BWBR0029585"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-04-01"
-last_updated: "2011-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029585"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "11233463"
-version_id: "18393832"
-internal_id: "C25760181"
-label_id: "11207534"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029585/2011-04-01/0"
-intitule_bron: "Stcrt.2011-2528"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-02-15"
-intitule_in_force: "2011-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-2528"
-original_published_date: "2011-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-2528"
-entry_into_force_date: "2011-04-01"
-jci_1_3: "jci1.3:c:BWBR0029585&z=2011-04-01&g=2011-04-01"
-jci_1_0: "1.0:c:BWBR0029585&g=2011-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel weggedrag"
-entry_into_force: "2011-04-01"
+publicatiedatum: 2011-04-01
+laatste_update: 2011-04-01
+status: geldig
+toestand: 2011-04-01
+bron: "https://wetten.overheid.nl/BWBR0029585"
+opgehaald: 2026-08-16
 ---
+
 # Beleidsregel uitvoering weggedragtest van de Dienst Wegverkeer bij toelating en wijziging constructie van voertuigen (Beleidsregel weggedrag)
-
-Gelet op [artikelen 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.2), [3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.3), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.7), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.11) en [6.3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=6.3) en de [bijlagen IIIA, artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIa), [IIIB, artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb), [IIID, artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIId), [bijlage IV, artikel 8, eerste en tweede lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Regeling van de Minister van Infrastructuur en Milieu tot wijziging van de Regeling voertuigen in verband met de toevoeging van technische eisen met betrekking tot de toelating van elektrisch aangedreven en hybride elektrische voertuigen tot het Nederlandse verkeer en in verband met de toevoeging van nationale toelatingseisen betreffende het weggedrag van motorvoertuigen in werking treedt.
 
 ##### Artikel 1
 
@@ -60,5 +35,3 @@ Deze beleidsregel treedt in werking op het tijdstip waarop de Regeling van de Mi
 ##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel weggedrag.
-
-Deze beleidsregel zal in de Staatscourant worden geplaatst.

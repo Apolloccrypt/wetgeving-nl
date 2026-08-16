@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052906"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 27 juni 2026, nr. WJZ/103644339, tot aanwijzing van toezichthouders voor de Cyberbeveiligingswet en de Wet weerbaarheid kritieke entiteiten (Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten KGG)

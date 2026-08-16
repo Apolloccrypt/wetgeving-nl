@@ -1,38 +1,16 @@
 ---
 title: "Besluit rechtspositie korps politie BES"
 identifier: "BWBR0028767"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2026-04-10"
-last_updated: "2026-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028767"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10985143"
-version_id: "17974882"
-internal_id: "C24930101"
-label_id: "10961594"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028767/2026-04-10/0"
-intitule_bron: "Stb.2010-419"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-07"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-419"
-original_signed_date: "2010-10-07"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-419"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028767&z=2026-04-10&g=2026-04-10"
-jci_1_0: "1.0:c:BWBR0028767&g=2026-04-10"
-citeertitel_status: "officieel"
-signed_date: "2010-10-07"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-04-10
+status: geldig
+toestand: 2026-04-10
+bron: "https://wetten.overheid.nl/BWBR0028767"
+opgehaald: 2026-08-16
 ---
+
 # Besluit rechtspositie korps politie BES
 
 ### Hoofdstuk I. Algemeen
@@ -41,47 +19,47 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **[Vervallen]**
+- b. *[Vervallen]*
 
-- c. **ambtenaar van politie:** de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant, de vrijwillige ambtenaar van politie aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar in opleiding en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie;
+- c. *ambtenaar van politie:* de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant, de vrijwillige ambtenaar van politie aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar in opleiding en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie;
 
-- d. **aspirant:** degene die toegelaten is tot de basisopleiding;
+- d. *aspirant:* degene die toegelaten is tot de basisopleiding;
 
-- e. **ambtenaar aangesteld voor de uitvoering van de politietaak:** de ambtenaar, bedoeld in [artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met uitzondering van de aspirant;
+- e. *ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met uitzondering van de aspirant;
 
-- f. **ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:** de ambtenaar, bedoeld in [artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+- f. *ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:* de ambtenaar, bedoeld in [artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-  - f1. **vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:** de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+   - f1. *vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-  - f2. **vrijwillige ambtenaar in opleiding:** degene die door Onze Minister is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;
+   - f2. *vrijwillige ambtenaar in opleiding:* degene die door Onze Minister is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;
 
-  - f3. **vrijwillige ambtenaar van politie:** de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;
+   - f3. *vrijwillige ambtenaar van politie:* de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak en de vrijwillige ambtenaar in opleiding;
 
-- g. **volledige betrekking:** een betrekking met een arbeidstijd van gemiddeld 36 uur per week;
+- g. *volledige betrekking:* een betrekking met een arbeidstijd van gemiddeld 36 uur per week;
 
-- h. **deelbetrekking:** een betrekking met een arbeidstijd van gemiddeld minder dan 36 uur per week;
+- h. *deelbetrekking:* een betrekking met een arbeidstijd van gemiddeld minder dan 36 uur per week;
 
-- i. **bezoldiging:** het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken met inachtneming van de bepalingen bij of krachtens het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) vastgesteld;
+- i. *bezoldiging:* het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak, de aspirant en de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken met inachtneming van de bepalingen bij of krachtens het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) vastgesteld;
 
-- j. **bezoldigingsschaal:** een als zodanig bij ministeriële regeling vastgestelde, van een volgnummer voorziene reeks van bedragen;
+- j. *bezoldigingsschaal:* een als zodanig bij ministeriële regeling vastgestelde, van een volgnummer voorziene reeks van bedragen;
 
-- k. **bezoldigingstrede:** elk afzonderlijk binnen een bezoldigingsschaal opgenomen bezoldigingsbedrag;
+- k. *bezoldigingstrede:* elk afzonderlijk binnen een bezoldigingsschaal opgenomen bezoldigingsbedrag;
 
-- l. **detachering:** een tijdelijke tewerkstelling elders dan bij het korps waar de ambtenaar van politie is geplaatst;
+- l. *detachering:* een tijdelijke tewerkstelling elders dan bij het korps waar de ambtenaar van politie is geplaatst;
 
-- m. **plaats van tewerkstelling:** het gebouw, het gebouwencomplex, het terrein of het vaartuig dat de ambtenaar van politie voor de normale uitoefening van zijn functie is aangewezen, en bij gebrek aan een dergelijke aanwijzing,het gebouw, het gebouwencomplex, het terrein of het vaartuig waar hij gewoonlijk zijn functie uitoefent;
+- m. *plaats van tewerkstelling:* het gebouw, het gebouwencomplex, het terrein of het vaartuig dat de ambtenaar van politie voor de normale uitoefening van zijn functie is aangewezen, en bij gebrek aan een dergelijke aanwijzing,het gebouw, het gebouwencomplex, het terrein of het vaartuig waar hij gewoonlijk zijn functie uitoefent;
 
-- n. **werkgebied:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- n. *werkgebied:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- o. **functie:** het samenstel van werkzaamheden door de ambtenaar in zijn ambt te verrichten krachtens en overeenkomstig hetgeen hem door Onze Minister uitdrukkelijk of impliciet is opgedragen;
+- o. *functie:* het samenstel van werkzaamheden door de ambtenaar in zijn ambt te verrichten krachtens en overeenkomstig hetgeen hem door Onze Minister uitdrukkelijk of impliciet is opgedragen;
 
-- p. **maximum-bezoldiging:** het bedrag behorende bij de hoogste bezoldigingstrede van een bezoldigingsschaal, waarvan de volgnummeraanduiding uitsluitend uit een getal bestaat;
+- p. *maximum-bezoldiging:* het bedrag behorende bij de hoogste bezoldigingstrede van een bezoldigingsschaal, waarvan de volgnummeraanduiding uitsluitend uit een getal bestaat;
 
-- q. **levensfaseverlof:** levensfaseverlof, bedoeld in [artikel 37d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37d&z=2026-04-10&g=2026-04-10);
+- q. *levensfaseverlof:* levensfaseverlof, bedoeld in [artikel 37d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37d&z=2026-04-10&g=2026-04-10);
 
-- r. **Sectorale Overlegcommissie BES:** de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
+- r. *Sectorale Overlegcommissie BES:* de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
 
 2. In dit besluit wordt onder weduwe of weduwnaar mede verstaan de achtergebleven levenspartner met wie de overleden niet gehuwde ambtenaar een gemeenschappelijke huishouding voerde. Slechts één persoon kan als levenspartner worden aangemerkt.
 
@@ -393,7 +371,7 @@ De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](h
 
 ##### Artikel 8m
 
-1. Indien naar het oordeel van Onze Minister de aard van de functie of van de werkzaamheden hiertoe aanleiding geeft, kan ten aanzien van de ambtenaar in de volgende gevallen opnieuw een onderzoek als bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2026-04-10&g=2026-04-10), worden uitgevoerd:
+1. Indien naar het oordeel van Onze Minister de aard van de functie of van de werkzaamheden hiertoe aanleiding geeft, kan ten aanzien van de ambtenaar in de volgende gevallen opnieuw een onderzoek als bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2026-04-10&g=2026-04-10), worden uitgevoerd:
 
 - a. bij wijziging van werkzaamheden;
 
@@ -413,7 +391,7 @@ De betrokkene die op grond van [artikel 8, eerste lid, onder g, of tweede lid](h
 
 1. Onze Minister is verantwoordelijk voor de goede uitvoering van het onderzoek, bedoeld in [artikel 8l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2026-04-10&g=2026-04-10).
 
-2. Bij regeling van Onze Minister worden nadere regels gesteld ter uitvoering van de [artikelen 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2026-04-10&g=2026-04-10) en [8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2026-04-10&g=2026-04-10). Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.
+2. Bij regeling van Onze Minister worden nadere regels gesteld ter uitvoering van de [artikelen 8l](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8l&z=2026-04-10&g=2026-04-10) en [8m](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=3&artikel=8m&z=2026-04-10&g=2026-04-10). Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.
 
 ##### Artikel 8o
 
@@ -549,11 +527,11 @@ Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
 
 - d. andere werkzaamheden die door de instantie kunnen worden uitgevoerd, mits die werkzaamheden:
 
-  - 1°. samenhangen met de in het derde of vierde lid bedoelde taken;
+   - 1° samenhangen met de in het derde of vierde lid bedoelde taken;
 
-  - 2°. niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten, en
+   - 2° niet leiden tot concurrentievervalsing ten opzichte van private aanbieders van vergelijkbare diensten, en
 
-  - 3°. tegen ten minste kostendekkende prijzen worden verricht.
+   - 3° tegen ten minste kostendekkende prijzen worden verricht.
 
 #### § 4. Bezoldiging, vergoedingen en toelagen
 
@@ -589,11 +567,11 @@ Zo waarlijk helpe mij God almachtig (Dat beloof ik)!»
 
 4. Anders dan bij wijze van disciplinaire straf, bedoeld in [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IX&z=2026-04-10&g=2026-04-10), kan zonder voorafgaand ontslag voor een ambtenaar aangesteld voor de uitvoering van de politietaak, geen bezoldigingsschaal worden vastgesteld die een lagere maximum-bezoldiging bevat dan die welke in de voordien voor hem geldende bezoldigingsschaal aangegeven is.
 
-5. De ambtenaar aangesteld voor de uitvoering van de politietaak die tot 10 oktober 2010 in dienst was bij het Korps Sint Maarten, Sint Eustatius en Saba met als plaats van tewerkstelling Sint Eustatius of Saba of bij het Korps Bonaire, bekleed is met de rang van agent en een functie vervult die is gewaardeerd op bezoldigingsschaal 6, wordt bevorderd tot de rang van brigadier.
+5. De ambtenaar aangesteld voor de uitvoering van de politietaak die tot 10 oktober 2010 in dienst was bij het Korps Sint Maarten, Sint Eustatius en Saba met als plaats van tewerkstelling Sint Eustatius of Saba of bij het Korps Bonaire, bekleed is met de rang van agent en een functie vervult die is gewaardeerd op bezoldigingsschaal 6, wordt bevorderd tot de rang van brigadier.
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 17
 
@@ -657,23 +635,109 @@ Ingeval de ambtenaar aangesteld voor de uitvoering van de politietaak, bevorderd
 
 ##### Artikel 23a
 
-1. Aan de ambtenaar van politie die op 1 januari 2025 in dienst was, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+1. Aan de ambtenaar van politie die op 1 januari 2025 in dienst was, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
 
-2. Aan de ambtenaar van politie die op 1 augustus 2025 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+2. Aan de ambtenaar van politie die op 1 augustus 2025 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
 
-3. Aan de ambtenaar van politie die op 1 januari 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+3. Aan de ambtenaar van politie die op 1 januari 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
 
-4. Aan de ambtenaar van politie die op 1 augustus 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+4. Aan de ambtenaar van politie die op 1 augustus 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
 
 ##### Artikel 23b
 
 De vrijwillige ambtenaar in opleiding en de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak die in opdracht van Onze Minister een voor zijn functie relevante cursus volgt dan wel deelneemt aan een oefening of in opdracht van Onze Minister werkelijke dienst verricht, ontvangen een bij ministeriële regeling vastgestelde vergoeding.
 
+##### Artikel 23c
+
+1. In de kalenderjaren 2025 en 2026 ontvangt de ambtenaar van politie een vitaliteitsbijdrage ter hoogte van USD 30 netto per maand.
+
+2. In de kalenderjaren 2025 en 2026 ontvangt de ambtenaar van politie, onverminderd het eerste lid en onder door het bevoegd gezag te stellen algemene voorwaarden, een aanvullende vitaliteitsbijdrage ter hoogte van USD 30 netto per maand.
+
+##### Artikel 23d
+
+[Artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a) is van overeenkomstige toepassing op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
+
+#### § 4a. Overgangsrecht bezoldiging
+
+##### Artikel 23e
+
+In deze paragraaf wordt verstaan onder:
+
+- a. *ambtenaar:* de ambtenaar van politie aangesteld voor de uitvoering van de politietaak en de aspirant;
+
+- b. *oorspronkelijke bezoldigingsschaal:* de bezoldigingsschaal die van toepassing was tot en met 30 juni 2013;
+
+- c. *nieuwe bezoldigingsschaal:* de bezoldigingsschaal die met terugwerkende kracht van toepassing is met ingang van 1 juli 2013;
+
+- d. *oorspronkelijke maximum-bezoldiging:* het bedrag, behorende bij de hoogste bezoldigingstrede van de oorspronkelijke bezoldigingsschaal;
+
+- e. *garantietrede:* elk afzonderlijk binnen een bezoldigingsschaal opgenomen bezoldigingsbedrag, voorzien van een nummer dat wordt voorafgegaan door de aanduiding «GPT»;
+
+- f. *bevorderen:* overgaan naar een functie, aan welke bezoldiging in een hogere bezoldigingsschaal is verbonden.
+
+##### Artikel 23f
+
+Voor zover in de nieuwe bezoldigingsschaal de maximum-bezoldiging een lager bedrag is dan de maximum-bezoldiging in de oorspronkelijke bezoldigingsschaal worden bij ministeriële regeling garantietreden vastgesteld.
+
+##### Artikel 23g
+
+1. Bij ministeriële regeling worden inpastabellen vastgesteld voor ambtenaren die reeds op 30 september 2014 in dienst waren, waarbij onderscheid wordt gemaakt tussen:
+
+- a. ambtenaren die hun functie in 2013 naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), naar behoren hebben vervuld, en
+
+- b. ambtenaren ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
+
+Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigingstrede in de oorspronkelijke bezoldigingsschaal op welke bezoldigings- of garantietrede de bezoldiging van een ambtenaar met in achtneming van het tweede tot en met vierde lid opnieuw wordt vastgesteld in de nieuwe bezoldigingsschaal.
+
+2. De bezoldiging van de ambtenaar die reeds op 30 juni 2013 in dienst was en de bezoldiging van de aspirant die reeds op 30 juni 2013 in dienst was, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met 1 juli 2013, of, indien hij daarna is bevorderd, voor de periode van 1 juli 2013 tot de datum van bevordering, met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot dan toe werd bezoldigd.
+
+3. De bezoldiging van de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden en de bezoldiging van de aspirant die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van indiensttreding of, indien de ambtenaar na 1 juli 2013 is bevorderd voor de periode van de datum van indiensttreding tot de datum van bevordering met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot zijn bevordering werd bezoldigd.
+
+4. Indien de ambtenaar, bedoeld in het tweede of derde lid, na 1 juli 2013 is bevorderd, wordt zijn bezoldiging op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van bevordering opnieuw vastgesteld in de bezoldigingsschaal volgens welke hij vanaf zijn bevordering werd bezoldigd.
+
+##### Artikel 23h
+
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie naar behoren vervult.
+
+2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie naar behoren vervult.
+
+3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast-hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie zeer goed of uitstekend vervult.
+
+4. De in het tweede en derde lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld de laatste garantietrede die behoort bij de voor hem geldende bezoldigingsschaal nog niet heeft bereikt.
+
+5. Aan een verhoging, bedoeld in het eerste of tweede lid, behoeft geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10) ten grondslag te liggen, indien het een aspirant betreft.
+
+##### Artikel 23i
+
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
+
+2. Na de eerste bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn bevordering werd bezoldigd minus twee.
+
+3. Na de tweede bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn eerste bevordering werd bezoldigd minus vijf.
+
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, met dien verstande dat voor «1 juli 2013» gelezen wordt: de datum van indiensttreding.
+
+5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
+
+##### Artikel 23j
+
+Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorderd wordt hem, onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-04-10&g=2026-04-10), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
+
+##### Artikel 23k
+
+1. Aan de ambtenaar die reeds op 30 juni 2013 in dienst was, wordt een eenmalige harmonisatie-uitkering verleend ter hoogte van USD 300,00.
+
+2. De harmonisatie-uitkering wordt voor de ambtenaar, bedoeld in het eerste lid, met een deelbetrekking vastgesteld op een evenredig deel van de harmonisatie-uitkering, bedoeld in het eerste lid.
+
+##### Artikel 23l
+
+De ambtenaar die naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), in 2013 zijn functie naar behoren heeft vervuld, ontvangt een eenmalige uitkering van USD 100,00.
+
 #### § 5. Functioneringsgesprek en beoordeling
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
@@ -714,6 +778,10 @@ De ambtenaar van politie, anders dan de aspirant, die daartoe de wens te kennen 
 ##### Artikel 28
 
 Het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606) is niet van toepassing op de ambtenaar van politie.
+
+##### Artikel 28a
+
+Voor zover de ambtenaar van politie ten aanzien van wie een dienstrooster als bedoeld in [artikel 37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt.
 
 #### § 2. De aspirant
 
@@ -763,7 +831,7 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 33
 
-1. De ambtenaar van politie heeft per kalenderjaar aanspraak op 182 vakantie-uren.
+1. De ambtenaar van politie heeft per kalenderjaar aanspraak op 182 vakantie-uren.
 
 2. Aan de ambtenaar van politie die ingevolge het voor hem geldende dienstrooster avond- en/of nachtdienst en dienst op zon- en feestdagen moet verrichten, heeft per kalenderjaar aanspraak op 22 extra vakantie-uren.
 
@@ -809,7 +877,7 @@ In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 37
 
@@ -827,11 +895,71 @@ Vervallen
 
 7. De in deze paragraaf bedoelde vakantie kan wegens dringende redenen van dienstbelang door Onze Minister geheel of gedeeltelijk worden geweigerd of ingetrokken.
 
+##### Artikel 37a
+
+1. Behoudens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=39&z=2026-04-10&g=2026-04-10) vervalt de aanspraak op vakantie-uren na verloop van een jaar na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
+
+2. Indien de ambtenaar van politie naar het oordeel van Onze Minister redelijkerwijs niet in staat is geweest zijn vakantie-uren binnen de in het eerste lid genoemde termijn op te nemen, kan Onze Minister toestaan dat van het eerste lid wordt afgeweken. In dat geval vervalt de aanspraak alsnog na verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
+
+3. Dit artikel is niet van toepassing op vakantie-uren die de ambtenaar op grond van [37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) heeft gespaard ten behoeve van levensfaseverlof.
+
+##### Artikel 37b
+
+1. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan Onze Minister op aanvraag van de ambtenaar van politie zijn aanspraak op vakantie-uren eenmaal per kalenderjaar met ten hoogste 50 vakantie-uren verlagen.
+
+2. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan Onze Minister op aanvraag van de ambtenaar van politie eenmaal per kalenderjaar zijn aanspraak op vakantie-uren met ten hoogste 72 vakantie-uren verhogen.
+
+3. Ten aanzien van het in het eerste tot en met vierde lid genoemde aantal vakantie-uren is [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), van overeenkomstige toepassing.
+
+4. Een aanvraag als bedoeld in het eerste of tweede lid wordt voor 1 november van het lopende kalenderjaar ingediend. Onze Minister beslist op of na 1 november en voor het einde van dat kalenderjaar gelijktijdig over alle voor die datum ingediende aanvragen.
+
+5. De ambtenaar van politie wordt een vergoeding toegekend voor elk uur waarmee zijn aanspraak op vakantie-uren ingevolge het eerste of tweede lid wordt verlaagd, ten bedrage van de bezoldiging per uur die hij geniet op de dag waarop de aanvraag, bedoeld in het eerste lid, is goedgekeurd.
+
+6. De ambtenaar van politie is een vergoeding verschuldigd voor elk uur waarmee zijn aanspraak op vakantie-uren ingevolge het derde of vierde lid wordt verhoogd ten bedrage van de bezoldiging per uur die hij geniet op de dag waarop de aanvraag, bedoeld in het tweede lid, is goedgekeurd.
+
+7. Onze Minister kan nadere regels stellen ter uitvoering van dit artikel.
+
+##### Artikel 37c
+
+1. De ambtenaar van politie kan per kalenderjaar ten hoogste 24 van de vakantie-uren waarop hij aanspraak heeft op grond van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), sparen ten behoeve van levensfaseverlof.
+
+2. In afwijking van het eerste lid kan de ambtenaar van politie aan het einde van elk kalenderjaar ten hoogste 59,7 van de vakantie-uren waarop hij aanspraak heeft op grond van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), sparen ten behoeve van levensfaseverlof, op voorwaarde dat hij in dat kalenderjaar ten minste 108 vakantie-uren heeft genoten.
+
+3. De ambtenaar van politie aan wie op grond van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), extra vakantie-uren zijn verleend, kan een derde deel van die extra-vakantie-uren sparen ten behoeve van levensfaseverlof.
+
+4. Onverminderd [artikel 37b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37b&z=2026-04-10&g=2026-04-10), kan Onze Minister op aanvraag van de ambtenaar van politie zijn aanspraak op vakantie-uren met ten hoogste 28,8 uren verhogen, welke uren die ambtenaar spaart ten behoeve van levensfaseverlof. Artikel 37b, achtste lid, is van overeenkomstige toepassing.
+
+5. Het aantal op grond van dit artikel in totaal door een ambtenaar van politie gespaarde en nog niet op grond van [artikel 37d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37d&z=2026-04-10&g=2026-04-10) opgenomen vakantie-uren bedraagt ten hoogste 1.800.
+
+6. Ten aanzien van de in het eerste, tweede, vierde en vijfde lid genoemde aantallen vakantie-uren is [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=34&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
+
+7. Onze Minister kan nadere regels stellen ter uitvoering van dit artikel.
+
+##### Artikel 37d
+
+1. De ambtenaar van politie kan op aanvraag de op grond van [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) gespaarde vakantie-uren opnemen als levensfaseverlof. Levensfaseverlof kan worden gecombineerd met vakantie op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10).
+
+2. Een aanvraag als bedoeld in het eerste lid wordt uiterlijk drie maanden voor het ingaan van het voorgenomen verlof ingediend, indien de verlofperiode, met inbegrip van eventuele vakantie op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), niet meer dan vier weken bedraagt. Indien de verlofperiode langer dan vier weken bedraagt, wordt de aanvraag uiterlijk zes maanden voor het ingaan van het voorgenomen verlof ingediend.
+
+3. Een aanvraag als bedoeld in het eerste lid wordt toegewezen, tenzij een zwaarwegend dienstbelang van bedrijfsorganisatorische aard zich daartegen verzet.
+
+4. Levensfaseverlof wordt genoten met behoud van vol inkomen.
+
+5. Levensfaseverlof kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk door Onze Minister worden ingetrokken. Indien de ambtenaar van politie of zijn gezin ten gevolge van de intrekking schade lijdt, wordt deze schade vergoed.
+
 ##### Artikel 38
 
 1. Indien de ambtenaar van politie tijdens een verleende vakantie blijkens een geneeskundige verklaring gedurende een of meer werkuren arbeidsongeschikt is geweest, wordt het aantal vakantie-uren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt is geweest, beschouwd niet als vakantie te zijn genoten, en wordt hem vrijstelling, bedoeld in [artikel 44, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=V&artikel=44&z=2026-04-10&g=2026-04-10), verleend.
 
 2. De niet-genoten vakantie-uren, bedoeld in het eerste lid, worden opnieuw verleend met in achtneming van deze paragraaf.
+
+##### Artikel 38a
+
+1. Behoudens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=39&z=2026-04-10&g=2026-04-10) verliest de ambtenaar van politie zijn aanspraak op de door hem niet-genoten vakantie-uren die betrekking hebben op het kalenderjaar voorafgaand aan het afgelopen kalenderjaar.
+
+2. Indien de ambtenaar van politie naar het oordeel van het bevoegd gezag redelijkerwijs niet in staat is geweest zijn vakantie-uren binnen de in het eerste lid genoemde termijn op te nemen, kan het bevoegd gezag toestaan dat van het eerste lid wordt afgeweken. In dat geval vervalt de aanspraak alsnog na verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
+
+3. Het eerste en tweede lid is niet van toepassing op vakantie-uren die de ambtenaar van politie op grond van [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) heeft gespaard ten behoeve van levensfaseverlof.
 
 ##### Artikel 39
 
@@ -981,9 +1109,9 @@ Tenzij dringende redenen van dienstbelang zich daar tegen verzetten, wordt de am
 
 - e. bij het overlijden van:
 
-  - 1. de onder d genoemde personen: twee werkdagen;
+   - 1. de onder d genoemde personen: twee werkdagen;
 
-  - 2. bloed of aanverwanten tot en met de derde graad: een werkdag;
+   - 2. bloed of aanverwanten tot en met de derde graad: een werkdag;
 
 - f. indien betrokkene, in het geval bedoeld onder e, is belast met de regeling van de lijkbezorging of de nalatenschap dan wel met beide: ten hoogste vier werkdagen;
 
@@ -1029,7 +1157,7 @@ Tenzij dringende redenen van dienstbelang zich daar tegen verzetten, wordt de am
 
 5. Onze Minister kan nadere regels stellen omtrent de gevallen waarin het eerste lid toegepast kan worden.
 
-#### § 1. Algemeen
+#### § 3. Buitengewoon verlof van lange duur
 
 ##### Artikel 56
 
@@ -1073,11 +1201,11 @@ Indien het verlof, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:B
 
 In afwijking van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=I&artikel=1&z=2026-04-10&g=2026-04-10), wordt in dit hoofdstuk, [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=1&z=2026-04-10&g=2026-04-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=2&z=2026-04-10&g=2026-04-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=3&z=2026-04-10&g=2026-04-10) onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
 
-#### § 2. Buitengewoon verlof van korte duur
+#### § 1. Ziekte en ongeval
 
 ##### Artikel 62
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 63
 
@@ -1097,11 +1225,11 @@ Vervallen
 
 - a. voor de ambtenaar van politie in vaste dienst:
 
-  - –. zijn volle bezoldiging gedurende de eerste vierentwintig maanden;
+   - – zijn volle bezoldiging gedurende de eerste vierentwintig maanden;
 
-  - –. negentig procent van zijn volle bezoldiging gedurende de daaropvolgende twaalf maanden;
+   - – negentig procent van zijn volle bezoldiging gedurende de daaropvolgende twaalf maanden;
 
-  - –. tachtig procent van zijn volle bezoldiging gedurende de resterende maanden.
+   - – tachtig procent van zijn volle bezoldiging gedurende de resterende maanden.
 
 - b. voor de ambtenaar van politie in tijdelijke dienst: zijn volle bezoldiging
 
@@ -1293,7 +1421,7 @@ Indien geen sprake is van een ongeval, maar wel van een ziekte die is ontstaan o
 
 ##### Artikel 74g
 
-De [artikelen 74d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74d&z=2026-04-10&g=2026-04-10), [74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2026-04-10&g=2026-04-10) en [74f](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74f&z=2026-04-10&g=2026-04-10) zijn van overeenkomstige toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, voor zover deze de leeftijd, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2026-04-10&g=2026-04-10), nog niet heeft bereikt.
+De [artikelen 74d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74d&z=2026-04-10&g=2026-04-10), [74e](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74e&z=2026-04-10&g=2026-04-10) en [74f](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=VII&paragraaf=4&artikel=74f&z=2026-04-10&g=2026-04-10) zijn van overeenkomstige toepassing op de gewezen vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak, voor zover deze de leeftijd, bedoeld in [artikel 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=X&paragraaf=3&artikel=118&z=2026-04-10&g=2026-04-10), nog niet heeft bereikt.
 
 ### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
 
@@ -1513,7 +1641,7 @@ De ambtenaar van politie kan niet worden verplicht om, indien bij een particulie
 
 ##### Artikel 89
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 90
 
@@ -1523,11 +1651,11 @@ Vervallen
 
 ##### Artikel 91
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 92
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 93
 
@@ -1599,7 +1727,7 @@ Vervallen
 
 ##### Artikel 99
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 100
 
@@ -1867,7 +1995,7 @@ Aan een ambtenaar van politie die in een door Onze Minister openbare betrekking 
 
 3. Een ontslag, bedoeld in het eerste lid, kan niet eerder ingaan dan de dag volgende op die waarop de reden van het ontslag voor het eerst aanwezig was.
 
-### Hoofdstuk X. Schorsing en ontslag.
+### Hoofdstuk XI. Bezwaar
 
 ##### Artikel 120
 
@@ -1922,381 +2050,3 @@ Op de personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet B
 ##### Artikel 124
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie korps politie BES.
-
-## Bijlage A. [Vervallen]
-
-## Bijlage. behorende bij [artikel 23, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2011-01-20&g=2011-01-20), van het Besluit rechtspositie korps politie BES
-
-- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2011-01-20&g=2011-01-20), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
-
-- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2011-01-20&g=2011-01-20), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
-
-- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2011-01-20&g=2011-01-20), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
-
-- IV. De vergoeding per vol uur, bedoeld in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2011-01-20&g=2011-01-20), is voor de: aspirant: USD 7,26 agent: USD 9,50 brigadier: USD 11,73 hoofdagent: USD 14,53
-
-##### Artikel 23c
-
-1. In de kalenderjaren 2025 en 2026 ontvangt de ambtenaar van politie een vitaliteitsbijdrage ter hoogte van USD 30 netto per maand.
-
-2. In de kalenderjaren 2025 en 2026 ontvangt de ambtenaar van politie, onverminderd het eerste lid en onder door het bevoegd gezag te stellen algemene voorwaarden, een aanvullende vitaliteitsbijdrage ter hoogte van USD 30 netto per maand.
-
-##### Artikel 23d
-
-[Artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a) is van overeenkomstige toepassing op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.
-
-#### § 4a. Overgangsrecht bezoldiging
-
-### Hoofdstuk III. Arbeids- en rusttijden
-
-### Hoofdstuk IV. Vakantie
-
-#### § 5. Functioneringsgesprek en beoordeling
-
-#### § 3. Overige ambtenaren van politie
-
-### Hoofdstuk V. Vrijstelling van dienst
-
-### Hoofdstuk VI. Buitengewoon verlof
-
-#### § 1. Algemeen
-
-#### § 2. Buitengewoon verlof van korte duur
-
-#### § 3. Buitengewoon verlof van lange duur
-
-### Hoofdstuk VII. Voorzieningen in verband met ziekte, ongeval, zwangerschap en bevalling
-
-#### § 1. Ziekte en ongeval
-
-#### § 2. Zwangerschap en bevalling
-
-#### § 1. Ziekte en ongeval
-
-### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk VIIb. Geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden
-
-### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk IX. Disciplinaire straffen
-
-### Hoofdstuk X. Schorsing en ontslag.
-
-#### § 2. Schorsing
-
-#### § 3. Ontslag
-
-### Hoofdstuk XI. Bezwaar
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-## Bijlage A. [Vervallen]
-
-## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), van het Besluit rechtspositie korps politie BES
-
-- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
-
-- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
-
-- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
-
-##### Artikel 23e
-
-In deze paragraaf wordt verstaan onder:
-
-- a. **ambtenaar:** de ambtenaar van politie aangesteld voor de uitvoering van de politietaak en de aspirant;
-
-- b. **oorspronkelijke bezoldigingsschaal:** de bezoldigingsschaal die van toepassing was tot en met 30 juni 2013;
-
-- c. **nieuwe bezoldigingsschaal:** de bezoldigingsschaal die met terugwerkende kracht van toepassing is met ingang van 1 juli 2013;
-
-- d. **oorspronkelijke maximum-bezoldiging:** het bedrag, behorende bij de hoogste bezoldigingstrede van de oorspronkelijke bezoldigingsschaal;
-
-- e. **garantietrede:** elk afzonderlijk binnen een bezoldigingsschaal opgenomen bezoldigingsbedrag, voorzien van een nummer dat wordt voorafgegaan door de aanduiding «GPT»;
-
-- f. **bevorderen:** overgaan naar een functie, aan welke bezoldiging in een hogere bezoldigingsschaal is verbonden.
-
-##### Artikel 23f
-
-Voor zover in de nieuwe bezoldigingsschaal de maximum-bezoldiging een lager bedrag is dan de maximum-bezoldiging in de oorspronkelijke bezoldigingsschaal worden bij ministeriële regeling garantietreden vastgesteld.
-
-##### Artikel 23g
-
-1. Bij ministeriële regeling worden inpastabellen vastgesteld voor ambtenaren die reeds op 30 september 2014 in dienst waren, waarbij onderscheid wordt gemaakt tussen:
-
-- a. ambtenaren die hun functie in 2013 naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), naar behoren hebben vervuld, en
-
-- b. ambtenaren ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
-
-Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigingstrede in de oorspronkelijke bezoldigingsschaal op welke bezoldigings- of garantietrede de bezoldiging van een ambtenaar met in achtneming van het tweede tot en met vierde lid opnieuw wordt vastgesteld in de nieuwe bezoldigingsschaal.
-
-2. De bezoldiging van de ambtenaar die reeds op 30 juni 2013 in dienst was en de bezoldiging van de aspirant die reeds op 30 juni 2013 in dienst was, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met 1 juli 2013, of, indien hij daarna is bevorderd, voor de periode van 1 juli 2013 tot de datum van bevordering, met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot dan toe werd bezoldigd.
-
-3. De bezoldiging van de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden en de bezoldiging van de aspirant die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van indiensttreding of, indien de ambtenaar na 1 juli 2013 is bevorderd voor de periode van de datum van indiensttreding tot de datum van bevordering met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot zijn bevordering werd bezoldigd.
-
-4. Indien de ambtenaar, bedoeld in het tweede of derde lid, na 1 juli 2013 is bevorderd, wordt zijn bezoldiging op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van bevordering opnieuw vastgesteld in de bezoldigingsschaal volgens welke hij vanaf zijn bevordering werd bezoldigd.
-
-##### Artikel 23h
-
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie naar behoren vervult.
-
-2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie naar behoren vervult.
-
-3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=18&z=2026-04-10&g=2026-04-10), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast-hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), zijn functie zeer goed of uitstekend vervult.
-
-4. De in het tweede en derde lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld de laatste garantietrede die behoort bij de voor hem geldende bezoldigingsschaal nog niet heeft bereikt.
-
-5. Aan een verhoging, bedoeld in het eerste of tweede lid, behoeft geen formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10) ten grondslag te liggen, indien het een aspirant betreft.
-
-##### Artikel 23i
-
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
-
-2. Na de eerste bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn bevordering werd bezoldigd minus twee.
-
-3. Na de tweede bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn eerste bevordering werd bezoldigd minus vijf.
-
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, met dien verstande dat voor «1 juli 2013» gelezen wordt: de datum van indiensttreding.
-
-5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 23h](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4a&artikel=23h&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
-
-##### Artikel 23j
-
-Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorderd wordt hem, onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=21&z=2026-04-10&g=2026-04-10), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
-
-##### Artikel 23k
-
-1. Aan de ambtenaar die reeds op 30 juni 2013 in dienst was, wordt een eenmalige harmonisatie-uitkering verleend ter hoogte van USD 300,00.
-
-2. De harmonisatie-uitkering wordt voor de ambtenaar, bedoeld in het eerste lid, met een deelbetrekking vastgesteld op een evenredig deel van de harmonisatie-uitkering, bedoeld in het eerste lid.
-
-##### Artikel 23l
-
-De ambtenaar die naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=5&artikel=25&z=2026-04-10&g=2026-04-10), in 2013 zijn functie naar behoren heeft vervuld, ontvangt een eenmalige uitkering van USD 100,00.
-
-### Hoofdstuk III. Arbeids- en rusttijden
-
-### Hoofdstuk IV. Vakantie
-
-#### § 1. Algemeen
-
-##### Artikel 28a
-
-Voor zover de ambtenaar van politie ten aanzien van wie een dienstrooster als bedoeld in [artikel 37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt.
-
-#### § 2. De aspirant
-
-#### § 3. Overige ambtenaren van politie
-
-### Hoofdstuk V. Vrijstelling van dienst
-
-### Hoofdstuk VI. Buitengewoon verlof
-
-#### § 2. Buitengewoon verlof van korte duur
-
-#### § 3. Buitengewoon verlof van lange duur
-
-### Hoofdstuk VII. Voorzieningen in verband met ziekte, ongeval, zwangerschap en bevalling
-
-#### § 1. Ziekte en ongeval
-
-#### § 2. Zwangerschap en bevalling
-
-#### § 3. Tegemoetkoming in ziektekosten
-
-#### § 2. Zwangerschap en bevalling
-
-### Hoofdstuk VIIb. Geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden
-
-### Hoofdstuk VIII. Overige rechten en verplichtingen van de ambtenaar van politie
-
-### Hoofdstuk IX. Disciplinaire straffen
-
-### Hoofdstuk X. Schorsing en ontslag.
-
-#### § 1. Algemeen
-
-#### § 2. Schorsing
-
-#### § 1. Algemeen
-
-### Hoofdstuk XI. Bezwaar
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-## Bijlage A. [Vervallen]
-
-## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-12-25&g=2018-12-25), van het Besluit rechtspositie korps politie BES
-
-- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-12-25&g=2018-12-25), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
-
-- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-12-25&g=2018-12-25), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
-
-- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2018-12-25&g=2018-12-25), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
-
-##### Artikel 37a
-
-1. Behoudens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=39&z=2026-04-10&g=2026-04-10) vervalt de aanspraak op vakantie-uren na verloop van een jaar na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
-
-2. Indien de ambtenaar van politie naar het oordeel van Onze Minister redelijkerwijs niet in staat is geweest zijn vakantie-uren binnen de in het eerste lid genoemde termijn op te nemen, kan Onze Minister toestaan dat van het eerste lid wordt afgeweken. In dat geval vervalt de aanspraak alsnog na verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
-
-3. Dit artikel is niet van toepassing op vakantie-uren die de ambtenaar op grond van [37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) heeft gespaard ten behoeve van levensfaseverlof.
-
-##### Artikel 37b
-
-1. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan Onze Minister op aanvraag van de ambtenaar van politie zijn aanspraak op vakantie-uren eenmaal per kalenderjaar met ten hoogste 50 vakantie-uren verlagen.
-
-2. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan Onze Minister op aanvraag van de ambtenaar van politie eenmaal per kalenderjaar zijn aanspraak op vakantie-uren met ten hoogste 72 vakantie-uren verhogen.
-
-3. Ten aanzien van het in het eerste tot en met vierde lid genoemde aantal vakantie-uren is [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), van overeenkomstige toepassing.
-
-4. Een aanvraag als bedoeld in het eerste of tweede lid wordt voor 1 november van het lopende kalenderjaar ingediend. Onze Minister beslist op of na 1 november en voor het einde van dat kalenderjaar gelijktijdig over alle voor die datum ingediende aanvragen.
-
-5. De ambtenaar van politie wordt een vergoeding toegekend voor elk uur waarmee zijn aanspraak op vakantie-uren ingevolge het eerste of tweede lid wordt verlaagd, ten bedrage van de bezoldiging per uur die hij geniet op de dag waarop de aanvraag, bedoeld in het eerste lid, is goedgekeurd.
-
-6. De ambtenaar van politie is een vergoeding verschuldigd voor elk uur waarmee zijn aanspraak op vakantie-uren ingevolge het derde of vierde lid wordt verhoogd ten bedrage van de bezoldiging per uur die hij geniet op de dag waarop de aanvraag, bedoeld in het tweede lid, is goedgekeurd.
-
-7. Onze Minister kan nadere regels stellen ter uitvoering van dit artikel.
-
-##### Artikel 37c
-
-1. De ambtenaar van politie kan per kalenderjaar ten hoogste 24 van de vakantie-uren waarop hij aanspraak heeft op grond van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), sparen ten behoeve van levensfaseverlof.
-
-2. In afwijking van het eerste lid kan de ambtenaar van politie aan het einde van elk kalenderjaar ten hoogste 59,7 van de vakantie-uren waarop hij aanspraak heeft op grond van [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), sparen ten behoeve van levensfaseverlof, op voorwaarde dat hij in dat kalenderjaar ten minste 108 vakantie-uren heeft genoten.
-
-3. De ambtenaar van politie aan wie op grond van [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), extra vakantie-uren zijn verleend, kan een derde deel van die extra-vakantie-uren sparen ten behoeve van levensfaseverlof.
-
-4. Onverminderd [artikel 37b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37b&z=2026-04-10&g=2026-04-10), kan Onze Minister op aanvraag van de ambtenaar van politie zijn aanspraak op vakantie-uren met ten hoogste 28,8 uren verhogen, welke uren die ambtenaar spaart ten behoeve van levensfaseverlof. Artikel 37b, achtste lid, is van overeenkomstige toepassing.
-
-5. Het aantal op grond van dit artikel in totaal door een ambtenaar van politie gespaarde en nog niet op grond van [artikel 37d](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37d&z=2026-04-10&g=2026-04-10) opgenomen vakantie-uren bedraagt ten hoogste 1.800.
-
-6. Ten aanzien van de in het eerste, tweede, vierde en vijfde lid genoemde aantallen vakantie-uren is [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=34&z=2026-04-10&g=2026-04-10) van overeenkomstige toepassing.
-
-7. Onze Minister kan nadere regels stellen ter uitvoering van dit artikel.
-
-##### Artikel 37d
-
-1. De ambtenaar van politie kan op aanvraag de op grond van [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) gespaarde vakantie-uren opnemen als levensfaseverlof. Levensfaseverlof kan worden gecombineerd met vakantie op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10).
-
-2. Een aanvraag als bedoeld in het eerste lid wordt uiterlijk drie maanden voor het ingaan van het voorgenomen verlof ingediend, indien de verlofperiode, met inbegrip van eventuele vakantie op grond van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=33&z=2026-04-10&g=2026-04-10), niet meer dan vier weken bedraagt. Indien de verlofperiode langer dan vier weken bedraagt, wordt de aanvraag uiterlijk zes maanden voor het ingaan van het voorgenomen verlof ingediend.
-
-3. Een aanvraag als bedoeld in het eerste lid wordt toegewezen, tenzij een zwaarwegend dienstbelang van bedrijfsorganisatorische aard zich daartegen verzet.
-
-4. Levensfaseverlof wordt genoten met behoud van vol inkomen.
-
-5. Levensfaseverlof kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk door Onze Minister worden ingetrokken. Indien de ambtenaar van politie of zijn gezin ten gevolge van de intrekking schade lijdt, wordt deze schade vergoed.
-
-##### Artikel 38a
-
-1. Behoudens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=39&z=2026-04-10&g=2026-04-10) verliest de ambtenaar van politie zijn aanspraak op de door hem niet-genoten vakantie-uren die betrekking hebben op het kalenderjaar voorafgaand aan het afgelopen kalenderjaar.
-
-2. Indien de ambtenaar van politie naar het oordeel van het bevoegd gezag redelijkerwijs niet in staat is geweest zijn vakantie-uren binnen de in het eerste lid genoemde termijn op te nemen, kan het bevoegd gezag toestaan dat van het eerste lid wordt afgeweken. In dat geval vervalt de aanspraak alsnog na verloop van vijf jaren na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
-
-3. Het eerste en tweede lid is niet van toepassing op vakantie-uren die de ambtenaar van politie op grond van [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=IV&paragraaf=3&artikel=37c&z=2026-04-10&g=2026-04-10) heeft gespaard ten behoeve van levensfaseverlof.
-
-### Hoofdstuk V. Vrijstelling van dienst
-
-### Hoofdstuk VI. Buitengewoon verlof
-
-#### § 1. Algemeen
-
-#### § 2. Buitengewoon verlof van korte duur
-
-#### § 3. Buitengewoon verlof van lange duur
-
-### Hoofdstuk VII. Voorzieningen in verband met ziekte, ongeval, zwangerschap en bevalling
-
-#### § 1. Ziekte en ongeval
-
-#### § 3. Tegemoetkoming in ziektekosten
-
-#### § 4. Aanspraken bij ongeval voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk VIIb. Geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden
-
-### Hoofdstuk VIII. Overige rechten en verplichtingen van de ambtenaar van politie
-
-### Hoofdstuk IX. Disciplinaire straffen
-
-### Hoofdstuk X. Schorsing en ontslag.
-
-#### § 1. Algemeen
-
-#### § 2. Schorsing
-
-#### § 3. Ontslag
-
-### Hoofdstuk XI. Bezwaar
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-## Bijlage A. [Vervallen]
-
-## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-04-10&g=2026-04-10), van het Besluit rechtspositie korps politie BES
-
-Vervallen
-
-##### Artikel 23a
-
-Vervallen
-
-#### § 4a. Overgangsrecht bezoldiging
-
-#### § 5. Functioneringsgesprek en beoordeling
-
-### Hoofdstuk III. Arbeids- en rusttijden
-
-### Hoofdstuk IV. Vakantie
-
-#### § 1. Algemeen
-
-#### § 2. De aspirant
-
-#### § 3. Overige ambtenaren van politie
-
-### Hoofdstuk V. Vrijstelling van dienst
-
-### Hoofdstuk VI. Buitengewoon verlof
-
-#### § 1. Algemeen
-
-#### § 3. Buitengewoon verlof van lange duur
-
-### Hoofdstuk VII. Voorzieningen in verband met ziekte, ongeval, zwangerschap en bevalling
-
-#### § 2. Zwangerschap en bevalling
-
-#### § 3. Tegemoetkoming in ziektekosten
-
-#### § 4. Aanspraken bij ongeval voor de vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk VIIa. Taken vrijwillige ambtenaren aangesteld voor de uitvoering van de politietaak
-
-### Hoofdstuk VIIb. Geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden
-
-### Hoofdstuk VIII. Overige rechten en verplichtingen van de ambtenaar van politie
-
-### Hoofdstuk IX. Disciplinaire straffen
-
-#### § 2. Schorsing
-
-#### § 3. Ontslag
-
-### Hoofdstuk XI. Bezwaar
-
-### Hoofdstuk XII. Overgangs- en slotbepalingen
-
-## Bijlage. behorende bij [artikel 23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-04-10&g=2025-03-01), van het Besluit rechtspositie korps politie BES
-
-- I. De vergoeding per vol uur, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-04-10&g=2025-03-01), is voor de: aspirant: USD 11,17 agent: USD 15,08 brigadier: USD 17,88 hoofdagent: USD 21,23
-
-- II. De vergoeding per vol uur, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-04-10&g=2025-03-01), is voor de: aspirant: USD 14,53 agent: USD 19,55 brigadier: USD 24.02 hoofdagent: USD 28,49
-
-- III. De vergoeding per vol uur, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&hoofdstuk=II&paragraaf=4&artikel=23&z=2026-04-10&g=2025-03-01), is voor de: aspirant: USD 18,44 agent: USD 24,02 brigadier: USD 30,17 hoofdagent: USD 36,31
-
-##### Artikel 23c
-
-Vervallen

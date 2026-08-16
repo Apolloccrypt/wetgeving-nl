@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)"
+citeertitel: "Ambtsinstructie politie BES"
 identifier: "BWBR0028717"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028717"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10941493"
-version_id: "17927742"
-internal_id: "C24794471"
-label_id: "10916674"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028717/2010-10-10/0"
-intitule_bron: "Stb.2010-367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-30"
-intitule_published: "2010-10-06"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-367"
-original_signed_date: "2010-09-30"
-original_published_date: "2010-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-367"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028717&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028717&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Ambtsinstructie politie BES"
-signed_date: "2010-09-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028717"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)
-
-Op de voordracht van Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie van 15 december 2009, nr. 2009-0000720635, CZW/WSG, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met Onze Minister van Defensie;
-
-Gelet op [artikel 14, tweede en derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=14);
-
-De Raad van State gehoord (advies van 8 februari 2010, nr. W04.09.0548/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000599327, uitgebracht mede namens Onze Minister van Justitie en in overeenstemming met Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,49 +20,49 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 1. In dit besluit wordt verstaan onder:
 
-- **ambtenaar**
+- *ambtenaar*
 
-- a. de ambtenaar van politie, bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+   - a. de ambtenaar van politie, bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- b. de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), voor zover het betreft de [artikelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=1&artikel=1&z=2010-10-10&g=2010-10-10) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=7&z=2010-10-10&g=2010-10-10);
+   - b. de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), voor zover het betreft de [artikelen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=1&artikel=1&z=2010-10-10&g=2010-10-10) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=7&z=2010-10-10&g=2010-10-10);
 
-- c. degene die is benoemd tot aspirant voor de duur dat hij de praktijkstage volgt;
+   - c. degene die is benoemd tot aspirant voor de duur dat hij de praktijkstage volgt;
 
-- d. de militair van de Koninklijke marechaussee in de uitvoering van de politietaken, bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
+   - d. de militair van de Koninklijke marechaussee in de uitvoering van de politietaken, bedoeld in [artikel 11, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
 
-- e. de militair van de Koninklijke marechaussee en de krijgsmacht, bedoeld in [artikel 11, tweede en derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
+   - e. de militair van de Koninklijke marechaussee en de krijgsmacht, bedoeld in [artikel 11, tweede en derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
 
-- f. de buitengewoon agent van politie, bedoeld in [artikel 10, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10);
+   - f. de buitengewoon agent van politie, bedoeld in [artikel 10, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10);
 
-- g. de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen ambtenaar die deel uitmaakt van het recherchesamenwerkingsteam, bedoeld in [artikel 57a, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57a).
+   - g. de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen ambtenaar die deel uitmaakt van het recherchesamenwerkingsteam, bedoeld in [artikel 57a, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57a).
 
-- **meerdere**
+- *meerdere*
 
-- a. de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel heeft over de taakuitvoering;
+   - a. de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel heeft over de taakuitvoering;
 
-- b. indien op grond van het bepaalde onder a geen meerdere kan worden aangewezen de ambtenaar van politie die een hogere rang heeft of, bij gelijkheid in rang, degene met de meeste dienstjaren, dan wel bij optreden door militairen van de Koninklijke marechaussee of van enig ander krijgsmachtonderdeel degene die ingevolge bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) met het bevel is belast.
+   - b. indien op grond van het bepaalde onder a geen meerdere kan worden aangewezen de ambtenaar van politie die een hogere rang heeft of, bij gelijkheid in rang, degene met de meeste dienstjaren, dan wel bij optreden door militairen van de Koninklijke marechaussee of van enig ander krijgsmachtonderdeel degene die ingevolge bij of krachtens [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) met het bevel is belast.
 
-- **bevoegd gezag:** het gezag, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=16) en [17 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=17).
+- *bevoegd gezag:* het gezag, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=16) en [17 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=17).
 
-- **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
+- *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- **aanwenden van geweld:** het gebruiken van geweld en het dreigen met geweld, waaronder wordt begrepen het ter hand nemen van een vuurwapen;
+- *aanwenden van geweld:* het gebruiken van geweld en het dreigen met geweld, waaronder wordt begrepen het ter hand nemen van een vuurwapen;
 
-- **geweldmiddel**
+- *geweldmiddel*
 
-- a. de krachtens [artikel 42, eerste en tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=42) toegelaten uitrusting en bewapening waarmee geweld kan worden uitgeoefend;
+   - a. de krachtens [artikel 42, eerste en tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=42) toegelaten uitrusting en bewapening waarmee geweld kan worden uitgeoefend;
 
-- b. de door Onze Minister van Defensie ter beschikking gestelde uitrusting en bewapening waarmee geweld kan worden uitgeoefend in de uitvoering van de politietaken, bedoeld in [artikel 11 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
+   - b. de door Onze Minister van Defensie ter beschikking gestelde uitrusting en bewapening waarmee geweld kan worden uitgeoefend in de uitvoering van de politietaken, bedoeld in [artikel 11 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=11);
 
-- **vuurwapen waarmee automatisch vuur kan worden afgegeven:** vuurwapen waarmee met één druk op het afvuurmechanisme meer schoten kunnen worden gelost dan wel een vuurwapen waarmee naar keus hetzij één schot, hetzij meer schoten kunnen worden gelost;
+- *vuurwapen waarmee automatisch vuur kan worden afgegeven:* vuurwapen waarmee met één druk op het afvuurmechanisme meer schoten kunnen worden gelost dan wel een vuurwapen waarmee naar keus hetzij één schot, hetzij meer schoten kunnen worden gelost;
 
-- **het gebruik van een vuurwapen:** het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+- *het gebruik van een vuurwapen:* het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
 
-- **niet-penetrerende munitie:** munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
+- *niet-penetrerende munitie:* munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
 
-- **rijkswet:** de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
+- *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
 
-- **korpsbeheerder:** degene die op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba.
+- *korpsbeheerder:* degene die op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba.
 
 2. In dit besluit wordt ten aanzien van buitengewone agenten van politie voor «korpschef» gelezen: de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Minister van Justitie, aangewezen ambtenaar die uit hoofd van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast.
 
@@ -198,11 +164,11 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 - b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf
 
-- 1°. waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld, en
+   - 1°. waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld, en
 
-- 2°. dat een ernstige aantasting vormt van de lichamelijke integriteit of de persoonlijke levenssfeer, of
+   - 2°. dat een ernstige aantasting vormt van de lichamelijke integriteit of de persoonlijke levenssfeer, of
 
-- 3°. dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
+   - 3°. dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
 
 - c. tot het beteugelen van oproerige bewegingen of andere ernstige wanordelijkheden, indien er sprake is van een opdracht van het bevoegd gezag en een optreden in gesloten verband onder leiding van een meerdere;
 
@@ -366,7 +332,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij fysiek geweld of een wapenstok 
 
 3. De korpschef wijst in elk bureau een functionaris aan die het opmaken van de in het eerste en tweede lid bedoelde melding coördineert en begeleidt.
 
-4. De melding, bedoeld in het tweede lid, wordt door de korpschef binnen vierentwintig uur na ontvangst ter kennis gebracht van de officier van justitie, dan wel door de commandant van de Koninklijke marechaussee van de officier van justitie ingeval het een militair als bedoeld in [artikel 1, eerste lid, onder **ambtenaar**, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=1&artikel=1&z=2010-10-10&g=2010-10-10), betreft, indien:
+4. De melding, bedoeld in het tweede lid, wordt door de korpschef binnen vierentwintig uur na ontvangst ter kennis gebracht van de officier van justitie, dan wel door de commandant van de Koninklijke marechaussee van de officier van justitie ingeval het een militair als bedoeld in [artikel 1, eerste lid, onder *ambtenaar*, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=1&artikel=1&z=2010-10-10&g=2010-10-10), betreft, indien:
 
 - a. de gevolgen van het aanwenden van geweld daartoe naar het oordeel van de korpschef of de commandant van de Koninklijke marechaussee aanleiding geven;
 
@@ -456,9 +422,9 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 1. In dit hoofdstuk wordt verstaan onder:
 
-- a. **arts:** de dienstdoend adviserend arts;
+- a. *arts:* de dienstdoend adviserend arts;
 
-- b. **ingeslotene:** degene die rechtens van zijn vrijheid is beroofd.
+- b. *ingeslotene:* degene die rechtens van zijn vrijheid is beroofd.
 
 2. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
 
@@ -553,25 +519,3 @@ Dit besluit treedt in werking met ingang van de dag waarop de [rijkswet](https:/
 ##### Artikel 54
 
 Dit besluit wordt aangehaald als: Ambtsinstructie politie BES.
-
-## Bijlage. bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=3&paragraaf=8&artikel=30&z=2010-10-10&g=2010-10-10), van de Ambtsinstructie politie BES
-
-### MELDINGSFORMULIER GEWELDAANWENDING
-
-### ORGANISATIE
-
-Datum melding aan meerdere of aangewezen functionaris :
-
-### PERSONALIA RAPPORTEUR (meerdere of door de korpschef aangewezen functionaris)
-
-### PERSONALE AMBTENAAR
-
-### ONDERDEEL A: Algemene informatie
-
-### ONDERDEEL B: INFORMATIE OVER FEITELIJK GEWELDGEBRUIK
-
-### ONDERDEEL C: MANAGEMENTINFORMATIE
-
-### ONDERDEEL D: AFDOENING EN BEOORDELING
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

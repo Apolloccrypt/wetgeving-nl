@@ -1,57 +1,35 @@
 ---
 title: "Besluit zorg BES"
 identifier: "BWBR0028628"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028628"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10906543"
-version_id: "17889372"
-internal_id: "C24825701"
-label_id: "10881154"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028628/2010-10-10/0"
-intitule_bron: "Stb.2010-663"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-663"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-663"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028628&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028628&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028628"
+opgehaald: 2026-08-16
 ---
+
 # Besluit zorg BES
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294);
+- a. *wet:* de [Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294);
 
-- b. **intramurale zorg:** de zorg binnen de muren van een instelling, waar personen 24 uur per dag zijn opgenomen en volledige verzorging krijgen, zoals in algemene en psychiatrische ziekenhuizen, verpleeghuizen, bejaardenhuizen met een gedeeltelijke verpleeghuisfunctie en instellingen voor lichamelijk en geestelijk gehandicapten;
+- b. *intramurale zorg:* de zorg binnen de muren van een instelling, waar personen 24 uur per dag zijn opgenomen en volledige verzorging krijgen, zoals in algemene en psychiatrische ziekenhuizen, verpleeghuizen, bejaardenhuizen met een gedeeltelijke verpleeghuisfunctie en instellingen voor lichamelijk en geestelijk gehandicapten;
 
-- c. **semi-murale zorg:** de zorg die wordt geboden aan psychiatrische zieken en geestelijk gehandicapten die na verkregen intramurale zorg zodanig zijn hersteld dat zij buiten deze instelling in een beschermde woonomgeving onder professioneel toezicht in beperkte mate zelfstandig kunnen wonen;
+- c. *semi-murale zorg:* de zorg die wordt geboden aan psychiatrische zieken en geestelijk gehandicapten die na verkregen intramurale zorg zodanig zijn hersteld dat zij buiten deze instelling in een beschermde woonomgeving onder professioneel toezicht in beperkte mate zelfstandig kunnen wonen;
 
-- d. **extramurale zorg:** de zorg die wordt geboden aan thuiswonende, somatisch en psychiatrische zieken of lichamelijk of verstandelijk gehandicapten, welke zorg tot doel heeft deze personen zo lang mogelijk onder optimale omstandigheden in de thuissituatie te laten blijven; deze zorg kan bestaan uit verpleegkundige zorg, gezinshulp of bejaardenhulp, waar nodig, met ondersteuning door zorgverleners van diverse professionele disciplines;
+- d. *extramurale zorg:* de zorg die wordt geboden aan thuiswonende, somatisch en psychiatrische zieken of lichamelijk of verstandelijk gehandicapten, welke zorg tot doel heeft deze personen zo lang mogelijk onder optimale omstandigheden in de thuissituatie te laten blijven; deze zorg kan bestaan uit verpleegkundige zorg, gezinshulp of bejaardenhulp, waar nodig, met ondersteuning door zorgverleners van diverse professionele disciplines;
 
-- e. **professionele zorg:** de zorg die wordt geboden door psychiaters, psychologen, orthopedagogen, revalidatie-artsen, ergotherapeuten, logopedisten, fysiotherapeuten, oefentherapeuten of podotherapeuten met wie het Uitvoeringsorgaan een zorgcontract heeft afgesloten; deze zorg vindt plaats in de praktijkruimte van deze zorgverlener onder de in het zorgcontract overeengekomen voorwaarden met dien verstande dat bij uitzondering, onder door het Uitvoeringsorgaan vast te stellen voorwaarden, de zorg bij de verzekerde thuis wordt geboden;
+- e. *professionele zorg:* de zorg die wordt geboden door psychiaters, psychologen, orthopedagogen, revalidatie-artsen, ergotherapeuten, logopedisten, fysiotherapeuten, oefentherapeuten of podotherapeuten met wie het Uitvoeringsorgaan een zorgcontract heeft afgesloten; deze zorg vindt plaats in de praktijkruimte van deze zorgverlener onder de in het zorgcontract overeengekomen voorwaarden met dien verstande dat bij uitzondering, onder door het Uitvoeringsorgaan vast te stellen voorwaarden, de zorg bij de verzekerde thuis wordt geboden;
 
-- f. **kunstmiddelen:** middelen die dienen ter vervanging van een geamputeerd lichaamsdeel, zoals een beenprothese of ter ondersteuning van een krachteloos lichaamsdeel, zoals een spalk;
+- f. *kunstmiddelen:* middelen die dienen ter vervanging van een geamputeerd lichaamsdeel, zoals een beenprothese of ter ondersteuning van een krachteloos lichaamsdeel, zoals een spalk;
 
-- g. **hulpmiddelen:** zijnde hulpmiddelen voor de voortbeweging van een lichamelijk gehandicapte, zoals een rolstoel of een looprek; hulpmiddelen ter ondersteuning van een lichamelijk gehandicapte, mede ter voorkoming van doorliggen of doorzitten (decubitus); hulpmiddelen die een lichamelijk gehandicapte in staat stelt gebruik te maken van sanitair, zoals steunbeugels en een verhoogde toiletpot; hulpmiddelen om lichamelijk gehandicapten te verplaatsen, zoals een zogenaamde papegaai of tillift; mede begrepen hieronder zijn de kosten van woningaanpassing voor het zodanig aanpassen van de eigen woning van de rolstoelgebonden gehandicapte dat deze zich met zijn rolstoel (zelfstandig) door zijn woning kan verplaatsen, alsmede gebruik kan maken van zijn sanitaire voorzieningen.
+- g. *hulpmiddelen:* zijnde hulpmiddelen voor de voortbeweging van een lichamelijk gehandicapte, zoals een rolstoel of een looprek; hulpmiddelen ter ondersteuning van een lichamelijk gehandicapte, mede ter voorkoming van doorliggen of doorzitten (decubitus); hulpmiddelen die een lichamelijk gehandicapte in staat stelt gebruik te maken van sanitair, zoals steunbeugels en een verhoogde toiletpot; hulpmiddelen om lichamelijk gehandicapten te verplaatsen, zoals een zogenaamde papegaai of tillift; mede begrepen hieronder zijn de kosten van woningaanpassing voor het zodanig aanpassen van de eigen woning van de rolstoelgebonden gehandicapte dat deze zich met zijn rolstoel (zelfstandig) door zijn woning kan verplaatsen, alsmede gebruik kan maken van zijn sanitaire voorzieningen.
 
 2. Aanvragen van verzekerden voor professionele zorg wordt door het Uitvoeringsorgaan beoordeeld aan de hand van de daartoe opgestelde criteria.
 

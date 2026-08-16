@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2010, nr. WJZ/258716 (8308), houdende uitvoering van artikel 3, zesde lid, artikel 4, tweede lid en artikel 6, eerste lid van de Wet primair onderwijs BES (Regeling aanwijzing opleidingsinstituten BES)"
+citeertitel: "Regeling aanwijzing opleidingsinstituten BES"
 identifier: "BWBR0029184"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-12-23"
-last_updated: "2010-10-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029184"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-BES"
-stam_id: "11136733"
-version_id: "18213852"
-internal_id: "C25336821"
-label_id: "11111044"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029184/2010-12-23/0"
-intitule_bron: "Stcrt.2010-20702"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-14"
-intitule_published: "2010-12-22"
-intitule_in_force: "2010-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20702"
-original_signed_date: "2010-12-14"
-original_published_date: "2010-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20702"
-entry_into_force_date: "2010-12-23"
-jci_1_3: "jci1.3:c:BWBR0029184&z=2010-12-23&g=2010-12-23"
-jci_1_0: "1.0:c:BWBR0029184&g=2010-12-23"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing opleidingsinstituten BES"
-signed_date: "2010-12-14"
-entry_into_force: "2010-12-23"
+publicatiedatum: 2010-12-23
+laatste_update: 2010-12-23
+status: geldig
+toestand: 2010-12-23
+bron: "https://wetten.overheid.nl/BWBR0029184"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2010, nr. WJZ/258716 (8308), houdende uitvoering van artikel 3, zesde lid, artikel 4, tweede lid en artikel 6, eerste lid van de Wet primair onderwijs BES (Regeling aanwijzing opleidingsinstituten BES)
-
-Gelet op [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3), [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=4) en [artikel 6, eerste lid van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -65,5 +39,3 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing opleidingsinstituten BES
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 10 oktober 2010.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

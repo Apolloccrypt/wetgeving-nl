@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 4 oktober 2010, nr. 5670491/10/6, houdende het stellen van regels omtrent de verlening van kosteloze rechtskundige bijstand (Regeling kosteloze rechtskundige bijstand BES)"
+citeertitel: "Regeling kosteloze rechtskundige bijstand BES"
 identifier: "BWBR0028809"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028809"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11031363"
-version_id: "18024052"
-internal_id: "C25049711"
-label_id: "11005854"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028809/2016-07-01/0"
-intitule_bron: "Stcrt.2010-15676"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-04"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15676"
-original_signed_date: "2010-10-04"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15676"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028809&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0028809&g=2016-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling kosteloze rechtskundige bijstand BES"
-signed_date: "2010-10-04"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0028809"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Justitie van 4 oktober 2010, nr. 5670491/10/6, houdende het stellen van regels omtrent de verlening van kosteloze rechtskundige bijstand (Regeling kosteloze rechtskundige bijstand BES)
-
-Gelet op [artikel 4, van de Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=4);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -48,13 +20,13 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 In deze regeling wordt onder:
 
-- a. **Wet:** de [Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200);
+- a. *Wet:* de [Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200);
 
-- b. **belanghebbende:** degene die op grond van de [Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200) in aanmerking wil komen van een kaart voor het verkrijgen van kosteloze rechtskundige bijstand;
+- b. *belanghebbende:* degene die op grond van de [Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200) in aanmerking wil komen van een kaart voor het verkrijgen van kosteloze rechtskundige bijstand;
 
-- c. **kaart:** de kaart bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2), en [artikel 2a, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2a);
+- c. *kaart:* de kaart bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2), en [artikel 2a, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2a);
 
-- d. **het bestuur van de raad voor rechtsbijstand:** het bestuur van de raad voor rechtsbijstand, bedoeld in [artikel 3, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3).
+- d. *het bestuur van de raad voor rechtsbijstand:* het bestuur van de raad voor rechtsbijstand, bedoeld in [artikel 3, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3).
 
 ### Hoofdstuk II. De kaart
 
@@ -97,5 +69,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling kosteloze rechtskundige bijstand BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

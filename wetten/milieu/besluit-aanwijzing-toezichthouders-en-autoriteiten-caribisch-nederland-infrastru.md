@@ -1,47 +1,25 @@
 ---
 title: "Besluit aanwijzing toezichthouders en autoriteiten Caribisch Nederland Infrastructuur en Milieu"
 identifier: "BWBR0029478"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029478"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11214563"
-version_id: "19802932"
-internal_id: "C27811751"
-label_id: "11188974"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029478/2016-07-01/0"
-intitule_bron: "Stcrt.2011-1161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-01-18"
-intitule_published: "2011-01-26"
-intitule_in_force: "2011-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-23851"
-original_signed_date: "2012-11-14"
-original_published_date: "2012-11-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-23851"
-entry_into_force_date: "2012-11-14"
-jci_1_3: "jci1.3:c:BWBR0029478&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0029478&g=2016-07-01"
-citeertitel_status: "officieel"
-signed_date: "2012-11-14"
-entry_into_force: "2012-11-14"
+publicatiedatum: 2012-11-14
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0029478"
+opgehaald: 2026-08-16
 ---
+
 # Besluit aanwijzing toezichthouders en autoriteiten Caribisch Nederland Infrastructuur en Milieu
-
-Gelet op [artikel 14, tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14), [artikel 14, derde lid, van de Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&artikel=14), [artikel 15a, eerste lid, van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=15a) en de [artikelen 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=37), en [51, eerste lid, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=51);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder Rijksdienst Caribisch Nederland:het organisatieonderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, bedoeld in het [Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832).
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 6.2, tweede lid, van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2).
 
 ##### Artikel 2
 
@@ -55,6 +33,10 @@ Als ambtenaren, belast met het toezicht op de naleving van de [Wet maritiem behe
 
 Als autoriteit, bedoeld in [artikel 14, derde lid, van de Wet voorkoming van verontreiniging door schepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028453&artikel=14) en [artikel 37, vierde lid, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=37) wordt aangewezen de dienst Noordzee van het directoraat-generaal Rijkswaterstaat.
 
+##### Artikel 4a
+
+Met het toezicht op de naleving van de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861), bedoeld in [artikel 6.2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2) zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport.
+
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en autoriteiten Caribisch Nederland Infrastructuur en Milieu
@@ -62,15 +44,3 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en autorite
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 6.2, tweede lid, van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2).
-
-##### Artikel 4a
-
-Met het toezicht op de naleving van de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861), bedoeld in [artikel 6.2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2) zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

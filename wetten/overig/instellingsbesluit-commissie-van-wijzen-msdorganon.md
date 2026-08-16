@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 12 oktober 2010, nr. WJZ / 10149690, houdende instelling van de Commissie van Wijzen MSD/Organon (Instellingsbesluit Commissie van Wijzen MSD/Organon)"
+citeertitel: "Instellingsbesluit Commissie van Wijzen MSD/Organon"
 identifier: "BWBR0028873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-22"
-last_updated: "2010-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028873"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11054493"
-version_id: "18056712"
-internal_id: "C25102331"
-label_id: "11028944"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028873/2010-10-22/0"
-intitule_bron: "Stcrt.2010-16512"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-12"
-intitule_published: "2010-10-21"
-intitule_in_force: "2010-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16512"
-original_signed_date: "2010-10-12"
-original_published_date: "2010-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16512"
-entry_into_force_date: "2010-10-22"
-jci_1_3: "jci1.3:c:BWBR0028873&z=2010-10-22&g=2010-10-22"
-jci_1_0: "1.0:c:BWBR0028873&g=2010-10-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie van Wijzen MSD/Organon"
-signed_date: "2010-10-12"
-entry_into_force: "2010-10-22"
+publicatiedatum: 2010-10-22
+laatste_update: 2010-10-22
+status: geldig
+toestand: 2010-10-22
+bron: "https://wetten.overheid.nl/BWBR0028873"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van de Minister van Economische Zaken van 12 oktober 2010, nr. WJZ / 10149690, houdende instelling van de Commissie van Wijzen MSD/Organon (Instellingsbesluit Commissie van Wijzen MSD/Organon)
-
-Handelende in overeenstemming met de Gedeputeerde Staten van de Provincie Noord-Brabant;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. *de minister:* de Minister van Economische Zaken;
 
-- b. **de Gedeputeerde Staten:** de Gedeputeerde Staten van de Provincie Noord-Brabant;
+- b. *de Gedeputeerde Staten:* de Gedeputeerde Staten van de Provincie Noord-Brabant;
 
-- c. **commissie:** de Commissie van Wijzen MSD/Organon.
+- c. *commissie:* de Commissie van Wijzen MSD/Organon.
 
 ##### Artikel 2
 
@@ -109,5 +81,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen MSD/Organon.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

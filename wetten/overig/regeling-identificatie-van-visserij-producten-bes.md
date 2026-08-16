@@ -1,41 +1,17 @@
 ---
 title: "Regeling identificatie van visserij producten BES"
 identifier: "BWBR0028770"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028770"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10988193"
-version_id: "17976322"
-internal_id: "C24932211"
-label_id: "10963034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028770/2010-10-10/0"
-intitule_bron: "Stcrt.2010-15450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15450"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15450"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028770&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028770&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028770"
+opgehaald: 2026-08-16
 ---
-# Regeling identificatie van visserij producten BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
+# Regeling identificatie van visserij producten BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -43,19 +19,19 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 In deze regeling wordt verstaan onder:
 
-- a. **ingrediënt:** iedere grondstof die bij de be- of verwerking van een visserijproduct is gebruikt en die als zodanig of als omzettingsproduct in het visserijproduct aanwezig is;
+- a. *ingrediënt:* iedere grondstof die bij de be- of verwerking van een visserijproduct is gebruikt en die als zodanig of als omzettingsproduct in het visserijproduct aanwezig is;
 
-- b. **opgietvloeistof:** een al dan niet bevroren of diepgevroren vloeistof, indien en voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van het betreffende visserijproduct, en waarvan daarom kan worden aangenomen dat zij voor de consument die het product uiteindelijk wenst te gebruiken niet doorslaggevend zal zijn voor zijn beslissing om het product aan te kopen;
+- b. *opgietvloeistof:* een al dan niet bevroren of diepgevroren vloeistof, indien en voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van het betreffende visserijproduct, en waarvan daarom kan worden aangenomen dat zij voor de consument die het product uiteindelijk wenst te gebruiken niet doorslaggevend zal zijn voor zijn beslissing om het product aan te kopen;
 
-- c. **productiepartij:** een verzameling van visserijproducten die onder vrijwel identieke omstandigheden zijn be- of verwerkt en verpakt, en waarvan de omvang door of namens de ondernemer is vastgesteld;
+- c. *productiepartij:* een verzameling van visserijproducten die onder vrijwel identieke omstandigheden zijn be- of verwerkt en verpakt, en waarvan de omvang door of namens de ondernemer is vastgesteld;
 
-- d. **technologisch** hulpmiddel: een stof die op zichzelf niet als ingrediënt van voedsel wordt geconsumeerd, maar bij de be- of verwerking van het visserijproduct of een ingrediënt daarvan opzettelijk wordt gebruikt om tijdens die be- of verwerking aan een bepaald technisch doel te beantwoorden, en die de onbedoelde doch technisch onvermijdelijke aanwezigheid van residuen van de stof of een derivaat ervan in het product ten gevolge kan hebben, mits deze aanwezigheid voor de gezondheid geen gevaar oplevert en evenmin technologische consequenties voor het eindproduct heeft;
+- d. *technologisch* hulpmiddel: een stof die op zichzelf niet als ingrediënt van voedsel wordt geconsumeerd, maar bij de be- of verwerking van het visserijproduct of een ingrediënt daarvan opzettelijk wordt gebruikt om tijdens die be- of verwerking aan een bepaald technisch doel te beantwoorden, en die de onbedoelde doch technisch onvermijdelijke aanwezigheid van residuen van de stof of een derivaat ervan in het product ten gevolge kan hebben, mits deze aanwezigheid voor de gezondheid geen gevaar oplevert en evenmin technologische consequenties voor het eindproduct heeft;
 
-- e. **verpakking:** het verpakkingsmateriaal, bedoeld in het Besluit verpakking visserijproducten BES, waarin een visserijproduct wordt verpakt, voordat het naar het gebied van de Europese Gemeenschap wordt uitgevoerd;
+- e. *verpakking:* het verpakkingsmateriaal, bedoeld in het Besluit verpakking visserijproducten BES, waarin een visserijproduct wordt verpakt, voordat het naar het gebied van de Europese Gemeenschap wordt uitgevoerd;
 
-- f. **verpakte waar:** de voor de uitvoer bestemde eenheid die bestaat uit een visserijproduct en de verpakking of recipiënt daarvan, indien deze eenheid niet bestemd is om in dezelfde vorm rechtstreeks aan de consument, daaronder instellingen als ziekenhuizen, kantines en restaurants mede begrepen, te worden afgeleverd;
+- f. *verpakte waar:* de voor de uitvoer bestemde eenheid die bestaat uit een visserijproduct en de verpakking of recipiënt daarvan, indien deze eenheid niet bestemd is om in dezelfde vorm rechtstreeks aan de consument, daaronder instellingen als ziekenhuizen, kantines en restaurants mede begrepen, te worden afgeleverd;
 
-- g. **voorverpakte waar:** de eenheid die reeds voordat de uitvoer plaatsvindt is verpakt met de bestemming om rechtstreeks aan de consument in de zin van onderdeel f te worden afgeleverd.
+- g. *voorverpakte waar:* de eenheid die reeds voordat de uitvoer plaatsvindt is verpakt met de bestemming om rechtstreeks aan de consument in de zin van onderdeel f te worden afgeleverd.
 
 ##### Artikel 2
 

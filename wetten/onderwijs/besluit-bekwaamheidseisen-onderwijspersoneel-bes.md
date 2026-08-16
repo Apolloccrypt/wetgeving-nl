@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de bekwaamheidseisen voor het onderwijspersoneel BES (Besluit bekwaamheidseisen onderwijspersoneel BES)"
+citeertitel: "Besluit bekwaamheidseisen onderwijspersoneel BES"
 identifier: "BWBR0029609"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029609"
+categorie: "Onderwijs"
 soort: "AMvB-BES"
-stam_id: "11238433"
-version_id: "18401582"
-internal_id: "C25641701"
-label_id: "11212884"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029609/2022-08-01/0"
-intitule_bron: "Stb.2011-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-03"
-intitule_published: "2011-02-16"
-intitule_in_force: "2011-02-16"
-intitule_status: "goed"
-original_publication: "Stb.2011-45"
-original_signed_date: "2011-02-03"
-original_published_date: "2011-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-45"
-entry_into_force_date: "2011-08-01"
-jci_1_3: "jci1.3:c:BWBR0029609&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0029609&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bekwaamheidseisen onderwijspersoneel BES"
-signed_date: "2011-02-03"
-entry_into_force: "2011-08-01"
+publicatiedatum: 2011-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0029609"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de bekwaamheidseisen voor het onderwijspersoneel BES (Besluit bekwaamheidseisen onderwijspersoneel BES)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236442 (4874), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 35, eerste en vierde lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=35), de [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=85) en [86 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=86) en [artikel 4.2.3, eerste en derde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=4.2.3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0461/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 31 januari 2011, nr. WJZ 260337 (4874), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,35 +20,33 @@ Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 In dit besluit wordt verstaan onder:
 
-- a. **school:** school als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) of in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- a. *school:* school als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) of in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- b. **instelling:** instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1).
+- b. *instelling:* instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1).
 
 ##### Artikel 1.2. Reikwijdte
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Bekwaamheidseisen leraren en docenten
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 2.1. Begripsbepalingen
 
-- a. **leraar po:** leraar primair onderwijs als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) en voor zover het betreft het praktijkonderwijs: de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- a. *leraar po:* leraar primair onderwijs als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) en voor zover het betreft het praktijkonderwijs: de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- b. **leraar vo:** leraar in het praktijkonderwijs, het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- b. *leraar vo:* leraar in het praktijkonderwijs, het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- c. **leraar vho:** leraar voor de periode van voorbereidend hoger onderwijs als bedoeld in de [artikelen 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20), en [7.10, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.10);
+- c. *leraar vho:* leraar voor de periode van voorbereidend hoger onderwijs als bedoeld in de [artikelen 2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20), en [7.10, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.10);
 
-- d. **leraar:** leraar po, leraar vo of leraar vho;
+- d. *leraar:* leraar po, leraar vo of leraar vho;
 
-- e. **docent:** docent als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
+- e. *docent:* docent als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
-- f. **leerling:** leerling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of student, vavo-student of deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
+- f. *leerling:* leerling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of student, vavo-student of deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
-- g. **school:** school of instelling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395).
-
-## Titel 2. **Bekwaamheidseisen primair onderwijs**
+- g. *school:* school of instelling als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395).
 
 ##### Artikel 2.2. Drie bekwaamheden
 
@@ -99,6 +63,8 @@ Vervallen
 ##### Artikel 2.3. Reikwijdte leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
 In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=1&artikel=2.1&z=2022-08-01&g=2022-08-01) omvat de bekwaamheid tot het geven van onderwijs voor leraren of docenten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs niet de vakinhoudelijke bekwaamheid.
+
+### Titel 2. Vakinhoudelijke bekwaamheid
 
 ##### Artikel 2.4. Vakinhoudelijke bekwaamheid leraar of docent
 
@@ -208,6 +174,10 @@ Om ten minste te voldoen aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:B
 
 - l. kan de leraar vho zijn leerlingen duidelijk maken wat de relevantie is van de leerstof voor werk en vervolgonderwijs.
 
+### Titel 3. Vakdidactische bekwaamheid
+
+#### Paragraaf 1. Vakdidactische bekwaamheid, algemeen
+
 ##### Artikel 2.8. Vakdidactische bekwaamheid leraar of docent
 
 Vakdidactisch bekwaam betekent dat de leraar of docent:
@@ -218,15 +188,17 @@ Vakdidactisch bekwaam betekent dat de leraar of docent:
 
 - c. de vertaling van de vakinhoud doet met een professionele, ontwikkelingsgerichte werkwijze, waarin in ieder geval de volgende handelingselementen herkenbaar zijn:
 
-- 1°. hij brengt een duidelijke relatie aan tussen de leerdoelen, het niveau en de kenmerken van zijn leerlingen, de vakinhoud en de inzet van de verschillende methodieken en middelen;
+   - 1°. hij brengt een duidelijke relatie aan tussen de leerdoelen, het niveau en de kenmerken van zijn leerlingen, de vakinhoud en de inzet van de verschillende methodieken en middelen;
 
-- 2°. bij de uitvoering van zijn onderwijs volgt hij de ontwikkeling van zijn leerlingen;
+   - 2°. bij de uitvoering van zijn onderwijs volgt hij de ontwikkeling van zijn leerlingen;
 
-- 3°. hij toetst en analyseert regelmatig en adequaat of en hoe de leerdoelen gerealiseerd worden;
+   - 3°. hij toetst en analyseert regelmatig en adequaat of en hoe de leerdoelen gerealiseerd worden;
 
-- 4°. hij stelt op basis van zijn analyse zo nodig zijn onderwijs didactisch bij;
+   - 4°. hij stelt op basis van zijn analyse zo nodig zijn onderwijs didactisch bij;
 
-- 5°. hij laat zijn onderwijs met de tijd mee gaan.
+   - 5°. hij laat zijn onderwijs met de tijd mee gaan.
+
+#### Paragraaf 2. Vakdidactische bekwaamheid, kennis
 
 ##### Artikel 2.9. Vakdidactische bekwaamheid leraar, kennis
 
@@ -266,7 +238,7 @@ Voor het beroepsgerichte onderwijs houdt de kennis, bedoeld in [artikel 2.9](htt
 
 - b. onder m, in dat hij zich verdiept heeft in didactiek ten behoeve van beroepsgericht onderwijs, de vormgeving en begeleiding van het leren op de werkplek en op de samenwerking met het beroepenveld en met praktijkbegeleiders bij het begeleiden van dit leren.
 
-## Titel 3. **Bekwaamheidseisen vmbo, onderbouw havo en vwo, praktijkonderwijs, en bve**
+#### Paragraaf 3. Vakdidactische bekwaamheid, kunde
 
 ##### Artikel 2.11. Vakdidactische bekwaamheid leraar, kunde
 
@@ -274,49 +246,49 @@ De leraar is vakdidactisch bekwaam wat betreft kunde indien de leraar of docent 
 
 - a. onderwijs kan voorbereiden, wat betekent dat hij:
 
-- 1°. doelen kan stellen, leerstof kan selecteren en ordenen;
+   - 1°. doelen kan stellen, leerstof kan selecteren en ordenen;
 
-- 2°. samenhangende lessen kan uitwerken met passende werkvormen, materialen en media, afgestemd op het niveau en de kenmerken van zijn leerlingen;
+   - 2°. samenhangende lessen kan uitwerken met passende werkvormen, materialen en media, afgestemd op het niveau en de kenmerken van zijn leerlingen;
 
-- 3°. passende en betrouwbare toetsen kan kiezen, maken of samenstellen;
+   - 3°. passende en betrouwbare toetsen kan kiezen, maken of samenstellen;
 
 - b. onderwijs kan uitvoeren en het leren kan organiseren, wat betekent dat hij:
 
-- 1°. een adequaat klassenmanagement kan realiseren;
+   - 1°. een adequaat klassenmanagement kan realiseren;
 
-- 2°. aan leerlingen de verwachtingen en leerdoelen duidelijk kan maken en leerlingen kan motiveren om deze te halen;
+   - 2°. aan leerlingen de verwachtingen en leerdoelen duidelijk kan maken en leerlingen kan motiveren om deze te halen;
 
-- 3°. de leerstof aan zijn leerlingen begrijpelijk en aansprekend kan uitleggen, voordoen hoe ermee gewerkt moet worden en daarbij inspelen op de taalbeheersing en taalontwikkeling van zijn leerlingen;
+   - 3°. de leerstof aan zijn leerlingen begrijpelijk en aansprekend kan uitleggen, voordoen hoe ermee gewerkt moet worden en daarbij inspelen op de taalbeheersing en taalontwikkeling van zijn leerlingen;
 
-- 4°. doelmatig gebruik kan maken van beschikbare digitale leermaterialen en leermiddelen;
+   - 4°. doelmatig gebruik kan maken van beschikbare digitale leermaterialen en leermiddelen;
 
-- 5°. de leerlingen met gerichte activiteiten de leerstof kan laten verwerken, daarbij variatie aanbrengen en bij instructie en verwerking differentiëren naar niveau en kenmerken van zijn leerlingen;
+   - 5°. de leerlingen met gerichte activiteiten de leerstof kan laten verwerken, daarbij variatie aanbrengen en bij instructie en verwerking differentiëren naar niveau en kenmerken van zijn leerlingen;
 
-- 6°. de leerling kan begeleiden bij die verwerking, stimulerende vragen stellen en opbouwende gerichte feedback geven op taak en aanpak;
+   - 6°. de leerling kan begeleiden bij die verwerking, stimulerende vragen stellen en opbouwende gerichte feedback geven op taak en aanpak;
 
-- 7°. samenwerking, zelfwerkzaamheid en zelfstandigheid stimuleren;
+   - 7°. samenwerking, zelfwerkzaamheid en zelfstandigheid stimuleren;
 
 - c. onderwijs kan evalueren en ontwikkelen, wat betekent dat hij:
 
-- 1°. de voortgang kan volgen, de resultaten kan toetsen, analyseren en beoordelen;
+   - 1°. de voortgang kan volgen, de resultaten kan toetsen, analyseren en beoordelen;
 
-- 2°. feedback kan vragen van leerlingen en deze feedback tezamen met zijn eigen analyse van de voortgang kan gebruiken voor een gericht vervolg van het onderwijsleerproces;
+   - 2°. feedback kan vragen van leerlingen en deze feedback tezamen met zijn eigen analyse van de voortgang kan gebruiken voor een gericht vervolg van het onderwijsleerproces;
 
-- 3°. leerproblemen kan signaleren en indien nodig met hulp van collega’s oplossingen kan zoeken of doorverwijzen;
+   - 3°. leerproblemen kan signaleren en indien nodig met hulp van collega’s oplossingen kan zoeken of doorverwijzen;
 
-- 4°. advies kan vragen aan collega’s of andere deskundigen;
+   - 4°. advies kan vragen aan collega’s of andere deskundigen;
 
-- 5°. weet wanneer en hoe hij advies kan geven;
+   - 5°. weet wanneer en hoe hij advies kan geven;
 
-- 6°. hierbij gebruik kan maken van methodieken voor professionele consultatie en leren, zoals supervisie en intervisie;
+   - 6°. hierbij gebruik kan maken van methodieken voor professionele consultatie en leren, zoals supervisie en intervisie;
 
-- 7°. zijn didactische aanpak en handelen kan evalueren, analyseren, bijstellen en ontwikkelen;
+   - 7°. zijn didactische aanpak en handelen kan evalueren, analyseren, bijstellen en ontwikkelen;
 
-- 8°. kan bijdragen aan pedagogisch-didactische evaluaties in zijn school en deze in afstemming met zijn collega’s kan gebruiken bij de onderwijsontwikkeling in zijn school;
+   - 8°. kan bijdragen aan pedagogisch-didactische evaluaties in zijn school en deze in afstemming met zijn collega’s kan gebruiken bij de onderwijsontwikkeling in zijn school;
 
-- 9°. de inhoud en de didactische aanpak van zijn onderwijs kan uitleggen en verantwoorden;
+   - 9°. de inhoud en de didactische aanpak van zijn onderwijs kan uitleggen en verantwoorden;
 
-- 10°. in staat is tot kritische reflectie op zijn eigen pedagogisch-didactisch handelen.
+   - 10°. in staat is tot kritische reflectie op zijn eigen pedagogisch-didactisch handelen.
 
 ##### Artikel 2.12. Aanvullende vakdidactische bekwaamheid leraar vo of docent, kunde
 
@@ -331,6 +303,10 @@ In aanvulling op [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&
 ##### Artikel 2.13. Aanvullende vakdidactische bekwaamheid leraar vho, kunde
 
 In aanvulling op [artikel 2.11, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=3&paragraaf=3&artikel=2.11&z=2022-08-01&g=2022-08-01), houdt de kunde in dat de leraar vho leiding en begeleiding kan geven aan groepen leerlingen buiten de context van de klas of les.
+
+### Titel 4. Pedagogische bekwaamheid
+
+#### Paragraaf 1. Pedagogische bekwaamheid, algemeen
 
 ##### Artikel 2.14. Pedagogische bekwaamheid leraar of docent
 
@@ -352,6 +328,8 @@ Pedagogische bekwaamheid betekent dat de leraar of docent:
 
 In aanvulling op [artikel 2.14, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=1&artikel=2.14&z=2022-08-01&g=2022-08-01), betekent pedagogische bekwaamheid van de leraar vo of docent in het beroepsgerichte onderwijs tevens dat het gaat om de begeleiding van de leerling bij zijn oriëntatie op beroepen en het ontwikkelen van beroepsidentiteit.
 
+#### Paragraaf 2. Pedagogische bekwaamheid, kennis
+
 ##### Artikel 2.16. Pedagogische bekwaamheid leraar of docent, kennis
 
 De leraar is pedagogisch bekwaam wat betreft kennis, indien hij ten minste:
@@ -369,6 +347,8 @@ De leraar is pedagogisch bekwaam wat betreft kennis, indien hij ten minste:
 ##### Artikel 2.17. Aanvullende pedagogische bekwaamheid leraar VO of docent in het beroepsgerichte onderwijs, kennis
 
 In aanvulling op [artikel 2.16, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&titeldeel=4&paragraaf=2&artikel=2.16&z=2022-08-01&g=2022-08-01), houdt kennis voor het beroepsgerichte onderwijs in dat de leraar vo of docent zich verdiept in de theoretische en praktische aspecten van het leren functioneren in een beroep en de ontwikkeling van beroepsidentiteit.
+
+#### Paragraaf 3. Pedagogische bekwaamheid, kunde
 
 ##### Artikel 2.18. Pedagogische bekwaamheid leraar of docent, kunde
 
@@ -406,207 +386,11 @@ De leraar of docent is pedagogisch bekwaam wat betreft kunde, indien hij ten min
 
 - 2°. indien de leerling nog niet volwassen is: de ouders.
 
-## Titel 4. **Bekwaamheidseisen bovenbouw havo en vwo (voorbereidend hoger onderwijs)**
+### Titel 5. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
-##### Artikel 2.20. Reikwijdte titel 4
+*Dit onderdeel is nog niet inwerking getreden*
 
-Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in [artikel 12, eerste lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=12).
-
-##### Artikel 2.21. Begripsbepaling titel 4
-
-In deze titel wordt verstaan onder:
-
-- a. **leraar:** leraar als bedoeld in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
-
-- b. **leerling:** leerling als bedoeld in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
-
-##### Artikel 2.22. Interpersoonlijke competentie leraar VHO
-
-1. De leraar onderschrijft zijn interpersoonlijke verantwoordelijkheid. Hij is zich bewust van zijn eigen houding en gedrag en van de invloed daarvan op de leerlingen. Hij heeft ook voldoende kennis en vaardigheid op het gebied van groepsprocessen en communicatie om een goede samenwerking met en van de leerlingen tot stand te brengen.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij maakt contact met de leerlingen en zorgt ervoor dat zij contact kunnen maken met hem en zich op hun gemak voelen,
-
-- 2°. hij biedt een kader waarbinnen de leerlingen hun eigen leerproces kunnen vormgeven en helpt de leerlingen daarbij, en
-
-- 3°. hij schept een goed klimaat voor samenwerking met de leerlingen en tussen de leerlingen onderling;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is goed op de hoogte van communicatie- en omgangsvormen in de leefwereld van zijn leerlingen, en
-
-- 2°. hij is op een praktisch niveau op de hoogte van communicatietheorieën, groepsdynamica en interculturele communicatie en kent vooral ook de implicaties daarvan voor zijn eigen doen en laten.
-
-##### Artikel 2.23. Pedagogische competentie leraar VHO
-
-1. De leraar onderschrijft zijn pedagogische verantwoordelijkheid. Hij heeft voldoende pedagogische kennis en vaardigheid om op professionele en planmatige voor de individuele leerling en voor de groepen waarmee hij werkt, een veilige leeromgeving tot stand te brengen waarin leerlingen zich kunnen ontwikkelen tot een zelfstandig en verantwoordelijk persoon.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij vormt zich een goed beeld van het sociale klimaat in een groep, van het individuele welbevinden van de leerlingen en van de vorderingen die zij maken op het gebied van zelfstandigheid en verantwoordelijkheid,
-
-- 2°. hij ontwerpt op basis daarvan een plan van aanpak of een benadering om de leerlingen te begeleiden naar een veilig en harmonisch leef- en werkklimaat en om hun sociaal-emotionele en morele ontwikkeling te bevorderen in de richting van zelfstandigheid en verantwoordelijkheid,
-
-- 3°. hij voert dat plan van aanpak of die benadering uit,
-
-- 4°. hij evalueert dat plan van aanpak of die benadering en stelt het zonodig bij, voor de hele groep en ook voor individuele leerlingen, en
-
-- 5°. hij signaleert problemen en belemmeringen in de sociaal-emotionele en morele ontwikkeling van leerlingen en stelt, zo nodig samen met collega’s, een passend plan van aanpak of benadering op;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is vertrouwd met de leefwereld van zijn leerlingen, hun basisbehoeften, hun verwachtingen, met de culturele bepaaldheid daarvan, en weet hoe hij daarmee om kan gaan,
-
-- 2°. hij is bekend met de sociaal-emotionele en morele ontwikkeling van tieners, jongvolwassenen en volwassenen, met de problemen en belemmeringen die zich daarbij kunnen voordoen en weet hoe hij die problemen in de praktijk kan signaleren en hoe hij daarmee om kan gaan,
-
-- 3°. hij is bekend met ontwikkelings- en opvoedingstheorieën, is vertrouwd met verschillende opvoedingspraktijken en met de culturele bepaaldheid daarvan en is zich bewust van de consequenties van deze theorieën en praktijken voor het onderwijs en voor zijn doen en laten als leraar, en
-
-- 4°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
-
-##### Artikel 2.24. Vakinhoudelijke en didactische competentie leraar VHO
-
-1. De leraar onderschrijft zijn vakinhoudelijke en didactische verantwoordelijkheid. Hij heeft voldoende vakinhoudelijke en didactische kennis en vaardigheid om op professionele en planmatige wijze voor individuele leerlingen en voor de groepen waarmee hij werkt een krachtige leeromgeving tot stand te brengen waarin leerlingen zich op een goede manier de leerinhouden van een bepaald vak of vakgebied eigen kunnen maken.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij vormt zich een goed beeld van de mate waarin de leerlingen de leerinhoud beheersen en van de manier waarop ze hun werk aanpakken,
-
-- 2°. hij ontwerpt op basis daarvan gevarieerde leeractiviteiten die voor de leerlingen uitvoerbaar zijn, waaruit zij eventueel kunnen kiezen en die hen aanzetten tot zelfwerkzaamheid,
-
-- 3°. hij voert die leeractiviteiten samen met zijn leerlingen uit,
-
-- 4°. hij evalueert die leeractiviteiten en de effecten ervan en stelt ze zonodig bij, voor de hele groep maar ook voor individuele leerlingen, en
-
-- 5°. hij signaleert leerproblemen en -belemmeringen en stelt, eventueel samen met collega’s, een passend plan van aanpak of benadering op;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij heeft zelf een grondige praktische en theoretische kennis en beheersing van de leerinhouden van zijn vak of vakgebied,
-
-- 2°. hij kent het belang van die leerinhoud voor het toekomstige beroep of studie en het dagelijks leven van de leerlingen,
-
-- 3°. hij heeft een grondige kennis van de wetenschappelijke achtergronden van de leerinhoud van zijn schoolvak, is vertrouwd met de betreffende wetenschappelijke disciplines en de methoden van kennisontwikkeling en kennistoepassing daarbinnen,
-
-- 4°. hij heeft kennis van, al dan niet onderzoeksmatig, ontwerpen van onderwijs, didactieken en didactische leermiddelen, waaronder informatie- en communicatietechnologie,
-
-- 5°. hij is bekend met verschillende onderwijs- en leertheorieën en met verschillende onderwijsarrangementen voor het voorbereidend hoger onderwijs en weet hoe hij die in praktijk kan brengen,
-
-- 6°. hij is bekend met onderwijsarrangementen voor zelfstandig leren, teamleren en onderzoeken in de tweede fase van het voortgezet onderwijs,
-
-- 7°. hij is vertrouwd met de wijze waarop leerlingen leren, wat hun leerbehoeften zijn, hoe zij zich ontwikkelen, welke problemen zich daarbij kunnen voordoen en weet hoe hij daarmee om kan gaan,
-
-- 8°. hij heeft kennis van de invloed van taalbeheersing en taalverwerving op het leren en weet hoe hij daar in zijn praktijk rekening mee moet houden,
-
-- 9°. hij heeft een praktische kennis van veel voorkomende leerstoornissen en onderwijsbelemmeringen en weet hoe hij daar mee om kan gaan, en
-
-- 10°. hij heeft kennis van processen van identiteitsvorming, zingeving en waardenontwikkeling bij tieners, adolescenten en volwassenen, en van de culturele bepaaldheid daarvan en weet welke consequenties hij hieraan moet verbinden voor zijn handelen.
-
-##### Artikel 2.25. Organisatorische competentie leraar VHO
-
-1. De leraar onderschrijft zijn organisatorische verantwoordelijkheid. Hij heeft voldoende organisatorische kennis en vaardigheid om op professionele en planmatige wijze in zijn groepen en zijn andere contacten met leerlingen een goed leef- en werkklimaat tot stand te brengen dat overzichtelijk, ordelijk en taakgericht is en in alle opzichten helder voor hemzelf, zijn collega’s en in het bijzonder de leerlingen.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij hanteert op een consequente manier concrete, functionele en door de leerlingen gedragen procedures en afspraken,
-
-- 2°. hij biedt organisatievormen, leermiddelen en leermaterialen aan die leerdoelen en leeractiviteiten ondersteunen,
-
-- 3°. hij houdt voor zijn onderwijs een planning aan die bij de leerlingen bekend is en waar zij hun eigen planning op kunnen afstemmen, en hij gaat adequaat om met tijd;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is bekend met die aspecten van groeps- of klassenmanagement die voor zijn vorm van onderwijs relevant zijn, en
-
-- 2°. hij is bekend met de organisatorische aspecten van verschillende soorten leeromgevingen in de school.
-
-##### Artikel 2.26. Competentie leraar VHO in het samenwerken met collega’s
-
-1. De leraar onderschrijft zijn verantwoordelijkheid in het samenwerken met collega’s. Hij heeft voldoende kennis en vaardigheden om een professionele bijdrage te leveren aan een goed pedagogisch en didactisch klimaat van zijn school, aan goede werkverhoudingen en een goede schoolorganisatie.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij deelt informatie die voor de voortgang van het werk van belang is met collega’s en maakt gebruik van de informatie die hij van collega’s krijgt,
-
-- 2°. hij levert een constructieve bijdrage aan verschillende vormen van overleg en samenwerken op school,
-
-- 3°. hij geeft en ontvangt collegiale consultatie en intervisie, en
-
-- 4°. hij werkt met collega’s samen aan de ontwikkeling en verbetering van zijn school;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is op praktisch niveau bekend met methodieken voor samenwerking en intervisie,
-
-- 2°. hij is op praktisch niveau op de hoogte van leerlingvolgsystemen en manieren om zijn eigen werk toegankelijk te administreren,
-
-- 3°. hij heeft enige kennis van organisatie- en bestuursvormen voor scholen in het voorbereidend hoger onderwijs, en
-
-- 4°. hij is op de hoogte van modellen voor kwaliteitszorg en methodieken voor onderwijsverbetering en schoolontwikkeling.
-
-##### Artikel 2.27. Competentie leraar VHO in het samenwerken met de omgeving
-
-1. De leraar onderschrijft zijn verantwoordelijkheid in het samenwerken met de omgeving van de school. Hij heeft voldoende kennis en vaardigheid om goed samen te werken met bedrijven of instellingen om hun gezamenlijke verantwoordelijkheid vorm te geven in het opleiden van de leerling. Hij heeft voldoende kennis en vaardigheid om goed samen te werken met mensen en instellingen die betrokken zijn bij de zorg voor de leerlingen en bij zijn school.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij geeft op professionele manier informatie over de leerlingen aan ouders en andere belanghebbenden en maakt gebruik van de informatie die hij van hen krijgt,
-
-- 2°. hij zorgt in overleg met de leerling en andere betrokkenen voor afstemming tussen het leren in en buiten de school en voor duidelijkheid over ieders verantwoordelijkheid en bijdrage hierin,
-
-- 3°. hij neemt op een constructieve manier deel aan verschillende vormen van overleg met mensen en instellingen buiten de school, en
-
-- 4°. hij verantwoordt zijn professionele opvattingen en werkwijze met betrekking tot een leerling aan ouders en andere belanghebbenden en past in gezamenlijk overleg zonodig zijn werk met die leerling aan;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is bekend met de leefwereld van ouders of verzorgers en weet hoe hij daar rekening mee moet houden in zijn doen en laten als leraar,
-
-- 2°. hij is op de hoogte van de professionele infrastructuur waar zijn school onderdeel van is,
-
-- 3°. hij is bekend met de cultuur en de actuele gang van zaken in het bedrijfsleven waarin zijn leerlingen participeren en weet hoe hij daar als leraar mee om kan gaan,
-
-- 4°. hij is bekend met de regelgeving en samenwerkingsprocedures tussen zijn school en bedrijven en instellingen waarmee wordt samengewerkt, en
-
-- 5°. hij weet hoe hij ervoor kan zorgen dat het binnen- en buitenschoolse leren en de interne en externe begeleiding van zijn leerlingen goed op elkaar zijn afgestemd.
-
-##### Artikel 2.28. Competentie leraar VHO in reflectie en ontwikkeling
-
-1. De leraar onderschrijft zijn verantwoordelijkheid voor zijn eigen professionele ontwikkeling. Hij onderzoekt, expliciteert en ontwikkelt zijn opvattingen over het leraarschap en zijn bekwaamheid als leraar.
-
-2. Om te voldoen aan het eerste lid:
-
-- a. kan de leraar de volgende handelingen verrichten:
-
-- 1°. hij werkt planmatig aan de ontwikkeling van zijn bekwaamheid, op basis van een goede analyse van zijn competenties,
-
-- 2°. hij stemt de ontwikkeling van zijn bekwaamheid af op het beleid van de school en de ontwikkeling en afspraken binnen het team, en
-
-- 3°. hij maakt bij die ontwikkeling gebruik van informatie van leerlingen en collega’s, in school en bedrijf, en ook van collegiale hulp in de vorm van bijvoorbeeld intervisie en supervisie;
-
-- b. beschikt de leraar over de volgende kennis:
-
-- 1°. hij is op de hoogte van actuele ontwikkelingen in het bedrijfsleven en de maatschappij die relevant zijn voor zijn onderwijs,
-
-- 2°. hij is op de hoogte van de onderwijspraktijk in andere scholen voor voorbereidend hoger onderwijs en van actuele ontwikkelingen op het gebied van inhouden, werkwijzen en organisatievormen in het voorbereidend hoger onderwijs,
-
-- 3°. hij is op de hoogte van actuele ontwikkelingen op het gebied van de pedagogiek en de didactiek die relevant zijn voor zijn onderwijs, en
-
-- 4°. hij heeft voldoende gedragspsychologische kennis om zijn eigen gedrag en dat van anderen te begrijpen en te analyseren.
-
-### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
+### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
 ##### Artikel 3.1. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
@@ -618,23 +402,25 @@ In deze titel wordt verstaan onder:
 
 - b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op grond van het eerste lid, in het betrokken schooljaar niet groter is dan 5% van het totale aantal lessen dat wordt gegeven in die hogere leerjaren.
 
+##### Artikel 3.2. Tijdelijke afwijking bekwaamheidseisen leraren beroepsgerichte vakken vmbo
+
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- *afdelingsvak, intrasectoraal programma of intersectoraal programma:* een afdelingsvak, intrasectoraal programma of intersectoraal programma als bedoeld in [artikel 18, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zevende lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), zoals die wet luidde op 31 juli 2016;
+
+- *beroepsgericht vak:* een profielvak als bedoeld in [artikel 18, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zesde lid, aanhef, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), of een beroepsgericht keuzevak als bedoeld in artikel 18, zevende lid, onderdeel a, of 29, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 18, derde lid, of 29, derde lid, van die wet.
+
+2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&z=2022-08-01&g=2022-08-01) van dit besluit, is [artikel 80, eerste lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan die school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
+
+3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 214e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=214e) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
+
+4. Dit artikel vervalt met ingang van 1 augustus 2022.
+
 ### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ##### Artikel 4.1. Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
 De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3) aan te wijzen onderwijsactiviteiten, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=11) of [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=12), zijn alle in die artikelen genoemde en bedoelde onderwijsactiviteiten.
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 5.1. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba.
-
-##### Artikel 5.2. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit bekwaamheidseisen onderwijspersoneel BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 4.2. Aanwijzing onderwijsactiviteiten leerkrachten praktijkonderwijs
 
@@ -664,56 +450,14 @@ De op grond van [artikel 7.11, vierde lid, van de Wet voortgezet onderwijs 2020]
 
 ### Hoofdstuk 5. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.2. Tijdelijke afwijking bekwaamheidseisen leraren beroepsgerichte vakken vmbo
-
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- **afdelingsvak, intrasectoraal programma of intersectoraal programma:** een afdelingsvak, intrasectoraal programma of intersectoraal programma als bedoeld in [artikel 18, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zevende lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), zoals die wet luidde op 31 juli 2016;
-
-- **beroepsgericht vak:** een profielvak als bedoeld in [artikel 18, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zesde lid, aanhef, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), of een beroepsgericht keuzevak als bedoeld in artikel 18, zevende lid, onderdeel a, of 29, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 18, derde lid, of 29, derde lid, van die wet.
-
-2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&z=2022-08-01&g=2022-08-01) van dit besluit, is [artikel 80, eerste lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan die school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
-
-3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 214e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=214e) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
-
-4. Dit artikel vervalt met ingang van 1 augustus 2022.
-
-### Hoofdstuk 5. Slotbepalingen
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Titel 2. Vakinhoudelijke bekwaamheid
-
-## Titel 3. Vakdidactische bekwaamheid
-
-#### Paragraaf 1. Vakdidactische bekwaamheid, algemeen
-
-#### Paragraaf 2. Vakdidactische bekwaamheid, kennis
-
-#### Paragraaf 3. Vakdidactische bekwaamheid, kunde
-
-## Titel 4. Pedagogische bekwaamheid
-
-#### Paragraaf 1. Pedagogische bekwaamheid, algemeen
-
-#### Paragraaf 2. Pedagogische bekwaamheid, kennis
-
-#### Paragraaf 3. Pedagogische bekwaamheid, kunde
-
-### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Titel 5. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
-
-### Hoofdstuk 3. Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
-
-### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
-
 ##### Artikel 5.a1. Omhangbepaling
 
 Dit besluit berust mede op de [artikelen 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.10), [7.23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.23) en [7.24, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.24).
+
+##### Artikel 5.1. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 5.2. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit bekwaamheidseisen onderwijspersoneel BES.

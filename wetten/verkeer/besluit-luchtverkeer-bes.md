@@ -1,38 +1,16 @@
 ---
 title: "Besluit Luchtverkeer BES"
 identifier: "BWBR0028639"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028639"
+categorie: "Verkeer"
 soort: "AMvB-BES"
-stam_id: "10911723"
-version_id: "17896312"
-internal_id: "C24828151"
-label_id: "10887774"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028639/2010-10-10/0"
-intitule_bron: "Stb.2010-633"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-633"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-633"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028639&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028639&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028639"
+opgehaald: 2026-08-16
 ---
+
 # Besluit Luchtverkeer BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,123 +19,123 @@ entry_into_force: "2010-10-10"
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **ACAS (Airborne Collision Avoidance System):** een systeem aan boord van een luchtvaartuig, werkend met signalen van transponders en onafhankelijk van installaties op de grond, dat de gezagvoerder advies geeft over mogelijk conflicterende luchtvaartuigen die zijn uitgerust met een transponder;
+- *ACAS (Airborne Collision Avoidance System):* een systeem aan boord van een luchtvaartuig, werkend met signalen van transponders en onafhankelijk van installaties op de grond, dat de gezagvoerder advies geeft over mogelijk conflicterende luchtvaartuigen die zijn uitgerust met een transponder;
 
-- **AFIS: («Aerodrome flight information service»):** onderdeel van luchtverkeersdienstverlening dat voorziet in het geven van inlichtingen die tot doel hebben een veilig en geregeld verloop van het luchtvaartterreinverkeer op daartoe door de Minister aangewezen luchtvaartterreinen;
+- *AFIS: («Aerodrome flight information service»):* onderdeel van luchtverkeersdienstverlening dat voorziet in het geven van inlichtingen die tot doel hebben een veilig en geregeld verloop van het luchtvaartterreinverkeer op daartoe door de Minister aangewezen luchtvaartterreinen;
 
-- **luchtverkeerstroomregeling (air traffic flow management):** een dienstverlening aan het luchtverkeer met het doel een optimale luchtverkeerstroom te verzekeren naar of via gebieden waarin het luchtverkeersaanbod de capaciteiten van het luchtverkeerssysteem overtreft;
+- *luchtverkeerstroomregeling (air traffic flow management):* een dienstverlening aan het luchtverkeer met het doel een optimale luchtverkeerstroom te verzekeren naar of via gebieden waarin het luchtverkeersaanbod de capaciteiten van het luchtverkeerssysteem overtreft;
 
-- **AIS (Aeronautical Information Services):** vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen, die nodig zijn voor een veilig, ordelijk en vlot verloop van het luchtverkeer vóór de vlucht en het in ontvangst nemen daarvan na de vlucht;
+- *AIS (Aeronautical Information Services):* vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen, die nodig zijn voor een veilig, ordelijk en vlot verloop van het luchtverkeer vóór de vlucht en het in ontvangst nemen daarvan na de vlucht;
 
-- **alarmering:** een dienstverlening met het doel de betrokken instanties te waarschuwen aangaande luchtvaartuigen, die hulp behoeven in de vorm van opsporing en redding en deze instanties bij te staan voor zover dat vereist is;
+- *alarmering:* een dienstverlening met het doel de betrokken instanties te waarschuwen aangaande luchtvaartuigen, die hulp behoeven in de vorm van opsporing en redding en deze instanties bij te staan voor zover dat vereist is;
 
-- **algemene luchtverkeersleiding:** het geven van luchtverkeersleiding bij een aangewezen algemene luchtverkeersleidingsdienst;
+- *algemene luchtverkeersleiding:* het geven van luchtverkeersleiding bij een aangewezen algemene luchtverkeersleidingsdienst;
 
-- **algemeen luchtverkeersleidingsgebied (Control Area-CTA):** een luchtverkeerleidings-gebied, dat zich in opwaartse richting uitstrekt vanaf een vastgestelde grens boven het aardoppervlak;
+- *algemeen luchtverkeersleidingsgebied (Control Area-CTA):* een luchtverkeerleidings-gebied, dat zich in opwaartse richting uitstrekt vanaf een vastgestelde grens boven het aardoppervlak;
 
-- **ATC:** «Air Traffic Control»
+- *ATC:* «Air Traffic Control»
 
-- **bijzonder luchtverkeersgebied:** een luchtruimte met vastgestelde begrenzingen, waarbinnen nadere voorschriften zijn gesteld ter bescherming van bepaalde soorten luchtverkeer of van bijzondere luchtvaartactiviteiten;
+- *bijzonder luchtverkeersgebied:* een luchtruimte met vastgestelde begrenzingen, waarbinnen nadere voorschriften zijn gesteld ter bescherming van bepaalde soorten luchtverkeer of van bijzondere luchtvaartactiviteiten;
 
-- **bijzondere VFR-vlucht:** een VFR-vlucht, die overeenkomstig een klaring van een luchtverkeersleidingsdienst wordt uitgevoerd binnen een plaatselijk luchtverkeersleidingsgebied, onder weersomstandigheden die slechter zijn dan zichtweersomstandigheden;
+- *bijzondere VFR-vlucht:* een VFR-vlucht, die overeenkomstig een klaring van een luchtverkeersleidingsdienst wordt uitgevoerd binnen een plaatselijk luchtverkeersleidingsgebied, onder weersomstandigheden die slechter zijn dan zichtweersomstandigheden;
 
-- **functioneel luchtruimblok:** luchtruimblok dat berust op operationele behoeften en een afspiegeling is van de noodzaak om een meer geïntegreerd beheer van het luchtruim te verzekeren, ongeacht de bestaande grenzen;
+- *functioneel luchtruimblok:* luchtruimblok dat berust op operationele behoeften en een afspiegeling is van de noodzaak om een meer geïntegreerd beheer van het luchtruim te verzekeren, ongeacht de bestaande grenzen;
 
-- **gecontroleerd luchtvaartterrein:** een luchtvaartterrein, waar luchtverkeersleiding wordt gegeven aan luchtvaartterreinverkeer;
+- *gecontroleerd luchtvaartterrein:* een luchtvaartterrein, waar luchtverkeersleiding wordt gegeven aan luchtvaartterreinverkeer;
 
-- **gecontroleerde vlucht:** een vlucht waarvoor een klaring is vereist;
+- *gecontroleerde vlucht:* een vlucht waarvoor een klaring is vereist;
 
-- **grondzicht:** het zicht op een luchtvaartterrein, zoals bepaald door een bevoegde waarnemer of met daartoe bestemde apparatuur;
+- *grondzicht:* het zicht op een luchtvaartterrein, zoals bepaald door een bevoegde waarnemer of met daartoe bestemde apparatuur;
 
-- **IFR-vlucht:** een vlucht uitgevoerd in overeenstemming met instrumentvliegvoorschriften;
+- *IFR-vlucht:* een vlucht uitgevoerd in overeenstemming met instrumentvliegvoorschriften;
 
-- **instrumentweersomstandigheden:** weersomstandigheden, die zijn uitgedrukt in termen van zicht, afstand tot wolken en wolkenbasis en die minder zijn dan de voorgeschreven minimum waarden voor zichtweersomstandigheden;
+- *instrumentweersomstandigheden:* weersomstandigheden, die zijn uitgedrukt in termen van zicht, afstand tot wolken en wolkenbasis en die minder zijn dan de voorgeschreven minimum waarden voor zichtweersomstandigheden;
 
-- **klaring:** machtiging aan de gezagvoerder van een luchtvaartuig om een vlucht aan te vangen of te vervolgen onder door een luchtverkeersleidingdienst gestelde voorwaarden;
+- *klaring:* machtiging aan de gezagvoerder van een luchtvaartuig om een vlucht aan te vangen of te vervolgen onder door een luchtverkeersleidingdienst gestelde voorwaarden;
 
-- **kruishoogte:** een vlieghoogte, die tijdens een aanzienlijk deel van een vlucht wordt gehandhaafd;
+- *kruishoogte:* een vlieghoogte, die tijdens een aanzienlijk deel van een vlucht wordt gehandhaafd;
 
-- **luchtvaartterreinverkeer:** alle verkeer op het manouvreergebied en alle luchtvaartuigen, die zich bevinden in het luchtverkeerscircuit van het betrokken luchtvaartterrein dan wel dit circuit binnenvliegen of verlaten;
+- *luchtvaartterreinverkeer:* alle verkeer op het manouvreergebied en alle luchtvaartuigen, die zich bevinden in het luchtverkeerscircuit van het betrokken luchtvaartterrein dan wel dit circuit binnenvliegen of verlaten;
 
-- **luchtvaartterreinvluchtinformatiegebied (aerodrome flight information zone (AFIZ):** luchtruimte met vastgestelde begrenzingen waarbinnen AFIS wordt verstrekt;
+- *luchtvaartterreinvluchtinformatiegebied (aerodrome flight information zone (AFIZ):* luchtruimte met vastgestelde begrenzingen waarbinnen AFIS wordt verstrekt;
 
-- **luchtverkeerscircuit:** de voorgeschreven vliegbaan voor luchtvaartuigen, die moet worden gevolgd in de nabijheid van een luchtvaartterrein;
+- *luchtverkeerscircuit:* de voorgeschreven vliegbaan voor luchtvaartuigen, die moet worden gevolgd in de nabijheid van een luchtvaartterrein;
 
-- **luchtverkeersdienst:** één of meer van de diensten, die zijn belast met het uitoefenen van de luchtverkeersdienstverlening, zijnde: luchtverkeersleidingsdiensten, vluchtinformatiecentrum en luchtverkeersmeldingspost;
+- *luchtverkeersdienst:* één of meer van de diensten, die zijn belast met het uitoefenen van de luchtverkeersdienstverlening, zijnde: luchtverkeersleidingsdiensten, vluchtinformatiecentrum en luchtverkeersmeldingspost;
 
-- **luchtverkeersleidingsdienst:** luchtverkeersdienst belast met de uitoefening van luchtverkeersleiding;
+- *luchtverkeersleidingsdienst:* luchtverkeersdienst belast met de uitoefening van luchtverkeersleiding;
 
-- **luchtverkeersdienstverleningsgebied:** deel van het luchtruim met vastgestelde begrenzingen, waarvoor is vastgesteld welke soorten vluchten erin mogen worden uitgevoerd en welke soorten luchtverkeersdienstverlening er worden verstrekt, alsmede welke regels gelden voor de vluchtuitvoering;
+- *luchtverkeersdienstverleningsgebied:* deel van het luchtruim met vastgestelde begrenzingen, waarvoor is vastgesteld welke soorten vluchten erin mogen worden uitgevoerd en welke soorten luchtverkeersdienstverlening er worden verstrekt, alsmede welke regels gelden voor de vluchtuitvoering;
 
-- **luchtverkeersleiding:** het regelen van het luchtverkeerdoor het geven van klaringen en aanwijzingen aan deelnemers aan het luchtverkeer;
+- *luchtverkeersleiding:* het regelen van het luchtverkeerdoor het geven van klaringen en aanwijzingen aan deelnemers aan het luchtverkeer;
 
-- **luchtverkeersleidingscentrum (area control centre – ACC):** luchtverkeersdienst, belast met het verlenen van luchtverkeersleidingsdiensten, vluchtinlichtingendiensten, alarmeringsdiensten en adviesdiensten voor het luchtverkeer;
+- *luchtverkeersleidingscentrum (area control centre – ACC):* luchtverkeersdienst, belast met het verlenen van luchtverkeersleidingsdiensten, vluchtinlichtingendiensten, alarmeringsdiensten en adviesdiensten voor het luchtverkeer;
 
-- **luchtverkeersleidingsgebied:** een luchtverkeersdienstverleningsgebied, waarbinnen luchtverkeersleiding wordt gegeven aan IFR-vluchten en VFR-vluchten in overeenstemming met de geldende luchtruimteclassificatie;
+- *luchtverkeersleidingsgebied:* een luchtverkeersdienstverleningsgebied, waarbinnen luchtverkeersleiding wordt gegeven aan IFR-vluchten en VFR-vluchten in overeenstemming met de geldende luchtruimteclassificatie;
 
-- **luchtverkeersmeldingspost (air traffic services reporting office (ARO):** een luchtverkeersdienst belast met het ontvangen van vliegplannen voor de vlucht en rapporten betreffende de luchtverkeersdienstverlening;
+- *luchtverkeersmeldingspost (air traffic services reporting office (ARO):* een luchtverkeersdienst belast met het ontvangen van vliegplannen voor de vlucht en rapporten betreffende de luchtverkeersdienstverlening;
 
-- **luchtverkeersroute:** een bepaalde route, vastgesteld om de verkeersstroom te kanaliseren, waar dat nodig is voor de verzorging van de luchtverkeersdienstverlening;
+- *luchtverkeersroute:* een bepaalde route, vastgesteld om de verkeersstroom te kanaliseren, waar dat nodig is voor de verzorging van de luchtverkeersdienstverlening;
 
-- **manoeuvreergebied:** het gedeelte van een luchtvaartterrein, met uitzondering van platforms, dat gebruikt wordt voor het opstijgen, het landen van luchtvaartuigen en het taxiën van luchtvaartuigen;
+- *manoeuvreergebied:* het gedeelte van een luchtvaartterrein, met uitzondering van platforms, dat gebruikt wordt voor het opstijgen, het landen van luchtvaartuigen en het taxiën van luchtvaartuigen;
 
-- **meldingspunt:** een geografisch bepaalde plaats, ten opzichte waarvan de positie van een luchtvaartuig kan worden gemeld;
+- *meldingspunt:* een geografisch bepaalde plaats, ten opzichte waarvan de positie van een luchtvaartuig kan worden gemeld;
 
-- **movement area:** het gedeelte van een luchtvaartterrein bestemd voor het opstijgen, landen en taxiën van luchtvaartuigen, bestaande uit het manoeuvreergebied en het platform;
+- *movement area:* het gedeelte van een luchtvaartterrein bestemd voor het opstijgen, landen en taxiën van luchtvaartuigen, bestaande uit het manoeuvreergebied en het platform;
 
-- **naderingsluchtverkeersleiding:** het geven van luchtverkeersleiding bij een aangewezen naderingsluchtverkeersleidingsdienst;
+- *naderingsluchtverkeersleiding:* het geven van luchtverkeersleiding bij een aangewezen naderingsluchtverkeersleidingsdienst;
 
-- **naderingsluchtverkeersleidingsdienst (approach control office – APP):** luchtverkeersdienst, belast met het geven van luchtverkeersdienstverlening aan het luchtverkeer dat een gecontroleerd luchtvaartterrein nadert, dan wel daarvan vertrekt;
+- *naderingsluchtverkeersleidingsdienst (approach control office – APP):* luchtverkeersdienst, belast met het geven van luchtverkeersdienstverlening aan het luchtverkeer dat een gecontroleerd luchtvaartterrein nadert, dan wel daarvan vertrekt;
 
-- **naderingsluchtverkeersleidingsgebied (Terminal control area TMA):** een algemeen luchtverkeersleidingsgebied, dat doorgaans is ingesteld bij het kruispunt van luchtverkeersroutes gelegen in de nabijheid van één of meer luchtvaartterreinen;
+- *naderingsluchtverkeersleidingsgebied (Terminal control area TMA):* een algemeen luchtverkeersleidingsgebied, dat doorgaans is ingesteld bij het kruispunt van luchtverkeersroutes gelegen in de nabijheid van één of meer luchtvaartterreinen;
 
-- **NOTAM:** een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+- *NOTAM:* een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
 
-- **omschakelpunt:** het punt waar een luchtvaartuig tijdens een vlucht langs een luchtverkeersroute-segment, dat is bepaald met betrekking tot alzijdig gerichte radiobakens werkend op zeer hoge frequenties (VOR’s), verwacht wordt – voor de primaire navigatie – om te schakelen van het baken achter het luchtvaartuig naar het volgende baken vóór het luchtvaartuig;
+- *omschakelpunt:* het punt waar een luchtvaartuig tijdens een vlucht langs een luchtverkeersroute-segment, dat is bepaald met betrekking tot alzijdig gerichte radiobakens werkend op zeer hoge frequenties (VOR’s), verwacht wordt – voor de primaire navigatie – om te schakelen van het baken achter het luchtvaartuig naar het volgende baken vóór het luchtvaartuig;
 
-- **plaatselijke luchtverkeersleiding:** het geven van luchtverkeersleiding bij een aangewezen plaatselijke luchtverkeersleidingsdienst;
+- *plaatselijke luchtverkeersleiding:* het geven van luchtverkeersleiding bij een aangewezen plaatselijke luchtverkeersleidingsdienst;
 
-- **plaatselijke luchtverkeersleidingsdienst (aerodrome control tower – TWR):** luchtverkeersdienst belast met het geven van luchtverkeersdienstverlening aan luchtvaartterreinverkeer;
+- *plaatselijke luchtverkeersleidingsdienst (aerodrome control tower – TWR):* luchtverkeersdienst belast met het geven van luchtverkeersdienstverlening aan luchtvaartterreinverkeer;
 
-- **plaatselijk luchtverkeersleidingsgebied (Control Zone (CTR):** een luchtverkeersleidingsgebied, dat zich verticaal uitstrekt vanaf het aardoppervlak tot aan een vastgestelde bovengrens;
+- *plaatselijk luchtverkeersleidingsgebied (Control Zone (CTR):* een luchtverkeersleidingsgebied, dat zich verticaal uitstrekt vanaf het aardoppervlak tot aan een vastgestelde bovengrens;
 
-- **platform:** een gedeelte van een luchtvaartterrein, dat bestemd is voor het opstellen van luchtvaartuigen, met het doel passagiers te laten in- of uitstappen, post of vracht te laden of te lossen, brandstof in te nemen, te parkeren of onderhoudswerkzaamheden te verrichten;
+- *platform:* een gedeelte van een luchtvaartterrein, dat bestemd is voor het opstellen van luchtvaartuigen, met het doel passagiers te laten in- of uitstappen, post of vracht te laden of te lossen, brandstof in te nemen, te parkeren of onderhoudswerkzaamheden te verrichten;
 
-- **RA (Resolution Advisory):** een door ACAS aan de gezagvoerder gegeven advies om zodanig te manoeuvreren dat een botsing wordt voorkomen;
+- *RA (Resolution Advisory):* een door ACAS aan de gezagvoerder gegeven advies om zodanig te manoeuvreren dat een botsing wordt voorkomen;
 
-- **RCC:** Rescue Coordination Centre van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;.
+- *RCC:* Rescue Coordination Centre van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;.
 
-- **RNP:** «Required Navigation Performance»;
+- *RNP:* «Required Navigation Performance»;
 
-- **sleep:** een door een luchtvaartuig door middel van een sleepkabel voortgetrokken sleepnet, doel voor richt- en schietoefeningen of een zweefvliegtuig;
+- *sleep:* een door een luchtvaartuig door middel van een sleepkabel voortgetrokken sleepnet, doel voor richt- en schietoefeningen of een zweefvliegtuig;
 
-- **sleepkabel:** het geheel van onderdelen dat de verbinding vormt tussen het luchtvaartuig en de sleep;
+- *sleepkabel:* het geheel van onderdelen dat de verbinding vormt tussen het luchtvaartuig en de sleep;
 
-- **sleepvliegtuig:** een vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep;
+- *sleepvliegtuig:* een vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep;
 
-- **uitwijkhaven:** een luchtvaartterrein, waarheen een vlucht kan worden vervolgd indien moet worden afgezien van landing op het luchtvaartterrein van bestemming;
+- *uitwijkhaven:* een luchtvaartterrein, waarheen een vlucht kan worden vervolgd indien moet worden afgezien van landing op het luchtvaartterrein van bestemming;
 
-- **Verdrag:** het Verdrag inzake de internationale burgerluchtvaart;
+- *Verdrag:* het Verdrag inzake de internationale burgerluchtvaart;
 
-- **VFR-vlucht:** een vlucht waarop vastgestelde algemene vliegvoorschriften alsmede vastgestelde zichtvliegvoorschriften van toepassing zijn;
+- *VFR-vlucht:* een vlucht waarop vastgestelde algemene vliegvoorschriften alsmede vastgestelde zichtvliegvoorschriften van toepassing zijn;
 
-- **vliegniveau:** een vlak van constante atmosferische druk in relatie tot het referentie-drukvlak van 1013.2 hectopascals (hPa), dat van soortgelijke vlakken is gescheiden door bepaalde drukintervallen;
+- *vliegniveau:* een vlak van constante atmosferische druk in relatie tot het referentie-drukvlak van 1013.2 hectopascals (hPa), dat van soortgelijke vlakken is gescheiden door bepaalde drukintervallen;
 
-- **vliegzicht:** het zicht recht vooruit waargenomen vanuit de stuurhut van een luchtvaartuig tijdens de vlucht;
+- *vliegzicht:* het zicht recht vooruit waargenomen vanuit de stuurhut van een luchtvaartuig tijdens de vlucht;
 
-- **vluchtinformatiecentrum:** een luchtverkeersdienst, die is belast met het verstrekken van vluchtinformatie en het verzorgen van de alarmering;
+- *vluchtinformatiecentrum:* een luchtverkeersdienst, die is belast met het verstrekken van vluchtinformatie en het verzorgen van de alarmering;
 
-- **vluchtinformatieverstrekking:** een dienstverlening met het doel inlichtingen te geven tijdens de vlucht ten behoeve van een veilige en doelmatige vluchtuitvoering;
+- *vluchtinformatieverstrekking:* een dienstverlening met het doel inlichtingen te geven tijdens de vlucht ten behoeve van een veilige en doelmatige vluchtuitvoering;
 
-- **voet:** de lengte gelijk aan 0.3048 m;
+- *voet:* de lengte gelijk aan 0.3048 m;
 
-- **Very High Frequency Omnidirectional Radio Range (VOR):** een op de grond geplaatst zendsysteem dat het mogelijk maakt om vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking;
+- *Very High Frequency Omnidirectional Radio Range (VOR):* een op de grond geplaatst zendsysteem dat het mogelijk maakt om vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking;
 
-- **zichtweersomstandigheden:** weersomstandigheden, die zijn uitgedrukt in termen van zicht, afstand tot wolken en wolkenbasis die gelijk zijn aan, of beter zijn dan de voorgeschreven minimum waarden;
+- *zichtweersomstandigheden:* weersomstandigheden, die zijn uitgedrukt in termen van zicht, afstand tot wolken en wolkenbasis die gelijk zijn aan, of beter zijn dan de voorgeschreven minimum waarden;
 
-- **zonsondergang:** het ogenblik, waarop de bovenrand van de zon onder de schijnbare kim verdwijnt op zeeniveau;
+- *zonsondergang:* het ogenblik, waarop de bovenrand van de zon onder de schijnbare kim verdwijnt op zeeniveau;
 
-- **zonsopgang:** het ogenblik, waarop de bovenrand van de zon boven de schijnbare kim verschijnt op zeeniveau.
+- *zonsopgang:* het ogenblik, waarop de bovenrand van de zon boven de schijnbare kim verschijnt op zeeniveau.
 
 2. Een wijziging van de in dit besluit genoemde bijlagen bij het Verdrag geldt vanaf het moment waarop van deze wijziging mededeling in het Tractatenblad is gedaan.
 
@@ -253,9 +231,9 @@ In het luchtruim, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/
 
 - 4. Delen van het luchtruim, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), kunnen worden aangewezen als bijzondere luchtverkeersdienstverleningsgebieden, waarbinnen nadere voorschriften worden gesteld ter bescherming van:
 
-- a. bepaalde soorten luchtverkeer; of
+   - a. bepaalde soorten luchtverkeer; of
 
-- b. bijzondere luchtvaartactiviteiten.
+   - b. bijzondere luchtvaartactiviteiten.
 
 - 5. In afwijking van het bepaalde in het eerste lid kunnen bij ministeriële regeling delen van het luchtruim, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), aangewezen worden waarbinnen na overleg met de bevoegde autoriteiten van een aangrenzende Staat, luchtverkeersdienstverlening wordt gegeven door een instantie van die Staat.
 
@@ -369,15 +347,15 @@ bijzondere VFR-vluchten onderling indien voorgeschreven door de Minister.
 
 7. De inhoud van een klaring bevat:
 
-- –. vluchtenidentificatie, zoals opgegeven in het vliegplan;
+- – vluchtenidentificatie, zoals opgegeven in het vliegplan;
 
-- –. klaringslimiet;
+- – klaringslimiet;
 
-- –. route;
+- – route;
 
-- –. vlieghoogten over de gehele route of een deel daarvan en veranderingen hiervan voorzover vereist;
+- – vlieghoogten over de gehele route of een deel daarvan en veranderingen hiervan voorzover vereist;
 
-- –. aanvullende instructies of informatie inzake nadering of vertrekprocedures, communicatie procedures en het tijdtip waarna de klaring niet meer geldig is.
+- – aanvullende instructies of informatie inzake nadering of vertrekprocedures, communicatie procedures en het tijdtip waarna de klaring niet meer geldig is.
 
 8. Klaringen voor trans-sonische vluchten geschiedt conform § 3.7.2.1 van Bijlage 11 van het Verdrag.
 
@@ -437,17 +415,17 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 - a. meteorologische inlichtingen voor startende en landende vliegtuigen, inclusief de ongecodeerde waarschuwing voor weersomstandigheden die van invloed kunnen zijn op een veilige vluchtuitvoering, over:
 
-- 1°. de actuele windrichting en snelheid op de grond, inclusief belangrijke wisselingen,
+   - 1°. de actuele windrichting en snelheid op de grond, inclusief belangrijke wisselingen,
 
-- 2°. de hoogtemeterinstelling ten opzichte van het gemiddeld zeeniveau en, standaard wanneer dat ter plaatse gebruikelijk is of anders op verzoek, de hoogtemeter-instelling ten opzichte van het terrein,
+   - 2°. de hoogtemeterinstelling ten opzichte van het gemiddeld zeeniveau en, standaard wanneer dat ter plaatse gebruikelijk is of anders op verzoek, de hoogtemeter-instelling ten opzichte van het terrein,
 
-- 3°. de luchttemperatuur op de in gebruik zijnde baan, bij een start van een vliegtuig met turbinemotor(en),
+   - 3°. de luchttemperatuur op de in gebruik zijnde baan, bij een start van een vliegtuig met turbinemotor(en),
 
-- 4°. het actuele zicht, representatief voor de startrichting en eerste klim, of in de naderings- en landingsfase, wanneer dit minder is dan 10 km of, indien beschikbaar, de zichtbare baanlengte op de te gebruiken baan,
+   - 4°. het actuele zicht, representatief voor de startrichting en eerste klim, of in de naderings- en landingsfase, wanneer dit minder is dan 10 km of, indien beschikbaar, de zichtbare baanlengte op de te gebruiken baan,
 
-- 5°. een aanduiding van belangrijke meteorologische omstandigheden in het start- en uitklimgebied, of in het naderings- en landingsgebied,
+   - 5°. een aanduiding van belangrijke meteorologische omstandigheden in het start- en uitklimgebied, of in het naderings- en landingsgebied,
 
-- 6°. het huidige weer en de hoeveelheid en hoogte van de basis van lage wolken, wanneer een vliegtuig een nadering uitvoert onder instrumentweersomstandigheden;
+   - 6°. het huidige weer en de hoeveelheid en hoogte van de basis van lage wolken, wanneer een vliegtuig een nadering uitvoert onder instrumentweersomstandigheden;
 
 - b. inlichtingen die de vlieger in staat stellen de best bruikbare start- of landingsbaan te kiezen, inclusief de aanbevolen baan en het luchtverkeerscircuit en, op verzoek van de vlieger, de lengte van de baan en de afstand tussen een snij- of kruispunt en het eind van de baan;
 
@@ -455,15 +433,15 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 - d. inlichtingen over de omstandigheden op het luchtvaartterrein die essentieel zijn voor een veilige vluchtuitvoering, waaronder in ieder geval informatie over:
 
-- 1°. bouw- en onderhoudswerkzaamheden op en in de directe omgeving van het deel van het terrein dat wordt gebruikt voor het opstijgen, landen en taxiën, met uitzondering van de platformen;
+   - 1°. bouw- en onderhoudswerkzaamheden op en in de directe omgeving van het deel van het terrein dat wordt gebruikt voor het opstijgen, landen en taxiën, met uitzondering van de platformen;
 
-- 2°. hobbelige of oneffen delen van een baan of taxibaan, al dan niet gemarkeerd;
+   - 2°. hobbelige of oneffen delen van een baan of taxibaan, al dan niet gemarkeerd;
 
-- 3°. water op een baan;
+   - 3°. water op een baan;
 
-- 4°. andere tijdelijke gevaren, inclusief geparkeerde luchtvaartuigen en vogels op de grond of in de lucht;
+   - 4°. andere tijdelijke gevaren, inclusief geparkeerde luchtvaartuigen en vogels op de grond of in de lucht;
 
-- 5°. het niet of niet volgens de regels werken van de verlichting van het luchtvaartterrein;
+   - 5°. het niet of niet volgens de regels werken van de verlichting van het luchtvaartterrein;
 
 - e. inlichtingen over de status of veranderingen in de gebruiksmogelijkheden van de elektronische navigatiehulpmiddelen en visuele hulpmiddelen die essentieel zijn voor het luchtvaartterreinverkeer; inlichtingen over peilingen en peillijnen, wanneer daarvoor apparatuur beschikbaar is en is voorgeschreven en toegelaten op basis van de daarvoor geldende eisen uit Bijlage 10 van het Verdrag;
 
@@ -579,7 +557,7 @@ Zodra de identiteit van het luchtvaartuig door de luchtverkeersdienst wordt vast
 
 2. Luchtverkeersdiensten zijn uitgerust met klokken die tijd in uren, minuten en seconden aanduiden welke duidelijk zichtbaar zijn van elk werkstation binnen de betreffende eenheid.
 
-3. De nauwkeurigheid van de tijd voldoet aan de bepalingen van § 2.24.3 van Bijlage 11 van het Verdrag
+3. De nauwkeurigheid van de tijd voldoet aan de bepalingen van § 2.24.3 van Bijlage 11 van het Verdrag
 
 4. Plaatselijke luchtverkeersleidingsdiensten voorzien de piloot van de juiste tijd uitgedrukt in gecoördineerde Wereldtijd UTC alvorens het luchtvaartuig begint te taxiën met de bedoeling om op te stijgen.
 
@@ -641,7 +619,7 @@ Om ervoor zorg te dragen dat de luchtverkeersdienstverlening op geschikte wijze 
 
 - a. het bestaan van adequate supervisie voor het coördineren van luchtverkeerslei-dingsactiviteiten, het coördineren van bekwaamheidstesten voor luchtverkeersleiders, het verzekeren van standaardisatie van werkmethoden en de tenuitvoerlegging van de relevante aspecten van het kwaliteits- en veiligheidssysteem;
 
-- b. het luchtverkeerssysteem voldoende capaciteiten en flexibiliteit bezit ter accommodatie van het verkeersaanbod gedurende piekuren alsmede het verwachte aanbod van luchtverkeer steeds voor een periode van 5 jaar;
+- b. het luchtverkeerssysteem voldoende capaciteiten en flexibiliteit bezit ter accommodatie van het verkeersaanbod gedurende piekuren alsmede het verwachte aanbod van luchtverkeer steeds voor een periode van 5 jaar;
 
 - c. een systeem van navigatiehulpmiddelen dat voorziet in zowel vereisten voor het luchtverkeer als die voor luchtverkeersleiders;
 
@@ -827,11 +805,11 @@ Een voorstel van de luchtverkeersdienstverlener, welke inhoudt een verandering i
 
 2. De luchtverkeersdienstverlener toont de Minister, telkens wanneer de Minister dit vergt, aan dat de werkmethodes en werkprocedures van de AIS in overeenstemming zijn met de toepasbare normen van de volgende bijlagen van het Verdrag:
 
-- –. Bijlage 3 «Meteorological Services for International Air Navigation»
+- – Bijlage 3 «Meteorological Services for International Air Navigation»
 
-- –. Bijlage 4 «Aeronautical charts»
+- – Bijlage 4 «Aeronautical charts»
 
-- –. Bijlage 15 «Aeronautical Information Services»
+- – Bijlage 15 «Aeronautical Information Services»
 
 3. De luchtverkeersdienstverlener toont de Minister aan dat de werkmethoden en operationele procedures van de AIS consistent zijn met bij ministeriële regeling te bepalen ICAO documenten.
 
@@ -967,11 +945,11 @@ Een luchtvaartuig volgt bij het uitvoeren van een vlucht de luchtverkeersroutes,
 
 2. Nauwkeurigheidsvereisten voor luchtvaart data zijn gebaseerd op een 95% vertrouwens niveau. Op grond hiervan worden drie types positie data geïdentificeerd:
 
-- –. «surveyed points»
+- – «surveyed points»
 
-- –. «calculated points»
+- – «calculated points»
 
-- –. «declared points».
+- – «declared points».
 
 ##### Artikel 78
 
@@ -985,7 +963,7 @@ De nauwkeurigheidsgraad van het veldwerk en de daarmee samenhangende vaststellin
 
 ### Hoofdstuk 5. Luchtverkeersregels
 
-### Afdeling 1. Algemeen
+#### Afdeling 1. Algemeen
 
 ##### Artikel 80
 
@@ -1005,7 +983,7 @@ De nauwkeurigheidsgraad van het veldwerk en de daarmee samenhangende vaststellin
 
 Vóór de aanvang van de vlucht neemt de gezagvoerder kennis van alle beschikbare inlichtingen, weersberichten en weersverwachtingen daaronder begrepen, die voor de uitvoering van de vlucht van belang zijn. Daarbij wordt tevens aandacht besteed aan de mede te voeren hoeveelheid brandstof en aan de te volgen handelwijze indien de vlucht niet overeenkomstig het oorspronkelijke voornemen kan worden voltooid.
 
-### Afdeling 2. Algemene vliegvoorschriften
+#### Afdeling 2. Algemene vliegvoorschriften
 
 ##### Artikel 82
 
@@ -1227,7 +1205,7 @@ Een luchtvaartuig op het water voldoet aan de voorschriften ter voorkoming van b
 
 2. Vóór de aanvang van een gecontroleerde vlucht en telkens gedurende de vlucht, wanneer de noodzaak daartoe blijkt, wordt een opgave van de juiste tijd verkregen.
 
-### Afdeling 3. Gecontroleerde vluchten
+#### Afdeling 3. Gecontroleerde vluchten
 
 ##### Artikel 107
 
@@ -1303,7 +1281,7 @@ Door de Minister worden regels vastgesteld met betrekking tot de bediening van d
 
 2. Indien door het onderschepte luchtvaartuig, uit welke bron dan ook, per radio opdrachten worden ontvangen die afwijken van de door het onderscheppende luchtvaartuig door middel van visuele seinen of radio gegeven opdrachten, wordt onmiddellijk opheldering gevraagd, terwijl intussen de door het onderscheppende luchtvaartuig gegeven opdrachten worden uitgevoerd.
 
-### Afdeling 4. Zichtvliegvoorschriften
+#### Afdeling 4. Zichtvliegvoorschriften
 
 ##### Artikel 115
 
@@ -1387,7 +1365,7 @@ Bij het uitvoeren van een VFR-vlucht wordt:
 
 3. Het is verboden te handelen in strijd met voorschriften als bedoeld in het tweede lid.
 
-### Afdeling 5. Instrumentvliegvoorschriften
+#### Afdeling 5. Instrumentvliegvoorschriften
 
 #### § 1. Algemeen
 
@@ -1435,7 +1413,7 @@ Bij het uitvoeren van een IFR-vlucht wordt:
 
 - a. voortdurend geluisterd op de desbetreffende radiofrequentie van de betrokken lucht-verkeersdienst, die vluchtinformatie verstrekt;
 
-- b. tweezijdige radioverbinding tot stand gebracht met die dienst, en
+- b tweezijdige radioverbinding tot stand gebracht met die dienst, en
 
 - c. positiemeldingen verstrekt overeenkomstig het in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=5&afdeling=3&artikel=109&z=2010-10-10&g=2010-10-10) bepaalde voor gecontroleerde vluchten.
 
@@ -1494,137 +1472,3 @@ Dit besluit wordt aangehaald als: Besluit Luchtverkeer BES.
 ##### Artikel 134
 
 [vervallen]
-
-## Bijlage A. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), van het Besluit luchtverkeer BES
-
-### General requirements for providers of air navigation services
-
-### Organisational structure and management
-
-### Organisational structure
-
-### Organisational management
-
-**Business plan:**
-
-A provider of air navigation services shall produce a business plan covering a minimum period of five years. The business plan shall:
-
-The business plan shall contain details of:
-
-**Annual plan:**
-
-A provider of air navigation services shall produce an annual plan. The annual plan shall demonstrate its ability to provide services safely, efficiently and continuously and describe any changes to the business plan. The annual plan shall at least cover capacity, service levels and financial arrangements:
-
-### infrastructure and capacity
-
-### Quality of Services
-
-### Financial Plan
-
-### Systems and processes for safety and quality management
-
-### Quality management system
-
-A provider of air navigation services shall establish and maintain a quality management system which covers all air navigation services it provides according to the following principles:
-
-An air navigation service provider shall initiate the process in order to obtain the ISO 9001 certificate for all air navigation services it provides by the end of 2006 at the latest.
-
-### Safety management
-
-A provider of air navigation services shall institute and document measures to ensure safety in the form of a formalized, explicit and pro-active safety management system, based on a safety statement defining the organization’s fundamental approach to managing safety in respect of all services which are under its managerial control, whereby all individuals involved in and responsible for safety related activities bear responsibility for their own actions. In doing so, it shall establish formal interfaces with those of its suppliers having a direct impact on the safety of its services, in particular with the suppliers of telecommunications, information technology and electricity.
-
-The safety management system shall ensure that the achievement of a satisfactory safety level shall be afforded priority over commercial, operational, environmental or social considerations.
-
-### Safety management responsibility
-
-A provider of air navigation services shall ensure that a safety management function is identified with organizational responsibility for development and maintenance of the safety management system, with direct accountability to the highest organizational level. Where the combination of responsibilities may prevent sufficient independence in this regard, the arrangements for safety assurance shall be supplemented by additional independent means.
-
-### Quantitative safety levels / Risk assessment and mitigation
-
-A provider of air navigation services shall ensure
-
-### Safety occurrences
-
-A provider of air navigation services shall comply with the obligations stemming from directives of the director of Directorate of Civil Aviation. Furthermore, it shall ensure that any necessary corrective action is taken within a reasonable period following investigations of safety occurrences.
-
-### Safety assurance and promotion
-
-A provider of air navigation services shall systematically carry out safety surveys to ensure compliance with the safety objectives or to implement improvements where needed. These surveys shall also detect any element which is approaching a point at which the safety standards can no longer be met. The ATS provider shall document procedures or systems employed to remedy these situations.
-
-Documentation related to the safety management shall be maintained throughout the life of the system.
-
-All lessons arising from safety occurrence investigations and other safety activities are disseminated within the organisation at managerial and operational levels. Staff shall be actively encouraged to propose solutions to identified hazards.
-
-### Safety improvement
-
-A provider of air navigation services shall implement and document an effective safety improvement process which relies on a strong safety culture.
-
-### Competence of staff
-
-A provider of air navigation services shall ensure that its personnel involved in safety related tasks is adequately trained and is competent to perform its duties, in addition to being properly licensed if so required.
-
-The provider of air navigation services shall ensure that technical and engineering personnel have and maintain sufficient knowledge and understanding of the services they are supporting, of the actual and potential effects of their work on the safety of those services, and of the appropriate working limits to be applied.
-
-With regard to its personnel involved in safety related tasks, the provider of air navigation services shall document the adequacy of the competence of its personnel; the rostering arrangements in place to ensure sufficient capacity and continuity of service; the personnel training policy, training plans and records.
-
-The provider shall have procedures in place for cases where the physical or mental condition of the personnel is in doubt.
-
-A provider of air navigation services shall maintain a register of information on the numbers, status and deployment of its staff. The register shall:
-
-### Operations manuals
-
-A provider of air navigation services shall provide and keep up-to-date operations manuals relating to the provision of its services for the use and guidance of operations personnel. It shall ensure that:
-
-If the provider is given a directive to amend the manual, the provider must comply with the directive.
-
-### Security
-
-### Human resources
-
-A provider of air navigation services shall employ appropriately skilled people to ensure the provision of its services in a safe, efficient, continuous and sustainable manner. In this context, it shall adopt policies and programmes for human resources that demonstrate its plans, methods and tools for the selection, recruitment and retention of staff; and for the personnel development and training.
-
-Wherever needed, the provider has to ensure the necessary security clearance of its staff.
-
-### Financial strength
-
-### Economic and financial capacity
-
-A provider of air navigation services shall be able to:
-
-### Management of assets
-
-A provider of air navigation services shall develop and maintain its assets so that it can provide the services safely, efficiently and continuously:
-
-### Proof of financial strength
-
-A provider of air navigation services shall demonstrate its ability to meet its financial obligations through the provision of plans, balance sheets and accounts as practicable under its legal statute, including a business plan and an annual plan.
-
-### Liability and insurance cover
-
-A provider of air navigation services shall have in place arrangements to cover its liabilities for:
-
-The method employed to provide the cover referred to in paragraph 2 shall be appropriate to the potential loss and damage in question, taking into account the legal status of the service provider. It may comprise the use of a commercial insurance policy or underwriting by means of a State guarantee or another equally suitable mechanism.
-
-Providers of services who avail themselves of services of another provider shall ensure that, the agreements cover the allocation of liability between the providers.
-
-### Quality of services
-
-### Open and transparent provision of services
-
-A provider of air navigation services shall provide its services in an open and transparent manner without any discrimination in accordance with EU-law and the principles of ICAO.
-
-A provider of air traffic services shall establish a formal consultation process with the airspace users on a regular basis, either individually or collectively, and at least once a year.
-
-### Contingency plans
-
-A provider of air navigation services shall adopt contingency plans to detail the steps to be followed towards the continuity of services in the case of events which result in significant degradation or interruption of its services. These plans shall cover events resulting from accidents, technical failure, intentional acts, unscheduled breakdown or force majeure.
-
-The contingency plans shall consider the possible impacts on adjacent airspace of such events; be coordinated with all relevant authorities, service providers and users, as appropriate, including providers of air navigation services in adjacent airspace; and detail internal and external coordination actions towards the recovery of services.
-
-A provider of air navigation services shall take the guidelines outlined in Attachment D of Annex 11 into consideration when developing, promulgating and implementing of contingency plans.
-
-## Bijlage B. behorende bij [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=2&artikel=16&z=2010-10-10&g=2010-10-10), en [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&hoofdstuk=5&afdeling=4&artikel=115&z=2010-10-10&g=2010-10-10), van het Besluit luchtverkeer BES
-
-### ATS AIRSPACE CLASSIFICATIONS
-
-### TABLE 2

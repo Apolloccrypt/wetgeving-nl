@@ -1,41 +1,17 @@
 ---
 title: "Huishoudelijk reglement penitentiaire inrichtingen BES"
 identifier: "BWBR0028812"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028812"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11032073"
-version_id: "18025532"
-internal_id: "C25056141"
-label_id: "11006874"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028812/2023-10-01/0"
-intitule_bron: "Stcrt.2010-15704"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15704"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15704"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028812&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0028812&g=2023-10-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0028812"
+opgehaald: 2026-08-16
 ---
-# Huishoudelijk reglement penitentiaire inrichtingen BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
+# Huishoudelijk reglement penitentiaire inrichtingen BES
 
 #### § 1. Algemene bepalingen
 
@@ -173,9 +149,9 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 1. De gedetineerde die arbeid verricht, ontvangt voor ieder vol uur daadwerkelijk
 
-- –. verrichte arbeid van eenvoudige aard: netto USD 0,70;
+- – verrichte arbeid van eenvoudige aard: netto USD 0,70;
 
-- –. verrichte gespecialiseerde arbeid: netto USD 1,12.
+- – verrichte gespecialiseerde arbeid: netto USD 1,12.
 
 2. Op zater-, zon- of feestdagen ontvangt de gedetineerde voor ieder vol uur daadwerkelijk verrichte arbeid naast het netto bedrag bedoeld in het eerste lid, een netto toeslag van 50% van dat bedrag.
 
@@ -186,6 +162,83 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 2. Tevens wordt in het arbeidsregister aantekening gemaakt van het voor de gedetineerde toepasselijke netto uur bedrag bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=6&artikel=18&z=2023-10-01&g=2023-10-01).
 
 #### § 7. Ontvangst, bezit en verzenden van goederen, anders dan gelden, tijdens het verblijf in het gesticht.
+
+##### Artikel 19a
+
+Het is verboden om de volgende voorwerpen in de instelling in bezit te hebben:
+
+| Aard van de voorwerpen | Voorwerpen |
+| --- | --- |
+| drugs vermeld op de lijst 1 en 2 van de Opiumwet 2017, waaronder: | – cannabis (hasj of wiet) |
+| – cocaïne |  |
+|  | – speed (amfetamine, pep, methamfetamine) |
+|  | – amfetamine |
+|  | – GHB |
+|  | – LSD |
+|  | – Methadon |
+|  | – paddo’s en truffels |
+|  | – XTC |
+|  | – ketamine (special K) |
+|  | – qat/khat |
+|  | – crack |
+|  | – benzodiazepinen/Benzo’s (slaap/kalmeringsmiddelen) |
+|  | – ecodrugs |
+|  | – lachgas |
+|  | – poppers |
+|  | – DXM |
+|  | – PCP |
+|  | – 4-FA/4-FMP |
+|  |  |
+| wapens en munitie vermeld in de Wet wapens en munitie, waaronder: |  |
+| categorie I | – stiletto’s, valmessen en vlindermessen en andere opvouwbare messen |
+|  | – boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor wapens |
+|  | – pijlen en pijlpunten |
+|  | – katapulten |
+|  | – andere door de Minister van Justitie en Veiligheid aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn |
+| categorie II | – vuurwapens die niet onder een andere categorie vallen |
+|  | – vuurwapens geschikt om automatisch te vuren |
+|  | – stroomstootwapen |
+|  | – voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen |
+|  | – voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing |
+| categorie III | – vuurwapens in de vorm van geweren, revolvers en pistolen |
+|  | – toestellen die geschikt zijn om projectielen af te schieten (schietpen) |
+|  | – werpmessen |
+|  | – alarm- en startpistolen en -revolvers |
+| categorie IV | – wapens waarvan het lemmet meer dan één snijvlak heeft |
+|  | – degens, zwaarden sabels en bajonetten |
+|  | – wapenstokken |
+|  | – lucht-, gas- en veerdrukwapens |
+|  | – kruisbogen en harpoenen |
+|  | – traanverwekkende middelen (pepperspray, traangas etc.) |
+|  | – en andere voorwerpen waarvan, gelet op hun aard of de omstandigheden redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de categorieën vallen, zoals munitie – |
+| geld | – in de vorm van biljetten |
+|  | – in de vorm van munten – in de vorm van bitcoins |
+|  | – voorwerpen die gelet op het gebruik naar hun aard als betaalmiddel worden ingezet zoals niet op legale in bezit zijnde telefoonkaarten, bankpassen en credit cards. |
+| explosieven | Voorwerpen en grondstoffen bestemd voor het samenstellen van explosieven |
+| alcohol | elke vorm van alcoholbevattende dranken |
+| informatiedragers | elk medium dat wordt gebruikt om informatie op vast te leggen en eventueel te transporteren zoals: |
+|  | – E-reader |
+|  | – USB-stick |
+|  | – IPad |
+|  | – datarecorder |
+|  | – CD-rom |
+|  | – memory card |
+| communicatiemiddelen | een apparaat dat communicatie vergemakkelijkt of onder omstandigheden communicatie mogelijk maakt zoals: |
+|  | – mobiele telefoon (klassieke vorm) – smartphone |
+|  | – ander communicatiemiddel (b.v. als horloge) |
+|  | – dongel |
+|  | – oplader |
+|  | – GSM-onderdelen die in samenstelling communiceren mogelijk maken |
+|  | – film- videoapparatuur en fotocamera’s – drone |
+| voorwerpen waarvoor toestemming van de: | – post |
+| directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder | – lectuur |
+| – medicatie |  |
+| – huisdieren |  |
+| overige voorwerpen: | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) |
+|  | – messen en andere steekwapens die niet strafbaar zijn op grond van de Wet wapens en munitie, met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen |
+|  | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of afdeling verboden zijn |
+
+De directeur is bevoegd ontheffing te verlenen voor een gedetineerde dan wel voor een groep van gedetineerden.
 
 ##### Artikel 20
 
@@ -352,86 +405,3 @@ In buitengewone gevallen kan Onze Minister een gedetineerde vergunnen om maximaa
 ##### Artikel 35
 
 Deze regeling wordt aangehaald als: Huishoudelijk reglement penitentiaire inrichtingen BES.
-
-##### Artikel 19a
-
-Het is verboden om de volgende voorwerpen in de instelling in bezit te hebben:
-
-| Aard van de voorwerpen | Voorwerpen | Voorwerpen |
-| --- | --- | --- |
-| **drugs vermeld op de lijst 1 en 2 van de Opiumwet 2017, waaronder:** | – cannabis (hasj of wiet) | – cannabis (hasj of wiet) |
-| **drugs vermeld op de lijst 1 en 2 van de Opiumwet 2017, waaronder:** | – cocaïne | – cocaïne |
-|   | – speed (amfetamine, pep, methamfetamine) | – speed (amfetamine, pep, methamfetamine) |
-|   | – amfetamine | – amfetamine |
-|   | – GHB | – GHB |
-|   | – LSD | – LSD |
-|   | – Methadon | – Methadon |
-|   | – paddo’s en truffels | – paddo’s en truffels |
-|   | – XTC | – XTC |
-|   | – ketamine (special K) | – ketamine (special K) |
-|   | – qat/khat | – qat/khat |
-|   | – crack | – crack |
-|   | – benzodiazepinen/Benzo’s (slaap/kalmeringsmiddelen) | – benzodiazepinen/Benzo’s (slaap/kalmeringsmiddelen) |
-|   | – ecodrugs | – ecodrugs |
-|   | – lachgas | – lachgas |
-|   | – poppers | – poppers |
-|   | – DXM | – DXM |
-|   | – PCP | – PCP |
-|   | – 4-FA/4-FMP | – 4-FA/4-FMP |
-|   |   |   |
-| **wapens en munitie vermeld in de Wet wapens en munitie, waaronder:** |   |   |
-| **categorie I** | – stiletto’s, valmessen en vlindermessen en andere opvouwbare messen | – stiletto’s, valmessen en vlindermessen en andere opvouwbare messen |
-|   | – boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor wapens | – boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor wapens |
-|   | – pijlen en pijlpunten | – pijlen en pijlpunten |
-|   | – katapulten | – katapulten |
-|   | – andere door de Minister van Justitie en Veiligheid aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn | – andere door de Minister van Justitie en Veiligheid aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn |
-| **categorie II** | – vuurwapens die niet onder een andere categorie vallen | – vuurwapens die niet onder een andere categorie vallen |
-|   | – vuurwapens geschikt om automatisch te vuren | – vuurwapens geschikt om automatisch te vuren |
-|   | – stroomstootwapen | – stroomstootwapen |
-|   | – voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen | – voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen |
-|   | – voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing | – voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing |
-| **categorie III** | – vuurwapens in de vorm van geweren, revolvers en pistolen | – vuurwapens in de vorm van geweren, revolvers en pistolen |
-|   | – toestellen die geschikt zijn om projectielen af te schieten (schietpen) | – toestellen die geschikt zijn om projectielen af te schieten (schietpen) |
-|   | – werpmessen | – werpmessen |
-|   | – alarm- en startpistolen en -revolvers | – alarm- en startpistolen en -revolvers |
-| **categorie IV** | – wapens waarvan het lemmet meer dan één snijvlak heeft | – wapens waarvan het lemmet meer dan één snijvlak heeft |
-|   | – degens, zwaarden sabels en bajonetten | – degens, zwaarden sabels en bajonetten |
-|   | – wapenstokken | – wapenstokken |
-|   | – lucht-, gas- en veerdrukwapens | – lucht-, gas- en veerdrukwapens |
-|   | – kruisbogen en harpoenen | – kruisbogen en harpoenen |
-|   | – traanverwekkende middelen (pepperspray, traangas etc.) | – traanverwekkende middelen (pepperspray, traangas etc.) |
-|   | – en andere voorwerpen waarvan, gelet op hun aard of de omstandigheden redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de categorieën vallen, zoals munitie – | – en andere voorwerpen waarvan, gelet op hun aard of de omstandigheden redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de categorieën vallen, zoals munitie – |
-| **geld** | – in de vorm van biljetten | – in de vorm van biljetten |
-|   | – in de vorm van munten – in de vorm van bitcoins | – in de vorm van munten – in de vorm van bitcoins |
-|   | – voorwerpen die gelet op het gebruik naar hun aard als betaalmiddel worden ingezet zoals niet op legale in bezit zijnde telefoonkaarten, bankpassen en credit cards. | – voorwerpen die gelet op het gebruik naar hun aard als betaalmiddel worden ingezet zoals niet op legale in bezit zijnde telefoonkaarten, bankpassen en credit cards. |
-| **explosieven** | Voorwerpen en grondstoffen bestemd voor het samenstellen van explosieven | Voorwerpen en grondstoffen bestemd voor het samenstellen van explosieven |
-| **alcohol** | elke vorm van alcoholbevattende dranken | elke vorm van alcoholbevattende dranken |
-| **informatiedragers** | elk medium dat wordt gebruikt om informatie op vast te leggen en eventueel te transporteren zoals: | elk medium dat wordt gebruikt om informatie op vast te leggen en eventueel te transporteren zoals: |
-|   | – E-reader | – E-reader |
-|   | – USB-stick | – USB-stick |
-|   | – IPad | – IPad |
-|   | – datarecorder | – datarecorder |
-|   | – CD-rom | – CD-rom |
-|   | – memory card | – memory card |
-| **communicatiemiddelen** | een apparaat dat communicatie vergemakkelijkt of onder omstandigheden communicatie mogelijk maakt zoals: | een apparaat dat communicatie vergemakkelijkt of onder omstandigheden communicatie mogelijk maakt zoals: |
-|   | – mobiele telefoon (klassieke vorm) – smartphone | – mobiele telefoon (klassieke vorm) – smartphone |
-|   | – ander communicatiemiddel (b.v. als horloge) | – ander communicatiemiddel (b.v. als horloge) |
-|   | – dongel | – dongel |
-|   | – oplader | – oplader |
-|   | – GSM-onderdelen die in samenstelling communiceren mogelijk maken | – GSM-onderdelen die in samenstelling communiceren mogelijk maken |
-|   | – film- videoapparatuur en fotocamera’s – drone | – film- videoapparatuur en fotocamera’s – drone |
-| **voorwerpen waarvoor toestemming van de:** | – post | – post |
-| **directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder** | – lectuur | – lectuur |
-| **directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder** | – medicatie | – medicatie |
-| **directeur noodzakelijk is om deze binnen te brengen in de inrichting, waaronder** | – huisdieren | – huisdieren |
-| **overige voorwerpen:** | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) | – zaklantaarns, kaarsen, olielampen, verrekijkers en telescopen – design drugs (nieuwe drugs en spice) |
-|   | – messen en andere steekwapens die niet strafbaar zijn op grond van de Wet wapens en munitie, met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen | – messen en andere steekwapens die niet strafbaar zijn op grond van de Wet wapens en munitie, met uitzondering van de messen die door de inrichting zijn verstrekt – voorwerpen die de schijn hebben als een vuur- of steekwapen te kunnen worden gebruikt (nepmes of nepvuurwapen) – voorwerpen van discriminerende, aanstootgevende of militante aard, zoals vibrators en sekspoppen |
-|   | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of afdeling verboden zijn | – voorwerpen waarvan de directeur in hetzij de huisregels hetzij in een afzonderlijk besluit aan een gedetineerde heeft bepaald dat deze in zijn inrichting of afdeling verboden zijn |
-
-De directeur is bevoegd ontheffing te verlenen voor een gedetineerde dan wel voor een groep van gedetineerden.
-
-#### § 8. Bezoek en contacten in en buiten het gesticht
-
-#### § 9. Tijdelijk verlaten van het gesticht.
-
-#### § 11. Slot- en overgangsbepalingen

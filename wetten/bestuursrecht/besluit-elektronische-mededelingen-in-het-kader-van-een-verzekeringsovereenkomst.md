@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 25 januari 2011, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst (Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst)"
+citeertitel: "Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst"
 identifier: "BWBR0029531"
-country: "nl"
-rank: "amvb"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029531"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11223453"
-version_id: "18376322"
-internal_id: "C25649641"
-label_id: "11197774"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029531/2011-07-01/0"
-intitule_bron: "Stb.2011-20"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-01-25"
-intitule_published: "2011-02-03"
-intitule_in_force: "2011-02-17"
-intitule_status: "goed"
-original_publication: "Stb.2011-20"
-original_signed_date: "2011-01-25"
-original_published_date: "2011-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-20"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0029531&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0029531&g=2011-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst"
-signed_date: "2011-01-25"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0029531"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 25 januari 2011, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst (Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 4 november 2010, nr. 5671226/10/6;
-
-Gelet op [artikel 933 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=933) en [940 lid 6 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=940);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 16 december 2010, nr. W03.10.0518/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 19 januari 2011, nr. 5682871/11/6;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -85,5 +53,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

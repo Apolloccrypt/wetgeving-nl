@@ -1,53 +1,17 @@
 ---
 title: "Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen"
 identifier: "BWBR0028982"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-02"
-last_updated: "2010-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028982"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11081213"
-version_id: "18111812"
-internal_id: "C25183321"
-label_id: "11055654"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028982/2010-10-02/0"
-intitule_bron: "Stcrt.2010-14724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14724"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14724"
-entry_into_force_date: "2010-10-02"
-jci_1_3: "jci1.3:c:BWBR0028982&z=2010-10-02&g=2010-10-02"
-jci_1_0: "1.0:c:BWBR0028982&g=2010-10-02"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-02"
+publicatiedatum: 2010-10-02
+laatste_update: 2010-10-02
+status: geldig
+toestand: 2010-10-02
+bron: "https://wetten.overheid.nl/BWBR0028982"
+opgehaald: 2026-08-16
 ---
+
 # Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen
-
-Hierna gezamenlijk te noemen: ‘Partijen’;
-
-Partijen nemen in overweging:
-
-dat binnen het staatkundig proces waarin het Koninkrijk der Nederlanden zich bevindt, de eilandgebieden Curaçao en Sint Maarten gekozen hebben voor de status van land binnen het Koninkrijk en dat Bonaire, Sint Eustatius en Saba (hierna ‘de BES-eilanden’) als openbare lichamen onderdeel zullen worden van Nederland;
-
-dat als gevolg van voornoemde staatkundige ontwikkelingen de boedel van de Sociale Verzekeringsbank Nederlandse Antillen over Curaçao, Sint Maarten en Nederland (voor de BES-eilanden) moet worden verdeeld, hetgeen onderlinge afspraken vergt;
-
-dat het wenselijk is een en ander zodanig te regelen dat de continuïteit van de dienstverlening en rechten van de verzekerden niet worden aangetast;
-
-dat het wenselijk is de afspraken neer te leggen in een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
@@ -55,29 +19,29 @@ Komen het volgende overeen:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **BES:** Bonaire, Sint Eustatius en Saba;
+- a. *BES:* Bonaire, Sint Eustatius en Saba;
 
-- b. **land:** Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
+- b. *land:* Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
 
-- c. **overnemende land:** het land dat ingevolge de bepalingen van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dat besluit;
+- c. *overnemende land:* het land dat ingevolge de bepalingen van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dat besluit;
 
-- d. **uitkeringsgerechtigde:** degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering, verstrekking of tegemoetkoming ontvangt op grond van:
+- d. *uitkeringsgerechtigde:* degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering, verstrekking of tegemoetkoming ontvangt op grond van:
 
-- 1°. de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83),
+   - 1°. de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83),
 
-- 2°. de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194),
+   - 2°. de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194),
 
-- 3°. de Landsverordening Ziekteverzekering (P.B. 1966, no. 15),
+   - 3°. de Landsverordening Ziekteverzekering (P.B. 1966, no. 15),
 
-- 4°. de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14),
+   - 4°. de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14),
 
-- 5°. de Cessantiaregeling (P.B. 1983, no. 85), dan wel
+   - 5°. de Cessantiaregeling (P.B. 1983, no. 85), dan wel
 
-- 6°. de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249), zoals deze regelingen op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van deze onderlinge regeling luiden;
+   - 6°. de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249), zoals deze regelingen op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van deze onderlinge regeling luiden;
 
-- e. **tijdstip van transitie:** het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- e. *tijdstip van transitie:* het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- f. **vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen:** het blijkens de gecontroleerde jaarrekening onmiddellijk voorafgaand aan het tijdstip van transitie totale vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, waaronder mede begrepen het vermogen van het Ouderdomsfonds ex artikel 24 van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83), het Weduwen- en wezenfonds ex artikel 27 van de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194), het Schommelfonds Ouderdoms- en Weduwen- en wezenverzekering ex artikel 14 lid 4 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154), het Ziektefonds ex artikel 8 van de Landsverordening Ziekteverzekering (P.B. 1966, no. 15), het Ongevallenfonds ex artikel 8 van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) en het Schommelfonds ziekte- en ongevallenverzekering ex artikel 14 lid 3 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154).
+- f. *vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen:* het blijkens de gecontroleerde jaarrekening onmiddellijk voorafgaand aan het tijdstip van transitie totale vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, waaronder mede begrepen het vermogen van het Ouderdomsfonds ex artikel 24 van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83), het Weduwen- en wezenfonds ex artikel 27 van de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194), het Schommelfonds Ouderdoms- en Weduwen- en wezenverzekering ex artikel 14 lid 4 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154), het Ziektefonds ex artikel 8 van de Landsverordening Ziekteverzekering (P.B. 1966, no. 15), het Ongevallenfonds ex artikel 8 van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) en het Schommelfonds ziekte- en ongevallenverzekering ex artikel 14 lid 3 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154).
 
 2. Indien een land de bevoegdheid ter zake van de uitvoering van een in het eerste lid, onderdeel d, genoemde regeling dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe aangewezen uitvoeringsorganisatie met rechtspersoonlijkheid van dat land, treedt die uitvoeringsorganisatie voor de toepassing van deze regeling, met uitzondering van [artikel 5, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028982&paragraaf=3&artikel=5&z=2010-10-02&g=2010-10-02), in de plaats van dat land.
 

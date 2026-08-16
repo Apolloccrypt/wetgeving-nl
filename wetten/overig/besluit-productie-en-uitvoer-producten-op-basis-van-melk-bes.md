@@ -1,38 +1,16 @@
 ---
 title: "Besluit productie en uitvoer producten op basis van melk BES"
 identifier: "BWBR0028702"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028702"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10936813"
-version_id: "17922422"
-internal_id: "C24898811"
-label_id: "10911484"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028702/2010-10-10/0"
-intitule_bron: "Stb.2010-671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-04"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-671"
-original_signed_date: "2010-10-04"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-671"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028702&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028702&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-10-04"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028702"
+opgehaald: 2026-08-16
 ---
+
 # Besluit productie en uitvoer producten op basis van melk BES
 
 #### § 1. Algemene voorschriften
@@ -41,27 +19,27 @@ entry_into_force: "2010-10-10"
 
 In dit besluit wordt verstaan onder:
 
-- a. **rauwe melk:** melk die is afgescheiden door de melkklier van een of meer koeien, ooien, geiten of buffelkoeien, en die niet is verwarmd tot boven 40 °C en die evenmin een behandeling met een gelijkwaardig effect heeft ondergaan;
+- a. *rauwe melk:* melk die is afgescheiden door de melkklier van een of meer koeien, ooien, geiten of buffelkoeien, en die niet is verwarmd tot boven 40 °C en die evenmin een behandeling met een gelijkwaardig effect heeft ondergaan;
 
-- b. **warmtebehandelde melk:** melk die is verkregen door rauwe melk een warmtebehandeling te laten ondergaan van boven 40 °C of met een gelijkwaardig effect;
+- b. *warmtebehandelde melk:* melk die is verkregen door rauwe melk een warmtebehandeling te laten ondergaan van boven 40 °C of met een gelijkwaardig effect;
 
-- c. **producten op basis van melk:** zuivelproducten, dat wil zeggen producten die uitsluitend zijn verkregen uit melk, met dien verstande dat stoffen die voor de bereiding ervan noodzakelijk zijn, mogen worden toegevoegd, mits deze stoffen niet worden gebruikt voor de volledige of gedeeltelijke vervanging van één van de bestanddelen van de melk, en producten die zijn samengesteld uit melk, dat wil zeggen producten waarvan geen enkel element in de plaats komt van een melkbestanddeel of bedoeld is om daarvoor in de plaats te komen en waarvan de melk of een zuivelproduct een essentieel bestanddeel is, hetzij door de hoeveelheid, hetzij omdat het effect kenmerkend is voor deze producten;
+- c. *producten op basis van melk:* zuivelproducten, dat wil zeggen producten die uitsluitend zijn verkregen uit melk, met dien verstande dat stoffen die voor de bereiding ervan noodzakelijk zijn, mogen worden toegevoegd, mits deze stoffen niet worden gebruikt voor de volledige of gedeeltelijke vervanging van één van de bestanddelen van de melk, en producten die zijn samengesteld uit melk, dat wil zeggen producten waarvan geen enkel element in de plaats komt van een melkbestanddeel of bedoeld is om daarvoor in de plaats te komen en waarvan de melk of een zuivelproduct een essentieel bestanddeel is, hetzij door de hoeveelheid, hetzij omdat het effect kenmerkend is voor deze producten;
 
-- d. **warmtebehandeling:** elke behandeling door verhitting die, onmiddellijk na de toepassing ervan, een negatieve reactie bij de fosfatasetest tot gevolg heeft;
+- d. *warmtebehandeling:* elke behandeling door verhitting die, onmiddellijk na de toepassing ervan, een negatieve reactie bij de fosfatasetest tot gevolg heeft;
 
-- e. **pasteurisatie:** verhitting van, in [bijlage B, hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=B&z=2010-10-10&g=2010-10-10), bedoelde melk verkregen uit melkpoeder, gedurende ten minste 15 seconden op een temperatuur van minimaal 71,7 °C, zodat de melk na deze behandeling negatief reageert op de fosfatasetest en positief reageert op de peroxydasetest;
+- e. *pasteurisatie:* verhitting van, in [bijlage B, hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=B&z=2010-10-10&g=2010-10-10), bedoelde melk verkregen uit melkpoeder, gedurende ten minste 15 seconden op een temperatuur van minimaal 71,7 °C, zodat de melk na deze behandeling negatief reageert op de fosfatasetest en positief reageert op de peroxydasetest;
 
-- f. **melkverwerkingsinrichting:** een inrichting waar producten op basis van melk worden behandeld, verwerkt en verpakt;
+- f. *melkverwerkingsinrichting:* een inrichting waar producten op basis van melk worden behandeld, verwerkt en verpakt;
 
-- g. **bevoegde autoriteit:** de Inspectie voor de Volksgezondheid BES, zijnde de autoriteit van de openbare lichamen Bonaire, Sint Eustatius en Sabe die belast is met het toezicht op de uitvoering van de gezondheids- en de veterinaire controles;
+- g. *bevoegde autoriteit:* de Inspectie voor de Volksgezondheid BES, zijnde de autoriteit van de openbare lichamen Bonaire, Sint Eustatius en Sabe die belast is met het toezicht op de uitvoering van de gezondheids- en de veterinaire controles;
 
-- h. **onmiddellijke verpakking:** het beschermen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde producten door middel van een eerste omhulsel of een eerste bergingsmiddel dat rechtstreeks in contact komt met het betrokken product, alsmede het eerste omhulsel of het eerste bergingsmiddel zelf;
+- h. *onmiddellijke verpakking:* het beschermen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde producten door middel van een eerste omhulsel of een eerste bergingsmiddel dat rechtstreeks in contact komt met het betrokken product, alsmede het eerste omhulsel of het eerste bergingsmiddel zelf;
 
-- i. **eindverpakking:** het plaatsen van een of meer in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde producten die al dan niet van een onmiddellijke verpakking zijn voorzien, in een bergingsmiddel, alsmede het bergingsmiddel zelf;
+- i. *eindverpakking:* het plaatsen van een of meer in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde producten die al dan niet van een onmiddellijke verpakking zijn voorzien, in een bergingsmiddel, alsmede het bergingsmiddel zelf;
 
-- j. **derde landen:** die landen welke niet toebehoren tot het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- j. *derde landen:* die landen welke niet toebehoren tot het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- l. **Europese Commissie:** de commissie, bedoeld in artikel 7, eerste lid, en de artikelen 211 tot en met 219 van het Verdrag tot oprichting van de Europese Gemeenschap (PbEG 1997 C 340).
+- l. *Europese Commissie:* de commissie, bedoeld in artikel 7, eerste lid, en de artikelen 211 tot en met 219 van het Verdrag tot oprichting van de Europese Gemeenschap (PbEG 1997 C 340).
 
 ##### Artikel 1a
 
@@ -89,7 +67,7 @@ Dit besluit berust op [artikel 3, eerste lid, onderdeel j, van de Warenwet BES](
 
 1. Het gebruik van inheemse, in de openbare lichamen Bonaire, Sint Eustatius en Saba geproduceerde, rauwe melk, warmtebehandelde melk en producten op basis van melk, hetzij vloeibaar of bevroren, alsmede het gebruik van uit derde landen ingevoerde rauwe melk en warmtebehandelde melk, hetzij vloeibare of bevroren melk, is niet toegestaan voor de productie van producten op basis van melk bestemd voor de export naar het douanegebied van de Europese Gemeenschap.
 
-2. Voor de productie van producten op basis van melk mogen uitsluitend worden gebruikt producten op basis van melk, die afkomstig zijn uit de landen behorende tot de Europese Gemeenschap dan wel uit landen die geplaatst zijn op de lijst, bedoeld in artikel 23, tweede lid, onderdeel a, van [richtlijn 92/46/EEG](31992L0046) van de Europese Raad van 16 juni 1992, mits deze producten op basis van melk afkomstig zijn vanuit in die landen door de Europese Gemeenschap geïnspecteerde inrichtingen en vergezeld gaan van een gezondheidscertificaat welke tenminste gelijkwaardige garanties biedt als de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=D&z=2010-10-10&g=2010-10-10) opgenomen gezondheidscertificaten.
+2. Voor de productie van producten op basis van melk mogen uitsluitend worden gebruikt producten op basis van melk, die afkomstig zijn uit de landen behorende tot de Europese Gemeenschap dan wel uit landen die geplaatst zijn op de lijst, bedoeld in artikel 23, tweede lid, onderdeel a, van richtlijn 92/46/EEG van de Europese Raad van 16 juni 1992, mits deze producten op basis van melk afkomstig zijn vanuit in die landen door de Europese Gemeenschap geïnspecteerde inrichtingen en vergezeld gaan van een gezondheidscertificaat welke tenminste gelijkwaardige garanties biedt als de in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=D&z=2010-10-10&g=2010-10-10) opgenomen gezondheidscertificaten.
 
 3. Producten op basis van melk:
 
@@ -222,221 +200,3 @@ Dit besluit treedt in werking met ingang van de dag na die van de uitgifte van h
 ##### Artikel 14
 
 Dit besluit kan worden aangehaald als: Besluit productie en uitvoer producten op basis van melk BES.
-
-## Bijlage A
-
-### HOOFDSTUK I. Algemene voorwaarden voor de erkenning van melkverwerkingsinrichtingen
-
-### HOOFDSTUK II. Algemene hygiënevoorschriften in de melkverwerkingsinrichtingen
-
-### HOOFDSTUK III. Bijzondere voorwaarden voor de erkenning van melkverwerkingsinrichtingen
-
-Onverminderd de in hoofdstuk I bedoelde algemene voorwaarden moeten melkverwerkings-inrichtingen ten minste beschikken over:
-
-### HOOFDSTUK IV. Hygiënevoorschriften voor lokalen, materieel en personeel in de melkverwerkingsinrichtingen
-
-Onverminderd de in hoofdstuk II bedoelde algemene voorschriften moeten deze inrichtingen voldoen aan de volgende voorwaarden:
-
-## Bijlage B
-
-### HOOFDSTUK I. Eisen voor melk die bestemd is voor de bereiding van producten op basis van melk
-
-### HOOFDSTUK II. Microbiologische criteria voor producten op basis van melk en voor consumptiemelk
-
-### HOOFDSTUK III. Onmiddellijke verpakking en eindverpakking
-
-### HOOFDSTUK IV. Voorschriften inzake opslag en vervoer
-
-### HOOFDSTUK V. Inspectie van en toezicht op de productie
-
-## Bijlage C
-
-### HOOFDSTUK I. Laboratorium van de Nederlandse Antillen
-
-Het Analytisch Diagnostisch Centrum,
-
-Heelsumstraat 55, Vredenberg
-
-Curaçao, N.A.
-
-### HOOFDSTUK II. Bevoegdheden en taken van het Analytisch Diagnostisch Centrum
-
-## Bijlage D. Gezondheidscertificaat als bedoeld in de BIJLAGE B van het Publicatieblad van de Europese Gemeenschappen van 24 augustus 1995 Nr. L 200:
-
-### GEZONDHEIDSCERTIFICAAT
-
-Voor producten op basis van melk die zijn vervaardigd met melkpoeder of warmtebehandelde melk, of producten op basis van melk die een warmtebehandeling hebben ondergaan, bestemd voor menselijke consumptie en van herkomst uit derde landen of delen van derde landen die zijn vermeld in kolom B van de bijlage bij Beschikking 95/340/EG van de Commissie.
-
-Referentienummer: ...........................................................................
-
-Land, en eventueel gebied, van verzending *: ...........................
-
-Bevoegd(e) ministerie(s): ...........................................................................
-
-Voor de certificering bevoegde dienst(en): ....................................
-
-I. Identificatie van het product
-
-Melk van: ...............................................................
-
-(diersoort)
-
-Omschrijving van het product op basis van melk dat is vervaardigd met melkpoeder/ warmtebehandelde melk/het product op basis van melk dat een warmtebehandeling heeft ondergaan *:
-
-...........................................................................
-
-Codenummer (in voorkomend geval): ....................................................
-
-Aard van de eindverpakking: ......................................................................
-
-Aantal eindverpakkingseenheden: ......................................................
-
-Nettogewicht: .........................................................................................
-
-II. Herkomst van het product
-
-Naam en officieel erkenningsnummer van de voor uitvoer naar de EG erkende melkbehandelings- en/of melkverwerkingsinrichting(en):
-
-...........................................................................
-
-...........................................................................
-
-...........................................................................
-
-...........................................................................
-
-III. Bestemming van het product
-
-Het product op basis van melk dat is vervaardigd met melkpoeder/warmtebehandelde melk/het product op basis van melk dat een warmtebehandeling heeft ondergaan * wordt verzonden van:
-
-...........................................................................
-
-(plaats van verzending)
-
-naar: ..........................................................................................
-
-(land en plaats van bestemming)
-
-met het volgende vervoermiddel *: ......................................................
-
-Nummer van de verzegeling: ....................................................................
-
-Naam en adres van de afzender: ............................................................
-
-...........................................................................
-
-Naam van de geadresseerde en adres van de plaats van bestemming:
-
-...........................................................................
-
-IV. Gezondheidsverklaring (diergezondheid):
-
-*, is bereid uit melkpoeder of vloeibare melk die vergezeld gaat van een door de officieel dierenarts geverifieerde gezondheidsverklaring en afkomstig is van door de officiële veterinaire dienst aldaar gecontroleerde dieren: Ondergetekende, officieel dierenarts, verklaart dat het hierboven omschreven product op basis van melk dat is vervaardigd met melkpoeder/warmtebehandelde melk/het hierboven omschreven product op basis van melk dat een warmtebehandeling heeft ondergaan •
-
-die zich bevinden in een land of een gebied dat sedert ten minste twaalf maanden vrij is van mond- en klauwzeer en van runderpest en waar sedert ten minste twaalf maanden niet tegen mond- en klauwzeer is ingeënt,•
-
-die verblijven op bedrijven waarvoor geen beperkingen gelden in verband met mond- en klauwzeer of runderpest,•
-
-die voldoen aan de in hoofdstuk I van bijlage A bij Richtlijn 92/46/EEG vastgestelde voorwaarden inzake diergezondheid, met uitzondering van het bepaalde in punt 1, onder a) i) en b) i).•
-
-Ondergetekende, officieel dierenarts, verklaart kennis te hebben van de bij Richtlijn 92/46/EEG vastgestelde bepalingen inzake de diergezondheid.•
-
-V. Gezondheidsverklaring (volksgezondheid):
-
-*: Ondergetekende, officieel controleur, verklaart dat het hierboven omschreven product op basis van melk dat is vervaardigd met melkpoeder/warmtebehandelde melk/het hierboven omschreven product op basis van melk dat een warmtebehandeling heeft ondergaan
-
-Ondergetekende, officieel controleur, verklaart kennis te hebben van het bepaalde in Richtlijn 92/46/EEG, in de bijlagen I en III van Verordening (EEG) nr. 2377/90, in bijlage II van Richtlijn 86/363/EEG en in Verordening (EEG) nr. 315/93.•
-
-## Bijlage E. Gezondheidscertificaat als bedoeld in de BIJLAGE C van het Publicatieblad van de Europese Gemeenschappen van 24 augustus 1995 Nr. L 200:G
-
-### GEZONDHEIDSCERTIFICAAT
-
-Voor producten op basis van melk die zijn vervaardigd met melkpoeder of warmtebehandelde melk, of producten op basis van melk die een warmtebehandeling hebben ondergaan, bestemd voor menselijke consumptie en van herkomst uit derde landen of delen van derde landen die zijn vermeld in kolom C van de bijlage bij Beschikking 95/340/EG van de Commissie.
-
-Referentienummer: .....................................................................
-
-Land, en eventueel gebied, van verzending : ....................................
-
-Bevoegd(e) ministerie(s): ......................................................................
-
-Voor de certificering bevoegde dienst(en): ...............................................
-
-I. Identificatie van het product
-
-Melk van: ..........................................................................
-
-(diersoort)
-
-Omschrijving van het product op basis van melk dat is vervaardigd met melkpoeder/warmtebehandelde melk/het product op basis van melk dat een warmtebehandeling heeft ondergaan :
-
-...........................................................................
-
-Codenummer (in voorkomend geval): ....................................................
-
-Aard van de eindverpakking: ....................................................................
-
-Aantal eindverpakkingseenheden: .............................................................
-
-Nettogewicht: ............................................................................
-
-II. Herkomst van het product
-
-Naam en officieel erkenningsnummer van de voor uitvoer naar de EG erkende melkbehandelings- en/of melkverwerkingsinrichting(en):
-
-...........................................................................
-
-...........................................................................
-
-...........................................................................
-
-...........................................................................
-
-III. Bestemming van het product
-
-Het product op basis van melk dat is vervaardigd met melkpoeder/warmtebehandelde melk/het product op basis van melk dat een warmtebehandeling heeft ondergaan wordt verzonden van:
-
-...........................................................................
-
-(plaats van verzending)
-
-naar: .......................................................................................
-
-(land en plaats van bestemming)
-
-met het volgende vervoermiddel: .....................................................
-
-Nummer van de verzegeling: ..............................................................
-
-Naam en adres van de afzender: ...........................................................
-
-...........................................................................
-
-Naam van de geadresseerde en adres van de plaats van bestemming:
-
-...........................................................................
-
-IV. Gezondheidsverklaring (diergezondheid):
-
-V. Gezondheidsverklaring (volksgezondheid):
-
-Ondergetekende, officieel controleur, verklaart kennis te hebben van het bepaalde in Richtlijn 92/46/EEG, in de bijlagen I en III van Verordening (EEG) nr. 2377/90, in bijlage II van Richtlijn 86/363/EEG en in Verordening (EEG) nr. 315/93•
-
-**Noot**
-
-(1) n = aantal eenheden waaruit het monster bestaat; m = drempelwaarde voor het aantal bacteriën; het resultaat wordt bevredigend geacht als het aantal bacteriën in alle eenheden gelijk is aan of kleiner is dan m; M = maximumwaarde voor het aantal bacteriën; het resultaat wordt onbevredigend geacht als het aantal bacteriën in een of meer eenheden gelijk is aan of groter is dan M; c = aantal eenheden waarin het aantal bacteriën mag liggen tussen m en M, en waarbij het monster nog aanvaardbaar wordt geacht als het aantal bacteriën in de andere eenheden gelijk is aan of kleiner is dan m.
-
-(1) In te vullen indien de machtiging tot uitvoer naar de Gemeenschap slechts geldt voor bepaalde gebieden in het betrokken derde land.
-
-(2) Doorhalen wat niet van toepassing is.
-
-(3) Doorhalen wat niet van toepassing is.
-
-(4) Het kenteken, het vluchtnummer of de naam van het voor het goederenvervoer gebruikte vervoermiddel vermelden. In geval van bulkvervoer per container het containernummer toevoegen.
-
-(5) Doorhalen wat niet van toepassing is.
-
-(6) De kleur van de handtekening en stempel moet verschillen van die van de gedrukte tekst van het certificaat.
-
-(7) Doorhalen wat niet van toepassing is.
-
-(8) De kleur van de handtekening en stempel moet verschillen van die van de gedrukte tekst van het certificaat.

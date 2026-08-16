@@ -1,57 +1,33 @@
 ---
 title: "Regeling in-, uit- en doorvoer van verdovende middelen BES"
 identifier: "BWBR0028698"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028698"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10936223"
-version_id: "17921792"
-internal_id: "C24845071"
-label_id: "10910854"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028698/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14822"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14822"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14822"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028698&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028698&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028698"
+opgehaald: 2026-08-16
 ---
-# Regeling in-, uit- en doorvoer van verdovende middelen BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
+# Regeling in-, uit- en doorvoer van verdovende middelen BES
 
 ##### Artikel 1
 
 Deze regeling verstaat onder:
 
-- a. **Onze Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **de wet:** de [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
+- b. *de wet:* de [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
 
-- c. **het verdrag:** het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129);
+- c. *het verdrag:* het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129);
 
-- d. **verdovende middelen:** alle stoffen, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3) en [4 van de Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4);
+- d. *verdovende middelen:* alle stoffen, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3) en [4 van de Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4);
 
-- e. **invoer:** elke invoer, voor zover geen doorvoer op de voet van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10);
+- e. *invoer:* elke invoer, voor zover geen doorvoer op de voet van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10);
 
-- f. **uitvoer:** elke uitvoer, al dan niet uit het vrije verkeer, voor zover geen doorvoer op de voet van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10).
+- f. *uitvoer:* elke uitvoer, al dan niet uit het vrije verkeer, voor zover geen doorvoer op de voet van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 2
 
@@ -145,13 +121,13 @@ De Inspecteur voor Geneesmiddelen is gemachtigd namens Onze Minister certificate
 
 - d. een verklaring inhoudende:
 
-- –. ten aanzien van ruw opium of cocabladeren, dat zij benodigd zijn voor wettige doeleinden;
+   - – ten aanzien van ruw opium of cocabladeren, dat zij benodigd zijn voor wettige doeleinden;
 
-- –. ten aanzien van bereid opium of bereidingen van bereid opium, dat zij benodigd zijn voor wetenschappelijke of ten politionele doeleinden;
+   - – ten aanzien van bereid opium of bereidingen van bereid opium, dat zij benodigd zijn voor wetenschappelijke of ten politionele doeleinden;
 
-- –. ten aanzien van alle andere verdovende middelen, dat zij uitsluitend benodigd zijn voor geneeskundige of wetenschappelijke doeleinden;
+   - – ten aanzien van alle andere verdovende middelen, dat zij uitsluitend benodigd zijn voor geneeskundige of wetenschappelijke doeleinden;
 
-- –. of de in te voeren verdovende middelen bestemd zijn voor het vrije verkeer of voor opslag in entrepot.
+   - – of de in te voeren verdovende middelen bestemd zijn voor het vrije verkeer of voor opslag in entrepot.
 
 De aanvraag voor een invoercertificaat moet vergezeld zijn van een staat, waaruit de toeneming (inslag, vervaardiging) en de afneming (aflevering, verbruik) van de voorraad blijkt.
 

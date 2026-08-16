@@ -1,47 +1,21 @@
 ---
 title: "Besluit mandaat en machtiging scheepvaartinspecteurs Rijksdienst Caribisch Nederland"
 identifier: "BWBR0029483"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-01-27"
-last_updated: "2011-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029483"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "11215203"
-version_id: "18362672"
-internal_id: "C25577421"
-label_id: "11189604"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029483/2011-01-27/0"
-intitule_bron: "Stcrt.2011-1162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-01-18"
-intitule_published: "2011-01-26"
-intitule_in_force: "2011-01-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-1162"
-original_signed_date: "2011-01-18"
-original_published_date: "2011-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-1162"
-entry_into_force_date: "2011-01-27"
-jci_1_3: "jci1.3:c:BWBR0029483&z=2011-01-27&g=2011-01-27"
-jci_1_0: "1.0:c:BWBR0029483&g=2011-01-27"
-citeertitel_status: "officieel"
-signed_date: "2011-01-18"
-entry_into_force: "2011-01-27"
+publicatiedatum: 2011-01-27
+laatste_update: 2011-01-27
+status: geldig
+toestand: 2011-01-27
+bron: "https://wetten.overheid.nl/BWBR0029483"
+opgehaald: 2026-08-16
 ---
+
 # Besluit mandaat en machtiging scheepvaartinspecteurs Rijksdienst Caribisch Nederland
-
-Gelet op [artikel 10:4, eerste en vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en het besluit van de Ministerraad van 3 juli 2009;
-
-Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder **‘Rijksdienst Caribisch Nederland’** het organisatieonderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, bedoeld in het [Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832).
+In dit besluit wordt verstaan onder *‘Rijksdienst Caribisch Nederland’* het organisatieonderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, bedoeld in het [Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832).
 
 ##### Artikel 2
 
@@ -70,5 +44,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging scheepvaartinspecteurs Rijksdienst Caribisch Nederland.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

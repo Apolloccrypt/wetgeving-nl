@@ -1,38 +1,16 @@
 ---
 title: "Regeling huisvestingstoelage en overtocht kinderen ambtenaren BES"
 identifier: "BWBR0028790"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028790"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11025753"
-version_id: "18014982"
-internal_id: "C25038781"
-label_id: "11000194"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028790/2011-10-09/0"
-intitule_bron: "Stcrt.2010-15085"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-08"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15085"
-original_signed_date: "2010-10-08"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15085"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028790&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028790&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-10-08"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028790"
+opgehaald: 2026-08-16
 ---
+
 # Regeling huisvestingstoelage en overtocht kinderen ambtenaren BES
 
 ##### Artikel 1
@@ -88,5 +66,3 @@ Deze regeling berust op [artikel 77, onder a, van het Rechtspositiebesluit ambte
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling huisvestingstoelage en overtocht kinderen ambtenaren BES.
-
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.

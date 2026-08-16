@@ -1,46 +1,18 @@
 ---
 title: "Besluit houdende opheffing van de ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat en instelling van een ministerie van Infrastructuur en Milieu"
+citeertitel: "Besluit opheffing ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat en instelling ministerie van Infrastructuur en Milieu"
 identifier: "BWBR0028857"
-country: "nl"
-rank: "kb"
-publication_date: "2010-10-20"
-last_updated: "2010-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028857"
+categorie: "Milieu"
 soort: "KB"
-stam_id: "11051513"
-version_id: "18048742"
-internal_id: "C25091311"
-label_id: "11025964"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028857/2010-10-20/0"
-intitule_bron: "Stcrt.2010-16525"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-14"
-intitule_published: "2010-10-18"
-intitule_in_force: "2010-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16525"
-original_signed_date: "2010-10-14"
-original_published_date: "2010-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16525"
-entry_into_force_date: "2010-10-20"
-jci_1_3: "jci1.3:c:BWBR0028857&z=2010-10-20&g=2010-10-20"
-jci_1_0: "1.0:c:BWBR0028857&g=2010-10-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit opheffing ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat en instelling ministerie van Infrastructuur en Milieu"
-signed_date: "2010-10-14"
-entry_into_force: "2010-10-20"
+publicatiedatum: 2010-10-20
+laatste_update: 2010-10-20
+status: geldig
+toestand: 2010-10-20
+bron: "https://wetten.overheid.nl/BWBR0028857"
+opgehaald: 2026-08-16
 ---
+
 # Besluit houdende opheffing van de ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat en instelling van een ministerie van Infrastructuur en Milieu
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 14 oktober 2010, kenmerk 3096271;
-
-Gelet op [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -89,5 +61,3 @@ Er is een ministerie van Infrastructuur en Milieu.
 ##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 oktober 2010.
-
-Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van Economische Zaken, Landbouw en Innovatie, Onze Minister van Buitenlandse Zaken en Onze Minister van Infrastructuur en Milieu zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst en waarvan afschrift zal worden gezonden aan de in dit besluit genoemden, de Hoge Colleges van Staat, de Raad van Ministers, de Gevolmachtigde Ministers van Aruba, van Curaçao en van Sint Maarten en de ministeries.

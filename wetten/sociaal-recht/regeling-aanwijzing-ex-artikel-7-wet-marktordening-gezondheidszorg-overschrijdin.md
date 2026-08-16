@@ -1,50 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2010, nr. MC-U- 3035734, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overschrijding ziekenhuiskader 2009"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overschrijding ziekenhuiskader 2009)"
 identifier: "BWBR0029018"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-12-06"
-last_updated: "2010-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029018"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11090723"
-version_id: "18130892"
-internal_id: "C25208161"
-label_id: "11065034"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029018/2010-12-06/0"
-intitule_bron: "Stcrt.2010-19323"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-25"
-intitule_published: "2010-12-06"
-intitule_in_force: "2010-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-19323"
-original_signed_date: "2010-11-25"
-original_published_date: "2010-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-19323"
-entry_into_force_date: "2010-12-06"
-jci_1_3: "jci1.3:c:BWBR0029018&z=2010-12-06&g=2010-12-06"
-jci_1_0: "1.0:c:BWBR0029018&g=2010-12-06"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overschrijding ziekenhuiskader 2009)"
-signed_date: "2010-11-25"
-entry_into_force: "2010-12-06"
+publicatiedatum: 2010-12-06
+laatste_update: 2010-12-06
+status: geldig
+toestand: 2010-12-06
+bron: "https://wetten.overheid.nl/BWBR0029018"
+opgehaald: 2026-08-16
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2010, nr. MC-U- 3035734, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake overschrijding ziekenhuiskader 2009
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 29 juni 2010 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2009/10, 29 248, nr. 128);
-
-Gezien het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 7 oktober 2010 inzake de voorhang taakstelling ziekenhuizen 2011 (Kamerstukken II 2009/10, 29 248, nr.152) en de besluitenlijst van die commissie van 13 oktober 2010;
-
-Gezien de Korte aantekeningen Vergadering van de commissie van Volksgezondheid, Welzijn en Sport/Jeugd en Gezin van dinsdag 6 juli 2010;
-
-Besluit:
 
 ##### Artikel 1
 

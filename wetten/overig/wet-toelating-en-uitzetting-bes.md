@@ -1,38 +1,16 @@
 ---
 title: "Wet toelating en uitzetting BES"
 identifier: "BWBR0028571"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028571"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10878083"
-version_id: "17860452"
-internal_id: "C24850341"
-label_id: "10853724"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028571/2010-10-10/0"
-intitule_bron: "Stb.2010-532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-532"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-532"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028571&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028571&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028571"
+opgehaald: 2026-08-16
 ---
+
 # Wet toelating en uitzetting BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,25 +19,25 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- a. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- b. **Onze Minister:** Onze Minister van Justitie;
+- b. *Onze Minister:* Onze Minister van Justitie;
 
-- c. **ambtenaren belast met de grensbewaking dan wel het toezicht op personen:** ambtenaren, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=12&paragraaf=1&artikel=22a&z=2010-10-10&g=2010-10-10);
+- c. *ambtenaren belast met de grensbewaking dan wel het toezicht op personen:* ambtenaren, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=12&paragraaf=1&artikel=22a&z=2010-10-10&g=2010-10-10);
 
-- d. **annulering van een visum:** intrekking van een visum met terugwerkende kracht tot en met het tijdstip van de verlening;
+- d. *annulering van een visum:* intrekking van een visum met terugwerkende kracht tot en met het tijdstip van de verlening;
 
-- e. **machtiging tot voorlopig verblijf:** visum voor de toegang tot de openbare lichamen voor verblijf van meer dan drie maanden;
+- e. *machtiging tot voorlopig verblijf:* visum voor de toegang tot de openbare lichamen voor verblijf van meer dan drie maanden;
 
-- f. **referent:** een Nederlander of een in de openbare lichamen toegelaten en gevestigde vreemdeling dan wel het bevoegd gezag van een in de openbare lichamen kantoorhoudende rechtspersoon, die een aanvraag heeft ingediend omtrent een machtiging tot voorlopig verblijf ten behoeve van een vreemdeling;
+- f. *referent:* een Nederlander of een in de openbare lichamen toegelaten en gevestigde vreemdeling dan wel het bevoegd gezag van een in de openbare lichamen kantoorhoudende rechtspersoon, die een aanvraag heeft ingediend omtrent een machtiging tot voorlopig verblijf ten behoeve van een vreemdeling;
 
-- g. **terugkeervisum:** visum voor de toegang tot de openbare lichamen van een visumplichtige persoon die de openbare lichamen tijdelijk zal verlaten;
+- g. *terugkeervisum:* visum voor de toegang tot de openbare lichamen van een visumplichtige persoon die de openbare lichamen tijdelijk zal verlaten;
 
-- h. **visum:** voor de toegang tot de openbare lichamen voor verblijf van niet langer dan drie maanden door Onze Minister van Buitenlandse Zaken afgegeven visum, alsmede een onder e of g bedoeld visum;
+- h. *visum:* voor de toegang tot de openbare lichamen voor verblijf van niet langer dan drie maanden door Onze Minister van Buitenlandse Zaken afgegeven visum, alsmede een onder e of g bedoeld visum;
 
-- i. **verdragsvluchteling:** de vreemdeling die vluchteling is in de zin van het op 28 juli 1951 te Genève tot stand gekomen Verdrag betreffende de status van vluchtelingen (Trb. 1954, 88) en het op 31 januari 1967 te New York tot stand gekomen Protocol betreffende de status van vluchtelingen (Trb. 1967, 76) en op wie de bepalingen ervan van toepassing zijn;
+- i. *verdragsvluchteling:* de vreemdeling die vluchteling is in de zin van het op 28 juli 1951 te Genève tot stand gekomen Verdrag betreffende de status van vluchtelingen (Trb. 1954, 88) en het op 31 januari 1967 te New York tot stand gekomen Protocol betreffende de status van vluchtelingen (Trb. 1967, 76) en op wie de bepalingen ervan van toepassing zijn;
 
-- j. **vreemdeling:** ieder die niet de Nederlandse nationaliteit bezit.
+- j. *vreemdeling:* ieder die niet de Nederlandse nationaliteit bezit.
 
 ##### Artikel 1a
 

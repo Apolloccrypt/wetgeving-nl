@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 10 september 2010, houdende regels inzake de structuur van het overleg betreffende de rechtstoestand van ambtenaren (Besluit overlegstelsel BES)"
+citeertitel: "Besluit overlegstelsel BES"
 identifier: "BWBR0028779"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2021-03-30"
-last_updated: "2021-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028779"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11023143"
-version_id: "18011282"
-internal_id: "C25035351"
-label_id: "10997744"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028779/2021-03-30/0"
-intitule_bron: "Stb.2010-369"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-10"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-369"
-original_signed_date: "2010-09-10"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-369"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028779&z=2021-03-30&g=2021-03-30"
-jci_1_0: "1.0:c:BWBR0028779&g=2021-03-30"
-citeertitel_status: "officieel"
-short_title: "Besluit overlegstelsel BES"
-signed_date: "2010-09-10"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2021-03-30
+status: geldig
+toestand: 2021-03-30
+bron: "https://wetten.overheid.nl/BWBR0028779"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 10 september 2010, houdende regels inzake de structuur van het overleg betreffende de rechtstoestand van ambtenaren (Besluit overlegstelsel BES)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 februari 2010, 2010-0000109033, CZW
-
-Gelet op [artikel 101 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=101);
-
-De Raad van State gehoord, advies van 10 maart 2010, nummer WO4.10.0061/I;
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 6 september 2010, nummer 2010-0000580940;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ### Hoofdstuk 1. Definities
 
@@ -213,5 +179,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit overlegstelsel BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

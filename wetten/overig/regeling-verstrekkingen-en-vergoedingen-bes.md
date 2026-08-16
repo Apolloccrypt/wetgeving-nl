@@ -1,49 +1,25 @@
 ---
 title: "Regeling verstrekkingen en vergoedingen BES"
 identifier: "BWBR0029314"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029314"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11179153"
-version_id: "18284652"
-internal_id: "C25463551"
-label_id: "11153374"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029314/2025-01-01/0"
-intitule_bron: "Stcrt.2010-21109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21109"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21109"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029314&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0029314&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0029314"
+opgehaald: 2026-08-16
 ---
-# Regeling verstrekkingen en vergoedingen BES
 
-Treedt in werking om 0.00 uur in Bonaire, Sint Eustatius en Saba en om 5.00 uur in het Europese deel van Nederland.
+# Regeling verstrekkingen en vergoedingen BES
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan [artikel 6, vijfde lid, onderdeel g, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6), en [artikel 22 Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22)
+Deze regeling geeft uitvoering aan [artikel 6, vijfde lid, onderdeel g, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6), en [artikel 22 Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22)
 
 ##### Artikel 2
 
-1. Vaste vergoedingen als bedoeld in [artikel 6, vijfde lid, onderdeel g, onder 3°, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) behoren niet tot het loon indien:
+1. Vaste vergoedingen als bedoeld in [artikel 6, vijfde lid, onderdeel g, onder 3°, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) behoren niet tot het loon indien:
 
 - a. de inhoudingsplichtige aannemelijk maakt dat deze vergoedingen geacht kunnen worden te strekken tot bestrijding van de noodzakelijke kosten die de werknemer tot verwerving van zijn loon maakt;
 

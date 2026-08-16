@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052881"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 5 juli 2026, nr. 7752274, houdende nadere regels over eisen ten aanzien van CSIRT’s (Regeling nadere eisen CSIRT’s)

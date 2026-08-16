@@ -1,48 +1,18 @@
 ---
 title: "Wet van 16 december 2010 houdende vaststelling van de Wet Belastingwet BES (Belastingwet BES)"
+citeertitel: "Belastingwet BES"
 identifier: "BWBR0029244"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-04-11"
-last_updated: "2026-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029244"
+categorie: "Belastingrecht"
 soort: "wet-BES"
-stam_id: "11156243"
-version_id: "29842182"
-internal_id: "C42777911"
-label_id: "11133954"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029244/2026-04-11/0"
-intitule_bron: "Stb.2010-845"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-16"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2023-500"
-original_signed_date: "2023-12-20"
-original_published_date: "2023-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "36419"
-original_url_id: "stb-2023-500"
-entry_into_force_date: "2023-12-31"
-entry_into_force_dossier: "36419"
-jci_1_3: "jci1.3:c:BWBR0029244&z=2026-04-11&g=2026-04-11"
-jci_1_0: "1.0:c:BWBR0029244&g=2026-04-11"
-citeertitel_status: "officieel"
-short_title: "Belastingwet BES"
-signed_date: "2023-12-20"
-entry_into_force: "2023-12-31"
+publicatiedatum: 2023-12-31
+laatste_update: 2026-04-11
+status: geldig
+toestand: 2026-04-11
+bron: "https://wetten.overheid.nl/BWBR0029244"
+opgehaald: 2026-08-16
 ---
+
 # Wet van 16 december 2010 houdende vaststelling van de Wet Belastingwet BES (Belastingwet BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen zodat voor Bonaire, Sint Eustatius en Saba wordt voorzien in een fiscaal stelsel op het moment dat in het kader van de staatkundige vernieuwing van het Koninkrijk der Nederlanden deze eilanden als openbaar lichaam onderdeel gaan uitmaken van het land Nederland;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
@@ -68,47 +38,47 @@ Krachtens deze belastingwet worden de volgende belastingen geheven en ingevorder
 
 1. Deze belastingwet verstaat onder:
 
-- a. **Onze Minister:** Onze Minister van Financiën;
+- a. *Onze Minister:* Onze Minister van Financiën;
 
-- b. **belastingwet:** deze wet alsmede alle op deze wet berustende bepalingen;
+- b. *belastingwet:* deze wet alsmede alle op deze wet berustende bepalingen;
 
-- c. **lichamen:** verenigingen en andere rechtspersonen, maat- en vennootschappen en doelvermogens;
+- c. *lichamen:* verenigingen en andere rechtspersonen, maat- en vennootschappen en doelvermogens;
 
-- d. **BES belastingen:** de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I&artikel=1.2&z=2026-04-11&g=2026-04-11) genoemde belastingen alsmede de loonbelasting geheven op basis van de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283), de inkomstenbelasting geheven op basis van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) en de minimumbelasting geheven op basis van [hoofdstuk VIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&z=2026-04-11&g=2026-04-11), waaronder worden begrepen de bestuurlijke boeten die ingevolge deze wet kunnen worden opgelegd of vastgesteld, interest, alsmede de kosten van vervolging;
+- d. *BES belastingen:* de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I&artikel=1.2&z=2026-04-11&g=2026-04-11) genoemde belastingen alsmede de loonbelasting geheven op basis van de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283), de inkomstenbelasting geheven op basis van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) en de minimumbelasting geheven op basis van [hoofdstuk VIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&z=2026-04-11&g=2026-04-11), waaronder worden begrepen de bestuurlijke boeten die ingevolge deze wet kunnen worden opgelegd of vastgesteld, interest, alsmede de kosten van vervolging;
 
-- e. **Koninkrijk:** Koninkrijk der Nederlanden;
+- e. *Koninkrijk:* Koninkrijk der Nederlanden;
 
-- f. **Rijk:** het land Nederland, zijnde Nederland en de BES eilanden;
+- f. *Rijk:* het land Nederland, zijnde Nederland en de BES eilanden;
 
-- g. **Nederland:** het in Europa gelegen deel van het Rijk;
+- g. *Nederland:* het in Europa gelegen deel van het Rijk;
 
-- h. **BES eilanden:** de openbare lichamen Bonaire, Sint Eustatius en Saba, met daar onder begrepen, met in achtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028093), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
+- h. *BES eilanden:* de openbare lichamen Bonaire, Sint Eustatius en Saba, met daar onder begrepen, met in achtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028093), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
 
-- i. **binnenland:** de BES eilanden;
+- i. *binnenland:* de BES eilanden;
 
-- j. **openbaar lichaam:** Bonaire, Sint Eustatius of Saba, waarbij het openbaar lichaam Bonaire de eilanden Bonaire en Klein Bonaire omvat;
+- j. *openbaar lichaam:* Bonaire, Sint Eustatius of Saba, waarbij het openbaar lichaam Bonaire de eilanden Bonaire en Klein Bonaire omvat;
 
-- k. **directeur, inspecteur of ontvanger:** de bij ministeriële regeling als zodanig aangewezen functionaris van de rijksbelastingdienst;
+- k. *directeur, inspecteur of ontvanger:* de bij ministeriële regeling als zodanig aangewezen functionaris van de rijksbelastingdienst;
 
-- l. **belastingdeurwaarder:** de bij ministeriële regeling als zodanig aangewezen ambtenaar met dien verstande dat de betrekking van belastingdeurwaarder van de BES belastingen verenigbaar is met die van deurwaarder bij een rechterlijk college of gerecht in eerste aanleg;
+- l. *belastingdeurwaarder:* de bij ministeriële regeling als zodanig aangewezen ambtenaar met dien verstande dat de betrekking van belastingdeurwaarder van de BES belastingen verenigbaar is met die van deurwaarder bij een rechterlijk college of gerecht in eerste aanleg;
 
-- m. **belastingaanslag:** de voorlopige aanslag, de aanslag, de navorderingsaanslag, en de naheffingsaanslag;
+- m. *belastingaanslag:* de voorlopige aanslag, de aanslag, de navorderingsaanslag, en de naheffingsaanslag;
 
-- n. **belastingplichtige:** de natuurlijke persoon of rechtspersoon van wie op grond van deze wet een belasting wordt geheven;
+- n. *belastingplichtige:* de natuurlijke persoon of rechtspersoon van wie op grond van deze wet een belasting wordt geheven;
 
-- o. **belastingschuldige:** degene te wiens naam de belastingaanslag is gesteld;
+- o. *belastingschuldige:* degene te wiens naam de belastingaanslag is gesteld;
 
-- p. **het Hof:** het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- p. *het Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- q. **het Gerecht in eerste aanleg:** het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
+- q. *het Gerecht in eerste aanleg:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- r. **bevoegde autoriteit:** de door een staat tot het uitwisselen van inlichtingen aangewezen persoon of instantie;
+- r. *bevoegde autoriteit:* de door een staat tot het uitwisselen van inlichtingen aangewezen persoon of instantie;
 
-- s. **USD:** dollar van de Verenigde Staten van Amerika;
+- s. *USD:* dollar van de Verenigde Staten van Amerika;
 
-- t. **personenauto:** de personenauto, bedoeld in [artikel 3, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3);
+- t. *personenauto:* de personenauto, bedoeld in [artikel 3, eerste lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3);
 
-- u. **bestelauto:** de bestelauto, bedoeld in [artikel 3, eerste lid, onderdeel b, en derde tot en met zesde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3).
+- u. *bestelauto:* de bestelauto, bedoeld in [artikel 3, eerste lid, onderdeel b, en derde tot en met zesde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3).
 
 2. Bij ministeriële regeling kunnen regels worden gesteld op basis waarvan motorrijtuigen voor de toepassing van deze wet, de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) of de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283):
 
@@ -140,17 +110,21 @@ Waar in deze belastingwet wordt gesproken van:
 
 ### Hoofdstuk II. Inkomstenbelasting
 
+Gereserveerd
+
 ### Hoofdstuk III. Loonbelasting
+
+Gereserveerd
 
 ### Hoofdstuk IV. Vastgoedbelasting
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 4.1
 
 Onder de naam vastgoedbelasting wordt een belasting geheven ter zake van voordelen uit een op de BES eilanden gelegen onroerende zaak.
 
-## Titel 2. Belastingplichtige
+### Titel 2. Belastingplichtige
 
 ##### Artikel 4.2
 
@@ -162,7 +136,7 @@ Onder de naam vastgoedbelasting wordt een belasting geheven ter zake van voordel
 
 4. Indien belastingplichtigen bij het begin van het kalenderjaar het genot krachtens eigendom, bezit of beperkt recht van een onroerende zaak hebben en dit genot elk van deze belastingplichtigen afzonderlijk het recht geeft om de onroerende zaak gedurende een deel van het kalenderjaar te gebruiken (time-share), wordt de belasting geheven van al deze belastingplichtigen gezamenlijk.
 
-## Titel 3. Voorwerp van belasting
+### Titel 3. Voorwerp van belasting
 
 ##### Artikel 4.3
 
@@ -202,7 +176,7 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 - k. onroerende zaken, waarvan de waarde uitsluitend of nagenoeg uitsluitend wordt bepaald door de waarde van de daarvan deel uitmakende braakliggende grond, voor zover degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben een natuurlijke persoon is of zijn en inwoner is of zijn van de BES eilanden, met dien verstande dat grond waarop een woning wordt gebouwd ook als braakliggende grond wordt aangemerkt, mits de te bouwen woning binnen 24 maanden na aanvang van de bouwactiviteiten voor degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben, als een eigen woning als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) wordt aangemerkt.
 
-## Titel 4. Heffingsmaatstaf en waardevaststelling
+### Titel 4. Heffingsmaatstaf en waardevaststelling
 
 ##### Artikel 4.5
 
@@ -244,15 +218,15 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 2. Indien de waarde van een onroerende zaak door toepassing van het eerste lid hoger wordt vastgesteld, wordt deze waardestijging, voor zover deze voortvloeit uit bouw, verbouw, verbetering, uitbreiding of renovatie van de desbetreffende onroerende zaak, eerst in aanmerking genomen bij het begin van het zesde kalenderjaar volgend op het kalenderjaar waarin deze waardestijging zich heeft voorgedaan. De eerste volzin is niet van toepassing met betrekking tot onroerende zaken waarvan het genot krachtens eigendom, bezit of beperkt recht berust bij een rechtspersoon die op grond van [artikel 5.4 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=5.4) is toegelaten tot een handels- en dienstenentrepot. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van de eerste volzin.
 
-3. Dit artikel is van toepassing op de vaststelling van de waarde van een onroerende zaak op of na 1 januari 2025. Op de vaststelling van de waarde van een onroerende zaak voor of op 31 december 2024, blijft dit artikel zoals het op 31 december 2024 luidde van toepassing.
+3. Dit artikel is van toepassing op de vaststelling van de waarde van een onroerende zaak op of na 1 januari 2025. Op de vaststelling van de waarde van een onroerende zaak voor of op 31 december 2024, blijft dit artikel zoals het op 31 december 2024 luidde van toepassing.
 
-## Titel 5. Tarief
+### Titel 5. Tarief
 
 ##### Artikel 4.9
 
 1. De belasting bedraagt 17,5% van de voordelen uit een onroerende zaak.
 
-2. In afwijking van het eerste lid, bedraagt de belasting 11 percent van de voordelen uit een onroerende zaak indien de onroerende zaak een hotel betreft voor zover het genot daarvan krachtens eigendom, bezit of beperkt recht berust bij een niet-natuurlijke persoon.
+2. In afwijking van het eerste lid, bedraagt de belasting 11 percent van de voordelen uit een onroerende zaak indien de onroerende zaak een hotel betreft voor zover het genot daarvan krachtens eigendom, bezit of beperkt recht berust bij een niet-natuurlijke persoon.
 
 3. Voor de toepassing van het tweede lid wordt onder een hotel verstaan een onroerende zaak die of een complex van onroerende zaken dat bedrijfsmatig door een niet-natuurlijke persoon wordt geëxploiteerd, geheel of nagenoeg geheel gericht is op kortdurend verblijf van toeristen en beschikt over volwaardige gemeenschappelijke hotelvoorzieningen. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld waaraan een onroerende zaak moet voldoen om voor de toepassing van het tweede lid als hotel te worden aangemerkt.
 
@@ -262,7 +236,7 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 2. In afwijking van het eerste lid worden de voordelen uit een onroerende zaak bij een belastingplichtige als bedoeld in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV&titeldeel=2&artikel=4.2&z=2026-04-11&g=2026-04-11), bepaald op basis van het eerste lid, en vervolgens vermenigvuldigd met een gebruiksfactor. De gebruiksfactor is het aantal dagen in het kalenderjaar dat de belastingplichtige een onroerende zaak waarvan hij het genot krachtens eigendom, bezit of beperkt recht heeft mag gebruiken, gedeeld door het aantal dagen in het kalenderjaar. Indien de hiervoor bedoelde belastingplichtigen de onroerende zaak in totaal minder dan het aantal dagen in het kalenderjaar mogen gebruiken wordt het op grond van de eerste twee volzinnen bepaalde voordeel vermenigvuldigd met een leegstandsfactor. Deze leegstandsfactor bedraagt het aantal dagen in het kalenderjaar gedeeld door het totaal aantal dagen dat deze belastingplichtigen de onroerende zaak mogen gebruiken.
 
-## Titel 6. Overig
+### Titel 6. Overig
 
 ##### Artikel 4.11
 
@@ -274,7 +248,7 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 ### Hoofdstuk V. Opbrengstbelasting
 
-## Titel 1. Belastingplicht
+### Titel 1. Belastingplicht
 
 ##### Artikel 5.1
 
@@ -296,21 +270,21 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 2. Niettegenstaande het eerste lid wordt een lichaam geacht op de BES eilanden te zijn gevestigd indien de inspecteur op verzoek van het lichaam bij voor bezwaar vatbare beschikking heeft vastgesteld dat aannemelijk is dat:
 
-- a. het lichaam op jaarbasis een omzet heeft van ten hoogste USD 80 000, de bezittingen van het lichaam doorgaans ten hoogste USD 200 000 bedragen en het lichaam zich niet bezighoudt met financiële dienstverlening, royaltybetalingen, verzekerings- en herverzekeringsactiviteiten, daaronder mede begrepen diensten ter zake van het optreden als directie van vennootschappen waarvan de statutaire zetel of feitelijke leiding op de BES eilanden gevestigd is en andere dienstverlening ter zake van het trustbedrijf;
+- a. het lichaam op jaarbasis een omzet heeft van ten hoogste USD 80 000, de bezittingen van het lichaam doorgaans ten hoogste USD 200 000 bedragen en het lichaam zich niet bezighoudt met financiële dienstverlening, royaltybetalingen, verzekerings- en herverzekeringsactiviteiten, daaronder mede begrepen diensten ter zake van het optreden als directie van vennootschappen waarvan de statutaire zetel of feitelijke leiding op de BES eilanden gevestigd is en andere dienstverlening ter zake van het trustbedrijf;
 
-- b. de bezittingen van het lichaam doorgaans voor ten hoogste 50 percent bestaan uit beleggingen, deelnemingen, liquiditeiten, activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan personen die buiten de BES eilanden wonen of zijn gevestigd en overige bezittingen die worden aangewend voor het direct of indirect financieren van personen die buiten de BES eilanden wonen of zijn gevestigd; of
+- b. de bezittingen van het lichaam doorgaans voor ten hoogste 50 percent bestaan uit beleggingen, deelnemingen, liquiditeiten, activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan personen die buiten de BES eilanden wonen of zijn gevestigd en overige bezittingen die worden aangewend voor het direct of indirect financieren van personen die buiten de BES eilanden wonen of zijn gevestigd; of
 
 - c. het lichaam:
 
-  - 1°. voltijds blijvend werk verschaft aan doorgaans ten minste drie op de BES eilanden wonende natuurlijke personen die zich zelfstandig bezighouden met werkzaamheden betrekking hebbend op de bezittingen genoemd in het tweede lid, onderdeel b, en hun bevoegdheden en verantwoordelijkheden in overeenstemming zijn met de aard en functie van die werkzaamheden; en
+   - 1°. voltijds blijvend werk verschaft aan doorgaans ten minste drie op de BES eilanden wonende natuurlijke personen die zich zelfstandig bezighouden met werkzaamheden betrekking hebbend op de bezittingen genoemd in het tweede lid, onderdeel b, en hun bevoegdheden en verantwoordelijkheden in overeenstemming zijn met de aard en functie van die werkzaamheden; en
 
-  - 2°. voor ten minste een periode van 24 maanden een op de BES eilanden gelegen onroerende zaak of een deel van een onroerende zaak ter waarde van ten minste USD 50 000 ter beschikking heeft voor de uitvoering van de bedrijfsactiviteiten van het lichaam en, ingeval dit lichaam zich bezighoudt met financiële dienstverlening, royaltybetalingen, verzekerings- en herverzekeringsactiviteiten, daaronder mede begrepen diensten ter zake van het optreden als directie van vennootschappen waarvan de statutaire zetel of feitelijke leiding op de BES eilanden gevestigd is en andere dienstverlening ter zake van het trustbedrijf, zich daarin een eigen kantoor bevindt dat is voorzien van in de financiële sector gebruikelijke faciliteiten.
+   - 2°. voor ten minste een periode van 24 maanden een op de BES eilanden gelegen onroerende zaak of een deel van een onroerende zaak ter waarde van ten minste USD 50 000 ter beschikking heeft voor de uitvoering van de bedrijfsactiviteiten van het lichaam en, ingeval dit lichaam zich bezighoudt met financiële dienstverlening, royaltybetalingen, verzekerings- en herverzekeringsactiviteiten, daaronder mede begrepen diensten ter zake van het optreden als directie van vennootschappen waarvan de statutaire zetel of feitelijke leiding op de BES eilanden gevestigd is en andere dienstverlening ter zake van het trustbedrijf, zich daarin een eigen kantoor bevindt dat is voorzien van in de financiële sector gebruikelijke faciliteiten.
 
 3. Het eerste lid is niet van toepassing op een lichaam:
 
 - a. dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V); of
 
-- b. waarvan de inspecteur op verzoek van dat lichaam bij voor bezwaar vatbare beschikking heeft vastgesteld dat dat lichaam voor ten minste 50 percent deelneemt in een lichaam dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V) of dat een beschikking heeft ontvangen als bedoeld in het tweede lid, en de overige bezittingen van het lichaam voldoen aan het tweede lid, onderdeel b.
+- b. waarvan de inspecteur op verzoek van dat lichaam bij voor bezwaar vatbare beschikking heeft vastgesteld dat dat lichaam voor ten minste 50 percent deelneemt in een lichaam dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V) of dat een beschikking heeft ontvangen als bedoeld in het tweede lid, en de overige bezittingen van het lichaam voldoen aan het tweede lid, onderdeel b.
 
 4. De in het tweede en derde lid bedoelde beschikking vervalt direct na het moment waarop het lichaam:
 
@@ -324,9 +298,9 @@ De belasting wordt niet geheven ter zake van voordelen uit:
 
 6. Voor de toepassing van het tweede lid, onderdeel b, worden activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan natuurlijke personen die op de BES eilanden verblijven maar niet op de BES eilanden wonen niet beschouwd als activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan natuurlijke personen die buiten de BES eilanden wonen.
 
-7. Als aan de voorwaarden wordt voldaan, wordt het verzoek, bedoeld in de aanhef van het tweede lid of het derde lid, onderdeel b, ingewilligd met ingang van de aanvang van het in het verzoek aangegeven eerste kalenderjaar waarin de belastingplichtige voor de toepassing van deze wet op de BES eilanden is gevestigd, doch niet eerder dan 24 maanden voor het tijdstip waarop het verzoek door de inspecteur is ontvangen.
+7. Als aan de voorwaarden wordt voldaan, wordt het verzoek, bedoeld in de aanhef van het tweede lid of het derde lid, onderdeel b, ingewilligd met ingang van de aanvang van het in het verzoek aangegeven eerste kalenderjaar waarin de belastingplichtige voor de toepassing van deze wet op de BES eilanden is gevestigd, doch niet eerder dan 24 maanden voor het tijdstip waarop het verzoek door de inspecteur is ontvangen.
 
-## Titel 2. Voorwerp van de belasting
+### Titel 2. Voorwerp van de belasting
 
 ##### Artikel 5.3
 
@@ -348,15 +322,15 @@ De belasting wordt geheven naar de opbrengst.
 
 2. Niet in geld genoten opbrengst wordt in aanmerking genomen naar de waarde welke daaraan in het economische verkeer kan worden toegekend op het tijdstip van ter beschikking stellen.
 
-## Titel 3. Tarief
+### Titel 3. Tarief
 
 ##### Artikel 5.5
 
-1. De belasting bedraagt 7,5 percent van de opbrengst.
+1. De belasting bedraagt 7,5 percent van de opbrengst.
 
 2. Neemt het lichaam dat de opbrengst verschuldigd is de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de opbrengst vermenigvuldigd met 100/92,5.
 
-## Titel 4. Wijze van heffing
+### Titel 4. Wijze van heffing
 
 ##### Artikel 5.6
 
@@ -366,7 +340,7 @@ De belasting wordt geheven naar de opbrengst.
 
 3. De inhoudingsplichtige is verplicht de belasting in te houden op het tijdstip waarop de opbrengst ter beschikking is gesteld.
 
-4. De inhoudingsplichtige is verplicht de ingehouden belasting op aangifte af te dragen. In afwijking van [artikel 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), wordt geen aangifte gedaan indien in het kwartaal geen opbrengst ter beschikking is gesteld.
+4. De inhoudingsplichtige is verplicht de ingehouden belasting op aangifte af te dragen. In afwijking van [artikel 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), wordt geen aangifte gedaan indien in het kwartaal geen opbrengst ter beschikking is gesteld.
 
 5. Overtreft de belasting de opbrengst in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het in het derde lid omschreven tijdstip, met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op degene die tot de opbrengst gerechtigd is. De inhoudingsplichtige kan de afgifte van de niet in geld genoten opbrengst opschorten tot voldoening van deze vordering plaats vindt.
 
@@ -380,7 +354,7 @@ Inhouding van de belasting blijft achterwege met betrekking tot:
 
 - c. uitdelingen gedaan door een stichting of doelvermogen, voor zover deze uitdelingen zijn aan te merken als uitkeringen in het kader van een pensioenregeling als bedoeld in [artikel 6A van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6a).
 
-## Titel 5. Bijzondere bepalingen
+### Titel 5. Bijzondere bepalingen
 
 ##### Artikel 5.8
 
@@ -410,31 +384,31 @@ Indien een inhoudingsplichtige niet langer voldoet aan de voorwaarden van [artik
 
 ##### Artikel 5.10
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Algemene bestedingsbelasting
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 6.1
 
 In dit hoofdstuk en in de daarop gebaseerde bepalingen wordt verstaan onder:
 
-- a. **goederen:** alle lichamelijke zaken, alsmede water, elektriciteit, gas, warmte, koude en soortgelijke zaken;
+- a. *goederen:* alle lichamelijke zaken, alsmede water, elektriciteit, gas, warmte, koude en soortgelijke zaken;
 
-- b. **producent:** een ondernemer die in een openbaar lichaam goederen voortbrengt met behulp van grond- of hulpstoffen of van halffabricaten, voor zover hij de levering van de door hem voortgebrachte goederen niet verricht vanuit een inrichting die grotendeels is ingericht, bestemd en wordt gebruikt voor de verkoop van die goederen aan anderen dan ondernemers;
+- b. *producent:* een ondernemer die in een openbaar lichaam goederen voortbrengt met behulp van grond- of hulpstoffen of van halffabricaten, voor zover hij de levering van de door hem voortgebrachte goederen niet verricht vanuit een inrichting die grotendeels is ingericht, bestemd en wordt gebruikt voor de verkoop van die goederen aan anderen dan ondernemers;
 
-- c. **handels- en dienstenentrepot:** handels- en dienstenentrepot als bedoeld in de Douane- en Accijnswet BES;
+- c. *handels- en dienstenentrepot:* handels- en dienstenentrepot als bedoeld in de Douane- en Accijnswet BES;
 
-- d. **douanewetgeving:** de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II) en [III van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III);
+- d. *douanewetgeving:* de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II) en [III van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III);
 
-- e. **douaneregime:** een in de douanewetgeving voorzien regime voor onder douanetoezicht geplaatste goederen;
+- e. *douaneregime:* een in de douanewetgeving voorzien regime voor onder douanetoezicht geplaatste goederen;
 
-- f. **CO2-uitstoot van een personenauto en een bestelauto:** de CO2-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO2-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd;
+- f. *CO2-uitstoot van een personenauto en een bestelauto:* de CO2-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO2-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd;
 
-- g. **BES ondernemer:** een ondernemer die op de BES eilanden woont of is gevestigd dan wel aldaar een vaste inrichting heeft van waaruit een dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats op de BES eilanden heeft;
+- g. *BES ondernemer:* een ondernemer die op de BES eilanden woont of is gevestigd dan wel aldaar een vaste inrichting heeft van waaruit een dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats op de BES eilanden heeft;
 
-- h. **elektriciteitsbedrijf:** een producent in de zin van [artikel 1.1 van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.1).
+- h. *elektriciteitsbedrijf:* een producent in de zin van [artikel 1.1 van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.1).
 
 ##### Artikel 6.2
 
@@ -456,9 +430,9 @@ Onder bij ministeriële regeling te stellen voorwaarden kan op de belasting, ver
 
 één en ander voor zover de goederen worden gebruikt als grond- of hulpstof of als halffabricaat voor de door de producent ten behoeve van zijn te belasten leveringen voortgebrachte goederen.
 
-## Titel 2. Heffing ter zake van leveringen en diensten
+### Titel 2. Heffing ter zake van leveringen en diensten
 
-### Afdeling 1. Belastbaar feit
+#### Afdeling 1. Belastbaar feit
 
 ##### Artikel 6.4
 
@@ -481,6 +455,14 @@ Onder bij ministeriële regeling te stellen voorwaarden kan op de belasting, ver
 ##### Artikel 6.5
 
 Diensten zijn alle prestaties, niet zijnde leveringen van goederen in de zin van [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), die tegen vergoeding worden verricht.
+
+##### Artikel 6.5a
+
+1. Bij overgang van het geheel of een gedeelte van een algemeenheid van goederen, al dan niet tegen vergoeding of in de vorm van een inbreng in een vennootschap, wordt geacht dat geen leveringen of diensten plaatsvinden en treedt, tenzij bij ministeriële regeling anders is bepaald, degene op wie de goederen overgaan in de plaats van de overdrager.
+
+2. Indien van een overgang als bedoeld in het tweede lid deel uitmaakt de levering van goederen die de overdrager als producent heeft voortgebracht, worden deze goederen voor de overdrager geacht te zijn belast als bedoeld in [artikel 6.3, aanhef en slot](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.3&z=2026-04-11&g=2026-04-11).
+
+3. Degene op wie de goederen overgaan als bedoeld in het eerste lid, wordt voor de volgende levering van goederen, die door de overdrager als producent zijn voortgebracht, aangemerkt als producent van die goederen en voor zover van toepassing als vervaardiger van die goederen in de zin van [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 6.6
 
@@ -604,7 +586,7 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 2. Bij ministeriële regeling kan worden bepaald dat publiekrechtelijke lichamen die, anders dan als ondernemer, prestaties verrichten welke uit hun aard ook door ondernemers kunnen worden verricht, met betrekking tot die prestaties als ondernemer worden aangemerkt.
 
-### Afdeling 2. Maatstaf en tarief van heffing
+#### Afdeling 2. Maatstaf en tarief van heffing
 
 ##### Artikel 6.9
 
@@ -614,7 +596,7 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 3. Door de ondernemer verschuldigde belastingen en andere heffingen, die aan de afnemer afzonderlijk in rekening worden gebracht, behoren niet tot de vergoeding.
 
-4. De vergoeding voor het bepalen van de verschuldigde belasting wordt in geval van een levering als bedoeld in [artikel 6.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), gesteld op het bedrag, de algemene bestedingsbelasting niet daaronder begrepen, dat voor de goederen zou worden ontvangen, indien deze op het tijdstip van de levering zouden worden aangeschaft in de toestand waarin zij zich op dat tijdstip bevinden.
+4. De vergoeding voor het bepalen van de verschuldigde belasting wordt in geval van een levering als bedoeld in [artikel 6.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), gesteld op het bedrag, de algemene bestedingsbelasting niet daaronder begrepen, dat voor de goederen zou worden ontvangen, indien deze op het tijdstip van de levering zouden worden aangeschaft in de toestand waarin zij zich op dat tijdstip bevinden.
 
 5. Indien gegevens voor het bepalen van de vergoeding zijn uitgedrukt in een andere munteenheid dan die van de BES eilanden, wordt de wisselkoers vastgesteld overeenkomstig de laatst genoteerde verkoopkoers op het tijdstip waarop de belasting verschuldigd wordt.
 
@@ -632,17 +614,17 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 - d. nihil voor leveringen van hierna genoemde goederen, mits is voldaan aan bij ministeriële regeling te stellen voorwaarden:
 
-  - 1°. van buiten een openbaar lichaam komende goederen die niet zijn ingevoerd;
+   - 1°. van buiten een openbaar lichaam komende goederen die niet zijn ingevoerd;
 
-  - 2°. goederen welke door een producent worden:
+   - 2°. goederen welke door een producent worden:
 
-    - –. uitgevoerd uit een openbaar lichaam, daaronder mede begrepen uitvoer uit een in een openbaar lichaam ingesteld handels- en dienstenentrepot;
+      - – uitgevoerd uit een openbaar lichaam, daaronder mede begrepen uitvoer uit een in een openbaar lichaam ingesteld handels- en dienstenentrepot;
 
-    - –. gebracht onder een douaneregime;
+      - – gebracht onder een douaneregime;
 
-    - –. ingeslagen in een openbaar lichaam ingesteld handels- en dienstenentrepot, voor zover die goederen bestemd zijn voor uitvoer;
+      - – ingeslagen in een openbaar lichaam ingesteld handels- en dienstenentrepot, voor zover die goederen bestemd zijn voor uitvoer;
 
-    - –. worden geleverd aan een in een handels- en dienstenentrepot gevestigde ondernemer, voor zover die goederen bestemd zijn voor uitvoer;
+      - – worden geleverd aan een in een handels- en dienstenentrepot gevestigde ondernemer, voor zover die goederen bestemd zijn voor uitvoer;
 
 - e. nihil voor de (op)levering en installatie van niet-geïntegreerde zonnepanelen en geïntegreerde zonnepanelen welke als dakbedekking dienen, mits zij bij een elektriciteitsbedrijf (op)geleverd en geïnstalleerd worden; hetzelfde geldt voor bij ministeriële regeling aangewezen producten die bestemd zijn om daarop aangesloten te worden, ook indien zij apart geleverd en geïnstalleerd worden;
 
@@ -658,18 +640,28 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 - b. de in dat tweede lid, onderdeel a, bedoelde belasting: 4 percent en in uitzondering daarop, 5 percent ter zake van verzekeringen;
 
-- c. de in dat tweede lid, onderdeel b, bedoelde belasting 18, 22 of 30 percent, berekend aan de hand van de volgende tabel:
-
-| Bij een vergoeding voor de auto van meer dan | maar niet meer dan | bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat | bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat |
-| --- | --- | --- | --- |
-| I | II | III | IV |
-|   | USD 20 000 |   | 18 percent |
-| USD 20 000 | USD 30 000 | USD 3 600 | 22 percent |
-| USD 30 000 |   | USD 5 800 | 30 percent |
+- c. de in dat tweede lid, onderdeel b, bedoelde belasting 18, 22 of 30 percent, berekend aan de hand van de volgende tabel: Bij een vergoeding voor de auto van meer dan
+ maar niet meer dan
+ bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat
+ I
+ II
+ III
+ IV
+ USD 20 000
+ 
+ 18 percent
+ USD 20 000
+ USD 30 000
+ USD 3 600
+ 22 percent
+ USD 30 000
+ 
+ USD 5 800
+ 30 percent
 
 2. In afwijking in zoverre van het eerste lid, onderdeel c, geldt voor het in dat onderdeel opgenomen percentage van 18 voor niet gebruikte personenauto’s en bestelauto’s een percentage van 10 en gelden voor de in de derde kolom opgenomen bedragen van USD 3 600 en USD 5 800 bedragen van USD 2 000 en USD 4 200.
 
-### Afdeling 3. Vrijstellingen
+#### Afdeling 3. Vrijstellingen
 
 ##### Artikel 6.11
 
@@ -695,7 +687,7 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 - j. de (op)levering en installatie van windturbines, mits zij bij een ander dan een elektriciteitsbedrijf (op)geleverd en geïnstalleerd worden; hetzelfde geldt voor speciaal voor windturbines ontworpen of aangepaste onderdelen, ook indien zij apart geleverd en geïnstalleerd worden;
 
-- k. de levering van een onroerende zaak, een andere dan een nieuw vervaardigd gebouw of werk als bedoeld in [artikel 6.4, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), en het bij dat gebouw of werk behorende terrein, indien ter zake van die levering overdrachtsbelasting verschuldigd is;
+- k. de levering van een onroerende zaak, een andere dan een nieuw vervaardigd gebouw of werk als bedoeld in [artikel 6.4, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), en het bij dat gebouw of werk behorende terrein, indien ter zake van die levering overdrachtsbelasting verschuldigd is;
 
 - l. de levensverzekeringen, ziektekostenverzekeringen en herverzekeringen door verzekeringsmaatschappijen, alsmede de diensten door tussenpersonen bij verzekeringen, waarbij onder levensverzekering wordt verstaan een verzekering die uitsluitend of nagenoeg uitsluitend ten doel heeft een of meerdere termijnen van uitkering te verzorgen, en welke afhankelijk is van het leven van de verzekerde, daaronder mede begrepen uitvaartverzekeringen, ongeacht de wijze van uitkering;
 
@@ -713,13 +705,13 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 - s. de leveringen van brandstoffen, smeermiddelen en andere vloeistoffen, bestemd voor de voortstuwing, smering en ander technisch gebruik aan boord van zeeschepen en luchtvaartuigen als bedoeld in onderdeel p, alsmede de leveringen van goederen welke zijn bestemd voor de bevoorrading van uitgaande:
 
-  - 1°. zeeschepen waarmee enigerlei economische activiteit wordt verricht, met uitzondering van schepen voor de kustvisserij;
+   - 1°. zeeschepen waarmee enigerlei economische activiteit wordt verricht, met uitzondering van schepen voor de kustvisserij;
 
-  - 2°. reddingsboten, schepen voor hulpverlening op zee of schepen voor de kustvisserij, met uitzondering van voor laatstgenoemde schepen bestemde scheepsproviand;
+   - 2°. reddingsboten, schepen voor hulpverlening op zee of schepen voor de kustvisserij, met uitzondering van voor laatstgenoemde schepen bestemde scheepsproviand;
 
-  - 3°. oorlogschepen met als bestemming een haven of ankerplaats buiten een openbaar lichaam;
+   - 3°. oorlogschepen met als bestemming een haven of ankerplaats buiten een openbaar lichaam;
 
-  - 4°. luchtvaartuigen;
+   - 4°. luchtvaartuigen;
 
 - t. de diensten, als bedoeld in [artikel 5.2, eerste lid van de Douane en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=5.2) die door een in een handels- en dienstenentrepot gevestigde ondernemer als zodanig worden verricht;
 
@@ -735,15 +727,15 @@ Bij ministeriële regeling kan, om dubbele heffing of niet-heffing te voorkomen 
 
 - z. de opvang van kinderen in kinderopvang, zijnde het bedrijfsmatig of anders dan om niet verzorgen, opvoeden en bijdragen aan de ontwikkeling van kinderen tot de eerste dag van de maand waarop het voortgezet onderwijs voor die kinderen begint, indien het betreft kinderopvang in een geregistreerd kindercentrum, alsmede de opvang van kinderen in een organisatie die gastouderopvang tot stand brengt en begeleidt en door tussenkomst waarvan de betaling door ouders aan gastouders geschiedt, met dien verstande dat tot kinderopvang of gastouderopvang niet worden gerekend:
 
-  - 1°. het toezicht op schoolgaande kinderen dat zich beperkt tot het toezicht tijdens de middagpauze;
+   - 1°. het toezicht op schoolgaande kinderen dat zich beperkt tot het toezicht tijdens de middagpauze;
 
-  - 2°. de verzorging, de opvoeding en de bijdrage aan de ontwikkeling van kinderen, anders dan gastouderopvang, die geschiedt op een plaats waar het kind zijn hoofdverblijf heeft.
+   - 2°. de verzorging, de opvoeding en de bijdrage aan de ontwikkeling van kinderen, anders dan gastouderopvang, die geschiedt op een plaats waar het kind zijn hoofdverblijf heeft.
 
 2. Om dubbele heffing van de belasting of om concurrentieverstoring te voorkomen kunnen bij ministeriële regeling, onder daarbij te stellen voorwaarden en beperkingen, andere dan de in het eerste lid genoemde leveringen van goederen en diensten van de belasting worden vrijgesteld.
 
 3. Voor de toepassing van het eerste lid, onderdeel h, wordt met elektriciteitsbedrijven gelijkgesteld eenieder die hernieuwbare elektriciteit produceert met behulp van een installatie, die hoofdzakelijk produceert voor eigen gebruik en de geproduceerde elektriciteit die niet wordt verbruikt levert aan het elektriciteitsnet.
 
-### Afdeling 4. Wijze van heffing
+#### Afdeling 4. Wijze van heffing
 
 ##### Artikel 6.12
 
@@ -773,7 +765,7 @@ In afwijking in zoverre van [artikel 6.12, eerste lid](https://wetten.overheid.n
 
 2. In afwijking in zoverre van het eerste lid wordt de belasting of het desbetreffende gedeelte daarvan uiterlijk verschuldigd op het tijdstip waarop de vergoeding geheel of gedeeltelijk wordt ontvangen.
 
-3. Iedere producent die leveringen van goederen verricht als bedoeld in [artikel 6.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.2&z=2026-04-11&g=2026-04-11), aan een andere ondernemer reikt aan die ondernemer een doorlopend genummerde en gedagtekende factuur als bedoeld in [artikel 8.89a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.89a&z=2026-04-11&g=2026-04-11), uit.
+3. Iedere producent die leveringen van goederen verricht als bedoeld in [artikel 6.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.2&z=2026-04-11&g=2026-04-11), aan een andere ondernemer reikt aan die ondernemer een doorlopend genummerde en gedagtekende factuur als bedoeld in [artikel 8.89a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.89a&z=2026-04-11&g=2026-04-11), uit.
 
 4. De producent moet de in het derde lid bedoelde factuur uitreiken binnen vijftien dagen na de maand waarin de levering is verricht. De producent is verplicht een kopie van de uitgereikte factuur op te maken.
 
@@ -805,9 +797,9 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 - b. de vergoeding wordt terugbetaald omdat een vermindering van de vergoeding achteraf is verleend of omdat de goederen in ongebruikte staat zijn teruggenomen.
 
-## Titel 3. Heffing ter zake van invoer
+### Titel 3. Heffing ter zake van invoer
 
-### Afdeling 1. Belastbaar feit
+#### Afdeling 1. Belastbaar feit
 
 ##### Artikel 6.17
 
@@ -837,7 +829,7 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 - b. invoer in de zin van [artikel 4.5 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.5).
 
-### Afdeling 2. Maatstaf en tarief van heffing
+#### Afdeling 2. Maatstaf en tarief van heffing
 
 ##### Artikel 6.18
 
@@ -849,7 +841,7 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 - b. de bijkomende kosten, zoals kosten van commissie, verpakking, vervoer en verzekering tot de plaats van bestemming.
 
-3. Onder vervoer als bedoeld in het tweede lid, onderdeel b, wordt niet begrepen het vervoer van de plaats van brengen van goederen in een openbaar lichaam tot de plaats van bestemming.
+3. Onder vervoer als bedoeld in het tweede lid, onderdeel b, wordt niet begrepen het vervoer van de plaats van brengen van goederen in een openbaar lichaam tot de plaats van bestemming.
 
 ##### Artikel 6.19
 
@@ -867,18 +859,28 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 - a. de in dat eerste lid bedoelde belasting: 6 percent;
 
-- b. de in dat tweede lid, onderdeel a, bedoelde belasting 18, 22 of 30 percent, berekend aan de hand van de volgende tabel:
-
-| Bij een douanewaarde voor de auto van meer dan | maar niet meer dan | bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat | bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat |
-| --- | --- | --- | --- |
-| I | II | III | IV |
-|   | USD 20 000 |   | 18 percent |
-| USD 20 000 | USD 30 000 | USD 3 600 | 22 percent |
-| USD 30 000 |   | USD 5 800 | 30 percent |
+- b. de in dat tweede lid, onderdeel a, bedoelde belasting 18, 22 of 30 percent, berekend aan de hand van de volgende tabel: Bij een douanewaarde voor de auto van meer dan
+ maar niet meer dan
+ bedraagt de belasting in kolom III vermelde bedrag dat wordt vermeerderd met het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare bedrag dat het in kolom I vermelde bedrag te boven gaat
+ I
+ II
+ III
+ IV
+ USD 20 000
+ 
+ 18 percent
+ USD 20 000
+ USD 30 000
+ USD 3 600
+ 22 percent
+ USD 30 000
+ 
+ USD 5 800
+ 30 percent
 
 2. In afwijking in zoverre van het eerste lid, onderdeel b, geldt voor het in dat onderdeel opgenomen percentage van 18 voor niet gebruikte personenauto’s en bestelauto’s een percentage van 10 en gelden voor de in de derde kolom opgenomen bedragen van USD 3 600 en USD 5 800 bedragen van USD 2 000 en USD 4 200.
 
-### Afdeling 3. Vrijstellingen
+#### Afdeling 3. Vrijstellingen
 
 ##### Artikel 6.20
 
@@ -892,7 +894,7 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 2. De inspecteur beslist bij voor bezwaar vatbare beschikking op een schriftelijk verzoek van een producent voor de in het eerste lid, onderdeel a, bedoelde aanwijzing.
 
-### Afdeling 4. Wijze van heffing
+#### Afdeling 4. Wijze van heffing
 
 ##### Artikel 6.21
 
@@ -902,7 +904,7 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 3. Belasting waarvan op grond van het tweede lid teruggaaf wordt verleend komt niet voor aftrek op de voet van [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.3&z=2026-04-11&g=2026-04-11), in aanmerking. Heeft de aftrek reeds plaatsgevonden dan wordt de producent die de aftrek heeft genoten het in aftrek gebrachte bedrag alsnog, op aangifte als bedoeld in [artikel 6.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=4&artikel=6.15&z=2026-04-11&g=2026-04-11), verschuldigd.
 
-## Titel 4. Bijzondere regelingen
+### Titel 4. Bijzondere regelingen
 
 ##### Artikel 6.22
 
@@ -928,7 +930,7 @@ De inspecteur is bevoegd op schriftelijk verzoek bij voor bezwaar vatbare beschi
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de toepassing van dit artikel en kunnen ondernemers worden aangewezen waarop in afwijking van het bepaalde in de tweede volzin van het zesde lid de bepalingen van dit hoofdstuk niet of gedeeltelijk niet van toepassing zijn.
 
-## Titel 5. Bijzondere bepalingen
+### Titel 5. Bijzondere bepalingen
 
 ##### Artikel 6.23
 
@@ -962,13 +964,11 @@ Bij ministeriële regeling kunnen:
 
 - b. andere in het kader van het hoofdstuk passende nadere regels worden gesteld inzake de toepassing van dit hoofdstuk en ter aanvulling van de in dit hoofdstuk geregelde onderwerpen.
 
-## Titel 6. Slotbepalingen
+### Titel 6. Slotbepalingen
 
 ##### Artikel 6.27
 
 1. Hij die ingevolge een vóór de inwerkingtreding van een wijziging in de wetgeving inzake algemene bestedingsbelasting gesloten overeenkomst verplicht is goederen te leveren of een dienst te verlenen, is bevoegd hetgeen met betrekking tot die goederen of die dienst wegens algemene bestedingsbelasting meer is gevorderd dan vóór de inwerkingtreding van die wijziging had kunnen geschieden, terug te vorderen van degene aan wie hij de goederen moet leveren of de dienst moet verlenen. Hiermee strijdige bedingen zijn nietig.
-
-2.
 
 Hij aan wie ingevolge een vóór de inwerkingtreding van een wijziging in de wetgeving inzake algemene bestedingsbelasting gesloten overeenkomst goederen worden geleverd of een dienst wordt verleend, is bevoegd van hem die verplicht is de goederen te leveren of de dienst te verlenen, terug te vorderen hetgeen met betrekking tot die goederen of dienst wegens algemene bestedingsbelasting minder is gevorderd dan vóór de inwerkingtreding van die wijziging had kunnen geschieden. Hiermee strijdige bedingen zijn nietig.
 
@@ -982,23 +982,23 @@ Ingeval van wijziging van de in dit hoofdstuk genoemde tarieven van heffing word
 
 ### Hoofdstuk VII. Overdrachtsbelasting
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 7.1
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **overdracht:** de verkrijging door natuurlijke personen en rechtspersonen van onroerende zaken of schepen als ook de vestiging, afstand en opzegging van vruchtgebruik, van gebruik en van bewoning, erfdienstbaarheden, erfpacht, opstal, grondrenten, hetzij in geld hetzij in natura verschuldigd, alsmede de rechtsvorderingen dienende om onroerende zaken of de rechten waaraan deze zijn onderworpen terug te eisen of te doen overdragen;
+- a. *overdracht:* de verkrijging door natuurlijke personen en rechtspersonen van onroerende zaken of schepen als ook de vestiging, afstand en opzegging van vruchtgebruik, van gebruik en van bewoning, erfdienstbaarheden, erfpacht, opstal, grondrenten, hetzij in geld hetzij in natura verschuldigd, alsmede de rechtsvorderingen dienende om onroerende zaken of de rechten waaraan deze zijn onderworpen terug te eisen of te doen overdragen;
 
-- b. **onroerende zaken:** onroerende zaken welke op de BES eilanden gelegen zijn en de rechten waaraan deze zijn onderworpen;
+- b. *onroerende zaken:* onroerende zaken welke op de BES eilanden gelegen zijn en de rechten waaraan deze zijn onderworpen;
 
-- c. **schepen:** op de BES eilanden geregistreerde schepen, metende ten minste 20 kubieke meters bruto inhoud.
+- c. *schepen:* op de BES eilanden geregistreerde schepen, metende ten minste 20 kubieke meters bruto inhoud.
 
 ##### Artikel 7.2
 
 Onverminderd de bepalingen van het Burgerlijk Wetboek BES en het [Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278) omtrent overdracht van onroerende zaken en schepen, moeten oprichtingen van een naamloze vennootschap, besloten vennootschap, coöperatie of vereniging waarbij onroerende zaken of schepen worden ingebracht, op straffe van nietigheid geschieden bij op de BES eilanden verleden authentieke akte.
 
-## Titel 2. Aard van belasting
+### Titel 2. Aard van belasting
 
 ##### Artikel 7.3
 
@@ -1022,11 +1022,11 @@ Onverminderd de bepalingen van het Burgerlijk Wetboek BES en het [Wetboek van Ko
 
 - f. krachtens of op grond van een verdeling tussen deelgenoten als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VII&titeldeel=3&artikel=7.11&z=2026-04-11&g=2026-04-11) voor zover de overeenkomst betrekking heeft op het geval van overlijden en geen vergoeding is bedongen;
 
-- g. van een nieuw vervaardigd gebouw of werk als bedoeld in [artikel 6.4, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), en het bij dat gebouw of werk behorende terrein.
+- g. van een nieuw vervaardigd gebouw of werk als bedoeld in [artikel 6.4, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11), en het bij dat gebouw of werk behorende terrein.
 
 2. Het eerste lid, onderdeel e, is niet van toepassing op verdelingen tussen deelgenoten als bedoeld in [artikel 7.6 tot en met 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VII&titeldeel=3&artikel=7.6&z=2026-04-11&g=2026-04-11) waarvan de titel van de gemeenschap is vermeld en de gemeenschap behoorlijk is aangetoond.
 
-## Titel 3. Verdeling van een gemeenschap
+### Titel 3. Verdeling van een gemeenschap
 
 ##### Artikel 7.5
 
@@ -1080,7 +1080,7 @@ Indien bij een verdeling als bedoeld bij [artikelen 7.6](https://wetten.overheid
 
 2. Het vorige lid is van overeenkomstige toepassing indien bedoelde overeenkomst betrekking heeft op het geval van overlijden, doch slechts voor zover de belasting schuldig is over de waarde die aan de erfgenamen of rechtverkrijgenden van de overledene wordt vergoed.
 
-## Titel 4. Bedrag en grondslagen
+### Titel 4. Bedrag en grondslagen
 
 ##### Artikel 7.12
 
@@ -1092,9 +1092,9 @@ Onder waarde wordt verstaan: waarde in het economische verkeer.
 
 ##### Artikel 7.14
 
-In geval van overdracht binnen zes maanden na een vorige overdracht van dezelfde onroerende zaak of hetzelfde schip door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige overdracht overdrachtsbelasting of algemene bestedingsbelasting was verschuldigd, voor zover de algemene bestedingsbelasting niet ingevolge [artikel 6.3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.3&z=2026-04-11&g=2026-04-11), in aftrek is of kan worden gebracht.
+In geval van overdracht binnen zes maanden na een vorige overdracht van dezelfde onroerende zaak of hetzelfde schip door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige overdracht overdrachtsbelasting of algemene bestedingsbelasting was verschuldigd, voor zover de algemene bestedingsbelasting niet ingevolge [artikel 6.3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.3&z=2026-04-11&g=2026-04-11), in aftrek is of kan worden gebracht.
 
-## Titel 5. Belastingschuld, voldoening, teruggave en verjaring
+### Titel 5. Belastingschuld, voldoening, teruggave en verjaring
 
 ##### Artikel 7.15
 
@@ -1140,7 +1140,7 @@ Bij ministeriële regeling kunnen regels worden gesteld welke ertoe strekken, da
 
 Het recht tot dwanginvordering van de belasting verschuldigd op een niet geregistreerde akte verjaart na twintig jaren na de dagtekening van deze akte. Als die dagtekening geldt de dagtekening van de akte, tenzij het tegendeel blijkt. Het recht tot dwanginvordering van de belasting van een niet geregistreerd vonnis verjaart na drie jaren na de dagtekening van het vonnis.
 
-## Titel 6. Bijzondere bepalingen
+### Titel 6. Bijzondere bepalingen
 
 ##### Artikel 7.22
 
@@ -1164,7 +1164,7 @@ Bij ministeriële regeling kunnen:
 
 ### Hoofdstuk VIIa. Kansspelbelasting
 
-## Titel 1. Belastingplicht
+### Titel 1. Belastingplicht
 
 ##### Artikel 7a.1
 
@@ -1190,7 +1190,7 @@ Onder de naam «kansspelbelasting» wordt een directe belasting geheven van:
 
 3. Kansspelen worden als buitenlands beschouwd, indien zij niet vallen onder het tweede lid.
 
-## Titel 2. Voorwerp van de belasting
+### Titel 2. Voorwerp van de belasting
 
 ##### Artikel 7a.3
 
@@ -1204,7 +1204,7 @@ Onder de naam «kansspelbelasting» wordt een directe belasting geheven van:
 
 3. Voor zover de prijzen niet in geld bestaan, worden zij in aanmerking genomen naar de waarde welke daaraan in het economische verkeer kan worden toegekend.
 
-## Titel 3. Vrijstellingen
+### Titel 3. Vrijstellingen
 
 ##### Artikel 7a.4
 
@@ -1216,7 +1216,7 @@ Onder de naam «kansspelbelasting» wordt een directe belasting geheven van:
 
 2. Alle prijzen uit loterijen en prijsvragen welke verschuldigd zijn door dezelfde schuldenaar en vallen op loten of onderdelen van loten op grond van dezelfde toevallige gebeurtenis, worden voor de toepassing van het eerste lid tezamen als één prijs beschouwd.
 
-## Titel 4. Tarief
+### Titel 4. Tarief
 
 ##### Artikel 7a.5
 
@@ -1224,7 +1224,7 @@ Onder de naam «kansspelbelasting» wordt een directe belasting geheven van:
 
 2. Neemt, in het geval waarin [artikel 7a.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIa&titeldeel=1&artikel=7a.1&z=2026-04-11&g=2026-04-11), van toepassing is, degene die de prijs verschuldigd is, de belasting voor zijn rekening, dan wordt voor het berekenen van de belasting de prijs met 100/90 vermenigvuldigd.
 
-## Titel 5. Wijze van heffing
+### Titel 5. Wijze van heffing
 
 ##### Artikel 7a.6
 
@@ -1264,9 +1264,125 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 - b. vorderbaar en tevens inbaar wordt.
 
+### Hoofdstuk VIIb. Minimumbelasting
+
+### Titel 1. Algemene bepalingen
+
+##### Artikel 7b.1. Toepassing Wet minimumbelasting 2024
+
+1. Met betrekking tot groepsentiteiten als bedoeld in [artikel 2.1 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=2.1) die op grond van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I&artikel=1.5&z=2026-04-11&g=2026-04-11) in samenhang met [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V&titeldeel=1&artikel=5.2&z=2026-04-11&g=2026-04-11) zijn gevestigd op de BES eilanden of die een op de BES eilanden gelegen vaste inrichting zijn als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) is de [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111), met uitzondering van de artikelen, bedoeld in het derde lid, van overeenkomstige toepassing, met dien verstande dat daarbij:
+
+- a. wordt gelezen voor:
+
+   - 1°. Nederland: de BES eilanden;
+
+   - 2°. in Nederland: op de BES eilanden;
+
+- b. in de in [artikel 1.2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) opgenomen definities van kwalificerende binnenlandse bijheffing, kwalificerende inkomen-inclusiemaatregel en kwalificerende onderbelastewinstmaatregel, en in [artikel 6.2, tweede lid, onderdeel a, onder 4°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=6.2) de zinsnede «, met betrekking tot derde staten,» buiten toepassing blijft;
+
+- c. in [artikel 4.1, eerste lid, aanhef, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=4.1) de zinsnede «of door een in een lidstaat gevestigde uiteindelijkemoederentiteit die een uitgesloten entiteit is» buiten toepassing blijft;
+
+- d. in [artikel 13.3, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.3) wordt gelezen voor [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23): [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+
+2. In afwijking van de in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) opgenomen definitie van derde staat wordt daaronder voor de toepassing van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) op groepsentiteiten als bedoeld in het eerste lid, aanhef, verstaan: het Koninkrijk der Nederlanden met uitzondering van de BES eilanden, en elke andere staat.
+
+3. [Artikel 5.1, eerste lid, onderdeel c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=5.1), de [hoofdstukken 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12) en [artikel 14.3 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.3) zijn niet van overeenkomstige toepassing op groepsentiteiten als bedoeld in het eerste lid, aanhef.
+
+### Titel 2. Wijze van heffing
+
+##### Artikel 7b.2. Voldoening op aangifte
+
+1. De in een tijdvak verschuldigd geworden belasting wordt op aangifte voldaan.
+
+2. In afwijking van [artikel 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), en [artikel 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), stelt de inspecteur de termijn voor het doen van aangifte zodanig vast dat deze niet eerder verstrijkt dan zeventien maanden na het einde van het tijdvak.
+
+3. In afwijking van [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), is de belastingplichtige gehouden de belasting overeenkomstig de aangifte aan de ontvanger te betalen binnen zeventien maanden na het einde van het tijdvak.
+
+4. Indien [artikel 8.4, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.4) toepassing vindt op een bedrag aan ingevolge [hoofdstuk 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3) verschuldigde binnenlandse bijheffing vervalt de betalingsverplichting voor dat bedrag aan binnenlandse bijheffing.
+
+##### Artikel 7b.3. Naheffing
+
+1. In afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), vervalt de bevoegdheid tot naheffing door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+2. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), de bevoegdheid tot naheffing door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+3. Indien [artikel 8.4, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.4) toepassing vindt op een bedrag aan ingevolge [hoofdstuk 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3) verschuldigde binnenlandse bijheffing vervalt:
+
+- a. de bevoegdheid tot naheffing met betrekking tot dat bedrag; en
+
+- b. een voor dat bedrag reeds opgelegde naheffingsaanslag die nog niet is ingevorderd.
+
+##### Artikel 7b.4. Inlichtingenverplichting
+
+1. De belastingplichtige is gehouden de inspecteur eigener beweging juiste en volledige inlichtingen of gegevens die van belang kunnen zijn voor de heffing van de belasting te verstrekken binnen twee weken nadat hem bekend is geworden dat die inlichtingen of gegevens niet, onjuist of onvolledig door hem zijn verstrekt.
+
+2. De verplichting, bedoeld in het eerste lid, wordt nagekomen op de door de inspecteur aangegeven wijze.
+
+3. De verplichting, bedoeld in het eerste lid, vervalt door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de verplichting, bedoeld in het eerste lid, door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+### Titel 3. Bestuurlijke boeten en aansprakelijkheid
+
+##### Artikel 7b.5. Bestuurlijke boeten
+
+1. Voor de toepassing van [artikel 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.22&z=2026-04-11&g=2026-04-11), vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de ingevolge [artikel 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), dan wel [artikel 7b.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gestelde termijn.
+
+2. Voor de toepassing van [artikel 8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), vormt het verzuim het niet, gedeeltelijk niet, dan wel niet binnen de ingevolge [artikel 7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), dan wel [artikel 7b.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gestelde termijn betalen van de belasting.
+
+3. In afwijking van de [artikelen 8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.26&z=2026-04-11&g=2026-04-11), vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van de [artikelen 8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.26&z=2026-04-11&g=2026-04-11), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+##### Artikel 7b.6. Vergrijpboete overtreden inlichtingenverplichting
+
+1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de verplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), niet is of wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag van de boete.
+
+2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), ten onrechte niet zou zijn geheven.
+
+3. De bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid vervalt door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+
+##### Artikel 7b.7. Hoofdelijke aansprakelijkheid
+
+Hoofdelijk aansprakelijk is voor de minimumbelasting die over een tijdvak is geheven van een groepsentiteit behorend tot een multinationale groep of binnenlandse groep als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2): elk van de groepsentiteiten die in dat tijdvak deel uitmaakt of uitmaakte van die multinationale groep of binnenlandse groep.
+
+### Titel 4. Transitieregels
+
+##### Artikel 7b.8. Transitieregels wijze van heffing en bijheffing-informatieaangifte
+
+1. In afwijking van de [artikelen 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), [8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), en [7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), stelt de inspecteur de termijn voor het doen van aangifte over het overgangsjaar zodanig vast dat deze niet eerder verstrijkt dan twintig maanden na het einde van dat tijdvak.
+
+2. In afwijking van de [artikelen 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), en [7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), is de belastingplichtige gehouden de belasting over het overgangsjaar aan de ontvanger overeenkomstig de aangifte te betalen binnen twintig maanden na het einde van dat tijdvak.
+
+3. In afwijking van [artikel 13.1, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1) worden de bijheffing-informatieaangifte en kennisgeving, bedoeld in dat artikel, met betrekking tot het overgangsjaar binnen achttien maanden na het einde van dat tijdvak ingediend bij de inspecteur.
+
+4. Dit artikel vindt geen toepassing indien door de multinationale groep waartoe de belastingplichtige behoort voorafgaand aan het overgangsjaar een bijheffing-informatieaangifte is ingediend in een andere staat waarmee Nederland voor wat betreft de BES eilanden voor dat jaar een kwalificerende overeenkomst tussen bevoegde autoriteiten als bedoeld in [artikel 13.1, eerste lid, onderdeel b, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1)heeft.
+
+5. Voor de toepassing van dit artikel wordt onder overgangsjaar verstaan: het eerste verslagjaar waarin een multinationale groep als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) met betrekking tot de BES eilanden regels ter implementatie van Richtlijn (EU) 2022/2525 of van de OESO-modelregels dient toe te passen, of het eerste verslagjaar waarin een binnenlandse groep als bedoeld in artikel 1.2, eerste lid, van die wet in samenhang met [artikel 7b.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=1&artikel=7b.1&z=2026-04-11&g=2026-04-11), voldoet aan de criteria, bedoeld in [artikel 2.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=2.1).
+
+##### Artikel 7b.9. Transitieregels termijnen bij een verslagjaar dat eindigt vóór 31 maart 2025
+
+Indien het overgangsjaar eindigt vóór 31 december 2024 of het verslagjaar eindigt vóór 31 maart 2025:
+
+- a. worden, in afwijking van [artikel 13.1, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1) en [artikel 7b.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), de bijheffing-informatieaangifte en de kennisgeving met betrekking tot dat overgangsjaar of verslagjaar vóór 30 juni 2026 ingediend.
+
+- b. verstrijkt de termijn voor het doen van aangifte, in afwijking van [artikel 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), [artikel 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11) en [artikel 7b.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), niet eerder dan 1 september 2026.
+
+- c. is de belastingplichtige, in afwijking van [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), [artikel 7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), en [artikel 7b.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gehouden vóór 1 september 2026 de belasting over dat overgangsjaar of verslagjaar overeenkomstig de aangifte aan de ontvanger te betalen.
+
+- d. vervalt de bevoegdheid tot naheffing, in afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), en [artikel 7b.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), op 1 augustus 2031.
+
+- e. vervalt de inlichtingenverplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), in afwijking van artikel 7b.4, derde en vierde lid, op 1 augustus 2031.
+
+- f. vervalt, in afwijking van [artikel 8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [artikel 7b.5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=3&artikel=7b.5&z=2026-04-11&g=2026-04-11), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen op 1 augustus 2031.
+
+- g. vervalt de bevoegdheid tot het opleggen van een vergrijpboete, bedoeld in [artikel 7b.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=3&artikel=7b.6&z=2026-04-11&g=2026-04-11), in afwijking van artikel 7b.6, derde en vierde lid, op 1 augustus 2031.
+
 ### Hoofdstuk VIII. Formeel belastingrecht en invordering van bes belastingen
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 8.1
 
@@ -1282,9 +1398,9 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 3. De inspecteur vermeldt op het aanslagbiljet of in de kennisgeving van de beschikking of uitspraak in ieder geval de termijn of de termijnen waarbinnen het verschuldigde of terug te geven bedrag moet worden betaald.
 
-## Titel 2. Wijze van heffing
+### Titel 2. Heffing van BES belastingen
 
-### Afdeling 1. De aangifte
+#### Afdeling 1. De aangifte
 
 ##### Artikel 8.3. Aangifte, uitnodiging op verzoek
 
@@ -1330,7 +1446,15 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 2. In afwijking van hetgeen in deze wet is bepaald, is de belastingplichtige die voornemens is de BES eilanden metterwoon te verlaten dan wel voornemens is zijn plaats van vestiging over te brengen naar een niet op de BES eilanden gelegen plaats, verplicht terstond aangifte te doen voor de inkomstenbelasting, bedoeld in de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281), de opbrengstbelasting en de algemene bestedingsbelasting tot het einde van de belastingplicht.
 
-### Afdeling 2. Heffing bij wege van aanslag
+##### Artikel 8.6a. Mededelingsplicht
+
+1. In bij algemene maatregel van bestuur aan te wijzen gevallen kunnen belastingplichtigen of inhoudingsplichtigen worden gehouden de inspecteur eigener beweging mededeling te doen van onjuistheden of onvolledigheden in voor de belastingheffing van belang zijnde gegevens en inlichtingen die hun bekend zijn of zijn geworden.
+
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de mededeling gedaan moet worden.
+
+3. Bij algemene maatregel van bestuur kan het niet nakomen van de verplichting worden aangemerkt als een overtreding. Indien het niet nakomen van de verplichting is te wijten aan opzet of grove schuld van de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting niet is of zou zijn geheven.
+
+#### Afdeling 2. Heffing bij wege van aanslag
 
 ##### Artikel 8.7. Afwijken van aangifte, aanslagtermijn
 
@@ -1338,7 +1462,7 @@ De belastingplichtige is gehouden volgens door Onze Minister te stellen regelen 
 
 2. De inspecteur kan bij het vaststellen van de aanslag van de aangifte gemotiveerd afwijken, alsmede bij het ontbreken van de aangifte de aanslag ambtshalve vaststellen.
 
-3. De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaar na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd. Indien binnen zes maanden voor het einde van de termijn een verzoek als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.3&z=2026-04-11&g=2026-04-11), wordt gedaan, of gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die termijn met zes maanden verlengd.
+3. De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaar na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd. Indien binnen zes maanden voor het einde van de termijn een verzoek als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.3&z=2026-04-11&g=2026-04-11), wordt gedaan, of gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die termijn met zes maanden verlengd.
 
 4. Een belastingschuld waarvan de grootte eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, wordt geacht te zijn ontstaan op het tijdstip waarop dat tijdvak of de belastingplicht eindigt.
 
@@ -1380,13 +1504,13 @@ De inspecteur neemt het besluit om aan hem die aangifte heeft gedaan, geen aansl
 
 - c. de belastingvrije som, bedoeld in [artikel 24, tweede lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24) ten onrechte of tot een te hoog bedrag is verleend.
 
-3. De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. [Artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=2&artikel=8.7&z=2026-04-11&g=2026-04-11), is hierbij van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd.
+3. De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. [Artikel 8.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=2&artikel=8.7&z=2026-04-11&g=2026-04-11), is hierbij van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd.
 
 4. Indien te weinig belasting is geheven over het bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen, vervalt, in afwijking van het derde lid, de bevoegdheid tot navorderen door verloop van twaalf jaren na het tijdstip waarop de belastingschuld is ontstaan.
 
-5. Indien binnen zes maanden voor het einde van de termijn, bedoeld in het derde lid, eerste zin, of van de termijn, bedoeld in het vierde lid, gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die verstrekking van gegevens aangemerkt als het op uitnodiging doen van aangifte, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.3&z=2026-04-11&g=2026-04-11), en wordt de termijn met zes maanden verlengd.
+5. Indien binnen zes maanden voor het einde van de termijn, bedoeld in het derde lid, eerste zin, of van de termijn, bedoeld in het vierde lid, gegevens worden verstrekt zonder een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte en die gegevens ook en op dezelfde wijze zouden moeten worden verstrekt in geval van een aan die verstrekking van gegevens voorafgaande uitnodiging tot het doen van aangifte, wordt die verstrekking van gegevens aangemerkt als het op uitnodiging doen van aangifte, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.3&z=2026-04-11&g=2026-04-11), en wordt de termijn met zes maanden verlengd.
 
-### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
+#### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
 
 ##### Artikel 8.11. Verplichting, voldoening of afdracht op aangifte
 
@@ -1410,9 +1534,9 @@ De inspecteur neemt het besluit om aan hem die aangifte heeft gedaan, geen aansl
 
 4. De bevoegdheid tot naheffing vervalt door verloop van vijf jaar na het einde van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.
 
-## Titel 2. Heffing van BES belastingen
+### Titel 3. Bijzondere bepalingen voor de belastingheffing
 
-### Afdeling 1. De aangifte
+#### Afdeling 1. Vertegenwoordiging
 
 ##### Artikel 8.13. Volmacht, weigeren vertegenwoordiging
 
@@ -1442,7 +1566,7 @@ De inspecteur kan vertegenwoordiging uitsluiten in de nakoming van een verplicht
 
 De bepalingen van deze afdeling gelden niet met betrekking tot strafvordering.
 
-### Afdeling 2. Heffing bij wege van aanslag
+#### Afdeling 2. Domiciliekeuze
 
 ##### Artikel 8.17. Domiciliekeuze
 
@@ -1456,7 +1580,7 @@ Ingeval ingevolge de belastingwet een aangiftebiljet of ander stuk moet worden u
 
 - b. aan de woning of het kantoor van zijn op de BES eilanden wonende of gevestigde vertegenwoordiger.
 
-### Afdeling 3. Toekenning van bevoegdheden
+#### Afdeling 3. Toekenning van bevoegdheden
 
 ##### Artikel 8.19. Hardheidsclausule
 
@@ -1482,9 +1606,9 @@ Onze Minister is bevoegd:
 
 - a. de vereiste aangifte niet is gedaan; of
 
-- b. niet volledig is voldaan aan de verplichtingen ingevolge de [artikelen 8.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=3&afdeling=1&artikel=8.13&z=2026-04-11&g=2026-04-11), [8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11), [8.86](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.86&z=2026-04-11&g=2026-04-11), [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11) en [8.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11) voor zover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen.
+- b. niet volledig is voldaan aan de verplichtingen ingevolge de [artikelen 8.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=3&afdeling=1&artikel=8.13&z=2026-04-11&g=2026-04-11), [8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11), [8.86](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.86&z=2026-04-11&g=2026-04-11), [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11) en [8.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11) voor zover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen.
 
-### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
+#### Afdeling 4. Geheimhouding
 
 ##### Artikel 8.21. Geheimhouding
 
@@ -1500,21 +1624,21 @@ Onze Minister is bevoegd:
 
 3. Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod.
 
-## Titel 3. Bijzondere bepalingen voor de belastingheffing
+### Titel 4. Bestuurlijke boeten
 
-### Afdeling 1. Vertegenwoordiging
+#### Afdeling 1. Verzuim- en vergrijpboeten
 
 ##### Artikel 8.22. Verzuim aangifte doen
 
-1. Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge [artikel 8.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.4&z=2026-04-11&g=2026-04-11), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag een boete van ten hoogste USD 1 400 kan opleggen.
+1. Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge [artikel 8.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.4&z=2026-04-11&g=2026-04-11), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag een boete van ten hoogste USD 1 400 kan opleggen.
 
-2. Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de ingevolge [artikel 8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 1 400 kan opleggen.
+2. Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de ingevolge [artikel 8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 1 400 kan opleggen.
 
 3. De bevoegdheid tot het opleggen van een boete wegens het niet dan wel niet tijdig doen van de aangifte vervalt door het verloop van een jaar na het einde van de termijn waarbinnen de aangifte had moeten worden gedaan.
 
 ##### Artikel 8.23. Verzuim voldoening of afdracht op aangifte
 
-1. Indien de belastingplichtige of inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de ingevolge [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), gestelde termijn heeft betaald, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 5 600 kan opleggen.
+1. Indien de belastingplichtige of inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de ingevolge [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), gestelde termijn heeft betaald, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 5 600 kan opleggen.
 
 2. Bij niet of gedeeltelijk niet betalen legt de inspecteur de boete op, gelijktijdig met de vaststelling van de naheffingsaanslag.
 
@@ -1524,9 +1648,27 @@ Onze Minister is bevoegd:
 
 ##### Artikel 8.24. Verzuim verstrekken opgave werknemers en niet-werknemers
 
-1. Indien de administratieplichtige niet, niet tijdig of niet volledig de opgave, bedoeld in [artikel 8.87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11), verstrekt, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 2 800 kan opleggen.
+1. Indien de administratieplichtige niet, niet tijdig of niet volledig de opgave, bedoeld in [artikel 8.87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11), verstrekt, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 2 800 kan opleggen.
 
 2. De bevoegdheid tot het opleggen van een boete als bedoeld in het eerste lid vervalt door verloop van een jaar na het einde van de termijn waarbinnen de opgave, bedoeld in [artikel 8.87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11), had moeten worden verstrekt.
+
+##### Artikel 8.24a. Verzuim indienen jaarrekening
+
+1. Indien een lichaam dat op grond van [artikel 8.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11) gehouden is een jaarrekening in te dienen de jaarrekening niet of niet tijdig indient, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 14 000 kan opleggen.
+
+2. De bevoegdheid tot het opleggen van een boete als bedoeld in het eerste lid vervalt door verloop van een jaar na het einde van de termijn waarbinnen de jaarrekening, bedoeld in [artikel 8.87a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11), had moeten worden ingediend.
+
+##### Artikel 8.24b. Vergrijp niet, onjuist of onvolledig doen van aangifte
+
+1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat met betrekking tot een belasting welke bij wege van aanslag wordt geheven, de aangifte niet, dan wel onjuist of onvolledig is gedaan, vormt dit een vergrijp ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een bestuurlijke boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor die bestuurlijke boete.
+
+2. De grondslag voor de bestuurlijke boete wordt, voor zover een bedrag als gevolg van de opzet of grove schuld van de belastingplichtige niet is of zou zijn geheven, gevormd door:
+
+- a. het bedrag van de aanslag; of
+
+- b. indien verliezen ten onrechte in aanmerking zijn of worden genomen: het bedrag waarop de aanslag zou zijn berekend zonder rekening te houden met die verliezen.
+
+3. Indien verliezen in aanmerking zijn of worden genomen en als gevolg daarvan geen aanslag kan worden vastgesteld, kan de inspecteur de bestuurlijke boete niettemin opleggen. De bevoegdheid tot het opleggen van de bestuurlijke boete vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld zou zijn ontstaan indien geen verliezen in aanmerking zouden zijn genomen.
 
 ##### Artikel 8.25. Vergrijp aanslagbelastingen
 
@@ -1558,7 +1700,7 @@ een en ander voor zover dat bedrag als gevolg van de opzet of de grove schuld va
 
 6. [Artikel 8.12, tweede lid, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), tweede volzin, zijn van overeenkomstige toepassing.
 
-### Afdeling 2. Domiciliekeuze
+#### Afdeling 2. Voorschriften inzake het opleggen van bestuurlijke boeten
 
 ##### Artikel 8.27. Aankondiging vergrijpboete
 
@@ -1567,6 +1709,16 @@ een en ander voor zover dat bedrag als gevolg van de opzet of de grove schuld va
 2. De inspecteur stelt de belastingplichtige of inhoudingsplichtige in de gelegenheid binnen een door hem daarvoor te stellen termijn van ten minste twee weken de in die kennisgeving vermelde gronden gemotiveerd te betwisten.
 
 3. Indien niet is voldaan aan het bepaalde in het eerste of tweede lid, heeft dat niet de nietigheid van de boete tot gevolg.
+
+##### Artikel 8.27a. Vergrijpboete na verzuimboete
+
+1. Indien nieuwe bezwaren bekend zijn geworden kan de inspecteur een vergrijpboete opleggen wegens hetzelfde feit als waarvoor eerder een verzuimboete is opgelegd. Als nieuwe bezwaren als bedoeld in de eerste volzin kunnen enkel worden aangemerkt verklaringen van de belastingplichtige of inhoudingsplichtige of van derden en boeken, bescheiden en andere gegevensdragers of de inhoud daarvan, die later bekend zijn geworden of niet zijn onderzocht.
+
+2. Bij het opleggen van een vergrijpboete als bedoeld in het eerste lid vermeldt de inspecteur waaruit de nieuwe bezwaren bestaan.
+
+3. De eerder opgelegde verzuimboete wordt verrekend met de wegens hetzelfde feit opgelegde vergrijpboete.
+
+4. Bij toepassing van dit artikel vervalt de voorwaarde van gelijktijdigheid als bedoeld in [artikel 8.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.25&z=2026-04-11&g=2026-04-11).
 
 ##### Artikel 8.28. Boete bij beschikking
 
@@ -1626,9 +1778,9 @@ Indien de grondslag voor een boete wordt gevormd door het bedrag van de belastin
 
 Deze afdeling is van overeenkomstige toepassing ten aanzien van anderen dan de belastingplichtige of inhoudingsplichtige aan wie ingevolge de belastingwet een bestuurlijke boete kan worden opgelegd.
 
-## Titel 5. De invordering van bes belastingen
+### Titel 5. De invordering van bes belastingen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 8.38. Taken en bevoegdheden ontvanger
 
@@ -1656,7 +1808,7 @@ De toerekening en afschrijving van de betalingen of van de tot verhaal van het v
 
 ##### Artikel 8.41. Geen schorsing
 
-Naast het bepaalde in de [artikelen 8.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=1&artikel=8.96&z=2026-04-11&g=2026-04-11) en [8 102](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102&z=2026-04-11&g=2026-04-11) wordt de verplichting tot betaling van de BES belastingen niet geschorst door:
+Naast het bepaalde in de [artikelen 8.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=1&artikel=8.96&z=2026-04-11&g=2026-04-11) en [8 102](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102&z=2026-04-11&g=2026-04-11) wordt de verplichting tot betaling van de BES belastingen niet geschorst door:
 
 - a. verkrijging van surseance van betaling voor zover volgens het [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917) de surseance ten aanzien van de verplichting tot betaling niet werkt;
 
@@ -1668,7 +1820,7 @@ Naast het bepaalde in de [artikelen 8.96](https://wetten.overheid.nl/jci1.3:c:BW
 
 Op het bezwaar en beroep inzake de op grond van deze titel genomen beschikkingen is titel 8 van overeenkomstige toepassing.
 
-### Afdeling 2. Invordering in eerste aanleg
+#### Afdeling 2. Invordering in eerste aanleg
 
 ##### Artikel 8.42. Aanslagbiljet
 
@@ -1678,13 +1830,13 @@ Een belastingaanslag is door de belastingschuldige in zijn geheel verschuldigd.
 
 1. Een belastingaanslag is invorderbaar twee maanden na de dagtekening van het aanslagbiljet.
 
-2. In afwijking van het eerste lid is een voorlopige aanslag, gedagtekend vóór 1 november van het belastingjaar waarop deze betrekking heeft, invorderbaar in zoveel gelijke termijnen als er na de maand van dagtekening van het aanslagbiljet nog maanden in het belastingjaar overblijven. Op de laatste dag van elk van die maanden vervalt een termijn.
+2. In afwijking van het eerste lid is een voorlopige aanslag, gedagtekend vóór 1 november van het belastingjaar waarop deze betrekking heeft, invorderbaar in zoveel gelijke termijnen als er na de maand van dagtekening van het aanslagbiljet nog maanden in het belastingjaar overblijven. Op de laatste dag van elk van die maanden vervalt een termijn.
 
 3. In afwijking van het eerste lid is een naheffingsaanslag alsmede een navorderingsaanslag invorderbaar een maand na dagtekening van het aanslagbiljet.
 
 4. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de in de voorgaande leden gestelde termijnen.
 
-### Afdeling 2. Invordering in eerste aanleg
+#### Afdeling 3. Invordering in tweede aanleg
 
 ##### Artikel 8.44. Aanmaning en interest
 
@@ -1772,7 +1924,7 @@ Indien een dwangschrift, uitgevaardigd voor een gedeelte van het in te vorderen 
 
 3. De ontvanger vervolgt degene die in gebreke blijft aan de vordering te voldoen bij executoriaal beslag volgens de regels in [Boek 2, titel 2, afdeling 2, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&afdeling=2). De kosten van vervolging komen voor rekening van degene die in gebreke blijft aan de vordering te voldoen, zonder recht van verhaal op de belastingschuldige.
 
-### Afdeling 4. Bijzondere bepalingen voor de invordering
+#### Afdeling 4. Bijzondere bepalingen voor de invordering
 
 #### Paragraaf 1. Verhaalsrechten
 
@@ -1788,7 +1940,7 @@ Indien een dwangschrift, uitgevaardigd voor een gedeelte van het in te vorderen 
 
 2. Derden kunnen echter nimmer verzet in rechte doen tegen de inbeslagneming van roerende zaken, tot stoffering van een huis of ten gebruike van het bedrijf dienende, alsmede van ingeoogste vruchten, wanneer die zaken of vruchten zich tijdens de inbeslagneming bevinden in het bezit van de schuldenaar of in het huis, in de bedrijfsruimte of op het erf, door hem bewoond of bij hem in gebruik.
 
-#### Paragraaf 1. Verhaalsrechten
+#### Paragraaf 2. Uitstel van betaling en kwijtschelding
 
 ##### Artikel 8.57. Uitstel van betaling
 
@@ -1808,7 +1960,7 @@ Indien een dwangschrift, uitgevaardigd voor een gedeelte van het in te vorderen 
 
 3. De ontvanger beslist bij voor bezwaar vatbare beschikking op een verzoek om kwijtschelding.
 
-#### Paragraaf 2. Uitstel van betaling en kwijtschelding
+#### Paragraaf 3. Verrekening en verjaring
 
 ##### Artikel 8.59. Verrekening
 
@@ -1834,7 +1986,7 @@ Indien een dwangschrift, uitgevaardigd voor een gedeelte van het in te vorderen 
 
 - e. de belastingschuldige zich metterwoon niet op de BES eilanden bevindt.
 
-### Afdeling 5. Aansprakelijkheid
+#### Afdeling 5. Aansprakelijkheid
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -1852,7 +2004,7 @@ In deze afdeling wordt, in afwijking in zoverre van [artikel 1.3, onderdeel d](h
 
 4. Voor zover de aansprakelijkstelling een bestuurlijke boete betreft, is [afdeling 2 van titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=3&afdeling=2&z=2026-04-11&g=2026-04-11) van toepassing.
 
-#### Paragraaf 1. Algemene bepalingen
+#### Paragraaf 2. Aansprakelijkheidsbepalingen
 
 ##### Artikel 8.63. Aansprakelijkheid voor de algemene bestedingsbelasting
 
@@ -1872,13 +2024,37 @@ Ingeval een niet in het openbaar lichaam van zijn afnemer wonende of gevestigde 
 
 - b. een niet op de BES eilanden gevestigd lichaam: de leider van zijn vaste inrichting op de BES eilanden dan wel zijn op de BES eilanden wonende of gevestigde vaste vertegenwoordiger;
 
-- c. een lichaam dat is ontbonden: ieder van de met de vereffening belaste personen – met uitzondering van de door de rechter benoemde vereffenaar – voor zover het niet betalen van de belasting-, premie- of accijnsschuld het gevolg is van aan hem te wijten kennelijk onbehoorlijk bestuur, met dien verstande dat geen aansprakelijkstelling kan plaatsvinden indien na de ontbinding drie jaren zijn verstreken.
+- c. een lichaam dat is ontbonden: ieder van de met de vereffening belaste personen – met uitzondering van de door de rechter benoemde vereffenaar – voor zover het niet betalen van de belasting-, premie- of accijnsschuld het gevolg is van aan hem te wijten kennelijk onbehoorlijk bestuur, met dien verstande dat geen aansprakelijkstelling kan plaatsvinden indien na de ontbinding drie jaren zijn verstreken.
 
 2. Voor de toepassing van dit artikel wordt als bestuurder aangemerkt de volledig aansprakelijke vennoot van een maat- of vennootschap.
 
 3. Voor de toepassing van dit artikel wordt ingeval een bestuurder van een lichaam zelf een lichaam is, onder bestuurder mede verstaan ieder van de bestuurders van het laatstbedoelde lichaam.
 
 4. Degene die op grond van het eerste lid, onderdelen a en b, aansprakelijk is, is niet aansprakelijk voor zover hij bewijst dat het niet aan hem is te wijten dat de belasting, premie of accijns niet is voldaan.
+
+##### Artikel 8.65a. Bestuurdersaansprakelijkheid volledig rechtsbevoegd lichaam
+
+1. Hoofdelijk aansprakelijk is voor de loonbelasting, de premie op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de premie op grond van de [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), de premie op grond van het Besluit premie zorgverzekering BES, de premie op grond van de Wet Ziektekostenverzekering BES, de premie op grond van de Wet Ongevallenverzekering BES, de premie op grond van de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304) en de premie op grond van het [Besluit Zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404), de vastgoedbelasting, de opbrengstbelasting, de algemene bestedingsbelasting, de overdrachtsbelasting, de kansspelbelasting en de accijnzen verschuldigd door een rechtspersoonlijkheid bezittend lichaam dat volledig rechtsbevoegd is: ieder van de bestuurders overeenkomstig het bepaalde in de volgende leden.
+
+2. Het lichaam, bedoeld in het eerste lid, is verplicht om onverwijld nadat gebleken is dat het niet tot betaling van de in dat lid bedoelde belastingen, premies of accijnzen in staat is, daarvan schriftelijk mededeling te doen aan de ontvanger en, indien de ontvanger dit verlangt, nadere inlichtingen te verstrekken en stukken over te leggen. Elke bestuurder is bevoegd om namens het lichaam aan deze verplichting te voldoen. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van de mededeling, de aard en de inhoud van de te verstrekken inlichtingen en de over te leggen stukken, alsmede de termijnen waarbinnen het doen van de mededeling, het verstrekken van de inlichtingen en het overleggen van de stukken dienen te geschieden.
+
+3. Indien het lichaam op juiste wijze aan zijn in het tweede lid bedoelde verplichting heeft voldaan, is een bestuurder aansprakelijk indien aannemelijk is, dat het niet betalen van de belasting, premie of accijns het gevolg is van aan hem te wijten kennelijk onbehoorlijk bestuur in de periode van drie jaren, voorafgaande aan het tijdstip van de mededeling.
+
+4. Indien het lichaam niet of niet op juiste wijze aan zijn in het tweede lid bedoelde verplichting heeft voldaan, is een bestuurder op de voet van het bepaalde in het derde lid aansprakelijk, met dien verstande dat wordt vermoed dat het niet betalen aan hem is te wijten en dat de periode van drie jaren wordt geacht in te gaan op het tijdstip waarop het lichaam in gebreke is. Tot de weerlegging van het vermoeden wordt slechts toegelaten de bestuurder die aannemelijk maakt dat het niet aan hem is te wijten dat het lichaam niet aan zijn in het tweede lid bedoelde verplichting heeft voldaan.
+
+5. Voor de toepassing van dit artikel wordt onder bestuurder mede verstaan:
+
+- a. de gewezen bestuurder tijdens wiens bestuur de belasting-, premie- of accijnsschuld is ontstaan;
+
+- b. degene ten aanzien van wie aannemelijk is dat hij het beleid van het lichaam heeft bepaald of mede heeft bepaald als ware hij bestuurder, met uitzondering van de door de rechter benoemde bewindvoerder;
+
+- c. indien een bestuurder van een lichaam een lichaam is: ieder van de bestuurders van het laatstbedoelde lichaam.
+
+6. De tweede volzin van het vierde lid is niet van toepassing op de gewezen bestuurder.
+
+7. Voor de toepassing van dit artikel wordt onder belasting, premie of accijns uitsluitend verstaan de belasting, premie of accijns die het lichaam als inhoudingsplichtige of als ondernemer is verschuldigd.
+
+8. Indien de bestuurder van het lichaam ingevolge dit artikel aansprakelijk is en niet in staat is tot betaling van zijn schuld ter zake, zijn de door die bestuurder onverplicht verrichte rechtshandelingen waardoor de mogelijkheid tot verhaal op hem is verminderd, vernietigbaar en kan de ontvanger deze vernietigingsgrond inroepen, indien aannemelijk is dat deze rechtshandelingen geheel of nagenoeg geheel met dat oogmerk zijn verricht. [Artikel 45, vierde en vijfde lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=45) is van overeenkomstige toepassing.
 
 ##### Artikel 8.66. Aansprakelijkheid voor de loonbelasting
 
@@ -1898,7 +2074,7 @@ Ingeval een niet in het openbaar lichaam van zijn afnemer wonende of gevestigde 
 
 ##### Artikel 8.67. Inlenersaansprakelijkheid
 
-1. Voor de loonbelasting, de sociale verzekeringspremies en de algemene bestedingsbelasting welke de inhoudingsplichtige verschuldigd is in verband met het verrichten van werkzaamheden door een werknemer die met instandhouding van de dienstbetrekking tot de inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld van een derde, de inlener, om onder diens toezicht of leiding werkzaam te zijn, is de inlener of ingeval doorlening plaatsvindt, de in het tweede lid bedoelde doorlener, hoofdelijk aansprakelijk behoudens voor zover hij aantoont dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen.
+1. Voor de loonbelasting, de sociale verzekeringspremies en de algemene bestedingsbelasting welke de inhoudingsplichtige verschuldigd is in verband met het verrichten van werkzaamheden door een werknemer die met instandhouding van de dienstbetrekking tot de inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld van een derde, de inlener, om onder diens toezicht of leiding werkzaam te zijn, is de inlener of ingeval doorlening plaatsvindt, de in het tweede lid bedoelde doorlener, hoofdelijk aansprakelijk behoudens voor zover hij aantoont dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen.
 
 2. Onder inlener wordt mede verstaan de doorlener, zijnde degene aan wie een werknemer ter beschikking is gesteld en die deze werknemer vervolgens ter beschikking stelt aan een derde om onder diens toezicht en leiding werkzaam te zijn.
 
@@ -1910,9 +2086,9 @@ Ingeval een niet in het openbaar lichaam van zijn afnemer wonende of gevestigde 
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **aannemer:** degene, die zich jegens de opdrachtgever verbindt om buiten dienstbetrekking een werk uit te voeren tegen een te betalen prijs;
+- a. *aannemer:* degene, die zich jegens de opdrachtgever verbindt om buiten dienstbetrekking een werk uit te voeren tegen een te betalen prijs;
 
-- b. **onderaannemer:** degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking het in onderdeel a bedoelde werk geheel of gedeeltelijk uit te voeren tegen een te betalen prijs.
+- b. *onderaannemer:* degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking het in onderdeel a bedoelde werk geheel of gedeeltelijk uit te voeren tegen een te betalen prijs.
 
 2. Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.
 
@@ -1920,7 +2096,7 @@ Ingeval een niet in het openbaar lichaam van zijn afnemer wonende of gevestigde 
 
 4. Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstig goed, voor zover de koop en verkoop voortvloeit uit, of verband houdt met, het in het eerste lid, onderdeel a, bedoelde werk.
 
-5. De aannemer is hoofdelijk aansprakelijk voor de loonbelasting, de sociale verzekeringspremies en de algemene bestedingsbelasting:
+5. De aannemer is hoofdelijk aansprakelijk voor de loonbelasting, de sociale verzekeringspremies en de algemene bestedingsbelasting:
 
 - a. die de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer, verschuldigd is in verband met het verrichten van werkzaamheden door zijn werknemers ter zake van dat werk, behoudens voor zover hij aannemelijk maakt dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen;
 
@@ -1962,7 +2138,7 @@ Indien krachtens [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&
 
 3. Ieder die in de belasting heeft bijgedragen, blijft gerechtigd het bijgedragene alsnog van de belastingschuldige terug te vorderen.
 
-## Titel 6. Bepalingen van strafrecht en strafvordering
+### Titel 6. Bepalingen van strafrecht en strafvordering
 
 ##### Artikel 8.74. Delictsomschrijvingen
 
@@ -2042,7 +2218,7 @@ Degene die niet voldoet aan de hem opgelegde verplichting ingevolge de [artikele
 
 2. Als voorwaarden kunnen worden gesteld:
 
-- a. betaling aan de BES eilanden van een geldsom van ten minste USD 56 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;
+- a. betaling aan de BES eilanden van een geldsom van ten minste USD 56 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;
 
 - b. afstand van voorwerpen die in beslag genomen zijn en vatbaar voor verbeurdverklaring of onttrekking aan het verkeer;
 
@@ -2058,7 +2234,7 @@ Degene die niet voldoet aan de hem opgelegde verplichting ingevolge de [artikele
 
 De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschrift of uittreksel van vonnissen, in belastingstrafzaken gewezen.
 
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
+### Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
 
 ##### Artikel 8.83. Inlichtingenverplichting
 
@@ -2075,6 +2251,32 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 4. Ingeval de belastingwet aangelegenheden van een derde aanmerkt als aangelegenheden van de vermoedelijk belastingplichtige, gelden voor de derde gelijke verplichtingen.
 
 5. Een ieder is gehouden ter vaststelling van zijn identiteit, indien zulks voor de heffing van de loonbelasting van belang kan zijn, op eerste verzoek van de inspecteur aan deze een geldig paspoort, geldige identiteitskaart dan wel geldig rijbewijs ter inzage te verstrekken.
+
+##### Artikel 8.83a. Meldingsplicht vastgoedbelasting
+
+1. Voor de bepaling van de verschuldigde vastgoedbelasting is eenieder die:
+
+- a. op enig moment van een onroerende zaak het genot verkrijgt krachtens eigendom, bezit of beperkt recht, verplicht binnen vier maanden na die verkrijging daarvan melding te doen bij de inspecteur;
+
+- b. van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht heeft, ter zake waarvan zich wijzigingen als bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV&titeldeel=4&artikel=4.8&z=2026-04-11&g=2026-04-11), hebben voorgedaan, verplicht binnen vier maanden nadat die wijzigingen zich hebben voorgedaan hiervan melding te doen bij de inspecteur;
+
+- c. bij het begin van een kalenderjaar van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht heeft en binnen een jaar na afloop van dat kalenderjaar geen aanslag heeft ontvangen, verplicht hiervan melding te doen bij de inspecteur binnen vier maanden na afloop van dat jaar.
+
+2. Ingeval meerdere personen of lichamen van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht hebben kan een van hen als vertegenwoordiger de meldingen doen.
+
+3. De meldingen bevatten in ieder geval de volgende informatie:
+
+- a. de naam, het adres en, indien personen of lichamen die het genot krachtens eigendom, bezit of beperkt recht van de onroerende zaak hebben op de BES eilanden wonen, onderscheidenlijk zijn gevestigd, een al dan niet fiscaal identificatienummer van die personen, onderscheidenlijk lichamen;
+
+- b. de datum waarop het genot krachtens eigendom, bezit of beperkt recht van de onroerende zaak aanvangt;
+
+- c. krachtens welk recht er het genot van de onroerende zaak is;
+
+- d. het adres van de onroerende zaak; en
+
+- e. een indicatieve waarde van de onroerende zaak, dan wel een indicatie van de wijziging van de waarde die zich die zich als gevolg van een wijziging van de onroerende zaak als bedoeld in het eerste lid, onderdeel b, heeft voorgedaan.
+
+4. Ingeval de aanslag niet of tot een te laag bedrag is vastgesteld omdat niet tijdig is voldaan aan de meldingsplicht, kan de inspecteur gelijktijdig met de vaststelling van de aanslag een bestuurlijke boete van ten hoogste 100 percent van het bedrag van de aanslag opleggen.
 
 ##### Artikel 8.84. Wijze verstrekking gegevens en inlichtingen
 
@@ -2128,7 +2330,7 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 
 1. Met betrekking tot administratieplichtigen als bedoeld in [artikel 8.86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.86&z=2026-04-11&g=2026-04-11), zijn de in de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11), [8.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.85&z=2026-04-11&g=2026-04-11) en [8.86](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.86&z=2026-04-11&g=2026-04-11), omschreven verplichtingen van overeenkomstige toepassing ten behoeve van de belastingheffing van derden en de heffing van de belasting waarvan de inhouding aan hen is opgedragen.
 
-2. Administratieplichtigen zijn gehouden binnen drie maanden na afloop van het kalenderjaar aan de inspecteur een opgave te verstrekken betreffende derden die in dat kalenderjaar bij of voor de administratieplichtige, anders dan in dienstbetrekking, werkzaamheden of diensten hebben verricht, met uitzondering van andere administratieplichtigen die bij of voor de administratieplichtige werkzaamheden of diensten hebben verricht.
+2. Administratieplichtigen zijn gehouden binnen drie maanden na afloop van het kalenderjaar aan de inspecteur een opgave te verstrekken betreffende derden die in dat kalenderjaar bij of voor de administratieplichtige, anders dan in dienstbetrekking, werkzaamheden of diensten hebben verricht, met uitzondering van andere administratieplichtigen die bij of voor de administratieplichtige werkzaamheden of diensten hebben verricht.
 
 3. Administratieplichtigen zijn gehouden binnen drie maanden na afloop van het kalenderjaar aan de inspecteur een opgave te verstrekken betreffende de personen die in dat kalenderjaar bij of voor de administratieplichtige in dienstbetrekking zijn geweest.
 
@@ -2136,11 +2338,21 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 
 5. Onverminderd de verplichtingen, bedoeld in het eerste tot en met vierde lid, zijn de bij of krachtens de belastingwet aan te wijzen administratieplichtigen gehouden de bij of krachtens de belastingwet aan te wijzen gegevens en inlichtingen waarvan de kennisneming voor de heffing van de belasting van belang kan zijn eigener beweging te verstrekken aan de inspecteur volgens bij of krachtens de belastingwet te stellen regels.
 
+##### Artikel 8.87a. Indienen jaarrekening
+
+1. Elk op de BES eilanden gevestigd lichaam is gehouden jaarlijks binnen negen maanden na afloop van het boekjaar een door de bestuurder van het lichaam gewaarmerkt afschrift van de jaarrekening, bestaande uit een balans, winst- en verliesrekening en toelichting op deze stukken, bij de inspecteur in te dienen. De eerste zin is eveneens van toepassing op een lichaam dat op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V&titeldeel=1&artikel=5.2&z=2026-04-11&g=2026-04-11) geacht wordt in Nederland te zijn gevestigd, alsmede op een lichaam dat niet op de BES eilanden is gevestigd en een onderneming drijft met behulp van een op de BES eilanden aanwezige vaste inrichting of met behulp van een op de BES eilanden woonachtige of gevestigde vaste vertegenwoordiger.
+
+2. De jaarrekening wordt opgesteld volgens de bepalingen van [artikel 15 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=15), dan wel volgens soortgelijke buitenlandse regelingen. Onze Minister kan nadere regels geven voor de opstelling van de jaarrekening.
+
+3. De inspecteur reikt tegen ontvangst van de jaarrekening een ontvangstbewijs uit.
+
+4. De inspecteur kan onder door hem te stellen voorwaarden uitstel voor het indienen van de jaarrekening verlenen.
+
 ##### Artikel 8.88. Verschoningsrecht
 
 1. Voor een weigering om te voldoen aan de in de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11), [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11), [8.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.85&z=2026-04-11&g=2026-04-11), [8.86](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.86&z=2026-04-11&g=2026-04-11) en [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11) omschreven verplichtingen kan niemand zich beroepen op de omstandigheid dat hij uit enigerlei hoofde tot geheimhouding verplicht is, zelfs niet indien deze hem bij een wet is opgelegd.
 
-2. Voor een weigering om te voldoen aan de in de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11) en [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11) omschreven verplichtingen kan niemand zich met vrucht beroepen op de vertrouwelijkheid van zijn contacten met een verschoningsgerechtigde als bedoeld in het derde lid voor zover het gegevens, inlichtingen en andere gegevensdragers of de inhoud daarvan betreft waarover diegene ook zonder die vertrouwelijke contacten beschikt of redelijkerwijs kan beschikken.
+2. Voor een weigering om te voldoen aan de in de [artikelen 8.83](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.83&z=2026-04-11&g=2026-04-11) en [8.84](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.84&z=2026-04-11&g=2026-04-11) omschreven verplichtingen kan niemand zich met vrucht beroepen op de vertrouwelijkheid van zijn contacten met een verschoningsgerechtigde als bedoeld in het derde lid voor zover het gegevens, inlichtingen en andere gegevensdragers of de inhoud daarvan betreft waarover diegene ook zonder die vertrouwelijke contacten beschikt of redelijkerwijs kan beschikken.
 
 3. Voor een weigering om te voldoen aan de verplichtingen ten aanzien van derden als bedoeld in [artikel 8.87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87&z=2026-04-11&g=2026-04-11), kunnen alleen geestelijken, notarissen, advocaten, artsen en apothekers zich beroepen op de omstandigheid dat zij uit hoofde van hun stand, ambt of beroep tot geheimhouding verplicht zijn, voor zover het betreft hetgeen aan hen in die hoedanigheid is toevertrouwd of door hen in die hoedanigheid is meegedeeld.
 
@@ -2151,6 +2363,18 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 2. Alvorens zijn taak te aanvaarden legt de deskundige of de tolk in handen van de gezaghebber de eed of belofte af, dat hij de hem op te dragen werkzaamheden eerlijk, nauwgezet en naar zijn beste weten zal verrichten.
 
 3. Aan de in het eerste lid bedoelde deskundigen en tolken kan een vergoeding worden toegekend volgens bij of krachtens algemene maatregel van bestuur te stellen regels.
+
+##### Artikel 8.89a. Factuurplicht administratieplichtigen
+
+1. Administratieplichtigen zijn gehouden ter zake van levering van goederen en het voor derden verrichten van werkzaamheden of diensten een factuur uit te reiken en een kopie daarvan te bewaren. Deze factuur dient doorlopend genummerd en gedagtekend te zijn en dient op duidelijke en overzichtelijke wijze te bevatten:
+
+- a. de datum waarop de levering, de werkzaamheid of de dienst is verricht;
+
+- b. een omschrijving van de aard en de hoeveelheid van de goederen, werkzaamheden of diensten die zijn geleverd of zijn verricht, alsmede het ter zake daarvan in rekening gebrachte bedrag en het bedrag aan algemene bestedingsbelasting; en
+
+- c. de naam, het adres en het door de Belastingdienst toegekende registratienummer van degene die de levering, de werkzaamheid of de dienst heeft verricht alsmede, indien dit een administratieplichtige is, van degene aan wie de levering, de werkzaamheid of de dienst is verricht.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
 ##### Artikel 8.90. Verplichtingen ten behoeve van de invordering
 
@@ -2164,9 +2388,9 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 
 2. Onze Minister kan, op schriftelijk verzoek, ontheffing verlenen van de in het eerste lid omschreven verplichting.
 
-## Titel 6. Bepalingen van strafrecht en strafvordering
+### Titel 8. Rechtspleging
 
-### Afdeling 1. Bezwaar
+#### Afdeling 1. Bezwaar
 
 ##### Artikel 8.92. Bezwaar
 
@@ -2220,25 +2444,25 @@ De griffier van het Hof verstrekt aan de directeur desgevraagd kosteloos afschri
 
 De verplichting tot betaling wordt niet geschorst door de indiening van een bezwaarschrift inzake een belastingaanslag.
 
-### Afdeling 2. Raad van beroep voor belastingzaken
+#### Afdeling 2. Raad van beroep voor belastingzaken
 
 ##### Artikel 8.97
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.98
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.99
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.100
 
-Vervallen
+*Vervallen*
 
-### Afdeling 2. Raad van beroep voor belastingzaken
+#### Afdeling 3. Beroep
 
 ##### Artikel 8.101. Beroep
 
@@ -2263,6 +2487,20 @@ Vervallen
 ##### Artikel 8.102. Geen schorsende werking beroep
 
 De verplichting tot betaling wordt niet geschorst door het instellen van beroep.
+
+##### Artikel 8.102a. Behandeling door een enkelvoudige en een meervoudige kamer
+
+1. Zaken die bij het Gerecht in eerste aanleg aanhangig worden gemaakt, worden in behandeling genomen door een enkelvoudige kamer.
+
+2. De enkelvoudige kamer kan een zaak naar een meervoudige kamer verwijzen.
+
+3. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+##### Artikel 8.102b. Gelijke toepassing voorschriften en bevoegdheden
+
+1. De voorschriften omtrent de behandeling van het beroep zijn op de behandeling zowel door een enkelvoudige als door een meervoudige kamer van toepassing.
+
+2. Degene die zitting heeft in een enkelvoudige kamer heeft tevens de bevoegdheden en de verplichtingen die de voorzitter van een meervoudige kamer heeft.
 
 ##### Artikel 8.103. Indienen en vereisten beroepschrift
 
@@ -2311,6 +2549,26 @@ De griffier zendt zo spoedig mogelijk een kopie van alle door een partij toegezo
 ##### Artikel 8.106. Repliek en dupliek
 
 Het Gerecht in eerste aanleg kan de indiener van het beroepschrift in de gelegenheid stellen schriftelijk te repliceren. In dat geval wordt de inspecteur in de gelegenheid gesteld schriftelijk te dupliceren. Het Gerecht in eerste aanleg stelt de termijnen voor repliek en dupliek vast.
+
+##### Artikel 8.106a. Vereenvoudigde behandeling
+
+Het Gerecht in eerste aanleg kan onmiddellijk uitspraak doen indien een nader onderzoek het Gerecht niet nodig voorkomt, omdat:
+
+- a. het beroep kennelijk niet-ontvankelijk is;
+
+- b. het beroep kennelijk ongegrond is;
+
+- c. het beroep kennelijk gegrond is, of
+
+- d. de inspecteur kennelijk aan de bezwaren van de belanghebbende tegemoet is gekomen.
+
+##### Artikel 8.106b. Verzet
+
+1. Tegen de in [artikel 8.106a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.106a&z=2026-04-11&g=2026-04-11) bedoelde uitspraak kunnen partijen schriftelijk verzet doen bij het Gerecht in eerste aanleg. [Artikel 8.103](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.103&z=2026-04-11&g=2026-04-11) is van overeenkomstige toepassing.
+
+2. Alvorens een uitspraak te doen op het verzet, kan het Gerecht in eerste aanleg de partij die het verzet deed in de gelegenheid stellen te worden gehoord. Is het Gerecht in eerste aanleg van oordeel dat het verzet ongegrond is, dan gaat het niet tot ongegrondverklaring over dan na de indiener van het verzetschrift die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.
+
+3. Is het Gerecht in eerste aanleg van oordeel dat het verzet gegrond is, dan vervalt de in [artikel 8.106a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.106a&z=2026-04-11&g=2026-04-11) bedoelde uitspraak en wordt de zaak alsnog in behandeling genomen.
 
 ##### Artikel 8.107. Onderzoek ter zitting
 
@@ -2416,7 +2674,39 @@ Indien het beroep is gericht tegen een belastingaanslag met betrekking tot welke
 
 Binnen twee weken na de dagtekening van de uitspraak zendt de griffier kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan partijen.
 
-### Afdeling 4. Beroep op een ander college
+#### Afdeling 3a. Hoger beroep
+
+##### Artikel 8.116a. Hoger beroep
+
+1. Partijen kunnen bij het Hof hoger beroep instellen tegen een uitspraak van het Gerecht in eerste aanleg als bedoeld in de [artikelen 8.112](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.112&z=2026-04-11&g=2026-04-11) en [8.113](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.113&z=2026-04-11&g=2026-04-11).
+
+2. De termijn voor het instellen van hoger beroep bedraagt twee maanden na de dag van de toezending van de uitspraak van het Gerecht in eerste aanleg overeenkomstig [artikel 8.116](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.116&z=2026-04-11&g=2026-04-11).
+
+3. De partij die hoger beroep instelt, wordt aangeduid als appellant in hoger beroep, de wederpartij als verweerder in hoger beroep.
+
+##### Artikel 8.116b. Overeenkomstige toepassing
+
+Op het hoger beroep zijn de artikelen van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&z=2026-04-11&g=2026-04-11), met uitzondering van de [artikelen 8.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102a&z=2026-04-11&g=2026-04-11) en [8.102b](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102b&z=2026-04-11&g=2026-04-11), van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald.
+
+##### Artikel 8.116c. Griffierecht
+
+1. Van de indiener van het beroepschrift in hoger beroep wordt ten behoeve van ’s Rijks schatkist een griffierecht geheven ten bedrage van USD 60.
+
+2. De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan het Hof.
+
+3. Indien het griffierecht niet tijdig is betaald, wordt het beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener van het beroepschrift in verzuim is geweest.
+
+4. Indien het Hof het beroep geheel of gedeeltelijk gegrond verklaart, vergoedt de inspecteur het door de indiener van het beroepschrift betaalde griffierecht.
+
+##### Artikel 8.116d. Strekking uitspraak
+
+1. Het Hof bevestigt de uitspraak van het Gerecht in eerste aanleg, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van die uitspraak, hetgeen het Gerecht in eerste aanleg had behoren te doen.
+
+2. Wanneer het Gerecht in eerste aanleg de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt de zaak terugverwezen naar het Gerecht in eerste aanleg om te worden hervat in de stand waarin de behandeling zich bevond. Tegen de nieuwe uitspraak van het Gerecht in eerste aanleg staat hoger beroep open overeenkomstig deze afdeling.
+
+3. In de gevallen, bedoeld in het tweede lid, kan het Hof de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door het Gerecht in eerste aanleg behoeft.
+
+#### Afdeling 4. Beroep op een ander college
 
 ##### Artikel 8.117. Bevoegdheid in burgerlijke en strafzaken
 
@@ -2430,9 +2720,9 @@ Behoudens de bepalingen van deze wet worden burgerlijke rechtsvorderingen behand
 
 Waar in wettelijke regelingen ten aanzien van belastingen, bijdragen en vergoedingen op de overtreding een geldboete tot een bepaald bedrag als straf is gesteld, geldt dit bedrag voor de toepassing van artikel 76 van het Wetboek van Strafrecht BES als het daar bedoelde maximum.
 
-## Titel 9. Bepalingen van internationaal recht
+### Titel 9. Bepalingen van internationaal recht
 
-### Afdeling 1. Voorkoming van dubbele belasting
+#### Afdeling 1. Voorkoming van dubbele belasting
 
 ##### Artikel 8.120. Voorkoming van dubbele belasting. Andere staten.
 
@@ -2452,7 +2742,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld waa
 
 Indien een gedeelte van een inkomen wordt genoten van een internationale organisatie en dit gedeelte ingevolge bepalingen van internationaal recht van de heffing van belasting op de BES eilanden is vrijgesteld, wordt behoudens voor zover bij die bepalingen een nadere wijze van berekenen is voorgeschreven, de inkomstenbelasting verschuldigd over het overige gedeelte van het inkomen gesteld op het verschil tussen de belasting berekend zonder inachtneming van de vrijstelling en de belasting welke volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels aan het vrijgestelde gedeelte van het inkomen dient te worden toegerekend.
 
-### Afdeling 2. Internationale bijstandsverlening
+#### Afdeling 2. Internationale bijstandsverlening
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -2516,13 +2806,13 @@ Onze Minister kan een bevoegde autoriteit uit eigen beweging inlichtingen verstr
 
 ##### Artikel 8.131. Aanwezigheid buitenlandse ambtenaar
 
-1. Onze Minister kan met een bevoegde autoriteit van een staat overeenkomen dat, ter uitwisseling van inlichtingen in het kader van de in [artikel 8.124](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=1&artikel=8.124&z=2026-04-11&g=2026-04-11) bedoelde wederzijdse bijstand, door de bevoegde autoriteit van een staat gemachtigde ambtenaren onder de door Onze Minister gestelde voorwaarden:
+1. Onze Minister kan met een bevoegde autoriteit van een staat overeenkomen dat, ter uitwisseling van inlichtingen in het kader van de in [artikel 8.124](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=1&artikel=8.124&z=2026-04-11&g=2026-04-11) bedoelde wederzijdse bijstand, door de bevoegde autoriteit van een staat gemachtigde ambtenaren onder de door Onze Minister gestelde voorwaarden:
 
 - a. aanwezig kunnen zijn in de kantoren van de ambtenaren van de rijksbelastingdienst op de BES eilanden;
 
 - b. aanwezig kunnen zijn bij onderzoeken die op de BES eilanden worden uitgevoerd.
 
-Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenaren, bedoeld in onderdeel a, toegang hebben, ontvangen de ambtenaren van de bevoegde autoriteit van de staat een afschrift van die bescheiden.
+Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenaren, bedoeld in onderdeel a, toegang hebben, ontvangen de ambtenaren van de bevoegde autoriteit van de staat een afschrift van die bescheiden.
 
 2. In de overeenkomst, bedoeld in het eerste lid, kan Onze Minister toestaan dat ambtenaren van de bevoegde autoriteit van die staat op de BES eilanden personen kunnen ondervragen en bescheiden kunnen onderzoeken.
 
@@ -2544,7 +2834,35 @@ Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenar
 
 [Titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=6&z=2026-04-11&g=2026-04-11) van dit hoofdstuk is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de verplichtingen, bedoeld in de [artikelen 8.129](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=4&artikel=8.129&z=2026-04-11&g=2026-04-11) en [8.133a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=4a&artikel=8.133a&z=2026-04-11&g=2026-04-11) en de daarop berustende bepalingen en [artikel 8.133b](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=4a&artikel=8.133b&z=2026-04-11&g=2026-04-11).
 
-#### Paragraaf 1. Inleidende bepalingen
+#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
+
+##### Artikel 8.133a
+
+1. Met betrekking tot een rapporterende financiële instelling zijn [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) en [hoofdstuk II, afdeling 4a, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=4a), met uitzondering van artikel 2a, eerste lid, onderdelen a, b en f, onder 3°, van die wet, van overeenkomstige toepassing.
+
+2. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. *rapporterende financiële instelling:* een financiële instelling op de BES eilanden, niet zijnde een niet-rapporterende financiële instelling;
+
+- b. *financiële instelling op de BES eilanden:*
+
+   - 1°. een op de BES eilanden gevestigde financiële instelling, met uitzondering van de niet op de BES eilanden gelegen filialen van die instelling;
+
+   - 2°. een op de BES eilanden gelegen filiaal van een niet op de BES eilanden gevestigde financiële instelling.
+
+3. Bij de overeenkomstige toepassing van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) en [hoofdstuk II, afdeling 4a, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=4a), bedoeld in het eerste lid, wordt:
+
+- a. onder een niet-rapporterende financiële instelling mede verstaan een bij ministeriële regeling aangewezen financiële instelling met een laag risico om te worden gebruikt voor belastingontduiking;
+
+- b. onder een uitgezonderde rekening mede verstaan een bij ministeriële regeling aangewezen financiële rekening met een laag risico om te worden gebruikt voor belastingontduiking;
+
+waarbij een financiële instelling of rekening alleen kan worden aangewezen indien deze voldoet aan de vereisten waaraan de financiële instellingen, onderscheidenlijk rekeningen, moeten voldoen die op grond van [artikel 2a, eerste lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) door Onze Minister als niet-rapporterende financiële instelling, onderscheidenlijk uitgezonderde rekening, kunnen worden aangewezen.
+
+##### Artikel 8.133b
+
+[Artikel 10g, eerste lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10g) is van overeenkomstige toepassing op verkrijging van toegang met het oog op de tenuitvoerlegging en handhaving van [artikel 8.133a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=4a&artikel=8.133a&z=2026-04-11&g=2026-04-11) en de daarop berustende bepalingen, alsmede met het oog op het nakomen van overeenkomsten met rechtsgebieden op grond waarvan het land Nederland informatie als bedoeld in de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b) en [10c van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10c) aan die rechtsgebieden zal verstrekken.
+
+#### Paragraaf 5. Begrenzing van door de BES eilanden te verlenen bijstand
 
 ##### Artikel 8.134. Begrenzingen verlenen bijstand
 
@@ -2564,7 +2882,7 @@ Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenar
 
 - f. de verstrekking strijdig zou zijn met algemeen aanvaarde beginselen van belastingheffing of overige begrenzingen die voortvloeien uit de van toepassing zijnde bepalingen van internationaal en interregionaal recht.
 
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
+#### Paragraaf 6. Geheimhouding; gebruik van inlichtingen
 
 ##### Artikel 8.135. Geheimhoudingsplicht andere staat
 
@@ -2580,7 +2898,7 @@ Onze Minister verstrekt geen inlichtingen aan een bevoegde autoriteit indien de 
 
 4. Onze Minister kan op een daartoe strekkend verzoek een bevoegde autoriteit toestemming verlenen de van hem ontvangen inlichtingen aan een bevoegde autoriteit van een andere staat te verstrekken.
 
-### Afdeling 3. Bijstand bij invordering
+#### Afdeling 3. Bijstand bij invordering
 
 ##### Artikel 8.137. Bijstand bij invordering
 
@@ -2596,51 +2914,51 @@ Onze Minister verstrekt geen inlichtingen aan een bevoegde autoriteit indien de 
 
 ### Hoofdstuk IX. Spaartegoeden
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 9.1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.5
 
-Vervallen
+*Vervallen*
 
-## Titel 2. Identificatieverplichtingen
+### Titel 2. Identificatieverplichtingen
 
 ##### Artikel 9.6
 
-Vervallen
+*Vervallen*
 
-## Titel 3. De uitwisseling van informatie
+### Titel 3. De uitwisseling van informatie
 
 ##### Artikel 9.7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9.10
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk X. Slotbepalingen
 
@@ -2651,831 +2969,3 @@ Deze wet wordt aangehaald als: Belastingwet BES.
 ##### Artikel 10.2
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 6.5a
-
-1. Bij overgang van het geheel of een gedeelte van een algemeenheid van goederen, al dan niet tegen vergoeding of in de vorm van een inbreng in een vennootschap, wordt geacht dat geen leveringen of diensten plaatsvinden en treedt, tenzij bij ministeriële regeling anders is bepaald, degene op wie de goederen overgaan in de plaats van de overdrager.
-
-2. Indien van een overgang als bedoeld in het tweede lid deel uitmaakt de levering van goederen die de overdrager als producent heeft voortgebracht, worden deze goederen voor de overdrager geacht te zijn belast als bedoeld in [artikel 6.3, aanhef en slot](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=1&artikel=6.3&z=2026-04-11&g=2026-04-11).
-
-3. Degene op wie de goederen overgaan als bedoeld in het eerste lid, wordt voor de volgende levering van goederen, die door de overdrager als producent zijn voortgebracht, aangemerkt als producent van die goederen en voor zover van toepassing als vervaardiger van die goederen in de zin van [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VI&titeldeel=2&afdeling=1&artikel=6.4&z=2026-04-11&g=2026-04-11).
-
-### Afdeling 2. Maatstaf en tarief van heffing
-
-### Afdeling 3. Vrijstellingen
-
-### Afdeling 4. Wijze van heffing
-
-## Titel 3. Heffing ter zake van invoer
-
-### Afdeling 1. Belastbaar feit
-
-### Afdeling 2. Maatstaf en tarief van heffing
-
-### Afdeling 3. Vrijstellingen
-
-### Afdeling 4. Wijze van heffing
-
-## Titel 4. Bijzondere regelingen
-
-## Titel 5. Bijzondere bepalingen
-
-## Titel 6. Slotbepalingen
-
-### Hoofdstuk VII. Overdrachtsbelasting
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Aard van belasting
-
-## Titel 3. Verdeling van een gemeenschap
-
-## Titel 4. Bedrag en grondslagen
-
-## Titel 5. Belastingschuld, voldoening, teruggave en verjaring
-
-## Titel 6. Bijzondere bepalingen
-
-### Hoofdstuk VIIa. Kansspelbelasting
-
-## Titel 1. Belastingplicht
-
-## Titel 2. Voorwerp van de belasting
-
-## Titel 3. Vrijstellingen
-
-## Titel 4. Tarief
-
-## Titel 5. Wijze van heffing
-
-### Hoofdstuk VIIb. Minimumbelasting
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Heffing van BES belastingen
-
-### Afdeling 1. De aangifte
-
-### Afdeling 2. Heffing bij wege van aanslag
-
-### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
-
-## Titel 2. Heffing van BES belastingen
-
-### Afdeling 1. De aangifte
-
-### Afdeling 2. Heffing bij wege van aanslag
-
-### Afdeling 3. Toekenning van bevoegdheden
-
-### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
-
-## Titel 3. Bijzondere bepalingen voor de belastingheffing
-
-### Afdeling 1. Vertegenwoordiging
-
-##### Artikel 8.24a. Verzuim indienen jaarrekening
-
-1. Indien een lichaam dat op grond van [artikel 8.87a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11) gehouden is een jaarrekening in te dienen de jaarrekening niet of niet tijdig indient, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste USD 14 000 kan opleggen.
-
-2. De bevoegdheid tot het opleggen van een boete als bedoeld in het eerste lid vervalt door verloop van een jaar na het einde van de termijn waarbinnen de jaarrekening, bedoeld in [artikel 8.87a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=7&artikel=8.87a&z=2026-04-11&g=2026-04-11), had moeten worden ingediend.
-
-### Afdeling 3. Toekenning van bevoegdheden
-
-## Titel 5. De invordering van bes belastingen
-
-### Afdeling 2. Voorschriften inzake het opleggen van bestuurlijke boeten
-
-### Afdeling 2. Invordering in eerste aanleg
-
-### Afdeling 3. Invordering in tweede aanleg
-
-### Afdeling 4. Bijzondere bepalingen voor de invordering
-
-#### Paragraaf 1. Verhaalsrechten
-
-#### Paragraaf 2. Uitstel van betaling en kwijtschelding
-
-#### Paragraaf 3. Verrekening en verjaring
-
-### Afdeling 5. Aansprakelijkheid
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Aansprakelijkheidsbepalingen
-
-## Titel 6. Bepalingen van strafrecht en strafvordering
-
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 2. Raad van beroep voor belastingzaken
-
-### Afdeling 3. Beroep
-
-##### Artikel 8.102a. Behandeling door een enkelvoudige en een meervoudige kamer
-
-1. Zaken die bij het Gerecht in eerste aanleg aanhangig worden gemaakt, worden in behandeling genomen door een enkelvoudige kamer.
-
-2. De enkelvoudige kamer kan een zaak naar een meervoudige kamer verwijzen.
-
-3. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
-
-##### Artikel 8.102b. Gelijke toepassing voorschriften en bevoegdheden
-
-1. De voorschriften omtrent de behandeling van het beroep zijn op de behandeling zowel door een enkelvoudige als door een meervoudige kamer van toepassing.
-
-2. Degene die zitting heeft in een enkelvoudige kamer heeft tevens de bevoegdheden en de verplichtingen die de voorzitter van een meervoudige kamer heeft.
-
-##### Artikel 8.106a. Vereenvoudigde behandeling
-
-Het Gerecht in eerste aanleg kan onmiddellijk uitspraak doen indien een nader onderzoek het Gerecht niet nodig voorkomt, omdat:
-
-- a. het beroep kennelijk niet-ontvankelijk is;
-
-- b. het beroep kennelijk ongegrond is;
-
-- c. het beroep kennelijk gegrond is, of
-
-- d. de inspecteur kennelijk aan de bezwaren van de belanghebbende tegemoet is gekomen.
-
-##### Artikel 8.106b. Verzet
-
-1. Tegen de in [artikel 8.106a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.106a&z=2026-04-11&g=2026-04-11) bedoelde uitspraak kunnen partijen schriftelijk verzet doen bij het Gerecht in eerste aanleg. [Artikel 8.103](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.103&z=2026-04-11&g=2026-04-11) is van overeenkomstige toepassing.
-
-2. Alvorens een uitspraak te doen op het verzet, kan het Gerecht in eerste aanleg de partij die het verzet deed in de gelegenheid stellen te worden gehoord. Is het Gerecht in eerste aanleg van oordeel dat het verzet ongegrond is, dan gaat het niet tot ongegrondverklaring over dan na de indiener van het verzetschrift die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.
-
-3. Is het Gerecht in eerste aanleg van oordeel dat het verzet gegrond is, dan vervalt de in [artikel 8.106a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.106a&z=2026-04-11&g=2026-04-11) bedoelde uitspraak en wordt de zaak alsnog in behandeling genomen.
-
-### Afdeling 3a. Hoger beroep
-
-### Afdeling 4. Beroep op een ander college
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-### Afdeling 2. Internationale bijstandsverlening
-
-#### Paragraaf 1. Inleidende bepalingen
-
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 1. Inleidende bepalingen
-
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 4. Onderzoek in het kader van te verlenen bijstand
-
-#### Paragraaf 6. Geheimhouding; gebruik van inlichtingen
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 1. Algemene bepalingen
-
-## Titel 1. Algemene bepalingen
-
-## Titel 1. Algemene bepalingen
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.116a. Hoger beroep
-
-1. Partijen kunnen bij het Hof hoger beroep instellen tegen een uitspraak van het Gerecht in eerste aanleg als bedoeld in de [artikelen 8.112](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.112&z=2026-04-11&g=2026-04-11) en [8.113](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.113&z=2026-04-11&g=2026-04-11).
-
-2. De termijn voor het instellen van hoger beroep bedraagt twee maanden na de dag van de toezending van de uitspraak van het Gerecht in eerste aanleg overeenkomstig [artikel 8.116](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.116&z=2026-04-11&g=2026-04-11).
-
-3. De partij die hoger beroep instelt, wordt aangeduid als appellant in hoger beroep, de wederpartij als verweerder in hoger beroep.
-
-##### Artikel 8.116b. Overeenkomstige toepassing
-
-Op het hoger beroep zijn de artikelen van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&z=2026-04-11&g=2026-04-11), met uitzondering van de [artikelen 8.102a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102a&z=2026-04-11&g=2026-04-11) en [8.102b](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=8&afdeling=3&artikel=8.102b&z=2026-04-11&g=2026-04-11), van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald.
-
-##### Artikel 8.116c. Griffierecht
-
-1. Van de indiener van het beroepschrift in hoger beroep wordt ten behoeve van ’s Rijks schatkist een griffierecht geheven ten bedrage van USD 60.
-
-2. De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan het Hof.
-
-3. Indien het griffierecht niet tijdig is betaald, wordt het beroep niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener van het beroepschrift in verzuim is geweest.
-
-4. Indien het Hof het beroep geheel of gedeeltelijk gegrond verklaart, vergoedt de inspecteur het door de indiener van het beroepschrift betaalde griffierecht.
-
-##### Artikel 8.116d. Strekking uitspraak
-
-1. Het Hof bevestigt de uitspraak van het Gerecht in eerste aanleg, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van die uitspraak, hetgeen het Gerecht in eerste aanleg had behoren te doen.
-
-2. Wanneer het Gerecht in eerste aanleg de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt de zaak terugverwezen naar het Gerecht in eerste aanleg om te worden hervat in de stand waarin de behandeling zich bevond. Tegen de nieuwe uitspraak van het Gerecht in eerste aanleg staat hoger beroep open overeenkomstig deze afdeling.
-
-3. In de gevallen, bedoeld in het tweede lid, kan het Hof de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door het Gerecht in eerste aanleg behoeft.
-
-### Afdeling 4. Beroep op een ander college
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-### Afdeling 2. Internationale bijstandsverlening
-
-#### Paragraaf 1. Inleidende bepalingen
-
-#### Paragraaf 3. Notificatie van stukken
-
-#### Paragraaf 3. Notificatie van stukken
-
-#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
-
-#### Paragraaf 1. Inleidende bepalingen
-
-### Afdeling 2. Internationale bijstandsverlening
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 1. Algemene bepalingen
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Identificatieverplichtingen
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.133a
-
-1. Met betrekking tot een rapporterende financiële instelling zijn [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) en [hoofdstuk II, afdeling 4a, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=4a), met uitzondering van artikel 2a, eerste lid, onderdelen a, b en f, onder 3°, van die wet, van overeenkomstige toepassing.
-
-2. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt verstaan onder:
-
-- a. **rapporterende financiële instelling:** een financiële instelling op de BES eilanden, niet zijnde een niet-rapporterende financiële instelling;
-
-- b. **financiële instelling op de BES eilanden:**
-
-  - 1°. een op de BES eilanden gevestigde financiële instelling, met uitzondering van de niet op de BES eilanden gelegen filialen van die instelling;
-
-  - 2°. een op de BES eilanden gelegen filiaal van een niet op de BES eilanden gevestigde financiële instelling.
-
-3. Bij de overeenkomstige toepassing van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) en [hoofdstuk II, afdeling 4a, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=4a), bedoeld in het eerste lid, wordt:
-
-- a. onder een niet-rapporterende financiële instelling mede verstaan een bij ministeriële regeling aangewezen financiële instelling met een laag risico om te worden gebruikt voor belastingontduiking;
-
-- b. onder een uitgezonderde rekening mede verstaan een bij ministeriële regeling aangewezen financiële rekening met een laag risico om te worden gebruikt voor belastingontduiking;
-
-waarbij een financiële instelling of rekening alleen kan worden aangewezen indien deze voldoet aan de vereisten waaraan de financiële instellingen, onderscheidenlijk rekeningen, moeten voldoen die op grond van [artikel 2a, eerste lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a) door Onze Minister als niet-rapporterende financiële instelling, onderscheidenlijk uitgezonderde rekening, kunnen worden aangewezen.
-
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 2. Identificatieverplichtingen
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.27a. Vergrijpboete na verzuimboete
-
-1. Indien nieuwe bezwaren bekend zijn geworden kan de inspecteur een vergrijpboete opleggen wegens hetzelfde feit als waarvoor eerder een verzuimboete is opgelegd. Als nieuwe bezwaren als bedoeld in de eerste volzin kunnen enkel worden aangemerkt verklaringen van de belastingplichtige of inhoudingsplichtige of van derden en boeken, bescheiden en andere gegevensdragers of de inhoud daarvan, die later bekend zijn geworden of niet zijn onderzocht.
-
-2. Bij het opleggen van een vergrijpboete als bedoeld in het eerste lid vermeldt de inspecteur waaruit de nieuwe bezwaren bestaan.
-
-3. De eerder opgelegde verzuimboete wordt verrekend met de wegens hetzelfde feit opgelegde vergrijpboete.
-
-4. Bij toepassing van dit artikel vervalt de voorwaarde van gelijktijdigheid als bedoeld in [artikel 8.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.25&z=2026-04-11&g=2026-04-11).
-
-## Titel 5. De invordering van bes belastingen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 3. Invordering in tweede aanleg
-
-### Afdeling 2. Invordering in eerste aanleg
-
-#### Paragraaf 3. Verrekening en verjaring
-
-### Afdeling 5. Aansprakelijkheid
-
-#### Paragraaf 1. Verhaalsrechten
-
-##### Artikel 8.65a. Bestuurdersaansprakelijkheid volledig rechtsbevoegd lichaam
-
-1. Hoofdelijk aansprakelijk is voor de loonbelasting, de premie op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de premie op grond van de [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), de premie op grond van het Besluit premie zorgverzekering BES, de premie op grond van de Wet Ziektekostenverzekering BES, de premie op grond van de Wet Ongevallenverzekering BES, de premie op grond van de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304) en de premie op grond van het [Besluit Zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404), de vastgoedbelasting, de opbrengstbelasting, de algemene bestedingsbelasting, de overdrachtsbelasting, de kansspelbelasting en de accijnzen verschuldigd door een rechtspersoonlijkheid bezittend lichaam dat volledig rechtsbevoegd is: ieder van de bestuurders overeenkomstig het bepaalde in de volgende leden.
-
-2. Het lichaam, bedoeld in het eerste lid, is verplicht om onverwijld nadat gebleken is dat het niet tot betaling van de in dat lid bedoelde belastingen, premies of accijnzen in staat is, daarvan schriftelijk mededeling te doen aan de ontvanger en, indien de ontvanger dit verlangt, nadere inlichtingen te verstrekken en stukken over te leggen. Elke bestuurder is bevoegd om namens het lichaam aan deze verplichting te voldoen. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van de mededeling, de aard en de inhoud van de te verstrekken inlichtingen en de over te leggen stukken, alsmede de termijnen waarbinnen het doen van de mededeling, het verstrekken van de inlichtingen en het overleggen van de stukken dienen te geschieden.
-
-3. Indien het lichaam op juiste wijze aan zijn in het tweede lid bedoelde verplichting heeft voldaan, is een bestuurder aansprakelijk indien aannemelijk is, dat het niet betalen van de belasting, premie of accijns het gevolg is van aan hem te wijten kennelijk onbehoorlijk bestuur in de periode van drie jaren, voorafgaande aan het tijdstip van de mededeling.
-
-4. Indien het lichaam niet of niet op juiste wijze aan zijn in het tweede lid bedoelde verplichting heeft voldaan, is een bestuurder op de voet van het bepaalde in het derde lid aansprakelijk, met dien verstande dat wordt vermoed dat het niet betalen aan hem is te wijten en dat de periode van drie jaren wordt geacht in te gaan op het tijdstip waarop het lichaam in gebreke is. Tot de weerlegging van het vermoeden wordt slechts toegelaten de bestuurder die aannemelijk maakt dat het niet aan hem is te wijten dat het lichaam niet aan zijn in het tweede lid bedoelde verplichting heeft voldaan.
-
-5. Voor de toepassing van dit artikel wordt onder bestuurder mede verstaan:
-
-- a. de gewezen bestuurder tijdens wiens bestuur de belasting-, premie- of accijnsschuld is ontstaan;
-
-- b. degene ten aanzien van wie aannemelijk is dat hij het beleid van het lichaam heeft bepaald of mede heeft bepaald als ware hij bestuurder, met uitzondering van de door de rechter benoemde bewindvoerder;
-
-- c. indien een bestuurder van een lichaam een lichaam is: ieder van de bestuurders van het laatstbedoelde lichaam.
-
-6. De tweede volzin van het vierde lid is niet van toepassing op de gewezen bestuurder.
-
-7. Voor de toepassing van dit artikel wordt onder belasting, premie of accijns uitsluitend verstaan de belasting, premie of accijns die het lichaam als inhoudingsplichtige of als ondernemer is verschuldigd.
-
-8. Indien de bestuurder van het lichaam ingevolge dit artikel aansprakelijk is en niet in staat is tot betaling van zijn schuld ter zake, zijn de door die bestuurder onverplicht verrichte rechtshandelingen waardoor de mogelijkheid tot verhaal op hem is verminderd, vernietigbaar en kan de ontvanger deze vernietigingsgrond inroepen, indien aannemelijk is dat deze rechtshandelingen geheel of nagenoeg geheel met dat oogmerk zijn verricht. [Artikel 45, vierde en vijfde lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=45) is van overeenkomstige toepassing.
-
-## Titel 6. Bepalingen van strafrecht en strafvordering
-
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 2. Raad van beroep voor belastingzaken
-
-### Afdeling 3. Beroep
-
-### Afdeling 3a. Hoger beroep
-
-### Afdeling 4. Beroep op een ander college
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-### Afdeling 2. Internationale bijstandsverlening
-
-#### Paragraaf 1. Inleidende bepalingen
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 2. Identificatieverplichtingen
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.133b
-
-[Artikel 10g, eerste lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10g) is van overeenkomstige toepassing op verkrijging van toegang met het oog op de tenuitvoerlegging en handhaving van [artikel 8.133a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=9&afdeling=2&paragraaf=4a&artikel=8.133a&z=2026-04-11&g=2026-04-11) en de daarop berustende bepalingen, alsmede met het oog op het nakomen van overeenkomsten met rechtsgebieden op grond waarvan het land Nederland informatie als bedoeld in de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b) en [10c van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10c) aan die rechtsgebieden zal verstrekken.
-
-#### Paragraaf 5. Begrenzing van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 1. Inleidende bepalingen
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Identificatieverplichtingen
-
-## Titel 3. De uitwisseling van informatie
-
-### Hoofdstuk IX. Spaartegoeden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.89a. Factuurplicht administratieplichtigen
-
-1. Administratieplichtigen zijn gehouden ter zake van levering van goederen en het voor derden verrichten van werkzaamheden of diensten een factuur uit te reiken en een kopie daarvan te bewaren. Deze factuur dient doorlopend genummerd en gedagtekend te zijn en dient op duidelijke en overzichtelijke wijze te bevatten:
-
-- a. de datum waarop de levering, de werkzaamheid of de dienst is verricht;
-
-- b. een omschrijving van de aard en de hoeveelheid van de goederen, werkzaamheden of diensten die zijn geleverd of zijn verricht, alsmede het ter zake daarvan in rekening gebrachte bedrag en het bedrag aan algemene bestedingsbelasting; en
-
-- c. de naam, het adres en het door de Belastingdienst toegekende registratienummer van degene die de levering, de werkzaamheid of de dienst heeft verricht alsmede, indien dit een administratieplichtige is, van degene aan wie de levering, de werkzaamheid of de dienst is verricht.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 3. Beroep
-
-### Afdeling 3a. Hoger beroep
-
-### Afdeling 4. Beroep op een ander college
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-### Afdeling 2. Internationale bijstandsverlening
-
-#### Paragraaf 3. Notificatie van stukken
-
-#### Paragraaf 4. Onderzoek in het kader van te verlenen bijstand
-
-#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
-
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 3. De uitwisseling van informatie
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7b.1. Toepassing [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111)
-
-1. Met betrekking tot groepsentiteiten als bedoeld in [artikel 2.1 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=2.1) die op grond van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I&artikel=1.5&z=2026-04-11&g=2026-04-11) in samenhang met [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V&titeldeel=1&artikel=5.2&z=2026-04-11&g=2026-04-11) zijn gevestigd op de BES eilanden of die een op de BES eilanden gelegen vaste inrichting zijn als bedoeld in onderdeel c van de definitie van vaste inrichting in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) is de [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111), met uitzondering van de artikelen, bedoeld in het derde lid, van overeenkomstige toepassing, met dien verstande dat daarbij:
-
-- a. wordt gelezen voor:
-
-  - 1°. Nederland: de BES eilanden;
-
-  - 2°. in Nederland: op de BES eilanden;
-
-- b. in de in [artikel 1.2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) opgenomen definities van kwalificerende binnenlandse bijheffing, kwalificerende inkomen-inclusiemaatregel en kwalificerende onderbelastewinstmaatregel, en in [artikel 6.2, tweede lid, onderdeel a, onder 4°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=6.2) de zinsnede «, met betrekking tot derde staten,» buiten toepassing blijft;
-
-- c. in [artikel 4.1, eerste lid, aanhef, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=4.1) de zinsnede «of door een in een lidstaat gevestigde uiteindelijkemoederentiteit die een uitgesloten entiteit is» buiten toepassing blijft;
-
-- d. in [artikel 13.3, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.3) wordt gelezen voor [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23): [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
-
-2. In afwijking van de in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) opgenomen definitie van derde staat wordt daaronder voor de toepassing van die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) op groepsentiteiten als bedoeld in het eerste lid, aanhef, verstaan: het Koninkrijk der Nederlanden met uitzondering van de BES eilanden, en elke andere staat.
-
-3. [Artikel 5.1, eerste lid, onderdeel c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=5.1), de [hoofdstukken 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=12) en [artikel 14.3 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.3) zijn niet van overeenkomstige toepassing op groepsentiteiten als bedoeld in het eerste lid, aanhef.
-
-##### Artikel 7b.2. Voldoening op aangifte
-
-1. De in een tijdvak verschuldigd geworden belasting wordt op aangifte voldaan.
-
-2. In afwijking van [artikel 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), en [artikel 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), stelt de inspecteur de termijn voor het doen van aangifte zodanig vast dat deze niet eerder verstrijkt dan zeventien maanden na het einde van het tijdvak.
-
-3. In afwijking van [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), is de belastingplichtige gehouden de belasting overeenkomstig de aangifte aan de ontvanger te betalen binnen zeventien maanden na het einde van het tijdvak.
-
-4. Indien [artikel 8.4, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.4) toepassing vindt op een bedrag aan ingevolge [hoofdstuk 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3) verschuldigde binnenlandse bijheffing vervalt de betalingsverplichting voor dat bedrag aan binnenlandse bijheffing.
-
-##### Artikel 7b.3. Naheffing
-
-1. In afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), vervalt de bevoegdheid tot naheffing door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-2. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), de bevoegdheid tot naheffing door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-3. Indien [artikel 8.4, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.4) toepassing vindt op een bedrag aan ingevolge [hoofdstuk 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=3) verschuldigde binnenlandse bijheffing vervalt:
-
-- a. de bevoegdheid tot naheffing met betrekking tot dat bedrag; en
-
-- b. een voor dat bedrag reeds opgelegde naheffingsaanslag die nog niet is ingevorderd.
-
-##### Artikel 7b.4. Inlichtingenverplichting
-
-1. De belastingplichtige is gehouden de inspecteur eigener beweging juiste en volledige inlichtingen of gegevens die van belang kunnen zijn voor de heffing van de belasting te verstrekken binnen twee weken nadat hem bekend is geworden dat die inlichtingen of gegevens niet, onjuist of onvolledig door hem zijn verstrekt.
-
-2. De verplichting, bedoeld in het eerste lid, wordt nagekomen op de door de inspecteur aangegeven wijze.
-
-3. De verplichting, bedoeld in het eerste lid, vervalt door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de verplichting, bedoeld in het eerste lid, door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-## Titel 3. Bestuurlijke boeten en aansprakelijkheid
-
-##### Artikel 7b.5. Bestuurlijke boeten
-
-1. Voor de toepassing van [artikel 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.22&z=2026-04-11&g=2026-04-11), vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de ingevolge [artikel 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), dan wel [artikel 7b.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gestelde termijn.
-
-2. Voor de toepassing van [artikel 8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), vormt het verzuim het niet, gedeeltelijk niet, dan wel niet binnen de ingevolge [artikel 7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), dan wel [artikel 7b.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gestelde termijn betalen van de belasting.
-
-3. In afwijking van de [artikelen 8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.26&z=2026-04-11&g=2026-04-11), vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt in afwijking van de [artikelen 8.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.26&z=2026-04-11&g=2026-04-11), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-##### Artikel 7b.6. Vergrijpboete overtreden inlichtingenverplichting
-
-1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de verplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), niet is of wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag van de boete.
-
-2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), ten onrechte niet zou zijn geheven.
-
-3. De bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid vervalt door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-4. Indien [artikel 7b.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), toepassing vindt, vervalt de bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
-
-##### Artikel 7b.7. Hoofdelijke aansprakelijkheid
-
-Hoofdelijk aansprakelijk is voor de minimumbelasting die over een tijdvak is geheven van een groepsentiteit behorend tot een multinationale groep of binnenlandse groep als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2): elk van de groepsentiteiten die in dat tijdvak deel uitmaakt of uitmaakte van die multinationale groep of binnenlandse groep.
-
-## Titel 4. Transitieregels
-
-##### Artikel 7b.8. Transitieregels wijze van heffing en bijheffing-informatieaangifte
-
-1. In afwijking van de [artikelen 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), [8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), en [7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), stelt de inspecteur de termijn voor het doen van aangifte over het overgangsjaar zodanig vast dat deze niet eerder verstrijkt dan twintig maanden na het einde van dat tijdvak.
-
-2. In afwijking van de [artikelen 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), en [7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), is de belastingplichtige gehouden de belasting over het overgangsjaar aan de ontvanger overeenkomstig de aangifte te betalen binnen twintig maanden na het einde van dat tijdvak.
-
-3. In afwijking van [artikel 13.1, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1) worden de bijheffing-informatieaangifte en kennisgeving, bedoeld in dat artikel, met betrekking tot het overgangsjaar binnen achttien maanden na het einde van dat tijdvak ingediend bij de inspecteur.
-
-4. Dit artikel vindt geen toepassing indien door de multinationale groep waartoe de belastingplichtige behoort voorafgaand aan het overgangsjaar een bijheffing-informatieaangifte is ingediend in een andere staat waarmee Nederland voor wat betreft de BES eilanden voor dat jaar een kwalificerende overeenkomst tussen bevoegde autoriteiten als bedoeld in [artikel 13.1, eerste lid, onderdeel b, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1)heeft.
-
-5. Voor de toepassing van dit artikel wordt onder overgangsjaar verstaan: het eerste verslagjaar waarin een multinationale groep als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2) met betrekking tot de BES eilanden regels ter implementatie van [Richtlijn (EU) 2022/2525](32022L2525) of van de OESO-modelregels dient toe te passen, of het eerste verslagjaar waarin een binnenlandse groep als bedoeld in artikel 1.2, eerste lid, van die wet in samenhang met [artikel 7b.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=1&artikel=7b.1&z=2026-04-11&g=2026-04-11), voldoet aan de criteria, bedoeld in [artikel 2.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=2.1).
-
-### Hoofdstuk VIII. Formeel belastingrecht en invordering van bes belastingen
-
-## Titel 1. Algemene bepalingen
-
-### Afdeling 3. Heffing bij wege van voldoening en afdracht op aangifte
-
-### Afdeling 2. Domiciliekeuze
-
-### Afdeling 4. Geheimhouding
-
-## Titel 4. Bestuurlijke boeten
-
-### Afdeling 1. Verzuim- en vergrijpboeten
-
-## Titel 5. De invordering van bes belastingen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Invordering in eerste aanleg
-
-### Afdeling 2. Invordering in eerste aanleg
-
-### Afdeling 4. Bijzondere bepalingen voor de invordering
-
-#### Paragraaf 1. Verhaalsrechten
-
-#### Paragraaf 2. Uitstel van betaling en kwijtschelding
-
-### Afdeling 5. Aansprakelijkheid
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 1. Algemene bepalingen
-
-## Titel 6. Bepalingen van strafrecht en strafvordering
-
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 2. Raad van beroep voor belastingzaken
-
-### Afdeling 2. Raad van beroep voor belastingzaken
-
-### Afdeling 3a. Hoger beroep
-
-### Afdeling 3a. Hoger beroep
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 4. Beroep op een ander college
-
-#### Paragraaf 4. Onderzoek in het kader van te verlenen bijstand
-
-#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
-
-#### Paragraaf 5. Begrenzing van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
-
-### Afdeling 3. Bijstand bij invordering
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Identificatieverplichtingen
-
-## Titel 3. De uitwisseling van informatie
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.6a. Mededelingsplicht
-
-1. In bij algemene maatregel van bestuur aan te wijzen gevallen kunnen belastingplichtigen of inhoudingsplichtigen worden gehouden de inspecteur eigener beweging mededeling te doen van onjuistheden of onvolledigheden in voor de belastingheffing van belang zijnde gegevens en inlichtingen die hun bekend zijn of zijn geworden.
-
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de mededeling gedaan moet worden.
-
-3. Bij algemene maatregel van bestuur kan het niet nakomen van de verplichting worden aangemerkt als een overtreding. Indien het niet nakomen van de verplichting is te wijten aan opzet of grove schuld van de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting niet is of zou zijn geheven.
-
-### Afdeling 3. Toekenning van bevoegdheden
-
-### Afdeling 4. Geheimhouding
-
-## Titel 4. Bestuurlijke boeten
-
-### Afdeling 1. Verzuim- en vergrijpboeten
-
-##### Artikel 8.24b. Vergrijp niet, onjuist of onvolledig doen van aangifte
-
-1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat met betrekking tot een belasting welke bij wege van aanslag wordt geheven, de aangifte niet, dan wel onjuist of onvolledig is gedaan, vormt dit een vergrijp ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een bestuurlijke boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor die bestuurlijke boete.
-
-2. De grondslag voor de bestuurlijke boete wordt, voor zover een bedrag als gevolg van de opzet of grove schuld van de belastingplichtige niet is of zou zijn geheven, gevormd door:
-
-- a. het bedrag van de aanslag; of
-
-- b. indien verliezen ten onrechte in aanmerking zijn of worden genomen: het bedrag waarop de aanslag zou zijn berekend zonder rekening te houden met die verliezen.
-
-3. Indien verliezen in aanmerking zijn of worden genomen en als gevolg daarvan geen aanslag kan worden vastgesteld, kan de inspecteur de bestuurlijke boete niettemin opleggen. De bevoegdheid tot het opleggen van de bestuurlijke boete vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld zou zijn ontstaan indien geen verliezen in aanmerking zouden zijn genomen.
-
-### Afdeling 2. Voorschriften inzake het opleggen van bestuurlijke boeten
-
-## Titel 5. De invordering van bes belastingen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 3. Invordering in tweede aanleg
-
-### Afdeling 4. Bijzondere bepalingen voor de invordering
-
-#### Paragraaf 1. Verhaalsrechten
-
-#### Paragraaf 2. Uitstel van betaling en kwijtschelding
-
-#### Paragraaf 3. Verrekening en verjaring
-
-### Afdeling 5. Aansprakelijkheid
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Aansprakelijkheidsbepalingen
-
-## Titel 6. Bepalingen van strafrecht en strafvordering
-
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
-
-##### Artikel 8.83a. Meldingsplicht vastgoedbelasting
-
-1. Voor de bepaling van de verschuldigde vastgoedbelasting is eenieder die:
-
-- a. op enig moment van een onroerende zaak het genot verkrijgt krachtens eigendom, bezit of beperkt recht, verplicht binnen vier maanden na die verkrijging daarvan melding te doen bij de inspecteur;
-
-- b. van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht heeft, ter zake waarvan zich wijzigingen als bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV&titeldeel=4&artikel=4.8&z=2026-04-11&g=2026-04-11), hebben voorgedaan, verplicht binnen vier maanden nadat die wijzigingen zich hebben voorgedaan hiervan melding te doen bij de inspecteur;
-
-- c. bij het begin van een kalenderjaar van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht heeft en binnen een jaar na afloop van dat kalenderjaar geen aanslag heeft ontvangen, verplicht hiervan melding te doen bij de inspecteur binnen vier maanden na afloop van dat jaar.
-
-2. Ingeval meerdere personen of lichamen van een onroerende zaak het genot krachtens eigendom, bezit of beperkt recht hebben kan een van hen als vertegenwoordiger de meldingen doen.
-
-3. De meldingen bevatten in ieder geval de volgende informatie:
-
-- a. de naam, het adres en, indien personen of lichamen die het genot krachtens eigendom, bezit of beperkt recht van de onroerende zaak hebben op de BES eilanden wonen, onderscheidenlijk zijn gevestigd, een al dan niet fiscaal identificatienummer van die personen, onderscheidenlijk lichamen;
-
-- b. de datum waarop het genot krachtens eigendom, bezit of beperkt recht van de onroerende zaak aanvangt;
-
-- c. krachtens welk recht er het genot van de onroerende zaak is;
-
-- d. het adres van de onroerende zaak; en
-
-- e. een indicatieve waarde van de onroerende zaak, dan wel een indicatie van de wijziging van de waarde die zich die zich als gevolg van een wijziging van de onroerende zaak als bedoeld in het eerste lid, onderdeel b, heeft voorgedaan.
-
-4. Ingeval de aanslag niet of tot een te laag bedrag is vastgesteld omdat niet tijdig is voldaan aan de meldingsplicht, kan de inspecteur gelijktijdig met de vaststelling van de aanslag een bestuurlijke boete van ten hoogste 100 percent van het bedrag van de aanslag opleggen.
-
-##### Artikel 8.87a. Indienen jaarrekening
-
-1. Elk op de BES eilanden gevestigd lichaam is gehouden jaarlijks binnen negen maanden na afloop van het boekjaar een door de bestuurder van het lichaam gewaarmerkt afschrift van de jaarrekening, bestaande uit een balans, winst- en verliesrekening en toelichting op deze stukken, bij de inspecteur in te dienen. De eerste zin is eveneens van toepassing op een lichaam dat op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V&titeldeel=1&artikel=5.2&z=2026-04-11&g=2026-04-11) geacht wordt in Nederland te zijn gevestigd, alsmede op een lichaam dat niet op de BES eilanden is gevestigd en een onderneming drijft met behulp van een op de BES eilanden aanwezige vaste inrichting of met behulp van een op de BES eilanden woonachtige of gevestigde vaste vertegenwoordiger.
-
-2. De jaarrekening wordt opgesteld volgens de bepalingen van [artikel 15 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=15), dan wel volgens soortgelijke buitenlandse regelingen. Onze Minister kan nadere regels geven voor de opstelling van de jaarrekening.
-
-3. De inspecteur reikt tegen ontvangst van de jaarrekening een ontvangstbewijs uit.
-
-4. De inspecteur kan onder door hem te stellen voorwaarden uitstel voor het indienen van de jaarrekening verlenen.
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 2. Raad van beroep voor belastingzaken
-
-### Afdeling 3. Beroep
-
-### Afdeling 3a. Hoger beroep
-
-### Afdeling 4. Beroep op een ander college
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 1. Voorkoming van dubbele belasting
-
-#### Paragraaf 3. Notificatie van stukken
-
-#### Paragraaf 4. Onderzoek in het kader van te verlenen bijstand
-
-#### Paragraaf 4a. Verplichtingen ten behoeve van de automatische uitwisseling van inlichtingen volgens de Common Reporting Standard
-
-#### Paragraaf 5. Begrenzing van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 6. Geheimhouding; gebruik van inlichtingen
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Identificatieverplichtingen
-
-## Titel 3. De uitwisseling van informatie
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7b.9. Transitieregels termijnen bij een verslagjaar dat eindigt vóór 31 maart 2025
-
-Indien het overgangsjaar eindigt vóór 31 december 2024 of het verslagjaar eindigt vóór 31 maart 2025:
-
-- a. worden, in afwijking van [artikel 13.1, zevende lid, van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=13.1) en [artikel 7b.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), de bijheffing-informatieaangifte en de kennisgeving met betrekking tot dat overgangsjaar of verslagjaar vóór 30 juni 2026 ingediend.
-
-- b. verstrijkt de termijn voor het doen van aangifte, in afwijking van [artikel 8.5, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=1&artikel=8.5&z=2026-04-11&g=2026-04-11), [artikel 7b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11) en [artikel 7b.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), niet eerder dan 1 september 2026.
-
-- c. is de belastingplichtige, in afwijking van [artikel 8.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.11&z=2026-04-11&g=2026-04-11), [artikel 7b.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), en [artikel 7b.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=4&artikel=7b.8&z=2026-04-11&g=2026-04-11), gehouden vóór 1 september 2026 de belasting over dat overgangsjaar of verslagjaar overeenkomstig de aangifte aan de ontvanger te betalen.
-
-- d. vervalt de bevoegdheid tot naheffing, in afwijking van [artikel 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=2&afdeling=3&artikel=8.12&z=2026-04-11&g=2026-04-11), en [artikel 7b.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.2&z=2026-04-11&g=2026-04-11), op 1 augustus 2031.
-
-- e. vervalt de inlichtingenverplichting, bedoeld in [artikel 7b.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=2&artikel=7b.4&z=2026-04-11&g=2026-04-11), in afwijking van artikel 7b.4, derde en vierde lid, op 1 augustus 2031.
-
-- f. vervalt, in afwijking van [artikel 8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII&titeldeel=4&afdeling=1&artikel=8.23&z=2026-04-11&g=2026-04-11), en [artikel 7b.5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=3&artikel=7b.5&z=2026-04-11&g=2026-04-11), de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen op 1 augustus 2031.
-
-- g. vervalt de bevoegdheid tot het opleggen van een vergrijpboete, bedoeld in [artikel 7b.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIIb&titeldeel=3&artikel=7b.6&z=2026-04-11&g=2026-04-11), in afwijking van artikel 7b.6, derde en vierde lid, op 1 augustus 2031.
-
-### Hoofdstuk VIII. Formeel belastingrecht en invordering van bes belastingen
-
-## Titel 1. Algemene bepalingen
-
-### Afdeling 2. Heffing bij wege van aanslag
-
-## Titel 3. Bijzondere bepalingen voor de belastingheffing
-
-### Afdeling 1. Vertegenwoordiging
-
-### Afdeling 2. Domiciliekeuze
-
-### Afdeling 3. Toekenning van bevoegdheden
-
-### Afdeling 4. Geheimhouding
-
-## Titel 4. Bestuurlijke boeten
-
-### Afdeling 1. Verzuim- en vergrijpboeten
-
-### Afdeling 2. Voorschriften inzake het opleggen van bestuurlijke boeten
-
-## Titel 5. De invordering van bes belastingen
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 3. Invordering in tweede aanleg
-
-### Afdeling 4. Bijzondere bepalingen voor de invordering
-
-#### Paragraaf 3. Verrekening en verjaring
-
-### Afdeling 5. Aansprakelijkheid
-
-#### Paragraaf 2. Aansprakelijkheidsbepalingen
-
-## Titel 7. Verplichtingen ten dienste van de belastingheffing en invordering
-
-## Titel 8. Rechtspleging
-
-### Afdeling 1. Bezwaar
-
-### Afdeling 3. Beroep
-
-## Titel 9. Bepalingen van internationaal recht
-
-### Afdeling 2. Internationale bijstandsverlening
-
-#### Paragraaf 2. Vormen van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 3. Notificatie van stukken
-
-#### Paragraaf 4. Onderzoek in het kader van te verlenen bijstand
-
-#### Paragraaf 5. Begrenzing van door de BES eilanden te verlenen bijstand
-
-#### Paragraaf 6. Geheimhouding; gebruik van inlichtingen
-
-### Afdeling 3. Bijstand bij invordering
-
-### Hoofdstuk IX. Spaartegoeden
-
-## Titel 1. Algemene bepalingen
-
-## Titel 2. Identificatieverplichtingen
-
-## Titel 3. De uitwisseling van informatie
-
-### Hoofdstuk X. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 1 december 2010, nr. 5677198/10/6, houdende vaststelling van het model van het legitimatiebewijs van de ambtenaar Douane- en Accijnswet BES (Regeling model legitimatiebewijs ambtenaar Douane- en Accijnswet BES)"
+citeertitel: "Regeling model legitimatiebewijs ambtenaar Douane- en Accijnswet BES"
 identifier: "BWBR0029046"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029046"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11098123"
-version_id: "18144212"
-internal_id: "C25463921"
-label_id: "11072434"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029046/2011-01-01/0"
-intitule_bron: "Stcrt.2010-19608"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-01"
-intitule_published: "2010-12-09"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-19608"
-original_signed_date: "2010-12-01"
-original_published_date: "2010-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-19608"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029046&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029046&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling model legitimatiebewijs ambtenaar Douane- en Accijnswet BES"
-signed_date: "2010-12-01"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029046"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 1 december 2010, nr. 5677198/10/6, houdende vaststelling van het model van het legitimatiebewijs van de ambtenaar Douane- en Accijnswet BES (Regeling model legitimatiebewijs ambtenaar Douane- en Accijnswet BES)
-
-Gelet op [artikel 2.50, tweede lid, tweede volzin, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.50);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Douane- en Accijnswet BES in werking treedt.
 
 ##### Artikel 1
 
@@ -77,5 +49,3 @@ Deze regeling wordt aangehaald als: Regeling model legitimatiebewijs ambtenaar D
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236) in werking treedt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)"
+citeertitel: "Besluit bewapening en overige uitrusting politie BES"
 identifier: "BWBR0028588"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028588"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10886313"
-version_id: "17868572"
-internal_id: "C24684361"
-label_id: "10861224"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028588/2010-10-10/0"
-intitule_bron: "Stb.2010-378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-30"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-378"
-original_signed_date: "2010-09-30"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-378"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028588&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028588&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Besluit bewapening en overige uitrusting politie BES"
-signed_date: "2010-09-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028588"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 juli 2010, nr. 2010-0000461978, CZW/WSG;
-
-Gelet op de [artikelen 41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=41), en [42, eerste en tweede lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=42);
-
-De Raad van State gehoord (advies van 11 augustus 2010, nr. W04.10.0346/I );
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 22 september 2010, nr. 2010-0000600906;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,25 +20,25 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 In dit besluit wordt verstaan onder:
 
-- a. **rijkswet:** de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
+- a. *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
 
-- b. **ambtenaar:** de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met de hoofdrang hoger dan die van aspirant;
+- b. *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met de hoofdrang hoger dan die van aspirant;
 
-- c. **aspirant:** degene die is toegelaten tot de basisopleiding;
+- c. *aspirant:* degene die is toegelaten tot de basisopleiding;
 
-- d. **korpsbeheerder:** degene die op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba;
+- d. *korpsbeheerder:* degene die op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba;
 
-- e. **hoofdrang:** een hoofdrang als bedoeld in [artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=3);
+- e. *hoofdrang:* een hoofdrang als bedoeld in [artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=3);
 
-- f. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- f. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- g. **bevoegd gezag:** het gezag, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=16) en [17 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=17) en [artikel 8 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=8);
+- g. *bevoegd gezag:* het gezag, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=16) en [17 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=17) en [artikel 8 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=8);
 
-- h. **keuringscommissies:** keuringscommissies als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=19&z=2010-10-10&g=2010-10-10);
+- h. *keuringscommissies:* keuringscommissies als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=19&z=2010-10-10&g=2010-10-10);
 
-- i. **keuringsreglementen:** keuringsreglementen als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=20&z=2010-10-10&g=2010-10-10);
+- i. *keuringsreglementen:* keuringsreglementen als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=20&z=2010-10-10&g=2010-10-10);
 
-- j. **aanhoudings- en ondersteuningswerkzaamheden:** werkzaamheden als bedoeld in [artikel 6, eerste lid, a tot en met e, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6).
+- j. *aanhoudings- en ondersteuningswerkzaamheden:* werkzaamheden als bedoeld in [artikel 6, eerste lid, a tot en met e, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6).
 
 ### Hoofdstuk 2. Bewapening en overige uitrusting
 
@@ -282,43 +248,43 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 - a. voor alle politiespeurhonden met uitzondering van de politiespeurhonden menselijke geur:
 
-- 1°. gehoorzaamheid van de politiespeurhond aan de geleider;
+   - 1°. gehoorzaamheid van de politiespeurhond aan de geleider;
 
-- 2°. een goede samenwerking van de politiespeurhond met de geleider;
+   - 2°. een goede samenwerking van de politiespeurhond met de geleider;
 
-- 3°. het niet agressief zijn ten opzichte van mensen en dieren;
+   - 3°. het niet agressief zijn ten opzichte van mensen en dieren;
 
-- 4°. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
+   - 4°. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
 
 - b. voor de speurtaak van de politiespeurhonden menselijke geur:
 
-- 1°. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
+   - 1°. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
 
-- 2°. het opsporen en lokaliseren van een persoon;
+   - 2°. het opsporen en lokaliseren van een persoon;
 
-- 3°. het speuren over gecombineerde terreinen;
+   - 3°. het speuren over gecombineerde terreinen;
 
 - c. voor de geuridentificatietaak van de politiespeurhond menselijke geur: het uitvoeren van een tweetal geuridentificatieproeven, zoals in het keuringsreglement omschreven;
 
 - d. voor de politiespeurhond verdovende middelen:
 
-- 1°. het zelfstandig willen en kunnen zoeken van verdovende middelen;
+   - 1°. het zelfstandig willen en kunnen zoeken van verdovende middelen;
 
-- 2°. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen op te sporen, die in het keuringsreglement zijn aangewezen;
+   - 2°. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen op te sporen, die in het keuringsreglement zijn aangewezen;
 
 - e. voor de politiespeurhond explosieven:
 
-- 1°. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie;
+   - 1°. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie;
 
-- 2°. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
+   - 2°. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
 
 - f. voor de politiespeurhond stoffelijke resten: het zelfstandig willen en kunnen zoeken naar stoffelijke resten van mensen;
 
 - g. voor de politiespeurhond brandversnellende middelen:
 
-- 1°. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen;
+   - 1°. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen;
 
-- 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen op te sporen, die in het keuringsreglement zijn aangewezen.
+   - 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen op te sporen, die in het keuringsreglement zijn aangewezen.
 
 ##### Artikel 21
 
@@ -517,5 +483,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Rijkswet politie van Cu
 ##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit bewapening en overige uitrusting politie BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

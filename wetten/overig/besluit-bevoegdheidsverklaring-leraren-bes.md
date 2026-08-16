@@ -1,53 +1,31 @@
 ---
 title: "Besluit bevoegdheidsverklaring leraren BES"
 identifier: "BWBR0028647"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028647"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10916113"
-version_id: "17899502"
-internal_id: "C24832161"
-label_id: "10890684"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028647/2022-08-01/0"
-intitule_bron: "Stb.2010-587"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-587"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-587"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028647&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0028647&g=2022-08-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0028647"
+opgehaald: 2026-08-16
 ---
+
 # Besluit bevoegdheidsverklaring leraren BES
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de wet:** de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- b. *de wet:* de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- c. **het bevoegd gezag:** voor wat betreft:
+- c. *het bevoegd gezag:* voor wat betreft:
 
-- 1°. een openbare school: het bestuurscollege van het desbetreffende openbaar lichaam;
+   - 1°. een openbare school: het bestuurscollege van het desbetreffende openbaar lichaam;
 
-- 2°. een bijzondere school: het schoolbestuur.
+   - 2°. een bijzondere school: het schoolbestuur.
 
 ##### Artikel 2
 

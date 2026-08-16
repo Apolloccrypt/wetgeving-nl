@@ -1,51 +1,29 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 4"
 identifier: "BWBR0028746"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028746"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10963413"
-version_id: "17953692"
-internal_id: "C25007361"
-label_id: "10941184"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028746/2015-01-01/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028746&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0028746&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0028746"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 4
 
 ## Boek 4. Erfrecht
 
-## Titel Eerste t/m Tiende
+### Titel Eerste t/m Tiende
 
 ##### Artikelen 551 t/m 857
 
 [vervallen]
 
-## Titel Elfde. Van erfopvolging bij versterf
+### Titel Elfde. Van erfopvolging bij versterf
 
-### Afdeling Eerste. Algemene bepalingen
+#### Afdeling Eerste. Algemene bepalingen
 
 ##### Artikel 858
 
@@ -155,7 +133,7 @@ De wet slaat geen acht, noch op de aard, noch op de oorsprong der goederen, om d
 
 Deze eerste verdeling tussen de vaderlijke en de moederlijke liniën daargesteld zijnde, heeft er geen verdere kloving tussen de onderscheiden takken plaats; maar de helft, aan iedere linie te beurt gevallen, behoort aan de erfgenaam, of de erfgenamen, welke de overledene het naast in graad bestaan, behoudens het geval van plaatsvervulling.
 
-### Afdeling Tweede. Van de orde der erfopvolging
+#### Afdeling Tweede. Van de orde der erfopvolging
 
 ##### Artikel 879
 
@@ -225,59 +203,59 @@ Onder de benaming van broeders en zusters, in deze afdeling voorkomende, worden 
 
 2. Indien in de ene linie geen bloedverwanten van de graad, waarin men erven kan, gevonden worden, bekomen de bloedverwanten in de andere linie de gehele erfenis.
 
-### Afdeling Derde. Van erfopvolging, wanneer er natuurlijke kinderen aanwezig zijn
+#### Afdeling Derde. Van erfopvolging, wanneer er natuurlijke kinderen aanwezig zijn
 
 ##### Artikel 889
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 890
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 891
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 892
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 893
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 894
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 895
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 896
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 897
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 898
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 899
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 900
 
-Vervallen
+*Vervallen*
 
-## Titel Twaalfde. Van uiterste willen
+### Titel Twaalfde. Van uiterste willen
 
-### Afdeling Eerste. Algemene bepalingen
+#### Afdeling Eerste. Algemene bepalingen
 
 ##### Artikel 901
 
@@ -371,7 +349,7 @@ Uiterste willen, gemaakt tengevolge van dwang, bedrog of arglist, zijn nietig. [
 
 Indien door een en hetzelfde ongeval, of op dezelfde dag, mochten omkomen de erflater en de erfgenaam of de legataris, of degene, die bij een geoorloofde ondererfstelling in plaats van deze laatste zoude zijn opgetreden, zonder dat men weten kunne, wie van de alzo omgekomenen het eerst overleden zij, worden zij vermoed op hetzelfde ogenblik gestorven te zijn, en er heeft geen overgang van rechten tengevolge van de uiterste wil plaats.
 
-### Afdeling Tweede. Van de bekwaamheid om bij uiterste wil te beschikken, of daarvan voordeel te genieten
+#### Afdeling Tweede. Van de bekwaamheid om bij uiterste wil te beschikken, of daarvan voordeel te genieten
 
 ##### Artikel 922
 
@@ -473,7 +451,7 @@ De notaris, die een uiterste wil bij openbare akte heeft verleden, en de getuige
 
 Hij, die veroordeeld is omdat hij de erflater heeft omgebracht, hij, die de uiterste wil des erflaters heeft verdonkerd, vernietigd of vervalst, of die de erflater door geweld of dadelijkheden heeft belet zijn uiterste wil te herroepen of te veranderen, zal, evenmin als zijn medeëchtgenoot en zijn kinderen, uit de uiterste wil enig voordeel kunnen genieten.
 
-### Afdeling Derde. Van de legitieme portie of het wettelijk erfdeel, en van de inkorting der giften, welke die portie zouden verminderen
+#### Afdeling Derde. Van de legitieme portie of het wettelijk erfdeel, en van de inkorting der giften, welke die portie zouden verminderen
 
 ##### Artikel 939
 
@@ -567,7 +545,7 @@ De goederen, die uit kracht van vermindering in de boedel moeten terugkeren, wor
 
 3. De rechtsvordering tot inkorting jegens derde-verkrijgers verjaart door het tijdsverloop van drie jaren, te rekenen van de dag waarop de legitimaris de erfenis heeft aanvaard.
 
-### Afdeling Vierde. Van de vorm der uiterste willen
+#### Afdeling Vierde. Van de vorm der uiterste willen
 
 ##### Artikel 956
 
@@ -703,7 +681,7 @@ Zodanige uiterste wil zal krachteloos zijn, indien de erflater is overleden drie
 
 De formaliteiten, waaraan de onderscheiden uiterste willen, volgens de bepalingen van deze afdeling, onderworpen zijn, moeten worden in acht genomen, op straffe van nietigheid.
 
-### Afdeling Vijfde. Van de erfstellingen
+#### Afdeling Vijfde. Van de erfstellingen
 
 ##### Artikel 980
 
@@ -719,7 +697,7 @@ Erfstelling is een uiterste wilsbeschikking, waarbij de erflater aan een of meer
 
 [vervallen]
 
-### Afdeling Zesde. Van legaten
+#### Afdeling Zesde. Van legaten
 
 ##### Artikel 983
 
@@ -791,7 +769,7 @@ Een legaat, aan een schuldeiser gemaakt, wordt niet gerekend tot afdoening der s
 
 Wanneer de nalatenschap niet voor het geheel of een gedeelte is aanvaard, of wanneer dezelve is aanvaard onder het voorrecht van boedelbeschrijving, en de nagelaten goederen niet voldoende zijn om de legaten in hun geheel te voldoen, zullen al de legaten, in evenredigheid van hun hoegrootheid, worden verminderd, tenware de erflater daaromtrent anders mocht hebben beschikt.
 
-### Afdeling Zevende. Van de geoorloofde erfstellingen over de hand, ten behoeve van kleinkinderen en afstammelingen van broeders en zusters
+#### Afdeling Zevende. Van de geoorloofde erfstellingen over de hand, ten behoeve van kleinkinderen en afstammelingen van broeders en zusters
 
 ##### Artikel 999
 
@@ -879,7 +857,7 @@ De bezwaarde erfgenaam, die zelf het beheer heeft, moet het bezwaarde goed als e
 
 [vervallen]
 
-### Afdeling Achtste. Van de erfstellingen over de hand in hetgeen de erfgenaam of legataris onvervreemd en onverteerd zal nalaten
+#### Afdeling Achtste. Van de erfstellingen over de hand in hetgeen de erfgenaam of legataris onvervreemd en onverteerd zal nalaten
 
 ##### Artikel 1015
 
@@ -895,7 +873,7 @@ De verplichting tot het maken ener boedelbeschrijving of lijst, na het overlijde
 
 2. Ten aanzien van de gerede penningen of van de opbrengst der vervreemde goederen, kan uit aantekeningen van de bezwaarde erfgenaam of legataris, uit huiselijke papieren, of door alle andere bewijsmiddelen worden opgemaakt, of, en in hoeverre, er iets van de erfenis of van het legaat is overgebleven.
 
-### Afdeling Negende. Van het herroepen van uiterste wilsbeschikkingen, en het vervallen van dezelve
+#### Afdeling Negende. Van het herroepen van uiterste wilsbeschikkingen, en het vervallen van dezelve
 
 ##### Artikel 1018
 
@@ -959,7 +937,7 @@ Voorts zal de erflater mede geacht worden gezamenlijk gelegateerd te hebben, wan
 
 De vervallenverklaring van uiterste wilsbeschikkingen kan, na de dood des erflaters, worden gevraagd, ter zake van het niet ten uitvoer brengen der voorwaarden.
 
-## Titel Dertiende. Van uitvoerders van uiterste wilsbeschikkingen, en van bewindvoerders
+### Titel Dertiende. Van uitvoerders van uiterste wilsbeschikkingen, en van bewindvoerders
 
 ##### Artikel 1031
 
@@ -1049,7 +1027,7 @@ Indien de erflater geen personen heeft aangewezen, welke in de plaats van de ont
 
 De uitvoerders van uiterste wilsbeschikkingen, mitsgaders de bewindvoerders bij [artikel 1046](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Dertiende&artikel=1046&z=2015-01-01&g=2015-01-01) vermeld, kunnen om dezelfde redenen als de voogden worden afgezet.
 
-## Titel Veertiende. Van het recht van beraad en het voorrecht van boedelbeschrijving
+### Titel Veertiende. Van het recht van beraad en het voorrecht van boedelbeschrijving
 
 ##### Artikel 1050
 
@@ -1163,9 +1141,9 @@ De bepalingen van de [artikelen 1051](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Een bepaling, waarbij de erflater zoude hebben verboden om van het recht van beraad en van het voorrecht van boedelbeschrijving gebruik te maken, is nietig en van onwaarde.
 
-## Titel Vijftiende. Van het aanvaarden en verwerpen van erfenissen
+### Titel Vijftiende. Van het aanvaarden en verwerpen van erfenissen
 
-### Afdeling Eerste. Van het aanvaarden van erfenissen
+#### Afdeling Eerste. Van het aanvaarden van erfenissen
 
 ##### Artikel 1070
 
@@ -1221,7 +1199,7 @@ De bevoegdheid om een erfenis te aanvaarden verjaart door het verloop van dertig
 
 De erfgenaam, die de erfenis verworpen heeft, kan dezelve nog aanvaarden, zolang zij nog niet door degenen, welke door de wet of door een uiterste wil geroepen worden, aanvaard is, behoudens de rechten van derden, zoals bij het voorgaande artikel gezegd is.
 
-### Afdeling Tweede. Van het verwerpen van erfenissen
+#### Afdeling Tweede. Van het verwerpen van erfenissen
 
 ##### Artikel 1083
 
@@ -1263,9 +1241,11 @@ Erfgenamen, welke goederen, tot een nalatenschap behorende, hebben te zoek gemaa
 
 [Vervallen]
 
-## Titel Zestiende. Van boedelscheiding
+### Titel Zestiende. Van boedelscheiding
 
-### Afdeling Eerste. Van boedelscheiding en haar gevolgen
+#### Afdeling Eerste. Van boedelscheiding en haar gevolgen
+
+[vervallen]
 
 ##### Artikel 1092
 
@@ -1347,15 +1327,15 @@ Erfgenamen, welke goederen, tot een nalatenschap behorende, hebben te zoek gemaa
 
 [vervallen]
 
-### Afdeling Tweede. Van inbreng
+#### Afdeling Tweede. Van inbreng
 
 ##### Artikel 1112
 
 De erfgenamen moeten alle schenkingen onder de levenden, welke zij van de erflater hebben genoten, inbrengen en wel als volgt:
 
-- 1°. door de erfgenamen in de nederdalende linie, hetzij dezelve de nalatenschap zuiver, of onder het voorrecht van boedelbeschrijving hebben aanvaard, en hetzij dezelve slechts tot het wettelijk erfdeel of tot meer zijn geroepen; tenware de giften met uitdrukkelijke vrijstelling van inbreng zijn gedaan, of de begiftigden bij een authentieke akte, of bij uiterste wil, van de verplichting tot inbreng zijn ontheven;
+- 1° door de erfgenamen in de nederdalende linie, hetzij dezelve de nalatenschap zuiver, of onder het voorrecht van boedelbeschrijving hebben aanvaard, en hetzij dezelve slechts tot het wettelijk erfdeel of tot meer zijn geroepen; tenware de giften met uitdrukkelijke vrijstelling van inbreng zijn gedaan, of de begiftigden bij een authentieke akte, of bij uiterste wil, van de verplichting tot inbreng zijn ontheven;
 
-- 2°. door alle andere erfgenamen, hetzij bij versterf, hetzij bij uiterste wil, doch alleen in het geval dat de erflater of schenker de inbreng uitdrukkelijk heeft bevolen of bedongen.
+- 2° door alle andere erfgenamen, hetzij bij versterf, hetzij bij uiterste wil, doch alleen in het geval dat de erflater of schenker de inbreng uitdrukkelijk heeft bevolen of bedongen.
 
 ##### Artikel 1113
 
@@ -1437,7 +1417,7 @@ De rente en vruchten van hetgeen aan inbreng is onderworpen worden eerst verschu
 
 Al hetgeen door toeval en zonder schuld van de begiftigde is verloren gegaan, behoeft niet te worden ingebracht.
 
-### Afdeling Derde. Van de betaling der schulden
+#### Afdeling Derde. Van de betaling der schulden
 
 ##### Artikel 1126
 
@@ -1491,7 +1471,9 @@ Hetzelve recht verjaart door het tijdsverloop van drie jaren.
 
 De schuldeisers van de erfgenaam hebben geen bevoegdheid, om die afscheiding des boedels tegen de schuldeisers der nalatenschap te vorderen.
 
-### Afdeling Vierde. Van de vernietiging van aangegane boedelscheiding
+#### Afdeling Vierde. Van de vernietiging van aangegane boedelscheiding
+
+[vervallen]
 
 ##### Artikel 1138
 
@@ -1529,7 +1511,7 @@ De schuldeisers van de erfgenaam hebben geen bevoegdheid, om die afscheiding des
 
 [vervallen]
 
-### Afdeling Vijfde. Van boedelverdeling, door bloedverwanten in de opgaande linie tussen hun afkomelingen onderling of tussen dezen en hun langstlevende echtgenoot gemaakt
+#### Afdeling Vijfde. Van boedelverdeling, door bloedverwanten in de opgaande linie tussen hun afkomelingen onderling of tussen dezen en hun langstlevende echtgenoot gemaakt
 
 ##### Artikel 1147
 
@@ -1551,7 +1533,7 @@ De verdeling overeenkomstig [artikel 1147](https://wetten.overheid.nl/jci1.3:c:B
 
 De erfgenamen, die een beroep doen op een der in het vorige artikel bedoelde gronden tot vernietiging, zullen de kosten, tot de schatting der goederen vereist, moeten voorschieten, en die kosten zullen te hunnen laste blijven, indien hun vordering ongegrond bevonden wordt.
 
-## Titel Zeventiende. Van onbeheerde nalatenschappen
+### Titel Zeventiende. Van onbeheerde nalatenschappen
 
 ##### Artikel 1152
 
@@ -1579,7 +1561,7 @@ Indien zich, na verloop van drie jaren, te rekenen van het openvallen der nalate
 
 De [artikelen 1062 tot en met 1065](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1062&z=2015-01-01&g=2015-01-01) en [1067](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1067&z=2015-01-01&g=2015-01-01) zijn ook op de curators van onbeheerde nalatenschappen toepasselijk. Zij kunnen als loon in rekening brengen twee en een half ten honderd der ontvangsten en anderhalf ten honderd der uitgaven.
 
-## Titel Achttiende t/m twintigste
+### Titel Achttiende t/m twintigste
 
 ##### Artikelen 1157 t/m 1249
 

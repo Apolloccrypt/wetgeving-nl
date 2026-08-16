@@ -1,52 +1,18 @@
 ---
 title: "Onderlinge regeling uitrusting politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (uitrustingsregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Uitrustingregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028960"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028960"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11077323"
-version_id: "18105462"
-internal_id: "C25223011"
-label_id: "11051824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028960/2010-10-10/0"
-intitule_bron: "Stcrt.2010-11333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-07-01"
-intitule_published: "2010-07-21"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-11333"
-original_signed_date: "2010-07-01"
-original_published_date: "2010-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-11333"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028960&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028960&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Uitrustingregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-07-01"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028960"
+opgehaald: 2026-08-16
 ---
+
 # Onderlinge regeling uitrusting politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (uitrustingsregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
-
-Overwegende:
-
-dat op grond van [artikel 42, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=42) de landen onderling een regeling treffen houdende regels voor de uitrusting van ambtenaren van politie;
-
-dat elk van de landen hetgeen in deze regeling is overeengekomen vaststellen bij landsbesluit, houdende algemene maatregelen, of algemene maatregel van bestuur;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en [artikel 42, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=42),
-
-Komen het volgende overeen:
-
-Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,11 +20,11 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 In deze regeling wordt verstaan onder:
 
-- a. **rijkswet:** de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
+- a. *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
 
-- b. **ambtenaar:** de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met de hoofdrang hoger dan die van aspirant;
+- b. *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met de hoofdrang hoger dan die van aspirant;
 
-- c. **aspirant:** degene die is toegelaten tot de basisopleiding.
+- c. *aspirant:* degene die is toegelaten tot de basisopleiding.
 
 ### Hoofdstuk 2. Bewapening en overige uitrusting
 
@@ -289,5 +255,3 @@ De onderlinge regeling treedt in werking op het tijdstip waarop de [Rijkswet pol
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Uitrustingregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant en de Curaçaosche Courant.

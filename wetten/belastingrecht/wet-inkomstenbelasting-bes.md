@@ -1,38 +1,16 @@
 ---
 title: "Wet inkomstenbelasting BES"
 identifier: "BWBR0029281"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029281"
+categorie: "Belastingrecht"
 soort: "wet-BES"
-stam_id: "11169673"
-version_id: "18270512"
-internal_id: "C29532731"
-label_id: "11144954"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029281/2026-01-01/0"
-intitule_bron: "Stb.2010-851"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-21"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2010-851"
-original_signed_date: "2010-12-21"
-original_published_date: "2010-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-851"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029281&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0029281&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-21"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0029281"
+opgehaald: 2026-08-16
 ---
+
 # Wet inkomstenbelasting BES
 
 ##### Artikel A
@@ -119,7 +97,7 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning die
 
 ##### Artikel 6
 
-1. De opbrengst van onderneming en arbeid omvat de niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01) vallende voordelen, die als winst, honorarium, traktement, salaris, loon, vrije woning, vrije kost en inwoning, aandeel in winst of overwinst, tantième, gratificatie, vacatie- of presentiegeld of onder welke naam of vorm ook worden verkregen uit bedrijf of beroep (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door belastingplichtige zelf of door een ander vervuld daaronder begrepen) en uit handelingen, werkzaamheden en diensten van elke aard.
+1. De opbrengst van onderneming en arbeid omvat de niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01) vallende voordelen, die als winst, honorarium, traktement, salaris, loon, vrije woning, vrije kost en inwoning, aandeel in winst of overwinst, tantième, gratificatie, vacatie- of presentiegeld of onder welke naam of vorm ook worden verkregen uit bedrijf of beroep (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door belastingplichtige zelf of door een ander vervuld daaronder begrepen) en uit handelingen, werkzaamheden en diensten van elke aard.
 
 2. Onder die voordelen worden mede begrepen:
 
@@ -195,11 +173,11 @@ renten van schulden alsmede kosten van geldlening, kosten vallende op de verzilv
 
 2. Uitgaven tot het voeren van een zekere staat worden niet als bedrijfs- en beroepskosten doch als particuliere uitgaven aangemerkt, ook dan wanneer zij tevens worden gedaan in het belang van het bedrijf, dan wel ter bevordering van de beroepsuitoefening of van enig andere werkzaamheid van de belastingplichtige.
 
-3. Het bedrag van de op de gezamenlijke opbrengst van dienstbetrekking en andere opbrengst uit arbeid buiten bedrijf betrekking hebbende aftrekbare kosten wordt gesteld op USD 280. In plaats daarvan kan de belastingplichtige de werkelijke kosten in mindering brengen voor zover deze meer bedragen dan USD 560. De aftrek bedraagt in beide gevallen echter niet meer dan de opbrengst.
+3. Het bedrag van de op de gezamenlijke opbrengst van dienstbetrekking en andere opbrengst uit arbeid buiten bedrijf betrekking hebbende aftrekbare kosten wordt gesteld op USD 280. In plaats daarvan kan de belastingplichtige de werkelijke kosten in mindering brengen voor zover deze meer bedragen dan USD 560. De aftrek bedraagt in beide gevallen echter niet meer dan de opbrengst.
 
 4. Van de onzuivere opbrengst van een bedrijf of beroep wordt bovendien afgetrokken hetgeen wegens vermindering van de gebruikswaarde moet worden afgeschreven op de aanschaffingskosten van zaken, die voor de uitoefening van het bedrijf of beroep worden gebezigd, op hetgeen bij overname van een bedrijf of beroep voor goodwill werd betaald, zomede hetgeen wegens onverhaalbaarheid moet worden afgeschreven op schuldvorderingen, die tot het bedrijf of beroep betrekking hebben, een en ander volgens goed koopmansgebruik.
 
-- 1e. In afwijking van het bepaalde in het vierde lid kan een belastingplichtige, die opbrengst uit onderneming geniet, een derde van de aanschaffingskosten of voortbrengingskosten van bedrijfsmiddelen, die voor de uitoefening van een onderneming worden gebezigd, willekeurig, mits vervroegd, afschrijven.
+5. - 1e. In afwijking van het bepaalde in het vierde lid kan een belastingplichtige, die opbrengst uit onderneming geniet, een derde van de aanschaffingskosten of voortbrengingskosten van bedrijfsmiddelen, die voor de uitoefening van een onderneming worden gebezigd, willekeurig, mits vervroegd, afschrijven.
 
 - 2e. Met betrekking tot gebouwen, is deze afschrijving reeds mogelijk, zodra ter zake van de verwerving of de verbetering verplichtingen zijn aangegaan of voortbrengingskosten zijn gemaakt, met dien verstande dat voor ingebruikneming ter zake van aangegane verplichtingen niet meer vervroegd kan worden afgeschreven dan het bedrag dat ter zake van die verplichtingen is betaald.
 
@@ -265,9 +243,9 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - a. de werkruimte, de inrichting daaronder begrepen, in de woning van de belastingplichtige als:
 
-- 1°. ingeval hij tevens soortgelijke werkruimte buiten die woning ter beschikking heeft, hij het gezamenlijke bedrag van zijn opbrengst uit arbeid, bedrijf en beroep voor minder dan tweederde in de werkruimte in die woning verwerft dan wel,
+   - 1°. ingeval hij tevens soortgelijke werkruimte buiten die woning ter beschikking heeft, hij het gezamenlijke bedrag van zijn opbrengst uit arbeid, bedrijf en beroep voor minder dan tweederde in de werkruimte in die woning verwerft dan wel,
 
-- 2°. ingeval hij niet tevens soortgelijke werkruimte buiten die woning ter beschikking heeft, hij het gezamenlijke bedrag van zijn opbrengst uit arbeid, bedrijf en beroep voor minder dan tweederde in of vanuit de werkruimte in die woning verwerft;
+   - 2°. ingeval hij niet tevens soortgelijke werkruimte buiten die woning ter beschikking heeft, hij het gezamenlijke bedrag van zijn opbrengst uit arbeid, bedrijf en beroep voor minder dan tweederde in of vanuit de werkruimte in die woning verwerft;
 
 - b. woon-werkverkeer;
 
@@ -297,13 +275,13 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 2. Het gezamenlijk bedrag van kosten als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), voor zover die verband houden met een hierna te noemen post, wordt, behalve voor zover de kosten ten laste komen van de winst uit bedrijf van de belastingplichtige, in aanmerking genomen met inachtneming van de daarbij gegeven normering:
 
-- a. muziekinstrumenten, geluidsapparatuur, gereedschap, tekstverwerkers, schrijf- en rekenmachines, computers, faxmachines, apparatuur voor telefoongesprekken, andere dergelijke apparatuur, alsmede beeldapparatuur: voor zover het gezamenlijk bedrag per jaar, op basis van afschrijving in drie jaar, uitgaat boven USD 419;
+- a. muziekinstrumenten, geluidsapparatuur, gereedschap, tekstverwerkers, schrijf- en rekenmachines, computers, faxmachines, apparatuur voor telefoongesprekken, andere dergelijke apparatuur, alsmede beeldapparatuur: voor zover het gezamenlijk bedrag per jaar, op basis van afschrijving in drie jaar, uitgaat boven USD 419;
 
-- b. cursussen, congressen, seminars, symposia en dergelijke met inbegrip van de desbetreffende reizen en het desbetreffende verblijf: voor 75%, tot ten hoogste USD 1.397.
+- b. cursussen, congressen, seminars, symposia en dergelijke met inbegrip van de desbetreffende reizen en het desbetreffende verblijf: voor 75%, tot ten hoogste USD 1.397.
 
 3. Autokosten worden als volgt in aanmerking genomen:
 
-- a. ingeval het een auto betreft die niet behoort tot het bedrijfsvermogen van een ondernemer: tot een bedrag van USD 0,20 per kilometer;
+- a. ingeval het een auto betreft die niet behoort tot het bedrijfsvermogen van een ondernemer: tot een bedrag van USD 0,20 per kilometer;
 
 - b. ingeval het een aan belastingplichtige ter beschikking gestelde auto betreft: het bedrag van de door hem betaalde brandstofkosten.
 
@@ -351,17 +329,17 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - 1°. Afkoopsommen, schadeloosstellingen en tegemoetkomingen welke toegekend zijn:
 
-- a. ter vervanging van gederfde of te derven beloningen, al dan niet ingegane periodieke uitkeringen en andere opbrengsten of inkomsten dan wel
+   - a. ter vervanging van gederfde of te derven beloningen, al dan niet ingegane periodieke uitkeringen en andere opbrengsten of inkomsten dan wel
 
-- b. ter zake van het staken of niet verrichten van werkzaamheden in de ruimste zin, dan wel wegens het prijsgeven van een uitzicht op deelgerechtigdheid in een bedrijf of een zelfstandig uitgeoefend beroep;
+   - b. ter zake van het staken of niet verrichten van werkzaamheden in de ruimste zin, dan wel wegens het prijsgeven van een uitzicht op deelgerechtigdheid in een bedrijf of een zelfstandig uitgeoefend beroep;
 
 - 2°. hetgeen bij vervreemding van aandelen in een vennootschap waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en welke in liquidatie is getreden of waarschijnlijk binnenkort in liquidatie zal treden, ontvangen wordt boven het op de desbetreffende aandelen gestorte kapitaal; behoudens het bepaalde in het sub 3° van dit lid geldt deze bepaling niet, indien de nieuwe verkrijger een op de BES eilanden wonende belastingplichtige is, die bij de verkrijging niet in de uitoefening van een bedrijf of beroep heeft gehandeld;
 
 - 3°. De winst uit aanmerkelijk belang, zijnde het gezamenlijke bedrag van:
 
-- a. voordelen welke worden getrokken uit tot een aanmerkelijk belang behorende aandelen of winstbewijzen verminderd met de aftrekbare kosten (reguliere voordelen);
+   - a. voordelen welke worden getrokken uit tot een aanmerkelijk belang behorende aandelen of winstbewijzen verminderd met de aftrekbare kosten (reguliere voordelen);
 
-- b. voordelen welke worden behaald bij de vervreemding van tot een aanmerkelijk belang behorende aandelen, winstbewijzen of schuldvorderingen, alsmede bij de vervreemding van een gedeelte van de daarin besloten liggende rechten (vervreemdingsvoordelen).
+   - b. voordelen welke worden behaald bij de vervreemding van tot een aanmerkelijk belang behorende aandelen, winstbewijzen of schuldvorderingen, alsmede bij de vervreemding van een gedeelte van de daarin besloten liggende rechten (vervreemdingsvoordelen).
 
 2. Bestaat de afkoopsom, schadeloosstelling, tegemoetkoming dan wel het in het eerste lid onder 2° bedoelde bedrag in de toekenning van een recht, dat periodieke opbrengsten oplevert (zoals het recht op een lijfrente of op een winstaandeel) dan worden slechts deze periodieke opbrengsten, doch niet het eraan ten grondslag liggende recht (stamrecht), tot het inkomen gerekend, tenzij het stamrecht tot het loon behoort.
 
@@ -421,7 +399,7 @@ Bij de toepassing van het bovenstaande wordt iedere volle maand op dertig dagen 
 
 | verschuldigde bedrag = | belastbare som genoten in het belastingtijdvak | x | de belasting van het geschatte jaarinkomen |
 | --- | --- | --- | --- |
-|   | geschat jaarinkomen |   | de belasting van het geschatte jaarinkomen |
+|  | geschat jaarinkomen |  |  |
 
 volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01).
 
@@ -451,33 +429,33 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - a. lijfrenten en andere periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2026-01-01&g=2026-01-01), met dien verstande dat:
 
-- 1°. indien zij de tegenwaarde van een prestatie vormen zij slechts aftrekbaar zijn voor zover zij, tezamen met de ter zake van de desbetreffende verplichting reeds betaalde uitkeringen, de waarde van de prestatie te boven gaan;
+   - 1°. indien zij de tegenwaarde van een prestatie vormen zij slechts aftrekbaar zijn voor zover zij, tezamen met de ter zake van de desbetreffende verplichting reeds betaalde uitkeringen, de waarde van de prestatie te boven gaan;
 
-- 2°. in de niet onder 1° bedoelde gevallen geen aftrek is toegestaan ter zake van uitgaven gedaan aan bloed- en aanverwanten in de rechte lijn of in de tweede graad van de zijlijn;
+   - 2°. in de niet onder 1° bedoelde gevallen geen aftrek is toegestaan ter zake van uitgaven gedaan aan bloed- en aanverwanten in de rechte lijn of in de tweede graad van de zijlijn;
 
 - b. pensioenen;
 
-- c. de niet als kosten tot verwerving, inning, en behoud der opbrengst en op de opbrengst rustende lasten aan te merken renten van schulden en kosten van geldleningen tot een bedrag van USD 1.397;
+- c. de niet als kosten tot verwerving, inning, en behoud der opbrengst en op de opbrengst rustende lasten aan te merken renten van schulden en kosten van geldleningen tot een bedrag van USD 1.397;
 
 - d. [vervallen]
 
 - e. premies van levensverzekeringen, lijfrente of pensioenverzekering, met uitzondering van de premies als bedoeld onder d;
 
-- f. giften aan op de BES eilanden gevestigde kerkelijke, charitatieve, culturele, wetenschappelijke en het algemeen nut beogende instellingen, mits deze giften met schriftelijke bewijsstukken worden aangetoond, indien en voor zover zij in totaal een ten honderd van het inkomen en tevens USD 56 te boven gaan, met dien verstande dat het in mindering te brengen bedrag ten hoogste drie ten honderd van het inkomen beloopt;
+- f. giften aan op de BES eilanden gevestigde kerkelijke, charitatieve, culturele, wetenschappelijke en het algemeen nut beogende instellingen, mits deze giften met schriftelijke bewijsstukken worden aangetoond, indien en voor zover zij in totaal een ten honderd van het inkomen en tevens USD 56 te boven gaan, met dien verstande dat het in mindering te brengen bedrag ten hoogste drie ten honderd van het inkomen beloopt;
 
-- g. vervallen;
+- g. *vervallen;*
 
 - h. de volgende kosten welke verband houden met de eigen woning die de belastingplichtige als hoofdverblijf ter beschikking staat:
 
-- 1°. rente van schulden en kosten van geldlening aangegaan ter verkrijging, onderhoud of verbetering van de eigen woning, alsmede de premies voor een aan die lening verbonden met de looptijd dalende overlijdens-risicoverzekering, tot ten hoogste een bedrag van USD 15.364 alsmede het onbenut gebleven deel van het bedrag, genoemd in onderdeel c;
+   - 1°. rente van schulden en kosten van geldlening aangegaan ter verkrijging, onderhoud of verbetering van de eigen woning, alsmede de premies voor een aan die lening verbonden met de looptijd dalende overlijdens-risicoverzekering, tot ten hoogste een bedrag van USD 15.364 alsmede het onbenut gebleven deel van het bedrag, genoemd in onderdeel c;
 
-- 2°. kosten van onderhoud van de eigen woning tot een bedrag van 2% van de waarde van de woning voor de toepassing van de grondbelasting met een maximum van USD 1.676;
+   - 2°. kosten van onderhoud van de eigen woning tot een bedrag van 2% van de waarde van de woning voor de toepassing van de grondbelasting met een maximum van USD 1.676;
 
-- 3°. kosten van onderhoud van de eigen woning die volgens een eilandelijke monumentenverordening is aangewezen tot beschermd monument;
+   - 3°. kosten van onderhoud van de eigen woning die volgens een eilandelijke monumentenverordening is aangewezen tot beschermd monument;
 
-- 4°. premies voor brand- en natuurrampenverzekeringen. Voor de toepassing van dit onderdeel wordt onder eigen woning, die de belastingplichtige als hoofdverblijf ter beschikking staat, mede begrepen andere eigen woningen, die de belastingplichtige ter beschikking staan.
+   - 4°. premies voor brand- en natuurrampenverzekeringen. Voor de toepassing van dit onderdeel wordt onder eigen woning, die de belastingplichtige als hoofdverblijf ter beschikking staat, mede begrepen andere eigen woningen, die de belastingplichtige ter beschikking staan.
 
-2. Voor de premiën, bedoeld onder letter e van het vorige lid, kan niet meer dan vijf ten honderd van het inkomen en niet meer dan USD 559 worden afgetrokken. Het bedrag, bedoeld in de eerste zin, met inachtneming van het derde lid, wordt verminderd, doch niet verder dan tot nihil, met de van de werknemer ingehouden verplichte bijdrage voor pensioenen en pensioenfondsen die met toepassing van [artikel 6, vijfde lid, onderdeel j, onder 1˚, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) op het loon in mindering zijn gebracht. Als giften worden voor de toepassing van het vorige lid onder f uitsluitend aangemerkt bevoordelingen uit vrijgevigheid en niet verplichte bijdragen, indien en voor zover aan deze bevoordelingen en bijdragen geen op geld waardeerbare aanspraak wordt ontleend, alsmede kerkelijke belastingen.
+2. Voor de premiën, bedoeld onder letter e van het vorige lid, kan niet meer dan vijf ten honderd van het inkomen en niet meer dan USD 559 worden afgetrokken. Het bedrag, bedoeld in de eerste zin, met inachtneming van het derde lid, wordt verminderd, doch niet verder dan tot nihil, met de van de werknemer ingehouden verplichte bijdrage voor pensioenen en pensioenfondsen die met toepassing van [artikel 6, vijfde lid, onderdeel j, onder 1˚, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) op het loon in mindering zijn gebracht. Als giften worden voor de toepassing van het vorige lid onder f uitsluitend aangemerkt bevoordelingen uit vrijgevigheid en niet verplichte bijdragen, indien en voor zover aan deze bevoordelingen en bijdragen geen op geld waardeerbare aanspraak wordt ontleend, alsmede kerkelijke belastingen.
 
 3. Het maximum bedoeld in het eerste lid onder c en tweede lid van dit artikel en in het [3e en 6e lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01) gelden voor een aanslag over een vol jaar; indien er sprake is van een belastingtijdvak, worden deze maxima naar evenredigheid verminderd naar gelang het aantal dagen van het belastingtijdvak.
 
@@ -485,7 +463,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
 
-- 1°. wordt het bedrag, genoemd in het eerste lid, onderdeel c, verhoogd tot USD 2.794;
+- 1°. wordt het bedrag, genoemd in het eerste lid, onderdeel c, verhoogd tot USD 2.794;
 
 - 2°. geldt voor de toepassing van het eerste lid, onderdeel f, en het tweede lid, in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.
 
@@ -501,7 +479,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - d. tot voorziening in het noodzakelijke levensonderhoud van kinderen tot 27 jaar die tengevolge van ziekte of gebreken buiten staat zijn om de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde kinderen, voor zover die kinderen niet bij machte zijn zelf inkomsten ter voorziening in hun levensonderhoud te verwerven;
 
-- e. ter zake van de kosten van studie van een middelbaar beroeps-, hoger beroeps-, universitaire of daarmee vergelijkbare opleiding voor eigen kinderen, kinderen van de echtgenoot en pleegkinderen tot 27 jaar tot een bedrag van ten hoogste USD 5.587 per kind.
+- e. ter zake van de kosten van studie van een middelbaar beroeps-, hoger beroeps-, universitaire of daarmee vergelijkbare opleiding voor eigen kinderen, kinderen van de echtgenoot en pleegkinderen tot 27 jaar tot een bedrag van ten hoogste USD 5.587 per kind.
 
 2. De gezamenlijke uitgaven voor zover verband houdend met een hierna te noemen post wordt in aanmerking genomen met inachtneming van de daarbij gegeven normering:
 
@@ -517,11 +495,11 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - b. de premie die verschuldigd is ingevolge de [Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294).
 
-4. De in het eerste lid, onderdelen a, c en d, bedoelde uitgaven worden in aanmerking genomen voor zover zij gezamenlijk meer bedragen dan 5% van het inkomen, doch ten minste USD 838.
+4. De in het eerste lid, onderdelen a, c en d, bedoelde uitgaven worden in aanmerking genomen voor zover zij gezamenlijk meer bedragen dan 5% van het inkomen, doch ten minste USD 838.
 
 5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
 
-- a. wordt het bedrag, genoemd in het eerste lid, onderdeel e, verhoogd tot USD 11.174;
+- a. wordt het bedrag, genoemd in het eerste lid, onderdeel e, verhoogd tot USD 11.174;
 
 - b. geldt voor de toepassing van het tweede lid, onderdeel c, en het vierde lid in plaats van het inkomen van de belastingplichtige het gezamenlijke bedrag van het inkomen van de belastingplichtige en dat van zijn echtgenoot.
 
@@ -603,15 +581,15 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - c. zuivere opbrengst van rechten op periodieke uitkeringen:
 
-- 1°. ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) en de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387);
+   - 1°. ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) en de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387);
 
-- 2°. genoten ter zake van studie tenzij het een uitkering betreft als bedoeld in de [artikelen 7.51 tot en met 7.51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), [7.51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51h), [7.51j](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51j) en [7.51k, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) of een uitkering of verstrekking als bedoeld in de a[rtikelen 8.1.6a tot en met 8.1.6d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6a), [8.1.6f](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6f) en [8.1.6i, eerste en tweede lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6i);
+   - 2°. genoten ter zake van studie tenzij het een uitkering betreft als bedoeld in de [artikelen 7.51 tot en met 7.51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), [7.51h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51h), [7.51j](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51j) en [7.51k, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) of een uitkering of verstrekking als bedoeld in de a[rtikelen 8.1.6a tot en met 8.1.6d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6a), [8.1.6f](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6f) en [8.1.6i, eerste en tweede lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=8.1.6i);
 
-- 3°. verkregen in verband met invaliditeit, ziekte of ongeval;
+   - 3°. verkregen in verband met invaliditeit, ziekte of ongeval;
 
-- 4°. bedongen in rechtstreeks verband met of bij het staken van een onderneming;
+   - 4°. bedongen in rechtstreeks verband met of bij het staken van een onderneming;
 
-- 5°. verkregen ter zake van echtscheiding of scheiding van tafel en bed.
+   - 5°. verkregen ter zake van echtscheiding of scheiding van tafel en bed.
 
 4. De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2026-01-01&g=2026-01-01).
 
@@ -663,11 +641,11 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 - a. ten aanzien van binnenlandse belastingplichtigen: het belastbare inkomen verminderd met:
 
-- 1°. het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01);
+   - 1°. het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01);
 
-- 2°. de belastingvrije som, en;
+   - 2°. de belastingvrije som, en;
 
-- 3°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) in aanmerking zou komen voor een uitkering;
+   - 3°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) in aanmerking zou komen voor een uitkering;
 
 - b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in [artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2026-01-01&g=2026-01-01).
 
@@ -683,7 +661,7 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 1. Het bedrag van de over de belastbare som, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01), verschuldigde belasting wordt bepaald aan de hand van de navolgende tabel (tarieftabel):
 
-| Bij een belastbare som van meer dan | doch niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat |
+| Bij een belastbare som van meer dan | doch niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat |  |
 | --- | --- | --- | --- |
 | I | II | III | IV |
 | – | USD 53.198 | – | 29,4% |
@@ -723,7 +701,7 @@ Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsver
 
 ##### Artikel 25
 
-1. Bij het begin van het kalenderjaar vervangt Onze Minister de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen door andere. Het in artikel 24, tweede lid, vermelde bedrag wordt gesteld op het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), op 1 januari van het kalenderjaar, vermenigvuldigd met 2.080 en verminderd met USD 280. Het in artikel 24, derde lid, vermelde bedrag en de in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.
+1. Bij het begin van het kalenderjaar vervangt Onze Minister de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2026-01-01&g=2026-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen door andere. Het in artikel 24, tweede lid, vermelde bedrag wordt gesteld op het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), op 1 januari van het kalenderjaar, vermenigvuldigd met 2.080 en verminderd met USD 280. Het in artikel 24, derde lid, vermelde bedrag en de in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2026-01-01&g=2026-01-01) vermelde bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.
 
 2. De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand. Voor de toepassing van de tweede volzin wordt onder prijsindexcijfers verstaan het aan de hand van het aantal inwoners gewogen gemiddelde van de prijsindexcijfers voor Bonaire, Sint Eustatius en Saba. Voor de toepassing van de derde volzin wordt het aantal inwoners van Bonaire gesteld op 26.552, het aantal inwoners van Sint Eustatius op 3.270 en het aantal inwoners van Saba op 2.158.
 
@@ -811,11 +789,11 @@ Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, 
 
 1. Een aanslag wordt niet vastgesteld en verrekening van voorheffingen blijft achterwege tenzij:
 
-- a. de verschuldigde belasting de totale voorheffingen met meer dan USD 168 te boven gaat;
+- a. de verschuldigde belasting de totale voorheffingen met meer dan USD 168 te boven gaat;
 
 - b. de belastingplichtige binnen 18 maanden na afloop van het belastingjaar aangifte heeft gedaan.
 
-2. In het geval, bedoeld in het eerste lid, onderdeel b, wordt de aanslag vastgesteld op nihil en blijft verrekening van voorheffingen achterwege indien het totaal van die voorheffingen de verschuldigde belasting niet of met niet meer dan USD 84 te boven gaat.
+2. In het geval, bedoeld in het eerste lid, onderdeel b, wordt de aanslag vastgesteld op nihil en blijft verrekening van voorheffingen achterwege indien het totaal van die voorheffingen de verschuldigde belasting niet of met niet meer dan USD 84 te boven gaat.
 
 ##### Artikel 42
 
@@ -823,9 +801,15 @@ Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, 
 
 ### Hoofdstuk X. Bezwaren tegen de aanslag
 
+[vervallen]
+
 ### Hoofdstuk XI. Navordering
 
+[vervallen]
+
 ### Hoofdstuk XII. Vermindering van de voorlopige aanslagen
+
+[vervallen]
 
 ### Hoofdstuk XIII
 
@@ -877,13 +861,15 @@ Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet word
 
 ### Hoofdstuk XV. Strafrechtelijke bepalingen
 
+[vervallen]
+
 ### Hoofdstuk XVI. Slot- en overgangsbepalingen
 
 #### Slotbepalingen
 
 ##### Artikel 73
 
-Met betrekking tot op 31 december 2024 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01), zoals dat op 31 december 2024 luidde, blijft artikel 11, tweede lid, zoals dat op 31 december 2024 luidde, alsmede de daarop gebaseerde bepalingen, van toepassing.
+Met betrekking tot op 31 december 2024 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2026-01-01&g=2026-01-01), zoals dat op 31 december 2024 luidde, blijft artikel 11, tweede lid, zoals dat op 31 december 2024 luidde, alsmede de daarop gebaseerde bepalingen, van toepassing.
 
 ##### Artikel 74
 

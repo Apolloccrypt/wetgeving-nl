@@ -1,48 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 december 2010, nr. MC-U-3041144, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de budgetcorrectie ten behoeve van Fonds Ziekenhuis Opleidingen"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (budgetcorrectie Fonds Ziekenhuis Opleidingen)"
 identifier: "BWBR0029214"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-12-23"
-last_updated: "2010-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029214"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11141423"
-version_id: "18222762"
-internal_id: "C25356211"
-label_id: "11115734"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029214/2010-12-23/0"
-intitule_bron: "Stcrt.2010-20880"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-16"
-intitule_published: "2010-12-23"
-intitule_in_force: "2010-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20880"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20880"
-entry_into_force_date: "2010-12-23"
-jci_1_3: "jci1.3:c:BWBR0029214&z=2010-12-23&g=2010-12-23"
-jci_1_0: "1.0:c:BWBR0029214&g=2010-12-23"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (budgetcorrectie Fonds Ziekenhuis Opleidingen)"
-signed_date: "2010-12-16"
-entry_into_force: "2010-12-23"
+publicatiedatum: 2010-12-23
+laatste_update: 2010-12-23
+status: geldig
+toestand: 2010-12-23
+bron: "https://wetten.overheid.nl/BWBR0029214"
+opgehaald: 2026-08-16
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 december 2010, nr. MC-U-3041144, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de budgetcorrectie ten behoeve van Fonds Ziekenhuis Opleidingen
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 16 augustus 2010 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II, 2009/10, 29 282, nr. 104h);
-
-Gezien het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 24 november 2010 inzake voorhang overheveling middelen uit ziekenhuisbudgetten naar Fonds Ziekenhuis Opleidingen (Kamerstukken II, 2010/11, 29 282, nr. 108);
-
-Besluit:
 
 ##### Artikel 1
 

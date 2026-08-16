@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5679238/10, tot vaststelling van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011"
+citeertitel: "Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011"
 identifier: "BWBR0029345"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2023-09-28"
-last_updated: "2023-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029345"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11187233"
-version_id: "18305282"
-internal_id: "C25484571"
-label_id: "11161634"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029345/2023-09-28/0"
-intitule_bron: "Stcrt.2010-20953"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-15"
-intitule_published: "2010-12-30"
-intitule_in_force: "2010-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20953"
-original_signed_date: "2010-12-15"
-original_published_date: "2010-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20953"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029345&z=2023-09-28&g=2023-09-28"
-jci_1_0: "1.0:c:BWBR0029345&g=2023-09-28"
-citeertitel_status: "officieel"
-short_title: "Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011"
-signed_date: "2010-12-15"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2023-09-28
+status: geldig
+toestand: 2023-09-28
+bron: "https://wetten.overheid.nl/BWBR0029345"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5679238/10, tot vaststelling van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
-
-Gelet op [artikel 23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23) en [artikel 6 van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=6);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de naturalisatietoets:** de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
+- a. *de naturalisatietoets:* de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
 
-- b. **verzoeker:** degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
+- b. *verzoeker:* degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. **de gezaghebber:** de gezaghebber van het openbaar lichaam;
+- c. *de gezaghebber:* de gezaghebber van het openbaar lichaam;
 
-- d. **onderdeel van de naturalisatietoets:** een van de drie in [artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2).
+- d. *onderdeel van de naturalisatietoets:* een van de drie in [artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2).
 
 #### Paragraaf 2. Naturalisatietoets en afname
 
@@ -80,7 +54,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. Het Certificaat naturalisatietoets wordt aan de rechthebbende verstrekt door de instantie of de onderwijsinstelling, waar het examen is afgelegd, de beoordeling heeft plaatsgevonden en het examenresultaat is vastgesteld.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -102,19 +76,19 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 7
 
-1. Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst alsmede op de hieronder beschreven wijze van het onderdeel dat de beheersing van de betreffende taal toetst, is vrijgesteld de verzoeker die beschikt over een Certificaat naturalisatietoets Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten, dat is uitgereikt voor 1 januari 2011.
+1. Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst alsmede op de hieronder beschreven wijze van het onderdeel dat de beheersing van de betreffende taal toetst, is vrijgesteld de verzoeker die beschikt over een Certificaat naturalisatietoets Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten, dat is uitgereikt voor 1 januari 2011.
 
-2. De verzoeker die zijn naturalisatieverzoek indient op Bonaire en in het bezit is van een voor 1 januari 2011 uitgereikt Certificaat naturalisatietoets met de aantekening dat de naturalisatietoets is afgelegd in de Papiamentse taal is vrijgesteld van het onderdeel beheersing van de Papiamentse taal.
+2. De verzoeker die zijn naturalisatieverzoek indient op Bonaire en in het bezit is van een voor 1 januari 2011 uitgereikt Certificaat naturalisatietoets met de aantekening dat de naturalisatietoets is afgelegd in de Papiamentse taal is vrijgesteld van het onderdeel beheersing van de Papiamentse taal.
 
-3. De verzoeker die zijn naturalisatieverzoek indient op Sint Eustatius of Saba en in het bezit is van een voor 1 januari 2011 uitgereikt Certificaat naturalisatietoets met de aantekening dat de naturalisatietoets is afgelegd in de Engelse taal is vrijgesteld van het onderdeel beheersing van de Engelse taal.
+3. De verzoeker die zijn naturalisatieverzoek indient op Sint Eustatius of Saba en in het bezit is van een voor 1 januari 2011 uitgereikt Certificaat naturalisatietoets met de aantekening dat de naturalisatietoets is afgelegd in de Engelse taal is vrijgesteld van het onderdeel beheersing van de Engelse taal.
 
 4. Indien het Certificaat naturalisatietoets vermeldt dat de naturalisatietoets is afgelegd in de Nederlandse taal dan is de verzoeker vrijgesteld van het onderdeel beheersing van de Nederlandse taal.
 
 ##### Artikel 8
 
-1. Van het afleggen het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, is vrijgesteld de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis) dat is behaald voor 1 januari 2011 in de taal die op het eiland van indiening van het naturalisatieverzoek gangbaar is naast het Nederlands.
+1. Van het afleggen het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, is vrijgesteld de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis) dat is behaald voor 1 januari 2011 in de taal die op het eiland van indiening van het naturalisatieverzoek gangbaar is naast het Nederlands.
 
-2. Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.
+2. Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.
 
 ##### Artikel 9
 
@@ -148,11 +122,11 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 3. Verzoeker legt bij indiening van het naturalisatieverzoek een advies van de gezaghebber over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
 
-4. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, tenminste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
+4. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, tenminste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Examengeld
 
@@ -184,17 +158,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011.
-
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
-
-### Thema’s van bevraging
-
-Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden uitsluitend gesteld over de thema’s:
-
-### Eindtermen
-
-De volgende eindtermen gelden:
-
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=3&artikel=5&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

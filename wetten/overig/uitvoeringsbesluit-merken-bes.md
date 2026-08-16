@@ -1,38 +1,16 @@
 ---
 title: "Uitvoeringsbesluit merken BES"
 identifier: "BWBR0028591"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-10-07"
-last_updated: "2011-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028591"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10887153"
-version_id: "17869562"
-internal_id: "C24778361"
-label_id: "10862124"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028591/2011-10-07/0"
-intitule_bron: "Stb.2010-446"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-446"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-446"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028591&z=2011-10-07&g=2011-10-07"
-jci_1_0: "1.0:c:BWBR0028591&g=2011-10-07"
-citeertitel_status: "officieel"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-07
+status: geldig
+toestand: 2011-10-07
+bron: "https://wetten.overheid.nl/BWBR0028591"
+opgehaald: 2026-08-16
 ---
+
 # Uitvoeringsbesluit merken BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,27 +19,27 @@ entry_into_force: "2010-10-10"
 
 1. In deze algemene maatregel van bestuur en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de wet:** de [Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306);
+- a. *de wet:* de [Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306);
 
 - b. [vervallen]
 
-- c. **de Minister:** Onze Minister van Economische Zaken, Landbouw en Innovatie;
+- c. *de Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
 - d. [vervallen]
 
 - e. [vervallen]
 
-- f. **het register:** het register, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=10);
+- f. *het register:* het register, bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=10);
 
-- g. **de Overeenkomst van Nice:** Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken;
+- g. *de Overeenkomst van Nice:* Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken;
 
-- h. **voorrang:** voorrang overeenkomstig het in het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, of het recht van voorrang voortvloeiend uit de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1c bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie;
+- h. *voorrang:* voorrang overeenkomstig het in het Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, of het recht van voorrang voortvloeiend uit de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1c bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie;
 
-- i. **adres:** de straat of soortgelijke adresaanduiding, voorzien van het huisnummer voor zover aanwezig, alsmede de woonplaats, in voorkomend geval zo mogelijk voorzien van de postcode, alsmede voor personen van buiten Bonaire, Sint Eustatius of Saba en voor ingezetenen van Bonaire, Sint Eustatius of Saba het eiland; een postbusnummer kan worden vermeld, doch kan, behoudens in geval van het adres van gemachtigden, de straat of soortgelijke adresaanduiding, voorzien van het huisnummer niet vervangen;
+- i. *adres:* de straat of soortgelijke adresaanduiding, voorzien van het huisnummer voor zover aanwezig, alsmede de woonplaats, in voorkomend geval zo mogelijk voorzien van de postcode, alsmede voor personen van buiten Bonaire, Sint Eustatius of Saba en voor ingezetenen van Bonaire, Sint Eustatius of Saba het eiland; een postbusnummer kan worden vermeld, doch kan, behoudens in geval van het adres van gemachtigden, de straat of soortgelijke adresaanduiding, voorzien van het huisnummer niet vervangen;
 
 - j. [vervallen]
 
-- k. **Protocol:** Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989.
+- k. *Protocol:* Protocol bij de Overeenkomst van Madrid betreffende de internationale inschrijving van merken van 27 juni 1989.
 
 2. Tenzij het tegendeel blijkt, hebben de in deze algemene maatregel van bestuur gebruikte begrippen die tevens voorkomen in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306), dezelfde betekenis als in de wet.
 

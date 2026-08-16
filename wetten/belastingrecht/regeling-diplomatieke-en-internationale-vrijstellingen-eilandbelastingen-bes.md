@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties en van de staatssecretaris van Financiën van 25 november 2010, nr. 2010-0000601469, houdende regels over diplomatieke en internationale vrijstellingen voor eilandbelastingen (Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES)"
+citeertitel: "Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES"
 identifier: "BWBR0029055"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029055"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11100753"
-version_id: "18147772"
-internal_id: "C25425631"
-label_id: "11075054"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029055/2011-01-01/0"
-intitule_bron: "Stcrt.2010-19723"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-25"
-intitule_published: "2010-12-13"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-19723"
-original_signed_date: "2010-11-25"
-original_published_date: "2010-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-19723"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029055&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029055&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES"
-signed_date: "2010-11-25"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029055"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties en van de staatssecretaris van Financiën van 25 november 2010, nr. 2010-0000601469, houdende regels over diplomatieke en internationale vrijstellingen voor eilandbelastingen (Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES)
-
-Gelet op [artikel 78 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=78);
-
-Besluiten:
-
-Treedt in werking op het tijdstip waarop hoofdstuk IV van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba in werking treedt.
 
 ##### Artikel 1
 
@@ -83,5 +55,3 @@ Deze regeling treedt in werking op het tijdstip waarop [hoofdstuk IV van de Wet 
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen eilandbelastingen BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

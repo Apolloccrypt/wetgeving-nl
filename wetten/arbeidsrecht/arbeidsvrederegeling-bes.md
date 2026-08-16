@@ -1,38 +1,16 @@
 ---
 title: "Arbeidsvrederegeling BES"
 identifier: "BWBR0028762"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028762"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "10983423"
-version_id: "20647802"
-internal_id: "C29557561"
-label_id: "10958124"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028762/2026-01-01/0"
-intitule_bron: "Stcrt.2010-14392"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-10"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-20213"
-original_signed_date: "2013-07-10"
-original_published_date: "2013-07-18"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2013-20213"
-entry_into_force_date: "2013-07-19"
-jci_1_3: "jci1.3:c:BWBR0028762&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028762&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2013-07-10"
-entry_into_force: "2013-07-19"
+publicatiedatum: 2013-07-19
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028762"
+opgehaald: 2026-08-16
 ---
+
 # Arbeidsvrederegeling BES
 
 #### § 1. Definities
@@ -41,7 +19,7 @@ entry_into_force: "2013-07-19"
 
 In deze regeling wordt verstaan onder:
 
-- **de minister:** de Minister van Sociale Zaken en Werkgelegenheid.
+- *de minister:* de Minister van Sociale Zaken en Werkgelegenheid.
 
 #### § 2. Positie bemiddelaar
 
@@ -73,13 +51,13 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 ##### Artikel 7
 
-1. De schadeloosstelling, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=15), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 132 per uur.
+1. De schadeloosstelling, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=15), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 132 per uur.
 
 2. Indien de bemiddelaar of bijzondere bemiddelaar voor zijn optreden genoodzaakt is te reizen naar een ander eiland dan het eiland waar hij woont, worden de reiskosten vergoed. Tevens wordt in verband met de aan de reis bestede uren per enkele reis een vergoeding toegekend over één uur.
 
 3. Tevens worden, indien noodzakelijk, de verblijfkosten die verband houden met de in het tweede lid bedoelde reizen vergoed overeenkomstig [artikel 8 van de Reisregeling Rijksambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0041296&artikel=8).
 
-4. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het gemiddelde prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag.
+4. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het gemiddelde prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag.
 
 ##### Artikel 8
 
@@ -263,10 +241,6 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 De bemiddelaar kan zich bij zijn in deze regeling vermelde werkzaamheden doen bijstaan door door hem aan te wijzen personen.
 
-##### Artikel 25
-
-Deze regeling wordt aangehaald als Arbeidsvrederegeling BES.
-
 #### § 4. Aanwijzing bedrijven
 
 ##### Artikel 24a
@@ -283,12 +257,6 @@ Als bedrijven, bedoeld in het eerste lid van [artikel 3b van de wet](https://wet
 
 - e. levensmiddelenbedrijven alsmede importbedrijven van levensmiddelen met meer dan 20 werknemers.
 
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
+##### Artikel 25
 
-#### § 1. Definities
-
-#### § 2. Positie bemiddelaar
-
-#### § 3. Behandeling verzoek tot referendum
-
-#### § 4. Aanwijzing bedrijven
+Deze regeling wordt aangehaald als Arbeidsvrederegeling BES.

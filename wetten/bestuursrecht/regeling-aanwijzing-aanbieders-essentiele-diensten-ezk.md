@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0045077"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 23 april 2021, nr. WJZ/ 21033154, houdende aanwijzing van aanbieders van essentiële diensten op het terrein van economische zaken (Regeling aanwijzing aanbieders essentiële diensten EZK)

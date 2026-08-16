@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)"
+citeertitel: "Besluit onderstand BES"
 identifier: "BWBR0028595"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028595"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10888533"
-version_id: "25485612"
-internal_id: "C36367851"
-label_id: "10863754"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028595/2026-01-01/0"
-intitule_bron: "Stb.2010-372"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2018-453"
-original_signed_date: "2018-11-27"
-original_published_date: "2018-12-11"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2018-453"
-entry_into_force_date: "2018-11-27"
-jci_1_3: "jci1.3:c:BWBR0028595&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028595&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit onderstand BES"
-signed_date: "2018-11-27"
-entry_into_force: "2018-11-27"
+publicatiedatum: 2018-11-27
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028595"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2010, nr. IVV/I/2010/13018, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 18.3, eerste, vierde en vijfde lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.3);
-
-De Raad van State gehoord (advies van 12 augustus 2010, nr. W12.10.0343/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 8 september 2010, nr. IVV/I/2010/16119, uitgebracht mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -54,13 +20,13 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **minimumloon:** bruto minimumuurloon, genoemd in [artikel 9 van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), vermenigvuldigd met 80 uur;
+- – *minimumloon:* bruto minimumuurloon, genoemd in [artikel 9 van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), vermenigvuldigd met 80 uur;
 
-- –. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- – *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **openbaar lichaam/openbare lichamen:** openbare lichamen Bonaire, Sint Eustatius of Saba;
+- – *openbaar lichaam/openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- –. **pensioengerechtigde leeftijd:** leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459).
+- – *pensioengerechtigde leeftijd:* leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459).
 
 ##### Artikel 2. Gezamenlijke huishouding
 
@@ -78,41 +44,41 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **alleenstaande:** de ongehuwde die geen tot zijn last komende kinderen heeft en geen gezamenlijke huishouding voert met een ander;
+- *alleenstaande:* de ongehuwde die geen tot zijn last komende kinderen heeft en geen gezamenlijke huishouding voert met een ander;
 
-- **alleenstaande ouder:** de ongehuwde die de volledige zorg heeft voor een of meer tot zijn last komende kinderen en geen gezamenlijke huishouding voert met een ander;
+- *alleenstaande ouder:* de ongehuwde die de volledige zorg heeft voor een of meer tot zijn last komende kinderen en geen gezamenlijke huishouding voert met een ander;
 
-- **gezin:**
+- *gezin:*
 
-- a. de personen met een gezamenlijke huishouding tezamen;
+   - a. de personen met een gezamenlijke huishouding tezamen;
 
-- b. de personen met een gezamenlijke huishouding met de tot hun last komende kinderen;
+   - b. de personen met een gezamenlijke huishouding met de tot hun last komende kinderen;
 
-- c. de alleenstaande ouder met de tot zijn last komende kinderen;
+   - c. de alleenstaande ouder met de tot zijn last komende kinderen;
 
-- **kind:** het in een openbaar lichaam woonachtige eigen kind, stiefkind of pleegkind;
+- *kind:* het in een openbaar lichaam woonachtige eigen kind, stiefkind of pleegkind;
 
-- **ten laste komend kind:** het kind jonger dan 18 jaar dat tot het huishouden behoort van de alleenstaande ouder of de gehuwde en door hem in belangrijke mate wordt onderhouden;
+- *ten laste komend kind:* het kind jonger dan 18 jaar dat tot het huishouden behoort van de alleenstaande ouder of de gehuwde en door hem in belangrijke mate wordt onderhouden;
 
-- **uitreiziger:** persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
+- *uitreiziger:* persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
 ##### Artikel 4. Onderstand, voorliggende voorziening, arbeidsinschakeling, arbeidsongeschiktheid en zelfstandig wonend
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **algemene onderstand:** de onderstand ter voorziening in de algemeen noodzakelijke kosten van het bestaan;
+- *algemene onderstand:* de onderstand ter voorziening in de algemeen noodzakelijke kosten van het bestaan;
 
-- **arbeidsinschakeling:** het verkrijgen van algemeen geaccepteerde arbeid;
+- *arbeidsinschakeling:* het verkrijgen van algemeen geaccepteerde arbeid;
 
-- **bijzondere onderstand:** de onderstand, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2026-01-01&g=2026-01-01);
+- *bijzondere onderstand:* de onderstand, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2026-01-01&g=2026-01-01);
 
-- **onderstand:** algemene en bijzondere onderstand;
+- *onderstand:* algemene en bijzondere onderstand;
 
-- **volledig en duurzaam arbeidsongeschikt:** de persoon die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek volledig en duurzaam niet in staat is om algemeen geaccepteerde arbeid te verrichten;
+- *volledig en duurzaam arbeidsongeschikt:* de persoon die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek volledig en duurzaam niet in staat is om algemeen geaccepteerde arbeid te verrichten;
 
-- **voorliggende voorziening:** elke voorziening buiten dit besluit waarop de alleenstaande of het gezin aanspraak kan maken, dan wel een beroep kan doen, ter verwerving van middelen of ter bekostiging van specifieke uitgaven;
+- *voorliggende voorziening:* elke voorziening buiten dit besluit waarop de alleenstaande of het gezin aanspraak kan maken, dan wel een beroep kan doen, ter verwerving van middelen of ter bekostiging van specifieke uitgaven;
 
-- **zelfstandig wonend:** de situatie waarin geen ander dan de alleenstaande, de alleenstaande ouder of het gezin zijn hoofdverblijf heeft in de woning van de alleenstaande, de alleenstaande ouder of het gezin.
+- *zelfstandig wonend:* de situatie waarin geen ander dan de alleenstaande, de alleenstaande ouder of het gezin zijn hoofdverblijf heeft in de woning van de alleenstaande, de alleenstaande ouder of het gezin.
 
 ### Hoofdstuk 2. Rechten en plichten
 
@@ -196,6 +162,14 @@ Aan een persoon die geen recht op onderstand heeft, kan Onze Minister, gelet op 
 
 2. Onze Minister stelt bij de uitvoering van dit besluit de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2).
 
+##### Artikel 11a. Controlevoorschriften
+
+1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van dit besluit.
+
+2. De belanghebbende volgt de voorschriften op en verleent anderszins aan Onze Minister desgevraagd de medewerking die redelijkerwijs nodig is voor de uitvoering van dit besluit.
+
+3. De belanghebbende onthoudt zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
+
 ##### Artikel 12. Afstemming
 
 1. Onze Minister stemt de onderstand en de daaraan verbonden verplichtingen af op de omstandigheden, mogelijkheden en middelen van de belanghebbende, alsmede op het betoonde besef van verantwoordelijkheid voor de voorziening in het bestaan.
@@ -249,7 +223,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 | --- | --- |
 | b. indien het gezin woonachtig is in het openbaar lichaam Sint Eustatius: | USD 23 per 1 januari 2026: USD 69; |
 | c. indien het gezin woonachtig is in het openbaar lichaam Saba: | USD 23 per 1 januari 2026: USD 64 |
-| voor het eerste kind. |   |
+| voor het eerste kind. |  |
 
 2. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor een gezin met twee of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
 
@@ -257,7 +231,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 | --- | --- |
 | b. indien het gezin woonachtig is in het openbaar lichaam Sint Eustatius: | USD 12 per 1 januari 2026: USD 36; |
 | c. indien het gezin woonachtig is in het openbaar lichaam Saba: | USD 12 per 1 januari 2026: USD 34 |
-| per kind voor het tweede en derde kind. |   |
+| per kind voor het tweede en derde kind. |  |
 
 3. Het gezin heeft voor ten hoogste drie kinderen recht op toeslag.
 
@@ -271,6 +245,20 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: | USD 120per 1 januari 2026: USD 366. |
 
 2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
+
+##### Artikel 17a. Toeslag bij AOV-gerechtigde leeftijd
+
+Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor de alleenstaande, de alleenstaande ouder of de personen die een gezamenlijke huishouding voeren, die de pensioengerechtigde leeftijd heeft of hebben bereikt, verhoogd met een enkelvoudige toeslag per twee weken van:
+
+- a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 263 *per 1 januari 2026: USD 471*;
+
+- b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 318 *per 1 januari 2026: USD 455*;
+
+- c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 314 *per 1 januari 2026: USD 452*.
+
+##### Artikel 17b. Bovengrens onderstand
+
+Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), en de toeslagen, genoemd in de [artikelen 14 tot en met 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), bij elkaar overschrijden niet de hoogte van het minimumloon.
 
 #### § 3.3. Middelen
 
@@ -286,11 +274,61 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 - c. de kerstuitkering, bedoeld in [artikel 22a van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=22a).
 
+##### Artikel 18a. Vermogen
+
+1. Onder vermogen wordt verstaan de waarde van de bezittingen waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken, verminderd met de aanwezige schulden. De waarde van bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering.
+
+2. Niet als vermogen wordt in aanmerking genomen:
+
+- a. bezittingen in natura die naar hun aard en waarde algemeen gebruikelijk zijn of, gelet op de omstandigheden van persoon en gezin, noodzakelijk zijn;
+
+- b. het bij de aanvang van de onderstand aanwezige vermogen voor zover dit minder bedraagt dan de van toepassing zijnde vermogensgrens, genoemd in het derde lid;
+
+- c. de economische waarde van de woning die tevens hoofdverblijf is, tenzij Onze Minister van oordeel is dat de waarde van de woning in alle redelijkheid bij het vermogen kan worden betrokken;
+
+- d. bij regeling van Onze Minister aan te wijzen uitkeringen en vergoedingen voor materiële en immateriële schade;
+
+- e. giften en andere dan de in onderdeel d bedoelde vergoedingen voor materiële en immateriële schade voor zover deze, gelet op de aard en de hoogte ervan, vanuit het oogpunt van onderstandsverlening verantwoord zijn.
+
+3. De vermogensgrens, bedoeld in het tweede lid, onderdeel b, is:
+
+- a. voor de alleenstaande die de pensioengerechtigde leeftijd niet heeft bereikt:
+
+   - 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 4.380 *per 1 januari 2026: USD 5.833*;
+
+   - 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 5.300 *per 1 januari 2026: USD 6.676*;
+
+   - 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 5.230 *per 1 januari 2026: USD 6.849*.
+
+- b. voor het gezin waarvan geen van de gezinsleden de pensioengerechtigde leeftijd heeft bereikt:
+
+   - 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 8.760 *per 1 januari 2026: USD 11.665*;
+
+   - 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 10.600 *per 1 januari 2026: USD 13.352*;
+
+   - 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 10.460 *per 1 januari 2026: USD 13.698*.
+
+- c. voor de alleenstaande die de pensioengerechtigde leeftijd heeft bereikt:
+
+   - 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 8.760 *per 1 januari 2026: USD 11.665*;
+
+   - 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 10.600 *per 1 januari 2026: USD 13.352*;
+
+   - 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 10.460 *per 1 januari 2026: USD 13.698*.
+
+- d. voor het gezin waarvan ten minste een van de gezinsleden de pensioengerechtigde leeftijd heeft bereikt:
+
+   - 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 17.520 *per 1 januari 2026: USD 23.330*;
+
+   - 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 21.200 *per 1 januari 2026: USD 26.705*;
+
+   - 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 20.920 *per 1 januari 2026: USD 27.396*.
+
 ##### Artikel 19. Vrijlating inkomsten
 
 1. Inkomsten uit arbeid of uit kinderalimentatie die de alleenstaande of het gezin heeft verworven over de periode waarin beroep wordt gedaan op onderstand, worden vrijgelaten voor zover de onderstand en de verworven inkomsten bij elkaar de hoogte van het minimumloon niet overschrijden.
 
-2. Inkomsten uit pensioen, anders dan van overheidswege, die zijn verworven door de alleenstaande of een van de leden van het gezin, die de pensioengerechtigde leeftijd heeft of hebben bereikt, worden vrijgelaten tot een bedrag van USD 25 per 1 januari 2026: USD 32 per twee weken.
+2. Inkomsten uit pensioen, anders dan van overheidswege, die zijn verworven door de alleenstaande of een van de leden van het gezin, die de pensioengerechtigde leeftijd heeft of hebben bereikt, worden vrijgelaten tot een bedrag van USD 25 *per 1 januari 2026: USD 32* per twee weken.
 
 ### Hoofdstuk 4. Bijzondere onderstand en aanpassing bedragen
 
@@ -314,15 +352,15 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 - d. de afwijking van de eilandsverordening ten gunste van de belanghebbende met het oog op onredelijke gevolgen.
 
-#### § 4.1. Bijzondere onderstand
+#### § 4.2. Aanpassing en herziening bedragen
 
 ##### Artikel 21. Aanpassing en herziening
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat de prijsindexcijfers voor het derde kwartaal van het lopende jaar, vergeleken met de prijsindexcijfers voor het derde kwartaal van het voorafgaande jaar zijn gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers zoals vastgesteld door het Centraal Bureau voor de Statistiek voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat de prijsindexcijfers voor het derde kwartaal van het lopende jaar, vergeleken met de prijsindexcijfers voor het derde kwartaal van het voorafgaande jaar zijn gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers zoals vastgesteld door het Centraal Bureau voor de Statistiek voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
-2. De overeenkomstig het eerste lid herziene bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01).
+2. De overeenkomstig het eerste lid herziene bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01).
 
-3. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01) bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. De gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01).
+3. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01) bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. De gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01).
 
 4. Indien een wijziging als bedoeld in het derde lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het derde lid bedoelde ministeriële regeling.
 
@@ -384,7 +422,7 @@ De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door h
 
 2. Indien onderstand wordt verleend over een periode waarover met toepassing van het eerste lid een voorschot is verleend, kan deze onderstand zonder machtiging van de belanghebbende worden verrekend met dit voorschot.
 
-#### § 6.1. Vorm onderstand
+#### § 6.2. Onderzoek en beëindiging recht op onderstand
 
 ##### Artikel 30. Onjuiste gegevens en onvoldoende medewerking
 
@@ -392,11 +430,11 @@ De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door h
 
 2. Alvorens Onze Minister een besluit neemt tot beëindiging van het recht op onderstand, nodigt Onze Minister de alleenstaande of het gezin uit om binnen een door hem te stellen termijn het verzuim te herstellen.
 
-#### § 6.2. Onderzoek en beëindiging recht op onderstand
+#### § 6.3. Aanvullende verplichtingen
 
 ##### Artikel 31. Nadere verplichtingen
 
-1. Naast de verplichtingen die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&z=2026-01-01&g=2026-01-01) in elk geval aan de onderstand verbonden zijn, dan wel daaraan door Onze Minister verbonden worden, kan Onze Minister vanaf de dag waarop de alleenstaande of het gezin onderstand heeft aangevraagd als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.1&artikel=22&z=2026-01-01&g=2026-01-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van onderstand of die strekken tot zijn vermindering of beëindiging.
+1. Naast de verplichtingen die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&z=2026-01-01&g=2026-01-01) in elk geval aan de onderstand verbonden zijn, dan wel daaraan door Onze Minister verbonden worden, kan Onze Minister vanaf de dag waarop de alleenstaande of het gezin onderstand heeft aangevraagd als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.1&artikel=22&z=2026-01-01&g=2026-01-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van onderstand of die strekken tot zijn vermindering of beëindiging.
 
 2. Een verplichting als bedoeld in het eerste lid kan, op advies van een arts, inhouden het zich onderwerpen aan een noodzakelijke behandeling van medische aard.
 
@@ -422,9 +460,9 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 - d. anderszins onverschuldigd is betaald, waaronder begrepen dat:
 
-- 1°. de belanghebbende naderhand met betrekking tot de periode waarover onderstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&z=2026-01-01&g=2026-01-01) beschikt of kan beschikken;
+   - 1°. de belanghebbende naderhand met betrekking tot de periode waarover onderstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&z=2026-01-01&g=2026-01-01) beschikt of kan beschikken;
 
-- 2°. onderstand is verleend met een bepaalde bestemming en naderhand door de belanghebbende vergoedingen of tegemoetkomingen worden ontvangen met het oog op die bestemming.
+   - 2°. onderstand is verleend met een bepaalde bestemming en naderhand door de belanghebbende vergoedingen of tegemoetkomingen worden ontvangen met het oog op die bestemming.
 
 2. Het in aanmerking nemen van in de voorafgaande drie maanden ontvangen middelen, voor zover deze niet vallen onder de vrijlating, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01), wordt niet als terugvordering beschouwd.
 
@@ -442,7 +480,7 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 2. De persoon van wie kosten van onderstand worden teruggevorderd, is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor terugvordering op grond van deze paragraaf van belang zijn.
 
-#### § 6.4. Terugvordering
+#### § 6.5. Gegevensuitwisseling
 
 ##### Artikel 36. Inlichtingenverplichting werkgever
 
@@ -478,24 +516,6 @@ Bij regeling van Onze Minister worden instanties en personen aangewezen aan wie 
 
 ### Hoofdstuk 6a. Bekendmaking, bezwaar en beroep
 
-##### Artikel 41. Toezicht door Onze Minister
-
-1. Met het toezicht op de naleving van het bij of krachtens dit besluit bepaalde zijn belast de daartoe bij regeling van Onze Minister aangewezen ambtenaren.
-
-2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
-
-### Hoofdstuk 6a. Bekendmaking, bezwaar en beroep
-
-##### Artikel 42. Inwerkingtreding
-
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
-
-##### Artikel 43. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit onderstand BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 40a. Bekendmaking beschikkingen
 
 1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
@@ -504,7 +524,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
 
-##### Artikel 40b. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
+##### Artikel 40b. Toepasselijkheid Wet administratieve rechtspraak BES
 
 1. De belanghebbende kan tegen een beschikking op grond van dit besluit beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
@@ -516,6 +536,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 7. Overige bepalingen
 
+##### Artikel 41. Toezicht door Onze Minister
+
+1. Met het toezicht op de naleving van het bij of krachtens dit besluit bepaalde zijn belast de daartoe bij regeling van Onze Minister aangewezen ambtenaren.
+
+2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+
 ##### Artikel 41a. Advisering
 
 [Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in:
@@ -524,148 +550,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. [artikel 3:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:7), in plaats van «[Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10)» wordt gelezen «[Artikel 11 van de Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&artikel=11)».
 
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 17a. Toeslag bij AOV-gerechtigde leeftijd
-
-Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor de alleenstaande, de alleenstaande ouder of de personen die een gezamenlijke huishouding voeren, die de pensioengerechtigde leeftijd heeft of hebben bereikt, verhoogd met een enkelvoudige toeslag per twee weken van:
-
-- a. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 263 per 1 januari 2026: USD 471;
-
-- b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 318 per 1 januari 2026: USD 455;
-
-- c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 314 per 1 januari 2026: USD 452.
-
-##### Artikel 17b. Bovengrens onderstand
-
-Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), en de toeslagen, genoemd in de [artikelen 14 tot en met 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), bij elkaar overschrijden niet de hoogte van het minimumloon.
-
-#### § 3.3. Middelen
-
-### Hoofdstuk 4. Bijzondere onderstand en aanpassing bedragen
-
-#### § 4.1. Bijzondere onderstand
-
-### Hoofdstuk 5. Uitvoering
-
-#### § 5.1. De aanvraag
-
-#### § 5.2. Toekenning, vaststelling en betaling
-
-### Hoofdstuk 6. Bevoegdheden en faciliteiten uitvoering
-
-#### § 6.1. Vorm onderstand
-
-#### § 6.2. Onderzoek en beëindiging recht op onderstand
-
-#### § 6.4. Terugvordering
-
-#### § 6.5. Gegevensuitwisseling
-
-### Hoofdstuk 7. Overige bepalingen
-
-### Hoofdstuk 8. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11a. Controlevoorschriften
-
-1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van dit besluit.
-
-2. De belanghebbende volgt de voorschriften op en verleent anderszins aan Onze Minister desgevraagd de medewerking die redelijkerwijs nodig is voor de uitvoering van dit besluit.
-
-3. De belanghebbende onthoudt zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
-
-### Hoofdstuk 3. Algemene onderstand
-
-#### § 3.1. Algemene onderstand
-
-#### § 3.2. Toeslagen algemene onderstand
-
-#### § 3.3. Middelen
-
-##### Artikel 18a. Vermogen
-
-1. Onder vermogen wordt verstaan de waarde van de bezittingen waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken, verminderd met de aanwezige schulden. De waarde van bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering.
-
-2. Niet als vermogen wordt in aanmerking genomen:
-
-- a. bezittingen in natura die naar hun aard en waarde algemeen gebruikelijk zijn of, gelet op de omstandigheden van persoon en gezin, noodzakelijk zijn;
-
-- b. het bij de aanvang van de onderstand aanwezige vermogen voor zover dit minder bedraagt dan de van toepassing zijnde vermogensgrens, genoemd in het derde lid;
-
-- c. de economische waarde van de woning die tevens hoofdverblijf is, tenzij Onze Minister van oordeel is dat de waarde van de woning in alle redelijkheid bij het vermogen kan worden betrokken;
-
-- d. bij regeling van Onze Minister aan te wijzen uitkeringen en vergoedingen voor materiële en immateriële schade;
-
-- e. giften en andere dan de in onderdeel d bedoelde vergoedingen voor materiële en immateriële schade voor zover deze, gelet op de aard en de hoogte ervan, vanuit het oogpunt van onderstandsverlening verantwoord zijn.
-
-3. De vermogensgrens, bedoeld in het tweede lid, onderdeel b, is:
-
-- a. voor de alleenstaande die de pensioengerechtigde leeftijd niet heeft bereikt:
-
-- 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 4.380 per 1 januari 2026: USD 5.833;
-
-- 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 5.300 per 1 januari 2026: USD 6.676;
-
-- 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 5.230 per 1 januari 2026: USD 6.849.
-
-- b. voor het gezin waarvan geen van de gezinsleden de pensioengerechtigde leeftijd heeft bereikt:
-
-- 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 8.760 per 1 januari 2026: USD 11.665;
-
-- 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 10.600 per 1 januari 2026: USD 13.352;
-
-- 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 10.460 per 1 januari 2026: USD 13.698.
-
-- c. voor de alleenstaande die de pensioengerechtigde leeftijd heeft bereikt:
-
-- 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 8.760 per 1 januari 2026: USD 11.665;
-
-- 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 10.600 per 1 januari 2026: USD 13.352;
-
-- 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 10.460 per 1 januari 2026: USD 13.698.
-
-- d. voor het gezin waarvan ten minste een van de gezinsleden de pensioengerechtigde leeftijd heeft bereikt:
-
-- 1°. indien de belanghebbende woonachtig is in het openbaar lichaam Bonaire: USD 17.520 per 1 januari 2026: USD 23.330;
-
-- 2°. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: USD 21.200 per 1 januari 2026: USD 26.705;
-
-- 3°. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 20.920 per 1 januari 2026: USD 27.396.
-
-### Hoofdstuk 4. Bijzondere onderstand en aanpassing bedragen
-
-#### § 4.2. Aanpassing en herziening bedragen
-
-### Hoofdstuk 5. Uitvoering
-
-#### § 5.1. De aanvraag
-
-#### § 5.2. Toekenning, vaststelling en betaling
-
-### Hoofdstuk 6. Bevoegdheden en faciliteiten uitvoering
-
-#### § 6.3. Aanvullende verplichtingen
-
-#### § 6.5. Gegevensuitwisseling
-
-### Hoofdstuk 6a. Bekendmaking, bezwaar en beroep
-
-### Hoofdstuk 7. Overige bepalingen
-
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
 ##### Artikel 41b. Overgangsrecht uitsluiten fraudevorderingen van vermogenstoets
 
-Schulden die voor de inwerkingtreding van het Besluit van 2 september 2020 tot wijziging van het Besluit onderstand BES in verband met diverse verbeteringen ten aanzien van de AOV-toeslag, het uitsluiten van fraudevorderingen bij de vermogenstoets en diverse andere wijzigingen (Stb. 2020, 370) zijn ontstaan door een terugvordering, een geldboete die daarmee verband houdt, een bestuurlijke boete of geldboete op grond van de wetten, genoemd in [artikel 18a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01), worden als schuld in aanmerking genomen voor de belanghebbende aan wie op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.2&artikel=24&z=2026-01-01&g=2026-01-01) onderstand is toegekend vanaf de dag gelegen voor de dag van inwerkingtreding van dat besluit, zolang dat recht op bijstand bestaat.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Schulden die voor de inwerkingtreding van het Besluit van 2 september 2020 tot wijziging van het Besluit onderstand BES in verband met diverse verbeteringen ten aanzien van de AOV-toeslag, het uitsluiten van fraudevorderingen bij de vermogenstoets en diverse andere wijzigingen (Stb. 2020, 370) zijn ontstaan door een terugvordering, een geldboete die daarmee verband houdt, een bestuurlijke boete of geldboete op grond van de wetten, genoemd in [artikel 18a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01), worden als schuld in aanmerking genomen voor de belanghebbende aan wie op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.2&artikel=24&z=2026-01-01&g=2026-01-01) onderstand is toegekend vanaf de dag gelegen voor de dag van inwerkingtreding van dat besluit, zolang dat recht op bijstand bestaat.
 
 ##### Artikel 41b*. Overgangsrecht uitvoering bijzondere onderstand
 
-[Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2026-01-01&g=2026-01-01), zoals dat luidde voor de datum van inwerkingtreding van artikel I, onderdeel A, van het Besluit van 26 januari 2021 tot wijziging van het Besluit onderstand BES en het Besluit uitvoering Wet arbeid vreemdelingen BES in verband met wijziging van taken ten aanzien van de bijzondere onderstand op Saba en ten aanzien van het uitzonderen van onderwijzers van de tewerkstellingsvergunningsplicht op Saba (Stb. 2021, 43), blijft van toepassing op voor die datum ingediende aanvragen voor bijzondere onderstand van personen woonachtig in het openbaar lichaam Saba.
+[Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2026-01-01&g=2026-01-01), zoals dat luidde voor de datum van inwerkingtreding van artikel I, onderdeel A, van het Besluit van 26 januari 2021 tot wijziging van het Besluit onderstand BES en het Besluit uitvoering Wet arbeid vreemdelingen BES in verband met wijziging van taken ten aanzien van de bijzondere onderstand op Saba en ten aanzien van het uitzonderen van onderwijzers van de tewerkstellingsvergunningsplicht op Saba (Stb. 2021, 43), blijft van toepassing op voor die datum ingediende aanvragen voor bijzondere onderstand van personen woonachtig in het openbaar lichaam Saba.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 42. Inwerkingtreding
+
+Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
+
+##### Artikel 43. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit onderstand BES.

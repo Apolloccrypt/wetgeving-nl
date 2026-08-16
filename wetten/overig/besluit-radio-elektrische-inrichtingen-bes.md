@@ -1,38 +1,16 @@
 ---
 title: "Besluit radio-elektrische inrichtingen BES"
 identifier: "BWBR0028621"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-05-13"
-last_updated: "2022-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028621"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10902683"
-version_id: "17886582"
-internal_id: "C24829711"
-label_id: "10878404"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028621/2022-05-13/0"
-intitule_bron: "Stb.2010-455"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-15"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-455"
-original_signed_date: "2010-09-15"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-455"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028621&z=2022-05-13&g=2022-05-13"
-jci_1_0: "1.0:c:BWBR0028621&g=2022-05-13"
-citeertitel_status: "officieel"
-signed_date: "2010-09-15"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-05-13
+status: geldig
+toestand: 2022-05-13
+bron: "https://wetten.overheid.nl/BWBR0028621"
+opgehaald: 2026-08-16
 ---
+
 # Besluit radio-elektrische inrichtingen BES
 
 ### Hoofdstuk 1. Definities
@@ -41,51 +19,52 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- a. *wet:*
+ [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **toezichthoudende ambtenaar:** de ambtenaar, bedoeld in [artikel 31a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31a);
+- b. *toezichthoudende ambtenaar:* de ambtenaar, bedoeld in [artikel 31a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31a);
 
-- c. **zendinrichting:** radio-elektrische zendinrichting, bestaande uit één apparaat dan wel uit een samenstel van apparaten;
+- c. *zendinrichting:* radio-elektrische zendinrichting, bestaande uit één apparaat dan wel uit een samenstel van apparaten;
 
-- d. **ontvanginrichting:** radio-elektrische ontvanginrichting, bestaande uit één apparaat dan wel uit een samenstel van apparaten, niet uitsluitend bestemd voor de ontvangst van omroepprogramma’s;
+- d. *ontvanginrichting:* radio-elektrische ontvanginrichting, bestaande uit één apparaat dan wel uit een samenstel van apparaten, niet uitsluitend bestemd voor de ontvangst van omroepprogramma’s;
 
-- e. **vrijstelling van een machtiging:** vrijstelling van het vereiste van een machtiging, bedoeld in [artikel 15, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15);
+- e. *vrijstelling van een machtiging:* vrijstelling van het vereiste van een machtiging, bedoeld in [artikel 15, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15);
 
-- f. **machtiginghouder:** degene aan wie machtiging is verleend ten aanzien van een zendinrichting of een ontvanginrichting;
+- f. *machtiginghouder:* degene aan wie machtiging is verleend ten aanzien van een zendinrichting of een ontvanginrichting;
 
-- g. **houder:**
+- g. *houder:*
 
-- 1°. met betrekking tot zendinrichtingen of ontvanginrichtingen waarvoor een machtiging is verleend: de machtiginghouder, en
+   - 1°. met betrekking tot zendinrichtingen of ontvanginrichtingen waarvoor een machtiging is verleend: de machtiginghouder, en
 
-- 2°. met betrekking tot zendinrichtingen of ontvanginrichtingen waarvoor het vereiste van een machtiging niet geldt dan wel ten aanzien waarvan vrijstelling van een machtiging is verleend: degene die deze inrichtingen aanlegt, aanwezig heeft of gebruikt;
+   - 2°. met betrekking tot zendinrichtingen of ontvanginrichtingen waarvoor het vereiste van een machtiging niet geldt dan wel ten aanzien waarvan vrijstelling van een machtiging is verleend: degene die deze inrichtingen aanlegt, aanwezig heeft of gebruikt;
 
-- h. **ondernemer:** degene die het vervaardigen, verhandelen, installeren of herstellen van zendinrichtingen of ontvang-inrichtingen als beroep of bedrijf uitoefent;
+- h. *ondernemer:* degene die het vervaardigen, verhandelen, installeren of herstellen van zendinrichtingen of ontvang-inrichtingen als beroep of bedrijf uitoefent;
 
-- i. **een ontheffing:** een ontheffing als bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=12);
+- i. *een ontheffing:* een ontheffing als bedoeld in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=12);
 
-- j. **technische eisen ten aanzien van zendinrichtingen**
+- j. *technische eisen ten aanzien van zendinrichtingen*
 
-- 1°. de technische eisen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13); en
+   - 1°. de technische eisen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13); en
 
-- 2°. ten aanzien van ontvanginrichtingen: de technische eisen, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13);
+   - 2°. ten aanzien van ontvanginrichtingen: de technische eisen, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13);
 
-- k. **verklaring van conformiteit:**
+- k. *verklaring van conformiteit:*
 
-- 1°. ten aanzien van zendinrichtingen: een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=3&artikel=21&z=2022-05-13&g=2022-05-13); en
+   - 1°. ten aanzien van zendinrichtingen: een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=3&artikel=21&z=2022-05-13&g=2022-05-13); en
 
-- 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=4&artikel=54&z=2022-05-13&g=2022-05-13);
+   - 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=4&artikel=54&z=2022-05-13&g=2022-05-13);
 
-- l. **verklaring van toelating:**
+- l. *verklaring van toelating:*
 
-- 1°. ten aanzien van zendininrichtingen: een bewijsstuk als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=4&artikel=23&z=2022-05-13&g=2022-05-13); en
+   - 1°. ten aanzien van zendininrichtingen: een bewijsstuk als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=4&artikel=23&z=2022-05-13&g=2022-05-13); en
 
-- 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=5&artikel=56&z=2022-05-13&g=2022-05-13);
+   - 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=5&artikel=56&z=2022-05-13&g=2022-05-13);
 
-- m. **bewijs van goedkeuring**
+- m. *bewijs van goedkeuring*
 
-- 1°. ten aanzien van zendinrichtingen: een bewijsstuk als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=2&artikel=38&z=2022-05-13&g=2022-05-13); en
+   - 1°. ten aanzien van zendinrichtingen: een bewijsstuk als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=2&artikel=38&z=2022-05-13&g=2022-05-13); en
 
-- 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=2&artikel=69&z=2022-05-13&g=2022-05-13).
+   - 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=2&artikel=69&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 1a
 
@@ -145,7 +124,7 @@ De aanvrager kan weigeren gegevens en bescheiden te verschaffen op grond dat het
 
 ##### Artikel 9
 
-Indien een aanvraag niet is ingediend op de wijze bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
+Indien een aanvraag niet is ingediend op de wijze bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
 
 ##### Artikel 10
 
@@ -177,7 +156,7 @@ Indien de houder van de verleende machtiging deze niet binnen een periode van tw
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 #### § 5. Algemene verplichtingen
 
@@ -311,7 +290,7 @@ Een verklaring van toelating mag slechts worden geweigerd:
 
 - b. indien de zendinrichting niet voldoet aan de krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), gestelde technische eisen;
 
-- c. ten aanzien van zendinrichtingen bestemd voor gebruik als randapparatuur, indien daarvoor een verklaring van toelating als bedoeld in artikel 8, derde lid, van het Besluit randapparatuur BES wordt geweigerd.
+- c. ten aanzien van zendinrichtingen bestemd voor gebruik als randapparatuur, indien daarvoor een verklaring van toelating als bedoeld in artikel 8, derde lid, van het Besluit randapparatuur BES wordt geweigerd.
 
 ##### Artikel 25
 
@@ -607,9 +586,9 @@ Ter bescherming van de rechten van derden is het een ieder verboden van niet of 
 
 - b.
 
-- 1°. het voorkomen van storingen door ontvanginrichtingen in andere elektrische en elektronische inrichtingen;
+   - 1°. het voorkomen van storingen door ontvanginrichtingen in andere elektrische en elektronische inrichtingen;
 
-- 2°. het bestand zijn van ontvanginrichtingen tegen storingen van andere elektrische en elektronische inrichtingen.
+   - 2°. het bestand zijn van ontvanginrichtingen tegen storingen van andere elektrische en elektronische inrichtingen.
 
 3. De ingevolge het eerste lid te stellen technische eisen voor ontvanginrichtingen bevatten tevens de methoden voor het testen van ontvanginrichtingen op conformiteit met de gestelde technische eisen.
 
@@ -833,7 +812,7 @@ Bewijzen van goedkeuring die voor het tijdstip van inwerkingtreding van dit besl
 
 ##### Artikel 76
 
-Technische eisen vastgesteld krachtens de artikelen 18, eerste lid, en 51, eerste lid, van het Landsbesluit radio- elektrische zendinrichtingen alsmede technische eisen van vóór 1 januari 1996 als bedoeld in artikel 72 van het Landsbesluit radio-elektrische inrichtingen, voor zover laatst bedoelde eisen niet zijn vervangen door technische eisen ingevolge de artikelen 18, eerste lid, of 51, eerste lid, van het Landsbesluit radio-elektrische zendinrichtingen, blijven gelden tot het tijdstip waarop Onze Minister krachtens de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), of [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13), nieuwe technische eisen heeft vastgesteld.
+Technische eisen vastgesteld krachtens de artikelen 18, eerste lid, en 51, eerste lid, van het Landsbesluit radio- elektrische zendinrichtingen alsmede technische eisen van vóór 1 januari 1996 als bedoeld in artikel 72 van het Landsbesluit radio-elektrische inrichtingen, voor zover laatst bedoelde eisen niet zijn vervangen door technische eisen ingevolge de artikelen 18, eerste lid, of 51, eerste lid, van het Landsbesluit radio-elektrische zendinrichtingen, blijven gelden tot het tijdstip waarop Onze Minister krachtens de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), of [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13), nieuwe technische eisen heeft vastgesteld.
 
 ##### Artikel 77
 

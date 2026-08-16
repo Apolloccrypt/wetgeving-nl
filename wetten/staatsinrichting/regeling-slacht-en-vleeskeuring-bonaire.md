@@ -1,80 +1,52 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 151932, houdende regels inzake de slacht en vleeskeuring op Bonaire (Regeling slacht- en vleeskeuring Bonaire)"
+citeertitel: "Regeling slacht- en vleeskeuring Bonaire"
 identifier: "BWBR0028806"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028806"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "11029483"
-version_id: "18023332"
-internal_id: "C25061221"
-label_id: "11005304"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028806/2010-10-10/0"
-intitule_bron: "Stcrt.2010-15057"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15057"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15057"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028806&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028806&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling slacht- en vleeskeuring Bonaire"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028806"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 151932, houdende regels inzake de slacht en vleeskeuring op Bonaire (Regeling slacht- en vleeskeuring Bonaire)
-
-Gelet op de [artikelen18.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.2),[18.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.4),[18.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.9) en [18.2.10avan de Invoeringswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.10a) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=30) en [31 van het Besluit slacht- en vleeskeuring BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=31);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ### Hoofdstuk I. Slacht- en vleeskeuring bonaire
 
-### Afdeling I. Algemeen
+#### Afdeling I. Algemeen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** Besluit slacht- en vleeskeuring Bonaire;
+- a. *besluit:* Besluit slacht- en vleeskeuring Bonaire;
 
-- b. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- b. *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **vee:** herkauwende dieren, eenhoevige dieren en varkens;
+- c. *vee:* herkauwende dieren, eenhoevige dieren en varkens;
 
-- d. **slachtvee:** alle voor onmiddellijke slachting bestemd vee;
+- d. *slachtvee:* alle voor onmiddellijke slachting bestemd vee;
 
-- e. **pluimvee:** alle soorten gevogelte zoals kip, kalkoen, duif, patrijs, struisvogel, fazant;
+- e. *pluimvee:* alle soorten gevogelte zoals kip, kalkoen, duif, patrijs, struisvogel, fazant;
 
-- f. **samengesteld vleesproduct:** product bestaande uit vlees of vleesproduct en een vleesvreemd eiwit of toegevoegde ingrediënten;
+- f. *samengesteld vleesproduct:* product bestaande uit vlees of vleesproduct en een vleesvreemd eiwit of toegevoegde ingrediënten;
 
-- g. **separatorvlees:** verkleinde substantie bestaande uit spierweefsel, bindweefsel, merg en vet, hetwelk machinaal is gescheiden van beenderen van slachtvee of pluimvee;
+- g. *separatorvlees:* verkleinde substantie bestaande uit spierweefsel, bindweefsel, merg en vet, hetwelk machinaal is gescheiden van beenderen van slachtvee of pluimvee;
 
-- h. **darmvervangend omhulsel:** ander omhulsel van worst dan de darm, voor zover bestaande uit materiaal dat op overeenkomstige wijze als de darm water en vet doorlaat;
+- h. *darmvervangend omhulsel:* ander omhulsel van worst dan de darm, voor zover bestaande uit materiaal dat op overeenkomstige wijze als de darm water en vet doorlaat;
 
-- i. **verpakking:** de verpakking van de in deze regeling bedoelde producten of producten, bestemd of geschikt om met de inhoud aan de verbruiker te worden afgeleverd, die een hoeveelheid van het product geheel of ten dele bedekt of kan bedekken en waarin die hoeveelheid is aangebracht alvorens in die verpakking in de handel te worden of te zijn gebracht, zodanig dat de in de verpakking aanwezige hoeveelheid van het product niet kan worden gewijzigd zonder dat de verpakking is geopend of een aantoonbare wijziging in die verpakking is aangebracht. Niet als verpakking worden aangemerkt bij worst de darm of het darmvervangend omhulsel;
+- i. *verpakking:* de verpakking van de in deze regeling bedoelde producten of producten, bestemd of geschikt om met de inhoud aan de verbruiker te worden afgeleverd, die een hoeveelheid van het product geheel of ten dele bedekt of kan bedekken en waarin die hoeveelheid is aangebracht alvorens in die verpakking in de handel te worden of te zijn gebracht, zodanig dat de in de verpakking aanwezige hoeveelheid van het product niet kan worden gewijzigd zonder dat de verpakking is geopend of een aantoonbare wijziging in die verpakking is aangebracht. Niet als verpakking worden aangemerkt bij worst de darm of het darmvervangend omhulsel;
 
-- j. **startercultuur:** reincultuur van één type micro-organisme of een mengsel van meer dan één type micro-organisme, beide bedoeld om een fermentatieproces te kunnen sturen en versnellen;
+- j. *startercultuur:* reincultuur van één type micro-organisme of een mengsel van meer dan één type micro-organisme, beide bedoeld om een fermentatieproces te kunnen sturen en versnellen;
 
-- k. **fosfaten:** natrimorthofosfaat E 339, dinatriumwaterstofdifosfaat E450 a **i**, tetranatriumdifosfaat E 450 a **iii**, pentanatriumdifosfaat E 450 b **i**, natriumpolyfosfaat E 450 c **i**, kaliumorthofosfaat E 340, tetrakaliumdifosfaat E 450 a **iv**, pentakaliumtrifosfaat E 450 b **ii**, kaliumpolyfosfaat E 450 c **ii**;
+- k. *fosfaten:* natrimorthofosfaat E 339, dinatriumwaterstofdifosfaat E450 a *i*, tetranatriumdifosfaat E 450 a *iii*, pentanatriumdifosfaat E 450 b *i*, natriumpolyfosfaat E 450 c *i*, kaliumorthofosfaat E 340, tetrakaliumdifosfaat E 450 a *iv*, pentakaliumtrifosfaat E 450 b *ii*, kaliumpolyfosfaat E 450 c *ii*;
 
-- l. **ingrediënten:** stoffen en producten, welke bij vervaardiging of bereiding van eetwaar worden gebruikt en die als zodanig of als omzettingsproduct in het product aanwezig zijn;
+- l. *ingrediënten:* stoffen en producten, welke bij vervaardiging of bereiding van eetwaar worden gebruikt en die als zodanig of als omzettingsproduct in het product aanwezig zijn;
 
-- m. **vleesvreemd eiwitproduct:** soja-eiwitproduct of melkeiwitproduct, dan wel door de keuringsdierenarts aangewezen andere eiwitproducten.
+- m. *vleesvreemd eiwitproduct:* soja-eiwitproduct of melkeiwitproduct, dan wel door de keuringsdierenarts aangewezen andere eiwitproducten.
 
 ##### Artikel 2
 
@@ -104,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 5. Bij afwezigheid van een dierenarts dan wel de keuringsdierenarts neemt de hoofdkeurmeester de taken van de dierenarts, dan wel de keuringsdierenarts zoveel mogelijk over.
 
-### Afdeling II. Het slachten en gebruik van het slachthuis
+#### Afdeling II. Het slachten en gebruik van het slachthuis
 
 #### Paragraaf A. De kennisgeving van slachten en de vergunning tot slachten
 
@@ -252,7 +224,7 @@ Van het geslachte dier mogen geen delen worden verwijderd, noch mogen in het ges
 
 Een geslacht dier of enig gedeelte ervan, uitgezonderd de longen van dieren, geslacht volgens de Israëlische ritus, mag niet zijn opgeblazen.
 
-### Afdeling III. De keuring van slachtvee en daarvan afkomstig vee
+#### Afdeling III. De keuring van slachtvee en daarvan afkomstig vee
 
 #### Paragraaf D. Wat bij de keuring wordt onderzocht
 
@@ -352,7 +324,7 @@ Indien vlees wordt afgekeurd, dan wordt het in zijn geheel blauw of rood gemerkt
 
 Het merken van vlees vindt plaats door middel van een voor de gezondheid van de gebruikers van het vlees onschadelijke kleurstofoplossing of, op door de keuringsdierenarts aangewezen organen of delen, door middel van een verhit stempel, waarmede een stempelafdruk op dit vlees kan worden geschroeid.
 
-### Afdeling IV. De keuring van in te voeren vlees en vleesproducten
+#### Afdeling IV. De keuring van in te voeren vlees en vleesproducten
 
 ##### Artikel 33
 
@@ -370,45 +342,45 @@ Ten aanzien van de invoer van vlees gelden de volgende regels:
 
 - a. het vlees voldoet aan de volgende voorwaarden:
 
-- i. het is geschikt voor menselijke consumptie;
+   - i. het is geschikt voor menselijke consumptie;
 
-- ii. het is afkomstig van dieren die zijn geslacht in een slachthuis dat is erkend;
+   - ii. het is afkomstig van dieren die zijn geslacht in een slachthuis dat is erkend;
 
-- iii. het is goedgekeurd door een officiële dierenarts, tevens keuringsdierenarts;
+   - iii. het is goedgekeurd door een officiële dierenarts, tevens keuringsdierenarts;
 
-- iv. het is op een hygiënische wijze behandeld en vervoerd;
+   - iv. het is op een hygiënische wijze behandeld en vervoerd;
 
-- v. het is voorzien van een keurmerk;
+   - v. het is voorzien van een keurmerk;
 
-- vi. het gaat tijdens het transport vergezeld van een gezondheidscertificaat;
+   - vi. het gaat tijdens het transport vergezeld van een gezondheidscertificaat;
 
 - b. het vlees mag slechts stoffen, welke niet aan het vlees eigen zijn, bevatten voor zover zulks geen gevaar voor de volksgezondheid oplevert. De minister kan, de dierenartsgehoord, deze eis met betrekking tot een of meer stoffen nader omschrijven;
 
 - c. de volgende stoffen, welke niet eigen aan vlees zijn, mogen niet in vlees aanwezig zijn:
 
-- i. stoffen met hormonale, dan wel anti-hormonale werking;
+   - i. stoffen met hormonale, dan wel anti-hormonale werking;
 
-- ii. antibiotica;
+   - ii. antibiotica;
 
-- iii. chemotherapeutica;
+   - iii. chemotherapeutica;
 
-- iv. residuen van andere stoffen met hormonale, dan wel anti-hormonale werking, chemotherapeutica, antibiotica, antimonium, arsenicum, bestrijdingsmiddelen of andere stoffen die schadelijk zijn of er eventueel toe kunnen leiden dat de consumptie van het vlees gevaarlijk of schadelijk is voor de gezondheid van de mens;
+   - iv. residuen van andere stoffen met hormonale, dan wel anti-hormonale werking, chemotherapeutica, antibiotica, antimonium, arsenicum, bestrijdingsmiddelen of andere stoffen die schadelijk zijn of er eventueel toe kunnen leiden dat de consumptie van het vlees gevaarlijk of schadelijk is voor de gezondheid van de mens;
 
-- v. vlees van dieren waaraan stilbenen, derivaten van stilbenen, zouten en esters daarvan, alsmede stoffen met thyreostatische werking zijn toegediend, alsmede vlees dat residuen van deze stoffen bevat;
+   - v. vlees van dieren waaraan stilbenen, derivaten van stilbenen, zouten en esters daarvan, alsmede stoffen met thyreostatische werking zijn toegediend, alsmede vlees dat residuen van deze stoffen bevat;
 
-- vi. vlees dat met ioniserende of ultraviolette stralen is behandeld, alsmede vlees van dieren waaraan malsmakers – ‘tenderisers’ – of andere producten die de samenstelling of de organoleptische eigenschappen kunnen wijzigen, zijn toegediend;
+   - vi. vlees dat met ioniserende of ultraviolette stralen is behandeld, alsmede vlees van dieren waaraan malsmakers – ‘tenderisers’ – of andere producten die de samenstelling of de organoleptische eigenschappen kunnen wijzigen, zijn toegediend;
 
-- vii. vlees van dieren, waarbij een of andere vorm van tuberculose is geconstateerd, of de aanwezigheid van een of meer levende of dode runder- of varkensblaaswormen, dan wel, voor zover het varkens betreft, van trichenen is geconstateerd;
+   - vii. vlees van dieren, waarbij een of andere vorm van tuberculose is geconstateerd, of de aanwezigheid van een of meer levende of dode runder- of varkensblaaswormen, dan wel, voor zover het varkens betreft, van trichenen is geconstateerd;
 
-- viii. vlees van te jonge dieren;
+   - viii. vlees van te jonge dieren;
 
-- ix. bloed;
+   - ix. bloed;
 
-- x. gehakt of op overeenkomstige wijze verkleind vlees en separatorvlees;
+   - x. gehakt of op overeenkomstige wijze verkleind vlees en separatorvlees;
 
-- xi. vlees in stukken minder dan 100 gram;
+   - xi. vlees in stukken minder dan 100 gram;
 
-- xii. koppen van runderen, alsmede delen van spieren en andere weefsels van de kop, met uitzondering van de tong en hersenen;
+   - xii. koppen van runderen, alsmede delen van spieren en andere weefsels van de kop, met uitzondering van de tong en hersenen;
 
 - d. de toegestane tolerantie van residuen van Caesium 134 en 137 tezamen wordt vastgesteld op maximaal 600 Becquerel per kilogram.
 
@@ -486,7 +458,7 @@ Wanneer vlees in strijd met deze regeling is aangevoerd, beslist de keuringsdier
 
 Alle kosten van keuring en controle van vlees, ingeval van tijdelijke aanhouding kosten van opslag alsmede eventueel kosten van vernietiging van dit vlees, komen ten laste van de aanbieder van dit vlees.
 
-### Afdeling V. Eisen waaraan het slachthuis en de inrichtingen voldoen
+#### Afdeling V. Eisen waaraan het slachthuis en de inrichtingen voldoen
 
 #### Paragraaf H. Algemeen geldende voorschriften
 
@@ -748,11 +720,11 @@ De artikelen van [paragraaf H](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&h
 
 - d. zij is voorzien van de aanduiding ‘ten minste houdbaar tot ...’. Hier is vermeld tot welke datum het vlees minimaal houdbaar is. De datum is aangegeven in de volgorde: dag, maand, jaar, met dien verstande dat:
 
-- i. de dag is aangegeven met een getal bestaande uit twee cijfers;
+   - i. de dag is aangegeven met een getal bestaande uit twee cijfers;
 
-- ii. de maand is aangegeven hetzij met de naam hetzij met de eerste drie letters van de naam – waarbij maart wordt aangeduid met de letters ‘mrt’ –, hetzij met een getal bestaande uit twee cijfers;
+   - ii. de maand is aangegeven hetzij met de naam hetzij met de eerste drie letters van de naam – waarbij maart wordt aangeduid met de letters ‘mrt’ –, hetzij met een getal bestaande uit twee cijfers;
 
-- iii. het jaar is aangegeven hetzij met het jaartal, hetzij met een getal bestaande uit de laatste twee cijfers van het jaartal;
+   - iii. het jaar is aangegeven hetzij met het jaartal, hetzij met een getal bestaande uit de laatste twee cijfers van het jaartal;
 
 - e. zij voldoen aan de eisen gesteld bij of krachtens de [Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619).
 
@@ -862,7 +834,7 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 2. Vleeswinkels dragen bij de voor het publiek te gebruiken toegang onder vermelding van dit artikel op duidelijke wijze het opschrift: ‘Aanwezigheid van honden en katten in deze winkel is verboden’, dan wel: ‘Prohibi pa kacho i pushi’.
 
-### Afdeling VI. Vervoer van vlees en vleesproducten
+#### Afdeling VI. Vervoer van vlees en vleesproducten
 
 #### Paragraaf P. De voorwaarden, waaraan bij het vervoer van vlees wordt voldaan
 
@@ -874,21 +846,21 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 - a. in geheel dichte, door middel van één of meer deuren, kleppen of deksels gesloten ruimten van wagens, welke voldoen aan de volgende eisen:
 
-- i. de ruimte waarin vlees wordt vervoerd is geheel van de zitplaats van de bestuurder afgescheiden en is – met uitzondering van de ruimten – aan de binnenzijde geheel bekleed met niet-corroderend materiaal dat vrij van scheuren is;
+   - i. de ruimte waarin vlees wordt vervoerd is geheel van de zitplaats van de bestuurder afgescheiden en is – met uitzondering van de ruimten – aan de binnenzijde geheel bekleed met niet-corroderend materiaal dat vrij van scheuren is;
 
-- ii. de bodem is goed gesloten, vrij van scheuren en niet voorzien van profileringen welke de reiniging door en de afvoer van spoel- en schrobwater belemmeren;
+   - ii. de bodem is goed gesloten, vrij van scheuren en niet voorzien van profileringen welke de reiniging door en de afvoer van spoel- en schrobwater belemmeren;
 
-- iii. deuren, kleppen en deksels, waarmede de wagens worden gesloten, zijn dusdanig geconstrueerd dat enkelvoudige verzegeling mogelijk is;
+   - iii. deuren, kleppen en deksels, waarmede de wagens worden gesloten, zijn dusdanig geconstrueerd dat enkelvoudige verzegeling mogelijk is;
 
-- iv. indien het vlees hangend wordt vervoerd, zijn de daartoe gebruikte haken van niet-corroderend metaal vervaardigd en bevinden zich steeds in zindelijke toestand, terwijl het vlees niet met de bodem in aanraking komt;
+   - iv. indien het vlees hangend wordt vervoerd, zijn de daartoe gebruikte haken van niet-corroderend metaal vervaardigd en bevinden zich steeds in zindelijke toestand, terwijl het vlees niet met de bodem in aanraking komt;
 
-- v. indien vlees niet hangend wordt vervoerd en niet is verpakt op de wijze, aangegeven in het zesde lid, wordt het:
+   - v. indien vlees niet hangend wordt vervoerd en niet is verpakt op de wijze, aangegeven in het zesde lid, wordt het:
 
-- 1. hetzij gelegd op een uitneembare, van niet-corroderend metaal vervaardigde onderlaag, welke op een afstand van minstens 5 centimeter boven de bodem van de wagen in gedeelten is aangebracht en met eenmaal te gebruiken schoon, vetdicht, onbedrukt wit of kleurloos papier of kunststof bedekt is. Deze gedeelten, waarvan de afmetingen in de rijrichting van de wagen niet meer dan 50 centimeter mag bedragen, mogen steunen op van niet-corroderend metaal vervaardigde klampen welke aan de wanden of aan de onderzijde van de onderlaag bevestigd zijn. Staan of lopen op de onderlaag is verboden;
+      - 1. hetzij gelegd op een uitneembare, van niet-corroderend metaal vervaardigde onderlaag, welke op een afstand van minstens 5 centimeter boven de bodem van de wagen in gedeelten is aangebracht en met eenmaal te gebruiken schoon, vetdicht, onbedrukt wit of kleurloos papier of kunststof bedekt is. Deze gedeelten, waarvan de afmetingen in de rijrichting van de wagen niet meer dan 50 centimeter mag bedragen, mogen steunen op van niet-corroderend metaal vervaardigde klampen welke aan de wanden of aan de onderzijde van de onderlaag bevestigd zijn. Staan of lopen op de onderlaag is verboden;
 
-- 2. hetzij vervoerd in voorwerpen van niet-corroderend metaal, die geen scheuren vertonen en niet lekken, terwijl deze van zodanige constructie zijn dat bij stapeling het uitwendige niet in aanraking kan komen met vlees. Het uitwendige der voorwerpen is rein;
+      - 2. hetzij vervoerd in voorwerpen van niet-corroderend metaal, die geen scheuren vertonen en niet lekken, terwijl deze van zodanige constructie zijn dat bij stapeling het uitwendige niet in aanraking kan komen met vlees. Het uitwendige der voorwerpen is rein;
 
-- vi. het is verboden gehele geslachte dieren, halve dieren en vierendelen anders dan hangend te vervoeren, tenzij zij zijn bevroren of verpakt op de wijze, bedoeld in het zesde lid;
+   - vi. het is verboden gehele geslachte dieren, halve dieren en vierendelen anders dan hangend te vervoeren, tenzij zij zijn bevroren of verpakt op de wijze, bedoeld in het zesde lid;
 
 - b. in wagens welke niet aan de onder a genoemde eisen voldoen, in vaartuigen en in vliegtuigen, mits het vlees geheel verpakt is dan wel zich bevindt in voorwerpen die vervaardigd zijn van niet-corroderend materiaal, die geen scheuren vertonen en niet lekken en die afgesloten zijn met een goed sluitende deksel van hetzelfde materiaal, een en ander met inachtneming van het onder a, subonderdeel vi, gestelde.
 
@@ -910,7 +882,7 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 11. De keuringsdierenarts kan op aanvraag ontheffing verlenen van het in het eerste lid opgenomen voorschrift ten aanzien van de inwendige temperatuur van vlees en slachtafvallen. Een ontheffing wordt slechts verleend, indien de maximale duur van het vervoer het uur niet overschrijdt. Aan een dergelijke ontheffing kunnen voorwaarden worden verbonden.
 
-### Afdeling VII. Wat niet onder vlees, onderscheidenlijk onder vleesproducten moet worden verstaan, alsmede de verwerking van vlees tot vleesproducten
+#### Afdeling VII. Wat niet onder vlees, onderscheidenlijk onder vleesproducten moet worden verstaan, alsmede de verwerking van vlees tot vleesproducten
 
 #### Paragraaf Q. Wat niet onder vlees, onderscheidenlijk onder vleesproducten, moet worden verstaan
 
@@ -920,19 +892,19 @@ Van hetgeen in deze regeling onder vlees wordt verstaan, worden uitgezonderd:
 
 - a. ten eerste: indien deze delen ten genoege van de keuringsdierenarts zijn overgoten dan wel vermengd met creoline, carbol, saprol of andere met goedkeuring van de keuringsdierenartsen aan te wenden stoffen;
 
-- i. geheel van spierweefsel ontdane beenderen;
+   - i. geheel van spierweefsel ontdane beenderen;
 
-- ii. varkenshuiden;
+   - ii. varkenshuiden;
 
-- iii. ongesmolten vet;
+   - iii. ongesmolten vet;
 
-- iv. bloed;
+   - iv. bloed;
 
 - b. ten tweede: indien deze organen naar het oordeel en onder toezicht van de keuringsdierenarts rijkelijk zijn overgoten met een 0,2% waterige oplossing van methylblauw.
 
-- i. pensen, boek-, net- en lebmagen en darmen, welke van hun inhoud zijn ontdaan;
+   - i. pensen, boek-, net- en lebmagen en darmen, welke van hun inhoud zijn ontdaan;
 
-- ii. darmen van nuchtere kalveren;
+   - ii. darmen van nuchtere kalveren;
 
 ##### Artikel 96
 
@@ -996,15 +968,15 @@ Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproduct
 
 - b. geen andere ingrediënten mogen zijn toegevoegd of aanwezig zijn dan de hierna genoemde, welke aanwezig mogen zijn met inachtneming van de daarbij genoemde beperkingen:
 
-- i. keukenzout;
+   - i. keukenzout;
 
-- ii. voor de consumptie gebruikelijke kruiden en specerijen, alsmede de daaruit verkregen extracten en etherische oliën, mits deze, behalve glucose of keukenzout, geen bestanddelen bevatten, welke van nature niet in deze kruiden of specerijen voorkomen;
+   - ii. voor de consumptie gebruikelijke kruiden en specerijen, alsmede de daaruit verkregen extracten en etherische oliën, mits deze, behalve glucose of keukenzout, geen bestanddelen bevatten, welke van nature niet in deze kruiden of specerijen voorkomen;
 
-- iii. paneermeel, uitsluitend bestemd voor het paneren, tot een zetmeelgehalte, berekend als watervrij zetmeel, van ten hoogste 6%, welk paneermeel geen andere kleurstoffen bevat dan kleurstoffen afkomstig van en van nature voorkomend in toegevoegde specerijen en kruiden, terwijl voorts geen andere middelen voor de hechting van het paneermeel op het vlees mogen zijn dan de in [artikel 107, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=107&z=2010-10-10&g=2010-10-10), genoemde producten;
+   - iii. paneermeel, uitsluitend bestemd voor het paneren, tot een zetmeelgehalte, berekend als watervrij zetmeel, van ten hoogste 6%, welk paneermeel geen andere kleurstoffen bevat dan kleurstoffen afkomstig van en van nature voorkomend in toegevoegde specerijen en kruiden, terwijl voorts geen andere middelen voor de hechting van het paneermeel op het vlees mogen zijn dan de in [artikel 107, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=107&z=2010-10-10&g=2010-10-10), genoemde producten;
 
-- iv. glucose, mits uitsluitend afkomstig van een aan het vlees toegevoegd mengsel van kruiden of specerijen met glucose;
+   - iv. glucose, mits uitsluitend afkomstig van een aan het vlees toegevoegd mengsel van kruiden of specerijen met glucose;
 
-- v. de ingrediënten, welke door inleggen in een marinade in het product zijn gekomen met uitzondering van conserveermiddelen en andere kleurstoffen dan die kleurstoffen welke afkomstig zijn van specerijen en kruiden van de marinade.
+   - v. de ingrediënten, welke door inleggen in een marinade in het product zijn gekomen met uitzondering van conserveermiddelen en andere kleurstoffen dan die kleurstoffen welke afkomstig zijn van specerijen en kruiden van de marinade.
 
 2. Bloed bestemd voor menselijke consumptie voldoet aan de volgende eisen:
 
@@ -1012,9 +984,9 @@ Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproduct
 
 - b. geen andere ingrediënten mogen zijn toegevoegd of aanwezig zijn dan de hierna genoemde, welke aanwezig mogen zijn met inachtneming van de daarbij genoemde beperkingen:
 
-- i. keukenzout;
+   - i. keukenzout;
 
-- ii. een als antistollingsmiddel toegevoegde stof, uitsluitend bestaande uit hetzij natriumcitraat, hetzij fosfaten zodanig dat – indien natriumcitraat is gebezigd – het gehalte aan natriumcitraat niet meer dan 16 gram per liter bloed bedraagt of – indien fosfaten zijn gebezigd – het gehalte aan fosforverbindingen met inbegrip van de reeds van nature aanwezige fosforverbindingen ten hoogste 3,6 gram berekend als P2O5 per liter bloed bedraagt.
+   - ii. een als antistollingsmiddel toegevoegde stof, uitsluitend bestaande uit hetzij natriumcitraat, hetzij fosfaten zodanig dat – indien natriumcitraat is gebezigd – het gehalte aan natriumcitraat niet meer dan 16 gram per liter bloed bedraagt of – indien fosfaten zijn gebezigd – het gehalte aan fosforverbindingen met inbegrip van de reeds van nature aanwezige fosforverbindingen ten hoogste 3,6 gram berekend als P2O5 per liter bloed bedraagt.
 
 3. De aanduiding ‘vlees’ of ‘karni’, onmiddellijk voorafgaand door de naam van de soort slachtdier, waarvan het vlees verkregen is, wordt uitsluitend gebezigd voor het in het eerste lid bedoelde product dat voldoet aan de in dat lid vermelde eisen.
 
@@ -1030,33 +1002,33 @@ Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproduct
 
 - c. geen andere stoffen zijn gebezigd, dan de hierna genoemde met inachtneming van de daarbij vermelde beperkingen:
 
-- i. stoffen welke door gebruik van rookaroma’s op of in het product zijn gekomen en die uit een oogpunt van volksgezondheid onschadelijk zijn;
+   - i. stoffen welke door gebruik van rookaroma’s op of in het product zijn gekomen en die uit een oogpunt van volksgezondheid onschadelijk zijn;
 
-- ii. 1-glutaminezuur en zijn kalium- en natriumzouten met inbegrip van de reeds van nature aanwezige glutaminezuurverbindingen tot ten hoogste 0,2% berekend als glutaminezuur;
+   - ii. 1-glutaminezuur en zijn kalium- en natriumzouten met inbegrip van de reeds van nature aanwezige glutaminezuurverbindingen tot ten hoogste 0,2% berekend als glutaminezuur;
 
-- iii. guanylzuur en zijn kalium- en natriumzouten tot ten hoogste 0,05% berekend als guanylzuur;
+   - iii. guanylzuur en zijn kalium- en natriumzouten tot ten hoogste 0,05% berekend als guanylzuur;
 
-- iv. inosinezuur en zijn kalium- en natriumzouten tot ten hoogste 0,05% berekend als insinezuur;
+   - iv. inosinezuur en zijn kalium- en natriumzouten tot ten hoogste 0,05% berekend als insinezuur;
 
-- v. ascorbinezuur tot een gehalte van ten hoogste 0,05% berekend als L-ascorbinezuur;
+   - v. ascorbinezuur tot een gehalte van ten hoogste 0,05% berekend als L-ascorbinezuur;
 
-- vi. fosfaten, zodanig dat het gehalte aan fosforverbindingen in totaal ten hoogste 0,8%, berekend als P205 bedraagt;
+   - vi. fosfaten, zodanig dat het gehalte aan fosforverbindingen in totaal ten hoogste 0,8%, berekend als P205 bedraagt;
 
-- vii. glucone-delta-lacton en de daaruit in het product gevormde omzettingsproducten met dien verstande dat:
+   - vii. glucone-delta-lacton en de daaruit in het product gevormde omzettingsproducten met dien verstande dat:
 
-- 1. in vleesproducten welke zijn omgeven door een darm, een darmvervangend omhulsel of een ander omhulsel en die geen verwarming hebben ondergaan hoger dan 34° Celsius, het gehalte, berekend als glucone-delta-lacton, ten hoogste 1,0% mag bedragen;
+      - 1. in vleesproducten welke zijn omgeven door een darm, een darmvervangend omhulsel of een ander omhulsel en die geen verwarming hebben ondergaan hoger dan 34° Celsius, het gehalte, berekend als glucone-delta-lacton, ten hoogste 1,0% mag bedragen;
 
-- 2. in andere vleesproducten dan de onder a bedoelde het gehalte, berekend als glucone-delta-lacton, ten hoogste 0,5% mag bedragen;
+      - 2. in andere vleesproducten dan de onder a bedoelde het gehalte, berekend als glucone-delta-lacton, ten hoogste 0,5% mag bedragen;
 
-- viii. de volgende conserveringsmiddelen:
+   - viii. de volgende conserveringsmiddelen:
 
-- 1. kalium- en natriumnitraat, tot ten hoogste 0,05%, berekend als kaliumnitraat;
+      - 1. kalium- en natriumnitraat, tot ten hoogste 0,05%, berekend als kaliumnitraat;
 
-- 2. natriumnitriet, tot ten hoogste 0,02%;
+      - 2. natriumnitriet, tot ten hoogste 0,02%;
 
-- 3. benzoëzuur, sorbinezuur, alsmede de zouten van deze conserveringsmiddelen tot een totaal van ten hoogste 1,0%, berekend als benzoëzuur, onderscheidenlijk sorbinezuur, uitsluitend in leverworst, omgeven door een darm of darmvervangend omhulsel, voor zover deze stoffen in het product zijn gekomen door de bewaring van het product in een waterige oplossing die de genoemde stoffen bevatte;
+      - 3. benzoëzuur, sorbinezuur, alsmede de zouten van deze conserveringsmiddelen tot een totaal van ten hoogste 1,0%, berekend als benzoëzuur, onderscheidenlijk sorbinezuur, uitsluitend in leverworst, omgeven door een darm of darmvervangend omhulsel, voor zover deze stoffen in het product zijn gekomen door de bewaring van het product in een waterige oplossing die de genoemde stoffen bevatte;
 
-- 4. pimacrine, uitsluitend op het oppervlak van niet door verhitting verduurzaamde vleeswaar tot een gehalte van ten hoogste 1 milligram per vierkante decimeter oppervlak.
+      - 4. pimacrine, uitsluitend op het oppervlak van niet door verhitting verduurzaamde vleeswaar tot een gehalte van ten hoogste 1 milligram per vierkante decimeter oppervlak.
 
 2. Behalve de in het eerste lid aangegeven stoffen mag bij de bereiding van knakworst tevens worden gebezigd het natriumzout van carboxymethylcellulose tot een gehalte van ten hoogste 0,2%.
 
@@ -1078,15 +1050,15 @@ Bij de bereiding van de in deze paragraaf bedoelde producten wordt geen gebruik 
 
 - c. andere middelen voor de hechting van paneermeel dan de volgende:
 
-- i. kippe-eiwit;
+   - i. kippe-eiwit;
 
-- ii. doorhaalwit dat in gebruiksgerede toestand uitsluitend bevat:
+   - ii. doorhaalwit dat in gebruiksgerede toestand uitsluitend bevat:
 
-- 1. water;
+      - 1. water;
 
-- 2. carboxymethylcellulose of Arabische gom, tot een gehalte van in totaal ten hoogste 1%;
+      - 2. carboxymethylcellulose of Arabische gom, tot een gehalte van in totaal ten hoogste 1%;
 
-- 3. soja-eiwit of sojabloem, tot een gehalte van ten hoogste 10%.
+      - 3. soja-eiwit of sojabloem, tot een gehalte van ten hoogste 10%.
 
 ##### Artikel 105
 
@@ -1182,19 +1154,19 @@ De in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&
 
 Het product dat door een opschrift of enige andere wijze wordt aangeduid dan wel kennelijk voorhanden is als een der producten, in de [artikelen 102](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=102&z=2010-10-10&g=2010-10-10) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=103&z=2010-10-10&g=2010-10-10) van deze paragraaf bedoeld, voldoet aan de regelen voor het desbetreffende product in of krachtens deze regeling vastgesteld.
 
-### Afdeling VIII. Tarieven slacht- en vleeskeuring, dekken en import dieren Bonaire
+#### Afdeling VIII. Tarieven slacht- en vleeskeuring, dekken en import dieren Bonaire
 
 ##### Artikel 111
 
 1. De tarieven voor het keuren op grond van deze regeling van geiten en schapen bedragen als onder I aangegeven, voor het keuren van runderen en paardachtigen tot en met 125 kilogram geslacht gewicht als onder II aangegeven en boven 125 kilogram geslacht gewicht als onder III aangegeven.
 
-|   | I | II | III |
+|  | I | II | III |
 | --- | --- | --- | --- |
 | het keurloon | $ 2,09 | $ 8,38 | $ 11,17 |
 
-- De tarieven bedragen voor het keuren op grond van deze regelign van varkens tot 30 kilogram geslacht gewicht als onder I aangegeven, voor varkens van 30 tot en met 100 kilogram geslacht gewicht als onder II aangegeven en voor varkens zwaarder dan 100 kilogram geslacht gewicht als onder III aangegeven.
+2. - De tarieven bedragen voor het keuren op grond van deze regelign van varkens tot 30 kilogram geslacht gewicht als onder I aangegeven, voor varkens van 30 tot en met 100 kilogram geslacht gewicht als onder II aangegeven en voor varkens zwaarder dan 100 kilogram geslacht gewicht als onder III aangegeven.
 
-|   | I | II | III |
+|  | I | II | III |
 | --- | --- | --- | --- |
 | het keurloon | $ 2,23 | $ 2,51 | $ 4,47 |
 
@@ -1241,5 +1213,3 @@ Deze regeling wordt aangehaald als: Regeling slacht- en vleeskeuring Bonaire.
 ##### Artikel 117
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

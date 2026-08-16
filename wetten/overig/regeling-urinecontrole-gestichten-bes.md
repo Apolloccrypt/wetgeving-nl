@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 27 september 2010, nr. 5668722, houdende het stellen van regels omtrent de wijze van uitvoering van het urineonderzoek in de gestichten in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling Urinecontrole gestichten BES)"
+citeertitel: "Regeling Urinecontrole gestichten BES"
 identifier: "BWBR0028808"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028808"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11031193"
-version_id: "18023852"
-internal_id: "C25049551"
-label_id: "11005654"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028808/2010-10-10/0"
-intitule_bron: "Stcrt.2010-15696"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15696"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15696"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028808&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028808&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling Urinecontrole gestichten BES"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028808"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Justitie van 27 september 2010, nr. 5668722, houdende het stellen van regels omtrent de wijze van uitvoering van het urineonderzoek in de gestichten in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling Urinecontrole gestichten BES)
-
-Gelet op [artikel 37e, tweede lid, van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=37e);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -131,5 +103,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Urinecontrole gestichten BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

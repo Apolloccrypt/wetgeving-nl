@@ -1,61 +1,39 @@
 ---
 title: "Regeling navigatie- en telecommunicatieinstallaties BES"
 identifier: "BWBR0028674"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028674"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling-BES"
-stam_id: "10923363"
-version_id: "17907452"
-internal_id: "C24982661"
-label_id: "10897944"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028674/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14839"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14839"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14839"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028674&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028674&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028674"
+opgehaald: 2026-08-16
 ---
+
 # Regeling navigatie- en telecommunicatieinstallaties BES
 
 ##### Artikel 1
 
 1. In deze beschikking wordt verstaan onder:
 
-- **ADF:** een automatische richtingzoeker aan boord van een luchtvaartuig om de richting naar een NDB te bepalen (automatic direction finder);
+- *ADF:* een automatische richtingzoeker aan boord van een luchtvaartuig om de richting naar een NDB te bepalen (automatic direction finder);
 
-- **Bijlage 10:** Bijlage 10 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+- *Bijlage 10:* Bijlage 10 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
-- **DME:** een installatie die aan boord van een luchtvaartuig de directe afstand bepaalt tussen een luchtvaartuig en een grondbaken (distance measuring equipment);
+- *DME:* een installatie die aan boord van een luchtvaartuig de directe afstand bepaalt tussen een luchtvaartuig en een grondbaken (distance measuring equipment);
 
-- **ELT:** noodradiobaken met een zendfrequentie van 406 MHz. (emergency locator transmitter);
+- *ELT:* noodradiobaken met een zendfrequentie van 406 MHz. (emergency locator transmitter);
 
-- **NDB:** een rondomstralend radiobaken op de grond met een vaste antenne (non directional beacon);
+- *NDB:* een rondomstralend radiobaken op de grond met een vaste antenne (non directional beacon);
 
-- **radiaal:** de richting vanuit een VOR-grondbaken ten opzichte van het magnetisch noorden ter plaatse van het grondbaken;
+- *radiaal:* de richting vanuit een VOR-grondbaken ten opzichte van het magnetisch noorden ter plaatse van het grondbaken;
 
-- **RNAV:** een navigatiesysteem dat luchtvaartuigen in staat stelt een route te volgen tussen twee willekeurige punten, binnen voorgeschreven nauwkeurigheidsgrenzen, zonder dat het nodig is om over specifieke navigatieinstallaties op de grond te vliegen (Area Navigation);
+- *RNAV:* een navigatiesysteem dat luchtvaartuigen in staat stelt een route te volgen tussen twee willekeurige punten, binnen voorgeschreven nauwkeurigheidsgrenzen, zonder dat het nodig is om over specifieke navigatieinstallaties op de grond te vliegen (Area Navigation);
 
-- **iSSR-transponder:** een radarbeantwoordingssysteem met informatie over de identiteit en eventueel de hoogte van het luchtvaartuig (secondary surveillance radar-transponder);
+- *iSSR-transponder:* een radarbeantwoordingssysteem met informatie over de identiteit en eventueel de hoogte van het luchtvaartuig (secondary surveillance radar-transponder);
 
-- **VOR:** een op de grond geplaatst zendsysteem dat het mogelijk maakt om een vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking (very high frequency omnidirectional range).
+- *VOR:* een op de grond geplaatst zendsysteem dat het mogelijk maakt om een vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking (very high frequency omnidirectional range).
 
 2. Een wijziging van Bijlage 10 treedt in werking vanaf het moment waarop in het Tractatenblad mededeling van deze wijziging is gedaan.
 
@@ -109,11 +87,11 @@ Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Curaçao en Sint
 
 - b. behalve in geval van nood, bij verlies van tweezijdige radioverbinding of indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, wordt door de gezagvoerder de hoogteuitlezing in mode C aangezet, en
 
-- 1°. de mode A code geselecteerd die individueel is verstrekt door de betrokken luchtverkeersdienst waarmee contact wordt onderhouden,
+   - 1° de mode A code geselecteerd die individueel is verstrekt door de betrokken luchtverkeersdienst waarmee contact wordt onderhouden,
 
-- 2°. de transponder aangezet en de mode A code geselecteerd in overeenstemming met de regionale burgerluchtvaartovereenkomst, of
+   - 2° de transponder aangezet en de mode A code geselecteerd in overeenstemming met de regionale burgerluchtvaartovereenkomst, of
 
-- 3°. bij afwezigheid van aanwijzingen van de betrokken luchtverkeersdienst en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende luchtverkeersdienst een andere opdracht is verstrekt.
+   - 3° bij afwezigheid van aanwijzingen van de betrokken luchtverkeersdienst en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende luchtverkeersdienst een andere opdracht is verstrekt.
 
 - c. indien de luchtverkeersdienst vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in artikel 1 van Regeling vliegplan BES;
 
@@ -145,9 +123,9 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en 
 
 - d. indien voor het vertrek blijkt dat de SSR-transponder niet of niet goed werkt en niet voor vertrek kan worden hersteld, wordt:
 
-- 1°. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht; en
+   - 1°. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht; en
 
-- 2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier;
+   - 2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier;
 
 - e. indien na het vertrek blijkt dat de SSR-transponder niet of niet goed werkt, rekening wordt gehouden met beperkingen bij de uitvoering van het vliegplan;
 
@@ -155,9 +133,9 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en 
 
 - g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt:
 
-- 1°. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht; en
+   - 1°. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht; en
 
-- 2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier.
+   - 2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier.
 
 ##### Artikel 10
 

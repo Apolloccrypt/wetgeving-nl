@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een algemene heffing groenten en fruit 2010 (Verordening PT algemene heffing groenten en fruit 2011)"
+citeertitel: "Verordening PT algemene heffing groenten en fruit 2011"
 identifier: "BWBR0029464"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-06-03"
-last_updated: "2012-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029464"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11212113"
-version_id: "18357862"
-internal_id: "C25571861"
-label_id: "11186524"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029464/2012-06-03/0"
-intitule_bron: "Vbbo.2010-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-10"
-intitule_published: "2010-12-24"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Vbbo.2010-81"
-original_signed_date: "2010-11-10"
-original_published_date: "2010-12-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029464&z=2012-06-03&g=2012-06-03"
-jci_1_0: "1.0:c:BWBR0029464&g=2012-06-03"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing groenten en fruit 2011"
-signed_date: "2010-11-10"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2012-06-03
+status: geldig
+toestand: 2012-06-03
+bron: "https://wetten.overheid.nl/BWBR0029464"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een algemene heffing groenten en fruit 2010 (Verordening PT algemene heffing groenten en fruit 2011)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 19 oktober 2010.
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -58,10 +29,10 @@ Besluit:
 | afzetorganisatie/bemiddelaar | : de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld; |
-| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029464&paragraaf=3&artikel=3&z=2012-06-03&g=2012-06-03) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| groenten en fruit | : de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016460&artikel=3); |
+| groenten en fruit | : de producten vermeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 | handelen | : het aankopen van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan; |
 | noten | : amandelen, cashewnoten, hazelnoten, paranoten, pecannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd; |
 | ondernemer | : de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
@@ -89,7 +60,7 @@ Besluit:
 
 2. De heffing wordt berekend naar de oppervlakte van de bij zijn onderneming behorende cultuurgrond en bedraagt voor:
 
-| **Glasgroenten** | **Productgroep** | **Tarief/eenheid** |
+| Glasgroenten | Productgroep | Tarief/eenheid |
 | --- | --- | --- |
 | Aubergines | 618 | 2,13 are |
 | Komkommers | 605 | 2,13 are |
@@ -102,7 +73,7 @@ Besluit:
 | Tomaten – Cherry-tomaten | 606 | 2,13 are |
 | Overige groenten (inclusief meloenen) | 621 | 1,21 are |
 
-| **Vollegrondsgroenten** | **Productgroep** | **Tarief/eenheid** |
+| Vollegrondsgroenten | Productgroep | Tarief/eenheid |
 | --- | --- | --- |
 | Erwten (groen te oogsten) | 244 | 1,71 ha |
 | Suikermais | 814 | 1,71 ha |
@@ -125,7 +96,7 @@ Besluit:
 | Koolraap | 445 | 6,82 ha |
 | Koolrabi | 446 | 6,82 ha |
 | Kroten | 447 | 1,71 ha |
-| Kruiden (blad-, wortel- en zaadgewassen) |   | 6,82 ha |
+| Kruiden (blad-, wortel- en zaadgewassen) |  | 6,82 ha |
 | Paksoi | 453 | 6,82 ha |
 | Peulen | 454 | 6,82 ha |
 | Prei | 455 | 4,28 ha |
@@ -156,9 +127,9 @@ Besluit:
 | Aardbeien onder glas | 610 | 1,28 are |
 | Aardbeien plastic tunnel | 611 | 1,28 are |
 
-| **Fruit** | **Productgroep** | **Tarief/eenheid** |
+| Fruit | Productgroep | Tarief/eenheid |
 | --- | --- | --- |
-| Notenbomen (amandelen, hazelnoten en walnoten) |   | 2,68 ha |
+| Notenbomen (amandelen, hazelnoten en walnoten) |  | 2,68 ha |
 | Appelen in seizoen | 490 | 4,64 ha |
 | Appelen vóór seizoen | 491 | 4,64 ha |
 | Peren in seizoen | 492 | 7,85 ha |

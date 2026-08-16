@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting voor de BES eilanden (Besluit voorkoming dubbele belasting BES)"
+citeertitel: "Besluit voorkoming dubbele belasting BES"
 identifier: "BWBR0029674"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-03-05"
-last_updated: "2011-03-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029674"
+categorie: "Belastingrecht"
 soort: "AMvB-BES"
-stam_id: "11260163"
-version_id: "18438962"
-internal_id: "C25701341"
-label_id: "11234524"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029674/2011-03-05/0"
-intitule_bron: "Stb.2011-108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-26"
-intitule_published: "2011-03-04"
-intitule_in_force: "2011-03-04"
-intitule_status: "goed"
-original_publication: "Stb.2011-108"
-original_signed_date: "2011-02-26"
-original_published_date: "2011-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-108"
-entry_into_force_date: "2011-03-05"
-jci_1_3: "jci1.3:c:BWBR0029674&z=2011-03-05&g=2011-03-05"
-jci_1_0: "1.0:c:BWBR0029674&g=2011-03-05"
-citeertitel_status: "officieel"
-short_title: "Besluit voorkoming dubbele belasting BES"
-signed_date: "2011-02-26"
-entry_into_force: "2011-03-05"
+publicatiedatum: 2011-03-05
+laatste_update: 2011-03-05
+status: geldig
+toestand: 2011-03-05
+bron: "https://wetten.overheid.nl/BWBR0029674"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting voor de BES eilanden (Besluit voorkoming dubbele belasting BES)
-
-Op de voordracht van de Staatssecretaris van Financiën van 17 november 2010, nr. AFP 2010/555;
-
-Gelet op [artikel 8.120 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.120);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 december 2010, nr. W06.10.0529/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 10 februari 2011, nr. AFP 2010/680 U;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Reikwijdte en definities
 
@@ -90,25 +56,25 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 In dit besluit wordt verstaan onder:
 
-- a. **dividenden:** voordelen uit aandelen, winstbewijzen of andere rechten, met uitzondering van schuldvorderingen, die aanspraak geven op een aandeel in de winst van vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;
+- a. *dividenden:* voordelen uit aandelen, winstbewijzen of andere rechten, met uitzondering van schuldvorderingen, die aanspraak geven op een aandeel in de winst van vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;
 
-- b. **interest:** voordelen uit overheidsleningen, obligaties of schuldbewijzen en andere schuldvorderingen van welke aard ook, al dan niet aanspraak gevende op een aandeel in de winst;
+- b. *interest:* voordelen uit overheidsleningen, obligaties of schuldbewijzen en andere schuldvorderingen van welke aard ook, al dan niet aanspraak gevende op een aandeel in de winst;
 
-- c. **royalty’s:** vergoedingen van welke aard ook voor:
+- c. *royalty’s:* vergoedingen van welke aard ook voor:
 
-- 1°. het gebruik van, of het recht op gebruik van, een auteursrecht op een werk op het gebied van de wetenschap, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of werkwijze, of
+   - 1°. het gebruik van, of het recht op gebruik van, een auteursrecht op een werk op het gebied van de wetenschap, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of werkwijze, of
 
-- 2°. inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.
+   - 2°. inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.
 
 ### Hoofdstuk 2. Inkomstenbelasting
 
-### Afdeling 1. Algemene bepaling
+#### Afdeling 1. Algemene bepaling
 
 ##### Artikel 5. Uitstel van betaling bij emigratie
 
 Voor de toepassing van dit hoofdstuk blijven inkomensbestanddelen als bedoeld in [artikel 11, vijfde lid, onderdeel g, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11) en de daarover verschuldigde belasting buiten beschouwing.
 
-### Afdeling 2. Vrijstelling
+#### Afdeling 2. Vrijstelling
 
 ##### Artikel 6. Vrijstelling
 
@@ -156,9 +122,9 @@ voor zover deze inkomensbestanddelen zijn onderworpen aan een belasting naar het
 
 ##### Artikel 10. Inhaalregeling
 
-Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05) aangemerkt als negatief buitenlands inkomen van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlandse inkomen vast bij voor bezwaar vatbare beschikking.
+Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming van de overbrenging per Mogendheid volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=9&z=2011-03-05&g=2011-03-05) – negatief is, wordt het voor de toepassing van de vermindering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=2&artikel=8&z=2011-03-05&g=2011-03-05) aangemerkt als negatief buitenlands inkomen van het volgend jaar uit die Mogendheid. De inspecteur stelt het naar het volgend jaar over te brengen negatieve buitenlandse inkomen vast bij voor bezwaar vatbare beschikking.
 
-### Afdeling 3. Verrekening
+#### Afdeling 3. Verrekening
 
 ##### Artikel 11. Verrekening buitenlandse belasting op dividenden, interest en royalty’s
 
@@ -170,7 +136,7 @@ Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming
 
 - b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag aan dividenden, interest en royalty’s van dat jaar waarover door een andere Mogendheid belasting is geheven, staat tot het noemerinkomen.
 
-3. Voor de toepassing van het tweede lid, onderdeel a, wordt de belasting die vanwege andere Mogendheden is geheven over dividenden tot geen hoger bedrag in aanmerking genomen dan tot 5 percent van die dividenden.
+3. Voor de toepassing van het tweede lid, onderdeel a, wordt de belasting die vanwege andere Mogendheden is geheven over dividenden tot geen hoger bedrag in aanmerking genomen dan tot 5 percent van die dividenden.
 
 4. Bij de toepassing van het tweede lid, onderdeel b, worden dividenden en interest verminderd met de daarmee verband houdende kosten, en worden royalty’s verminderd met de daarop rechtstreeks drukkende kosten.
 
@@ -196,7 +162,7 @@ Indien het buitenlandse inkomen uit een Mogendheid – berekend met inachtneming
 
 Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029674&hoofdstuk=2&afdeling=3&artikel=11&z=2011-03-05&g=2011-03-05), dat door de toepassing van het tweede lid, onderdeel b, of het vijfde lid, van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-### Afdeling 4. Formele en overige bepalingen
+#### Afdeling 4. Formele en overige bepalingen
 
 ##### Artikel 14. Beschikkingen doorschuifregeling
 
@@ -254,10 +220,8 @@ Een op de BES eilanden wonende of gevestigde gerechtigde tot een prijs van een b
 
 ##### Artikel 20. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
 ##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorkoming dubbele belasting BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

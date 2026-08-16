@@ -1,41 +1,19 @@
 ---
 title: "Mijnbesluit BES"
 identifier: "BWBR0028574"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028574"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10879683"
-version_id: "17864462"
-internal_id: "C24899081"
-label_id: "10857354"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028574/2010-10-10/0"
-intitule_bron: "Stb.2010-445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-445"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-445"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028574&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028574&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028574"
+opgehaald: 2026-08-16
 ---
+
 # Mijnbesluit BES
 
-## Titel I. Algemeene bepalingen.
+### Titel I. Algemeene bepalingen.
 
 ##### Artikel 1
 
@@ -71,7 +49,7 @@ Onverminderd hetgeen overigens dienaangaande in dit besluit in het bijzonder is 
 
 Waar in dit besluit gesproken wordt van «door Onze Minister» wordt daarmede ook bedoeld «vanwege Onze Minister».
 
-## Titel II. Voorschriften tot uitvoering van art.1a, derde en zesde lid der Mijnwet BES.
+### Titel II. Voorschriften tot uitvoering van art.1a, derde en zesde lid der Mijnwet BES.
 
 ### Hoofdstuk I. Over de vereischten waaraan aanvragers en houders van vergunning tot opsporing moeten voldoen.
 
@@ -555,7 +533,7 @@ De houder, die de vergunning heeft overgedragen, is verplicht nadat de toestemmi
 
 ### Hoofdstuk IV. Over de concessiën.
 
-### Afdeeling 1e. Concessie-aanvragen
+#### Afdeeling 1e. Concessie-aanvragen
 
 ##### Artikel 68
 
@@ -627,15 +605,15 @@ De concessie-aanvraag moet bevatten:
 
 - 2°. eene plattegrondteekening in drievoud van het aangevraagde terrein, op geen kleiner schaal dan van 1:20000, na plaatselijke opmeting opgemaakt door den rooimeester of een ander persoon als bedoeld in het tweede lid van dit artikel, op welke plattegrondteekening nauwkeurig moeten zijn aangegeven:
 
-- a. de grenzen van het aangevraagd terrein;
+   - a. de grenzen van het aangevraagd terrein;
 
-- b. de punten, geschikt voor de afbakening van merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
+   - b. de punten, geschikt voor de afbakening van merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
 
-- c. de ligging der ontdekte vindplaats of vindplaatsen;
+   - c. de ligging der ontdekte vindplaats of vindplaatsen;
 
-- d. de natuurlijke of kunstmatig aangebrachte , ter oriënteering dienende, kenbare vaste punten aan de oppervlakte;
+   - d. de natuurlijke of kunstmatig aangebrachte , ter oriënteering dienende, kenbare vaste punten aan de oppervlakte;
 
-- e. de astronomische en magnetische meridiaan.
+   - e. de astronomische en magnetische meridiaan.
 
 2. Bij uitzondering kan, indien ten genoege van Onze Minister door den aanvrager overtuigend wordt aangetoond, dat het hem onmogelijk is geweest om over den rooimeester te beschikken, worden volstaan met eene door een ander daartoe naar het oordeel van Onze Minister geschikt persoon verrichte plaatselijke opmeting en daarvan opgemaakte plattegrondteekening.
 
@@ -671,7 +649,7 @@ Bij de plaatselijke opmeting van een aan te vragen concessieterrein, bedoeld in 
 
 - e. hem, die krachtens art. 7 der Mijnwet BES van zijn rechten als concessionaris vervallen is verklaard maar alleen voor zooveel betreft het terrein zijner vroegere concessie.
 
-### Afdeeling 2e. Overdracht van het recht op concessie.
+#### Afdeeling 2e. Overdracht van het recht op concessie.
 
 ##### Artikel 78
 
@@ -709,7 +687,7 @@ Bij de plaatselijke opmeting van een aan te vragen concessieterrein, bedoeld in 
 
 5. De beschikking waarbij een verzoek om goedkeuring van een overdracht van het recht op concessie wordt afgewezen, wordt met redenen omkleed en, onverminderd het bepaalde bij [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=II&artikel=27&z=2010-10-10&g=2010-10-10) in de Staatscourant bekend gemaakt.
 
-### Afdeeling 3e. Behandeling van concessie-aanvragen.
+#### Afdeeling 3e. Behandeling van concessie-aanvragen.
 
 ##### Artikel 80
 
@@ -741,7 +719,7 @@ Zoodra vaststaat, dat zoowel de aanvraag als de daarbij behoorende stukken voldo
 
 Ieder belanghebbende kan binnen den tijd van drie maanden nadat een aanvrage om concessie is bekend gemaakt, voor zijne belangen opkomen en zijne bezwaren tegen het verleenen der aangevraagde concessie schriftelijk inbrengen bij Onze Minister.
 
-### Afdeeling 4e. Het verleenen van concessiën
+#### Afdeeling 4e. Het verleenen van concessiën
 
 ##### Artikel 86
 
@@ -777,7 +755,7 @@ De beschikking waarbij de concessie verleend wordt, moet behelzen:
 
 - 7°. het gekozen domicilie;
 
-- 8°. den naam der delfstof of de namen der delfstoffen waarvoor concessie verleend wordt;
+- 8° den naam der delfstof of de namen der delfstoffen waarvoor concessie verleend wordt;
 
 - 9°. de bijzondere voorwaarden voor zoover zij noodig zijn;
 
@@ -801,7 +779,7 @@ De beschikking waarbij concessie verleend wordt vormt met het daarin gestelde vo
 
 3. Aan den concessionaris of zijn vertegenwoordiger moeten op verzoek en tegen betaling van de kosten meerdere afschriften van de concessie-beschikking, c.q. met kaart, worden uitgereikt.
 
-### Afdeeling 5e. Afwijzing van concessie-aanvragen.
+#### Afdeeling 5e. Afwijzing van concessie-aanvragen.
 
 ##### Artikel 93
 
@@ -825,7 +803,7 @@ Op aanvragen van concessiën wordt afwijzend beschikt:
 
 2. Is na de indiening der eerste afgewezen concessie-aanvrage inmiddels de vergunning vervallen of ingetrokken, dan moeten na de afwijzing van de concessie-aanvrage de werkzaamheden op het aangevraagde terrein onmiddellijk worden gestaakt.
 
-### Afdeeling 6e. Gemengde bepalingen betreffende verleende concessiën.
+#### Afdeeling 6e. Gemengde bepalingen betreffende verleende concessiën.
 
 ##### Artikel 96
 
@@ -849,7 +827,7 @@ Nòch de concessionarissen nòch de hypothecaire of andere schuldeischers ontlee
 
 ### Hoofdstuk V. Splitsing van concessieterreinen, verwisseling van gedeelten van aangrenzende concessieterreinen, vereeniging van aan elkander grenzende concessieterreinen en gedeeltelijke intrekking van concessiën.
 
-### Afdeeling 1e. Splitsing, verwisseling en vereeniging
+#### Afdeeling 1e. Splitsing, verwisseling en vereeniging
 
 ##### Artikel 100
 
@@ -885,13 +863,13 @@ Splitsing van een concessieterrein en verwisseling van gedeelten van aangrenzend
 
 - 1°. eene plattegrondteekening van elk gedeelte waarin de concessionaris het bestaande concessieterrein wenscht gesplitst te zien, op geen kleiner schaal dan van 1:20000, na plaatselijke opmeting gemaakt door den rooimeester of een ander daartoe naar het oordeel van Onze Minister geschikt persoon, op welke plattegrondteekeningen nauwkeurig moeten zijn aangegeven:
 
-- a. de grenzen van de nieuwe concessieterreinen;
+   - a. de grenzen van de nieuwe concessieterreinen;
 
-- b. de punten geschikt voor de afbakening van nieuwe merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
+   - b. de punten geschikt voor de afbakening van nieuwe merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
 
-- c. de natuurlijke of kunstmatig aangebrachte, ter oriënteering dienende, kenbare vaste punten aan de oppervlakte, voor zooveel betreft elk nieuw concessieterrein;
+   - c. de natuurlijke of kunstmatig aangebrachte, ter oriënteering dienende, kenbare vaste punten aan de oppervlakte, voor zooveel betreft elk nieuw concessieterrein;
 
-- d. den astronomischen en den magnetischen meridiaan van elk nieuw concessieterrein.
+   - d. den astronomischen en den magnetischen meridiaan van elk nieuw concessieterrein.
 
 - 2°. ééne of meer notarieele akten waaruit blijkt, dat de hypothecaire schuldeischer of schuldeischers tegen de gewenschte splitsing geen bezwaar hebben en waarin tevens de tusschen den concessionaris en genoemde schuldeischers nopens de vestiging van hypotheken op te verleenen nieuwe concessiën gesloten overeenkomsten zijn opgenomen;
 
@@ -959,7 +937,7 @@ Binnen den tijd van één jaar na den datum der beschikkingen, waarbij in geval 
 
 6. De in geval van vereeniging van aan elkander grenzende concessieterreinen te verleenen nieuwe concessie wordt verleend voor den kortsten duur dien eene van de bestaande concessiën nog te loopen had en wordt derhalve geacht te zijn ingegaan op den dag waarop laatstbedoelde concessie inging.
 
-### Afdeeling 2e. Gedeeltelijke intrekking
+#### Afdeeling 2e. Gedeeltelijke intrekking
 
 ##### Artikel 113
 
@@ -991,13 +969,13 @@ Het schriftelijk verzoek van een concessionaris om gedeeltelijke intrekking zijn
 
 - 1°. eene plattegrondteekening van het gedeelte van het concessieterrein dat de concessionaris wenscht te behouden, op geen kleiner schaal dan van 1:20000, na plaatselijke opmeting opgemaakt door den rooimeester of een ander daartoe naar het oordeel van Onze Minister geschikt persoon, op welke plattegrondteekening nauwkeurig moeten zijn aangegeven:
 
-- a. de grenzen van het terrein, dat de concessionaris wenscht te behouden;
+   - a. de grenzen van het terrein, dat de concessionaris wenscht te behouden;
 
-- b. de punten, geschikt voor de afbakening van nieuwe merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
+   - b. de punten, geschikt voor de afbakening van nieuwe merkteekens, waarvan twee opeenvolgende op niet meer dan 500 meter afstand mogen gelegen zijn;
 
-- c. de natuurlijke of kunstmatig aangebrachte, ter oriënteering dienende, kenbare vaste punten aan de oppervlakte;
+   - c. de natuurlijke of kunstmatig aangebrachte, ter oriënteering dienende, kenbare vaste punten aan de oppervlakte;
 
-- d. den astronomischen en den magnetischen meridiaan van het nieuwe concessieterrein;
+   - d. den astronomischen en den magnetischen meridiaan van het nieuwe concessieterrein;
 
 - 2°. ééne of meer notarieele akten waaruit blijkt, dat de hypothecaire schuldeischer of schuldeischers tegen de gevraagde gedeeltelijke intrekking geen bezwaar hebben en waarin tevens de tusschen den concessionaris en genoemde schuldeischers nopens de vesting van hypotheken op de te verleenen nieuwe concessie gesloten overeenkomsten zijn opgenomen;
 
@@ -1105,9 +1083,9 @@ Hij aan wien de concessie is toegewezen is verplicht:
 
 - 2°. binnen een termijn van zes maanden na den datum van het nummer van de Staatscourant waarin de beschikking ingevolge het [tweede lid van art. 132](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=VI&artikel=132&z=2010-10-10&g=2010-10-10) is openbaar gemaakt aan Onze Minister in te dienen:
 
-- a. eene verklaring waarbij door hem overeenkomstig het [tweede lid van art. 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=IV&afdeling=1e&artikel=69&z=2010-10-10&g=2010-10-10) domicilie wordt gekozen, met vermelding van den aan de concessie te geven naam;
+   - a. eene verklaring waarbij door hem overeenkomstig het [tweede lid van art. 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=IV&afdeling=1e&artikel=69&z=2010-10-10&g=2010-10-10) domicilie wordt gekozen, met vermelding van den aan de concessie te geven naam;
 
-- b. eene plattegrondteekening, voldoende aan het bepaalde bij het [eerste lid sub 2° van art. 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=IV&afdeling=1e&artikel=74&z=2010-10-10&g=2010-10-10).
+   - b. eene plattegrondteekening, voldoende aan het bepaalde bij het [eerste lid sub 2° van art. 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=IV&afdeling=1e&artikel=74&z=2010-10-10&g=2010-10-10).
 
 ##### Artikel 134
 
@@ -1151,7 +1129,7 @@ De uitgestrektheid van concessieterreinen, ontstaan door verwisseling van gedeel
 
 ### Hoofdstuk VIII. Over de voorwaarden, waaronder vergunning tot opsporing en concessiën tot ontginning kunnen worden erlangd.
 
-### Afdeeling Eerste. Algemeene bepalingen.
+#### Afdeeling Eerste. Algemeene bepalingen.
 
 ##### Artikel 141
 
@@ -1179,7 +1157,7 @@ De voorwaarden welke in de concessie-beschikking worden gesteld moeten tot het s
 
 3. In die beschikkingen wordt de concessionaris verwezen naar het [derde lid van art. 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=III&hoofdstuk=Eenig&artikel=240&z=2010-10-10&g=2010-10-10).
 
-### Afdeeling 2e. Over heffing van vast recht
+#### Afdeeling 2e. Over heffing van vast recht
 
 ##### Artikel 145
 
@@ -1317,7 +1295,7 @@ is het vast recht, berekend naar de oppervlakte van de concessie-terreinen, zooa
 
 Als belastingschuldigen ten aanzien van het vast recht en als aansprakelijk voor de deswege verschuldigde boeten is aan te merken, hij die concessionaris is op het tijdstip dat die belasting uiterlijk moet worden voldaan.
 
-### Afdeeling 3de. Het mijnrecht of de cijns
+#### Afdeeling 3de. Het mijnrecht of de cijns
 
 ##### Artikel 161a
 
@@ -1489,7 +1467,7 @@ Onder de kosten van voortbrenging bedoeld in [art. 171](https://wetten.overheid.
 
 ### Hoofdstuk X. Over de rechten en verplichtingen van de rechthebbenden op den grond en van derde belanghebbenden, voor het geval ten behoeve van opsporingen of ontginningen over den grond moet worden beschikt en van naburige concessionarissen onderling.
 
-### Afdeeling Eerste. Algemeene bepalingen
+#### Afdeeling Eerste. Algemeene bepalingen
 
 ##### Artikel 173
 
@@ -1529,11 +1507,11 @@ De beschikking waarbij Onze Minister, wegens een der redenen genoemd in [art. 17
 
 - A. gelegen binnen een afstand van 25 meter:
 
-- 1°. van kerkhoven of graven;
+   - 1°. van kerkhoven of graven;
 
-- 2°. van openbare of gewijde gronden;
+   - 2°. van openbare of gewijde gronden;
 
-- 3°. van publieke wegen;
+   - 3°. van publieke wegen;
 
 - B. waarop zich beplantingen bevinden die, naar het oordeel van Onze Minister, in strijd met het algemeen belang geheel of gedeeltelijk door de opsporingen zouden kunnen worden verstoord of vernield.
 
@@ -1583,7 +1561,7 @@ De verklaring, dat ten behoeve van eene ontginning gronden als bedoeld in [art. 
 
 Hetgeen in [art. 177](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=X&afdeling=Eerste&artikel=177&z=2010-10-10&g=2010-10-10) omtrent opsporingen is bepaald, is ook van toepassing op de beschikking over den bovengrond ten behoeve van ontginningen, zoodat daar, waar volgens dat artikel geen opsporingen mogen worden verricht, ook geen ontginningen worden toegestaan.
 
-### Afdeeling Tweede. Beschikking over den grond ten behoeve van mijnbouwkundige opsporingen.
+#### Afdeeling Tweede. Beschikking over den grond ten behoeve van mijnbouwkundige opsporingen.
 
 ##### Artikel 186
 
@@ -1653,7 +1631,7 @@ Wanneer de rechthebbende op den grond of derde belanghebbende buiten Bonaire, Si
 
 3. Alle gronden van verdediging, zoo exceptieve als die welke de hoofdzaak betreffen, moeten op verbeurte van het recht om de overige in te brengen, tegelijkertijd worden voorgesteld.
 
-### Afdeeling Derde. Van het geding.
+#### Afdeeling Derde. Van het geding.
 
 ##### Artikel 194
 
@@ -1773,7 +1751,7 @@ Wanneer de bij het vonnis bepaalde schadeloosstelling meer bedraagt dan het geda
 
 Tegen het in het [vierde lid van art. 205](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=X&afdeling=Derde&artikel=205&z=2010-10-10&g=2010-10-10) bedoeld vonnis, waarbij de te betalen schadeloosstelling is bepaald,wordt met inachtneming van de ter zake bestaande bepalingen hooger beroep toegelaten.
 
-### Afdeeling Vierde. Van de gevolgen van het stellen van zekerheid en de tijdelijke beschikking over den grond ten behoeve van mijnbouwkundige opsporingen
+#### Afdeeling Vierde. Van de gevolgen van het stellen van zekerheid en de tijdelijke beschikking over den grond ten behoeve van mijnbouwkundige opsporingen
 
 ##### Artikel 210
 
@@ -1793,7 +1771,7 @@ Wanneer de rechthebbenden op den grond en (of) derde belanghebbende weigeren den
 
 3. Bij nalatigheid om aan de in het eerste lid van dit artikel omschreven verplichtingen te voldoen, zijn de rechthebbenden op den grond en (of) derde belanghebbenden elk voor zooveel zij daarbij belang hebben, bevoegd om zelf de in dit opzicht noodige maatregelen te treffen en zulks op kosten van hen die over de gronden ten behoeve van opsporingen hebben beschikt.
 
-### Afdeeling Vijfde. Beschikking over den gronden ten behoeve van ontginningen.
+#### Afdeeling Vijfde. Beschikking over den gronden ten behoeve van ontginningen.
 
 ##### Artikel 213
 
@@ -1809,9 +1787,9 @@ Wanneer de rechthebbenden op den grond en (of) derde belanghebbende weigeren den
 
 - e. dat het [tweede lid sub a van art. 192](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=X&afdeling=Tweede&artikel=192&z=2010-10-10&g=2010-10-10) wordt gelezen:
 
-- 1°. een authentiek afschrift der gerechtelijke akte van concessie of een authentiek afschrift der gerechtelijke akte waaruit blijkt; dat de concessie ten name van den eischer is overgeschreven;
+   - 1°. een authentiek afschrift der gerechtelijke akte van concessie of een authentiek afschrift der gerechtelijke akte waaruit blijkt; dat de concessie ten name van den eischer is overgeschreven;
 
-- 2°. in geval van ontginning van een afschrift van de beschikking genoemd in het tweede lid van dit artikel.
+   - 2°. in geval van ontginning van een afschrift van de beschikking genoemd in het tweede lid van dit artikel.
 
 2. Indien eene ontginning van rijksoverheidswege wordt ondernomen, treedt in de plaats van het in het [eerste lid van art. 187](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=X&afdeling=Tweede&artikel=187&z=2010-10-10&g=2010-10-10) genoemd stuk, een afschrift van de in [art. 236](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=II&hoofdstuk=X&afdeling=Vijfde&artikel=236&z=2010-10-10&g=2010-10-10) bedoelde beschikking:
 
@@ -1973,7 +1951,7 @@ Zij, die kunstwegen, spoorwegen of andere openbare verkeersmiddelen aanleggen op
 
 3. De beschikking wordt openbaar gemaakt in de Staatscourant.
 
-## Titel III. Voorschriften ter uitvoering van art. 3, tweede lid der Mijnwet BES
+### Titel III. Voorschriften ter uitvoering van art. 3, tweede lid der Mijnwet BES
 
 ### hoofdstuk Eenig. In- en overschrijving van concessiën.
 
@@ -2025,7 +2003,7 @@ Van elke gerechtelijke akte van concessie als bedoeld in de [artt. 237](https://
 
 De notarissen zijn persoonlijk, in rechten, aansprakelijk voor de schade, welke veroorzaakt wordt door niet-naleving van de voor hen geldende voorschriften van dit besluit.
 
-## Titel IV. Voorschriften ter uitvoering van art. 5, vierde lid, der Mijnwet BES.
+### Titel IV. Voorschriften ter uitvoering van art. 5, vierde lid, der Mijnwet BES.
 
 ### hoofdstuk Eenig. Over de geschillen nopens het voldoen aan de vereischte gesteld in art. 5 der Mijnwet BES.
 
@@ -2107,7 +2085,7 @@ Dit verbod houdt op, wanneer op een door den houder der vergunning ingediend ver
 
 2. De houder van het recht op concessie of de concessionaris zal echter van eerstbedoelde beteekening af niet bevoegd zijn het recht op concessie over te dragen of het op grond van de concessie verworven recht te vervreemden of met hypotheek te belasten. Dit verbod houdt op, wanneer op een door den houder van het recht op concessie of door den concessionaris ingediend verzoekschrift door het Gemeenschappelijk Hof van Justitie is beslist, dat hij aan de in art. 5 der Mijnwet BES gestelde vereischten voldoet.
 
-## Titel V. Vervallenverklaring van rechten, intrekking van concessiën, en van rechtswege vervallen van het recht op concessie en van concessiën.
+### Titel V. Vervallenverklaring van rechten, intrekking van concessiën, en van rechtswege vervallen van het recht op concessie en van concessiën.
 
 ##### Artikel 254
 
@@ -2189,7 +2167,7 @@ Ingeval de concessie, ingevolge de bepaling van het [eerste lid van art. 258](ht
 
 2. Tot het stellen van bovenbedoelde aanteekeningen zal door Onze Minister aan den in het eerste lid van dit artikel bedoelden bewaarder een afschrift van de in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028574&titeldeel=V&artikel=261&z=2010-10-10&g=2010-10-10) bedoelde beschikking worden toegezonden.
 
-## Slotbepalingen.
+### Slotbepalingen.
 
 ##### Artikel 264
 

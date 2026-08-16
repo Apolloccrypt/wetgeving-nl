@@ -1,47 +1,17 @@
 ---
 title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (taakstelling ziekenhuizen 2011)"
 identifier: "BWBR0028924"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-11-11"
-last_updated: "2010-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028924"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11071923"
-version_id: "18094442"
-internal_id: "C25157601"
-label_id: "11046334"
-dtd_version: "2.0"
-original_entry_into_force: "2010-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028924/2010-11-11/0"
-intitule_bron: "Stcrt.2010-17693"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-03"
-intitule_published: "2010-11-11"
-intitule_in_force: "2010-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-17693"
-original_signed_date: "2010-11-03"
-original_published_date: "2010-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-17693"
-entry_into_force_date: "2010-11-11"
-jci_1_3: "jci1.3:c:BWBR0028924&z=2010-11-11&g=2010-11-11"
-jci_1_0: "1.0:c:BWBR0028924&g=2010-11-11"
-citeertitel_status: "redactioneel"
-signed_date: "2010-11-03"
-entry_into_force: "2010-11-11"
+publicatiedatum: 2010-11-11
+laatste_update: 2010-11-11
+status: geldig
+toestand: 2010-11-11
+bron: "https://wetten.overheid.nl/BWBR0028924"
+opgehaald: 2026-08-16
 ---
+
 # Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (taakstelling ziekenhuizen 2011)
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 29 juni 2010 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2009/10, 29 248, nr. 128);
-
-Gezien het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 7 oktober 2010 inzake de voorhang taakstelling ziekenhuizen 2011;
-
-Besluit:
 
 ##### Artikel 1
 

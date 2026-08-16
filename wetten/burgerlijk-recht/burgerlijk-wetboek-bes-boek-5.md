@@ -1,43 +1,21 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 5"
 identifier: "BWBR0028748"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028748"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10966903"
-version_id: "17955402"
-internal_id: "C25010831"
-label_id: "10942894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028748/2016-07-01/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028748&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBR0028748&g=2016-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBR0028748"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 5
 
 ## Boek 5. Zakelijke rechten
 
-## Titel 1. Eigendom in het algemeen
+### Titel 1. Eigendom in het algemeen
 
 ##### Artikel 1
 
@@ -85,7 +63,7 @@ De vinder die aan de hem in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 De vinder kan, door de zaak onverwijld af te geven aan de bewoner van de woning of de gebruiker of exploitant van de ruimte waar de vondst is gedaan, dan wel aan degene die daar voor hem toezicht houdt, zijn rechtspositie met alle daaraan verbonden verplichtingen doen overgaan op die bewoner, gebruiker of exploitant, met dien verstande dat geen recht op beloning bestaat.
 
-## Titel 2. Eigendom van roerende zaken
+### Titel 2. Eigendom van roerende zaken
 
 ##### Artikel 8
 
@@ -167,7 +145,7 @@ De eigendom van een roerende zaak wordt verloren, wanneer de eigenaar het bezit 
 
 2. De eigenaar van andere dieren verliest daarvan de eigendom wanneer zij de vrijheid verkrijgen en de eigenaar niet terstond beproeft ze weder te vangen of zijn pogingen daartoe staakt.
 
-## Titel 3. Eigendom van onroerende zaken
+### Titel 3. Eigendom van onroerende zaken
 
 ##### Artikel 20
 
@@ -265,7 +243,7 @@ De oeverlijn in de zin van de [artikelen 29 tot en met 33](https://wetten.overhe
 
 Dient een muur, hek, heg, rooi of greppel, dan wel een sloot, gracht of dergelijke watergang als afscheiding van twee erven, dan wordt het midden van deze afscheiding vermoed de grens tussen deze erven te zijn. Dit vermoeden geldt niet indien een muur slechts aan één zijde een gebouw of werk steunt.
 
-## Titel 4. Bevoegdheden en verplichtingen van eigenaars van naburige erven
+### Titel 4. Bevoegdheden en verplichtingen van eigenaars van naburige erven
 
 ##### Artikel 37
 
@@ -395,7 +373,7 @@ Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende
 
 3. Een door de eigenaars overeengekomen afwijkende regeling is ook bindend voor hun rechtverkrijgenden.
 
-## Titel 5. Mandeligheid
+### Titel 5. Mandeligheid
 
 ##### Artikel 60
 
@@ -455,7 +433,7 @@ Iedere mede-eigenaar mag op de mandelige scheidsmuur tot op de helft der dikte e
 
 De [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=64&z=2016-07-01&g=2016-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=65&z=2016-07-01&g=2016-07-01), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=66&z=2016-07-01&g=2016-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=67&z=2016-07-01&g=2016-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=68&z=2016-07-01&g=2016-07-01) vinden geen toepassing voor zover een overeenkomstig [artikel 168 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=168) getroffen regeling anders bepaalt.
 
-## Titel 6. Erfdienstbaarheden
+### Titel 6. Erfdienstbaarheden
 
 ##### Artikel 70
 
@@ -557,7 +535,7 @@ Indien op het tijdstip waarop het heersende en het dienende erf één eigenaar v
 
 4. De erfpachter, opstaller of vruchtgebruiker wordt voor de toepassing van de overige artikelen van deze titel aangemerkt als eigenaar van het heersende, onderscheidenlijk het dienende erf.
 
-## Titel 7. Erfpacht
+### Titel 7. Erfpacht
 
 ##### Artikel 85
 
@@ -681,7 +659,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 3. De eigenaar heeft een retentierecht op hetgeen de erfpachter mocht hebben afgebroken, totdat hem hetgeen hij uit hoofde van de erfpacht heeft te vorderen, is voldaan.
 
-## Titel 8. Opstal
+### Titel 8. Opstal
 
 ##### Artikel 101
 
@@ -713,9 +691,9 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 3. De [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=99&z=2016-07-01&g=2016-07-01) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=100&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing, met dien verstande dat het aan de opstaller toekomende retentierecht slechts de gebouwen, werken en beplantingen omvat.
 
-## Titel 9. Appartementsrechten
+### Titel 9. Appartementsrechten
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 106
 
@@ -927,7 +905,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 4. [Artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=122&z=2016-07-01&g=2016-07-01) is van overeenkomstige toepassing bij de vestiging, bij de overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.
 
-### Afdeling 2. De vereniging van eigenaars
+#### Afdeling 2. De vereniging van eigenaars
 
 ##### Artikel 124
 
@@ -1011,7 +989,7 @@ De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderli
 
 2. Zijn er geen commissarissen en is omtrent de getrouwheid der stukken geen accountantsverklaring overgelegd, dan benoemt de algemene vergadering jaarlijks een commissie van ten minste twee leden die geen deel van het bestuur mogen uitmaken. De commissie onderzoekt de stukken en brengt aan de algemene vergadering verslag omtrent haar bevindingen uit. Het bestuur is verplicht de commissie ten behoeve van haar onderzoek alle door haar gevraagde inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.
 
-### Afdeling 3. Rechten uit verzekeringsovereenkomsten
+#### Afdeling 3. Rechten uit verzekeringsovereenkomsten
 
 ##### Artikel 136
 
@@ -1035,7 +1013,7 @@ De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderli
 
 Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aanleg op verzoek van de meest gerede partij. Hoger beroep kan slechts worden ingesteld binnen een maand na de dagtekening van de eindbeschikking.
 
-### Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
+#### Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
 
 ##### Artikel 139
 

@@ -1,41 +1,17 @@
 ---
 title: "Regeling verpakking visserij producten BES"
 identifier: "BWBR0028699"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028699"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10936463"
-version_id: "17921932"
-internal_id: "C24848761"
-label_id: "10910994"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028699/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14703"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14703"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14703"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028699&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028699&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028699"
+opgehaald: 2026-08-16
 ---
-# Regeling verpakking visserij producten BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
+# Regeling verpakking visserij producten BES
 
 ##### Artikel 1
 

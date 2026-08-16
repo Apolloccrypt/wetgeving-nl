@@ -1,48 +1,20 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 december 2010, nr. Z/VV-3038488, houdende regels voor de toepassing van het Besluit van 22 december 2010 houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Regeling aanspraken zorgverzekering BES)"
+citeertitel: "Regeling aanspraken zorgverzekering BES"
 identifier: "BWBR0029442"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029442"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "11205953"
-version_id: "18349722"
-internal_id: "C25561511"
-label_id: "11180954"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029442/2026-01-01/0"
-intitule_bron: "Stcrt.2011-833"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-27"
-intitule_published: "2011-01-19"
-intitule_in_force: "2011-01-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-833"
-original_signed_date: "2010-12-27"
-original_published_date: "2011-01-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-833"
-entry_into_force_date: "2011-01-12"
-jci_1_3: "jci1.3:c:BWBR0029442&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0029442&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanspraken zorgverzekering BES"
-signed_date: "2010-12-27"
-entry_into_force: "2011-01-12"
+publicatiedatum: 2011-01-12
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0029442"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 december 2010, nr. Z/VV-3038488, houdende regels voor de toepassing van het Besluit van 22 december 2010 houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Regeling aanspraken zorgverzekering BES)
 
-Gelet op de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6), [8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10) en [18 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=18);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit zorgverzekering BES in werking treedt.
-
-### Hoofdstuk 1. Aanspraken als bedoeld in [artikel 6, tweede en derde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6)
+### Hoofdstuk 1. Aanspraken als bedoeld in artikel 6, tweede en derde lid, van het Besluit zorgverzekering BES
 
 #### § 1. Algemene bepalingen
 
@@ -50,49 +22,49 @@ Treedt in werking op het tijdstip waarop het Besluit zorgverzekering BES in werk
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **specialist:** een arts die bevoegd is tot uitoefening van het desbetreffende specialisme;
+- b. *specialist:* een arts die bevoegd is tot uitoefening van het desbetreffende specialisme;
 
-- c. **tandarts-specialist:** een persoon die bevoegd is tot het verlenen van tandheelkundig-specialistische zorg;
+- c. *tandarts-specialist:* een persoon die bevoegd is tot het verlenen van tandheelkundig-specialistische zorg;
 
-- d. **huisarts:** een arts die bevoegd is tot uitoefening van de huisartsengeneeskunde;
+- d. *huisarts:* een arts die bevoegd is tot uitoefening van de huisartsengeneeskunde;
 
-- e. **paramedicus:** een persoon die bevoegd is tot het verlenen van paramedische zorg;
+- e. *paramedicus:* een persoon die bevoegd is tot het verlenen van paramedische zorg;
 
-- f. **verloskundige:** een persoon die bevoegd is tot het verlenen van verloskundige zorg;
+- f. *verloskundige:* een persoon die bevoegd is tot het verlenen van verloskundige zorg;
 
-- g. **psycholoog:** een persoon die bevoegd tot het verlenen van psychologische zorg;
+- g. *psycholoog:* een persoon die bevoegd tot het verlenen van psychologische zorg;
 
-- h. **het besluit:** het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404);
+- h. *het besluit:* het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404);
 
-- i. **BES-eilanden:** de eilanden bedoeld in [artikel 1, onderdeel k, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
+- i. *BES-eilanden:* de eilanden bedoeld in [artikel 1, onderdeel k, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
 
-- j. **Zorgverzekeringskantoor BES:** Zorgverzekeringskantoor BES bedoeld in [artikel 1, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
+- j. *Zorgverzekeringskantoor BES:* Zorgverzekeringskantoor BES bedoeld in [artikel 1, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
 
-- k. **geneesmiddel:** geneesmiddel als bedoeld in [artikel 1, onderdeel d, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=1);
+- k. *geneesmiddel:* geneesmiddel als bedoeld in [artikel 1, onderdeel d, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=1);
 
-- l. **eigen bijdrage:** een bijdrage in de kosten bedoeld in [artikel 6, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6);
+- l. *eigen bijdrage:* een bijdrage in de kosten bedoeld in [artikel 6, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6);
 
-- m. **ter hand stellen:** het rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd;
+- m. *ter hand stellen:* het rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd;
 
-- n. **in-vitrofertilisatiepoging:** zorg volgens de in-vitrofertilisatiemethode, inhoudende:
+- n. *in-vitrofertilisatiepoging:* zorg volgens de in-vitrofertilisatiemethode, inhoudende:
 
-- 1°. het door hormonale behandeling bevorderen van de rijping van eicellen in het lichaam van de vrouw;
+   - 1°. het door hormonale behandeling bevorderen van de rijping van eicellen in het lichaam van de vrouw;
 
-- 2°. de follikelpunctie;
+   - 2°. de follikelpunctie;
 
-- 3°. de bevruchting van eicellen en het kweken van embryo's in het laboratorium;
+   - 3°. de bevruchting van eicellen en het kweken van embryo's in het laboratorium;
 
-- 4°. het een of meer keren implanteren van een of twee embryo's in de baarmoederholte teneinde zwangerschap te doen ontstaan.
+   - 4°. het een of meer keren implanteren van een of twee embryo's in de baarmoederholte teneinde zwangerschap te doen ontstaan.
 
 ##### Artikel 1.1.2
 
-De inhoud en omvang van de zorg of diensten, omschreven in de [artikelen 1.2.1.tot en met 1.13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=2&artikel=1.2.1&z=2026-01-01&g=2026-01-01) wordt bepaald door het totaal aan zorg dat de zorgverlenende personen en instellingen kunnen bieden, hetgeen nader wordt omschreven in de overeenkomsten bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8) en wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.
+De inhoud en omvang van de zorg of diensten, omschreven in de [artikelen 1.2.1.tot en met 1.13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=2&artikel=1.2.1&z=2026-01-01&g=2026-01-01) wordt bepaald door het totaal aan zorg dat de zorgverlenende personen en instellingen kunnen bieden, hetgeen nader wordt omschreven in de overeenkomsten bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8) en wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.
 
 ##### Artikel 1.1.3
 
-Indien op grond van deze regeling toestemming dient te worden verkregen van het Zorgverzekeringskantoor BES, behoeft deze niet te worden gevraagd indien het Zorgverzekeringskantoor BES en de desbetreffende zorgaanbieder voor de noodzakelijke zorgverlening handelingsprotocollen zijn overeengekomen en de zorg, of, in voorkomend geval, de zorg waarvoor de verzekerde door de behandelend zorgaanbieder naar een andere zorgaanbieder wordt verwezen, wordt verleend door een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8).
+Indien op grond van deze regeling toestemming dient te worden verkregen van het Zorgverzekeringskantoor BES, behoeft deze niet te worden gevraagd indien het Zorgverzekeringskantoor BES en de desbetreffende zorgaanbieder voor de noodzakelijke zorgverlening handelingsprotocollen zijn overeengekomen en de zorg, of, in voorkomend geval, de zorg waarvoor de verzekerde door de behandelend zorgaanbieder naar een andere zorgaanbieder wordt verwezen, wordt verleend door een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8).
 
 #### § 2. Huisartsenzorg en eerstelijnspsychologische zorg
 
@@ -292,6 +264,14 @@ De verzekerde heeft aanspraak op medisch noodzakelijke Ultraviolet B lichttherap
 
 4. De aanspraak is beperkt tot opneming, in een ruimte voorzien van een afdoende klimaatbeheersings- en insectenweringssysteem. Indien opneming in een hogere klasse medisch noodzakelijk is omvat de aanspraak ook opneming in een dergelijke klasse.
 
+##### Artikel 1.3.12
+
+Voor zover medisch-specialistische zorg geriatrische revalidatie omvat is dit slechts onder zorg begrepen indien:
+
+- a. het gaat om integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid en complexe multimorbiditeit met als doel herstel of verbetering van het functioneren en de participatie in de maatschappij van de verzekerde; en
+
+- b. er geen verblijf in een instelling als bedoeld in [artikel 1.12.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=12&artikel=1.12.1&z=2026-01-01&g=2026-01-01) aan vooraf is gegaan.
+
 #### § 4. Paramedische zorg
 
 ##### Artikel 1.4.1
@@ -314,75 +294,79 @@ Paramedische zorg omvat:
 
 - h. op Bonaire: de zorg, bedoeld onder g, voor verzekerden jonger dan achttien jaar.
 
+##### Artikel 1.4.1a
+
+*Vervallen*
+
 ##### Artikel 1.4.2
 
 1. De verzekerde heeft slechts aanspraak op behandelingen fysiotherapie en oefentherapie, indien het Zorgverzekeringskantoor BES daartoe toestemming heeft verleend en de verzekerde lijdt aan:
 
 - a. een van de volgende aandoeningen van het zenuwstelsel:
 
-- 1°. cerebrovasculair accident;
+   - 1°. cerebrovasculair accident;
 
-- 2°. ruggemergaandoening;
+   - 2°. ruggemergaandoening;
 
-- 3°. multipele sclerose;
+   - 3°. multipele sclerose;
 
-- 4°. perifere zenuwaandoening indien sprake is van motorische uitval;
+   - 4°. perifere zenuwaandoening indien sprake is van motorische uitval;
 
-- 5°. extrapyramidale aandoening;
+   - 5°. extrapyramidale aandoening;
 
-- 6°. motorische retardatie of een ontwikkelingsstoornis van het zenuwstelsel en jonger is dan zeventien jaar;
+   - 6°. motorische retardatie of een ontwikkelingsstoornis van het zenuwstelsel en jonger is dan zeventien jaar;
 
-- 7°. aangeboren afwijking van het centraal zenuwstelsel;
+   - 7°. aangeboren afwijking van het centraal zenuwstelsel;
 
-- 8°. cerebellaire aandoening;
+   - 8°. cerebellaire aandoening;
 
-- 9°. uitvalsverschijnselen als gevolg van een tumor in de hersenen of het ruggenmerg dan wel als gevolg van hersenletsel;
+   - 9°. uitvalsverschijnselen als gevolg van een tumor in de hersenen of het ruggenmerg dan wel als gevolg van hersenletsel;
 
-- 10°. radiculair syndroom met motorische uitval voor een periode van maximaal drie maanden;
+   - 10°. radiculair syndroom met motorische uitval voor een periode van maximaal drie maanden;
 
-- 11°. spierziekte;
+   - 11°. spierziekte;
 
-- 12°. myasthenia gravis, of
+   - 12°. myasthenia gravis, of
 
 - b. of een van de volgende aandoeningen van het bewegingsapparaat:
 
-- 1°. aangeboren afwijking;
+   - 1°. aangeboren afwijking;
 
-- 2°. progressieve scoliose;
+   - 2°. progressieve scoliose;
 
-- 3°. juveniele osteochondrose en hij jonger is dan tweeëntwintig jaar;
+   - 3°. juveniele osteochondrose en hij jonger is dan tweeëntwintig jaar;
 
-- 4°. reflexdystrofie;
+   - 4°. reflexdystrofie;
 
-- 5°. fractuur als gevolg van morbus Kahler, botmetastase of morbus Paget;
+   - 5°. fractuur als gevolg van morbus Kahler, botmetastase of morbus Paget;
 
-- 6°. frozen shoulder (capsulitis adhaesiva) voor een periode van maximaal twaalf maanden;
+   - 6°. frozen shoulder (capsulitis adhaesiva) voor een periode van maximaal twaalf maanden;
 
-- 7°. hyperostotische spondylose (morbus Forestier);
+   - 7°. hyperostotische spondylose (morbus Forestier);
 
-- 8°. collageenziekten;
+   - 8°. collageenziekten;
 
-- 9°. status na amputatie;
+   - 9°. status na amputatie;
 
-- 10°. whiplash voor een periode van maximaal drie maanden, met dien verstande dat wanneer na drie maanden nog sprake is van trias bewegingsverlies, conditieverlies en cognitieve stoornissen deze periode kan worden verlengd met maximaal zes maanden;
+   - 10°. whiplash voor een periode van maximaal drie maanden, met dien verstande dat wanneer na drie maanden nog sprake is van trias bewegingsverlies, conditieverlies en cognitieve stoornissen deze periode kan worden verlengd met maximaal zes maanden;
 
-- 11°. postpartum bekkeninstabiliteit voor een periode van maximaal drie maanden;
+   - 11°. postpartum bekkeninstabiliteit voor een periode van maximaal drie maanden;
 
-- 12°. fracturen indien deze conservatief worden behandeld voor een periode van maximaal zes maanden, of
+   - 12°. fracturen indien deze conservatief worden behandeld voor een periode van maximaal zes maanden, of
 
 - c. een van de volgende aandoeningen:
 
-- 1°. aangeboren afwijking van de tractus respiratorius;
+   - 1°. aangeboren afwijking van de tractus respiratorius;
 
-- 2°. lymfoedeem;
+   - 2°. lymfoedeem;
 
-- 3°. littekenweefsel van de huid al dan niet na een trauma;
+   - 3°. littekenweefsel van de huid al dan niet na een trauma;
 
-- 4°. perifeer arterieel vaatlijden in stadium3 Fontaine voor een periode van maximaal twaalf maanden in aansluiting op ontslag naar huis of beëindiging van de behandeling in een instelling;
+   - 4°. perifeer arterieel vaatlijden in stadium3 Fontaine voor een periode van maximaal twaalf maanden in aansluiting op ontslag naar huis of beëindiging van de behandeling in een instelling;
 
-- 5°. weke delen tumoren voor een periode van maximaal twee jaren na bestraling;
+   - 5°. weke delen tumoren voor een periode van maximaal twee jaren na bestraling;
 
-- 6°. diffuse interstitiële longaandoening indien sprake is van ventilatoire beperking of diffusiestoornis.
+   - 6°. diffuse interstitiële longaandoening indien sprake is van ventilatoire beperking of diffusiestoornis.
 
 2. Fysiotherapie en oefentherapie, bedoeld in het eerste lid, omvat voor verzekerden van achttien jaar of ouder niet de eerste twintig behandelingen per indicatie.
 
@@ -416,9 +400,9 @@ Paramedische zorg omvat:
 
 ##### Artikel 1.4.4
 
-1. Indien de kosten van podotherapie per kalenderjaar meer bedragen dan $ 200 betaalt de verzekerde een eigen bijdrage ter hoogte van het verschil tussen die kosten en dat bedrag.
+1. Indien de kosten van podotherapie per kalenderjaar meer bedragen dan $ 200 betaalt de verzekerde een eigen bijdrage ter hoogte van het verschil tussen die kosten en dat bedrag.
 
-2. Indien de kosten van podozolen meer bedragen dan $ 330 per kalenderjaar, betaalt de verzekerde een eigen bijdrage ter hoogte van het verschil tussen die kosten en dat bedrag.
+2. Indien de kosten van podozolen meer bedragen dan $ 330 per kalenderjaar, betaalt de verzekerde een eigen bijdrage ter hoogte van het verschil tussen die kosten en dat bedrag.
 
 ##### Artikel 1.4.5
 
@@ -429,6 +413,22 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 1. De verzekerde heeft geen aanspraak op chiropractie.
 
 2. De verzekerde heeft geen aanspraak op elektrisch ontharen.
+
+##### Artikel 1.4.7
+
+1. Zorg bij stoppen-met-rokenprogramma omvat geneeskundige en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken.
+
+2. Er bestaat slechts aanspraak op zorg bij stoppen-met-rokenprogramma voor geaccrediteerde interventies die zijn opgenomen in het Kwaliteitsregister Stoppen met Roken.
+
+3. De zorg, bedoeld in het eerste lid, omvat het één keer per kalenderjaar volgen van een programma.
+
+##### Artikel 1.4.8
+
+1. Zorg bij gecombineerde leefstijl interventie omvat door het Rijksinstituut voor volksgezondheid en milieu, bedoeld in [artikel 2, eerste lid, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=2), erkende en als effectief gekwalificeerde interventies gericht op het verminderen van de energie-inname, het verhogen van de lichamelijke activiteit en eventuele toevoeging op maat van psychologische interventies ter ondersteuning van de gedragsverandering.
+
+2. De zorg, bedoeld in het eerste lid, omvat het één keer per 24 maanden geheel of bij voortijdige beëindiging door de verzekerde gedeeltelijk volgen van een interventie.
+
+3. Voor het tot gelding brengen van de aanspraak op de zorg, bedoeld in het eerste lid, is voorafgaande toestemming van het Zorgverzekeringskantoor BES vereist.
 
 #### § 5. Tandheelkundige zorg
 
@@ -492,7 +492,7 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 
 3. De verzekerde heeft geen aanspraak op tandheelkundige hulp indien hij de aanwijzingen van de tandarts niet opvolgt of de mondhygiëne ernstig verwaarloost. De tandarts informeert het Zorgverzekeringskantoor BES hierover.
 
-#### § 5. Tandheelkundige zorg
+#### § 6. Farmaceutische zorg
 
 ##### Artikel 1.6.1
 
@@ -502,13 +502,13 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 
 - b. polymere, oligomere, monomere en modulaire dieetpreparaten indien de verzekerde niet kan uitkomen met aangepaste normale voeding en andere producten van bijzondere voeding, en indien de verzekerde lijdt aan een:
 
-- 1°. ernstige stofwisselingsstoornis,
+   - 1°. ernstige stofwisselingsstoornis,
 
-- 2°. ernstige voedselallergie,
+   - 2°. ernstige voedselallergie,
 
-- 3°. ernstige resorptiestoornis,
+   - 3°. ernstige resorptiestoornis,
 
-- 4°. via een gevalideerd screeningsinstrument vastgestelde, ernstige ziektegerelateerde ondervoeding of een risico daarop;
+   - 4°. via een gevalideerd screeningsinstrument vastgestelde, ernstige ziektegerelateerde ondervoeding of een risico daarop;
 
 - c. geneesmiddelen voorgeschreven als onderdeel van zorg bij stoppen-met-rokenprogramma als bedoeld in [artikel 1.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=4&artikel=1.4.7&z=2026-01-01&g=2026-01-01).
 
@@ -542,29 +542,29 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 
 4. Het tweede en derde lid zijn niet van toepassing voor zover in een protocol dat is overeengekomen tussen de desbetreffende zorgverlener en het Zorgverzekeringskantoor BES langere perioden zijn overeengekomen.
 
-#### § 6. Farmaceutische zorg
+#### § 7. Hulpmiddelenzorg
 
 ##### Artikel 1.7.1
 
 1. Hulpmiddelenzorg omvat de verschaffing van functionerende hulpmiddelen, bestaande uit:
 
-- a. prothesen voor schouder, arm, hand, been of voet als omschreven in [artikel 1.7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.5&z=2026-01-01&g=2026-01-01);
+- a. prothesen voor schouder, arm, hand, been of voet als omschreven in [artikel 1.7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.5&z=2026-01-01&g=2026-01-01);
 
-- b. mammaprothesen als omschreven in [artikel 1.7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.6&z=2026-01-01&g=2026-01-01);
+- b. mammaprothesen als omschreven in [artikel 1.7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.6&z=2026-01-01&g=2026-01-01);
 
-- c. gelaatsprothesen als omschreven in [artikel 1.7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.7&z=2026-01-01&g=2026-01-01);
+- c. gelaatsprothesen als omschreven in [artikel 1.7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.7&z=2026-01-01&g=2026-01-01);
 
-- d. oogprothesen als omschreven in [artikel 1.7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.8&z=2026-01-01&g=2026-01-01);
+- d. oogprothesen als omschreven in [artikel 1.7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.8&z=2026-01-01&g=2026-01-01);
 
-- e. orthesen voor romp, arm, been, voet, hoofd of hals als omschreven in [artikel 1.7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.9&z=2026-01-01&g=2026-01-01);
+- e. orthesen voor romp, arm, been, voet, hoofd of hals als omschreven in [artikel 1.7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.9&z=2026-01-01&g=2026-01-01);
 
-- f. gezichtshulpmiddelen als omschreven in [artikel 1.7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.10&z=2026-01-01&g=2026-01-01);
+- f. gezichtshulpmiddelen als omschreven in [artikel 1.7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.10&z=2026-01-01&g=2026-01-01);
 
-- g. gehoorhulpmiddelen als omschreven in [artikel 1.7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.11&z=2026-01-01&g=2026-01-01);
+- g. gehoorhulpmiddelen als omschreven in [artikel 1.7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.11&z=2026-01-01&g=2026-01-01);
 
-- h. verzorgingsmiddelen als omschreven in [artikel 1.7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.12&z=2026-01-01&g=2026-01-01);
+- h. verzorgingsmiddelen als omschreven in [artikel 1.7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.12&z=2026-01-01&g=2026-01-01);
 
-- i. hulpmiddelen voor anticonceptionele doeleinden als omschreven in [artikel 1.7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.13&z=2026-01-01&g=2026-01-01);
+- i. hulpmiddelen voor anticonceptionele doeleinden als omschreven in [artikel 1.7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.13&z=2026-01-01&g=2026-01-01);
 
 - j. hulpmiddelen voor de mobiliteit van personen als omschreven in [artikel 1.7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.14&z=2026-01-01&g=2026-01-01);
 
@@ -576,17 +576,17 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 
 - n. hulpmiddelen bij diabetes als omschreven in [artikel 1.7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.17&z=2026-01-01&g=2026-01-01);
 
-- o. apparatuur voor positieve uitademingsdruk als omschreven in [artikel 1.7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.18&z=2026-01-01&g=2026-01-01);
+- o. apparatuur voor positieve uitademingsdruk als omschreven in [artikel 1.7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.18&z=2026-01-01&g=2026-01-01);
 
-- p. draagbare, uitwendige infuuspompen met toebehoren als omschreven in [artikel 1.7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.19&z=2026-01-01&g=2026-01-01);
+- p. draagbare, uitwendige infuuspompen met toebehoren als omschreven in [artikel 1.7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.19&z=2026-01-01&g=2026-01-01);
 
-- q. schoenvoorzieningen, niet zijnde orthesen, als omschreven in [artikel 1.7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.20&z=2026-01-01&g=2026-01-01);
+- q. schoenvoorzieningen, niet zijnde orthesen, als omschreven in [artikel 1.7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.20&z=2026-01-01&g=2026-01-01);
 
-- r. hulpmiddelen voor het toedienen van voeding als omschreven in [artikel 1.7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.21&z=2026-01-01&g=2026-01-01);
+- r. hulpmiddelen voor het toedienen van voeding als omschreven in [artikel 1.7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.21&z=2026-01-01&g=2026-01-01);
 
-- s. allergeenvrije en stofdichte hoezen als omschreven in [artikel 1.7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.22&z=2026-01-01&g=2026-01-01);
+- s. allergeenvrije en stofdichte hoezen als omschreven in [artikel 1.7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.22&z=2026-01-01&g=2026-01-01);
 
-- t. hulpmiddelen voor communicatie, informatievoorziening en signalering als omschreven in [artikel 1.7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.23&z=2026-01-01&g=2026-01-01);
+- t. hulpmiddelen voor communicatie, informatievoorziening en signalering als omschreven in [artikel 1.7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.23&z=2026-01-01&g=2026-01-01);
 
 - u. zuurstofapparatuur als omschreven in [artikel 1.7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.24&z=2026-01-01&g=2026-01-01);
 
@@ -604,7 +604,7 @@ De verzekerde heeft, behoudens indien zulks is voorzien bij protocol, na verkreg
 
 - bb. tactielleesapparatuur als omschreven in [artikel 1.7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.27&z=2026-01-01&g=2026-01-01);
 
-- cc. vervanging van BAHA-hoortoestellen als omschreven in [artikel 1.7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.28&z=2026-01-01&g=2026-01-01);
+- cc. vervanging van BAHA-hoortoestellen als omschreven in [artikel 1.7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.28&z=2026-01-01&g=2026-01-01);
 
 - dd. inrichtingselementen van woningen als omschreven in [artikel 1.7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.29&z=2026-01-01&g=2026-01-01);
 
@@ -642,7 +642,7 @@ De verzekerde is gehouden het hem in eigendom verschafte middel goed te verzorge
 
 ##### Artikel 1.7.5
 
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
 
 - a. prothesen voor schouder, arm of hand;
 
@@ -684,9 +684,9 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel d](https://wet
 
 - c. verstevigde spalk-, redressie- of correctieapparatuur voor langdurig gebruik, waarbij de versteviging een functioneel onderdeel vormt van de orthese en een therapeutische meerwaarde heeft ten opzichte van een niet verstevigde orthese, met dien verstande dat daaronder slechts een kniebrace valt indien sprake is van:
 
-- 1°. een al dan niet gecombineerd letsel van de knie waarbij de kruisbanden of de collateraal banden zijn gescheurd;
+   - 1°. een al dan niet gecombineerd letsel van de knie waarbij de kruisbanden of de collateraal banden zijn gescheurd;
 
-- 2°. eenzijdige gonartrose, voor zover sprake is van een standafwijking van minimaal 10 graden varus/valgusstand;
+   - 2°. eenzijdige gonartrose, voor zover sprake is van een standafwijking van minimaal 10 graden varus/valgusstand;
 
 - d. kappen ter bescherming van de schedel indien er sprake is van een schedeldefect of indien door frequente evenwichts- of bewustzijnsstoornissen grote kans op vallen bestaat;
 
@@ -696,15 +696,15 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel d](https://wet
 
 - g. breukbanden;
 
-- h. orthopedisch schoeisel en orthopedische voorzieningen aan confectieschoenen, indien voorgeschreven door een specialist, voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 1, van de bijlage bij deze regeling, en de verzekerde redelijkerwijs niet kan volstaan met confectieschoenen, te weten:
+- h. orthopedisch schoeisel en orthopedische voorzieningen aan confectieschoenen, indien voorgeschreven door een specialist, voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 1, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling, en de verzekerde redelijkerwijs niet kan volstaan met confectieschoenen, te weten:
 
-- 1°. volledig individueel vervaardigd orthopedisch maatschoeisel, indien tevens niet kan worden volstaan met semi-orthopedische schoenen of met een voorziening aan confectieschoenen;
+   - 1°. volledig individueel vervaardigd orthopedisch maatschoeisel, indien tevens niet kan worden volstaan met semi-orthopedische schoenen of met een voorziening aan confectieschoenen;
 
-- 2°. volledig individueel vervaardigde orthopedische binnenschoenen;
+   - 2°. volledig individueel vervaardigde orthopedische binnenschoenen;
 
-- 3°. semi-orthopedisch schoeisel met individuele aanpassing;
+   - 3°. semi-orthopedisch schoeisel met individuele aanpassing;
 
-- 4°. orthopedische voorzieningen aan confectieschoenen, tenzij het uitsluitend een verhoging betreft van de gehele buitenzool van minder dan 3 cm.
+   - 4°. orthopedische voorzieningen aan confectieschoenen, tenzij het uitsluitend een verhoging betreft van de gehele buitenzool van minder dan 3 cm.
 
 2. Onder langdurig gebruik, bedoeld in het eerste lid, onderdeel c, valt niet preventief gebruik in verband met het beoefenen van sport.
 
@@ -718,11 +718,11 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel d](https://wet
 
 Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
 
-- a. brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 2, van de bijlage bij deze regeling en de aanschaf plaatsvindt binnen twaalf maanden na een eerdere aanschaf van dit hulpmiddel;
+- a. brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 2, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling en de aanschaf plaatsvindt binnen twaalf maanden na een eerdere aanschaf van dit hulpmiddel;
 
-- b. contactlenzen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 2, van de bijlage bij deze regeling en de aanschaf plaatsvindt binnen twaalf maanden na een eerdere aanschaf van dit hulpmiddel;
+- b. contactlenzen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 2, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling en de aanschaf plaatsvindt binnen twaalf maanden na een eerdere aanschaf van dit hulpmiddel;
 
-- c. bandagelenzen zonder visuscorrigerende werking voor zover van andere therapieën geen resultaat is verkregen of te verwachten is en voldaan is aan een van de zorginhoudelijke criteria als bedoeld in onderdeel 3, van de bijlage bij deze regeling;
+- c. bandagelenzen zonder visuscorrigerende werking voor zover van andere therapieën geen resultaat is verkregen of te verwachten is en voldaan is aan een van de zorginhoudelijke criteria als bedoeld in onderdeel 3, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
 - d. bijzondere optische hulpmiddelen, bestemd voor rechtstreekse waarneming, met inbegrip van montuur, statief of verlichting, indien deze met het hulpmiddel één geheel vormen en de verzekerde een dusdanig verlies van gezichtsvermogen heeft dat redelijkerwijs niet kan worden volstaan met een middel als bedoeld in onderdeel a of b.
 
@@ -730,9 +730,9 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel f](https://wet
 
 1. Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
 
-- a. electro-akoestische hoortoestellen voor persoonlijk gebruik, in gewone dan wel bijzondere uitvoering, bestemd om op of aan het menselijk lichaam te worden gebezigd ter verbetering van een gestoord gehoor, alsmede gehoorlepels of gehoorslangen die het geluid via mechanische weg versterken en de verschaffing en vervanging van oorstukjes, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 4, van de bijlage bij deze regeling;
+- a. electro-akoestische hoortoestellen voor persoonlijk gebruik, in gewone dan wel bijzondere uitvoering, bestemd om op of aan het menselijk lichaam te worden gebezigd ter verbetering van een gestoord gehoor, alsmede gehoorlepels of gehoorslangen die het geluid via mechanische weg versterken en de verschaffing en vervanging van oorstukjes, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 4, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
-- b. ringleidingen, bestaande uit een snoer en versterker met zo nodig een tafelmicrofoon dan wel infraroodapparatuur of FM-apparatuur voor geluidsoverdracht, bestaande uit een ontvanger en een zender, al dan niet met inductiespoel of hoofdtelefoon, of in kinbeugel-uitvoering, met zo nodig een tafelmicrofoon, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 5, van de bijlage bij deze regeling;
+- b. ringleidingen, bestaande uit een snoer en versterker met zo nodig een tafelmicrofoon dan wel infraroodapparatuur of FM-apparatuur voor geluidsoverdracht, bestaande uit een ontvanger en een zender, al dan niet met inductiespoel of hoofdtelefoon, of in kinbeugel-uitvoering, met zo nodig een tafelmicrofoon, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 5, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
 - c. een maskeerder ter behandeling van ernstig oorsuizen alsmede verschaffing en vervanging van oorstukjes.
 
@@ -750,13 +750,13 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel f](https://wet
 
 - f. een uitvoering met één ingebouwde microfoon, één uitwendige microfoon en één aansluiting.
 
-3. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1100 en een toestel voor de eerste keer wordt verstrekt, dan wel korter dan zes jaar geleden aan de verzekerde is verstrekt, betaalt de verzekerde van zestien jaren of ouder een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag.
+3. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1100 en een toestel voor de eerste keer wordt verstrekt, dan wel korter dan zes jaar geleden aan de verzekerde is verstrekt, betaalt de verzekerde van zestien jaren of ouder een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag.
 
-4. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1200 en een toestel langer dan zes, maar korter dan zeven jaren geleden aan de verzekerde is verstrekt, betaalt de verzekerde van zestien jaren of ouder een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag.
+4. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1200 en een toestel langer dan zes, maar korter dan zeven jaren geleden aan de verzekerde is verstrekt, betaalt de verzekerde van zestien jaren of ouder een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag.
 
-5. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1300 en een toestel zeven jaren of langer geleden aan de verzekerde is verstrekt, betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag. Voor een verzekerde van jonger dan zestien jaren geldt de gebruiksduur van zeven jaren of langer geleden niet.
+5. Indien de aanschaffingskosten van een hoortoestel als bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 1300 en een toestel zeven jaren of langer geleden aan de verzekerde is verstrekt, betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dit bedrag. Voor een verzekerde van jonger dan zestien jaren geldt de gebruiksduur van zeven jaren of langer geleden niet.
 
-6. Indien sprake is van een hoortoestel in cros-, bicros- of beengeleideruitvoering, opgenomen in een brilmontuur, wordt het bedrag, genoemd in het derde, vierde en vijfde lid, vermeerderd met $ 85.
+6. Indien sprake is van een hoortoestel in cros-, bicros- of beengeleideruitvoering, opgenomen in een brilmontuur, wordt het bedrag, genoemd in het derde, vierde en vijfde lid, vermeerderd met $ 85.
 
 ##### Artikel 1.7.12
 
@@ -766,13 +766,13 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel f](https://wet
 
 - b. voorzieningen voor stomapatiënten, te weten:
 
-- 1°. systemen ter bevestiging op een stoma voor de opvang van faeces of urine, bestaande uit opvangzakjes en kleefplaten, daarbij benodigde hulp- en verbindingsstukken, opvulmaterialen, reinigingsgaasjes, wegwerpzakjes, spoelapparatuur met toebehoren, stomapluggen, stomapleisters en indikmiddelen;
+   - 1°. systemen ter bevestiging op een stoma voor de opvang van faeces of urine, bestaande uit opvangzakjes en kleefplaten, daarbij benodigde hulp- en verbindingsstukken, opvulmaterialen, reinigingsgaasjes, wegwerpzakjes, spoelapparatuur met toebehoren, stomapluggen, stomapleisters en indikmiddelen;
 
-- 2°. noodzakelijke huidbeschermende middelen, voor zover daarop niet reeds aanspraak bestaat op grond van [artikel 1.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=6&artikel=1.6.1&z=2026-01-01&g=2026-01-01);
+   - 2°. noodzakelijke huidbeschermende middelen, voor zover daarop niet reeds aanspraak bestaat op grond van [artikel 1.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=6&artikel=1.6.1&z=2026-01-01&g=2026-01-01);
 
-- 3°. afdekpleisters en katheters bestemd voor een continentstoma;
+   - 3°. afdekpleisters en katheters bestemd voor een continentstoma;
 
-- 4°. stomabeschermers, niet zijnde verbandmiddelen, voor een gelaryngectomeerde;
+   - 4°. stomabeschermers, niet zijnde verbandmiddelen, voor een gelaryngectomeerde;
 
 - c. stompkousen;
 
@@ -788,13 +788,13 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel f](https://wet
 
 - a. inlegluiers en luierbroeken voor incontinentie voor verzekerden van vijf jaar en ouder, indien sprake is van:
 
-- 1°. incontinentie voor faeces die langer bestaat dan twee weken;
+   - 1°. incontinentie voor faeces die langer bestaat dan twee weken;
 
-- 2°. incontinentie voor urine, niet zijnde enuresis nocturna, die langer bestaat dan twee maanden;
+   - 2°. incontinentie voor urine, niet zijnde enuresis nocturna, die langer bestaat dan twee maanden;
 
-- 3°. ondersteuning van bekkenbodemspieroefeningen of blaastraining ten laste van de zorgverzekering voor de behandeling van urine-incontinentie, niet zijnde enuresis nocturna, voor de duur van deze behandeling;
+   - 3°. ondersteuning van bekkenbodemspieroefeningen of blaastraining ten laste van de zorgverzekering voor de behandeling van urine-incontinentie, niet zijnde enuresis nocturna, voor de duur van deze behandeling;
 
-- 4°. ziektebeelden waarvan mag worden aangenomen dat de incontinentie niet vanzelf geneest, of waarbij bekkenbodemspieroefeningen of blaastraining niet helpen;
+   - 4°. ziektebeelden waarvan mag worden aangenomen dat de incontinentie niet vanzelf geneest, of waarbij bekkenbodemspieroefeningen of blaastraining niet helpen;
 
 - b. inlegluiers en luierbroeken voor incontinentie voor verzekerden van drie of vier jaar, indien sprake is van een niet-fysiologische vorm van incontinentie;
 
@@ -816,21 +816,21 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, onderdeel j](https://wetten.overheid
 
 - a. loopwagens niet zijnde rollators, loopfietsen en trippelstoelen, indien de verzekerde hier langdurig op is aangewezen om te kunnen lopen, niet kan worden volstaan met een eenvoudiger hulpmiddel en sprake is van:
 
-- 1°. evenwichtsstoornissen,
+   - 1°. evenwichtsstoornissen,
 
-- 2°. functiestoornissen van de onderste extremiteiten, al dan niet gepaard gaande met defecten, of
+   - 2°. functiestoornissen van de onderste extremiteiten, al dan niet gepaard gaande met defecten, of
 
-- 3°. stoornissen in het uithoudingsvermogen dan wel vormen van lichamelijke zwakte, waarbij de verschaffing van een loophulpmiddel strekt tot behoud van de zelfredzaamheid of ter voorkoming van opname in een instelling;
+   - 3°. stoornissen in het uithoudingsvermogen dan wel vormen van lichamelijke zwakte, waarbij de verschaffing van een loophulpmiddel strekt tot behoud van de zelfredzaamheid of ter voorkoming van opname in een instelling;
 
 - b. blindentaststokken;
 
 - c. stoelen voorzien van een trippelfunctie, indien de verzekerde langdurig op dit middel is aangewezen, en
 
-- 1°. de verzekerde zich binnenshuis alleen zittend kan verplaatsen en niet beschikt over een in huis bruikbare rolstoel,
+   - 1°. de verzekerde zich binnenshuis alleen zittend kan verplaatsen en niet beschikt over een in huis bruikbare rolstoel,
 
-- 2°. de verzekerde voldoet aan de voorwaarde voor een hulpmiddel als bedoeld in onderdeel a, maar dit niet kan gebruiken vanwege een gestoorde hand- of armfunctie, of
+   - 2°. de verzekerde voldoet aan de voorwaarde voor een hulpmiddel als bedoeld in onderdeel a, maar dit niet kan gebruiken vanwege een gestoorde hand- of armfunctie, of
 
-- 3°. zich niet zonder gebruik van de handen staande kan houden;
+   - 3°. zich niet zonder gebruik van de handen staande kan houden;
 
 - d. loopfietsen indien de verzekerde langdurig op dit middel is aangewezen, sprake is van functiestoornissen van de onderste extremiteiten, al dan niet gepaard gaande met defecten en de verzekerde niet kan volstaan met een eenvoudiger loophulpmiddel;
 
@@ -840,7 +840,7 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, onderdeel j](https://wetten.overheid
 
 1. Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten haarwerken ter gehele of gedeeltelijke vervanging van het hoofdhaar, indien de verzekerde van een blijvende of langdurige, gehele of gedeeltelijke kaalhoofdigheid als gevolg van een medische aandoening of een medische behandeling, zodanige psychische bezwaren ondervindt, dat het gebruik van een haarwerk redelijkerwijs is aangewezen.
 
-2. Indien de aanschaffingskosten van hulpmiddelen als bedoeld in het eerste lid hoger zijn dan $ 510 per kalenderjaar betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
+2. Indien de aanschaffingskosten van hulpmiddelen als bedoeld in het eerste lid hoger zijn dan $ 510 per kalenderjaar betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
 
 ##### Artikel 1.7.16
 
@@ -856,7 +856,7 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, onderdeel j](https://wetten.overheid
 
 - b. bloedglucosetestmeters, indien de verzekerde aangewezen is op teststrips, alsmede de daarbij behorende teststrips;
 
-- c. draagbare, uitwendige infuuspompen met toebehoren, indien tevens voldaan is aan een van de zorginhoudelijk criteria, vermeld in onderdeel 6, van de bijlage bij deze regeling.
+- c. draagbare, uitwendige infuuspompen met toebehoren, indien tevens voldaan is aan een van de zorginhoudelijk criteria, vermeld in onderdeel 6, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling.
 
 2. Een hulpmiddel als bedoeld in het eerste lid, onderdelen a en b, omvat tevens een aan een handicap aangepaste uitvoering indien de verzekerde redelijkerwijs niet kan volstaan met een middel in een niet aangepaste uitvoering.
 
@@ -872,11 +872,11 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel p](https://wet
 
 1. Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
 
-- a. verbandschoenen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 7, van de bijlage bij deze regeling;
+- a. verbandschoenen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 7, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
 - b. allergeenvrije schoenen, indien er sprake is van een allergie.
 
-2. Indien de aanschaffingskosten van het hulpmiddel, bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 190 per kalenderjaar betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
+2. Indien de aanschaffingskosten van het hulpmiddel, bedoeld in het eerste lid, onderdeel a, hoger zijn dan $ 190 per kalenderjaar betaalt de verzekerde een bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
 
 3. De verzekerde betaalt voor een hulpmiddel als bedoeld in het eerste lid, onderdeel b, een bijdrage van:
 
@@ -920,31 +920,31 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel s](https://wet
 
 - g. opname- en voorleesapparatuur voor gehandicapten, zijnde:
 
-- 1°. memorecorders voor visueel gehandicapten;
+   - 1°. memorecorders voor visueel gehandicapten;
 
-- 2°. daisy-spelers of daisy-programmatuur voor visueel gehandicapten, dyslectici en motorisch gehandicapten;
+   - 2°. daisy-spelers of daisy-programmatuur voor visueel gehandicapten, dyslectici en motorisch gehandicapten;
 
-- 3°. voorleesapparatuur voor zwartdrukinformatie voor visueel gehandicapten;
+   - 3°. voorleesapparatuur voor zwartdrukinformatie voor visueel gehandicapten;
 
 - h. telefoons en een telefoneerhulpmiddel, zijnde:
 
-- 1°. hulpmiddelen voor het kiezen van telefoonnummers;
+   - 1°. hulpmiddelen voor het kiezen van telefoonnummers;
 
-- 2°. telefoonhoornhouders;
+   - 2°. telefoonhoornhouders;
 
-- 3°. met omgevingsbesturingsapparatuur te bedienen telefoons;
+   - 3°. met omgevingsbesturingsapparatuur te bedienen telefoons;
 
-- 4°. teksttelefoons of beeldtelefoons voor auditief gehandicapten, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in de onderdelen 8 en 9, van de bijlage bij deze regeling;
+   - 4°. teksttelefoons of beeldtelefoons voor auditief gehandicapten, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in de onderdelen 8 en 9, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
 - i. spraakvervangende hulpmiddelen bij een ernstige spraakhandicap;
 
 - j. signaleringsapparatuur en een alarmeringssysteem, zijnde:
 
-- 1°. wek- en waarschuwingsinstallaties ten behoeve van auditief gehandicapten indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 10, van de bijlage bij deze regeling;
+   - 1°. wek- en waarschuwingsinstallaties ten behoeve van auditief gehandicapten indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 10, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling;
 
-- 2°. persoonlijke alarmeringsapparatuur voor lichamelijk gehandicapten, indien de lichamelijk gehandicapte in een verhoogde risicosituatie verkeert.
+   - 2°. persoonlijke alarmeringsapparatuur voor lichamelijk gehandicapten, indien de lichamelijk gehandicapte in een verhoogde risicosituatie verkeert.
 
-2. Indien de aanschaffingskosten van faxapparatuur als bedoeld in het eerste lid, onderdeel h, subonderdeel 4, hoger zijn dan $ 125 per kalenderjaar betaalt de verzekerde een eigen bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
+2. Indien de aanschaffingskosten van faxapparatuur als bedoeld in het eerste lid, onderdeel h, subonderdeel 4, hoger zijn dan $ 125 per kalenderjaar betaalt de verzekerde een eigen bijdrage ter grootte van het verschil tussen de aanschaffingskosten en dat bedrag.
 
 ##### Artikel 1.7.24
 
@@ -956,11 +956,11 @@ Hulpmiddelen als bedoeld in [artikel 1.7.2, eerste lid, onderdeel u](https://wet
 
 ##### Artikel 1.7.25
 
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel z](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten hulpmiddelen met toebehoren voor continue positieve luchtdruk tijdens het ademen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 11, van de bijlage bij deze regeling.
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel z](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten hulpmiddelen met toebehoren voor continue positieve luchtdruk tijdens het ademen, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 11, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling.
 
 ##### Artikel 1.7.26
 
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten solo-apparatuur met toebehoren, indien er sprake is van een indicatie, vermeld in onderdeel 12, van de bijlage bij deze regeling, alsmede indien de verzekerde:
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten solo-apparatuur met toebehoren, indien er sprake is van een indicatie, vermeld in onderdeel 12, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling, alsmede indien de verzekerde:
 
 - a. de apparatuur gebruikt voor het volgen van her- of bijscholing, dan wel niet tot het reguliere onderwijs behorende beroepsopleidingen in klassikaal- of groepsverband,
 
@@ -974,11 +974,11 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel aa](https://we
 
 ##### Artikel 1.7.27
 
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel bb](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten tactielleesapparaten met toebehoren en vergoeding van de kosten, voor zover andere hulpmiddelen voor het lezen van zwartschrift voor de visueel gehandicapte niet doelmatig zijn en de verzekerde in staat is met het apparaat om te gaan.
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel bb](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten tactielleesapparaten met toebehoren en vergoeding van de kosten, voor zover andere hulpmiddelen voor het lezen van zwartschrift voor de visueel gehandicapte niet doelmatig zijn en de verzekerde in staat is met het apparaat om te gaan.
 
 ##### Artikel 1.7.28
 
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel cc](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten vervanging van BAHA-hoortoestellen die kunnen worden aangesloten op een te implanteren beengeleider, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 4, van de bijlage bij deze regeling en een luchtgeleidingstoestel redelijkerwijs niet kan worden aangepast.
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel cc](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten vervanging van BAHA-hoortoestellen die kunnen worden aangesloten op een te implanteren beengeleider, indien voldaan is aan een van de zorginhoudelijke criteria, vermeld in onderdeel 4, van de [bijlage](https://wetten.overheid.nl/BWBR0029442) bij deze regeling en een luchtgeleidingstoestel redelijkerwijs niet kan worden aangepast.
 
 ##### Artikel 1.7.29
 
@@ -988,13 +988,13 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel cc](https://we
 
 - b. aan functiebeperkingen aangepaste stoelen, indien sprake is van problemen bij het zitten en niet kan worden volstaan met een stoel die voldoet aan de normale ergonomische eisen en niet uitsluitend sprake is van vetzucht, reuzen- of dwerggroei, waarbij de stoelen zijn voorzien van een of meer van de volgende functies of aanpassingen:
 
-- 1°. specifieke polstering;
+   - 1°. specifieke polstering;
 
-- 2°. abductiebalk;
+   - 2°. abductiebalk;
 
-- 3°. arthrodese-zitting;
+   - 3°. arthrodese-zitting;
 
-- 4°. pelottes voor zijwaartse steun;
+   - 4°. pelottes voor zijwaartse steun;
 
 - c. anti-decubitus zitkussens;
 
@@ -1010,7 +1010,7 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel cc](https://we
 
 - i. toiletstoel;
 
-- j. tilliften, voor zover die noodzakelijk zijn voor de zorgverlening of in verband met het opheffen of verminderen van belemmeringen die de verzekerde als gevolg van een aandoening, beperking, stoornis of handicap ondervindt bij het normale gebruik van zijn woonruimte, en indien voldaan is aan de zorginhoudelijke criteria, vermeld in onderdeel 13 van de bijlage van deze regeling.
+- j. tilliften, voor zover die noodzakelijk zijn voor de zorgverlening of in verband met het opheffen of verminderen van belemmeringen die de verzekerde als gevolg van een aandoening, beperking, stoornis of handicap ondervindt bij het normale gebruik van zijn woonruimte, en indien voldaan is aan de zorginhoudelijke criteria, vermeld in onderdeel 13 van de [bijlage](https://wetten.overheid.nl/BWBR0029442) van deze regeling.
 
 2. Onder de in het eerste lid, onderdeel b, bedoelde hulpmiddelen zijn hulpmiddelen begrepen in een uitvoering met:
 
@@ -1027,6 +1027,14 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel cc](https://we
 ##### Artikel 1.7.30
 
 Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel ee](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten hulpmiddelen ter compensatie van onvoldoende arm-, hand- en vingerfunctie, indien de verzekerde als gevolg van blijvende, ernstige lichamelijke functiebeperkingen in arm-, hand- en vingerfunctie aangewezen is op professionele hulp bij algemene of huishoudelijke dagelijkse levensverrichtingen.
+
+##### Artikel 1.7.31
+
+Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel gg](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
+
+- a. vergoeding van de kosten voor de redelijkerwijs te verrichten aanpassingen in en aan de woning en voor het herstel in de oorspronkelijke staat;
+
+- b. vergoeding van overige redelijk te achten kosten die rechtstreeks met de thuisdialyse samenhangen.
 
 #### § 8. Verloskundige zorg
 
@@ -1056,9 +1064,9 @@ Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel ee](https://we
 
 1. Kraamzorg ten huize van de verzekerde, verleend door een kraamverzorgende onder verantwoordelijkheid van de huisarts of de verloskundige, of door een organisatie die het verlenen van kraamzorg ten doel heeft, omvat verzorging van moeder en kind gedurende ten minste 24 en ten hoogste 49 uren, verdeeld over ten hoogste zes weken, te rekenen vanaf de dag van de bevalling.
 
-2. Kraamzorg in een kraaminrichting of in een ziekenhuis zonder opnemingsindicatie als bedoeld in [artikel 1.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=3&artikel=1.3.11&z=2026-01-01&g=2026-01-01), omvat verzorging, verpleging en verblijf van moeder en kind gedurende ten hoogste drie dagen, te rekenen vanaf de dag van de bevalling.
+2. Kraamzorg in een kraaminrichting of in een ziekenhuis zonder opnemingsindicatie als bedoeld in [artikel 1.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=3&artikel=1.3.11&z=2026-01-01&g=2026-01-01), omvat verzorging, verpleging en verblijf van moeder en kind gedurende ten hoogste drie dagen, te rekenen vanaf de dag van de bevalling.
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. Op de kraamzorg, bedoeld in het eerste en tweede lid, bestaat aanspraak voor zover moeder en kind, gelet op hun behoefte, daarop naar het oordeel van de in het eerste lid bedoelde huisarts, verloskundige of organisatie, redelijkerwijs zijn aangewezen.
 
@@ -1072,7 +1080,7 @@ De kraamzorg omvat tevens:
 
 - b. vergoeding van zorg door een lactatiekundige op verwijzing van verloskundige of consultatiebureau.
 
-#### § 8. Verloskundige zorg
+#### § 10. Ziekenvervoer
 
 ##### Artikel 1.10.1
 
@@ -1087,6 +1095,22 @@ De kraamzorg omvat tevens:
 2. In afwijking van het eerste lid omvat het vervoer van een verzekerde vanuit het buitenland naar een instelling dan wel naar zijn of een andere woning binnen het grondgebied van de BES-eilanden slechts het vervoer binnen het desbetreffende BES-eiland van de luchthaven of haven af, behoudens ingeval het vervoer verband houdt met een verleende verstrekking buiten het eiland waar de verzekerde woont, waarvoor het Zorgverzekeringskantoor BES de verzekerde nog tijdens diens verblijf op het laatstbedoelde eiland toestemming heeft gegeven, dan wel waarvoor de behandeling plaatsvindt op basis van een protocol.
 
 3. In afwijking van het eerste lid omvat het vervoer van een verzekerde naar zijn woning buiten het grondgebied van de BES-eilanden slechts het vervoer binnen het eiland waar de verzekerde verblijft tot aan de luchthaven of haven.
+
+##### Artikel 1.10.2
+
+1. De verzekerde heeft aanspraak op een door het Zorgverzekeringskantoor BES, eventueel per eiland verschillend, vast te stellen transportvergoeding voor ziekenvervoer anders dan per ambulance, voor zover:
+
+- a. de verzekerde nierdialyses moet ondergaan;
+
+- b. de verzekerde oncologische behandelingen met chemotherapie, immuuntherapie of radiotherapie moet ondergaan;
+
+- c. de verzekerde zich uitsluitend met een rolstoel kan verplaatsen;
+
+- d. het gezichtsvermogen van de verzekerde zodanig is beperkt dat hij zich niet zonder begeleiding kan verplaatsen.
+
+2. De aanspraak op grond van het eerste lid bestaat voor verzekerden, bedoeld in de onderdelen c en d, uitsluitend vervoer naar of van een persoon of instelling als bedoeld in [artikel 1.10.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=10&artikel=1.10.1&z=2026-01-01&g=2026-01-01).
+
+3. Het vervoer, bedoeld in het eerste lid, onderdelen a en b, omvat mede het vervoer naar consulten, onderzoek en controles die als onderdeel van de behandeling noodzakelijk zijn.
 
 ##### Artikel 1.10.3
 
@@ -1110,10 +1134,6 @@ Recht op vervoer per ambulance omvat mede het transport per air-ambulance in gev
 
 In geval van medische uitzending als bedoeld in de [artikelen 1.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.1&z=2026-01-01&g=2026-01-01) en [1.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.2&z=2026-01-01&g=2026-01-01) wordt het vervoer van de plaats van verblijf naar de plaats van bestemming en vice versa van de verzekerde en van zijn begeleider volledig vergoed.
 
-##### Artikel 1.10.8
-
-In geval van medische uitzending als bedoeld in de [artikelen 1.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.1&z=2015-01-01&g=2015-01-01) en [1.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.2&z=2015-01-01&g=2015-01-01) wordt het vervoer van de plaats van verblijf naar de plaats van bestemming en vice versa van de verzekerde en van zijn begeleider volledig vergoed.
-
 #### § 11. Repatriëring van overleden verzekerden
 
 ##### Artikel 1.11.1
@@ -1128,17 +1148,17 @@ De nabestaanden van een verzekerde die met toepassing van [artikel 1.13.1](https
 
 - a. Persoonlijke verzorging, verpleging of begeleiding:
 
-- 1°. door een door het Zorgverzekeringskantoor BES aangewezen instelling voor thuiszorg, een verzorgingshuis, verpleeghuis of instelling voor gehandicapten ten huize van een verzekerde in verband met een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap gericht op het opheffen van een tekort aan zelfredzaamheid of op herstel of voorkoming van verergering van de aandoening, beperking of handicap;
+   - 1° door een door het Zorgverzekeringskantoor BES aangewezen instelling voor thuiszorg, een verzorgingshuis, verpleeghuis of instelling voor gehandicapten ten huize van een verzekerde in verband met een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap gericht op het opheffen van een tekort aan zelfredzaamheid of op herstel of voorkoming van verergering van de aandoening, beperking of handicap;
 
-- 2°. bij verblijf als bedoeld in onderdeel b;
+   - 2° bij verblijf als bedoeld in onderdeel b;
 
 - b. verblijf in een verzorgingshuis, verpleeghuis of instelling voor gehandicapten in verband met een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap indien de verzekerde is aangewezen op een beschermende woonomgeving, therapeutisch leefklimaat dan wel permanent toezicht;
 
 - c. behandeling, die noodzakelijk is in verband met de aandoening, beperking, stoornis of handicap van de verzekerde, omvattende:
 
-- 1°. geneeskundige zorg van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard; en
+   - 1°. geneeskundige zorg van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard; en
 
-- 2°. geneeskundige zorg zoals klinisch-psychologen en psychiaters plegen te bieden in verband met de psychische stoornis van de verzekerde.
+   - 2°. geneeskundige zorg zoals klinisch-psychologen en psychiaters plegen te bieden in verband met de psychische stoornis van de verzekerde.
 
 2. De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een besluit van de Indicatiecommissie bedoeld in [artikel 1.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=12&artikel=1.12.3&z=2026-01-01&g=2026-01-01), dan wel, zolang deze niet is ingesteld, die met toestemming van het Zorgverzekeringskantoor BES in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot danwel na het vertrek van zijn echtgenoot naar een andere instelling.
 
@@ -1186,7 +1206,23 @@ De nabestaanden van een verzekerde die met toepassing van [artikel 1.13.1](https
 
 3. Aanspraak op zorg door een doventolk bestaat slechts indien op het wooneiland van de verzekerde een doventolk werkzaam is en de zorg minimaal 30 minuten duurt.
 
-#### § 12. Langdurige zorg
+##### Artikel 1.12.5
+
+De verzekerde die is aangewezen op palliatief terminale zorg heeft, mits het Zorgverzekeringskantoor daartoe voorafgaand toestemming heeft verleend, aanspraak op opneming en verblijf in een hospice en de daarmee verband houdende verpleging en verzorging.
+
+#### § 12a. Neonatale hielprik
+
+##### Artikel 1.12a.1
+
+1. Een neonatale hielprik is een bevolkingsonderzoek als bedoeld in [artikel 16a, onderdeel a, van het Besluit publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=16a).
+
+2. Aanspraak op het onderzoek, bedoeld in het eerste lid, bestaat voor de zuigeling die de leeftijd van twee maanden nog niet heeft bereikt, en in zeer bijzondere gevallen voor oudere zuigelingen.
+
+3. Het onderzoek, bedoeld in het eerste lid, vindt in de regel plaats op de leeftijd van drie tot en met zeven dagen van betrokkene.
+
+4. Het laboratoriumonderzoek, bedoeld in het eerste lid, wordt uitgevoerd volgens de onderzoeksmethoden, vastgesteld door het Rijksinstituut voor volksgezondheid en milieu, dat tevens voor dit laboratoriumonderzoek wordt aangewezen als referentie-instituut.
+
+#### § 13. Medische uitzendingen
 
 ##### Artikel 1.13.1
 
@@ -1266,7 +1302,7 @@ Een medische uitzending ten behoeve van het verkrijgen van langdurige zorg als b
 
 4. Het eerste lid is niet van toepassing op zwangerschapsafbrekingen zonder medische indicatie, tenzij het gaat om medische uitzending van een van de BES-eilanden naar een ander BES-eiland.
 
-#### § 12a. Neonatale hielprik
+#### § 14. Bijzondere bepalingen
 
 ##### Artikel 1.14.1
 
@@ -1276,7 +1312,7 @@ Een medische uitzending ten behoeve van het verkrijgen van langdurige zorg als b
 
 3. Indien in deze regeling is bepaald dat de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.
 
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
+### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in artikel 8, vierde tot en met zevende lid, en artikel 10, zesde lid, van het Besluit zorgverzekering BES
 
 ##### Artikel 2.1
 
@@ -1304,6 +1340,14 @@ Een medische uitzending ten behoeve van het verkrijgen van langdurige zorg als b
 
 - d. het een verzoek om een second opinion betreft dat niet voldoet aan [artikel 1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=3&artikel=1.3.4&z=2026-01-01&g=2026-01-01).
 
+##### Artikel 2.2a
+
+1. Indien een verzekerde ingevolge [artikel 10, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10) en [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) van deze regeling toestemming heeft om zich te wenden tot een zorgaanbieder met wie voor de verlening van de betreffende zorg geen overeenkomst is gesloten, is de vergoeding gelijk aan de in rekening gebrachte kosten, maar bedraagt niet meer dan het op het grondgebied van het BES-eiland waar de verzekerde woont voor de desbetreffende zorg gebruikelijke tarief, of, bij gebreke van een dergelijk tarief, het tarief dat daarvoor op het grondgebied van de BES-eilanden door het Zorgverzekeringskantoor BES wordt vergoed. Indien ook een dergelijk tarief niet kan worden vastgesteld, bedraagt de vergoeding ten hoogste het tarief dat in de Nederlandse marktomstandigheden in redelijkheid passend is te achten.
+
+2. In aanvulling op het eerste lid worden de kosten van het met de binnen het grondgebied van de BES-eilanden verleende zorg samenhangende noodzakelijke ziekenvervoer, bedoeld in [artikel 6, eerste lid, onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6) en [artikel 1.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=10&artikel=1.10.1&z=2026-01-01&g=2026-01-01) van deze regeling, vergoed.
+
+3. Indien de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.
+
 ##### Artikel 2.3
 
 1. Onverminderd het bepaalde in de [artikelen 1.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.1&z=2026-01-01&g=2026-01-01), [1.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=13&artikel=1.13.2&z=2026-01-01&g=2026-01-01) en [2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=2&artikel=2.2a&z=2026-01-01&g=2026-01-01) van deze regeling wordt aan een verzekerde een vergoeding verstrekt voor kosten van zorg als omschreven in deze regeling, die buiten het grondgebied van de BES-eilanden is verleend en anders dan op de in [artikel 10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden:
@@ -1324,25 +1368,29 @@ Een medische uitzending ten behoeve van het verkrijgen van langdurige zorg als b
 
 5. Indien in deze regeling is bepaald dat de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de vergoeding.
 
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
+### Hoofdstuk 3. Toepassing artikel 18 van het Besluit zorgverzekering BES
 
 ##### Artikel 3.1
 
 Voor zover in het besluit en deze regeling aanspraken zijn opgenomen op zorg die op een of meer van de BES-eilanden nog niet beschikbaar is, stimuleert het Zorgverzekeringskantoor BES zo mogelijk en doelmatig, de ontwikkeling daarvan.
 
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
+### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 4.1
 
-1. Tot en met 31 december 2014 bestaat voor verzekerden van 18 jaar en ouder aanspraak op eenmalig sanering van het gebit met behulp van röntgenfoto’s, anesthesie, restauratie van gebitselementen met plastische materialen en extracties.
+1. Tot en met 31 december 2014 bestaat voor verzekerden van 18 jaar en ouder aanspraak op eenmalig sanering van het gebit met behulp van röntgenfoto’s, anesthesie, restauratie van gebitselementen met plastische materialen en extracties.
 
-2. Voor verzekerden van 18 jaar en jonger en van verzekerden van wie de door de behandelend tandarts gemotiveerde aanvraag om een behandeling bij het Zorgverzekeringskantoor BES is ingediend voordat de verzekerde de leeftijd van achttien jaar heeft bereikt, bestaat aanspraak op orthodontie uitsluitend indien het geen esthetische correctie betreft en de behandeling uiterlijk op 31 december 2014 is aangevangen. De vergoeding bedraagt maximaal $ 2500 voor de gehele verzekeringsduur voor vaste apparatuur en $ 500 voor de uitneembare apparatuur.
+2. Voor verzekerden van 18 jaar en jonger en van verzekerden van wie de door de behandelend tandarts gemotiveerde aanvraag om een behandeling bij het Zorgverzekeringskantoor BES is ingediend voordat de verzekerde de leeftijd van achttien jaar heeft bereikt, bestaat aanspraak op orthodontie uitsluitend indien het geen esthetische correctie betreft en de behandeling uiterlijk op 31 december 2014 is aangevangen. De vergoeding bedraagt maximaal $ 2500 voor de gehele verzekeringsduur voor vaste apparatuur en $ 500 voor de uitneembare apparatuur.
 
-3. Indien de behandeling bedoeld in het tweede lid tussen 1 januari 2013 en 31 december 2014 is aangevangen, bestaat de aanspraak slechts indien het Zorgverzekeringskantoor BES daartoe toestemming heeft verleend.
+3. Indien de behandeling bedoeld in het tweede lid tussen 1 januari 2013 en 31 december 2014 is aangevangen, bestaat de aanspraak slechts indien het Zorgverzekeringskantoor BES daartoe toestemming heeft verleend.
 
 ##### Artikel 4.2
 
-Zolang niet anders wordt bepaald, bestaat aanspraak op brillen op sterkte en contactlenzen op sterkte anders dan als bedoeld in [artikel 1.7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.10&z=2026-01-01&g=2026-01-01), tot een bedrag van maximaal $ 170 per drie jaren voor verzekerden van achttien jaar of ouder en van maximaal $ 170 per jaar voor verzekerden jonger dan achttien jaar.
+Zolang niet anders wordt bepaald, bestaat aanspraak op brillen op sterkte en contactlenzen op sterkte anders dan als bedoeld in [artikel 1.7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.10&z=2026-01-01&g=2026-01-01), tot een bedrag van maximaal $ 170 per drie jaren voor verzekerden van achttien jaar of ouder en van maximaal $ 170 per jaar voor verzekerden jonger dan achttien jaar.
+
+##### Artikel 4.2a
+
+[Artikel 1.4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=4&artikel=1.4.2&z=2026-01-01&g=2026-01-01), is niet van toepassing indien de eerste behandeling fysiotherapie en oefentherapie, bedoeld in artikel 1.4.2, eerste lid, in het kader van de desbetreffende indicatie is verleend voor 1 januari 2015.
 
 ##### Artikel 4.3
 
@@ -1353,345 +1401,3 @@ Zolang niet anders wordt bepaald, bestaat aanspraak op brillen op sterkte en con
 ##### Artikel 4.4
 
 Deze regeling wordt aangehaald als: Regeling aanspraken zorgverzekering BES.
-
-## Bijlage
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 2. Brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen
-
-Zorginhoudelijke criteria voor vervanging van brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 2. Brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen
-
-Zorginhoudelijke criteria voor vervanging van brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 2. Brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen
-
-Zorginhoudelijke criteria voor vervanging van brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen zijn:
-
-Zorginhoudelijke criteria voor bandagelenzen zonder visuscorrigerende werking zijn:
-
-### 4. Hoortoestel
-
-Zorginhoudelijke criteria voor hoortoestellen zijn:
-
-### 5. Ringleiding, infrarood-apparatuur en FM-apparatuur voor geluidsoverdracht
-
-Zorginhoudelijke criteria voor ringleidingen, infrarood-apparatuur en FM-apparatuur voor geluidsoverdracht zijn:
-
-### 6. Draagbare insuline-infuuspomp
-
-Zorginhoudelijke criteria voor een draagbare insuline-infuuspomp voor continue subcutane insuline injectie zijn:
-
-### 7. Verbandschoenen
-
-Zorginhoudelijke criteria voor verbandschoenen zijn:
-
-### 8. Teksttelefoon of faxapparatuur
-
-Huiddefecten, huidulcera, sensibiliteits- en circulatiestoornissen aan de voet, alsmede in de herstelperiode na partiële amputaties, traumatische beschadigingen of operatieve ingrepen aan de voet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4.2a
-
-[Artikel 1.4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=4&artikel=1.4.2&z=2026-01-01&g=2026-01-01), is niet van toepassing indien de eerste behandeling fysiotherapie en oefentherapie, bedoeld in artikel 1.4.2, eerste lid, in het kader van de desbetreffende indicatie is verleend voor 1 januari 2015.
-
-## Bijlage
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 1. Orthopedisch schoeisel
-
-Zorginhoudelijke criteria voor orthopedisch schoeisel zijn:
-
-### 2. Brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen
-
-Zorginhoudelijke criteria voor vervanging van brillenglazen, waaronder filterglazen met of zonder visuscorrigerende werking, en contactlenzen zijn:
-
-### 3. Bandagelenzen zonder visuscorrigerende werking
-
-Zorginhoudelijke criteria voor bandagelenzen zonder visuscorrigerende werking zijn:
-
-### 4. Hoortoestel
-
-Zorginhoudelijke criteria voor hoortoestellen zijn:
-
-### 5. Ringleiding, infrarood-apparatuur en FM-apparatuur voor geluidsoverdracht
-
-Zorginhoudelijke criteria voor ringleidingen, infrarood-apparatuur en FM-apparatuur voor geluidsoverdracht zijn:
-
-### 6. Draagbare insuline-infuuspomp
-
-Zorginhoudelijke criteria voor een draagbare insuline-infuuspomp voor continue subcutane insuline injectie zijn:
-
-### 7. Verbandschoenen
-
-Zorginhoudelijke criteria voor verbandschoenen zijn:
-
-### 8. Teksttelefoon of faxapparatuur
-
-Zorginhoudelijke criteria voor teksttelefoons of faxapparatuur zijn:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.12a.1
-
-1. Een neonatale hielprik is een bevolkingsonderzoek als bedoeld in [artikel 16a, onderdeel a, van het Besluit publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=16a).
-
-2. Aanspraak op het onderzoek, bedoeld in het eerste lid, bestaat voor de zuigeling die de leeftijd van twee maanden nog niet heeft bereikt, en in zeer bijzondere gevallen voor oudere zuigelingen.
-
-3. Het onderzoek, bedoeld in het eerste lid, vindt in de regel plaats op de leeftijd van drie tot en met zeven dagen van betrokkene.
-
-4. Het laboratoriumonderzoek, bedoeld in het eerste lid, wordt uitgevoerd volgens de onderzoeksmethoden, vastgesteld door het Rijksinstituut voor volksgezondheid en milieu, dat tevens voor dit laboratoriumonderzoek wordt aangewezen als referentie-instituut.
-
-#### § 12a. Neonatale hielprik
-
-#### § 13. Medische uitzendingen
-
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
-
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
-
-## Bijlage
-
-### 9. Beeldtelefoon
-
-Een indicatie voor een beeldtelefoon is aanwezig:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.7.31
-
-Hulpmiddelen als bedoeld in [artikel 1.7.1, eerste lid, onderdeel gg](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=7&artikel=1.7.1&z=2026-01-01&g=2026-01-01), omvatten:
-
-- a. vergoeding van de kosten voor de redelijkerwijs te verrichten aanpassingen in en aan de woning en voor het herstel in de oorspronkelijke staat;
-
-- b. vergoeding van overige redelijk te achten kosten die rechtstreeks met de thuisdialyse samenhangen.
-
-#### § 8. Verloskundige zorg
-
-#### § 8. Verloskundige zorg
-
-#### § 9. Kraamzorg
-
-##### Artikel 1.10.2
-
-1. De verzekerde heeft aanspraak op een door het Zorgverzekeringskantoor BES, eventueel per eiland verschillend, vast te stellen transportvergoeding voor ziekenvervoer anders dan per ambulance, voor zover:
-
-- a. de verzekerde nierdialyses moet ondergaan;
-
-- b. de verzekerde oncologische behandelingen met chemotherapie, immuuntherapie of radiotherapie moet ondergaan;
-
-- c. de verzekerde zich uitsluitend met een rolstoel kan verplaatsen;
-
-- d. het gezichtsvermogen van de verzekerde zodanig is beperkt dat hij zich niet zonder begeleiding kan verplaatsen.
-
-2. De aanspraak op grond van het eerste lid bestaat voor verzekerden, bedoeld in de onderdelen c en d, uitsluitend vervoer naar of van een persoon of instelling als bedoeld in [artikel 1.10.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=10&artikel=1.10.1&z=2026-01-01&g=2026-01-01).
-
-3. Het vervoer, bedoeld in het eerste lid, onderdelen a en b, omvat mede het vervoer naar consulten, onderzoek en controles die als onderdeel van de behandeling noodzakelijk zijn.
-
-#### § 11. Repatriëring van overleden verzekerden
-
-#### § 11. Repatriëring van overleden verzekerden
-
-#### § 12a. Neonatale hielprik
-
-#### § 13. Medische uitzendingen
-
-#### § 13. Medische uitzendingen
-
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
-
-### Hoofdstuk 2. Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=8), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10)
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-## Bijlage
-
-### 3. Bandagelenzen zonder visuscorrigerende werking
-
-### 8. Teksttelefoon of faxapparatuur
-
-Zorginhoudelijke criteria voor teksttelefoons of faxapparatuur zijn:
-
-### 9. Beeldtelefoon
-
-Een indicatie voor een beeldtelefoon is aanwezig:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.12.5
-
-De verzekerde die is aangewezen op palliatief terminale zorg heeft, mits het Zorgverzekeringskantoor daartoe voorafgaand toestemming heeft verleend, aanspraak op opneming en verblijf in een hospice en de daarmee verband houdende verpleging en verzorging.
-
-#### § 12a. Neonatale hielprik
-
-#### § 14. Bijzondere bepalingen
-
-### Hoofdstuk 3. Toepassing [artikel 18 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=18)
-
-## Bijlage
-
-### 10. Wek- en waarschuwingsinstallatie
-
-Een indicatie voor wek- en waarschuwingsinstallatie is aanwezig:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.4.7
-
-1. Zorg bij stoppen-met-rokenprogramma omvat geneeskundige en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken.
-
-2. Er bestaat slechts aanspraak op zorg bij stoppen-met-rokenprogramma voor geaccrediteerde interventies die zijn opgenomen in het Kwaliteitsregister Stoppen met Roken.
-
-3. De zorg, bedoeld in het eerste lid, omvat het één keer per kalenderjaar volgen van een programma.
-
-##### Artikel 1.4.8
-
-1. Zorg bij gecombineerde leefstijl interventie omvat door het Rijksinstituut voor volksgezondheid en milieu, bedoeld in [artikel 2, eerste lid, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=2), erkende en als effectief gekwalificeerde interventies gericht op het verminderen van de energie-inname, het verhogen van de lichamelijke activiteit en eventuele toevoeging op maat van psychologische interventies ter ondersteuning van de gedragsverandering.
-
-2. De zorg, bedoeld in het eerste lid, omvat het één keer per 24 maanden geheel of bij voortijdige beëindiging door de verzekerde gedeeltelijk volgen van een interventie.
-
-3. Voor het tot gelding brengen van de aanspraak op de zorg, bedoeld in het eerste lid, is voorafgaande toestemming van het Zorgverzekeringskantoor BES vereist.
-
-#### § 5. Tandheelkundige zorg
-
-#### § 6. Farmaceutische zorg
-
-#### § 7. Hulpmiddelenzorg
-
-#### § 10. Ziekenvervoer
-
-#### § 11. Repatriëring van overleden verzekerden
-
-#### § 12a. Neonatale hielprik
-
-#### § 14. Bijzondere bepalingen
-
-### Hoofdstuk 3. Toepassing [artikel 18 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=18)
-
-## Bijlage
-
-### 11. CPAP-apparatuur
-
-Een indicatie voor ‘continuous positive airway pressure’ (CPAP)-apparatuur is aanwezig, indien is voldaan aan de volgende voorwaarden:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.4.1a
-
-Vervallen
-
-#### § 7. Hulpmiddelenzorg
-
-#### § 8. Verloskundige zorg
-
-#### § 10. Ziekenvervoer
-
-#### § 11. Repatriëring van overleden verzekerden
-
-#### § 12. Langdurige zorg
-
-#### § 14. Bijzondere bepalingen
-
-### Hoofdstuk 3. Toepassing [artikel 18 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=18)
-
-### Hoofdstuk 3. Toepassing [artikel 18 van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=18)
-
-## Bijlage
-
-### 10. Wek- en waarschuwingsinstallatie
-
-Een indicatie voor wek- en waarschuwingsinstallatie is aanwezig:
-
-### 11. CPAP-apparatuur
-
-Een indicatie voor ‘continuous positive airway pressure’ (CPAP)-apparatuur is aanwezig, indien is voldaan aan de volgende voorwaarden:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 12. Solo-apparatuur
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2.2a
-
-1. Indien een verzekerde ingevolge [artikel 10, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=10) en [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=2&artikel=2.2&z=2026-01-01&g=2026-01-01) van deze regeling toestemming heeft om zich te wenden tot een zorgaanbieder met wie voor de verlening van de betreffende zorg geen overeenkomst is gesloten, is de vergoeding gelijk aan de in rekening gebrachte kosten, maar bedraagt niet meer dan het op het grondgebied van het BES-eiland waar de verzekerde woont voor de desbetreffende zorg gebruikelijke tarief, of, bij gebreke van een dergelijk tarief, het tarief dat daarvoor op het grondgebied van de BES-eilanden door het Zorgverzekeringskantoor BES wordt vergoed. Indien ook een dergelijk tarief niet kan worden vastgesteld, bedraagt de vergoeding ten hoogste het tarief dat in de Nederlandse marktomstandigheden in redelijkheid passend is te achten.
-
-2. In aanvulling op het eerste lid worden de kosten van het met de binnen het grondgebied van de BES-eilanden verleende zorg samenhangende noodzakelijke ziekenvervoer, bedoeld in [artikel 6, eerste lid, onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=6) en [artikel 1.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=10&artikel=1.10.1&z=2026-01-01&g=2026-01-01) van deze regeling, vergoed.
-
-3. Indien de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-## Bijlage
-
-### 12. Solo-apparatuur
-
-Zorginhoudelijke criteria voor solo-apparatuur zijn:
-
-### 13. Tilliften
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.3.12
-
-Voor zover medisch-specialistische zorg geriatrische revalidatie omvat is dit slechts onder zorg begrepen indien:
-
-- a. het gaat om integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid en complexe multimorbiditeit met als doel herstel of verbetering van het functioneren en de participatie in de maatschappij van de verzekerde; en
-
-- b. er geen verblijf in een instelling als bedoeld in [artikel 1.12.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&hoofdstuk=1&paragraaf=12&artikel=1.12.1&z=2026-01-01&g=2026-01-01) aan vooraf is gegaan.
-
-#### § 4. Paramedische zorg
-
-#### § 5. Tandheelkundige zorg
-
-#### § 6. Farmaceutische zorg
-
-#### § 7. Hulpmiddelenzorg
-
-#### § 9. Kraamzorg
-
-#### § 10. Ziekenvervoer
-
-#### § 14. Bijzondere bepalingen
-
-### Hoofdstuk 4. Overgangs- en slotbepalingen
-
-## Bijlage
-
-Zorginhoudelijke criteria voor solo-apparatuur zijn:
-
-### 13. Tilliften
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

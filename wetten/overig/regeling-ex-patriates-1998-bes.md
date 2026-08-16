@@ -1,51 +1,25 @@
 ---
 title: "Regeling ex-patriates 1998 BES"
 identifier: "BWBR0029315"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029315"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11179243"
-version_id: "18284862"
-internal_id: "C25451931"
-label_id: "11153584"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029315/2024-01-01/0"
-intitule_bron: "Stcrt.2010-21106"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21106"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21106"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029315&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0029315&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0029315"
+opgehaald: 2026-08-16
 ---
+
 # Regeling ex-patriates 1998 BES
-
-Besluit:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur in het Europese deel van Nederland.
 
 ##### Artikel 1
 
 - 1. In deze regeling wordt verstaan onder:
 
-- a. **ex-patriate:** de werknemer die direct voorafgaand aan zijn tewerkstelling in de openbare lichamen Bonaire, Sint Eustatius of Saba gedurende een aaneengesloten periode van tenminste vijf jaar in geen van de drie bedoelde openbare lichamen heeft gewoond;
+   - a. *ex-patriate:* de werknemer die direct voorafgaand aan zijn tewerkstelling in de openbare lichamen Bonaire, Sint Eustatius of Saba gedurende een aaneengesloten periode van tenminste vijf jaar in geen van de drie bedoelde openbare lichamen heeft gewoond;
 
-- b. **werkgever:** de inhoudingsplichtige, bedoeld in [artikel 4 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4).
+   - b. *werkgever:* de inhoudingsplichtige, bedoeld in [artikel 4 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4).
 
 - 2. Deze regeling geeft uitvoering aan [artikel 58 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=58) en [artikel 22 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22).
 
@@ -97,15 +71,15 @@ Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasti
 
 - 2. Het verzoek bevat de volgende gegevens van de werknemer:
 
-- a. zijn curriculum vitae;
+   - a. zijn curriculum vitae;
 
-- b. afschriften van relevante diploma’s, cijferlijsten en getuigschriften;
+   - b. afschriften van relevante diploma’s, cijferlijsten en getuigschriften;
 
-- c. afschriften van de werk- en verblijfsvergunning;
+   - c. afschriften van de werk- en verblijfsvergunning;
 
-- d. afschrift van de arbeidsovereenkomst; en
+   - d. afschrift van de arbeidsovereenkomst; en
 
-- e. een overzicht van de toegekende vergoedingen en beloningen in natura.
+   - e. een overzicht van de toegekende vergoedingen en beloningen in natura.
 
 - 3. De werknemer wordt als ex-patriate aangemerkt met ingang van de eerste dag van zijn tewerkstelling, met dien verstande dat bij overschrijding van de termijn genoemd in het eerste lid de werknemer niet eerder als ex-patriate wordt aangemerkt dan met ingang van de eerste dag van de maand volgend op de maand waarin het verzoek is gedaan.
 
@@ -133,9 +107,9 @@ De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbel
 
 - 1. Als strafbaar feit, bedoeld in [artikel 8.77, tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.77) wordt aangemerkt:
 
-- a. de gehele of gedeeltelijke niet-naleving van verplichtingen of voorwaarden gesteld bij deze regeling;
+   - a. de gehele of gedeeltelijke niet-naleving van verplichtingen of voorwaarden gesteld bij deze regeling;
 
-- b. het nalaten inlichtingen te verschaffen die voor de uitvoering van deze regeling noodzakelijk zijn.
+   - b. het nalaten inlichtingen te verschaffen die voor de uitvoering van deze regeling noodzakelijk zijn.
 
 - 2. Indien één of meer van de in het eerste lid genoemde feiten zich voordoet worden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=5&z=2024-01-01&g=2024-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=9&z=2024-01-01&g=2024-01-01) geacht nimmer van toepassing te zijn geweest ten aanzien van de desbetreffende werknemer.
 
@@ -149,7 +123,7 @@ De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbel
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15
 

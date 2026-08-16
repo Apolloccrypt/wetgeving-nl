@@ -1,104 +1,74 @@
 ---
 title: "Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2011)"
+citeertitel: "Belastingplan 2011"
 identifier: "BWBR0029341"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029341"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "11186093"
-version_id: "18304142"
-internal_id: "C25482131"
-label_id: "11160624"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029341/2015-01-01/0"
-intitule_bron: "Stb.2010-872"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2010-872"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "32504"
-original_url_id: "stb-2010-872"
-entry_into_force_date: "2010-12-31"
-entry_into_force_dossier: "32504"
-jci_1_3: "jci1.3:c:BWBR0029341&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0029341&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2011"
-signed_date: "2010-12-23"
-entry_into_force: "2010-12-31"
+publicatiedatum: 2010-12-31
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0029341"
+opgehaald: 2026-08-16
 ---
+
 # Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2011)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2011 wenselijk is fiscale maatregelen te treffen in het kader van inkomensbeleid, constructie- en fraudebestrijding, (innovatief) ondernemerschap alsmede de woningmarkt;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IIIbis
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IIIa
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel XIII
 
@@ -110,11 +80,11 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 1. [Artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) vindt bij het begin van het kalenderjaar 2011 geen toepassing op de in [artikel IX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2015-01-01&g=2015-01-01), genoemde bedragen in de tabellen van [artikel 9, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9).
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel XV
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XVI
 
@@ -134,23 +104,25 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XIXa
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het toe te passen tarief op renovatie en herstel van woningen als bedoeld in post 21 van [Tabel I, onderdeel b, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), is het tarief dat van kracht is op het tijdstip waarop het belastbare feit zich voordoet.
+
+2. Het toe te passen tarief op kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten als bedoeld in [artikel 2a, eerste lid, onderdeel m, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2a), is het tarief dat van kracht is op het tijdstip waarop het belastbare feit zich voordoet.
 
 ##### Artikel XX
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XXIbis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXIa
 
@@ -158,7 +130,7 @@ Bij verzekeringen waarbij de laatste prolongatiedatum of datum van stilzwijgende
 
 ##### Artikel XXIb
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXII
 
@@ -166,15 +138,15 @@ In afwijking van [artikel 13, eerste lid, van de Wet op belastingen van rechtsve
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel XXIV
 
-Wijzigt het Belastingplan 2009.
+*Wijzigt het Belastingplan 2009.*
 
 ##### Artikel XXV
 
-Wijzigt het Belastingplan 2010.
+*Wijzigt het Belastingplan 2010.*
 
 ##### Artikel XXVI
 
@@ -188,15 +160,15 @@ Wijzigt het Belastingplan 2010.
 
 ##### Artikel XXVII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.
+*Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.*
 
 ##### Artikel XXIX
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel XXIXa
 
@@ -225,5 +197,3 @@ Ingeval de samenloop van wetten die in 2010 in het Staatsblad zijn of worden gep
 ##### Artikel XXXII
 
 Deze wet wordt aangehaald als: Belastingplan 2011.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

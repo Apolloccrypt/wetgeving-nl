@@ -1,41 +1,19 @@
 ---
 title: "Onteigeningswet BES"
 identifier: "BWBR0028729"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028729"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10947453"
-version_id: "17934652"
-internal_id: "C24894711"
-label_id: "10922994"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028729/2021-07-01/0"
-intitule_bron: "Stb.2010-517"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-14"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-517"
-original_signed_date: "2010-09-14"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-517"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028729&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0028729&g=2021-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-14"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0028729"
+opgehaald: 2026-08-16
 ---
+
 # Onteigeningswet BES
 
-## Algemene bepalingen
+### Algemene bepalingen
 
 ##### Artikel 1
 
@@ -69,7 +47,7 @@ De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wett
 
 Waar in deze wet een kadastrale aanduiding is voorgeschreven, wordt, indien deze onmogelijk is, een nauwkeurige beschrijving gegeven van de ligging, vorm en omvang van de zaak; voor de aanduiding van een gedeelte van een zodanig perceel is een meetbrief vereist.
 
-## Titel I. Over onteigening in gewone gevallen
+### Titel I. Over onteigening in gewone gevallen
 
 ### Hoofdstuk I. Over hetgeen aan de verklaring van het algemeen nut vooraf behoort te gaan
 
@@ -121,9 +99,9 @@ Uiterlijk veertien dagen voordat de commissie bijeenkomt, maken Onze Minister wi
 
 - b. een lijst van de te onteigenen onroerende zaken aangeduid met hun kadastrale aanduiding met vermelding van:
 
-- 1°. de grootte volgens de kadastrale registratie van elk der desbetreffende percelen en, indien een te onteigenen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte;
+   - 1°. de grootte volgens de kadastrale registratie van elk der desbetreffende percelen en, indien een te onteigenen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte;
 
-- 2°. de namen van de eigenaars van elk dier zaken, volgens de kadastrale registratie;
+   - 2°. de namen van de eigenaars van elk dier zaken, volgens de kadastrale registratie;
 
 - c. bij afzonderlijke onteigening als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&artikel=4&z=2021-07-01&g=2021-07-01), een lijst van de te onteigenen rechten met vermelding van de kadastrale aanduiding van de zaken waarop zij rusten, en de namen van de rechthebbenden op die rechten volgens de kadastrale registratie.
 
@@ -499,7 +477,7 @@ Alle belastingen, hoegenaamd, waarmede het onteigende goed is bezwaard, of die d
 
 Indien, tengevolge van oorzaken, welke de onteigenende bij machte was uit de weg te ruimen, met het werk waartoe werd onteigend, niet binnen een jaar nadat het eindvonnis van onteigening in kracht van gewijsde is gegaan, aanvang is gemaakt of de arbeid daaraan meer dan een jaar mocht zijn gestaakt, of indien uit andere omstandigheden is aan te tonen, dat het werk blijkbaar niet tot stand zal worden gebracht, kan de onteigende bij de rechter het afgestaan goed terugvorderen in de toestand, waarin het zich alsdan bevindt, doch onder gehoudenheid, om, in evenredigheid tot de terugontvangen waarde, de schadeloosstelling terug te geven.
 
-## Titel II. [vervallen]
+### Titel II. [vervallen]
 
 ##### Artikel 69
 
@@ -517,7 +495,7 @@ Indien, tengevolge van oorzaken, welke de onteigenende bij machte was uit de weg
 
 [vervallen]
 
-## Titel III. Over onteigening in het belang van de ruimtelijke ontwikkeling en van de volkshuisvesting
+### Titel III. Over onteigening in het belang van de ruimtelijke ontwikkeling en van de volkshuisvesting
 
 ##### Artikel 73
 
@@ -577,9 +555,9 @@ Indien, tengevolge van oorzaken, welke de onteigenende bij machte was uit de weg
 
 - b. een lijst van de te onteigenen onroerende zaken aangeduid met hun kadastrale aanduiding met vermelding van:
 
-- 1°. de grootte volgens de kadastrale registratie van elk der desbetreffende percelen en, indien een te onteigenen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte;
+   - 1°. de grootte volgens de kadastrale registratie van elk der desbetreffende percelen en, indien een te onteigenen onroerende zaak een gedeelte van een perceel uitmaakt, bovendien de grootte van dat gedeelte;
 
-- 2°. de namen van de eigenaars van elk dier zaken, volgens de kadastrale registratie.
+   - 2°. de namen van de eigenaars van elk dier zaken, volgens de kadastrale registratie.
 
 - c. bij afzonderlijke onteigening als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&artikel=4&z=2021-07-01&g=2021-07-01), een lijst van de te onteigenen rechten met vermelding van de kadastrale aanduiding van de zaken waarop zij rusten, en de namen van de rechthebbenden op die rechten volgens de kadastrale registratie.
 
@@ -605,7 +583,7 @@ De belanghebbenden kunnen uiterlijk veertien dagen na verloop van de termijn voo
 
 ##### Artikel 85
 
-Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk, in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.
+Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk, in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.
 
 ##### Artikel 86
 
@@ -621,7 +599,7 @@ Het raadsbesluit tot onteigening, dan wel een afschrift of afdruk ervan, wordt g
 
 3. Het koninklijk besluit omtrent de goedkeuring van het raadsbesluit wordt in de Staatscourant bekendgemaakt en in afschrift of afdruk gedurende eenentwintig dagen ter inzage van een ieder gelegd op het bestuurskantoor van het openbaar lichaam.
 
-4. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk, in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.
+4. Door de gezaghebber wordt de terinzagelegging, met vermelding van de aard en de strekking van het werk, in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) vooraf aan de ingezetenen bekendgemaakt en in een of meer ter plaatse verspreid wordende nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze aangekondigd.
 
 ##### Artikel 88
 
@@ -633,9 +611,9 @@ Ten minste drie dagen voor de verschijning legt de onteigenende partij tot stavi
 
 - a. indien de eilandsraad tot onteigening heeft besloten:
 
-- 1°. een exemplaar van de Staatscourant, waarin het koninklijk besluit met het daarbij goedgekeurd raadsbesluit ingevolge [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=86&z=2021-07-01&g=2021-07-01), is openbaar gemaakt;
+   - 1°. een exemplaar van de Staatscourant, waarin het koninklijk besluit met het daarbij goedgekeurd raadsbesluit ingevolge [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=86&z=2021-07-01&g=2021-07-01), is openbaar gemaakt;
 
-- 2°. een door de gezaghebber afgegeven bewijs, dat de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=81&z=2021-07-01&g=2021-07-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=85&z=2021-07-01&g=2021-07-01) zijn nageleefd.
+   - 2°. een door de gezaghebber afgegeven bewijs, dat de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=81&z=2021-07-01&g=2021-07-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=85&z=2021-07-01&g=2021-07-01) zijn nageleefd.
 
 - b. indien tot onteigening is besloten overeenkomstig het bepaalde in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&artikel=87&z=2021-07-01&g=2021-07-01) een exemplaar van de Staatscourant, waarin is openbaar gemaakt het koninklijk besluit, waarbij de te onteigenen onroerende zaken en rechten worden aangewezen.
 
@@ -659,7 +637,7 @@ Het Gerecht in eerste aanleg kan aan de onteigenende partij haar eis niet toewij
 
 Ten aanzien van de betaling der schadeloosstelling gelden de bepalingen van het vijfde hoofdstuk van de eerste titel, behoudens dat, in de gevallen genoemd bij [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=I&hoofdstuk=V&artikel=68&z=2021-07-01&g=2021-07-01), de onteigende de keuze heeft tussen terugvordering als omschreven bij dat artikel en een vordering tot uitkering van een door de rechter naar billijkheid te bepalen schadeloosstelling boven de reeds genotene en dat de daar genoemde termijnen van een jaar worden gesteld op tien jaren.
 
-## Titel IV. Over onteigening van wegen en bruggen, en onteigening voor aanleg en verbetering van wegen, bruggen, havenwerken en terreinen en werken voor de luchtvaart
+### Titel IV. Over onteigening van wegen en bruggen, en onteigening voor aanleg en verbetering van wegen, bruggen, havenwerken en terreinen en werken voor de luchtvaart
 
 ##### Artikel 93
 
@@ -667,7 +645,7 @@ Ten aanzien van de betaling der schadeloosstelling gelden de bepalingen van het 
 
 2. De bepalingen van [titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0028729&titeldeel=III&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing.
 
-## Titel V. Over onteigening bij oorlog, brand of orkaan
+### Titel V. Over onteigening bij oorlog, brand of orkaan
 
 ##### Artikel 94
 

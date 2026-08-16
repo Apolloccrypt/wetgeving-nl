@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0047530"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 21 november 2022, nr. 4283291 houdende de aanwijzing van computercrisisteams en van organisaties die objectief kenbaar tot taak hebben om andere organisaties of het publiek over dreigingen en incidenten met betrekking tot netwerk- en informatiesystemen te informeren als bedoeld in de Wet beveiliging netwerk- en informatiesystemen en tot intrekking van de Regeling aanwijzing computercrisisteams (Regeling aanwijzing schakelorganisaties cybersecurity)

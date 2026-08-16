@@ -1,38 +1,16 @@
 ---
 title: "Besluit vakantie en vrijstelling van dienst ambtenaren BES"
 identifier: "BWBR0028606"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2026-04-10"
-last_updated: "2026-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028606"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10894673"
-version_id: "17878022"
-internal_id: "C24784611"
-label_id: "10869914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028606/2026-04-10/0"
-intitule_bron: "Stb.2010-417"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-417"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-417"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028606&z=2026-04-10&g=2026-04-10"
-jci_1_0: "1.0:c:BWBR0028606&g=2026-04-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-04-10
+status: geldig
+toestand: 2026-04-10
+bron: "https://wetten.overheid.nl/BWBR0028606"
+opgehaald: 2026-08-16
 ---
+
 # Besluit vakantie en vrijstelling van dienst ambtenaren BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -59,37 +37,37 @@ entry_into_force: "2010-10-10"
 
 1. Voor de toepassing van dit besluit en de uit kracht daarvan gegeven voorschriften wordt verstaan onder:
 
-- **bevoegd gezag:**
+- *bevoegd gezag:*
 
-  - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft hoofden van dienst in dienst van de staat;
+   - a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft hoofden van dienst in dienst van de staat;
 
-  - b. het bestuurscollege, voor wat betreft de hoofden van dienst in dienst van een openbaar lichaam;
+   - b. het bestuurscollege, voor wat betreft de hoofden van dienst in dienst van een openbaar lichaam;
 
-  - c. de Rijksvertegenwoordiger, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger;
+   - c. de Rijksvertegenwoordiger, voor wat betreft het personeel van het Bureau van de Rijksvertegenwoordiger;
 
-  - d. het hoofd van de dienst voor wat betreft de bij zijn dienst werkzaam gestelde ambtenaren.
+   - d. het hoofd van de dienst voor wat betreft de bij zijn dienst werkzaam gestelde ambtenaren.
 
-- **hoofd van dienst:** de bij besluit van het bevoegd gezag als zodanig aangewezen ambtenaren.
+- *hoofd van dienst:* de bij besluit van het bevoegd gezag als zodanig aangewezen ambtenaren.
 
-- **gezin:**
+- *gezin:*
 
-  - a. de echtgenoot of echtgenote van de betrokken ambtenaar;
+   - a. de echtgenoot of echtgenote van de betrokken ambtenaar;
 
-  - b. de kinderen tot wie de betrokken ambtenaar in familierechtelijke betrekking staat die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de stief- en pleegkinderen van de betrokken ambtenaar die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de laatsten voor zover de betrokken ambtenaar ten behoeve van deze pleegkinderen kindertoelage geniet;
+   - b. de kinderen tot wie de betrokken ambtenaar in familierechtelijke betrekking staat die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de stief- en pleegkinderen van de betrokken ambtenaar die de leeftijd van 21 jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, de laatsten voor zover de betrokken ambtenaar ten behoeve van deze pleegkinderen kindertoelage geniet;
 
-  - c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke betrekking staat, de overige stief- en pleegkinderen van de betrokken ambtenaar, voor zover de betrokken ambtenaar ten behoeve van deze kinderen kindertoelage geniet;
+   - c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke betrekking staat, de overige stief- en pleegkinderen van de betrokken ambtenaar, voor zover de betrokken ambtenaar ten behoeve van deze kinderen kindertoelage geniet;
 
-- **inkomen:** de bezoldiging van de ambtenaar, vermeerderd met de vakantie-uitkering, bedoeld in [artikel 36a van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=36a), de eindejaarsuitkering, bedoeld in [artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a) of een daarmee vergelijkbare bepaling, een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging worden genoten.
+- *inkomen:* de bezoldiging van de ambtenaar, vermeerderd met de vakantie-uitkering, bedoeld in [artikel 36a van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=36a), de eindejaarsuitkering, bedoeld in [artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a) of een daarmee vergelijkbare bepaling, een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging worden genoten.
 
-- **arbeidsduurfactor:** een breuk waarvan de teller bestaat uit het aantal uren van de voor die ambtenaar geldende werktijd en de noemer uit 36.
+- *arbeidsduurfactor:* een breuk waarvan de teller bestaat uit het aantal uren van de voor die ambtenaar geldende werktijd en de noemer uit 36.
 
-- **bezoldiging per uur:** 1/150 deel van de bezoldiging per maand bij een volledige betrekking.
+- *bezoldiging per uur:* 1/150 deel van de bezoldiging per maand bij een volledige betrekking.
 
-- **levensfaseverlof:** levensfaseverlof, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8b&z=2026-04-10&g=2026-04-10).
+- *levensfaseverlof:* levensfaseverlof, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8b&z=2026-04-10&g=2026-04-10).
 
-- **vakantie-uren:** uren waarop op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10) aanspraak op vakantie bestaat.
+- *vakantie-uren:* uren waarop op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10) aanspraak op vakantie bestaat.
 
-- **Sectorale Overlegcommissie BES:** de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
+- *Sectorale Overlegcommissie BES:* de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
 
 Voor het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs wordt mede als inkomen aangemerkt de aan dit personeel op grond van geldende wettelijke regelingen toegekende vaste toelagen.
 
@@ -97,13 +75,13 @@ Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://w
 
 2. In dit besluit wordt onder echtgenoot of echtgenote mede verstaan de levenspartner met wie de niet gehuwde ambtenaar een gemeenschappelijke huishouding voert. Onder weduwe of weduwnaar wordt mede verstaan de achtergebleven levenspartner, bedoeld in de vorige volzin. Slechts één persoon kan als levenspartner worden aangemerkt.
 
-### Hoofdstuk II. Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in [Hoofdstuk IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa&z=2026-04-10&g=2026-04-10) alsmede die bedoeld in het [Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767)
+### Hoofdstuk II. Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in Hoofdstuk IIIA alsmede die bedoeld in het Besluit rechtspositie korps politie BES
 
 ##### Artikel 5
 
 1. De ambtenaar heeft jaarlijks aanspraak op vakantie met behoud van zijn volle inkomen.
 
-2. Voor de ambtenaar met een volledige betrekking bedraagt de aanspraak op vakantie per kalenderjaar 182 werkuren.
+2. Voor de ambtenaar met een volledige betrekking bedraagt de aanspraak op vakantie per kalenderjaar 182 werkuren.
 
 3. Aan de ambtenaar die ingevolge het voor hem geldende werkrooster avond- of nachtdienst en dienst op zon- en feestdagen moet verrichten, wordt per kalenderjaar 22 extra vakantie-uren verleend.
 
@@ -115,29 +93,47 @@ Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://w
 
 7. Het aantal uren waarvoor ingevolge dit artikel aanspraak op vakantie bestaat, wordt zo nodig naar boven afgerond op hele uren.
 
+##### Artikel 5a
+
+1. De ambtenaar is vrij te bepalen wanneer hij vakantie opneemt, voor zover het dienstbelang zich daartegen niet verzet.
+
+2. Het bevoegd gezag stelt de ambtenaar ieder kalenderjaar in de gelegenheid en de ambtenaar is verplicht ieder kalenderjaar ten minste 108 uren vakantie op te nemen, waarvan ten minste 72 uur over een aaneengesloten periode. Voor de ambtenaar met een deelbetrekking worden de in dit lid genoemde aantallen uren vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor.
+
+3. De ambtenaar meldt het voornemen vakantie op te nemen ruimschoots van tevoren op een door het bevoegd gezag te bepalen wijze.
+
+4. Tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten, is het de ambtenaar toegestaan op het voornemen vakantie op te nemen terug te komen, dan wel het opnemen niet voort te zetten.
+
+5. Het bevoegd gezag kan aan het begin van het kalenderjaar voor dat jaar twee dagen als brugdag aanwijzen. Onder brugdag wordt verstaan een dag tussen een feestdag en een weekend of tussen een weekend en een feestdag, waarop de ambtelijke dienst gesloten is en de ambtenaar zijn werkzaamheden niet kan verrichten. De niet gewerkte uren worden in mindering gebracht op het aantal vakantie-uren waarop de ambtenaar dat kalenderjaar aanspraak heeft.
+
+6. De aanwijzing van brugdagen vindt niet plaats dan nadat daarover door of namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties overleg is gepleegd met de Sectorale Overlegcommissie BES, bedoeld in [artikel 2.1 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
+
 ##### Artikel 6
 
 1. Behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=7&z=2026-04-10&g=2026-04-10) vervalt de aanspraak op vakantie-uren na verloop van een jaar na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
 
 2. Dit artikel is niet van toepassing op vakantie-uren die de ambtenaar op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8a&z=2026-04-10&g=2026-04-10) heeft gespaard ten behoeve van levensfaseverlof.
 
+##### Artikel 6a
+
+Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in [artikel 37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt.
+
 ##### Artikel 7
 
 1. De in dit hoofdstuk bedoelde vakantie kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk worden geweigerd of ingetrokken bij gemotiveerde beschikking van het bevoegd gezag.
 
-2. Indien de vakantie krachtens het vorige lid geheel of gedeeltelijk is geweigerd of ingetrokken behoudt de ambtenaar zijn aanspraak op het aantal door hem niet genoten vakantieuren. Weigering of intrekking kan voor ten hoogste 12 maanden uitstel van de desbetreffende vakantie tot gevolg hebben. Behalve in het geval dat de dienstverhouding tot de overheid wegens ontslag eindigt, kan aan de ambtenaar in enig kalenderjaar nimmer een langere vakantie worden verleend dan tweemaal het hem volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10) toekomende aantal vakantieuren.
+2. Indien de vakantie krachtens het vorige lid geheel of gedeeltelijk is geweigerd of ingetrokken behoudt de ambtenaar zijn aanspraak op het aantal door hem niet genoten vakantieuren. Weigering of intrekking kan voor ten hoogste 12 maanden uitstel van de desbetreffende vakantie tot gevolg hebben. Behalve in het geval dat de dienstverhouding tot de overheid wegens ontslag eindigt, kan aan de ambtenaar in enig kalenderjaar nimmer een langere vakantie worden verleend dan tweemaal het hem volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10) toekomende aantal vakantieuren.
 
 3. In geval van intrekking van de vakantie zoals bedoeld in het voorgaande lid wordt, indien de ambtenaar als gevolg daarvan van de hem op een bepaalde dag toegekende vakantieuren er een deel niet heeft kunnen genieten, geen van de op die dag vallende vakantieuren als zodanig aangemerkt. Indien de ambtenaar tengevolge van de intrekking van vakantie geldelijke schade lijdt, wordt deze schade hem vergoed. In het geval de ambtenaar zijn vakantie doorbrengt buiten het eiland waar hij werkzaam is, wordt hem, indien hij op het tijdstip waarop hij zijn werkzaamheden hervat minder dan 3/4 gedeelte van het aantal vakantieuren dat hij buiten het eiland waar hij werkzaam is zou doorbrengen heeft genoten, bovendien vergoed de door hem voor zich en zijn gezin gemaakte reiskosten naar de plaats waar hij op het tijdstip van de intrekking met vakantie vertoeft, vermeerderd met een vergoeding van de door hem gemaakte kosten van een rechtstreekse reis van die plaats naar het eiland waar hij werkzaam is.
 
 ##### Artikel 8
 
-1. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan het bevoegd gezag op aanvraag van de ambtenaar in dienst van de Staat zijn aanspraak op vakantie-uren eenmaal per kalenderjaar met ten hoogste 50 vakantie-uren verlagen.
+1. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan het bevoegd gezag op aanvraag van de ambtenaar in dienst van de Staat zijn aanspraak op vakantie-uren eenmaal per kalenderjaar met ten hoogste 50 vakantie-uren verlagen.
 
 2. Tenzij gewichtige redenen van dienstbelang zich daartegen verzetten, kan het bevoegd gezag op aanvraag van de ambtenaar in dienst van de Staat eenmaal per kalenderjaar zijn aanspraak op vakantie-uren met ten hoogste 72 vakantie-uren verhogen.
 
 3. Ten aanzien van het in het eerste en tweede lid genoemde aantal vakantie-uren is [artikel 5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10), van overeenkomstige toepassing.
 
-4. Een aanvraag als bedoeld in het eerste of tweede lid wordt voor 1 november van het lopende kalenderjaar ingediend. Het bevoegd gezag beslist op of na 1 november en voor het einde van dat kalenderjaar gelijktijdig over alle voor die datum ingediende aanvragen.
+4. Een aanvraag als bedoeld in het eerste of tweede lid wordt voor 1 november van het lopende kalenderjaar ingediend. Het bevoegd gezag beslist op of na 1 november en voor het einde van dat kalenderjaar gelijktijdig over alle voor die datum ingediende aanvragen.
 
 5. De ambtenaar wordt een vergoeding toegekend voor elk uur waarmee zijn aanspraak op vakantie-uren ingevolge het eerste lid wordt verlaagd, ten bedrage van de bezoldiging per uur die hij geniet op de dag waarop de aanvraag, bedoeld in het eerste lid, is goedgekeurd.
 
@@ -161,6 +157,18 @@ Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://w
 
 7. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen ter uitvoering van dit artikel.
 
+##### Artikel 8b
+
+1. De ambtenaar in dienst van de Staat kan op aanvraag de op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8a&z=2026-04-10&g=2026-04-10) gespaarde vakantie-uren opnemen als levensfaseverlof. Levensfaseverlof kan worden gecombineerd met vakantie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10).
+
+2. Een aanvraag als bedoeld in het eerste lid wordt uiterlijk drie maanden voor het ingaan van het voorgenomen verlof ingediend, indien de verlofperiode, met inbegrip van eventuele vakantie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10), niet meer dan vier weken bedraagt. Indien de verlofperiode langer dan vier weken bedraagt, wordt de aanvraag uiterlijk zes maanden voor het ingaan van het voorgenomen verlof ingediend.
+
+3. Een aanvraag als bedoeld in het eerste lid wordt toegewezen, tenzij een zwaarwegend dienstbelang van bedrijfsorganisatorische aard zich daartegen verzet.
+
+4. Levensfaseverlof wordt genoten met behoud van vol inkomen.
+
+5. Levensfaseverlof kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk door het bevoegd gezag worden ingetrokken. Indien de ambtenaar of zijn gezin ten gevolge van de intrekking schade lijdt, wordt deze schade vergoed.
+
 ##### Artikel 9
 
 1. Indien een ambtenaar tijdens zijn vakantie blijkens een geneeskundige verklaring gedurende een of meer dagen arbeidsongeschikt is geweest, wordt het aantal hem verleende vakantieuren dat overeenkomt met het aantal werkuren gedurende welke hij arbeidsongeschikt was, beschouwd niet als vakantie te zijn genoten en wordt hem voor de duur van zijn arbeidsongeschiktheid met inachtneming van de bepalingen van [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=VI&z=2026-04-10&g=2026-04-10) vrijstelling van dienst wegens ziekte verleend.
@@ -181,7 +189,7 @@ Voor de berekening van de vakantie-uitkering bedoeld in [hoofdstuk IV](https://w
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
@@ -191,7 +199,7 @@ Vervallen
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
@@ -289,23 +297,23 @@ Het bepaalde in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoo
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk V. Vrijstelling van dienst wegens bijzondere omstandigheden
 
@@ -315,41 +323,41 @@ Vervallen
 
 - I.
 
-  - a. op de dag van zijn ondertrouw;
+   - a. op de dag van zijn ondertrouw;
 
-  - b. bij zijn huwelijk: vier werkdagen;
+   - b. bij zijn huwelijk: vier werkdagen;
 
-  - c. op de dag van het huwelijk van bloed- en aanverwanten in de eerste, tweede en derde graad;
+   - c. op de dag van het huwelijk van bloed- en aanverwanten in de eerste, tweede en derde graad;
 
-  - d. bij bevalling van zijn echtgenote: tweeënhalve werkdag;
+   - d. bij bevalling van zijn echtgenote: tweeënhalve werkdag;
 
-  - e. op de dag van zijn kerkelijke bevestiging en Eerste Heilige Communie en op die van zijn echtgenote, kinderen, stief- of pleegkinderen;
+   - e. op de dag van zijn kerkelijke bevestiging en Eerste Heilige Communie en op die van zijn echtgenote, kinderen, stief- of pleegkinderen;
 
-  - f. op de dag van zijn 10-, 20-, 30-, 35-, 40- en 45-jarig ambtsjubileum;
+   - f. op de dag van zijn 10-, 20-, 30-, 35-, 40- en 45-jarig ambtsjubileum;
 
-  - g. op de dag van herdenking van zijn 25- en 40-jarig huwelijks-jubileum;
+   - g. op de dag van herdenking van zijn 25- en 40-jarig huwelijks-jubileum;
 
-  - h. op de dag van herdenking van het 25-, 40-, 50- en 60-jarig huwelijksjubileum van zijn ouders, stief-, schoon-, pleeg- of grootouders;
+   - h. op de dag van herdenking van het 25-, 40-, 50- en 60-jarig huwelijksjubileum van zijn ouders, stief-, schoon-, pleeg- of grootouders;
 
-  - i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2026-04-10&g=2026-04-10) toepassing vinden;
+   - i. bij ernstige ziekte van zijn echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: ten hoogste vijftien dagen; mocht blijken dat dit aantal in bepaalde omstandigheden niet toereikend is, dan kan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=V&artikel=29&z=2026-04-10&g=2026-04-10) toepassing vinden;
 
-  - j. bij overlijden van echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: twee werkdagen;
+   - j. bij overlijden van echtgenote, ouders, stief-, schoon- of pleegouders, kinderen, stief- of pleegkinderen: twee werkdagen;
 
-  - k. bij overlijden van grootouders, huisgenoten en bloed- en aanverwanten tot en met de derde graad: één werkdag;
+   - k. bij overlijden van grootouders, huisgenoten en bloed- en aanverwanten tot en met de derde graad: één werkdag;
 
-  - l. op de dag vóór en op de dagen waarop een examen ter verkrijging van een wettelijk erkend diploma wordt afgelegd.
+   - l. op de dag vóór en op de dagen waarop een examen ter verkrijging van een wettelijk erkend diploma wordt afgelegd.
 
 - II.
 
-  - a. indien hij gehuwd is of een eigen huishouding heeft, bij verhuizing op het eiland waar hij zijn standplaats heeft; twee dagen, en in geval van verhuizing naar een ander eiland: twee dagen zowel vóór het vertrek naar als na aankomst op de nieuwe standplaats;
+   - a. indien hij gehuwd is of een eigen huishouding heeft, bij verhuizing op het eiland waar hij zijn standplaats heeft; twee dagen, en in geval van verhuizing naar een ander eiland: twee dagen zowel vóór het vertrek naar als na aankomst op de nieuwe standplaats;
 
-  - b. indien hij ongehuwd is en geen eigen huishouding heeft, bij verhuizing naar een ander eiland: één dag vóór het vertrek naar de nieuwe standplaats.
+   - b. indien hij ongehuwd is en geen eigen huishouding heeft, bij verhuizing naar een ander eiland: één dag vóór het vertrek naar de nieuwe standplaats.
 
 - III.
 
-  - a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;
+   - a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;
 
-  - b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.
+   - b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.
 
 2. Aan de ambtenaar wordt vakbondsverlof met behoud van volle bezoldiging verleend, tenzij de desbetreffende vakbond niet is vertegenwoordigd in de Sectorale Overlegcommissie BES of de bedrijfsvoering door het verlof ernstig wordt verstoord.
 
@@ -377,7 +385,7 @@ Vervallen
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
@@ -407,7 +415,7 @@ Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15
 
 4. Herstel in activiteit na eindiging van de vrijstelling van dienst bedoeld in het eerste lid geschiedt bij beschikking van het bevoegde gezag.
 
-### Hoofdstuk VI. Vrijstelling van dienst wegens ziekte
+### Hoofdstuk VI. Vrijstelling van dienst in geval van ziekte, zwangerschap en bevalling
 
 ##### Artikel 31
 
@@ -421,11 +429,11 @@ Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15
 
 - I. Voor een ambtenaar in vaste dienst:
 
-  - a. zijn vol inkomen gedurende de eerste vierentwintig maanden;
+   - a. zijn vol inkomen gedurende de eerste vierentwintig maanden;
 
-  - b. negentig ten honderd van zijn vol inkomen gedurende de daaropvolgende twaalf maanden;
+   - b. negentig ten honderd van zijn vol inkomen gedurende de daaropvolgende twaalf maanden;
 
-  - c. tachtig ten honderd van zijn vol inkomen gedurende de resterende maanden.
+   - c. tachtig ten honderd van zijn vol inkomen gedurende de resterende maanden.
 
 - II. voor een ambtenaar in tijdelijke dienst zijn vol inkomen.
 
@@ -549,6 +557,18 @@ Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duu
 
 Na eindiging van een vrijstelling van dienst wegens ziekte van meer dan dertig dagen of van een vrijstelling van dienst wegens ziekte voor verblijf in het buitenland, is herstel in activiteit bij beschikking vereist. Deze inactiviteitherstelling geschiedt door het bevoegde gezag.
 
+##### Artikel 37a
+
+1. De vrouwelijke ambtenaar heeft in verband met haar bevalling recht op zwangerschaps- en bevallingsverlof met doorbetaling van het volle inkomen.
+
+2. Het recht op het zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, of vanaf tien weken voor die dag indien het een zwangerschap van meer dan een kind betreft, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling of uiterlijk acht weken voor die dag indien het een zwangerschap van meer dan een kind betreft.
+
+3. Het recht op bevallingsverlof gaat in op de dag na de dag van de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen, of, indien het een zwangerschap van meer dan een kind betreft, minder dan tien weken heeft bedragen.
+
+4. Als een kind tijdens het bevallingsverlof vanwege zijn medische toestand in een ziekenhuis is opgenomen, wordt het bevallingsverlof verlengd met het aantal opnamedagen, te rekenen vanaf de achtste dag van opname tot en met de laatste dag van het bevallingsverlof tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het bevallingsverlof is uitsluitend van toepassing voor zover de ziekenhuisopname langer duurt dan het aantal dagen waarmee het bevallingsverlof als gevolg van de werkelijke datum van bevalling op grond van het derde lid wordt verlengd.
+
+5. Het verlof, bedoeld in het tweede en derde lid, wordt voor de toepassing van dit besluit gelijkgesteld met verhindering tot dienstverrichting wegens ziekte.
+
 ### Hoofdstuk VII. Slot- en overgangsbepalingen
 
 ##### Artikel 38
@@ -598,81 +618,3 @@ Dit besluit berust op [artikel 43 van de Ambtenarenwet BES](https://wetten.overh
 ##### Artikel 49
 
 [vervallen]
-
-##### Artikel 6a
-
-Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in [artikel 37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt.
-
-### Hoofdstuk III. Vakantie van het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs
-
-### Hoofdstuk IIIa. Vakantie van de leerkracht die verbonden is aan de politieopleidingsschool
-
-### Hoofdstuk IV. Vakantie-uitkering
-
-### Hoofdstuk V. Vrijstelling van dienst wegens bijzondere omstandigheden
-
-### Hoofdstuk VI. Vrijstelling van dienst in geval van ziekte, zwangerschap en bevalling
-
-##### Artikel 37a
-
-1. De vrouwelijke ambtenaar heeft in verband met haar bevalling recht op zwangerschaps- en bevallingsverlof met doorbetaling van het volle inkomen.
-
-2. Het recht op het zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, of vanaf tien weken voor die dag indien het een zwangerschap van meer dan een kind betreft, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling of uiterlijk acht weken voor die dag indien het een zwangerschap van meer dan een kind betreft.
-
-3. Het recht op bevallingsverlof gaat in op de dag na de dag van de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen, of, indien het een zwangerschap van meer dan een kind betreft, minder dan tien weken heeft bedragen.
-
-4. Als een kind tijdens het bevallingsverlof vanwege zijn medische toestand in een ziekenhuis is opgenomen, wordt het bevallingsverlof verlengd met het aantal opnamedagen, te rekenen vanaf de achtste dag van opname tot en met de laatste dag van het bevallingsverlof tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het bevallingsverlof is uitsluitend van toepassing voor zover de ziekenhuisopname langer duurt dan het aantal dagen waarmee het bevallingsverlof als gevolg van de werkelijke datum van bevalling op grond van het derde lid wordt verlengd.
-
-5. Het verlof, bedoeld in het tweede en derde lid, wordt voor de toepassing van dit besluit gelijkgesteld met verhindering tot dienstverrichting wegens ziekte.
-
-### Hoofdstuk VII. Slot- en overgangsbepalingen
-
-##### Artikel 5a
-
-1. De ambtenaar is vrij te bepalen wanneer hij vakantie opneemt, voor zover het dienstbelang zich daartegen niet verzet.
-
-2. Het bevoegd gezag stelt de ambtenaar ieder kalenderjaar in de gelegenheid en de ambtenaar is verplicht ieder kalenderjaar ten minste 108 uren vakantie op te nemen, waarvan ten minste 72 uur over een aaneengesloten periode. Voor de ambtenaar met een deelbetrekking worden de in dit lid genoemde aantallen uren vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor.
-
-3. De ambtenaar meldt het voornemen vakantie op te nemen ruimschoots van tevoren op een door het bevoegd gezag te bepalen wijze.
-
-4. Tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten, is het de ambtenaar toegestaan op het voornemen vakantie op te nemen terug te komen, dan wel het opnemen niet voort te zetten.
-
-5. Het bevoegd gezag kan aan het begin van het kalenderjaar voor dat jaar twee dagen als brugdag aanwijzen. Onder brugdag wordt verstaan een dag tussen een feestdag en een weekend of tussen een weekend en een feestdag, waarop de ambtelijke dienst gesloten is en de ambtenaar zijn werkzaamheden niet kan verrichten. De niet gewerkte uren worden in mindering gebracht op het aantal vakantie-uren waarop de ambtenaar dat kalenderjaar aanspraak heeft.
-
-6. De aanwijzing van brugdagen vindt niet plaats dan nadat daarover door of namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties overleg is gepleegd met de Sectorale Overlegcommissie BES, bedoeld in [artikel 2.1 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1).
-
-### Hoofdstuk III. Vakantie van het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs
-
-### Hoofdstuk IIIa. Vakantie van de leerkracht die verbonden is aan de politieopleidingsschool
-
-### Hoofdstuk IV. Vakantie-uitkering
-
-### Hoofdstuk V. Vrijstelling van dienst wegens bijzondere omstandigheden
-
-### Hoofdstuk VI. Vrijstelling van dienst in geval van ziekte, zwangerschap en bevalling
-
-### Hoofdstuk VII. Slot- en overgangsbepalingen
-
-##### Artikel 8b
-
-1. De ambtenaar in dienst van de Staat kan op aanvraag de op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=8a&z=2026-04-10&g=2026-04-10) gespaarde vakantie-uren opnemen als levensfaseverlof. Levensfaseverlof kan worden gecombineerd met vakantie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10).
-
-2. Een aanvraag als bedoeld in het eerste lid wordt uiterlijk drie maanden voor het ingaan van het voorgenomen verlof ingediend, indien de verlofperiode, met inbegrip van eventuele vakantie op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II&artikel=5&z=2026-04-10&g=2026-04-10), niet meer dan vier weken bedraagt. Indien de verlofperiode langer dan vier weken bedraagt, wordt de aanvraag uiterlijk zes maanden voor het ingaan van het voorgenomen verlof ingediend.
-
-3. Een aanvraag als bedoeld in het eerste lid wordt toegewezen, tenzij een zwaarwegend dienstbelang van bedrijfsorganisatorische aard zich daartegen verzet.
-
-4. Levensfaseverlof wordt genoten met behoud van vol inkomen.
-
-5. Levensfaseverlof kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk door het bevoegd gezag worden ingetrokken. Indien de ambtenaar of zijn gezin ten gevolge van de intrekking schade lijdt, wordt deze schade vergoed.
-
-### Hoofdstuk III. Vakantie van het onderwijzend personeel bij het van overheidswege gegeven openbare onderwijs
-
-### Hoofdstuk IIIa. Vakantie van de leerkracht die verbonden is aan de politieopleidingsschool
-
-### Hoofdstuk IV. Vakantie-uitkering
-
-### Hoofdstuk V. Vrijstelling van dienst wegens bijzondere omstandigheden
-
-### Hoofdstuk VI. Vrijstelling van dienst in geval van ziekte, zwangerschap en bevalling
-
-### Hoofdstuk VII. Slot- en overgangsbepalingen

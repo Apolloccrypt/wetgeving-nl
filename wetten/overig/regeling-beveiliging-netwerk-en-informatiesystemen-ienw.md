@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0045163"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 mei 2021, nr. IENW/BSK-2021/135014, houdende nadere regels voor de veiligheid van aanbieders van essentiële diensten inzake de netwerk- en informatiesystemen in de sectoren vervoer en drinkwater (Regeling beveiliging netwerk- en informatiesystemen IenW)

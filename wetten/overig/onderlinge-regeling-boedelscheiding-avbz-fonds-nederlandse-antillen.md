@@ -1,63 +1,17 @@
 ---
 title: "Onderlinge regeling boedelscheiding AVBZ-fonds Nederlandse Antillen"
 identifier: "BWBR0028984"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-02"
-last_updated: "2010-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028984"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11082113"
-version_id: "18113382"
-internal_id: "C25184911"
-label_id: "11056544"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028984/2010-10-02/0"
-intitule_bron: "Stcrt.2010-14722"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-07"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14722"
-original_signed_date: "2010-09-07"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14722"
-entry_into_force_date: "2010-10-02"
-jci_1_3: "jci1.3:c:BWBR0028984&z=2010-10-02&g=2010-10-02"
-jci_1_0: "1.0:c:BWBR0028984&g=2010-10-02"
-citeertitel_status: "officieel"
-signed_date: "2010-09-07"
-entry_into_force: "2010-10-02"
+publicatiedatum: 2010-10-02
+laatste_update: 2010-10-02
+status: geldig
+toestand: 2010-10-02
+bron: "https://wetten.overheid.nl/BWBR0028984"
+opgehaald: 2026-08-16
 ---
+
 # Onderlinge regeling boedelscheiding AVBZ-fonds Nederlandse Antillen
-
-Onderlinge regeling in de zin van [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), strekkende tot splitsing van het vermogen van het AVBZ-fonds van de Nederlandse Antillen en toedeling van de AVBZ-gerechtigden bij het AVBZ-fonds van de Nederlandse Antillen, alsmede strekkende tot overeenstemming tussen betrokken partijen over een goede uitvoering hiervan,
-
-De Nederlandse Antillen en Nederland, evenals gelet op [artikel 60 c van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=60c), de landen Curaçao en Sint Maarten ingaande 10 oktober 2010,
-
-De minister-president van het Land Nederlandse Antillen, mede namens de ministers van Financiën en van Volksgezondheid en Sociale Ontwikkeling van de Nederlandse Antillen,
-
-De gedeputeerde van Constitutionele Zaken van Curaçao,
-
-De gedeputeerde van Constitutionele Zaken van Sint Maarten,
-
-De staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van Nederland, mede namens de minister van Volksgezondheid, Welzijn en Sport van Nederland,
-
-hierna gezamenlijk te noemen ‘Partijen’, stellen daartoe de volgende uitgangspunten vast:
-
-dat binnen het staatkundig proces waarin het Koninkrijk der Nederlanden zich bevindt, de eilandgebieden Curaçao en Sint Maarten hebben gekozen voor de status van land binnen het Koninkrijk en dat Bonaire, Sint Eustatius en Saba (hierna ‘de BES-eilanden’) als openbare lichamen onderdeel zullen worden van Nederland;
-
-dat als gevolg van voornoemde staatkundige ontwikkelingen de boedel van het AVBZ-fonds Nederlandse Antillen over Curaçao, Sint Maarten en Nederland (voor de BES-eilanden) moet worden verdeeld, hetgeen onderlinge afspraken vergt;
-
-dat het wenselijk is een en ander zodanig te regelen dat de continuïteit van de dienstverlening en rechten van de AVBZ-gerechtigden niet worden aangetast;
-
-dat het wenselijk is de afspraken neer te leggen in een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Partijen komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
@@ -65,29 +19,29 @@ Partijen komen het volgende overeen:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **BES:** Bonaire, Sint Eustatius en Saba;
+- a. *BES:* Bonaire, Sint Eustatius en Saba;
 
-- b. **land:** Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
+- b. *land:* Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
 
-- c. **overnemende land:** het land dat ingevolge de bepalingen van het Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen de respectievelijke rechten en verplichtingen met betrekking tot de in onderdeel e genoemde landsverordening overneemt zoals dat bepaald wordt in dat besluit;
+- c. *overnemende land:* het land dat ingevolge de bepalingen van het Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen de respectievelijke rechten en verplichtingen met betrekking tot de in onderdeel e genoemde landsverordening overneemt zoals dat bepaald wordt in dat besluit;
 
-- d. **tijdstip van de transitie:** het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- d. *tijdstip van de transitie:* het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- e. **AVBZ-verstrekking:** zorg of hulpmiddel, waaronder een woningaanpassing op grond van de Landsverordening Algemene Voorzieningen Bijzondere Ziektekosten (AVBZ) (P.B. 1996, no. 211, artikel 5) en het daarop rustende Landsbesluit zorg (PB 1996, no. 215, zoals laatstelijk gewijzigd bij P.B. 2002, no. 29), het Landsbesluit uitbreiding AVBZ-zorg (PB 2002, no. 28) en het concept-Landsbesluit uit 2008 inzake ‘autismespectrumstoornis’, zoals deze (concept)regelingen op het tijdstip van de transitie luiden;
+- e. *AVBZ-verstrekking:* zorg of hulpmiddel, waaronder een woningaanpassing op grond van de Landsverordening Algemene Voorzieningen Bijzondere Ziektekosten (AVBZ) (P.B. 1996, no. 211, artikel 5) en het daarop rustende Landsbesluit zorg (PB 1996, no. 215, zoals laatstelijk gewijzigd bij P.B. 2002, no. 29), het Landsbesluit uitbreiding AVBZ-zorg (PB 2002, no. 28) en het concept-Landsbesluit uit 2008 inzake ‘autismespectrumstoornis’, zoals deze (concept)regelingen op het tijdstip van de transitie luiden;
 
-- f. **AVBZ-uitvoeringsorgaan Nederlandse Antillen:** het bij Landsverordening PB 1996, no. 211, artikelen 10 en 11 of, bij landsbesluit voorafgaand aan het tijdstip van transitie, aangewezen orgaan ter uitvoering van de Landsverordening AVBZ;
+- f. *AVBZ-uitvoeringsorgaan Nederlandse Antillen:* het bij Landsverordening PB 1996, no. 211, artikelen 10 en 11 of, bij landsbesluit voorafgaand aan het tijdstip van transitie, aangewezen orgaan ter uitvoering van de Landsverordening AVBZ;
 
-- g. **AVBZ-gerechtigden:** degene, die voldoet aan artikel 4 van de Landsverordening AVBZ en het Landsbesluit beperking kring verzekerden (PB 2002, no. 32) en die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een verstrekking ontvangt of van wie de aanvraag voor een verstrekking is goedgekeurd door het AVBZ-uitvoeringsorgaan;
+- g. *AVBZ-gerechtigden:* degene, die voldoet aan artikel 4 van de Landsverordening AVBZ en het Landsbesluit beperking kring verzekerden (PB 2002, no. 32) en die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een verstrekking ontvangt of van wie de aanvraag voor een verstrekking is goedgekeurd door het AVBZ-uitvoeringsorgaan;
 
-- h. **zorgverlener:** een medische beroepsbeoefenaar, instelling of andere deskundige die zich jegens het AVBZ-uitvoeringsorgaan heeft verbonden om, onder bij overeenkomst te bepalen voorwaarden (Landsverordening AVBZ, artikel 13), behandeling, verpleging of verzorging te verlenen aan AVBZ-gerechtigden;
+- h. *zorgverlener:* een medische beroepsbeoefenaar, instelling of andere deskundige die zich jegens het AVBZ-uitvoeringsorgaan heeft verbonden om, onder bij overeenkomst te bepalen voorwaarden (Landsverordening AVBZ, artikel 13), behandeling, verpleging of verzorging te verlenen aan AVBZ-gerechtigden;
 
-- i. **Indicatiecommissie:** onafhankelijke centrale commissie die het uitvoeringsorgaan adviseert omtrent de rechthebbendheid van een aanvrager en de aansluiting van een aanvraag op de aandoening (Landsverordening AVBZ, artikel 12 eerste lid);
+- i. *Indicatiecommissie:* onafhankelijke centrale commissie die het uitvoeringsorgaan adviseert omtrent de rechthebbendheid van een aanvrager en de aansluiting van een aanvraag op de aandoening (Landsverordening AVBZ, artikel 12 eerste lid);
 
-- j. **inkomen van het AVBZ-fonds van de Nederlandse Antillen:** de middelen ter dekking van de kosten van AVBZ-verstrekkingen en de AVBZ-uitvoering, waaronder de opbouw van reserves, ingevolge de Landsverordening AVBZ, welke bestaan uit een werkgevers/werknemers premie, een jaarlijkse bijdrage van het Land Nederlandse Antillen, een eigen bijdrage van AVBZ-gerechtigden en overige inkomsten;
+- j. *inkomen van het AVBZ-fonds van de Nederlandse Antillen:* de middelen ter dekking van de kosten van AVBZ-verstrekkingen en de AVBZ-uitvoering, waaronder de opbouw van reserves, ingevolge de Landsverordening AVBZ, welke bestaan uit een werkgevers/werknemers premie, een jaarlijkse bijdrage van het Land Nederlandse Antillen, een eigen bijdrage van AVBZ-gerechtigden en overige inkomsten;
 
-- k. **vermogen van het AVBZ-fonds van de Nederlandse Antillen:** het blijkens het, onmiddellijk voorafgaand aan het tijdstip van transitie gecontroleerde jaarrekening, totale vermogen van het AVBZ-fonds van de Nederlandse Antillen;
+- k. *vermogen van het AVBZ-fonds van de Nederlandse Antillen:* het blijkens het, onmiddellijk voorafgaand aan het tijdstip van transitie gecontroleerde jaarrekening, totale vermogen van het AVBZ-fonds van de Nederlandse Antillen;
 
-- l. **AVBZ-fonds:** het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in artikel 18 van de Landsverordening AVBZ.
+- l. *AVBZ-fonds:* het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in artikel 18 van de Landsverordening AVBZ.
 
 2. Indien, na het tijdstip van de transitie, een land de bevoegdheid ter zake van de uitvoering van een AVBZ-verstrekking dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe aangewezen uitvoeringsorganisatie met rechtspersoonlijkheid van dat land, treedt die uitvoeringsorganisatie voor de toepassing van deze regeling, met uitzondering van [artikel 5, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028984&paragraaf=3&artikel=5&z=2010-10-02&g=2010-10-02), in de plaats van dat land.
 

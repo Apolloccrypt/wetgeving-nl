@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksaangelegenheden van 5 oktober 2010, nr. 2010-0000612457, houdende nadere regels met betrekking tot het politielegitimatiebewijs op Bonaire, Sint Eustatius en Saba (Regeling politielegitimatiebewijs BES)"
+citeertitel: "Regeling politielegitimatiebewijs BES"
 identifier: "BWBR0028800"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028800"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11028543"
-version_id: "18020542"
-internal_id: "C25048951"
-label_id: "11003004"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028800/2010-10-10/0"
-intitule_bron: "Stcrt.2010-15815"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-05"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15815"
-original_signed_date: "2010-10-05"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15815"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028800&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028800&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling politielegitimatiebewijs BES"
-signed_date: "2010-10-05"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028800"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksaangelegenheden van 5 oktober 2010, nr. 2010-0000612457, houdende nadere regels met betrekking tot het politielegitimatiebewijs op Bonaire, Sint Eustatius en Saba (Regeling politielegitimatiebewijs BES)
-
-Gelet op [artikel 8, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=8);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit beheer politiekorps BES in werking treedt.
 
 #### § 1. Politielegitimatiebewijs
 
@@ -91,5 +63,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling politielegitimatiebewijs BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

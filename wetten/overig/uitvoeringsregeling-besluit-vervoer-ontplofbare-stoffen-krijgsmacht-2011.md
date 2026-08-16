@@ -1,57 +1,32 @@
 ---
 title: "Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011"
 identifier: "BWBR0028898"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-21"
-last_updated: "2022-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028898"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11060993"
-version_id: "18071862"
-internal_id: "C25122081"
-label_id: "11035464"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028898/2022-09-21/0"
-intitule_bron: "Stcrt.2010-16765"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-15"
-intitule_published: "2010-10-27"
-intitule_in_force: "2010-10-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16765"
-original_signed_date: "2010-10-15"
-original_published_date: "2010-10-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16765"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0028898&z=2022-09-21&g=2022-09-21"
-jci_1_0: "1.0:c:BWBR0028898&g=2022-09-21"
-citeertitel_status: "officieel"
-signed_date: "2010-10-15"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2022-09-21
+status: geldig
+toestand: 2022-09-21
+bron: "https://wetten.overheid.nl/BWBR0028898"
+opgehaald: 2026-08-16
 ---
+
 # Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011
-
-Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=4), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=8), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=9), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=10), en [11 van het Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=11);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **ADR:** Accord Européen relatif au transport international des marchandises dangereuses par route;
+- a. *ADR:* Accord Européen relatif au transport international des marchandises dangereuses par route;
 
-- b. **besluit:** [Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142);
+- b. *besluit:*
+ [Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142);
 
-- c. **STANAG 4441:** ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AMovP-6, Allied Multi-Modal Transportation of Dangerous Goods Directive en Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- c. *STANAG 4441:* ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van Defensie van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AMovP-6, Allied Multi-Modal Transportation of Dangerous Goods Directive en Standards-related documents zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- d. **munitie:** ontplofbare stoffen en voorwerpen als bedoeld in [artikel 1, onderdeel b, van het Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=1);
+- d. *munitie:* ontplofbare stoffen en voorwerpen als bedoeld in [artikel 1, onderdeel b, van het Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=1);
 
-- e. **meevoeren:** het meenemen van munitie bestemd voor gebruik door de eigen bemanning in het bij het voertuig behorende wapensysteem, inbegrepen munitie behorende tot de uitrusting van de bemanning.
+- e. *meevoeren:* het meenemen van munitie bestemd voor gebruik door de eigen bemanning in het bij het voertuig behorende wapensysteem, inbegrepen munitie behorende tot de uitrusting van de bemanning.
 
 ##### Artikel 2. Stanag 4441
 
@@ -77,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Logistiek voertuig
 
-1. De afscheiding tussen bestuurderscabine en laadruimte moet zijn vervaardigd uit zodanig materiaal dat voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut.
+1. De afscheiding tussen bestuurderscabine en laadruimte moet zijn vervaardigd uit zodanig materiaal dat voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut.
 
-2. In geval van een losstaande ruimte voor de bestuurder moet de constructie van deze ruimte zijn vervaardigd uit materiaal waardoor voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut. De constructie van de buitenzijde van de ruimte met de te transporteren lading moet zijn vervaardigd uit materiaal waardoor voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut.
+2. In geval van een losstaande ruimte voor de bestuurder moet de constructie van deze ruimte zijn vervaardigd uit materiaal waardoor voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut. De constructie van de buitenzijde van de ruimte met de te transporteren lading moet zijn vervaardigd uit materiaal waardoor voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut.
 
 3. De constructie van een met een voorwand uitgeruste opbouw waarin zich te transporteren ontplofbare stoffen bevinden, dient dusdanig te zijn dat de voorwand geen onderbrekingen vertoont. Als onderbreking wordt niet beschouwd:
 
@@ -113,7 +88,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 7. De brandbaarheid van een dekzeil uitgedrukt in mm per minuut dient door de verwervende instantie éénmalig te worden vastgesteld op basis van het gevoerde artikelnummer van het dekzeil en door deze instanties schriftelijk te worden vastgelegd.
 
-8. Bij een met een dekzeil uitgerust logistiek voertuig, ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven, dient het dekzeil inzake brandbaarheid te voldoen aan ISO-norm 3795, waarbij de voortschrijding van een brand een waarde van 100 mm per minuut niet te boven gaat.
+8. Bij een met een dekzeil uitgerust logistiek voertuig, ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven, dient het dekzeil inzake brandbaarheid te voldoen aan ISO-norm 3795, waarbij de voortschrijding van een brand een waarde van 100 mm per minuut niet te boven gaat.
 
 9. De motor van een logistiek voertuig dient vóór de voorwand van de laadruimte of onder het laadvlak te zijn geplaatst, waarbij gevaar voor de lading door verwarming van het binnenoppervlak van het laadvlak boven 80 graden Celsius of ontsteking van de lading is uitgesloten.
 
@@ -125,11 +100,11 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 13. De constructie van het logistiek voertuig moet zodanig zijn dat bij haar inzet, inbegrepen het gebruik van haar bewapening, de temperatuur van het laadoppervlak danwel een wand nooit hoger wordt dan 80 graden C.
 
-14. Een logistiek voertuig ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven en waarvan de maximale massa meer dan 10 ton bedraagt, dient te zijn voorzien van een antiblokkeer-remsysteem. Een logistiek voertuig ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven en waarvan de maximale massa meer dan 3,5 ton bedraagt, dient te zijn voorzien van een snelheidsbegrenzer.
+14. Een logistiek voertuig ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven en waarvan de maximale massa meer dan 10 ton bedraagt, dient te zijn voorzien van een antiblokkeer-remsysteem. Een logistiek voertuig ten aanzien waarvan na 31 december 2015 voor de eerste maal een militair registratiebewijs wordt afgegeven en waarvan de maximale massa meer dan 3,5 ton bedraagt, dient te zijn voorzien van een snelheidsbegrenzer.
 
-15. Een aanhangwagen met een totaal maximum massa van meer dan 750 kg of een oplegger moet zijn voorzien van een reminrichting die op alle wielen werkt en die in werking treedt zodra de bedrijfsrem van het trekkend voertuig in werking wordt gesteld. De constructie dient zodanig te zijn dat de reminrichting de aanhangwagen tot stilstand brengt indien de koppeling tussen het trekkend voertuig en de aanhangwagen breekt.
+15. Een aanhangwagen met een totaal maximum massa van meer dan 750 kg of een oplegger moet zijn voorzien van een reminrichting die op alle wielen werkt en die in werking treedt zodra de bedrijfsrem van het trekkend voertuig in werking wordt gesteld. De constructie dient zodanig te zijn dat de reminrichting de aanhangwagen tot stilstand brengt indien de koppeling tussen het trekkend voertuig en de aanhangwagen breekt.
 
-16. Een aanhangwagen met een totaal maximum massa minder dan of gelijk aan 750 kg moet zijn voorzien van een extra verbinding met het trekkende voertuig zodat in geval van het breken van de koppeling tijdens het rijden de aanhangwagen niet losraakt van het trekkend voertuig.
+16. Een aanhangwagen met een totaal maximum massa minder dan of gelijk aan 750 kg moet zijn voorzien van een extra verbinding met het trekkende voertuig zodat in geval van het breken van de koppeling tijdens het rijden de aanhangwagen niet losraakt van het trekkend voertuig.
 
 ##### Artikel 5. Technische keuring
 
@@ -143,7 +118,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 5. Indien het voertuig is uitgerust met een dekzeil maakt van de technische keuring deel uit een controle of dit dekzeil is vervaardigd van moeilijk brandbaar materiaal.
 
-6. Naast het militair keuringsdocument, bedoeld in artikel 6 van het besluit, wordt een verslag van de bevindingen opgemaakt. Het verslag wordt 18 maanden bewaard.
+6. Naast het militair keuringsdocument, bedoeld in artikel 6 van het besluit, wordt een verslag van de bevindingen opgemaakt. Het verslag wordt 18 maanden bewaard.
 
 7. De commandant van de keurende instantie is verantwoordelijk voor de uitvoering van de keuring, de schriftelijke vastlegging en het bewaren van het verslag met de bevindingen van de technische keuring.
 
@@ -161,7 +136,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 ##### Artikel 7. Typen verpakking
 
-1. Als typen verpakking wordt toegestaan UN goedgekeurde verpakkingen, herkenbaar aan het UN kenmerk, als omschreven in deel 6 van het ADR. Tevens zijn toegestaan verpakkingen welke vallen onder en voldoen aan het gestelde in de randnummers 1.6.1.3 en 1.6.1.4 van het ADR.
+1. Als typen verpakking wordt toegestaan UN goedgekeurde verpakkingen, herkenbaar aan het UN kenmerk, als omschreven in deel 6 van het ADR. Tevens zijn toegestaan verpakkingen welke vallen onder en voldoen aan het gestelde in de randnummers 1.6.1.3 en 1.6.1.4 van het ADR.
 
 2. Grote of robuuste munitie die is geassembleerd, mag slechts onverpakt dan wel geplaatst in een krat worden vervoerd, mits:
 
@@ -169,15 +144,15 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 - b. dit geschiedt op een door de commandant der strijdkrachten te bepalen route:
 
-- 1°. behorend tot het bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III) aangewezen wegennet waarover gevaarlijke stoffen mogen worden vervoerd; en
+   - 1° behorend tot het bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&hoofdstuk=III) aangewezen wegennet waarover gevaarlijke stoffen mogen worden vervoerd; en
 
-- 2°. waarvan de lengte niet meer dan 5 km bedraagt.
+   - 2° waarvan de lengte niet meer dan 5 km bedraagt.
 
 ##### Artikel 8. Aanduidingen en aanwijzingen op verpakkingen
 
 1. Verpakkingen van ontplofbare stoffen moeten ten behoeve van een veilige behandeling en juist gebruik van de verpakte voorwerpen en artikelen zijn voorzien van de door de civiele en militaire autoriteiten vastgestelde aanduidingen en aanwijzingen ter identificatie.
 
-2. Aanduidingen en aanwijzingen op verpakkingen van ontplofbare stoffen dienen in overeenstemming te zijn met het [Voorschrift inzake het merken van munitie en de verpakking van munitie 2022](onbekend). Voor zover deze voorschriften geen aanduidingen of aanwijzingen voorschrijven, dient te worden voldaan aan het gestelde in deel 5 van het ADR met betrekking tot het markeren en etiketteren van verpakkingen.
+2. Aanduidingen en aanwijzingen op verpakkingen van ontplofbare stoffen dienen in overeenstemming te zijn met het Voorschrift inzake het merken van munitie en de verpakking van munitie 2022. Voor zover deze voorschriften geen aanduidingen of aanwijzingen voorschrijven, dient te worden voldaan aan het gestelde in deel 5 van het ADR met betrekking tot het markeren en etiketteren van verpakkingen.
 
 3. De aanduidingen en aanwijzingen dienen goed leesbaar, onuitwisbaar en onbedekt te zijn en tenminste op één zijde van de verpakking te zijn aangebracht.
 
@@ -202,7 +177,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011.
-
-## Bijlage A. Model voor het militair keuringsbewijs, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=6&z=2022-09-21&g=2022-09-21)
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.

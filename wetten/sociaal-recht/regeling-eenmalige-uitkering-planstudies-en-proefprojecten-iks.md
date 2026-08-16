@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010025925, houdende regels met betrekking tot de verstrekking van een eenmalige specifieke uitkering voor het opstellen van planstudies en het uitvoeren van proefprojecten in het kader van het Innovatieprogramma Klimaatneutrale Steden (Regeling eenmalige uitkering planstudies en proefprojecten IKS)"
+citeertitel: "Regeling eenmalige uitkering planstudies en proefprojecten IKS"
 identifier: "BWBR0028862"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-19"
-last_updated: "2010-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028862"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11052343"
-version_id: "18051172"
-internal_id: "C25094661"
-label_id: "11026904"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028862/2010-10-19/0"
-intitule_bron: "Stcrt.2010-16181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-11"
-intitule_published: "2010-10-18"
-intitule_in_force: "2010-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16181"
-original_signed_date: "2010-10-11"
-original_published_date: "2010-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16181"
-entry_into_force_date: "2010-10-19"
-jci_1_3: "jci1.3:c:BWBR0028862&z=2010-10-19&g=2010-10-19"
-jci_1_0: "1.0:c:BWBR0028862&g=2010-10-19"
-citeertitel_status: "officieel"
-short_title: "Regeling eenmalige uitkering planstudies en proefprojecten IKS"
-signed_date: "2010-10-11"
-entry_into_force: "2010-10-19"
+publicatiedatum: 2010-10-19
+laatste_update: 2010-10-19
+status: geldig
+toestand: 2010-10-19
+bron: "https://wetten.overheid.nl/BWBR0028862"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010025925, houdende regels met betrekking tot de verstrekking van een eenmalige specifieke uitkering voor het opstellen van planstudies en het uitvoeren van proefprojecten in het kader van het Innovatieprogramma Klimaatneutrale Steden (Regeling eenmalige uitkering planstudies en proefprojecten IKS)
-
-Gelet [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **Innovatieprogramma Klimaatneutrale Steden:** programma dat onderdeel uitmaakt van de Innovatieagenda en het werkprogramma Schoon en Zuinig (Kamerstukken II, 2007/08, 31 209, nr. 1);
+- – *Innovatieprogramma Klimaatneutrale Steden:* programma dat onderdeel uitmaakt van de Innovatieagenda en het werkprogramma Schoon en Zuinig (Kamerstukken II, 2007/08, 31 209, nr. 1);
 
-- –. **Innovatieagenda:** Innovatieagenda Energie (Kamerstukken II, 2007/08, 31 530, nr. 1);
+- – *Innovatieagenda:* Innovatieagenda Energie (Kamerstukken II, 2007/08, 31 530, nr. 1);
 
-- –. **kennis- en leertraject:** traject gericht op het delen van kennis ten behoeve van het bereiken van een klimaatneutrale stad;
+- – *kennis- en leertraject:* traject gericht op het delen van kennis ten behoeve van het bereiken van een klimaatneutrale stad;
 
-- –. **minister:** Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- – *minister:* Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- –. **samenwerkingspartners:** andere bestuursorganen, bedrijven, instellingen of organisaties.
+- – *samenwerkingspartners:* andere bestuursorganen, bedrijven, instellingen of organisaties.
 
 ##### Artikel 2
 
@@ -88,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - d. gericht is op de procesinnovaties:
 
-- 1°. ‘een combinatie en integratie van innovaties uit de thematische innovatieprogramma’s’;
+   - 1°. ‘een combinatie en integratie van innovaties uit de thematische innovatieprogramma’s’;
 
-- 2°. ‘het ontwikkelen of implementeren van nieuwe organisatievormen’, of
+   - 2°. ‘het ontwikkelen of implementeren van nieuwe organisatievormen’, of
 
-- 3°. ‘procesinnovaties die draagvlak bij inwoners, ondernemers en maatschappelijke organisaties creëert’.
+   - 3°. ‘procesinnovaties die draagvlak bij inwoners, ondernemers en maatschappelijke organisaties creëert’.
 
 ##### Artikel 5
 
@@ -170,11 +144,11 @@ In deze regeling wordt verstaan onder:
 
 - e. dat het proefproject gericht is op:
 
-- 1°. ‘innovatie op het gebied van organisatie- en samenwerkingsvormen’;
+   - 1°. ‘innovatie op het gebied van organisatie- en samenwerkingsvormen’;
 
-- 2°. ‘het creëren van draagvlak bij burgers en lokale partijen’, en
+   - 2°. ‘het creëren van draagvlak bij burgers en lokale partijen’, en
 
-- 3°. ‘het combineren van ideeën en thema’s uit de Innovatieagenda’.
+   - 3°. ‘het combineren van ideeën en thema’s uit de Innovatieagenda’.
 
 ##### Artikel 7
 
@@ -303,5 +277,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de datum van uit
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering planstudies en proefprojecten IKS.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

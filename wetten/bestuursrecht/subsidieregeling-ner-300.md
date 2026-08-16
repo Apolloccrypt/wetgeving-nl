@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 20 december 2010, nr. WJZ / 10169116, tot vaststelling van een nationaal instrument ter uitvoering van het Besluit van de Europese Commissie van 3 november 2010 inzake NER 300 (Subsidieregeling NER 300)"
+citeertitel: "Subsidieregeling NER 300"
 identifier: "BWBR0029245"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-18"
-last_updated: "2013-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029245"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11159773"
-version_id: "18250582"
-internal_id: "C25389911"
-label_id: "11134474"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029245/2013-04-18/0"
-intitule_bron: "Stcrt.2010-21022"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-20"
-intitule_published: "2010-12-24"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21022"
-original_signed_date: "2010-12-20"
-original_published_date: "2010-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21022"
-entry_into_force_date: "2010-12-25"
-jci_1_3: "jci1.3:c:BWBR0029245&z=2013-04-18&g=2013-04-18"
-jci_1_0: "1.0:c:BWBR0029245&g=2013-04-18"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling NER 300"
-signed_date: "2010-12-20"
-entry_into_force: "2010-12-25"
+publicatiedatum: 2010-12-25
+laatste_update: 2013-04-18
+status: geldig
+toestand: 2013-04-18
+bron: "https://wetten.overheid.nl/BWBR0029245"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 20 december 2010, nr. WJZ / 10169116, tot vaststelling van een nationaal instrument ter uitvoering van het Besluit van de Europese Commissie van 3 november 2010 inzake NER 300 (Subsidieregeling NER 300)
-
-Gelet op [artikel 3 Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,47 +20,50 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **CCS-project:** een samenhangend geheel van activiteiten dat:
+- – *CCS-project:* een samenhangend geheel van activiteiten dat:
 
-- a. gericht is op het milieutechnisch veilig afvangen, transporteren en geologisch opslaan van CO2,
+   - a. gericht is op het milieutechnisch veilig afvangen, transporteren en geologisch opslaan van CO2,
 
-- b. valt onder één van de categorieën, bedoeld in bijlage 1, onderdeel A, onder I, van het NER-besluit en
+   - b. valt onder één van de categorieën, bedoeld in bijlage 1, onderdeel A, onder I, van het NER-besluit en
 
-- c. voldoet aan de eisen, bedoeld in artikel 6, eerste lid, onderdeel b, van het NER-besluit;
+   - c. voldoet aan de eisen, bedoeld in artikel 6, eerste lid, onderdeel b, van het NER-besluit;
 
-- –. **EERP:** [verordening (EG) nr. 663/2009](32009R0663) van het Europees Parlement en de Raad van 13 juli 2009 houdende vaststelling van een programma om het economisch herstel te bevorderen via financiële bijstand van de Gemeenschap aan projecten op het gebied van energie (PbEU 2009, L 200);
+- – *EERP:*
+ verordening (EG) nr. 663/2009 van het Europees Parlement en de Raad van 13 juli 2009 houdende vaststelling van een programma om het economisch herstel te bevorderen via financiële bijstand van de Gemeenschap aan projecten op het gebied van energie (PbEU 2009, L 200);
 
-- –. **ETS-richtlijn:** [richtlijn nr. 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van [Richtlijn 96/61/EG](31996L0061) van de Raad (PbEU 2003, L 275);
+- – *ETS-richtlijn:*
+ richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van en regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275);
 
-- –. **minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- – *minister:* de Minister van Economische Zaken, Landbouw en Innovatie;
 
-- –. **NER-besluit:** besluit 2010/670/EU van de Commissie van 3 november 2010 tot vaststelling van criteria en maatregelen voor de financiering van commerciële demonstratieprojecten ter bevordering van de milieutechnisch veilige afvang en geologische opslag van CO2, alsook voor demonstratieprojecten ter bevordering van innovatieve technologieën voor hernieuwbare energie in het kader van de bij [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad vastgestelde regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU 2010, L 290);
+- – *NER-besluit:* besluit 2010/670/EU van de Commissie van 3 november 2010 tot vaststelling van criteria en maatregelen voor de financiering van commerciële demonstratieprojecten ter bevordering van de milieutechnisch veilige afvang en geologische opslag van CO2, alsook voor demonstratieprojecten ter bevordering van innovatieve technologieën voor hernieuwbare energie in het kader van de bij Richtlijn 2003/87/EG van het Europees Parlement en de Raad vastgestelde regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU 2010, L 290);
 
-- –. **ondernemer:** een natuurlijke persoon, een rechtspersoon, een vennootschap of een hiermee gelijk te stellen entiteit, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
+- – *ondernemer:* een natuurlijke persoon, een rechtspersoon, een vennootschap of een hiermee gelijk te stellen entiteit, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
 
-- –. **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
+- – *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- –. **penvoerder:** de door het samenwerkingsverband aangewezen penvoerende persoon of organisatie;
+- – *penvoerder:* de door het samenwerkingsverband aangewezen penvoerende persoon of organisatie;
 
-- –. **procedureverordening:** [verordening (EG) nr. 659/1999](31999R0659) van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-verdrag (PbEG 1999, L 83);
+- – *procedureverordening:*
+ verordening (EG) nr. 659/1999 van de Raad van 22 maart 1999 tot vaststelling van nadere bepalingen voor de toepassing van artikel 93 van het EG-verdrag (PbEG 1999, L 83);
 
-- –. **RES-project:** een samenhangend geheel van activiteiten dat:
+- – *RES-project:* een samenhangend geheel van activiteiten dat:
 
-- a. gericht is op het ontwikkelen en toepassen van nieuwe technologieën voor hernieuwbare energie;
+   - a. gericht is op het ontwikkelen en toepassen van nieuwe technologieën voor hernieuwbare energie;
 
-- b. valt onder één van de categorieën bedoeld in artikel 6, eerste lid, onderdeel a, van het NER-besluit;
+   - b. valt onder één van de categorieën bedoeld in artikel 6, eerste lid, onderdeel a, van het NER-besluit;
 
-- c. voldoet aan de eisen, bedoeld in artikel 6, eerste lid, onderdeel b, van het NER-besluit;
+   - c. voldoet aan de eisen, bedoeld in artikel 6, eerste lid, onderdeel b, van het NER-besluit;
 
-- d. innovatief is, als bedoeld in artikel 6, eerste lid, onderdeel c, van het NER-besluit.
+   - d. innovatief is, als bedoeld in artikel 6, eerste lid, onderdeel c, van het NER-besluit.
 
-- –. **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
+- – *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
 
-- –. **toekenningsbesluit:** het besluit van de Europese Commissie bedoeld in artikel 5, vijfde lid, van het NER-besluit;
+- – *toekenningsbesluit:* het besluit van de Europese Commissie bedoeld in artikel 5, vijfde lid, van het NER-besluit;
 
-- –. **uitnodiging:** de uitnodiging van de Europese Commissie van 3 april 2013 (PbEU 2013, C 94) tot het indienen van voorstellen zoals bedoeld in artikel 5, eerste lid, van het NER-besluit;
+- – *uitnodiging:* de uitnodiging van de Europese Commissie van 3 april 2013 (PbEU 2013, C 94) tot het indienen van voorstellen zoals bedoeld in artikel 5, eerste lid, van het NER-besluit;
 
-- –. **voorwaardelijk toekenningsbesluit:** het toekenningsbesluit dat nog afhankelijk wordt gesteld van de in de artikel 9 van het NER-besluit genoemde voorwaarden en nog geen rechtskracht heeft.
+- – *voorwaardelijk toekenningsbesluit:* het toekenningsbesluit dat nog afhankelijk wordt gesteld van de in de artikel 9 van het NER-besluit genoemde voorwaarden en nog geen rechtskracht heeft.
 
 #### § 2. CCS-projecten
 
@@ -248,7 +225,7 @@ Indien de aanvragers van subsidie samenwerken in een samenwerkingsverband, diene
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
@@ -297,325 +274,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 36
 
 Deze regeling wordt aangehaald als: Subsidieregeling NER 300.
-
-## Bijlage 1. zoals bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=7&z=2013-04-18&g=2013-04-18), van de Subsidieregeling NER 300
-
-## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2010-12-25&g=2013-04-03), van de Subsidieregeling NER300
-
-## Bijlage 3. als bedoeld in [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=17&z=2010-12-25&g=2013-04-03), en [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=34&z=2010-12-25&g=2013-04-03), van de Subsidieregeling NER 300
-
-## Controleprotocol aangaande het geven van aanwijzingen over de reikwijdte en intensiteit van de accountantscontrole van EL&I subsidies
-
-Postal address:
-
-Postcode and place:
-
-Visit address:
-
-Postcode and place:
-
-### 1. Uitgangspunten
-
-### 1.1. Doelstelling
-
-Chamber of Commerce registration nr:
-
-De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-### 1.2. Procedures
-
-**Project name**: ....................................................
-
-De Auditdienst van EL&I kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden1Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister bij - commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt - het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden.Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie.
-
-### 1.3. Wet- en regelgeving
-
-Voor de controle van de rechtmatigheid volgens dit protocol is in ieder geval van toepassing:
-
-### 5. Signature
-
-### 2.1. Eisen voor de controleaanpak
-
-In case that the application is being submitted by a number of co-operating companies, the participants declare by signing this application that they have authorized the applicant/secretariat of the cooperation toacton their behalfand to submitthisapplication.
-
-Joint applicant 1 (participant of the cooperation)
-
-### 2.2. Goedkeuringstoleranties en gewenste zekerheid
-
-Joint applicant 3 (participant of the cooperation)
-
-Joint applicant 4 (participant of the cooperation)
-
-Joint applicant 5 (participant of the cooperation)
-
-### 2.3. Definitie rechtmatigheidsfouten en -onzekerheden
-
-The Ministry of Economic Affairs,
-
-Attn. Ir. K. Sagel
-
-NL Agency
-
-Postal address
-
-P.O. Box 10073
-
-8000 GB Zwolle, The Netherlands
-
-Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
-
-**Omgaan met geconstateerde fouten en onzekerheden**
-
-Onderscheid moet gemaakt worden tussen materiële en niet-materiële fouten.
-
-Full name of Project Sponsor (applying legal body/organization of applicant):
-
-Postal address:
-
-### 3. Verslaglegging
-
-Visit address:
-
-### Ad 1.:
-
-IBAN nr:
-
-## Bijlage
-
-| **10.3 Voorbeeldtekst basis goedkeurende accountantsverklaring bij een subsidiedeclaratie in de publieke sector** 1 |
-| --- |
-
-1 Gezien de diversiteit aan subsidieregelingen zal de basisverklaring nog aangepast moeten worden aan de specifieke situatie. Deze voorbeeldtekst is de versie per 20 februari 2008. Voor de actuele versie wordt verwezen naar de website van het NIVRA.
-
-Aan: Opdrachtgever
-
-Accountantsverklaring ...2Eventueel aan te vullen met de naam van de betreffende subsidieregeling.
-
-Afgegeven ten behoeve van ... (naam subsidiegever).
-
-Opdracht
-
-Wij hebben bijgevoegde3Indien voorgeschreven aanvullen met: ‘(en) door ons gewaarmerkte’., subsidiedeclaratie4Afhankelijk van de subsidieregeling te vervangen door een meer passende benaming.ingevolge ...5Aan te vullen met een verwijzing naar de betreffende subsidieregeling.van ... (naam entiteit) te ... (statutaire vestigingsplaats) over...(periode/jaar) gecontroleerd De subsidiedeclaratie is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit6Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’ (B.V./N.V.), ‘vereniging’, ‘stichting’ enz.. Het is onze verantwoordelijkheid een accountantsverklaring inzake de declaratie te verstrekken.
-
-Werkzaamheden
-
-Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder/en ...7Aan te vullen met een verwijzing naar de controlecriteria zoals vermeld in de relevante wet- en regelgeving, het van toepassing zijnde referentiekader of het controleprotocol. Afhankelijk van de status daarvan wordt ‘waaronder’ of ‘en’ gebruikt.Dienovereenkomstig dienen wij onze controle zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de subsidiedeclaratie geen afwijkingen van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens.
-
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-Oordeel
-
-Naar ons oordeel geeft de subsidiedeclaratie de ... in alle van materieel belang zijnde aspecten juist weer8Gekozen is voor een algemene formulering. Afhankelijk van de subsidieregeling kan het oordeel anders worden geformuleerd. Het aspect volledigheid is meestal niet van toepassing., in overeenstemming met ...9Aan te vullen met een verwijzing naar de controlecriteria zoals vastgelegd in de relevante wet- en regelgeving, in het van toepassing zijnde referentiekader of in het controleprotocol.
-
-Overige aspecten- beperking in het gebruik (en verspreidingskring)10Deze paragraaf kan, vooruitlopend op de implementatie van ISA 800 (revised) optioneel worden toegepast.
-
-De subsidiedeclaratie van ... (naam entiteit) en onze verklaring daarbij zijn uitsluitend bedoeld voor ... (naam entiteit) ter verantwoording aan ... (naam subsidiegever) en kunnen derhalve niet voor andere doeleinden worden gebruikt.
-
-Plaats, datum
-
-Naam accountantspraktijk
-
-Naam externe accountant en ondertekening met die naam
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Application form CCS-project
-
-### 1. Applicant (Project Sponsor)
-
-Full name of Project Sponsor (legal body/organization of applicant):
-
-IBAN nr:
-
-BIC-code:
-
-### 2. Project
-
-**Transboundary project □**yes □ no
-
-### 3. Form of cooperation (if applicable)
-
-**Joint applicants, i.e. participants of the cooperation if the application is made on behalf of a number of companies (if applicable):**
-
-### 4. Additional information that needs to be submitted together with this form
-
-Applicant (or the secretariat of the co-operating companies when the application is being submitted by a number of co-operating companies)
-
-Joint applicant 2 (participant of the cooperation)
-
-**This form is provided by and must be handed in at:**
-
-## Bijlage 2. als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=23&z=2013-04-18&g=2013-04-18), van de Subsidieregeling NER300
-
-### Application form RES-project
-
-### 1. Applicant (Project Sponsor)
-
-Postcode and place:
-
-Postcode and place:
-
-BIC-code:
-
-Chamber of Commerce registration nr:
-
-### 2. Project
-
-**Transboundary project**□ yes □ no
-
-**Project name**: ....................................................
-
-### 3. Form of cooperation (if applicable)
-
-**Joint applicants, i.e. participants of the cooperation if the application is made on behalf of a number of companies (if applicable):**
-
-### 4. Additional information that needs to be submitted together with this form
-
-### 5. Signature
-
-Applicant (or the secretariat of the co-operating companies when the application is being submitted by a number of co-operating companies)
-
-In case that the application is being submitted by a number of co-operating companies, the participants declare by signing this application that they have authorized the applicant/secretariat of the cooperation toacton their behalfand to submitthisapplication.
-
-Joint applicant 1 (participant of the cooperation)
-
-Joint applicant 2 (participant of the cooperation)
-
-Joint applicant 3 (participant of the cooperation)
-
-Joint applicant 4 (participant of the cooperation)
-
-Joint applicant 5 (participant of the cooperation)
-
-**This form is provided by and must be handed in at:**
-
-The Ministry of Economic Affairs,
-
-Attn. Ir. K. Sagel
-
-NL Agency
-
-Postal address
-
-P.O. Box 10073
-
-8000 GB Zwolle, The Netherlands
-
-## Bijlage 3. als bedoeld in artikelen 17, tweede lid, en 34, tweede lid, van de Subsidieregeling NER 300
-
-Vervallen
-
-## Controleprotocol aangaande het geven van aanwijzingen over de reikwijdte en intensiteit van de accountantscontrole van EL&I subsidies
-
-**behorende bij**
-
-**ACCOUNTANTSVERKLARING**
-
-**betreffende**
-
-**de subsidieverstrekking door het Ministerie van Economische Zaken, Landbouw en Innovatie ten behoeve van het project NER300**
-
-### 1. Uitgangspunten
-
-### 1.1. Doelstelling
-
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, die is belast met de controle van de, door de subsidie-ontvanger, bij het Ministerie van Economische Zaken, Landbouw en Innovatie (hierna te noemen EL&I) in te dienen aanvraag om subsidievaststelling.
-
-De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-### 1.2. Procedures
-
-**Reviewbeleid Ministerie van EL&I**
-
-De Auditdienst van EL&I kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de Auditdienst desgevraagd alle inlichtingen en bescheiden1Krachtens de Comptabiliteitswet 2001 (artikelen 43, 43a) heeft de Minister bij - commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen aan wie door de Staat of een derde voor rekening of risico van de Staat rechtstreeks of middellijk een subsidie, een lening of garantie wordt verstrekt - het recht nadere inlichtingen in te winnen n.a.v. terzake ontvangen bescheiden.Ook zijn onze Ministers bevoegd inzage te vorderen in de controledossiers van de accountant die de betreffende bescheiden heeft gecontroleerd om te bepalen of bij de vaststelling kan worden gesteund op de door deze accountant uitgevoerde controle. Met betrekking tot het verlenen van inzage in het controledossier kan de accountant zich niet beroepen op de omstandigheid dat hij op grond van andere bij of krachtens de wet opgelegde verplichtingen tot geheimhouding is verplicht van in dit dossier opgenomen vertrouwelijke gegevens. Onze Ministers zijn bevoegd van stukken inzake de betreffende controle uit de controledossiers kopieën te maken.. De eventuele extra kosten van deze accountant in verband met de review zijn niet voor rekening van het ministerie.
-
-### 1.3. Wet- en regelgeving
-
-Voor de controle van de rechtmatigheid volgens dit protocol is in ieder geval van toepassing:
-
-### 2. Controleaanpak
-
-### 2.1. Eisen voor de controleaanpak
-
-De controle dient te voldoen aan de zogenaamde nadere voorschriften Controle- en overige standaarden (NV COS), die daarvoor door het Koninklijk Nederlands Instituut van Registeraccountants (NIVRA) zijn vastgesteld.
-
-Zonder de in voorgaande alinea geformuleerde voorschriften in te perken zijn voor de controle van specifieke financiële verantwoordingen ten behoeve van de vaststelling van bijdragen vanuit het Ministerie van EL&I met name de volgende voorgeschreven controlewerkzaamheden van toepassing:
-
-### 2.2. Goedkeuringstoleranties en gewenste zekerheid
-
-Bij zijn oordeelsvorming over de naleving van de subsidievoorwaarden streeft de accountant naar een redelijke mate van zekerheid. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, moet uitgegaan worden van een betrouwbaarheid van 95 procent.
-
-Een accountantsverklaring met een goedkeurende strekking impliceert dat, gegeven eerder genoemde betrouwbaarheid, de meest waarschijnlijke fout in de financiële verantwoording niet groter is dan één procent van het totaal financieel belang van die verantwoording. De hierna vermelde tabel van toepassing.
-
-Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD).
-
-### 2.3. Definitie rechtmatigheidsfouten en -onzekerheden
-
-Van een rechtmatigheidsfout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) post niet voldoet aan de geldende wet- en regelgeving (zie ook paragraaf 1.3).
-
-Rechtmatigheidsfouten worden in absolute zin opgevat; saldering van fouten is daarom niet toegestaan.
-
-Van een rechtmatigheidsonzekerheid in het onderzoek is sprake als er onvoldoende controle-informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de eisen.
-
-Bij fouten in de verantwoording kan onderscheid gemaakt worden in incidentele en structurele fouten.
-
-Van een incidentele fout is sprake als het een toevallige fout betreft. Kenmerkend voor incidentele fouten is dat in principe geen herhaling optreedt van de geconstateerde fout.
-
-Van een structurele fout is sprake als de oorzaak van de fout is gelegen in (onderdelen van) het systeem van uitvoering, waardoor fouten met een (zeker) herhalingskarakter (kunnen) optreden. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles.
-
-Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
-
-**Omgaan met geconstateerde fouten en onzekerheden**
-
-Onderscheid moet gemaakt worden tussen materiële en niet-materiële fouten.
-
-Materiële fouten, die niet worden gecorrigeerd, leiden tot een andere dan een goedkeurende strekking van de accountantsverklaring (cf. tabel par. 2.2).
-
-Voor niet-materiële fouten, die bij de accountantscontrole blijken, is het uitgangspunt dat gevonden fouten in eerste instantie worden gecorrigeerd. Voor zover dat niet gebeurt, worden individuele fouten boven een belang van 0,1 % van het absolute financieel belang (dus geen saldering van uitgaven en inkomsten) van de financiële verantwoording door de accountant in zijn bevindingen rapport gerapporteerd. Het ministerie van EL&I beoordeelt in hoeverre deze fouten tot correcties leiden.
-
-### 3. Verslaglegging
-
-De accountant legt de uitkomsten van de controle vast in een accountantsverslag, dat bestaat uit de volgende onderdelen:
-
-### Ad 1.:
-
-Een voorbeeld van deze verklaring is opgenomen in de bijlage. Dit voorbeeld is de versie per februari 2008. Voor de actuele versie wordt verwezen naar de website van het NIVRA
-
-## Bijlage
-
-| **10.3 Voorbeeldtekst basis goedkeurende accountantsverklaring bij een subsidiedeclaratie in de publieke sector** 1 |
-| --- |
-
-1 Gezien de diversiteit aan subsidieregelingen zal de basisverklaring nog aangepast moeten worden aan de specifieke situatie. Deze voorbeeldtekst is de versie per 20 februari 2008. Voor de actuele versie wordt verwezen naar de website van het NIVRA.
-
-Aan: Opdrachtgever
-
-Accountantsverklaring ...2Eventueel aan te vullen met de naam van de betreffende subsidieregeling.
-
-Afgegeven ten behoeve van ... (naam subsidiegever).
-
-Opdracht
-
-Wij hebben bijgevoegde3Indien voorgeschreven aanvullen met: ‘(en) door ons gewaarmerkte’., subsidiedeclaratie4Afhankelijk van de subsidieregeling te vervangen door een meer passende benaming.ingevolge ...5Aan te vullen met een verwijzing naar de betreffende subsidieregeling.van ... (naam entiteit) te ... (statutaire vestigingsplaats) over...(periode/jaar) gecontroleerd De subsidiedeclaratie is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit6Afhankelijk van de aard van de entiteit te vervangen door een meer passende aanduiding zoals ‘het bestuur van de vennootschap’ (B.V./N.V.), ‘vereniging’, ‘stichting’ enz.. Het is onze verantwoordelijkheid een accountantsverklaring inzake de declaratie te verstrekken.
-
-Werkzaamheden
-
-Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder/en ...7Aan te vullen met een verwijzing naar de controlecriteria zoals vermeld in de relevante wet- en regelgeving, het van toepassing zijnde referentiekader of het controleprotocol. Afhankelijk van de status daarvan wordt ‘waaronder’ of ‘en’ gebruikt.Dienovereenkomstig dienen wij onze controle zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de subsidiedeclaratie geen afwijkingen van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens.
-
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-Oordeel
-
-Naar ons oordeel geeft de subsidiedeclaratie de ... in alle van materieel belang zijnde aspecten juist weer8Gekozen is voor een algemene formulering. Afhankelijk van de subsidieregeling kan het oordeel anders worden geformuleerd. Het aspect volledigheid is meestal niet van toepassing., in overeenstemming met ...9Aan te vullen met een verwijzing naar de controlecriteria zoals vastgelegd in de relevante wet- en regelgeving, in het van toepassing zijnde referentiekader of in het controleprotocol.
-
-Overige aspecten- beperking in het gebruik (en verspreidingskring)10Deze paragraaf kan, vooruitlopend op de implementatie van ISA 800 (revised) optioneel worden toegepast.
-
-De subsidiedeclaratie van ... (naam entiteit) en onze verklaring daarbij zijn uitsluitend bedoeld voor ... (naam entiteit) ter verantwoording aan ... (naam subsidiegever) en kunnen derhalve niet voor andere doeleinden worden gebruikt.
-
-Plaats, datum
-
-Naam accountantspraktijk
-
-Naam externe accountant en ondertekening met die naam
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

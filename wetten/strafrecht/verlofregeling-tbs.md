@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 december 2010, nr. 5679537/10/DJI, houdende regels over de verlening van een machtiging tot verlof aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden (Verlofregeling TBS)"
+citeertitel: "Verlofregeling TBS"
 identifier: "BWBR0029361"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-14"
-last_updated: "2022-01-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029361"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11191103"
-version_id: "18312442"
-internal_id: "C25496351"
-label_id: "11165484"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029361/2022-01-14/0"
-intitule_bron: "Stcrt.2010-21597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-24"
-intitule_published: "2010-12-31"
-intitule_in_force: "2010-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21597"
-original_signed_date: "2010-12-24"
-original_published_date: "2010-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21597"
-entry_into_force_date: "2011-01-02"
-jci_1_3: "jci1.3:c:BWBR0029361&z=2022-01-14&g=2022-01-14"
-jci_1_0: "1.0:c:BWBR0029361&g=2022-01-14"
-citeertitel_status: "officieel"
-short_title: "Verlofregeling TBS"
-signed_date: "2010-12-24"
-entry_into_force: "2011-01-02"
+publicatiedatum: 2011-01-02
+laatste_update: 2022-01-14
+status: geldig
+toestand: 2022-01-14
+bron: "https://wetten.overheid.nl/BWBR0029361"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 december 2010, nr. 5679537/10/DJI, houdende regels over de verlening van een machtiging tot verlof aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden (Verlofregeling TBS)
-
-Gelet op [artikel 53, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=53), en [54, vijfde lid, van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=54);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,29 +20,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **Forensisch Psychiatrisch Centrum (FPC):** inrichting voor verpleging van ter beschikking gestelden in de zin van de wet;
+- b. *Forensisch Psychiatrisch Centrum (FPC):* inrichting voor verpleging van ter beschikking gestelden in de zin van de wet;
 
-- c. **hoofd FPC:** hoofd van de inrichting voor verpleging van ter beschikking gestelden;
+- c. *hoofd FPC:* hoofd van de inrichting voor verpleging van ter beschikking gestelden;
 
-- d. **(vroeg)signaleringsplan:** een beschrijving van gedragingen van een ter beschikking gestelde of anderszins verpleegde die een aanwijzing kunnen zijn voor een verhoogd recidiverisico en de maatregelen om de risico’s onder controle te houden;
+- d. *(vroeg)signaleringsplan:* een beschrijving van gedragingen van een ter beschikking gestelde of anderszins verpleegde die een aanwijzing kunnen zijn voor een verhoogd recidiverisico en de maatregelen om de risico’s onder controle te houden;
 
-- e. **terugvalpreventieplan:** een beschrijving van de wijze waarop de dynamische risicofactoren (voor recidive) van een ter beschikking gestelde of anderszins verpleegde onder controle worden of kunnen worden gebracht en gehouden;
+- e. *terugvalpreventieplan:* een beschrijving van de wijze waarop de dynamische risicofactoren (voor recidive) van een ter beschikking gestelde of anderszins verpleegde onder controle worden of kunnen worden gebracht en gehouden;
 
-- f. **slachtofferonderzoek:** een analyse van mogelijke gevolgen en veiligheidsrisico’s van verlofverlening aan een ter beschikking gestelde of anderszins verpleegde voor het slachtoffer of zijn omgeving;
+- f. *slachtofferonderzoek:* een analyse van mogelijke gevolgen en veiligheidsrisico’s van verlofverlening aan een ter beschikking gestelde of anderszins verpleegde voor het slachtoffer of zijn omgeving;
 
-- g. **risicotaxatie:** een inschatting van het toekomstig delictrisico en vluchtgevaar van een ter beschikking gestelde of anderszins verpleegde;
+- g. *risicotaxatie:* een inschatting van het toekomstig delictrisico en vluchtgevaar van een ter beschikking gestelde of anderszins verpleegde;
 
-- h. **risicomanagement:** de wijze waarop het delictrisico via behandeling of anderszins tot een aanvaardbaar niveau wordt teruggebracht;
+- h. *risicomanagement:* de wijze waarop het delictrisico via behandeling of anderszins tot een aanvaardbaar niveau wordt teruggebracht;
 
-- i. **verlofplan:** een beschrijving van de doelstellingen van het verlof van een ter beschikking gestelde of anderszins verpleegde, de plaats van het verlof binnen de behandeling, de voorwaarden waaronder het verlof plaats kan vinden alsmede de wijze waarop de risicofactoren onder controle worden gehouden;
+- i. *verlofplan:* een beschrijving van de doelstellingen van het verlof van een ter beschikking gestelde of anderszins verpleegde, de plaats van het verlof binnen de behandeling, de voorwaarden waaronder het verlof plaats kan vinden alsmede de wijze waarop de risicofactoren onder controle worden gehouden;
 
-- j. **AVt:** Adviescollege Verloftoetsing tbs;
+- j. *AVt:* Adviescollege Verloftoetsing tbs;
 
-- k. **vervolgvoorziening:** een instelling waar de behandeling van de ter beschikking gestelde of anderszins verpleegde kan worden gecontinueerd of hem een langdurig verblijf met passend toezicht en begeleiding kan worden geboden;
+- k. *vervolgvoorziening:* een instelling waar de behandeling van de ter beschikking gestelde of anderszins verpleegde kan worden gecontinueerd of hem een langdurig verblijf met passend toezicht en begeleiding kan worden geboden;
 
-- l. **uitstroomplan:** een op de persoon toegesneden volgtijdelijk overzicht van resocialisatiestappen gericht op plaatsing in een vervolgvoorziening.
+- l. *uitstroomplan:* een op de persoon toegesneden volgtijdelijk overzicht van resocialisatiestappen gericht op plaatsing in een vervolgvoorziening.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -271,183 +245,3 @@ Deze regeling is van toepassing op alle verlofaanvragen die na twee maanden na d
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling wordt aangehaald als: Verlofregeling TBS.
-
-## Bijlage
-
-### Format verlofaanvragen ten behoeve van ter beschikking gestelden en anderszins verpleegden
-
-Persoons- en aanvraaggegevens
-
-[datum]
-
-Beschrijving van de aanvraag ter inleiding, deze bevat tenminste:
-
-Mits-nummer:
-
-Hierbij zenden wij u [de aanmelding]/ [de aanvraag]/ [het advies] met bijlagen ten behoeve van [naam patiënt], geboren [datum] te [plaats]
-
-### 1.2. Verloop tbs maatregel
-
-### 1.3. Korte biografische schets tot oplegging huidige maatregel
-
-### 1.4. Strafrechtelijk verloop van de criminogene ontwikkeling tot oplegging huidige maatregel
-
-### 1.5. Behandelgeschiedenis tot oplegging huidige maatregel
-
-### 1.6. Behandelgeschiedenis van oplegging huidige maatregel, advies of aanvraag
-
-### Box 2. (Delict)diagnostiek
-
-### 2.1. Diagnostiek
-
-### 2.2. Delicttheorie op basis van de delictanalyse
-
-### 2.3. Delictgerelateerde criminogene factoren
-
-### 2.4. Indien aan de orde, ander risicovol gedrag
-
-### Box 3. Behandeling
-
-### 3.1. Behandeling per delictgerelateerde criminogene factor
-
-### 3a.2. Medicatie
-
-### 3.2. Behandelverloop huidige FPC (focus op het afgelopen jaar)
-
-### 3.3. Incidenten
-
-### Box 4. Risicotaxatie en risicomanagement
-
-### 4.1. Beknopte weergave ingevulde risicotaxatie-instrumenten
-
-### 4.2. Welke risico’s kunnen ontstaan bij deze aanvraag of dit advies?
-
-### 4.3. Recidiverisico, inclusief schadekansen, en risico op ongeoorloofde afwezigheid
-
-### Box 4. Risicotaxatie en Risicomanagement
-
-### Box 5. Aanvraag verlofmodaliteit en (proef)verlofplan
-
-### 4a.3. Slachtoffergerichte voorwaarden
-
-### Box 5. aanvraag verlofmodaliteit en (proef)verlofplan
-
-### Box 5. Verlofplan
-
-### 5.1. Verlofmodaliteit en de datum akkoord interne verloftoetsingscommissie
-
-Overig:
-
-### 5.3. (proef)Verlofplan: verlofgerelateerd risicomanagement, waaronder verlofvoorwaarden
-
-### 5.4. (proef)Verlofplan: stappenplan
-
-Toegevoegd:
-
-### 5.6. Relatie met andere adviezen/beslissingen
-
-### 5.7. Verloop eerder verlof
-
-### 5.8. Voorwaarden begeleid verlof bij vreemdelingen
-
-### Box 5a. Slachtofferonderzoek en maatschappelijke gevoeligheid
-
-### Box 8a. Bijlage evaluatie proefverlof
-
-[datum]
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Box 0. Samenvatting
-
-### Box 1. Voorgeschiedenis
-
-### 1.1. Indexdelict
-
-**Indien het proefverlof betreft, kan “begeleiding” worden gelezen waar “behandeling” staat vermeld.**
-
-**Indien evaluatie proefverlof: in deze box alleen 5.1, 5.2, 5.3, en 5.7 invullen**
-
-Toegevoegd:
-
-Toegevoegd:
-
-Korte vermelding/opsomming interventies: betrokkene heeft meegewerkt aan een delictanalyse, schematherapie, een middelenanalyse, etc.
-
-Toegevoegd:
-
-Verplaatst:
-
-Toegevoegd:
-
-Verplaatst:
-
-Toegevoegd:
-
-**Indien evaluatie proefverlof: in deze box alleen 5.1, 5.2, 5.3 en 5.7 invullen**
-
-**Indien tbs-gestelde zonder geldige verblijfstatus in Nederland, ook 5.8 invullen**
-
-Verplaatst:
-
-Bij een evaluatie proefverlof zijn niet alle boxen relevant. In het huidige format vult de kliniek de boxen 3a, 4a en 5a in. In het nieuwe format kunnen box 3 en 4 worden toegepast op de evaluatie proefverlof. Voor box 5 geldt dat alleen 5.1, 5.2, 5.3 en 5.7 ingevuld dienen te worden. Het stappenplan, de koers en prognose en de MD-rapportages vallen daarmee weg. In de meeste gevallen zullen deze niet afwijken van eerdere aanvragen of bevindingen.
-
-Toegevoegd:
-
-**In geval er gesproken wordt over het slachtoffer wordt bedoeld alle slachtoffers van het indexdelict en/of hun omgeving (bijvoorbeeld nabestaanden).**
-
-kenmerk:
-
-Mits-nummer:
-
-Hierbij zenden wij u [de aanmelding]/[de aanvraag]/[het advies] met bijlagen ten behoeve van [naam patiënt], geboren [datum] te [plaats]
-
-### 5a.5. Maatschappelijke gevoeligheid
-
-### 5a.6. Slotsom
-
-### Box 3. Behandelverloop tot de aanvraag
-
-### Box 8. Houding ter beschikking gestelde
-
-### 8.1. Houding van de ter beschikking gestelde ten aanzien van het indexdelict
-
-### 8.2. Houding van de ter beschikking gestelde ten aanzien van het slachtoffer
-
-### 8.3. Reactie van ter beschikking gestelde bij bespreken onderliggende rapportage
-
-### 8.4. Overeenstemming over het te volgen traject
-
-**Verlofplan**
-
-Op [datum] heeft het (wnd.) hoofd van het FPC op advies van de multidisciplinaire vergadering **(advies uitgebracht d.d)** ingestemd met het verlofvoorstel van [naam patiënt].
-
-### Box 8. Samenvatting van de verlofaanvraag
-
-### Box 8a. Bijlage evaluatie proefverlof
-
-Meegestuurde bijlagen door FPC:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Persoons- en aanvraaggegevens
-
-Bondig gemotiveerd consensusoordeel in termen van laag, matig of hoog over:
-
-**Indien verlengingsadvies: in deze box alleen 5.2, 5.5 en 5.6 invullen**
-
-### 5.2. (proef)Verlofplan: plaats van het verlof in de behandeling en verlofdoelen
-
-### 5.5. Koers en prognose
-
-### 5a.1. Relatie tot het slachtoffer
-
-### 5a.2. Confrontatie en geografie
-
-### 5a.3. Slachtofferschuld
-
-### 5a.4. Informatie
-
-Afwegingen in het slachtofferonderzoek en de maatschappelijke gevoeligheid
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

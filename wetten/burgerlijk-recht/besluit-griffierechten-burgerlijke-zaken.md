@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 oktober 2010, houdende vaststelling van de griffierechten en de bedragen, bedoeld in de artikelen 21, tweede lid, respectievelijk 26 van de Wet griffierechten burgerlijke zaken, alsmede het tarief en de vergoedingen, bedoeld in de artikelen 597 respectievelijk 838 van het Wetboek van Burgerlijke Rechtsvordering en tot intrekking van het Besluit tarieven in burgerlijke zaken (Besluit griffierechten burgerlijke zaken)"
+citeertitel: "Besluit griffierechten burgerlijke zaken"
 identifier: "BWBR0028901"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-11-01"
-last_updated: "2010-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028901"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "11062463"
-version_id: "18074832"
-internal_id: "C25139621"
-label_id: "11036944"
-dtd_version: "2.0"
-original_entry_into_force: "2010-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028901/2010-11-01/0"
-intitule_bron: "Stb.2010-727"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-26"
-intitule_published: "2010-10-28"
-intitule_in_force: "2010-10-28"
-intitule_status: "goed"
-original_publication: "Stb.2010-727"
-original_signed_date: "2010-10-26"
-original_published_date: "2010-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-727"
-entry_into_force_date: "2010-11-01"
-jci_1_3: "jci1.3:c:BWBR0028901&z=2010-11-01&g=2010-11-01"
-jci_1_0: "1.0:c:BWBR0028901&g=2010-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit griffierechten burgerlijke zaken"
-signed_date: "2010-10-26"
-entry_into_force: "2010-11-01"
+publicatiedatum: 2010-11-01
+laatste_update: 2010-11-01
+status: geldig
+toestand: 2010-11-01
+bron: "https://wetten.overheid.nl/BWBR0028901"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 26 oktober 2010, houdende vaststelling van de griffierechten en de bedragen, bedoeld in de artikelen 21, tweede lid, respectievelijk 26 van de Wet griffierechten burgerlijke zaken, alsmede het tarief en de vergoedingen, bedoeld in de artikelen 597 respectievelijk 838 van het Wetboek van Burgerlijke Rechtsvordering en tot intrekking van het Besluit tarieven in burgerlijke zaken (Besluit griffierechten burgerlijke zaken)
-
-Op de voordracht van Onze Minister van Justitie van 30 juni 2010, nr. 5658605/10/6;
-
-Gelet op de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=21), en [26 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=26) en [597, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=597), en [838, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=838);
-
-De Raad van State gehoord (advies van 14 juli 2010, nr. W03.10.0271/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 20 oktober 2010, nr. 5672492/10/6;
-
-Hebben goed gevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de artikelen 21, tweede lid, en 26 van de Wet griffierechten burgerlijke zaken in werking treden.
 
 ##### Artikel 1
 
@@ -76,27 +42,27 @@ Met betrekking tot de griffierechten, verschuldigd voor de verstrekking van afsc
 
 ##### Artikel 4
 
-Wijzigt het Besluit boedelregister.
+*Wijzigt het Besluit boedelregister.*
 
 ##### Artikel 5
 
-Wijzigt het Besluit curateleregister.
+*Wijzigt het Besluit curateleregister.*
 
 ##### Artikel 6
 
-Wijzigt het Besluit gezagsregisters.
+*Wijzigt het Besluit gezagsregisters.*
 
 ##### Artikel 7
 
-Wijzigt het Besluit Huwelijksgoederenregister 1969.
+*Wijzigt het Besluit Huwelijksgoederenregister 1969.*
 
 ##### Artikel 8
 
-Wijzigt het Besluit ex artikel 810a Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Besluit ex artikel 810a Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel 9
 
-Wijzigt het Reglement voor de Kamer voor de Binnenvisserij 1964.
+*Wijzigt het Reglement voor de Kamer voor de Binnenvisserij 1964.*
 
 ##### Artikel 10
 
@@ -113,5 +79,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [artikelen 21, tweede li
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als Besluit griffierechten burgerlijke zaken.
-
-Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.

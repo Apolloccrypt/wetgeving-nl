@@ -1,55 +1,31 @@
 ---
 title: "Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES"
 identifier: "BWBR0028709"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028709"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "10938103"
-version_id: "17923712"
-internal_id: "C24848121"
-label_id: "10912694"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028709/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14609"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14609"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028709&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028709&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028709"
+opgehaald: 2026-08-16
 ---
-# Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
+# Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
+- a. *de wet:* de [Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519);
 
-- b. **de Inspecteur:** de Inspecteur voor Geneesmiddelen;
+- b. *de Inspecteur:* de Inspecteur voor Geneesmiddelen;
 
-- c. **middel:** elke stof, of enige bereiding daarvan, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4) of aangewezen krachtens artikel 3, het eerste lid, onder f, van de wet.
+- c. *middel:* elke stof, of enige bereiding daarvan, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4) of aangewezen krachtens artikel 3, het eerste lid, onder f, van de wet.
 
-- d. **gevestigde apotheker:** apotheker, ingeschreven in het register van apothekers die de artsenijbereidkunde uitoefenen, zoals bedoeld in [artikel 7, eerste lid van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=7);
+- d. *gevestigde apotheker:* apotheker, ingeschreven in het register van apothekers die de artsenijbereidkunde uitoefenen, zoals bedoeld in [artikel 7, eerste lid van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=7);
 
-- e. **het verdrag:** het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129).
+- e. *het verdrag:* het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129).
 
 ##### Artikel 2
 
@@ -67,27 +43,27 @@ De apotheker houdt van deze aflevering een nauwkeurig register bij waarin vermel
 
 - A. in geval het recept strekt ter aflevering van een middel aan een persoon ten behoeve van wie het wordt voorgeschreven dan wel aan de eigenaar of houder van een dier ten behoeve van hetwelk het wordt voorgeschreven:
 
-- 1°. de naam en voorletters, alsmede het volledig adres en telefoonnummer van degene die voorschrijft;
+   - 1°. de naam en voorletters, alsmede het volledig adres en telefoonnummer van degene die voorschrijft;
 
-- 2°. de datum waarop het middel wordt voorgeschreven;
+   - 2°. de datum waarop het middel wordt voorgeschreven;
 
-- 3°. de naam van het middel, de sterkte alsmede voluit in letters geschreven de hoeveelheid van het middel;
+   - 3°. de naam van het middel, de sterkte alsmede voluit in letters geschreven de hoeveelheid van het middel;
 
-- 4°. de naam, voorletters, alsmede het volledig adres van de persoon ten behoeve van wie het middel wordt voorgeschreven dan wel de naam en voorletters alsmede het volledig adres van de eigenaar of houder van het dier ten behoeve van hetwelk het middel wordt voorgeschreven, onder aanduiding van het dier;
+   - 4°. de naam, voorletters, alsmede het volledig adres van de persoon ten behoeve van wie het middel wordt voorgeschreven dan wel de naam en voorletters alsmede het volledig adres van de eigenaar of houder van het dier ten behoeve van hetwelk het middel wordt voorgeschreven, onder aanduiding van het dier;
 
-- 5°. een duidelijke omschrijving van de wijze van gebruik, waaronder begrepen de maximaal per etmaal te gebruiken hoeveelheid, met dien verstande dat aanduidingen als ‘gebruik bekend’, ‘alsvoren’ en dergelijke, niet geacht worden de wijze van gebruik aan te geven.
+   - 5°. een duidelijke omschrijving van de wijze van gebruik, waaronder begrepen de maximaal per etmaal te gebruiken hoeveelheid, met dien verstande dat aanduidingen als ‘gebruik bekend’, ‘alsvoren’ en dergelijke, niet geacht worden de wijze van gebruik aan te geven.
 
 - B. In geval een middel wordt voorgeschreven ten behoeve van een persoon of dier, doch moet worden afgeleverd door tussenkomst van degene die voorschrijft, mits degene die voorschrijft gevestigd is op hetzelfde eiland als waarop de apotheker of de apotheekhoudende geneeskundige, aan wie het voorschrift ter gereedmaking wordt aangeboden, gevestigd is:
 
-- 1°. de gegevens, genoemd onder A, 1°–4°;
+   - 1°. de gegevens, genoemd onder A, 1°–4°;
 
-- 2°. de woorden ‘in manu medici’ of een aanduiding van gelijke strekking.
+   - 2°. de woorden ‘in manu medici’ of een aanduiding van gelijke strekking.
 
 - C. In geval een middel is bestemd ter toediening in de praktijk van degene die voorschrijft, mits degene die voorschrijft gevestigd is op hetzelfde eiland als waar op de apotheker of de apotheekhoudende geneeskundige, aan wie het voorschrift ter gereedmaking wordt aangeboden, gevestigd is:
 
-- 1°. de gegevens, genoemd onder A, 1°–3°;
+   - 1°. de gegevens, genoemd onder A, 1°–3°;
 
-- 2°. de woorden ‘tot uitoefening der geneeskunde’, ‘tot uitoefening der tandheelkunde’ of tot ‘uitoefening der diergeneeskunde’.
+   - 2°. de woorden ‘tot uitoefening der geneeskunde’, ‘tot uitoefening der tandheelkunde’ of tot ‘uitoefening der diergeneeskunde’.
 
 2. Een in het eerste lid bedoeld recept moet door degene die het voorschrijft met inkt zijn geschreven en zijn voorzien van zijn volledige handtekening.
 
@@ -95,19 +71,19 @@ De apotheker houdt van deze aflevering een nauwkeurig register bij waarin vermel
 
 4. Een recept als bedoeld in het eerste lid van dit artikel is slechts geldig voor eenmalige aflevering. Voor iedere volgende aflevering van de middelen bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=1&z=2010-10-10&g=2010-10-10) van de beschikking is een nieuw recept vereist.
 
-- a. Het gestelde in lid 1 tot en met 4 geldt niet ten aanzien van recepten waarop een bereiding is voorgeschreven die geen andere dan een van de middelen bevat zoals vermeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5a&z=2010-10-10&g=2010-10-10) van deze beschikking; een en ander voor zover een bereiding van een der aldaar genoemde middelen niet meer bevat dan het desbetreffende maximum zoals vermeld op lijst III, behorende bij het verdrag.
+5. - a. Het gestelde in lid 1 tot en met 4 geldt niet ten aanzien van recepten waarop een bereiding is voorgeschreven die geen andere dan een van de middelen bevat zoals vermeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5a&z=2010-10-10&g=2010-10-10) van deze beschikking; een en ander voor zover een bereiding van een der aldaar genoemde middelen niet meer bevat dan het desbetreffende maximum zoals vermeld op lijst III, behorende bij het verdrag.
 
 - b. Het recept waarop een der onder a. bedoelde bereidingen is voorgeschreven dient duidelijk te vermelden:
 
-- 1. de datum waarop de bereiding is voorgeschreven;
+   - 1. de datum waarop de bereiding is voorgeschreven;
 
-- 2. de naam en voorletters, alsmede het volledig adres en telefoonnummer van degene die voorschrijft;
+   - 2. de naam en voorletters, alsmede het volledig adres en telefoonnummer van degene die voorschrijft;
 
-- 3. de naam van de patiënt of het dier of cijfers en letters ter vervanging daarvan;
+   - 3. de naam van de patiënt of het dier of cijfers en letters ter vervanging daarvan;
 
-- 4. een omschrijving van het gebruik van de bereiding;
+   - 4. een omschrijving van het gebruik van de bereiding;
 
-- 5. de handtekening van degene die voorschrijft.
+   - 5. de handtekening van degene die voorschrijft.
 
 ##### Artikel 4
 
@@ -159,21 +135,21 @@ Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarm
 
 - a. preparaten van: of voor zover het preparaat een of meer andere bestanddelen bevat en per doseringseenheid niet meer dan 100 mg van genoemde substantie bevat, dan wel, ingeval het een onverdeeld preparaat betreft, de concentratie van die substantie in het preparaat niet meer bedraagt dan 2,5 procent;
 
-- 1°. acetyldihydrocodeïne;
+   - 1°. acetyldihydrocodeïne;
 
-- 2°. codeïne;
+   - 2°. codeïne;
 
-- 3°. dihydrocodeïne;
+   - 3°. dihydrocodeïne;
 
-- 4°. ethylmorfine;
+   - 4°. ethylmorfine;
 
-- 5°. folcodine;
+   - 5°. folcodine;
 
-- 6°. nicocodine;
+   - 6°. nicocodine;
 
-- 7°. nicodicodine;
+   - 7°. nicodicodine;
 
-- 8°. norcodeïne
+   - 8°. norcodeïne
 
 - b. preparaten van propiram die niet meer dan 100 mg propiram per doseringseenheid bevatten en waaraan ten minste een gelijke hoeveelheid methylcellulose is toegevoegd;
 
@@ -252,13 +228,3 @@ In geval het een postzending betreft, moet het bewijs van ontvangst binnen drie 
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES.
-
-## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5a&z=2010-10-10&g=2010-10-10) van de Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES
-
-- a. de volgende op Lijst I van de Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES vermelde middelen: acetylmethadol alfacetylmethadol alfentanil amfetamine bezitramide cocaïne codeïne dexamfetamine dextromoramide dextropropoxyfeen difenoxylaat dihydrocodeïne ethylmorfine fentanyl hydrocodon hydromorfon metamfetamine metamfetamine racemaat methadon methylfenidaat morfine nicomorfine opium oxycodon pethidine piritramide remifentanil secobarbital sufentanil ∆-9-tetrahydrocannabinol
-
-- b. de middelen vermeld op Lijst II van de Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES, met uitzondering van hasjiesj,
-
-- c. de zouten, esters, ethers en enantiomeren van de bovengenoemde substanties,
-
-- d. preparaten van vorenstaande opiumwetmiddelen, voor zover deze geen opiumwetmiddelen bevatten die niet in deze bijlage worden genoemd.

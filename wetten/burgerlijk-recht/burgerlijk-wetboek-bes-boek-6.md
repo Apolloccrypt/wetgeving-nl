@@ -1,45 +1,23 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 6"
 identifier: "BWBR0028749"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028749"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10968533"
-version_id: "17958602"
-internal_id: "C25012451"
-label_id: "10946094"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028749/2010-10-10/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028749&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028749&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028749"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 6
 
 ## Boek 6. Algemeen gedeelte van het verbintenissenrecht
 
-## Titel 1. Verbintenissen in het algemeen
+### Titel 1. Verbintenissen in het algemeen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -73,7 +51,7 @@ Op natuurlijke verbintenissen zijn de wettelijke bepalingen betreffende verbinte
 
 3. Op de overeenkomst zijn de bepalingen betreffende schenkingen en giften niet van toepassing.
 
-### Afdeling 2. Pluraliteit van schuldenaren en hoofdelijke verbondenheid
+#### Afdeling 2. Pluraliteit van schuldenaren en hoofdelijke verbondenheid
 
 ##### Artikel 6
 
@@ -135,7 +113,7 @@ Op de rechtsbetrekkingen tussen de hoofdelijke schuldenaren onderling is [artike
 
 Afstand door de schuldeiser van zijn vorderingsrecht jegens een hoofdelijke schuldenaar bevrijdt deze niet van zijn verplichting tot bijdragen. De schuldeiser kan hem niettemin van zijn verplichting tot bijdragen jegens een medeschuldenaar bevrijden door zich jegens deze laatste te verbinden zijn vordering op hem te verminderen met het bedrag dat als bijdrage gevorderd had kunnen worden.
 
-### Afdeling 3. Pluraliteit van schuldeisers
+#### Afdeling 3. Pluraliteit van schuldeisers
 
 ##### Artikel 15
 
@@ -149,7 +127,7 @@ Afstand door de schuldeiser van zijn vorderingsrecht jegens een hoofdelijke schu
 
 Wanneer met de schuldenaar is overeengekomen dat twee of meer personen als schuldeiser de prestatie van hem voor het geheel kunnen vorderen, met dien verstande dat de voldoening aan de een hem ook jegens de anderen bevrijdt, doch in de onderlinge verhouding van die personen de prestatie niet aan hen allen gezamenlijk toekomt, zijn op hun rechtsverhouding jegens de schuldenaar de in geval van gemeenschap geldende regels van overeenkomstige toepassing.
 
-### Afdeling 4. Alternatieve verbintenissen
+#### Afdeling 4. Alternatieve verbintenissen
 
 ##### Artikel 17
 
@@ -175,7 +153,7 @@ Een alternatieve verbintenis wordt enkelvoudig door het uitbrengen van de keuze 
 
 2. Indien de keuze aan de schuldenaar toekomt, is deze echter niet bevoegd een onmogelijke prestatie te kiezen, tenzij de onmogelijkheid een gevolg is van een aan de schuldeiser toe te rekenen oorzaak of deze met de keuze instemt.
 
-### Afdeling 5. Voorwaardelijke verbintenissen
+#### Afdeling 5. Voorwaardelijke verbintenissen
 
 ##### Artikel 21
 
@@ -205,7 +183,7 @@ Is een krachtens een verbintenis onder opschortende voorwaarde verschuldigde pre
 
 Op voorwaardelijke verbintenissen zijn de bepalingen betreffende onvoorwaardelijke verbintenissen van toepassing, voor zover het voorwaardelijk karakter van de betrokken verbintenis zich daartegen niet verzet.
 
-### Afdeling 6. Nakoming van verbintenissen
+#### Afdeling 6. Nakoming van verbintenissen
 
 ##### Artikel 27
 
@@ -353,7 +331,7 @@ Slechts met toestemming van de schuldeiser kan een schuldenaar zich van zijn ver
 
 3. Is de gestelde zekerheid door een niet aan de schuldeiser toe te rekenen oorzaak onvoldoende geworden, dan is de schuldenaar verplicht haar aan te vullen of te vervangen.
 
-### Afdeling 7. Opschortingsrechten
+#### Afdeling 7. Opschortingsrechten
 
 ##### Artikel 52
 
@@ -387,7 +365,7 @@ Een bevoegdheid tot opschorting blijft ook na verjaring van de rechtsvordering o
 
 Indien een bevoegdheid tot opschorting voldoet aan de omschrijving van het retentierecht in [artikel 290 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=290), is deze afdeling van toepassing, voor zover daarvan in [titel 10, afdeling 4, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=4) niet is afgeweken.
 
-### Afdeling 8. Schuldeisersverzuim
+#### Afdeling 8. Schuldeisersverzuim
 
 ##### Artikel 58
 
@@ -457,7 +435,7 @@ In geval van hoofdelijke verbondenheid gelden de rechtsgevolgen van het verzuim 
 
 Weigert de schuldeiser een aanbod van een derde, dan zijn de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2010-10-10&g=2010-10-10), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=1&afdeling=8&artikel=62&z=2010-10-10&g=2010-10-10), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=1&afdeling=8&artikel=63&z=2010-10-10&g=2010-10-10) en [66 tot en met 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2010-10-10&g=2010-10-10) ten behoeve van de derde van overeenkomstige toepassing, mits het aanbod aan de verbintenis beantwoordt en de derde bij de voldoening een gerechtvaardigd belang heeft.
 
-### Afdeling 9. De gevolgen van het niet nakomen van een verbintenis
+#### Afdeling 9. De gevolgen van het niet nakomen van een verbintenis
 
 #### § 1. Algemene bepalingen
 
@@ -591,7 +569,7 @@ Voor het vorderen van nakoming van het boetebeding is een aanmaning of een ander
 
 3. Van het eerste lid afwijkende bedingen zijn nietig.
 
-### Afdeling 10. Wettelijke verplichtingen tot schadevergoeding
+#### Afdeling 10. Wettelijke verplichtingen tot schadevergoeding
 
 ##### Artikel 95
 
@@ -705,7 +683,7 @@ Indien iemand die op grond van onrechtmatige daad of een tekortkoming in de nako
 
 Opdat de aansprakelijkheid die ter zake van schade kan ontstaan, niet hetgeen redelijkerwijs door verzekering kan worden gedekt, te boven gaat, kunnen bij algemene maatregel van bestuur bedragen worden vastgesteld, waarboven de aansprakelijkheid zich niet uitstrekt. Afzonderlijke bedragen kunnen worden bepaald naar gelang van onder meer de aard van de gebeurtenis, de aard van de schade en de grond van de aansprakelijkheid.
 
-### Afdeling 11. Verbintenissen tot betaling van een geldsom
+#### Afdeling 11. Verbintenissen tot betaling van een geldsom
 
 ##### Artikel 111
 
@@ -789,7 +767,7 @@ Wordt de verbintenis als gevolg van toepassing van de [artikelen 121 tot en met 
 
 Voor de toepassing van deze afdeling geldt als koers de koers tegen welke de schuldeiser zich onverwijld het geld kan verschaffen, zulks met inachtneming van hetgeen uit wet, gewoonte en inhoud of strekking van de verbintenis mocht voortvloeien.
 
-### Afdeling 12. Verrekening
+#### Afdeling 12. Verrekening
 
 ##### Artikel 127
 
@@ -887,9 +865,9 @@ De rechter kan een vordering ondanks een beroep van de gedaagde op verrekening t
 
 Indien een verbintenis geheel of gedeeltelijk door verrekening tenietgaat, is [artikel 48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-## Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
+### Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
 
-### Afdeling 1. Gevolgen van overgang van vorderingen
+#### Afdeling 1. Gevolgen van overgang van vorderingen
 
 ##### Artikel 142
 
@@ -939,7 +917,7 @@ De [artikelen 146](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeld
 
 3. Het eerste en het tweede lid zijn van overeenkomstige toepassing ter zake van de uitoefening van een bevoegdheid van de schuldenaar tot vernietiging of ontbinding, nadat op de vordering met mededeling aan hem een beperkt recht is gevestigd.
 
-### Afdeling 2. Subrogatie
+#### Afdeling 2. Subrogatie
 
 ##### Artikel 150
 
@@ -975,7 +953,7 @@ In het geval van subrogatie in de hoofdvordering verkrijgt de gesubrogeerde het 
 
 De schuldeiser is jegens degene die, zo hij de vordering voldoet, zal worden gesubrogeerd, verplicht zich te onthouden van elke gedraging die ten koste van deze afbreuk doet aan de rechten waarin hij mag verwachten krachtens de subrogatie te zullen treden.
 
-### Afdeling 3. Schuld- en contractsoverneming
+#### Afdeling 3. Schuld- en contractsoverneming
 
 ##### Artikel 155
 
@@ -1031,9 +1009,9 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 3. Tenietgaan van een verbintenis door vermenging laat de op de vordering rustende rechten van derden onverlet.
 
-## Titel 3. Onrechtmatige daad
+### Titel 3. Onrechtmatige daad
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 162
 
@@ -1081,7 +1059,7 @@ Elk der partijen heeft voor het gedeelte van de kosten van het geding en van de 
 
 3. Wordt aan een veroordeling tot schadevergoeding of tot het stellen van zekerheid daarvoor niet voldaan, dan kan de rechter alsnog een verbod van de gedraging opleggen.
 
-### Afdeling 2. Aansprakelijkheid voor personen en zaken
+#### Afdeling 2. Aansprakelijkheid voor personen en zaken
 
 ##### Artikel 169
 
@@ -1161,7 +1139,7 @@ De bezitter van een dier is aansprakelijk voor de door het dier aangerichte scha
 
 2. Indien de maatregelen, bedoeld in het eerste lid, door een ander worden genomen dan degene die de schade zou hebben geleden ter zake waarvan de ernstige en onmiddellijke dreiging is ontstaan, kan deze ander slechts vergoeding van de in het eerste lid bedoelde kosten, schaden en verliezen vorderen, voor zover zij gevorderd hadden kunnen worden door degene die de dreigende schade zou hebben geleden, en kan de aangesprokene jegens die ander hetzelfde verweer voeren als hem jegens deze ten dienste zou hebben gestaan.
 
-### Afdeling 3. Productenaansprakelijkheid
+#### Afdeling 3. Productenaansprakelijkheid
 
 ##### Artikel 185
 
@@ -1239,7 +1217,7 @@ Indien verschillende personen op grond van [artikel 185, eerste lid](https://wet
 
 Het recht op schadevergoeding jegens de producent uit hoofde van deze afdeling komt de benadeelde toe, onverminderd alle andere rechten of vorderingen.
 
-### Afdeling 4. Misleidende reclame
+#### Afdeling 4. Misleidende reclame
 
 ##### Artikel 194
 
@@ -1279,9 +1257,9 @@ of dreigt toe te brengen, kan de rechter hem op vordering van die ander niet all
 
 2. Indien de vordering wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in [artikel 195, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=3&afdeling=4&artikel=195&z=2010-10-10&g=2010-10-10), bedoelde schade, is [artikel 167, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=3&afdeling=1&artikel=167&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-## Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
+### Titel 4. Verbintenissen uit andere bron dan onrechtmatige daad of overeenkomst
 
-### Afdeling 1. Zaakwaarneming
+#### Afdeling 1. Zaakwaarneming
 
 ##### Artikel 198
 
@@ -1307,7 +1285,7 @@ Een zaakwaarnemer is bevoegd rechtshandelingen te verrichten in naam van de bela
 
 Heeft iemand die is opgetreden ter behartiging van eens anders belang, zich zonder redelijke grond daarmee ingelaten of dit belang niet naar behoren behartigd, dan kan de belanghebbende door goedkeuring van het optreden zijn bevoegdheid prijsgeven jegens hem het gebrek in te roepen. Aan de belanghebbende kan door hem een redelijke termijn voor de goedkeuring worden gesteld.
 
-### Afdeling 2. Onverschuldigde betaling
+#### Afdeling 2. Onverschuldigde betaling
 
 ##### Artikel 203
 
@@ -1355,7 +1333,7 @@ Op de onbekwame die een onverschuldigde betaling heeft ontvangen, rusten de in d
 
 2. Is ingevolge het eerste lid terugvordering van een overgedragen goed uitgesloten, dan brengt de nietigheid van de overeenkomst niet de nietigheid van de overdracht mee.
 
-### Afdeling 3. Ongerechtvaardigde verrijking
+#### Afdeling 3. Ongerechtvaardigde verrijking
 
 ##### Artikel 212
 
@@ -1365,9 +1343,9 @@ Op de onbekwame die een onverschuldigde betaling heeft ontvangen, rusten de in d
 
 3. Is de verrijking verminderd in de periode waarin de verrijkte redelijkerwijs met een verplichting tot vergoeding van de schade geen rekening behoefde te houden, dan wordt hem dit niet toegerekend. Bij de vaststelling van deze vermindering wordt mede rekening gehouden met uitgaven die zonder de verrijking zouden zijn uitgebleven.
 
-## Titel 5. Overeenkomsten in het algemeen
+### Titel 5. Overeenkomsten in het algemeen
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 213
 
@@ -1383,7 +1361,7 @@ Voldoet een overeenkomst aan de omschrijving van twee of meer door de wet gerege
 
 Deze afdeling en de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=5&afdeling=2&z=2010-10-10&g=2010-10-10), de [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=5&afdeling=3&z=2010-10-10&g=2010-10-10) en de [vierde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&boek=6&titeldeel=5&afdeling=4&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing op andere meerzijdige vermogensrechtelijke rechtshandelingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de rechtshandeling zich daartegen niet verzet.
 
-### Afdeling 2. Het tot stand komen van overeenkomsten
+#### Afdeling 2. Het tot stand komen van overeenkomsten
 
 ##### Artikel 217
 
@@ -1467,17 +1445,17 @@ Een overeenkomst die de strekking heeft voort te bouwen op een reeds tussen part
 
 2. Bovendien kan de rechter op verlangen van een der partijen, in plaats van de vernietiging uit te spreken, de gevolgen van de overeenkomst ter opheffing van dit nadeel wijzigen.
 
-### Afdeling 3. Algemene voorwaarden
+#### Afdeling 3. Algemene voorwaarden
 
 ##### Artikel 231
 
 In deze afdeling wordt verstaan onder:
 
-- a. **algemene voorwaarden:** een of meer schriftelijke bedingen die zijn opgesteld ten einde in een aantal overeenkomsten te worden opgenomen, met uitzondering van bedingen die de kern van de prestaties aangeven;
+- a. *algemene voorwaarden:* een of meer schriftelijke bedingen die zijn opgesteld ten einde in een aantal overeenkomsten te worden opgenomen, met uitzondering van bedingen die de kern van de prestaties aangeven;
 
-- b. **gebruiker:** degene die algemene voorwaarden in een overeenkomst gebruikt;
+- b. *gebruiker:* degene die algemene voorwaarden in een overeenkomst gebruikt;
 
-- c. **wederpartij:** degene die door ondertekening van een geschrift of op andere wijze de gelding van algemene voorwaarden heeft aanvaard.
+- c. *wederpartij:* degene die door ondertekening van een geschrift of op andere wijze de gelding van algemene voorwaarden heeft aanvaard.
 
 ##### Artikel 232
 
@@ -1653,7 +1631,7 @@ Van de [artikelen 231 tot en met 244](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Op overeenkomsten tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, is, indien de wederpartij haar gewone verblijfplaats in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft, deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
 
-### Afdeling 4. Rechtsgevolgen van overeenkomsten
+#### Afdeling 4. Rechtsgevolgen van overeenkomsten
 
 ##### Artikel 248
 
@@ -1757,7 +1735,7 @@ Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor
 
 5. Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft, mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.
 
-### Afdeling 5. Wederkerige overeenkomsten
+#### Afdeling 5. Wederkerige overeenkomsten
 
 ##### Artikel 261
 

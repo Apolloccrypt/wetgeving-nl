@@ -1,43 +1,21 @@
 ---
 title: "Faillissementswet BES"
 identifier: "BWBR0028917"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028917"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "11067443"
-version_id: "18091132"
-internal_id: "C25151821"
-label_id: "11044854"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028917/2010-10-10/0"
-intitule_bron: "Stb.2010-496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-496"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-496"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028917&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028917&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028917"
+opgehaald: 2026-08-16
 ---
+
 # Faillissementswet BES
 
-## Titel I. Van faillissement
+### Titel I. Van faillissement
 
-### afdeeling Eerste. Van de faillietverklaring
+#### afdeeling Eerste. Van de faillietverklaring
 
 ##### Artikel 1
 
@@ -207,7 +185,7 @@ Wordt de faillietverklaring in hoger beroep uitgesproken met vernietiging van ee
 
 4. Op het register bestaat een alphabetische klapper.
 
-### afdeeling Tweede. Van de gevolgen der faillietverklaring
+#### afdeeling Tweede. Van de gevolgen der faillietverklaring
 
 ##### Artikel 17
 
@@ -389,27 +367,27 @@ Indien de gefailleerde huurder is, kan zoowel de curator als de verhuurder de hu
 
 - 3°. bij rechtshandelingen, door de schuldenaar die een natuurlijk persoon is, verricht met of jegens:
 
-- a. zijn echtgenoot, zijn pleegkind of een bloed- of aanverwant tot in de derde graad;
+   - a. zijn echtgenoot, zijn pleegkind of een bloed- of aanverwant tot in de derde graad;
 
-- b. een rechtspersoon waarin hij, zijn echtgenoot, zijn pleegkind of een bloed- of aanverwant tot in de derde graad bestuurder of commissaris is, dan wel waarin deze personen, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelnemen;
+   - b. een rechtspersoon waarin hij, zijn echtgenoot, zijn pleegkind of een bloed- of aanverwant tot in de derde graad bestuurder of commissaris is, dan wel waarin deze personen, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelnemen;
 
 - 4°. bij rechtshandelingen, door de schuldenaar die rechtspersoon is, verricht met of jegens een natuurlijk persoon:
 
-- a. die bestuurder of commissaris van de rechtspersoon is, dan wel met of jegens diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad;
+   - a. die bestuurder of commissaris van de rechtspersoon is, dan wel met of jegens diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad;
 
-- b. die, al dan niet tezamen met zijn echtgenoot, zijn pleegkinderen en zijn bloed- of aanverwanten tot in de derde graad, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelneemt;
+   - b. die, al dan niet tezamen met zijn echtgenoot, zijn pleegkinderen en zijn bloed- of aanverwanten tot in de derde graad, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelneemt;
 
-- c. wiens echtgenoot, pleegkinderen of bloed- of aanverwanten tot in de derde graad, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor tenminste de helft van het geplaatste kapitaal deelnemen;
+   - c. wiens echtgenoot, pleegkinderen of bloed- of aanverwanten tot in de derde graad, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor tenminste de helft van het geplaatste kapitaal deelnemen;
 
 - 5°. bij rechtshandelingen, door de schuldenaar die rechtspersoon is, verricht met of jegens een andere rechtspersoon, indien:
 
-- a. een van deze rechtspersonen bestuurder is van de andere;
+   - a. een van deze rechtspersonen bestuurder is van de andere;
 
-- b. een bestuurder, natuurlijk persoon, van een van deze rechtspersonen, of diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad, bestuurder is van de andere;
+   - b. een bestuurder, natuurlijk persoon, van een van deze rechtspersonen, of diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad, bestuurder is van de andere;
 
-- c. een bestuurder, natuurlijk persoon, of een commissaris van een van deze rechtspersonen, of diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelneemt in de andere;
+   - c. een bestuurder, natuurlijk persoon, of een commissaris van een van deze rechtspersonen, of diens echtgenoot, pleegkind of bloed- of aanverwant tot in de derde graad, afzonderlijk of tezamen, als aandeelhouder rechtstreeks of middellijk voor ten minste de helft van het geplaatste kapitaal deelneemt in de andere;
 
-- d. in beide rechtspersonen voor ten minste de helft van het geplaatste kapitaal rechtstreeks of middellijk wordt deelgenomen door dezelfde rechtspersoon, danwel dezelfde natuurlijke persoon, al dan niet tezamen met zijn echtgenoot, zijn pleegkinderen en zijn bloed- of aanverwanten tot in de derde graad;
+   - d. in beide rechtspersonen voor ten minste de helft van het geplaatste kapitaal rechtstreeks of middellijk wordt deelgenomen door dezelfde rechtspersoon, danwel dezelfde natuurlijke persoon, al dan niet tezamen met zijn echtgenoot, zijn pleegkinderen en zijn bloed- of aanverwanten tot in de derde graad;
 
 - 6°. bij rechtshandelingen, door de schuldenaar die rechtspersoon is, verricht met of jegens een groepsmaatschappij.
 
@@ -589,9 +567,9 @@ De echtgenoot van de gefailleerde heeft geen aanspraak op de boedel terzake van 
 
 4. De in de eerste volzin van het eerste lid bedoelde beslissing kan ook op verlangen van de aanvrager van het faillissement of van de schuldenaar worden gegeven in het vonnis van faillietverklaring.
 
-### afdeeling Derde. Van het bestuur over den faillieten boedel
+#### afdeeling Derde. Van het bestuur over den faillieten boedel
 
-#### 1. **Van den rechter-commissaris**
+#### 1. Van den rechter-commissaris
 
 ##### Artikel 60
 
@@ -619,7 +597,7 @@ Alvorens in eenige zaak, het beheer of de vereffening van den faillieten boedel 
 
 3. Tegen de overige beschikkingen van den rechter-commissaris is hoger beroep niet toegelaten.
 
-#### 2. **Van den curator**
+#### 2. Van den curator
 
 ##### Artikel 64
 
@@ -655,7 +633,7 @@ Het ontbreken van de machtiging van den rechter-commissaris, waar die vereischt 
 
 2. De ontslagen curator legt rekening en verantwoording van zijn beheer af aan den in zijne plaats benoemden curator.
 
-#### 3. **Van de commissie uit de schuldeischers**
+#### 3. Van de commissie uit de schuldeischers
 
 ##### Artikel 70
 
@@ -685,7 +663,7 @@ Tot het inwinnen van het advies der commissie vergadert de curator met haar, zoo
 
 De curator is niet gebonden aan het advies der commissie. Zoo hij zich daarmede niet vereenigt, geeft hij hiervan onmiddellijk kennis aan de commissie, welke de beslissing van den rechter-commissaris kan inroepen. Zoo zij verklaart, dit te doen, is de curator verplicht de uitvoering van de voorgenomen, met het advies der commissie strijdige handeling, gedurende drie dagen op te schorten.
 
-#### 4. **Van de vergaderingen van schuldeischers**
+#### 4. Van de vergaderingen van schuldeischers
 
 ##### Artikel 76
 
@@ -711,13 +689,13 @@ Ten behoeve van de schuldeischers, die zich op eene vergadering hebben doen vert
 
 2. In elk geval bepaalt de rechter-commissaris dag, uur en plaats voor de vergadering; waartoe de curator de stemgerechtigde schuldeischers ten minste ééne maand van te voren oproept bij advertentie in het nieuwsblad, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Eerste&artikel=11&z=2010-10-10&g=2010-10-10), en bij brieven, beide vermeldende het in de vergadering te behandelen onderwerp.
 
-#### 5. **Van de rechterlijke beschikkingen**
+#### 5. Van de rechterlijke beschikkingen
 
 ##### Artikel 81
 
 Alle beschikkingen in zaken, het beheer of de vereffening van den faillieten boedel betreffende, zijn uitvoerbaar bij voorraad en op de minuut, tenzij het tegendeel bepaald is.
 
-### afdeeling Vierde. Van de voorzieningen na de faillietverklaring en van het beheer van den curator
+#### afdeeling Vierde. Van de voorzieningen na de faillietverklaring en van het beheer van den curator
 
 ##### Artikel 82
 
@@ -825,7 +803,7 @@ Bij het faillissement van eene naamloze vennootschap, besloten vennootschap, wed
 
 De griffier is verplicht aan elken schuldeischer op diens verzoek en op diens kosten afschrift te geven van de stukken, welke ingevolge eenige bepaling van dit besluit ter griffie worden nedergelegd of zich aldaar bevinden.
 
-### afdeeling Vijfde. Van de verificatie van de schuldvorderingen
+#### afdeeling Vijfde. Van de verificatie van de schuldvorderingen
 
 ##### Artikel 103
 
@@ -1015,7 +993,7 @@ Schuldvorderingen aan toonder mogen ten name van «toonder» geverifieerd worden
 
 2. Zoowel de curator, als de schuldeischers en de gefailleerde mogen na de nederlegging van het proces-verbaal aan den rechter in eersten aanleg verbetering daarvan verzoeken, indien uit de stukken zelve blijkt dat in het proces-verbaal eene vergissing is geslopen.
 
-### afdeeling Zesde. Van het akkoord
+#### afdeeling Zesde. Van het akkoord
 
 ##### Artikel 133
 
@@ -1201,7 +1179,7 @@ De handelingen, door den schuldenaar in den tijd tusschen de homologatie van het
 
 Het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Zesde&artikel=163&z=2010-10-10&g=2010-10-10) is eveneens toepasselijk, indien de boedel van den schuldenaar, terwijl deze nog niet volledig aan het akkoord heeft voldaan, opnieuw in staat van faillissement wordt verklaard.
 
-### afdeeling Zevende. Van de vereffening van den boedel
+#### afdeeling Zevende. Van de vereffening van den boedel
 
 ##### Artikel 165
 
@@ -1359,7 +1337,7 @@ Na afloop van den termijn van inzage, bedoeld bij [artikel 175](https://wetten.o
 
 Indien na de slotuitdeeling ingevolge [artikel 181](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Zevende&artikel=181&z=2010-10-10&g=2010-10-10) gereserveerde uitdeelingen aan den boedel terugvallen of mocht blijken, dat er nog baten van den boedel aanwezig zijn, welke ten tijde van de vereffening niet bekend waren, gaat de curator, op bevel van den rechter in eersten aanleg, tot vereffening en verdeeling daarvan over op den grondslag van de vroegere uitdeelingslijsten.
 
-### afdeeling Achtste. Van den rechtstoestand van den schuldenaar na afloop van de vereffening
+#### afdeeling Achtste. Van den rechtstoestand van den schuldenaar na afloop van de vereffening
 
 ##### Artikel 187
 
@@ -1373,7 +1351,7 @@ De in het [vierde lid van artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 De bepaling van het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Achtste&artikel=188&z=2010-10-10&g=2010-10-10) geldt niet voor zoover de vordering door den gefailleerde overeenkomstig [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Vijfde&artikel=122&z=2010-10-10&g=2010-10-10) betwist is.
 
-### afdeeling Negende. Van het faillissement van eene nalatenschap
+#### afdeeling Negende. Van het faillissement van eene nalatenschap
 
 ##### Artikel 190
 
@@ -1397,7 +1375,7 @@ De faillietverklaring kan aangevraagd worden zoo lang niet drie maanden na de aa
 
 De [zesde afdeeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Zesde&z=2010-10-10&g=2010-10-10) van dezen titel is op het faillissement van eene nalatenschap niet toepasselijk; evenmin de [achtste afdeeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Achtste&z=2010-10-10&g=2010-10-10), tenzij de erfenis zuiver is aanvaard.
 
-### afdeeling Tiende. Bepalingen van internationaal recht
+#### afdeeling Tiende. Bepalingen van internationaal recht
 
 ##### Artikel 195
 
@@ -1415,7 +1393,7 @@ Schuldeischers, die na de faillietverklaring hunne vordering geheel of gedeeltel
 
 2. Het tweede lid van het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Tiende&artikel=196&z=2010-10-10&g=2010-10-10) is hier toepasselijk.
 
-### afdeeling Elfde. Van rehabilitatie
+#### afdeeling Elfde. Van rehabilitatie
 
 ##### Artikel 198
 
@@ -1445,9 +1423,9 @@ Van het verzoek wordt aankondiging gedaan in de Staatscourant.
 
 Het vonnis, waarbij de rehabilitatie wordt toegestaan, wordt ter openbare terechtzitting uitgesproken, terwijl mede daarvan aanteekening geschiedt in het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Eerste&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde register.
 
-## Titel II. Van surséance van betaling
+### Titel II. Van surséance van betaling
 
-### afdeeling Eerste. Van de verleening van surséance van betaling en hare gevolgen
+#### afdeeling Eerste. Van de verleening van surséance van betaling en hare gevolgen
 
 ##### Artikel 204
 
@@ -1741,7 +1719,7 @@ Zoodra eene beschikking, waarbij de surséance is ingetrokken, in kracht van gew
 
 De bepalingen van internationaal recht van de [artikelen 195–197](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I&afdeling=Tiende&artikel=195&z=2010-10-10&g=2010-10-10) vinden bij surséance overeenkomstige toepassing.
 
-### afdeeling Tweede. Van het akkoord
+#### afdeeling Tweede. Van het akkoord
 
 ##### Artikel 241
 
@@ -1933,13 +1911,13 @@ De rechter in eersten aanleg kan, wanneer het akkoord niet wordt aangenomen, den
 
 In een faillissement, uitgesproken krachtens de [artikelen 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=II&afdeling=Tweede&artikel=261&z=2010-10-10&g=2010-10-10), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=II&afdeling=Tweede&artikel=266&z=2010-10-10&g=2010-10-10) en [268](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=II&afdeling=Tweede&artikel=268&z=2010-10-10&g=2010-10-10) kan een akkoord niet worden aangeboden.
 
-### afdeeling Derde. Slotbepaling
+#### afdeeling Derde. Slotbepaling
 
 ##### Artikel 270
 
 Tegen de beslissingen van den rechter, ingevolge de bepalingen van dezen titel gegeven, staat geen hoogere voorziening open, behalve in de gevallen, waarin het tegendeel is bepaald.
 
-#### **Algemene slotbepaling**
+#### Algemene slotbepaling
 
 ##### Artikel 271
 

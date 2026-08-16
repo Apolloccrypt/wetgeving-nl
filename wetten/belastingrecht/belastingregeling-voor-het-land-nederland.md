@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting tussen de belastingstelsels van het in Europa gelegen deel van het land Nederland en het in het Caribische gebied gelegen deel van het land Nederland (Belastingregeling voor het land Nederland)"
+citeertitel: "Belastingregeling voor het land Nederland"
 identifier: "BWBR0029675"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029675"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "11260533"
-version_id: "18439842"
-internal_id: "C25702221"
-label_id: "11234834"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029675/2025-01-01/0"
-intitule_bron: "Stb.2011-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-26"
-intitule_published: "2011-03-04"
-intitule_in_force: "2011-03-04"
-intitule_status: "goed"
-original_publication: "Stb.2011-107"
-original_signed_date: "2011-02-26"
-original_published_date: "2011-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-107"
-entry_into_force_date: "2011-03-05"
-jci_1_3: "jci1.3:c:BWBR0029675&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0029675&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingregeling voor het land Nederland"
-signed_date: "2011-02-26"
-entry_into_force: "2011-03-05"
+publicatiedatum: 2011-03-05
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0029675"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting tussen de belastingstelsels van het in Europa gelegen deel van het land Nederland en het in het Caribische gebied gelegen deel van het land Nederland (Belastingregeling voor het land Nederland)
-
-Op de voordracht van de Staatssecretaris van Financiën van 17 november 2010, nr. AFP 2010/556;
-
-Gelet op [artikel 8.121 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.121) en [artikel 37 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 december 2010, nr. W06.10.0528/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 10 februari 2011, nr. AFP 2010/679 U;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -54,29 +20,29 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 Voor de toepassing van dit besluit, tenzij de context anders vereist:
 
-- a. betekent de uitdrukking **heffingsgebieden**: Nederland en de BES eilanden;
+- a. betekent de uitdrukking *heffingsgebieden*: Nederland en de BES eilanden;
 
-- b. betekent de uitdrukking **heffingsgebied**: Nederland of de BES eilanden al naar de context vereist;
+- b. betekent de uitdrukking *heffingsgebied*: Nederland of de BES eilanden al naar de context vereist;
 
-- c. betekent de uitdrukking **Nederland**: het in Europa gelegen deel van het Koninkrijk, met inbegrip van de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voor zover deze grenst aan de territoriale zee in Nederland;
+- c. betekent de uitdrukking *Nederland*: het in Europa gelegen deel van het Koninkrijk, met inbegrip van de exclusieve economische zone van het Koninkrijk, bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voor zover deze grenst aan de territoriale zee in Nederland;
 
-- d. betekent de uitdrukking **BES eilanden**: de openbare lichamen Bonaire, Sint Eustatius en Saba, met daaronder begrepen, met inachtneming van de Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba, het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
+- d. betekent de uitdrukking *BES eilanden*: de openbare lichamen Bonaire, Sint Eustatius en Saba, met daaronder begrepen, met inachtneming van de Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba, het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;
 
-- e. betekent de uitdrukking **persoon**: een natuurlijk persoon, een lichaam en elke andere vereniging van personen;
+- e. betekent de uitdrukking *persoon*: een natuurlijk persoon, een lichaam en elke andere vereniging van personen;
 
-- f. betekent de uitdrukking **lichaam**: elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- f. betekent de uitdrukking *lichaam*: elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- g. is de uitdrukking **onderneming** van toepassing op de uitoefening van een bedrijf;
+- g. is de uitdrukking *onderneming* van toepassing op de uitoefening van een bedrijf;
 
-- h. omvat de uitdrukking **uitoefening van een bedrijf** mede de uitoefening van een vrij beroep en van andere werkzaamheden van zelfstandige aard;
+- h. omvat de uitdrukking *uitoefening van een bedrijf* mede de uitoefening van een vrij beroep en van andere werkzaamheden van zelfstandige aard;
 
-- i. betekenen de uitdrukkingen **onderneming van een van de heffingsgebieden** en **onderneming van het andere heffingsgebied**: een onderneming gedreven door een inwoner van Nederland of van de BES eilanden onderscheidenlijk een onderneming gedreven door een inwoner van het andere heffingsgebied;
+- i. betekenen de uitdrukkingen *onderneming van een van de heffingsgebieden* en *onderneming van het andere heffingsgebied*: een onderneming gedreven door een inwoner van Nederland of van de BES eilanden onderscheidenlijk een onderneming gedreven door een inwoner van het andere heffingsgebied;
 
-- j. betekent de uitdrukking **internationaal verkeer**: alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming van een van de heffingsgebieden, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die binnen één heffingsgebied zijn gelegen;
+- j. betekent de uitdrukking *internationaal verkeer*: alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming van een van de heffingsgebieden, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die binnen één heffingsgebied zijn gelegen;
 
-- k. betekent de uitdrukking **pensioenfonds**: een fonds dat als zodanig is erkend en onder toezicht staat volgens de wettelijke bepalingen die van toepassing zijn in het heffingsgebied waarvan het fonds inwoner is;
+- k. betekent de uitdrukking *pensioenfonds*: een fonds dat als zodanig is erkend en onder toezicht staat volgens de wettelijke bepalingen die van toepassing zijn in het heffingsgebied waarvan het fonds inwoner is;
 
-- l. betekent de uitdrukking **Rijk**: het land Nederland, zijnde Nederland en de BES eilanden.
+- l. betekent de uitdrukking *Rijk*: het land Nederland, zijnde Nederland en de BES eilanden.
 
 ##### Artikel 1.2. Toepassingsbereik
 
@@ -88,25 +54,25 @@ Dit besluit is van toepassing op:
 
 - a. in Nederland:
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
+   - 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168);
 
-- 4°. de dividendbelasting;
+   - 4°. de dividendbelasting;
 
 - b. op de BES eilanden:
 
-- 1°. de inkomstenbelasting;
+   - 1°. de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2°. de loonbelasting;
 
-- 3°. de vastgoedbelasting;
+   - 3°. de vastgoedbelasting;
 
-- 4°. de opbrengstbelasting;
+   - 4°. de opbrengstbelasting;
 
-- 5°. het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163).
+   - 5°. het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163).
 
 ##### Artikel 1.4. Inwoner
 
@@ -146,9 +112,9 @@ Dit besluit is van toepassing op:
 
 ##### Artikel 1.5. Vaste inrichting
 
-1. Voor de toepassing van dit besluit betekent de uitdrukking **vaste inrichting** een vaste bedrijfsinrichting met behulp waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
+1. Voor de toepassing van dit besluit betekent de uitdrukking *vaste inrichting* een vaste bedrijfsinrichting met behulp waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
-2. De uitdrukking **vaste inrichting** omvat in het bijzonder:
+2. De uitdrukking *vaste inrichting* omvat in het bijzonder:
 
 - a. een plaats waar leiding wordt gegeven;
 
@@ -174,11 +140,11 @@ Dit besluit is van toepassing op:
 
 5. Voor de toepassing van het vierde lid wordt:
 
-- a. indien een onderneming is gelieerd aan een andere onderneming, welke andere onderneming als onderdeel van hetzelfde project dezelfde werkzaamheden voortzet die worden of werden uitgevoerd door de eerstbedoelde onderneming, en de hiervoor bedoelde door beide ondernemingen verrichte werkzaamheden bij elkaar opgeteld een tijdvak van ten minste 30 dagen beslaan, iedere onderneming geacht haar werkzaamheden te verrichten gedurende een tijdvak dat ten minste 30 dagen in een tijdvak van twaalf maanden beslaat;
+- a. indien een onderneming is gelieerd aan een andere onderneming, welke andere onderneming als onderdeel van hetzelfde project dezelfde werkzaamheden voortzet die worden of werden uitgevoerd door de eerstbedoelde onderneming, en de hiervoor bedoelde door beide ondernemingen verrichte werkzaamheden bij elkaar opgeteld een tijdvak van ten minste 30 dagen beslaan, iedere onderneming geacht haar werkzaamheden te verrichten gedurende een tijdvak dat ten minste 30 dagen in een tijdvak van twaalf maanden beslaat;
 
 - b. een onderneming geacht gelieerd te zijn aan een andere onderneming indien de ene onderneming onmiddellijk of middellijk ten minste een derde deel van het kapitaal van de andere onderneming bezit of indien een persoon onmiddellijk of middellijk ten minste een derde deel van het kapitaal van beide ondernemingen bezit.
 
-6. Niettegenstaande de voorgaande leden wordt de uitdrukking **vaste inrichting** geacht niet te omvatten:
+6. Niettegenstaande de voorgaande leden wordt de uitdrukking *vaste inrichting* geacht niet te omvatten:
 
 - a. het gebruikmaken van inrichtingen, uitsluitend voor opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
@@ -204,7 +170,7 @@ Dit besluit is van toepassing op:
 
 1. Inkomsten uit onroerende zaken, daaronder begrepen inkomsten uit landbouw- of bosbedrijven, mogen worden belast volgens de in het heffingsgebied waar deze zaken zijn gelegen toepasselijke belastingwetgeving. Niettegenstaande de vorige volzin zijn inkomsten uit onroerende zaken van een lichaam dat ingevolge [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) voor de toepassing van de opbrengstbelasting als bedoeld in [hoofdstuk V van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V), de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) wordt geacht in Nederland te zijn gevestigd, slechts belastbaar volgens de Wet op de vennootschapsbelasting 1969 en de Wet op de dividendbelasting 1965.
 
-2. De uitdrukking **onroerende zaken** heeft de betekenis die daaraan wordt toegekend door het recht van het heffingsgebied waar de desbetreffende zaken zijn gelegen. De uitdrukking omvat in ieder geval de goederen die bij de onroerende zaken behoren, levende en dode have van landbouw- en bosbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende zaken en rechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of het recht tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen. Schepen en luchtvaartuigen worden niet als onroerende zaken beschouwd.
+2. De uitdrukking *onroerende zaken* heeft de betekenis die daaraan wordt toegekend door het recht van het heffingsgebied waar de desbetreffende zaken zijn gelegen. De uitdrukking omvat in ieder geval de goederen die bij de onroerende zaken behoren, levende en dode have van landbouw- en bosbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende zaken en rechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of het recht tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen. Schepen en luchtvaartuigen worden niet als onroerende zaken beschouwd.
 
 3. Rechten tot exploratie en exploitatie van natuurlijke rijkdommen, daaronder begrepen rechten op belangen bij, of voordelen uit, vermogensbestanddelen die voortvloeien uit de exploratie of exploitatie, worden beschouwd als onroerende zaken die zijn gelegen in het heffingsgebied op wiens zeebodem en ondergrond daarvan deze rechten betrekking hebben. Deze rechten worden voor de toepassing van de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=I&artikel=1.5&z=2025-01-01&g=2025-01-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.2&z=2025-01-01&g=2025-01-01) en [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.5&z=2025-01-01&g=2025-01-01) geacht te behoren tot de activa van een vaste inrichting in dat heffingsgebied.
 
@@ -240,7 +206,7 @@ Dit besluit is van toepassing op:
 
 6. Het derde en vierde lid laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
 
-7. De uitdrukking **dividenden**, zoals gebezigd in dit artikel, betekent inkomsten uit aandelen, winstaandelen of winstbewijzen, mijnaandelen, oprichtersaandelen of andere rechten die aanspraak geven op een aandeel in de winst alsmede inkomsten uit andere vennootschappelijke rechten die volgens de wetgeving van het heffingsgebied waarvan het uitkerende lichaam inwoner is op dezelfde wijze als inkomsten uit aandelen in de belastingheffing worden betrokken. De uitdrukking **dividenden** omvat mede hetgeen bij het inkopen van aandelen door, of bij de liquidatie van, een lichaam wordt uitgekeerd boven het gemiddeld op desbetreffende aandelen gestorte kapitaal en de opbrengst, bedoeld in [artikel 5.4 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.4).
+7. De uitdrukking *dividenden*, zoals gebezigd in dit artikel, betekent inkomsten uit aandelen, winstaandelen of winstbewijzen, mijnaandelen, oprichtersaandelen of andere rechten die aanspraak geven op een aandeel in de winst alsmede inkomsten uit andere vennootschappelijke rechten die volgens de wetgeving van het heffingsgebied waarvan het uitkerende lichaam inwoner is op dezelfde wijze als inkomsten uit aandelen in de belastingheffing worden betrokken. De uitdrukking *dividenden* omvat mede hetgeen bij het inkopen van aandelen door, of bij de liquidatie van, een lichaam wordt uitgekeerd boven het gemiddeld op desbetreffende aandelen gestorte kapitaal en de opbrengst, bedoeld in [artikel 5.4 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.4).
 
 8. Het eerste, tweede en vierde lid zijn niet van toepassing indien de uiteindelijke gerechtigde tot de dividenden, die inwoner is van een van de heffingsgebieden, in het andere heffingsgebied waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf met behulp van een aldaar gevestigde vaste inrichting uitoefent en het aandelenbezit uit hoofde waarvan de dividenden worden betaald aan die vaste inrichting is toe te rekenen. In dat geval is [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.2&z=2025-01-01&g=2025-01-01) van toepassing.
 
@@ -290,9 +256,9 @@ Beloningen verkregen door een inwoner van een van de heffingsgebieden in zijn ho
 
 3. Een pensioen of andere soortgelijke beloning of een lijfrente wordt geacht afkomstig te zijn uit een van de heffingsgebieden voor zover de met deze beloningen, onderscheidenlijk lijfrente, samenhangende bijdragen aan de pensioenregeling, onderscheidenlijk aan de verzekeringsmaatschappij, dan wel de aanspraak op deze beloningen onderscheidenlijk lijfrente volgens de toepasselijke belastingwetgeving in dat heffingsgebied in aanmerking zijn gekomen voor een fiscale faciliëring. Voor de toepassing van dit artikel wordt onder het heffingsgebied de BES eilanden tevens verstaan het voormalige land de Nederlandse Antillen. De overdracht van een pensioen of andere soortgelijke beloning van een pensioenfonds of verzekeringsmaatschappij dat inwoner is van het ene heffingsgebied naar een pensioenfonds of verzekeringsmaatschappij dat inwoner is van het andere heffingsgebied beperkt op geen enkele wijze de in dit artikel toegekende heffingsrechten.
 
-4. De uitdrukking **lijfrente** betekent in dit besluit een vaste som, periodiek betaalbaar op vaste tijdstippen, hetzij gedurende het leven, hetzij gedurende een vastgesteld of voor vaststelling vatbaar tijdvak, ingevolge een verbintenis tot het doen van betalingen, welke tegenover een voldoende en volledige tegenprestatie in geld of geldswaarde staat.
+4. De uitdrukking *lijfrente* betekent in dit besluit een vaste som, periodiek betaalbaar op vaste tijdstippen, hetzij gedurende het leven, hetzij gedurende een vastgesteld of voor vaststelling vatbaar tijdvak, ingevolge een verbintenis tot het doen van betalingen, welke tegenover een voldoende en volledige tegenprestatie in geld of geldswaarde staat.
 
-5. Alimentatie-uitkeringen en andere soortgelijke betalingen die afkomstig zijn uit een van de heffingsgebieden en die worden betaald aan een inwoner van het andere heffingsgebied, zijn slechts belastbaar volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied. De uitdrukking **alimentatie-uitkeringen en andere soortgelijke betalingen**, bedoeld in dit lid betekent periodieke uitkeringen ingevolge een wettelijke verplichting tot onderhoud of ingevolge een schriftelijke overeenkomst tot scheiding of een echtscheidingsvonnis, gescheiden onderhoud of verplichte steun dan wel een afkoopsom in plaats daarvan.
+5. Alimentatie-uitkeringen en andere soortgelijke betalingen die afkomstig zijn uit een van de heffingsgebieden en die worden betaald aan een inwoner van het andere heffingsgebied, zijn slechts belastbaar volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied. De uitdrukking *alimentatie-uitkeringen en andere soortgelijke betalingen*, bedoeld in dit lid betekent periodieke uitkeringen ingevolge een wettelijke verplichting tot onderhoud of ingevolge een schriftelijke overeenkomst tot scheiding of een echtscheidingsvonnis, gescheiden onderhoud of verplichte steun dan wel een afkoopsom in plaats daarvan.
 
 ##### Artikel 2.10. Overheidsfuncties
 
@@ -342,10 +308,8 @@ Bedragen die een student of een voor een beroep of bedrijf in opleiding zijnde p
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
 ##### Artikel 4.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Belastingregeling voor het land Nederland.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

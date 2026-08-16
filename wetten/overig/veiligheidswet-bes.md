@@ -1,49 +1,18 @@
 ---
 title: "Wet van 30 september 2010, houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES)"
+citeertitel: "Veiligheidswet BES"
 identifier: "BWBR0028586"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028586"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10884833"
-version_id: "17867552"
-internal_id: "C25051081"
-label_id: "10860414"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028586/2018-08-01/0"
-intitule_bron: "Stb.2010-362"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-30"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-362"
-original_signed_date: "2010-09-30"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32207"
-original_url_id: "stb-2010-362"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028586&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0028586&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Veiligheidswet BES"
-signed_date: "2010-09-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0028586"
+opgehaald: 2026-08-16
 ---
+
 # Wet van 30 september 2010, houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om regels te stellen met betrekking tot de politie alsmede de brandweerzorg, de rampenbestrijding en de crisisbeheersing en over de voorbereiding daarop op Bonaire, Sint Eustatius en Saba;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,51 +20,51 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **algemeen commandant:** degene die op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), belast is met de dagelijkse leiding over het brandweerkorps;
+- *algemeen commandant:* degene die op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), belast is met de dagelijkse leiding over het brandweerkorps;
 
-- **ambtenaar van politie:** ambtenaar van politie als bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+- *ambtenaar van politie:* ambtenaar van politie als bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- **brandweerkorps:** brandweerkorps als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01);
+- *brandweerkorps:* brandweerkorps als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01);
 
-- **buitengewoon agent van politie:** buitengewoon agent van politie als bedoeld in [artikel 10 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10);
+- *buitengewoon agent van politie:* buitengewoon agent van politie als bedoeld in [artikel 10 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10);
 
-- **crisis:** een situatie waarin een vitaal belang van de samenleving is aangetast of dreigt te worden aangetast;
+- *crisis:* een situatie waarin een vitaal belang van de samenleving is aangetast of dreigt te worden aangetast;
 
-- **crisisbeheersing:** het geheel van maatregelen en voorzieningen, met inbegrip van de voorbereiding daarvan, dat het eilandsbestuur in een crisis treft ter handhaving van de openbare orde, indien van toepassing in samenhang met de maatregelen en voorzieningen die de overheid treft op basis van een bij of krachtens enige andere wet toegekende bevoegdheid ter zake van een crisis;
+- *crisisbeheersing:* het geheel van maatregelen en voorzieningen, met inbegrip van de voorbereiding daarvan, dat het eilandsbestuur in een crisis treft ter handhaving van de openbare orde, indien van toepassing in samenhang met de maatregelen en voorzieningen die de overheid treft op basis van een bij of krachtens enige andere wet toegekende bevoegdheid ter zake van een crisis;
 
-- **geneeskundige hulpverlening:** geneeskundige hulpverlening in het kader van de rampenbestrijding en de crisisbeheersing door daartoe aangesteld personeel, als onderdeel van een gecoördineerde inzet van diensten en organisaties van verschillende disciplines, door tussenkomst van een meldkamer;
+- *geneeskundige hulpverlening:* geneeskundige hulpverlening in het kader van de rampenbestrijding en de crisisbeheersing door daartoe aangesteld personeel, als onderdeel van een gecoördineerde inzet van diensten en organisaties van verschillende disciplines, door tussenkomst van een meldkamer;
 
-- **hoofdofficier van justitie:** de hoofdofficier van justitie, bedoeld in [artikel 7, eerste lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=7);
+- *hoofdofficier van justitie:* de hoofdofficier van justitie, bedoeld in [artikel 7, eerste lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=7);
 
-- **korpsbeheerder brandweer:** degene bij wie op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), het beheer van het brandweerkorps berust;
+- *korpsbeheerder brandweer:* degene bij wie op grond van [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), het beheer van het brandweerkorps berust;
 
-- **korpsbeheerder politie:** degene bij wie op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) het beheer van het politiekorps berust;
+- *korpsbeheerder politie:* degene bij wie op grond van [artikel 47, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47) het beheer van het politiekorps berust;
 
-- **korpschef:** de korpschef, bedoeld in [artikel 6 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=6);
+- *korpschef:* de korpschef, bedoeld in [artikel 6 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=6);
 
-- **lokaal commandant:** degene die op grond van [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), onder het gezag van de algemeen commandant belast is met de dagelijkse leiding over een vestiging van het brandweerkorps;
+- *lokaal commandant:* degene die op grond van [artikel 27, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&hoofdstuk=3&artikel=27&z=2018-08-01&g=2018-08-01), onder het gezag van de algemeen commandant belast is met de dagelijkse leiding over een vestiging van het brandweerkorps;
 
-- **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **Onze Ministers:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie;
+- *Onze Ministers:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie;
 
-- **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **politiekorps:** het politiekorps voor Bonaire, Sint Eustatius en Saba, bedoeld in [artikel 4 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=4);
+- *politiekorps:* het politiekorps voor Bonaire, Sint Eustatius en Saba, bedoeld in [artikel 4 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=4);
 
-- **politietaak:** de taken, bedoeld in [artikel 5 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=5);
+- *politietaak:* de taken, bedoeld in [artikel 5 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=5);
 
-- **procureur-generaal:** de procureur-generaal, bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=2);
+- *procureur-generaal:* de procureur-generaal, bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=2);
 
-- **ramp:** een zwaar ongeval of een andere gebeurtenis waarbij het leven en de gezondheid van veel personen, het milieu of grote materiële belangen in ernstige mate zijn geschaad of worden bedreigd en waarbij een gecoördineerde inzet van diensten of organisaties van verschillende disciplines is vereist om de dreiging weg te nemen of de schadelijke gevolgen te beperken;
+- *ramp:* een zwaar ongeval of een andere gebeurtenis waarbij het leven en de gezondheid van veel personen, het milieu of grote materiële belangen in ernstige mate zijn geschaad of worden bedreigd en waarbij een gecoördineerde inzet van diensten of organisaties van verschillende disciplines is vereist om de dreiging weg te nemen of de schadelijke gevolgen te beperken;
 
-- **rampenbestrijding:** het geheel van maatregelen en voorzieningen, met inbegrip van de voorbereiding daarop, dat het eilandsbestuur treft met het oog op een ramp, het voorkomen van een ramp en het beperken van de gevolgen van een ramp;
+- *rampenbestrijding:* het geheel van maatregelen en voorzieningen, met inbegrip van de voorbereiding daarop, dat het eilandsbestuur treft met het oog op een ramp, het voorkomen van een ramp en het beperken van de gevolgen van een ramp;
 
-- **Rijksvertegenwoordiger:** Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 187, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=187);
+- *Rijksvertegenwoordiger:* Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 187, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=187);
 
-- **Rijkswet:** de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
+- *Rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
 
-- **taken ten dienste van de justitie:** de taken, bedoeld in [artikel 1, onder n, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=1).
+- *taken ten dienste van de justitie:* de taken, bedoeld in [artikel 1, onder n, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=1).
 
 ### Hoofdstuk 2. Politie
 
@@ -323,7 +292,7 @@ In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](h
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
@@ -437,7 +406,7 @@ De korpsbeheerder brandweer hanteert voor het brandweerkorps een kwaliteitszorgs
 
 ##### Artikel 36
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 4. Brandweerzorg, rampenbestrijding en crisisbeheersing
 
@@ -937,7 +906,7 @@ Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister 
 
 ##### Artikel 82
 
-Wijzigt de Wet politiegegevens.
+*Wijzigt de Wet politiegegevens.*
 
 ##### Artikel 83
 
@@ -946,5 +915,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 84
 
 Deze wet wordt aangehaald als: Veiligheidswet BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen nemen.

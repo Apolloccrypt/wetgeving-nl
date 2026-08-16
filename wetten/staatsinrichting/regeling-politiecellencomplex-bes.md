@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en van de Minister van Justitie van 5 oktober 2010, nr. 2010-0000612483, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen op Bonaire, Sint Eustatius en Saba (Regeling politiecellencomplex BES)"
+citeertitel: "Regeling politiecellencomplex BES"
 identifier: "BWBR0028825"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-14"
-last_updated: "2010-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028825"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11036113"
-version_id: "18029862"
-internal_id: "C25059821"
-label_id: "11010734"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028825/2010-10-14/0"
-intitule_bron: "Stcrt.2010-15879"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-05"
-intitule_published: "2010-10-12"
-intitule_in_force: "2010-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15879"
-original_signed_date: "2010-10-05"
-original_published_date: "2010-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15879"
-entry_into_force_date: "2010-10-14"
-jci_1_3: "jci1.3:c:BWBR0028825&z=2010-10-14&g=2010-10-14"
-jci_1_0: "1.0:c:BWBR0028825&g=2010-10-14"
-citeertitel_status: "officieel"
-short_title: "Regeling politiecellencomplex BES"
-signed_date: "2010-10-05"
-entry_into_force: "2010-10-14"
+publicatiedatum: 2010-10-14
+laatste_update: 2010-10-14
+status: geldig
+toestand: 2010-10-14
+bron: "https://wetten.overheid.nl/BWBR0028825"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en van de Minister van Justitie van 5 oktober 2010, nr. 2010-0000612483, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen op Bonaire, Sint Eustatius en Saba (Regeling politiecellencomplex BES)
-
-Gelet op [artikel 14, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=14), [artikel 2 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=2) en [artikel 9, vijfde, zesde en zevende lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=9);
-
-Besluit:
 
 ### Hoofdstuk 1
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **politiecellencomplex:** het politiecellencomplex, bedoeld in [artikel 1, onder c, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=1);
+- a. *politiecellencomplex:* het politiecellencomplex, bedoeld in [artikel 1, onder c, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=1);
 
-- b. **cel:** een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;
+- b. *cel:* een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;
 
-- c. **ingeslotene:** de persoon, bedoeld in [artikel 1, onder a, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=1).
+- c. *ingeslotene:* de persoon, bedoeld in [artikel 1, onder a, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=1).
 
 ### Hoofdstuk 2
 
@@ -168,7 +142,7 @@ De korpsbeheerder politie draagt er zorg voor dat ten aanzien van personen die z
 
 ##### Artikel 14
 
-In geval van overlijden of een poging tot zelfdoding van een ingeslotene op een politiebureau wordt hiervan aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie een schriftelijk rapport toegezonden volgens het model in de bijlage bij deze regeling.
+In geval van overlijden of een poging tot zelfdoding van een ingeslotene op een politiebureau wordt hiervan aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie een schriftelijk rapport toegezonden volgens het model in de [bijlage](https://wetten.overheid.nl/BWBR0028825) bij deze regeling.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -179,23 +153,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [Veilighei
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling politiecellencomplex BES.
-
-## Bijlage
-
-### Model-meldingsformulie sterfgevallen en pogingen tot zelfdoding op politiebureaus (bijlage bij de Regeling politiecellencomplex BES)R
-
-Op ..... (datum) is in het bureau
-
-aan ..... (straatnaam)
-
-te ..... (plaatsnaam) van het politiekorps Bonaire, Sint Eustatius en Saba, het volgende voorgevallen:
-
-### Vragen met betrekking tot de betreffende persoon
-
-### Vragen met betrekking tot de ruimte/ omgeving van het voorval
-
-### Vragen met betrekking tot de medische verzorging
-
-### Vragen met betrekking tot de registratie
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

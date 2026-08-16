@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052878"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, kenmerk IENW/BSK-2026/105816, houdende nadere regels voor de digitale veiligheid van essentiële en belangrijke entiteiten in de sectoren vervoer, drinkwater, afvalwater, afvalstoffenbeheer, onderzoek, nucleair, keren en beheren, chemie en meteorologie (Cyberbeveiligingsregeling IenW) [Keten-ID WGK 28528]

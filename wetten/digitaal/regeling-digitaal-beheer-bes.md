@@ -1,76 +1,54 @@
 ---
 title: "Ministeriële regeling van de 13de maart 2008 ter uitvoering van artikel 6 van het Archiefbesluit BES"
+citeertitel: "Regeling digitaal beheer BES"
 identifier: "BWBR0029182"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029182"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11136403"
-version_id: "18213622"
-internal_id: "C25790761"
-label_id: "11110814"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029182/2010-10-10/0"
-intitule_bron: "Stcrt.2010-20796"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-13"
-intitule_published: "2010-12-22"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20796"
-original_signed_date: "2008-03-13"
-original_published_date: "2010-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20796"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0029182&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0029182&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling digitaal beheer BES"
-signed_date: "2008-03-13"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0029182"
+opgehaald: 2026-08-16
 ---
+
 # Ministeriële regeling van de 13de maart 2008 ter uitvoering van artikel 6 van het Archiefbesluit BES
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **archiefbescheiden:** archiefbescheiden die ingevolge een selectielijst voor bewaring in aanmerking komen;
+- *archiefbescheiden:* archiefbescheiden die ingevolge een selectielijst voor bewaring in aanmerking komen;
 
-- **bestand:** een geheel van gegevens in een zelfde opslagformaat;
+- *bestand:* een geheel van gegevens in een zelfde opslagformaat;
 
-- **besturingsprogrammatuur:** de programmatuur die bestemd is ter besturing van een informatie-systeem;
+- *besturingsprogrammatuur:* de programmatuur die bestemd is ter besturing van een informatie-systeem;
 
-- **conversie:** het omzetten in of het overzetten van gegevens in een ander opslagformaat;
+- *conversie:* het omzetten in of het overzetten van gegevens in een ander opslagformaat;
 
-- **digitale archiefbescheiden:** archiefbescheiden op optische of elektromagnetische informatie-dragers en toegankelijk door middel van besturingsapparatuur en toepassingsprogrammatuur;
+- *digitale archiefbescheiden:* archiefbescheiden op optische of elektromagnetische informatie-dragers en toegankelijk door middel van besturingsapparatuur en toepassingsprogrammatuur;
 
-- **documentair structuurplan:** een plan waarin zijn vastgelegd de archieforganisatie, de indeling van het archief en de manier waarop de bestanddelen daarbinnen dienen te worden gerangschikt;
+- *documentair structuurplan:* een plan waarin zijn vastgelegd de archieforganisatie, de indeling van het archief en de manier waarop de bestanddelen daarbinnen dienen te worden gerangschikt;
 
-- **handeling:** een complex van activiteiten ter vervulling van een taak of op grond van een bevoegdheid;
+- *handeling:* een complex van activiteiten ter vervulling van een taak of op grond van een bevoegdheid;
 
-- **archiefbeheerssysteem:** een geheel van mensen, methoden, procedures, gegevens verzamelingen, opslag-, verwerkings- en communicatieapparatuur en andere middelen, bestemd tot het beheer van archiefbescheiden;
+- *archiefbeheerssysteem:* een geheel van mensen, methoden, procedures, gegevens verzamelingen, opslag-, verwerkings- en communicatieapparatuur en andere middelen, bestemd tot het beheer van archiefbescheiden;
 
-- **ontstaan:** het moment dat archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten;
+- *ontstaan:* het moment dat archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten;
 
-- **migratie:** het overzetten van gegevens naar een ander platform;
+- *migratie:* het overzetten van gegevens naar een ander platform;
 
-- **opslagformaat:** de code waarin archiefbescheiden op een gegevensdrager zijn opgeslagen;
+- *opslagformaat:* de code waarin archiefbescheiden op een gegevensdrager zijn opgeslagen;
 
-- **platform:** geheel van apparatuur en besturingsprogrammatuur waarop de toepassingsprogrammatuur werkt;
+- *platform:* geheel van apparatuur en besturingsprogrammatuur waarop de toepassingsprogrammatuur werkt;
 
-- **structuur:** het logische verband tussen de elementen van een document of van een archief;
+- *structuur:* het logische verband tussen de elementen van een document of van een archief;
 
-- **toepassingsprogrammatuur:** de programmatuur die bestemd is ter ondersteuning van de uitvoering van een werkproces;
+- *toepassingsprogrammatuur:* de programmatuur die bestemd is ter ondersteuning van de uitvoering van een werkproces;
 
-- **vorm:** de uiterlijke verschijning waarin de structuur zichtbaar is;
+- *vorm:* de uiterlijke verschijning waarin de structuur zichtbaar is;
 
-- **werkproces:** de uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten.
+- *werkproces:* de uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten.
 
 ##### Artikel 2
 
@@ -84,11 +62,11 @@ De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschik
 
 Van elk van de archiefbescheiden dient te allen tijde te kunnen worden vastgesteld:
 
-- •. a. inhoud, structuur en vorm bij het ontstaan, een en ander zover de inhoud, structuur en vorm kenbaar moesten zijn voor de uitvoering van het bepaalde werkproces;
+- • a. inhoud, structuur en vorm bij het ontstaan, een en ander zover de inhoud, structuur en vorm kenbaar moesten zijn voor de uitvoering van het bepaalde werkproces;
 
-- •. b. op welk tijdstip en uit hoofde van welke taak of handeling het door het overheidsorgaan werd ontvangen of opgemaakt;
+- • b. op welk tijdstip en uit hoofde van welke taak of handeling het door het overheidsorgaan werd ontvangen of opgemaakt;
 
-- •. c. de samenhang met de andere door het overheidsorgaan ontvangen en opgemaakte archiefbescheiden.
+- • c. de samenhang met de andere door het overheidsorgaan ontvangen en opgemaakte archiefbescheiden.
 
 ##### Artikel 5
 
@@ -98,17 +76,17 @@ De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschik
 
 De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat van archiefbescheiden waarborgt zodanig dat:
 
-- •. a. elk van de archiefbescheiden kan worden gevonden, waarvan slechts bekend is hetzij enig onderwerp dat in het stuk behandeld is, hetzij het werkproces uit hoofde waarvan het stuk is ontvangen of opgemaakt, hetzij wie de afzender is, zomede de datum en het nummer door de afzender aan het stuk gegeven, hetzij het nummer waaronder het stuk bij het ontstaan is geregistreerd;
+- • a. elk van de archiefbescheiden kan worden gevonden, waarvan slechts bekend is hetzij enig onderwerp dat in het stuk behandeld is, hetzij het werkproces uit hoofde waarvan het stuk is ontvangen of opgemaakt, hetzij wie de afzender is, zomede de datum en het nummer door de afzender aan het stuk gegeven, hetzij het nummer waaronder het stuk bij het ontstaan is geregistreerd;
 
-- •. b. elk van de archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te maken is. Daartoe verleent degene die met het beheer is belast de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van het archiefbeheerssysteem.
+- • b. elk van de archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te maken is. Daartoe verleent degene die met het beheer is belast de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van het archiefbeheerssysteem.
 
 ##### Artikel 7
 
-- •. 1. Indien een gerede kans bestaat dat, als gevolg van wijziging van besturingsprogrammatuur, toepassingsprogrammatuur of apparatuur niet langer voldaan kan worden aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde, draagt de zorgdrager zorg voor conversie dan wel migratie van de archiefbescheiden.
+- • 1. Indien een gerede kans bestaat dat, als gevolg van wijziging van besturingsprogrammatuur, toepassingsprogrammatuur of apparatuur niet langer voldaan kan worden aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde, draagt de zorgdrager zorg voor conversie dan wel migratie van de archiefbescheiden.
 
-- •. 2. Iedere conversie of migratie die niet geschiedt met inachtneming van het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde, is een vervanging in de zin van [artikel 8 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8).
+- • 2. Iedere conversie of migratie die niet geschiedt met inachtneming van het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde, is een vervanging in de zin van [artikel 8 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8).
 
-- •. 3. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde voldaan kan worden na de conversie of migratie.
+- • 3. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde voldaan kan worden na de conversie of migratie.
 
 ##### Artikel 8
 
@@ -120,47 +98,47 @@ De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd doo
 
 ##### Artikel 10
 
-- •. 1. De zorgdrager draagt zorg voor het vastleggen van de functionele eisen ten aanzien van de inhoud, structuur en vorm, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10).
+- • 1. De zorgdrager draagt zorg voor het vastleggen van de functionele eisen ten aanzien van de inhoud, structuur en vorm, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10).
 
-- •. 2. De zorgdrager draagt, teneinde aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=9&z=2010-10-10&g=2010-10-10) bepaalde te voldoen, zorg voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de nieuwere versies, overeenkomstig het bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties inzake toepassingsprogrammatuur.
+- • 2. De zorgdrager draagt, teneinde aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=9&z=2010-10-10&g=2010-10-10) bepaalde te voldoen, zorg voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de nieuwere versies, overeenkomstig het bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties inzake toepassingsprogrammatuur.
 
 ##### Artikel 11
 
-- •. 1. De zorgdrager draagt zorg voor het vastleggen en de bewaring van tenminste de volgende gegevens:
+- • 1. De zorgdrager draagt zorg voor het vastleggen en de bewaring van tenminste de volgende gegevens:
 
-- •. a. de benaming van de toepassingsprogrammatuur waarmee de archiefbescheiden zijn ontvangen en opgemaakt, inclusief het versienummer;
+   - • a. de benaming van de toepassingsprogrammatuur waarmee de archiefbescheiden zijn ontvangen en opgemaakt, inclusief het versienummer;
 
-- •. b. de beschrijving van het platform, met naam en versie van de besturingsprogrammatuur en naam en type van de apparatuur;
+   - • b. de beschrijving van het platform, met naam en versie van de besturingsprogrammatuur en naam en type van de apparatuur;
 
-- •. c. de documentatie die aangeeft hoe de toepassingsprogrammatuur heeft gewerkt met inbegrip van de nieuwere versies;
+   - • c. de documentatie die aangeeft hoe de toepassingsprogrammatuur heeft gewerkt met inbegrip van de nieuwere versies;
 
-- •. d. een beschrijving van de opgeslagen bestanden, omvattende tenminste de volgende gegevens:
+   - • d. een beschrijving van de opgeslagen bestanden, omvattende tenminste de volgende gegevens:
 
-- •. e. de naam van het overheidsorgaan dat, en de benaming van het werkproces binnen hetwelk de archiefbescheiden zijn ontvangen of opgemaakt;
+   - • e. de naam van het overheidsorgaan dat, en de benaming van het werkproces binnen hetwelk de archiefbescheiden zijn ontvangen of opgemaakt;
 
-- •. f. de benaming en omvang van elk opgeslagen bestand;
+   - • f. de benaming en omvang van elk opgeslagen bestand;
 
-- •. g. een specificatie van de archiefbescheiden, met begin- en einddatum;
+   - • g. een specificatie van de archiefbescheiden, met begin- en einddatum;
 
-- •. h. de relatie met andere bestanden;
+   - • h. de relatie met andere bestanden;
 
-- •. i. het opslagformaat;
+   - • i. het opslagformaat;
 
-- •. j. in voorkomende gevallen de toegepaste compressiemethode;
+   - • j. in voorkomende gevallen de toegepaste compressiemethode;
 
-- •. k. de datum en het tijdstip van de opslag van het bestand op de gegevensdrager;
+   - • k. de datum en het tijdstip van de opslag van het bestand op de gegevensdrager;
 
-- •. l. in geval van een database: de documentatie over de structuur, tenminste omvattende een compleet logisch datamodel met beschrijving van de entiteiten.
+   - • l. in geval van een database: de documentatie over de structuur, tenminste omvattende een compleet logisch datamodel met beschrijving van de entiteiten.
 
-- •. 2. Op de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor archiefbescheiden ingevolge [artikel 12 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=12) geldende regels van overeenkomstige toepassing.
+- • 2. Op de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor archiefbescheiden ingevolge [artikel 12 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=12) geldende regels van overeenkomstige toepassing.
 
 ##### Artikel 12
 
-- •. 1. Onverminderd het in [artikel 3 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=3) bepaalde blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van digitale archiefbescheiden en bestanden waaraan sedert 1 januari 2006 geen gegevens zijn toegevoegd of waarin sedert 1 januari 2006 geen gegevens zijn gewijzigd.
+- • 1. Onverminderd het in [artikel 3 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=3) bepaalde blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van digitale archiefbescheiden en bestanden waaraan sedert 1 januari 2006 geen gegevens zijn toegevoegd of waarin sedert 1 januari 2006 geen gegevens zijn gewijzigd.
 
-- •. 2. Onverminderd het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=7&z=2010-10-10&g=2010-10-10) bepaalde worden de archiefbescheiden, bedoeld in het eerste lid, in hun oorspronkelijke opslagformaat bewaard.
+- • 2. Onverminderd het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=7&z=2010-10-10&g=2010-10-10) bepaalde worden de archiefbescheiden, bedoeld in het eerste lid, in hun oorspronkelijke opslagformaat bewaard.
 
-- •. 3. Met toestemming van de minister blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van sedert 1 januari 2006 ontvangen en opgemaakte digitale archiefbescheiden in bestanden waaraan sedert 1 januari 2007 geen gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn gewijzigd. Aan deze toestemming kunnen voorwaarden worden verbonden.
+- • 3. Met toestemming van de minister blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van sedert 1 januari 2006 ontvangen en opgemaakte digitale archiefbescheiden in bestanden waaraan sedert 1 januari 2007 geen gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn gewijzigd. Aan deze toestemming kunnen voorwaarden worden verbonden.
 
 ##### Artikel 13
 
@@ -181,16 +159,3 @@ Vervallen
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling digitaal beheer BES.
-
-## Bijlage 1. behorende bij de Regeling digitaal beheer BES
-
-| Character sets | ASCII (ISO/IEC 8859-1) of Unicode (ISO/IEC 10646-1) |
-| --- | --- |
-|   |   |
-| Tekstbestanden | Portable document format (PDF) of SGML dan wel XML vergezeld van een stylesheet (XSL, CSS) dan wel TIFF of PDF met metadatain een XML-wrapper; |
-|   |   |
-| CAD/CAM | Portable document format (PDF) en STEP (Standard for the exchange of product data) als metadata standaard (ISO 10303) |
-|   |   |
-| Images/beelden (bitmapped) | Portable document format (PDF) en indien gebruik gemaakt wordt van compressie: ITU T4 of ITU T6 |
-|   |   |
-| Databases | Het oorspronkelijke opslagformaat of ASCII (flatfile, met veldscheidingstekens) vergezeld van documentatie bij voorkeur in XML-DTD over de structuur van de database (tenminste omvattende een compleet logisch datamodel met beschrijving van de entiteiten); queries dienen in de vraagtaal SQL (SQL2) te worden vastgelegd. |

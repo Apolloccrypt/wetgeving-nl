@@ -1,38 +1,52 @@
 ---
 title: "Regeling tot vaststelling model geneeskundige verklaring krankzinnigheid BES"
 identifier: "BWBR0028705"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028705"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "10937363"
-version_id: "17922842"
-internal_id: "C24841441"
-label_id: "10911824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028705/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14610"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-28"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14610"
-original_signed_date: "2010-09-28"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14610"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028705&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028705&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-28"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028705"
+opgehaald: 2026-08-16
 ---
+
 # Regeling tot vaststelling model geneeskundige verklaring krankzinnigheid BES
 
-Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
+- 1°. Onder vervallenverklaring van het bestaande formulier, vast te stellen de volgende geneeskundige verklaring ter constateering van krankzinnigheid: Geneeskundige Verklaring Bedoeld bij het derde lid van [artikel 8 van de Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&artikel=8); Naam: Geslacht: ...... geboortedatum: ...... burgerlijke staat: ...... Naam van den echtgenoot (bij gehuwde vrouw): Verblijfplaats (nauwkeurig aangeven in welke woning of inrichting de patiënt zich bevindt): Vragen antwoorden (van den geneesheer)
+
+   - 1. Zijt Ge de huisarts van patiënt(e)? Zoo neen,
+
+      - a. in welke andere kwaliteit hebt Ge patiënt(e) dan bezocht (behandeld)?
+
+      - b. wie is de huisarts (naam en adres)?
+
+      - c. hebt Ge overleg met hem gepleegd?
+
+   - 2.
+
+      - a. Hoe lang is patiënt(e) U bekend?
+
+      - b. Hoe vaak hebt Ge hem (haar) in de laatste drie weken bezocht?
+
+      - c. Op welken datum het laatst?
+
+   - 3. Verricht patiënt(e) nog zijne (hare) gewone werkzaamheden? Zoo neen sedert wanneer niet?
+
+   - 4. Welke feiten en verschijnselen, op grond waarvan Ge oordeelt, dat patiënt(e) in zijne (hare) geestvermogens gestoord is zijn door U zelven waargenomen?
+
+   - 5.
+
+      - a. Welke feiten en verschijnselen zijn U door anderen medegedeeld?
+
+      - b. Van wien hebt Ge deze inlichtingen ontvangen?
+
+   - 6. Om welke redenen zijt Ge van meening, dat patiënt(e) niet in zijne (hare) omgeving kan blijven? (Indien patiënt(e) gevaarlijk wordt geacht voor zichzelf of voor anderen, vermelden, waaruit het gevaar gebleken is).
+
+   - 7. Om welke redenen is volgens Uw zienswijze de plaatsing van patiënt(e) in een gesticht voor krankzinnigen te verkiezen boven de plaatsing in eene andere omgeving of inrichting?
+
+   - 8. Werd patiënt(e) reeds eerder in een gesticht, kliniek of andere inrichting verpleegd, zoo ja waar en wanneer?
+
+   - 9. Welke mededeelingen en wenken acht Ge nog van belang? De ondergeteekende, bevoegd tot uitoefenen der geneeskunst hiertelande, wonende te tel. no. , verklaart in aansluiting aan zijne antwoorden op de gestelde vragen, dat voornoemde persoon lijdende is aan krankzinnigheid1Zoo mogelijk hier vermelden den vorm van krankzinnigheid. voorts, dat zijne (hare) plaatsing in een gesticht voor krankzinnigen noodzakelijk2Onderstrepen wat bedoeld wordt.respectievelijk wenschelijk is. Dagteekening: Handteekening:
+
+- 2°. te bepalen, dat deze beschikking in de Staatscourant zal worden opgenomen.

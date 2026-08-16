@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052884"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 5 juli 2026, nr. WJZ/ 101446051, houdende regels voor essentiële en belangrijke entiteiten in de EZK-sectoren (Regeling cyberbeveiliging EZK) (KetenID WGK 28487)

@@ -1,70 +1,37 @@
 ---
 title: "Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake voorzieningen in de huisvesting PO/VO BES (Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES)"
+citeertitel: "Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES"
 identifier: "BWBR0029607"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029607"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11238213"
-version_id: "28136332"
-internal_id: "C39673051"
-label_id: "11212294"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029607/2022-08-01/0"
-intitule_bron: "Stb.2011-38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-03"
-intitule_published: "2011-02-16"
-intitule_in_force: "2011-03-07"
-intitule_status: "goed"
-original_publication: "Stb.2021-522"
-original_signed_date: "2021-10-14"
-original_published_date: "2021-11-05"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2021-522"
-entry_into_force_date: "2021-10-14"
-jci_1_3: "jci1.3:c:BWBR0029607&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0029607&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES"
-signed_date: "2021-10-14"
-entry_into_force: "2021-10-14"
+publicatiedatum: 2021-10-14
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0029607"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake voorzieningen in de huisvesting PO/VO BES (Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236432 (3837), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 78, tweede lid, van de Wet primair onderwijs BES](onbekend) en [artikel 129, tweede lid, van de Wet voortgezet onderwijs BES](onbekend);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0448/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 31 januari 2011, nr. WJZ 256918 (3837), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 78, tweede lid, van de Wet primair onderwijs BES in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- a. *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- b. **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
+- b. *vwo:* voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-- c. **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
+- c. *mavo:* middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-- d. **avo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) of mavo;
+- d. *avo:* hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) of mavo;
 
-- e. **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
+- e. *vbo:* voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- f. **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
+- f. *praktijkonderwijs:* praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- g. **een scholengemeenschap:** een scholengemeenschap als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5);
+- g. *een scholengemeenschap:* een scholengemeenschap als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5);
 
-- h. **gemengde leerweg:** de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 2.27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27).
+- h. *gemengde leerweg:* de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 2.27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27).
 
 ##### Artikel 2. Bruto vloeroppervlakte basisonderwijs
 
@@ -91,18 +58,14 @@ Treedt in werking op het tijdstip waarop artikel 78, tweede lid, van de Wet prim
 | d. vbo, overige sectoren | leerjaar 3 en 4 | 7,0 |
 | e. praktijkonderwijs | alle leerjaren | 10,5 |
 
-##### Artikel 4. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van het tijdstip waarop [artikel 78, tweede lid, van de Wet primair onderwijs BES](onbekend) in werking treedt.
-
-##### Artikel 5. Citeertitel
-
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 3a. Omhangbepaling
 
 Dit besluit berust mede op [artikel 11.62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.62).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 4. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van het tijdstip waarop [artikel 78, tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/BWBR0028735) in werking treedt.
+
+##### Artikel 5. Citeertitel
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES.

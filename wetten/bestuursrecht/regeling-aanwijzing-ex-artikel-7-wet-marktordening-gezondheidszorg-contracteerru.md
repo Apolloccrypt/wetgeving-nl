@@ -1,46 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 november 2010, nr. DLZ/SFI-U-3030940, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2011"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)"
 identifier: "BWBR0029035"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-12-08"
-last_updated: "2010-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029035"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11096643"
-version_id: "18142422"
-internal_id: "C25224231"
-label_id: "11071044"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029035/2010-12-08/0"
-intitule_bron: "Stcrt.2010-19488"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-09"
-intitule_published: "2010-12-08"
-intitule_in_force: "2010-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-19488"
-original_signed_date: "2010-11-09"
-original_published_date: "2010-12-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-19488"
-entry_into_force_date: "2010-12-08"
-jci_1_3: "jci1.3:c:BWBR0029035&z=2010-12-08&g=2010-12-08"
-jci_1_0: "1.0:c:BWBR0029035&g=2010-12-08"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)"
-signed_date: "2010-11-09"
-entry_into_force: "2010-12-08"
+publicatiedatum: 2010-12-08
+laatste_update: 2010-12-08
+status: geldig
+toestand: 2010-12-08
+bron: "https://wetten.overheid.nl/BWBR0029035"
+opgehaald: 2026-08-16
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 november 2010, nr. DLZ/SFI-U-3030940, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2011
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na 29 september 2010 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal over de zakelijke inhoud van mijn voornemen aan de Nederlandse Zorgautoriteit een aanwijzing te geven (Kamerstukken II 2009/10, 30 597, nr. 157);
-
-Besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -56,31 +28,31 @@ Besluit:
 
 De zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2011 via dezelfde systematiek als voor de jaren 2005 tot en met 2010 is toegepast. De zorgautoriteit berekent de totale contracteerruimte voor 2011 met inachtneming van de volgende onderdelen:
 
-- 1. **startpunt** Startpunt voor het bepalen van de totale contracteerruimte voor het jaar 2011 is 100% van de totale contracteerruimte voor het jaar 2010 zoals de zorgautoriteit die heeft vastgesteld, waaronder mede begrepen de niet-benutte contracteerruimte 2010. De extra middelen in verband met de doelmatige uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) 2010, te weten 0,5% van de totale contracteerruimte anticiperend op de jaarlijkse onderuitputting, worden niet opgenomen in de contracteerruimte 2011. De productieafspraken betrekking hebbend op de in de loop van in 2010 nieuw in gebruik genomen of uitgebreide intramurale capaciteit worden aan het startpunt op jaarbasis toegevoegd.
+- 1. *startpunt* Startpunt voor het bepalen van de totale contracteerruimte voor het jaar 2011 is 100% van de totale contracteerruimte voor het jaar 2010 zoals de zorgautoriteit die heeft vastgesteld, waaronder mede begrepen de niet-benutte contracteerruimte 2010. De extra middelen in verband met de doelmatige uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) 2010, te weten 0,5% van de totale contracteerruimte anticiperend op de jaarlijkse onderuitputting, worden niet opgenomen in de contracteerruimte 2011. De productieafspraken betrekking hebbend op de in de loop van in 2010 nieuw in gebruik genomen of uitgebreide intramurale capaciteit worden aan het startpunt op jaarbasis toegevoegd.
 
-- 2. **verhoging contracteerruimte** Het bedrag voorvloeiend uit het startpunt bedoeld in onderdeel 1 wordt **verhoogd** met de volgende bedragen:
+- 2. *verhoging contracteerruimte* Het bedrag voorvloeiend uit het startpunt bedoeld in onderdeel 1 wordt *verhoogd* met de volgende bedragen:
 
-- a. € 340 miljoen, zijnde het restant van groeimiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=3&z=2010-12-08&g=2010-12-08) dat beschikbaar is voor het maken van extra productieafspraken in het kader van de contracteerruimte AWBZ;
+   - a. € 340 miljoen, zijnde het restant van groeimiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=3&z=2010-12-08&g=2010-12-08) dat beschikbaar is voor het maken van extra productieafspraken in het kader van de contracteerruimte AWBZ;
 
-- b. € 115 miljoen, zijnde het ongedaan maken van de tariefkorting 2008 met het bijbehorende bonus-/malussysteem;
+   - b. € 115 miljoen, zijnde het ongedaan maken van de tariefkorting 2008 met het bijbehorende bonus-/malussysteem;
 
-- c. € 175 miljoen, zijnde de maximale ruimte voor nieuwe capaciteit gedurende het jaar 2011.
+   - c. € 175 miljoen, zijnde de maximale ruimte voor nieuwe capaciteit gedurende het jaar 2011.
 
-- 3. **verlaging contracteerruimte** Het bedrag voortvloeiend uit het startpunt bedoeld in onderdeel 1 wordt **verlaagd** met de volgende bedragen:
+- 3. *verlaging contracteerruimte* Het bedrag voortvloeiend uit het startpunt bedoeld in onderdeel 1 wordt *verlaagd* met de volgende bedragen:
 
-- a. € 32 miljoen vanwege de beperking van de AWBZ-aanspraak begeleiding en het gedragseffect van de invoering van de eigen bijdrage begeleiding;
+   - a. € 32 miljoen vanwege de beperking van de AWBZ-aanspraak begeleiding en het gedragseffect van de invoering van de eigen bijdrage begeleiding;
 
-- b. € 95 miljoen vanwege de introductie van financiering aan de hand van best practices;
+   - b. € 95 miljoen vanwege de introductie van financiering aan de hand van best practices;
 
-- c. € 50 miljoen in verband met het programma ‘In voor zorg’;
+   - c. € 50 miljoen in verband met het programma ‘In voor zorg’;
 
-- d. € 142 miljoen in verband de constatering dat de groei van de intramurale capaciteit in 2009 aanzienlijk groter is geweest dan geraamd;
+   - d. € 142 miljoen in verband de constatering dat de groei van de intramurale capaciteit in 2009 aanzienlijk groter is geweest dan geraamd;
 
-- e. € 57 miljoen vanwege het oogmerk doelmatige inkoop;
+   - e. € 57 miljoen vanwege het oogmerk doelmatige inkoop;
 
-- f. € 58 miljoen vanwege een korting op de vaste tarieven voor het basisgedeelte van de prestaties vallend onder de functies Persoonlijke Verzorging, Verpleging, Begeleiding Individueel en Behandeling;
+   - f. € 58 miljoen vanwege een korting op de vaste tarieven voor het basisgedeelte van de prestaties vallend onder de functies Persoonlijke Verzorging, Verpleging, Begeleiding Individueel en Behandeling;
 
-- g. € 5 miljoen vanwege het schrappen van het recht op zorg in het kader van de AWBZ-uitleen betreffende de eenvoudige loophulpmiddelen.
+   - g. € 5 miljoen vanwege het schrappen van het recht op zorg in het kader van de AWBZ-uitleen betreffende de eenvoudige loophulpmiddelen.
 
 ##### Artikel 3. Groeimiddelen
 
@@ -100,17 +72,17 @@ In 2011 is voor de groei van de totale AWBZ-uitgaven een bedrag van ten hoogste 
 
 Naast de contracteerruimte en naast de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=3&z=2010-12-08&g=2010-12-08) opgesomde middelen zijn geoormerkte middelen beschikbaar voor het maken van specifieke productieafspraken en doelen. Het betreft:
 
-- a). het bekostigen van zorgbehoefte van cliënten met een extreme zorgzwaarte in de gehandicaptenzorg (landelijk kader van € 163 miljoen);
+- a) het bekostigen van zorgbehoefte van cliënten met een extreme zorgzwaarte in de gehandicaptenzorg (landelijk kader van € 163 miljoen);
 
-- b). het bekostigen van innovatie in de vorm van kortdurende kleinschalige experimenten (landelijk kader van € 12,5 miljoen);
+- b) het bekostigen van innovatie in de vorm van kortdurende kleinschalige experimenten (landelijk kader van € 12,5 miljoen);
 
-- c). het bekostigen van innovatie ten behoeve van ketenzorg dementie (landelijk kader van € 10,5 miljoen);
+- c) het bekostigen van innovatie ten behoeve van ketenzorg dementie (landelijk kader van € 10,5 miljoen);
 
-- d). het bekostigen van innovatie in het kader van het Nationaal Programma Ouderenzorg (landelijk kader van € 10 miljoen);
+- d) het bekostigen van innovatie in het kader van het Nationaal Programma Ouderenzorg (landelijk kader van € 10 miljoen);
 
-- e). het aanpakken van de wachtlijsten van de JLVG (een vrije ruimte van € 6,5 miljoen);
+- e) het aanpakken van de wachtlijsten van de JLVG (een vrije ruimte van € 6,5 miljoen);
 
-- f). middelen die eventueel nog noodzakelijk zijn voor de afwikkeling van de nog lopende experimenten in het transitieprogramma langdurige zorg dat per 31 december 2011 afloopt.
+- f) middelen die eventueel nog noodzakelijk zijn voor de afwikkeling van de nog lopende experimenten in het transitieprogramma langdurige zorg dat per 31 december 2011 afloopt.
 
 ### Hoofdstuk III. Budgetrondes en regionale contracteerruimte
 

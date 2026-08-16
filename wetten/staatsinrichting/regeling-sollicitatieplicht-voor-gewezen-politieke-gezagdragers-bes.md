@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607568, tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba en het opleggen van sancties aan gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES)"
+citeertitel: "Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES"
 identifier: "BWBR0028593"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028593"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "10888053"
-version_id: "17870412"
-internal_id: "C24910771"
-label_id: "10862824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028593/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14698"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-16"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14698"
-original_signed_date: "2010-09-16"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14698"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028593&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028593&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES"
-signed_date: "2010-09-16"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028593"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607568, tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba en het opleggen van sancties aan gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES)
-
-Gelet op de [artikelen 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a), [3b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b), en [3c, tweede lid, van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de artikelen 3a, 3b en 3c van het Pensioenbesluit politieke gezagdragers BES in werking treden.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -48,25 +20,26 @@ Treedt in werking op het tijdstip waarop de artikelen 3a, 3b en 3c van het Pensi
 
 In deze regeling wordt verstaan onder:
 
-- a. **betrokkene:** betrokkene als bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a);
+- a. *betrokkene:* betrokkene als bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a);
 
-- b. **inhouding:** inhouding als bedoeld in [artikel 3c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c);
+- b. *inhouding:* inhouding als bedoeld in [artikel 3c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c);
 
-- c. **re-integratiebedrijf:** een natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert;
+- c. *re-integratiebedrijf:* een natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert;
 
-- d. **passende arbeid:** passende arbeid als bedoeld in [artikel 3a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b);
+- d. *passende arbeid:* passende arbeid als bedoeld in [artikel 3a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b);
 
-- e. **plan:** plan voor het gericht zoeken naar en verwerven van passende arbeid als bedoeld in artikel 3a, vierde lid, van het besluit;
+- e. *plan:* plan voor het gericht zoeken naar en verwerven van passende arbeid als bedoeld in artikel 3a, vierde lid, van het besluit;
 
-- f. **planmatige begeleiding en ondersteuning:** planmatige begeleiding en ondersteuning bij het gericht zoeken en verwerven van passende arbeid als bedoeld in [artikel 3b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b);
+- f. *planmatige begeleiding en ondersteuning:* planmatige begeleiding en ondersteuning bij het gericht zoeken en verwerven van passende arbeid als bedoeld in [artikel 3b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b);
 
-- g. **sollicitatieactiviteit:** activiteit gericht op het zoeken dan wel verwerven van passende arbeid;
+- g. *sollicitatieactiviteit:* activiteit gericht op het zoeken dan wel verwerven van passende arbeid;
 
-- h. **uitkering:** uitkering als bedoeld in [hoofdstuk 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2);
+- h. *uitkering:* uitkering als bedoeld in [hoofdstuk 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2);
 
-- i. **bevoegde gezag:** bevoegde gezag als bedoeld in [artikel 1, onderdeel g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=1);
+- i. *bevoegde gezag:* bevoegde gezag als bedoeld in [artikel 1, onderdeel g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=1);
 
-- j. **besluit:** [Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554).
+- j. *besluit:*
+ [Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554).
 
 ### Hoofdstuk 2. Regels betreffende activiteiten om passende arbeid te vinden
 
@@ -201,5 +174,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [artikelen 3a](https:/
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

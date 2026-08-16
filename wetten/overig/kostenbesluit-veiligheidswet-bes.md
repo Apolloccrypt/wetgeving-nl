@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)"
+citeertitel: "Kostenbesluit Veiligheidswet BES"
 identifier: "BWBR0028795"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028795"
+categorie: "Sociaal recht"
 soort: "AMvB-BES"
-stam_id: "11027113"
-version_id: "18018312"
-internal_id: "C25039621"
-label_id: "11001644"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028795/2010-10-10/0"
-intitule_bron: "Stb.2010-376"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-30"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-376"
-original_signed_date: "2010-09-30"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-376"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028795&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028795&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Kostenbesluit Veiligheidswet BES"
-signed_date: "2010-09-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028795"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 juli 2010, nr. 2010-0000467008, Directie Constitutionele Zaken en Wetgeving;
-
-Gelet op [artikel 70, derde lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=70);
-
-De Raad van State gehoord (advies van 29 juli 2010, nr. W04.0298/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 22 september 2010, nr. 2010-0000595376;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -149,5 +115,3 @@ Dit besluit treedt in werking op het tijdstip waarop de Veiligheidswet BES in we
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Kostenbesluit Veiligheidswet BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

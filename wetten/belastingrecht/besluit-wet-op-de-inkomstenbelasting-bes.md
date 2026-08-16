@@ -1,43 +1,19 @@
 ---
 title: "Besluit Wet op de inkomstenbelasting BES"
 identifier: "BWBR0029306"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029306"
+categorie: "Belastingrecht"
 soort: "beleidsregel-BES"
-stam_id: "11176413"
-version_id: "18281342"
-internal_id: "C25434271"
-label_id: "11150754"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029306/2011-01-01/0"
-intitule_bron: "Stcrt.2010-21197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-19"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21197"
-original_signed_date: "2010-12-19"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21197"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029306&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029306&g=2011-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-19"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029306"
+opgehaald: 2026-08-16
 ---
+
 # Besluit Wet op de inkomstenbelasting BES
 
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-**In dit besluit heb ik het beleid neergelegd voor de toepassing van de Wet op de inkomstenbelasting BES. De goedkeuringen in dit besluit zijn een voortzetting van het uitvoeringsbeleid zoals dat onder het staatsbestel van de Nederlandse Antillen was geformuleerd voor de uitvoering van de Landsverordening op de inkomstenbelasting 1943. Uitvoeringsregels die door wijzigingen in de wetgeving en/of het vervallen van de winstbelasting hun belang hebben verloren zijn in dit besluit niet opgenomen.**
+*In dit besluit heb ik het beleid neergelegd voor de toepassing van de Wet op de inkomstenbelasting BES. De goedkeuringen in dit besluit zijn een voortzetting van het uitvoeringsbeleid zoals dat onder het staatsbestel van de Nederlandse Antillen was geformuleerd voor de uitvoering van de Landsverordening op de inkomstenbelasting 1943. Uitvoeringsregels die door wijzigingen in de wetgeving en/of het vervallen van de winstbelasting hun belang hebben verloren zijn in dit besluit niet opgenomen.*
 
 ### 1. Inleiding
 
@@ -45,17 +21,31 @@ Dit besluit bevat twee goedkeuringen voor de toepassing van de [Wet op de inkoms
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+- *de Wet:* de [Wet op de inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281)
+
 ### 1.2. Voorgaande regelingen
 
 De volgende Nederlands Antilliaanse uitvoeringsregelingen zijn in dit besluit verwerkt:
+
+- 1. Aanschrijving van de Directeur der belastingen van 19 april 1996 met betrekking tot de toepassing van de investeringsaftrek ingeval toepassing van de vervangingsreserve;
+
+- 2. Intern bericht van de inspecteur aan zijn medewerkers van 3 mei 1973 inzake de berekening van het rente bestanddeel begrepen in uitkeringen van kapitaalverzekeringen;
 
 ### 2. Berekening investeringsaftrek en desinvesteringsbijtelling bij toepassing van vervangingsreserve of ruilarresten.
 
 Op grond van [artikel 9A van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9a) ontstaat bij investeringen in bedrijfsmiddelen een recht op investeringsaftrek. De Hoge Raad heeft bij zijn arrest van 24 december 1975, BNB1976/51, beslist dat ingeval van aanwending van een vervangingsreserve de investeringsaftrek behoort te worden verleend over het met de vervangingsreserve verminderde investeringsbedrag. De eventuele desinvesteringsbijtelling met betrekking tot het afgestane bedrijfsmiddel wordt berekend over de verkoopwaarde verminderd met de vervangingsreserve, welk bedrag gelijk is aan de boekwaarde van dat bedrijfsmiddel. Ingeval van ruil van bedrijfsmiddelen had de Hoge Raad reeds in deze zin geoordeeld (BNB1968/132 en BNB1970/1).
 
+Goedkeuring
+
 Ik keur goed dat voor de berekening van de investeringsaftrek als vermeld in [artikel 9A van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9a) als grondslag wordt genomen de kostprijs van het vervangende bedrijfsmiddel zonder dat deze is verminderd met de op voet van [artikel 10, vierde tot en met zevende lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=10) gevormde vervangingsreserve ter zake van het vervangen bedrijfsmiddel. Voor gevallen waarin de zogenaamde ruilarresten toepassing vinden geldt mutatis mutandis hetzelfde.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- a. Is investeringsaftrek genoten over de kostprijs van een bedrijfsmiddel zonder dat deze is verminderd met de op voet van [artikel 10, vierde tot en met zevende lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=10) gevormde vervangingsreserve ter zake van het vervangen bedrijfsmiddel, dan zal belastingplichtige zich bij desinvestering niet op het standpunt stellen dat hij, bij het bepalen van de hoogte van de desinvesteringsbijtelling, de boekwaarde ten tijde van de inruil als grondslag wenst te hanteren (overeenkomstig de opvatting van de Hoge Raad). Als grondslag zal gelden de overdrachtsprijs dan wel de waarde in het economische verkeer.
+
+- b. Indien blijkt dat is uitgegaan van een te hoge grondslag voor het berekenen van investeringsaftrek, wordt belastingplichtige geacht geen verzoek om toepassing van dit besluit te hebben gedaan, zodat de investeringsaftrek alsnog overeenkomstig de opvatting van de Hoge Raad moet worden berekend.
 
 Indien blijkt dat belastingplichtige bij vervreemding van het bedrijfsmiddel ter zake waarvan de investeringsaftrek op basis van dit besluit in aanmerking is genomen, – in strijd met voorwaarde a – zich alsnog op het standpunt stelt dat de boekwaarde van het afgestane bedrijfsmiddel de grondslag voor de desinvesteringsbijtelling moet vormen, dan wel indien blijkt dat een situatie zoals beschreven bij voorwaarde b zich heeft voorgedaan, kan in ieder geval gedurende vijf kalender (boek-)jaren na het jaar waarin deze situaties zijn geconstateerd, geen beroep op dit besluit worden ingewilligd. Alsdan zal voor de relevante (toekomstige) investeringen overeenkomstig de ter zake geldende opvatting van de Hoge Raad investeringsaftrek worden verleend en desinvesteringsbijtelling worden toegepast.
 
@@ -73,42 +63,16 @@ Tot de opbrengst van roerend kapitaal als bedoeld in [artikel 5 van de Wet](http
 
 Gebleken is dat deze methode in de praktijk van de aanslagregeling eenvoudig is toe te passen en tot een redelijke uitkomst leidt.
 
+Goedkeuring
+
 Ik keur goed dat de rente begrepen in de uitkeringen van kapitaalverzekeringen als volgt wordt bepaald:
+
+- – voor elk vol jaar van de looptijd van de verzekering wordt het rentebestanddeel gesteld op driekwart percent van de verzekerde som, met dien verstande dat niet meer dan vijfentwintig jaar in aanmerking wordt genomen;
+
+- – het percentage wordt gesteld op anderhalf percent indien een koopsom is gestort, tenzij het een collectieve verzekering betreft.
 
 Het vorenstaande laat onverlet dat het een belastingplichtige vrij staat aan te tonen dat een door hem overlegde wijze van berekening juister is.
 
 ### 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2011 met dien verstande dat het voor het eerst toepassing vindt op belastingjaren die op of na genoemde datum aanvangen.
-
-## Bijlage
-
-### Verklaring inzake de berekening van investeringsaftrek en desinvesteringsbijtelling bij aanwending van een vervangingsreserve of gebruikmaking van de ruilarresten
-
-Aan de inspecteur van de Belastingdienst/Caribisch Nederland
-
-De ondergetekende, .....
-
-te ....., fiscaalnummer .....
-
-verzoekt voor de heffing van inkomstenbelasting over het jaar ..... toepassing van het besluit van ..…2010, nr. DGB2010/8059M, met betrekking tot de volgende bedrijfsmiddelen:
-
-De afgestane bedrijfsmiddelen zijn:
-
-De ondergetekende verklaart dat bij de berekening van de grondslag voor het verlenen van investeringsaftrek is uitgegaan van de reële waarde van zowel het vervangende als het afgestane bedrijfsmiddel.
-
-Voorts verklaart ondergetekende akkoord te gaan met de volgende voorwaarden:
-
-.....
-
-(plaats)
-
-.....
-
-(dagtekening)
-
-.....
-
-(handtekening)
-
-Dit besluit wordt met de bijlage in de Staatscourant gepubliceerd.

@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzing handelwijze bij beroep op noodweer"
 identifier: "BWBR0029133"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029133"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11117533"
-version_id: "18179822"
-internal_id: "C25269991"
-label_id: "11091864"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029133/2011-01-01/0"
-intitule_bron: "Stcrt.2010-20474"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-13"
-intitule_published: "2010-12-21"
-intitule_in_force: "2010-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20474"
-original_signed_date: "2010-12-13"
-original_published_date: "2010-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20474"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029133&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029133&g=2011-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-13"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029133"
+opgehaald: 2026-08-16
 ---
+
 # Aanwijzing handelwijze bij beroep op noodweer
 
 ### Achtergrond
@@ -48,6 +26,10 @@ In deze gevallen wordt het door de burger wie het overkomt als onrechtvaardig en
 De politie moet onderzoek doen naar de ware toedracht van het incident. Maar in het geval het vermoeden rijst dat sprake kan zijn van noodweer of noodweerexces, dient terughoudendheid te worden betracht met de aanwending van vrijheidsbenemende dwangmiddelen.
 
 Deze aanwijzing beoogt te bewerkstelligen dat het dwangmiddel ‘aanhouding’ niet op de betrokkene zal worden toegepast in de volgende gevallen:
+
+- 1. Er was sprake van een noodweersituatie en betrokkene heeft zich op gepaste wijze verdedigd;
+
+- 2. Er was sprake van een noodweersituatie waarbij betrokkene de grenzen van de noodzakelijke verdediging heeft overschreden, maar dat dit is gebeurd als gevolg van de hevige gemoedstoestand die door de aanranding is veroorzaakt.
 
 In het geval er duidelijke aanwijzingen zijn van eigenrichting of van een gedraging die anderszins niet aan de wettelijke of jurisprudentiële vereisten van noodweer of noodweerexces voldoen, dienen deze aanwijzingen getoetst te worden door de rechter-commissaris. Dit betekent dat vrijheidsbeneming van de hierboven omschreven verdachte uitsluitend tot stand kan komen door de toewijzing van een rauwelijks ingediende vordering tot inbewaringstelling.
 
@@ -80,6 +62,18 @@ Zo mogelijk wordt de verdachte ter plekke gehoord. Is dat niet mogelijk, dan wor
 Van de politie wordt gevraagd om in een situatie waarin vermoedelijk noodweer een rol speelt, omstandig te verbaliseren over de personen betrokken bij de gebeurtenis en de omstandigheden waaronder het heeft plaatsgevonden. Op basis van deze processen-verbaal beoordeelt de officier van justitie of het waarschijnlijk is dat een beroep op noodweer(exces) door de zittingsrechter al dan niet gehonoreerd zal worden. Uitsluitend indien hij tot het oordeel komt dat het waarschijnlijk is dat een dergelijk beroep niet gehonoreerd zal worden, kan de officier van justitie van de rechter-commissaris vorderen dat deze rauwelijks een bevel inbewaringstelling verleent. In dat geval moet, behalve aan de eis van het zojuist bedoelde waarschijnlijkheidsoordeel, vanzelfsprekend ook voldaan zijn aan de vereisten van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67) en [67a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67a).
 
 Samenvattend: een verdachte met een bijzondere positie als bedoeld in deze Aanwijzing, wordt in beginsel niet aangehouden, in verzekering gesteld of in voorlopige hechtenis genomen. Op deze hoofdregel bestaat een aantal uitzonderingen:
+
+- 1. Indien er aanwijzingen zijn dat de verdachte het opsporingsonderzoek tegenwerkt of de waarheidsvinding belemmert, kan de officier van justitie – en bij heterdaad de hulpofficier van justitie – besluiten dat de verdachte wordt aangehouden en (indien nodig) in verzekering wordt gesteld.
+
+- 2. Indien de officier van justitie in de loop van het onderzoek het niet waarschijnlijk acht dat een beroep op noodweer(exces) zal worden gehonoreerd, kan de officier van justitie rauwelijks de bewaring vorderen.
+
+- 3. In onderstaande situaties blijft deze aanwijzing buiten toepassing en oefent de (hulp)officier van justitie de eigen bevoegdheden uit:
+
+   - – Er is sprake van een situatie waarbij de betrokkene een vuurwapen heeft gebruikt.
+
+   - – Het onmiddellijk aannemelijk is dat er een relatie met andere strafbare feiten bestaat waarbij de betrokkene als mogelijke dader is betrokken. Bijvoorbeeld wanneer het voorval zich in de eigen woning heeft afgespeeld en zich in diezelfde woning ook een hennepplantage bevindt.
+
+   - – Het geweldsincident heeft zich voorgedaan in een uitgaansgebied of tijdens een evenement.
 
 ### Overgangsrecht
 

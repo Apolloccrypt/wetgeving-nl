@@ -1,49 +1,27 @@
 ---
 title: "Besluit op de weerkorpsen BES"
 identifier: "BWBR0028722"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028722"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10944533"
-version_id: "17930732"
-internal_id: "C24911831"
-label_id: "10919104"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028722/2010-10-10/0"
-intitule_bron: "Stb.2010-553"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-06"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-553"
-original_signed_date: "2010-10-06"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-553"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028722&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028722&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-10-06"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028722"
+opgehaald: 2026-08-16
 ---
+
 # Besluit op de weerkorpsen BES
 
 ##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **bevoegd gezag:** het gezag waaronder een organisatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), eerste lid, bij een operationeel optreden is gesteld;
+- a. *bevoegd gezag:* het gezag waaronder een organisatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), eerste lid, bij een operationeel optreden is gesteld;
 
-- b. **korpscommandant:** de korpscommandant, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=5&z=2010-10-10&g=2010-10-10);
+- b. *korpscommandant:* de korpscommandant, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=5&z=2010-10-10&g=2010-10-10);
 
-- c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 

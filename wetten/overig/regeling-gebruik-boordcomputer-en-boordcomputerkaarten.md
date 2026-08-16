@@ -1,45 +1,17 @@
 ---
 title: "Regeling gebruik boordcomputer en boordcomputerkaarten"
 identifier: "BWBR0028974"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-01"
-last_updated: "2023-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028974"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11079733"
-version_id: "18109362"
-internal_id: "C26272011"
-label_id: "11054294"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028974/2023-03-01/0"
-intitule_bron: "Stcrt.2010-18329"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-15"
-intitule_published: "2010-11-23"
-intitule_in_force: "2011-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-18329"
-original_signed_date: "2010-11-15"
-original_published_date: "2010-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-18329"
-entry_into_force_date: "2011-10-01"
-jci_1_3: "jci1.3:c:BWBR0028974&z=2023-03-01&g=2023-03-01"
-jci_1_0: "1.0:c:BWBR0028974&g=2023-03-01"
-citeertitel_status: "officieel"
-signed_date: "2010-11-15"
-entry_into_force: "2011-10-01"
+publicatiedatum: 2011-10-01
+laatste_update: 2023-03-01
+status: geldig
+toestand: 2023-03-01
+bron: "https://wetten.overheid.nl/BWBR0028974"
+opgehaald: 2026-08-16
 ---
+
 # Regeling gebruik boordcomputer en boordcomputerkaarten
-
-Gelet op de [artikelen 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=73), [79, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79), [80, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80), [82, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82), en [83, zesde tot en met achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), en [artikel 2.4:2, tweede lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, onderdeel L, van het Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs) in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,17 +19,18 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel L, van het Wijzigi
 
 In deze regeling wordt verstaan onder:
 
-- **Besluit:** [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
+- *Besluit:*
+ [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
 
-- **erkenninghouder:** natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79);
+- *erkenninghouder:* natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79);
 
-- **lwt-kaart:** chauffeurskaart, verstrekt in het kader van een leer-werktraject;
+- *lwt-kaart:* chauffeurskaart, verstrekt in het kader van een leer-werktraject;
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- *Minister:* Minister van Infrastructuur en Milieu;
 
-- **pincode:** persoonlijk identificatie nummer aan de hand waarvan de boordcomputer de houder van een boordcomputerkaart authenticeert;
+- *pincode:* persoonlijk identificatie nummer aan de hand waarvan de boordcomputer de houder van een boordcomputerkaart authenticeert;
 
-- **pukcode:** pin unlock key aan de hand waarvan de boordcomputer de houder van een boordcomputer authenticeert en in staat stelt om de pincode te wijzigen.
+- *pukcode:* pin unlock key aan de hand waarvan de boordcomputer de houder van een boordcomputer authenticeert en in staat stelt om de pincode te wijzigen.
 
 ##### Artikel 2
 
@@ -159,9 +132,21 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 2. De lwt-kaart en de chauffeurskaart onder beperkingen wordt ingetrokken indien aan de houder een chauffeurskaart is verstrekt.
 
-3. Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het eerste lid, onder b, d, e of f.
+3. Een chauffeurskaart kan voor een termijn van ten hoogste 12 weken worden geschorst in het belang van veilig taxivervoer danwel bij vermoeden van een geval als bedoeld in het eerste lid, onder b, d, e of f.
 
 4. Ingeval van intrekking of schorsing levert de houder van de chauffeurskaart deze onmiddellijk in bij de minister.
+
+##### Artikel 10a
+
+1. Een lwt-kaart wordt eenmalig verstrekt en heeft een geldigheidsduur van zes maanden.
+
+2. Bij de aanvraag voor een lwt-kaart worden naast de documenten, bedoeld in [artikel 82, eerste lid, onder a, b, c, en e van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) de volgende documenten overgelegd:
+
+- a. een bewijs waaruit blijkt dat de aanvrager zich bij de Stichting Centraal Bureau Rijvaardigheidsbewijzen heeft ingeschreven voor het examen vakbekwaamheid voor het besturen van een taxi, als bedoeld in [artikel 3 van de Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&artikel=3);
+
+- b. een gezamenlijke verklaring van de aanvrager en een vervoerder waaruit blijkt dat de aanvrager gedurende het leer-werk-traject in dienst van die vervoerder uitsluitend vervoer zal verrichten als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6), dan wel vervoer dat wordt verricht volgens een schriftelijke overeenkomst, die een vervoerplicht inhoudt voor het vervoeren van meerdere passagiers die afzonderlijk of tezamen worden vervoerd, niet zijnde de opdrachtgever, tegen in die overeenkomst vastgelegde tarieven.
+
+3. De aanvraag voor een lwt-kaart wordt aangemerkt als een gelijktijdige aanvraag voor een chauffeurskaart, met dien verstande dat de beslissing omtrent de verlening van de chauffeurskaart wordt aangehouden totdat de indiener van de aanvraag een document als bedoeld in [artikel 82, eerste lid, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) heeft overgelegd.
 
 ### Hoofdstuk 3. Ondernemerskaart
 
@@ -285,7 +270,7 @@ De Regeling werkmap wordt ingetrokken.
 
 ##### Artikel 21
 
-Wijzigt de Regeling taxibestuurders 2005.
+*Wijzigt de Regeling taxibestuurders 2005.*
 
 ### Hoofdstuk 7. Slotbepaling
 
@@ -295,30 +280,4 @@ Deze regeling wordt aangehaald als: Regeling gebruik boordcomputer en boordcompu
 
 ##### Artikel 23
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I) in werking treedt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-1. Een lwt-kaart wordt eenmalig verstrekt en heeft een geldigheidsduur van zes maanden.
-
-2. Bij de aanvraag voor een lwt-kaart worden naast de documenten, bedoeld in [artikel 82, eerste lid, onder a, b, c, en e van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) de volgende documenten overgelegd:
-
-- a. een bewijs waaruit blijkt dat de aanvrager zich bij de Stichting Centraal Bureau Rijvaardigheidsbewijzen heeft ingeschreven voor het examen vakbekwaamheid voor het besturen van een taxi, als bedoeld in [artikel 3 van de Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&artikel=3);
-
-- b. een gezamenlijke verklaring van de aanvrager en een vervoerder waaruit blijkt dat de aanvrager gedurende het leer-werk-traject in dienst van die vervoerder uitsluitend vervoer zal verrichten als bedoeld in [artikel 6, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6), dan wel vervoer dat wordt verricht volgens een schriftelijke overeenkomst, die een vervoerplicht inhoudt voor het vervoeren van meerdere passagiers die afzonderlijk of tezamen worden vervoerd, niet zijnde de opdrachtgever, tegen in die overeenkomst vastgelegde tarieven.
-
-3. De aanvraag voor een lwt-kaart wordt aangemerkt als een gelijktijdige aanvraag voor een chauffeurskaart, met dien verstande dat de beslissing omtrent de verlening van de chauffeurskaart wordt aangehouden totdat de indiener van de aanvraag een document als bedoeld in [artikel 82, eerste lid, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82) heeft overgelegd.
-
-### Hoofdstuk 3. Ondernemerskaart
-
-### Hoofdstuk 4. Keuringskaart
-
-### Hoofdstuk 5. Gebruik van de boordcomputer
-
-### Hoofdstuk 6. Wijziging andere regelingen
-
-### Hoofdstuk 7. Slotbepaling
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I) in werking treedt.

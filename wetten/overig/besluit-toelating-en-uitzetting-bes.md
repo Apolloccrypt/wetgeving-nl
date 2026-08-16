@@ -1,38 +1,16 @@
 ---
 title: "Besluit toelating en uitzetting BES"
 identifier: "BWBR0028599"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028599"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "10890683"
-version_id: "17875022"
-internal_id: "C24820661"
-label_id: "10867264"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028599/2010-10-10/0"
-intitule_bron: "Stb.2010-564"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-564"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-564"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028599&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028599&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028599"
+opgehaald: 2026-08-16
 ---
+
 # Besluit toelating en uitzetting BES
 
 ### Hoofdstuk 1. Inleidende bepalingen
@@ -43,25 +21,25 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **luchtvaartuig:** hetgeen daaronder wordt verstaan in artikel 1, eerste lid, onder b, van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267);
+- a. *luchtvaartuig:* hetgeen daaronder wordt verstaan in artikel 1, eerste lid, onder b, van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267);
 
-- b. **schip:** hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1);
+- b. *schip:* hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1);
 
-- c. **vliegtuig:** hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder c, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1);
+- c. *vliegtuig:* hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder c, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=1);
 
-- d. **zeeschip:** hetgeen daaronder wordt verstaan in [artikel 1, tweede lid, onder c, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1);
+- d. *zeeschip:* hetgeen daaronder wordt verstaan in [artikel 1, tweede lid, onder c, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=1);
 
-- e. **de Wet:** de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571);
+- e. *de Wet:* de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571);
 
-- f. **herhaalde aanvraag:** een aanvraag die met toepassing van [artikel 8 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=8) kan worden afgewezen;
+- f. *herhaalde aanvraag:* een aanvraag die met toepassing van [artikel 8 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=8) kan worden afgewezen;
 
-- g. **toerist:** iedere vreemdeling die niet langer dan drie maanden in de openbare lichamen verblijft voor ontspanning, sport, gezondheidsredenen, familieaangelegenheden, studie, godsdienstige doeleinden of zakenbezoeken en die tijdens zijn verblijf in de openbare lichamen geen werkzaamheden tegen beloning verricht;
+- g. *toerist:* iedere vreemdeling die niet langer dan drie maanden in de openbare lichamen verblijft voor ontspanning, sport, gezondheidsredenen, familieaangelegenheden, studie, godsdienstige doeleinden of zakenbezoeken en die tijdens zijn verblijf in de openbare lichamen geen werkzaamheden tegen beloning verricht;
 
-- h. **vertegenwoordiging:** diplomatieke of consulaire vertegenwoordiging van het Koninkrijk in het buitenland;
+- h. *vertegenwoordiging:* diplomatieke of consulaire vertegenwoordiging van het Koninkrijk in het buitenland;
 
-- i. **vermissing:** ieder geval waarin de houder niet meer de feitelijke beschikking heeft over een op zijn naam gesteld reisdocument of verblijfsdocument, anders dan door of ten behoeve van handelingen van een daartoe bevoegde autoriteit;
+- i. *vermissing:* ieder geval waarin de houder niet meer de feitelijke beschikking heeft over een op zijn naam gesteld reisdocument of verblijfsdocument, anders dan door of ten behoeve van handelingen van een daartoe bevoegde autoriteit;
 
-- j. **minderjarigheid:** hetgeen daaronder wordt verstaan in [artikel 233 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=233).
+- j. *minderjarigheid:* hetgeen daaronder wordt verstaan in [artikel 233 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=233).
 
 ##### Artikel 1.2
 
@@ -383,7 +361,7 @@ Voor de toepassing van [artikel 5a van de Wet](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk 5. Toelating tot verblijf bij vergunning verleend
 
-### Afdeling 1. Indiening van de aanvraag en uitzetting
+#### Afdeling 1. Indiening van de aanvraag en uitzetting
 
 ##### Artikel 5.1
 
@@ -391,7 +369,7 @@ Voor de toepassing van [artikel 5a van de Wet](https://wetten.overheid.nl/jci1.3
 
 2. Uitzetting blijft niet achterwege, indien de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd naar het voorlopig oordeel van Onze Minister, op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) kan worden afgewezen op de grond dat de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid.
 
-### Afdeling 2. De verblijfsvergunning voor bepaalde tijd
+#### Afdeling 2. De verblijfsvergunning voor bepaalde tijd
 
 #### § 1. Verlening onder beperkingen en voorschriften
 
@@ -531,9 +509,9 @@ De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 5.9, eerste lid](
 
 - b. de vreemdeling van 21 jaar of ouder, die met de hoofdpersoon een duurzame en exclusieve relatie onderhoudt, waarin de partners:
 
-- 1°. niet tot elkaar in een zodanig nauwe relatie staan dat die naar Nederlands recht een huwelijksbeletsel zou vormen, en
+   - 1°. niet tot elkaar in een zodanig nauwe relatie staan dat die naar Nederlands recht een huwelijksbeletsel zou vormen, en
 
-- 2°. ongehuwd zijn en geen in Nederland geregistreerd partnerschap zijn aangegaan, tenzij het huwelijk door wettelijke beletselen, waarop geen invloed kan worden uitgeoefend, niet is ontbonden; of
+   - 2°. ongehuwd zijn en geen in Nederland geregistreerd partnerschap zijn aangegaan, tenzij het huwelijk door wettelijke beletselen, waarop geen invloed kan worden uitgeoefend, niet is ontbonden; of
 
 - c. het minderjarige biologische of juridische kind van de hoofdpersoon, dat naar het oordeel van Onze Minister feitelijk behoort en reeds in het land van herkomst feitelijk behoorde tot het gezin van die hoofdpersoon en dat onder het rechtmatige gezag van die hoofdpersoon staat.
 
@@ -707,9 +685,9 @@ In afwijking van [artikel 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&
 
 - b. van twaalf jaar of jonger, die in de openbare lichamen is geboren en naar het oordeel van Onze Minister feitelijk is blijven behoren tot het gezin van een ouder die
 
-- 1°. sedert het moment van geboorte van de vreemdeling toelating tot verblijf in de openbare lichamen heeft of als Nederlander verblijft, of
+   - 1°. sedert het moment van geboorte van de vreemdeling toelating tot verblijf in de openbare lichamen heeft of als Nederlander verblijft, of
 
-- 2°. op het moment van de geboorte van de vreemdeling toelating tot verblijf in de openbare lichamen had op grond een rechterlijke beslissing en die sedertdien aansluitend toelating tot verblijf op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) heeft, voor zover geen van beiden het hoofdverblijf buiten de openbare lichamen heeft verplaatst;
+   - 2°. op het moment van de geboorte van de vreemdeling toelating tot verblijf in de openbare lichamen had op grond een rechterlijke beslissing en die sedertdien aansluitend toelating tot verblijf op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) heeft, voor zover geen van beiden het hoofdverblijf buiten de openbare lichamen heeft verplaatst;
 
 - c. die in de openbare lichamen verblijft en bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba een verzoek heeft ingediend tot vaststelling van zijn Nederlanderschap dat naar het oordeel van Onze Minister niet klaarblijkelijk van elke grond ontbloot is;
 
@@ -807,7 +785,7 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 2. Het eerste lid is niet van toepassing, indien er sedert de verbreking van de samenwoning een jaar is verstreken.
 
-### Afdeling 3. De verblijfsgunning voor onbepaalde tijd
+#### Afdeling 3. De verblijfsgunning voor onbepaalde tijd
 
 #### § 1. Verlening
 
@@ -835,7 +813,7 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 De verblijfsvergunning voor onbepaalde tijd wordt niet ingetrokken met toepassing van [artikel 14, onder b, d of e, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=14).
 
-### Afdeling 4. Procedurele bepalingen
+#### Afdeling 4. Procedurele bepalingen
 
 ##### Artikel 5.47
 
@@ -879,7 +857,7 @@ De aanvraag wordt getoetst aan het recht dat gold op het tijdstip waarop de aanv
 
 ### Hoofdstuk 6. Grensbewaking, toezicht en uitvoering
 
-### Afdeling 1. Grensbewaking
+#### Afdeling 1. Grensbewaking
 
 #### § 1. Voorzieningen in het belang van de grensbewaking
 
@@ -979,7 +957,7 @@ De [artikelen 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&hoofdstuk=6&a
 
 De vordering aan de gezagvoerder van een luchtvaartuig, bedoeld in [artikel 22e, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22e), wordt gedaan door tussenkomst van de luchtverkeersleiding.
 
-### Afdeling 2. Toepassing van bevoegdheden van ambtenaren
+#### Afdeling 2. Toepassing van bevoegdheden van ambtenaren
 
 ##### Artikel 6.13
 
@@ -1189,7 +1167,7 @@ De ambtenaren belast met de grensbewaking, stellen in het reis- of identiteitspa
 
 Bij ministeriële regeling kunnen modellen van de aantekeningen, bedoeld in deze afdeling, worden vastgesteld.
 
-### Afdeling 3. Verplichtingen in het kader van toezicht
+#### Afdeling 3. Verplichtingen in het kader van toezicht
 
 #### § 1. Kennisgeving van verandering van woon- of verblijfplaats en vertrek
 
@@ -1389,13 +1367,13 @@ Overeenkomstig door Onze Minister te geven algemene en bijzondere aanwijzingen s
 
 ### Hoofdstuk 8. Vertrek, uitzetting en ongewenstverklaring
 
-### Afdeling 1. Uitzetting
+#### Afdeling 1. Uitzetting
 
 ##### Artikel 8.1
 
 Onze Minister is bevoegd om, bij de uitoefening van zijn bevoegdheid tot uitzetting als bedoeld in [artikel 16b van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=16b), alle daartoe benodigde handelingen te verrichten.
 
-### Afdeling 2. Verhaal kosten van uitzetting
+#### Afdeling 2. Verhaal kosten van uitzetting
 
 ##### Artikel 8.2
 
@@ -1419,7 +1397,7 @@ Onze Minister is bevoegd de kosten van uitzetting, bedoeld in [artikel 22, tweed
 
 2. De in het voorgaande lid bedoelde kosten van uitzetting omvatten de kosten, genoemd in [artikel 8.3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&hoofdstuk=8&afdeling=2&artikel=8.3&z=2010-10-10&g=2010-10-10).
 
-### Afdeling 3. Ongewenstverklaring
+#### Afdeling 3. Ongewenstverklaring
 
 ##### Artikel 8.5
 
@@ -1453,7 +1431,7 @@ In zeer uitzonderlijke en dringende gevallen kan Onze Minister de ongewenstverkl
 
 ### Hoofdstuk 9. Algemene bepalingen
 
-### Afdeling 1. Gegevensverstrekkingen
+#### Afdeling 1. Gegevensverstrekkingen
 
 ##### Artikel 9.1
 
@@ -1489,7 +1467,7 @@ In zeer uitzonderlijke en dringende gevallen kan Onze Minister de ongewenstverkl
 
 5. Het bestuursorgaan verstrekt de gegevens, bedoeld in het tweede en derde lid, aan Onze Minister.
 
-### Afdeling 2. Afwijking op grond van verdragen
+#### Afdeling 2. Afwijking op grond van verdragen
 
 ##### Artikel 9.3
 

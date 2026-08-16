@@ -1,78 +1,26 @@
 ---
 title: "Besluit van 27 september 2010, houdende een onderlinge regeling met betrekking tot de overname door de Staat der Nederlanden van door het land de Nederlandse Antillen en de eilandgebieden Curaçao en Sint Maarten aangegane geldleningen (Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten)"
+citeertitel: "Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten"
 identifier: "BWBR0028560"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028560"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "10851843"
-version_id: "17832592"
-internal_id: "C24704811"
-label_id: "10826524"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028560/2010-10-10/0"
-intitule_bron: "Stb.2010-354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-354"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-354"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028560&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028560&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028560"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 27 september 2010, houdende een onderlinge regeling met betrekking tot de overname door de Staat der Nederlanden van door het land de Nederlandse Antillen en de eilandgebieden Curaçao en Sint Maarten aangegane geldleningen (Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 2 juni 2010, nr. 2010-0000343112, Directie Constitutionele Zaken en Wetgeving, gedaan mede namens Onze Minister van Financiën en in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-Overwegende dat de regeringen van Nederland en de Nederlandse Antillen, met instemming van de eilandgebieden Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba, zijn overeengekomen om te bewerkstelligen dat bij de start van de nieuwe staatkundige verhoudingen binnen het Koninkrijk sprake is van een gezonde financiële positie van de eilanden;
-
-Dat is overeengekomen dat Nederland in dat kader de verplichting op zich neemt om de per 31 december 2005 bestaande schulden van de Nederlandse Antillen, Curaçao en Sint Maarten, met inbegrip van de herfinanciering van die schulden en de financiering van de rente op die schulden, tot het niveau van de voor het jaar 2005 geldende rentelastnorm te saneren;
-
-Dat die verplichting is vastgelegd in [artikel 31, derde lid, van de Rijkswet financieel toezicht Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028132&artikel=31);
-
-Dat door de Politieke Stuurgroep Staatkundige Veranderingen op 26 november 2008 nadere afspraken zijn gemaakt met betrekking tot de sanering van genoemde schulden;
-
-Dat daarbij met het oog op de positie van de betrokken crediteuren is besloten dat Nederland bij het ingaan van de nieuwe staatkundige verhoudingen de resterende hoofdsom van de te saneren schulden overneemt;
-
-Dat, voor zover de waarde van de over te nemen schulden het door Nederland te saneren bedrag te boven gaat, Nederland een direct opeisbare vordering krijgt op de nieuwe landen Curaçao en Sint Maarten, elk voor hun aandeel in de boven het saneringsbedrag overgenomen schulden;
-
-Dat het om redenen van praktische uitvoerbaarheid wenselijk is om een wettelijke regeling tot stand te brengen op grond waarvan bedoelde schulden bij het ingaan van de nieuwe staatkundige verhoudingen van rechtswege onder algemene titel overgaan op de Staat der Nederlanden;
-
-Dat het voorts wenselijk is om regels te stellen met betrekking tot de direct opeisbare vorderingen die Nederland in verband met de overgang van die schulden krijgt op de nieuwe landen Curaçao en Sint Maarten;
-
-Gelet op [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-De Raad van State van het Koninkrijk gehoord (advies van 30 juni 2010, nr. W04.10.0219/I/K);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 september 2010, nr. 2010-0000596718, Directie Constitutionele Zaken en Wetgeving, uitgebracht mede namens Onze Minister van Financiën en in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **geldlening:** obligatielening, schatkistpromesse of onderhandse lening;
+- a. *geldlening:* obligatielening, schatkistpromesse of onderhandse lening;
 
-- b. **collectieve sector:** het land de Nederlandse Antillen, onderscheidenlijk het eilandgebied Curaçao of Sint Maarten, tezamen met de ingevolge [artikel 23 van het Besluit tijdelijk financieel toezicht Nederlandse Antillen, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0024823&artikel=23) als behorend tot de collectieve sector van het land, onderscheidenlijk eilandgebied, aangewezen rechtspersonen.
+- b. *collectieve sector:* het land de Nederlandse Antillen, onderscheidenlijk het eilandgebied Curaçao of Sint Maarten, tezamen met de ingevolge [artikel 23 van het Besluit tijdelijk financieel toezicht Nederlandse Antillen, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0024823&artikel=23) als behorend tot de collectieve sector van het land, onderscheidenlijk eilandgebied, aangewezen rechtspersonen.
 
 ##### Artikel 2
 
@@ -96,9 +44,9 @@ Na de overgang van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 - a. met betrekking tot de geldleningen, aangegaan door het land de Nederlandse Antillen:
 
-- 1°. een vordering op het land Curaçao, gelijk aan 74,3 procent van het bedrag van de na sanering resterende schuldenlast;
+   - 1°. een vordering op het land Curaçao, gelijk aan 74,3 procent van het bedrag van de na sanering resterende schuldenlast;
 
-- 2°. een vordering op het land Sint Maarten, gelijk aan 17,7 procent van het bedrag van de na sanering resterende schuldenlast;
+   - 2°. een vordering op het land Sint Maarten, gelijk aan 17,7 procent van het bedrag van de na sanering resterende schuldenlast;
 
 - b. met betrekking tot de geldleningen, aangegaan door het eilandgebied Curaçao of het eilandgebied Sint Maarten: een vordering op het land Curaçao, onderscheidenlijk het land Sint Maarten, gelijk aan het bedrag van de na sanering resterende schuldenlast.
 
@@ -153,5 +101,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, derde lid, van 
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Rijksbesluit overname geldleningen Nederlandse Antillen, Curaçao en Sint Maarten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

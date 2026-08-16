@@ -1,38 +1,16 @@
 ---
 title: "Pensioenwet ambtenaren BES"
 identifier: "BWBR0028714"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028714"
+categorie: "Sociaal recht"
 soort: "wet-BES"
-stam_id: "10940173"
-version_id: "17926732"
-internal_id: "C24912931"
-label_id: "10915664"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028714/2011-10-09/0"
-intitule_bron: "Stb.2010-392"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-05"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-392"
-original_signed_date: "2010-10-05"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-392"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028714&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028714&g=2011-10-09"
-citeertitel_status: "officieel"
-signed_date: "2010-10-05"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028714"
+opgehaald: 2026-08-16
 ---
+
 # Pensioenwet ambtenaren BES
 
 ### Hoofdstuk I. Algemene bepalingen
@@ -41,29 +19,29 @@ entry_into_force: "2010-10-10"
 
 In deze wet wordt verstaan onder:
 
-- **het fonds:** de Stichting Pensioenfonds Caribisch Nederland, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=IIa&artikel=11a&z=2011-10-09&g=2011-10-09) ;
+- *het fonds:* de Stichting Pensioenfonds Caribisch Nederland, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=IIa&artikel=11a&z=2011-10-09&g=2011-10-09) ;
 
-- **bestuur:** het bestuur van het fonds, dan wel waar door het bestuur bevoegdheden die krachtens deze wet bestaan, aan een ander orgaan van het fonds zijn gedelegeerd, dat orgaan;
+- *bestuur:* het bestuur van het fonds, dan wel waar door het bestuur bevoegdheden die krachtens deze wet bestaan, aan een ander orgaan van het fonds zijn gedelegeerd, dat orgaan;
 
-- **lichaam:** een publiekrechtelijk of privaatrechtelijk lichaam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-10-09&g=2011-10-09) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=1&artikel=5&z=2011-10-09&g=2011-10-09);
+- *lichaam:* een publiekrechtelijk of privaatrechtelijk lichaam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=1&artikel=4&z=2011-10-09&g=2011-10-09) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=1&artikel=5&z=2011-10-09&g=2011-10-09);
 
-- **betrekking:** het dienstverband van een werknemer in de zin van deze wet, gegrond op en in overeenstemming met het aanstellingsbesluit dat aan de betrokkene verstrekt of de arbeidsovereenkomst die met de betrokkene gesloten is;
+- *betrekking:* het dienstverband van een werknemer in de zin van deze wet, gegrond op en in overeenstemming met het aanstellingsbesluit dat aan de betrokkene verstrekt of de arbeidsovereenkomst die met de betrokkene gesloten is;
 
-- **ontslag:** elke beëindiging van de hoedanigheid van werknemer, tenzij anders blijkt;
+- *ontslag:* elke beëindiging van de hoedanigheid van werknemer, tenzij anders blijkt;
 
-- **deelnemer:** ieder die op grond van [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=III&artikel=11b&z=2011-10-09&g=2011-10-09) verplicht deelneemt in het fonds;
+- *deelnemer:* ieder die op grond van [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=III&artikel=11b&z=2011-10-09&g=2011-10-09) verplicht deelneemt in het fonds;
 
-- **uittreding:** ontslag op eigen verzoek uit een dienstverhouding met het oogmerk de deelneming te beëindigen met recht op ouderdomspensioen;
+- *uittreding:* ontslag op eigen verzoek uit een dienstverhouding met het oogmerk de deelneming te beëindigen met recht op ouderdomspensioen;
 
-- **gewezen werknemer:** een persoon die uitzicht heeft op pensioen;
+- *gewezen werknemer:* een persoon die uitzicht heeft op pensioen;
 
-- **gepensioneerd werknemer:** een persoon die recht heeft op pensioen;
+- *gepensioneerd werknemer:* een persoon die recht heeft op pensioen;
 
-- **nabestaande:** de man of vrouw met wie een overledene op de dag van diens overlijden gehuwd was;
+- *nabestaande:* de man of vrouw met wie een overledene op de dag van diens overlijden gehuwd was;
 
-- **pleegouderlijke zorg:** de zorg voor het onderhoud en de opvoeding van een kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor;
+- *pleegouderlijke zorg:* de zorg voor het onderhoud en de opvoeding van een kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor;
 
-- **jaar:** kalenderjaar, tenzij anders blijkt.
+- *jaar:* kalenderjaar, tenzij anders blijkt.
 
 ##### Artikel 2
 
@@ -75,9 +53,9 @@ In deze wet wordt verstaan onder:
 
 1. In deze wet wordt verstaan onder:
 
-- **wachtgeld:** de periodieke uitkering, bedoeld in [artikel 4 van het Wachtgeldbesluit overheidsdienaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=4);
+- *wachtgeld:* de periodieke uitkering, bedoeld in [artikel 4 van het Wachtgeldbesluit overheidsdienaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=4);
 
-- **wachtgelder:** een persoon die op grond van ontslag recht heeft op wachtgeld.
+- *wachtgelder:* een persoon die op grond van ontslag recht heeft op wachtgeld.
 
 2. Bij ministeriële regeling, kunnen periodieke uitkeringen worden aangewezen die voor de toepassing van deze wet worden gelijkgesteld met wachtgeld.
 
@@ -273,6 +251,8 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 
 ### Hoofdstuk VII
 
+[vervallen]
+
 ##### Artikel 65
 
 [vervallen]
@@ -367,6 +347,8 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 
 ### Hoofdstuk VIII
 
+[vervallen]
+
 ##### Artikel 88
 
 [vervallen]
@@ -376,6 +358,8 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 [vervallen]
 
 ### Hoofdstuk IX
+
+[vervallen]
 
 ##### Artikel 90
 
@@ -395,6 +379,8 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 
 ### Hoofdstuk X
 
+[vervallen]
+
 ##### Artikel 94
 
 [vervallen]
@@ -412,6 +398,8 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 [vervallen]
 
 ### Hoofdstuk XI
+
+[vervallen]
 
 ##### Artikel 98
 
@@ -505,6 +493,12 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste tot en met vijfde lid. Deze regels kunnen in ieder geval betreffen de aan de aanspraken en rechten, bedoeld in dit artikel, verbonden verplichtingen van de in die leden bedoelde werknemers en gewezen of gepensioneerde overheidsdienaren.
 
+##### Artikel 112ba
+
+1. Voor de toepassing van [artikel 112b](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112b&z=2011-10-09&g=2011-10-09) en [112c](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112c&z=2011-10-09&g=2011-10-09) worden tot de transitiedatum op arbeidsovereenkomst in dienst van de Nederlandse staat gestelde, werknemers van het Regionaal Service Centrum voor Bonaire, Sint Eustatius en Saba, voor zover ten aanzien van hen niet een pensioenvoorziening vanwege het Algemeen burgerlijk pensioenfonds van toepassing is, geacht pensioenaanspraken te hebben opgebouwd overeenkomstig de Pensioenlandsverordening overheidsdienaren zoals die luidde ten tijde van de periode van de dienstbetrekking.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.
+
 ##### Artikel 112c
 
 1. Indien of zodra op grond van [artikel 112b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112b&z=2011-10-09&g=2011-10-09), de verplichtingen zijn ondergebracht bij het fonds, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gemachtigd om namens de Staat alle vermogensbestanddelen die de Staat ontvangen heeft of ontvangt ter zake van de overgang van de verplichtingen, bedoeld in artikel 112b, terstond onder algemene titel over te dragen aan het fonds.
@@ -531,13 +525,13 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 1. In deze paragraaf wordt verstaan onder:
 
-- a. **belanghebbende:** degene die ingevolge artikel [112e](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112e&z=2011-10-09&g=2011-10-09), [112f](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112f&z=2011-10-09&g=2011-10-09) onderscheidenlijk [122g](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112g&z=2011-10-09&g=2011-10-09) recht heeft op een uitkering;
+- a. *belanghebbende:* degene die ingevolge artikel [112e](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112e&z=2011-10-09&g=2011-10-09), [112f](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112f&z=2011-10-09&g=2011-10-09) onderscheidenlijk [122g](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=3&artikel=112g&z=2011-10-09&g=2011-10-09) recht heeft op een uitkering;
 
-- b. **Pensioenlandsverordening:** de Pensioenlandsverordening overheidsdienaren, zoals die luidde op de dag voor het tijdstip van transitie
+- b. *Pensioenlandsverordening:* de Pensioenlandsverordening overheidsdienaren, zoals die luidde op de dag voor het tijdstip van transitie
 
-- c. **diensttijd:** de diensttijd, vastgesteld overeenkomstig de artikelen 17 tot en met 104 van de Pensioenlandsverordening;
+- c. *diensttijd:* de diensttijd, vastgesteld overeenkomstig de artikelen 17 tot en met 104 van de Pensioenlandsverordening;
 
-- d. **middelsom:** de middelsom van de laatste twee berekeningsgrondslagen als bedoeld in artikel 22 van de Pensioenlandsverordening, zonder toepassing van artikel 21 van die landsverordening;
+- d. *middelsom:* de middelsom van de laatste twee berekeningsgrondslagen als bedoeld in artikel 22 van de Pensioenlandsverordening, zonder toepassing van artikel 21 van die landsverordening;
 
 ##### Artikel 112f
 
@@ -579,21 +573,21 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 - c.
 
-- –. in 2010 de leeftijd van 55 jaar heeft bereikt ; of
+   - – in 2010 de leeftijd van 55 jaar heeft bereikt ; of
 
-- –. in 2011 de leeftijd van 55 jaar heeft bereikt; of
+   - – in 2011 de leeftijd van 55 jaar heeft bereikt; of
 
-- –. in 2012 de leeftijd heeft van 55 jaar.
+   - – in 2012 de leeftijd heeft van 55 jaar.
 
 2. Het recht op de uitkering, bedoeld in het eerste lid, gaat in met ingang van de dag waarop het ontslag ingaat. Indien evenwel op dat tijdstip door de betrokkene een wachtgeld ingevolge het Wachtgeldbesluit overheidsdienaren BES wordt genoten, gaat het recht op de uitkering eerst in, zodra de wachtgeldperiode ingevolge artikel 5 van genoemd besluit is verstreken.
 
 3. Het recht op uitkering bestaat ten hoogste gedurende:
 
-- –. vijf jaar voor de werknemer die in 2010 de leeftijd van 55 jaar heeft bereikt;
+- – vijf jaar voor de werknemer die in 2010 de leeftijd van 55 jaar heeft bereikt;
 
-- –. vier jaar voor de werknemer die in 2011 de leeftijd van 55 jaar heeft bereikt; en
+- – vier jaar voor de werknemer die in 2011 de leeftijd van 55 jaar heeft bereikt; en
 
-- –. drie jaar voor de werknemer die in 2012 de leeftijd van 55 jaar heeft bereikt.
+- – drie jaar voor de werknemer die in 2012 de leeftijd van 55 jaar heeft bereikt.
 
 4. De uitkering bedraagt bij een diensttijd van:
 
@@ -632,13 +626,3 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 ##### Artikel 113
 
 Deze wet wordt aangehaald als: Pensioenwet ambtenaren BES.
-
-##### Artikel 112ba
-
-1. Voor de toepassing van [artikel 112b](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112b&z=2011-10-09&g=2011-10-09) en [112c](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112c&z=2011-10-09&g=2011-10-09) worden tot de transitiedatum op arbeidsovereenkomst in dienst van de Nederlandse staat gestelde, werknemers van het Regionaal Service Centrum voor Bonaire, Sint Eustatius en Saba, voor zover ten aanzien van hen niet een pensioenvoorziening vanwege het Algemeen burgerlijk pensioenfonds van toepassing is, geacht pensioenaanspraken te hebben opgebouwd overeenkomstig de Pensioenlandsverordening overheidsdienaren zoals die luidde ten tijde van de periode van de dienstbetrekking.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.
-
-#### § 2. Bestaande rechten, aanspraken en verplichtingen van politieke gezagsdragers
-
-#### § 3. Overgangsregeling ter vervanging van het recht op uitkering bij vervroegd uittreden

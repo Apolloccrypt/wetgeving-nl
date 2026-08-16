@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 december 2010, houdende regels over de aanstelling, bevordering, schorsing en ontslag als buitengewoon agent van politie alsmede over de verlening van opsporingsbevoegdheid en over de eisen van bekwaamheid, geschiktheid en betrouwbaarheid waaraan zij moeten voldoen op Bonaire, Sint Eustatius en Saba (Besluit buitengewone agenten van politie BES)"
+citeertitel: "Besluit buitengewone agenten van politie BES"
 identifier: "BWBR0029175"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029175"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11133663"
-version_id: "18208432"
-internal_id: "C25302851"
-label_id: "11108674"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029175/2011-01-01/0"
-intitule_bron: "Stb.2010-820"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-13"
-intitule_published: "2010-12-22"
-intitule_in_force: "2010-12-22"
-intitule_status: "goed"
-original_publication: "Stb.2010-820"
-original_signed_date: "2010-12-13"
-original_published_date: "2010-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-820"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029175&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029175&g=2011-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewone agenten van politie BES"
-signed_date: "2010-12-13"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029175"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 13 december 2010, houdende regels over de aanstelling, bevordering, schorsing en ontslag als buitengewoon agent van politie alsmede over de verlening van opsporingsbevoegdheid en over de eisen van bekwaamheid, geschiktheid en betrouwbaarheid waaraan zij moeten voldoen op Bonaire, Sint Eustatius en Saba (Besluit buitengewone agenten van politie BES)
-
-Op voordracht van Onze Minister van Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 augustus 2010, directie Wetgeving nr. 5665435/10/6;
-
-Gelet op [artikel 10, vierde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10) en [artikel 184, eerste lid, onder c, en zesde lid van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
-
-De Raad van State gehoord (advies van 11 oktober 2010, nr. W03.10.0418/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 3 december 2010, nr. 5676538/10/6;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,31 +20,31 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **politiebevoegdheden:** de bevoegdheden, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10), juncto [artikel 13 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13);
+- a. *politiebevoegdheden:* de bevoegdheden, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10), juncto [artikel 13 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13);
 
-- b. **toets aanhoudings- en zelfverdedigingsvaardigheden:** de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden;
+- b. *toets aanhoudings- en zelfverdedigingsvaardigheden:* de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden;
 
-- c. **toets geweldsbeheersing:** de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van de kennis op het gebied van geweldbeheersing;
+- c. *toets geweldsbeheersing:* de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van de kennis op het gebied van geweldbeheersing;
 
-- d. **toets schietvaardigheid:** de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van de schietvaardigheid;
+- d. *toets schietvaardigheid:* de door Onze Minister of, voor wat betreft de buitengewoon agent van politie werkzaam bij de Koninklijke marechaussee de door Onze Minister van Defensie samengestelde toets ter beoordeling van de schietvaardigheid;
 
-- e. **toetser:** de ambtenaar die heeft voldaan aan de daartoe strekkende opleiding en is gecertificeerd om de toets geweldbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden of de toets schietvaardigheid af te nemen;
+- e. *toetser:* de ambtenaar die heeft voldaan aan de daartoe strekkende opleiding en is gecertificeerd om de toets geweldbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden of de toets schietvaardigheid af te nemen;
 
-- f. **akte van opsporingsbevoegdheid:** de akte van opsporingsbevoegdheid, bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
+- f. *akte van opsporingsbevoegdheid:* de akte van opsporingsbevoegdheid, bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
 
-- g. **aanwijzing:** de aanwijzing, bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
+- g. *aanwijzing:* de aanwijzing, bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
 
-- h. **titel van opsporingsbevoegdheid:** de titel van opsporingsbevoegdheid , bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=2&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01);
+- h. *titel van opsporingsbevoegdheid:* de titel van opsporingsbevoegdheid , bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=2&paragraaf=2&artikel=5&z=2011-01-01&g=2011-01-01);
 
-- i. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- i. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- j. **de toezichthouder:** degene die op grond van [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=8&paragraaf=2&artikel=46&z=2011-01-01&g=2011-01-01), als toezichthouder van de buitengewone agenten van politie is aangewezen;
+- j. *de toezichthouder:* degene die op grond van [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=8&paragraaf=2&artikel=46&z=2011-01-01&g=2011-01-01), als toezichthouder van de buitengewone agenten van politie is aangewezen;
 
-- k. **de direct toezichthouder:** degene die op grond van [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=8&paragraaf=2&artikel=46&z=2011-01-01&g=2011-01-01), als direct toezichthouder van de buitengewone agenten van politie is aangewezen;
+- k. *de direct toezichthouder:* degene die op grond van [artikel 46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=8&paragraaf=2&artikel=46&z=2011-01-01&g=2011-01-01), als direct toezichthouder van de buitengewone agenten van politie is aangewezen;
 
-- l. **werkgever:** de werkgever van de buitengewoon agent van politie;
+- l. *werkgever:* de werkgever van de buitengewoon agent van politie;
 
-- m. **grondgebied:** de openbare lichamen Bonaire, Sint Eustatius en Saba gezamenlijk dan wel één of meer van deze openbare lichamen afzonderlijk.
+- m. *grondgebied:* de openbare lichamen Bonaire, Sint Eustatius en Saba gezamenlijk dan wel één of meer van deze openbare lichamen afzonderlijk.
 
 2. Onder grondgebied wordt mede verstaan de territoriale zee van het Koninkrijk in de openbare lichamen Bonaire, Sint Eustatius en Saba en de aansluitende zone en het overige zeegebied in de Carïbische zee, voor zover het volkenrecht en het interregionale recht dit toelaat.
 
@@ -587,13 +555,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 56
 
 Dit besluit wordt aangehaald als: Besluit buitengewone agenten van politie BES
-
-## Bijlage. als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=3&artikel=19&z=2011-01-01&g=2011-01-01), van het Besluit buitengewone agenten van politie BES
-
-Bij aanvaarding van de aanwijzing tot buitengewoon agent van politie legt de desbetreffende persoon de navolgende eden (verklaringen en beloften) af:
-
-- 1. De eed (verklaring en belofte) van zuivering: «Ik zweer (verklaar), dat ik middellijk of onmiddellijk, in welke vorm dan ook, tot het verkrijgen van mijn aanstelling of beëdiging als buitengewoon agent van politie aan niemand iets heb gegeven of beloofd. Ik zweer (beloof), dat ik, om iets in mijn betrekking als buitengewoon agent van politie te doen of te laten, van niemand, middellijk of onmiddellijk, enige beloften of geschenken zal aannemen. Zo waarlijk helpe mij God almachtig! (Dat verklaar en beloof ik!)»
-
-- 2. De ambtseed of ambtsbelofte: «Ik zweer (beloof) trouw aan de Koning, aan de Grondwet en aan de wetten van ons land. Ik zweer (beloof) dat ik de krachtens de wet uitgevaardigde voorschriften en verordeningen zal nakomen en handhaven, dat ik de aan mij verstrekte opdrachten plichtsgetrouw en nauwgezet zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd, of waarvan ik het vertrouwelijke karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben. Ik zweer (beloof) dat ik mij zal gedragen zoals een goed buitengewoon agent van politie betaamt, dat ik zorgvuldig, onkreukbaar en betrouwbaar zal zijn en dat ik niets zal doen dat het aanzien van het ambt zal schaden. Zo waarlijk helpe mij God almachtig!» «(Dat beloof ik!)»
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

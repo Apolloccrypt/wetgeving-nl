@@ -1,87 +1,65 @@
 ---
 title: "Pensioenwet BES"
 identifier: "BWBR0028712"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028712"
+categorie: "Sociaal recht"
 soort: "wet-BES"
-stam_id: "10939363"
-version_id: "17925512"
-internal_id: "C24912231"
-label_id: "10914444"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028712/2021-07-01/0"
-intitule_bron: "Stb.2010-597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-05"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-597"
-original_signed_date: "2010-10-05"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-597"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028712&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0028712&g=2021-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-10-05"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0028712"
+opgehaald: 2026-08-16
 ---
+
 # Pensioenwet BES
 
 ##### Artikel 1
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanspraakgerechtigde:** persoon die begunstigde is voor een nog niet ingegaan pensioen;
+- – *aanspraakgerechtigde:* persoon die begunstigde is voor een nog niet ingegaan pensioen;
 
-- –. **afkoop:** iedere handeling waardoor pensioenaanspraken of pensioenrechten hun pensioenbestemming verliezen;
+- – *afkoop:* iedere handeling waardoor pensioenaanspraken of pensioenrechten hun pensioenbestemming verliezen;
 
-- –. **Bank:** De Nederlandsche Bank N.V.;
+- – *Bank:* De Nederlandsche Bank N.V.;
 
-- –. **bedrijfstakpensioenfonds:** een pensioenfonds ten behoeve van een of meer bedrijfstakken of delen van een bedrijfstak;
+- – *bedrijfstakpensioenfonds:* een pensioenfonds ten behoeve van een of meer bedrijfstakken of delen van een bedrijfstak;
 
-- –. **bijdrage:** iedere onder de naam van bijdrage, premie, inleg, contributie, koopsom, dan wel, indien de betaling in termijnen is overeengekomen, aflossing, of onder welke andere naam ook, ineens of periodiek verschuldigde geldsom bestemd voor de verzekering van pensioen;
+- – *bijdrage:* iedere onder de naam van bijdrage, premie, inleg, contributie, koopsom, dan wel, indien de betaling in termijnen is overeengekomen, aflossing, of onder welke andere naam ook, ineens of periodiek verschuldigde geldsom bestemd voor de verzekering van pensioen;
 
-- –. **deelnemer:** de werknemer of gewezen werknemer die op grond van een pensioenovereenkomst aanspraken verwerft jegens een pensioenuitvoerder;
+- – *deelnemer:* de werknemer of gewezen werknemer die op grond van een pensioenovereenkomst aanspraken verwerft jegens een pensioenuitvoerder;
 
-- –. **externe deskundige:** externe deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121);
+- – *externe deskundige:* externe deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121);
 
-- –. **gepensioneerde:** pensioengerechtigde voor wie het ouderdomspensioen is ingegaan;
+- – *gepensioneerde:* pensioengerechtigde voor wie het ouderdomspensioen is ingegaan;
 
-- –. **gewezen deelnemer:** de werknemer of gewezen werknemer door wie op grond van een pensioenovereenkomst geen pensioen meer wordt verworven en die bij beëindiging van de deelneming een pensioenaanspraak heeft behouden jegens een pensioenuitvoerder;
+- – *gewezen deelnemer:* de werknemer of gewezen werknemer door wie op grond van een pensioenovereenkomst geen pensioen meer wordt verworven en die bij beëindiging van de deelneming een pensioenaanspraak heeft behouden jegens een pensioenuitvoerder;
 
-- –. **Hof van Justitie:** Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- – *Hof van Justitie:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- –. **ondernemingspensioenfonds:** een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in [Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744);
+- – *ondernemingspensioenfonds:* een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in [Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744);
 
-- –. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- – *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- – *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- –. **pensioen:** ouderdoms-, invaliditeits-, weduwen-, weduwnaars- en wezenpensioen;
+- – *pensioen:* ouderdoms-, invaliditeits-, weduwen-, weduwnaars- en wezenpensioen;
 
-- –. **pensioenfonds:** een rechtspersoon, waarin ten behoeve van ten minste twee deelnemers, gewezen deelnemers of hun nabestaanden gelden worden of werden bijeengebracht en worden beheerd ter uitvoering van een pensioenregeling;
+- – *pensioenfonds:* een rechtspersoon, waarin ten behoeve van ten minste twee deelnemers, gewezen deelnemers of hun nabestaanden gelden worden of werden bijeengebracht en worden beheerd ter uitvoering van een pensioenregeling;
 
-- –. **pensioengerechtigde:** persoon voor wie op grond van een pensioenovereenkomst het pensioen is ingegaan;
+- – *pensioengerechtigde:* persoon voor wie op grond van een pensioenovereenkomst het pensioen is ingegaan;
 
-- –. **pensioenovereenkomst:** hetgeen tussen een werkgever en een werknemer is overgekomen betreffende pensioen;
+- – *pensioenovereenkomst:* hetgeen tussen een werkgever en een werknemer is overgekomen betreffende pensioen;
 
-- –. **pensioenuitvoerder:** een ondernemingspensioenfonds, een bedrijfstakpensioenfonds of een verzekeraar die zetel hebben in het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- – *pensioenuitvoerder:* een ondernemingspensioenfonds, een bedrijfstakpensioenfonds of een verzekeraar die zetel hebben in het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- –. **transitiedatum:** het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- – *transitiedatum:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- –. **uitvoeringsovereenkomst:** de overeenkomst tussen een werkgever en een pensioenuitvoerder over de uitvoering van een of meer pensioenovereenkomsten;
+- – *uitvoeringsovereenkomst:* de overeenkomst tussen een werkgever en een pensioenuitvoerder over de uitvoering van een of meer pensioenovereenkomsten;
 
-- –. **werkgever:** het hoofd van een onderneming of, zo deze een rechtspersoon is, die rechtspersoon zelve;
+- – *werkgever:* het hoofd van een onderneming of, zo deze een rechtspersoon is, die rechtspersoon zelve;
 
-- –. **werknemer:** ieder, die in dienst van een onderneming is.
+- – *werknemer:* ieder, die in dienst van een onderneming is.
 
 2. Voor de toepassing van deze wet wordt:
 
@@ -187,9 +165,9 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 - c. de soliditeit van het pensioenfonds, waaronder wordt verstaan:
 
-- 1°. het beheersen van financiële risico’s; en
+   - 1°. het beheersen van financiële risico’s; en
 
-- 2°. het beheersen van andere risico’s die de soliditeit van het pensioenfonds kunnen aantasten;
+   - 2°. het beheersen van andere risico’s die de soliditeit van het pensioenfonds kunnen aantasten;
 
 - d. het beheersen van de financiële positie over de lange termijn door periodiek een continuïteitsanalyse te maken.
 
@@ -245,7 +223,7 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 ##### Artikel 7a
 
-1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2021-07-01&g=2021-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b&z=2021-07-01&g=2021-07-01) en [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2021-07-01&g=2021-07-01) bedoelde situaties of in geval van toepassing van [artikel 8:9, tweede of derde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=8:9).
+1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2021-07-01&g=2021-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b&z=2021-07-01&g=2021-07-01) en [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2021-07-01&g=2021-07-01) bedoelde situaties of in geval van toepassing van [artikel 8:9, tweede of derde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=8:9).
 
 2. Elk beding strijdig met dit artikel is nietig.
 
@@ -255,7 +233,7 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 2. De pensioenuitvoerder stelt de afkoopwaarde ter beschikking aan de pensioengerechtigde.
 
-3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
 4. Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.
 
@@ -613,7 +591,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 4. De [artikelen 4:97](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:97), [4:98](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), [4:116](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), [5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1), [5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:9), [5:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a), [5:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:41), [5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:44), [5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), [5:46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46), [5:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:49), [5:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:50), [5:54](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:54) en [10:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) zijn van overeenkomstige toepassing, met dien verstande dat:
 
-- a. voor de in [artikel 4:98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), en [5:53, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) genoemde bedragen in euro’s van € 20, € 10 respectievelijk € 340 gelezen moet worden USD 15, USD 7 respectievelijk USD 250;
+- a. voor de in [artikel 4:98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98), en [5:53, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) genoemde bedragen in euro’s van € 20, € 10 respectievelijk € 340 gelezen moet worden USD 15, USD 7 respectievelijk USD 250;
 
 - b. voor de in [artikel 4:98, eerste en vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98) opgenomen verwijzing naar [artikel 119, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), [120, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120), en [125 van Boek 6 het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=125) gelezen moet worden: [artikel 119, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=119), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=120) en [125 van Boek 6 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=125);
 
@@ -623,7 +601,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23a
 
@@ -631,7 +609,7 @@ De Bank verstrekt Onze Minister desgevraagd de gegevens of inlichtingen die deze
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 25
 
@@ -691,7 +669,7 @@ Het is een ieder verboden, hetgeen hem in zijn ambt, betrekking of hoedanigheid 
 
 4. [vervallen]
 
-5. Een ondernemingspensioenfonds is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van artikel 8 van deze wet aan de vrouw wier huwelijk met een deelnemer voor 31 maart 1985 is geëindigd.
+5. Een ondernemingspensioenfonds is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van artikel 8 van deze wet aan de vrouw wier huwelijk met een deelnemer voor 31 maart 1985 is geëindigd.
 
 Een bedrijfstakpensioenfonds of een verzekeraar is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2021-07-01&g=2021-07-01) van deze wet aan de vrouw wier huwelijk met een deelnemer voor de transitiedatum is geëindigd.
 
@@ -701,7 +679,7 @@ Een pensioenuitvoerder is niet verplicht tot toekenning van een premievrije aans
 
 ##### Artikel 31
 
-1. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2021-07-01&g=2021-07-01) van deze wet is van overeenkomstige toepassing.
+1. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2021-07-01&g=2021-07-01) van deze wet is van overeenkomstige toepassing.
 
 2. De vrouw met wie een gepensioneerde die deelnam aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gepensioneerde heeft behouden bij het ingaan van het ouderdomspensioen; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2021-07-01&g=2021-07-01) van deze wet is van overeenkomstige toepassing.
 

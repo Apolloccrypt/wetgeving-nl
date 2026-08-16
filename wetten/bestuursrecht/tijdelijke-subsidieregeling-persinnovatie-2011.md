@@ -1,44 +1,18 @@
 ---
 title: "Regeling van het Stimuleringsfonds voor de pers van 23 februari 2011, nr. 20563, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2011"
+citeertitel: "Tijdelijke subsidieregeling persinnovatie 2011"
 identifier: "BWBR0029657"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-03-02"
-last_updated: "2011-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029657"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11255923"
-version_id: "18432522"
-internal_id: "C25694321"
-label_id: "11230194"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029657/2011-03-02/0"
-intitule_bron: "Stcrt.2011-3691"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-23"
-intitule_published: "2011-03-01"
-intitule_in_force: "2011-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-3691"
-original_signed_date: "2011-02-23"
-original_published_date: "2011-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-3691"
-entry_into_force_date: "2011-03-02"
-jci_1_3: "jci1.3:c:BWBR0029657&z=2011-03-02&g=2011-03-02"
-jci_1_0: "1.0:c:BWBR0029657&g=2011-03-02"
-citeertitel_status: "redactioneel"
-short_title: "Tijdelijke subsidieregeling persinnovatie 2011"
-signed_date: "2011-02-23"
-entry_into_force: "2011-03-02"
+publicatiedatum: 2011-03-02
+laatste_update: 2011-03-02
+status: geldig
+toestand: 2011-03-02
+bron: "https://wetten.overheid.nl/BWBR0029657"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van het Stimuleringsfonds voor de pers van 23 februari 2011, nr. 20563, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2011
-
-Gelet op [artikel 8.3, tweede lid, onder a, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -183,5 +157,3 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 ##### Artikel 14. Evaluatie
 
 Binnen 13 weken na afloop van de datum, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029657&hoofdstuk=3&artikel=7&z=2011-03-02&g=2011-03-02), evalueert het Stimuleringsfonds deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

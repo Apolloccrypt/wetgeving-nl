@@ -1,38 +1,16 @@
 ---
 title: "Arbeidsveiligheidsbesluit I BES"
 identifier: "BWBR0028627"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-05-20"
-last_updated: "2022-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028627"
+categorie: "Arbeidsrecht"
 soort: "AMvB-BES"
-stam_id: "10904983"
-version_id: "17889232"
-internal_id: "C24857651"
-label_id: "10881024"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028627/2022-05-20/0"
-intitule_bron: "Stb.2010-615"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-22"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-615"
-original_signed_date: "2010-09-22"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-615"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028627&z=2022-05-20&g=2022-05-20"
-jci_1_0: "1.0:c:BWBR0028627&g=2022-05-20"
-citeertitel_status: "officieel"
-signed_date: "2010-09-22"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-05-20
+status: geldig
+toestand: 2022-05-20
+bron: "https://wetten.overheid.nl/BWBR0028627"
+opgehaald: 2026-08-16
 ---
+
 # Arbeidsveiligheidsbesluit I BES
 
 ### Hoofdstuk I. De dagverlichting
@@ -211,7 +189,7 @@ De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 35
 
-1. Een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld moet een gemiddelde hoogte van tenminste 2.50 m hebben.
+1. Een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld moet een gemiddelde hoogte van tenminste 2.50 m hebben.
 
 2. Een nachtverblijf moet zijn voorzien van in de buitenlucht uitkomende ramen, die zodanig kunnen worden geopend, dat de gezamenlijke doorlaatopening niet minder dan 1/25 van de vloeroppervlakte en in geen geval minder dan 1.00 m2 bedraagt; het gezamenlijke lichtoppervlak der ramen moet tenminste 1/30 van het vloeroppervlak bedragen.
 
@@ -221,11 +199,11 @@ De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 36
 
-In een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, moet voor iedere in dat artikel bedoelde persoon een behoorlijk ingerichte slaapplaats aanwezig zijn van tenminste 1.90 m lang en 0.75 m breed, welke tenminste 0.50 m boven de vloer is gelegen. De ruimte onder deze slaapplaats moet behoorlijk kunnen worden gereinigd. Bij elke slaapplaats moet tenminste aan een lange zijde een gangpad van tenminste 0.50 m breed zijn.
+In een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, moet voor iedere in dat artikel bedoelde persoon een behoorlijk ingerichte slaapplaats aanwezig zijn van tenminste 1.90 m lang en 0.75 m breed, welke tenminste 0.50 m boven de vloer is gelegen. De ruimte onder deze slaapplaats moet behoorlijk kunnen worden gereinigd. Bij elke slaapplaats moet tenminste aan een lange zijde een gangpad van tenminste 0.50 m breed zijn.
 
 ##### Artikel 37
 
-1. Indien een nachtverblijf, als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, bestemd is voor meer dan één persoon, moeten de slaapplaatsen onderling door tenminste 0.80 m hoge schotten zijn gescheiden. Het gangpad tussen twee rijen slaapplaatsen moet tenminste 1.50 m breed zijn.
+1. Indien een nachtverblijf, als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, bestemd is voor meer dan één persoon, moeten de slaapplaatsen onderling door tenminste 0.80 m hoge schotten zijn gescheiden. Het gangpad tussen twee rijen slaapplaatsen moet tenminste 1.50 m breed zijn.
 
 2. Slaapplaatsen mogen niet boven elkaar zijn aangebracht.
 
@@ -352,6 +330,10 @@ In schadelijke werklokalen mag geen voedsel genuttigd worden.
 ##### Artikel 60
 
 Een schadelijk werklokaal mag noch gedurende, noch buiten de werktijd als slaapvertrek worden gebruikt.
+
+##### Artikel 60a
+
+*Vervallen*
 
 ### Hoofdstuk XI. Het voorkomen van ongevallen
 
@@ -497,7 +479,7 @@ Een vloer- of wandopening, benevens de plaats waar voorwerpen of goederen worden
 
 ##### Artikel 88
 
-Wanneer arbeiders zich tot het verrichten van werkzaamheden herhaaldelijk begeven op een plaats, die zich 3 m of meer boven de vloer of nabij de rand van bakken of kuipen bevindt en waar gevaar voor vallen bestaat, moet aldaar een doelmatige en veilige gaanderij of bordes zijn aangebracht.
+Wanneer arbeiders zich tot het verrichten van werkzaamheden herhaaldelijk begeven op een plaats, die zich 3 m of meer boven de vloer of nabij de rand van bakken of kuipen bevindt en waar gevaar voor vallen bestaat, moet aldaar een doelmatige en veilige gaanderij of bordes zijn aangebracht.
 
 ##### Artikel 89
 
@@ -523,7 +505,7 @@ Een verplaatsbare trap moet van zodanige inrichtingen zijn voorzien, dat voldoen
 
 ##### Artikel 93
 
-Een ladder moet in goede staat van onderhoud verkeren, tegen uitglijden, omvallen of te sterk doorbuigen zijn verzekerd, en tenminste 1 m uitsteken boven de plaats, waartoe zij toegang geeft, voor zover niet op andere wijze voldoende zekerheid bij het op- en afstappen wordt geboden. Sporten moeten in het hout der bomen rusten; zij mogen niet uitsluitend door opspijkeren of aanschroeven zijn bevestigd.
+Een ladder moet in goede staat van onderhoud verkeren, tegen uitglijden, omvallen of te sterk doorbuigen zijn verzekerd, en tenminste 1 m uitsteken boven de plaats, waartoe zij toegang geeft, voor zover niet op andere wijze voldoende zekerheid bij het op- en afstappen wordt geboden. Sporten moeten in het hout der bomen rusten; zij mogen niet uitsluitend door opspijkeren of aanschroeven zijn bevestigd.
 
 ##### Artikel 94
 
@@ -535,11 +517,11 @@ Een lift met toebehoren moet voldoen aan de eisen van goed en veilig werk en in 
 
 ##### Artikel 96
 
-Een lift, met uitzondering van een paternosterlift of een goederenlift met een maximum hefvermogen van 100 kg en welker bedieningsopeningen in de schachtwand het betreden der kooi niet mogelijk maken, moet van een inrichting zijn voorzien, welke belet dat de kooi kan neerstorten. Onder de liftmachine of zonodig onder het drijfwerk boven in de liftschacht moet een doelmatige vloer zijn aangebracht.
+Een lift, met uitzondering van een paternosterlift of een goederenlift met een maximum hefvermogen van 100 kg en welker bedieningsopeningen in de schachtwand het betreden der kooi niet mogelijk maken, moet van een inrichting zijn voorzien, welke belet dat de kooi kan neerstorten. Onder de liftmachine of zonodig onder het drijfwerk boven in de liftschacht moet een doelmatige vloer zijn aangebracht.
 
 ##### Artikel 97
 
-Een lift moet van doelmatige veiligheidsinrichtingen zijn voorzien. Een lift, met uitzondering van een paternosterlift, een uit de hand gedreven goederenlift met een maximum hefvermogen van 35 kg, of een uit de hand gedreven goederenlift met een maximum hefvermogen van 100 kg en waarvan de bedieningsopeningen op 70 cm of meer boven de vloer zijn gelegen, moet van veiligheidsinrichtingen zijn voorzien, welke verzekeren dat, alvorens de liftkooi in beweging kan worden gebracht, alle toegangen veilig zijn afgesloten en zo nodig gegrendeld en dat de liftkooi automatisch stil gezet wordt, als zij de uiterste standen heeft bereikt.
+Een lift moet van doelmatige veiligheidsinrichtingen zijn voorzien. Een lift, met uitzondering van een paternosterlift, een uit de hand gedreven goederenlift met een maximum hefvermogen van 35 kg, of een uit de hand gedreven goederenlift met een maximum hefvermogen van 100 kg en waarvan de bedieningsopeningen op 70 cm of meer boven de vloer zijn gelegen, moet van veiligheidsinrichtingen zijn voorzien, welke verzekeren dat, alvorens de liftkooi in beweging kan worden gebracht, alle toegangen veilig zijn afgesloten en zo nodig gegrendeld en dat de liftkooi automatisch stil gezet wordt, als zij de uiterste standen heeft bereikt.
 
 ##### Artikel 98
 
@@ -699,31 +681,31 @@ Acetyleentoestellen, waarbij de ontleding van het carbid buiten de gashouder ges
 
 ##### Artikel 128
 
-1. Het is verboden acetyleentoestellen te gebruiken, waarin het gas onder een overdruk van meer dan 1.5 kg/cm2 kan voorkomen.
+1. Het is verboden acetyleentoestellen te gebruiken, waarin het gas onder een overdruk van meer dan 1.5 kg/cm2 kan voorkomen.
 
-2. Het is verboden acetyleentoestellen te gebruiken, waarin het gas wordt ontwikkeld door het invallen van calciumcarbid in water, indien daarbij in het toestel een overdruk van 0.50 kg/cm2 of meer kan voorkomen, tenzij de carbidvulling 60 kg of meer bedraagt en gedurende de tijd, dat het toestel in gebruik is, voortdurend een deskundig persoon aanwezig is, die speciaal belast is met het toezicht op en de behandeling van het toestel.
+2. Het is verboden acetyleentoestellen te gebruiken, waarin het gas wordt ontwikkeld door het invallen van calciumcarbid in water, indien daarbij in het toestel een overdruk van 0.50 kg/cm2 of meer kan voorkomen, tenzij de carbidvulling 60 kg of meer bedraagt en gedurende de tijd, dat het toestel in gebruik is, voortdurend een deskundig persoon aanwezig is, die speciaal belast is met het toezicht op en de behandeling van het toestel.
 
-3. Onverminderd het in het eerste en tweede lid bepaalde, moeten acetyleentoestellen, waarin de overdruk 0.50 kg/cm2 of meer bedraagt, zodanig zijn geconstrueerd, dat zij zonder blijvende vormverandering een overdruk van 5 kg/cm2 kunnen weerstaan, met dien verstande, dat de wanddikte van de toestellen ten minste 1.5 mm moet bedragen.
+3. Onverminderd het in het eerste en tweede lid bepaalde, moeten acetyleentoestellen, waarin de overdruk 0.50 kg/cm2 of meer bedraagt, zodanig zijn geconstrueerd, dat zij zonder blijvende vormverandering een overdruk van 5 kg/cm2 kunnen weerstaan, met dien verstande, dat de wanddikte van de toestellen ten minste 1.5 mm moet bedragen.
 
-4. Op een toestel als bedoeld in het derde lid moet duidelijk leesbaar een uitsluitend voor dat toestel bestemd nummer zijn aangebracht. De gebruiker van het toestel moet in het bezit zijn van een certificaat afgegeven door Onze Minister van Sociale Zaken Werkgelegenheid of een door deze aangewezen instelling, waaruit blijkt, dat het toestel geperst is op een druk van 5 kg/cm2 en die druk heeft weerstaan zonder dat blijvende vormverandering optrad.
+4. Op een toestel als bedoeld in het derde lid moet duidelijk leesbaar een uitsluitend voor dat toestel bestemd nummer zijn aangebracht. De gebruiker van het toestel moet in het bezit zijn van een certificaat afgegeven door Onze Minister van Sociale Zaken Werkgelegenheid of een door deze aangewezen instelling, waaruit blijkt, dat het toestel geperst is op een druk van 5 kg/cm2 en die druk heeft weerstaan zonder dat blijvende vormverandering optrad.
 
-5. Op een toestel als bedoeld in het derde lid moet de werkdruk op duidelijk zichtbare wijze zijn aangegeven. De werkdruk mag niet meer dan 1.4 kg/cm2 bedragen.
+5. Op een toestel als bedoeld in het derde lid moet de werkdruk op duidelijk zichtbare wijze zijn aangegeven. De werkdruk mag niet meer dan 1.4 kg/cm2 bedragen.
 
-6. Een toestel als bedoeld in het derde lid moet voorzien zijn van een goed werkende manometer, die de overdruk in het toestel in kg/cm2 duidelijk aanwijst. Deze manometer moet zodanig zijn ingericht, dat hij een druk tot 2.5 kg/cm2 op juiste wijze aangeeft. Op de schaalverdeling moet de toegestane werkdruk met een rode streep zijn aangeduid.
+6. Een toestel als bedoeld in het derde lid moet voorzien zijn van een goed werkende manometer, die de overdruk in het toestel in kg/cm2 duidelijk aanwijst. Deze manometer moet zodanig zijn ingericht, dat hij een druk tot 2.5 kg/cm2 op juiste wijze aangeeft. Op de schaalverdeling moet de toegestane werkdruk met een rode streep zijn aangeduid.
 
-7. Een toestel als bedoeld in het derde lid moet zijn voorzien van twee veiligheidskleppen, tenzij het een verplaatsbaar toestel is en in de bedrijfstoestand minder dan 250 kg weegt, in welk geval met één veiligheidsklep kan worden volstaan.
+7. Een toestel als bedoeld in het derde lid moet zijn voorzien van twee veiligheidskleppen, tenzij het een verplaatsbaar toestel is en in de bedrijfstoestand minder dan 250 kg weegt, in welk geval met één veiligheidsklep kan worden volstaan.
 
 8. Een veiligheidsklep als bedoeld in het zevende lid moet zijn aangesloten op een pijp van voldoende doorsnee, waardoor het ontsnappende gas rechtstreeks in de buitenlucht wordt afgevoerd, tenzij het betreft een verplaatsbaar toestel, dat tijdelijk in een fabriek of werkplaats wordt gebruikt voor het autogeen snijden, lassen of verwarmen van vast opgestelde of moeilijk verplaatsbare voorwerpen. Deze veiligheidsklep moet zodanig zijn ingericht:
 
-- a. dat de werkdruk met niet meer dan ten hoogste 0.1 kg/cm2 wordt overschreden en dat de klep ophoudt te werken als de druk 0.1 kg/cm2 beneden de werkdruk is gedaald;
+- a. dat de werkdruk met niet meer dan ten hoogste 0.1 kg/cm2 wordt overschreden en dat de klep ophoudt te werken als de druk 0.1 kg/cm2 beneden de werkdruk is gedaald;
 
 - b. dat haar goede werking niet kan worden verstoord door slijtage, roesten, vervuilen, vocht of dergelijke oorzaken;
 
 - c. dat zij niet op eenvoudige wijze kan worden ingesteld op een andere druk dan waarop zij behoort te werken, noch buiten werking gesteld.
 
-9. Acetyleentoestellen, waarin gas voorkomt onder een overdruk groter dan 0.1 kg/cm2 doch geringer dan 0.5 kg/cm2, moeten voorzien zijn van een goed werkende manometer en van een goed werkende veiligheidsklep van zodanige afmetingen en inrichting, dat de overdruk niet hoger kan stijgen dan 0.5 kg/cm2, tenzij de inrichting van het toestel zodanig is, dat geen grotere overdruk dan 0.5 kg/cm2 kan worden verkregen.
+9. Acetyleentoestellen, waarin gas voorkomt onder een overdruk groter dan 0.1 kg/cm2 doch geringer dan 0.5 kg/cm2, moeten voorzien zijn van een goed werkende manometer en van een goed werkende veiligheidsklep van zodanige afmetingen en inrichting, dat de overdruk niet hoger kan stijgen dan 0.5 kg/cm2, tenzij de inrichting van het toestel zodanig is, dat geen grotere overdruk dan 0.5 kg/cm2 kan worden verkregen.
 
-10. Het in het vierde lid bedoelde nummer, de in het vijfde lid bedoelde werkdruk en het in het zevende lid bedoelde gewicht moeten duidelijk en duurzaam zijn vermeld op een rechthoekige plaat van messing, waarvan de grootte tenminste 6 bij 9 cm bedraagt. Deze plaat moet aan het toestel op een duidelijk zichtbare plaats deugdelijk zijn bevestigd, zodanig, dat de in het vierde lid bedoelde dienst of instelling na gunstige afloop van de in het vierde lid bedoelde beproeving het merk van goedkeuring op zodanige wijze kan aanbrengen, dat verwijdering van de plaat zonder beschadiging van het merk van goedkeuring niet mogelijk is.
+10. Het in het vierde lid bedoelde nummer, de in het vijfde lid bedoelde werkdruk en het in het zevende lid bedoelde gewicht moeten duidelijk en duurzaam zijn vermeld op een rechthoekige plaat van messing, waarvan de grootte tenminste 6 bij 9 cm bedraagt. Deze plaat moet aan het toestel op een duidelijk zichtbare plaats deugdelijk zijn bevestigd, zodanig, dat de in het vierde lid bedoelde dienst of instelling na gunstige afloop van de in het vierde lid bedoelde beproeving het merk van goedkeuring op zodanige wijze kan aanbrengen, dat verwijdering van de plaat zonder beschadiging van het merk van goedkeuring niet mogelijk is.
 
 11. Een acetyleentoestel, als bedoeld in het derde lid, moet voorzien zijn van een door de in het vierde lid bedoelde dienst of instelling aangebracht merk van goedkeuring, waarvan een afbeelding moet zijn aangegeven in het certificaat, bedoeld in het vierde lid, en welk merk van goedkeuring zodanig moet zijn aangebracht, dat verwijdering van de in het tiende lid bedoelde plaat zonder beschadiging van dit merk niet mogelijk is.
 
@@ -806,13 +788,3 @@ Dit besluit berust op [artikel 2, eerste lid, van de Arbeidsveiligheidswet BES](
 ##### Artikel 137
 
 Dit besluit wordt aangehaald als: Arbeidsveiligheidsbesluit I BES.
-
-##### Artikel 60a
-
-Vervallen
-
-### Hoofdstuk XI. Het voorkomen van ongevallen
-
-### Hoofdstuk XII. Vermijding van het gevaar van giftige verf
-
-### Hoofdstuk XIII. Slotbepalingen

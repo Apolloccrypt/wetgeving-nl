@@ -1,38 +1,16 @@
 ---
 title: "Regeling kinder-, kostwinner- en detacheringstoelage BES"
 identifier: "BWBR0028783"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-10-09"
-last_updated: "2011-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028783"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11023983"
-version_id: "18012142"
-internal_id: "C25041531"
-label_id: "10998564"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028783/2011-10-09/0"
-intitule_bron: "Stcrt.2010-15087"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-24"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15087"
-original_signed_date: "2010-09-24"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15087"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028783&z=2011-10-09&g=2011-10-09"
-jci_1_0: "1.0:c:BWBR0028783&g=2011-10-09"
-citeertitel_status: "redactioneel"
-signed_date: "2010-09-24"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-10-09
+status: geldig
+toestand: 2011-10-09
+bron: "https://wetten.overheid.nl/BWBR0028783"
+opgehaald: 2026-08-16
 ---
+
 # Regeling kinder-, kostwinner- en detacheringstoelage BES
 
 #### § 1. Algemeen
@@ -41,9 +19,9 @@ entry_into_force: "2010-10-10"
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** ambtenaar in dienst van de staat;
+- a. *ambtenaar:* ambtenaar in dienst van de staat;
 
-- b. **bezoldiging:** bezoldiging bedoeld in [artikel 17 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17).
+- b. *bezoldiging:* bezoldiging bedoeld in [artikel 17 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17).
 
 ##### Artikel 2
 
@@ -154,15 +132,3 @@ Deze regeling berust op [artikel 31, onder a, van de Rechtspositiebesluit ambten
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling kinder-, kostwinner- en detacheringstoelage BES.
-
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
-
-#### § 1. Algemeen
-
-#### § 2. Kindertoelage
-
-#### § 3. Kostwinnerstoelage
-
-#### § 4. Standplaats- en detacheringstoelage
-
-#### § 5. Slotbepalingen

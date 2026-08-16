@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052871"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Wet van 8 juli 2026, houdende regels ter implementatie van Richtlijn (EU) 2022/2557 van het Europees Parlement en de Raad van 14 december 2022 betreffende de weerbaarheid van kritieke entiteiten en tot intrekking van Richtlijn 2008/114/EG van de Raad (PbEU 2022, L 333) (Wet weerbaarheid kritieke entiteiten)

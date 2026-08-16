@@ -1,47 +1,17 @@
 ---
 title: "Uitvoeringsregeling registratie akten BES"
 identifier: "BWBR0029296"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029296"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11174003"
-version_id: "18277002"
-internal_id: "C25432871"
-label_id: "11148534"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029296/2011-01-01/0"
-intitule_bron: "Stcrt.2010-21028"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21028"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21028"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029296&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029296&g=2011-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029296"
+opgehaald: 2026-08-16
 ---
+
 # Uitvoeringsregeling registratie akten BES
-
-Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikelen 7:23](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.23) en [7.24 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.24);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt. Treedt in werking om 0:00 in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 5:00 in het Europese deel van Nederland.
 
 ### Algemene bepalingen
 
@@ -286,5 +256,3 @@ Indien vóór het tijdstip van de inwerkingtreding van deze uitvoeringsregeling 
 1. Deze regeling treedt in werking op het tijdstip waarop de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) in werking treedt.
 
 2. Deze regeling wordt aangehaald als: Uitvoeringsregeling registratie akten BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,16 @@
 ---
 title: "Regeling vergoeding vervoermiddelen 1950 BES"
 identifier: "BWBR0028781"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028781"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11023723"
-version_id: "18011732"
-internal_id: "C25041271"
-label_id: "10998174"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028781/2018-10-01/0"
-intitule_bron: "Stcrt.2010-15090"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-24"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15090"
-original_signed_date: "2010-09-24"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15090"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028781&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBR0028781&g=2018-10-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-24"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBR0028781"
+opgehaald: 2026-08-16
 ---
+
 # Regeling vergoeding vervoermiddelen 1950 BES
 
 ##### Artikel 1
@@ -44,7 +22,7 @@ voor de eerste 500 km of minder per maand
 | auto | motorrijwiel |
 | --- | --- |
 | USD USD 0,37 per km | USD 0,03 per km |
-| daarboven per maand |   |
+| daarboven per maand |  |
 | auto | motorrijwiel |
 | USD 0,18 per km | USD 0,02 per km |
 
@@ -116,5 +94,3 @@ Deze regeling berust op [artikel 73, derde lid, onderdeel a, van de Rechtspositi
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling vergoeding vervoermiddelen 1950 BES.
-
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.

@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011"
+citeertitel: "Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2011)"
 identifier: "BWBR0029376"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029376"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11194773"
-version_id: "18322102"
-internal_id: "C25513251"
-label_id: "11169074"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029376/2014-04-01/0"
-intitule_bron: "Stcrt.2010-21547"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-14"
-intitule_published: "2010-12-31"
-intitule_in_force: "2010-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21547"
-original_signed_date: "2010-12-14"
-original_published_date: "2010-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21547"
-entry_into_force_date: "2011-01-02"
-jci_1_3: "jci1.3:c:BWBR0029376&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0029376&g=2014-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2011)"
-signed_date: "2010-12-14"
-entry_into_force: "2011-01-02"
+publicatiedatum: 2011-01-02
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0029376"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011
-
-Gelet op [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [38, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=38) en de [artikelen 1, onderdelen g en x](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7), [3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12), [3.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.16), [3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), [3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) en [3.24 derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.24);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Regeling zorgverzekering.
+*Wijzigt de Regeling zorgverzekering.*
 
 ##### Artikel II
 
-Wijzigt de Regeling zorgverzekering.
+*Wijzigt de Regeling zorgverzekering.*
 
 ##### Artikel III
 
@@ -94,7 +68,7 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel IV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2014-04-01&g=2014-04-01).
 
-- 5. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
+- 5 Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.
 
 - 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijke aan 100 minus het percentage, bedoeld in [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IV&z=2014-04-01&g=2014-04-01).
 
@@ -128,11 +102,11 @@ In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekerin
 
 - 7. Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc’s, waarvoor een percentage van 60 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 75 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp:
 
-- a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
+   - a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
 
-- b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
+   - b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
 
-- c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
+   - c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
 
 - 8. Het Zorginstituut betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.
 
@@ -164,11 +138,11 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 9. Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc’s, waarvoor een percentage van 40 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 25 procent aan als vaste kosten van ziekenhuisverpleging:
 
-- a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
+   - a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
 
-- b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
+   - b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
 
-- c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
+   - c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
 
 - 10. Het Zorginstituut merkt de kosten van zorg die in 2007 door epilepsie-instellingen zijn gestart en doorliepen in 2008, en die niet op individuele basis werden gedeclareerd, voor 100 procent aan als vaste kosten van ziekenhuisverpleging.
 
@@ -204,11 +178,11 @@ In afwijking van hetgeen daarover in [artikel 3.15 van de Regeling zorgverzekeri
 
 - 7. Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc’s, waarvoor een percentage van 60 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 75 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp:
 
-- a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
+   - a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
 
-- b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
+   - b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
 
-- c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
+   - c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
 
 - 8. Het Zorginstituut merkt de honorariumcomponent van onderhandelbare dbc’s, met uitzondering van de B-dbc’s bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.1) zoals dat met betrekking tot het jaar 2009 gold, dan wel niet-onderhandelbare dbc’s, alsmede eventuele overige declaraties van vrijgevestigde specialisten, met uitzondering van de honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten waarvoor een percentage van 75 wordt aangehouden, volledig aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.
 
@@ -246,11 +220,11 @@ In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekeri
 
 - 10. Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc’s, waarvoor een percentage van 40 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 25 procent aan als vaste kosten van ziekenhuisverpleging:
 
-- a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
+   - a. de kostencomponent en honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten van instellingen en zorgverleners die in hoofdzaak worden gefinancierd op basis van dbc’s;
 
-- b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
+   - b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc’s;
 
-- c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
+   - c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.
 
 - 11. Het Zorginstituut merkt de kosten van de overgangsregeling van het functioneel leeftijdsontslag van werknemers in de publieke ambulancezorg in 2009 voor 100 procent aan als vaste kosten van ziekenhuisverpleging.
 
@@ -270,7 +244,7 @@ In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekeri
 
 ##### Artikel XIII
 
-Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2010).
+*Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2010).*
 
 ##### Artikel XIV
 
@@ -283,5 +257,3 @@ Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorg
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 28 september 2010 werkt deze regeling terug tot en met 30 september 2010.
 
 3. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2014-04-01&g=2014-04-01) werkt terug tot en met 1 januari 2010.
-
-Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.

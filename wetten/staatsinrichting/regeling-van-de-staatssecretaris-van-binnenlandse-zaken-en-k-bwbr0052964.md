@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052964"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 juli 2026 houdende nadere regels voor de weerbaarheid van kritieke entiteiten in de sector overheid (Regeling weerbaarheid kritieke entiteiten sector overheid) [KetenID: WGK027997]

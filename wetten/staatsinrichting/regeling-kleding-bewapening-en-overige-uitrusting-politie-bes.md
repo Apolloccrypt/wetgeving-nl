@@ -1,41 +1,17 @@
 ---
 title: "Regeling kleding, bewapening en overige uitrusting politie BES"
 identifier: "BWBR0028831"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028831"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11037013"
-version_id: "18031512"
-internal_id: "C25070221"
-label_id: "11012354"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028831/2019-01-01/0"
-intitule_bron: "Stcrt.2010-15882"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-06"
-intitule_published: "2010-10-12"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15882"
-original_signed_date: "2010-10-06"
-original_published_date: "2010-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15882"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028831&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0028831&g=2019-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-10-06"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0028831"
+opgehaald: 2026-08-16
 ---
-# Regeling kleding, bewapening en overige uitrusting politie BES
 
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
+# Regeling kleding, bewapening en overige uitrusting politie BES
 
 ### Hoofdstuk 1. : Begripsbepalingen
 
@@ -43,23 +19,24 @@ Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uu
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar van politie:** de ambtenaar van politie, bedoeld in [artikel 1, onder c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1);
+- a. *ambtenaar van politie:* de ambtenaar van politie, bedoeld in [artikel 1, onder c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1);
 
-- b. **beheerder:** de functionaris, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=2&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01);
+- b. *beheerder:* de functionaris, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=2&paragraaf=3&artikel=4&z=2019-01-01&g=2019-01-01);
 
-- c. **uniform:** het samenstel van kledingstukken en overige uitrustingsstukken zoals genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&z=2019-01-01&g=2019-01-01) van deze regeling;
+- c. *uniform:* het samenstel van kledingstukken en overige uitrustingsstukken zoals genoemd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&z=2019-01-01&g=2019-01-01) van deze regeling;
 
-- d. **kleding:** tot een der tenues behorende kledingstukken, waaronder begrepen: pet, das, dasklem, handschoenen, koppelriem, broekriem, rangonderscheidingstekens, politiedistinctief, schoeisel, knopen, armkoorden, en de onderdelen van deze kledingstukken.
+- d. *kleding:* tot een der tenues behorende kledingstukken, waaronder begrepen: pet, das, dasklem, handschoenen, koppelriem, broekriem, rangonderscheidingstekens, politiedistinctief, schoeisel, knopen, armkoorden, en de onderdelen van deze kledingstukken.
 
-- e. **dienstkleding:** de door de beheerder aan de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), verstrekte kleding;
+- e. *dienstkleding:* de door de beheerder aan de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), verstrekte kleding;
 
-- f. **hoofdrang:** de rang, genoemd in [artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=3);
+- f. *hoofdrang:* de rang, genoemd in [artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=3);
 
-- g. **werkgebied:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- g. *werkgebied:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- h. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- h. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- i. **Rijkswet:** [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079).
+- i. *Rijkswet:*
+ [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079).
 
 ### Hoofdstuk 2. : Algemene bepalingen
 
@@ -159,7 +136,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 - 3. het sporttenue.
 
-#### § 1.1. Het dagelijkse tenue
+##### § 1.1. Het dagelijkse tenue
 
 ##### Artikel 15
 
@@ -167,7 +144,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 2. Het dagelijks tenue bestaat uit een combinatie van een hemd met lange mouwen met das of een hemd met korte mouwen zonder das.
 
-#### § 1.1.1. De Pet
+##### § 1.1.1. De Pet
 
 ##### Artikel 16
 
@@ -217,7 +194,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 19. Onze Minister kan voor de ambtenaar van politie van het vrouwelijke geslacht, bij beschikking, een damespet voorschrijven, onder vermelding van het model, de kleur en de stof waarvan de pet moet worden vervaardigd.
 
-#### § 1.1.2. : Het overhemd
+##### § 1.1.2. : Het overhemd
 
 ##### Artikel 17
 
@@ -235,13 +212,13 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 3. Op de linkermouw van het hemd met korte en lange mouwen is er een geborduurd mouwembleem aangebracht.
 
-#### § 1.1.3. : Het onderhemd
+##### § 1.1.3. : Het onderhemd
 
 ##### Artikel 18
 
 Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
-#### § 1.1.4. : De broek
+##### § 1.1.4. : De broek
 
 ##### Artikel 19
 
@@ -251,7 +228,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 3. [vervallen]
 
-#### § 1.1.5. : De rok
+##### § 1.1.5. : De rok
 
 ##### Artikel 20
 
@@ -265,7 +242,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 5. In het midden van de achterzijde is vanaf de achterzijde van de rok een 24 cm lange verticale stolpplooi waarvan slechts de bovenzijde is afgedicht.
 
-#### § 1.1.6. : Das en dasklem
+##### § 1.1.6. : Das en dasklem
 
 ##### Artikel 21
 
@@ -275,7 +252,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 3. De dasklem is smal en vervaardigd van goudkleurig metaal en in het midden voorzien van een miniatuur korpsembleem, waarvan de grootste middellijn 21 mm bedraagt, vervaardigd van verguld metaal.
 
-#### § 1.1.7. : Schoeisels
+##### § 1.1.7. : Schoeisels
 
 ##### Artikel 22
 
@@ -283,19 +260,19 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 2. De vrouwen hebben de mogelijkheid onder de rok zwarte stewardessschoenen te dragen.
 
-#### § 1.1.8. : Handschoenen
+##### § 1.1.8. : Handschoenen
 
 ##### Artikel 23
 
 De handschoenen voor de ambtenaar van politie zijn vervaardigd van wit katoen.
 
-#### § 1.1.3. : Koppelriem en broekriem
+##### § 1.1.3. : Koppelriem en broekriem
 
 ##### Artikel 24
 
 De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte gesp. De koppel heeft het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01).
 
-#### § 1.1.9. : De korte jas
+##### § 1.1.9. : De korte jas
 
 ##### Artikel 25
 
@@ -317,13 +294,13 @@ De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte ge
 
 4. De korte jas kan ook worden gedragen door de ambtenaar van politie die lid is van de politieharmonie of -drumband.
 
-#### § 1.1.10. : [vervallen]
+##### § 1.1.10. : [vervallen]
 
-#### § 1.1.11. : [vervallen]
+##### § 1.1.11. : [vervallen]
 
-#### § 1.1.12. : [vervallen]
+##### § 1.1.12. : [vervallen]
 
-#### § 1.1.13. : Naamplaat
+##### § 1.1.13. : Naamplaat
 
 ##### Artikel 29
 
@@ -333,9 +310,9 @@ De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte ge
 
 3. Aan de voorzijde van de naamplaat zijn – in zwarte letters – de voorletters en de achternaam van de ambtenaar van politie aangebracht.
 
-#### § 1.1.14. : [vervallen]
+##### § 1.1.14. : [vervallen]
 
-#### § 1.1.15. : Het tenue van aanhoudings- en ondersteuningsambtenaren
+##### § 1.1.15. : Het tenue van aanhoudings- en ondersteuningsambtenaren
 
 ##### Artikel 31
 
@@ -357,7 +334,7 @@ Het tenue van de ambtenaren als bedoeld in [artikel 6, eerste lid, van het Beslu
 
 - h. zwarte hoge schoenen.
 
-#### § 1.2. Het ‘ceremonieel tenue’
+##### § 1.2. Het ‘ceremonieel tenue’
 
 ##### Artikel 32
 
@@ -391,7 +368,7 @@ Het ‘ceremonieel tenue’ is voor de ambtenaar van politie, belast met de uitv
 
 4. De schouderbedekkingen zijn gelijk aan die omschreven in [artikel 28 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=28).
 
-#### § 1.3. : Het Sporttenue
+##### § 1.3. : Het Sporttenue
 
 ##### Artikel 35
 
@@ -401,13 +378,13 @@ Het sporttenue wordt gedragen bij de van dienstwege voorgeschreven sportbeoefeni
 
 Het sporttenue bestaat uit een sportbroek, T-shirt, trainingspak, judopak, zwembroek, sportsokken en sportschoenen voor binnen en buiten.
 
-#### § 1.4. Regenkleding
+##### § 1.4. Regenkleding
 
 ##### Artikel 37
 
 De regenkleding bestaat uit een plastic regenjas en een plastic petovertrek.
 
-#### § 1.5. Het dragen van eretekenen
+##### § 1.5. Het dragen van eretekenen
 
 ##### Artikel 38
 
@@ -417,7 +394,7 @@ Door de korpsbeheerder politie kunnen regels worden gesteld omtrent het dragen v
 
 Van het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=38&z=2019-01-01&g=2019-01-01) kan worden afgeweken in de gevallen waartoe door de korpsbeheerder politie vooraf toestemming is verleend.
 
-#### § 1.6. Handboeien
+##### § 1.6. Handboeien
 
 ##### Artikel 39a
 
@@ -542,51 +519,3 @@ Deze regeling wordt aangehaald als: Regeling kleding, bewapening en overige uitr
 ##### Artikel 74
 
 [vervallen]
-
-## Bijlage A. bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.2&artikel=17&z=2019-01-01&g=2019-01-01), van de Regeling kleding, bewapening en overige uitrusting politie
-
-## Bijlage B. bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2019-01-01&g=2019-01-01), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2019-01-01&g=2019-01-01) en [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2019-01-01&g=2019-01-01) van de Regeling kleding, bewapening en overige uitrusting politie
-
-Vuurwapens ([artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=4&artikel=51&z=2019-01-01&g=2019-01-01))
-
-| MERK | MODEL | TYPE MUNITIE | DRAAGMIDDEL |
-| --- | --- | --- | --- |
-| Semi-automatisch pistool van het merk Walther | Type P99Q NL | Munitie van het merk RUAG Ammotec GmbH, Type Action, Model NP, Kaliber 9 mm x 19 mm | Voor het zichtbaar dragen: holster van het merk Radar, type P99Q NL, alsmede bijbehorende modulaire accessoires. Voor het verdekt dragen voor gebruik door ambtenaren die optreden in burgerkleding: holster van het merk Radar, type verdekt P99Q NL alsmede bijbehorende modulaire accessoires. Voor het dragen van een extra patroonhouder: enkele patroonhoudertas van het merk Vega. |
-| Oefenpistool Walther | Type P99Q NL | Simunition, type FX markeer, Kaliber 9 mm x 19 mm of Simunition, type FX niet markerend, Kaliber 9 mm x 19 mm of Simunition, type knalpatroon, kaliber 9 mm x 19 mm | – |
-| Pistool Walther | P5 | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P5 en reserve patroonhouder tas of heupholster Sicklinger / Safariland |
-| Pistool Walther | P5 Compact | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P5 Compact en reserve patroonhoudertas |
-| Pistool Walther | P88 | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Walther P88 en reserve patroonhoudertas of heupholster Sicklinger / Safariland |
-| Pistool Glock | 17 | Kaliber 9 mm Parabellum (9x19) | Holster Pistool Glock 17 en reserve patroonhoudertas of heupholster Safariland |
-| Pistoolmitrailleurs Heckler & Koch | MP5 | Kaliber 9 mm Parabellum (9x19) | draagriem |
-| Pistool Walther | PPK | Kaliber 9mm kort (380 ACP) oftewel (9x17) | Holster Pistool Walther PPK en reserve patroonhoudertas |
-| Revolver korte loop (snup nose) Smith & Wesson | 10-7 | Kaliber .38 w special | Holster revolver korte loop Smith & Wesson |
-| Revolver Lange loop Smith & Wesson | 10-5 | Kaliber 38 w Special | Holster revolver lange loop Smith & Wesson |
-| Revolver Lange loop Smith & Wesson | 17-2 | Kaliber 22 LR (Long Rifle) | Holster revolver lange loop Smith & Wesson voor model 17-2 |
-| Jachtgeweer (shotgun) ITACA | 37-Featherlight | Kaliber 12GA (2 ¾) |   |
-| Jachtgeweer (shotgun) ITACA |   | Kaliber 16GA (2 ¾) |   |
-| Karabijn Plainfield Machine | M1 | Kaliber 30 (7.62) | Reserve patroonhoudertas voor reservehouder karabijn Plainfield Machine model M1 |
-| Karabijn Plainfield Machine | M2 | Kaliber 30 (7.62) | Reserve patroonhoudertas voor reservehouder karabijn Plainfield Machine model M2 |
-| Karabijn Plainfield Machine | M3 | Kaliber 30 |   |
-| Geweer Winchester | 72 | Kaliber .22 kort |   |
-| Sniper Rifle Remington | 700 | Kaliber .308 WIN (Winchester) |   |
-| Federal Gas Riot Gun | ? | Kaliber 1.5 |   |
-| Additionele Munitie voor Pistool |   | 9 mm luger volmantel (kogelpunt) Full Metal Jacket (FMJ) van het merk American Eagle of Winchester voor pistool |   |
-| Additionele Munitie voor revolver |   | Scherpe patroon kaliber .38 special silvertip hollow point van het merk Winchester |   |
-| Additionele Munitie voor revolver |   | Scherpe patroon caliber .38 special loden kogelpunt |   |
-| Additionele munitie voor Jachtgeweer |   | Jachtpatroon Kaliber 16 gauge (GA) 2 ¾ inches, 2 shot |   |
-| Additionele munitie voor Jachtgeweer |   | Jachtpatroon caliber 16 gauge (GA) 2 ¾ inches, 4 shot van het merk Winchester en Remington |   |
-| Additionele munitie voor Pistool |   | Scherpe Patroon Kaliber . 30 volmantel van het merk Winchester |   |
-| Additionele munitie voor Sniper Rifle |   | Scherpe patroon kaliber .308 WIN core point or power -point van het merk Dynamit Nobel en Winchester |   |
-
-Overige uitrusting ([artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.1&sub-paragraaf=1.1.3&artikel=24&z=2019-01-01&g=2019-01-01), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.6&artikel=39a&z=2019-01-01&g=2019-01-01) en 53)
-
-| Uitrusting | MERK | MODEL |
-| --- | --- | --- |
-| Koppel | Uncle Mike’s | Sidekick |
-| Handboeien | Lips DL |   |
-| Wapenstok kort |   |   |
-| Wapenstok kort | Uitschuifbare wapenstok van het merk Bonowi | EKA Camlock |
-| Wapenstok midden |   |   |
-| Wapenstok lang |   |   |
-| CS-traangasgranaten |   | TW 702-15 CS |
-| Traangas kogels | Barricade-Penetrating Liquid CS |   |

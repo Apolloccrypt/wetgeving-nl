@@ -1,51 +1,33 @@
 ---
 title: "Erfbelasting, fictieve verkrijging, levensverzekering en derdenbeding, premiesplitsing"
 identifier: "BWBR0029172"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-12-02"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029172"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11130683"
-version_id: "18205732"
-internal_id: "C25300151"
-label_id: "11106214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029172/2022-12-02/0"
-intitule_bron: "Stcrt.2010-20508"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-14"
-intitule_published: "2010-12-21"
-intitule_in_force: "2010-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20508"
-original_signed_date: "2010-12-14"
-original_published_date: "2010-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20508"
-entry_into_force_date: "2010-12-22"
-jci_1_3: "jci1.3:c:BWBR0029172&z=2022-12-02&g=2022-12-02"
-jci_1_0: "1.0:c:BWBR0029172&g=2022-12-02"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-14"
-entry_into_force: "2010-12-22"
+publicatiedatum: 2010-12-22
+laatste_update: 2022-12-02
+status: geldig
+toestand: 2022-12-02
+bron: "https://wetten.overheid.nl/BWBR0029172"
+opgehaald: 2026-08-16
 ---
+
 # Erfbelasting, fictieve verkrijging, levensverzekering en derdenbeding, premiesplitsing
 
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-**In dit besluit is het besluit van 18 juli 2008, nr. CPP2008/1425M geactualiseerd naar aanleiding van de herziening van Successiewet 1956 per 1 januari 2010. De wijzigingen (in de terminologie) per 1 januari 2010 zijn verwerkt. Door de herziening is onderdeel 9 (premieaftrek) vervallen. Dat wordt nader toegelicht in onderdeel 1 onder Wijzigingen per 2010. Onderdeel 11 (Heffing van erfbelasting en inkomstenbelasting bij ongevalsuitkeringen ineens) is niet meer opgenomen in dit besluit. Dat onderdeel is in het besluit over vrijstellingen opgenomen.**
+*In dit besluit is het besluit van 18 juli 2008, nr. CPP2008/1425M geactualiseerd naar aanleiding van de herziening van Successiewet 1956 per 1 januari 2010. De wijzigingen (in de terminologie) per 1 januari 2010 zijn verwerkt. Door de herziening is onderdeel 9 (premieaftrek) vervallen. Dat wordt nader toegelicht in onderdeel 1 onder Wijzigingen per 2010. Onderdeel 11 (Heffing van erfbelasting en inkomstenbelasting bij ongevalsuitkeringen ineens) is niet meer opgenomen in dit besluit. Dat onderdeel is in het besluit over vrijstellingen opgenomen.*
 
 ### 1. Inleiding
 
 Dit besluit bevat het beleid over de toepassing van [artikel 13 van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=13). Verkrijgingen krachtens levensverzekering of derdenbeding als gevolg van of na het overlijden van een persoon gelden civielrechtelijk niet als erfrechtelijke verkrijgingen. Ze zijn materieel gezien wel gelijk te stellen aan erfrechtelijke verkrijgingen. Deze verkrijgingen worden als fictieve erfrechtelijke verkrijgingen in de heffing van erfbelasting betrokken (artikel 13 van de Successiewet).
 
-In het kader van de herziening van de [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=13) gewijzigd. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=23) (premieaftrek) is vervallen per 1 januari 2010. Vanaf 2010 geldt voor artikel 13 het uitgangspunt dat een verzekeringsuitkering door overlijden van de erflater, is belast voor zover de verkrijging kan worden toegerekend aan een onttrekking aan het vermogen van de erflater. De uitwerking wordt toegelicht aan de hand van het voorbeeld van een echtpaar dat is gehuwd in wettelijke gemeenschap van goederen. De echtgenoten hebben een levensverzekering gesloten die uitkeert bij het overlijden van één van hen. De premies zijn uit de gemeenschap betaald. Één van de echtgenoten komt te overlijden, waardoor de verzekering uitkeert.
+Wijzigingen per 2010
+
+In het kader van de herziening van de [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=13) gewijzigd. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=23) (premieaftrek) is vervallen per 1 januari 2010. Vanaf 2010 geldt voor artikel 13 het uitgangspunt dat een verzekeringsuitkering door overlijden van de erflater, is belast voor zover de verkrijging kan worden toegerekend aan een onttrekking aan het vermogen van de erflater. De uitwerking wordt toegelicht aan de hand van het voorbeeld van een echtpaar dat is gehuwd in wettelijke gemeenschap van goederen. De echtgenoten hebben een levensverzekering gesloten die uitkeert bij het overlijden van één van hen. De premies zijn uit de gemeenschap betaald. Één van de echtgenoten komt te overlijden, waardoor de verzekering uitkeert.
+
+Gevolg tot 2010
 
 Voor de uitkering is de helft van de betaalde premies ontrokken aan het vermogen van de erflater ([artikel 23 van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=23), zoals dat gold tot 2010). Tot 2010 werd dan de gehele uitkering belast met successierecht (afgezien van de partnervrijstelling). Er was voor de uitkering immers «iets» aan het vermogen van de erflater onttrokken. Op de uitkering kon de helft van de betaalde premies in mindering worden gebracht, want dat deel van de premies is afkomstig uit het vermogen van de langstlevende echtgenoot/begunstigde.
+
+Vanaf 2010
 
 Vanaf 2010 wordt niet meer gewerkt met de systematiek van premieaftrek, maar wordt slechts het deel van de uitkering belast dat kan worden toegerekend aan een onttrekking aan het vermogen van de erflater. In het hiervoor gegeven voorbeeld is de helft van de premies afkomstig uit het vermogen van de erflater zodat onder de nieuwe bepaling dan ook slechts de helft van de uitkering in de heffing van erfbelasting wordt betrokken. Voorts blijft de uitkering buiten de heffing voor zover het recht op de uitkering bij de verkrijger reeds eerder aan de heffing van schenk- of erfbelasting is onderworpen. Dit kan bijvoorbeeld het geval zijn indien een lopende polis is vererfd. Ook dit is een versoepeling ten opzichte van de bestaande systematiek, waarin op grond van het per 2010 vervallen [artikel 23 van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=23) slechts een aftrek is toegestaan van het bedrag waarover schenk- of erfbelasting is geheven.
 
@@ -63,17 +45,31 @@ Voor [artikel 13 van de Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ### Rapport van Verbond van Verzekeraars over premiesplitsing in verband met erfbelasting
 
-Naar aanleiding van het toenmalige premiesplitsingsbesluit heeft het Verbond van Verzekeraars een rapport opgesteld over premiesplitsing voor de [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226). Over de inhoud van dit rapport (‘Premiesplitsing i.v.m. successierecht’ d.d. 24 juni 1999) is overleg gevoerd met de Belastingdienst. Het rapport bevat naast methoden voor premiesplitsing ook een aantal meer juridische onderwerpen die eveneens betrekking hebben op de premiesplitsing. De uitgangspunten van het rapport kunnen worden gevolgd, ook voor zover die niet direct betrekking hebben op de actuariële premiesplitsing. De nog geldende toezeggingen en goedkeuringen uit het rapport zijn opgenomen in dit besluit.
+Naar aanleiding van het toenmalige premiesplitsingsbesluit heeft het Verbond van Verzekeraars een rapport opgesteld over premiesplitsing voor de [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226). Over de inhoud van dit rapport (‘Premiesplitsing i.v.m. successierecht’ d.d. 24 juni 1999) is overleg gevoerd met de Belastingdienst. Het rapport bevat naast methoden voor premiesplitsing ook een aantal meer juridische onderwerpen die eveneens betrekking hebben op de premiesplitsing. De uitgangspunten van het rapport kunnen worden gevolgd, ook voor zover die niet direct betrekking hebben op de actuariële premiesplitsing. De nog geldende toezeggingen en goedkeuringen uit het rapport zijn opgenomen in dit besluit.
 
 ### 2.1. Belangrijke elementen
 
 Voor de beantwoording van de vraag of er iets is onttrokken aan het vermogen van de erflater is een aantal factoren van belang. De volgende elementen worden hierna behandeld:
 
+- – de verschuldigdheid en de betaling van de premie ([onderdelen 2.2 tot en met 2.4](https://wetten.overheid.nl/BWBR0029172));
+
+- – het huwelijksgoederenregime of het samenlevingscontract van de overledene tijdens diens leven ([onderdeel 2.5](https://wetten.overheid.nl/BWBR0029172));
+
+- – het tijdstip van beoordeling ([onderdeel 2.6](https://wetten.overheid.nl/BWBR0029172));
+
+- – de overdracht en toescheiding van lopende verzekeringen ([onderdeel 2.7](https://wetten.overheid.nl/BWBR0029172)); en
+
+- – de samenhang tussen verzekeringen ([onderdeel 2.8](https://wetten.overheid.nl/BWBR0029172)).
+
 ### 2.2. Verschuldigdheid
 
-Bij de beoordeling van de vraag of voor een verzekeringsuitkering een onttrekking aan het vermogen van de erflater heeft plaatsgevonden, is onder meer van belang door wie de verzekeringspremie aan de verzekeraar verschuldigd was. Volgens vaste jurisprudentie wordt aangesloten bij de verschuldigdheid van de premie, en niet bij de betaling. Het arrest van de Hoge Raad van 17 februari 1954, BNB 1954/140, geldt volgens latere uitspraken van gerechtshoven nog steeds als leidraad.
+Bij de beoordeling van de vraag of voor een verzekeringsuitkering een onttrekking aan het vermogen van de erflater heeft plaatsgevonden, is onder meer van belang door wie de verzekeringspremie aan de verzekeraar verschuldigd was. Volgens vaste jurisprudentie wordt aangesloten bij de verschuldigdheid van de premie, en niet bij de betaling. Het arrest van de Hoge Raad van 17 februari 1954, BNB 1954/140, geldt volgens latere uitspraken van gerechtshoven nog steeds als leidraad.
 
 Met verschuldigdheid van premie wordt in dit kader bedoeld verschuldigdheid aan de verzekeraar. De verschuldigdheid moet zijn overeengekomen tussen de verzekeraar en degene die premie verschuldigd is (hierna: de premieplichtige). Indien er twee of meer premieplichtigen zijn, blijkt de verschuldigdheid van premie door elk van hen uit:
+
+- – een door alle premieplichtigen ondertekend en gedagtekend aanvraagformulier, én
+
+- – de polis of een bij de polis behorend clausuleblad.
 
 Een gesplitste premie houdt niet automatisch in dat er ook premieverschuldigdheid door meer dan één persoon bestaat. Een afspraak over premieverschuldigdheid waarbij de verzekeraar of een premieplichtige geen partij is, mist in dit verband fiscale betekenis. Een eenzijdige verklaring van een verzekeraar of een andere persoon (bijvoorbeeld de begunstigde) dat premie is verschuldigd, is bijvoorbeeld niet voldoende.
 
@@ -81,7 +77,15 @@ Een gesplitste premie houdt niet automatisch in dat er ook premieverschuldigdhei
 
 Uitgangspunt is dat duidelijk is welke premie voor rekening van welke persoon komt. Afzonderlijke incasso is voor de meeste verzekeraars niet uitvoerbaar gebleken. Uit praktische overwegingen kan bij meerdere premieplichtigen de verzekeraar volstaan met één incasso. Hierbij gelden de volgende uitgangspunten:
 
-Voor verzekeringen die zijn afgesloten voor 1 juli 2000, heeft de wijze van premie-incasso geen gevolgen voor de premiesplitsing.
+- – De aanvraag bevat de volgende verklaringen:
+
+   - – Alle premieplichtigen die zijn betrokken bij de verzekeringsovereenkomst gaan ermee akkoord dat de door hen verschuldigde premie wordt geïncasseerd bij de (eerste) verzekeringnemer.
+
+   - – De premieplichtige voor het overlijdensdeel verzoekt de verzekeraar zich voor de incasso van de door hem verschuldigde premie te richten tot de (eerste) verzekeringnemer. De (eerste) verzekeringnemer verklaart zich akkoord met deze wijze van incasso.
+
+- – De hiervoor genoemde afgegeven verklaringen zijn ook van toepassing na elke mutatie van de verzekering, tenzij de mutatie meebrengt dat die verklaringen niet meer in die vorm kunnen worden uitgevoerd of één of alle premieplichtigen bij de verzekeraar aangeven van deze eerder afgelegde verklaringen te willen afwijken. In dat geval worden de verklaringen opnieuw door de premieplichtingen afgelegd en door de betrokkenen akkoord bevonden.
+
+Voor verzekeringen die zijn afgesloten voor 1 juli 2000, heeft de wijze van premie-incasso geen gevolgen voor de premiesplitsing.
 
 ### 2.3. Betaling
 
@@ -115,7 +119,7 @@ Hierbij kan bijvoorbeeld gedacht worden aan het beding dat bij overlijden van ee
 
 ### 2.5.5. Beperkte gemeenschap van goederen
 
-Bij een beperkte gemeenschap van goederen zal aan de hand van de huwelijksvoorwaarden vastgesteld moeten worden of de premie ten laste is gekomen van het gemeenschappelijke vermogen of ten laste van het privé-vermogen van de echtgenoot van de erflater. Bij een gemeenschap van vruchten en inkomsten wordt ervan uitgegaan dat de premie – indien niet anders is bepaald – als een huishoudschuld ten laste komt van het gemeenschappelijke vermogen. De helft van de premie is dan onttrokken aan het vermogen van de erflater.
+Bij een beperkte gemeenschap van goederen zal aan de hand van de huwelijksvoorwaarden vastgesteld moeten worden of de premie ten laste is gekomen van het gemeenschappelijke vermogen of ten laste van het privé-vermogen van de echtgenoot van de erflater. Bij een gemeenschap van vruchten en inkomsten wordt ervan uitgegaan dat de premie – indien niet anders is bepaald – als een huishoudschuld ten laste komt van het gemeenschappelijke vermogen. De helft van de premie is dan onttrokken aan het vermogen van de erflater.
 
 ### 2.5.6. Samenlevingscontract
 
@@ -131,17 +135,21 @@ Ook als de erflater tijdens zijn leven voor de verzekeringsuitkering premie vers
 
 Ook als de erflater wel premie was verschuldigd, kan uiteindelijk blijken dat er niet is onttrokken aan zijn vermogen. Dit geldt bijvoorbeeld in de volgende gevallen.
 
-In onderdeel 5 wordt nader ingegaan op de vraag wanneer er in dergelijke situaties vanuit gegaan mag worden dat er niet is onttrokken aan het vermogen van de erflater.
+- – De erflater heeft de rechten op de verzekering tijdens zijn leven overgedragen aan een ander, bijvoorbeeld de begunstigde (veelal de echtgenoot of partner).
+
+- – De rechten op de verzekering zijn bij wijziging van het huwelijksgoederenregime of echtscheiding toegescheiden aan de (gewezen) echtgenoot.
+
+In [onderdeel 5](https://wetten.overheid.nl/BWBR0029172) wordt nader ingegaan op de vraag wanneer er in dergelijke situaties vanuit gegaan mag worden dat er niet is onttrokken aan het vermogen van de erflater.
 
 ### 2.8. Samenhang afzonderlijk afgesloten verzekeringen
 
 Samenhangende verzekeringen die op afzonderlijke polissen zijn afgesloten worden in hun onderlinge samenhang beoordeeld. Zo kan de samenhang met een andere, door de erflater afgesloten, verzekering zodanig zijn dat er voor de uitkering toch iets aan diens vermogen is onttrokken. Er kan sprake zijn van samenhang tussen verzekeringen indien bepaalde componenten van de verzekeringen, zoals looptijd en premies, op elkaar zijn afgestemd.
 
-Een premievoordeel in verband met de onderlinge samenhang tussen afzonderlijke polissen wordt naar evenredigheid aan de verschillende verzekeringen toegerekend. Zie ook hiervoor de systematiek die is aangegeven in onderdeel 4.3.
+Een premievoordeel in verband met de onderlinge samenhang tussen afzonderlijke polissen wordt naar evenredigheid aan de verschillende verzekeringen toegerekend. Zie ook hiervoor de systematiek die is aangegeven in [onderdeel 4.3](https://wetten.overheid.nl/BWBR0029172).
 
 ### 3. De overlijdensverzekering op één of meerdere levens
 
-De overlijdensverzekering op één leven is de verzekering op het leven van de verzekerde die tot uitkering komt bij overlijden van de verzekerde. Bij een overlijdensuitkering op één leven zal de premie door één persoon zijn verschuldigd. Het is dan meestal geen probleem om te beoordelen of iets is onttrokken aan het vermogen van de erflater. Ik verwijs hiervoor naar de onderdelen 2 en 5. Bij een overlijdensverzekering op twee levens en een gemengde verzekering is de beoordeling veelal lastiger. Van belang daarbij is of sprake is van premiesplitsing.
+De overlijdensverzekering op één leven is de verzekering op het leven van de verzekerde die tot uitkering komt bij overlijden van de verzekerde. Bij een overlijdensuitkering op één leven zal de premie door één persoon zijn verschuldigd. Het is dan meestal geen probleem om te beoordelen of iets is onttrokken aan het vermogen van de erflater. Ik verwijs hiervoor naar de [onderdelen 2](https://wetten.overheid.nl/BWBR0029172) en [5](https://wetten.overheid.nl/BWBR0029172). Bij een overlijdensverzekering op twee levens en een gemengde verzekering is de beoordeling veelal lastiger. Van belang daarbij is of sprake is van premiesplitsing.
 
 ### 4. Premiesplitsing
 
@@ -151,23 +159,51 @@ Bij een overlijdensuitkering op één leven zal de premie door één persoon zij
 
 Hierna wordt met betrekking tot de volgende verzekeringsvormen, aangegeven onder welke voorwaarden een premiesplitsing tot gevolg kan hebben dat er voor de uitkering bij overlijden geen onttrekking aan het vermogen van de erflater heeft plaatsgevonden:
 
+- – de overlijdensverzekering op twee levens;
+
+- – de gemengde verzekering op één leven; en
+
+- – de gemengde verzekering op twee levens.
+
 ### 4.1.1. De overlijdensverzekering op twee levens
 
 Een overlijdensverzekering op twee levens is de verzekering op de levens van twee verzekerden die tot uitkering komt bij het eerste overlijden van een van beide verzekerden.
 
 Een premiesplitsing houdt in dat de premie wordt gesplitst in:
 
+- – een gedeelte voor de uitkering bij het overlijden van de ene verzekerde als eerste; en
+
+- – een gedeelte voor de uitkering bij het overlijden van de andere verzekerde als eerste.
+
 ### 4.1.2. De gemengde verzekering op één leven
 
 Een gemengde verzekering op één leven is de verzekering op het leven van de verzekerde die tot uitkering komt op:
 
+- – de einddatum van de verzekering indien de verzekerde dan in leven is; of
+
+- – bij overlijden van de verzekerde vóór de einddatum.
+
 De verschuldigdheid van de premie is alleen afhankelijk van het leven van de verzekerde. De premieplicht stopt niet bij het overlijden van de premieplichtige. Bij overlijden van de premieplichtige gaat de premieplicht over op zijn erfgenamen. Een premiesplitsing houdt in dat de premie wordt gesplitst in:
+
+- – een gedeelte voor de uitkering bij leven, en
+
+- – een gedeelte voor de uitkering bij overlijden.
 
 ### 4.1.3. De gemengde verzekering op twee levens
 
 Een gemengde verzekering op twee levens is de verzekering op de levens van twee verzekerden die tot uitkering komt op;
 
+- – de einddatum van de verzekering als beide verzekerden dan in leven zijn; of
+
+- – bij het eerste overlijden van een van beide verzekerden vóór de einddatum.
+
 Een premiesplitsing houdt in dat de premie wordt gesplitst in:
+
+- – een gedeelte voor de uitkering bij leven van beide verzekerden;
+
+- – een gedeelte voor de uitkering bij het overlijden van de ene verzekerde als eerste; en
+
+- – een gedeelte voor de uitkering bij het overlijden van de andere verzekerde als eerste.
 
 ### 4.2. Geen premiesplitsing
 
@@ -177,29 +213,55 @@ Als voor de verzekeringen de volledige premie door één persoon was verschuldig
 
 Bij premiesplitsing kan er van worden uitgegaan dat er voor de uitkering bij overlijden geen onttrekking heeft plaatsgevonden aan het vermogen van de erflater als is voldaan aan de hierna opgenomen voorwaarden. Hierbij geldt uiteraard steeds dat samenhangende verzekeringen die niet als één verzekering op één polis worden afgesloten, maar als meerdere afzonderlijke verzekeringen op meerdere polissen (eventueel met een verbindingsclausule) in hun onderlinge verband worden bekeken.
 
-Het gedeelte van de premie voor de uitkering bij overlijden was verschuldigd door een ander dan de erflater. Niet voldoende is dat het vorenbedoelde gedeelte van de premie door een ander betaald werd. Niet de betaling, maar de verschuldigdheid is beslissend. Zie in dit verband ook de onderdelen 2.2 en 2.3.
+Voorwaarde 1. Verschuldigdheid van de premie
+
+Het gedeelte van de premie voor de uitkering bij overlijden was verschuldigd door een ander dan de erflater. Niet voldoende is dat het vorenbedoelde gedeelte van de premie door een ander betaald werd. Niet de betaling, maar de verschuldigdheid is beslissend. Zie in dit verband ook de [onderdelen 2.2](https://wetten.overheid.nl/BWBR0029172) en [2.3](https://wetten.overheid.nl/BWBR0029172).
+
+Voorwaarde 2. Overeenkomst met verzekeraar
 
 De splitsing van de premie is door de premieplichtigen overeengekomen met de verzekeraar. De verschuldigdheid aan de verzekeraar van de premiegedeelten door de verschillende premieplichtigen blijkt uit de polis of een bij de polis behorend clausuleblad én een door alle premieplichtigen ondertekend en gedagtekend aanvraagformulier. Een premiesplitsing die niet met de verzekeraar werd overeengekomen heeft in dit verband dus geen fiscale betekenis.
 
-Het gedeelte van de premie voor de uitkering bij overlijden mag op grond van het huwelijksgoederenregime of het samenlevingscontract niet toch ten laste van het vermogen van de erflater zijn gekomen. Zie in dit verband onderdeel 2.5 van dit besluit.
+Voorwaarde 3. Huwelijksgoederenregime/samenlevingscontract
 
-Voor de beoordeling of sprake is van een onttrekking aan het vermogen van de erflater, is het tijdstip van overlijden beslissend. Bij de beoordeling zijn mede van belang de uitgangspunten voor beoordelingstijdstip en overdracht, toescheiding en wijziging van een lopende verzekering. Zie de onderdelen 2.6, 2.7 en 5 van dit besluit.
+Het gedeelte van de premie voor de uitkering bij overlijden mag op grond van het huwelijksgoederenregime of het samenlevingscontract niet toch ten laste van het vermogen van de erflater zijn gekomen. Zie in dit verband [onderdeel 2.5](https://wetten.overheid.nl/BWBR0029172) van dit besluit.
+
+Voorwaarde 4. Overdracht, toescheiding en wijziging lopende polis
+
+Voor de beoordeling of sprake is van een onttrekking aan het vermogen van de erflater, is het tijdstip van overlijden beslissend. Bij de beoordeling zijn mede van belang de uitgangspunten voor beoordelingstijdstip en overdracht, toescheiding en wijziging van een lopende verzekering. Zie de [onderdelen 2.6](https://wetten.overheid.nl/BWBR0029172), [2.7](https://wetten.overheid.nl/BWBR0029172) en [5](https://wetten.overheid.nl/BWBR0029172) van dit besluit.
+
+Voorwaarde 5. Wijze van premiesplitsing
 
 De wijze van premiesplitsing is afhankelijk van het type verzekering. Per type verzekering gelden de volgende uitgangspunten.
 
+A. De overlijdensverzekering op twee levens
+
 Het gedeelte van de premie voor de uitkering bij overlijden van de ene verzekerde en het gedeelte voor de uitkering bij overlijden van de andere verzekerde zijn ten minste gelijk aan de aandelen van die overlijdensgedeelten in de verschuldigde premie naar verhouding van de zuiver actuariële premiebestanddelen voor de uitkeringen op elk leven afzonderlijk.
+
+B. De gemengde verzekering op één leven
 
 Het gedeelte van de premie voor de uitkering bij overlijden is ten minste gelijk aan het aandeel van het overlijdensgedeelte in de verschuldigde premie naar verhouding van de zuiver actuariële premiebestanddelen voor de afzonderlijke uitkeringen bij leven en overlijden.
 
+C. De gemengde verzekering op twee levens
+
 Het gedeelte van de premie voor de uitkering bij overlijden van de ene verzekerde en het gedeelte voor de uitkering bij overlijden van de andere verzekerde zijn ten minste gelijk aan de aandelen van die overlijdensgedeelten in de verschuldigde premie naar verhouding van de zuiver actuariële premiebestanddelen voor de uitkeringen bij leven en die bij overlijden op elk leven afzonderlijk.
+
+D. Andere verzekeringen
 
 De hiervóór genoemde voorwaarden 1 tot en met 4 gelden voor alle verzekeringen (zowel euro- als beleggingsverzekeringen) waarbij premiesplitsing is overeengekomen. De wijze waarop de premie gesplitst moet worden zal voor iedere specifieke verzekeringsvorm aan de hand van de inhoud van de verzekeringsovereenkomst bepaald moeten worden. Uitgangspunt is hierbij steeds dat de premiecomponenten naar evenredigheid worden toegerekend aan de zuiver actuariële premiebestanddelen voor de verschillende uitkeringen.
 
+Voorwaarde 6. Hoogte overlijdensuitkering
+
 Voor de premiebestanddelen die betrekking hebben op de afzonderlijke uitkering(en) bij overlijden, wordt steeds uitgegaan van de premie voor het volledige bedrag van de uitkering. Een premie die slechts betrekking heeft op het zogenaamde risicokapitaal is dus niet voldoende.
+
+Voorwaarde 7. Premievrijstelling bij arbeidsongeschiktheid
 
 Als een premievrijstelling bij arbeidsongeschiktheid is overeengekomen, is de ‘verschuldigde premie’ de premie inclusief de premieopslag voor de premievrijstelling.
 
+Voorwaarde 8. Winstdeling
+
 Bij een recht op winst- of overrentedeling of iets vergelijkbaars, wordt dit recht afzonderlijk berekend voor de afzonderlijke delen van de overeenkomst. Er mag dus geen sprake zijn van winstoverheveling vanuit het levendeel naar het overlijdensdeel.
+
+Voorwaarde 9. Toepassing premiesplitsing na premieverhoging
 
 Bij verhoging van de verzekerde kapitalen stelt de verzekeraar ook voor deze verhoging de zuiver actuariële premies vast voor elk van de afzonderlijke delen van de overeenkomst. Na deze premieverhoging mag de totale premie gesplitst worden in verhouding tot de som van de actuariële premies voor de afzonderlijke delen. Er hoeft derhalve bij de toerekening van de totale premie geen afzonderlijke berekening van de premiesplitsing te worden bijgehouden voor elke verhoging van de premie.
 
@@ -211,9 +273,19 @@ Rechten op de polis kunnen tijdens de looptijd door de erflater zijn overgedrage
 
 Voor de overlijdensuitkering is er geen onttrekking aan het vermogen van de erflater geweest als is voldaan aan de volgende voorwaarden:
 
+- – De rechten op de verzekering worden overgedragen of toegescheiden tegen de waarde in het economische verkeer van de lopende verzekering.
+
+- – De verkrijger is vanaf het tijdstip van de overdracht de premie verschuldigd.
+
+- – Bij overdracht of toescheiding aan de echtgenoot of partner zal het huwelijksgoederenregime of het samenlevingscontract "de constructie moeten kunnen dragen". Zie in dit verband [onderdeel 2.5](https://wetten.overheid.nl/BWBR0029172).
+
 ### 5.2. Premiesplitsing tijdens looptijd verzekering
 
 Het kan voorkomen dat echtgenoten of partners pas tijdens de looptijd van de verzekering overgaan tot premiesplitsing. In dat geval zal verrekening moeten plaatsvinden om te kunnen bereiken dat bij overlijden geen onttrekking aan het vermogen van de erflater (de verzekerde) blijkt te hebben plaatsgehad. Er is voor de overlijdensuitkering geen onttrekking aan het vermogen van de erflater geweest indien is voldaan aan de volgende voorwaarden:
+
+- – De echtgenoot of partner van de verzekerde (de erflater) vergoedt aan de verzekerde de waarde in het economische verkeer van de overlijdenscomponent die de lopende verzekering heeft op het tijdstip van de premiesplitsing.
+
+- – Vanaf het tijdstip van premiesplitsing wordt voldaan aan de voorwaarden van [onderdeel 4](https://wetten.overheid.nl/BWBR0029172).
 
 ### 5.3. Gemengde verzekeringen
 
@@ -233,19 +305,21 @@ Bij een lopende verzekering met een premiesplitsing die niet voldoet aan de voor
 
 ### 6.1. Goedkeuring. Overgangsregeling
 
-Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat verzekeringen die zijn gewijzigd vóór 1 juli 2000, voor de heffing van erfbelasting worden beoordeeld aan de hand van de toen gewijzigde polisvoorwaarden. Een gedagtekend aanvraagformulier dat door alle premieplichtigen is ondertekend is in dit kader niet vereist. Voor de beoordeling van de vraag of voor de overlijdensuitkering sprake is van een onttrekking aan het vermogen van de erflater geldt de premiesplitsing zoals deze geldt na de wijziging. Verrekening van premie is in dit geval niet nodig. De goedkeuring geldt voor de volgende gevallen.
+Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat verzekeringen die zijn gewijzigd vóór 1 juli 2000, voor de heffing van erfbelasting worden beoordeeld aan de hand van de toen gewijzigde polisvoorwaarden. Een gedagtekend aanvraagformulier dat door alle premieplichtigen is ondertekend is in dit kader niet vereist. Voor de beoordeling van de vraag of voor de overlijdensuitkering sprake is van een onttrekking aan het vermogen van de erflater geldt de premiesplitsing zoals deze geldt na de wijziging. Verrekening van premie is in dit geval niet nodig. De goedkeuring geldt voor de volgende gevallen.
 
 ### 6.2. Premieverschuldigdheid was niet goed geregeld
 
 Dit betreft de volgende situatie. Uit de polis of een bijbehorend clausuleblad blijkt dat de partijen hebben beoogd de premie voor de overlijdensuitkering ten laste te laten komen van een andere persoon dan de verzekerde. Partijen zijn wel overeengekomen dat die andere persoon de premie van de overlijdensuitkering zal betalen en hebben zo ook gehandeld. De verschuldigdheid van de premie door die persoon was echter niet goed geregeld.
 
-Voor deze situatie keur ik goed dat de overeenkomst van levensverzekering op het punt van de verschuldigdheid geacht wordt vanaf het moment van aangaan van de oorspronkelijke overeenkomst juist te zijn geredigeerd. De overeenkomst moet vóór 1 juli 2000 zodanig zijn gewijzigd dat de verschuldigdheid van de premie voor alle premieplichtigen blijkt uit de polis of een bij de polis behorend clausuleblad.
+Voor deze situatie keur ik goed dat de overeenkomst van levensverzekering op het punt van de verschuldigdheid geacht wordt vanaf het moment van aangaan van de oorspronkelijke overeenkomst juist te zijn geredigeerd. De overeenkomst moet vóór 1 juli 2000 zodanig zijn gewijzigd dat de verschuldigdheid van de premie voor alle premieplichtigen blijkt uit de polis of een bij de polis behorend clausuleblad.
 
 ### 6.3. Premiesplitsing was niet goed geregeld
 
 De partijen bij een overeenkomst van levensverzekering zijn blijkens de polis of een bijbehorend clausuleblad een onjuiste premiesplitsing overeengekomen.
 
-Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat, bij aanpassing vóór 1 juli 2000 naar een juiste premiesplitsing, de premiesplitsing voor de overeenkomst van levensverzekering wordt geacht vanaf het moment van aangaan van de oorspronkelijke overeenkomst juist te zijn geredigeerd.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat, bij aanpassing vóór 1 juli 2000 naar een juiste premiesplitsing, de premiesplitsing voor de overeenkomst van levensverzekering wordt geacht vanaf het moment van aangaan van de oorspronkelijke overeenkomst juist te zijn geredigeerd.
 
 ### 6.4. Premieverschuldigdheid en premiesplitsing waren niet goed geregeld
 
@@ -253,31 +327,144 @@ Als voor een overeenkomst van levensverzekering zowel de premieverschuldigdheid 
 
 ### 6.5. Aanpassing ná 1 juli 2000
 
-Bij aanpassing ná 1 juli 2000 geldt de overgangsregeling van onderdeel 6.1 niet. Hierop gelden de volgende uitzonderingen:
+Bij aanpassing ná 1 juli 2000 geldt de overgangsregeling van [onderdeel 6.1](https://wetten.overheid.nl/BWBR0029172) niet. Hierop gelden de volgende uitzonderingen:
+
+- – Lopende winstdelende verzekeringen die vóór 1 juli 2000 zijn afgesloten. Als de premie voor de hoofdverzekeringsvorm correct is gesplitst, met uitzondering van de winstdeling, geldt het volgende. Aanpassing hoeft pas plaats te vinden op het moment dat de verzekering een wijziging (mutatie) ondergaat.
+
+- – Lopende spaarhypotheekverzekeringen die vóór 1 juli 2000 zijn afgesloten. Aanpassing hoeft pas plaats te vinden bij de eerste renteherziening of andere mutatie.
 
 Indien een hiergenoemde winstdelende- of spaarhypotheekverzekering door overlijden van de verzekerde tot uitkering komt vóórdat een renteherziening mogelijk was of andere mutatie heeft plaatsgevonden zal voor de heffing van erfbelasting gehandeld worden alsof de verzekering was aangepast aan de eisen voor premiesplitsing.
 
 ### 6.6. Geen premiesplitsing/ontoereikend huwelijksgoederenregime of samenlevingscontract
 
-Als tot 1 juli 2000 geen premiesplitsing was overeengekomen en men alsnog een premiesplitsing wenst overeen te komen, geldt geen overgangsregeling. Ook voor situaties waarin het huwelijksgoederenregime of het samenlevingscontract ‘de constructie niet kan dragen’ geldt er geen overgangsregeling. Bij aanpassing van het huwelijksgoederenregime of samenlevingscontract gelden de algemene uitgangspunten voor de beoordeling of er een onttrekking aan het vermogen van de erflater was.
+Als tot 1 juli 2000 geen premiesplitsing was overeengekomen en men alsnog een premiesplitsing wenst overeen te komen, geldt geen overgangsregeling. Ook voor situaties waarin het huwelijksgoederenregime of het samenlevingscontract ‘de constructie niet kan dragen’ geldt er geen overgangsregeling. Bij aanpassing van het huwelijksgoederenregime of samenlevingscontract gelden de algemene uitgangspunten voor de beoordeling of er een onttrekking aan het vermogen van de erflater was.
 
 ### 7. Cijfermatige uitwerking premiesplitsing
 
 Bij de uitwerking van de voorbeelden geldt het volgende. De te splitsen premie is de premie die door de verzekeraar in rekening wordt gebracht. Dit is dus een premie inclusief kosten- en winstopslag, ook wel aangeduid als bruto premie. De splitsing van de premie geschiedt aan de hand van zuiver actuariële premiebestanddelen. Het betreft hier dus premies exclusief opslagen.
 
+Voorbeeld 1
+
 Gegevens van een overlijdensverzekering op twee levens:
 
+| Verzekerd kapitaal | € 100.000 |
+| --- | --- |
+| Verzekerde 1 | man 30 jaar |
+| Verzekerde 2 | vrouw 30 jaar |
+| Looptijd | 30 jaar |
+| Premie (bruto) | € 730 per jaar |
+
 Voor het vaststellen van een premiesplitsing zijn van belang de zuiver actuariële premiebestanddelen voor:
+
+- a. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de man. Het kapitaal en de looptijd veranderen niet. De verzekering komt alleen tot uitkering indien de man vóór de vrouw overlijdt. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde 1
+ man 30 jaar
+ Verzekerde 2
+ vrouw 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 305 per jaar
+
+- b. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de vrouw. Het kapitaal en de looptijd veranderen niet. De verzekering komt alleen tot uitkering indien de vrouw vóór de man overlijdt. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde 1
+ vrouw 30 jaar
+ Verzekerde 2
+ man 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 165 per jaar Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de man bedraagt: Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt:
+
+Voorbeeld 2
 
 Gegevens van een gemengde verzekering op één leven:
 
+| Verzekerd kapitaal | € 100.000 |
+| --- | --- |
+| Verzekerde | man 30 jaar |
+| Looptijd | 30 jaar |
+| Premie (bruto) | € 2.150 per jaar |
+
 Voor het vaststellen van een premiesplitsing zijn van belang de zuiver actuariële premiebestanddelen voor:
+
+- a. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de man. Het kapitaal en de looptijd veranderen niet. De premie is verschuldigd zolang de verzekerde in leven is. Na overlijden van de premieplichtige gaat de premieplicht over op zijn erfgenamen. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde
+ man 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 310 per jaar
+
+- b. Een afzonderlijke kapitaalverzekering die op de einddatum tot uitkering komt bij in leven zijn van de man. Het kapitaal en de looptijd veranderen niet. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde
+ man 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 1.540 per jaar Het gedeelte van de premie voor de gemengde verzekering op één leven dat betrekking heeft op de uitkering bij overlijden van de man bedraagt:
+
+Voorbeeld 3
 
 Gegevens van een gemengde verzekering op twee levens:
 
+| Verzekerd kapitaal | € 100.000 |
+| --- | --- |
+| Verzekerde 1 | man 30 jaar |
+| Verzekerde 2 | vrouw 30 jaar |
+| Looptijd | 30 jaar |
+| Premie (bruto) | € 2.260 per jaar |
+
 Voor het vaststellen van een premiesplitsing zijn van belang de zuiver actuariële premiebestanddelen voor:
 
-Als voorbeeld 2 (gemengde verzekering op één leven), maar na 15 jaar wordt het kapitaal met € 100.000 verhoogd. Voor het vaststellen van een premiesplitsing zijn de volgende gegevens van belang:
+- a. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de man. De verzekering komt alleen tot uitkering indien de man vóór de vrouw overlijdt. Het kapitaal en de looptijd veranderen niet. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde 1
+ man 30 jaar
+ Verzekerde 2
+ vrouw 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 305 per jaar
+
+- b. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de vrouw. De verzekering komt alleen tot uitkering indien de vrouw vóór de man overlijdt. Het kapitaal en de looptijd veranderen niet. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde 1
+ vrouw 30 jaar
+ Verzekerde 2
+ man 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 165 per jaar
+
+- c. Een afzonderlijke kapitaalverzekering die op de einddatum tot uitkering komt bij in leven zijn van beide verzekerden. Het kapitaal en de looptijd veranderen niet. Gegevens: Verzekerd kapitaal
+ € 100.000
+ Verzekerde 1
+ man 30 jaar
+ Verzekerde 2
+ vrouw 30 jaar
+ Looptijd
+ 30 jaar
+ Actuariële premie
+ € 1.460 per jaar Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de man bedraagt: Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt:
+
+Voorbeeld 4
+
+Als voorbeeld 2 (gemengde verzekering op één leven), maar na 15 jaar wordt het kapitaal met € 100.000 verhoogd. Voor het vaststellen van een premiesplitsing zijn de volgende gegevens van belang:
+
+| Verzekerd kapitaal | oorspronkelijk | verhoging | na verhoging |  |
+| --- | --- | --- | --- | --- |
+|  | 100.000 | 100.000 | 200.000 |  |
+| – | Premie (bruto) | 2.150 | 5.700 | 7.850 |
+| – | Actuariële premie voor de overlijdenscomponent | 310 | 650 | 960 |
+| – | Actuariële premie voor de levenscomponent | 1.540 | 4.450 | 5.990 |
+| – | Totale actuariële premie | 1.850 | 5.100 | 6.950 |
 
 Het gedeelte van de premie voor de gemengde verzekering dat na de verhoging van het kapitaal betrekking heeft op de uitkering bij overlijden van de man bedraagt:
 
@@ -288,6 +475,8 @@ Voor de beantwoording van de vraag of er iets is onttrokken aan het vermogen van
 Volgens jurisprudentie en literatuur kan de vraag of premies van levensverzekeringen kosten van de huishouding zijn niet eenduidig met ja of nee beantwoord worden. Wel wordt algemeen aangenomen dat wanneer de verzekering is gesloten in het kader van oudedags- of nabestaandenvoorziening de premies kosten van de huishouding zijn, terwijl premies voor verzekeringen die als belegging zijn gesloten niet als kosten van de huishouding worden aangemerkt. Waar de scheidslijn ligt tussen oudedags- en nabestaandenvoorziening enerzijds en belegging anderzijds is moeilijk te bepalen, mede omdat een en ander tevens aan de hand van de omstandigheden van het geval beoordeeld zal moeten worden.
 
 Het feit dat niet voldoende uitgekristalliseerd is wanneer premies kosten van de huishouding zijn, leidt tot onzekerheid. Daarnaast acht ik het verschil in resultaat dat voor de heffing van erfbelasting kan optreden al naar gelang premies al dan niet worden aangemerkt als kosten van de huishouding niet redelijk.
+
+Goedkeuring
 
 Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat premies van levensverzekeringen voor de toepassing van de [Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) niet worden aangemerkt als kosten van de huishouding als bedoeld in [artikel 1:84 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=84).
 
@@ -303,14 +492,16 @@ Een voorbeeld van een uitkering krachtens derdenbeding is een vergoeding voor he
 
 Een erfgenaam die een nalatenschap met een negatief saldo beneficiair heeft aanvaard, kan toch schulden van de nalatenschap voldoen. Als hij door dat overlijden een belaste verzekeringsuitkering heeft ontvangen, is er wettelijk geen saldering met zijn negatieve erfrechtelijke verkrijging. Hij wordt voor de volledige uitkering belast.
 
+Goedkeuring
+
 Ik keur met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat een tegemoetkoming wordt verleend voorzover een erfgenaam een verzekeringsuitkering aanwendt bij een beneficiaire aanvaarding voor de betaling van schulden van de nalatenschap, die niet uit het actief konden worden voldaan. Voor de tegemoetkoming geldt de voorwaarde dat de erfgenaam aantoont dat hij de verzekeringsuitkering daarvoor heeft aangewend. In dat geval wordt de erfbelasting kwijtgescholden dat door de erfgenaam naar het marginale tarief is verschuldigd over de uitkering voorzover die is aangewend voor de betaling van de schulden.
 
 ### 11. Ingetrokken regeling
 
-Het volgende besluit is ingetrokken met terugwerkende kracht tot en met 1 januari 2010:
+Het volgende besluit is ingetrokken met terugwerkende kracht tot en met 1 januari 2010:
+
+- – 18 juli 2008, nr. [CPP2008/1425M](https://wetten.overheid.nl/jci1.3:c:BWBR0024299).
 
 ### 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de plaatsing in de Staatscourant en werkt terug tot en met 1 januari 2010.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de plaatsing in de Staatscourant en werkt terug tot en met 1 januari 2010.

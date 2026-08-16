@@ -1,38 +1,16 @@
 ---
 title: "Warenwet BES"
 identifier: "BWBR0028619"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028619"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10901853"
-version_id: "17884942"
-internal_id: "C24815941"
-label_id: "10876774"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028619/2023-01-01/0"
-intitule_bron: "Stb.2010-640"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-04"
-intitule_published: "2010-10-07"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-640"
-original_signed_date: "2010-10-04"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-640"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028619&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0028619&g=2023-01-01"
-citeertitel_status: "officieel"
-signed_date: "2010-10-04"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0028619"
+opgehaald: 2026-08-16
 ---
+
 # Warenwet BES
 
 #### § 1. Begripsbepalingen
@@ -41,23 +19,23 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **waren:** alle roerende lichamelijke zaken;
+- b. *waren:* alle roerende lichamelijke zaken;
 
-- c. **eet- of drinkwaren:** al hetgeen bestemd is door de mens te worden genuttigd, alsmede genotmiddelen, kauwpreparaten en grondstoffen daarvan;
+- c. *eet- of drinkwaren:* al hetgeen bestemd is door de mens te worden genuttigd, alsmede genotmiddelen, kauwpreparaten en grondstoffen daarvan;
 
-- d. **verpakking:** elk artikel of materiaal dat bestemd is om een waar of waren te bevatten of te omhullen;
+- d. *verpakking:* elk artikel of materiaal dat bestemd is om een waar of waren te bevatten of te omhullen;
 
-- e. **vervaardigen:** alle handelingen met betrekking tot het tot stand brengen van de waar, daaronder begrepen het bereiden;
+- e. *vervaardigen:* alle handelingen met betrekking tot het tot stand brengen van de waar, daaronder begrepen het bereiden;
 
-- f. **verhandelen:** alle handelingen die ten dienste staan van en samenhangen met de verkoop van de waar;
+- f. *verhandelen:* alle handelingen die ten dienste staan van en samenhangen met de verkoop van de waar;
 
-- g. **ruimte:** elke plaats al dan niet permanent van aard alwaar handelingen met betrekking tot het vervaardigen van waren plaatsvinden;
+- g. *ruimte:* elke plaats al dan niet permanent van aard alwaar handelingen met betrekking tot het vervaardigen van waren plaatsvinden;
 
-- h. **etikettering:** iedere aanduiding, identificatie, vermelding of voorstelling op of bij de waar dan wel op de verpakking daarvan gebezigd of aangebracht;
+- h. *etikettering:* iedere aanduiding, identificatie, vermelding of voorstelling op of bij de waar dan wel op de verpakking daarvan gebezigd of aangebracht;
 
-- i. **Adviescommissie:** de commissie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01).
+- i. *Adviescommissie:* de commissie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01).
 
 #### § 2. Algemene bepalingen
 
@@ -72,6 +50,10 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 4. Voorts kunnen bij algemene maatregel van bestuur ter uitvoering van bindende verdragen of andere internationale afspraken en bindende besluiten van volkenrechtelijke organisaties regels worden gegeven, waarbij van de bepalingen van deze wet kan worden afgeweken of de bepalingen van deze wet geheel of gedeeltelijk buiten werking kunnen worden gesteld.
 
 5. Binnen zes maanden na het in werking treden van een algemene maatregel van bestuur bedoeld in het vierde lid, wordt een voorstel aan de Staten-Generaal gedaan om het in dat algemene maatregel van bestuur bepaalde, bij wet te bekrachtigen. Indien een algemene maatregel van bestuur, bedoeld in het vierde lid, niet wordt bekrachtigd ingevolge het vijfde lid, wordt dit algemene maatregel van bestuur onverwijld ingetrokken.
+
+##### Artikel 2a
+
+Deze wet is niet van toepassing voor zover bij of krachtens de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) regels zijn gesteld ten aanzien van de productie of distributie van drinkwater of nooddrinkwater in krachtens [artikel 1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.3) aangewezen verpakkingen.
 
 ##### Artikel 3
 
@@ -163,6 +145,18 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Een beslissing houdende weigering van een vrijstelling of ontheffing, dan wel houdende intrekking van een vrijstelling of ontheffing wordt aan de aanvrager schriftelijk medegedeeld onder opgave van redenen.
 
+##### Artikel 5a
+
+Bij ministeriele regeling kunnen:
+
+- a. bepaalde verpakte artikelen worden aangewezen, waarop de netto-inhoud in metrieke maat of gewicht duidelijk moet zijn aangegeven;
+
+- b. bepaalde goederen worden aangewezen, welke niet anders dan bij maat of gewicht mogen worden verkocht;
+
+- c. voorschriften worden gegeven betreffende de mate waarin verpakkingen, die een bepaalde inhoud naar maat of gewicht doen veronderstellen, tenminste moeten zijn vervuld;
+
+- d. bepaalde goederen worden aangewezen, welke niet anders dan in voor te schrijven maat- of gewichtshoeveelheden mogen worden verkocht.
+
 ##### Artikel 6
 
 1. Bij ministeriële regeling kunnen vergoedingen worden vastgesteld, verschuldigd door degenen ten behoeve van wie werkzaamheden of diensten door of namens het Land zijn verricht of verleend.
@@ -189,7 +183,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Bij algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot de werkwijze van de commissie en de subcommissies, alsmede de aan de leden toe te kennen vergoeding.
 
-#### § 3. Adviescommissie
+#### § 4. Verbodsbepalingen
 
 ##### Artikel 8
 
@@ -243,6 +237,10 @@ Het is verboden een etikettering op of bij waren aan te brengen of bij aanprijzi
 
 Het is verboden waren te verhandelen die door hun ondeugdelijkheid de gezondheid of veiligheid van de mens in gevaar kunnen brengen.
 
+##### Artikel 16a
+
+Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of op welke wijze ook in de handel te brengen, anders dan bij netto-inhoud of netto-gewicht.
+
 #### § 5. Bestuursmaatregelen
 
 ##### Artikel 17
@@ -255,13 +253,13 @@ Het is verboden waren te verhandelen die door hun ondeugdelijkheid de gezondheid
 
 4. Binnen dertig dagen na de betekening staat verzet tegen het dwangschrift, bedoeld in het derde lid, open. De desbetreffende bepalingen van de wet, genoemd in het derde lid, zijn van overeenkomstige toepassing.
 
-#### § 5. Bestuursmaatregelen
+#### § 6. Beroep
 
 ##### Artikel 18
 
 Degene die rechtstreeks in zijn belang is getroffen door een op grond van deze wet genomen ministeriële regeling kan hiertegen beroep instellen bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
-#### § 6. Beroep
+#### § 7. Toezicht
 
 ##### Artikel 19
 
@@ -335,7 +333,13 @@ Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en S
 
 3. Het niet voldoen aan de vordering, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=7&artikel=21&z=2023-01-01&g=2023-01-01), onderdelen c en e, of de verplichting, bedoeld in de artikelen 21, eerste lid, onderdeel a, en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&paragraaf=9&artikel=25&z=2023-01-01&g=2023-01-01), is een overtreding en wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van ten hoogste de tweede categorie.
 
-#### § 8. Strafbepalingen en maatregelen
+##### Artikel 24a
+
+1. Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die ten behoeve van handel of bedrijf, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, indien de netto-hoeveelheid meer dan het dubbele van de afwijking, die voor het gebruikte meetinstrument bij herijk is toegestaan, in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid.
+
+2. Het in het eerste lid strafbaar gestelde feit wordt beschouwd als overtreding.
+
+#### § 9. Geheimhoudingsplicht
 
 ##### Artikel 25
 
@@ -360,53 +364,3 @@ Uitvoeringsbesluiten, vrijstellingen, ontheffingen, vergunningen en toestemminge
 ##### Artikel 29
 
 Deze wet wordt aangehaald als: Warenwet BES.
-
-##### Artikel 5a
-
-Bij ministeriele regeling kunnen:
-
-- a. bepaalde verpakte artikelen worden aangewezen, waarop de netto-inhoud in metrieke maat of gewicht duidelijk moet zijn aangegeven;
-
-- b. bepaalde goederen worden aangewezen, welke niet anders dan bij maat of gewicht mogen worden verkocht;
-
-- c. voorschriften worden gegeven betreffende de mate waarin verpakkingen, die een bepaalde inhoud naar maat of gewicht doen veronderstellen, tenminste moeten zijn vervuld;
-
-- d. bepaalde goederen worden aangewezen, welke niet anders dan in voor te schrijven maat- of gewichtshoeveelheden mogen worden verkocht.
-
-#### § 3. Adviescommissie
-
-#### § 4. Verbodsbepalingen
-
-##### Artikel 16a
-
-Het is verboden waren per maat of gewicht te verkopen, te koop aan te bieden of op welke wijze ook in de handel te brengen, anders dan bij netto-inhoud of netto-gewicht.
-
-#### § 7. Toezicht
-
-##### Artikel 24a
-
-1. Met hechtenis van ten hoogste een week of een geldboete van ten hoogste USD 500 wordt gestraft hij, die ten behoeve van handel of bedrijf, maat of gewicht der goederen heeft vastgesteld of op zijn last heeft doen vaststellen, indien de netto-hoeveelheid meer dan het dubbele van de afwijking, die voor het gebruikte meetinstrument bij herijk is toegestaan, in zijn voordeel of het voordeel van de lastgever afwijkt van de ware netto-hoeveelheid.
-
-2. Het in het eerste lid strafbaar gestelde feit wordt beschouwd als overtreding.
-
-#### § 9. Geheimhoudingsplicht
-
-#### § 10. Overgangs- en slotbepalingen
-
-##### Artikel 2a
-
-Deze wet is niet van toepassing voor zover bij of krachtens de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) regels zijn gesteld ten aanzien van de productie of distributie van drinkwater of nooddrinkwater in krachtens [artikel 1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=1.3) aangewezen verpakkingen.
-
-#### § 4. Verbodsbepalingen
-
-#### § 5. Bestuursmaatregelen
-
-#### § 6. Beroep
-
-#### § 7. Toezicht
-
-#### § 8. Strafbepalingen en maatregelen
-
-#### § 9. Geheimhoudingsplicht
-
-#### § 10. Overgangs- en slotbepalingen

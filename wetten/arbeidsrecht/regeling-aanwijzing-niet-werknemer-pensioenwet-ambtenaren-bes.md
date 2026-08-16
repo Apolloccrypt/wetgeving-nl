@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 7 oktober 2010, nr. 2010-0000659006 , houdende aanwijzing niet-werknemer in de zin van de Pensioenwet ambtenaren BES (Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES)"
+citeertitel: "Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES"
 identifier: "BWBR0028811"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-14"
-last_updated: "2010-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028811"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11031953"
-version_id: "18024912"
-internal_id: "C25088921"
-label_id: "11006364"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028811/2010-10-14/0"
-intitule_bron: "Stcrt.2010-15883"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-07"
-intitule_published: "2010-10-12"
-intitule_in_force: "2010-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15883"
-original_signed_date: "2010-10-07"
-original_published_date: "2010-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15883"
-entry_into_force_date: "2010-10-14"
-jci_1_3: "jci1.3:c:BWBR0028811&z=2010-10-14&g=2010-10-14"
-jci_1_0: "1.0:c:BWBR0028811&g=2010-10-14"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES"
-signed_date: "2010-10-07"
-entry_into_force: "2010-10-14"
+publicatiedatum: 2010-10-14
+laatste_update: 2010-10-14
+status: geldig
+toestand: 2010-10-14
+bron: "https://wetten.overheid.nl/BWBR0028811"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 7 oktober 2010, nr. 2010-0000659006 , houdende aanwijzing niet-werknemer in de zin van de Pensioenwet ambtenaren BES (Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES)
-
-Gelet op [artikel 6, eerste lid, onder b, van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -69,5 +43,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing niet-werknemer Pensioenwet ambtenaren BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

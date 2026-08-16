@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052874"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-16
 ---
 
 # Besluit van 8 juli 2026, houdende regels ter uitvoering van de Wet weerbaarheid kritieke entiteiten en tot vaststelling van het tijdstip van inwerkingtreding van de Wet weerbaarheid kritieke entiteiten (Besluit weerbaarheid kritieke entiteiten)

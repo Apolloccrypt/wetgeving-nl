@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie van 4 oktober 2010 nr 5669054/10, tot vaststelling van de Regeling toelating en uitzetting BES"
+citeertitel: "Regeling toelating en uitzetting BES"
 identifier: "BWBR0028815"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028815"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11033603"
-version_id: "18027062"
-internal_id: "C25064191"
-label_id: "11008404"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028815/2026-01-01/0"
-intitule_bron: "Stcrt.2010-15726"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-04"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15726"
-original_signed_date: "2010-10-04"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15726"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028815&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0028815&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toelating en uitzetting BES"
-signed_date: "2010-10-04"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0028815"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Justitie van 4 oktober 2010 nr 5669054/10, tot vaststelling van de Regeling toelating en uitzetting BES
-
-Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=7),[9, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9) en [24, derde lid, van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=24) en de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=2.12), [3.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.3), [3.5, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.5), [3.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.17), [5.19, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.19), [5.20, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.20), [5.34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.34), [5.35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.35), [6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.2), [6.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11) en [6.32, van het Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.32);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Wet toelating en uitzetting BES in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,15 +20,21 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet toelating en uitze
 
 In deze regeling wordt verstaan onder:
 
-- a. **het besluit:** het [Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599);
+- a. *het besluit:* het [Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599);
 
-- b. **EVRM:** Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
+- b. *EVRM:* Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
 
 ### Hoofdstuk 2. Visa als instrumenten van het toelatingsbeleid
 
 ##### Artikel 2.1
 
 Terzake van de afdoening van een aanvraag tot het verlenen of wijzigen van een terugkeervisum is de vreemdeling een bedrag van USD 36 verschuldigd.
+
+##### Artikel 2.2
+
+1. De beschikking, waarbij de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=1&z=2026-01-01&g=2026-01-01), waaruit het verleende blijkt.
+
+2. De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2026-01-01&g=2026-01-01), waaruit het verleende blijkt.
 
 ### Hoofdstuk 3. Toegang
 
@@ -189,6 +167,10 @@ Als de landen, bedoeld in de [artikelen 5.17](https://wetten.overheid.nl/jci1.3:
 
 De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.2) en vermeld in kolom A van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2026-01-01&g=2026-01-01) bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=7&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
+##### Artikel 5.1a
+
+Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen als bedoeld in [artikel 22a, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22a) zijn aangewezen de medewerkers grensbewaking van de Rijksdienst Caribisch Nederland.
+
 ##### Artikel 5.2
 
 1. Het model van de bemanningslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11), is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=8&z=2026-01-01&g=2026-01-01) bij deze regeling.
@@ -280,332 +262,3 @@ Indien het bij [koninklijke boodschap van 13 januari 2010 ingediende voorstel va
 ##### Artikel 7.6
 
 Deze regeling wordt aangehaald als: Regeling toelating en uitzetting BES
-
-## Bijlage 1. behorend bij [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2010-10-10&g=2010-10-10), Regeling toelating en uitzetting BES (model machtiging tot voorlopig verblijf)
-
-## Bijlage 1. behorend bij [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2016-01-01&g=2016-01-01), Regeling toelating en uitzetting BES (model machtiging tot voorlopig verblijf)
-
-## Bijlage 1. behorend bij [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), Regeling toelating en uitzetting BES (model machtiging tot voorlopig verblijf)
-
-### Niet MVV-plichtig
-
-Lidstaten van de EU
-
-Lidstaten van de EER
-
-Lidstaten van de EER
-
-Australië
-
-Canada
-
-Japan
-
-Monaco
-
-Nieuw-Zeeland
-
-Vaticaanstad
-
-Verenigde Staten
-
-Zuid-Korea
-
-## Bijlage 4. behorend bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.3&z=2010-10-10&g=2010-10-10) Regeling toelating en uitzetting BES (categorieën vreemdelingen die toegang tot de openbare lichamen hebben, zonder in het bezit te zijn van een MVV)
-
-- 1. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument;
-
-- 2. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
-
-- 3. Uitgenodigde vluchtelingen die houders zijn van een ‘laissez-passer’ afgegeven door de Nederlandse autoriteiten;
-
-- 4. Houders van een ‘laissez-passer’ afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
-
-- 5. Houders van een ‘officieel legitimatiebewijs’ of een ‘Reiswijzer’ (‘Ordre de Mission – Travel Order’) van de Noord-Atlantische Verdragsorganisatie.
-
-## Bijlage 4. behorend bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.3&z=2016-01-01&g=2016-01-01) Regeling toelating en uitzetting BES (categorieën vreemdelingen die toegang tot de openbare lichamen hebben, zonder in het bezit te zijn van een MVV)
-
-- 1. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument;
-
-- 2. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
-
-- 3. Uitgenodigde vluchtelingen die houders zijn van een ‘laissez-passer’ afgegeven door de Nederlandse autoriteiten;
-
-- 4. Houders van een ‘laissez-passer’ afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
-
-- 5. Houders van een ‘officieel legitimatiebewijs’ of een ‘Reiswijzer’ (‘Ordre de Mission – Travel Order’) van de Noord-Atlantische Verdragsorganisatie.
-
-### Voorschriften voor de zeegrenzen
-
-Voor verplichtingen met het oog op grensbewaking bij binnenkomst over zee wordt verwezen naar [artikelen 6.6 tot en met 6.10 BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.10).
-
-Controles van schepen worden gedaan door ambtenaren belast met de grensbewaking. Schepen worden gecontroleerd:
-
-Controles van schepen worden gedaan door ambtenaren belast met de grensbewaking. Schepen worden gecontroleerd:
-
-De controle kan ook tijdens de vaart worden gedaan, of bij aankomst of vertrek van het vaartuig op het grondgebied van een derde land.
-
-Met deze controle wordt nagegaan of de bemanning en de passagiers aan de in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) bedoelde voorwaarden voldoen.
-
-De gezagvoerder of de scheepsagent, stelt een bemanningslijst en, in voorkomend geval, een passagierslijst in tweevoud op.
-
-Op grond van [artikel 6.8, eerste lid, BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.8) verstrekt de gezagvoerder of de scheepsagent de bemannings- en passagierslijst onmiddellijk bij het binnenvaren van de openbare lichamen aan de ambtenaar belast met de grensbewaking. De lijsten met de namen worden afgestempeld in de eerste haven van binnenkomst op het grondgebied van de openbare lichamen en nadien telkens wanneer deze worden gewijzigd. Als deze lijsten in geval van overmacht niet aan de ambtenaar belast met de grensbewaking kunnen worden overhandigd, wordt een kopie afgegeven bij de grensdoorlaatpost.
-
-Van beide lijsten wordt één exemplaar naar behoren afgetekend door de ambtenaar belast met de grensbewaking en aan de gezagvoerder teruggegeven. Het exemplaar moet tijdens de ligtijd op eenvoudig verzoek te overleggen zijn.
-
-Op grond van [artikel 6.8, tweede lid, BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.8) meldt de gezagvoerder of in diens plaats de scheepsagent alle wijzigingen met betrekking tot de samenstelling van de bemanning of de passagiers bij de bevoegde autoriteit.
-
-Verder meldt de gezagvoerder op grond van het vierde lid onmiddellijk en zo mogelijk vóór het binnenlopen van het vaartuig in de haven, de aanwezigheid van verstekelingen bij de bevoegde autoriteiten. De verstekelingen blijven echter onder de verantwoordelijkheid van de gezagvoerder.
-
-De gezagvoerder of de scheepsagent stelt op grond van [artikel 6.9 BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.9) het hoofd van de doorlaatpost tijdig in kennis van de afvaart van het vaartuig. De kennisgeving wordt ten hoogste zes en ten minste drie uren voor het daadwerkelijke vertrek gedaan. De ambtenaar belast met de grensbewaking neemt vervolgens het tweede exemplaar van de vooraf ingevulde en afgetekende lijst of lijsten terug. Als een schip vertraging heeft kan de uitreiscontrole opnieuw plaatsvinden.
-
-### Specifieke controleprocedures voor bepaalde soorten zeeschepen
-
-### Cruiseschepen
-
-De bemanningsleden en passagiers van cruiseschepen zijn in beginsel niet onderworpen aan grenscontroles. In de paspoorten van de bemanning en passagiers worden geen stempels aangebracht (zie [artikel 2v, tweede lid, onder d, WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2v)).
-
-Wel moet de gezagvoerder van een cruiseschip of de scheepsagent de vaarroute en het programma van de cruise ten minste 24 uur vóór de afvaart uit de haven van vertrek en vóór de aankomst in de volgende haven op het grondgebied van de openbare lichamen aan de betrokken ambtenaren belast met de grensbewaking verstrekken. Daarnaast geldt de standaard procedure betreffende het tijdig overleggen van de bemannings- en passagierslijsten.
-
-Wel moet de gezagvoerder van een cruiseschip of de scheepsagent de vaarroute en het programma van de cruise ten minste 24 uur vóór de afvaart uit de haven van vertrek en vóór de aankomst in de volgende haven op het grondgebied van de openbare lichamen aan de betrokken ambtenaren belast met de grensbewaking verstrekken. Daarnaast geldt de standaard procedure betreffende het tijdig overleggen van de bemannings- en passagierslijsten.
-
-Op de lijst met de namen van de bemanningsleden en de passagiers worden vermeld:
-
-Als het cruiseschip uit een in een derde land gelegen haven komt en voor het eerst een haven op het grondgebied van de openbare lichamen aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers.
-
-Als het cruiseschip uit een in een derde land gelegen haven komt en opnieuw een op het grondgebied van de openbare lichamen gelegen haven aandoet, worden de bemanning en de passagiers aan inreiscontroles onderworpen op basis van de lijst met de namen van de bemanningsleden en de passagiers. Dit geldt voor zover die lijsten zijn gewijzigd sinds het cruiseschip de vorige haven op het grondgebied van de openbare lichamen heeft aangedaan.
-
-### Voorschriften voor de luchtgrenzen
-
-Passagiers die aan land gaan, worden niet aan inreiscontroles onderworpen, tenzij een beoordeling van het veiligheidsrisico of van het risico van illegale immigratie duidelijk maakt dat die controles wel moeten worden uitgevoerd.
-
-Op grond van [artikel 6.11, eerste en tweede lid, BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11) verstrekt de gezagvoerder van het vliegtuig in tweevoud aan een ambtenaar belast met de grensbewaking de verklaring en de gegevens over de bemanning en passagiers. Dit gebeurt direct bij binnenkomst op de luchthaven. De modellen zijn te vinden in de RTU-BES.
-
-Op grond van [artikel 6.11, eerste en tweede lid, BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11) verstrekt de gezagvoerder van het vliegtuig in tweevoud aan een ambtenaar belast met de grensbewaking de verklaring en de gegevens over de bemanning en passagiers. Dit gebeurt direct bij binnenkomst op de luchthaven. De modellen zijn te vinden in de RTU-BES.
-
-Op grond van artikel 6.11, derde lid, WTU-BES zijn de gezagvoerder en diens luchtvaartmaatschappij verplicht op verzoek van de ambtenaar belast met grensbewaking alle inlichtingen te verstrekken over de vreemdelingen die door deze luchtvaartmaatschappij zijn vervoerd (naar en tussen de openbare lichamen).
-
-In beginsel vinden grenscontroles plaats op de luchthavens die zijn aangemerkt als grensdoorlaatposten. Controles van vliegtuigen worden verricht door ambtenaren belast met de grensbewaking. Er worden geen grenscontroles uitgevoerd in het luchtvaartuig of aan de gate, tenzij er een redelijk vermoeden bestaat dat met het vliegtuig personen worden vervoerd met betrekking tot wie de ambtenaren belast met de grensbewaking een toezichthoudende taak hebben ([artikel 22e WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22e)). Zo kan van de gezagvoerder van een luchtvaartuig worden gevorderd (artikel 22e, tweede lid WTU-BES) dat hij zijn luchtvaartuig naar een bepaalde plaats overbrengt. De ambtenaren belast met de grensbewaking zijn bevoegd deze vordering te doen. Deze vordering wordt in verband met de veiligheid van het luchthaventerrein gedaan door tussenkomst van de luchtverkeersleiding. De luchtverkeersleiding bepaalt de plaats op het luchthaventerrein waarheen het luchtvaartuig zal worden overgebracht ([artikel 6.12 BTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.12)).
-
-Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2016-01-01&g=2016-01-01) bij deze regeling.
-
-Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2026-01-01&g=2026-01-01) bij deze regeling.
-
-### Specifieke controleprocedures voor personen op particuliere vluchten
-
-Wanneer een luchtvaartuig dat een verbinding uit een derde land verzorgt, in geval van overmacht, bij dreigend gevaar of op instructie van de bevoegde autoriteiten of landt zonder dat daarvoor toestemming is gegeven, kan de vlucht niet worden voortgezet zonder de toestemming van de grenswachters en de douaneautoriteiten.
-
-Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan de grenswachters van het openbaar lichaam van bestemming vóór het opstijgen een "algemene verklaring" (general declaration), die met name een vliegplan als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2016-01-01&g=2016-01-01) bij het Verdrag inzake de internationale burgerluchtvaart en gegevens betreffende de identiteit van de passagiers bevat.
-
-## Bijlage 6. behorend bij [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (bijzondere regels voor bepaalde categorieën personen)
-
-### 1. Staatshoofden
-
-In afwijking van [artikel 2r t/m 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) hoeven staatshoofden en hun gevolg wier aankomst en vertrek langs diplomatieke weg officieel aan de grenswachters is aangekondigd, niet aan grenscontrole te worden onderworpen.
-
-### 1. Staatshoofden
-
-In afwijking van [artikel 2r t/m 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) hoeven staatshoofden en hun gevolg wier aankomst en vertrek langs diplomatieke weg officieel aan de grenswachters is aangekondigd, niet aan grenscontrole te worden onderworpen.
-
-Voor de controle op de bemanningsleden van vliegtuigen gelden de voorschriften van de [artikelen 2r tot en met 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r). Bemanningsleden van vliegtuigen worden zoveel mogelijk met voorrang gecontroleerd. Dit betekent dat deze controle hetzij plaatsvindt voordat de passagiers worden gecontroleerd, hetzij aan aparte controleposten wordt verricht. In afwijking van [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) mogen de bemanningsleden die bij het dienstdoende grenscontrolepersoneel bekend zijn, steekproefsgewijs worden gecontroleerd.
-
-### 3. Zeelieden
-
-Voor de controle op de bemanningsleden van vliegtuigen gelden de voorschriften van de [artikelen 2r tot en met 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r). Bemanningsleden van vliegtuigen worden zoveel mogelijk met voorrang gecontroleerd. Dit betekent dat deze controle hetzij plaatsvindt voordat de passagiers worden gecontroleerd, hetzij aan aparte controleposten wordt verricht. In afwijking van [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) mogen de bemanningsleden die bij het dienstdoende grenscontrolepersoneel bekend zijn, steekproefsgewijs worden gecontroleerd.
-
-Dit belet niet dat, naar gelang van de beoordeling van het veiligheidsrisico of het risico van illegale immigratie, zeelieden door de grenswachters aan een controle overeenkomstig [artikel 2t WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2t) worden onderworpen voordat zij het vaartuig verlaten.
-
-Dit belet niet dat, naar gelang van de beoordeling van het veiligheidsrisico of het risico van illegale immigratie, zeelieden door de grenswachters aan een controle overeenkomstig [artikel 2t WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2t) worden onderworpen voordat zij het vaartuig verlaten.
-
-Indien een zeeman een bedreiging voor de openbare orde, de binnenlandse veiligheid of de volksgezondheid vormt, kan hem het recht worden ontzegd het vaartuig te verlaten.
-
-### 4. Houders van een diplomatiek, een officieel of een dienstpaspoort en leden van internationale organisaties
-
-Zeelieden die zich buiten de binnengevaren haven wensen te begeven, moeten voldoen aan de voorwaarden voor binnenkomst op het grondgebied van de lidstaten als bedoeld in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r).
-
-In afwijking van [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r), zijn de houders van genoemde documenten vrijgesteld van de verplichting om aan te tonen dat zij over voldoende middelen van bestaan beschikken.
-
-In afwijking van [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r), zijn de houders van genoemde documenten vrijgesteld van de verplichting om aan te tonen dat zij over voldoende middelen van bestaan beschikken.
-
-Wanneer iemand zich op voorrechten, immuniteiten of vrijstellingen beroept, kan de grenswachter verlangen dat deze persoon, door overlegging van passende documenten – met name door de ontvangende staat afgegeven verklaringen of een diplomatiek paspoort – of op enige andere wijze aantoont dat hij of zij de betrokken voorrechten, immuniteiten of vrijstellingen geniet. In geval van twijfel kan de grenswachter zich in spoedeisende gevallen rechtstreeks tot het ministerie van Buitenlandse Zaken richten.
-
-### 5. Minderjarigen
-
-Onder de bedoelde door internationale organisaties afgegeven documenten wordt in deze paragraaf met name verstaan:
-
-Wanneer het een begeleide minderjarige betreft, gaat de grenswachter na of de begeleidende volwassene het ouderlijk gezag over de minderjarige uitoefent, in het bijzonder wanneer de minderjarige door slechts één volwassene wordt begeleid en er ernstige redenen bestaan om aan te nemen dat de minderjarige onwettig is onttrokken aan het toezicht van de persoon of personen die wettelijk het ouderlijke gezag over hem uitoefenen. In dat geval verricht de grenswachter verder onderzoek, teneinde eventuele onverenigbare of tegenstrijdige elementen in de verstrekte inlichtingen te ontdekken.
-
-Wanneer het een begeleide minderjarige betreft, gaat de grenswachter na of de begeleidende volwassene het ouderlijk gezag over de minderjarige uitoefent, in het bijzonder wanneer de minderjarige door slechts één volwassene wordt begeleid en er ernstige redenen bestaan om aan te nemen dat de minderjarige onwettig is onttrokken aan het toezicht van de persoon of personen die wettelijk het ouderlijke gezag over hem uitoefenen. In dat geval verricht de grenswachter verder onderzoek, teneinde eventuele onverenigbare of tegenstrijdige elementen in de verstrekte inlichtingen te ontdekken.
-
-## Bijlage 7. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.1&z=2010-10-10&g=2010-10-10) Regeling toelating en uitzetting BES
-
-| A. grensdoorlaatpost | B. openstellingstijden |
-| --- | --- |
-| In het openbaar lichaam Bonaire: | In het openbaar lichaam Bonaire: |
-| – de rede van Kralendijk | 07.00–19.00 uur |
-| – Blauwe Pan en Brazil | op afroep |
-| – Flamingo luchthaven | 00.00–24.00 uur |
-| In het openbaar lichaam Sint Eustatius: | In het openbaar lichaam Sint Eustatius: |
-| – de Oranjebaai | 07.00–19.00 uur |
-| - luchthaven | 07.00–20.00 uur |
-| In het openbaar lichaam Saba: | In het openbaar lichaam Saba: |
-| – de Fortbaai | 07.00–19.00 uur |
-| – luchthaven | 07.00–18.00 uur |
-
-## Bijlage 7. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.1&z=2016-01-01&g=2016-01-01) Regeling toelating en uitzetting BES
-
-| A. grensdoorlaatpost | B. openstellingstijden |
-| --- | --- |
-| In het openbaar lichaam Bonaire: | In het openbaar lichaam Bonaire: |
-| – de rede van Kralendijk | 07.00–19.00 uur |
-| – Blauwe Pan en Brazil | op afroep |
-| – Flamingo luchthaven | 00.00–24.00 uur |
-| In het openbaar lichaam Sint Eustatius: | In het openbaar lichaam Sint Eustatius: |
-| – de Oranjebaai | 07.00–19.00 uur |
-| - luchthaven | 07.00–20.00 uur |
-| In het openbaar lichaam Saba: | In het openbaar lichaam Saba: |
-| – de Fortbaai | 07.00–19.00 uur |
-| – luchthaven | 07.00–18.00 uur |
-
-## Bijlage 7. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01) Regeling toelating en uitzetting BES
-
-| A. grensdoorlaatpost | B. openstellingstijden |
-| --- | --- |
-| In het openbaar lichaam Bonaire: | In het openbaar lichaam Bonaire: |
-| – de rede van Kralendijk | 07.00–19.00 uur |
-| – Blauwe Pan en Brazil | op afroep |
-| – Flamingo luchthaven | 00.00–24.00 uur |
-| In het openbaar lichaam Sint Eustatius: | In het openbaar lichaam Sint Eustatius: |
-| – de Oranjebaai | 07.00–19.00 uur |
-| - luchthaven | 07.00–20.00 uur |
-| In het openbaar lichaam Saba: | In het openbaar lichaam Saba: |
-| – de Fortbaai | 07.00–19.00 uur |
-| – luchthaven | 07.00–18.00 uur |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2.1
-
-1. De beschikking, waarbij de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=1&z=2017-01-01&g=2016-01-01), waaruit het verleende blijkt.
-
-2. De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2017-01-01&g=2016-01-01), waaruit het verleende blijkt.
-
-### Hoofdstuk 3. Toegang
-
-### Hoofdstuk 4. Toelating bij vergunning verleend of van rechtswege toegekend
-
-### Hoofdstuk 5. Grensbewaking, toezicht en uitvoering
-
-### Hoofdstuk 6. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
-
-### Hoofdstuk 7. Algemene en slotbepalingen
-
-## Bijlage 2. behorend bij [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), Regeling toelating en uitzetting BES (model terugkeervisum)
-
-### Niet MVV-plichtig
-
-Zwitserland
-
-## Bijlage 4. behorend bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01) Regeling toelating en uitzetting BES (categorieën vreemdelingen die toegang tot de openbare lichamen hebben, zonder in het bezit te zijn van een MVV)
-
-- 1. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument;
-
-- 2. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
-
-- 3. Uitgenodigde vluchtelingen die houders zijn van een ‘laissez-passer’ afgegeven door de Nederlandse autoriteiten;
-
-- 4. Houders van een ‘laissez-passer’ afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
-
-- 5. Houders van een ‘officieel legitimatiebewijs’ of een ‘Reiswijzer’ (‘Ordre de Mission – Travel Order’) van de Noord-Atlantische Verdragsorganisatie.
-
-### Voorschriften voor de zeegrenzen
-
-Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2016-01-01&g=2016-01-01).
-
-### Cruiseschepen
-
-Passagiers die aan land gaan, worden niet aan inreiscontroles onderworpen, tenzij een beoordeling van het veiligheidsrisico of van het risico van illegale immigratie duidelijk maakt dat die controles wel moeten worden uitgevoerd.
-
-### Voorschriften voor de luchtgrenzen
-
-Wanneer een luchtvaartuig dat een verbinding uit een derde land verzorgt, in geval van overmacht, bij dreigend gevaar of op instructie van de bevoegde autoriteiten of landt zonder dat daarvoor toestemming is gegeven, kan de vlucht niet worden voortgezet zonder de toestemming van de grenswachters en de douaneautoriteiten.
-
-### Specifieke controleprocedures voor personen op particuliere vluchten
-
-Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan de grenswachters van het openbaar lichaam van bestemming vóór het opstijgen een "algemene verklaring" (general declaration), die met name een vliegplan als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2026-01-01&g=2026-01-01) bij het Verdrag inzake de internationale burgerluchtvaart en gegevens betreffende de identiteit van de passagiers bevat.
-
-## Bijlage 6. behorend bij [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (bijzondere regels voor bepaalde categorieën personen)
-
-### 1. Staatshoofden
-
-In afwijking van [artikel 2r t/m 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) hoeven staatshoofden en hun gevolg wier aankomst en vertrek langs diplomatieke weg officieel aan de grenswachters is aangekondigd, niet aan grenscontrole te worden onderworpen.
-
-### 2. Piloten en andere bemanningsleden van vliegtuigen
-
-Voor de controle op de bemanningsleden van vliegtuigen gelden de voorschriften van de [artikelen 2r tot en met 2x WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r). Bemanningsleden van vliegtuigen worden zoveel mogelijk met voorrang gecontroleerd. Dit betekent dat deze controle hetzij plaatsvindt voordat de passagiers worden gecontroleerd, hetzij aan aparte controleposten wordt verricht. In afwijking van [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) mogen de bemanningsleden die bij het dienstdoende grenscontrolepersoneel bekend zijn, steekproefsgewijs worden gecontroleerd.
-
-### 3. Zeelieden
-
-Zeelieden die zich buiten de binnengevaren haven wensen te begeven, moeten voldoen aan de voorwaarden voor binnenkomst op het grondgebied van de lidstaten als bedoeld in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r).
-
-### 4. Houders van een diplomatiek, een officieel of een dienstpaspoort en leden van internationale organisaties
-
-Onder de bedoelde door internationale organisaties afgegeven documenten wordt in deze paragraaf met name verstaan:
-
-### 5. Minderjarigen
-
-Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen.
-
-## Bijlage 8. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2026-01-01&g=2026-01-01), Regeling toelating en uitzetting BES
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5.1a
-
-Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen als bedoeld in [artikel 22a, eerste lid, onder c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22a) zijn aangewezen de medewerkers grensbewaking van de Rijksdienst Caribisch Nederland.
-
-### Hoofdstuk 6. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
-
-### Hoofdstuk 7. Algemene en slotbepalingen
-
-## Bijlage 3. behorend bij [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01) Regeling toelating en uitzetting BES en [artikel 9, derde lid, onder a, Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9) (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
-
-### Niet MVV-plichtig
-
-Zwitserland
-
-## Bijlage 5. behorend bij [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (specifieke voorschriften voor de verschillende soorten grenzen en de verschillende vervoermiddelen die voor de overschrijding van de buitengrenzen van de openbare lichamen worden gebruikt)
-
-### Voorschriften voor de zeegrenzen
-
-Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2026-01-01&g=2026-01-01).
-
-### Cruiseschepen
-
-### Voorschriften voor de luchtgrenzen
-
-### Specifieke controleprocedures voor personen op particuliere vluchten
-
-Als niet met zekerheid kan worden bepaald of een vlucht uit of naar het grondgebied van de openbare lichamen geen tussenlanding op het grondgebied van een derde land maakt, verrichten de bevoegde autoriteiten een personencontrole overeenkomstig de [artikelen 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11) en [6.12 BTU](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.12).
-
-## Bijlage 6. behorend bij [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (bijzondere regels voor bepaalde categorieën personen)
-
-### 2. Piloten en andere bemanningsleden van vliegtuigen
-
-### 3. Zeelieden
-
-### 4. Houders van een diplomatiek, een officieel of een dienstpaspoort en leden van internationale organisaties
-
-### 5. Minderjarigen
-
-Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen.
-
-## Bijlage 9. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2026-01-01&g=2026-01-01), Regeling toelating en uitzetting BES
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2.2
-
-1. De beschikking, waarbij de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=1&z=2026-01-01&g=2026-01-01), waaruit het verleende blijkt.
-
-2. De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2026-01-01&g=2026-01-01), waaruit het verleende blijkt.

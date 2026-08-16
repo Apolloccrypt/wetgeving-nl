@@ -1,38 +1,16 @@
 ---
 title: "Pensioenbesluit politieke gezagdragers BES"
 identifier: "BWBR0028554"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2015-04-01"
-last_updated: "2015-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028554"
+categorie: "Sociaal recht"
 soort: "AMvB-BES"
-stam_id: "10848713"
-version_id: "17829252"
-internal_id: "C24911191"
-label_id: "10823814"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028554/2015-04-01/0"
-intitule_bron: "Stb.2010-406"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-406"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-406"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028554&z=2015-04-01&g=2015-04-01"
-jci_1_0: "1.0:c:BWBR0028554&g=2015-04-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2015-04-01
+status: geldig
+toestand: 2015-04-01
+bron: "https://wetten.overheid.nl/BWBR0028554"
+opgehaald: 2026-08-16
 ---
+
 # Pensioenbesluit politieke gezagdragers BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,19 +19,19 @@ entry_into_force: "2010-10-10"
 
 In dit besluit wordt verstaan onder:
 
-- a. **politieke gezagdrager:** gezaghebber, eilandgedeputeerde en lid van de eilandsraad van een openbaar lichaam;
+- a. *politieke gezagdrager:* gezaghebber, eilandgedeputeerde en lid van de eilandsraad van een openbaar lichaam;
 
-- b. **gewezen politieke gezagdrager:** degene die uit hoofde van ontslag uitzicht heeft op pensioen op grond van dit besluit;
+- b. *gewezen politieke gezagdrager:* degene die uit hoofde van ontslag uitzicht heeft op pensioen op grond van dit besluit;
 
-- c. **gepensioneerde politieke gezagdrager:** degene die recht heeft op pensioen op grond van dit besluit;
+- c. *gepensioneerde politieke gezagdrager:* degene die recht heeft op pensioen op grond van dit besluit;
 
-- d. **ontslag:** de op enigerlei wijze formele beëindiging van de benoeming tot politieke gezagdrager, niet zijnde het tijdelijk ontslag als bedoeld in [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [X 10, eerste of tweede lid van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10);
+- d. *ontslag:* de op enigerlei wijze formele beëindiging van de benoeming tot politieke gezagdrager, niet zijnde het tijdelijk ontslag als bedoeld in [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [X 10, eerste of tweede lid van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10);
 
-- e. **overheidsdienaren:** de ambtenaren in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
+- e. *overheidsdienaren:* de ambtenaren in de zin van de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215);
 
-- f. **nabestaande:** degene met wie de politieke gezagdrager, de gewezen politieke gezagdrager of de gepensioneerde politieke gezagdrager op de dag van overlijden gehuwd was;
+- f. *nabestaande:* degene met wie de politieke gezagdrager, de gewezen politieke gezagdrager of de gepensioneerde politieke gezagdrager op de dag van overlijden gehuwd was;
 
-- g. **bevoegde gezag:** het bestuurscollege van het betrokken openbaar lichaam.
+- g. *bevoegde gezag:* het bestuurscollege van het betrokken openbaar lichaam.
 
 ##### Artikel 1a
 
@@ -237,17 +215,17 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- a. **diensttijd**
+- a. *diensttijd*
 
-- 1°. de tijd gedurende welke de politieke gezagdrager een functie als genoemd in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), heeft vervuld;
+   - 1° de tijd gedurende welke de politieke gezagdrager een functie als genoemd in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), heeft vervuld;
 
-- 2°. de tijd waarin recht bestond op een uitkering ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2015-04-01&g=2015-04-01);
+   - 2° de tijd waarin recht bestond op een uitkering ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2015-04-01&g=2015-04-01);
 
-- b. **berekeningsgrondslag:** de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01), gerekend over een jaar, die de betrokkene op de dag voorafgaande aan het ontslag in die functie ontving;
+- b. *berekeningsgrondslag:* de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01), gerekend over een jaar, die de betrokkene op de dag voorafgaande aan het ontslag in die functie ontving;
 
-- c. **franchise:** 10/7 van de tot een jaarbedrag herleide uitkering van het wettelijk ouderdomspensioen, bedoeld in de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), zoals deze geldt op de dag waarop het recht op pensioen ingaat. De franchise wordt naar boven afgerond op hele dollars;
+- c. *franchise:* 10/7 van de tot een jaarbedrag herleide uitkering van het wettelijk ouderdomspensioen, bedoeld in de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), zoals deze geldt op de dag waarop het recht op pensioen ingaat. De franchise wordt naar boven afgerond op hele dollars;
 
-- d. **pensioengrondslag:** de berekeningsgrondslag op de dag waarop het recht op pensioen ingaat, zonodig aangepast overeenkomstig de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=14&z=2015-04-01&g=2015-04-01), verminderd met de franchise.
+- d. *pensioengrondslag:* de berekeningsgrondslag op de dag waarop het recht op pensioen ingaat, zonodig aangepast overeenkomstig de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=14&z=2015-04-01&g=2015-04-01), verminderd met de franchise.
 
 2. De tijd bedoeld in het eerste lid, sub a, onderdeel 2, geldt voor de helft van die tijd als diensttijd. Voor zover en voor zolang de uitkering wordt verminderd op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=7&z=2015-04-01&g=2015-04-01) geldt die tijd niet als diensttijd.
 
@@ -437,7 +415,7 @@ De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in [hoofd
 
 ##### Artikel 34
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 7. Informatieverplichtingen
 

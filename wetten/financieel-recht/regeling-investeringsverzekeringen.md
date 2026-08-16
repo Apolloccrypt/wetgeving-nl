@@ -1,75 +1,51 @@
 ---
 title: "Regeling investeringsverzekeringen"
 identifier: "BWBR0029242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-12-25"
-last_updated: "2010-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029242"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11152513"
-version_id: "18242472"
-internal_id: "C25381781"
-label_id: "11126844"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029242/2010-12-25/0"
-intitule_bron: "Stcrt.2010-20978"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-16"
-intitule_published: "2010-12-24"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20978"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20978"
-entry_into_force_date: "2010-12-25"
-jci_1_3: "jci1.3:c:BWBR0029242&z=2010-12-25&g=2010-12-25"
-jci_1_0: "1.0:c:BWBR0029242&g=2010-12-25"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-16"
-entry_into_force: "2010-12-25"
+publicatiedatum: 2010-12-25
+laatste_update: 2026-04-23
+status: geldig
+toestand: 2026-04-23
+bron: "https://wetten.overheid.nl/BWBR0029242"
+opgehaald: 2026-08-16
 ---
+
 # Regeling investeringsverzekeringen
-
-Gelet op [artikel 3, tweede en vijfde lid, van de Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **Kaderwet:** de [Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886);
+- a. *Kaderwet:* de [Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886);
 
-- b. **investeringsland:** een land buiten Nederland;
+- b. *investeringsland:* een land buiten Nederland;
 
-- c. **investering:** de inbreng door een ondernemer van middelen in geld of in natura in een onderneming in een investeringsland, teneinde met die onderneming duurzaam verbonden te zijn ten dienste van de eigen werkzaamheid, voor een duur van tenminste drie jaren of indien het een geldlening betreft voor de duur van tenminste vier jaren; onder investering wordt mede begrepen de garantie die een ondernemer in aanvulling op de inbreng geeft, onder welke naam dan ook, tot betaling van hetgeen uit hoofde van een lening is verschuldigd in het geval dat de met de ondernemer duurzaam verbonden onderneming in een investeringsland in gebreke blijft;
+- c. *investering:* de inbreng door een ondernemer van middelen in geld of in natura in een onderneming in een investeringsland, teneinde met die onderneming duurzaam verbonden te zijn ten dienste van de eigen werkzaamheid, voor een duur van tenminste drie jaren of indien het een geldlening betreft voor de duur van tenminste vier jaren; onder investering wordt mede begrepen de garantie die een ondernemer in aanvulling op de inbreng geeft, onder welke naam dan ook, tot betaling van hetgeen uit hoofde van een lening is verschuldigd in het geval dat de met de ondernemer duurzaam verbonden onderneming in een investeringsland in gebreke blijft;
 
-- d. **lening:** een door een geldgever, niet zijnde de onder c bedoelde ondernemer, in samenhang met een investering aan een onderneming in een investeringsland verstrekte lening, voor een duur van tenminste vier jaren en die, indien die geldgever in hoofdzaak op de financiële markten werkzaam is, tot doel heeft aan de onderneming duurzaam vermogen te verschaffen;
+- d. *lening:* een door een geldgever, niet zijnde de onder c bedoelde ondernemer, in samenhang met een investering aan een onderneming in een investeringsland verstrekte lening, voor een duur van tenminste vier jaren en die, indien die geldgever in hoofdzaak op de financiële markten werkzaam is, tot doel heeft aan de onderneming duurzaam vermogen te verschaffen;
 
-- e. **geldgever:**
+- e. *geldgever:*
 
-- i. een bank als bedoeld in [artikel 1:1 Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+   - i. een bank als bedoeld in [artikel 1:1 Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- ii. een onderneming als bedoeld in [artikel 3:2 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) die volgens haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de groep waartoe die onderneming behoort;
+   - ii. een onderneming als bedoeld in [artikel 3:2 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) die volgens haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de groep waartoe die onderneming behoort;
 
-- iii. een ondernemer die haar bedrijf maakt van het ter beschikking verkrijgen van opvorderbare gelden van professionele marktpartijen of binnen besloten kring, en van het voor eigen rekening verrichten van kredietuitzettingen die volgens haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de groep waartoe die ondernemer behoort; of
+   - iii. een ondernemer die haar bedrijf maakt van het ter beschikking verkrijgen van opvorderbare gelden van professionele marktpartijen of binnen besloten kring, en van het voor eigen rekening verrichten van kredietuitzettingen die volgens haar statuten in Nederland haar zetel heeft en die deel uitmaakt van de groep waartoe die ondernemer behoort;
 
-- iv. een multilaterale instelling die wordt genoemd in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&bijlage=1&z=2010-12-25&g=2010-12-25) bij deze regeling;
+   - iv. een multilaterale instelling; of
 
-- f. **uitvoerder:** uitvoerder als bedoeld in [artikel 1 van Regeling uitvoering EKI](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&artikel=1);
+   - v. een onderneming die tot doel heeft ondersteuning te bieden voor op het buitenland gerichte activiteiten van ondernemingen en internationale projecten die een bijdrage leveren aan de Nederlandse economie door het verbeteren van de internationale concurrentiepositie en het verdienvermogen, en voor internationale projecten die voorzien in oplossingen voor wereldwijde vraagstukken zoals bijdragen aan duurzame economische ontwikkeling.
 
-- g . **verzekerde:** degene die voor een niet-commercieel risico, dat is verbonden aan een door hem gedane investering of een door hem verstrekte lening is verzekerd op grond van deze regeling;
+- f. *uitvoerder:* uitvoerder als bedoeld in [artikel 1 van Regeling uitvoering EKI](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&artikel=1);
 
-- h. **aanvangswaarde:** de waarde van de investering die tot uitdrukking wordt gebracht in de som van het door de verzekerde ingebrachte geld, de tegenwaarde van de door verzekerde ingebrachte middelen in natura en het bedrag van de garantie, dan wel in de hoofdsom van de door de verzekerde betaalde lening;
+- g . *verzekerde:* degene die voor een niet-commercieel risico, dat is verbonden aan een door hem gedane investering of een door hem verstrekte lening is verzekerd op grond van deze regeling;
 
-- i. **opbrengst:** rente, dividend, royalty’s en andere gelden die door de onderneming in het investeringsland ter beschikking van de verzekerde zijn gesteld, anders dan als aflossing van een lening of als terugbetaling van een investering.
+- h. *aanvangswaarde:* de waarde van de investering die tot uitdrukking wordt gebracht in de som van het door de verzekerde ingebrachte geld, de tegenwaarde van de door verzekerde ingebrachte middelen in natura en het bedrag van de garantie, dan wel in de hoofdsom van de door de verzekerde betaalde lening;
 
-2. Deze regeling is niet van toepassing op een ondernemer of onderneming, bedoeld in [artikel 1, eerste lid, onderdeel e onder ii of iii](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25), voor zover die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
+- i. *opbrengst:* rente, dividend, royalty’s en andere gelden die door de onderneming in het investeringsland ter beschikking van de verzekerde zijn gesteld, anders dan als aflossing van een lening of als terugbetaling van een investering.
+
+2. Deze regeling is niet van toepassing op een ondernemer of onderneming, bedoeld in [artikel 1, eerste lid, onderdeel e onder ii of iii](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2026-04-23&g=2026-04-23), voor zover die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
 
 3. Deze regeling is niet van toepassing op een ondernemer die geen economische activiteiten verricht van industriële of commerciële aard, bestaande in het aanbieden vangoederen of diensten op de markt en die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
 
@@ -107,17 +83,19 @@ Besluit:
 
 De Staat kan alleen een verzekering sluiten onder de volgende voorwaarden:
 
-- a. de duur van de verzekering is ten hoogste twintig jaren, met dien verstande dat de duur niet langer is dan vijftien jaren, te rekenen vanaf het tijdstip waarop de investering volledig is gedaan of de lening volledig is betaald;
+- a. De verzekering
 
-- b. de verzekerde heeft een eigen risico van een bedrag ter grootte van tenminste tien procent van de geleden schade;
+   - i. heeft een duur van ten hoogste vijfentwintig jaren; en
+
+   - ii. eindigt uiterlijk twintig jaren na het tijdstip waarop de investering volledig is gedaan of de lening volledig is betaald;
+
+- b. de verzekerde heeft een eigen risico van een bedrag ter grootte van tenminste twee procent van de geleden schade;
 
 - c. de vergoeding die aan de verzekerde ten hoogste wordt betaald:
 
-- i. gaat een bedrag ter grootte van tweehonderd procent van de aanvangswaarde van de investering of van de lening niet te boven;
+   - i. gaat een bedrag ter grootte van tweehonderd procent van de aanvangswaarde van de investering of van de lening niet te boven;
 
-- ii. bedraagt, voor zover een opbrengst onder de verzekering valt, ter vergoeding van deze opbrengst, onverminderd onderdeel i, niet meer dan twaalf procent, berekend per jaar waarin de opbrengst opeisbaar wordt, van de verzekerde waarde van de investering of de lening; geen opbrengst wordt vergoed die niet opeisbaar is;
-
-- iii. bedraagt in geen geval meer dan € 100 miljoen per in een investeringsland gevestigde onderneming, waarbij aan die onderneming betaalde leningen voor niet meer dan € 75 miljoen worden vergoed; is bij een in een investeringsland gevestigde onderneming meer dan een verzekerde betrokken, dan wordt een uit deze bepaling voortvloeiende beperking van de vergoeding naar rato van inbreng verdeeld over de verzekerden;
+   - ii. bedraagt, voor zover een opbrengst onder de verzekering valt, ter vergoeding van deze opbrengst, onverminderd onderdeel i, niet meer dan twaalf procent, berekend per jaar waarin de opbrengst opeisbaar wordt, van de verzekerde waarde van de investering of de lening; geen opbrengst wordt vergoed die niet opeisbaar is;
 
 - d. de verzekering vervalt indien niet langer wordt voldaan aan de criteria om te kunnen spreken van een investering of een lening.
 
@@ -145,38 +123,6 @@ De Staat sluit in ieder geval geen verzekering, indien:
 
 2. Verplichtingen uit verzekeringen, die door de Staat zijn herverzekerd voor de dag, waarop deze regeling in werking treedt, worden door de Staat nagekomen.
 
-3. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
+3. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-4. Deze regeling wordt aangehaald als: **Regeling investeringsverzekeringen**.
-
-## Bijlage 1. Lijst van multilaterale instellingen als bedoeld in [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25)
-
-In [artikel 1e, sub iv](https://wetten.overheid.nl/jci1.3:c:BWBR0029242&artikel=1&z=2010-12-25&g=2010-12-25) van de Regeling investeringsverzekeringen, wordt bepaald dat een geldgever een multilaterale instelling kan betreffen. De volgende multilaterale instellingen komen hiervoor in aanmerking:
-
-Asian Development Bank
-
-European Bank for Reconstruction and Development
-
-European Development Fund
-
-European Investment Bank
-
-International Bank for Reconstruction and Development
-
-International Development Association
-
-Inter-American Development Bank
-
-International Fund for Agricultural Development
-
-International Finance Corporation
-
-Inter-American Investment Corporation
-
-Multilateral Investment Guarantee Agency
-
-Nordic Development Fund
-
-Nordic Investment Bank
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+4. Deze regeling wordt aangehaald als: *Regeling investeringsverzekeringen*.

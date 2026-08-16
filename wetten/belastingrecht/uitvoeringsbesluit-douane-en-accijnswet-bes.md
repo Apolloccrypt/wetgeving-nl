@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 23 december 2010 tot vaststelling van het Uitvoeringsbesluit Douane- en Accijnswet BES (Uitvoeringsbesluit Douane- en Accijnswet BES)"
+citeertitel: "Uitvoeringsbesluit Douane- en Accijnswet BES"
 identifier: "BWBR0029262"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029262"
+categorie: "Belastingrecht"
 soort: "AMvB-BES"
-stam_id: "11163933"
-version_id: "18260062"
-internal_id: "C25679701"
-label_id: "11139014"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029262/2025-01-01/0"
-intitule_bron: "Stb.2010-849"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-23"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2010-849"
-original_signed_date: "2010-12-23"
-original_published_date: "2010-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-849"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029262&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0029262&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Douane- en Accijnswet BES"
-signed_date: "2010-12-23"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0029262"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 23 december 2010 tot vaststelling van het Uitvoeringsbesluit Douane- en Accijnswet BES (Uitvoeringsbesluit Douane- en Accijnswet BES)
-
-Op de voordracht van de Staatssecretaris van Financiën van 23 november 2010, nr. AFP 2010/558, gedaan mede namens de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
-
-Gelet op de [artikelen 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.2), [2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26), [2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.34), [2.35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.35), [2.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.36), [2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.37), [2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.43), [2.44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.44), [2.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.48), [2.57, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.57), [2.66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.66), [2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.99), [2.115](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.115), [2.135](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.135), [4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.4), [4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.5), [4.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.24), [4.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.34), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.49), [4.58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.58) en [4.60, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.60);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 december 2010, nr. W06.10.0540/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 16 december 2010, nr. DV2010/526 M, uitgebracht mede namens de Staatssecretaris van Economische Zaken, Landbouw en Innovatie;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 1.1 van de Douane- en Accijnswet BES in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -58,7 +24,7 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Douane- en Accijnswe
 
 ### Hoofdstuk 2. In-, uit- en doorvoer
 
-### Afdeling 2.1. Kosten ambtelijke werkzaamheden
+#### Afdeling 2.1. Kosten ambtelijke werkzaamheden
 
 ##### Artikel 2.1
 
@@ -66,13 +32,13 @@ Kosten zijn verschuldigd:
 
 - a. voor ambtelijke werkzaamheden verricht op verzoek van de belanghebbende:
 
-- 1°. buiten de openingstijden van de douanekantoren;
+   - 1°. buiten de openingstijden van de douanekantoren;
 
-- 2°. op andere plaatsen dan plaatsen die aangewezen zijn voor het onderzoek van goederen;
+   - 2°. op andere plaatsen dan plaatsen die aangewezen zijn voor het onderzoek van goederen;
 
-- 3°. indien voor de verstrekking van inlichtingen betreffende de toepassing van de douanewetgeving kosten zijn gemaakt, zoals voor analyses, expertises of terugzending van de goederen;
+   - 3°. indien voor de verstrekking van inlichtingen betreffende de toepassing van de douanewetgeving kosten zijn gemaakt, zoals voor analyses, expertises of terugzending van de goederen;
 
-- 4°. ter zake van het wijzigen van aangiften, en het wedergeldig verklaren, het ongeldig maken of het verlengen van de geldigheidsduur van een document;
+   - 4°. ter zake van het wijzigen van aangiften, en het wedergeldig verklaren, het ongeldig maken of het verlengen van de geldigheidsduur van een document;
 
 - b. voor de vernietiging van de goederen, bedoeld in de [artikelen 2.22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.22), en [2.67, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.67);
 
@@ -86,29 +52,29 @@ Kosten zijn verschuldigd:
 
 - g. in de gevallen waarin bewaking van de goederen is bevolen.
 
-### Afdeling 2.2. Beperkingen voor de uit- en doorvoer van strategische goederen
+#### Afdeling 2.2. Beperkingen voor de uit- en doorvoer van strategische goederen
 
 ##### Artikel 2.2
 
 In deze afdeling wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- a. *Onze Minister:* Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- b. **goederen voor tweeërlei gebruik:** goederen die zowel een civiele als een militaire bestemming kunnen hebben, met inbegrip van alle goederen die voor niet-explosieve doeleinden gebruikt kunnen worden en op enige manier bijdragen aan de vervaardiging van nucleaire wapens of andere nucleaire explosiemiddelen;
+- b. *goederen voor tweeërlei gebruik:* goederen die zowel een civiele als een militaire bestemming kunnen hebben, met inbegrip van alle goederen die voor niet-explosieve doeleinden gebruikt kunnen worden en op enige manier bijdragen aan de vervaardiging van nucleaire wapens of andere nucleaire explosiemiddelen;
 
-- c. **militaire goederen:** de militaire goederen, bedoeld in een door Onze Minister van Financiën in overeenstemming met Onze Minister na overleg met Onze Minister die het mede aangaat vast te stellen ministeriële regeling;
+- c. *militaire goederen:* de militaire goederen, bedoeld in een door Onze Minister van Financiën in overeenstemming met Onze Minister na overleg met Onze Minister die het mede aangaat vast te stellen ministeriële regeling;
 
-- d. **Verordening 428/2009:** Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van goederen voor tweeërlei gebruik (PbEU 2009, L 134);
+- d. *Verordening 428/2009:* Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van goederen voor tweeërlei gebruik (PbEU 2009, L 134);
 
-- e. **militair eindgebruik:** de verwerking in militaire goederen, het gebruik van productie-, test- of onderzoeksapparatuur en onderdelen daarvan voor de ontwikkeling, de productie of het onderhoud van militaire goederen, en het gebruik van onafgewerkte goederen in een fabriek voor de fabricage van militaire goederen;
+- e. *militair eindgebruik:* de verwerking in militaire goederen, het gebruik van productie-, test- of onderzoeksapparatuur en onderdelen daarvan voor de ontwikkeling, de productie of het onderhoud van militaire goederen, en het gebruik van onafgewerkte goederen in een fabriek voor de fabricage van militaire goederen;
 
-- f. **beschikking:** een voor bezwaar vatbare schriftelijke beslissing, inhoudende een publiekrechtelijke rechtshandeling die niet van algemene strekking is en die door Onze Minister is genomen op grond van deze afdeling.
+- f. *beschikking:* een voor bezwaar vatbare schriftelijke beslissing, inhoudende een publiekrechtelijke rechtshandeling die niet van algemene strekking is en die door Onze Minister is genomen op grond van deze afdeling.
 
 ##### Artikel 2.3
 
-1. Voor de uitvoer van goederen voor tweeërlei gebruik die voorkomen op de lijst in bijlage I van [Verordening 428/2009](32009R0428) is een vergunning vereist.
+1. Voor de uitvoer van goederen voor tweeërlei gebruik die voorkomen op de lijst in bijlage I van Verordening 428/2009 is een vergunning vereist.
 
-2. Voor de uitvoer van goederen voor tweeërlei gebruik die niet op de lijst in bijlage I van [Verordening 428/2009](32009R0428) voorkomen, is een vergunning vereist indien:
+2. Voor de uitvoer van goederen voor tweeërlei gebruik die niet op de lijst in bijlage I van Verordening 428/2009 voorkomen, is een vergunning vereist indien:
 
 - a. de exporteur door Onze Minister is meegedeeld dat de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor gebruik in verband met de ontwikkeling, de productie, de behandeling, de bediening, het onderhoud, de opslag, de opsporing, de herkenning of de verspreiding van chemische, biologische of nucleaire wapens of andere nucleaire explosiemiddelen, of voor de ontwikkeling, de productie, het onderhoud of de opslag van raketten die dergelijke wapens naar hun doel kunnen voeren;
 
@@ -116,11 +82,11 @@ In deze afdeling wordt verstaan onder:
 
 - c. de exporteur door Onze Minister is meegedeeld dat de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn om te worden gebruikt als onderdelen of componenten van militaire goederen.
 
-3. Bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister kan om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod worden ingesteld op, of een vergunning verplicht worden gesteld voor, de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van [Verordening 428/2009](32009R0428).
+3. Bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister kan om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod worden ingesteld op, of een vergunning verplicht worden gesteld voor, de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van Verordening 428/2009.
 
 ##### Artikel 2.4
 
-1. Doorvoer van goederen voor tweeërlei gebruik, die voorkomen op de lijst in bijlage I van [Verordening 428/2009](32009R0428), kan bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister worden verboden, indien de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor de in [artikel 2.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), genoemde doeleinden.
+1. Doorvoer van goederen voor tweeërlei gebruik, die voorkomen op de lijst in bijlage I van Verordening 428/2009, kan bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister worden verboden, indien de goederen geheel of gedeeltelijk bestemd zijn of kunnen zijn voor de in [artikel 2.3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), genoemde doeleinden.
 
 2. Voordat hij een besluit neemt over het al dan niet verbieden van doorvoer, kan Onze Minister in individuele gevallen een vergunningsplicht opleggen voor een specifiek geval van doorvoer van goederen voor tweeërlei gebruik.
 
@@ -152,7 +118,7 @@ Indien Onze Minister heeft bepaald dat de uitvoer of de doorvoer van daarbij aan
 
 7. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden.
 
-8. Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162) in te voeren op de BES eilanden uit landen, die geen partij zijn bij dit verdrag.
+8. Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162) in te voeren op de BES eilanden uit landen, die geen partij zijn bij dit verdrag.
 
 ##### Artikel 2.7
 
@@ -190,7 +156,7 @@ Indien Onze Minister heeft bepaald dat de uitvoer of de doorvoer van daarbij aan
 
 5. Onze Minister kan een verleende vergunning nietig verklaren, schorsen, wijzigen of intrekken.
 
-### Afdeling 2.3. Wijzigen en buiten werking stellen van aangiften
+#### Afdeling 2.3. Wijzigen en buiten werking stellen van aangiften
 
 ##### Artikel 2.9
 
@@ -216,7 +182,7 @@ De inspecteur kan ambtshalve een aanvaarde aangifte buiten werking stellen, indi
 
 - e. de betreffende goederen geen toegelaten douanebestemming kunnen krijgen in verband met de toepassing van verboden of beperkingen.
 
-### Afdeling 2.4. Onvolledige en vereenvoudigde aangifte
+#### Afdeling 2.4. Onvolledige en vereenvoudigde aangifte
 
 ##### Artikel 2.11
 
@@ -246,7 +212,7 @@ De inspecteur kan ambtshalve een aanvaarde aangifte buiten werking stellen, indi
 
 3. Indien een handels- of administratief bescheid ten dele in de plaats treedt van een aangifteformulier of van meerdere gegevens in dat formulier, wordt door de aangever een aanvullende aangifte gedaan en worden daarbij de vereiste gegevens verstrekt ter completering van de aangifte voor de desbetreffende douanebestemming.
 
-### Afdeling 2.5. Over te leggen bescheiden
+#### Afdeling 2.5. Over te leggen bescheiden
 
 ##### Artikel 2.13
 
@@ -268,7 +234,7 @@ De inspecteur kan ambtshalve een aanvaarde aangifte buiten werking stellen, indi
 
 6. Indien een aangifte elektronisch wordt gedaan, kan de inspecteur toestaan dat de begeleidende bescheiden niet samen met de aangifte worden overgelegd. In dat geval worden de documenten ter beschikking van de inspecteur gehouden.
 
-### Afdeling 2.6. Certificaten inzake goederenverkeer en certificaten van oorsprong
+#### Afdeling 2.6. Certificaten inzake goederenverkeer en certificaten van oorsprong
 
 ##### Artikel 2.14
 
@@ -302,7 +268,7 @@ De inspecteur kan ambtshalve een aanvaarde aangifte buiten werking stellen, indi
 
 ##### Artikel 2.17
 
-1. Een certificaat van oorsprong voor op de BES eilanden voortgebrachte of bewerkte of verwerkte producten wordt afgegeven onder de benaming: Certificate of origin of Bonaire, St. Eustatius and Saba.
+1. Een certificaat van oorsprong voor op de BES eilanden voortgebrachte of bewerkte of verwerkte producten wordt afgegeven onder de benaming: Certificate of origin of Bonaire, St. Eustatius and Saba.
 
 2. Op een aanvraag tot afgifte van een certificaat van oorsprong is [artikel 2.15, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.6&artikel=2.15&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
@@ -374,7 +340,7 @@ In deze in kennis stelling wordt vermeld:
 
 2. Aan de in het eerste lid bedoelde vergunning kunnen voorwaarden worden verbonden.
 
-### Afdeling 2.7. Buiten werking stellen, wedergeldig verklaren, ongeldig maken en verlengen van de geldigheidsduur van documenten
+#### Afdeling 2.7. Buiten werking stellen, wedergeldig verklaren, ongeldig maken en verlengen van de geldigheidsduur van documenten
 
 ##### Artikel 2.21
 
@@ -414,7 +380,7 @@ De inspecteur kan ambtshalve een document buiten werking stellen:
 
 De inspecteur kan de geldigheidsduur van een document verlengen op een met redenen omkleed verzoek van de belanghebbende, indien de geldigheidsduur van het document op het moment dat de inspecteur het verzoek heeft ontvangen niet is verstreken en de goederen nog aanwezig zijn.
 
-### Afdeling 2.8. Zuivering van documenten
+#### Afdeling 2.8. Zuivering van documenten
 
 ##### Artikel 2.25
 
@@ -432,7 +398,7 @@ De inspecteur kan de geldigheidsduur van een document verlengen op een met reden
 
 7. De zuivering van een document voor tijdelijke invoer kan geschieden: hetzij in zijn geheel op hetzelfde document dat bij de invoer werd opgemaakt, hetzij in gedeelten door indiening van aangiften ten uitvoer.
 
-### Afdeling 2.9. Geautoriseerde marktdeelnemer
+#### Afdeling 2.9. Geautoriseerde marktdeelnemer
 
 ##### Artikel 2.26
 
@@ -498,19 +464,19 @@ Het maken van bezwaar en het instellen van beroep heeft met betrekking tot de te
 
 4. Behoudens de in het eerste en tweede lid, onderdeel c, bedoelde gevallen, kan de geautoriseerde marktdeelnemer binnen drie jaar na de intrekking geen nieuwe aanvraag voor een vergunning ter verkrijging van de status van geautoriseerde marktdeelnemer indienen.
 
-### Afdeling 2.10. Gebruik geweld en veiligheidsfouillering
+#### Afdeling 2.10. Gebruik geweld en veiligheidsfouillering
 
 ##### Artikel 2.29
 
 In deze afdeling wordt verstaan onder:
 
-- a. **meerdere:** de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel heeft over de taakuitvoering;
+- a. *meerdere:* de ambtenaar die uit hoofde van zijn functie of krachtens beschikking of aanwijzing met de leiding is belast of het bevel heeft over de taakuitvoering;
 
-- b. **geweld:** elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen, dieren of goederen;
+- b. *geweld:* elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen, dieren of goederen;
 
-- c. **geweldsmiddel:** de wapens en uitrusting, waarmee geweld kan worden uitgeoefend, die krachtens [artikel 1, tweede lid, van de Wapenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1) zijn toegestaan;
+- c. *geweldsmiddel:* de wapens en uitrusting, waarmee geweld kan worden uitgeoefend, die krachtens [artikel 1, tweede lid, van de Wapenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1) zijn toegestaan;
 
-- d. **aanwenden van een geweldsmiddel:** het richten, het gericht houden en het daadwerkelijk gebruiken van een geweldsmiddel, daaronder begrepen het dreigen met een geweldsmiddel, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen.
+- d. *aanwenden van een geweldsmiddel:* het richten, het gericht houden en het daadwerkelijk gebruiken van een geweldsmiddel, daaronder begrepen het dreigen met een geweldsmiddel, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen.
 
 ##### Artikel 2.30
 
@@ -584,7 +550,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 De bepalingen inzake het aanwenden van geweld, bedoeld in de [artikelen 2.31 tot en met 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.10&artikel=2.31&z=2025-01-01&g=2025-01-01) en [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.10&artikel=2.36&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing ten aanzien van het gebruik van vrijheidsbeperkende middelen.
 
-### Afdeling 2.11. Lijfsvisitatie
+#### Afdeling 2.11. Lijfsvisitatie
 
 ##### Artikel 2.39
 
@@ -598,7 +564,7 @@ De bepalingen inzake het aanwenden van geweld, bedoeld in de [artikelen 2.31 tot
 
 5. Bij regeling van Onze Minister van Financiën kunnen nadere regels worden gesteld met betrekking tot de apparatuur waarmee door kleding van personen wordt gekeken en het gebruik daarvan.
 
-### Afdeling 2.12. Douane-entrepots
+#### Afdeling 2.12. Douane-entrepots
 
 ##### Artikel 2.40
 
@@ -688,21 +654,21 @@ Indien een douane-entrepot bestemd is voor de opslag van goederen door eenieder,
 
 3. Uit de voorraadadministratie blijkt te allen tijde welke goederen zich nog onder het stelsel van douane-entrepots bevinden.
 
-### Afdeling 2.13. Bestuurlijke boeten
+#### Afdeling 2.13. Bestuurlijke boeten
 
 ##### Artikel 2.47
 
-Overtreding van het verbod, bedoeld in [artikel 2.15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.6&artikel=2.15&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
+Overtreding van het verbod, bedoeld in [artikel 2.15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.6&artikel=2.15&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
 
 ##### Artikel 2.48
 
-Overtreding van het verbod, bedoeld in [artikel 2.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.6&artikel=2.17&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
+Overtreding van het verbod, bedoeld in [artikel 2.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.6&artikel=2.17&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
 
 ##### Artikel 2.49
 
-Overtreding van het verbod, bedoeld in [artikel 2.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.12&artikel=2.43&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
+Overtreding van het verbod, bedoeld in [artikel 2.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=2&afdeling=2.12&artikel=2.43&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan de inspecteur een bestuurlijke boete kan opleggen van ten hoogste USD 2 800.
 
-### Afdeling 2.14. Strafrechtelijke bepalingen
+#### Afdeling 2.14. Strafrechtelijke bepalingen
 
 ##### Artikel 2.50
 
@@ -864,6 +830,20 @@ Vrijstelling van accijns voor benzine die is bestemd te worden gebruikt als bran
 
 2. Met betrekking tot teruggaaf van accijns voor benzine die wordt gebruikt voor een van de doeleinden, bedoeld in [artikel 4.49, eerste lid, onderdelen b tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.49), is [artikel 3.6, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.6), van overeenkomstige toepassing.
 
+##### Artikel 3.7a
+
+1. Teruggaaf van accijns voor accijnsgoederen die verloren zijn gegaan door niet te voorziene omstandigheden of overmacht, wordt verleend indien de goederen tot een bedrijfsvoorraad behoren en de belanghebbende onverwijld nadat is geconstateerd dat de accijnsgoederen zijn verloren gegaan, daarvan melding doet bij de inspecteur.
+
+2. De soort, de hoeveelheid en de voor de berekening van de teruggaaf van belang zijnde samenstelling van de accijnsgoederen die zijn verloren gegaan, alsmede het tijdstip waarop en de oorzaak waardoor de accijnsgoederen verloren zijn gegaan, dienen door de belanghebbende te worden aangetoond.
+
+##### Artikel 3.7b
+
+Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 3.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=3&artikel=3.7a&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
+
+##### Artikel 3.7c
+
+Teruggaaf van accijns voor accijnsgoederen die zijn gebracht binnen een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de accijnsgoederenplaats waarnaar de goederen zijn overgebracht indien uit de administratie blijkt dat de goederen in zijn accijnsgoederenplaats zijn opgenomen.
+
 ##### Artikel 3.8
 
 1. Van accijnsgoederen die worden vervoerd of voorhanden zijn en waarvan de accijns is voldaan, andere dan tabaksproducten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, wordt aan de hand van bescheiden de herkomst aangetoond.
@@ -887,23 +867,3 @@ Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet 
 1. Dit besluit treedt in werking op het tijdstip waarop [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1) in werking treedt.
 
 2. Dit besluit wordt aangehaald als: Uitvoeringsbesluit Douane- en Accijnswet BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3.7a
-
-1. Teruggaaf van accijns voor accijnsgoederen die verloren zijn gegaan door niet te voorziene omstandigheden of overmacht, wordt verleend indien de goederen tot een bedrijfsvoorraad behoren en de belanghebbende onverwijld nadat is geconstateerd dat de accijnsgoederen zijn verloren gegaan, daarvan melding doet bij de inspecteur.
-
-2. De soort, de hoeveelheid en de voor de berekening van de teruggaaf van belang zijnde samenstelling van de accijnsgoederen die zijn verloren gegaan, alsmede het tijdstip waarop en de oorzaak waardoor de accijnsgoederen verloren zijn gegaan, dienen door de belanghebbende te worden aangetoond.
-
-##### Artikel 3.7b
-
-Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 3.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&hoofdstuk=3&artikel=3.7a&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
-
-##### Artikel 3.7c
-
-Teruggaaf van accijns voor accijnsgoederen die zijn gebracht binnen een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de accijnsgoederenplaats waarnaar de goederen zijn overgebracht indien uit de administratie blijkt dat de goederen in zijn accijnsgoederenplaats zijn opgenomen.
-
-### Hoofdstuk 4. Slotbepaling
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

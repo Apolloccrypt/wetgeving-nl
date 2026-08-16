@@ -1,48 +1,18 @@
 ---
 title: "Besluit van 6 oktober 2010 nr. 10.002770, houdende vaststelling van de bestanddelen van de vijf- en de tien-euromunt die in 2010 wordt uitgegeven met het thema ‘Nederland en Water(werken)’"
+citeertitel: "Besluit vaststelling bestanddelen van de vijf- en de tien-euromunt die in 2010 wordt uitgegeven met het thema ‘Nederland en Water(werken)’"
 identifier: "BWBR0028885"
-country: "nl"
-rank: "kb"
-publication_date: "2010-10-29"
-last_updated: "2010-10-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028885"
+categorie: "Milieu"
 soort: "KB"
-stam_id: "11058823"
-version_id: "18066342"
-internal_id: "C25115341"
-label_id: "11033204"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028885/2010-10-29/0"
-intitule_bron: "Stcrt.2010-16615"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-06"
-intitule_published: "2010-10-22"
-intitule_in_force: "2010-10-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-16615"
-original_signed_date: "2010-10-06"
-original_published_date: "2010-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-16615"
-entry_into_force_date: "2010-10-29"
-jci_1_3: "jci1.3:c:BWBR0028885&z=2010-10-29&g=2010-10-29"
-jci_1_0: "1.0:c:BWBR0028885&g=2010-10-29"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling bestanddelen van de vijf- en de tien-euromunt die in 2010 wordt uitgegeven met het thema ‘Nederland en Water(werken)’"
-signed_date: "2010-10-06"
-entry_into_force: "2010-10-29"
+publicatiedatum: 2010-10-29
+laatste_update: 2010-10-29
+status: geldig
+toestand: 2010-10-29
+bron: "https://wetten.overheid.nl/BWBR0028885"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 6 oktober 2010 nr. 10.002770, houdende vaststelling van de bestanddelen van de vijf- en de tien-euromunt die in 2010 wordt uitgegeven met het thema ‘Nederland en Water(werken)’
-
-Op de voordracht van Onze Minister van Financiën van 29 september 2010, FM/2010/17253 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Algemeen en Internationaal;
-
-Gelet op [artikel 4, tweede lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4);
-
-Hebben goedgevonden en verstaan:
-
-Besluit ook gepubliceerd in Stb. 2010/725.
 
 ##### Artikel 1
 
@@ -59,5 +29,3 @@ Besluit ook gepubliceerd in Stb. 2010/725.
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.

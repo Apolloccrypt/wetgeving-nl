@@ -1,66 +1,30 @@
 ---
 title: "Besluit van 21 september 2010, houdende regels met betrekking tot de opvolging onder algemene titel in de rechten en verplichtingen van het land de Nederlandse Antillen naar burgerlijk recht (Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen)"
+citeertitel: "Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen"
 identifier: "BWBR0028594"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028594"
+categorie: "Burgerlijk recht"
 soort: "rijksKB"
-stam_id: "10888333"
-version_id: "17870742"
-internal_id: "C24657141"
-label_id: "10863024"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028594/2010-10-10/0"
-intitule_bron: "Stb.2010-355"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-355"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-355"
-entry_into_force_date: "2010-10-02"
-jci_1_3: "jci1.3:c:BWBR0028594&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028594&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-02"
+publicatiedatum: 2010-10-02
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028594"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 21 september 2010, houdende regels met betrekking tot de opvolging onder algemene titel in de rechten en verplichtingen van het land de Nederlandse Antillen naar burgerlijk recht (Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 juli 2010, nr. 2010-0000483371, Directie Constitutionele Zaken en Wetgeving, gedaan in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-Overwegende dat het met het oog op de opheffing van het land de Nederlandse Antillen wenselijk is om regels te stellen betreffende de overgang onder algemene titel van alle op het land de Nederlandse Antillen rustende rechten en verplichtingen naar burgerlijk recht op de nieuwe landen Curaçao, Sint Maarten en, met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, de Staat der Nederlanden;
-
-Gelet op [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-De Raad van State van het Koninkrijk gehoord (advies van 12 augustus 2010, nr. W04.10.0348/I/K);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 september 2010, nr. 2010-0000597264, Directie Constitutionele Zaken en Wetgeving, uitgebracht in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **land:** Curaçao, Sint Maarten of, met betrekking tot Bonaire, Sint Eustatius en Saba, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten of Staat der Nederlanden;
+- *land:* Curaçao, Sint Maarten of, met betrekking tot Bonaire, Sint Eustatius en Saba, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten of Staat der Nederlanden;
 
-- **land Nederlandse Antillen:** de rechtspersoon land Nederlandse Antillen;
+- *land Nederlandse Antillen:* de rechtspersoon land Nederlandse Antillen;
 
-- **tijdstip van transitie:** het tijdstip, genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=11&z=2010-10-10&g=2010-10-10);
+- *tijdstip van transitie:* het tijdstip, genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=11&z=2010-10-10&g=2010-10-10);
 
-- **verkrijgende land:** het land waarop een recht of verplichting naar burgerlijk recht overgaat.
+- *verkrijgende land:* het land waarop een recht of verplichting naar burgerlijk recht overgaat.
 
 ##### Artikel 2
 
@@ -100,7 +64,7 @@ Overige rechten en verplichtingen van het land Nederlandse Antillen naar burgerl
 
 ##### Artikel 6
 
-1. De aan het land Nederlandse Antillen toebehorende aandelen in de naamloze vennootschappen, genoemd in de bijlage bij dit besluit, gaan over op de in die bijlage genoemde rechtsopvolger of rechtsopvolgers.
+1. De aan het land Nederlandse Antillen toebehorende aandelen in de naamloze vennootschappen, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0028594) bij dit besluit, gaan over op de in die bijlage genoemde rechtsopvolger of rechtsopvolgers.
 
 2. Tezamen met de in het eerste lid bedoelde aandelen gaan op het verkrijgende land over alle met betrekking tot die aandelen op het land Nederlandse Antillen rustende rechten en verplichtingen naar burgerlijk recht.
 
@@ -165,11 +129,3 @@ Dit besluit is niet van toepassing op geldleningen als bedoeld in [artikel 2 van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen.
-
-## Bijlage. bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=6&z=2010-10-10&g=2010-10-10)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.
-
-### Rechtsopvolging ter zake van de door het land Nederlandse Antillen gehouden aandelen in naamloze vennootschappen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

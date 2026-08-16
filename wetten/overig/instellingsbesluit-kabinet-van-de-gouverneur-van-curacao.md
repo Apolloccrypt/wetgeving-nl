@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 29 september 2010 tot instelling van het Kabinet van de Gouverneur van Curaçao"
+citeertitel: "Instellingsbesluit Kabinet van de Gouverneur van Curaçao"
 identifier: "BWBR0028704"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028704"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "10937203"
-version_id: "17922692"
-internal_id: "C24733701"
-label_id: "10911754"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028704/2020-01-01/0"
-intitule_bron: "Stb.2010-710"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-05"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-710"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-710"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028704&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0028704&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Kabinet van de Gouverneur van Curaçao"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0028704"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 29 september 2010 tot instelling van het Kabinet van de Gouverneur van Curaçao
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 22 september 2010, nr. 2010-0000620878, Directie Constitutionele Zaken en Wetgeving;
-
-Gelet op [artikel 2 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=2);
-
-[Artikel 10 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=10) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, eerste lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ##### Artikel 1
 
@@ -95,5 +63,3 @@ Dit besluit treedt in werking met ingang van de dag waarop [artikel I, eerste li
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Kabinet van de Gouverneur van Curaçao.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

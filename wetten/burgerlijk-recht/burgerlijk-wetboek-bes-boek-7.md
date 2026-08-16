@@ -1,45 +1,23 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 7"
 identifier: "BWBR0028751"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028751"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10971813"
-version_id: "17960722"
-internal_id: "C25015621"
-label_id: "10948214"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028751/2010-10-10/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028751&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028751&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028751"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 7
 
 ## Boek 7. Bijzondere overeenkomsten
 
-## Titel 1. Koop en ruil
+### Titel 1. Koop en ruil
 
-### Afdeling 1. Koop: Algemene bepalingen
+#### Afdeling 1. Koop: Algemene bepalingen
 
 ##### Artikel 1
 
@@ -69,7 +47,7 @@ Wanneer de koop is gesloten zonder dat de prijs is bepaald, is de koper een rede
 
 2. Indien de ontvanger de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.
 
-### Afdeling 2. Verplichtingen van de verkoper
+#### Afdeling 2. Verplichtingen van de verkoper
 
 ##### Artikel 9
 
@@ -139,7 +117,7 @@ Bij de beoordeling van de vraag of een op grond van een consumentenkoop afgeleve
 
 2. Hetzelfde geldt indien de verkoop bij wijze van parate executie plaatsvindt, mits de koper dit wist of had moeten weten.
 
-### Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de verkoper
+#### Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de verkoper
 
 ##### Artikel 20
 
@@ -199,7 +177,7 @@ De rechten, genoemd in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWB
 
 6. Het eerste tot en met vijfde lid is niet van toepassing voor zover het betreft schade als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=3&artikel=24&z=2010-10-10&g=2010-10-10).
 
-### Afdeling 4. Verplichtingen van de koper
+#### Afdeling 4. Verplichtingen van de koper
 
 ##### Artikel 26
 
@@ -227,7 +205,7 @@ Bij een consumentenkoop verjaart de rechtsvordering tot betaling van de koopprij
 
 Wanneer in de gevallen, in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=4&artikel=29&z=2010-10-10&g=2010-10-10) voorzien, de zaak aan snel tenietgaan of achteruitgang onderhevig is of wanneer de bewaring daarvan ernstige bezwaren of onredelijke kosten zou meebrengen, is de koper verplicht de zaak op een geschikte wijze te doen verkopen.
 
-### Afdeling 5. Bijzondere gevolgen van verzuim van de koper
+#### Afdeling 5. Bijzondere gevolgen van verzuim van de koper
 
 ##### Artikel 31
 
@@ -237,7 +215,7 @@ Indien de overeenkomst aan de koper de bevoegdheid geeft door aanwijzing van maa
 
 In geval de koper met de inontvangstneming in verzuim is, vindt [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=4&artikel=30&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing.
 
-### Afdeling 6. Bijzondere gevallen van ontbinding
+#### Afdeling 6. Bijzondere gevallen van ontbinding
 
 ##### Artikel 33
 
@@ -253,7 +231,7 @@ De verkoper kan de koop door een schriftelijke verklaring ontbinden, indien het 
 
 2. Voor de toepassing van het eerste lid wordt onder koopprijs begrepen het bedrag dat bij het sluiten van de overeenkomst onder voorbehoud van prijswijziging voorlopig als koopprijs is opgegeven.
 
-### Afdeling 7. Schadevergoeding
+#### Afdeling 7. Schadevergoeding
 
 ##### Artikel 36
 
@@ -269,7 +247,7 @@ Heeft de koper of de verkoper een dekkingskoop gesloten en is hij daarbij redeli
 
 De [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=7&artikel=36&z=2010-10-10&g=2010-10-10) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=7&artikel=37&z=2010-10-10&g=2010-10-10) sluiten het recht op een hogere schadevergoeding niet uit in geval meer schade is geleden.
 
-### Afdeling 8. Recht van reclame
+#### Afdeling 8. Recht van reclame
 
 ##### Artikel 39
 
@@ -301,7 +279,7 @@ De verkoper kan zijn in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 De in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=1&afdeling=8&artikel=39&z=2010-10-10&g=2010-10-10) omschreven bevoegdheid van de verkoper vervalt, wanneer zowel zes weken zijn verstreken nadat de vordering tot betaling van de koopprijs opeisbaar is geworden, als 60 dagen, te rekenen van de dag waarop de zaak onder de koper of onder iemand van zijnentwege is opgeslagen.
 
-### Afdeling 9. Koop op proef
+#### Afdeling 9. Koop op proef
 
 ##### Artikel 45
 
@@ -313,7 +291,7 @@ De in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeld
 
 Zolang de koop niet definitief is, is de zaak voor risico van de verkoper.
 
-### Afdeling 10. Koop van vermogensrechten
+#### Afdeling 10. Koop van vermogensrechten
 
 ##### Artikel 47
 
@@ -327,17 +305,17 @@ Een koop kan ook op een vermogensrecht betrekking hebben. In dat geval zijn de v
 
 3. De koper moet aan de verkoper vergoeden hetgeen deze wegens de schulden en lasten der nalatenschap heeft betaald en hem voldoen hetgeen hij als schuldeiser van de nalatenschap te vorderen had.
 
-### Afdeling 10a. Koop van rechten van gebruik in deeltijd van onroerende zaken
+#### Afdeling 10a. Koop van rechten van gebruik in deeltijd van onroerende zaken
 
 ##### Artikel 48a
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **koop:** iedere overeenkomst en ieder samenstel van overeenkomsten met een duur van ten minste drie jaren en met de strekking dat de ene partij – de verkoper – tegen betaling van een totaalprijs aan de andere partij – de koper – een zakelijk of persoonlijk recht geeft of zich verbindt te geven tot het gebruik voor ten minste een week per jaar van een of meer tot bewoning bestemde onroerende zaken of bestanddelen daarvan;
+- a. *koop:* iedere overeenkomst en ieder samenstel van overeenkomsten met een duur van ten minste drie jaren en met de strekking dat de ene partij – de verkoper – tegen betaling van een totaalprijs aan de andere partij – de koper – een zakelijk of persoonlijk recht geeft of zich verbindt te geven tot het gebruik voor ten minste een week per jaar van een of meer tot bewoning bestemde onroerende zaken of bestanddelen daarvan;
 
-- b. **verkoper:** een verkoper als bedoeld in onderdeel a, die bij de koop handelt in de uitoefening van een beroep of bedrijf;
+- b. *verkoper:* een verkoper als bedoeld in onderdeel a, die bij de koop handelt in de uitoefening van een beroep of bedrijf;
 
-- c. **koper:** een koper als bedoeld in onderdeel a, die een natuurlijk persoon is en bij de koop niet handelt in de uitoefening van een beroep of bedrijf.
+- c. *koper:* een koper als bedoeld in onderdeel a, die een natuurlijk persoon is en bij de koop niet handelt in de uitoefening van een beroep of bedrijf.
 
 ##### Artikel 48b
 
@@ -371,7 +349,7 @@ In geval van vooruitbetaling van de prijs binnen de in [artikel 48c, eerste lid]
 
 Van het bij of krachtens deze afdeling bepaalde kan niet ten nadele van de koper worden afgeweken.
 
-### Afdeling 12. Ruil
+#### Afdeling 12. Ruil
 
 ##### Artikel 49
 
@@ -381,9 +359,9 @@ Ruil is de overeenkomst waarbij partijen zich verbinden elkaar over en weer een 
 
 De bepalingen betreffende koop vinden overeenkomstige toepassing, met dien verstande dat elke partij wordt beschouwd als verkoper voor de prestatie die zij verschuldigd is, en als koper voor die welke haar toekomt.
 
-## Titel 7. Opdracht
+### Titel 7. Opdracht
 
-### Afdeling 1. Opdracht in het algemeen
+#### Afdeling 1. Opdracht in het algemeen
 
 ##### Artikel 400
 
@@ -467,7 +445,7 @@ Een rechtsvordering tegen de opdrachtnemer tot afgifte van de stukken die hij te
 
 3. Van [artikel 412](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=1&artikel=412&z=2010-10-10&g=2010-10-10) kan slechts op dezelfde voet worden afgeweken als van de regels inzake de verjaring van rechtsvorderingen die in [titel 11 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&titeldeel=11) zijn opgenomen.
 
-### Afdeling 2. Lastgeving
+#### Afdeling 2. Lastgeving
 
 ##### Artikel 414
 
@@ -549,7 +527,7 @@ Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derd
 
 2. Het eerste lid is niet van toepassing op overeenkomsten tot het vervoeren of doen vervoeren van personen of zaken.
 
-### Afdeling 3. Bemiddelingsovereenkomst
+#### Afdeling 3. Bemiddelingsovereenkomst
 
 ##### Artikel 425
 
@@ -565,7 +543,7 @@ De bemiddelingsovereenkomst is de overeenkomst van opdracht waarbij de ene parti
 
 De [artikelen 417](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=2&artikel=417&z=2010-10-10&g=2010-10-10) en [418](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=2&artikel=418&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op overeenkomsten waarbij de ene partij jegens de andere partij verplicht of bevoegd is als tussenpersoon werkzaam te zijn als bedoeld in [artikel 425](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=3&artikel=425&z=2010-10-10&g=2010-10-10), met dien verstande dat met een tussenpersoon die tevens werkzaam is voor de wederpartij, gelijkgesteld is een tussenpersoon die zelf als wederpartij optreedt.
 
-### Afdeling 4. Agentuurovereenkomst
+#### Afdeling 4. Agentuurovereenkomst
 
 ##### Artikel 428
 
@@ -739,7 +717,7 @@ Rechtsvorderingen, gegrond op de [artikelen 439](https://wetten.overheid.nl/jci1
 
 2. Evenmin kan ten nadele van de handelsagent worden afgeweken van de [artikelen 432, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=4&artikel=432&z=2010-10-10&g=2010-10-10), [434](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=4&artikel=434&z=2010-10-10&g=2010-10-10) en, vóór het einde van de overeenkomst, van [artikel 442](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=4&artikel=442&z=2010-10-10&g=2010-10-10).
 
-### Afdeling 5. De overeenkomst inzake geneeskundige behandeling
+#### Afdeling 5. De overeenkomst inzake geneeskundige behandeling
 
 ##### Artikel 446
 
@@ -907,7 +885,7 @@ De aansprakelijkheid van een hulpverlener of, in het geval bedoeld in [artikel 4
 
 Van deze afdeling en van de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=1&artikel=404&z=2010-10-10&g=2010-10-10), [405, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=1&artikel=405&z=2010-10-10&g=2010-10-10), en [406 van afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7&afdeling=1&artikel=406&z=2010-10-10&g=2010-10-10) kan niet ten nadele van de patiënt worden afgeweken.
 
-## Titel 7a. Reisovereenkomst
+### Titel 7a. Reisovereenkomst
 
 ##### Artikel 500
 
@@ -917,19 +895,19 @@ Van deze afdeling en van de [artikelen 404](https://wetten.overheid.nl/jci1.3:c:
 
 - b. reisovereenkomst: de overeenkomst waarbij een reisorganisator zich jegens zijn wederpartij verbindt tot het verschaffen van een door hem aangeboden van te voren georganiseerde reis die een overnachting of een periode van meer dan 24 uren omvat, alsmede ten minste twee van de volgende diensten:
 
-- 1°. vervoer,
+   - 1° vervoer,
 
-- 2°. verblijf,
+   - 2° verblijf,
 
-- 3°. een andere niet met vervoer of verblijf verband houdende, toeristische dienst die een significant deel van de reis uitmaakt;
+   - 3° een andere niet met vervoer of verblijf verband houdende, toeristische dienst die een significant deel van de reis uitmaakt;
 
 - c. reiziger:
 
-- 1°. de wederpartij van de reisorganisator,
+   - 1° de wederpartij van de reisorganisator,
 
-- 2°. degene ten behoeve van wie de reis is bedongen en die dat beding heeft aanvaard, of
+   - 2° degene ten behoeve van wie de reis is bedongen en die dat beding heeft aanvaard, of
 
-- 3°. degene aan wie overeenkomstig [artikel 506](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7a&artikel=506&z=2010-10-10&g=2010-10-10) de rechtsverhouding tot de reisorganisator is overgedragen.
+   - 3° degene aan wie overeenkomstig [artikel 506](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&boek=7&titeldeel=7a&artikel=506&z=2010-10-10&g=2010-10-10) de rechtsverhouding tot de reisorganisator is overgedragen.
 
 2. Degene die in de uitoefening van zijn bedrijf als tussenpersoon optreedt van een niet in het openbaar lichaam Bonaire, Sint Eustatius of Saba gevestigde reisorganisator, wordt jegens zijn wederpartij als reisorganisator aangemerkt.
 
@@ -1031,7 +1009,7 @@ De vergoeding voor derving van reisgenot als bedoeld in de [artikelen 504, derde
 
 Van het bij of krachtens deze titel bepaalde kan ten nadele van de reiziger niet worden afgeweken.
 
-## Titel 9. Bewaarneming
+### Titel 9. Bewaarneming
 
 ##### Artikel 600
 
@@ -1099,9 +1077,9 @@ Indien twee of meer personen te zamen een zaak in bewaring hebben genomen, zijn 
 
 3. Hij heeft op de in het eerste lid bedoelde zaken een retentierecht voor al hetgeen hij van de gast te vorderen heeft ter zake van logies, kost, consumpties en als hotelhouder verrichte diensten.
 
-## Titel 14. Borgtocht
+### Titel 14. Borgtocht
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 850
 
@@ -1145,7 +1123,7 @@ Strekt de verbintenis van de hoofdschuldenaar tot iets anders dan tot betaling v
 
 2. De borg is gehouden de kosten van rechtsvervolging van de hoofdschuldenaar te vergoeden, indien hij tijdig door mededeling van het voornemen tot rechtsvervolging in de gelegenheid is gesteld deze kosten te voorkomen.
 
-### Afdeling 2. Borgtocht, aangegaan buiten beroep of bedrijf
+#### Afdeling 2. Borgtocht, aangegaan buiten beroep of bedrijf
 
 ##### Artikel 857
 
@@ -1201,7 +1179,7 @@ Deze afdeling is van overeenkomstige toepassing op overeenkomsten waarbij iemand
 
 2. Van het eerste lid kan slechts worden afgeweken, indien dit geschiedt bij een door de opdrachtgever ondertekend geschrift waarin de aard van de afwijking wordt omschreven, en het een opdracht betreft aan een bank of andere instelling die haar bedrijf van het verstrekken van borgtochten maakt.
 
-### Afdeling 3. De gevolgen van de borgtocht tussen de hoofdschuldenaar en de borg en tussen borgen en voor de verbintenis aansprakelijke niet-schuldenaren onderling
+#### Afdeling 3. De gevolgen van de borgtocht tussen de hoofdschuldenaar en de borg en tussen borgen en voor de verbintenis aansprakelijke niet-schuldenaren onderling
 
 ##### Artikel 865
 
@@ -1233,7 +1211,7 @@ De borg te wiens laste de schuld is gedelgd, kan met overeenkomstige toepassing 
 
 De achterborg die de verbintenis van de borg is nagekomen, kan ten behoeve van zich zelf het verhaal uitoefenen dat de borg, indien hij zelf de verbintenis was nagekomen, zou hebben gehad jegens de hoofdschuldenaar of jegens medeborgen of niet-schuldenaren die voor de verbintenis aansprakelijk waren.
 
-## Titel 15. Vaststellingsovereenkomst
+### Titel 15. Vaststellingsovereenkomst
 
 ##### Artikel 900
 

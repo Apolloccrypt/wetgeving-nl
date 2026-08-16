@@ -1,43 +1,19 @@
 ---
 title: "Wet loonbelasting BES"
 identifier: "BWBR0029283"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029283"
+categorie: "Belastingrecht"
 soort: "wet-BES"
-stam_id: "11170883"
-version_id: "30509272"
-internal_id: "C43757751"
-label_id: "11145594"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029283/2025-04-01/0"
-intitule_bron: "Stb.2010-852"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-21"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2024-436"
-original_signed_date: "2024-12-18"
-original_published_date: "2024-12-23"
-original_effect: "structuurwijziging"
-original_dossier: "36604"
-original_url_id: "stb-2024-436"
-entry_into_force_date: "2025-01-01"
-entry_into_force_dossier: "36604"
-jci_1_3: "jci1.3:c:BWBR0029283&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0029283&g=2025-04-01"
-citeertitel_status: "officieel"
-signed_date: "2024-12-18"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0029283"
+opgehaald: 2026-08-16
 ---
+
 # Wet loonbelasting BES
 
-## Algemene Bepaling
+### Algemene Bepaling
 
 ##### Artikel A
 
@@ -123,7 +99,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemer of diens in
 
 3. Degene tot wie een werknemer in dienstbetrekking staat wordt geacht aan de werknemer het loon te verstrekken dat deze uit hoofde van zijn dienstbetrekking geniet van een niet-inhoudingsplichtige;
 
-4. Wie niet op de BES eilanden woont of gevestigd is, wordt slechts als inhoudingsplichtige beschouwd indien hij op de BES eilanden een vaste inrichting of vaste vertegenwoordiger heeft, dan wel op de BES eilanden één of meer personen in dienst heeft en door de Inspecteur als inhoudingsplichtige is aangewezen. Onverminderd het bepaalde in de vorige volzin worden ten aanzien van een niet op de BES eilanden wonende of gevestigde aannemer of onderaannemer als bedoeld in [artikel 8.68 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.68) de werkzaamheden ten behoeve van het werk geacht te zijn verricht met behulp van een vaste inrichting op de BES eilanden indien de uitvoering van het werk langer duurt dan 30 dagen. Voor de toepassing van de eerste volzin worden organen of organisatieonderdelen van de Staat der Nederlanden geacht op de BES eilanden inhoudingsplichtig te zijn ten aanzien van personen die deze organen of organisatieonderdelen op de BES eilanden in dienst hebben en ter zake van het loon uit vroegere dienstbetrekking dat deze organen of organisatieonderdelen verstrekken.
+4. Wie niet op de BES eilanden woont of gevestigd is, wordt slechts als inhoudingsplichtige beschouwd indien hij op de BES eilanden een vaste inrichting of vaste vertegenwoordiger heeft, dan wel op de BES eilanden één of meer personen in dienst heeft en door de Inspecteur als inhoudingsplichtige is aangewezen. Onverminderd het bepaalde in de vorige volzin worden ten aanzien van een niet op de BES eilanden wonende of gevestigde aannemer of onderaannemer als bedoeld in [artikel 8.68 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.68) de werkzaamheden ten behoeve van het werk geacht te zijn verricht met behulp van een vaste inrichting op de BES eilanden indien de uitvoering van het werk langer duurt dan 30 dagen. Voor de toepassing van de eerste volzin worden organen of organisatieonderdelen van de Staat der Nederlanden geacht op de BES eilanden inhoudingsplichtig te zijn ten aanzien van personen die deze organen of organisatieonderdelen op de BES eilanden in dienst hebben en ter zake van het loon uit vroegere dienstbetrekking dat deze organen of organisatieonderdelen verstrekken.
 
 5. Diplomatieke, consulaire en andere vertegenwoordigers van vreemde mogendheden en hun toegevoegde ambtenaren, alsmede door Onze Minister aan te wijzen internationale organisaties en vertegenwoordigers en functionarissen daarvan, worden niet als inhoudingsplichtigen beschouwd. De consulaire vertegenwoordiger is evenwel inhoudingsplichtig, indien en voor zover hij naast het consulaire ambt een bedrijf of beroep uitoefent.
 
@@ -155,7 +131,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemer of diens in
 
 - a. aanspraken ingevolge de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) en de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304);
 
-- b. aanspraken die naar aard en strekking overeenkomen met aanspraken als bedoeld in onderdeel a;
+- b. aanspraken die naar aard en strekking overeenkomen met aanspraken als bedoeld in onderdeel a;
 
 - c. aanspraken ingevolge een pensioenregeling;
 
@@ -167,11 +143,11 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemer of diens in
 
 - g. vergoedingen voor zover zij geacht kunnen worden te strekken tot bestrijding van kosten tot verwerving van het loon, behoudens ter zake van:
 
-- 1°. posten als bedoeld in [artikel 9c, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c), met uitzondering van onderdeel h daarvan;
+   - 1°. posten als bedoeld in [artikel 9c, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c), met uitzondering van onderdeel h daarvan;
 
-- 2°. vervoerskosten als bedoeld in [artikel 9c, derde lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c) voor zover meer wordt vergoed dan de aldaar genoemde prijs per kilometer;
+   - 2°. vervoerskosten als bedoeld in [artikel 9c, derde lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c) voor zover meer wordt vergoed dan de aldaar genoemde prijs per kilometer;
 
-- 3°. vaste vergoedingen voor zover niet is voldaan aan door Onze Minister nader te stellen regels;
+   - 3°. vaste vergoedingen voor zover niet is voldaan aan door Onze Minister nader te stellen regels;
 
 - h. uitkeringen en verstrekkingen tot vergoeding van door de werknemer in verband met zijn dienstbetrekking geleden schade aan of verlies van persoonlijke goederen;
 
@@ -179,9 +155,9 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemer of diens in
 
 - j. bedragen die worden ingehouden:
 
-- 1°. als bijdrage ingevolge een pensioenregeling;
+   - 1°. als bijdrage ingevolge een pensioenregeling;
 
-- 2°. als bijdrage voor aanspraken die ingevolge de onderdelen b en d niet tot het loon behoren.
+   - 2°. als bijdrage voor aanspraken die ingevolge de onderdelen b en d niet tot het loon behoren.
 
 6. Bij ministeriële regeling kan worden bepaald dat eveneens niet tot het loon behoren andere aanspraken dan bedoeld in het vijfde lid.
 
@@ -229,17 +205,107 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemer of diens in
 
 6. Onze Minister kan in bepaalde gevallen of groepen van gevallen regels geven met betrekking tot het bedrag aan fooien en dergelijke prestaties van derden dat geacht wordt te zijn genoten. Hij kan ook bepalen dat een bedrag ter zake niet tot het loon behoort.
 
-### Hoofdstuk III. Wijze van berekening en inhouding
+##### Artikel 6d
+
+1. Ten aanzien van de werknemer die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft, wordt het in het kalenderjaar van dat lichaam genoten loon ten minste gesteld op het hoogste van de volgende bedragen:
+
+- a. 90% van het loon uit de meest vergelijkbare dienstbetrekking;
+
+- b. het hoogste loon van de werknemers die in dienst zijn van het lichaam of met het lichaam verbonden lichamen, met dien verstande dat indien tot het lichaam of met het lichaam verbonden lichamen geen andere werknemers dan de werknemer in dienstbetrekking staan, dit loon wordt gesteld op 90% van de netto-omzet van het lichaam;
+
+- c. tweemaal de belastingvrije som, bedoeld in [artikel 24, tweede lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24).
+
+2. Indien de inhoudingsplichtige aannemelijk maakt dat het hoogste bedrag, bedoeld in het eerste lid, hoger is dan 90% van het loon uit de meest vergelijkbare dienstbetrekking, wordt het loon in afwijking van het eerste lid gesteld op 90% van het loon uit de meest vergelijkbare dienstbetrekking met dien verstande dat het loon ten minste wordt gesteld op het bedrag, bedoeld in het eerste lid, onderdeel c, of, indien het loon uit de meest vergelijkbare dienstbetrekking lager is dan dat bedrag, op het loon uit de meest vergelijkbare dienstbetrekking.
+
+3. Voor de toepassing van het eerste lid, onderdeel b:
+
+- a. wordt onder netto-omzet verstaan: de totale omzet van het lichaam na aftrek van de verschuldigde algemene bestedingsbelasting en alle op deze omzet betrekking hebbende kosten, lasten en afschrijvingen;
+
+- b. worden de partner van de werknemer en de bloed- of aanverwanten van de werknemer tot en met de derde graad niet als werknemer aangemerkt, met dien verstande dat ingeval deze personen loon genieten, dit loon ter bepaling van de netto-omzet als kosten in aanmerking wordt genomen.
+
+4. In afwijking van het eerste en tweede lid mag het in een kalenderjaar genoten loon in het jaar van oprichting van het lichaam en de drie daaropvolgende kalenderjaren ook worden gesteld op het bedrag van de commerciële winst van het lichaam, doch niet op een lager bedrag dan nihil.
+
+5. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- a. *partner:* de echtgenoot, alsmede de ongehuwde meerderjarige persoon waarmee de ongehuwde meerderjarige belastingplichtige een notarieel samenlevingscontract is aangegaan en met wie hij staat ingeschreven op hetzelfde adres in de basisadministratie personen op de BES eilanden of een daarmee naar aard en strekking overeenkomstige basisadministratie buiten de BES eilanden;
+
+- b. *aanmerkelijk belang:* een aanmerkelijk belang als bedoeld in [artikel 11, derde lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11);
+
+- c. *meest vergelijkbare dienstbetrekking:* de dienstbetrekking die van alle dienstbetrekkingen: het meest vergelijkbaar is met de dienstbetrekking van de werknemer;
+
+   - 1°. waarbij een aanmerkelijk belang geen rol speelt;
+
+   - 2°. die bekend zijn bij de inhoudingsplichtige en de inspecteur;
+
+   - 3°. waarvan het loon bekend is of in redelijkheid geschat kan worden; en
+
+   - 4°. waarvan het loon niet op een ander bedrag is vastgesteld dan in het economische verkeer gebruikelijk is;
+
+- d. *met het lichaam verbonden lichaam:*
+
+   - 1°. een lichaam waarin de inhoudingsplichtige voor ten minste een derde gedeelte belang heeft;
+
+   - 2°. een lichaam dat voor ten minste een derde gedeelte belang heeft in de inhoudingsplichtige;
+
+   - 3°. een lichaam waarin een derde voor ten minste een derde gedeelte belang heeft, terwijl deze derde tevens voor ten minste een derde gedeelte belang heeft in de inhoudingsplichtige.
+
+##### Artikel 6e
+
+1. In geval van een bestaande dienstbetrekking heeft de werknemer recht op de vaste kostenaftrek.
+
+2. De vaste kostenaftrek over een loontijdvak van een jaar bedraagt USD 280, met dien verstande dat de vaste kostenaftrek niet meer bedraagt dan het in het loontijdvak genoten loon.
+
+3. Loontijdvak is het tijdvak waarover het loon wordt genoten.
+
+4. Indien het loon wordt genoten over een ander loontijdvak dan een jaar, wordt het bedrag, bedoeld in het tweede lid, herleid tot een bedrag voor het toepasselijke loontijdvak. Daarbij wordt een jaar op 260 dagen, een maand op 65/3 dag, een week op 5 dagen en een tijdvak dat korter is dan een halve dag op een halve dag gesteld.
+
+### Hoofdstuk III. Tarief
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
 1. Het bedrag van de verschuldigde belasting over een loontijdvak van een jaar wordt bepaald overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24) en [24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a), met dien verstande dat in afwijking van artikel 24A, eerste lid, geen vermindering plaatsvindt met het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11), en met de opbrengst, bedoeld in [artikel 17, eerste lid, aanhef en onderdelen e en f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=17).
 
 2. Indien de werknemer over loontijdvakken die geheel of gedeeltelijk samenvallen loon geniet uit meer dan één dienstbetrekking of vroegere dienstbetrekking dan wel van meer dan één inhoudingsplichtige en dit loon voor de berekening van de belasting niet wordt samengevoegd, kan de werknemer de belastingvrije som en de ouderentoeslag slechts in één dienstbetrekking dan wel tegenover één inhoudingsplichtige geldend maken.
+
+##### Artikel 8a
+
+1. Het bedrag van de belasting over een ander loontijdvak dan een jaar wordt door herleiding bepaald met overeenkomstige toepassing van [artikel 6e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6e&z=2025-04-01&g=2025-04-01).
+
+2. Bij ministeriële regeling kunnen ter nadere uitvoering van deze wet loonbelastingtabellen worden vastgesteld voor loontijdvakken waarvoor Onze Minister dit nodig acht. In deze tabellen:
+
+- a. wordt de belastingvrije som voor de loonbelasting op zodanige wijze verwerkt dat naast het bedrag aan loon het belastingbedrag of belastingpercentage is vermeld;
+
+- b. kan de verwerking van de belastingvrije som geheel of ten dele achterwege worden gelaten;
+
+- c. kan bij de verwerking van de belastingvrije som rekening worden gehouden met algemeen voorkomende beloningen die worden belast volgens een tabel voor bijzondere beloningen als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8b&z=2025-04-01&g=2025-04-01);
+
+- d. kunnen loonklassen en afrondingen worden aangebracht.
+
+3. De loonbelastingtabellen worden vastgesteld op basis van de daarvoor benodigde gegevens zoals die vermoedelijk zullen luiden op het tijdstip van inwerkingtreding van de tabellen.
+
+4. Voor zover de bij vaststelling van de tabellen toegepaste gegevens zodanig afwijken van de gegevens zoals die luiden op het tijdstip van inwerkingtreding dat bij toepassing van laatstbedoelde gegevens andere tabellen zouden zijn vastgesteld, kunnen bij ministeriële regeling nieuwe tabellen worden vastgesteld, ingaande ten hoogste zes maanden na het tijdstip van inwerkingtreding, bedoeld in het derde lid, waarin de in de verstreken loontijdvakken ontstane afwijking zoveel mogelijk in de nog niet verstreken loontijdvakken van het kalenderjaar ongedaan wordt gemaakt.
+
+##### Artikel 8b
+
+1. Tantièmes, gratificaties en ander loon dat in de regel slechts eenmaal of eenmaal per jaar wordt toegekend, worden belast volgens de loonbelastingtabel voor bijzondere beloningen die bij ministeriële regeling wordt vastgesteld met overeenkomstige toepassing van [artikel 8a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8a&z=2025-04-01&g=2025-04-01), met dien verstande dat in deze tabel jaarlonen en belastingpercentages worden opgenomen.
+
+2. Indien dit niet tot een hoger belastingbedrag leidt mag het loon, bedoeld in het eerste lid, worden beschouwd als een toevoeging aan het loon over het loontijdvak waarin het wordt uitbetaald.
+
+3. Overwerkloon mag worden belast naar het percentage dat wordt aangewezen door de loonbelastingtabel voor bijzondere beloningen.
+
+4. Als jaarloon geldt voor de toepassing van dit artikel:
+
+- a. ingeval de werknemer over het gehele voorafgaande kalenderjaar van de inhoudingsplichtige loon heeft genoten: het in dat jaar genoten loon;
+
+- b. ingeval de werknemer over een gedeelte van het voorafgaande kalenderjaar van de inhoudingsplichtige loon heeft genoten: het tot een jaarloon herleide bedrag van het in dat jaar genoten loon;
+
+- c. in andere gevallen: het tot een jaarloon te herleiden in het kalenderjaar te genieten loon.
+
+5. Als overwerkloon geldt voor de toepassing van dit artikel het loon ter zake van arbeid die wordt verricht gedurende de tijd die uitgaat boven de voor de werknemer geldende normale arbeidsduur.
 
 ##### Artikel 9
 
@@ -257,7 +323,9 @@ Vervallen
 
 ##### Artikel 9a
 
-Vervallen
+*Vervallen*
+
+### Hoofdstuk IV. Wijze van heffing
 
 ##### Artikel 10
 
@@ -309,12 +377,6 @@ Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan 
 
 Voor zover de belasting en de premies voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de ingevolge het Besluit zorgverzekering BES verschuldigde premie gelijktijdig worden geheven en [artikel 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.22), [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23) of [8.26 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.26) toepassing vindt, wordt dat artikel slechts eenmaal toegepast, met dien verstande dat alsdan voor de toepassing van artikel 8.26, tweede lid, van Belastingwet BES wordt uitgegaan van het gezamenlijk gelijktijdig geheven bedrag.
 
-### Hoofdstuk IV. Naheffing en administratieve boeten
-
-### Hoofdstuk V. Bezwaar en Beroep
-
-### Hoofdstuk VI. Bijzondere bepalingen
-
 ##### Artikel 19
 
 1. De inhoudingsplichtige is gehouden volgens bij ministeriële regeling te stellen regels:
@@ -346,6 +408,8 @@ Voor zover de belasting en de premies voor de volksverzekeringen, de premies voo
 3. Ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, is hij voorts verplicht aan de inhoudingsplichtige ter inzage te verstrekken, een op hem betrekking hebbend document als bedoeld in [artikel 2, eerste lid, onderdelen a, b en d, van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) en is hij verplicht toe te staan dat een afschrift daarvan in de loonadministratie van de inhoudingsplichtige wordt opgenomen.
 
 4. Het eerste tot en met derde lid zijn niet van toepassing ten aanzien van de werknemer die niet op de BES eilanden woont en die werkzaamheden verricht of heeft verricht in een geheel buiten de BES eilanden vervulde dienstbetrekking, indien het heffingsrecht over het loon uit die dienstbetrekking op grond van een verdrag of regeling ter voorkoming van dubbele belasting niet aan de BES eilanden is toegewezen en de werknemer niet premieplichtig is voor de volksverzekeringen en de zorgverzekering.
+
+### Hoofdstuk V. Eindheffing
 
 ##### Artikel 20
 
@@ -379,31 +443,13 @@ In afwijking van het bij of krachtens deze wet bepaalde wordt de belasting over 
 
 2. Voor gevallen waarin [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV&artikel=12a&z=2025-04-01&g=2025-04-01), of [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV&artikel=12c&z=2025-04-01&g=2025-04-01), van toepassing is, kunnen, met overeenkomstige toepassing van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=V&artikel=21a&z=2025-04-01&g=2025-04-01), bij ministeriële regeling tabellen worden vastgesteld waarin telkens de belasting en de premies voor de volksverzekeringen, onderscheidenlijk de premie die verschuldigd is ingevolge het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404), in één bedrag dan wel in één percentage worden opgenomen.
 
-##### Artikel 21c
-
-[vervallen]
-
-##### Artikel 21d
-
-[vervallen]
+### Hoofdstuk VI. Aanvullende regelingen
 
 ##### Artikel 22
 
 Bij ministeriële regeling kunnen nadere regels ter uitvoering van deze wet worden vastgesteld.
 
-##### Artikel 23
-
-[vervallen]
-
-##### Artikel 24
-
-[vervallen]
-
 ### Hoofdstuk VII. Slotbepalingen
-
-### Hoofdstuk VIII. Invordering
-
-### Hoofdstuk IX. Slotbepalingen
 
 ##### Artikel 34
 
@@ -420,101 +466,3 @@ Deze wet wordt aangehaald als: Wet loonbelasting BES.
 ##### Artikel 37
 
 [vervallen]
-
-##### Artikel 6d
-
-1. Ten aanzien van de werknemer die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft, wordt het in het kalenderjaar van dat lichaam genoten loon ten minste gesteld op het hoogste van de volgende bedragen:
-
-- a. 90% van het loon uit de meest vergelijkbare dienstbetrekking;
-
-- b. het hoogste loon van de werknemers die in dienst zijn van het lichaam of met het lichaam verbonden lichamen, met dien verstande dat indien tot het lichaam of met het lichaam verbonden lichamen geen andere werknemers dan de werknemer in dienstbetrekking staan, dit loon wordt gesteld op 90% van de netto-omzet van het lichaam;
-
-- c. tweemaal de belastingvrije som, bedoeld in [artikel 24, tweede lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24).
-
-2. Indien de inhoudingsplichtige aannemelijk maakt dat het hoogste bedrag, bedoeld in het eerste lid, hoger is dan 90% van het loon uit de meest vergelijkbare dienstbetrekking, wordt het loon in afwijking van het eerste lid gesteld op 90% van het loon uit de meest vergelijkbare dienstbetrekking met dien verstande dat het loon ten minste wordt gesteld op het bedrag, bedoeld in het eerste lid, onderdeel c, of, indien het loon uit de meest vergelijkbare dienstbetrekking lager is dan dat bedrag, op het loon uit de meest vergelijkbare dienstbetrekking.
-
-3. Voor de toepassing van het eerste lid, onderdeel b:
-
-- a. wordt onder netto-omzet verstaan: de totale omzet van het lichaam na aftrek van de verschuldigde algemene bestedingsbelasting en alle op deze omzet betrekking hebbende kosten, lasten en afschrijvingen;
-
-- b. worden de partner van de werknemer en de bloed- of aanverwanten van de werknemer tot en met de derde graad niet als werknemer aangemerkt, met dien verstande dat ingeval deze personen loon genieten, dit loon ter bepaling van de netto-omzet als kosten in aanmerking wordt genomen.
-
-4. In afwijking van het eerste en tweede lid mag het in een kalenderjaar genoten loon in het jaar van oprichting van het lichaam en de drie daaropvolgende kalenderjaren ook worden gesteld op het bedrag van de commerciële winst van het lichaam, doch niet op een lager bedrag dan nihil.
-
-5. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- a. **partner:** de echtgenoot, alsmede de ongehuwde meerderjarige persoon waarmee de ongehuwde meerderjarige belastingplichtige een notarieel samenlevingscontract is aangegaan en met wie hij staat ingeschreven op hetzelfde adres in de basisadministratie personen op de BES eilanden of een daarmee naar aard en strekking overeenkomstige basisadministratie buiten de BES eilanden;
-
-- b. **aanmerkelijk belang:** een aanmerkelijk belang als bedoeld in [artikel 11, derde lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11);
-
-- c. **meest vergelijkbare dienstbetrekking:** de dienstbetrekking die van alle dienstbetrekkingen: het meest vergelijkbaar is met de dienstbetrekking van de werknemer;
-
-- 1°. waarbij een aanmerkelijk belang geen rol speelt;
-
-- 2°. die bekend zijn bij de inhoudingsplichtige en de inspecteur;
-
-- 3°. waarvan het loon bekend is of in redelijkheid geschat kan worden; en
-
-- 4°. waarvan het loon niet op een ander bedrag is vastgesteld dan in het economische verkeer gebruikelijk is;
-
-- d. **met het lichaam verbonden lichaam:**
-
-- 1°. een lichaam waarin de inhoudingsplichtige voor ten minste een derde gedeelte belang heeft;
-
-- 2°. een lichaam dat voor ten minste een derde gedeelte belang heeft in de inhoudingsplichtige;
-
-- 3°. een lichaam waarin een derde voor ten minste een derde gedeelte belang heeft, terwijl deze derde tevens voor ten minste een derde gedeelte belang heeft in de inhoudingsplichtige.
-
-##### Artikel 6e
-
-1. In geval van een bestaande dienstbetrekking heeft de werknemer recht op de vaste kostenaftrek.
-
-2. De vaste kostenaftrek over een loontijdvak van een jaar bedraagt USD 280, met dien verstande dat de vaste kostenaftrek niet meer bedraagt dan het in het loontijdvak genoten loon.
-
-3. Loontijdvak is het tijdvak waarover het loon wordt genoten.
-
-4. Indien het loon wordt genoten over een ander loontijdvak dan een jaar, wordt het bedrag, bedoeld in het tweede lid, herleid tot een bedrag voor het toepasselijke loontijdvak. Daarbij wordt een jaar op 260 dagen, een maand op 65/3 dag, een week op 5 dagen en een tijdvak dat korter is dan een halve dag op een halve dag gesteld.
-
-### Hoofdstuk III. Tarief
-
-##### Artikel 8a
-
-1. Het bedrag van de belasting over een ander loontijdvak dan een jaar wordt door herleiding bepaald met overeenkomstige toepassing van [artikel 6e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6e&z=2025-04-01&g=2025-04-01).
-
-2. Bij ministeriële regeling kunnen ter nadere uitvoering van deze wet loonbelastingtabellen worden vastgesteld voor loontijdvakken waarvoor Onze Minister dit nodig acht. In deze tabellen:
-
-- a. wordt de belastingvrije som voor de loonbelasting op zodanige wijze verwerkt dat naast het bedrag aan loon het belastingbedrag of belastingpercentage is vermeld;
-
-- b. kan de verwerking van de belastingvrije som geheel of ten dele achterwege worden gelaten;
-
-- c. kan bij de verwerking van de belastingvrije som rekening worden gehouden met algemeen voorkomende beloningen die worden belast volgens een tabel voor bijzondere beloningen als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8b&z=2025-04-01&g=2025-04-01);
-
-- d. kunnen loonklassen en afrondingen worden aangebracht.
-
-3. De loonbelastingtabellen worden vastgesteld op basis van de daarvoor benodigde gegevens zoals die vermoedelijk zullen luiden op het tijdstip van inwerkingtreding van de tabellen.
-
-4. Voor zover de bij vaststelling van de tabellen toegepaste gegevens zodanig afwijken van de gegevens zoals die luiden op het tijdstip van inwerkingtreding dat bij toepassing van laatstbedoelde gegevens andere tabellen zouden zijn vastgesteld, kunnen bij ministeriële regeling nieuwe tabellen worden vastgesteld, ingaande ten hoogste zes maanden na het tijdstip van inwerkingtreding, bedoeld in het derde lid, waarin de in de verstreken loontijdvakken ontstane afwijking zoveel mogelijk in de nog niet verstreken loontijdvakken van het kalenderjaar ongedaan wordt gemaakt.
-
-##### Artikel 8b
-
-1. Tantièmes, gratificaties en ander loon dat in de regel slechts eenmaal of eenmaal per jaar wordt toegekend, worden belast volgens de loonbelastingtabel voor bijzondere beloningen die bij ministeriële regeling wordt vastgesteld met overeenkomstige toepassing van [artikel 8a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8a&z=2025-04-01&g=2025-04-01), met dien verstande dat in deze tabel jaarlonen en belastingpercentages worden opgenomen.
-
-2. Indien dit niet tot een hoger belastingbedrag leidt mag het loon, bedoeld in het eerste lid, worden beschouwd als een toevoeging aan het loon over het loontijdvak waarin het wordt uitbetaald.
-
-3. Overwerkloon mag worden belast naar het percentage dat wordt aangewezen door de loonbelastingtabel voor bijzondere beloningen.
-
-4. Als jaarloon geldt voor de toepassing van dit artikel:
-
-- a. ingeval de werknemer over het gehele voorafgaande kalenderjaar van de inhoudingsplichtige loon heeft genoten: het in dat jaar genoten loon;
-
-- b. ingeval de werknemer over een gedeelte van het voorafgaande kalenderjaar van de inhoudingsplichtige loon heeft genoten: het tot een jaarloon herleide bedrag van het in dat jaar genoten loon;
-
-- c. in andere gevallen: het tot een jaarloon te herleiden in het kalenderjaar te genieten loon.
-
-5. Als overwerkloon geldt voor de toepassing van dit artikel het loon ter zake van arbeid die wordt verricht gedurende de tijd die uitgaat boven de voor de werknemer geldende normale arbeidsduur.
-
-### Hoofdstuk IV. Wijze van heffing
-
-### Hoofdstuk V. Eindheffing
-
-### Hoofdstuk VI. Aanvullende regelingen

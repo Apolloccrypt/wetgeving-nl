@@ -1,38 +1,16 @@
 ---
 title: "Wet zorginstellingen BES"
 identifier: "BWBR0028734"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028734"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10949943"
-version_id: "17936572"
-internal_id: "C24928091"
-label_id: "10924824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028734/2018-08-01/0"
-intitule_bron: "Stb.2010-643"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-29"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-643"
-original_signed_date: "2010-09-29"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-643"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028734&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0028734&g=2018-08-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-29"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0028734"
+opgehaald: 2026-08-16
 ---
+
 # Wet zorginstellingen BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,33 +19,33 @@ entry_into_force: "2010-10-10"
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. vervallen;
+- a. *vervallen;*
 
-- b. vervallen;
+- b. *vervallen;*
 
-- c. **gedraging:** enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een patiënt;
+- c. *gedraging:* enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een patiënt;
 
-- d. **Inspectie:** de Inspectie gezondheidszorg en jeugd;
+- d. *Inspectie:* de Inspectie gezondheidszorg en jeugd;
 
-- e. vervallen;
+- e. *vervallen;*
 
-- f. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- f. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- g. **patiënt:** een natuurlijk persoon aan wie een zorgaanbieder zorg verleent of heeft verleend;
+- g. *patiënt:* een natuurlijk persoon aan wie een zorgaanbieder zorg verleent of heeft verleend;
 
-- h. vervallen;
+- h. *vervallen;*
 
-- i. **zorg:** het handelen van medische beroepsbeoefenaren, waaronder het verrichten van onderzoek, het stellen van diagnose of het behandelen, verplegen of verzorgen van een persoon met ziekten of gebreken in intramuraal, semimuraal of extramuraal verband;
+- i. *zorg:* het handelen van medische beroepsbeoefenaren, waaronder het verrichten van onderzoek, het stellen van diagnose of het behandelen, verplegen of verzorgen van een persoon met ziekten of gebreken in intramuraal, semimuraal of extramuraal verband;
 
-- j. **zorgaanbieder:**
+- j. *zorgaanbieder:*
 
-- 1°. de natuurlijke- of rechtspersoon die een zorginstelling in stand houdt;
+   - 1°. de natuurlijke- of rechtspersoon die een zorginstelling in stand houdt;
 
-- 2°. de natuurlijke- of rechtspersonen die gezamenlijk een zorginstelling vormen;
+   - 2°. de natuurlijke- of rechtspersonen die gezamenlijk een zorginstelling vormen;
 
-- k. **zorginstelling:** een organisatorisch verband dat strekt tot verlening van zorg, met uitzondering van een organisatorisch verband waar zorg wordt verleend als deel van de in een ander organisatorisch verband verleende zorg;
+- k. *zorginstelling:* een organisatorisch verband dat strekt tot verlening van zorg, met uitzondering van een organisatorisch verband waar zorg wordt verleend als deel van de in een ander organisatorisch verband verleende zorg;
 
-- l. **ziekenhuisvoorziening:** een bij algemene maatregel van bestuur aangewezen zorginstelling.
+- l. *ziekenhuisvoorziening:* een bij algemene maatregel van bestuur aangewezen zorginstelling.
 
 ##### Artikel 2
 
@@ -77,23 +55,23 @@ In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j,
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 3. Zorginstellingen
 
@@ -197,25 +175,25 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 - c. de verantwoordelijkheden en bevoegdheden ter zake van:
 
-- 1°. het beheer;
+   - 1°. het beheer;
 
-- 2°. de administratie met inbegrip van de medische administratie, waaronder de registratie van patiënten;
+   - 2°. de administratie met inbegrip van de medische administratie, waaronder de registratie van patiënten;
 
-- 3°. de verslaglegging en dossiervorming;
+   - 3°. de verslaglegging en dossiervorming;
 
-- 4°. de kwaliteitsbewaking;
+   - 4°. de kwaliteitsbewaking;
 
-- 5°. het opname- en ontslagbeleid;
+   - 5°. het opname- en ontslagbeleid;
 
-- 6°. de zorg voor de patiënten;
+   - 6°. de zorg voor de patiënten;
 
-- 7°. de geneesmiddelenvoorziening;
+   - 7°. de geneesmiddelenvoorziening;
 
-- 8°. de administratieve organisatie;
+   - 8°. de administratieve organisatie;
 
-- 9°. het personeelsbeleid;
+   - 9°. het personeelsbeleid;
 
-- 10°. het waarborgen van de rechten van de patiënt.
+   - 10°. het waarborgen van de rechten van de patiënt.
 
 ##### Artikel 17
 
@@ -309,7 +287,7 @@ Bij algemene maatregel van bestuur kan, met betrekking tot daarbij aan te wijzen
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 30
 
@@ -317,7 +295,7 @@ Zorginstellingen waarvan de statuten, de inrichting of de structuur niet voldoen
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 31a
 
@@ -325,7 +303,7 @@ Vervallen
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 

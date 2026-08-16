@@ -1,54 +1,18 @@
 ---
 title: "Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
+citeertitel: "Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028565"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028565"
+categorie: "Staatsinrichting en bestuur"
 soort: "rijksKB"
-stam_id: "10853193"
-version_id: "17834492"
-internal_id: "C24667581"
-label_id: "10828364"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028565/2010-10-10/0"
-intitule_bron: "Stb.2010-359"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-359"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-359"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028565&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028565&g=2010-10-10"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028565"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
-
-Op de voordracht van Onze Minister van Justitie van 13 juli 2010, nr. 5656891/10/6;
-
-Gelet op de [artikelen 18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=18), [26 van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=26);
-
-De Raad van State van het Koninkrijk gehoord (advies van 12 augustus 2010, nr. W03.10.0357/II/K);
-
-Gezien het nader rapport van Onze Minister van Justitie van 22 september 2010, nr. 5666928/10/6;
-
-De bepalingen van het [Statuut van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba in werking treedt. Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -56,15 +20,16 @@ Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Cu
 
 1. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt verstaan onder:
 
-- **volledige arbeidsduur:** het aantal uren dat bij volledige vervulling van de functie per week gewerkt wordt;
+- *volledige arbeidsduur:* het aantal uren dat bij volledige vervulling van de functie per week gewerkt wordt;
 
-- **rijkswet:** [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072);
+- *rijkswet:*
+ [Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072);
 
-- **salaris:** het bedrag waarop de leden van het openbaar ministerie in verband met het vervullen van het ambt van procureur-generaal, advocaat-generaal, hoofdofficier van justitie, officier van justitie of substituut-officier van justitie, met inachtneming van het bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) van deze algemene maatregel van rijksbestuur, aanspraak hebben.
+- *salaris:* het bedrag waarop de leden van het openbaar ministerie in verband met het vervullen van het ambt van procureur-generaal, advocaat-generaal, hoofdofficier van justitie, officier van justitie of substituut-officier van justitie, met inachtneming van het bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) van deze algemene maatregel van rijksbestuur, aanspraak hebben.
 
 2. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt mede verstaan onder:
 
-- **echtgenoot:** de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
+- *echtgenoot:* de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
 
 ##### Artikel 2
 
@@ -619,11 +584,3 @@ Deze algemene maatregel van rijksbestuur treedt in werking op de dag van inwerki
 ##### Artikel 51
 
 Deze algemene maatregel van rijksbestuur wordt aangehaald als: Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-## Bijlage. bedoeld in de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-10-10&g=2010-10-10), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10), van het Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en Bonaire, Sint Eustatius en Saba
-
-### Leden van de Openbare Ministeries
-
-De bedragen in onderstaande salaristabellen zijn vermeld in ANG en AWG1De munteenheid van het land de Nederlandse Antillen wordt op een nog nader te bepalen tijdstip vervangen door een nieuwe munteenheid van het land Curaçao en Sint Maarten. Deze nieuwe munteenheid zal een vaste wisselkoers kennen ten opzichte van de AWG en ANG. Tot 1 januari 2011 blijft de ANG de munteenheid van Bonaire, Sint Eustatius en Saba. Met ingang van 1 januari 2011 is de dollar de munteenheid van Bonaire, Sint Eustatius en Saba (zie verder Wet geldstelsel BES, Kamerstukken II 2009/10, 32 217)..
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

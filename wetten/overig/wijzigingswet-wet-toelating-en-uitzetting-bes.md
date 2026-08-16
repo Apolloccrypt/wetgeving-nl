@@ -1,53 +1,22 @@
 ---
 title: "Wet van 30 september 2010 tot wijziging van de Wet toelating en uitzetting BES"
+citeertitel: "Wijzigingswet Wet toelating en uitzetting BES"
 identifier: "BWBR0028670"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028670"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "10922683"
-version_id: "17906322"
-internal_id: "C24841501"
-label_id: "10897204"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028670/2010-10-10/0"
-intitule_bron: "Stb.2010-364"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-30"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-364"
-original_signed_date: "2010-09-30"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "32282"
-original_url_id: "stb-2010-364"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028670&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028670&g=2010-10-10"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet toelating en uitzetting BES"
-signed_date: "2010-09-30"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028670"
+opgehaald: 2026-08-16
 ---
+
 # Wet van 30 september 2010 tot wijziging van de Wet toelating en uitzetting BES
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en het in verband hiermee wenselijk is de Nederlands-Antilliaanse Landsverordening toelating en uitzetting, die ingevolge de [Invoeringswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028063) als wet van toepassing blijft in de openbare lichamen Bonaire, Sint Eustatius en Saba, aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treden.
 
 ##### Artikel I
 
-Wijzigt de Wet toelating en uitzetting BES.
+*Wijzigt de Wet toelating en uitzetting BES.*
 
 ##### Artikel II
 
@@ -81,14 +50,12 @@ ingediend bij de gezaghebber van Bonaire, Sint Eustatius of Saba, wordt aangemer
 
 ##### Artikel IV
 
-Wijzigt de Wet toelating en uitzetting BES.
+*Wijzigt de Wet toelating en uitzetting BES.*
 
 ##### Artikel V
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
 ##### Artikel VI
 
 Deze wet treedt in werking met ingang van de datum waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) in werking treden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

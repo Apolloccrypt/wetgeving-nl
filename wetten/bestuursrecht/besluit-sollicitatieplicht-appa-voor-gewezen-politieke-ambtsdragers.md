@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 november 2010 tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke ambtsdragers en het opleggen van sancties aan gewezen politieke ambtsdragers (Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers)"
+citeertitel: "Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers"
 identifier: "BWBR0029017"
-country: "nl"
-rank: "amvb"
-publication_date: "2010-12-01"
-last_updated: "2010-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029017"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "11090433"
-version_id: "18129752"
-internal_id: "C25207001"
-label_id: "11064914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029017/2010-12-01/0"
-intitule_bron: "Stb.2010-788"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-18"
-intitule_published: "2010-11-30"
-intitule_in_force: "2010-11-30"
-intitule_status: "goed"
-original_publication: "Stb.2010-788"
-original_signed_date: "2010-11-18"
-original_published_date: "2010-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-788"
-entry_into_force_date: "2010-12-01"
-jci_1_3: "jci1.3:c:BWBR0029017&z=2010-12-01&g=2010-12-01"
-jci_1_0: "1.0:c:BWBR0029017&g=2010-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers"
-signed_date: "2010-11-18"
-entry_into_force: "2010-12-01"
+publicatiedatum: 2010-12-01
+laatste_update: 2010-12-01
+status: geldig
+toestand: 2010-12-01
+bron: "https://wetten.overheid.nl/BWBR0029017"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 18 november 2010 tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke ambtsdragers en het opleggen van sancties aan gewezen politieke ambtsdragers (Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 15 september 2010, nr. 2010-0000419238;
-
-Gelet op de [artikelen 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [7b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7b), [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7c), [52a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), [52b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52b), [52c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52c), [132a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a), [132b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132b), en [132c, tweede lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132c);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 oktober 2010, nr. W04.10.0442/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 oktober 2010, nr. 2010-0000685028;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,25 +20,26 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. **belanghebbende:** belanghebbende als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [artikel 132a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
+- – *belanghebbende:* belanghebbende als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [artikel 132a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
 
-- –. **inhouding:** inhouding als bedoeld in [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7c), [52c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52c), of [artikel 132c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132c);
+- – *inhouding:* inhouding als bedoeld in [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7c), [52c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52c), of [artikel 132c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132c);
 
-- –. **re-integratiebedrijf:** een natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert;
+- – *re-integratiebedrijf:* een natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert;
 
-- –. **passende arbeid:** passende arbeid als bedoeld in [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [132a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
+- – *passende arbeid:* passende arbeid als bedoeld in [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [132a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
 
-- –. **plan:** plan voor het gericht zoeken naar en verwerven van passende arbeid als bedoeld in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [artikel 132a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
+- – *plan:* plan voor het gericht zoeken naar en verwerven van passende arbeid als bedoeld in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7a), [52a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52a), of [artikel 132a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a);
 
-- –. **planmatige begeleiding en ondersteuning:** planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid als bedoeld in [artikel 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7b), [52b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52b), of [artikel 132b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132b);
+- – *planmatige begeleiding en ondersteuning:* planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid als bedoeld in [artikel 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=7b), [52b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=52b), of [artikel 132b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132b);
 
-- –. **sollicitatieactiviteit:** activiteit gericht op het zoeken dan wel verwerven van passende arbeid;
+- – *sollicitatieactiviteit:* activiteit gericht op het zoeken dan wel verwerven van passende arbeid;
 
-- –. **uitkering:** uitkering als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=10) of [21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=21);
+- – *uitkering:* uitkering als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=10) of [21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=21);
 
-- –. **verantwoordelijk bestuursorgaan:** bestuursorgaan als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=121), of [artikel 162, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=162);
+- – *verantwoordelijk bestuursorgaan:* bestuursorgaan als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=121), of [artikel 162, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=162);
 
-- –. **wet:** [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
+- – *wet:*
+ [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
 
 ### Hoofdstuk 2. Regels betreffende activiteiten om passende arbeid te vinden
 
@@ -211,5 +180,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

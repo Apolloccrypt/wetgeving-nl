@@ -1,65 +1,49 @@
 ---
 title: "Tariefbeschikking overige producten GGZ Zvw"
 identifier: "BWBR0029257"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029257"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11163323"
-version_id: "18257472"
-internal_id: "C25399601"
-label_id: "11137674"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029257/2011-01-01/0"
-intitule_bron: "Stcrt.2010-21180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-16"
-intitule_published: "2010-12-24"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21180"
-original_signed_date: "2010-12-16"
-original_published_date: "2010-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21180"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029257&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029257&g=2011-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-16"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029257"
+opgehaald: 2026-08-16
 ---
+
 # Tariefbeschikking overige producten GGZ Zvw
 
 De Nederlandse Zorgautoriteit,
 
 heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4);
 
-**op basis van de beleidsregel:**
+*op basis van de beleidsregel:*
 
 Overige producten GGZ Zvw, kenmerk CU-5020;
 
-**en gelet op:**
+*en gelet op:*
 
 [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) jo. [52, vijfde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52) (Wmg);
 
-**ambtshalve besloten:**
+*ambtshalve besloten:*
 
 dat met ingang van 1 januari 2011 rechtsgeldig;
 
-**door:**
+*door:*
+
+- – vrijgevestigde zorgaanbieders die curatieve geestelijke gezondheidszorg (GGZ) als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) leveren, voor zover deze zijn ingeschreven in een Big-register;
+
+- – gebudgetteerde instellingen die curatieve GGZ als bedoeld in de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) leveren;
+
+- – niet-gebudgetteerde instellingen die curatieve GGZ als bedoeld in de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) leveren;
 
 en zorgaanbieders als bedoeld in [artikel 1, onder c , sub 2, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-**aan:**
+*aan:*
 
 alle ziektekostenverzekeraars, alle (niet) verzekerden en de overige partijen genoemd in de prestatieomschrijvingen die zijn opgenomen in de bijlage
 
-**prestatiebeschrijving en bijbehorend tarief (in euro’s):**
+*prestatiebeschrijving en bijbehorend tarief (in euro’s):*
 
 maximaal de bedragen vermeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029257&bijlage=1&z=2011-01-01&g=2011-01-01) of waarnaar wordt verwezen in de Beleidsregel overige producten GGZ Zvw, in rekening kunnen worden gebracht voor de betreffende overige producten. Deze maximumtarieven zijn inclusief BTW-kosten, maar exclusief de BTW-heffing en afdracht door een zorgaanbieder.
 
@@ -72,6 +56,12 @@ In het contante betalingsverkeer mogen de totaal te betalen bedragen (dus na som
 ### Werkingssfeer
 
 Voor de toepassing van deze tariefbeschikking wordt een persoon, die:
+
+- – krachtens de sociale ziektekostenwetgeving van een andere staat verzekerd is, en
+
+- – in Nederland woont of hier tijdelijk verblijft, en
+
+- – krachtens een Verordening van de Raad van de Europese Unie, dan wel krachtens enig ander door Nederland gesloten bilateraal of multilateraal verdrag, recht heeft op verstrekkingen overeenkomstig het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZvW) of [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ), gelijkgesteld met een Zorgverzekeringswet-, respectievelijk AWBZ-verzekerde.
 
 ### Intrekking oude tariefbeschikking
 
@@ -93,10 +83,8 @@ Ingevolge [artikel 105 van de Wet marktordening gezondheidszorg](https://wetten.
 
 Het bezwaar dient conform [artikel 6:5, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) schriftelijk en ondertekend te worden ingediend en moet tenminste de volgende gegevens bevatten:
 
-## Bijlage 1. – overzicht prestaties en tarieven overige producten
+- • naam en adres van de indiener;
 
-### 1. Onderzoeken en rapportages
+- • een omschrijving van het besluit waartegen het bezwaar zich richt, en
 
-### 2. Andere overige producten
-
-Het verdient aanbeveling om een afschrift van het bestreden besluit bij te voegen.
+- • de gronden van het bezwaar.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 22 december 2010, houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Besluit zorgverzekering BES)"
+citeertitel: "Besluit zorgverzekering BES"
 identifier: "BWBR0029404"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029404"
+categorie: "Gezondheidszorg"
 soort: "AMvB-BES"
-stam_id: "11198833"
-version_id: "18332802"
-internal_id: "C25532641"
-label_id: "11173304"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029404/2025-01-01/0"
-intitule_bron: "Stb.2011-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-22"
-intitule_published: "2011-01-11"
-intitule_in_force: "2011-01-11"
-intitule_status: "goed"
-original_publication: "Stb.2011-3"
-original_signed_date: "2010-10-22"
-original_published_date: "2011-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-3"
-entry_into_force_date: "2011-01-12"
-jci_1_3: "jci1.3:c:BWBR0029404&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0029404&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit zorgverzekering BES"
-signed_date: "2010-10-22"
-entry_into_force: "2011-01-12"
+publicatiedatum: 2011-01-12
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0029404"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 22 december 2010, houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Besluit zorgverzekering BES)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 november 2010, kenmerk Z/VV-3020244;
-
-Gelet op de [artikelen 18.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.1) en [18.4.3. van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2010, nummer W13.10.0526/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport, van 16 december 2010, kenmerk Z/VV- 3040126;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,45 +20,45 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **RCN:** de Rijksdienst Caribisch Nederland, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832&artikel=2);
+- b. *RCN:* de Rijksdienst Caribisch Nederland, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832&artikel=2);
 
-- c. **Zorgverzekeringskantoor BES:** het onderdeel van het RCN dat ten behoeve van Onze Minister ten dienste staat aan de uitvoering van dit besluit;
+- c. *Zorgverzekeringskantoor BES:* het onderdeel van het RCN dat ten behoeve van Onze Minister ten dienste staat aan de uitvoering van dit besluit;
 
-- d. **lichaam:** rechtspersoon, maat- en vennootschap, samenwerkingsvorm zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kan worden gesteld, of onderneming van publiekrechtelijke rechtspersoon en doelvermogens;
+- d. *lichaam:* rechtspersoon, maat- en vennootschap, samenwerkingsvorm zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kan worden gesteld, of onderneming van publiekrechtelijke rechtspersoon en doelvermogens;
 
-- e. **instelling:**
+- e. *instelling:*
 
-- 1. een organisatorisch verband dat zich jegens het Zorgverzekeringskantoor BES heeft verbonden om behandeling, verpleging of verzorging te verlenen;
+   - 1. een organisatorisch verband dat zich jegens het Zorgverzekeringskantoor BES heeft verbonden om behandeling, verpleging of verzorging te verlenen;
 
-- 2. een buiten het grondgebied van de BES-eilanden gevestigde rechtspersoon die in het land van vestiging zorg verleent in het kader van het in dat land bestaande sociale zekerheidsstelsel, dan wel bij gebreke daarvan overeenkomstig de wetgeving van dat land rechtmatig zorg verleent als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01);
+   - 2. een buiten het grondgebied van de BES-eilanden gevestigde rechtspersoon die in het land van vestiging zorg verleent in het kader van het in dat land bestaande sociale zekerheidsstelsel, dan wel bij gebreke daarvan overeenkomstig de wetgeving van dat land rechtmatig zorg verleent als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01);
 
-- f. **zorgaanbieder:** een instelling of persoon die zorg als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01) verleent;
+- f. *zorgaanbieder:* een instelling of persoon die zorg als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01) verleent;
 
-- g. **loon:** het loon, bedoeld in de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283);
+- g. *loon:* het loon, bedoeld in de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283);
 
-- h. **inkomen:** de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24);
+- h. *inkomen:* de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24);
 
-- i. **identificatiedocument:** de identiteitskaart, bedoeld in de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279);
+- i. *identificatiedocument:* de identiteitskaart, bedoeld in de [Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279);
 
-- j. **identificatienummer:** het ID-nummer op het identificatiedocument;
+- j. *identificatienummer:* het ID-nummer op het identificatiedocument;
 
-- k. **BES-eilanden:** de openbare lichamen Bonaire, Sint Eustatius of Saba;
+- k. *BES-eilanden:* de openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- l. **BZV:** Bureau Ziektekostenvoorzieningen;
+- l. *BZV:* Bureau Ziektekostenvoorzieningen;
 
-- m. **SVB:** Sociale Verzekeringsbank Nederlandse Antillen;
+- m. *SVB:* Sociale Verzekeringsbank Nederlandse Antillen;
 
-- n. **Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- n. *Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- o. **inspecteur:** de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
+- o. *inspecteur:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;
 
-- p. **basisadministratie BES:** de basisadministratie, bedoeld in de [Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208);
+- p. *basisadministratie BES:* de basisadministratie, bedoeld in de [Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208);
 
-- q. **neonatale hielprik:** het onderzoek, bedoeld in [artikel 6, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01);
+- q. *neonatale hielprik:* het onderzoek, bedoeld in [artikel 6, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01);
 
-- r. **Nederlandse sociale verzekeringsuitkering:** uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) en de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
+- r. *Nederlandse sociale verzekeringsuitkering:* uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) en de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
 ##### Artikel 2
 
@@ -122,15 +90,15 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 - f. als ambtenaar in dienst van het openbare lichaam Bonaire, Sint Eustatius of Saba is uitgezonden om in Nederland arbeid te verrichten ten behoeve van een van deze openbare lichamen en ten tijde van de aanwerving niet in Nederland woonde, tenzij hij:
 
-- 1°. in Nederland arbeid verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking;
+   - 1°. in Nederland arbeid verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking;
 
-- 2°. een Nederlandse sociale verzekeringsuitkering ontvangt;
+   - 2°. een Nederlandse sociale verzekeringsuitkering ontvangt;
 
 - g. echtgenoot of anderszins inwonend gezinslid is van een persoon als bedoeld onder f, tenzij hij:
 
-- 1°. in Nederland arbeid verricht;
+   - 1°. in Nederland arbeid verricht;
 
-- 2°. een Nederlandse sociale verzekeringsuitkering ontvangt.
+   - 2°. een Nederlandse sociale verzekeringsuitkering ontvangt.
 
 2. Zo nodig in afwijking van het eerste lid, is niet verzekerd overeenkomstig de bepalingen van dit besluit:
 
@@ -448,14 +416,12 @@ Voor zover dit besluit niet anders bepaalt wordt hetgeen tot zijn uitvoering nod
 
 ##### Artikel 31
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 32
 
-Dit besluit treedt in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2010, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2011.
+Dit besluit treedt in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2010, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2011.
 
 ##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit zorgverzekering BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

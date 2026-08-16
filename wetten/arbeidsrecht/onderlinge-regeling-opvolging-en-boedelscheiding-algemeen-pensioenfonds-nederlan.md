@@ -1,59 +1,18 @@
 ---
 title: "Onderlinge regeling rechtsopvolging en boedelscheiding APNA alsmede de rechtsopvolging van een aantal niet kapitaal gefinancierde pensioen(vervangende) verplichtingen van het Land de Nederlandse Antillen"
+citeertitel: "Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen"
 identifier: "BWBR0028963"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-02"
-last_updated: "2010-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028963"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11077883"
-version_id: "18106262"
-internal_id: "C25174581"
-label_id: "11052384"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028963/2010-10-02/0"
-intitule_bron: "Stcrt.2010-14723"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14723"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14723"
-entry_into_force_date: "2010-10-02"
-jci_1_3: "jci1.3:c:BWBR0028963&z=2010-10-02&g=2010-10-02"
-jci_1_0: "1.0:c:BWBR0028963&g=2010-10-02"
-citeertitel_status: "officieel"
-short_title: "Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen"
-entry_into_force: "2010-10-02"
+publicatiedatum: 2010-10-02
+laatste_update: 2010-10-02
+status: geldig
+toestand: 2010-10-02
+bron: "https://wetten.overheid.nl/BWBR0028963"
+opgehaald: 2026-08-16
 ---
+
 # Onderlinge regeling rechtsopvolging en boedelscheiding APNA alsmede de rechtsopvolging van een aantal niet kapitaal gefinancierde pensioen(vervangende) verplichtingen van het Land de Nederlandse Antillen
-
-Hierna gezamenlijk te noemen: ‘Partijen’;
-
-Partijen nemen in overweging:
-
-dat binnen het staatkundig proces waarin het Koninkrijk der Nederlanden zich bevindt, de eilandgebieden Curaçao en Sint Maarten gekozen hebben voor de status van land binnen het Koninkrijk en dat Bonaire, Sint Eustatius en Saba (hierna ‘de BES-eilanden’) als openbare lichamen onderdeel zullen worden van het Nederlandse staatsbestel;
-
-dat als gevolg van voornoemde staatkundige ontwikkelingen de boedel van het Algemeen Pensioenfonds van de Nederlandse Antillen over de landen Curaçao, Sint Maarten en Nederland (voor de BES-eilanden) moet worden verdeeld, hetgeen onderlinge afspraken vergt;
-
-dat in artikel 9 van het Rijksbesluit rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen wordt bepaald dat de vaststelling van de omvang en de verdeling van dat vermogen geschieden overeenkomstig de daartoe in de Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen vastgelegde afspraken;
-
-dat het daarom wenselijk is om afspraken te maken over toedeling van de pensioenverplichtingen van het Algemeen Pensioenfonds van de Nederlandse Antillen naar de landen Curaçao, Sint Maarten en Nederland (voor de BES-eilanden) en over de, uitgaande van die toedeling, definitieve vaststelling en toedeling van het vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen;
-
-dat het voorts wenselijk is dat de pensioenfondsen van de landen zich moeten kunnen voorbereiden op de overkomst van de verplichtingen per tijdstip van transitie en er dus een voorlopige vaststelling van de aan NL , Sint Maarten en Curaçao toevallende delen en een hierop gebaseerde betaling van voorschotten moet plaatsvinden;
-
-dat het bovendien wenselijk is een en ander zodanig te regelen dat de continuïteit van de dienstverlening en aanspraken van de deelgenoten niet worden aangetast;
-
-dat het tevens wenselijk is om voor een aantal met pensioen gerelateerde uitkeringsregelingen een toedeling van de aanspraken van (toekomstig)uitkeringsgerechtigden over de nieuwe entiteiten af te spreken;
-
-dat het tenslotte wenselijk is om de afspraken neer te leggen in een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
@@ -61,41 +20,41 @@ Komen het volgende overeen:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **land:** Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland;
+- a. *land:* Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland;
 
-- b. **BES:** De openbare lichamen Bonaire, Sint Eustatius en Saba.
+- b. *BES:* De openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- c. **overnemende land:** het land dat ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=2&z=2010-10-02&g=2010-10-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=4&z=2010-10-02&g=2010-10-02) de met een bepaalde aanspraak op een uitkering of verzekering corresponderende verplichting overneemt.
+- c. *overnemende land:* het land dat ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=2&z=2010-10-02&g=2010-10-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=4&z=2010-10-02&g=2010-10-02) de met een bepaalde aanspraak op een uitkering of verzekering corresponderende verplichting overneemt.
 
-- d. **tijdstip van transitie:** het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
+- d. *tijdstip van transitie:* het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt;
 
-- e. **actieve deelnemer:** degene die onmiddellijk voorafgaand aan het tijdstip van transitie overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312).
+- e. *actieve deelnemer:* degene die onmiddellijk voorafgaand aan het tijdstip van transitie overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312).
 
-- f. **gepensioneerde:** degene die onmiddellijk voorafgaand aan het tijdstip van transitie gepensioneerd overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312) of de nagelaten betrekking van deze ambtenaar.
+- f. *gepensioneerde:* degene die onmiddellijk voorafgaand aan het tijdstip van transitie gepensioneerd overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312) of de nagelaten betrekking van deze ambtenaar.
 
-- g. **gewezen overheidsdienaar:** degene die onmiddellijk voorafgaand aan het tijdstip van transitie gewezen overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312).
+- g. *gewezen overheidsdienaar:* degene die onmiddellijk voorafgaand aan het tijdstip van transitie gewezen overheidsdienaar is in de zin van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no. 312).
 
-- h. **uitkering:** een uitkering, verstrekking of tegemoetkoming op grond van:
+- h. *uitkering:* een uitkering, verstrekking of tegemoetkoming op grond van:
 
-- 1°. De pensioenlandsverordening overheidsdienaren ( P.B. 1997, no. 312)
+   - 1°. De pensioenlandsverordening overheidsdienaren ( P.B. 1997, no. 312)
 
-- 2°. De Duurtetoeslagregeling pensioengerechtigden 1943 (P.B. 1943 no. 77)
+   - 2°. De Duurtetoeslagregeling pensioengerechtigden 1943 (P.B. 1943 no. 77)
 
-- 3°. De landsverordening verhoging leeftijdsgrens ambtenaren (P.B. 1959 no. 126) in samenhang met artikel VII van de Invoeringslandsverordening rechtspositionele regelingen 1998 (P.B. 1997, no. 313);
+   - 3°. De landsverordening verhoging leeftijdsgrens ambtenaren (P.B. 1959 no. 126) in samenhang met artikel VII van de Invoeringslandsverordening rechtspositionele regelingen 1998 (P.B. 1997, no. 313);
 
-- 4°. De landsverordening verhoging leeftijdsgrens 1996 (P.B. 1995 no 230)
+   - 4°. De landsverordening verhoging leeftijdsgrens 1996 (P.B. 1995 no 230)
 
-- 5°. De landsverordening Pensioenregeling politieke gezagsdragers (P.B. 2006, no 31) ;
+   - 5° De landsverordening Pensioenregeling politieke gezagsdragers (P.B. 2006, no 31) ;
 
-- 6°. De regeling uitkering bij wijze van pensioen. (P.B. 1959, no 126)
+   - 6° De regeling uitkering bij wijze van pensioen. (P.B. 1959, no 126)
 
-- 7°. De werkliedenverordening 1944 (P.B. 1978 no 376)
+   - 7° De werkliedenverordening 1944 (P.B. 1978 no 376)
 
-- i. **vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen:** het blijkens de eindbalans uit de op te stellen gecontroleerde jaarrekening, per tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie, totale vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen.
+- i. *vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen:* het blijkens de eindbalans uit de op te stellen gecontroleerde jaarrekening, per tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie, totale vermogen van het Algemeen Pensioenfonds van de Nederlandse Antillen.
 
-- j. **Premiereserves = voorziening pensioenverplichting (netto vpv):** de contante waarde van de opgebouwde pensioenrechten op basis van reeds verstreken dienstjaren tot aan het tijdstip van transitie. Voorst is in de waardering opgenomen de contante waarde van de toekomstige uitbetalings- en beheerskosten. Bij de berekening van de contante waarde is een rekenrente gehanteerd van 4% en GBM/V 2000–2005 -1-2. De overige actuariële grondslagen en veronderstellingen zijn gelijk de wetenschappelijke balans 2008
+- j. *Premiereserves = voorziening pensioenverplichting (netto vpv):* de contante waarde van de opgebouwde pensioenrechten op basis van reeds verstreken dienstjaren tot aan het tijdstip van transitie. Voorst is in de waardering opgenomen de contante waarde van de toekomstige uitbetalings- en beheerskosten. Bij de berekening van de contante waarde is een rekenrente gehanteerd van 4% en GBM/V 2000–2005 -1-2. De overige actuariële grondslagen en veronderstellingen zijn gelijk de wetenschappelijke balans 2008
 
-- k. **Werklieden:** deelgenoten in het Werkliedenpensioenfonds die een uitkering of een opgebouwd recht hebben op basis van de Werkliedenverodening 1944 (P.B. 1978 no 376)
+- k. *Werklieden:* deelgenoten in het Werkliedenpensioenfonds die een uitkering of een opgebouwd recht hebben op basis van de Werkliedenverodening 1944 (P.B. 1978 no 376)
 
 - l. Indien een land de bevoegdheid ter zake van de uitvoering van een uitkering dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe aangewezen rechtspersoonlijkheid bezittende uitvoeringsorganisatie, kan die uitvoeringsorganisatie voor de toepassing van deze regeling in de plaats van dat land treden.
 
@@ -240,119 +199,3 @@ Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in de
 1. Deze overeenkomst treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst. De overeenkomst wordt geplaatst in de Nederlandse Staatscourant en de Curaçaosche Courant.
 
 2. Deze overeenkomst kan worden aangehaald als ‘Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen’.
-
-## Bijlage 1
-
-Specificatie elektronisch bestanden zoals genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=3&z=2010-10-02&g=2010-10-02)
-
-De door APNA per transitiedatum op te leveren elektronisch bestanden bevatten ten minste de volgende gegevens. De gegevens worden in een nader overeen te komen format door APNA aangeleverd in een Excelbestand.
-
-- 1. Opgave van alle werkgevers van wie de medewerkers deelgenoot zijn in het APNA en op grond van de onderlinge regeling aan Nederland resp St. Maarten worden overgedragen.
-
-- 2. Opgave van alle actieve deelnemers, gewezen deelnemers en pensioengerechtigden die op grond van de onderlinge regeling aan Nederland resp St. Maarten worden overgedragen.
-
-- 3. Deze opgave bevat per deelnemer onderstaande gegevens per transitiedatum:
-
-Actieve deelgenoten
-
-- •. naam
-
-- •. polisnummer
-
-- •. adres
-
-- •. werkgever
-
-- •. geboortedatum
-
-- •. geslacht
-
-- •. naam medeverzekerde
-
-- •. geboortedatum medeverzekerde
-
-- •. geslacht medeverzekerde
-
-- •. datum in dienst
-
-- •. datum aanvang berekening dienstjaren (b.v. in verband met waardeoverdracht)
-
-- •. voltijd salaris
-
-- •. deeltijdpercentage
-
-- •. opgebouwde pensioenaanspraken tot 10-10-2010
-
-- •. aanspraken uit hoofde van waardeoverdracht
-
-- •. aanspraken op bijzonder nabestaandenpensioen
-
-- •. echtscheidingsdatum
-
-- •. uitzicht pensioenen (actieve deelnemer)
-
-- •. hoogte voorwaardelijke uitkeringen (duurtetoeslag, VUT)
-
-- •. hoogte overige aanspraken
-
-- •. arbeidsongeschiktheidspercentage
-
-- •. percentage vrijstelling premiebetaling
-
-Gewezen deelgenoten
-
-- •. de laatste standplaats
-
-- •. naam
-
-- •. polisnummer
-
-- •. adres
-
-- •. geboortedatum
-
-- •. geslacht
-
-- •. naam medeverzekerde
-
-- •. geboortedatum medeverzekerde
-
-- •. geslacht medeverzekerde
-
-- •. datum in dienst
-
-- •. datum aanvang berekening dienstjaren
-
-- •. opgebouwde pensioenaanspraken per 10-10-2010
-
-- •. hoogte voorwaardelijke uitkeringen (duurtetoeslag, VUT)
-
-- •. hoogte overige aanspraken
-
-Pensioengerechtigde deelgenoten
-
-- •. de laatste standplaats
-
-- •. naam
-
-- •. adres
-
-- •. polisnummer
-
-- •. geboortedatum
-
-- •. geslacht
-
-- •. naam medeverzekerde (inclusief eventuele kinderen)
-
-- •. geboortedatum medeverzekerde
-
-- •. geslacht medeverzekerde
-
-- •. hoogte pensioenuitkering per 10-10-2010
-
-- •. hoogte voorwaardelijke uitkeringen (duurtetoeslag, VUT)
-
-- •. hoogte overige aanspraken
-
-- •. uitkeringsgegevens (bankrekeningnummer etc.)

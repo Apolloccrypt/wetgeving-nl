@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 januari 2011, nr. RUA/A/2011/720, tot instelling van de adviescommissie bezwaar en beroep BES"
+citeertitel: "Instellingsbesluit Adviescommissie bezwaar en beroep BES"
 identifier: "BWBR0029506"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-01-29"
-last_updated: "2011-01-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029506"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11219053"
-version_id: "18369092"
-internal_id: "C25586661"
-label_id: "11193514"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029506/2011-01-29/0"
-intitule_bron: "Stcrt.2011-1464"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-01-21"
-intitule_published: "2011-01-28"
-intitule_in_force: "2011-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-1464"
-original_signed_date: "2011-01-21"
-original_published_date: "2011-01-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-1464"
-entry_into_force_date: "2011-01-29"
-jci_1_3: "jci1.3:c:BWBR0029506&z=2011-01-29&g=2011-01-29"
-jci_1_0: "1.0:c:BWBR0029506&g=2011-01-29"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie bezwaar en beroep BES"
-signed_date: "2011-01-21"
-entry_into_force: "2011-01-29"
+publicatiedatum: 2011-01-29
+laatste_update: 2011-01-29
+status: geldig
+toestand: 2011-01-29
+bron: "https://wetten.overheid.nl/BWBR0029506"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 januari 2011, nr. RUA/A/2011/720, tot instelling van de adviescommissie bezwaar en beroep BES
-
-Gelet op [artikel 70 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=70),
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de adviescommissie:** de adviescommissie bezwaar en beroep BES, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029506&artikel=2&z=2011-01-29&g=2011-01-29);
+- a. *de adviescommissie:* de adviescommissie bezwaar en beroep BES, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029506&artikel=2&z=2011-01-29&g=2011-01-29);
 
-- b. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- b. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- c. **het ministerie:** het Ministerie van Sociale Zaken en Werkgelegenheid;
+- c. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid;
 
 ##### Artikel 2. Instelling
 
@@ -109,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie bezwaar en beroep BES.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

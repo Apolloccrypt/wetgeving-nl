@@ -1,43 +1,21 @@
 ---
 title: "Besluit burgerlijke stand BES"
 identifier: "BWBR0028607"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028607"
+categorie: "Burgerlijk recht"
 soort: "AMvB-BES"
-stam_id: "10895423"
-version_id: "17878962"
-internal_id: "C24742211"
-label_id: "10870844"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028607/2022-04-01/0"
-intitule_bron: "Stb.2010-533"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-23"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-533"
-original_signed_date: "2010-09-23"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-533"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028607&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0028607&g=2022-04-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-23"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0028607"
+opgehaald: 2026-08-16
 ---
+
 # Besluit burgerlijke stand BES
 
 ### Hoofdstuk 1. De ambtenaar van de burgerlijke stand, de registers van de burgerlijke stand, de akten en de dubbelen, de latere vermeldingen, de afschriften en uittreksels en de in verband met het opmaken van bepaalde akten over te leggen bescheiden
 
-### Afdeling 1. De ambtenaar van de burgerlijke stand
+#### Afdeling 1. De ambtenaar van de burgerlijke stand
 
 ##### Artikel 1
 
@@ -61,7 +39,7 @@ Het personeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 De ambtenaar van de burgerlijke stand verricht, tenzij gewichtige redenen zich daartegen verzetten, onverwijld de werkzaamheden vereist voor het houden der registers.
 
-### Afdeling 2. De registers van de burgerlijke stand en de dubbelen van de akten
+#### Afdeling 2. De registers van de burgerlijke stand en de dubbelen van de akten
 
 ##### Artikel 6
 
@@ -91,7 +69,7 @@ Van de overbrenging maakt de beheerder van de centrale bewaarplaats een verklari
 
 Bij ministeriële regeling worden door Onze Minister van Justitie regels gesteld betreffende het voor de akten en de dubbelen of de afschriften te gebruiken papier en de voor het opmaken van deze stukken te hanteren middelen.
 
-### Afdeling 3. De klappers op de akten
+#### Afdeling 3. De klappers op de akten
 
 ##### Artikel 11
 
@@ -123,7 +101,7 @@ In de tienjaarlijkse klappers worden ten minste opgenomen:
 
 Bij ministeriële regeling kan Onze Minister van Justitie nadere regels stellen omtrent de inrichting van de klappers en de daarbij te hanteren middelen.
 
-### Afdeling 4. De akten en de latere vermeldingen
+#### Afdeling 4. De akten en de latere vermeldingen
 
 ##### Artikel 15
 
@@ -209,9 +187,9 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 
 ##### Artikel 24
 
-Het uittreksel, bedoeld in de [artikelen 19a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=19a), en [19g, tweede lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=19g) wordt opgemaakt overeenkomstig de bepalingen van de op 8 september 1976 te Wenen tot stand gekomen Overeenkomst betreffende de uitgifte van meertalige uittreksels uit akten van de burgerlijke stand (Trb. 1977, 70).
+Het uittreksel, bedoeld in de [artikelen 19a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=19a), en [19g, tweede lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=19g) wordt opgemaakt overeenkomstig de bepalingen van de op 8 september 1976 te Wenen tot stand gekomen Overeenkomst betreffende de uitgifte van meertalige uittreksels uit akten van de burgerlijke stand (Trb. 1977, 70).
 
-### Afdeling 5. Afschriften en uittreksels
+#### Afdeling 5. Afschriften en uittreksels
 
 ##### Artikel 25
 
@@ -225,7 +203,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 3. De in het eerste en tweede lid bedoelde afschriften of uittreksels worden door de bewaarder van het register voorzien van de verklaring dat de daarin vermelde gegevens overeenstemmen met, dan wel zijn ontleend aan het origineel. Zij worden door hem gedagtekend en ondertekend en voorzien van zijn dienststempel.
 
-### Afdeling 6. De in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige
+#### Afdeling 6. De in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige
 
 ##### Artikel 27
 
@@ -261,7 +239,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 3. Onze Minister van Justitie kan nadere regels stellen betreffende de formulieren bestemd voor het opmaken van de in het eerste lid bedoelde verklaring alsmede de in het tweede lid bedoelde enveloppen.
 
-### Afdeling 7. De voor het huwelijk vereiste bescheiden en de stuiting van het huwelijk
+#### Afdeling 7. De voor het huwelijk vereiste bescheiden en de stuiting van het huwelijk
 
 ##### Artikel 28
 
@@ -287,41 +265,41 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 - a. In een deel A, de volgende gegevens betreffende de persoon op wie de verklaring betrekking heeft, zijn echtgenoot of aanstaande echtgenoot en zijn kinderen, alsmede gegevens betreffende zijn verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba:
 
-- 1. de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de persoon op wie de verklaring betrekking heeft;
+   - 1. de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de persoon op wie de verklaring betrekking heeft;
 
-- 2. het woonadres, met vermelding van het land, de plaats, de straat en het huisnummer, zo mogelijk de postcode alsmede de telefoonnummers van de persoon op wie de verklaring betrekking heeft;
+   - 2. het woonadres, met vermelding van het land, de plaats, de straat en het huisnummer, zo mogelijk de postcode alsmede de telefoonnummers van de persoon op wie de verklaring betrekking heeft;
 
-- 3. een omschrijving van het identiteitsbewijs, met vermelding van het nummer en de plaats en de datum van afgifte;
+   - 3. een omschrijving van het identiteitsbewijs, met vermelding van het nummer en de plaats en de datum van afgifte;
 
-- 4. indien van toepassing, een omschrijving van het overgelegde bewijsstuk van permanent verblijf in het buitenland van de persoon op wie de verklaring betrekking heeft;
+   - 4. indien van toepassing, een omschrijving van het overgelegde bewijsstuk van permanent verblijf in het buitenland van de persoon op wie de verklaring betrekking heeft;
 
-- 5. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de echtgenoot of de aanstaande echtgenoot van de persoon op wie de verklaring betrekking heeft;
+   - 5. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de echtgenoot of de aanstaande echtgenoot van de persoon op wie de verklaring betrekking heeft;
 
-- 6. het woonadres, met vermelding van de onder 2 bedoelde gegevens, van de echtgenoot of de aanstaande echtgenoot van de persoon op wie de verklaring betrekking heeft;
+   - 6. het woonadres, met vermelding van de onder 2 bedoelde gegevens, van de echtgenoot of de aanstaande echtgenoot van de persoon op wie de verklaring betrekking heeft;
 
-- 7. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van het kind of de kinderen uit het huwelijk van de persoon op wie de verklaring betrekking heeft of uit zijn relatie met de aanstaande echtgenoot, die tot hem in familierechtelijke betrekking staan;
+   - 7. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van het kind of de kinderen uit het huwelijk van de persoon op wie de verklaring betrekking heeft of uit zijn relatie met de aanstaande echtgenoot, die tot hem in familierechtelijke betrekking staan;
 
-- 8. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de eerdere echtgenoot of echtgenoten van de persoon op wie de verklaring betrekking heeft, met vermelding van het land, de plaats en de datum van de voltrekking alsmede het land, de plaats en de datum van ontbinding van dat huwelijk of deze huwelijken;
+   - 8. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van de eerdere echtgenoot of echtgenoten van de persoon op wie de verklaring betrekking heeft, met vermelding van het land, de plaats en de datum van de voltrekking alsmede het land, de plaats en de datum van ontbinding van dat huwelijk of deze huwelijken;
 
-- 9. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van het kind of de kinderen uit een eerder huwelijk of uit eerdere huwelijken dan wel van andere kinderen die in familierechtelijke betrekking staan tot de persoon op wie de verklaring betrekking heeft;
+   - 9. indien van toepassing, de geslachtsnaam, de voornamen, de datum van geboorte, het land van geboorte, de plaats van geboorte en de nationaliteit van het kind of de kinderen uit een eerder huwelijk of uit eerdere huwelijken dan wel van andere kinderen die in familierechtelijke betrekking staan tot de persoon op wie de verklaring betrekking heeft;
 
-- 10. de duur van het verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba tot de datum van de verklaring, alsmede de titel tot verblijf of de grond waarop een verzoek om toelating is ingediend, dan wel de mededeling dat de vreemdeling voornemens is niet in de openbare lichamen Bonaire, Sint Eustatius en Saba te verblijven;
+   - 10. de duur van het verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba tot de datum van de verklaring, alsmede de titel tot verblijf of de grond waarop een verzoek om toelating is ingediend, dan wel de mededeling dat de vreemdeling voornemens is niet in de openbare lichamen Bonaire, Sint Eustatius en Saba te verblijven;
 
-- 11. de verklaring van de aanvrager dat de onder 1 tot en met 10 vermelde opgaven naar waarheid zijn gedaan en diens handtekening.
+   - 11. de verklaring van de aanvrager dat de onder 1 tot en met 10 vermelde opgaven naar waarheid zijn gedaan en diens handtekening.
 
 - b. In een deel B, de volgende door de gezaghebber te verstrekken gegevens omtrent de verblijfsrechtelijke positie van de persoon op wie de verklaring betrekking heeft:
 
-- 1. indien van toepassing, de mededeling dat de persoon op wie de verklaring betrekking heeft, permanent in het buitenland is gevestigd en geen aanvraag om een vergunning tot verblijf heeft ingediend;
+   - 1. indien van toepassing, de mededeling dat de persoon op wie de verklaring betrekking heeft, permanent in het buitenland is gevestigd en geen aanvraag om een vergunning tot verblijf heeft ingediend;
 
-- 2. indien van toepassing, de mededeling dat betrokkene in het bezit is van een vergunning tot verblijf, met vermelding van het doel, de datum van verlening en de datum van verval;
+   - 2. indien van toepassing, de mededeling dat betrokkene in het bezit is van een vergunning tot verblijf, met vermelding van het doel, de datum van verlening en de datum van verval;
 
-- 3. indien van toepassing, de datum van verlening en intrekking van een eerdere vergunning tot verblijf, de datum van verwijdering of de omstandigheid dat tegen de intrekking of de verwijdering een procedure aanhangig is gemaakt, onder vermelding dat betrokkene de afloop al dan niet in de openbare lichamen Bonaire, Sint Eustatius en Saba mag afwachten;
+   - 3. indien van toepassing, de datum van verlening en intrekking van een eerdere vergunning tot verblijf, de datum van verwijdering of de omstandigheid dat tegen de intrekking of de verwijdering een procedure aanhangig is gemaakt, onder vermelding dat betrokkene de afloop al dan niet in de openbare lichamen Bonaire, Sint Eustatius en Saba mag afwachten;
 
-- 4. indien van toepassing, de omstandigheid dat betrokkene een verzoek om toelating heeft ingediend, onder vermelding van het beoogde doel en de datum, de omstandigheid dat dat verzoek al dan niet definitief is afgewezen, onder vermelding dat betrokkene al dan niet de afloop van de procedure in de openbare lichamen Bonaire, Sint Eustatius en Saba mag afwachten of de datum van verwijdering;
+   - 4. indien van toepassing, de omstandigheid dat betrokkene een verzoek om toelating heeft ingediend, onder vermelding van het beoogde doel en de datum, de omstandigheid dat dat verzoek al dan niet definitief is afgewezen, onder vermelding dat betrokkene al dan niet de afloop van de procedure in de openbare lichamen Bonaire, Sint Eustatius en Saba mag afwachten of de datum van verwijdering;
 
-- 5. indien van toepassing, de omstandigheid dat betrokkene eerder een of meer verzoeken om toelating heeft ingediend, onder vermelding van de onder 4 genoemde gegevens;
+   - 5. indien van toepassing, de omstandigheid dat betrokkene eerder een of meer verzoeken om toelating heeft ingediend, onder vermelding van de onder 4 genoemde gegevens;
 
-- 6. indien van toepassing, andere gegevens met betrekking tot de verblijfsrechtelijke positie van de persoon op wie de verklaring betrekking heeft.
+   - 6. indien van toepassing, andere gegevens met betrekking tot de verblijfsrechtelijke positie van de persoon op wie de verklaring betrekking heeft.
 
 - c. In een deel C, eventuele opmerkingen van de gezaghebber.
 
@@ -331,7 +309,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 2. De in het eerste lid genoemde akte wordt gevoegd bij de akte van huwelijksaangifte nadat aan die akte de in [artikel 20a, vierde lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=20a) voorgeschreven latere vermelding is toegevoegd.
 
-### Afdeling 8. De centrale bewaarplaats voor de dubbelen of de afschriften van de akten van de burgerlijke stand en voor de latere vermeldingen
+#### Afdeling 8. De centrale bewaarplaats voor de dubbelen of de afschriften van de akten van de burgerlijke stand en voor de latere vermeldingen
 
 ##### Artikel 30
 
@@ -351,7 +329,7 @@ De ambtenaar van de burgerlijke stand zendt maandelijks de tekst van de door hem
 
 2. De dubbelen of de afschriften en de daarop betrekking hebbende latere vermeldingen worden op zodanige wijze gearchiveerd, dat het verband tussen de latere vermeldingen en de akten, waarop zij betrekking hebben, kan worden gelegd.
 
-### Afdeling 9. Bijzondere bepalingen in verband met het houden van registers door consulaire ambtenaren
+#### Afdeling 9. Bijzondere bepalingen in verband met het houden van registers door consulaire ambtenaren
 
 ##### Artikel 33
 
@@ -367,7 +345,7 @@ Verzending aan of door consulaire ambtenaren van stukken die betrekking hebben o
 
 ### Hoofdstuk 2. De indeling en de inhoud van de door de ambtenaar van de burgerlijke stand op te maken akten en de hierop betrekking hebbende latere vermeldingen
 
-### Afdeling 1. De indeling van de akten van geboorte, van huwelijk en van overlijden en de akten van inschrijving daarvan
+#### Afdeling 1. De indeling van de akten van geboorte, van huwelijk en van overlijden en de akten van inschrijving daarvan
 
 ##### Artikel 36
 
@@ -377,7 +355,7 @@ De akten van geboorte, van huwelijk en van overlijden bestaan uit vijf gedeelten
 
 Akten van inschrijving van rechterlijke uitspraken omtrent de rechtsgeldigheid in de openbare lichamen Bonaire, Sint Eustatius en Saba van in het buitenland opgemaakte akten van geboorte, van huwelijk en van overlijden dan wel van rechterlijke uitspraken als bedoeld in artikel 21 van Boek 1 van het Burgerlijk Wetboek BES, worden op de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=1&artikel=36&z=2022-04-01&g=2022-04-01) aangegeven wijze ingedeeld.
 
-### Afdeling 2. Gegevens die steeds in de akten, de akten van inschrijving, de latere vermeldingen en de uittreksels worden opgenomen
+#### Afdeling 2. Gegevens die steeds in de akten, de akten van inschrijving, de latere vermeldingen en de uittreksels worden opgenomen
 
 ##### Artikel 38
 
@@ -427,7 +405,7 @@ In het hoofd van elke akte wordt het openbaar lichaam Bonaire, Sint Eustatius of
 
 2. Aan de voet van elk afschrift of uittreksel worden de in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=1&afdeling=5&artikel=26&z=2022-04-01&g=2022-04-01), genoemde gegevens opgenomen.
 
-### Afdeling 3. De akte van geboorte en het uittreksel daarvan
+#### Afdeling 3. De akte van geboorte en het uittreksel daarvan
 
 ##### Artikel 43
 
@@ -479,7 +457,7 @@ De voorlopige akte van geboorte, bedoeld in [artikel 19a, tweede lid, van Boek 1
 
 Het uittreksel van de akte van geboorte vermeldt de in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=3&artikel=43&z=2022-04-01&g=2022-04-01), onderscheidenlijk [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=3&artikel=44&z=2022-04-01&g=2022-04-01), genoemde gegevens, met inachtneming van de gegevens blijkend uit latere vermeldingen dan wel uit een bijvoeging als bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=10&artikel=66&z=2022-04-01&g=2022-04-01).
 
-### Afdeling 4. De akte van erkenning, de akte van ontkenning van het vaderschap door de moeder en de latere vermelding daarvan
+#### Afdeling 4. De akte van erkenning, de akte van ontkenning van het vaderschap door de moeder en de latere vermelding daarvan
 
 ##### Artikel 49
 
@@ -529,7 +507,7 @@ De latere vermelding van een notariële akte van erkenning vermeldt de in [artik
 
 De latere vermelding van een in het buitenland opgemaakte akte van erkenning, dan wel van een in het buitenland gedane rechterlijke uitspraak houdende gegrondverklaring van de ontkenning van het door het huwelijk ontstane vaderschap of vernietiging van de erkenning, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=4&artikel=49&z=2022-04-01&g=2022-04-01), of [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=4&artikel=51&z=2022-04-01&g=2022-04-01) genoemde gegevens.
 
-### Afdeling 5. De latere vermelding van een rechterlijke uitspraak inzake adoptie
+#### Afdeling 5. De latere vermelding van een rechterlijke uitspraak inzake adoptie
 
 ##### Artikel 53
 
@@ -549,7 +527,7 @@ De latere vermelding van een rechterlijke uitspraak waarbij adoptie wordt uitges
 
 De latere vermelding van een in het buitenland gedane rechterlijke uitspraak waarbij adoptie wordt uitgesproken dan wel herroepen, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=5&artikel=53&z=2022-04-01&g=2022-04-01) genoemde gegevens.
 
-### Afdeling 6. De akte van huwelijksaangifte
+#### Afdeling 6. De akte van huwelijksaangifte
 
 ##### Artikel 55
 
@@ -561,7 +539,7 @@ De akte van huwelijksaangifte vermeldt:
 
 - c. het openbaar lichaam Bonaire, Sint Eustatius of Saba waarin overeenkomstig [artikel 43, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=43) de huwelijksvoltrekking zal plaatsvinden.
 
-### Afdeling 7. De akte van toestemming tot het huwelijk
+#### Afdeling 7. De akte van toestemming tot het huwelijk
 
 ##### Artikel 56
 
@@ -571,7 +549,7 @@ De door de ambtenaar van de burgerlijke stand opgemaakte akte van toestemming to
 
 - b. de geslachtsnaam, de voornamen en, voor zover bekend, de plaats en de datum van geboorte van partijen alsmede de hoedanigheid waarin zij hun toestemming geven.
 
-### Afdeling 8. De huwelijksakte en het uittreksel daarvan
+#### Afdeling 8. De huwelijksakte en het uittreksel daarvan
 
 ##### Artikel 57
 
@@ -601,7 +579,7 @@ De door de ambtenaar van de burgerlijke stand opgemaakte akte van toestemming to
 
 Het uittreksel van de huwelijksakte vermeldt de in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028607&hoofdstuk=2&afdeling=8&artikel=57&z=2022-04-01&g=2022-04-01), genoemde gegevens. Indien van toepassing bevat het uittreksel tevens de gegevens inzake de plaats en datum van de echtscheiding of de ontbinding van het huwelijk na scheiding van tafel en bed.
 
-### Afdeling 9. De akte van inschrijving, onderscheidenlijk de latere vermelding van echtscheiding en van ontbinding van een huwelijk na scheiding van tafel en bed
+#### Afdeling 9. De akte van inschrijving, onderscheidenlijk de latere vermelding van echtscheiding en van ontbinding van een huwelijk na scheiding van tafel en bed
 
 ##### Artikel 60
 
@@ -615,7 +593,7 @@ Het uittreksel van de huwelijksakte vermeldt de in [artikel 57, eerste lid](http
 
 2. De latere vermelding van een rechterlijke uitspraak houdende echtscheiding of ontbinding van een huwelijk na scheiding van tafel en bed, vermeldt de in het eerste lid, onderdelen b en c, genoemde gegevens.
 
-### Afdeling 10. De akte van overlijden en het uittreksel daarvan
+#### Afdeling 10. De akte van overlijden en het uittreksel daarvan
 
 ##### Artikel 61
 

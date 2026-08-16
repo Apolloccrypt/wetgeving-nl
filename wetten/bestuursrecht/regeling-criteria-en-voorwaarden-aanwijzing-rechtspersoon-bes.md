@@ -1,41 +1,17 @@
 ---
 title: "Regeling criteria en voorwaarden aanwijzing rechtspersoon BES"
 identifier: "BWBR0028786"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028786"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11025073"
-version_id: "18014122"
-internal_id: "C25040461"
-label_id: "10999494"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028786/2010-10-10/0"
-intitule_bron: "Stcrt.2010-15064"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-24"
-intitule_published: "2010-10-08"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15064"
-original_signed_date: "2010-09-24"
-original_published_date: "2010-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15064"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028786&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028786&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-24"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028786"
+opgehaald: 2026-08-16
 ---
-# Regeling criteria en voorwaarden aanwijzing rechtspersoon BES
 
-Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
+# Regeling criteria en voorwaarden aanwijzing rechtspersoon BES
 
 ##### Artikel 1
 
@@ -47,9 +23,9 @@ Een stichting of vereniging komt slechts in aanmerking voor een aanwijzing als b
 
 - a. als doelstelling of mede als doelstelling heeft het verrichten van werkzaamheden die door de overheid worden aangemerkt als behorende tot een terrein van belangenbehartiging dat de overheid zich als eigen zorg aantrekt, met dien verstande dat gewaarborgd is dat:
 
-- 1°. de werkzaamheid van de rechtspersoon geharmoniseerd is met het overheidsbeleid, en
+   - 1° de werkzaamheid van de rechtspersoon geharmoniseerd is met het overheidsbeleid, en
 
-- 2°. voor wat betreft de arbeidsvoorwaardenregeling ten aanzien van de vaststelling van de salarissen en de overige arbeidsvoorwaarden normen worden gehanteerd die zoveel mogelijk overeenkomen met die welke gelden voor vergelijkbaar personeel van overheidsdiensten die taken verrichten welke met die van de rechtspersoon vergelijkbaar zijn;
+   - 2° voor wat betreft de arbeidsvoorwaardenregeling ten aanzien van de vaststelling van de salarissen en de overige arbeidsvoorwaarden normen worden gehanteerd die zoveel mogelijk overeenkomen met die welke gelden voor vergelijkbaar personeel van overheidsdiensten die taken verrichten welke met die van de rechtspersoon vergelijkbaar zijn;
 
 - b. in een zodanige financiële verhouding tot de overheid staat dat de uitgaven van de rechtspersoon jaarlijks geheel of ten dele worden gefinancierd uit de openbare kas.
 
@@ -59,9 +35,9 @@ Een naamloze vennootschap komt slechts in aanmerking voor een aanwijzing als bed
 
 - a. als doelstelling of mede als doelstelling heeft het verrichten van werkzaamheden die door de overheid worden aangemerkt als behorende tot een terrein van belangenbehartiging dat de overheid zich als eigen zorg aantrekt, met dien verstande dat gewaarborgd is dat:
 
-- 1°. de werkzaamheid van de vennootschap geharmoniseerd is met het overheidsbeleid, en
+   - 1° de werkzaamheid van de vennootschap geharmoniseerd is met het overheidsbeleid, en
 
-- 2°. voor wat betreft de arbeidsvoorwaardenregeling normen worden gehanteerd die zoveel mogelijk overeenkomen met die welke gelden voor vergelijkbaar personeel van overheidsdiensten die taken verrichten welke met die van de vennootschap vergelijkbaar zijn;
+   - 2° voor wat betreft de arbeidsvoorwaardenregeling normen worden gehanteerd die zoveel mogelijk overeenkomen met die welke gelden voor vergelijkbaar personeel van overheidsdiensten die taken verrichten welke met die van de vennootschap vergelijkbaar zijn;
 
 - b. in een zodanige financiële verhouding tot de overheid staat dat de aandelen en haar kapitaal op het tijdstip van de aanwijzing geheel of ten dele in handen zijn van de overheid dan wel uit hoofde van een overeenkomst naar burgerlijk recht een financiële verplichting heeft jegens de overheid.
 

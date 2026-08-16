@@ -1,67 +1,45 @@
 ---
 title: "Wet tot inschrijving van arbeidskrachten 1945 BES"
 identifier: "BWBR0028724"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028724"
+categorie: "Arbeidsrecht"
 soort: "wet-BES"
-stam_id: "10945013"
-version_id: "17931262"
-internal_id: "C24808541"
-label_id: "10919634"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028724/2013-07-01/0"
-intitule_bron: "Stb.2010-600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-600"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-600"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028724&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0028724&g=2013-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0028724"
+opgehaald: 2026-08-16
 ---
+
 # Wet tot inschrijving van arbeidskrachten 1945 BES
 
 ##### Artikel 1
 
 In deze wet wordt verstaan:
 
-- –. onder **werkgever**, ieder natuurlijk of rechtspersoon, die anderen in dienst heeft. Voor de toepassing van deze wet worden de openbare lichamen Bonaire, Sint Eustatius en Saba, als ook de Nederlandse regering als werkgever in de zin van dit artikel aangemerkt en wordt voor de werkgever, die in de openbare lichamen Bonaire, Sint Eustatius en Saba arbeiders in dienst heeft, doch elders woont of gevestigd is, diens vertegenwoordiger of agent in de openbare lichamen Bonaire, Sint Eustatius en Saba als werkgever beschouwd;
+- – onder *werkgever*, ieder natuurlijk of rechtspersoon, die anderen in dienst heeft. Voor de toepassing van deze wet worden de openbare lichamen Bonaire, Sint Eustatius en Saba, als ook de Nederlandse regering als werkgever in de zin van dit artikel aangemerkt en wordt voor de werkgever, die in de openbare lichamen Bonaire, Sint Eustatius en Saba arbeiders in dienst heeft, doch elders woont of gevestigd is, diens vertegenwoordiger of agent in de openbare lichamen Bonaire, Sint Eustatius en Saba als werkgever beschouwd;
 
-- –. onder arbeider, ieder die in dienst van den werkgever tegen loon werkzaam is. Voor de toepassing van deze wet worden, hoewel zij geen loon ontvangen, als arbeider beschouwd: volontairs, leerlingen en dergelijke personen, die in verband met hun opleiding nog geen loon ontvangen.
+- – onder arbeider, ieder die in dienst van den werkgever tegen loon werkzaam is. Voor de toepassing van deze wet worden, hoewel zij geen loon ontvangen, als arbeider beschouwd: volontairs, leerlingen en dergelijke personen, die in verband met hun opleiding nog geen loon ontvangen.
 
-- –. Niet als arbeider worden beschouwd:
+- – Niet als arbeider worden beschouwd:
 
-- a. thuiswerkers,
+   - a. thuiswerkers,
 
-- b. personen, die in aangenomen werk voor den werkgever arbeid verrichten en daarbij aangemerkt worden zelf werkgever te zijn;
+   - b. personen, die in aangenomen werk voor den werkgever arbeid verrichten en daarbij aangemerkt worden zelf werkgever te zijn;
 
-- c. Hoofden of Bestuurders van een bedrijf of onderneming, echtgenooten, ouders en inwonende kinderen van den werkgever, die uitsluitend voor zijn rekening arbeid verrichten,
+   - c. Hoofden of Bestuurders van een bedrijf of onderneming, echtgenooten, ouders en inwonende kinderen van den werkgever, die uitsluitend voor zijn rekening arbeid verrichten,
 
-- d. schepelingen,
+   - d. schepelingen,
 
-- e. militairen,
+   - e. militairen,
 
-- f. geestelijken, ordebroeders en religieuzen,
+   - f. geestelijken, ordebroeders en religieuzen,
 
-- g. personen, wier jaarlijks in geld vastgesteld arbeidsinkomen tienduizend gulden of meer bedraagt;
+   - g. personen, wier jaarlijks in geld vastgesteld arbeidsinkomen tienduizend gulden of meer bedraagt;
 
-- –. onder arbeid, alle werkzaamheden, verricht in dienst van den werkgever;
+- – onder arbeid, alle werkzaamheden, verricht in dienst van den werkgever;
 
-- –. onder loon, elke uitkeering, welke de arbeider als vergoeding voor zijn arbeid van den werkgever ontvangt, uitgezonderd overwerk- en premiegelden; indien het loon geheel of gedeeltelijk bestaat in huisvesting, verstrekkingen in natura of wel in beide, wordt de geldswaarde geschat; als loon volgens deze wet gelden tevens alle ontvangsten in geld van derden, welke verband houden met ten behoeve van den werkgever verrichten arbeid.
+- – onder loon, elke uitkeering, welke de arbeider als vergoeding voor zijn arbeid van den werkgever ontvangt, uitgezonderd overwerk- en premiegelden; indien het loon geheel of gedeeltelijk bestaat in huisvesting, verstrekkingen in natura of wel in beide, wordt de geldswaarde geschat; als loon volgens deze wet gelden tevens alle ontvangsten in geld van derden, welke verband houden met ten behoeve van den werkgever verrichten arbeid.
 
 ##### Artikel 2
 
@@ -145,7 +123,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 3. Voor werkgevers, die uitsluitend arbeiders in dienst hebben voor het verrichten van huiselijke diensten, geldt de verplichting, omschreven in lid 1 van dit artikel, niet.
 
-## Toezicht
+### Toezicht
 
 ##### Artikel 9a
 
@@ -165,7 +143,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-## Strafbepalingen
+### Strafbepalingen
 
 ##### Artikel 10
 
@@ -183,7 +161,7 @@ Niet naleving van een van de voorschriften van deze wet of van de voorschriften 
 
 De bij deze wet strafbaar gestelde feiten worden als overtredingen beschouwd.
 
-## Slotbepalingen
+### Slotbepalingen
 
 ##### Artikel 14
 

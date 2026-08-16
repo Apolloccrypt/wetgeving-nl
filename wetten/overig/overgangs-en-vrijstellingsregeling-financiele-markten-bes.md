@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de minister van Financiën houdende aanvullende regels betreffende het overgangsrecht voor de financiële markten in Bonaire, Sint Eustatius en Saba, alsmede regels betreffende vrijstellingen op grond van de Wet toezicht bank- en kredietwezen 1994 BES en de Wet toezicht verzekeringsbedrijf BES (Overgangs- en vrijstellingsregeling financiële markten BES)"
+citeertitel: "Overgangs- en vrijstellingsregeling financiële markten BES"
 identifier: "BWBR0028601"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2012-05-23"
-last_updated: "2012-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028601"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "10893033"
-version_id: "17875512"
-internal_id: "C24750491"
-label_id: "10867744"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028601/2012-05-23/0"
-intitule_bron: "Stcrt.2010-14607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-17"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14607"
-original_signed_date: "2010-09-17"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14607"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028601&z=2012-05-23&g=2012-05-23"
-jci_1_0: "1.0:c:BWBR0028601&g=2012-05-23"
-citeertitel_status: "officieel"
-short_title: "Overgangs- en vrijstellingsregeling financiële markten BES"
-signed_date: "2010-09-17"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2012-05-23
+status: geldig
+toestand: 2012-05-23
+bron: "https://wetten.overheid.nl/BWBR0028601"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de minister van Financiën houdende aanvullende regels betreffende het overgangsrecht voor de financiële markten in Bonaire, Sint Eustatius en Saba, alsmede regels betreffende vrijstellingen op grond van de Wet toezicht bank- en kredietwezen 1994 BES en de Wet toezicht verzekeringsbedrijf BES (Overgangs- en vrijstellingsregeling financiële markten BES)
-
-Gelet op [artikel 6.16 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028129&artikel=6.16), [artikel 1b, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1b) en [artikel 7, tweede lid, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=7);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Inleidende bepalingen
 
@@ -48,37 +20,37 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 In deze regeling wordt verstaan onder:
 
-- **administrateur:** een administrateur als bedoeld in [artikel 1, onderdeel h, van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=1);
+- *administrateur:* een administrateur als bedoeld in [artikel 1, onderdeel h, van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=1);
 
-- **assurantiebemiddelaar:** een assurantiebemiddelaar als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=1);
+- *assurantiebemiddelaar:* een assurantiebemiddelaar als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=1);
 
-- **beleggingsinstelling:** een beleggingsinstelling als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=1);
+- *beleggingsinstelling:* een beleggingsinstelling als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=1);
 
-- **bijkantoor:** een duurzaam in een openbaar lichaam aanwezig onderdeel zonder rechtspersoonlijkheid van een financiële onderneming;
+- *bijkantoor:* een duurzaam in een openbaar lichaam aanwezig onderdeel zonder rechtspersoonlijkheid van een financiële onderneming;
 
-- **effectenbeurs:** een effectenbeurs als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366&artikel=1);
+- *effectenbeurs:* een effectenbeurs als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366&artikel=1);
 
-- **financiële onderneming:** een administrateur, assurantiebemiddelaar, beleggingsinstelling, geldtransactiekantoor, houder van een effectenbeurs, kredietinstelling, trustkantoor of verzekeraar;
+- *financiële onderneming:* een administrateur, assurantiebemiddelaar, beleggingsinstelling, geldtransactiekantoor, houder van een effectenbeurs, kredietinstelling, trustkantoor of verzekeraar;
 
-- **geldtransactiekantoor:** een geldtransactiekantoor als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1);
+- *geldtransactiekantoor:* een geldtransactiekantoor als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1);
 
-- **groep:** economische eenheid van organisatorisch verbonden rechtspersonen, vennootschappen of natuurlijke personen;
+- *groep:* economische eenheid van organisatorisch verbonden rechtspersonen, vennootschappen of natuurlijke personen;
 
-- **houder van een effectenbeurs:** degene die een effectenbeurs houdt;
+- *houder van een effectenbeurs:* degene die een effectenbeurs houdt;
 
-- **kredietinstelling:** een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1);
+- *kredietinstelling:* een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=1);
 
-- **De Nederlandsche Bank:** De Nederlandsche Bank N.V.;
+- *De Nederlandsche Bank:* De Nederlandsche Bank N.V.;
 
-- **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **trustkantoor:** een trustkantoor als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=1);
+- *trustkantoor:* een trustkantoor als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=1);
 
-- **verzekeraar:** een verzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=1);
+- *verzekeraar:* een verzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=1);
 
-- **vestiging:** zetel of bijkantoor;
+- *vestiging:* zetel of bijkantoor;
 
-- **zetel:** de plaats waar een financiële onderneming blijkens haar statuten of reglementen is gevestigd dan wel, indien zij geen rechtspersoon is, de plaats waar de onderneming haar hoofdvestiging heeft.
+- *zetel:* de plaats waar een financiële onderneming blijkens haar statuten of reglementen is gevestigd dan wel, indien zij geen rechtspersoon is, de plaats waar de onderneming haar hoofdvestiging heeft.
 
 #### § 2. Aanvullende regels van overgangsrecht
 
@@ -171,5 +143,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als Overgangs- en vrijstellingsregeling financiële markten BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

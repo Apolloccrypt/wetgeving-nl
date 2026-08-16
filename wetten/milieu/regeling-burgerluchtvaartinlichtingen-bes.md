@@ -1,38 +1,16 @@
 ---
 title: "Regeling burgerluchtvaartinlichtingen BES"
 identifier: "BWBR0028661"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028661"
+categorie: "Verkeer"
 soort: "ministeriele-regeling-BES"
-stam_id: "10920063"
-version_id: "17903622"
-internal_id: "C24980401"
-label_id: "10894644"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028661/2010-10-10/0"
-intitule_bron: "Stcrt.2010-14849"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-14849"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-14849"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028661&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028661&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028661"
+opgehaald: 2026-08-16
 ---
+
 # Regeling burgerluchtvaartinlichtingen BES
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -41,25 +19,25 @@ entry_into_force: "2010-10-10"
 
 1. In deze regeling wordt verstaan onder:
 
-- **Aeronautical Fixed Service (AFS):** een communicatie-netwerk voor luchtverkeersdiensten;
+- *Aeronautical Fixed Service (AFS):* een communicatie-netwerk voor luchtverkeersdiensten;
 
-- **Aeronautical Information Circular (AIC):** een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publicatie in een NOTAM of de AIP, maar wel in verband staan met de vliegveiligheid, de vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
+- *Aeronautical Information Circular (AIC):* een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publicatie in een NOTAM of de AIP, maar wel in verband staan met de vliegveiligheid, de vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
 
-- **Aeronautical Information Services (AIS):** een dienst die is belast met het geven van luchtvaartinlichtingen en/of luchtvaartdata die nodig zijn voor de veiligheid, regelmaaten efficiëntie van het luchtverkeer binnen de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de [Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028797)
+- *Aeronautical Information Services (AIS):* een dienst die is belast met het geven van luchtvaartinlichtingen en/of luchtvaartdata die nodig zijn voor de veiligheid, regelmaaten efficiëntie van het luchtverkeer binnen de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de [Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028797)
 
-- **amendement:** permanente verandering van de inlichtingen in de luchtvaartgids;
+- *amendement:* permanente verandering van de inlichtingen in de luchtvaartgids;
 
-- **bijlage 15:** Aeronautical Information Services, 10e editie van Bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973,109);
+- *bijlage 15:* Aeronautical Information Services, 10e editie van Bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973,109);
 
-- **international NOTAM office:** de luchtvaartinlichtingendienst die door de Minister is aangewezen voor het internationaal uitwisselen van NOTAM’s;
+- *international NOTAM office:* de luchtvaartinlichtingendienst die door de Minister is aangewezen voor het internationaal uitwisselen van NOTAM’s;
 
-- **luchtvaartgids:** een uitgave onder verantwoordelijkheid van de Minister van Verkeer en Vervoer met luchtvaartinlichtingen van blijvende aard essentieel voor de vluchtuitvoering;
+- *luchtvaartgids:* een uitgave onder verantwoordelijkheid van de Minister van Verkeer en Vervoer met luchtvaartinlichtingen van blijvende aard essentieel voor de vluchtuitvoering;
 
-- **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen;
+- *luchtvaartkaart:* een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen;
 
-- **Notice to Airmen (NOTAM):** een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+- *Notice to Airmen (NOTAM):* een bericht aan luchtvarenden gedistribueerd middels telecommunicatie met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
 
-- **Supplement:** tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
+- *Supplement:* tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
 
 2. Een wijziging van Bijlage 15 bij het Verdrag voor de internationale burgerluchtvaart geldt vanaf het moment waarop van deze wijziging mededeling in het Tractatenblad is gedaan.
 
@@ -89,19 +67,19 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - 1. Luchtvaartgids deel I met als doelgroep vliegers die IFR-vluchten uitvoeren met een abonnement op:
 
-- a. amendementen op de luchtvaartgids deel I,
+   - a. amendementen op de luchtvaartgids deel I,
 
-- b. supplementen op de luchtvaartgids deel I,
+   - b. supplementen op de luchtvaartgids deel I,
 
-- c. AIC's serie A
+   - c. AIC's serie A
 
-- d. maandelijkse samenvatting van de op dat moment geldige NOTAM's.
+   - d. maandelijkse samenvatting van de op dat moment geldige NOTAM's.
 
 - 2. Luchtvaartgids deel II met als doelgroep vliegers die VFR-vluchten uitvoeren met een abonnement op:
 
-- a. amendementen op de luchtvaartgids deel II,
+   - a. amendementen op de luchtvaartgids deel II,
 
-- b. supplementen op de luchtvaartgids deel II.
+   - b. supplementen op de luchtvaartgids deel II.
 
 - 3. AIC's serie B met een abonnement.
 

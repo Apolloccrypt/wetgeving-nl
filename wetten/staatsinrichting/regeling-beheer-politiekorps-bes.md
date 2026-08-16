@@ -1,82 +1,56 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 5 oktober 2010, nr. 2010-0000623057, houdende nadere regels met betrekking tot de ambtenaren criminele inlichtingen, de infiltratieambtenaren en de aanhoudings- en ondersteuningsambtenaren waarover het politiekorps van Bonaire, Sint Eustatius en Saba beschikt dan wel kan beschikken, alsmede de ambtenaren criminele inlichtingen van de Koninklijke marechaussee (Regeling beheer politiekorps BES)"
+citeertitel: "Regeling beheer politiekorps BES"
 identifier: "BWBR0028823"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2010-10-14"
-last_updated: "2010-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028823"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11035463"
-version_id: "18029072"
-internal_id: "C25058641"
-label_id: "11010014"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028823/2010-10-14/0"
-intitule_bron: "Stcrt.2010-15876"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-10-05"
-intitule_published: "2010-10-12"
-intitule_in_force: "2010-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-15876"
-original_signed_date: "2010-10-05"
-original_published_date: "2010-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-15876"
-entry_into_force_date: "2010-10-14"
-jci_1_3: "jci1.3:c:BWBR0028823&z=2010-10-14&g=2010-10-14"
-jci_1_0: "1.0:c:BWBR0028823&g=2010-10-14"
-citeertitel_status: "officieel"
-short_title: "Regeling beheer politiekorps BES"
-signed_date: "2010-10-05"
-entry_into_force: "2010-10-14"
+publicatiedatum: 2010-10-14
+laatste_update: 2010-10-14
+status: geldig
+toestand: 2010-10-14
+bron: "https://wetten.overheid.nl/BWBR0028823"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 5 oktober 2010, nr. 2010-0000623057, houdende nadere regels met betrekking tot de ambtenaren criminele inlichtingen, de infiltratieambtenaren en de aanhoudings- en ondersteuningsambtenaren waarover het politiekorps van Bonaire, Sint Eustatius en Saba beschikt dan wel kan beschikken, alsmede de ambtenaren criminele inlichtingen van de Koninklijke marechaussee (Regeling beheer politiekorps BES)
 
-Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=14) en [68 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=68) en de [artikelen 3, vierde en vijfdelid](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=3), [4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=5) en [6, tweede lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6);
-
-Besluit:
-
-#### § 1. **Algemeen**
+#### § 1. Algemeen
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **ambtenaren criminele inlichtingen:** de ambtenaren, bedoeld in [artikel 4, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), waarover het politiekorps beschikt dan wel kan beschikken, dan wel de ambtenaren van de Koninklijke marechaussee, belast met de taak bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=2&z=2010-10-14&g=2010-10-14);
+- a. *ambtenaren criminele inlichtingen:* de ambtenaren, bedoeld in [artikel 4, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), waarover het politiekorps beschikt dan wel kan beschikken, dan wel de ambtenaren van de Koninklijke marechaussee, belast met de taak bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=2&z=2010-10-14&g=2010-10-14);
 
-- b. **informantgegevens:** gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
+- b. *informantgegevens:* gegevens omtrent een persoon, bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
 
-- c. **criminele inlichtingen:** gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- c. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **verantwoordelijke:** de verantwoordelijke, bedoeld in [artikel 1, onderdeel f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- d. *verantwoordelijke:* de verantwoordelijke, bedoeld in [artikel 1, onderdeel f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- e. **CIE-officier van justitie:** de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de CIE;
+- e. *CIE-officier van justitie:* de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de CIE;
 
-- f. **infiltratieambtenaren:** ambtenaren als bedoeld in [artikel 4, derde lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4) waarover het politiekorps beschikt, dan wel kan beschikken;
+- f. *infiltratieambtenaren:* ambtenaren als bedoeld in [artikel 4, derde lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4) waarover het politiekorps beschikt, dan wel kan beschikken;
 
-- g. **bevel tot infiltratie:** een bevel als bedoeld in [artikel 177m, eerste of tweede lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177m);
+- g. *bevel tot infiltratie:* een bevel als bedoeld in [artikel 177m, eerste of tweede lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177m);
 
-- h. **bevel tot pseudo-koop of -dienstverlening:** een bevel als bedoeld in [artikel 177n, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177n);
+- h. *bevel tot pseudo-koop of -dienstverlening:* een bevel als bedoeld in [artikel 177n, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177n);
 
-- i. **bevel tot stelselmatige inwinning van informatie:** een bevel als bedoeld in [artikel 177o, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177o);
+- i. *bevel tot stelselmatige inwinning van informatie:* een bevel als bedoeld in [artikel 177o, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177o);
 
-- j. **burgerinfiltrant:** een persoon als bedoeld in [artikel 177x, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177x);
+- j. *burgerinfiltrant:* een persoon als bedoeld in [artikel 177x, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177x);
 
-- k. **burgerpseudo-koper of -dienstverlener:** een persoon als bedoeld in artikel [177w, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177w);
+- k. *burgerpseudo-koper of -dienstverlener:* een persoon als bedoeld in artikel [177w, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=177w);
 
-- l. **infiltrant:** een ambtenaar van politie, belast met de uitvoering van een bevel tot infiltratie;
+- l. *infiltrant:* een ambtenaar van politie, belast met de uitvoering van een bevel tot infiltratie;
 
-- m. **begeleider:** een ambtenaar van politie, belast met de begeleiding van een infiltrant, dan wel de begeleiding van een burgerinfiltrant;
+- m. *begeleider:* een ambtenaar van politie, belast met de begeleiding van een infiltrant, dan wel de begeleiding van een burgerinfiltrant;
 
-- n. **leider:** de opsporingsambtenaar, belast met het geven van leiding aan de infiltranten en de begeleiders;
+- n. *leider:* de opsporingsambtenaar, belast met het geven van leiding aan de infiltranten en de begeleiders;
 
-- o. **aanhoudings- en ondersteuningsambtenaren:** ambtenaren als bedoeld in [artikel 6, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6) waarover het politiekorps beschikt, dan wel kan beschikken.
+- o. *aanhoudings- en ondersteuningsambtenaren:* ambtenaren als bedoeld in [artikel 6, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6) waarover het politiekorps beschikt, dan wel kan beschikken.
 
-#### § 2. **Criminele inlichtingen**
+#### § 2. Criminele inlichtingen
 
 ##### Artikel 2
 
@@ -104,9 +78,9 @@ Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in he
 
 - d. het analyseren van criminele inlichtingen en het aan de hand daarvan:
 
-- 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+   - 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
+   - 2° periodiek verslag doen ten behoeve van criminaliteitsbeelden;
 
 - e. het ter beschikking stellen van criminele inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
@@ -156,7 +130,7 @@ De verantwoordelijke draagt ervoor zorg dat onbevoegde kennisneming van criminel
 
 - f. bij gebruik van een netwerksysteem voldoende beveiligingsmaatregelen zijn getroffen tegen het verloren gaan van de informatie en ter voorkoming van onbevoegde bevraging.
 
-#### § 3. **Infiltratie**
+#### § 3. Infiltratie
 
 ##### Artikel 10
 
@@ -176,13 +150,13 @@ De korpsbeheerder politie draagt er zorg voor dat zich onder de infiltratieambte
 
 3. De begeleider informeert de leider van infiltratieambtenaren omtrent de werkzaamheden van de infiltranten en de wijze waarop deze worden uitgevoerd.
 
-#### § 4. **Aanhouding en ondersteuning**
+#### § 4. Aanhouding en ondersteuning
 
 ##### Artikel 12
 
 De korpsbeheerder politie draagt er zorg voor dat de aanhoudings- en ondersteuningsambtenaren kunnen worden onverdeeld in twee secties, een leidinggevende en een ondersteunend medewerker.
 
-#### § 5. **Slotbepalingen**
+#### § 5. Slotbepalingen
 
 ##### Artikel 13
 
@@ -191,5 +165,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [Veilighei
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling beheer politiekorps BES.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

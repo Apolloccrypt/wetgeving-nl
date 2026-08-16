@@ -1,38 +1,16 @@
 ---
 title: "Besluit kwaliteit drinkwater BES"
 identifier: "BWBR0028642"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028642"
+categorie: "Milieu"
 soort: "AMvB-BES"
-stam_id: "10914733"
-version_id: "17898492"
-internal_id: "C24847421"
-label_id: "10889934"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028642/2010-10-10/0"
-intitule_bron: "Stb.2010-676"
-intitule_effect: "nieuw"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-676"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuw"
-original_url_id: "stb-2010-676"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028642&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0028642&g=2010-10-10"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0028642"
+opgehaald: 2026-08-16
 ---
+
 # Besluit kwaliteit drinkwater BES
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -41,9 +19,9 @@ entry_into_force: "2010-10-10"
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **ISO-norm 17025:** norm 17025, getiteld «Algemene eisen aan de competentie van beproevings- en kalibratielaboratoria» van de Internationale Organisatie voor Standaardisatie;
+- a. *ISO-norm 17025:* norm 17025, getiteld «Algemene eisen aan de competentie van beproevings- en kalibratielaboratoria» van de Internationale Organisatie voor Standaardisatie;
 
-- b. **Onze Minister:** Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+- b. *Onze Minister:* Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ##### Artikel 2
 
@@ -61,17 +39,17 @@ Bij dit besluit horen de volgende bijlagen:
 
 - a. [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10). Minimum kwaliteitseisen, omvattende de volgende onderdelen:
 
-- Ia. Microbiologische parameters, openbare of interne watervoorziening.
+   - Ia. Microbiologische parameters, openbare of interne watervoorziening.
 
-- Ib. Microbiologische parameters, drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal
+   - Ib. Microbiologische parameters, drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal
 
-- II. Chemische parameters
+   - II. Chemische parameters
 
-- IIIa. Indicatoren – bedrijfstechnische parameters
+   - IIIa. Indicatoren – bedrijfstechnische parameters
 
-- IIIb. Indicatoren – organoleptische – esthetische parameters
+   - IIIb. Indicatoren – organoleptische – esthetische parameters
 
-- IIIc. Indicatoren – signaleringsparameters;
+   - IIIc. Indicatoren – signaleringsparameters;
 
 - b. [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=B&z=2010-10-10&g=2010-10-10). Bewaking en audit bij een openbare of een interne watervoorziening, omvattende de volgende tabellen: Tabel I. Bewaking en audit parameters voor drinkwater geleverd door een openbare of interne watervoorziening Tabel II. Meetfrequenties behorend bij bewaking en audit bij een openbare of een interne watervoorziening Tabel III. Meetfrequenties en te onderzoeken parameters voor de gebruikte grondstof bij een openbare watervoorziening en interne watervoorziening in acht te nemen bij het opstellen van het meetprogramma;
 
@@ -195,13 +173,13 @@ de periode voor ontheffing.
 
 1. De eigenaren en beheerders van de in [artikel 5 van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=5) genoemde locaties bemonsteren het water twee keer per jaar voor onderzoek op de aanwezigheid van legionellabacteriën. Het aantal monsterpunten is afhankelijk van het aantal tappunten in de installatie, met dien verstande dat:
 
-- –. tot 50 tappunten: 2 monsterpunten,
+- – tot 50 tappunten: 2 monsterpunten,
 
-- –. van 51 tot 100 tappunten: 4 monsterpunten,
+- – van 51 tot 100 tappunten: 4 monsterpunten,
 
-- –. van 101 tot 200 tappunten: 6 monsterpunten,
+- – van 101 tot 200 tappunten: 6 monsterpunten,
 
-- –. meer dan 200 tappunten: 8 monsterpunten, worden gebruikt.
+- – meer dan 200 tappunten: 8 monsterpunten, worden gebruikt.
 
 2. De monstername en analyse worden uitgevoerd door een laboratorium dat een kwaliteitsborgingssysteem hanteert dat gebaseerd is op ISO 17025 of een door de inspecteur gelijkwaardig verklaarde norm en dat daarvoor overeenkomstig deze norm geaccrediteerd is. De monstername kan ook plaatsvinden door een ander, voor zover het laboratorium voor de deugdelijkheid van de monstername kan instaan.
 
@@ -472,235 +450,3 @@ Dit besluit wordt aangehaald als: Besluit kwaliteit drinkwater BES.
 ##### Artikel 47
 
 [vervallen]
-
-## Bijlage A. Minimum kwaliteitseisen
-
-| Parameter | Maximumwaarde | Eenheid | Opmerkingen |
-| --- | --- | --- | --- |
-| Ia. Microbiologische parameters, openbare of interne watervoorziening1 |   |   |   |
-| Escherichia coli | 0 | kve/100 ml | Kve = kolonievormende eenheden |
-| Enterococcen | 0 | kve/100 ml |   |
-| Ib. Microbiologische parameters, drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal2 |   |   |   |
-| **Escherichia coli** | 0 | kve/250 ml | Kve = kolonievormende eenheden |
-| Enterococcen | 0 | kve/250 ml |   |
-| Pseudomonas aeruginosa | 0 | kve/250 ml |   |
-| Telling kolonies bij 37ºC | 20 | kve/ml |   |
-| II. Chemische parameters |   |   |   |
-| Acrylamide | 0,10 | μg/l | 3 |
-| Antimoon | 5,0 | μg/l |   |
-| Arseen | 10 | μg/l |   |
-| Benzeen | 1,0 | μg/l |   |
-| Benzo(a)pyreen | 0,010 | μg/l |   |
-| Boor | 1,0 | μg/l |   |
-| Bromaat | 1,0 | μg/l | Bij disinfectie geldt een maximale waarde van 5,0 μg/l (als 90 percentielwaarde, met een maximum van 10 μg/l) |
-| Cadmium | 5,0 | μg/l |   |
-| Chroom | 50 | μg/l |   |
-| Cyaniden (totaal) | 50 | μg/l | 4 |
-| 1,2-Dichloorethaan | 3,0 | μg/l |   |
-| Epichloorhydrine | 0,10 | μg/l | 3 |
-| Fluoride | 1,5 | μg/l |   |
-| Koper | 2,0 | μg/l |   |
-| Kwik | 1,0 | μg/l |   |
-| Lood | 10 | μg/l |   |
-| Nikkel | 20 | μg/l |   |
-| Nitraat | 50 | mg/l | 5 |
-| Nitriet | 0,1 | mg/l | 5 |
-| Polycyclische aromatische koolwaterstoffen (PAK’s) (som) | 0,10 | μg/l | Som van gespecificeerde verbindingen met concentratie hoger dan de detectiegrens.6 |
-| PCB’s (som) | 0,50 | μg/l | Som van gespecificeerde verbindingen met concentratie > 0,05 μg/l.7 |
-| Pesticiden (individueel) | 0,10 | μg/l | Per stof.8 Voor aldrin, dieldrin, heptachloor en heptachloorepoxide geldt een maximum waarde van 0,030 μg/l. |
-| Seleen | 10 | μg/l |   |
-| Tetra- en trichlooretheen (som) | 10 | μg/l |   |
-| Trihalomethanen (som) | 100 | μg/l | Som van gespecificeerde verbindingen (als 90 percentiel, met een maximum van 50 μg/l)9 |
-| Vinylchloride | 0,50 | μg/l | 3 |
-| IIIa. Indicatoren10 – bedrijfstechnische parameters |   |   |   |
-| Aluminium | 200 | μg/l | 11 |
-| Ammonium | 0,50 | mg/l |   |
-| Bacteriën van coligroep | 0 | kve/100 ml |   |
-| Chloride | 150 | mg/l | Het water mag niet agressief zijn.12 |
-| **Clostridum perfringens** (inclusief sporen) | 0 | kve/100 ml |   |
-| DOC/TOC | Geen abnormale verandering | mg/l | 13 |
-| Faecale Streptococcen | 0 | kve/100 ml |   |
-| Geleidingsvermogen | 100 bij 37ºC | mS/m | Het water mag niet agressief zijn.12 |
-| Hardheid (totaal) | > 1 en < 2.5 | mmol/l | Totale hardheid te berekenen als aantal mmol Ca2 plus Mg2+/l. Bij toepassing van ontharding of ontzouting geldt deze waarde als 90 percentiel. |
-| Koloniegetal bij 37°C | 500 | kve/ml | Geen abnormale verandering. |
-| Radioactiviteit: Tritium Totale Indicatieve Dosis14 | 100 0,10 | Bq/l mSv/jaar |   |
-| Saturatie Index SI | > -0,2 | SI | Het water mag niet agressief zijn.12 |
-| Temperatuur | 40 | ºC |   |
-| Vrij chloor | > 0.3 en < 2 | mg/l | 14 |
-| Zuurgraad / waterstof-ionenconcentratie | > 7,8 en < 8,5 | pH-eenheden | Het water mag niet agressief zijn.12 |
-| IIIb. Indicatoren – Organoleptische – estethische parameters |   |   |   |
-| Geur | Aanvaardbaar door de gebruikers en geen abnormale verandering | - | 15 |
-| Kleur | 20 | Mg/l Pt/Co |   |
-| IJzer | 200 | μg/l |   |
-| Mangaan | 50 | μg/l |   |
-| Natrium | 150 | mg/l |   |
-| Smaak | Aanvaardbaar door de gebruikers en geen abnormale verandering | - | 15 |
-| Sulfaat | 150 | mg/l | Het water mag niet agressief zijn.12 |
-| Troebelingsgraad | 4 (tap) 1 (afpompstation) | FTE | FTE = formazine troebelingseenheden16 |
-| Zink | 3,0 | mg/l | Na > 16 uur stilstand |
-
-1 Micro-organismen mogen krachtens [artikel 12, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12), niet in zodanige concentratie in het drinkwater voorkomen dat gevaar voor de volksgezondheid kan ontstaan.
-
-2 De microbiologische kwaliteitsparameters voor drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal wijken af van die van de openbare of interne watervoorziening. De overige kwaliteitsparameters zijn voor verpakt water gelijk aan die van de openbare of interne watervoorziening.
-
-3 Deze parameterwaarde heeft betrekking op de residuele monomeerconcentratie in het water, berekend aan de hand van specificaties inzake de maximum migratie van de overeenkomstige polymeer in contact met water.
-
-4 Met behulp van de methode moet het totaal aan cyanide in elke vorm worden bepaald.
-
-5 Ten aanzien van de concentraties nitraat en nitriet dient tevens te worden voldaan aan de voorwaarde dat [nitraat]/50+[nitriet]/3<1, waarbij de rechte haken de concentratie in mg/l uitdrukken, voor nitraat in NO3, en voor nitriet in NO2
-
-6 De gespecificeerde verbindingen zijn: pyreen, benzo(a)antraceen, benzo(ghi)peryleen, fenantreen, indeno(1,2,3-cd)pyreen, anthraceen, benzo(k)fluorantheen, chryseen en fluorantheen.
-
-7 De gespecificeerde verbindingen zijn: PCB nr. 28, 52, 101, 118, 138, 153 en 180.
-
-8 Onder pesticiden wordt verstaan: organische insecticiden, organische herbiciden, organische fungiciden, oraganische nematociden, organische acariciden, organische algiciden, organische rodenticiden, organische slimiciden en soortgelijke producten (onder meer groeiregulatoren), en hun metabolieten en afbraak- of reactieproducten die humaan toxicologisch relevant zijn.
-
-9 De gespecificeerde verbindingen zijn: chloroform, bromoform, dichloorbroommethaan en broomdichloormethaan. De concentratie broomdichloormethaan mag niet hoger zijn dan 15 μg/l.
-
-10 Indicatorparameters: parameters die dienen voor kwalitatieve controledoeleinden; wanneer er afwijkingen optreden, dient direct onderzoek te worden uitgevoerd om de oorzaak vast te stellen, dienen herstelmaatregelen te worden uitgevoerd om de kwaliteit weer op peil te brengen, waarbij onder meer wordt gelet op de mate waarin de parameterwaarde in kwestie is overschreden en op het mogelijke gevaar voor de volksgezondheid en dient en de toezichthouder te worden ingelicht, die op zijn beurt het bestuurscollege en de Inspectie moet inlichten ([artikel 13, eerste en tweede lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=13))
-
-11 Bij (dreigende) overschrijding van een waarde voor aluminium van – vooralsnog – 100 μg/l dient dit aan de toezichthouder gemeld te worden in verband met het eventueel gebrui van het drinkwater voor nierdialyse. Op termijn treedt de meldingsplicht bij 30 μg/l in werking.
-
-12 De producent of distributeur draagt zorg dat de kwaliteit van het geleverde drinkwater zodanig is dat het leidingstelsel en de installaties bij de verbruikers zo min mogelijk worden aangetast. De Saturatie Index strekt daartoe. De definitie daarvoor luidt: SI = log ((Ca2+).(CO32-)/Ks)=pH-pHs, waarbij (Ca2+).(CO32-) het product van de activiteiten van Ca2+ en CO32-, Ks het oplosbaarheidproduct van CaCO3, pH de actuele pH en pHs de evenwichts pH zijn.
-
-13 Indien DOC-TOC (dissolved organ carbon/Total organ carbon) niet wordt bepaald, dan dient de oxideerbaarheid met KMnO4 te worden bepaald (norm 5,0 mg/l O2)
-
-14 Wekelijkse rapportage van de gebruikte hoeveelheid chloor en plaats waar gedoseerd is. Tevens moeten mogelijke bijproducten conform aanwijzingen van de toezichthouder worden gemeten. De aangegeven waarde is de maximale waarde van vrij chloor in het drinkwater na chloreren.
-
-15 Analyse kan kwalitatief worden uitgevoerd, indien het resultaat positief is dient een kwantitatieve analyse te worden uitgevoerd, bijvoorbeeld volgens de verdunningsmethode.
-
-16 In aanvulling op de kwantitatieve eis geldt dat de troebelingsgraad aanvaardbaar voor de gebruikers dient te zijn en geen abnormale veranderingen mag vertonen.
-
-## Bijlage B. Bewaking en audit bij een openbare of een interne watervoorziening.
-
-Bewaking heeft tot doel regelmatig informatie te verstrekken over de organoleptische en microbiologische kwaliteit van drinkwater, alsook informatie over de doeltreffendheid van de behandeling van drinkwater (met name van desinfectie) waar die plaatsvindt, om uit te maken of het drinkwater al dan niet in overeenstemming is met de parameterwaarden van het besluit horende bij [artikel 12 van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12) en aanvullende eisen zoals vastgesteld door de toezichthouder.
-
-Audit heeft tot doel de informatie te verstrekken die nodig is om uit te maken of alle parameterwaarden van de [Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180) al dan niet worden nageleefd. Alle parameters vastgesteld in het besluit voortvloeiende uit [artikel 12 van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=12) en aanvullende eisen zoals vastgesteld door de toezichthouder, moeten aan een audit worden onderworpen, tenzij door de bevoegde autoriteiten kan worden vastgesteld dat gedurende een door hen te bepalen periode een parameter naar alle waarschijnlijkheid niet in bepaald water voorkomt in concentraties die kunnen leiden tot het risico dat de betrokken parameterwaarde wordt overschreden.
-
-Op grond van [artikel 16 van deze Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=16) zijn de producenten of distributeurs verantwoordelijk voor de monitoring van de kwaliteit van het drinkwater. De toezichthouder is belast met de monstername van de auditmonsters ([artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=22&z=2010-10-10&g=2010-10-10)). Een extern laboratorium is belast met de analyse van de auditmonsters (artikel 22, tweede lid) en de analyse van de microbiologische analyse van de bewakingsmonsters (artikel 22, derde lid). De kosten van monstername door de toezichthouder en analyse door het extern laboratorium zijn voor rekening van de producenten of distributeurs.
-
-### Tabel I. Bewaking en audit parameters voor drinkwater geleverd door een openbare of interne watervoorziening.
-
-De minimumfrequenties voor monitoring staan aangegeven in tabel II van deze bijlage.
-
-1 De bemonstering van het drinkwater dient voor de in deze kolom genoemde parameters plaats te hebben op het punt waar het aan het tappunt (aangeduid met t) beschikbaar komt voor menselijke consumptie. De in tabel II aangegeven frequentie geldt als minimumfrequentie, onverlet het bepaalde in [artikel 17, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), van dit besluit. De toezichthouder kan bepalen dat uit oogpunt van integrale kwaliteitscontrole ook bemonstering dient plaats te hebben in het onbehandelde water (o) of na da laatste zuiveringsstap (p).
-
-2 De bemonstering van het drinkwater dient voor de in deze kolom genoemde parameters plaats te hebben na de laatste zuiveringsstap (p) of aan het tappunt (t). Bij die parameters die in het distributienet zijn toegepast, dienen in elk geval de metingen aan de tap te geschieden, zoals en niet beperkt tot acrylamide, antimoon, cadmium, chroom, epichloorhydrine, koper, lood, nikkel, vinylchloride, zink. De in tabel II aangegeven bewakingsfrequentie geldt als minimumfrequentie, onverlet het bepaalde in [artikel 17, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), van dit besluit. De toezichthouder kan bepalen dat uit oogpunt van integrale kwaliteitscontrole ook bemonstering dient plaats te hebben in het onbehandelde water (o).
-
-3 De bemonstering van het drinkwater dient voor de in deze kolom genoemde parameters plaats te hebben op het punt waar het aan het tappunt (aangeduid met t) beschikbaar komt voor menselijke consumptie. De in tabel II aangegeven frequentie geldt als minimumfrequentie, onverlet het bepaalde in [artikel 17, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), van dit besluit. De toezichthouder kan bepalen dat uit oogpunt van integrale kwaliteitscontrole ook bemonstering dient plaats te hebben in het onbehandelde water (o) of na de laatste zuiveringsstap (p).
-
-4 De bemonstering van het drinkwater dient voor de in deze kolom genoemde parameters plaats te hebben na de laatste zuiveringsstap (p) o! aan het tappunt (t). Bij die parameters die in het distributienet zijn toegepast, dienen in elk geval de metingen aan de tap te geschieden, zoals en niet beperkt tot acrylamide, antimoon, cadmium, chroom, epichloorhydrine, koper, lood, nikkel, vinylchloride. De in tabel II aangegeven auditfrequentie geldt als minimumfrequentie, onverlet hat bepaalde in [artikel 17, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), van dit besluit. De toezichthouder kan bepalen dat uit oogpunt van integrale kwaliteitscontrole ook bemonstering dient plaats te hebben in het onbehandelde water (o),
-
-5 De bemonstering dient voor in deze kolom genoemde parameters plaats te hebben in het onbehandelde water (o).
-
-6 Alleen een meetverplichting indien deze stof als desinfectiemiddel wordt toegepast of indien deze stof ais verbinding bij de toegepaste desinfectie- of oxydatietechniek gevormd kan worden.
-
-7 Bewaking alleen indien chlooraminen als desinfectiemiddel worden gebruikt. Indien dit niet het geval is geldt de auditfrequentie overeenkomstig tabel II van deze bijlage.
-
-8 Hier is nog geen meetmethode voor vastgesteld. Het meetprincipe van radiochemie wordt vooralsnog gehanteerd.
-
-9 Alleen indien deze stof als vlokmiddel bij de zuivering wordt gebruikt. Indien dit niet het geval is geldt de auditfrequentie overeenkomstig tabel II van deze bijlage
-
-**Toelichting:**
-
-Voor deze parameter geldt in afwijking van de in tabel II aangegeven frequentie, de volgende minimumfrequentie:
-
-### Tabel II. Meetfrequenties behorend bij bewaking en audit bij een openbare of interne watervoorziening
-
-Het minimum aantal monsterpunten is gerelateerd aan de dagelijkse productiehoeveelheid, en is altijd meer dan een. De monsterpunten zijn een representatieve vertegenwoordiging van de distributievoorziening.
-
-Voortvloeiende uit [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=3&artikel=11&z=2010-10-10&g=2010-10-10) van dit besluit wordt een risico analyse van de productie en distributie van drinkwater van bron tot verbruiker uitgevoerd door producenten en distributeurs. Hierbij dient rekening te worden gehouden met onder meer zaken zoals de historische gegevens, de infrastructuur van de productie en distributie, Legionella preventie, verhoogde risicogebieden (gebieden waar er risicogroepen aanwezig zijn of omdat de volksgezondheid dit vereist, bijvoorbeeld ziekenhuizen). De uitkomsten van deze risico analyse vormen het uitgangspunt voor het door de toezichthouder vast te stellen uiteindelijke aantal en de locatie van de monsterpunten en de uiteindelijke frequentie van onderzoek.
-
-In de navolgende gevallen kan de frequentie tijdelijk verhoogd worden: epidemieën, overstromingen (wateroverlast), calamiteiten en na werkzaamheden aan de infrastructuur van de drinkwatervoorziening die van invloed kunnen zijn op de kwaliteit van het drinkwater.
-
-1 Een leveringsgebied is een geografisch afgebakend gebied waarbinnen het drinkwater afkomstig is uit een of enkele bronnen waarbinnen het water kan worden geacht van vrijwel uniforme kwaliteit te zijn.
-
-2 De hoeveelheden zijn gemiddeld berekend over een kalenderjaar.
-
-3 Voor de verschillende parameters in dit besluit, mogen de bestuurscolleges het in de tabel vermelde aantal monsters verslagen indienen:
-
-° De waarden van de resultaten van de in een periode van tenminste twee opeenvolgende jaren genomen monsters constant zijn en significant beter dan de in dit besluit genoemde grenswaarden; en
-
-° Het aannemelijk is dat geen enkele factor aanwezig is waardoor de kwaliteit van het water achteruit zou kunnen gaan.
-
-4 Voor zover mogelijk moet het aantal monsters gelijkelijk over plaats en tijd worden verdeeld.
-
-### Tabel III. Meetfrequenties en te onderzoeken parameters voor de gebruikte grondstof bij een openbare watervoorziening en interne watervoorziening in acht te nemen bij het opstellen van het meetprogramma
-
-1 Indeling in verband met de toepassing van artikel 4.5, vijfde lid.
-
-2 Indien is aangetoond dat er geen grote fluctuaties van deze parameters zijn te verwachten, kan worden volstaan met een frequentie van éénmaal per jaar.
-
-3 Conform **Toelichting**, tabel I, Bijlage B, wordt het innamepunt op Escherichia Coli gecontroleerd.
-
-## Bijlage C. Bewaking en audit van drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal.
-
-De bewaking en audit van drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal wordt op dezelfde parameters uitgevoerd als bij een openbare of interne watervoorziening. Alleen de microbiologische parameters wijken af van die van een openbare of interne watervoorziening.
-
-### Tabel I. Microbiologische bewaking en auditparameters voor drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal.
-
-1 De microbiologische kwaliteitsparameters voor drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal wijken af van die van de openbare of interne watervoorziening. De overige parameters zijn gelijk als die van de openbare of interne watervoorziening.
-
-### Tabel II. Meetfrequentie behorende bij bewaking en audit van lokaal geproduceerd drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal
-
-2 De hoeveelheden zijn gemiddelden berekend over een kalenderjaar.
-
-### Tabel III. Meetfrequentie behorende bij bewaking en audit van geïmporteerd drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal
-
-## Bijlage D. Meetmethoden en Prestatiekenmerken.
-
-De krachtens [artikel 14, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=14) aangewezen laboratoria, hanteren een stelsel van analytische kwaliteitscontrole dat op gezette tijden wordt gecontroleerd door iemand die onafhankelijk is van het laboratorium en door de bevoegde autoriteiten voor dat doel is erkend.
-
-### Tabel I. Microbiologische bewaking en auditparameters voor drinkwater verpakt in flessen of andersoortig klein verpakkingsmateriaal.
-
-De volgende beginselen voor methoden voor microbiologische parameters worden gegeven als referentie wanneer een NEN/ISO-methode wordt opgegeven of als leidraad, in afwachting van de eventuele toekomstige aanneming van verdere internationale NEN/SSO-methoden voor deze parameters. Alternatieve methoden kunnen worden gebruikt, mits aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&hoofdstuk=5&artikel=24&z=2010-10-10&g=2010-10-10) van dit besluit wordt voldaan.
-
-**Toelichting:**
-
-De samenstelling van m-CP agar is als volgt:
-
-De ingrediënten van het basismedium oplossen, de pH instellen op 7,6 en gedurende 15 minuten steriliseren bij 121 °C. Het medium laten afkoelen en het volgende toevoegen:
-
-### Tabel II. Parameters waarvoor prestatiekenmerken zijn gespecificeerd
-
-Voor onderstaande parameters geldt dat door middel van de toegepaste analysemethode met de aangegeven juistheid, precisie en aantoonbaarheidsgrens ten minste concentraties moeten kunnen worden gemeten die gelijk zijn aan de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10) genoemde waarde. Ongeacht de gevoeligheid van de gebruikte analysemethode wordt het resultaat in ten minste evenveel decimalen uitgedrukt als de parameterwaarde genoemd in bijlage A, onderdelen II en III.
-
-1 Juistheid is de systematische fout en is het verschil tussen de via een groot aantal metingen vastgestelde gemiddelde waarde en de werkelijke waarde. Deze term is nader gespecificeerd in ISO 5725.
-
-2 Precisie of variatiecoëfficiënt is de toevallige fout en wordt gewoonlijk uitgedrukt in standaardafwijking (binnen een groep en tussen groepen onderling) van de spreiding van de resultaten rond het gemiddelde. De aanvaardbare precisie bedraagt twee maal de relatieve standaardafwijking. Deze term is nader gespecificeerd in ISO 5725.
-
-3 De aantoonbaarheidsgrens is hetzij:
-
-° driemaal de standaardafwijking binnen een groep onafhankelijke waarnemingen aan een origineel drinkwatermonster met een lage concentratie van de parameter; hetzij
-
-° vijfmaal de standaardafwijking binnen een groep waarnemingen aan een blancomonster.
-
-4 Controleren via producspecificatie.
-
-5 Met behulp van de methode moet het totaal aan cyanide in elke vorm worden bepaald.
-
-6 De oxydatie dient gedurende 10 minuten te worden uitgevoerd met behulp van permanganaat bij 100 ºC in een zuur milieu.
-
-7 De prestatiekenmerken gelden voor elke afzonderlijke pesticide.
-
-8 De prestatiekenmerken gelden voor de afzonderlijke stoffen, gespecificeerd op 25% van de parameterwaarde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10).
-
-9 Voor de bewaking van de troebelingsgraad in behandeld oppervlaktewater geldt dat door middel van de toegepaste analysemethode ten minste met een juistheid van 25% concentraties moeten kunnen worden gemeten die gelijk zijn aan de parameterwaarde.
-
-10 De prestatiekenmerken gelden voor de afzonderlijke stoffen, gespecificeerd op 50% van de parameterwaarde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028642&bijlage=A&z=2010-10-10&g=2010-10-10).
-
-## Bijlage E. Monstername en -stabilisatie.
-
-- 1. De monsters dienen een representatieve weergave te zijn van het drinkwater en er mag geen contaminatie optreden gedurende de monstername.
-
-- 2. De wijze van monstername en monsterstabilisatie dient volgens geldende erkende regelingen, bijvoorbeeld NEN 6559, te worden uitgevoerd.
-
-- 3. Indien het drinkwater gedesinfecteerd wordt en mogelijk op het punt van monstername chlorine, chloramine, chlorine dioxide of ozon bevat, dan dient natrium thiosulfaat te worden toegevoegd om de rest desinfectans te neutraliseren. De concentratie van de rest desinfectans en de zuurgraad dient bij het monsternamepunt te worden gemeten op het moment van monstername.
-
-- 4. Indien het drinkwater zware metalen bevat, met name koper, dan dient tevens chelating agents (bijvoorbeeld EDTA) of nitrilotriacetic (NTA) te worden toegevoegd.
-
-- 5. Indien op hetzelfde monsterpunt meerdere monsters moeten worden genomen, dan dient het monster voor microbiologische onderzoeken als eerst te worden afgenomen. E.e.a. om het risico van contaminatie te voorkomen.
-
-- 6. De monsters die voor microbiologisch onderzoek worden aangeboden, moeten in het donker en koel, bij voorkeur tussen 4° en 10°C worden bewaard. De monsters mogen niet bevriezen. De monsters dienen zo spoedig mogelijk te worden geanalyseerd, in elk geval binnen vierentwintig uur na monstername. Indien de monsters niet gekoeld worden, dan dient het onderzoek in twee uren na monstername te geschieden.
-
-- 7. Voorts dient rekening te worden gehouden met het gegeven dat de kans om een periodieke verontreiniging van het drinkwater te constateren groter is, indien op verschillende momenten van de dag en op verschillende dagen van de week monstername wordt uitgevoerd. De eerste lijn toezichthouder zal daartoe specifieke richtlijnen verstrekken.

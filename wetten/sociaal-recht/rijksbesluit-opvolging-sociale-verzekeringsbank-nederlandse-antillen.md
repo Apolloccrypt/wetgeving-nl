@@ -1,56 +1,18 @@
 ---
 title: "Besluit van 21 september 2010, houdende opvolging van de Sociale Verzekeringsbank van de Nederlandse Antillen (Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen)"
+citeertitel: "Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen"
 identifier: "BWBR0028600"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2011-12-21"
-last_updated: "2011-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028600"
+categorie: "Sociaal recht"
 soort: "rijksKB"
-stam_id: "10892773"
-version_id: "17875282"
-internal_id: "C24705501"
-label_id: "10867524"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028600/2011-12-21/0"
-intitule_bron: "Stb.2010-361"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-21"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stb.2010-361"
-original_signed_date: "2010-09-21"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-361"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028600&z=2011-12-21&g=2011-12-21"
-jci_1_0: "1.0:c:BWBR0028600&g=2011-12-21"
-citeertitel_status: "officieel"
-short_title: "Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen"
-signed_date: "2010-09-21"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2011-12-21
+status: geldig
+toestand: 2011-12-21
+bron: "https://wetten.overheid.nl/BWBR0028600"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 21 september 2010, houdende opvolging van de Sociale Verzekeringsbank van de Nederlandse Antillen (Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2010, nr. IZ/IA/2010/13952, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten;
-
-Overwegende dat de nieuwe staatkundige verhoudingen binnen het Koninkrijk der Nederlanden, zoals vastgelegd in het daartoe strekkende wijzigingsvoorstel van het Statuut voor het Koninkrijk der Nederlanden, aanleiding geven tot regelgeving op het niveau van het Koninkrijk met betrekking tot de positie van de Sociale Verzekeringsbank van de Nederlandse Antillen en de bij deze organisatie betrokken belanghebbende verzekerden en gerechtigden;
-
-Gelet op [artikel 38, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-De Raad van State van het Koninkrijk gehoord (advies van 29 juli 2010, nr. W12.10.0300/III/K);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 15 september 2010, nr. IZ/IA/2010/18077, uitgebracht mede namens Onze Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met de regering van de Nederlandse Antillen en de bestuurscolleges van de eilandgebieden Curaçao en Sint Maarten,
-
-De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 #### § 1. Inleidende bepalingen
 
@@ -58,31 +20,31 @@ Treedt in werking op het tijdstip waarop artikel I, derde lid, van de Rijkswet w
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **land:** Curaçao, Sint Maarten of, met betrekking tot Bonaire, Sint Eustatius en Saba, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
+- a. *land:* Curaçao, Sint Maarten of, met betrekking tot Bonaire, Sint Eustatius en Saba, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;
 
-- b. **Sociale Verzekeringsbank van de Nederlandse Antillen:** de Sociale Verzekeringsbank zoals geregeld bij Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154) zoals die regeling op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit luidde;
+- b. *Sociale Verzekeringsbank van de Nederlandse Antillen:* de Sociale Verzekeringsbank zoals geregeld bij Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154) zoals die regeling op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit luidde;
 
-- c. **uitkering:** een uitkering, verstrekking of tegemoetkoming op grond van: zoals deze regelingen op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit luidden;
+- c. *uitkering:* een uitkering, verstrekking of tegemoetkoming op grond van: zoals deze regelingen op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit luidden;
 
-- 1°. de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83),
+   - 1°. de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83),
 
-- 2°. de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194),
+   - 2°. de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194),
 
-- 3°. de Landsverordening Ziekteverzekering (P.B. 1966, no. 15),
+   - 3°. de Landsverordening Ziekteverzekering (P.B. 1966, no. 15),
 
-- 4°. de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14),
+   - 4°. de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14),
 
-- 5°. de Cessantiaregeling (P.B. 1983, no. 85),
+   - 5°. de Cessantiaregeling (P.B. 1983, no. 85),
 
-- 6°. de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249), dan wel
+   - 6°. de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249), dan wel
 
-- 7°. de Landsverordening algemene verzekering bijzondere ziektekosten (P.B. 1996, no. 211),
+   - 7°. de Landsverordening algemene verzekering bijzondere ziektekosten (P.B. 1996, no. 211),
 
-- d. **uitkeringsgerechtigde:** degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering ontvangt;
+- d. *uitkeringsgerechtigde:* degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering ontvangt;
 
-- e. **overnemende land:** het land dat ingevolge de bepalingen van dit besluit de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dit besluit;
+- e. *overnemende land:* het land dat ingevolge de bepalingen van dit besluit de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dit besluit;
 
-- f. **tijdstip van transitie:** het tijdstip, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2011-12-21&g=2011-12-21).
+- f. *tijdstip van transitie:* het tijdstip, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028600&paragraaf=4&artikel=14&z=2011-12-21&g=2011-12-21).
 
 2. Indien een land de bevoegdheid ter zake van de uitvoering van een uitkering dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe door dat land aangewezen uitvoeringsorganisatie met rechtspersoonlijkheid van dat land, treedt die uitvoeringsorganisatie voor de toepassing van dit besluit in de plaats van dat land.
 
@@ -191,5 +153,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I, derde lid, van 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.

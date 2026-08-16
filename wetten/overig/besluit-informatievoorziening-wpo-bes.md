@@ -1,62 +1,30 @@
 ---
 title: "Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de informatievoorziening WPO BES (Besluit informatievoorziening WPO BES)"
+citeertitel: "Besluit informatievoorziening WPO BES"
 identifier: "BWBR0029578"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029578"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11231833"
-version_id: "18391782"
-internal_id: "C25617771"
-label_id: "11205954"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029578/2021-01-01/0"
-intitule_bron: "Stb.2011-36"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-03"
-intitule_published: "2011-03-07"
-intitule_in_force: "2011-03-07"
-intitule_status: "goed"
-original_publication: "Stb.2011-36"
-original_signed_date: "2011-02-03"
-original_published_date: "2011-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-36"
-entry_into_force_date: "2011-03-08"
-jci_1_3: "jci1.3:c:BWBR0029578&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0029578&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit informatievoorziening WPO BES"
-signed_date: "2011-02-03"
-entry_into_force: "2011-03-08"
+publicatiedatum: 2011-03-08
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0029578"
+opgehaald: 2026-08-16
 ---
+
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de informatievoorziening WPO BES (Besluit informatievoorziening WPO BES)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236422 (2711), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 131, tweede en derde lid](onbekend), [artikel 132, tweede lid](onbekend), en [artikel 133, tweede lid, van de Wet primair onderwijs BES](onbekend);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0450/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 31 januari 2011, nr. WJZ 256011 (2711), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **wet:** de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *wet:* de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **school:** een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *school:* een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **bevoegd gezag:** een bevoegd gezag als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1).
+- *bevoegd gezag:* een bevoegd gezag als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1).
 
 ##### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
 
@@ -82,7 +50,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Beschrijving van de gegevens
 
-De gegevens, bedoeld in de [artikelen 132](onbekend) en [133 van de wet](onbekend) waarover een bevoegd gezag beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de bijlage bij dit besluit.
+De gegevens, bedoeld in de [artikelen 132](https://wetten.overheid.nl/BWBR0028735) en [133 van de wet](https://wetten.overheid.nl/BWBR0028735) waarover een bevoegd gezag beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de [bijlage](https://wetten.overheid.nl/BWBR0029578) bij dit besluit.
 
 ##### Artikel 4. Nadere invulling
 
@@ -101,119 +69,3 @@ Tot het tijdstip waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO BES.
-
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) van het Besluit informatievoorziening WPO BES
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van het ministerie van Onderwijs, Cultuur en Wetenschap. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
-
-Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
-
-### A. **Instellingsgegevens**
-
-### A1. **Bevoegd gezag**
-
-Voor de bekostiging:
-
-Datum oprichting en opheffing
-
-Brin-nummer
-
-Naam en adresgegevens
-
-Communicatiegegevens, zoals telefoonnummer en emailadres
-
-Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
-
-### A2. **School, instelling, vestiging**
-
-Voor de bekostiging:
-
-Gegevens over de datum oprichting en opheffing
-
-Datum ingang en einde bekostiging
-
-Een brin-nummer
-
-Naam en adresgegevens
-
-Communicatiegegevens, zoals telefoonnummer en emailadres
-
-Voor beleid:
-
-Richting school/instelling
-
-### B. **Financiële gegevens**
-
-### B1. **Bevoegd gezag**
-
-Voor de bekostiging:
-
-De (geconsolideerde) balans met de volgende gegevens over:
-
-activa:
-
-passiva:
-
-De (geconsolideerde) exploitatierekening waaronder de volgende baten:
-
-en waaronder de volgende lasten
-
-en het aandeel van derden
-
-Het (geconsolideerde) kasstroomoverzicht met de kasstroom uit:
-
-en de mutatie en eindstand liquide middelen
-
-### B2. **School en instelling**
-
-Voor beleid:
-
-met een specificatie voor:
-
-met een specificatie voor:
-
-### C. **Personeelsgegevens**
-
-Voor beleid:
-
-Persoonsgegevens
-
-Geboortedatum
-
-Geslachtsaanduiding
-
-Personeelsnummer
-
-Arbeidsrelatiegegevens
-
-Brin-nummer werkgever
-
-Datum begin en einde arbeidsverhouding
-
-Soort arbeidsverhouding (waaronder vast of tijdelijk)
-
-Zij-instroom
-
-Functie, betrekking en salarisgegevens
-
-Brin-nummer school (waar te werk gesteld)
-
-Betrekkinggegevens, waaronder betrekkingsomvang in fulltime equivalenten (fte)
-
-Functie (code en omschrijving)
-
-Functiecategorie
-
-Salarisschaal
-
-Salarisnummer
-
-Bruto salaris
-
-Toelagen
-
-Ziekte en verlofgegevens
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5678825/10, tot vaststelling van de Regeling naturalisatietoets Sint Maarten 2011"
+citeertitel: "Regeling naturalisatietoets Sint Maarten 2011"
 identifier: "BWBR0029232"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-28"
-last_updated: "2023-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029232"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "11145693"
-version_id: "18232482"
-internal_id: "C25369361"
-label_id: "11120184"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029232/2023-09-28/0"
-intitule_bron: "Stcrt.2010-20957"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-15"
-intitule_published: "2010-12-23"
-intitule_in_force: "2010-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20957"
-original_signed_date: "2010-12-15"
-original_published_date: "2010-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20957"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029232&z=2023-09-28&g=2023-09-28"
-jci_1_0: "1.0:c:BWBR0029232&g=2023-09-28"
-citeertitel_status: "officieel"
-short_title: "Regeling naturalisatietoets Sint Maarten 2011"
-signed_date: "2010-12-15"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2023-09-28
+status: geldig
+toestand: 2023-09-28
+bron: "https://wetten.overheid.nl/BWBR0029232"
+opgehaald: 2026-08-16
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2010, nr. 5678825/10, tot vaststelling van de Regeling naturalisatietoets Sint Maarten 2011
-
-Gelet op [artikel 23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23) en [artikel 6 van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=6);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de naturalisatietoets:** de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
+- a. *de naturalisatietoets:* de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2);
 
-- b. **verzoeker:** degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
+- b. *verzoeker:* degene die op grond van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verzoekt om verlening van het Nederlanderschap;
 
-- c. **de Gouverneur:** de Gouverneur van Sint Maarten;
+- c. *de Gouverneur:* de Gouverneur van Sint Maarten;
 
-- d. **Dienst Examens Sint Maarten:** een organisatorische eenheid van de Directie Onderwijs in Sint Maarten;
+- d. *Dienst Examens Sint Maarten:* een organisatorische eenheid van de Directie Onderwijs in Sint Maarten;
 
-- e. **onderdeel van de naturalisatietoets:** een van de drie in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28) genoemde onderdelen van de naturalisatietoets.
+- e. *onderdeel van de naturalisatietoets:* een van de drie in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28) genoemde onderdelen van de naturalisatietoets.
 
 #### Paragraaf 2. Naturalisatietoets en afname
 
@@ -150,11 +124,11 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 4. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van de Dienst Examens Sint Maarten over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
 
-5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
+5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 6. Examengeld
 
@@ -186,33 +160,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Sint Maarten 2011
-
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Sint Maarten 2011
-
-### Thema’s van bevraging
-
-Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden uitsluitend gesteld over de thema’s:
-
-### Eindtermen
-
-De volgende eindtermen gelden:
-
-De kandidaat is in staat stappen te zetten om werk te zoeken, te behouden en in eigen onderhoud te voorzien.
-
-De kandidaat is in staat om te gaan met algemeen geldende omgangsvormen, waarden en normen.
-
-De kandidaat is in staat passende huisvesting te vinden en nutsvoorzieningen te regelen. Hij draagt zorg voor de veiligheid in de woning en voor milieu en schone leefomgeving.
-
-De kandidaat is in staat om gebruik te maken van de aanwezige gezondheidszorg.
-
-De kandidaat is in staat om, door kennis van geschiedenis en geografie, betrokken te zijn bij het Koninkrijk der Nederlanden en de samenlevingen op de Carïbische eilanden die deel uitmaken van het Koninkrijk.
-
-De kandidaat is op de hoogte van de dienstverlening van de lokale overheid, de belastingdienst, politie en instanties voor sociale en juridische dienstverlening.
-
-De kandidaat is in staat om, door kennis van de staatkundige inrichting van het Koninkrijk der Nederlanden en de daarvan deeluitmakende Caribische landen, betrokken te zijn bij de samenleving waarin hij woont.
-
-De kandidaat kent het onderwijsstelsel, onderkent het belang van onderwijs in de samenleving en acht schoolgang van minderjarigen van groot belang.
-
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=3&artikel=5&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Sint Maarten 2011
-
-Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsblad van Sint Maarten geplaatst.

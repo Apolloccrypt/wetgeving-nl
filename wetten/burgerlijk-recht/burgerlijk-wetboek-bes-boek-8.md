@@ -1,45 +1,23 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 8"
 identifier: "BWBR0028753"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0028753"
+categorie: "Burgerlijk recht"
 soort: "wet-BES"
-stam_id: "10977263"
-version_id: "17967992"
-internal_id: "C25021051"
-label_id: "10955474"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0028753/2025-07-01/0"
-intitule_bron: "Stb.2010-494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-09-27"
-intitule_published: "2010-10-01"
-intitule_in_force: "2010-10-07"
-intitule_status: "goed"
-original_publication: "Stb.2010-494"
-original_signed_date: "2010-09-27"
-original_published_date: "2010-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2010-494"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0028753&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0028753&g=2025-07-01"
-citeertitel_status: "officieel"
-signed_date: "2010-09-27"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0028753"
+opgehaald: 2026-08-16
 ---
+
 # Burgerlijk Wetboek BES Boek 8
 
 ## Boek 8. Verkeersmiddelen en vervoer
 
 ### I. Algemene bepalingen
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -93,9 +71,9 @@ In dit boek leidt strijd met een dwingende wetsbepaling tot ambtshalve toe te pa
 
 Dit boek laat onverlet enige in de openbare lichamen Bonaire, Sint Eustatius en Saba van kracht zijnde internationale overeenkomst of enige wet die de aansprakelijkheid voor kernschade regelt.
 
-## Titel 2. Algemene bepalingen betreffende vervoer
+### Titel 2. Algemene bepalingen betreffende vervoer
 
-### Afdeling 1. Overeenkomst van goederenvervoer
+#### Afdeling 1. Overeenkomst van goederenvervoer
 
 ##### Artikel 20
 
@@ -159,7 +137,7 @@ Wordt de vervoerder dan wel de afzender of een ondergeschikte van een hunner bui
 
 Deze afdeling geldt slechts ten aanzien van niet elders in dit boek geregelde overeenkomsten van goederenvervoer.
 
-### Afdeling 2. Overeenkomst van gecombineerd goederenvervoer
+#### Afdeling 2. Overeenkomst van gecombineerd goederenvervoer
 
 ##### Artikel 40
 
@@ -193,13 +171,13 @@ Bij een overeenkomst van gecombineerd goederenvervoer gelden voor ieder deel van
 
 - c. een of meer der volgende gegevens met betrekking tot de in onderdeel b bedoelde zaken:
 
-- 1°. aantal,
+   - 1° aantal,
 
-- 2°. gewicht,
+   - 2° gewicht,
 
-- 3°. volume,
+   - 3° volume,
 
-- 4°. merken,
+   - 4° merken,
 
 - d. de plaats waar de gecombineerd vervoerder de zaken ten vervoer heeft ontvangen,
 
@@ -267,7 +245,7 @@ Levering van het CT-document vóór de aflevering van de daarin vermelde zaken d
 
 Van de houders van verschillende exemplaren van hetzelfde CT-document heeft hij het beste recht, die houder is van het exemplaar, waarvan ná de gemeenschappelijke voorman, die houder was van al die exemplaren, het eerst een ander houder is geworden te goeder trouw en onder bezwarende titel.
 
-### Afdeling 3. Overeenkomst tot het doen vervoeren van goederen
+#### Afdeling 3. Overeenkomst tot het doen vervoeren van goederen
 
 ##### Artikel 60
 
@@ -351,9 +329,9 @@ Het totaal van de bedragen, verhaalbaar op de expediteur, al dan niet gezamenlij
 
 ### II. Zeerecht
 
-## Titel 3. Het zeeschip en de zaken aan boord daarvan
+### Titel 3. Het zeeschip en de zaken aan boord daarvan
 
-### Afdeling 1. Rederij van het zeeschip
+#### Afdeling 1. Rederij van het zeeschip
 
 ##### Artikel 160
 
@@ -499,7 +477,7 @@ Indien tot ontbinding der rederij is besloten, moet het schip worden verkocht. I
 
 Nietig is ieder beding, waarbij wordt afgeweken van de [artikelen 161 tot en met 163](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=161&z=2025-07-01&g=2025-07-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=169&z=2025-07-01&g=2025-07-01), [170, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=170&z=2025-07-01&g=2025-07-01), [178, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=178&z=2025-07-01&g=2025-07-01), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=180&z=2025-07-01&g=2025-07-01), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=182&z=2025-07-01&g=2025-07-01) en [183](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=183&z=2025-07-01&g=2025-07-01).
 
-### Afdeling 2. Rechten op zeeschepen
+#### Afdeling 2. Rechten op zeeschepen
 
 ##### Artikel 190
 
@@ -511,9 +489,9 @@ Nietig is ieder beding, waarbij wordt afgeweken van de [artikelen 161 tot en met
 
 In deze afdeling wordt verstaan onder:
 
-- a. **de openbare registers:** de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2);
+- a. *de openbare registers:* de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2);
 
-- b. **het register:** het register bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2025-07-01&g=2025-07-01).
+- b. *het register:* het register bedoeld in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=193&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 192
 
@@ -551,13 +529,13 @@ Teboekstelling is slechts mogelijk ten aanzien van pleziervaartuigen in de niet-
 
 - b. op aangifte van de reder of ambtshalve:
 
-- 1°. als het schip is vergaan, gesloopt is of blijvend ongeschikt voor drijven is geworden;
+   - 1° als het schip is vergaan, gesloopt is of blijvend ongeschikt voor drijven is geworden;
 
-- 2°. als van het schip gedurende zes maanden na het laatste uitvaren of de dag, waartoe zich de laatst ontvangen berichten uitstrekken, in het geheel geen tijding is aangekomen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten;
+   - 2° als van het schip gedurende zes maanden na het laatste uitvaren of de dag, waartoe zich de laatst ontvangen berichten uitstrekken, in het geheel geen tijding is aangekomen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten;
 
-- 3°. als het schip door rovers of vijanden is genomen;
+   - 3° als het schip door rovers of vijanden is genomen;
 
-- 4°. als het schip niet of niet meer de hoedanigheid van een Nederlands schip heeft. Wanneer het schip de hoedanigheid van een Nederlands schip heeft verloren door toewijzing na een executie buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, vindt doorhaling slechts plaats, wanneer hetzij de reder, degenen van wier recht uit een inschrijving blijkt en de beslagleggers gelegenheid hebben gehad hun rechten op de opbrengst geldend te maken en hun daartoe ook feitelijk de gelegenheid is gegeven hetzij deze personen hun toestemming tot de doorhaling verlenen of hun vorderingen zijn voldaan.
+   - 4° als het schip niet of niet meer de hoedanigheid van een Nederlands schip heeft. Wanneer het schip de hoedanigheid van een Nederlands schip heeft verloren door toewijzing na een executie buiten de openbare lichamen Bonaire, Sint Eustatius en Saba, vindt doorhaling slechts plaats, wanneer hetzij de reder, degenen van wier recht uit een inschrijving blijkt en de beslagleggers gelegenheid hebben gehad hun rechten op de opbrengst geldend te maken en hun daartoe ook feitelijk de gelegenheid is gegeven hetzij deze personen hun toestemming tot de doorhaling verlenen of hun vorderingen zijn voldaan.
 
 2. In de in het eerste lid, onderdeel b, bedoelde gevallen is de reder tot het doen van aangifte verplicht binnen drie maanden nadat de reden tot doorhaling zich heeft voorgedaan.
 
@@ -599,23 +577,23 @@ De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de 
 
 ##### Artikel 205
 
-Indien de vordering rente draagt, strekt de hypotheek mede tot zekerheid voor de renten der hoofdsom, vervallen gedurende de laatste drie jaren voorafgaand aan het begin van de uitwinning en gedurende de loop hiervan. [Artikel 263 van Boek 3](onbekend) is niet van toepassing.
+Indien de vordering rente draagt, strekt de hypotheek mede tot zekerheid voor de renten der hoofdsom, vervallen gedurende de laatste drie jaren voorafgaand aan het begin van de uitwinning en gedurende de loop hiervan. Artikel 263 van Boek 3 is niet van toepassing.
 
 ##### Artikel 206
 
-Op hypotheek op een aandeel in een teboekstaand zeeschip is [artikel 177 van Boek 3](onbekend) niet van toepassing; de hypotheek blijft na vervreemding of toedeling van het schip in stand.
+Op hypotheek op een aandeel in een teboekstaand zeeschip is artikel 177 van Boek 3 niet van toepassing; de hypotheek blijft na vervreemding of toedeling van het schip in stand.
 
 ##### Artikel 207
 
-1. [Artikel 264, eerste en tweede lid, van Boek 3](onbekend), is in geval van een hypotheek waaraan een teboekstaand zeeschip is onderworpen, mede van toepassing op bevrachtingen.
+1. Artikel 264, eerste en tweede lid, van Boek 3, is in geval van een hypotheek waaraan een teboekstaand zeeschip is onderworpen, mede van toepassing op bevrachtingen.
 
-2. De [artikelen 234](onbekend) en [261 van Boek 3](onbekend) zijn op een zodanige hypotheek niet van toepassing.
+2. De artikelen 234 en 261 van Boek 3 zijn op een zodanige hypotheek niet van toepassing.
 
 ##### Artikel 208
 
-In geval van vruchtgebruik op een teboekstaand zeeschip zijn de bepalingen van [artikel 217 van Boek 3](onbekend) mede van toepassing op bevrachting voor zover die bepalingen niet naar hun aard uitsluitend op huur van bedrijfsruimte of huur van woonruimte van toepassing zijn.
+In geval van vruchtgebruik op een teboekstaand zeeschip zijn de bepalingen van artikel 217 van Boek 3 mede van toepassing op bevrachting voor zover die bepalingen niet naar hun aard uitsluitend op huur van bedrijfsruimte of huur van woonruimte van toepassing zijn.
 
-### Afdeling 3. Voorrechten op zeeschepen
+#### Afdeling 3. Voorrechten op zeeschepen
 
 ##### Artikel 210
 
@@ -699,7 +677,7 @@ Na de vorderingen, bedoeld in [artikel 217](https://wetten.overheid.nl/jci1.3:c:
 
 3. In geval van executoriale verkoop gaan de voorrechten mede teniet op het tijdstip waarop het proces-verbaal van verdeling wordt gesloten.
 
-### Afdeling 4. Voorrechten op zaken aan boord van zeeschepen
+#### Afdeling 4. Voorrechten op zaken aan boord van zeeschepen
 
 ##### Artikel 220
 
@@ -749,7 +727,7 @@ De in [artikel 222](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofd
 
 De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of scheepsbenodigdheden kan het hem in [titel 1, afdeling 8, van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&afdeling=8) toegekende recht slechts gedurende 48 uur na het einde van de levering uitoefenen, doch zulks ook indien deze zaken zich bevinden in handen van de reder, een rompbevrachter of een tijdbevrachter van het schip.
 
-### Afdeling 5. Slotbepalingen
+#### Afdeling 5. Slotbepalingen
 
 ##### Artikel 230
 
@@ -767,9 +745,9 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 
 Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=3&afdeling=2&z=2025-07-01&g=2025-07-01) geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16).
 
-## Titel 4. Bemanning van een zeeschip
+### Titel 4. Bemanning van een zeeschip
 
-### Afdeling 2. Kapitein
+#### Afdeling 2. Kapitein
 
 ##### Artikel 260
 
@@ -791,9 +769,9 @@ Behoeven de in de [afdelingen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:
 
 2. De kapitein verbindt zichzelf slechts dan, wanneer hij de grenzen zijner bevoegdheid overschrijdt.
 
-## Titel 5. Exploitatie
+### Titel 5. Exploitatie
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 360
 
@@ -853,7 +831,7 @@ Het totaal van de bedragen verhaalbaar op een derde die partij is bij een exploi
 
 Deze titel is niet van toepassing ten aanzien van minder dan 20 kubieke meters bruto-inhoud metende schepen.
 
-### Afdeling 2. Overeenkomst van goederenvervoer over zee
+#### Afdeling 2. Overeenkomst van goederenvervoer over zee
 
 ##### Artikel 370
 
@@ -1387,7 +1365,7 @@ Indien er zekerheid of vermoeden bestaat, dat er verlies of schade is, moeten de
 
 2. De rechter kan deze kosten en door het onderzoek geleden schade geheel of gedeeltelijk ten laste van de wederpartij van de aanvrager brengen, ook al zou daardoor het bedrag bedoeld in [artikel 388, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=388&z=2025-07-01&g=2025-07-01), worden overschreden.
 
-### Afdeling 3. Overeenkomst van personenvervoer over zee
+#### Afdeling 3. Overeenkomst van personenvervoer over zee
 
 ##### Artikel 500
 
@@ -1469,9 +1447,9 @@ Onverminderd [artikel 508](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=
 
 - a. in geval van uiterlijk zichtbare schade aan bagage:
 
-- 1°. wat betreft hutbagage: voor of ten tijde van de ontscheping van de reiziger;
+   - 1° wat betreft hutbagage: voor of ten tijde van de ontscheping van de reiziger;
 
-- 2°. wat betreft alle andere bagage: voor of ten tijde van de aflevering;
+   - 2° wat betreft alle andere bagage: voor of ten tijde van de aflevering;
 
 - b. in geval van niet uiterlijk zichtbare schade aan of verlies van bagage: binnen vijftien dagen na de aanvang van de dag, volgende op de dag van ontscheping of aflevering of die waarop de bagage had moeten worden afgeleverd.
 
@@ -1507,9 +1485,9 @@ Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade gel
 
 ##### Artikel 518
 
-1. De aansprakelijkheid van de vervoerder ter zake van dood of letsel van de reiziger is beperkt tot een bedrag van ten hoogste 175 000 rekeneenheden per reiziger.
+1. De aansprakelijkheid van de vervoerder ter zake van dood of letsel van de reiziger is beperkt tot een bedrag van ten hoogste 175 000 rekeneenheden per reiziger.
 
-2. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente is het gekapitaliseerde bedrag beperkt tot een bedrag van ten hoogste 175 000 rekeneenheden per reiziger.
+2. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente is het gekapitaliseerde bedrag beperkt tot een bedrag van ten hoogste 175 000 rekeneenheden per reiziger.
 
 ##### Artikel 518a
 
@@ -1517,7 +1495,7 @@ Onder verlies of beschadiging van bagage wordt mede verstaan vermogensschade gel
 
 2. De aansprakelijkheid van de vervoerder ter zake van verlies of beschadiging van een als bagage ten vervoer aangenomen voertuig of schip, met inbegrip van de bagage aan boord daarvan, is beperkt tot een bedrag van ten hoogste 10 000 rekeneenheden per voertuig of schip.
 
-3. De aansprakelijkheid van de vervoerder ter zake van verlies of beschadiging van bagage, niet zijnde bagage in de zin van het eerste of tweede lid, is beperkt tot een bedrag van ten hoogste 2 700 rekeneenheden per reiziger.
+3. De aansprakelijkheid van de vervoerder ter zake van verlies of beschadiging van bagage, niet zijnde bagage in de zin van het eerste of tweede lid, is beperkt tot een bedrag van ten hoogste 2 700 rekeneenheden per reiziger.
 
 4. Ten aanzien van de aansprakelijkheid van de vervoerder in de zin van dit artikel kunnen de vervoerder en de reiziger een franchise overeenkomen van ten hoogste:
 
@@ -1597,7 +1575,7 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 
 3. [Artikel 36, tweede lid, van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=36) is niet van toepassing.
 
-### Afdeling 4. Enige bijzondere overeenkomsten
+#### Afdeling 4. Enige bijzondere overeenkomsten
 
 ##### Artikel 530
 
@@ -1615,9 +1593,9 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 
 Voor de toepassing van de bepalingen van deze afdeling wordt terbeschikkingstelling van een en eenzelfde schip ter zee en op binnenwateren beschouwd als terbeschikkingstelling ter zee, tenzij deze terbeschikkingstelling terzee kennelijk ondergeschikt is aan die op binnenwateren, in welk geval zij als terbeschikkingstelling op binnenwateren wordt beschouwd.
 
-## Titel 6. Ongevallen
+### Titel 6. Ongevallen
 
-### Afdeling 1. Aanvaring
+#### Afdeling 1. Aanvaring
 
 ##### Artikel 540
 
@@ -1655,21 +1633,21 @@ Er bestaan geen wettelijke vermoedens van schuld met betrekking tot de aansprake
 
 De krachtens deze afdeling bestaande aansprakelijkheid wordt niet opgeheven in geval de aanvaring is veroorzaakt door de schuld van een loods, zelfs niet als het gebruik van deze verplicht is.
 
-### Afdeling 2. Hulpverlening
+#### Afdeling 2. Hulpverlening
 
 ##### Artikel 551
 
 In deze afdeling wordt verstaan onder:
 
-- a. **hulpverlening:** iedere daad of werkzaamheid, verricht om hulp te verlenen aan een in bevaarbaar water of in welk ander water dan ook in gevaar verkerend schip of andere zaak;
+- a. *hulpverlening:* iedere daad of werkzaamheid, verricht om hulp te verlenen aan een in bevaarbaar water of in welk ander water dan ook in gevaar verkerend schip of andere zaak;
 
-- b. **schip:** ieder schip of ander vaartuig, dan wel iedere constructie waarmee kan worden gevaren;
+- b. *schip:* ieder schip of ander vaartuig, dan wel iedere constructie waarmee kan worden gevaren;
 
-- c. **goederen:** alle zaken die niet blijvend en opzettelijk aan de kust zijn bevestigd en de in risico zijnde vracht;
+- c. *goederen:* alle zaken die niet blijvend en opzettelijk aan de kust zijn bevestigd en de in risico zijnde vracht;
 
-- d. **milieuschade:** aanzienlijke fysieke schade aan de gezondheid van de mens, aan de mariene fauna of flora of aan hulpbronnen in kust- of binnenwateren of daaraan grenzende gebieden, veroorzaakt door verontreiniging, besmetting, brand, ontploffing of soortgelijke ingrijpende gebeurtenissen;
+- d. *milieuschade:* aanzienlijke fysieke schade aan de gezondheid van de mens, aan de mariene fauna of flora of aan hulpbronnen in kust- of binnenwateren of daaraan grenzende gebieden, veroorzaakt door verontreiniging, besmetting, brand, ontploffing of soortgelijke ingrijpende gebeurtenissen;
 
-- e. **betaling:** iedere krachtens deze afdeling verschuldigde beloning, vergoeding of schadeloosstelling.
+- e. *betaling:* iedere krachtens deze afdeling verschuldigde beloning, vergoeding of schadeloosstelling.
 
 ##### Artikel 552
 
@@ -1685,7 +1663,7 @@ Deze afdeling is niet van toepassing in geval van hulpverlening aan:
 
 ##### Artikel 554
 
-Deze afdeling is mede van toepassing in geval van hulpverlening door of aan een oorlogsschip of ander niet-handelsschip, dat toebehoort aan, dan wel gebruikt of bevracht wordt door enige Staat die het Internationaal Verdrag inzake Hulpverlening, 1989 (Trb. 1990, 109), op die schepen van toepassing heeft verklaard.
+Deze afdeling is mede van toepassing in geval van hulpverlening door of aan een oorlogsschip of ander niet-handelsschip, dat toebehoort aan, dan wel gebruikt of bevracht wordt door enige Staat die het Internationaal Verdrag inzake Hulpverlening, 1989 (Trb. 1990, 109), op die schepen van toepassing heeft verklaard.
 
 ##### Artikel 555
 
@@ -1899,7 +1877,7 @@ Afstand, jegens wie dan ook, door een lid der bemanning van zijn recht op een aa
 
 De wetsbepalingen omtrent zaakwaarneming vinden op hulpverlening geen toepassing.
 
-### Afdeling 3. Avarij-grosse
+#### Afdeling 3. Avarij-grosse
 
 ##### Artikel 610
 
@@ -1919,7 +1897,135 @@ Alleen zodanige verliezen, schaden of onkosten, die het onmiddellijke gevolg zij
 
 De vergoedingen in avarij-grosse en de dragende waarden der in de avarij-grosse bijdragende belangen worden bovendien bepaald met inachtneming van de York-Antwerp Rules, zoals vastgesteld door het Comité Maritime International en zulks in de Engelstalige tekst daarvan.
 
-## Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
+#### Afdeling 4. Aansprakelijkheid voor de kosten van het lokaliseren, markeren en opruimen van een wrak
+
+##### Artikel 614
+
+In deze afdeling wordt verstaan onder:
+
+- a. *«Verdrag»:* het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008,115);
+
+- b. *«wrak», «schip», «maritiem ongeval», «gevaar», «geregistreerde eigenaar», «Staat waar het schip geregistreerd is»:* hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag;
+
+- c. *«lokaliseren, markeren en opruimen»:* hetgeen daaronder wordt verstaan in het Verdrag.
+
+##### Artikel 615
+
+1. De geregistreerde eigenaar is, behoudens het bepaalde in deze afdeling, aansprakelijk voor de kosten van het lokaliseren, markeren en opruimen van het wrak overeenkomstig [paragraaf 4.6, onderdeel 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&deel=4.6.3) en [4.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&deel=4.6.4), waar nodig in samenhang met [hoofdstuk 4a, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4a).
+
+2. De geregistreerde eigenaar is niet op grond van deze afdeling aansprakelijk indien hij bewijst dat het maritiem ongeval dat tot het wrak geleid heeft:
+
+- a. het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of een natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
+
+- b. in zijn geheel is veroorzaakt door een handelen of nalaten door een derde met het oogmerk schade te veroorzaken; of
+
+- c. in zijn geheel is veroorzaakt door nalatigheid of een andere onrechtmatige daad van een overheid of andere autoriteit die verantwoordelijk is voor het onderhoud van verlichting of andere navigatiehulpmiddelen bij de uitoefening van die taak.
+
+3. Geen vordering tot vergoeding van de kosten bedoeld in het eerste lid, kan tegen de geregistreerde eigenaar worden ingesteld anders dan in overeenstemming met de bepalingen van deze afdeling.
+
+4. Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.
+
+##### Artikel 616
+
+1. De geregistreerde eigenaar is uit hoofde van deze afdeling niet aansprakelijk voor de kosten bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met:
+
+- a. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, zoals gewijzigd;
+
+- b. het Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996, zoals gewijzigd;
+
+- c. het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, 1960, zoals gewijzigd, of het Verdrag van Wenen inzake wettelijke aansprakelijkheid voor kernschade, 1963, zoals gewijzigd; of nationaal recht dat beperking van de aansprakelijkheid voor kernschade regelt of verbiedt; of
+
+- d. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001, zoals gewijzigd;
+
+mits het desbetreffende verdrag van toepassing en van kracht is.
+
+2. Voor zover maatregelen uit hoofde van de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550) worden aangemerkt als hulpverlening overeenkomstig het op 28 april 1989 te Londen tot stand gekomen Internationaal Verdrag inzake hulpverlening, is dat verdrag van toepassing op kwesties omtrent het loon of de vergoeding verschuldigd aan de hulpverlener en met uitsluiting van de regels van deze afdeling.
+
+##### Artikel 617
+
+1. Vorderingen tot vergoeding van kosten als bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar voor kosten als bedoeld in artikel 615, eerste lid. In dit geval kan de verweerder, zelfs indien de geregistreerde eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag berekend overeenkomstig [artikel 755, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01).
+
+2. De verweerder komen alle verweermiddelen toe welke de geregistreerde eigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de geregistreerde eigenaar surseance van betaling is verleend, dat ten aanzien van de geregistreerde eigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de geregistreerde eigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de kosten zijn veroorzaakt door opzettelijk wangedrag van de geregistreerde eigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de geregistreerde eigenaar tegen hem ingestelde vordering komen hem niet toe.
+
+3. De verweerder kan de geregistreerde eigenaar steeds in het geding roepen.
+
+#### Afdeling 5. Aansprakelijkheid voor schade door verontreiniging door bunkerolie
+
+#### Paragraaf 1. Algemene bepalingen en toepassingsgebied
+
+##### Artikel 618
+
+In deze afdeling wordt verstaan onder:
+
+- a. Verdrag: het op 23 maart 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001 (Trb. 2005, 329);
+
+- b. Aansprakelijkheidsverdrag: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
+
+- c. Onze Minister: Onze Minister van Infrastructuur en Waterstaat;
+
+- d. schip, persoon, bunkerolie, preventieve maatregelen, voorval, schade door verontreiniging, scheepseigenaar, geregistreerd eigenaar en brutotonnage: hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag.
+
+##### Artikel 619
+
+1. Deze afdeling is van toepassing op:
+
+- a. schade door verontreiniging door bunkerolie veroorzaakt in de openbare lichamen Bonaire, Sint-Eustatius en Saba, de territoriale zee daaronder begrepen;
+
+- b. schade door verontreiniging door bunkerolie veroorzaakt binnen de Exclusieve Economische Zone (EEZ) van de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+
+- c. preventieve maatregelen, waar ook genomen, ter voorkoming of beperking van zodanige schade.
+
+2. Deze afdeling is niet van toepassing op:
+
+- a. schade door verontreiniging door bunkerolie zoals omschreven in het Aansprakelijkheidsverdrag, ongeacht of ten aanzien van die schade wel of geen schadevergoeding verschuldigd is ingevolge dat verdrag; en
+
+- b. oorlogsschepen, ondersteuningsschepen van de marine of andere schepen die toebehoren aan of geëxploiteerd worden door een Staat en die in de betrokken periode uitsluitend worden gebruikt in overheidsdienst voor niet-commerciële doeleinden, behoudens voor zover de desbetreffende Staat anders heeft beslist en daaraan op de voet van artikel 4, derde lid, van het Verdrag genoegzaam uitvoering heeft gegeven.
+
+#### Paragraaf 2. Aansprakelijkheid van de scheepseigenaar
+
+##### Artikel 620
+
+1. De scheepseigenaar op het tijdstip van het voorval is, behoudens het bepaalde in het derde en vierde lid, aansprakelijk voor schade door verontreiniging door bunkerolie veroorzaakt aan boord of afkomstig van het schip, met dien verstande dat indien het voorval bestaat uit een opeenvolging van feiten met dezelfde oorsprong, de aansprakelijkheid rust op degene die ten tijde van het eerste feit de scheepseigenaar was.
+
+2. Indien meer dan een persoon aansprakelijk is op grond van het eerste lid, zijn zij hoofdelijk aansprakelijk.
+
+3. De scheepseigenaar is niet aansprakelijk indien hij bewijst dat:
+
+- a. de schade door verontreiniging door bunkerolie het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
+
+- b. de schade door verontreiniging door bunkerolie geheel en al werd veroorzaakt door een handelen of nalaten van een derde met de opzet schade te veroorzaken; of
+
+- c. de schade door verontreiniging door bunkerolie geheel en al werd veroorzaakt door onzorgvuldigheid of een andere onrechtmatige handeling van een overheid of andere autoriteit verantwoordelijk voor het onderhoud van vuurtorens of andere hulpmiddelen bij de navigatie, in de uitoefening van die functie.
+
+4. Indien de scheepseigenaar bewijst dat de schade door verontreiniging door bunkerolie geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet de schade te veroorzaken, of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van de aansprakelijkheid tegenover die persoon.
+
+5. Geen vordering tot vergoeding van schade door verontreiniging door bunkerolie kan tegen de scheepseigenaar worden ingesteld anders dan in overeenstemming met deze afdeling.
+
+6. De scheepseigenaar heeft het recht van verhaal op derden die voor de schade uit anderen hoofde, anders dan uit overeenkomst, jegens de benadeelden aansprakelijk zijn.
+
+##### Artikel 621
+
+Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging door bunkerolie is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij deze ingevolge [artikel 620](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=620&z=2025-07-01&g=2025-07-01) van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is [artikel 545, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
+
+##### Artikel 622
+
+De scheepseigenaar en de persoon of de personen die verzekeren of een andere financiële zekerheid stellen, kunnen hun aansprakelijkheid per voorval beperken uit hoofde van [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01).
+
+##### Artikel 623
+
+1. Vorderingen tot vergoeding van schade door verontreiniging door bunkerolie kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door dergelijke verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van [artikel 622](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=622&z=2025-07-01&g=2025-07-01) niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 7, eerste lid, van het Verdrag.
+
+2. De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surseance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
+
+3. De verweerder kan de scheepseigenaar steeds in het geding roepen.
+
+##### Artikel 624
+
+1. De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1.000 dat niet op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, is verplicht om, indien het schip een haven of laad- of losplaats in de openbare lichamen Bonaire, Sint-Eustatius en Saba aanloopt of verlaat, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt, berekend overeenkomstig [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01), ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
+
+2. De [artikelen 646 tot en met 653 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=646) zijn van overeenkomstige toepassing op de geregistreerde eigenaar van een schip als bedoeld in het eerste lid.
+
+### Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
 
 ##### Artikel 750
 
@@ -1959,7 +2065,7 @@ De vergoedingen in avarij-grosse en de dragende waarden der in de avarij-grosse 
 
 - a. vorderingen uit hoofde van hulpverlening of bijdrage in avarij-grosse;
 
-- b. vorderingen voor schade door verontreiniging door olie, zoals deze zijn bedoeld in het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1970, 196) of in enige kracht van wet hebbende wijziging van dat Verdrag of Protocol daarbij;
+- b. vorderingen voor schade door verontreiniging door olie, zoals deze zijn bedoeld in het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1970, 196) of in enige kracht van wet hebbende wijziging van dat Verdrag of Protocol daarbij;
 
 - c. vorderingen gebaseerd op enig bindend internationaal verdrag of enige wet die de beperking van aansprakelijkheid voor kernschade regelt of verbiedt;
 
@@ -1979,15 +2085,15 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 ##### Artikel 755
 
-1. Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01) die naar aanleiding van éénzelfde voorval zijn ontstaan worden beperkt tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
+1. Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in [artikel 756](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=756&z=2025-07-01&g=2025-07-01) die naar aanleiding van éénzelfde voorval zijn ontstaan worden beperkt tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
 2. Voor schepen, die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, kan bij algemene maatregel van bestuur het bedrag waartoe uit hoofde van deze titel de aansprakelijkheid voor de in het eerste lid, aanhef en onderdeel b, bedoelde vorderingen kan worden beperkt, op een lager aantal rekeneenheden worden gesteld dan bedoeld in het eerste lid, onderdeel b, onder 1°.
 
 3. Het bedrag waartoe de aansprakelijkheid van een hulpverlener aan een schip die niet van een zeeschip uit werkzaamheden verricht of die werkzaamheden uitsluitend verricht op het schip waaraan of met betrekking waartoe hij hulp verleent, kan worden beperkt, wordt berekend naar een tonnage van 1500 ton.
 
-4. Voor de toepassing van deze titel wordt onder tonnage van het schip verstaan de bruto-tonnage van het schip berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969, met bijlagen (Trb. 1970, 122).
+4. Voor de toepassing van deze titel wordt onder tonnage van het schip verstaan de bruto-tonnage van het schip berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969, met bijlagen (Trb. 1970, 122).
 
-5. Op verzoek van de eigenaar kan door het hoofd van de scheepsmetingsdienst een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
+5. Op verzoek van de eigenaar kan door het hoofd van de scheepsmetingsdienst een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
 
 6. Deze verklaring wordt afgegeven tegen betaling van de kosten volgens een door Onze Minister van Infrastructuur en Waterstaat vast te stellen tarief.
 
@@ -1995,7 +2101,7 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 ##### Artikel 756
 
-1. Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval ter zake van dood of letsel van passagiers van een schip kan de reder zijn aansprakelijkheid beperken tot het bedrag bepaald in artikel 7 van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 4 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
+1. Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval ter zake van dood of letsel van passagiers van een schip kan de reder zijn aansprakelijkheid beperken tot het bedrag bepaald in artikel 7 van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 4 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
 2. Onder vorderingen ter zake van dood of letsel van reizigers worden voor de toepassing van dit artikel verstaan dergelijke vorderingen ingediend naar aanleiding van een voorval overkomen aan enige persoon vervoerd aan boord van het schip:
 
@@ -2025,23 +2131,23 @@ De rekeneenheid, bedoeld in de [artikelen 755](https://wetten.overheid.nl/jci1.3
 
 ### V. Luchtrecht
 
-## Titel 15. Het luchtvaartuig
+### Titel 15. Het luchtvaartuig
 
-### Afdeling 1. Rechten op luchtvaartuigen
+#### Afdeling 1. Rechten op luchtvaartuigen
 
 ##### Artikel 1300
 
 In deze titel wordt verstaan onder:
 
-- a. **het Verdrag van Genève:** het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86);
+- a. *het Verdrag van Genève:* het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86);
 
-- b. **Verdragsstaat:** een staat waarvoor het Verdrag van Genève van kracht is;
+- b. *Verdragsstaat:* een staat waarvoor het Verdrag van Genève van kracht is;
 
-- c. **het register:** het register, bedoeld in [artikel 1302](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1302&z=2025-07-01&g=2025-07-01);
+- c. *het register:* het register, bedoeld in [artikel 1302](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=1&artikel=1302&z=2025-07-01&g=2025-07-01);
 
-- d. **verdragsregister:** een in het buitenland gehouden register als bedoeld in artikel 1, eerste lid, onder ii, van het Verdrag van Genève;
+- d. *verdragsregister:* een in het buitenland gehouden register als bedoeld in artikel 1, eerste lid, onder ii, van het Verdrag van Genève;
 
-- e. **de openbare registers:** de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2).
+- e. *de openbare registers:* de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2).
 
 ##### Artikel 1301
 
@@ -2077,13 +2183,13 @@ Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van 
 
 - b. op aangifte van de eigenaar of ambtshalve:
 
-- 1°. als het luchtvaartuig heeft opgehouden als zodanig te bestaan;
+   - 1° als het luchtvaartuig heeft opgehouden als zodanig te bestaan;
 
-- 2°. als van het luchtvaartuig gedurende twee maanden na het laatste vertrek geen tijding is ontvangen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten;
+   - 2° als van het luchtvaartuig gedurende twee maanden na het laatste vertrek geen tijding is ontvangen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten;
 
-- 3°. als het luchtvaartuig niet of niet meer de hoedanigheid van een Nederlands luchtvaartuig heeft;
+   - 3° als het luchtvaartuig niet of niet meer de hoedanigheid van een Nederlands luchtvaartuig heeft;
 
-- 4°. als het luchtvaartuig, na een executie in een Verdragsstaat in het buitenland, die plaatsvond overeenkomstig het Verdrag van Genève, in een verdragsregister teboekstaat.
+   - 4° als het luchtvaartuig, na een executie in een Verdragsstaat in het buitenland, die plaatsvond overeenkomstig het Verdrag van Genève, in een verdragsregister teboekstaat.
 
 2. In de in het eerste lid, onderdeel b, genoemde gevallen is de eigenaar van het luchtvaartuig tot het doen van aangifte verplicht binnen drie maanden nadat de reden tot doorhaling zich heeft voorgedaan.
 
@@ -2137,7 +2243,7 @@ Op hypotheek op een aandeel in een teboekstaand luchtvaartuig is [artikel 177 va
 
 Op een hypotheek op een teboekstaand luchtvaartuig zijn de [artikelen 234](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=234), [261](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=261), [264](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=264), [265](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=265), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=266) en [268 tot en met 273 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=268) en de [artikelen 544 tot en met 548 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=544) niet van toepassing.
 
-### Afdeling 2. Voorrechten op luchtvaartuigen
+#### Afdeling 2. Voorrechten op luchtvaartuigen
 
 ##### Artikel 1315
 
@@ -2177,17 +2283,35 @@ De schuldeiser die een voorrecht heeft op grond van [artikel 1317](https://wette
 
 4. Voorrechten als bedoeld in [artikel 1317](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=V&titeldeel=15&afdeling=2&artikel=1317&z=2025-07-01&g=2025-07-01) kunnen worden ingeschreven in de openbare registers. [Artikel 24, eerste lid, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=24) is niet van toepassing.
 
-### Afdeling 3. Slotbepaling
+#### Afdeling 3. Slotbepaling
 
 ##### Artikel 1321
 
 Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16).
 
+##### Artikel 1322
+
+1. In afwijking van de [Wet luchtvervoer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028227), is op het internationale vervoer van personen, bagage of goederen met luchtvaartuigen tegen betaling het op 28 mei 1999 te Montreal tot stand gekomen Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer (Trb. 2000, 32 en Trb. 2001, 91 en 107) van toepassing op:
+
+- a. luchtvervoer tussen twee staten die partij zijn bij het verdrag;
+
+- b. luchtvervoer dat aanvangt en eindigt binnen een staat die partij is bij het verdrag, mits er een tussenlanding plaatsvindt in een andere staat ongeacht of deze laatste partij is bij het verdrag.
+
+2. Dit verdrag is eveneens van toepassing op:
+
+- a. luchtvervoer door opeenvolgende luchtvervoerders welk vervoer partijen als een enkele handeling beschouwen,
+
+- b. luchtvervoer verricht door een andere dan de contractuele vervoerder en
+
+- c. luchtvervoer dat kosteloos door een luchtvaartonderneming wordt verricht.
+
+3. Het verdrag bedoeld in het eerste lid, is van overeenkomstige toepassing op luchtvervoer binnen het Koninkrijk der Nederlanden tussen en vanaf de openbare lichamen Bonaire, St. Eustatius en Saba.
+
 ### VII. Slotbepalingen
 
-## Titel 20. Verjaring en verval
+### Titel 20. Verjaring en verval
 
-### Afdeling 1. Algemene bepalingen
+#### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 1700
 
@@ -2203,19 +2327,19 @@ Een termijn, bij afloop waarvan een rechtsvordering verjaart of vervalt, kan wor
 
 Het feit, dat een schuldenaar opzettelijk het bestaan van de schuld voor de schuldeiser verborgen houdt, is niet van invloed op een termijn van verjaring of verval.
 
-### Afdeling 2. Voorrechten op luchtvaartuigen
+#### Afdeling 2. Goederenvervoer
 
 ##### Artikel 1710
 
 In [artikel 1711](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1711&z=2025-07-01&g=2025-07-01) en in de [artikelen 1713 tot en met 1720](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01) wordt verstaan onder:
 
-- a. **vervoerovereenkomst:** een overeenkomst van goederenvervoer als bedoeld in [titel 2, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&z=2025-07-01&g=2025-07-01), en [titel 5, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2025-07-01&g=2025-07-01).
+- a. *vervoerovereenkomst:* een overeenkomst van goederenvervoer als bedoeld in [titel 2, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=I&titeldeel=2&afdeling=1&z=2025-07-01&g=2025-07-01), en [titel 5, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2025-07-01&g=2025-07-01).
 
-- b. **vervoerder:** een vervoerder bij een vervoerovereenkomst.
+- b. *vervoerder:* een vervoerder bij een vervoerovereenkomst.
 
-- c. **afzender:** een afzender, cognossementhouder, geadresseerde of ontvanger bij een vervoerovereenkomst.
+- c. *afzender:* een afzender, cognossementhouder, geadresseerde of ontvanger bij een vervoerovereenkomst.
 
-- d. **dag van aflevering:** dag waarop de onder de vervoerovereenkomst te vervoeren of vervoerde zaken uit het vervoermiddel zijn afgeleverd dan wel, indien zij niet zijn afgeleverd, onder de al dan niet tot uitvoering gekomen vervoerovereenkomst hadden moeten zijn afgeleverd; worden zaken na voortijdige beëindiging van de vervoerovereenkomst alsnog door de vervoerder in feite afgeleverd, dan geldt de dag dezer feitelijke aflevering als dag van aflevering; worden zaken op grond van [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) dan wel enig beding van dusdanige strekking verkocht, dan geldt de dag van de verkoop als dag van aflevering.
+- d. *dag van aflevering:* dag waarop de onder de vervoerovereenkomst te vervoeren of vervoerde zaken uit het vervoermiddel zijn afgeleverd dan wel, indien zij niet zijn afgeleverd, onder de al dan niet tot uitvoering gekomen vervoerovereenkomst hadden moeten zijn afgeleverd; worden zaken na voortijdige beëindiging van de vervoerovereenkomst alsnog door de vervoerder in feite afgeleverd, dan geldt de dag dezer feitelijke aflevering als dag van aflevering; worden zaken op grond van [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&artikel=491&z=2025-07-01&g=2025-07-01) dan wel enig beding van dusdanige strekking verkocht, dan geldt de dag van de verkoop als dag van aflevering.
 
 ##### Artikel 1711
 
@@ -2295,7 +2419,7 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 3. Nietig is ieder beding, waarbij van het tweede lid wordt afgeweken.
 
-### Afdeling 3. Bijzondere exploitatie-overeenkomsten
+#### Afdeling 3. Bijzondere exploitatie-overeenkomsten
 
 ##### Artikel 1730
 
@@ -2303,7 +2427,7 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 2. De [artikelen 1710](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1710&z=2025-07-01&g=2025-07-01), [1713 tot en met 1722](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=2&artikel=1713&z=2025-07-01&g=2025-07-01) en [1750 tot en met 1754](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=5&artikel=1750&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-### Afdeling 2. Goederenvervoer
+#### Afdeling 4. Overeenkomst tot het doen vervoeren van goederen
 
 ##### Artikel 1740
 
@@ -2327,7 +2451,7 @@ In afwijking van de [artikelen 1714](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 2. Het eerste lid kan er niet toe leiden, dat de voor rechtsvorderingen, gegrond op de desbetreffende overeenkomst tot het doen vervoeren van goederen, geldende termijn van verjaring of verval eerder verstrijkt ten aanzien van de rechtsvordering tot verhaal die op die overeenkomst tot het doen vervoeren van goederen is gegrond.
 
-### Afdeling 5. Vervoer van personen
+#### Afdeling 5. Vervoer van personen
 
 ##### Artikel 1750
 
@@ -2379,13 +2503,13 @@ In geval van bevrachting strekkende tot het vervoer van personen zijn de [artike
 
 3. Voor de toepassing van dit artikel wordt een overeenkomst, waarbij door de ene partij een vervoermiddel anders dan bij wijze van bevrachting ter beschikking wordt gesteld van haar wederpartij, als exploitatie-overeenkomst aangemerkt en worden de partijen bij die overeenkomst aangemerkt als vervoerder en diens wederpartij of reiziger.
 
-### Afdeling 5. Vervoer van personen
+#### Afdeling 7. Rederij
 
 ##### Artikel 1770
 
 Een rechtsvordering tussen de leden ener rederij als zodanig en tussen deze leden en de boekhouder als zodanig verjaart door verloop van vijf jaren.
 
-### Afdeling 8. Rechtsvorderingen jegens de kapitein
+#### Afdeling 8. Rechtsvorderingen jegens de kapitein
 
 ##### Artikel 1780
 
@@ -2393,7 +2517,7 @@ Een rechtsvordering tussen de leden ener rederij als zodanig en tussen deze lede
 
 2. Het eerste lid is niet van toepassing op rechtsvorderingen van de werkgever van de kapitein.
 
-### Afdeling 9. Aanvaring
+#### Afdeling 9. Aanvaring
 
 ##### Artikel 1790
 
@@ -2415,7 +2539,7 @@ Een rechtsvordering tot verhaal van een overschot als bedoeld in [artikel 545, d
 
 3. Bij de toepassing van dit artikel wordt geen rekening gehouden met een mogelijkerwijs door partijen overeengekomen verlenging van de in [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=VII&titeldeel=20&afdeling=9&artikel=1790&z=2025-07-01&g=2025-07-01) gestelde termijn.
 
-### Afdeling 8. Rechtsvorderingen jegens de kapitein
+#### Afdeling 10. Hulpverlening
 
 ##### Artikel 1820
 
@@ -2425,7 +2549,7 @@ Een rechtsvordering tot verhaal van een overschot als bedoeld in [artikel 545, d
 
 3. In afwijking van het eerste lid kunnen rechtsvorderingen tot verhaal op een derde zelfs na afloop van de in dat lid bedoelde termijn worden ingesteld gedurende een termijn van drie maanden, te rekenen van de dag waarop degene die een zodanige rechtsvordering tot verhaal instelt ten aanzien van het van hemzelf gevorderde een regeling heeft getroffen of waarop hij te dien aanzien in rechte is aangesproken.
 
-### Afdeling 5. Vervoer van personen
+#### Afdeling 11. Avarij-grosse
 
 ##### Artikel 1830
 
@@ -2445,247 +2569,13 @@ Het recht homologatie dan wel herziening van een berekening en omslag van een av
 
 2. De termijn van deze verjaring begint met de aanvang van de dag, volgende op die waarop de dispache of een uittreksel daarvan dan wel, indien een verzoek tot herziening der dispache is gedaan, de naar aanleiding daarvan opgestelde dispache of een uittreksel daarvan aan partijen is meegedeeld, of aan dezen is meegedeeld dat deze dispache ter griffie van het gerecht in eerste aanleg is gedeponeerd, doch in geval van homologatie eerst op de dag dat de dispache bij in kracht van gewijsde gegane beschikking is gehomologeerd.
 
-### Algemene slotbepaling
-
-## Slotbepaling
-
-##### Artikel 1322
-
-1. In afwijking van de [Wet luchtvervoer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028227), is op het internationale vervoer van personen, bagage of goederen met luchtvaartuigen tegen betaling het op 28 mei 1999 te Montreal tot stand gekomen Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer (Trb. 2000, 32 en Trb. 2001, 91 en 107) van toepassing op:
-
-- a. luchtvervoer tussen twee staten die partij zijn bij het verdrag;
-
-- b. luchtvervoer dat aanvangt en eindigt binnen een staat die partij is bij het verdrag, mits er een tussenlanding plaatsvindt in een andere staat ongeacht of deze laatste partij is bij het verdrag.
-
-2. Dit verdrag is eveneens van toepassing op:
-
-- a. luchtvervoer door opeenvolgende luchtvervoerders welk vervoer partijen als een enkele handeling beschouwen,
-
-- b. luchtvervoer verricht door een andere dan de contractuele vervoerder en
-
-- c. luchtvervoer dat kosteloos door een luchtvaartonderneming wordt verricht.
-
-3. Het verdrag bedoeld in het eerste lid, is van overeenkomstige toepassing op luchtvervoer binnen het Koninkrijk der Nederlanden tussen en vanaf de openbare lichamen Bonaire, St. Eustatius en Saba.
-
-### VII. Slotbepalingen
-
-## Titel 20. Verjaring en verval
-
-### Afdeling 3. Slotbepaling
-
-### Afdeling 2. Goederenvervoer
-
-### Afdeling 3. Bijzondere exploitatie-overeenkomsten
-
-### Afdeling 4. Overeenkomst tot het doen vervoeren van goederen
-
-### Afdeling 3. Bijzondere exploitatie-overeenkomsten
-
-### Afdeling 7. Rederij
-
-### Afdeling 8. Rechtsvorderingen jegens de kapitein
-
-### Afdeling 3. Bijzondere exploitatie-overeenkomsten
-
-### Afdeling 10. Hulpverlening
-
-### Afdeling 11. Avarij-grosse
-
-### Algemene slotbepaling
-
-## Slotbepaling
-
-### Afdeling 4. Aansprakelijkheid voor de kosten van het lokaliseren, markeren en opruimen van een wrak
-
-##### Artikel 614
-
-In deze afdeling wordt verstaan onder:
-
-- a. **«Verdrag»:** het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008,115);
-
-- b. **«wrak», «schip», «maritiem ongeval», «gevaar», «geregistreerde eigenaar», «Staat waar het schip geregistreerd is»:** hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag;
-
-- c. **«lokaliseren, markeren en opruimen»:** hetgeen daaronder wordt verstaan in het Verdrag.
-
-##### Artikel 615
-
-1. De geregistreerde eigenaar is, behoudens het bepaalde in deze afdeling, aansprakelijk voor de kosten van het lokaliseren, markeren en opruimen van het wrak overeenkomstig [paragraaf 4.6, onderdeel 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&deel=4.6.3) en [4.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&deel=4.6.4), waar nodig in samenhang met [hoofdstuk 4a, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&hoofdstuk=4a).
-
-2. De geregistreerde eigenaar is niet op grond van deze afdeling aansprakelijk indien hij bewijst dat het maritiem ongeval dat tot het wrak geleid heeft:
-
-- a. het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of een natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
-
-- b. in zijn geheel is veroorzaakt door een handelen of nalaten door een derde met het oogmerk schade te veroorzaken; of
-
-- c. in zijn geheel is veroorzaakt door nalatigheid of een andere onrechtmatige daad van een overheid of andere autoriteit die verantwoordelijk is voor het onderhoud van verlichting of andere navigatiehulpmiddelen bij de uitoefening van die taak.
-
-3. Geen vordering tot vergoeding van de kosten bedoeld in het eerste lid, kan tegen de geregistreerde eigenaar worden ingesteld anders dan in overeenstemming met de bepalingen van deze afdeling.
-
-4. Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.
-
-##### Artikel 616
-
-1. De geregistreerde eigenaar is uit hoofde van deze afdeling niet aansprakelijk voor de kosten bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met:
-
-- a. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, zoals gewijzigd;
-
-- b. het Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996, zoals gewijzigd;
-
-- c. het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, 1960, zoals gewijzigd, of het Verdrag van Wenen inzake wettelijke aansprakelijkheid voor kernschade, 1963, zoals gewijzigd; of nationaal recht dat beperking van de aansprakelijkheid voor kernschade regelt of verbiedt; of
-
-- d. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001, zoals gewijzigd;
-
-mits het desbetreffende verdrag van toepassing en van kracht is.
-
-2. Voor zover maatregelen uit hoofde van de [Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550) worden aangemerkt als hulpverlening overeenkomstig het op 28 april 1989 te Londen tot stand gekomen Internationaal Verdrag inzake hulpverlening, is dat verdrag van toepassing op kwesties omtrent het loon of de vergoeding verschuldigd aan de hulpverlener en met uitsluiting van de regels van deze afdeling.
-
-##### Artikel 617
-
-1. Vorderingen tot vergoeding van kosten als bedoeld in [artikel 615, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&artikel=615&z=2025-07-01&g=2025-07-01), kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar voor kosten als bedoeld in artikel 615, eerste lid. In dit geval kan de verweerder, zelfs indien de geregistreerde eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag berekend overeenkomstig [artikel 755, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&artikel=755&z=2025-07-01&g=2025-07-01).
-
-2. De verweerder komen alle verweermiddelen toe welke de geregistreerde eigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de geregistreerde eigenaar surseance van betaling is verleend, dat ten aanzien van de geregistreerde eigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de geregistreerde eigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de kosten zijn veroorzaakt door opzettelijk wangedrag van de geregistreerde eigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de geregistreerde eigenaar tegen hem ingestelde vordering komen hem niet toe.
-
-3. De verweerder kan de geregistreerde eigenaar steeds in het geding roepen.
-
-## Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
-
-### V. Luchtrecht
-
-## Titel 15. Het luchtvaartuig
-
-### Afdeling 1. Rechten op luchtvaartuigen
-
-### Afdeling 2. Voorrechten op luchtvaartuigen
-
-### VII. Slotbepalingen
-
-## Titel 20. Verjaring en verval
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 2. Goederenvervoer
-
-### Afdeling 4. Overeenkomst tot het doen vervoeren van goederen
-
-### Afdeling 7. Rederij
-
-### Afdeling 10. Hulpverlening
-
-### Afdeling 7. Rederij
-
-### Afdeling 9. Aanvaring
+#### Afdeling 12. Vorderingen ter zake van kosten van het lokaliseren, markeren en opruimen van een wrak
 
 ##### Artikel 1833
 
 Het recht kosten uit hoofde van [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=4&z=2025-07-01&g=2025-07-01) te verhalen vervalt, wanneer niet binnen drie jaar na de datum waarop het gevaar is vastgesteld in overeenstemming met afdeling 4 van titel 6 een vordering wordt ingesteld. In geen geval kunnen vorderingen echter worden ingesteld na zes jaar na de datum van het maritiem ongeval dat tot het wrak heeft geleid. Indien het maritiem ongeval bestaat uit een reeks feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit.
 
-### Algemene slotbepaling
-
-## Slotbepaling
-
-### Afdeling 5. Aansprakelijkheid voor schade door verontreiniging door bunkerolie
-
-#### Paragraaf 1. Algemene bepalingen en toepassingsgebied
-
-##### Artikel 618
-
-In deze afdeling wordt verstaan onder:
-
-- a. Verdrag: het op 23 maart 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001 (Trb. 2005, 329);
-
-- b. Aansprakelijkheidsverdrag: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
-
-- c. Onze Minister: Onze Minister van Infrastructuur en Waterstaat;
-
-- d. schip, persoon, bunkerolie, preventieve maatregelen, voorval, schade door verontreiniging, scheepseigenaar, geregistreerd eigenaar en brutotonnage: hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag.
-
-##### Artikel 619
-
-1. Deze afdeling is van toepassing op:
-
-- a. schade door verontreiniging door bunkerolie veroorzaakt in de openbare lichamen Bonaire, Sint-Eustatius en Saba, de territoriale zee daaronder begrepen;
-
-- b. schade door verontreiniging door bunkerolie veroorzaakt binnen de Exclusieve Economische Zone (EEZ) van de openbare lichamen Bonaire, Sint-Eustatius en Saba;
-
-- c. preventieve maatregelen, waar ook genomen, ter voorkoming of beperking van zodanige schade.
-
-2. Deze afdeling is niet van toepassing op:
-
-- a. schade door verontreiniging door bunkerolie zoals omschreven in het Aansprakelijkheidsverdrag, ongeacht of ten aanzien van die schade wel of geen schadevergoeding verschuldigd is ingevolge dat verdrag; en
-
-- b. oorlogsschepen, ondersteuningsschepen van de marine of andere schepen die toebehoren aan of geëxploiteerd worden door een Staat en die in de betrokken periode uitsluitend worden gebruikt in overheidsdienst voor niet-commerciële doeleinden, behoudens voor zover de desbetreffende Staat anders heeft beslist en daaraan op de voet van artikel 4, derde lid, van het Verdrag genoegzaam uitvoering heeft gegeven.
-
-#### Paragraaf 2. Aansprakelijkheid van de scheepseigenaar
-
-##### Artikel 620
-
-1. De scheepseigenaar op het tijdstip van het voorval is, behoudens het bepaalde in het derde en vierde lid, aansprakelijk voor schade door verontreiniging door bunkerolie veroorzaakt aan boord of afkomstig van het schip, met dien verstande dat indien het voorval bestaat uit een opeenvolging van feiten met dezelfde oorsprong, de aansprakelijkheid rust op degene die ten tijde van het eerste feit de scheepseigenaar was.
-
-2. Indien meer dan een persoon aansprakelijk is op grond van het eerste lid, zijn zij hoofdelijk aansprakelijk.
-
-3. De scheepseigenaar is niet aansprakelijk indien hij bewijst dat:
-
-- a. de schade door verontreiniging door bunkerolie het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
-
-- b. de schade door verontreiniging door bunkerolie geheel en al werd veroorzaakt door een handelen of nalaten van een derde met de opzet schade te veroorzaken; of
-
-- c. de schade door verontreiniging door bunkerolie geheel en al werd veroorzaakt door onzorgvuldigheid of een andere onrechtmatige handeling van een overheid of andere autoriteit verantwoordelijk voor het onderhoud van vuurtorens of andere hulpmiddelen bij de navigatie, in de uitoefening van die functie.
-
-4. Indien de scheepseigenaar bewijst dat de schade door verontreiniging door bunkerolie geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet de schade te veroorzaken, of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van de aansprakelijkheid tegenover die persoon.
-
-5. Geen vordering tot vergoeding van schade door verontreiniging door bunkerolie kan tegen de scheepseigenaar worden ingesteld anders dan in overeenstemming met deze afdeling.
-
-6. De scheepseigenaar heeft het recht van verhaal op derden die voor de schade uit anderen hoofde, anders dan uit overeenkomst, jegens de benadeelden aansprakelijk zijn.
-
-##### Artikel 621
-
-Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging door bunkerolie is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij deze ingevolge [artikel 620](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=620&z=2025-07-01&g=2025-07-01) van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is [artikel 545, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=1&artikel=545&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
-
-##### Artikel 622
-
-De scheepseigenaar en de persoon of de personen die verzekeren of een andere financiële zekerheid stellen, kunnen hun aansprakelijkheid per voorval beperken uit hoofde van [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01).
-
-##### Artikel 623
-
-1. Vorderingen tot vergoeding van schade door verontreiniging door bunkerolie kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door dergelijke verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van [artikel 622](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=6&afdeling=5&paragraaf=2&artikel=622&z=2025-07-01&g=2025-07-01) niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 7, eerste lid, van het Verdrag.
-
-2. De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surseance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
-
-3. De verweerder kan de scheepseigenaar steeds in het geding roepen.
-
-##### Artikel 624
-
-1. De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1.000 dat niet op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren, is verplicht om, indien het schip een haven of laad- of losplaats in de openbare lichamen Bonaire, Sint-Eustatius en Saba aanloopt of verlaat, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt, berekend overeenkomstig [titel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=7&z=2025-07-01&g=2025-07-01), ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
-
-2. De [artikelen 646 tot en met 653 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=646) zijn van overeenkomstige toepassing op de geregistreerde eigenaar van een schip als bedoeld in het eerste lid.
-
-## Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
-
-### V. Luchtrecht
-
-## Titel 15. Het luchtvaartuig
-
-### Afdeling 1. Rechten op luchtvaartuigen
-
-### Afdeling 3. Slotbepaling
-
-### VII. Slotbepalingen
-
-## Titel 20. Verjaring en verval
-
-### Afdeling 1. Algemene bepalingen
-
-### Afdeling 4. Overeenkomst tot het doen vervoeren van goederen
-
-### Afdeling 8. Rechtsvorderingen jegens de kapitein
-
-### Afdeling 10. Hulpverlening
-
-### Afdeling 11. Avarij-grosse
-
-### Afdeling 12. Vorderingen ter zake van kosten van het lokaliseren, markeren en opruimen van een wrak
-
-### Afdeling 13. Gevaarlijke stoffen aan boord van een zeeschip
+#### Afdeling 13. Gevaarlijke stoffen aan boord van een zeeschip
 
 ##### Artikel 1834
 
@@ -2693,4 +2583,14 @@ Een rechtsvordering tot vergoeding van schade uit hoofde van [afdeling 5 van tit
 
 ### Algemene slotbepaling
 
-## Slotbepaling
+- 1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen gesteld in [titel 5, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=2&z=2025-07-01&g=2025-07-01) en [titel 5, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&boek=8&hoofdstuk=II&titeldeel=5&afdeling=4&z=2025-07-01&g=2025-07-01).
+
+- 2. In de in het eerste lid genoemde afdelingen worden onder dag verstaan alle kalenderdagen met uitzondering van de zondag en de algemeen erkende feestdagen.
+
+- 3. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.
+
+- 4. Deze wet wordt aangehaald als Burgerlijk Wetboek BES.
+
+### Slotbepaling
+
+Indien één of meer van de [Boeken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028743), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028748), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028751) en 8 van het nieuwe Burgerlijk Wetboek in werking treden, voordat de overige wetgeving is aangepast, wordt de overige wetgeving, in afwachting van haar aanpassing, toegepast zoveel mogelijk met inachtneming van de in werking getreden boeken. In afwachting van de bedoelde aanpassing, werkt de verlaging van de meerderjarigheidsgrens niet ten nadele van personen die de leeftijd van eenentwintig jaren nog niet hebben bereikt.

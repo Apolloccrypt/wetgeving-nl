@@ -1,42 +1,17 @@
 ---
 title: "Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de samenwerking tussen de landen bij de implementatie van verdragen"
 identifier: "BWBR0029065"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2010-10-10"
-last_updated: "2010-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029065"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11102553"
-version_id: "18149862"
-internal_id: "C25233311"
-label_id: "11076894"
-dtd_version: "2.0"
-original_entry_into_force: "2010-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029065/2010-10-10/0"
-intitule_bron: "Stcrt.2010-19006"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-12-10"
-intitule_in_force: "2010-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-19006"
-original_published_date: "2010-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-19006"
-entry_into_force_date: "2010-10-10"
-jci_1_3: "jci1.3:c:BWBR0029065&z=2010-10-10&g=2010-10-10"
-jci_1_0: "1.0:c:BWBR0029065&g=2010-10-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-10-10"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+toestand: 2010-10-10
+bron: "https://wetten.overheid.nl/BWBR0029065"
+opgehaald: 2026-08-16
 ---
+
 # Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de samenwerking tussen de landen bij de implementatie van verdragen
-
-Overwegende, dat de landen vorm wensen te geven aan de samenwerking, bedoeld in [artikel 27, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=27), bij het treffen van maatregelen die noodzakelijk zijn voor de implementatie van verdragen;
-
-Komen het volgende overeen:
-
-Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treden. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -105,55 +80,3 @@ Deze onderlinge regeling kan in overeenstemming tussen Nederland, Aruba, Curaça
 ##### Artikel 9
 
 Deze onderlinge regeling treedt in werking op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
-
-## Format implementatieplan verdragen
-
-- 1. [Titel van het verdrag; naam van het land waarop dit implementatieplan betrekking heeft; strekking op hoofdlijnen van het verdrag; eventueel: verplichte implementatietermijn.]
-
-- 2. [Regelgeving die tot stand moet komen of gewijzigd dient te worden ten gevolge van het verdrag.]1Hier zo nodig tevens vermelden of het verdrag of een volkenrechtelijke organisatie die toeziet op de naleving van het verdrag normen stelt over de wijze van implementatie van het verdrag.
-
-- 3. [Andere maatregelen dan regelgeving die getroffen moeten worden als gevolg van de binding aan het verdrag.]2Hier zo nodig tevens vermelden of het verdrag of een volkenrechtelijke organisatie die toeziet op de naleving van het verdrag normen stelt over de wijze van implementatie van het verdrag.
-
-- 4. [Indien nuttig hier een algemene toelichting opnemen bij de keuzes m.b.t. de wijze van implementatie.]
-
-- 5. Heeft de uitvoering van het verdrag naar verwachting substantiële gevolgen voor de begroting ? [Ja/nee]
-
-- 6. Vloeien uit het verdragen rapportageverplichtingen voort? [Ja/nee] [Zo ja, aangeven welke]
-
-- 7. Eerstverantwoordelijk ministerie:3Indien gewenst kan hier tevens worden vermeld welke directie of afdeling binnen het ministerie eerstverantwoordelijk is. [ ]
-
-- 8. Overige betrokken ministeries4Indien gewenst kan hier tevens worden vermeld welke directies of afdelingen van een ander ministerie betrokken worden. [indien onvermijdelijk ook adviesorganen, consultatieprocedures en andere formele betrokkenheid hier noemen, met motivering onvermijdelijkheid]:
-
-- 9. Verwachte termijn waarbinnen of datum waarop de implementatiemaatregelen getroffen zullen zijn: [ ]
-
-- –. planning ministerraadbehandeling: [datum]
-
-- –. planning indiening voorstel van landsverordening/wetsvoorstel [datum]
-
-- –. inwerkingtreding van de benodigde maatregelen: [datum]5Onder ‘benodigde maatregelen’ kan afhankelijk van de inhoud van het verdrag verstaan worden een landsverordening of wet, maar ook lagere regelgeving, organisatorische veranderingen, of andere feitelijke handelingen, voor zover noodzakelijk ter implementatie van het verdrag. Voor de planning kan desgewenst gebruik gemaakt worden van de standaard doorlooptijden die gebruikt worden voor het Nederlandse voortgangsbewakingssysteem d.w.z. drie maanden voor behandeling in de Eerste Kamer, zes maanden voor behandeling in de Tweede Kamer, twee maanden voor het nader rapport en het Kabinet van de Koningin en drie maanden voor de Raad van State. Door deze doorlooptijden op te tellen bij de tijd die nodig is voor de ambtelijke voorbereiding, kan een verwachte datum voor de inwerkingtreding in Nederland berekend worden.
-
-- 10. Contactambtenaar eerstverantwoordelijk ministerie:
-
-| naam: | tel.: | e-mail: |
-| --- | --- | --- |
-| directie/afdeling: |   |   |
-
-- 11. Contactambtenaren overige ministeries:
-
-| naam: | tel.: | e-mail: |
-| --- | --- | --- |
-| directie/afdeling: |   |   |
-
-- 12. Transponeringstabel ¹ Tussen haakjes kan een korte omschrijving van de strekking van het artikel worden opgenomen.
-
-| Artikel, – lid of – onderdeel verdrag ¹ | Te implementeren in (zo mogelijk artikel + regeling) | Bijzonderheden (voorziene complicaties, belangrijke nationale beleidskeuzen, interdep. afstemming. Indien nieuwe regelgeving ter implementatie niet nodig is de reden daarvan opnemen) |
-| --- | --- | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-Deze onderlinge regeling wordt in de Staatscourant, het Afkondigingsblad van Aruba, het Afkondigingsblad van Curaçao en het Afkondigingsblad van Sint Maarten geplaatst.
-
-Aldus in viervoud opgemaakt en getekend,

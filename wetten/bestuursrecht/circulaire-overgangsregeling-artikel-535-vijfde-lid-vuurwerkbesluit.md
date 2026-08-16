@@ -1,38 +1,16 @@
 ---
 title: "Circulaire overgangsregeling artikel 5.3.5, vijfde lid, Vuurwerkbesluit"
 identifier: "BWBR0029308"
-country: "nl"
-rank: "circulaire"
-publication_date: "2010-12-21"
-last_updated: "2010-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029308"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "11176743"
-version_id: "18281942"
-internal_id: "C25434941"
-label_id: "11150984"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029308/2010-12-21/0"
-intitule_bron: "Stcrt.2010-21354"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-21"
-intitule_published: "2010-12-29"
-intitule_in_force: "2010-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21354"
-original_signed_date: "2010-12-21"
-original_published_date: "2010-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21354"
-entry_into_force_date: "2010-12-21"
-jci_1_3: "jci1.3:c:BWBR0029308&z=2010-12-21&g=2010-12-21"
-jci_1_0: "1.0:c:BWBR0029308&g=2010-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "2010-12-21"
-entry_into_force: "2010-12-21"
+publicatiedatum: 2010-12-21
+laatste_update: 2010-12-21
+status: geldig
+toestand: 2010-12-21
+bron: "https://wetten.overheid.nl/BWBR0029308"
+opgehaald: 2026-08-16
 ---
+
 # Circulaire overgangsregeling artikel 5.3.5, vijfde lid, Vuurwerkbesluit
 
 ### Inleiding

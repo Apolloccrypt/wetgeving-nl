@@ -1,35 +1,16 @@
 ---
 title: "Circulaire herinrichting van diepe plassen"
 identifier: "BWBR0029248"
-country: "nl"
-rank: "circulaire"
-publication_date: "2010-12-24"
-last_updated: "2010-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029248"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "11161403"
-version_id: "18254062"
-internal_id: "C25395121"
-label_id: "11135914"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029248/2010-12-24/0"
-intitule_bron: "Stcrt.2010-20128"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-12-24"
-intitule_in_force: "2010-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-20128"
-original_published_date: "2010-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-20128"
-entry_into_force_date: "2010-12-24"
-jci_1_3: "jci1.3:c:BWBR0029248&z=2010-12-24&g=2010-12-24"
-jci_1_0: "1.0:c:BWBR0029248&g=2010-12-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-12-24"
+publicatiedatum: 2010-12-24
+laatste_update: 2010-12-24
+status: geldig
+toestand: 2010-12-24
+bron: "https://wetten.overheid.nl/BWBR0029248"
+opgehaald: 2026-08-16
 ---
+
 # Circulaire herinrichting van diepe plassen
 
 Aan de besturen van gemeenten, intergemeentelijke samenwerkingsverbanden, provincies en waterkwaliteitsbeheerders
@@ -50,6 +31,10 @@ Het doel van deze circulaire is om het bevoegde gezag en andere betrokken partij
 
 Deze circulaire gaat over het beoordelen van (voorgenomen) toepassingen van grond of baggerspecie bij de herinrichting van diepe plassen binnen de kaders van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) die:
 
+- – na bekendmaking van deze circulaire worden gemeld, of
+
+- – voor bekendmaking van deze circulaire zijn gemeld en waarbij de eerste partij grond of baggerspecie na de melding wordt toegepast.
+
 Diepe plassen zijn de plassen in Nederland die meestal zijn ontstaan door winning van zand, klei of grond. Ook kan een dijkdoorbraak de oorzaak zijn, het gaat dan om wielen en kolken.
 
 Voor toepassingen die vóór de bekendmaking van deze circulaire zijn gemeld en waarvan de eerste partij grond of baggerspecie al is toegepast, wordt geadviseerd om te handelen overeenkomstig de procedure die voor lopende initiatieven is beschreven in de Handreiking.
@@ -57,6 +42,28 @@ Voor toepassingen die vóór de bekendmaking van deze circulaire zijn gemeld en 
 ### Wettelijk kader
 
 Om grond en baggerspecie op grond van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) te mogen toepassen bij het herinrichten van een diepe plas moet worden voldaan aan elk van de volgende drie voorwaarden.
+
+- 1. De toepassing moet functioneel zijn ([artikel 5 Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=5)). Het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) is alleen van toepassing als de toepassing functioneel is. Een toepassing is alleen functioneel indien aan de volgende criteria is voldaan:
+
+   - – bij het toepassen van afvalstoffen moet er sprake zijn van nuttige toepassing zoals bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1)2Dit artikel verwijst naar richtlijn nr. 2006/12/EG van het Europees Parlement en de Raad van 5 april 2006 betreffende afvalstoffen (PbEU L 114), die in bijlage IIB een niet limitatieve opsomming van handelingen bevat die als nuttige toepassing van afvalstoffen worden aangemerkt.;
+
+   - – er mag niet meer materiaal worden toegepast dan volgens gangbare maatstaven nodig is voor het functioneren van de toepassing;
+
+   - – de toepassing moet volgens gangbare maatstaven nodig zijn op de plaats waar deze plaatsvindt of onder de omstandigheden waarin deze plaatsvindt.
+
+- 2. Het moet gaan om een toepassing die in [artikel 35 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=35) is genoemd. Bij het brengen van grond of baggerspecie in diepe plassen kan het bijvoorbeeld gaan om één van de volgende toepassingen:
+
+   - – ophogingen in waterbouwkundige constructies en verondiepen en dempen van een oppervlaktewaterlichaam met het oog op de hoogwaterbescherming, de doelstellingen van artikel 4 van de Kaderrichtlijn water, de bevordering van de natuurwaarden en de vlotte en veilige afwikkeling van de scheepvaart ([artikel 35, onder d, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=35));
+
+   - – aanvullingen, waaronder mede wordt verstaan de herinrichting en stabilisering van voormalige winplaatsen voor delfstoffen, of met het oog op onderhoud en herstel ([artikel 35, onder e, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=35)).
+
+- 3. De grond en baggerspecie moet voldoen aan de kwaliteitseisen van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929). Het toetsingskader bepaalt de eisen die gelden. Er zijn drie toetsingskaders mogelijk:
+
+   - – Het generieke toetsingskader voor algemene toepassingen;
+
+   - – Het gebiedsspecifieke toetsingskader voor de algemene toepassing;
+
+   - – Het toetsingskader voor grootschalige toepassingen.
 
 Tevens moet worden voldaan aan de zorgplicht van [artikel 7 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=7). De Handreiking bevat aanvullende informatie voor het bevoegd gezag over het toepassen van grond en baggerspecie bij het herinrichten van diepe plassen die van belang is voor de beoordeling of de toepassing voldoet aan de zorgplicht. Dit wordt hierna toegelicht.
 
@@ -78,15 +85,39 @@ Zoals in de vorige paragraaf aangegeven, kan de waterbeheerder ervoor kiezen om 
 
 De juridische basis voor het gebiedsspecifieke beleid is [artikel 45 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45). Dat artikel biedt de mogelijkheid om met betrekking tot rijkswateren en regionale wateren voor een aangewezen bodembeheergebied lokale maximale waarden vast te stellen. In dit besluit, in de praktijk ‘nota bodembeheer’ genoemd, kan de Minister van Infrastructuur en Milieu of het algemeen bestuur van een waterschap onder meer het volgende vastleggen:
 
+- – maximale waarden waaraan de toe te passen grond of baggerspecie in een diepe plas in een aangewezen gebied moet voldoen;
+
+- – afwijkend percentage bodemvreemd materiaal in de toe te passen grond of baggerspecie (afwijkend van [artikel 34, tweede en derde lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=34) maar maximaal twintig gewichtsprocenten);
+
+- – type bodemvreemd materiaal dat de grond of baggerspecie wel of niet mag bevatten.
+
 Een besluit als bedoeld in [artikel 45 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45) wordt met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) voorbereid (zie [artikel 49 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=49)). Dat betekent dat belanghebbenden inspraakmogelijkheden hebben en uiteindelijk tegen de vaststelling beroep kunnen aantekenen. Doordat de Minister van Infrastructuur en Milieu of het algemeen bestuur van een waterschap het besluit vaststelt, kan over de vaststelling van de lokale maximale waarden politieke verantwoording worden afgelegd (democratische legitimatie) of rechtsbescherming worden ingeroepen bij de rechter. Het besluit moet voldoen aan de eisen die daaraan worden gesteld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45) en [47 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=47) (o.a. motivering van de lokale maximale waarden). De toepassing moet bovendien voldoen aan [artikel 52 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=52). Wat betreft laatstgenoemde artikelen merk ik op dat het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) zodanig zal worden aangepast dat:
+
+- – het onmogelijk wordt gemaakt om in een nota bodembeheer, die betrekking heeft op een diepe plas, lokale maximale waarden voor baggerspecie vast te stellen die liggen boven de interventiewaarden (conform het advies van de Commissie Verheijen); tot deze aanpassing wordt het bevoegd gezag gevraagd geen gebruik te maken van de in [artikel 45, tweede lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45) geboden mogelijkheid om voor de toepassing van baggerspecie in diepe plassen de lokale maximale waarden boven de interventiewaarden vast te stellen;
+
+- – een nota bodembeheer voor een diepe plas niet meer een bodemkwaliteitskaart hoeft te bevatten;
+
+- – ook grond of baggerspecie in een diepe plas mag worden toegepast die afkomstig is van buiten het bodembeheergebied.
 
 ### Beoordeling door het bevoegd gezag
 
 Bij de melding van de voorgenomen toepassing dienen de ingevolge het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) vereiste gegevens te worden gevoegd. Het bevoegd gezag beoordeelt op basis daarvan of voldaan wordt aan de hiervoor beschreven drie voorwaarden en de zorgplicht van het Besluit bodemkwaliteit. Voor de beoordeling op nut en functionaliteit, op het voldoen aan de kwaliteitseisen alsmede voor het beoordelen van de beheersaspecten is een door de melder over te leggen inrichtingsplan nodig. Dit omvat de onderdelen die in de Handreiking zijn beschreven. In dit inrichtingsplan onderbouwt de initiatiefnemer op welke wijze de voorgenomen toepassing bijdraagt aan de ontwikkeling van de diepe plas. Dat zou kunnen aan de hand van de ontwikkeling die is voorzien in:
 
+- – gemeentelijke en provinciale (bestemmings)plannen, structuurvisies en verordeningen ([Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449), [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) etc.);
+
+- – regionale waterplannen en beheerplannen ([Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458));
+
+- – natuurbeleidsplannen ([Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)).
+
 In deze documenten zal over het algemeen zijn vastgelegd welke ontwikkeling is voorzien voor diepe plassen. Wanneer de toepassing van grond of baggerspecie past binnen deze ontwikkeling kan dat worden meegenomen in de motivering dat er sprake is van een nuttige en functionele toepassing. Als deze documenten niets zeggen over het verondiepen of herinrichten van de diepe plas dan moet de melder op een andere wijze aantonen dat de toepassing functioneel en nuttig is.
 
 Om te beoordelen of voldaan wordt aan de zorgplicht is het nodig om:
+
+- – aan de hand van de melding en het inrichtingsplan te beoordelen of wordt voldaan aan de randvoorwaarden zoals opgenomen in de Handreiking, en
+
+- – te toetsen aan het gebiedsspecifieke kader (lokale maximale waarden) dat voor de diepe plas is vastgelegd in een besluit als bedoeld in [artikel 45 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45) (nota bodembeheer) of, indien geen gebiedsspecifiek beleid is vastgesteld,
+
+- – te toetsen aan de (aanvullende) generieke kaders zoals opgenomen in de Handreiking.
 
 ### Procedures
 
@@ -106,7 +137,7 @@ Wanneer het bevoegd gezag oordeelt dat een voorgenomen toepassing geen doorgang 
 
 De procedurele bepalingen die gelden voor het tot stand brengen van een nota bodembeheer en de daarbij behorende rechtsbescherming zijn hiervoor reeds beschreven.
 
-### Wijziging [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) en [Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085)
+### Wijziging Besluit bodemkwaliteit en Regeling bodemkwaliteit
 
 De hiervoor genoemde aanvullende milieuhygiënische kaders voor toepassingen van grond en baggerspecie in diepe plassen zullen worden opgenomen in het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) en de [Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085). Aanpassing van het Besluit bodemkwaliteit is ook nodig omdat in het huidige [artikel 63 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=63) is bepaald dat toepassingen van grond of baggerspecie in een laagdikte van ten minste twee meter en een minimale omvang van 5000 m3 (de zogenoemde grootschalige toepassingen) niet hoeven te voldoen aan de eisen van het gebiedsspecifieke en generieke toetsingskader voor de algemene toepassing. Om te voorkomen dat het generieke toetsingskader of een eventueel door het bevoegde gezag vastgesteld besluit op grond van [artikel 45 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=45) (nota bodembeheer) voor een diepe plas niet geldt voor een grootschalige toepassing, zal artikel 63 van het besluit worden gewijzigd. Ook zal het Besluit bodemkwaliteit worden gewijzigd in verband met de hiervoor beschreven beleidslijn ten aanzien van de artikelen 45, tweede lid, [47](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=47) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=52). Totdat het Besluit bodemkwaliteit en de Regeling bodemkwaliteit zijn gewijzigd kan het bevoegde gezag hierop alvast anticiperen door overeenkomstig deze circulaire en bijbehorende Handreiking te werken. Bij geconstateerde afwijkingen kan het bevoegd gezag handhavend optreden vanwege schending van de zorgplicht. Met name bij gevoelige locaties zal sprake kunnen zijn van het niet voldoen aan de verplichtingen van de Kaderrichtlijn water en de Grondwaterrichtlijn.
 
