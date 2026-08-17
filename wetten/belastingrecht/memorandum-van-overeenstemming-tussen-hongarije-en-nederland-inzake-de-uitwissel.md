@@ -1,45 +1,21 @@
 ---
 title: "Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen"
 identifier: "BWBR0030626"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-10-21"
-last_updated: "2011-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030626"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11495103"
-version_id: "18907682"
-internal_id: "C26380421"
-label_id: "11468544"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030626/2011-10-21/0"
-intitule_bron: "Stcrt.2011-20345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-01"
-intitule_published: "2011-11-11"
-intitule_in_force: "2011-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-20345"
-original_signed_date: "2011-11-01"
-original_published_date: "2011-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-20345"
-entry_into_force_date: "2011-10-21"
-jci_1_3: "jci1.3:c:BWBR0030626&z=2011-10-21&g=2011-10-21"
-jci_1_0: "1.0:c:BWBR0030626&g=2011-10-21"
-citeertitel_status: "officieel"
-signed_date: "2011-11-01"
-entry_into_force: "2011-10-21"
+publicatiedatum: 2011-10-21
+laatste_update: 2011-10-21
+status: geldig
+toestand: 2011-10-21
+bron: "https://wetten.overheid.nl/BWBR0030626"
+opgehaald: 2026-08-17
 ---
+
 # Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
+*Dit besluit bevat een bekendmaking van het op 21 oktober 2011 tussen de Hongaarse Nationale Belasting- en Douaneadministratie en het Directoraat-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming over de uitwisseling van inlichtingen op het gebied van de directe belastingen.*
 
-**Dit besluit bevat een bekendmaking van het op 21 oktober 2011 tussen de Hongaarse Nationale Belasting- en Douaneadministratie en het Directoraat-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming over de uitwisseling van inlichtingen op het gebied van de directe belastingen.**
-
-**Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, inkomsten uit zelfstandige arbeid, inkomsten uit niet-zelfstandige arbeid, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, betalingen aan studenten voor studie en opleiding en overige inkomsten. Daarnaast bevat het Memorandum bepalingen over spontane inlichtingenuitwisseling, speciale gevallen van inlichtingenuitwisseling, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.**
+*Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, inkomsten uit zelfstandige arbeid, inkomsten uit niet-zelfstandige arbeid, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, betalingen aan studenten voor studie en opleiding en overige inkomsten. Daarnaast bevat het Memorandum bepalingen over spontane inlichtingenuitwisseling, speciale gevallen van inlichtingenuitwisseling, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.*
 
 ### Memorandum van Overeenstemming tussen de Hongaarse Nationale Belasting- en Douaneadministratie en het Directoraat-Generaal Belastingdienst van Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
@@ -178,5 +154,3 @@ Dit Memorandum kan worden aangehaald als ‘Memorandum van Overeenstemming tusse
 ##### Artikel 10. Evaluatie
 
 Dit Memorandum wordt vijf jaar na de datum van inwerkingtreding geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten van Partijen in behandeling worden genomen.
-
-Gedaan op 21 oktober 2011 te Boedapest, in tweevoud in de Hongaarse, de Nederlandse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van enig verschil van interpretatie is de Engelse tekst beslissend.

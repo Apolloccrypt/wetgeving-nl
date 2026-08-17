@@ -1,39 +1,16 @@
 ---
 title: "Leerplichtwet BES"
 identifier: "BWBR0030281"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-08-01"
-last_updated: "2025-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030281"
+categorie: "Onderwijs"
 soort: "wet-BES"
-stam_id: "11404263"
-version_id: "18718552"
-internal_id: "C26151711"
-label_id: "11378294"
-dtd_version: "2.0"
-original_entry_into_force: "2011-02-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030281/2025-08-01/0"
-intitule_bron: "Stb.2011-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-03"
-intitule_published: "2011-02-16"
-intitule_in_force: "2011-03-07"
-intitule_status: "goed"
-original_publication: "Stb.2011-33"
-original_signed_date: "2011-02-03"
-original_published_date: "2011-02-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "32419"
-original_url_id: "stb-2011-33"
-entry_into_force_date: "2011-02-17"
-jci_1_3: "jci1.3:c:BWBR0030281&z=2025-08-01&g=2025-08-01"
-jci_1_0: "1.0:c:BWBR0030281&g=2025-08-01"
-citeertitel_status: "officieel"
-signed_date: "2011-02-03"
-entry_into_force: "2011-02-17"
+publicatiedatum: 2011-02-17
+laatste_update: 2025-08-01
+status: geldig
+toestand: 2025-08-01
+bron: "https://wetten.overheid.nl/BWBR0030281"
+opgehaald: 2026-08-17
 ---
+
 # Leerplichtwet BES
 
 #### § 1. Algemene bepalingen
@@ -42,45 +19,45 @@ entry_into_force: "2011-02-17"
 
 Deze wet verstaat onder:
 
-- a. **Onze Minister**: Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **school**:
+- b. *school*:
 
-- 1°. een openbare of een uit openbare kas bekostigde bijzondere basisschool of school of een ingevolge [artikel 2.68 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.68) aangewezen instelling voor voortgezet onderwijs;
+   - 1°. een openbare of een uit openbare kas bekostigde bijzondere basisschool of school of een ingevolge [artikel 2.68 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.68) aangewezen instelling voor voortgezet onderwijs;
 
-- 2°. een ingevolge [artikel 2.66 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) aangewezen bijzondere school voor voortgezet onderwijs, in een openbaar lichaam;
+   - 2°. een ingevolge [artikel 2.66 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) aangewezen bijzondere school voor voortgezet onderwijs, in een openbaar lichaam;
 
-- 3°. een andere school die wat de inrichting van het onderwijs betreft, overeenkomt met de criteria, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=3&z=2025-08-01&g=2025-08-01), en wat de bevoegdheden van leraren betreft, overeenkomt met een of meer van de onder 1° bedoelde scholen;
+   - 3°. een andere school die wat de inrichting van het onderwijs betreft, overeenkomt met de criteria, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=3&z=2025-08-01&g=2025-08-01), en wat de bevoegdheden van leraren betreft, overeenkomt met een of meer van de onder 1° bedoelde scholen;
 
-- 4°. een andere krachtens [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet als school aangewezen onderwijsinstelling;
+   - 4°. een andere krachtens [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet als school aangewezen onderwijsinstelling;
 
-- c. **instelling**:
+- c. *instelling*:
 
-- 1°. een instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
+   - 1°. een instelling voor educatie en beroepsonderwijs als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
-- 2°. een andere krachtens [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;
+   - 2°. een andere krachtens [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet als instelling aangewezen cursus of instelling, waar onderwijs of vorming wordt gegeven;
 
-- d. **hoofd**:
+- d. *hoofd*:
 
-- 1°. hij die met de leiding van de school is belast;
+   - 1°. hij die met de leiding van de school is belast;
 
-- 2°. hij die met de leiding van de instelling is belast;
+   - 2°. hij die met de leiding van de instelling is belast;
 
-- e. **ambtenaar**: de ambtenaar, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01);
+- e. *ambtenaar*: de ambtenaar, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01);
 
-- f. **startkwalificatie**:
+- f. *startkwalificatie*:
 
-- 1°. een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4) onderscheidenlijk [artikel 2.5 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
+   - 1°. een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4) onderscheidenlijk [artikel 2.5 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
 
-- 2°. een bij of krachtens algemene maatregel van bestuur aangewezen diploma van onderwijs aan een instelling voor voortgezet onderwijs als bedoeld in [artikel 2.68 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.68);
+   - 2°. een bij of krachtens algemene maatregel van bestuur aangewezen diploma van onderwijs aan een instelling voor voortgezet onderwijs als bedoeld in [artikel 2.68 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.68);
 
-- 3°. een ander krachtens [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet aangewezen diploma;
+   - 3°. een ander krachtens [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=2&z=2025-08-01&g=2025-08-01), voor de toepassing van deze wet aangewezen diploma;
 
-- g. **openbaar lichaam**: het openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- g. *openbaar lichaam*: het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- h. **inspectie**: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
+- h. *inspectie*: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
 
-- i. **persoonsgebonden nummer BES**: het ID-nummer dat van de jongere is opgenomen in de basisadministratie persoonsgegevens van het openbaar lichaam dan wel het door Onze Minister uitgegeven onderwijsnummer.
+- i. *persoonsgebonden nummer BES*: het ID-nummer dat van de jongere is opgenomen in de basisadministratie persoonsgegevens van het openbaar lichaam dan wel het door Onze Minister uitgegeven onderwijsnummer.
 
 ##### Artikel 2. Aanwijzing scholen, instellingen en diploma’s
 
@@ -88,15 +65,15 @@ Deze wet verstaat onder:
 
 - a. onderwijsinstellingen dan wel groepen daarvan worden aangewezen als school bedoeld in [artikel 1, onderdeel b subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01),
 
-- b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel groepen daarvan worden aangewezen als instelling bedoeld in [artikel 1, onderdeel c, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01), en
+- b. cursussen of instellingen waar onderwijs of vorming wordt gegeven dan wel groepen daarvan worden aangewezen als instelling bedoeld in [artikel 1, onderdeel c, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01), en
 
-- c. diploma’s, van een opleiding aan een school als bedoeld in onderdelen a en b, worden aangewezen als startkwalificatie, bedoeld in [artikel 1, onderdeel f, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01).
+- c. diploma’s, van een opleiding aan een school als bedoeld in onderdelen a en b, worden aangewezen als startkwalificatie, bedoeld in [artikel 1, onderdeel f, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01).
 
 Aan de aanwijzing kunnen voorwaarden worden verbonden.
 
 2. Onze Minister kan de aanwijzing intrekken indien het hoofd of het personeel van de school of instelling niet binnen de door hem gestelde redelijke termijn alle medewerking verleent die Onze Minister redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden. Indien het hoofd of het personeel van de school of instelling uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen zij het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-##### Artikel 3. Scholen als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01)
+##### Artikel 3. Scholen als bedoeld in artikel 1, onderdeel b, subonderdeel 3
 
 1. Onverminderd [titel I van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&titeldeel=I) en de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.2), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.4), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.37), [3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.38), [7.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.9), [8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.28) en [8.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.29), moet een school als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01),
 
@@ -226,7 +203,7 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&pa
 
 - a. ten minste een maand voordat de jongere leerplichtig wordt, indien zij betrekking heeft op de aanvang van de leerplicht, en
 
-- b. zolang nadien aanspraak op vrijstelling wordt gemaakt, elk jaar opnieuw voor 1 juli.
+- b. zolang nadien aanspraak op vrijstelling wordt gemaakt, elk jaar opnieuw voor 1 juli.
 
 3. Het tweede lid onder b is niet van toepassing, indien uit de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=16&z=2025-08-01&g=2025-08-01) bedoelde verklaring blijkt, dat de jongere nooit geschikt zal zijn een school onderscheidenlijk een instelling te bezoeken.
 
@@ -338,6 +315,18 @@ Bij vertrek uit een openbaar lichaam is een leerplichtige jongere die afwezig za
 
 5. Deze ambtenaren zijn belast met de opsporing van de bij deze wet strafbaar gestelde feiten, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184).
 
+##### Artikel 28a. Inspectie van het onderwijs
+
+1. Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.
+
+2. Ten behoeve van het in het eerste lid bedoelde toezicht kan de Inspectie van het onderwijs ambtenaren als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01) aanwijzen indien het bestuurscollege hierom verzoekt.
+
+3. Aan de aanwijzing, bedoeld in het tweede lid, ligt een samenwerkingsovereenkomst tussen de Inspectie van het onderwijs en het bestuurscollege ten grondslag, waarvoor het model bij ministeriële regeling wordt vastgesteld en waarin in ieder geval de werkzaamheden zijn opgenomen die door deze ambtenaren worden verricht.
+
+4. Indien toepassing is gegeven aan het tweede lid, treft het bestuurscollege maatregelen om te voorkomen dat de aangewezen ambtenaren taken verrichten ten behoeve van het toezicht, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01), met betrekking tot de scholen of instellingen waarop hij als aangewezen ambtenaar toezicht houdt. De instructie, bedoeld in artikel 28, vierde lid, is niet van toepassing voor zover het de werkzaamheden van de aangewezen ambtenaren betreft.
+
+5. De ambtenaren, bedoeld in het tweede lid, zijn niet bevoegd om namens de minister een bestuurlijke boete op te leggen als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=6&artikel=39&z=2025-08-01&g=2025-08-01).
+
 ##### Artikel 29. Toezicht op de naleving
 
 1. Ambtenaren als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01), tonen bij de uitvoering van hun taak op verzoek van belanghebbenden hun legitimatiebewijs. Deze ambtenaren hebben toegang tot scholen en tot andere plaatsen, niet zijnde woningen, voor zover dat redelijkerwijs nodig is voor de uitvoering van hun taak, en kunnen zich indien nodig met behulp van de ambtenaren, genoemd in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=36&z=2025-08-01&g=2025-08-01), toegang verschaffen. Deze ambtenaren kunnen zich doen vergezellen van door hen aangewezen personen.
@@ -404,13 +393,13 @@ Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn b
 
 ##### Artikel 37. Jaarverslag openbaar lichaam en verstrekking statistische gegevens
 
-1. Het bestuurscollege brengt jaarlijks vóór 1 oktober verslag uit aan de eilandsraad over het in het laatst afgesloten school- of cursusjaar in het openbaar lichaam gevoerde beleid inzake de handhaving van de leerplicht en de kwalificatieplicht en de resultaten daarvan.
+1. Het bestuurscollege brengt jaarlijks vóór 1 oktober verslag uit aan de eilandsraad over het in het laatst afgesloten school- of cursusjaar in het openbaar lichaam gevoerde beleid inzake de handhaving van de leerplicht en de kwalificatieplicht en de resultaten daarvan.
 
 2. Het bestuurscollege doet jaarlijks een opgave aan Onze Minister van de omvang en behandeling van het aan hem gemelde schoolverzuim in het openbaar lichaam.
 
 3. Het hoofd doet jaarlijks een opgave aan Onze Minister van de omvang van het schoolverzuim aan zijn school of instelling.
 
-#### § 6. Strafbepalingen
+#### § 6. Sanctiebepalingen
 
 ##### Artikel 38. Strafbedreiging verantwoordelijke personen
 
@@ -420,7 +409,7 @@ Ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, zijn b
 
 ##### Artikel 39. Bestuurlijke boete hoofd
 
-Onze Minister kan een bestuurlijke boete van ten hoogste USD 1300 per overtreding, met een maximum van USD 130 000 per schooljaar, opleggen aan het hoofd dat:
+Onze Minister kan een bestuurlijke boete van ten hoogste USD 1300 per overtreding, met een maximum van USD 130 000 per schooljaar, opleggen aan het hoofd dat:
 
 - a. in strijd handelt met [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=24&z=2025-08-01&g=2025-08-01), of [artikel 26, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=4&artikel=26&z=2025-08-01&g=2025-08-01),
 
@@ -442,50 +431,18 @@ De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 ##### Artikel 42. Oude ontheffingen, vrijstellingen en verzoeken
 
-1. Ontheffingen en vrijstellingen die krachtens de Leerplichtlandsverordening of krachtens de Leerplichtwet BES zoals die wet op 10 oktober 2010 is komen te luiden, zijn verleend, worden geacht te zijn verleend krachtens deze wet voor de resterende duur waarvoor zij werden verleend.
+1. Ontheffingen en vrijstellingen die krachtens de Leerplichtlandsverordening of krachtens de Leerplichtwet BES zoals die wet op 10 oktober 2010 is komen te luiden, zijn verleend, worden geacht te zijn verleend krachtens deze wet voor de resterende duur waarvoor zij werden verleend.
 
-2. Verzoeken die op grond van artikel 4 van de Leerplichtlandsverordening zoals luidend op 9 oktober 2010 of op grond van artikel 4 van de Leerplichtwet BES, zoals dat artikel op 10 oktober 2010 is komen te luiden, zijn gedaan en waarop op die dag nog niet is beslist, worden afgehandeld met inachtneming van de regels die bij of krachtens de Leerplichtlandsverordening zijn gesteld.
+2. Verzoeken die op grond van artikel 4 van de Leerplichtlandsverordening zoals luidend op 9 oktober 2010 of op grond van artikel 4 van de Leerplichtwet BES, zoals dat artikel op 10 oktober 2010 is komen te luiden, zijn gedaan en waarop op die dag nog niet is beslist, worden afgehandeld met inachtneming van de regels die bij of krachtens de Leerplichtlandsverordening zijn gesteld.
 
 ##### Artikel 43. Overgangsbepaling scholen waaraan aan leerplicht wordt voldaan
 
-Een school die op 9 oktober 2010 was aangemerkt als een niet bekostigde school, wordt met ingang van de datum van inwerkingtreding van dit artikel aangemerkt als een school als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01).
+Een school die op 9 oktober 2010 was aangemerkt als een niet bekostigde school, wordt met ingang van de datum van inwerkingtreding van dit artikel aangemerkt als een school als bedoeld in [artikel 1, onderdeel b, subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=1&z=2025-08-01&g=2025-08-01).
+
+##### Artikel 43a. Inwerkingtreding
+
+De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=3&z=2025-08-01&g=2025-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=5&z=2025-08-01&g=2025-08-01) die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
 ##### Artikel 44. Citeertitel
 
 Deze wet wordt aangehaald als: Leerplichtwet BES.
-
-##### Artikel 43a. Inwerkingtreding
-
-De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=3&z=2025-08-01&g=2025-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=1&artikel=5&z=2025-08-01&g=2025-08-01) die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
-
-##### Artikel 28a. Inspectie van het onderwijs
-
-1. Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.
-
-2. Ten behoeve van het in het eerste lid bedoelde toezicht kan de Inspectie van het onderwijs ambtenaren als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01) aanwijzen indien het bestuurscollege hierom verzoekt.
-
-3. Aan de aanwijzing, bedoeld in het tweede lid, ligt een samenwerkingsovereenkomst tussen de Inspectie van het onderwijs en het bestuurscollege ten grondslag, waarvoor het model bij ministeriële regeling wordt vastgesteld en waarin in ieder geval de werkzaamheden zijn opgenomen die door deze ambtenaren worden verricht.
-
-4. Indien toepassing is gegeven aan het tweede lid, treft het bestuurscollege maatregelen om te voorkomen dat de aangewezen ambtenaren taken verrichten ten behoeve van het toezicht, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=5&artikel=28&z=2025-08-01&g=2025-08-01), met betrekking tot de scholen of instellingen waarop hij als aangewezen ambtenaar toezicht houdt. De instructie, bedoeld in artikel 28, vierde lid, is niet van toepassing voor zover het de werkzaamheden van de aangewezen ambtenaren betreft.
-
-5. De ambtenaren, bedoeld in het tweede lid, zijn niet bevoegd om namens de minister een bestuurlijke boete op te leggen als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=6&artikel=39&z=2025-08-01&g=2025-08-01).
-
-#### § 6. Sanctiebepalingen
-
-#### § 7. Slot- en overgangsbepalingen
-
-Treedt in werking in Bonaire, Sint Eustatius en Saba.
-
-#### § 1. Algemene bepalingen
-
-#### § 2. Leerplicht
-
-#### § 3. Kwalificatieplicht
-
-#### § 4. Vrijstellingen
-
-#### § 5. Toezicht op de naleving van de wet
-
-#### § 6. Sanctiebepalingen
-
-#### § 7. Slot- en overgangsbepalingen

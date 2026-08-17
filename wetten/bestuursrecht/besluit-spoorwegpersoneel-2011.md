@@ -1,70 +1,39 @@
 ---
 title: "Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betrekking tot de bekwaamheid en geschiktheid van spoorwegpersoneel met een veiligheidsfunctie (Besluit spoorwegpersoneel 2011)"
+citeertitel: "Besluit spoorwegpersoneel 2011"
 identifier: "BWBR0030006"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-12-17"
-last_updated: "2021-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030006"
+categorie: "Verkeer"
 soort: "AMvB"
-stam_id: "11324973"
-version_id: "25726252"
-internal_id: "C36693571"
-label_id: "11299014"
-dtd_version: "2.0"
-original_entry_into_force: "2019-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030006/2021-12-17/0"
-intitule_bron: "Stb.2011-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-03"
-intitule_published: "2011-05-24"
-intitule_in_force: "2011-11-14"
-intitule_status: "goed"
-original_publication: "Stb.2019-104"
-original_signed_date: "2019-02-22"
-original_published_date: "2019-03-08"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2019-104"
-entry_into_force_date: "2019-02-22"
-jci_1_3: "jci1.3:c:BWBR0030006&z=2021-12-17&g=2021-12-17"
-jci_1_0: "1.0:c:BWBR0030006&g=2021-12-17"
-citeertitel_status: "officieel"
-short_title: "Besluit spoorwegpersoneel 2011"
-signed_date: "2019-02-22"
-entry_into_force: "2019-02-22"
+publicatiedatum: 2019-02-22
+laatste_update: 2021-12-17
+status: geldig
+toestand: 2021-12-17
+bron: "https://wetten.overheid.nl/BWBR0030006"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betrekking tot de bekwaamheid en geschiktheid van spoorwegpersoneel met een veiligheidsfunctie (Besluit spoorwegpersoneel 2011)
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu van 8 december 2010, nr. VENW/BSK-2010/181313, Hoofddirectie Juridische Zaken;
-
-Gelet op [richtlijn nr. 2007/59/EG](32007L0059) van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2007 inzake de certificering van machinisten die locomotieven en treinen op het spoorwegsysteem van de gemeenschap besturen (PbEU L 315) en de [artikelen 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=49), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51), [51a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), [51b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b) en [52 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=52);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 14 januari 2011, nr. W14.10.0554/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 27 april 2011, nr. IENM/BSK-2011/51548, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Aanbeveling 2011/766/EU:** Aanbeveling 2011/766/EU van de Commissie van 22 november 2011 betreffende de procedure voor de erkenning van opleidingscentra en examinatoren voor treinbestuurders overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/41);
+- *Aanbeveling 2011/766/EU:* Aanbeveling 2011/766/EU van de Commissie van 22 november 2011 betreffende de procedure voor de erkenning van opleidingscentra en examinatoren voor treinbestuurders overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/41);
 
-- **Besluit 2011/765/EU:** Besluit 2011/765/EU van de Commissie van 22 november 2011 inzake criteria voor de erkenning van examinatoren van treinbestuurders en inzake criteria voor de organisatie van examens overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/36);
+- *Besluit 2011/765/EU:* Besluit 2011/765/EU van de Commissie van 22 november 2011 inzake criteria voor de erkenning van examinatoren van treinbestuurders en inzake criteria voor de organisatie van examens overeenkomstig Richtlijn 2007/59/EG van het Europees Parlement en de Raad (PbEU 2011, L 314/36);
 
-- **categorie A:** rangeerlocomotieven, werktreinen, onderhoudsspoorwagens en alle andere locomotieven die gebruikt worden voor het rangeren;
+- *categorie A:* rangeerlocomotieven, werktreinen, onderhoudsspoorwagens en alle andere locomotieven die gebruikt worden voor het rangeren;
 
-- **categorie B:** vervoer van reizigers, vervoer van goederen;
+- *categorie B:* vervoer van reizigers, vervoer van goederen;
 
-- **locomotief:** spoorvoertuig met eigen voortbewegingsinrichting, hoofdzakelijk bestemd en ingericht om andere spoorvoertuigen voort te bewegen;
+- *locomotief:* spoorvoertuig met eigen voortbewegingsinrichting, hoofdzakelijk bestemd en ingericht om andere spoorvoertuigen voort te bewegen;
 
-- **treinstel:** treinstel als bedoeld in [artikel 1 van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=1);
+- *treinstel:* treinstel als bedoeld in [artikel 1 van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=1);
 
-- **TSI Exploitatie en verkeersleiding:** Uitvoerings[verordening (EU) 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
+- *TSI Exploitatie en verkeersleiding:* Uitvoeringsverordening (EU) 2019/773 van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
 
-- **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+- *wet:*
+ [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 ##### Artikel 2
 
@@ -90,7 +59,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 3. De machinist met volledige bevoegdheid of de machinist met beperkte bevoegdheid is tevens bevoegd tot het koppelen en ontkoppelen van locomotieven en treinstellen voor zover hij voor die handelingen is opgeleid.
 
-4. De rangeerder is bevoegd tot het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen met een maximumsnelheid van 40 km per uur.
+4. De rangeerder is bevoegd tot het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen met een maximumsnelheid van 40 km per uur.
 
 5. De wagencontroleur is bevoegd tot het controleren op kenbare gebreken van goederenwagens en de belading daarvan.
 
@@ -118,13 +87,13 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 2. De persoon die een veiligheidsfunctie uitoefent beheerst de Nederlandse taal of een door de beheerder voorgeschreven taal zodanig dat hij de voor de uitoefening van de betrokken functie gebruikelijke procescommunicatie kan voeren en begrijpen.
 
-3. In afwijking van het tweede lid kunnen bij regeling van Onze Minister baanvakken voor grensoverschrijdende treindiensten worden aangewezen waar, op aanvraag van een spoorwegonderneming en met inachtneming van de in punt 8, derde lid, van bijlage VI bij [richtlijn 2007/59/EG](32007L0059) genoemde procedure, machinisten door de beheerder kunnen worden vrijgesteld van de taaleis, bedoeld in punt 8, eerste en tweede lid, van die bijlage.
+3. In afwijking van het tweede lid kunnen bij regeling van Onze Minister baanvakken voor grensoverschrijdende treindiensten worden aangewezen waar, op aanvraag van een spoorwegonderneming en met inachtneming van de in punt 8, derde lid, van bijlage VI bij richtlijn 2007/59/EG genoemde procedure, machinisten door de beheerder kunnen worden vrijgesteld van de taaleis, bedoeld in punt 8, eerste en tweede lid, van die bijlage.
 
 ##### Artikel 6
 
-1. Onze Minister stelt ten behoeve van een beoordeling als bedoeld in [artikel 50, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), een examenprogramma vast dat voldoet aan de in bijlage IV van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake algemene kennis en vaardigheden.
+1. Onze Minister stelt ten behoeve van een beoordeling als bedoeld in [artikel 50, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), een examenprogramma vast dat voldoet aan de in bijlage IV van richtlijn 2007/59/EG gestelde eisen inzake algemene kennis en vaardigheden.
 
-2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, stelt ten behoeve van de beoordeling, bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), een examenprogramma vast dat voldoet aan de in bijlage V en VI van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake specifieke vakkennis inzake spoorvoertuigen en hoofdspoorweginfrastructuur.
+2. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, stelt ten behoeve van de beoordeling, bedoeld in [artikel 51a, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), een examenprogramma vast dat voldoet aan de in bijlage V en VI van richtlijn 2007/59/EG gestelde eisen inzake specifieke vakkennis inzake spoorvoertuigen en hoofdspoorweginfrastructuur.
 
 3. Onze Minister stelt voor de veiligheidsfunctie van rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid en treindienstleider met minimale bevoegdheid een examenprogramma vast dat voldoet aan de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding inzake algemene kennis, bekwaamheid en ervaring.
 
@@ -153,6 +122,20 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 - d. de examenuitslag, uitgedrukt in voldoende dan wel onvoldoende.
 
 8. De beoordelingen zijn voor onbepaalde tijd geldig.
+
+##### Artikel 7a
+
+1. Onze Minister erkent een persoon als examinator indien deze persoon:
+
+- a. in het bezit is van een beoordeling waaruit blijkt dat de kandidaat voldoet aan het bepaalde in hoofdstuk 3 van het Besluit 2011/765/EU; of
+
+- b. in het bezit is van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5).
+
+2. Bij de aanvraag, verlening, schorsing of intrekking van een erkenning, alsmede de registratie van examinatoren, wordt gehandeld overeenkomstig de aanbevelingen 26 tot en met 39 en 41 tot en met 48 van Aanbeveling 2011/766/EU.
+
+3. Bij regeling van Onze Minister kunnen aanvullende eisen worden gesteld als bedoeld in artikel 8, vierde lid, van Besluit 2011/765/EU.
+
+4. Onze Minister houdt een register van examinatoren bij. Gegevens van examinatoren als bedoeld in aanwijzing 38 van Aanbeveling 2011/766/EU worden op verzoek verstrekt aan personen die hier redelijkerwijs belang bij hebben.
 
 ##### Artikel 8
 
@@ -188,7 +171,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 9
 
-1. Bij regeling van Onze Minister worden met inachtneming van bijlage II van [richtlijn 2007/59/EG](32007L0059) de eisen vastgesteld inzake medische en psychologische geschiktheid voor de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid.
+1. Bij regeling van Onze Minister worden met inachtneming van bijlage II van richtlijn 2007/59/EG de eisen vastgesteld inzake medische en psychologische geschiktheid voor de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid.
 
 2. Bij regeling van Onze Minister worden met inachtneming van de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding de eisen vastgesteld inzake medische en psychologische geschiktheid voor de rangeerder, de treindienstleider met volledige bevoegdheid en de treindienstleider met minimale bevoegdheid.
 
@@ -242,7 +225,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 2. Onze Minister besluit op een aanvraag binnen één maand nadat voldaan is aan het bepaalde in het eerste lid en de vergoeding voor het in behandeling nemen van de aanvraag is voldaan.
 
-3. De machinistenvergunning voldoet aan de daaromtrent bij of krachtens artikel 4 en bijlage I van [richtlijn 2007/59/EG](32007L0059) gestelde regels.
+3. De machinistenvergunning voldoet aan de daaromtrent bij of krachtens artikel 4 en bijlage I van richtlijn 2007/59/EG gestelde regels.
 
 4. De machinistenvergunning is geldig voor de duur van tien jaar gerekend vanaf de datum van afgifte.
 
@@ -254,13 +237,13 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 ##### Artikel 13
 
-1. Het bevoegdheidsbewijs, bedoeld in [artikel 51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan de daaromtrent bij of krachtens artikel 4 en bijlage I van [richtlijn 2007/59/EG](32007L0059) gestelde regels.
+1. Het bevoegdheidsbewijs, bedoeld in [artikel 51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan de daaromtrent bij of krachtens artikel 4 en bijlage I van richtlijn 2007/59/EG gestelde regels.
 
 2. Het bevoegdheidsbewijs vermeldt de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het betrekking heeft.
 
 3. Het bevoegdheidsbewijs vermeldt slechts de spoorvoertuigen en de hoofdspoorweginfrastructuur ten aanzien waarvan de machinist met volledige bevoegdheid of de machinist met beperkte bevoegdheid beschikt over een geldige beoordeling als bedoeld in [artikel 51a, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a).
 
-4. Het bevoegdheidsbewijs voor de machinist met beperkte bevoegdheid vermeldt de beperking tot het besturen en begeleiden van spoorvoertuigen met een maximumsnelheid van 40 km per uur.
+4. Het bevoegdheidsbewijs voor de machinist met beperkte bevoegdheid vermeldt de beperking tot het besturen en begeleiden van spoorvoertuigen met een maximumsnelheid van 40 km per uur.
 
 5. De bevoegdheid als rangeerder of wagencontroleur kan bij machinisten met volledige of beperkte bevoegdheid worden aangetekend op het bevoegdheidsbewijs.
 
@@ -272,7 +255,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 9. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt bij de beëindiging van het dienstverband aan de betrokken machinist een gewaarmerkte kopie van alle documenten waaruit zijn opleiding, zijn kwalificaties, zijn ervaring en zijn vakbekwaamheden blijken.
 
-10. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, voorziet in een geschillenregeling omtrent de verstrekking, schorsing en intrekking van een bevoegdheidsbewijs, overeenkomstig artikel 15 van [richtlijn 2007/59/EG](32007L0059).
+10. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, voorziet in een geschillenregeling omtrent de verstrekking, schorsing en intrekking van een bevoegdheidsbewijs, overeenkomstig artikel 15 van richtlijn 2007/59/EG.
 
 ##### Artikel 14
 
@@ -318,17 +301,17 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 1. Degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend, draagt er zorg voor dat de persoon door wie die functie wordt uitgeoefend periodiek een herinstructie volgt ten aanzien van de juiste uitvoering van de functie.
 
-2. Het periodieke onderzoek van de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid, bedoeld in [artikel 51a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), vindt plaats met inachtneming van het bepaalde in bijlage VII van [richtlijn 2007/59/EG](32007L0059).
+2. Het periodieke onderzoek van de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid, bedoeld in [artikel 51a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), vindt plaats met inachtneming van het bepaalde in bijlage VII van richtlijn 2007/59/EG.
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-1. Het register van machinistenvergunningen, bedoeld in [artikel 51a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in [Richtlijn 2007/59/EG](32007L0059) van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
+1. Het register van machinistenvergunningen, bedoeld in [artikel 51a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in Richtlijn 2007/59/EG van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
 
-2. Het register van bevoegdheidsbewijzen, bedoeld in [artikel 51a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in [Richtlijn 2007/59/EG](32007L0059) van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
+2. Het register van bevoegdheidsbewijzen, bedoeld in [artikel 51a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in Richtlijn 2007/59/EG van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
 
 ##### Artikel 19
 
@@ -372,7 +355,7 @@ Een wijziging van de TSI Exploitatie en verkeersleiding, het Besluit 2011/765/EU
 
 ##### Artikel 24
 
-Wijzigt het Besluit spoorverkeer.
+*Wijzigt het Besluit spoorverkeer.*
 
 ##### Artikel 25
 
@@ -382,7 +365,7 @@ Het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625)
 
 1. Het [Besluit keuring spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0017622) wordt ingetrokken.
 
-2. Wijzigt het Besluit spoorweginfrastructuur.
+2. *Wijzigt het Besluit spoorweginfrastructuur.*
 
 ##### Artikel 27
 
@@ -391,21 +374,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit spoorwegpersoneel 2011.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a
-
-1. Onze Minister erkent een persoon als examinator indien deze persoon:
-
-- a. in het bezit is van een beoordeling waaruit blijkt dat de kandidaat voldoet aan het bepaalde in hoofdstuk 3 van het Besluit 2011/765/EU; of
-
-- b. in het bezit is van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5).
-
-2. Bij de aanvraag, verlening, schorsing of intrekking van een erkenning, alsmede de registratie van examinatoren, wordt gehandeld overeenkomstig de aanbevelingen 26 tot en met 39 en 41 tot en met 48 van Aanbeveling 2011/766/EU.
-
-3. Bij regeling van Onze Minister kunnen aanvullende eisen worden gesteld als bedoeld in artikel 8, vierde lid, van Besluit 2011/765/EU.
-
-4. Onze Minister houdt een register van examinatoren bij. Gegevens van examinatoren als bedoeld in aanwijzing 38 van Aanbeveling 2011/766/EU worden op verzoek verstrekt aan personen die hier redelijkerwijs belang bij hebben.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

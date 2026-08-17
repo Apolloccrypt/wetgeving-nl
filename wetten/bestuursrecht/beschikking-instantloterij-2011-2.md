@@ -1,72 +1,38 @@
 ---
 title: "Beschikking van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2011, nr. 5701073/11/DSP, tot afgifte van de Beschikking instantloterij"
+citeertitel: "Beschikking instantloterij 2011 (2)"
 identifier: "BWBR0030229"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030229"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11387233"
-version_id: "18687312"
-internal_id: "C26077501"
-label_id: "11360984"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030229/2011-07-01/0"
-intitule_bron: "Stcrt.2011-12248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-30"
-intitule_published: "2011-07-08"
-intitule_in_force: "2011-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-12248"
-original_signed_date: "2011-06-30"
-original_published_date: "2011-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-12248"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0030229&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0030229&g=2011-07-01"
-citeertitel_status: "officieel"
-short_title: "Beschikking instantloterij 2011 (2)"
-signed_date: "2011-06-30"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0030229"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2011, nr. 5701073/11/DSP, tot afgifte van de Beschikking instantloterij
-
-Overwegende dat de geldigheidsduur van de [Beschikking instantloterij 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030047) op 30 juni 2011 verstrijkt;
-
-Gelezen het verzoek van de Stichting de Nationale Sporttotalisator (De Lotto) van 17 mei 2011 haar opnieuw vergunning te verlenen voor het organiseren van de instantloterij;
-
-Gehoord het advies van het College van toezicht op de kansspelen van 25 mei 2011, nr. C.415/11;
-
-Gelet op de [artikelen 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34) (Stb. 1964, 483);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **de staatssecretaris:** de Staatssecretaris van Veiligheid en Justitie;
+- b. *de staatssecretaris:* de Staatssecretaris van Veiligheid en Justitie;
 
-- c. **de stichting:** Stichting de Nationale Sporttotalisator;
+- c. *de stichting:* Stichting de Nationale Sporttotalisator;
 
-- d. **het college:** het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- d. *het college:* het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- e. **instantloterij:** een loterij als bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a);
+- e. *instantloterij:* een loterij als bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a);
 
-- f. **verkooppunt:** een inrichting als bedoeld in [artikel 14c, tweede lid, onder b. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c);
+- f. *verkooppunt:* een inrichting als bedoeld in [artikel 14c, tweede lid, onder b. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c);
 
-- g. **uitgifte van deelnamebewijzen:** het door de stichting afgeven van deelnamebewijzen aan de verkooppunten;
+- g. *uitgifte van deelnamebewijzen:* het door de stichting afgeven van deelnamebewijzen aan de verkooppunten;
 
-- h. **prijzenreserve:** een reservering die is opgebouwd uit niet geïnde prijzen.
+- h. *prijzenreserve:* een reservering die is opgebouwd uit niet geïnde prijzen.
 
 ##### Artikel 2
 
@@ -225,5 +191,3 @@ Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikkin
 ##### Artikel 21
 
 Deze beschikking wordt aangehaald als Beschikking instantloterij 2011 (2).
-
-Deze beschikking treedt in werking met ingang van 1 juli 2011 en zal worden gepubliceerd in de Staatscourant.

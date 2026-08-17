@@ -1,51 +1,18 @@
 ---
 title: "Onderlinge regeling inzake toedeling bijzondere AOV-categorie opvolging Sociale Verzekeringsbank Nederlandse Antillen"
+citeertitel: "Onderlinge regeling toedeling bijzondere AOV-categorie opvolging Sociale Verzekeringsbank Nederlandse Antillen"
 identifier: "BWBR0030426"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-09-15"
-last_updated: "2011-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030426"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11438163"
-version_id: "18790342"
-internal_id: "C26231581"
-label_id: "11411524"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030426/2011-09-15/0"
-intitule_bron: "Stcrt.2011-16460"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-09-14"
-intitule_in_force: "2011-09-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-16460"
-original_published_date: "2011-09-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-16460"
-entry_into_force_date: "2011-09-15"
-jci_1_3: "jci1.3:c:BWBR0030426&z=2011-09-15&g=2011-09-15"
-jci_1_0: "1.0:c:BWBR0030426&g=2011-09-15"
-citeertitel_status: "officieel"
-short_title: "Onderlinge regeling toedeling bijzondere AOV-categorie opvolging Sociale Verzekeringsbank Nederlandse Antillen"
-entry_into_force: "2011-09-15"
+publicatiedatum: 2011-09-15
+laatste_update: 2011-09-15
+status: geldig
+toestand: 2011-09-15
+bron: "https://wetten.overheid.nl/BWBR0030426"
+opgehaald: 2026-08-17
 ---
+
 # Onderlinge regeling inzake toedeling bijzondere AOV-categorie opvolging Sociale Verzekeringsbank Nederlandse Antillen
-
-Hierna gezamenlijk te noemen: ‘Partijen’;
-
-Partijen nemen in overweging:
-
-dat met het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) is beoogd een sluitende toedeling van verzekerden en gerechtigden van de Sociale Verzekeringsbank Nederlandse Antillen tot stand te brengen;
-
-dat is gebleken dat een categorie aanspraken van gerechtigden en verzekerden algemene ouderdomsverzekering alsnog binnen het bereik van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) moet worden gebracht;
-
-dat het wenselijk is dat de benaderingswijze ter zake van de rechten van deze categorie gerechtigden en verzekerden op korte termijn eenduidig en helder toepassing vindt;
-
-dat het wenselijk is hieromtrent en over de financiële verrekening van de met de toe te delen aanspraken gemoeide lasten, afspraken neer te leggen in een regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 ##### Artikel 1. Begripsbepaling regeling
 

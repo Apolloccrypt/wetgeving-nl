@@ -1,60 +1,30 @@
 ---
 title: "Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur"
+citeertitel: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (beroepsgerichte kwalificatiestructuur)"
 identifier: "BWBR0030698"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030698"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "11509273"
-version_id: "18940362"
-internal_id: "C26434961"
-label_id: "11482594"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030698/2012-01-01/0"
-intitule_bron: "Stb.2011-560"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-07"
-intitule_published: "2011-12-02"
-intitule_in_force: "2011-12-02"
-intitule_status: "goed"
-original_publication: "Stb.2011-560"
-original_signed_date: "2011-11-07"
-original_published_date: "2011-12-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "32316"
-original_url_id: "stb-2011-560"
-entry_into_force_date: "2012-01-01"
-entry_into_force_dossier: "32316"
-jci_1_3: "jci1.3:c:BWBR0030698&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0030698&g=2012-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (beroepsgerichte kwalificatiestructuur)"
-signed_date: "2011-11-07"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0030698"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wijziging van de Wet educatie en beroepsonderwijs
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te geven voor de beroepsgerichte kwalificatiestructuur; dat daartoe de Wet educatie en beroepsonderwijs dient te worden gewijzigd;
+*Wijzigt de Wet educatie en beroepsonderwijs.*
 
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Wijziging van de Wet studiefinanciering 2000
 
-##### Artikel I. Wijziging van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
+*Wijzigt de Wet studiefinanciering 2000.*
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+##### Artikel III. Wijziging van de Wet educatie en beroepsonderwijs BES
 
-##### Artikel II. Wijziging van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
-
-Wijzigt de Wet studiefinanciering 2000.
-
-##### Artikel III. Wijziging van de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
-
-Wijzigt de Wet educatie en beroepsonderwijs BES.
+*Wijzigt de Wet educatie en beroepsonderwijs BES.*
 
 ##### Artikel IV. Overgangsbepaling voor eindtermgerichte beroepsopleidingen
 
@@ -91,5 +61,3 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap zendt in overeenstemming met 
 ##### Artikel VI. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van 1 januari 2012 en is voor het eerst van toepassing op beroepsopleidingen in het studiejaar 2012–2013. Indien deze wet na 31 december 2011 in het Staatsblad wordt geplaatst, treedt zij in werking met ingang van 1 augustus volgend op de datum waarop zij in het Staatsblad wordt geplaatst of, indien dat eerder is, 1 januari volgend op de datum waarop zij in het Staatsblad wordt geplaatst en is voor het eerst van toepassing op beroepsopleidingen in het studiejaar volgend op de datum waarop zij in het Staatsblad wordt geplaatst.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

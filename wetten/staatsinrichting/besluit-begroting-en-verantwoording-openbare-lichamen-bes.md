@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 20 mei 2011, houdende de regels voor de begrotings- en verantwoordingsdocumenten van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit begroting en verantwoording openbare lichamen BES)"
+citeertitel: "Besluit begroting en verantwoording openbare lichamen BES"
 identifier: "BWBR0030060"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-06-08"
-last_updated: "2011-06-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030060"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11340093"
-version_id: "18600382"
-internal_id: "C25953521"
-label_id: "11314624"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030060/2011-06-08/0"
-intitule_bron: "Stb.2011-268"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-20"
-intitule_published: "2011-06-07"
-intitule_in_force: "2011-06-07"
-intitule_status: "goed"
-original_publication: "Stb.2011-268"
-original_signed_date: "2011-05-20"
-original_published_date: "2011-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-268"
-entry_into_force_date: "2011-06-08"
-jci_1_3: "jci1.3:c:BWBR0030060&z=2011-06-08&g=2011-06-08"
-jci_1_0: "1.0:c:BWBR0030060&g=2011-06-08"
-citeertitel_status: "officieel"
-short_title: "Besluit begroting en verantwoording openbare lichamen BES"
-signed_date: "2011-05-20"
-entry_into_force: "2011-06-08"
+publicatiedatum: 2011-06-08
+laatste_update: 2011-06-08
+status: geldig
+toestand: 2011-06-08
+bron: "https://wetten.overheid.nl/BWBR0030060"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 20 mei 2011, houdende de regels voor de begrotings- en verantwoordingsdocumenten van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit begroting en verantwoording openbare lichamen BES)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 maart 2011, 2011-2000034451, CZW/WBI;
-
-Gelet op [artikel 13, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=13);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 28 april 2011, nr. W04.11.0102/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 mei 2011, nr. 2011-2000170518, CZW/WBI;
-
-Hebben goedgevonden en verstaan:
-
-Wordt voor het eerste toegepast voor het begrotingsjaar 2012.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -54,17 +20,17 @@ Wordt voor het eerste toegepast voor het begrotingsjaar 2012.
 
 In dit besluit wordt verstaan onder:
 
-- a. **deelneming:** een privaatrechtelijke of publiekrechtelijke organisatie waarin het openbaar lichaam een bestuurlijk en een financieel belang heeft;
+- a. *deelneming:* een privaatrechtelijke of publiekrechtelijke organisatie waarin het openbaar lichaam een bestuurlijk en een financieel belang heeft;
 
-- b. **financieel belang:** een aan de deelneming ter beschikking gesteld bedrag dat niet verhaalbaar is indien de deelneming failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de deelneming haar verplichtingen niet nakomt;
+- b. *financieel belang:* een aan de deelneming ter beschikking gesteld bedrag dat niet verhaalbaar is indien de deelneming failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de deelneming haar verplichtingen niet nakomt;
 
-- c. **bestuurlijk belang:** zeggenschap, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht;
+- c. *bestuurlijk belang:* zeggenschap, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht;
 
-- d. **hoofdfuncties en functies:** zorggebieden, gerangschikt overeenkomstig de indeling, opgenomen in de ministeriële regeling, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&hoofdstuk=II&titeldeel=2.3&artikel=16&z=2011-06-08&g=2011-06-08);
+- d. *hoofdfuncties en functies:* zorggebieden, gerangschikt overeenkomstig de indeling, opgenomen in de ministeriële regeling, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&hoofdstuk=II&titeldeel=2.3&artikel=16&z=2011-06-08&g=2011-06-08);
 
-- e. **subfunctie:** een door de eilandsraad verbijzonderd onderdeel van een functie;
+- e. *subfunctie:* een door de eilandsraad verbijzonderd onderdeel van een functie;
 
-- f. **de wet:** de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151);
+- f. *de wet:* de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151);
 
 ##### Artikel 2
 
@@ -92,7 +58,7 @@ Deelnemingen worden niet geconsolideerd in de begroting en jaarstukken.
 
 ### Hoofdstuk II. De begroting en de toelichting
 
-## Titel 2.1. Algemeen
+### Titel 2.1. Algemeen
 
 ##### Artikel 6
 
@@ -116,7 +82,7 @@ Deelnemingen worden niet geconsolideerd in de begroting en jaarstukken.
 
 - c. het overzicht reserves en voorzieningen.
 
-## Titel 2.2. De beleidsbegroting
+### Titel 2.2. De beleidsbegroting
 
 ##### Artikel 7
 
@@ -246,7 +212,7 @@ De paragraaf betreffende de collectieve sector bevat tenminste:
 
 - e. een aanduiding van het financieringsbeleid van de collectieve sector dat het openbaar lichaam voorstaat en van de wijze waarop het dat wil realiseren.
 
-## Titel 2.3. De financiële begroting
+### Titel 2.3. De financiële begroting
 
 ##### Artikel 16
 
@@ -320,7 +286,7 @@ De toelichting op het overzicht van baten en lasten bevat ten minste:
 
 ### Hoofdstuk III. De jaarstukken en de toelichting
 
-## Titel 3.1. Algemeen
+### Titel 3.1. Algemeen
 
 ##### Artikel 21
 
@@ -344,19 +310,19 @@ De toelichting op het overzicht van baten en lasten bevat ten minste:
 
 - c. het overzicht verantwoordingsinformatie bijzondere uitkeringen.
 
-## Titel 3.2. De beleidsverantwoording
+### Titel 3.2. De beleidsverantwoording
 
 ##### Artikel 22
 
 De beleidsverantwoording bestaat ten minste uit de verantwoording over de realisatie van de beleidsdoelstellingen en activiteiten voor het begrotingsjaar.
 
-## Titel 3.3. De paragrafen
+### Titel 3.3. De paragrafen
 
 ##### Artikel 23
 
 Het jaarverslag bevat de paragrafen die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&hoofdstuk=II&titeldeel=2.2&artikel=8&z=2011-06-08&g=2011-06-08) in de begroting zijn opgenomen. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
 
-## Titel 3.4. De rekening en de toelichting
+### Titel 3.4. De rekening en de toelichting
 
 ##### Artikel 24
 
@@ -384,7 +350,7 @@ De toelichting op de rekening bevat ten minste:
 
 De rekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de rekening en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&hoofdstuk=I&artikel=3&z=2011-06-08&g=2011-06-08), bedoelde inzicht.
 
-## Titel 3.5. De balans en de toelichting
+### Titel 3.5. De balans en de toelichting
 
 #### Paragraaf 3.5.1. Algemeen
 
@@ -699,5 +665,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 61
 
 Dit besluit wordt aangehaald als: Besluit begroting en verantwoording openbare lichamen BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

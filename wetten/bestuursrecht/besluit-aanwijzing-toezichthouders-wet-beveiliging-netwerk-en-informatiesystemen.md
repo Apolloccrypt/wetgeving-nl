@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0041524"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 november 2018, nr. WJZ/18213911, tot aanwijzing toezichthouders Wet beveiliging netwerk- en informatiesystemen voor de sectoren energie, digitale infrastructuur en voor digitale diensten (Besluit aanwijzing toezichthouders Wet beveiliging netwerk- en informatiesystemen voor de sectoren energie, digitale infrastructuur en voor digitale diensten)

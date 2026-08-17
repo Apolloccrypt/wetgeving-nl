@@ -1,67 +1,37 @@
 ---
 title: "Verordening beroeps- en gedragsregels 2011"
 identifier: "BWBR0030484"
-country: "nl"
-rank: "pbo"
-publication_date: "2020-01-18"
-last_updated: "2020-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030484"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "11455433"
-version_id: "26406482"
-internal_id: "C37519741"
-label_id: "11428934"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030484/2020-01-18/0"
-intitule_bron: "Stcrt.2011-17776"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-22"
-intitule_published: "2011-09-30"
-intitule_in_force: "2011-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-1456"
-original_published_date: "2020-01-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-1456"
-entry_into_force_date: "2020-01-18"
-jci_1_3: "jci1.3:c:BWBR0030484&z=2020-01-18&g=2020-01-18"
-jci_1_0: "1.0:c:BWBR0030484&g=2020-01-18"
-citeertitel_status: "officieel"
-entry_into_force: "2020-01-18"
+publicatiedatum: 2020-01-18
+laatste_update: 2020-01-18
+status: geldig
+toestand: 2020-01-18
+bron: "https://wetten.overheid.nl/BWBR0030484"
+opgehaald: 2026-08-17
 ---
+
 # Verordening beroeps- en gedragsregels 2011
-
-Overwegende dat het gewenst is beroeps-en gedragsregels vast te stellen;
-
-Gelet op [artikel 61 lid 2 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=61);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gelet op de adviezen van de ringen;
-
-Stelt de navolgende verordening vast:
 
 ##### Artikel 1. Definities
 
 In deze verordening wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
+- a. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
 
-- b. **notaris:** de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.
+- b. *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.
 
-- c. **Protocol:** het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), van de notaris en zijn voorgangers;
+- c. *Protocol:* het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1), van de notaris en zijn voorgangers;
 
-- d. **Rechtsvorm:** de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;
+- d. *Rechtsvorm:* de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;
 
-- e. **Protocolopvolger:** de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
+- e. *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
 
-- f. **Protocolvoorganger:** de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) en de rechtsvorm waarin de praktijk is uitgeoefend;
+- f. *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) en de rechtsvorm waarin de praktijk is uitgeoefend;
 
-- g. **Werknemers:** personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;
+- g. *Werknemers:* personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;
 
-- h. **Protocolverzekerden:** de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.
+- h. *Protocolverzekerden:* de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.
 
 ##### Artikel 2. Integere beroepsuitoefening
 
@@ -139,45 +109,45 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 
 2. Voor de verzekering van het risico van beroepsaansprakelijkheid van de notaris en zijn protocolvoorgangers geldt het volgende:
 
-- a. schaden die lopen tot vijfentwintig miljoen euro (€ 25.000.000) moeten zijn gedekt;
+- a. schaden die lopen tot vijfentwintig miljoen euro (€ 25.000.000) moeten zijn gedekt;
 
 - b. het te verzekeren risico moet zijn gedekt via een te goeder naam en faam bekend staande verzekeringsmaatschappij;
 
 - c. de verzekering of verzekeringen dienen minimaal te voldoen aan de volgende voorwaarden:
 
-- 1. de verzekering van de notaris dekt ook in geval van zijn schorsing of ontzetting mede de aansprakelijkheid van de protocolverzekerden en de kandidaat-notaris die het notarisambt waarneemt in de zin van de Wet op het notarisambt;
+   - 1. de verzekering van de notaris dekt ook in geval van zijn schorsing of ontzetting mede de aansprakelijkheid van de protocolverzekerden en de kandidaat-notaris die het notarisambt waarneemt in de zin van de Wet op het notarisambt;
 
-- 2. de verzekering dekt mede de burgerrechtelijke aansprakelijkheid van de notaris voor handelen en nalaten van personen die onder zijn verantwoordelijkheid werkzaam zijn;
+   - 2. de verzekering dekt mede de burgerrechtelijke aansprakelijkheid van de notaris voor handelen en nalaten van personen die onder zijn verantwoordelijkheid werkzaam zijn;
 
-- 3. de verzekerde limieten vormen het minimaal door de notaris te verzekeren bedrag van vijfentwintig miljoen euro (€ 25.000.000) per aanspraak en vijftig miljoen euro (€ 50.000.000) per verzekeringsjaar; zij gelden onafhankelijk van elkaar voor de notaris en per individuele protocolvoorganger;
+   - 3. de verzekerde limieten vormen het minimaal door de notaris te verzekeren bedrag van vijfentwintig miljoen euro (€ 25.000.000) per aanspraak en vijftig miljoen euro (€ 50.000.000) per verzekeringsjaar; zij gelden onafhankelijk van elkaar voor de notaris en per individuele protocolvoorganger;
 
-- 4. voor de protocolverzekerden mag geen eigen risico gelden. De protocolontvanger moet het protocol verzekeren voor minimaal hetzelfde bedrag als waarvoor de protocolhouder was verzekerd;
+   - 4. voor de protocolverzekerden mag geen eigen risico gelden. De protocolontvanger moet het protocol verzekeren voor minimaal hetzelfde bedrag als waarvoor de protocolhouder was verzekerd;
 
-- 5. indien een schade van de protocolverzekerden niet gedekt is op basis van de polisvoorwaarden van de protocolopvolger dient dekking te worden geboden overeenkomstig de polisvoorwaarden die voor de protocolvoorganger(s) van kracht waren ten tijde van het begaan van de fout, echter als waren die polisvoorwaarden op basis van het systeem waarbij voor de polisdekking het moment van de aanspraak of de omstandighedenmelding bepalend is voor de polisdekking (claims made basis);
+   - 5. indien een schade van de protocolverzekerden niet gedekt is op basis van de polisvoorwaarden van de protocolopvolger dient dekking te worden geboden overeenkomstig de polisvoorwaarden die voor de protocolvoorganger(s) van kracht waren ten tijde van het begaan van de fout, echter als waren die polisvoorwaarden op basis van het systeem waarbij voor de polisdekking het moment van de aanspraak of de omstandighedenmelding bepalend is voor de polisdekking (claims made basis);
 
-- 6. aan de polisrechten van protocolverzekerden mag geen afbreuk worden gedaan door een schending van een premiebetalings- of polisverplichting door de protocolopvolger, voor zover die schending heeft plaatsgevonden buiten weten of wil van de protocolverzekerde die aanspraak maakt op verzekeringsdekking. Omgekeerd mag aan polisrechten van de protocolopvolger geen afbreuk worden gedaan bij schending van polisverplichtingen door de protocolvoorganger welke schending buiten weten of wil van de protocolopvolger heeft plaatsgevonden;
+   - 6. aan de polisrechten van protocolverzekerden mag geen afbreuk worden gedaan door een schending van een premiebetalings- of polisverplichting door de protocolopvolger, voor zover die schending heeft plaatsgevonden buiten weten of wil van de protocolverzekerde die aanspraak maakt op verzekeringsdekking. Omgekeerd mag aan polisrechten van de protocolopvolger geen afbreuk worden gedaan bij schending van polisverplichtingen door de protocolvoorganger welke schending buiten weten of wil van de protocolopvolger heeft plaatsgevonden;
 
-- 7. een vordering van de verzekeraar op de protocolverzekerden mag niet in de weg staan aan het recht op uitkering van de protocolopvolger. Omgekeerd mag een vordering van de verzekeraar op de protocolopvolger niet in de weg staan aan het recht op uitkering van de protocolverzekerden;
+   - 7. een vordering van de verzekeraar op de protocolverzekerden mag niet in de weg staan aan het recht op uitkering van de protocolopvolger. Omgekeerd mag een vordering van de verzekeraar op de protocolopvolger niet in de weg staan aan het recht op uitkering van de protocolverzekerden;
 
-- 8. indien verzekeraars bij de aanvang van de verzekering van de protocolopvolger geen door de protocolvoorganger(s) ingevuld aanvraagformulier hebben ontvangen, mag de verzekeraar tegenover de protocolvoorganger van wie geen formulier is ontvangen, geen beroep meer doen op een schending van de mededelingsplicht;
+   - 8. indien verzekeraars bij de aanvang van de verzekering van de protocolopvolger geen door de protocolvoorganger(s) ingevuld aanvraagformulier hebben ontvangen, mag de verzekeraar tegenover de protocolvoorganger van wie geen formulier is ontvangen, geen beroep meer doen op een schending van de mededelingsplicht;
 
-- 9. de verzekering van de notaris biedt, met een minimum van 3 maanden, dekking gedurende de periode waarin nog geen aanwijzing van diens protocolopvolger heeft plaatsgevonden (zwevend protocol).
+   - 9. de verzekering van de notaris biedt, met een minimum van 3 maanden, dekking gedurende de periode waarin nog geen aanwijzing van diens protocolopvolger heeft plaatsgevonden (zwevend protocol).
 
-- 10. de dekking voor de protocolverzekerden dient in de polissen te zijn geregeld van de protocolopvolger die vanaf 1 januari 2004 een notaris in het protocol is opgevolgd;
+   - 10. de dekking voor de protocolverzekerden dient in de polissen te zijn geregeld van de protocolopvolger die vanaf 1 januari 2004 een notaris in het protocol is opgevolgd;
 
-- 11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.
+   - 11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.
 
-3. Schaden in het kader van beroepsaansprakelijkheid lopende van één miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), alsmede schaden van honderdduizend euro (€ 100.000) tot vijf miljoen euro (€ 5.000.000) als gevolg van fraude door personeel en als gevolg van het verlies van waarden tijdens transport of verblijf op kantoor en schaden tot een bedrag van vierhonderd vierenvijftigduizend euro (€ 454.000 euro) als gevolg van administratieve betaalfouten, moeten worden gedekt in een door de KNB afgesloten collectieve verzekering. De notaris is verplicht om zijn aandeel in de kosten die gemoeid zijn met deze verzekeringen te dragen.
+3. Schaden in het kader van beroepsaansprakelijkheid lopende van één miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), alsmede schaden van honderdduizend euro (€ 100.000) tot vijf miljoen euro (€ 5.000.000) als gevolg van fraude door personeel en als gevolg van het verlies van waarden tijdens transport of verblijf op kantoor en schaden tot een bedrag van vierhonderd vierenvijftigduizend euro (€ 454.000 euro) als gevolg van administratieve betaalfouten, moeten worden gedekt in een door de KNB afgesloten collectieve verzekering. De notaris is verplicht om zijn aandeel in de kosten die gemoeid zijn met deze verzekeringen te dragen.
 
 ##### Artikel 16. Samenwerkingsverbanden
 
 1. De notaris kan een samenwerkingsverband aangaan met een andere notaris of met een kandidaat-notaris.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel 17. Praktijkvennootschap
 
-Vervallen
+*Vervallen*
 
 ##### Artikelen 18. Partijadviseur
 
@@ -193,6 +163,10 @@ Vervallen
 
 De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.
 
+##### Artikel 19a
+
+Bij het vaststellen van de identiteit van de bij het verlijden van een akte voor de eerste maal voor de notaris verschijnende personen, controleert de notaris het hem getoonde document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) op diefstal, vermissing, geldigheid en echtheid. De notaris maakt hierbij voor zover mogelijk gebruik van hiervoor geschikte, door het bestuur aangewezen apparatuur, programmatuur, applicaties en systemen.
+
 ##### Artikel 20. Nadere regelgeving bestuur
 
 Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
@@ -204,7 +178,3 @@ Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011
 ##### Artikel 22. Inwerking treden
 
 Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.
-
-##### Artikel 19a
-
-Bij het vaststellen van de identiteit van de bij het verlijden van een akte voor de eerste maal voor de notaris verschijnende personen, controleert de notaris het hem getoonde document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) op diefstal, vermissing, geldigheid en echtheid. De notaris maakt hierbij voor zover mogelijk gebruik van hiervoor geschikte, door het bestuur aangewezen apparatuur, programmatuur, applicaties en systemen.

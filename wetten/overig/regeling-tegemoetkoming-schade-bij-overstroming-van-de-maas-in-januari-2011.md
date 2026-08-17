@@ -1,45 +1,17 @@
 ---
 title: "Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011"
 identifier: "BWBR0030242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-07-13"
-last_updated: "2011-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030242"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11390123"
-version_id: "18692582"
-internal_id: "C26083381"
-label_id: "11363914"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030242/2011-07-13/0"
-intitule_bron: "Stcrt.2011-12398"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-01"
-intitule_published: "2011-07-12"
-intitule_in_force: "2011-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-12398"
-original_signed_date: "2011-07-01"
-original_published_date: "2011-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-12398"
-entry_into_force_date: "2011-07-13"
-jci_1_3: "jci1.3:c:BWBR0030242&z=2011-07-13&g=2011-07-13"
-jci_1_0: "1.0:c:BWBR0030242&g=2011-07-13"
-citeertitel_status: "officieel"
-signed_date: "2011-07-01"
-entry_into_force: "2011-07-13"
+publicatiedatum: 2011-07-13
+laatste_update: 2011-07-13
+status: geldig
+toestand: 2011-07-13
+bron: "https://wetten.overheid.nl/BWBR0030242"
+opgehaald: 2026-08-17
 ---
+
 # Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011
-
-Handelende in overeenstemming met de Minister van Financiën en met de Staatssecretarissen van Economische Zaken, Landbouw en Innovatie en van Infrastructuur en Milieu;
-
-Gelet op de [artikelen 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), [6, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=6), en [7, eerste lid van de Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7) en de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=2), en [3, derde lid, van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=3);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -47,13 +19,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de wet:** de [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637);
+- a. *de wet:* de [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637);
 
-- b. **schadegebied:** het gebied, bedoeld in [artikel 1, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), dat is gelegen in de winterbedding van de Maas tussen de landsgrens en de Koninginnebrug bij Well voor zover daar geen gereglementeerde waterkeringen aanwezig zijn;
+- b. *schadegebied:* het gebied, bedoeld in [artikel 1, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1), dat is gelegen in de winterbedding van de Maas tussen de landsgrens en de Koninginnebrug bij Well voor zover daar geen gereglementeerde waterkeringen aanwezig zijn;
 
-- c. **schadebedrag:** de omvang van de schade, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de schades, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5);
+- c. *schadebedrag:* de omvang van de schade, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de schades, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5);
 
-- d. **kostenbedrag:** de gemaakte kosten, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de kosten, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5).
+- d. *kostenbedrag:* de gemaakte kosten, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de kosten, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5).
 
 ##### Artikel 2
 
@@ -182,5 +154,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstroming van de Maas in januari 2011.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

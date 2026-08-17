@@ -1,47 +1,18 @@
 ---
 title: "Wet van 1 december 2011, houdende regels ter voorkoming van witwassen en financieren van terrorisme in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet ter voorkoming van witwassen en financieren van terrorisme BES)"
+citeertitel: "Wet ter voorkoming van witwassen en financieren van terrorisme BES"
 identifier: "BWBR0030824"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030824"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "11539233"
-version_id: "19000482"
-internal_id: "C27234121"
-label_id: "11513294"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030824/2025-01-01/0"
-intitule_bron: "Stb.2011-613"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-01"
-intitule_published: "2011-12-20"
-intitule_in_force: "2012-06-12"
-intitule_status: "goed"
-original_publication: "Stb.2011-613"
-original_signed_date: "2011-12-01"
-original_published_date: "2011-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "32785"
-original_url_id: "stb-2011-613"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0030824&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0030824&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet ter voorkoming van witwassen en financieren van terrorisme BES"
-signed_date: "2011-12-01"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0030824"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 1 december 2011, houdende regels ter voorkoming van witwassen en financieren van terrorisme in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet ter voorkoming van witwassen en financieren van terrorisme BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet identificatie bij dienstverlening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028490), de [Wet melding ongebruikelijke transacties BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028598) en de [Wet grensoverschrijdende geldtransporten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028165) samen te voegen tot één wet, gericht op het voorkomen van het misbruik van het financiële stelsel voor het witwassen van geld en het financieren van terrorisme;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,57 +20,57 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
-- a. **buitenland:** ander land van het Koninkrijk of andere staat, alsmede het Europese deel van Nederland;
+- a. *buitenland:* ander land van het Koninkrijk of andere staat, alsmede het Europese deel van Nederland;
 
-- b. **cliënt:** degene met wie een zakelijke relatie wordt aangegaan of die een transactie laat uitvoeren, daaronder begrepen in geval van het sluiten, het verlenen van bemiddeling bij het sluiten, of het doen van een uitkering uit hoofde van een levensverzekering als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883), degene die de premie betaalt alsmede degene aan wie de uitkering wordt gedaan;
+- b. *cliënt:* degene met wie een zakelijke relatie wordt aangegaan of die een transactie laat uitvoeren, daaronder begrepen in geval van het sluiten, het verlenen van bemiddeling bij het sluiten, of het doen van een uitkering uit hoofde van een levensverzekering als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883), degene die de premie betaalt alsmede degene aan wie de uitkering wordt gedaan;
 
-- c. **correspondentbankrelatie:** vaste relatie tussen kredietinstellingen in verschillende landen of staten voor de afwikkeling van transacties of de uitvoering van opdrachten;
+- c. *correspondentbankrelatie:* vaste relatie tussen kredietinstellingen in verschillende landen of staten voor de afwikkeling van transacties of de uitvoering van opdrachten;
 
-- d. **dienst:** een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01) bij deze wet omschreven dienst, verricht door een dienstverlener in of vanuit Bonaire, Sint Eustatius of Saba;
+- d. *dienst:* een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01) bij deze wet omschreven dienst, verricht door een dienstverlener in of vanuit Bonaire, Sint Eustatius of Saba;
 
-- e. **dienstverlener:** een ieder die beroeps- of bedrijfsmatig een dienst verleent;
+- e. *dienstverlener:* een ieder die beroeps- of bedrijfsmatig een dienst verleent;
 
-- f. **identificeren:** opgave van de identiteit laten doen;
+- f. *identificeren:* opgave van de identiteit laten doen;
 
-- g. **financieren van terrorisme:** de gedraging strafbaar gesteld in [artikel 435e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=435e);
+- g. *financieren van terrorisme:* de gedraging strafbaar gesteld in [artikel 435e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=435e);
 
-- h. **liquide middelen:** binnenlandse en buitenlandse bankbiljetten en munten, alsmede aan toonder gestelde verhandelbare waardepapieren, alsmede goud en diamanten, alsmede andere bij algemene maatregel van bestuur aan te wijzen waardedragers of goederen;
+- h. *liquide middelen:* binnenlandse en buitenlandse bankbiljetten en munten, alsmede aan toonder gestelde verhandelbare waardepapieren, alsmede goud en diamanten, alsmede andere bij algemene maatregel van bestuur aan te wijzen waardedragers of goederen;
 
-- i. **melding:** melding als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01);
+- i. *melding:* melding als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01);
 
-- j. **meldpunt:** het Meldpunt ongebruikelijke transacties, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01);
+- j. *meldpunt:* het Meldpunt ongebruikelijke transacties, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01);
 
-- k. **Nederlandsche Bank:** De Nederlandsche Bank N.V.;
+- k. *Nederlandsche Bank:* De Nederlandsche Bank N.V.;
 
-- l. **ongebruikelijke transactie:** transactie die ingevolge [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-01-01&g=2025-01-01) als zodanig is aangemerkt;
+- l. *ongebruikelijke transactie:* transactie die ingevolge [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-01-01&g=2025-01-01) als zodanig is aangemerkt;
 
-- m. **Onze Minister:** Onze Minister van Financiën;
+- m. *Onze Minister:* Onze Minister van Financiën;
 
-- n. **openbare lichamen:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- n. *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- o. **politiek prominente persoon:** persoon die in of buiten de openbare lichamen een prominente publieke functie bekleedt of heeft bekleed, met uitzondering van degenen die deze functie ten minste een jaar hebben beëindigd, en de directe familieleden of naaste geassocieerde als bedoeld in [artikel 1.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01), van deze persoon;
+- o. *politiek prominente persoon:* persoon die in of buiten de openbare lichamen een prominente publieke functie bekleedt of heeft bekleed, met uitzondering van degenen die deze functie ten minste een jaar hebben beëindigd, en de directe familieleden of naaste geassocieerde als bedoeld in [artikel 1.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01), van deze persoon;
 
-- p. **toezichtautoriteit**
+- p. *toezichtautoriteit*
 
-- 1°. de bij besluit van Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk aangewezen bestuursorganen, elk voor zover zij ingevolge dat besluit zijn belast met de handhaving van het bij of krachtens deze wet bepaalde;
+   - 1°. de bij besluit van Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk aangewezen bestuursorganen, elk voor zover zij ingevolge dat besluit zijn belast met de handhaving van het bij of krachtens deze wet bepaalde;
 
-- 2°. een door de algemene raad van de Nederlandse orde van advocaten aan te wijzen deken als bedoeld in [artikel 22, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=22), betreffende het toezicht op advocaten bij de uitvoering van diensten als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onderdeel i, subonderdelen n en o;
+   - 2°. een door de algemene raad van de Nederlandse orde van advocaten aan te wijzen deken als bedoeld in [artikel 22, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=22), betreffende het toezicht op advocaten bij de uitvoering van diensten als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onderdeel i, subonderdelen n en o;
 
-- 3°. Onze Minister, voor zover de onder 1° en 2° bedoelde bestuursorganen niet zijn belast met de handhaving van het bij of krachtens deze wet bepaalde;
+   - 3°. Onze Minister, voor zover de onder 1° en 2° bedoelde bestuursorganen niet zijn belast met de handhaving van het bij of krachtens deze wet bepaalde;
 
-- q. **toezichthouder:** persoon, krachtens [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01) belast met het houden van toezicht op de naleving van het bij of krachtens deze wet bepaalde;
+- q. *toezichthouder:* persoon, krachtens [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01) belast met het houden van toezicht op de naleving van het bij of krachtens deze wet bepaalde;
 
-- **transactie:** handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen of het verlenen van diensten;
+- *transactie:* handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen of het verlenen van diensten;
 
-- r. **uiteindelijk belanghebbende:** natuurlijke persoon die de uiteindelijke eigenaar is van of zeggenschap heeft over een cliënt, dan wel de natuurlijke persoon voor wiens rekening een transactie of activiteit wordt verricht;
+- r. *uiteindelijk belanghebbende:* natuurlijke persoon die de uiteindelijke eigenaar is van of zeggenschap heeft over een cliënt, dan wel de natuurlijke persoon voor wiens rekening een transactie of activiteit wordt verricht;
 
-- s. **transitrekening:** bankrekening die bij een in de openbare lichamen gevestigde kredietinstelling wordt aangehouden door een buitenlandse kredietinstelling en die door een cliënt van laatstbedoelde kredietinstelling gedebiteerd of gecrediteerd kan worden zonder tussenkomst van de in de openbare lichamen gevestigde kredietinstelling;
+- s. *transitrekening:* bankrekening die bij een in de openbare lichamen gevestigde kredietinstelling wordt aangehouden door een buitenlandse kredietinstelling en die door een cliënt van laatstbedoelde kredietinstelling gedebiteerd of gecrediteerd kan worden zonder tussenkomst van de in de openbare lichamen gevestigde kredietinstelling;
 
-- t. **trust:** een trust in de zin van het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141);
+- t. *trust:* een trust in de zin van het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141);
 
-- u. **verifiëren van de identiteit:** vaststellen dat de opgegeven identiteit overeenkomt met de werkelijke identiteit;
+- u. *verifiëren van de identiteit:* vaststellen dat de opgegeven identiteit overeenkomt met de werkelijke identiteit;
 
-- v. **zakelijke relatie:** zakelijke, professionele, of commerciële relatie tussen een dienstverlener en een natuurlijke persoon of een rechtspersoon, die verband houdt met de professionele activiteiten van die dienstverlener en waarvan op het tijdstip dat het contact wordt gelegd, wordt aangenomen dat deze enige tijd zal duren.
+- v. *zakelijke relatie:* zakelijke, professionele, of commerciële relatie tussen een dienstverlener en een natuurlijke persoon of een rechtspersoon, die verband houdt met de professionele activiteiten van die dienstverlener en waarvan op het tijdstip dat het contact wordt gelegd, wordt aangenomen dat deze enige tijd zal duren.
 
 2. In deze wet en de daarop berustende bepalingen wordt onder de begrippen «beleggingsinstelling», «effectenbeurs», «elektronischgeldinstelling», «externe deskundige», «financiële onderneming», «gekwalificeerde deelneming», «geldtransactiekantoor», «groep», «kredietinstelling», «levensverzekeraar», «levensverzekering», «trustdiensten», «trustkantoor», «verzekeraar», «vestiging» en «zetel» verstaan: hetgeen daaronder in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) wordt verstaan.
 
@@ -187,6 +158,62 @@ Deze wet is niet van toepassing op de personen, bedoeld in [bijlage A bij deze w
 
 De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een dienstverlener welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.
 
+##### Artikel 1.8
+
+1. Ter voorkoming van witwassen en financieren van terrorisme verricht een dienstverlener cliëntenonderzoek en meldt hij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&z=2025-01-01&g=2025-01-01) gestelde regels. Daarbij besteedt een dienstverlener bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
+
+2. Een dienstverlener treft adequate maatregelen ter voorkoming van risico’s op witwassen en financieren van terrorisme die kunnen ontstaan door het gebruik van nieuwe technologieën in het economisch verkeer.
+
+##### Artikel 1.9
+
+1. Een dienstverlener neemt maatregelen om zijn risico’s op witwassen en financieren van terrorisme vast te stellen en te beoordelen, waarbij de maatregelen in verhouding staan tot de aard en de omvang van de dienstverlener.
+
+2. Bij het vaststellen en beoordelen van de risico’s, bedoeld in het eerste lid, houdt de dienstverlener in ieder geval rekening met de risicofactoren die verband houden met het type cliënt, product, dienst, transactie en leveringskanaal en met landen of geografische gebieden.
+
+3. Een dienstverlener legt de resultaten van het vaststellen en beoordelen van zijn risico’s vast, houdt deze actueel en verstrekt deze resultaten desgevraagd aan de toezichthoudende autoriteit.
+
+4. De toezichthoudende autoriteit kan ontheffing verlenen van het eerste tot en met derde lid, indien de dienstverlener behoort tot een sector waarvan de inherente specifieke risico’s op witwassen en financieren van terrorisme duidelijk en inzichtelijk zijn.
+
+##### Artikel 1.10
+
+1. Een dienstverlener beschikt over gedragslijnen, procedures en maatregelen om de risico’s op witwassen en financieren van terrorisme en de risico’s die zijn geïdentificeerd in de nationale risicobeoordeling te beperken en effectief te beheersen.
+
+2. De gedragslijnen, procedures en maatregelen, bedoeld in het eerste lid, zijn evenredig aan de aard en de omvang van de dienstverlener en hebben ten minste betrekking op de naleving van de bepalingen in de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.5&z=2025-01-01&g=2025-01-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.6&z=2025-01-01&g=2025-01-01), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.8&z=2025-01-01&g=2025-01-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01), [1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.11&z=2025-01-01&g=2025-01-01) en [1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.12&z=2025-01-01&g=2025-01-01), [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [hoofdstuk 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&z=2025-01-01&g=2025-01-01).
+
+3. De gedragslijnen, procedures en maatregelen behoeven de goedkeuring van de personen die het dagelijks beleid van een dienstverlener bepalen.
+
+4. Een dienstverlener draagt zorg voor een systematische toetsing van de gedragslijnen, procedures en maatregelen en draagt waar nodig zorg voor een bijstelling hiervan.
+
+##### Artikel 1.11
+
+1. Indien het dagelijks beleid van een dienstverlener wordt bepaald door twee of meer personen, wijst een dienstverlener één van de personen die het dagelijks beleid van de dienstverlener bepalen aan die is belast met de verantwoordelijkheid voor de naleving door de dienstverlener van het bij of krachtens deze wet bepaalde.
+
+2. Voor zover passend bij de aard en omvang van de dienstverlener, beschikt een dienstverlener over een onafhankelijke en effectieve compliancefunctie.
+
+3. De compliancefunctie is gericht op het controleren van de naleving van wettelijke regels en interne regels die de dienstverlener zelf heeft opgesteld en omvat onder meer de taak die strekt tot het verstrekken van de gegevens, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), aan het meldpunt.
+
+4. Indien van toepassing en voor zover passend bij de aard en de omvang van de dienstverlener, draagt een dienstverlener er zorg voor dat op onafhankelijke wijze een auditfunctie wordt uitgeoefend ten aanzien van zijn werkzaamheden. De auditfunctie controleert de naleving door een dienstverlener van de bij of krachtens deze wet gestelde regels en de uitoefening van de compliancefunctie.
+
+##### Artikel 1.12
+
+1. Een dienstverlener die deel uitmaakt van een groep past de op het niveau van de groep geldende gedragslijnen en procedures op effectieve wijze toe, voor zover die voldoen aan de bij of krachtens deze wet gestelde regels.
+
+2. Een dienstverlener draagt tevens zorg voor een effectieve toepassing van de in het eerste lid bedoelde gedragslijnen en procedures door zijn bijkantoren of meerderheidsdochterondernemingen met zetel buiten de openbare lichamen.
+
+3. Onder de gedragslijnen en procedures, bedoeld in het eerste en tweede lid, worden in ieder geval verstaan gedragslijnen en procedures inzake gegevensbescherming en gedragslijnen en procedures voor het delen van informatie binnen de groep, voor zover deze gegevens en informatie betrekking hebben op het voorkomen van witwassen en financieren van terrorisme.
+
+4. Indien het recht van een betrokken staat in de weg staat aan de toepassing van het tweede lid, stelt de dienstverlener de toezichthoudende autoriteit hiervan in kennis en ziet de instelling erop toe dat het bijkantoor of de meerderheidsdochteronderneming aanvullende maatregelen neemt om het risico op witwassen en financieren van terrorisme doeltreffend te beheersen.
+
+5. Indien de aanvullende maatregelen, bedoeld in het vierde lid, onvoldoende zijn, neemt de toezichthoudende autoriteit aanvullende toezichtmaatregelen, waarbij onder meer wordt verlangd dat de groep geen zakelijke relaties aangaat of die relaties beëindigt en geen transacties uitvoert, dan wel waarbij de groep, indien nodig, wordt verzocht haar bedrijfsactiviteiten in de betrokken staat te beëindigen.
+
+##### Artikel 1.13
+
+De [artikelen 1.9 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op de dienstverleners, bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onder I, aanhef, onder j., l., m., n. en o.
+
+##### Artikel 1.14
+
+Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk publiceren periodiek een verslag van de geïdentificeerde, geanalyseerde en beoordeelde risico’s op witwassen en financieren van terrorisme.
+
 ### Hoofdstuk 2. Cliëntonderzoek
 
 #### § 1. Cliëntenonderzoek
@@ -203,7 +230,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onderdoelvenn
 
 - a. de cliënt te identificeren en zijn identiteit te verifiëren;
 
-- b. de uiteindelijk belanghebbende te identificeren en adequate maatregelen te nemen om zijn identiteit te verifiëren, en indien het een rechtspersoon of een trust als bedoeld in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141) betreft, redelijke maatregelen te nemen om inzicht te verwerven in de eigendoms- en zeggenschapsstructuur van de cliënt;
+- b. de uiteindelijk belanghebbende te identificeren en adequate maatregelen te nemen om zijn identiteit te verifiëren, en indien het een rechtspersoon of een trust als bedoeld in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141) betreft, redelijke maatregelen te nemen om inzicht te verwerven in de eigendoms- en zeggenschapsstructuur van de cliënt;
 
 - c. het doel en de beoogde aard van de zakelijke relatie vast te stellen;
 
@@ -257,11 +284,11 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 - a. de cliënt is geïdentificeerd en de identiteit reeds is geverifieerd, ingevolge [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01) of op daarmee overeenkomende wijze, door:
 
-- 1°. een advocaat, notaris of kandidaat-notaris die in Bonaire, Sint Eustatius of Saba is gevestigd;
+   - 1°. een advocaat, notaris of kandidaat-notaris die in Bonaire, Sint Eustatius of Saba is gevestigd;
 
-- 2°. een beleggingsinstelling, levensverzekeraar, bemiddelaar in levensverzekeringen, kredietinstelling of geldtransactiekantoor die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
+   - 2°. een beleggingsinstelling, levensverzekeraar, bemiddelaar in levensverzekeringen, kredietinstelling of geldtransactiekantoor die beschikt over een vergunning op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
 
-- 3°. een onderneming of instelling van een bij algemene maatregel van bestuur aan te wijzen categorie;
+   - 3°. een onderneming of instelling van een bij algemene maatregel van bestuur aan te wijzen categorie;
 
 - b. de dienstverlener waarbij de cliënt wordt geïntroduceerd beschikt over de identificatie- en verificatiegegevens en overige gegevens en bescheiden inzake de identiteit van de cliënt en, indien van toepassing, de uiteindelijk belanghebbende.
 
@@ -289,7 +316,7 @@ Een dienstverlener verricht het cliëntenonderzoek in de volgende gevallen:
 
 ##### Artikel 2.9
 
-Vervallen
+*Vervallen*
 
 #### § 3. Verscherpt cliëntenonderzoek
 
@@ -387,9 +414,13 @@ Een trustkantoor:
 
 3. Een trustkantoor heeft bij het verlenen van de in het eerste lid genoemde dienst kennis van de herkomst van het vermogen van de insteller van de trust en legt de gegevens omtrent het onderzoek naar de herkomst van het vermogen vast.
 
+##### Artikel 2.19
+
+Een trustkantoor bewaart de in deze paragraaf bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie.
+
 ### Hoofdstuk 3. Melden van ongebruikelijke transacties
 
-#### § 5. Bepalingen met betrekking tot trustkantoren
+#### § 1. Het meldpunt
 
 ##### Artikel 3.1
 
@@ -417,13 +448,13 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 - f. het geven van voorlichting omtrent het voorkomen en opsporen van witwassen en financieren van terrorisme aan:
 
-- 1°. de bedrijfstakken en beroepsgroepen;
+   - 1°. de bedrijfstakken en beroepsgroepen;
 
-- 2°. de toezichtautoriteiten;
+   - 2°. de toezichtautoriteiten;
 
-- 3°. het openbaar ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten;
+   - 3°. het openbaar ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten;
 
-- 4°. het publiek;
+   - 4°. het publiek;
 
 - g. het geven van inlichtingen aangaande het meldgedrag van de dienstverleners aan de toezichtautoriteiten en de personen, bedoeld in onderdeel f, onder 3°;
 
@@ -501,7 +532,11 @@ Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens
 
 De dienstverlener die tot een melding op de voet van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat gelet op alle feiten en omstandigheden in redelijkheid niet tot melding had mogen worden overgegaan.
 
-#### § 2. De meldingsplicht ongebruikelijke transacties
+##### Artikel 3.9a
+
+Ten behoeve van de naleving van de in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01) opgenomen verplichtingen, zijn notarissen, kandidaat-notarissen en advocaten die diensten verlenen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onderdeel i, subonderdelen n en o, niet gehouden aan de geheimhoudingsplicht die geldt uit hoofde van hun beroep.
+
+#### § 4. Geheimhouding
 
 ##### Artikel 3.10
 
@@ -529,7 +564,7 @@ De dienstverlener die tot een melding op de voet van [artikel 3.5](https://wette
 
 Een dienstverlener draagt er zorg voor dat zijn werknemers, alsmede de dagelijks beleidsbepalers voor zover relevant voor de uitoefening van hun taken en rekening houdend met de risico’s, aard en omvang van de instelling, bekend zijn met de bepalingen van deze wet en periodiek opleidingen genieten die hen in staat stellen een ongebruikelijke transactie te herkennen en een cliëntenonderzoek goed en volledig uit te voeren.
 
-#### § 3. Vrijwaring
+#### § 6. De meldingsplicht Sanctiewetgeving
 
 ##### Artikel 3.13
 
@@ -549,15 +584,15 @@ Een dienstverlener draagt er zorg voor dat zijn werknemers, alsmede de dagelijks
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- **aangifte:** een aangifte als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01);
+- *aangifte:* een aangifte als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01);
 
-- **kennisgeving:** een kennisgeving als bedoeld in de [artikelen 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01);
+- *kennisgeving:* een kennisgeving als bedoeld in de [artikelen 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01);
 
-- **aanmelder:** degene die de aangifte of kennisgeving doet of heeft gedaan;
+- *aanmelder:* degene die de aangifte of kennisgeving doet of heeft gedaan;
 
-- **douaneambtenaar:** ambtenaar als bedoeld in [artikel 1:1, onderdeel f, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1);
+- *douaneambtenaar:* ambtenaar als bedoeld in [artikel 1:1, onderdeel f, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1);
 
-- **inspecteur van douane:** inspecteur als bedoeld in [artikel 1:1, onderdeel h, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1).
+- *inspecteur van douane:* inspecteur als bedoeld in [artikel 1:1, onderdeel h, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1).
 
 ##### Artikel 4.2
 
@@ -603,31 +638,31 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 ### Hoofdstuk 5. Handhaving
 
-#### § 6. De meldingsplicht Sanctiewetgeving
+#### § 1. Inleidende bepalingen
 
 ##### Artikel 5.1
 
 In dit hoofdstuk wordt verstaan onder:
 
-- **aanwijzing:** door de toezichtautoriteit opgelegde verplichting om binnen een door die autoriteit gestelde termijn ten aanzien van in de aanwijzingsbeschikking aan te geven onderwerpen een bepaalde gedragslijn te volgen;
+- *aanwijzing:* door de toezichtautoriteit opgelegde verplichting om binnen een door die autoriteit gestelde termijn ten aanzien van in de aanwijzingsbeschikking aan te geven onderwerpen een bepaalde gedragslijn te volgen;
 
-- **bestraffende sanctie:** bestuurlijke sanctie, voor zover deze beoogt de overtreder leed toe te voegen;
+- *bestraffende sanctie:* bestuurlijke sanctie, voor zover deze beoogt de overtreder leed toe te voegen;
 
-- **bestuurlijke boete:** bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom;
+- *bestuurlijke boete:* bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom;
 
-- **bestuurlijke sanctie:** door de toezichtautoriteit wegens een overtreding opgelegde verplichting, niet zijnde een aanwijzing;
+- *bestuurlijke sanctie:* door de toezichtautoriteit wegens een overtreding opgelegde verplichting, niet zijnde een aanwijzing;
 
-- **herstelsanctie:** bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding;
+- *herstelsanctie:* bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding;
 
-- **last onder dwangsom:** herstelsanctie, inhoudende:
+- *last onder dwangsom:* herstelsanctie, inhoudende:
 
-- 1°. een last tot geheel of gedeeltelijk herstel van de overtreding, en
+   - 1°. een last tot geheel of gedeeltelijk herstel van de overtreding, en
 
-- 2°. de verplichting tot betaling van een geldsom indien de last niet of niet tijdig wordt uitgevoerd;
+   - 2°. de verplichting tot betaling van een geldsom indien de last niet of niet tijdig wordt uitgevoerd;
 
-- **overtreder:** degene die een overtreding pleegt of medepleegt;
+- *overtreder:* degene die een overtreding pleegt of medepleegt;
 
-- **overtreding:** gedraging in strijd met het bij of krachtens deze wet bepaalde.
+- *overtreding:* gedraging in strijd met het bij of krachtens deze wet bepaalde.
 
 ##### Artikel 5.2
 
@@ -652,6 +687,10 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 4. Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 5. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening door toezichthouders, met uitzondering van de deken, bedoeld in het derde lid.
+
+##### Artikel 5.4a
+
+Ten behoeve van het houden van het toezicht, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01), geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die van de advocaat.
 
 ##### Artikel 5.5
 
@@ -707,7 +746,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 
 ##### Artikel 5.12
 
-1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.
+1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.
 
 2. De maatregel, bedoeld in het eerste lid, bepaalt voor elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen kunnen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen.
 
@@ -738,6 +777,30 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 2. De rechtsvordering tot betaling van een geldsom, voortvloeiend uit een bestuurlijke boete, verjaart door verloop van vijf jaren, nadat de voorgeschreven betalingstermijn is verstreken.
 
 3. De [artikelen 7:43 tot en met 7:45 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:43) zijn van overeenkomstige toepassing.
+
+##### Artikel 5.16
+
+1. De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van de in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01) bedoelde bepalingen een openbare waarschuwing uitvaardigen.
+
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.
+
+3. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:48) en [7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:49) zijn van overeenkomstige toepassing.
+
+##### Artikel 5.17
+
+1. De toezichtautoriteit maakt een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet na bekendmaking van die beslissing openbaar, indien de boete is opgelegd ter zake van overtreding van de in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01), bedoelde bepalingen.
+
+2. De openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop die beslissing aan de betrokken persoon is bekendgemaakt. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:48) en [7:49, tweede tot en met vierde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:49) zijn van overeenkomstige toepassing.
+
+3. De toezichtautoriteit kan beslissen niet tot openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete over te gaan, indien openbaarmaking van die beslissing in strijd is of in strijd zou kunnen komen met het doel van het door de toezichtautoriteit uit te oefenen toezicht op de naleving van deze wet.
+
+##### Artikel 5.18
+
+De toezichtautoriteit maakt, onverminderd [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 5.17, derde lid, is van overeenkomstige toepassing.
+
+##### Artikel 5.19
+
+De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. [Artikel 5.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), en de [artikelen 7:47 tot en met 7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 6. Strafbepalingen
 
@@ -800,521 +863,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 7.9
 
 Deze wet wordt aangehaald als: Wet ter voorkoming van witwassen en financieren van terrorisme BES.
-
-## Bijlage A. , bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2012-07-01&g=2012-07-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-- I. Als dienst bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2012-07-01&g=2012-07-01), wordt aangemerkt het in of vanuit Bonaire, Sint Eustatius of Saba:
-
-- a. in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
-
-- b. openstellen van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
-
-- c. verhuren van een safe-loket;
-
-- d. verrichten van een uitbetaling ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren;
-
-- e. sluiten of bemiddelen bij het sluiten van een levensverzekering tegen een premie als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- f. doen van een uitkering uit hoofde van een levensverzekering als bedoeld onder e;
-
-- g. crediteren of debiteren dan wel doen crediteren of debiteren van een rekening waarop een saldo in geld, effecten, edele metalen of andere valuta kan worden aangehouden;
-
-- h. aangaan van een verplichting tot betaling ten behoeve van de houder van een creditcard aan degene die het vertoon van die creditcard bij wijze van betaling heeft aanvaard, het uitgeven van creditcards of het beheer van creditcards waaronder in elk geval wordt verstaan de uitvoering van betalingstransacties via creditcards;
-
-- i. verrichten van geldtransacties in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- j. gelegenheid bieden mee te dingen naar prijzen en premies in het kader van de exploitatie van hazardspelen waaronder speelcasino’s;
-
-- k. verlenen van trustdiensten als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- l. als tussenpersoon optreden ter zake van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen;
-
-- m. handelen in voertuigen, edelstenen, edele metalen, sieraden, juwelen dan wel andere bij regeling van Onze Minister aan te wijzen zaken van grote waarde dan wel het bemiddelen daarbij boven een door Onze Minister te bepalen bedrag, dat voor de onderscheiden soorten zaken verschillend kan zijn;
-
-- n. geven van advies of het verlenen van bijstand door de natuurlijke persoon, rechtspersoon of vennootschap, die als advocaat, notaris of kandidaat-notaris, accountant, belastingadviseur, dan wel als deskundige op juridisch, fiscaal of administratief gebied, dan wel in de uitvoering van een gelijksoortig juridisch beroep of bedrijf zelfstandig onafhankelijk beroeps- of bedrijfsmatig werkzaamheden verricht, bij:
-
-- 1°. het aan- of verkopen van onroerende zaken;
-
-- 2°. het beheren van geld, effecten, munten, muntbiljetten, edele metalen, edelstenen of andere waarden;
-
-- 3°. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen;
-
-- 4°. het aan- of verkopen dan wel overnemen van ondernemingen;
-
-- o. optreden in naam en voor rekening van een cliënt bij enigerlei financiële transactie of onroerende zaaktransactie door een natuurlijke persoon, rechtspersoon of vennootschap als advocaat, notaris of kandidaat-notaris, dan wel in de uitoefening van een gelijksoortig juridisch beroep;
-
-- p. verrichten van kredietuitzettingen;
-
-- q. verlenen van krediet in de vorm van financiële lease;
-
-- r. verlenen van garanties en het stellen van borgtochten;
-
-- s. handelen in:
-
-- 1°. geldmarktinstrumenten waaronder cheques, wissels, depositocertificaten;
-
-- 2°. valuta’s;
-
-- 3°. financiële futures en opties;
-
-- 4°. swaps en soortgelijke financieringsinstrumenten; of
-
-- 5°. effecten;
-
-- t. deelnemen aan effectenemissies en het verrichten van diensten in verband daarmee;
-
-- u. optreden als beleggingsmaatschappij in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- v. verlenen van een beleggingsdienst waaronder wordt verstaan:
-
-- 1°. ontvangen en doorgeven van orders van cliënten met betrekking tot financiële instrumenten;
-
-- 2°. voor rekening van die cliënten uitvoeren van orders met betrekking tot financiële instrumenten;
-
-- 3°. beheren van een individueel vermogen;
-
-- w. optreden als elektronischgeldinstelling.
-
-- II. Als dienst bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2012-07-01&g=2012-07-01), wordt niet aangemerkt:
-
-- a. het in het kader van een premiebetaling uit hoofde van een verzekeringsovereenkomst in ontvangst nemen van gelden of geldswaarden, ten einde deze gelden of geldswaarden al dan niet in dezelfde vorm elders betaalbaar te stellen of te doen stellen aan een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen;
-
-- b. het in het kader van een uitkering uit hoofde van een verzekeringsovereenkomst betalen of betaalbaar stellen van gelden of geldswaarden, nadat deze gelden of geldswaarden elders al dan niet in dezelfde vorm ter beschikking zijn gesteld door een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen.
-
-- III. Onder creditcard als bedoeld in onderdeel I wordt niet verstaan een creditcard die alleen gebruikt kan worden bij de onderneming of instelling die deze creditcard uitgeeft of bij een onderneming of instelling die behoort tot dezelfde economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden als de uitgevende onderneming of instelling.
-
-## Bijlage B. , bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2012-07-01&g=2012-07-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-Als gegevens die op grond van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2012-07-01&g=2012-07-01) moeten worden vastgelegd, worden aangewezen:
-
-- a. de naam, het adres en de woonplaats dan wel plaats van vestiging van de cliënt en de uiteindelijk belanghebbende indien die er is en van degene te wiens name het depot of de rekening wordt gesteld, van degene die toegang tot het safe-loket zal hebben of degene te wiens name een uitbetaling of transactie wordt verricht, alsmede van hun vertegenwoordigers;
-
-- b. de aard, het nummer en de datum en plaats van uitgifte van het document met behulp waarvan de identiteitsvaststelling heeft plaatsgevonden;
-
-- c. de aard van de dienst;
-
-- d.
-
-- 1°. in het geval van het in bewaring nemen van de in de [bijlage A, in deel I, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2012-07-01&g=2012-07-01), genoemde waarden: het desbetreffende depotnummer en de marktwaarde die deze waarden vertegenwoordigen op het tijdstip van de inbewaringneming, of bij ontstentenis van een marktwaarde het bedrag dat deze waarden vertegenwoordigen, berekend volgens andere in het maatschappelijk verkeer gebruikelijke waarderingsgrondslagen, of indien het bedrag dat deze waarden vertegenwoordigen in redelijkheid niet kan worden vastgesteld, een nauwkeurige omschrijving van die waarden;
-
-- 2°. in het geval van het openstellen van een rekening: een duidelijke omschrijving van de soort rekening en het aan die rekening toegekende nummer;
-
-- 3°. in het geval van verhuur van een safe-loket: het nummer of een andere onderscheidende aanduiding van het desbetreffende safe-loket;
-
-- 4°. in het geval van het verrichten van uitbetalingen ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren: het bedrag dat met de transactie is gemoeid en het desbetreffende rekeningnummer;
-
-- 5°. in het geval van het sluiten van een levensverzekering: het nummer van de rekening ten laste waarvan de premiebetaling wordt gedaan;
-
-- 6. in het geval van het doen van een uitkering uit hoofde van een levensverzekering: het nummer van de rekening ten gunste waarvan de uitkering wordt gedaan;
-
-- 7°. in het geval van een dienst als bedoeld in de in de[bijlage A, in deel I, onderdelen h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2012-07-01&g=2012-07-01): het creditcard of debitcard nummer met vervaldatum, dan wel het chequenummer tezamen met het corresponderende bankrekeningnummer;
-
-- 8°. in het geval van een dienst als bedoeld in de in de[bijlage A, in deel I, onderdelen l en n, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2012-07-01&g=2012-07-01): de aard en andere unieke kenmerken van de betrokken onroerende zaken alsmede het met de transactie gemoeide bedrag;
-
-- 9°. in het geval van een dienst als bedoeld in de in de [bijlage A, in deel I, onderdelen j, m en n, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2012-07-01&g=2012-07-01): de aard, herkomst, bestemming, omvang en andere unieke kenmerken van de betrokken waarden of zaken;
-
-- 10°. in het geval van een dienst als bedoeld in de [bijlage A, in deel I, onderdelen k en n, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2012-07-01&g=2012-07-01): de identiteit van de betrokken vennootschappen, rechtspersonen of soortgelijke lichamen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1.8
-
-1. Ter voorkoming van witwassen en financieren van terrorisme verricht een dienstverlener cliëntenonderzoek en meldt hij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&z=2025-01-01&g=2025-01-01) gestelde regels. Daarbij besteedt een dienstverlener bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
-
-2. Een dienstverlener treft adequate maatregelen ter voorkoming van risico’s op witwassen en financieren van terrorisme die kunnen ontstaan door het gebruik van nieuwe technologieën in het economisch verkeer.
-
-### Hoofdstuk 2. Cliëntonderzoek
-
-#### § 1. Cliëntenonderzoek
-
-#### § 2. Vereenvoudigd cliëntenonderzoek
-
-#### § 3. Verscherpt cliëntenonderzoek
-
-#### § 2. Vereenvoudigd cliëntenonderzoek
-
-#### § 3. Verscherpt cliëntenonderzoek
-
-##### Artikel 2.19
-
-Een trustkantoor bewaart de in deze paragraaf bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie.
-
-### Hoofdstuk 3. Melden van ongebruikelijke transacties
-
-#### § 1. Het meldpunt
-
-#### § 2. De meldingsplicht ongebruikelijke transacties
-
-#### § 3. Vrijwaring
-
-#### § 4. Geheimhouding
-
-#### § 6. De meldingsplicht Sanctiewetgeving
-
-### Hoofdstuk 4. Grensoverschrijdende geldtransporten
-
-### Hoofdstuk 5. Handhaving
-
-#### § 1. Inleidende bepalingen
-
-#### § 2. Toezicht op de naleving
-
-#### § 3. Aanwijzing en bestuurlijke sancties
-
-### Hoofdstuk 6. Strafbepalingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-#### § 1. Overgangsbepalingen
-
-#### § 2. Slotbepalingen
-
-## Bijlage A. , bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2019-01-01&g=2019-01-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-- I. Als dienst bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2019-01-01&g=2019-01-01), wordt aangemerkt het in of vanuit Bonaire, Sint Eustatius of Saba:
-
-- a. in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
-
-- b. openstellen van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
-
-- c. verhuren van een safe-loket;
-
-- d. verrichten van een uitbetaling ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren;
-
-- e. sluiten of bemiddelen bij het sluiten van een levensverzekering tegen een premie als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- f. doen van een uitkering uit hoofde van een levensverzekering als bedoeld onder e;
-
-- g. crediteren of debiteren dan wel doen crediteren of debiteren van een rekening waarop een saldo in geld, effecten, edele metalen of andere valuta kan worden aangehouden;
-
-- h. aangaan van een verplichting tot betaling ten behoeve van de houder van een creditcard aan degene die het vertoon van die creditcard bij wijze van betaling heeft aanvaard, het uitgeven van creditcards of het beheer van creditcards waaronder in elk geval wordt verstaan de uitvoering van betalingstransacties via creditcards;
-
-- i. verrichten van geldtransacties in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- j. gelegenheid bieden mee te dingen naar prijzen en premies in het kader van de exploitatie van hazardspelen waaronder speelcasino’s;
-
-- k. verlenen van trustdiensten als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- l. als tussenpersoon optreden ter zake van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen;
-
-- m. handelen in voertuigen, edelstenen, edele metalen, sieraden, juwelen dan wel andere bij regeling van Onze Minister aan te wijzen zaken van grote waarde dan wel het bemiddelen daarbij boven een door Onze Minister te bepalen bedrag, dat voor de onderscheiden soorten zaken verschillend kan zijn;
-
-- n. geven van advies of het verlenen van bijstand door de natuurlijke persoon, rechtspersoon of vennootschap, die als advocaat, notaris of kandidaat-notaris, accountant, belastingadviseur, dan wel als deskundige op juridisch, fiscaal of administratief gebied, dan wel in de uitvoering van een gelijksoortig juridisch beroep of bedrijf zelfstandig onafhankelijk beroeps- of bedrijfsmatig werkzaamheden verricht, bij:
-
-- 1°. het aan- of verkopen van onroerende zaken;
-
-- 2°. het beheren van geld, effecten, munten, muntbiljetten, edele metalen, edelstenen of andere waarden;
-
-- 3°. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen;
-
-- 4°. het aan- of verkopen dan wel overnemen van ondernemingen;
-
-- o. optreden in naam en voor rekening van een cliënt bij enigerlei financiële transactie of onroerende zaaktransactie door een natuurlijke persoon, rechtspersoon of vennootschap als advocaat, notaris of kandidaat-notaris, dan wel in de uitoefening van een gelijksoortig juridisch beroep;
-
-- p. verrichten van kredietuitzettingen;
-
-- q. verlenen van krediet in de vorm van financiële lease;
-
-- r. verlenen van garanties en het stellen van borgtochten;
-
-- s. handelen in:
-
-- 1°. geldmarktinstrumenten waaronder cheques, wissels, depositocertificaten;
-
-- 2°. valuta’s;
-
-- 3°. financiële futures en opties;
-
-- 4°. swaps en soortgelijke financieringsinstrumenten; of
-
-- 5°. effecten;
-
-- t. deelnemen aan effectenemissies en het verrichten van diensten in verband daarmee;
-
-- u. optreden als beleggingsmaatschappij in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- v. verlenen van een beleggingsdienst waaronder wordt verstaan:
-
-- 1°. ontvangen en doorgeven van orders van cliënten met betrekking tot financiële instrumenten;
-
-- 2°. voor rekening van die cliënten uitvoeren van orders met betrekking tot financiële instrumenten;
-
-- 3°. beheren van een individueel vermogen;
-
-- w. optreden als elektronischgeldinstelling.
-
-- II. Als dienst bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2019-01-01&g=2019-01-01), wordt niet aangemerkt:
-
-- a. het in het kader van een premiebetaling uit hoofde van een verzekeringsovereenkomst in ontvangst nemen van gelden of geldswaarden, ten einde deze gelden of geldswaarden al dan niet in dezelfde vorm elders betaalbaar te stellen of te doen stellen aan een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen;
-
-- b. het in het kader van een uitkering uit hoofde van een verzekeringsovereenkomst betalen of betaalbaar stellen van gelden of geldswaarden, nadat deze gelden of geldswaarden elders al dan niet in dezelfde vorm ter beschikking zijn gesteld door een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen.
-
-- III. Onder creditcard als bedoeld in onderdeel I wordt niet verstaan een creditcard die alleen gebruikt kan worden bij de onderneming of instelling die deze creditcard uitgeeft of bij een onderneming of instelling die behoort tot dezelfde economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden als de uitgevende onderneming of instelling.
-
-## Bijlage B. , bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2019-01-01&g=2019-01-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-Als gegevens die op grond van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2019-01-01&g=2019-01-01) moeten worden vastgelegd, worden aangewezen:
-
-- a. de naam, het adres en de woonplaats dan wel plaats van vestiging van de cliënt en de uiteindelijk belanghebbende indien die er is en van degene te wiens name het depot of de rekening wordt gesteld, van degene die toegang tot het safe-loket zal hebben of degene te wiens name een uitbetaling of transactie wordt verricht, alsmede van hun vertegenwoordigers;
-
-- b. de aard, het nummer en de datum en plaats van uitgifte van het document met behulp waarvan de identiteitsvaststelling heeft plaatsgevonden;
-
-- c. de aard van de dienst;
-
-- d.
-
-- 1°. in het geval van het in bewaring nemen van de in de [bijlage A, in deel I, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2019-01-01&g=2019-01-01), genoemde waarden: het desbetreffende depotnummer en de marktwaarde die deze waarden vertegenwoordigen op het tijdstip van de inbewaringneming, of bij ontstentenis van een marktwaarde het bedrag dat deze waarden vertegenwoordigen, berekend volgens andere in het maatschappelijk verkeer gebruikelijke waarderingsgrondslagen, of indien het bedrag dat deze waarden vertegenwoordigen in redelijkheid niet kan worden vastgesteld, een nauwkeurige omschrijving van die waarden;
-
-- 2°. in het geval van het openstellen van een rekening: een duidelijke omschrijving van de soort rekening en het aan die rekening toegekende nummer;
-
-- 3°. in het geval van verhuur van een safe-loket: het nummer of een andere onderscheidende aanduiding van het desbetreffende safe-loket;
-
-- 4°. in het geval van het verrichten van uitbetalingen ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren: het bedrag dat met de transactie is gemoeid en het desbetreffende rekeningnummer;
-
-- 5°. in het geval van het sluiten van een levensverzekering: het nummer van de rekening ten laste waarvan de premiebetaling wordt gedaan;
-
-- 6. in het geval van het doen van een uitkering uit hoofde van een levensverzekering: het nummer van de rekening ten gunste waarvan de uitkering wordt gedaan;
-
-- 7°. in het geval van een dienst als bedoeld in de in de[bijlage A, in deel I, onderdelen h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2019-01-01&g=2019-01-01): het creditcard of debitcard nummer met vervaldatum, dan wel het chequenummer tezamen met het corresponderende bankrekeningnummer;
-
-- 8°. in het geval van een dienst als bedoeld in de in de[bijlage A, in deel I, onderdelen l en n, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2019-01-01&g=2019-01-01): de aard en andere unieke kenmerken van de betrokken onroerende zaken alsmede het met de transactie gemoeide bedrag;
-
-- 9°. in het geval van een dienst als bedoeld in de in de [bijlage A, in deel I, onderdelen j, m en n, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2019-01-01&g=2019-01-01): de aard, herkomst, bestemming, omvang en andere unieke kenmerken van de betrokken waarden of zaken;
-
-- 10°. in het geval van een dienst als bedoeld in de [bijlage A, in deel I, onderdelen k en n, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2019-01-01&g=2019-01-01): de identiteit van de betrokken vennootschappen, rechtspersonen of soortgelijke lichamen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 1.9
-
-1. Een dienstverlener neemt maatregelen om zijn risico’s op witwassen en financieren van terrorisme vast te stellen en te beoordelen, waarbij de maatregelen in verhouding staan tot de aard en de omvang van de dienstverlener.
-
-2. Bij het vaststellen en beoordelen van de risico’s, bedoeld in het eerste lid, houdt de dienstverlener in ieder geval rekening met de risicofactoren die verband houden met het type cliënt, product, dienst, transactie en leveringskanaal en met landen of geografische gebieden.
-
-3. Een dienstverlener legt de resultaten van het vaststellen en beoordelen van zijn risico’s vast, houdt deze actueel en verstrekt deze resultaten desgevraagd aan de toezichthoudende autoriteit.
-
-4. De toezichthoudende autoriteit kan ontheffing verlenen van het eerste tot en met derde lid, indien de dienstverlener behoort tot een sector waarvan de inherente specifieke risico’s op witwassen en financieren van terrorisme duidelijk en inzichtelijk zijn.
-
-##### Artikel 1.10
-
-1. Een dienstverlener beschikt over gedragslijnen, procedures en maatregelen om de risico’s op witwassen en financieren van terrorisme en de risico’s die zijn geïdentificeerd in de nationale risicobeoordeling te beperken en effectief te beheersen.
-
-2. De gedragslijnen, procedures en maatregelen, bedoeld in het eerste lid, zijn evenredig aan de aard en de omvang van de dienstverlener en hebben ten minste betrekking op de naleving van de bepalingen in de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.5&z=2025-01-01&g=2025-01-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.6&z=2025-01-01&g=2025-01-01), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.8&z=2025-01-01&g=2025-01-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01), [1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.11&z=2025-01-01&g=2025-01-01) en [1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.12&z=2025-01-01&g=2025-01-01), [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [hoofdstuk 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&z=2025-01-01&g=2025-01-01).
-
-3. De gedragslijnen, procedures en maatregelen behoeven de goedkeuring van de personen die het dagelijks beleid van een dienstverlener bepalen.
-
-4. Een dienstverlener draagt zorg voor een systematische toetsing van de gedragslijnen, procedures en maatregelen en draagt waar nodig zorg voor een bijstelling hiervan.
-
-##### Artikel 1.11
-
-1. Indien het dagelijks beleid van een dienstverlener wordt bepaald door twee of meer personen, wijst een dienstverlener één van de personen die het dagelijks beleid van de dienstverlener bepalen aan die is belast met de verantwoordelijkheid voor de naleving door de dienstverlener van het bij of krachtens deze wet bepaalde.
-
-2. Voor zover passend bij de aard en omvang van de dienstverlener, beschikt een dienstverlener over een onafhankelijke en effectieve compliancefunctie.
-
-3. De compliancefunctie is gericht op het controleren van de naleving van wettelijke regels en interne regels die de dienstverlener zelf heeft opgesteld en omvat onder meer de taak die strekt tot het verstrekken van de gegevens, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), aan het meldpunt.
-
-4. Indien van toepassing en voor zover passend bij de aard en de omvang van de dienstverlener, draagt een dienstverlener er zorg voor dat op onafhankelijke wijze een auditfunctie wordt uitgeoefend ten aanzien van zijn werkzaamheden. De auditfunctie controleert de naleving door een dienstverlener van de bij of krachtens deze wet gestelde regels en de uitoefening van de compliancefunctie.
-
-##### Artikel 1.12
-
-1. Een dienstverlener die deel uitmaakt van een groep past de op het niveau van de groep geldende gedragslijnen en procedures op effectieve wijze toe, voor zover die voldoen aan de bij of krachtens deze wet gestelde regels.
-
-2. Een dienstverlener draagt tevens zorg voor een effectieve toepassing van de in het eerste lid bedoelde gedragslijnen en procedures door zijn bijkantoren of meerderheidsdochterondernemingen met zetel buiten de openbare lichamen.
-
-3. Onder de gedragslijnen en procedures, bedoeld in het eerste en tweede lid, worden in ieder geval verstaan gedragslijnen en procedures inzake gegevensbescherming en gedragslijnen en procedures voor het delen van informatie binnen de groep, voor zover deze gegevens en informatie betrekking hebben op het voorkomen van witwassen en financieren van terrorisme.
-
-4. Indien het recht van een betrokken staat in de weg staat aan de toepassing van het tweede lid, stelt de dienstverlener de toezichthoudende autoriteit hiervan in kennis en ziet de instelling erop toe dat het bijkantoor of de meerderheidsdochteronderneming aanvullende maatregelen neemt om het risico op witwassen en financieren van terrorisme doeltreffend te beheersen.
-
-5. Indien de aanvullende maatregelen, bedoeld in het vierde lid, onvoldoende zijn, neemt de toezichthoudende autoriteit aanvullende toezichtmaatregelen, waarbij onder meer wordt verlangd dat de groep geen zakelijke relaties aangaat of die relaties beëindigt en geen transacties uitvoert, dan wel waarbij de groep, indien nodig, wordt verzocht haar bedrijfsactiviteiten in de betrokken staat te beëindigen.
-
-##### Artikel 1.13
-
-De [artikelen 1.9 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.9&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op de dienstverleners, bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onder I, aanhef, onder j., l., m., n. en o.
-
-##### Artikel 1.14
-
-Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk publiceren periodiek een verslag van de geïdentificeerde, geanalyseerde en beoordeelde risico’s op witwassen en financieren van terrorisme.
-
-### Hoofdstuk 2. Cliëntonderzoek
-
-#### § 1. Cliëntenonderzoek
-
-#### § 4. Documenten voor de verificatie van de identiteit en bewaren van bewijsstukken
-
-### Hoofdstuk 3. Melden van ongebruikelijke transacties
-
-#### § 1. Het meldpunt
-
-##### Artikel 3.9a
-
-Ten behoeve van de naleving van de in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2025-01-01&g=2025-01-01) opgenomen verplichtingen, zijn notarissen, kandidaat-notarissen en advocaten die diensten verlenen, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), onderdeel i, subonderdelen n en o, niet gehouden aan de geheimhoudingsplicht die geldt uit hoofde van hun beroep.
-
-#### § 4. Geheimhouding
-
-#### § 5. Opleiding
-
-### Hoofdstuk 4. Grensoverschrijdende geldtransporten
-
-### Hoofdstuk 5. Handhaving
-
-#### § 1. Inleidende bepalingen
-
-#### § 2. Toezicht op de naleving
-
-##### Artikel 5.4a
-
-Ten behoeve van het houden van het toezicht, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01), geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die van de advocaat.
-
-#### § 3. Aanwijzing en bestuurlijke sancties
-
-##### Artikel 5.16
-
-1. De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van de in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01) bedoelde bepalingen een openbare waarschuwing uitvaardigen.
-
-2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.
-
-3. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:48) en [7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:49) zijn van overeenkomstige toepassing.
-
-##### Artikel 5.17
-
-1. De toezichtautoriteit maakt een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet na bekendmaking van die beslissing openbaar, indien de boete is opgelegd ter zake van overtreding van de in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=6&artikel=6.1&z=2025-01-01&g=2025-01-01), bedoelde bepalingen.
-
-2. De openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop die beslissing aan de betrokken persoon is bekendgemaakt. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:48) en [7:49, tweede tot en met vierde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:49) zijn van overeenkomstige toepassing.
-
-3. De toezichtautoriteit kan beslissen niet tot openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete over te gaan, indien openbaarmaking van die beslissing in strijd is of in strijd zou kunnen komen met het doel van het door de toezichtautoriteit uit te oefenen toezicht op de naleving van deze wet.
-
-##### Artikel 5.18
-
-De toezichtautoriteit maakt, onverminderd [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 5.17, derde lid, is van overeenkomstige toepassing.
-
-##### Artikel 5.19
-
-De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. [Artikel 5.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=5&paragraaf=3&artikel=5.17&z=2025-01-01&g=2025-01-01), en de [artikelen 7:47 tot en met 7:49 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=7:47) zijn van overeenkomstige toepassing.
-
-### Hoofdstuk 6. Strafbepalingen
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-#### § 1. Overgangsbepalingen
-
-#### § 2. Slotbepalingen
-
-## Bijlage A. bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2025-01-01&g=2025-01-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-- I. Als dienst bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2025-01-01&g=2025-01-01), wordt aangemerkt het in of vanuit Bonaire, Sint Eustatius of Saba:
-
-- a. in bewaring nemen van effecten, bankbiljetten, munten, muntbiljetten, edele metalen en andere waarden;
-
-- b. openstellen van een rekening waarop een saldo in geld, effecten, edele metalen of andere waarden kan worden aangehouden;
-
-- c. verhuren van een safe-loket;
-
-- d. verrichten van een uitbetaling ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren;
-
-- e. sluiten of bemiddelen bij het sluiten van een levensverzekering tegen een premie als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- f. doen van een uitkering uit hoofde van een levensverzekering als bedoeld onder e;
-
-- g. crediteren of debiteren dan wel doen crediteren of debiteren van een rekening waarop een saldo in geld, effecten, edele metalen of andere valuta kan worden aangehouden;
-
-- h. aangaan van een verplichting tot betaling ten behoeve van de houder van een creditcard aan degene die het vertoon van die creditcard bij wijze van betaling heeft aanvaard, het uitgeven van creditcards of het beheer van creditcards waaronder in elk geval wordt verstaan de uitvoering van betalingstransacties via creditcards;
-
-- i. verrichten van geldtransacties in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- j. gelegenheid bieden mee te dingen naar prijzen en premies in het kader van de exploitatie van hazardspelen waaronder speelcasino’s;
-
-- k. verlenen van trustdiensten als bedoeld in de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883);
-
-- l. als tussenpersoon optreden ter zake van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen;
-
-- m. handelen in:
-
-- 1°. voertuigen, edelstenen, edele metalen, sieraden, juwelen dan wel andere bij regeling van Onze Minister aan te wijzen zaken van grote waarde dan wel het bemiddelen daarbij boven een door Onze Minister te bepalen bedrag, dat voor de onderscheiden soorten zaken verschillend kan zijn;
-
-- 2°. bouwmaterialen boven een door Onze Minister te bepalen bedrag;
-
-- n. geven van advies of het verlenen van bijstand door de natuurlijke persoon, rechtspersoon of vennootschap, die als advocaat, notaris of kandidaat-notaris, accountant, belastingadviseur, dan wel als deskundige op juridisch, fiscaal of administratief gebied, dan wel in de uitvoering van een gelijksoortig juridisch beroep of bedrijf zelfstandig onafhankelijk beroeps- of bedrijfsmatig werkzaamheden verricht, bij:
-
-- 1°. het aan- of verkopen van onroerende zaken;
-
-- 2°. het beheren van geld, effecten, munten, muntbiljetten, edele metalen, edelstenen of andere waarden;
-
-- 3°. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen;
-
-- 4°. het aan- of verkopen dan wel overnemen van ondernemingen;
-
-- o. optreden in naam en voor rekening van een cliënt bij enigerlei financiële transactie of onroerende zaaktransactie door een natuurlijke persoon, rechtspersoon of vennootschap als advocaat, notaris of kandidaat-notaris, dan wel in de uitoefening van een gelijksoortig juridisch beroep;
-
-- p. verrichten van kredietuitzettingen;
-
-- q. verlenen van krediet in de vorm van financiële lease;
-
-- r. verlenen van garanties en het stellen van borgtochten;
-
-- s. handelen in:
-
-- 1°. geldmarktinstrumenten waaronder cheques, wissels, depositocertificaten;
-
-- 2°. valuta’s;
-
-- 3°. financiële futures en opties;
-
-- 4°. swaps en soortgelijke financieringsinstrumenten; of
-
-- 5°. effecten;
-
-- t. deelnemen aan effectenemissies en het verrichten van diensten in verband daarmee;
-
-- u. optreden als beleggingsmaatschappij in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) of het beheren van een beleggingsinstelling in de zin van de Wet financiële markten BES;
-
-- v. verlenen van een beleggingsdienst waaronder wordt verstaan:
-
-- 1°. ontvangen en doorgeven van orders van cliënten met betrekking tot financiële instrumenten;
-
-- 2°. voor rekening van die cliënten uitvoeren van orders met betrekking tot financiële instrumenten;
-
-- 3°. beheren van een individueel vermogen;
-
-- w. optreden als elektronischgeldinstelling.
-
-- II. Als dienst bedoeld in [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=1&artikel=1.1&z=2025-01-01&g=2025-01-01), wordt niet aangemerkt:
-
-- a. het in het kader van een premiebetaling uit hoofde van een verzekeringsovereenkomst in ontvangst nemen van gelden of geldswaarden, ten einde deze gelden of geldswaarden al dan niet in dezelfde vorm elders betaalbaar te stellen of te doen stellen aan een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen;
-
-- b. het in het kader van een uitkering uit hoofde van een verzekeringsovereenkomst betalen of betaalbaar stellen van gelden of geldswaarden, nadat deze gelden of geldswaarden elders al dan niet in dezelfde vorm ter beschikking zijn gesteld door een instelling waaraan het op grond van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is toegestaan het verzekeringsbedrijf in Bonaire, Sint Eustatius en Saba uit te oefenen.
-
-- III. Onder creditcard als bedoeld in onderdeel I wordt niet verstaan een creditcard die alleen gebruikt kan worden bij de onderneming of instelling die deze creditcard uitgeeft of bij een onderneming of instelling die behoort tot dezelfde economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden als de uitgevende onderneming of instelling.
-
-## Bijlage B. bedoeld in [artikel 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2025-01-01&g=2025-01-01), van de Wet ter voorkoming van witwassen en financieren van terrorisme BES
-
-Als gegevens die op grond van [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&hoofdstuk=2&paragraaf=4&artikel=2.13&z=2025-01-01&g=2025-01-01) moeten worden vastgelegd, worden aangewezen:
-
-- a. de naam, het adres en de woonplaats dan wel plaats van vestiging van de cliënt en de uiteindelijk belanghebbende indien die er is en van degene te wiens name het depot of de rekening wordt gesteld, van degene die toegang tot het safe-loket zal hebben of degene te wiens name een uitbetaling of transactie wordt verricht, alsmede van hun vertegenwoordigers;
-
-- b. de aard, het nummer en de datum en plaats van uitgifte van het document met behulp waarvan de identiteitsvaststelling heeft plaatsgevonden of een afschrift van het document dat een persoonidentificerend nummer bevat en aan de hand waarvan de verificatie van de identiteit heeft plaatsgevonden;
-
-- c. de aard van de dienst;
-
-- d.
-
-- 1°. in het geval van het in bewaring nemen van de in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), in deel I, onderdeel a, genoemde waarden: het desbetreffende depotnummer en de marktwaarde die deze waarden vertegenwoordigen op het tijdstip van de inbewaringneming, of bij ontstentenis van een marktwaarde het bedrag dat deze waarden vertegenwoordigen, berekend volgens andere in het maatschappelijk verkeer gebruikelijke waarderingsgrondslagen, of indien het bedrag dat deze waarden vertegenwoordigen in redelijkheid niet kan worden vastgesteld, een nauwkeurige omschrijving van die waarden;
-
-- 2°. in het geval van het openstellen van een rekening: een duidelijke omschrijving van de soort rekening en het aan die rekening toegekende nummer;
-
-- 3°. in het geval van verhuur van een safe-loket: het nummer of een andere onderscheidende aanduiding van het desbetreffende safe-loket;
-
-- 4°. in het geval van het verrichten van uitbetalingen ter zake van het verzilveren van coupons of vergelijkbare stukken van obligaties of vergelijkbare waardepapieren: het bedrag dat met de transactie is gemoeid en het desbetreffende rekeningnummer;
-
-- 5°. in het geval van het sluiten van een levensverzekering: het nummer van de rekening ten laste waarvan de premiebetaling wordt gedaan;
-
-- 6. in het geval van het doen van een uitkering uit hoofde van een levensverzekering: het nummer van de rekening ten gunste waarvan de uitkering wordt gedaan;
-
-- 7°. in het geval van een dienst als bedoeld in de in de[bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), in deel I, onderdelen h en i: het creditcard of debitcard nummer met vervaldatum, dan wel het chequenummer tezamen met het corresponderende bankrekeningnummer;
-
-- 8°. in het geval van een dienst als bedoeld in de in de[bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), in deel I, onderdelen l en n, onder 1°: de aard en andere unieke kenmerken van de betrokken onroerende zaken alsmede het met de transactie gemoeide bedrag;
-
-- 9°. in het geval van een dienst als bedoeld in de in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), in deel I, onderdelen j, m en n, onder 2°: de aard, herkomst, bestemming, omvang en andere unieke kenmerken van de betrokken waarden of zaken;
-
-- 10°. in het geval van een dienst als bedoeld in de [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A&z=2025-01-01&g=2025-01-01), in deel I, onderdelen k en n, onder 2° en 3°: de identiteit van de betrokken vennootschappen, rechtspersonen of soortgelijke lichamen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,62 +1,37 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 maart 2011, nr. DWJZ-3054138, houdende verlening mandaat, volmacht en machtiging aan het hoofd Zorgverzekeringskantoor BES"
+citeertitel: "Besluit mandaat, volmacht en machtiging Zorgverzekeringskantoor BES"
 identifier: "BWBR0029933"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-09-24"
-last_updated: "2025-09-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029933"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "11310683"
-version_id: "18536672"
-internal_id: "C25866251"
-label_id: "11284684"
-dtd_version: "2.0"
-original_entry_into_force: "2011-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029933/2025-09-24/0"
-intitule_bron: "Stcrt.2011-7599"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-28"
-intitule_published: "2011-05-03"
-intitule_in_force: "2011-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-7599"
-original_signed_date: "2011-03-28"
-original_published_date: "2011-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-7599"
-entry_into_force_date: "2011-05-04"
-jci_1_3: "jci1.3:c:BWBR0029933&z=2025-09-24&g=2025-09-24"
-jci_1_0: "1.0:c:BWBR0029933&g=2025-09-24"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Zorgverzekeringskantoor BES"
-signed_date: "2011-03-28"
-entry_into_force: "2011-05-04"
+publicatiedatum: 2011-05-04
+laatste_update: 2025-09-24
+status: geldig
+toestand: 2025-09-24
+bron: "https://wetten.overheid.nl/BWBR0029933"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 maart 2011, nr. DWJZ-3054138, houdende verlening mandaat, volmacht en machtiging aan het hoofd Zorgverzekeringskantoor BES
-
-Gezien de instemming van de Minister van Binnenlandse Zaken en Koninkrijksrelaties met de mandaatverlening volgend uit de Ministerraad van 3 juli 2009 over de instelling van de Rijksdienst Caribisch Nederland;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **mandaat:** bevoegdheid om in naam van een bestuursorgaan besluiten te nemen;
+- a. *mandaat:* bevoegdheid om in naam van een bestuursorgaan besluiten te nemen;
 
-- b. **gemandateerde:** degene aan wie mandaat is verleend;
+- b. *gemandateerde:* degene aan wie mandaat is verleend;
 
-- c. **volmacht:** bevoegdheid om in naam van een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* bevoegdheid om in naam van een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** bevoegdheid om in naam van een bestuursorgaan handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
+- d. *machtiging:* bevoegdheid om in naam van een bestuursorgaan handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
 
-- e. **hoofd Zorgverzekeringskantoor BES:** het hoofd van het Zorgverzekeringskantoor BES als bedoeld in [artikel 1, onderdeel c, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
+- e. *hoofd Zorgverzekeringskantoor BES:* het hoofd van het Zorgverzekeringskantoor BES als bedoeld in [artikel 1, onderdeel c, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1);
 
-- f. **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- f. *Minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- g. **besluit:** [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404).
+- g. *besluit:*
+ [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404).
 
 ##### Artikel 2
 
@@ -66,7 +41,7 @@ In dit besluit wordt verstaan onder:
 
 - b. nemen van besluiten als bedoeld in [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=23), betreffende het verlenen van zorg en het vaststellen van een bijdrage.
 
-2. Vervallen.
+2. *Vervallen.*
 
 ##### Artikel 3
 
@@ -118,14 +93,12 @@ namens deze,
 
 De gemandateerde plaatst onder een in mandaat genomen besluit de volgende rechtsmiddelenclausule:
 
-‘Indien u het niet eens bent met deze beschikking, kunt u daartegen volgens de [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455) naar keuze een beroep- of bezwaarschrift indienen. Dit kan binnen zes weken na verzending van de beschikking. Een beroepschrift dient u in tweevoud in bij de griffie van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba (nadere informatie telefoonnummer (5997) 178172). Een bezwaarschrift dient u enkelvoudig in bij het Zorgverzekeringskantoor BES. Het beroep- of bezwaarschrift is ondertekend en voorzien van datum en, mede van uw eventuele gemachtigde, naam en adres op Bonaire, Sint Eustatius of Saba. Ook omvat het de vordering, de gronden voor beroep of bezwaar en een omschrijving van deze beschikking met zo mogelijk een kopie en de daarop betrekking hebbende stukken. De indiening van een beroepschrift is belast met griffierecht; de indiening van een bezwaarschrift is rechtenvrij.’
+‘Indien u het niet eens bent met deze beschikking, kunt u daartegen volgens de [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455) naar keuze een beroep- of bezwaarschrift indienen. Dit kan binnen zes weken na verzending van de beschikking. Een beroepschrift dient u in tweevoud in bij de griffie van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba (nadere informatie telefoonnummer (5997) 178172). Een bezwaarschrift dient u enkelvoudig in bij het Zorgverzekeringskantoor BES. Het beroep- of bezwaarschrift is ondertekend en voorzien van datum en, mede van uw eventuele gemachtigde, naam en adres op Bonaire, Sint Eustatius of Saba. Ook omvat het de vordering, de gronden voor beroep of bezwaar en een omschrijving van deze beschikking met zo mogelijk een kopie en de daarop betrekking hebbende stukken. De indiening van een beroepschrift is belast met griffierecht; de indiening van een bezwaarschrift is rechtenvrij.’
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Zorgverzekeringskantoor BES.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

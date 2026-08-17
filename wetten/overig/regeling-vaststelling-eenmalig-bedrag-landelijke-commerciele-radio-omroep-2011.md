@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11039880, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011)"
+citeertitel: "Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011"
 identifier: "BWBR0029752"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2016-12-17"
-last_updated: "2016-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029752"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11277033"
-version_id: "18469132"
-internal_id: "C25753501"
-label_id: "11251174"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029752/2016-12-17/0"
-intitule_bron: "Stcrt.2011-5069"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-17"
-intitule_published: "2011-03-22"
-intitule_in_force: "2011-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-5069"
-original_signed_date: "2011-03-17"
-original_published_date: "2011-03-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-5069"
-entry_into_force_date: "2011-03-23"
-jci_1_3: "jci1.3:c:BWBR0029752&z=2016-12-17&g=2016-12-17"
-jci_1_0: "1.0:c:BWBR0029752&g=2016-12-17"
-citeertitel_status: "officieel"
-short_title: "Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011"
-signed_date: "2011-03-17"
-entry_into_force: "2011-03-23"
+publicatiedatum: 2011-03-23
+laatste_update: 2016-12-17
+status: geldig
+toestand: 2016-12-17
+bron: "https://wetten.overheid.nl/BWBR0029752"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 maart 2011, nr. WJZ / 11039880, houdende regels met betrekking tot het eenmalig bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011)
-
-Gelet op [artikel 3.3a, eerste en tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken, Landbouw en Innovatie;
+- a. *minister:* Minister van Economische Zaken, Landbouw en Innovatie;
 
-- b. **kavel:** de frequentie of het samenstel van frequenties voor het gebruik waarvan een vergunning kan worden verleend;
+- b. *kavel:* de frequentie of het samenstel van frequenties voor het gebruik waarvan een vergunning kan worden verleend;
 
-- c. **vergunning voor kavel A1:** de vergunning voor kavel A1 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
+- c. *vergunning voor kavel A1:* de vergunning voor kavel A1 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
 
-- d. **vergunning voor kavel A2:** de vergunning voor kavel A2 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
+- d. *vergunning voor kavel A2:* de vergunning voor kavel A2 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
 
-- e. **vergunning voor kavel A3:** de vergunning voor kavel A3 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
+- e. *vergunning voor kavel A3:* de vergunning voor kavel A3 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
 
-- f. **vergunning voor kavel A6:** de vergunning voor kavel A6 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
+- f. *vergunning voor kavel A6:* de vergunning voor kavel A6 die verleend is op grond van de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741);
 
-- g. **vergunning voor digitale radio-omroep:** een vergunning voor het gebruik van 1/9 deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 219,584 - 221,120 MHz.
+- g. *vergunning voor digitale radio-omroep:* een vergunning voor het gebruik van 1/9 deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 219,584 - 221,120 MHz.
 
 2. De vergunning voor kavel A2 wordt geacht mede te omvatten de vergunning inzake de steunzender 95,5 MHz te Hilversum.
 
@@ -78,7 +52,7 @@ Besluit:
 
 1. De verkrijger of de houder van de vergunningen betaalt het op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2016-12-17&g=2016-12-17) verschuldigde bedrag uiterlijk op 1 september 2011 of, indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, uiterlijk zes weken na dat tijdstip.
 
-2. Indien op verzoek van de verkrijger of de houder van de vergunningen in afwijking van het eerste lid uitstel van betaling wordt verleend, worden aan de beschikking tot uitstel van betaling de voorschriften verbonden dat het verschuldigde bedrag wordt betaald in zes gelijke termijnen die steeds jaarlijks vervallen op 1 september, voor het eerst op 1 september 2011, en dat de verkrijger respectievelijk de houder van de vergunningen een waarborgsom verstrekt of een bankgarantie volgens het model, opgenomen in de bijlage, overlegt ter hoogte van een zesde deel van het verschuldigde bedrag. Indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, vervalt de eerste termijn uiterlijk zes weken na dat tijdstip.
+2. Indien op verzoek van de verkrijger of de houder van de vergunningen in afwijking van het eerste lid uitstel van betaling wordt verleend, worden aan de beschikking tot uitstel van betaling de voorschriften verbonden dat het verschuldigde bedrag wordt betaald in zes gelijke termijnen die steeds jaarlijks vervallen op 1 september, voor het eerst op 1 september 2011, en dat de verkrijger respectievelijk de houder van de vergunningen een waarborgsom verstrekt of een bankgarantie volgens het model, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0029752), overlegt ter hoogte van een zesde deel van het verschuldigde bedrag. Indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, vervalt de eerste termijn uiterlijk zes weken na dat tijdstip.
 
 3. Voor de betaling door de verkrijger of de houder van het door hem op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=2&z=2016-12-17&g=2016-12-17) verschuldigde bedrag wordt mede:
 
@@ -121,17 +95,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011.
-
-## Bijlage. Model voor een bankgarantie als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029752&artikel=3&z=2016-12-17&g=2016-12-17), van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011
-
-### Modelbankgarantie
-
-### I. De ondergetekende
-
-.... (naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte), statutair gevestigd te ...., mede kantoorhoudende te ...., hierna te noemen: ‘de Bank’;
-
-In aanmerking nemende:
-
-### II. Verbindt zich tot het navolgende:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

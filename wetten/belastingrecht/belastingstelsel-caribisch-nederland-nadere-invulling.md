@@ -1,43 +1,19 @@
 ---
 title: "Belastingstelsel Caribisch Nederland; nadere invulling"
 identifier: "BWBR0030464"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-10-01"
-last_updated: "2011-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030464"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11450043"
-version_id: "18813042"
-internal_id: "C26259321"
-label_id: "11423584"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030464/2011-10-01/0"
-intitule_bron: "Stcrt.2011-17540"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-23"
-intitule_published: "2011-09-27"
-intitule_in_force: "2011-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-17540"
-original_signed_date: "2011-09-23"
-original_published_date: "2011-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-17540"
-entry_into_force_date: "2011-10-01"
-jci_1_3: "jci1.3:c:BWBR0030464&z=2011-10-01&g=2011-10-01"
-jci_1_0: "1.0:c:BWBR0030464&g=2011-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2011-09-23"
-entry_into_force: "2011-10-01"
+publicatiedatum: 2011-10-01
+laatste_update: 2011-10-01
+status: geldig
+toestand: 2011-10-01
+bron: "https://wetten.overheid.nl/BWBR0030464"
+opgehaald: 2026-08-17
 ---
+
 # Belastingstelsel Caribisch Nederland; nadere invulling
 
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-**In dit besluit keurt de staatssecretaris goed dat de uitvoering van de Wet inkomstenbelasting BES, de Wet loonbelasting BES, de Douane- en Accijnswet BES en de in de Belastingwet BES opgenomen algemene bestedingsbelasting op enkele punten wordt aangepast.**
+*In dit besluit keurt de staatssecretaris goed dat de uitvoering van de Wet inkomstenbelasting BES, de Wet loonbelasting BES, de Douane- en Accijnswet BES en de in de Belastingwet BES opgenomen algemene bestedingsbelasting op enkele punten wordt aangepast.*
 
 ### 1. Aanleiding
 
@@ -48,6 +24,12 @@ Per 1 januari 2011 zijn bovengenoemde, voor Caribisch Nederland geldende, wetten
 ### 2.1. Belastingvrije som, kindertoeslag en ouderentoeslag
 
 Bij de toepassing van de loon- en inkomstenbelasting wordt een belastingvrije som gehanteerd alsmede, voor belastingplichtigen die daar voor in aanmerking komen, een kindertoeslag en/of een ouderentoeslag. De bedragen van deze belastingvrije som en deze toeslagen zijn vastgelegd in artikel 24 van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281). Gelet op de relatief hoge inflatie in Caribisch Nederland en de inkomenspositie van ouderen keur ik goed dat voor de toepassing van de loonbelasting in de periode vanaf 1 oktober 2011 tot en met 31 december 2011 mag worden uitgegaan van een hogere belastingvrije som en van hogere toeslagen. In het laatste kwartaal van 2011 mag er voor de toepassing van de loonbelasting van worden uitgegaan dat:
+
+- – de belastingvrije som op jaarbasis USD 10.813 bedraagt (was USD 9.750);
+
+- – de kindertoeslag op jaarbasis voor één kind USD 1.386 (was USD 1.250) bedraagt en voor twee of meer kinderen USD 2.772 (was USD 2.500), en dat
+
+- – de ouderentoeslag op jaarbasis USD 1.222 (was USD 200) bedraagt.
 
 Gelet op vorenstaande goedkeuring zullen er voor het laatste kwartaal van 2011 aangepaste loonbelastingtabellen worden uitgebracht. Via het wetsvoorstel Overige fiscale maatregelen 2012 wordt voorgesteld de bedragen van de belastingvrije som, de kindertoeslag en de ouderentoeslag met terugwerkende kracht tot 1 januari 2011 te verhogen. Hierdoor kunnen ook belastingplichtigen die niet via de loonbelasting maar uitsluitend via de inkomstenbelasting in de heffing worden betrokken, gebruik maken van het uit deze verhoging voortvloeiende voordeel. Volledigheidshalve wordt opgemerkt dat in de loonbelasting alleen in het laatste kwartaal van 2011 wordt uitgegaan van de hogere bedragen van de belastingvrije som, de kindertoeslag en de ouderentoeslag. Dit levert gedurende dat kwartaal een voordeel op omdat minder loonbelasting hoeft te worden betaald. In de eerste drie kwartalen is nog uitgegaan van de oude bedragen. Daar wordt niet op teruggekomen. Dit brengt wel met zich dat de met terugwerkende kracht tot 1 januari 2011 te verhogen bedragen in de inkomstenbelasting uit zullen komen op (circa) 9/12e maal het oude bedrag plus 3/12e maal het nieuwe bedrag.
 
@@ -122,5 +104,3 @@ Indien anders dan voorzien ter zake van de uitvoering van projecten waarvoor de 
 ### 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 oktober 2011.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 15 december 2011, houdende regels inzake het procesdossier en de kennisneming en de verstrekking van afschriften van processtukken gedurende het voorbereidende onderzoek (Besluit processtukken in strafzaken)"
+citeertitel: "Besluit processtukken in strafzaken"
 identifier: "BWBR0030886"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-12-01"
-last_updated: "2016-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030886"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11563923"
-version_id: "19058362"
-internal_id: "C34063411"
-label_id: "11537194"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030886/2016-12-01/0"
-intitule_bron: "Stb.2011-602"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-15"
-intitule_published: "2011-12-22"
-intitule_in_force: "2016-11-25"
-intitule_status: "goed"
-original_publication: "Stb.2011-602"
-original_signed_date: "2011-12-15"
-original_published_date: "2011-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-602"
-entry_into_force_date: "2016-12-01"
-jci_1_3: "jci1.3:c:BWBR0030886&z=2016-12-01&g=2016-12-01"
-jci_1_0: "1.0:c:BWBR0030886&g=2016-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit processtukken in strafzaken"
-signed_date: "2011-12-15"
-entry_into_force: "2016-12-01"
+publicatiedatum: 2016-12-01
+laatste_update: 2016-12-01
+status: geldig
+toestand: 2016-12-01
+bron: "https://wetten.overheid.nl/BWBR0030886"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 15 december 2011, houdende regels inzake het procesdossier en de kennisneming en de verstrekking van afschriften van processtukken gedurende het voorbereidende onderzoek (Besluit processtukken in strafzaken)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 21 september 2011, nr. 5710255/11/6;
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32), [51b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51b), [149a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=149a), en [257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [artikel 11 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 31 oktober 2011, nr. W03.11.0401/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 8 december 2011, nr. 5711609/11/6;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Definitiebepaling
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
+- a. *de wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- b. **processtukken:** stukken als bedoeld in [artikel 149a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=149a);
+- b. *processtukken:* stukken als bedoeld in [artikel 149a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=149a);
 
-- c. **procesdossier:** verzameling van processtukken die tijdens het opsporingsonderzoek aan het dossier zijn of worden toegevoegd.
+- c. *procesdossier:* verzameling van processtukken die tijdens het opsporingsonderzoek aan het dossier zijn of worden toegevoegd.
 
 #### Paragraaf 2. Procesdossier tijdens het opsporingsonderzoek
 
@@ -114,15 +82,15 @@ Indien tijdens het voorbereidende onderzoek een verdachte of zijn raadsman op gr
 
 ##### Artikel 8
 
-Wijzigt het Besluit orde van dienst gerechten.
+*Wijzigt het Besluit orde van dienst gerechten.*
 
 ##### Artikel 9
 
-Wijzigt het Besluit Buitengewone Rechtspleging.
+*Wijzigt het Besluit Buitengewone Rechtspleging.*
 
 ##### Artikel 10
 
-Wijzigt het Besluit OM-afdoening.
+*Wijzigt het Besluit OM-afdoening.*
 
 ##### Artikel 11
 
@@ -131,5 +99,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit processtukken in strafzaken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

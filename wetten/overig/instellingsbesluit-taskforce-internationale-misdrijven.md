@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2011, nr. 5719823/11 houdende instelling van de Taskforce internationale misdrijven (Instellingsbesluit Taskforce internationale misdrijven)"
+citeertitel: "Instellingsbesluit Taskforce internationale misdrijven"
 identifier: "BWBR0030861"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-12-21"
-last_updated: "2011-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030861"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11549883"
-version_id: "19034952"
-internal_id: "C26550921"
-label_id: "11523074"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030861/2011-12-21/0"
-intitule_bron: "Stcrt.2011-22964"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-09"
-intitule_published: "2011-12-20"
-intitule_in_force: "2011-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-22964"
-original_signed_date: "2011-12-09"
-original_published_date: "2011-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-22964"
-entry_into_force_date: "2011-12-21"
-jci_1_3: "jci1.3:c:BWBR0030861&z=2011-12-21&g=2011-12-21"
-jci_1_0: "1.0:c:BWBR0030861&g=2011-12-21"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Taskforce internationale misdrijven"
-signed_date: "2011-12-09"
-entry_into_force: "2011-12-21"
+publicatiedatum: 2011-12-21
+laatste_update: 2011-12-21
+status: geldig
+toestand: 2011-12-21
+bron: "https://wetten.overheid.nl/BWBR0030861"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 december 2011, nr. 5719823/11 houdende instelling van de Taskforce internationale misdrijven (Instellingsbesluit Taskforce internationale misdrijven)
-
-Handelende in overeenstemming met de ministers van Buitenlandse Zaken en voor Immigratie en Asiel;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,33 +46,33 @@ De Taskforce heeft tot taak:
 
 - 3. het ondersteunen van de programmatische aanpak van internationale misdrijven op basis van het barrièremodel. Hierbij ligt de nadruk op het opwerpen van hindernissen zodat Nederland geen vluchthaven wordt voor plegers van internationale misdrijven en dat de daders van deze delicten berecht worden. Dit zal de Taskforce bereiken door onder andere:
 
-- •. het opstellen van een agenda waarin aan te pakken knelpunten, te bereiken doelen, te behalen resultaten, te ondernemen activiteiten met termijnstellingen en de verantwoordelijkheden van de diverse partijen, worden beschreven;
+   - • het opstellen van een agenda waarin aan te pakken knelpunten, te bereiken doelen, te behalen resultaten, te ondernemen activiteiten met termijnstellingen en de verantwoordelijkheden van de diverse partijen, worden beschreven;
 
-- •. het volgen van een aantal voorbeeldzaken, binnen de bestaande wettelijke kaders die gelden voor de verschillende partijen, waarin de programmatische aanpak wordt toegepast en verder ontwikkeld;
+   - • het volgen van een aantal voorbeeldzaken, binnen de bestaande wettelijke kaders die gelden voor de verschillende partijen, waarin de programmatische aanpak wordt toegepast en verder ontwikkeld;
 
-- •. het uitwisselen van best practices te bevorderen tussen ketenpartners en in internationaal verband;
+   - • het uitwisselen van best practices te bevorderen tussen ketenpartners en in internationaal verband;
 
-- •. het informeren van de Staatssecretaris van Veiligheid en Justitie, de Minister van Buitenlandse Zaken en de Minister voor Immigratie en Asiel over de voortgang van de werkzaamheden van de Taskforce, eenmaal per jaar, voorafgaand aan het opstellen van de jaarlijkse rapportagebrief internationale misdrijven.
+   - • het informeren van de Staatssecretaris van Veiligheid en Justitie, de Minister van Buitenlandse Zaken en de Minister voor Immigratie en Asiel over de voortgang van de werkzaamheden van de Taskforce, eenmaal per jaar, voorafgaand aan het opstellen van de jaarlijkse rapportagebrief internationale misdrijven.
 
 ##### Artikel 4
 
 De Taskforce bestaat uit de volgende leden:
 
-- −. mr. G.W. van der Burg, hoofdofficier van Justitie van het Landelijk Parket, tevens voorzitter;
+- − mr. G.W. van der Burg, hoofdofficier van Justitie van het Landelijk Parket, tevens voorzitter;
 
-- −. T.A. Lodder, directeur Stafdirectie Uitvoeringsbeleid van de Immigratie- en Naturalisatiedienst, lid;
+- − T.A. Lodder, directeur Stafdirectie Uitvoeringsbeleid van de Immigratie- en Naturalisatiedienst, lid;
 
-- −. R.P.G. Heuff MSM EMPM, Directeur Recherche (waarnemend) van het KLPD (t.z.t. de Directeur Operatiën van de Landelijke Eenheid), lid;
+- − R.P.G. Heuff MSM EMPM, Directeur Recherche (waarnemend) van het KLPD (t.z.t. de Directeur Operatiën van de Landelijke Eenheid), lid;
 
-- −. mr. J. Schipper-Spanninga, directeur Juridische en Operationele Aangelegenheden van het Ministerie van Veiligheid en Justitie, lid;
+- − mr. J. Schipper-Spanninga, directeur Juridische en Operationele Aangelegenheden van het Ministerie van Veiligheid en Justitie, lid;
 
-- −. drs J.P.M. Peters , directeur Consulaire Zaken en Migratiebeleid van het Ministerie van Buitenlandse Zaken, lid;
+- − drs J.P.M. Peters , directeur Consulaire Zaken en Migratiebeleid van het Ministerie van Buitenlandse Zaken, lid;
 
-- −. R.P. Pijning, directeur Operationele Ondersteuning van de Dienst Terugkeer & Vertrek, lid;
+- − R.P. Pijning, directeur Operationele Ondersteuning van de Dienst Terugkeer & Vertrek, lid;
 
-- −. mr. T.J.M. van Oorschot, directeur Juridische Zaken van het Ministerie van Buitenlandse Zaken, agendalid; en
+- − mr. T.J.M. van Oorschot, directeur Juridische Zaken van het Ministerie van Buitenlandse Zaken, agendalid; en
 
-- −. mr. H.P. Heida, directeur Migratiebeleid en Besturing Vreemdelingenketen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, agendalid.
+- − mr. H.P. Heida, directeur Migratiebeleid en Besturing Vreemdelingenketen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, agendalid.
 
 ##### Artikel 5
 
@@ -123,5 +97,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce internationale misdrijven.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

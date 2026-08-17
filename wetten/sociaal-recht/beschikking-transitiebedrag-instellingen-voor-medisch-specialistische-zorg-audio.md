@@ -1,53 +1,53 @@
 ---
 title: "Beschikking Transitiebedrag instellingen voor medisch specialistische zorg, audiologische centra, centra voor erfelijkheidsadvisering"
 identifier: "BWBR0030882"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-12-22"
-last_updated: "2011-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030882"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "11559793"
-version_id: "19053392"
-internal_id: "C26571051"
-label_id: "11532944"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030882/2011-12-22/0"
-intitule_bron: "Stcrt.2011-23436"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-13"
-intitule_published: "2011-12-22"
-intitule_in_force: "2011-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-23436"
-original_signed_date: "2011-12-13"
-original_published_date: "2011-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-23436"
-entry_into_force_date: "2011-12-22"
-jci_1_3: "jci1.3:c:BWBR0030882&z=2011-12-22&g=2011-12-22"
-jci_1_0: "1.0:c:BWBR0030882&g=2011-12-22"
-citeertitel_status: "redactioneel"
-signed_date: "2011-12-13"
-entry_into_force: "2011-12-22"
+publicatiedatum: 2011-12-22
+laatste_update: 2011-12-22
+status: geldig
+toestand: 2011-12-22
+bron: "https://wetten.overheid.nl/BWBR0030882"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking Transitiebedrag instellingen voor medisch specialistische zorg, audiologische centra, centra voor erfelijkheidsadvisering
 
 De Nederlandse Zorgautoriteit heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) (Wmg), gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) en [artikel 50 lid 2 onder a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) en met inachtneming van het bepaalde in de beleidsregel en de regeling ‘Transitie bekostigingsstructuur medisch specialistische zorg’ en van de onderstaande definities voor elk(e) afzonderlijk(e)
+
+- – (categorale) instelling voor medisch specialistische zorg1Ook bekend als: algemene ziekenhuizen en universitaire medische centra, zelfstandige revalidatiecentra, zelfstandige dialysecentra en zelfstandige radiotherapeutische instellingen.
+
+- – audiologisch centrum
+
+- – centrum voor erfelijkheidsadvisering
 
 voor het jaar 2012 ambtshalve een vaste grens voor de som van de tarieven voor zorgprestaties onder het transitiemodel vastgesteld.
 
 De vaste grens is gelijk aan de omzet uit prestatiebekostiging plus het verrekenbedrag.
 
-**Zie voor een nadere toelichting de beleidsregel Transitie bekostigingsstructuur medisch specialistische zorg en de bijbehorende circulaire.**
+*Zie voor een nadere toelichting de beleidsregel Transitie bekostigingsstructuur medisch specialistische zorg en de bijbehorende circulaire.*
 
 ### Definities
+
+- *De beleidsregel* De beleidsregel Transitie bekostigingsstructuur medisch specialistische zorg.
+
+- *Vaste grens* Een bovengrens aan de som van tarieven als bedoeld in [artikel 50, tweede lid aanhef en onder a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
+
+- *Omzet uit prestatiebekostiging* De omzet bedoeld bedoeld in artikel 11 van de beleidsregel.
+
+- *Verrekenbedrag* Het bedrag bedoeld in artikel 15 van de beleidsregel.
+
+- *Zorgprestaties onder het transitiemodel* De zorg en diensten als bedoeld in artikel 10.1 van de beleidsregel.
 
 ### Werkingssfeer
 
 Voor de toepassing van deze tariefbeschikking wordt een persoon, die
+
+- • krachtens de sociale ziektekostenwetgeving van een andere staat verzekerd is en
+
+- • in Nederland woont of hier tijdelijk verblijft en
+
+- • krachtens een Verordening van de Raad van de Europese Unie, dan wel krachtens enig ander door Nederland gesloten bilateraal of multilateraal verdrag, recht heeft op verstrekkingen overeenkomstig het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), gelijkgesteld met een Zorgverzekeringswet-/AWBZ-verzekerde.
 
 ### Bezwaar/Beroep
 

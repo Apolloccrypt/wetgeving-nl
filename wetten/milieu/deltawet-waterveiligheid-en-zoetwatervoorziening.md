@@ -1,55 +1,26 @@
 ---
 title: "Wet van 1 december 2011 tot wijziging van de Waterwet en de Wet Infrastructuurfonds in verband met de bescherming tegen overstromingen en de zorg voor de zoetwatervoorziening in relatie tot verwachte klimaatveranderingen (Deltawet waterveiligheid en zoetwatervoorziening)"
+citeertitel: "Deltawet waterveiligheid en zoetwatervoorziening"
 identifier: "BWBR0030836"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030836"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "11542813"
-version_id: "19005952"
-internal_id: "C26593251"
-label_id: "11515974"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030836/2024-01-01/0"
-intitule_bron: "Stb.2011-604"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-01"
-intitule_published: "2011-12-20"
-intitule_in_force: "2011-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2011-604"
-original_signed_date: "2011-12-01"
-original_published_date: "2011-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "32304"
-original_url_id: "stb-2011-604"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0030836&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0030836&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Deltawet waterveiligheid en zoetwatervoorziening"
-signed_date: "2011-12-01"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0030836"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 1 december 2011 tot wijziging van de Waterwet en de Wet Infrastructuurfonds in verband met de bescherming tegen overstromingen en de zorg voor de zoetwatervoorziening in relatie tot verwachte klimaatveranderingen (Deltawet waterveiligheid en zoetwatervoorziening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat de verwachte klimaatveranderingen grote opgaven op het gebied van waterveiligheid en zoetwatervoorziening met zich meebrengen. Dat het daarom wenselijk is aanvullende regels te stellen voor de realisatie van maatregelen ter bescherming tegen overstromingen en met het oog op de zorg voor de zoetwatervoorziening op de korte en de langere termijn;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Vervallen
+*Vervallen*
 
 ##### Artikel II
 
-Vervallen
+*Vervallen*
 
 ##### Artikel III
 
@@ -67,10 +38,8 @@ Onze Minister van Infrastructuur en Milieu zendt uiterlijk tien jaren na inwerki
 
 ##### Artikel VI
 
-Vervallen
+*Vervallen*
 
 ##### Artikel VII
 
 Deze wet wordt aangehaald als: Deltawet waterveiligheid en zoetwatervoorziening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

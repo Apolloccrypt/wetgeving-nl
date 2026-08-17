@@ -1,37 +1,17 @@
 ---
-title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d"
+title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d."
 identifier: "BWBR0030091"
-country: "nl"
-rank: "circulaire"
-publication_date: "2011-06-15"
-last_updated: "2011-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030091"
+categorie: "Burgerlijk recht"
 soort: "circulaire"
-stam_id: "11348773"
-version_id: "18616152"
-internal_id: "C25974111"
-label_id: "11322524"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030091/2011-06-15/0"
-intitule_bron: "Stcrt.2011-10639"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-06-15"
-intitule_in_force: "2011-06-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10639"
-original_published_date: "2011-06-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-10639"
-entry_into_force_date: "2011-06-15"
-jci_1_3: "jci1.3:c:BWBR0030091&z=2011-06-15&g=2011-06-15"
-jci_1_0: "1.0:c:BWBR0030091&g=2011-06-15"
-citeertitel_status: "redactioneel"
-short_title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d."
-entry_into_force: "2011-06-15"
+publicatiedatum: 2011-06-15
+laatste_update: 2011-06-15
+status: geldig
+toestand: 2011-06-15
+bron: "https://wetten.overheid.nl/BWBR0030091"
+opgehaald: 2026-08-17
 ---
-# Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d
+
+# Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.
 
 ### Inleiding
 
@@ -48,6 +28,13 @@ Woningen die op of na 1 juli 2010 gereed zijn gekomen, vallen buiten deze verhog
 ### Maximale bedragen voor verwarming, energie en water
 
 De bedragen, die de ambtenaar maximaal verschuldigd is voor het genot van verwarming, energie en leidingwater genoemd in [artikel 3, eerste lid, onder b tot en met e, van het Besluit betaling emolumenten burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0003632&artikel=3), wijzigen op de gebruikelijke wijze aan de hand van de consumentenprijsindex over de periode van april 2010 tot en met maart 2011.
+
+| Verstrekking | Was 1-7-2010 | Wordt 1-7-2011 |
+| --- | --- | --- |
+| Verwarming van de woning | 99,76 | 104,74 |
+| Energie voor kookdoeleinden | 33,85 | 34,86 |
+| Elektrische energie anders dan voor verwarming van de woning en voor kookdoeleinden | 24,89 | 25,14 |
+| Leidingwater | 15,74 | 15,89 |
 
 ### Kilometervergoeding voor privé-gebruik dienstauto
 

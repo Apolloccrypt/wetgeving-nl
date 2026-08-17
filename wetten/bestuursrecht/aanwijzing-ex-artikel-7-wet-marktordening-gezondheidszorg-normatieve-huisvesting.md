@@ -1,82 +1,44 @@
 ---
 title: "Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 12 juli 2011, nr. MC-U-3072372, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ"
+citeertitel: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (normatieve huisvestingscomponenten in tarieven intramurale AWBZ)"
 identifier: "BWBR0030282"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030282"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11404843"
-version_id: "18718982"
-internal_id: "C26115611"
-label_id: "11378574"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030282/2014-04-01/0"
-intitule_bron: "Stcrt.2011-13319"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-12"
-intitule_published: "2011-07-21"
-intitule_in_force: "2011-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-13319"
-original_signed_date: "2011-07-12"
-original_published_date: "2011-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-13319"
-entry_into_force_date: "2011-07-21"
-jci_1_3: "jci1.3:c:BWBR0030282&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0030282&g=2014-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (normatieve huisvestingscomponenten in tarieven intramurale AWBZ)"
-signed_date: "2011-07-12"
-entry_into_force: "2011-07-21"
+publicatiedatum: 2011-07-21
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0030282"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 12 juli 2011, nr. MC-U-3072372, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ
 
 ### Hoofdstuk 1. Algemeen
-
-### Hoofdstuk 1. Algemeen
-
-### Hoofdstuk 3. GGZ-instellingen en kinderdagcentra
-
-### Hoofdstuk 4. Slot
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 1 juni 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2010/11, 30 597, nr. 187) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gelet op het algemeen overleg over de GGZ met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal op 30 juni 2011 en het plenaire debat op 30 juni 2011 naar aanleiding van het verslag van dat overleg;
-
-Gelet op de brief van de staatssecretaris van 1 juli 2011 (DLZ-U-3071383) ten behoeve van het verslag van het schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Eerste Kamer der Staten-Generaal en het daaropvolgende mondeling overleg met die commissie op 5 juli 2011;
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **de zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- a. *de zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- b. **de AWBZ:** de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- b. *de AWBZ:* de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- c. **zzp:** zorgzwaartepakket;
+- c. *zzp:* zorgzwaartepakket;
 
-- d. **nhc:** normatieve huisvestingscomponent in verband met de huisvesting van cliënten, alsmede overige ruimtes van een zorginstelling;
+- d. *nhc:* normatieve huisvestingscomponent in verband met de huisvesting van cliënten, alsmede overige ruimtes van een zorginstelling;
 
-- e. **instelling:** een zorginstelling die is toegelaten in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
+- e. *instelling:* een zorginstelling die is toegelaten in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
 
-- f. **bestaande instelling:** een instelling die vóór 1 januari 2012 is toegelaten in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) én sindsdien feitelijk zorg levert ten laste van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) én voor die datum een budget kapitaallasten heeft toegekend gekregen door de zorgautoriteit;
+- f. *bestaande instelling:* een instelling die vóór 1 januari 2012 is toegelaten in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) én sindsdien feitelijk zorg levert ten laste van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) én voor die datum een budget kapitaallasten heeft toegekend gekregen door de zorgautoriteit;
 
-- g. **AWBZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
+- g. *AWBZ-instelling:* een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
-- h. **GGZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
+- h. *GGZ-instelling:* een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
-- i. **kinderdagcentrum:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
+- i. *kinderdagcentrum:* een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
-- j. **invoeringsperiode:** de periode van 1 januari 2012 tot en met 31 december 2017.
+- j. *invoeringsperiode:* de periode van 1 januari 2012 tot en met 31 december 2017.
 
 ##### Artikel 2. werkingssfeer en uitvoering
 
@@ -157,9 +119,9 @@ De zorgautoriteit voorziet voor bestaande AWBZ-instellingen in een compensatiere
 
 - a. wat betreft boekwaardes gaat het om:
 
-- 1. reeds gesloopte panden of te slopen panden, of
+   - 1. reeds gesloopte panden of te slopen panden, of
 
-- 2. leegstaande panden onder verrekening van de opbrengst van verkoop of verhuur met de boekwaarde;
+   - 2. leegstaande panden onder verrekening van de opbrengst van verkoop of verhuur met de boekwaarde;
 
 - b. wat betreft oude plankosten of het verwijderen van asbest gaat het om de daaraan verbonden werkelijke kosten tot een door de zorgautoriteit vast te stellen maximum dat berekend wordt volgens een door haar vast te stellen methode;
 

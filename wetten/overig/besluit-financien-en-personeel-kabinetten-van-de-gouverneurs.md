@@ -1,59 +1,33 @@
 ---
 title: "Besluit financiën en personeel Kabinetten van de Gouverneurs"
 identifier: "BWBR0030723"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-12-07"
-last_updated: "2012-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030723"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11512683"
-version_id: "18947022"
-internal_id: "C26441881"
-label_id: "11485974"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030723/2012-12-07/0"
-intitule_bron: "Stcrt.2011-21877"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-14"
-intitule_published: "2011-12-06"
-intitule_in_force: "2011-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-21877"
-original_signed_date: "2011-11-14"
-original_published_date: "2011-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-21877"
-entry_into_force_date: "2012-12-07"
-jci_1_3: "jci1.3:c:BWBR0030723&z=2012-12-07&g=2012-12-07"
-jci_1_0: "1.0:c:BWBR0030723&g=2012-12-07"
-citeertitel_status: "officieel"
-signed_date: "2011-11-14"
-entry_into_force: "2012-12-07"
+publicatiedatum: 2012-12-07
+laatste_update: 2012-12-07
+status: geldig
+toestand: 2012-12-07
+bron: "https://wetten.overheid.nl/BWBR0030723"
+opgehaald: 2026-08-17
 ---
+
 # Besluit financiën en personeel Kabinetten van de Gouverneurs
-
-Gelet op [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=19), en [21, zesde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=21), [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0030153&artikel=4), [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Curaçao](https://wetten.overheid.nl/jci1.3:c:BWBR0028704&artikel=4) en [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028707&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **directeur van het Kabinet:** directeur van het Kabinet van de Gouverneur van Aruba, directeur van het Kabinet van de Gouverneur van Curaçao of directeur van het Kabinet van de Gouverneur van Sint Maarten;
+- b. *directeur van het Kabinet:* directeur van het Kabinet van de Gouverneur van Aruba, directeur van het Kabinet van de Gouverneur van Curaçao of directeur van het Kabinet van de Gouverneur van Sint Maarten;
 
-- c. **Kabinet:** Kabinet van de Gouverneur van Aruba, Kabinet van de Gouverneur van Curaçao of Kabinet van de Gouverneur van Sint Maarten;
+- c. *Kabinet:* Kabinet van de Gouverneur van Aruba, Kabinet van de Gouverneur van Curaçao of Kabinet van de Gouverneur van Sint Maarten;
 
-- d. **secretaris-generaal:** secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- d. *secretaris-generaal:* secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- e. **directeur FEZ:** directeur van de directie Financieel-Economische Zaken van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- e. *directeur FEZ:* directeur van de directie Financieel-Economische Zaken van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- f. **directeur PRIO:** directeur van de directie Personeel, Regie, ICT en Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- f. *directeur PRIO:* directeur van de directie Personeel, Regie, ICT en Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
@@ -108,101 +82,3 @@ Het [Beheersbesluit KABGNA/KABGA 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit financiën en personeel Kabinetten van de Gouverneurs.
-
-## Bijlage 1
-
-De bevoegdheden op personeelsgebied, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=4&z=2012-12-07&g=2012-12-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&artikel=5&z=2012-12-07&g=2012-12-07), zijn:
-
-- 1. Het vaststellen van de formatie met uitzondering van de functie van directeur van het Kabinet. Het maken van daartoe strekkende orgaan- en functiebeschrijvingen en het inrichten van de formatie van het Kabinet met inachtneming en gebruikmaking van:
-
-- a. het bepaalde in het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
-
-- b. de vastgestelde formatie ten aanzien van de functies van directeur en plv. directeur van het Kabinet;
-
-- c. de personeelsbegroting qua aantallen en budget.
-
-- 2.
-
-- a. de werving en selectie van interne en externe sollicitanten;
-
-- b. het aanstellen in tijdelijke of vaste dienst, met uitzondering van de directeur van het Kabinet, dan wel het in dienst nemen op arbeidsovereenkomst;
-
-- c. het zowel ambtshalve als op verzoek verlengen van de proeftijd;
-
-- d. het afsluiten van overeenkomsten met stagiair(e)s;
-
-- e. het inschakelen van uitzendkrachten.
-
-- 3.
-
-- a. het vaststellen van de salarisschaal en het salaris, met uitzondering van de functie van directeur van het Kabinet;
-
-- b. het toekennen en intrekken van toelagen, welke hun grondslag hebben in het [BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630), behoudens de toelagen voor de directeur van het Kabinet;
-
-- c. het toekennen van gratificaties, behoudens voor de directeur van het Kabinet;
-
-- d. het toekennen van schadevergoedingen en schadeloosstellingen op grond van het besluit van 27 juli 1950 (Stb. K 320), behoudens voor de directeur van het Kabinet.
-
-- 4.
-
-- a. het tijdelijk opdragen van andere werkzaamheden;
-
-- b. het verplaatsen;
-
-- c. het belasten met de waarneming van een andere, hoger gewaardeerde functie.
-
-- 5.
-
-- a. het opdragen van overwerk;
-
-- b. het al dan niet verlenen van toestemming tot het in diensttijd vervullen van een nevenfunctie en bijgevoegd het al dan niet verlenen van buitengewoon verlof daartoe;
-
-- c. het vaststellen van werk- en dienst-roosters;
-
-- d. het verlenen van buitengewoon verlof van korte duur;
-
-- e. het verlenen van buitengewoon verlof van lange duur, voor zover die bevoegdheid niet is voorbehouden aan de Kroon;
-
-- f. het toestaan en weigeren van werken in deeltijd;
-
-- g. het verlenen van vakantie;
-
-- h. het verlenen van zwangerschaps-, bevallings- en ouderschapsverlof, voor zover de desbetreffende regeling daartoe de mogelijkheid biedt.
-
-- 6.
-
-- a. het opstellen van een personeels-meerjarenraming;
-
-- b. het opstellen van een personeelsplan;
-
-- c. het opstellen en uitvoeren van vormings- en opleidingsplannen.
-
-- 7.
-
-- a. het verlenen van studiefaciliteiten;
-
-- b. het bepalen of een studie als dienstopdracht moet worden gevolgd;
-
-- c. het toekennen van een telefoonkostenvergoeding;
-
-- d. machtiging geven tot het gebruik van de eigen auto voor dienstreizen;
-
-- e. het opleggen van de plicht tot het (gaan) wonen in of nabij de standplaats;
-
-- f. het toekennen van vergoedingen genoemd in het [Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630);
-
-- g. het optreden als beoordelingsautoriteit;
-
-- h. het afnemen van de eed of belofte ten aanzien van de personeelsleden werkzaam bij het Kabinet.
-
-- 8.
-
-- a. het opleggen van disciplinaire straffen;
-
-- b. het schorsen;
-
-- c. het ontzeggen van de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, indien redelijkerwijs verwacht mag worden dat vervolgens zal worden overgegaan tot schorsing of oplegging van een disciplinaire straf;
-
-- d. het verlenen van ontslag dan wel het beëindigen van de arbeidsovereenkomst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

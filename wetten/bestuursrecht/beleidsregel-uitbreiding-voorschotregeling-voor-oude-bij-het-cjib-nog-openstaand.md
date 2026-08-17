@@ -1,38 +1,16 @@
 ---
 title: "Beleidsregel uitbreiding voorschotregeling voor oude bij het CJIB nog openstaande schadevergoedingsmaatregelen"
 identifier: "BWBR0030755"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-12-02"
-last_updated: "2011-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030755"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11524653"
-version_id: "18970432"
-internal_id: "C26470341"
-label_id: "11497844"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030755/2011-12-02/0"
-intitule_bron: "Stcrt.2011-21994"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-27"
-intitule_published: "2011-12-02"
-intitule_in_force: "2011-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-21994"
-original_signed_date: "2011-11-27"
-original_published_date: "2011-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-21994"
-entry_into_force_date: "2011-12-02"
-jci_1_3: "jci1.3:c:BWBR0030755&z=2011-12-02&g=2011-12-02"
-jci_1_0: "1.0:c:BWBR0030755&g=2011-12-02"
-citeertitel_status: "redactioneel"
-signed_date: "2011-11-27"
-entry_into_force: "2011-12-02"
+publicatiedatum: 2011-12-02
+laatste_update: 2011-12-02
+status: geldig
+toestand: 2011-12-02
+bron: "https://wetten.overheid.nl/BWBR0030755"
+opgehaald: 2026-08-17
 ---
+
 # Beleidsregel uitbreiding voorschotregeling voor oude bij het CJIB nog openstaande schadevergoedingsmaatregelen
 
 ### Wettelijk kader
@@ -62,6 +40,18 @@ Aan het in de wettelijke regeling gemaakte onderscheid ligt ten grondslag dat de
 Thans is mij gebleken dat inmiddels een beperkte extra budgettaire ruimte binnen de begroting is gevonden. Uit deze budgettaire ruimte kan een voorschot worden uitbetaald met betrekking tot de schadevergoedingsmaatregelen die op 24 september 2011 bij het CJIB nog als openstaand staan geregistreerd, aan slachtoffers en nabestaanden van de misdrijven genoemd in [artikel 1, tweede lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0027994&artikel=1), waarbij is voldaan aan alle in [artikel 36f, zesde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en in het Uitvoeringsbesluit genoemde criteria en die zijn opgelegd bij een rechterlijke uitspraak die vóór 1 januari 2011 onherroepelijk is geworden. Als peildatum wordt 24 september 2011 aangehouden, omdat op deze datum de onderhavige uitbreiding van de voorschotregeling is aangekondigd.
 
 Van een openstaande schadevergoedingsmaatregel is sprake indien uit de registratie van het CJIB blijkt dat ten aanzien van een schadevergoedingsmaatregel een van de volgende situaties zich niet voordoet:
+
+- – het totale bedrag is al voldaan,
+
+- – de vordering is verjaard,
+
+- – de veroordeelde heeft ter zake van deze schadevergoedingsmaatregel vervangende hechtenis of vervangende jeugddetentie ondergaan,
+
+- – de veroordeelde is overleden,
+
+- – schuldsanering bij de veroordeelde waardoor de vordering is komen te vervallen, of
+
+- – de veroordeelde en het slachtoffer zijn samen tot een onderlinge regeling gekomen.
 
 Met de uitvoering van deze beslissing is het CJIB belast dat daartoe waar nodig overleg voert met het Schadefonds Geweldsmisdrijven ter afstemming en voorkoming van dubbele uitkeringen.
 

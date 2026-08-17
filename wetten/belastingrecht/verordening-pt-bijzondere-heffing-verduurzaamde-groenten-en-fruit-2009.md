@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing verduurzaamde groenten en fruit (Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2009)"
+citeertitel: "Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2009"
 identifier: "BWBR0030468"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030468"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11450893"
-version_id: "18814392"
-internal_id: "C26261031"
-label_id: "11424334"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030468/2011-09-11/0"
-intitule_bron: "Vbbo.2011-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-24"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-51"
-original_signed_date: "2009-03-24"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030468&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030468&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2009"
-signed_date: "2009-03-24"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030468"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing verduurzaamde groenten en fruit (Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2009)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 24 februari 2009.
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

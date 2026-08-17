@@ -1,66 +1,44 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 7 november 2011, nr. WJZ / 11158559, houdende regels ter uitvoering van de Wet strategische diensten (Uitvoeringsregeling strategische diensten)"
+citeertitel: "Uitvoeringsregeling strategische diensten"
 identifier: "BWBR0030629"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-09"
-last_updated: "2021-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030629"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11496033"
-version_id: "27973632"
-internal_id: "C39465891"
-label_id: "11469374"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030629/2021-09-09/0"
-intitule_bron: "Stcrt.2011-20510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-07"
-intitule_published: "2011-11-14"
-intitule_in_force: "2011-11-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-39177"
-original_signed_date: "2021-08-24"
-original_published_date: "2021-08-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-39177"
-entry_into_force_date: "2021-08-24"
-jci_1_3: "jci1.3:c:BWBR0030629&z=2021-09-09&g=2021-09-09"
-jci_1_0: "1.0:c:BWBR0030629&g=2021-09-09"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling strategische diensten"
-signed_date: "2021-08-24"
-entry_into_force: "2021-08-24"
+publicatiedatum: 2021-08-24
+laatste_update: 2021-09-09
+status: geldig
+toestand: 2021-09-09
+bron: "https://wetten.overheid.nl/BWBR0030629"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 7 november 2011, nr. WJZ / 11158559, houdende regels ter uitvoering van de Wet strategische diensten (Uitvoeringsregeling strategische diensten)
-
-Gelet op [verordening (EG) nr. 428/2009](32009R0428) van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134) en de [artikelen 7, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=14), [23, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=24), en [25, tweede lid, van de Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **ERA:** het Europees Ruimte Agentschap in Noordwijk, opgericht bij het Verdrag tot oprichting van het Europees Ruimte Agentschap (Trb. 1990, 43);
+- – *ERA:* het Europees Ruimte Agentschap in Noordwijk, opgericht bij het Verdrag tot oprichting van het Europees Ruimte Agentschap (Trb. 1990, 43);
 
-- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
+- – *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
 
-- –. **globale vergunning:** een vergunning die wordt verleend aan een dienstverlener voor het verlenen van een categorie van diensten aan een of meer met naam genoemde afnemers in een of meer landen die geen deel uitmaken van de Europese Unie;
+- – *globale vergunning:* een vergunning die wordt verleend aan een dienstverlener voor het verlenen van een categorie van diensten aan een of meer met naam genoemde afnemers in een of meer landen die geen deel uitmaken van de Europese Unie;
 
-- –. **individuele vergunning:** een vergunning die wordt verleend aan een dienstverlener voor het verlenen van bepaalde diensten aan één afnemer in een land dat geen deel uitmaakt van de Europese Unie;
+- – *individuele vergunning:* een vergunning die wordt verleend aan een dienstverlener voor het verlenen van bepaalde diensten aan één afnemer in een land dat geen deel uitmaakt van de Europese Unie;
 
-- –. **inspecteur:** de directeur-generaal Douane;
+- – *inspecteur:* de directeur-generaal Douane;
 
-- –. **Joint Force Command Brunssum:** het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (**Trb.** 1964, 131);
+- – *Joint Force Command Brunssum:* het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (*Trb.* 1964, 131);
 
-- –. **NAVO-strijdkrachten:** de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
+- – *NAVO-strijdkrachten:* de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
 
-- –. **minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- – *minister:* de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- –. **wet:** de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545).
+- – *wet:* de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545).
+
+##### Artikel 1a
+
+Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
 
 ##### Artikel 2
 
@@ -133,11 +111,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische diensten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

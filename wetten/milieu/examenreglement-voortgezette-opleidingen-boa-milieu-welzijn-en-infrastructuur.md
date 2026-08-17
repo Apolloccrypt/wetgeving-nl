@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie d.d. 15 maart 2011, nr. 5687494/11, houdende de vaststelling van het Examenreglement voortgezette opleidingen buitengewoon opsporingsambtenaar milieu, welzijn en infrastructuur 2011"
+citeertitel: "Examenreglement voortgezette opleidingen BOA milieu, welzijn en infrastructuur"
 identifier: "BWBR0029718"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-04-01"
-last_updated: "2011-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029718"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11268653"
-version_id: "18457152"
-internal_id: "C25736331"
-label_id: "11243194"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029718/2011-04-01/0"
-intitule_bron: "Stcrt.2011-4546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-15"
-intitule_published: "2011-03-16"
-intitule_in_force: "2011-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-4546"
-original_signed_date: "2011-03-15"
-original_published_date: "2011-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-4546"
-entry_into_force_date: "2011-04-01"
-jci_1_3: "jci1.3:c:BWBR0029718&z=2011-04-01&g=2011-04-01"
-jci_1_0: "1.0:c:BWBR0029718&g=2011-04-01"
-citeertitel_status: "officieel"
-short_title: "Examenreglement voortgezette opleidingen BOA milieu, welzijn en infrastructuur"
-signed_date: "2011-03-15"
-entry_into_force: "2011-04-01"
+publicatiedatum: 2011-04-01
+laatste_update: 2011-04-01
+status: geldig
+toestand: 2011-04-01
+bron: "https://wetten.overheid.nl/BWBR0029718"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie d.d. 15 maart 2011, nr. 5687494/11, houdende de vaststelling van het Examenreglement voortgezette opleidingen buitengewoon opsporingsambtenaar milieu, welzijn en infrastructuur 2011
-
-Gelet op [artikel 16, lid 2, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 

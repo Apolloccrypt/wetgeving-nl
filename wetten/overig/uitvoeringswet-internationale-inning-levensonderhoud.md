@@ -1,47 +1,18 @@
 ---
 title: "Wet van 29 september 2011 tot uitvoering van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en van de verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1) (Uitvoeringswet internationale inning levensonderhoud)"
+citeertitel: "Uitvoeringswet internationale inning levensonderhoud"
 identifier: "BWBR0030555"
-country: "nl"
-rank: "wet"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030555"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "11471173"
-version_id: "18859042"
-internal_id: "C26322591"
-label_id: "11444634"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030555/2022-08-01/0"
-intitule_bron: "Stb.2011-460"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-29"
-intitule_published: "2011-10-25"
-intitule_in_force: "2011-10-25"
-intitule_status: "goed"
-original_publication: "Stb.2011-460"
-original_signed_date: "2011-09-29"
-original_published_date: "2011-10-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "32617"
-original_url_id: "stb-2011-460"
-entry_into_force_date: "2011-10-26"
-jci_1_3: "jci1.3:c:BWBR0030555&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0030555&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet internationale inning levensonderhoud"
-signed_date: "2011-09-29"
-entry_into_force: "2011-10-26"
+publicatiedatum: 2011-10-26
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0030555"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 29 september 2011 tot uitvoering van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51) en van de verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1) (Uitvoeringswet internationale inning levensonderhoud)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen dat wetgeving nodig is ter uitvoering van het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51), van het op 23 november 2007 te ’s-Gravenhage gesloten protocol inzake het recht dat van toepassing is op onderhoudsverplichtingen (PbEU 2009, L 331/17) en van de [verordening (EG) nr. 4/2009](32009R0004) van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -49,9 +20,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. **het verdrag:** het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51);
+- a. *het verdrag:* het op 23 november 2007 te ’s-Gravenhage tot stand gekomen Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden (PbEU 2011, L 192/51);
 
-- b. **de verordening:** de [verordening (EG) nr. 4/2009](32009R0004) van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).
+- b. *de verordening:* de verordening (EG) nr. 4/2009 van de Raad van 18 december 2008 betreffende de bevoegdheid, het toepasselijke recht, de erkenning en de tenuitvoerlegging van beslissingen, en de samenwerking op het gebied van onderhoudsverplichtingen (PbEU L 7/1).
 
 ##### Artikel 2
 
@@ -127,15 +98,21 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 4. Het in artikel 33 van de verordening toegestane rechtsmiddel is beroep in cassatie.
 
+##### Artikel 9a
+
+1. Voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede) op een beslissing uit een andere lidstaat worden het afschrift van de beslissing en het formulier, bedoeld in artikel 20, eerste lid, onder a en b, van de verordening tezamen als een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) aangemerkt.
+
+2. Onverminderd artikel 48 van de verordening is het eerste lid van overeenkomstige toepassing op gerechtelijke schikkingen en authentieke akten uit een andere lidstaat.
+
 #### § 4. Wijzigingen in andere wetten
 
 ##### Artikel 10
 
-Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
+*Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.*
 
 ##### Artikel 11
 
-Wijzigt de Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek.
+*Wijzigt de Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek.*
 
 #### § 5. Slotbepalingen
 
@@ -146,17 +123,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale inning levensonderhoud.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. Voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede) op een beslissing uit een andere lidstaat worden het afschrift van de beslissing en het formulier, bedoeld in artikel 20, eerste lid, onder a en b, van de verordening tezamen als een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) aangemerkt.
-
-2. Onverminderd artikel 48 van de verordening is het eerste lid van overeenkomstige toepassing op gerechtelijke schikkingen en authentieke akten uit een andere lidstaat.
-
-#### § 4. Wijzigingen in andere wetten
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

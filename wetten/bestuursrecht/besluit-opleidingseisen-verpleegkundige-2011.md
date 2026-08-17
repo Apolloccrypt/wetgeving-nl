@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 juli 2011, houdende regels inzake de opleidingseisen van de verpleegkundige (Besluit opleidingseisen verpleegkundige 2011)"
+citeertitel: "Besluit opleidingseisen verpleegkundige 2011"
 identifier: "BWBR0030267"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030267"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11397263"
-version_id: "18709482"
-internal_id: "C26105331"
-label_id: "11370924"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030267/2026-01-01/0"
-intitule_bron: "Stb.2011-365"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-06"
-intitule_published: "2011-07-19"
-intitule_in_force: "2011-07-19"
-intitule_status: "goed"
-original_publication: "Stb.2011-365"
-original_signed_date: "2011-07-06"
-original_published_date: "2011-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-365"
-entry_into_force_date: "2011-08-01"
-jci_1_3: "jci1.3:c:BWBR0030267&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0030267&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen verpleegkundige 2011"
-signed_date: "2011-07-06"
-entry_into_force: "2011-08-01"
+publicatiedatum: 2011-08-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0030267"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 6 juli 2011, houdende regels inzake de opleidingseisen van de verpleegkundige (Besluit opleidingseisen verpleegkundige 2011)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 april 2011, kenmerk DWJZ/JBA&J-3061193;
-
-Gelet op [artikel 32 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=32);
-
-Afdeling advisering van de Raad van State gehoord (advies van 1 juni 2011, no. W13.11.0151/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2011, kenmerk DWJZ/JBA&J-3071102;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
@@ -52,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- a. *wet:* de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **EBP:** Evidence Based Practice, methode van praktische beroepsuitoefening die is gebaseerd op de integratie van de best beschikbare onderzoeksresultaten, klinische ervaring en vaardigheid, voorkeuren van patiënten en de beschikbare middelen.
+- b. *EBP:* Evidence Based Practice, methode van praktische beroepsuitoefening die is gebaseerd op de integratie van de best beschikbare onderzoeksresultaten, klinische ervaring en vaardigheid, voorkeuren van patiënten en de beschikbare middelen.
 
 #### § 2. Opleiding
 
@@ -84,7 +52,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 2. De opleiding duurt ten minste drie jaar en omvat ten minste 4.600 uur theoretisch en praktisch onderwijs, waarbij de duur van het theoretisch onderwijs ten minste een derde en die van het praktisch onderwijs ten minste de helft van de minimumduur van de opleiding bedraagt.
 
-3. Het theoretische en praktische onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.2.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
+3. Het theoretische en praktische onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.2.1 van Bijlage V van richtlijn 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
 4. Een wijziging van punt 5.2.1 van Bijlage V, bedoeld in het derde lid, gaat voor de toepassing van het derde lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -108,9 +76,9 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. geïndividualiseerde verpleegkundige zorg te verlenen en de positie van patiënten, familieleden en andere relevante personen te versterken met betrekking tot zelfzorg en het leiden van een gezonde levensstijl op basis van de volgende door de betrokkene verworven kennis:
 
-- 1°. uitgebreide kennis van de wetenschappen waarop de algemene verpleegkunde is gebaseerd, met inbegrip van voldoende kennis van het organisme, de fysiologie en het gedrag van de gezonde en de zieke mens, alsmede van het verband tussen de gezondheidstoestand en de fysieke en sociale omgeving van de mens;
+   - 1°. uitgebreide kennis van de wetenschappen waarop de algemene verpleegkunde is gebaseerd, met inbegrip van voldoende kennis van het organisme, de fysiologie en het gedrag van de gezonde en de zieke mens, alsmede van het verband tussen de gezondheidstoestand en de fysieke en sociale omgeving van de mens;
 
-- 2°. kennis van de aard en de ethiek van het beroep en van de algemene beginselen betreffende gezondheid en verpleging.
+   - 2°. kennis van de aard en de ethiek van het beroep en van de algemene beginselen betreffende gezondheid en verpleging.
 
 3. Het in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is een verpleegproces in een verpleegplan vast te leggen, alsmede een eigen werkplanning te maken, voorwaarden te formuleren die wenselijk zijn voor de te verlenen zorg en efficiënt en kostenbewust om te gaan met de beschikbare materiële en financiële middelen.
 
@@ -118,9 +86,9 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - a. op het terrein van de somatische zorg in staat is tot:
 
-- 1°. het helpen van een cliënt bij persoonlijke verzorging, het zorgdragen voor de opname van voeding en vocht en voor uitscheiding, het zorgdragen voor mobiliteit en het bewaken van vitale functies, het toedienen van geneesmiddelen, het beïnvloeden van de lichaamstemperatuur en het verzorgen van wonden;
+   - 1°. het helpen van een cliënt bij persoonlijke verzorging, het zorgdragen voor de opname van voeding en vocht en voor uitscheiding, het zorgdragen voor mobiliteit en het bewaken van vitale functies, het toedienen van geneesmiddelen, het beïnvloeden van de lichaamstemperatuur en het verzorgen van wonden;
 
-- 2°. het uitvoeren van verpleegtechnische handelingen, zoals het geven van subcutane, intramusculaire en intraveneuze injecties, het verrichten van blaascatheterisaties bij volwassenen en venapuncties, het inbrengen van een maagsonde of infuus, het verrichten van een hielprik bij neonaten, het toedienen van zuurstof en het uitzuigen van mond- en keelholten;
+   - 2°. het uitvoeren van verpleegtechnische handelingen, zoals het geven van subcutane, intramusculaire en intraveneuze injecties, het verrichten van blaascatheterisaties bij volwassenen en venapuncties, het inbrengen van een maagsonde of infuus, het verrichten van een hielprik bij neonaten, het toedienen van zuurstof en het uitzuigen van mond- en keelholten;
 
 - b. op het terrein van de psychosociale zorg in staat is tot psychosociale begeleiding, waaronder het geven van voorlichting en advies aan de cliënt;
 
@@ -148,9 +116,9 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. in staat is om doeltreffend samen te werken met andere actoren in de gezondheidszorg, met inbegrip van deelname aan de praktische opleiding van het op het gebied van de gezondheidszorg werkzame personeel, op basis van:
 
-- 1°. bekwaamheid om deel te nemen aan de praktische opleiding van het op het gebied van de gezondheidszorg werkzame personeel en ervaring op het gebied van samenwerking met dit personeel;
+   - 1°. bekwaamheid om deel te nemen aan de praktische opleiding van het op het gebied van de gezondheidszorg werkzame personeel en ervaring op het gebied van samenwerking met dit personeel;
 
-- 2°. ervaring op het gebied van samenwerking met andere personen die beroepsmatig op het gebied van de gezondheidszorg werkzaam zijn.
+   - 2°. ervaring op het gebied van samenwerking met andere personen die beroepsmatig op het gebied van de gezondheidszorg werkzaam zijn.
 
 8. Het in [artikel 3, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
 
@@ -169,6 +137,10 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 2. Het praktisch onderwijs wordt gegeven in instellingen voor gezondheidszorg en andere omgevingen waar verpleegkundige zorg wordt verleend.
 
 3. In het kader van het praktisch onderwijs neemt de betrokkene deel aan de werkzaamheden voor zover deze bijdragen aan diens opleiding en de betrokkene in staat stellen de verantwoordelijkheden op zich te leren nemen die aan de verpleegkundige zorg zijn verbonden.
+
+##### Artikel 5a
+
+Het theoretisch onderwijs voor verpleegkundigen wordt gegeven door docenten in de verpleegkunde en andere bevoegde personen in een onderwijsinstelling die een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01) verzorgt.
 
 #### § 3. Overgangsregeling
 
@@ -193,15 +165,3 @@ Dit besluit treedt in werking met ingang 1 augustus 2011.
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen verpleegkundige 2011.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-Het theoretisch onderwijs voor verpleegkundigen wordt gegeven door docenten in de verpleegkunde en andere bevoegde personen in een onderwijsinstelling die een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01) verzorgt.
-
-#### § 3. Overgangsregeling
-
-#### § 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

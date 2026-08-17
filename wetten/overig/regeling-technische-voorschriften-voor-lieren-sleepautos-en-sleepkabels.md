@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van infrastructuur en milieu houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels (Regeling technische voorschriften lieren, sleepauto’s en sleepkabels)"
+citeertitel: "Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels"
 identifier: "BWBR0029692"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-03-08"
-last_updated: "2011-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029692"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11263753"
-version_id: "18446762"
-internal_id: "C25714731"
-label_id: "11238124"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029692/2011-03-08/0"
-intitule_bron: "Stcrt.2011-3919"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-28"
-intitule_published: "2011-03-07"
-intitule_in_force: "2011-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-3919"
-original_signed_date: "2011-02-28"
-original_published_date: "2011-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-3919"
-entry_into_force_date: "2011-03-08"
-jci_1_3: "jci1.3:c:BWBR0029692&z=2011-03-08&g=2011-03-08"
-jci_1_0: "1.0:c:BWBR0029692&g=2011-03-08"
-citeertitel_status: "officieel"
-short_title: "Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels"
-signed_date: "2011-02-28"
-entry_into_force: "2011-03-08"
+publicatiedatum: 2011-03-08
+laatste_update: 2011-03-08
+status: geldig
+toestand: 2011-03-08
+bron: "https://wetten.overheid.nl/BWBR0029692"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van infrastructuur en milieu houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels (Regeling technische voorschriften lieren, sleepauto’s en sleepkabels)
-
-Gelet op [artikel 21 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=21);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **lier:** installatie, ingericht voor het doen opstijgen van een zweefvliegtuig door middel van een sleepkabel, welke installatie tijdens de opstijging van het zweefvliegtuig niet van standplaats verandert en de kabel op een daartoe bestemde kabeltrommel wikkelt;
+- – *lier:* installatie, ingericht voor het doen opstijgen van een zweefvliegtuig door middel van een sleepkabel, welke installatie tijdens de opstijging van het zweefvliegtuig niet van standplaats verandert en de kabel op een daartoe bestemde kabeltrommel wikkelt;
 
-- –. **sleepauto:** zichzelf, door middel van een krachtwerktuig, voortbewegend voertuig, ingericht voor het doen opstijgen van een zweefvliegtuig door middel van een sleepkabel, dat zich tijdens de opstijging van het zweefvliegtuig in de startrichting voortbeweegt en waarbij tussen voertuig en zweefvliegtuig de volle lengte van de sleepkabel beschikbaar blijft;
+- – *sleepauto:* zichzelf, door middel van een krachtwerktuig, voortbewegend voertuig, ingericht voor het doen opstijgen van een zweefvliegtuig door middel van een sleepkabel, dat zich tijdens de opstijging van het zweefvliegtuig in de startrichting voortbeweegt en waarbij tussen voertuig en zweefvliegtuig de volle lengte van de sleepkabel beschikbaar blijft;
 
-- –. **sleepkabel:** geheel van onderdelen, dat de verbinding vormt tussen de sleephaak van het zweefvliegtuig en een lier onderscheidenlijk een sleepauto;
+- – *sleepkabel:* geheel van onderdelen, dat de verbinding vormt tussen de sleephaak van het zweefvliegtuig en een lier onderscheidenlijk een sleepauto;
 
-- –. **breukstuk:** onderdeel van een sleepkabel, dat bij een van tevoren vastgestelde belasting bezwijkt, waardoor de verbinding tussen het zweefvliegtuig en de lier onderscheidenlijk de sleepauto wordt verbroken;
+- – *breukstuk:* onderdeel van een sleepkabel, dat bij een van tevoren vastgestelde belasting bezwijkt, waardoor de verbinding tussen het zweefvliegtuig en de lier onderscheidenlijk de sleepauto wordt verbroken;
 
-- –. **lierman:** persoon die verantwoordelijk is voor de bediening van de lier;
+- – *lierman:* persoon die verantwoordelijk is voor de bediening van de lier;
 
-- –. **startman:** persoon die verantwoordelijk is voor de gang van zaken bij het doen opstijgen van een zweefvliegtuig door middel van een sleepauto.
+- – *startman:* persoon die verantwoordelijk is voor de gang van zaken bij het doen opstijgen van een zweefvliegtuig door middel van een sleepauto.
 
 ### Hoofdstuk 2. Lieren
 
@@ -146,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de kabel niet beklemd kan raken;
 
-- c. de kabel zich bij een doelmatige opstelling van de lier met het vrije einde onbelemmerd kan bewegen binnen de ruimte van de viervlakshoek, bedoeld in de bijlage bij deze regeling.
+- c. de kabel zich bij een doelmatige opstelling van de lier met het vrije einde onbelemmerd kan bewegen binnen de ruimte van de viervlakshoek, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0029692) bij deze regeling.
 
 2. De draaiende delen van de kabelgeleiding draaien onder alle omstandigheden gemakkelijk en zonder slingering.
 
@@ -186,13 +160,13 @@ In deze regeling wordt verstaan onder:
 
 9. De bewegingsrichting van de betreffende bedieningsorganen wordt beschouwd ten opzichte van de lierman en is in overeenstemming met het volgende:
 
-- –. handrem: om te remmen naar achteren;
+- – handrem: om te remmen naar achteren;
 
-- –. voetrem: om te remmen naar voren;
+- – voetrem: om te remmen naar voren;
 
-- –. handgreep of pedaal ter regeling van het motorvermogen: om het vermogen te vergroten naar voren;
+- – handgreep of pedaal ter regeling van het motorvermogen: om het vermogen te vergroten naar voren;
 
-- –. bedieningsorgaan van de kapinrichting: om te kappen naar achteren.
+- – bedieningsorgaan van de kapinrichting: om te kappen naar achteren.
 
 ##### Artikel 9. Veiligheidsmaatregelen
 
@@ -220,11 +194,11 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 - c. de kapinrichtingen zijn zodanig uitgevoerd dat deze onder alle voorkomende omstandigheden onafhankelijk van elkaar:
 
-- 1. kunnen worden bediend;
+   - 1. kunnen worden bediend;
 
-- 2. kunnen functioneren;
+   - 2. kunnen functioneren;
 
-- 3. voldoen aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=4&z=2011-03-08&g=2011-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=5&z=2011-03-08&g=2011-03-08).
+   - 3. voldoen aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=4&z=2011-03-08&g=2011-03-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=5&z=2011-03-08&g=2011-03-08).
 
 ### Hoofdstuk 3. Sleepauto’s
 
@@ -359,21 +333,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening v
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels.
-
-## Bijlage. bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=6&z=2011-03-08&g=2011-03-08)
-
-- A. invoerpunt
-
-- B. verticale zijde
-
-- C. overstaande zijde
-
-- D. lier
-
-- E. sleepkabel
-
-- F. zweefvliegtuig
-
-- G. horizontaal vlak
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

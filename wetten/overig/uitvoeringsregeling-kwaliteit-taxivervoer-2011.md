@@ -1,46 +1,18 @@
 ---
 title: "Regeling houdende uitvoeringbepalingen inzake de kwaliteit in het taxivoer (Uitvoeringsregeling kwaliteit taxivervoer 2011)"
+citeertitel: "Uitvoeringsregeling kwaliteit taxivervoer 2011"
 identifier: "BWBR0030479"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-10-01"
-last_updated: "2011-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030479"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11454573"
-version_id: "18819982"
-internal_id: "C26840321"
-label_id: "11427914"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030479/2011-10-01/0"
-intitule_bron: "Stcrt.2011-17811"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-28"
-intitule_published: "2011-09-30"
-intitule_in_force: "2011-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-17811"
-original_signed_date: "2011-09-28"
-original_published_date: "2011-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-17811"
-entry_into_force_date: "2011-10-01"
-jci_1_3: "jci1.3:c:BWBR0030479&z=2011-10-01&g=2011-10-01"
-jci_1_0: "1.0:c:BWBR0030479&g=2011-10-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling kwaliteit taxivervoer 2011"
-signed_date: "2011-09-28"
-entry_into_force: "2011-10-01"
+publicatiedatum: 2011-10-01
+laatste_update: 2011-10-01
+status: geldig
+toestand: 2011-10-01
+bron: "https://wetten.overheid.nl/BWBR0030479"
+opgehaald: 2026-08-17
 ---
+
 # Regeling houdende uitvoeringbepalingen inzake de kwaliteit in het taxivoer (Uitvoeringsregeling kwaliteit taxivervoer 2011)
-
-Gelet op de [artikel 82b, achtste, negende en tiende lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82b);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wet personenvervoer 2000 (regels ter bevordering van de kwaliteit in het taxivervoer) (Stb. 289) in werking treedt.
 
 ##### Artikel 1
 
@@ -75,5 +47,3 @@ Deze regeling treedt in werking met ingang van het tijdstip van inwerkingtreding
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kwaliteit taxivervoer 2011.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

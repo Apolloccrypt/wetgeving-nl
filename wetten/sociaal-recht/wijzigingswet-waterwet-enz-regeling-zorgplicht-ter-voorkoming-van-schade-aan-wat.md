@@ -1,55 +1,26 @@
 ---
 title: "Wet van 23 mei 2011 tot wijziging van de Waterwet en de Waterschapswet en intrekking van de wet van 18 december 1985, houdende enige voorzieningen ten behoeve van de inzet en bekostiging van muskusrattenvangers, tot regeling van de zorgplicht ter voorkoming van schade aan waterstaatswerken veroorzaakt door muskusratten en van financiële bijdragen aan verbetering van primaire waterkeringen van de waterschappen"
+citeertitel: "Wijzigingswet Waterwet, enz. (regeling zorgplicht ter voorkoming van schade aan waterstaatswerken, enz.)"
 identifier: "BWBR0030063"
-country: "nl"
-rank: "wet"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030063"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "11341873"
-version_id: "18602622"
-internal_id: "C25991811"
-label_id: "11315654"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030063/2011-07-01/0"
-intitule_bron: "Stb.2011-270"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-23"
-intitule_published: "2011-06-08"
-intitule_in_force: "2011-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2011-270"
-original_signed_date: "2011-05-23"
-original_published_date: "2011-06-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "32474"
-original_url_id: "stb-2011-270"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0030063&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0030063&g=2011-07-01"
-citeertitel_status: "officieel"
-short_title: "Wijzigingswet Waterwet, enz. (regeling zorgplicht ter voorkoming van schade aan waterstaatswerken, enz.)"
-signed_date: "2011-05-23"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0030063"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 23 mei 2011 tot wijziging van de Waterwet en de Waterschapswet en intrekking van de wet van 18 december 1985, houdende enige voorzieningen ten behoeve van de inzet en bekostiging van muskusrattenvangers, tot regeling van de zorgplicht ter voorkoming van schade aan waterstaatswerken veroorzaakt door muskusratten en van financiële bijdragen aan verbetering van primaire waterkeringen van de waterschappen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de waterschappen een bijdrage leveren aan de bekostiging van verbetering van primaire waterkeringen, en dat met het oog op een efficiëntere toedeling van taken de voorkoming van schade aan waterstaatswerken veroorzaakt door muskus- en beverratten aan hen wordt overgedragen, en dat het daarom noodzakelijk is enige voorzieningen te treffen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Waterwet.
+*Wijzigt de Waterwet.*
 
 ##### Artikel II
 
-Wijzigt de Waterschapswet.
+*Wijzigt de Waterschapswet.*
 
 ##### Artikel III
 
@@ -80,5 +51,3 @@ Onze Minister van Infrastructuur en Milieu zendt binnen vijftien maanden na de i
 ##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

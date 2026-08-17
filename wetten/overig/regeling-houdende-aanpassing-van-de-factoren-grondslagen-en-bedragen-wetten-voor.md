@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 november 2011, nr. DMO/OHW-U-3092048, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2012"
+citeertitel: "Regeling houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2012"
 identifier: "BWBR0030725"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030725"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11512953"
-version_id: "18948102"
-internal_id: "C26443211"
-label_id: "11486224"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030725/2012-01-01/0"
-intitule_bron: "Stcrt.2011-21880"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-28"
-intitule_published: "2011-12-06"
-intitule_in_force: "2011-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-21880"
-original_signed_date: "2011-11-28"
-original_published_date: "2011-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-21880"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0030725&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0030725&g=2012-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2012"
-signed_date: "2011-11-28"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0030725"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 november 2011, nr. DMO/OHW-U-3092048, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2012
-
-Gelet op de[artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31a), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28a), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=18)en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -48,11 +22,11 @@ De pensioenbedragen, [bedoeld in artikel 31b van de Wet buitengewoon pensioen 19
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en [de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden per 1 januari 2012 vastgesteld als volgt:
 
-| A pensioengrondslagen 1947 per jaar in euro | A pensioengrondslagen 1947 per jaar in euro | B welvaartstoeslag vanaf 1 januari 2012 | B welvaartstoeslag vanaf 1 januari 2012 |
+| A pensioengrondslagen 1947 per jaar in euro | B welvaartstoeslag vanaf 1 januari 2012 |  |  |
 | --- | --- | --- | --- |
-| **van** | **tot en met** |   |   |
-| 1.225,21 | 1.356,79 | 23 899,20 minus pensioengrondslag | 23 899,20 minus pensioengrondslag |
-| **van** | **tot en met** | **pensioengrondslag maal factor** | **plus extra bedrag in euro** |
+| van | tot en met |  |  |
+| 1.225,21 | 1.356,79 | 23 899,20 minus pensioengrondslag |  |
+| van | tot en met | pensioengrondslag maal factor | plus extra bedrag in euro |
 | 1.356,80 | 1.404,44 | 16,4829 | 188,00 |
 | 1.404,45 | 1.446,64 | 16,5088 | 188,00 |
 | 1.446,65 | 2.021,13 | 16,5531 | 188,00 |
@@ -109,7 +83,7 @@ De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van
 
 ##### Artikel 4
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 5
 
@@ -117,7 +91,7 @@ De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet u
 
 ##### Artikel 6
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel 7
 
@@ -125,10 +99,8 @@ De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negend
 
 ##### Artikel 8
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.*
 
 ##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

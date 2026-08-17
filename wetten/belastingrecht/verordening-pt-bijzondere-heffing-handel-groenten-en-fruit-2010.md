@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een bijzondere heffing handel groenten en fruit handel 2010 (Verordening PT bijzondere heffing handel groenten en fruit 2010)"
+citeertitel: "Verordening PT bijzondere heffing handel groenten en fruit 2010"
 identifier: "BWBR0030470"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030470"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11451313"
-version_id: "18814852"
-internal_id: "C26261631"
-label_id: "11424754"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030470/2011-09-11/0"
-intitule_bron: "Vbbo.2011-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-11"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-51"
-original_signed_date: "2009-11-11"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030470&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030470&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing handel groenten en fruit 2010"
-signed_date: "2009-11-11"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030470"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een bijzondere heffing handel groenten en fruit handel 2010 (Verordening PT bijzondere heffing handel groenten en fruit 2010)
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 20 oktober 2009;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -58,7 +29,7 @@ Besluit:
 | afzetorganisatie/bemiddelaar | : | natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde groenten en fruit verkoopt; |
 | bewerken | : | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | derde land | : | een land dat geen lid is van de Europese Unie; |
-| groenten en fruit | : | producten als bedoeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
+| groenten en fruit | : | producten als bedoeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 | handelen | : | aankopen van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan aan anderen dan consumenten voor hun persoonlijke behoeften; |
 | ondernemer | : | natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in verse of bewerkte groenten en fruit; |
 | uien | : | alle soorten uien met uitzondering van zilveruien, die behoren tot de groenten. |

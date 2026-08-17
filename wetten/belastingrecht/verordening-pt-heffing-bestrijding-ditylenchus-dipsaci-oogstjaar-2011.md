@@ -1,47 +1,18 @@
 ---
-title: "Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 [datum], houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2011 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011)"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 [datum], houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2011 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011)."
+citeertitel: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011"
 identifier: "BWBR0030442"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-08-28"
-last_updated: "2011-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030442"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11440963"
-version_id: "18794812"
-internal_id: "C26238951"
-label_id: "11414394"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030442/2011-08-28/0"
-intitule_bron: "Vbbo.2011-49"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-19"
-intitule_published: "2011-08-26"
-intitule_in_force: "2011-08-26"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-49"
-original_signed_date: "2011-05-19"
-original_published_date: "2011-08-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-08-28"
-jci_1_3: "jci1.3:c:BWBR0030442&z=2011-08-28&g=2011-08-28"
-jci_1_0: "1.0:c:BWBR0030442&g=2011-08-28"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011"
-signed_date: "2011-05-19"
-entry_into_force: "2011-08-28"
+publicatiedatum: 2011-08-28
+laatste_update: 2011-08-28
+status: geldig
+toestand: 2011-08-28
+bron: "https://wetten.overheid.nl/BWBR0030442"
+opgehaald: 2026-08-17
 ---
-# Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 [datum], houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2011 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011)
 
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 10 mei 2011.
-
-BESLUIT:
+# Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 [datum], houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2011 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2011).
 
 #### § 1. Begripsbepalingen
 

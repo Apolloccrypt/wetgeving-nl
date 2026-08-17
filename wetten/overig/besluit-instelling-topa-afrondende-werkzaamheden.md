@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties tot instelling van het Team Ondersteuning Participatie in Antillianengemeenten (TOPA) ten behoeve van afrondende werkzaamheden (instellingsbesluit TOPA afrondende werkzaamheden)"
+citeertitel: "Besluit instelling TOPA afrondende werkzaamheden"
 identifier: "BWBR0030256"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-07-16"
-last_updated: "2011-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030256"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11395373"
-version_id: "18703132"
-internal_id: "C26095701"
-label_id: "11369014"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030256/2011-07-16/0"
-intitule_bron: "Stcrt.2011-12665"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-06"
-intitule_published: "2011-07-14"
-intitule_in_force: "2011-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-12665"
-original_signed_date: "2011-07-06"
-original_published_date: "2011-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-12665"
-entry_into_force_date: "2011-07-16"
-jci_1_3: "jci1.3:c:BWBR0030256&z=2011-07-16&g=2011-07-16"
-jci_1_0: "1.0:c:BWBR0030256&g=2011-07-16"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling TOPA afrondende werkzaamheden"
-signed_date: "2011-07-06"
-entry_into_force: "2011-07-16"
+publicatiedatum: 2011-07-16
+laatste_update: 2011-07-16
+status: geldig
+toestand: 2011-07-16
+bron: "https://wetten.overheid.nl/BWBR0030256"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties tot instelling van het Team Ondersteuning Participatie in Antillianengemeenten (TOPA) ten behoeve van afrondende werkzaamheden (instellingsbesluit TOPA afrondende werkzaamheden)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **TOPA afrondende werkzaamheden:** het Team Ondersteuning Participatie in Antillianengemeenten voor de periode 1 april 2011 tot en met 31 december 2011;
+- b. *TOPA afrondende werkzaamheden:* het Team Ondersteuning Participatie in Antillianengemeenten voor de periode 1 april 2011 tot en met 31 december 2011;
 
-- c. **Antillianengemeenten:** de gemeenten Almere, Amersfoort, Amsterdam, Breda, Capelle a/d IJssel, Dordrecht, Den Haag, Den Helder, Eindhoven, Groningen, Hellevoetsluis, Leeuwarden, Lelystad, Nijmegen, Rotterdam, Schiedam, Spijkenisse, Tilburg, Vlaardingen, Vlissingen, Zoetermeer en Zwolle.
+- c. *Antillianengemeenten:* de gemeenten Almere, Amersfoort, Amsterdam, Breda, Capelle a/d IJssel, Dordrecht, Den Haag, Den Helder, Eindhoven, Groningen, Hellevoetsluis, Leeuwarden, Lelystad, Nijmegen, Rotterdam, Schiedam, Spijkenisse, Tilburg, Vlaardingen, Vlissingen, Zoetermeer en Zwolle.
 
 ##### Artikel 2. Instelling TOPA
 
@@ -123,5 +97,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit instelling TOPA afrondende werkzaamheden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,49 +1,27 @@
 ---
 title: "Circulaire Werkkostenregeling Appa, vervallen gratificatie voorzitter en aanpassing procedure bij ziekte voorzitter"
 identifier: "BWBR0029754"
-country: "nl"
-rank: "circulaire"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029754"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "11277543"
-version_id: "18471232"
-internal_id: "C25755841"
-label_id: "11251794"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029754/2011-01-01/0"
-intitule_bron: "Stcrt.2011-4927"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-08"
-intitule_published: "2011-03-23"
-intitule_in_force: "2011-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-4927"
-original_signed_date: "2011-03-08"
-original_published_date: "2011-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-4927"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029754&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0029754&g=2011-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2011-03-08"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0029754"
+opgehaald: 2026-08-17
 ---
+
 # Circulaire Werkkostenregeling Appa, vervallen gratificatie voorzitter en aanpassing procedure bij ziekte voorzitter
 
 ### 1. Inleiding
 
 Per 1 januari 2011 is een nieuwe fiscale regeling ingevoerd; de zogenaamde werkkostenregeling die voortvloeit uit de [Fiscale vereenvoudigingswet 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026981) (Stb. 2010, 611). Deze werkkostenregeling vervangt m.i.v. 1 januari 2011 het systeem van vrije vergoedingen en verstrekkingen.
 
-In **paragraaf 2** wordt ingegaan op verschillende aspecten van deze fiscaaltechnische exercitie.
+In *paragraaf 2* wordt ingegaan op verschillende aspecten van deze fiscaaltechnische exercitie.
 
 Bij mijn circulaire van 9 december 2010 met als onderwerp ‘Wijziging van de vergoeding van een lid van het algemeen bestuur, informatie over bezoldiging en eindejaarsuitkering van een lid van het dagelijks bestuur en informatie over de bezoldiging, de ambtstoelage en de eindejaarsuitkering van een voorzitter’, heb ik u (onder ‘Algemene informatie’) gewezen op de invoering van deze werkkostenregeling. Daarbij heb ik tevens aangegeven dat er een algemene maatregel van bestuur in voorbereiding was, waarmee de rechtspositiebesluiten van politieke ambtsdragers zodanig zouden worden gewijzigd dat het voor waterschappen lokaal mogelijk is om voorzieningen van hun politieke ambtsdragers gelijktijdig met die van hun ambtenaren aan te wijzen als eindheffingsbestanddeel binnen de werkkostenregeling.
 
-Op 4 januari 2011 is deze algemene maatregel van bestuur gepubliceerd als het [Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407) (Stb. 2011, 5). Het besluit heeft terugwerkende kracht tot 1 januari 2011. De in dit besluit genoemde bedragen zijn de bedragen die golden voor het jaar 2010. Deze bedragen zijn voor 2011 gewijzigd bij ministeriële regeling van 14 december 2010 (Stcrt. 2010, 20751). De in de ministeriële regeling van 14 december 2010 opgesomde bedragen die per 1 januari 2011 gelden, zijn echter afhankelijk van de keuze van de gemeente om al dan niet de werkkostenregeling toe te passen (waarover meer in **paragraaf 2**). Hierover bent u onlangs ook geïnformeerd door de Unie van Waterschappen.
+Op 4 januari 2011 is deze algemene maatregel van bestuur gepubliceerd als het [Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407) (Stb. 2011, 5). Het besluit heeft terugwerkende kracht tot 1 januari 2011. De in dit besluit genoemde bedragen zijn de bedragen die golden voor het jaar 2010. Deze bedragen zijn voor 2011 gewijzigd bij ministeriële regeling van 14 december 2010 (Stcrt. 2010, 20751). De in de ministeriële regeling van 14 december 2010 opgesomde bedragen die per 1 januari 2011 gelden, zijn echter afhankelijk van de keuze van de gemeente om al dan niet de werkkostenregeling toe te passen (waarover meer in *paragraaf 2*). Hierover bent u onlangs ook geïnformeerd door de Unie van Waterschappen.
 
 Met de werkkostenregeling is voor de inhoudingsplichtige voor de loonbelasting (in casu het waterschap) een grotere flexibiliteit mogelijk om aan al haar werknemers (en daarmee ook de politieke ambtsdragers) vergoedingen en verstrekkingen te geven zonder dat zij daar fiscale gevolgen van ondervinden. Kort gezegd, kunnen bepaalde vergoedingen en verstrekkingen worden aangemerkt als eindheffingsbestanddeel en is er sprake van een forfaitaire vrijstelling. Pas als het bedrag aan vergoedingen en verstrekkingen boven die vrijstelling uitkomt, moet de werkgever belasting betalen over dat gedeelte dat boven de forfaitaire vrijstelling uitkomt.
 
@@ -51,11 +29,15 @@ Declaraties in de zin van uitgaven in opdracht en voor rekening van de werkgever
 
 Tot 1 januari 2014 heeft een waterschap elk kalenderjaar de keuzemogelijkheid om niet de werkkostenregeling toe te passen, maar het regime te blijven uitvoeren dat gold tot en met 2010.
 
-In **paragraaf 2a** wordt ingegaan op deze keuzemogelijkheid en op de situatie dat het waterschap nog niet kiest voor de werkkostenregeling.
+In *paragraaf 2a* wordt ingegaan op deze keuzemogelijkheid en op de situatie dat het waterschap nog niet kiest voor de werkkostenregeling.
 
-**In paragraaf 2b** wordt de fiscale behandeling van vergoedingen en verstrekkingen uiteengezet voor voorzitters van een waterschap, leden van het dagelijks bestuur en leden van het algemeen bestuur. Ook hier wordt onderscheid gemaakt tussen de situatie dat het waterschap wel heeft gekozen voor de werkkostenregeling en de situatie dat dit (nog) niet is gebeurd.
+*In paragraaf 2b* wordt de fiscale behandeling van vergoedingen en verstrekkingen uiteengezet voor voorzitters van een waterschap, leden van het dagelijks bestuur en leden van het algemeen bestuur. Ook hier wordt onderscheid gemaakt tussen de situatie dat het waterschap wel heeft gekozen voor de werkkostenregeling en de situatie dat dit (nog) niet is gebeurd.
 
 Verder wordt de aandacht gevestigd op een aantal andere wijzigingen dat eveneens uit het [Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407) voortvloeit:
+
+- a. het vervallen van de gratificatie van voorzitters van een waterschap per 1 januari 2015;
+
+- b. aanpassing procedure ingeval van ziekte van de voorzitter van een waterschap.
 
 In paragraaf 3 wordt op genoemde twee onderwerpen nader ingegaan. Er zijn meer wijzigingen in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029407) opgenomen, maar deze hebben veelal een technisch karakter.
 
@@ -99,6 +81,10 @@ Die forfaitaire vrijstelling bedraagt 1,4% van de fiscale loonsom over een kalen
 
 De loonsom waarop het forfait van een waterschap gebaseerd wordt, bestaat dus uit:
 
+- a. het fiscale loon van alle ambtenaren van het waterschap plus
+
+- b. het fiscale loon van de politieke ambtsdragers.
+
 Dat politieke ambtsdragers onder de werkkostenregeling vallen, betekent dus enerzijds dat het nominale forfait groter wordt. Anderzijds wordt een deel van het forfait mogelijk ook gevuld met vergoedingen en verstrekkingen die waterschappen toekennen aan politieke ambtsdragers als gevolg van de rechtspositionele verplichting die als eindheffingsbestanddeel aan te merken.
 
 Voor zover de forfaitaire ruimte van 1,4% over de totale loonsom die het waterschap aan loon uitkeert, niet volledig is benut, hoeft het waterschap over deze vergoedingen geen loonbelasting af te dragen. In het geval het forfait wordt overschreden, vindt over het meerdere (boven het algemene forfait en voor zover niet onder een gerichte vrijstelling vallend) een eindheffing ten laste van het waterschap plaats van 80%. De eindheffing is dus afhankelijk van de vraag of het pakket aan aangewezen vergoedingen en verstrekkingen in het waterschap blijft binnen de grenzen van het forfait van 1,4%.
@@ -107,11 +93,23 @@ Voor de loonbelasting zijn politieke ambtsdragers ook werknemer waarvoor het wat
 
 De volgende elementen zijn op basis van het [Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025) aangewezen als eindheffingsbestanddeel voor de loonbelasting, zoals bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31):
 
+- a. de ambtstoelage van de voorzitter;
+
+- b. de verstrekking van computer- en communicatieapparatuur en dergelijke;
+
+- c. de vergoeding voor de aanleg- en de abonnementskosten voor de internetverbinding.
+
 Afwijking van deze onderdelen is niet mogelijk. In het kader van de werkkostenregeling is het niet meer nodig de verschuldigde belasting over dergelijke verstrekkingen voor vergoeding in aanmerking te laten komen. De belasting wordt dan immers niet meer op de vergoeding ingehouden, maar komt rechtstreeks voor rekening van het waterschap. Dit is te vinden in [artikel 3.26a van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=3.26a).
 
 Binnen de werkkostenregeling geldt voor een aantal vormen van loon in natura een zogenaamde nihilwaardering. Feitelijk wordt over deze elementen dus geen belasting geheven. Daardoor leggen deze elementen geen beslag op de forfaitaire ruimte van 1,4% van de totale loonsom. De belastingdienst bepaalt welke elementen onder deze categorie vallen.
 
 Het betreft onder andere:
+
+- a. voorzieningen op de werkplek zoals het gebruik van de vaste computer, het kopieerapparaat en de vaste telefoon;
+
+- b. arbo-voorzieningen en
+
+- c. consumpties op de werkplek die geen deel uitmaken van een maaltijd.
 
 Ook voor mobiele telefoons en portable computers, zoals notebooks en laptops, geldt een nihilwaardering, maar uitsluitend indien voldaan wordt aan de voorgeschreven mate van zakelijk gebruik. De computer mag op nihil worden gewaardeerd als deze voor 90% of meer zakelijk word gebruikt. Ook communicatieapparatuur mag op nihil worden gewaardeerd als deze voor 10% of meer zakelijk wordt gebruikt.
 
@@ -142,5 +140,3 @@ Hiervoor is gekozen, omdat bij waterschapsvoorzitters niet alleen arbeidsrechtel
 ### 4. Ten slotte
 
 Voor eventuele nadere vragen kunt u ook contact opnemen met het ministerie van BZK via postbus.helpdeskpa@minbzk.nl.
-
-## Bijlage

@@ -1,43 +1,51 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing groenten en fruit teelt 2009 (Verordening PT bijzondere heffing teelt groenten en fruit 2009)"
+citeertitel: "Verordening PT bijzondere heffing teelt groenten en fruit 2009"
 identifier: "BWBR0030491"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030491"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11457063"
-version_id: "18825412"
-internal_id: "C26277061"
-label_id: "11430504"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030491/2011-09-11/0"
-intitule_bron: "Vbbo.2011-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-03-24"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-52"
-original_signed_date: "2009-03-24"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030491&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030491&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt groenten en fruit 2009"
-signed_date: "2009-03-24"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030491"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing groenten en fruit teelt 2009 (Verordening PT bijzondere heffing teelt groenten en fruit 2009)
 
 #### § 1. Begripsbepalingen
 
-#### § 1. Begripsbepalingen
+##### Artikel 1
+
+1. Deze verordening verstaat onder:
+
+| productschap | : | Productschap Tuinbouw; |
+| --- | --- | --- |
+| bestuur | : | bestuur van het productschap; |
+| voorzitter | : | voorzitter van het productschap; |
+| secretaris | : | secretaris van het productschap; |
+| braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
+| contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler |
+| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
+| groenten en fruit | : | vermeld in artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw; |
+| Ondernemer | : | elk afzonderlijk natuurlijk- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
+| telen | : | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen; |
+| uitgangsmateriaal | : | opkweekmateriaal voor groentenplanten zowel onder glas als vollegrond, alsmede groentezaden m.u.v. aardbeiplanten; |
+| are | : | komt overeen met 100 m2; |
+| ha | : | hectare, komt overeen met 10.000 m2. |
+
+2. Deze verordening is niet van toepassing op de teelt van uien
+
+#### § 2. Heffingsplicht
+
+##### Artikel 2
+
+1. De ondernemer die een onderneming drijft waarin groenten en fruit worden geteeld, is verplicht aan het productschap jaarlijks een heffing te betalen. Uit de opbrengst van deze heffing worden projecten ten behoeve van de teelt van groenten en fruit gefinancierd.
+
+2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Landbouw Natuurbeheer en Voedselkwaliteit verstrekte gegevens, of op basis van de bij of krachtens de [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738) aan het productschap verstrekte gegevens.
 
 #### § 3. Grondslag en hoogte
 
@@ -45,9 +53,9 @@ entry_into_force: "2011-09-11"
 
 1. De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen. De heffing wordt berekend naar de oppervlakte van de bij onderneming behorende cultuurgrond en bedraagt voor:
 
-|   | Productgroep | Tarief Bijz. | Eenh. |
+|  | Productgroep | Tarief Bijz. | Eenh. |
 | --- | --- | --- | --- |
-| **Glasgroenten** |   |   |   |
+| Glasgroenten |  |  |  |
 | Aubergines | 618 | 10,62 | are |
 | Komkommers | 605 | 10,62 | are |
 | Paprika - Gele paprika | 633 | 10,62 | are |
@@ -58,8 +66,8 @@ entry_into_force: "2011-09-11"
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 10,62 | are |
 | Tomaten - Cherry-tomaten | 606 | 10,62 | are |
 | Overige groenten (inclusief meloenen) | 621 | 5,92 | are |
-|   |   |   |   |
-| **Vollegrondsgroenten** |   |   |   |
+|  |  |  |  |
+| Vollegrondsgroenten |  |  |  |
 | Erwten groen te oogsten | 244 | 12,71 | ha |
 | Suikermaïs | 814 | 24,96 | ha |
 | Tuinbonen (groen te oogsten) | 854 | 12,71 | ha |
@@ -110,8 +118,8 @@ entry_into_force: "2011-09-11"
 | Witlof in bakken | 585 | 1,49 | m2 |
 | Aardbeien onder glas | 610 | 9,32 | are |
 | Aardbeien plastic tunnel | 611 | 9,32 | are |
-|   |   |   |   |
-| **Fruit** |   |   |   |
+|  |  |  |  |
+| Fruit |  |  |  |
 | Amandelen | 1696 | 36,36 | ha |
 | Hazelnoten | 1697 | 36,36 | ha |
 | Walnoten | 1698 | 36,36 | ha |
@@ -127,8 +135,8 @@ entry_into_force: "2011-09-11"
 | Overig kleinfruit | 500 | 307,70 | ha |
 | Overige pit- en steenvrucht | 501 | 163,69 | ha |
 | Fruit onder glas | 635 | 7,49 | are |
-|   |   |   |   |
-| **Champignons** |   |   |   |
+|  |  |  |  |
+| Champignons |  |  |  |
 | Oppervlakte met de hand geoogst | 702 | 0,87 | m2 |
 | Oppervlakte machinaal geoogst | 703 | 0,87 | m2 |
 
@@ -151,49 +159,6 @@ entry_into_force: "2011-09-11"
 2. Cultuurgrond wordt gerekend naar de gemeten maat.
 
 3. De belasting van gedeelten van groepen met als eenheid hectare of are is evenredig aan de voor die groepen bedoelde bedragen. Gedeelten van een hectare of are worden naar beneden afgerond, tot een veelvoud van respectievelijk are en centiare.
-
-#### § 3. Grondslag en hoogte
-
-#### § 5. Slotbepalingen
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 24 februari 2009.
-
-Besluit:
-
-##### Artikel 1
-
-1. Deze verordening verstaat onder:
-
-| productschap | : | Productschap Tuinbouw; |
-| --- | --- | --- |
-| bestuur | : | bestuur van het productschap; |
-| voorzitter | : | voorzitter van het productschap; |
-| secretaris | : | secretaris van het productschap; |
-| braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
-| contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler |
-| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030491&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030491&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
-| gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| groenten en fruit | : | vermeld in [artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
-| Ondernemer | : | elk afzonderlijk natuurlijk- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
-| telen | : | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen; |
-| uitgangsmateriaal | : | opkweekmateriaal voor groentenplanten zowel onder glas als vollegrond, alsmede groentezaden m.u.v. aardbeiplanten; |
-| are | : | komt overeen met 100 m2; |
-| ha | : | hectare, komt overeen met 10.000 m2. |
-
-2. Deze verordening is niet van toepassing op de teelt van uien
-
-#### § 2. Heffingsplicht
-
-##### Artikel 2
-
-1. De ondernemer die een onderneming drijft waarin groenten en fruit worden geteeld, is verplicht aan het productschap jaarlijks een heffing te betalen. Uit de opbrengst van deze heffing worden projecten ten behoeve van de teelt van groenten en fruit gefinancierd.
-
-2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Landbouw Natuurbeheer en Voedselkwaliteit verstrekte gegevens, of op basis van de bij of krachtens de [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738) aan het productschap verstrekte gegevens.
 
 #### § 4. Oplegging en inning
 

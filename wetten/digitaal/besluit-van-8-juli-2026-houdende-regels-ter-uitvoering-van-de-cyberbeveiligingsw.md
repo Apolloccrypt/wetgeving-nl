@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052875"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Besluit van 8 juli 2026, houdende regels ter uitvoering van de Cyberbeveiligingswet en tot vaststelling van het tijdstip van inwerkingtreding van de Cyberbeveiligingswet (Cyberbeveiligingsbesluit)

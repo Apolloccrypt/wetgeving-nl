@@ -1,45 +1,17 @@
 ---
 title: "Regeling DNA-onderzoek in strafzaken"
 identifier: "BWBR0030748"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-27"
-last_updated: "2018-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030748"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11523343"
-version_id: "18967562"
-internal_id: "C26466301"
-label_id: "11496614"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030748/2018-02-27/0"
-intitule_bron: "Stcrt.2001-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-17"
-intitule_published: "2001-10-19"
-intitule_in_force: "2001-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-203"
-original_signed_date: "2001-10-17"
-original_published_date: "2001-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-203-p14-SC31391"
-entry_into_force_date: "2001-11-01"
-jci_1_3: "jci1.3:c:BWBR0030748&z=2018-02-27&g=2018-02-27"
-jci_1_0: "1.0:c:BWBR0030748&g=2018-02-27"
-citeertitel_status: "officieel"
-signed_date: "2001-10-17"
-entry_into_force: "2001-11-01"
+publicatiedatum: 2001-11-01
+laatste_update: 2018-02-27
+status: geldig
+toestand: 2018-02-27
+bron: "https://wetten.overheid.nl/BWBR0030748"
+opgehaald: 2026-08-17
 ---
+
 # Regeling DNA-onderzoek in strafzaken
-
-Gelet op de [artikelen 2, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=2), [3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=4), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=8), en [11, tweede lid, van het Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=11),
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit DNA-onderzoek in strafzaken in werking treedt.
 
 ##### Artikel 1
 
@@ -77,7 +49,7 @@ Tijdens het afnemen van celmateriaal, bedoeld in de [artikelen 2 tot en met 4](h
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -100,5 +72,3 @@ Deze regeling treedt in werking met ingang van de dag waarop het [Besluit DNA-on
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling DNA-onderzoek in strafzaken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,51 +1,22 @@
 ---
 title: "Wet van 1 december 2011 tot wijziging van de Wet op het financieel toezicht in verband met introductie van een meldingsplicht voor bepaalde cash settled instrumenten"
+citeertitel: "Wijzigingswet Wet op het financieel toezicht (introductie meldingsplicht bepaalde cash settled instrumenten)"
 identifier: "BWBR0030845"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030845"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "11545143"
-version_id: "19011372"
-internal_id: "C26710631"
-label_id: "11518274"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030845/2012-01-01/0"
-intitule_bron: "Stb.2011-611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-01"
-intitule_published: "2011-12-20"
-intitule_in_force: "2011-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2011-611"
-original_signed_date: "2011-12-01"
-original_published_date: "2011-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "32783"
-original_url_id: "stb-2011-611"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0030845&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0030845&g=2012-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op het financieel toezicht (introductie meldingsplicht bepaalde cash settled instrumenten)"
-signed_date: "2011-12-01"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0030845"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 1 december 2011 tot wijziging van de Wet op het financieel toezicht in verband met introductie van een meldingsplicht voor bepaalde cash settled instrumenten
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) te wijzigen in verband met introductie van een meldingsplicht voor bepaalde cash settled instrumenten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
@@ -59,14 +30,12 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel IIa
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt deze wet.
+2. *Wijzigt deze wet.*
 
-3. Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (naar aanleiding advies Monitoring Commissie Corporate Governance Code 30 mei 2007)(Kst. 32014).
+3. *Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (naar aanleiding advies Monitoring Commissie Corporate Governance Code 30 mei 2007)(Kst. 32014).*
 
 ##### Artikel III
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

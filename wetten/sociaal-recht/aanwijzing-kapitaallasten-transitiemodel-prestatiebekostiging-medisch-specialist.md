@@ -1,44 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3081217, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
+citeertitel: "Aanwijzing kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
 identifier: "BWBR0030586"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030586"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11486173"
-version_id: "18892082"
-internal_id: "C26358631"
-label_id: "11459604"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030586/2012-01-01/0"
-intitule_bron: "Stcrt.2011-19621"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-26"
-intitule_published: "2011-11-02"
-intitule_in_force: "2011-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19621"
-original_signed_date: "2011-09-26"
-original_published_date: "2011-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-19621"
-entry_into_force_date: "2011-11-02"
-jci_1_3: "jci1.3:c:BWBR0030586&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0030586&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
-signed_date: "2011-09-26"
-entry_into_force: "2011-11-02"
+publicatiedatum: 2011-11-02
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0030586"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3081217, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake kapitaallasten transitiemodel prestatiebekostiging medisch specialistische zorg 2012
-
-Onder verwijzing naar de considerans van de [Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072825, van 29 juli 2011 inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012 (Stcrt. 2011, 13950)](https://wetten.overheid.nl/jci1.3:c:BWBR0030318);
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** de minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **aanwijzing transitiemodel:** de [Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072825, van 29 juli 2011 inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012 (Stcrt. 2011, 13950)](https://wetten.overheid.nl/jci1.3:c:BWBR0030318);
+- d. *aanwijzing transitiemodel:* de [Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072825, van 29 juli 2011 inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012 (Stcrt. 2011, 13950)](https://wetten.overheid.nl/jci1.3:c:BWBR0030318);
 
-- e. **transitiemodel prestatiebekostiging:** het transitiemodel geschetst in de aanwijzing transitiemodel;
+- e. *transitiemodel prestatiebekostiging:* het transitiemodel geschetst in de aanwijzing transitiemodel;
 
-- f. **transitiebedrag:** bedrag als bedoeld in [artikel 5 van de aanwijzing transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&artikel=5);
+- f. *transitiebedrag:* bedrag als bedoeld in [artikel 5 van de aanwijzing transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&artikel=5);
 
-- g. **verrekenbedrag:** bedrag als bedoeld in [artikel 6 van de aanwijzing transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&artikel=6);
+- g. *verrekenbedrag:* bedrag als bedoeld in [artikel 6 van de aanwijzing transitiemodel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&artikel=6);
 
-- h. **aanwijzing overgangsregeling kapitaallasten:** de [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen van 22 juni 2010 (Stcrt. 2010, nr. 10255)](https://wetten.overheid.nl/jci1.3:c:BWBR0027853);
+- h. *aanwijzing overgangsregeling kapitaallasten:* de [Aanwijzing inzake overgangsregeling kapitaallasten algemene en academische ziekenhuizen van 22 juni 2010 (Stcrt. 2010, nr. 10255)](https://wetten.overheid.nl/jci1.3:c:BWBR0027853);
 
-- i. **overgangsregeling kapitaallasten:** de overgangsregeling kapitaallasten als bedoeld in de aanwijzing overgangsregeling kapitaallasten.
+- i. *overgangsregeling kapitaallasten:* de overgangsregeling kapitaallasten als bedoeld in de aanwijzing overgangsregeling kapitaallasten.
 
 ##### Artikel 2. opdrachtverlening
 

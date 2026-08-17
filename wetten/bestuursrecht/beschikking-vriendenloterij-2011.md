@@ -1,76 +1,44 @@
 ---
 title: "Beschikking van de Staatssecretaris van Veiligheid en Justitie van 17 december 2010, nr. 5664428/10/DSP, houdende verlening van een vergunning tot het organiseren van de Vriendenloterij"
+citeertitel: "Beschikking Vriendenloterij 2011"
 identifier: "BWBR0029744"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-08-06"
-last_updated: "2013-08-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029744"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "11275013"
-version_id: "18465362"
-internal_id: "C25746221"
-label_id: "11249274"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029744/2013-08-06/0"
-intitule_bron: "Stcrt.2010-21234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-12-17"
-intitule_published: "2010-12-28"
-intitule_in_force: "2010-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-21234"
-original_signed_date: "2010-12-17"
-original_published_date: "2010-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-21234"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0029744&z=2013-08-06&g=2013-08-06"
-jci_1_0: "1.0:c:BWBR0029744&g=2013-08-06"
-citeertitel_status: "officieel"
-short_title: "Beschikking Vriendenloterij 2011"
-signed_date: "2010-12-17"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2013-08-06
+status: geldig
+toestand: 2013-08-06
+bron: "https://wetten.overheid.nl/BWBR0029744"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 17 december 2010, nr. 5664428/10/DSP, houdende verlening van een vergunning tot het organiseren van de Vriendenloterij
-
-Overwegende dat de geldigheidsduur van de Beschikking Vriendenloterij 2006 op 31 december 2010 verstrijkt;
-
-Overwegende dat Vriendenloterij N.V. op 24 juni 2010 heeft verzocht haar opnieuw vergunning te verlenen tot het organiseren van de Vriendenloterij;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=5) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2) en [5 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2);
-
-Gezien het advies van het College van toezicht op de kansspelen van 19 augustus 2010, nr. C.668/10;
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **het besluit:** het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067);
+- b. *het besluit:* het [Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067);
 
-- c. **de staatssecretaris:** de Staatssecretaris van Veiligheid en Justitie;
+- c. *de staatssecretaris:* de Staatssecretaris van Veiligheid en Justitie;
 
-- d. **de vennootschap:** Vriendenloterij N.V., gevestigd te Amsterdam;
+- d. *de vennootschap:* Vriendenloterij N.V., gevestigd te Amsterdam;
 
-- e. **de holding:** Holding Nationale Goede Doelen Loterijen N.V., gevestigd te Amsterdam;
+- e. *de holding:* Holding Nationale Goede Doelen Loterijen N.V., gevestigd te Amsterdam;
 
-- f. **de stichting aandelen:** Stichting Aandelen Nationale Goede Doelen Loterijen, gevestigd te Amsterdam;
+- f. *de stichting aandelen:* Stichting Aandelen Nationale Goede Doelen Loterijen, gevestigd te Amsterdam;
 
-- g. **begunstigden:** de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2013-08-06&g=2013-08-06), toegelaten instellingen;
+- g. *begunstigden:* de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029744&artikel=13&z=2013-08-06&g=2013-08-06), toegelaten instellingen;
 
-- h. **Vriendenloterij:** een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Vriendenloterij wordt gespeeld als de ‘Vriendenloterij’ waarvan de deelnemers meedoen middels aan hen toegekend lotnummer, waarbij het mobiele nummer van de deelnemer beginnend met 06 dan wel een fictief toegewezen nummer, aangevuld met twee letters, deel uitmaakt van het lotnummer;
+- h. *Vriendenloterij:* een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Vriendenloterij wordt gespeeld als de ‘Vriendenloterij’ waarvan de deelnemers meedoen middels aan hen toegekend lotnummer, waarbij het mobiele nummer van de deelnemer beginnend met 06 dan wel een fictief toegewezen nummer, aangevuld met twee letters, deel uitmaakt van het lotnummer;
 
-- i. **sponsorcertificaat:** deelnemingsbewijs aan de Vriendenloterij, dat werd verstrekt aan degene die een terug te vorderen bedrag van € 453,78 aan de vennootschap heeft voldaan. Vanaf 1 mei 1999 is deze deelnamemogelijkheid beëindigd;
+- i. *sponsorcertificaat:* deelnemingsbewijs aan de Vriendenloterij, dat werd verstrekt aan degene die een terug te vorderen bedrag van € 453,78 aan de vennootschap heeft voldaan. Vanaf 1 mei 1999 is deze deelnamemogelijkheid beëindigd;
 
-- j. **toegevoegd spel:** een gelegenheid als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaraan de deelnemers aan de Vriendenloterij kunnen deelnemen middels door de vennootschap om niet verstrekte deelnemingsbewijzen;
+- j. *toegevoegd spel:* een gelegenheid als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaraan de deelnemers aan de Vriendenloterij kunnen deelnemen middels door de vennootschap om niet verstrekte deelnemingsbewijzen;
 
-- k. **het college:** het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+- k. *het college:* het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
 ##### Artikel 2
 

@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2011, nr. WJZ/303095 (2770), houdende het geven van regels voor het beslechten van geschillen tussen de deelnemers van het samenwerkingsverband zorg door een geschillencommissie (Regeling geschillen zorg BES)"
+citeertitel: "Regeling geschillen zorg BES"
 identifier: "BWBR0030073"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-08-01"
-last_updated: "2011-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030073"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-BES"
-stam_id: "11346613"
-version_id: "18611552"
-internal_id: "C25966371"
-label_id: "11320424"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030073/2011-08-01/0"
-intitule_bron: "Stcrt.2011-9998"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-27"
-intitule_published: "2011-06-09"
-intitule_in_force: "2011-06-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-9998"
-original_signed_date: "2011-05-27"
-original_published_date: "2011-06-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-9998"
-entry_into_force_date: "2011-08-01"
-jci_1_3: "jci1.3:c:BWBR0030073&z=2011-08-01&g=2011-08-01"
-jci_1_0: "1.0:c:BWBR0030073&g=2011-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling geschillen zorg BES"
-signed_date: "2011-05-27"
-entry_into_force: "2011-08-01"
+publicatiedatum: 2011-08-01
+laatste_update: 2011-08-01
+status: geldig
+toestand: 2011-08-01
+bron: "https://wetten.overheid.nl/BWBR0030073"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2011, nr. WJZ/303095 (2770), houdende het geven van regels voor het beslechten van geschillen tussen de deelnemers van het samenwerkingsverband zorg door een geschillencommissie (Regeling geschillen zorg BES)
-
-Gelet op [artikel 26, zesde lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26), [artikel 67, zesde lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=67), en [artikel 3.2, zesde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of het bestuur van het projectbureau, bedoeld in de [Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506) dan wel het bestuur van het expertisecentrum onderwijszorg, bedoeld in deze wetten;
+- *bevoegd gezag:* bevoegd gezag als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of het bestuur van het projectbureau, bedoeld in de [Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506) dan wel het bestuur van het expertisecentrum onderwijszorg, bedoeld in deze wetten;
 
-- **geschillencommissie:** de geschillencommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030073&artikel=2&z=2011-08-01&g=2011-08-01);
+- *geschillencommissie:* de geschillencommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030073&artikel=2&z=2011-08-01&g=2011-08-01);
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **Rijksvertegenwoordiger:** Rijksvertegenwoordiger voor de openbare lichamen; samenwerkingsverband: samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26), [artikel 67 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=67), en [artikel 3.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.2).
+- *Rijksvertegenwoordiger:* Rijksvertegenwoordiger voor de openbare lichamen; samenwerkingsverband: samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26), [artikel 67 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=67), en [artikel 3.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.2).
 
 ##### Artikel 2. De geschillencommissie
 
@@ -137,5 +111,3 @@ Deze regeling treedt in werking met ingang van 1 augustus 2011.
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling geschillen zorg BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

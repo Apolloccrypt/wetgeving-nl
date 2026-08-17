@@ -1,102 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U- 3072825, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
+citeertitel: "Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
 identifier: "BWBR0030318"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030318"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11415803"
-version_id: "18739362"
-internal_id: "C26143911"
-label_id: "11389594"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030318/2014-04-01/0"
-intitule_bron: "Stcrt.2011-13950"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-21"
-intitule_published: "2011-07-29"
-intitule_in_force: "2011-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-13950"
-original_signed_date: "2011-07-21"
-original_published_date: "2011-07-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-13950"
-entry_into_force_date: "2011-07-29"
-jci_1_3: "jci1.3:c:BWBR0030318&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0030318&g=2014-04-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
-signed_date: "2011-07-21"
-entry_into_force: "2011-07-29"
+publicatiedatum: 2011-07-29
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0030318"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U- 3072825, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012
-
-Overwegende dat het wenselijk is de functiegerichte budgettering voor instellingen voor medisch specialistische zorg en de bekostiging op basis van begrotingsfinanciering van audiologische centra te beëindigen en mede met het oog op de macrobudgettaire gevolgen zorgvuldig geleidelijk over te gaan naar een systeem van prestatiebekostiging;
-
-Overwegende dat de invoering van prestatiebekostiging en een stabiele productstructuur essentieel is voor een stelsel waarin zorgaanbieders en zorgverzekeraars met elkaar onderhandelen over kwaliteit, prijs en volume, selectieve contractering door zorgverzekeraars toeneemt en aanbieders daadwerkelijk worden afgerekend op geleverde prestaties;
-
-Overwegende dat met de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland en Zorgverzekeraars Nederland mede vanwege de gezamenlijk gevoelde verantwoordelijkheid bij te dragen aan een beheerste kostenontwikkeling van de ziekenhuiszorg afspraken zijn gemaakt voor de periode 2012–2015, vastgelegd en ondertekend in het Bestuurlijk hoofdlijnenakkoord 2012–2015;
-
-Overwegende dat voor de zorgvuldige overgang naar prestatiebekostiging een aantal instrumenten aan de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) moeten worden toegevoegd en dat de parlementaire behandeling van het daartoe strekkend wetsvoorstel Aanvulling instrumenten bekostiging WMG nog niet is afgerond en het wetsvoorstel nog niet tot wet is verheven en in werking getreden;
-
-Overwegende dat de Tweede Kamer der Staten-Generaal op 28 juni 2011 voornoemd wetsvoorstel met algemene stemmen heeft aanvaard;
-
-Overwegende dat de Eerste Kamer der Staten-Generaal de brieven van de minister over de voornemens een aanwijzing te treffen met betrekking tot de invoering van bedoelde prestatiebekostiging, een beheersmodel voor medisch specialisten en de verdeling in segmenten in afwachting van de behandeling van het wetsvoorstel Aanvulling instrumenten bekostiging WMG voor kennisgeving heeft aangenomen;
-
-Overwegende dat de Nederlandse Zorgautoriteit met het oog op een zorgvuldige invoering en in het belang van een goede voorbereiding van de betrokken instellingen en verzekeraars reeds die regels en beleidsregels kan vaststellen waarvoor de basis niet gelegen zal zijn in de aanvullende instrumenten uit vorenbedoeld wetsvoorstel;
-
-Overwegende dat voor de invoering van prestatiebekostiging, naast een stabiele product- en tariefstructuur, ook een zorgvuldig overgangstraject noodzakelijk is voor instellingen met een systeem van functiegerichte budgettering dan wel begrotingsfinanciering;
-
-Overwegende dat de daarvoor door de Nederlandse Zorgautoriteit op te stellen regels en beleidsregels in deze aanwijzing deels hun grondslag in de tekst van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vinden zoals de luidt op het moment waarop deze aanwijzing in werking treedt;
-
-Gelet op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) en [59 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59);
-
-Gezien:
-
-de brief van de minister van Volksgezondheid, Welzijn en Sport van 14 maart 2010, getiteld ‘Zorg die werkt’ (Kamerstukken II 2010/11, 32 620, nr. 1);
-
-de uitvoeringstoets van de Nederlandse Zorgautoriteit van oktober 2009, getiteld ‘Van budget naar prestatie’ (Kamerstukken II 2009/10, 29 248, nr. 105);
-
-de brief van de minister van Volksgezondheid, Welzijn en Sport van 2 februari 2011 betreffende de invoering van dbc’s op weg naar transparantie (DOT’s) en de ontwikkelingen in het B-segment (voortgangrapportage; Kamerstukken II 2010/11, 29 248, nr. 167);
-
-de brief van de minister van Volksgezondheid, Welzijn en Sport van 15 maart 2011 betreffende de prestatiebekostiging van ziekenhuizen, getiteld ‘Zorg die loont’ (Kamerstukken II 2010/11, 32 620, nr. 6);
-
-de brief van de minister van Volksgezondheid, Welzijn en Sport van 4 april 2011 betreffende de prestatiebekostiging in de ziekenhuiszorg (ten behoeve van het AO van 6 april) (Kamerstukken II 2010/11, 32 620, nr. 8);
-
-de brief van de zorgautoriteit inzake beoordeling productstructuur DOT van 12 april 2011, kenmerk 11D0013287, met de daarbij gevoegde bijlage rapport Beoordeling productstructuur DOT van april 2011 (www.nza.nl);
-
-de brief van de minister van Volksgezondheid, Welzijn en Sport van 26 april 2011 betreffende het voorstel van de NZa inzake uitbreiding B-segment (Kamerstukken II 2010/11, 32 620, nr. 9 met bijlage);
-
-de brief van de zorgautoriteit van 10 juni 2011, kenmerk 11D0021100, met voorstel na consultatie van relevante partijen de productstructuur bedoeld in de brief van 12 april 2011, kenmerk 11D0013287, aan te passen;
-
-het Consultatiedocument beoordeling kostendelen tarieven en financiële impact DOT ten behoeve van definitieve besluitvorming NZa van de zorgautoriteit (www.nza.nl; juni 2011) en het Eindrapport Impactanalyse DOT ziekenhuiskostendeel van de zorgautoriteit (www.nza.nl; juni 2011);
-
-het consultatiedocument inzake invoering prestatiebekostiging medisch specialistische zorg van 25 mei 2011 van de zorgautoriteit (www.nza.nl);
-
-het Bestuurlijke Hoofdlijnenakkoord 2012–2015 inzake beheerste kostenontwikkeling in de ziekenhuiszorg van 4 juli 2011;
-
-het verantwoordingsdocument inzake invoering prestatiebekostiging medisch specialistische zorg van 6 juli 2011 van de zorgautoriteit, waaronder de nota van bevindingen waarbij de zorgautoriteit reageert op inbreng van veldpartijen op het consultatiedocument van 25 mei 2011 (www.nza.nl);
-
-Na op 14 maart 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2010/11, 32 620, nr. 6) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) over de voornemens met betrekking tot de invoering van prestatiebekostiging bij medisch specialistische zorg;
-
-Gelet op het verslag van het Algemeen overleg op 6 april 2011 en een verlengd algemeen overleg op 14 april 2011 met de Tweede Kamer der Staten-Generaal en de stemming over de moties ingediend tijdens het verlengd algemeen overleg op 19 april 2011 (Kamerstukken II 2010/11, 29 248, nr. 206, respectievelijk Handelingen II 2010/11, nr. 74, p. 9 en Handelingen II 2010/11, nr. 75, p. 20);
-
-Gelet op korte aantekeningen van de Eerste Kamer der Staten-Generaal van 19 april 2011 kenmerk 42026/WB en van 10 mei 2011 kenmerk 42065//WB;
-
-en
-
-Na op 6 juni 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) over de voornemens met betrekking tot de opbrengstverrekening curatieve GGZ en categorale instellingen (Kamerstukken II 2010/11, 29 248, nr. 210);
-
-Gelet op het Algemeen overleg en een verlengd algemeen overleg op 30 juni 2011 met de Tweede Kamer der Staten Generaal en de stemming op 30 juni 2011 over de moties ingediend tijdens eerdergenoemd verlengd algemeen overleg (Kamerstukken II, 29 248);
-
-Gelet op de korte aantekeningen van de Eerste Kamer der Staten-Generaal van 28 juni 2011, kenmerk 43120/WB/, inzake de voorhangbrief over het voornemen om de Nederlandse Zorgautoriteit een aanwijzing te geven inzake opbrengstverrekening curatieve GGZ en categorale instellingen (Kamerstukken II 2010/11, 29 248, nr. 208);
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -104,21 +20,21 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** de minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **zelfstandig behandelcentrum:** instelling voor medisch specialistische zorg waarop niet de budgetsystematiek van toepassing is;
+- d. *zelfstandig behandelcentrum:* instelling voor medisch specialistische zorg waarop niet de budgetsystematiek van toepassing is;
 
-- e. **vrij tarief:** tarief als bedoel in [artikel 50, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
+- e. *vrij tarief:* tarief als bedoel in [artikel 50, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
 
-- f. **maximumtarief:** bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) dat ten hoogste in rekening mag worden gebracht;
+- f. *maximumtarief:* bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) dat ten hoogste in rekening mag worden gebracht;
 
-- g. **Convenant:** afspraken tussen de Orde van Medisch Specialisten, de Nederlandse Vereniging van Ziekenhuizen en de minister, ondertekend op 31 mei 2011;
+- g. *Convenant:* afspraken tussen de Orde van Medisch Specialisten, de Nederlandse Vereniging van Ziekenhuizen en de minister, ondertekend op 31 mei 2011;
 
-- h. **Hoofdlijnenakkoord:** het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011.
+- h. *Hoofdlijnenakkoord:* het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011.
 
 ##### Artikel 2. opdrachtverlening
 

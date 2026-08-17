@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Directeur/bestuurder van het Nederlands fonds voor de Film van 26 oktober 2011, nr. FB 110623, tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie"
+citeertitel: "Besluit vaststelling subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie"
 identifier: "BWBR0030656"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-11-19"
-last_updated: "2011-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030656"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "11501743"
-version_id: "18923212"
-internal_id: "C26402751"
-label_id: "11475044"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030656/2011-11-19/0"
-intitule_bron: "Stcrt.2011-20788"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-26"
-intitule_published: "2011-11-18"
-intitule_in_force: "2011-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-20788"
-original_signed_date: "2011-10-26"
-original_published_date: "2011-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-20788"
-entry_into_force_date: "2011-11-19"
-jci_1_3: "jci1.3:c:BWBR0030656&z=2011-11-19&g=2011-11-19"
-jci_1_0: "1.0:c:BWBR0030656&g=2011-11-19"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie"
-signed_date: "2011-10-26"
-entry_into_force: "2011-11-19"
+publicatiedatum: 2011-11-19
+laatste_update: 2011-11-19
+status: geldig
+toestand: 2011-11-19
+bron: "https://wetten.overheid.nl/BWBR0030656"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Directeur/bestuurder van het Nederlands fonds voor de Film van 26 oktober 2011, nr. FB 110623, tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, de Suppletieregeling Filminvesteringen Nederland en het Deelreglement Distributie
-
-Gelet op [artikel 7 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=7), [artikel 4 lid 3 van het Deelreglement Filmactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0030647&artikel=4), [artikel 23 lid 3 van de Suppletieregeling Filminvesteringen Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0022008&artikel=23), en [artikel 23 lid 1 van het Deelreglement Distributie](https://wetten.overheid.nl/jci1.3:c:BWBR0030071&artikel=23);
-
-Besluit:
 
 ##### Artikel 1
 

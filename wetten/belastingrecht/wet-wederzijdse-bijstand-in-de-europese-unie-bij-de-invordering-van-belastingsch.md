@@ -1,54 +1,24 @@
 ---
 title: "Wet van 8 december 2011 tot wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012"
+citeertitel: "Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012"
 identifier: "BWBR0030850"
-country: "nl"
-rank: "wet"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030850"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "11546153"
-version_id: "19024232"
-internal_id: "C26538411"
-label_id: "11519894"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030850/2019-01-01/0"
-intitule_bron: "Stb.2011-632"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-08"
-intitule_published: "2011-12-21"
-intitule_in_force: "2011-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2011-632"
-original_signed_date: "2011-12-08"
-original_published_date: "2011-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "33022"
-original_url_id: "stb-2011-632"
-entry_into_force_date: "2012-01-01"
-entry_into_force_dossier: "33022"
-jci_1_3: "jci1.3:c:BWBR0030850&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0030850&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012"
-signed_date: "2011-12-08"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0030850"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 8 december 2011 tot wederzijdse bijstand in de Europese Unie bij de invordering van belastingschulden en enkele andere schuldvorderingen 2012
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te treffen tot uitvoering van de op 16 maart 2010 door de Raad van de Europese Unie vastgestelde [Richtlijn 2010/24](32010L0024)/EU betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
 
-1. Deze wet strekt tot uitvoering van de op 16 maart 2010 door de Raad van de Europese Unie vastgestelde [Richtlijn 2010/24](32010L0024)/EU betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84) en geeft regels over de door Nederland te verlenen en te vragen bijstand bij de invordering van de in het tweede lid bedoelde schuldvorderingen die in een andere lidstaat onderscheidenlijk in Nederland ontstaan.
+1. Deze wet strekt tot uitvoering van de op 16 maart 2010 door de Raad van de Europese Unie vastgestelde Richtlijn 2010/24/EU betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84) en geeft regels over de door Nederland te verlenen en te vragen bijstand bij de invordering van de in het tweede lid bedoelde schuldvorderingen die in een andere lidstaat onderscheidenlijk in Nederland ontstaan.
 
 2. Deze wet is van toepassing op schuldvorderingen die voortvloeien uit:
 
@@ -60,9 +30,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - d. bestuursrechtelijke sancties, boetes, heffingen en toeslagen die verband houden met de schuldvorderingen waarvoor om wederzijdse bijstand kan worden verzocht overeenkomstig de voorgaande onderdelen, en:
 
-- 1°. die zijn opgelegd door de administraties die bevoegd zijn om de desbetreffende belastingen of rechten te heffen dan wel om administratieve onderzoeken daarnaar te verrichten, of
+   - 1°. die zijn opgelegd door de administraties die bevoegd zijn om de desbetreffende belastingen of rechten te heffen dan wel om administratieve onderzoeken daarnaar te verrichten, of
 
-- 2°. die op verzoek van de in onderdeel 1° genoemde administraties zijn bevestigd door administratieve of gerechtelijke instanties;
+   - 2°. die op verzoek van de in onderdeel 1° genoemde administraties zijn bevestigd door administratieve of gerechtelijke instanties;
 
 - e. heffingen voor in het kader van administratieve procedures in verband met belastingen en rechten afgegeven verklaringen en soortgelijke documenten;
 
@@ -82,37 +52,37 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **lidstaat:** lidstaat van de Europese Unie;
+- a. *lidstaat:* lidstaat van de Europese Unie;
 
-- b. **richtlijn:** Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84);
+- b. *richtlijn:* Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84);
 
-- c. **bevoegde autoriteit:** de door een lidstaat als zodanig aangewezen autoriteit;
+- c. *bevoegde autoriteit:* de door een lidstaat als zodanig aangewezen autoriteit;
 
-- d. **verzoekende autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat die een verzoek om bijstand indient ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
+- d. *verzoekende autoriteit:* een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat die een verzoek om bijstand indient ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
 
-- e. **aangezochte autoriteit:** een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat waaraan een verzoek om bijstand wordt gericht ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
+- e. *aangezochte autoriteit:* een centraal verbindingsbureau, een verbindingsbureau of een verbindingsdienst van een lidstaat waaraan een verzoek om bijstand wordt gericht ter zake van een schuldvordering als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01);
 
-- f. **centraal verbindingsbureau:** een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat primair verantwoordelijk is voor de contacten met de andere lidstaten op het gebied van de onder de richtlijn vallende wederzijdse bijstand;
+- f. *centraal verbindingsbureau:* een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat primair verantwoordelijk is voor de contacten met de andere lidstaten op het gebied van de onder de richtlijn vallende wederzijdse bijstand;
 
-- g. **verbindingsbureau:** een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat verantwoordelijk is voor de contacten met andere lidstaten ten behoeve van de wederzijdse bijstand betreffende een of meer specifieke vormen of categorieën van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01) bedoelde belastingen en rechten;
+- g. *verbindingsbureau:* een door een bevoegde autoriteit van een lidstaat aangewezen bureau dat verantwoordelijk is voor de contacten met andere lidstaten ten behoeve van de wederzijdse bijstand betreffende een of meer specifieke vormen of categorieën van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030850&hoofdstuk=1&artikel=1&z=2019-01-01&g=2019-01-01) bedoelde belastingen en rechten;
 
-- h. **verbindingsdienst:** een door een bevoegde autoriteit van een lidstaat aangewezen dienst die op grond van de richtlijn verzoekt om wederzijdse bijstand of die deze verleent in verband met zijn specifieke territoriale of functionele bevoegdheid;
+- h. *verbindingsdienst:* een door een bevoegde autoriteit van een lidstaat aangewezen dienst die op grond van de richtlijn verzoekt om wederzijdse bijstand of die deze verleent in verband met zijn specifieke territoriale of functionele bevoegdheid;
 
-- i. **Onze Minister:** Onze Minister van Financiën;
+- i. *Onze Minister:* Onze Minister van Financiën;
 
-- j. **persoon:**
+- j. *persoon:*
 
-- 1°. een natuurlijk persoon;
+   - 1°. een natuurlijk persoon;
 
-- 2°. een rechtspersoon;
+   - 2°. een rechtspersoon;
 
-- 3°. indien de geldende wetgeving in een lidstaat in die mogelijkheid voorziet, een vereniging van personen die bevoegd is rechtshandelingen te verrichten, maar niet de wettelijke status van rechtspersoon bezit, of
+   - 3°. indien de geldende wetgeving in een lidstaat in die mogelijkheid voorziet, een vereniging van personen die bevoegd is rechtshandelingen te verrichten, maar niet de wettelijke status van rechtspersoon bezit, of
 
-- 4°. een andere juridische constructie, ongeacht de aard of vorm ervan, met of zonder rechtspersoonlijkheid, die activa bezit of beheert die, met inbegrip van de daardoor gegenereerde inkomsten, aan een onder deze wet vallende belasting zijn onderworpen;
+   - 4°. een andere juridische constructie, ongeacht de aard of vorm ervan, met of zonder rechtspersoonlijkheid, die activa bezit of beheert die, met inbegrip van de daardoor gegenereerde inkomsten, aan een onder deze wet vallende belasting zijn onderworpen;
 
-- k. **langs elektronische weg:** door middel van elektronische apparatuur voor gegevensverwerking, met inbegrip van digitale compressie, en gegevensopslag, met gebruikmaking van draden, radio, optische of andere elektronisch magnetische middelen;
+- k. *langs elektronische weg:* door middel van elektronische apparatuur voor gegevensverwerking, met inbegrip van digitale compressie, en gegevensopslag, met gebruikmaking van draden, radio, optische of andere elektronisch magnetische middelen;
 
-- l. **CCN-netwerk:** het op het gemeenschappelijke communicatienetwerk (common communications network – CCN) gebaseerde gemeenschappelijke platform dat de Europese Unie ontwikkeld heeft voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen.
+- l. *CCN-netwerk:* het op het gemeenschappelijke communicatienetwerk (common communications network – CCN) gebaseerde gemeenschappelijke platform dat de Europese Unie ontwikkeld heeft voor het elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het gebied van douane en belastingen.
 
 ##### Artikel 3
 
@@ -513,5 +483,3 @@ Deze wet wordt aangehaald als: Wet wederzijdse bijstand in de Europese Unie bij 
 ##### Artikel 51
 
 Deze wet treedt in werking met ingang van 1 januari 2012.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

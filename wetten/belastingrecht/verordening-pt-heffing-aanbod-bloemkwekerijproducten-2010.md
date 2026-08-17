@@ -1,43 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de kweker en importeur van bloemkwekerijproducten (Verordening PT vakheffing aanbod bloemkwekerijproducten 2010)"
+citeertitel: "Verordening PT heffing aanbod bloemkwekerijproducten 2010"
 identifier: "BWBR0030772"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-12-04"
-last_updated: "2011-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030772"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11528253"
-version_id: "18979372"
-internal_id: "C26482051"
-label_id: "11501554"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030772/2011-12-04/0"
-intitule_bron: "Vbbo.2011-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-11"
-intitule_published: "2011-12-02"
-intitule_in_force: "2011-12-02"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-80"
-original_signed_date: "2009-11-11"
-original_published_date: "2011-12-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-12-04"
-jci_1_3: "jci1.3:c:BWBR0030772&z=2011-12-04&g=2011-12-04"
-jci_1_0: "1.0:c:BWBR0030772&g=2011-12-04"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing aanbod bloemkwekerijproducten 2010"
-signed_date: "2009-11-11"
-entry_into_force: "2011-12-04"
+publicatiedatum: 2011-12-04
+laatste_update: 2011-12-04
+status: geldig
+toestand: 2011-12-04
+bron: "https://wetten.overheid.nl/BWBR0030772"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de kweker en importeur van bloemkwekerijproducten (Verordening PT vakheffing aanbod bloemkwekerijproducten 2010)
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [100 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126); gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12); gehoord de Commissie voor bloemkwekerijproducten, d.d. 12 oktober 2009;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -54,11 +29,11 @@ Besluit:
 | b. | extreme toegevoegde waarde: | inkoopwaarde van sierpotten/ijzerwerken, verfmateriaal voor het verven van bloemen en luxe verpakkingen en of andere luxe verfraaiingen, met uitzondering van de arbeidskosten; |
 | c. | hydrocultuur: | siergewassen die bestemd zijn voor gebruik in plantenbakken of potten, waarbij de plant met zijn wortels houvast heeft in poreuze korrels in een bak of pot, met daarin een laag water en voedingsstoffen; |
 | d. | importeren: | bloemkwekerijproducten in Nederland invoeren of inklaren; |
-| e. | invoerwaarde: | de CIF waarde van de in Nederland ingeklaarde uit derde landen afkomstige bloemkwekerijproducten met uitzondering van bloemzaden onder aftrek van: |
+| e. | invoerwaarde: | de CIF waarde van de in Nederland ingeklaarde uit derde landen afkomstige bloemkwekerijproducten met uitzondering van bloemzaden onder aftrek van: I. luchtvrachtkosten boven EU grondgebied volgens bijlage 25 bij Verordening (EEG) nr. 2454/93, en II. CIF waarde van bloemkwekerijproducten bestemd voor doorteelt binnen eigen bedrijf; |
 | f. | kweken: | I. het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten, II. het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten, III. het oogsten van bloemkwekerijproducten, of IV. het doen kweken van bloemkwekerijproducten; |
-| g. | omzet: | het totaal van de bruto verkoopfactuurbedragen exclusief BTW van het zelfgekweekte bloemkwekerijproduct onder aftrek van |
+| g. | omzet: | het totaal van de bruto verkoopfactuurbedragen exclusief BTW van het zelfgekweekte bloemkwekerijproduct onder aftrek van I. creditnota's, voorzover deze betrekking hebben op de verrekening van schade of kwaliteitsverlies of indien deze achteraf zijn opgemaakt voor de verrekening van kwantumkortingen, II. extreme toegevoegde waarde op grond van de inkoopwaarde, voorzover deze onderdeel is van de omzet en aantoonbaar in de administratie, III. royalty's, voor de kwekersrechthouder voorzover dit inkomsten zijn en voor de vermeerderaar voorzover hij als licentiehouder royalty's direct aan de kwekersrechthouder afdraagt, en IV. afschrijving van dubieuze debiteuren, voorzover deze in de jaarrekening zijn afgeschreven; |
 | h. | ondernemer: | de natuurlijke of rechtspersoon die een onderneming drijft voor wie het productschap is ingesteld; |
-| i. | siergewassen: | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| i. | siergewassen: | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: I. winterharde houtgewassen in hun geheel voor zover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd, II. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan, III. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en IV. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | j. | teeltmateriaal: | planten en plantendelen met uitzondering van bloemzaden die bestemd zijn om voor de teelt van bloemkwekerijproducten, of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 | k. | veiling: | een organisatie die bemiddelt bij aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. |
 
@@ -96,10 +71,10 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 
 3. De in het eerste en tweede lid bedoelde heffing wordt uitgedrukt in een percentage van de omzet respectievelijk de invoerwaarde en bedraagt voor:
 
-| a. | siergewassen |   |
+| a. | siergewassen |  |
 | --- | --- | --- |
-|   | van € 0 tot € 6.000.000 | 0,46% |
-|   | vanaf € 6.000.000 | 0,23% |
+|  | van € 0 tot € 6.000.000 | 0,46% |
+|  | vanaf € 6.000.000 | 0,23% |
 | b. | teeltmateriaal | 0,05% en |
 | c. | hydrocultuur | 0,22% |
 

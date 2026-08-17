@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 oktober 2011, nr. 2011-2000437355, houdende voorschriften inzake het beoordelen van ambtenaren BES (Regeling beoordeling ambtenaren BES)"
+citeertitel: "Regeling beoordeling ambtenaren BES"
 identifier: "BWBR0030583"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-11-02"
-last_updated: "2011-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030583"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11477303"
-version_id: "18874922"
-internal_id: "C26341361"
-label_id: "11450714"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030583/2011-11-02/0"
-intitule_bron: "Stcrt.2011-19482"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-05"
-intitule_published: "2011-11-01"
-intitule_in_force: "2011-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19482"
-original_signed_date: "2011-10-05"
-original_published_date: "2011-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-19482"
-entry_into_force_date: "2011-11-02"
-jci_1_3: "jci1.3:c:BWBR0030583&z=2011-11-02&g=2011-11-02"
-jci_1_0: "1.0:c:BWBR0030583&g=2011-11-02"
-citeertitel_status: "officieel"
-short_title: "Regeling beoordeling ambtenaren BES"
-signed_date: "2011-10-05"
-entry_into_force: "2011-11-02"
+publicatiedatum: 2011-11-02
+laatste_update: 2011-11-02
+status: geldig
+toestand: 2011-11-02
+bron: "https://wetten.overheid.nl/BWBR0030583"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 oktober 2011, nr. 2011-2000437355, houdende voorschriften inzake het beoordelen van ambtenaren BES (Regeling beoordeling ambtenaren BES)
-
-Gelet op [artikel 12, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12) en [artikel 25, negende lid, van het Besluit Rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
-- a. **ambtenaar:** degene die door de minister van Binnenlandse Zaken en Koninkrijksrelaties is aangesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn, daaronder begrepen de ambtenaar van politie, bedoeld in [artikel 1, onderdeel c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1);
+- a. *ambtenaar:* degene die door de minister van Binnenlandse Zaken en Koninkrijksrelaties is aangesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn, daaronder begrepen de ambtenaar van politie, bedoeld in [artikel 1, onderdeel c, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1);
 
-- b. **beoordeling:** een op grond van deze regeling vastgelegde waardering ten aanzien van het functioneren van de ambtenaar in een beoordelingsperiode;
+- b. *beoordeling:* een op grond van deze regeling vastgelegde waardering ten aanzien van het functioneren van de ambtenaar in een beoordelingsperiode;
 
-- c. **beoordelingsautoriteit:** de functionaris die de beoordeling vaststelt;
+- c. *beoordelingsautoriteit:* de functionaris die de beoordeling vaststelt;
 
-- d. **beoordelingsadviseur:** de door de beoordelingsautoriteit aangewezen functionaris die binnen de dienst zorg draagt voor de goede gang van zaken omtrent de personeelsbeoordeling;
+- d. *beoordelingsadviseur:* de door de beoordelingsautoriteit aangewezen functionaris die binnen de dienst zorg draagt voor de goede gang van zaken omtrent de personeelsbeoordeling;
 
-- e. **functie:** ieder samenhangend geheel van werkzaamheden en diensten dat door een ambtenaar wordt verricht;
+- e. *functie:* ieder samenhangend geheel van werkzaamheden en diensten dat door een ambtenaar wordt verricht;
 
-- f. **gedragscriteria:** aspecten van het arbeidsgedrag van belang voor het vormen van een oordeel over de functievervulling van de ambtenaar en toepasbaar op een veelheid van functies;
+- f. *gedragscriteria:* aspecten van het arbeidsgedrag van belang voor het vormen van een oordeel over de functievervulling van de ambtenaar en toepasbaar op een veelheid van functies;
 
-- g. **functiegezichtspunten:** aspecten en afspraken met betrekking tot de functievervulling gebaseerd op de organisatiedoelstelling, functieomschrijving en de gestelde prioriteiten;
+- g. *functiegezichtspunten:* aspecten en afspraken met betrekking tot de functievervulling gebaseerd op de organisatiedoelstelling, functieomschrijving en de gestelde prioriteiten;
 
-- h. **informant:** de door de beoordelaars aangewezen functionaris, die inlichtingen van feitelijke aard over het functioneren van de te beoordelen ambtenaar kan verstrekken;
+- h. *informant:* de door de beoordelaars aangewezen functionaris, die inlichtingen van feitelijke aard over het functioneren van de te beoordelen ambtenaar kan verstrekken;
 
-- i. **minister:** de minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- i. *minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
@@ -167,9 +141,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling beoordeling ambtenaren BES.
-
-## Bijlage. bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030583&artikel=5&z=2011-11-02&g=2011-11-02)
-
-### Beoordelingsformulier
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

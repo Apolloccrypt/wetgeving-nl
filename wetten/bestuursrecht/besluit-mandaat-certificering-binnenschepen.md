@@ -1,62 +1,33 @@
 ---
 title: "Besluit mandaat certificering binnenvaartschepen"
+citeertitel: "Besluit mandaat certificering binnenschepen"
 identifier: "BWBR0029903"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-11-10"
-last_updated: "2018-11-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029903"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11304843"
-version_id: "18522752"
-internal_id: "C25848541"
-label_id: "11278914"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029903/2018-11-10/0"
-intitule_bron: "Stcrt.2011-6832"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-20"
-intitule_published: "2011-04-22"
-intitule_in_force: "2011-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-6832"
-original_signed_date: "2011-04-20"
-original_published_date: "2011-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-6832"
-entry_into_force_date: "2011-04-23"
-jci_1_3: "jci1.3:c:BWBR0029903&z=2018-11-10&g=2018-11-10"
-jci_1_0: "1.0:c:BWBR0029903&g=2018-11-10"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat certificering binnenschepen"
-signed_date: "2011-04-20"
-entry_into_force: "2011-04-23"
+publicatiedatum: 2011-04-23
+laatste_update: 2018-11-10
+status: geldig
+toestand: 2018-11-10
+bron: "https://wetten.overheid.nl/BWBR0029903"
+opgehaald: 2026-08-17
 ---
+
 # Besluit mandaat certificering binnenvaartschepen
-
-tevens handelend in de hoedanigheid van bevoegde autoriteit, bedoeld in de artikelen 1.16.2 en 1.16.13 van [bijlage 1a van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) en als voorzitter van de commissie van deskundigen, bedoeld in [artikel 1.19 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.19);
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Gezien de instemming van de ingevolge dit besluit gemandateerden, blijkend uit de met hen gesloten ‘Agreements governing the authorisation of statutory survey and certification services for inland waterway vessels’ d.d. 8 april 2011 (IENM/IVW-2011/4352, IENM/IVW-2011/4353 en IENM/IVW-2011/4354);
-
-Besluiten:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **ADN:** Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN);
+- *ADN:* Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation (ADN);
 
-- **bevoegde autoriteit:** de minister, de voorzitter van de commissie van deskundigen, bedoeld in [artikel 1, 19 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.19), dan wel de bevoegde autoriteit, bedoeld in het [Randnummer 1.16.2 van tabel 1 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4) in samenhang met [artikel 1, onderdeel b, onder 2°, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1);
+- *bevoegde autoriteit:* de minister, de voorzitter van de commissie van deskundigen, bedoeld in [artikel 1, 19 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.19), dan wel de bevoegde autoriteit, bedoeld in het [Randnummer 1.16.2 van tabel 1 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=4) in samenhang met [artikel 1, onderdeel b, onder 2°, van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&artikel=1);
 
-- **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport;
+- *inspecteur-generaal:* inspecteur-generaal Leefomgeving en Transport;
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **wet:** [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009).
+- *wet:*
+ [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009).
 
 ##### Artikel 2
 
@@ -117,5 +88,3 @@ Dit besluit kan worden aangehaald als Besluit mandaat certificering binnenschepe
 ##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 april 2011.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de gemandateerden.

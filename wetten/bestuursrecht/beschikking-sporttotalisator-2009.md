@@ -1,70 +1,38 @@
 ---
 title: "Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel"
+citeertitel: "Beschikking Sporttotalisator 2009"
 identifier: "BWBR0029705"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-12-12"
-last_updated: "2009-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029705"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "11266173"
-version_id: "18453232"
-internal_id: "C25731811"
-label_id: "11240434"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029705/2009-12-12/0"
-intitule_bron: "Stcrt.2009-20288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-11"
-intitule_published: "2009-12-28"
-intitule_in_force: "2009-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-20288"
-original_signed_date: "2009-12-11"
-original_published_date: "2009-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-20288"
-entry_into_force_date: "2009-12-12"
-jci_1_3: "jci1.3:c:BWBR0029705&z=2009-12-12&g=2009-12-12"
-jci_1_0: "1.0:c:BWBR0029705&g=2009-12-12"
-citeertitel_status: "officieel"
-short_title: "Beschikking Sporttotalisator 2009"
-signed_date: "2009-12-11"
-entry_into_force: "2009-12-12"
+publicatiedatum: 2009-12-12
+laatste_update: 2009-12-12
+status: geldig
+toestand: 2009-12-12
+bron: "https://wetten.overheid.nl/BWBR0029705"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel
-
-Overwegende dat de geldigheidsduur van de [Beschikking Sporttotalisator](https://wetten.overheid.nl/jci1.3:c:BWBR0009239) op 12 december 2009 verstrijkt;
-
-Gelezen het verzoek van de Stichting de Nationale Sporttotalisator van 5 oktober 2009, haar opnieuw vergunning te verlenen voor het organiseren van sportprijsvragen, de lotto en het cijferspel;
-
-Gezien het advies de adviezen van het College van toezicht op de kansspelen van 29 oktober 2009 (C.793/09);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) (Stb. 1964, 483);
+- a. *de wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) (Stb. 1964, 483);
 
-- b. **de minister:** de Minister van Justitie;
+- b. *de minister:* de Minister van Justitie;
 
-- c. **de stichting:** de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk;
+- c. *de stichting:* de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk;
 
-- d. **cijferspel:** een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
+- d. *cijferspel:* een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
 
-- e. **prijzenreserve:** een reservering ten laste van het voor uitkering aan prijzen bestemde bedrag;
+- e. *prijzenreserve:* een reservering ten laste van het voor uitkering aan prijzen bestemde bedrag;
 
-- f. **medewerkende verenigingen:** verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke formulieren ten behoeve van het afsluiten van een abonnement voor deelneming aan Lotto Jackpot Abonnement verkrijgbaar worden gesteld;
+- f. *medewerkende verenigingen:* verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke formulieren ten behoeve van het afsluiten van een abonnement voor deelneming aan Lotto Jackpot Abonnement verkrijgbaar worden gesteld;
 
-- g. **verkooppunten:** ondernemers bij welke de deelnameformulieren aan Lotto’s en sportprijsvragen verkrijgbaar worden gesteld;
+- g. *verkooppunten:* ondernemers bij welke de deelnameformulieren aan Lotto’s en sportprijsvragen verkrijgbaar worden gesteld;
 
-- h. **het college:** het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+- h. *het college:* het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
 ##### Artikel 2
 

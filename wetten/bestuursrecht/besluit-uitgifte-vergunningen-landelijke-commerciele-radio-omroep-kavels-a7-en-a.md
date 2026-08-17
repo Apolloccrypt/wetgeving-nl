@@ -1,55 +1,59 @@
 ---
 title: "Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 26 april 2011, nr. WJZ / 11060103, tot uitgifte van vergunningen voor landelijke commerciële radio-omroep betreffende de kavels A7 en A8 in de FM-band en digitale radio-omroep in band III"
+citeertitel: "Besluit uitgifte vergunningen landelijke commerciële radio-omroep kavels A7 en A8 FM-band en digitale radio-omroep band III"
 identifier: "BWBR0029918"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-06-01"
-last_updated: "2011-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029918"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11307713"
-version_id: "18530652"
-internal_id: "C25858951"
-label_id: "11281764"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029918/2011-06-01/0"
-intitule_bron: "Stcrt.2011-7601"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-26"
-intitule_published: "2011-04-29"
-intitule_in_force: "2011-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-7601"
-original_signed_date: "2011-04-26"
-original_published_date: "2011-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-7601"
-entry_into_force_date: "2011-06-01"
-jci_1_3: "jci1.3:c:BWBR0029918&z=2011-06-01&g=2011-06-01"
-jci_1_0: "1.0:c:BWBR0029918&g=2011-06-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit uitgifte vergunningen landelijke commerciële radio-omroep kavels A7 en A8 FM-band en digitale radio-omroep band III"
-signed_date: "2011-04-26"
-entry_into_force: "2011-06-01"
+publicatiedatum: 2011-06-01
+laatste_update: 2011-06-01
+status: geldig
+toestand: 2011-06-01
+bron: "https://wetten.overheid.nl/BWBR0029918"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 26 april 2011, nr. WJZ / 11060103, tot uitgifte van vergunningen voor landelijke commerciële radio-omroep betreffende de kavels A7 en A8 in de FM-band en digitale radio-omroep in band III
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen;
-
-Gelet op [artikel 3.3, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3) en [artikel 3 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=3);
-
-Besluit:
 
 #### § 1. Inleiding
 
+In 2003 zijn negen landelijke commerciële FM-vergunningen verdeeld door middel van een vergelijkende toets. Met ingang van 11 maart 2009 zijn de vergunningen voor de kavels A7 en A8 ingetrokken. In het kader van het in een brief aan de Tweede Kamer van 23 juni 2009 geformuleerde digitaliseringsbeleid (Kamerstukken II, 2008–2009, 24 095, nr. 241) worden de kavels A7 en A8 bestemd voor omroepen die een bijdrage willen leveren aan de omschakeling naar digitale radio. Vanuit het oogpunt van doelmatig ethergebruik is het daarom wenselijk om deze twee kavels nu uit te geven met een verplichting tot digitalisering, voor de periode van 1 september 2011 tot en met 31 augustus 2017.
+
 #### § 2. Wijze van verdeling van A7 en A8
+
+De vergunningen voor de kavels A7 en A8 zijn evenals de andere landelijke commerciële FM-vergunningen in 2003 verleend door middel van een vergelijkende toets met inbegrip van een financieel bod. Aangezien de andere vergunningen nog lopen en deze naar verwachting worden verlengd tot en met 31 augustus 2017, geldt op grond van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) ([artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3)) dat de kavels A7 en A8 als hoofdregel door middel van een vergelijkbare procedure moeten worden uitgegeven. Alleen bij gewijzigde omstandigheden kan er reden zijn de uitgifte anders te organiseren. Er zijn in dit geval geen gewijzigde omstandigheden die reden geven een andere verdeelmethode te kiezen. Daarom wordt voorzien in een verdeling gebaseerd op een vergelijkende toets met inbegrip van een financieel bod. In verband met de ervaringen met de procedure van 2003 worden enkele wijzigingen in de toetsingscriteria doorgevoerd ten opzichte van 2003. Niettemin kan worden gesproken van een procedure die vergelijkbaar is met die in 2003.
 
 #### § 3. Gelijktijdige uitgifte van twee vergunningen voor digitale radio-omroep in band III
 
-#### § 4. Nadere bestemming als bedoeld in [artikel 3.3, 5e lid Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3)
+In verband met de voorgenomen transitie van analoge naar digitale etherradio wordt voorzien dat houders van een vergunning voor analoge radio-omroep ook een vergunning voor digitale radio-omroep in band III exploiteren. In het Nationaal Frequentieplan 2005 wordt de bestemming van de frequentieruimte voor analoge radio-omroep en digitale radio-omroep om die reden gekoppeld, zodat gebruik alleen mogelijk is voor wie zowel een vergunning voor analoge radio als een vergunning voor digitale radio heeft. Houders van vergunningen voor analoge radio dienen hun radioprogramma’s simultaan analoog en digitaal, middels de gekoppelde frequentieruimte, uit te zenden. Hiervoor wordt gekozen omdat het voor de transitie van analoog naar digitaal wenselijk is dat de luisteraar op het digitale platform ook zijn vertrouwde radioprogramma’s aantreft.
+
+De verdeling van de commerciële landelijke FM-vergunningen voor de kavels A7 en A8 is daarom gekoppeld aan en vindt tegelijkertijd plaats met de uitgifte van twee vergunningen voor digitale radio-omroep. De digitale frequentieruimte bevindt zich in de banden van 174 MHz tot 230 MHz (band III). De analoge frequentieruimte bevindt zich in de 87,6 MHz tot en met 104,8 MHz MHz-band (FM-band).
+
+De vergunningen voor de kavels A7 en A8 alsmede de vergunningen voor digitale radio zijn, met uitzondering van die aspecten die afhankelijk zijn van de verlening, vastgesteld bij besluit van 26 april 2011, kenmerk AT-EL&I/6614918.
+
+#### § 4. Nadere bestemming als bedoeld in artikel 3.3, 5e lid Telecommunicatiewet
+
+Binnen de bestemming commerciële radio-omroep worden, met het oog op het doelmatig gebruik van het frequentiespectrum, nadere bestemmingen bepaald: kavel A7 is nader bestemd voor ongeclausuleerde landelijke radio-omroep en A8 is nader bestemd voor geclausuleerde landelijke radio-omroep. De inhoud van de clausulering van kavel A8 is geregeld in [artikel 4 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=4). Dat betekent dat net als bij de verdeling in 2003 kavel A8 gebruikt dient te worden voor klassieke muziek, moderne klassieke muziek daaronder begrepen, of jazzmuziek. Bij het ongeclausuleerde kavel A7 kan de vergunninghouder zelf zijn programmaformule kiezen.
+
+Door A8 nader te bestemmen voor geclausuleerde landelijke commerciële radio-omroep wordt tegemoet gekomen aan de wens om zoveel mogelijk variatie in het radio-aanbod aan te brengen.
+
+In de aanvraag- en verdelingsregeling van 2003 is destijds een bepaling opgenomen dat de bestemming van de vergunningen met bestemming geclausuleerde commerciële radio-omroep, indien er geen aanvragen voor waren ingediend onder die bestemming, automatisch gewijzigd zou worden in de bestemming ongeclausuleerde commerciële radio-omroep. Deze regeling bevat niet een dergelijke bepaling omdat uit de eerder stopgezette tijdelijke verdeling is gebleken dat er voldoende vraag is naar het geclausuleerde kavel A8.
+
+De bedoelde frequentieruimte voor digitale omroep heeft op grond van het [Nationaal Frequentieplan 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017991) als bestemming dat deze gebruikt wordt voor ten minste 18 radiokanalen. Dit komt neer op 2 kanalen per digitale vergunning.
 
 #### § 5. Hoofdlijnen verdeelprocedure
 
+Voor het gebruik van frequentieruimte is op grond van artikel 3.3, eerste lid, van de Telecommunicatiewet een vergunning vereist van de Minister van Economische Zaken, Landbouw en Innovatie.
+
+Zoals hiervoor reeds aan de orde was, worden de vergunningen voor de kavels A7 en A8 verleend door middel van een vergelijkende toets. Op grond van [artikel 3.3, achtste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), geschiedt de uitvoering van deze procedure door de Minister van Onderwijs, Cultuur en Wetenschappen, in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie. Daarbij zullen de door de overheid te waarborgen belangen, waaronder de verscheidenheid of variatie van het aanbod, voldoende zorg voor het programma, het naleven van het programmaformat, en de pluraliteit van aanbieders, door een combinatie van toegangseisen, clausuleringen (op grond van [artikel 6.23 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.23)), criteria, gebruiksbeperkingen (op grond van [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24)) jo. [artikel 22 van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=22)), toepassing van het financieel instrument (op grond van [artikel 3.3a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a)) en vergunningvoorschriften zo goed mogelijk worden gewaarborgd. De aan de vergunning verbonden voorschriften en beperkingen staan in de vergunning beschreven.
+
+Een aanvraag voor kavel A7 of A8 heeft betrekking op één of op beide FM-vergunningen en dient vergezeld te gaan van een aanvraag van één, respectievelijk twee vergunningen voor digitale radio-omroep. Uit het Nationaal Frequentieplan 2005 volgt immers dat een aanvrager alleen in aanmerking kan komen voor een FM-vergunning indien hij tevens een vergunning verkrijgt voor digitale radio-omroep. De regels inzake de aanvraag van de vergunningen worden neergelegd in de [Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III](https://wetten.overheid.nl/jci1.3:c:BWBR0029915).
+
+Bij elke aanvrager die kavel A7 of kavel A8 aanvraagt, wordt getoetst in hoeverre de aanvrager zich op basis van de door hem verstrekte gegevens en bescheiden (bedrijfsplan) een bestendige vergunninghouder toont, tot uiting komend in een zichtbaar sterke financiële positie, op korte en op lange termijn, en een solide inrichting van de organisatie waaruit blijkt dat deze op een professionele manier radioprogramma’s kan maken. Bij de geclausuleerde kavel A8 wordt tevens gekeken naar de programmatische voornemens. In de [Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III](https://wetten.overheid.nl/jci1.3:c:BWBR0029915) wordt bepaald op welke elementen getoetst wordt en hoe deze elementen meewegen in het totaal.
+
+Op grond van [artikel 3.3a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a) kan voor het gebruik van commerciële frequentieruimte bestemd voor landelijke commerciële radio-omroep een eenmalig bedrag in rekening worden gebracht, ook wel financieel instrument genoemd. Voor kavel A7 alsmede de daaraan gekoppelde vergunning voor digitale radio-omroep wordt een eenmalig bedrag in rekening gebracht. Voor kavel A8 alsmede de daaraan gekoppelde vergunning voor digitale radio-omroep wordt geen eenmalig bedrag in rekening gebracht. Voor een toelichting zij verwezen naar de [Regeling vaststelling eenmalig bedrag uitgifte kavel A7 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029920).
+
 #### § 6. Start aanvraagprocedure
+
+Commerciële radio-omroepen kunnen vanaf de datum van inwerkingtreding van de Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III een aanvraag indienen voor de kavels A7 of A8 en voor een hieraan gekoppelde vergunning voor digitale radio. De aanvragen dienen volgens de voornoemde regeling uiterlijk op 10 juni 2011 om 14.00 uur per post te zijn ontvangen door dan wel door middel van persoonlijke overhandiging te zijn ingediend bij Agentschap Telecom.
+
+In de voornoemde regeling wordt onder meer een model bepaald voor het indienen van een aanvraag en worden andere regels gegeven over de aanvraagprocedure voor zowel de FM-vergunningen als de vergunningen voor digitale radio.

@@ -1,68 +1,20 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2008 houdende de vaststelling van een heffing over de teelt van eetbare paddenstoelen en op uitgangsmateriaal van groenten, voor het jaar 2009 (Verordening PT heffing eetbare paddenstoelen en uitgangsmateriaal van groenen 2009)"
+citeertitel: "Verordening PT heffing eetbare paddenstoelen en uitgangsmateriaal van groenten 2009"
 identifier: "BWBR0030466"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030466"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11450453"
-version_id: "18813472"
-internal_id: "C26259821"
-label_id: "11423894"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030466/2011-09-11/0"
-intitule_bron: "Vbbo.2011-51"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-11-11"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-51"
-original_signed_date: "2008-11-11"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030466&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030466&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing eetbare paddenstoelen en uitgangsmateriaal van groenten 2009"
-signed_date: "2008-11-11"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030466"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2008 houdende de vaststelling van een heffing over de teelt van eetbare paddenstoelen en op uitgangsmateriaal van groenten, voor het jaar 2009 (Verordening PT heffing eetbare paddenstoelen en uitgangsmateriaal van groenen 2009)
 
 #### § 1. Begripsbepalingen
-
-#### § 1. Begripsbepalingen
-
-#### § 3. Grondslag en hoogte
-
-##### Artikel 3
-
-1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de productwaarde over de periode van 1 januari 2009 tot en met 31 maart 2009.
-
-2. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de productwaarde en bedraagt voor:
-
-| a. | champignons: | 0,070% |
-| --- | --- | --- |
-| b. | overige paddenstoelen: | 0,040% |
-| c. | uitgangsmateriaal: | 0,080% |
-
-#### § 4. Oplegging en inning
-
-#### § 3. Grondslag en hoogte
-
-gelet op de [artikelen 93, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 28 oktober 2008:
-
-Besluit:
 
 ##### Artikel 1
 
@@ -78,8 +30,8 @@ Besluit:
 | c. bewerken: | alle handelingen (zoals bijvoorbeeld: schonen, schillen, schrappen, snijden, mengen, wassen, centrifugeren etc.) waardoor van paddenstoelen gebruiksklare producten worden gemaakt; |
 | d.verduurzamen: | alle handelingen met betrekking tot paddenstoelen waardoor deze al dan niet voorlopig, langer houdbaar worden; |
 | e. productwaarde: | de verkoopsom van de door de ondernemer gedurende een kalenderjaar in Nederland geteelde paddenstoelen en uitgangsmateriaal van groenten, ongeacht de bestemming daarvan; |
-|   | voor zover de ondernemer de door hem geteelde paddenstoelen verduurzaamt of bewerkt, wordt voor het bepalen van de verkoopsom de theoretische kostprijs gehanteerd; |
-|   | onder theoretisch kostprijs wordt verstaan de kosten die rechtstreeks betrekking hebben op de teelt, de oogst, alsmede het vervoer van paddenstoelen naar de fabriek; |
+|  | voor zover de ondernemer de door hem geteelde paddenstoelen verduurzaamt of bewerkt, wordt voor het bepalen van de verkoopsom de theoretische kostprijs gehanteerd; |
+|  | onder theoretisch kostprijs wordt verstaan de kosten die rechtstreeks betrekking hebben op de teelt, de oogst, alsmede het vervoer van paddenstoelen naar de fabriek; |
 | f. uitgangsmateriaal: | opkweekmateriaal voor groentenplanten zowel onder glas als in de volle grond, alsmede groentenzaden, m.u.v. aardbeienplanten. |
 
 #### § 2. Heffingsplicht
@@ -89,6 +41,19 @@ Besluit:
 1. De ondernemer is jaarlijks een heffing aan het productschap verschuldigd ten behoeve van aangelegenheden als milieuprojecten, kwaliteitscontrole, onderzoek en afzetbevordering, alsmede de algemene kosten van het productschap.
 
 2. De heffing als bedoeld in het eerste lid, wordt opgelegd en berekend bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
+
+#### § 3. Grondslag en hoogte
+
+##### Artikel 3
+
+1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de productwaarde over de periode van 1 januari 2009 tot en met 31 maart 2009.
+
+2. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de productwaarde en bedraagt voor:
+
+| a. | champignons: | 0,070% |
+| --- | --- | --- |
+| b. | overige paddenstoelen: | 0,040% |
+| c. | uitgangsmateriaal: | 0,080% |
 
 #### § 4. Oplegging en inning
 

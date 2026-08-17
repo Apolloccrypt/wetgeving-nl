@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11138610, houdende regels inzake de algemene overdrachtsvergunning NL 003 voor leveringen aan strijdkrachten (Regeling algemene overdrachtsvergunning NL003)"
+citeertitel: "Regeling algemene overdrachtsvergunning NL003"
 identifier: "BWBR0030608"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-31"
-last_updated: "2021-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030608"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11490663"
-version_id: "18899942"
-internal_id: "C26368571"
-label_id: "11464104"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030608/2021-07-31/0"
-intitule_bron: "Stcrt.2011-19958"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-28"
-intitule_published: "2011-11-08"
-intitule_in_force: "2011-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19958"
-original_signed_date: "2011-10-28"
-original_published_date: "2011-11-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-19958"
-entry_into_force_date: "2012-06-30"
-jci_1_3: "jci1.3:c:BWBR0030608&z=2021-07-31&g=2021-07-31"
-jci_1_0: "1.0:c:BWBR0030608&g=2021-07-31"
-citeertitel_status: "officieel"
-short_title: "Regeling algemene overdrachtsvergunning NL003"
-signed_date: "2011-10-28"
-entry_into_force: "2012-06-30"
+publicatiedatum: 2012-06-30
+laatste_update: 2021-07-31
+status: geldig
+toestand: 2021-07-31
+bron: "https://wetten.overheid.nl/BWBR0030608"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11138610, houdende regels inzake de algemene overdrachtsvergunning NL 003 voor leveringen aan strijdkrachten (Regeling algemene overdrachtsvergunning NL003)
-
-Gelet op [richtlijn 2009/43](32009L0043) van het Europees Parlement en de Raad van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU L 146) en de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=20), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=25), en [26, tweede lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **besluit:** het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
+- – *besluit:* het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
 
-- –. **EORI-nummer:** het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
+- – *EORI-nummer:* het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
 
-- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is
+- – *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is
 
-- –. **inspecteur:** de directeur-generaal Douane.
+- – *inspecteur:* de directeur-generaal Douane.
 
 #### § 2. Algemene overdrachtsvergunning
 
@@ -114,11 +88,11 @@ Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschri
 
 - b. bij elke levering wordt op de documenten die de zending begeleiden duidelijk zichtbaar vermeld:
 
-- 1°. het registratienummer en, indien de beschikkingsbevoegde hierover beschikt, het EORI-nummer;
+   - 1°. het registratienummer en, indien de beschikkingsbevoegde hierover beschikt, het EORI-nummer;
 
-- 2°. de lidstaat van bestemming;
+   - 2°. de lidstaat van bestemming;
 
-- 3°. NL003.
+   - 3°. NL003.
 
 #### § 5. Verzoek tot registratie en melding
 
@@ -153,5 +127,3 @@ Deze regeling treedt in werking met ingang van 30 juni 2012.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling algemene overdrachtsvergunning NL003.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

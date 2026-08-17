@@ -1,80 +1,47 @@
 ---
 title: "Beschikking van de Minister van Justitie van 14 januari 2010, nr. 5637097/10/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, lotto en het cijferspel"
+citeertitel: "Beschikking Sporttotalisator 2010"
 identifier: "BWBR0029708"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-08-04"
-last_updated: "2014-08-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029708"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "11266683"
-version_id: "18453952"
-internal_id: "C25732551"
-label_id: "11240954"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029708/2014-08-04/0"
-intitule_bron: "Stcrt.2010-1190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-01-14"
-intitule_published: "2010-01-28"
-intitule_in_force: "2010-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-1190"
-original_signed_date: "2010-01-14"
-original_published_date: "2010-01-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-1190"
-entry_into_force_date: "2010-01-16"
-jci_1_3: "jci1.3:c:BWBR0029708&z=2014-08-04&g=2014-08-04"
-jci_1_0: "1.0:c:BWBR0029708&g=2014-08-04"
-citeertitel_status: "officieel"
-short_title: "Beschikking Sporttotalisator 2010"
-signed_date: "2010-01-14"
-entry_into_force: "2010-01-16"
+publicatiedatum: 2010-01-16
+laatste_update: 2014-08-04
+status: geldig
+toestand: 2014-08-04
+bron: "https://wetten.overheid.nl/BWBR0029708"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking van de Minister van Justitie van 14 januari 2010, nr. 5637097/10/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, lotto en het cijferspel
-
-Overwegende dat de geldigheidsduur van de [Beschikking Sporttotalisator 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0029705) op 15 januari 2010 verstrijkt;
-
-Gelezen het verzoek van de Stichting de Nationale Sporttotalisator van 5 oktober 2009, haar opnieuw vergunning te verlenen voor het organiseren van sportprijsvragen, lotto en het cijferspel;
-
-Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=21), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a), [27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b), [27c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27c) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34);
-
-Gezien het advies van het College van toezicht op de kansspelen van 29 oktober 2009 (C.793/09);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **de minister:** de Minister van Justitie;
+- b. *de minister:* de Minister van Justitie;
 
-- c. **de stichting:** de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk;
+- c. *de stichting:* de Stichting de Nationale Sporttotalisator, gevestigd te Rijswijk;
 
-- d. **sportprijsvraag:** een kansspel als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15);
+- d. *sportprijsvraag:* een kansspel als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15);
 
-- e. **lotto:** een kansspel als bedoeld in [artikel 27a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
+- e. *lotto:* een kansspel als bedoeld in [artikel 27a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
 
 - f. Eurojackpot is een lotto als bedoeld in artikel 1, sub e, welke in Europees verband op gelijktijdige en gecoördineerde wijze in verschillende Europese landen wordt georganiseerd;
 
-- g. **cijferspel:** een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
+- g. *cijferspel:* een kansspel als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), en [artikel 27a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a);
 
-- h. **prijzenreserve:** een reservering ten behoeve van het voor uitkering aan prijzen bestemde bedrag;
+- h. *prijzenreserve:* een reservering ten behoeve van het voor uitkering aan prijzen bestemde bedrag;
 
-- i. **medewerkende verenigingen:** verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
+- i. *medewerkende verenigingen:* verenigingen en stichtingen aangesloten bij sportbonden die op hun beurt zijn vertegenwoordigd in de Vereniging ‘NOC*NSF’, bij welke de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
 
-- j. **verkooppunten:** ondernemers bij wie de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
+- j. *verkooppunten:* ondernemers bij wie de deelname aan lotto’s en sportprijsvragen wordt mogelijk gemaakt;
 
-- k. **het college:** het College van toezicht op de kansspelen, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+- k. *het college:* het College van toezicht op de kansspelen, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
-- l. **afdracht:** de opbrengst, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), en [artikel 27b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b).
+- l. *afdracht:* de opbrengst, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=16), en [artikel 27b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27b).
 
 ##### Artikel 2
 

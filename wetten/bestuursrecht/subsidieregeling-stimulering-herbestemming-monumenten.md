@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)"
+citeertitel: "Subsidieregeling stimulering herbestemming monumenten"
 identifier: "BWBR0030544"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-31"
-last_updated: "2024-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030544"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "11467473"
-version_id: "26893552"
-internal_id: "C38081401"
-label_id: "11441244"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030544/2024-07-31/0"
-intitule_bron: "Stcrt.2011-19007"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-12"
-intitule_published: "2011-10-21"
-intitule_in_force: "2011-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-37639"
-original_signed_date: "2020-07-06"
-original_published_date: "2020-07-15"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2020-37639"
-entry_into_force_date: "2020-07-06"
-jci_1_3: "jci1.3:c:BWBR0030544&z=2024-07-31&g=2024-07-31"
-jci_1_0: "1.0:c:BWBR0030544&g=2024-07-31"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling stimulering herbestemming monumenten"
-signed_date: "2020-07-06"
-entry_into_force: "2020-07-06"
+publicatiedatum: 2020-07-06
+laatste_update: 2024-07-31
+status: geldig
+toestand: 2024-07-31
+bron: "https://wetten.overheid.nl/BWBR0030544"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)
-
-Gelet op [artikel 34, zesde en zevende lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,35 +20,40 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **kerkgebouw:** monument of zelfstandig onderdeel dat in oorsprong uitsluitend of voor een overwegend deel is vervaardigd voor het gezamenlijk belijden van de godsdienst of levensovertuiging;
+- b. *kerkgebouw:* monument of zelfstandig onderdeel dat in oorsprong uitsluitend of voor een overwegend deel is vervaardigd voor het gezamenlijk belijden van de godsdienst of levensovertuiging;
 
-- c. **samenstel van monumenten:** twee of meer monumenten gekenmerkt door hun onderlinge samenhang die mede bepalend is voor hun monumentale waarde;
+- c. *samenstel van monumenten:*
+ twee of meer monumenten gekenmerkt door hun onderlinge samenhang die mede bepalend is voor hun monumentale waarde;
 
-- d. **zelfstandig onderdeel:** onderdeel van een monument dat is aan te merken als een zelfstandige bouwkundige eenheid;
+- d. *zelfstandig onderdeel:* onderdeel van een monument dat is aan te merken als een zelfstandige bouwkundige eenheid;
 
-- e. **eigenaar:** natuurlijke persoon of rechtspersoon die het recht van eigendom of een ander zakelijk recht op een monument heeft;
+- e. *eigenaar:* natuurlijke persoon of rechtspersoon die het recht van eigendom of een ander zakelijk recht op een monument heeft;
 
-- f. **herbestemming:** geven van een nieuwe functie aan een monument of een belangrijk deel daarvan;
+- f. *herbestemming:* geven van een nieuwe functie aan een monument of een belangrijk deel daarvan;
 
-- g. **haalbaarheidsonderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
+- g. *haalbaarheidsonderzoek:* onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
 
-- h. **verduurzamingsonderzoek:** verduurzamingsonderzoek als bedoeld in [artikel 5, eerste lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
+- h. *verduurzamingsonderzoek:* verduurzamingsonderzoek als bedoeld in [artikel 5, eerste lid, onderdeel b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
 
-- i. **interactief of procesgericht onderzoek:** onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
+- i. *interactief of procesgericht onderzoek:* onderzoek als bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
 
-- j. **tijdelijke maatregel:** maatregel als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-31&g=2024-07-31);
+- j. *tijdelijke maatregel:* maatregel als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-31&g=2024-07-31);
 
-- k. **subsidiabele kosten:** kosten als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-07-31&g=2024-07-31);
+- k. *subsidiabele kosten:* kosten als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-07-31&g=2024-07-31);
 
-- l. **subsidietijdvak:** tijdvak van 1 oktober tot en met 30 september in enig jaar;
+- l. *subsidietijdvak:* tijdvak van 1 oktober tot en met 30 september in enig jaar;
 
-- m. **woonhuis:** monument of zelfstandig onderdeel daarvan dat in oorsprong is vervaardigd voor bewoning of dat voor meer dan de helft van de oppervlakte voor bewoning in gebruik is met dien verstande dat niet als woonhuis wordt aangemerkt een gebouw dat deel uitmaakt van een geregistreerd museum, een kerkgebouw, kasteel, paleis, hoofdhuis van een buitenplaats, landhuis, gebouw van liefdadigheid, molen, gemaal, agrarisch gebouw of watertoren;
+- m. *woonhuis:* monument of zelfstandig onderdeel daarvan dat in oorsprong is vervaardigd voor bewoning of dat voor meer dan de helft van de oppervlakte voor bewoning in gebruik is met dien verstande dat niet als woonhuis wordt aangemerkt een gebouw dat deel uitmaakt van een geregistreerd museum, een kerkgebouw, kasteel, paleis, hoofdhuis van een buitenplaats, landhuis, gebouw van liefdadigheid, molen, gemaal, agrarisch gebouw of watertoren;
 
-- n. **erfgoedgemeenschap:** erfgoedgemeenschap als bedoeld in [artikel 6, lid 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2024-07-31&g=2024-07-31).
+- n. *erfgoedgemeenschap:* erfgoedgemeenschap als bedoeld in [artikel 6, lid 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2024-07-31&g=2024-07-31).
 
 2. In deze regeling wordt onder monument tevens zelfstandig onderdeel begrepen, tenzij het tegendeel blijkt.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 7.7, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7).
 
 ##### Artikel 2. Reikwijdte
 
@@ -82,19 +61,19 @@ Subsidie kan worden verstrekt ten behoeve van een op grond van de [Erfgoedwet](h
 
 ##### Artikel 3. Begrotingsvoorbehoud
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Subsidie voor onderzoek naar herbestemming voor gebouwde monumenten
 
-#### Paragraaf 2.1. **Algemeen**
+#### Paragraaf 2.1. Algemeen
 
 ##### Artikel 4. Begripsbepalingen hoofdstuk 2
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **subsidie:** een subsidie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
+- a. *subsidie:* een subsidie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31);
 
-- b. **aanvraag:** een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-07-31&g=2024-07-31).
+- b. *aanvraag:* een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-07-31&g=2024-07-31).
 
 ##### Artikel 5. Te subsidiëren activiteiten
 
@@ -160,9 +139,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Voor subsidieverstrekking op grond van dit hoofdstuk is per subsidietijdvak is telkens een bedrag beschikbaar van:
 
-- a. € 2.255.000,– ten behoeve van haalbaarheidsonderzoeken of interactieve of procesgerichte onderzoeken, en
+- a. € 2.255.000,– ten behoeve van haalbaarheidsonderzoeken of interactieve of procesgerichte onderzoeken, en
 
-- b. € 400.000,– ten behoeve van verduurzamingsonderzoeken.
+- b. € 400.000,– ten behoeve van verduurzamingsonderzoeken.
 
 2. Indien in enig subsidietijdvak een beschikbaar bedrag als bedoeld in het eerste lid, onderdeel a, niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan:
 
@@ -178,11 +157,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Het bedrag aan kosten van een onderzoek waarover subsidie kan worden verstrekt, bedraagt:
 
-- a. ten minste € 10.000 en ten hoogste € 15.000 per aanvraag voor een haalbaarheidsonderzoek of een interactief of procesgericht onderzoek; en
+- a. ten minste € 10.000 en ten hoogste € 15.000 per aanvraag voor een haalbaarheidsonderzoek of een interactief of procesgericht onderzoek; en
 
 - b. ten hoogste € 4.000 per aanvraag voor een verduurzamingsonderzoek.
 
-#### Paragraaf 2.2. **Aanvraag**
+#### Paragraaf 2.2. Aanvraag
 
 ##### Artikel 9. Aanvraag en indieningsvereisten
 
@@ -200,9 +179,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. indien de aanvraag wordt gedaan voor een erfgoedgemeenschap:
 
-- 1°. dat de eigenaar van het monument of het zelfstandig onderdeel instemt met de uitvoering van het onderzoek, en
+   - 1°. dat de eigenaar van het monument of het zelfstandig onderdeel instemt met de uitvoering van het onderzoek, en
 
-- 2°. dat de deelnemers aan de erfgoedgemeenschap uitsluitend als vrijwilliger bij de erfgoedgemeenschap betrokken zijn.
+   - 2°. dat de deelnemers aan de erfgoedgemeenschap uitsluitend als vrijwilliger bij de erfgoedgemeenschap betrokken zijn.
 
 3. De aanvraag gaat vergezeld van:
 
@@ -216,17 +195,17 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. indien de aanvraag wordt gedaan voor een erfgoedgemeenschap:
 
-- 1°. bewijsstukken waaruit blijkt dat de erfgoedgemeenschap gedurende ten minste zes maanden betrokken is bij het behoud van het monument of het zelfstandig onderdeel ten behoeve waarvan subsidie wordt gevraagd, en
+   - 1°. bewijsstukken waaruit blijkt dat de erfgoedgemeenschap gedurende ten minste zes maanden betrokken is bij het behoud van het monument of het zelfstandig onderdeel ten behoeve waarvan subsidie wordt gevraagd, en
 
-- 2°. een verklaring van de eigenaar van het monument, waaruit blijkt dat hij medewerking zal verlenen aan de uitvoering van het desbetreffende onderzoek.
+   - 2°. een verklaring van de eigenaar van het monument, waaruit blijkt dat hij medewerking zal verlenen aan de uitvoering van het desbetreffende onderzoek.
 
 ##### Artikel 10. Indieningstermijn
 
-1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
+1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
 
 2. De aanvraag wordt ingediend bij de Rijksdienst voor het Cultureel Erfgoed te Amersfoort.
 
-#### Paragraaf 2.3. **Subsidievaststelling**
+#### Paragraaf 2.3. Subsidievaststelling
 
 ##### Artikel 11. Weigeringsgronden
 
@@ -246,7 +225,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. De minister rangschikt de aanvragen in de volgorde als hierna vermeld:
 
-- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), die eigenaar van het desbetreffende monument zijn,
+- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), die eigenaar van het desbetreffende monument zijn,
 
 - b. aanvragen ingediend door andere aanvragers dan die, bedoeld in onderdeel a.
 
@@ -272,7 +251,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - e. het tijdstip waarop het verduurzamingsonderzoek uiterlijk is afgerond.
 
-#### Paragraaf 2.4. **Verplichtingen en verantwoording**
+#### Paragraaf 2.4. Verplichtingen en verantwoording
 
 ##### Artikel 14. Subsidieverplichtingen
 
@@ -296,15 +275,15 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ### Hoofdstuk 3. Subsidie voor wind- en waterdicht maken van gebouwde monumenten
 
-#### Paragraaf 3.1. **Algemeen**
+#### Paragraaf 3.1. Algemeen
 
 ##### Artikel 16. Begripsbepalingen hoofdstuk 3
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **subsidie:** een subsidie als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-31&g=2024-07-31);
+- a. *subsidie:* een subsidie als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-31&g=2024-07-31);
 
-- b. **aanvraag:** een aanvraag als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-07-31&g=2024-07-31).
+- b. *aanvraag:* een aanvraag als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-07-31&g=2024-07-31).
 
 ##### Artikel 17. Te subsidiëren activiteiten
 
@@ -326,7 +305,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 19. Subsidieplafond
 
-1. Voor de subsidieverstrekking op grond van dit hoofdstuk is per subsidietijdvak telkens een bedrag van € 720.000,– beschikbaar.
+1. Voor de subsidieverstrekking op grond van dit hoofdstuk is per subsidietijdvak telkens een bedrag van € 720.000,– beschikbaar.
 
 2. Indien in enig subsidietijdvak een beschikbaar bedrag niet geheel wordt verstrekt, kan de minister het resterende bedrag toevoegen aan:
 
@@ -376,7 +355,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Het bedrag aan subsidiabele kosten voor tijdelijke maatregelen waarover subsidie kan worden verstrekt, is ten minste € 10.000 en ten hoogste € 50.000 per aanvraag.
 
-#### Paragraaf 3.2. **Aanvraag**
+#### Paragraaf 3.2. Aanvraag
 
 ##### Artikel 23. Aanvraag en indieningsvereisten
 
@@ -402,11 +381,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 24. Indieningstermijn
 
-1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
+1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
 
 2. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-07-31&g=2024-07-31), is van toepassing.
 
-#### Paragraaf 3.3. **Subsidieverstrekking**
+#### Paragraaf 3.3. Subsidieverstrekking
 
 ##### Artikel 25. Weigeringsgronden
 
@@ -426,7 +405,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. De minister rangschikt de aanvragen in de volgorde als hierna vermeld:
 
-- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), en
+- a. aanvragen ingediend door organisaties als bedoeld in [artikel 30 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=30), en
 
 - b. aanvragen ingediend door andere eigenaaren dan die, bedoeld in onderdeel a.
 
@@ -440,7 +419,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. De beschikking vermeldt de aard van de werkzaamheden waarvoor subsidie wordt verstrekt, het subsidiebedrag en het tijdstip waarop de werkzaamheden uiterlijk zijn afgerond.
 
-#### Paragraaf 3.4. **Bevoorschotting en verplichtingen**
+#### Paragraaf 3.4. Bevoorschotting en verplichtingen
 
 ##### Artikel 28. Bevoorschotting
 
@@ -452,7 +431,7 @@ Indien de subsidie € 25.000 of meer bedraagt, verstrekt de minister een voorsc
 
 2. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=14&z=2024-07-31&g=2024-07-31), is van overeenkomstige toepassing.
 
-#### Paragraaf 3.5. **Subsidievaststelling en verantwoording**
+#### Paragraaf 3.5. Subsidievaststelling en verantwoording
 
 ##### Artikel 30. Aanvraag tot subsidievaststelling
 
@@ -478,6 +457,14 @@ Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie va
 
 ### Hoofdstuk 4. Slotbepalingen
 
+##### Artikel 33a. Vervaldatum regeling
+
+Deze regeling vervalt met ingang van 1 oktober 2027.
+
+##### Artikel 33b. Vermindering subsidieplafond verduurzamingsonderzoeken 2024
+
+Voor het subsidietijdvak in 2024 is [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2024-07-31&g=2024-07-31), niet van toepassing ten aanzien van het beschikbare bedrag, bedoeld in artikel 7, eerste lid, onderdeel b.
+
 ##### Artikel 34. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2011.
@@ -485,111 +472,3 @@ Deze regeling treedt in werking met ingang van 1 november 2011.
 ##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling stimulering herbestemming monumenten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 33a. Vervaldatum regeling
-
-Deze regeling vervalt met ingang van 1 oktober 2027.
-
-##### Artikel 33b. Vermindering subsidieplafond verduurzamingsonderzoeken 2024
-
-Voor het subsidietijdvak in 2024 is [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2024-07-31&g=2024-07-31), niet van toepassing ten aanzien van het beschikbare bedrag, bedoeld in artikel 7, eerste lid, onderdeel b.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 7.7, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7).
-
-### Hoofdstuk 2. Subsidie voor onderzoek naar herbestemming voor gebouwde monumenten
-
-#### Paragraaf 2.1. **Algemeen**
-
-#### Paragraaf 2.2. **Aanvraag**
-
-#### Paragraaf 2.3. **Subsidievaststelling**
-
-#### Paragraaf 2.4. **Verplichtingen en verantwoording**
-
-### Hoofdstuk 3. Subsidie voor wind- en waterdicht maken van gebouwde monumenten
-
-#### Paragraaf 3.1. **Algemeen**
-
-#### Paragraaf 3.2. **Aanvraag**
-
-#### Paragraaf 3.3. **Subsidieverstrekking**
-
-#### Paragraaf 3.4. **Bevoorschotting en verplichtingen**
-
-#### Paragraaf 3.5. **Subsidievaststelling en verantwoording**
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1. Eisen inhoud verduurzamingsonderzoek
-
-**Deze bijlage behoort bij artikel 5, vijfde lid, van de Subsidieregeling stimulering herbestemming monumenten.**
-
-Het doel van het verduurzamingsonderzoek is inzicht te verkrijgen in alle kansrijke energetische verduurzamingsmaatregelen met hun besparings- en kostenindicaties. Er ontstaat een gedetailleerd beeld van de mogelijkheden. Het resultaat is een indicatieve businesscase voor verduurzaming van het monument.
-
-De mogelijke maatregelen worden door een op het terrein van verduurzaming van monumenten deskundig adviseur geïnventariseerd op basis van een gedetailleerde visuele inspectie aan de hand van een rondgang door het gebouw en beschikbare gebouwdossiers zoals bouw- en installatietekeningen. Hierbij wordt rekening gehouden met de monumentale waarden op basis van een reeds beschikbaar, door een bouw- of architectuurhistoricus opgesteld rapport over de aanwezige monumentale waarden (een cultuurhistorische waardering of een analyse van de monumentale waarden op basis van een bouwhistorisch rapport). Energieverbruik, gebouwgebruik, gebouwfunctie, natuurlijke momenten voor de verduurzamingsmaatregelen (in relatie tot onderhoudsachterstand, gebreken en bestaande plannen) en de bouwfysische situatie worden meegenomen in de afweging of een verduurzamingsmaatregel kansrijk is. Voor kansrijke maatregelen wordt een indicatie gegeven van de daarmee potentieel te behalen besparingen, investeringskosten en terugverdientijden gebaseerd op kengetallen, maten, aantallen en vermogens. Vervolgens wordt een advies gegeven over de inpasbaarheid van de maatregelen in het monument. Daarbij betrekt de adviseur zowel de gevolgen voor de monumentale waarden als het gemeentelijke monumenten- en verduurzamingsbeleid in relatie tot de vereiste omgevingsvergunning.
-
-In het verduurzamingsonderzoek worden de volgende items opgenomen:
-
-- •. beschrijving van het monument;
-
-- •. veranderingsgeschiedenis (toegespitst op bouwkundige, bouwfysische en installatietechnische aspecten);
-
-- •. historische context (historische betekenis voor onder meer bouwgeschiedenis, architectuur, bouwtechniek, omgeving);
-
-- •. gebouwtype (vrijstaand, geschakeld, gebouwencomplex), aanwezigheid bijgebouwen, aanwezigheid eigen grond of oppervlaktewater, dakvorm (hellend, plat/verborgen of combinatie);
-
-- •. gebouwsoort (boerderij, industrieel gebouw, kantoorgebouw, kasteel of buitenplaats, molen, ontspanning/cultureel, openbaar gebouw, religieus gebouw, verdedigingswerk, woonhuis)
-
-- •. gebouwfunctie (bijeenkomst, gezondheidszorg, industrie, kantoor, logies, onderwijs, sport, winkel, woning, overig);
-
-- •. status monument (rijksmonument, gemeentelijk monument, provinciaal monument, beschermd stads- of dorpsgezicht);
-
-- •. huidig energieverbruik (gas, elektriciteit, warmte, biomassa);
-
-- •. aantal gebruikers, gebruikstijden, stookgedrag, stooktijden, functionele indeling en gebruiksintensiteit;
-
-- •. bestaande herbestemmings- en restauratieplannen in relatie tot verduurzaming en monumentale waarden;
-
-- •. beschrijving met foto’s van de bestaande energetische situatie (zowel bouwkundig als installatietechnisch) en uitgevoerde verduurzamingsmaatregelen;
-
-- •. algemene gebouwspecifieke aandachtspunten voor verduurzaming;
-
-- •. problemen met betrekking tot vocht en ventilatie;
-
-- •. vermogen, leeftijd en rendement installaties;
-
-- •. indicatie energieverliezen gebouwschil en leidingen;
-
-- •. huidige energieprestatie, afmetingen gebouw, oppervlakteverhoudingen en samenstelling van de gebouwschil per onderdeel, isolatiewaarden, warmtedoorgangscoëfficiënten en structurele omgevingsinvloeden op de energieprestatie (locatie, ligging, beschaduwing, windbelasting, regenbelasting, grond- en oppervlaktewater);
-
-- •. relatie met gemeentelijke warmtetransitievisie en wijkuitvoeringsplan (WUP), indien deze beschikbaar zijn;
-
-- •. toelichting niet-gebouwgebonden verduurzamingsopties voor het stroomverbruik (apparatuur, gedrag);
-
-- •. volledige lijst met maatregelen inclusief quick-wins waarin de afweging van kansrijke maatregelen is aangegeven;
-
-- •. isolatiewaarden maatregelen;
-
-- •. lijst maatregelpakketten kansrijke maatregelen;
-
-- •. inhoudelijke onderbouwing geadviseerde maatregelen, rekening houdend met behoud van de monumentale waarden, milieuaspecten en voorkeuren van de eigenaar;
-
-- •. beschrijving samenhang tussen maatregelen en consequenties voor de monumentale waarden;
-
-- •. indicatie energiebesparingen (absolute waarden), terugverdientijden en kosten;
-
-- •. toekomstige energieprestatie op bij de verschillende maatregelpakketten;
-
-- •. algemene en gebouwspecifieke aandachtspunten, specifieke instructies, randvoorwaarden en risicofactoren met betrekking tot (uitvoeringsdetails van) de geadviseerde maatregelen;
-
-- •. verwijzing naar financiële ondersteuningsmogelijkheden zoals subsidies en duurzaamheidsleningen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,53 +1,27 @@
 ---
 title: "Uitvoeringsvoorschriften artikel 2.4 BRN"
 identifier: "BWBR0030074"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030074"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11346773"
-version_id: "18611742"
-internal_id: "C25966561"
-label_id: "11320614"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030074/2011-01-01/0"
-intitule_bron: "Stcrt.2011-10067"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-31"
-intitule_published: "2011-06-09"
-intitule_in_force: "2011-06-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10067"
-original_signed_date: "2011-05-31"
-original_published_date: "2011-06-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-10067"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBR0030074&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBR0030074&g=2011-01-01"
-citeertitel_status: "officieel"
-signed_date: "2011-05-31"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBR0030074"
+opgehaald: 2026-08-17
 ---
+
 # Uitvoeringsvoorschriften artikel 2.4 BRN
 
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte. Vindt met inachtneming van het bepaalde in artikel 6 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 1 januari 2011.
-
-**Deze regeling bevat de Nederlandse uitvoeringsvoorschriften als bedoeld in artikel 2.4, vijfde lid van de Belastingregeling voor het land Nederland.**
+*Deze regeling bevat de Nederlandse uitvoeringsvoorschriften als bedoeld in artikel 2.4, vijfde lid van de Belastingregeling voor het land Nederland.*
 
 ### 1. Inleiding
 
 Gelet op de inwerkingtreding van de [Belastingregeling voor het land Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0029675) met ingang van 5 maart 2011 en de terugwerkende kracht hiervan tot en met 1 januari 2011 stel ikde Nederlandse uitvoeringsvoorschriften voor de Belastingregeling voor het land Nederland vast.
 
-### 2. Uitvoeringsvoorschriften voor de [Belastingregeling voor het land Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0029675)
+### 2. Uitvoeringsvoorschriften voor de Belastingregeling voor het land Nederland
 
-Ter uitvoering van [artikel 2.4, vijfde lid van de Belastingregeling voor het land Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&artikel=2.4), zoals deze is opgenomen in het [Besluit van 26 februari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029675), **Stb.** 2011, 107, stel ik de navolgende regeling vast:
+Ter uitvoering van [artikel 2.4, vijfde lid van de Belastingregeling voor het land Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&artikel=2.4), zoals deze is opgenomen in het [Besluit van 26 februari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029675), *Stb.* 2011, 107, stel ik de navolgende regeling vast:
 
 ##### Artikel 1. Algemeen
 
@@ -83,9 +57,9 @@ De inspecteur beslist op het verzoek bij een voor bezwaar vatbare beschikking. H
 
 3. Indien de inspecteur gunstig op het verzoek beslist, blijft zijn beslissing van kracht met betrekking tot elk daarin genoemd lichaam zolang:
 
-- –. [artikel 5.2, vierde lid van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) geen toepassing vindt, en
+- – [artikel 5.2, vierde lid van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) geen toepassing vindt, en
 
-- –. het lichaam dat inwoner van de BES eilanden is onmiddellijk ten minste 10 percent blijft bezitten van het kapitaal van het lichaam dat inwoner is van Nederland.
+- – het lichaam dat inwoner van de BES eilanden is onmiddellijk ten minste 10 percent blijft bezitten van het kapitaal van het lichaam dat inwoner is van Nederland.
 
 De bestuurder van het lichaam dat inwoner is van Nederland, aan wie blijkt of die redelijkerwijs moet vermoeden dat in enig opzicht de beslissing om geen dividendbelasting te hoeven in te houden niet juist meer is, is gehouden daarvan aan vorenbedoelde inspecteur schriftelijk mededeling te doen vóór de eerstvolgende vaststelling van dividend.
 
@@ -110,5 +84,3 @@ Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 2](https://wetten.
 1. Deze regeling treedt in werking met ingang van 1 januari 2011 en vindt met inachtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030074&artikel=6&z=2011-01-01&g=2011-01-01) toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 1 januari 2011.
 
 2. Deze regeling kan worden aangehaald als: Uitvoeringsvoorschriften artikel 2.4 BRN.
-
-Deze regeling wordt in de Staatscourant gepubliceerd.

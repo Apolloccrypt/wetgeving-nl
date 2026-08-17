@@ -1,70 +1,45 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie, van 14 november 2011, nr. DGP/P&M 2011-2000480651, houdende regels voor afbouw van de toelage voor onregelmatige diensten (Regeling afbouw operationele toelage)"
+citeertitel: "Regeling afbouw operationele toelage"
 identifier: "BWBR0030672"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030672"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11504523"
-version_id: "18929162"
-internal_id: "C26412811"
-label_id: "11477884"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030672/2025-04-01/0"
-intitule_bron: "Stcrt.2011-21004"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-14"
-intitule_published: "2011-11-23"
-intitule_in_force: "2011-11-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-21004"
-original_signed_date: "2011-11-14"
-original_published_date: "2011-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-21004"
-entry_into_force_date: "2011-11-24"
-jci_1_3: "jci1.3:c:BWBR0030672&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0030672&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling afbouw operationele toelage"
-signed_date: "2011-11-14"
-entry_into_force: "2011-11-24"
+publicatiedatum: 2011-11-24
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0030672"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie, van 14 november 2011, nr. DGP/P&M 2011-2000480651, houdende regels voor afbouw van de toelage voor onregelmatige diensten (Regeling afbouw operationele toelage)
-
-Gelet op [artikel 15, zesde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
+- a. *besluit:*
+ [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
-- b. **salaris:** salaris als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- b. *salaris:* salaris als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- c. **operationele toelage:** de toelage, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14);
+- c. *operationele toelage:* de toelage, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14);
 
-- d. **bezoldiging:** bezoldiging als bedoeld in [artikel 1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- d. *bezoldiging:* bezoldiging als bedoeld in [artikel 1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- e. **aflopende toelage:** aflopende toelage als bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15) als gevolg van een blijvende of tijdelijke verlaging van de bezoldiging;
+- e. *aflopende toelage:* aflopende toelage als bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15) als gevolg van een blijvende of tijdelijke verlaging van de bezoldiging;
 
-- f. **blijvende toelage:** blijvende toelage als bedoeld in [artikel 15, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15);
+- f. *blijvende toelage:* blijvende toelage als bedoeld in [artikel 15, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15);
 
-- g. **ambtenaar:** degene die, op grond van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14) en [15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), aanspraak heeft op een aflopende toelage of een blijvende toelage;
+- g. *ambtenaar:* degene die, op grond van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14) en [15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=15), aanspraak heeft op een aflopende toelage of een blijvende toelage;
 
-- h. vervallen;
+- h. *vervallen;*
 
-- i. **berekeningsbasis:** het gemiddelde bedrag dat in de 13 vierweekse perioden voorafgaande aan operationele toelage is ontvangen;
+- i. *berekeningsbasis:* het gemiddelde bedrag dat in de 13 vierweekse perioden voorafgaande aan operationele toelage is ontvangen;
 
-- j. **blijvende verlaging:** een verlaging van de bezoldiging langer dan 13 vierweekse perioden;
+- j. *blijvende verlaging:* een verlaging van de bezoldiging langer dan 13 vierweekse perioden;
 
-- k. **tijdelijke verlaging:** een verlaging van de bezoldiging die tijdelijk van aard is en tenminste een vierweekse periode en ten hoogste 13 vierweekse perioden duurt vanwege door het bevoegd gezag opgedragen tijdelijke of periodieke veranderingen in de werkzaamheden van de ambtenaar.
+- k. *tijdelijke verlaging:* een verlaging van de bezoldiging die tijdelijk van aard is en tenminste een vierweekse periode en ten hoogste 13 vierweekse perioden duurt vanwege door het bevoegd gezag opgedragen tijdelijke of periodieke veranderingen in de werkzaamheden van de ambtenaar.
 
 ##### Artikel 2
 
@@ -94,7 +69,7 @@ Het veranderen van functie binnen het tijdvak waarover de aflopende of de blijve
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -102,10 +77,8 @@ De [Regeling aflopende toelage inconveniëntentoelage en toelage onregelmatige d
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling afbouw operationele toelage.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

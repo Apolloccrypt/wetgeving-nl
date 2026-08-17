@@ -1,86 +1,61 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)"
+citeertitel: "Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen WMG"
 identifier: "BWBR0030097"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-07-28"
-last_updated: "2018-07-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030097"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11349783"
-version_id: "18619222"
-internal_id: "C25977671"
-label_id: "11323534"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030097/2018-07-28/0"
-intitule_bron: "Stcrt.2011-10339"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-07"
-intitule_published: "2011-06-16"
-intitule_in_force: "2011-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10339"
-original_signed_date: "2011-06-07"
-original_published_date: "2011-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-10339"
-entry_into_force_date: "2011-06-17"
-jci_1_3: "jci1.3:c:BWBR0030097&z=2018-07-28&g=2018-07-28"
-jci_1_0: "1.0:c:BWBR0030097&g=2018-07-28"
-citeertitel_status: "officieel"
-short_title: "Regeling persoonsgegevens vrijwillige ziektekostenverzekeringen WMG"
-signed_date: "2011-06-07"
-entry_into_force: "2011-06-17"
+publicatiedatum: 2011-06-17
+laatste_update: 2018-07-28
+status: geldig
+toestand: 2018-07-28
+bron: "https://wetten.overheid.nl/BWBR0030097"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)
-
-Gelet op [artikel 68a, vierde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **verzekeraar:** een ziektekostenverzekeraar als bedoeld in [artikel 1, onder f, sub 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- b. *verzekeraar:* een ziektekostenverzekeraar als bedoeld in [artikel 1, onder f, sub 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- c. **vrijwillige ziektekostenverzekering:** een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;
+- c. *vrijwillige ziektekostenverzekering:* een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;
 
 - d.
 
-- 1°. een beschrijving van de prestatie zoals die op grond van de wet voor zorg is vastgesteld dan wel
+   - 1°. een beschrijving van de prestatie zoals die op grond van de wet voor zorg is vastgesteld dan wel
 
-- 2°. een beschrijving van de prestatie zoals die tussen de verzekerde en de zorgaanbieder is overeengekomen indien voor die zorg niet een prestatiebeschrijving op grond van de wet behoeft te worden vastgesteld;
+   - 2°. een beschrijving van de prestatie zoals die tussen de verzekerde en de zorgaanbieder is overeengekomen indien voor die zorg niet een prestatiebeschrijving op grond van de wet behoeft te worden vastgesteld;
 
-- e. **declaratieregeling:** een regeling bedoeld in [artikel 38, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38);
+- e. *declaratieregeling:* een regeling bedoeld in [artikel 38, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38);
 
-- f. **formele controle:** een onderzoek waarbij de verzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht:
+- f. *formele controle:* een onderzoek waarbij de verzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht:
 
-- 1°. een prestatie betreft, welke is geleverd aan een bij die verzekeraar verzekerde persoon;
+   - 1°. een prestatie betreft, welke is geleverd aan een bij die verzekeraar verzekerde persoon;
 
-- 2°. een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon,
+   - 2°. een prestatie betreft, welke behoort tot het verzekerde pakket van die persoon,
 
-- 3°. een prestatie betreft, tot levering waarvan de zorgaanbieder bevoegd is, en
+   - 3°. een prestatie betreft, tot levering waarvan de zorgaanbieder bevoegd is, en
 
-- 4°. het tarief betreft, dat voor die prestatie krachtens de wet is vastgesteld of een tarief is dat, met inachtneming van het bepaalde bij of krachtens de wet, voor die prestatie met de zorgaanbieder is overeengekomen;
+   - 4°. het tarief betreft, dat voor die prestatie krachtens de wet is vastgesteld of een tarief is dat, met inachtneming van het bepaalde bij of krachtens de wet, voor die prestatie met de zorgaanbieder is overeengekomen;
 
-- g. **materiële controle:** een onderzoek waarbij de verzekeraar nagaat of de door de zorgaanbieder in rekening gebrachte prestatie is geleverd en die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde;
+- g. *materiële controle:* een onderzoek waarbij de verzekeraar nagaat of de door de zorgaanbieder in rekening gebrachte prestatie is geleverd en die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde;
 
-- h. **fraudeonderzoek:** een onderzoek waarbij de verzekeraar nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van bij de totstandkoming of uitvoering van een overeenkomst van ziektekostenverzekering betrokken personen en organisaties, met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben;
+- h. *fraudeonderzoek:* een onderzoek waarbij de verzekeraar nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van bij de totstandkoming of uitvoering van een overeenkomst van ziektekostenverzekering betrokken personen en organisaties, met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben;
 
-- i. **verhaalsrecht:** het recht van de verzekeraar op grond van [artikel 7:962 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962) de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;
+- i. *verhaalsrecht:* het recht van de verzekeraar op grond van [artikel 7:962 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962) de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;
 
-- j. **detailcontrole:** onderzoek door de verzekeraar naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle of fraudeonderzoek;
+- j. *detailcontrole:* onderzoek door de verzekeraar naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle of fraudeonderzoek;
 
-- k. **algemene risicoanalyse:** een analyse die erop is gericht te bepalen op welke gegevens de materiële controle en het fraudeonderzoek zich zal richten;
+- k. *algemene risicoanalyse:* een analyse die erop is gericht te bepalen op welke gegevens de materiële controle en het fraudeonderzoek zich zal richten;
 
-- l. **specifieke risicoanalyse:** een analyse die erop is gericht te bepalen op welke gegevens en op welke zorgaanbieders of categorieën van zorgaanbieders de detailcontrole zich zal richten
+- l. *specifieke risicoanalyse:* een analyse die erop is gericht te bepalen op welke gegevens en op welke zorgaanbieders of categorieën van zorgaanbieders de detailcontrole zich zal richten
 
-- m. **verwerker:** degene bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming.
+- m. *verwerker:* degene bedoeld in artikel 4, onderdeel 8, van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 2
 

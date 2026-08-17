@@ -1,55 +1,26 @@
 ---
 title: "Wet van 12 mei 2011 tot wijziging van de Wet milieubeheer, houdende aanpassing van hoofdstuk 2 aan de Kaderwet zelfstandige bestuursorganen en aanvulling, verduidelijking en vereenvoudiging van de in hoofdstuk 16 opgenomen regeling van de systemen voor de handel in broeikasgas- en NOx-emissierechten in verband met aanbevelingen uit het project Evaluatie Emissiehandel, proefprojecten voor de opslag van CO2 en wijzigingen van verordening (EG) nr. 2216/2004 van de Commissie van de Europese Gemeenschappen van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het Europees Parlement en de Raad (PbEU L 386) (Aanpassingswet handel in emissierechten II)"
+citeertitel: "Aanpassingswet handel in emissierechten II"
 identifier: "BWBR0030096"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030096"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "11349663"
-version_id: "18618752"
-internal_id: "C26202561"
-label_id: "11323374"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030096/2013-01-01/0"
-intitule_bron: "Stb.2011-278"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-12"
-intitule_published: "2011-06-15"
-intitule_in_force: "2011-08-26"
-intitule_status: "goed"
-original_publication: "Stb.2011-278"
-original_signed_date: "2011-05-12"
-original_published_date: "2011-06-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "32197"
-original_url_id: "stb-2011-278"
-entry_into_force_date: "2011-09-01"
-jci_1_3: "jci1.3:c:BWBR0030096&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0030096&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanpassingswet handel in emissierechten II"
-signed_date: "2011-05-12"
-entry_into_force: "2011-09-01"
+publicatiedatum: 2011-09-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0030096"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 12 mei 2011 tot wijziging van de Wet milieubeheer, houdende aanpassing van hoofdstuk 2 aan de Kaderwet zelfstandige bestuursorganen en aanvulling, verduidelijking en vereenvoudiging van de in hoofdstuk 16 opgenomen regeling van de systemen voor de handel in broeikasgas- en NOx-emissierechten in verband met aanbevelingen uit het project Evaluatie Emissiehandel, proefprojecten voor de opslag van CO2 en wijzigingen van verordening (EG) nr. 2216/2004 van de Commissie van de Europese Gemeenschappen van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het Europees Parlement en de Raad (PbEU L 386) (Aanpassingswet handel in emissierechten II)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat tengevolge van de Kaderwet zelfstandige bestuursorganen een aantal bepalingen uit [hoofdstuk 2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2) kan komen te vervallen en dat uit de evaluatie van de systemen voor de handel in broeikasgas- en NOx-emissierechten en uit de uitvoeringspraktijk van de Nederlandse emissieautoriteit is gebleken dat enige verduidelijking en vereenvoudiging in [hoofdstuk 16 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16) nodig is en voorts dat dit hoofdstuk enige aanvulling behoeft in verband met proefprojecten voor de opslag van CO2 en met wijzigingen van [verordening (EG) nr. 2216/2004](32004R2216) van de Commissie van de Europese Gemeenschappen van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het Europees Parlement en de Raad (PbEU L 386);
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel IIA
 
@@ -66,5 +37,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel IV
 
 Deze wet wordt aangehaald als: Aanpassingswet handel in emissierechten II.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,43 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten. (Verordening PT heffing handel bloemkwekerijproducten 2010)"
+citeertitel: "Verordening PT heffing handel bloemkwekerijproducten 2010"
 identifier: "BWBR0030774"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-12-11"
-last_updated: "2011-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030774"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11528743"
-version_id: "18979862"
-internal_id: "C26482561"
-label_id: "11502044"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030774/2011-12-11/0"
-intitule_bron: "Vbbo.2011-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-11-11"
-intitule_published: "2011-12-02"
-intitule_in_force: "2011-12-02"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-80"
-original_signed_date: "2009-11-11"
-original_published_date: "2011-12-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-12-04"
-jci_1_3: "jci1.3:c:BWBR0030774&z=2011-12-11&g=2011-12-11"
-jci_1_0: "1.0:c:BWBR0030774&g=2011-12-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing handel bloemkwekerijproducten 2010"
-signed_date: "2009-11-11"
-entry_into_force: "2011-12-04"
+publicatiedatum: 2011-12-04
+laatste_update: 2011-12-11
+status: geldig
+toestand: 2011-12-11
+bron: "https://wetten.overheid.nl/BWBR0030774"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten. (Verordening PT heffing handel bloemkwekerijproducten 2010)
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [100 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126); gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12); gehoord de Commissie voor bloemkwekerijproducten, d.d. 12 oktober 2009;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -49,12 +24,12 @@ Besluit:
 
 3. In deze verordening en de daarop berustende bepalingen wordt voorts verstaan onder:
 
-| a. | aankoopwaarde: | het totaal van de bruto inkoopfactuurbedragen van in Nederland aangekochte bloemkwekerijproducten exclusief BTW minus |
+| a. | aankoopwaarde: | het totaal van de bruto inkoopfactuurbedragen van in Nederland aangekochte bloemkwekerijproducten exclusief BTW minus I. aankopen voor doorteelt binnen eigen bedrijf, II. aankopen van bloemzaden, III. aankopen door een teler of telersvereniging van door hemzelf respectievelijk haar eigen leden geteeld bloemkwekerijproduct. IV. aankopen waarover op basis van deze verordening reeds heffing wordt afgedragen vanwege een voorafgaande transactie; |
 | --- | --- | --- |
 | b. | bloemkwekerijproducten: | I. siergewassen, II. teeltmateriaal, III. hydrocultuur, en IV. bloemzaden; |
 | c. | hydrocultuur: | siergewassen die bestemd zijn voor gebruik in plantenbakken of potten, waarbij de plant met zijn wortels houvast heeft in poreuze korrels in een bak of pot, met daarin een laag water en voedingsstoffen; |
 | d. | ondernemer | de natuurlijke of rechtspersoon die een onderneming drijft voor wie het productschap is ingesteld; |
-| e. | siergewassen: | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| e. | siergewassen: | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: I. winterharde houtgewassen in hun geheel voor zover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; II. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan, III. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en IV. aquariumplanten en niet-levende bloemkwekerij producten; |
 | f. | teeltmateriaal: | planten en plantendelen, die bestemd zijn om voor de teelt van bloemkwekerij producten, of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 | g. | telersvereniging: | een samenwerkingsverband van producenten van bloemkwekerijproducten; |
 | h. | veiling: | een organisatie die bemiddelt bij aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. |
@@ -94,7 +69,7 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 | vanaf € 0 | tot € 11.000.000 | 0,28% |
 | --- | --- | --- |
 | vanaf € 11.000.000 | tot € 50.000.000 | 0,19% |
-| vanaf € 50.000.000 |   | 0,10% |
+| vanaf € 50.000.000 |  | 0,10% |
 
 #### § 4. Oplegging en inning
 

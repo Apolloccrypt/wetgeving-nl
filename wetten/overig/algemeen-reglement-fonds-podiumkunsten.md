@@ -1,55 +1,29 @@
 ---
 title: "Algemeen Reglement Fonds Podiumkunsten"
 identifier: "BWBR0030539"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-05-16"
-last_updated: "2020-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030539"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11466423"
-version_id: "18849842"
-internal_id: "C26307871"
-label_id: "11439804"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030539/2020-05-16/0"
-intitule_bron: "Stcrt.2011-18790"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-06"
-intitule_published: "2011-10-20"
-intitule_in_force: "2011-10-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-18790"
-original_signed_date: "2011-06-06"
-original_published_date: "2011-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-18790"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0030539&z=2020-05-16&g=2020-05-16"
-jci_1_0: "1.0:c:BWBR0030539&g=2020-05-16"
-citeertitel_status: "officieel"
-signed_date: "2011-06-06"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2020-05-16
+status: geldig
+toestand: 2020-05-16
+bron: "https://wetten.overheid.nl/BWBR0030539"
+opgehaald: 2026-08-17
 ---
+
 # Algemeen Reglement Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **deelregeling:** een op deze regeling gebaseerde regeling waarin nadere regels zijn opgenomen over de verstrekking van subsidies;
+- *deelregeling:* een op deze regeling gebaseerde regeling waarin nadere regels zijn opgenomen over de verstrekking van subsidies;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
 ##### Artikel 2. Doel
 
@@ -109,9 +83,9 @@ In deze regeling wordt verstaan onder:
 
 1. De ontvanger van het subsidie stuurt binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
-2. Het bepaalde in het voorgaande lid is niet van toepassing als het verstrekte subsidie minder dan € 25.000 bedraagt of als in een deelregeling anderszins is bepaald.
+2. Het bepaalde in het voorgaande lid is niet van toepassing als het verstrekte subsidie minder dan € 25.000 bedraagt of als in een deelregeling anderszins is bepaald.
 
-3. Als het verstrekte subsidie € 125.000 of meer bedraagt, kan het bestuur de ontvanger verplichten binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) in te zenden.
+3. Als het verstrekte subsidie € 125.000 of meer bedraagt, kan het bestuur de ontvanger verplichten binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) in te zenden.
 
 ##### Artikel 9. Begrotingsvoorbehoud
 
@@ -132,5 +106,3 @@ Deze regeling treedt in werking op 1 januari 2012.
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Algemeen reglement Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

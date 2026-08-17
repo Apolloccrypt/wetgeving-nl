@@ -1,43 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, juli 2011"
 identifier: "BWBR0030275"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-09-01"
-last_updated: "2011-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030275"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11399463"
-version_id: "18713082"
-internal_id: "C26108971"
-label_id: "11373014"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030275/2011-09-01/0"
-intitule_bron: "Stcrt.2011-13105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-14"
-intitule_published: "2011-07-19"
-intitule_in_force: "2011-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-13105"
-original_signed_date: "2011-07-14"
-original_published_date: "2011-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-13105"
-entry_into_force_date: "2011-09-01"
-jci_1_3: "jci1.3:c:BWBR0030275&z=2011-09-01&g=2011-09-01"
-jci_1_0: "1.0:c:BWBR0030275&g=2011-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2011-07-14"
-entry_into_force: "2011-09-01"
+publicatiedatum: 2011-09-01
+laatste_update: 2011-09-01
+status: geldig
+toestand: 2011-09-01
+bron: "https://wetten.overheid.nl/BWBR0030275"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, juli 2011
-
-Gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984;
-
-Besluit:
 
 ##### Artikel 1
 

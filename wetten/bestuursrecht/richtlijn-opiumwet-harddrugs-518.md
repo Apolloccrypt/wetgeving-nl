@@ -1,43 +1,21 @@
 ---
 title: "Richtlijn Opiumwet, harddrugs 5.18"
 identifier: "BWBR0030190"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030190"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11375613"
-version_id: "18668592"
-internal_id: "C26049721"
-label_id: "11350804"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030190/2011-07-01/0"
-intitule_bron: "Stcrt.2011-11749"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-23"
-intitule_published: "2011-06-30"
-intitule_in_force: "2011-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-11749"
-original_signed_date: "2011-06-23"
-original_published_date: "2011-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-11749"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0030190&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0030190&g=2011-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2011-06-23"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0030190"
+opgehaald: 2026-08-17
 ---
+
 # Richtlijn Opiumwet, harddrugs 5.18
 
-### **Toelichting:**
+### Toelichting:
 
-**De wetswijziging uit 2006 is verwerkt, waarbij – analoog aan de verbodsbepaling voor softdrugs – het bestanddeel ‘telen’ is toegevoegd aan de verbodsbepaling voor harddrugs en waarbij opzet op het aanwezig hebben van harddrugs als strafverzwarende factor is opgenomen.**
+*De wetswijziging uit 2006 is verwerkt, waarbij – analoog aan de verbodsbepaling voor softdrugs – het bestanddeel ‘telen’ is toegevoegd aan de verbodsbepaling voor harddrugs en waarbij opzet op het aanwezig hebben van harddrugs als strafverzwarende factor is opgenomen.*
 
 ### Beschrijving
 
@@ -55,7 +33,23 @@ Bijzondere wetten
 
 ### Basisdelicten
 
+- – Aanwezig hebben harddrugs
+
+- – Handel in- en productie van harddrugs
+
+- – Invoer/uitvoer harddrugs
+
+- – Voorbereiden/bevorderen van de handel in- en productie van harddrugs
+
+- – Voorbereiden/bevorderen van invoer/uitvoer van harddrugs
+
 ### Wettekst
+
+- – [Opiumwet art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2)
+
+- – [Opiumwet art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10)
+
+- – [Opiumwet art. 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)
 
 ### Basisdelict aanwezig hebben harddrugs 5.18.01
 
@@ -79,19 +73,52 @@ Nee
 
 ### Gewicht aan harddrugs aanwezig of bij voorbereiden handel/productie
 
+- – Schijf 1: het gedeelte tussen 0,5 en 30 gram 1/3 x 8 punten per gram
+
+- – Schijf 2: het gedeelte tussen 30 en 1000 gram 1/3 x 2,5 punt per gram
+
+- – Schijf 3: het gedeelte tussen 1000 en 5000 gram 1/3 x 0,6 punt per gram
+
+- – Schijf 4: het gedeelte boven 5000 gram 1/3 x 0,26 punt per gram
+
 ### Aantal pillen harddrugs aanwezig of bij voorbereiden handel/productie
+
+- – Schijf 1: het gedeelte tussen 1 en 60 pillen 1/3 x 4 punten per pil
+
+- – Schijf 2: het gedeelte tussen 60 en 2000 pillen 1/3 x 1,25 punt per pil
+
+- – Schijf 3: het gedeelte tussen 2000 en 10000 pillen 1/3 x 0,3 punt per pil
+
+- – Schijf 4: het gedeelte boven 10000 pillen 1/3 x 0,13 punt per pil
 
 ### Delictspecifieke factoren
 
 ### Medeplegen
 
+| – Er is geen sprake van medeplegen | +0% |
+| --- | --- |
+| – Er is sprake van medeplegen | +25% |
+
 ### Wettelijke factoren
 
 ### Medeplichtigheid
 
+| – Dader | +0% |
+| --- | --- |
+| – Medeplichtige | –33% |
+
 ### Recidiveregeling
 
 ### Mate van recidive (5 jaar)
+
+| – Geen recidive | +0% |
+| --- | --- |
+| – 1 maal binnen 2 jaar | +50% |
+| +naast hogere sanctie |  |
+| – 1 maal binnen 2–5 jaar | +50% |
+| – Meermalen | +100% |
+| +naast hogere sanctie |  |
+| +dagvaarden |  |
 
 ### Draagkracht
 
@@ -133,7 +160,23 @@ Nee
 
 ### Gewicht aan harddrugs bij handel en productie
 
+- – Schijf 1: het gedeelte tussen 0,5 en 30 gram 2/3 x 8 punten per gram
+
+- – Schijf 2: het gedeelte tussen 30 en 1000 gram 2/3 x 2,5 punt per gram
+
+- – Schijf 3: het gedeelte tussen 1000 en 5000 gram 2/3 x 0,6 punt per gram
+
+- – Schijf 4: het gedeelte boven 5000 gram 2/3 x 0,26 punt per gram
+
 ### Aantal harddrug-pillen bij handel en productie
+
+- – Schijf 1: het gedeelte tussen 1 en 60 pillen 2/3 x 4 punten per pil
+
+- – Schijf 2: het gedeelte tussen 60 en 2000 pillen 2/3 x 1,25 punt per pil
+
+- – Schijf 3: het gedeelte tussen 2000 en 10000 pillen 2/3 x 0,3 punt per pil
+
+- – Schijf 4: het gedeelte boven 10000 pillen 2/3 x 0,13 punt per pil
 
 ### Handelsperiode harddrugs
 
@@ -143,17 +186,42 @@ Nee
 
 ### Ernstige verstoring openbare orde door straat/panddealen
 
+| – Er is geen sprake van ernstige verstoring van de openbare orde door de wijze van dealen | +0% |
+| --- | --- |
+| – Door de wijze van dealen werd de openbare orde ernstig verstoord | +75% |
+
 ### Medeplegen
+
+| – Er is geen sprake van medeplegen | +0% |
+| --- | --- |
+| – Er is sprake van medeplegen | +25% |
 
 ### Wettelijke factoren
 
 ### Medeplichtigheid
 
+| – Dader | +0% |
+| --- | --- |
+| – Medeplichtige | –33% |
+
 ### Poging
+
+| – Voltooid delict | +0% |
+| --- | --- |
+| – Poging tot plegen | –33% |
 
 ### Recidiveregeling
 
 ### Mate van recidive (5 jaar)
+
+| – Geen recidive | +0% |
+| --- | --- |
+| – 1 maal binnen 2 jaar | +50% |
+| +naast hogere sanctie |  |
+| – 1 maal binnen 2–5 jaar | +50% |
+| – Meermalen | +100% |
+| +naast hogere sanctie |  |
+| +dagvaarden |  |
 
 ### Draagkracht
 
@@ -197,21 +265,58 @@ Nee
 
 ### Gewicht aan harddrugs bij invoer/uitvoer
 
+- – Schijf 1: het gedeelte tussen 0,5 en 30 gram 8 punten per gram
+
+- – Schijf 2: het gedeelte tussen 30 en 1000 gram 2,5 punt per gram
+
+- – Schijf 3: het gedeelte tussen 1000 en 5000 gram 0,6 punt per gram
+
+- – Schijf 4: het gedeelte boven 5000 gram 0,26 punt per gram
+
 ### Aantal harddrug-pillen bij invoer/uitvoer
+
+- – Schijf 1: het gedeelte tussen 1 en 60 pillen 4 punten per pil
+
+- – Schijf 2: het gedeelte tussen 60 en 2000 pillen 1,25 punt per pil
+
+- – Schijf 3: het gedeelte tussen 2000 en 10000 pillen 0,3 punt per pil
+
+- – Schijf 4: het gedeelte boven 10000 pillen 0,13 punt per pil
 
 ### Delictspecifieke factoren
 
 ### Medeplegen
 
+| – Er is geen sprake van medeplegen | +0% |
+| --- | --- |
+| – Er is sprake van medeplegen | +25% |
+
 ### Wettelijke factoren
 
 ### Medeplichtigheid
 
+| – Dader | +0% |
+| --- | --- |
+| – Medeplichtige | –33% |
+
 ### Poging
+
+| – Voltooid delict | +0% |
+| --- | --- |
+| – Poging tot plegen | –33% |
 
 ### Recidiveregeling
 
 ### Mate van recidive (5 jaar)
+
+| – Geen recidive | +0% |
+| --- | --- |
+| – 1 maal binnen 2 jaar | +50% |
+| +naast hogere sanctie |  |
+| – 1 maal binnen 2–5 jaar | +50% |
+| – Meermalen | +100% |
+| +naast hogere sanctie |  |
+| +dagvaarden |  |
 
 ### Draagkracht
 
@@ -253,21 +358,58 @@ Nee
 
 ### Gewicht aan harddrugs aanwezig of bij voorbereiden handel/productie
 
+- – Schijf 1: het gedeelte tussen 0,5 en 30 gram 1/3 x 8 punten per gram
+
+- – Schijf 2: het gedeelte tussen 30 en 1000 gram 1/3 x 2,5 punt per gram
+
+- – Schijf 3: het gedeelte tussen 1000 en 5000 gram 1/3 x 0,6 punt per gram
+
+- – Schijf 4: het gedeelte boven 5000 gram 1/3 x 0,26 punt per gram
+
 ### Aantal pillen harddrugs aanwezig of bij voorbereiden handel/productie
+
+- – Schijf 1: het gedeelte tussen 1 en 60 pillen 1/3 x 4 punten per pil
+
+- – Schijf 2: het gedeelte tussen 60 en 2000 pillen 1/3 x 1,25 punt per pil
+
+- – Schijf 3: het gedeelte tussen 2000 en 10000 pillen 1/3 x 0,3 punt per pil
+
+- – Schijf 4: het gedeelte boven 10000 pillen 1/3 x 0,13 punt per pil
 
 ### Delictspecifieke factoren
 
 ### Medeplegen
 
+| – Er is geen sprake van medeplegen | +0% |
+| --- | --- |
+| – Er is sprake van medeplegen | +25% |
+
 ### Wettelijke factoren
 
 ### Medeplichtigheid
 
+| – Dader | +0% |
+| --- | --- |
+| – Medeplichtige | –33% |
+
 ### Poging
+
+| – Voltooid delict | +0% |
+| --- | --- |
+| – Poging tot plegen | –33% |
 
 ### Recidiveregeling
 
 ### Mate van recidive (5 jaar)
+
+| – Geen recidive | +0% |
+| --- | --- |
+| – 1 maal binnen 2 jaar | +50% |
+| +naast hogere sanctie |  |
+| – 1 maal binnen 2–5 jaar | +50% |
+| – Meermalen | +100% |
+| +naast hogere sanctie |  |
+| +dagvaarden |  |
 
 ### Draagkracht
 
@@ -307,21 +449,58 @@ Nee
 
 ### Gewicht aan harddrugs bij voorbereiden invoer/uitvoer
 
+- – Schijf 1: het gedeelte tussen 0,5 en 30 gram 1/2 x 8 punten per gram
+
+- – Schijf 2: het gedeelte tussen 30 en 1000 gram 1/2 x 2,5 punt per gram
+
+- – Schijf 3: het gedeelte tussen 1000 en 5000 gram 1/2 x 0,6 punt per gram
+
+- – Schijf 4: het gedeelte boven 5000 gram 1/2 x 0,26 punt per gram
+
 ### Aantal pillen harddrugs bij voorbereiden invoer/uitvoer
+
+- – Schijf 1: het gedeelte tussen 1 en 60 pillen 1/2 x 4 punten per pil
+
+- – Schijf 2: het gedeelte tussen 60 en 2000 pillen 1/2 x 1,25 punt per pil
+
+- – Schijf 3: het gedeelte tussen 2000 en 10000 pillen 1/2 x 0,3 punt per pil
+
+- – Schijf 4: het gedeelte boven 10000 pillen 1/2 x 0,13 punt per pil
 
 ### Delictspecifieke factoren
 
 ### Medeplegen
 
+| – Er is geen sprake van medeplegen | +0% |
+| --- | --- |
+| – Er is sprake van medeplegen | +25% |
+
 ### Wettelijke factoren
 
 ### Medeplichtigheid
 
+| – Dader | +0% |
+| --- | --- |
+| – Medeplichtige | –33% |
+
 ### Poging
+
+| – Voltooid delict | +0% |
+| --- | --- |
+| – Poging tot plegen | –33% |
 
 ### Recidiveregeling
 
 ### Mate van recidive (5 jaar)
+
+| – Geen recidive | +0% |
+| --- | --- |
+| – 1 maal binnen 2 jaar | +50% |
+| +naast hogere sanctie |  |
+| – 1 maal binnen 2–5 jaar | +50% |
+| – Meermalen | +100% |
+| +naast hogere sanctie |  |
+| +dagvaarden |  |
 
 ### Draagkracht
 

@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052898"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/105814, houdende nadere regels voor de weerbaarheid van kritieke entiteiten in de sectoren vervoer, drinkwater, afvalwater, nucleair, keren en beheren, chemie en meteorologie (Regeling weerbaarheid kritieke entiteiten IenW) [Keten-ID WGK 28527]

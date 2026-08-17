@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 11 april 2011, houdende regels met betrekking tot productvoorschriften voor Lucky Bamboo (Warenwetbesluit Lucky Bamboo)"
+citeertitel: "Warenwetbesluit Lucky Bamboo"
 identifier: "BWBR0029929"
-country: "nl"
-rank: "amvb"
-publication_date: "2016-02-19"
-last_updated: "2016-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029929"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11309883"
-version_id: "21745642"
-internal_id: "C31209781"
-label_id: "11283874"
-dtd_version: "2.0"
-original_entry_into_force: "2014-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029929/2016-02-19/0"
-intitule_bron: "Stb.2011-196"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-11"
-intitule_published: "2011-05-03"
-intitule_in_force: "2011-05-03"
-intitule_status: "goed"
-original_publication: "Stb.2014-338"
-original_signed_date: "2014-09-05"
-original_published_date: "2014-09-26"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2014-338"
-entry_into_force_date: "2014-09-05"
-jci_1_3: "jci1.3:c:BWBR0029929&z=2016-02-19&g=2016-02-19"
-jci_1_0: "1.0:c:BWBR0029929&g=2016-02-19"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit Lucky Bamboo"
-signed_date: "2014-09-05"
-entry_into_force: "2014-09-05"
+publicatiedatum: 2014-09-05
+laatste_update: 2016-02-19
+status: geldig
+toestand: 2016-02-19
+bron: "https://wetten.overheid.nl/BWBR0029929"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 11 april 2011, houdende regels met betrekking tot productvoorschriften voor Lucky Bamboo (Warenwetbesluit Lucky Bamboo)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 8 december 2010, kenmerk DWJZ/SWW-3039313, gedaan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Veiligheid en Justitie;
-
-Gelet op de [artikelen 5, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=5), [9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=9), en [32b van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 januari 2011, nummer W.13.10.0555/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 5 april 2011, kenmerk DWJZ/G&E-3058832, uitgebracht in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie en Onze Minister van Veiligheid en Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **Lucky Bamboo:** een sierplant met de wetenschappelijke naam Dracaena sanderiana die bedrijfsmatig in Nederland wordt ingevoerd, met inbegrip van het materiaal waarin de plant zich bevindt, en met uitzondering van de plant die:
+- a. *Lucky Bamboo:* een sierplant met de wetenschappelijke naam Dracaena sanderiana die bedrijfsmatig in Nederland wordt ingevoerd, met inbegrip van het materiaal waarin de plant zich bevindt, en met uitzondering van de plant die:
 
-- 1°. zich niet in vloeistof bevindt, alsmede
+   - 1°. zich niet in vloeistof bevindt, alsmede
 
-- 2°. bestemd is om ontwikkeld te worden tot potplant;
+   - 2°. bestemd is om ontwikkeld te worden tot potplant;
 
-- b. **tijgermug:** een insect met de wetenschappelijke naam Aedes albopictus, alsmede de eitjes, de larven en de poppen daarvan;
+- b. *tijgermug:* een insect met de wetenschappelijke naam Aedes albopictus, alsmede de eitjes, de larven en de poppen daarvan;
 
-- c. **afgescheiden ruimte:** een ruimte die door dichte afscheidingen van de omgeving gescheiden is.
+- c. *afgescheiden ruimte:* een ruimte die door dichte afscheidingen van de omgeving gescheiden is.
 
 2. Voor de toepassing van dit besluit wordt een partij Lucky Bamboo gelijkgesteld met een plant.
 
@@ -84,9 +52,13 @@ Lucky Bamboo:
 
 2. De verhandelaar beschikt voorts over een administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van het bestrijdingsplan op een systematische wijze zijn vastgelegd.
 
+##### Artikel 4a
+
+*Vervallen*
+
 ##### Artikel 5
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
+*Wijzigt het Warenwetbesluit bestuurlijke boeten.*
 
 ##### Artikel 6
 
@@ -97,11 +69,3 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Lucky Bamboo.
-
-Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.

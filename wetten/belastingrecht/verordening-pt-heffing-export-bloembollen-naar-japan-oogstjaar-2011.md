@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 houdende de vaststelling van een aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2011 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2011)"
+citeertitel: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2011"
 identifier: "BWBR0030441"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-12-30"
-last_updated: "2012-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030441"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11440763"
-version_id: "18794612"
-internal_id: "C26238751"
-label_id: "11414194"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030441/2012-12-30/0"
-intitule_bron: "Vbbo.2011-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-19"
-intitule_published: "2011-09-02"
-intitule_in_force: "2011-09-02"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-50"
-original_signed_date: "2011-05-19"
-original_published_date: "2011-09-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-04"
-jci_1_3: "jci1.3:c:BWBR0030441&z=2012-12-30&g=2012-12-30"
-jci_1_0: "1.0:c:BWBR0030441&g=2012-12-30"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2011"
-signed_date: "2011-05-19"
-entry_into_force: "2011-09-04"
+publicatiedatum: 2011-09-04
+laatste_update: 2012-12-30
+status: geldig
+toestand: 2012-12-30
+bron: "https://wetten.overheid.nl/BWBR0030441"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 houdende de vaststelling van een aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2011 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2011)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14):
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, 10 mei 2011;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 

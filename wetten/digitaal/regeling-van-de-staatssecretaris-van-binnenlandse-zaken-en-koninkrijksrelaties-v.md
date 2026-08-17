@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052963"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 3 juli 2026, houdende regels ten aanzien van de beveiliging van netwerk- en informatiesystemen van essentiële entiteiten in de sector overheid (Cyberbeveiligingsregeling sector overheid) [KetenID WGK027594]

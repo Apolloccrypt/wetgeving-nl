@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelatie van 20 oktober 2011, nr. 2011056228, houdende verlening van mandaat, volmacht en machtiging aan de directeur van het Agentschap SZW ter uitvoering van een aantal regelingen op het terrein van inburgering (Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties)"
+citeertitel: "Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0030581"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-11-03"
-last_updated: "2011-11-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030581"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "11476983"
-version_id: "18873102"
-internal_id: "C26339241"
-label_id: "11450334"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030581/2011-11-03/0"
-intitule_bron: "Stcrt.2011-19541"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-20"
-intitule_published: "2011-11-01"
-intitule_in_force: "2011-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19541"
-original_signed_date: "2011-10-20"
-original_published_date: "2011-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-19541"
-entry_into_force_date: "2011-11-03"
-jci_1_3: "jci1.3:c:BWBR0030581&z=2011-11-03&g=2011-11-03"
-jci_1_0: "1.0:c:BWBR0030581&g=2011-11-03"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties"
-signed_date: "2011-10-20"
-entry_into_force: "2011-11-03"
+publicatiedatum: 2011-11-03
+laatste_update: 2011-11-03
+status: geldig
+toestand: 2011-11-03
+bron: "https://wetten.overheid.nl/BWBR0030581"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelatie van 20 oktober 2011, nr. 2011056228, houdende verlening van mandaat, volmacht en machtiging aan de directeur van het Agentschap SZW ter uitvoering van een aantal regelingen op het terrein van inburgering (Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties)
-
-Handelende in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
-
-Gezien de schriftelijke instemming van de directeur van het Agentschap SZW van 1 augustus 2011,
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -103,5 +73,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Agentschap SZW Regelingen Binnenlandse Zaken en Koninkrijksrelaties.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

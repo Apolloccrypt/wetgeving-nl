@@ -1,43 +1,25 @@
 ---
 title: "Aanwijzing pre-opsporing, opsporing en vervolging van maritieme strafbare feiten"
 identifier: "BWBR0030131"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-07-01"
-last_updated: "2011-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030131"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11359653"
-version_id: "18641062"
-internal_id: "C26008481"
-label_id: "11333514"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030131/2011-07-01/0"
-intitule_bron: "Stcrt.2011-10935"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-06"
-intitule_published: "2011-06-23"
-intitule_in_force: "2011-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10935"
-original_signed_date: "2011-06-06"
-original_published_date: "2011-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-10935"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0030131&z=2011-07-01&g=2011-07-01"
-jci_1_0: "1.0:c:BWBR0030131&g=2011-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2011-06-06"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2011-07-01
+status: geldig
+toestand: 2011-07-01
+bron: "https://wetten.overheid.nl/BWBR0030131"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing pre-opsporing, opsporing en vervolging van maritieme strafbare feiten
 
 ### Samenvatting
 
 Deze aanwijzing bevat beleids- en werkafspraken voor pre-opsporing en opsporen en vervolgen van strafbare feiten, die:
+
+- 1. opgespoord zijn of worden door de opsporingsambtenaren die vanuit diverse opsporingsdiensten2Waaronder Rijkswaterstaat, Inspectie Verkeer en Waterstaat, Staatstoezicht op de Mijnen, Korps Landelijke Politie Diensten, Koninklijke Marechaussee, Douane, nieuwe Voedsel -en warenautoriteit (voormalige Algemene Inspectiedienst van ministerie van Landbouw).zijn tewerkgesteld bij de Kustwacht (Koa’s), op alle schepen varend in Nederlandse / territoriale wateren, en/of
+
+- 2. gepleegd worden aan boord van vaartuigen varend onder de Nederlandse vlag waar ook ter wereld ([artikel 4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=4)).
 
 ### Achtergrond
 
@@ -47,6 +29,12 @@ De handhavingsactiviteiten worden uitgevoerd door de Kustwacht Nederland3Kustwac
 
 Het werkgebied van de Kustwacht omvat ([artikel 6 BiK](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=6)):
 
+- a. de territoriale zee en de Exclusieve Economische Zone (EEZ);
+
+- b. de Waddenzee, het IJsselmeer inclusief de randmeren, en de Zuid-Hollandse en Zeeuwse stromen, voor wat betreft opsporing en redding;
+
+- c. het vlucht infornatiegebied (Flight Information Region/FIR) Amsterdam, voor wat betreft de aéronautische opsporing en redding.
+
 Ter nakoming van internationale afspraken kan het werkgebied van de Kustwacht verder uitgebreid worden.
 
 De Kustwacht voert dienstverlenende, toezichthoudende en opsporingstaken uit. Het Kustwachtcentrum (hierna KWC) is gevestigd in Den Helder. Bij de Kustwacht werken een aantal diensten van verschillende ministeries samen. De instelling en besturing van de Kustwacht is geregeld in het [BiK](https://wetten.overheid.nl/jci1.3:c:BWBR0020546)4Besluit instelling Kustwacht, 17 november 2006/nr. STG 2006/1961 Rijkswaterstaat, Staatscourant 23 november 2006, nr. 229/p.38.. De Kustwacht wordt beleidsmatig aangestuurd door de PKHN ten aanzien van de algemene handhaving, milieu, verkeer/veiligheid en visserij. Voorts heeft de PKHN tot taak het ontwikkelen, vaststellen en evalueren van het maritieme handhavingsbeleid5Artikel 10, 11 lid 2 en 3 Besluit instelling Kustwacht..
@@ -55,11 +43,19 @@ Het voorzitterschap PKHN is belegd bij het Openbaar Ministerie, in de persoon va
 
 Het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020546) is de formele uitwerking van het Kabinetsbesluit8Kamerstukken II, 2005/06, 30490 nr. 1, d.d. 13 maart 2006.over de omvorming van het oude samenwerkingsverband Kustwacht tot een Kustwacht Nederland ‘nieuwe stijl’. De omvorming werd door het Kabinet nodig geacht om de taken, bevoegdheden van de Kustwacht helder te beleggen en belangenafwegingen omtrent de kustwachttaken transparant en integraal plaats te laten vinden. Het Kabinet verwacht op deze wijze belangrijke voorwaarden geschapen te hebben voor een effectief en efficiënt overheidsoptreden door de Kustwacht9Voorts sluit de omvorming van de Kustwacht aan bij de ambities van het kabinet Balkenende II voor de verbetering van de kwaliteit van het openbaar bestuur en bij het Integraal Beheerplan Noordzee 2015..
 
-**Het Martitiem Informatie Knooppunt (MIK)** bij het Kustwachtcentrum in Den Helder is in het kader van de realisering van het Veiligheidsconcept Noordzee (VCN) ingericht. Het eindrapport VCN is op 26 januari 2010 door de Raad voor de Kustwacht vastgesteld.
+*Het Martitiem Informatie Knooppunt (MIK)* bij het Kustwachtcentrum in Den Helder is in het kader van de realisering van het Veiligheidsconcept Noordzee (VCN) ingericht. Het eindrapport VCN is op 26 januari 2010 door de Raad voor de Kustwacht vastgesteld.
 
 Het VCN is gebaseerd op en heeft verbindingen met de navolgende anker- en uitgangspunten in bestaand beleid, te weten: Strategie Nationale Veiligheid (Kabinet 2007), Nationaal Intelligence Model (NIM) en Informatie Gestuurd Werken (Politie en KMAR), Nationaal Dreigingsbeeld (NDB, Ned. Politie), positie Kustwacht Nederland ‘nieuwe stijl’ ([Besluit Instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546) / BiK), aansluiting bij bestaande initiatieven, departementale verantwoordelijkheid, vermindering toezicht- en handhavingslast, effectieve inzet capaciteit en internationale ontwikkelingen. Aan de hand van deze punten zijn de voorwaarden bepaald, waaraan de werkmethoden binnen het MIK moeten voldoen.
 
 De doelen van het MIK zijn:
+
+- – structureel de risico’s op het gebied van veiligheid voor de Noordzee in kaart brengen;
+
+- – informatie leveren voor de uitvoering van activiteiten uit het Handhavingsplan Noordzee;
+
+- – informatie over de veiligheid op de Noordzee analyseren en veredelen;
+
+- – aansluiten bij reeds bestaande initiatieven in zowel binnen- als buitenland.
 
 Het gezag over het MIK, ten aanzien van strafrechtelijk optreden, is belegd bij de Noordzeeofficier van justitie.
 
@@ -68,6 +64,22 @@ Het gezag over het MIK, ten aanzien van strafrechtelijk optreden, is belegd bij 
 ### Taken Noordzeeofficier en het FP
 
 De Noordzeeofficier:
+
+- • voert het selectieoverleg met de handhavende diensten binnen de Kustwacht, beoordeelt de voorstellen van de diensten binnen het MIK en beslist of een voorstel in strafrechtelijk onderzoek wordt genomen of niet;
+
+- • beslist in gezamenlijkheid met de diensten over de inzet van alle algemene en de bijzondere Nederlandse opsporingsambtenaren, werkzaam in Kustwachtverband, in een strafrechtelijk onderzoek;
+
+- • ontvangt de melding vanuit het KWC en verkrijgt een zo volledig mogelijk informatiebeeld omtrent de strafbare gedraging;
+
+- • beoordeelt de haalbaarheid van een mogelijke strafzaak;
+
+- • verricht eenvoudig juridisch onderzoek en geeft een inhoudelijke beoordeling van een mogelijk strafbaar feit;
+
+- • licht tijdig het bevoegde parket in, dan wel verwijst het opsporingsonderzoek en/of de strafvervolging naar het andere bevoegde parket;
+
+- • stuurt op totale handhaving van de Kustwachtdiensten;
+
+- • fungeert in overgedragen zaken als adviseur10De Noordzee officier beschikt over relevante nautische kennis, deskundigheid over internationaal zeerecht en participeert in maritieme (beleids)netwerken. Vanuit deze deskundigheid heeft de Noordzee officier, indien noodzakelijk en wenselijk, een adviserende taak ten opzichte van het betrokken parket..
 
 Daarnaast stuurt de Noordzeeofficier op de kwaliteit van de processen-verbaal van de KOa’s, die in de Kustwacht participeren. Tevens valt onder zijn bevoegdheid de inzet van opsporingsambtenaren voor een strafrechtelijk onderzoek op zeeën mondiaal11Zie (VN) Zeerechtverdrag, 10 december 1982, (in werking getreden op 16 november 1994); Part VII (High Seas)., dit in het kader van het vlagbeginsel.
 
@@ -81,11 +93,15 @@ Het FP zorgt voor afstemming van het Kustwacht handhavingbeleid aangaande de ond
 
 Het werkterrein van het FP-team (cluster Noordzee) dat zich bezighoudt met zeezaken is nauw te relateren aan de handhavingstaken van de Kustwacht, welke de navolgende geografische en functionele werkgebieden omvat12Artikel 6 lid 1 en 2 Besluit instelling Kustwacht.:
 
-### Uitzondering ex [artikel 14 BiK](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=14)
+- – De territoriale zee, de Aansluitende zone en het Nederlandse deel van de Exclusieve Economische Zone (EEZ), het Nederlands Continentaal Plat (NCP)13Zie (VN) Zeerechtverdrag 1982; Part II (Territorial Sea and Contigious Zone, Part V (Exclusive Economic Zone) en Part VI (Continental Shelf).en de Visserijzone;
+
+- – Het werkgebied wordt uitgebreid indien dat nodig zou zijn ten aanzien van de nakoming van Europese wet- en regelgeving of andere Verdragen. Dit laatste heeft in de praktijk met name betrekking op de Visserijzone en op de rol die de Kustwacht in het landelijke draaiboek piraterij14Draaiboek Behandeling Bijstandaanvragen bij Piraterij en Gewapende overvallen op Zee, ministerie van Verkeer en Waterstaat, ministerie van Buitenlandse Zaken en het ministerie van Defensie, 2008. Het draaiboek is bedoeld om sneller te beslissen of een schip dat onder Nederlandse vlag vaart kan rekenen op preventieve bijstand van de Nederlandse (dan wel buitenlandse) overheid.heeft gekregen.
+
+### Uitzondering ex artikel 14 BiK
 
 Het domein Noordzee bevat het territorium buiten de ‘één kilometer uit de laagwaterlijn’15Bij Besluit houdende wijziging van de grens tussen de gemeente Rotterdam en niet ingedeeld gebied in de Noordzee, tevens provinciegrens van Zuid-Holland, d.d. 22 september 2004, wijkt per 1 januari 2005 de ‘één kilometergrens’ van de gemeente Rotterdam tijdelijk af, zoals dat in de bijlage van dit Besluit is opgenomen, tot het moment waarop het project maasvlakte II is gerealiseerd., hier geldt het strafrechtelijk gezag van de Noordzeeofficier.
 
-Het territorium **binnen de één kilometer** uit de laagwaterlijn valt globaal onder de verantwoordelijkheid van de regionale parketten, het FP of het Landelijk Parket (hierna LP) van het Openbaar Ministerie, afhankelijk van het type delict. Aan deze norm ligt ten grondslag de grens die wordt gehanteerd voor bestuurlijke doeleinden (bestuurlijke indeling). Binnen de één kilometer uit de laagwaterlijn gelden onder meer de provinciale en gemeentelijke verordeningen en het strafrechtelijk gezag van **het regionale parket**.
+Het territorium *binnen de één kilometer* uit de laagwaterlijn valt globaal onder de verantwoordelijkheid van de regionale parketten, het FP of het Landelijk Parket (hierna LP) van het Openbaar Ministerie, afhankelijk van het type delict. Aan deze norm ligt ten grondslag de grens die wordt gehanteerd voor bestuurlijke doeleinden (bestuurlijke indeling). Binnen de één kilometer uit de laagwaterlijn gelden onder meer de provinciale en gemeentelijke verordeningen en het strafrechtelijk gezag van *het regionale parket*.
 
 ### Opsporing en vervolging
 
@@ -93,7 +109,15 @@ De inzet van opsporingsdiensten op de Noordzee dient te worden afgestemd met de 
 
 ### Strafbare feiten gepleegd op zee zowel binnen de territoriale/economische grenzen van het Nederlands zeegebied en/of op vaartuigen met geldend Nederlands rechtsregime:
 
+- 1. De reguliere zaken op het gebied van milieu, verkeer/veiligheid en visserij16Ten aanzien van de illegale visserijwerktuigen (voorzieningen, maaswijdte, binnenkuil, bijvangst) is in de PKHN al besloten tot een gerichte aanpak.alsmede een milieucrisis of -ramp op de Noordzee worden door het FP behandeld. Dit geldt eveneens voor de commune en economische delicten die met deze zaken een directe samenhang hebben. De Noordzeeofficier voert hierbij het assessment uit en verwijst bij acceptatie de zaak door naar het Noordzee-team van het FP.
+
+- 2. Overige commune delicten op de Noordzee volgen in beginsel de normale regeling in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en gaan naar het parket dat primair jurisdictie heeft, tenzij deze strafbare gedraging een directe samenhang vertoont met een door het FP in behandeling genomen onderzoek.
+
 ### Strafbare feiten gepleegd waarbij een Nederlands vaartuig betrokken is:
+
+- 1. De commune delicten, die gepleegd worden aan boord van een vaartuig worden gemeld aan de Noordzeeofficier. Hij voert hierbij het assessment uit en verwijst de zaak – na overleg – naar het arrondissementsparket van Amsterdam.
+
+- 2. Ten aanzien van terrorisme en piraterij / gewapende overval op zee, beoordeelt de Noordzeeofficier of er sprake is van Nederlandse rechtsmacht en verzorgt de intake van het onderzoek ten behoeve van het LP17Behoudens missies van militaire aard, waarbij separate afspraken met het Landelijk Parket van kracht zijn.. Het LP is in beginsel het eerste aangewezen parket ten aanzien van deze commune en bijzondere strafzaken. Het LP zal onderhavige commune strafzaken op zee behandelen en verwerken.
 
 De Noordzeeofficier adviseert en ondersteunt in alle vorenstaande gevallen zijn collegae op de parketten. De Noordzeeofficier en het FP Noordzee-team (beleid/operationeel) functioneren als vraagbaak voor diegenen die informatie behoeven in nautische aangelegenheden.
 
@@ -107,7 +131,7 @@ De Noordzeeofficier is primair verantwoordelijk voor de beleidsmatige zaken over
 
 ### Waddenzee
 
-De handhavingcoördinatie met betrekking tot de Waddenzee (officieel behorend tot Nederlands binnenwatergebied) is **niet belegd** bij de Noordzeeofficier. Deze handhavingcoördinatie ligt bij het bestuur en de diverse landelijke toezichthoudende diensten, die daartoe een samenwerking zijn aangegaan, waarvan het OM geen deel uitmaakt. De strafrechtelijke handhaving valt onder de aansturing van de regionale parketten Alkmaar/Haarlem en Groningen/Leeuwarden.
+De handhavingcoördinatie met betrekking tot de Waddenzee (officieel behorend tot Nederlands binnenwatergebied) is *niet belegd* bij de Noordzeeofficier. Deze handhavingcoördinatie ligt bij het bestuur en de diverse landelijke toezichthoudende diensten, die daartoe een samenwerking zijn aangegaan, waarvan het OM geen deel uitmaakt. De strafrechtelijke handhaving valt onder de aansturing van de regionale parketten Alkmaar/Haarlem en Groningen/Leeuwarden.
 
 ### Overgangsrecht
 

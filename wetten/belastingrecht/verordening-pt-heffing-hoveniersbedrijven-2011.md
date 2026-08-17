@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2011)"
+citeertitel: "Verordening PT heffing hoveniersbedrijven 2011"
 identifier: "BWBR0029923"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-06-03"
-last_updated: "2012-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029923"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11308523"
-version_id: "18532152"
-internal_id: "C25861611"
-label_id: "11282564"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029923/2012-06-03/0"
-intitule_bron: "Vbbo.2011-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-10"
-intitule_published: "2011-04-15"
-intitule_in_force: "2011-04-15"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-21"
-original_signed_date: "2010-11-10"
-original_published_date: "2011-04-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-04-17"
-jci_1_3: "jci1.3:c:BWBR0029923&z=2012-06-03&g=2012-06-03"
-jci_1_0: "1.0:c:BWBR0029923&g=2012-06-03"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing hoveniersbedrijven 2011"
-signed_date: "2010-11-10"
-entry_into_force: "2011-04-17"
+publicatiedatum: 2011-04-17
+laatste_update: 2012-06-03
+status: geldig
+toestand: 2012-06-03
+bron: "https://wetten.overheid.nl/BWBR0029923"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2011)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Commissie voor hovenierswerkzaamheden, d.d. 11 oktober 2010;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -75,7 +46,7 @@ In deze verordening en de daarop berustende bepalingen wordt verslaan onder:
 
 2. Bij een omzet hoger dan € 32.500,- is een basisheffing verschuldigd ter hoogte van € 94,50.
 
-- a. Over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- is een heffing verschuldigd van 0,022%.
+3. - a. Over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- is een heffing verschuldigd van 0,022%.
 
 - b. Over de omzet hoger dan € 2.250.000,- maar niet hoger dan € 4.500.000.- is een heffing verschuldigd van 0,014%.
 

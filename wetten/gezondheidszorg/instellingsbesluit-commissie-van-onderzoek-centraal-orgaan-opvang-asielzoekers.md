@@ -1,51 +1,25 @@
 ---
 title: "Instellingsbesluit commissie van onderzoek Centraal Orgaan opvang asielzoekers"
 identifier: "BWBR0030717"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-04-24"
-last_updated: "2012-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030717"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11512043"
-version_id: "18946032"
-internal_id: "C26440881"
-label_id: "11485364"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030717/2012-04-24/0"
-intitule_bron: "Stcrt.2011-22063"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-25"
-intitule_published: "2011-12-05"
-intitule_in_force: "2011-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-22063"
-original_signed_date: "2011-11-25"
-original_published_date: "2011-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-22063"
-entry_into_force_date: "2011-12-06"
-jci_1_3: "jci1.3:c:BWBR0030717&z=2012-04-24&g=2012-04-24"
-jci_1_0: "1.0:c:BWBR0030717&g=2012-04-24"
-citeertitel_status: "officieel"
-signed_date: "2011-11-25"
-entry_into_force: "2011-12-06"
+publicatiedatum: 2011-12-06
+laatste_update: 2012-04-24
+status: geldig
+toestand: 2012-04-24
+bron: "https://wetten.overheid.nl/BWBR0030717"
+opgehaald: 2026-08-17
 ---
+
 # Instellingsbesluit commissie van onderzoek Centraal Orgaan opvang asielzoekers
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Immigratie en Asiel;
+- a. *de Minister:* de Minister voor Immigratie en Asiel;
 
-- b. **de Commissie:** de Commissie van onderzoek Centraal Orgaan opvang asielzoekers.
+- b. *de Commissie:* de Commissie van onderzoek Centraal Orgaan opvang asielzoekers.
 
 ##### Artikel 2. Instelling en opdracht
 
@@ -55,9 +29,9 @@ Er is een onafhankelijke commissie die tot taak heeft onderzoek te doen naar het
 
 Als leden van de commissie worden benoemd:
 
-- –. mevrouw drs. J. Rijsdijk;
+- – mevrouw drs. J. Rijsdijk;
 
-- –. de heer prof. mr. dr. M. Scheltema.
+- – de heer prof. mr. dr. M. Scheltema.
 
 ##### Artikel 4. Secretariaat
 
@@ -102,5 +76,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 11. Citeertitel
 
 Dit besluit kan worden aangehaald als: Instellingsbesluit commissie van onderzoek Centraal Orgaan opvang asielzoekers.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

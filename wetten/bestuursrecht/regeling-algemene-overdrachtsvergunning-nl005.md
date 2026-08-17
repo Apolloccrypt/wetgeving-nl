@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11151205, houdende regels inzake de algemene overdrachtsvergunning NL005 voor demonstratie, evaluatie of expositie (Regeling algemene overdrachtsvergunning NL005)"
+citeertitel: "Regeling algemene overdrachtsvergunning NL005"
 identifier: "BWBR0030607"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-31"
-last_updated: "2021-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030607"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11490423"
-version_id: "18899702"
-internal_id: "C26368331"
-label_id: "11463864"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030607/2021-07-31/0"
-intitule_bron: "Stcrt.2011-19963"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-28"
-intitule_published: "2011-11-08"
-intitule_in_force: "2011-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-19963"
-original_signed_date: "2011-10-28"
-original_published_date: "2011-11-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-19963"
-entry_into_force_date: "2012-06-30"
-jci_1_3: "jci1.3:c:BWBR0030607&z=2021-07-31&g=2021-07-31"
-jci_1_0: "1.0:c:BWBR0030607&g=2021-07-31"
-citeertitel_status: "officieel"
-short_title: "Regeling algemene overdrachtsvergunning NL005"
-signed_date: "2011-10-28"
-entry_into_force: "2012-06-30"
+publicatiedatum: 2012-06-30
+laatste_update: 2021-07-31
+status: geldig
+toestand: 2021-07-31
+bron: "https://wetten.overheid.nl/BWBR0030607"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11151205, houdende regels inzake de algemene overdrachtsvergunning NL005 voor demonstratie, evaluatie of expositie (Regeling algemene overdrachtsvergunning NL005)
-
-Gelet op [richtlijn 2009/43](32009L0043) van het Europees Parlement en de Raad van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU L 146) en de [artikelen 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=20), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=25), en [26, tweede lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **besluit:** het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
+- – *besluit:* het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
 
-- –. **EORI-nummer:** het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
+- – *EORI-nummer:* het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
 
-- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
+- – *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
 
-- –. **inspecteur:** de directeur-generaal Douane.
+- – *inspecteur:* de directeur-generaal Douane.
 
 #### § 2. Algemene overdrachtsvergunning
 
 ##### Artikel 2
 
-1. De Minister van Buitenlandse Zaken verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=2&artikel=3&z=2021-07-31&g=2021-07-31) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=3&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorwaarden is voldaan.
+1. De Minister van Buitenlandse Zaken verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=2&artikel=3&z=2021-07-31&g=2021-07-31) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=3&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorwaarden is voldaan.
 
 2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030607&paragraaf=4&artikel=6&z=2021-07-31&g=2021-07-31) genoemde voorschriften verbonden.
 
@@ -104,7 +78,7 @@ De algemene overdrachtsvergunning is verleend onder de voorwaarde dat de overdra
 
 ##### Artikel 5
 
-De algemene overdrachtsvergunning is verleend onder de voorwaarde dat de beschikkingsbevoegde naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26), een geldig registratienummer heeft.
+De algemene overdrachtsvergunning is verleend onder de voorwaarde dat de beschikkingsbevoegde naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26), een geldig registratienummer heeft.
 
 #### § 4. Voorschriften
 
@@ -116,11 +90,11 @@ Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschri
 
 - b. bij elke levering wordt op de documenten die de zending begeleiden duidelijk zichtbaar vermeld:
 
-- 1°. het registratienummer en, indien de beschikkingsbevoegde hierover beschikt, het EORI-nummer;
+   - 1°. het registratienummer en, indien de beschikkingsbevoegde hierover beschikt, het EORI-nummer;
 
-- 2°. de lidstaat van bestemming;
+   - 2°. de lidstaat van bestemming;
 
-- 3°. NL005;
+   - 3°. NL005;
 
 - c. de beschikkingsbevoegde draagt er zorg voor dat indien de overdracht plaatsvindt voorafgaand aan demonstratie, evaluatie of expositie, de over te dragen goederen binnen één jaar na de datum van overdracht worden wederingevoerd in Nederland;
 
@@ -132,7 +106,7 @@ Aan het gebruik van de algemene overdrachtsvergunning zijn de volgende voorschri
 
 ##### Artikel 7
 
-1. Een beschikkingsbevoegde dient een verzoek tot registratie en een melding als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26) ten minste twee weken voor het eerste gebruik van de algemene overdrachtsvergunning schriftelijk in bij de inspecteur.
+1. Een beschikkingsbevoegde dient een verzoek tot registratie en een melding als bedoeld in [artikel 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26) ten minste twee weken voor het eerste gebruik van de algemene overdrachtsvergunning schriftelijk in bij de inspecteur.
 
 2. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de beschikkingsbevoegde en, indien de beschikkingsbevoegde hierover beschikt, het EORI-nummer.
 
@@ -161,5 +135,3 @@ Deze regeling treedt in werking met ingang van 30 juni 2012.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling algemene overdrachtsvergunning NL005.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,60 +1,26 @@
 ---
 title: "Besluit van 3 februari 2011, houdende regels ter uitvoering van de Wet sociale kanstrajecten jongeren BES (Uitvoeringsbesluit sociale kanstrajecten jongeren BES)"
+citeertitel: "Uitvoeringsbesluit sociale kanstrajecten jongeren BES"
 identifier: "BWBR0029694"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2011-03-08"
-last_updated: "2011-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029694"
+categorie: "Sociaal recht"
 soort: "AMvB-BES"
-stam_id: "11264283"
-version_id: "18447512"
-internal_id: "C25717671"
-label_id: "11238434"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029694/2011-03-08/0"
-intitule_bron: "Stb.2011-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-02-03"
-intitule_published: "2011-03-07"
-intitule_in_force: "2011-03-07"
-intitule_status: "goed"
-original_publication: "Stb.2011-46"
-original_signed_date: "2011-02-03"
-original_published_date: "2011-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-46"
-entry_into_force_date: "2011-03-08"
-jci_1_3: "jci1.3:c:BWBR0029694&z=2011-03-08&g=2011-03-08"
-jci_1_0: "1.0:c:BWBR0029694&g=2011-03-08"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit sociale kanstrajecten jongeren BES"
-signed_date: "2011-02-03"
-entry_into_force: "2011-03-08"
+publicatiedatum: 2011-03-08
+laatste_update: 2011-03-08
+status: geldig
+toestand: 2011-03-08
+bron: "https://wetten.overheid.nl/BWBR0029694"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 3 februari 2011, houdende regels ter uitvoering van de Wet sociale kanstrajecten jongeren BES (Uitvoeringsbesluit sociale kanstrajecten jongeren BES)
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 september 2010, nr. WJZ/236477 (4870), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op de [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=11), en [artikel 17, tweede lid van de Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 oktober 2010, no. W05.10.0459/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 31 januari 2011, nr. WJZ 256170 (4870), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking in Bonaire, St. Eustatius en Saba.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **bijzondere uitkering:** de bijzondere uitkering, bedoeld in [artikel 17 van de Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17);
+- *bijzondere uitkering:* de bijzondere uitkering, bedoeld in [artikel 17 van de Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506&artikel=17);
 
-- **wet:** de [Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506).
+- *wet:* de [Wet sociale kanstrajecten jongeren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028506).
 
 ##### Artikel 2. Berekening bijzondere uitkering
 
@@ -103,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit sociale kanstrajecten jongeren BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

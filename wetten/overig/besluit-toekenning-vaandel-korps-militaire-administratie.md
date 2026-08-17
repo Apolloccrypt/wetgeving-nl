@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 15 maart 2011, houdende de toekenning van een vaandel aan het Korps Militaire Administratie"
+citeertitel: "Besluit toekenning vaandel Korps Militaire Administratie"
 identifier: "BWBR0029825"
-country: "nl"
-rank: "kb"
-publication_date: "2011-04-09"
-last_updated: "2011-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029825"
+categorie: "Overig"
 soort: "KB"
-stam_id: "11290843"
-version_id: "18500982"
-internal_id: "C25813771"
-label_id: "11264844"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029825/2011-04-09/0"
-intitule_bron: "Stb.2011-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-15"
-intitule_published: "2011-04-08"
-intitule_in_force: "2011-04-08"
-intitule_status: "goed"
-original_publication: "Stb.2011-166"
-original_signed_date: "2011-03-15"
-original_published_date: "2011-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-166"
-entry_into_force_date: "2011-04-09"
-jci_1_3: "jci1.3:c:BWBR0029825&z=2011-04-09&g=2011-04-09"
-jci_1_0: "1.0:c:BWBR0029825&g=2011-04-09"
-citeertitel_status: "redactioneel"
-short_title: "Besluit toekenning vaandel Korps Militaire Administratie"
-signed_date: "2011-03-15"
-entry_into_force: "2011-04-09"
+publicatiedatum: 2011-04-09
+laatste_update: 2011-04-09
+status: geldig
+toestand: 2011-04-09
+bron: "https://wetten.overheid.nl/BWBR0029825"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 15 maart 2011, houdende de toekenning van een vaandel aan het Korps Militaire Administratie
-
-Op de voordracht van Onze Minister van Defensie van 9 maart 2011, nr. BS2011004777, directie juridische zaken, afdeling wet- en regelgeving;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -50,7 +24,7 @@ Het Korps Militaire Administratie voert een vaandel, bestaande uit een vaandeldo
 
 2. Op de voorzijde is in goud geborduurd een gestileerde gekroonde B, de kroon in de kleuren van het Koninklijk wapen. Onder de B is in goud geborduurd:
 
-**KORPS MILITAIRE ADMINISTRATIE**
+*KORPS MILITAIRE ADMINISTRATIE*
 
 Het geheel van de gekroonde B en de naam is omgeven door een doorlopende oranjetak.
 
@@ -85,5 +59,3 @@ Het vaandeldoek is met een broeking van oranje zijde om de vaandelstang geschove
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst. Afschrift van dit besluit zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons militair Huis.

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)"
+citeertitel: "Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0029790"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-04-01"
-last_updated: "2011-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029790"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11285333"
-version_id: "18485272"
-internal_id: "C25795931"
-label_id: "11259384"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029790/2011-04-01/0"
-intitule_bron: "Stcrt.2011-5628"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-21"
-intitule_published: "2011-03-31"
-intitule_in_force: "2011-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-5628"
-original_signed_date: "2011-03-21"
-original_published_date: "2011-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-5628"
-entry_into_force_date: "2011-04-01"
-jci_1_3: "jci1.3:c:BWBR0029790&z=2011-04-01&g=2011-04-01"
-jci_1_0: "1.0:c:BWBR0029790&g=2011-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken"
-signed_date: "2011-03-21"
-entry_into_force: "2011-04-01"
+publicatiedatum: 2011-04-01
+laatste_update: 2011-04-01
+status: geldig
+toestand: 2011-04-01
+bron: "https://wetten.overheid.nl/BWBR0029790"
+opgehaald: 2026-08-17
 ---
-# Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)
 
-Besluit:
+# Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)
 
 ##### Artikel 1
 
@@ -81,139 +57,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken.
-
-## Bijlage 1
-
-Beschrijving versierselen Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken:
-
-Ereteken voor Verdienste in goud (Heren)
-
-Ereteken voor Verdienste in goud (Dames)
-
-Ereteken voor Verdienste in zilver (Heren)
-
-Ereteken voor Verdienste in zilver (Dames)
-
-### Ereteken voor Verdienste in goud (Heren)
-
-### Beschrijving versiersel
-
-De onderscheiding omvat:
-
-Het ordeteken aan een halslint
-
-Een draaginsigne
-
-Het teken der orde bestaat uit een 5 armige ster met tien geparelde punten en een lauwerkrans tussen de armen, gedekt met een Koninklijke kroon. Het Ordeteken is uitgevoerd in verguld zilver. De armen van de ster zijn geëmailleerd in twee kleuren. De basiskleur is groen, de buitenste rand is wit. Beide banen zijn gescheiden door een rand van het edelmetaal. In het midden van het kruis bevindt zich een medaillon met een diameter 16.5 mm. Het medaillon bestaat uit een blauw geëmailleerd rond schild, diameter 10 mm, omlijst met een geëmailleerde witte rand met zilver vergulde omlijstingen. Op de voorzijde van het medaillon is het Rijkswapen in relief en in verguld zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘ERETEKEN VOOR VERDIENSTE’ te lezen. Op de tegenzijde van het medaillon is een geografische weergave van Nederland met rechts daarvan de bovenwindse en benedenwindse eilanden in een vlak in het verguld zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘KONINKRIJK DER NEDERLANDEN’ te lezen.
-
-### Halslint
-
-Het ordeteken wordt gedragen aan een moiré halslint. Het lint is vervaardigd van natuurzijde of gelijkwaardige kunstzijde. Een moiré lint vervaardigd van natuurzijde of gelijkwaardige kunstzijde, breed 45 mm, basiskleur Nassau-blauw, breed 30 mm, met aan de boorden een groene baan, breed 5 mm, gescheiden door een rode baan, breed 2,5 mm. Gestrekte lengte van het lint 420 mm.
-
-De uiteinden van het lint zijn ingestikt in een tophoek van 90°.
-
-In de hoeken is een striklint ingestikt, gestrekte lengte van beide stiklinten 350 mm, breedte 5 mm. De basiskleur van de striklinten is Nassau-blauw, met aan de boorden een groene baan, breed 1 mm, gescheiden door een rode baan, breed 0.5 mm.
-
-Voor de bevestiging van het ordeteken aan het halslint is door de rijksappel van de kroon een ring aangebracht, buitendiameter 12 mm. In de ring wordt een dubbele ovale ring aangebracht, vervaardigd van verguld zilver, dik 1 mm, afmetingen 25 x 9 x 4 mm.
-
-### Draaginsigne
-
-Het draaginsigne is vervaardigd uit een strik en een rozet. De strik is vervaardigd van moiré lint breed 9 mm, basiskleur Nassau-blauw, met aan de boorden een groene baan, breed 1.5 mm, gescheiden door een rode baan breed 1 mm. De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 28 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 23 mm.
-
-De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 5 mm met aan de boorden een groene baan, breed **0,9** mm gescheiden door een rode baan breed **0,6 mm.** In het midden van de strik, op de verticale hartlijn, is een rozet met opstaande rand bevestigd op een dubbel uitgevoerd rood lint (wings) . Diameter van de rozet 8 mm, hoogte van de rand 4 mm. De rozet is opgevuld met geplooid lint, zodanig dat de blauwe banen op de horizontale hartlijnen samen komen. Het draaginsigne is aan de achterzijde voorzien van een speld met eindstop vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht, dat verdraaiing ten opzichte van het strikje niet mogelijk is.
-
-### Ereteken voor Verdienste in goud (Dames)
-
-### Beschrijving versiersel
-
-De onderscheiding omvat:
-
-Het ordeteken aan een gestrikt lint
-
-Een draaginsigne
-
-Het teken der orde bestaat uit een 5 armige ster met tien geparelde punten en een lauwerkrans tussen de armen, gedekt met een Koninklijke kroon.
-
-Het Ordeteken is uitgevoerd in verguld zilver. De armen van de ster zijn geëmailleerd in twee kleuren. De basiskleur is groen, de buitenste rand is wit. Beide banen zijn gescheiden door een rand van het edelmetaal. In het midden van het kruis bevindt zich een medaillon met een diameter 16.5 mm. Het medaillon bestaat uit een blauw geëmailleerd rond schild, diameter 10 mm, omlijst met een geëmailleerde witte rand met zilver vergulde omlijstingen. Op de voorzijde van het medaillon is het Rijkswapen in relief en in verguld zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘ERETEKEN VOOR VERDIENSTE’ te lezen. Op de tegenzijde van het medaillon is een geografische weergave van Nederland met rechts daarvan de bovenwindse en benedenwindse eilanden in een vlak in het verguld zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘KONINKRIJK DER NEDERLANDEN’ te lezen.
-
-### Lint
-
-Voor de bevestiging van het ordeteken aan het gestrikte lint is door de rijksappel van de kroon een ring aangebracht vervaardigd uit zilverdraad. Buitendiameter 14,5 mm. Het ordeteken wordt gedragen aan een moiré strik vervaardigd van natuurzijde of gelijkwaardige kunstzijde met een breedte van 27 mm, basiskleur Nassau-blauw, met aan de boorden een groene baan, breed 3,5 mm, gescheiden door een rode baan, breed 2 mm.
-
-De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 75 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 60 mm. De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 16 mm met aan de boorden een groene baan, breed 3 mm gescheiden door een rode baan breed 2 mm. Aan de achterzijde is het draaglint voorzien van een speld, welke indien opgespeld, niet zichtbaar mag zijn. De speld is vervaardigd van messing, dik 1 mm, breedte x hoogte van de speld 35 x 13 mm. In het plaatje is, 2 mm van de bovenzijde een sleuf, afmetingen 33 x 2,5 mm aangebracht. Aan de onderzijde, in de hoeken een gaatje van 2 mm. De achterzijde van het plaatje is voorzien van een verende speld met haaksluiting, vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht dat verdraaiing ten opzichte van het plaatje niet mogelijk is.
-
-### Draaginsigne
-
-Het draaglint is vervaardigd uit een strik en een rozet. De strik is vervaardigd van moiré lint breed 9 mm, basiskleur Nassau-blauw, met aan de boorden een groene baan, breed 1.5 mm, gescheiden door een rode baan breed 1 mm. De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 28 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 23 mm.
-
-De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 5 mm met aan de boorden een groene baan, breed 0,9 mm gescheiden door een rode baan breed 0,6 mm. In het midden van de strik, op de verticale hartlijn , is een rozet met opstaande rand bevestigd op een dubbel uitgevoerd rood lint (wings) . Diameter van de rozet 8 mm, hoogte van de rand 4 mm. De rozet is opgevuld met geplooid lint, zodanig dat de blauwe banen op de horizontale hartlijnen samen komen. Het draaginsigne is aan de achterzijde voorzien van een speld met eindstop vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht, dat verdraaiing ten opzichte van het strikje niet mogelijk is.
-
-### Ereteken voor Verdienste in zilver (Heren)
-
-### Beschrijving versiersel
-
-De onderscheiding omvat:
-
-Het ordeteken aan een lint
-
-Een draaginsigne
-
-Het teken der orde bestaat uit een 5 armige ster met tien geparelde punten en een lauwerkrans tussen de armen, gedekt met een Koninklijke kroon. Het Ordeteken is uitgevoerd in zilver. De armen van de ster zijn geëmailleerd in tweekleuren. De basiskleur is groen, de buitenste rand is wit. Beide banen zijn gescheiden door een rand van het edelmetaal. In het midden van het kruis bevindt zich een medaillon met een diameter 16.5 mm. Het medaillon bestaat uit een blauw geëmailleerd rond schild, diameter 10 mm, omlijst met een geëmailleerde witte rand met zilveren omlijstingen. Op de voorzijde van het medaillon is het Rijkswapen in relief en in zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘ERETEKEN VOOR VERDIENSTE’ te lezen. Op de tegenzijde van het medaillon is een geografische weergave van Nederland met rechts daarvan de bovenwindse en benedenwindse eilanden in een vlak in het zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘KONINKRIJK DER NEDERLANDEN’ te lezen.
-
-### Lint
-
-Voor de bevestiging van het ordeteken aan het lint is door de rijksappel van de kroon een ring aangebracht vervaardigd uit zilverdraad. Buitendiameter 14,5 mm. Het ordeteken wordt gedragen aan een moiré lint vervaardigd van natuurzijde of gelijkwaardige kunstzijde met een breedte van 37 mm, basiskleur Nassau-blauw, breed 22 mm, met aan de boorden een groene baan, breed 5 mm, gescheiden door een rode baan, breed 2,5 mm. Gestrekte lengte van het lint 52 mm.
-
-Aan de achterzijde is het lint voorzien van een speld, welke in opgespelde toestand niet zichtbaar mag zijn. De speld is vervaardigd van vernikkeld messing, breedte x hoogte van de speld 35 x 13 mm. In het plaatje is, 2 mm van de bovenzijde een sleuf, afmetingen 33 x 2,5 mm aangebracht. Aan de onderzijde, in de hoeken een gaatje van 2 mm. De achterzijde van het plaatje is voorzien van een verende speld met haaksluiting, vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht dat verdraaiing ten opzichte van het plaatje niet mogelijk is.
-
-### Draaginsigne
-
-De strik is vervaardigd van moiré lint, basiskleur blauw, breed 9 mm, met aan de boorden een groene baan, breed 1,5 mm, gescheiden door een rode baan breed 1 mm. De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 28 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 23 mm.
-
-De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 5 mm met aan de boorden een groene baan, breed 0,9 mm gescheiden door een rode baan breed 0,6 mm. Het draaginsigne is aan de achterzijde voorzien van een speld met eindstop vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht, dat verdraaiing ten opzichte van het strikje niet mogelijk is.
-
-### Ereteken voor Verdienste in zilver (Dames)
-
-### Beschrijving versiersel
-
-De onderscheiding omvat:
-
-Het ordeteken aan een gestrikt lint
-
-Een draaginsigne
-
-Het teken der orde bestaat uit een 5 armige ster met tien geparelde punten en een lauwerkrans tussen de armen, gedekt met een Koninklijke kroon. Het Ordeteken is uitgevoerd in zilver. De armen van de ster zijn geemailleerd in tweekleuren. De basiskleur is groen, de buitenste rand is wit. Beide banen zijn gescheiden door een rand van het edelmetaal. In het midden van het kruis bevindt zich een medaillon met een diameter 16.5 mm. Het medaillon bestaat uit een blauw geëmailleerd rond schild, diameter 10 mm, omlijst met een geëmailleerde witte rand met zilveren omlijstingen. Op de voorzijde van het medaillon is het Rijkswapen in relief en in zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘ERETEKEN VOOR VERDIENSTE’ te lezen. Op de tegenzijde van het medaillon is een geografische weergave van Nederland met rechts daarvan de bovenwindse en benedenwindse eilanden in een vlak in het zilver afgebeeld. In de wit geëmailleerde rand er omheen is de tekst ‘KONINKRIJK DER NEDERLANDEN’ te lezen.
-
-### Lint
-
-Voor de bevestiging van het ordeteken aan het gestrikte lint is door de rijksappel van de kroon een ring aangebracht vervaardigd uit zilverdraad. Buitendiameter 14,5 mm. Het ordeteken wordt gedragen aan een moiré strik vervaardigd van natuurzijde of gelijkwaardige kunstzijde met een breedte van 27 mm, basiskleur Nassau-blauw 16 mm breed, met aan de boorden een groene baan, breed 3,5 mm, gescheiden door een rode baan, breed 2 mm.
-
-De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 75 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 60 mm.
-
-De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 16 mm met aan de boorden een groene baan, breed 3 mm gescheiden door een rode baan breed 2 mm. Aan de achterzijde is het draaglint voorzien van een speld, welke indien opgespeld, niet zichtbaar mag zijn. De speld is vervaardigd van vernikkeld messing, breedte x hoogte van de speld 35 x 13 mm. In het plaatje is, 2 mm van de bovenzijde een sleuf, afmetingen 33 x 2,5 mm aangebracht. Aan de onderzijde, in de hoeken een gaatje van 2 mm.
-
-De achterzijde van het plaatje is voorzien van een verende speld met haaksluiting, vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht dat verdraaiing ten opzichte van het plaatje niet mogelijk is.
-
-### Draaginsigne
-
-De strik is vervaardigd van moiré lint, basiskleur Nassau-blauw, breed 9 mm, met aan de boorden een groene baan, breed 1,5 mm, gescheiden door een rode baan breed 1 mm. De strik is opgebouwd uit vier lagen. De eerste en tweede laag worden gevormd door een lint zodanig gevouwen, dat de einden aan de achterzijde samenkomen. Gerede lengte ca 28 mm.
-
-De derde en vierde laag zijn ook gevormd door een lint, zodanig gevouwen dat de einden aan de achterzijde samenkomen. Gerede lengte ca 23 mm.
-
-De strik wordt in het midden samengebonden door een moiré lint, basis kleur Nassau-blauw, breed 5 mm met aan de boorden een groene baan, breed 0,9 mm gescheiden door een rode baan breed 0,6 mm. De draaginsigne is aan de achterzijde voorzien van een speld met eindstop vervaardigd van roestwerend materiaal. De speld is zodanig aangebracht, dat verdraaiing ten opzichte van het strikje niet mogelijk is.
-
-## Bijlage 2. Goud
-
-## Bijlage 3. Zilver
-
-Dit besluit zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.

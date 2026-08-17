@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052908"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 juli 2026, nr. WJZ/107402891, houdende nadere regels over cyberbeveiliging voor essentiële en belangrijke entiteiten in de LVVN-sectoren (Regeling cyberbeveiliging LVVN) [KetenID WGK28488]

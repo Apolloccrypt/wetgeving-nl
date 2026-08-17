@@ -1,61 +1,41 @@
 ---
 title: "Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders"
 identifier: "BWBR0029899"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-04-21"
-last_updated: "2011-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029899"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11304323"
-version_id: "18521772"
-internal_id: "C25847081"
-label_id: "11278504"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029899/2011-04-21/0"
-intitule_bron: "Stcrt.2011-6924"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-13"
-intitule_published: "2011-04-20"
-intitule_in_force: "2011-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-6924"
-original_signed_date: "2011-04-13"
-original_published_date: "2011-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-6924"
-entry_into_force_date: "2011-04-21"
-jci_1_3: "jci1.3:c:BWBR0029899&z=2011-04-21&g=2011-04-21"
-jci_1_0: "1.0:c:BWBR0029899&g=2011-04-21"
-citeertitel_status: "redactioneel"
-signed_date: "2011-04-13"
-entry_into_force: "2011-04-21"
+publicatiedatum: 2011-04-21
+laatste_update: 2011-04-21
+status: geldig
+toestand: 2011-04-21
+bron: "https://wetten.overheid.nl/BWBR0029899"
+opgehaald: 2026-08-17
 ---
+
 # Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders
 
-De staatssecretaris van Financiën heeft het volgende besloten.
+*Dit besluit vervangt het besluit van 12 april 2007, nr. CPP 2007/520M, waarin is goedgekeurd dat transportondernemers die meerdaagse of op meer dagen internationale ritten maken onder voorwaarden als verblijfkosten een bepaald bedrag per gereden dag ten laste van hun winst mogen brengen.*
 
-**Dit besluit vervangt het besluit van 12 april 2007, nr. CPP 2007/520M, waarin is goedgekeurd dat transportondernemers die meerdaagse of op meer dagen internationale ritten maken onder voorwaarden als verblijfkosten een bepaald bedrag per gereden dag ten laste van hun winst mogen brengen.**
+*Overeenkomstig het vermelde in paragraaf 4 van het besluit wordt het als verblijfkosten per gereden dag in aanmerking te nemen bedrag jaarlijks aangepast en gepubliceerd op www.belastingdienst.nl. De bedragen van de laatste vijf jaren zijn op deze site raadpleegbaar; niet meer via het in het besluit van 12 april 2007 genoemde pad, maar via de zoekterm ‘eigen rijders’ .*
 
-**Overeenkomstig het vermelde in paragraaf 4 van het besluit wordt het als verblijfkosten per gereden dag in aanmerking te nemen bedrag jaarlijks aangepast en gepubliceerd op www.belastingdienst.nl. De bedragen van de laatste vijf jaren zijn op deze site raadpleegbaar; niet meer via het in het besluit van 12 april 2007 genoemde pad, maar via de zoekterm ‘eigen rijders’ .**
-
-**Voor het overige is geen wijziging beoogd van de regeling zoals omschreven in voormeld besluit van 12 april 2007.**
+*Voor het overige is geen wijziging beoogd van de regeling zoals omschreven in voormeld besluit van 12 april 2007.*
 
 ### 1. Inleiding
 
 Voor transportondernemers die meerdaagse internationale ritten maken is een regeling getroffen voor de aftrek van verblijfkosten bij het vaststellen van de winst uit onderneming. Mede uit doelmatigheidoverwegingen, administratieve lastenverlichting en ter harmonisatie van de uitvoeringspraktijk heb ik ingestemd met een vaste normering van deze kosten. Een evaluatie van deze regeling met de brancheorganisaties TLN en VERN heeft tot de conclusie geleid dat de regeling kan worden verlengd en onder voorwaarden ook kan worden toegepast ten aanzien van transportondernemers die dagelijks vanuit een andere plaats dan hun woonadres internationale ritten maken.
 
-In paragraaf 2 van dit besluit is aangegeven in welke situaties een vast bedrag aan verblijfkosten ten laste van de winst mag worden gebracht. In paragraaf 3 is dit verduidelijkt aan de hand van een aantal voorbeelden.
+In [paragraaf 2](https://wetten.overheid.nl/BWBR0029899) van dit besluit is aangegeven in welke situaties een vast bedrag aan verblijfkosten ten laste van de winst mag worden gebracht. In [paragraaf 3](https://wetten.overheid.nl/BWBR0029899) is dit verduidelijkt aan de hand van een aantal voorbeelden.
 
-Tot slot is in paragraaf 4 ingegaan op de werkingsduur van de regeling en op de wijze waarop het bedrag per gereden dag jaarlijks zal worden aangepast en gepubliceerd.
+Tot slot is in [paragraaf 4](https://wetten.overheid.nl/BWBR0029899) ingegaan op de werkingsduur van de regeling en op de wijze waarop het bedrag per gereden dag jaarlijks zal worden aangepast en gepubliceerd.
 
 ### 2. Goedkeuring verblijfkosten
 
-Ik keur goed dat transportondernemers die meerdaagse internationale ritten maken als verblijfkosten het in paragraaf 4 van dit besluit bedoelde vaste bedrag per gereden dag ten laste van hun winst mogen brengen. Hierbij tellen de vertrek- en terugkomstdag elk voor de helft mee. Onder meerdaagse, internationale ritten worden ritten verstaan die langer dan 24 uur duren en waarbij de verste bestemming niet in Nederland ligt.
+Ik keur goed dat transportondernemers die meerdaagse internationale ritten maken als verblijfkosten het in [paragraaf 4](https://wetten.overheid.nl/BWBR0029899) van dit besluit bedoelde vaste bedrag per gereden dag ten laste van hun winst mogen brengen. Hierbij tellen de vertrek- en terugkomstdag elk voor de helft mee. Onder meerdaagse, internationale ritten worden ritten verstaan die langer dan 24 uur duren en waarbij de verste bestemming niet in Nederland ligt.
 
 Een gelijke goedkeuring geldt voor transportondernemers die vanuit één of meer plaatsen, die meer dan 50 km buiten hun woonadres is/zijn gelegen internationale ritten maken, welke elk korter (kunnen) duren dan 24 uur; dit onder de voorwaarde dat:
+
+- a. deze ritten op aaneengesloten dagen plaatsvinden (eventueel met ritten waarbij men meer dagen aaneengesloten in het buitenland verblijft); en
+
+- b. het traject van elke zodanige rit zich geheel bevindt buiten een afstand van 50 km van het woonadres van de transportondernemer.
 
 Belastingplichtigen moeten hun aantal gereden dagen aannemelijk maken. Dit kan door middel van bijv. tachograafschijven, facturen en rittenstaten.
 
@@ -126,5 +106,3 @@ Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit b
 ### 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot de datum van het besluit.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

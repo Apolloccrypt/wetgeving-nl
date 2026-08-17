@@ -1,86 +1,84 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 21 april 2011, nr. DGV/DPV/P&M 2011-2000113644, houdende de vaststelling van een landelijk sociaal statuut politie (Regeling landelijk sociaal statuut)"
+citeertitel: "Regeling landelijk sociaal statuut politie"
 identifier: "BWBR0029961"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029961"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11316253"
-version_id: "23734662"
-internal_id: "C34158471"
-label_id: "11290284"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029961/2025-04-01/0"
-intitule_bron: "Stcrt.2011-8388"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-21"
-intitule_published: "2011-05-13"
-intitule_in_force: "2011-05-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2016-68739"
-original_signed_date: "2016-12-07"
-original_published_date: "2016-12-21"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2016-68739"
-entry_into_force_date: "2016-12-07"
-jci_1_3: "jci1.3:c:BWBR0029961&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0029961&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling landelijk sociaal statuut politie"
-signed_date: "2016-12-07"
-entry_into_force: "2016-12-07"
+publicatiedatum: 2016-12-07
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0029961"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 21 april 2011, nr. DGV/DPV/P&M 2011-2000113644, houdende de vaststelling van een landelijk sociaal statuut politie (Regeling landelijk sociaal statuut)
-
-Gelet op de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=39), [55i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55i), en [55u van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55u) en [artikel 6, zesde lid Besluit reis-, verblijf- en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
-- a. **ambtenaar:** ambtenaar, als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker, en de vrijwillige ambtenaar;
+- a. *ambtenaar:* ambtenaar, als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) met uitzondering van de vakantiewerker, en de vrijwillige ambtenaar;
 
-- b. **Barp:** [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
+- b. *Barp:*
+ [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
 
-- c. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- c. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- d. **Brvvp:** [Besluit reis-, verblijf-, en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064);
+- d. *Brvvp:*
+ [Besluit reis-, verblijf-, en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064);
 
-- e. **bezwaaradviescommissie:** bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2025-04-01&g=2025-04-01), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
+- e. *bezwaaradviescommissie:* bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2025-04-01&g=2025-04-01), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
 
-- f. **CGOP:** Commissie voor centraal georganiseerd overleg in politie- en ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2);
+- f. *CGOP:* Commissie voor centraal georganiseerd overleg in politie- en ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2);
 
-- g. **functie:** functie als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- g. *functie:* functie als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- h. **herplaatsingskandidaat:** herplaatsingskandidaat als bedoeld in de [artikelen 55k](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55k), [55l, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), en [55lb, vierde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb);
+- h. *herplaatsingskandidaat:* herplaatsingskandidaat als bedoeld in de [artikelen 55k](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55k), [55l, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), en [55lb, vierde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb);
 
-- i. **minister:** minister van Justitie en Veiligheid;
+- i. *minister:* minister van Justitie en Veiligheid;
 
-- j. **oorspronkelijke functie:** functie waarin de ambtenaar direct voorafgaand aan de ingangsdatum van de reorganisatie is aangesteld;
+- j. *oorspronkelijke functie:* functie waarin de ambtenaar direct voorafgaand aan de ingangsdatum van de reorganisatie is aangesteld;
 
-- k. **pac:** plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2025-04-01&g=2025-04-01) van deze regeling;
+- k. *pac:* plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2025-04-01&g=2025-04-01) van deze regeling;
 
-- l. **passende functie:** een functie als bedoeld in [artikel 55o, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55o);
+- l. *passende functie:* een functie als bedoeld in [artikel 55o, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55o);
 
-- m. **politievakorganisaties:** de politievakorganisaties vertegenwoordigd in de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, als bedoeld in [artikel 2 van het Besluit overleg medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2);
+- m. *politievakorganisaties:* de politievakorganisaties vertegenwoordigd in de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, als bedoeld in [artikel 2 van het Besluit overleg medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2);
 
-- n. **pre-herplaatsingskandidaat:** pre-herplaatsingskandidaat als bedoeld in [artikel 55ja van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ja);
+- n. *pre-herplaatsingskandidaat:* pre-herplaatsingskandidaat als bedoeld in [artikel 55ja van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ja);
 
-- o. **reorganisatie:** reorganisatie als bedoeld in [artikel 55i, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55i), of [artikel 55ia, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ia);
+- o. *reorganisatie:* reorganisatie als bedoeld in [artikel 55i, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55i), of [artikel 55ia, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ia);
 
-- p. **reorganisatie Politiewet 2012:** de reorganisatie in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke aanvangt tussen 1 januari 2014 en 31 december 2014;
+- p. *reorganisatie Politiewet 2012:* de reorganisatie in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke aanvangt tussen 1 januari 2014 en 31 december 2014;
 
-- q. **reorganisatieplan:** een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2025-04-01&g=2025-04-01) van deze regeling;
+- q. *reorganisatieplan:* een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2025-04-01&g=2025-04-01) van deze regeling;
 
-- r. **sleutelfunctie:** een functie als bedoeld in [artikel 55jb, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb);
+- r. *sleutelfunctie:* een functie als bedoeld in [artikel 55jb, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb);
 
-- s. **taakgebied:** het werkdomein of een deel(bewerking) daarvan, dat bij de inrichting van de organisatie in een concreet organisatieonderdeel is belegd.
+- s. *taakgebied:* het werkdomein of een deel(bewerking) daarvan, dat bij de inrichting van de organisatie in een concreet organisatieonderdeel is belegd.
+
+##### Artikel 1a. Reorganisatie Politiewet 2012
+
+1. In afwijking van [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1&z=2025-04-01&g=2025-04-01), wordt voor de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij:
+
+- a. de ambtenaar aantoont dat hij na die datum formeel van functie is gewijzigd zonder dat deze wijziging verband hield met de voorbereidingen van die reorganisatie, of
+
+- b. de ambtenaar na 31 maart 2011 formeel van functie is gewijzigd in verband met de voorbereidingen van die reorganisatie. In dat geval geldt als oorspronkelijke functie, de functie die de ambtenaar bekleedde op 31 maart 2011.
+
+2. Van de bewijslast in het eerste lid, onderdeel a, zijn uitgezonderd ambtenaren die na 1 januari 2012 formeel van functie zijn gewijzigd:
+
+- a. op basis van eerdere loopbaanafspraken;
+
+- b. op basis van afspraken gemaakt in verband met het traject Harmonisatie Arbeidsvoorwaarden Politie II, of
+
+- c. omdat hun aanstelling als aspirant sindsdien is omgezet in een aanstelling als ambtenaar voor de uitvoering van de politietaak.
+
+3. In de gevallen als aangeduid in het eerste lid, onderdeel a, en het tweede lid geldt als oorspronkelijke functie, de functie die de ambtenaar bekleedde nadat deze formeel van functie is gewijzigd.
+
+##### Artikel 1b. Reorganisatie Politieacademie
+
+De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1a&z=2025-04-01&g=2025-04-01) en [20a tot en met 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2025-04-01&g=2025-04-01) zijn van overeenkomstige toepassing op de reorganisatie in verband met de inbedding van de Politieacademie in het nieuwe politiebestel.
 
 ##### Artikel 2. Informatie
 
@@ -123,6 +121,20 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 - k. inzicht in de personele gevolgen, het te voeren plaatsingsbeleid, de gevolgen met betrekking tot reistijd en reisafstand en het te verwachten natuurlijk verloop;
 
 - l. maatregelen met betrekking tot een tijdige en optimale voorlichting van de betrokken ambtenaren.
+
+##### Artikel 4a. Reorganisatiecommissie
+
+1. De reorganisatiecommissie, bedoeld in [artikel 55la, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55la), heeft in aanvulling op de in [artikel 55l, vierde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l) genoemde taak, de volgende taken:
+
+- a. Het adviseren van het bevoegd gezag over sleutelfuncties, met dien verstande dat de reorganisatiecommissie toetst of concrete voorstellen van het bevoegd gezag tot aanwijzing van sleutelfuncties voldoen aan de criteria genoemd in [artikel 55jb, eerste lid, Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb);
+
+- b. Het adviseren van de CGOP of het bij een voorgenomen reorganisatie voorgestelde flankerend beleid adequaat is toegepast ter ondervanging van de gevolgen voor de algemene rechtstoestand of de rechtspositie van het personeel dat door het voorgenomen reorganisatiebeleid wordt getroffen; en
+
+- c. Het in het algemeen, gevraagd of ongevraagd adviseren van de CGOP, over al hetgeen bevorderlijk is ten aanzien van het reorganisatieproces in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1).
+
+2. De voorzitter heeft geen stemrecht.
+
+3. Het bevoegd gezag legt de voorstellen, bedoeld in het eerste lid, onderdeel a, gemotiveerd aan de reorganisatiecommissie voor. Indien het bevoegd gezag het advies van de reorganisatiecommissie niet overneemt of indien de stemmen in de reorganisatiecommissie staken, wordt het advies voorgelegd aan de CGOP.
 
 ##### Artikel 5. Pac
 
@@ -178,6 +190,26 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 5. De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2025-04-01&g=2025-04-01) van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.
 
+##### Artikel 7a
+
+1. Een mogelijke herplaatsingskandidaat die belangstelling toont voor een verticaal positieve plaatsing, motiveert zijn belangstelling schriftelijk.
+
+2. De pac adviseert alleen over een verticaal positieve plaatsing wanneer de ambtenaar ervoor zorg draagt dat de pac over de relevante gegevens kan beschikken. Daaronder wordt in ieder geval verstaan:
+
+- a. het verslag van het meest recente gesprek, bedoeld in [artikel 71, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71);
+
+- b. een recente beoordeling, bedoeld in [artikel 71 tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71);
+
+- c. het persoonlijk ontwikkelplan;
+
+- d. het overzicht van gevolgde opleidingen en van werkervaring;
+
+- e. een weergave van de belangstellingsregistratie, en
+
+- f. overige voor de plaatsing relevante gegevens uit het personeelsdossier.
+
+3. Bij gebreke van benodigde gegevens uit het personeelsdossier nodigt de pac de betrokken ambtenaar en bevoegd gezag uit om gelijktijdig hun visie te geven op het functioneren van de ambtenaar. Is hun visie niet eensluidend dan kan de pac andere bronnen betrekken.
+
 ##### Artikel 8. Concept-personeelsplaatsingsplan
 
 1. Bij het opstellen van het concept-personeelsplaatsingsplan geschiedt de volgorde van plaatsing in de nieuwe organisatie met inachtneming van de volgende procedure:
@@ -209,6 +241,28 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 - d. bij een horizontale of een verticale positieve plaatsing is, indien de functie voor meerdere ambtenaren passend is, de geschiktheid van de ambtenaar bepalend, bij gelijke geschiktheid gaat de ambtenaar met het hoogste aantal jaren in politiedienst voor de ambtenaar met een lager aantal jaren in politiedienst.
 
 4. In afwijking van het tweede lid gaat bij een verticaal positieve plaatsing, waarvoor meerdere ambtenaren die een zelfde vergelijkbare of uitwisselbare functie uitoefenen passend zijn bevonden, de ambtenaar die geplaatst kan worden op die vergelijkbare of uitwisselbare functie voor de ambtenaar die, op grond van [artikel 55l van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), als herplaatsingskandidaat moet worden aangewezen.
+
+##### Artikel 8a
+
+1. Als politiedienstjaren als bedoeld in de [artikelen 55l](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), [55lb](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb) en [55y Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55y) worden aangemerkt die jaren waarin een ambtenaar aantoonbaar:
+
+- a. was aangesteld als ambtenaar;
+
+- b. was aangesteld als algemeen of buitengewoon opsporingsambtenaar van de Koninklijke Marechaussee;
+
+- c. was aangesteld als buitengewoon opsporingsambtenaar van de Douane,
+
+- d. was aangesteld als algemeen of bijzonder opsporingsambtenaar van de Fiscale Inlichtingen- en Opsporingsdienst-ECD of de Sociale Inlichtingen en Opsporingsdienst;
+
+- e. als algemeen of buitengewoon opsporingsambtenaar in dienst was van het Korps Spoorwegpolitie van de Nederlandse Spoorwegen voor zover het principe-akkoord van 14 oktober 1999, gesloten tussen de vakorganisaties, FNV-bondgenoten, FSV, CNV-Bedrijvenbond, VHS en het Ministerie van Justitie, het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Nederlandse Spoorwegen, op de ambtenaar van toepassing en deze een AFUP- garantieregeling toegekend heeft gekregen voor de jaren dat hij bij de spoorwegpolitie heeft gewerkt;
+
+- f. was aangesteld als onbezoldigd algemeen of bijzonder opsporingsambtenaar van het Korps Rijkspolitie, werkzaam voor een krachtens de [Wet op de weerkorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0001980) toegestane particuliere beveiligingsorganisaties van de luchthaven Schiphol in de periode van 15 februari 1974 tot en met datum 31 december 1992;
+
+- g. was aangesteld als ambtenaar van politie in dienst bij de politie in Suriname tot en met 24 november 1975; of
+
+- h. anderszins een schriftelijk besluit kan overleggen waaruit volgt dat de tijd die deze ambtenaar in een bepaalde functie was aangesteld door het bevoegd gezag voor inwerkingtreding van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) is aangemerkt als politiedienstjaar.
+
+2. De ambtenaar zorgt dat de relevante documenten tijdig ter beoordeling aan het bevoegd gezag worden overgelegd.
 
 ##### Artikel 9. Vaststelling concept-personeelsplaatsingsplan
 
@@ -292,6 +346,24 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 3. Het herplaatsingsplan en de daarin opgenomen afspraken worden periodiek, minimaal eens per half jaar, geëvalueerd en zo nodig gewijzigd. Deze wijziging is een nieuw besluit. Van de evaluatie wordt een verslag gemaakt dat wordt opgenomen in het personeelsdossier.
 
+##### Artikel 14a
+
+1. De vervulling van iedere vacature geschiedt in de volgende volgorde van voorrang:
+
+- a. Door een ambtenaar die is aangewezen als herplaatsingskandidaat die tewerkgesteld was bij het onderdeel van de politie waar de vacature zich voordoet;
+
+- b. Door een ambtenaar die is aangewezen als herplaatsingskandidaat die tewerkgesteld was bij een ander onderdeel van de politie dan het onderdeel waar de vacature zich voordoet;
+
+- c. Door een ambtenaar die is aangewezen als pre-herplaatsingskandidaat die tewerkgesteld is bij het onderdeel van de politie waar de vacature zich voordoet;
+
+- d. Door een ambtenaar die is aangewezen als pre-herplaatsingskandidaat die tewerkgesteld is bij een ander onderdeel van de politie dan het onderdeel waar de vacature zich voordoet;
+
+- e. Door een kandidaat die behoort tot een onderdeel van de politie; of
+
+- f. Door een kandidaat van buiten de politie.
+
+2. De voorrangspositie van pre-herplaatsingskandidaten of herplaatsingskandidaten is niet van toepassing bij de invulling van sleutelfuncties.
+
 ### Flankerende voorzieningen
 
 ##### Artikel 15. Outplacement
@@ -341,117 +413,7 @@ De ambtenaar die is aangewezen onder de [Regeling aanwijzing administratief-tech
 
 Aan de herplaatsingskandidaat en aan de pre-herplaatsingskandidaat wordt op diens verzoek buitengewoon verlof met behoud van bezoldiging toegekend in verband met een sollicitatie.
 
-##### Artikel 21
-
-Wijzigt de Regeling melding voorgenomen reorganisatie.
-
-##### Artikel 22. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 2 maart 2010.
-
-##### Artikel 23. Naam
-
-Deze regeling wordt aangehaald als: Regeling landelijk sociaal statuut politie
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
-
-1. In afwijking van [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1&z=2025-04-01&g=2025-04-01), wordt voor de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij:
-
-- a. de ambtenaar aantoont dat hij na die datum formeel van functie is gewijzigd zonder dat deze wijziging verband hield met de voorbereidingen van die reorganisatie, of
-
-- b. de ambtenaar na 31 maart 2011 formeel van functie is gewijzigd in verband met de voorbereidingen van die reorganisatie. In dat geval geldt als oorspronkelijke functie, de functie die de ambtenaar bekleedde op 31 maart 2011.
-
-2. Van de bewijslast in het eerste lid, onderdeel a, zijn uitgezonderd ambtenaren die na 1 januari 2012 formeel van functie zijn gewijzigd:
-
-- a. op basis van eerdere loopbaanafspraken;
-
-- b. op basis van afspraken gemaakt in verband met het traject Harmonisatie Arbeidsvoorwaarden Politie II, of
-
-- c. omdat hun aanstelling als aspirant sindsdien is omgezet in een aanstelling als ambtenaar voor de uitvoering van de politietaak.
-
-3. In de gevallen als aangeduid in het eerste lid, onderdeel a, en het tweede lid geldt als oorspronkelijke functie, de functie die de ambtenaar bekleedde nadat deze formeel van functie is gewijzigd.
-
-##### Artikel 4a. Reorganisatiecommissie
-
-1. De reorganisatiecommissie, bedoeld in [artikel 55la, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55la), heeft in aanvulling op de in [artikel 55l, vierde lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l) genoemde taak, de volgende taken:
-
-- a. Het adviseren van het bevoegd gezag over sleutelfuncties, met dien verstande dat de reorganisatiecommissie toetst of concrete voorstellen van het bevoegd gezag tot aanwijzing van sleutelfuncties voldoen aan de criteria genoemd in [artikel 55jb, eerste lid, Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb);
-
-- b. Het adviseren van de CGOP of het bij een voorgenomen reorganisatie voorgestelde flankerend beleid adequaat is toegepast ter ondervanging van de gevolgen voor de algemene rechtstoestand of de rechtspositie van het personeel dat door het voorgenomen reorganisatiebeleid wordt getroffen; en
-
-- c. Het in het algemeen, gevraagd of ongevraagd adviseren van de CGOP, over al hetgeen bevorderlijk is ten aanzien van het reorganisatieproces in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1).
-
-2. De voorzitter heeft geen stemrecht.
-
-3. Het bevoegd gezag legt de voorstellen, bedoeld in het eerste lid, onderdeel a, gemotiveerd aan de reorganisatiecommissie voor. Indien het bevoegd gezag het advies van de reorganisatiecommissie niet overneemt of indien de stemmen in de reorganisatiecommissie staken, wordt het advies voorgelegd aan de CGOP.
-
-##### Artikel 7a
-
-1. Een mogelijke herplaatsingskandidaat die belangstelling toont voor een verticaal positieve plaatsing, motiveert zijn belangstelling schriftelijk.
-
-2. De pac adviseert alleen over een verticaal positieve plaatsing wanneer de ambtenaar ervoor zorg draagt dat de pac over de relevante gegevens kan beschikken. Daaronder wordt in ieder geval verstaan:
-
-- a. het verslag van het meest recente gesprek, bedoeld in [artikel 71, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71);
-
-- b. een recente beoordeling, bedoeld in [artikel 71 tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71);
-
-- c. het persoonlijk ontwikkelplan;
-
-- d. het overzicht van gevolgde opleidingen en van werkervaring;
-
-- e. een weergave van de belangstellingsregistratie, en
-
-- f. overige voor de plaatsing relevante gegevens uit het personeelsdossier.
-
-3. Bij gebreke van benodigde gegevens uit het personeelsdossier nodigt de pac de betrokken ambtenaar en bevoegd gezag uit om gelijktijdig hun visie te geven op het functioneren van de ambtenaar. Is hun visie niet eensluidend dan kan de pac andere bronnen betrekken.
-
-##### Artikel 8a
-
-1. Als politiedienstjaren als bedoeld in de [artikelen 55l](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), [55lb](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb) en [55y Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55y) worden aangemerkt die jaren waarin een ambtenaar aantoonbaar:
-
-- a. was aangesteld als ambtenaar;
-
-- b. was aangesteld als algemeen of buitengewoon opsporingsambtenaar van de Koninklijke Marechaussee;
-
-- c. was aangesteld als buitengewoon opsporingsambtenaar van de Douane,
-
-- d. was aangesteld als algemeen of bijzonder opsporingsambtenaar van de Fiscale Inlichtingen- en Opsporingsdienst-ECD of de Sociale Inlichtingen en Opsporingsdienst;
-
-- e. als algemeen of buitengewoon opsporingsambtenaar in dienst was van het Korps Spoorwegpolitie van de Nederlandse Spoorwegen voor zover het principe-akkoord van 14 oktober 1999, gesloten tussen de vakorganisaties, FNV-bondgenoten, FSV, CNV-Bedrijvenbond, VHS en het Ministerie van Justitie, het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Nederlandse Spoorwegen, op de ambtenaar van toepassing en deze een AFUP- garantieregeling toegekend heeft gekregen voor de jaren dat hij bij de spoorwegpolitie heeft gewerkt;
-
-- f. was aangesteld als onbezoldigd algemeen of bijzonder opsporingsambtenaar van het Korps Rijkspolitie, werkzaam voor een krachtens de [Wet op de weerkorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0001980) toegestane particuliere beveiligingsorganisaties van de luchthaven Schiphol in de periode van 15 februari 1974 tot en met datum 31 december 1992;
-
-- g. was aangesteld als ambtenaar van politie in dienst bij de politie in Suriname tot en met 24 november 1975; of
-
-- h. anderszins een schriftelijk besluit kan overleggen waaruit volgt dat de tijd die deze ambtenaar in een bepaalde functie was aangesteld door het bevoegd gezag voor inwerkingtreding van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) is aangemerkt als politiedienstjaar.
-
-2. De ambtenaar zorgt dat de relevante documenten tijdig ter beoordeling aan het bevoegd gezag worden overgelegd.
-
-##### Artikel 14a
-
-1. De vervulling van iedere vacature geschiedt in de volgende volgorde van voorrang:
-
-- a. Door een ambtenaar die is aangewezen als herplaatsingskandidaat die tewerkgesteld was bij het onderdeel van de politie waar de vacature zich voordoet;
-
-- b. Door een ambtenaar die is aangewezen als herplaatsingskandidaat die tewerkgesteld was bij een ander onderdeel van de politie dan het onderdeel waar de vacature zich voordoet;
-
-- c. Door een ambtenaar die is aangewezen als pre-herplaatsingskandidaat die tewerkgesteld is bij het onderdeel van de politie waar de vacature zich voordoet;
-
-- d. Door een ambtenaar die is aangewezen als pre-herplaatsingskandidaat die tewerkgesteld is bij een ander onderdeel van de politie dan het onderdeel waar de vacature zich voordoet;
-
-- e. Door een kandidaat die behoort tot een onderdeel van de politie; of
-
-- f. Door een kandidaat van buiten de politie.
-
-2. De voorrangspositie van pre-herplaatsingskandidaten of herplaatsingskandidaten is niet van toepassing bij de invulling van sleutelfuncties.
-
-### Flankerende voorzieningen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-#### Voorzieningen voorfase reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
+#### Voorzieningen voorfase reorganisatie Politiewet 2012
 
 ##### Artikel 20a
 
@@ -467,7 +429,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - e. het toekennen van loonsuppletie als bedoeld in [artikel 55tBarp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55t),
 
-- f. het toekennen van een vertrekstimuleringspremie als bedoeld in [artikel 55y Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55y), met dien verstande dat de vertrekstimuleringspremie in afwijking van dat artikel maximaal € 75.000 bedraagt dan wel maximaal het bruto-jaarsalaris inclusief vakantie-uitkering en eindejaarsuitkering als dat salaris meer dan € 75.000 bedraagt,
+- f. het toekennen van een vertrekstimuleringspremie als bedoeld in [artikel 55y Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55y), met dien verstande dat de vertrekstimuleringspremie in afwijking van dat artikel maximaal € 75.000 bedraagt dan wel maximaal het bruto-jaarsalaris inclusief vakantie-uitkering en eindejaarsuitkering als dat salaris meer dan € 75.000 bedraagt,
 
 - g. kwijtschelding van terugbetalingsverplichtingen als bedoeld in [artikel 55z Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55z),of
 
@@ -487,40 +449,32 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 2. Een voorziening als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2025-04-01&g=2025-04-01) kan uitsluitend worden toegekend na indiening van een ontslagaanvraag door de aanvragende ambtenaar, in de zin van [artikel 87 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=87), en onder voorbehoud dat die ontslagaanvraag ook wordt geëffectueerd.
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1b. Reorganisatie Politieacademie
-
-De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1a&z=2025-04-01&g=2025-04-01) en [20a tot en met 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2025-04-01&g=2025-04-01) zijn van overeenkomstige toepassing op de reorganisatie in verband met de inbedding van de Politieacademie in het nieuwe politiebestel.
-
-### Flankerende voorzieningen
-
-#### Voorzieningen voorfase reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-### Voorzieningen fase 2 reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
+### Voorzieningen fase 2 reorganisatie Politiewet 2012
 
 ##### Artikel 20c
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20d
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20e
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20f
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20g
+##### Artikel 21
 
-De duur van het buitengewoon verlof, bedoeld in [artikel 55y, negende lid, Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55y) wordt bepaald door het bedrag van de vertrekstimuleringspremie waarop de herplaatsingskandidaat maximaal aanspraak zou hebben te verminderen met de percentuele waarde van de vakantie-uitkering, bedoeld in [artikel 23, eerste lid, Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b, eerste lid, Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b), waarna vervolgens de uitkomst wordt gedeeld door de voor de ambtenaar geldende bezoldiging per uur, zijnde de bezoldiging die de ambtenaar gedurende zijn buitengewoon verlof daadwerkelijk zal genieten.
+*Wijzigt de Regeling melding voorgenomen reorganisatie.*
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 22. Inwerkingtreding
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 2 maart 2010.
+
+##### Artikel 23. Naam
+
+Deze regeling wordt aangehaald als: Regeling landelijk sociaal statuut politie

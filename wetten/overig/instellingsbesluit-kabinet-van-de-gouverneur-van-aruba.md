@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 14 juni 2011 tot instelling van het Kabinet van de Gouverneur van Aruba (Instellingsbesluit Kabinet van de Gouverneur van Aruba)"
+citeertitel: "Instellingsbesluit Kabinet van de Gouverneur van Aruba"
 identifier: "BWBR0030153"
-country: "nl"
-rank: "kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030153"
+categorie: "Overig"
 soort: "KB"
-stam_id: "11367773"
-version_id: "18652172"
-internal_id: "C26025071"
-label_id: "11341424"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030153/2020-01-01/0"
-intitule_bron: "Stb.2011-312"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-14"
-intitule_published: "2011-06-27"
-intitule_in_force: "2011-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2011-312"
-original_signed_date: "2011-06-14"
-original_published_date: "2011-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-312"
-entry_into_force_date: "2011-06-28"
-jci_1_3: "jci1.3:c:BWBR0030153&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0030153&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Kabinet van de Gouverneur van Aruba"
-signed_date: "2011-06-14"
-entry_into_force: "2011-06-28"
+publicatiedatum: 2011-06-28
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0030153"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 14 juni 2011 tot instelling van het Kabinet van de Gouverneur van Aruba (Instellingsbesluit Kabinet van de Gouverneur van Aruba)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2011, 2011-2000218186,
-
-[Artikel 10 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=10) in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -91,5 +63,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Kabinet van de Gouverneur van Aruba.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad en in het Afkondigingsblad van Aruba zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11134677, tot vaststelling van een herziene uitvoeringsregeling strategische goederen (Uitvoeringsregeling strategische goederen 2012)"
+citeertitel: "Uitvoeringsregeling strategische goederen 2012"
 identifier: "BWBR0030610"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-09"
-last_updated: "2021-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030610"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11491163"
-version_id: "19412712"
-internal_id: "C27198171"
-label_id: "11464634"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030610/2021-09-09/0"
-intitule_bron: "Stcrt.2011-19960"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-28"
-intitule_published: "2011-11-08"
-intitule_in_force: "2011-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-11107"
-original_signed_date: "2012-05-29"
-original_published_date: "2012-06-05"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2012-11107"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0030610&z=2021-09-09&g=2021-09-09"
-jci_1_0: "1.0:c:BWBR0030610&g=2021-09-09"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling strategische goederen 2012"
-signed_date: "2012-05-29"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2021-09-09
+status: geldig
+toestand: 2021-09-09
+bron: "https://wetten.overheid.nl/BWBR0030610"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 28 oktober 2011, nr. WJZ/11134677, tot vaststelling van een herziene uitvoeringsregeling strategische goederen (Uitvoeringsregeling strategische goederen 2012)
-
-Gelet op [verordening (EG) nr. 428/2009](32009R0428) van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor de controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134), [richtlijn 2009/43/EG](32009L0043) van het Europees Parlement en de Raad van 6 mei 2009 betreffende de vereenvoudiging van de voorwaarden voor de overdracht van defensiegerelateerde producten binnen de Gemeenschap (PbEU 2009, L 146) en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=1), [4b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=4b), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=10), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=12), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=14), [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=17), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=19), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=21), [24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=24), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=25), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=26), en [27, derde lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=27);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,23 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **besluit:** het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
+- – *besluit:* het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
 
-- –. **ERA:** het Europees Ruimte Agentschap in Noordwijk, opgericht bij het Verdrag tot oprichting van het Europees Ruimte Agentschap (Trb. 1990, 43);
+- – *ERA:* het Europees Ruimte Agentschap in Noordwijk, opgericht bij het Verdrag tot oprichting van het Europees Ruimte Agentschap (Trb. 1990, 43);
 
-- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is;
+- – *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is;
 
-- –. **inspecteur:** de directeur-generaal Douane;
+- – *inspecteur:* de directeur-generaal Douane;
 
-- –. **Joint Force Command Brunssum:** het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
+- – *Joint Force Command Brunssum:* het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
 
-- –. **Minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- – *Minister:* de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
-- –. **NAVO-strijdkrachten:** de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
+- – *NAVO-strijdkrachten:* de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
 
-- –. **vergunning:** een doorvoervergunning, een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning;
+- – *vergunning:* een doorvoervergunning, een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning;
 
-- –. **verordening 952/2013:** verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
+- – *verordening 952/2013:* verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
+
+##### Artikel 1a
+
+Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
 
 ##### Artikel 2
 
@@ -106,6 +84,12 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 #### § 3a. Voorwaarden
 
+##### Artikel 5a
+
+Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 12, eerste lid, onder d, van de Verordening producten voor tweeërlei gebruik, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
+
+#### § 4. Melding
+
 ##### Artikel 6
 
 1. De melding, bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=10) wordt schriftelijk gedaan door de beschikkingsbevoegde, door degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, door de persoon die de goederen vervoert en vindt plaats bij de inspecteur.
@@ -142,7 +126,7 @@ Geen melding is vereist voor:
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
-#### § 4. Melding
+#### § 5. Voorschriften
 
 ##### Artikel 8
 
@@ -152,13 +136,13 @@ Aan een vergunning als bedoeld in artikel 3 van de Verordening producten voor tw
 
 - b. bij elke doorvoer, uitvoer of overdracht die met een vergunning als bedoeld in het eerste lid wordt verricht wordt een factuur ingezonden aan de inspecteur, die in elk geval bevat:
 
-- 1°. het nummer van de vergunning;
+   - 1°. het nummer van de vergunning;
 
-- 2°. de naam en het adres van de ontvanger;
+   - 2°. de naam en het adres van de ontvanger;
 
-- 3°. een omschrijving van de door te voeren, uit te voeren of over te dragen goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen of in bijlage I bij de Verordening producten voor tweeërlei gebruik;
+   - 3°. een omschrijving van de door te voeren, uit te voeren of over te dragen goederen, met inbegrip van het postnummer waarmee de desbetreffende goederen zijn aangeduid in de gemeenschappelijke EU-lijst van militaire goederen of in bijlage I bij de Verordening producten voor tweeërlei gebruik;
 
-- 4°. de hoeveelheid en de waarde van de door te voeren, uit te voeren of over te dragen goederen;
+   - 4°. de hoeveelheid en de waarde van de door te voeren, uit te voeren of over te dragen goederen;
 
 - c. door middel van een bewijsstuk van ontvangst, een ambtelijk gewaarmerkte kopie van een invoerdocument of een eindgebruikersverklaring bij de inspecteur wordt aangetoond dat de goederen de bestemming waarvoor de vergunning is verleend, hebben bereikt.
 
@@ -210,7 +194,7 @@ De beschikkingsbevoegde rapporteert aan de inspecteur binnen twee maanden na afl
 
 4. De minister kan verzoeken om nadere informatie ter controle van de in het tweede lid bedoelde eisen.
 
-#### § 6. Erkenning
+#### § 7. Slotbepalingen
 
 ##### Artikel 12
 
@@ -223,35 +207,3 @@ Deze regeling treedt in werking met ingang van 30 juni 2012.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische goederen 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 12, eerste lid, onder d, van de Verordening producten voor tweeërlei gebruik, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
-
-#### § 4. Melding
-
-#### § 5. Voorschriften
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
-
-#### § 2. Aanvraag vergunning
-
-#### § 3. Vrijstelling vergunningplicht
-
-#### § 3a. Voorwaarden
-
-#### § 5. Voorschriften
-
-#### § 6. Erkenning
-
-#### § 7. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

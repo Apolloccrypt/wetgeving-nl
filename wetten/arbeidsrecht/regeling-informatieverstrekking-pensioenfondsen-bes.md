@@ -1,46 +1,18 @@
 ---
 title: "Regeling van De Nederlandsche Bank N.V. van 2 maart 2011 met betrekking tot de informatieverstrekking door pensioenfondsen die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba (Regeling informatieverstrekking pensioenfondsen BES)"
+citeertitel: "Regeling informatieverstrekking pensioenfondsen BES"
 identifier: "BWBR0029704"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-03-12"
-last_updated: "2011-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029704"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "11265883"
-version_id: "18452362"
-internal_id: "C25730121"
-label_id: "11240114"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029704/2011-03-12/0"
-intitule_bron: "Stcrt.2011-4177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-02"
-intitule_published: "2011-03-10"
-intitule_in_force: "2011-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-4177"
-original_signed_date: "2011-03-02"
-original_published_date: "2011-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-4177"
-entry_into_force_date: "2011-03-12"
-jci_1_3: "jci1.3:c:BWBR0029704&z=2011-03-12&g=2011-03-12"
-jci_1_0: "1.0:c:BWBR0029704&g=2011-03-12"
-citeertitel_status: "officieel"
-short_title: "Regeling informatieverstrekking pensioenfondsen BES"
-signed_date: "2011-03-02"
-entry_into_force: "2011-03-12"
+publicatiedatum: 2011-03-12
+laatste_update: 2011-03-12
+status: geldig
+toestand: 2011-03-12
+bron: "https://wetten.overheid.nl/BWBR0029704"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van De Nederlandsche Bank N.V. van 2 maart 2011 met betrekking tot de informatieverstrekking door pensioenfondsen die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba (Regeling informatieverstrekking pensioenfondsen BES)
-
-Gelet op [artikel 16f van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f) (Stb. 2010, 597);
-
-Gelet op de [artikelen 34 tot en met 37 van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34) (Stb. 2010, 370);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -48,11 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Bank:** De Nederlandsche Bank N.V.;
+- a. *Bank:* De Nederlandsche Bank N.V.;
 
-- b. **Wet:** [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712);
+- b. *Wet:*
+ [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712);
 
-- c. **Besluit:** [Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316).
+- c. *Besluit:*
+ [Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316).
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -70,17 +44,17 @@ Met inachtneming van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - c. het model van staat K401: premiegegevens over het nieuwe jaar, als bedoeld in [artikel 34, eerste lid, onderdeel k, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34), tenzij sprake is van een gesloten pensioenfonds;
 
-- d. het model van staten K500 tot en met K502: gegevens betreffende de toepassing van een herstelplan, als bedoeld in [artikel 34, eerste lid, onderdeel **o**, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34), met betrekking tot de situatie per 31 december van het verslagjaar;
+- d. het model van staten K500 tot en met K502: gegevens betreffende de toepassing van een herstelplan, als bedoeld in [artikel 34, eerste lid, onderdeel *o*, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34), met betrekking tot de situatie per 31 december van het verslagjaar;
 
 - e. het model van staat K601: indexatiegegevens, als bedoeld in [artikel 34, eerste lid, onderdeel h, onder 3°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34); en
 
-- f. het model van staat K602: gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen, als bedoeld in [artikel 34, eerste lid, onderdeel j, onder 1°, en onderdeel **p**, en tweede lid, onderdelen a en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34).
+- f. het model van staat K602: gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen, als bedoeld in [artikel 34, eerste lid, onderdeel j, onder 1°, en onderdeel *p*, en tweede lid, onderdelen a en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34).
 
 ##### Artikel 2.2. Regels met betrekking tot de gegevensverstrekking
 
 1. Voor wat betreft de kwartaalstaten zijn de regels met betrekking tot de reikwijdte en de mate van detaillering van de te verstrekken gegevens, de waardering van de posten, de te hanteren rekeneenheid en de afronding, bedoeld in [artikel 36, aanhef en onderdelen b tot en met e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36) gesteld in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=1&z=2011-03-12&g=2011-03-12) opgenomen modellen van de kwartaalstaten.
 
-2. De voor de kwartaalstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel **d**, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36), is de dollar (USD).
+2. De voor de kwartaalstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel *d*, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36), is de dollar (USD).
 
 ##### Artikel 2.3. Indieningstermijn en -frequentie
 
@@ -168,18 +142,8 @@ Met inachtneming van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 4.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de **Staatscourant** waarin zij wordt geplaatst en werkt terug tot en met 10 oktober 2010.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst en werkt terug tot en met 10 oktober 2010.
 
 ##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen BES.
-
-## Bijlage 1
-
-Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.
-
-## Bijlage 2
-
-Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.
-
-Deze regeling zal met de toelichting in de **Staatscourant** worden geplaatst, met uitzondering van de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=1&z=2011-03-12&g=2011-03-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=2&z=2011-03-12&g=2011-03-12) opgenomen kwartaalstaten en jaarstaten, die ter inzage worden gelegd bij de Bank en tevens door de Bank worden gepubliceerd op de website www.bes.dnb.nl/nl.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 11 maart 2011, nr. 5688652/11, houdende mandaat van de bevoegdheid tot beëdiging van de buitengewoon opsporingsambtenaar (Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar)"
+citeertitel: "Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar"
 identifier: "BWBR0029739"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-14"
-last_updated: "2020-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029739"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11274133"
-version_id: "18464052"
-internal_id: "C25744791"
-label_id: "11248244"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029739/2020-03-14/0"
-intitule_bron: "Stcrt.2011-4852"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-11"
-intitule_published: "2011-03-22"
-intitule_in_force: "2011-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-4852"
-original_signed_date: "2011-03-11"
-original_published_date: "2011-03-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-4852"
-entry_into_force_date: "2011-03-23"
-jci_1_3: "jci1.3:c:BWBR0029739&z=2020-03-14&g=2020-03-14"
-jci_1_0: "1.0:c:BWBR0029739&g=2020-03-14"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar"
-signed_date: "2011-03-11"
-entry_into_force: "2011-03-23"
+publicatiedatum: 2011-03-23
+laatste_update: 2020-03-14
+status: geldig
+toestand: 2020-03-14
+bron: "https://wetten.overheid.nl/BWBR0029739"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie van 11 maart 2011, nr. 5688652/11, houdende mandaat van de bevoegdheid tot beëdiging van de buitengewoon opsporingsambtenaar (Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar)
-
-Gelet op [artikel 21, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=21) en [artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -52,7 +26,7 @@ Besluit:
 
 2. In aanvulling op het eerste lid kan het hoofd van een onder de centrale overheid ressorterende landelijke dienst, bepalen dat het afnemen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van zijn plaatsvervanger.
 
-3. Het hoofd van dienst, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029739&artikel=1&z=2020-03-14&g=2020-03-14), kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van zijn plaatsvervanger.
+3. Het hoofd van dienst, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029739&artikel=1&z=2020-03-14&g=2020-03-14), kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van zijn plaatsvervanger.
 
 4. In aanvulling op het derde lid kan de Commandant Koninklijke Marechaussee, in zijn hoedanigheid van hoofd van dienst, bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=20), namens hem geschiedt in handen van door hem aan te wijzen commandanten.
 
@@ -67,5 +41,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

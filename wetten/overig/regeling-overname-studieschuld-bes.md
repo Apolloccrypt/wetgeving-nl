@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 mei 2011, nr. 2011-2000111221, houdende vaststelling van een regeling voor de overname van studieschuld (Regeling overname studieschuld BES)"
+citeertitel: "Regeling overname studieschuld BES"
 identifier: "BWBR0030081"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2011-05-16"
-last_updated: "2011-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030081"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11347753"
-version_id: "18613372"
-internal_id: "C25970671"
-label_id: "11321544"
-dtd_version: "2.0"
-original_entry_into_force: "2011-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030081/2011-05-16/0"
-intitule_bron: "Stcrt.2011-9411"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-24"
-intitule_published: "2011-06-15"
-intitule_in_force: "2011-06-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-9411"
-original_signed_date: "2011-05-24"
-original_published_date: "2011-06-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-9411"
-entry_into_force_date: "2011-05-16"
-jci_1_3: "jci1.3:c:BWBR0030081&z=2011-05-16&g=2011-05-16"
-jci_1_0: "1.0:c:BWBR0030081&g=2011-05-16"
-citeertitel_status: "officieel"
-short_title: "Regeling overname studieschuld BES"
-signed_date: "2011-05-24"
-entry_into_force: "2011-05-16"
+publicatiedatum: 2011-05-16
+laatste_update: 2011-05-16
+status: geldig
+toestand: 2011-05-16
+bron: "https://wetten.overheid.nl/BWBR0030081"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 mei 2011, nr. 2011-2000111221, houdende vaststelling van een regeling voor de overname van studieschuld (Regeling overname studieschuld BES)
-
-Gelet op [artikel 81, onder a, van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -101,5 +75,3 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling overname studieschuld BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

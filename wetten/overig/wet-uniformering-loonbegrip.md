@@ -1,199 +1,170 @@
 ---
 title: "Wet van 6 juni 2011 tot wijziging van een aantal wetten ter uniformering van het loonbegrip (Wet uniformering loonbegrip)"
+citeertitel: "Wet uniformering loonbegrip"
 identifier: "BWBR0030105"
-country: "nl"
-rank: "wet"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030105"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11352113"
-version_id: "19070432"
-internal_id: "C26843871"
-label_id: "11326214"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030105/2015-01-01/0"
-intitule_bron: "Stb.2011-288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-06"
-intitule_published: "2011-06-21"
-intitule_in_force: "2012-02-10"
-intitule_status: "goed"
-original_publication: "Stb.2011-288"
-original_signed_date: "2011-06-06"
-original_published_date: "2011-06-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "32131"
-original_url_id: "stb-2011-288"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0030105&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0030105&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet uniformering loonbegrip"
-signed_date: "2011-06-06"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0030105"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 6 juni 2011 tot wijziging van een aantal wetten ter uniformering van het loonbegrip (Wet uniformering loonbegrip)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de loonbegrippen voor de loonheffingen te uniformeren;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel Ia
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel II
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel IIa
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Algemene nabestaandenwet.
+*Wijzigt de Algemene nabestaandenwet.*
 
 ##### Artikel V
 
-Wijzigt de Algemene Ouderdomswet.
+*Wijzigt de Algemene Ouderdomswet.*
 
 ##### Artikel VI
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+*Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
+*Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.*
 
 ##### Artikel VIII
 
-Wijzigt de Toeslagenwet.
+*Wijzigt de Toeslagenwet.*
 
 ##### Artikel IX
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
 ##### Artikel X
 
-[**vervallen**]
+[*vervallen*]
 
 ##### Artikel XI
 
-Wijzigt de Werkloosheidswet.
+*Wijzigt de Werkloosheidswet.*
 
 ##### Artikel XII
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
+*Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
 
 ##### Artikel XV
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet inkomensvoorziening oudere werklozen.
+*Wijzigt de Wet inkomensvoorziening oudere werklozen.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet investeren in jongeren.
+*Wijzigt de Wet investeren in jongeren.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet werk en inkomen kunstenaars.
+*Wijzigt de Wet werk en inkomen kunstenaars.*
 
 ##### Artikel XX
 
-Wijzigt de Wet arbeid en zorg.
+*Wijzigt de Wet arbeid en zorg.*
 
 ##### Artikel XXI
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+*Wijzigt de Wet minimumloon en minimumvakantiebijslag.*
 
 ##### Artikel XXII
 
-Wijzigt de Reparatiewet VWS 2006.
+*Wijzigt de Reparatiewet VWS 2006.*
 
 ##### Artikel XXIII
 
-Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
+*Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.*
 
 ##### Artikel XXIV
 
-Wijzigt de Wet op de zorgtoeslag.
+*Wijzigt de Wet op de zorgtoeslag.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet buitengewoon pensioen 1940–1945.
+*Wijzigt de Wet buitengewoon pensioen 1940–1945.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
+*Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.*
 
 ##### Artikel XXX
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel XXXI
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel XXXII
 
-Wijzigt de Wet op het kindgebonden budget.
+*Wijzigt de Wet op het kindgebonden budget.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+*Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.*
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet studiefinanciering 2000.
+*Wijzigt de Wet studiefinanciering 2000.*
 
 ##### Artikel XXXV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet financiële voorzieningen privatisering ABP.
+*Wijzigt de Wet financiële voorzieningen privatisering ABP.*
 
 ##### Artikel XXXVII
 
@@ -231,11 +202,11 @@ Op het moment dat deze wet in werking treedt worden de bedragen in kolom III van
 
 ##### Artikel XLI
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XLII
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
 ##### Artikel XLIII
 
@@ -246,5 +217,3 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 ##### Artikel XLIV
 
 Deze wet wordt aangehaald als: Wet uniformering loonbegrip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

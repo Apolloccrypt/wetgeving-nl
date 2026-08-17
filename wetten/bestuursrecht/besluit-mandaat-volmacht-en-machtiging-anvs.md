@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0039796"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/159853, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Besluit mandaat, volmacht en machtiging ANVS)

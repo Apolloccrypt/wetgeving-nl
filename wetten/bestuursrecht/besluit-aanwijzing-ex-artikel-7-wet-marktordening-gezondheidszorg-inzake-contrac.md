@@ -1,48 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 november 2011, nr. MC/U-3092027, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
 identifier: "BWBR0030715"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-02-01"
-last_updated: "2012-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030715"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11511673"
-version_id: "18945302"
-internal_id: "C26440031"
-label_id: "11484994"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030715/2012-02-01/0"
-intitule_bron: "Stcrt.2011-21600"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-21"
-intitule_published: "2011-12-01"
-intitule_in_force: "2011-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-21600"
-original_signed_date: "2011-11-21"
-original_published_date: "2011-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-21600"
-entry_into_force_date: "2012-02-01"
-jci_1_3: "jci1.3:c:BWBR0030715&z=2012-02-01&g=2012-02-01"
-jci_1_0: "1.0:c:BWBR0030715&g=2012-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
-signed_date: "2011-11-21"
-entry_into_force: "2012-02-01"
+publicatiedatum: 2012-02-01
+laatste_update: 2012-02-01
+status: geldig
+toestand: 2012-02-01
+bron: "https://wetten.overheid.nl/BWBR0030715"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 november 2011, nr. MC/U-3092027, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 23 september 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2010/11, 30 597, nr. 213);
-
-Gezien mijn inbreng van 15 november 2011 (DLZ-U-3088910) voor het verslag van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal;
-
-Besluit:
 
 ##### Artikel 1. werkingssfeer en uitvoering aanwijzing
 
@@ -141,5 +111,3 @@ De zorgautoriteit zet in 2012 de prestatie ‘inloopfunctie’ voort.
 1. De zorgautoriteit voorziet erin dat de reikwijdte van haar beleidsregels inzake prestatiebeschrijvingen en tarieven zich met ingang van 1 januari 2012 tevens uitstrekt tot personen als bedoeld in [artikel 1, eerste lid, onder i, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1).
 
 2. De zorgautoriteit past, met het oog op het voorkómen van onnodige administratieve belasting, ook overigens waar nodig haar regels of beleidsregels aan aan het feit dat personen als bedoeld in [artikel 1, eerste lid, onder i, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1), gecontracteerd kunnen worden door zorgkantoren.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

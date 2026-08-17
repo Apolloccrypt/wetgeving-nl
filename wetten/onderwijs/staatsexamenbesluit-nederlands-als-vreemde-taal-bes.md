@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 28 april 2011, houdende vaststelling van voorschriften inzake het staatsexamen Nederlands als vreemde taal BES (Staatsexamenbesluit Nederlands als vreemde taal BES)"
+citeertitel: "Staatsexamenbesluit Nederlands als vreemde taal BES"
 identifier: "BWBR0029980"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029980"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11319413"
-version_id: "18560572"
-internal_id: "C25899701"
-label_id: "11293494"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029980/2022-08-01/0"
-intitule_bron: "Stb.2011-230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-28"
-intitule_published: "2011-05-20"
-intitule_in_force: "2011-05-20"
-intitule_status: "goed"
-original_publication: "Stb.2011-230"
-original_signed_date: "2011-04-28"
-original_published_date: "2011-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2011-230"
-entry_into_force_date: "2011-08-01"
-jci_1_3: "jci1.3:c:BWBR0029980&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0029980&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Staatsexamenbesluit Nederlands als vreemde taal BES"
-signed_date: "2011-04-28"
-entry_into_force: "2011-08-01"
+publicatiedatum: 2011-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0029980"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 28 april 2011, houdende vaststelling van voorschriften inzake het staatsexamen Nederlands als vreemde taal BES (Staatsexamenbesluit Nederlands als vreemde taal BES)
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 24 september 2010, nr. WJZ/236427 (4875), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 116, tweede en vijfde lid, van de Wet voortgezet onderwijs BES](onbekend);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0465/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 21 april 2011, nr. WJZ/256390 (4875), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -54,29 +20,29 @@ Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
 In dit besluit wordt verstaan onder:
 
-- **certificaat:** een certificaat als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=V&artikel=15&z=2022-08-01&g=2022-08-01);
+- *certificaat:* een certificaat als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=V&artikel=15&z=2022-08-01&g=2022-08-01);
 
-- **College voor toetsen en examens:** College voor toetsen en examens, genoemd in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
+- *College voor toetsen en examens:* College voor toetsen en examens, genoemd in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
-- **diploma:** het diploma Nederlands als vreemde taal;
+- *diploma:* het diploma Nederlands als vreemde taal;
 
-- **examen:** het staatsexamen Nederlands als vreemde taal;
+- *examen:* het staatsexamen Nederlands als vreemde taal;
 
-- **examenjaar:** het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar;
+- *examenjaar:* het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar;
 
-- **examenleider:** degene die door het College voor toetsen en examens is belast met de leiding bij het afnemen van het examen;
+- *examenleider:* degene die door het College voor toetsen en examens is belast met de leiding bij het afnemen van het examen;
 
-- **examenonderdeel:** een onderdeel van het examen als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2022-08-01&g=2022-08-01);
+- *examenonderdeel:* een onderdeel van het examen als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=I&artikel=3&z=2022-08-01&g=2022-08-01);
 
-- **examenprogramma:** het examenprogramma, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=II&artikel=7&z=2022-08-01&g=2022-08-01);
+- *examenprogramma:* het examenprogramma, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=II&artikel=7&z=2022-08-01&g=2022-08-01);
 
-- **examenreglement:** het examenreglement, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=III&artikel=9&z=2022-08-01&g=2022-08-01);
+- *examenreglement:* het examenreglement, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&hoofdstuk=III&artikel=9&z=2022-08-01&g=2022-08-01);
 
-- **inspectie:** de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
+- *inspectie:* de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800);
 
-- **kandidaat:** degene die aan een of meer examenonderdelen deelneemt;
+- *kandidaat:* degene die aan een of meer examenonderdelen deelneemt;
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap.
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2. Doelstellingen; programma’s
 
@@ -98,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Examengeld
 
-1. Voor deelname aan een volledig examen van programma I of II is een bedrag verschuldigd van USD 45. Voor deelname aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van USD 20.
+1. Voor deelname aan een volledig examen van programma I of II is een bedrag verschuldigd van USD 45. Voor deelname aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van USD 20.
 
 2. De in het eerste lid bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
 
@@ -232,6 +198,10 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ### Hoofdstuk VII. Slotbepalingen
 
+##### Artikel 21a. Omhangbepaling
+
+Dit besluit berust op [artikel 2.72, derde en vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
+
 ##### Artikel 22. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eustatius en Saba.
@@ -239,11 +209,3 @@ Dit besluit treedt in werking met ingang van 1 augustus 2011 in Bonaire, Sint Eu
 ##### Artikel 23. Citeertitel
 
 Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als vreemde taal BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 21a. Omhangbepaling
-
-Dit besluit berust op [artikel 2.72, derde en vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

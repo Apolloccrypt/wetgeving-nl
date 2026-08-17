@@ -1,38 +1,16 @@
 ---
 title: "Nadere regel Gegevensuitvraag beheersingsmodel"
 identifier: "BWBR0029803"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-04-05"
-last_updated: "2011-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029803"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11286953"
-version_id: "18489842"
-internal_id: "C25801131"
-label_id: "11261124"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029803/2011-04-05/0"
-intitule_bron: "Stcrt.2011-5839"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-03-22"
-intitule_published: "2011-04-05"
-intitule_in_force: "2011-04-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-5839"
-original_signed_date: "2011-03-22"
-original_published_date: "2011-04-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-5839"
-entry_into_force_date: "2011-04-05"
-jci_1_3: "jci1.3:c:BWBR0029803&z=2011-04-05&g=2011-04-05"
-jci_1_0: "1.0:c:BWBR0029803&g=2011-04-05"
-citeertitel_status: "officieel"
-signed_date: "2011-03-22"
-entry_into_force: "2011-04-05"
+publicatiedatum: 2011-04-05
+laatste_update: 2011-04-05
+status: geldig
+toestand: 2011-04-05
+bron: "https://wetten.overheid.nl/BWBR0029803"
+opgehaald: 2026-08-17
 ---
+
 # Nadere regel Gegevensuitvraag beheersingsmodel
 
 Ingevolge [artikel 61, eerste lid van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) (Wmg) is onder meer een ieder gehouden om desgevraagd aan de Nederlandse Zorgautoriteit (NZa) of een door haar aangewezen persoon kosteloos de gegevens en inlichtingen te verstrekken welke voor de uitvoering van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) van belang kunnen zijn.
@@ -45,7 +23,19 @@ De NZa heeft op grond van deze artikelen de volgende nadere regel vastgesteld.
 
 Deze regel is van toepassing op:
 
+- – instellingen voor medisch specialistische zorg (voorheen: academische en algemene ziekenhuizen, ZBC’s en zelfstandige radiotherapeutische centra);
+
+- – Stichting Oogziekenhuis Rotterdam, het NKI-Antoni van Leeuwenhoekziekenhuis en de Sint Maartenskliniek;
+
+- – zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden.
+
 Deze regel is echter niet van toepassing op:
+
+- – hierboven niet genoemde categorale instellingen en (uitsluitend) daar werkzame zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden;
+
+- – kaakchirurgen;
+
+- – zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden en die uitsluitend werkzaam zijn in een solo-praktijk of in een (privé)kliniek waar uitsluitend derde-compartimentzorg wordt geleverd.
 
 ### 2. Doel van de regel
 
@@ -75,6 +65,14 @@ Het op de website van de NZa gepubliceerde Controleprotocol ‘gegevensuitvraag 
 
 ### 4. Het doen van een opgave
 
+- a. De medisch specialist is gehouden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029803&bijlage=1&z=2011-04-05&g=2011-04-05) aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029803&bijlage=2&z=2011-04-05&g=2011-04-05) nader gedefinieerde gegevens onverwijld en kosteloos te verstrekken aan de instelling(en) waar hij of zij werkzaam is.3De bijlagen zijn gepubliceerd op de website van de NZa onder wet- en regelgeving.
+
+- b. De instelling is gehouden om bij het onderzoeksbureau binnen de door de NZa vastgestelde termijn(en) en door middel van (het) door de NZa vastgestelde formulier(en) kosteloos een opgave in te dienen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0029803&bijlage=1&z=2011-04-05&g=2011-04-05) bij deze regel aangeduide en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029803&bijlage=2&z=2011-04-05&g=2011-04-05) nader gedefinieerde gegevens.
+
+- c. Deze opgave moet namens de indienende instelling rechtsgeldig ondertekend zijn, en voorzien van een in overeenstemming met het controleprotocol opgestelde accountantsverklaring respectievelijk rapport van bevindingen van een accountant.
+
+- d. De verplichting als omschreven in [artikel 4 onder c](https://wetten.overheid.nl/BWBR0029803) geldt niet voor instellingen met een totale omzet van minder dan € 1 miljoen én een zorggerelateerd personeelsbestand van minder dan 10 FTE.
+
 ### 5. Inwerkingtreding en citeerregel
 
 De uit deze regel voortvloeiende verplichting is in werking getreden op 10 november 2010 (voor zover de regel de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029803&bijlage=2&z=2011-04-05&g=2011-04-05), deel I omschreven honorariumgegevens betreft) c.q. treedt in werking op 17 november 2010 (voor zover de regel de in bijlage 2, deel II omschreven medisch specialisten eenheden betreft).
@@ -82,11 +80,3 @@ De uit deze regel voortvloeiende verplichting is in werking getreden op 10 novem
 Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid sub b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20) wordt geplaatst, wordt uitgegeven na 8 respectievelijk 15 november 2010, treedt de regel in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt hij terug tot en met 10 respectievelijk 17 november 2010.
 
 Deze regel kan worden aangehaald als: ‘Nadere regel Gegevensuitvraag beheersingsmodel’.
-
-## Bijlage 1. Overzicht te verstrekken gegevens
-
-Gepubliceerd op de website van de NZa.
-
-## Bijlage 2. Definities
-
-Gepubliceerd op de website van de NZa.

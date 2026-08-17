@@ -1,54 +1,26 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 1 oktober 2011, nr. 5707854/11, houdende bepalingen rondom het verrekenen van extra inkomsten bij gebruikmaking van de PAS voor rechterlijke ambtenaren (Anticumulatieregeling PAS Rechterlijke Macht)"
+citeertitel: "Anticumulatieregeling PAS Rechterlijke Macht"
 identifier: "BWBR0030454"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-09-24"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030454"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "11443193"
-version_id: "18797502"
-internal_id: "C26243561"
-label_id: "11416564"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030454/2011-09-24/0"
-intitule_bron: "Stcrt.2011-16971"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-01"
-intitule_published: "2011-09-22"
-intitule_in_force: "2011-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-16971"
-original_signed_date: "2011-10-01"
-original_published_date: "2011-09-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-16971"
-entry_into_force_date: "2011-09-24"
-jci_1_3: "jci1.3:c:BWBR0030454&z=2011-09-24&g=2011-09-24"
-jci_1_0: "1.0:c:BWBR0030454&g=2011-09-24"
-citeertitel_status: "officieel"
-short_title: "Anticumulatieregeling PAS Rechterlijke Macht"
-signed_date: "2011-10-01"
-entry_into_force: "2011-09-24"
+publicatiedatum: 2011-09-24
+laatste_update: 2011-09-24
+status: geldig
+toestand: 2011-09-24
+bron: "https://wetten.overheid.nl/BWBR0030454"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 1 oktober 2011, nr. 5707854/11, houdende bepalingen rondom het verrekenen van extra inkomsten bij gebruikmaking van de PAS voor rechterlijke ambtenaren (Anticumulatieregeling PAS Rechterlijke Macht)
-
-Gelet op [artikel 8d, tiende lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d),
-
-Besluit:
-
-De datum van ondertekening ligt na de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **rechterlijk ambtenaar:** de rechterlijk ambtenaar wiens werktijd met toepassing van [artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d) is teruggebracht;
+- a. *rechterlijk ambtenaar:* de rechterlijk ambtenaar wiens werktijd met toepassing van [artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d) is teruggebracht;
 
-- b. **salaris:** het salaris van de rechterlijk ambtenaar na de korting overeenkomstig het zesde lid van [artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d).
+- b. *salaris:* het salaris van de rechterlijk ambtenaar na de korting overeenkomstig het zesde lid van [artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8d).
 
 ##### Artikel 2
 
@@ -81,5 +53,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling zal worden aangehaald als: Anticumulatieregeling PAS Rechterlijke Macht.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

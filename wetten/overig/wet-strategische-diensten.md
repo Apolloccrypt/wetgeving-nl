@@ -1,47 +1,18 @@
 ---
 title: "Wet van 29 september 2011, houdende regels inzake de controle op diensten die betrekking hebben op strategische goederen (Wet strategische diensten)"
+citeertitel: "Wet strategische diensten"
 identifier: "BWBR0030545"
-country: "nl"
-rank: "wet"
-publication_date: "2024-12-19"
-last_updated: "2024-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030545"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11468033"
-version_id: "18853442"
-internal_id: "C26325501"
-label_id: "11441894"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030545/2024-12-19/0"
-intitule_bron: "Stb.2011-445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-29"
-intitule_published: "2011-10-18"
-intitule_in_force: "2011-10-28"
-intitule_status: "goed"
-original_publication: "Stb.2011-445"
-original_signed_date: "2011-09-29"
-original_published_date: "2011-10-18"
-original_effect: "nieuwe-regeling"
-original_dossier: "32665"
-original_url_id: "stb-2011-445"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0030545&z=2024-12-19&g=2024-12-19"
-jci_1_0: "1.0:c:BWBR0030545&g=2024-12-19"
-citeertitel_status: "officieel"
-short_title: "Wet strategische diensten"
-signed_date: "2011-09-29"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2024-12-19
+status: geldig
+toestand: 2024-12-19
+bron: "https://wetten.overheid.nl/BWBR0030545"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 29 september 2011, houdende regels inzake de controle op diensten die betrekking hebben op strategische goederen (Wet strategische diensten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, om regels te stellen inzake de controle op diensten die betrekking hebben op strategische goederen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Het Europese deel van Nederland
 
@@ -51,45 +22,46 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **goederen voor tweeërlei gebruik:** producten voor tweeërlei gebruik als bedoeld in artikel 2, eerste lid, van de Verordening producten voor tweeërlei gebruik;
+- – *goederen voor tweeërlei gebruik:* producten voor tweeërlei gebruik als bedoeld in artikel 2, eerste lid, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **militair eindgebruik:** militair eindgebruik als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik;
+- – *militair eindgebruik:* militair eindgebruik als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **militaire goederen:** de krachtens [artikel 3:1 van de Algemene douanewet aangewezen](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) militaire goederen;
+- – *militaire goederen:* de krachtens [artikel 3:1 van de Algemene douanewet aangewezen](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) militaire goederen;
 
-- –. **militaire programmatuur:** programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
+- – *militaire programmatuur:* programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
 
-- –. **militaire technologie:** technologie als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
+- – *militaire technologie:* technologie als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
 
-- –. **Onze Minister:** Onze Minister van Buitenlandse Zaken;
+- – *Onze Minister:* Onze Minister van Buitenlandse Zaken;
 
-- –. **technische bijstand:** de technische bijstand, bedoeld in artikel 1, negende lid, Verordening producten voor tweeërlei gebruik;
+- – *technische bijstand:* de technische bijstand, bedoeld in artikel 1, negende lid, Verordening producten voor tweeërlei gebruik;
 
-- –. **tussenhandelaar:** tussenhandelaar als bedoeld in artikel 2, achtste lid, van de Verordening producten voor tweeërlei gebruik;
+- – *tussenhandelaar:* tussenhandelaar als bedoeld in artikel 2, achtste lid, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land:**
+- – *tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich niet in de Europese Unie bevinden en niet bestemd zijn voor invoer in de Europese Unie of Bonaire, Sint Eustatius of Saba;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich niet in de Europese Unie bevinden en niet bestemd zijn voor invoer in de Europese Unie of Bonaire, Sint Eustatius of Saba;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich niet in de Europese Unie bevinden en niet bestemd zijn voor invoer in de Europese Unie of Bonaire, Sint Eustatius of Saba;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich niet in de Europese Unie bevinden en niet bestemd zijn voor invoer in de Europese Unie of Bonaire, Sint Eustatius of Saba;
 
-- –. **tussenhandeldiensten goederen voor tweeërlei gebruik EU-derde land:**
+- – *tussenhandeldiensten goederen voor tweeërlei gebruik EU-derde land:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich in de Europese Unie bevinden en bestemd zijn voor uitvoer uit de Europese Unie;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich in de Europese Unie bevinden en bestemd zijn voor uitvoer uit de Europese Unie;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich in de Europese Unie bevinden en bestemd zijn voor uitvoer uit de Europese Unie;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich in de Europese Unie bevinden en bestemd zijn voor uitvoer uit de Europese Unie;
 
-- –. **tussenhandeldiensten militaire goederen:**
+- – *tussenhandeldiensten militaire goederen:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van militaire goederen die zich niet in het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in het Europese deel van Nederland of Bonaire, Sint Eustatius of Saba;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van militaire goederen die zich niet in het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in het Europese deel van Nederland of Bonaire, Sint Eustatius of Saba;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van militaire goederen die zich niet in het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in het Europese deel van Nederland of Bonaire, Sint Eustatius of Saba;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van militaire goederen die zich niet in het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in het Europese deel van Nederland of Bonaire, Sint Eustatius of Saba;
 
-- –. **verordening 2019/125:** de verordening (EU) 2019/125 van het Europees Parlement en de Raad van 16 januari 2019 met betrekking tot de handel in bepaalde goederen die gebruikt zouden kunnen worden voor de doodstraf, foltering of andere wrede, onmenselijke of onterende behandeling of bestraffing (PbEU 2019, L 30);
+- – *verordening 2019/125:* de verordening (EU) 2019/125 van het Europees Parlement en de Raad van 16 januari 2019 met betrekking tot de handel in bepaalde goederen die gebruikt zouden kunnen worden voor de doodstraf, foltering of andere wrede, onmenselijke of onterende behandeling of bestraffing (PbEU 2019, L 30);
 
-- –. **Verordening producten voor tweeërlei gebruik:** [Verordening (EU) 2021/821](32721R2021) van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
+- – *Verordening producten voor tweeërlei gebruik:*
+ Verordening (EU) 2021/821 van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
 
-- –. **wapenembargo:** een wapenembargo als bedoeld in artikel 2, negentiende lid, van de Verordening producten voor tweeërlei gebruik.
+- – *wapenembargo:* een wapenembargo als bedoeld in artikel 2, negentiende lid, van de Verordening producten voor tweeërlei gebruik.
 
 2. De bepalingen in dit hoofdstuk zijn van toepassing in het Europese deel van Nederland.
 
@@ -209,9 +181,9 @@ Het is verboden zonder vergunning van Onze Minister militaire programmatuur of m
 
 Het is verboden te handelen in strijd met de artikelen:
 
-- a. 3, eerste lid, en 4, eerste lid, van [verordening 2019/125](32025R2019) voor zover het betreft het verlenen van technische bijstand als bedoeld in artikel 2, onderdeel f, van deze verordening;
+- a. 3, eerste lid, en 4, eerste lid, van verordening 2019/125 voor zover het betreft het verlenen van technische bijstand als bedoeld in artikel 2, onderdeel f, van deze verordening;
 
-- b. 6 tot en met 9, 15 en 19 van [verordening 2019/125](32025R2019).
+- b. 6 tot en met 9, 15 en 19 van verordening 2019/125.
 
 #### § 5. Overige bepalingen
 
@@ -239,7 +211,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 ##### Artikel 14
 
-1. Onze Minister kan aan een toestemming als bedoeld in de artikelen 3, tweede lid, en 4, tweede lid, van [verordening 2019/125](32025R2019), aan een ontheffing als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-12-19&g=2024-12-19), van deze wet, en aan een vergunning als bedoeld in de artikelen 11, eerste lid, 12, eerste lid, onderdelen a, b en c, en 13, eerste lid, van de Verordening producten voor tweeërlei gebruik, en de [artikelen 4, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-12-19&g=2024-12-19), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2024-12-19&g=2024-12-19), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2024-12-19&g=2024-12-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-12-19&g=2024-12-19) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2024-12-19&g=2024-12-19), voorschriften en voorwaarden verbinden.
+1. Onze Minister kan aan een toestemming als bedoeld in de artikelen 3, tweede lid, en 4, tweede lid, van verordening 2019/125, aan een ontheffing als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-12-19&g=2024-12-19), van deze wet, en aan een vergunning als bedoeld in de artikelen 11, eerste lid, 12, eerste lid, onderdelen a, b en c, en 13, eerste lid, van de Verordening producten voor tweeërlei gebruik, en de [artikelen 4, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-12-19&g=2024-12-19), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2024-12-19&g=2024-12-19), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2024-12-19&g=2024-12-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2024-12-19&g=2024-12-19) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2024-12-19&g=2024-12-19), voorschriften en voorwaarden verbinden.
 
 2. Ten aanzien van de vergunningverlening worden bij ministeriële regeling nadere regels gesteld over:
 
@@ -261,7 +233,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 ##### Artikel 15
 
-De [artikelen 10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) zijn van overeenkomstige toepassing op diegene die activiteiten verricht die op grond van [verordening 2019/125](32025R2019), Verordening producten voor tweeërlei gebruik of bij of krachtens deze wet verboden zijn of zonder vergunning verboden zijn.
+De [artikelen 10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) zijn van overeenkomstige toepassing op diegene die activiteiten verricht die op grond van verordening 2019/125, Verordening producten voor tweeërlei gebruik of bij of krachtens deze wet verboden zijn of zonder vergunning verboden zijn.
 
 #### § 8. Toezicht
 
@@ -297,43 +269,44 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 1. In dit hoofdstuk wordt verstaan onder:
 
-- –. **goederen voor tweeërlei gebruik:** producten voor tweeërlei gebruik als bedoeld in artikel 2, eerste lid, van de Verordening producten voor tweeërlei gebruik;
+- – *goederen voor tweeërlei gebruik:* producten voor tweeërlei gebruik als bedoeld in artikel 2, eerste lid, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **militair eindgebruik:** militair eindgebruik als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik;
+- – *militair eindgebruik:* militair eindgebruik als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **militaire goederen:** de krachtens [artikel 2.26, eerste lid, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26) aangewezen goederen;
+- – *militaire goederen:* de krachtens [artikel 2.26, eerste lid, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26) aangewezen goederen;
 
-- –. **militaire programmatuur:** programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
+- – *militaire programmatuur:* programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
 
-- –. **militaire technologie:** technologie als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
+- – *militaire technologie:* technologie als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);
 
-- –. **Onze Minister:** Onze Minister van Buitenlandse Zaken;
+- – *Onze Minister:* Onze Minister van Buitenlandse Zaken;
 
-- –. **programmatuur of technologie:** programmatuur of technologie als bedoeld in artikel 2, tweede lid, onderdeel d, van de Verordening producten voor tweeërlei gebruik;
+- – *programmatuur of technologie:* programmatuur of technologie als bedoeld in artikel 2, tweede lid, onderdeel d, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **technische bijstand:** technische bijstand als bedoeld in artikel 1, negende lid, van de Verordening producten voor tweeërlei gebruik;
+- – *technische bijstand:* technische bijstand als bedoeld in artikel 1, negende lid, van de Verordening producten voor tweeërlei gebruik;
 
-- –. **tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land:**
+- – *tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich niet in Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of de Europese Unie;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich niet in Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of de Europese Unie;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich niet in Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of de Europese Unie;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich niet in Bonaire, Sint Eustatius en Saba bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of de Europese Unie;
 
-- –. **tussenhandeldiensten goederen voor tweeërlei gebruik Bonaire, Sint Eustatius en Saba-derde land:**
+- – *tussenhandeldiensten goederen voor tweeërlei gebruik Bonaire, Sint Eustatius en Saba-derde land:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich in Bonaire, Sint Eustatius of Saba bevinden en bestemd zijn voor uitvoer uit Bonaire, Sint Eustatius of Saba;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van goederen voor tweeërlei gebruik die zich in Bonaire, Sint Eustatius of Saba bevinden en bestemd zijn voor uitvoer uit Bonaire, Sint Eustatius of Saba;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich in Bonaire, Sint Eustatius en Saba bevinden en bestemd zijn voor uitvoer uit Bonaire, Sint Eustatius en Saba;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van goederen voor tweeërlei gebruik die zich in Bonaire, Sint Eustatius en Saba bevinden en bestemd zijn voor uitvoer uit Bonaire, Sint Eustatius en Saba;
 
-- –. **tussenhandeldiensten militaire goederen:**
+- – *tussenhandeldiensten militaire goederen:*
 
-- a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van militaire goederen die zich niet in Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of het Europese deel van Nederland;
+   - a. het onderhandelen over of regelen van overeenkomsten met het oog op de koop, verkoop of levering van militaire goederen die zich niet in Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of het Europese deel van Nederland;
 
-- b. het ten behoeve van één of meer partijen verkopen of kopen van militaire goederen die zich niet in Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of het Europese deel van Nederland;
+   - b. het ten behoeve van één of meer partijen verkopen of kopen van militaire goederen die zich niet in Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of het Europese deel van Nederland;
 
-- –. **Verordening producten voor tweeërlei gebruik:** [Verordening (EU) 2021/821](32721R2021) van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
+- – *Verordening producten voor tweeërlei gebruik:*
+ Verordening (EU) 2021/821 van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
 
-- –. **wapenembargo:** een wapenembargo als bedoeld in artikel 2, negentiende lid, van de Verordening producten voor tweeërlei gebruik.
+- – *wapenembargo:* een wapenembargo als bedoeld in artikel 2, negentiende lid, van de Verordening producten voor tweeërlei gebruik.
 
 2. De bepalingen in dit hoofdstuk zijn van toepassing in Bonaire, Sint Eustatius en Saba.
 
@@ -463,15 +436,15 @@ De strafwet van Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdelin
 
 ##### Artikel 32
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 33
 
-Wijzigt de Aanpassingswet Algemene douanewet en de Douane- en Accijnswet BES.
+*Wijzigt de Aanpassingswet Algemene douanewet en de Douane- en Accijnswet BES.*
 
 ##### Artikel 34
 
-Wijzigt de Uitvoeringswet verdrag chemische wapens.
+*Wijzigt de Uitvoeringswet verdrag chemische wapens.*
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
@@ -490,5 +463,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 38
 
 Deze wet wordt aangehaald als: Wet strategische diensten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

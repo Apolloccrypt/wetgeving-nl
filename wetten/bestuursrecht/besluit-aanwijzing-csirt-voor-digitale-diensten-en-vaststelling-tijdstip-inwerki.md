@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041536"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Besluit van 30 oktober 2018 tot aanwijzing van het CSIRT voor digitale diensten en tot vaststelling van het tijdstip van inwerkingtreding van de Wet en het Besluit beveiliging netwerk- en informatiesystemen

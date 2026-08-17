@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 11 april 2011, nr. KO/2011/6871, tot uitvoering van de Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen bij het op aanvraag gelijkstellen van getuigschriften van beroepsopleidingen, die zijn vereist om te voldoen aan de kwaliteitseisen voor gastouder op grond van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Beleidsregel gelijkstelling beroepsopleiding gastouders)"
+citeertitel: "Beleidsregel gelijkstelling beroepsopleiding gastouders"
 identifier: "BWBR0029866"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029866"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "11298163"
-version_id: "18511762"
-internal_id: "C25825651"
-label_id: "11272204"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029866/2018-01-01/0"
-intitule_bron: "Stcrt.2011-6770"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-11"
-intitule_published: "2011-04-14"
-intitule_in_force: "2011-04-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-6770"
-original_signed_date: "2011-04-11"
-original_published_date: "2011-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-6770"
-entry_into_force_date: "2011-04-15"
-jci_1_3: "jci1.3:c:BWBR0029866&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0029866&g=2018-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel gelijkstelling beroepsopleiding gastouders"
-signed_date: "2011-04-11"
-entry_into_force: "2011-04-15"
+publicatiedatum: 2011-04-15
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0029866"
+opgehaald: 2026-08-17
 ---
+
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 11 april 2011, nr. KO/2011/6871, tot uitvoering van de Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen bij het op aanvraag gelijkstellen van getuigschriften van beroepsopleidingen, die zijn vereist om te voldoen aan de kwaliteitseisen voor gastouder op grond van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Beleidsregel gelijkstelling beroepsopleiding gastouders)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a), en [10b, derde lid, van de Regeling Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **aanvrager:** natuurlijk persoon die een aanvraag heeft ingediend voor de aanwijzing van een getuigschrift van een beroepsopleiding als identiek diploma of vergelijkbaar diploma;
+- a. *aanvrager:* natuurlijk persoon die een aanvraag heeft ingediend voor de aanwijzing van een getuigschrift van een beroepsopleiding als identiek diploma of vergelijkbaar diploma;
 
-- b. **beroepsopleiding:** opleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, c, d, of e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- b. *beroepsopleiding:* opleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, c, d, of e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
 
-- c. **erkenning van een beroepskwalificatie:** het aanwijzen van een beroepsopleiding waardoor de aanvrager, indien hij in het bezit is van een getuigschrift van die beroepsopleiding, voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis;
+- c. *erkenning van een beroepskwalificatie:* het aanwijzen van een beroepsopleiding waardoor de aanvrager, indien hij in het bezit is van een getuigschrift van die beroepsopleiding, voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis;
 
-- d. **gastouder:** gastouder, bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
+- d. *gastouder:* gastouder, bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
 
-- e. **identiek diploma:** een getuigschrift van een beroepsopleiding, waarvan het curriculum identiek is aan het curriculum van een door de Minister aangewezen beroepsopleiding als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a) of [10b, eerste lid, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b), maar waarvan slechts de benaming afwijkt;
+- e. *identiek diploma:* een getuigschrift van een beroepsopleiding, waarvan het curriculum identiek is aan het curriculum van een door de Minister aangewezen beroepsopleiding als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a) of [10b, eerste lid, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b), maar waarvan slechts de benaming afwijkt;
 
-- f. **vergelijkbaar diploma:** een getuigschrift van een beroepsopleiding, waarvan het curriculum ten minste voor 90% vergelijkbaar is met het curriculum van een van de door de Minister aangewezen beroepsopleiding als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a), of [10b, eerste lid, onder a, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b), en waarvan zowel de benaming als het inhoudelijke curriculum afwijkt;
+- f. *vergelijkbaar diploma:* een getuigschrift van een beroepsopleiding, waarvan het curriculum ten minste voor 90% vergelijkbaar is met het curriculum van een van de door de Minister aangewezen beroepsopleiding als bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10), [10a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10a), of [10b, eerste lid, onder a, van de Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&artikel=10b), en waarvan zowel de benaming als het inhoudelijke curriculum afwijkt;
 
-- g. **Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- g. *Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- h. **Regeling:** de [Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252).
+- h. *Regeling:* de [Regeling Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017252).
 
 ##### Artikel 2. Reikwijdte
 
@@ -121,5 +95,3 @@ Deze beleidsregel treedt in werking met ingang van de dag nadat de beleidsregel 
 ##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel gelijkstelling beroepsopleiding gastouders.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een bijzondere heffing teelt groenten en fruit 2011 (Verordening PT bijzondere heffing teelt groenten en fruit 2011)"
+citeertitel: "Verordening PT bijzondere heffing teelt groenten en fruit 2011"
 identifier: "BWBR0030499"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030499"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11458443"
-version_id: "18827832"
-internal_id: "C26280881"
-label_id: "11431874"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030499/2011-09-11/0"
-intitule_bron: "Vbbo.2011-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-11-10"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-52"
-original_signed_date: "2010-11-10"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030499&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030499&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt groenten en fruit 2011"
-signed_date: "2010-11-10"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030499"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende de vaststelling van een bijzondere heffing teelt groenten en fruit 2011 (Verordening PT bijzondere heffing teelt groenten en fruit 2011)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 19 oktober 2010.
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -56,9 +27,9 @@ Besluit:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030499&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| groenten en fruit | : | vermeld in [artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
+| groenten en fruit | : | vermeld in artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw; |
 | Ondernemer | : | elk afzonderlijk natuurlijk- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
 | omzet | : | bruto omzet per kalenderjaar; |
 | telen | : | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen; |
@@ -82,9 +53,9 @@ Besluit:
 
 2. De heffing wordt berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:
 
-|   | Productgroep | Tarief | Eenh. |
+|  | Productgroep | Tarief | Eenh. |
 | --- | --- | --- | --- |
-| **Glasgroenten** |   |   |   |
+| Glasgroenten |  |  |  |
 | Aubergines | 618 | 10,62 | are |
 | Komkommers | 605 | 10,62 | are |
 | Paprika - Gele paprika | 633 | 10,62 | are |
@@ -95,8 +66,8 @@ Besluit:
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 10,62 | are |
 | Tomaten - Cherry-tomaten | 606 | 10,62 | are |
 | Overige groenten (inclusief meloenen) | 621 | 5,92 | are |
-|   |   |   |   |
-| **Vollegrondsgroenten** |   |   |   |
+|  |  |  |  |
+| Vollegrondsgroenten |  |  |  |
 | Aardbeien onder glas | 610 | 7,55 | are |
 | Aardbeien plastic tunnel | 611 | 7,55 | are |
 | Aardbeien productie | 433 | 82,41 | ha |
@@ -118,7 +89,7 @@ Besluit:
 | Koolraap | 445 | 32,28 | ha |
 | Koolrabi | 446 | 32,28 | ha |
 | Kroten | 447 | 11,44 | ha |
-| Kruiden (blad-, zaad- en wortelkruiden) |   | 32,28 | ha |
+| Kruiden (blad-, zaad- en wortelkruiden) |  | 32,28 | ha |
 | Paksoi | 453 | 32,28 | ha |
 | Peulen | 454 | 32,28 | ha |
 | Prei | 455 | 39,91 | ha |
@@ -148,9 +119,9 @@ Besluit:
 | Overige niet genoemde bladgewassen | 485 | 32,28 | ha |
 | Overige niet genoemde groenten | 486 | 32,28 | ha |
 | Witlof in bakken | 585 | 0,90 | m2 |
-|   |   |   |   |
-| **Fruit** |   |   |   |
-| Notenbomen (amandelen, hazel- en walnoten) |   | 36,36 | ha |
+|  |  |  |  |
+| Fruit |  |  |  |
+| Notenbomen (amandelen, hazel- en walnoten) |  | 36,36 | ha |
 | Appelen in seizoen | 490 | 69,61 | ha |
 | Appelen vóór seizoen | 491 | 69,61 | ha |
 | Peren in seizoen | 492 | 103,66 | ha |
@@ -166,8 +137,8 @@ Besluit:
 | Overig kleinfruit | 500 | 307,70 | ha |
 | Overige pit- en steenvrucht | 501 | 163,69 | ha |
 | Fruit onder glas | 635 | 7,49 | are |
-|   |   |   |   |
-| **Champignons** |   |   |   |
+|  |  |  |  |
+| Champignons |  |  |  |
 | Oppervlakte met de hand geoogst | 702 | 0,87 | m2 |
 | Oppervlakte machinaal geoogst | 703 | 0,87 | m2 |
 

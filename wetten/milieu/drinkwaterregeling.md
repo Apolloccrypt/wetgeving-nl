@@ -1,64 +1,40 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046947 houdende nadere regels met betrekking tot enige onderwerpen inzake de voorziening van drinkwater, warm tapwater en huishoudwater (Drinkwaterregeling)"
+citeertitel: "Drinkwaterregeling"
 identifier: "BWBR0030152"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-24"
-last_updated: "2025-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030152"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11367403"
-version_id: "30985962"
-internal_id: "C44374951"
-label_id: "11341274"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030152/2025-10-24/0"
-intitule_bron: "Stcrt.2011-10842"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-14"
-intitule_published: "2011-06-27"
-intitule_in_force: "2011-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35959"
-original_signed_date: "2025-10-21"
-original_published_date: "2025-10-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-35959"
-entry_into_force_date: "2025-10-21"
-jci_1_3: "jci1.3:c:BWBR0030152&z=2025-10-24&g=2025-10-24"
-jci_1_0: "1.0:c:BWBR0030152&g=2025-10-24"
-citeertitel_status: "officieel"
-short_title: "Drinkwaterregeling"
-signed_date: "2025-10-21"
-entry_into_force: "2025-10-21"
+publicatiedatum: 2025-10-21
+laatste_update: 2025-10-24
+status: geldig
+toestand: 2025-10-24
+bron: "https://wetten.overheid.nl/BWBR0030152"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 14 juni 2011, nr. BJZ2011046947 houdende nadere regels met betrekking tot enige onderwerpen inzake de voorziening van drinkwater, warm tapwater en huishoudwater (Drinkwaterregeling)
-
-Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie,
-
-Gelet op [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Gemeenschappen van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=5), [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=39), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=48), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=62) en [64 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=64), de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=1), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=3), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=6), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=8), [8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=8a), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=14), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=26), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=27), [30, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=30), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=55), [57, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=57), en [59 van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=59) en [artikel 14, derde lid, van het Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=14);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111);
+- *besluit:*
+ [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **wet:** [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338);
+- *wet:*
+ [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338);
 
-- **wijkwarmtapwatervoorziening:** collectieve watervoorziening voor de productie of distributie van warm tapwater, waarbij het distributienet in de bodem ligt.
+- *wijkwarmtapwatervoorziening:* collectieve watervoorziening voor de productie of distributie van warm tapwater, waarbij het distributienet in de bodem ligt.
+
+##### Artikel 1a. Toegang tot drinkwater
+
+Ter uitvoering van artikel 16 van de Drinkwaterrichtlijn laat de Minister onderzoek verrichten en draagt hij zo nodig zorg voor maatregelen als bedoeld in het eerste en tweede lid van dat artikel en voor bijstand als bedoeld in het derde lid van dat artikel teneinde de toegang tot drinkwater voor iedereen en met name voor kwetsbare en gemarginaliseerde groepen te waarborgen.
 
 ##### Artikel 2. Versies van normerende documenten
 
-1. Als tijdstip als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=1), geldt telkens: 1 juli 2011. In afwijking van de eerste volzin geldt voor BRL 6010 het tijdstip: 1 januari 2021.
+1. Als tijdstip als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=1), geldt telkens: 1 juli 2011. In afwijking van de eerste volzin geldt voor BRL 6010 het tijdstip: 1 januari 2021.
 
 2. Als aanvullingen en correctiebladen als bedoeld in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=1) worden aangewezen:
 
@@ -104,9 +80,9 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 - a. De risicovrije rente wordt voor:
 
-- 1°. eigen vermogen gebaseerd op een nominale Nederlandse staatsobligatie met een looptijd van twintig jaar, aan de hand van het gemiddelde gerealiseerde rendement over de voorafgaande twee jaren en de voorafgaande vijf jaren;
+   - 1°. eigen vermogen gebaseerd op een nominale Nederlandse staatsobligatie met een looptijd van twintig jaar, aan de hand van het gemiddelde gerealiseerde rendement over de voorafgaande twee jaren en de voorafgaande vijf jaren;
 
-- 2°. vreemd vermogen gebaseerd op een nominale Nederlandse staatsobligatie met een looptijd van tien jaar, aan de hand van het gemiddelde gerealiseerde rendement over de voorafgaande drie jaren.
+   - 2°. vreemd vermogen gebaseerd op een nominale Nederlandse staatsobligatie met een looptijd van tien jaar, aan de hand van het gemiddelde gerealiseerde rendement over de voorafgaande drie jaren.
 
 - b. de renteopslag wordt gebaseerd op de historische renteopslag van een geschikte groep van ondernemingen met activiteiten die vergelijkbaar zijn met die van de drinkwaterbedrijven en met een vergelijkbare kredietwaardigheid;
 
@@ -198,6 +174,28 @@ Ten behoeve van de berekening van de gewogen gemiddelde vermogenskostenvoet, bed
 
 9. Het achtste lid is niet van toepassing op de bemonsteringsfrequenties voor Intestinale enterococcen en Escherichia coli.
 
+##### Artikel 10a. Meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en voor collectieve leidingnetten
+
+1. De eigenaar van een kleine collectieve watervoorziening, van een zeer kleine collectieve watervoorziening die niet valt onder de vrijstelling, bedoeld in [artikel 32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=32), of van een collectief leidingnet, beschikt over een daarop betrekking hebbend meetprogramma dat voldoet aan de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24) en dat bestaat uit het nemen en analyseren van verschillende watermonsters of het verrichten van metingen die in het kader van een doorlopend proces van controle worden geregistreerd. De eigenaar evalueert voortdurend het meetprogramma en past het aan naar aanleiding van de evaluatie of voorafgaand aan wijzigingen in de feitelijke situatie.
+
+2. In de risicobeoordeling wordt in ieder geval rekening gehouden met de monitoringsprogramma’s en de resultaten daarvan, die zijn vastgesteld overeenkomstig de artikelen 10.14b tot en met 10.14g van het Besluit kwaliteit leefomgeving.
+
+3. De eigenaar, bedoeld in het eerste lid, onderzoekt het water in de frequentie en op de plaatsen zoals aangegeven is in het meetprogramma en met inachtneming van het vierde tot en met zesde lid.
+
+4. Indien en voor zolang de eigenaar niet beschikt over een meetprogramma dat in overeenstemming is met het eerste lid of niet beschikt over een goedgekeurd meetprogramma, verricht hij metingen overeenkomstig de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24).
+
+5. Voor micro-organismen, parasieten en stoffen die niet zijn genoemd in tabel I, II of III van [bijlage A bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), verricht de eigenaar van een collectieve watervoorziening of van een collectief leidingnet als bedoeld in het eerste lid metingen indien er redenen zijn om aan te nemen dat deze aanwezig zijn in aantallen per volume-eenheid of concentraties die nadelige gevolgen voor de volksgezondheid kunnen hebben.
+
+6. De toezichthouder kan bepalen dat door hem aangegeven parameters, genoemd in de van toepassing zijnde tabel of tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24), frequenter worden onderzocht dan in die bijlage is aangegeven. Tevens kan hij bepalen dat andere dan de in bijlage 3 genoemde, door hem aangegeven parameters, onderzocht worden in een door hem aangegeven frequentie, indien dat naar zijn oordeel van belang is voor het verkrijgen van voldoende inzicht in de kwaliteit van het water.
+
+7. Het eerste tot en met zesde lid zijn niet van toepassing op de eigenaar van een collectief leidingnet of van een collectieve watervoorziening voor warm tapwater, uitsluitend voor zover daarmee, berekend over een kalenderjaar, per dag gemiddeld minder dan 100 m3 drinkwater, onderscheidenlijk minder dan 10 m3 warm tapwater, wordt gedistribueerd. Het eerste tot en met zesde lid is evenmin van toepassing op de eigenaar van een collectieve watervoorziening voor warm tapwater, niet zijnde een wijkwarmtapwatervoorziening.
+
+##### Artikel 10b. Risicobeoordeling met beperkt meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en collectieve leidingnetten die onverplicht een risicobeoordeling uitvoeren
+
+1. Voor kleine of zeer kleine collectieve watervoorzieningen of collectieve leidingnetten als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24), die onverplicht een risicobeoordeling uitvoeren, kan de toezichthouder in afwijking van dat artikel op basis van de resultaten van de risicobeoordeling bepalen dat het meetprogramma, bedoeld in dat lid, en de lijst van daarin opgenomen bewakings- en audit parameters wordt beperkt en de bemonsteringsfrequenties worden verlaagd, met inachtneming van de herkomst van de parameter en van de variatie en lange termijnontwikkeling van diens concentratie, indien de risicobeoordeling bevestigt dat geen enkele redelijkerwijs te voorziene factor aanwezig is waardoor de kwaliteit van het voor menselijk consumptie bestemde water achteruit zou kunnen gaan in het geval van het verlagen van een bemonsteringsfrequentie of het schrappen van een parameter.
+
+2. Het eerste lid is niet van toepassing op de bemonsteringsfrequenties voor Intestinale enterococcen en Escherichia coli.
+
 ##### Artikel 11. Plaats en tijdstip monstername en bewaring monsters
 
 1. De eigenaar van een drinkwaterbedrijf die drinkwater betrekt dat geleverd is door een ander teneinde dit zonder behandeling aan derden ter beschikking te stellen, onderzoekt dat ter plaatse waar hij dit water betrekt overeenkomstig de tabellen Ia, Ib en II, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24) bij deze regeling. In het meetprogramma kan op basis van een goedgekeurde risicobeoordeling hiervan gemotiveerd worden afgeweken. Indien het drinkwater wordt betrokken van een ander drinkwaterbedrijf kan de inspecteur toestaan dat de levering van onderzoeksgegevens van het andere bedrijf wordt beschouwd als uitvoering van het onderzoek, bedoeld in de eerste volzin.
@@ -268,37 +266,37 @@ Tevens geeft de eigenaar van een drinkwaterbedrijf aan de inspecteur een schrift
 
 - a. algemeen deel, bestaande uit:
 
-- 1°. een beschrijving van het systeem en kwetsbare elementen daarin,
+   - 1°. een beschrijving van het systeem en kwetsbare elementen daarin,
 
-- 2°. wijze waarop de kwaliteitsborging plaatsvindt, en
+   - 2°. wijze waarop de kwaliteitsborging plaatsvindt, en
 
-- 3°. contactgegevens;
+   - 3°. contactgegevens;
 
 - b. waterkwaliteit, bestaande uit:
 
-- 1°. een risicoanalyse van de installaties in relatie tot waterkwaliteit,
+   - 1°. een risicoanalyse van de installaties in relatie tot waterkwaliteit,
 
-- 2°. de wijze waarop werkzaamheden plaatsvinden in relatie tot de waterkwaliteit en hoe dit geborgd is in de bedrijfsvoering,
+   - 2°. de wijze waarop werkzaamheden plaatsvinden in relatie tot de waterkwaliteit en hoe dit geborgd is in de bedrijfsvoering,
 
-- 3°. welke kwaliteitsbewaking van het systeem plaatsvindt en welke metingen en controles daartoe worden verricht, en
+   - 3°. welke kwaliteitsbewaking van het systeem plaatsvindt en welke metingen en controles daartoe worden verricht, en
 
-- 4°. hoe groei van legionellabacteriën en andere micro-organismen wordt voorkomen
+   - 4°. hoe groei van legionellabacteriën en andere micro-organismen wordt voorkomen
 
 - c. beveiliging, bestaande uit:
 
-- 1°. voorzieningen, beheersmaatregelen en controles om verbrandingsrisico’s te voorkomen,
+   - 1°. voorzieningen, beheersmaatregelen en controles om verbrandingsrisico’s te voorkomen,
 
-- 2°. analyse van kwetsbare doelgroepen onder afnemers van het warm tapwater in relatie tot verbrandingsrisico’s, en
+   - 2°. analyse van kwetsbare doelgroepen onder afnemers van het warm tapwater in relatie tot verbrandingsrisico’s, en
 
-- 3°. voorzieningen, beheersmaatregelen en controles om terugstroming van warm tapwater in het distributienet van de drinkwatervoorziening te voorkomen;
+   - 3°. voorzieningen, beheersmaatregelen en controles om terugstroming van warm tapwater in het distributienet van de drinkwatervoorziening te voorkomen;
 
 - d. inspecties, bestaande uit:
 
-- 1°. inspectieschema’s en maatregelen bij afwijkingen,
+   - 1°. inspectieschema’s en maatregelen bij afwijkingen,
 
-- 2°. monsternameschema’s, en
+   - 2°. monsternameschema’s, en
 
-- 3°. wijze van rapportage over metingen en controles;
+   - 3°. wijze van rapportage over metingen en controles;
 
 - e. communicatie, zijnde een communicatieplan voor situaties van storingen en calamiteiten, in relatie tot het drinkwaterbedrijf, de inspecteur en de afnemers.
 
@@ -332,9 +330,17 @@ Tevens geeft de eigenaar van een drinkwaterbedrijf aan de inspecteur een schrift
 
 - b. het belang van de bescherming van de volksgezondheid zich niet verzet tegen het gebruik van dit oppervlaktewater voor de bereiding van drinkwater.
 
+##### Artikel 16a. (signaleringsparameters voor oppervlaktewater gebruikt voor de bereiding van drinkwater)
+
+1. Signaleringsparameters voor het signaleren van mogelijke verontreiniging van oppervlaktewater, gebruikt voor de bereiding van drinkwater, zijn opgenomen in [bijlage 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5b&z=2025-10-24&g=2025-10-24).
+
+2. Een overschrijding van een signaleringsparameter wordt door de eigenaar van een drinkwaterbedrijf onmiddellijk gemeld aan de inspecteur.
+
+3. In geval van een overschrijding draagt de eigenaar van een drinkwaterbedrijf zorg voor het onmiddellijk verrichten van onderzoek naar de hoedanigheid van het water dat wordt gebruikt voor de bereiding van drinkwater, waaronder in het bijzonder de aard en concentratie van de desbetreffende stof of stoffen en de risico’s daarvan voor de volksgezondheid. De eigenaar van het drinkwaterbedrijf deelt de resultaten van dit onderzoek onmiddellijk met de inspecteur.
+
 ##### Artikel 17. Prestatievergelijking; frequentie en prestatie-indicatoren drinkwaterkwaliteit
 
-1. De prestatievergelijking wordt eens in de drie jaar uitgevoerd, waarbij de eerste prestatievergelijking wordt uitgevoerd voor 1 november 2013 en betrekking heeft op het jaar 2012.
+1. De prestatievergelijking wordt eens in de drie jaar uitgevoerd, waarbij de eerste prestatievergelijking wordt uitgevoerd voor 1 november 2013 en betrekking heeft op het jaar 2012.
 
 2. De prestatie-indicatoren voor drinkwaterkwaliteit hebben betrekking op de parameters, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=6&z=2025-10-24&g=2025-10-24) bij deze regeling. De in [artikel 57, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=57) genoemde parameterwaarden betreffen de in [bijlage A van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A) opgenomen waarden voor deze parameters.
 
@@ -344,7 +350,7 @@ Als instantie die belast is met de uitvoering van de prestatievergelijking wordt
 
 ##### Artikel 19. Maximumnorm voor bezoldiging werknemers/bestuurders drinkwaterbedrijf
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Voorwaarden voor gebruik biociden bij drinkwaterproductie en -distributie
 
@@ -362,11 +368,11 @@ Vervallen
 
 - d. hij waarborgt dat het drinkwater aan het tappunt voldoet aan de eisen gesteld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21) en [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=13).
 
-##### Artikel 21. Wijziging [Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740)
+##### Artikel 21. Wijziging Besluit aanwijzing ambtenaren VROM-regelgeving
 
-Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving.
+*Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving.*
 
-##### Artikel 22. Intrekking [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743)
+##### Artikel 22. Intrekking Regeling distributiegebieden waterleidingbedrijven
 
 De [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743) wordt ingetrokken.
 
@@ -381,688 +387,3 @@ De [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.
 ##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Drinkwaterregeling.
-
-## Bijlage 1. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=4&z=2017-08-27&g=2017-08-27) van de Drinkwaterregeling
-
-### Aanwijzing distributiegebieden
-
-### Aanwijzing distributiegebieden
-
-Distributiegebied:
-
-Distributiegebied:
-
-### Aanwijzing distributiegebieden
-
-Distributiegebied:
-
-Distributiegebied:
-
-### WMD Drinkwater B.V.
-
-Distributiegebied:
-
-Distributiegebied:
-
-### Vitens NV
-
-Distributiegebied:
-
-Distributiegebied:
-
-### Oasen NV
-
-Distributiegebied:
-
-Distributiegebied:
-
-Alblasserdam, Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Boskoop, Giessenlanden, Gorinchem, Gouda, Hardinxveld-Giessendam, Graafstroom, Hendrik Ido Ambacht, Kaag en Braassem, Krimpen aan den IJssel, Leerdam, Leiderdorp, Liesveld, Zuidplas (kern Moordrecht), Nederlek, Nieuw-Lekkerland, Nieuwkoop, Ouderkerk aan den IJssel, Papendrecht, Ridderkerk, Rijnwoude, Schoonhoven, Sliedrecht, Vianen, Vlist, Waddinxveen, Zederik, Zoeterwoude en Zwijndrecht.
-
-### Stichting Waternet
-
-Distributiegebied:
-
-Amstelveen (bebouwde kom), Amsterdam, Diemen, Heemstede, Muiden, Ouder-Amstel en Haarlemmermeer (Schiphol en voormalig Fokker complex).
-
-Voorziet voorts enkele percelen in Abcoude, Landsmeer, Oostzaan, Halfweg en Haarlemmermeer.
-
-### NV PWN Waterleidingbedrijf Noord-Holland
-
-Distributiegebied:
-
-Aalsmeer, Alkmaar, Amstelveen (gedeeltelijk), Andijk, Anna Paulowna, Beemster, Bergen, Beverwijk, Blaricum, Bloemendaal, Bussum, Castricum, Edam-Volendam, Enkhuizen, Graft-de Rijp, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Harenkarspel, Heemskerk, Heerhugowaard, Heiloo, Den Helder, Hoorn, Huizen, Koggenland, Landsmeer, Langedijk, Laren, Medemblik, Naarden, Niedorp, Oostzaan, Opmeer, Purmerend, Schagen, Schermer, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Weesp, Wervershoof, Wieringen, Wieringermeer, Wijdemeren (gedeeltelijk), Wormerland, Zaanstad, Zandvoort, Zeevang en Zijpe.
-
-### Dunea Duin & Water (handelsnaam van NV Duinwaterbedrijf Zuid-Holland)
-
-Distributiegebied:
-
-Distributiegebied:
-
-### Evides NV
-
-Distributiegebied:
-
-Distributiegebied:
-
-Albrandswaard, Barendrecht, Bergen op Zoom (Halsteren, Lepelstraat en Putte), Bernisse, Binnenmaas, Borsele, Brielle, Capelle aan den IJssel, Cromstrijen, Den Haag (Wateringseveld), Delft, Dirksland, Dordrecht, Goedereede, Goes, Hellevoetsluis, Hulst, Kapelle, Korendijk, Maasluis, Middelburg, Middelharnis, Midden-Delfland, Noord-Beveland, Oostflakkee, Oud-Beijerland, Reimerswaal, Rotterdam, Rozenburg, Schiedam, Schouwen-Duiveland, Sluis, Spijkenisse, Strijen, Terneuzen, Tholen, Vlaardingen, Veere, Vlissingen, Westvoorne, Westland, Woensdrecht en Zwijndrecht (Heerjansdam)
-
-### Brabant Water NV
-
-Distributiegebied:
-
-Aalburg, Alphen-Chaam, Asten, Baarle-Hertog, Baarle-Nassau, Bergeijk, Bergen op Zoom (gedeelte) , Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Breda, Cranendonck, Cuijk, Deurne, Dongen, Drimmelen, Eersel, Eindhoven, Etten-Leur, Geertruidenberg, Geldrop-Mierlo, Gemert-Bakel, Gilze en Rijen, Goirle, Grave, Haaren, Halderberge, Heeze-Leende, Helmond, 's-Hertogenbosch, Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Maasdonk, Mill en Sint Hubert, Sint Michielsgestel, Sint-Anthonis, Moerdijk, Nuenen, Gerwen en Nederwetten, Sint Oedenrode, Oirschot, Oisterwijk, Oosterhout, Oss, Reusel-De Mierden, Roosendaal, Rucphen, Schijndel, Someren, Son en Breugel, Steenbergen, Tholen (gedeelte), Tilburg, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre, Waalwijk, Werkendam, Woensdrecht (gedeelte), Woudrichem en Zundert.
-
-## Bijlage 2. behorend bij [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2017-08-27&g=2017-08-27), van de Drinkwaterregeling
-
-### Nv WML (Waterleiding Maatschappij Limburg)
-
-Distributiegebied:
-
-## Bijlage 2. behorend bij [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2024-09-26&g=2024-09-26), van de Drinkwaterregeling
-
-### Laboratoria die zijn aangemerkt als aangewezen laboratoria
-
-De volgende laboratoria worden aangemerkt als laboratoria die zijn aangewezen op grond van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2024-09-26&g=2024-09-26), van de regeling:
-
-De volgende laboratoria worden aangemerkt als laboratoria die zijn aangewezen op grond van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2025-10-24&g=2025-10-24), van de regeling:
-
-Noten:
-
-Opmerkingen:
-
-Opmerkingen:
-
-Algemeen: zie tabel II voor de minimumfrequentie voor bewakingsparameters (monitoring).
-
-Opmerkingen:
-
-Algemeen: zie tabel II voor de minimumfrequentie voor bewakingsparameters (monitoring).
-
-Opmerkingen:
-
-Algemeen: zie tabel II voor de minimumfrequentie voor operationele monitoringsparameters (monitoring).
-
-Opmerkingen:
-
-## Bijlage 4. , behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=13&z=2017-08-27&g=2017-08-27) van de Drinkwaterregeling
-
-### Analysemethoden
-
-Noot:
-
-Noten:
-
-Noot:
-
-## Bijlage 5. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16&z=2017-08-27&g=2017-08-27) van de Drinkwaterregeling
-
-### Kwaliteitseisen voor oppervlaktewater bestemd voor de bereiding van drinkwater
-
-Noten:
-
-## Bijlage 4. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=13&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-### Analysemethoden
-
-Noten:
-
-1. De in Nederland gebruikte Laurylsulphate Agar Methode (LSA methode) is door de Europese Commissie gelijkwaardig verklaard en goedgekeurd.
-
-2. Methode in overleg met de inspecteur te bepalen. Zie hiervoor het richtsnoer ‘Analyse microbiologische veiligheid drinkwater’.
-
-3. Voor de beoordeling van de gelijkwaardigheid van alternatieve methoden aan de methode van bijlage III bij [Richtlijn 98/83/EG](31998L0083) van de Raad van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG 1998, L 330), is het lidstaten toegestaan om gebruik te maken van norm NEN-EN ISO 17994. Deze norm is bij Beschikking 2009/64/EG van de Commissie van 21 januari 2009 houdende specificatie, overeenkomstig [Richtlijn 2006/7/EG](32006L0007) van het Europees Parlement en de Raad, van ISO 17994:2004(E) als de norm inzake de gelijkwaardigheid van microbiologische methoden (PbEU 2009, L 23) vastgesteld, als de norm inzake de gelijkwaardigheid van microbiologische methoden in het kader van [Richtlijn 2006/7/EG](32006L0007) van het Europees Parlement en de Raad van 15 februari 2006 betreffende het beheer van de zwemwaterkwaliteit en tot intrekking van [Richtlijn 76/160/EEG](31976L0160). Lidstaten kunnen echter ook gebruikmaken van norm NEN-EN ISO 16140 of andere, soortgelijke internationaal aanvaarde protocollen, zoals bedoeld in artikel 5, vijfde lid, van [Verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU 2005, L 338), om de gelijkwaardigheid vast te stellen van methoden die niet gebaseerd zijn op het kweken en die buiten het toepassingsgebied van NEN-EN ISO 17994 vallen.
-
-4. Indien ISO 7899-2 voor de detectie van intestinale enterococcen niet wordt toegepast, kan een gelijkwaardige norm of methode worden gebruikt, te bepalen in overleg met de inspecteur.
-
-Voor de onderstaande parameters houden de gespecificeerde prestatiekenmerken in dat met de gebruikte analysemethoden ten minste concentraties moeten kunnen worden gemeten die gelijk zijn aan de parameterwaarde, met een bepalingsgrens, zoals gedefinieerd in artikel 2, tweede lid, van [Richtlijn 2009/90/EG](32009L0090) van de Commissie van 31 juli 2009 tot vaststelling van technische specificaties voor de chemische analyse en monitoring van de watertoestand krachtens [Richtlijn 2000/60/EG](32000L0060) van het Europees Parlement en de Raad (PbEG 2009, L 201/36), van 30% of minder van de desbetreffende parameterwaarde en een meetonzekerheid als aangegeven in de tabel. Het resultaat wordt met ten minste evenveel significante cijfers uitgedrukt als de gelijknamige parameterwaarde genoemd in [Bijlage A, tabellen II en III, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A).
-
-Acrylamide, epichloorhydrine en vinylchloride worden gecontroleerd door middel van productspecificatie (parameters opgenomen in de [Regeling materialen en chemicaliën drink- en warm tapwatervoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0030279))
-
-Enterococcen
-
-Legionella
-
-**Gezondheidskundige parameters (niet-acuut)**
-
-**Gezondheidskundige parameters (acuut)**
-
-**Gezondheidskundige parameters (acuut)**
-
-Escherichia coli
-
-Enterococcen
-
-Legionella
-
-**Gezondheidskundige parameters (niet-acuut)**
-
-Arseen
-
-Boor
-
-Bromaat (90-percentiel)
-
-1,2-Dichloorethaan
-
-Fluoride
-
-Nikkel
-
-Nitraat
-
-Nitriet
-
-Polycyclische aromatische koolwaterstoffen (PAK's) (som)
-
-Pesticiden (individueel)
-
-Tetra- en trichlooretheen (som)
-
-Trihalomethanen (som) (90-percentiel)
-
-**Bedrijfstechnische parameters**
-
-Aeromonas bij 30oC
-
-Ammonium
-
-Bacteriën van de coligroep
-
-Chloride
-
-Clostridium perfringens
-
-Saturatie Index
-
-Temperatuur
-
-Waterstofcarbonaat
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 7. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2017-08-27&g=2017-08-27) van de Drinkwaterregeling
-
-### Controle van de indicatieve dosis en analytische prestatiekenmerken
-
-### 1. Controle op naleving van de indicatieve dosis
-
-Aluminium
-
-### a). Controle op bepaalde radionucliden of op een afzonderlijke radionuclide
-
-Kleur
-
-### Controle van de indicatieve dosis en analytische prestatiekenmerken
-
-Mangaan
-
-Natrium
-
-Sulfaat
-
-Troebelingsgraad
-
-### Controle van de indicatieve dosis en analytische prestatiekenmerken
-
-Voor dit doel zijn in de EURATOM-richtlijn controleniveaus voor totaal alfa-activiteit of totaal bèta-activiteit vastgelegd. Het aanbevolen controleniveau voor totaal alfa-activiteit is 0,1 Bq/l. Het aanbevolen controleniveau voor totaal bèta-activiteit is 1,0 Bq/l.
-
-De controle in Nederland vindt plaats op basis van de meetresultaten voor totaal alfa en totaal bèta-radioactiviteit(1).
-
-### a). Controle op bepaalde radionucliden of op een afzonderlijke radionuclide
-
-### a). Controle op bepaalde radionucliden of op een afzonderlijke radionuclide
-
-Als één van de activiteitsconcentraties meer bedraagt dan 20% van de overeenkomstige afgeleide waarde of als de tritiumconcentratie hoger ligt dan de in het Drinkwaterbesluit vastgestelde parameterwaarde, is een analyse van andere radionucliden vereist.
-
-Voor dit doel zijn in de EURATOM-richtlijn controleniveaus voor totaal alfa-activiteit of totaal bèta-activiteit vastgelegd. Het aanbevolen controleniveau voor totaal alfa-activiteit is 0,1 Bq/l. Het aanbevolen controleniveau voor totaal bèta-activiteit is 1,0 Bq/l.
-
-Voor dit doel zijn in de EURATOM-richtlijn controleniveaus voor totaal alfa-activiteit of totaal bèta-activiteit vastgelegd. Het aanbevolen controleniveau voor totaal alfa-activiteit is 0,1 Bq/l. Het aanbevolen controleniveau voor totaal bèta-activiteit is 1,0 Bq/l.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 10a. Meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en voor collectieve leidingnetten
-
-1. De eigenaar van een kleine collectieve watervoorziening, van een zeer kleine collectieve watervoorziening die niet valt onder de vrijstelling, bedoeld in [artikel 32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=32), of van een collectief leidingnet, beschikt over een daarop betrekking hebbend meetprogramma dat voldoet aan de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24) en dat bestaat uit het nemen en analyseren van verschillende watermonsters of het verrichten van metingen die in het kader van een doorlopend proces van controle worden geregistreerd. De eigenaar evalueert voortdurend het meetprogramma en past het aan naar aanleiding van de evaluatie of voorafgaand aan wijzigingen in de feitelijke situatie.
-
-2. In de risicobeoordeling wordt in ieder geval rekening gehouden met de monitoringsprogramma’s en de resultaten daarvan, die zijn vastgesteld overeenkomstig de [artikelen 10.14b tot en met 10.14g van het Besluit kwaliteit leefomgeving](onbekend).
-
-3. De eigenaar, bedoeld in het eerste lid, onderzoekt het water in de frequentie en op de plaatsen zoals aangegeven is in het meetprogramma en met inachtneming van het vierde tot en met zesde lid.
-
-4. Indien en voor zolang de eigenaar niet beschikt over een meetprogramma dat in overeenstemming is met het eerste lid of niet beschikt over een goedgekeurd meetprogramma, verricht hij metingen overeenkomstig de van toepassing zijnde tabel of tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24).
-
-5. Voor micro-organismen, parasieten en stoffen die niet zijn genoemd in tabel I, II of III van [bijlage A bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A), verricht de eigenaar van een collectieve watervoorziening of van een collectief leidingnet als bedoeld in het eerste lid metingen indien er redenen zijn om aan te nemen dat deze aanwezig zijn in aantallen per volume-eenheid of concentraties die nadelige gevolgen voor de volksgezondheid kunnen hebben.
-
-6. De toezichthouder kan bepalen dat door hem aangegeven parameters, genoemd in de van toepassing zijnde tabel of tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=3&z=2025-10-24&g=2025-10-24), frequenter worden onderzocht dan in die bijlage is aangegeven. Tevens kan hij bepalen dat andere dan de in bijlage 3 genoemde, door hem aangegeven parameters, onderzocht worden in een door hem aangegeven frequentie, indien dat naar zijn oordeel van belang is voor het verkrijgen van voldoende inzicht in de kwaliteit van het water.
-
-7. Het eerste tot en met zesde lid zijn niet van toepassing op de eigenaar van een collectief leidingnet of van een collectieve watervoorziening voor warm tapwater, uitsluitend voor zover daarmee, berekend over een kalenderjaar, per dag gemiddeld minder dan 100 m3 drinkwater, onderscheidenlijk minder dan 10 m3 warm tapwater, wordt gedistribueerd. Het eerste tot en met zesde lid is evenmin van toepassing op de eigenaar van een collectieve watervoorziening voor warm tapwater, niet zijnde een wijkwarmtapwatervoorziening.
-
-## Bijlage 1. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=4&z=2017-10-27&g=2017-10-27) van de Drinkwaterregeling
-
-### Aanwijzing distributiegebieden
-
-Distributiegebied:
-
-### NV Waterbedrijf Groningen
-
-Appingedam, Bedum, Bellingwedde, De Marne, Delfzijl, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Tynaarloo (Eelde-Paterswolde), Veendam, Vlagtwedde, Winsum en Zuidhorn.
-
-### WMD Drinkwater B.V.
-
-Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Midden-Drenthe, Noordenveld, Westerveld (gedeeltelijk) en Tynaarlo (gedeeltelijk).
-
-### Vitens NV
-
-Alle gemeenten in de provincies Friesland, Gelderland, Overijssel, Utrecht en Flevoland, alsmede de gemeenten Hilversum en Wijdemeren (gedeeltelijk), en de gemeenten Meppel en Westerveld (gedeeltelijk).
-
-### Oasen NV
-
-Distributiegebied:
-
-### NV PWN Waterleidingbedrijf Noord-Holland
-
-Distributiegebied:
-
-### Dunea Duin & Water (handelsnaam van NV Duinwaterbedrijf Zuid-Holland)
-
-Voorziet voorts enkele percelen in de gemeenten Alkemade, Amsterdam, Eemnes, Heemstede, Hillegom, Hilversum, Jacobswoude, Muiden, en Warmond.
-
-### Dunea Duin & Water (handelsnaam van NV Duinwaterbedrijf Zuid-Holland)
-
-Den Haag (excl. wijk Wateringseveld), Hillegom, Katwijk, Lansingerland, Leiden, Leidschendam-Voorburg, Lisse, Rotterdam (wijk Nesselande), Noordwijk, Noordwijkerhout, Oegstgeest, Pijnacker-Nootdorp, Rijnwoude (kern Benthuizen), Rijswijk, Teylingen, Voorschoten, Wassenaar, Zoetermeer en Zuidplas (excl. kern Moordrecht)
-
-### Evides NV
-
-Distributiegebied:
-
-### Nv WML (Waterleiding Maatschappij Limburg)
-
-Voorziet voorts enkele percelen in Nederweert.
-
-## Bijlage 2. behorend bij [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2017-10-27&g=2017-10-27), van de Drinkwaterregeling
-
-### Laboratoria die zijn aangemerkt als aangewezen laboratoria
-
-Beek, Beesel, Bergen, Brunssum, Echt-Susteren, Eijsden-Margraten, Gennep, Gulpen-Wittem, Heerlen, Horst aan de Maas, Kerkrade, Landgraaf, Leudal, Maasgouw, Maastricht, Meerssen, Mook en Middelaar, Nederweert, Nuth, Onderbanken, Peel en Maas, Roerdalen, Roermond, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Venlo, Venray, Voerendaal en Weert.
-
-## Bijlage 2. behorend bij [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2025-10-24&g=2025-10-24), van de Drinkwaterregeling
-
-### Laboratoria die zijn aangemerkt als aangewezen laboratoria
-
-Opmerkingen:
-
-## Bijlage 4. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=13&z=2017-10-27&g=2017-10-27) van de Drinkwaterregeling
-
-### Analysemethoden
-
-Noot:
-
-Noten:
-
-**Tabel II. Chemische en indicatorparameters**
-
-Noten:
-
-## Bijlage 5. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16&z=2017-10-27&g=2017-10-27) van de Drinkwaterregeling
-
-### Kwaliteitseisen voor oppervlaktewater bestemd voor de bereiding van drinkwater
-
-## Bijlage 6. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=17&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-### Aanwijzing parameters in verband met de uitvoering van de prestatievergelijking op drinkwaterkwaliteit
-
-Zuurgraad
-
-Zuurstof
-
-**Klantgerichte parameters**
-
-Hardheid (totaal)
-
-## Bijlage 7. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-### 1. Controle op naleving van de indicatieve dosis
-
-### a). Controle op bepaalde radionucliden of op een afzonderlijke radionuclide
-
-De controle in Nederland vindt plaats op basis van de meetresultaten voor totaal alfa en totaal bèta-radioactiviteit(1).
-
-Als één van de activiteitsconcentraties meer bedraagt dan 20% van de overeenkomstige afgeleide waarde of als de tritiumconcentratie hoger ligt dan de in het Drinkwaterbesluit vastgestelde parameterwaarde, is een analyse van andere radionucliden vereist.
-
-### b). Controlestrategieën voor totaal alfa- en totaal bèta-activiteit
-
-### Afgeleide concentraties voor radioactiviteit in voor menselijke consumptie bestemd water (2)
-
-### 3. Prestatiekenmerken en analysemethoden
-
-Aangezien verhoogde tritiumniveaus kunnen duiden op de aanwezigheid van andere kunstmatige radionucliden, moeten tritium en totaal alfa- en totaal bèta-activiteit in hetzelfde monster worden gemeten.
-
-De ID wordt berekend aan de hand van de gemeten radionuclideconcentraties en de dosiscoëfficiënten die zijn vastgelegd in bijlage III, tabel A, van Richtlijn 96/29/EURATOM, of aan de hand van recentere informatie die wordt erkend door de bevoegde instanties van de lidstaat, op basis van de jaarlijkse inname van water (730 liter voor volwassenen). Wanneer aan de volgende formule is voldaan, mogen de lidstaten aannemen dat de ID lager is dan de parameterwaarde van 0,1 mSv/j en dat verder onderzoek niet nodig is:
-
-De ID wordt berekend aan de hand van de gemeten radionuclideconcentraties en de dosiscoëfficiënten die zijn vastgelegd in bijlage III, tabel A, van Richtlijn 96/29/EURATOM, of aan de hand van recentere informatie die wordt erkend door de bevoegde instanties van de lidstaat, op basis van de jaarlijkse inname van water (730 liter voor volwassenen). Wanneer aan de volgende formule is voldaan, mogen de lidstaten aannemen dat de ID lager is dan de parameterwaarde van 0,1 mSv/j en dat verder onderzoek niet nodig is:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 16a. (signaleringsparameters voor oppervlaktewater gebruikt voor de bereiding van drinkwater)
-
-1. Signaleringsparameters voor het signaleren van mogelijke verontreiniging van oppervlaktewater, gebruikt voor de bereiding van drinkwater, zijn opgenomen in [bijlage 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5b&z=2025-10-24&g=2025-10-24).
-
-2. Een overschrijding van een signaleringsparameter wordt door de eigenaar van een drinkwaterbedrijf onmiddellijk gemeld aan de inspecteur.
-
-3. In geval van een overschrijding draagt de eigenaar van een drinkwaterbedrijf zorg voor het onmiddellijk verrichten van onderzoek naar de hoedanigheid van het water dat wordt gebruikt voor de bereiding van drinkwater, waaronder in het bijzonder de aard en concentratie van de desbetreffende stof of stoffen en de risico’s daarvan voor de volksgezondheid. De eigenaar van het drinkwaterbedrijf deelt de resultaten van dit onderzoek onmiddellijk met de inspecteur.
-
-## Bijlage 1. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=4&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-### Aanwijzing distributiegebieden
-
-### WMD Drinkwater B.V.
-
-### Vitens NV
-
-### Oasen NV
-
-### Stichting Waternet
-
-### NV PWN Waterleidingbedrijf Noord-Holland
-
-### Dunea Duin & Water (handelsnaam van NV Duinwaterbedrijf Zuid-Holland)
-
-### Evides NV
-
-### Brabant Water NV
-
-### Nv WML (Waterleiding Maatschappij Limburg)
-
-Distributiegebied:
-
-## Bijlage 2. behorend bij [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2021-10-07&g=2021-10-07), van de Drinkwaterregeling
-
-### Laboratoria die zijn aangemerkt als aangewezen laboratoria
-
-De volgende laboratoria worden aangemerkt als laboratoria die zijn aangewezen op grond van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=9&z=2021-10-07&g=2021-10-07), van de regeling:
-
-## Bijlage 3. behorend bij de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2021-10-07&g=2021-10-07) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=11&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-### Meetfrequenties
-
-Opmerkingen:
-
-## Bijlage 4. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=13&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-### Analysemethoden
-
-## Bijlage 5a. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-| Parameter | Eenheid | Waarde* |
-| --- | --- | --- |
-| Zuurgraad | pH | 7,0 ≤ pH ≤ 9,0 |
-| Kleurintensiteit | mg/l | 50 |
-| Gesuspendeerde stoffen | mg/l | 50 |
-| Temperatuur | °C | 25 |
-| Geleidingsvermogen voor elektriciteit | mS/m bij 20°C | 80 |
-| Geur | – | geen abnormale verandering |
-| Chloride | mg/l Cl | 150 (noot 3) |
-| Sulfaat | mg/l SO4 | 100 |
-| Fluoride | mg/l F | 1 |
-| Ammonium | mg/l NH4 | 1,5 |
-| Nitraat | mg/l NO3 | 50 |
-| Fosfaat | mg/l PO4 | 0,9 |
-| Zuurstof opgelost | mg/l O2 | ≥ 5 |
-| Natrium | mg/l Na | 120 |
-| IJzer opgelost | µg/l Fe | 300 |
-| Mangaan | µg/l Mn | 500 |
-| Koper | µg/l Cu | 50 |
-| Zink | µg/l Zn | 200 |
-| Boor | µg/l B | 1.000 |
-| Arseen | µg/l As | 20 |
-| Cadmium | µg/l Cd | 1,5 |
-| Chroom (totaal) | µg/l Cr | 20 |
-| Lood | µg/l Pb | 30 |
-| Seleen | µg/l Se | 10 |
-| Kwik | µg/l Hg | 0,3 |
-| Barium | µg/l Ba | 200 |
-| Cyanide | µg/l CN | 50 |
-| Polycyclische aromatische koolwaterstoffen | µg/l | 1 |
-| Gewasbeschermingsmiddelen, biociden, en hun relevante afbraakprodukten (som) | µg/l | 0,5 |
-| Gewasbeschermingsmiddelen, biociden en hun relevante afbraakproducten per afzonderlijke stof (noot 1) | µg/l | 0,1 |
-| Bacteriën van de coligroep (noot 2) | aantal per 100 ml | 2.000 |
-| Escherichia coli (noot 2) | aantal per 100 ml | 2.000 |
-| Enterococcen (noot 2) | aantal per 100 ml | 1.000 |
-| Pyrazool | µg/l | 3 |
-
-*) De waarden zijn maximumwaarden, tenzij anders is aangegeven.
-
-Noten:
-
-- 1. Indien het een metaboliet van gewasbeschermingsmiddelen betreft welke in humaan toxicologisch opzicht relevant is dan is de kwaliteitseis 0,1 µg/l. Voor de overige metabolieten geldt een norm van 1,0 µg/l (zie [tabel II, noot 7, van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A))
-
-- 2. Voor nadere regels omtrent de analyse van de microbiologische veiligheid wordt verwezen naar noot 1 van tabel I van [bijlage A van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A).
-
-- 3. Deze waarde moet worden beschouwd als jaargemiddelde.
-
-## Bijlage 5b. behorend bij [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16a&z=2021-10-07&g=2021-10-07) van de Drinkwaterregeling
-
-| Parameter | Eenheid | Waarde* |
-| --- | --- | --- |
-| AOX | µmol X/l | – |
-| Aromatische aminen (noot 1 en 2) | µg/l | 1 |
-| (Chloor)fenolen (noot 1 en 2) | µg/l | 1 |
-| Diglyme(n) (noot 1) | µg/l | 1 |
-| Ethyl tert-butyl ether (ETBE) (noot 1) | µg/l | 1 |
-| Gehalogeneerde monocyclische koolwaterstoffen (noot 1) | µg/l | 1 |
-| Gehalogeneerde alifatische koolwaterstoffen (noot 1) | µg/l | 1 |
-| Methyl tert-butyl ether (MTBE) (noot 1) | µg/l | 1 |
-| Monocyclische koolwaterstoffen/aromaten (noot 1) | µg/l | 1 |
-| Overige antropogene stoffen (noot 1 en 3) | µg/l | 1 |
-
-*) De waarden zijn maximumwaarden
-
-Noten:
-
-- 1. Wanneer de aangegeven waarde (1 µg/l) wordt gemeten zal er nader onderzoek plaatsvinden overeenkomstig [artikel 16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16a&z=2021-10-07&g=2021-10-07), van de Drinkwaterregeling. Deze parameters (als groep) zijn bedoeld om de kwaliteit van de bron te bewaken.
-
-- 2. Indien het een metaboliet van gewasbeschermingsmiddelen betreft welke in humaan toxicologisch opzicht relevant is dan is de kwaliteitseis 0,1 µg/l. Voor de overige metabolieten geldt een norm van 1,0 µg/l (zie [bijlage A, tabel II, noot 7 van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A))
-
-- 3. Met deze parameter worden stoffen bedoeld die niet behoren tot de andere parameters in deze tabel of [tabel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5a&z=2021-10-07&g=2021-10-07) maar welke een bedreiging voor de drinkwatervoorziening kunnen zijn.
-
-##### Artikel 10b. Risicobeoordeling met beperkt meetprogramma en meetfrequentie voor kleine of zeer kleine collectieve watervoorzieningen en collectieve leidingnetten die onverplicht een risicobeoordeling uitvoeren
-
-1. Voor kleine of zeer kleine collectieve watervoorzieningen of collectieve leidingnetten als bedoeld in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24), die onverplicht een risicobeoordeling uitvoeren, kan de toezichthouder in afwijking van dat artikel op basis van de resultaten van de risicobeoordeling bepalen dat het meetprogramma, bedoeld in dat lid, en de lijst van daarin opgenomen bewakings- en audit parameters wordt beperkt en de bemonsteringsfrequenties worden verlaagd, met inachtneming van de herkomst van de parameter en van de variatie en lange termijnontwikkeling van diens concentratie, indien de risicobeoordeling bevestigt dat geen enkele redelijkerwijs te voorziene factor aanwezig is waardoor de kwaliteit van het voor menselijk consumptie bestemde water achteruit zou kunnen gaan in het geval van het verlagen van een bemonsteringsfrequentie of het schrappen van een parameter.
-
-2. Het eerste lid is niet van toepassing op de bemonsteringsfrequenties voor Intestinale enterococcen en Escherichia coli.
-
-## Bijlage 1. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=4&z=2024-09-26&g=2024-09-26) van de Drinkwaterregeling
-
-### Stichting Waternet
-
-### NV PWN Waterleidingbedrijf Noord-Holland
-
-### Brabant Water NV
-
-### Nv WML (Waterleiding Maatschappij Limburg)
-
-## Bijlage 3. behorend bij de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2024-09-26&g=2024-09-26), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2024-09-26&g=2024-09-26) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=11&z=2024-09-26&g=2024-09-26) van de Drinkwaterregeling
-
-### Monitoring en meetfrequenties
-
-## Bijlage 4. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=13&z=2024-09-26&g=2024-09-26) van de Drinkwaterregeling
-
-### Analysemethoden
-
-## Bijlage 5a. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16&z=2024-09-26&g=2024-09-26) van de Drinkwaterregeling
-
-| Parameter | Eenheid | Waarde* |
-| --- | --- | --- |
-| Zuurgraad | pH | 7,0 ≤ pH ≤ 9,0 |
-| Kleurintensiteit | mg/l | 50 |
-| Gesuspendeerde stoffen | mg/l | 50 |
-| Temperatuur | °C | 25 |
-| Geleidingsvermogen voor elektriciteit | mS/m bij 20°C | 80 |
-| Geur | – | geen abnormale verandering |
-| Chloride | mg/l Cl | 150 (noot 3) |
-| Sulfaat | mg/l SO4 | 100 |
-| Fluoride | mg/l F | 1 |
-| Ammonium | mg/l NH4 | 1,5 |
-| Nitraat | mg/l NO3 | 50 |
-| Fosfaat | mg/l PO4 | 0,9 |
-| Zuurstof opgelost | mg/l O2 | ≥ 5 |
-| Natrium | mg/l Na | 120 |
-| IJzer opgelost | µg/l Fe | 300 |
-| Mangaan | µg/l Mn | 500 |
-| Koper | µg/l Cu | 50 |
-| Zink | µg/l Zn | 200 |
-| Boor | µg/l B | 1.000 |
-| Arseen | µg/l As | 20 |
-| Cadmium | µg/l Cd | 1,5 |
-| Chroom (totaal) | µg/l Cr | 20 |
-| Lood | µg/l Pb | 30 |
-| Seleen | µg/l Se | 10 |
-| Kwik | µg/l Hg | 0,3 |
-| Barium | µg/l Ba | 200 |
-| Cyanide | µg/l CN | 50 |
-| Polycyclische aromatische koolwaterstoffen | µg/l | 1 |
-| Gewasbeschermingsmiddelen, biociden, en hun relevante afbraakprodukten (som) | µg/l | 0,5 |
-| Gewasbeschermingsmiddelen, biociden en hun relevante afbraakproducten per afzonderlijke stof (noot 1) | µg/l | 0,1 |
-| Bacteriën van de coligroep (noot 2) | aantal per 100 ml | 2.000 |
-| Escherichia coli (noot 2) | aantal per 100 ml | 2.000 |
-| Enterococcen (noot 2) | aantal per 100 ml | 1.000 |
-| Pyrazool | µg/l | 3 |
-
-*) De waarden zijn maximumwaarden, tenzij anders is aangegeven.
-
-Noten:
-
-- 1. Indien het een metaboliet van gewasbeschermingsmiddelen betreft welke in humaan toxicologisch opzicht relevant is dan is de kwaliteitseis 0,1 µg/l. Voor de overige metabolieten geldt een norm van 1,0 µg/l (zie [tabel II, noot 7, van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A))
-
-- 2. Voor nadere regels omtrent de analyse van de microbiologische veiligheid wordt verwezen naar noot 1 van tabel I van [bijlage A van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A).
-
-- 3. Deze waarde moet worden beschouwd als jaargemiddelde.
-
-## Bijlage 5a. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-| Parameter | Eenheid | Waarde* |
-| --- | --- | --- |
-| Zuurgraad | pH | 7,0 ≤ pH ≤ 9,0 |
-| Kleurintensiteit | mg/l | 50 |
-| Gesuspendeerde stoffen | mg/l | 50 |
-| Temperatuur | °C | 25 |
-| Geleidingsvermogen voor elektriciteit | mS/m bij 20°C | 80 |
-| Geur | – | geen abnormale verandering |
-| Chloride | mg/l Cl | 150 (noot 3) |
-| Sulfaat | mg/l SO4 | 100 |
-| Fluoride | mg/l F | 1 |
-| Ammonium | mg/l NH4 | 1,5 |
-| Nitraat | mg/l NO3 | 50 |
-| Fosfaat | mg/l PO4 | 0,9 |
-| Zuurstof opgelost | mg/l O2 | ≥ 5 |
-| Natrium | mg/l Na | 120 |
-| IJzer opgelost | µg/l Fe | 300 |
-| Mangaan | µg/l Mn | 500 |
-| Koper | µg/l Cu | 50 |
-| Zink | µg/l Zn | 200 |
-| Boor | µg/l B | 1.000 |
-| Arseen | µg/l As | 20 |
-| Cadmium | µg/l Cd | 1,5 |
-| Chroom (totaal) | µg/l Cr | 20 |
-| Lood | µg/l Pb | 30 |
-| Seleen | µg/l Se | 10 |
-| Kwik | µg/l Hg | 0,3 |
-| Barium | µg/l Ba | 200 |
-| Cyanide | µg/l CN | 50 |
-| Polycyclische aromatische koolwaterstoffen | µg/l | 1 |
-| Gewasbeschermingsmiddelen, biociden, en hun relevante afbraakprodukten (som) | µg/l | 0,5 |
-| Gewasbeschermingsmiddelen, biociden en hun relevante afbraakproducten per afzonderlijke stof (noot 1) | µg/l | 0,1 |
-| Bacteriën van de coligroep (noot 2) | aantal per 100 ml | 2.000 |
-| Escherichia coli (noot 2) | aantal per 100 ml | 2.000 |
-| Enterococcen (noot 2) | aantal per 100 ml | 1.000 |
-| Pyrazool | µg/l | 3 |
-
-*) De waarden zijn maximumwaarden, tenzij anders is aangegeven.
-
-Noten:
-
-- 1. Indien het een metaboliet van gewasbeschermingsmiddelen betreft welke in humaan toxicologisch opzicht relevant is dan is de kwaliteitseis 0,1 µg/l. Voor de overige metabolieten geldt een norm van 1,0 µg/l (zie [tabel II, noot 7, van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A))
-
-- 2. Voor nadere regels omtrent de analyse van de microbiologische veiligheid wordt verwezen naar noot 1 van tabel I van [bijlage A van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A).
-
-- 3. Deze waarde moet worden beschouwd als jaargemiddelde.
-
-## Bijlage 5b. behorend bij [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16a&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-| Parameter | Eenheid | Waarde* |
-| --- | --- | --- |
-| AOX | µmol X/l | – |
-| Aromatische aminen (noot 1 en 2) | µg/l | 1 |
-| (Chloor)fenolen (noot 1 en 2) | µg/l | 1 |
-| Diglyme(n) (noot 1) | µg/l | 1 |
-| Ethyl tert-butyl ether (ETBE) (noot 1) | µg/l | 1 |
-| Gehalogeneerde monocyclische koolwaterstoffen (noot 1) | µg/l | 1 |
-| Gehalogeneerde alifatische koolwaterstoffen (noot 1) | µg/l | 1 |
-| Methyl tert-butyl ether (MTBE) (noot 1) | µg/l | 1 |
-| Monocyclische koolwaterstoffen/aromaten (noot 1) | µg/l | 1 |
-| Overige antropogene stoffen (noot 1 en 3) | µg/l | 1 |
-
-*) De waarden zijn maximumwaarden
-
-Noten:
-
-- 1. Wanneer de aangegeven waarde (1 µg/l) wordt gemeten zal er nader onderzoek plaatsvinden overeenkomstig [artikel 16a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=16a&z=2025-10-24&g=2025-10-24), van de Drinkwaterregeling. Deze parameters (als groep) zijn bedoeld om de kwaliteit van de bron te bewaken.
-
-- 2. Indien het een metaboliet van gewasbeschermingsmiddelen betreft welke in humaan toxicologisch opzicht relevant is dan is de kwaliteitseis 0,1 µg/l. Voor de overige metabolieten geldt een norm van 1,0 µg/l (zie [bijlage A, tabel II, noot 7 van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A))
-
-- 3. Met deze parameter worden stoffen bedoeld die niet behoren tot de andere parameters in deze tabel of [tabel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=5a&z=2025-10-24&g=2025-10-24) maar welke een bedreiging voor de drinkwatervoorziening kunnen zijn.
-
-### Aanwijzing parameters in verband met de uitvoering van de prestatievergelijking op drinkwaterkwaliteit
-
-IJzer
-
-## Bijlage 7. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2024-09-26&g=2024-09-26) van de Drinkwaterregeling
-
-### Controle van de indicatieve dosis en analytische prestatiekenmerken
-
-Als de totaal alfa- en de totaal bèta-activiteit kleiner zijn dan respectievelijk 0,1 Bq/l en 1,0 Bq/l, mogen de lidstaten aannemen dat de ID geringer is dan de parameterwaarde van 0,1 mSv/j en dat stralingsonderzoek niet nodig is, behalve wanneer uit andere informatiebronnen is gebleken dat in het water specifieke radionucliden aanwezig zijn die een ID hoger dan 0,1 mSv/j zouden kunnen veroorzaken.
-
-Als de totaal alfa-activiteit meer bedraagt dan 0,1 Bq/l of als de totaal bèta-activiteit meer bedraagt dan 1,0 Bq/l moet op specifieke radionucliden worden geanalyseerd. Indien dit voorkomt zal in samenwerking met het RIVM en na beoordeling door de Inspectie Leefomgeving en Transport (ILT) in monitoringsprogramma’s worden vastgelegd welke radionucliden moeten worden gemeten waarbij alle relevante gegevens inzake mogelijke bronnen van radioactiviteit in aanmerking worden genomen.
-
-### 2. Berekening van de ID
-
-### Afgeleide concentraties voor radioactiviteit in voor menselijke consumptie bestemd water (2)
-
-### Afgeleide concentraties voor radioactiviteit in voor menselijke consumptie bestemd water (2)
-
-(1) Waar nodig kan totaal bèta-activiteit worden vervangen door residuele bèta-activiteit na aftrek van de activiteitsconcentratie van kalium-40.
-
-(1) Waar nodig kan totaal bèta-activiteit worden vervangen door residuele bèta-activiteit na aftrek van de activiteitsconcentratie van kalium-40.
-
-(2) Deze tabel omvat waarden voor de meest voorkomende natuurlijke en kunstmatige radionucliden. Het zijn nauwkeurige waarden, berekend voor een dosis van 0,1 mSv, een jaarlijkse inname van 730 liter en met gebruikmaking van de dosiscoëfficiënten van bijlage III, tabel A, van Richtlijn 96/29/EURATOM. Afgeleide concentraties voor andere radionucliden kunnen op dezelfde basis worden berekend, en waarden kunnen worden geactualiseerd op basis van recentere informatie die wordt erkend door de bevoegde instanties van de lidstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Toegang tot drinkwater
-
-Ter uitvoering van artikel 16 van de Drinkwaterrichtlijn laat de Minister onderzoek verrichten en draagt hij zo nodig zorg voor maatregelen als bedoeld in het eerste en tweede lid van dat artikel en voor bijstand als bedoeld in het derde lid van dat artikel teneinde de toegang tot drinkwater voor iedereen en met name voor kwetsbare en gemarginaliseerde groepen te waarborgen.
-
-## Bijlage 1. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=4&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-## Bijlage 3. behorend bij de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2025-10-24&g=2025-10-24), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10a&z=2025-10-24&g=2025-10-24) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=11&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-### Monitoring en meetfrequenties
-
-## Bijlage 6. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=17&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-### Aanwijzing parameters in verband met de uitvoering van de prestatievergelijking op drinkwaterkwaliteit
-
-## Bijlage 7. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&artikel=10&z=2025-10-24&g=2025-10-24) van de Drinkwaterregeling
-
-### 1. Controle op naleving van de indicatieve dosis
-
-### b). Controlestrategieën voor totaal alfa- en totaal bèta-activiteit
-
-### 2. Berekening van de ID
-
-waarin:
-
-### 3. Prestatiekenmerken en analysemethoden
-
-(3) Deze tabel toont enkel de stralingseigenschappen van uranium, niet de chemische toxiciteit.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

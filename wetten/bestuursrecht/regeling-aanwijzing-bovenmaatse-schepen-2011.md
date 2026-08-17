@@ -1,45 +1,17 @@
 ---
 title: "Regeling aanwijzing bovenmaatse schepen 2011"
 identifier: "BWBR0029944"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-05-25"
-last_updated: "2011-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029944"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11312073"
-version_id: "18539982"
-internal_id: "C25918011"
-label_id: "11285944"
-dtd_version: "2.0"
-original_entry_into_force: "2011-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029944/2011-05-25/0"
-intitule_bron: "Stcrt.2011-7914"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-04-28"
-intitule_published: "2011-05-06"
-intitule_in_force: "2011-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-7914"
-original_signed_date: "2011-04-28"
-original_published_date: "2011-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-7914"
-entry_into_force_date: "2011-05-25"
-jci_1_3: "jci1.3:c:BWBR0029944&z=2011-05-25&g=2011-05-25"
-jci_1_0: "1.0:c:BWBR0029944&g=2011-05-25"
-citeertitel_status: "officieel"
-signed_date: "2011-04-28"
-entry_into_force: "2011-05-25"
+publicatiedatum: 2011-05-25
+laatste_update: 2011-05-25
+status: geldig
+toestand: 2011-05-25
+bron: "https://wetten.overheid.nl/BWBR0029944"
+opgehaald: 2026-08-17
 ---
+
 # Regeling aanwijzing bovenmaatse schepen 2011
-
-Gelet op [artikel 4, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4) en op de [artikelen 1.01, onderdeel A, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), en [artikel 10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarp het Wijzigingsbesluit Vaststellingsbesluit Binnenvaartpolitiereglement, enz. in werking treedt.
 
 ##### Artikel 1
 
@@ -84,5 +56,3 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 20 septe
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing bovenmaatse schepen 2011.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0041515"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Wet van 17 oktober 2018, houdende regels ter implementatie van richtlijn (EU) 2016/1148 (Wet beveiliging netwerk- en informatiesystemen)

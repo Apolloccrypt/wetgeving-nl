@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052965"
-opgehaald: 2026-08-16
+opgehaald: 2026-08-17
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 22 juli 2026, kenmerk 4482393-1101278-DICIO, houdende regels ter uitvoering van de Wet weerbaarheid kritieke entiteiten en het Besluit weerbaarheid kritieke entiteiten voor de sector Gezondheidszorg (Regeling weerbaarheid kritieke entiteiten voor de zorg) [KetenID WGK028173]

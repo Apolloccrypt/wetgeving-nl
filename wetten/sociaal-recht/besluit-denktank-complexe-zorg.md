@@ -1,39 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DLZ/KZ-3057132, tot instelling van de denktank complexe zorg (Besluit Denktank complexe zorg)"
+citeertitel: "Besluit Denktank complexe zorg"
 identifier: "BWBR0029776"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-03-31"
-last_updated: "2011-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029776"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11281113"
-version_id: "18475052"
-internal_id: "C25761251"
-label_id: "11255204"
-dtd_version: "2.0"
-original_entry_into_force: "2011-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029776/2011-03-31/0"
-intitule_bron: "Stcrt.2011-5399"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-03-30"
-intitule_in_force: "2011-03-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-5399"
-original_published_date: "2011-03-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-5399"
-entry_into_force_date: "2011-03-31"
-jci_1_3: "jci1.3:c:BWBR0029776&z=2011-03-31&g=2011-03-31"
-jci_1_0: "1.0:c:BWBR0029776&g=2011-03-31"
-citeertitel_status: "officieel"
-short_title: "Besluit Denktank complexe zorg"
-entry_into_force: "2011-03-31"
+publicatiedatum: 2011-03-31
+laatste_update: 2011-03-31
+status: geldig
+toestand: 2011-03-31
+bron: "https://wetten.overheid.nl/BWBR0029776"
+opgehaald: 2026-08-17
 ---
-# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DLZ/KZ-3057132, tot instelling van de denktank complexe zorg (Besluit Denktank complexe zorg)
 
-Besluit:
+# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DLZ/KZ-3057132, tot instelling van de denktank complexe zorg (Besluit Denktank complexe zorg)
 
 #### § 1. Algemeen
 
@@ -41,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **de minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **denktank:** de Denktank complexe zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029776&paragraaf=2&artikel=2&z=2011-03-31&g=2011-03-31).
+- b. *denktank:* de Denktank complexe zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029776&paragraaf=2&artikel=2&z=2011-03-31&g=2011-03-31).
 
 #### § 2. Instelling denktank complexe zorg
 
@@ -100,5 +79,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Denktank complexe zorg.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

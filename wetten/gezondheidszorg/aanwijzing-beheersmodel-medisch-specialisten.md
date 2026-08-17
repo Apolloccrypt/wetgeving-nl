@@ -1,82 +1,50 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3073582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake invoering beheersmodel medisch specialisten"
+citeertitel: "Aanwijzing beheersmodel medisch specialisten"
 identifier: "BWBR0030328"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030328"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11417873"
-version_id: "18742302"
-internal_id: "C26147891"
-label_id: "11391464"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030328/2012-01-01/0"
-intitule_bron: "Stcrt.2011-14067"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-07-25"
-intitule_published: "2011-08-02"
-intitule_in_force: "2011-08-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-14067"
-original_signed_date: "2011-07-25"
-original_published_date: "2011-08-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-14067"
-entry_into_force_date: "2011-08-02"
-jci_1_3: "jci1.3:c:BWBR0030328&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0030328&g=2012-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing beheersmodel medisch specialisten"
-signed_date: "2011-07-25"
-entry_into_force: "2011-08-02"
+publicatiedatum: 2011-08-02
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0030328"
+opgehaald: 2026-08-17
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3073582, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake invoering beheersmodel medisch specialisten
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 26 april 2010 en 16 maart 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2009/10, 29 248, nr. 117 en II 2010/11, 29 248, nr. 170) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gelet op het algemeen overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal op 6 april 2011 (Kamerstukken II 2010/11, 29 248, nr. 206);
-
-Gelet op korte aantekeningen van de Eerste Kamer der Staten-Generaal van 19 april 2011 kenmerk 42026/WB en van 10 mei 2011 kenmerk 42065/WB;
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **instelling:** instelling voor medisch specialistische zorg;
+- d. *instelling:* instelling voor medisch specialistische zorg;
 
-- e. **zorgproduct:** prestatiebeschrijving in termen van diagnose behandelcombinatie, ondersteunend product, overig product, overig traject of overige verrichting, zoals deze is vastgesteld door de zorgautoriteit en geldt vanaf 1 januari 2012;
+- e. *zorgproduct:* prestatiebeschrijving in termen van diagnose behandelcombinatie, ondersteunend product, overig product, overig traject of overige verrichting, zoals deze is vastgesteld door de zorgautoriteit en geldt vanaf 1 januari 2012;
 
-- f. **honorariumcomponent:** deel van het zorgproduct dat betrekking heeft op de werkzaamheden van medisch specialisten;
+- f. *honorariumcomponent:* deel van het zorgproduct dat betrekking heeft op de werkzaamheden van medisch specialisten;
 
-- g. **vrijgevestigd medisch specialist:** medisch specialist die op toelatingsovereenkomst werkzaam is bij een instelling;
+- g. *vrijgevestigd medisch specialist:* medisch specialist die op toelatingsovereenkomst werkzaam is bij een instelling;
 
-- h. **maximumtarief:** bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) dat ten hoogste voor een prestatie in rekening mag worden gebracht;
+- h. *maximumtarief:* bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) dat ten hoogste voor een prestatie in rekening mag worden gebracht;
 
-- i. **omzetplafond:** bovengrens voor de som van de tarieven voor de prestaties van de vrijgevestigd medisch specialisten als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
+- i. *omzetplafond:* bovengrens voor de som van de tarieven voor de prestaties van de vrijgevestigd medisch specialisten als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50);
 
-- j. **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39);
+- j. *Zorgverzekeringsfonds:* het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39);
 
-- k. **AAN-beheersmodel:** model waarbij de vrijgevestigd medisch specialisten voor hun werkzaamheden aan de instelling declareren, de instelling het integrale zorgproduct aan de patiënt of ziektekostenverzekeraar in rekening brengt en de instelling zorg draagt voor het bewaken van het omzetplafond;
+- k. *AAN-beheersmodel:* model waarbij de vrijgevestigd medisch specialisten voor hun werkzaamheden aan de instelling declareren, de instelling het integrale zorgproduct aan de patiënt of ziektekostenverzekeraar in rekening brengt en de instelling zorg draagt voor het bewaken van het omzetplafond;
 
-- l. **VIA-beheersmodel:** model waarbij de vrijgevestigd medisch specialisten de honorariumcomponent van het zorgproduct via de instelling in rekening brengen aan de patiënt of ziektekostenverzekeraar, de instelling het integrale zorgproduct in rekening brengt aan de patiënt of ziektekostenverzekeraar, de instelling de van de patiënt of ziektekostenverzekeraar ontvangen betalingen voor de honorariumcomponent afdraagt aan de vrijgevestigd medisch specialisten voor zover het omzetplafond niet is overschreden en de instelling een overschrijding van dit plafond namens de vrijgevestigd medisch specialisten inhoudt en afdraagt aan het Zorgverzekeringsfonds;
+- l. *VIA-beheersmodel:* model waarbij de vrijgevestigd medisch specialisten de honorariumcomponent van het zorgproduct via de instelling in rekening brengen aan de patiënt of ziektekostenverzekeraar, de instelling het integrale zorgproduct in rekening brengt aan de patiënt of ziektekostenverzekeraar, de instelling de van de patiënt of ziektekostenverzekeraar ontvangen betalingen voor de honorariumcomponent afdraagt aan de vrijgevestigd medisch specialisten voor zover het omzetplafond niet is overschreden en de instelling een overschrijding van dit plafond namens de vrijgevestigd medisch specialisten inhoudt en afdraagt aan het Zorgverzekeringsfonds;
 
-- m. **Convenant:** afspraken tussen de Orde van Medisch Specialisten, de Nederlandse Vereniging van Ziekenhuizen en de minister, ondertekend op 31 mei 2011;
+- m. *Convenant:* afspraken tussen de Orde van Medisch Specialisten, de Nederlandse Vereniging van Ziekenhuizen en de minister, ondertekend op 31 mei 2011;
 
-- n. **Hoofdlijnenakkoord:** het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011.
+- n. *Hoofdlijnenakkoord:* het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011.
 
 ##### Artikel 2. werkingssfeer
 

@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2010 (Verordening PT vakheffing bloembollen oogstjaar 2010)"
+citeertitel: "Verordening PT vakheffing bloembollen oogstjaar 2010"
 identifier: "BWBR0030504"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030504"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11460723"
-version_id: "18834792"
-internal_id: "C26288031"
-label_id: "11434234"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030504/2011-09-11/0"
-intitule_bron: "Vbbo.2011-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-19"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-53"
-original_signed_date: "2011-05-19"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030504&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030504&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing bloembollen oogstjaar 2010"
-signed_date: "2011-05-19"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030504"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2010 (Verordening PT vakheffing bloembollen oogstjaar 2010)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14):
-
-gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 10 mei 2011.
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,13 +26,13 @@ Besluit:
 
 | a. | bloembollen: | 1. bollen of knollen van bloemgewassen; |
 | --- | --- | --- |
-|   |   | 2. afgebroeide bloembollen; |
-|   |   | 3. geholde en gesneden hyacinten; |
-|   |   | 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; |
-|   |   | 5. bollen van hyacinten, die zijn verkocht onder uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |
-|   |   | 6. groen te velde per bed of per mand vóór 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
-|   |   | 7. schubbollen van lelies; |
-|   |   | 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |
+|  |  | 2. afgebroeide bloembollen; |
+| 3. geholde en gesneden hyacinten; |  |  |
+| 4. eenjarige bollen van geholde en gesneden hyacinten, voor zover verhandeld per bed of per mand; |  |  |
+| 5. bollen van hyacinten, die zijn verkocht onder uitdrukkelijke voorwaarde dat deze zullen worden gebruikt als werkbollen, in welk geval deze voorwaarde op het koopbriefje dient te worden vermeld; |  |  |
+| 6. groen te velde per bed of per mand vóór 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |  |  |
+| 7. schubbollen van lelies; |  |  |
+| 8. voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden; |  |  |
 | b. | factuurbedrag: | het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal; |
 | c. | In- en verkoopbureau: | Hobaho BV, Coöperatieve Nederlandse Bloembollencentrale (u.a.). en Floralia; |
 | d. | koopseizoen: | de periode van 1 juni 2010 tot en met 31 december 2011; |

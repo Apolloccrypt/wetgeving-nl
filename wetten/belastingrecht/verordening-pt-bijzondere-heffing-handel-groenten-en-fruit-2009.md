@@ -1,60 +1,20 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing groenten en fruithandel 2009 (Verordening PT bijzondere heffing handel groenten en fruit 2009)"
+citeertitel: "Verordening PT bijzondere heffing handel groenten en fruit 2009"
 identifier: "BWBR0030472"
-country: "nl"
-rank: "pbo"
-publication_date: "2011-09-11"
-last_updated: "2011-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030472"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11451733"
-version_id: "18815282"
-internal_id: "C26262061"
-label_id: "11425174"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030472/2011-09-11/0"
-intitule_bron: "Vbbo.2011-51"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-09-09"
-intitule_in_force: "2011-09-09"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-51"
-original_published_date: "2011-09-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2011-09-11"
-jci_1_3: "jci1.3:c:BWBR0030472&z=2011-09-11&g=2011-09-11"
-jci_1_0: "1.0:c:BWBR0030472&g=2011-09-11"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing handel groenten en fruit 2009"
-entry_into_force: "2011-09-11"
+publicatiedatum: 2011-09-11
+laatste_update: 2011-09-11
+status: geldig
+toestand: 2011-09-11
+bron: "https://wetten.overheid.nl/BWBR0030472"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een bijzondere heffing groenten en fruithandel 2009 (Verordening PT bijzondere heffing handel groenten en fruit 2009)
 
 #### § 1. Begripsbepalingen
-
-#### § 1. Begripsbepalingen
-
-#### § 3. Grondslag en hoogte
-
-##### Artikel 3
-
-1. Aan de ondernemer wordt de heffing opgelegd naar de grondslag “aankoopwaarde handel”. Aan de ondernemer die groenten en fruit bewerkt wordt de heffing ook opgelegd naar de grondslag “aankoopwaarde handel”. Indien groenten en fruit zijn aangekocht uit derde landen dient gebruik te worden gemaakt van de CIF-waarde. De heffing wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt 0,03%.
-
-2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing bedraagt € 14,15 per 100 ton aangekochte uien.
-
-#### § 4. Oplegging en inning
-
-#### § 3. Grondslag en hoogte
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor groenten en fruit, d.d. 24 februari 2009.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -69,7 +29,7 @@ Besluit:
 | afzetorganisatie/bemiddelaar | : | natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde groenten en fruit verkoopt; |
 | bewerken | : | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | derde land | : | een land dat geen lid is van de Europese Unie; |
-| groenten en fruit | : | producten als bedoeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
+| groenten en fruit | : | producten als bedoeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 | handelen | : | aankopen van noten, vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan aan anderen dan consumenten voor hun persoonlijke behoeften; |
 | noten | : | amandelen, cashewnoten, hazelnoten, paranoten, peacannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd; |
 | ondernemer | : | natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in noten en/of verse of bewerkte groenten en fruit; |
@@ -86,6 +46,14 @@ Besluit:
 1. De ondernemer die een onderneming drijft, met als activiteit het verhandelen of bewerken van groenten en fruit, is verplicht jaarlijks aan het productschap een heffing te betalen. Uit de opbrengst van deze heffing worden projecten ten behoeve van de handel in groenten en fruit gefinancierd.
 
 2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PT algemene bepalingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022738), verstrekte gegevens.
+
+#### § 3. Grondslag en hoogte
+
+##### Artikel 3
+
+1. Aan de ondernemer wordt de heffing opgelegd naar de grondslag “aankoopwaarde handel”. Aan de ondernemer die groenten en fruit bewerkt wordt de heffing ook opgelegd naar de grondslag “aankoopwaarde handel”. Indien groenten en fruit zijn aangekocht uit derde landen dient gebruik te worden gemaakt van de CIF-waarde. De heffing wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt 0,03%.
+
+2. In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing bedraagt € 14,15 per 100 ton aangekochte uien.
 
 #### § 4. Oplegging en inning
 

@@ -1,54 +1,27 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 27 juni 2011, nr. BJZ2011046957, houdende nadere regels met betrekking tot enige onderwerpen inzake legionellapreventie in drinkwater en warm tapwater (Regeling legionellapreventie in drinkwater en warm tapwater)"
+citeertitel: "Regeling legionellapreventie in drinkwater en warm tapwater"
 identifier: "BWBR0030166"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030166"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11370023"
-version_id: "18656432"
-internal_id: "C26036381"
-label_id: "11343704"
-dtd_version: "2.0"
-original_entry_into_force: "2011-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030166/2024-01-01/0"
-intitule_bron: "Stcrt.2011-10828"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-06-27"
-intitule_published: "2011-06-29"
-intitule_in_force: "2011-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-10828"
-original_signed_date: "2011-06-27"
-original_published_date: "2011-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-10828"
-entry_into_force_date: "2011-07-01"
-jci_1_3: "jci1.3:c:BWBR0030166&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0030166&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling legionellapreventie in drinkwater en warm tapwater"
-signed_date: "2011-06-27"
-entry_into_force: "2011-07-01"
+publicatiedatum: 2011-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0030166"
+opgehaald: 2026-08-17
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 27 juni 2011, nr. BJZ2011046957, houdende nadere regels met betrekking tot enige onderwerpen inzake legionellapreventie in drinkwater en warm tapwater (Regeling legionellapreventie in drinkwater en warm tapwater)
-
-Gelet op [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Gemeenschappen van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330) en de [artikelen 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=37), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=42), [43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43) en [44, zesde lid van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=44);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111);
+- *besluit:*
+ [Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111);
 
-- **eenvoudige drinkwaterinstallatie:** samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning.
+- *eenvoudige drinkwaterinstallatie:* samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning.
 
 ##### Artikel 2. Aanwijzen categorieën zorginstellingen
 
@@ -82,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanwijzing soorten Legionellabacterie
 
-1. Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36) bedoelde kwaliteitseis van toepassing is, worden aangewezen: **L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii** en **L. waltersii.**
+1. Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36) bedoelde kwaliteitseis van toepassing is, worden aangewezen: *L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii* en *L. waltersii.*
 
 2. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2024-01-01&g=2024-01-01) bedoelde methode blijkt dat het water minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde legionellasoorten in het water aanwezig zijn in aantallen kleiner dan 100 kolonievormende eenheden per liter.
 
@@ -116,7 +89,7 @@ Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 
 
 ##### Artikel 9. Volgorde beheersmaatregelen
 
-**(gereserveerd)**
+*(gereserveerd)*
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -125,49 +98,3 @@ Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werki
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater.
-
-## Bijlage 1
-
-### Meetfrequenties in verband met de uitvoering van metingen op aanwezigheid van legionellabacteriën in het drinkwater in het distributiegebied door een drinkwaterbedrijf
-
-1 Een leveringsgebied is een geografisch afgebakend gebied waarbinnen het drinkwater afkomstig is uit een of enkele bronnen waarbinnen het water kan worden geacht van vrijwel uniforme kwaliteit te zijn.
-
-2 De hoeveelheden zijn gemiddelden berekend over een kalenderjaar.
-
-## Bijlage 2
-
-### 1. Voorschriften ten behoeve van het uitvoeren van een legionella-risicoanalyse
-
-Een risicoanalyse wordt uitgevoerd overeenkomstig de voorschriften 1.1.1. tot en met 4.7.
-
-### 2. Verzameling van gegevens met betrekking tot de collectieve watervoorziening of het collectieve leidingnet
-
-### 3. Verdeling van de collectieve watervoorziening of het collectieve leidingnet in hoofdfuncties
-
-### 4. Risicoanalyse van component tot systeem
-
-### 5. Bij de risicoanalyse te hanteren risicofactoren en kwalificatie van risico
-
-Bij de risicobeschouwing gaat de eigenaar uit van de risicofactoren die in voorschrift 5.1 zijn genoemd.
-
-### 5.1. Risicofactoren en maatregelen
-
-### 5.2. Risicokwalificatie
-
-Iedere hoofdfunctie dient aan de eis van een score 0 te voldoen.
-
-**Risicokwalificatie als functie van risicofactoren wordt als volgt voorgeschreven:**
-
-## Bijlage 3. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=8&z=2011-07-01&g=2011-07-01) van de Regeling legionellapreventie in drinkwater en warm tapwater
-
-### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Noten:
-
-## Bijlage 3. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=8&z=2024-01-01&g=2024-01-01) van de Regeling legionellapreventie in drinkwater en warm tapwater
-
-### Bepaling van het aantal meetpunten voor de uitvoering van het in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43). bedoelde onderzoek van het drinkwater en warm tapwater op de aanwezigheid van legionellabacteriën
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

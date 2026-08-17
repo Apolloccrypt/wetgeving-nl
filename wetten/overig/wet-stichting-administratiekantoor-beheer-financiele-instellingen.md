@@ -1,59 +1,30 @@
 ---
 title: "Wet van 19 mei 2011, houdende Wet stichting administratiekantoor beheer financiële instellingen"
+citeertitel: "Wet stichting administratiekantoor beheer financiële instellingen"
 identifier: "BWBR0030033"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030033"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11333353"
-version_id: "18588662"
-internal_id: "C25972771"
-label_id: "11307204"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030033/2022-07-01/0"
-intitule_bron: "Stb.2011-263"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-19"
-intitule_published: "2011-06-03"
-intitule_in_force: "2011-06-14"
-intitule_status: "goed"
-original_publication: "Stb.2011-263"
-original_signed_date: "2011-05-19"
-original_published_date: "2011-06-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "32613"
-original_url_id: "stb-2011-263"
-entry_into_force_date: "2011-06-15"
-jci_1_3: "jci1.3:c:BWBR0030033&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0030033&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet stichting administratiekantoor beheer financiële instellingen"
-signed_date: "2011-05-19"
-entry_into_force: "2011-06-15"
+publicatiedatum: 2011-06-15
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0030033"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 19 mei 2011, houdende Wet stichting administratiekantoor beheer financiële instellingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is voor het privaatrechtelijke beheer van tijdelijke overheidsinvesteringen in enkele Nederlandse financiële instellingen enige wettelijke voorzieningen, waaronder een wettelijke machtiging, te treffen voor de oprichting van een stichting administratiekantoor;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **de aandelen:** de aan de stichting administratiekantoor ten titel van beheer overgedragen aandelen in de vennootschappen;
+- *de aandelen:* de aan de stichting administratiekantoor ten titel van beheer overgedragen aandelen in de vennootschappen;
 
-- **Onze Minister:** Onze Minister van Financiën;
+- *Onze Minister:* Onze Minister van Financiën;
 
-- **stichting administratiekantoor:** stichting administratiekantoor beheer financiële instellingen;
+- *stichting administratiekantoor:* stichting administratiekantoor beheer financiële instellingen;
 
-- **de vennootschappen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2022-07-01&g=2022-07-01) bedoelde vennootschappen.
+- *de vennootschappen:* de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2022-07-01&g=2022-07-01) bedoelde vennootschappen.
 
 ##### Artikel 2
 
@@ -67,23 +38,23 @@ De stichting administratiekantoor voert in overeenstemming met de statuten en de
 
 - a.
 
-- 1°. het uitgeven van royeerbare certificaten tegenover het op eigen naam ten titel van administratie verkrijgen en houden van tot op dat moment door de Staat der Nederlanden gehouden aandelen in de vennootschappen;
+   - 1° het uitgeven van royeerbare certificaten tegenover het op eigen naam ten titel van administratie verkrijgen en houden van tot op dat moment door de Staat der Nederlanden gehouden aandelen in de vennootschappen;
 
-- 2°. het beheren van de in beheer genomen aandelen in de vennootschappen;
+   - 2° het beheren van de in beheer genomen aandelen in de vennootschappen;
 
-- 3°. het uitoefenen van alle aan de aandelen verbonden rechten, waaronder het stemrecht;
+   - 3° het uitoefenen van alle aan de aandelen verbonden rechten, waaronder het stemrecht;
 
 - b.
 
-- 1°. het adviseren van Onze Minister over de strategie tot verkoop van de aandelen door de Staat;
+   - 1° het adviseren van Onze Minister over de strategie tot verkoop van de aandelen door de Staat;
 
-- 2°. het namens de Staat uitvoeren van de in onderdeel b, ten eerste, bedoelde strategie en, voor zover daartoe gemachtigd, het verrichten van werkzaamheden met het oog op het beheer van vermogensbestanddelen die verband houden met de aandelen en met het oog op de verkoop van de aandelen;
+   - 2° het namens de Staat uitvoeren van de in onderdeel b, ten eerste, bedoelde strategie en, voor zover daartoe gemachtigd, het verrichten van werkzaamheden met het oog op het beheer van vermogensbestanddelen die verband houden met de aandelen en met het oog op de verkoop van de aandelen;
 
 - c.
 
-- 1°. het ter zijde staan van Onze Minister bij contacten met de Europese Commissie of nationale toezichthouders ter zake van het beheer en de verkoop van de aandelen;
+   - 1° het ter zijde staan van Onze Minister bij contacten met de Europese Commissie of nationale toezichthouders ter zake van het beheer en de verkoop van de aandelen;
 
-- 2°. het verrichten van alle handelingen, welke met het in dit artikel omschreven doel in verband staan, daaruit voortvloeien of daarvoor bevorderlijk kunnen zijn.
+   - 2° het verrichten van alle handelingen, welke met het in dit artikel omschreven doel in verband staan, daaruit voortvloeien of daarvoor bevorderlijk kunnen zijn.
 
 3. Van het doel van de stichting is uitgesloten het vervreemden en bezwaren van de aandelen, anders dan krachtens een machtiging van Onze Minister. Onder het vervreemden, bedoeld in de vorige volzin, is niet begrepen de overdracht van aandelen bij royement van de certificaten.
 
@@ -123,11 +94,11 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 
 ##### Artikel 8
 
-1. Voor de toepassing van [artikel 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24), en [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35) worden de door de stichting administratiekantoor gehouden aandelen gelijkgesteld met door de Staat gehouden aandelen.
+1. Voor de toepassing van [artikel 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24), en [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35) worden de door de stichting administratiekantoor gehouden aandelen gelijkgesteld met door de Staat gehouden aandelen.
 
-2. Onverminderd haar bevoegdheid tot het verrichten van eigen onderzoek ingevolge [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35), maakt de Algemene Rekenkamer zoveel mogelijk gebruik van de bij de stichting administratiekantoor beschikbare informatie ten aanzien van de naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de stichting administratiekantoor direct vijf procent of meer, of indirect meer dan vijftig procent van het geplaatste aandelenkapitaal houdt.
+2. Onverminderd haar bevoegdheid tot het verrichten van eigen onderzoek ingevolge [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35), maakt de Algemene Rekenkamer zoveel mogelijk gebruik van de bij de stichting administratiekantoor beschikbare informatie ten aanzien van de naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de stichting administratiekantoor direct vijf procent of meer, of indirect meer dan vijftig procent van het geplaatste aandelenkapitaal houdt.
 
-3. Bij de uitoefening van haar bevoegdheid waarborgt de Algemene Rekenkamer de vertrouwelijkheid van de informatie als bedoeld in artikel 7, eerste tot en met vierde lid, van Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende marktmisbruik en houdende intrekking van [Richtlijn 2003/6/EG](32003L0006) van het Europees Parlement en de Raad en [Richtlijnen 2003/124](32003L0124), [2003/125/EG](32003L0125) en [2004/72/EG](32004L0072) van de Commissie (PbEU 2014 L 173). Bij openbaarmaking van deze informatie stelt de Algemene Rekenkamer de uitgevende instelling in de gelegenheid te voldoen aan artikel 17 van die verordening.
+3. Bij de uitoefening van haar bevoegdheid waarborgt de Algemene Rekenkamer de vertrouwelijkheid van de informatie als bedoeld in artikel 7, eerste tot en met vierde lid, van Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende marktmisbruik en houdende intrekking van Richtlijn 2003/6/EG van het Europees Parlement en de Raad en Richtlijnen 2003/124, 2003/125/EG en 2004/72/EG van de Commissie (PbEU 2014 L 173). Bij openbaarmaking van deze informatie stelt de Algemene Rekenkamer de uitgevende instelling in de gelegenheid te voldoen aan artikel 17 van die verordening.
 
 4. De Algemene Rekenkamer licht Onze Minister in over haar bevindingen en het onderzoek dat zij verricht.
 
@@ -152,5 +123,3 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet stichting administratiekantoor beheer financiële instellingen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

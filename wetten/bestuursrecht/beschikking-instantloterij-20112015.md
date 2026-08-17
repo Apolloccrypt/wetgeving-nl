@@ -1,71 +1,37 @@
 ---
 title: "Beschikking instantloterij 2011–2015"
 identifier: "BWBR0030500"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-02-28"
-last_updated: "2013-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030500"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11458713"
-version_id: "18830152"
-internal_id: "C26283311"
-label_id: "11432204"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030500/2013-02-28/0"
-intitule_bron: "Stcrt.2011-17886"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-09-28"
-intitule_published: "2011-10-06"
-intitule_in_force: "2011-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-17886"
-original_signed_date: "2011-09-28"
-original_published_date: "2011-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-17886"
-entry_into_force_date: "2011-10-01"
-jci_1_3: "jci1.3:c:BWBR0030500&z=2013-02-28&g=2013-02-28"
-jci_1_0: "1.0:c:BWBR0030500&g=2013-02-28"
-citeertitel_status: "officieel"
-signed_date: "2011-09-28"
-entry_into_force: "2011-10-01"
+publicatiedatum: 2011-10-01
+laatste_update: 2013-02-28
+status: geldig
+toestand: 2013-02-28
+bron: "https://wetten.overheid.nl/BWBR0030500"
+opgehaald: 2026-08-17
 ---
+
 # Beschikking instantloterij 2011–2015
-
-Overwegende dat de geldigheidsduur van de Beschikking instantloterij 2011 (2) op 30 september 2011 verstrijkt;
-
-Gelezen het verzoek van de Stichting de Nationale Sporttotalisator (De Lotto) van 6 juli 2011 haar vergunning te verlenen voor het organiseren van de instantloterij;
-
-Gehoord het advies van het College van toezicht op de kansspelen van 23 maart 2011 C.256/11 en 25 mei 2011, nr. C.415/11;
-
-Gelet op de [artikelen 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34) (Stb. 1964, 483);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *de wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **de staatssecretaris:** de Staatssecretaris van Veiligheid en Justitie;
+- b. *de staatssecretaris:* de Staatssecretaris van Veiligheid en Justitie;
 
-- c. **de stichting:** Stichting de Nationale Sporttotalisator;
+- c. *de stichting:* Stichting de Nationale Sporttotalisator;
 
-- d. **het college:** het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- d. *het college:* het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- e. **instantloterij:** een loterij als bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a);
+- e. *instantloterij:* een loterij als bedoeld in [artikel 14a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a);
 
-- f. **verkooppunt:** een inrichting als bedoeld in [artikel 14c, tweede lid, onder b. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c);
+- f. *verkooppunt:* een inrichting als bedoeld in [artikel 14c, tweede lid, onder b. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14c);
 
-- g. **uitgifte van deelnamebewijzen:** het door de stichting afgeven van deelnamebewijzen aan de verkooppunten;
+- g. *uitgifte van deelnamebewijzen:* het door de stichting afgeven van deelnamebewijzen aan de verkooppunten;
 
-- h. **prijzenreserve:** een reservering die is opgebouwd uit niet geïnde prijzen.
+- h. *prijzenreserve:* een reservering die is opgebouwd uit niet geïnde prijzen.
 
 ##### Artikel 2
 
@@ -226,5 +192,3 @@ Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikkin
 ##### Artikel 21
 
 Deze beschikking wordt aangehaald als Beschikking instantloterij 2011–2015.
-
-Deze beschikking treedt in werking met ingang van 1 oktober 2011 en zal worden gepubliceerd in de Staatscourant.

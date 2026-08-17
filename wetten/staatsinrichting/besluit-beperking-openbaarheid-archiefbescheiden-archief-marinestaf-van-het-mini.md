@@ -1,48 +1,22 @@
 ---
 title: "Besluit van 3 mei 2011, CDC/IVENT/DCDI/SSA nr. 2011010257, van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van het archief van de Marinestaf van het Ministerie van Defensie, 1948–1984, bij overbrenging naar een archiefbewaarplaats"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden (archief Marinestaf van het Ministerie van Defensie, 1948–1984)"
 identifier: "BWBR0029962"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2011-05-15"
-last_updated: "2011-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0029962"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11316673"
-version_id: "18554452"
-internal_id: "C25892261"
-label_id: "11290514"
-dtd_version: "2.0"
-original_entry_into_force: "2011-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0029962/2011-05-15/0"
-intitule_bron: "Stcrt.2011-8377"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-03"
-intitule_published: "2011-05-13"
-intitule_in_force: "2011-05-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-8377"
-original_signed_date: "2011-05-03"
-original_published_date: "2011-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-8377"
-entry_into_force_date: "2011-05-15"
-jci_1_3: "jci1.3:c:BWBR0029962&z=2011-05-15&g=2011-05-15"
-jci_1_0: "1.0:c:BWBR0029962&g=2011-05-15"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden (archief Marinestaf van het Ministerie van Defensie, 1948–1984)"
-signed_date: "2011-05-03"
-entry_into_force: "2011-05-15"
+publicatiedatum: 2011-05-15
+laatste_update: 2011-05-15
+status: geldig
+toestand: 2011-05-15
+bron: "https://wetten.overheid.nl/BWBR0029962"
+opgehaald: 2026-08-17
 ---
+
 # Besluit van 3 mei 2011, CDC/IVENT/DCDI/SSA nr. 2011010257, van het Ministerie van Defensie houdende de beperking aan de openbaarheid van archiefbescheiden van het archief van de Marinestaf van het Ministerie van Defensie, 1948–1984, bij overbrenging naar een archiefbewaarplaats
-
-Gelet op [artikel 15, lid 1, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief;
-
-Besluit:
 
 ##### Artikel 1
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de **Marinestaf van het Ministerie van Defensie, 1948–1984,** niet openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de *Marinestaf van het Ministerie van Defensie, 1948–1984,* niet openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers: | Niet openbaar tot 1 januari: |
 | --- | --- |
@@ -102,7 +76,7 @@ Ontheffing van het gestelde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 3
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de **Marinestaf van het Ministerie van Defensie, 1948–1984**, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de *Marinestaf van het Ministerie van Defensie, 1948–1984*, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers: | Beperkt openbaar tot 1 januari: |
 | --- | --- |
@@ -120,5 +94,3 @@ Het vervaardigen van reproducties van documenten, geborgen onder de inventarisnu
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Marinestaf van het Ministerie van Defensie, 1948-1984’.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 mei 2011, houdende een integraal kader voor regels over gehouden dieren en daaraan gerelateerde onderwerpen (Wet dieren)"
+citeertitel: "Wet dieren"
 identifier: "BWBR0030250"
-country: "nl"
-rank: "wet"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030250"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11391523"
-version_id: "18695762"
-internal_id: "C27950561"
-label_id: "11366934"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030250/2025-01-01/0"
-intitule_bron: "Stb.2011-345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-05-19"
-intitule_published: "2011-07-12"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2011-345"
-original_signed_date: "2011-05-19"
-original_published_date: "2011-07-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "31389"
-original_url_id: "stb-2011-345"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0030250&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0030250&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet dieren"
-signed_date: "2011-05-19"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0030250"
+opgehaald: 2026-08-17
 ---
+
 # Wet van 19 mei 2011, houdende een integraal kader voor regels over gehouden dieren en daaraan gerelateerde onderwerpen (Wet dieren)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is ter uitvoering van Europese verplichtingen en in het belang van de gezondheid en het welzijn van dieren en in dat van de volksgezondheid, regels te stellen betreffende dieren, in het bijzonder door de mens gehouden dieren, onder erkenning van de intrinsieke waarde van het dier en acht slaand op ethische aspecten in relatie tot biotechnologie, en daarbij, uitdrukking gevend aan de samenhang met die regels, te betrekken regels omtrent diervoeders, diergeneesmiddelen en de diergeneeskunde, en aldus mede te kunnen voorzien in effectieve en eenduidige maatregelen teneinde de naleving van deze regels te bevorderen, dat het voorts wenselijk is regels te stellen ter bevordering van de zuiverheid van de in Nederland gefokte rassen en de afzet van dierlijke producten, en ter bescherming van het milieu in relatie tot het gebruik van diervoeders en het toepassen van diergeneesmiddelen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemeen deel
 
@@ -51,75 +22,77 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **antimicrobiële stof:** antimicrobiële stof als bedoeld in artikel 4, twaalfde lid, van [verordening (EU) 2019/6](31906R2019);
+- – *antimicrobiële stof:* antimicrobiële stof als bedoeld in artikel 4, twaalfde lid, van verordening (EU) 2019/6;
 
-- –. **beroepsmatig verrichten van diergeneeskundige handelingen:** het als economische activiteit verlenen van diensten aan derden in de vorm van het verrichten van diergeneeskundige handelingen;
+- – *beroepsmatig verrichten van diergeneeskundige handelingen:* het als economische activiteit verlenen van diensten aan derden in de vorm van het verrichten van diergeneeskundige handelingen;
 
-- –. **dierenarts:** degene die is ingeschreven in het register, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01), en:
+- – *dierenarts:* degene die is ingeschreven in het register, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01), en:
 
-- 1°. aan wie op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Master op het gebied van de diergeneeskunde is verleend;
+   - 1°. aan wie op grond van het afleggen van een examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Master op het gebied van de diergeneeskunde is verleend;
 
-- 2°. die in het bezit is van een getuigschrift waaruit blijkt dat hij het afsluitend examen van de opleiding diergeneeskunde, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met goed gevolg heeft afgelegd, of
+   - 2°. die in het bezit is van een getuigschrift waaruit blijkt dat hij het afsluitend examen van de opleiding diergeneeskunde, bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met goed gevolg heeft afgelegd, of
 
-- 3°. die in het bezit is van een door een bevoegde instelling van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of van Zwitserland verleende titel na een opleiding op het gebied van de diergeneeskunde, welke voldoet aan bij ministeriële regeling gestelde eisen;
+   - 3°. die in het bezit is van een door een bevoegde instelling van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of van Zwitserland verleende titel na een opleiding op het gebied van de diergeneeskunde, welke voldoet aan bij ministeriële regeling gestelde eisen;
 
-- –. **diergeneeskundige handeling:** een van de volgende handelingen bij of met betrekking tot dieren:
+- – *diergeneeskundige handeling:* een van de volgende handelingen bij of met betrekking tot dieren:
 
-- 1°. het voorschrijven of uitvoeren van een behandeling of het onderzoeken van een dier, met het oog op het voorkomen, genezen, verzachten, onderkennen of opheffen van een aandoening, dierziekte, zoönose, ziekteverschijnsel, gebrek, of van in- of uitwendig letsel of pijn;
+   - 1°. het voorschrijven of uitvoeren van een behandeling of het onderzoeken van een dier, met het oog op het voorkomen, genezen, verzachten, onderkennen of opheffen van een aandoening, dierziekte, zoönose, ziekteverschijnsel, gebrek, of van in- of uitwendig letsel of pijn;
 
-- 2°. het voorschrijven of toepassen van een verdoving of bedwelming;
+   - 2°. het voorschrijven of toepassen van een verdoving of bedwelming;
 
-- 3°. het verlenen van hulp met betrekking tot de geboorte of verwijdering van een vrucht;
+   - 3°. het verlenen van hulp met betrekking tot de geboorte of verwijdering van een vrucht;
 
-- 4°. het onvruchtbaar maken;
+   - 4°. het onvruchtbaar maken;
 
-- 5°. het winnen en overzetten van embryo’s of eicellen, en
+   - 5°. het winnen en overzetten van embryo’s of eicellen, en
 
-- 6°. het verrichten van lichamelijke ingrepen ter uitvoering van de handelingen, bedoeld in de onderdelen 1° tot en met 6°, alsmede andere lichamelijke ingrepen;
+   - 6°. het verrichten van lichamelijke ingrepen ter uitvoering van de handelingen, bedoeld in de onderdelen 1° tot en met 6°, alsmede andere lichamelijke ingrepen;
 
-- –. **diergeneesmiddel:** diergeneesmiddel als bedoeld in artikel 4, eerste lid, van [verordening (EU) 2019/6](31906R2019);
+- – *diergeneesmiddel:* diergeneesmiddel als bedoeld in artikel 4, eerste lid, van verordening (EU) 2019/6;
 
-- –. **dierlijke producten:** van dieren afkomstige producten, al dan niet bewerkt of verwerkt, en daarvan afgeleide producten, met inbegrip van levende producten als broedeieren, sperma, eicellen en embryo’s;
+- – *dierlijke producten:* van dieren afkomstige producten, al dan niet bewerkt of verwerkt, en daarvan afgeleide producten, met inbegrip van levende producten als broedeieren, sperma, eicellen en embryo’s;
 
-- –. **dierlijke bijproducten:** niet voor menselijke consumptie bestemde dierlijke producten;
+- – *dierlijke bijproducten:* niet voor menselijke consumptie bestemde dierlijke producten;
 
-- –. **diervoeder:** elke stof, elk product of elke samenstelling van stoffen of producten die bestemd is om te worden gebruikt voor voedering aan dieren, onverminderd de toepassing van een andersluidende definitie in een EU-verordening;
+- – *diervoeder:* elke stof, elk product of elke samenstelling van stoffen of producten die bestemd is om te worden gebruikt voor voedering aan dieren, onverminderd de toepassing van een andersluidende definitie in een EU-verordening;
 
-- –. **EU-besluit:** besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
+- – *EU-besluit:* besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
 
-- –. **EU-rechtshandeling:** EU-verordening, EU-richtlijn of EU-besluit;
+- – *EU-rechtshandeling:* EU-verordening, EU-richtlijn of EU-besluit;
 
-- –. **EU-richtlijn:** richtlijn als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
+- – *EU-richtlijn:* richtlijn als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
 
-- –. **EU-verordening:** verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
+- – *EU-verordening:* verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;
 
-- –. **gemedicineerd diervoeder:** gemedicineerd diervoeder als bedoeld in artikel 3, tweede lid, onderdeel a, van [verordening (EU) 2019/4](31904R2019);
+- – *gemedicineerd diervoeder:* gemedicineerd diervoeder als bedoeld in artikel 3, tweede lid, onderdeel a, van verordening (EU) 2019/4;
 
-- –. **homeopathisch diergeneesmiddel:** homeopathisch diergeneesmiddel als bedoeld in artikel 4, tiende lid, van [verordening (EU) 2019/6](31906R2019);
+- – *homeopathisch diergeneesmiddel:* homeopathisch diergeneesmiddel als bedoeld in artikel 4, tiende lid, van verordening (EU) 2019/6;
 
-- –. **houder:** eigenaar, houder of hoeder;
+- – *houder:* eigenaar, houder of hoeder;
 
-- –. **immunologisch diergeneesmiddel:** immunologisch diergeneesmiddel als bedoeld in artikel 4, vijfde lid, van [verordening (EU) 2019/6](31906R2019);
+- – *immunologisch diergeneesmiddel:* immunologisch diergeneesmiddel als bedoeld in artikel 4, vijfde lid, van verordening (EU) 2019/6;
 
-- –. **kadavers:** lichamen van dode dieren die niet worden verwerkt tot voor menselijke consumptie bestemde producten;
+- – *kadavers:* lichamen van dode dieren die niet worden verwerkt tot voor menselijke consumptie bestemde producten;
 
-- –. **klinische proef:** klinische proef als bedoeld in artikel 4, zeventiende lid, van [verordening (EU) 2019/6](31906R2019);
+- – *klinische proef:* klinische proef als bedoeld in artikel 4, zeventiende lid, van verordening (EU) 2019/6;
 
-- –. **lichamelijke ingreep:** ingreep bij een dier, waarbij de natuurlijke samenhang van levende weefsels wordt verbroken, met inbegrip van het afnemen van bloed en het geven van injecties, en met uitzondering van het doden van een dier;
+- – *lichamelijke ingreep:* ingreep bij een dier, waarbij de natuurlijke samenhang van levende weefsels wordt verbroken, met inbegrip van het afnemen van bloed en het geven van injecties, en met uitzondering van het doden van een dier;
 
-- –. **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- – *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- –. **Onze Ministers:** Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk;
+- – *Onze Ministers:* Onze Minister en Onze Minister van Veiligheid en Justitie gezamenlijk;
 
-- –. **preklinische studie:** preklinische studie als bedoeld in artikel 4, achttiende lid, van [verordening (EU) 2019/6](32019R0006);
+- – *preklinische studie:* preklinische studie als bedoeld in artikel 4, achttiende lid, van verordening (EU) 2019/6;
 
-- –. **stof:** materie van menselijke, dierlijke, plantaardige of chemische oorsprong;
+- – *stof:* materie van menselijke, dierlijke, plantaardige of chemische oorsprong;
 
-- –. **verordening (EU) 2019/4:** [Verordening 2019/4](31904R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende de vervaardiging, het in de handel brengen en het gebruik van gemedicineerde diervoeders, tot wijziging van [Verordening (EG) nr. 183/2005](32005R0183) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 90/167/EEG](31990L0167) van de Raad (PbEU 2019, L 4);
+- – *verordening (EU) 2019/4:*
+ Verordening 2019/4 van het Europees Parlement en de Raad van 11 december 2018 betreffende de vervaardiging, het in de handel brengen en het gebruik van gemedicineerde diervoeders, tot wijziging van Verordening (EG) nr. 183/2005 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 90/167/EEG van de Raad (PbEU 2019, L 4);
 
-- –. **verordening (EU) 2019/6:** [Verordening (EU) 2019/6](31906R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van [Richtlijn 2001/82/EG](32001L0082) (PbEU 2019, L 4);
+- – *verordening (EU) 2019/6:*
+ Verordening (EU) 2019/6 van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van Richtlijn 2001/82/EG (PbEU 2019, L 4);
 
-- –. **ziekteverwekker:** micro-organisme dat, onderscheidenlijk parasiet of andere biologische eenheid die, een dierziekte of zoönose kan veroorzaken.
+- – *ziekteverwekker:* micro-organisme dat, onderscheidenlijk parasiet of andere biologische eenheid die, een dierziekte of zoönose kan veroorzaken.
 
 2. Onder handel wordt mede verstaan: het bezit met het oog op verkoop, met inbegrip van het aanbieden, enige vorm van al dan niet gratis overdracht aan derden, alsmede de verkoop en andere vormen van overdracht zelf.
 
@@ -213,41 +186,41 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. een verbod op de aanwezigheid op of in de nabijheid van een bedrijf van bepaalde:
 
-- 1°. diervoeders;
+   - 1°. diervoeders;
 
-- 2°. diergeneesmiddelen, of
+   - 2°. diergeneesmiddelen, of
 
-- 3°. andere stoffen of materialen voor zover die een risico kunnen opleveren voor de diergezondheid, het welzijn van dieren, de volksgezondheid, het milieu of de kwaliteit van een dierlijk product;
+   - 3°. andere stoffen of materialen voor zover die een risico kunnen opleveren voor de diergezondheid, het welzijn van dieren, de volksgezondheid, het milieu of de kwaliteit van een dierlijk product;
 
 - b. de ruimte of het terrein waar dieren worden gehouden, waaronder:
 
-- 1°. de afmeting, uitvoering en vormgeving;
+   - 1°. de afmeting, uitvoering en vormgeving;
 
-- 2°. de wanden, de vloer en de grond;
+   - 2°. de wanden, de vloer en de grond;
 
-- 3°. de voorzieningen, waaronder de voeder- en drinkwatervoorziening;
+   - 3°. de voorzieningen, waaronder de voeder- en drinkwatervoorziening;
 
-- 4°. de verlichting, luchtverversing en verwarming;
+   - 4°. de verlichting, luchtverversing en verwarming;
 
-- 4a°. de brandveiligheid;
+   - 4a°. de brandveiligheid;
 
-- 5°. het onderbrengen of afzonderen van zieke dieren, dieren die mogelijk met een besmettelijke ziekteverwekker zijn besmet, of dieren met een bepaalde gezondheidstoestand;
+   - 5°. het onderbrengen of afzonderen van zieke dieren, dieren die mogelijk met een besmettelijke ziekteverwekker zijn besmet, of dieren met een bepaalde gezondheidstoestand;
 
-- 6°. de afrasteringen en beschutting, en
+   - 6°. de afrasteringen en beschutting, en
 
-- 7°. de ligging ten opzichte van onroerende zaken en ruimten waar zich mensen kunnen bevinden;
+   - 7°. de ligging ten opzichte van onroerende zaken en ruimten waar zich mensen kunnen bevinden;
 
 - c. de wijze waarop dieren worden gehouden, waaronder:
 
-- 1°. het vastleggen of aangebonden houden van dieren;
+   - 1°. het vastleggen of aangebonden houden van dieren;
 
-- 2°. het gescheiden houden van dieren, al naar gelang de leeftijd, het geslacht of de soort;
+   - 2°. het gescheiden houden van dieren, al naar gelang de leeftijd, het geslacht of de soort;
 
-- 3°. het groeperen van dieren;
+   - 3°. het groeperen van dieren;
 
-- 4°. het aantal dieren dat in één ruimte wordt gehouden, en
+   - 4°. het aantal dieren dat in één ruimte wordt gehouden, en
 
-- 5°. de ruimte waarover dieren kunnen beschikken;
+   - 5°. de ruimte waarover dieren kunnen beschikken;
 
 - d. de verzorging, de behandeling, het africhten, de voedering en de drenking van dieren;
 
@@ -267,13 +240,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - l. het bijhouden, overleggen, controleren, bewaren en melden van gegevens, onder meer over:
 
-- 1°. dieren, waaronder de gezondheidstoestand, geboorte- en sterftegevallen;
+   - 1°. dieren, waaronder de gezondheidstoestand, geboorte- en sterftegevallen;
 
-- 2°. bezoekers van bedrijven, en vervoermiddelen;
+   - 2°. bezoekers van bedrijven, en vervoermiddelen;
 
-- 3°. de herkomst, bestemming of verplaatsing van dieren, en
+   - 3°. de herkomst, bestemming of verplaatsing van dieren, en
 
-- 4°. de herkomst, ontvangst, bereiding, bewerking, verwerking en verdere behandeling, opslag en bewaring van diervoeders en diergeneesmiddelen, alsmede het gebruik van diervoeders, onderscheidenlijk het toepassen van diergeneesmiddelen;
+   - 4°. de herkomst, ontvangst, bereiding, bewerking, verwerking en verdere behandeling, opslag en bewaring van diervoeders en diergeneesmiddelen, alsmede het gebruik van diervoeders, onderscheidenlijk het toepassen van diergeneesmiddelen;
 
 - m. de te verrichten onderzoeken bij dieren of in ruimten of op terreinen en gebieden waar dieren kunnen worden gehouden, naar de aanwezigheid van besmettelijke dierziekten, zoönosen, ziekteverschijnselen, ziekteverwekkers of organismen die drager van een ziekteverwekker kunnen zijn, of naar de werking van vaccins;
 
@@ -304,6 +277,26 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 - a. een verbod op het gebruik van bepaalde dieren, diersoorten of diercategorieën voor bepaalde doelen of activiteiten, en
 
 - b. het toestaan van het gebruik van bepaalde dieren, diersoorten of diercategorieën voor bepaalde doelen of activiteiten onder bij of krachtens de in het derde lid bedoelde algemene maatregel van bestuur gestelde voorwaarden.
+
+##### Artikel 2.3a. Dierwaardige veehouderij
+
+1. Op grond van de[artikelen 2.2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01) in samenhang met het tiende lid, en [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=1&paragraaf=1&artikel=1.3&z=2025-01-01&g=2025-01-01), worden bij algemene maatregel van bestuur in ieder geval regels gesteld die gericht zijn op het bewerkstelligen van een dierwaardige wijze van houden van dieren die bedrijfsmatig worden gehouden met het oog op de productie van dierlijke producten.
+
+2. Onder een dierwaardige wijze van houden van dieren die bedrijfsmatig worden gehouden met het oog op de productie van dierlijke producten wordt een veehouderij verstaan waarin ten aanzien van de behoeften van dieren, voor zover zulks redelijkerwijs kan worden verlangd, wordt voorzien in:
+
+- a. respect voor de intrinsieke waarde en integriteit van het dier, waaronder in ieder geval verstaan wordt dat geen routinematige ingrepen worden uitgevoerd op basis van voldoende maatregelen gericht op het minimaliseren van risicofactoren;
+
+- b. goede voeding, inhoudende een wijze van voer- en waterverstrekking die aansluit bij de gedragsbehoeften van de soort, waarbij geen voer- en waterbeperking wordt opgelegd en variatie in voeding wordt geboden aansluitend bij gedragsbehoeften;
+
+- c. goede omgeving, inhoudende een stalconcept waarin dieren van alle leeftijden de keuzevrijheid en ruimte hebben om soorteigen gedrag uit te voeren, inhoudende geen kooihuisvesting, voldoende thermisch comfort en keuzevrijheid;
+
+- d. goede gezondheid, inhoudende een stalconcept en management dat het risico op veel voorkomende gezondheidsproblemen minimaliseert, waartoe in ieder geval voorzien wordt in geschikte vloeren en ondergrond;
+
+- e. natuurlijk gedrag, inhoudende een stalconcept dat voorziet in de gedragsbehoeften van de soort, onder andere voor wat betreft sociaal gedrag, zelfverzorgend gedrag, foerageergedrag, territoriaal gedrag, maternaal gedrag en rustgedrag;
+
+3. Bij of krachtens algemene maatregel van bestuur worden voor de op grond van [artikel 2.8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), aangewezen lichamelijke ingrepen met het oog op een dierwaardige wijze van houden van de in het eerste lid bedoelde dieren regels gesteld over het vervallen van die aangewezen ingrepen, voor zover de ingreep geen diergeneeskundige noodzaak heeft en voor zover het verrichten van de ingreep niet dwingend voortvloeit uit bindende onderdelen van EU-rechtshandelingen.
+
+4. De krachtens het eerste en derde lid vast te stellen regels zijn gericht op het uiterlijk in 2040 bewerkstelligen van een dierwaardige wijze van het houden van dieren, tenzij en voor zover noodzakelijk voor bepaalde situaties bij die in het eerste lid bedoelde algemene maatregel van bestuur een langere termijn wordt gesteld met het oog op een redelijke overgangstermijn gericht op het door houders van dieren kunnen terugverdienen van investeringen die noodzakelijk zijn om aan die regels te voldoen.
 
 ##### Artikel 2.4. Identificatie van dieren
 
@@ -373,11 +366,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. een verbod op het fokken of het voor de fok gebruiken van:
 
-- 1°. dieren die beschikken over een bepaalde aandoening die, of een uiterlijk kenmerk dat, de gezondheid of het welzijn van het dier of de nakomelingen van het dier kan aantasten;
+   - 1°. dieren die beschikken over een bepaalde aandoening die, of een uiterlijk kenmerk dat, de gezondheid of het welzijn van het dier of de nakomelingen van het dier kan aantasten;
 
-- 2°. dieren die een gevaar kunnen opleveren voor de veiligheid van mens of dier, en
+   - 2°. dieren die een gevaar kunnen opleveren voor de veiligheid van mens of dier, en
 
-- 3°. andere bij of krachtens algemene maatregel van bestuur aangewezen dieren, diersoorten of diercategorieën;
+   - 3°. andere bij of krachtens algemene maatregel van bestuur aangewezen dieren, diersoorten of diercategorieën;
 
 - b. de methode van fokken, waaronder een verbod op bepaalde methoden van fokken;
 
@@ -413,9 +406,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. een verbod op het verkopen, het voor de verkoop in voorraad hebben, het voor de verkoop aanbieden, het kopen, het verhuren, het afleveren, het in de handel brengen of het in of buiten Nederland brengen van:
 
-- 1°. dieren waarbij in strijd met het bepaalde bij of krachtens [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=5&artikel=2.25&z=2025-01-01&g=2025-01-01) stoffen zijn toegepast, en
+   - 1°. dieren waarbij in strijd met het bepaalde bij of krachtens [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=5&artikel=2.25&z=2025-01-01&g=2025-01-01) stoffen zijn toegepast, en
 
-- 2°. andere aangewezen dieren, diersoorten of diercategorieën;
+   - 2°. andere aangewezen dieren, diersoorten of diercategorieën;
 
 - b. de afkomst van de dieren;
 
@@ -491,7 +484,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2.10. Doden van dieren
 
-1. Het is verboden om dieren behorend tot bij algemene maatregel van bestuur aangewezen diersoorten of diercategorieën te doden, behoudens in gevallen waarin een dier wordt gedood voor de bedrijfsmatige productie van dierlijke producten of in bij of krachtens algemene maatregel van bestuur aangewezen gevallen. Bij algemene maatregel van bestuur worden in elk geval aangewezen de krachtens [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), aangewezen zoogdiersoorten en ganzen.
+1. Het is verboden om dieren behorend tot bij algemene maatregel van bestuur aangewezen diersoorten of diercategorieën te doden, behoudens in gevallen waarin een dier wordt gedood voor de bedrijfsmatige productie van dierlijke producten of in bij of krachtens algemene maatregel van bestuur aangewezen gevallen. Bij algemene maatregel van bestuur worden in elk geval aangewezen de krachtens [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), aangewezen zoogdiersoorten en ganzen.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de uitvoering van bindende onderdelen van EU-rechtshandelingen over het doden, het bedwelmen, het fixeren, het onderbrengen en het verplaatsen van dieren.
 
@@ -549,7 +542,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2.11. Verbod op opzettelijke besmetting
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.12. Meldingsplicht
 
@@ -685,11 +678,23 @@ Het is verboden dieren als prijs, beloning of gift uit te loven of uit te reiken
 
 - l. het zich ontdoen van resten en lege verpakkingen van diervoeders.
 
+##### Artikel 2.18a. Nadere regels over diervoeders en milieu
+
+1. Bij ministeriële regeling kunnen in het belang van de bescherming van het milieu regels worden gesteld over de samenstelling van diervoeders of andere stoffen die zijn bedoeld voor het voederen van dieren.
+
+2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer:
+
+- a. een verbod op het bereiden, bewerken, verwerken, verpakken, etiketteren, in de handel brengen, in Nederland brengen, vervoeren, aanbieden, aanprijzen, afleveren, ontvangen, voorhanden of in voorraad hebben, of het vervoederen aan, het toepassen bij of het brengen in de nabijheid van dieren, van diervoeders of stoffen waarvan de hoeveelheid van een bestanddeel een bij die regeling bepaald maximum overschrijdt;
+
+- b. een verplichting om de hoeveelheid van een bestanddeel in de totale hoeveelheid diervoeders die een dier gebruikt, te beperken, al dan niet tot een bij die regeling bepaald maximum.
+
+3. Er kunnen slechts regels worden vastgesteld als bedoeld in het eerste lid indien vastgesteld is dat dit geen significant negatieve gevolgen heeft voor diergezondheid, dierenwelzijn, volksgezondheid en afzetbelangen.
+
 #### § 3. Regels over diergeneesmiddelen
 
 ##### Artikel 2.19. Vergunning ten aanzien van diergeneesmiddelen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.20. Diergeneesmiddelen
 
@@ -703,15 +708,15 @@ Vervallen
 
 - c. het vervaardigen, het bewerken, het verwerken, het verpakken en het etiketteren van:
 
-- 1°. diergeneesmiddelen die in de apotheek of door een andere persoon voor een bepaald dier of een kleine groep dieren worden bereid, of
+   - 1°. diergeneesmiddelen die in de apotheek of door een andere persoon voor een bepaald dier of een kleine groep dieren worden bereid, of
 
-- 2°. diergeneesmiddelen die in de apotheek overeenkomstig de aanwijzingen van een farmacopee worden bereid en die voor directe verstrekking aan de eindgebruiker zijn bestemd;
+   - 2°. diergeneesmiddelen die in de apotheek overeenkomstig de aanwijzingen van een farmacopee worden bereid en die voor directe verstrekking aan de eindgebruiker zijn bestemd;
 
 - d. het vervoeren van:
 
-- 1°. diergeneesmiddelen, of
+   - 1°. diergeneesmiddelen, of
 
-- 2°. grondstoffen voor diergeneesmiddelen;
+   - 2°. grondstoffen voor diergeneesmiddelen;
 
 - e. het leveren van diergeneesmiddelen waarvoor een diergeneeskundig voorschrift vereist is;
 
@@ -727,11 +732,11 @@ Vervallen
 
 - k. reclame voor diergeneesmiddelen.
 
-3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op bij ministeriële regeling aangewezen stoffen die geen diergeneesmiddel zijn maar wel als zodanig kunnen worden gebruikt, of gemedicineerde diervoeders.
+3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op bij ministeriële regeling aangewezen stoffen die geen diergeneesmiddel zijn maar wel als zodanig kunnen worden gebruikt, of gemedicineerde diervoeders.
 
 ##### Artikel 2.21. Kanalisatie
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.22. Gebruik ziekteverwekkers
 
@@ -759,7 +764,33 @@ Vervallen
 
 #### § 4. Biotechnologie
 
-#### § 4. Biotechnologie
+##### Artikel 2.23. Vergunning biotechnologie
+
+1. Het is verboden om uitsluitend voor sportprestaties of vermaak het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie.
+
+2. Het is zonder vergunning verboden:
+
+- a. het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie;
+
+- b. biotechnologische technieken bij een dier of een dierlijk embryo toe te passen.
+
+3. Het tweede lid is niet van toepassing op handelingen als bedoeld in het tweede lid voor zover die handelingen worden verricht ten behoeve van biomedisch onderzoek.
+
+4. Onze Minister verleent een vergunning slechts indien naar zijn oordeel:
+
+- a. de handelingen geen onaanvaardbare gevolgen hebben voor de gezondheid of het welzijn van dieren; en
+
+- b. tegen de handelingen geen ethische bezwaren bestaan.
+
+5. In afwijking van [artikel 7.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.7&z=2025-01-01&g=2025-01-01), vraagt Onze Minister telkenmale omtrent een verzoek tot verlening van een vergunning als bedoeld in het tweede lid advies aan een door hem met betrekking tot dat verzoek in te stellen commissie van onafhankelijke deskundigen.
+
+6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot een vergunning als bedoeld in het tweede lid.
+
+##### Artikel 2.24
+
+Bij of krachtens algemene maatregel van bestuur kunnen handelingen worden aangewezen ten aanzien waarvan in ieder geval niet is voldaan aan de voorwaarden, bedoeld in [artikel 2.23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01).
+
+#### § 5. Overig
 
 ##### Artikel 2.25. Verboden stoffen
 
@@ -775,7 +806,7 @@ Vervallen
 
 - c. de wijze waarop de stof wordt toegepast;
 
-- d. de diersoort of diercategorie waartoe de dieren, dan wel cel- of weefselcultures van dieren behoren waarbij de stof uitsluitend mag worden toegepast;
+- d. de diersoort of diercategorie waartoe de dieren, dan wel cel- of weefselcultures van dieren behoren waarbij de stof uitsluitend mag worden toegepast;
 
 - e. het moment van toepassing, en
 
@@ -785,7 +816,7 @@ Vervallen
 
 ### Hoofdstuk 3. Dierlijke producten
 
-#### § 5. Overig
+#### § 1. Algemene regels over dierlijke producten
 
 ##### Artikel 3.1. Algemeen
 
@@ -855,7 +886,7 @@ Vervallen
 
 3. Het eerste en tweede lid zijn niet van toepassing op gehakt vlees, separatorvlees, vleesbereidingen en vleesproducten als bedoeld in krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften.
 
-#### § 1. Algemene regels over dierlijke producten
+#### § 2. Aanvullende regels over dierlijke bijproducten
 
 ##### Artikel 3.3. Werkgebieden
 
@@ -911,7 +942,91 @@ Vervallen
 
 - b. de maximum hoogte van de vergoeding.
 
+#### § 3. Aanvullende regels over dierlijke producten in relatie tot het milieu
+
+##### Artikel 3.7. Bescherming van het milieu
+
+1. Bij ministeriële regeling kunnen in het belang van de bescherming van het milieu regels worden gesteld over het maximumgehalte aan bepaalde stoffen in dierlijke producten, voor zover dat gehalte wordt beïnvloed door de aard of de samenstelling van diervoeders of andere stoffen die zijn bedoeld voor het voederen van dieren, of door andere stoffen die door dieren worden gegeten.
+
+2. Er kunnen slechts regels worden vastgesteld als bedoeld in eerste lid indien vastgesteld is dat dit geen significant negatieve gevolgen heeft voor diergezondheid, dierenwelzijn, volksgezondheid en afzetbelangen.
+
 ### Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
+
+##### Artikel 4.1. Toelating dierenartsen en andere personen
+
+1. Tot het beroepsmatig verrichten van diergeneeskundige handelingen zijn toegelaten dierenartsen en andere personen die zijn ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
+
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het beroepsmatig verrichten van diergeneeskundige handelingen en de toelating daartoe, in overeenstemming met EU-rechtshandelingen die betrekking hebben op beroepskwalificaties en diensten.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen voor de onderwerpen, bedoeld in het tweede lid, regels worden gesteld die betrekking hebben op onder meer:
+
+- a. de kwalificaties van degene die is of wordt toegelaten, waaronder de opleiding en bij- of nascholing;
+
+- b. de gevallen waarin en de wijze waarop de handelingen, waarop de toelating betrekking heeft, worden verricht, waarbij kan worden bepaald dat die handelingen uitsluitend plaatsvinden onder leiding, op aanwijzing of onder controle van een dierenarts;
+
+- c. de verhouding van de persoon die wordt toegelaten, tot de dierenarts;
+
+- d. de gevallen waarin een toelating op aanvraag plaatsvindt, alsmede de wijze waarop de aanvraag en de toelating plaatsvindt;
+
+- e. de geldigheidsduur van de toelating, en
+
+- f. de gevallen waarin de toelating kan worden ingetrokken.
+
+4. Een toelating als bedoeld in het tweede lid kan onder voorwaarden en beperkingen worden verleend.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen de andere personen, bedoeld in het eerste lid, voor de toepassing van deze wet en de daarop berustende bepalingen worden gelijkgesteld met dierenartsen.
+
+##### Artikel 4.2. Zorgplichten
+
+1. Personen, die zijn toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, schieten niet door enig handelen of nalaten tekort in de zorg die zij in hun hoedanigheid:
+
+- a. behoren te betrachten ten opzichte van een dier met betrekking tot welke hun hulp is ingeroepen, en
+
+- b. verlenen of in geval van nood behoren te verlenen ten opzichte van een dier.
+
+2. Personen die zijn toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, schieten niet zodanig tekort in hetgeen van hen in hun hoedanigheid mag worden verwacht dat daardoor ernstige schade kan ontstaan voor de gezondheidszorg voor dieren.
+
+3. Het in het eerste en tweede lid bepaalde is tevens van toepassing ten aanzien van andere dan gehouden dieren.
+
+##### Artikel 4.3. Register
+
+1. Onze Minister houdt een openbaar register bij van personen die een opleiding op het gebied van de diergeneeskunde als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2025-01-01&g=2025-01-01) met goed gevolg hebben voltooid en andere personen die worden toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen.
+
+2. Een persoon wordt niet in het register ingeschreven of zijn inschrijving wordt doorgehaald indien krachtens een onherroepelijk geworden rechterlijke of tuchtrechtelijke uitspraak zijn bevoegdheid tot het beroepsmatig verrichten van diergeneeskundige handelingen is ingetrokken.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de registratie in het register, bedoeld in het eerste lid, waaronder regels als bedoeld in [artikel 7.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01).
+
+##### Artikel 4.4. Titelbescherming
+
+1. Aan personen die zijn opgenomen in een register als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01), is het recht voorbehouden om:
+
+- a. in het openbaar aan te kondigen dat zij de diergeneeskundige handelingen waarop de registratie betrekking heeft beroepsmatig verrichten,
+
+- b. een titel, aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan wekken dat zij de diergeneeskundige handelingen waarop de registratie betrekking heeft beroepsmatig verrichten, en
+
+- c. een titel als bedoeld in [artikel 4.5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.5&z=2025-01-01&g=2025-01-01), te bezigen of een aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan wekken dat zij een dergelijke titel verkregen hebben.
+
+2. Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is op daarbij aangewezen personen, onder de daarbij gestelde voorwaarden.
+
+##### Artikel 4.5. Specialismen
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over specialismen binnen het beroepsmatig verrichten van diergeneeskundige handelingen alsmede over de vermelding van de titel, behorende bij die specialismen, in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
+
+2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer:
+
+- a. de opleiding tot de specialismen;
+
+- b. de aanwijzing van en de eisen aan organisaties of instellingen die zijn belast met de regeling van of de opleiding tot de specialismen;
+
+- c. de verkrijging en de intrekking van een titel, verbonden aan de specialismen, en
+
+- d. de voorwaarden waaronder personen die beschikken over een titel, verbonden aan een specialisme, het recht is voorbehouden om:
+
+   - 1°. in het openbaar aan te kondigen dat zij de diergeneeskundige handelingen waarop de specialisatie betrekking heeft beroepsmatig verrichten,
+
+   - 2°. een titel, aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan vestigen dat zij de diergeneeskundige handelingen waarop het specialisme betrekking heeft beroepsmatig verrichten, en
+
+   - 3°. een titel als bedoeld in [artikel 4.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.4&z=2025-01-01&g=2025-01-01), te voeren.
 
 ### Hoofdstuk 5. Maatregelen
 
@@ -941,6 +1056,170 @@ Vervallen
 
 #### § 2. Preventie en bestrijding van besmettelijke dierziekten, zoönosen en ziekteverschijnselen
 
+##### Artikel 5.3. Aanwijzing dierziekten, zoönosen en ziekteverschijnselen
+
+1. Onze Minister kan krachtens deze paragraaf maatregelen treffen en andere handelingen verrichten ter voorkoming of bestrijding van de door hem aangewezen dierziekten, zoönosen en ziekteverschijnselen bij door hem aangewezen diersoorten of diercategorieën.
+
+2. Dierziekten en zoönosen kunnen worden aangewezen indien:
+
+- a. zij besmettelijk zijn en verspreiding ervan niet kan worden voorkomen met normale bedrijfsmiddelen;
+
+- b. zij naar het oordeel van Onze Minister een gevaar voor de diergezondheid kunnen opleveren, of
+
+- c. zij naar het oordeel van Onze Minister van Volksgezondheid, Welzijn en Sport een ernstig gevaar voor de volksgezondheid kunnen opleveren;
+
+- d. zij zijn aangewezen in een EU-rechtshandeling betreffende overdraagbare dierziekten en naar het oordeel van Onze Minister niet kan worden volstaan met de bij of krachtens die EU-rechtshandeling voorgeschreven maatregelen.
+
+3. Ziekteverschijnselen kunnen worden aangewezen indien de dieren die deze verschijnselen vertonen of hun producten:
+
+- a. naar het oordeel van Onze Minister een gevaar voor de diergezondheid kunnen opleveren, of
+
+- b. naar het oordeel van Onze Minister van Volksgezondheid, Welzijn en Sport een ernstig gevaar voor de volksgezondheid kunnen opleveren.
+
+4. Een aanwijzing als bedoeld in het tweede lid, onderdeel c, of in het derde lid, onderdeel b, vindt plaats in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
+
+5. Maatregelen, die krachtens deze paragraaf worden getroffen ter voorkoming of bestrijding van een dierziekte, zoönose of ziekteverschijnsel, die of dat overeenkomstig het vierde lid is aangewezen in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, worden getroffen in overeenstemming met die minister.
+
+##### Artikel 5.4. Dieren
+
+1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot dieren, al dan niet gehouden, die:
+
+- a. besmet zijn of van besmetting zijn verdacht, of vatbaar zijn voor besmetting met een dierziekte of zoönose, of die een ziekteverschijnsel vertonen of kunnen vertonen, of
+
+- b. een gevaar kunnen opleveren voor verspreiding van een dierziekte, zoönose of ziekteverschijnsel.
+
+2. Bij of krachtens algemene maatregel van bestuur wordt per dierziekte, zoönose en ziekteverschijnsel als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-01-01&g=2025-01-01) geregeld in welke gevallen er bij een dier sprake is van besmetting, van verdenking van besmetting of van een ziekteverschijnsel. Bij of krachtens algemene maatregel van bestuur kan per dierziekte of zoönose als bedoeld in artikel 5.3, tweede lid, onderdeel d, worden geregeld in welke gevallen er bij een dier sprake is van besmetting of van verdenking van besmetting.
+
+3. De maatregelen, bedoeld in het eerste lid, zijn:
+
+- a. een verplichting tot het afzonderen, het opstallen, het ophokken, het afschermen, het op een aangewezen plaats houden, het vastleggen of het opsluiten;
+
+- b. een verplichting tot het behandelen of het vaccineren;
+
+- c. een verbod op het vervoeren, het verplaatsen of het in de handel brengen;
+
+- d. een verbod op het bijeenbrengen;
+
+- e. een verbod op het in of buiten Nederland brengen;
+
+- f. een verbod op het winnen van sperma, eicellen en embryo’s, het insemineren of het laten bevruchten van dieren en het transplanteren van embryo’s en eicellen;
+
+- g. een verplichting tot het merken;
+
+- h. een verbod of een verplichting tot het doden van dieren;
+
+- i. een verplichting tot het onschadelijk laten maken van gestorven of gedode dieren;
+
+- j. een verplichting tot het informeren van derden over de verdenking of besmetting;
+
+- k. een verplichting tot het laten doen van onderzoek of een verplichting tot het dulden van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose, en
+
+- l. een verplichting tot het bijhouden van gegevens.
+
+4. De andere handelingen, bedoeld in het eerste lid, zijn:
+
+- a. het afzonderen, het opstallen, het ophokken, het afschermen, het op een aangewezen plaats houden, het vastleggen of het opsluiten;
+
+- b. het behandelen of het vaccineren;
+
+- c. het merken;
+
+- d. het doden;
+
+- e. het onschadelijk maken van gestorven of gedode dieren, en
+
+- f. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose.
+
+5. Ten aanzien van een bedrijf waar dieren aanwezig zijn die van besmetting verdacht zijn verklaard, stelt Onze Minister het tijdstip vast waarop de verdenking is ontstaan en waarop zij is geëindigd, en welke, dan wel hoeveel van de op het bedrijf aanwezige dieren op het eerstgenoemde tijdstip besmet en van besmetting verdacht waren. Ten aanzien van een bedrijf waar dieren aanwezig zijn die van besmetting verdacht zijn verklaard, kan Onze Minister het tijdstip vaststellen waarop de verdenking is ontstaan en waarop zij is geëindigd, en welke, dan welk hoeveel van de op het bedrijf aanwezige dieren of het eerstgenoemde tijdstip besmet en van besmetting verdacht waren, voor zover het gaat om een besmetting of verdenking van een besmetting met een dierziekte of zoönose als bedoeld in [artikel 5.3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-01-01&g=2025-01-01).
+
+##### Artikel 5.5. Producten en voorwerpen
+
+1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot producten of voorwerpen, voor zover deze drager van een ziekteverwekker kunnen zijn, of een gevaar voor verspreiding van een ziekteverwekker kunnen opleveren.
+
+2. De maatregelen, bedoeld in het eerste lid, zijn:
+
+- a. een verplichting tot het merken;
+
+- b. een verplichting tot het afzonderen, het op een plaats houden of het opslaan;
+
+- c. een verplichting tot het behandelen of het onschadelijk maken;
+
+- d. een verplichting tot het vernietigen;
+
+- e. een verplichting tot het verwerken;
+
+- f. een verbod of een verplichting tot het verplaatsen of vervoeren;
+
+- g. een verbod op het in of buiten Nederland brengen;
+
+- h. een verbod op in het in contact brengen met of het in de nabijheid brengen van dieren;
+
+- i. een verplichting tot het reinigen en ontsmetten;
+
+- j. een verplichting tot het laten doen van onderzoek of een verplichting tot het dulden van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose, en
+
+- k. een verbod op het op of in de bodem brengen van dierlijke mest.
+
+3. De andere handelingen, bedoeld in het eerste lid, zijn:
+
+- a. het merken;
+
+- b. het afzonderen, het op een plaats houden of het opslaan;
+
+- c. het behandelen of het onschadelijk maken;
+
+- d. het vernietigen;
+
+- e. het verwerken;
+
+- f. het verplaatsen of het vervoeren;
+
+- g. het reinigen en ontsmetten, en
+
+- h. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose.
+
+##### Artikel 5.6. Gebouwen, ruimten, terreinen en gebieden
+
+1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot gebouwen, ruimten, terreinen, gebieden en andere onroerende zaken waar een ziekteverwekker aanwezig is of ten aanzien waarvan sprake is van een verdenking van aanwezigheid van een ziekteverwekker.
+
+2. De maatregelen, bedoeld in het eerste lid, zijn:
+
+- a. een verplichting tot het reinigen en ontsmetten;
+
+- b. een verbod op toegang, betreden of verlaten;
+
+- c. een verbod op het vervoer, het verplaatsen en het bijeenbrengen van dieren, producten of voorwerpen naar, onderscheidenlijk vanuit en in ruimten, gebouwen, terreinen, gebieden of andere onroerende zaken;
+
+- d. een verbod op het verrichten van bepaalde handelingen en activiteiten in, op of nabij ruimten, gebouwen, terreinen, gebieden of andere onroerende zaken, en
+
+- e. een verplichting tot het plaatsen van materialen ter voorkoming of bestrijding van besmettelijke dierziekten of zoönosen of ter wering van ziekteverwekkers.
+
+3. De andere handelingen, bedoeld in het eerste lid, zijn:
+
+- a. het plaatsen van waarschuwingsborden en borden ter vooraankondiging;
+
+- b. het aanbrengen van kentekenen bij gebouwen, ruimten, terreinen, gebieden en andere onroerende zaken;
+
+- c. het plaatsen van materialen ter voorkoming of bestrijding van besmettelijke dierziekten of zoönosen of ter wering van ziekteverwekkers, en
+
+- d. het reinigen en ontsmetten.
+
+##### Artikel 5.7. Afwijking andere regelgeving
+
+De op grond van deze paragraaf of [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01), getroffen maatregelen ter preventie of bestrijding van besmettelijke dierziekten, zoönosen of ziekteverschijnselen kunnen zo nodig afwijken van het overige bij en krachtens deze wet bepaalde, de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), in samenhang met [artikel 4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.31), [4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.32), [4.34](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.34), [4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.36) of [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.38), [artikel 5.1, eerste lid, aanhef, onder f of g, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), wel dan niet in samenhang met [artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.39) of [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.40), of [artikel 5.2, eerste of tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2).
+
+##### Artikel 5.8. Medewerking burgemeesters
+
+1. Onze Minister stelt de burgemeester van de gemeente waar krachtens deze paragraaf of een EU-rechtshandeling als bedoeld in [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01), een maatregel is getroffen, hiervan onverwijld in kennis.
+
+2. De burgemeester van de betrokken gemeente verleent zijn medewerking bij het plaatsen en het weer verwijderen van waarschuwingsborden en kentekenen.
+
+##### Artikel 5.9. Bevoegdheden ten behoeve van onderzoek
+
+1. Met het verrichten van onderzoek naar de aanwezigheid van ziekteverwekkers, dierziekten, zoönosen en ziekteverschijnselen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en personen.
+
+2. [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.2&z=2025-01-01&g=2025-01-01) en de [artikelen 5:13 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde ambtenaren en personen.
+
 #### § 3. Bestuurlijke maatregelen
 
 ##### Artikel 5.10. Dieren en producten
@@ -969,9 +1248,9 @@ Vervallen
 
 - g. een verplichting tot het laten doden en vernietigen, voor zover:
 
-- 1°. dit nodig is ter voorkoming van een ernstig gevaar voor mens of dier, of
+   - 1°. dit nodig is ter voorkoming van een ernstig gevaar voor mens of dier, of
 
-- 2°. een EU-rechtshandeling daartoe verplicht.
+   - 2°. een EU-rechtshandeling daartoe verplicht.
 
 3. De maatregelen, bedoeld in het eerste lid, met betrekking tot dierlijke producten zijn:
 
@@ -996,6 +1275,12 @@ Vervallen
 4. Het eerste en het derde lid zijn van overeenkomstige toepassing op andere dan dierlijke producten, voor zover het product een gevaar voor verspreiding van een ziekteverwekker kan opleveren.
 
 5. Maatregelen, die krachtens het eerste lid, onderdeel c, worden getroffen met betrekking tot dieren die wegens de opname, de vermoedelijke opname of het gevaar van opname van schadelijke stoffen een ernstig gevaar voor de volksgezondheid kunnen opleveren, worden getroffen in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport.
+
+##### Artikel 5.10a. Houders van dieren
+
+1. Onze Minister kan maatregelen treffen met betrekking tot houders van dieren ter bevordering van de kennis van de houder wanneer door die houder niet is voldaan aan het bepaalde bij of krachtens deze wet.
+
+2. De maatregelen, bedoeld in het eerste lid, kunnen een verplichting inhouden tot het volgen van een cursus of training.
 
 ##### Artikel 5.11. Diervoeders en gemedicineerde diervoeders
 
@@ -1231,7 +1516,7 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling wo
 
 - d. aantekeningen in een register als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01), alsmede de doorhaling daarvan.
 
-### Hoofdstuk 7. Vergunningen, erkenningen, toestemmingen, toelatingen, registraties, meldingen en registers
+### Hoofdstuk 8. Handhaving
 
 #### § 1. Toezicht
 
@@ -1261,19 +1546,19 @@ In het in [artikel 5:18, eerste lid, van de Algemene wet bestuursrecht](https://
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
 
-#### § 1. Toezicht
+#### § 3. Bestuurlijke boete
 
 ##### Artikel 8.6. Definities
 
 1. In deze paragraaf wordt verstaan onder:
 
-- a. **overtreding:** gedraging die in strijd is met het bepaalde bij of krachtens:
+- a. *overtreding:* gedraging die in strijd is met het bepaalde bij of krachtens:
 
-- 1°. de [artikelen 2.2, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01), [2.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.8, eerste lid, en vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), [2.15, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.16, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.16&z=2025-01-01&g=2025-01-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.17&z=2025-01-01&g=2025-01-01), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18&z=2025-01-01&g=2025-01-01), [2.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18a&z=2025-01-01&g=2025-01-01), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2025-01-01&g=2025-01-01), [2.22, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.22&z=2025-01-01&g=2025-01-01), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-01-01&g=2025-01-01), [3.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2025-01-01&g=2025-01-01), [5.1, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01)[5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01), [5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2025-01-01&g=2025-01-01), [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.6&z=2025-01-01&g=2025-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.10&z=2025-01-01&g=2025-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.10a&z=2025-01-01&g=2025-01-01), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.12&z=2025-01-01&g=2025-01-01), [5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2025-01-01&g=2025-01-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.4&z=2025-01-01&g=2025-01-01) of [10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.2&z=2025-01-01&g=2025-01-01);
+   - 1°. de [artikelen 2.2, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01), [2.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.8, eerste lid, en vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), [2.15, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.16, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.16&z=2025-01-01&g=2025-01-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.17&z=2025-01-01&g=2025-01-01), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18&z=2025-01-01&g=2025-01-01), [2.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18a&z=2025-01-01&g=2025-01-01), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2025-01-01&g=2025-01-01), [2.22, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.22&z=2025-01-01&g=2025-01-01), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2025-01-01&g=2025-01-01), [3.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=2&artikel=3.5&z=2025-01-01&g=2025-01-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2025-01-01&g=2025-01-01), [5.1, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01)[5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2025-01-01&g=2025-01-01), [5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2025-01-01&g=2025-01-01), [5.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.6&z=2025-01-01&g=2025-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.10&z=2025-01-01&g=2025-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.10a&z=2025-01-01&g=2025-01-01), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.11&z=2025-01-01&g=2025-01-01), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.12&z=2025-01-01&g=2025-01-01), [5.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2025-01-01&g=2025-01-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.4&z=2025-01-01&g=2025-01-01) of [10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.2&z=2025-01-01&g=2025-01-01);
 
-- 2°. een van de bepalingen, bedoeld in onderdeel a, in samenhang met de [artikelen 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.2&z=2025-01-01&g=2025-01-01), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.1&z=2025-01-01&g=2025-01-01), [7.2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01), [7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), of [10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.5&z=2025-01-01&g=2025-01-01);
+   - 2°. een van de bepalingen, bedoeld in onderdeel a, in samenhang met de [artikelen 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.2&z=2025-01-01&g=2025-01-01), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.1&z=2025-01-01&g=2025-01-01), [7.2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01), [7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), of [10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.5&z=2025-01-01&g=2025-01-01);
 
-- b. **overtreder:** degene die de overtreding pleegt of mede pleegt.
+- b. *overtreder:* degene die de overtreding pleegt of mede pleegt.
 
 2. Indien een overtreding is gepleegd door een rechtspersoon, wordt onder overtreder mede verstaan: degene die tot de overtreding opdracht heeft gegeven of daaraan feitelijk leiding heeft gegeven.
 
@@ -1291,7 +1576,7 @@ Onze Minister kan een overtreder een bestuurlijke boete opleggen.
 
 ##### Artikel 8.9. Invordering bij dwangbevel
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.10. Samenloop met strafrecht
 
@@ -1303,9 +1588,31 @@ Vervallen
 
 ##### Artikel 8.11. Strafbaarstelling
 
-1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), [2.2, zesde lid, eerste volzin, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen a, b en c, [2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), en [2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.14&z=2025-01-01&g=2025-01-01), of een of meer van de voornoemde bepalingen in samenhang met [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.2&z=2025-01-01&g=2025-01-01), [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), of [artikel 7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), of met de maatregel, als bedoeld in [artikel 8.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=4&artikel=8.11a&z=2025-01-01&g=2025-01-01) zijn misdrijven.
+1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), [2.2, zesde lid, eerste volzin, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen a, b en c, [2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), en [2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.14&z=2025-01-01&g=2025-01-01), of een of meer van de voornoemde bepalingen in samenhang met [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.2&z=2025-01-01&g=2025-01-01), [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), of [artikel 7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), of met de maatregel, als bedoeld in [artikel 8.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=4&artikel=8.11a&z=2025-01-01&g=2025-01-01) zijn misdrijven.
 
 2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 2.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), [2.2, eerste lid, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01) voor wat betreft de onderwerpen, bedoeld in het tiende lid, onderdelen b, c en d, en onderdeel r, voor zover dat onderdeel betrekking heeft op regels als bedoeld in de onderdelen b, c en d, [2.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01) voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen d en e, [2.9, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.14&z=2025-01-01&g=2025-01-01), [2.15, eerste, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01), en [4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.4&z=2025-01-01&g=2025-01-01), of een of meer van de voornoemde bepalingen in samenhang met [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.2&z=2025-01-01&g=2025-01-01), [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01), of [artikel 7.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), zijn overtredingen.
+
+##### Artikel 8.11a. Strafrechtelijke vrijheidsbeperkende maatregel
+
+1. Ter beveiliging van de maatschappij, ter bescherming van de goede zeden of ter voorkoming van strafbare feiten die de gezondheid of het welzijn van een of meer dieren benadelen, kan een maatregel strekkende tot beperking van de vrijheid worden opgelegd bij de rechterlijke uitspraak:
+
+- a. waarbij iemand wegens een strafbaar feit wordt veroordeeld;
+
+- b. waarbij overeenkomstig [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) wordt bepaald dat geen straf zal worden opgelegd.
+
+2. De maatregel kan inhouden dat de verdachte wordt bevolen:
+
+- a. geen of minder dieren, dan wel bepaalde diersoorten niet, te houden,
+
+- b. zich niet op te houden in een bepaald gebied.
+
+3. De maatregel kan voor de duur van het leven of voor een periode van ten hoogste dertig jaren worden opgelegd.
+
+4. De rechter kan bij zijn uitspraak, ambtshalve of op vordering van de officier van justitie, bevelen dat de maatregel dadelijk uitvoerbaar is indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een strafbaar feit zal begaan dat de gezondheid of het welzijn van een of meer dieren benadeelt.
+
+5. Het bevel, bedoeld in het vierde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.
+
+6. De maatregel kan tezamen met straffen en andere maatregelen worden opgelegd.
 
 ##### Artikel 8.12. Strafmaat
 
@@ -1339,411 +1646,7 @@ Vervallen
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### § 1. Toezicht
-
-#### § 1. Toezicht
-
-##### Artikel 8.44. Gidsen voor goede praktijken
-
-1. Onze Minister moedigt het opstellen en het toepassen aan van gidsen voor goede praktijken die aanbevelingen bevatten voor de naleving van het bij of krachtens deze wet bepaalde.
-
-2. Nationale gidsen voor goede praktijken kunnen aan Onze Minister ter beoordeling worden voorgelegd.
-
-3. Op verzoeken om een beoordeling als bedoeld in het tweede lid, zijn de [artikelen 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.6&z=2025-01-01&g=2025-01-01), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.7&z=2025-01-01&g=2025-01-01) en [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.8&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
-
-#### § 7. Overig
-
-### Hoofdstuk 9. Financiën
-
-#### § 2. Herstelmaatregelen
-
-##### Artikel 9.1. Retributies algemeen
-
-1. Onze Minister kan een heffing opleggen ter vergoeding van kosten overeenkomstig een door hem vastgesteld tarief ter zake van de volgende handelingen:
-
-- a. de behandeling van een aanvraag tot een bij of krachtens deze wet voorgeschreven vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering dan wel van een aanvraag tot verlenging of wijziging daarvan;
-
-- b. de instandhouding van de bij of krachtens deze wet verleende vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering;
-
-- c. de behandeling van een aanvraag tot ontheffing van het bij of krachtens deze wet bepaalde, dan wel van een aanvraag tot verlenging of wijziging van de ontheffing;
-
-- d. de identificatie en registratie van dieren;
-
-- e. keuringen als bedoeld in [artikel 2.10, derde lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), en [artikel 3.2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01);
-
-- f. het toezicht op de naleving van [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01) bij een wedstrijd, ten laste van de organiserende instelling;
-
-- g. onderzoeken, controles of verrichtingen met betrekking tot dieren, diervoeders, diergeneesmiddelen, producten of voorwerpen, bedrijven of locaties ter voorkoming en bestrijding van dierziekten, zoönosen en ziekteverschijnselen, en ter wering van ziekteverwekkers, voor zover de onderzoeken of verrichtingen zijn voorgeschreven bij een EU-rechtshandeling dan wel op verzoek van betrokkenen plaatsvinden;
-
-- h. controles die nodig zijn om de omvang van een overtreding van het bepaalde bij of krachtens deze wet vast te stellen, om na te gaan of corrigerende maatregelen zijn genomen, dan wel om een overtreding op te sporen of te bewijzen, voor zover de heffing ter vergoeding van kosten van deze controles is voorgeschreven bij een EU-rechtshandeling, en
-
-- i. de beoordeling van gidsen als bedoeld [artikel 8.44](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=6&artikel=8.44&z=2025-01-01&g=2025-01-01);
-
-- j. het bijhouden van gegevens in een register als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01).
-
-2. Bij of krachtens algemene maatregel van bestuur kan een heffing ter vergoeding van kosten worden opgelegd overeenkomstig een vastgesteld tarief ter zake van bij die maatregel benoemde onderzoeken of verrichtingen voor zover de onderzoeken of verrichtingen zijn voorgeschreven bij of krachtens deze wet of bij EU-verordening.
-
-3. Een tarief als bedoeld in het eerste of tweede lid wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij een EU-rechtshandeling vastgestelde voorschriften.
-
-4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de betaling van de heffing, en kan worden geregeld dat een handeling als bedoeld in het eerste lid, aanhef, slechts dan wordt uitgevoerd nadat betaling van de heffing heeft plaatsgevonden.
-
-5. Onze Minister kan de bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, invorderen bij dwangbevel.
-
-#### § 3. Bestuurlijke boete
-
-#### § 3. Bestuurlijke boete
-
-### Hoofdstuk 10. Overig
-
-##### Artikel 10.1. Vrijstelling en ontheffing
-
-1. Onze Minister kan, in voorkomend geval met inachtneming van EU-rechtshandelingen en voor zover het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren of het belang van het milieu zich daartegen niet verzetten, van het bepaalde bij of krachtens deze wet vrijstelling of ontheffing verlenen.
-
-2. Ingeval de vrijstelling of ontheffing betrekking heeft op een bepaling die geheel of mede strekt tot bescherming van de volksgezondheid, wordt zij in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport verleend.
-
-3. In afwijking van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.1&z=2025-01-01&g=2025-01-01) zijn de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.3&z=2025-01-01&g=2025-01-01), [7.4, eerste lid, tweede lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.4&z=2025-01-01&g=2025-01-01), [7.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), [7.6, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.6&z=2025-01-01&g=2025-01-01), [7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.8&z=2025-01-01&g=2025-01-01), en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.9&z=2025-01-01&g=2025-01-01) niet van toepassing ten aanzien van het verlenen van een vrijstelling of ontheffing als bedoeld in het eerste lid.
-
-4. Indien Onze Minister voornemens is een vrijstelling te verlenen van het bepaalde in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01), wordt het ontwerp van de vrijstelling in de Staatscourant bekend gemaakt en aan een ieder de gelegenheid geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp van de vrijstelling aan beide kamers der Staten-Generaal overgelegd en medegedeeld aan direct belanghebbenden.
-
-5. Een vrijstelling als bedoeld in het eerste lid kan, onverminderd de bevoegdheid van Onze Minister, bij algemene maatregel van bestuur worden verleend.
-
-##### Artikel 10.2. Regels over onderzoeken, controles, toezicht op de naleving en handhaving
-
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot onderzoeken, controles, toezicht op de naleving en handhaving, waaronder:
-
-- a. de wijze waarop het onderzoek plaatsvindt;
-
-- b. het aanwijzen van ambtenaren of personen die het onderzoek verrichten, en
-
-- c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.
-
-2. Bij algemene maatregel van bestuur kunnen voor de toepassing van [hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&z=2025-01-01&g=2025-01-01), en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&z=2025-01-01&g=2025-01-01) de [artikelen 8 tot en met 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8) of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van [artikel 13 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) is onverminderd [artikel 18, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=18).
-
-##### Artikel 10.3
-
-Vervallen
-
-##### Artikel 10.4. Medebewind
-
-Vervallen
-
-##### Artikel 10.5. Onverwijlde voorzieningen
-
-1. Indien in het belang van de gezondheid van mens of dier of het welzijn van het dier naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan hij in de onderwerpen die op grond van deze wet bij algemene maatregel van bestuur worden bepaald, bij regeling voorzien.
-
-2. De regeling vervalt een jaar nadat zij in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het moment waarop de maatregel in werking treedt. De termijn kan door Onze Minister eenmaal met ten hoogste een jaar worden verlengd.
-
-##### Artikel 10.6. [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081)
-
-1. Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) is bepaald, met dien verstande dat onverminderd van kracht blijft hetgeen is bepaald bij of krachtens de [artikelen 2.2, eerste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01) en [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01).
-
-2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081), voor zover laatstgenoemde wet op deze handelingen van toepassing is, niet aangemerkt als het verrichten van diergeneeskundige handelingen.
-
-##### Artikel 10.7. [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416)
-
-In hetgeen is voorzien bij of krachtens de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), wordt niet voorzien krachtens deze wet.
-
-##### Artikel 10.8. Raad voor dierenaangelegenheden
-
-1. Er is een Raad voor dierenaangelegenheden waarin overleg plaatsvindt over vraagstukken betreffende het nationaal en internationaal beleid op het gebied van de gezondheid van dieren en het welzijn van dieren.
-
-2. Onze Minister benoemt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport de leden van de Raad.
-
-3. Bij algemene maatregel van bestuur worden regels gesteld over de samenstelling en de werkwijze van de Raad.
-
-##### Artikel 10.9. Betrokkenheid van andere ministers bij de totstandkoming van algemene maatregelen van bestuur
-
-Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in de [artikelen 2.18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18&z=2025-01-01&g=2025-01-01), [2.20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2025-01-01&g=2025-01-01), en [2.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.22&z=2025-01-01&g=2025-01-01), wordt Ons gedaan door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport en na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid.
-
-##### Artikel 10.10. Voorhangprocedure
-
-1. De voordracht voor een krachtens de [artikelen 2.1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), [2.2, tweede, derde, zevende, tiende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.8, tweede lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), [2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.16&z=2025-01-01&g=2025-01-01), en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2025-01-01&g=2025-01-01) vast te stellen algemene maatregel van bestuur voor zover het betreft een voordracht voor een maatregel mede met of met het oog op de bescherming van het welzijn van dieren, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.
-
-2. Een ministeriële regeling als bedoeld in [artikel 2.18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18a&z=2025-01-01&g=2025-01-01), of [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2025-01-01&g=2025-01-01), wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd, tenzij binnen deze termijn door of namens een van de Kamers of ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers nadere inlichtingen worden gevraagd. De ministeriële regeling kan niet eerder worden vastgesteld dan nadat de Kamer die de nadere inlichtingen heeft gevraagd, heeft vastgesteld dat deze genoegzaam zijn verstrekt.
-
-3. De voordracht voor een krachtens [artikel 2.3a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3a&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Deze overlegging vindt niet later plaats dan één jaar na de inwerkingtreding van de Wet van 29 mei 2024 houdende wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen (**Stb.** 2024, 160).
-
-##### Artikel 10.11. Evaluatiebepaling
-
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 1. Overgangsrecht
-
-##### Artikel 11.1. Overgangsrecht
-
-1. Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662), de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764), de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818), de [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351), de [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730) of, voor zover zij betrekking hebben op onderwerpen waarop deze wet van toepassing is, krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) of de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), die gelden op het tijdstip van inwerkingtreding van deze wet, worden geacht te zijn genomen op grond van deze wet, onder dezelfde voorschriften, beperkingen en voorwaarden. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot voorschriften, beperkingen en voorwaarden voor zover de uitvoering van bindende onderdelen van EU-rechtshandelingen dit vereist.
-
-2. Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662), de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764), de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818), de [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351), de [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730) of, voor zover zij betrekking hebben op onderwerpen waarop deze wet van toepassing is, krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) of de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), worden geacht te zijn gedaan op grond van deze wet. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot voorschriften, beperkingen en voorwaarden voorzover de uitvoering van bindende onderdelen van EU-rechtshandelingen dit vereist.
-
-3. Ten aanzien van besluiten als bedoeld in het eerste lid doet Onze Minister per soort, onderverdeeld naar de bepaling of bepalingen waarop de besluiten berustten, mededeling in de Staatscourant van de bepaling of bepalingen waarop zij vanaf het moment van inwerkingtreding van de wet worden geacht te berusten.
-
-4. De op het tijdstip van inwerkingtreding van deze wet aanhangige aanvragen, verzoeken tot het nemen van een besluit als bedoeld in het eerste lid, zijn aanhangig in de staat, waarin zij zich op dat moment bevinden en worden vanaf het tijdstip van inwerkingtreding van deze wet overeenkomstig het bepaalde bij en krachtens deze wet behandeld.
-
-5. De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaarschriften die betrekking hebben op het nemen van een besluit als bedoeld in het eerste lid, zijn aanhangig in de staat, waarin zij zich op dat moment bevinden en worden overeenkomstig de desbetreffende bepalingen van de wetten, bedoeld in het eerste lid, behandeld en beslist.
-
-6. De op het tijdstip van inwerkingtreding van deze wet bij het College van Beroep voor het bedrijfsleven aanhangige zaken die betrekking hebben op het nemen van een besluit als bedoeld in het eerste lid, worden overeenkomstig de desbetreffende bepalingen van de wetten, bedoeld in het eerste lid, behandeld en beslist.
-
-7. Dierenartsen die op het tijdstip van inwerkingtreding van deze wet zijn ingeschreven in het register van praktizerende dierenartsen, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=10), worden geacht te zijn ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
-
-8. [Artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.13&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing op dieren die in strijd met [artikel 73 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=73), zoals dat luidde bij inwerkingtreding van deze wet, zijn gefokt.
-
-#### § 1. Overgangsrecht
-
-##### Artikel 11.1a. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel 11.2. Overgangsrecht diergezondheidsheffing
-
-In afwijking van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=11&paragraaf=1&artikel=11.1&z=2025-01-01&g=2025-01-01) is op besluiten met betrekking tot de diergezondheidsheffing, genomen op of na 1 januari 2018 maar voor het tijdstip van inwerkingtreding van [paragraaf 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&z=2025-01-01&g=2025-01-01), het recht zoals dat gold onmiddellijk voorafgaand aan laatstbedoeld tijdstip van toepassing.
-
-##### Artikel 11.3. Wijziging [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
-
-Vervallen
-
-##### Artikel 11.4. Wijziging [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662)
-
-Vervallen
-
-##### Artikel 11.5. Wijziging [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
-
-Vervallen
-
-##### Artikel 11.6. Wijziging [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416)
-
-Vervallen
-
-##### Artikel 11.7. Wijziging [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
-
-Vervallen
-
-##### Artikel 11.8. Wijziging [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
-
-Vervallen
-
-##### Artikel 11.9
-
-Vervallen
-
-##### Artikel 11.10
-
-Vervallen
-
-##### Artikel 11.11. Wijziging [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
-
-Vervallen
-
-##### Artikel 11.12. Wijziging [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
-
-Vervallen
-
-##### Artikel 11.13
-
-Vervallen
-
-##### Artikel 11.14. Overgangsrecht inwerkingtreding wijziging van de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) en enige andere wetten
-
-Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 12. Slotbepalingen
-
-##### Artikel 12.1. Intrekking wetten
-
-De volgende wetten worden ingetrokken:
-
-- a. [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764);
-
-- b. [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818);
-
-- c. [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351);
-
-- d. [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730);
-
-- e. de [wet van 9 juli 2007, houdende wijziging van de Wet op de uitoefening van de diergeneeskunde 1990 (verhoging maximaal bedrag tuchtrechtelijke boete en wijziging samenstellingseisen van tuchtcolleges ter zitting)](https://wetten.overheid.nl/jci1.3:c:BWBR0022416) (Stb. 285).
-
-##### Artikel 12.2. Inwerkingtreding
-
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 12.3. Citeertitel
-
-Deze wet wordt aangehaald als: Wet dieren.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 8.45. Tuchtrechtelijke handhaving en medebewindsregelgeving
-
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.
-
-1. Bij toepassing van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.4&z=2025-01-01&g=2025-01-01) kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken productschap of bedrijfschap krachtens artikel 10.4, tweede lid, bij verordening als bedoeld in 10.4, derde lid, zijn of worden gesteld, voor zover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.
-
-2. De [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=2), [3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=3), [15 tot en met 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=15), en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=46) zijn van overeenkomstige toepassing, met dien verstande dat de instemming, bedoeld in artikel 46 van die wet wordt verkregen van Onze Minister.
-
-3. Onverminderd [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2025-01-01&g=2025-01-01), kan bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.
-
-##### Artikel 8.46. Voorschriften in Engelse taal
-
-Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook worden bestraft met een geldboete indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.
-
-### Hoofdstuk 9. Financiën
-
-#### § 2. Diergezondheidsfonds
-
 #### § 5. Veterinair tuchtrecht
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 2. Wijziging andere wetten
-
-##### Artikel 11.9
-
-Vervallen
-
-##### Artikel 11.10
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.23. Vergunning biotechnologie
-
-1. Het is verboden om uitsluitend voor sportprestaties of vermaak het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie.
-
-2. Het is zonder vergunning verboden:
-
-- a. het genetisch materiaal van dieren te wijzigen op een wijze die voorbij gaat aan de natuurlijke barrières van geslachtelijke voortplanting en van recombinatie;
-
-- b. biotechnologische technieken bij een dier of een dierlijk embryo toe te passen.
-
-3. Het tweede lid is niet van toepassing op handelingen als bedoeld in het tweede lid voor zover die handelingen worden verricht ten behoeve van biomedisch onderzoek.
-
-4. Onze Minister verleent een vergunning slechts indien naar zijn oordeel:
-
-- a. de handelingen geen onaanvaardbare gevolgen hebben voor de gezondheid of het welzijn van dieren; en
-
-- b. tegen de handelingen geen ethische bezwaren bestaan.
-
-5. In afwijking van [artikel 7.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.7&z=2025-01-01&g=2025-01-01), vraagt Onze Minister telkenmale omtrent een verzoek tot verlening van een vergunning als bedoeld in het tweede lid advies aan een door hem met betrekking tot dat verzoek in te stellen commissie van onafhankelijke deskundigen.
-
-6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot een vergunning als bedoeld in het tweede lid.
-
-##### Artikel 2.24
-
-Bij of krachtens algemene maatregel van bestuur kunnen handelingen worden aangewezen ten aanzien waarvan in ieder geval niet is voldaan aan de voorwaarden, bedoeld in [artikel 2.23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01).
-
-#### § 5. Overig
-
-### Hoofdstuk 3. Dierlijke producten
-
-#### § 1. Algemene regels over dierlijke producten
-
-#### § 2. Aanvullende regels over dierlijke bijproducten
-
-### Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
-
-##### Artikel 4.1. Toelating dierenartsen en andere personen
-
-1. Tot het beroepsmatig verrichten van diergeneeskundige handelingen zijn toegelaten dierenartsen en andere personen die zijn ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
-
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het beroepsmatig verrichten van diergeneeskundige handelingen en de toelating daartoe, in overeenstemming met EU-rechtshandelingen die betrekking hebben op beroepskwalificaties en diensten.
-
-3. Bij of krachtens algemene maatregel van bestuur kunnen voor de onderwerpen, bedoeld in het tweede lid, regels worden gesteld die betrekking hebben op onder meer:
-
-- a. de kwalificaties van degene die is of wordt toegelaten, waaronder de opleiding en bij- of nascholing;
-
-- b. de gevallen waarin en de wijze waarop de handelingen, waarop de toelating betrekking heeft, worden verricht, waarbij kan worden bepaald dat die handelingen uitsluitend plaatsvinden onder leiding, op aanwijzing of onder controle van een dierenarts;
-
-- c. de verhouding van de persoon die wordt toegelaten, tot de dierenarts;
-
-- d. de gevallen waarin een toelating op aanvraag plaatsvindt, alsmede de wijze waarop de aanvraag en de toelating plaatsvindt;
-
-- e. de geldigheidsduur van de toelating, en
-
-- f. de gevallen waarin de toelating kan worden ingetrokken.
-
-4. Een toelating als bedoeld in het tweede lid kan onder voorwaarden en beperkingen worden verleend.
-
-5. Bij of krachtens algemene maatregel van bestuur kunnen de andere personen, bedoeld in het eerste lid, voor de toepassing van deze wet en de daarop berustende bepalingen worden gelijkgesteld met dierenartsen.
-
-##### Artikel 4.2. Zorgplichten
-
-1. Personen, die zijn toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, schieten niet door enig handelen of nalaten tekort in de zorg die zij in hun hoedanigheid:
-
-- a. behoren te betrachten ten opzichte van een dier met betrekking tot welke hun hulp is ingeroepen, en
-
-- b. verlenen of in geval van nood behoren te verlenen ten opzichte van een dier.
-
-2. Personen die zijn toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen, schieten niet zodanig tekort in hetgeen van hen in hun hoedanigheid mag worden verwacht dat daardoor ernstige schade kan ontstaan voor de gezondheidszorg voor dieren.
-
-3. Het in het eerste en tweede lid bepaalde is tevens van toepassing ten aanzien van andere dan gehouden dieren.
-
-##### Artikel 4.3. Register
-
-1. Onze Minister houdt een openbaar register bij van personen die een opleiding op het gebied van de diergeneeskunde als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=1&paragraaf=1&artikel=1.1&z=2025-01-01&g=2025-01-01) met goed gevolg hebben voltooid en andere personen die worden toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen.
-
-2. Een persoon wordt niet in het register ingeschreven of zijn inschrijving wordt doorgehaald indien krachtens een onherroepelijk geworden rechterlijke of tuchtrechtelijke uitspraak zijn bevoegdheid tot het beroepsmatig verrichten van diergeneeskundige handelingen is ingetrokken.
-
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de registratie in het register, bedoeld in het eerste lid, waaronder regels als bedoeld in [artikel 7.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01).
-
-##### Artikel 4.4. Titelbescherming
-
-1. Aan personen die zijn opgenomen in een register als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01), is het recht voorbehouden om:
-
-- a. in het openbaar aan te kondigen dat zij de diergeneeskundige handelingen waarop de registratie betrekking heeft beroepsmatig verrichten,
-
-- b. een titel, aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan wekken dat zij de diergeneeskundige handelingen waarop de registratie betrekking heeft beroepsmatig verrichten, en
-
-- c. een titel als bedoeld in [artikel 4.5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.5&z=2025-01-01&g=2025-01-01), te bezigen of een aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan wekken dat zij een dergelijke titel verkregen hebben.
-
-2. Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is op daarbij aangewezen personen, onder de daarbij gestelde voorwaarden.
-
-##### Artikel 4.5. Specialismen
-
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over specialismen binnen het beroepsmatig verrichten van diergeneeskundige handelingen alsmede over de vermelding van de titel, behorende bij die specialismen, in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
-
-2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer:
-
-- a. de opleiding tot de specialismen;
-
-- b. de aanwijzing van en de eisen aan organisaties of instellingen die zijn belast met de regeling van of de opleiding tot de specialismen;
-
-- c. de verkrijging en de intrekking van een titel, verbonden aan de specialismen, en
-
-- d. de voorwaarden waaronder personen die beschikken over een titel, verbonden aan een specialisme, het recht is voorbehouden om:
-
-- 1°. in het openbaar aan te kondigen dat zij de diergeneeskundige handelingen waarop de specialisatie betrekking heeft beroepsmatig verrichten,
-
-- 2°. een titel, aanduiding of vermelding te bezigen die bij het publiek redelijkerwijs de indruk kan vestigen dat zij de diergeneeskundige handelingen waarop het specialisme betrekking heeft beroepsmatig verrichten, en
-
-- 3°. een titel als bedoeld in [artikel 4.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.4&z=2025-01-01&g=2025-01-01), te voeren.
-
-### Hoofdstuk 5. Maatregelen
-
-#### § 1. Algemeen
-
-#### § 1. Algemeen
-
-#### § 1. Algemeen
-
-### Hoofdstuk 6. Uitvoering EU-rechtshandelingen
-
-### Hoofdstuk 7. Vergunningen, erkenningen, toestemmingen, toelatingen, registraties, meldingen en registers
-
-### Hoofdstuk 7. Vergunningen, erkenningen, toestemmingen, toelatingen, registraties, meldingen en registers
-
-#### § 2. Herstelmaatregelen
-
-#### § 3. Bestuurlijke boete
-
-#### § 4. Strafrechtelijke handhaving
 
 ##### Artikel 8.15. Indiening klacht
 
@@ -1869,7 +1772,7 @@ De [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Indien een getuige of een deskundige niet verschijnt op de dagvaarding, bedoeld in het tweede lid, doet de officier van justitie bij de rechtbank te Den Haag op verzoek van het veterinair tuchtcollege hem nogmaals dagvaarden met, voor zover verzocht door het veterinair tuchtcollege, bevel tot medebrenging.
 
-4. [Artikel 6:1:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) is van overeenkomstige toepassing.
+4. [Artikel 6:1:5 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) is van overeenkomstige toepassing.
 
 5. Ten aanzien van getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=217) van overeenkomstige toepassing.
 
@@ -1929,7 +1832,7 @@ De [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 6. Bij toepassing van het vijfde lid worden de maatregelen geheel of gedeeltelijk niet ten uitvoer gelegd onder de voorwaarde dat de betrokkene zich binnen een daartoe vastgestelde proeftijd van ten hoogste drie jaren, niet schuldig maakt aan handelingen in strijd met [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01), dan wel in strijd met een bijzondere voorwaarde die aan de voorwaardelijke oplegging van de maatregel is verbonden.
 
-7. Een bijzondere voorwaarde als bedoeld in het zesde lid kan zijn dat de betrokkene de door zijn gedraging veroorzaakte schade, voor zover die niet meer bedraagt dan € 5 000,-, geheel of gedeeltelijk binnen een daarbij te stellen termijn, korter dan de proeftijd, vergoedt.
+7. Een bijzondere voorwaarde als bedoeld in het zesde lid kan zijn dat de betrokkene de door zijn gedraging veroorzaakte schade, voor zover die niet meer bedraagt dan € 5 000,-, geheel of gedeeltelijk binnen een daarbij te stellen termijn, korter dan de proeftijd, vergoedt.
 
 8. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de tenuitvoerlegging van de maatregelen, bedoeld in het eerste lid, en de uitvoering van de bevelen, bedoeld in het vierde lid.
 
@@ -2073,313 +1976,67 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 #### § 6. Gidsen voor goede praktijken
 
-#### § 7. Overig
+##### Artikel 8.44. Gidsen voor goede praktijken
 
-### Hoofdstuk 9. Financiën
+1. Onze Minister moedigt het opstellen en het toepassen aan van gidsen voor goede praktijken die aanbevelingen bevatten voor de naleving van het bij of krachtens deze wet bepaalde.
 
-#### § 1. Retributies
+2. Nationale gidsen voor goede praktijken kunnen aan Onze Minister ter beoordeling worden voorgelegd.
 
-#### § 2. Diergezondheidsfonds
-
-#### § 1. Retributies
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 1. Overgangsrecht
-
-#### § 3. Tegemoetkomingen
-
-##### Artikel 11.9
-
-Vervallen
-
-##### Artikel 11.9
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### § 6. Gidsen voor goede praktijken
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 3. Tegemoetkomingen
-
-#### § 2. Wijziging andere wetten
-
-##### Artikel 11.10
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2.18a. Nadere regels over diervoeders en milieu
-
-1. Bij ministeriële regeling kunnen in het belang van de bescherming van het milieu regels worden gesteld over de samenstelling van diervoeders of andere stoffen die zijn bedoeld voor het voederen van dieren.
-
-2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer:
-
-- a. een verbod op het bereiden, bewerken, verwerken, verpakken, etiketteren, in de handel brengen, in Nederland brengen, vervoeren, aanbieden, aanprijzen, afleveren, ontvangen, voorhanden of in voorraad hebben, of het vervoederen aan, het toepassen bij of het brengen in de nabijheid van dieren, van diervoeders of stoffen waarvan de hoeveelheid van een bestanddeel een bij die regeling bepaald maximum overschrijdt;
-
-- b. een verplichting om de hoeveelheid van een bestanddeel in de totale hoeveelheid diervoeders die een dier gebruikt, te beperken, al dan niet tot een bij die regeling bepaald maximum.
-
-3. Er kunnen slechts regels worden vastgesteld als bedoeld in het eerste lid indien vastgesteld is dat dit geen significant negatieve gevolgen heeft voor diergezondheid, dierenwelzijn, volksgezondheid en afzetbelangen.
-
-#### § 3. Regels over diergeneesmiddelen
-
-### Hoofdstuk 3. Dierlijke producten
-
-#### § 2. Aanvullende regels over dierlijke bijproducten
-
-#### § 3. Aanvullende regels over dierlijke producten in relatie tot het milieu
-
-##### Artikel 3.7. Bescherming van het milieu
-
-1. Bij ministeriële regeling kunnen in het belang van de bescherming van het milieu regels worden gesteld over het maximumgehalte aan bepaalde stoffen in dierlijke producten, voor zover dat gehalte wordt beïnvloed door de aard of de samenstelling van diervoeders of andere stoffen die zijn bedoeld voor het voederen van dieren, of door andere stoffen die door dieren worden gegeten.
-
-2. Er kunnen slechts regels worden vastgesteld als bedoeld in eerste lid indien vastgesteld is dat dit geen significant negatieve gevolgen heeft voor diergezondheid, dierenwelzijn, volksgezondheid en afzetbelangen.
-
-### Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
-
-### Hoofdstuk 5. Maatregelen
-
-#### § 2. Preventie en bestrijding van besmettelijke dierziekten, zoönosen en ziekteverschijnselen
-
-#### § 2. Preventie en bestrijding van besmettelijke dierziekten, zoönosen en ziekteverschijnselen
-
-### Hoofdstuk 6. Uitvoering EU-rechtshandelingen
-
-### Hoofdstuk 8. Handhaving
-
-#### § 1. Toezicht
-
-#### § 2. Herstelmaatregelen
-
-#### § 1. Toezicht
-
-#### § 6. Gidsen voor goede praktijken
+3. Op verzoeken om een beoordeling als bedoeld in het tweede lid, zijn de [artikelen 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.6&z=2025-01-01&g=2025-01-01), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.7&z=2025-01-01&g=2025-01-01) en [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.8&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 #### § 7. Overig
 
+##### Artikel 8.45. Tuchtrechtelijke handhaving en medebewindsregelgeving
+
+*Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.*
+
+1. Bij toepassing van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=10&artikel=10.4&z=2025-01-01&g=2025-01-01) kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken productschap of bedrijfschap krachtens artikel 10.4, tweede lid, bij verordening als bedoeld in 10.4, derde lid, zijn of worden gesteld, voor zover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.
+
+2. De [artikelen 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=2), [3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=3), [15 tot en met 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=15), en [46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=46) zijn van overeenkomstige toepassing, met dien verstande dat de instemming, bedoeld in artikel 46 van die wet wordt verkregen van Onze Minister.
+
+3. Onverminderd [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2025-01-01&g=2025-01-01), kan bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.
+
+##### Artikel 8.46. Voorschriften in Engelse taal
+
+Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook worden bestraft met een geldboete indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.
+
 ### Hoofdstuk 9. Financiën
+
+#### § 1. Retributies
+
+##### Artikel 9.1. Retributies algemeen
+
+1. Onze Minister kan een heffing opleggen ter vergoeding van kosten overeenkomstig een door hem vastgesteld tarief ter zake van de volgende handelingen:
+
+- a. de behandeling van een aanvraag tot een bij of krachtens deze wet voorgeschreven vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering dan wel van een aanvraag tot verlenging of wijziging daarvan;
+
+- b. de instandhouding van de bij of krachtens deze wet verleende vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering;
+
+- c. de behandeling van een aanvraag tot ontheffing van het bij of krachtens deze wet bepaalde, dan wel van een aanvraag tot verlenging of wijziging van de ontheffing;
+
+- d. de identificatie en registratie van dieren;
+
+- e. keuringen als bedoeld in [artikel 2.10, derde lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), en [artikel 3.2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-01-01&g=2025-01-01);
+
+- f. het toezicht op de naleving van [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01) bij een wedstrijd, ten laste van de organiserende instelling;
+
+- g. onderzoeken, controles of verrichtingen met betrekking tot dieren, diervoeders, diergeneesmiddelen, producten of voorwerpen, bedrijven of locaties ter voorkoming en bestrijding van dierziekten, zoönosen en ziekteverschijnselen, en ter wering van ziekteverwekkers, voor zover de onderzoeken of verrichtingen zijn voorgeschreven bij een EU-rechtshandeling dan wel op verzoek van betrokkenen plaatsvinden;
+
+- h. controles die nodig zijn om de omvang van een overtreding van het bepaalde bij of krachtens deze wet vast te stellen, om na te gaan of corrigerende maatregelen zijn genomen, dan wel om een overtreding op te sporen of te bewijzen, voor zover de heffing ter vergoeding van kosten van deze controles is voorgeschreven bij een EU-rechtshandeling, en
+
+- i. de beoordeling van gidsen als bedoeld [artikel 8.44](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=6&artikel=8.44&z=2025-01-01&g=2025-01-01);
+
+- j. het bijhouden van gegevens in een register als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.2&z=2025-01-01&g=2025-01-01).
+
+2. Bij of krachtens algemene maatregel van bestuur kan een heffing ter vergoeding van kosten worden opgelegd overeenkomstig een vastgesteld tarief ter zake van bij die maatregel benoemde onderzoeken of verrichtingen voor zover de onderzoeken of verrichtingen zijn voorgeschreven bij of krachtens deze wet of bij EU-verordening.
+
+3. Een tarief als bedoeld in het eerste of tweede lid wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij een EU-rechtshandeling vastgestelde voorschriften.
+
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de betaling van de heffing, en kan worden geregeld dat een handeling als bedoeld in het eerste lid, aanhef, slechts dan wordt uitgevoerd nadat betaling van de heffing heeft plaatsgevonden.
+
+5. Onze Minister kan de bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, invorderen bij dwangbevel.
 
 #### § 2. Diergezondheidsfonds
-
-#### § 6. Gidsen voor goede praktijken
-
-#### § 6. Gidsen voor goede praktijken
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 1. Overgangsrecht
-
-#### § 2. Wijziging andere wetten
-
-##### Artikel 11.9
-
-Vervallen
-
-##### Artikel 11.10
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 5.3. Aanwijzing dierziekten, zoönosen en ziekteverschijnselen
-
-1. Onze Minister kan krachtens deze paragraaf maatregelen treffen en andere handelingen verrichten ter voorkoming of bestrijding van de door hem aangewezen dierziekten, zoönosen en ziekteverschijnselen bij door hem aangewezen diersoorten of diercategorieën.
-
-2. Dierziekten en zoönosen kunnen worden aangewezen indien:
-
-- a. zij besmettelijk zijn en verspreiding ervan niet kan worden voorkomen met normale bedrijfsmiddelen;
-
-- b. zij naar het oordeel van Onze Minister een gevaar voor de diergezondheid kunnen opleveren, of
-
-- c. zij naar het oordeel van Onze Minister van Volksgezondheid, Welzijn en Sport een ernstig gevaar voor de volksgezondheid kunnen opleveren;
-
-- d. zij zijn aangewezen in een EU-rechtshandeling betreffende overdraagbare dierziekten en naar het oordeel van Onze Minister niet kan worden volstaan met de bij of krachtens die EU-rechtshandeling voorgeschreven maatregelen.
-
-3. Ziekteverschijnselen kunnen worden aangewezen indien de dieren die deze verschijnselen vertonen of hun producten:
-
-- a. naar het oordeel van Onze Minister een gevaar voor de diergezondheid kunnen opleveren, of
-
-- b. naar het oordeel van Onze Minister van Volksgezondheid, Welzijn en Sport een ernstig gevaar voor de volksgezondheid kunnen opleveren.
-
-4. Een aanwijzing als bedoeld in het tweede lid, onderdeel c, of in het derde lid, onderdeel b, vindt plaats in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.
-
-5. Maatregelen, die krachtens deze paragraaf worden getroffen ter voorkoming of bestrijding van een dierziekte, zoönose of ziekteverschijnsel, die of dat overeenkomstig het vierde lid is aangewezen in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, worden getroffen in overeenstemming met die minister.
-
-##### Artikel 5.4. Dieren
-
-1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot dieren, al dan niet gehouden, die:
-
-- a. besmet zijn of van besmetting zijn verdacht, of vatbaar zijn voor besmetting met een dierziekte of zoönose, of die een ziekteverschijnsel vertonen of kunnen vertonen, of
-
-- b. een gevaar kunnen opleveren voor verspreiding van een dierziekte, zoönose of ziekteverschijnsel.
-
-2. Bij of krachtens algemene maatregel van bestuur wordt per dierziekte, zoönose en ziekteverschijnsel als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-01-01&g=2025-01-01) geregeld in welke gevallen er bij een dier sprake is van besmetting, van verdenking van besmetting of van een ziekteverschijnsel. Bij of krachtens algemene maatregel van bestuur kan per dierziekte of zoönose als bedoeld in artikel 5.3, tweede lid, onderdeel d, worden geregeld in welke gevallen er bij een dier sprake is van besmetting of van verdenking van besmetting.
-
-3. De maatregelen, bedoeld in het eerste lid, zijn:
-
-- a. een verplichting tot het afzonderen, het opstallen, het ophokken, het afschermen, het op een aangewezen plaats houden, het vastleggen of het opsluiten;
-
-- b. een verplichting tot het behandelen of het vaccineren;
-
-- c. een verbod op het vervoeren, het verplaatsen of het in de handel brengen;
-
-- d. een verbod op het bijeenbrengen;
-
-- e. een verbod op het in of buiten Nederland brengen;
-
-- f. een verbod op het winnen van sperma, eicellen en embryo’s, het insemineren of het laten bevruchten van dieren en het transplanteren van embryo’s en eicellen;
-
-- g. een verplichting tot het merken;
-
-- h. een verbod of een verplichting tot het doden van dieren;
-
-- i. een verplichting tot het onschadelijk laten maken van gestorven of gedode dieren;
-
-- j. een verplichting tot het informeren van derden over de verdenking of besmetting;
-
-- k. een verplichting tot het laten doen van onderzoek of een verplichting tot het dulden van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose, en
-
-- l. een verplichting tot het bijhouden van gegevens.
-
-4. De andere handelingen, bedoeld in het eerste lid, zijn:
-
-- a. het afzonderen, het opstallen, het ophokken, het afschermen, het op een aangewezen plaats houden, het vastleggen of het opsluiten;
-
-- b. het behandelen of het vaccineren;
-
-- c. het merken;
-
-- d. het doden;
-
-- e. het onschadelijk maken van gestorven of gedode dieren, en
-
-- f. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose.
-
-5. Ten aanzien van een bedrijf waar dieren aanwezig zijn die van besmetting verdacht zijn verklaard, stelt Onze Minister het tijdstip vast waarop de verdenking is ontstaan en waarop zij is geëindigd, en welke, dan wel hoeveel van de op het bedrijf aanwezige dieren op het eerstgenoemde tijdstip besmet en van besmetting verdacht waren. Ten aanzien van een bedrijf waar dieren aanwezig zijn die van besmetting verdacht zijn verklaard, kan Onze Minister het tijdstip vaststellen waarop de verdenking is ontstaan en waarop zij is geëindigd, en welke, dan welk hoeveel van de op het bedrijf aanwezige dieren of het eerstgenoemde tijdstip besmet en van besmetting verdacht waren, voor zover het gaat om een besmetting of verdenking van een besmetting met een dierziekte of zoönose als bedoeld in [artikel 5.3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2025-01-01&g=2025-01-01).
-
-##### Artikel 5.5. Producten en voorwerpen
-
-1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot producten of voorwerpen, voor zover deze drager van een ziekteverwekker kunnen zijn, of een gevaar voor verspreiding van een ziekteverwekker kunnen opleveren.
-
-2. De maatregelen, bedoeld in het eerste lid, zijn:
-
-- a. een verplichting tot het merken;
-
-- b. een verplichting tot het afzonderen, het op een plaats houden of het opslaan;
-
-- c. een verplichting tot het behandelen of het onschadelijk maken;
-
-- d. een verplichting tot het vernietigen;
-
-- e. een verplichting tot het verwerken;
-
-- f. een verbod of een verplichting tot het verplaatsen of vervoeren;
-
-- g. een verbod op het in of buiten Nederland brengen;
-
-- h. een verbod op in het in contact brengen met of het in de nabijheid brengen van dieren;
-
-- i. een verplichting tot het reinigen en ontsmetten;
-
-- j. een verplichting tot het laten doen van onderzoek of een verplichting tot het dulden van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose, en
-
-- k. een verbod op het op of in de bodem brengen van dierlijke mest.
-
-3. De andere handelingen, bedoeld in het eerste lid, zijn:
-
-- a. het merken;
-
-- b. het afzonderen, het op een plaats houden of het opslaan;
-
-- c. het behandelen of het onschadelijk maken;
-
-- d. het vernietigen;
-
-- e. het verwerken;
-
-- f. het verplaatsen of het vervoeren;
-
-- g. het reinigen en ontsmetten, en
-
-- h. het doen van onderzoek naar de aanwezigheid van ziekteverwekkers of ziekteverschijnselen of naar besmetting met een dierziekte of zoönose.
-
-##### Artikel 5.6. Gebouwen, ruimten, terreinen en gebieden
-
-1. Onze Minister kan maatregelen treffen en andere handelingen verrichten met betrekking tot gebouwen, ruimten, terreinen, gebieden en andere onroerende zaken waar een ziekteverwekker aanwezig is of ten aanzien waarvan sprake is van een verdenking van aanwezigheid van een ziekteverwekker.
-
-2. De maatregelen, bedoeld in het eerste lid, zijn:
-
-- a. een verplichting tot het reinigen en ontsmetten;
-
-- b. een verbod op toegang, betreden of verlaten;
-
-- c. een verbod op het vervoer, het verplaatsen en het bijeenbrengen van dieren, producten of voorwerpen naar, onderscheidenlijk vanuit en in ruimten, gebouwen, terreinen, gebieden of andere onroerende zaken;
-
-- d. een verbod op het verrichten van bepaalde handelingen en activiteiten in, op of nabij ruimten, gebouwen, terreinen, gebieden of andere onroerende zaken, en
-
-- e. een verplichting tot het plaatsen van materialen ter voorkoming of bestrijding van besmettelijke dierziekten of zoönosen of ter wering van ziekteverwekkers.
-
-3. De andere handelingen, bedoeld in het eerste lid, zijn:
-
-- a. het plaatsen van waarschuwingsborden en borden ter vooraankondiging;
-
-- b. het aanbrengen van kentekenen bij gebouwen, ruimten, terreinen, gebieden en andere onroerende zaken;
-
-- c. het plaatsen van materialen ter voorkoming of bestrijding van besmettelijke dierziekten of zoönosen of ter wering van ziekteverwekkers, en
-
-- d. het reinigen en ontsmetten.
-
-##### Artikel 5.7. Afwijking andere regelgeving
-
-De op grond van deze paragraaf of [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01), getroffen maatregelen ter preventie of bestrijding van besmettelijke dierziekten, zoönosen of ziekteverschijnselen kunnen zo nodig afwijken van het overige bij en krachtens deze wet bepaalde, de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) en [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), in samenhang met [artikel 4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.31), [4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.32), [4.34](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.34), [4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.36) of [4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.38), [artikel 5.1, eerste lid, aanhef, onder f of g, tweede lid, aanhef en onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), wel dan niet in samenhang met [artikel 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), [5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.39) of [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.40), of [artikel 5.2, eerste of tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.2).
-
-##### Artikel 5.8. Medewerking burgemeesters
-
-1. Onze Minister stelt de burgemeester van de gemeente waar krachtens deze paragraaf of een EU-rechtshandeling als bedoeld in [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-01-01&g=2025-01-01), een maatregel is getroffen, hiervan onverwijld in kennis.
-
-2. De burgemeester van de betrokken gemeente verleent zijn medewerking bij het plaatsen en het weer verwijderen van waarschuwingsborden en kentekenen.
-
-##### Artikel 5.9. Bevoegdheden ten behoeve van onderzoek
-
-1. Met het verrichten van onderzoek naar de aanwezigheid van ziekteverwekkers, dierziekten, zoönosen en ziekteverschijnselen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en personen.
-
-2. [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=8&paragraaf=1&artikel=8.2&z=2025-01-01&g=2025-01-01) en de [artikelen 5:13 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde ambtenaren en personen.
-
-#### § 3. Bestuurlijke maatregelen
-
-### Hoofdstuk 6. Uitvoering EU-rechtshandelingen
-
-### Hoofdstuk 8. Handhaving
-
-#### § 2. Herstelmaatregelen
-
-#### § 2. Herstelmaatregelen
-
-#### § 4. Strafrechtelijke handhaving
-
-#### § 5. Veterinair tuchtrecht
-
-### Hoofdstuk 9. Financiën
-
-#### § 1. Retributies
-
-#### § 1. Retributies
 
 ##### Artikel 9.2. Algemeen
 
@@ -2563,7 +2220,7 @@ Een tegemoetkoming in de schade veroorzaakt door de toepassing van maatregelen a
 
 Voor de toepassing van het bij en krachtens deze paragraaf bepaalde wordt verstaan onder:
 
-- **vaccinbroedei:** ei, afkomstig van pluimvee, dat zich in een broedmachine bevindt om te worden afgeleverd aan de farmaceutische industrie, dan wel bestemd is om voor dit doel in een broedmachine te worden gelegd.
+- *vaccinbroedei:* ei, afkomstig van pluimvee, dat zich in een broedmachine bevindt om te worden afgeleverd aan de farmaceutische industrie, dan wel bestemd is om voor dit doel in een broedmachine te worden gelegd.
 
 ##### Artikel 9.14. Doel diergezondheidsheffing
 
@@ -2649,7 +2306,7 @@ De in [artikel 9.19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Bij algemene maatregel van bestuur wordt bepaald tot welk bedrag de uitgaven van het Diergezondheidsfonds die, in een bij die maatregel te bepalen periode van vijf kalenderjaren, zijn gedaan ten behoeve van een bepaalde diersoort of combinatie van diersoorten ten hoogste door middel van heffingen worden opgebracht.
 
-2. De vaststelling voor de eerste maal van een algemene maatregel van bestuur als bedoeld in het eerste lid heeft betrekking op de periode 1 januari 2020 tot en met 31 december 2024.
+2. De vaststelling voor de eerste maal van een algemene maatregel van bestuur als bedoeld in het eerste lid heeft betrekking op de periode 1 januari 2020 tot en met 31 december 2024.
 
 ##### Artikel 9.23. Berekening tarief houden van dieren
 
@@ -2677,7 +2334,7 @@ De in [artikel 9.19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:B
 
 5. Bij de vaststelling van een tarief ten behoeve van de invoering van de diergezondheidsheffing voor een andere diersoort als bedoeld in de [artikel 9.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&artikel=9.15&z=2025-01-01&g=2025-01-01), en [artikel 9.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&artikel=9.16&z=2025-01-01&g=2025-01-01), dan wel een andere handeling of een ander dierlijk product als bedoeld in [artikel 9.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&artikel=9.19&z=2025-01-01&g=2025-01-01), en bij de wijziging van een dergelijk tarief, worden bij de toepassing van het eerste lid, onderdeel c, slechts de uitgaven in aanmerking genomen die zijn gedaan na de datum van de invoering van de desbetreffende heffing.
 
-6. In afwijking van het eerste lid, onderdeel c, worden alleen uitgaven van het Diergezondheidsfonds, die zijn gedaan na 1 januari 2015, en voor zover die niet gedekt zijn door ontvangsten als bedoeld in [artikel 9.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=2&artikel=9.3&z=2025-01-01&g=2025-01-01), in aanmerking genomen.
+6. In afwijking van het eerste lid, onderdeel c, worden alleen uitgaven van het Diergezondheidsfonds, die zijn gedaan na 1 januari 2015, en voor zover die niet gedekt zijn door ontvangsten als bedoeld in [artikel 9.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=2&artikel=9.3&z=2025-01-01&g=2025-01-01), in aanmerking genomen.
 
 ##### Artikel 9.24. Berekening tarief overige handelingen
 
@@ -2691,7 +2348,7 @@ De in [artikel 9.19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:B
 
 2. De in het eerste lid bedoelde tarieven worden per kalenderjaar vastgesteld.
 
-3. De bekendmaking van de tarieven geschiedt uiterlijk 31 december voorafgaand aan het kalenderjaar waarvoor de tarieven worden vastgesteld door publicatie van de in het eerste lid bedoelde maatregel in het Staatsblad.
+3. De bekendmaking van de tarieven geschiedt uiterlijk 31 december voorafgaand aan het kalenderjaar waarvoor de tarieven worden vastgesteld door publicatie van de in het eerste lid bedoelde maatregel in het Staatsblad.
 
 4. Indien niet uiterlijk op het in het derde lid bedoelde tijdstip een nieuw tarief voor een diersoort, een diercategorie, een product of een handeling is bekendgemaakt, blijft het tarief zoals dat gold op dat tijdstip, van toepassing.
 
@@ -2725,13 +2382,13 @@ Na het tot stand komen van een krachtens de [artikelen 9.15, tweede lid](https:/
 
 De tarieven voor de diergezondheidsheffing voor de jaren 2018 en 2019 voor de diersoorten runderen, varkens, kippen, kalkoenen, eenden, schapen en geiten worden, zo nodig in afwijking van [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&artikel=9.23&z=2025-01-01&g=2025-01-01), zodanig vastgesteld dat de totale opbrengst van de diergezondheidsheffing en de bijdragen van de sectorpartijen, bedoeld in artikel 2 van het Convenant financiering bestrijding besmettelijke dierziekten 2015–2019 (Stcrt. 2015, 13794), gerekend over de jaren 2015 tot en met 2019, niet meer bedraagt dan:
 
-- a. voor runderen: € 23.540.000;
+- a. voor runderen: € 23.540.000;
 
-- b. voor varkens: € 53.447.000, waarvan ten hoogste € 30.000.000 ten behoeve van de bewaking en bestrijding van Afrikaanse varkenspest, en Swine Vesicular Disease;
+- b. voor varkens: € 53.447.000, waarvan ten hoogste € 30.000.000 ten behoeve van de bewaking en bestrijding van Afrikaanse varkenspest, en Swine Vesicular Disease;
 
-- c. voor kippen, kalkoenen en eenden: € 47.138.000, waarvan ten hoogste € 2.113.000 ten behoeve van de bewaking en bestrijding van Newcastle Disease;
+- c. voor kippen, kalkoenen en eenden: € 47.138.000, waarvan ten hoogste € 2.113.000 ten behoeve van de bewaking en bestrijding van Newcastle Disease;
 
-- d. voor schapen en geiten: € 5.074.000.
+- d. voor schapen en geiten: € 5.074.000.
 
 ##### Artikel 9.29. Toepassing plafondbedragen met ingang van 2020
 
@@ -2739,158 +2396,174 @@ Indien in de jaren 2015 tot en met 2019 ten laste van het Diergezondheidsfonds u
 
 ### Hoofdstuk 10. Overig
 
+##### Artikel 10.1. Vrijstelling en ontheffing
+
+1. Onze Minister kan, in voorkomend geval met inachtneming van EU-rechtshandelingen en voor zover het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren of het belang van het milieu zich daartegen niet verzetten, van het bepaalde bij of krachtens deze wet vrijstelling of ontheffing verlenen.
+
+2. Ingeval de vrijstelling of ontheffing betrekking heeft op een bepaling die geheel of mede strekt tot bescherming van de volksgezondheid, wordt zij in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport verleend.
+
+3. In afwijking van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.1&z=2025-01-01&g=2025-01-01) zijn de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.3&z=2025-01-01&g=2025-01-01), [7.4, eerste lid, tweede lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.4&z=2025-01-01&g=2025-01-01), [7.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.5&z=2025-01-01&g=2025-01-01), [7.6, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.6&z=2025-01-01&g=2025-01-01), [7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.8&z=2025-01-01&g=2025-01-01), en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=7&artikel=7.9&z=2025-01-01&g=2025-01-01) niet van toepassing ten aanzien van het verlenen van een vrijstelling of ontheffing als bedoeld in het eerste lid.
+
+4. Indien Onze Minister voornemens is een vrijstelling te verlenen van het bepaalde in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01), wordt het ontwerp van de vrijstelling in de Staatscourant bekend gemaakt en aan een ieder de gelegenheid geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp van de vrijstelling aan beide kamers der Staten-Generaal overgelegd en medegedeeld aan direct belanghebbenden.
+
+5. Een vrijstelling als bedoeld in het eerste lid kan, onverminderd de bevoegdheid van Onze Minister, bij algemene maatregel van bestuur worden verleend.
+
+##### Artikel 10.2. Regels over onderzoeken, controles, toezicht op de naleving en handhaving
+
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot onderzoeken, controles, toezicht op de naleving en handhaving, waaronder:
+
+- a. de wijze waarop het onderzoek plaatsvindt;
+
+- b. het aanwijzen van ambtenaren of personen die het onderzoek verrichten, en
+
+- c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.
+
+2. Bij algemene maatregel van bestuur kunnen voor de toepassing van [hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&z=2025-01-01&g=2025-01-01), en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&z=2025-01-01&g=2025-01-01) de [artikelen 8 tot en met 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8) of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van [artikel 13 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) is onverminderd [artikel 18, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=18).
+
+##### Artikel 10.3
+
+*Vervallen*
+
+##### Artikel 10.4. Medebewind
+
+*Vervallen*
+
+##### Artikel 10.5. Onverwijlde voorzieningen
+
+1. Indien in het belang van de gezondheid van mens of dier of het welzijn van het dier naar het oordeel van Onze Minister een onverwijlde voorziening noodzakelijk is, kan hij in de onderwerpen die op grond van deze wet bij algemene maatregel van bestuur worden bepaald, bij regeling voorzien.
+
+2. De regeling vervalt een jaar nadat zij in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het moment waarop de maatregel in werking treedt. De termijn kan door Onze Minister eenmaal met ten hoogste een jaar worden verlengd.
+
+##### Artikel 10.6. Wet op de dierproeven
+
+1. Deze wet treedt niet in hetgeen bij of krachtens de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081) is bepaald, met dien verstande dat onverminderd van kracht blijft hetgeen is bepaald bij of krachtens de [artikelen 2.2, eerste tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01) en [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.23&z=2025-01-01&g=2025-01-01).
+
+2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081), voor zover laatstgenoemde wet op deze handelingen van toepassing is, niet aangemerkt als het verrichten van diergeneeskundige handelingen.
+
+##### Artikel 10.7. Visserijwet 1963
+
+In hetgeen is voorzien bij of krachtens de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), wordt niet voorzien krachtens deze wet.
+
+##### Artikel 10.8. Raad voor dierenaangelegenheden
+
+1. Er is een Raad voor dierenaangelegenheden waarin overleg plaatsvindt over vraagstukken betreffende het nationaal en internationaal beleid op het gebied van de gezondheid van dieren en het welzijn van dieren.
+
+2. Onze Minister benoemt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport de leden van de Raad.
+
+3. Bij algemene maatregel van bestuur worden regels gesteld over de samenstelling en de werkwijze van de Raad.
+
+##### Artikel 10.9. Betrokkenheid van andere ministers bij de totstandkoming van algemene maatregelen van bestuur
+
+Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in de [artikelen 2.18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18&z=2025-01-01&g=2025-01-01), [2.20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.20&z=2025-01-01&g=2025-01-01), en [2.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=3&artikel=2.22&z=2025-01-01&g=2025-01-01), wordt Ons gedaan door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport en na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid.
+
+##### Artikel 10.10. Voorhangprocedure
+
+1. De voordracht voor een krachtens de [artikelen 2.1, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2025-01-01&g=2025-01-01), [2.2, tweede, derde, zevende, tiende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01), [2.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-01-01&g=2025-01-01), [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2025-01-01&g=2025-01-01), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-01-01&g=2025-01-01), [2.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2025-01-01&g=2025-01-01), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.8, tweede lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.10&z=2025-01-01&g=2025-01-01), [2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.16&z=2025-01-01&g=2025-01-01), en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2025-01-01&g=2025-01-01) vast te stellen algemene maatregel van bestuur voor zover het betreft een voordracht voor een maatregel mede met of met het oog op de bescherming van het welzijn van dieren, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.
+
+2. Een ministeriële regeling als bedoeld in [artikel 2.18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=2&artikel=2.18a&z=2025-01-01&g=2025-01-01), of [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2025-01-01&g=2025-01-01), wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd, tenzij binnen deze termijn door of namens een van de Kamers of ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers nadere inlichtingen worden gevraagd. De ministeriële regeling kan niet eerder worden vastgesteld dan nadat de Kamer die de nadere inlichtingen heeft gevraagd, heeft vastgesteld dat deze genoegzaam zijn verstrekt.
+
+3. De voordracht voor een krachtens [artikel 2.3a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.3a&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Deze overlegging vindt niet later plaats dan één jaar na de inwerkingtreding van de Wet van 29 mei 2024 houdende wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen (*Stb.* 2024, 160).
+
+##### Artikel 10.11. Evaluatiebepaling
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+
 ### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
 
 #### § 1. Overgangsrecht
 
-#### § 1. Overgangsrecht
+##### Artikel 11.1. Overgangsrecht
+
+1. Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662), de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764), de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818), de [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351), de [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730) of, voor zover zij betrekking hebben op onderwerpen waarop deze wet van toepassing is, krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) of de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), die gelden op het tijdstip van inwerkingtreding van deze wet, worden geacht te zijn genomen op grond van deze wet, onder dezelfde voorschriften, beperkingen en voorwaarden. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot voorschriften, beperkingen en voorwaarden voor zover de uitvoering van bindende onderdelen van EU-rechtshandelingen dit vereist.
+
+2. Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662), de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764), de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818), de [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351), de [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730) of, voor zover zij betrekking hebben op onderwerpen waarop deze wet van toepassing is, krachtens de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) of de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), worden geacht te zijn gedaan op grond van deze wet. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot voorschriften, beperkingen en voorwaarden voorzover de uitvoering van bindende onderdelen van EU-rechtshandelingen dit vereist.
+
+3. Ten aanzien van besluiten als bedoeld in het eerste lid doet Onze Minister per soort, onderverdeeld naar de bepaling of bepalingen waarop de besluiten berustten, mededeling in de Staatscourant van de bepaling of bepalingen waarop zij vanaf het moment van inwerkingtreding van de wet worden geacht te berusten.
+
+4. De op het tijdstip van inwerkingtreding van deze wet aanhangige aanvragen, verzoeken tot het nemen van een besluit als bedoeld in het eerste lid, zijn aanhangig in de staat, waarin zij zich op dat moment bevinden en worden vanaf het tijdstip van inwerkingtreding van deze wet overeenkomstig het bepaalde bij en krachtens deze wet behandeld.
+
+5. De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaarschriften die betrekking hebben op het nemen van een besluit als bedoeld in het eerste lid, zijn aanhangig in de staat, waarin zij zich op dat moment bevinden en worden overeenkomstig de desbetreffende bepalingen van de wetten, bedoeld in het eerste lid, behandeld en beslist.
+
+6. De op het tijdstip van inwerkingtreding van deze wet bij het College van Beroep voor het bedrijfsleven aanhangige zaken die betrekking hebben op het nemen van een besluit als bedoeld in het eerste lid, worden overeenkomstig de desbetreffende bepalingen van de wetten, bedoeld in het eerste lid, behandeld en beslist.
+
+7. Dierenartsen die op het tijdstip van inwerkingtreding van deze wet zijn ingeschreven in het register van praktizerende dierenartsen, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=10), worden geacht te zijn ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
+
+8. [Artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5&paragraaf=3&artikel=5.13&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing op dieren die in strijd met [artikel 73 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=73), zoals dat luidde bij inwerkingtreding van deze wet, zijn gefokt.
+
+##### Artikel 11.2. Overgangsrecht diergezondheidsheffing
+
+In afwijking van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=11&paragraaf=1&artikel=11.1&z=2025-01-01&g=2025-01-01) is op besluiten met betrekking tot de diergezondheidsheffing, genomen op of na 1 januari 2018 maar voor het tijdstip van inwerkingtreding van [paragraaf 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=9&paragraaf=4&z=2025-01-01&g=2025-01-01), het recht zoals dat gold onmiddellijk voorafgaand aan laatstbedoeld tijdstip van toepassing.
+
+##### Artikel 11.3. Wijziging Flora- en faunawet
+
+*Vervallen*
+
+##### Artikel 11.4. Wijziging Gezondheids- en welzijnswet voor dieren
+
+*Vervallen*
+
+##### Artikel 11.5. Wijziging Landbouwkwaliteitswet
+
+*Vervallen*
+
+##### Artikel 11.6. Wijziging Visserijwet 1963
+
+*Vervallen*
+
+##### Artikel 11.7. Wijziging Wet milieubeheer
+
+*Vervallen*
+
+##### Artikel 11.8. Wijziging Wet op de economische delicten
+
+*Vervallen*
 
 ##### Artikel 11.9
 
-Vervallen
-
-##### Artikel 11.9
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 11.9
-
-Vervallen
+*Vervallen*
 
 ##### Artikel 11.10
 
-Vervallen
+*Vervallen*
+
+##### Artikel 11.11. Wijziging Wet op de omzetbelasting 1968
+
+*Vervallen*
+
+##### Artikel 11.12. Wijziging Wetboek van Strafvordering
+
+*Vervallen*
+
+##### Artikel 11.13
+
+*Vervallen*
+
+##### Artikel 11.14. Overgangsrecht inwerkingtreding wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten
+
+*Wijzigt deze wet.*
+
+*Dit onderdeel is nog niet inwerking getreden*
 
 ### Hoofdstuk 12. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 12.1. Intrekking wetten
 
-##### Artikel 5.10a. Houders van dieren
+De volgende wetten worden ingetrokken:
 
-1. Onze Minister kan maatregelen treffen met betrekking tot houders van dieren ter bevordering van de kennis van de houder wanneer door die houder niet is voldaan aan het bepaalde bij of krachtens deze wet.
+- a. [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764);
 
-2. De maatregelen, bedoeld in het eerste lid, kunnen een verplichting inhouden tot het volgen van een cursus of training.
+- b. [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818);
 
-### Hoofdstuk 6. Uitvoering EU-rechtshandelingen
+- c. [Wet op de dierenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0002351);
 
-### Hoofdstuk 7. Vergunningen, erkenningen, toestemmingen, toelatingen, registraties, meldingen en registers
+- d. [Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730);
 
-### Hoofdstuk 8. Handhaving
+- e. de [wet van 9 juli 2007, houdende wijziging van de Wet op de uitoefening van de diergeneeskunde 1990 (verhoging maximaal bedrag tuchtrechtelijke boete en wijziging samenstellingseisen van tuchtcolleges ter zitting)](https://wetten.overheid.nl/jci1.3:c:BWBR0022416) (Stb. 285).
 
-#### § 4. Strafrechtelijke handhaving
+##### Artikel 12.2. Inwerkingtreding
 
-##### Artikel 8.11a. Strafrechtelijke vrijheidsbeperkende maatregel
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-1. Ter beveiliging van de maatschappij, ter bescherming van de goede zeden of ter voorkoming van strafbare feiten die de gezondheid of het welzijn van een of meer dieren benadelen, kan een maatregel strekkende tot beperking van de vrijheid worden opgelegd bij de rechterlijke uitspraak:
+##### Artikel 12.3. Citeertitel
 
-- a. waarbij iemand wegens een strafbaar feit wordt veroordeeld;
-
-- b. waarbij overeenkomstig [artikel 9a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a) wordt bepaald dat geen straf zal worden opgelegd.
-
-2. De maatregel kan inhouden dat de verdachte wordt bevolen:
-
-- a. geen of minder dieren, dan wel bepaalde diersoorten niet, te houden,
-
-- b. zich niet op te houden in een bepaald gebied.
-
-3. De maatregel kan voor de duur van het leven of voor een periode van ten hoogste dertig jaren worden opgelegd.
-
-4. De rechter kan bij zijn uitspraak, ambtshalve of op vordering van de officier van justitie, bevelen dat de maatregel dadelijk uitvoerbaar is indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een strafbaar feit zal begaan dat de gezondheid of het welzijn van een of meer dieren benadeelt.
-
-5. Het bevel, bedoeld in het vierde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.
-
-6. De maatregel kan tezamen met straffen en andere maatregelen worden opgelegd.
-
-#### § 5. Veterinair tuchtrecht
-
-#### § 7. Overig
-
-### Hoofdstuk 9. Financiën
-
-#### § 2. Diergezondheidsfonds
-
-#### § 4. Diergezondheidsheffing
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-##### Artikel 2.3a. Dierwaardige veehouderij
-
-1. Op grond van de[artikelen 2.2, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-01-01&g=2025-01-01) in samenhang met het tiende lid, en [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=1&paragraaf=1&artikel=1.3&z=2025-01-01&g=2025-01-01), worden bij algemene maatregel van bestuur in ieder geval regels gesteld die gericht zijn op het bewerkstelligen van een dierwaardige wijze van houden van dieren die bedrijfsmatig worden gehouden met het oog op de productie van dierlijke producten.
-
-2. Onder een dierwaardige wijze van houden van dieren die bedrijfsmatig worden gehouden met het oog op de productie van dierlijke producten wordt een veehouderij verstaan waarin ten aanzien van de behoeften van dieren, voor zover zulks redelijkerwijs kan worden verlangd, wordt voorzien in:
-
-- a. respect voor de intrinsieke waarde en integriteit van het dier, waaronder in ieder geval verstaan wordt dat geen routinematige ingrepen worden uitgevoerd op basis van voldoende maatregelen gericht op het minimaliseren van risicofactoren;
-
-- b. goede voeding, inhoudende een wijze van voer- en waterverstrekking die aansluit bij de gedragsbehoeften van de soort, waarbij geen voer- en waterbeperking wordt opgelegd en variatie in voeding wordt geboden aansluitend bij gedragsbehoeften;
-
-- c. goede omgeving, inhoudende een stalconcept waarin dieren van alle leeftijden de keuzevrijheid en ruimte hebben om soorteigen gedrag uit te voeren, inhoudende geen kooihuisvesting, voldoende thermisch comfort en keuzevrijheid;
-
-- d. goede gezondheid, inhoudende een stalconcept en management dat het risico op veel voorkomende gezondheidsproblemen minimaliseert, waartoe in ieder geval voorzien wordt in geschikte vloeren en ondergrond;
-
-- e. natuurlijk gedrag, inhoudende een stalconcept dat voorziet in de gedragsbehoeften van de soort, onder andere voor wat betreft sociaal gedrag, zelfverzorgend gedrag, foerageergedrag, territoriaal gedrag, maternaal gedrag en rustgedrag;
-
-3. Bij of krachtens algemene maatregel van bestuur worden voor de op grond van [artikel 2.8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=2&paragraaf=1&artikel=2.8&z=2025-01-01&g=2025-01-01), aangewezen lichamelijke ingrepen met het oog op een dierwaardige wijze van houden van de in het eerste lid bedoelde dieren regels gesteld over het vervallen van die aangewezen ingrepen, voor zover de ingreep geen diergeneeskundige noodzaak heeft en voor zover het verrichten van de ingreep niet dwingend voortvloeit uit bindende onderdelen van EU-rechtshandelingen.
-
-4. De krachtens het eerste en derde lid vast te stellen regels zijn gericht op het uiterlijk in 2040 bewerkstelligen van een dierwaardige wijze van het houden van dieren, tenzij en voor zover noodzakelijk voor bepaalde situaties bij die in het eerste lid bedoelde algemene maatregel van bestuur een langere termijn wordt gesteld met het oog op een redelijke overgangstermijn gericht op het door houders van dieren kunnen terugverdienen van investeringen die noodzakelijk zijn om aan die regels te voldoen.
-
-#### § 2. Regels over diervoeders
-
-#### § 3. Regels over diergeneesmiddelen
-
-#### § 4. Biotechnologie
-
-#### § 5. Overig
-
-### Hoofdstuk 3. Dierlijke producten
-
-#### § 1. Algemene regels over dierlijke producten
-
-#### § 2. Aanvullende regels over dierlijke bijproducten
-
-#### § 3. Aanvullende regels over dierlijke producten in relatie tot het milieu
-
-### Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
-
-### Hoofdstuk 5. Maatregelen
-
-#### § 3. Bestuurlijke maatregelen
-
-### Hoofdstuk 6. Uitvoering EU-rechtshandelingen
-
-### Hoofdstuk 7. Vergunningen, erkenningen, toestemmingen, toelatingen, registraties, meldingen en registers
-
-### Hoofdstuk 8. Handhaving
-
-#### § 4. Strafrechtelijke handhaving
-
-#### § 5. Veterinair tuchtrecht
-
-#### § 7. Overig
-
-### Hoofdstuk 9. Financiën
-
-#### § 1. Retributies
-
-#### § 2. Diergezondheidsfonds
-
-#### § 4. Diergezondheidsheffing
-
-### Hoofdstuk 10. Overig
-
-### Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
-
-#### § 1. Overgangsrecht
-
-##### Artikel 11.10
-
-Vervallen
-
-### Hoofdstuk 12. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Deze wet wordt aangehaald als: Wet dieren.

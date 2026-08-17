@@ -1,43 +1,17 @@
 ---
 title: "Regeling erkenning werkplaatsen boordcomputer taxi"
 identifier: "BWBR0030525"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030525"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11464293"
-version_id: "18846062"
-internal_id: "C26301701"
-label_id: "11437964"
-dtd_version: "2.0"
-original_entry_into_force: "2011-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030525/2020-01-01/0"
-intitule_bron: "Stcrt.2011-18616"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-10-10"
-intitule_published: "2011-10-14"
-intitule_in_force: "2011-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-18616"
-original_signed_date: "2011-10-10"
-original_published_date: "2011-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-18616"
-entry_into_force_date: "2011-10-16"
-jci_1_3: "jci1.3:c:BWBR0030525&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0030525&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2011-10-10"
-entry_into_force: "2011-10-16"
+publicatiedatum: 2011-10-16
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0030525"
+opgehaald: 2026-08-17
 ---
+
 # Regeling erkenning werkplaatsen boordcomputer taxi
-
-Gelet op [artikel 79, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79), en [artikel 83, eerste, zesde en achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -45,21 +19,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **activering:** activering als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945);
+- *activering:* activering als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945);
 
-- **erkenning:** erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79);
+- *erkenning:* erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79);
 
-- **erkenninghouder:** houder van een bewijs als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01);
+- *erkenninghouder:* houder van een bewijs als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01);
 
-- **fabrikant:** houder van een geldige typegoedkeuring als bedoeld in [artikel 32, eerste lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=32);
+- *fabrikant:* houder van een geldige typegoedkeuring als bedoeld in [artikel 32, eerste lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=32);
 
-- **inrichting:** bedrijf of bedrijven waarin een erkenninghouder van een mobiele activeringseenheid werkzaamheden als bedoeld in deze regeling verricht;
+- *inrichting:* bedrijf of bedrijven waarin een erkenninghouder van een mobiele activeringseenheid werkzaamheden als bedoeld in deze regeling verricht;
 
-- **mobiele activeringseenheid:** voertuig van de voertuigcategorie M of N, niet zijnde een taxi, als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) waarmee een erkenninghouder afwisselend, al dan niet in verscheidene inrichtingen, werkzaamheden als bedoeld in deze regeling mag verrichten;
+- *mobiele activeringseenheid:* voertuig van de voertuigcategorie M of N, niet zijnde een taxi, als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) waarmee een erkenninghouder afwisselend, al dan niet in verscheidene inrichtingen, werkzaamheden als bedoeld in deze regeling mag verrichten;
 
-- **testen:** door de fabrikant uitgevoerde werkzaamheden ten behoeve van de voorbereiding van de afgifte van een typegoedkeuring en programmatuurrevisie als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945) en voor boordcomputers waarvoor een certificaat van onmogelijkheid van gegevensoverdracht is afgegeven;
+- *testen:* door de fabrikant uitgevoerde werkzaamheden ten behoeve van de voorbereiding van de afgifte van een typegoedkeuring en programmatuurrevisie als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945) en voor boordcomputers waarvoor een certificaat van onmogelijkheid van gegevensoverdracht is afgegeven;
 
-- **werkplaats:** één of meer besloten ruimten, waarin krachtens de erkenning werkzaamheden als bedoeld in deze regeling worden verricht.
+- *werkplaats:* één of meer besloten ruimten, waarin krachtens de erkenning werkzaamheden als bedoeld in deze regeling worden verricht.
 
 ### Hoofdstuk 2. Procedureregels
 
@@ -71,7 +45,7 @@ De aanvraag voor een erkenning wordt bij de Dienst Wegverkeer ingediend door mid
 
 ##### Artikel 3
 
-1. Een erkenning wordt verleend aan een natuurlijk persoon of rechtspersoon voor een of meer in Nederland gevestigde werkplaatsen of op naam van de aanvrager geregistreerde mobiele activeringseenheden die elk voldoen aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) gestelde eisen.
+1. Een erkenning wordt verleend aan een natuurlijk persoon of rechtspersoon voor een of meer in Nederland gevestigde werkplaatsen of op naam van de aanvrager geregistreerde mobiele activeringseenheden die elk voldoen aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) gestelde eisen.
 
 2. Een erkenning wordt ook verleend aan een fabrikant uitsluitend voor het testen.
 
@@ -103,7 +77,7 @@ De aanvraag voor een erkenning wordt bij de Dienst Wegverkeer ingediend door mid
 
 ##### Artikel 6
 
-1. Een erkenning wordt verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en beschikt over een werkplaats die:
+1. Een erkenning wordt verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en beschikt over een werkplaats die:
 
 - a. verwarmd, overdekt, behoorlijk af te sluiten en goed verlicht is;
 
@@ -111,15 +85,15 @@ De aanvraag voor een erkenning wordt bij de Dienst Wegverkeer ingediend door mid
 
 - c. voorzien is van:
 
-- 1°. een voor auto’s geschikte horizontale effen meetbaan van ten minste 20 meter lengte dan wel door de Dienst Wegverkeer geaccepteerde apparatuur voor het bepalen van het wegdraaigetal of de bandenomtrek;
+   - 1° een voor auto’s geschikte horizontale effen meetbaan van ten minste 20 meter lengte dan wel door de Dienst Wegverkeer geaccepteerde apparatuur voor het bepalen van het wegdraaigetal of de bandenomtrek;
 
-- 2°. een bandenpomp met bandenluchtdrukmeetapparatuur;
+   - 2° een bandenpomp met bandenluchtdrukmeetapparatuur;
 
-- 3°. gereedschappen, apparatuur, handboeken en documentatie die noodzakelijk zijn voor het verrichten van werkzaamheden aan een boordcomputer;
+   - 3° gereedschappen, apparatuur, handboeken en documentatie die noodzakelijk zijn voor het verrichten van werkzaamheden aan een boordcomputer;
 
-- 4°. een voorziening voor het door middel van datacommunicatie melden van de werkzaamheden die aan de boordcomputer zijn verricht, en die geschikt is voor de toegangsstructuur van een door de Dienst Wegverkeer geaccepteerd netwerk;
+   - 4° een voorziening voor het door middel van datacommunicatie melden van de werkzaamheden die aan de boordcomputer zijn verricht, en die geschikt is voor de toegangsstructuur van een door de Dienst Wegverkeer geaccepteerd netwerk;
 
-- 5°. een ruimte waar de administratie van de werkzaamheden aan boordcomputers kan worden uitgevoerd en een afsluitbare kast of een gelijkwaardige voorziening waarin waardepapieren en documentatie kunnen worden opgeborgen.
+   - 5° een ruimte waar de administratie van de werkzaamheden aan boordcomputers kan worden uitgevoerd en een afsluitbare kast of een gelijkwaardige voorziening waarin waardepapieren en documentatie kunnen worden opgeborgen.
 
 2. Het eerste lid, aanhef en onder c, is van overeenkomstige toepassing voor het verkrijgen van een erkenning voor een mobiele activeringseenheid.
 
@@ -151,9 +125,13 @@ De aanvraag voor een erkenning wordt bij de Dienst Wegverkeer ingediend door mid
 
 De erkenninghouder draagt er zorg voor dat:
 
-- a. de keuringskaart, bedoeld in [artikel 1 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=1), en de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01), niet toegankelijk zijn voor onbevoegden;
+- a. de keuringskaart, bedoeld in [artikel 1 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=1), en de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01), niet toegankelijk zijn voor onbevoegden;
 
 - b. de organisatie en inrichting van de werkplaats of de mobiele activeringseenheid, de daar aanwezige gereedschappen en apparatuur, de werkwijzen en controlemethoden en de kundigheid van het bij de werkzaamheden betrokken personeel, zodanig zijn dat een goede uitvoering van de werkzaamheden krachtens de erkenning is gewaarborgd.
+
+##### Artikel 9a
+
+Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&artikel=23k) bestaande verplichting wordt gevolg gegeven door de tellerstand van een motorrijtuig te verstrekken aan de Dienst Wegverkeer door middel van door deze Dienst goedgekeurde datacommunicatie-apparatuur, geschikt voor communicatie in een door deze Dienst geaccepteerd netwerk.
 
 #### § 2. Voorschriften betreffende werkzaamheden aan de boordcomputer
 
@@ -177,7 +155,7 @@ De met het activeren en herstellen van de boordcomputer verband houdende werkzaa
 
 - b. de bandenmaat en de bandenspanning voldoen aan de door de fabrikant van de auto voorgeschreven waarden;
 
-- c. bij het meten van de voortbeweging van de auto is het meettraject ten minste 20 meter lang, dan wel vindt het meten plaats met behulp van alternatieve methoden die voor de Dienst Wegverkeer aanvaardbaar zijn.
+- c. bij het meten van de voortbeweging van de auto is het meettraject ten minste 20 meter lang, dan wel vindt het meten plaats met behulp van alternatieve methoden die voor de Dienst Wegverkeer aanvaardbaar zijn.
 
 ##### Artikel 13
 
@@ -191,7 +169,7 @@ Bij de activering worden de volgende handelingen verricht:
 
 ##### Artikel 14
 
-1. Bij de deactivering van de boordcomputer, als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945) worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, zesde lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=6).
+1. Bij de deactivering van de boordcomputer, als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945) worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, zesde lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=6).
 
 2. Na overbrenging van de gegevens, bedoeld in het eerste lid, worden die gegevens gewist, met uitzondering van de gegevens, bedoeld in [artikel 22, tweede lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=22).
 
@@ -203,7 +181,7 @@ Ingeval van storingen respectievelijk fouten als bedoeld in [artikel 26, eerste 
 
 Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, waarbij de keuringskaart in de boordcomputer aanwezig is, vastgesteld of deze naar behoren functioneert.
 
-#### § 3. Voorschriften betreffende het melden, opslaan, overdragen en bewaren van gegevens
+#### § 3. Voorschriften betreffende het opslaan, overdragen en bewaren van gegevens
 
 ##### Artikel 17
 
@@ -213,35 +191,35 @@ Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, wa
 
 - b. met betrekking tot de auto:
 
-- 1°. het kenteken en de laatste vier cijfers van het voertuigidentificatienummer;
+   - 1°. het kenteken en de laatste vier cijfers van het voertuigidentificatienummer;
 
-- 2°. de kilometerstand;
+   - 2°. de kilometerstand;
 
-- 3°. de effectieve omtrek van de wielbanden in millimeters;
+   - 3°. de effectieve omtrek van de wielbanden in millimeters;
 
-- 4°. de ongecorrigeerde kenmerkende coëfficiënt van de auto in impulsen per kilometer;
+   - 4°. de ongecorrigeerde kenmerkende coëfficiënt van de auto in impulsen per kilometer;
 
-- 5°. de bandenmaat;
+   - 5°. de bandenmaat;
 
 - c. met betrekking tot de activering:
 
-- 1°. de constante van de boordcomputer in impulsen per kilometer;
+   - 1°. de constante van de boordcomputer in impulsen per kilometer;
 
-- 2°. merk, type en serienummer van de boordcomputer;
+   - 2°. merk, type en serienummer van de boordcomputer;
 
-- 3°. de aanwezigheid van een koppeling met een taxameter;
+   - 3°. de aanwezigheid van een koppeling met een taxameter;
 
 - d. met betrekking tot de uitgevoerde werkzaamheden:
 
-- 1°. de datum, tijd;
+   - 1°. de datum, tijd;
 
-- 2°. een korte omschrijving van het uitgevoerde werk.
+   - 2°. een korte omschrijving van het uitgevoerde werk.
 
 2. De erkenninghouder neemt de door de Dienst Wegverkeer gegeven aanwijzingen met betrekking tot de levering van de in het eerste lid bedoelde gegevens in acht.
 
 ##### Artikel 18
 
-1. De erkenninghouder verstrekt aan de Dienst Wegverkeer op de door die dienst bepaalde wijze de gegevens ten behoeve van het unieke nummer van het certificaat van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 19, vijfde lid, van de Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=19).
+1. De erkenninghouder verstrekt aan de Dienst Wegverkeer op de door die dienst bepaalde wijze de gegevens ten behoeve van het unieke nummer van het certificaat van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 19, vijfde lid, van de Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=19).
 
 2. De Dienst Wegverkeer registreert deze gegevens en stelt deze aan de krachtens [artikel 8:1, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:1) aangewezen ambtenaren op hun verzoek ter beschikking.
 
@@ -275,11 +253,11 @@ De in dit hoofdstuk genoemde erkenningsvoorschriften zijn niet van toepassing op
 
 - a. daarom verzoekt;
 
-- b. niet meer voldoet aan de erkenningseisen, neergelegd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01).
+- b. niet meer voldoet aan de erkenningseisen, neergelegd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01).
 
 2. Een erkenning kan worden ingetrokken indien de erkenninghouder:
 
-- a. in strijd handelt met de erkenningsvoorschriften, neergelegd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&z=2020-01-01&g=2020-01-01)
+- a. in strijd handelt met de erkenningsvoorschriften, neergelegd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&z=2020-01-01&g=2020-01-01)
 
 - b. het aan het toezicht verbonden tarief als bedoeld in [artikel 12:2, derde lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=12:2) niet voldoet.
 
@@ -297,17 +275,17 @@ De in dit hoofdstuk genoemde erkenningsvoorschriften zijn niet van toepassing op
 
 Indien een reeds erkend bedrijf wordt voortgezet door een andere natuurlijke persoon of rechtspersoon, worden sancties, opgelegd ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=4&artikel=22&z=2020-01-01&g=2020-01-01), beschouwd als te zijn opgelegd aan deze natuurlijke persoon of rechtspersoon.
 
-### Hoofdstuk 5. Wijziging [Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974)
+### Hoofdstuk 5. Wijziging Regeling gebruik boordcomputer en boordcomputerkaarten
 
 ##### Artikel 25
 
-Wijzigt de Regeling gebruik boordcomputer en boordcomputerkaarten.
+*Wijzigt de Regeling gebruik boordcomputer en boordcomputerkaarten.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 26
 
-Wijzigt de Regeling vergoedingen documenten Wet personenvervoer 2000.
+*Wijzigt de Regeling vergoedingen documenten Wet personenvervoer 2000.*
 
 ##### Artikel 27
 
@@ -316,23 +294,3 @@ Deze regeling wordt aangehaald als: Regeling erkenning werkplaatsen boordcompute
 ##### Artikel 28
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2011.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&artikel=23k) bestaande verplichting wordt gevolg gegeven door de tellerstand van een motorrijtuig te verstrekken aan de Dienst Wegverkeer door middel van door deze Dienst goedgekeurde datacommunicatie-apparatuur, geschikt voor communicatie in een door deze Dienst geaccepteerd netwerk.
-
-#### § 2. Voorschriften betreffende werkzaamheden aan de boordcomputer
-
-#### § 3. Voorschriften betreffende het opslaan, overdragen en bewaren van gegevens
-
-#### § 4. Voorschriften betreffende toezicht door de Dienst Wegverkeer
-
-### Hoofdstuk 4. Wijziging, schorsing en intrekking van een erkenning
-
-### Hoofdstuk 5. Wijziging [Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974)
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
