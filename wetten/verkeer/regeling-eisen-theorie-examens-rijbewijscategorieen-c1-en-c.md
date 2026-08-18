@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21909, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën C1 en C (Regeling eisen theorie-examens rijbewijscategorieën C1 en C)"
+citeertitel: "Regeling eisen theorie-examens rijbewijscategorieën C1 en C"
 identifier: "BWBR0031429"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031429"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11703823"
-version_id: "28881222"
-internal_id: "C40887271"
-label_id: "11676534"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031429/2024-07-01/0"
-intitule_bron: "Stcrt.2012-6456"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-27"
-intitule_published: "2012-04-04"
-intitule_in_force: "2012-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23626"
-original_signed_date: "2022-09-06"
-original_published_date: "2022-09-13"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-23626"
-entry_into_force_date: "2022-09-14"
-jci_1_3: "jci1.3:c:BWBR0031429&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0031429&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen theorie-examens rijbewijscategorieën C1 en C"
-signed_date: "2022-09-06"
-entry_into_force: "2022-09-14"
+publicatiedatum: 2022-09-14
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0031429"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21909, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën C1 en C (Regeling eisen theorie-examens rijbewijscategorieën C1 en C)
-
-Gelet op [richtlijn nr. 2006/126/EG](32006L0126) van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, van de Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn) in werking treedt.
 
 #### § 1. Eisen theorie-examens rijbewijscategorie C1
 
@@ -48,7 +20,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, v
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde voorschriften, alsmede kennis van en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
-- a. van de [Wegenverkeerswet 1994](onbekend): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
+- a. van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
 
 - b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen, ter geleiding van het verkeer of ter informatie van de weggebruikers;
 
@@ -60,7 +32,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - f. van het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951): de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=17), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=22), [39 eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=39);
 
-- g. van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415): [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
+- g. van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415): [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
 ##### Artikel 2
 
@@ -136,15 +108,19 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis te bezitten van:
 
-- a. voorschriften inzake rij- en rusttijden zoals beschreven in Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
+- a. voorschriften inzake rij- en rusttijden zoals beschreven in Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
 
-- b. het gebruik van controleapparatuur zoals beschreven in Verordening (EU) nr. 165/2014 van het Europees Parlement en van de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU 2014, L 60);
+- b. het gebruik van controleapparatuur zoals beschreven in Verordening (EU) nr. 165/2014 van het Europees Parlement en van de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU 2014, L 60);
 
 - c. de voorzorgsmaatregelen die moeten worden genomen bij het verwisselen van wielen;
 
 - d. voorschriften inzake gewichten en afmetingen;
 
 - e. voorschriften inzake snelheidsbegrenzers.
+
+##### Artikel 5a
+
+*Vervallen*
 
 #### § 2. Eisen theorie-examen rijbewijscategorie C
 
@@ -178,9 +154,9 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
-#### § 3. Overige bepalingen
+#### § 3. Vaststelling toetsmatrijzen
 
 ##### Artikel 8
 
@@ -188,24 +164,10 @@ De eisen, bedoeld in de [artikelen 1 tot en met 6](https://wetten.overheid.nl/jc
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
+
+#### § 4. Citeertitel
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën C1 en C.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Vervallen
-
-#### § 2. Eisen theorie-examen rijbewijscategorie C
-
-#### § 3. Vaststelling toetsmatrijzen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. Citeertitel
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

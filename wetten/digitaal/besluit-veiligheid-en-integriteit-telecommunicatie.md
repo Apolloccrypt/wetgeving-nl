@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0042843"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Besluit van 28 november 2019, houdende nadere regels betreffende de veiligheid en integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit veiligheid en integriteit telecommunicatie)

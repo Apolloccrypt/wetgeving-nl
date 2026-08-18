@@ -1,45 +1,25 @@
 ---
 title: "Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen"
 identifier: "BWBR0031579"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2012-04-16"
-last_updated: "2012-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031579"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11737483"
-version_id: "19393222"
-internal_id: "C27132991"
-label_id: "11710014"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031579/2012-04-16/0"
-intitule_bron: "Stcrt.2012-10195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-16"
-intitule_published: "2012-05-24"
-intitule_in_force: "2012-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-10195"
-original_signed_date: "2012-04-16"
-original_published_date: "2012-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-10195"
-entry_into_force_date: "2012-04-16"
-jci_1_3: "jci1.3:c:BWBR0031579&z=2012-04-16&g=2012-04-16"
-jci_1_0: "1.0:c:BWBR0031579&g=2012-04-16"
-citeertitel_status: "officieel"
-signed_date: "2012-04-16"
-entry_into_force: "2012-04-16"
+publicatiedatum: 2012-04-16
+laatste_update: 2012-04-16
+status: geldig
+toestand: 2012-04-16
+bron: "https://wetten.overheid.nl/BWBR0031579"
+opgehaald: 2026-08-18
 ---
+
 # Memorandum van Overeenstemming tussen Zweden en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
 De staatssecretaris van Financiën maakt het volgende bekend.
 
-**Dit besluit bevat een bekendmaking van het in april 2012 tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming over de uitwisseling van inlichtingen op het gebied van de directe belastingen. Het Memorandum vervangt het in 2004 gesloten Memorandum van Overeenstemming tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van de directe belastingen (** **Staatscourant 26 oktober 2004, 209** **), dat met het nieuwe Memorandum wordt ingetrokken.**
+*Dit besluit bevat een bekendmaking van het in april 2012 tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland gesloten Memorandum van Overeenstemming over de uitwisseling van inlichtingen op het gebied van de directe belastingen. Het Memorandum vervangt het in 2004 gesloten Memorandum van Overeenstemming tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van de directe belastingen (*
+ *Staatscourant 26 oktober 2004, 209*
+ *), dat met het nieuwe Memorandum wordt ingetrokken.*
 
-**Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, dividenden, royalty’s, inkomsten uit zelfstandige arbeid, inkomsten uit lonen, salarissen en andere soortgelijke beloningen, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, lijfrenten, sociale zekerheidsuitkeringen en wijzigingen in de identificatiegegevens. Daarnaast bevat het Memorandum bepalingen over tijdelijke automatische inlichtingenuitwisseling bij bijvoorbeeld incidentele doelgroepacties, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.**
+*Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, dividenden, royalty’s, inkomsten uit zelfstandige arbeid, inkomsten uit lonen, salarissen en andere soortgelijke beloningen, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, lijfrenten, sociale zekerheidsuitkeringen en wijzigingen in de identificatiegegevens. Daarnaast bevat het Memorandum bepalingen over tijdelijke automatische inlichtingenuitwisseling bij bijvoorbeeld incidentele doelgroepacties, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.*
 
 ### Memorandum van Overeenstemming tussen het Zweedse Belasting Agentschap en het Directoraat-generaal Belastingdienst van Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
@@ -73,23 +53,23 @@ De Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 1. De bevoegde autoriteiten van Zweden en Nederland verstrekken elkaar – indien beschikbaar – automatisch inlichtingen met betrekking tot:
 
-- a). Onroerende zaken (OESO code 6); voor Nederland: bezit en waarde van onroerende zaken. voor Zweden: bezit, waarde en verkoopprijs van onroerende zaken.
+- a) Onroerende zaken (OESO code 6); voor Nederland: bezit en waarde van onroerende zaken. voor Zweden: bezit, waarde en verkoopprijs van onroerende zaken.
 
-- b). Dividenden (OESO code 10, geen verplichting voor Nederland);
+- b) Dividenden (OESO code 10, geen verplichting voor Nederland);
 
-- c). Royalty’s (OESO code 12, geen verplichting voor Nederland);
+- c) Royalty’s (OESO code 12, geen verplichting voor Nederland);
 
-- d). Inkomsten uit zelfstandige arbeid (OESO code 14)
+- d) Inkomsten uit zelfstandige arbeid (OESO code 14)
 
-- e). Inkomsten uit lonen, salarissen en soortgelijke beloningen (OESO codes 15, 19 en 21)
+- e) Inkomsten uit lonen, salarissen en soortgelijke beloningen (OESO codes 15, 19 en 21)
 
-- f). Directeursbeloningen (OESO code 16);
+- f) Directeursbeloningen (OESO code 16);
 
-- g). Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
+- g) Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
 
-- h). Inkomsten uit pensioenen, lijfrenten, sociale zekerheidsuitkeringen en soortgelijke beloningen (OESO codes 18 en 19);
+- h) Inkomsten uit pensioenen, lijfrenten, sociale zekerheidsuitkeringen en soortgelijke beloningen (OESO codes 18 en 19);
 
-- i). Wijzigingen in de identificatiegegevens, zoals het adres (met inbegrip van de zetel of het hoofdkantoor van lichamen), wanneer een persoon van een van de Staten naar de andere Staat verhuist (geen verplichting voor Zweden).
+- i) Wijzigingen in de identificatiegegevens, zoals het adres (met inbegrip van de zetel of het hoofdkantoor van lichamen), wanneer een persoon van een van de Staten naar de andere Staat verhuist (geen verplichting voor Zweden).
 
 2. De in het eerste lid bedoelde inlichtingen worden periodiek verstrekt en ten minste eenmaal per kalenderjaar. Inlichtingen met betrekking tot een bepaald kalenderjaar worden zo mogelijk onmiddellijk verstrekt en in ieder geval binnen zes maanden na het einde van het kalenderjaar waarop deze inlichtingen betrekking hebben.
 
@@ -149,4 +129,4 @@ Dit Memorandum zal vijf jaar na de datum van inwerkingtreding worden geëvalueer
 
 Ondertekend in tweevoud in de Engelse taal.
 
-**Stockholm, 16 april 2012**
+*Stockholm, 16 april 2012*

@@ -1,68 +1,36 @@
 ---
 title: "Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoor de politie en de rijksrecherche, met inachtneming van de Wet politiegegevens, gegevens verwerken, de categorieën van gegevens die daartoe worden verwerkt, de terbeschikkingstelling en verstrekking van gegevens alsmede de wijze van verwerking (Besluit verplichte politiegegevens)"
+citeertitel: "Besluit verplichte politiegegevens"
 identifier: "BWBR0032083"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032083"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11870513"
-version_id: "19703772"
-internal_id: "C27640361"
-label_id: "11842794"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032083/2025-01-01/0"
-intitule_bron: "Stb.2012-465"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-04"
-intitule_published: "2012-10-12"
-intitule_in_force: "2012-10-12"
-intitule_status: "goed"
-original_publication: "Stb.2012-465"
-original_signed_date: "2012-10-04"
-original_published_date: "2012-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-465"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032083&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0032083&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verplichte politiegegevens"
-signed_date: "2012-10-04"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0032083"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoor de politie en de rijksrecherche, met inachtneming van de Wet politiegegevens, gegevens verwerken, de categorieën van gegevens die daartoe worden verwerkt, de terbeschikkingstelling en verstrekking van gegevens alsmede de wijze van verwerking (Besluit verplichte politiegegevens)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 18 november 2011, nr. 5716361/11/6;
-
-Gelet op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=24) en [54 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=54) en de [artikelen 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11), [15, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=15);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 januari 2012, nr. W03.11.0501/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 28 september 2012, nr. 251196;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **centrale verwijzingsindex:** de door Onze Minister aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of diensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen;
+- a. *centrale verwijzingsindex:* de door Onze Minister aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of diensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen;
 
-- b. **signalering:** een in verband met de uitvoering van de politietaak noodzakelijke kennisgeving over een persoon of een goed;
+- b. *signalering:* een in verband met de uitvoering van de politietaak noodzakelijke kennisgeving over een persoon of een goed;
 
-- c. **criminele-inlichtingeneenheid:** een onderdeel van een regionale of landelijke eenheid, onderscheidenlijk van de rijksrecherche, belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- c. *criminele-inlichtingeneenheid:* een onderdeel van een regionale of landelijke eenheid, onderscheidenlijk van de rijksrecherche, belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **nationale criminele-inlichtingeneenheid:** een dienst van de Eenheid landelijke opsporing en interventies, belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- d. *nationale criminele-inlichtingeneenheid:* een dienst van de Eenheid landelijke opsporing en interventies, belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- e. **informantgegevens:** gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- e. *informantgegevens:* gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- f. **criminele-inlichtingen:** gegevens die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- f. *criminele-inlichtingen:* gegevens die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- g. **verwerkingsverantwoordelijke:** de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel f, onder 1° en 2°, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1).
+- g. *verwerkingsverantwoordelijke:* de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel f, onder 1° en 2°, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1).
 
 ##### Artikel 2
 
@@ -118,9 +86,9 @@ De politie verwerkt terstond dactyloscopische signalementen, dactyloscopische sp
 
 - d. het analyseren van criminele-inlichtingen en het aan de hand daarvan:
 
-- 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+   - 1°. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- 2°. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
+   - 2° periodiek verslag doen ten behoeve van criminaliteitsbeelden;
 
 - e. het ter beschikking stellen van criminele-inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
@@ -190,22 +158,8 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 ##### Artikel 13
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.
+Dit besluit treedt in werking met ingang van 1 januari 2013.
 
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit verplichte politiegegevens.
-
-## Bijlage 1. als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=7&z=2025-01-01&g=2025-01-01), van het Besluit verplichte politiegegevens
-
-### Criminele inlichtingenrapport
-
-Het criminele inlichtingenrapport dient de volgende verplichte rubrieken te bevatten:
-
-## Bijlage 2. als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=8&z=2025-01-01&g=2025-01-01), van het Besluit verplichte politiegegevens
-
-### Verwijsindex-gegevens
-
-Overzicht van de digitaal aan te leveren aan de nationale criminele inlichtingen eenheid
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

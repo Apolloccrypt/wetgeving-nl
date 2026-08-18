@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)"
+citeertitel: "Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A"
 identifier: "BWBR0031426"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-04-01"
-last_updated: "2015-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031426"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11703273"
-version_id: "19321282"
-internal_id: "C27015761"
-label_id: "11676054"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031426/2015-04-01/0"
-intitule_bron: "Stcrt.2012-6461"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-27"
-intitule_published: "2012-04-04"
-intitule_in_force: "2012-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-6461"
-original_signed_date: "2012-03-27"
-original_published_date: "2012-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-6461"
-entry_into_force_date: "2013-01-19"
-jci_1_3: "jci1.3:c:BWBR0031426&z=2015-04-01&g=2015-04-01"
-jci_1_0: "1.0:c:BWBR0031426&g=2015-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A"
-signed_date: "2012-03-27"
-entry_into_force: "2013-01-19"
+publicatiedatum: 2013-01-19
+laatste_update: 2015-04-01
+status: geldig
+toestand: 2015-04-01
+bron: "https://wetten.overheid.nl/BWBR0031426"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)
-
-Gelet op [richtlijn nr. 2006/126/EG](32006L0126) van het Europees Parlement en de Raad van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L van de Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn) in werking treedt.
 
 #### § 1. Eisen voor de praktijkexamens voor de rijbewijscategorie A1
 
@@ -185,6 +157,10 @@ De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategori
 - i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.
 
 #### § 2. Eisen praktijkexamen rijbewijscategorie A2
+
+##### Artikel 5a
+
+1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=1&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 ##### Artikel 6
 
@@ -345,15 +321,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=1&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
-
-#### § 3. Eisen voor de praktijkexamens voor de rijbewijscategorie A
-
-#### § 4. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

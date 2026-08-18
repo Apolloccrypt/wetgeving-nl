@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052999"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Regeling van het bestuur van de Kansspelautoriteit van 28 juli 2026, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Ksa 2026)

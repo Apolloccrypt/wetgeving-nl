@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 24 oktober 2012, nr. IENM/BSK-2012/202154, houdende vaststelling van de Regeling verklaring stortverbod afvalstoffen 2013"
+citeertitel: "Regeling verklaring stortverbod afvalstoffen 2013"
 identifier: "BWBR0032131"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032131"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11882803"
-version_id: "19729472"
-internal_id: "C27707091"
-label_id: "11854884"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032131/2024-01-01/0"
-intitule_bron: "Stcrt.2012-21102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-24"
-intitule_published: "2012-10-25"
-intitule_in_force: "2012-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-21102"
-original_signed_date: "2012-10-24"
-original_published_date: "2012-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-21102"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032131&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0032131&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling verklaring stortverbod afvalstoffen 2013"
-signed_date: "2012-10-24"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0032131"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 24 oktober 2012, nr. IENM/BSK-2012/202154, houdende vaststelling van de Regeling verklaring stortverbod afvalstoffen 2013
-
-Gelet op [artikel 7 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=7);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -72,10 +46,8 @@ De [Regeling verklaring stortverbod afvalstoffen](https://wetten.overheid.nl/jci
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.
+Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling verklaring stortverbod afvalstoffen 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

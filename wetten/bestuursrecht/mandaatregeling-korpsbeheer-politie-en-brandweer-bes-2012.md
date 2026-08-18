@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 25 juni 2012, nr. 2012-194220, houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Mandaatregeling korpsbeheer politie en brandweer BES 2012)"
+citeertitel: "Mandaatregeling korpsbeheer politie en brandweer BES 2012"
 identifier: "BWBR0031762"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2012-07-07"
-last_updated: "2012-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031762"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11784833"
-version_id: "19495512"
-internal_id: "C27335951"
-label_id: "11757204"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031762/2012-07-07/0"
-intitule_bron: "Stcrt.2012-13699"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-25"
-intitule_published: "2012-07-06"
-intitule_in_force: "2012-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13699"
-original_signed_date: "2012-06-25"
-original_published_date: "2012-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13699"
-entry_into_force_date: "2012-07-07"
-jci_1_3: "jci1.3:c:BWBR0031762&z=2012-07-07&g=2012-07-07"
-jci_1_0: "1.0:c:BWBR0031762&g=2012-07-07"
-citeertitel_status: "officieel"
-short_title: "Mandaatregeling korpsbeheer politie en brandweer BES 2012"
-signed_date: "2012-06-25"
-entry_into_force: "2012-07-07"
+publicatiedatum: 2012-07-07
+laatste_update: 2012-07-07
+status: geldig
+toestand: 2012-07-07
+bron: "https://wetten.overheid.nl/BWBR0031762"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 25 juni 2012, nr. 2012-194220, houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Mandaatregeling korpsbeheer politie en brandweer BES 2012)
-
-Gelet op de [artikelen 38, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=38), en [47, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=47), [artikel 27, vierde lid van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=27), de [Regeling politielegitimatiebewijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028800), de [Organisatieregeling Ministerie van Veiligheid en Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0030837) en de [Mandaatregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030842);
-
-Besluit:
 
 #### Paragraaf 1. Definitiebepaling
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bewindspersoon:** de Minister van Veiligheid en Justitie;
+- a. *bewindspersoon:* de Minister van Veiligheid en Justitie;
 
-- b. **secretaris-generaal:** de secretaris-generaal van het Ministerie van Veiligheid en Justitie;
+- b. *secretaris-generaal:* de secretaris-generaal van het Ministerie van Veiligheid en Justitie;
 
-- c. **directeur-generaal Politie:** de directeur-generaal Politie van het Ministerie van Veiligheid en Justitie;
+- c. *directeur-generaal Politie:* de directeur-generaal Politie van het Ministerie van Veiligheid en Justitie;
 
-- d. **Rijkswet politie:** de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
+- d. *Rijkswet politie:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079);
 
-- e. **het politiekorps:** het korps politie Bonaire, Sint Eustatius en Saba;
+- e. *het politiekorps:* het korps politie Bonaire, Sint Eustatius en Saba;
 
-- f. **het brandweerkorps:** het brandweerkorps Bonaire, Sint Eustatius en Saba;
+- f. *het brandweerkorps:* het brandweerkorps Bonaire, Sint Eustatius en Saba;
 
 ##### Artikel 2
 
@@ -114,7 +88,7 @@ namens deze,
 
 (naam)
 
-**de secretaris-generaal van het Ministerie van Veiligheid en Justitie**
+*de secretaris-generaal van het Ministerie van Veiligheid en Justitie*
 
 #### Paragraaf 3. bevoegdheden secretaris-generaal inzake brandweerkorps
 
@@ -148,7 +122,7 @@ namens deze,
 
 (naam)
 
-**de secretaris-generaal van het Ministerie van Veiligheid en Justitie**
+*de secretaris-generaal van het Ministerie van Veiligheid en Justitie*
 
 #### Paragraaf 4. Overige bepalingen
 
@@ -163,5 +137,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Mandaatregeling korpsbeheer politie en brandweer BES 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

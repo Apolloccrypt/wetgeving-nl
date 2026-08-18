@@ -1,38 +1,16 @@
 ---
 title: "Inkomstenbelasting, collectieve compensatieregelingen voor beleggingsverzekeringen"
 identifier: "BWBR0030941"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2011-12-24"
-last_updated: "2011-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030941"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11573383"
-version_id: "19074542"
-internal_id: "C26598741"
-label_id: "11546614"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030941/2011-12-24/0"
-intitule_bron: "Stcrt.2011-23113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-20"
-intitule_published: "2011-12-23"
-intitule_in_force: "2011-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-23113"
-original_signed_date: "2011-12-20"
-original_published_date: "2011-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-23113"
-entry_into_force_date: "2011-12-24"
-jci_1_3: "jci1.3:c:BWBR0030941&z=2011-12-24&g=2011-12-24"
-jci_1_0: "1.0:c:BWBR0030941&g=2011-12-24"
-citeertitel_status: "redactioneel"
-signed_date: "2011-12-20"
-entry_into_force: "2011-12-24"
+publicatiedatum: 2011-12-24
+laatste_update: 2011-12-24
+status: geldig
+toestand: 2011-12-24
+bron: "https://wetten.overheid.nl/BWBR0030941"
+opgehaald: 2026-08-18
 ---
+
 # Inkomstenbelasting, collectieve compensatieregelingen voor beleggingsverzekeringen
 
 Dit besluit vervangt het [besluit van 22 januari 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027140), nr. DGB 2010/415 M over de gevolgen voor de inkomstenbelasting van de collectieve compensatieregelingen voor beleggingsverzekeringen (kapitaalverzekeringen en lijfrenteverzekeringen). Het besluit wordt uitgebracht omdat de verzekeraars op dit moment omzettingen van beleggingsverzekeringen aan klanten aanbieden om te komen tot een andere productstructuur daarvan.
@@ -43,25 +21,31 @@ Enkele levensverzekeraars zijn collectieve compensatieregelingen overeengekomen 
 
 Omdat het gaat om een groot aantal belastingplichtigen dat met de compensatieregelingen te maken krijgt, acht ik het wenselijk dat duidelijkheid bestaat over de gevolgen van de compensatieregelingen voor de heffing van de inkomstenbelasting. Hierna ga ik daarop in.
 
-In dit besluit is in paragraaf 6 een nieuw standpunt opgenomen voor de situatie waarin verzekeraars, naast verlaging van de kosten en tarieven, bij wijze van compensatie klanten aanbieden hun beleggingsverzekering (kapitaalverzekering) om te zetten in een nieuwe productvorm met een andere productstructuur.
+In dit besluit is in [paragraaf 6](https://wetten.overheid.nl/BWBR0030941) een nieuw standpunt opgenomen voor de situatie waarin verzekeraars, naast verlaging van de kosten en tarieven, bij wijze van compensatie klanten aanbieden hun beleggingsverzekering (kapitaalverzekering) om te zetten in een nieuwe productvorm met een andere productstructuur.
 
 ### 2. Inhoud van de compensatieregelingen
 
 Uit de verstrekte gegevens blijkt dat de compensatieregelingen leiden tot de volgende tegemoetkomingen:
 
-In de paragrafen hierna ga ik in op de fiscale gevolgen van deze vormen van tegemoetkoming.
+- a. compensatie voor het verleden van nog lopende verzekeringen. Het betreft hierbij een betaling ineens of de bijboeking van waarden op nog bij de verzekeraar lopende verzekeringen;
+
+- b. compensatie voor het verleden van reeds beëindigde verzekeringen en ter zake van aan een andere verzekeraar overgedragen verzekeringen. Het betreft hierbij meestal een betaling in contanten aan de verzekeringnemer;
+
+- c. verlaging voor de toekomst van de kosten of de premies voor bepaalde risicodekkingen van nog bij de verzekeraar lopende verzekeringen. Het betreft hierbij een verlaging van de oorspronkelijk overeengekomen premie of een verhoging van de verzekerde waarden waarbij de oorspronkelijk overeengekomen premie gelijk blijft.
+
+In de [paragrafen](https://wetten.overheid.nl/BWBR0030941) hierna ga ik in op de fiscale gevolgen van deze vormen van tegemoetkoming.
 
 ### 3. Compensatie voor het verleden van nog bij de verzekeraar lopende verzekeringen
 
 De compensatieregelingen leiden in het algemeen tot tegemoetkomingen voor zover in het verleden het kostenniveau hoger was dan een thans vastgesteld normniveau. Tegemoetkomingen kunnen ook voortvloeien uit het met terugwerkende kracht verlaagd zijn van premies voor bepaalde risicodekkingen. Voor nog bij de verzekeraar lopende verzekeringen, waaronder premievrije polissen, kunnen deze tegemoetkomingen plaatsvinden door een betaling ineens of door verhoging van de verzekerde rechten op einddatum dan wel op een eerder tijdstip.
 
-Voor gevallen waarin ter compensatie van bij de verzekeraar lopende kapitaalverzekeringen of al dan niet ingegane lijfrenten een extra uitkering ineens wordt gedaan, is hetgeen in paragraaf 4 is opgenomen voor nabetalingen ter zake van beëindigde of overgedragen verzekeringen van overeenkomstige toepassing.
+Voor gevallen waarin ter compensatie van bij de verzekeraar lopende kapitaalverzekeringen of al dan niet ingegane lijfrenten een extra uitkering ineens wordt gedaan, is hetgeen in [paragraaf 4](https://wetten.overheid.nl/BWBR0030941) is opgenomen voor nabetalingen ter zake van beëindigde of overgedragen verzekeringen van overeenkomstige toepassing.
 
 Voor de heffing van inkomstenbelasting vormt de verhoging van de verzekerde rechten als gevolg van een compensatieregeling als zodanig geen belastbaar inkomen uit de verzekering. Die verhoging leidt uiteindelijk wel tot een hogere verzekeringsuitkering ineens of in termijnen waarover uiteraard regulier wordt geheven volgens de bepalingen van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). In dit verband kan een verhoging betrekking hebben op een lijfrente waarvan de termijnen reeds zijn ingegaan. Indien als gevolg daarvan een verhoging van de resterende lijfrentetermijnen plaatsvindt, zijn die termijnen fiscaal nog steeds aan te merken als ‘vast en gelijkmatig’.
 
 Wel vormen verhogingen van verzekerde rechten in het algemeen een aandachtspunt voor verzekeringen die zijn gesloten vóór de inwerkingtreding van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) omdat daarvoor mogelijk op grond van de [Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354) regelingen met eerbiedigende werking van toepassing zijn. Voor lijfrenten die in het verleden werden gesloten is dit echter geen aandachtspunt omdat de beperkte eerbiedigende werking die daarvoor kan gelden niet afhankelijk is gesteld van de hoogte van de verzekerde rechten maar van de hoogte van de te betalen premies.
 
-Voor kapitaalverzekeringen zonder een in euro’s verzekerd kapitaal – globaal gesproken beleggingsverzekeringen of unit-linked-verzekeringen – die zijn gesloten vóór 2001 geldt eveneens dat een verhoging van de verzekerde rechten niet leidt tot het verlies van enige eerbiedigende werking op grond van de [Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354). Ook daarvoor is alleen de hoogte van de betaalde premies relevant. Het recht op de zogenoemde bijzondere bezitsvrijstelling ([Hoofdstuk 2, artikel I, onderdeel AN van de Invoeringswet Wet IB 2001](onbekend)) gaat op dezelfde grond door de onderhavige verhoging niet verloren.
+Voor kapitaalverzekeringen zonder een in euro’s verzekerd kapitaal – globaal gesproken beleggingsverzekeringen of unit-linked-verzekeringen – die zijn gesloten vóór 2001 geldt eveneens dat een verhoging van de verzekerde rechten niet leidt tot het verlies van enige eerbiedigende werking op grond van de [Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354). Ook daarvoor is alleen de hoogte van de betaalde premies relevant. Het recht op de zogenoemde bijzondere bezitsvrijstelling ([Hoofdstuk 2, artikel I, onderdeel AN van de Invoeringswet Wet IB 2001](https://wetten.overheid.nl/BWBR0011354)) gaat op dezelfde grond door de onderhavige verhoging niet verloren.
 
 Als er compensatieregelingen zijn waarbij de onderhavige verhoging ook aan de orde is voor kapitaalverzekeringen met een in euro’s verzekerd kapitaal, geldt ook dat de verhoging niet leidt tot verlies van enige eerbiedigende werking ondanks het feit dat daarbij de hoogte van het verzekerde kapitaal wel van belang is. De verhoging is immers niet het gevolg van een gewijzigde premiebetaling of andere handeling van de verzekeringnemer. De verhoging vloeit voort uit het geheel van de voorwaarden van de kapitaalverzekering sedert het tijdstip van totstandkoming daarvan. In die voorwaarden lag besloten dat er van aanvang af – naar thans is vastgesteld – te hoge kosten in rekening zijn gebracht waarvan met terugwerkende kracht herstel plaatsvindt door de verhoging van het verzekerde kapitaal. Deze verhoging is daarom niet aan te merken als een verhoging die het recht op enige eerbiedigende werking verloren doet gaan.
 
@@ -79,6 +63,8 @@ Bij een nabetaling van een lijfrente zal in het algemeen sprake zijn van belasti
 
 Een nabetaling kan ook betrekking hebben op een verzekering die naar een andere verzekeraar of – in bepaalde situaties – naar een bancaire instelling is overgegaan en nog niet is geëxpireerd of is afgekocht. In beginsel zou een dergelijke nabetaling moeten worden beschouwd als een gedeeltelijke afkoop van de kapitaalverzekering of lijfrente waarop de nabetaling betrekking heeft.
 
+Goedkeuring
+
 In een aantal gevallen zou deze kwalificatie echter leiden tot onwenselijke fiscale gevolgen voor de ontvanger ervan. Mede gezien de bijzondere achtergrond van de nabetaling keur ik voor de bovengenoemde gevallen met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat de nabetaling wordt aangemerkt als reguliere verzekeringsuitkering en niet als een gedeeltelijke afkoopsom. Specifiek met betrekking tot kapitaalverzekeringen keur ik, voor zover nodig, goed dat de nabetalingen niet leiden tot het verlies van bestaande rechten op vrijstelling van toekomstige kapitaalsuitkeringen.
 
 ### 5. Verlaging voor de toekomst van kosten of risicopremies van bij de verzekeraar lopende verzekeringen
@@ -89,9 +75,13 @@ Voor lijfrenten heeft de verlaging van een in de toekomst te betalen premie geen
 
 Voor kapitaalverzekeringen kunnen de premieverlagingen en de verhoging van de verzekerde rechten in beginsel gevolgen hebben voor zowel het recht op vrijstelling van de kapitaalsuitkering als voor de werking van bepalingen met eerbiedigende werking van vóór 2001 gesloten contracten. Wat betreft het recht op vrijstelling van een of meer kapitaalsuitkeringen geldt, ongeacht het van toepassing zijnde fiscale regime, dat de premies per verzekeringsjaar binnen een bepaalde bandbreedte moeten zijn betaald. Voor bijvoorbeeld een kapitaalverzekering eigen woning (KEW) geldt een bandbreedte van 10 : 1 voor de hoogste respectievelijk laagste premie op basis van het verzekeringsjaar. In dit verband worden globaal gesproken de premie voor de uitkering bij leven en de premie voor de uitkering ten gevolge van overlijden samengeteld. Indien bij een KEW de bandbreedte van 10:1 ten volle is benut door het betalen van een hoge storting gevolgd door reguliere betalingen die op jaarbasis een tiende daarvan vormen, zou een verlaging van de reguliere premie op grond van de compensatieregelingen niet alleen leiden tot het verlies van het recht op vrijstelling van de kapitaalsuitkering maar ook tot onmiddellijke afrekening over de waarde van de KEW en overgang naar box 3.
 
+Goedkeuring
+
 Deze gevolgen van de overschrijding van de bandbreedte louter als gevolg van de getroffen compensatieregeling acht ik ongewenst. Daarom keur ik met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) het volgende goed. In voorkomende situaties komt het overschrijden van de bandbreedte louter door het verlagen van de premie als gevolg van de compensatieregeling, niet in strijd met de voorwaarden voor vrijstelling van de kapitaalsuitkering. Als een belastingplichtige van deze compensatieregeling gebruik maakt, moet hij voor de bandbreedte-eis als laagste premie uitgaan van de premie zoals die op grond van de regeling is overeengekomen als die premie lager is dan de oorspronkelijk overeengekomen laagste premie. Voor de toepassing van de bandbreedte-eis voor de toekomst geldt het tienvoud van de nieuwe laagste premie als toegestane nieuwe hoogste premie.
 
 Ook voor de werking van de bepalingen met eerbiedigende werking voor kapitaalverzekeringen – bijvoorbeeld artikel 76 van de Wet op de inkomstenbelasting 1964 en de relevante bepalingen van de [Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354) – kan verlaging van kosten en van de premie voor de dekking van het risico van vroegtijdig overlijden gevolgen hebben. Voor de toepassing van die bepalingen moeten de (premie voor de) verzekerde uitkering bij leven en ten gevolge van overlijden namelijk separaat worden beoordeeld. Als op grond van een compensatieregeling de premie voor het overlijdensgedeelte wordt verlaagd, waarbij de in totaal verschuldigde premie gelijk blijft, wordt per saldo in de toekomst een hogere premie voldaan voor de uitkering bij leven. Als gevolg hiervan kan in een aantal gevallen het recht op eerbiedigende werking verloren gaan.
+
+Goedkeuring
 
 Ik vind die uitkomst onwenselijk. Daarom keur ik met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat in dergelijke gevallen een verhoging van de premie voor de uitkering bij leven als gevolg van een compensatieregeling als in dit besluit bedoeld, niet leidt tot verlies van het bestaande recht op eerbiedigende werking. Deze goedkeuring geldt overeenkomstig indien louter als gevolg van de compensatieregeling een verhoging plaatsvindt van een verzekerde waarde.
 
@@ -101,23 +91,39 @@ Ik vind die uitkomst onwenselijk. Daarom keur ik met toepassing van [artikel 63 
 
 Beleggingsverzekeringen zijn vaak een combinatie van een waardeopbouw door middel van beleggingen en een overlijdensrisicoverzekering.Voor een aantal van deze verzekeringsproducten leidt deze structuur er toe dat bij tegenvallende beleggingsresultaten, de verschuldigde premie voor de overlijdensdekking een extra hefboomeffect naar beneden heeft op de waarde van de verzekering bestemd voor uitkering(en) bij leven. Het is ook mogelijk dat op het beschikbare kapitaal wordt ingeteerd.
 
-Daarom bieden verzekeraars, naast verlaging voor de toekomst van kosten en tarieven (paragraaf 5 van dit besluit), klanten aan om hun beleggingsverzekering om te zetten in een nieuwe productvorm met een andere productstructuur. Bij de nieuw aangeboden verzekeringsproducten is de overlijdensdekking financieel en verzekeringtechnisch geheel of gedeeltelijk separaat gehouden van de opbouw van de waarde van de verzekering bestemd voor de uitkering(en) bij leven. Hierbij kunnen zich twee varianten voordoen:
+Daarom bieden verzekeraars, naast verlaging voor de toekomst van kosten en tarieven ([paragraaf 5](https://wetten.overheid.nl/BWBR0030941) van dit besluit), klanten aan om hun beleggingsverzekering om te zetten in een nieuwe productvorm met een andere productstructuur. Bij de nieuw aangeboden verzekeringsproducten is de overlijdensdekking financieel en verzekeringtechnisch geheel of gedeeltelijk separaat gehouden van de opbouw van de waarde van de verzekering bestemd voor de uitkering(en) bij leven. Hierbij kunnen zich twee varianten voordoen:
+
+- − De bestaande verzekering wordt integraal omgezet in een nieuwe verzekering die fiscaal blijft aan te merken als één gemengde verzekering.
+
+- − De omzetting gaat gepaard met een splitsing in twee of meer fiscaal als losstaand aan te merken verzekeringsdelen. Die verzekeringsdelen vormen dan na de omzetting ieder voor een gedeelte fiscaal de voortzetting van de oorspronkelijke verzekering die werd omgezet.
 
 Zowel voor kapitaalverzekeringen als voor lijfrenten kan een omzetting in een ander verzekeringsproduct fiscaal geruisloos plaatsvinden. Voorwaarden hierbij zijn dat aan de gerechtigde geen geld ter beschikking komt en de verzekering fiscaal geen andere status krijgt. Dit geldt ook bij een omzetting van een beleggingsverzekering in een verzekering die financieel- en verzekeringtechnisch is gesplitst in een levendeel en een overlijdensdeel.
 
-Aan de omzettingen als zodanig zijn dusgeen fiscale gevolgen verbonden. Wel kunnen er voor kapitaalverzekeringen – niet voor lijfrenten – fiscale knelpunten ontstaan voor zover de oorspronkelijke premieniveaus en verzekerde bedragen zijn gewijzigd. Het gaat daarbij om de fiscale eerbiedigende werking van het fiscale regime vóór 1992 (Pré Brede Herwaardering) en om de bijzondere waardevrijstelling van [onderdeel AN Invoeringswet Wet inkomstenbelasting 2001](onbekend) voor kapitaalverzekeringen gesloten vóór 15 september 1999 (zie paragrafen 3 tot en met 5 van dit besluit). En mogelijk om de fiscale bandbreedte-eis van 10:1 voor premies van kapitaalverzekeringen.
+Aan de omzettingen als zodanig zijn dusgeen fiscale gevolgen verbonden. Wel kunnen er voor kapitaalverzekeringen – niet voor lijfrenten – fiscale knelpunten ontstaan voor zover de oorspronkelijke premieniveaus en verzekerde bedragen zijn gewijzigd. Het gaat daarbij om de fiscale eerbiedigende werking van het fiscale regime vóór 1992 (Pré Brede Herwaardering) en om de bijzondere waardevrijstelling van [onderdeel AN Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/BWBR0011354) voor kapitaalverzekeringen gesloten vóór 15 september 1999 (zie [paragrafen 3 tot en met 5](https://wetten.overheid.nl/BWBR0030941) van dit besluit). En mogelijk om de fiscale bandbreedte-eis van 10:1 voor premies van kapitaalverzekeringen.
 
-Voorzover er fiscale knelpunten ontstaan na de omzetting in de nieuwe kapitaalverzekering als gevolg van verlagingen van kosten en overlijdenspremies, zijn de in paragraaf 5 van dit besluit opgenomen goedkeuringen van toepassing.
+Voorzover er fiscale knelpunten ontstaan na de omzetting in de nieuwe kapitaalverzekering als gevolg van verlagingen van kosten en overlijdenspremies, zijn de in [paragraaf 5](https://wetten.overheid.nl/BWBR0030941) van dit besluit opgenomen goedkeuringen van toepassing.
 
 Verzekeraars kunnen, naast verlaging van de kosten en tarieven, bij wijze van compensatie,klanten de mogelijkheid bieden de dekking bij overlijden en dus ook de overlijdenspremie te verlagen. Als daarbij de nieuwe totaalpremie gelijk blijft aan de oorspronkelijke totaalpremie, leidt dit per saldo tot hogere verzekerde rechten voor de uitkering bij in leven zijn. Deze verlaging van de dekking bij overlijden vloeit niet voort uit de verlaging als gevolg van een lager kosten- en premieniveau of uit een omzetting van eenunit linked verzekering in een verzekering met een in euro’s verzekerd kapitaal of omgekeerd.
 
 Om een dergelijke omzetting van kapitaalverzekeringen fiscaal mogelijk te maken, zonder eerbiedigende werkingen voor voorgaande belastingregimes te verliezen of in strijd te komen met de bandbreedte-eis van 10:1, keur ik met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) het volgende goed.
 
-Ik keur onder voorwaarden goed dat bij omzetting van een gemengde kapitaalverzekering de **in totaal** overeengekomen en betaalde premies op jaarbasis (dus de premiedelen voor de uitkering bij leven en ten gevolge van overlijden samen) als maatstaf kunnen worden genomen. Het bestaande recht op eerbiedigende werking van voorafgaande belastingregimes blijft behouden als die totaalpremie in het kader van de omzetting niet wordt verhoogd.
+Goedkeuring
+
+Ik keur onder voorwaarden goed dat bij omzetting van een gemengde kapitaalverzekering de *in totaal* overeengekomen en betaalde premies op jaarbasis (dus de premiedelen voor de uitkering bij leven en ten gevolge van overlijden samen) als maatstaf kunnen worden genomen. Het bestaande recht op eerbiedigende werking van voorafgaande belastingregimes blijft behouden als die totaalpremie in het kader van de omzetting niet wordt verhoogd.
+
+Voorwaarden
 
 Ik stel hierbij de volgende cumulatieve voorwaarden:
 
-Deze goedkeuring en voorwaarden komen overeen met de in [paragraaf 7.5.2 van het Besluit van 28 april 2009](onbekend), nr. CPP2008/1118M, Stcrt. nr. 90 (Verzamelbesluit Kapitaalverzekeringen) opgenomen goedkeuring voor omzettingen van een unit linked verzekering in een verzekering met een in euro’s verzekerd kapitaal of omgekeerd.
+- a. Er vindt bij de omzetting geen verlenging van de premiebetalende periode plaats.
+
+- b. Er vindt bij de omzetting geen verlenging van de looptijd van de verzekering plaats.
+
+- c. Er vindt geen wijziging plaats van het verzekerd lijf.
+
+- d. Een nieuw verzekerd risico bij overlijden betreft qua hoogte een normale en gebruikelijke verzekerde uitkering bij overlijden. Het is dus niet mogelijk de overlijdensrisicoverzekering te laten vervallen.
+
+Deze goedkeuring en voorwaarden komen overeen met de in [paragraaf 7.5.2 van het Besluit van 28 april 2009](https://wetten.overheid.nl/BWBR0025851), nr. CPP2008/1118M, Stcrt. nr. 90 (Verzamelbesluit Kapitaalverzekeringen) opgenomen goedkeuring voor omzettingen van een unit linked verzekering in een verzekering met een in euro’s verzekerd kapitaal of omgekeerd.
 
 Deze goedkeuring geldt voor situaties waarin de oorspronkelijke kapitaalverzekering wordt omgezet in een fiscaal als één nieuwe gemengde kapitaalverzekering aan te merken verzekering. Daarnaast geldt de goedkeuring voor situaties waarin de kapitaalverzekering wordt omgezet in fiscaal als twee of meer kapitaalverzekeringen aan te merken verzekeringen. Hierbij zijn de bij leven en overlijden verzekerde waarden geheel of gedeeltelijk in afzonderlijke verzekeringen – al dan niet bij dezelfde verzekeraar – ondergebracht.
 
@@ -129,7 +135,9 @@ Behalve een overlijdensrisicoverzekering kunnen ook andere, aanvullende dekkinge
 
 Om ook deze omzettingen van kapitaalverzekeringen fiscaal mogelijk te maken, zonder eerbiedigende werkingen voor voorgaande belastingregimes te verliezen of in strijd te komen met de bandbreedte-eis van 10 : 1, keur ik met toepassing van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) het volgende goed.
 
-De goedkeuring van onderdeel 6.1 en de daarbij behorende voorwaarden **a**. tot en met **c**. zijn van overeenkomstige toepassing op omzettingen waarbij de premiecomponenten voor aanvullende verzekeringen worden verlaagd of vervallen ten gunste van het levendeel als de totaalpremie in het kader van die omzetting niet wordt verhoogd.
+Goedkeuring
+
+De goedkeuring van [onderdeel 6.1](https://wetten.overheid.nl/BWBR0030941) en de daarbij behorende voorwaarden *a*. tot en met *c*. zijn van overeenkomstige toepassing op omzettingen waarbij de premiecomponenten voor aanvullende verzekeringen worden verlaagd of vervallen ten gunste van het levendeel als de totaalpremie in het kader van die omzetting niet wordt verhoogd.
 
 ### 7. Compensatieregelingen voor gouden-handdrukstamrechten
 
@@ -147,4 +155,4 @@ Het [besluit van 22 januari 2010](https://wetten.overheid.nl/jci1.3:c:BWBR002714
 
 Het besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-Dit besluit zal in de **Staatscourant** worden geplaatst.
+Dit besluit zal in de *Staatscourant* worden geplaatst.

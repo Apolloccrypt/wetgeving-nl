@@ -1,64 +1,37 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en van de Minister van Infrastructuur en Milieu van 4 april 2012, houdende vaststelling van regels betreffende de toegankelijkheid van het openbaar vervoer"
+citeertitel: "Regeling toegankelijkheid van het openbaar vervoer"
 identifier: "BWBR0031452"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-05-09"
-last_updated: "2012-05-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031452"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11708663"
-version_id: "19331852"
-internal_id: "C27091611"
-label_id: "11681574"
-dtd_version: "2.0"
-original_entry_into_force: "2012-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031452/2012-05-09/0"
-intitule_bron: "Stcrt.2012-7099"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-04"
-intitule_published: "2012-04-13"
-intitule_in_force: "2012-05-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7099"
-original_signed_date: "2012-04-04"
-original_published_date: "2012-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7099"
-entry_into_force_date: "2012-05-09"
-jci_1_3: "jci1.3:c:BWBR0031452&z=2012-05-09&g=2012-05-09"
-jci_1_0: "1.0:c:BWBR0031452&g=2012-05-09"
-citeertitel_status: "officieel"
-short_title: "Regeling toegankelijkheid van het openbaar vervoer"
-signed_date: "2012-04-04"
-entry_into_force: "2012-05-09"
+publicatiedatum: 2012-05-09
+laatste_update: 2012-05-09
+status: geldig
+toestand: 2012-05-09
+bron: "https://wetten.overheid.nl/BWBR0031452"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en van de Minister van Infrastructuur en Milieu van 4 april 2012, houdende vaststelling van regels betreffende de toegankelijkheid van het openbaar vervoer
-
-Gelet op de [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=16), en [17, derde lid, van het Besluit toegankelijkheid van het openbaar vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=17);
-
-Besluiten:
-
-Treedt in werking op het tijdstip waarop het Besluit toegankelijkheid van het openbaar vervoer in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### § 1. **Definities en begrippen**
+#### § 1. Definities en begrippen
 
 ##### Artikel 1.1:1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **Besluit:** [Besluit toegankelijkheid van het openbaar vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029974);
+- a. *Besluit:*
+ [Besluit toegankelijkheid van het openbaar vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029974);
 
-- b. **concessie:** recht om met uitsluiting van anderen openbaar vervoer te verrichten in een bepaald gebied gedurende een bepaald tijdvak;
+- b. *concessie:* recht om met uitsluiting van anderen openbaar vervoer te verrichten in een bepaald gebied gedurende een bepaald tijdvak;
 
-- c. **plusregio:** regionaal openbaar lichaam als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104);
+- c. *plusregio:* regionaal openbaar lichaam als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104);
 
-- d. **reisinformatiesysteem:** systeem dat reisinformatie in voertuigen of op haltes of stations, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=9) onderscheidenlijk [10 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=10), genereert;
+- d. *reisinformatiesysteem:* systeem dat reisinformatie in voertuigen of op haltes of stations, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=9) onderscheidenlijk [10 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=10), genereert;
 
-- e. **richtlijn 2008/57/EG:** Richtlijn van het Europees Parlement en de Raad van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU, L 191).
+- e. *richtlijn 2008/57/EG:* Richtlijn van het Europees Parlement en de Raad van 17 juni 2008 betreffende de interoperabiliteit van het spoorwegsysteem in de Gemeenschap (PbEU, L 191).
 
 ##### Artikel 1.1:2
 
@@ -72,7 +45,7 @@ Treedt in werking op het tijdstip waarop het Besluit toegankelijkheid van het op
 
 - b. de beschikking van de Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit ‘personen met beperkte mobiliteit’ voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU, L 64) voor die vernieuwing of verbetering niet geheel of gedeeltelijk buiten toepassing laat.
 
-#### § 2. **Algemene bepalingen**
+#### § 2. Algemene bepalingen
 
 ##### Artikel 1.2:1
 
@@ -80,7 +53,7 @@ Treedt in werking op het tijdstip waarop het Besluit toegankelijkheid van het op
 
 ### Hoofdstuk 2. Voertuigen
 
-#### § 1. **Bus**
+#### § 1. Bus
 
 ##### Artikel 2.1:1
 
@@ -88,9 +61,9 @@ Van de bussen waarmee een concessie wordt uitgevoerd, voldoet ten minste 98 proc
 
 ##### Artikel 2.1:2
 
-Onverminderd [artikel 2.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0031452&hoofdstuk=2&paragraaf=1&artikel=2.1:1&z=2012-05-09&g=2012-05-09) heeft een bus ten minste één opstelplaats voor rolstoelen met de maximale afmetingen als bedoeld in [richtlijn 2001/85/EG](32001L0085).
+Onverminderd [artikel 2.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0031452&hoofdstuk=2&paragraaf=1&artikel=2.1:1&z=2012-05-09&g=2012-05-09) heeft een bus ten minste één opstelplaats voor rolstoelen met de maximale afmetingen als bedoeld in richtlijn 2001/85/EG.
 
-#### § 2. **Tram**
+#### § 2. Tram
 
 ##### Artikel 2.2:1
 
@@ -98,7 +71,7 @@ Onverminderd [artikel 2.1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0031452&hoo
 
 2. Met uitzondering van de in het eerste lid genoemde tramvoertuigen van de sneltramdienst Randstadrail voldoet van de tramvoertuigen waarmee een concessie wordt uitgevoerd in de Stadsregio’s Amsterdam, Rotterdam en Haaglanden ten minste 72, 48 onderscheidenlijk 26 procent aan [artikel 4, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=4).
 
-#### § 3. **Metro**
+#### § 3. Metro
 
 ##### Artikel 2.3:1
 
@@ -106,9 +79,9 @@ De metrovoertuigen waarmee een concessie wordt uitgevoerd, voldoen aan [artikel 
 
 ##### Artikel 2.3:2
 
-Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmiddelen met de maximale afmetingen als bedoeld in [richtlijn 2001/85/EG](32001L0085).
+Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmiddelen met de maximale afmetingen als bedoeld in richtlijn 2001/85/EG.
 
-#### § 4. **Trein**
+#### § 4. Trein
 
 ##### Artikel 2.4:1
 
@@ -116,7 +89,7 @@ Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmidde
 
 ### Hoofdstuk 3. Haltes en Stations
 
-#### § 1. **Haltes en stations voor bussen**
+#### § 1. Haltes en stations voor bussen
 
 ##### Artikel 3.1:1
 
@@ -124,7 +97,7 @@ Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmidde
 
 2. In afwijking van het eerste lid gelden voor de provincies Zeeland, Limburg en Friesland percentages van 40, 43 onderscheidenlijk 44 procent.
 
-#### § 2. **Haltes en stations voor tram**
+#### § 2. Haltes en stations voor tram
 
 ##### Artikel 3.2:1
 
@@ -132,7 +105,7 @@ Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmidde
 
 2. Haltes en stations die in het concessiegebied van Bestuur Regio Utrecht in gebruik zijn voor de uitvoering van de sneltramdienst Utrecht-Nieuwegein-IJsselstein voldoen aan [artikel 5, eerste, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=5).
 
-#### § 3. **Haltes en stations voor metro**
+#### § 3. Haltes en stations voor metro
 
 ##### Artikel 3.3:1
 
@@ -140,7 +113,7 @@ Een metrovoertuig heeft per rijtuig ten minste één opstelplaats voor hulpmidde
 
 2. Haltes en stations waar uitsluitend metrovoertuigen halteren voldoen met ingang van 1 januari 2015 tevens aan [artikel 6, eerste, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=6).
 
-#### § 4. **Haltes en stations voor trein**
+#### § 4. Haltes en stations voor trein
 
 ##### Artikel 3.4:1
 
@@ -173,5 +146,3 @@ Deze regeling wordt aangehaald als: Regeling toegankelijkheid van het openbaar v
 ##### Artikel 6.3
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit toegankelijkheid van het openbaar vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029974) in werking treedt.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

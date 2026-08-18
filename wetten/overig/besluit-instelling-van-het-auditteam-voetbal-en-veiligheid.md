@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie, van 25 mei 2012, nr. 267619, houdende instelling van het Auditteam Voetbal en Veiligheid"
+citeertitel: "Besluit instelling van het Auditteam Voetbal en Veiligheid"
 identifier: "BWBR0031703"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-06-27"
-last_updated: "2012-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031703"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11768463"
-version_id: "19457822"
-internal_id: "C27281561"
-label_id: "11740824"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031703/2012-06-27/0"
-intitule_bron: "Stcrt.2012-12581"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-25"
-intitule_published: "2012-06-25"
-intitule_in_force: "2012-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-12581"
-original_signed_date: "2012-05-25"
-original_published_date: "2012-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-12581"
-entry_into_force_date: "2012-06-27"
-jci_1_3: "jci1.3:c:BWBR0031703&z=2012-06-27&g=2012-06-27"
-jci_1_0: "1.0:c:BWBR0031703&g=2012-06-27"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instelling van het Auditteam Voetbal en Veiligheid"
-signed_date: "2012-05-25"
-entry_into_force: "2012-06-27"
+publicatiedatum: 2012-06-27
+laatste_update: 2012-06-27
+status: geldig
+toestand: 2012-06-27
+bron: "https://wetten.overheid.nl/BWBR0031703"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie, van 25 mei 2012, nr. 267619, houdende instelling van het Auditteam Voetbal en Veiligheid
-
-Overwegende dat het [instellingsbesluit van het Auditteam voetbalvandalisme](https://wetten.overheid.nl/jci1.3:c:BWBR0015461) van 13 augustus 2003 (EA2003/74936 DGOOV/POL/BJZ) en de wijziging van het instellingsbesluit van het Auditteam voetbalvandalisme van 15 december 2006 (Nr. 2006-0000326163 DGV/POL/PVB) niet meer actueel zijn;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -109,5 +83,3 @@ Het [Instellingsbesluit Auditteam voetbalvandalisme](https://wetten.overheid.nl/
 ##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

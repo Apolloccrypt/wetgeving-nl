@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 26 januari 2012, nr. 5723477/12, houdende verlening van mandaat, volmacht en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding verband houdend met de rechtspraak waarvoor de Staat aansprakelijk kan worden gehouden"
+citeertitel: "Regeling mandaat, volmacht en machtiging Raad voor de rechtspraak (verzoeken tot schadevergoeding i.v.m. rechtspraak waarvoor de Staat aansprakelijk kan worden gehouden)"
 identifier: "BWBR0031203"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-10-15"
-last_updated: "2014-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031203"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11647453"
-version_id: "19220112"
-internal_id: "C26814961"
-label_id: "11620234"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031203/2014-10-15/0"
-intitule_bron: "Stcrt.2012-1933"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-01-26"
-intitule_published: "2012-02-01"
-intitule_in_force: "2012-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-1933"
-original_signed_date: "2012-01-26"
-original_published_date: "2012-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-1933"
-entry_into_force_date: "2012-02-02"
-jci_1_3: "jci1.3:c:BWBR0031203&z=2014-10-15&g=2014-10-15"
-jci_1_0: "1.0:c:BWBR0031203&g=2014-10-15"
-citeertitel_status: "redactioneel"
-short_title: "Regeling mandaat, volmacht en machtiging Raad voor de rechtspraak (verzoeken tot schadevergoeding i.v.m. rechtspraak waarvoor de Staat aansprakelijk kan worden gehouden)"
-signed_date: "2012-01-26"
-entry_into_force: "2012-02-02"
+publicatiedatum: 2012-02-02
+laatste_update: 2014-10-15
+status: geldig
+toestand: 2014-10-15
+bron: "https://wetten.overheid.nl/BWBR0031203"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 26 januari 2012, nr. 5723477/12, houdende verlening van mandaat, volmacht en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding verband houdend met de rechtspraak waarvoor de Staat aansprakelijk kan worden gehouden
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Raad:** de Raad voor de rechtspraak;
+- a. *de Raad:* de Raad voor de rechtspraak;
 
-- b. **rechterlijk college:** een rechtbank, een gerechtshof, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven;
+- b. *rechterlijk college:* een rechtbank, een gerechtshof, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven;
 
-- c. **minister:** de Minister van Veiligheid en Justitie
+- c. *minister:* de Minister van Veiligheid en Justitie
 
-- d. **mandaat:** de bevoegdheid om in naam van de minister besluiten te nemen;
+- d. *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;
 
-- e. **volmacht:** de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;
+- e. *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;
 
-- f. **machtiging:** de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+- f. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2
 
@@ -101,5 +75,3 @@ De [regeling van de Staatssecretaris van Veiligheid en Justitie van 22 april 200
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052878"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, kenmerk IENW/BSK-2026/105816, houdende nadere regels voor de digitale veiligheid van essentiële en belangrijke entiteiten in de sectoren vervoer, drinkwater, afvalwater, afvalstoffenbeheer, onderzoek, nucleair, keren en beheren, chemie en meteorologie (Cyberbeveiligingsregeling IenW) [Keten-ID WGK 28528]
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 3. Deze regeling is verder van toepassing op essentiële en belangrijke entiteiten in de sector onderzoek, voor zover de soort entiteit, genoemd in [bijlage 2 bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0052872&bijlage=2), betrekking heeft op de sectoren vervoer, drinkwater, afvalwater, afvalstoffenbeheer, onderzoek, nucleair, keren en beheren, chemie en meteorologie.
 
-#### Paragraaf 3. Csirt
+#### Paragraaf 3. CSIRT
 
 ##### Artikel 3. (Aanwijzing CSIRT)
 
@@ -96,7 +96,7 @@ De paragrafen 4.1.1 en 4.1.2 zijn van toepassing op overheidsorganisaties.
 
 ##### Paragraaf 4.1.1. Managementsystematiek
 
-##### Artikel 6. (Iso 27001)
+##### Artikel 6. (ISO 27001)
 
 De essentiële entiteit past de NEN-EN-ISO/IEC 27001:2023 toe op het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsystematiek voor de beveiliging van netwerk- en informatiesystemen, als bedoeld in [artikel 6, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0052875&artikel=6), en op het vaststellen van het toepassingsgebied van deze managementsystematiek.
 

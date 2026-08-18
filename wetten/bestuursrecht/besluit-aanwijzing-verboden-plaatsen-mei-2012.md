@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 31 mei 2012, houdende aanwijzing tot ‘verboden plaatsen’"
+citeertitel: "Besluit aanwijzing verboden plaatsen (mei 2012)"
 identifier: "BWBR0031692"
-country: "nl"
-rank: "kb"
-publication_date: "2012-08-01"
-last_updated: "2012-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031692"
+categorie: "Overig"
 soort: "KB"
-stam_id: "11766523"
-version_id: "19452212"
-internal_id: "C27271771"
-label_id: "11738824"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031692/2012-08-01/0"
-intitule_bron: "Stcrt.2012-12311"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-31"
-intitule_published: "2012-06-21"
-intitule_in_force: "2012-06-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-12311"
-original_signed_date: "2012-05-31"
-original_published_date: "2012-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-12311"
-entry_into_force_date: "2012-08-01"
-jci_1_3: "jci1.3:c:BWBR0031692&z=2012-08-01&g=2012-08-01"
-jci_1_0: "1.0:c:BWBR0031692&g=2012-08-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing verboden plaatsen (mei 2012)"
-signed_date: "2012-05-31"
-entry_into_force: "2012-08-01"
+publicatiedatum: 2012-08-01
+laatste_update: 2012-08-01
+status: geldig
+toestand: 2012-08-01
+bron: "https://wetten.overheid.nl/BWBR0031692"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 31 mei 2012, houdende aanwijzing tot ‘verboden plaatsen’
-
-Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 24 mei 2012, nr. 3112767;
-
-Gelet op de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=I) en [IV van de Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074&artikel=IV);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 

@@ -1,52 +1,26 @@
 ---
 title: "Wijzigingsregeling Uitvoeringsregeling accijns en de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
+citeertitel: "Wijzigingsregeling Uitvoeringsregeling accijns en Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
 identifier: "BWBR0031540"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-06-01"
-last_updated: "2012-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031540"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "11730673"
-version_id: "19375812"
-internal_id: "C27093691"
-label_id: "11703224"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031540/2012-06-01/0"
-intitule_bron: "Stcrt.2012-8955"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-27"
-intitule_published: "2012-05-09"
-intitule_in_force: "2012-05-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-8955"
-original_signed_date: "2012-04-27"
-original_published_date: "2012-05-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-8955"
-entry_into_force_date: "2012-06-01"
-jci_1_3: "jci1.3:c:BWBR0031540&z=2012-06-01&g=2012-06-01"
-jci_1_0: "1.0:c:BWBR0031540&g=2012-06-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsregeling Uitvoeringsregeling accijns en Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
-signed_date: "2012-04-27"
-entry_into_force: "2012-06-01"
+publicatiedatum: 2012-06-01
+laatste_update: 2012-06-01
+status: geldig
+toestand: 2012-06-01
+bron: "https://wetten.overheid.nl/BWBR0031540"
+opgehaald: 2026-08-18
 ---
+
 # Wijzigingsregeling Uitvoeringsregeling accijns en de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
-
-Gelet op de [artikelen 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), [75, vierde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [76, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), [77, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=77), [78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=78), en [79, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79) en de [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), en [35, tweede lid, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35);
-
-Besluit:
 
 ##### Artikel I
 
-Wijzigt de Uitvoeringsregeling accijns.
+*Wijzigt de Uitvoeringsregeling accijns.*
 
 ##### Artikel II
 
-Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel III
 
@@ -63,5 +37,3 @@ Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en 
 ##### Artikel IV
 
 Deze regeling treedt in werking met ingang van 1 juni 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

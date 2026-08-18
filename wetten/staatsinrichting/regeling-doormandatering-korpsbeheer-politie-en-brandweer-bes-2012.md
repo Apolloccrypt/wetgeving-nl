@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 25 juni 2012, nr. 2012-193556 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012)"
+citeertitel: "Regeling doormandatering korpsbeheer politie en brandweer BES 2012"
 identifier: "BWBR0031763"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2012-07-07"
-last_updated: "2012-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031763"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11785053"
-version_id: "19495712"
-internal_id: "C27336151"
-label_id: "11757404"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031763/2012-07-07/0"
-intitule_bron: "Stcrt.2012-13709"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-25"
-intitule_published: "2012-07-06"
-intitule_in_force: "2012-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13709"
-original_signed_date: "2012-06-25"
-original_published_date: "2012-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13709"
-entry_into_force_date: "2012-07-07"
-jci_1_3: "jci1.3:c:BWBR0031763&z=2012-07-07&g=2012-07-07"
-jci_1_0: "1.0:c:BWBR0031763&g=2012-07-07"
-citeertitel_status: "officieel"
-short_title: "Regeling doormandatering korpsbeheer politie en brandweer BES 2012"
-signed_date: "2012-06-25"
-entry_into_force: "2012-07-07"
+publicatiedatum: 2012-07-07
+laatste_update: 2012-07-07
+status: geldig
+toestand: 2012-07-07
+bron: "https://wetten.overheid.nl/BWBR0031763"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 25 juni 2012, nr. 2012-193556 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031762&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031762&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031762&artikel=6) en [7 van de Mandaatregeling korpsbeheer politie BES en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031762&artikel=7) en [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031745&artikel=5) en [6 van het Organisatie- en mandaatbesluit BZK-BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031745&artikel=6);
-
-Besluit:
 
 #### Paragraaf 1. Bevoegdheden directeur-generaal Politie inzake politiekorps
 
@@ -52,23 +26,23 @@ Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te ne
 
 - a. zijn neergelegd in een document, gericht tot:
 
-- 1°. de Nationale ombudsman, behoudens de afdoening van:
+   - 1°. de Nationale ombudsman, behoudens de afdoening van:
 
-- –. ontvangstbevestigingen,
+      - – ontvangstbevestigingen,
 
-- –. tussenberichten, waaronder uitstelberichten, en
+      - – tussenberichten, waaronder uitstelberichten, en
 
-- –. stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
+      - – stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
 
-- 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
+   - 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
 
 - b. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
 
 - c. worden genomen op grond van [artikel 95 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=95), voor zover de schadeloosstelling betrekking heeft op:
 
-- –. immateriële schade, of
+   - – immateriële schade, of
 
-- –. materiële schade boven een bedrag van € 10.000.
+   - – materiële schade boven een bedrag van € 10.000.
 
 ##### Artikel 3
 
@@ -108,7 +82,7 @@ namens deze,
 
 (naam)
 
-**Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie**
+*Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*
 
 2. Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van de ambtenaren van politie vindt plaats op de volgende wijze:
 
@@ -120,7 +94,7 @@ namens deze,
 
 (naam)
 
-**Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie**
+*Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*
 
 #### Paragraaf 2. bevoegdheden directeur-generaal Politie inzake brandweerkorps
 
@@ -134,23 +108,23 @@ Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te ne
 
 - a. zijn neergelegd in een document, gericht tot:
 
-- 1°. de Nationale ombudsman, behoudens de afdoening van:
+   - 1°. de Nationale ombudsman, behoudens de afdoening van:
 
-- –. ontvangstbevestigingen,
+      - – ontvangstbevestigingen,
 
-- –. tussenberichten, waaronder uitstelberichten, en
+      - – tussenberichten, waaronder uitstelberichten, en
 
-- –. stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
+      - – stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
 
-- 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
+   - 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
 
 - b. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de Wet openbaarheid van bestuur, indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
 
 - c. worden genomen op grond van [artikel 69 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=69), voor zover de schadeloosstelling betrekking heeft op:
 
-- –. immateriële schade, of
+   - – immateriële schade, of
 
-- –. materiële schade boven een bedrag van € 10.000.
+   - – materiële schade boven een bedrag van € 10.000.
 
 ##### Artikel 7
 
@@ -184,7 +158,7 @@ namens deze,
 
 (naam)
 
-**Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie**
+*Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*
 
 2. Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van ambtenaren van het brandweerkorps vindt plaats op de volgende wijze:
 
@@ -196,7 +170,7 @@ namens deze,
 
 (naam)
 
-**Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie**
+*Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*
 
 #### Paragraaf 3. Overige bepalingen
 
@@ -207,5 +181,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling doormandatering korpsbeheer politie en brandweer BES 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

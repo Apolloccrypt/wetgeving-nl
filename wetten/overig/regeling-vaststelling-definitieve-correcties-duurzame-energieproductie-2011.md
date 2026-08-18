@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 28 maart 2012, nr. WJZ / 12042881, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2011 (Regeling vaststelling definitieve correcties duurzame energieproductie 2011)"
+citeertitel: "Regeling vaststelling definitieve correcties duurzame energieproductie 2011"
 identifier: "BWBR0031416"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-04-04"
-last_updated: "2012-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031416"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11701073"
-version_id: "19317972"
-internal_id: "C26976681"
-label_id: "11673844"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031416/2012-04-04/0"
-intitule_bron: "Stcrt.2012-6371"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-28"
-intitule_published: "2012-04-03"
-intitule_in_force: "2012-04-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-6371"
-original_signed_date: "2012-03-28"
-original_published_date: "2012-04-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-6371"
-entry_into_force_date: "2012-04-04"
-jci_1_3: "jci1.3:c:BWBR0031416&z=2012-04-04&g=2012-04-04"
-jci_1_0: "1.0:c:BWBR0031416&g=2012-04-04"
-citeertitel_status: "officieel"
-short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2011"
-signed_date: "2012-03-28"
-entry_into_force: "2012-04-04"
+publicatiedatum: 2012-04-04
+laatste_update: 2012-04-04
+status: geldig
+toestand: 2012-04-04
+bron: "https://wetten.overheid.nl/BWBR0031416"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 28 maart 2012, nr. WJZ / 12042881, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2011 (Regeling vaststelling definitieve correcties duurzame energieproductie 2011)
-
-Gelet op de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), en [31, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **besluit:** het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
+- a. *besluit:* het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
 
-- b. **regeling 2008:** de [Regeling aanwijzing categorieën duurzame energieproductie 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023566);
+- b. *regeling 2008:* de [Regeling aanwijzing categorieën duurzame energieproductie 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023566);
 
-- c. **regeling 2009:** de [Regeling aanwijzing categorieën duurzame energieproductie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025570);
+- c. *regeling 2009:* de [Regeling aanwijzing categorieën duurzame energieproductie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025570);
 
-- d. **regeling 2010:** de [Regeling aanwijzing categorieën duurzame energieproductie 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027115);
+- d. *regeling 2010:* de [Regeling aanwijzing categorieën duurzame energieproductie 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027115);
 
-- e. **regeling 2011:** de [Regeling aanwijzing categorieën duurzame energieproductie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030034);
+- e. *regeling 2011:* de [Regeling aanwijzing categorieën duurzame energieproductie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030034);
 
-- f. **basisbedrag:** het basisbedrag, bedoeld in de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), en [28, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28).
+- f. *basisbedrag:* het basisbedrag, bedoeld in de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), en [28, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28).
 
-#### § 2. Correctiebedragen [Regeling aanwijzing categorieën duurzame energieproductie 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023566)
+#### § 2. Correctiebedragen Regeling aanwijzing categorieën duurzame energieproductie 2008
 
 ##### Artikel 2
 
@@ -106,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31).
 
-#### § 3. Correctiebedragen [Regeling aanwijzing categorieën duurzame energieproductie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025570)
+#### § 3. Correctiebedragen Regeling aanwijzing categorieën duurzame energieproductie 2009
 
 ##### Artikel 4
 
@@ -172,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31).
 
-#### § 4. Correctiebedragen [Regeling windenergie op zee 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026690)
+#### § 4. Correctiebedragen Regeling windenergie op zee 2009
 
 ##### Artikel 6
 
@@ -182,7 +156,7 @@ De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artike
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14).
 
-#### § 5. Correctiebedragen [Regeling aanwijzing categorieën duurzame energieproductie 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027115)
+#### § 5. Correctiebedragen Regeling aanwijzing categorieën duurzame energieproductie 2010
 
 ##### Artikel 7
 
@@ -248,7 +222,7 @@ De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artike
 
 - b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31).
 
-#### § 6. Correctiebedragen [Regeling aanwijzing categorieën duurzame energieproductie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030034)
+#### § 6. Correctiebedragen Regeling aanwijzing categorieën duurzame energieproductie 2011
 
 ##### Artikel 9
 

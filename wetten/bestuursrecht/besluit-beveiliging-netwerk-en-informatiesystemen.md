@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0041520"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Besluit van 30 oktober 2018, houdende regels ter uitvoering van de Wet beveiliging netwerk- en informatiesystemen (Besluit beveiliging netwerk- en informatiesystemen)

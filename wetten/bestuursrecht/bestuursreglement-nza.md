@@ -1,64 +1,42 @@
 ---
 title: "Bestuursreglement Nederlandse Zorgautoriteit (NZa)"
+citeertitel: "Bestuursreglement NZa"
 identifier: "BWBR0031118"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-04-17"
-last_updated: "2025-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031118"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "11631813"
-version_id: "30697282"
-internal_id: "C44003261"
-label_id: "11604784"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031118/2025-04-17/0"
-intitule_bron: "Stcrt.2012-843"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-06"
-intitule_published: "2012-01-17"
-intitule_in_force: "2012-01-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-13144"
-original_signed_date: "2025-04-08"
-original_published_date: "2025-04-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-13144"
-entry_into_force_date: "2025-04-17"
-jci_1_3: "jci1.3:c:BWBR0031118&z=2025-04-17&g=2025-04-17"
-jci_1_0: "1.0:c:BWBR0031118&g=2025-04-17"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement NZa"
-signed_date: "2025-04-08"
-entry_into_force: "2025-04-17"
+publicatiedatum: 2025-04-17
+laatste_update: 2025-04-17
+status: geldig
+toestand: 2025-04-17
+bron: "https://wetten.overheid.nl/BWBR0031118"
+opgehaald: 2026-08-18
 ---
+
 # Bestuursreglement Nederlandse Zorgautoriteit (NZa)
 
-Vastgesteld op grond van [artikel 5, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=5) op 6 december 2011, goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport op grond van [artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), bij brief van 22 december 2011, kenmerk MC-U-3097538.
+Vastgesteld op grond van [artikel 5, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=5) op 6 december 2011, goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport op grond van [artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), bij brief van 22 december 2011, kenmerk MC-U-3097538.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *Wmg:* [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **NZa:** Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. *NZa:* Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- c. **Raad van Bestuur:** Raad van Bestuur van de NZa;
+- c. *Raad van Bestuur:* Raad van Bestuur van de NZa;
 
-- d. **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- d. *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- e. **reglement:** onderhavig bestuursreglement dat is vastgesteld door de NZa en goedgekeurd door de minister;
+- e. *reglement:* onderhavig bestuursreglement dat is vastgesteld door de NZa en goedgekeurd door de minister;
 
-- f. **voorzitter:** degene die door de minister als voorzitter van de Raad van Bestuur is benoemd;
+- f. *voorzitter:* degene die door de minister als voorzitter van de Raad van Bestuur is benoemd;
 
-- g. **bestuurslid:** degene die door de minister als lid van de Raad van Bestuur van de NZa is benoemd, waaronder ook de voorzitter;
+- g. *bestuurslid:* degene die door de minister als lid van de Raad van Bestuur van de NZa is benoemd, waaronder ook de voorzitter;
 
-- h. **directeur:** leidinggevende van een directie van de NZa;
+- h. *directeur:* leidinggevende van een directie van de NZa;
 
-- i. **gmt:** gemeenschappelijk managementteam bestaande uit in ieder geval de bestuursleden van de Raad van Bestuur en de directeuren.
+- i. *gmt:* gemeenschappelijk managementteam bestaande uit in ieder geval de bestuursleden van de Raad van Bestuur en de directeuren.
 
 ##### Artikel 2. De Raad van Bestuur
 
@@ -111,6 +89,10 @@ In dit bestuursreglement wordt verstaan onder:
 5. In spoedeisende gevallen kan de Raad van Bestuur hetzij schriftelijk, hetzij op andere geschikte wijze vergaderen. Dit ter beoordeling van de voorzitter. De wijze van besluitvorming wordt met de besluiten in het verslag vastgelegd.
 
 6. Over voorstellen omtrent de orde van de vergadering wordt bij voorrang beslist.
+
+##### Artikel 4a. Het gmt
+
+Het gmt bespreekt strategische keuzes die de NZa raken en een integrale afweging behoeven op het gebied van de taken en bedrijfsvoering van de NZa. De voorzitter kan strategische onderwerpen ter advisering voorleggen aan het gmt. Het gmt adviseert de Raad van Bestuur.
 
 ##### Artikel 5. Het verslag
 
@@ -176,9 +158,9 @@ De Raad van Bestuur stelt een Besluit organisatie, mandaat, volmacht en machtigi
 
 2. Voor de behandeling van klachten benoemt de Raad van Bestuur een externe klachtenfunctionaris. De externe klachtenfunctionaris krijgt een nader overeen te komen uurvergoeding voor zijn werkzaamheden. De wijze van behandeling van klachten is geregeld in de Klachtenregeling.
 
-##### Artikel 13. Verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) (Awb)
+##### Artikel 13. Verplichtingen ingevolge artikel 3:2 van de Algemene wet bestuursrecht (Awb)
 
-De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) om bij de voorbereiding van besluiten de nodige kennis omtrent de relevante feiten en de af te wegen belangen te vergaren, zal door de NZa worden vastgelegd in een afzonderlijk document.
+De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2) om bij de voorbereiding van besluiten de nodige kennis omtrent de relevante feiten en de af te wegen belangen te vergaren, zal door de NZa worden vastgelegd in een afzonderlijk document.
 
 ##### Artikel 14. Commissies en raden
 
@@ -243,63 +225,3 @@ De wijze waarop de NZa invulling zal geven aan haar verplichtingen ingevolge [ar
 3. Dit reglement wordt na goedkeuring door de minister gepubliceerd in de Staatscourant.
 
 4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
-
-##### Artikel 19. Slotbepaling
-
-1. Dit reglement kan worden aangehaald als: Bestuursreglement NZa.
-
-2. In alle gevallen waarin dit reglement niet voorziet, en in alle geschillen over de uitleg van dit reglement, beslist de voorzitter.
-
-3. Dit reglement wordt na goedkeuring door de minister gepubliceerd in de Staatscourant.
-
-4. Dit reglement treedt in werking op de dag na publicatie in de Staatscourant.
-
-## Bijlage 1. behorend bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=15&z=2025-04-17&g=2025-04-17) van het Bestuursreglement NZa
-
-Vervallen
-
-### Profiel leden Raad van Advies
-
-De Raad van Advies functioneert binnen de grenzen van de standaard bevoegdheidsverdeling van de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495). De Raad van Advies bestaat uit personen van wie de betrouwbaarheid en onafhankelijkheid buiten twijfel staat en die geschikt zijn voor de uitoefening van hun functie. Het is niet nodig dat elk lid van de Raad van Advies in dezelfde mate voldoet aan alle genoemde criteria. De Raad van Advies wordt geleid door een ervaren voorzitter.
-
-De Raad van Advies bestaat uit maximaal 5 leden en is divers samengesteld. De leden worden benoemd voor de duur van vier jaren. Herbenoeming van leden kan eenmaal geschieden voor de duur van ten hoogste vier jaren. In het kader van de diversiteit in de samenstelling van de Raad van Advies als geheel worden bij de samenstelling van de leden (waaronder ook de voorzitter) de volgende criteria meegewogen:
-
-Goede spreiding man/ vrouw
-
-Goede spreiding over leeftijd
-
-Goede spreiding achtergrond en persoonlijkheid
-
-Goede spreiding van kennis en ervaring
-
-Voor alle leden afzonderlijk is van belang dat zij voldoen aan de volgende criteria:
-
-Voor leden afzonderlijk (of gecombineerd bij een lid) is van belang dat zij aan de volgende criteria voldoen:
-
-## Bijlage 2. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=16&z=2017-11-29&g=2017-11-29) van het Bestuursreglement NZa
-
-### Profiel leden Audit Adviescommittee
-
-Het inrichten van een onafhankelijk Audit Adviescommittee van externe deskundigen is in lijn met het systeem van checks and balances. Daarnaast bestaat het Audit Adviescommittee uit personen van wie de betrouwbaarheid en onafhankelijkheid buiten twijfel staat en die geschikt zijn voor de uitoefening van hun functie. Het is niet nodig dat elk lid van het Audit Adviescommittee in dezelfde mate voldoet aan alle genoemde criteria. Het Audit Adviescommittee wordt geleid door een ervaren voorzitter.
-
-Het Audit Adviescommittee bestaat uit maximaal 3 leden en is divers samengesteld. De leden worden benoemd voor de duur van vier jaren. Herbenoeming van leden kan eenmaal geschieden voor de duur van ten hoogste vier jaren. In het kader van de diversiteit in de samenstelling van het Audit Adviescommittee als geheel worden bij de samenstelling van de leden (waaronder ook de voorzitter) de volgende criteria meegewogen:
-
-Goede spreiding man/ vrouw
-
-Goede spreiding over leeftijd
-
-Goede spreiding achtergrond en persoonlijkheid
-
-Goede spreiding van deskundigheid, kennis en ervaring
-
-Voor alle leden afzonderlijk is van belang dat zij voldoen aan de volgende criteria:
-
-Voor leden afzonderlijk (of gecombineerd bij een lid) is van belang dat zij aan de volgende criteria voldoen:
-
-##### Artikel 4a. Het gmt
-
-Het gmt bespreekt strategische keuzes die de NZa raken en een integrale afweging behoeven op het gebied van de taken en bedrijfsvoering van de NZa. De voorzitter kan strategische onderwerpen ter advisering voorleggen aan het gmt. Het gmt adviseert de Raad van Bestuur.
-
-## Bijlage 2. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0031118&artikel=16&z=2025-04-17&g=2025-04-17) van het Bestuursreglement NZa
-
-Vervallen

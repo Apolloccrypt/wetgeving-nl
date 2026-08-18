@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 10 augustus, nr. 5734086/DJI/12, houdende regels aangaande het verlaten van de inrichting bij wijze van verlof BES (Verlofregeling BES)"
+citeertitel: "Verlofregeling BES"
 identifier: "BWBR0031958"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2012-08-15"
-last_updated: "2012-08-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031958"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "11836693"
-version_id: "19627382"
-internal_id: "C27534051"
-label_id: "11808934"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031958/2012-08-15/0"
-intitule_bron: "Stcrt.2012-18350"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-08-10"
-intitule_published: "2012-09-11"
-intitule_in_force: "2012-09-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-18350"
-original_signed_date: "2012-08-10"
-original_published_date: "2012-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-18350"
-entry_into_force_date: "2012-08-15"
-jci_1_3: "jci1.3:c:BWBR0031958&z=2012-08-15&g=2012-08-15"
-jci_1_0: "1.0:c:BWBR0031958&g=2012-08-15"
-citeertitel_status: "officieel"
-short_title: "Verlofregeling BES"
-signed_date: "2012-08-10"
-entry_into_force: "2012-08-15"
+publicatiedatum: 2012-08-15
+laatste_update: 2012-08-15
+status: geldig
+toestand: 2012-08-15
+bron: "https://wetten.overheid.nl/BWBR0031958"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 10 augustus, nr. 5734086/DJI/12, houdende regels aangaande het verlaten van de inrichting bij wijze van verlof BES (Verlofregeling BES)
-
-Gelet op [artikel 39, eerste lid, van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=39);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,21 +20,21 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **de wet:** de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596);
+- b. *de wet:* de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596);
 
-- c. **gesticht:** een gesticht als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=2);
+- c. *gesticht:* een gesticht als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=2);
 
-- d. **directeur:** het hoofd van een gesticht alsmede diens vervanger, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=14);
+- d. *directeur:* het hoofd van een gesticht alsmede diens vervanger, bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=14);
 
-- e. **elektronisch toezicht:** een technische voorziening waarbij, gebruikmakend van signalen, de aanwezigheid en afwezigheid van een gedetineerde op een bepaalde tijd en plaats gecontroleerd wordt;
+- e. *elektronisch toezicht:* een technische voorziening waarbij, gebruikmakend van signalen, de aanwezigheid en afwezigheid van een gedetineerde op een bepaalde tijd en plaats gecontroleerd wordt;
 
-- f. **verlof:** het verlaten van het gesticht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031958&hoofdstuk=1&artikel=2&z=2012-08-15&g=2012-08-15);
+- f. *verlof:* het verlaten van het gesticht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031958&hoofdstuk=1&artikel=2&z=2012-08-15&g=2012-08-15);
 
-- g. **Stichting Reclassering Caribisch Nederland:** een stichting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=1) juncto [4 van het Reclasseringsbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=4);
+- g. *Stichting Reclassering Caribisch Nederland:* een stichting als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=1) juncto [4 van het Reclasseringsbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=4);
 
-- h. **Voogdijraad:** de voogdijraad, bedoeld in [artikel 238, eerste lid van Boek 1 van het burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238).
+- h. *Voogdijraad:* de voogdijraad, bedoeld in [artikel 238, eerste lid van Boek 1 van het burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238).
 
 ##### Artikel 2
 
@@ -191,5 +163,3 @@ Incidenteel verlof wordt geweigerd aan de gedetineerde, die binnen een maand na 
 1. Deze regeling treedt in werking met ingang van 15 augustus 2012.
 
 2. Deze regeling wordt aangehaald als: Verlofregeling BES
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

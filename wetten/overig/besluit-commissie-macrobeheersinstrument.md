@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 4 april 2012, nr. CZ/IPZ-3108414, houdende instelling van de Commissie Macrobeheersinstrument"
+citeertitel: "Besluit Commissie macrobeheersinstrument"
 identifier: "BWBR0031450"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-04-14"
-last_updated: "2012-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031450"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11708113"
-version_id: "19330412"
-internal_id: "C26993931"
-label_id: "11680774"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031450/2012-04-14/0"
-intitule_bron: "Stcrt.2012-7102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-04"
-intitule_published: "2012-04-13"
-intitule_in_force: "2012-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7102"
-original_signed_date: "2012-04-04"
-original_published_date: "2012-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7102"
-entry_into_force_date: "2012-04-14"
-jci_1_3: "jci1.3:c:BWBR0031450&z=2012-04-14&g=2012-04-14"
-jci_1_0: "1.0:c:BWBR0031450&g=2012-04-14"
-citeertitel_status: "officieel"
-short_title: "Besluit Commissie macrobeheersinstrument"
-signed_date: "2012-04-04"
-entry_into_force: "2012-04-14"
+publicatiedatum: 2012-04-14
+laatste_update: 2012-04-14
+status: geldig
+toestand: 2012-04-14
+bron: "https://wetten.overheid.nl/BWBR0031450"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 4 april 2012, nr. CZ/IPZ-3108414, houdende instelling van de Commissie Macrobeheersinstrument
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -91,5 +65,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Commissie macrobeheersinstrument.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,92 +1,74 @@
 ---
 title: "Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2012)"
+citeertitel: "Belastingplan 2012"
 identifier: "BWBR0030999"
-country: "nl"
-rank: "wet"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0030999"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "11594813"
-version_id: "20045682"
-internal_id: "C28155701"
-label_id: "11568224"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0030999/2017-01-01/0"
-intitule_bron: "Stb.2011-639"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-22"
-intitule_published: "2011-12-29"
-intitule_in_force: "2011-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2012-668"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-27"
-original_effect: "structuurwijziging"
-original_dossier: "33402"
-original_url_id: "stb-2012-668"
-entry_into_force_date: "2012-12-20"
-entry_into_force_dossier: "33402"
-jci_1_3: "jci1.3:c:BWBR0030999&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBR0030999&g=2017-01-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2012"
-signed_date: "2012-12-20"
-entry_into_force: "2012-12-20"
+publicatiedatum: 2012-12-20
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBR0030999"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2012)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het voor het jaar 2012 wenselijk is het aantal belastingen in belangrijke mate te verminderen, een aantal onevenwichtigheden in de vennootschapsbelasting weg te nemen, maatregelen te treffen die voortvloeien uit het Regeerakkoord en de woningmarkt een impuls te geven;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
+
+##### Artikel IIIa
+
+In de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vervalt [artikel 10a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.11) met ingang van 1 januari 2022.
 
 ##### Artikel IV
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
+
+##### Artikel VIIa
+
+*Wijzigt de Wet op de loonbelasting 1964.*
+
+##### Artikel VIIb
+
+In de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) vervalt [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d) met ingang van 1 januari 2022.
 
 ##### Artikel VIII
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel IX
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XII
 
@@ -96,49 +78,49 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel XIII
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel XIV
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XIVa
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XV
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel XVI
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XIX
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel XX
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel XXII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XXIII
 
@@ -150,43 +132,43 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel XXIV
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
+*Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.*
 
 ##### Artikel XXVIII
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XXIX
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXX
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XXXI
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
 ##### Artikel XXXII
 
-Wijzigt de Natuurschoonwet 1928.
+*Wijzigt de Natuurschoonwet 1928.*
 
 ##### Artikel XXXIII
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel XXXIV
 
@@ -212,15 +194,15 @@ In afwijking in zoverre van de eerste volzin blijft de regeling inzake het rente
 
 ##### Artikel XXXV
 
-Wijzigt het Belastingplan 2011.
+*Wijzigt het Belastingplan 2011.*
 
 ##### Artikel XXXVI
 
-Wijzigt de Wet uniformering loonbegrip.
+*Wijzigt de Wet uniformering loonbegrip.*
 
 ##### Artikel XXXVIa
 
-Wijzigt de Wet aanpassing bestuursprocesrecht (Kst. 32 450).
+*Wijzigt de Wet aanpassing bestuursprocesrecht (Kst. 32 450).*
 
 ##### Artikel XXXVIb
 
@@ -240,15 +222,15 @@ Wijzigt de Wet aanpassing bestuursprocesrecht (Kst. 32 450).
 
 ##### Artikel XXXVId
 
-Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag (beperking emissies kolencentrales) (Kst. 31 362).
+*Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag (beperking emissies kolencentrales) (Kst. 31 362).*
 
 ##### Artikel XXXVIe
 
-Wijzigt de Verzamelwet Verkeer en Waterstaat 2010 (Kst. 32 403).
+*Wijzigt de Verzamelwet Verkeer en Waterstaat 2010 (Kst. 32 403).*
 
 ##### Artikel XXXVIf
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel XXXVII
 
@@ -281,19 +263,3 @@ Ingeval de samenloop van wetten die in 2011 in het Staatsblad zijn of worden gep
 ##### Artikel XXXIX
 
 Deze wet wordt aangehaald als: Belastingplan 2012.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IIIa
-
-In de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vervalt [artikel 10a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.11) met ingang van 1 januari 2022.
-
-##### Artikel VIIa
-
-Wijzigt de Wet op de loonbelasting 1964.
-
-##### Artikel VIIb
-
-In de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) vervalt [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d) met ingang van 1 januari 2022.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

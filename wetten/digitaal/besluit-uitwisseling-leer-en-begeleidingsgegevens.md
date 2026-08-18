@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 2 mei 2012, houdende nadere voorschriften omtrent het onderwijskundig rapport en de specificatie van leer- en begeleidingsgegevens (Besluit uitwisseling leer- en begeleidingsgegevens)"
+citeertitel: "Besluit uitwisseling leer- en begeleidingsgegevens"
 identifier: "BWBR0031619"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031619"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "11746563"
-version_id: "19413812"
-internal_id: "C27428811"
-label_id: "11719034"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031619/2022-08-01/0"
-intitule_bron: "Stb.2012-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-02"
-intitule_published: "2012-06-05"
-intitule_in_force: "2012-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2012-234"
-original_signed_date: "2012-05-02"
-original_published_date: "2012-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-234"
-entry_into_force_date: "2012-08-01"
-jci_1_3: "jci1.3:c:BWBR0031619&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0031619&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit uitwisseling leer- en begeleidingsgegevens"
-signed_date: "2012-05-02"
-entry_into_force: "2012-08-01"
+publicatiedatum: 2012-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0031619"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 2 mei 2012, houdende nadere voorschriften omtrent het onderwijskundig rapport en de specificatie van leer- en begeleidingsgegevens (Besluit uitwisseling leer- en begeleidingsgegevens)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 16 februari 2012, nr. WJZ/371567 (2742), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie;
-
-Gelet op [artikel 42, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42), [artikel 43, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), [artikel 103b, zevende lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b) en de [artikelen 2.3.6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), en [2.5.5a, negende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 18 april 2012, nr. W05.12.0048/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 26 april 2012, nr. WJZ/402857 (02742), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -52,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **leerling:** leerling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel student of vavo-student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- *leerling:* leerling als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel student of vavo-student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **school:** school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel instelling als bedoeld in de [Wet educatie en beroepsonderwij](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)s.
+- *school:* school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel instelling als bedoeld in de [Wet educatie en beroepsonderwij](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)s.
 
 #### Paragraaf 2. Onderwijskundig rapport
 
 ##### Artikel 2. Inhoud
 
-Het onderwijskundig rapport, bedoeld in [artikel 42 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42) en [artikel 43 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), kan geen andere gegevens bevatten dan:
+Het onderwijskundig rapport, bedoeld in [artikel 42 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42) en [artikel 43 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), kan geen andere gegevens bevatten dan:
 
 - a. administratieve gegevens;
 
@@ -86,7 +54,7 @@ Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://w
 
 ##### Artikel 4. Gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring
 
-1. Onder gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), worden uitsluitend verstaan, gegevens over:
+1. Onder gegevens over onderwijshistorie, leerresultaten en stage- en werkervaring als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), worden uitsluitend verstaan, gegevens over:
 
 - a. de feitelijke onderwijsloopbaan van de leerling waaronder de overstap tussen scholen, de bevorderingen, de verrichte stages en de reeds opgedane werkervaring;
 
@@ -100,7 +68,7 @@ Onder administratieve gegevens als bedoeld in [artikel 2, onderdeel a](https://w
 
 ##### Artikel 5. Gegevens over de sociaal-emotionele ontwikkeling en het gedrag
 
-1. Onder gegevens over de sociaal-emotionele ontwikkeling van de leerling als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), worden uitsluitend verstaan, gegevens:
+1. Onder gegevens over de sociaal-emotionele ontwikkeling van de leerling als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), worden uitsluitend verstaan, gegevens:
 
 - a. uit een leerlingvolgsysteem of een vergelijkbare systematiek van beoordelen; en
 
@@ -128,13 +96,21 @@ Onder gegevens met betrekking tot de gegeven of geïndiceerde begeleiding als be
 
 Onder gegevens omtrent de verzuimhistorie als bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), worden uitsluitend verstaan gegevens over relatief verzuim, voor zover dit verzuim heeft plaatsgevonden in het jaar voorafgaand aan het opstellen van het onderwijskundig rapport.
 
+##### Artikel 7a. Bewaartermijn
+
+Het onderwijskundig rapport wordt bewaard tot vijf jaar na uitschrijving van de leerling.
+
 #### Paragraaf 3. Leer- en begeleidingsgegevens die met het persoonsgebonden nummer mogen worden uitgewisseld
 
 ##### Artikel 8. Specificatie van gegevens
 
-Onder leergegevens en direct met het leren samenhangende begeleidingsgegevens, bedoeld in [artikel 8.17, vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.17) en de [artikelen 2.3.6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), en [2.5.5a, negende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), worden verstaan de gegevens, bedoeld in de [artikelen 2, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), en [4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01).
+Onder leergegevens en direct met het leren samenhangende begeleidingsgegevens, bedoeld in [artikel 8.17, vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.17) en de [artikelen 2.3.6a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.6a), en [2.5.5a, negende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), worden verstaan de gegevens, bedoeld in de [artikelen 2, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), en [4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031619&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01).
 
 #### Paragraaf 4. Slotbepalingen
+
+##### Artikel 8a. Omhangbepaling
+
+Dit besluit berust mede op [artikel 8.17, vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.17).
 
 ##### Artikel 9. Citeertitel
 
@@ -143,21 +119,3 @@ Dit besluit wordt aangehaald als: Besluit uitwisseling leer- en begeleidingsgege
 ##### Artikel 10. Inwerkingtreding
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. Bewaartermijn
-
-Het onderwijskundig rapport wordt bewaard tot vijf jaar na uitschrijving van de leerling.
-
-#### Paragraaf 3. Leer- en begeleidingsgegevens die met het persoonsgebonden nummer mogen worden uitgewisseld
-
-#### Paragraaf 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a. Omhangbepaling
-
-Dit besluit berust mede op [artikel 8.17, vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.17).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

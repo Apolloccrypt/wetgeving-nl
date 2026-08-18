@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 17 juli 2012 tot vaststelling van de procedure voor verlenging van vergunningen als bedoeld in artikel 20.2 van de Telecommunicatiewet ten behoeve van de continuïteit van dienstverlening (Besluit continuïteit mobiele telecommunicatiedienstverlening)"
+citeertitel: "Besluit continuïteit mobiele telecommunicatiedienstverlening"
 identifier: "BWBR0031844"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-09-27"
-last_updated: "2012-09-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031844"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "11813143"
-version_id: "19567952"
-internal_id: "C27573891"
-label_id: "11785334"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031844/2012-09-27/0"
-intitule_bron: "Stb.2012-352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-17"
-intitule_published: "2012-07-27"
-intitule_in_force: "2012-09-26"
-intitule_status: "goed"
-original_publication: "Stb.2012-352"
-original_signed_date: "2012-07-17"
-original_published_date: "2012-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-352"
-entry_into_force_date: "2012-09-27"
-jci_1_3: "jci1.3:c:BWBR0031844&z=2012-09-27&g=2012-09-27"
-jci_1_0: "1.0:c:BWBR0031844&g=2012-09-27"
-citeertitel_status: "officieel"
-short_title: "Besluit continuïteit mobiele telecommunicatiedienstverlening"
-signed_date: "2012-07-17"
-entry_into_force: "2012-09-27"
+publicatiedatum: 2012-09-27
+laatste_update: 2012-09-27
+status: geldig
+toestand: 2012-09-27
+bron: "https://wetten.overheid.nl/BWBR0031844"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 17 juli 2012 tot vaststelling van de procedure voor verlenging van vergunningen als bedoeld in artikel 20.2 van de Telecommunicatiewet ten behoeve van de continuïteit van dienstverlening (Besluit continuïteit mobiele telecommunicatiedienstverlening)
-
-Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 9 mei 2012, nr. WJZ/12046260;
-
-Gelet op de [artikelen 3.3, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.5) en [18.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.12) en [artikel 20.2 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.2) juncto artikel 13k van de Wet op de telecommunicatievoorzieningen;
-
-De Afdeling advisering van de Raad van State gehoord (advies van 31 mei 2012, nr. W15.12.0158/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken, Landbouw en Innovatie van 16 juli 2012, nr. WJZ/12078478;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Verlenging ten behoeve van de continuïteit van dienstverlening
 
@@ -64,7 +32,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Wijzigt het Frequentiebesluit.
+*Wijzigt het Frequentiebesluit.*
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -79,5 +47,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit continuïteit mobiele telecommunicatiedienstverlening.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

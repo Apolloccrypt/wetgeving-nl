@@ -1,54 +1,29 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 augustus 2012, nr. IENM/BSK-2012/145416, houdende instelling van en vaststelling van nadere regels omtrent de taak, samenstelling en werkwijze van de Commissies regionaal overleg bij burgerluchthavens van nationale betekenis (Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis)"
+citeertitel: "Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis"
 identifier: "BWBR0031909"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031909"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11826993"
-version_id: "19605102"
-internal_id: "C27503281"
-label_id: "11799234"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031909/2024-01-01/0"
-intitule_bron: "Stcrt.2012-17024"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-08-14"
-intitule_published: "2012-08-21"
-intitule_in_force: "2012-08-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-17024"
-original_signed_date: "2012-08-14"
-original_published_date: "2012-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-17024"
-entry_into_force_date: "2012-08-22"
-jci_1_3: "jci1.3:c:BWBR0031909&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0031909&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis"
-signed_date: "2012-08-14"
-entry_into_force: "2012-08-22"
+publicatiedatum: 2012-08-22
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0031909"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 augustus 2012, nr. IENM/BSK-2012/145416, houdende instelling van en vaststelling van nadere regels omtrent de taak, samenstelling en werkwijze van de Commissies regionaal overleg bij burgerluchthavens van nationale betekenis (Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis)
-
-Gelet op [artikel 8.75, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.75), juncto [artikel 8.59, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.59);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie als bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=2&z=2024-01-01&g=2024-01-01);
+- *commissie:* commissie als bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=2&z=2024-01-01&g=2024-01-01);
 
-- **minister:** Minister van Infrastructuur en Milieu;
+- *minister:* Minister van Infrastructuur en Milieu;
 
-- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ##### Artikel 2. luchthaven Eelde
 
@@ -68,7 +43,7 @@ Er is een Commissie regionaal overleg luchthaven Rotterdam.
 
 ##### Artikel 6. luchthaven Twente
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 7. Taak
 
@@ -163,5 +138,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

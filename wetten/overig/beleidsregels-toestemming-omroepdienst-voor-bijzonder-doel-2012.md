@@ -1,52 +1,22 @@
 ---
 title: "Besluit van het Commissariaat voor de Media van 24 januari 2012 houdende beleidsregels omtrent de verlening van toestemming aan natuurlijke of rechtspersonen om door middel van een omroepzender een omroepdienst voor een bijzonder doel te verzorgen dat een beperkt bereik heeft of van beperkte duur is (Beleidsregels toestemming omroepdienst voor bijzonder doel 2012)"
+citeertitel: "Beleidsregels toestemming omroepdienst voor bijzonder doel 2012"
 identifier: "BWBR0031262"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-01-24"
-last_updated: "2012-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031262"
+categorie: "Milieu"
 soort: "zbo"
-stam_id: "11664123"
-version_id: "19243362"
-internal_id: "C26849161"
-label_id: "11636854"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031262/2012-01-24/0"
-intitule_bron: "Stcrt.2012-2502"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-01-24"
-intitule_published: "2012-02-10"
-intitule_in_force: "2012-02-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-2502"
-original_signed_date: "2012-01-24"
-original_published_date: "2012-02-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-2502"
-entry_into_force_date: "2012-01-24"
-jci_1_3: "jci1.3:c:BWBR0031262&z=2012-01-24&g=2012-01-24"
-jci_1_0: "1.0:c:BWBR0031262&g=2012-01-24"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels toestemming omroepdienst voor bijzonder doel 2012"
-signed_date: "2012-01-24"
-entry_into_force: "2012-01-24"
+publicatiedatum: 2012-01-24
+laatste_update: 2012-01-24
+status: geldig
+toestand: 2012-01-24
+bron: "https://wetten.overheid.nl/BWBR0031262"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van het Commissariaat voor de Media van 24 januari 2012 houdende beleidsregels omtrent de verlening van toestemming aan natuurlijke of rechtspersonen om door middel van een omroepzender een omroepdienst voor een bijzonder doel te verzorgen dat een beperkt bereik heeft of van beperkte duur is (Beleidsregels toestemming omroepdienst voor bijzonder doel 2012)
-
-Gelet op de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12);
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Strekking van de regeling
 
-De beleidsregels vastgesteld in deze regeling hebben betrekking op het wettelijke voorschrift dat is opgenomen in de bijlage bij deze regeling.
+De beleidsregels vastgesteld in deze regeling hebben betrekking op het wettelijke voorschrift dat is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0031262) bij deze regeling.
 
 ##### Artikel 2. Evenementenzender
 
@@ -91,7 +61,3 @@ Ten aanzien van de inhoud van de omroepdienst die op grond van de in [artikel 4]
 3. Deze regeling wordt aangehaald als Beleidsregels toestemming omroepdienst voor bijzonder doel 2012.
 
 4. Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).
-
-## Bijlage. Beleidsregels toestemming programma voor bijzonder doel 2012
-
-### [Artikel 6.9 Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9)

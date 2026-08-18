@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052904"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 juli 2026, nr. WJZ/107065854, tot aanwijzing van een toezichthouder voor de Cyberbeveiligingswet (Besluit aanwijzing toezichthouder Cyberbeveiligingswet LVVN)

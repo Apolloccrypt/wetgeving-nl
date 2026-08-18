@@ -1,47 +1,23 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Litouwen"
 identifier: "BWBR0031820"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2012-07-05"
-last_updated: "2012-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031820"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11801703"
-version_id: "19545672"
-internal_id: "C27418031"
-label_id: "11773994"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031820/2012-07-05/0"
-intitule_bron: "Stcrt.2012-15058"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-05"
-intitule_published: "2012-07-20"
-intitule_in_force: "2012-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-15058"
-original_signed_date: "2012-07-05"
-original_published_date: "2012-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-15058"
-entry_into_force_date: "2012-07-05"
-jci_1_3: "jci1.3:c:BWBR0031820&z=2012-07-05&g=2012-07-05"
-jci_1_0: "1.0:c:BWBR0031820&g=2012-07-05"
-citeertitel_status: "redactioneel"
-signed_date: "2012-07-05"
-entry_into_force: "2012-07-05"
+publicatiedatum: 2012-07-05
+laatste_update: 2012-07-05
+status: geldig
+toestand: 2012-07-05
+bron: "https://wetten.overheid.nl/BWBR0031820"
+opgehaald: 2026-08-18
 ---
+
 # Directe belastingen, internationale inlichtingenuitwisseling; Litouwen
 
-De staatssecretaris van Financiën maakt het volgende bekend.
+*Op 5 juli 2012 is tussen de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen en het Directoraat-generaal Belastingdienst van Nederland een nieuw Memorandum van Overeenstemming gesloten over de uitwisseling van inlichtingen op het gebied van de directe belastingen. Het Memorandum vervangt het in 2003 gesloten Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van directe belastingen (*
+ *Staatscourant 8 oktober 2004, 194*
+ *), dat met het nieuwe Memorandum wordt ingetrokken.*
 
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
-
-**Op 5 juli 2012 is tussen de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen en het Directoraat-generaal Belastingdienst van Nederland een nieuw Memorandum van Overeenstemming gesloten over de uitwisseling van inlichtingen op het gebied van de directe belastingen. Het Memorandum vervangt het in 2003 gesloten Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van directe belastingen (** **Staatscourant 8 oktober 2004, 194** **), dat met het nieuwe Memorandum wordt ingetrokken.**
-
-**Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over bezit en waarde van onroerende zaken, dividenden, royalty’s, inkomsten uit lonen, salarissen en andere soortgelijke beloningen, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, soortgelijke beloningen en lijfrenten, betalingen aan studenten voor studie en opleiding en overige inkomsten. Daarnaast bevat het Memorandum bepalingen over tijdelijke automatische inlichtingenuitwisseling bij bijvoorbeeld incidentele doelgroepacties, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.**
+*Het Memorandum geeft categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over bezit en waarde van onroerende zaken, dividenden, royalty’s, inkomsten uit lonen, salarissen en andere soortgelijke beloningen, directeursbeloningen, inkomsten van artiesten en sportbeoefenaars, inkomsten uit pensioenen, soortgelijke beloningen en lijfrenten, betalingen aan studenten voor studie en opleiding en overige inkomsten. Daarnaast bevat het Memorandum bepalingen over tijdelijke automatische inlichtingenuitwisseling bij bijvoorbeeld incidentele doelgroepacties, alsmede richtlijnen voor de aanwezigheid van ambtenaren van de ene Staat op het grondgebied van de andere Staat ten behoeve van een boekenonderzoek en voor het uitvoeren van o.a. gelijktijdige belastingcontroles.*
 
 ### Memorandum van Overeenstemming tussen de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen en het Directoraat-generaal Belastingdienst van Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
@@ -54,6 +30,12 @@ Onder verwijzing naar de bepalingen van de Richtlijn van de Raad nr. 77/799/EEG 
 En het Verdrag tussen de Republiek Litouwen en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen van 16 juni 1999.
 
 En gelet op:
+
+- • De Richtlijn van de Raad nr. 2011/16/EU van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen,
+
+- • De wens van beide Partijen om het huidige Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand in zaken van directe belastingen van 2003, te herzien,
+
+- • De wens van beide Partijen om de wederzijdse bijstand tussen Litouwen en Nederland te verbeteren en te intensiveren en om inlichtingen automatisch uit te wisselen,
 
 Zijn het volgende overeengekomen:
 
@@ -79,23 +61,23 @@ Belastingdienst / Oost / Central Liaison Office Almelo.
 
 1. De bevoegde autoriteiten van Litouwen en Nederland verstrekken elkaar automatisch inlichtingen over ingezetenen van de andere Staat met betrekking tot:
 
-- a). Bezit en waarde van onroerende zaken (Organisatie van Economische Samenwerking en Ontwikkeling (hierna: OESO) code 6);
+- a) Bezit en waarde van onroerende zaken (Organisatie van Economische Samenwerking en Ontwikkeling (hierna: OESO) code 6);
 
-- b). Dividenden, indien beschikbaar (OESO code 10);
+- b) Dividenden, indien beschikbaar (OESO code 10);
 
-- c). Royalty’s, indien beschikbaar (OESO code 12);
+- c) Royalty’s, indien beschikbaar (OESO code 12);
 
-- d). Inkomsten uit lonen, salarissen en andere soortgelijke beloningen (OESO codes 14 en 15);
+- d) Inkomsten uit lonen, salarissen en andere soortgelijke beloningen (OESO codes 14 en 15);
 
-- e). Directeursbeloningen (OESO code 16);
+- e) Directeursbeloningen (OESO code 16);
 
-- f). Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
+- f) Inkomsten van artiesten en sportbeoefenaars (OESO code 17);
 
-- g). Inkomsten uit pensioenen, soortgelijke beloningen en lijfrenten, indien beschikbaar (OESO codes 18 en 19);
+- g) Inkomsten uit pensioenen, soortgelijke beloningen en lijfrenten, indien beschikbaar (OESO codes 18 en 19);
 
-- h). Betalingen aan studenten voor studie en opleiding, indien beschikbaar (OESO code 20);
+- h) Betalingen aan studenten voor studie en opleiding, indien beschikbaar (OESO code 20);
 
-- i). Overige inkomsten (OESO code 21).
+- i) Overige inkomsten (OESO code 21).
 
 2. De in het eerste lid bedoelde inlichtingen worden periodiek verstrekt en ten minste eenmaal per kalenderjaar, bij voorkeur voor 1 augustus.
 
@@ -157,10 +139,10 @@ Gedaan in Oslo op 5 juli 2012 in twee originele exemplaren, elk in de Litouwse, 
 
 In geval van verschil in interpretatie is de Engelse tekst beslissend.
 
-**Voor de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen,**
+*Voor de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen,*
 
-**Modestas Kaseliauskas.**
+*Modestas Kaseliauskas.*
 
-**Voor het Directoraat-generaal Belastingdienst van Nederland,**
+*Voor het Directoraat-generaal Belastingdienst van Nederland,*
 
-**H. Blokpoel.**
+*H. Blokpoel.*

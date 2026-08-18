@@ -1,56 +1,28 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 17 september 2012, nr. 302266 tot vaststelling van de bezoldiging van de leden en de schadeloosstelling van de plaatsvervangende leden van het College voor de rechten van de mens en de vergoeding voor de leden van de raad van advies (Regeling bezoldiging College voor de rechten van de mens)"
+citeertitel: "Regeling bezoldiging College voor de rechten van de mens"
 identifier: "BWBR0031995"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031995"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11844833"
-version_id: "19641492"
-internal_id: "C27553851"
-label_id: "11816964"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031995/2026-04-01/0"
-intitule_bron: "Stcrt.2012-19185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-17"
-intitule_published: "2012-09-25"
-intitule_in_force: "2012-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19185"
-original_signed_date: "2012-09-17"
-original_published_date: "2012-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19185"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031995&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0031995&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling bezoldiging College voor de rechten van de mens"
-signed_date: "2012-09-17"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0031995"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 17 september 2012, nr. 302266 tot vaststelling van de bezoldiging van de leden en de schadeloosstelling van de plaatsvervangende leden van het College voor de rechten van de mens en de vergoeding voor de leden van de raad van advies (Regeling bezoldiging College voor de rechten van de mens)
-
-Gelet op [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel 1 van de Wet College voor de rechten van de mens in werking treedt.
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **rijksambtenaren:** degenen die door het Rijk zijn aangesteld om in openbare dienst werkzaam te zijn;
+- a. *rijksambtenaren:* degenen die door het Rijk zijn aangesteld om in openbare dienst werkzaam te zijn;
 
-- b. **College:** College voor de rechten van de mens, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1);
+- b. *College:* College voor de rechten van de mens, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1);
 
-- c. **minister:** Minister van Veiligheid en Justitie.
+- c. *minister:* Minister van Veiligheid en Justitie.
 
 ##### Artikel 2
 
@@ -76,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-- a. De plaatsvervangende leden van het college ontvangen zittingsgeld overeenkomstig de bepalingen voor rechters-plaatsvervangers als bedoeld in [artikel 6a, eerste lid, onderdeel c van het Besluit rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6a).
+1. - a. De plaatsvervangende leden van het college ontvangen zittingsgeld overeenkomstig de bepalingen voor rechters-plaatsvervangers als bedoeld in [artikel 6a, eerste lid, onderdeel c van het Besluit rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6a).
 
 - b. In afwijking van [artikel 6a, tweede lid van voormeld besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=6a), geldt de in onderdeel a van dit artikel bedoelde vergoeding per zitting, ook indien meerdere zittingen op één dag zijn gepland.
 
@@ -111,5 +83,3 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging College voor de rechten
 ##### Artikel 8
 
 Deze regeling treedt in werking op het tijdstip van inwerkingtreding van [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

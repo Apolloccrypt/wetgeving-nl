@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzing rechtsmachtgeschillen bij strafprocedures"
 identifier: "BWBR0031653"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2012-06-15"
-last_updated: "2012-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031653"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "11756143"
-version_id: "19431322"
-internal_id: "C27238761"
-label_id: "11728624"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031653/2012-06-15/0"
-intitule_bron: "Stcrt.2012-11716"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-05"
-intitule_published: "2012-06-14"
-intitule_in_force: "2012-06-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-11716"
-original_signed_date: "2012-06-05"
-original_published_date: "2012-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-11716"
-entry_into_force_date: "2012-06-15"
-jci_1_3: "jci1.3:c:BWBR0031653&z=2012-06-15&g=2012-06-15"
-jci_1_0: "1.0:c:BWBR0031653&g=2012-06-15"
-citeertitel_status: "redactioneel"
-signed_date: "2012-06-05"
-entry_into_force: "2012-06-15"
+publicatiedatum: 2012-06-15
+laatste_update: 2012-06-15
+status: geldig
+toestand: 2012-06-15
+bron: "https://wetten.overheid.nl/BWBR0031653"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing rechtsmachtgeschillen bij strafprocedures
 
 ### Samenvatting
@@ -61,11 +39,29 @@ Indien de officier van justitie tijdens het strafrechtelijk onderzoek ‘op rede
 
 Van ‘redelijke gronden’ kan ik ieder geval in de volgende gevallen sprake zijn:
 
+- a. een verdachte voert aan dat er tegen hem in een andere lidstaat een parallelle strafrechtelijke procedure wordt gevoerd. Hierover moet hij wel enigszins concrete verklaringen afleggen dan wel gegevens verstrekken;
+
+- b. uit een rechtshulpverzoek van een bevoegde autoriteit uit een andere lidstaat blijkt dat er mogelijk een dergelijke procedure loopt;
+
+- c. een politiële of justitiële autoriteit verstrekt informatie waaruit volgt dat van een parallelle strafrechtelijke procedure sprake kan zijn;
+
+- d. uit een Nederlands strafrechtelijk onderzoek komt naar voren dat er mogelijk een dergelijke procedure loopt.
+
 De vraag of er al dan niet redelijke gronden bestaan, bepaalt de officier van justitie zelf. Uiteraard is het in het kader van de efficiency van belang om in een zo vroeg mogelijk stadium een parallelle procedure te onderkennen. Zo kan reeds vroegtijdig informatie worden uitgewisseld, bekeken worden of (een gedeelte van) de strafzaak kan worden overgedragen, Europol dan wel Eurojust worden ingeschakeld of andere samenwerkingsverbanden worden voorgesteld (denk aan Joint Investigation Teams).
 
 ### Minimaal in verzoek op te nemen informatie aan andere lidstaat
 
 De officier van justitie, die in contact wil treden met een bevoegde autoriteit in een andere lidstaat, verstrekt aan deze bevoegde autoriteit in ieder geval de volgende gegevens:
+
+- – de contactgegevens;
+
+- – de feiten en omstandigheden die het voorwerp uitmaken van de strafprocedure;
+
+- – alle relevante identiteitsgegevens van de verdachte en, in voorkomend geval, van slachtoffers;
+
+- – de stand van de procedure, en
+
+- – in voorkomend geval, informatie over de voorlopige hechtenis van de verdachte.
 
 Met het oog op de voortgang van het onderzoek, verdient het aanbeveling om in het verzoek aan te geven binnen welke termijn de bevoegde autoriteit van de andere lidstaat kan antwoorden.
 
@@ -77,7 +73,13 @@ Het verzoek van de bevoegde autoriteit uit een lidstaat komt rechtstreeks bij de
 
 De officier van justitie antwoordt binnen de gestelde termijn dan wel, indien geen termijn is bepaald, met bekwame spoed of in Nederland een parallelle procedure wordt gevoerd. In ieder geval dient het antwoord de volgende gegevens te bevatten:
 
+- – of een strafrechtelijke procedure wordt of is gevoerd wegens feiten waarvan een aantal of alle overeenstemmen met de strafprocedure die in het informatieverzoek is genoemd en of dezelfde persoon daarbij is betrokken.
+
 Indien bevestigend:
+
+- – de contactgegevens;
+
+- – de stand van de strafrechtelijke procedure of de aard van de einduitspraak.
 
 Het antwoord is vormvrij en kan bijvoorbeeld per e-mail plaatsvinden, mits het contact schriftelijk kan worden vastgelegd. Indien het antwoord niet binnen de gestelde termijn kan worden gegeven stelt de officier van justitie, eventueel door tussenkomst van het IRC, de bevoegde autoriteit gemotiveerd in kennis van de termijn waarbinnen het antwoord kan worden verwacht.
 
@@ -88,6 +90,14 @@ Wanneer is vastgesteld dat parallelle procedures lopen, treedt de officier van j
 Wanneer door de bevoegde autoriteit specifieke informatie wordt gevraagd waardoor wezenlijke Nederlandse veiligheidsbelangen kunnen worden geschaad of de veiligheid van personen in gevaar zou kunnen komen, kan die informatie door de officier van justitie worden geweigerd.
 
 Er zijn verschillende mogelijkheden voor wat betreft de uitkomsten van het overleg:
+
+- – stopzetting van het onderzoek in Nederland of in het buitenland;
+
+- – overdracht van strafvervolging aan Nederland of aan het buitenland;
+
+- – parallelle onderzoeken uitvoeren in beide lidstaten met duidelijke afspraken voor wat betreft de vraag ‘wie vervolgt welke verdachte(n) voor welke strafbare feiten en waar vindt de vervolging plaats?’;
+
+- – Internationale gemeenschappelijke Onderzoeksteams/ Joint Investigation Teams (JIT’s). Zie hiervoor de Aanwijzing internationale gemeenschappelijke onderzoeksteams van het College PG’s (2008A007).
 
 Zolang er geen overeenstemming is bereikt over de verdere behandeling van de lopende strafrechtelijke procedures, kan de officier van justitie de Nederlandse strafprocedure voortzetten ten aanzien van de strafbare feiten die binnen zijn bevoegdheid vallen. Ingevolge het kaderbesluit 2009/426/JBZ van 16 december 2008 dient Eurojust in kennis te worden gesteld van zaken waarin zich (waarschijnlijk) rechtsmachtgeschillen (zullen) voordoen, uiteraard voor zover de zaken vallen onder de bevoegdheid van Eurojust (zie artikel 4 van het Kaderbesluit uit 2002 genoemd onder voetnoot 2).
 

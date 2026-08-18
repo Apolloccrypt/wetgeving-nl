@@ -1,64 +1,30 @@
 ---
 title: "Besluit van 12 september 2012, houdende regels over de commissie die adviseert over het doen van een nader onderzoek als bedoeld in artikel 462, vierde lid, van het Wetboek van Strafvordering (Besluit adviescommissie afgesloten strafzaken)"
+citeertitel: "Besluit adviescommissie afgesloten strafzaken"
 identifier: "BWBR0031994"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-02-01"
-last_updated: "2023-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031994"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "11844643"
-version_id: "19641302"
-internal_id: "C27551691"
-label_id: "11816814"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031994/2023-02-01/0"
-intitule_bron: "Stb.2012-405"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-12"
-intitule_published: "2012-09-19"
-intitule_in_force: "2012-09-19"
-intitule_status: "goed"
-original_publication: "Stb.2012-405"
-original_signed_date: "2012-09-12"
-original_published_date: "2012-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-405"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031994&z=2023-02-01&g=2023-02-01"
-jci_1_0: "1.0:c:BWBR0031994&g=2023-02-01"
-citeertitel_status: "officieel"
-short_title: "Besluit adviescommissie afgesloten strafzaken"
-signed_date: "2012-09-12"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2023-02-01
+status: geldig
+toestand: 2023-02-01
+bron: "https://wetten.overheid.nl/BWBR0031994"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 12 september 2012, houdende regels over de commissie die adviseert over het doen van een nader onderzoek als bedoeld in artikel 462, vierde lid, van het Wetboek van Strafvordering (Besluit adviescommissie afgesloten strafzaken)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 3 juli 2012, Directie Wetgeving en Juridische Zaken nr. 279334;
-
-Gelet op [artikel 462, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=462);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 18 juli 2012, nr. W03.12.0238/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 6 september 2012, Directie Wetgeving en Juridische Zaken nr. 298923;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet hervorming herziening ten voordele in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2023-02-01&g=2023-02-01);
+- a. *de commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031994&artikel=2&z=2023-02-01&g=2023-02-01);
 
-- b. **de procureur-generaal:** de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 111 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111);
+- b. *de procureur-generaal:* de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 111 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=111);
 
-- c. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
+- c. *de wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- d. **Onze Minister:** Onze Minister van Veiligheid en Justitie.
+- d. *Onze Minister:* Onze Minister van Veiligheid en Justitie.
 
 ##### Artikel 2
 
@@ -157,5 +123,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet hervorming herzieni
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie afgesloten strafzaken.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

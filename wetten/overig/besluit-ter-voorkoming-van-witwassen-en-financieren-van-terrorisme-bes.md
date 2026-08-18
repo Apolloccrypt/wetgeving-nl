@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 22 mei 2012 houdende regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme BES (Besluit ter voorkoming van witwassen en financieren van terrorisme BES)"
+citeertitel: "Besluit ter voorkoming van witwassen en financieren van terrorisme BES"
 identifier: "BWBR0031629"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031629"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11749163"
-version_id: "27823472"
-internal_id: "C39263841"
-label_id: "11721664"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031629/2021-07-01/0"
-intitule_bron: "Stb.2012-239"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-22"
-intitule_published: "2012-06-12"
-intitule_in_force: "2012-06-12"
-intitule_status: "goed"
-original_publication: "Stb.2021-290"
-original_signed_date: "2021-06-11"
-original_published_date: "2021-06-18"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2021-290"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0031629&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0031629&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ter voorkoming van witwassen en financieren van terrorisme BES"
-signed_date: "2021-06-11"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0031629"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 22 mei 2012 houdende regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme BES (Besluit ter voorkoming van witwassen en financieren van terrorisme BES)
-
-Op de voordracht van Onze Minister van Financiën, mede namens Onze Minister van Veiligheid en Justitie, van 2 november 2011, nr. FM 2011-9926;
-
-Gelet op de [artikelen 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.5), [2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8), [2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.9), [5.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.11), en [5.12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.12) en de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18), en [23, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 januari 2012, nr. W06.11.0469/III);
-
-Gezien het nader rapport van Onze Minister van Financiën, uitgebracht mede namens Onze Minister van Veiligheid en Justitie, van 16 mei 2012, nr. FM 2011-10036 U;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en financieren van terrorisme BES in werking treedt.
 
 #### § 1. Inleidende bepalingen
 
@@ -62,49 +28,49 @@ In dit besluit wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen
 
 - a. in het geval van een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap, niet zijnde een vennootschap die als uitgevende instelling is onderworpen aan openbaarmakingsvereisten, met inbegrip van een 100 procent dochtermaatschappij van een dergelijke vennootschap:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de vennootschap, via:
+   - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de vennootschap, via:
 
-- –. het direct of indirect houden van meer dan 25 procent van de aandelen, van de stemrechten of van het eigendomsbelang in de vennootschap, met inbegrip van het houden van toonderaandelen; of
+      - – het direct of indirect houden van meer dan 25 procent van de aandelen, van de stemrechten of van het eigendomsbelang in de vennootschap, met inbegrip van het houden van toonderaandelen; of
 
-- –. andere middelen waarmee feitelijke zeggenschap uitgeoefend kan worden over de rechtspersoon; of
+      - – andere middelen waarmee feitelijke zeggenschap uitgeoefend kan worden over de rechtspersoon; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de vennootschap;
+   - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de vennootschap;
 
 - b. in het geval van een overige rechtspersoon:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de rechtspersoon, via:
+   - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de rechtspersoon, via:
 
-- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de rechtspersoon;
+      - – het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de rechtspersoon;
 
-- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de statuten van de rechtspersoon; of
+      - – het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de statuten van de rechtspersoon; of
 
-- –. het kunnen uitoefenen van feitelijke zeggenschap over de rechtspersoon; of
+      - – het kunnen uitoefenen van feitelijke zeggenschap over de rechtspersoon; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de rechtspersoon;
+   - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de rechtspersoon;
 
 - c. in het geval van een personenvennootschap:
 
-- 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de personenvennootschap via:
+   - 1°. natuurlijke personen die de uiteindelijke eigenaar zijn van of zeggenschap hebben over de personenvennootschap via:
 
-- –. het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de personenvennootschap;
+      - – het direct of indirect houden van meer dan 25 procent van het eigendomsbelang in de personenvennootschap;
 
-- –. het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de overeenkomst die ten grondslag ligt aan de personenvennootschap, of ter zake van de uitvoering van die overeenkomst anders dan door daden van beheer, voor zover in die overeenkomst besluitvorming bij meerderheid van stemmen is voorgeschreven; of
+      - – het direct of indirect kunnen uitoefenen van meer dan 25 procent van de stemmen bij besluitvorming ter zake van wijziging van de overeenkomst die ten grondslag ligt aan de personenvennootschap, of ter zake van de uitvoering van die overeenkomst anders dan door daden van beheer, voor zover in die overeenkomst besluitvorming bij meerderheid van stemmen is voorgeschreven; of
 
-- –. het kunnen uitoefenen van feitelijke zeggenschap over de personenvennootschap; of
+      - – het kunnen uitoefenen van feitelijke zeggenschap over de personenvennootschap; of
 
-- 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
+   - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld onder 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld onder 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
 
 - d. in het geval van een trust:
 
-- 1°. de oprichter of oprichters;
+   - 1°. de oprichter of oprichters;
 
-- 2°. de trustee of trustees;
+   - 2°. de trustee of trustees;
 
-- 3°. voor zover van toepassing, de protector of protectors;
+   - 3°. voor zover van toepassing, de protector of protectors;
 
-- 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
+   - 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
 
-- 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
+   - 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
 
 2. Het eerste lid, onderdeel a, is van overeenkomstige toepassing op andere juridische entiteiten vergelijkbaar met een besloten vennootschap met beperkte aansprakelijkheid of een naamloze vennootschap.
 
@@ -142,6 +108,8 @@ De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot 
 
 - d. rechtspersonen die effecten hebben uitgegeven die zijn toegelaten tot de handel op een effectenbeurs die lid is van de World Federation of Exchanges en gevestigd in een bij regeling van Onze Minister aan te wijzen land en 100 procent dochtermaatschappijen van deze rechtspersonen.
 
+#### § 3. Geldtransporten
+
 ##### Artikel 5
 
 1. Bij de aangifte van een geldtransport als bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) worden de volgende gegevens verstrekt:
@@ -176,7 +144,7 @@ De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot 
 
 - g. het beoogde gebruik van de liquide middelen.
 
-#### § 3. Bestuurlijke boete
+#### § 4. Bestuurlijke boete
 
 ##### Artikel 6
 
@@ -191,11 +159,11 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 
 ##### Artikel 7
 
-1. Overtreding van een in de bijlage bij dit besluit genoemd voorschrift is beboetbaar met een bestuurlijke boete van de volgens die bijlage op overtreding van dat voorschrift van toepassing zijnde categorie.
+1. Overtreding van een in de [bijlage](https://wetten.overheid.nl/BWBR0031629) bij dit besluit genoemd voorschrift is beboetbaar met een bestuurlijke boete van de volgens die bijlage op overtreding van dat voorschrift van toepassing zijnde categorie.
 
 2. Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.9) gegeven aanwijzing is, indien de aanwijzing gegeven is ter zake van het niet voldoen aan een in de bijlage bij dit besluit genoemd voorschrift, beboetbaar met een bestuurlijke boete van dezelfde categorie als waarmee dat voorschrift beboetbaar is.
 
-3. Indien een aanwijzing als bedoeld in het tweede lid is gegeven ter zake van een voorschrift, niet zijnde een in de bijlage genoemd voorschrift, is het geen gevolg dan wel niet tijdig of onvolledig gevolg geven aan die aanwijzing beboetbaar met een bestuurlijke boete van de eerste categorie.
+3. Indien een aanwijzing als bedoeld in het tweede lid is gegeven ter zake van een voorschrift, niet zijnde een in de [bijlage](https://wetten.overheid.nl/BWBR0031629) genoemd voorschrift, is het geen gevolg dan wel niet tijdig of onvolledig gevolg geven aan die aanwijzing beboetbaar met een bestuurlijke boete van de eerste categorie.
 
 ##### Artikel 8
 
@@ -219,11 +187,15 @@ Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.ove
 
 2. De toezichtautoriteit kan op grond van het eerste lid de op te leggen boete verlagen met ten hoogste 100 procent.
 
-#### § 4. Overgangs- en slotbepalingen
+##### Artikel 10a
+
+In afwijking van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) bedraagt de op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3) op te leggen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
+
+#### § 5. Overgangs- en slotbepalingen
 
 ##### Artikel 11
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ##### Artikel 12
 
@@ -232,25 +204,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet ter voorkoming van 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit ter voorkoming van witwassen en financieren van terrorisme BES.
-
-## Bijlage. Boetetabel
-
-### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=3&artikel=7&z=2017-07-01&g=2017-07-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3. Geldtransporten
-
-#### § 4. Bestuurlijke boete
-
-##### Artikel 10a
-
-In afwijking van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) bedraagt de op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3) op te leggen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
-
-#### § 5. Overgangs- en slotbepalingen
-
-## Bijlage. Boetetabel
-
-### Bijlage als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

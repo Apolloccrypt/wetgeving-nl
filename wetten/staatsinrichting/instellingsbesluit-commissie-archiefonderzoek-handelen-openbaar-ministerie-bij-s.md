@@ -1,50 +1,26 @@
 ---
 title: "Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk 17 oktober 2012, nr. 311892"
+citeertitel: "Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk"
 identifier: "BWBR0032132"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-10-26"
-last_updated: "2012-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032132"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11882933"
-version_id: "19729792"
-internal_id: "C27707411"
-label_id: "11855064"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032132/2012-10-26/0"
-intitule_bron: "Stcrt.2012-21583"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-17"
-intitule_published: "2012-10-25"
-intitule_in_force: "2012-10-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-21583"
-original_signed_date: "2012-10-17"
-original_published_date: "2012-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-21583"
-entry_into_force_date: "2012-10-26"
-jci_1_3: "jci1.3:c:BWBR0032132&z=2012-10-26&g=2012-10-26"
-jci_1_0: "1.0:c:BWBR0032132&g=2012-10-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk"
-signed_date: "2012-10-17"
-entry_into_force: "2012-10-26"
+publicatiedatum: 2012-10-26
+laatste_update: 2012-10-26
+status: geldig
+toestand: 2012-10-26
+bron: "https://wetten.overheid.nl/BWBR0032132"
+opgehaald: 2026-08-18
 ---
-# Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk 17 oktober 2012, nr. 311892
 
-Besluit:
+# Instellingsbesluit Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk 17 oktober 2012, nr. 311892
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Commissie:** de Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk;
+- a. *de Commissie:* de Commissie Archiefonderzoek handelen Openbaar Ministerie bij seksueel misbruik Rooms-Katholieke Kerk;
 
-- b. **de Minister:** de Minister van Veiligheid en Justitie.
+- b. *de Minister:* de Minister van Veiligheid en Justitie.
 
 ##### Artikel 2. Instelling
 
@@ -62,9 +38,9 @@ De commissie heeft tot taak onderzoek te doen naar:
 
 1. De leden van de Commissie zijn:
 
-- −. dr. M.W. van Boven
+- − dr. M.W. van Boven
 
-- −. mr. F.H. Koster
+- − mr. F.H. Koster
 
 2. De leden van de Commissie kunnen op eigen aanvraag door de Minister tussentijds ontslagen worden.
 

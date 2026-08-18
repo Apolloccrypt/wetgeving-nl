@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 24 oktober 2012 tot vaststelling van regels over de bijdragen van de Minister van Veiligheid en Justitie aan het Instituut Fysieke Veiligheid (Besluit rijksbijdragen IFV)"
+citeertitel: "Besluit rijksbijdragen IFV"
 identifier: "BWBR0032156"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-11-01"
-last_updated: "2015-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032156"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11890223"
-version_id: "19744312"
-internal_id: "C27738641"
-label_id: "11862384"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032156/2015-11-01/0"
-intitule_bron: "Stb.2012-525"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-24"
-intitule_published: "2012-10-31"
-intitule_in_force: "2012-10-31"
-intitule_status: "goed"
-original_publication: "Stb.2012-525"
-original_signed_date: "2012-10-24"
-original_published_date: "2012-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-525"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032156&z=2015-11-01&g=2015-11-01"
-jci_1_0: "1.0:c:BWBR0032156&g=2015-11-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rijksbijdragen IFV"
-signed_date: "2012-10-24"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2015-11-01
+status: geldig
+toestand: 2015-11-01
+bron: "https://wetten.overheid.nl/BWBR0032156"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 24 oktober 2012 tot vaststelling van regels over de bijdragen van de Minister van Veiligheid en Justitie aan het Instituut Fysieke Veiligheid (Besluit rijksbijdragen IFV)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 20 februari 2012, nr. 5724295/12/6;
-
-Gelet op [artikel 74, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=74);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 maart 2012, nr. W03.12.0052/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 18 oktober 2012, nr. 312898;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- a. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- b. **Instituut:** het Instituut Fysieke Veiligheid;
+- b. *Instituut:* het Instituut Fysieke Veiligheid;
 
-- c. **bestuur:** het bestuur van het Instituut Fysieke Veiligheid, bedoeld in [artikel 67 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=67).
+- c. *bestuur:* het bestuur van het Instituut Fysieke Veiligheid, bedoeld in [artikel 67 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=67).
 
 #### § 2. Verstrekking van bijdragen
 
@@ -114,11 +82,11 @@ Het [Besluit Nederlands bureau brandweerexamens](https://wetten.overheid.nl/jci1
 
 ##### Artikel 9
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
+*Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.*
 
 ##### Artikel 10
 
-Wijzigt het Besluit Bibob.
+*Wijzigt het Besluit Bibob.*
 
 ##### Artikel 11
 
@@ -127,5 +95,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit rijksbijdragen IFV.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

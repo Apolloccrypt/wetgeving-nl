@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 september 2012, houdende regels ter uitvoering van de Wet op het notarisambt (Besluit op het notarisambt)"
+citeertitel: "Besluit op het notarisambt"
 identifier: "BWBR0032084"
-country: "nl"
-rank: "amvb"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032084"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11870743"
-version_id: "19704342"
-internal_id: "C27803091"
-label_id: "11843084"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032084/2018-01-01/0"
-intitule_bron: "Stb.2012-459"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-27"
-intitule_published: "2012-10-12"
-intitule_in_force: "2012-11-22"
-intitule_status: "goed"
-original_publication: "Stb.2012-459"
-original_signed_date: "2012-09-27"
-original_published_date: "2012-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-459"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032084&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBR0032084&g=2018-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit op het notarisambt"
-signed_date: "2012-09-27"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBR0032084"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 27 september 2012, houdende regels ter uitvoering van de Wet op het notarisambt (Besluit op het notarisambt)
-
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 16 maart 2012, nr. 5727408/12/6;
-
-Gelet op [artikelen 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=6), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=29), [94, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94), en [103a, vijfde lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=103a);
-
-De Afdeling advisering van Raad van State gehoord (advies van 26 april 2012, nr. W03.12.0082/II);
-
-Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 21 september 2012, nr. 304018;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
+- a. *wet:*
+ [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
 
-- b. **Commissie:** de Commissie toegang notariaat, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8);
+- b. *Commissie:* de Commissie toegang notariaat, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8);
 
-- c. **ondernemingsplan:** een ondernemingsplan als bedoeld in [artikel 6, tweede lid, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=6);
+- c. *ondernemingsplan:* een ondernemingsplan als bedoeld in [artikel 6, tweede lid, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=6);
 
-- d. **register:** het register voor het notariaat, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=5);
+- d. *register:* het register voor het notariaat, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=5);
 
-- e. **kamer voor het notariaat:** een kamer als bedoeld in [artikel 94, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94).
+- e. *kamer voor het notariaat:* een kamer als bedoeld in [artikel 94, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=94).
 
 ### Hoofdstuk II. Beroepsvereisten
 
@@ -70,17 +39,17 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 - a. grondige kennis van en inzicht in de volgende onderdelen van het burgerlijk recht – mede in hun onderlinge samenhang –:
 
-- 1°. het personen- en familierecht, in het bijzonder het huwelijksvermogensrecht;
+   - 1°. het personen- en familierecht, in het bijzonder het huwelijksvermogensrecht;
 
-- 2°. het ondernemingsrecht, in het bijzonder het rechtspersonen- en vennootschapsrecht;
+   - 2°. het ondernemingsrecht, in het bijzonder het rechtspersonen- en vennootschapsrecht;
 
-- 3°. het vermogensrecht;
+   - 3°. het vermogensrecht;
 
-- 4°. het recht met betrekking tot registergoederen;
+   - 4°. het recht met betrekking tot registergoederen;
 
-- 5°. het erfrecht, en
+   - 5°. het erfrecht, en
 
-- 6°. het internationaal privaatrecht, voor zover van belang voor de notariële praktijkuitoefening;
+   - 6°. het internationaal privaatrecht, voor zover van belang voor de notariële praktijkuitoefening;
 
 - b. grondige kennis van en inzicht in het executierecht alsmede kennis van en inzicht in het burgerlijk procesrecht, beslag- en faillissementsrecht, voor zover van belang voor de notariële praktijkuitoefening;
 
@@ -270,7 +239,7 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk VI. Overige bepalingen
 
@@ -285,5 +254,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit op het notarisambt.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

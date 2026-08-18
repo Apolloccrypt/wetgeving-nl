@@ -1,60 +1,28 @@
 ---
 title: "Besluit van 3 april 2012 betreffende de samenstelling en werkwijze van de voogdijraad BES (Besluit voogdijraad BES)"
+citeertitel: "Besluit voogdijraad BES"
 identifier: "BWBR0031445"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2012-04-13"
-last_updated: "2012-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031445"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "11706953"
-version_id: "19328392"
-internal_id: "C26991691"
-label_id: "11679764"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031445/2012-04-13/0"
-intitule_bron: "Stb.2012-151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-03"
-intitule_published: "2012-04-12"
-intitule_in_force: "2012-04-12"
-intitule_status: "goed"
-original_publication: "Stb.2012-151"
-original_signed_date: "2012-04-03"
-original_published_date: "2012-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-151"
-entry_into_force_date: "2012-04-13"
-jci_1_3: "jci1.3:c:BWBR0031445&z=2012-04-13&g=2012-04-13"
-jci_1_0: "1.0:c:BWBR0031445&g=2012-04-13"
-citeertitel_status: "officieel"
-short_title: "Besluit voogdijraad BES"
-signed_date: "2012-04-03"
-entry_into_force: "2012-04-13"
+publicatiedatum: 2012-04-13
+laatste_update: 2012-04-13
+status: geldig
+toestand: 2012-04-13
+bron: "https://wetten.overheid.nl/BWBR0031445"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 3 april 2012 betreffende de samenstelling en werkwijze van de voogdijraad BES (Besluit voogdijraad BES)
-
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 19 januari 2012, nr. 5722490/12/6, Directie Wetgeving;
-
-Gelet op [artikel 238, derde lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 februari 2012, nr. W03.12.0019/II);
-
-Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 28 maart 2012, nr. 244920;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Veiligheid en Justitie;
+- a. *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
-- b. **voogdijraad:** de voogdijraad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
+- b. *voogdijraad:* de voogdijraad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
 
-- c. **openbaar lichaam:** Bonaire, Sint Eustatius of Saba.
+- c. *openbaar lichaam:* Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 2
 
@@ -235,5 +203,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Besluit voogdijraad BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

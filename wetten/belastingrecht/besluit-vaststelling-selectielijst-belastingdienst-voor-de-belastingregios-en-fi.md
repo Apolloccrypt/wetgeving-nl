@@ -1,49 +1,21 @@
 ---
 title: "Besluit vaststelling selectielijst Belastingdienst voor de belastingregio's en fiscale processen vanaf 2007"
 identifier: "BWBR0031290"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "2012-02-23"
-last_updated: "2012-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031290"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "11671423"
-version_id: "19257722"
-internal_id: "C26869481"
-label_id: "11644094"
-dtd_version: "2.0"
-original_entry_into_force: "2012-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031290/2012-02-23/0"
-intitule_bron: "Stcrt.2012-3159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-03"
-intitule_published: "2012-02-21"
-intitule_in_force: "2012-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-3159"
-original_signed_date: "2012-02-03"
-original_published_date: "2012-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-3159"
-entry_into_force_date: "2012-02-23"
-jci_1_3: "jci1.3:c:BWBR0031290&z=2012-02-23&g=2012-02-23"
-jci_1_0: "1.0:c:BWBR0031290&g=2012-02-23"
-citeertitel_status: "redactioneel"
-signed_date: "2012-02-03"
-entry_into_force: "2012-02-23"
+publicatiedatum: 2012-02-23
+laatste_update: 2012-02-23
+status: geldig
+toestand: 2012-02-23
+bron: "https://wetten.overheid.nl/BWBR0031290"
+opgehaald: 2026-08-18
 ---
+
 # Besluit vaststelling selectielijst Belastingdienst voor de belastingregio's en fiscale processen vanaf 2007
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 januari 2012 nr. ara-2011.06289/3);
-
-Besluiten:
 
 ##### Artikel 1
 
-De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister Financiën en de onder hem ressorterende actor de Belastingsdienst op het beleidsterrein Belastingregio’s, fiscale processen over de periode vanaf 2007 –’ en de daarbij behorende toelichting worden vastgesteld.
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de minister Financiën en de onder hem ressorterende actor de Belastingsdienst op het beleidsterrein Belastingregio’s, fiscale processen over de periode vanaf 2007 –](https://wetten.overheid.nl/BWBR0031290)’ en de daarbij behorende toelichting worden vastgesteld.
 
 ##### Artikel 2
 
@@ -58,9 +30,3 @@ In de ‘[selectielijst Geldzuivering (RIO nr. 151)](https://wetten.overheid.nl/
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Selectielijst
-
-Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.
-
-De staatssecretaris van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.

@@ -1,45 +1,17 @@
 ---
 title: "Tuchtreglement COKZ 2012"
 identifier: "BWBR0031790"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031790"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11793533"
-version_id: "19513602"
-internal_id: "C27361721"
-label_id: "11766084"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031790/2012-07-01/0"
-intitule_bron: "Stcrt.2012-14416"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-25"
-intitule_published: "2012-07-13"
-intitule_in_force: "2012-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-14416"
-original_signed_date: "2012-05-25"
-original_published_date: "2012-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-14416"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031790&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0031790&g=2012-07-01"
-citeertitel_status: "officieel"
-signed_date: "2012-05-25"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0031790"
+opgehaald: 2026-08-18
 ---
+
 # Tuchtreglement COKZ 2012
-
-gelet op [artikel 13, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) (Stb. 1971, 371) en [artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&artikel=13),
-
-heeft in zijn vergadering van 25 mei 2012 het navolgende reglement vastgesteld:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Definities
 
@@ -47,27 +19,27 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In dit reglement wordt verstaan onder:
 
-- **bestuur:** het bestuur van de stichting;
+- *bestuur:* het bestuur van de stichting;
 
-- **betrokkene:** degene, die een overtreding van een voorschrift als bedoeld in [artikel 13, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13), begaat;.
+- *betrokkene:* degene, die een overtreding van een voorschrift als bedoeld in [artikel 13, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13), begaat;.
 
-- **landbouwkwaliteitsbesluit:** algemene maatregel van bestuur als bedoeld in [artikel 2 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2);
+- *landbouwkwaliteitsbesluit:* algemene maatregel van bestuur als bedoeld in [artikel 2 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2);
 
-- **Minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- *Minister:* de Minister van Economische Zaken, Landbouw en Innovatie;
 
-- **secretaris:** de secretaris van het tuchtgerecht, dan wel bij diens ontstentenis of verhindering de adjunct-secretaris;
+- *secretaris:* de secretaris van het tuchtgerecht, dan wel bij diens ontstentenis of verhindering de adjunct-secretaris;
 
-- **statuten:** de statuten van de stichting;
+- *statuten:* de statuten van de stichting;
 
-- **stichting:** Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
+- *stichting:* Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-- **tuchtgerecht:** tuchtgerecht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=2&z=2012-07-01&g=2012-07-01) van het reglement;
+- *tuchtgerecht:* tuchtgerecht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031790&artikel=2&z=2012-07-01&g=2012-07-01) van het reglement;
 
-- **voorschrift:** bij of krachtens een landbouwkwaliteitsbesluit gestelde regel met betrekking tot producten, ten aanzien waarvan toezicht en/of keuring aan de stichting is opgedragen;
+- *voorschrift:* bij of krachtens een landbouwkwaliteitsbesluit gestelde regel met betrekking tot producten, ten aanzien waarvan toezicht en/of keuring aan de stichting is opgedragen;
 
-- **voorzitter:** de voorzitter van het tuchtgerecht, dan wel bij diens ontstentenis of verhindering de vice-voorzitter;
+- *voorzitter:* de voorzitter van het tuchtgerecht, dan wel bij diens ontstentenis of verhindering de vice-voorzitter;
 
-- **NCAE:** Nederlandse Controle Autoriteit Eieren, dienstonderdeel van de stichting, inzake controle en toezicht op eieren en pluimveevlees.
+- *NCAE:* Nederlandse Controle Autoriteit Eieren, dienstonderdeel van de stichting, inzake controle en toezicht op eieren en pluimveevlees.
 
 #### Instelling, samenstelling en bevoegdheid van het tuchtgerecht
 
@@ -171,9 +143,9 @@ maatregelen genomen tegen:
 
 1. Een zaak wordt binnen vier maanden na constatering van de ten laste gelegde overtreding door of namens het bestuur bij het tuchtgerecht aanhangig gemaakt door middel van een schriftelijke verklaring, inhoudende:
 
-- –. een korte omschrijving van de ten laste gelegde overtreding met vermelding van de relevante feiten;
+- – een korte omschrijving van de ten laste gelegde overtreding met vermelding van de relevante feiten;
 
-- –. naam en adres van de betrokkene(n).
+- – naam en adres van de betrokkene(n).
 
 2. De schriftelijke verklaring kan vergezeld gaan van een voorstel van of namens het bestuur met betrekking tot de op te leggen tuchtmaatregel.
 

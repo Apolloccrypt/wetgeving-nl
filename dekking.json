@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-17",
+ "gegenereerd": "2026-08-18",
  "geverifieerd": true,
- "bwb_regelingen": 46860,
- "bwb_geldend": 22208,
- "site_totaal": 22389,
- "site_geldend": 22205,
+ "bwb_regelingen": 46863,
+ "bwb_geldend": 22210,
+ "site_totaal": 22392,
+ "site_geldend": 22207,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 184,
+ "aantal_ten_onrechte_geldig": 185,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -81,11 +81,11 @@
   },
   {
    "id": "BWBR0031613",
-   "titel": "Regeling kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
+   "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)"
   },
   {
    "id": "BWBR0031621",
-   "titel": "Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang"
+   "titel": "Besluit van 30 mei 2012 tot het stellen van eisen aan de Kwaliteit kinderopvang en peuterspeelzalen (Besluit kwaliteit kinderopvang en peuterspeelzalen)"
   },
   {
    "id": "BWBR0031975",
@@ -93,7 +93,7 @@
   },
   {
    "id": "BWBR0032217",
-   "titel": "Wijzigingsbesluit Aanduidingenbesluit tabaksproducten (implementatie richtlijn 2012/9/EU)"
+   "titel": "Besluit van 29 oktober 2012, houdende wijziging van het Aanduidingenbesluit tabaksproducten ter implementatie van richtlijn 2012/9/EU"
   },
   {
    "id": "BWBR0032231",
@@ -754,6 +754,10 @@
   {
    "id": "BWBR0052636",
    "titel": "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026"
+  },
+  {
+   "id": "BWBR0052880",
+   "titel": "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 juli 2026, nr. WJZ/107573896, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Woerdense Verlaat (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Woerdense Verlaat 2026)"
   },
   {
    "id": "BWBR0052888",

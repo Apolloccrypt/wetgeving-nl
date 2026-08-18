@@ -1,70 +1,44 @@
 ---
 title: "Besluit tot vaststelling van beleidsregels ten aanzien van trillinghinder ten behoeve van de vaststelling van tracébesluiten voor de aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke spoorweg (Beleidsregel trillinghinder spoor)"
+citeertitel: "Beleidsregel trillinghinder spoor"
 identifier: "BWBR0031466"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-03-27"
-last_updated: "2014-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031466"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "11712343"
-version_id: "19340902"
-internal_id: "C27013951"
-label_id: "11685034"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031466/2014-03-27/0"
-intitule_bron: "Stcrt.2012-7532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-10"
-intitule_published: "2012-04-18"
-intitule_in_force: "2012-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7532"
-original_signed_date: "2012-04-10"
-original_published_date: "2012-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7532"
-entry_into_force_date: "2012-04-19"
-jci_1_3: "jci1.3:c:BWBR0031466&z=2014-03-27&g=2014-03-27"
-jci_1_0: "1.0:c:BWBR0031466&g=2014-03-27"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel trillinghinder spoor"
-signed_date: "2012-04-10"
-entry_into_force: "2012-04-19"
+publicatiedatum: 2012-04-19
+laatste_update: 2014-03-27
+status: geldig
+toestand: 2014-03-27
+bron: "https://wetten.overheid.nl/BWBR0031466"
+opgehaald: 2026-08-18
 ---
+
 # Besluit tot vaststelling van beleidsregels ten aanzien van trillinghinder ten behoeve van de vaststelling van tracébesluiten voor de aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke spoorweg (Beleidsregel trillinghinder spoor)
-
-Gelet op [artikel 9, eerste lid, van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. definitiebepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **A1:** streefwaarde voor de trillingssterkte Vmax;
+- *A1:* streefwaarde voor de trillingssterkte Vmax;
 
-- **A2:** grenswaarde voor de trillingssterkte Vmax;
+- *A2:* grenswaarde voor de trillingssterkte Vmax;
 
-- **A3:** grenswaarde voor de trillingssterkte Vper;
+- *A3:* grenswaarde voor de trillingssterkte Vper;
 
-- **bestaande situatie:** referentiesituatie waarin reeds sprake is van trillingen als gevolg van railverkeer;
+- *bestaande situatie:* referentiesituatie waarin reeds sprake is van trillingen als gevolg van railverkeer;
 
-- **nieuwe situatie:** referentiesituatie waarin geen sprake is van trillingen als gevolg van railverkeer;
+- *nieuwe situatie:* referentiesituatie waarin geen sprake is van trillingen als gevolg van railverkeer;
 
-- **plansituatie:** situatie als gevolg van de ingebruikneming van de infrastructuur die aangelegd of gewijzigd is of opnieuw in gebruik is genomen op basis van het tracébesluit;
+- *plansituatie:* situatie als gevolg van de ingebruikneming van de infrastructuur die aangelegd of gewijzigd is of opnieuw in gebruik is genomen op basis van het tracébesluit;
 
-- **referentiesituatie:** situatie voor uitvoering van het tracébesluit;
+- *referentiesituatie:* situatie voor uitvoering van het tracébesluit;
 
-- **SBR-richtlijn B:** Meet- en beoordelingsrichtlijn trillingen van de Stichting Bouwresearch, deel B, Hinder voor personen in gebouwen, uitgave augustus 2002;
+- *SBR-richtlijn B:* Meet- en beoordelingsrichtlijn trillingen van de Stichting Bouwresearch, deel B, Hinder voor personen in gebouwen, uitgave augustus 2002;
 
-- **tracébesluit:** een besluit tot aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke spoorweg als bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147);
+- *tracébesluit:* een besluit tot aanleg, wijziging of het opnieuw in gebruik nemen van een landelijke spoorweg als bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147);
 
-- **Vmax:** de maximale trillingssterkte zoals gedefinieerd in paragraaf 5.3 van de SBR-richtlijn B en nader omschreven in hoofdstuk 9 van die richtlijn, met dien verstande dat voor de meettechnische bepaling van de waarde van Vmax de procedure wordt gevolgd, die opgenomen is in de bijlage bij deze beleidsregel;
+- *Vmax:* de maximale trillingssterkte zoals gedefinieerd in paragraaf 5.3 van de SBR-richtlijn B en nader omschreven in hoofdstuk 9 van die richtlijn, met dien verstande dat voor de meettechnische bepaling van de waarde van Vmax de procedure wordt gevolgd, die opgenomen is in de bijlage bij deze beleidsregel;
 
-- **Vper:** de gemiddelde trillingssterkte zoals gedefinieerd in de SBR-richtlijn B.
+- *Vper:* de gemiddelde trillingssterkte zoals gedefinieerd in de SBR-richtlijn B.
 
 ##### Artikel 2. toepasselijkheid SBR-richtlijn B
 
@@ -96,7 +70,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. de toename van de Vmax in de plansituatie ten opzichte van de bestaande situatie; en
 
-- d. een beschrijving van de methode voor de meettechnische bepaling van de Vmax, bedoeld in de bijlage, waarin de statistische verwerking van de meetresultaten in relatie tot de statistische verwerking als bedoeld in paragraaf 9.6 van de SBR-richtlijn B wordt toegelicht en ingegaan wordt op de uitkomsten van de gehanteerde formule, de milieuhygiënische aspecten, de samenhang van effecten, de reproduceerbaarheid, de plausibiliteit van de methode en de compatibiliteit met de bestaande praktijk.
+- d. een beschrijving van de methode voor de meettechnische bepaling van de Vmax, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0031466), waarin de statistische verwerking van de meetresultaten in relatie tot de statistische verwerking als bedoeld in paragraaf 9.6 van de SBR-richtlijn B wordt toegelicht en ingegaan wordt op de uitkomsten van de gehanteerde formule, de milieuhygiënische aspecten, de samenhang van effecten, de reproduceerbaarheid, de plausibiliteit van de methode en de compatibiliteit met de bestaande praktijk.
 
 3. Indien binnen tien jaar na de vaststelling van een tracébesluit, bedoeld in het tweede lid, opnieuw een tracébesluit wordt vastgesteld dat betrekking heeft op hetzelfde gedeelte van de landelijke spoorweg als waarop het eerste tracébesluit betrekking had, wordt voor de beschrijving van de Vmax, en de Vper, in de bestaande situatie uitgegaan van de Vmax en de Vper in de bestaande situatie van het eerste tracébesluit.
 
@@ -108,9 +82,9 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Tabel 1 luidt als volgt:
 
-| Gebouwfunctie | dag en avond | dag en avond | nacht | nacht |
+| Gebouwfunctie | dag en avond | nacht |  |  |
 | --- | --- | --- | --- | --- |
-|   | A1 | A2 | A1 | A2 |
+|  | A1 | A2 | A1 | A2 |
 | gezondheidszorg en wonen | 0,1 | 0,4 | 0,1 | 0,2 |
 | onderwijs, kantoor en bijeenkomst | 0,15 | 0,6 | 0,15 | 0,6 |
 | kritische werkruimte | 0,1 | 0,1 | 0,1 | 0,1 |
@@ -131,9 +105,9 @@ A1 = streefwaarde A2 = grenswaarde
 
 4. Tabel 2 luidt als volgt:
 
-| Gebouwfunctie | dag en avond | dag en avond | nacht | nacht |
+| Gebouwfunctie | dag en avond | nacht |  |  |
 | --- | --- | --- | --- | --- |
-|   | A1 | A2 | A1 | A2 |
+|  | A1 | A2 | A1 | A2 |
 | gezondheidszorg en wonen | 0,2 | 0,8 | 0,2 | 0,4 |
 | onderwijs, kantoor en bijeenkomst | 0,3 | 1,2 | 0,3 | 1,2 |
 | kritische werkruimte | 0,1 | 0,1 | 0.1 | 0,1 |
@@ -152,7 +126,7 @@ A1 = streefwaarde voor Vmax A2 = grenswaarde voor Vmax
 
 | Gebouwfunctie | dag en avond | nacht |
 | --- | --- | --- |
-|   | A3 | A3 |
+|  | A3 | A3 |
 | gezondheidszorg en wonen | 0,1 | 0,1 |
 | onderwijs, kantoor en bijeenkomst | 0,15 | 0,15 |
 
@@ -189,23 +163,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 11. citeertitel
 
 Deze beleidsregel kan worden aangehaald als: Beleidsregel trillinghinder spoor.
-
-## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=1&z=2014-03-27&g=2014-03-27) van de Beleidsregel trillinghinder spoor
-
-Voor de meettechnische bepaling van de waarde van Vmax wordt de volgende procedure gevolgd:
-
-- –. Bij keuze, gebruik en toepassing van meetapparatuur wordt toepassing gegeven aan hoofdstuk 7 en de paragrafen 8.1 en 8.2 van de SBR-richtlijn B. In aanvulling op paragraaf 8.2.4. kan ook de fundering van het pand, conform de indicatieve methode van SBR richtlijn A, als positie voor een meetpunt in overweging worden genomen.
-
-- –. De meetduur T (paragraaf 8.4.3.) bedraagt ten minste een week.
-
-- –. De meetresultaten worden uitgewerkt conform paragraaf 9.1 tot en met 9.4 van de SBR-richtlijn B.
-
-- –. Alle resultaten voor intervallen waarin geen spoorverkeer aanwezig was, worden uit de set verwijderd.
-
-- –. Uit de dan verkregen dataset wordt het weekmaximum bepaald alsmede de onzekerheid van dat resultaat uitgedrukt in een percentage. Indien de onzekerheid 10% of minder bedraagt komt de toetswaarde overeen met het weekmaximum. Indien de onzekerheid meer dan 10% bedraagt wordt bij bepaling van de toetswaarde rekening gehouden met die onzekerheid.
-
-- –. De waarde per dataset (voor dag en nachtperiode) die vervolgens de hoogste is, is de toetswaarde.
-
-- –. De toetswaarde wordt vergeleken met de streef- en grenswaarde voor de dag- en avondperiode en die voor de nachtperiode.
-
-Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0050130"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Wet van 17 juli 2024, houdende regels ter bevordering van de digitale weerbaarheid van bedrijven (Wet bevordering digitale weerbaarheid bedrijven)

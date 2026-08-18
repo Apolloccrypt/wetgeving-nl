@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2012, houdende instelling van een bestuurlijk afstemmingsoverleg zoönosen"
+citeertitel: "Instellingsbesluit bestuurlijk afstemmingsoverleg zoönosen"
 identifier: "BWBR0031503"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-08-01"
-last_updated: "2018-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031503"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11719123"
-version_id: "19353002"
-internal_id: "C27052171"
-label_id: "11691694"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031503/2018-08-01/0"
-intitule_bron: "Stcrt.2012-8102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-13"
-intitule_published: "2012-04-26"
-intitule_in_force: "2012-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-8102"
-original_signed_date: "2012-04-13"
-original_published_date: "2012-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-8102"
-entry_into_force_date: "2012-04-27"
-jci_1_3: "jci1.3:c:BWBR0031503&z=2018-08-01&g=2018-08-01"
-jci_1_0: "1.0:c:BWBR0031503&g=2018-08-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit bestuurlijk afstemmingsoverleg zoönosen"
-signed_date: "2012-04-13"
-entry_into_force: "2012-04-27"
+publicatiedatum: 2012-04-27
+laatste_update: 2018-08-01
+status: geldig
+toestand: 2018-08-01
+bron: "https://wetten.overheid.nl/BWBR0031503"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2012, houdende instelling van een bestuurlijk afstemmingsoverleg zoönosen
-
-in overeenstemming met de staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +40,7 @@ Er is een bestuurlijk afstemmingsoverleg zoönosen (hierna: het BAO-Z).
 
 - e. een vertegenwoordiger van de Directie Publieke Gezondheid van het ministerie van VWS, tevens secretaris;
 
-- f. de **Chief Veterinary Officer** van het Ministerie van EL&I;
+- f. de *Chief Veterinary Officer* van het Ministerie van EL&I;
 
 - g. een vertegenwoordiger van de Inspectie gezondheidszorg en jeugd;
 
@@ -103,5 +77,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit bestuurlijk afstemmingsoverleg zoönosen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

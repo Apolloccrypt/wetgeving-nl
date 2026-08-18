@@ -1,60 +1,30 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het Experiment regelarme instellingen in de langdurige zorg nr. MC-U-3117725"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Experiment regelarme instellingen in de langdurige zorg)"
 identifier: "BWBR0031774"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-09-01"
-last_updated: "2012-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031774"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11787273"
-version_id: "19498962"
-internal_id: "C27342341"
-label_id: "11759554"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031774/2012-09-01/0"
-intitule_bron: "Stcrt.2012-13948"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-11"
-intitule_published: "2012-07-10"
-intitule_in_force: "2012-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13948"
-original_signed_date: "2012-06-11"
-original_published_date: "2012-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13948"
-entry_into_force_date: "2012-09-01"
-jci_1_3: "jci1.3:c:BWBR0031774&z=2012-09-01&g=2012-09-01"
-jci_1_0: "1.0:c:BWBR0031774&g=2012-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Experiment regelarme instellingen in de langdurige zorg)"
-signed_date: "2012-06-11"
-entry_into_force: "2012-09-01"
+publicatiedatum: 2012-09-01
+laatste_update: 2012-09-01
+status: geldig
+toestand: 2012-09-01
+bron: "https://wetten.overheid.nl/BWBR0031774"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het Experiment regelarme instellingen in de langdurige zorg nr. MC-U-3117725
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 8 maart 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2011/12, 31 765, 56);
-
-Gelet op het algemeen overleg met de vaste commissie van Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal op 29 maart 2012.
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **de wet:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *de wet:* de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **de zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. *de zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- c. **het Experiment regelarme instellingen:** het experiment zoals beschreven in mijn brief aan de Tweede Kamer der Staten-Generaal van 23 december 2011 en de daarbij behorende bijlagen (Kamerstukken II 2011/12, 31 765, nr. 53);
+- c. *het Experiment regelarme instellingen:* het experiment zoals beschreven in mijn brief aan de Tweede Kamer der Staten-Generaal van 23 december 2011 en de daarbij behorende bijlagen (Kamerstukken II 2011/12, 31 765, nr. 53);
 
-- d. **een experiment:** een individueel experiment in het kader van het Experiment regelarme instellingen, zoals nader gedefinieerd door de deelnemende zorgaanbieder en door mij medegedeeld aan de zorgautoriteit.
+- d. *een experiment:* een individueel experiment in het kader van het Experiment regelarme instellingen, zoals nader gedefinieerd door de deelnemende zorgaanbieder en door mij medegedeeld aan de zorgautoriteit.
 
 ##### Artikel 2. werkingssfeer
 
@@ -87,5 +57,3 @@ Een experiment eindigt uiterlijk 31 december 2013.
 ##### Artikel 7. evaluatie
 
 Ten behoeve van een efficiënte en verantwoorde evaluatie in het kader van het Experiment regelarme instellingen, voert de zorgautoriteit haar evaluatie als bedoeld in het zesde lid van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), in overleg met mij uit.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

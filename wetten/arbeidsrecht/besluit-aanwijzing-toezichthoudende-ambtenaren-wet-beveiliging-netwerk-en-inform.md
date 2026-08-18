@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-14
 toestand: 2018-11-09
 bron: "https://wetten.overheid.nl/BWBR0041503"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 30 oktober 2018, nr. IENW/BSK-2018/224867, houdende aanwijzing van ambtenaren belast met het toezicht op de naleving van de Wet beveiliging netwerk- en informatiesystemen (Besluit aanwijzing toezichthoudende ambtenaren Wet beveiliging netwerk- en informatiesystemen)

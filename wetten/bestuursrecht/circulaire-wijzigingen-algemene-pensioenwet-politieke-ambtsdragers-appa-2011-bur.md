@@ -1,53 +1,31 @@
 ---
 title: "Circulaire wijzigingen Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (burgemeester, enz.)"
 identifier: "BWBR0031214"
-country: "nl"
-rank: "circulaire"
-publication_date: "2011-11-19"
-last_updated: "2011-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031214"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "11649483"
-version_id: "19223152"
-internal_id: "C26820281"
-label_id: "11622534"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031214/2011-11-19/0"
-intitule_bron: "Stcrt.2012-1950"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-01-16"
-intitule_published: "2012-02-03"
-intitule_in_force: "2012-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-1950"
-original_signed_date: "2012-01-16"
-original_published_date: "2012-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-1950"
-entry_into_force_date: "2011-11-19"
-jci_1_3: "jci1.3:c:BWBR0031214&z=2011-11-19&g=2011-11-19"
-jci_1_0: "1.0:c:BWBR0031214&g=2011-11-19"
-citeertitel_status: "redactioneel"
-signed_date: "2012-01-16"
-entry_into_force: "2011-11-19"
+publicatiedatum: 2011-11-19
+laatste_update: 2011-11-19
+status: geldig
+toestand: 2011-11-19
+bron: "https://wetten.overheid.nl/BWBR0031214"
+opgehaald: 2026-08-18
 ---
+
 # Circulaire wijzigingen Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (burgemeester, enz.)
 
 ### 1. Algemeen
 
 Op 18 november 2011 is de [Wet aanpassing Appa en enkele andere wetten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030652) gepubliceerd in Staatsblad 2011, 531.
 
-Allereerst is een uitvloeisel van genoemde wetswijziging de verplichte aansluiting van uw gemeente bij het Pensioenregister. In paragraaf 2 wordt aangegeven wat dit voor uw gemeente betekent en welke actie in dat verband door uw gemeente moet worden verricht.
+Allereerst is een uitvloeisel van genoemde wetswijziging de verplichte aansluiting van uw gemeente bij het Pensioenregister. In [paragraaf 2](https://wetten.overheid.nl/BWBR0031214) wordt aangegeven wat dit voor uw gemeente betekent en welke actie in dat verband door uw gemeente moet worden verricht.
 
-Tevens is in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652) verduidelijkt dat de inkomenselementen die in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) worden verrekend, worden bepaald aan de hand van de bepalingen van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). Uit de uitvoeringspraktijk van de Appa en een gerechtelijke uitspraak was namelijk naar voren gekomen dat er onduidelijkheid bestaat over de invulling en afbakening van de verschillende inkomensbegrippen. Dit zou het ongewenste gevolg kunnen hebben dat de verrekening van (neven-) inkomsten voor de politieke ambtsdragers, tijdens en na de ambtsvervulling, niet op dezelfde wijze plaatsvindt. Het gaat dan in het bijzonder om de begrippen winst uit een of meer ondernemingen en belastbaar loon uit tegenwoordige arbeid. In paragraaf 3 wordt hierop ingegaan.
+Tevens is in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652) verduidelijkt dat de inkomenselementen die in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) worden verrekend, worden bepaald aan de hand van de bepalingen van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). Uit de uitvoeringspraktijk van de Appa en een gerechtelijke uitspraak was namelijk naar voren gekomen dat er onduidelijkheid bestaat over de invulling en afbakening van de verschillende inkomensbegrippen. Dit zou het ongewenste gevolg kunnen hebben dat de verrekening van (neven-) inkomsten voor de politieke ambtsdragers, tijdens en na de ambtsvervulling, niet op dezelfde wijze plaatsvindt. Het gaat dan in het bijzonder om de begrippen winst uit een of meer ondernemingen en belastbaar loon uit tegenwoordige arbeid. In [paragraaf 3](https://wetten.overheid.nl/BWBR0031214) wordt hierop ingegaan.
 
-Voor de gemeentelijke uitvoering van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) zijn er verder ook andere relevante wijzigingen als gevolg van deze wet. Hierop wordt in paragraaf 4 ingegaan. Deze wijzigingen zijn per 19 november 2011 ingegaan. Eén daarvan is de keuzemogelijkheid om de dekking van nabestaandenpensioen ook na deelnemerschap in stand te houden. Hierop wordt ingegaan in paragraaf 4.1. Van uw gemeente wordt op dit punt actie verwacht. Uw gemeente dient betrokkene namelijk te informeren.
+Voor de gemeentelijke uitvoering van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) zijn er verder ook andere relevante wijzigingen als gevolg van deze wet. Hierop wordt in [paragraaf 4](https://wetten.overheid.nl/BWBR0031214) ingegaan. Deze wijzigingen zijn per 19 november 2011 ingegaan. Eén daarvan is de keuzemogelijkheid om de dekking van nabestaandenpensioen ook na deelnemerschap in stand te houden. Hierop wordt ingegaan in [paragraaf 4.1](https://wetten.overheid.nl/BWBR0031214). Van uw gemeente wordt op dit punt actie verwacht. Uw gemeente dient betrokkene namelijk te informeren.
 
-De gemeente dient degenen waarvan het recht op een Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd, vóór 19 maart 2012 te informeren. Voor betrokkenen waarvan het uitkeringsrecht na 19 november 2011 eindigt, moet dit in de toekomst binnen vier maanden vóór de beëindiging van de deelneming. Voor het beperkte aantal betrokkenen waarvan het uitkeringsrecht al is geëindigd in de periode gelegen tussen 19 november 2011 en de ontvangstdatum van deze circulaire verwijs ik u naar paragraaf 4.1. Deze categorie gewezen ambtsdragers dient uw gemeente ook zo snel mogelijk te informeren over de uitruilmogelijkheid.
+De gemeente dient degenen waarvan het recht op een Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd, vóór 19 maart 2012 te informeren. Voor betrokkenen waarvan het uitkeringsrecht na 19 november 2011 eindigt, moet dit in de toekomst binnen vier maanden vóór de beëindiging van de deelneming. Voor het beperkte aantal betrokkenen waarvan het uitkeringsrecht al is geëindigd in de periode gelegen tussen 19 november 2011 en de ontvangstdatum van deze circulaire verwijs ik u naar [paragraaf 4.1](https://wetten.overheid.nl/BWBR0031214). Deze categorie gewezen ambtsdragers dient uw gemeente ook zo snel mogelijk te informeren over de uitruilmogelijkheid.
 
-In paragraaf 5 wordt gewezen op het belang dat de gemeente toereikende voorzieningen heeft getroffen voor pensioenen van Appa-gerechtigden (in de vorm van bij voorbeeld reserveringen in de begroting). Dit is geen gevolg van [bovengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652), maar ik maak van de gelegenheid gebruik hiervoor aandacht te vragen. Ik heb namelijk signalen ontvangen dat gemeenten niet altijd volledig op de hoogte zijn van de omvang van het wettelijk vereiste bedrag dat in geval van een uitgaande waardeoverdracht moet worden betaald.
+In [paragraaf 5](https://wetten.overheid.nl/BWBR0031214) wordt gewezen op het belang dat de gemeente toereikende voorzieningen heeft getroffen voor pensioenen van Appa-gerechtigden (in de vorm van bij voorbeeld reserveringen in de begroting). Dit is geen gevolg van [bovengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652), maar ik maak van de gelegenheid gebruik hiervoor aandacht te vragen. Ik heb namelijk signalen ontvangen dat gemeenten niet altijd volledig op de hoogte zijn van de omvang van het wettelijk vereiste bedrag dat in geval van een uitgaande waardeoverdracht moet worden betaald.
 
 ### 2. Pensioenregister
 
@@ -83,7 +61,7 @@ Voor meer specifieke informatie over hoe het gebruikelijk loon moet worden vastg
 
 http://www.belastingdienst.nl/zakelijk/loonheffingen/download/
 
-### 4. [Wet aanpassing Appa en enkele andere wetten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030652)
+### 4. Wet aanpassing Appa en enkele andere wetten 2011
 
 De aanpassingen in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) die worden besproken in deze paragraaf, hebben als achtergrond de Appa-pensioenen zoveel mogelijk in lijn te brengen met het ABP-reglement.
 
@@ -137,6 +115,10 @@ Bij uitspraak van 8 november 2005 (rolnr. C0400843/MA) heeft Hof ’s-Hertogenbo
 
 Sinds 27 februari 2010 vallen burgemeesters wat betreft hun uitkeringsrechten onder de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). De Appa-uitkering komt in principe ten laste van de begroting van de gemeente waar de burgemeester in functie is geweest. Uitzonderingen op deze regel zijn:
 
+- 1. de Appa-uitkering van de waarnemend burgemeester die op grond van [artikel 78, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) door de commissaris van de Koningin is benoemd;
+
+- 2. de Appa-uitkering voor de burgemeester aan wie eervol ontslag is verleend als gevolg van het opheffen van de gemeente in verband met herindeling.
+
 Deze uitkeringen kwamen altijd ten laste van het Rijk. De wijziging van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) per 27 februari 2010 had niet tot doel in de hier bedoelde situatie de uitkeringslasten bij de gemeente neer te leggen. Het was de bedoeling dat de bestaande praktijk zou worden gecontinueerd. Daarom werkt deze reparatie ook terug tot 27 februari 2010. Dit is nu expliciet geregeld in de [artikelen 137a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=137a) en [137b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=137b).
 
 Omdat de uitvoering van deze Appa-uitkeringen door het Rijk is uitbesteed aan Loyalis Maatwerkadministraties (LMA), dienen gemeenten zich voor bovengenoemde uitkeringen hier te melden:
@@ -163,9 +145,15 @@ Hieronder wordt ingegaan op verschillende zaken die kunnen spelen voor de geweze
 
 Besproken wordt wat het amendement-Van Beek betekent in drie onderscheiden situaties.
 
+Gepensioneerde wethouder wordt wethouder in dezelfde gemeente
+
 Wethouders die bij een al ingegaan Appa-pensioen na hun 65e jaar opnieuw dat ambt gaan bekleden in dezelfde gemeente ontvangen hun Appa-pensioen, maar bouwen uit dien hoofde geen Appa-pensioen meer op. Zij betalen ook geen pensioenpremie meer.
 
+Gepensioneerde wethouder wordt ambtsdrager in andere gemeente, een provincie of een waterschap
+
 Wethouders die bij een al ingegaan Appa-pensioen na hun 65e jaar opnieuw dat ambt gaan bekleden in een andere gemeente of het ambt van gedeputeerde of lid van het dagelijks bestuur van een waterschap gaan vervullen, ontvangen hun Appa-pensioen, maar bouwen uit dien hoofde ook Appa-pensioen op. Zij betalen daarvoor pensioenpremie uit hoofde van het nieuwe ambt.
+
+Gepensioneerde wethouder wordt lid Tweede Kamer, voorzitter Eerste Kamer, (substituut-) Ombudsman of bewindspersoon
 
 Wethouders die bij een al ingegaan Appa-pensioen na hun 65e jaar het ambt gaan bekleden van lid van de Tweede Kamer, voorzitter van de Eerste Kamer1Leden van de Eerste Kamer vallen niet onder de Algemene pensioenwet politieke ambtsdragers. Als een gepensioneerde wethouder lid wordt van de Eerste Kamer heeft dit geen gevolgen voor lopende Appa-pensioenaanspraken., (substituut-) Ombudsman of van minister of staatssecretaris ontvangen hun Appa-pensioen. Zij bouwen daarnaast in dat nieuwe ambt weer pensioen op. Zij betalen dan pensioenpremie uit hoofde van het nieuwe ambt. De wetswijziging betreft namelijk alleen de afdeling die het pensioen regelt van gedeputeerden, wethouders en leden van het dagelijks bestuur van het waterschap.
 

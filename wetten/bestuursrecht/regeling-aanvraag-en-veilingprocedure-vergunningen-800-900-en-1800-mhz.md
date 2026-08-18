@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 22 december 2011, nr. WJZ / 10146523, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band ten behoeve van mobiele communicatietoepassingen (Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz)"
+citeertitel: "Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz"
 identifier: "BWBR0031069"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-07-11"
-last_updated: "2012-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031069"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11613493"
-version_id: "19170632"
-internal_id: "C26741531"
-label_id: "11586934"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031069/2012-07-11/0"
-intitule_bron: "Stcrt.2012-392"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-22"
-intitule_published: "2012-01-06"
-intitule_in_force: "2012-01-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-392"
-original_signed_date: "2011-12-22"
-original_published_date: "2012-01-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-392"
-entry_into_force_date: "2012-04-16"
-jci_1_3: "jci1.3:c:BWBR0031069&z=2012-07-11&g=2012-07-11"
-jci_1_0: "1.0:c:BWBR0031069&g=2012-07-11"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz"
-signed_date: "2011-12-22"
-entry_into_force: "2012-04-16"
+publicatiedatum: 2012-04-16
+laatste_update: 2012-07-11
+status: geldig
+toestand: 2012-07-11
+bron: "https://wetten.overheid.nl/BWBR0031069"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 22 december 2011, nr. WJZ / 10146523, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 800, 900 en 1800 MHz-band ten behoeve van mobiele communicatietoepassingen (Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz)
-
-Gelet op de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=2a), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=6a) en [8 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=8);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,57 +20,57 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **aanvrager:** degene die een aanvraag heeft ingediend;
+- a. *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- b. **nieuwkomer:** de aanvrager die op het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=9&z=2012-07-11&g=2012-07-11), genoemde tijdstip geen vergunninghouder is van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz en die ook geen deel uitmaakt van een groep waarvan een of meer leden vergunninghouder zijn van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz;
+- b. *nieuwkomer:* de aanvrager die op het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=9&z=2012-07-11&g=2012-07-11), genoemde tijdstip geen vergunninghouder is van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz en die ook geen deel uitmaakt van een groep waarvan een of meer leden vergunninghouder zijn van een of meer vergunningen voor frequentieruimte binnen het bereik van 880–915 MHz en 925–960 MHz;
 
-- c. **biedronde:** een primaire biedronde, de aanvullende biedronde of de toewijzingsbiedronde;
+- c. *biedronde:* een primaire biedronde, de aanvullende biedronde of de toewijzingsbiedronde;
 
-- d. **onderband 800 MHz:** het frequentiebereik van 791–821 MHz;
+- d. *onderband 800 MHz:* het frequentiebereik van 791–821 MHz;
 
-- e. **bovenband 800 MHz:** het frequentiebereik van 832–862 MHz;
+- e. *bovenband 800 MHz:* het frequentiebereik van 832–862 MHz;
 
-- f. **onderband 900 MHz:** het frequentiebereik van 880–915 MHz;
+- f. *onderband 900 MHz:* het frequentiebereik van 880–915 MHz;
 
-- g. **bovenband 900 MHz:** het frequentiebereik van 925–960 MHz;
+- g. *bovenband 900 MHz:* het frequentiebereik van 925–960 MHz;
 
-- h. **onderband 1800 MHz:** het frequentiebereik van 1710–1780 MHz;
+- h. *onderband 1800 MHz:* het frequentiebereik van 1710–1780 MHz;
 
-- i. **bovenband 1800 MHz:** het frequentiebereik van 1805–1875 MHz;
+- i. *bovenband 1800 MHz:* het frequentiebereik van 1805–1875 MHz;
 
-- j. **onderband 2100 MHz:** het frequentiebereik van 1959,7–1969,7 MHz;
+- j. *onderband 2100 MHz:* het frequentiebereik van 1959,7–1969,7 MHz;
 
-- k. **bovenband 2100 MHz:** het frequentiebereik van 2149,7–2159,7 MHz;
+- k. *bovenband 2100 MHz:* het frequentiebereik van 2149,7–2159,7 MHz;
 
-- l. **deelnemer:**
+- l. *deelnemer:*
 
-- 1°. in de [artikelen 14 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11), in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=II&z=2012-07-11&g=2012-07-11), in de primaire biedronden en in de aanvullende biedronde: de aanvrager die voldoet aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen en wiens aanvraag voldoet aan de in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) gestelde eisen en aan wie is meegedeeld dat hij is toegelaten tot de veiling;
+   - 1°. in de [artikelen 14 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=14&z=2012-07-11&g=2012-07-11), in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=II&z=2012-07-11&g=2012-07-11), in de primaire biedronden en in de aanvullende biedronde: de aanvrager die voldoet aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=11&z=2012-07-11&g=2012-07-11) gestelde eisen en wiens aanvraag voldoet aan de in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11) gestelde eisen en aan wie is meegedeeld dat hij is toegelaten tot de veiling;
 
-- 2°. in de toewijzingsbiedronde: de aanvrager, bedoeld onder 1°, wiens bieding onderdeel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
+   - 2°. in de toewijzingsbiedronde: de aanvrager, bedoeld onder 1°, wiens bieding onderdeel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
 
-- m. **winnende deelnemer:**
+- m. *winnende deelnemer:*
 
-- 1°. in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=III&z=2012-07-11&g=2012-07-11): de deelnemer wiens bieding deel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
+   - 1°. in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=III&z=2012-07-11&g=2012-07-11): de deelnemer wiens bieding deel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
 
-- 2°. in de toewijzingsbiedronde, in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=IV&z=2012-07-11&g=2012-07-11) en in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=9&artikel=43&z=2012-07-11&g=2012-07-11): de deelnemer wiens bieding deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=40&z=2012-07-11&g=2012-07-11);
+   - 2°. in de toewijzingsbiedronde, in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=IV&z=2012-07-11&g=2012-07-11) en in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=9&artikel=43&z=2012-07-11&g=2012-07-11): de deelnemer wiens bieding deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=40&z=2012-07-11&g=2012-07-11);
 
-- n. **groep:** een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- n. *groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- o. **rente:** de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
+- o. *rente:* de volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
 
-- p. **winnende bieding:**
+- p. *winnende bieding:*
 
-- 1°. in de aanvullende biedronde en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=III&z=2012-07-11&g=2012-07-11): de bieding die deel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
+   - 1°. in de aanvullende biedronde en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=III&z=2012-07-11&g=2012-07-11): de bieding die deel uitmaakt van de combinatie van winnende biedingen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11);
 
-- 2°. in de toewijzingsbiedronde: de bieding die deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=40&z=2012-07-11&g=2012-07-11);
+   - 2°. in de toewijzingsbiedronde: de bieding die deel uitmaakt van de finale combinatie van winnende biedingen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=40&z=2012-07-11&g=2012-07-11);
 
-- q. **vertrouwelijke informatie:** informatie over een aanvrager die niet openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager, diens beslissingen met betrekking tot de veiling beïnvloedt of kan beïnvloeden;
+- q. *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager, diens beslissingen met betrekking tot de veiling beïnvloedt of kan beïnvloeden;
 
-- r. **finale primaire bieding:** de laatste bieding met een activiteitsniveau hoger dan nul die een deelnemer in de primaire biedronde heeft uitgebracht;
+- r. *finale primaire bieding:* de laatste bieding met een activiteitsniveau hoger dan nul die een deelnemer in de primaire biedronde heeft uitgebracht;
 
-- s. **pakket:** de specifieke combinatie van vergunningen in een bieding van een deelnemer;
+- s. *pakket:* de specifieke combinatie van vergunningen in een bieding van een deelnemer;
 
-- t. **finale pakket:** het pakket waarop een deelnemer in zijn finale primaire bieding heeft geboden.
+- t. *finale pakket:* het pakket waarop een deelnemer in zijn finale primaire bieding heeft geboden.
 
 2. Onder een groep wordt mede verstaan een rechtspersoon of andere juridische entiteit waarin twee of meer aanvragers gelijke aandelen houden of gelijke juridische zeggenschap hebben.
 
@@ -600,7 +574,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 #### § 7. De hoofdfase van de veiling: de primaire biedronden en de aanvullende biedronde
 
-#### § 7.1. Primaire biedronden
+##### § 7.1. Primaire biedronden
 
 ##### Artikel 24
 
@@ -686,7 +660,7 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 2. In afwijking van het eerste lid, kan de minister de primaire biedronden beëindigen indien dat naar de mening van de minister geboden is ten behoeve van een efficiënt veilingproces.
 
-#### § 7.2. Aanvullende biedronde
+##### § 7.2. Aanvullende biedronde
 
 ##### Artikel 28
 
@@ -730,11 +704,11 @@ met dien verstande dat de minister ingeval van bijzondere omstandigheden communi
 
 3. Onverminderd [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=22&z=2012-07-11&g=2012-07-11), geldt in de aanvullende biedronde voor biedingen van een deelnemer op andere pakketten dan zijn finale pakket, dat het biedbedrag voor pakket X niet hoger is dan de hoogste prijs waartegen de deelnemer op pakket Y heeft geboden in een primaire biedronde of in de aanvullende biedronde, vermeerderd met de prijs voor pakket X tegen de rondeprijzen in primaire biedronde n, verminderd met de prijs voor pakket Y tegen de rondeprijzen in primaire biedronde n, waarbij:
 
-- –. pakket X het pakket is waarop de deelnemer in de aanvullende biedronde een bieding uitbrengt,
+- – pakket X het pakket is waarop de deelnemer in de aanvullende biedronde een bieding uitbrengt,
 
-- –. primaire biedronde n de laatste primaire biedronde is waarin het activiteitsniveau van de deelnemer hoger dan of gelijk was aan het benodigd aantal activiteitspunten om een bieding uit te kunnen brengen op pakket X, en
+- – primaire biedronde n de laatste primaire biedronde is waarin het activiteitsniveau van de deelnemer hoger dan of gelijk was aan het benodigd aantal activiteitspunten om een bieding uit te kunnen brengen op pakket X, en
 
-- –. pakket Y het pakket is waarop de deelnemer in primaire biedronde n een bieding uitbracht.
+- – pakket Y het pakket is waarop de deelnemer in primaire biedronde n een bieding uitbracht.
 
 4. Onverminderd [artikel 22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=22&z=2012-07-11&g=2012-07-11), geldt voor een deelnemer die zijn finale primaire bieding in een andere primaire biedronde dan de laatste primaire biedronde heeft uitgebracht, dat het biedbedrag in de aanvullende biedronde voor een bieding van deze deelnemer op zijn finale pakket niet hoger is dan de prijs voor dit pakket tegen de rondeprijzen in de primaire biedronde na de biedronde waarin hij zijn finale primaire bieding heeft uitgebracht.
 
@@ -918,23 +892,23 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 - a. stort de minister de waarborgsom terug van de aanvrager:
 
-- 1°. wiens bieding geen onderdeel is van de finale combinatie van winnende biedingen, en
+   - 1°. wiens bieding geen onderdeel is van de finale combinatie van winnende biedingen, en
 
-- 2°. aan wie geen vergunning is verleend op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11), of [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11);
+   - 2°. aan wie geen vergunning is verleend op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11), of [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11);
 
 - b. stuurt de minister een schriftelijke verklaring als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=II&z=2012-07-11&g=2012-07-11), onder II, onder 4, aan de bank van iedere aanvrager die ter zekerheidstelling een bankgarantie heeft overgelegd en: De minister stuurt een kopie van deze verklaring aan de aanvrager;
 
-- 1°. wiens bieding geen onderdeel is van de finale combinatie van winnende biedingen, en
+   - 1°. wiens bieding geen onderdeel is van de finale combinatie van winnende biedingen, en
 
-- 2°. aan wie geen vergunning is verleend op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11) of [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=32&z=2012-07-11&g=2012-07-11).
+   - 2°. aan wie geen vergunning is verleend op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11) of [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=32&z=2012-07-11&g=2012-07-11).
 
 - c. betaalt de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de [artikelen 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11), of [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11), en die een bankgarantie had gesteld, de door hem verschuldigde totaalprijs, door overmaking van dat bedrag op het bankrekeningnummer, genoemd in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11), onder vermelding van ‘Veiling 800, 900 en 1800 MHz’. Zodra de verschuldigde totaalprijs is ontvangen stuurt de minister een schriftelijke verklaring als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&bijlage=II&z=2012-07-11&g=2012-07-11), onder II, onder 4, aan de bank van die deelnemer. De minister stuurt een kopie van deze verklaring aan de deelnemer;
 
 - d. wordt de waarborgsom van de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de [artikelen 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=34&z=2012-07-11&g=2012-07-11), of [35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=35&z=2012-07-11&g=2012-07-11), aangewend voor de betaling van de door hem verschuldigde totaalprijs, met dien verstande dat:
 
-- 1°. indien de waarborgsom minder dan de totaalprijs bedraagt, die deelnemer het restant van de totaalprijs betaalt door overmaking van dat restant op het bankrekeningnummer, genoemd in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11), onder vermelding van ‘Ministerie van Economische Zaken, Landbouw en Innovatie, Agentschap Telecom, veiling 800, 900 en 1800 MHz’, uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=42&z=2012-07-11&g=2012-07-11), is gedaan, en
+   - 1°. indien de waarborgsom minder dan de totaalprijs bedraagt, die deelnemer het restant van de totaalprijs betaalt door overmaking van dat restant op het bankrekeningnummer, genoemd in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11), onder vermelding van ‘Ministerie van Economische Zaken, Landbouw en Innovatie, Agentschap Telecom, veiling 800, 900 en 1800 MHz’, uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=42&z=2012-07-11&g=2012-07-11), is gedaan, en
 
-- 2°. indien de waarborgsom van die deelnemer meer dan de totaalprijs bedraagt, het bedrag van de waarborgsom dat resteert, aan die deelnemer wordt teruggestort, uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=42&z=2012-07-11&g=2012-07-11), is gedaan.
+   - 2°. indien de waarborgsom van die deelnemer meer dan de totaalprijs bedraagt, het bedrag van de waarborgsom dat resteert, aan die deelnemer wordt teruggestort, uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=42&z=2012-07-11&g=2012-07-11), is gedaan.
 
 2. De minister vergoedt de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11), met dien verstande dat de rente wordt vergoed tot en met de dag:
 
@@ -955,283 +929,3 @@ Deze regeling treedt in werking met ingang van 16 april 2012.
 ##### Artikel 46
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz.
-
-## Bijlage I. als bedoeld in [artikel 8, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=3&artikel=8&z=2012-07-11&g=2012-07-11), van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
-
-### – Model aanvraagformulier –
-
-### Onderdeel A
-
-### A.1. Algemeen
-
-Statutaire naam aanvrager: .....
-
-Nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register: .....
-
-Land van inschrijving in het handelsregister of daarmee vergelijkbaar register: .....
-
-Beherende instantie van het handelsregister of daarmee vergelijkbaar register: ....
-
-Faxnummer: .....
-
-Het telefoonnummer waarop in geval van bijzondere omstandigheden als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=17&z=2012-07-11&g=2012-07-11), de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is:
-
-.....
-
-□ Een recent uittreksel, niet ouder dan een maand gerekend vanaf de datum van indiening van de aanvraag, van het handelsregister of daarmee vergelijkbaar register is bijgevoegd.
-
-### A.2. Vertegenwoordigingsbevoegdheid
-
-Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid:
-
-A.2.1 Functionaris 1
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening: .....
-
-A.2.2 Functionaris 2
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: ....
-
-Handtekening .....
-
-A.2.3 Functionaris 3
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-A.2.4 Functionaris 4
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid en beperkingen blijken uit: .....
-
-Handtekening .....
-
-**Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.**
-
-### A.3. Groepsverhoudingen
-
-□ Indien de aanvrager lid is van een groep, dient een juridisch organogram van de groep te worden bijgevoegd met vermelding in het juridisch organogram van:
-
-**Gebruik een bijlage.**
-
-### A.4. Schriftelijke verklaring omtrent de juistheid van gegevens
-
-Ondergetekende, notaris te .....(plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam:.....
-
-Plaats.....
-
-Datum: ....
-
-Handtekening
-
-.....
-
-**De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.**
-
-### Onderdeel B
-
-### B.1. Vergunningen waarop de aanvraag betrekking heeft
-
-### Onderdeel a
-
-Ik vraag de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11) en in totaal maximaal twee vergunningen A1 of A2 per nieuwkomer.
-
-### Onderdeel b
-
-In het geval, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=3&z=2012-07-11&g=2012-07-11), vraag ik de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel c
-
-In het geval, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=4&z=2012-07-11&g=2012-07-11), vraag ik de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel d
-
-In het geval, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=5&z=2012-07-11&g=2012-07-11), vraag ik de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel e
-
-In het geval, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=6&z=2012-07-11&g=2012-07-11), vraag ik de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel f
-
-In het geval, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=2&artikel=7&z=2012-07-11&g=2012-07-11), vraag ik de navolgende vergunningen aan ter grootte van ...... activiteitspunten.
-
-### B.2. Voorkeur specifieke frequentieruimte
-
-### Onderdeel a
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 tot en met G op grond van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-2 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel b
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 en B tot en met G op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-2 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel c
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 en B tot en met G op grond van [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-2 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel d
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A1 tot en met G op grond van [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-2 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel e
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen A2 tot en met G op grond van [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-2 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Onderdeel f
-
-Hieronder geef ik per type vergunning aan of ik een voorkeur heb voor specifieke frequentieruimte indien de vergunningen B tot en met G op grond van [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=4&artikel=12&z=2012-07-11&g=2012-07-11), zonder veiling worden verleend.
-
-1 Doorhalen wat niet van toepassing is.
-
-Ondergetekende verklaart dat
-
-Naam :....
-
-Plaats :.....
-
-Datum :.....
-
-Handtekening: .....
-
-## Bijlage II. als bedoeld in [artikel 15, zevende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=5&artikel=15&z=2012-07-11&g=2012-07-11), van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
-
-### – Model bankgarantie –
-
-Plaats: .....
-
-Datum: .....
-
-Naam Bank en ondertekening
-
-.....
-
-## Bijlage III. als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=32&z=2012-07-11&g=2012-07-11), van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
-
-### – Basisprijzen –
-
-Door toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=7&sub-paragraaf=7.2&artikel=31&z=2012-07-11&g=2012-07-11) zijn n winnende biedingen wb1, wb2, wb3, ..., wbn bepaald, uitgebracht door de deelnemers w1, w2, w3, ..., wn. Voor een winnende bieding wbi is de prijs pi geboden. De totale opbrengst van de winnende biedingen wb1, wb2, wb3, ..., wbn is gelijk aan T, ofwel
-
-T =
-
-De basisprijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2:
-
-## Bijlage IV. als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=41&z=2012-07-11&g=2012-07-11), van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
-
-### – Extra prijzen –
-
-Door toepassing van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=8&artikel=40&z=2012-07-11&g=2012-07-11) zijn n winnende biedingen wb1, wb2, wb3, ..., wbn bepaald, uitgebracht door de deelnemers w1, w2, w3, ..., wn. Voor een winnende bieding wbi is de prijs pi geboden. De totale opbrengst van de winnende biedingen wb1, wb2, wb3, ..., wbn is gelijk aan T, ofwel
-
-T =
-
-De extra prijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2:
-
-## Bijlage V. als bedoeld in [artikel 20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=6&artikel=20&z=2012-07-11&g=2012-07-11), van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
-
-### – Biedkaart –
-
-### Instructies
-
-### Primaire biedronde
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11).
-
-### Aanvullende biedronde
-
-1 Alleen voor een nieuwkomer als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031069&paragraaf=1&artikel=1&z=2012-07-11&g=2012-07-11)
-
-### Toewijzingsbiedronde
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

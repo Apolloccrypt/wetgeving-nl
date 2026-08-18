@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister voor Immigratie, Integratie en Asiel van 31 oktober 2012, nr. 2012-0000623321, houdende de verlening van mandaat aan de ambtenaren belast met de grensbewaking en het toezicht op vreemdelingen betreffende de uitzetting van personen en de kosten van uitzetting"
+citeertitel: "Besluit verlening mandaat aan de ambtenaren belast met grensbewaking en toezicht vreemdelingen betreffende uitzetting personen en kosten uitzetting"
 identifier: "BWBR0032221"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-17"
-last_updated: "2012-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032221"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11906143"
-version_id: "19777802"
-internal_id: "C27777471"
-label_id: "11878094"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032221/2012-11-17/0"
-intitule_bron: "Stcrt.2012-23641"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-31"
-intitule_published: "2012-11-16"
-intitule_in_force: "2012-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-23641"
-original_signed_date: "2012-10-31"
-original_published_date: "2012-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-23641"
-entry_into_force_date: "2012-11-17"
-jci_1_3: "jci1.3:c:BWBR0032221&z=2012-11-17&g=2012-11-17"
-jci_1_0: "1.0:c:BWBR0032221&g=2012-11-17"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlening mandaat aan de ambtenaren belast met grensbewaking en toezicht vreemdelingen betreffende uitzetting personen en kosten uitzetting"
-signed_date: "2012-10-31"
-entry_into_force: "2012-11-17"
+publicatiedatum: 2012-11-17
+laatste_update: 2012-11-17
+status: geldig
+toestand: 2012-11-17
+bron: "https://wetten.overheid.nl/BWBR0032221"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister voor Immigratie, Integratie en Asiel van 31 oktober 2012, nr. 2012-0000623321, houdende de verlening van mandaat aan de ambtenaren belast met de grensbewaking en het toezicht op vreemdelingen betreffende de uitzetting van personen en de kosten van uitzetting
-
-Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-Gelet op [artikel 22, tweede lid, van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=22) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=1.3), [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=8.1) en [8.2 van het Besluit toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=8.2);
-
-Besluit vast te stellen het navolgende Mandaatbesluit:
 
 ##### Artikel 1
 
@@ -63,5 +35,3 @@ De ambtenaren, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 oktober 2010, om 00.00 uur in Bonaire, Sint Eustatius en Saba.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

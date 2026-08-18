@@ -1,51 +1,17 @@
 ---
 title: "Besluit instelling Regiegroep Dienstverlening en e-overheid"
 identifier: "BWBR0032002"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-09-21"
-last_updated: "2012-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032002"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11846043"
-version_id: "19643472"
-internal_id: "C27553221"
-label_id: "11818154"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032002/2012-09-21/0"
-intitule_bron: "Stcrt.2012-10338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-14"
-intitule_published: "2012-09-20"
-intitule_in_force: "2012-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-10338"
-original_signed_date: "2012-05-14"
-original_published_date: "2012-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-10338"
-entry_into_force_date: "2012-09-21"
-jci_1_3: "jci1.3:c:BWBR0032002&z=2012-09-21&g=2012-09-21"
-jci_1_0: "1.0:c:BWBR0032002&g=2012-09-21"
-citeertitel_status: "redactioneel"
-signed_date: "2012-05-14"
-entry_into_force: "2012-09-21"
+publicatiedatum: 2012-09-21
+laatste_update: 2012-09-21
+status: geldig
+toestand: 2012-09-21
+bron: "https://wetten.overheid.nl/BWBR0032002"
+opgehaald: 2026-08-18
 ---
+
 # Besluit instelling Regiegroep Dienstverlening en e-overheid
-
-Overwegende dat door de Vereniging van Nederlandse Gemeenten, het Interprovinciaal Overleg, de Unie van Waterschappen en het Rijk in de Bestuursafspraken 2011–2015 is overeengekomen om met gebruik van de e-overheid de kwaliteit van dienstverlening aan burgers, bedrijven en instellingen te handhaven en waar mogelijk verbeteren,
-
-Dat VNG, IPO, Unie van Waterschappen, Rijk en de Manifestgroep in de Bestuurlijke Regiegroep hebben aangegeven zich onverkort gebonden te voelen aan de afspraken gemaakt in het Nationaal Uitvoeringsprogramma Programma Dienstverlening en e-Overheid (NUP) en daar ook deze kabinetsperiode uitvoering aan zullen geven,
-
-Dat de voortzetting van het NUP is gevat in de Overheidsbrede implementatieagenda voor dienstverlening en e-overheid: i-NUP, waarmee de agenda voor de e-overheid voor de periode 2011 tot en met 2014 is vormgegeven;
-
-Dat in de Bestuurlijke Regiegroep Dienstverlening en e-Overheid is afgesproken de bevindingen en aanbevelingen uit het WRR rapport iOverheid op de agenda te houden en zo de bewustwording bij de overheden te vergroten van de implicaties van het zijn van een iOverheid,
-
-Voorts overwegende dat de termijn voor instelling van de Regiegroep Dienstverlening en e-Overheid is verstreken,
-
-Besluit:
 
 ##### Artikel 1
 

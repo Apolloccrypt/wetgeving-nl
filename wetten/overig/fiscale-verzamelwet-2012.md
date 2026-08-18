@@ -1,72 +1,42 @@
 ---
 title: "Wet van 1 november 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2012)"
+citeertitel: "Fiscale verzamelwet 2012"
 identifier: "BWBR0032208"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032208"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "11903603"
-version_id: "19770382"
-internal_id: "C27765781"
-label_id: "11875734"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032208/2013-01-01/0"
-intitule_bron: "Stb.2012-544"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-01"
-intitule_published: "2012-11-08"
-intitule_in_force: "2012-11-08"
-intitule_status: "goed"
-original_publication: "Stb.2012-544"
-original_signed_date: "2012-11-01"
-original_published_date: "2012-11-08"
-original_effect: "nieuwe-regeling"
-original_dossier: "33245"
-original_url_id: "stb-2012-544"
-entry_into_force_date: "2013-01-01"
-entry_into_force_dossier: "33245"
-jci_1_3: "jci1.3:c:BWBR0032208&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032208&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Fiscale verzamelwet 2012"
-signed_date: "2012-11-01"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032208"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 1 november 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2012)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel V
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VI
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel VII
 
@@ -74,67 +44,67 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel VIII
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VIIIa
 
-Wijzigt de Wet op het BTW-compensatiefonds.
+*Wijzigt de Wet op het BTW-compensatiefonds.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel X
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XI
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XIa
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XII
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel XIII
 
-Wijzigt de Douane- en Accijnswet BES.
+*Wijzigt de Douane- en Accijnswet BES.*
 
 ##### Artikel XIV
 
-Wijzigt de Wet loonbelasting BES.
+*Wijzigt de Wet loonbelasting BES.*
 
 ##### Artikel XIVa
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel XV
 
-Wijzigt het Belastingplan 2012.
+*Wijzigt het Belastingplan 2012.*
 
 ##### Artikel XVI
 
-Wijzigt de Overige fiscale maatregelen 2012.
+*Wijzigt de Overige fiscale maatregelen 2012.*
 
 ##### Artikel XVII
 
-Wijzigt de Wet uitwerking autobrief.
+*Wijzigt de Wet uitwerking autobrief.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet uniformering loonbegrip.
+*Wijzigt de Wet uniformering loonbegrip.*
 
 ##### Artikel XIX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 
-- a. vervallen;
+- a. *vervallen;*
 
-- b. vervallen;
+- b. *vervallen;*
 
 - c. [artikel XV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0032208&artikel=XV&z=2013-01-01&g=2013-01-01), toepassing vindt voordat [artikel XXVIII, onderdeel E, van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII) wordt toegepast;
 
@@ -159,5 +129,3 @@ Wijzigt de Wet uniformering loonbegrip.
 ##### Artikel XX
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2012.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

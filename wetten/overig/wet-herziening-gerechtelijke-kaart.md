@@ -1,47 +1,440 @@
 ---
 title: "Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart)"
+citeertitel: "Wet herziening gerechtelijke kaart"
 identifier: "BWBR0031789"
-country: "nl"
-rank: "wet"
-publication_date: "2015-07-01"
-last_updated: "2015-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031789"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "11791893"
-version_id: "19512012"
-internal_id: "C27388291"
-label_id: "11765664"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031789/2015-07-01/0"
-intitule_bron: "Stb.2012-313"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-12"
-intitule_published: "2012-07-13"
-intitule_in_force: "2012-07-13"
-intitule_status: "goed"
-original_publication: "Stb.2012-313"
-original_signed_date: "2012-07-12"
-original_published_date: "2012-07-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "32891"
-original_url_id: "stb-2012-313"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031789&z=2015-07-01&g=2015-07-01"
-jci_1_0: "1.0:c:BWBR0031789&g=2015-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet herziening gerechtelijke kaart"
-signed_date: "2012-07-12"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2015-07-01
+status: geldig
+toestand: 2015-07-01
+bron: "https://wetten.overheid.nl/BWBR0031789"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart)
 
 ### Hoofdstuk I. Wijziging van wetten op het terrein van rechtspleging en juridische beroepen
 
-### Hoofdstuk I. Wijziging van wetten op het terrein van rechtspleging en juridische beroepen
+##### Artikel I
+
+*Wijzigt de Wet op de rechterlijke indeling.*
+
+##### Artikel II
+
+*Wijzigt de Wet op de rechterlijke organisatie.*
+
+##### Artikel III
+
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
+
+##### Artikel IV
+
+*Wijzigt de Beroepswet.*
+
+##### Artikel V
+
+*Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.*
+
+##### Artikel VI
+
+*Wijzigt de Advocatenwet.*
+
+##### Artikel VII
+
+*Wijzigt de Gerechtsdeurwaarderswet.*
+
+##### Artikel VIII
+
+*Wijzigt de Wet op het notarisambt.*
+
+##### Artikel IX
+
+*Wijzigt de Wet op de rechtsbijstand.*
 
 ### Hoofdstuk II. Wijziging van overige wetten
+
+##### Artikel X
+
+*Wijzigt de Algemene douanewet.*
+
+##### Artikel XI
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
+##### Artikel XII
+
+*Wijzigt de Auteurswet.*
+
+##### Artikel XIII
+
+*Wijzigt de Beginselenwet verpleging ter beschikking gestelden.*
+
+##### Artikel XIV
+
+*Wijzigt het Burgerlijk Wetboek.*
+
+##### Artikel XV
+
+*Wijzigt het Burgerlijk Wetboek BES Boek 1.*
+
+##### Artikel XVI
+
+*Wijzigt de Faillissementswet.*
+
+##### Artikel XVII
+
+*Wijzigt de Gemeentewet.*
+
+##### Artikel XVIIa
+
+*Wijzigt de Invoerings- en aanpassingswet Pensioenwet.*
+
+##### Artikel XVIII
+
+*Wijzigt de Loodsenwet.*
+
+##### Artikel XIX
+
+*Wijzigt de Mededingingswet.*
+
+##### Artikel XX
+
+*Wijzigt de Onteigeningswet.*
+
+##### Artikel XXI
+
+*Wijzigt de Overleveringswet.*
+
+##### Artikel XXII
+
+*Wijzigt de Pensioenwet.*
+
+##### Artikel XXIII
+
+*Wijzigt de Tabakswet.*
+
+##### Artikel XXIV
+
+*Wijzigt de Uitleveringswet.*
+
+##### Artikel XXV
+
+*Wijzigt de Uitvoeringswet Bewijsverdrag.*
+
+##### Artikel XXVI
+
+*Wijzigt de Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk.*
+
+##### Artikel XXVII
+
+*Wijzigt de Uitvoeringswet EG-bewijsverordening.*
+
+##### Artikel XXVIII
+
+*Wijzigt de Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen.*
+
+##### Artikel XXIX
+
+*Wijzigt de Uitvoeringswet grondkamers.*
+
+##### Artikel XXX
+
+*Wijzigt de Uitvoeringswet internationale kinderbescherming.*
+
+##### Artikel XXXI
+
+*Wijzigt de Uitvoeringswet Speciaal Tribunaal voor Libanon.*
+
+##### Artikel XXXII
+
+*Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.*
+
+##### Artikel XXXIII
+
+*Wijzigt de Uitvoeringswet verordening Europese vennootschap.*
+
+##### Artikel XXXIIIa
+
+*Wijzigt de Vreemdelingenwet 2000.*
+
+##### Artikel XXXIV
+
+*Wijzigt de Wet aansprakelijkheid kernongevallen.*
+
+##### Artikel XXXV
+
+*Wijzigt de Wet aansprakelijkheid olietankschepen.*
+
+##### Artikel XXXVI
+
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
+
+##### Artikel XXXVII
+
+*Wijzigt de Wet agrarisch grondverkeer.*
+
+##### Artikel XXXVIII
+
+*Wijzigt de Wet arbeid mijnbouw Noordzee.*
+
+##### Artikel XXXIX
+
+*Wijzigt de Wet beëdigde tolken en vertalers.*
+
+##### Artikel XL
+
+*Wijzigt de Wet bescherming oorspronkelijke topografieën en halfgeleiderprodukten.*
+
+##### Artikel XLI
+
+*Wijzigt de Wet bescherming staatsgeheimen.*
+
+##### Artikel XLII
+
+*Wijzigt de Wet bestrijding ongevallen Noordzee.*
+
+##### Artikel XLIII
+
+*Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.*
+
+##### Artikel XLIV
+
+*Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.*
+
+##### Artikel XLIVb
+
+*Wijzigt de Wet College voor de rechten van de mens.*
+
+##### Artikel XLV
+
+*Wijzigt de Wet conflictenrecht corporaties.*
+
+##### Artikel XLVI
+
+*Wijzigt de Wet conflictenrecht namen.*
+
+##### Artikel XLVII
+
+*Wijzigt de Wet dieren.*
+
+##### Artikel XLVIII
+
+*Wijzigt de Wet DNA-onderzoek bij veroordeelden.*
+
+##### Artikel XLIX
+
+*Wijzigt de Wet educatie en beroepsonderwijs.*
+
+##### Artikel L
+
+*Wijzigt de Wet Friese taal in het rechtsverkeer.*
+
+##### Artikel LI
+
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*
+
+##### Artikel LII
+
+*Wijzigt de Wet gewetensbezwaren militaire dienst.*
+
+##### Artikel LIII
+
+*Wijzigt de Wet griffierechten in burgerlijke zaken.*
+
+##### Artikel LIV
+
+*Wijzigt de Wet inrichting landelijk gebied.*
+
+##### Artikel LV
+
+*Wijzigt de Wet internationale misdrijven.*
+
+##### Artikel LVI
+
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
+
+##### Artikel LVII
+
+*Wijzigt de Wet luchtvaart.*
+
+##### Artikel LVIII
+
+*Wijzigt de Wet marktordening gezondheidszorg.*
+
+##### Artikel LIX
+
+*Wijzigt de Wet medezeggenschap op scholen.*
+
+##### Artikel LX
+
+*Wijzigt de Wet oorlogsstrafrecht.*
+
+##### Artikel LXI
+
+*Wijzigt de Wet op de economische delicten.*
+
+##### Artikel LXII
+
+*Wijzigt de Wet op de Europese ondernemingsraden.*
+
+##### Artikel LXIII
+
+*Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.*
+
+##### Artikel LXIV
+
+*Wijzigt de Wet op de naburige rechten.*
+
+##### Artikel LXV
+
+*Wijzigt de Wet op de ondernemingsraden.*
+
+##### Artikel LXVI
+
+*Wijzigt de Wet op de parlementaire enquête 2008.*
+
+##### Artikel LXVII
+
+*Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.*
+
+##### Artikel LXVIII
+
+*Wijzigt de Wet op het financieel toezicht.*
+
+##### Artikel LXIX
+
+*Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.*
+
+##### Artikel LXX
+
+*Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.*
+
+##### Artikel LXXI
+
+*Wijzigt de Wet overlevering inzake oorlogsmisdrijven.*
+
+##### Artikel LXXII
+
+*Wijzigt de Wet rol werknemers bij Europese rechtspersonen.*
+
+##### Artikel LXXIII
+
+*Wijzigt de Wet schadefonds geweldsmisdrijven.*
+
+##### Artikel LXXIV
+
+*Wijzigt de Wet schadefonds olietankschepen.*
+
+##### Artikel LXXV
+
+*Wijzigt de Wet tarieven in strafzaken.*
+
+##### Artikel LXXVI
+
+*Wijzigt de Wet tot behoud van cultuurbezit.*
+
+##### Artikel LXXVII
+
+*Wijzigt de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap.*
+
+##### Artikel LXXVIII
+
+*Wijzigt de Wet tuchtrechtspraak accountants.*
+
+##### Artikel LXXIX
+
+*Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.*
+
+##### Artikel LXXX
+
+*Wijzigt de Wet uitvoering Internationaal Energieprogramma.*
+
+##### Artikel LXXXI
+
+*Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.*
+
+##### Artikel LXXXII
+
+*Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.*
+
+##### Artikel LXXXIII
+
+*Wijzigt de Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk.*
+
+##### Artikel LXXXIV
+
+*Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.*
+
+##### Artikel LXXXV
+
+*Wijzigt de Uitvoeringswet Verdrag Nederland-Duitsland ter verdere vereenvoudiging van het rechtsverkeer i.v.m. Rechtsvorderingsverdrag 1954.*
+
+##### Artikel LXXXVI
+
+*Wijzigt de Uitvoeringswet Verdrag Nederland-Oostenrijk tot vereenvoudiging van het rechtsverkeer in verband met het Rechtsvorderingsverdrag 1954.*
+
+##### Artikel LXXXVII
+
+*Wijzigt de Uitvoeringswet Betekeningsverdrag 1965.*
+
+##### Artikel LXXXVIII
+
+*Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.*
+
+##### Artikel LXXXIX
+
+*Wijzigt de Uitvoeringswet Bewijsverdrag.*
+
+##### Artikel XC
+
+*Wijzigt de Uitvoeringswet internationale kinderontvoering.*
+
+##### Artikel XCI
+
+*Wijzigt de Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand.*
+
+##### Artikel XCII
+
+*Wijzigt de Wet tot instelling van het Internationaal Tribunaal voor vervolging van personen aansprakelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië 1991.*
+
+##### Artikel XCIII
+
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
+
+##### Artikel XCIV
+
+*Wijzigt de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen.*
+
+##### Artikel XCV
+
+*Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008.*
+
+##### Artikel XCVI
+
+*Wijzigt de Wet wegvervoer goederen.*
+
+##### Artikel XCVII
+
+*Wijzigt de Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen.*
+
+##### Artikel XCVIII
+
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
+
+##### Artikel XCIX
+
+*Wijzigt het Wetboek van Koophandel.*
+
+##### Artikel C
+
+*Wijzigt het Wetboek van Strafvordering.*
+
+##### Artikel CI
+
+*Wijzigt de Zaaizaad- en plantgoedwet 2005.*
+
+### Hoofdstuk III. Overgangs- en slotbepalingen
 
 ##### Artikel CII. (Overgang lopende zaken naar nieuwe rechtbanken)
 
@@ -180,7 +573,7 @@ Binnen het rechtsgebied van een gerecht gelegen nevenvestigings- en nevenzitting
 
 ##### Artikel CVII. (Tijdelijk afwijkend aantal gerechtsbestuurders in rechtbank Oost-Nederland)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel CVIII. (Overgangsrecht functionarissen rechtbanken)
 
@@ -572,129 +965,127 @@ De leden en hun plaatsvervangers die op de dag voorafgaand aan de inwerkingtredi
 
 ##### Artikel CXIX
 
-1. Wijzigt de Evaluatiewet modernisering rechterlijke organisatie.
+1. *Wijzigt de Evaluatiewet modernisering rechterlijke organisatie.*
 
-2. Wijzigt de Wijzigingswet Evaluatiewet modernisering rechterlijke organisatie (behandeling vreemdelingenzaken en enkele wetstechnische aanpassingen) (Stb. 2011/256).
+2. *Wijzigt de Wijzigingswet Evaluatiewet modernisering rechterlijke organisatie (behandeling vreemdelingenzaken en enkele wetstechnische aanpassingen) (Stb. 2011/256).*
 
 ##### Artikel CXX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXXI
 
-Wijzigt de Wet aanpassing bestuursprocesrecht (KST. 32450).
+*Wijzigt de Wet aanpassing bestuursprocesrecht (KST. 32450).*
 
 ##### Artikel CXXII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXXIII
 
-Wijzigt de Advocatenwet.
+*Wijzigt de Advocatenwet.*
 
 ##### Artikel CXXIV
 
-Wijzigt de Wet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/299).
+*Wijzigt de Wet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/299).*
 
 ##### Artikel CXXV
 
-Wijzigt de Invoeringswet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/300).
+*Wijzigt de Invoeringswet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/300).*
 
 ##### Artikel CXXVI
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wijzigingswet op het toezicht op collectieve beheersorganisaties voor auteurs- en naburige rechten (KST. 31766).
+2. *Wijzigt de Wijzigingswet op het toezicht op collectieve beheersorganisaties voor auteurs- en naburige rechten (KST. 31766).*
 
 ##### Artikel CXXVII
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (KST. 31996).
+2. *Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (KST. 31996).*
 
 ##### Artikel CXXVIII
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wet hervorming herziening ten voordele.
+2. *Wijzigt de Wet hervorming herziening ten voordele.*
 
 ##### Artikel CXXIX
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wet cliëntenrechten zorg (KST. 32402)
+2. *Wijzigt de Wet cliëntenrechten zorg (KST. 32402)*
 
 ##### Artikel CXXX
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Aanbestedingswet 20.. (KST. 32440).
+2. *Wijzigt de Aanbestedingswet 20.. (KST. 32440).*
 
 ##### Artikel CXXXI
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot opsporing en vervolging van internationale misdrijven) (KST. 32475).
+2. *Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot opsporing en vervolging van internationale misdrijven) (KST. 32475).*
 
 ##### Artikel CXXXII
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wet normalisering rechtspositie ambtenaren (KST. 32550).
+2. *Wijzigt de Wet normalisering rechtspositie ambtenaren (KST. 32550).*
 
 ##### Artikel CXXXIII
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Aanbestedingswet op defensie- en veiligheidsgebied (KST. 32768).
+2. *Wijzigt de Aanbestedingswet op defensie- en veiligheidsgebied (KST. 32768).*
 
 ##### Artikel CXXXIV
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting.
+2. *Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting.*
 
 ##### Artikel CXXXV
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wijzigingswet Uitvoeringswet verordening Europese betalingsbevelprocedure (concentratie Europese betalingsbevelprocedure) (KST. 32834).
+2. *Wijzigt de Wijzigingswet Uitvoeringswet verordening Europese betalingsbevelprocedure (concentratie Europese betalingsbevelprocedure) (KST. 32834).*
 
 ##### Artikel CXXXVI
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Verzamelwet Veiligheid en Justitie 2011.
+2. *Wijzigt de Verzamelwet Veiligheid en Justitie 2011.*
 
 ##### Artikel CXXXVII
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2. Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties (KST. 32885).
+2. *Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties (KST. 32885).*
 
 ##### Artikel CXXXVIII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXXXIX
 
-Wijzigt de Wijzigingswet Pensioenwet (medezeggenschap van pensioengerechtigden in pensioenfondsbesturen) (KST. 31537).
+*Wijzigt de Wijzigingswet Pensioenwet (medezeggenschap van pensioengerechtigden in pensioenfondsbesturen) (KST. 31537).*
 
 ##### Artikel CXL
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXLI
 
-1. Wijzigt deze wet.
+1. *Wijzigt deze wet.*
 
-2.
-
-Wijzigt de Wet College voor de rechten van de mens (KST. 32467).
+*Wijzigt de Wet College voor de rechten van de mens (KST. 32467).*
 
 ##### Artikel CXLII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXLIII
 
@@ -725,11 +1116,11 @@ Wijzigt deze wet.
 
 ##### Artikel CXLIV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel CXLIVa
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel CXLIVb
 
@@ -744,435 +1135,3 @@ Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na inwerkingtred
 ##### Artikel CXLVI
 
 Deze wet wordt aangehaald als: Wet herziening gerechtelijke kaart.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter verbetering van de slagvaardigheid van de rechterlijke organisatie wenselijk is het aantal arrondissementen en ressorten te verminderen alsmede in verband daarmee enkele wijzigingen aan te brengen in de bestuurlijke organisatie van gerechten en de inrichting van het openbaar ministerie en met het oog daarop de [Wet op de rechterlijke indeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002080), de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en diverse andere wetten te wijzigen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Hoofdstuk III. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel I
-
-Wijzigt de Wet op de rechterlijke indeling.
-
-##### Artikel II
-
-Wijzigt de Wet op de rechterlijke organisatie.
-
-##### Artikel III
-
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-##### Artikel IV
-
-Wijzigt de Beroepswet.
-
-##### Artikel V
-
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
-
-##### Artikel VI
-
-Wijzigt de Advocatenwet.
-
-##### Artikel VII
-
-Wijzigt de Gerechtsdeurwaarderswet.
-
-##### Artikel VIII
-
-Wijzigt de Wet op het notarisambt.
-
-##### Artikel IX
-
-Wijzigt de Wet op de rechtsbijstand.
-
-### Hoofdstuk II. Wijziging van overige wetten
-
-##### Artikel X
-
-Wijzigt de Algemene douanewet.
-
-##### Artikel XI
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel XII
-
-Wijzigt de Auteurswet.
-
-##### Artikel XIII
-
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
-
-##### Artikel XIV
-
-Wijzigt het Burgerlijk Wetboek.
-
-##### Artikel XV
-
-Wijzigt het Burgerlijk Wetboek BES Boek 1.
-
-##### Artikel XVI
-
-Wijzigt de Faillissementswet.
-
-##### Artikel XVII
-
-Wijzigt de Gemeentewet.
-
-##### Artikel XVIIa
-
-Wijzigt de Invoerings- en aanpassingswet Pensioenwet.
-
-##### Artikel XVIII
-
-Wijzigt de Loodsenwet.
-
-##### Artikel XIX
-
-Wijzigt de Mededingingswet.
-
-##### Artikel XX
-
-Wijzigt de Onteigeningswet.
-
-##### Artikel XXI
-
-Wijzigt de Overleveringswet.
-
-##### Artikel XXII
-
-Wijzigt de Pensioenwet.
-
-##### Artikel XXIII
-
-Wijzigt de Tabakswet.
-
-##### Artikel XXIV
-
-Wijzigt de Uitleveringswet.
-
-##### Artikel XXV
-
-Wijzigt de Uitvoeringswet Bewijsverdrag.
-
-##### Artikel XXVI
-
-Wijzigt de Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk.
-
-##### Artikel XXVII
-
-Wijzigt de Uitvoeringswet EG-bewijsverordening.
-
-##### Artikel XXVIII
-
-Wijzigt de Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen.
-
-##### Artikel XXIX
-
-Wijzigt de Uitvoeringswet grondkamers.
-
-##### Artikel XXX
-
-Wijzigt de Uitvoeringswet internationale kinderbescherming.
-
-##### Artikel XXXI
-
-Wijzigt de Uitvoeringswet Speciaal Tribunaal voor Libanon.
-
-##### Artikel XXXII
-
-Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
-
-##### Artikel XXXIII
-
-Wijzigt de Uitvoeringswet verordening Europese vennootschap.
-
-##### Artikel XXXIIIa
-
-Wijzigt de Vreemdelingenwet 2000.
-
-##### Artikel XXXIV
-
-Wijzigt de Wet aansprakelijkheid kernongevallen.
-
-##### Artikel XXXV
-
-Wijzigt de Wet aansprakelijkheid olietankschepen.
-
-##### Artikel XXXVI
-
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
-
-##### Artikel XXXVII
-
-Wijzigt de Wet agrarisch grondverkeer.
-
-##### Artikel XXXVIII
-
-Wijzigt de Wet arbeid mijnbouw Noordzee.
-
-##### Artikel XXXIX
-
-Wijzigt de Wet beëdigde tolken en vertalers.
-
-##### Artikel XL
-
-Wijzigt de Wet bescherming oorspronkelijke topografieën en halfgeleiderprodukten.
-
-##### Artikel XLI
-
-Wijzigt de Wet bescherming staatsgeheimen.
-
-##### Artikel XLII
-
-Wijzigt de Wet bestrijding ongevallen Noordzee.
-
-##### Artikel XLIII
-
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
-
-##### Artikel XLIV
-
-Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
-
-##### Artikel XLIVb
-
-Wijzigt de Wet College voor de rechten van de mens.
-
-##### Artikel XLV
-
-Wijzigt de Wet conflictenrecht corporaties.
-
-##### Artikel XLVI
-
-Wijzigt de Wet conflictenrecht namen.
-
-##### Artikel XLVII
-
-Wijzigt de Wet dieren.
-
-##### Artikel XLVIII
-
-Wijzigt de Wet DNA-onderzoek bij veroordeelden.
-
-##### Artikel XLIX
-
-Wijzigt de Wet educatie en beroepsonderwijs.
-
-##### Artikel L
-
-Wijzigt de Wet Friese taal in het rechtsverkeer.
-
-##### Artikel LI
-
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
-
-##### Artikel LII
-
-Wijzigt de Wet gewetensbezwaren militaire dienst.
-
-##### Artikel LIII
-
-Wijzigt de Wet griffierechten in burgerlijke zaken.
-
-##### Artikel LIV
-
-Wijzigt de Wet inrichting landelijk gebied.
-
-##### Artikel LV
-
-Wijzigt de Wet internationale misdrijven.
-
-##### Artikel LVI
-
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
-
-##### Artikel LVII
-
-Wijzigt de Wet luchtvaart.
-
-##### Artikel LVIII
-
-Wijzigt de Wet marktordening gezondheidszorg.
-
-##### Artikel LIX
-
-Wijzigt de Wet medezeggenschap op scholen.
-
-##### Artikel LX
-
-Wijzigt de Wet oorlogsstrafrecht.
-
-##### Artikel LXI
-
-Wijzigt de Wet op de economische delicten.
-
-##### Artikel LXII
-
-Wijzigt de Wet op de Europese ondernemingsraden.
-
-##### Artikel LXIII
-
-Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
-
-##### Artikel LXIV
-
-Wijzigt de Wet op de naburige rechten.
-
-##### Artikel LXV
-
-Wijzigt de Wet op de ondernemingsraden.
-
-##### Artikel LXVI
-
-Wijzigt de Wet op de parlementaire enquête 2008.
-
-##### Artikel LXVII
-
-Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
-
-##### Artikel LXVIII
-
-Wijzigt de Wet op het financieel toezicht.
-
-##### Artikel LXIX
-
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
-
-##### Artikel LXX
-
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.
-
-##### Artikel LXXI
-
-Wijzigt de Wet overlevering inzake oorlogsmisdrijven.
-
-##### Artikel LXXII
-
-Wijzigt de Wet rol werknemers bij Europese rechtspersonen.
-
-##### Artikel LXXIII
-
-Wijzigt de Wet schadefonds geweldsmisdrijven.
-
-##### Artikel LXXIV
-
-Wijzigt de Wet schadefonds olietankschepen.
-
-##### Artikel LXXV
-
-Wijzigt de Wet tarieven in strafzaken.
-
-##### Artikel LXXVI
-
-Wijzigt de Wet tot behoud van cultuurbezit.
-
-##### Artikel LXXVII
-
-Wijzigt de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap.
-
-##### Artikel LXXVIII
-
-Wijzigt de Wet tuchtrechtspraak accountants.
-
-##### Artikel LXXIX
-
-Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
-
-##### Artikel LXXX
-
-Wijzigt de Wet uitvoering Internationaal Energieprogramma.
-
-##### Artikel LXXXI
-
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.
-
-##### Artikel LXXXII
-
-Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.
-
-##### Artikel LXXXIII
-
-Wijzigt de Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk.
-
-##### Artikel LXXXIV
-
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.
-
-##### Artikel LXXXV
-
-Wijzigt de Uitvoeringswet Verdrag Nederland-Duitsland ter verdere vereenvoudiging van het rechtsverkeer i.v.m. Rechtsvorderingsverdrag 1954.
-
-##### Artikel LXXXVI
-
-Wijzigt de Uitvoeringswet Verdrag Nederland-Oostenrijk tot vereenvoudiging van het rechtsverkeer in verband met het Rechtsvorderingsverdrag 1954.
-
-##### Artikel LXXXVII
-
-Wijzigt de Uitvoeringswet Betekeningsverdrag 1965.
-
-##### Artikel LXXXVIII
-
-Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.
-
-##### Artikel LXXXIX
-
-Wijzigt de Uitvoeringswet Bewijsverdrag.
-
-##### Artikel XC
-
-Wijzigt de Uitvoeringswet internationale kinderontvoering.
-
-##### Artikel XCI
-
-Wijzigt de Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand.
-
-##### Artikel XCII
-
-Wijzigt de Wet tot instelling van het Internationaal Tribunaal voor vervolging van personen aansprakelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië 1991.
-
-##### Artikel XCIII
-
-Wijzigt de Wet verplichte beroepspensioenregeling.
-
-##### Artikel XCIV
-
-Wijzigt de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen.
-
-##### Artikel XCV
-
-Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008.
-
-##### Artikel XCVI
-
-Wijzigt de Wet wegvervoer goederen.
-
-##### Artikel XCVII
-
-Wijzigt de Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen.
-
-##### Artikel XCVIII
-
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-##### Artikel XCIX
-
-Wijzigt het Wetboek van Koophandel.
-
-##### Artikel C
-
-Wijzigt het Wetboek van Strafvordering.
-
-##### Artikel CI
-
-Wijzigt de Zaaizaad- en plantgoedwet 2005.
-
-### Hoofdstuk III. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

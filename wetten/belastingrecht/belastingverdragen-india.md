@@ -1,49 +1,29 @@
 ---
 title: "Belastingverdragen, India"
 identifier: "BWBR0031345"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2012-03-14"
-last_updated: "2010-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031345"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "11685173"
-version_id: "19284162"
-internal_id: "C26905491"
-label_id: "11657944"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031345/2012-03-14/0"
-intitule_bron: "Stcrt.2012-4742"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-28"
-intitule_published: "2012-03-13"
-intitule_in_force: "2012-03-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-4742"
-original_signed_date: "2012-02-28"
-original_published_date: "2012-03-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-4742"
-entry_into_force_date: "2012-03-14"
-jci_1_3: "jci1.3:c:BWBR0031345&z=2012-03-14&g=2012-03-14"
-jci_1_0: "1.0:c:BWBR0031345&g=2012-03-14"
-citeertitel_status: "redactioneel"
-signed_date: "2012-02-28"
-entry_into_force: "2012-03-14"
+publicatiedatum: 2012-03-14
+laatste_update: 2012-03-14
+status: geldig
+toestand: 2012-03-14
+bron: "https://wetten.overheid.nl/BWBR0031345"
+opgehaald: 2026-08-18
 ---
+
 # Belastingverdragen, India
 
 De staatssecretaris van Financiën heeft het volgende besloten.
 
-**Dit besluit geeft de gevolgen weer van het lidmaatschap van de OESO van Slovenië voor de toepassing van het belastingverdrag tussen Nederland en India als gevolg van de in dit verdrag opgenomen meestbegunstigingsclausule. Voorts is dit besluit een samenvoeging en actualisering van eerdere beleidsbesluiten over de gevolgen van deze meestbegunstigingsclausule.**
+*Dit besluit geeft de gevolgen weer van het lidmaatschap van de OESO van Slovenië voor de toepassing van het belastingverdrag tussen Nederland en India als gevolg van de in dit verdrag opgenomen meestbegunstigingsclausule. Voorts is dit besluit een samenvoeging en actualisering van eerdere beleidsbesluiten over de gevolgen van deze meestbegunstigingsclausule.*
 
 ### 1. Inleiding
 
 Op 17 februari 2005 is het belastingverdrag tussen India en Slovenië in werking getreden. Op 21 juli 2010 is Slovenië lid geworden van de OESO. In dit besluit geef ik de gevolgen weer die deze gebeurtenissen hebben voor de toepassing van het belastingverdrag tussen Nederland en India. Van de gelegenheid is gebruik gemaakt om tot een samenvoeging en actualisering van eerdere beleidsbesluiten te komen over de gevolgen van de meestbegunstigingsclausule in het belastingverdrag tussen Nederland en India.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+- *het Verdrag:* het Verdrag tussen Nederland en India tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en het vermogen van 30 juli 1988 (*Trb.* 1988, 122)
 
 ### 2. Winst uit onderneming
 
@@ -57,7 +37,7 @@ Het Protocol bij het Verdrag bevat een meestbegunstigingsclausule met betrekking
 
 In het verdrag dat India is overeengekomen met Slovenië en dat op 17 februari 2005 in werking is getreden, is een tarief voor deelnemingsdividenden opgenomen van 5 percent. Daarbij is sprake van een deelnemingsdividend, indien een lichaam onmiddellijk ten minste 10 percent van het kapitaal bezit van het lichaam dat de dividenden betaalt.
 
-Op 21 juli 2010 is Slovenië lid geworden van de OESO. Op grond van de meestbegunstigingsclausule in het Protocol bij het Verdrag heeft deze gebeurtenis tot gevolg dat met terugwerkende kracht tot en met 21 juli 2010 een tarief van 5 percent van toepassing is op deelnemingsdividenden, die worden uitgekeerd door een lichaam dat inwoner is van Nederland aan een lichaam dat inwoner is van India. De tekst van de relevante verdragsbepaling uit het verdrag tussen India en Slovenië is opgenomen in de bijlage.
+Op 21 juli 2010 is Slovenië lid geworden van de OESO. Op grond van de meestbegunstigingsclausule in het Protocol bij het Verdrag heeft deze gebeurtenis tot gevolg dat met terugwerkende kracht tot en met 21 juli 2010 een tarief van 5 percent van toepassing is op deelnemingsdividenden, die worden uitgekeerd door een lichaam dat inwoner is van Nederland aan een lichaam dat inwoner is van India. De tekst van de relevante verdragsbepaling uit het verdrag tussen India en Slovenië is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0031345).
 
 Op grond van de meestbegunstigingsclausule blijft op portfoliodividenden (indien een lichaam minder dan 10 percent van het kapitaal bezit van het lichaam dat de dividenden betaalt) in de relatie Nederland - India een tarief van 10 percent van toepassing. Dit tarief is ontleend aan het verdrag tussen India en Duitsland van 19 juni 1995 en is van toepassing sinds 1 april 1997. Hierin brengt het verdrag tussen India en Slovenië dus geen verandering.
 
@@ -65,28 +45,16 @@ Het verdrag tussen India en Slovenië heeft geen gevolgen voor de zogenoemde Div
 
 ### 4. Interest en royalty’s
 
-De meestbegunstigingsclausule in het Protocol bij het Verdrag heeft ook gevolgen voor de toepassing van de artikelen 11 (interest) en 12 (royalty’s) van het Verdrag, omdat India na ondertekening van het Verdrag ook ter zake van interest en royalty’s gunstiger bepalingen is overeengekomen met OESO-lidstaten. De relevante leden van de artikelen 11 en 12 zoals deze als gevolg van de meestbegunstigingsclausule voor de toepassing van het Verdrag moeten worden gelezen, zijn opgenomen in de bijlage.
+De meestbegunstigingsclausule in het Protocol bij het Verdrag heeft ook gevolgen voor de toepassing van de artikelen 11 (interest) en 12 (royalty’s) van het Verdrag, omdat India na ondertekening van het Verdrag ook ter zake van interest en royalty’s gunstiger bepalingen is overeengekomen met OESO-lidstaten. De relevante leden van de artikelen 11 en 12 zoals deze als gevolg van de meestbegunstigingsclausule voor de toepassing van het Verdrag moeten worden gelezen, zijn opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0031345).
 
 ### 5. Ingetrokken regeling(en)
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – het [besluit van 22 juni 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0028041), nr. IFZ98/644M1;
+
+- – het besluit van 18 november 1999, nr. IFZ1999/2261M.
+
 ### 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 21 juli 2010.
-
-## Bijlage
-
-### Article 10
-
-### Article 10
-
-### Article 11
-
-### Article 12
-
-**Voor de periode van 1 april 1991 tot 1 april 1997:**
-
-**Voor de periode van 1 april 1991 tot 1 april 1995:**
-
-Dit besluit wordt met de bijlage in de Staatscourant gepubliceerd.

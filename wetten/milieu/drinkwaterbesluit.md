@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0030111"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Besluit van 23 mei 2011, houdende bepalingen inzake de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening (Drinkwaterbesluit)

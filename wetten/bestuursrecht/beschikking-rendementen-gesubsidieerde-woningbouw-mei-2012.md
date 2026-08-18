@@ -1,43 +1,17 @@
 ---
 title: "Beschikking rendementen gesubsidieerde woningbouw, mei 2012"
 identifier: "BWBR0031576"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031576"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11737073"
-version_id: "19391152"
-internal_id: "C27129021"
-label_id: "11709464"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031576/2012-07-01/0"
-intitule_bron: "Stcrt.2012-9860"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-15"
-intitule_published: "2012-05-22"
-intitule_in_force: "2012-05-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-9860"
-original_signed_date: "2012-05-15"
-original_published_date: "2012-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-9860"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031576&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0031576&g=2012-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2012-05-15"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0031576"
+opgehaald: 2026-08-18
 ---
+
 # Beschikking rendementen gesubsidieerde woningbouw, mei 2012
-
-gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoningen 1975, en artikel 18, vierde lid, van de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, en gelet op artikel 31 onderdeel i., op artikel 56, tweede lid, op artikel 57, eerste lid, en op artikel 58, derde lid, van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, en voorts gelet op artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984.
-
-Besluit:
 
 ##### Artikel 1
 

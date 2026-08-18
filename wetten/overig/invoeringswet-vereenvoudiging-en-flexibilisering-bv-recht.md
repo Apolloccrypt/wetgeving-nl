@@ -1,127 +1,98 @@
 ---
 title: "Wet van 18 juni 2012 tot aanpassing van de wetgeving aan en invoering van de Wet vereenvoudiging en flexibilisering bv-recht (Invoeringswet vereenvoudiging en flexibilisering bv-recht)"
+citeertitel: "Invoeringswet vereenvoudiging en flexibilisering bv-recht"
 identifier: "BWBR0031758"
-country: "nl"
-rank: "wet"
-publication_date: "2012-10-01"
-last_updated: "2012-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031758"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11784143"
-version_id: "19494402"
-internal_id: "C27334921"
-label_id: "11756664"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031758/2012-10-01/0"
-intitule_bron: "Stb.2012-300"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-18"
-intitule_published: "2012-07-05"
-intitule_in_force: "2012-07-05"
-intitule_status: "goed"
-original_publication: "Stb.2012-300"
-original_signed_date: "2012-06-18"
-original_published_date: "2012-07-05"
-original_effect: "nieuwe-regeling"
-original_dossier: "32426"
-original_url_id: "stb-2012-300"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031758&z=2012-10-01&g=2012-10-01"
-jci_1_0: "1.0:c:BWBR0031758&g=2012-10-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet vereenvoudiging en flexibilisering bv-recht"
-signed_date: "2012-06-18"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2012-10-01
+status: geldig
+toestand: 2012-10-01
+bron: "https://wetten.overheid.nl/BWBR0031758"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 18 juni 2012 tot aanpassing van de wetgeving aan en invoering van de Wet vereenvoudiging en flexibilisering bv-recht (Invoeringswet vereenvoudiging en flexibilisering bv-recht)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de invoering te regelen van de Wet vereenvoudiging en flexibilisering bv-recht en in verband daarmee de wetgeving aan te passen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk I. Ministerie van Justitie
 
 ##### Artikel I.1
 
-Wijzigt de Wet vereenvoudiging en flexibilisering bv-recht.
+*Wijzigt de Wet vereenvoudiging en flexibilisering bv-recht.*
 
 ##### Artikel I.2
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel I.2a
 
-Wijzigt het Burgerlijk Wetboek Boek 3.
+*Wijzigt het Burgerlijk Wetboek Boek 3.*
 
 ##### Artikel I.3
 
-Wijzigt de Wet tot vaststelling van titel 7.13 (vennootschap) van het Burgerlijk Wetboek (kst. 28746)(ingetrokken).
+*Wijzigt de Wet tot vaststelling van titel 7.13 (vennootschap) van het Burgerlijk Wetboek (kst. 28746)(ingetrokken).*
 
 ##### Artikel I.3a
 
-Wijzigt de Wet tot vaststelling van titel 7.13 (vennootschap) van het Burgerlijk Wetboek (kst. 28746)(ingetrokken).
+*Wijzigt de Wet tot vaststelling van titel 7.13 (vennootschap) van het Burgerlijk Wetboek (kst. 28746)(ingetrokken).*
 
 ##### Artikel I.4
 
-Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing regels over bestuur en toezicht in naamloze en besloten vennootschappen).
+*Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing regels over bestuur en toezicht in naamloze en besloten vennootschappen).*
 
 ##### Artikel I.5
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel I.6
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel I.7
 
-Wijzigt de Uitvoeringswet verordening Europese vennootschap.
+*Wijzigt de Uitvoeringswet verordening Europese vennootschap.*
 
 ##### Artikel I.8
 
-Wijzigt de Wet op de formeel buitenlandse vennootschappen.
+*Wijzigt de Wet op de formeel buitenlandse vennootschappen.*
 
 ##### Artikel 1.9
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ### Hoofdstuk II. Ministerie van Financiën
 
 ##### Artikel II.1
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II.2
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
 ##### Artikel II.3
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ### Hoofdstuk III. Ministerie van Sociale Zaken en Werkgelegenheid
 
 ##### Artikel III.1
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
 ##### Artikel III.2
 
-Wijzigt de Wet op de ondernemingsraden.
+*Wijzigt de Wet op de ondernemingsraden.*
 
 ##### Artikel III.3
 
-Wijzigt de Wet rol werknemers bij Europese rechtspersonen.
+*Wijzigt de Wet rol werknemers bij Europese rechtspersonen.*
 
 ### Hoofdstuk IV. Ministerie van Economische Zaken
 
 ##### Artikel IV.1
 
-Wijzigt de Telecommunicatiewet.
+*Wijzigt de Telecommunicatiewet.*
 
 ### Hoofdstuk V. Overgangsrecht
 
@@ -151,11 +122,11 @@ Wijzigt de Telecommunicatiewet.
 
 ##### Artikel VI.1
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel VI.2
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
 ##### Artikel VI.3
 
@@ -166,5 +137,3 @@ Deze wet wordt aangehaald als: Invoeringswet vereenvoudiging en flexibilisering 
 1. Deze wet en de wet vereenvoudiging en flexibilisering bv-recht treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. In het koninklijk besluit kan worden bepaald dat daarbij aan te geven artikelen of onderdelen daarvan op een later, bij koninklijk besluit te bepalen, tijdstip in werking treden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

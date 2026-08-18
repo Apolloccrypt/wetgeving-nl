@@ -1,39 +1,16 @@
 ---
 title: "Regeling vertrouwelijke stukken"
 identifier: "BWBR0031383"
-country: "nl"
-rank: "reglement"
-publication_date: "2021-12-09"
-last_updated: "2021-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031383"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "11693953"
-version_id: "28077152"
-internal_id: "C39598891"
-label_id: "11666604"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031383/2021-12-09/0"
-intitule_bron: "Kst.2010-32391"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2010-05-28"
-intitule_published: "2010-05-28"
-intitule_in_force: "2010-05-28"
-intitule_status: "goed"
-original_publication: "Kst.2021-35849"
-original_signed_date: "2021-05-31"
-original_published_date: "2021-06-01"
-original_effect: "structuurwijziging"
-original_dossier: "35849"
-entry_into_force_date: "2021-10-07"
-entry_into_force_dossier: "35849"
-jci_1_3: "jci1.3:c:BWBR0031383&z=2021-12-09&g=2021-12-09"
-jci_1_0: "1.0:c:BWBR0031383&g=2021-12-09"
-citeertitel_status: "redactioneel"
-signed_date: "2021-05-31"
-entry_into_force: "2021-10-07"
+publicatiedatum: 2021-10-07
+laatste_update: 2021-12-09
+status: geldig
+toestand: 2021-12-09
+bron: "https://wetten.overheid.nl/BWBR0031383"
+opgehaald: 2026-08-18
 ---
+
 # Regeling vertrouwelijke stukken
 
 #### Paragraaf 1. Algemeen
@@ -110,18 +87,6 @@ In deze regeling wordt verstaan onder:
 
 9. Het Centraal Informatie Punt registreert de naam van degene die inzage in een vertrouwelijk stuk is gegeven. De registratie is in te zien door de plaatsvervangend griffier. De registratie is verder slechts in uitzonderlijke gevallen in te zien indien daarvoor toestemming is verkregen van de Griffier.
 
-#### Paragraaf 3. Positie niet-beëdigde personen
-
-##### Artikel 5. Positie niet-beëdigde personen
-
-Personen die niet op grond van een dienstverband als ambtenaar werkzaam zijn bij de ambtelijke diensten van de Tweede Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
-
-#### Paragraaf 4. Slotbepalingen
-
-##### Artikel 6. Inwerkingtreding
-
-Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van het Reglement van Orde van de Tweede Kamer der Staten-Generaal in verband met de uitvoering van de aanbevelingen van de Commissie Prinsjesdagstukken alsmede in verband met enige technische wijzigingen in werking treedt. (Kamerstukken II, 32391, nr. 2)
-
 ##### Artikel 4a. Behandeling vertrouwelijkheid
 
 1. De brief waarmee een vertrouwelijk stuk is aangeboden aan de Kamer, wordt op de procedurevergadering van de behandelende commissie geagendeerd voor behandeling. Hierbij wordt vermeld dat de motivering van de vertrouwelijkheid van het stuk en andere voorwaarden daaromtrent ter bespreking zijn.
@@ -164,4 +129,12 @@ Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van he
 
 #### Paragraaf 3. Positie niet-beëdigde personen
 
+##### Artikel 5. Positie niet-beëdigde personen
+
+Personen die niet op grond van een dienstverband als ambtenaar werkzaam zijn bij de ambtelijke diensten van de Tweede Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
+
 #### Paragraaf 4. Slotbepalingen
+
+##### Artikel 6. Inwerkingtreding
+
+Deze regeling treedt in werking op hetzelfde tijdstip waarop de wijziging van het Reglement van Orde van de Tweede Kamer der Staten-Generaal in verband met de uitvoering van de aanbevelingen van de Commissie Prinsjesdagstukken alsmede in verband met enige technische wijzigingen in werking treedt. (Kamerstukken II, 32391, nr. 2)

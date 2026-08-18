@@ -1,46 +1,18 @@
 ---
 title: "Besluit routinematige digitale vervanging archiefbescheiden"
+citeertitel: "Besluit routinematige digitale vervanging archiefbescheiden (I & M)"
 identifier: "BWBR0031519"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-06-01"
-last_updated: "2012-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031519"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "11725793"
-version_id: "19364332"
-internal_id: "C27072881"
-label_id: "11698324"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031519/2012-06-01/0"
-intitule_bron: "Stcrt.2012-7861"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-09"
-intitule_published: "2012-04-27"
-intitule_in_force: "2012-04-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7861"
-original_signed_date: "2012-03-09"
-original_published_date: "2012-04-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7861"
-entry_into_force_date: "2012-06-01"
-jci_1_3: "jci1.3:c:BWBR0031519&z=2012-06-01&g=2012-06-01"
-jci_1_0: "1.0:c:BWBR0031519&g=2012-06-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit routinematige digitale vervanging archiefbescheiden (I & M)"
-signed_date: "2012-03-09"
-entry_into_force: "2012-06-01"
+publicatiedatum: 2012-06-01
+laatste_update: 2012-06-01
+status: geldig
+toestand: 2012-06-01
+bron: "https://wetten.overheid.nl/BWBR0031519"
+opgehaald: 2026-08-18
 ---
+
 # Besluit routinematige digitale vervanging archiefbescheiden
-
-Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7),
-
-Na machtiging van de Minister van Onderwijs, Cultuur en Wetenschappen, 22 augustus 2011, Kenmerk NA/1L/8325,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -50,9 +22,9 @@ gaat over tot routinematige, digitale vervanging archief bescheiden
 
 - A. die;
 
-- 1. zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit, en zaken die nog niet zijn afgedaan of
+   - 1. zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit, en zaken die nog niet zijn afgedaan of
 
-- 2. zullen worden ontvangen of opgemaakt in de periode tot en met vijf jaar na de inwerkingtreding van dit besluit;
+   - 2. zullen worden ontvangen of opgemaakt in de periode tot en met vijf jaar na de inwerkingtreding van dit besluit;
 
 - B. Volgens die specificaties, vastgelegd in de bijlagen (zoals beschreven in het Handboek digitale vervanging archiefbescheiden ministerie van Infrastructuur en Milieu van 30 juni 2011, met de wijzigingen van 11 augustus 2011, versie 4.1) behorende bij dit besluit;
 

@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 29 mei 2012, nr. WJZ / 12063076, houdende regels inzake de algemene doorvoervergunning N008 voor militaire goederen met eindbestemming bondgenoten (Regeling algemene doorvoervergunning NL008)"
+citeertitel: "Regeling algemene doorvoervergunning NL008"
 identifier: "BWBR0031620"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-06-23"
-last_updated: "2021-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031620"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11746773"
-version_id: "19414082"
-internal_id: "C27199891"
-label_id: "11719274"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031620/2021-06-23/0"
-intitule_bron: "Stcrt.2012-11117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-29"
-intitule_published: "2012-06-05"
-intitule_in_force: "2012-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-11117"
-original_signed_date: "2012-05-29"
-original_published_date: "2012-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-11117"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031620&z=2021-06-23&g=2021-06-23"
-jci_1_0: "1.0:c:BWBR0031620&g=2021-06-23"
-citeertitel_status: "officieel"
-short_title: "Regeling algemene doorvoervergunning NL008"
-signed_date: "2012-05-29"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2021-06-23
+status: geldig
+toestand: 2021-06-23
+bron: "https://wetten.overheid.nl/BWBR0031620"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 29 mei 2012, nr. WJZ / 12063076, houdende regels inzake de algemene doorvoervergunning N008 voor militaire goederen met eindbestemming bondgenoten (Regeling algemene doorvoervergunning NL008)
 
-Gelet op de [artikelen 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6a), en [6b, tweede lid, van het Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6b);
-
-Besluit:
-
-#### § 1. **Begripsbepalingen**
+#### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- −. **besluit:** het Besluit strategische goederen;
+- − *besluit:* het Besluit strategische goederen;
 
-- −. **EORI-nummer:** het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
+- − *EORI-nummer:* het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
 
-- −. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
+- − *gemeenschappelijke EU-lijst van militaire goederen:* de lijst van goederen waarop Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
 
-- −. **inspecteur:** de directeur-generaal Douane.
+- − *inspecteur:* de directeur-generaal Douane.
 
-#### § 2. **Algemene doorvoervergunning**
+#### § 2. Algemene doorvoervergunning
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-06-23) bedoelde categorieën van militaire goederen indien aan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=4&z=2021-06-23&g=2021-06-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=5&z=2021-06-23&g=2021-06-23) genoemde voorwaarden is voldaan.
+1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene doorvoervergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-06-23) bedoelde categorieën van militaire goederen indien aan de in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=4&z=2021-06-23&g=2021-06-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=3&artikel=5&z=2021-06-23&g=2021-06-23) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene doorvoervergunning zijn de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=4&artikel=6&z=2021-06-23&g=2021-06-23) genoemde voorschriften verbonden.
+2. Aan de algemene doorvoervergunning zijn de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=4&artikel=6&z=2021-06-23&g=2021-06-23) genoemde voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -70,17 +44,17 @@ De algemene doorvoervergunning NL008 geldt voor militaire goederen zoals opgenom
 
 - b. ML4, voor wat betreft anti-personeelsmijnen.
 
-#### § 3. **Voorwaarden**
+#### § 3. Voorwaarden
 
 ##### Artikel 4
 
-De algemene doorvoervergunning NL008 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-06-23), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische Verdragsorganisatie met uitzondering van Turkije.
+De algemene doorvoervergunning NL008 voor de goederen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031620&paragraaf=2&artikel=3&z=2021-06-23&g=2021-06-23), is verleend onder de voorwaarde dat de doorvoerzending van militaire goederen als eindbestemming heeft Australië, Japan, Nieuw-Zeeland, Zwitserland, een lidstaat van de Europese Unie of de Noord-Atlantische Verdragsorganisatie met uitzondering van Turkije.
 
 ##### Artikel 5
 
-De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de beschikkingsbevoegde, degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, de persoon die de goederen vervoert, naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6), een geldig registratienummer heeft.
+De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de beschikkingsbevoegde, degene die voor hem de douaneformaliteiten verricht, of, indien geen douaneformaliteiten worden verricht, de persoon die de goederen vervoert, naar aanleiding van een verzoek tot registratie als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=6), een geldig registratienummer heeft.
 
-#### § 4. **Voorschriften**
+#### § 4. Voorschriften
 
 ##### Artikel 6
 
@@ -90,15 +64,15 @@ De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de besc
 
 - b. bij elke doorvoer wordt op de documenten die de zending begeleiden duidelijk zichtbaar vermeld:
 
-- 1°. het registratienummer en, indien de geregistreerde hierover beschikt, het EORI-nummer;
+   - 1°. het registratienummer en, indien de geregistreerde hierover beschikt, het EORI-nummer;
 
-- 2°. het land van herkomst en eindbestemming;
+   - 2°. het land van herkomst en eindbestemming;
 
-- 3°. NL008.
+   - 3°. NL008.
 
 2. De geregistreerde gebruiker van deze algemene doorvoervergunning is verplicht de administratie en alle op de leverantie betrekking hebbende documenten gedurende een termijn van zeven jaren te bewaren.
 
-#### § 5. **Verzoek tot registratie en melding eerste gebruik**
+#### § 5. Verzoek tot registratie en melding eerste gebruik
 
 ##### Artikel 7
 
@@ -108,7 +82,7 @@ De algemene doorvoervergunning NL008 is verleend onder de voorwaarde dat de besc
 
 3. De melding eerste gebruik bevat de voorgenomen datum van het eerste gebruik van de algemene doorvoervergunning NL008.
 
-#### § 6. **Rapportage**
+#### § 6. Rapportage
 
 ##### Artikel 8
 
@@ -122,7 +96,7 @@ De geregistreerde gebruiker rapporteert aan de inspecteur binnen twee maanden na
 
 - d. het land van herkomst en van eindbestemming en indien bekend de naam en het adres van de ontvanger en eindgebruiker van de militaire goederen.
 
-#### § 7. **Slotbepalingen**
+#### § 7. Slotbepalingen
 
 ##### Artikel 9
 
@@ -131,5 +105,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2012.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling algemene doorvoervergunning NL008.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

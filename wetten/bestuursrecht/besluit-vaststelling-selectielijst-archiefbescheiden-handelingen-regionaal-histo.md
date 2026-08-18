@@ -1,49 +1,21 @@
 ---
 title: "Besluit vaststelling selectielijst archiefbescheiden handelingen Regionaal Historische Centra met de provincie als werkgebied over de periode vanaf 1 mei 1998"
 identifier: "BWBR0032202"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "2012-11-11"
-last_updated: "2012-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032202"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "11898763"
-version_id: "19764312"
-internal_id: "C27758891"
-label_id: "11870734"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032202/2012-11-11/0"
-intitule_bron: "Stcrt.2012-22829"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-05"
-intitule_published: "2012-11-09"
-intitule_in_force: "2012-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-22829"
-original_signed_date: "2012-11-05"
-original_published_date: "2012-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-22829"
-entry_into_force_date: "2012-11-11"
-jci_1_3: "jci1.3:c:BWBR0032202&z=2012-11-11&g=2012-11-11"
-jci_1_0: "1.0:c:BWBR0032202&g=2012-11-11"
-citeertitel_status: "redactioneel"
-signed_date: "2012-11-05"
-entry_into_force: "2012-11-11"
+publicatiedatum: 2012-11-11
+laatste_update: 2012-11-11
+status: geldig
+toestand: 2012-11-11
+bron: "https://wetten.overheid.nl/BWBR0032202"
+opgehaald: 2026-08-18
 ---
+
 # Besluit vaststelling selectielijst archiefbescheiden handelingen Regionaal Historische Centra met de provincie als werkgebied over de periode vanaf 1 mei 1998
-
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
-
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 12 juni 2012, nr. bca-2011.06289/12;
-
-Besluit:
 
 ##### Artikel 1
 
-De bij dit besluit gevoegde ‘Selectielijst voor archiefbescheiden van de handelingen van Regionaal Historische Centra met de provincie als werkgebied (opgemaakt en ontvangen) over de periode vanaf 1 mei 1998’ en de daarbij behorende toelichting worden vastgesteld voor de volgende Regionale Historische Centra: Brabants Historisch Centrum (’s-Hertogenbosch), Regionaal Historisch Centrum Drents Archief (Assen), Gelders Archief (Arnhem), Regionaal Historisch Centrum Groninger Archieven (Groningen), Regionaal Historisch Centrum Limburg (Maastricht), Erfgoedcentrum Nieuw Land (Lelystad), Regionaal Historisch Centrum in Noord-Holland (Haarlem), Het Historisch Centrum Overijssel (Zwolle), Letterhoeke (Leeuwarden), Het Utrechts Archief (Utrecht) en Het Zeeuws Archief (Middelburg).
+De bij dit besluit gevoegde ‘[Selectielijst voor archiefbescheiden van de handelingen van Regionaal Historische Centra met de provincie als werkgebied (opgemaakt en ontvangen) over de periode vanaf 1 mei 1998](https://wetten.overheid.nl/BWBR0032202)’ en de daarbij behorende toelichting worden vastgesteld voor de volgende Regionale Historische Centra: Brabants Historisch Centrum (’s-Hertogenbosch), Regionaal Historisch Centrum Drents Archief (Assen), Gelders Archief (Arnhem), Regionaal Historisch Centrum Groninger Archieven (Groningen), Regionaal Historisch Centrum Limburg (Maastricht), Erfgoedcentrum Nieuw Land (Lelystad), Regionaal Historisch Centrum in Noord-Holland (Haarlem), Het Historisch Centrum Overijssel (Zwolle), Letterhoeke (Leeuwarden), Het Utrechts Archief (Utrecht) en Het Zeeuws Archief (Middelburg).
 
 ##### Artikel 2
 
@@ -66,9 +38,3 @@ Punt 5 is van toepassing voor Brabants Historisch Centrum en Erfgoedcentrum Nieu
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Selectielijst
-
-Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.
-
-De staatssecretaris van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.

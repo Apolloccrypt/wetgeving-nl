@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 augustus 2012, houdende regels inzake aanspraken van zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart en tot wijziging van het Arbeidstijdenbesluit en het Arbeidsomstandighedenbesluit in verband met de implementatie van het Maritiem Arbeidsverdrag 2006 (Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart)"
+citeertitel: "Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart"
 identifier: "BWBR0031973"
-country: "nl"
-rank: "amvb"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031973"
+categorie: "Arbeidsrecht"
 soort: "AMvB"
-stam_id: "11840223"
-version_id: "19633492"
-internal_id: "C29545291"
-label_id: "11812504"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031973/2015-01-01/0"
-intitule_bron: "Stb.2012-397"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-08-27"
-intitule_published: "2012-09-13"
-intitule_in_force: "2013-07-12"
-intitule_status: "goed"
-original_publication: "Stb.2012-397"
-original_signed_date: "2012-08-27"
-original_published_date: "2012-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-397"
-entry_into_force_date: "2013-08-20"
-jci_1_3: "jci1.3:c:BWBR0031973&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBR0031973&g=2015-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart"
-signed_date: "2012-08-27"
-entry_into_force: "2013-08-20"
+publicatiedatum: 2013-08-20
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBR0031973"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 27 augustus 2012, houdende regels inzake aanspraken van zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart en tot wijziging van het Arbeidstijdenbesluit en het Arbeidsomstandighedenbesluit in verband met de implementatie van het Maritiem Arbeidsverdrag 2006 (Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 april 2012, nr. 12.000981, gedaan mede namens Onze Minister van Veiligheid en Justitie;
-
-Gelet op de [artikelen 719](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), [734d](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734d), [734e](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734e), [734g](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734g), [734i](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734i), [734j](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734j) en [745 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=745), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=4) en [12 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=12), [5:12, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12), en [16, zevende en negende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 30 mei 2012 nr. W.12.12.0138/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2012, nr. IZ/IA/2012/12483, uitgebracht mede namens Onze Minister van Veiligheid en Justitie;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Aanspraken van zeevarenden
 
@@ -54,7 +22,7 @@ Bij samenloop over eenzelfde tijdvak en ter zake van dezelfde arbeidsongeschikth
 
 ##### Artikel 2. Verlies uitrusting
 
-1. De uitkering, bedoeld in [artikel 719, lid 2, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), wordt in geval van verlies van de gehele uitrusting gesteld op het bedrag, dat voor de desbetreffende zeevarende, al naar gelang de groep waartoe hij behoort, in de bij dit besluit gevoegde bijlage is vermeld.
+1. De uitkering, bedoeld in [artikel 719, lid 2, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=719), wordt in geval van verlies van de gehele uitrusting gesteld op het bedrag, dat voor de desbetreffende zeevarende, al naar gelang de groep waartoe hij behoort, in de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/BWBR0031973) is vermeld.
 
 2. In geval van verlies van een gedeelte van de uitrusting, wordt het bedrag van de uitkering, bedoeld in het eerste lid, gesteld op de geldswaarde van het verloren gegane deel van de uitrusting tot ten hoogste het krachtens het eerste lid bepaalde bedrag.
 
@@ -148,9 +116,9 @@ Bij samenloop over eenzelfde tijdvak en ter zake van eenzelfde arbeidsongeschikt
 
 1. Het naar tijdruimte in geld vastgestelde loon, bedoeld in de [artikelen 734d, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734d), en [734j van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734j), wordt verhoogd met:
 
-- a). de geldswaarde van kost aan boord vastgesteld overeenkomstig het bepaalde krachtens [artikel 13, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13);
+- a) de geldswaarde van kost aan boord vastgesteld overeenkomstig het bepaalde krachtens [artikel 13, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13);
 
-- b). indien de zeevarende, behorende tot het civiele dienstpersoneel, laatstelijk een functie vervulde waarbij voor het bepalen van het hem toekomende loon met het ontvangen van fooien of dergelijke prestaties van derden rekening is gehouden, met het bedrag aan fooien vastgesteld overeenkomstig het bepaalde krachtens [artikel 12 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12).
+- b) indien de zeevarende, behorende tot het civiele dienstpersoneel, laatstelijk een functie vervulde waarbij voor het bepalen van het hem toekomende loon met het ontvangen van fooien of dergelijke prestaties van derden rekening is gehouden, met het bedrag aan fooien vastgesteld overeenkomstig het bepaalde krachtens [artikel 12 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12).
 
 2. In afwijking van het eerste lid wordt het naar tijdruimte in geld vastgestelde loon evenwel niet verhoogd voorzover de in de onderdelen a en b bedoelde bestanddelen zijn aangewezen als eindheffingbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
@@ -196,29 +164,29 @@ Degene die bemiddelt tussen werkgevers en werknemers bij het tot stand komen van
 
 - 1.
 
-- a. zeevarenden vóór of ten tijde van indiensttreding op de hoogte worden gebracht van hun rechten en verplichtingen ingevolge hun zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel hun aanstelling tot ambtenaar;
+   - a. zeevarenden vóór of ten tijde van indiensttreding op de hoogte worden gebracht van hun rechten en verplichtingen ingevolge hun zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel hun aanstelling tot ambtenaar;
 
-- b. de nodige maatregelen getroffen worden opdat zeevarenden hun zee-arbeidsovereenkomst of arbeidsovereenkomst vóór en na de ondertekening kunnen bestuderen; en
+   - b. de nodige maatregelen getroffen worden opdat zeevarenden hun zee-arbeidsovereenkomst of arbeidsovereenkomst vóór en na de ondertekening kunnen bestuderen; en
 
-- c. zeevarenden een ondertekend afschrift van hun zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel een afschrift van hun aanstelling tot ambtenaar ontvangen.
+   - c. zeevarenden een ondertekend afschrift van hun zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel een afschrift van hun aanstelling tot ambtenaar ontvangen.
 
 - 2.
 
-- a. elk via hen bemiddelde of ter beschikking gestelde zeevarende beschikt over de voor de desbetreffende functie benodigde kwalificaties en documenten die vereist zijn ingevolge van [hoofdstuk 2, paragraaf 3, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&paragraaf=3); en
+   - a. elk via hen bemiddelde of ter beschikking gestelde zeevarende beschikt over de voor de desbetreffende functie benodigde kwalificaties en documenten die vereist zijn ingevolge van [hoofdstuk 2, paragraaf 3, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&paragraaf=3); en
 
-- b. dat de zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel een aanstelling tot ambtenaar in overeenstemming is met de wet- en regelgeving en collectieve arbeidsovereenkomsten die betrekking hebben op de zee-arbeidsovereenkomst of de arbeidsovereenkomst dan wel de aanstelling tot ambtenaar.
+   - b. dat de zee-arbeidsovereenkomst of arbeidsovereenkomst dan wel een aanstelling tot ambtenaar in overeenstemming is met de wet- en regelgeving en collectieve arbeidsovereenkomsten die betrekking hebben op de zee-arbeidsovereenkomst of de arbeidsovereenkomst dan wel de aanstelling tot ambtenaar.
 
-### Hoofdstuk 3. Wijziging van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+### Hoofdstuk 3. Wijziging van het Arbeidstijdenbesluit
 
-##### Artikel 12. Wijziging van het [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+##### Artikel 12. Wijziging van het Arbeidstijdenbesluit
 
-Wijzigt het Arbeidstijdenbesluit.
+*Wijzigt het Arbeidstijdenbesluit.*
 
-### Hoofdstuk 4. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+### Hoofdstuk 4. Wijziging van het Arbeidsomstandighedenbesluit
 
-##### Artikel 13. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 13. Wijziging van het Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
 ### Hoofdstuk 5. Overige bepalingen
 
@@ -237,13 +205,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart.
-
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031973&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01) van het Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart
-
-### Uitkeringen wegens verlies van de gehele uitrusting
-
-### I. Zeevarenden (met uitzondering van zeevarenden in de zeevisserij)
-
-### II. Zeevarenden in de zeevisserij
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

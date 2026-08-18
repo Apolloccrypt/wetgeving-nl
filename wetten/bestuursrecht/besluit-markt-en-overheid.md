@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 6 juni 2012, houdende regels voor overheden over de doorberekening van kosten en de toepassing van het bevoordelingsverbod (Besluit markt en overheid)"
+citeertitel: "Besluit markt en overheid"
 identifier: "BWBR0031654"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031654"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11756403"
-version_id: "19431762"
-internal_id: "C27240681"
-label_id: "11728814"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031654/2012-07-01/0"
-intitule_bron: "Stb.2012-255"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-06"
-intitule_published: "2012-06-14"
-intitule_in_force: "2012-06-14"
-intitule_status: "goed"
-original_publication: "Stb.2012-255"
-original_signed_date: "2012-06-06"
-original_published_date: "2012-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-255"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031654&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0031654&g=2012-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit markt en overheid"
-signed_date: "2012-06-06"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0031654"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 6 juni 2012, houdende regels voor overheden over de doorberekening van kosten en de toepassing van het bevoordelingsverbod (Besluit markt en overheid)
-
-Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 20 maart 2012, nr. WJZ / 12037272, gedaan na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Milieu;
-
-Gelet op de [artikelen 25g, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25g), en [25m van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25m),
-
-De Afdeling advisering van de Raad van State gehoord (advies van 3 mei 2012, nr. W15.12.0094/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken, Landbouw en Innovatie van 31 mei 2012, nr. WJZ / 12060173, uitgebracht na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Infrastructuur en Milieu;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Mededingingswet (invoering regels ondernemingen die deel uitmaken van een publiekrechtelijke rechtspersoon of hiermee zijn verbonden) (Stb. 2011/162) in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -113,5 +79,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet van 24 maart 2011 t
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit markt en overheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

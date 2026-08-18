@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 13 oktober 2012, houdende regels over de bewapening, de uitrusting en de kleding van de politie en de bijzondere bijstandseenheden alsmede regels over de taakuitvoering door de politie en de eisen aan de bekwaamheid van de ambtenaren van politie en van de bijzondere bijstandseenheden (Besluit bewapening en uitrusting politie)"
+citeertitel: "Besluit bewapening en uitrusting politie"
 identifier: "BWBR0032136"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032136"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "11883723"
-version_id: "19731892"
-internal_id: "C27709721"
-label_id: "11856114"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032136/2025-04-01/0"
-intitule_bron: "Stb.2012-511"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-13"
-intitule_published: "2012-10-26"
-intitule_in_force: "2012-10-26"
-intitule_status: "goed"
-original_publication: "Stb.2012-511"
-original_signed_date: "2012-10-13"
-original_published_date: "2012-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-511"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032136&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0032136&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bewapening en uitrusting politie"
-signed_date: "2012-10-13"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0032136"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 13 oktober 2012, houdende regels over de bewapening, de uitrusting en de kleding van de politie en de bijzondere bijstandseenheden alsmede regels over de taakuitvoering door de politie en de eisen aan de bekwaamheid van de ambtenaren van politie en van de bijzondere bijstandseenheden (Besluit bewapening en uitrusting politie)
-
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie en Onze Minister van Defensie van 17 oktober 2011;
-
-Gelet op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) en [59, vijfde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 januari 2012, nr. W03.11.0470/II);
-
-Gezien het nader rapport van Onze Ministers van Veiligheid en Justitie en van Defensie van 5 oktober 2012, nr. 286450;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Bewapening en uitrusting
 
@@ -52,27 +20,27 @@ Hebben goedgevonden en verstaan:
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), met een rang als bedoeld in [artikel 1, onderdelen a tot en met h, van het Besluit rangen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1);
+- a. *ambtenaar:* de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), met een rang als bedoeld in [artikel 1, onderdelen a tot en met h, van het Besluit rangen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1);
 
-- b. **pistool:** semi-automatisch pistool, kaliber 9 millimeter maal 19 millimeter;
+- b. *pistool:* semi-automatisch pistool, kaliber 9 millimeter maal 19 millimeter;
 
-- c. **semi-automatisch schoudervuurwapen:** semi-automatisch schoudervuurwapen, kaliber 9 millimeter maal 19 millimeter;
+- c. *semi-automatisch schoudervuurwapen:* semi-automatisch schoudervuurwapen, kaliber 9 millimeter maal 19 millimeter;
 
-- d. **automatisch schoudervuurwapen:** automatisch schoudervuurwapen, kaliber 9 millimeter maal 19 millimeter;
+- d. *automatisch schoudervuurwapen:* automatisch schoudervuurwapen, kaliber 9 millimeter maal 19 millimeter;
 
-- e. **granaatwerper:** een granaatwerper, kaliber 40mm;
+- e. *granaatwerper:* een granaatwerper, kaliber 40mm;
 
-- f. **repeteervuurwapen:** een repeteervuurwapen, kaliber 12;
+- f. *repeteervuurwapen:* een repeteervuurwapen, kaliber 12;
 
-- g. **pepperspray:** spuitbus met Oleoresin Capsicum (OC) of Pelargonylvanillylamide (PAVA);
+- g. *pepperspray:* spuitbus met Oleoresin Capsicum (OC) of Pelargonylvanillylamide (PAVA);
 
-- h. **aanhoudings- en ondersteuningsteam:** een aanhoudings- en ondersteuningsteam als bedoeld in [artikel 12, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=12);
+- h. *aanhoudings- en ondersteuningsteam:* een aanhoudings- en ondersteuningsteam als bedoeld in [artikel 12, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=12);
 
-- i. **aspirant:** de aspirant en vrijwilliger-aspirant, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- i. *aspirant:* de aspirant en vrijwilliger-aspirant, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- j. **surveillant van politie:** de ambtenaar van politie, bedoeld in [artikel 2, onderdelen a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), aangesteld voor de uitvoering van de politietaak, met de rang, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit rangen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1);
+- j. *surveillant van politie:* de ambtenaar van politie, bedoeld in [artikel 2, onderdelen a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), aangesteld voor de uitvoering van de politietaak, met de rang, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit rangen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1);
 
-- k. **stroomstootwapen:** een apparaat dat door het afgeven van een elektrische stroomstoot een persoon weerloos maakt als gevolg van het tijdelijk verstoren van het motorisch- en zintuiglijk zenuwsysteem.
+- k. *stroomstootwapen:* een apparaat dat door het afgeven van een elektrische stroomstoot een persoon weerloos maakt als gevolg van het tijdelijk verstoren van het motorisch- en zintuiglijk zenuwsysteem.
 
 2. In dit hoofdstuk wordt onder munitie mede verstaan niet-penetrerende projectielen als bedoeld in [artikel 1, vierde lid, onder k, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1).
 
@@ -114,15 +82,15 @@ Hebben goedgevonden en verstaan:
 
 - e. hulpmiddelen jegens ingeslotenen, bestaande uit:
 
-- 1°. een gecapitonneerde helm, al dan niet met geïntegreerde bijt- of spuugvoorziening;
+   - 1°. een gecapitonneerde helm, al dan niet met geïntegreerde bijt- of spuugvoorziening;
 
-- 2°. gecapitonneerde handschoenen;
+   - 2°. gecapitonneerde handschoenen;
 
-- 3°. mondafscherming;
+   - 3°. mondafscherming;
 
-- 4°. polsbanden;
+   - 4°. polsbanden;
 
-- 5°. enkelbanden met tussenstuk.
+   - 5°. enkelbanden met tussenstuk.
 
 ##### Artikel 3
 
@@ -274,7 +242,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
@@ -412,6 +380,14 @@ Onze Minister, in overeenstemming met Onze Minister van Defensie, kan toestemmin
 
 3. Onze Minister kan aanwijzingen geven over de wijze waarop de wapens en de munitie worden afgevoerd.
 
+##### Artikel 20a
+
+Bij ministeriële regeling kan worden bepaald dat in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2025-04-01&g=2025-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2025-04-01&g=2025-04-01), [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2025-04-01&g=2025-04-01), [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=8&z=2025-04-01&g=2025-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2025-04-01&g=2025-04-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2025-04-01&g=2025-04-01) niet bewapend zijn:
+
+- a. een ambtenaar, aangesteld voor de uitvoering van de politietaak of een vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid, in een van de door Onze Minister aangewezen functies, en
+
+- b. een ambtenaar in opleiding of een vrijwillige ambtenaar in opleiding die na het voltooien van een politieopleiding als bedoeld onder a wordt geplaatst in een functie als bedoeld onder a.
+
 ##### Artikel 21
 
 1. Bij ministeriële regeling worden regels gesteld omtrent het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en de munitie, bedoeld in de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2025-04-01&g=2025-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=19&z=2025-04-01&g=2025-04-01), door de ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
@@ -428,11 +404,11 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent meetmiddelen waa
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **surveillancehond:** hond die uitsluitend wordt ingezet bij de surveillancedienst of het optreden van de mobiele eenheid, bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26);
+- a. *surveillancehond:* hond die uitsluitend wordt ingezet bij de surveillancedienst of het optreden van de mobiele eenheid, bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26);
 
-- b. **AOT-hond:** hond die uitsluitend wordt ingezet bij het optreden van een aanhoudings- en ondersteuningsteam of van een bijzondere bijstandseenheid;
+- b. *AOT-hond:* hond die uitsluitend wordt ingezet bij het optreden van een aanhoudings- en ondersteuningsteam of van een bijzondere bijstandseenheid;
 
-- c. **politiespeurhond:** hond die uitsluitend wordt ingezet voor bij regeling, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2025-04-01&g=2025-04-01), vastgestelde taken.
+- c. *politiespeurhond:* hond die uitsluitend wordt ingezet voor bij regeling, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2025-04-01&g=2025-04-01), vastgestelde taken.
 
 ##### Artikel 24
 
@@ -467,6 +443,12 @@ In dit hoofdstuk wordt verstaan onder:
 1. Bij ministeriële regeling worden regels gesteld omtrent de kleding van de ambtenaren van politie, bedoeld in [artikel 56 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=56).
 
 2. De korpschef draagt er zorg voor dat de aan de ambtenaar, bedoeld in het eerste lid, verstrekte kleding niet in handen van onbevoegden terecht komt.
+
+##### Artikel 25a
+
+1. Bij ministeriële regeling worden regels gesteld omtrent de kleding van de directeur van de Politieacademie en zijn plaatsvervanger.
+
+2. De directeur van de Politieacademie draagt er zorg voor dat de aan de ambtenaren, bedoeld in het eerste lid, verstrekte kleding niet in handen van onbevoegden terecht komt.
 
 ### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
 
@@ -510,46 +492,14 @@ Na inwerkingtreding van dit besluit berusten de volgende besluiten onderscheiden
 
 - f. de [Regeling mobiele eenheid 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021328) en de [Regeling infiltratieteams](https://wetten.overheid.nl/jci1.3:c:BWBR0011086), voor zover deze berustten op [artikel 48a van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48a), en de [Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0020933), voor zover deze berustte op [artikel 60, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=60), op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=4&artikel=28&z=2025-04-01&g=2025-04-01).
 
-##### Artikel 30
-
-Dit besluit treedt in werking met ingang van 1 januari 2013.
-
-##### Artikel 31
-
-Dit besluit wordt aangehaald als: Besluit bewapening en uitrusting politie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 25a
-
-1. Bij ministeriële regeling worden regels gesteld omtrent de kleding van de directeur van de Politieacademie en zijn plaatsvervanger.
-
-2. De directeur van de Politieacademie draagt er zorg voor dat de aan de ambtenaren, bedoeld in het eerste lid, verstrekte kleding niet in handen van onbevoegden terecht komt.
-
-### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
-
-### Hoofdstuk 5. Slotbepalingen
-
 ##### Artikel 29a
 
 Dit besluit berust op de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), en [81, vijfde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 30
 
-##### Artikel 20a
+Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-Bij ministeriële regeling kan worden bepaald dat in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=2&z=2025-04-01&g=2025-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=4&z=2025-04-01&g=2025-04-01), [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=5&z=2025-04-01&g=2025-04-01), [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=8&z=2025-04-01&g=2025-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=1&artikel=17&z=2025-04-01&g=2025-04-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&hoofdstuk=2&artikel=24&z=2025-04-01&g=2025-04-01) niet bewapend zijn:
+##### Artikel 31
 
-- a. een ambtenaar, aangesteld voor de uitvoering van de politietaak of een vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid, in een van de door Onze Minister aangewezen functies, en
-
-- b. een ambtenaar in opleiding of een vrijwillige ambtenaar in opleiding die na het voltooien van een politieopleiding als bedoeld onder a wordt geplaatst in een functie als bedoeld onder a.
-
-### Hoofdstuk 2. Politiehonden
-
-### Hoofdstuk 3. Kleding
-
-### Hoofdstuk 4. Goede taakuitvoering door de politie en eisen van bekwaamheid van ambtenaren van politie
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit wordt aangehaald als: Besluit bewapening en uitrusting politie.

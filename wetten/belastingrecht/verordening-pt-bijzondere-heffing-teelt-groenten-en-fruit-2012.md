@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing teelt groenten en fruit 2012 (Verordening PT bijzondere heffing teelt groenten en fruit 2012)"
+citeertitel: "Verordening PT bijzondere heffing teelt groenten en fruit 2012"
 identifier: "BWBR0031161"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031161"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11640733"
-version_id: "19207242"
-internal_id: "C26796391"
-label_id: "11613614"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031161/2013-09-22/0"
-intitule_bron: "Vbbo.2011-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-14"
-intitule_published: "2011-12-30"
-intitule_in_force: "2011-12-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-97"
-original_signed_date: "2011-11-14"
-original_published_date: "2011-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0031161&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0031161&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bijzondere heffing teelt groenten en fruit 2012"
-signed_date: "2011-11-14"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0031161"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing teelt groenten en fruit 2012 (Verordening PT bijzondere heffing teelt groenten en fruit 2012)
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor groenten en fruit, d.d. 3 november 2011;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -56,9 +27,9 @@ Deze verordening verstaat onder:
 | secretaris | : | secretaris van het productschap; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 | contractteelt | : | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
-| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031161&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3 genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-| groenten en fruit | : | producten als bedoeld in [artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
+| groenten en fruit | : | producten als bedoeld in artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw; |
 | ondernemer | : | de afzonderlijke natuurlijke- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend; |
 | omzet | : | bruto omzet per kalenderjaar; |
 | telen | : | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen; |
@@ -80,9 +51,9 @@ Deze verordening verstaat onder:
 
 2. Deze heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per productgroep uitgedrukt in de genoemde eenheid vermenigvuldigd met het genoemde tarief in Euro en bedraagt voor:
 
-| **Productgroep** | **BRSnr.** | **Tarief** | **Eenh.** |
+| Productgroep | BRSnr. | Tarief | Eenh. |
 | --- | --- | --- | --- |
-| **Glasgroenten** |   |   |   |
+| Glasgroenten |  |  |  |
 | Andijvie | 648 | 4,40 | are |
 | Aubergines | 618 | 15,88 | are |
 | Courgette | 642 | 4,40 | are |
@@ -97,8 +68,8 @@ Deze verordening verstaat onder:
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 7,88 | are |
 | Tomaten - Cherry-tomaten | 606 | 7,88 | are |
 | Overige groenten (inclusief meloenen) | 621 | 4,40 | are |
-|   |   |   |   |
-| **Teelt in open grond** |   |   |   |
+|  |  |  |  |
+| Teelt in open grond |  |  |  |
 | Aardbeien onder glas | 610 | 5,55 | are |
 | Aardbeien plastic tunnel | 611 | 5,55 | are |
 | Aardbeien productie | 433 | 60,19 | ha |
@@ -150,8 +121,8 @@ Deze verordening verstaat onder:
 | Wittekool | 473 | 21,66 | ha |
 | Overige niet genoemde bladgewassen | 485 | 24,03 | ha |
 | Overige niet genoemde groenten | 486 | 24,03 | ha |
-|   |   |   |   |
-| **Fruit** |   |   |   |
+|  |  |  |  |
+| Fruit |  |  |  |
 | Notenbomen (amandelen, hazel- en walnoten) | 2645 | 18,21 | ha |
 | Appelen in seizoen | 490 | 34,79 | ha |
 | Appelen vóór seizoen | 491 | 34,79 | ha |
@@ -168,8 +139,8 @@ Deze verordening verstaat onder:
 | Zwarte bessen (Best.Verw.Ind.) | 499 | 18,21 | ha |
 | Overig kleinfruit | 500 | 153,61 | ha |
 | Overige pit- en steenvrucht | 501 | 81,52 | ha |
-|   |   |   |   |
-| **Champignons** |   |   |   |
+|  |  |  |  |
+| Champignons |  |  |  |
 | Oppervlakte met de hand geoogst | 702 | 0,00 | m² |
 | Oppervlakte machinaal geoogst | 703 | 0,00 | m² |
 

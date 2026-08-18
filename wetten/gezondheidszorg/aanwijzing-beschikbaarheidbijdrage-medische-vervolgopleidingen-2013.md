@@ -1,81 +1,49 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2012, MC-U-3131142, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
+citeertitel: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
 identifier: "BWBR0032024"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032024"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11851803"
-version_id: "19702072"
-internal_id: "C27638011"
-label_id: "11823924"
-original_entry_into_force: "2012-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032024/2014-04-01/0"
-intitule_bron: "Stcrt.2012-20041"
-intitule_effect: "wijziging"
-intitule_signed: "2012-09-17"
-intitule_published: "2012-10-12"
-intitule_in_force: "2012-10-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19375"
-original_signed_date: "2012-09-17"
-original_published_date: "2012-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19375"
-entry_into_force_date: "2012-11-01"
-jci_1_3: "jci1.3:c:BWBR0032024&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBR0032024&g=2014-04-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
-signed_date: "2012-09-17"
-entry_into_force: "2012-11-01"
+publicatiedatum: 2012-11-01
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBR0032024"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2012, MC-U-3131142, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2013
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 25 mei 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2011/12, 32 393, nr. 17);
-
-Gezien:
-
-het verslag van 29 juni 2012 van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 32 393, nr. 22);
-
-het verslag van 3 juli 2012 van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Eerste Kamer der Staten-Generaal (Kamerstukken I 2011/12, 32 393, F).
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- a. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- b. **besluit:** [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
+- b. *besluit:*
+ [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
 
-- c. **dienst van algemeen belang:** dienst van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie;
+- c. *dienst van algemeen belang:* dienst van algemeen belang als bedoeld in Protocol nr. 26 bij het Verdrag betreffende de werking van de Europese Unie;
 
-- d. **verdeelplan:** overzicht van de verdeling van het maximale aantal opleidingsplaatsen per opleiding per opleidende zorgaanbieder;
+- d. *verdeelplan:* overzicht van de verdeling van het maximale aantal opleidingsplaatsen per opleiding per opleidende zorgaanbieder;
 
-- e. **opleidingsoverzicht:** overzicht, uitgesplitst naar instroom en doorstroom, van de gerealiseerde opleidingsplaatsen per opleiding per opleidende zorgaanbieder zoals dat blijkt uit het opleidingsregister van de voor de desbetreffende opleiding relevante registratiecommissie;
+- e. *opleidingsoverzicht:* overzicht, uitgesplitst naar instroom en doorstroom, van de gerealiseerde opleidingsplaatsen per opleiding per opleidende zorgaanbieder zoals dat blijkt uit het opleidingsregister van de voor de desbetreffende opleiding relevante registratiecommissie;
 
-- f. **instroom:** aantal opleidingsplaatsen, uitgedrukt in fte’s en aantal personen, voor (medische) beroepsbeoefenaren in opleiding die in het jaar 2013 met een vervolgopleiding beginnen;
+- f. *instroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s en aantal personen, voor (medische) beroepsbeoefenaren in opleiding die in het jaar 2013 met een vervolgopleiding beginnen;
 
-- g. **doorstroom:** aantal opleidingsplaatsen, uitgedrukt in fte’s, voor (medische) beroepsbeoefenaren in opleiding die voorafgaand aan het jaar 2013 met een vervolgopleiding zijn begonnen;
+- g. *doorstroom:* aantal opleidingsplaatsen, uitgedrukt in fte’s, voor (medische) beroepsbeoefenaren in opleiding die voorafgaand aan het jaar 2013 met een vervolgopleiding zijn begonnen;
 
-- h. **gerealiseerde opleidingsplaats:** aantal uren, uitgedrukt in fte’s, dat de (medische) beroepsbeoefenaar in opleiding blijkens het relevante opleidingsregister de vervolgopleiding in het jaar 2013 feitelijk heeft gevolgd, tot een maximum overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling;
+- h. *gerealiseerde opleidingsplaats:* aantal uren, uitgedrukt in fte’s, dat de (medische) beroepsbeoefenaar in opleiding blijkens het relevante opleidingsregister de vervolgopleiding in het jaar 2013 feitelijk heeft gevolgd, tot een maximum overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling;
 
-- i. **opleidende zorgaanbieder:** zorgaanbieder die als zodanig is erkend door de voor de desbetreffende opleiding relevante registratiecommissie, voor zolang deze erkenning niet is ingetrokken of vervallen.
+- i. *opleidende zorgaanbieder:* zorgaanbieder die als zodanig is erkend door de voor de desbetreffende opleiding relevante registratiecommissie, voor zolang deze erkenning niet is ingetrokken of vervallen.
 
-- j. **fte:** full time equivalent (voltijdse plaats);
+- j. *fte:* full time equivalent (voltijdse plaats);
 
-- k. **ggz:** geestelijke gezondheidszorg.
+- k. *ggz:* geestelijke gezondheidszorg.
 
 ##### Artikel 2. werkingssfeer
 
-Deze aanwijzing is van toepassing op activiteiten ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto onderdeel B, onder 1, sub a en b, van de [bijlage bij het besluit](onbekend) en heeft betrekking op het kalenderjaar 2013.
+Deze aanwijzing is van toepassing op activiteiten ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto onderdeel B, onder 1, sub a en b, van de [bijlage bij het besluit](https://wetten.overheid.nl/BWBR0031971) en heeft betrekking op het kalenderjaar 2013.
 
 ##### Artikel 3. opdracht
 
@@ -107,9 +75,9 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 
 - d. de aantallen opleidingsplaatsen voor de opleidingen die gemerkt zijn met een asterix (*), tellen niet mee bij het bepalen van de omvang van de staffel, bedoeld onder a tot en met c.
 
-| Vervolgopleiding | Academisch ziekenhuis | Algemeen ziekenhuis | Algemeen ziekenhuis | Algemeen ziekenhuis |
+| Vervolgopleiding | Academisch ziekenhuis | Algemeen ziekenhuis |  |  |
 | --- | --- | --- | --- | --- |
-| Vervolgopleiding | Academisch ziekenhuis | 1 t/m 49 fte | 50 t/m 149 fte | vanaf 150 fte |
+| 1 t/m 49 fte | 50 t/m 149 fte | vanaf 150 fte |  |  |
 | Anesthesiologie | 123.800 | 164.000 | 152.700 | 122.100 |
 | Cardiologie | 123.800 | 164.000 | 152.700 | 122.100 |
 | Cardiothoracale chirurgie | 123.800 | 164.000 | 152.700 | 122.100 |
@@ -156,20 +124,20 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 | Revalidatiegeneeskunde | 122.800 | - | - |
 | Arts verstandelijk gehandicapten | - | 57.100 | - |
 
-| Vervolgopleiding | Vervolgopleiding | Bedrag | Bedrag indien academisch ziekenhuis |
+| Vervolgopleiding | Bedrag | Bedrag indien academisch ziekenhuis |  |
 | --- | --- | --- | --- |
 | Gezondheidszorgpsycholoog | in epilepsie-inrichting | 28.000 | - |
-| Gezondheidszorgpsycholoog | in gehandicaptenzorg | 28.000 | - |
-| Gezondheidszorgpsycholoog | in ggz | 28.000 | - |
-| Gezondheidszorgpsycholoog | in revalidatiecentrum | 28.000 | - |
-| Gezondheidszorgpsycholoog | in verpleeghuiszorg | 28.000 | - |
-| Gezondheidszorgpsycholoog | in ziekenhuiszorg | 28.000 | 28.200 |
+| in gehandicaptenzorg | 28.000 | - |  |
+| in ggz | 28.000 | - |  |
+| in revalidatiecentrum | 28.000 | - |  |
+| in verpleeghuiszorg | 28.000 | - |  |
+| in ziekenhuiszorg | 28.000 | 28.200 |  |
 | Klinisch psycholoog | in gehandicaptenzorg | 34.100 | - |
-| Klinisch psycholoog | in ggz | 34.100 | - |
-| Klinisch psycholoog | in ziekenhuiszorg | 34.100 | 34.400 |
+| in ggz | 34.100 | - |  |
+| in ziekenhuiszorg | 34.100 | 34.400 |  |
 | Psychotherapeut | in gehandicaptenzorg | 46.200 | - |
-| Psychotherapeut | in ggz | 46.200 | 46.600 |
-| Verpleegkundig specialist ggz | Verpleegkundig specialist ggz | 32.800 | - |
+| in ggz | 46.200 | 46.600 |  |
+| Verpleegkundig specialist ggz | 32.800 | - |  |
 
 | Vervolgopleiding | Bedrag |
 | --- | --- |
@@ -197,5 +165,3 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 ##### Artikel 8. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

@@ -1,50 +1,18 @@
 ---
 title: "Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2012, MC-U-3138396 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de forensische zorg"
+citeertitel: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging forensische zorg)"
 identifier: "BWBR0032182"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032182"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11895923"
-version_id: "19756572"
-internal_id: "C27750511"
-label_id: "11867994"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032182/2013-01-01/0"
-intitule_bron: "Stcrt.2012-22537"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-29"
-intitule_published: "2012-11-07"
-intitule_in_force: "2012-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-22537"
-original_signed_date: "2012-10-29"
-original_published_date: "2012-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-22537"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032182&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032182&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging forensische zorg)"
-signed_date: "2012-10-29"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032182"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2012, MC-U-3138396 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de forensische zorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) en [artikel 7a van het Besluit van 27 maart 2012 tot wijziging van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=7a) (Stb. 2012, 134);
-
-Na op 15 juni 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 32 398, nr. 16) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gezien het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 24 september 2012 (Kamerstukken II 2012/13, 32 398, nr. 17);
-
-Gezien het verslag van een schriftelijk overleg van 18 oktober 2012 van de vaste commissie voor Veiligheid en Justitie van de Eerste Kamer der Staten-Generaal (Kamerstukken I 2012/13, 32 398, nr. B);
-
-Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -52,21 +20,23 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **Interimbesluit forensische zorg:** [Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333) (Stb. 2010, 875), gewijzigd bij Besluit van 27 maart 2012 tot wijziging van het Interimbesluit forensische zorg (Stb. 2012, 134);
+- d. *Interimbesluit forensische zorg:*
+ [Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333) (Stb. 2010, 875), gewijzigd bij Besluit van 27 maart 2012 tot wijziging van het Interimbesluit forensische zorg (Stb. 2012, 134);
 
-- e. **forensische zorg:** forensische zorg in strafrechtelijk kader als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
+- e. *forensische zorg:* forensische zorg in strafrechtelijk kader als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
 
-- f. **dbbc:** diagnose behandeling en beveiliging combinatie;
+- f. *dbbc:* diagnose behandeling en beveiliging combinatie;
 
-- g. **budgetomzet:** door de minister van Veiligheid en Justitie op basis van AWBZ-parameters berekende omzet;
+- g. *budgetomzet:* door de minister van Veiligheid en Justitie op basis van AWBZ-parameters berekende omzet;
 
-- h. **transitieomzet:** de maximaal toelaatbare omzet.
+- h. *transitieomzet:* de maximaal toelaatbare omzet.
 
 ##### Artikel 2. werkingssfeer
 
@@ -101,5 +71,3 @@ garantiepercentage*[budgetomzet] + (1-garantiepercentage)*[dbbc-omzet].
 ##### Artikel 6. verrekening
 
 Het transitiebedrag wordt rechtstreeks verrekend tussen zorgaanbieder en de minister van Veiligheid en Justitie.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

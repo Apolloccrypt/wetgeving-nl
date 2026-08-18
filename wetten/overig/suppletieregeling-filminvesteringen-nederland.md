@@ -1,41 +1,18 @@
 ---
 title: "Suppletieregeling Filminvesteringen Nederland / Subsidieregeling van de Stichting Nederlands Fonds voor de Film"
+citeertitel: "Suppletieregeling filminvesteringen Nederland"
 identifier: "BWBR0031813"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031813"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11799193"
-version_id: "19540172"
-internal_id: "C27402371"
-label_id: "11771724"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031813/2013-01-01/0"
-intitule_bron: "Stcrt.2012-14886"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-07-19"
-intitule_in_force: "2012-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-14886"
-original_published_date: "2012-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-14886"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0031813&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0031813&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Suppletieregeling filminvesteringen Nederland"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0031813"
+opgehaald: 2026-08-18
 ---
+
 # Suppletieregeling Filminvesteringen Nederland / Subsidieregeling van de Stichting Nederlands Fonds voor de Film
-
-Gelet op de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904);
-
-Besluit:
 
 #### § 1. Doelstelling
 
@@ -45,55 +22,55 @@ Besluit:
 
 2. Een bioscoopfilm heeft een culturele waarde, indien de bioscoopfilm beschikt over tenminste drie van de volgende zeven kenmerken:
 
-- –. het scenario waarop de bioscoopfilm is gebaseerd speelt zich in overwegende mate af in Nederland, of in een andere Lidstaat van de Europese Unie, of in een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- – het scenario waarop de bioscoopfilm is gebaseerd speelt zich in overwegende mate af in Nederland, of in een andere Lidstaat van de Europese Unie, of in een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- –. tenminste één van de hoofdpersonages behoort tot de Nederlandse cultuur of het Nederlandse taalgebied;
+- – tenminste één van de hoofdpersonages behoort tot de Nederlandse cultuur of het Nederlandse taalgebied;
 
-- –. het scenario waarop de bioscoopfilm is gebaseerd is in hoofdzakelijk de Nederlandse taal geschreven;
+- – het scenario waarop de bioscoopfilm is gebaseerd is in hoofdzakelijk de Nederlandse taal geschreven;
 
-- –. het scenario van de bioscoopfilm is gebaseerd op een van origine Nederlandstalig literair werk;
+- – het scenario van de bioscoopfilm is gebaseerd op een van origine Nederlandstalig literair werk;
 
-- –. het hoofdthema van de bioscoopfilm heeft betrekking op kunst dan wel kunstenaars;
+- – het hoofdthema van de bioscoopfilm heeft betrekking op kunst dan wel kunstenaars;
 
-- –. het hoofdthema van de bioscoopfilm heeft betrekking op historische figuren of gebeurtenissen;
+- – het hoofdthema van de bioscoopfilm heeft betrekking op historische figuren of gebeurtenissen;
 
-- –. het hoofdthema van de bioscoopfilm heeft betrekking op voor de Nederlandse bevolking relevante actuele, culturele, maatschappelijke dan wel politieke kwesties.
+- – het hoofdthema van de bioscoopfilm heeft betrekking op voor de Nederlandse bevolking relevante actuele, culturele, maatschappelijke dan wel politieke kwesties.
 
 #### § 2. Definities
 
 ##### Artikel 2
 
-In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
+In deze regeling en de daarbij behorende [bijlage](https://wetten.overheid.nl/BWBR0031813) wordt verstaan onder:
 
-- –. **aanvrager:** een rechtspersoon, die ten genoegen van het Fonds aantoonbaar een onderneming drijft, die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van bioscoopfilms. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee kalenderjaren gevestigd en actief geweest in het Koninkrijk der Nederlanden, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- – *aanvrager:* een rechtspersoon, die ten genoegen van het Fonds aantoonbaar een onderneming drijft, die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van bioscoopfilms. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee kalenderjaren gevestigd en actief geweest in het Koninkrijk der Nederlanden, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- –. **bestuur:** het bestuur van het Fonds;
+- – *bestuur:* het bestuur van het Fonds;
 
-- –. **bioscoopfilm:** elk audiovisueel werk, dat primair bestemd is voor vertoning in bioscopen met een vertoningduur van tenminste 60 minuten;
+- – *bioscoopfilm:* elk audiovisueel werk, dat primair bestemd is voor vertoning in bioscopen met een vertoningduur van tenminste 60 minuten;
 
-- –. **bioscoopuitbreng:** de landelijke distributie van een bioscoopfilm, die na de première minimaal drie weken gelijktijdig in drie of meer bioscopen of filmtheaters met een dagelijkse vertoning voor een betalend publiek in Nederland wordt uitgebracht;
+- – *bioscoopuitbreng:* de landelijke distributie van een bioscoopfilm, die na de première minimaal drie weken gelijktijdig in drie of meer bioscopen of filmtheaters met een dagelijkse vertoning voor een betalend publiek in Nederland wordt uitgebracht;
 
-- –. **completion guarantor:** de verzekeraar, die waarborgt dat de bioscoopfilm zal worden afgemaakt en opgeleverd onder in de verzekeringspolis opgenomen (budgettaire) voorwaarden voor of op de overeengekomen uiterste opleveringsdatum, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald;
+- – *completion guarantor:* de verzekeraar, die waarborgt dat de bioscoopfilm zal worden afgemaakt en opgeleverd onder in de verzekeringspolis opgenomen (budgettaire) voorwaarden voor of op de overeengekomen uiterste opleveringsdatum, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald;
 
-- –. **deferment:** het afzien van het in rekening brengen van kosten onder de voorwaarde dat deze vergoed worden uit de eventuele opbrengsten van de bioscoopfilm;
+- – *deferment:* het afzien van het in rekening brengen van kosten onder de voorwaarde dat deze vergoed worden uit de eventuele opbrengsten van de bioscoopfilm;
 
-- –. **filmdistributeur:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de distributie en exploitatie van bioscoopfilms in de Nederlandse bioscoop en via andere distributiekanalen. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee jaar gevestigd en actief geweest in Nederland, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- – *filmdistributeur:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de distributie en exploitatie van bioscoopfilms in de Nederlandse bioscoop en via andere distributiekanalen. De rechtspersoon is ten tijde van de subsidieaanvraag minimaal twee jaar gevestigd en actief geweest in Nederland, een Lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- –. **filmkosten:** productiekosten (de kosten gemoeid met de realisering van een bioscoopfilm), vermeerderd met de kosten voor prints & advertising van de bioscoopfilm in bioscopen in Nederland;
+- – *filmkosten:* productiekosten (de kosten gemoeid met de realisering van een bioscoopfilm), vermeerderd met de kosten voor prints & advertising van de bioscoopfilm in bioscopen in Nederland;
 
-- –. **filmplan:** het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, voortbrengen en (doen) exploiteren van een bioscoopfilm;
+- – *filmplan:* het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, voortbrengen en (doen) exploiteren van een bioscoopfilm;
 
-- –. **Fonds:** de stichting Nederlands Fonds voor de Film;
+- – *Fonds:* de stichting Nederlands Fonds voor de Film;
 
-- –. **garantieopbrengst:** een voorschot op exploitatieopbrengsten dat niet terugvorderbaar, maar verrekenbaar is met opbrengsten, die een bioscoopfilm kan genereren door vertoning in bioscopen en verdere exploitatie in de ruimste zin des woords;
+- – *garantieopbrengst:* een voorschot op exploitatieopbrengsten dat niet terugvorderbaar, maar verrekenbaar is met opbrengsten, die een bioscoopfilm kan genereren door vertoning in bioscopen en verdere exploitatie in de ruimste zin des woords;
 
-- –. **investering:** een financiële bijdrage van een marktpartij, die ten genoegen van het bestuur aantoonbaar in de productie van de bioscoopfilm wordt geïnvesteerd en die niet bestaat uit een deferment of een, naar het oordeel van het bestuur daaraan gelijkgestelde bijdrage of een sponsorbijdrage in natura;
+- – *investering:* een financiële bijdrage van een marktpartij, die ten genoegen van het bestuur aantoonbaar in de productie van de bioscoopfilm wordt geïnvesteerd en die niet bestaat uit een deferment of een, naar het oordeel van het bestuur daaraan gelijkgestelde bijdrage of een sponsorbijdrage in natura;
 
-- –. **marktpartijen:** partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van bioscoopfilms, in de ruimste zin des woords, ofwel op het doen van risicodragende investeringen;
+- – *marktpartijen:* partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van bioscoopfilms, in de ruimste zin des woords, ofwel op het doen van risicodragende investeringen;
 
-- –. **producent:** de natuurlijke persoon, die de aanvrager rechtsgeldig vertegenwoordigt, (mede)aandelenhouder en binnen de organisatie van de aanvrager beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
+- – *producent:* de natuurlijke persoon, die de aanvrager rechtsgeldig vertegenwoordigt, (mede)aandelenhouder en binnen de organisatie van de aanvrager beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
 
-- –. **prints & advertising (P&A):** de directe kosten na de fase van realisering die samenhangen met de bioscoopuitbreng en marketing van de voor vertoning gereed zijnde bioscoopfilm, inclusief de kosten voor de uitbrengkopieën (printkosten).
+- – *prints & advertising (P&A):* de directe kosten na de fase van realisering die samenhangen met de bioscoopuitbreng en marketing van de voor vertoning gereed zijnde bioscoopfilm, inclusief de kosten voor de uitbrengkopieën (printkosten).
 
 #### § 3. Subsidiebedrag en subsidieplafond
 
@@ -105,17 +82,46 @@ In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
 - b). maximaal 30 procent van de productiekosten bedraagt; en:
 
-- c). niet meer bedraagt dan de in de onderstaande staffel van het Fonds opgenomen bijdrage, mits de producent in de periode van vijf kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 100.000 of meer personen is bezocht in de Nederlandse bioscoop. In het geval er op grond van deze regeling vanaf 1 januari 2011 eerder subsidie is verleend aan een of meerdere reeds in de bioscoop uitgebrachte bioscoopfilms waarvoor de producent als aanvrager verantwoordelijk was dan is het gemiddelde van het bioscoopbezoek aan de desbetreffende bioscoopfilm(s) en de bioscoopfilm met het hoogste publieksbereik uit de periode van vijf kalenderjaren voorafgaand aan de aanvraag bepalend voor de hoogte van de aan te vragen subsidie. De staffel op grond waarvan een subsidie aangevraagd kan worden is als volgt:
-
-| bezoekers |   | bezoekers |   | Bijdrage |
-| --- | --- | --- | --- | --- |
-| Van |   | Tot |   | Maximum |
-| 100.000 | – | 150.000 | : | € 250.000,00 |
-| 150.000 | – | 200.000 | : | € 400.000,00 |
-| 200.000 | – | 250.000 | : | € 550.000,00 |
-| 250.000 | – | 300.000 | : | € 750.000,00 |
-| 300.000 | – | 350.000 | : | € 900.000,00 |
-| 350.000 | – | en verder | : | € 1.000.000,00 |
+- c). niet meer bedraagt dan de in de onderstaande staffel van het Fonds opgenomen bijdrage, mits de producent in de periode van vijf kalenderjaren voorafgaand aan de subsidieaanvraag aantoonbaar hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm, die na première door 100.000 of meer personen is bezocht in de Nederlandse bioscoop. In het geval er op grond van deze regeling vanaf 1 januari 2011 eerder subsidie is verleend aan een of meerdere reeds in de bioscoop uitgebrachte bioscoopfilms waarvoor de producent als aanvrager verantwoordelijk was dan is het gemiddelde van het bioscoopbezoek aan de desbetreffende bioscoopfilm(s) en de bioscoopfilm met het hoogste publieksbereik uit de periode van vijf kalenderjaren voorafgaand aan de aanvraag bepalend voor de hoogte van de aan te vragen subsidie. De staffel op grond waarvan een subsidie aangevraagd kan worden is als volgt: bezoekers
+ 
+ bezoekers
+ 
+ Bijdrage
+ Van
+ 
+ Tot
+ 
+ Maximum
+ 100.000
+ –
+ 150.000
+ :
+ € 250.000,00
+ 150.000
+ –
+ 200.000
+ :
+ € 400.000,00
+ 200.000
+ –
+ 250.000
+ :
+ € 550.000,00
+ 250.000
+ –
+ 300.000
+ :
+ € 750.000,00
+ 300.000
+ –
+ 350.000
+ :
+ € 900.000,00
+ 350.000
+ –
+ en verder
+ :
+ € 1.000.000,00
 
 2. Aan een bioscoopfilm waarvoor één of meer (Nederlandse) bestuursorganen en het Fonds op grond van een andere dan de onderhavige regeling een financiële bijdrage heeft verleend, kan op grond van deze regeling slechts een zodanig bedrag aan subsidie worden verleend, dat het totaal aan staatsteun verleende financiële bijdragen niet meer bedraagt dan 50 procent van de productiekosten. Overige richtlijnen voor het maximum van de totale bijdrage van het Fonds staan vermeld in het Financieel & Productioneel Protocol.
 
@@ -159,13 +165,13 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 - h). de aanvraag niet voldoet aan de voorwaarden genoemd in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=3&artikel=3&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=4&artikel=5&z=2013-01-01&g=2013-01-01) van deze regeling dan wel overigens niet voldoet aan deze regeling.
 
-- Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien de producent, die hoofdverantwoordelijk is voor de bioscoopfilm waarvoor de aanvraag is ingediend;
+2. - Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien de producent, die hoofdverantwoordelijk is voor de bioscoopfilm waarvoor de aanvraag is ingediend;
 
-- –. niet eveneens hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste twee bioscoopfilms met een bioscoopuitbreng;
+- – niet eveneens hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste twee bioscoopfilms met een bioscoopuitbreng;
 
-- –. in de periode van vijf kalenderjaren voorafgaand aan een subsidieaanvraag niet hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm met een bioscoopuitbreng, die na première door minimaal 100.000 personen in Nederlandse bioscoop is bezocht;
+- – in de periode van vijf kalenderjaren voorafgaand aan een subsidieaanvraag niet hoofdverantwoordelijk is geweest voor het voortbrengen van tenminste één bioscoopfilm met een bioscoopuitbreng, die na première door minimaal 100.000 personen in Nederlandse bioscoop is bezocht;
 
-- –. sinds 1 januari 2011 reeds voor een eerdere bioscoopfilm een bijdrage op grond van deze regeling heeft ontvangen en die bioscoopfilm niet door het minimum vereiste aantal bioscoopbezoekers van 100.000 bezocht is.
+- – sinds 1 januari 2011 reeds voor een eerdere bioscoopfilm een bijdrage op grond van deze regeling heeft ontvangen en die bioscoopfilm niet door het minimum vereiste aantal bioscoopbezoekers van 100.000 bezocht is.
 
 3. Het bestuur van het Fonds beslist afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien naar het oordeel van het bestuur verlening van de gevraagde subsidie ertoe zou leiden dat aan de aanvrager op grond van deze regeling in een kalenderjaar voor een totaalbedrag groter dan € 1.500.000 aan subsidies wordt verleend ten behoeve van de voortbrenging van meerdere bioscoopfilms door dezelfde aanvrager.
 
@@ -193,21 +199,21 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 - c). een financieringsplan waarin is gespecificeerd:
 
-- (i). het percentage van de begrote productiekosten van de bioscoopfilm, zoals opgenomen in het filmplan, dat reeds is gedekt door bijdragen van derden, die ofwel schriftelijk zijn toegezegd als garantieopbrengst, ofwel schriftelijk zijn toegezegd als subsidie, lening of investering ter dekking van de begrote productiekosten. Het aantal als deferments aangemerkte bijdragen mag de hoogte van de in de begroting opgenomen en door het Fonds goedkeurde producers fee en overhead zoals bepaald in hoofdstuk 1, artikel 3, lid 26 van het Financieel & Productioneel Protocol niet te boven gaan; en:,
+   - (i) het percentage van de begrote productiekosten van de bioscoopfilm, zoals opgenomen in het filmplan, dat reeds is gedekt door bijdragen van derden, die ofwel schriftelijk zijn toegezegd als garantieopbrengst, ofwel schriftelijk zijn toegezegd als subsidie, lening of investering ter dekking van de begrote productiekosten. Het aantal als deferments aangemerkte bijdragen mag de hoogte van de in de begroting opgenomen en door het Fonds goedkeurde producers fee en overhead zoals bepaald in hoofdstuk 1, artikel 3, lid 26 van het Financieel & Productioneel Protocol niet te boven gaan; en:,
 
-- (ii). een beschrijving van de (bedrijfs)achtergrond, de concernverhoudingen, de solvabiliteit en de vermogenspositie van de partijen die mede bijdragen aan de financiering van de bioscoopfilm waarvoor een subsidie wordt aangevraagd; en
+   - (ii) een beschrijving van de (bedrijfs)achtergrond, de concernverhoudingen, de solvabiliteit en de vermogenspositie van de partijen die mede bijdragen aan de financiering van de bioscoopfilm waarvoor een subsidie wordt aangevraagd; en
 
 - d). een gespecificeerd verkoop- en exploitatieplan zoals opgenomen in de toelichting bij de regeling, uit welker specificatie onder meer blijkt:
 
-- (i). een schatting van de opbrengsten van marktpartijen, en:
+   - (i) een schatting van de opbrengsten van marktpartijen, en:
 
-- (ii). het percentage van de begrote productiekosten dat reeds is gedekt door schriftelijk toegezegde bijdragen van marktpartijen; en:
+   - (ii) het percentage van de begrote productiekosten dat reeds is gedekt door schriftelijk toegezegde bijdragen van marktpartijen; en:
 
-- (iii). het percentage van de begrote filmkosten dat reeds is gedekt door een investering door een filmdistributeur met het oog op de voorgenomen bioscoopuitbreng in Nederland; en:
+   - (iii) het percentage van de begrote filmkosten dat reeds is gedekt door een investering door een filmdistributeur met het oog op de voorgenomen bioscoopuitbreng in Nederland; en:
 
-- (iv). de overeengekomen verdeling van nationale en internationale netto-opbrengsten (royalties) tussen aanvrager en filmdistributeur en/of andere bij de bioscoopfilm betrokken exploitanten waaruit blijkt hoe het Fonds en de overige financiers conform [artikel 11 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=7&artikel=11&z=2013-01-01&g=2013-01-01) van deze regeling, terugbetaald worden uit alle vormen van exploitatie waaronder, maar niet beperkt tot bioscoopuitbreng, verhuur en verkoop DVD/Blu-Ray en andere dragers, On Demand services, Free TV, Pay TV en overige Ancillary exploitatie. De verdeling en verplichting tot terugbetaling aan het Fonds dient realistisch en gedegen onderbouwd te zijn en geldt tevens als basis voor de rapportage aan het Fonds zoals vastgelegd in artikel 11 lid 6.
+   - (iv) de overeengekomen verdeling van nationale en internationale netto-opbrengsten (royalties) tussen aanvrager en filmdistributeur en/of andere bij de bioscoopfilm betrokken exploitanten waaruit blijkt hoe het Fonds en de overige financiers conform [artikel 11 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=7&artikel=11&z=2013-01-01&g=2013-01-01) van deze regeling, terugbetaald worden uit alle vormen van exploitatie waaronder, maar niet beperkt tot bioscoopuitbreng, verhuur en verkoop DVD/Blu-Ray en andere dragers, On Demand services, Free TV, Pay TV en overige Ancillary exploitatie. De verdeling en verplichting tot terugbetaling aan het Fonds dient realistisch en gedegen onderbouwd te zijn en geldt tevens als basis voor de rapportage aan het Fonds zoals vastgelegd in artikel 11 lid 6.
 
-- (v). de kostenposten samenhangend met bioscoopexploitatie en verdere exploitatie waarbij de kosten voor prints & advertising met eerste bioscoopopbrengsten (in principe ‘of the top’) verrekend worden.
+   - (v) de kostenposten samenhangend met bioscoopexploitatie en verdere exploitatie waarbij de kosten voor prints & advertising met eerste bioscoopopbrengsten (in principe ‘of the top’) verrekend worden.
 
 - e). een gespecificeerd marketing- en promotieplan; en:
 
@@ -295,7 +301,7 @@ In de tussen de aanvrager en het Fonds na subsidieverlening af te sluiten uitvoe
 
 - b). de frequentie waarmee en de termijnen waarbinnen en de vorm waarin de aanvrager voldoet aan de rapportageverplichtingen, zoals bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=7&artikel=11&z=2013-01-01&g=2013-01-01); en:
 
-- c.). de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengsten worden verdeeld tussen de rechthebbenden en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van deze regeling verleende subsidie terug te betalen.
+- c.) de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengsten worden verdeeld tussen de rechthebbenden en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van deze regeling verleende subsidie terug te betalen.
 
 ##### Artikel 13
 
@@ -406,7 +412,3 @@ Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de
 ##### Artikel 25
 
 Deze regeling wordt aangehaald als de Suppletieregeling filminvesteringen Nederland.
-
-## Bijlage
-
-Niet opgenomen.

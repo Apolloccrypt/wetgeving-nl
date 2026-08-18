@@ -1,64 +1,18 @@
 ---
 title: "Besluit van 31 augustus 2012, houdende nadere regels over de werkwijze van de afdeling, bedoeld in hoofdstuk 2 van de Wet College voor de rechten van de mens (Besluit werkwijze onderzoek gelijke behandeling)"
+citeertitel: "Besluit werkwijze onderzoek gelijke behandeling"
 identifier: "BWBR0031967"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031967"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11838083"
-version_id: "19629492"
-internal_id: "C27555851"
-label_id: "11810604"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031967/2020-01-01/0"
-intitule_bron: "Stb.2012-394"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-08-31"
-intitule_published: "2012-09-07"
-intitule_in_force: "2012-09-20"
-intitule_status: "goed"
-original_publication: "Stb.2012-394"
-original_signed_date: "2012-08-31"
-original_published_date: "2012-09-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-394"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031967&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0031967&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit werkwijze onderzoek gelijke behandeling"
-signed_date: "2012-08-31"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0031967"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 31 augustus 2012, houdende nadere regels over de werkwijze van de afdeling, bedoeld in hoofdstuk 2 van de Wet College voor de rechten van de mens (Besluit werkwijze onderzoek gelijke behandeling)
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 18 mei 2011, nummer 5683452/11/6;
-
-Gelet op:
-
-resolutie A/RES/48/134 van de Algemene Vergadering van de Verenigde Naties van 20 december 1993 inzake nationale instituten voor de bevordering en bescherming van de rechten van de mens,
-
-aanbeveling R (97) 14 van het Comité van ministers van de Raad van Europa van 30 september 1997 inzake de oprichting van onafhankelijke nationale mensenrechteninstituten,
-
-[Richtlijn 2000/43/EG](32000L0043) van de Raad van 29 juni 2000 houdende toepassing van het beginsel van gelijke behandeling van personen ongeacht ras of etnische afstamming (PbEG 2000, L 180),
-
-[Richtlijn 2004/113/EG](32004L0113) van de Raad van 13 december 2004 houdende toepassing van het beginsel van gelijke behandeling van mannen en vrouwen bij de toegang tot en het aanbod van goederen en diensten (PbEU 2004, L 373),
-
-[Richtlijn 2006/54/EG](32006L0054) van het Europees Parlement en de Raad van 5 juli 2006 betreffende de toepassing van het beginsel van gelijke kansen en gelijke behandeling van mannen en vrouwen in arbeid en beroep (herschikking) (PbEU 2006, L 204),
-
-[artikel 19 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=19);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 16 juni 2011, nr. W03.11.0178/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 24 augustus 2012, nummer 296052;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 19 van de Wet College voor de rechten van de mens in werking treedt.
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
@@ -66,35 +20,36 @@ Treedt in werking op het tijdstip waarop artikel 19 van de Wet College voor de r
 
 In dit besluit wordt verstaan onder:
 
-- a. **betrokkene:** persoon als bedoeld in [artikel 10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), die schriftelijk geen bedenkingen tegen zijn betrokkenheid in een onderzoek kenbaar heeft gemaakt;
+- a. *betrokkene:* persoon als bedoeld in [artikel 10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), die schriftelijk geen bedenkingen tegen zijn betrokkenheid in een onderzoek kenbaar heeft gemaakt;
 
-- b. **College:** College voor de rechten van de mens, genoemd in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1);
+- b. *College:* College voor de rechten van de mens, genoemd in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1);
 
-- c. **onderscheid:** onderscheid als bedoeld in:
+- c. *onderscheid:* onderscheid als bedoeld in:
 
-- 1°. de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502),
+   - 1°. de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502),
 
-- 2°. [artikel 47c van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47c) en [artikel 12p van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12p),
+   - 2°. [artikel 47c van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47c) en [artikel 12p van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12p),
 
-- 3°. [artikel 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [648](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) of [649 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=649),
+   - 3°. [artikel 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [648](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) of [649 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=649),
 
-- 4°. [artikel 12 van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=12),
+   - 4°. [artikel 12 van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=12),
 
-- 5°. [artikel 14 van de Wet gelijke behandeling op grond van leeftijd bij de arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&artikel=14),
+   - 5°. [artikel 14 van de Wet gelijke behandeling op grond van leeftijd bij de arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&artikel=14),
 
-- 6°. de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299),
+   - 6°. de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299),
 
-- 7°. [artikel III, derde lid, van de Wet van 3 juli 1996, houdende wijziging van het Burgerlijk Wetboek en de Ambtenarenwet in verband met het verbod tot het maken van onderscheid tussen werknemers naar arbeidsduur](https://wetten.overheid.nl/jci1.3:c:BWBR0008161&artikel=III) (Stb. 1996, 391), of
+   - 7°. [artikel III, derde lid, van de Wet van 3 juli 1996, houdende wijziging van het Burgerlijk Wetboek en de Ambtenarenwet in verband met het verbod tot het maken van onderscheid tussen werknemers naar arbeidsduur](https://wetten.overheid.nl/jci1.3:c:BWBR0008161&artikel=III) (Stb. 1996, 391), of
 
-- 8°. [artikel II, derde lid, van de Wet van 7 november 2002 tot uitvoering van de richtlijn 1999/70/EG van de Raad van de Europese Unie van 28 juni 1999 betreffende de door het EVV, de UNICE en het CEEP gesloten raamovereenkomst inzake arbeidsovereenkomsten voor bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0014195&artikel=II) (Stb. 2002, 560);
+   - 8°. [artikel II, derde lid, van de Wet van 7 november 2002 tot uitvoering van de richtlijn 1999/70/EG van de Raad van de Europese Unie van 28 juni 1999 betreffende de door het EVV, de UNICE en het CEEP gesloten raamovereenkomst inzake arbeidsovereenkomsten voor bepaalde tijd](https://wetten.overheid.nl/jci1.3:c:BWBR0014195&artikel=II) (Stb. 2002, 560);
 
-- d. **verweerder:** degene die onderscheid zou hebben gemaakt;
+- d. *verweerder:* degene die onderscheid zou hebben gemaakt;
 
-- e. **verzoeker:** indiener van een verzoekschrift;
+- e. *verzoeker:* indiener van een verzoekschrift;
 
-- f. **verzoekschrift:** schriftelijk verzoek als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10);
+- f. *verzoekschrift:* schriftelijk verzoek als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10);
 
-- g. **wet:** [Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733).
+- g. *wet:*
+ [Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733).
 
 ### Hoofdstuk 2. Onderzoek en oordeel gelijke behandeling
 
@@ -148,7 +103,7 @@ Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de
 
 ##### Artikel 8
 
-1. Indien het verzoekschrift is ingediend door een verzoeker als bedoeld in [artikel 10, tweede lid, onder d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10) en het verzoekschrift personen noemt ten nadele van wie zou zijn gehandeld, doet het College aan die personen een afschrift van het verzoekschrift toekomen met de mededeling dat het College het voornemen heeft naar aanleiding van het verzoekschrift een onderzoek in te stellen, dat mede op hen betrekking zal hebben, en met de vraag of zij daartegen bedenkingen hebben.
+1. Indien het verzoekschrift is ingediend door een verzoeker als bedoeld in [artikel 10, tweede lid, onder d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10) en het verzoekschrift personen noemt ten nadele van wie zou zijn gehandeld, doet het College aan die personen een afschrift van het verzoekschrift toekomen met de mededeling dat het College het voornemen heeft naar aanleiding van het verzoekschrift een onderzoek in te stellen, dat mede op hen betrekking zal hebben, en met de vraag of zij daartegen bedenkingen hebben.
 
 2. Het College stelt een termijn voor het antwoord, gedurende welke termijn de in het eerste lid bedoelde personen niet in het onderzoek worden betrokken.
 
@@ -248,7 +203,7 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 ##### Artikel 22
 
-Het College kan het onderzoek ter zitting schorsen. Het College kan daarbij bepalen dat het vooronderzoek, bedoeld in [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2020-01-01&g=2020-01-01), of het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt hervat.
+Het College kan het onderzoek ter zitting schorsen. Het College kan daarbij bepalen dat het vooronderzoek, bedoeld in [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2020-01-01&g=2020-01-01), of het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt hervat.
 
 ##### Artikel 23
 
@@ -331,5 +286,3 @@ Dit besluit wordt aangehaald als: Besluit werkwijze onderzoek gelijke behandelin
 ##### Artikel 34
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=19) in werking treedt.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

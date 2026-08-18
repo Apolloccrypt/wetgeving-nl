@@ -1,46 +1,18 @@
 ---
 title: "Regelingberekening geluidsbelasting militaire luchthavens in Kosteneenheden"
+citeertitel: "Regeling berekening geluidsbelasting militaire luchthavens in Kosteneenheden"
 identifier: "BWBR0031639"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-05"
-last_updated: "2020-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031639"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "11753103"
-version_id: "19425932"
-internal_id: "C27215561"
-label_id: "11725474"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031639/2020-05-05/0"
-intitule_bron: "Stcrt.2012-11403"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-31"
-intitule_published: "2012-06-11"
-intitule_in_force: "2012-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-11403"
-original_signed_date: "2012-05-31"
-original_published_date: "2012-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-11403"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031639&z=2020-05-05&g=2020-05-05"
-jci_1_0: "1.0:c:BWBR0031639&g=2020-05-05"
-citeertitel_status: "officieel"
-short_title: "Regeling berekening geluidsbelasting militaire luchthavens in Kosteneenheden"
-signed_date: "2012-05-31"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2020-05-05
+status: geldig
+toestand: 2020-05-05
+bron: "https://wetten.overheid.nl/BWBR0031639"
+opgehaald: 2026-08-18
 ---
+
 # Regelingberekening geluidsbelasting militaire luchthavens in Kosteneenheden
-
-Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op [artikel 10.12, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.12);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -67,5 +39,3 @@ Deze regeling treedt in werking met ingang van 1 oktober 2012.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling berekening geluidsbelasting militaire luchthavens in Kosteneenheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

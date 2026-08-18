@@ -1,41 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Ameland, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Ameland)"
+citeertitel: "Omzettingsregeling luchthaven Ameland"
 identifier: "BWBR0032025"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2015-11-07"
-last_updated: "2015-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032025"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11851953"
-version_id: "19655482"
-internal_id: "C27578841"
-label_id: "11824154"
-dtd_version: "2.0"
-original_entry_into_force: "2011-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032025/2015-11-07/0"
-intitule_bron: "Stcrt.2011-5704"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-03-31"
-intitule_in_force: "2011-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-5704"
-original_published_date: "2011-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-5704"
-entry_into_force_date: "2011-04-01"
-jci_1_3: "jci1.3:c:BWBR0032025&z=2015-11-07&g=2015-11-07"
-jci_1_0: "1.0:c:BWBR0032025&g=2015-11-07"
-citeertitel_status: "officieel"
-short_title: "Omzettingsregeling luchthaven Ameland"
-entry_into_force: "2011-04-01"
+publicatiedatum: 2011-04-01
+laatste_update: 2015-11-07
+status: geldig
+toestand: 2015-11-07
+bron: "https://wetten.overheid.nl/BWBR0032025"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Ameland, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Ameland)
-
-Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -43,19 +20,20 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **beweging:** een start of een landing met een luchtvaartuig;
+- *beweging:* een start of een landing met een luchtvaartuig;
 
-- **daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;
+- *daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;
 
-- **exploitant:** gemeente Ameland;
+- *exploitant:* gemeente Ameland;
 
-- **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;
+- *helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;
 
-- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);
+- *verordening (EU) nr. 923/2012:* uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);
 
-- **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;
+- *vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;
 
-- **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
+- *wet:*
+ [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
 
 2. Het gebruiksjaar van de luchthaven betreft de periode van 1 juli van enig jaar tot 1 juli van het daarop volgende jaar.
 
@@ -116,9 +94,3 @@ Deze regeling treedt in werking met ingang van 1 april 2011.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Ameland.
-
-## Bijlage 1. bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&hoofdstuk=2&artikel=2&z=2015-11-07&g=2015-11-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&hoofdstuk=2&artikel=3&z=2015-11-07&g=2015-11-07) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&hoofdstuk=3&artikel=6&z=2015-11-07&g=2015-11-07) van de Omzettingsregeling luchthaven Ameland: ligging van de baan en plaats van de handhavingspunten, grenswaarden in de handhavingspunten
-
-## Bijlage 2. bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&hoofdstuk=4&artikel=7&z=2015-11-07&g=2015-11-07) van de Omzettingsregeling luchthaven Ameland: het beperkingengebied
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

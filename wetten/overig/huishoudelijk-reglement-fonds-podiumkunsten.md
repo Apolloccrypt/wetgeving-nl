@@ -1,51 +1,25 @@
 ---
 title: "Huishoudelijk reglement Fonds Podiumkunsten"
 identifier: "BWBR0031299"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-03-01"
-last_updated: "2012-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031299"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11674523"
-version_id: "19262112"
-internal_id: "C26874031"
-label_id: "11647264"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031299/2012-03-01/0"
-intitule_bron: "Stcrt.2012-3261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-12"
-intitule_published: "2012-02-24"
-intitule_in_force: "2012-02-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-3261"
-original_signed_date: "2011-12-12"
-original_published_date: "2012-02-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-3261"
-entry_into_force_date: "2012-03-01"
-jci_1_3: "jci1.3:c:BWBR0031299&z=2012-03-01&g=2012-03-01"
-jci_1_0: "1.0:c:BWBR0031299&g=2012-03-01"
-citeertitel_status: "officieel"
-signed_date: "2011-12-12"
-entry_into_force: "2012-03-01"
+publicatiedatum: 2012-03-01
+laatste_update: 2012-03-01
+status: geldig
+toestand: 2012-03-01
+bron: "https://wetten.overheid.nl/BWBR0031299"
+opgehaald: 2026-08-18
 ---
+
 # Huishoudelijk reglement Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten+;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten+.
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten+.
 
 ##### Artikel 2. Subsidiebureau
 
@@ -97,17 +71,17 @@ In dit reglement wordt verstaan onder:
 
 4. De voorzitter:
 
-- −. leidt de vergadering;
+- − leidt de vergadering;
 
-- −. is verantwoordelijk voor een evenwichtige besluitvorming;
+- − is verantwoordelijk voor een evenwichtige besluitvorming;
 
-- −. zorgt dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidieregelingen en de beleidsmatige richtlijnen;
+- − zorgt dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidieregelingen en de beleidsmatige richtlijnen;
 
-- −. waarborgt een eerlijke en open besluitvorming;
+- − waarborgt een eerlijke en open besluitvorming;
 
-- −. bewaakt de kwaliteit van de voorbereiding door adviseurs;
+- − bewaakt de kwaliteit van de voorbereiding door adviseurs;
 
-- −. bewaakt de integriteit van het beoordelingsproces.
+- − bewaakt de integriteit van het beoordelingsproces.
 
 5. Het bestuur kan extern advies inwinnen indien het van oordeel is dat met betrekking tot een of meer aanvragen of criteria extra deskundigheid is vereist.
 
@@ -160,5 +134,3 @@ Dit reglement kan worden aangehaald als: Huishoudelijk reglement Fonds Podiumkun
 ##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 maart 2012.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

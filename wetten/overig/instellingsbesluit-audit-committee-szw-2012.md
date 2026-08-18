@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 15 augustus 2012, nr. FEZ/BV/2012/10759, tot instelling van het Audit Committee van het Ministerie van SZW (Instellingsbesluit SZW 2012)"
+citeertitel: "Instellingsbesluit Audit Committee SZW 2012"
 identifier: "BWBR0031911"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-08-24"
-last_updated: "2012-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031911"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "11827543"
-version_id: "19610122"
-internal_id: "C27509901"
-label_id: "11799724"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031911/2012-08-24/0"
-intitule_bron: "Stcrt.2012-17251"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-08-15"
-intitule_published: "2012-08-23"
-intitule_in_force: "2012-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-17251"
-original_signed_date: "2012-08-15"
-original_published_date: "2012-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-17251"
-entry_into_force_date: "2012-08-24"
-jci_1_3: "jci1.3:c:BWBR0031911&z=2012-08-24&g=2012-08-24"
-jci_1_0: "1.0:c:BWBR0031911&g=2012-08-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Audit Committee SZW 2012"
-signed_date: "2012-08-15"
-entry_into_force: "2012-08-24"
+publicatiedatum: 2012-08-24
+laatste_update: 2012-08-24
+status: geldig
+toestand: 2012-08-24
+bron: "https://wetten.overheid.nl/BWBR0031911"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 15 augustus 2012, nr. FEZ/BV/2012/10759, tot instelling van het Audit Committee van het Ministerie van SZW (Instellingsbesluit SZW 2012)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Audit Committee:** het Audit Committee van het Ministerie van Sociale Zaken en Werkgelegenheid;
+- a. *Audit Committee:* het Audit Committee van het Ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **minister:** de Minister van Sociale Zaken en Werkgelegenheid.
+- b. *minister:* de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Instelling
 
@@ -97,5 +71,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Audit Committee SZW 2012.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

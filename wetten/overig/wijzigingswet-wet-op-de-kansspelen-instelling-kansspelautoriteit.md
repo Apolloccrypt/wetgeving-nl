@@ -1,55 +1,26 @@
 ---
 title: "Wet van 22 december 2011 tot wijziging van de Wet op de kansspelen in verband met de instelling van de kansspelautoriteit"
+citeertitel: "Wijzigingswet Wet op de kansspelen (instelling kansspelautoriteit)"
 identifier: "BWBR0031108"
-country: "nl"
-rank: "wet"
-publication_date: "2012-04-01"
-last_updated: "2012-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031108"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11629453"
-version_id: "19191192"
-internal_id: "C26897541"
-label_id: "11602274"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031108/2012-04-01/0"
-intitule_bron: "Stb.2012-11"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-22"
-intitule_published: "2012-01-17"
-intitule_in_force: "2012-03-06"
-intitule_status: "goed"
-original_publication: "Stb.2012-11"
-original_signed_date: "2011-12-22"
-original_published_date: "2012-01-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "32264"
-original_url_id: "stb-2012-11"
-entry_into_force_date: "2012-04-01"
-jci_1_3: "jci1.3:c:BWBR0031108&z=2012-04-01&g=2012-04-01"
-jci_1_0: "1.0:c:BWBR0031108&g=2012-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de kansspelen (instelling kansspelautoriteit)"
-signed_date: "2011-12-22"
-entry_into_force: "2012-04-01"
+publicatiedatum: 2012-04-01
+laatste_update: 2012-04-01
+status: geldig
+toestand: 2012-04-01
+bron: "https://wetten.overheid.nl/BWBR0031108"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 22 december 2011 tot wijziging van de Wet op de kansspelen in verband met de instelling van de kansspelautoriteit
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regels inzake kansspelen te introduceren in verband met de instelling van een kansspelautoriteit;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op de kansspelen.
+*Wijzigt de Wet op de kansspelen.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
@@ -64,5 +35,3 @@ Wijzigt de Wet op de economische delicten.
 ##### Artikel IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

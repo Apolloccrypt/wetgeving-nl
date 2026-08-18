@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn"
+citeertitel: "Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren (VBRA)"
 identifier: "BWBR0031747"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031747"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "11781403"
-version_id: "19489662"
-internal_id: "C27328031"
-label_id: "11754104"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031747/2019-01-01/0"
-intitule_bron: "Stcrt.2012-13378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-20"
-intitule_published: "2012-07-04"
-intitule_in_force: "2012-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13378"
-original_signed_date: "2012-06-20"
-original_published_date: "2012-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13378"
-entry_into_force_date: "2012-07-06"
-jci_1_3: "jci1.3:c:BWBR0031747&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBR0031747&g=2019-01-01"
-citeertitel_status: "officieel"
-short_title: "Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren (VBRA)"
-signed_date: "2012-06-20"
-entry_into_force: "2012-07-06"
+publicatiedatum: 2012-07-06
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBR0031747"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn
-
-Gelet op [het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0024265);
-
-Besluit
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,83 +20,83 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **belanghebbende:** de rechterlijk ambtenaar, aan wie buitengewoon verlof buiten bezwaar van ’s rijks schatkist is verleend in Nederland om tijdelijk in het Caribisch deel van het Koninkrijk voor de duur van langer dan een jaar werkzaam te zijn;
+- b. *belanghebbende:* de rechterlijk ambtenaar, aan wie buitengewoon verlof buiten bezwaar van ’s rijks schatkist is verleend in Nederland om tijdelijk in het Caribisch deel van het Koninkrijk voor de duur van langer dan een jaar werkzaam te zijn;
 
-- c. **echtgenoot:** echtgenoot volgens burgerlijk recht of de levenspartner met wie de niet gehuwde belanghebbende samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract, bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding, alsmede de geregistreerde partner;
+- c. *echtgenoot:* echtgenoot volgens burgerlijk recht of de levenspartner met wie de niet gehuwde belanghebbende samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract, bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding, alsmede de geregistreerde partner;
 
-- d. **gezin:** belanghebbende en de niet duurzaam gescheiden levende echtgenoot van de belanghebbende en de kinderen waarvoor aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming in de studiekosten op grond van de Wet tegemoetkoming studiekosten door één der ouders of, voor wat betreft de tegemoetkoming in de studiekosten, door het desbetreffende kind zelf; met gezin wordt gelijkgesteld de alleenstaande ouder die samenwoont met één of meer eigen kinderen;
+- d. *gezin:* belanghebbende en de niet duurzaam gescheiden levende echtgenoot van de belanghebbende en de kinderen waarvoor aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming in de studiekosten op grond van de Wet tegemoetkoming studiekosten door één der ouders of, voor wat betreft de tegemoetkoming in de studiekosten, door het desbetreffende kind zelf; met gezin wordt gelijkgesteld de alleenstaande ouder die samenwoont met één of meer eigen kinderen;
 
-- e. **gehuwde belanghebbende:** belanghebbende die met één of meer van zijn gezinsleden samenwoont en een eigen huishouding voert in een woning, of een gedeelte daarvan, waarover de gezinsleden de vrije en zelfstandige beschikking hebben;
+- e. *gehuwde belanghebbende:* belanghebbende die met één of meer van zijn gezinsleden samenwoont en een eigen huishouding voert in een woning, of een gedeelte daarvan, waarover de gezinsleden de vrije en zelfstandige beschikking hebben;
 
-- f. **ongehuwde belanghebbende:** iedere niet onder e bedoelde belanghebbende;
+- f. *ongehuwde belanghebbende:* iedere niet onder e bedoelde belanghebbende;
 
-- g. **kind:** het kind dat de leeftijd van 21 jaar nog niet heeft bereikt en ten aanzien van wie voor minimaal één van de ouders volgens Nederlandse wetgeving de onderhoudsplicht geldt.
+- g. *kind:* het kind dat de leeftijd van 21 jaar nog niet heeft bereikt en ten aanzien van wie voor minimaal één van de ouders volgens Nederlandse wetgeving de onderhoudsplicht geldt.
 
-- h. **metterwoon gevestigd:** het daadwerkelijk wonen, zodanig dat de gezinsleden er het merendeel van de tijd de nacht doorbrengen, de maaltijden gebruiken en over het algemeen aldaar het leefpatroon hebben dat de gezinsleden volgens algemeen aanvaarde normen gewoonlijk op het huisadres plegen te hebben;
+- h. *metterwoon gevestigd:* het daadwerkelijk wonen, zodanig dat de gezinsleden er het merendeel van de tijd de nacht doorbrengen, de maaltijden gebruiken en over het algemeen aldaar het leefpatroon hebben dat de gezinsleden volgens algemeen aanvaarde normen gewoonlijk op het huisadres plegen te hebben;
 
-- i. **verblijf van de belanghebbende:** De belanghebbende verblijft in een gebied buiten Nederland, indien hij voor een tijdvak van langere duur dan één jaar in dat gebied is gevestigd;
+- i. *verblijf van de belanghebbende:* De belanghebbende verblijft in een gebied buiten Nederland, indien hij voor een tijdvak van langere duur dan één jaar in dat gebied is gevestigd;
 
-- j. **verblijf van het gezin in het gebied buiten Nederland:** Het verblijf van de gezinsleden van de belanghebbende in een gebied buiten Nederland wordt uitsluitend in aanmerking genomen, indien de gezinsleden aldaar metterwoon zijn gevestigd en ter zake van dat verblijf is voldaan aan door de Minister bepaalde regels;
+- j. *verblijf van het gezin in het gebied buiten Nederland:* Het verblijf van de gezinsleden van de belanghebbende in een gebied buiten Nederland wordt uitsluitend in aanmerking genomen, indien de gezinsleden aldaar metterwoon zijn gevestigd en ter zake van dat verblijf is voldaan aan door de Minister bepaalde regels;
 
-- k. **aanvang, einde en duur van het verblijf:**
+- k. *aanvang, einde en duur van het verblijf:*
 
-- 1. het verblijf van de belanghebbende en van een of meer gezinsleden in een gebied buiten Nederland vangt aan op de aanstellingsdatum genoemd in het aanstellingsbesluit van het Gemeenschappelijk Hof van Justitie, het Koninklijk Besluit in het geval van de staande Magistratuur in Caribisch Nederland dan wel in het Landsbesluit van het Land van verblijf of indien dit later is de dag van aankomst bij een grensovergang, in de eerste haven of op het eerste vliegveld aldaar;
+   - 1. het verblijf van de belanghebbende en van een of meer gezinsleden in een gebied buiten Nederland vangt aan op de aanstellingsdatum genoemd in het aanstellingsbesluit van het Gemeenschappelijk Hof van Justitie, het Koninklijk Besluit in het geval van de staande Magistratuur in Caribisch Nederland dan wel in het Landsbesluit van het Land van verblijf of indien dit later is de dag van aankomst bij een grensovergang, in de eerste haven of op het eerste vliegveld aldaar;
 
-- 2. onverminderd het derde tot en met het vierde lid eindigt het verblijf van de belanghebbende en van een of meer gezinsleden in een gebied buiten Nederland op de einddatum genoemd in het Koninklijk Besluit of het Landsbesluit of indien dat eerder is op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld aldaar;
+   - 2. onverminderd het derde tot en met het vierde lid eindigt het verblijf van de belanghebbende en van een of meer gezinsleden in een gebied buiten Nederland op de einddatum genoemd in het Koninklijk Besluit of het Landsbesluit of indien dat eerder is op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld aldaar;
 
-- 3. de aanspraak van de belanghebbende in een gebied buiten Nederland op de toelagen als genoemd onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2019-01-01&g=2019-01-01) eindigt, indien hij het gebied van verblijf voor een tijdvak van langere duur dan zestig achtereenvolgende dagen onderbreekt;
+   - 3. de aanspraak van de belanghebbende in een gebied buiten Nederland op de toelagen als genoemd onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2019-01-01&g=2019-01-01) eindigt, indien hij het gebied van verblijf voor een tijdvak van langere duur dan zestig achtereenvolgende dagen onderbreekt;
 
-- 4. indien de gehuwde belanghebbende bij eindiging van zijn verblijf in een gebied buiten Nederland zijn gezinsleden daar moet achterlaten, om reden van medische noodzaak of het afleggen van een afsluitend eindexamen van het middelbare schooljaar van het kind van de belanghebbende, kan hij niettemin in het genot van de buitenlandtoelage, de verhoging daarvan en de overige voorzieningen ter zake van die plaatsing in dat gebied blijven;
+   - 4. indien de gehuwde belanghebbende bij eindiging van zijn verblijf in een gebied buiten Nederland zijn gezinsleden daar moet achterlaten, om reden van medische noodzaak of het afleggen van een afsluitend eindexamen van het middelbare schooljaar van het kind van de belanghebbende, kan hij niettemin in het genot van de buitenlandtoelage, de verhoging daarvan en de overige voorzieningen ter zake van die plaatsing in dat gebied blijven;
 
-- l. **bezoldiging:** het bruto salaris behorende bij één van de categorieën, genoemd in [artikel 7 van de Wet rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), waarin de belanghebbende, voorafgaand aan het buitengewoon verlof buiten bezwaar van ’s rijks schatkist, bij zijn Nederlandse werkgever laatstelijk is ingedeeld, inclusief de eventuele jaarlijkse periodieke verhogingen, vermeerderd met de in de pensioengrondslag opgenomen toelagen of vergoedingen;
+- l. *bezoldiging:* het bruto salaris behorende bij één van de categorieën, genoemd in [artikel 7 van de Wet rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), waarin de belanghebbende, voorafgaand aan het buitengewoon verlof buiten bezwaar van ’s rijks schatkist, bij zijn Nederlandse werkgever laatstelijk is ingedeeld, inclusief de eventuele jaarlijkse periodieke verhogingen, vermeerderd met de in de pensioengrondslag opgenomen toelagen of vergoedingen;
 
-- m. **Standaard Netto Nederland (SNN):** Het SNN is geen loon, maar de berekening van de grondslag voor een aantal vergoedingen in dit voorzieningenstelsel en wordt vastgesteld door het bedrag van de bezoldiging te verminderen met: en te vermeerderen met: en te vermenigvuldigen met: de factor 1,14 Bij de vaststelling van het Standaard Netto Nederland wordt geen rekening gehouden met een individuele afwijking als gevolg van: Het Standaard Netto Nederland betreft het bestendige Nederlandse salaris;
+- m. *Standaard Netto Nederland (SNN):* Het SNN is geen loon, maar de berekening van de grondslag voor een aantal vergoedingen in dit voorzieningenstelsel en wordt vastgesteld door het bedrag van de bezoldiging te verminderen met: en te vermeerderen met: en te vermenigvuldigen met: de factor 1,14 Bij de vaststelling van het Standaard Netto Nederland wordt geen rekening gehouden met een individuele afwijking als gevolg van: Het Standaard Netto Nederland betreft het bestendige Nederlandse salaris;
 
-- –. het werknemersdeel van de premie voor het ouderdoms- en nabestaandenpensioen;
+   - – het werknemersdeel van de premie voor het ouderdoms- en nabestaandenpensioen;
 
-- –. het werknemersdeel van de premie voor het bovenwettelijk arbeidsongeschiktheidspensioen, zonder rekening te houden met een eventueel door de rechterlijk ambtenaar gekozen verlaging van die premie;
+   - – het werknemersdeel van de premie voor het bovenwettelijk arbeidsongeschiktheidspensioen, zonder rekening te houden met een eventueel door de rechterlijk ambtenaar gekozen verlaging van die premie;
 
-- –. het werknemersdeel van de premie flexibel pensioen en uittreden overgangspremie VPL;
+   - – het werknemersdeel van de premie flexibel pensioen en uittreden overgangspremie VPL;
 
-- –. het werknemersdeel van de inhouding inzake werkloosheid, en
+   - – het werknemersdeel van de inhouding inzake werkloosheid, en
 
-- –. de loonheffing;
+   - – de loonheffing;
 
-- –. voor de gehuwde belanghebbende, de algemene heffingskorting;
+   - – voor de gehuwde belanghebbende, de algemene heffingskorting;
 
-- –. een in te houden premie voor een Invaliditeitspensioen Aanvullingsplan;
+   - – een in te houden premie voor een Invaliditeitspensioen Aanvullingsplan;
 
-- –. een in te houden premie voor aanvullend nabestaanden pensioen.
+   - – een in te houden premie voor aanvullend nabestaanden pensioen.
 
-- n. **koopkrachtcomponent:** het door de Minister vastgestelde percentage van het Standaard Netto Nederland dat beoogt de koopkracht te behouden van een voor Nederland representatief geacht pakket van goederen en diensten van betrokkene en in voorkomend geval van zijn gezin;
+- n. *koopkrachtcomponent:* het door de Minister vastgestelde percentage van het Standaard Netto Nederland dat beoogt de koopkracht te behouden van een voor Nederland representatief geacht pakket van goederen en diensten van betrokkene en in voorkomend geval van zijn gezin;
 
-- o. **verplaatsingscomponent** een door de Minister vastgesteld (nominaal) bedrag als tegemoetkoming in de kosten die het gevolg zijn van een verblijf in een gebied buiten Nederland. Het betreft een tegemoetkoming voor kosten als gevolg van:
+- o. *verplaatsingscomponent* een door de Minister vastgesteld (nominaal) bedrag als tegemoetkoming in de kosten die het gevolg zijn van een verblijf in een gebied buiten Nederland. Het betreft een tegemoetkoming voor kosten als gevolg van:
 
-- 1. het verlies van schooljaren van de kinderen, zowel bij plaatsing in een gebied buiten Nederland als bij terugkeer, waardoor zij langer ten laste van de ouders blijven;
+   - 1. het verlies van schooljaren van de kinderen, zowel bij plaatsing in een gebied buiten Nederland als bij terugkeer, waardoor zij langer ten laste van de ouders blijven;
 
-- 2. het niet mogen of kunnen werken van de echtgeno(o)t(e) en de kinderen van de belanghebbende, al dan niet op grond van wettelijke verplichtingen, en de daaruit voortvloeiende derving van inkomsten en de kleinere kans op werk voor de echtgeno(o)t(e) bij terugkeer in Nederland;
+   - 2. het niet mogen of kunnen werken van de echtgeno(o)t(e) en de kinderen van de belanghebbende, al dan niet op grond van wettelijke verplichtingen, en de daaruit voortvloeiende derving van inkomsten en de kleinere kans op werk voor de echtgeno(o)t(e) bij terugkeer in Nederland;
 
-- 3. het worden geconfronteerd met een taal die men niet beheerst wat in de beginperiode van het verblijf buiten Nederland leidt tot meerkosten, door het meer betalen dan nodig is voor goederen en diensten (economisch handelen);
+   - 3. het worden geconfronteerd met een taal die men niet beheerst wat in de beginperiode van het verblijf buiten Nederland leidt tot meerkosten, door het meer betalen dan nodig is voor goederen en diensten (economisch handelen);
 
-- 4. het bezit van een woning, met de daaraan verbonden kosten bij verkoop of verhuur (makelaarskosten bij verkoop of verhuur, verlies bij verkoop);
+   - 4. het bezit van een woning, met de daaraan verbonden kosten bij verkoop of verhuur (makelaarskosten bij verkoop of verhuur, verlies bij verkoop);
 
-- 5. de confrontatie met een hogere huur bij terugkeer uit een gebied buiten Nederland;
+   - 5. de confrontatie met een hogere huur bij terugkeer uit een gebied buiten Nederland;
 
-- 6. de kosten die het gevolg zijn van de afstand tussen het land van verblijf en het thuisland waar de achtergebleven familieleden verblijven (extra reis- en verblijfkosten bij bezoeken van en bij de familie);
+   - 6. de kosten die het gevolg zijn van de afstand tussen het land van verblijf en het thuisland waar de achtergebleven familieleden verblijven (extra reis- en verblijfkosten bij bezoeken van en bij de familie);
 
-- 7. kosten als gevolg van de extra sociale verplichtingen in het land van verblijf;
+   - 7. kosten als gevolg van de extra sociale verplichtingen in het land van verblijf;
 
-- 8. meerkosten als gevolg van het voeren van een éénpersoonshuishouding;
+   - 8. meerkosten als gevolg van het voeren van een éénpersoonshuishouding;
 
-- p. **verblijfscomponent:** het door de Minister vastgesteld percentage van het Standaard Netto Nederland dat beoogt een tegemoetkoming te zijn voor de kosten die voortvloeien uit de verschillen in verblijfsomstandigheden tussen Nederland en het land van verblijf;
+- p. *verblijfscomponent:* het door de Minister vastgesteld percentage van het Standaard Netto Nederland dat beoogt een tegemoetkoming te zijn voor de kosten die voortvloeien uit de verschillen in verblijfsomstandigheden tussen Nederland en het land van verblijf;
 
-- q. **berekeningsbasis:** het twaalfvoud van de bezoldiging, volgens dit artikel onder l. die betrokkene zou hebben genoten op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie- en eindejaarsuitkering en in voorkomende gevallen verhoogd met de toelage wegens verblijf in een gebied buiten Nederland;
+- q. *berekeningsbasis:* het twaalfvoud van de bezoldiging, volgens dit artikel onder l. die betrokkene zou hebben genoten op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie- en eindejaarsuitkering en in voorkomende gevallen verhoogd met de toelage wegens verblijf in een gebied buiten Nederland;
 
-- r. **gebied buiten Nederland:** een gebied binnen het Koninkrijk, dat buiten het Europese deel daarvan is gelegen;
+- r. *gebied buiten Nederland:* een gebied binnen het Koninkrijk, dat buiten het Europese deel daarvan is gelegen;
 
-- s. **duurtecorrectie:** de component die aangeeft hoeveel procent het inkomen moet worden gecorrigeerd om het Nederlandse bestedingsniveau in stand te houden in het land van verblijf;
+- s. *duurtecorrectie:* de component die aangeeft hoeveel procent het inkomen moet worden gecorrigeerd om het Nederlandse bestedingsniveau in stand te houden in het land van verblijf;
 
 ##### Artikel 1.2. Samenloop
 
@@ -152,11 +126,11 @@ In deze regeling wordt verstaan onder:
 
 - a. een buitenlandtoelage, bestaande uit:
 
-- 1. de koopkrachtcomponent;
+   - 1. de koopkrachtcomponent;
 
-- 2. de verblijfscomponent;
+   - 2. de verblijfscomponent;
 
-- 3. de verplaatsingscomponent;
+   - 3. de verplaatsingscomponent;
 
 - b. een verhoging van de buitenlandtoelage ten behoeve van kinderen;
 
@@ -172,23 +146,23 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 3. De gehuwde belanghebbende die met gezin metterwoon is gevestigd in een gebied buiten Nederland, heeft – met inachtneming van de onderdelen a tot en met g van dit lid – aanspraak op een verhoging van zijn buitenlandtoelage voor ieder kind dat tot zijn gezin behoort, indien:
 
-- –. ten behoeve van dat kind aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of;
+- – ten behoeve van dat kind aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of;
 
-- –. dat kind de leeftijd van 21 jaar nog niet heeft bereikt en aan dat kind een basisbeurs is toegekend dan wel naar het oordeel van de Minister een basisbeurs zou zijn toegekend indien dat kind zijn studie in Nederland zou hebben gevolgd.
+- – dat kind de leeftijd van 21 jaar nog niet heeft bereikt en aan dat kind een basisbeurs is toegekend dan wel naar het oordeel van de Minister een basisbeurs zou zijn toegekend indien dat kind zijn studie in Nederland zou hebben gevolgd.
 
-- a. De aanspraak bestaat voor een kind dat verblijft in het gebied van plaatsing van de belanghebbende, mits dat verblijf uitsluitend het gevolg is van de tewerkstelling aldaar van de belanghebbende en de datum van aankomst van het kind in dat gebied is gelegen op de datum van aanvang van de werkzaamheden van de belanghebbende in het betreffende gebied, als bedoeld in [artikel 1.1 onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2019-01-01&g=2019-01-01). De verhoging bestaat uit een basisbedrag en de koopkrachtcompensatie, indien deze positief is, berekend over een door de Minister vastgesteld bedrag gebaseerd op de gemiddelde kinderbijslag per maand voor de eerste twee kinderen. Die bedragen zijn opgenomen in de tabel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2019-01-01&g=2019-01-01).
+   - a. De aanspraak bestaat voor een kind dat verblijft in het gebied van plaatsing van de belanghebbende, mits dat verblijf uitsluitend het gevolg is van de tewerkstelling aldaar van de belanghebbende en de datum van aankomst van het kind in dat gebied is gelegen op de datum van aanvang van de werkzaamheden van de belanghebbende in het betreffende gebied, als bedoeld in [artikel 1.1 onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2019-01-01&g=2019-01-01). De verhoging bestaat uit een basisbedrag en de koopkrachtcompensatie, indien deze positief is, berekend over een door de Minister vastgesteld bedrag gebaseerd op de gemiddelde kinderbijslag per maand voor de eerste twee kinderen. Die bedragen zijn opgenomen in de tabel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2019-01-01&g=2019-01-01).
 
-- b. De aanspraak bestaat voor een kind dat voor het volgen van onderwijs metterwoon in Nederland verblijft en wiens tijd grotendeels in beslag wordt genomen door of in verband met dat onderwijs. Het bedrag van de verhoging wordt vastgesteld met toepassing van tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2019-01-01&g=2019-01-01).
+   - b. De aanspraak bestaat voor een kind dat voor het volgen van onderwijs metterwoon in Nederland verblijft en wiens tijd grotendeels in beslag wordt genomen door of in verband met dat onderwijs. Het bedrag van de verhoging wordt vastgesteld met toepassing van tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2019-01-01&g=2019-01-01).
 
-- c. De aanspraak, bedoeld in onderdeel b, gaat verloren als één van de ouders op wie de onderhoudsplicht voor het kind rust, in Nederland woonachtig is.
+   - c. De aanspraak, bedoeld in onderdeel b, gaat verloren als één van de ouders op wie de onderhoudsplicht voor het kind rust, in Nederland woonachtig is.
 
-- d. De aanspraak, als bedoeld in onderdeel b, gaat niet verloren als gevolg van het samenwonen van het kind met het gezin voor een tijdvak van niet langer dan drie maanden, indien aan de voorwaarden die voor het verkrijgen van de aanspraak op die verhoging zijn gesteld, na het samenwonen weer volledig wordt voldaan.
+   - d. De aanspraak, als bedoeld in onderdeel b, gaat niet verloren als gevolg van het samenwonen van het kind met het gezin voor een tijdvak van niet langer dan drie maanden, indien aan de voorwaarden die voor het verkrijgen van de aanspraak op die verhoging zijn gesteld, na het samenwonen weer volledig wordt voldaan.
 
-- e. Voor een kind waar voor de aanspraak op kinderbijslag pas ontstaat op de eerste dag van het kwartaal volgende op dat waarin het kind is gearriveerd of geboren in het verblijfsgebied van de belanghebbende, gaat de aanspraak op de verhoging in op de dag van aankomst in dat gebied, onderscheidenlijk van de geboorte.
+   - e. Voor een kind waar voor de aanspraak op kinderbijslag pas ontstaat op de eerste dag van het kwartaal volgende op dat waarin het kind is gearriveerd of geboren in het verblijfsgebied van de belanghebbende, gaat de aanspraak op de verhoging in op de dag van aankomst in dat gebied, onderscheidenlijk van de geboorte.
 
-- f. Indien een aangehuwd of pleegkind pas tijdens de tewerkstelling van de belanghebbende in een gebied buiten Nederland tot het gezin van de belanghebbende gaat behoren, gaat de aanspraak op de verhoging van de uitzendtoelage in met ingang van de dag waarop het kind tot het gezin gaat behoren.
+   - f. Indien een aangehuwd of pleegkind pas tijdens de tewerkstelling van de belanghebbende in een gebied buiten Nederland tot het gezin van de belanghebbende gaat behoren, gaat de aanspraak op de verhoging van de uitzendtoelage in met ingang van de dag waarop het kind tot het gezin gaat behoren.
 
-- g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeurs, bedoeld in het eerste lid, voor een kind eindigt, vervalt ten aanzien van dat kind de aanspraak op de verhoging met ingang van de dag waarop die verandering plaatsvindt.
+   - g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeurs, bedoeld in het eerste lid, voor een kind eindigt, vervalt ten aanzien van dat kind de aanspraak op de verhoging met ingang van de dag waarop die verandering plaatsvindt.
 
 #### Verandering toelagen
 
@@ -278,11 +252,11 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 
 1. De belanghebbende heeft bij de aanvang van zijn verblijf in een gebied buiten Nederland aanspraak op:
 
-- –. een tegemoetkoming in de kosten van zijn uitrusting, gelijk aan het bedrag, vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2019-01-01&g=2019-01-01) dat tweejaarlijks wordt bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake en;
+- – een tegemoetkoming in de kosten van zijn uitrusting, gelijk aan het bedrag, vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2019-01-01&g=2019-01-01) dat tweejaarlijks wordt bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake en;
 
-- –. een huurauto van rijkswege en voor rijksrekening voor de eerste twee weken na zijn aankomst in het land van verblijf dan wel tot een maximum van zes weken als de belanghebbende, om reden van transport van zijn eigen auto, daarover niet kan beschikken;
+- – een huurauto van rijkswege en voor rijksrekening voor de eerste twee weken na zijn aankomst in het land van verblijf dan wel tot een maximum van zes weken als de belanghebbende, om reden van transport van zijn eigen auto, daarover niet kan beschikken;
 
-- –. een huurauto voor rijksrekening voor maximaal één week direct voorafgaande aan het vertrek uit het land van verblijf in geval niet meer over een eigen auto kan worden beschikt.
+- – een huurauto voor rijksrekening voor maximaal één week direct voorafgaande aan het vertrek uit het land van verblijf in geval niet meer over een eigen auto kan worden beschikt.
 
 2. De gezinsleden van de belanghebbende hebben tevens aanspraak op een tegemoetkoming in de uitrustingskosten overeenkomstig de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2019-01-01&g=2019-01-01) van deze regeling, ingeval zij hem voor de duur van ten minste 6 achtereenvolgende maanden naar het gebied van verblijf vergezellen.
 
@@ -298,9 +272,9 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 
 - a. in gemeubileerde of gestoffeerde woonruimte:
 
-- 1. bij bedrijfsmatige verhuurders van (vakantie)huizen of -bungalows;
+   - 1. bij bedrijfsmatige verhuurders van (vakantie)huizen of -bungalows;
 
-- 2. bij particulieren;
+   - 2. bij particulieren;
 
 - b. in een pension/hotel exclusief de maaltijden, indien geen woonruimte als bedoeld onder a beschikbaar is;
 
@@ -360,19 +334,19 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 - a.
 
-- 1. een Nederlandse of door Nederland gesubsidieerde school of bij het ontbreken daarvan een door de plaatselijke overheid erkende onderwijsinstelling voor lager of middelbaar onderwijs binnen of nabij de standplaats van belanghebbende die – m.b.t. onderwijsaanbod – aansluiting op Nederlands onderwijs, kosten en plaatselijke omstandigheden door de plaatselijke overheid als passend wordt aangemerkt dan wel een door de Minister daarmee gelijk te stellen instelling;
+   - 1. een Nederlandse of door Nederland gesubsidieerde school of bij het ontbreken daarvan een door de plaatselijke overheid erkende onderwijsinstelling voor lager of middelbaar onderwijs binnen of nabij de standplaats van belanghebbende die – m.b.t. onderwijsaanbod – aansluiting op Nederlands onderwijs, kosten en plaatselijke omstandigheden door de plaatselijke overheid als passend wordt aangemerkt dan wel een door de Minister daarmee gelijk te stellen instelling;
 
-- 2. de op Sint Maarten gevestigde Carribean International Academy;
+   - 2. de op Sint Maarten gevestigde Carribean International Academy;
 
-- 3. een Internationale school.
+   - 3. een Internationale school.
 
-- b. **onderwijs:** alle soorten van onderwijs aan een erkende onderwijsinstelling.
+- b. *onderwijs:* alle soorten van onderwijs aan een erkende onderwijsinstelling.
 
-- c. **onderwijskosten:** voor het onderwijs verschuldigde schoolgelden, met uitzondering van de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.
+- c. *onderwijskosten:* voor het onderwijs verschuldigde schoolgelden, met uitzondering van de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.
 
-- d. **bijkomende kosten:** de voor het onderwijs verschuldigde kosten van registratie, examenkosten en kosten van onderwijsmateriaal. Uitgezonderd zijn de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.
+- d. *bijkomende kosten:* de voor het onderwijs verschuldigde kosten van registratie, examenkosten en kosten van onderwijsmateriaal. Uitgezonderd zijn de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.
 
-- e. **schooljaar:** een aaneengesloten periode van 12 maanden gerekend vanaf de datum van aanvang van het betreffende onderwijs.
+- e. *schooljaar:* een aaneengesloten periode van 12 maanden gerekend vanaf de datum van aanvang van het betreffende onderwijs.
 
 2. De belanghebbende heeft voor elk kind dat met hem metterwoon in een land buiten Nederland verblijft en daar onderwijs geniet aanspraak op een tegemoetkoming in de onderwijskosten en bijkomende kosten. Deze aanspraak bestaat slechts voor zover voor het desbetreffende kind aanspraak bestaat op kinderbijslag of op een tegemoetkoming in de studiekosten. De tegemoetkoming in de onderwijskosten en bijkomende kosten van de Internationale school, als bedoeld in het eerste lid onderdeel a onder 3, worden vergoed tot maximaal de kosten van de gezamenlijke onderwijskosten en bijkomende kosten van een in artikel 5.2. eerste lid, onderdeel a, onder 1, bedoelde onderwijsinstelling.
 
@@ -483,55 +457,3 @@ Deze regeling wordt aangehaald als: Voorzieningenstelsel Buitenlandtoeslagen Rec
 ##### Artikel 9.5
 
 Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 april 2012.
-
-## Bijlage 1
-
-| Land van plaatsing | Categorie & kind | Koopkrachtcomponent | Verblijfscomponent (actueel) | Verplaatsingscomponent |
-| --- | --- | --- | --- | --- |
-|   |   | % | % | € |
-| Curaçao | Gehuwd gezin aldaar | 20,24349 | 0,77036 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,38518 | 467,35 |
-|   | Ongehuwd |   | 0,38518 | 712,15 |
-| Aruba | Gehuwd gezin aldaar | 20,93512 | 0,59984 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,29992 | 467,35 |
-|   | Ongehuwd |   | 0,29992 | 712,15 |
-| St. Maarten | Gehuwd gezin aldaar | 18,76145 | 0,78541 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,39271 | 467,35 |
-|   | Ongehuwd |   | 0,39271 | 712,15 |
-| Bonaire | Gehuwd gezin aldaar | 36,57635 | 0,87500 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,43750 | 467,35 |
-|   | Ongehuwd |   | 0,43750 | 712,15 |
-| St. Eustatius | Gehuwd gezin aldaar | 31,35815 | 0,84157 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,42079 | 467,35 |
-|   | Ongehuwd |   | 0,42079 | 712,15 |
-| Saba | Gehuwd gezin aldaar | 31,35815 | 1,00445 | 756,66 |
-|   | Ieder kind aldaar |   |   | 289,31 |
-|   | Gehuwd gezin niet aldaar |   | 0,50223 | 467,35 |
-|   | Ongehuwd |   | 0,50223 | 712,15 |
-
-## Bijlage 2
-
-### Tabel 1. Verhoging buitenlandtoelage (indien het kind verblijft in het gebied van plaatsing) (ad [art. 3.1, onderdeel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2019-01-01&g=2019-01-01) VBRA)
-
-### Tabel 2. Verhoging buitenlandtoelage (indien het kind niet verblijft in het gebied van plaatsing) ( ad [art. 3.1, onderdeel 3b VUBZK](https://wetten.overheid.nl/jci1.3:c:BWBR0024265&artikel=3.1))
-
-## Bijlage 3
-
-### Uitrustingskosten ad [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=4&artikel=4.6&z=2019-01-01&g=2019-01-01)
-
-De tegemoetkoming in de uitrustingskosten bij plaatsing in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba bedraagt per datum inwerkingtreding van deze regeling:
-
-De tegemoetkoming in de uitrustingskosten wordt niet toegekend bij verhuizing binnen het land van plaatsing in een gebied buiten Nederland.
-
-## Bijlage 4
-
-### Woonlasten ad [artikel 5.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2019-01-01&g=2019-01-01)
-
-**A. De huurplafonds bedragen:**
-
-**B. Huurplafonds ongehuwde belanghebbende:**

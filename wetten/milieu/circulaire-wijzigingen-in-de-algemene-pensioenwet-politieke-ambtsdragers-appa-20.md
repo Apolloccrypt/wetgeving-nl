@@ -1,53 +1,31 @@
 ---
 title: "Circulaire wijzigingen in de Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (Waterschap, enz.)"
 identifier: "BWBR0031216"
-country: "nl"
-rank: "circulaire"
-publication_date: "2011-11-19"
-last_updated: "2011-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031216"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "11650283"
-version_id: "19223912"
-internal_id: "C26821141"
-label_id: "11623294"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031216/2011-11-19/0"
-intitule_bron: "Stcrt.2012-1952"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-01-16"
-intitule_published: "2012-02-03"
-intitule_in_force: "2012-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-1952"
-original_signed_date: "2012-01-16"
-original_published_date: "2012-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-1952"
-entry_into_force_date: "2011-11-19"
-jci_1_3: "jci1.3:c:BWBR0031216&z=2011-11-19&g=2011-11-19"
-jci_1_0: "1.0:c:BWBR0031216&g=2011-11-19"
-citeertitel_status: "redactioneel"
-signed_date: "2012-01-16"
-entry_into_force: "2011-11-19"
+publicatiedatum: 2011-11-19
+laatste_update: 2011-11-19
+status: geldig
+toestand: 2011-11-19
+bron: "https://wetten.overheid.nl/BWBR0031216"
+opgehaald: 2026-08-18
 ---
+
 # Circulaire wijzigingen in de Algemene pensioenwet politieke ambtsdragers (Appa) 2011 (Waterschap, enz.)
 
 ### 1. Algemeen
 
 Op 18 november 2011 is de [Wet aanpassing Appa en enkele andere wetten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030652) gepubliceerd in Staatsblad 2011, 531.
 
-Allereerst is een uitvloeisel van genoemde wetswijziging de verplichte aansluiting van uw waterschap bij het Pensioenregister. In **paragraaf 2** wordt aangegeven wat dit voor uw waterschap betekent. De aansluiting wordt voor uw waterschap verzorgd door Loyalis Maatwerk Administraties (LMA).
+Allereerst is een uitvloeisel van genoemde wetswijziging de verplichte aansluiting van uw waterschap bij het Pensioenregister. In *paragraaf 2* wordt aangegeven wat dit voor uw waterschap betekent. De aansluiting wordt voor uw waterschap verzorgd door Loyalis Maatwerk Administraties (LMA).
 
-Tevens is in de wet verduidelijkt dat de inkomenselementen die in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) worden verrekend, worden bepaald aan de hand van de bepalingen van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). Uit de uitvoeringspraktijk van de Appa en een gerechtelijke uitspraak was namelijk naar voren gekomen dat er onduidelijkheid bestaat over de invulling en afbakening van de verschillende inkomensbegrippen. Dit zou het ongewenste gevolg kunnen hebben dat de verrekening van (neven-) inkomsten voor de politieke ambtsdragers, tijdens en na de ambtsvervulling, niet op dezelfde wijze plaatsvindt. Het gaat dan in het bijzonder om de begrippen winst uit een of meer ondernemingen en belastbaar loon uit tegenwoordige arbeid. In **paragraaf 3** wordt hierop ingegaan.
+Tevens is in de wet verduidelijkt dat de inkomenselementen die in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) worden verrekend, worden bepaald aan de hand van de bepalingen van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). Uit de uitvoeringspraktijk van de Appa en een gerechtelijke uitspraak was namelijk naar voren gekomen dat er onduidelijkheid bestaat over de invulling en afbakening van de verschillende inkomensbegrippen. Dit zou het ongewenste gevolg kunnen hebben dat de verrekening van (neven-) inkomsten voor de politieke ambtsdragers, tijdens en na de ambtsvervulling, niet op dezelfde wijze plaatsvindt. Het gaat dan in het bijzonder om de begrippen winst uit een of meer ondernemingen en belastbaar loon uit tegenwoordige arbeid. In *paragraaf 3* wordt hierop ingegaan.
 
-Voor de uitvoering van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) door een waterschap zijn er verder ook andere relevante wijzigingen als gevolg van deze wet. Hierop wordt in **paragraaf 4** ingegaan. Deze wijzigingen gelden per 19 november 2011. Eén daarvan is de keuzemogelijkheid om de dekking van nabestaandenpensioen ook na deelnemerschap in stand te houden. Hierop wordt ingegaan in paragraaf 4.1. Van uw waterschap wordt op dit punt actie verwacht. Uw waterschap dient betrokkene te informeren.
+Voor de uitvoering van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) door een waterschap zijn er verder ook andere relevante wijzigingen als gevolg van deze wet. Hierop wordt in *paragraaf 4* ingegaan. Deze wijzigingen gelden per 19 november 2011. Eén daarvan is de keuzemogelijkheid om de dekking van nabestaandenpensioen ook na deelnemerschap in stand te houden. Hierop wordt ingegaan in [paragraaf 4.1](https://wetten.overheid.nl/BWBR0031216). Van uw waterschap wordt op dit punt actie verwacht. Uw waterschap dient betrokkene te informeren.
 
-Het waterschap dient degenen waarvan het recht op een Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd **vóór 19 maart 2012** te informeren. Voor betrokkenen waarvan het uitkeringsrecht nà 19 november 2011 eindigt, moet dit in de toekomst binnen vier maanden vóór de beëindiging van de deelneming. Voor het beperkte aantal betrokkenen waarvan het uitkeringsrecht al is geëindigd in de periode gelegen tussen 19 november 2011 en de ontvangstdatum van deze circulaire verwijs ik u naar **paragraaf 4.1**. Deze categorie dient uw waterschap ook zo snel mogelijk te informeren over de uitruilmogelijkheid.
+Het waterschap dient degenen waarvan het recht op een Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd *vóór 19 maart 2012* te informeren. Voor betrokkenen waarvan het uitkeringsrecht nà 19 november 2011 eindigt, moet dit in de toekomst binnen vier maanden vóór de beëindiging van de deelneming. Voor het beperkte aantal betrokkenen waarvan het uitkeringsrecht al is geëindigd in de periode gelegen tussen 19 november 2011 en de ontvangstdatum van deze circulaire verwijs ik u naar *paragraaf 4.1*. Deze categorie dient uw waterschap ook zo snel mogelijk te informeren over de uitruilmogelijkheid.
 
-In **paragraaf 5** wordt gewezen op het belang dat een waterschap toereikende voorzieningen heeft getroffen voor pensioenen van Appa-gerechtigden (in de vorm van bij voorbeeld reserveringen in de begroting). Dit is geen gevolg van [bovengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652), maar ik maak van de gelegenheid gebruik hiervoor aandacht te vragen. Ik heb namelijk signalen ontvangen dat waterschappen niet altijd volledig op de hoogte zijn van de omvang van het wettelijk vereiste bedrag dat in geval van een uitgaande waardeoverdracht moet worden betaald.
+In *paragraaf 5* wordt gewezen op het belang dat een waterschap toereikende voorzieningen heeft getroffen voor pensioenen van Appa-gerechtigden (in de vorm van bij voorbeeld reserveringen in de begroting). Dit is geen gevolg van [bovengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030652), maar ik maak van de gelegenheid gebruik hiervoor aandacht te vragen. Ik heb namelijk signalen ontvangen dat waterschappen niet altijd volledig op de hoogte zijn van de omvang van het wettelijk vereiste bedrag dat in geval van een uitgaande waardeoverdracht moet worden betaald.
 
 ### 2. Pensioenregister
 
@@ -65,11 +43,13 @@ In het uitvoeringscontract van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Voor voormalige voorzitters en dagelijks bestuursleden van waterschappen is in [artikel 134 van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=134) de verrekening van inkomsten met de Appa-uitkering geregeld. In het tweede lid is bepaald welke inkomensbestanddelen in aanmerking komen voor deze verrekening.
 
-Voor de verrekening van neveninkomsten **tijdens** de ambtsvervulling wordt (voor dagelijks bestuursleden) in [artikel 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=44), en (voor voorzitters) in [artikel 48, zesde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=48) verwezen naar de verrekeningsmethode van de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939). In de Wet schadeloosstelling leden Tweede Kamer is een soortgelijk inkomensbegrip als in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) opgenomen, maar in tegenstelling tot de Appa is daarin echter nadrukkelijk opgenomen dat de inkomsten worden bepaald ‘overeenkomstig de regels van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)’.
+Voor de verrekening van neveninkomsten *tijdens* de ambtsvervulling wordt (voor dagelijks bestuursleden) in [artikel 44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=44), en (voor voorzitters) in [artikel 48, zesde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=48) verwezen naar de verrekeningsmethode van de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939). In de Wet schadeloosstelling leden Tweede Kamer is een soortgelijk inkomensbegrip als in de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) opgenomen, maar in tegenstelling tot de Appa is daarin echter nadrukkelijk opgenomen dat de inkomsten worden bepaald ‘overeenkomstig de regels van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)’.
 
 Uit de uitvoeringspraktijk van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) en een gerechtelijke uitspraak (LJN: BK 6647, Centrale Raad van Beroep, 08/3642 Appa) is naar voren gekomen dat dit relatief kleine verschil in redactie kan leiden tot een ongewenst verschil in verrekening van neveninkomsten vóór en na de ambtsvervulling. Vooral bij de begrippen winst uit een of meer ondernemingen en belastbaar loon uit tegenwoordige arbeid bestaat er kennelijk onduidelijkheid over de invulling en afbakening van de verschillende inkomensbegrippen.
 
-Onder ‘winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8)’ kan uitsluitend de door de (voormalige) politieke ambtsdrager **als natuurlijk persoon** genoten winst uit onderneming worden verstaan. Daaronder kan dus niet worden begrepen de winst van een rechtspersoon, nu deze winst als zodanig door de rechtspersoon wordt genoten. Dat betekent dat de winst van een vennootschap niet bij een directeur-grootaandeelhouder van die vennootschap in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) kan worden verrekend als ‘winst uit een of meer ondernemingen’.
+Winst uit onderneming
+
+Onder ‘winst uit een of meer ondernemingen, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8)’ kan uitsluitend de door de (voormalige) politieke ambtsdrager *als natuurlijk persoon* genoten winst uit onderneming worden verstaan. Daaronder kan dus niet worden begrepen de winst van een rechtspersoon, nu deze winst als zodanig door de rechtspersoon wordt genoten. Dat betekent dat de winst van een vennootschap niet bij een directeur-grootaandeelhouder van die vennootschap in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) kan worden verrekend als ‘winst uit een of meer ondernemingen’.
 
 In het bijzonder bij een directeur-grootaandeelhouder van een vennootschap kan dan de vraag opkomen of de zogenoemde ‘gebruikelijkloonregeling’ zoals opgenomen in [artikel 12a Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a), ook in het kader van de Appa onverkort van (overeenkomstige) toepassing is. In de Appa is daarom toegevoegd dat de inkomenselementen die moeten worden verrekend, eveneens moeten worden bepaald aan de hand van de bepalingen van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353). Deze wijziging betekent voor de uitvoering van de Appa het volgende.
 
@@ -79,7 +59,7 @@ Voor meer specifieke informatie over hoe het gebruikelijk loon moet worden vastg
 
 http://www.belastingdienst.nl/zakelijk/loonheffingen/download/
 
-### 4. [Wet aanpassing Appa en enkele andere wetten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030652)
+### 4. Wet aanpassing Appa en enkele andere wetten 2011
 
 De aanpassingen in de Appa die worden besproken in deze paragraaf, hebben als achtergrond de Appa-pensioenen zoveel mogelijk in lijn te brengen met het ABP-reglement.
 
@@ -89,11 +69,11 @@ De aanpassingen in de Appa die worden besproken in deze paragraaf, hebben als ac
 
 Voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) is iemand een deelnemer als hij of zij een politiek ambt vervult waarmee Appa-aanspraken worden opgebouwd of recht heeft op een Appa-uitkering. Dit betekent dat iemand ook deelnemer is als de uitkering op nihil is gesteld wegens verrekening van neveninkomsten.
 
-Het nabestaandenpensioen voor de gevallen waarin de deelnemer vóór de pensioengerechtigde leeftijd overlijdt, is voor zover de pensioengeldige tijd die is gelegen ná 31 juli 2003 risicogedekt. Dat wil zeggen dat uitsluitend een deelnemer aan de Appa-pensioenregeling een dekking heeft voor het nabestaandpensioen. Is hij of zij geen deelnemer in de periode waarin hij of zij nog niet de pensioengerechtigde leeftijd heeft bereikt, dan bestaat er uit hoofde van de Appa geen recht op nabestaandenpensioen. **Vanaf** de pensioengerechtigde leeftijd is er weer wel een dekking voor het nabestaandenpensioen.
+Het nabestaandenpensioen voor de gevallen waarin de deelnemer vóór de pensioengerechtigde leeftijd overlijdt, is voor zover de pensioengeldige tijd die is gelegen ná 31 juli 2003 risicogedekt. Dat wil zeggen dat uitsluitend een deelnemer aan de Appa-pensioenregeling een dekking heeft voor het nabestaandpensioen. Is hij of zij geen deelnemer in de periode waarin hij of zij nog niet de pensioengerechtigde leeftijd heeft bereikt, dan bestaat er uit hoofde van de Appa geen recht op nabestaandenpensioen. *Vanaf* de pensioengerechtigde leeftijd is er weer wel een dekking voor het nabestaandenpensioen.
 
 Wanneer Appa-uitkeringen van verschillende overheden parallel lopen, kan de einddatum daarvan verschillen en dus ook het recht op nabestaandenpensioen op grond van die verschillende Appa-uitkeringen. Waardeoverdracht van pensioenaanspraken kan in dit soort gevallen zinvol zijn voor het veiligstellen van Appa-aanspraken op nabestaandenpensioen die zijn opgebouwd bij andere overheden en waarvan de risicodekking aan het einde van de uitkeringsduur is geëindigd.
 
-Zoals gezegd, heeft genoemde risicodekking echter ook tot gevolg dat de dekking volledig vervalt op het moment dat het deelnemerschap aan de pensioenregeling wordt beëindigd. De nabestaanden van een **gewezen** deelnemer die overlijdt vóór zijn of haar pensioengerechtigde leeftijd, hebben dus géén recht op nabestaandenpensioen, voor zover de pensioengeldige tijd is gelegen ná 31 juli 2003. Voor politieke ambtsdragers doet zich dit voor als het recht op Appa-uitkering eindigt voor de pensioengerechtigde leeftijd.
+Zoals gezegd, heeft genoemde risicodekking echter ook tot gevolg dat de dekking volledig vervalt op het moment dat het deelnemerschap aan de pensioenregeling wordt beëindigd. De nabestaanden van een *gewezen* deelnemer die overlijdt vóór zijn of haar pensioengerechtigde leeftijd, hebben dus géén recht op nabestaandenpensioen, voor zover de pensioengeldige tijd is gelegen ná 31 juli 2003. Voor politieke ambtsdragers doet zich dit voor als het recht op Appa-uitkering eindigt voor de pensioengerechtigde leeftijd.
 
 Deze wetswijziging maakt het mogelijk dat betrokkene bij beëindiging van de deelneming een deel van zijn of haar ouderdomspensioen omzet in nabestaandenpensioen. Op deze wijze kan de dekking voor het nabestaandenpensioen ook na beëindiging van het deelnemerschap in stand blijven. Voor de politieke ambtsdragers bij de waterschappen is dit in [artikel 138b van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=138b) geregeld. Het gaat dan om de aanspraken op ouderdomspensioen op grond van de Appa die betrokkene vanaf 1 augustus 2003 heeft opgebouwd. Zoals eerder uiteengezet was het nabestaandenpensioen voor deze datum nog niet risicogedekt.
 
@@ -101,15 +81,15 @@ Om de omzetting te realiseren wordt een leeftijdsafhankelijke ruilvoet gehanteer
 
 ### 4.1.2. Al geëindigde Appa-uitkeringen: vóór 19 maart 2012 informatie
 
-In het ABP-reglement is de mogelijkheid voor de uitruil opgenomen sinds 1 januari 2008. Als **overgangsrecht** is daarom in [artikel 163c van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=163c) bepaald dat gewezen politieke ambtsdragers bij waterschapen, bij wie het recht op Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd, alsnog om de uitruil van eigen pensioen in nabestaandenpensioen kunnen verzoeken.
+In het ABP-reglement is de mogelijkheid voor de uitruil opgenomen sinds 1 januari 2008. Als *overgangsrecht* is daarom in [artikel 163c van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=163c) bepaald dat gewezen politieke ambtsdragers bij waterschapen, bij wie het recht op Appa-uitkering in de periode van 1 januari 2008 tot 19 november 2011 is geëindigd, alsnog om de uitruil van eigen pensioen in nabestaandenpensioen kunnen verzoeken.
 
-Het **dagelijks bestuur van het waterschap** dat de uitkering verstrekt of laat verstrekken, heeft de plicht de gewezen ambtsdrager te informeren over deze mogelijkheid **in de periode 19 november 2011 tot 19 maart 2012**. Het gewezen lid van het dagelijks bestuur kan tot 19 november 2012 verzoeken tot omzetting van het een deel van het eigen ouderdomspensioen in nabestaandenpensioen.
+Het *dagelijks bestuur van het waterschap* dat de uitkering verstrekt of laat verstrekken, heeft de plicht de gewezen ambtsdrager te informeren over deze mogelijkheid *in de periode 19 november 2011 tot 19 maart 2012*. Het gewezen lid van het dagelijks bestuur kan tot 19 november 2012 verzoeken tot omzetting van het een deel van het eigen ouderdomspensioen in nabestaandenpensioen.
 
 ### 4.1.3. Informatieplicht: binnen vier maanden vóór einde deelneming
 
-Als algemene regelt geldt dat de afgetreden politieke ambtsdrager binnen vier maanden vóór het einde van de uitkeringsduur moet worden geïnformeerd over deze keuzemogelijkheid. Gedurende deze periode van vier maanden is betrokkene nog deelnemer en is er uit dien hoofde nog dekking. Op waterschapsniveau ligt deze informatieplicht bij het **dagelijks bestuur van het waterschap**. In de praktijk zal de uitvoeringsorganisatie hier voor zorgen.
+Als algemene regelt geldt dat de afgetreden politieke ambtsdrager binnen vier maanden vóór het einde van de uitkeringsduur moet worden geïnformeerd over deze keuzemogelijkheid. Gedurende deze periode van vier maanden is betrokkene nog deelnemer en is er uit dien hoofde nog dekking. Op waterschapsniveau ligt deze informatieplicht bij het *dagelijks bestuur van het waterschap*. In de praktijk zal de uitvoeringsorganisatie hier voor zorgen.
 
-De **gewezen politieke ambtsdrager** moet zijn keuze voor uitruil binnen zes weken na ontvangst van deze mededeling kenbaar maken. Gedurende die zes weken heeft betrokkene een premievrije aanspraak op nabestaandenpensioen. Hiermee is bedoeld dat gedurende deze zes weken een tijdelijke risicodekking voor het nabestaandenpensioen ontstaat. Dit is overigens alleen aan de orde als het waterschap minder dan zes weken vóór het einde van de uitkeringsduur of zelfs pas na het einde van de uitkeringsperiode/het einde deelnemerschap betrokkene informeert.
+De *gewezen politieke ambtsdrager* moet zijn keuze voor uitruil binnen zes weken na ontvangst van deze mededeling kenbaar maken. Gedurende die zes weken heeft betrokkene een premievrije aanspraak op nabestaandenpensioen. Hiermee is bedoeld dat gedurende deze zes weken een tijdelijke risicodekking voor het nabestaandenpensioen ontstaat. Dit is overigens alleen aan de orde als het waterschap minder dan zes weken vóór het einde van de uitkeringsduur of zelfs pas na het einde van de uitkeringsperiode/het einde deelnemerschap betrokkene informeert.
 
 Informeert het waterschap betrokkene pas ná het einde van de Appa-uitkering dan bestaat de risicodekking voor betrokkene dus voor de tussenliggende (verstreken) periode tussen de datum van het einde uitkeringsrecht en de datum van de mededeling. Vervolgens wordt de dekking gecontinueerd tot uiterlijk zes weken na de datum van de mededeling. Dat geldt ook voor de beperkte categorie betrokkenen waarvan het uitkeringsrecht is geëindigd in de periode gelegen tussen de inwerkingstredingsdatum (19 november 2011) en de verschijningsdatum van de circulaire.
 
@@ -149,9 +129,15 @@ Hieronder wordt ingegaan op verschillende zaken die kunnen spelen voor een gewez
 
 Besproken wordt wat het amendement-Van Beek betekent in drie onderscheiden situaties.
 
+Gepensioneerd dagelijks bestuurslid wordt dagelijks bestuurslid in hetzelfde waterschap
+
 Leden van het dagelijks bestuur die bij een al ingegaan Appa-pensioen na hun 65e jaar opnieuw dat ambt gaan bekleden in hetzelfde waterschap ontvangen hun Appa-pensioen, maar bouwen op basis van de nieuwe functie geen Appa-pensioen meer op. Zij betalen ook geen pensioenpremie meer.
 
+Gepensioneerd dagelijks bestuurslid wordt ambtsdrager bij een ander waterschap, een provincie of een gemeente
+
 Leden van het dagelijks bestuur die bij een al ingegaan Appa- pensioen na hun 65e jaar opnieuw dat ambt gaan bekleden in een ander waterschap of het ambt van wethouder of gedeputeerde gaan vervullen, ontvangen hun Appa-pensioen, maar bouwen op basis van de nieuwe functie ook Appa-pensioen op. Zij betalen daarvoor pensioenpremie uit hoofde van het nieuwe ambt.
+
+Gepensioneerde dagelijks bestuurslid wordt lid Tweede Kamer, voorzitter Eerste Kamer, (substituut-) Ombudsman of bewindspersoon
 
 Leden van het dagelijks bestuur die bij een al ingegaan Appa- pensioen na hun 65e jaar het ambt gaan bekleden van lid van de Tweede Kamer, voorzitter van de Eerste Kamer1Leden van de Eerste Kamer vallen niet onder de Algemene pensioenwet politieke ambtsdragers. Als een gepensioneerd lid van het dagelijks bestuur lid wordt van de Eerste Kamer heeft dit geen gevolgen voor lopende Appa-pensioenaanspraken., (substituut=) Ombudsman of van minister of staatssecretaris ontvangen hun Appa-pensioen. Zij bouwen in dat nieuwe ambt echter wel weer pensioen op. Zij betalen dan pensioenpremie uit hoofde van het nieuwe ambt. De wetswijziging betreft namelijk alleen de afdeling die het pensioen regelt van gedeputeerden, wethouders en leden van het dagelijks bestuur van een waterschap.
 

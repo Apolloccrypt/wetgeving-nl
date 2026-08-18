@@ -1,40 +1,17 @@
 ---
 title: "Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012"
 identifier: "BWBR0031569"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-05-23"
-last_updated: "2012-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031569"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11735643"
-version_id: "19388352"
-internal_id: "C27125821"
-label_id: "11708304"
-dtd_version: "2.0"
-original_entry_into_force: "2012-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031569/2012-05-23/0"
-intitule_bron: "Stcrt.2012-9773"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-05-21"
-intitule_in_force: "2012-05-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-9773"
-original_published_date: "2012-05-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-9773"
-entry_into_force_date: "2012-05-23"
-jci_1_3: "jci1.3:c:BWBR0031569&z=2012-05-23&g=2012-05-23"
-jci_1_0: "1.0:c:BWBR0031569&g=2012-05-23"
-citeertitel_status: "officieel"
-entry_into_force: "2012-05-23"
+publicatiedatum: 2012-05-23
+laatste_update: 2012-05-23
+status: geldig
+toestand: 2012-05-23
+bron: "https://wetten.overheid.nl/BWBR0031569"
+opgehaald: 2026-08-18
 ---
+
 # Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012
-
-Gelet op artikel 7, 8, 10, 11, 12 en 13 van het Bestuursreglement College voor zorgverzekeringen 2007;
-
-Heeft in zijn vergadering van 3 mei 2012 besloten:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -42,15 +19,15 @@ Heeft in zijn vergadering van 3 mei 2012 besloten:
 
 Dit reglement verstaat onder:
 
-- a. **commissie:** de Adviescommissie Innovatie Zorgberoepen & Opleidingen van het College voor zorgverzekeringen;
+- a. *commissie:* de Adviescommissie Innovatie Zorgberoepen & Opleidingen van het College voor zorgverzekeringen;
 
-- b. **bestuur:** het bestuur van het College voor zorgverzekeringen;
+- b. *bestuur:* het bestuur van het College voor zorgverzekeringen;
 
-- c. **commissielid:** lid van de commissie, bedoeld onder a;
+- c. *commissielid:* lid van de commissie, bedoeld onder a;
 
-- d. **voorzitter:** de voorzitter van de commissie, bedoeld onder a;
+- d. *voorzitter:* de voorzitter van de commissie, bedoeld onder a;
 
-- e. **minister:** de minister van Volksgezondheid, Welzijn en Sport.
+- e. *minister:* de minister van Volksgezondheid, Welzijn en Sport.
 
 ### Hoofdstuk 2. De adviescommissie innovatie zorgberoepen & opleidingen: instelling en taak
 

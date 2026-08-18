@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0049262"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Wet van 6 december 2023, houdende regels inzake de coördinatie ten aanzien van terrorismebestrijding en de bescherming van de nationale veiligheid ten behoeve van het verhogen van de weerbaarheid tegen dreigingen en risico’s (Wet coördinatie terrorismebestrijding en nationale veiligheid)

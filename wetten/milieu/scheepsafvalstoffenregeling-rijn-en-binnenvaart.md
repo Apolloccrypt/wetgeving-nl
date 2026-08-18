@@ -1,48 +1,20 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 8 februari 2012, nr. IENM/BSK-2011/177169, houdende vaststelling van de Scheepsafvalstoffen-regeling Rijn- en binnenvaart"
+citeertitel: "Scheepsafvalstoffenregeling Rijn- en binnenvaart"
 identifier: "BWBR0031351"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-09"
-last_updated: "2025-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031351"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11686753"
-version_id: "30957172"
-internal_id: "C44340141"
-label_id: "11659724"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031351/2025-10-09/0"
-intitule_bron: "Stcrt.2012-2800"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-08"
-intitule_published: "2012-03-15"
-intitule_in_force: "2012-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-32682"
-original_signed_date: "2025-10-07"
-original_published_date: "2025-10-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-32682"
-entry_into_force_date: "2025-10-09"
-jci_1_3: "jci1.3:c:BWBR0031351&z=2025-10-09&g=2025-10-09"
-jci_1_0: "1.0:c:BWBR0031351&g=2025-10-09"
-citeertitel_status: "officieel"
-short_title: "Scheepsafvalstoffenregeling Rijn- en binnenvaart"
-signed_date: "2025-10-07"
-entry_into_force: "2025-10-09"
+publicatiedatum: 2025-10-09
+laatste_update: 2025-10-09
+status: geldig
+toestand: 2025-10-09
+bron: "https://wetten.overheid.nl/BWBR0031351"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 8 februari 2012, nr. IENM/BSK-2011/177169, houdende vaststelling van de Scheepsafvalstoffen-regeling Rijn- en binnenvaart
 
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3), [14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=14), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=20), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=27), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=32), [38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=40), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=45), [53, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53), [62, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=62), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=76), [82, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=82), en [100, van het Scheepsafvalstoffenbesluit Rijn- en binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=100), alsmede de [artikelen 39d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39d), en [39g, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39g);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Scheepsafvalstoffenbesluit Rijn- en binnenvaart (implementatie van internationale voorschriften (Stb. 2012/101)) in werking treedt.
-
-#### Paragraaf 1. **Algemeen**
+#### Paragraaf 1. Algemeen
 
 ##### Artikel 1
 
@@ -56,7 +28,29 @@ De schepen die ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/
 
 - b. vaartuigen die uit hoofde van hun feitelijke bestemming plaatsgebonden zijn.
 
-#### Paragraaf 2. **Betaling van de afvalbeheersbijdrage**
+##### Artikel 2a
+
+1. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) uitgezonderd vaartuigen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor:
+
+- a. het vervoer van containers;
+
+- b. het vervoer van lading die op en van het schip kan worden gereden, stukgoed, bijzonder of zwaar transport, dan wel grote apparaten;
+
+- c. de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen door bevoorradingsschepen;
+
+- d. de verzameling van olie- en vethoudende scheepsafvalstoffen;
+
+- e. het vervoer van vloeibare gassen (ADN, type G);
+
+- f. het vervoer van zwavel in vloeibare toestand, bij 180°C of meer, cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is en
+
+- g. het vervoer van zand, grind of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer;
+
+een en ander indien het schip de genoemde goederen of ladingen ook daadwerkelijk vervoert of als laatste lading heeft vervoerd en niet meerdere soorten lading tegelijkertijd vervoert of als laatste lading heeft vervoerd.
+
+2. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) voorts uitgezonderd vaartuigen voor zover die een lading lossen in een zeeschip, indien dat door de schipper kan worden gestaafd met desbetreffende vervoersdocumenten.
+
+#### Paragraaf 2. Betaling van de afvalbeheerbijdrage
 
 ##### Artikel 3
 
@@ -84,9 +78,9 @@ De gegevens, bedoeld in [artikel 27 van het besluit](https://wetten.overheid.nl/
 
 ##### Artikel 7
 
-1. Het tarief van de afvalbeheerbijdrage bedraagt € 7,50 per 1000 liter gasolie, gemeten bij 15°C.
+1. Het tarief van de afvalbeheerbijdrage bedraagt € 7,50 per 1000 liter gasolie, gemeten bij 15°C.
 
-2. De hoogte van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=2&artikel=5&z=2025-10-09&g=2025-10-09), bedoelde administratiekosten bedraagt € 25,– exclusief belastingen.
+2. De hoogte van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=2&artikel=5&z=2025-10-09&g=2025-10-09), bedoelde administratiekosten bedraagt € 25,– exclusief belastingen.
 
 ##### Artikel 8
 
@@ -112,7 +106,7 @@ De gegevens, bedoeld in [artikel 27 van het besluit](https://wetten.overheid.nl/
 
 3. Het nationaal instituut kan algemene voorwaarden van toepassing verklaren op de rechtsbetrekking met bunkerstations en met eigenaren van schepen.
 
-#### Paragraaf 3. **Olie-afgifteboekje**
+#### Paragraaf 3. Olie-afgifteboekje
 
 ##### Artikel 9
 
@@ -120,13 +114,13 @@ De gegevens, bedoeld in [artikel 27 van het besluit](https://wetten.overheid.nl/
 
 2. Een olie-afgifteboekje wordt verstrekt door de Stichting Afvalstoffen en Vaardocumenten Binnenvaart te Rotterdam.
 
-#### Paragraaf 4. **Nalenssysteem**
+#### Paragraaf 4. Nalenssysteem
 
 ##### Artikel 10
 
 Het nalenssysteem van het schip voldoet aan aanhangsel II bij de Uitvoeringsregeling.
 
-#### Paragraaf 5. **Losstandaarden en lozing van water**
+#### Paragraaf 5. Losstandaarden en lozing van water
 
 ##### Artikel 11
 
@@ -142,7 +136,7 @@ Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goede
 
 ##### Artikel 13
 
-In afwijking van [artikel 42, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42), wordt de restlading zodanig verwijderd, dat de losstandaard ‘vacuümschoon’ wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2025-10-09&g=2025-10-09), alsmede [47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
+In afwijking van [artikel 42, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42), wordt de restlading zodanig verwijderd, dat de losstandaard ‘vacuümschoon’ wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&artikel=14&z=2025-10-09&g=2025-10-09), alsmede [47 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=47), voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
 
 ##### Artikel 14
 
@@ -162,9 +156,9 @@ In afwijking van [artikel 42, eerste lid, van het besluit](https://wetten.overhe
 
 - b. voor de desbetreffende goederensoort in kolom 4 van de tabel een losstandaard is aangegeven; wordt:
 
-- 1°. dat laadruim of die ladingtank gewassen, en
+   - 1°. dat laadruim of die ladingtank gewassen, en
 
-- 2°. afvalwater dat ladingrestanten bevat en zich na het wassen in dat laadruim of die ladingtank bevindt, ingenomen en op de bedrijfsriolering geloosd.
+   - 2°. afvalwater dat ladingrestanten bevat en zich na het wassen in dat laadruim of die ladingtank bevindt, ingenomen en op de bedrijfsriolering geloosd.
 
 2. Het eerste lid is niet van toepassing, indien de voor die bijzondere behandeling benodigde voorzieningen niet beschikbaar zijn op de plaats waar wordt gelost.
 
@@ -198,23 +192,57 @@ De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=5&ar
 
 De losstandaard, bedoeld in [artikel 62, eerste lid, en tweede lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=62), betreft die van kolom 3 van de tabel.
 
-#### Paragraaf 6. **Losverklaring**
+#### Paragraaf 5a. Ontgassingsstandaarden
+
+##### Artikel 20a
+
+Indien in een ladingtank goederen zijn vervoerd waarvan de dampen overeenkomstig de ontgassingsstandaarden en afgifte- en innamevoorschriften van aanhangsel IIIa bij de Uitvoeringsregeling niet in de atmosfeer mogen worden geventileerd, wordt de ladingtank ontgast als bedoeld in dat aanhangsel, behoudens gevallen waarvoor in het besluit is bepaald dat ontgassing niet verplicht is.
+
+#### Paragraaf 6. Losverklaring
+
+##### Artikel 20b
+
+1. De bevoegde autoriteit kan voor een schip in vergelijkbare omstandigheden als genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=1&artikel=2a&z=2025-10-09&g=2025-10-09) in het kader van het uitvoeren van specifiek vervoer ontheffing verlenen van de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53).
+
+2. Degene die lost of degene de overslaginrichting drijft geeft geen toepassing aan [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) indien de schipper hem bewijs van de ontheffing toont.
 
 ##### Artikel 21
 
 Het model voor de losverklaring, bedoeld in [artikel 53, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53), is het model dat is opgenomen in aanhangsel IV bij de Uitvoeringsregeling.
 
-#### Paragraaf 7. **Boordzuiveringsinstallaties**
+#### Paragraaf 7. Boordzuiveringsinstallaties
 
 ##### Artikel 22
 
 Een zuiveringsinstallatie als bedoeld in [artikel 76 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=76) voldoet aan de voorschriften, bedoeld in [hoofdstuk 18 van bijlage 1.1a van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a).
 
+##### Artikel 22a
+
+1. Het effluent dat wordt geloosd uit een zuiveringsinstallatie als bedoeld in [artikel 77, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=77), waarin het bedrijfsafvalwater is behandeld:
+
+- a. mag geen zichtbare verontreiniging in de vorm van drijvende vaste deeltjes of verkleuring van het ontvangende oppervlaktewaterlichaam veroorzaken, en;
+
+- b. voldoet aan de normen uit hoofdstuk 4.1 van resolutie MEPC.159(55).
+
+- c. controle hierop vindt plaats op basis van een willekeurig genomen steekmonster, waarbij wordt getoetst op de volgende eisen:
+
+   - i. BZV5: 40 mg/l;
+
+   - ii. CZV: 180 mg/l;
+
+   - iii. pH: 6–8,5;
+
+   - iv. vrij chloor: 0,5 mg/l.
+
+2. Een zuiveringsinstallatie is voldoende gedimensioneerd, is aantoonbaar in een goede staat van onderhoud en wordt op kundige wijze beheerd.
+
+3. Het uit een zuiveringsinstallatie afkomstige zuiveringsslib mag niet in een oppervlaktewaterlichaam worden gebracht.
+
 ##### Artikel 23
 
 Het tijdstip, bedoeld in [artikel 100 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=100), is voor de in dat artikel genoemde schepen 31 december 2011.
 
-#### Paragraaf 8. **Slotbepalingen**
+#### Paragraaf 8. Slotbepalingen
 
 ##### Artikel 24
 
@@ -231,87 +259,3 @@ Deze regeling treedt in werking tegelijk met besluit van 22 februari 2012 houden
 ##### Artikel 27
 
 Deze regeling wordt aangehaald als: Scheepsafvalstoffenregeling Rijn- en binnenvaart.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) uitgezonderd vaartuigen die, gezien hun type en bouwwijze, geschikt zijn en gebruikt worden voor:
-
-- a. het vervoer van containers;
-
-- b. het vervoer van lading die op en van het schip kan worden gereden, stukgoed, bijzonder of zwaar transport, dan wel grote apparaten;
-
-- c. de levering van brandstoffen, drinkwater en boordvoorraden aan zee- en binnenschepen door bevoorradingsschepen;
-
-- d. de verzameling van olie- en vethoudende scheepsafvalstoffen;
-
-- e. het vervoer van vloeibare gassen (ADN, type G);
-
-- f. het vervoer van zwavel in vloeibare toestand, bij 180°C of meer, cementpoeder, vliegas, en daarmee vergelijkbare goederen die als stortgoed of als verpompbare lading worden vervoerd en waarbij gebruik wordt gemaakt van een systeem voor het laden, lossen en opslaan aan boord dat uitsluitend voor de betreffende goederensoort geëigend is en
-
-- g. het vervoer van zand, grind of baggerspecie vanaf de baggerput of winlocatie naar een loslocatie, voor zover het betreffende schip uitsluitend gebouwd en ingericht is voor dit vervoer;
-
-een en ander indien het schip de genoemde goederen of ladingen ook daadwerkelijk vervoert of als laatste lading heeft vervoerd en niet meerdere soorten lading tegelijkertijd vervoert of als laatste lading heeft vervoerd.
-
-2. Voor wat betreft de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) zijn ingevolge [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=3) voorts uitgezonderd vaartuigen voor zover die een lading lossen in een zeeschip, indien dat door de schipper kan worden gestaafd met desbetreffende vervoersdocumenten.
-
-#### Paragraaf 2. **Betaling van de afvalbeheerbijdrage**
-
-#### Paragraaf 3. **Olie-afgifteboekje**
-
-#### Paragraaf 4. **Nalenssysteem**
-
-#### Paragraaf 5. **Losstandaarden en lozing van water**
-
-#### Paragraaf 5a. Ontgassingsstandaarden
-
-##### Artikel 20a
-
-Indien in een ladingtank goederen zijn vervoerd waarvan de dampen overeenkomstig de ontgassingsstandaarden en afgifte- en innamevoorschriften van aanhangsel IIIa bij de Uitvoeringsregeling niet in de atmosfeer mogen worden geventileerd, wordt de ladingtank ontgast als bedoeld in dat aanhangsel, behoudens gevallen waarvoor in het besluit is bepaald dat ontgassing niet verplicht is.
-
-#### Paragraaf 7. **Boordzuiveringsinstallaties**
-
-#### Paragraaf 8. **Slotbepalingen**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 22a
-
-1. Het effluent dat wordt geloosd uit een zuiveringsinstallatie als bedoeld in [artikel 77, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=77), waarin het bedrijfsafvalwater is behandeld:
-
-- a. mag geen zichtbare verontreiniging in de vorm van drijvende vaste deeltjes of verkleuring van het ontvangende oppervlaktewaterlichaam veroorzaken, en;
-
-- b. voldoet aan de normen uit hoofdstuk 4.1 van resolutie MEPC.159(55).
-
-- c. controle hierop vindt plaats op basis van een willekeurig genomen steekmonster, waarbij wordt getoetst op de volgende eisen:
-
-- i. BZV5: 40 mg/l;
-
-- ii. CZV: 180 mg/l;
-
-- iii. pH: 6–8,5;
-
-- iv. vrij chloor: 0,5 mg/l.
-
-2. Een zuiveringsinstallatie is voldoende gedimensioneerd, is aantoonbaar in een goede staat van onderhoud en wordt op kundige wijze beheerd.
-
-3. Het uit een zuiveringsinstallatie afkomstige zuiveringsslib mag niet in een oppervlaktewaterlichaam worden gebracht.
-
-#### Paragraaf 8. **Slotbepalingen**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Paragraaf 6. **Losverklaring**
-
-##### Artikel 20b
-
-1. De bevoegde autoriteit kan voor een schip in vergelijkbare omstandigheden als genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0031351&paragraaf=1&artikel=2a&z=2025-10-09&g=2025-10-09) in het kader van het uitvoeren van specifiek vervoer ontheffing verlenen van de toepassing van [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53).
-
-2. Degene die lost of degene de overslaginrichting drijft geeft geen toepassing aan [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=53) indien de schipper hem bewijs van de ontheffing toont.
-
-#### Paragraaf 7. **Boordzuiveringsinstallaties**
-
-#### Paragraaf 8. **Slotbepalingen**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

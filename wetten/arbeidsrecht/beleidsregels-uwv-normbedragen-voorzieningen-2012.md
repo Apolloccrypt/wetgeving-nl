@@ -1,55 +1,31 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2012"
 identifier: "BWBR0031174"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-09-01"
-last_updated: "2012-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031174"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11643153"
-version_id: "19210082"
-internal_id: "C26800591"
-label_id: "11615974"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031174/2012-09-01/0"
-intitule_bron: "Stcrt.2012-1284"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-27"
-intitule_published: "2012-01-25"
-intitule_in_force: "2012-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-1284"
-original_signed_date: "2011-12-27"
-original_published_date: "2012-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-1284"
-entry_into_force_date: "2012-01-26"
-jci_1_3: "jci1.3:c:BWBR0031174&z=2012-09-01&g=2012-09-01"
-jci_1_0: "1.0:c:BWBR0031174&g=2012-09-01"
-citeertitel_status: "officieel"
-signed_date: "2011-12-27"
-entry_into_force: "2012-01-26"
+publicatiedatum: 2012-01-26
+laatste_update: 2012-09-01
+status: geldig
+toestand: 2012-09-01
+bron: "https://wetten.overheid.nl/BWBR0031174"
+opgehaald: 2026-08-18
 ---
-# Beleidsregels UWV normbedragen voorzieningen 2012
 
-Besluit:
+# Beleidsregels UWV normbedragen voorzieningen 2012
 
 ##### Artikel 1. : Wettelijk kader
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
-- −. [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
+- − [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
 
-- −. [artikel 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23),
+- − [artikel 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23),
 
-- −. [artikel 19a van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a)
+- − [artikel 19a van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a)
 
-- −. [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15) en [15a van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15a)
+- − [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15) en [15a van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15a)
 
-- −. [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8) worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
+- − [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8) worden vastgesteld op de bedragen, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0031174) bij dit besluit.
 
 ##### Artikel 2. : Kilometervergoeding
 
@@ -144,67 +120,3 @@ Beleidsregels UWV normbedragen voorzieningen 2012.
 ##### Artikel 9. : Datum inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2012.
-
-## Normbedragen voorzieningen met ingang van 1 september 2012 blad
-
-| code | beschrijving | **oud** **t/m 31-08-12** | nieuw per 01-09-12 |
-| --- | --- | --- | --- |
-|   | **Drempelbedrag voorzieningen** |   |   |
-| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend **(kostenbedrag inclusief BTW)** | **€ 124,–** | € 124,– |
-|   | **Motorinvalidenwagen** |   |   |
-| C11 | – in bruikleen, vergoeding per km | **€ 0,12** | € 0,12 |
-| C13 | – in eigen bezit, vergoeding per km | **€ 0,46** | € 0,46 |
-|   | Afweging taxivervoer t.o.v. (bruikleen)auto |   |   |
-| C18-IA | normbedrag **(inclusief BTW)** | **€ 25.800,–** | € 25.800,– |
-|   | **Referentieauto** |   |   |
-| C18-II | normbedrag referentieauto **(aanschafbedrag inclusief BTW)** | **€ 16.700,–** | € 16.700,– |
-| C18-III | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | **€ 33,90** | € 33,90 |
-| C18-IV | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | **€ 29,35** | € 29,35 |
-|   | **Inkomensgrenzen vervoersvoorziening** |   |   |
-| C20-I | inkomensgrens werk- en leefvervoer | **€ 35.200,–** | € 35.200,– |
-| C20-III | inkomensgrens tweede auto | **€ 52.800,–** | € 52.800,– |
-|   | Kilometervergoeding bruikleenauto’s |   |   |
-| C22-BA | brandstof benzine, automatische transmissie, bedrag per km. | **€ 0,13** | € 0,13 |
-| C22-BS | brandstof benzine, handgeschakeld, bedrag per km. | **€ 0,11** | € 0,11 |
-| C22-D | brandstof dieselolie, bedrag per km. | **€ 0,14** | € 0,14 |
-|   | Kilometervergoeding voor auto’s in eigen bezit |   |   |
-| C25-I | personenauto | **€ 0,46** | € 0,46 |
-| C25-V | bestelauto | **€ 0,58** | € 0,58 |
-|   | Aftrek algemeen gebruikelijke kosten per kilometer |   |   |
-| C26-I | beneden inkomensgrens C20-I, resp. C 20-III | **€ 0,10** | € 0,10 |
-| C26-II | boven inkomensgrens C-20-I, resp. C20-III | **€ 0,46** | € 0,46 |
-|   | Taxikostenvergoeding leefvervoer (maximaal) |   |   |
-| C31 | algemeen | **€ 3.770,–** | € 3.770,– |
-| C32 | gehalveerd (visueel gehandicapten) | **€ 1.885,–** | € 1.885,– |
-| C33 | rolstoeltaxikosten | **€ 4.610,–** | € 4.610,– |
-| C34 | Combinatievergoeding | **€ 1.680,–** | € 1.680,– |
-|   | Rijles |   |   |
-| C51 | vaste leskilometervergoeding bij het lesrijden in een eigen auto | **€ 0,36** | € 0,36 |
-|   | Begeleidingskosten |   |   |
-| C71 | maximale vergoeding reiskosten van de begeleider per jaar | **€ 815,–** | € 815,– |
-|   | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties **bedragen exclusief BTW** | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties **bedragen exclusief BTW** |   |
-|   | uurvergoeding voor: |   |   |
-| E17-I | – doventolk (geregistreerd) | **€ 50,35** | € 50,35 |
-| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | **€ 18,52** | € 18,52 |
-|   | vergoeding reizen, bedrag per kilometer, voor: |   |   |
-| **E17-A1** | – doventolk (geregistreerd) | **€ 0,66** | € 0,66 |
-| **E17-A3** | – tolk in opleiding HU, communicatieassistent | **€ 0,29** | € 0,29 |
-|   | Technische apparatuur (maximaal) **aanschafprijzen inclusief BTW** |   |   |
-| G21 | Daisyspeler | **€ 475,–** | € 475,– |
-| G22-I | PC-configuratie (exclusief aanpassingen), één maal per drie jaar | **€ 750,–** | € 750,– |
-| G22-II | eenmalige bijdrage verzekering PC-configuratie voor drie jaar | **€ 200,–** | € 200,– |
-| G23 | Hoortoestel | **€ 700,–** | € 700,– |
-|   | Voorzieningen met beheersaspecten |   |   |
-| I-11 | verstrekkingen in eigendom, kosten minder dan: | **€ 3.400,–** | € 3.400,– |
-| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | **€ 6.800,–** | € 6.800,– |
-| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | **€ 6.800,–** | € 6.800,– |
-|   | Persoonlijke ondersteuning gehandicapten **bedrag vergoeding per uur, exclusief BTW** |   |   |
-| Q1 | persoonlijke ondersteuning (jobcoach) | **€ 78,70** | € 73,30 |
-|   | Intermediaire activiteiten **bedrag vergoeding per uur, exclusief BTW** |   |   |
-| S1 | Uurvergoeding | **€ 18,52** | € 18,52 |
-| S1-R | vergoeding reizen, bedrag per kilometer | **€ 0,29** | € 0,29 |
-| Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen | Voorzieningen voor startende zelfstandigen |
-| Z-1 | Omzetnorm startende zelfstandigen | **€ 78.900,–** | € 78.900,– |
-| Z-2 | Begeleiding van startende zelfstandigen voor en na de start (**bedrag vergoeding inclusief BTW** | **€ 3.550,–** | € 3.550,– |
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

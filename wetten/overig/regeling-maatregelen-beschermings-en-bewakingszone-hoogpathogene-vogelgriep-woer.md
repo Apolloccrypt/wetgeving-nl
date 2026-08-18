@@ -6,10 +6,11 @@ categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-17
 laatste_update: 2026-08-09
-status: geldig
+status: vervallen
+vervallen_op: 2026-08-17
 toestand: 2026-08-09
 bron: "https://wetten.overheid.nl/BWBR0052880"
-opgehaald: 2026-08-15
+opgehaald: 2026-08-18
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 juli 2026, nr. WJZ/107573896, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Woerdense Verlaat (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Woerdense Verlaat 2026)

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van het stimuleringsfonds voor de pers van 30 maart 2012, nr. 21969, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2012"
+citeertitel: "Tijdelijke subsidieregeling persinnovatie 2012"
 identifier: "BWBR0031475"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-04-21"
-last_updated: "2012-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031475"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11713563"
-version_id: "19343292"
-internal_id: "C27027131"
-label_id: "11686324"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031475/2012-04-21/0"
-intitule_bron: "Stcrt.2012-7821"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-30"
-intitule_published: "2012-04-20"
-intitule_in_force: "2012-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7821"
-original_signed_date: "2012-03-30"
-original_published_date: "2012-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7821"
-entry_into_force_date: "2012-04-21"
-jci_1_3: "jci1.3:c:BWBR0031475&z=2012-04-21&g=2012-04-21"
-jci_1_0: "1.0:c:BWBR0031475&g=2012-04-21"
-citeertitel_status: "redactioneel"
-short_title: "Tijdelijke subsidieregeling persinnovatie 2012"
-signed_date: "2012-03-30"
-entry_into_force: "2012-04-21"
+publicatiedatum: 2012-04-21
+laatste_update: 2012-04-21
+status: geldig
+toestand: 2012-04-21
+bron: "https://wetten.overheid.nl/BWBR0031475"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van het stimuleringsfonds voor de pers van 30 maart 2012, nr. 21969, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2012
-
-Gelet op [artikel 8.3, tweede lid, onder a, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -175,5 +149,3 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 ##### Artikel 14. Evaluatie
 
 Binnen 13 weken na afloop van de datum, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031475&hoofdstuk=3&artikel=7&z=2012-04-21&g=2012-04-21), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

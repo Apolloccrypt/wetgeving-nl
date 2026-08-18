@@ -1,64 +1,30 @@
 ---
 title: "Besluit van 11 juli 2012 tot vaststelling van regels over de verstrekking van systematische informatie in het kader van interbestuurlijk toezicht (Besluit verstrekking systematische toezichtinformatie)"
+citeertitel: "Besluit verstrekking systematische toezichtinformatie"
 identifier: "BWBR0031812"
-country: "nl"
-rank: "amvb"
-publication_date: "2012-10-01"
-last_updated: "2012-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031812"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "11799043"
-version_id: "19539652"
-internal_id: "C27401841"
-label_id: "11771264"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031812/2012-10-01/0"
-intitule_bron: "Stb.2012-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-11"
-intitule_published: "2012-07-19"
-intitule_in_force: "2012-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2012-330"
-original_signed_date: "2012-07-11"
-original_published_date: "2012-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-330"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031812&z=2012-10-01&g=2012-10-01"
-jci_1_0: "1.0:c:BWBR0031812&g=2012-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verstrekking systematische toezichtinformatie"
-signed_date: "2012-07-11"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2012-10-01
+status: geldig
+toestand: 2012-10-01
+bron: "https://wetten.overheid.nl/BWBR0031812"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van 11 juli 2012 tot vaststelling van regels over de verstrekking van systematische informatie in het kader van interbestuurlijk toezicht (Besluit verstrekking systematische toezichtinformatie)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2012, 2012-0000227850, DCB/CZW/S&B;
-
-Gelet op de [artikelen 119, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=119), en [124h van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124h) en [117, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=117), en [121f van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121f);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 juni 2012, nr. W04.12.0132/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juli 2012, nr. 2012-0000394262, DCB/CZW/S&B;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de artikelen 1.1 en 1.2 van de Wet revitalisering generiek toezicht in werking treden.
 
 ##### Artikel 1
 
 In dit besluit en op dit besluit gebaseerde regelingen en provinciale verordeningen wordt verstaan onder:
 
-- a. **wettelijke taak:** de wettelijk gevorderde beslissingen, handelingen of resultaten, bedoeld in [artikel 124, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124) of [artikel 121, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121);
+- a. *wettelijke taak:* de wettelijk gevorderde beslissingen, handelingen of resultaten, bedoeld in [artikel 124, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124) of [artikel 121, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121);
 
-- b. **toezicht:** het verzamelen van de informatie door het provinciebestuur of Onze Minister die het aangaat over de vraag of de uitvoering van een wettelijke taak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren;
+- b. *toezicht:* het verzamelen van de informatie door het provinciebestuur of Onze Minister die het aangaat over de vraag of de uitvoering van een wettelijke taak voldoet aan de daaraan gestelde eisen, het zich daarna vormen van een oordeel daarover en het eventueel naar aanleiding daarvan interveniëren;
 
-- c. **toezichtinformatie:** informatie die door het provinciebestuur of Onze Minister die het aangaat van het gemeentebestuur of het provinciebestuur wordt gevraagd ten behoeve van het toezicht;
+- c. *toezichtinformatie:* informatie die door het provinciebestuur of Onze Minister die het aangaat van het gemeentebestuur of het provinciebestuur wordt gevraagd ten behoeve van het toezicht;
 
-- d. **systematische toezichtinformatie:** toezichtinformatie die van meer dan één gemeentebestuur of provinciebestuur wordt gevraagd of die vaker dan één keer wordt gevraagd.
+- d. *systematische toezichtinformatie:* toezichtinformatie die van meer dan één gemeentebestuur of provinciebestuur wordt gevraagd of die vaker dan één keer wordt gevraagd.
 
 ##### Artikel 2
 
@@ -115,5 +81,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [artikelen 1.1](https://
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit verstrekking systematische toezichtinformatie.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

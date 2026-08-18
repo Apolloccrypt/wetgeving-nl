@@ -1,48 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 26 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de overheveling van geriatrische revalidatiezorg van de AWBZ naar de Zorgverzekeringswet"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overheveling van geriatrische revalidatiezorg van AWBZ naar Zorgverzekeringswet)"
 identifier: "BWBR0031752"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-07-04"
-last_updated: "2012-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031752"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11782933"
-version_id: "19491342"
-internal_id: "C27329831"
-label_id: "11755354"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031752/2012-07-04/0"
-intitule_bron: "Stcrt.2012-13406"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-26"
-intitule_published: "2012-07-04"
-intitule_in_force: "2012-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13406"
-original_signed_date: "2012-06-26"
-original_published_date: "2012-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13406"
-entry_into_force_date: "2012-07-04"
-jci_1_3: "jci1.3:c:BWBR0031752&z=2012-07-04&g=2012-07-04"
-jci_1_0: "1.0:c:BWBR0031752&g=2012-07-04"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overheveling van geriatrische revalidatiezorg van AWBZ naar Zorgverzekeringswet)"
-signed_date: "2012-06-26"
-entry_into_force: "2012-07-04"
+publicatiedatum: 2012-07-04
+laatste_update: 2012-07-04
+status: geldig
+toestand: 2012-07-04
+bron: "https://wetten.overheid.nl/BWBR0031752"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 26 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de overheveling van geriatrische revalidatiezorg van de AWBZ naar de Zorgverzekeringswet
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 13 mei 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2010/11, 30 597, nr. 184);
-
-Gelet op het verslag van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 22 juni 2011 (Kamerstukken II 2010/11, 30 597, nr. 200);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -50,25 +20,28 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- a. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- c. **specialist ouderengeneeskunde:** arts die als verpleeghuisarts of specialist ouderengeneeskunde is geregistreerd door de Huisarts en Verpleeghuisarts Registratiecommissie;
+- c. *specialist ouderengeneeskunde:* arts die als verpleeghuisarts of specialist ouderengeneeskunde is geregistreerd door de Huisarts en Verpleeghuisarts Registratiecommissie;
 
-- d. **geriatrische revalidatiezorg:** revalidatiezorg zoals een specialist ouderengeneeskunde pleegt te bieden;
+- d. *geriatrische revalidatiezorg:* revalidatiezorg zoals een specialist ouderengeneeskunde pleegt te bieden;
 
-- e. **dbc:** diagnose-behandelingcombinatie;
+- e. *dbc:* diagnose-behandelingcombinatie;
 
-- f. **zzp:** zorgzwaartepakket;
+- f. *zzp:* zorgzwaartepakket;
 
-- g. **Aanwijzing nhc’s:** [Aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 12 juli 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030282) (Stcrt. 2011, 13319), zoals gewijzigd bij de Aanwijzing houdende wijziging van de aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 8 augustus 2011 (Stcrt. 2011, 16189);
+- g. *Aanwijzing nhc’s:*
+ [Aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 12 juli 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030282) (Stcrt. 2011, 13319), zoals gewijzigd bij de Aanwijzing houdende wijziging van de aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 8 augustus 2011 (Stcrt. 2011, 16189);
 
-- h. **nhc:** normatieve huisvestingscomponent in de zin van de [Aanwijzing nhc’s](https://wetten.overheid.nl/jci1.3:c:BWBR0030282);
+- h. *nhc:* normatieve huisvestingscomponent in de zin van de [Aanwijzing nhc’s](https://wetten.overheid.nl/jci1.3:c:BWBR0030282);
 
-- i. **AWBZ:** [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- i. *AWBZ:*
+ [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- j. **bestaande zorgaanbieder:** zorgaanbieder die geriatrische revalidatiezorg biedt en die daartoe vóór 1 januari 2012 productieafspraken heeft gemaakt met een zorgkantoor.
+- j. *bestaande zorgaanbieder:* zorgaanbieder die geriatrische revalidatiezorg biedt en die daartoe vóór 1 januari 2012 productieafspraken heeft gemaakt met een zorgkantoor.
 
 ##### Artikel 2. werkingssfeer
 
@@ -157,5 +130,3 @@ De zorgautoriteit handhaaft de macrogrens door handhaving van de individuele gre
 ##### Artikel 14. impactanalyse
 
 De zorgautoriteit stuurt mij uiterlijk 1 september 2013 een onderbouwde, kwalitatieve analyse van de (mogelijk) gevolgen van de invoering van het nieuwe bekostigingssysteem, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=2&z=2012-07-04&g=2012-07-04), en de werking van het overgangsregime, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=3&z=2012-07-04&g=2012-07-04).
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

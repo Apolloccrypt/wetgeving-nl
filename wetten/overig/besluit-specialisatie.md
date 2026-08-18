@@ -1,52 +1,18 @@
 ---
 title: "Besluit Specialisatie"
+citeertitel: "Besluit specialisatie"
 identifier: "BWBR0031662"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-06-19"
-last_updated: "2012-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031662"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11757993"
-version_id: "25186672"
-internal_id: "C36016301"
-label_id: "11730374"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031662/2012-06-19/0"
-intitule_bron: "Stcrt.2012-12134"
-intitule_effect: "wijziging"
-intitule_signed: "2012-05-01"
-intitule_published: "2012-06-18"
-intitule_in_force: "2012-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-12134"
-original_signed_date: "2012-05-01"
-original_published_date: "2012-06-18"
-original_effect: "wijziging"
-original_url_id: "stcrt-2012-12134"
-entry_into_force_date: "2012-06-19"
-jci_1_3: "jci1.3:c:BWBR0031662&z=2012-06-19&g=2012-06-19"
-jci_1_0: "1.0:c:BWBR0031662&g=2012-06-19"
-citeertitel_status: "officieel"
-short_title: "Besluit specialisatie"
-signed_date: "2012-05-01"
-entry_into_force: "2012-06-19"
+publicatiedatum: 2012-06-19
+laatste_update: 2012-06-19
+status: geldig
+toestand: 2012-06-19
+bron: "https://wetten.overheid.nl/BWBR0031662"
+opgehaald: 2026-08-18
 ---
+
 # Besluit Specialisatie
-
-Gelet op:
-
-[artikel 2, eerste lid, aanhef en onder d, van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2) (Stb. 2007, 375, hierna: de Wbtv);
-
-[artikel 10, tweede lid, van het Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=10) (Stb. 2008, 555: hierna: het Besluit btv);
-
-de Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 januari 2011 tot wijziging van de Regeling houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Justitie aan de raad voor de rechtsbijstand te ’s-Hertogenbosch betreffende het register beëdigde tolken en vertalers, (Stcrt. 19 januari 2011, 1030);
-
-het advies van het Kwaliteitsinstituut beëdigde tolken en vertalers van 26 maart 2012.
-
-Stelt het volgende Besluit specialisatie vast:
 
 #### Specialisatie
 
@@ -72,7 +38,7 @@ Het verzoek wordt ingediend door middel van het daarvoor bestemde formulier ‘V
 
 Bij het verzoek worden overgelegd:
 
-- –. de stukken waaruit blijkt dat de tolk of vertaler aan de voor vermelding van de specialisatie vereiste competenties voldoet.
+- – de stukken waaruit blijkt dat de tolk of vertaler aan de voor vermelding van de specialisatie vereiste competenties voldoet.
 
 #### Voorwaarden
 

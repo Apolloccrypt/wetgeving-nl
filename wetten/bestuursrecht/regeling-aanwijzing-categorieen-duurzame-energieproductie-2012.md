@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 februari 2012, nr. WJZ/12001252, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling aanwijzing categorieën duurzame energieproductie 2012)"
+citeertitel: "Regeling aanwijzing categorieën duurzame energieproductie 2012"
 identifier: "BWBR0031291"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2014-02-13"
-last_updated: "2014-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031291"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11671533"
-version_id: "19259732"
-internal_id: "C26871491"
-label_id: "11646104"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031291/2014-02-13/0"
-intitule_bron: "Stcrt.2012-3609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-17"
-intitule_published: "2012-02-21"
-intitule_in_force: "2012-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-3609"
-original_signed_date: "2012-02-17"
-original_published_date: "2012-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-3609"
-entry_into_force_date: "2012-03-13"
-jci_1_3: "jci1.3:c:BWBR0031291&z=2014-02-13&g=2014-02-13"
-jci_1_0: "1.0:c:BWBR0031291&g=2014-02-13"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing categorieën duurzame energieproductie 2012"
-signed_date: "2012-02-17"
-entry_into_force: "2012-03-13"
+publicatiedatum: 2012-03-13
+laatste_update: 2014-02-13
+status: geldig
+toestand: 2014-02-13
+bron: "https://wetten.overheid.nl/BWBR0031291"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 februari 2012, nr. WJZ/12001252, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling aanwijzing categorieën duurzame energieproductie 2012)
-
-Gelet op de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=1), [2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), [14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [15, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=25), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [32, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=42), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), [48, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [62, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,31 +20,32 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **algemene uitvoeringsregeling:** de [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563);
+- – *algemene uitvoeringsregeling:* de [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563);
 
-- –. **allesvergisting:** de biologische afbraakreacties van biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van de nummers 410, 420, 500, 550 tot en met 559;
+- – *allesvergisting:* de biologische afbraakreacties van biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van de nummers 410, 420, 500, 550 tot en met 559;
 
-- –. **besluit:** het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
+- – *besluit:* het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735);
 
-- –. **groen gas hub:** een verzameling van productie-installaties voor de productie van hernieuwbaar gas waarvoor voor de invoeding van het hernieuwbaar gas op een gasnet gezamenlijk een of meerdere aansluitingen worden gebruikt, waarmee gezamenlijk hernieuwbare warmte wordt geproduceerd die nuttig wordt gebruikt of waarmee gezamenlijk hernieuwbare elektriciteit wordt geproduceerd die op een elektriciteitsnet of installatie, met uitzondering van de productie-installatie, wordt ingevoed;
+- – *groen gas hub:* een verzameling van productie-installaties voor de productie van hernieuwbaar gas waarvoor voor de invoeding van het hernieuwbaar gas op een gasnet gezamenlijk een of meerdere aansluitingen worden gebruikt, waarmee gezamenlijk hernieuwbare warmte wordt geproduceerd die nuttig wordt gebruikt of waarmee gezamenlijk hernieuwbare elektriciteit wordt geproduceerd die op een elektriciteitsnet of installatie, met uitzondering van de productie-installatie, wordt ingevoed;
 
-- –. **minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- – *minister:* de Minister van Economische Zaken, Landbouw en Innovatie;
 
-- –. **NTA 8003:2008:** de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;
+- – *NTA 8003:2008:* de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;
 
-- –. **richtlijn hernieuwbare energie:** [richtlijn nr. 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEU 2009, L 140);
+- – *richtlijn hernieuwbare energie:*
+ richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140);
 
-- –. **thermische conversie van vaste of vloeibare biomassa:** de omzetting van vaste of vloeibare biomassa door middel van:
+- – *thermische conversie van vaste of vloeibare biomassa:* de omzetting van vaste of vloeibare biomassa door middel van:
 
-- 1°. verbranding,
+   - 1°. verbranding,
 
-- 2°. een andere thermische behandeling dan bedoeld onder 1° ingeval de producten daarvan vervolgens worden verbrand of
+   - 2°. een andere thermische behandeling dan bedoeld onder 1° ingeval de producten daarvan vervolgens worden verbrand of
 
-- 3°. de verbranding van producten die voortkomen uit thermische behandeling;
+   - 3°. de verbranding van producten die voortkomen uit thermische behandeling;
 
-- –. **valhoogte:** het verschil in waterpeil voor en achter de installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht waarbij het maximaal elektrisch ontwerpvermogen van de turbine of de generator wordt gerealiseerd;
+- – *valhoogte:* het verschil in waterpeil voor en achter de installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht waarbij het maximaal elektrisch ontwerpvermogen van de turbine of de generator wordt gerealiseerd;
 
-- –. **vergisting en co-vergisting van dierlijke mest:** de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989), waarbij het restant na vergisting als meststof mag worden verhandeld.
+- – *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989), waarbij het restant na vergisting als meststof mag worden verhandeld.
 
 #### § 2. Algemene bepalingen
 
@@ -100,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Hernieuwbare elektriciteit
 
-#### § 3.1. Waterkracht
+##### § 3.1. Waterkracht
 
 ##### Artikel 4
 
@@ -144,7 +119,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
-#### § 3.2. Afvalwater- of rioolwaterzuiveringsinstallaties
+##### § 3.2. Afvalwater- of rioolwaterzuiveringsinstallaties
 
 ##### Artikel 9
 
@@ -172,7 +147,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
-#### § 3.3. Wind op land
+##### § 3.3. Wind op land
 
 ##### Artikel 14
 
@@ -226,7 +201,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 - c. [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13): € 0,052 per kWh.
 
-#### § 3.4. Wind in meer
+##### § 3.4. Wind in meer
 
 ##### Artikel 19
 
@@ -254,11 +229,11 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), bedraagt € 0,052 per kWh.
 
-#### § 3.5. Vrije categorie
+##### § 3.5. Vrije categorie
 
-#### § 3.5.1. Productie-installaties uitsluitend in vrije categorie
+##### § 3.5.1. Productie-installaties uitsluitend in vrije categorie
 
-#### § 3.5.1.1. Wind op zee
+##### § 3.5.1.1. Wind op zee
 
 ##### Artikel 24
 
@@ -280,7 +255,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [a
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), bedraagt € 0,052623 per kWh.
 
-#### § 3.5.1.2. Fotovoltaïsche zonnepanelen
+##### § 3.5.1.2. Fotovoltaïsche zonnepanelen
 
 ##### Artikel 28
 
@@ -302,7 +277,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [a
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), bedraagt: € 0,057 per kWh.
 
-#### § 3.5.1.3. Osmose
+##### § 3.5.1.3. Osmose
 
 ##### Artikel 32
 
@@ -324,7 +299,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [a
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
-#### § 3.5.1.4. Vrije stromingsenergie
+##### § 3.5.1.4. Vrije stromingsenergie
 
 ##### Artikel 36
 
@@ -346,7 +321,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [a
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
-#### § 3.5.2. Vrije categorie fase 1
+##### § 3.5.2. Vrije categorie fase 1
 
 ##### Artikel 40
 
@@ -376,7 +351,7 @@ worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:0
 
 2. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 40, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.2&artikel=40&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 40: € 0,088 per kWh.
 
-#### § 3.5.3. Vrije categorie fase 2
+##### § 3.5.3. Vrije categorie fase 2
 
 ##### Artikel 42
 
@@ -406,7 +381,7 @@ worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:0
 
 2. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 42, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.3&artikel=42&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 42: € 0,113 per kWh.
 
-#### § 3.5.4. Vrije categorie fase 3
+##### § 3.5.4. Vrije categorie fase 3
 
 ##### Artikel 44
 
@@ -432,7 +407,7 @@ worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 3 september 2012
 
 2. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 44, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.4&artikel=44&z=2014-02-13&g=2014-02-13) bedraagt voor aanvragen ontvangen in de periode, genoemd in artikel 44: € 0,138 per kWh.
 
-#### § 3.5.5. Vrije categorie fases 4 en 5
+##### § 3.5.5. Vrije categorie fases 4 en 5
 
 ##### Artikel 46
 
@@ -462,7 +437,7 @@ worden ontvangen in de periode van 3 september, 17:00 uur, tot 27 december 2012,
 
 - b. van 5 november 2012, 17:00 uur, tot 27 december 2012, 17:00 uur € 0,150 per kWh.
 
-#### § 3.6. Correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
+##### § 3.6. Correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
 
 ##### Artikel 48
 
@@ -470,20 +445,20 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
-| [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13) | 0,052 | 0 |
-| [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13) | 0,052 | 0 |
-| [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13) | 0,058 | 0 |
+| artikel 4, eerste lid | 0,052 | 0 |
+| artikel 9, eerste lid | 0,052 | 0 |
+| artikel 14, eerste lid, onderdeel a | 0,058 | 0 |
 | artikel 14, eerste lid, onderdeel b | 0,059 | 0 |
 | artikel 14, eerste lid, onderdeel c | 0,060 | 0 |
-| [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13) | 0,060 | 0 |
-| [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13) | 0,060964 | 0 |
-| [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13) | 0,057 | 0 |
-| [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13) | 0,052 | 0 |
-| [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13) | 0,052 | 0 |
+| artikel 19, eerste lid | 0,060 | 0 |
+| artikel 24, eerste lid | 0,060964 | 0 |
+| artikel 28, eerste lid | 0,057 | 0 |
+| artikel 32, eerste lid | 0,052 | 0 |
+| artikel 36, eerste lid | 0,052 | 0 |
 
 #### § 4. Hernieuwbaar gas
 
-#### § 4.1. Biomassavergisting
+##### § 4.1. Biomassavergisting
 
 ##### Artikel 49
 
@@ -531,7 +506,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
-#### § 4.2. Biomassavergisting hubs hernieuwbare warmte en hernieuwbare elektriciteit
+##### § 4.2. Biomassavergisting hubs hernieuwbare warmte en hernieuwbare elektriciteit
 
 ##### Artikel 54
 
@@ -587,7 +562,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 2. De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 54, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), bedraagt € 9,6 per GJ.
 
-#### § 4.3. Biomassavergassing
+##### § 4.3. Biomassavergassing
 
 ##### Artikel 59
 
@@ -617,7 +592,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
-#### § 4.4. Verlengde levensduur bestaande installaties
+##### § 4.4. Verlengde levensduur bestaande installaties
 
 ##### Artikel 64
 
@@ -659,9 +634,9 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
-#### § 4.5. Vrije categorie
+##### § 4.5. Vrije categorie
 
-#### § 4.5.1. Vrije categorie fase 1
+##### § 4.5.1. Vrije categorie fase 1
 
 ##### Artikel 69
 
@@ -685,7 +660,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 - b. als bedoeld in [artikel 69, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.5&sub-paragraaf=4.5.1&artikel=69&z=2014-02-13&g=2014-02-13), bedraagt in de periode, genoemd in artikel 69, € 19,444 per GJ.
 
-#### § 4.5.2. Vrije categorie fase 2
+##### § 4.5.2. Vrije categorie fase 2
 
 ##### Artikel 71
 
@@ -701,7 +676,7 @@ worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:0
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.5&sub-paragraaf=4.5.2&artikel=71&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 71: € 0,6207 per Nm3.
 
-#### § 4.5.3. Vrije categorie fases 3 en 4
+##### § 4.5.3. Vrije categorie fases 3 en 4
 
 ##### Artikel 73
 
@@ -715,7 +690,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 - b. van 3 september 2012, 17:00 uur, tot 5 november 2012, 17:00 uur € 0,8965 per Nm3.
 
-#### § 4.6. Correctiebedragen voorschotverlening productie van hernieuwbaar gas
+##### § 4.6. Correctiebedragen voorschotverlening productie van hernieuwbaar gas
 
 ##### Artikel 75
 
@@ -723,17 +698,17 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
-| [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13) | € 0,247 per Nm3 | € 0 per Nm3 |
-| [artikel 54, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13) | € 5,5 per GJ | € 0 per GJ |
+| artikel 49, eerste lid | € 0,247 per Nm3 | € 0 per Nm3 |
+| artikel 54, eerste lid, onderdeel a | € 5,5 per GJ | € 0 per GJ |
 | artikel 54, eerste lid, onderdeel b | € 5,5 per GJ | € 0 per GJ |
 | artikel 54, eerste lid, onderdeel c | € 11,4 per GJ | € 0 per GJ |
 | artikel 54, eerste lid, onderdeel d | € 11,4 per GJ | € 0 per GJ |
-| [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13) | € 0,247 per Nm3 | € 0 per Nm3 |
-| [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13) | € 0,247 per Nm3 | € 0 per Nm3 |
+| artikel 59, eerste lid | € 0,247 per Nm3 | € 0 per Nm3 |
+| artikel 64, eerste lid | € 0,247 per Nm3 | € 0 per Nm3 |
 
 #### § 5. Hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### § 5.1. Ketel vaste biomassa warmte
+##### § 5.1. Ketel vaste biomassa warmte
 
 ##### Artikel 76
 
@@ -765,7 +740,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
-#### § 5.2. Geothermie warmte
+##### § 5.2. Geothermie warmte
 
 ##### Artikel 81
 
@@ -793,7 +768,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), bedraagt € 4,1 per GJ.
 
-#### § 5.3. Geothermie gecombineerde opwekking
+##### § 5.3. Geothermie gecombineerde opwekking
 
 ##### Artikel 86
 
@@ -821,7 +796,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), bedraagt € 6,5 per GJ.
 
-#### § 5.4. Biomassavergisting warmte
+##### § 5.4. Biomassavergisting warmte
 
 ##### Artikel 91
 
@@ -857,7 +832,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
-#### § 5.6. Uitbreiding bestaande afvalverbranding met warmte
+##### § 5.6. Uitbreiding bestaande afvalverbranding met warmte
 
 ##### Artikel 96
 
@@ -891,7 +866,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), bedraagt € 7,8 per GJ.
 
-#### § 5.7. Ketel vloeibare biomassa warmte
+##### § 5.7. Ketel vloeibare biomassa warmte
 
 ##### Artikel 101
 
@@ -921,7 +896,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
-#### § 5.8. Thermische conversie biomassa gecombineerde opwekking
+##### § 5.8. Thermische conversie biomassa gecombineerde opwekking
 
 ##### Artikel 106
 
@@ -973,7 +948,7 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 - b. als bedoeld in [artikel 106, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), bedraagt € 6,6 per GJ.
 
-#### § 5.9. Biomassavergisting gecombineerde opwekking
+##### § 5.9. Biomassavergisting gecombineerde opwekking
 
 ##### Artikel 111
 
@@ -1021,7 +996,7 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 - b. als bedoeld in [artikel 111, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), bedraagt € 9,2 per GJ.
 
-#### § 5.10. Bestaande toepassing biomassa uitbreiding warmte
+##### § 5.10. Bestaande toepassing biomassa uitbreiding warmte
 
 ##### Artikel 116
 
@@ -1077,7 +1052,7 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 - c. als bedoeld in [artikel 116, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), bedraagt € 4,1 per GJ.
 
-#### § 5.11. Zonthermie
+##### § 5.11. Zonthermie
 
 ##### Artikel 121
 
@@ -1105,7 +1080,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), bedraagt € 11,5 per GJ.
 
-#### § 5.12. Verlengde levensduur biomassa gecombineerde opwekking
+##### § 5.12. Verlengde levensduur biomassa gecombineerde opwekking
 
 ##### Artikel 126
 
@@ -1161,9 +1136,9 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 - b. [artikel 126, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), € 7,1 per GJ.
 
-#### § 5.13. Vrije categorie
+##### § 5.13. Vrije categorie
 
-#### § 5.13.1. Vrije categorie fase 1
+##### § 5.13.1. Vrije categorie fase 1
 
 ##### Artikel 131
 
@@ -1185,7 +1160,7 @@ worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:0
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.1&artikel=131&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 131: € 19,444 per GJ.
 
-#### § 5.13.2. Vrije categorie fase 2
+##### § 5.13.2. Vrije categorie fase 2
 
 ##### Artikel 133
 
@@ -1205,7 +1180,7 @@ worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:0
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.2&artikel=133&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 133: € 25,000 per GJ.
 
-#### § 5.13.3. Vrije categorie fase 3
+##### § 5.13.3. Vrije categorie fase 3
 
 ##### Artikel 135
 
@@ -1223,7 +1198,7 @@ worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 3 september 2012
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 135](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.3&artikel=135&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 135: € 30,556 per GJ.
 
-#### § 5.13.4. Vrije categorie fase 4
+##### § 5.13.4. Vrije categorie fase 4
 
 ##### Artikel 137
 
@@ -1233,7 +1208,7 @@ Aanvragen om subsidie als bedoeld in [artikel 106, eerste lid, onderdeel b](http
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.4&artikel=137&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 137: € 36,111 per GJ.
 
-#### § 5.14. Correctiebedragen voorschotverlening productie van hernieuwbare warmte of gecombineerde opwekking
+##### § 5.14. Correctiebedragen voorschotverlening productie van hernieuwbare warmte of gecombineerde opwekking
 
 ##### Artikel 139
 
@@ -1241,19 +1216,19 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
-| [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13) | 9,1 | 0 |
-| [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13) | 5,5 | 0 |
-| [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13) | 8,1 | 0 |
-| [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13) | 9,1 | 0 |
-| [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13) | 10,4 | 0 |
-| [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13) | 9,1 | 0 |
-| [artikel 106, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13) | 7,1 | 0 |
+| artikel 76, eerste lid | 9,1 | 0 |
+| artikel 81, eerste lid | 5,5 | 0 |
+| artikel 86, eerste lid | 8,1 | 0 |
+| artikel 91, eerste lid | 9,1 | 0 |
+| artikel 96, eerste lid | 10,4 | 0 |
+| artikel 101, eerste lid | 9,1 | 0 |
+| artikel 106, eerste lid, onderdeel a | 7,1 | 0 |
 | artikel 106, eerste lid, onderdeel b | 8,1 | 0 |
-| [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13) | 11,0 | 0 |
-| [artikel 116, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13) | 5,5 | 0 |
+| artikel 111, eerste lid | 11,0 | 0 |
+| artikel 116, eerste lid, onderdelen a en c | 5,5 | 0 |
 | artikel 116, eerste lid, onderdeel b | 0 | 0 |
-| [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13) | 13,7 | 0 |
-| [artikel 126, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13) | 11,0 | 0 |
+| artikel 121, eerste lid | 13,7 | 0 |
+| artikel 126, eerste lid, onderdelen a en b | 11,0 | 0 |
 | artikel 126, eerste lid, onderdeel c | 8,7 | 0 |
 
 ##### Artikel 140
@@ -1263,73 +1238,3 @@ Deze regeling treedt in werking met ingang van 13 maart 2012.
 ##### Artikel 141
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2012.
-
-## Bijlage 1. behorende bij [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=2&artikel=2&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-### Uitvoeringsovereenkomst tot zekerheid van het aanvangen van de activiteiten ter zake waarvan meer dan € 400 miljoen subsidie is verleend op basis van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-overwegen:
-
-Partijen komen daartoe het volgende overeen:
-
-### Artikel 1. Tijdige ingebruikname van de productie-installatie
-
-De Ondernemer verplicht zich jegens de Staat de productie-installatie tijdig in gebruik te nemen en wel binnen de in [artikel 61 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61) bedoelde periode of, indien op grond van [artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62) een ontheffing is verleend, binnen de in de ontheffing opgenomen periode.
-
-### Artikel 2. Inhoud en omvang van de garantie
-
-De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel 1 bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen acht weken nadat de Beschikking in werking is getreden ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot 2% van de maximale hoogte van de subsidie, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33) en [49 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model bankgarantie.
-
-### Artikel 3. Vrijval van de garantie
-
-### Artikel 4. Boetes
-
-### Artikel 5. Aanvang en einde Uitvoeringsovereenkomst
-
-### Artikel 6. Domiciliekeuze en berichtgevingen
-
-### Artikel 7. Rechtskeuze
-
-### Artikel 8. Citeertitel
-
-Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst duurzame energieproductie Staat/.....’.
-
-Aldus overeengekomen en in tweevoud ondertekend
-
-te .....
-
-Ondernemer
-
-te 's-Gravenhage op .....
-
-De Minister van Economische Zaken, Landbouw en Innovatie
-
-### Model bankgarantie
-
-DE ONDERGETEKENDE,
-
-....., gevestigd te ....., hierna te noemen de ‘Bank’,
-
-IN AANMERKING NEMENDE DAT:
-
-VERKLAART ALS VOLGT
-
-Getekend te
-
-op
-
-De Bank
-
-## Bijlage 2. behorende bij de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13) en [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-## Bijlage 3. behorende bij de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), [76, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), [91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), [96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), [101, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), [106, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), [111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), [116, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), en [126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-## Bijlage 4. behorende bij de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-## Bijlage 5. behorende bij de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), en [121, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-## Bijlage 6. behorende bij de [artikelen 49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), [59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), en [64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-## Bijlage 7. behorende bij de [artikelen 81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), en [86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), van de Regeling aanwijzing categorieën duurzame energieproductie 2012
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

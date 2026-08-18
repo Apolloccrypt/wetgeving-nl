@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0045574"
-opgehaald: 2026-08-17
+opgehaald: 2026-08-18
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 augustus 2021, nr. 2021-0000130089, tot uitvoering van de Wet inburgering 2021 (Regeling inburgering 2021)

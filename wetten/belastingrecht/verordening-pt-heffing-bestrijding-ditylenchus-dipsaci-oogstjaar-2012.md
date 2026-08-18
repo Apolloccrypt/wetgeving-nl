@@ -1,71 +1,20 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2012 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2012)"
+citeertitel: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2012"
 identifier: "BWBR0031642"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031642"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11754223"
-version_id: "19428092"
-internal_id: "C27229691"
-label_id: "11726664"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031642/2013-09-22/0"
-intitule_bron: "Vbbo.2012-24"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-03-27"
-intitule_published: "2012-06-01"
-intitule_in_force: "2012-06-01"
-intitule_status: "goed"
-original_publication: "Vbbo.2012-24"
-original_signed_date: "2012-03-27"
-original_published_date: "2012-06-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2012-06-01"
-jci_1_3: "jci1.3:c:BWBR0031642&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0031642&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2012"
-signed_date: "2012-03-27"
-entry_into_force: "2012-06-01"
+publicatiedatum: 2012-06-01
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0031642"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2012 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2012)
 
 #### § 1. Begripsbepalingen
-
-#### § 1. Begripsbepalingen
-
-#### § 3. Grondslag en hoogte
-
-##### Artikel 4
-
-1. De heffing die de teler is verschuldigd, wordt opgelegd naar het grondoppervlak waarop de bloembollen worden geteeld.
-
-2. De heffing, bedoeld in het eerste lid, bedraagt ten hoogste voor:
-
-| a. tulpenbollen: | € 0,40 | per are, |
-| --- | --- | --- |
-| b. narcissen: | € 0,34 | per are. |
-
-3. Heffingen beneden de € 25,00 worden niet opgelegd.
-
-#### § 4. Oplegging en inning
-
-#### § 5. Slotbepalingen
-
-Gelet op de Verordening (EG) nr. 479/2008 van de Raad van 29 april 2008 houdende een gemeenschappelijke ordening van de wijnmarkt, tot wijziging van de Verordeningen (EG) nr. 1493/1999, (EG) nr. 1782/2003, (EG) nr.1290/2005, (EG) nr. 3/2008 en tot intrekking van de Verordeningen (EEG) nr. 2392/86 en (EG) nr. 1493/1999;
-
-gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, 15 maart 2012
-
-Besluit:
 
 ##### Artikel 1
 
@@ -94,6 +43,18 @@ Besluit:
 De heffing wordt opgelegd op basis van de aan de Bloembollenkeuringsdienst (BKD) verstrekte gegevens over de in 2011 opgeplante oppervlakte.
 
 #### § 3. Grondslag en hoogte
+
+##### Artikel 4
+
+1. De heffing die de teler is verschuldigd, wordt opgelegd naar het grondoppervlak waarop de bloembollen worden geteeld.
+
+2. De heffing, bedoeld in het eerste lid, bedraagt ten hoogste voor:
+
+| a. tulpenbollen: | € 0,40 | per are, |
+| --- | --- | --- |
+| b. narcissen: | € 0,34 | per are. |
+
+3. Heffingen beneden de € 25,00 worden niet opgelegd.
 
 #### § 4. Oplegging en inning
 

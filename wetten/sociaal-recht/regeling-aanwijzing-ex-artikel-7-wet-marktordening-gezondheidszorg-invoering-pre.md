@@ -1,54 +1,18 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg)"
 identifier: "BWBR0031811"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-09-01"
-last_updated: "2012-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031811"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11798823"
-version_id: "19539492"
-internal_id: "C27460991"
-label_id: "11771114"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031811/2012-09-01/0"
-intitule_bron: "Stcrt.2012-14824"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-11"
-intitule_published: "2012-07-19"
-intitule_in_force: "2012-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-14824"
-original_signed_date: "2012-07-11"
-original_published_date: "2012-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-14824"
-entry_into_force_date: "2012-09-01"
-jci_1_3: "jci1.3:c:BWBR0031811&z=2012-09-01&g=2012-09-01"
-jci_1_0: "1.0:c:BWBR0031811&g=2012-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg)"
-signed_date: "2012-07-11"
-entry_into_force: "2012-09-01"
+publicatiedatum: 2012-09-01
+laatste_update: 2012-09-01
+status: geldig
+toestand: 2012-09-01
+bron: "https://wetten.overheid.nl/BWBR0031811"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 21 februari 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 25 424, nr. 160) als bedoeld in [artikel 8 van de Wet marktordening gezondheidzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gelet op het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 25 424, nr. 175) van 16 april 2012;
-
-Gelet op het voortgezet schriftelijk overleg en het voortgezet algemeen overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 26 april 2012 (Handelingen II 2011/2012, nr. 82, item 8 en item 32);
-
-Gelet op het handelingen van de Eerste Kamer der Staten-Generaal van 6 maart 2012 (Handelingen I 2011/12, nr. 21);
-
-Besluit:
-
-Regeling ook gepubliceerd in Stcrt. 2012/15569.
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -56,25 +20,27 @@ Regeling ook gepubliceerd in Stcrt. 2012/15569.
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **AWBZ:** [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- d. *AWBZ:*
+ [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- e. **geneeskundige geestelijke gezondheidszorg:** zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);
+- e. *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);
 
-- f. **bestuurlijk akkoord:** Bestuurlijk Akkoord toekomst GGZ 2013–2014 (Bijlage bij Kamerstukken II 2011/12, 25 424, nr. 183);
+- f. *bestuurlijk akkoord:* Bestuurlijk Akkoord toekomst GGZ 2013–2014 (Bijlage bij Kamerstukken II 2011/12, 25 424, nr. 183);
 
-- g. **dbc:** diagnose behandeling combinatie;
+- g. *dbc:* diagnose behandeling combinatie;
 
-- h. **gebudgetteerde instelling:** instelling voor geneeskundige geestelijke gezondheidszorg waarvoor de zorgautoriteit de aanvaardbare kosten op basis van AWBZ-parameters heeft vastgesteld;
+- h. *gebudgetteerde instelling:* instelling voor geneeskundige geestelijke gezondheidszorg waarvoor de zorgautoriteit de aanvaardbare kosten op basis van AWBZ-parameters heeft vastgesteld;
 
-- i. **gespecialiseerde instelling:** zeer gespecialiseerde gebudgetteerde instelling als omschreven in afspraak xiv van het bestuurlijk akkoord;
+- i. *gespecialiseerde instelling:* zeer gespecialiseerde gebudgetteerde instelling als omschreven in afspraak xiv van het bestuurlijk akkoord;
 
-- j. **zorg:** zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031811&hoofdstuk=I&artikel=2&z=2012-09-01&g=2012-09-01).
+- j. *zorg:* zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031811&hoofdstuk=I&artikel=2&z=2012-09-01&g=2012-09-01).
 
 ##### Artikel 2. werkingssfeer
 
@@ -153,5 +119,3 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 3. De zorgautoriteit berekent de hoogte van de beschikbaarheidbijdrage 2013 overeenkomstig de berekeningswijze en de parameters die van toepassing zijn in 2012.
 
 4. De zorgautoriteit voorziet erin dat haar beleidsregel vordert dat het verlenen en het vaststellen van de beschikbaarheidbijdrage ambtshalve geschiedt. Bij de verlening van de beschikbaarheidbijdrage voorziet de zorgautoriteit in de verlening van maandelijkse voorschotten.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.

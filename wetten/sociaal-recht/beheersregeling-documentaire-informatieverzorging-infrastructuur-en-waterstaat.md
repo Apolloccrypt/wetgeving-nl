@@ -1,44 +1,18 @@
 ---
 title: "Beheersregeling documentaire informatieverzorging Infrastructuur en Milieu 2012"
+citeertitel: "Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat"
 identifier: "BWBR0031514"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-02-09"
-last_updated: "2018-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031514"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11724003"
-version_id: "19362082"
-internal_id: "C27069281"
-label_id: "11696964"
-dtd_version: "2.0"
-original_entry_into_force: "2012-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031514/2018-02-09/0"
-intitule_bron: "Stcrt.2012-7900"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-13"
-intitule_published: "2012-04-27"
-intitule_in_force: "2012-04-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-7900"
-original_signed_date: "2012-04-13"
-original_published_date: "2012-04-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-7900"
-entry_into_force_date: "2012-04-28"
-jci_1_3: "jci1.3:c:BWBR0031514&z=2018-02-09&g=2018-02-09"
-jci_1_0: "1.0:c:BWBR0031514&g=2018-02-09"
-citeertitel_status: "officieel"
-short_title: "Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat"
-signed_date: "2012-04-13"
-entry_into_force: "2012-04-28"
+publicatiedatum: 2012-04-28
+laatste_update: 2018-02-09
+status: geldig
+toestand: 2018-02-09
+bron: "https://wetten.overheid.nl/BWBR0031514"
+opgehaald: 2026-08-18
 ---
+
 # Beheersregeling documentaire informatieverzorging Infrastructuur en Milieu 2012
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en [artikel 1 van het Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de Secretaris-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) en het [Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951);
-
-Besluit:
 
 ### Hoofdstuk 1. : Begrippenkader
 
@@ -46,97 +20,97 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- 1. **Archief:** geheel van records onder de zorg van de Minister van Infrastructuur en Waterstaat (hierna: IenW).
+- 1. *Archief:* geheel van records onder de zorg van de Minister van Infrastructuur en Waterstaat (hierna: IenW).
 
-- 2. **Archiefbeheer:** het in opdracht van het hoofd van een archiefvormend orgaan, volgens de geldende regelingen, uitvoeren van het dagelijks beheer over records.
+- 2. *Archiefbeheer:* het in opdracht van het hoofd van een archiefvormend orgaan, volgens de geldende regelingen, uitvoeren van het dagelijks beheer over records.
 
-- 3. **Archiveringssysteem:** het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd tot het beheer van records.
+- 3. *Archiveringssysteem:* het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd tot het beheer van records.
 
-- 4. **Archiefbestanddeel:** geheel van records binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen, zoals een dossier, een rubriek, een serie, een zaak, een zaaktype.
+- 4. *Archiefbestanddeel:* geheel van records binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen, zoals een dossier, een rubriek, een serie, een zaak, een zaaktype.
 
-- 5. **Archiefbewaarplaats:** een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats.
+- 5. *Archiefbewaarplaats:* een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats.
 
-- 6. **Archiefvormend orgaan:** de onderdelen van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), een ander orgaan (al dan niet van IenW), dat een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 6. *Archiefvormend orgaan:* de onderdelen van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), een ander orgaan (al dan niet van IenW), dat een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
-- 7. **Authenticiteit:** de mate waarin van een document kan worden aangetoond dat:
+- 7. *Authenticiteit:* de mate waarin van een document kan worden aangetoond dat:
 
-- a). het document is wat het beweert te zijn;
+   - a) het document is wat het beweert te zijn;
 
-- b). het is gemaakt of verzonden door de persoon of organisatie die beweert het te hebben gemaakt of verzonden;
+   - b) het is gemaakt of verzonden door de persoon of organisatie die beweert het te hebben gemaakt of verzonden;
 
-- c). het is gemaakt en verzonden op de tijdstip(pen) als aangegeven op het document.
+   - c) het is gemaakt en verzonden op de tijdstip(pen) als aangegeven op het document.
 
-- 8. **Beheerder:** degene die in opdracht van het hoofd van een archiefvormend orgaan belast is met het informatie- en archiefbeheer.
+- 8. *Beheerder:* degene die in opdracht van het hoofd van een archiefvormend orgaan belast is met het informatie- en archiefbeheer.
 
-- 9. **Beheersregeling:** onderhavige, door de Minister van IenW, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling.
+- 9. *Beheersregeling:* onderhavige, door de Minister van IenW, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling.
 
-- 10. **Beschrijvende inventaris:** een opsomming van de archivistische kenmerken van de afzonderlijke bestanddelen van een archief.
+- 10. *Beschrijvende inventaris:* een opsomming van de archivistische kenmerken van de afzonderlijke bestanddelen van een archief.
 
-- 11. **Betrouwbaarheid:** de mate waarin de inhoud van een archief(onderdeel), dossier of record kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten waarvan het getuigt en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten.
+- 11. *Betrouwbaarheid:* de mate waarin de inhoud van een archief(onderdeel), dossier of record kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten waarvan het getuigt en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten.
 
-- 12. **Conversie:** omzetting of overzetting van gegevens in een ander bestandsformaat.
+- 12. *Conversie:* omzetting of overzetting van gegevens in een ander bestandsformaat.
 
-- 13. **Digitale records:** records die uitsluitend met behulp van besturingsprogrammatuur of toepassingsprogrammatuur geraadpleegd kunnen worden.
+- 13. *Digitale records:* records die uitsluitend met behulp van besturingsprogrammatuur of toepassingsprogrammatuur geraadpleegd kunnen worden.
 
-- 14. **Document:** geheel van samenhangende gegevens, vastgelegd op een gegevensdrager.
+- 14. *Document:* geheel van samenhangende gegevens, vastgelegd op een gegevensdrager.
 
-- 15. **Documentaire informatieverzorging:** alle activiteiten en voorzieningen binnen de organisatie gericht op het in goede, geordende en toegankelijke staat brengen en bewaren van records.
+- 15. *Documentaire informatieverzorging:* alle activiteiten en voorzieningen binnen de organisatie gericht op het in goede, geordende en toegankelijke staat brengen en bewaren van records.
 
-- 16. **Dossier:** het geheel van records dat betrekking heeft op de behandeling van een zaak.
+- 16. *Dossier:* het geheel van records dat betrekking heeft op de behandeling van een zaak.
 
-- 17. **Duurzaamheid:** de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van records is gewaarborgd gedurende de levensduur van een record.
+- 17. *Duurzaamheid:* de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van records is gewaarborgd gedurende de levensduur van een record.
 
-- 18. **Emulatie:** techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie.
+- 18. *Emulatie:* techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie.
 
-- 19. **Gegevensdrager:** materiaal waarop of waarin gegevens worden vastgelegd.
+- 19. *Gegevensdrager:* materiaal waarop of waarin gegevens worden vastgelegd.
 
-- 20. **Hoofd van een archiefvormend orgaan:** het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), en hoofden van andere organen (al dan niet van IenW), onder wiens verantwoordelijkheid een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 20. *Hoofd van een archiefvormend orgaan:* het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenW, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=2), en hoofden van andere organen (al dan niet van IenW), onder wiens verantwoordelijkheid een (deel van een) taak of taken van het ministerie van IenW dan wel opgedragen door de Minister van IenW worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
-- 21. **Leesbaarheid:** de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd.
+- 21. *Leesbaarheid:* de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd.
 
-- 22. **Metagegevens:** gegevens die de context, inhoud, structuur en gedrag van records en hun beheer door de tijd heen beschrijven.
+- 22. *Metagegevens:* gegevens die de context, inhoud, structuur en gedrag van records en hun beheer door de tijd heen beschrijven.
 
-- 23. **Migratie:** de overzetting van gegevens en toepassingsprogrammatuur naar een ander platform.
+- 23. *Migratie:* de overzetting van gegevens en toepassingsprogrammatuur naar een ander platform.
 
-- 24. **Opheffing:** een organisatiewijziging, waarbij de taken van het ministerie of een van zijn archiefvormende organen worden beëindigd of overgedragen aan een ander overheidsorgaan en de verplichtingen als zorgdrager overgaan op de rechtsopvolger.
+- 24. *Opheffing:* een organisatiewijziging, waarbij de taken van het ministerie of een van zijn archiefvormende organen worden beëindigd of overgedragen aan een ander overheidsorgaan en de verplichtingen als zorgdrager overgaan op de rechtsopvolger.
 
-- 25. **Overbrenging:** het overdragen van de zorg en het beheer van records die voor permanente bewaring in aanmerking komen aan het Nationaal Archief.
+- 25. *Overbrenging:* het overdragen van de zorg en het beheer van records die voor permanente bewaring in aanmerking komen aan het Nationaal Archief.
 
-- 26. **Overdracht:** het in beheer overdragen van records aan een ander onderdeel van het ministerie van IenW.
+- 26. *Overdracht:* het in beheer overdragen van records aan een ander onderdeel van het ministerie van IenW.
 
-- 27. **Privatisering:** het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een andere rechtspersoon dan een rechtspersoonlijkheid bezittend overheidsorgaan.
+- 27. *Privatisering:* het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een andere rechtspersoon dan een rechtspersoonlijkheid bezittend overheidsorgaan.
 
-- 28. **Record:** een archiefwaardig document; een archiefstuk in de zin van [artikel 1c, eerste tot en met vierde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
+- 28. *Record:* een archiefwaardig document; een archiefstuk in de zin van [artikel 1c, eerste tot en met vierde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
-- 29. **Reorganisatie:** het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een ander archiefvormend orgaan binnen hetzelfde ministerie dan wel aan een (archiefvormend orgaan van een) ander ministerie.
+- 29. *Reorganisatie:* het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een ander archiefvormend orgaan binnen hetzelfde ministerie dan wel aan een (archiefvormend orgaan van een) ander ministerie.
 
-- 30. **Selectie:** het op grond van een vastgestelde selectielijst bepalen van de bewaar- en vernietigingstermijnen van dossiers en/of records.
+- 30. *Selectie:* het op grond van een vastgestelde selectielijst bepalen van de bewaar- en vernietigingstermijnen van dossiers en/of records.
 
-- 31. **Selectielijst:** een lijst zoals bedoeld in de [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), waarin is opgenomen welke records voor permanente bewaring en welke voor vernietiging na een bepaalde termijn in aanmerking komen.
+- 31. *Selectielijst:* een lijst zoals bedoeld in de [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), waarin is opgenomen welke records voor permanente bewaring en welke voor vernietiging na een bepaalde termijn in aanmerking komen.
 
-- 32. **Structuurplan Documentaire Informatieverzorging:** een actueel, compleet en logisch overzicht van de bij het overheidsorgaan, onderdeel van het ministerie of orgaan berustende records, geordend overeenkomstig de werkprocessen, taak of taken van de organisatie (hierna: SDI).
+- 32. *Structuurplan Documentaire Informatieverzorging:* een actueel, compleet en logisch overzicht van de bij het overheidsorgaan, onderdeel van het ministerie of orgaan berustende records, geordend overeenkomstig de werkprocessen, taak of taken van de organisatie (hierna: SDI).
 
-- 33. **Taak:** het geheel van samenhangende handelingen en werkprocessen van een overheidsorgaan dat zijn grondslag vindt in wet- en regelgeving en algemene bestuursopdrachten.
+- 33. *Taak:* het geheel van samenhangende handelingen en werkprocessen van een overheidsorgaan dat zijn grondslag vindt in wet- en regelgeving en algemene bestuursopdrachten.
 
-- 34. **Toegankelijkheid:** de mate waarin een archief(onderdeel), dossier of record lokaliseerbaar, terugvindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen.
+- 34. *Toegankelijkheid:* de mate waarin een archief(onderdeel), dossier of record lokaliseerbaar, terugvindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen.
 
-- 35. **Toezicht:** het verzamelen van informatie over de archiefvorming, het beheer en de staat van een archief(onderdeel) om vast te stellen of het voldoet aan de daaraan gestelde eisen, om daarover een oordeel te vormen en om naar aanleiding daarvan eventueel te interveniëren.
+- 35. *Toezicht:* het verzamelen van informatie over de archiefvorming, het beheer en de staat van een archief(onderdeel) om vast te stellen of het voldoet aan de daaraan gestelde eisen, om daarover een oordeel te vormen en om naar aanleiding daarvan eventueel te interveniëren.
 
-- 36. **Vernietiging:** het zodanig bewerken van de gegevensdrager dat daarvan of daaruit op geen enkele wijze de gegevens die zij bevatten kunnen worden gereconstrueerd.
+- 36. *Vernietiging:* het zodanig bewerken van de gegevensdrager dat daarvan of daaruit op geen enkele wijze de gegevens die zij bevatten kunnen worden gereconstrueerd.
 
-- 37. **Vervanging:** het vervangen van records door reproducties, op gelijke of andere informatiedragers, die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats kunnen worden gesteld van de originele records, met gelijktijdige vernietiging van het oorspronkelijke record.
+- 37. *Vervanging:* het vervangen van records door reproducties, op gelijke of andere informatiedragers, die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats kunnen worden gesteld van de originele records, met gelijktijdige vernietiging van het oorspronkelijke record.
 
-- 38. **Vervreemding:** het overdragen van zorg en beheer van records aan een andere zorgdrager of civielrechtelijke partij.
+- 38. *Vervreemding:* het overdragen van zorg en beheer van records aan een andere zorgdrager of civielrechtelijke partij.
 
-- 39. **Vindbaarheid:** de mate waarin informatie zodanig wordt bewaard en beheerd, dat zij binnen een redelijke termijn kan worden gevonden.
+- 39. *Vindbaarheid:* de mate waarin informatie zodanig wordt bewaard en beheerd, dat zij binnen een redelijke termijn kan worden gevonden.
 
-- 40. **Volledigheid:** de mate waarin alle informatie met betrekking tot een werkproces, die aanwezig zou moeten zijn volgens het beheerregime dat voor dat proces is vastgesteld, is vastgelegd, geregistreerd en wordt beheerd.
+- 40. *Volledigheid:* de mate waarin alle informatie met betrekking tot een werkproces, die aanwezig zou moeten zijn volgens het beheerregime dat voor dat proces is vastgesteld, is vastgelegd, geregistreerd en wordt beheerd.
 
-- 41. **Waarderen:** het afwegen van waarden en belangen waarmee rekening moet worden gehouden bij het opstellen en vaststellen van een selectielijst.
+- 41. *Waarderen:* het afwegen van waarden en belangen waarmee rekening moet worden gehouden bij het opstellen en vaststellen van een selectielijst.
 
-- 42. **Werkproces:** samenhangend geheel van stappen en procedures in het kader van de uitvoering van een taak.
+- 42. *Werkproces:* samenhangend geheel van stappen en procedures in het kader van de uitvoering van een taak.
 
-- 43. **Zorg:** algemeen bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende records in goede, geordende en toegankelijke staat te bewaren.
+- 43. *Zorg:* algemeen bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende records in goede, geordende en toegankelijke staat te bewaren.
 
 ### Hoofdstuk 2. : Reikwijdte
 
@@ -150,37 +124,37 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Minister:
 
-- a). de Minister van IenW is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van het ministerie.
+- a) de Minister van IenW is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van het ministerie.
 
-- b). de Minister blijft onverminderd verantwoordelijk voor de zorg voor de archieven, ook indien hij dit gemandateerd of, geheel danwel gedeeltelijk, uitbesteed heeft.
+- b) de Minister blijft onverminderd verantwoordelijk voor de zorg voor de archieven, ook indien hij dit gemandateerd of, geheel danwel gedeeltelijk, uitbesteed heeft.
 
 2. Secretaris-Generaal:
 
-- a). de secretaris-generaal van IenW draagt verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
+- a) de secretaris-generaal van IenW draagt verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
 
 3. Hoofddirecteur Financiën, Management en Control is belast met:
 
-- a). de zorg voor governance en de inrichting en kwaliteit van de bedrijfsvoering, waarvan de documentaire informatieverzorging deel uitmaakt;
+- a) de zorg voor governance en de inrichting en kwaliteit van de bedrijfsvoering, waarvan de documentaire informatieverzorging deel uitmaakt;
 
-- b). het voorbereiden van regelingen op het gebied van de documentaire informatieverzorging;
+- b) het voorbereiden van regelingen op het gebied van de documentaire informatieverzorging;
 
-- c). het toezicht op de naleving van de geldende regelingen op het gebied van de documentaire informatieverzorging;
+- c) het toezicht op de naleving van de geldende regelingen op het gebied van de documentaire informatieverzorging;
 
-- d). de vaststelling van kwaliteitseisen aan de documentaire informatieverzorging, metagegevensschema, selectielijsten en standaards;
+- d) de vaststelling van kwaliteitseisen aan de documentaire informatieverzorging, metagegevensschema, selectielijsten en standaards;
 
-- e). coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen het ministerie van IenW zijn gediend.
+- e) coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen het ministerie van IenW zijn gediend.
 
 4. Hoofd van een archiefvormend orgaan:
 
-- a). het hoofd van een archiefvormend orgaan beheert zijn records in overeenstemming met de bepalingen van deze beheersregeling en andere van toepassing zijnde regelgeving;
+- a) het hoofd van een archiefvormend orgaan beheert zijn records in overeenstemming met de bepalingen van deze beheersregeling en andere van toepassing zijnde regelgeving;
 
-- b). het hoofd van een archiefvormend orgaan kan desgewenst nadere aanwijzingen opstellen voor het archiefbeheer binnen zijn onderdeel van het ministerie of orgaan;
+- b) het hoofd van een archiefvormend orgaan kan desgewenst nadere aanwijzingen opstellen voor het archiefbeheer binnen zijn onderdeel van het ministerie of orgaan;
 
-- c). het hoofd van een archiefvormend orgaan zorgt voor de beschikbaarheid van een vastgestelde selectielijst voor de records in zijn archief;
+- c) het hoofd van een archiefvormend orgaan zorgt voor de beschikbaarheid van een vastgestelde selectielijst voor de records in zijn archief;
 
-- d). het hoofd van een archiefvormend orgaan stelt een SDI op voor het archief van het archiefvormend orgaan en onderhoudt dit;
+- d) het hoofd van een archiefvormend orgaan stelt een SDI op voor het archief van het archiefvormend orgaan en onderhoudt dit;
 
-- e). voor het verrichten van de werkzaamheden en het dagelijkse toezicht op het archief stelt het hoofd van een archiefvormend orgaan een beheerder aan met voldoende deskundigheid en aan wie voldoende middelen en deskundig personeel voor de uitoefening van zijn taken beschikbaar worden gesteld.
+- e) voor het verrichten van de werkzaamheden en het dagelijkse toezicht op het archief stelt het hoofd van een archiefvormend orgaan een beheerder aan met voldoende deskundigheid en aan wie voldoende middelen en deskundig personeel voor de uitoefening van zijn taken beschikbaar worden gesteld.
 
 5. Beheerder: de beheerder verricht of doet verrichten, in opdracht van het hoofd van een archiefvormend orgaan en in overeenstemming met de bepalingen van de beheersregeling en andere van toepassing zijnde regelgeving, de feitelijke werkzaamheden op het terrein van de documentaire informatieverzorging.
 
@@ -204,15 +178,15 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het hoofd van een archiefvormend orgaan zorgt ervoor dat van elk van de te bewaren records te allen tijde kan worden vastgesteld:
 
-- a). de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan door het onderdeel van het ministerie of orgaan, een en ander voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het werkproces;
+- a) de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan door het onderdeel van het ministerie of orgaan, een en ander voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het werkproces;
 
-- b). wanneer, en door wie en uit hoofde van welke taak of werkproces het door het onderdeel van het ministerie of orgaan werd ontvangen of opgemaakt;
+- b) wanneer, en door wie en uit hoofde van welke taak of werkproces het door het onderdeel van het ministerie of orgaan werd ontvangen of opgemaakt;
 
-- c). de samenhang met andere door het onderdeel van het ministerie of orgaan ontvangen en opgemaakte records;
+- c) de samenhang met andere door het onderdeel van het ministerie of orgaan ontvangen en opgemaakte records;
 
-- d). de met betrekking tot de records uitgevoerde beheersactiviteiten;
+- d) de met betrekking tot de records uitgevoerde beheersactiviteiten;
 
-- e). de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de records worden bewaard of beheerd.
+- e) de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de records worden bewaard of beheerd.
 
 2. De beheerder koppelt aan records metagegevens volgens het geldende metagegevenschema, aan de hand waarvan te allen tijde de aspecten, bedoeld in het eerste lid, kunnen worden herleid.
 
@@ -240,13 +214,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Dossiervorming geschiedt zodanig,
 
-- a). dat het conform het vastgestelde SDI is;
+- a) dat het conform het vastgestelde SDI is;
 
-- b). dat selectie op eenvoudige wijze kan geschieden in overeenstemming met de vastgestelde selectielijst;
+- b) dat selectie op eenvoudige wijze kan geschieden in overeenstemming met de vastgestelde selectielijst;
 
-- c). dat alle records, die op een zaak betrekking hebben, worden samengevoegd in één dossier, tenzij dat niet doelmatig is;
+- c) dat alle records, die op een zaak betrekking hebben, worden samengevoegd in één dossier, tenzij dat niet doelmatig is;
 
-- d). dat gebruik wordt gemaakt van de vastgestelde dossieromschrijvingen.
+- d) dat gebruik wordt gemaakt van de vastgestelde dossieromschrijvingen.
 
 ##### Artikel 8. Toegankelijkheid
 
@@ -294,13 +268,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij het nemen van een besluit tot vervanging houdt het hoofd van een archiefvormend orgaan rekening met:
 
-- a). de taak van het desbetreffende overheidsorgaan;
+- a) de taak van het desbetreffende overheidsorgaan;
 
-- b). de verhouding van dit overheidsorgaan tot andere overheidsorganen;
+- b) de verhouding van dit overheidsorgaan tot andere overheidsorganen;
 
-- c). de waarde van de records als bestanddeel van het cultureel erfgoed;
+- c) de waarde van de records als bestanddeel van het cultureel erfgoed;
 
-- d). het belang van de in de records voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en voor historisch onderzoek.
+- d) het belang van de in de records voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en voor historisch onderzoek.
 
 Zowel in de aanvraag van de machtiging tot vervanging als in de bekendmaking van het besluit geeft het hoofd van een archiefvormend orgaan aan op welke wijze met a tot en met d rekening is gehouden.
 
@@ -346,19 +320,19 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 - 3. voor zover gebruik is gemaakt van de digitale handtekening:
 
-- a). de houder van de digitale handtekening;
+   - a) de houder van de digitale handtekening;
 
-- b). het moment van validiteit van de digitale handtekening;
+   - b) het moment van validiteit van de digitale handtekening;
 
-- c). de voor validatie verantwoordelijke functionaris;
+   - c) de voor validatie verantwoordelijke functionaris;
 
-- d). voor zover bekend ten tijde van het werkproces: de identificatie van het certificaat van de digitale handtekening.
+   - d) voor zover bekend ten tijde van het werkproces: de identificatie van het certificaat van de digitale handtekening.
 
 - 4. Het hoofd van een archiefvormend orgaan legt de functionele eisen vast ten aanzien van:
 
-- a). de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-02-09) van de beheersregeling;
+   - a) de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2018-02-09&g=2018-02-09) van de beheersregeling;
 
-- b). het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records.
+   - b) het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records.
 
 ##### Artikel 18. Duurzaamheid van digitale records
 
@@ -495,5 +469,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van 
 ##### Artikel 34. Citeertitel
 
 Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

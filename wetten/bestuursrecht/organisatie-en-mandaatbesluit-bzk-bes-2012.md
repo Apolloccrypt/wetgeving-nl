@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012-262679, houdende verlening van mandaat en machtiging van bevoegdheden van het bevoegd gezag ten aanzien van de rijksambtenaren BES (Organisatie en mandaatbesluit BZK-BES 2012)"
+citeertitel: "Organisatie- en mandaatbesluit BZK-BES 2012"
 identifier: "BWBR0031745"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2012-07-04"
-last_updated: "2012-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031745"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11781033"
-version_id: "19488552"
-internal_id: "C27326911"
-label_id: "11753424"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031745/2012-07-04/0"
-intitule_bron: "Stcrt.2012-13366"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-18"
-intitule_published: "2012-07-03"
-intitule_in_force: "2012-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-13366"
-original_signed_date: "2012-06-18"
-original_published_date: "2012-07-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-13366"
-entry_into_force_date: "2012-07-04"
-jci_1_3: "jci1.3:c:BWBR0031745&z=2012-07-04&g=2012-07-04"
-jci_1_0: "1.0:c:BWBR0031745&g=2012-07-04"
-citeertitel_status: "officieel"
-short_title: "Organisatie- en mandaatbesluit BZK-BES 2012"
-signed_date: "2012-06-18"
-entry_into_force: "2012-07-04"
+publicatiedatum: 2012-07-04
+laatste_update: 2012-07-04
+status: geldig
+toestand: 2012-07-04
+bron: "https://wetten.overheid.nl/BWBR0031745"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012-262679, houdende verlening van mandaat en machtiging van bevoegdheden van het bevoegd gezag ten aanzien van de rijksambtenaren BES (Organisatie en mandaatbesluit BZK-BES 2012)
-
-Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
-
-Gelet op [artikel 4 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=4), de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=21), en [33, eerste lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=33), het [Organisatiebesluit BZK 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027412) en het [Mandaatbesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027413);
-
-Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -48,19 +20,19 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *de Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **directeur-generaal:** de directeur-generaal Bestuur en Koninkrijksrelaties;
+- b. *directeur-generaal:* de directeur-generaal Bestuur en Koninkrijksrelaties;
 
-- c. **gemandateerd korpsbeheerder:** de secretaris-generaal van het Ministerie van Veiligheid en Justitie aan wie de bevoegdheden van de Minister van Veiligheid en Justitie als korpsbeheerder van het korps politie Bonaire, Sint Eustatius en Saba en van het brandweerkorps Bonaire, Sint Eustatius en Saba zijn gemandateerd;
+- c. *gemandateerd korpsbeheerder:* de secretaris-generaal van het Ministerie van Veiligheid en Justitie aan wie de bevoegdheden van de Minister van Veiligheid en Justitie als korpsbeheerder van het korps politie Bonaire, Sint Eustatius en Saba en van het brandweerkorps Bonaire, Sint Eustatius en Saba zijn gemandateerd;
 
-- d. **directeur-generaal Politie:** de directeur-generaal Politie van het Ministerie van Veiligheid en Justitie;
+- d. *directeur-generaal Politie:* de directeur-generaal Politie van het Ministerie van Veiligheid en Justitie;
 
-- e. **bevoegdheden van het bevoegd gezag:** de bevoegdheden die bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=21) en [33 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=33) aan het bevoegd gezag toekomen, voor wat betreft de ambtenaren in dienst van de Staat;
+- e. *bevoegdheden van het bevoegd gezag:* de bevoegdheden die bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=21) en [33 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=33) aan het bevoegd gezag toekomen, voor wat betreft de ambtenaren in dienst van de Staat;
 
-- f. **politiekorps:** korps politie Bonaire, Sint Eustatius en Saba;
+- f. *politiekorps:* korps politie Bonaire, Sint Eustatius en Saba;
 
-- g. **brandweerkorps:** het brandweerkorps Bonaire, Sint Eustatius en Saba.
+- g. *brandweerkorps:* het brandweerkorps Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 2
 
@@ -140,7 +112,7 @@ namens deze,
 
 (naam)
 
-**Secretaris-generaal van het Ministerie van Veiligheid en Justitie**
+*Secretaris-generaal van het Ministerie van Veiligheid en Justitie*
 
 2. Voor zover op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031745&paragraaf=4&artikel=6&z=2012-07-04&g=2012-07-04), ondermandaat is verleend vindt in afwijking van het [Mandaatbesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027413) ondertekening van besluiten en stukken op grond van het mandaat van de gemandateerd korpsbeheerder met betrekking tot de bevoegdheden van het bevoegd gezag op basis van dit besluit plaats op de volgende wijze:
 
@@ -173,5 +145,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit BZK-BES 2012.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

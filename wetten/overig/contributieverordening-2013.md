@@ -1,43 +1,17 @@
 ---
 title: "Contributieverordening 2013"
 identifier: "BWBR0031874"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031874"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "11819773"
-version_id: "19585642"
-internal_id: "C27474941"
-label_id: "11791934"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031874/2013-01-01/0"
-intitule_bron: "Stcrt.2012-16149"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-19"
-intitule_published: "2012-08-06"
-intitule_in_force: "2012-08-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-16149"
-original_signed_date: "2012-07-19"
-original_published_date: "2012-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-16149"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0031874&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0031874&g=2013-01-01"
-citeertitel_status: "officieel"
-signed_date: "2012-07-19"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0031874"
+opgehaald: 2026-08-18
 ---
+
 # Contributieverordening 2013
-
-Gelet op de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=24), en [30, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=30),
-
-Stelt de volgende verordening vast:
 
 ##### Artikel 1
 

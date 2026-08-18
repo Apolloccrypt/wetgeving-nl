@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 28 februari 2012, nr. IENM/BSK-2012/27753, houdende instelling Externe Onderzoekscommissie Otapan"
+citeertitel: "Besluit instelling Externe Onderzoekscommissie Otapan"
 identifier: "BWBR0031335"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-03-08"
-last_updated: "2012-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031335"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11683553"
-version_id: "19279662"
-internal_id: "C26899011"
-label_id: "11656234"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031335/2012-03-08/0"
-intitule_bron: "Stcrt.2012-4741"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-28"
-intitule_published: "2012-03-07"
-intitule_in_force: "2012-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-4741"
-original_signed_date: "2012-02-28"
-original_published_date: "2012-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-4741"
-entry_into_force_date: "2012-03-08"
-jci_1_3: "jci1.3:c:BWBR0031335&z=2012-03-08&g=2012-03-08"
-jci_1_0: "1.0:c:BWBR0031335&g=2012-03-08"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Externe Onderzoekscommissie Otapan"
-signed_date: "2012-02-28"
-entry_into_force: "2012-03-08"
+publicatiedatum: 2012-03-08
+laatste_update: 2012-03-08
+status: geldig
+toestand: 2012-03-08
+bron: "https://wetten.overheid.nl/BWBR0031335"
+opgehaald: 2026-08-18
 ---
-# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 28 februari 2012, nr. IENM/BSK-2012/27753, houdende instelling Externe Onderzoekscommissie Otapan
 
-Besluit:
+# Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 28 februari 2012, nr. IENM/BSK-2012/27753, houdende instelling Externe Onderzoekscommissie Otapan
 
 ##### Artikel 1
 
@@ -46,9 +22,9 @@ Er is een Externe Onderzoekscommissie Otapan, hierna te noemen: de commissie.
 
 De commissie heeft tot taak:
 
-- a). in het kader van de affaire met betrekking tot het schip de Otapan en op basis van de aan de Tweede Kamer aangegeven onderzoeksvragen te onderzoeken of binnen het Ministerie van Infrastructuur en Milieu nadere maatregelen noodzakelijk zijn om te voorkomen dat zich ongewenste verbondenheid en verwevenheid kan voordoen binnen het Ministerie, de beleids-, uitvoerings-, en toezichthoudende functies daaronder mede begrepen, waarbij de commissie de beslisrol en de rapportagelijnen aan de bewindslieden mede in ogenschouw neemt, en
+- a) in het kader van de affaire met betrekking tot het schip de Otapan en op basis van de aan de Tweede Kamer aangegeven onderzoeksvragen te onderzoeken of binnen het Ministerie van Infrastructuur en Milieu nadere maatregelen noodzakelijk zijn om te voorkomen dat zich ongewenste verbondenheid en verwevenheid kan voordoen binnen het Ministerie, de beleids-, uitvoerings-, en toezichthoudende functies daaronder mede begrepen, waarbij de commissie de beslisrol en de rapportagelijnen aan de bewindslieden mede in ogenschouw neemt, en
 
-- b). daarover te rapporteren aan de Staatssecretaris van Infrastructuur en Milieu.
+- b) daarover te rapporteren aan de Staatssecretaris van Infrastructuur en Milieu.
 
 ##### Artikel 3
 
@@ -83,5 +59,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit instelling Externe Onderzoekscommissie Otapan.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

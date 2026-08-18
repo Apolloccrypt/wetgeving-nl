@@ -1,83 +1,54 @@
 ---
 title: "Wet van 24 november 2011 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de wet van 24 november 2011 tot wijziging van de Wet milieubeheer in verband met de invoering van de geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Invoeringswet geluidproductieplafonds)"
+citeertitel: "Invoeringswet geluidproductieplafonds"
 identifier: "BWBR0031679"
-country: "nl"
-rank: "wet"
-publication_date: "2012-07-01"
-last_updated: "2012-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031679"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "11761853"
-version_id: "19442682"
-internal_id: "C27272041"
-label_id: "11734274"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031679/2012-07-01/0"
-intitule_bron: "Stb.2012-267"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-24"
-intitule_published: "2012-06-20"
-intitule_in_force: "2012-06-20"
-intitule_status: "goed"
-original_publication: "Stb.2012-267"
-original_signed_date: "2011-11-24"
-original_published_date: "2012-06-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "32625"
-original_url_id: "stb-2012-267"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031679&z=2012-07-01&g=2012-07-01"
-jci_1_0: "1.0:c:BWBR0031679&g=2012-07-01"
-citeertitel_status: "officieel"
-short_title: "Invoeringswet geluidproductieplafonds"
-signed_date: "2011-11-24"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2012-07-01
+status: geldig
+toestand: 2012-07-01
+bron: "https://wetten.overheid.nl/BWBR0031679"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 24 november 2011 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de wet van 24 november 2011 tot wijziging van de Wet milieubeheer in verband met de invoering van de geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Invoeringswet geluidproductieplafonds)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is, met het oog op de invoering van een herzien [hoofdstuk 11 in de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11), de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en enige andere wetten te wijzigen en te voorzien in overgangsrecht;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet geluidhinder.
+*Wijzigt de Wet geluidhinder.*
 
 ##### Artikel II
 
-Wijzigt de Wijzigingswet Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Stb. 2012/266).
+*Wijzigt de Wijzigingswet Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Stb. 2012/266).*
 
 ##### Artikel III
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel IV
 
-Wijzigt de Spoedwet wegverbreding.
+*Wijzigt de Spoedwet wegverbreding.*
 
 ##### Artikel V
 
-Wijzigt de Spoorwegwet.
+*Wijzigt de Spoorwegwet.*
 
 ##### Artikel VI
 
-Wijzigt de Tracéwet.
+*Wijzigt de Tracéwet.*
 
 ##### Artikel VII
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.
+*Wijzigt de Wet bereikbaarheid en mobiliteit.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet luchtvaart.
+*Wijzigt de Wet luchtvaart.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel X
 
@@ -148,5 +119,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XV
 
 Deze wet wordt aangehaald als: Invoeringswet geluidproductieplafonds.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

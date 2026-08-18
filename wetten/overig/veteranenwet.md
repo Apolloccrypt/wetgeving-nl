@@ -1,69 +1,36 @@
 ---
 title: "Wet van 11 februari 2012 tot vaststelling van regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenwet)"
+citeertitel: "Veteranenwet"
 identifier: "BWBR0031401"
-country: "nl"
-rank: "wet"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031401"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11697343"
-version_id: "19311462"
-internal_id: "C30841331"
-label_id: "11670074"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031401/2020-01-01/0"
-intitule_bron: "Stb.2012-133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-11"
-intitule_published: "2012-03-30"
-intitule_in_force: "2014-06-25"
-intitule_status: "goed"
-original_publication: "Stb.2012-133"
-original_signed_date: "2012-02-11"
-original_published_date: "2012-03-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "32414"
-original_url_id: "stb-2012-133"
-entry_into_force_date: "2014-06-28"
-jci_1_3: "jci1.3:c:BWBR0031401&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0031401&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Veteranenwet"
-signed_date: "2012-02-11"
-entry_into_force: "2014-06-28"
+publicatiedatum: 2014-06-28
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0031401"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 11 februari 2012 tot vaststelling van regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenwet)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging hebben genomen dat veteranen het Koninkrijk der Nederlanden als militair hebben gediend onder oorlogsomstandigheden dan wel door deelname aan een missie ter handhaving of bevordering van de internationale rechtsorde;
-
-dat de erkenning door de Nederlandse samenleving van de verdiensten van veteranen en van de mogelijke gevolgen van de inzet als militair voor hun gezondheid, als ook de waardering die aan veteranen op grond van hun verdiensten toekomt, moeten worden bevorderd;
-
-dat de bijzondere zorg die veteranen en hun relaties in verband met de inzet als militair nodig hebben, moet worden gewaarborgd;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goed gevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Defensie;
+- a. *Onze Minister:* Onze Minister van Defensie;
 
-- b. **militair:** de militair ambtenaar in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onder b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1), waaronder mede begrepen de met militair beroepspersoneel gelijkgestelde geestelijke verzorgers;
+- b. *militair:* de militair ambtenaar in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onder b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1), waaronder mede begrepen de met militair beroepspersoneel gelijkgestelde geestelijke verzorgers;
 
-- c. **veteraan:** de militair, de gewezen militair, of de gewezen dienstplichtige, van de Nederlandse krijgsmacht, dan wel van het Koninklijk Nederlandsch Indisch Leger, alsmede degene die behoorde tot het vaarplichtig koopvaardijpersoneel, die het Koninkrijk der Nederlanden heeft gediend onder oorlogsomstandigheden dan wel heeft deelgenomen aan een missie ter handhaving of bevordering van de internationale rechtsorde voor zover deze missie bij regeling van Onze Minister is aangewezen;
+- c. *veteraan:* de militair, de gewezen militair, of de gewezen dienstplichtige, van de Nederlandse krijgsmacht, dan wel van het Koninklijk Nederlandsch Indisch Leger, alsmede degene die behoorde tot het vaarplichtig koopvaardijpersoneel, die het Koninkrijk der Nederlanden heeft gediend onder oorlogsomstandigheden dan wel heeft deelgenomen aan een missie ter handhaving of bevordering van de internationale rechtsorde voor zover deze missie bij regeling van Onze Minister is aangewezen;
 
-- d. **inzet:** het dienen als militair onder oorlogsomstandigheden dan wel het deelnemen als militair aan een missie als bedoeld onder c;
+- d. *inzet:* het dienen als militair onder oorlogsomstandigheden dan wel het deelnemen als militair aan een missie als bedoeld onder c;
 
-- e. **relatie:** de echtgenoot, geregistreerde partner of andere levensgezel en bloed- en aanverwanten in de eerste of tweede graad van de veteraan;
+- e. *relatie:* de echtgenoot, geregistreerde partner of andere levensgezel en bloed- en aanverwanten in de eerste of tweede graad van de veteraan;
 
-- f. **materiële zorg:** de aanspraken van de veteraan op grond van een wettelijk voorschrift op bezoldiging dan wel op uitkeringen en voorzieningen in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit of overlijden als gevolg van de uitoefening van de militaire dienst onder de omstandigheden of bij een missie als bedoeld onder c;
+- f. *materiële zorg:* de aanspraken van de veteraan op grond van een wettelijk voorschrift op bezoldiging dan wel op uitkeringen en voorzieningen in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit of overlijden als gevolg van de uitoefening van de militaire dienst onder de omstandigheden of bij een missie als bedoeld onder c;
 
-- g. **persoonsgegevens, verwerking, verwerkingsverantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4, onderdelen 1, 2 en 7, van de Algemene verordening gegevensbescherming.
+- g. *persoonsgegevens, verwerking, verwerkingsverantwoordelijke:* hetgeen daaronder wordt verstaan in artikel 4, onderdelen 1, 2 en 7, van de Algemene verordening gegevensbescherming.
 
 ##### Artikel 2. Erkenning en waardering voor veteranen
 
@@ -161,13 +128,13 @@ De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c
 
 Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelateerd kunnen zijn aan de uitoefening van de dienst onder omstandigheden en bij een missie als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1&z=2020-01-01&g=2020-01-01).
 
-##### Artikel 11. Wijziging [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
+##### Artikel 11. Wijziging Wet Nationale Ombudsman
 
-Wijzigt de Wet Nationale ombudsman.
+*Wijzigt de Wet Nationale ombudsman.*
 
-##### Artikel 12. Wijziging van de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
+##### Artikel 12. Wijziging van de Militaire ambtenarenwet 1931
 
-Wijzigt de Militaire Ambtenarenwet 1931.
+*Wijzigt de Militaire Ambtenarenwet 1931.*
 
 ##### Artikel 13. Voorhang
 
@@ -184,5 +151,3 @@ Deze wet wordt aangehaald als: Veteranenwet.
 ##### Artikel 16. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

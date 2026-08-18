@@ -1,48 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 21 juni 2012, nr. IvhO/418788, betreffende de uitleg van de termen ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’, bedoeld in de Leerplichtwet 1969, in verband met de toepassing van de bestuurlijke boete als bedoeld in artikel 27 van de Leerplichtwet 1969, bij overtreding van de vrijstellingsgronden van geregeld schoolbezoek als bedoeld in artikel 13a, tweede lid, en artikel 14, derde lid, eerste volzin, van de Leerplichtwet 1969 (Beleidsregel uitleg ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’ bedoeld in de Leerplichtwet 1969)"
+citeertitel: "Beleidsregel uitleg ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’ bedoeld in de Leerplichtwet 1969"
 identifier: "BWBR0031787"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-11-25"
-last_updated: "2020-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031787"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "11790653"
-version_id: "19505212"
-internal_id: "C27350971"
-label_id: "11762884"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031787/2020-11-25/0"
-intitule_bron: "Stcrt.2012-14773"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-21"
-intitule_published: "2012-07-16"
-intitule_in_force: "2012-07-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-14773"
-original_signed_date: "2012-06-21"
-original_published_date: "2012-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-14773"
-entry_into_force_date: "2012-07-01"
-jci_1_3: "jci1.3:c:BWBR0031787&z=2020-11-25&g=2020-11-25"
-jci_1_0: "1.0:c:BWBR0031787&g=2020-11-25"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel uitleg ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’ bedoeld in de Leerplichtwet 1969"
-signed_date: "2012-06-21"
-entry_into_force: "2012-07-01"
+publicatiedatum: 2012-07-01
+laatste_update: 2020-11-25
+status: geldig
+toestand: 2020-11-25
+bron: "https://wetten.overheid.nl/BWBR0031787"
+opgehaald: 2026-08-18
 ---
+
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 21 juni 2012, nr. IvhO/418788, betreffende de uitleg van de termen ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’, bedoeld in de Leerplichtwet 1969, in verband met de toepassing van de bestuurlijke boete als bedoeld in artikel 27 van de Leerplichtwet 1969, bij overtreding van de vrijstellingsgronden van geregeld schoolbezoek als bedoeld in artikel 13a, tweede lid, en artikel 14, derde lid, eerste volzin, van de Leerplichtwet 1969 (Beleidsregel uitleg ‘specifieke aard van het beroep’ en ‘andere gewichtige omstandigheden’ bedoeld in de Leerplichtwet 1969)
-
-Handelend in overeenstemming met de Minister van Economische Zaken, Landbouw & Innovatie (EL&I) voor zover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving;
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Specifieke aard van het beroep
 
@@ -56,66 +26,64 @@ Op grond van [artikel 11, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 In de hierna te noemen gevallen kan, zolang het totaal aan een jongere te verlenen verlof het aantal van 10 verlofdagen in een schooljaar niet te boven gaat, verlof worden gegeven voor de hierna genoemde periode:
 
-- •. Voor verhuizing: maximaal 1 schooldag;
+- • Voor verhuizing: maximaal 1 schooldag;
 
-- •. voor het voldoen aan wettelijke verplichtingen, voor zover dit niet buiten de lesuren kan geschieden: maximaal 10 dagen;
+- • voor het voldoen aan wettelijke verplichtingen, voor zover dit niet buiten de lesuren kan geschieden: maximaal 10 dagen;
 
-- •. voor het bijwonen van het huwelijk van bloed- of aanverwant tot en met de 3e graad: in Nederland maximaal 2 schooldagen indien er ver gereisd moet worden, anders maximaal 1 dag, in het buitenland maximaal 5 schooldagen. **Soort bewijs: trouwkaart (indien twijfelachtig kopie trouwakte);**
+- • voor het bijwonen van het huwelijk van bloed- of aanverwant tot en met de 3e graad: in Nederland maximaal 2 schooldagen indien er ver gereisd moet worden, anders maximaal 1 dag, in het buitenland maximaal 5 schooldagen. *Soort bewijs: trouwkaart (indien twijfelachtig kopie trouwakte);*
 
-- •. bij ernstige levensbedreigende ziekte zonder uitzicht op herstel van bloed- of aanverwant tot en met de 3e graad: maximaal 10 dagen. **Soort bewijs: doktersverklaring waar ernstige ziekte uit blijkt;**
+- • bij ernstige levensbedreigende ziekte zonder uitzicht op herstel van bloed- of aanverwant tot en met de 3e graad: maximaal 10 dagen. *Soort bewijs: doktersverklaring waar ernstige ziekte uit blijkt;*
 
-- •. bij overlijden van bloed- of aanverwant:
+- • bij overlijden van bloed- of aanverwant:
 
-- –. In de 1e graad maximaal 5 schooldagen;
+   - – In de 1e graad maximaal 5 schooldagen;
 
-- –. In de 2e graad maximaal 2 schooldagen;
+   - – In de 2e graad maximaal 2 schooldagen;
 
-- –. In de 3e en de 4e graad maximaal 1 schooldag;
+   - – In de 3e en de 4e graad maximaal 1 schooldag;
 
-- –. In het buitenland: 1e t/m 4e graad maximaal 5 schooldagen. **Soort bewijs: rouwkaart (indien twijfelachtig akte van overlijden);**
+   - – In het buitenland: 1e t/m 4e graad maximaal 5 schooldagen. *Soort bewijs: rouwkaart (indien twijfelachtig akte van overlijden);*
 
-- •. bij 25, 40 of 50 jarig ambtsjubileum en het 12 ½, 25, 40, 50 en 60 jarig huwelijksjubileum van ouder(s)/verzorger(s) of grootouders: maximaal 1 schooldag;
+- • bij 25, 40 of 50 jarig ambtsjubileum en het 12 ½, 25, 40, 50 en 60 jarig huwelijksjubileum van ouder(s)/verzorger(s) of grootouders: maximaal 1 schooldag;
 
-- •. voor andere naar het oordeel van het hoofd van de school/instelling gewichtige omstandigheden: maximaal 10 dagen.
+- • voor andere naar het oordeel van het hoofd van de school/instelling gewichtige omstandigheden: maximaal 10 dagen.
 
 Daarbij geldt het volgende:
 
-- •. Verlofaanvragen dienen schriftelijk en binnen een redelijke termijn bij het hoofd van de school/instelling te worden ingediend. Indien de aanvraag niet binnen een redelijke termijn is ingediend, moet door de aanvrager worden beargumenteerd waarom dit niet is gebeurd;
+- • Verlofaanvragen dienen schriftelijk en binnen een redelijke termijn bij het hoofd van de school/instelling te worden ingediend. Indien de aanvraag niet binnen een redelijke termijn is ingediend, moet door de aanvrager worden beargumenteerd waarom dit niet is gebeurd;
 
-- •. er kunnen voorwaarden gesteld worden aan het toekennen van verlof, bijvoorbeeld het achteraf tonen van bepaalde bescheiden;
+- • er kunnen voorwaarden gesteld worden aan het toekennen van verlof, bijvoorbeeld het achteraf tonen van bepaalde bescheiden;
 
-- •. de toestemming of afwijzing moet schriftelijk worden vastgelegd en in geval van afwijzing goed worden gemotiveerd door het hoofd van de school/instelling;
+- • de toestemming of afwijzing moet schriftelijk worden vastgelegd en in geval van afwijzing goed worden gemotiveerd door het hoofd van de school/instelling;
 
-- •. verlof moet altijd zo kort mogelijk worden gehouden;
+- • verlof moet altijd zo kort mogelijk worden gehouden;
 
-- •. alle aanvragen dienen, voor zover in redelijkerwijze mogelijk, te worden vergezeld van bewijsmiddelen;
+- • alle aanvragen dienen, voor zover in redelijkerwijze mogelijk, te worden vergezeld van bewijsmiddelen;
 
-- •. verlof vanwege gewichtige omstandigheden kan ook worden toegekend in de eerste twee weken na de zomervakantie, hier moet echter terughoudend mee worden omgegaan.
+- • verlof vanwege gewichtige omstandigheden kan ook worden toegekend in de eerste twee weken na de zomervakantie, hier moet echter terughoudend mee worden omgegaan.
 
 In de volgende gevallen wordt in ieder geval geen extra verlof gegeven:
 
-- •. Familiebezoek in het buitenland;
+- • Familiebezoek in het buitenland;
 
-- •. goedkope tickets in het laagseizoen;
+- • goedkope tickets in het laagseizoen;
 
-- •. omdat tickets al gekocht zijn of omdat er geen tickets meer zijn in de vakantieperiode;
+- • omdat tickets al gekocht zijn of omdat er geen tickets meer zijn in de vakantieperiode;
 
-- •. vakantiespreiding;
+- • vakantiespreiding;
 
-- •. verlof voor een kind, omdat andere kinderen uit het gezin al of nog vrij zijn;
+- • verlof voor een kind, omdat andere kinderen uit het gezin al of nog vrij zijn;
 
-- •. eerder vertrek of latere terugkomst in verband met verkeersdrukte;
+- • eerder vertrek of latere terugkomst in verband met verkeersdrukte;
 
-- •. samen reizen/in konvooi rijden door bijvoorbeeld de Balkan;
+- • samen reizen/in konvooi rijden door bijvoorbeeld de Balkan;
 
-- •. kroonjaren;
+- • kroonjaren;
 
-- •. sabbatical;
+- • sabbatical;
 
-- •. wereldreis/verre reis.
+- • wereldreis/verre reis.
 
 ##### Artikel 3. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 juli 2012.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

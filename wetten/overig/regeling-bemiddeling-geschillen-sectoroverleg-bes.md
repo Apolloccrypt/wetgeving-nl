@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 oktober 2012, 2012-0000564686, houdende een procedure voor geschillen in het Sectoroverleg BES (Regeling bemiddeling geschillen Sectoroverleg BES)"
+citeertitel: "Regeling bemiddeling geschillen sectoroverleg BES"
 identifier: "BWBR0032157"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2023-02-07"
-last_updated: "2023-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032157"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "11890453"
-version_id: "19744482"
-internal_id: "C27728661"
-label_id: "11862544"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032157/2023-02-07/0"
-intitule_bron: "Stcrt.2012-21997"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-02"
-intitule_published: "2012-11-01"
-intitule_in_force: "2012-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-21997"
-original_signed_date: "2012-10-02"
-original_published_date: "2012-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-21997"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032157&z=2023-02-07&g=2023-02-07"
-jci_1_0: "1.0:c:BWBR0032157&g=2023-02-07"
-citeertitel_status: "officieel"
-short_title: "Regeling bemiddeling geschillen sectoroverleg BES"
-signed_date: "2012-10-02"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2023-02-07
+status: geldig
+toestand: 2023-02-07
+bron: "https://wetten.overheid.nl/BWBR0032157"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 2 oktober 2012, 2012-0000564686, houdende een procedure voor geschillen in het Sectoroverleg BES (Regeling bemiddeling geschillen Sectoroverleg BES)
-
-Gelet op [artikel 4.1 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=4.1);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **SOBES:** de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1);
+- b. *SOBES:* de Sectorale Overlegcommissie Bonaire, Sint Eustatius en Saba, genoemd in [artikel 2.1 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1);
 
-- c. **vakorganisaties:** de tot de SOBES toegelaten vakorganisaties;
+- c. *vakorganisaties:* de tot de SOBES toegelaten vakorganisaties;
 
-- d. **overleg:** overleg over aangelegenheden als bedoeld in [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2);
+- d. *overleg:* overleg over aangelegenheden als bedoeld in [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2);
 
-- e. **voorzitter:** de voorzitter van het overleg, bedoeld in [artikel 2.3 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.3);
+- e. *voorzitter:* de voorzitter van het overleg, bedoeld in [artikel 2.3 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.3);
 
-- f. **deelnemers aan het overleg:** de voorzitter en de vertegenwoordigers van de vakorganisaties in het overleg.
+- f. *deelnemers aan het overleg:* de voorzitter en de vertegenwoordigers van de vakorganisaties in het overleg.
 
 ##### Artikel 2
 
@@ -93,5 +67,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling bemiddeling geschillen sectoroverleg BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

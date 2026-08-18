@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de minister van Veiligheid en Justitie, d.d. 8 mei 2012, nr. 227774, houdende bepalingen inzake de taakopdracht van het Nederlands Forensisch Instituut (Regeling taken NFI)"
+citeertitel: "Regeling taken NFI"
 identifier: "BWBR0031558"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-05-19"
-last_updated: "2012-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031558"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11733473"
-version_id: "19381622"
-internal_id: "C27106031"
-label_id: "11705964"
-dtd_version: "2.0"
-original_entry_into_force: "2012-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031558/2012-05-19/0"
-intitule_bron: "Stcrt.2012-9592"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-05-08"
-intitule_published: "2012-05-18"
-intitule_in_force: "2012-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-9592"
-original_signed_date: "2012-05-08"
-original_published_date: "2012-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-9592"
-entry_into_force_date: "2012-05-19"
-jci_1_3: "jci1.3:c:BWBR0031558&z=2012-05-19&g=2012-05-19"
-jci_1_0: "1.0:c:BWBR0031558&g=2012-05-19"
-citeertitel_status: "officieel"
-short_title: "Regeling taken NFI"
-signed_date: "2012-05-08"
-entry_into_force: "2012-05-19"
+publicatiedatum: 2012-05-19
+laatste_update: 2012-05-19
+status: geldig
+toestand: 2012-05-19
+bron: "https://wetten.overheid.nl/BWBR0031558"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de minister van Veiligheid en Justitie, d.d. 8 mei 2012, nr. 227774, houdende bepalingen inzake de taakopdracht van het Nederlands Forensisch Instituut (Regeling taken NFI)
-
-Gelet op [artikel 2, onder c, sub 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029453&artikel=2) en [artikel 34 van de Organisatieregeling Ministerie van Veiligheid en Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0029453&artikel=34);
-
-Besluit:
 
 ##### Artikel 1. Taken NFI
 
@@ -80,7 +54,7 @@ Indien sprake is van een zaak van groot maatschappelijk belang die niet valt bin
 
 3. Voor de levering van producten of diensten, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1&z=2012-05-19&g=2012-05-19), brengt het NFI de hiermee samenhangen kosten in rekening bij de afnemers, bedoeld in [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=2&z=2012-05-19&g=2012-05-19), volgens een door de minister van Veiligheid en Justitie vastgesteld prijsbeleid.
 
-##### Artikel 5. Intrekking [Taakbeschikking Nederlands Forensisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0013052)
+##### Artikel 5. Intrekking Taakbeschikking Nederlands Forensisch Instituut
 
 De [Taakbeschikking Nederlands Forensisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0013052) (Stcrt. 2001, nr. 234) wordt ingetrokken.
 
@@ -91,5 +65,3 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling taken NFI
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

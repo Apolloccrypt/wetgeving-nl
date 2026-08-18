@@ -1,51 +1,25 @@
 ---
 title: "Verlengbaarheidsbesluit GSM-vergunningen 2013"
 identifier: "BWBR0032016"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-01"
-last_updated: "2012-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032016"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11848993"
-version_id: "19648642"
-internal_id: "C27566351"
-label_id: "11821084"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032016/2012-11-01/0"
-intitule_bron: "Stcrt.2012-19660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-20"
-intitule_published: "2012-09-27"
-intitule_in_force: "2012-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19660"
-original_signed_date: "2012-09-20"
-original_published_date: "2012-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19660"
-entry_into_force_date: "2012-11-01"
-jci_1_3: "jci1.3:c:BWBR0032016&z=2012-11-01&g=2012-11-01"
-jci_1_0: "1.0:c:BWBR0032016&g=2012-11-01"
-citeertitel_status: "officieel"
-signed_date: "2012-09-20"
-entry_into_force: "2012-11-01"
+publicatiedatum: 2012-11-01
+laatste_update: 2012-11-01
+status: geldig
+toestand: 2012-11-01
+bron: "https://wetten.overheid.nl/BWBR0032016"
+opgehaald: 2026-08-18
 ---
+
 # Verlengbaarheidsbesluit GSM-vergunningen 2013
-
-Gelet op [artikel 1 van het Besluit continuïteit mobiele telecommunicatiedienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031844&artikel=1);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **transitie:** het door een vergunninghouder staken van het gebruik van de frequentieruimte genoemd in een vergunning genoemd in kolom 1 van tabel 1 zoals deze luidt op het moment van inwerkingtreding van dit besluit;
+- a. *transitie:* het door een vergunninghouder staken van het gebruik van de frequentieruimte genoemd in een vergunning genoemd in kolom 1 van tabel 1 zoals deze luidt op het moment van inwerkingtreding van dit besluit;
 
-- b. **gecombineerde vergunning:** een vergunning voor het gebruik van frequentieruimte in zowel de 900 MHz-band als de 1800 MHz-band.
+- b. *gecombineerde vergunning:* een vergunning voor het gebruik van frequentieruimte in zowel de 900 MHz-band als de 1800 MHz-band.
 
 ##### Artikel 2
 
@@ -67,30 +41,30 @@ In dit besluit wordt verstaan onder:
 | --- | --- |
 | HDTP/95/5446/HP | Vodafone Libertel B.V. |
 | HDTP/95/5447/HP | KPN B.V. |
-| [HDTP/98/595/DCS 136 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009414), met uitzondering van de frequentie 1755 tot 1755,1 MHz gepaard met 1850 tot 1850,1 MHz | T-Mobile Netherlands B.V. |
-| [HDTP/98/596/DCS 137 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009417) | T-Mobile Netherlands B.V. |
-| [HDTP/98/599/DCS 140 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009424) | Vodafone Libertel B.V. |
-| [HDTP/98/600/DCS 141 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009410) | KPN B.V. |
-| [HDTP/98/601/DCS 142 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009413) | T-Mobile Netherlands B.V. |
-| [HDTP/98/602/DCS 143 U](onbekend) | KPN B.V. |
-| [HDTP/98/603/DCS 144 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009427) | KPN B.V. |
-| [HDTP/98/604/DCS 145 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009421) | T-Mobile Netherlands B.V. |
-| [HDTP/98/605/DCS 146 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009426) | KPN B.V. |
-| [HDTP/98/606/DCS 147 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009411) | KPN B.V. |
-| [HDTP/98/607/DCS 148 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009422) | T-Mobile Netherlands B.V. |
-| [HDTP/98/608/DCS 149 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009420) | T-Mobile Netherlands B.V. |
-| [HDTP/98/609/DCS 150 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009416) | KPN B.V. |
-| [HDTP/98/610/DCS 151 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009419) | T-Mobile Netherlands B.V. |
-| [HDTP/98/611/DCS 152 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009425) | KPN B.V. |
-| [HDTP/98/612/DCS 153 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009412) | KPN B.V. |
-| [HDTP/98/613/DCS 154 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009415) | Vodafone Libertel B.V. |
-| [HDTP/98/614/DCS 155 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009418), met uitzondering van de frequenties 1780 MHz tot 1782,1 MHz gepaard met 1875 MHz tot 1877,1 MHz | T-Mobile Netherlands B.V. |
+| HDTP/98/595/DCS 136 U, met uitzondering van de frequentie 1755 tot 1755,1 MHz gepaard met 1850 tot 1850,1 MHz | T-Mobile Netherlands B.V. |
+| HDTP/98/596/DCS 137 U | T-Mobile Netherlands B.V. |
+| HDTP/98/599/DCS 140 U | Vodafone Libertel B.V. |
+| HDTP/98/600/DCS 141 U | KPN B.V. |
+| HDTP/98/601/DCS 142 U | T-Mobile Netherlands B.V. |
+| HDTP/98/602/DCS 143 U | KPN B.V. |
+| HDTP/98/603/DCS 144 U | KPN B.V. |
+| HDTP/98/604/DCS 145 U | T-Mobile Netherlands B.V. |
+| HDTP/98/605/DCS 146 U | KPN B.V. |
+| HDTP/98/606/DCS 147 U | KPN B.V. |
+| HDTP/98/607/DCS 148 U | T-Mobile Netherlands B.V. |
+| HDTP/98/608/DCS 149 U | T-Mobile Netherlands B.V. |
+| HDTP/98/609/DCS 150 U | KPN B.V. |
+| HDTP/98/610/DCS 151 U | T-Mobile Netherlands B.V. |
+| HDTP/98/611/DCS 152 U | KPN B.V. |
+| HDTP/98/612/DCS 153 U | KPN B.V. |
+| HDTP/98/613/DCS 154 U | Vodafone Libertel B.V. |
+| HDTP/98/614/DCS 155 U, met uitzondering van de frequenties 1780 MHz tot 1782,1 MHz gepaard met 1875 MHz tot 1877,1 MHz | T-Mobile Netherlands B.V. |
 
 ##### Artikel 3. Gewijzigde voorschriften
 
-1. Wijzigt de Regeling verlening vergunning voor DCS 1800 gecombineerd met GSM aan Federa N.V. en de Verlening vergunning DCS 1800 gecombineerd met GSM aan Telfort Holding N.V.
+1. *Wijzigt de Regeling verlening vergunning voor DCS 1800 gecombineerd met GSM aan Federa N.V. en de Verlening vergunning DCS 1800 gecombineerd met GSM aan Telfort Holding N.V.*
 
-2. Wijzigt de overige vergunningen genoemd in kolom 1 van tabel 1 in artikel 2.
+2. *Wijzigt de overige vergunningen genoemd in kolom 1 van tabel 1 in artikel 2.*
 
 ##### Artikel 4. Intrekking besluit
 
@@ -99,5 +73,3 @@ Het besluit van de Staatssecretaris van Economische Zaken van 24 januari 2010, n
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Verlengbaarheidsbesluit GSM-vergunningen 2013.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,39 +1,17 @@
 ---
 title: "Besluit nr. DBV / 12020217, van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen Archief van het Bureau Secretaris-Generaal van het Ministerie van Economische Zaken over de periode (1914) 1976–1998 (2000) (Besluit als bedoeld in artikel 10 van het archiefbesluit 1995)"
+citeertitel: "Besluit beperking openbaarheid Archief Bureau Secretaris-Generaal Ministerie van Economische Zaken over de periode (1914) 1976–1998 (2000)"
 identifier: "BWBR0031343"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-03-14"
-last_updated: "2012-03-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031343"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11684953"
-version_id: "19283842"
-internal_id: "C26904731"
-label_id: "11657624"
-dtd_version: "2.0"
-original_entry_into_force: "2012-03-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031343/2012-03-14/0"
-intitule_bron: "Stcrt.2012-4638"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-02-28"
-intitule_published: "2012-03-12"
-intitule_in_force: "2012-03-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-4638"
-original_signed_date: "2012-02-28"
-original_published_date: "2012-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-4638"
-entry_into_force_date: "2012-03-14"
-jci_1_3: "jci1.3:c:BWBR0031343&z=2012-03-14&g=2012-03-14"
-jci_1_0: "1.0:c:BWBR0031343&g=2012-03-14"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Archief Bureau Secretaris-Generaal Ministerie van Economische Zaken over de periode (1914) 1976–1998 (2000)"
-signed_date: "2012-02-28"
-entry_into_force: "2012-03-14"
+publicatiedatum: 2012-03-14
+laatste_update: 2012-03-14
+status: geldig
+toestand: 2012-03-14
+bron: "https://wetten.overheid.nl/BWBR0031343"
+opgehaald: 2026-08-18
 ---
+
 # Besluit nr. DBV / 12020217, van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen Archief van het Bureau Secretaris-Generaal van het Ministerie van Economische Zaken over de periode (1914) 1976–1998 (2000) (Besluit als bedoeld in artikel 10 van het archiefbesluit 1995)
 
 ##### Artikel 1
@@ -55,12 +33,3 @@ Het is niet toegestaan reproducties te vervaardigen van de archiefbescheiden waa
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage
-
-| Inventarisnummer | Openbaar vanaf 1 januari |
-| --- | --- |
-| 88 | 2043 |
-| 437 | 2057 |
-
-Dit besluit wordt als bijlage gevoegd bij de Verklaring van overbrenging archief Bureau Secretaris-Generaal (1914) 1976–1998 (2000)

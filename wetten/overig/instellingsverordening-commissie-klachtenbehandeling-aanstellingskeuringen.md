@@ -1,45 +1,18 @@
 ---
 title: "Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)"
+citeertitel: "Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen"
 identifier: "BWBR0031838"
-country: "nl"
-rank: "pbo"
-publication_date: "2019-06-29"
-last_updated: "2019-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031838"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "11807423"
-version_id: "19561902"
-internal_id: "C27595411"
-label_id: "11779664"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031838/2019-06-29/0"
-intitule_bron: "Vbbo.2012-30"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-06-15"
-intitule_published: "2012-07-13"
-intitule_in_force: "2012-09-28"
-intitule_status: "goed"
-original_publication: "Vbbo.2012-30"
-original_signed_date: "2012-06-15"
-original_published_date: "2012-07-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2012-10-01"
-jci_1_3: "jci1.3:c:BWBR0031838&z=2019-06-29&g=2019-06-29"
-jci_1_0: "1.0:c:BWBR0031838&g=2019-06-29"
-citeertitel_status: "officieel"
-short_title: "Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen"
-signed_date: "2012-06-15"
-entry_into_force: "2012-10-01"
+publicatiedatum: 2012-10-01
+laatste_update: 2019-06-29
+status: geldig
+toestand: 2019-06-29
+bron: "https://wetten.overheid.nl/BWBR0031838"
+opgehaald: 2026-08-18
 ---
+
 # Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&artikel=3) en [4 van het Besluit klachtenbehandeling aanstellingskeuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&artikel=4), alsmede [artikel 36 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Besluit aanstellingskeuringen enz. (onderbrenging klachtenbehandeling bij aanstellingskeuringen bij de SER enz.) (Stb. 2012/437) in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -122,5 +95,3 @@ Indien het bij koninklijke boodschap van 14 oktober 2011 ingediende voorstel van
 ##### Artikel 9
 
 Deze verordening wordt aangehaald als: Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen.
-
-Deze verordening zal in het Verordeningenblad Bedrijfsorganisatie worden geplaatst.

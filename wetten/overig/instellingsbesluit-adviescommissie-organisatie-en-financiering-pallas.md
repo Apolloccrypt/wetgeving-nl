@@ -1,61 +1,35 @@
 ---
 title: "Instellingsbesluit Adviescommissie Organisatie en Financiering Pallas"
 identifier: "BWBR0032180"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-08"
-last_updated: "2012-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032180"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11895583"
-version_id: "19756202"
-internal_id: "C27749981"
-label_id: "11867654"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032180/2012-11-08/0"
-intitule_bron: "Stcrt.2012-22532"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-10-29"
-intitule_published: "2012-11-07"
-intitule_in_force: "2012-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-22532"
-original_signed_date: "2012-10-29"
-original_published_date: "2012-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-22532"
-entry_into_force_date: "2012-11-08"
-jci_1_3: "jci1.3:c:BWBR0032180&z=2012-11-08&g=2012-11-08"
-jci_1_0: "1.0:c:BWBR0032180&g=2012-11-08"
-citeertitel_status: "officieel"
-signed_date: "2012-10-29"
-entry_into_force: "2012-11-08"
+publicatiedatum: 2012-11-08
+laatste_update: 2012-11-08
+status: geldig
+toestand: 2012-11-08
+bron: "https://wetten.overheid.nl/BWBR0032180"
+opgehaald: 2026-08-18
 ---
+
 # Instellingsbesluit Adviescommissie Organisatie en Financiering Pallas
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Pallas:** project ter realisatie van een nieuwe onderzoeksreactor te Petten, die dient ter vervanging van de Hoge Flux Reactor;
+- a. *Pallas:* project ter realisatie van een nieuwe onderzoeksreactor te Petten, die dient ter vervanging van de Hoge Flux Reactor;
 
-- b. **de minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- b. *de minister:* de Minister van Economische Zaken, Landbouw en Innovatie;
 
-- c. **de commissie:** de Adviescommissie Organisatie en Financiering Pallas;
+- c. *de commissie:* de Adviescommissie Organisatie en Financiering Pallas;
 
-- d. **de kwartiermaker:** tijdelijke functionaris die geen lid van de commissie is die in opdracht van de minister belast is met het:
+- d. *de kwartiermaker:* tijdelijke functionaris die geen lid van de commissie is die in opdracht van de minister belast is met het:
 
-- 1°. uitvoeren van een kritische toets op het tot nu toe verrichte werk van het Energieonderzoek Centrum Nederland/de Nuclear Research and consultancy Group (ECN/NRG), met het oog op het aantrekken van private financiering voor de bouw en exploitatie van Pallas;
+   - 1°. uitvoeren van een kritische toets op het tot nu toe verrichte werk van het Energieonderzoek Centrum Nederland/de Nuclear Research and consultancy Group (ECN/NRG), met het oog op het aantrekken van private financiering voor de bouw en exploitatie van Pallas;
 
-- 2°. opzetten van een professionele organisatie voor de realisatie van Pallas, inclusief het samenstellen van een projectteam;
+   - 2°. opzetten van een professionele organisatie voor de realisatie van Pallas, inclusief het samenstellen van een projectteam;
 
-- 3°. opstellen van een business plan dat zich richt op ontwerp, aanbesteding en vergunningverlening van de reactor (periode 2012-2017) en het aantrekken van private financiering voor de bouw en exploitatie.
+   - 3°. opstellen van een business plan dat zich richt op ontwerp, aanbesteding en vergunningverlening van de reactor (periode 2012-2017) en het aantrekken van private financiering voor de bouw en exploitatie.
 
 ##### Artikel 2
 
@@ -118,5 +92,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Organisatie en Financiering Pallas.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

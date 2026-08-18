@@ -1,46 +1,38 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2012, nr. AV/AR/2012/9243 tot vervanging van de Regeling beëindiging arbeidsovereenkomsten BES (Regeling beëindiging arbeidsovereenkomsten BES 2012)"
+citeertitel: "Regeling beëindiging arbeidsovereenkomsten BES 2012"
 identifier: "BWBR0031786"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2020-10-10"
-last_updated: "2020-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031786"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11790203"
-version_id: "19505002"
-internal_id: "C27349241"
-label_id: "11762784"
-dtd_version: "2.0"
-original_entry_into_force: "2012-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031786/2020-10-10/0"
-intitule_bron: "Stcrt.2012-14531"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-07-09"
-intitule_published: "2012-07-16"
-intitule_in_force: "2012-07-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-14531"
-original_signed_date: "2012-07-09"
-original_published_date: "2012-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-14531"
-entry_into_force_date: "2012-07-17"
-jci_1_3: "jci1.3:c:BWBR0031786&z=2020-10-10&g=2020-10-10"
-jci_1_0: "1.0:c:BWBR0031786&g=2020-10-10"
-citeertitel_status: "officieel"
-short_title: "Regeling beëindiging arbeidsovereenkomsten BES 2012"
-signed_date: "2012-07-09"
-entry_into_force: "2012-07-17"
+publicatiedatum: 2012-07-17
+laatste_update: 2020-10-10
+status: geldig
+toestand: 2020-10-10
+bron: "https://wetten.overheid.nl/BWBR0031786"
+opgehaald: 2026-08-18
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2012, nr. AV/AR/2012/9243 tot vervanging van de Regeling beëindiging arbeidsovereenkomsten BES (Regeling beëindiging arbeidsovereenkomsten BES 2012)
 
-Gelet op [artikel 6 van de Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=6);
-
-Besluit:
-
 #### Paragraaf 1. Begripsbepalingen
+
+##### Artikel 1.1. Definities
+
+In deze regeling wordt verstaan onder:
+
+- a. *wet:* de [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174);
+
+- b. *minister:* de Minister van Sociale Zaken en Werkgelegenheid;
+
+- c. *ontslagadviescommissie:* een commissie als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3);
+
+- d. *verzoek:* een verzoek als bedoeld in [artikel 4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4);
+
+- e. *werknemer:* de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
+
+- f. *werkgever:* de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
+
+- g. *arbeidsovereenkomst:* de arbeidsovereenkomst, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a).
 
 #### Paragraaf 2. Instelling, werkwijze en vergoeding ontslagadviescommissie
 
@@ -97,38 +89,6 @@ Na behandeling in een ontslagadviescommissie van een verzoek worden de aan de le
 6. Indien een lid tevens plaatsvervangend voorzitter is en bij afwezigheid van de voorzitter als zodanig optreedt, treedt hij niet tegelijkertijd op als lid van de ontslagadviescommissie.
 
 #### Paragraaf 3. Procedure
-
-#### Paragraaf 3. Procedure
-
-#### Paragraaf 5. Ontslag wegens bedrijfseconomische redenen
-
-#### Paragraaf 6. Beëindiging wegens andere dan bedrijfseconomische redenen
-
-#### Paragraaf 7. Overige bepalingen
-
-#### Paragraaf 8. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1.1. Definities
-
-In deze regeling wordt verstaan onder:
-
-- a. **wet:** de [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174);
-
-- b. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
-
-- c. **ontslagadviescommissie:** een commissie als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3);
-
-- d. **verzoek:** een verzoek als bedoeld in [artikel 4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4);
-
-- e. **werknemer:** de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
-
-- f. **werkgever:** de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a);
-
-- g. **arbeidsovereenkomst:** de arbeidsovereenkomst, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a).
-
-#### Paragraaf 2. Instelling, werkwijze en vergoeding ontslagadviescommissie
 
 ##### Artikel 3.1. Mogelijkheid voor werkgever tot aanvulling informatie
 
@@ -292,16 +252,14 @@ Bij de toepassing van de [artikelen 5.1 tot en met 6.2](https://wetten.overheid.
 
 #### Paragraaf 8. Slotbepalingen
 
-##### Artikel 8.1. Intrekking [Regeling beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028954)
+##### Artikel 8.1. Intrekking Regeling beëindiging arbeidsovereenkomsten BES
 
 De [Regeling beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028954) wordt ingetrokken.
 
 ##### Artikel 8.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.1&z=2020-10-10&g=2020-10-10), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.2&z=2020-10-10&g=2020-10-10) en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.4&z=2020-10-10&g=2020-10-10), terug tot en met 10 oktober 2010.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.1&z=2020-10-10&g=2020-10-10), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.2&z=2020-10-10&g=2020-10-10) en [2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031786&paragraaf=2&artikel=2.4&z=2020-10-10&g=2020-10-10), terug tot en met 10 oktober 2010.
 
 ##### Artikel 8.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beëindiging arbeidsovereenkomsten BES 2012.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

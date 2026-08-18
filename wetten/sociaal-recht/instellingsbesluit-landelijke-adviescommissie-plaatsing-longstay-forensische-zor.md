@@ -1,54 +1,30 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)"
+citeertitel: "Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg"
 identifier: "BWBR0031541"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-05-10"
-last_updated: "2018-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031541"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11730833"
-version_id: "19376392"
-internal_id: "C27094471"
-label_id: "11703464"
-dtd_version: "2.0"
-original_entry_into_force: "2012-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031541/2018-05-10/0"
-intitule_bron: "Stcrt.2012-8977"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-04-15"
-intitule_published: "2012-05-09"
-intitule_in_force: "2012-05-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-8977"
-original_signed_date: "2012-04-15"
-original_published_date: "2012-05-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-8977"
-entry_into_force_date: "2012-05-10"
-jci_1_3: "jci1.3:c:BWBR0031541&z=2018-05-10&g=2018-05-10"
-jci_1_0: "1.0:c:BWBR0031541&g=2018-05-10"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg"
-signed_date: "2012-04-15"
-entry_into_force: "2012-05-10"
+publicatiedatum: 2012-05-10
+laatste_update: 2018-05-10
+status: geldig
+toestand: 2018-05-10
+bron: "https://wetten.overheid.nl/BWBR0031541"
+opgehaald: 2026-08-18
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Lap:** de Landelijke adviescommissie plaatsing longstay forensische zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=2&z=2018-05-10&g=2018-05-10);
+- a. *Lap:* de Landelijke adviescommissie plaatsing longstay forensische zorg, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=2&z=2018-05-10&g=2018-05-10);
 
-- b. **Minister:** de Minister van Veiligheid en Justitie;
+- b. *Minister:* de Minister van Veiligheid en Justitie;
 
-- c. **ter beschikking gestelde:** een ter beschikking gestelde ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37c) is gegeven;
+- c. *ter beschikking gestelde:* een ter beschikking gestelde ten aanzien van wie een bevel tot verpleging van overheidswege als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37c) is gegeven;
 
-- d. **longstay:** een afdeling van een inrichting voor ter beschikking gestelden gericht op langdurige forensisch psychiatrische zorg.
+- d. *longstay:* een afdeling van een inrichting voor ter beschikking gestelden gericht op langdurige forensisch psychiatrische zorg.
 
 ##### Artikel 2. Instelling
 
@@ -133,5 +109,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

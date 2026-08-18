@@ -1,83 +1,54 @@
 ---
 title: "Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige"
+citeertitel: "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
 identifier: "BWBR0032031"
-country: "nl"
-rank: "wet"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032031"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11855523"
-version_id: "19660232"
-internal_id: "C27716061"
-label_id: "11827664"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032031/2013-07-01/0"
-intitule_bron: "Stb.2012-430"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-13"
-intitule_published: "2012-09-28"
-intitule_in_force: "2012-10-30"
-intitule_status: "goed"
-original_publication: "Stb.2012-430"
-original_signed_date: "2012-09-13"
-original_published_date: "2012-09-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "33086"
-original_url_id: "stb-2012-430"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032031&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0032031&g=2013-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet inburgering, enz. (versterking eigen verantwoordelijkheid inburgeringsplichtige)"
-signed_date: "2012-09-13"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0032031"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het ter versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige wenselijk is te regelen dat de inburgeringsplichtige de kosten voor zijn inburgering zelf draagt;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet inburgering.
+*Wijzigt de Wet inburgering.*
 
 ##### Artikel II
 
-Wijzigt de Beroepswet.
+*Wijzigt de Beroepswet.*
 
 ##### Artikel III
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+*Wijzigt de Wet educatie en beroepsonderwijs.*
 
 ##### Artikel IV
 
-Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+*Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.*
 
 ##### Artikel V
 
-Wijzigt de Wet participatiebudget.
+*Wijzigt de Wet participatiebudget.*
 
 ##### Artikel VI
 
-Wijzigt de Vreemdelingenwet 2000.
+*Wijzigt de Vreemdelingenwet 2000.*
 
 ##### Artikel VII
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel VIII
 
-Vervallen
+*Vervallen*
 
 ##### Artikel IX
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel X
 
@@ -96,5 +67,3 @@ Wijzigt deze wet.
 ##### Artikel XI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

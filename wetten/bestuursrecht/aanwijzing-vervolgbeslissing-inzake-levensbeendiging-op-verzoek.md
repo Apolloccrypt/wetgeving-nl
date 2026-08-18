@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzing vervolgbeslissing inzake levensbeëndiging op verzoek"
 identifier: "BWBR0032071"
-country: "nl"
-rank: "beleidsregel_bes"
-publication_date: "2012-10-10"
-last_updated: "2012-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032071"
+categorie: "Overig"
 soort: "beleidsregel-BES"
-stam_id: "11867243"
-version_id: "19696992"
-internal_id: "C27626331"
-label_id: "11839774"
-dtd_version: "2.0"
-original_entry_into_force: "2012-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032071/2012-10-10/0"
-intitule_bron: "Stcrt.2012-20409"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-13"
-intitule_published: "2012-10-09"
-intitule_in_force: "2012-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-20409"
-original_signed_date: "2012-09-13"
-original_published_date: "2012-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-20409"
-entry_into_force_date: "2012-10-10"
-jci_1_3: "jci1.3:c:BWBR0032071&z=2012-10-10&g=2012-10-10"
-jci_1_0: "1.0:c:BWBR0032071&g=2012-10-10"
-citeertitel_status: "redactioneel"
-signed_date: "2012-09-13"
-entry_into_force: "2012-10-10"
+publicatiedatum: 2012-10-10
+laatste_update: 2012-10-10
+status: geldig
+toestand: 2012-10-10
+bron: "https://wetten.overheid.nl/BWBR0032071"
+opgehaald: 2026-08-18
 ---
+
 # Aanwijzing vervolgbeslissing inzake levensbeëndiging op verzoek
 
 ### Achtergrond
@@ -55,9 +33,27 @@ De [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) heeft betrekking op ar
 
 Het gevolg van [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) is dat het openbaar ministerie, buiten de rol van de officier van justitie bij het geven van verlof tot begraven of verbranden, in beginsel alleen betrokken is bij gevallen van euthanasie of hulp bij zelfdoding indien:
 
-### 1. De taak van de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige (schouwarts)
+- − De toetsingscommissie zich niet bevoegd acht een oordeel uit te spreken
+
+- − De toetsingscommissie van oordeel is dat de arts niet zorgvuldig heeft gehandeld
+
+- − Er geen melding is gedaan bij de aangewezen geneeskundige en de zaak via een andere weg aan het licht komt (bijvoorbeeld door een melding door de Inspectie voor de Gezondheidszorg of aangifte door een nabestaande of derde)
+
+### 1. De taak van de op grond van artikel 4 van de Wet verklaringen van overlijden BES aangewezen geneeskundige (schouwarts)
 
 [Artikel 5 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5) bepaalt dat, indien sprake is van een mededeling als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1), de aangewezen geneeskundige onverwijld verslag uitbrengt aan de officier van justitie. In gevallen van levensbeëindiging op verzoek is er steeds sprake van een niet-natuurlijke dood en moet de officier van justitie worden gewaarschuwd. De officier van justitie beslist of er verlof tot begraven of verbranding kan worden gegeven. Als dat inderdaad het geval is, stuurt de aangewezen geneeskundige vervolgens het dossier naar de regionale toetsingscommissie euthanasie.
+
+- • De betrokken arts waarschuwt de aangewezen deskundige die de uitwendige lijkschouw verricht en verifieert hoe en met welke middelen het leven is beëindigd.
+
+- • De aangewezen geneeskundige neemt van de betrokken arts het modelverslag en daarbij behorende bijlagen in ontvangst.
+
+- • De aangewezen geneeskundige licht de ambtenaar van de burgerlijke stand in.
+
+- • Met behulp van het modelformulier bericht de aangewezen geneeskundige de officier van justitie met het oog op de verkrijging van verlof tot begraven/verbranden.
+
+- • De geneeskundige spreekt hierbij geen oordeel uit over de zorgvuldigheid van de levensbeëindiging door de betrokken arts. Teneinde de officier van justitie de mogelijkheid te bieden te bezien of er op dat moment al concrete aanwijzingen zijn dat de arts geen beroep op een bijzondere strafuitsluitingsgrond of overmacht in de zin van noodtoestand toekomt of dat er in het geheel geen oordeel over het bestaan van noodtoestand kan worden gegeven, kan de geneeskundige desgevraagd aan de officier van justitie zijn oordeel over de procedure geven.
+
+- • Ten slotte zendt de aangewezen geneeskundige de melding van euthanasie of hulp bij zelfdoding naar de toetsingscommissie Noord-Nederland (Groningen).
 
 ### 2. De taak van de officier van justitie na melding door de geneeskundige
 
@@ -65,7 +61,7 @@ Alle gevallen van levensbeëindiging op verzoek worden door de aangewezen genees
 
 Dit is slechts anders indien er op het moment van de melding al concrete aanwijzingen zijn dat de arts geen beroep op een bijzondere strafuitsluitingsgrond of overmacht in de zin van noodtoestand toekomt of indien er door een gebrek aan relevante informatie op dat moment in het geheel geen oordeel over het al dan niet bestaan van noodtoestand kan worden gegeven. De officier van justitie kan dan onmiddellijk overgaan tot het instellen van een opsporingsonderzoek of het vorderen van een gerechtelijk vooronderzoek. Op dit moment wordt ook besloten of er sectie op het lichaam verricht moet worden.1De officier van justitie kan en mag alleen een opdracht tot een gerechtelijke sectie geven indien het vermoeden bestaat dat een strafbaar feit is gepleegd. In zaken met levensbeëindiging op verzoek zal dit slechts aan de orde zijn als reeds bij het eerste telefonisch contact met de gemeentelijk lijkschouwer duidelijk wordt dat niet is voldaan aan de zorgvuldigheidseisen. Ook in dergelijke gevallen zal een sectie alleen dan zinvol en noodzakelijk zijn als er vermoedens bestaan dat de (toediening van de) het/de euthanasie-middel(en) onzorgvuldig is/zijn geweest. Overleg met de patholoog van het NFI lijkt gewenst omdat wellicht ook dan volstaan kan worden met een toxicologisch onderzoek. Doet een dergelijk geval zich voor, dan stelt de hoofdofficier van justitie de PG hiervan zo spoedig mogelijk in kennis.
 
-Na afronding van het onderzoek wordt het parket PG door middel van een ambtsbericht van de resultaten op de hoogte gebracht (zie paragraaf 4.1).
+Na afronding van het onderzoek wordt het parket PG door middel van een ambtsbericht van de resultaten op de hoogte gebracht (zie [paragraaf 4.1](https://wetten.overheid.nl/BWBR0032071)).
 
 Indien de officier van justitie meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving of verbranding te kunnen overgaan, maar vindt dat een strafrechtelijk onderzoek moet worden ingesteld, dan stelt hij de aangewezen geneeskundige en de regionale toetsingscommissie Noord-Nederland hiervan onverwijld in kennis ([art. 4a Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=4a) en [11 Crematiewet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&artikel=11)).
 
@@ -86,6 +82,18 @@ De commissies hebben richtlijnen vastgesteld voor de toetsing aan de zorgvuldigh
 ### 3.2. Zorgvuldigheidseisen
 
 [Artikel 2, eerste lid, van de WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2) bepaalt dat de commissies oordelen dat er zorgvuldig is gehandeld indien de arts:
+
+- 1. de overtuiging heeft gekregen dat er sprake was van een vrijwillig en weloverwogen verzoek van de patiënt;
+
+- 2. de overtuiging heeft gekregen dat er sprake was van uitzichtloos en ondraaglijk lijden van de patiënt;
+
+- 3. de patiënt heeft voorgelicht over de situatie waarin deze zich bevond en over diens vooruitzichten;
+
+- 4. met de patiënt tot de overtuiging is gekomen dat er voor de situatie waarin deze zich bevond geen redelijke andere oplossing was;
+
+- 5. ten minste één andere, onafhankelijke arts heeft geraadpleegd, die de patiënt heeft gezien en, schriftelijk zijn oordeel heeft gegeven over de zorgvuldigheidseisen, bedoeld in de onderdelen 1 tot en met 4, en
+
+- 6. de levensbeëindiging medisch zorgvuldig heeft uitgevoerd.
 
 ### 3.3. Bevoegdheid commissies; minderjarigen en wilsonbekwamen
 
@@ -145,7 +153,7 @@ In alle gevallen informeert de PG naast de hoofdofficier van justitie de toetsin
 
 ### 5.1. De arts heeft de meldingsplicht niet vervuld
 
-De [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) is van toepassing op de arts die bij de toepassing van levensbeëindiging op verzoek aan alle zorgvuldigheidseisen heeft voldaan en zijn meldingsplicht heeft vervuld. In beginsel kan dan ook alleen die arts een beroep doen op een bijzondere strafuitsluitingsgrond en is alleen die arts niet strafbaar die op zorgvuldige wijze levensbeëindiging toepast èn zijn handelen meldt. Bij ontdekking dat de arts op verzoek levensbeëindigend heeft gehandeld zonder hiervan melding te maken, kan het vermoeden van schuld ontstaan aan overtreding van de [artikelen 306](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306) en [307 Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=307). Indien de arts achteraf alsnog een beroep wenst te doen op de bijzondere strafuitsluitingsgrond dan zal hij zelf aannemelijk moeten maken dat hij zorgvuldig heeft gehandeld (TK vergaderjaar 1998–1999, 26691, MvA). Indien een arts in zo’n geval een beroep wil doen op de algemene strafuitsluitingsgronden overmacht in de zin van noodtoestand ([artikel 42 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=42)) of afwezigheid van alle schuld dan zal het ook op zijn weg liggen feiten en omstandigheden aan te dragen die het honoreren van een dergelijk beroep kunnen dragen (TK 26691, vergaderjaar 1998–1999, MvA). Als blijkt dat de arts op het melden na aan alle voorwaarden (zorgvuldigheidseisen) heeft voldaan, dan kan vervolging worden overwogen ter zake van het misdrijf van [artikel 230 Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=230) (valsheid in geschrifte) in verband met het valselijk opmaken van een overlijdensverklaring.
+De [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) is van toepassing op de arts die bij de toepassing van levensbeëindiging op verzoek aan alle zorgvuldigheidseisen heeft voldaan en zijn meldingsplicht heeft vervuld. In beginsel kan dan ook alleen die arts een beroep doen op een bijzondere strafuitsluitingsgrond en is alleen die arts niet strafbaar die op zorgvuldige wijze levensbeëindiging toepast èn zijn handelen meldt. Bij ontdekking dat de arts op verzoek levensbeëindigend heeft gehandeld zonder hiervan melding te maken, kan het vermoeden van schuld ontstaan aan overtreding van de [artikelen 306](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=306) en [307 Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=307). Indien de arts achteraf alsnog een beroep wenst te doen op de bijzondere strafuitsluitingsgrond dan zal hij zelf aannemelijk moeten maken dat hij zorgvuldig heeft gehandeld (TK vergaderjaar 1998–1999, , MvA). Indien een arts in zo’n geval een beroep wil doen op de algemene strafuitsluitingsgronden overmacht in de zin van noodtoestand ([artikel 42 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=42)) of afwezigheid van alle schuld dan zal het ook op zijn weg liggen feiten en omstandigheden aan te dragen die het honoreren van een dergelijk beroep kunnen dragen (TK , vergaderjaar 1998–1999, MvA). Als blijkt dat de arts op het melden na aan alle voorwaarden (zorgvuldigheidseisen) heeft voldaan, dan kan vervolging worden overwogen ter zake van het misdrijf van [artikel 230 Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=230) (valsheid in geschrifte) in verband met het valselijk opmaken van een overlijdensverklaring.
 
 In de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) wordt onder arts verstaan de arts die volgens de melding levensbeëindiging op verzoek heeft toegepast of hulp bij zelfdoding heeft verricht. Hierbij heeft de wetgever niet alleen gedacht aan de behandelend arts. Het is niet uit te sluiten dat een andere arts de euthanasie uitvoert of de hulp bij zelfdoding verricht, bijvoorbeeld als de behandelend arts gewetensbezwaren heeft.
 
@@ -159,13 +167,13 @@ De wet stelt overigens niet de eis dat een verzoek op schrift is gesteld.
 
 In het geval dat de patiënt op het moment waarop wordt besloten tot levensbeëindigend handelen niet wilsbekwaam is, zijn de zorgvuldigheidseisen van toepassing indien er een schriftelijke wilsverklaring is die is afgelegd voordat sprake was van wilsonbekwaamheid ([artikel 2, tweede lid, WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2)) en die ziet op de situatie waarin de levensbeëindiging plaatsvindt. De beoordeling van de zorgvuldigheidseisen dient te geschieden aan de hand van de specifieke omstandigheden waarin de wilsonbekwame patiënt zich bevindt. Kan een patiënt niet als wilsbekwaam worden aangemerkt en ontbreekt tevens een (adequate) schriftelijke wilsverklaring dan is de [WTL](https://wetten.overheid.nl/jci1.3:c:BWBR0012410) niet van toepassing.
 
-De zorgvuldigheidseisen genoemd in paragraaf 3.2 onder 3 (de arts heeft de patiënt voorgelicht over de situatie waarin hij zich bevond en over zijn vooruitzichten) en onder 4 (de arts is met de patiënt tot de overtuiging gekomen dat er voor de situatie waarin deze zich bevond geen redelijke andere oplossing was) zijn aspecten van het weloverwogen zijn van een verzoek en worden daarom in deze aanwijzing niet apart genoemd. Weloverwogenheid veronderstelt een zorgvuldige afweging op basis van volledige informatie en een helder inzicht in het ziektebeeld.
+De zorgvuldigheidseisen genoemd in [paragraaf 3.2 onder 3](https://wetten.overheid.nl/BWBR0032071) (de arts heeft de patiënt voorgelicht over de situatie waarin hij zich bevond en over zijn vooruitzichten) en onder 4 (de arts is met de patiënt tot de overtuiging gekomen dat er voor de situatie waarin deze zich bevond geen redelijke andere oplossing was) zijn aspecten van het weloverwogen zijn van een verzoek en worden daarom in deze aanwijzing niet apart genoemd. Weloverwogenheid veronderstelt een zorgvuldige afweging op basis van volledige informatie en een helder inzicht in het ziektebeeld.
 
 ### 5.3. Twijfel over de uitzichtloosheid of ondraaglijkheid van het lijden
 
 Komt de toetsingscommissie tot het oordeel dat er onzorgvuldig is gehandeld, omdat er geen sprake was van uitzichtloos en/of ondraaglijk lijden, althans dat niet boven enige twijfel is verheven dat daarvan sprake was, dan is in beginsel strafrechtelijk vervolging geïndiceerd. Deze zorgvuldigheidseis is van zo wezenlijk belang, dat indien getwijfeld wordt of er sprake was van uitzichtloos en ondraaglijk lijden, de arts onmiddellijk een strafrechtelijk relevant verwijt kan worden gemaakt.
 
-Indien de commissie niet kon vaststellen of er sprake was van uitzichtloos en/of ondraaglijk lijden, doordat er geen consultatie heeft plaatsgevonden of de verslaglegging door de arts gebrekkig was, dan ligt strafrechtelijke vervolging in beginsel eveneens in de rede. Objectief gezien kan er in die gevallen dus wel sprake zijn geweest van uitzichtloos en ondraaglijk lijden, maar dat is achteraf niet te herleiden (zie ook 5.4). Een opsporingsonderzoek of een gerechtelijk vooronderzoek is geïndiceerd.
+Indien de commissie niet kon vaststellen of er sprake was van uitzichtloos en/of ondraaglijk lijden, doordat er geen consultatie heeft plaatsgevonden of de verslaglegging door de arts gebrekkig was, dan ligt strafrechtelijke vervolging in beginsel eveneens in de rede. Objectief gezien kan er in die gevallen dus wel sprake zijn geweest van uitzichtloos en ondraaglijk lijden, maar dat is achteraf niet te herleiden (zie ook [5.4](https://wetten.overheid.nl/BWBR0032071)). Een opsporingsonderzoek of een gerechtelijk vooronderzoek is geïndiceerd.
 
 Het begrip uitzichtloos en ondraaglijk lijden laat ruimte voor de concrete omstandigheden van het geval. De uitzichtloosheid van het lijden dient te worden geobjectiveerd. Volgens geobjectiveerde medische maatstaven moet worden nagegaan of de situatie van de patiënt nog te verbeteren is. Als deze vraag ontkennend wordt beantwoord ontbreekt een reëel behandelperspectief. Een behandelperspectief is reëel indien er naar huidig medisch inzicht bij adequate behandeling zicht op verbetering is, binnen afzienbare termijn en met een redelijke verhouding tussen de te verwachten resultaten en de belasting van de behandeling voor de patiënt.
 
@@ -189,7 +197,7 @@ Slechts in uitzonderlijke omstandigheden kan de consulent van een bezoek aan de 
 
 De Hoge Raad heeft bepaald dat onder omstandigheden het achterwege blijven van de consultatie door een andere arts niet aan een beroep op noodtoestand in de weg hoeft te staan (NJ 1989,391). Die situatie kan zich voordoen indien, ondanks het ontbreken van een oordeel van een geconsulteerde arts, toch een zuiver oordeel valt te geven over het bestaan hebben van uitzichtloos en ondraaglijk lijden van de patiënt. Er is dan, ondanks het oordeel van de toetsingscommissie dat er niet zorgvuldig is gehandeld, geen reden om vervolging in te stellen. Een (sepot)gesprek met de officier van justitie, waarin de arts wordt gewezen op de gebreken in zijn handelen, is in zo'n geval op zijn plaats.
 
-Als er door het ontbreken van de consultatie onvoldoende vast komt te staan dat sprake is geweest van uitzichtloos en ondraaglijk lijden en dus de beoordeling van de vraag of de arts een beroep op noodtoestand toekomt niet goed mogelijk is, dient in beginsel over te worden gegaan tot het instellen van strafrechtelijke vervolging (zie 5.2).
+Als er door het ontbreken van de consultatie onvoldoende vast komt te staan dat sprake is geweest van uitzichtloos en ondraaglijk lijden en dus de beoordeling van de vraag of de arts een beroep op noodtoestand toekomt niet goed mogelijk is, dient in beginsel over te worden gegaan tot het instellen van strafrechtelijke vervolging (zie [5.2](https://wetten.overheid.nl/BWBR0032071)).
 
 ### 5.5. Onzorgvuldig handelen ten aanzien van de uitvoering van de levensbeëindiging
 

@@ -1,47 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten (Verordening PT heffing handel bloemkwekerijproducten 2012)"
+citeertitel: "Verordening PT heffing handel bloemkwekerijproducten 2012"
 identifier: "BWBR0031155"
-country: "nl"
-rank: "pbo"
-publication_date: "2012-06-03"
-last_updated: "2012-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031155"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11639693"
-version_id: "19206212"
-internal_id: "C26795331"
-label_id: "11612594"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031155/2012-06-03/0"
-intitule_bron: "Vbbo.2011-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-14"
-intitule_published: "2011-12-30"
-intitule_in_force: "2011-12-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2011-97"
-original_signed_date: "2011-11-14"
-original_published_date: "2011-12-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0031155&z=2012-06-03&g=2012-06-03"
-jci_1_0: "1.0:c:BWBR0031155&g=2012-06-03"
-citeertitel_status: "officieel"
-short_title: "Verordening PT heffing handel bloemkwekerijproducten 2012"
-signed_date: "2011-11-14"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-06-03
+status: geldig
+toestand: 2012-06-03
+bron: "https://wetten.overheid.nl/BWBR0031155"
+opgehaald: 2026-08-18
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten (Verordening PT heffing handel bloemkwekerijproducten 2012)
-
-gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
-
-gehoord de Commissie voor bloemkwekerijproducten, d.d. 24 oktober 2011;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -58,7 +29,7 @@ BESLUIT:
 | b. | bloemkwekerijproducten | : | I. siergewassen II. teeltmateriaal III. hydrocultuur en IV. bloemzaden; |
 | c. | hydrocultuur | : | siergewassen die bestemd zijn voor gebruik in plantenbakken of potten, waarbij de plant met zijn wortels houvast heeft in poreuze korrels in een bak of pot, met daarin een laag water en voedingsstoffen; |
 | d. | ondernemer | : | de natuurlijke of rechtspersoon die een onderneming drijft voor wie het productschap is ingesteld; |
-| e. | siergewassen | : | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| e. | siergewassen | : | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: I. winterharde houtgewassen in hun geheel voor zover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; II. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; III. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen en IV. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | f. | teeltmateriaal | : | planten en plantendelen, die bestemd zijn om voor de teelt van bloemkwekerijproducten, of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 | g. | telersvereniging | : | een samenwerkingsverband van producenten van bloemkwekerijproducten; |
 | h. | veiling | : | een organisatie die bemiddelt bij aan- en verkopen van bloemkwekerijproducten of teeltmateriaal. |
@@ -98,7 +69,7 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 | vanaf € 0 | tot € 11.000.000 | 0,196% |
 | --- | --- | --- |
 | vanaf € 11.000.000 | tot € 50.000.000 | 0,133% |
-| vanaf € 50.000.000 |   | 0,070%. |
+| vanaf € 50.000.000 |  | 0,070%. |
 
 3. Voor de berekening van de heffing in het tweede lid worden aankopen voor doorteelt binnen eigen bedrijf op de aankoopwaarde in mindering gebracht.
 

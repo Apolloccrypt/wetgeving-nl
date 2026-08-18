@@ -1,55 +1,26 @@
 ---
 title: "Wet van 27 september 2012 tot wijziging van de Wet veiligheidsregio’s in verband met de oprichting van het Instituut Fysieke Veiligheid en in verband met de volledige regionalisering van de brandweer"
+citeertitel: "Wijzigingswet Wet veiligheidsregio’s, enz. (oprichting Instituut Fysieke Veiligheid en de volledige regionalisering van de brandweer)"
 identifier: "BWBR0032044"
-country: "nl"
-rank: "wet"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032044"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11859663"
-version_id: "19677642"
-internal_id: "C27738421"
-label_id: "11831764"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032044/2013-01-01/0"
-intitule_bron: "Stb.2012-443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-27"
-intitule_published: "2012-10-02"
-intitule_in_force: "2012-10-31"
-intitule_status: "goed"
-original_publication: "Stb.2012-443"
-original_signed_date: "2012-09-27"
-original_published_date: "2012-10-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "32841"
-original_url_id: "stb-2012-443"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032044&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032044&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet veiligheidsregio’s, enz. (oprichting Instituut Fysieke Veiligheid en de volledige regionalisering van de brandweer)"
-signed_date: "2012-09-27"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032044"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 27 september 2012 tot wijziging van de Wet veiligheidsregio’s in verband met de oprichting van het Instituut Fysieke Veiligheid en in verband met de volledige regionalisering van de brandweer
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is om ten dienste van de veiligheidsregio’s een ondersteuningsorganisatie op te richten, en om te komen tot een volledige regionalisering van de brandweer;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 ##### Artikel II
 
-Wijzigt de Veiligheidswet BES.
+*Wijzigt de Veiligheidswet BES.*
 
 ##### Artikel III
 
@@ -80,5 +51,3 @@ De administratie en het archief van het Nederlands instituut fysieke veiligheid 
 ##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

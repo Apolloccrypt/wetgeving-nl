@@ -1,38 +1,16 @@
 ---
 title: "Regeling prijsinformatie voortvloeiend uit contractafspraken"
 identifier: "BWBR0031143"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-01-24"
-last_updated: "2012-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031143"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11637303"
-version_id: "19203272"
-internal_id: "C26790711"
-label_id: "11610224"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031143/2012-01-24/0"
-intitule_bron: "Stcrt.2012-1247"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-01-10"
-intitule_published: "2012-01-23"
-intitule_in_force: "2012-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-1247"
-original_signed_date: "2012-01-10"
-original_published_date: "2012-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-1247"
-entry_into_force_date: "2012-01-24"
-jci_1_3: "jci1.3:c:BWBR0031143&z=2012-01-24&g=2012-01-24"
-jci_1_0: "1.0:c:BWBR0031143&g=2012-01-24"
-citeertitel_status: "officieel"
-signed_date: "2012-01-10"
-entry_into_force: "2012-01-24"
+publicatiedatum: 2012-01-24
+laatste_update: 2012-01-24
+status: geldig
+toestand: 2012-01-24
+bron: "https://wetten.overheid.nl/BWBR0031143"
+opgehaald: 2026-08-18
 ---
+
 # Regeling prijsinformatie voortvloeiend uit contractafspraken
 
 Vastgesteld op 10 januari 2012
@@ -43,6 +21,14 @@ Ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=6
 
 Deze regeling is van toepassing op zorgverzekeraars die zorg afnemen van
 
+- – instellingen voor medisch specialistische zorg (met uitzondering van sanatoria en abortusklinieken);
+
+- – audiologische centra;
+
+- – centra voor erfelijkheidsadvisering;
+
+- – zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden.
+
 ### 2. Doel van de regeling
 
 Deze regeling stelt voorschriften ten aanzien van de verstrekking van gegevens aan de NZa over de contractafspraken die tussen zorgverzekeraars en zorgaanbieders zijn afgesloten. De op deze manier ontvangen gegevens worden gebruikt ten behoeve van de marktonderzoekstaken van de NZa.
@@ -51,15 +37,65 @@ Deze regeling stelt voorschriften ten aanzien van de verstrekking van gegevens a
 
 In deze regeling wordt verstaan onder:
 
+- 3.1 De wet: de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wmg)
+
+- 3.2 Zorgaanbieder: zorgaanbieder als bedoeld in [artikel 1 sub c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+
+- 3.3 Zorgverzekeraar: zorgverzekeraar als bedoeld in de [artikel 1 sub d van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+
+- 3.4 Prestatie: een prestatie als genoemd in [artikel 1 sub j van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+
+- 3.5 DBC-zorgproduct: Een DBC-zorgproduct is een declarabele prestatie die is afgeleid uit subtrajecten en zorgactiviteiten via door de NZa vastgestelde beslisbomen.
+
+- 3.6 DBC-declaratiecode: 6-cijferige code waarmee een relatie wordt gelegd tussen het zorgproduct en het gereguleerde tarief of de afgesproken prijs van het DBC-zorgproduct. In het A-segment wordt aan elk DBC-zorgproduct een DBCdeclaratiecode uit de NZa-tariefgroep 14 (verzekerde zorg) en/of 16 (niet verzekerde zorg) gekoppeld. Aan elk individueel DBCzorgproduct in het B-segment wordt een DBC-declaratiecode uit de NZa-tariefgroep 15 (verzekerde zorg) en/of 17 (niet verzekerde zorg) gekoppeld.
+
+- 3.7 Overige zorgproducten: De prestaties binnen de medisch specialistisch zorg, niet zijnde DBC-zorgproducten. Overige zorgproducten bestaan uit een vijftal soorten prestaties, te weten:
+
+   - 1) add-ons,
+
+   - 2) ondersteunende producten,
+
+   - 3) overige producten,
+
+   - 4) overige trajecten en
+
+   - 5) overige verrichtingen.
+
+- 3.8 Gereguleerd segment1Dit segment wordt ook wel het A-segment genoemd.: Over de DBC-zorgproducten in het gereguleerde segment kunnen zorgverzekeraars en zorgaanbieders vrij onderhandelen over het kostendeel en het honorariumdeel van het tarief tot een door de NZa vastgesteld maximum.
+
+- 3.9 DBC-zorgproducten vrij segment2Dit segment wordt ook wel het B-segment genoemd.: Over de DBC-zorgproducten die vallen onder het vrije segment kunnen zorgverzekeraars en zorgaanbieders vrij onderhandelen over de prijs (en kwaliteit en volume) van zorg. Deze DBC-zorgproducten voldoen aan de criteria die de NZa gesteld heeft en de NZa stelt voor het kostendeel geen tarief vast, voor het honorariumdeel geldt een maximumtarief.
+
+- 3.10 Prijs: het bedrag welke door de zorgaanbieder voor een geleverde prestatie in rekening wordt gebracht, uitgesplitst in een kostendeel en een honorariumdeel.
+
 ### 4. Prijsinformatie voortvloeiend uit contractafspraken
 
 Een zorgverzekeraar die één of meerdere prestaties (zijnde DBC-zorgproducten in het A- of B-segment of overige zorgproducten) heeft gecontracteerd bij één of meerdere zorgaanbieders, levert voor het eind van de maand de prijsinformatie uit deze contractafspraken aan de NZa.
 
 De prijsinformatie omvat:
 
+- – de zorgverlenercode;
+
+- – de DBC- of overige zorgproductcode;
+
+- – de contractprijs, gesplitst in een kostendeel en het totaal van de honoraria van de specialismen, weergegeven in eurocenten;
+
+- – begin- en einddatum van de prijsafspraak;
+
+- – begin en eindnummer van de (eventuele) staffelafspraak.
+
 ### 5. Wijze van gegevensverstrekking
 
-De zorgverzekeraar maakt voor de opgave van de gegevens als bedoeld in artikel 4 gebruik van het door de NZa beschikbaar gestelde bestandformaat en bevat één voorloopregel, één sluitregel en daartussen voor elke afgesproken prijs een detailregel met de volgende velden:
+De zorgverzekeraar maakt voor de opgave van de gegevens als bedoeld in [artikel 4](https://wetten.overheid.nl/BWBR0031143) gebruik van het door de NZa beschikbaar gestelde bestandformaat en bevat één voorloopregel, één sluitregel en daartussen voor elke afgesproken prijs een detailregel met de volgende velden:
+
+- – de zorgverlenercode;
+
+- – de DBC- of overige zorgproductcode;
+
+- – de contractprijs, gesplitst in een kostendeel en het totaal van de honoraria van de specialismen, weergegeven in eurocenten;
+
+- – begin- en einddatum van de prijsafspraak;
+
+- – begin en eindnummer van de (eventuele) staffelafspraak.
 
 Het hiervoren bedoelde formaat is opgenomen in de bijlage bij deze regeling en is beschikbaar gesteld op de website van de NZa (www.nza.nl).
 
@@ -74,5 +110,3 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘[pri
 ### 7. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20) wordt geplaatst.
-
-Deze regeling kan worden aangehaald als: ‘Regeling prijsinformatie voortvloeiend uit contractafspraken’.

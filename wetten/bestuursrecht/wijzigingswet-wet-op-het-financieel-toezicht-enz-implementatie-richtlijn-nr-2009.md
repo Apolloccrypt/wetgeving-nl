@@ -1,119 +1,90 @@
 ---
 title: "Wet van 22 december 2011 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn nr. 2009/110/EG van het Europees Parlement en de Raad betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (PbEU L 267)"
+citeertitel: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn nr. 2009/110/EG)"
 identifier: "BWBR0031007"
-country: "nl"
-rank: "wet"
-publication_date: "2012-01-01"
-last_updated: "2012-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0031007"
+categorie: "Financieel recht"
 soort: "wet"
-stam_id: "11598963"
-version_id: "19131322"
-internal_id: "C26735341"
-label_id: "11572194"
-dtd_version: "2.0"
-original_entry_into_force: "2012-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0031007/2012-01-01/0"
-intitule_bron: "Stb.2011-670"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-12-22"
-intitule_published: "2011-12-29"
-intitule_in_force: "2011-12-29"
-intitule_status: "goed"
-original_publication: "Stb.2011-670"
-original_signed_date: "2011-12-22"
-original_published_date: "2011-12-29"
-original_effect: "nieuwe-regeling"
-original_dossier: "32826"
-original_url_id: "stb-2011-670"
-entry_into_force_date: "2012-01-01"
-jci_1_3: "jci1.3:c:BWBR0031007&z=2012-01-01&g=2012-01-01"
-jci_1_0: "1.0:c:BWBR0031007&g=2012-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn nr. 2009/110/EG)"
-signed_date: "2011-12-22"
-entry_into_force: "2012-01-01"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-01-01
+status: geldig
+toestand: 2012-01-01
+bron: "https://wetten.overheid.nl/BWBR0031007"
+opgehaald: 2026-08-18
 ---
+
 # Wet van 22 december 2011 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn nr. 2009/110/EG van het Europees Parlement en de Raad betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (PbEU L 267)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat [richtlijn nr. 2009/110/EG](32009L0110) van het Europees Parlement en de Raad betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de [Richtlijnen 2005/60/EG](32005L0060) en [2006/48/EG](32006L0048) en tot intrekking van [Richtlijn 2000/46/EG](32000L0046) (PbEU L 267), welke voorziet in een vergunningenstelsel voor elektronischgeldinstellingen, in Nederland dient te worden geïmplementeerd;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ##### Artikel II
 
-Wijzigt het Burgerlijk Wetboek.
+*Wijzigt het Burgerlijk Wetboek.*
 
 ##### Artikel III
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel IV
 
-Wijzigt de Wet inzake de geldtransactiekantoren.
+*Wijzigt de Wet inzake de geldtransactiekantoren.*
 
 ##### Artikel V
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
 ##### Artikel VI
 
-Wijzigt de Comptabiliteitswet 2001.
+*Wijzigt de Comptabiliteitswet 2001.*
 
 ##### Artikel VII
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
 ##### Artikel VIII
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel XI
 
-Wijzigt de Wet arbeid en zorg.
+*Wijzigt de Wet arbeid en zorg.*
 
 ##### Artikel XII
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
 ##### Artikel XIV
 
-Wijzigt de Ziektewet.
+*Wijzigt de Ziektewet.*
 
 ##### Artikel XV
 
-Wijzigt de Faillissementswet.
+*Wijzigt de Faillissementswet.*
 
 ##### Artikel XVI
 
-Wijzigt de Gerechtsdeurwaarderswet.
+*Wijzigt de Gerechtsdeurwaarderswet.*
 
 ##### Artikel XVII
 
-Wijzigt de Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt de Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel XVIII
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
 ##### Artikel XIX
 
@@ -137,34 +108,32 @@ Wijzigt de Sanctiewet 1977.
 
 ##### Artikel XXa
 
-Wijzigt de Mededingingswet.
+*Wijzigt de Mededingingswet.*
 
 ##### Artikel XXb
 
-Wijzigt de Bankwet 1998.
+*Wijzigt de Bankwet 1998.*
 
 ##### Artikel XXc
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
+*Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.*
 
 ##### Artikel XXd
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel XXe
 
-Wijzigt de Wet toezicht financiële verslaggeving.
+*Wijzigt de Wet toezicht financiële verslaggeving.*
 
 ##### Artikel XXf
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XXg
 
-Wijzigt de Wijzigingswet financiële markten 2012.
+*Wijzigt de Wijzigingswet financiële markten 2012.*
 
 ##### Artikel XXI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld. [Artikel I, met uitzondering van onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=I&z=2012-01-01&g=2012-01-01), de [artikelen II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=II&z=2012-01-01&g=2012-01-01), en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XV&z=2012-01-01&g=2012-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XIX&z=2012-01-01&g=2012-01-01) en [XXe](https://wetten.overheid.nl/jci1.3:c:BWBR0031007&artikel=XXe&z=2012-01-01&g=2012-01-01) werken alsdan terug tot en met 30 april 2011.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
