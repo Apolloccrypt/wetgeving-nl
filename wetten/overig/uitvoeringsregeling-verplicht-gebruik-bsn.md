@@ -1,41 +1,17 @@
 ---
 title: "Uitvoeringsregeling verplicht gebruik BSN"
 identifier: "BWBR0032640"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032640"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12014293"
-version_id: "19990992"
-internal_id: "C28088591"
-label_id: "11986044"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032640/2020-07-01/0"
-intitule_bron: "Stcrt.2012-26322"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-21"
-intitule_published: "2012-12-28"
-intitule_in_force: "2012-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26322"
-original_signed_date: "2012-12-21"
-original_published_date: "2012-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26322"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032640&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0032640&g=2020-07-01"
-citeertitel_status: "officieel"
-signed_date: "2012-12-21"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0032640"
+opgehaald: 2026-08-19
 ---
-# Uitvoeringsregeling verplicht gebruik BSN
 
-Besluit:
+# Uitvoeringsregeling verplicht gebruik BSN
 
 ##### Artikel 1
 
@@ -57,7 +33,7 @@ Besluit:
 
 ##### Artikel 2
 
-De regeling van de Staatssecretaris van Financiën van 29 mei 2009 houdende [Uitvoeringsregeling verplicht gebruik burgerservicenummer in beleidsregels van de rijksbelastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0025924) (**Stcrt. 2009, 107**) wordt ingetrokken.
+De regeling van de Staatssecretaris van Financiën van 29 mei 2009 houdende [Uitvoeringsregeling verplicht gebruik burgerservicenummer in beleidsregels van de rijksbelastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0025924) (*Stcrt. 2009, 107*) wordt ingetrokken.
 
 ##### Artikel 3
 
@@ -66,5 +42,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling verplicht gebruik BSN.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

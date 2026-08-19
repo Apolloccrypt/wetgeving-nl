@@ -1,62 +1,34 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken van 26 april 2013, nr. WJZ/13073193, houdende de instelling van een criminele-inlichtingeneenheid NVWA-IOD (Regeling instelling criminele-inlichtingeneenheid NVWA-IOD)"
+citeertitel: "Regeling instelling criminele-inlichtingeneenheid NVWA-IOD"
 identifier: "BWBR0033362"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-05-04"
-last_updated: "2013-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033362"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12243213"
-version_id: "20481112"
-internal_id: "C28806241"
-label_id: "12214674"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033362/2013-05-04/0"
-intitule_bron: "Stcrt.2013-11654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-26"
-intitule_published: "2013-05-03"
-intitule_in_force: "2013-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-11654"
-original_signed_date: "2013-04-26"
-original_published_date: "2013-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-11654"
-entry_into_force_date: "2013-05-04"
-jci_1_3: "jci1.3:c:BWBR0033362&z=2013-05-04&g=2013-05-04"
-jci_1_0: "1.0:c:BWBR0033362&g=2013-05-04"
-citeertitel_status: "officieel"
-short_title: "Regeling instelling criminele-inlichtingeneenheid NVWA-IOD"
-signed_date: "2013-04-26"
-entry_into_force: "2013-05-04"
+publicatiedatum: 2013-05-04
+laatste_update: 2013-05-04
+status: geldig
+toestand: 2013-05-04
+bron: "https://wetten.overheid.nl/BWBR0033362"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken van 26 april 2013, nr. WJZ/13073193, houdende de instelling van een criminele-inlichtingeneenheid NVWA-IOD (Regeling instelling criminele-inlichtingeneenheid NVWA-IOD)
-
-Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
-
-Gelet op [artikel 12, tweede lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=12);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **nationale criminele-inlichtingeneenheid:** eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
+- a. *nationale criminele-inlichtingeneenheid:* eenheid, genoemd in [artikel 1, onderdeel d, van het Besluit verplichte politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=1);
 
-- b. **informantgegevens:** gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
+- b. *informantgegevens:* gegevens omtrent een persoon als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12);
 
-- c. **criminele-inlichtingen:** gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+- c. *criminele-inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- d. **CIE-officier van justitie:** de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid NVWA-IOD;
+- d. *CIE-officier van justitie:* de als zodanig aangewezen officier van justitie, verantwoordelijk voor de taakuitoefening van de criminele-inlichtingeneenheid NVWA-IOD;
 
-- e. **NVWA-IOD:** Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;
+- e. *NVWA-IOD:* Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;
 
-- f. **verantwoordelijke:** de Minister van Economische Zaken.
+- f. *verantwoordelijke:* de Minister van Economische Zaken.
 
 2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door het hoofd van de NVWA-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=5&z=2013-05-04&g=2013-05-04), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=7&z=2013-05-04&g=2013-05-04), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=8&z=2013-05-04&g=2013-05-04), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033362&artikel=9&z=2013-05-04&g=2013-05-04).
 
@@ -80,9 +52,9 @@ Besluit:
 
 - d. het analyseren van criminele-inlichtingen en het aan de hand daarvan:
 
-- 1o. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
+   - 1o. signaleren van criminaliteitsontwikkelingen, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
-- 2o. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
+   - 2o. periodiek verslag doen ten behoeve van criminaliteitsbeelden;
 
 - e. het ter beschikking stellen van criminele-inlichtingen overeenkomstig [artikel 10, vijfde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10);
 
@@ -149,65 +121,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling instelling criminele-inlichtingeneenheid NVWA-IOD.
-
-## Bijlage I
-
-Het Criminele inlichtingenrapport dient de volgende verplichte rubrieken te bevatten:
-
-| Uniek registratienummer | Datum van registratie | Naam/nummer rapporteur |
-| --- | --- | --- |
-|   |   |   |
-| Naam van de CIE | Regionummer (PL-code) | Telefoonnummer CIE |
-
-| Herkomstbron | Tekstveld |
-| --- | --- |
-| Openbron | Welke bron + datum |
-| Verkennend onderzoek | Korps + Landelijk parketnummer en/of naam onderzoek |
-| Opsporingsonderzoek | Korps + PV-nummer en/of naam onderzoek onderzoe |
-| Buitenlands opsporingsonderzoek | Land + uniek nummer en/of naam onderzoek + ontvangstregio |
-| Informant | Geen veld, niet relevant |
-| Anonieme bron | Naam opsporingsambtenaar die bericht ontvangt en PV-nummer |
-| Getuige | Naam + geb.datum + bedrijf/ instelling, tenzij de identiteit van de getuige afgeschermd wordt; in dat geval worden geen gegevens vermeld |
-| Waarneming opsporingsambtenaar buiten opsporingsonderzoek | Naam verbalisant en PV-nummer |
-
-| 11 | Operationeel te gebruiken |
-| --- | --- |
-|   |   |
-| 01 | Alleen te gebruiken na overleg met de afzender |
-|   |   |
-| 00 | Informatie met zware beperkingen voor gebruik |
-|   |   |
-| 200 | Kan niet operationeel gebruikt worden, maar kan onder bepaalde voorwaarden wel voor coördinatie- en analysedoeleinden worden gebruikt. + Informatie met verhoogd afbreukrisico |
-|   |   |
-| 300 | Kan niet operationeel gebruikt worden, maar kan onder bepaalde voorwaarden wel voor coördinatie- en analysedoeleinden worden gebruikt. + Informatie met bronbeschermingsbelangen |
-
-| In CIE-informatie genoemde herleidbare persoon: | In CIE-informatie genoemde herleidbare rechtspersoon: |
-| --- | --- |
-| – Achternaam | – Bedrijfs/handelsnaam |
-| – Voornaam | – KvK-code/inschrijvingsnummer |
-| – Geboortedatum | – Adres |
-| – Adres | – Vestigingsplaats |
-| – Status (verdachte, CIE-subject, relatie,) |   |
-
-De volgende twee rubrieken (evaluatiecode informant en evaluatiecode informatie afkomstig van informanten) zijn voor de eigen administratie van de CIE. Deze gegevens worden niet verstrekt buiten de CIE-structuur.
-
-| A | Betrouwbaar | B | Meestal betrouwbaar |
-| --- | --- | --- | --- |
-|   |   |   |   |
-| C | Minder betrouwbaar/tot niet betrouwbaar | D | Niet te beoordelen |
-|   |   |   |   |
-
-| 1 | Waargenomen (door bron zelf) |
-| --- | --- |
-|   |   |
-| 2 | Gehoord (van iemand die erbij geweest is) |
-|   |   |
-| 3 | Indirect gehoord (via via) |
-
-## Bijlage II
-
-### Verwijsindex-gegevens
-
-Opmerkingen:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

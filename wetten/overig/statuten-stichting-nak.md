@@ -1,38 +1,17 @@
 ---
 title: "Statuten Stichting NAK"
 identifier: "BWBR0033075"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-04-04"
-last_updated: "2006-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033075"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12150913"
-version_id: "20295162"
-internal_id: "C28554401"
-label_id: "12122714"
-dtd_version: "2.0"
-original_entry_into_force: "2006-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033075/2006-04-04/0"
-intitule_bron: "Stcrt.2006-67"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-04-04"
-intitule_in_force: "2006-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-67"
-original_published_date: "2006-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-67-p15-SC74624"
-entry_into_force_date: "2006-04-04"
-jci_1_3: "jci1.3:c:BWBR0033075&z=2006-04-04&g=2006-04-04"
-jci_1_0: "1.0:c:BWBR0033075&g=2006-04-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2006-04-04"
+publicatiedatum: 2006-04-04
+laatste_update: 2006-04-04
+status: geldig
+toestand: 2006-04-04
+bron: "https://wetten.overheid.nl/BWBR0033075"
+opgehaald: 2026-08-19
 ---
-# Statuten Stichting NAK
 
-**Statuten van de Stichting ’Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen’ (’NAK’) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit bij besluit van 30 maart 2006**
+# Statuten Stichting NAK
 
 #### Inleidende bepalingen
 

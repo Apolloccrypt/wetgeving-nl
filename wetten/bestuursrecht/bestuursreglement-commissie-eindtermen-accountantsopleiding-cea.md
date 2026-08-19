@@ -1,40 +1,30 @@
 ---
 title: "Bestuursreglement Commissie eindtermen accountantsopleiding (CEA)"
 identifier: "BWBR0033422"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-05-14"
-last_updated: "2013-05-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033422"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12258403"
-version_id: "20515012"
-internal_id: "C28853751"
-label_id: "12229784"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033422/2013-05-14/0"
-intitule_bron: "Stcrt.2013-12575"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-14"
-intitule_in_force: "2013-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-12575"
-original_published_date: "2013-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-12575"
-entry_into_force_date: "2013-05-14"
-jci_1_3: "jci1.3:c:BWBR0033422&z=2013-05-14&g=2013-05-14"
-jci_1_0: "1.0:c:BWBR0033422&g=2013-05-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-05-14"
+publicatiedatum: 2013-05-14
+laatste_update: 2013-05-14
+status: geldig
+toestand: 2013-05-14
+bron: "https://wetten.overheid.nl/BWBR0033422"
+opgehaald: 2026-08-19
 ---
+
 # Bestuursreglement Commissie eindtermen accountantsopleiding (CEA)
 
 ### 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
+
+- a. *CEA:* de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid, van de Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+
+- b. *minister:* de minister van Financiën;
+
+- c. *secretaris:* de secretaris van de CEA:
+
+- d. *Wab:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
 
 ### 2. De CEA
 

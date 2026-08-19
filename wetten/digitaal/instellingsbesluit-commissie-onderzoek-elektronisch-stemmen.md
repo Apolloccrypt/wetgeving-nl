@@ -1,42 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie onderzoek elektronisch stemmen"
 identifier: "BWBR0033372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-05-11"
-last_updated: "2013-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033372"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12245253"
-version_id: "20488872"
-internal_id: "C28818981"
-label_id: "12216624"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033372/2013-05-11/0"
-intitule_bron: "Stcrt.2013-12547"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-10"
-intitule_in_force: "2013-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-12547"
-original_published_date: "2013-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-12547"
-entry_into_force_date: "2013-05-11"
-jci_1_3: "jci1.3:c:BWBR0033372&z=2013-05-11&g=2013-05-11"
-jci_1_0: "1.0:c:BWBR0033372&g=2013-05-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-05-11"
+publicatiedatum: 2013-05-11
+laatste_update: 2013-05-11
+status: geldig
+toestand: 2013-05-11
+bron: "https://wetten.overheid.nl/BWBR0033372"
+opgehaald: 2026-08-19
 ---
+
 # Instellingsbesluit Commissie onderzoek elektronisch stemmen
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6):
-
-Besluiten
 
 ##### Artikel 1
 
@@ -81,5 +56,3 @@ De archiefbescheiden van de commissie worden na haar opheffing of, zo de omstand
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

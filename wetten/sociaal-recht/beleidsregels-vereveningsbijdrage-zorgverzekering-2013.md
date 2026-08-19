@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2013"
 identifier: "BWBR0032997"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-10-01"
-last_updated: "2014-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032997"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "12133553"
-version_id: "20250252"
-internal_id: "C28484711"
-label_id: "12105884"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032997/2014-10-01/0"
-intitule_bron: "Stcrt.2013-6770"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-03-14"
-intitule_in_force: "2013-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-6770"
-original_published_date: "2013-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-6770"
-entry_into_force_date: "2013-03-16"
-jci_1_3: "jci1.3:c:BWBR0032997&z=2014-10-01&g=2014-10-01"
-jci_1_0: "1.0:c:BWBR0032997&g=2014-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2013-03-16"
+publicatiedatum: 2013-03-16
+laatste_update: 2014-10-01
+status: geldig
+toestand: 2014-10-01
+bron: "https://wetten.overheid.nl/BWBR0032997"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) en de brief van de minister van VWS van 15 januari 2013, kenmerk Z-3150627;
-
-Heeft in zijn vergadering van 18 februari 2013 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -42,27 +19,27 @@ Heeft in zijn vergadering van 18 februari 2013 besloten:
 
 Deze beleidsregels verstaan onder:
 
-- a. **college:** het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *college:* het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- b. *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- c. **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
+- c. *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau op basis van de opgave van de zorgverzekeraars en trends van het CBS naar aantal inwoners in Nederland;
 
-- d. **MHK** :meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- d. *MHK* :meerjarige hoge kosten als bedoeld in [artikel 1, onderdeel z van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- e. **FKG GGZ:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- e. *FKG GGZ:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- f. **GGZ-kosten lage drempel:** Kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel als bedoeld in [artikel 1, onderdeel x van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- f. *GGZ-kosten lage drempel:* Kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel als bedoeld in [artikel 1, onderdeel x van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- g. **GGZ-kosten hoge drempel:** Kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel als bedoeld in [artikel 1, onderdeel y van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- g. *GGZ-kosten hoge drempel:* Kosten van geneeskundige geestelijke gezondheidszorg boven de hoge drempel als bedoeld in [artikel 1, onderdeel y van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- h. **PKB:** persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
+- h. *PKB:* persoonskenmerkenbestand; een bestand dat bestaat uit de opgave van de zorgverzekeraar met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres;
 
-- i. **VPPKB:** verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
+- i. *VPPKB:* verzekerde periode en persoonskenmerkenbestand; een bestand dat bestaat uit twee delen. Het eerste deel betreft de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat. Het tweede deel betreft de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat;
 
-- j. **verzekerde woonachtig in het buitenland:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
+- j. *verzekerde woonachtig in het buitenland:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is;
 
-- k. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34).
+- k. *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34).
 
 ##### Artikel 2. Algemene bepaling
 
@@ -1172,11 +1149,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 5. Het college betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met d, in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
-|   | Bestanddelen betalingen |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
-| Betaalmoment | Artikel 41 vierde lid, onder a | [Artikel 41 vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=41&z=2014-10-01&g=2014-10-01) | [Artikel 41 vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=41&z=2014-10-01&g=2014-10-01) | [Artikel 41 vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=41&z=2014-10-01&g=2014-10-01) |
-| januari 2013 |   | 0,5200% |   |   |
-| februari 2013 | 0,9195% | 2,0800% |   | 8,3333% |
+| Betaalmoment | Artikel 41 vierde lid, onder a | Artikel 41 vierde lid, onder b | Artikel 41 vierde lid, onder c | Artikel 41 vierde lid, onder d |
+| januari 2013 |  | 0,5200% |  |  |
+| februari 2013 | 0,9195% | 2,0800% |  | 8,3333% |
 | maart 2013 | 2,6437% | 4,1700% | 8,3333% | 8,3333% |
 | april 2013 | 4,3678% | 6,2500% | 8,3334% | 8,3334% |
 | mei 2013 | 6,0920% | 7,8100% | 8,3333% | 8,3333% |
@@ -1188,11 +1165,11 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 | november 2013 | 8,3333% | 8,3300% | 8,3333% | 8,3333% |
 | december 2013 | 8,3333% | 8,3400% | 8,3333% | 8,3333% |
 | januari 2014 | 8,3333% | 7,8100% | 8,3334% | 8,3334% |
-| februari 2014 | 7,4139% | 6,2500% | 8,3333% |   |
-| maart 2014 | 5,6897% | 4,1700% |   |   |
-| april 2014 | 3,9656% | 2,0800% |   |   |
-| mei 2014 | 2,2414% | 0,5200% |   |   |
-| juni 2014 | 0,6898% |   |   |   |
+| februari 2014 | 7,4139% | 6,2500% | 8,3333% |  |
+| maart 2014 | 5,6897% | 4,1700% |  |  |
+| april 2014 | 3,9656% | 2,0800% |  |  |
+| mei 2014 | 2,2414% | 0,5200% |  |  |
+| juni 2014 | 0,6898% |  |  |  |
 
 6. Voor een zorgverzekeraar, die zich op grond van [artikel 25 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25) aanmeldt bij de Nederlandse Zorgautoriteit nadat het college de bijdragen voor de zorgverzekeraars heeft toegekend, kan het college voor die zorgverzekeraar afwijken van de vorige leden.
 
@@ -1253,368 +1230,3 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 ##### Artikel 46
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2013.
-
-## Bijlage 1. Prevalentie-ontwikkeling 2012–2013 per morbiditeitsrisicoklasse per FGK 2013
-
-Bron: College voor zorgverzekeringen
-
-| Mannen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Geen FKG | Glaucoom | Schildklieraandoeningen | Psychose, Alzheimer en verslaving | Depressie | Neuropathische pijn |
-| 0 t/m 17 | 0,999718 | 1,103468 | 1,076180 | 1,115061 | 1,128787 | 1,035339 |
-| 18 t/m 29 | 0,999243 | 1,088448 | 1,045733 | 0,997748 | 1,033647 | 1,098684 |
-| 30 t/m 44 | 0,998047 | 0,984194 | 1,039638 | 1,034106 | 1,040017 | 1,063321 |
-| 45 t/m 59 | 0,994673 | 1,002219 | 1,039571 | 1,068443 | 1,031860 | 1,043059 |
-| 60 t/m 74 | 0,982322 | 1,013948 | 1,041829 | 1,071096 | 1,041538 | 1,050655 |
-| 75 e.o. | 0,965751 | 1,001863 | 1,036500 | 1,072482 | 1,012786 | 0,993264 |
-
-| Vrouwen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Geen FKG | Glaucoom | Schildklieraandoeningen | Psychose, Alzheimer en verslaving | Depressie | Neuropathische pijn |
-| 0 t/m 17 | 0,999846 | 1,019773 | 0,998592 | 1,151984 | 1,053967 | 0,944187 |
-| 18 t/m 29 | 0,998890 | 1,061470 | 1,033880 | 1,017758 | 1,040939 | 0,974125 |
-| 30 t/m 44 | 0,997259 | 1,072326 | 1,043435 | 1,016593 | 1,020899 | 1,067841 |
-| 45 t/m 59 | 0,992800 | 0,996174 | 1,034705 | 1,040993 | 1,023214 | 1,030363 |
-| 60 t/m 74 | 0,982207 | 1,002893 | 1,037420 | 1,054989 | 1,036075 | 1,058459 |
-| 75 e.o. | 0,979098 | 1,007724 | 1,027912 | 1,081026 | 0,997046 | 0,971499 |
-
-| Mannen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Hoog cholesterol | Diabetes type II zonder hypertensie | COPD/zware astma | Astma | Diabetes type II met hypertensie | Epilepsie |
-| 0 t/m 17 | 1,068790 | 1,034109 | 0,966835 | 0,998828 | 0,886496 | 1,035715 |
-| 18 t/m 29 | 1,040223 | 1,034109 | 1,039389 | 1,010336 | 0,886496 | 1,023074 |
-| 30 t/m 44 | 1,017903 | 1,030298 | 1,044018 | 1,007116 | 1,079221 | 1,002352 |
-| 45 t/m 59 | 1,024183 | 1,024344 | 1,066374 | 1,016744 | 1,025499 | 1,008442 |
-| 60 t/m 74 | 1,050354 | 0,981653 | 1,034878 | 1,013089 | 1,024908 | 1,024577 |
-| 75 e.o. | 1,091849 | 0,980389 | 1,017063 | 0,993328 | 1,017002 | 1,018356 |
-
-| Vrouwen | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Hoog cholesterol | Diabetes type II zonder hypertensie | COPD/zware astma | Astma | Diabetes type II met hypertensie | Epilepsie |
-| 0 t/m 17 | 1,107616 | 1,023661 | 1,002291 | 0,998049 | 1,050221 | 1,024595 |
-| 18 t/m 29 | 1,000253 | 1,023661 | 1,099083 | 0,997636 | 1,050221 | 1,000600 |
-| 30 t/m 44 | 1,021486 | 1,046387 | 1,042194 | 1,011573 | 0,991278 | 1,003510 |
-| 45 t/m 59 | 1,042967 | 1,031119 | 1,054380 | 1,029693 | 1,028553 | 1,011110 |
-| 60 t/m 74 | 1,060316 | 0,983024 | 1,070232 | 1,031798 | 1,008224 | 1,030511 |
-| 75 e.o. | 1,105586 | 0,949919 | 1,046290 | 1,042638 | 0,989420 | 1,018583 |
-
-| Mannen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Ziekte van Crohn/Colitis Ulcerosa | Hartaandoeningen | Reuma | Parkinson | Diabetes type I | Transplantaties |
-| 0 t/m 17 | 1,023977 | 0,978484 | 1,107166 | 1,020173 | 1,023120 | 1,110166 |
-| 18 t/m 29 | 1,022335 | 1,026759 | 1,035424 | 1,020173 | 1,021266 | 1,021156 |
-| 30 t/m 44 | 1,005977 | 0,991677 | 1,080538 | 1,020173 | 0,993956 | 1,054310 |
-| 45 t/m 59 | 1,037986 | 0,975422 | 1,073242 | 1,046671 | 0,998439 | 1,046121 |
-| 60 t/m 74 | 1,027602 | 0,974986 | 1,092162 | 1,019034 | 1,008092 | 1,039466 |
-| 75 e.o. | 1,018316 | 0,980111 | 1,055248 | 1,032997 | 1,032343 | 1,066827 |
-
-| Vrouwen | 12 | 13 | 14 | 15 | 16 | 17 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Ziekte van Crohn/Colitis Ulcerosa | Hartaandoeningen | Reuma | Parkinson | Diabetes type I | Transplantaties |
-| 0 t/m 17 | 1,026042 | 0,857223 | 1,070574 | 1,081991 | 1,011733 | 1,040573 |
-| 18 t/m 29 | 0,969310 | 1,047371 | 1,085957 | 1,081991 | 1,044446 | 1,026607 |
-| 30 t/m 44 | 1,026352 | 1,004070 | 1,067059 | 1,081991 | 0,988232 | 1,058118 |
-| 45 t/m 59 | 1,038695 | 0,982225 | 1,071679 | 1,017931 | 0,995372 | 1,057924 |
-| 60 t/m 74 | 1,069441 | 0,979959 | 1,074935 | 1,011400 | 0,986291 | 1,051651 |
-| 75 e.o. | 1,027720 | 0,976367 | 1,079724 | 1,036162 | 1,003068 | 1,103433 |
-
-| Mannen | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Cystic fibrosis/pancreasenzymen | Aand. van hersenen/ruggemerg | Kanker | Hormoongevoelige tumoren | HIV/AIDS | Nieraandoeningen | Groeihormonen |
-| 0 t/m 17 | 0,975817 | 0,971736 | 0,788487 | 1,053760 | 1,122961 | 0,972784 | 1,054729 |
-| 18 t/m 29 | 1,043966 | 0,971736 | 1,099803 | 1,053760 | 1,187398 | 0,972784 | 1,017973 |
-| 30 t/m 44 | 1,042147 | 1,062215 | 1,087515 | 0,951838 | 1,058101 | 0,977046 | 1,016369 |
-| 45 t/m 59 | 0,998555 | 1,073000 | 1,066420 | 1,004480 | 1,113948 | 0,999226 | 0,957358 |
-| 60 t/m 74 | 1,069397 | 1,092396 | 1,034424 | 1,003191 | 1,178061 | 0,975536 | 1,039715 |
-| 75 e.o. | 1,073752 | 1,069907 | 1,073379 | 1,012391 | 1,150632 | 0,967737 | 1,039715 |
-
-| Vrouwen | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Cystic fibrosis/pancreasenzymen | Aand. van hersenen/ruggemerg | Kanker | Hormoongevoelige tumoren | HIV/AIDS | Nieraandoeningen | Groeihormonen |
-| 0 t/m 17 | 0,960673 | 1,025958 | 1,238943 | 1,083221 | 1,057974 | 0,886372 | 1,051110 |
-| 18 t/m 29 | 0,983893 | 1,025958 | 1,179182 | 1,100643 | 1,000567 | 0,886372 | 0,964612 |
-| 30 t/m 44 | 1,100903 | 1,025650 | 1,099133 | 1,041935 | 1,071376 | 0,943136 | 1,003352 |
-| 45 t/m 59 | 0,968003 | 1,074712 | 1,049646 | 1,043533 | 1,140072 | 0,941525 | 1,034380 |
-| 60 t/m 74 | 1,082373 | 1,064369 | 0,995114 | 1,064317 | 1,188780 | 0,945714 | 1,014630 |
-| 75 e.o. | 1,082083 | 1,070487 | 1,028741 | 1,010350 | 1,188780 | 1,005590 | 1,014630 |
-
-| Mannen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Geen FKG GGZ | Psychose | Psychose depot | Stemmingstoornis | Verslaving | Bipolaire stoornis reg. |
-| 0 t/m 17 | 0,998027 | 1,117450 | 0,968740 | 1,113914 | 0,958307 | 0,866978 |
-| 18 t/m 29 | 0,998789 | 1,005152 | 0,968740 | 1,026146 | 0,958307 | 0,866978 |
-| 30 t/m 44 | 0,998371 | 1,038790 | 0,997696 | 1,036390 | 1,023389 | 1,010568 |
-| 45 t/m 59 | 0,998105 | 1,068791 | 1,022281 | 1,036134 | 1,084257 | 0,964035 |
-| 60 t/m 74 | 0,998307 | 1,075171 | 1,063003 | 1,045307 | 1,114882 | 1,003139 |
-| 75 e.o. | 0,999414 | 1,075460 | 0,968953 | 1,016464 | 1,338917 | 0,988236 |
-
-| Vrouwen | 0 | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Leeftijd | Geen FKG GGZ | Psychose | Psychose depot | Stemmingstoornis | Verslaving | Bipolaire stoornis reg. |
-| 0 t/m 17 | 0,999153 | 1,134171 | 1,008658 | 1,064999 | 0,872436 | 0,909147 |
-| 18 t/m 29 | 0,998645 | 1,024530 | 1,008658 | 1,036910 | 0,872436 | 0,909147 |
-| 30 t/m 44 | 0,998670 | 1,022096 | 0,984263 | 1,019318 | 0,966590 | 0,915676 |
-| 45 t/m 59 | 0,997841 | 1,059234 | 0,969721 | 1,026280 | 1,007503 | 0,947124 |
-| 60 t/m 74 | 0,997613 | 1,058860 | 0,999560 | 1,037412 | 1,089451 | 0,953401 |
-| 75 e.o. | 0,999756 | 1,024159 | 0,938793 | 1,004217 | 1,257659 | 0,961756 |
-
-| Mannen | 6 | 7 |
-| --- | --- | --- |
-| Leeftijd | Bipolaire stoornis compl. | ADHD |
-| 0 t/m 17 | 1,054845 | 1,090344 |
-| 18 t/m 29 | 1,054845 | 1,167897 |
-| 30 t/m 44 | 0,960484 | 1,170574 |
-| 45 t/m 59 | 1,012448 | 1,157906 |
-| 60 t/m 74 | 1,020521 | 1,212823 |
-| 75 e.o. | 0,979485 | 0,918835 |
-
-| Vrouwen | 6 | 7 |
-| --- | --- | --- |
-| Leeftijd | Bipolaire stoornis compl. | ADHD |
-| 0 t/m 17 | 1,038369 | 1,164863 |
-| 18 t/m 29 | 1,038369 | 1,208419 |
-| 30 t/m 44 | 1,012425 | 1,222916 |
-| 45 t/m 59 | 1,048032 | 1,232612 |
-| 60 t/m 74 | 1,008917 | 1,196263 |
-| 75 e.o. | 1,012814 | 1,196263 |
-
-## Bijlage 2. Toewijzing FGK’s diabetes 2013 op basis van farmaciegebruik voor diabetes en hypertensie
-
-Bron: College voor zorgverzekeringen
-
-| Diabetes type I | Diabetes type II | Hypertensie | Toewijzing FKG |
-| --- | --- | --- | --- |
-| >180 | >180 | >180 | Diabetes type I |
-| >180 | >180 | ≤180 | Diabetes type I |
-| >180 | ≤180 | >180 | Diabetes type I |
-| >180 | ≤180 | ≤180 | Diabetes type I |
-| ≤180 | >180 | >180 | Diabetes type II met hypertensie |
-| ≤180 | >180 | ≤180 | Diabetes type II zonder hypertensie |
-| ≤180 | ≤180 | >180 | Geen |
-| ≤180 | ≤180 | ≤180 | Geen |
-
-Toelichting:
-
-Groter of kleiner dan 180 verwijst naar de dagdosering voor de betreffende FKG. De tabel beschrijft de verschillende situaties die mogelijk zijn bij een samenloop van farmaciegebruik voor diabetes en hypertensie. In de laatste kolom staat aangegeven welke FKG’s toegewezen worden in de betreffende situatie.
-
-## Bijlage 3. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 4. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 5. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 6. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 7. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 8. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 9. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium meerjarig hoge kosten (in euro’s per verzekerde) voor het deelbedrag variabele kosten van medisch-specialistische zorg
-
-## Bijlage 10. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor verzekerden onder achttien jaar voor het deelbedrag geneeskundige GGZ voor verzekerden onder achttien jaar
-
-## Bijlage 11. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van 18 jaar en ouder
-
-## Bijlage 12. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium FKG’s psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 13. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 14. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium GGZ-regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 15. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium SES (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 16. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2)
-
-### Gewichten voor het criterium woonachtig in Nederland op een éénpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 17. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2) en eigen berekening CVZ
-
-### Gewichten voor het criterium GGZ-kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 18. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 2 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2) en eigen berekening CVZ
-
-### Gewichten voor het criterium GGZ-kosten hoge drempelklasse voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-## Bijlage 19. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 20. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium FKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 21. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium DKG’s (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 22. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 23. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het regiocriterium (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 24. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor de SES klasse (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 25. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 1 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1)
-
-### Gewichten voor het criterium meerjarig hoge kosten (MHK) (in euro’s per verzekerde) voor het deelbedrag overige prestaties
-
-## Bijlage 26. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per klasse naar leeftijd en geslacht (in euro’s per verzekerde)
-
-## Bijlage 27. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per klasse naar aard van het inkomen (in euro’s per verzekerde)
-
-## Bijlage 28. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 4 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=4)
-
-### Gewichten voor de eigen risico opbrengst per verzekerde per risicoklasse naar regio (in euro’s per verzekerde)
-
-## Bijlage 29. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 30. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 31. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 32. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium GGZ-regio (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 33. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium sociaal economische status (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 34. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3)
-
-### Gewichten voor het criterium woonachtig in Nederland op een éénpersoonsadres (in euro’s per verzekerde) voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 35. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3) en eigen berekening CVZ
-
-### Gewichten voor het criterium GGZ-kosten lage drempelklasse voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-## Bijlage 36. Van de Beleidsregels vereveningsbijdrage zorgverzekering 2013
-
-Bron: [Bijlage 3 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3) en eigen berekening CVZ
-
-### Gewichten voor het criterium GGZ-kosten hoge drempelklasse voor het deelbedrag geneeskundige GGZ voor verzekerden van achttien jaar en ouder
-
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex post berekening van het normatieve bedrag van een zorgverzekeraar en bevatten een correctie voor HKC.
-
-Deze beleidsregels worden in de Staatscourant geplaatst.

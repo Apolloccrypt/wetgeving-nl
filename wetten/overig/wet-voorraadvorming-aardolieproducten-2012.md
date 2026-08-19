@@ -1,47 +1,18 @@
 ---
 title: "Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)"
+citeertitel: "Wet voorraadvorming aardolieproducten 2012"
 identifier: "BWBR0032775"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-23"
-last_updated: "2021-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032775"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12061553"
-version_id: "20098392"
-internal_id: "C28571281"
-label_id: "12033734"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032775/2021-07-23/0"
-intitule_bron: "Stb.2013-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-01-17"
-intitule_in_force: "2013-03-28"
-intitule_status: "goed"
-original_publication: "Stb.2013-15"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-01-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "33357"
-original_url_id: "stb-2013-15"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0032775&z=2021-07-23&g=2021-07-23"
-jci_1_0: "1.0:c:BWBR0032775&g=2021-07-23"
-citeertitel_status: "officieel"
-short_title: "Wet voorraadvorming aardolieproducten 2012"
-signed_date: "2012-12-20"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2021-07-23
+status: geldig
+toestand: 2021-07-23
+bron: "https://wetten.overheid.nl/BWBR0032775"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) integraal te herzien ter implementatie van [Richtlijn 2009/119/EG](32009L0119) van de Raad van 14 september 2009, houdende verplichting voor de lidstaten om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden (PbEU 2009, L 265);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,47 +20,48 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bilateraal akkoord:** tussen Nederland en een andere staat geldend verdrag als bedoeld in artikel 3 van de bijlage bij de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47);
+- – *bilateraal akkoord:* tussen Nederland en een andere staat geldend verdrag als bedoeld in artikel 3 van de bijlage bij de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47);
 
-- –. **binnenlands verbruik:** het overeenkomstig bijlage II van [richtlijn 2009/119/EG](32009L0119) berekende totaal van de in Nederland geleverde hoeveelheden aardolieproducten voor energie- en niet-energiedoeleinden, met dien verstande dat dit totaal bestaat uit de leveringen aan de omzettingssector, de industrie, de vervoersector, de huishoudens en andere sectoren met het oog op eindverbruik; dit totaal omvat mede het eigen gebruik van de energiesector zelf (met uitzondering van het verbruik van raffinaderijbrandstof);
+- – *binnenlands verbruik:* het overeenkomstig bijlage II van richtlijn 2009/119/EG berekende totaal van de in Nederland geleverde hoeveelheden aardolieproducten voor energie- en niet-energiedoeleinden, met dien verstande dat dit totaal bestaat uit de leveringen aan de omzettingssector, de industrie, de vervoersector, de huishoudens en andere sectoren met het oog op eindverbruik; dit totaal omvat mede het eigen gebruik van de energiesector zelf (met uitzondering van het verbruik van raffinaderijbrandstof);
 
-- –. **biobrandstof:** voor vervoer bestemde vloeibare of gasvormige brandstof gemaakt uit biomassa, waarbij onder «biomassa» wordt verstaan het biologisch afbreekbare deel van producten, afvalstoffen en residuen van de landbouw (met inbegrip van plantaardige en dierlijke stoffen), de bosbouw en aanverwante bedrijfstakken, alsmede het biologisch afbreekbare deel van industrieel en huishoudelijk afval;
+- – *biobrandstof:* voor vervoer bestemde vloeibare of gasvormige brandstof gemaakt uit biomassa, waarbij onder «biomassa» wordt verstaan het biologisch afbreekbare deel van producten, afvalstoffen en residuen van de landbouw (met inbegrip van plantaardige en dierlijke stoffen), de bosbouw en aanverwante bedrijfstakken, alsmede het biologisch afbreekbare deel van industrieel en huishoudelijk afval;
 
-- –. **bunkervoorraden van de internationale zeescheepvaart:** totaal dat is gedefinieerd in bijlage A, punt 2.1, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van de Europese Unie van 22 oktober 2008 (PbEU 2008, L 304) betreffende energiestatistieken;
+- – *bunkervoorraden van de internationale zeescheepvaart:* totaal dat is gedefinieerd in bijlage A, punt 2.1, van Verordening (EG) nr. 1099/2008 van het Europees Parlement en de Raad van de Europese Unie van 22 oktober 2008 (PbEU 2008, L 304) betreffende energiestatistieken;
 
-- –. **centrale entiteit:** instelling of dienst als bedoeld in artikel 7 van [richtlijn 2009/119/EG](32009L0119) waaraan de bevoegdheid is gegeven om te handelen met het oog op het kopen, in stand houden en verkopen van olievoorraden, met inbegrip van veiligheidsvoorraden en speciale voorraden;
+- – *centrale entiteit:* instelling of dienst als bedoeld in artikel 7 van richtlijn 2009/119/EG waaraan de bevoegdheid is gegeven om te handelen met het oog op het kopen, in stand houden en verkopen van olievoorraden, met inbegrip van veiligheidsvoorraden en speciale voorraden;
 
-- –. **COVA:** Stichting Centraal Orgaan Voorraadvorming Aardolieproducten, zijnde voor Nederland de centrale entiteit;
+- – *COVA:* Stichting Centraal Orgaan Voorraadvorming Aardolieproducten, zijnde voor Nederland de centrale entiteit;
 
-- –. **internationale verplichtingen:** verplichtingen tot het aanhouden van een voorraad aardolieproducten, voortvloeiend uit de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47) en uit [richtlijn 2009/119/EG](32009L0119);
+- – *internationale verplichtingen:* verplichtingen tot het aanhouden van een voorraad aardolieproducten, voortvloeiend uit de Overeenkomst inzake een Internationaal Energieprogramma (Trb. 1975, 47) en uit richtlijn 2009/119/EG;
 
-- –. **marktdeelnemer:** vergunninghouder als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23);
+- – *marktdeelnemer:* vergunninghouder als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23);
 
-- –. **olievoorraden:** voorraden ruwe aardolie of andere aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304);
+- – *olievoorraden:* voorraden ruwe aardolie of andere aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van Verordening (EG) nr. 1099/2008 van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304);
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- – *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- –. **referentiejaar:** kalenderjaar dat voorafgaat aan het voorraadjaar;
+- – *referentiejaar:* kalenderjaar dat voorafgaat aan het voorraadjaar;
 
-- –. **richtlijn 2009/119/EG:** [Richtlijn 2009/119/EG](32009L0119) van de Raad van 14 september 2009 houdende verplichting voor de lidstaten om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden (PbEU 2009, L 265);
+- – *richtlijn 2009/119/EG:*
+ Richtlijn 2009/119/EG van de Raad van 14 september 2009 houdende verplichting voor de lidstaten om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden (PbEU 2009, L 265);
 
-- –. **speciale voorraad:** olievoorraad die voldoet aan de in artikel 9, eerste tot en met vierde lid, van [richtlijn 2009/119/EG](32009L0119) genoemde voorwaarden;
+- – *speciale voorraad:* olievoorraad die voldoet aan de in artikel 9, eerste tot en met vierde lid, van richtlijn 2009/119/EG genoemde voorwaarden;
 
-- –. **toevoegingen:** andere stoffen dan koolwaterstoffen die aan een product worden toegevoegd of erdoor worden gemengd om de eigenschappen ervan te veranderen;
+- – *toevoegingen:* andere stoffen dan koolwaterstoffen die aan een product worden toegevoegd of erdoor worden gemengd om de eigenschappen ervan te veranderen;
 
-- –. **uitslag:** uitslag tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), met uitzondering van afleveringen met bestemming internationale zeevaart;
+- – *uitslag:* uitslag tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), met uitzondering van afleveringen met bestemming internationale zeevaart;
 
-- –. **veiligheidsvoorraden:** olievoorraden die elke lidstaat van de Europese Unie op grond van artikel 3 van [richtlijn 2009/119/EG](32009L0119) verplicht is aan te houden;
+- – *veiligheidsvoorraden:* olievoorraden die elke lidstaat van de Europese Unie op grond van artikel 3 van richtlijn 2009/119/EG verplicht is aan te houden;
 
-- –. **voorraadjaar:** tijdvak van 12 maanden dat begint op 1 juli van enig jaar;
+- – *voorraadjaar:* tijdvak van 12 maanden dat begint op 1 juli van enig jaar;
 
-- –. **voorraadplichtige:** degene die op grond van deze wet een voorraad aardolieproducten moet aanhouden;
+- – *voorraadplichtige:* degene die op grond van deze wet een voorraad aardolieproducten moet aanhouden;
 
-- –. **wettelijke voorraad:** voorraad aardolieproducten waarmee wordt beoogd aan de voor Nederland geldende internationale verplichtingen te voldoen.
+- – *wettelijke voorraad:* voorraad aardolieproducten waarmee wordt beoogd aan de voor Nederland geldende internationale verplichtingen te voldoen.
 
 ##### Artikel 2
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304), verdeeld in de volgende categorieën:
+Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van Verordening (EG) nr. 1099/2008 van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304), verdeeld in de volgende categorieën:
 
 - a. ruwe aardolie en aardgascondensaat,
 
@@ -113,17 +85,17 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardoliepro
 
 ### Hoofdstuk 2. Het aanhouden van voorraden ter naleving van internationale verplichtingen van Nederland
 
-## Titel 1. Bepalingen die zich richten tot alle voorraadplichtigen
+### Titel 1. Bepalingen die zich richten tot alle voorraadplichtigen
 
 #### § 1. Diverse voorraadplichtigen en de omvang van hun wettelijke voorraad
 
 ##### Artikel 3
 
-De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende hoeveelheden: 90 maal het daggemiddelde van de netto invoer van aardolieproducten of 61 maal het daggemiddelde van het binnenlands verbruik, berekend overeenkomstig artikel 3 van [richtlijn 2009/119/EG](32009L0119).
+De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende hoeveelheden: 90 maal het daggemiddelde van de netto invoer van aardolieproducten of 61 maal het daggemiddelde van het binnenlands verbruik, berekend overeenkomstig artikel 3 van richtlijn 2009/119/EG.
 
 ##### Artikel 4
 
-1. Onze Minister stelt jaarlijks uiterlijk 31 maart voor het daarop volgende voorraadjaar de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast:
+1. Onze Minister stelt jaarlijks uiterlijk 31 maart voor het daarop volgende voorraadjaar de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast:
 
 - a. voor elke vergunninghouder voor een of meer accijnsgoederenplaatsen voor minerale oliën als bedoeld in [artikel 39 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=39), die in het referentiejaar een hoeveelheid aardolieproducten heeft uitgeslagen dan wel een hoeveelheid reactiemotorbrandstof van het kerosinetype voor de voortstuwing van luchtvaartuigen heeft geleverd, die in totaal ligt boven de in het tweede lid bedoelde drempel, en
 
@@ -141,7 +113,7 @@ De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende
 
 ##### Artikel 5
 
-1. De vaststelling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van [richtlijn 2009/119/EG](32009L0119) en wel zodanig dat:
+1. De vaststelling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van richtlijn 2009/119/EG en wel zodanig dat:
 
 - a. ten minste 1/3 van de wettelijke voorraad wordt aangehouden in de vorm van de volgende aardolieproducten: motorbenzine, gasolie/dieselolie (aardoliedistillaat) en reactiemotorbrandstof van het kerosinetype;
 
@@ -191,9 +163,9 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 - b. opgeslagen zijn op het grondgebied van Nederland en
 
-- –. bestemd zijn om te worden gemengd met aardolieproducten die behoren tot de wettelijke voorraad, en
+   - – bestemd zijn om te worden gemengd met aardolieproducten die behoren tot de wettelijke voorraad, en
 
-- –. bestemd zijn om bij vervoer te worden gebruikt.
+   - – bestemd zijn om bij vervoer te worden gebruikt.
 
 ##### Artikel 10
 
@@ -209,7 +181,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 - e. die worden gehouden ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat, ten aanzien waarvan is gewaarborgd dat Nederland de overbrenging naar die andere staat niet zal belemmeren of
 
-- f. die ingevolge de uitvoering van [richtlijn 2009/119/EG](32009L0119) ten behoeve van een voorraadplichtige uit een andere lidstaat in Nederland worden gehouden.
+- f. die ingevolge de uitvoering van richtlijn 2009/119/EG ten behoeve van een voorraadplichtige uit een andere lidstaat in Nederland worden gehouden.
 
 2. Voorts wordt niet tot de wettelijke voorraad gerekend stookolie (met hoog en laag zwavelgehalte) en ruwe aardolie die zich bevindt in installaties die gebruikt worden voor de winning van ruwe aardolie.
 
@@ -279,8 +251,6 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 ##### Artikel 15
 
-1.
-
 Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen worden gesteld aan het buiten Nederland aanhouden van een voorraad aardolieproducten als onderdeel van de wettelijke voorraad.
 
 2. Onze Minister kan nadere regels stellen met betrekking tot de melding van overdrachten als bedoeld in de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=11&z=2021-07-23&g=2021-07-23), en [14, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2021-07-23&g=2021-07-23).
@@ -343,7 +313,7 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 - d. ambtshalve, indien dit naar het oordeel van Onze Minister om gewichtige redenen noodzakelijk is.
 
-## Titel 2. Institutionele bepalingen omtrent COVA
+### Titel 2. Institutionele bepalingen omtrent COVA
 
 ##### Artikel 20
 
@@ -369,9 +339,9 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 1. De begroting van inkomsten en uitgaven en de jaarrekening van COVA behoeven, na door het bestuur van COVA te zijn vastgesteld, de goedkeuring van Onze Minister.
 
-2. Het bestuur van COVA biedt jaarlijks vóór 1 februari aan Onze Minister ter goedkeuring de begroting voor het betreffende kalenderjaar aan, vergezeld van de nodige toelichting en bescheiden. Indien de begroting niet vóór de aanvang van het kalenderjaar waarvoor zij moet dienen, is goedgekeurd, kan Onze Minister COVA machtigen bepaalde uitgaven te doen.
+2. Het bestuur van COVA biedt jaarlijks vóór 1 februari aan Onze Minister ter goedkeuring de begroting voor het betreffende kalenderjaar aan, vergezeld van de nodige toelichting en bescheiden. Indien de begroting niet vóór de aanvang van het kalenderjaar waarvoor zij moet dienen, is goedgekeurd, kan Onze Minister COVA machtigen bepaalde uitgaven te doen.
 
-3. Het bestuur van COVA biedt Onze Minister jaarlijks vóór 1 juli aan de rekening van inkomsten en uitgaven over het afgelopen kalenderjaar, alsmede een overzicht van de grootte en samenstelling van het vermogen aan het einde van dat jaar en een bijbehorende toelichting. De overgelegde stukken behoeven een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), die door het bestuur van COVA is aangewezen. Zij gaan verder vergezeld van een verslag van de accountant, bevattende opmerkingen waartoe diens onderzoek aanleiding geeft.
+3. Het bestuur van COVA biedt Onze Minister jaarlijks vóór 1 juli aan de rekening van inkomsten en uitgaven over het afgelopen kalenderjaar, alsmede een overzicht van de grootte en samenstelling van het vermogen aan het einde van dat jaar en een bijbehorende toelichting. De overgelegde stukken behoeven een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), die door het bestuur van COVA is aangewezen. Zij gaan verder vergezeld van een verslag van de accountant, bevattende opmerkingen waartoe diens onderzoek aanleiding geeft.
 
 4. De goedkeuring van de jaarrekening strekt, voor zover het de daarbij goedgekeurde inkomsten en uitgaven betreft, tot decharge van het bestuur, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.
 
@@ -385,7 +355,7 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haar liquidatie als rechtspersoon.
 
-## Titel 3. Voorraadheffing ten behoeve van de financiering van COVA
+### Titel 3. Voorraadheffing ten behoeve van de financiering van COVA
 
 ##### Artikel 26
 
@@ -399,13 +369,13 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 1. De heffing bedraagt voor:
 
-- a. lichte olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
+- a. lichte olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
 
-- b. halfzware olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
+- b. halfzware olie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
 
-- c. gasolie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
+- c. gasolie, per 1 000 liter bij een temperatuur van 15 graden Celsius: € 8,00;
 
-- d. vloeibaar gemaakt petroleumgas, per 1 000 kilogram: € 8,00.
+- d. vloeibaar gemaakt petroleumgas, per 1 000 kilogram: € 8,00.
 
 2. Onder de in het eerste lid genoemde producten wordt verstaan hetgeen daaronder wordt verstaan ingevolge de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=26) en [28 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=28).
 
@@ -417,7 +387,7 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 2. Onze Minister kan een aanvraag tot het mogen aanhouden van voorraad slechts weigeren indien:
 
-- a. instemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met [richtlijn 2009/119/EG](32009L0119) onderscheidenlijk met de krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=3&artikel=30&z=2021-07-23&g=2021-07-23) gestelde regels of
+- a. instemming naar zijn oordeel zou kunnen leiden tot een situatie die in strijd zou zijn met richtlijn 2009/119/EG onderscheidenlijk met de krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=3&artikel=30&z=2021-07-23&g=2021-07-23) gestelde regels of
 
 - b. weigering naar zijn oordeel anderszins noodzakelijk is met het oog op de naleving van voor Nederland geldende internationale verplichtingen.
 
@@ -437,11 +407,11 @@ De voor het uitoefenen van toezicht aangewezen ambtenaren zijn belast met het ve
 
 ##### Artikel 32
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 33
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel 34
 
@@ -449,15 +419,15 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en ver
 
 ##### Artikel 35
 
-Wijzigt deze wet en de Algemene wet bestuursrecht.
+*Wijzigt deze wet en de Algemene wet bestuursrecht.*
 
 ##### Artikel 36
 
 1. De [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) wordt ingetrokken.
 
-2. De bepalingen van de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van voorraadheffing of tot de voldoening van voorraadheffing, die hebben plaatsgevonden voor 1 april 2013 en met betrekking tot strafbare feiten die hebben plaatsgevonden voor die datum.
+2. De bepalingen van de [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van voorraadheffing of tot de voldoening van voorraadheffing, die hebben plaatsgevonden voor 1 april 2013 en met betrekking tot strafbare feiten die hebben plaatsgevonden voor die datum.
 
-3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van [richtlijn 2009/119/EG](32009L0119).
+3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van richtlijn 2009/119/EG.
 
 ##### Artikel 37
 
@@ -466,5 +436,3 @@ De artikelen van deze wet treden in werking met ingang van een bij koninklijk be
 ##### Artikel 38
 
 Deze wet wordt aangehaald als: Wet voorraadvorming aardolieproducten 2012.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

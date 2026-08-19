@@ -1,50 +1,26 @@
 ---
 title: "Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2013)"
+citeertitel: "Belastingplan 2013"
 identifier: "BWBR0032701"
-country: "nl"
-rank: "wet"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032701"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "12031493"
-version_id: "20028792"
-internal_id: "C28134131"
-label_id: "12003414"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032701/2013-07-01/0"
-intitule_bron: "Stb.2012-668"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2012-12-27"
-intitule_in_force: "2012-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2012-668"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "33402"
-original_url_id: "stb-2012-668"
-entry_into_force_date: "2013-01-01"
-entry_into_force_dossier: "33402"
-jci_1_3: "jci1.3:c:BWBR0032701&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0032701&g=2013-07-01"
-citeertitel_status: "officieel"
-short_title: "Belastingplan 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0032701"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2013)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel Ia
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
@@ -54,7 +30,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IV
 
@@ -62,15 +38,15 @@ Onze Minister kan tot en met 31 december 2015 in door hem aangewezen gevallen be
 
 ##### Artikel V
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
 ##### Artikel VIIa
 
@@ -78,21 +54,21 @@ Ter zake van verzekeringen waarvan de laatste prolongatiedatum of datum van stil
 
 ##### Artikel VIIb
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel VIIc
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel VIId
 
-Wijzigt de Wet op de omzetbelasting 1968.
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
 ##### Artikel VIIe
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel VIIf
 
@@ -106,27 +82,27 @@ Wijzigt de Wet op de accijns.
 
 ##### Artikel IX
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel IXa
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel IXb
 
-Wijzigt de Douane- en Accijnswet BES.
+*Wijzigt de Douane- en Accijnswet BES.*
 
 ##### Artikel IXc
 
-Wijzigt het Belastingplan 2011.
+*Wijzigt het Belastingplan 2011.*
 
 ##### Artikel IXd
 
-Wijzigt het Belastingplan 2012.
+*Wijzigt het Belastingplan 2012.*
 
 ##### Artikel IXe
 
-Wijzigt de Fiscale verzamelwet 2012.
+*Wijzigt de Fiscale verzamelwet 2012.*
 
 ##### Artikel X
 
@@ -161,11 +137,3 @@ Ingeval de samenloop van wetten die in 2012 in het Staatsblad zijn of worden gep
 ##### Artikel XII
 
 Deze wet wordt aangehaald als: Belastingplan 2013.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het voor het jaar 2013 wenselijk is fiscale maatregelen te treffen in het kader van vereenvoudiging, constructie- en fraudebestrijding, de woningmarkt, inkomensbeleid en het verbeteren van de overheidsfinanciën;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

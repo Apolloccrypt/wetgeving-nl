@@ -1,35 +1,16 @@
 ---
 title: "Gewijzigde aanvraagprocedure diploma-erkenning"
 identifier: "BWBR0033067"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-03-25"
-last_updated: "2013-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033067"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12149083"
-version_id: "20277342"
-internal_id: "C28521351"
-label_id: "12120974"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033067/2013-03-25/0"
-intitule_bron: "Stcrt.2013-7826"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-03-25"
-intitule_in_force: "2013-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-7826"
-original_published_date: "2013-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-7826"
-entry_into_force_date: "2013-03-25"
-jci_1_3: "jci1.3:c:BWBR0033067&z=2013-03-25&g=2013-03-25"
-jci_1_0: "1.0:c:BWBR0033067&g=2013-03-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-03-25"
+publicatiedatum: 2013-03-25
+laatste_update: 2013-03-25
+status: geldig
+toestand: 2013-03-25
+bron: "https://wetten.overheid.nl/BWBR0033067"
+opgehaald: 2026-08-19
 ---
+
 # Gewijzigde aanvraagprocedure diploma-erkenning
 
 ### Deel I. Algemene informatie aanvragen diploma-erkenning
@@ -54,11 +35,33 @@ Het verkrijgen van diploma-erkenning betekent dat aan het met goed gevolg aflegg
 
 ### 1.2. Verplichtingen bij diploma-erkenning
 
-**Artikel 1.4.1, eerste lid, van de Web stelt de voorwaarde dat de instelling in het geval van diploma-erkenning voor de desbetreffende opleiding in acht neemt al wat is bepaald voor:**
+Wettelijke voorwaarde
+
+*Artikel 1.4.1, eerste lid, van de Web stelt de voorwaarde dat de instelling in het geval van diploma-erkenning voor de desbetreffende opleiding in acht neemt al wat is bepaald voor:*
+
+- a. de kwaliteitszorg ([artikel 1.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6));
+
+- b. het onderwijs (met uitzondering van [artikel 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.1)) en de examens;
+
+- c. de rechtsbescherming van de deelnemers ([hoofdstuk 7, titel 5, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&titeldeel=5));
+
+- d. de onderwijsovereenkomst ([artikel 8.1.3, eerste tot en met derde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3));
+
+- e. de vooropleidingseisen ([artikel 8.2.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.1)) en
+
+- f. de opneming in het Centraal register.
 
 Het bevoegd gezag moet, ingevolge [artikel 6.2.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.1), de gegevens verschaffen waaruit blijkt dat het onderwijs van voldoende kwaliteit is of zal zijn en dat het voldoet aan [artikel 1.4.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1).
 
 Voorts zijn sinds 1 januari 2012 voor een instelling ingevolge het zesde lid van [artikel 1.4.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) de volgende artikelen van toepassing op beroepsopleidingen:
+
+- • [2.5.5a, eerste, tweede vijfde tot en met zevende, alsmede negende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5a), met dien verstande dat van de gegevens bedoeld in artikel 2.5.5a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met d, h tot en met j, l en o van dat lid;
+
+- • [2.5.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5b);
+
+- • [2.5.5c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5c), met dien verstande dat artikel 2.5.5c, eerste lid, onderdeel a, wordt gelezen als: Onze Minister voor zover deze gegevens noodzakelijk zijn voor de beleidsvoorbereiding en
+
+- • [artikel 2.5.5e](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.5e), alsmede de [artikelen 8.1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.1a), [8.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8), [8.1.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.8a) en [8.1.3 tot en met 8.3.3 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3).
 
 Het voorgaande houdt in dat het bevoegd gezag, voorafgaand aan het verkrijgen van de diploma-erkenning, aan kan tonen dat de kwaliteit van de betreffende opleiding van voldoende niveau is en dat aan bovengenoemde voorwaarden is voldaan. Het is dus niet zo dat eerst nadat diploma-erkenning verkregen is de opleiding ontwikkeld kan worden. Het ontwikkelen van de opleiding dient bij de aanvraag gereed te zijn, zodat onder meer de kwaliteit van de opleiding beoordeeld kan worden, voordat diploma-erkenning wordt toegekend. Dit laat onverlet dat na het verkrijgen van diploma-erkenning maatwerk binnen de kaders van de wet mogelijk blijft.
 
@@ -68,31 +71,45 @@ Er zijn twee aanvraagprocedures (de volledige tekst van de aanvraagprocedures zi
 
 De eerste procedure geldt voor:
 
-Deze instellingen zijn nog niet eerder in het crebo geregistreerd en daarom – wat betreft het middelbaar beroepsonderwijs – onbekend bij het ministerie van Onderwijs, Cultuur en Wetenschap. Om te waarborgen dat deze instellingen de vereiste kwaliteit leveren die gesteld wordt aan beroepsopleidingen, is een integrale beoordeling van de opleiding(en) waarvoor diploma-erkenning wordt aangevraagd, noodzakelijk. Om die reden moeten bij een aanvraag van nieuwe instellingen de in Deel II, paragraaf 1.2, genoemde gegevens altijd gevoegd worden. Zonder deze gegevens is de aanvraag niet compleet. Indien de ingediende gegevens niet compleet blijken te zijn, wordt de instelling in de gelegenheid gesteld binnen twee weken de benodigde gegevens aan te leveren.
+- • a. (nieuwe) instellingen die nog niet beschikken over een Brinnummer;
+
+Deze instellingen zijn nog niet eerder in het crebo geregistreerd en daarom – wat betreft het middelbaar beroepsonderwijs – onbekend bij het ministerie van Onderwijs, Cultuur en Wetenschap. Om te waarborgen dat deze instellingen de vereiste kwaliteit leveren die gesteld wordt aan beroepsopleidingen, is een integrale beoordeling van de opleiding(en) waarvoor diploma-erkenning wordt aangevraagd, noodzakelijk. Om die reden moeten bij een aanvraag van nieuwe instellingen de in [Deel II, paragraaf 1.2](https://wetten.overheid.nl/BWBR0033067), genoemde gegevens altijd gevoegd worden. Zonder deze gegevens is de aanvraag niet compleet. Indien de ingediende gegevens niet compleet blijken te zijn, wordt de instelling in de gelegenheid gesteld binnen twee weken de benodigde gegevens aan te leveren.
 
 Bij een positief besluit op voornoemde aanvraag wordt een Brinnummer toegekend.
 
-Instellingen die gelieerd zijn aan of onderdeel uitmaken van een bekostigde instelling en nog geen Brinnummer hebben voor de niet-bekostigde opleidingen die verzorgd worden, moeten voor zover een aanvraag1De wetgever heeft bepaald dat bekostigde instellingen contractactiviteiten kunnen verrichten, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling uit de openbare kas bekostigd wordt en voor zover de uitvoering van die werkzaamheden hierdoor niet wordt geschaad. Voor de activiteiten hoeft niet een separate diploma-erkenning aangevraagd te worden. Indien een separate rechtspersoon is opgericht waar de contractactiviteiten worden uitgevoerd dient deze rechtspersoon zelf over de benodigde diploma-erkenningen te beschikken en kan dus niet ‘meeliften’ op de erkenning van de bekostigde instelling. wettelijk vereist is eveneens de in Deel II paragraaf 1.2 genoemde gegevens overleggen. Dit geldt ook voor instellingen die geregistreerd staan in het Centraal Register Opleidingen Hoger Onderwijs (croho), maar nog geen separaat Brinnummer hebben voor crebo.
+Instellingen die gelieerd zijn aan of onderdeel uitmaken van een bekostigde instelling en nog geen Brinnummer hebben voor de niet-bekostigde opleidingen die verzorgd worden, moeten voor zover een aanvraag1De wetgever heeft bepaald dat bekostigde instellingen contractactiviteiten kunnen verrichten, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling uit de openbare kas bekostigd wordt en voor zover de uitvoering van die werkzaamheden hierdoor niet wordt geschaad. Voor de activiteiten hoeft niet een separate diploma-erkenning aangevraagd te worden. Indien een separate rechtspersoon is opgericht waar de contractactiviteiten worden uitgevoerd dient deze rechtspersoon zelf over de benodigde diploma-erkenningen te beschikken en kan dus niet ‘meeliften’ op de erkenning van de bekostigde instelling. wettelijk vereist is eveneens de in [Deel II paragraaf 1.2](https://wetten.overheid.nl/BWBR0033067) genoemde gegevens overleggen. Dit geldt ook voor instellingen die geregistreerd staan in het Centraal Register Opleidingen Hoger Onderwijs (croho), maar nog geen separaat Brinnummer hebben voor crebo.
 
-**Voorbeeld:**
+- • b. bestaande instellingen die diploma-erkenning aanvragen voor een opleiding die niet past binnen het bestaande aanbod c.q. de domeinen die de instelling al verzorgt.
 
-**Een instelling verzorgt al opleidingen op het gebied van beveiliging en wil nu ook een opleiding Helpende Zorg & Welzijn gaan verzorgen.**
+*Voorbeeld:*
 
-Ook bij bestaande instellingen die diploma-erkenning willen voor opleidingen, die vallen buiten het reeds bestaande aanbod, moet geborgd zijn dat de kwaliteit van een voldoende niveau is. Omdat de nieuwe opleidingen veelal andersoortige kwalificaties en beroepsvereisten bevatten is een integrale toetsing wenselijk. Ook in dat geval moeten altijd bij de aanvraag de in deel II paragraaf 1.2 genoemde gegevens gevoegd worden. Zonder deze gegevens is de aanvraag eveneens niet compleet. Indien een aanvraag niet compleet is zal de instelling in de gelegenheid gesteld worden binnen een termijn van twee weken de aanvraag aan te vullen. Pas vanaf de datum dat de aanvraag volledig is, begint de behandeltermijn te lopen.
+*Een instelling verzorgt al opleidingen op het gebied van beveiliging en wil nu ook een opleiding Helpende Zorg & Welzijn gaan verzorgen.*
+
+Ook bij bestaande instellingen die diploma-erkenning willen voor opleidingen, die vallen buiten het reeds bestaande aanbod, moet geborgd zijn dat de kwaliteit van een voldoende niveau is. Omdat de nieuwe opleidingen veelal andersoortige kwalificaties en beroepsvereisten bevatten is een integrale toetsing wenselijk. Ook in dat geval moeten altijd bij de aanvraag de in [deel II paragraaf 1.2](https://wetten.overheid.nl/BWBR0033067) genoemde gegevens gevoegd worden. Zonder deze gegevens is de aanvraag eveneens niet compleet. Indien een aanvraag niet compleet is zal de instelling in de gelegenheid gesteld worden binnen een termijn van twee weken de aanvraag aan te vullen. Pas vanaf de datum dat de aanvraag volledig is, begint de behandeltermijn te lopen.
 
 De tweede procedure geldt voor:
 
-**Voorbeeld:**
+- • instellingen die diploma-erkenning aanvragen voor een opleiding die past binnen het bestaande aanbod.
 
-**Een instelling die al een opleiding Maatschappelijke Zorg verzorgt en nu ook een opleiding Helpende Zorg & Welzijn wil gaan aanbieden.**
+*Voorbeeld:*
 
-Of een opleiding past binnen het bestaand aanbod wordt bepaald aan de hand van de opleidingsdomeinen. Met behulp van het stroomschema (zie: Bijlagen) kunt u bepalen welke aanvraagprocedure van toepassing is.
+*Een instelling die al een opleiding Maatschappelijke Zorg verzorgt en nu ook een opleiding Helpende Zorg & Welzijn wil gaan aanbieden.*
 
-Bij bestaande instellingen die diploma-erkenning aanvragen voor een opleiding die past binnen het bestaande aanbod, wordt aan de hand van een risicoanalyse bepaald of een integrale toetsing nodig is. Omdat de minister beschikt over informatie van (een) opleiding(en) die de instelling al aanbiedt binnen een bepaald domein, kan de risicoanalyse plaatsvinden aan de hand van een marginale toetsing. Daartoe hoeft de instelling alleen het aanvraagformulier in te dienen. Wanneer uit de risicoanalyse blijkt dat een integrale toetsing noodzakelijk geacht wordt, worden de benodigde gegevens, genoemd in Deel II paragraaf 2.2, bij de instelling opgevraagd.
+Of een opleiding past binnen het bestaand aanbod wordt bepaald aan de hand van de opleidingsdomeinen. Met behulp van het stroomschema (zie: [Bijlagen](https://wetten.overheid.nl/BWBR0033067)) kunt u bepalen welke aanvraagprocedure van toepassing is.
+
+Bij bestaande instellingen die diploma-erkenning aanvragen voor een opleiding die past binnen het bestaande aanbod, wordt aan de hand van een risicoanalyse bepaald of een integrale toetsing nodig is. Omdat de minister beschikt over informatie van (een) opleiding(en) die de instelling al aanbiedt binnen een bepaald domein, kan de risicoanalyse plaatsvinden aan de hand van een marginale toetsing. Daartoe hoeft de instelling alleen het aanvraagformulier in te dienen. Wanneer uit de risicoanalyse blijkt dat een integrale toetsing noodzakelijk geacht wordt, worden de benodigde gegevens, genoemd in [Deel II paragraaf 2.2](https://wetten.overheid.nl/BWBR0033067), bij de instelling opgevraagd.
+
+Uitleg begrippen
+
+Marginale toetsing
 
 Om te borgen dat de kwaliteit van de betreffende opleiding van een voldoende niveau is voert de Inspectie van het Onderwijs (hierna: Inspectie) in samenwerking met DUO een risicoanalyse uit. Aan de hand van deze risicoanalyse wordt dan bezien of een integrale toetsing noodzakelijk is en indien dit het geval is, welke gegevens (nog) nodig zijn om deze integrale toetsing op zorgvuldige wijze te kunnen uitvoeren.
 
+Integrale beoordeling
+
 Een integrale beoordeling houdt in dat de aanvraag door de Inspectie wordt getoetst op kwalitatieve aspecten in de praktijk door middel van kwaliteitsonderzoeken alsmede dat bezien wordt of voldaan is aan de verdere voorwaarden genoemd in [artikel 1.4.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1). De Inspectie brengt op basis van deze onderzoeken een advies uit. De onderzoeken kunnen zowel dossieronderzoeken zijn als onderzoeken bij de instelling.
+
+Brinnummer
 
 Een Brinnummer is een administratief nummer waarmee een instelling wordt aangeduid in crebo en Bron. Iedere instelling die diploma-erkenning heeft voor één of meerdere opleidingen krijgt een Brinnummer toegekend door DUO.
 
@@ -106,7 +123,33 @@ Wanneer diploma-erkenning verleend wordt aan een beroepsopleiding, moet de betre
 
 Indien de opleiding binnen één jaar na dagtekening van de erkenning verzorgd wordt, moet het bevoegd gezag om de erkenning te behouden het volgende doen:
 
+- • er voor zorgen dat de kwaliteit van de opleiding van voldoende niveau is (zie toetsingskader Inspectie);
+
+- • voldoen aan de voorwaarde, bedoeld in [artikel 1.4.1, eerste en zesde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1), en
+
+- • aan de Inspectie binnen de door haar gestelde redelijke termijn alle medewerking verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.
+
 Op 1 januari 2012 is de wet tot wijziging van onder meer de Leerplichtwet 1969 inzake toevoeging niet-bekostigd onderwijs aan de systematiek van het persoonsgebonden nummer en het basisregister onderwijs in werking getreden. Dit heeft tot gevolg dat het bevoegd gezag, met betrekking tot opleidingen waarvoor diploma-erkenning is verkregen, het persoonsgebonden nummer van iedere student aan die beroepsopleiding moeten verstrekken aan DUO/BRON, samen met de volgende gegevens:
+
+- • geslacht, geboortedatum en postcode van de woonplaats;
+
+- • de datum van inschrijving of van de wijziging of beëindiging daarvan;
+
+- • de code, bedoeld in [artikel 6.4.1, tweede lid, onder a van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), van het opleidingsdomein, het kwalificatiedossier of de kwalificatie waarvoor de deelnemer is ingeschreven en bij inschrijving;
+
+- • voor een opleidingsdomein of een kwalificatiedossier het niveau van de beroepsopleiding, bedoeld in [artikel 7.2.2, derde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
+
+- • de leerweg;
+
+- • het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;
+
+- • de omvang van beroepspraktijkvorming, de datum van begin en einde daarvan, de afsluitdatum van de beroepspraktijkvormingsovereenkomst en het betrokken erkende leerbedrijf dat de beroepspraktijkvorming verzorgt;
+
+- • het registratienummer van de instelling;
+
+- • het volgen van de opleiding in voltijd of deeltijd, en
+
+- • indien van toepassing de reden van het uitstromen.
 
 Wanneer een beroepsopleiding in voltijd wordt aangeboden moet de opleiding volgens [artikel 7.2.7, derde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) voldoen aan de zogenoemde 850-urennorm. Dit houdt in dat het bevoegd gezag voor de deelnemer in instellingstijd een onderwijsprogramma verzorgt dat ten minste 850 uren per studiejaar omvat.
 
@@ -116,6 +159,12 @@ Het bevoegd gezag moet er daarnaast voor zorgen dat de betreffende opleiding (zo
 
 Vervolgens moet het bevoegd gezag zorgen voor een goede organisatie en kwaliteit van het onderwijsprogramma en examinering. De (aankomende) deelnemers moeten door het bevoegd gezag volledig en tijdig worden geïnformeerd over het onderwijsprogramma en de examens. Ook is het bevoegd gezag er voor verantwoordelijk dat de instelling over een deelnemersstatuut beschikt waarin de rechten en plichten van de deelnemers zijn opgenomen. Individuele rechten en plichten van zowel de betreffende deelnemer als de instellingen moeten in de onderwijsovereenkomst opgenomen worden evenals bepalingen over in elk geval:
 
+- • de inhoud en inrichting van de opleiding (voltijd/deeltijd, leerweg en examenvoorzieningen);
+
+- • de tijdvakken waarbinnen en – voor zover mogelijk – de locaties waarop het onderwijs verzorgd wordt, en
+
+- • de wijze waarop partijen uit de overeenkomst voortkomende prestaties gestalte zullen geven.
+
 ### 2.2. Intrekken erkenning
 
 Wanneer diploma-erkenning verleend wordt aan een beroepsopleiding, moet de betreffende opleiding binnen één jaar na dagtekening van die erkenning verzorgd worden. Indien blijkt dat dit niet het geval is zal de erkenning op grond van [artikel 6.4.4 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.4) ambtshalve worden ingetrokken en zal de registratie in crebo worden beëindigd.
@@ -123,6 +172,14 @@ Wanneer diploma-erkenning verleend wordt aan een beroepsopleiding, moet de betre
 Wanneer uit regulier of incidenteel onderzoek van de Inspectie blijkt dat de kwaliteit onvoldoende is, niet meer voldaan wordt aan de voorwaarden, bedoeld in [artikel 1.4.1, eerste en zesde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) of de instelling in strijd handelt met [artikel 5:20 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (medewerking aan Inspectie) kan de minister de beroepsopleiding de diploma-erkenning ontnemen.
 
 Voordat een dergelijke beslissing wordt genomen krijgt het bevoegd gezag eerst een waarschuwing, onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven. Die termijn is voor:
+
+- • onvoldoende kwaliteit: ten minste één jaar;
+
+- • het niet voldoen aan de voorwaarde, bedoeld in [artikel 1.4.1, eerste lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1): ten minste drie maanden;
+
+- • het niet voldoen aan [artikel 5:20 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (medewerking aan Inspectie): ten minste 10 dagen.
+
+- • het niet voldoen aan het verstrekken van het persoonsgebonden nummer samen met andere benodigde gegevens ([artikel 1.4.1, zesde lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1)): ten minste drie maanden.
 
 De waarschuwingen worden openbaar gemaakt op de website van de Inspectie
 
@@ -166,6 +223,16 @@ Diploma-erkenning wordt verleend aan het bevoegd gezag van een instelling.
 
 Als de relatie tussen dat bevoegd gezag en de instelling, dan wel de opleiding waarvoor diploma-erkenning verleend is, verbroken wordt, vervalt daarmee de erkenning en dient deze doorgehaald te worden in crebo. De volgende situaties kunnen zich voordoen:
 
+- 1. De rechtspersoon waar de instelling van uitgaat, fuseert met een andere rechtspersoon ([boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)). De relatie tussen bevoegd gezag (de rechtspersoon) en de instelling wijzigt in dit geval niet. Er verandert niets in de verleende diploma-erkenning. Er hoeft geen nieuwe aanvraag te worden ingediend. Wel moet het ministerie in kennis worden gesteld van de fusie, onder overlegging van de akte waarin de fusie is geregeld. Deze melding vindt plaats bij DUO.
+
+- 2. De aandelen in een NV of BV waarvan een instelling uitgaat, gaan in andere handen over. De relatie tussen rechtspersoon en instelling verandert niet, dus de diploma-erkenning blijft in stand.
+
+- 3. De instelling wordt in zijn geheel – inclusief opleidingen – verkocht aan een andere rechtspersoon. De relatie tussen bevoegd gezag en instelling of opleiding wordt verbroken en daarmee vervalt de diploma-erkenning. Er moet dan een nieuwe aanvraag voor diploma-erkenning worden ingediend door het nieuwe bevoegd gezag.
+
+- 4. De rechtspersoon wordt in zijn geheel opgenomen in een juridische entiteit (concern). Het bevoegd gezag houdt niet op te bestaan maar blijft binnen de nieuwe juridische entiteit wel zelfstandig bestaan. De verleende diploma-erkenningen blijven in dat geval ook bestaan, maar mogen uitsluitend worden aangewend door de instelling die ressorteert onder dat bevoegd gezag.
+
+- 5. Eén of meer van de opleidingen, die zijn verbonden aan een instelling, worden verkocht aan een andere rechtspersoon of natuurlijk persoon. Hierdoor vervalt de diploma-erkenning. Het nieuwe bevoegd gezag moet de diploma-erkenning opnieuw aanvragen.
+
 Een fusie of overdracht van rechten dient zo spoedig mogelijk gemeld te worden aan DUO.
 
 ### 5. Studiefinanciering beroepsopleidingen
@@ -178,7 +245,7 @@ Ook in de praktijk zal de opleiding aan de eisen van [artikel 7.2.7, derde lid, 
 
 Wat hiervoor is gesteld voor Studiefinanciering geldt ook voor de Tegemoetkoming Onderwijsbijdrage op grond van de [Wet Tegemoetkoming Onderwijsbijdrage](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) en Schoolkosten ([artikel 2.17 WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.17)).
 
-Bovengenoemd formulier is te vinden op de internetsite van DUO (**www.ocwduo.nl**), onder Zakelijk, Klantenservice, Formulieren (voor BVE) en moet gezonden worden naar:
+Bovengenoemd formulier is te vinden op de internetsite van DUO (*www.ocwduo.nl*), onder Zakelijk, Klantenservice, Formulieren (voor BVE) en moet gezonden worden naar:
 
 DUO/OND/ODS
 
@@ -202,7 +269,7 @@ Postbus 606
 
 2700 ML ZOETERMEER
 
-Bij dit aanvraagformulier moeten de gegevens, genoemd in onderstaande paragraaf 1.2, gevoegd worden. Zonder deze gegevens is de aanvraag niet compleet. Deze gegevens kunnen digitaal worden meegezonden (cd-rom of usb-stick) of op papier.
+Bij dit aanvraagformulier moeten de gegevens, genoemd in onderstaande [paragraaf 1.2](https://wetten.overheid.nl/BWBR0033067), gevoegd worden. Zonder deze gegevens is de aanvraag niet compleet. Deze gegevens kunnen digitaal worden meegezonden (cd-rom of usb-stick) of op papier.
 
 Wanneer de aanvraag niet compleet is, wordt de aanvrager overeenkomstig [artikel 4:5 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken de ontbrekende gegevens aan te leveren. Wanneer het niet mogelijk is de gevraagde gegevens binnen deze twee weken toe te sturen dan kan de aanvrager binnen deze termijn van twee weken gemotiveerd om uitstel vragen. Omdat de opleiding al voor de aanvraag ontwikkeld dient te zijn – zodat de kwaliteit van de opleiding beoordeeld kan worden- en de benodigde gegevens dus al bij de instelling aanwezig moeten zijn, zal uitstel slechts in uitzonderlijke gevallen worden verleend.
 
@@ -216,25 +283,93 @@ Een complete aanvraag wordt ter beoordeling voorgelegd aan de Inspectie. Deze in
 
 In bovengenoemd formulier is een standaardformulering opgenomen waarmee het bevoegd gezag door ondertekening van het formulier verklaart:
 
+- • te zullen voldoen aan de regels in [hoofdstuk 7 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7), met uitzondering van [artikel 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.1) voor het onderwijs, de examens en de kwaliteitszorg;
+
+- • dat er een commissie van beroep is ingesteld die voldoet aan de voorwaarden uit [artikel 7.5.1 hoofdstuk 7 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1);
+
+- • dat er geen juridisch of persoonlijk verband is met een exameninstelling, en
+
+- • dat er een rechtsgeldig document wordt verstrekt als een derde partij deze aanvraag doet.
+
 Wanneer de aanvraag door een derde namens het bevoegd gezag van een instelling wordt gedaan moet een rechtsgeldige machtiging bij de aanvraag worden overgelegd. De correspondentie wordt in dat geval verder gevoerd met die derde.
 
 Zo spoedig mogelijk na ontvangst van de volledige aanvraag kan de instelling een besluit tegemoet zien. Wanneer de aanvraag niet binnen de wettelijke termijn van drie maanden kan worden afgehandeld, kan deze termijn worden verlengd. DUO stelt de instelling hiervan vóór het aflopen van de genoemde termijn op de hoogte, onder vermelding van de termijn waarbinnen de beschikking tegemoet kan worden.
 
-Instellingen die beroepsopleidingen in de beroepsopleidende leerweg onder de werkingssfeer van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) wensen te plaatsen, gebruiken daarvoor het formulier ‘Verklaring opleidingstraject voor toepassing [wet op de studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)’ (zie ook deel I, paragraaf 3).
+Instellingen die beroepsopleidingen in de beroepsopleidende leerweg onder de werkingssfeer van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) wensen te plaatsen, gebruiken daarvoor het formulier ‘Verklaring opleidingstraject voor toepassing [wet op de studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)’ (zie ook [deel I, paragraaf 3](https://wetten.overheid.nl/BWBR0033067)).
 
-**Bij de aanvraag voor diploma-erkenning moeten in ieder geval de gegevens waaruit blijkt dat het** onderwijs van voldoende kwaliteit is of zal zijn en dat wordt voldaan aan de voorwaarde in [artikel 1.4.1, eerste lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) ingezonden worden.
+Verplicht in te zenden gegevens
+
+*Bij de aanvraag voor diploma-erkenning moeten in ieder geval de gegevens waaruit blijkt dat het* onderwijs van voldoende kwaliteit is of zal zijn en dat wordt voldaan aan de voorwaarde in [artikel 1.4.1, eerste lid, van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) ingezonden worden.
 
 Daartoe moet bij het formulier ‘Aanvraag diploma-erkenning beroepsonderwijs procedure 1’ in elk geval de volgende gegevens gevoegd worden:
+
+- a. een beschrijving van het stelsel van kwaliteitszorg ([artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6), zie ook hieronder [punt 1.3](https://wetten.overheid.nl/BWBR0033067) beschrijving stelsel kwaliteitszorg);
+
+- b. een beschrijving van de wijze waarop de zorgplicht bedoeld in [art. 7.4.8 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.8) wordt nagekomen;
+
+- c. een beschrijving van het onderwijs en de examens (zie hieronder [punt 1.3](https://wetten.overheid.nl/BWBR0033067) beschrijving van onderwijs en examens);
+
+- d. een model van de onderwijsovereenkomst, bedoeld in [artikel 8.1.3 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3);
+
+- e. een model van de beroepspraktijkvormingsovereenkomst als bedoeld in [artikel 7.2.8 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8) en een beschrijving over de manier waarop de beroepspraktijkvorming (bpv) wordt vormgegeven en een weergave van de verkenning en contacten met instellingen die als leerbedrijf gaan fungeren met namen en contactgegevens;
+
+- f. een deelnemersstatuut inclusief weergave van klachtenregeling en klachtencommissie met namen en contactgegevens;
+
+- g. wanneer van toepassing, de Verklaring opleidingstraject voor toepassing [Wet op de Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) en
+
+- h. een afschrift van een uittreksel van de Kamer van Koophandel dan wel van de ondertekende notariële akte van oprichting van de rechtspersoon (alleen bij een nieuwe instelling).
 
 ### 1.3. Beschrijving stelsel kwaliteitzorg
 
 In de beschrijving van het stelsel van kwaliteitszorg ([artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6)) moet in ieder geval aangegeven worden:
 
+- • op welke opleidingen het stelsel van toepassing zal zijn en welke methodes van kwaliteitszorg gehanteerd zullen worden;
+
+- • of het stelsel in samenwerking met andere instellingen gebeurt;
+
+- • de regelmaat waarmee de beoordeling van de kwaliteit van het onderwijs plaatsvindt;
+
+- • welke instrumenten en ook welke criteria gehanteerd worden bij de beoordeling;
+
+- • de kwalificaties van het personeel verbonden aan de opleiding en ook de maatregelen en instrumenten om de bekwaamheid van het personeel te onderhouden,
+
+- • of er onafhankelijke deskundigen zijn betrokken bij de beoordeling, op basis van welke deskundigheid deze deskundigen zijn betrokken, welke werkzaamheden zij verrichten en hoe dikwijls zij worden ingeschakeld;
+
+- • met welke regelmaat het kwaliteitszorgverslag openbaar wordt gemaakt;
+
+- • of voor wat betreft de examens het verslag jaarlijks wordt opgesteld;
+
+- • waaruit de inhoud van voornoemd verslag bestaat.
+
 Verder moet worden beschreven:
+
+- • hoe deelnemers aan de opleidingen geïnformeerd worden over de consequenties (bv voor het verkrijgen van SF) van de deelname aan een niet bekostigde opleiding;
+
+- • hoe deelnemers worden geïnformeerd over de mogelijke alternatieve wijze(n) waarop de opleiding kan worden afgerond wanneer deze voortijdig aan de betreffende instelling wordt beëindigd;
+
+- • hoe de beschikbaarheid en kwaliteit van de huisvesting van de opleiding is georganiseerd en gegarandeerd.
 
 ### 1.4. Beschrijving van het onderwijs en de examens
 
 In de beschrijving van het onderwijs en de examens moet in ieder geval op de volgende onderdelen worden ingegaan:
+
+- • hoe er zorg voor wordt gedragen dat de opleidingen zodanig zijn ingericht dat de deelnemers de kwalificatie binnen de vastgestelde studieduur kunnen bereiken;
+
+- • de studielast per studiejaar waarbij de verdeling in uren begeleide onderwijstijd (in instellingstijd verzorgd onderwijsprogramma), uren beroepspraktijkvorming en uren onbegeleide onderwijstijd (huiswerk etc.);
+
+- • de studiegids of andersoortig document dat aan de deelnemers wordt verstrekt;
+
+- • de inrichting van het onderwijsprogramma, met daarin per opleiding de voor die opleiding specifieke informatie;
+
+- • de jaarplanning waaruit blijkt op welke wijze invulling wordt gegeven aan het wettelijk minimum aantal uren onderwijstijd;
+
+- • de beschikbare en gehanteerde leer- en hulpmiddelen per opleiding;
+
+- • de voor de deelnemers aan de opleiding geldende vooropleidingseisen;
+
+- • de inrichting van het examenprogramma, met daarbij een overzicht van de kwalificerende toetsing, een beschrijving van het examenproces, het examenreglement en een beschrijving van de inrichting en werkwijze van de commissie van beroep voor de examens met namen en contactgegevens;
+
+- • een beschrijving van de manier waarop verzuim en vsv zal worden geregistreerd en naar aanleiding daarvan een beschrijving van de verzuim- en meldprocedure met betrekking tot de deelnemers die (nog) vallen onder de kwalificatieplicht.
 
 ### 2. Aanvraagprocedure ‘opleiding binnen bestaand aanbod’
 
@@ -246,9 +381,17 @@ Per aanvraagformulier kan diploma-erkenning aangevraagd worden voor meerdere opl
 
 In het bovengenoemde aanvraagformulier is een standaardformulering opgenomen waarmee het bevoegd gezag door ondertekening van het formulier verklaard:
 
+- • te voldoen aan de regels beschreven in [hoofdstuk 7 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=7), met uitzondering van [artikel 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.1.1), voor het onderwijs, de examens en de kwaliteitszorg;
+
+- • dat er een commissie van beroep is ingesteld die voldoet aan de voorwaarden uit [artikel 7.5.1 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.5.1);
+
+- • dat er geen juridisch of persoonlijk verband is met een exameninstelling en
+
+- • dat er een rechtsgeldig document wordt verstrekt als een derde partij deze aanvraag doet.
+
 Wanneer de aanvraag door een derde namens het bevoegd gezag van een instelling wordt gedaan, moet een rechtsgeldige machtiging bij de aanvraag worden overgelegd. De correspondentie wordt in dat geval verder gevoerd met die derde.
 
-Aan de hand van het aanvraagformulier vindt een marginale toetsing plaats. Op basis van die toetsing wordt beoordeeld of een integraal beoordeling noodzakelijk geacht wordt. Indien een dergelijke beoordeling nodig is, kan de aanvrager gevraagd worden de aanvraag met verdere gegevens aan te vullen. Gegevens die opgevraagd kunnen worden, zijn genoemd in paragraaf 2.3.
+Aan de hand van het aanvraagformulier vindt een marginale toetsing plaats. Op basis van die toetsing wordt beoordeeld of een integraal beoordeling noodzakelijk geacht wordt. Indien een dergelijke beoordeling nodig is, kan de aanvrager gevraagd worden de aanvraag met verdere gegevens aan te vullen. Gegevens die opgevraagd kunnen worden, zijn genoemd in [paragraaf 2.3](https://wetten.overheid.nl/BWBR0033067).
 
 De aanvrager wordt in de gelegenheid gesteld binnen twee weken de aanvullende gegevens in te dienen. Wanneer het niet mogelijk is de aanvullende gegevens binnen twee weken toe te sturen dan kan de aanvrager, binnen deze termijn van twee weken, gemotiveerd om uitstel vragen.
 
@@ -262,6 +405,14 @@ Om te borgen dat de kwaliteit van de betreffende opleiding van een voldoende niv
 
 De risicoanalyse zal onder meer aan de hand van de volgende vragen plaatsvinden:
 
+- • Is de opleiding al eerder erkend bij de instelling of diens rechtsvoorganger?;
+
+- • Is de afgelopen 6 maanden diploma-erkenning aangevraagd voor meer dan 15 opleidingen? Daarbij worden meegeteld de opleidingen in de huidige aanvraag. Niet worden meegeteld de opleidingen waarvoor al in de experimentele fase diploma-erkenning is verkregen en die daadwerkelijke worden verzorgd. Een opleiding wordt in elk geval niet verzorgd indien er geen deelnemers bij die opleiding zijn ingeschreven.
+
+- • Worden er op basis van toezichthistorie (eerdere Inspectieonderzoeken, waarin zwakke en zeer zwakke opleidingen zijn geconstateerd dan wel opleidingen die niet voldoen aan de wettelijke bepalingen evenals signaleringen) door de Inspectie risico’s verwacht?
+
+- • Zijn er klachten over de instelling bekend?
+
 Indien uit de risicoanalyse is gebleken dat een integrale beoordeling noodzakelijk wordt geacht zal de (aangevulde) aanvraag ter beoordeling worden voorgelegd aan de Inspectie. Deze integrale beoordeling houdt in dat de aanvraag door de Inspectie wordt getoetst op de kwalitatieve aspecten in de praktijk door middel van kwaliteitsonderzoeken. De Inspectie brengt op basis van deze onderzoeken een advies aan DUO uit. De onderzoeken kunnen zowel dossieronderzoeken zijn als onderzoeken bij de instelling. DUO beslist vervolgens op de aanvraag.
 
 ### 2.2. Nader in te dienen gegevens
@@ -270,17 +421,75 @@ Indien voor de integrale beoordeling van de aanvraag aanvullende gegevens noodza
 
 De volgende gegevens kunnen worden opgevraagd:
 
+- a. een beschrijving van het stelsel van kwaliteitszorg ([artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6), zie hieronder [punt 2.3](https://wetten.overheid.nl/BWBR0033067) ‘Beschrijving stelsel kwaliteitszorg’);
+
+- b. een beschrijving van de manier waarop de zorgplicht wordt nagekomen ([art. 7.4.8 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.8));
+
+- c. een beschrijving van het onderwijs en de examens (zie hieronder [punt 2.4](https://wetten.overheid.nl/BWBR0033067) ‘Beschrijving van het onderwijs en examens’);
+
+- d. een model van de onderwijsovereenkomst, ([artikel 8.1.3. van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.3));
+
+- e. een model van de beroepspraktijkvormingsovereenkomst ([artikel 7.2.8 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8)), een beschrijving van de manier waarop de bpv wordt vormgegeven en een weergave van de verkenning en contacten met instellingen die als leerbedrijf gaan fungeren met namen en contactgegevens;
+
+- f. een deelnemersstatuut inclusief weergave van klachtenregeling en klachtencommissie met namen en contactgegevens;
+
+- g. wanneer van toepassing, de Verklaring opleidingstraject voor toepassing [Wet op de Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
+
+- h. een afschrift van een uittreksel van de Kamer van Koophandel dan wel van de ondertekende
+
 notariële akte van oprichting van de rechtspersoon.
 
 ### 2.3. Beschrijving stelsel kwaliteitzorg
 
 In de beschrijving van het stelsel van kwaliteitszorg ([artikel 1.3.6 van de Web](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.6)) moet in ieder geval worden aangegeven:
 
+- • op welke opleidingen het stelsel van toepassing zal zijn en welke methodes van kwaliteitszorg gehanteerd zullen worden;
+
+- • of het stelsel in samenwerking met andere instellingen gebeurt;
+
+- • de regelmaat waarmee de beoordeling van de kwaliteit van het onderwijs plaatsvindt;
+
+- • welke instrumenten en ook welke criteria gehanteerd worden bij de beoordeling;
+
+- • de kwalificaties van het personeel verbonden aan de opleiding en ook de maatregelen en instrumenten om de bekwaamheid van het personeel te onderhouden;
+
+- • of en zo ja, welke onafhankelijke deskundigen betrokken zijn bij de beoordeling, op basis van welke deskundigheid deze deskundigen zijn betrokken, welke werkzaamheden zij verrichten en hoe vaak zij worden ingeschakeld;
+
+- • met welke regelmaat het kwaliteitszorgverslag openbaar wordt gemaakt;
+
+- • of voor wat betreft de examens het verslag jaarlijks wordt opgesteld en
+
+- • waaruit de inhoud van voornoemd verslag bestaat.
+
 Verder moet worden beschreven:
+
+- • hoe deelnemers aan de opleidingen geïnformeerd worden over de consequenties (bv voor het verkrijgen van SF) van de deelname aan een niet bekostigde opleiding;
+
+- • hoe deelnemers worden geïnformeerd over de mogelijke alternatieve wijze(n) waarop de opleiding kan worden afgerond wanneer deze voortijdig aan de betreffende instelling wordt beëindigd en
+
+- • hoe de beschikbaarheid en kwaliteit van de huisvesting van de opleiding is georganiseerd en gegarandeerd.
 
 ### 2.4. Beschrijving van het onderwijs en de examens
 
 In de beschrijving van het onderwijs en de examens moet in ieder geval worden ingegaan op de volgende onderdelen:
+
+- • hoe er zorg voor wordt gedragen dat de opleidingen zodanig zijn ingericht dat de deelnemers de kwalificatie binnen de vastgestelde studieduur kunnen bereiken;
+
+- • de studielast per studiejaar waarbij de verdeling in uren begeleide onderwijstijd (in instellingstijd verzorgd onderwijsprogramma), uren beroepspraktijkvorming en uren onbegeleide onderwijstijd (huiswerk etc.);
+
+- • de studiegids die of andersoortig document dat aan de deelnemers wordt verstrekt;
+
+- • de inrichting van het onderwijsprogramma, met daarin per opleiding de voor die opleiding specifieke informatie;
+
+- • de jaarplanning – voor zover van toepassing – waaruit blijkt op welke manier invulling wordt gegeven aan het wettelijk minimum aantal uren onderwijstijd;
+
+- • de beschikbare en gehanteerde leer- en hulpmiddelen per opleiding;
+
+- • de voor de deelnemers aan de opleiding geldende vooropleidingseisen;
+
+- • de inrichting van het examenprogramma, met daarbij een overzicht van de kwalificerende toetsing, een beschrijving van het examenproces, het examenreglement en een beschrijving van de inrichting en werkwijze van de commissie van beroep voor de examens met namen en contactgegevens en
+
+- • een beschrijving van de manier waarop verzuim en vsv zal worden geregistreerd en naar aanleiding daarvan een beschrijving van de verzuim- en meldprocedure met betrekking tot de deelnemers die (nog) vallen onder de kwalificatieplicht.
 
 Wanneer uit de risicoanalyse blijkt dat een integrale beoordeling niet nodig is, wordt op basis van het ingevulde aanvraagformulier besloten over de gevraagde diploma-erkenning. Er wordt in dat geval in principe geen advies aan de Inspectie gevraagd.
 
@@ -288,10 +497,8 @@ Binnen drie maanden na ontvangst van de complete aanvraag kan een besluit tegemo
 
 Instellingen die beroepsopleidingen in de beroepsopleidende leerweg onder de werkingssfeer van de [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) willen plaatsen, gebruiken daarvoor het formulier ‘Verklaring opleidingstraject voor toepassing wet op de studiefinanciering 2000’.
 
+Wet openbaarheid van bestuur
+
 Een bestuursorgaan verstrekt bij de uitvoering van zijn taak informatie overeenkomstig de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) (Wob) en gaat daarbij uit van het algemeen belang van openbaarheid van informatie. Een ieder kan bovendien een verzoek om informatie, neergelegd in documenten over een bestuurlijke aangelegenheid, richten tot een bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf. Het verzoek hoeft niet gemotiveerd te zijn.
 
 De gegevens die bij DUO worden ingediend in het kader van een aanvraag vallen onder de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252). Dit houdt in dat DUO deze gegevens – indien daarom verzocht zou worden – openbaar moet maken, met uitzondering van de situaties bedoeld in [artikel 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10). Alvorens over te gaan tot openbaarmaking wordt de instelling altijd in de gelegenheid gesteld een reactie te geven op de openbaarmaking en wordt aan de hand van deze reactie bezien of openbaarmaking aan de orde is.
-
-## Bijlagen:
-
-Stroomschema’s Procedure 1 en Procedure 2

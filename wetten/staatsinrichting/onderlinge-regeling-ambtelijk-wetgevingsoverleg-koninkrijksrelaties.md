@@ -1,43 +1,18 @@
 ---
 title: "Onderlinge regeling in de zin van artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, houdende instelling van het Ambtelijk Wetgevingsoverleg Koninkrijksrelaties (Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties)"
+citeertitel: "Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties"
 identifier: "BWBR0032847"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-02-01"
-last_updated: "2013-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032847"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12090823"
-version_id: "20150892"
-internal_id: "C28314671"
-label_id: "12062454"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032847/2013-02-01/0"
-intitule_bron: "Stcrt.2013-2376"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-01-30"
-intitule_in_force: "2013-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-2376"
-original_published_date: "2013-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-2376"
-entry_into_force_date: "2013-02-01"
-jci_1_3: "jci1.3:c:BWBR0032847&z=2013-02-01&g=2013-02-01"
-jci_1_0: "1.0:c:BWBR0032847&g=2013-02-01"
-citeertitel_status: "officieel"
-short_title: "Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties"
-entry_into_force: "2013-02-01"
+publicatiedatum: 2013-02-01
+laatste_update: 2013-02-01
+status: geldig
+toestand: 2013-02-01
+bron: "https://wetten.overheid.nl/BWBR0032847"
+opgehaald: 2026-08-19
 ---
+
 # Onderlinge regeling in de zin van artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden, houdende instelling van het Ambtelijk Wetgevingsoverleg Koninkrijksrelaties (Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties)
-
-Overwegende, dat de landen vorm wensen te geven aan een ambtelijk overleg tussen de landen over wetgevingsaangelegenheden;
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38);
-
-Komen het volgende overeen:
 
 ##### Artikel 1
 
@@ -110,5 +85,3 @@ Deze onderlinge regeling treedt in werking met ingang van 1 februari 2013.
 ##### Artikel 11
 
 Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling Ambtelijk Wetgevingsoverleg Koninkrijksrelaties.
-
-Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.

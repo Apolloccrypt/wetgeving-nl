@@ -1,45 +1,70 @@
 ---
 title: "Wet van 20 december 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de vorming van de arrondissementen Gelderland en Overijssel"
+citeertitel: "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)"
 identifier: "BWBR0032588"
-country: "nl"
-rank: "wet"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032588"
+categorie: "Staatsinrichting en bestuur"
 soort: "wet"
-stam_id: "11993793"
-version_id: "19945442"
-internal_id: "C28071301"
-label_id: "11965934"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032588/2013-04-01/0"
-intitule_bron: "Stb.2012-666"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2012-12-21"
-intitule_in_force: "2012-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2012-666"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "33451"
-original_url_id: "stb-2012-666"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0032588&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0032588&g=2013-04-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet op de rechterlijke indeling, enz. (vorming van de arrondissementen Gelderland en Overijssel)"
-signed_date: "2012-12-20"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0032588"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 20 december 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en enige andere wetten in verband met de vorming van de arrondissementen Gelderland en Overijssel
 
 ### Hoofdstuk I. Wijziging van wetgeving op het terrein van rechtspleging
 
-### Hoofdstuk I. Wijziging van wetgeving op het terrein van rechtspleging
+##### Artikel I
+
+*Wijzigt de Wet op de rechterlijke indeling.*
+
+##### Artikel II
+
+*Wijzigt de Wet op de rechterlijke organisatie.*
+
+##### Artikel III
+
+*Wijzigt de Wet rechtspositie rechterlijke ambtenaren.*
+
+##### Artikel IV
+
+*Wijzigt de Wet herziening gerechtelijke kaart.*
+
+### Hoofdstuk II. Wijziging van overige wetten
+
+##### Artikel V
+
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
+
+##### Artikel VI
+
+*Wijzigt de onteigeningswet.*
+
+##### Artikel VII
+
+*Wijzigt de Politiewet 2012.*
+
+##### Artikel VIII
+
+*Wijzigt de Wet aansprakelijkheid olietankschepen.*
+
+##### Artikel IX
+
+*Wijzigt de Wet griffierechten in burgerlijke zaken.*
+
+##### Artikel X
+
+*Wijzigt de Wet op de ondernemingsraden.*
+
+##### Artikel XI
+
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
+
+##### Artikel XII
+
+*Wijzigt het Wetboek van Strafvordering.*
 
 ### Hoofdstuk III. Overgangsbepalingen
 
@@ -203,97 +228,37 @@ Het zaaksverdelingsreglement van de rechtbank Oost-Nederland, bedoeld in [artike
 
 - c. de ringvergadering onderscheidenlijk het ringbestuur in het arrondissement Gelderland, indien het andere dan de in de onderdelen a en b genoemde archiefbescheiden betreft, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.
 
-### Hoofdstuk III. Overgangsbepalingen
-
-### Hoofdstuk V. Slotbepalingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet op de rechterlijke indeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002080), de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en enige andere wetten te wijzigen in verband met de vorming van de arrondissementen Gelderland en Overijssel;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-##### Artikel I
-
-Wijzigt de Wet op de rechterlijke indeling.
-
-##### Artikel II
-
-Wijzigt de Wet op de rechterlijke organisatie.
-
-##### Artikel III
-
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
-
-##### Artikel IV
-
-Wijzigt de Wet herziening gerechtelijke kaart.
-
-### Hoofdstuk II. Wijziging van overige wetten
-
-##### Artikel V
-
-Wijzigt de Algemene wet inzake rijksbelastingen.
-
-##### Artikel VI
-
-Wijzigt de onteigeningswet.
-
-##### Artikel VII
-
-Wijzigt de Politiewet 2012.
-
-##### Artikel VIII
-
-Wijzigt de Wet aansprakelijkheid olietankschepen.
-
-##### Artikel IX
-
-Wijzigt de Wet griffierechten in burgerlijke zaken.
-
-##### Artikel X
-
-Wijzigt de Wet op de ondernemingsraden.
-
-##### Artikel XI
-
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-##### Artikel XII
-
-Wijzigt het Wetboek van Strafvordering.
-
 ### Hoofdstuk IV. Samenloopbepalingen
 
 ##### Artikel XXV
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel XXVI
 
-Wijzigt de Wet lokaal spoor (KST33324).
+*Wijzigt de Wet lokaal spoor (KST33324).*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet basisregistratie personen (KST33219).
+*Wijzigt de Wet basisregistratie personen (KST33219).*
 
 ##### Artikel XXVIII
 
-1. Wijzigt de Pensioenwet.
+1. *Wijzigt de Pensioenwet.*
 
-2. Wijzigt de Wet versterking pensioenfondsen (KST33182).
+2. *Wijzigt de Wet versterking pensioenfondsen (KST33182).*
 
 ##### Artikel XXIX
 
-Wijzigt de Beginselenwet AWBZ-zorg (KST33109).
+*Wijzigt de Beginselenwet AWBZ-zorg (KST33109).*
 
 ##### Artikel XXX
 
-Wijzigt de Wet wijziging curatele, beschermingsbewind en mentorschap (KST33054).
+*Wijzigt de Wet wijziging curatele, beschermingsbewind en mentorschap (KST33054).*
 
 ##### Artikel XXXI
 
-Wijzigt de Reparatiewet griffierechten burgerlijke zaken (KST33108).
+*Wijzigt de Reparatiewet griffierechten burgerlijke zaken (KST33108).*
 
 ### Hoofdstuk V. Slotbepalingen
 
@@ -304,5 +269,3 @@ Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na inwerkingtred
 ##### Artikel XXXIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en wat betreft [artikel XVIII, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032588&hoofdstuk=III&artikel=XVIII&z=2013-04-01&g=2013-04-01), kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

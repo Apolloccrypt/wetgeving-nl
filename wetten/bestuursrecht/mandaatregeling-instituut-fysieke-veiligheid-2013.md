@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 19 maart 2013, nr. 363701, houdende verlening van mandaat aan de directeur en de voorzitter van het bestuur van het IFV in verband met het nemen van besluiten op basis de Algemene wet erkenning EG-beroepskwalificaties (Mandaatregeling Instituut Fysieke Veiligheid 2013)"
+citeertitel: "Mandaatregeling Instituut Fysieke Veiligheid 2013"
 identifier: "BWBR0033112"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-06"
-last_updated: "2013-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033112"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12169133"
-version_id: "20319522"
-internal_id: "C28584961"
-label_id: "12140674"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033112/2013-04-06/0"
-intitule_bron: "Stcrt.2013-8250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-19"
-intitule_published: "2013-04-04"
-intitule_in_force: "2013-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8250"
-original_signed_date: "2013-03-19"
-original_published_date: "2013-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8250"
-entry_into_force_date: "2013-04-06"
-jci_1_3: "jci1.3:c:BWBR0033112&z=2013-04-06&g=2013-04-06"
-jci_1_0: "1.0:c:BWBR0033112&g=2013-04-06"
-citeertitel_status: "redactioneel"
-short_title: "Mandaatregeling Instituut Fysieke Veiligheid 2013"
-signed_date: "2013-03-19"
-entry_into_force: "2013-04-06"
+publicatiedatum: 2013-04-06
+laatste_update: 2013-04-06
+status: geldig
+toestand: 2013-04-06
+bron: "https://wetten.overheid.nl/BWBR0033112"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 19 maart 2013, nr. 363701, houdende verlening van mandaat aan de directeur en de voorzitter van het bestuur van het IFV in verband met het nemen van besluiten op basis de Algemene wet erkenning EG-beroepskwalificaties (Mandaatregeling Instituut Fysieke Veiligheid 2013)
-
-Gelet op [artikel 10:5 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:5);
-
-Besluit:
 
 ### Hoofdstuk 1. EG-verklaringen
 
@@ -73,5 +47,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Mandaatregeling Instituut Fysieke Veiligheid 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

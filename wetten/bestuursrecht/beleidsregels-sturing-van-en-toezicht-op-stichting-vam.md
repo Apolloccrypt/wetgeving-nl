@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/240947, houdende vaststelling beleidsregels in verband met sturing van en toezicht op de Stichting VAM"
+citeertitel: "Beleidsregels sturing van en toezicht op Stichting VAM"
 identifier: "BWBR0032463"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032463"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11960283"
-version_id: "19884112"
-internal_id: "C27919621"
-label_id: "11932294"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032463/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25494"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-05"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25494"
-original_signed_date: "2012-12-05"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25494"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032463&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032463&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels sturing van en toezicht op Stichting VAM"
-signed_date: "2012-12-05"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032463"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/240947, houdende vaststelling beleidsregels in verband met sturing van en toezicht op de Stichting VAM
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder:
 
-- **IBKI:** het exameninstituut van de Stichting VAM;
+- *IBKI:* het exameninstituut van de Stichting VAM;
 
-- **Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **Minister:** de minister van Infrastructuur en Milieu;
+- *Minister:* de minister van Infrastructuur en Milieu;
 
-- **Ministerie:** het ministerie van Infrastructuur en Milieu;
+- *Ministerie:* het ministerie van Infrastructuur en Milieu;
 
-- **Stichting VAM:** Stichting VAM, voor zover het de publieke taken betreft die worden uitgevoerd in opdracht van de minister door IBKI.
+- *Stichting VAM:* Stichting VAM, voor zover het de publieke taken betreft die worden uitgevoerd in opdracht van de minister door IBKI.
 
 #### § 2. Financieel toezicht
 
-##### Artikel 2. Tarieven voor taken of taakclusters op grond van [artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) en [artikel 85a, zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a)
+##### Artikel 2. Tarieven voor taken of taakclusters op grond van artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993 en artikel 85a, zesde lid, van de Wegenverkeerswet 1994
 
 De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) en [artikel 85a, zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a), alsmede aan de tarieven voor andere opgedragen taken voor zover deze taken mede een andere basis hebben in of krachtens die wetten, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald:
 
@@ -118,7 +92,7 @@ De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eers
 
 ##### Artikel 5. Accountantscontrole
 
-1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze beleidsregels.
+1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de [bijlage](https://wetten.overheid.nl/BWBR0032463) bij deze beleidsregels.
 
 2. De accountant van de Stichting VAM stelt een verslag van bevindingen op waarin de aandachtspunten, bedoeld in het eerste lid, zijn verwerkt.
 
@@ -230,7 +204,7 @@ De Minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 6. Overige onderwerpen
 
-##### Artikel 13. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 13. Evaluatie conform artikel 39 van de Kaderwet
 
 De Minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de Minister van Financiën.
 
@@ -247,33 +221,3 @@ Deze beleidsregels worden aangehaald als: Beleidsregels sturing van en toezicht 
 ##### Artikel 16. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2013.
-
-## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032463&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01)
-
-### Aandachtspunten voor de accountantscontrole
-
-### 1. Rechtmatigheid
-
-### 2. Tarieven
-
-### 3. Niet-financiële informatie
-
-### 4. Informatiebeveiliging
-
-Boordeling van de voorzieningen ter beveiliging van de gegevens van de Stichting VAM.
-
-### 5. Kwaliteit van de bedrijfsvoering
-
-Beoordeling van de kwaliteit van het gevoerde financieel beheer en de getroffen risico beheersingsmaatregelen met betrekking tot de publieke taakuitoefening.
-
-### 6. Scheiding administratie
-
-Bij de uitvoering van de controle van de jaarrekening wordt vastgesteld dat:
-
-### 7. Reserve
-
-Beoordeling van de juistheid en de volledigheid van de mutatie(s) van de egalisatiereserve.
-
-### 8. Verslag van bevindingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzing opsporing en behandeling militaire zaken"
 identifier: "BWBR0033103"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033103"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "12167393"
-version_id: "20317332"
-internal_id: "C28582051"
-label_id: "12139304"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033103/2013-04-01/0"
-intitule_bron: "Stcrt.2013-8057"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-12"
-intitule_published: "2013-03-28"
-intitule_in_force: "2013-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8057"
-original_signed_date: "2013-03-12"
-original_published_date: "2013-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8057"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0033103&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0033103&g=2013-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2013-03-12"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0033103"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzing opsporing en behandeling militaire zaken
 
 ### Samenvatting
@@ -43,13 +21,13 @@ Deze aanwijzing beschrijft eerst de doelstellingen en uitgangspunten met betrekk
 
 [Artikel 2 Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=2) (MSr) bepaalt dat het gemene strafrecht toepasselijk is op de niet in dat wetboek omschreven strafbare feiten, behoudens de afwijkingen bij de wet vastgesteld, begaan door Nederlandse militairen of daarmee gelijkgestelde personen. Voor de leesbaarheid van deze Aanwijzing zal verder over militairen worden gesproken.
 
-Met [artikel 2 MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=2) heeft de wetgever geenszins beoogd het militaire strafrecht als **lex specialis** te zien ten opzichte van het commune strafrecht.1HR 23 december 1980, **MRT** 1981, p. 300.
+Met [artikel 2 MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=2) heeft de wetgever geenszins beoogd het militaire strafrecht als *lex specialis* te zien ten opzichte van het commune strafrecht.1HR 23 december 1980, *MRT* 1981, p. 300.
 
 Militairen kunnen van feiten verdacht worden waar hun militaire status vanuit strafvorderlijk oogpunt van geen of geringe betekenis is. Dat zal in beginsel het geval zijn als strafbare feiten buiten diensttijd worden gepleegd.
 
 Als strafbare feiten tijdens diensttijd worden gepleegd, dan kunnen de militaire status van de verdachte en de ‘militaire omstandigheden’ vanuit strafvorderlijk oogpunt wel degelijk relevant zijn en zowel strafverzwarend als strafverminderend werken.
 
-Hoewel de opsporing en behandeling van militaire zaken in het merendeel van de gevallen door zorg van het arrondissementsparket Oost-Nederland en het Ressortsparket, vestiging Arnhem – Leeuwarden zal plaatsvinden, wordt deze aanwijzing uitdrukkelijk tot alle parketten gericht. Met name wordt aandacht gevraagd voor hoofdstuk 1 (m.u.v. § 1.5) en hoofdstuk 4.
+Hoewel de opsporing en behandeling van militaire zaken in het merendeel van de gevallen door zorg van het arrondissementsparket Oost-Nederland en het Ressortsparket, vestiging Arnhem – Leeuwarden zal plaatsvinden, wordt deze aanwijzing uitdrukkelijk tot alle parketten gericht. Met name wordt aandacht gevraagd voor [hoofdstuk 1](https://wetten.overheid.nl/BWBR0033103) (m.u.v. [§ 1.5](https://wetten.overheid.nl/BWBR0033103)) en [hoofdstuk 4](https://wetten.overheid.nl/BWBR0033103).
 
 ### 1. Inleiding
 
@@ -59,17 +37,25 @@ Ter uitvoering van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 De eerste uitzondering, neergelegd in [artikel 3, derde lid, Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=3), bepaalt dat voornoemde bevoegdheid aan een ander bij of krachtens de [Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789) aangewezen gerecht kan worden toebedeeld. Aangewezen andere bevoegde gerechten zijn:
 
+- a. de Gerechten in eerste aanleg in het Caribisch gebied, die de rechtsmacht in eerste aanleg uitoefenen voor verdachte militairen in het bevelsgebied van de hoogste bevelvoerende militair in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba (zie [artikel 17 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=17));
+
+- b. mobiele rechtbanken als bedoeld in [artikel 10 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=10).
+
 Deze gerechten zijn bevoegd om in eerste aanleg kennis te nemen van door militairen gepleegde strafbare feiten voor zover de verdachte zich in hun bevelsgebied bevindt. Voor de competentieverdeling is dus niet relevant waar het strafbare feit is gepleegd.
 
 De tweede uitzondering is neergelegd in [artikel 4 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=4). Als aan een feitencomplex is deelgenomen door militaire en niet militaire verdachten, is de rechter bevoegd die tot kennisneming op grond van de [artikelen 2-6 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) bevoegd is, tenzij:
 
-Ter uitvoering van [artikel 68 Wet RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=68) heeft het gerechtshof Arnhem-Leeuwarden een militaire kamer gevormd voor de behandeling van militaire zaken. Voor hoger beroep tegen vonnissen van de militaire kamers van de rechtbank Gelderland is ingevolge [artikel 8 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=8) bij uitsluiting de militaire kamer van het gerechtshof Arnhem – Leeuwarden bevoegd.2Hof Arnhem 10 september 2003, **MRT** 2004, p. 341.
+- a. het een feit strafbaar gesteld in het [MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) betreft;
+
+- b. ten aanzien van de niet militaire deelnemers geen vervolging wordt ingesteld, van verdere vervolging wordt afgezien of berechting door de kinderrechter plaatsvindt.
+
+Ter uitvoering van [artikel 68 Wet RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=68) heeft het gerechtshof Arnhem-Leeuwarden een militaire kamer gevormd voor de behandeling van militaire zaken. Voor hoger beroep tegen vonnissen van de militaire kamers van de rechtbank Gelderland is ingevolge [artikel 8 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=8) bij uitsluiting de militaire kamer van het gerechtshof Arnhem – Leeuwarden bevoegd.2Hof Arnhem 10 september 2003, *MRT* 2004, p. 341.
 
 Hoger beroep tegen vonnissen van de militaire kamers van de Gerechten in eerste aanleg in het Caribisch deel van het Koninkrijk dient ingevolge [artikel 18 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=18) bij de militaire kamer van het Gemeenschappelijk Hof van Justitie ingesteld te worden.
 
 ### 1.2. Rechtsmacht en bevoegdheid met betrekking tot buitenlandse militairen
 
-Met een zendende staat zijn vaak afspraken gemaakt omtrent het uitvoeren van rechtsmacht ten aanzien van buitenlandse militairen, burgerpersoneel en gezinsleden. Deze afspraken zijn veelal neergelegd in een zogenoemd statusverdrag of **Status of Forces Agreement** (SOFA). Dat kan betekenen dat in voorkomend geval Nederland geen of slechts in beperkte gevallen rechtsmacht over deze personen heeft.
+Met een zendende staat zijn vaak afspraken gemaakt omtrent het uitvoeren van rechtsmacht ten aanzien van buitenlandse militairen, burgerpersoneel en gezinsleden. Deze afspraken zijn veelal neergelegd in een zogenoemd statusverdrag of *Status of Forces Agreement* (SOFA). Dat kan betekenen dat in voorkomend geval Nederland geen of slechts in beperkte gevallen rechtsmacht over deze personen heeft.
 
 Opgemerkt wordt dat buitenlandse militairen voor de Nederlandse wet – behoudens uitzonderingsgevallen – niet aangemerkt worden als militairen. Dat betekent dat de regels van [artikel 2-6 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) van toepassing zijn als het gaat om welk gerecht bevoegd is kennis te nemen van door hen gepleegde strafbare feiten. Aangezien er een diversiteit aan statusverdragen en -afspraken zijn gemaakt kan, bij onduidelijkheid over het bestaan of de uitleg van die afspraken, contact gezocht worden met het Expertisecentrum Militair Strafrecht Openbaar Ministerie (EMSOM) bij het arrondissementsparket Oost-Nederland. Deze statusafspraken brengen immers met zich mee dat een andere systematiek gevolgd wordt bij de overdracht van strafzaken dan die in de bekende rechtshulpverdragen is neergelegd.
 
@@ -79,11 +65,21 @@ Het bureau verbindingsofficier krijgsmacht bestaat uit twee militaire officieren
 
 De verbindingsofficier krijgsmacht is in dat kader, en met inachtneming van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en de [Aanwijzing verstrekking van strafvorderlijke gegevens voor buiten de strafrechtspleging gelegen doeleinden](https://wetten.overheid.nl/jci1.3:c:BWBR0032611), gemandateerd door de hoofdofficier van Justitie van het arrondissementsparket Oost-Nederland om justitiële en strafvorderlijke informatie aan het ministerie van Defensie te verstrekken. Om deze taak deugdelijk uit te kunnen oefenen dient het bureau verbindingsofficier krijgsmacht op de hoogte gesteld te worden van strafzaken die tegen militairen lopen. Daarom gelden de volgende richtlijnen:
 
+- a. binnen het arrondissementsparket Oost-Nederland neemt de verbindingsofficier krijgsmacht kennis van elk strafdossier dat ten aanzien van een militaire verdachte wordt opgemaakt en waarover een vervolgingsbeslissing3Onder een vervolgingsbeslissing wordt in deze Aanwijzing ook verstaan de beslissing om de strafzaak te seponeren, te transigeren of om daarin tot het uitreiken van een strafbeschikking over te gaan. is genomen. In voorkomende gevallen kan de officier van Justitie de verbindingsofficier krijgsmacht in een eerder stadium informeren (zie [paragraaf 4.3](https://wetten.overheid.nl/BWBR0033103));
+
+- b. buiten de onder a. genoemde gevallen wordt door de behandelend officier van Justitie, door tussenkomst van de privacyfunctionaris van het betreffende parket, actief contact gezocht met het bureau verbindingsofficier krijgsmacht indien er in een strafdossier ten aanzien van een militaire verdachte een vervolgingsbeslissing is genomen. In voorkomende gevallen kan de verbindingsofficier krijgsmacht in een eerder stadium geïnformeerd worden (zie [paragraaf 4.3](https://wetten.overheid.nl/BWBR0033103)).
+
 ### 1.4. Doelstelling
 
 Indien de militaire kamer van de rechtbank Gelderlandbevoegd is om kennis te nemen van een strafbaar feit, dan is het arrondissementsparket Oost-Nederland belast met het leiding geven aan de opsporing en de vervolging van strafbare feiten die zijn begaan door militairen.
 
 Uitvoering van die kerntaak brengt specifieke doelstellingen met zich mee, welke een gezamenlijke inspanning van het arrondissementsparket Oost-Nederland en de KMar vergen, te weten:
+
+- a. de orde en tucht binnen de militaire samenleving moeten worden gehandhaafd, onder meer door toepassing van [artikel 79 Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=79);
+
+- b. de justitiële reactie of interventie moet zo mogelijk plaatsvinden binnen de looptijd van het dienstverband van de betreffende militair(en);
+
+- c. de justitiële reactie of interventie m.b.t. tot een strafbaar feit dat is gepleegd tijdens een oefening of operatie moet, ten behoeve van de generale preventie ter plaatse, door het voeren van een lik-op-stuk beleid4Zie punt 1.4.c. zoveel mogelijk en bij voorkeur plaatsvinden tijdens die oefening of die operatie.
 
 ### 1.5. Toepasselijkheid van deze aanwijzing
 
@@ -119,11 +115,11 @@ Het omgekeerde geldt evenzo voor zaken die in Nederland (het Rijk in Europa) een
 
 Doorgaans is het disciplinair recht ten aanzien van ambtenaren onderdeel van het ambtenarenrecht en dus het bestuursrecht. Voor het militair tuchtrecht is dat niet het geval. Dit kent een apart wettelijk regime dat niet valt onder het bestuursrecht. Ook vanuit de historie bezien heeft het in ieder geval twee onmiskenbare raakvlakken met het strafrecht.
 
-### 3.2. De aangifteplicht voor commandanten ([art. 78 Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=78))
+### 3.2. De aangifteplicht voor commandanten (art. 78 Wmt)
 
 De commandant die kennisneemt van een gedraging die naar zijn oordeel een strafbaar feit betreft is verplicht daarvan aangifte te doen bij een opsporingsambtenaar.
 
-### 3.3. De tuchtrechtelijke terugverwijzing ([art. 79 Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=79))
+### 3.3. De tuchtrechtelijke terugverwijzing (art. 79 Wmt)
 
 De wetgever heeft een duidelijke scheiding willen maken tussen het (militair) straf- en het militair tuchtrecht. In de praktijk is die scheiding niet altijd zo scherp te maken. Bij sommige gedragingen die een strafbaar feit betreffen kan de commandant om tuchtrechtelijke terugverwijzing vragen. Indien het een in [artikel 79, eerste lid, Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=79) genoemd strafbaar feit betreft, kan de commandant aan de KMar advies vragen over de mogelijkheid het strafbare feit tuchtrechtelijk af te doen. De KMar wijst de commandant op de procedure zoals omschreven in de ‘Richtlijn tuchtsepot (code 20) voor gevallen als bedoeld in art. 79 Wet militair tuchtrecht’.5Opgenomen in de (Defensie) Ministeriële Publicatie 11/55, regelingnummer 870 (Richtlijn en aanwijzingen commandanten ex artikel 79 WMT), Richtlijn tuchtsepot voor gevallen als bedoeld in art. 79 Wet militair tuchtrecht, onder 3.1. Daarbij wijst de KMar de commandant op de verplichtingen om zelf contact op te nemen met het arrondissementsparket Oost-Nederland c.q. het bevoegde parket in het Caribisch gebied en dat hij het ‘Standaard proces-verbaal ex [artikel 79 Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=79)-afdoening’6Opgenomen in de (Defensie) Ministeriële Publicatie 11/55, regelingnummer 870, als bijlage 4 bij de ‘Aanwijzingen, behorende bij de Richtlijn tuchtsepot voor gevallen als bedoeld in art. 79 Wet militair tuchtrecht’. moet invullen en faxen naar het bevoegde parket.7De relevante telefoon-, gsm- en faxnummers worden separaat bekendgemaakt, aangezien die frequent (kunnen) wijzigen.
 
@@ -135,15 +131,69 @@ De officier van Justitie belast met militaire zaken beoordeelt vervolgens of het
 
 [Artikel 1, tweede lid, Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=1) bepaalt dat – behoudens uitzonderingen – het commune strafprocesrecht van toepassing is op militaire zaken. Als uitvloeisel daarvan geldt dat het commune strafvorderingsbeleid wordt gevolgd. Van dat beleid kan worden afgeweken, indien specifieke militaire regelgeving of belangen dat noodzakelijk maken. Van specifieke militaire regelgeving kan worden gesproken indien:
 
+- • in het militair strafrecht een gedraging strafbaar is gesteld terwijl daar ook een commune pendant van bestaat, zoals bij joyriding ([art. 166 MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=166) en [art. 11 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11));
+
+- • in het militair strafrecht een strafverzwarende omstandigheid is genoemd ten aanzien van een commuun delict, zoals diefstal op een onder de militair bescherming gestelde plaats ([art. 155 MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=155)).
+
 Van een militair belang kan worden gesproken indien een strafbaar feit – commuun of militair – gepleegd wordt:
+
+- • in de tijd dat de militair dienst doet of behoorde te doen;
+
+- • op een militaire plaats (zoals een kazerne of een vaartuig der krijgsmacht);
+
+- • indien de militair in uniform gekleed gaat;
+
+- • waardoor de verklaring als bedoeld in [artikel 1, eerste lid, onderdeel b van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) wordt geweigerd dan wel ingetrokken;8Deze gevallen zijn omschreven in de Beleidsregeling justitiële antecedenten bij veiligheidsonderzoeken defensie en de Beleidsregeling justitiële antecedenten bij veiligheidsonderzoeken Koninklijke Marechaussee.
+
+- • waardoor anderszins het ambt of aanzien van militair geschaad wordt.
 
 Concreet worden aldus de volgende uitgangspunten gehanteerd:
 
+- a. Voor zover door de militair strafbare feiten zijn gepleegd waardoor geen specifieke militaire regelgeving is geschonden en tevens geen militair belang is geraakt, zal de strafrechtelijke bejegening door opsporingsinstanties en het arrondissementsparket Oost-Nederland in beginsel niet verschillen van die welke een burger ten deel valt.
+
+- b. Voor zover door de militair strafbare feiten zijn gepleegd waardoor specifieke militaire regelgeving is geschonden en/of een militair belang is geraakt, kunnen de militaire omstandigheden zowel een strafverlichtende als een strafverzwarende rol spelen. In beginsel zal echter zoveel mogelijk aansluiting worden gezocht bij de strafrechtelijke bejegening van burgers, tenzij het:
+
+   - 1°. commune feiten betreft die onder het regime zijn te brengen van:
+
+      - (a) [artikel 79 Wmt](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=79);
+
+      - (b) de [artikelen 59 MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59) en [59 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=59);
+
+   - 2°. wettelijk strafmaximum op commune delicten verhoogd wordt door toepassing van strafverzwarende omstandigheden genoemd in het [MSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001869);
+
+   - 3°. door een militair gepleegde strafbare feit imagoschade aan de krijgsmacht toebrengt of toe kan brengen.
+
+- c. Het gebruik van moderne communicatiemiddelen maakt het mogelijk om een lik-op-stukbeleid te voeren t.a.v. door militairen gepleegde strafbare feiten (militaire en/of commune), waarbij uit het oogpunt van preventie snel en krachtdadig Justitieel optreden wenselijk is. Dit beleid wordt niet alleen veelvuldig toegepast bij strafbare feiten in Nederland, maar wordt tevens toegepast bij strafbare feiten die zijn gepleegd: Dit lik-op-stuk beleid wordt inhoud gegeven door het ter plaatse door de KMar uitreiken van de OM-transactie c.q. strafbeschikking dan wel door het (bij niet-betaling van de transactie of rauwelijks) dagvaarden voor een zitting direct na terugkomst in Nederland, al dan niet in combinatie met een, na overleg met de officier van Justitie, door de commandant bevolen repatriëring.9Zie de Instructie protocol repatriëring verdachte militair.
+
+   - 1°. tijdens uitzendingen;
+
+   - 2°. tijdens oefeningen in het buitenland, varen daaronder begrepen; ook als deze buiten militaire plaats en tijd zijn gepleegd.
+
 ### 4.2. Bijzondere bepalingen voor militairen
+
+- a. Ten aanzien van overtredingen van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) door militairen wordt uitgegaan van een algeheel ‘niet-gedogen’ en een zwaardere strafmaat bij ‘militaire omstandigheden’. Dit wordt ingegeven door het *zero tolerance* beleid bij Defensie ten aanzien van drugs.10Zie de brief van de Staatssecretaris van Defensie aan de Tweede Kamer der Staten-Generaal van 16 april 1997 (TK 25 000 X, nr. 72); het drugsbeleid van Defensie is thans verwoord in een aanwijzing van de Secretaris-generaal van 28 maart 2007, Aanwijzing SG nr. A/925, inzake Uitvoering drugsbeleid Defensie.
+
+- b. In het kader van het verstrekken van justitiële en strafvorderlijke informatie in militaire zaken, vervult het bureau verbindingsofficier krijgsmacht bij het arrondissementsparket Oost-Nederland een instrumentele rol. Dit bureau treedt op als intermediair tussen het openbaar ministerie en Defensie en zal in voorkomend geval namens de hoofdofficier van justitie van het arrondissementsparket Oost-Nederland justitiële en strafvorderlijke informatie aan Defensie verstrekken.
 
 Zoals gezegd dient, ook indien militairen vervolgd worden door zorg van een ander parket dan het arrondissementsparket Oost-Nederland, de behandelend officier van justitie actief contact te zoeken met het bureau verbindingsofficier krijgsmacht. Dit om te bezien of er vanuit Defensie behoefte bestaat om justitiële en strafvorderlijke informatie in die zaak te vernemen. Over het conform de aanwijzing verkrijgen van toestemming van de Helpdesk Privacy van het Parket Generaal om justitiële en strafvorderlijke informatie te verstrekken, en het daadwerkelijk verstrekken daarvan aan Defensie, dienen de behandelend officier van justitie en het bureau verbindingsofficier krijgsmacht in voorkomend geval detailafspraken te maken.
 
 Van het uitgangspunt, zoals geformuleerd in de Aanwijzing justitiële en strafvorderlijke informatie aan derden, kan ten aanzien van Defensie worden afgeweken indien nog geen vervolgingsbeslissing is genomen, terwijl blijkt:
+
+- a. uit feiten of omstandigheden dat de militair een gevaar voor zichzelf of anderen vormt, of
+
+- b. uit feiten of omstandigheden dat de militair verdacht wordt van een strafbaar feit dat aangemerkt kan worden als ontslagwaardig wangedrag en tevens dat de militair uitgezonden zal worden in het kader van vredesbewarende of vredesafdwingende operaties voordat een vervolgingsbeslissing te verwachten is.
+
+- c. De [Aanwijzing aangiften van in het buitenland gepleegde strafbare feiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021114) is niet van toepassing indien de verdachte een militair is. Dit omdat Nederland op grond van [artikel 4 Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=4) ook rechtsmacht heeft indien een militair in het buitenland strafbare feiten pleegt.
+
+- d. De [Aanwijzing rechtsbijstand politieverhoor](https://wetten.overheid.nl/jci1.3:c:BWBR0027381) is voor militairen nader uitgewerkt in de Brief ‘Rechtsbijstand verhoor militairen’11Brief van het College van procureurs-generaal van 3 mei 2011, nr. PaG/B&S/15709, aan de hoofdofficier van Justitie van het arrondissementsparket Oost-Nederland. .
+
+- e. Van rij- en vaarbewijzen en bewijzen van bevoegdheid in het kader van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) bestaan zowel civiele als militaire varianten. Invordering van het civiele bewijs, dan wel een ontzegging van de bevoegdheid om voer- en (lucht)vaartuigen te besturen, heeft tot gevolg dat ook het besturen van een voer- of (lucht)vaartuig op basis van het militaire bewijs niet toegestaan is. Van dit uitgangspunt kan worden afgeweken indien de zogenaamde militaire clausule wordt toegepast. Het toepassen van de militaire clausule betekent dat expliciet, en dus bij wijze van uitzondering op de hoofdregel, de militair in kwestie wel mag blijven beschikken over zijn militaire bewijs en op grond daarvan voertuigen kan blijven besturen. Dit is een bevoegdheid van:
+
+   - a. de officier van justitie zodra en zolang het civiele bewijs door hem is ingevorderd;
+
+   - b. de raadkamer indien wordt besloten op een bezwaarschrift tegen de inhouding van het civiele rijbewijs;
+
+   - c. de strafrechter indien hij een ontzegging van de bevoegdheid om voer- en (lucht)vaartuigen te besturen wenst op te leggen.
 
 Toepassing van de militaire clausule kan verzocht worden door de verdachte, diens commandant of – indien de zaak aan de strafrechter voorgelegd wordt – de officier van justitie. De militaire clausule kan algemeen gelden of in specifieke gevallen. Een voorbeeld van dat laatste is dat een aan te wijzen commandant vooraf voor iedere rit schriftelijk toestemming moet geven. Vanwege het feit dat tot een invordering van het rijbewijs of een ontzegging van de rijbevoegdheid wordt overgegaan bij ernstigere verkeersovertredingen, zal in veel gevallen een specifieke militaire clausule de voorkeur genieten. Een voorbeeld van een geval waarin een algemene militaire clausule meer in de rede ligt, betreft het geval waarin de militair operationeel ingezet wordt zoals in het kader van een uitzending. Het specifiek vooraf voor elke rit toestemming geven is dan moeilijk te verenigen met de operationele omstandigheden.
 
@@ -158,6 +208,14 @@ Het Instructieprotocol repatriëring militairen tijdens uitzendingen is onverkor
 ### 5.1. Aanwijzingen voor de consultatie
 
 De hulpofficier van Justitie van de KMar neemt bij de consultatie de onderstaande aanwijzingen in acht.
+
+- a. Binnen kantooruren treedt de hulpofficier van Justitie in contact met de behandelend officier van Justitie belast met militaire zaken, wanneer een concrete fase van het strafrechtelijk onderzoek een spoedeisende beslissing vergt (bijvoorbeeld aanhouding buiten heterdaad, verlenging van de inverzekeringstelling, voorgeleiding voor de rechter-commissaris, huiszoeking, vragen van juridische aard, aanbieden OM-transactie c.q. strafbeschikking).
+
+- b. Buiten kantooruren treedt de hulpofficier van Justitie uitsluitend in contact met de piketofficier van Justitie bij het arrondissementsparket Oost-Nederland, indien een concrete fase van het strafrechtelijk onderzoek een spoedeisende beslissing (zie onder a) vergt en een uitstel tot de normale kantooruren niet mogelijk is.
+
+- c. De hulpofficier van Justitie treedt tijdens kantooruren in contact met de behandelend officier van Justitie belast met militaire zaken, wanneer hij ter zake van een misdrijf van oordeel is dat een transactie c.q. strafbeschikking kan worden aangeboden.14Zie punt 6 van deze Aanwijzing en KMar Operationele instructie III.9.a.
+
+- d. Aanrijdingen waarbij een dienstvoertuig van de Koninklijke Marechaussee of een militair van de Koninklijke Marechaussee in uniform betrokken is moeten, voor de vraag of een proces-verbaal moet worden opgemaakt dan wel of met een registratieset kan worden volstaan, worden gemeld aan de officier van Justitie belast met militaire zaken die verantwoordelijk is voor het betreffende district van de KMar.15Aanwijzing verkeersongevallen, punten 3.3.5 en 19 alsmede KMar Operationele instructie III.6.A. Buiten kantooruren moet contact worden opgenomen met de piketofficier bij het arrondissementsparket Oost-Nederland, indien een uitstel tot de normale kantooruren niet mogelijk is.
 
 ### 6. Buitengerechtelijke afdoening
 

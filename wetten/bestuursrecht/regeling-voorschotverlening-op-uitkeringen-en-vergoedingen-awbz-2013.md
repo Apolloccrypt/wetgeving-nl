@@ -1,41 +1,18 @@
 ---
 title: "Regeling voorschotverlening op uitkeringen AWBZ en vaststelling kosten van verstrekkingen en vergoedingen 2013"
+citeertitel: "Regeling voorschotverlening op uitkeringen en vergoedingen AWBZ 2013"
 identifier: "BWBR0032880"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-02-11"
-last_updated: "2013-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032880"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12100163"
-version_id: "20165782"
-internal_id: "C28347321"
-label_id: "12071824"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032880/2013-02-11/0"
-intitule_bron: "Stcrt.2013-3107"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-02-11"
-intitule_in_force: "2013-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-3107"
-original_published_date: "2013-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-3107"
-entry_into_force_date: "2013-02-11"
-jci_1_3: "jci1.3:c:BWBR0032880&z=2013-02-11&g=2013-02-11"
-jci_1_0: "1.0:c:BWBR0032880&g=2013-02-11"
-citeertitel_status: "officieel"
-short_title: "Regeling voorschotverlening op uitkeringen en vergoedingen AWBZ 2013"
-entry_into_force: "2013-02-11"
+publicatiedatum: 2013-02-11
+laatste_update: 2013-02-11
+status: geldig
+toestand: 2013-02-11
+bron: "https://wetten.overheid.nl/BWBR0032880"
+opgehaald: 2026-08-19
 ---
+
 # Regeling voorschotverlening op uitkeringen AWBZ en vaststelling kosten van verstrekkingen en vergoedingen 2013
-
-gelet op [artikel 91, derde lid van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), alsmede [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), [artikel 4.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en [artikel 4.8 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.8), [artikel 10, tweede lid Administratiebesluit bijzondere ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=10), alsmede [artikel 4:81, eerste lid Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-heeft in zijn vergadering van 21 januari 2013 besloten:
 
 ### Hoofdstuk 1. Definities
 
@@ -43,15 +20,16 @@ heeft in zijn vergadering van 21 januari 2013 besloten:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **het jaar t:** het kalenderjaar waarop de uitkering betrekking heeft;
+- a. *het jaar t:* het kalenderjaar waarop de uitkering betrekking heeft;
 
-- b. **het jaar t + 1:** het op het jaar t volgende kalenderjaar;
+- b. *het jaar t + 1:* het op het jaar t volgende kalenderjaar;
 
-- c. **het jaar t + 3:** het jaar dat ligt 3 jaar na het jaar t;
+- c. *het jaar t + 3:* het jaar dat ligt 3 jaar na het jaar t;
 
-- d. **AWBZ:** [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- d. *AWBZ:*
+ [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
-- e. **AFBZ:** Algemeen Fonds Bijzondere Ziektekosten.
+- e. *AFBZ:* Algemeen Fonds Bijzondere Ziektekosten.
 
 ### Hoofdstuk 2. Voorschotten op beheerskosten voor zorgverzekeraars en verbindingskantoren
 
@@ -97,9 +75,9 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 2. Het college betaalt het verschil tussen het bedrag van de definitieve vaststelling en voorlopig vastgestelde vergoeding ingeval van een positief saldo voor het verbindingskantoor of de zorgverzekeraar uit. Indien het verschil bedoeld in de vorige volzin negatief is, vordert het college het verschil van het verbindingskantoor of de zorgverzekeraar terug.
 
-### Hoofdstuk 4. Afstorting overschotten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+### Hoofdstuk 4. Afstorting overschotten AWBZ
 
-##### Artikel 7. Afstorting overschotten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+##### Artikel 7. Afstorting overschotten AWBZ
 
 Het CAK stort de opbrengsten van bijdragen voor zorg zonder verblijf vierwekelijks in het AFBZ af. De afstorting geschiedt met valuta op de vijfde werkdag van de eerstvolgende week na de week waarin de verwerkte opbrengsten zijn ontvangen.
 

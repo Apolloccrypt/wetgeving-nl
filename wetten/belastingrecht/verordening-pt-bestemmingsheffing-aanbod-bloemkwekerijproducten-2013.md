@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten laste van de sector bloemkwekerijproducten voor het jaar 2013 (Verordening PT bestemmingsheffing aanbod bloemkwekerijproducten 2013)"
+citeertitel: "Verordening PT bestemmingsheffing aanbod bloemkwekerijproducten 2013"
 identifier: "BWBR0033264"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033264"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12215343"
-version_id: "20429062"
-internal_id: "C28713111"
-label_id: "12186794"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033264/2013-09-22/0"
-intitule_bron: "Vbbo.2013-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-04-12"
-intitule_in_force: "2013-04-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-17"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-04-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-04-14"
-jci_1_3: "jci1.3:c:BWBR0033264&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033264&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing aanbod bloemkwekerijproducten 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-04-14"
+publicatiedatum: 2013-04-14
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033264"
+opgehaald: 2026-08-19
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten laste van de sector bloemkwekerijproducten voor het jaar 2013 (Verordening PT bestemmingsheffing aanbod bloemkwekerijproducten 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor bloemkwekerijproducten d.d. 14 december 2012;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -60,8 +33,8 @@ In deze verordening wordt verstaan onder:
 | j. | importeren | : | uit derde landen in Nederland in het vrije verkeer brengen; |
 | k. | invoerwaarde | : | CIF-waarde van in Nederland geïmporteerde bloemkwekerijproducten, met uitzondering van bloemzaden onder aftrek van de luchtvrachtkosten boven het grondgebied van de Europese Unie volgens bijlage 25 van Verordening (EEG) nr. 2454/93; |
 | l. | kweken | : | I. het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten; II. het ter bevordering van het verkrijgen van een oogst, verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten; III. het oogsten van bloemkwekerijproducten, of IV. het doen kweken van bloemkwekerijproducten; |
-| m. | omzet | : | het totaal van de verkoopfactuurbedragen van het zelfgekweekte bloemkwekerijproduct inclusief de met het product bij verkoop verbonden materialen zoals potten, aarde en etiketten exclusief BTW, onder aftrek van: |
-| n. | siergewassen | : | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: |
+| m. | omzet | : | het totaal van de verkoopfactuurbedragen van het zelfgekweekte bloemkwekerijproduct inclusief de met het product bij verkoop verbonden materialen zoals potten, aarde en etiketten exclusief BTW, onder aftrek van: I. creditnota's, voorzover deze betrekking hebben op de verrekening van schade of kwaliteitsverlies of indien deze achteraf zijn opgemaakt voor de verrekening van kwantumkortingen; II. De inkoopprijs van sierpotten, ijzerwerk en luxe verpakkingen; III. royalties, voor de kwekersrechthouder voorzover dit inkomsten zijn, en IV. royalties voor de vermeerderaar, voorzover hij als licentiehouder royalties direct aan de kwekersrechthouder afdraagt; |
+| n. | siergewassen | : | gewassen voor de sier in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van: I. winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd; II. voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan; III. dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en IV. aquariumplanten en niet-levende bloemkwekerijproducten; |
 | o. | teeltmateriaal | : | planten en plantendelen met uitzondering van bloemzaden die bestemd zijn om voor de teelt van bloemkwekerijproducten of ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 | p. | telen | : | kweken. |
 

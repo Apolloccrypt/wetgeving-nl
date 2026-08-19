@@ -1,45 +1,17 @@
 ---
 title: "Regeling Beroepservaringperiode"
 identifier: "BWBR0032509"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-12-21"
-last_updated: "2012-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032509"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11972173"
-version_id: "19902162"
-internal_id: "C27954051"
-label_id: "11944454"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032509/2012-12-21/0"
-intitule_bron: "Stcrt.2012-26178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-10"
-intitule_published: "2012-12-19"
-intitule_in_force: "2012-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26178"
-original_signed_date: "2012-12-10"
-original_published_date: "2012-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26178"
-entry_into_force_date: "2012-12-21"
-jci_1_3: "jci1.3:c:BWBR0032509&z=2012-12-21&g=2012-12-21"
-jci_1_0: "1.0:c:BWBR0032509&g=2012-12-21"
-citeertitel_status: "officieel"
-signed_date: "2012-12-10"
-entry_into_force: "2012-12-21"
+publicatiedatum: 2012-12-21
+laatste_update: 2012-12-21
+status: geldig
+toestand: 2012-12-21
+bron: "https://wetten.overheid.nl/BWBR0032509"
+opgehaald: 2026-08-19
 ---
+
 # Regeling Beroepservaringperiode
-
-Gelet op de [artikelen 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=8), en [12e, tweede lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12e);
-
-Gezien de goedkeuring van de Minister voor Wonen en Rijksdienst d.d. 5 december 2012, de Minister van Economische Zaken d.d. 10 december 2012 en de Minister van Onderwijs, Cultuur en Wetenschap d.d. 5 december 2012;
-
-Besluit:
 
 ### Hoofdstuk I. Definities
 
@@ -47,37 +19,38 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** [Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189);
+- a. *wet:*
+ [Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189);
 
-- b. **register:** architectenregister als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2);
+- b. *register:* architectenregister als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2);
 
-- c. **bureau architectenregister:** bureau architectenregister als bedoeld in [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2a);
+- c. *bureau architectenregister:* bureau architectenregister als bedoeld in [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2a);
 
-- d. **architect:** in het register als zodanig ingeschreven architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect;
+- d. *architect:* in het register als zodanig ingeschreven architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect;
 
-- e. **beroepservaringperiode:** periode als bedoeld in [artikel 12e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12e);
+- e. *beroepservaringperiode:* periode als bedoeld in [artikel 12e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12e);
 
-- f. **kandidaat:** persoon die de beroepservaringperiode doorloopt;
+- f. *kandidaat:* persoon die de beroepservaringperiode doorloopt;
 
-- g. **mentor:** architect, blijkens inschrijving in het register ten minste drie jaar beroepsmatig werkzaam in de discipline van de desbetreffende kandidaat, onder wiens begeleiding de kandidaat het beroep van architect uitoefent;
+- g. *mentor:* architect, blijkens inschrijving in het register ten minste drie jaar beroepsmatig werkzaam in de discipline van de desbetreffende kandidaat, onder wiens begeleiding de kandidaat het beroep van architect uitoefent;
 
-- h. **geïntegreerd beroepservaringprogramma:** tweejarig programma waarin werken onder begeleiding van een mentor en het volgen van beroepservaringmodules door één aanbieder worden verzorgd;
+- h. *geïntegreerd beroepservaringprogramma:* tweejarig programma waarin werken onder begeleiding van een mentor en het volgen van beroepservaringmodules door één aanbieder worden verzorgd;
 
-- i. **beroepservaringmodules:** trainingen, cursussen en andere bijeenkomsten die zijn gericht op de ontwikkeling van de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
+- i. *beroepservaringmodules:* trainingen, cursussen en andere bijeenkomsten die zijn gericht op de ontwikkeling van de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling.
 
 ### Hoofdstuk II. Doel en inhoud van de beroepservaringperiode
 
 ##### Artikel 2
 
-1. De beroepservaringperiode moet er toe leiden dat de kandidaat aan het einde van deze periode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
+1. De beroepservaringperiode moet er toe leiden dat de kandidaat aan het einde van deze periode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling.
 
 2. Om te bevorderen dat de kandidaat beschikt over de in het eerste lid genoemde kennis, inzicht en vaardigheden doorloopt hij een individueel traject, waarin hij gedurende twee jaar het beroep van architect uitoefent onder begeleiding van een mentor, alsmede gelijktijdig een aanvullend traject, waarin hij beroepservaringmodules volgt.
 
-3. De kandidaat doet in het individueel traject beroepsmatig ervaring op in een aantal te onderscheiden fases in het ontwerp- en realisatieproces, welke fases staan genoemd in de bijlage bij deze regeling.
+3. De kandidaat doet in het individueel traject beroepsmatig ervaring op in een aantal te onderscheiden fases in het ontwerp- en realisatieproces, welke fases staan genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling.
 
 ##### Artikel 3
 
-1. De kandidaat die met goed gevolg een door het bureau architectenregister erkend geïntegreerd beroepservaringprogramma heeft doorlopen, wordt geacht te beschikken over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
+1. De kandidaat die met goed gevolg een door het bureau architectenregister erkend geïntegreerd beroepservaringprogramma heeft doorlopen, wordt geacht te beschikken over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling.
 
 2. De kandidaat die deelneemt aan een geïntegreerd beroepservaringprogramma voert het startgesprek, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=10&z=2012-12-21&g=2012-12-21) en de in de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=1&artikel=12&z=2012-12-21&g=2012-12-21), en [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=VI&artikel=24&z=2012-12-21&g=2012-12-21), bedoelde gesprekken bij de aanbieder van het programma en levert in dat kader bij die aanbieder, op de door die aanbieder te bepalen momenten, de bescheiden als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=8&z=2012-12-21&g=2012-12-21), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=1&artikel=11&z=2012-12-21&g=2012-12-21) en 24 in.
 
@@ -113,19 +86,19 @@ De kandidaat werkt gedurende de beroepservaringperiode op het bureau waar de men
 
 2. Op de in het eerste lid bedoelde aanmelding staan onder meer vermeld:
 
-- –. personalia van de kandidaat en van de mentor;
+- – personalia van de kandidaat en van de mentor;
 
-- –. de datum van ingang van de samenwerking tussen de mentor en de kandidaat;
+- – de datum van ingang van de samenwerking tussen de mentor en de kandidaat;
 
-- –. het aantal uren dat de kandidaat per week zal werken;
+- – het aantal uren dat de kandidaat per week zal werken;
 
-- –. het door de kandidaat behaalde diploma;
+- – het door de kandidaat behaalde diploma;
 
-- –. een verklaring van de beoogde mentor dat deze gedurende zijn begeleiding van de kandidaat zal voldoen aan zijn verplichtingen uit hoofde van deze regeling.
+- – een verklaring van de beoogde mentor dat deze gedurende zijn begeleiding van de kandidaat zal voldoen aan zijn verplichtingen uit hoofde van deze regeling.
 
 ##### Artikel 8
 
-Bij de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=7&z=2012-12-21&g=2012-12-21) bedoelde aanmelding dient de kandidaat een door hem opgesteld persoonlijk ontwikkelingsplan in, waarin staat beschreven hoe hij zijn beroepservaringperiode zal inrichten om te bewerkstelligen dat hij aan het einde van de beroepservaringperiode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
+Bij de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=7&z=2012-12-21&g=2012-12-21) bedoelde aanmelding dient de kandidaat een door hem opgesteld persoonlijk ontwikkelingsplan in, waarin staat beschreven hoe hij zijn beroepservaringperiode zal inrichten om te bewerkstelligen dat hij aan het einde van de beroepservaringperiode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling.
 
 ##### Artikel 9
 
@@ -143,7 +116,7 @@ Voor de aanvang van de beroepservaringperiode vindt een startgesprek plaats tuss
 
 ##### Artikel 11
 
-De kandidaat houdt tijdens de beroepservaringperiode een logboek bij, waarin hij zijn ontwikkelingen van de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de bijlage bij deze regeling, beschrijft.
+De kandidaat houdt tijdens de beroepservaringperiode een logboek bij, waarin hij zijn ontwikkelingen van de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling, beschrijft.
 
 ##### Artikel 12
 
@@ -307,7 +280,7 @@ Het bureau architectenregister stelt regels vast met betrekking tot de erkenning
 
 ##### Artikel 32
 
-Het bureau architectenregister is bevoegd de bijlage bij deze regeling te wijzigen en doet van een wijziging mededeling aan de ministers, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=4).
+Het bureau architectenregister is bevoegd de [bijlage](https://wetten.overheid.nl/BWBR0032509) bij deze regeling te wijzigen en doet van een wijziging mededeling aan de ministers, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=4).
 
 ##### Artikel 33
 
@@ -320,11 +293,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 35
 
 Deze regeling kan worden aangehaald als: Regeling Beroepservaringperiode.
-
-## Bijlage
-
-### Eindtermen Beroepservaring
-
-De eindtermen vormen het samenhangende geheel van kennis, inzicht en vaardigheden waarover de kandidaat aan het einde van de beroepservaringperiode moet beschikken om als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect aan het vereiste niveau van beroepsuitoefening te voldoen. Daarbij zij opgemerkt dat deze competenties niet alleen gelden vanuit het perspectief van de ontwerper als opdrachtnemer maar ook, zoals bij stedenbouwkundigen en landschapsarchitecten in ambtelijke dienst, van de ontwerper als opdrachtgever. De eindtermen en ervaringsaspecten dienen steeds in de context van de betreffende discipline te worden geïnterpreteerd. Voor een goede duiding van de eindtermen zijn bij de eindtermen bij wijze van voorbeeld ervaringsaspecten aangegeven. Deze ervaringsaspecten vormen niet limitatieve voorbeelden ter verduidelijking, voor zowel de kandidaat, de mentor, de commissie beroepservaringperiode als de aanbieder, van de wijze waarop aan de eindtermen kan worden voldaan.
-
-### Eindtermen en ervaringsaspecten per fase

@@ -1,43 +1,19 @@
 ---
 title: "Inkomstenbelasting, eigenwoningrente; tweede schuld voor aflossingen eigenwoningschuld"
 identifier: "BWBR0032960"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-03-08"
-last_updated: "2013-02-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032960"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12125653"
-version_id: "20231792"
-internal_id: "C28462121"
-label_id: "12097184"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032960/2013-03-08/0"
-intitule_bron: "Stcrt.2013-5687"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-26"
-intitule_published: "2013-03-07"
-intitule_in_force: "2013-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-5687"
-original_signed_date: "2013-02-26"
-original_published_date: "2013-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-5687"
-entry_into_force_date: "2013-03-08"
-jci_1_3: "jci1.3:c:BWBR0032960&z=2013-03-08&g=2013-03-08"
-jci_1_0: "1.0:c:BWBR0032960&g=2013-03-08"
-citeertitel_status: "redactioneel"
-signed_date: "2013-02-26"
-entry_into_force: "2013-03-08"
+publicatiedatum: 2013-03-08
+laatste_update: 2013-03-08
+status: geldig
+toestand: 2013-03-08
+bron: "https://wetten.overheid.nl/BWBR0032960"
+opgehaald: 2026-08-19
 ---
+
 # Inkomstenbelasting, eigenwoningrente; tweede schuld voor aflossingen eigenwoningschuld
 
-De Staatssecretaris van Financiën heeft het volgende besloten.
-
-**Dit besluit beschrijft in welke gevallen de Belastingdienst het standpunt zal innemen dat sprake is van een afzonderlijke schuld ondanks dat er een bepaalde samenhang is met een andere schuld.**
+*Dit besluit beschrijft in welke gevallen de Belastingdienst het standpunt zal innemen dat sprake is van een afzonderlijke schuld ondanks dat er een bepaalde samenhang is met een andere schuld.*
 
 ### 1. Inleiding
 
@@ -57,12 +33,16 @@ In zijn eerdergenoemde brief schrijft de Minister voor Wonen en Rijksdienst dat 
 
 De Belastingdienst beschouwt de hiervoor beschreven schulden niet als één schuld als aan de volgende voorwaarden wordt voldaan.
 
-**Voorwaarden:**
+*Voorwaarden:*
+
+- 1. De jaarlijks verschuldigde rente op de eerste schuld mag administratief niet worden gesaldeerd met de jaarlijks verschuldigde rente op de tweede schuld of het in dat jaar uit de tweede schuld opgenomen bedrag.
+
+- 2. De rente op de eerste schuld is marktconform en ziet niet op andere rechten of verplichtingen dan de terbeschikkingstelling van de hoofdsom van deze eerste schuld.
+
+- 3. Het rentepercentage op de tweede schuld is niet lager dan het rentepercentage op de eerste schuld.
 
 Als niet aan deze voorwaarden wordt voldaan, bestaat niet op voorhand zekerheid dat de Belastingdienst de schulden als afzonderlijk zal aanvaarden. Bij twijfel kunnen geldverstrekkers zich uiteraard wenden tot de Belastingdienst om zekerheid vooraf te krijgen over een combinatie van schulden.
 
 ### 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van het besluit.
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

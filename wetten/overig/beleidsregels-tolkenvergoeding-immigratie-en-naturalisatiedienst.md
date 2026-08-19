@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 april 2013, nr. INDUIT13-273, houdende vaststelling van beleidsregels betreffende de vergoeding van tolken bij het horen van vreemdelingen in het kader van de Vreemdelingenwet 2000 (Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst)"
+citeertitel: "Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst"
 identifier: "BWBR0033345"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-07"
-last_updated: "2023-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033345"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12237303"
-version_id: "20467932"
-internal_id: "C28777691"
-label_id: "12208734"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033345/2023-03-07/0"
-intitule_bron: "Stcrt.2013-11887"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-01"
-intitule_published: "2013-04-29"
-intitule_in_force: "2013-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-11887"
-original_signed_date: "2013-04-01"
-original_published_date: "2013-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-11887"
-entry_into_force_date: "2013-05-01"
-jci_1_3: "jci1.3:c:BWBR0033345&z=2023-03-07&g=2023-03-07"
-jci_1_0: "1.0:c:BWBR0033345&g=2023-03-07"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst"
-signed_date: "2013-04-01"
-entry_into_force: "2013-05-01"
+publicatiedatum: 2013-05-01
+laatste_update: 2023-03-07
+status: geldig
+toestand: 2023-03-07
+bron: "https://wetten.overheid.nl/BWBR0033345"
+opgehaald: 2026-08-19
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 april 2013, nr. INDUIT13-273, houdende vaststelling van beleidsregels betreffende de vergoeding van tolken bij het horen van vreemdelingen in het kader van de Vreemdelingenwet 2000 (Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 april 2013, nr. INDUIT13-273, houdende vaststelling van beleidsregels betreffende de vergoeding van tolken bij het horen van vreemdelingen in het kader van de Vreemdelingenwet 2000 (Beleidsregels tolkenvergoeding Immigratie- en Naturalisatiedienst)
 
 ##### Artikel 1
 
@@ -44,7 +20,7 @@ Voor de toepassing van deze beleidsregels wordt verstaan onder tolken: zij die d
 
 ##### Artikel 2
 
-1. Aan tolken wordt voor de duur van verrichte tolkwerkzaamheden vanaf 1 januari 2023 een vergoeding van € 55,00 per uur toegekend.
+1. Aan tolken wordt voor de duur van verrichte tolkwerkzaamheden vanaf 1 januari 2023 een vergoeding van € 55,00 per uur toegekend.
 
 2. De duur van de tolkdienst wordt zonder afronding berekend in minuten.
 
@@ -82,7 +58,7 @@ Voor tolkwerkzaamheden bij beroepsprocedures wordt de geplande tijd uitbetaald, 
 
 ##### Artikel 6
 
-1. De tolk heeft in het kader van een tolkopdracht niet zijnde een telefonische of VC-tolkdienst (via een digitale beeld- en geluidverbinding) recht op een reiskostenvergoeding van zijn woonadres (BRP-registratie) naar de IND-locatie en vice versa van € 0,77 per kilometer
+1. De tolk heeft in het kader van een tolkopdracht niet zijnde een telefonische of VC-tolkdienst (via een digitale beeld- en geluidverbinding) recht op een reiskostenvergoeding van zijn woonadres (BRP-registratie) naar de IND-locatie en vice versa van € 0,77 per kilometer
 
 2. Als basis voor de berekening van de gereisde kilometers geldt de reisafstand met eigen vervoer tussen de coördinaten van de in het eerste lid genoemde adressen, zoals vastgesteld door Google Maps
 
@@ -108,22 +84,20 @@ Dit besluit wordt aangehaald als: Beleidsregels tolkenvergoeding Immigratie- en 
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14
 
-Vervallen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+*Vervallen*

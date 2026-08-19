@@ -1,56 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 6 maart 2013, nr. 2013-0000117717, houdende de intrekking van uitgewerkte regelingen en een uitgewerkte wet"
+citeertitel: "Regeling houdende intrekking van diverse uitgewerkte regelingen en een wet van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
 identifier: "BWBR0033152"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033152"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "12178443"
-version_id: "20342432"
-internal_id: "C28619301"
-label_id: "12149984"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033152/2013-07-01/0"
-intitule_bron: "Stcrt.2013-8646"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-06"
-intitule_published: "2013-04-05"
-intitule_in_force: "2013-04-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8646"
-original_signed_date: "2013-03-06"
-original_published_date: "2013-04-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8646"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033152&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0033152&g=2013-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling houdende intrekking van diverse uitgewerkte regelingen en een wet van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
-signed_date: "2013-03-06"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0033152"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 6 maart 2013, nr. 2013-0000117717, houdende de intrekking van uitgewerkte regelingen en een uitgewerkte wet
-
-Handelende mede namens de Minister van Buitenlandse Zaken en de Minister van Defensie, voor zover het betreft [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=1&z=2013-07-01&g=2013-07-01);
-
-Handelende mede namens de Minister van Financiën, voor zover het betreft [artikel 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=1&z=2013-07-01&g=2013-07-01);
-
-Handelende mede namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=2&z=2013-07-01&g=2013-07-01);
-
-Handelende in overeenstemming met de Minister van Economische Zaken voor zover het betreft [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=3&z=2013-07-01&g=2013-07-01);
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken, de Minister van Veiligheid en Justitie en de Minister van Defensie voor zover het betreft [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=5&z=2013-07-01&g=2013-07-01);
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken en de Minister van Veiligheid en Justitie voor zover het betreft [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=5&z=2013-07-01&g=2013-07-01);
-
-Gelet op [artikel 2, eerste lid, van de Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604&artikel=2), [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), [artikel 1c van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1c), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=13) en [20e van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=20e), de [artikelen 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=105), en [157, derde lid, van de Algemene Pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=157) en de artikelen van de [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402), de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939), de [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010465) en de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) die de bevoegdheid inhouden om ministeriële regelingen vast te stellen, te wijzigen of in te trekken, alsmede voor het overige [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44);
-
-Besluiten:
 
 ##### Artikel 1. Intrekking van regelingen met betrekking tot diverse commissies
 
@@ -136,7 +98,7 @@ De volgende regelingen worden ingetrokken:
 
 - h. [Besluit volmacht aan Uitvoeringsinstituut werknemersverzekeringen (Algemene pensioenwet politieke ambtsdragers) van 20 augustus 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017129), Stcrt. 168.
 
-##### Artikel 5. Intrekking van regelingen met betrekking tot de uitvoering van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212)
+##### Artikel 5. Intrekking van regelingen met betrekking tot de uitvoering van de Paspoortwet
 
 De volgende regelingen worden ingetrokken:
 
@@ -232,11 +194,11 @@ De volgende regelingen worden ingetrokken:
 
 - a. [Besluit aanwijzing gemeenten Tijdelijk experimentenbesluit Kiezen op Afstand (Europees Parlement 4 juni 2009/1) van 19 mei 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025892), Stcrt. 97;
 
-- b. [Aanwijzingsbesluit briefstembureau Willemstad, Philipsburg en Oranjestad van 27 mei 2009](onbekend), Stcrt. 97, en
+- b. [Aanwijzingsbesluit briefstembureau Willemstad, Philipsburg en Oranjestad van 27 mei 2009](https://wetten.overheid.nl/BWBR0025896), Stcrt. 97, en
 
-- c. [Besluit aanwijzing briefstembureau Philipsburg, Sint Maarten (2010) van 1 juni 2010](onbekend), Stcrt. 8615.
+- c. [Besluit aanwijzing briefstembureau Philipsburg, Sint Maarten (2010) van 1 juni 2010](https://wetten.overheid.nl/BWBR0027711), Stcrt. 8615.
 
-##### Artikel 9. Intrekking [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604)
+##### Artikel 9. Intrekking Tijdelijke spoedwet verkiezingen Europees Parlement 2004
 
 De [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604) wordt ingetrokken.
 
@@ -249,5 +211,3 @@ De [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.ove
 ##### Artikel 11. Slotbepaling
 
 Deze regeling treedt in werking met ingang van 1 juli 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

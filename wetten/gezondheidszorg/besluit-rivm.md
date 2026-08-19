@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 december 2012, kenmerk PG/JFB-3147964, ter uitvoering van artikel 3, eerste lid, onderdeel a, van de Wet op het RIVM"
+citeertitel: "Besluit RIVM"
 identifier: "BWBR0032719"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-30"
-last_updated: "2022-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032719"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12035583"
-version_id: "29070952"
-internal_id: "C41324311"
-label_id: "12007284"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032719/2022-11-30/0"
-intitule_bron: "Stcrt.2013-227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-21"
-intitule_published: "2013-01-03"
-intitule_in_force: "2013-01-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32024"
-original_signed_date: "2022-11-21"
-original_published_date: "2022-11-29"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-32024"
-entry_into_force_date: "2022-11-21"
-jci_1_3: "jci1.3:c:BWBR0032719&z=2022-11-30&g=2022-11-30"
-jci_1_0: "1.0:c:BWBR0032719&g=2022-11-30"
-citeertitel_status: "officieel"
-short_title: "Besluit RIVM"
-signed_date: "2022-11-21"
-entry_into_force: "2022-11-21"
+publicatiedatum: 2022-11-21
+laatste_update: 2022-11-30
+status: geldig
+toestand: 2022-11-30
+bron: "https://wetten.overheid.nl/BWBR0032719"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 december 2012, kenmerk PG/JFB-3147964, ter uitvoering van artikel 3, eerste lid, onderdeel a, van de Wet op het RIVM
-
-Gelet op [artikel 3, eerste lid, onderdeel c, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -92,10 +66,6 @@ Het besluit van 12 september 2005, kenmerk PG-2.612.655, wordt ingetrokken.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-Dit besluit wordt in de Staatscourant geplaatst.
-
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit RIVM.
-
-Dit besluit wordt in de Staatscourant geplaatst.

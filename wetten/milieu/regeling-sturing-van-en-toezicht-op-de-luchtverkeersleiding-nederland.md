@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241280, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland)"
+citeertitel: "Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland"
 identifier: "BWBR0032483"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032483"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11966813"
-version_id: "19892192"
-internal_id: "C27935001"
-label_id: "11938854"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032483/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25324"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-12"
-intitule_published: "2012-12-19"
-intitule_in_force: "2012-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25324"
-original_signed_date: "2012-12-12"
-original_published_date: "2012-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25324"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032483&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032483&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland"
-signed_date: "2012-12-12"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032483"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241280, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland)
-
-Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 5.32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.32), en [5.42, eerste en tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.42);
-
-BESLUIT:
 
 #### § 1. Algemene bepalingen
 
@@ -46,17 +20,17 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
-- **common requirements:** uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de [Verordeningen (EG) nr. 482/2008](32008R0482) en (EU) [nr. 691/2010](32010R0691) (PbEU L271);
+- *common requirements:* uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de Verordeningen (EG) nr. 482/2008 en (EU) nr. 691/2010 (PbEU L271);
 
-- **de begroting:** de jaarlijkse financiële begroting, bedoeld in [artikel 5.40, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.40);
+- *de begroting:* de jaarlijkse financiële begroting, bedoeld in [artikel 5.40, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.40);
 
-- **de minister:** de Minister van Infrastructuur en Milieu;
+- *de minister:* de Minister van Infrastructuur en Milieu;
 
-- **de wet:** de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+- *de wet:* de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
-- **verordening inzake prestatiesturing:** verordening (EU) nr. 691/2010 van 29 juli 2012 tot vaststelling van een prestatieregeling voor luchtvaartnavigatiediensten en netwerkfuncties en tot wijziging van [Verordening (EG) nr. 2096/2005](32005R2096) tot vaststelling van gemeenschappelijk eisen voor de verlening van luchtvaartnavigatiediensten (PbEU L201).
+- *verordening inzake prestatiesturing:* verordening (EU) nr. 691/2010 van 29 juli 2012 tot vaststelling van een prestatieregeling voor luchtvaartnavigatiediensten en netwerkfuncties en tot wijziging van Verordening (EG) nr. 2096/2005 tot vaststelling van gemeenschappelijk eisen voor de verlening van luchtvaartnavigatiediensten (PbEU L201).
 
 #### § 2. Bestuur en raad van toezicht van de LVNL
 
@@ -82,7 +56,7 @@ De LVNL zendt jaarlijks voor 1 november de begroting voor het daaropvolgende jaa
 
 ##### Artikel 6. Controleprotocol
 
-1. Het controleprotocol is uitgewerkt in de bijlage bij deze regeling.
+1. Het controleprotocol is uitgewerkt in de [bijlage](https://wetten.overheid.nl/BWBR0032483) bij deze regeling.
 
 2. De minister informeert de LVNL over het voornemen een review van de accountantscontrole te laten uitvoeren door de accountantsdienst van het Rijk. Het besluit tot het uitvoeren van een review van de accountantscontrole wordt vergezeld van een toelichting waaruit de aanleiding blijkt, alsmede de procedure die zal worden gevolgd en de informatie die de LVNL ten behoeve van dit onderzoek beschikbaar dient te stellen.
 
@@ -92,7 +66,7 @@ De LVNL zendt jaarlijks voor 1 november de begroting voor het daaropvolgende jaa
 
 - b. de juiste en volledige hantering van de vastgestelde tarieven.
 
-##### Artikel 7. Invulling van [artikel 5.32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.32) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van artikel 5.32, derde lid, van de wet juncto artikel 32 van de Kaderwet
 
 1. De LVNL behoeft de voorafgaande instemming van de minister voor:
 
@@ -237,27 +211,3 @@ Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op de Lucht
 ##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2013.
-
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032483&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) van de Regeling sturing van en toezicht op de Luchtverkeersleiding Nederland
-
-### Controleprotocol
-
-De volgende elementen zijn aandachtspunten voor de accountantscontrole:
-
-### 1. Rechtmatigheid en getrouwheid
-
-### 2. Tarieven
-
-### 3. Niet-financiële informatie
-
-### 4. Specifieke vereisten
-
-### 5. In-control-statement
-
-Beoordeling van de consistentie en de controleerbaarheid van het totstandkomingsproces van het in de jaarverantwoording opgenomen in-control-statement, waaronder de verenigbaarheid daarvan met de jaarrekening én de uitkomsten van de controlewerkzaamheden op de jaarrekening. Het onderzoek naar de kwaliteit van de bedrijfsvoering is in ieder geval gericht op de kwaliteit en de veiligheid van de dienstverlening (Regeling Kwaliteits- en veiligheidszorg), het financieel beheer, de financiële informatie, de toepassing van het kostprijsmodel en de continuïteit en de beveiliging van de geautomatiseerde systemen. Hiervoor geldt als specifieke eis dat bij het onderzoek naar de kwaliteit en veiligheid van de dienstverlening vastgesteld dient te worden dat uit de intern uitgevoerde audits blijkt dat gehandeld is overeenkomstig het intern door het bestuur vastgestelde kwaliteits- en veiligheidssysteem en de op de LVNL van toepassing verklaarde ISO-normen en dat de opzet en programmering van deze audits voldoen aan algemeen aanvaarde principes ter zake. De externe accountant kan zich hierbij baseren op oordeelsvorming van ISO-deskundigen.
-
-### 6. Informatiebeveiliging
-
-Beoordeling van de wijze van toepassing van de in [artikel 41, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) bedoelde voorzieningen ter beveiliging van de gegevens van de LVNL.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

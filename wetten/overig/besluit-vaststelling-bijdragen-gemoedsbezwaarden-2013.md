@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Financiën van 28 november 2012, kenmerk: FM 2012/1764 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2013 (Vaststelling bedragen gemoedsbezwaarden 2013)"
+citeertitel: "Besluit vaststelling bijdragen gemoedsbezwaarden 2013"
 identifier: "BWBR0032344"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032344"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11930623"
-version_id: "19828192"
-internal_id: "C27851571"
-label_id: "11902514"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032344/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25128"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-28"
-intitule_published: "2012-12-06"
-intitule_in_force: "2012-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25128"
-original_signed_date: "2012-11-28"
-original_published_date: "2012-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25128"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032344&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032344&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling bijdragen gemoedsbezwaarden 2013"
-signed_date: "2012-11-28"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032344"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Minister van Financiën van 28 november 2012, kenmerk: FM 2012/1764 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2013 (Vaststelling bedragen gemoedsbezwaarden 2013)
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -56,5 +30,3 @@ Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een ver
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

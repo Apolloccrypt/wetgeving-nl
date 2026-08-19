@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0052900"
-opgehaald: 2026-08-18
+opgehaald: 2026-08-19
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 27 juni 2026, nr. WJZ/103641412, houdende nadere regels over cyberbeveiliging en de weerbaarheid van kritieke entiteiten in de energiesector (Regeling cyberbeveiliging en weerbaarheid kritieke entiteiten energiesector) [KetenID WGK 28195]

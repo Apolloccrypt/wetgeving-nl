@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)"
+citeertitel: "Beleidsregels artikel 5 Besluit Interoperabiliteit"
 identifier: "BWBR0033202"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-02-15"
-last_updated: "2013-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033202"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "12195893"
-version_id: "20406102"
-internal_id: "C28684801"
-label_id: "12167344"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033202/2013-02-15/0"
-intitule_bron: "Stcrt.2013-3705"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-07"
-intitule_published: "2013-02-14"
-intitule_in_force: "2013-02-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-3705"
-original_signed_date: "2013-02-07"
-original_published_date: "2013-02-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-3705"
-entry_into_force_date: "2013-02-15"
-jci_1_3: "jci1.3:c:BWBR0033202&z=2013-02-15&g=2013-02-15"
-jci_1_0: "1.0:c:BWBR0033202&g=2013-02-15"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels artikel 5 Besluit Interoperabiliteit"
-signed_date: "2013-02-07"
-entry_into_force: "2013-02-15"
+publicatiedatum: 2013-02-15
+laatste_update: 2013-02-15
+status: geldig
+toestand: 2013-02-15
+bron: "https://wetten.overheid.nl/BWBR0033202"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)
-
-Gelet op [artikel 6.5 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=6.5) en [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=1) en [5 van het Besluit Interoperabiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5).
-
-Besluit:
 
 #### afdeling Eerste. – Algemeen
 
@@ -46,29 +20,30 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder:
 
-- a. **het college:** het college van de Onafhankelijke Post en Telecommunicatieautoriteit;
+- a. *het college:* het college van de Onafhankelijke Post en Telecommunicatieautoriteit;
 
-- b. **artikel 5 BI:** [artikel 5 van het Besluit Interoperabiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5);
+- b. *artikel 5 BI:*
+ [artikel 5 van het Besluit Interoperabiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5);
 
-- c. **geografisch nummer:** een geografisch nummer als genoemd in [artikel 1, onderdeel d, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=1);
+- c. *geografisch nummer:* een geografisch nummer als genoemd in [artikel 1, onderdeel d, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=1);
 
-- d. **niet-geografisch nummer:** een nummer zoals genoemd in [artikel 5, lid 2, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5);
+- d. *niet-geografisch nummer:* een nummer zoals genoemd in [artikel 5, lid 2, van het BI](https://wetten.overheid.nl/jci1.3:c:BWBR0016700&artikel=5);
 
-- e. **tariefmodel:** de wijze waarop tarieven zijn gestructureerd en de wijze waarop betalingen tussen de verschillende partijen verlopen;
+- e. *tariefmodel:* de wijze waarop tarieven zijn gestructureerd en de wijze waarop betalingen tussen de verschillende partijen verlopen;
 
-- f. **informatiedienst:** een dienst, niet zijnde een elektronische communicatiedienst, die door een service provider wordt geleverd over een telecommunicatienetwerk;
+- f. *informatiedienst:* een dienst, niet zijnde een elektronische communicatiedienst, die door een service provider wordt geleverd over een telecommunicatienetwerk;
 
-- g. **extra kosten:** de extra kosten van aanbieders van elektronische communicatiediensten voor oproepen naar niet-geografische nummers ten opzichte van de kosten voor oproepen naar geografische nummers;
+- g. *extra kosten:* de extra kosten van aanbieders van elektronische communicatiediensten voor oproepen naar niet-geografische nummers ten opzichte van de kosten voor oproepen naar geografische nummers;
 
-- h. **geografisch tarief:** het retailtarief voor oproepen naar geografische nummers bepaald op het niveau van een individuele oproep;
+- h. *geografisch tarief:* het retailtarief voor oproepen naar geografische nummers bepaald op het niveau van een individuele oproep;
 
-- i. **aanbieder:** een aanbieder in de keten tussen de beller en de nummergebruiker die ook actief is als aanbieder die de toegang tot eindgebruikers controleert;
+- i. *aanbieder:* een aanbieder in de keten tussen de beller en de nummergebruiker die ook actief is als aanbieder die de toegang tot eindgebruikers controleert;
 
-- j. **originerende aanbieder:** de aanbieder van openbare telefoondiensten waar de oproepen origineren;
+- j. *originerende aanbieder:* de aanbieder van openbare telefoondiensten waar de oproepen origineren;
 
-- k. **service provider:** een aanbieder van een informatiedienst;
+- k. *service provider:* een aanbieder van een informatiedienst;
 
-- l. **SIM-only dienst:** een elektronische communicatiedienst die een mobiele originerende aanbieder levert aan eindgebruikers waarbij hij alleen een SIM-kaart verstrekt en geen mobiele telefoon.
+- l. *SIM-only dienst:* een elektronische communicatiedienst die een mobiele originerende aanbieder levert aan eindgebruikers waarbij hij alleen een SIM-kaart verstrekt en geen mobiele telefoon.
 
 #### afdeling Tweede. – Regels voor oproepen naar niet-geografische nummers
 

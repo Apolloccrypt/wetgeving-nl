@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 24 april 2013, houdende de instelling van een herinneringsmedaille ter gelegenheid van de inhuldiging van Onze zoon Willem-Alexander"
+citeertitel: "Instellingsbesluit herinneringsmedaille (inhuldiging Willem-Alexander)"
 identifier: "BWBR0033336"
-country: "nl"
-rank: "kb"
-publication_date: "2013-04-27"
-last_updated: "2013-04-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033336"
+categorie: "Overig"
 soort: "KB"
-stam_id: "12233343"
-version_id: "20459622"
-internal_id: "C28762481"
-label_id: "12204694"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033336/2013-04-27/0"
-intitule_bron: "Stb.2013-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-24"
-intitule_published: "2013-04-26"
-intitule_in_force: "2013-04-26"
-intitule_status: "goed"
-original_publication: "Stb.2013-163"
-original_signed_date: "2013-04-24"
-original_published_date: "2013-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-163"
-entry_into_force_date: "2013-04-27"
-jci_1_3: "jci1.3:c:BWBR0033336&z=2013-04-27&g=2013-04-27"
-jci_1_0: "1.0:c:BWBR0033336&g=2013-04-27"
-citeertitel_status: "redactioneel"
-short_title: "Instellingsbesluit herinneringsmedaille (inhuldiging Willem-Alexander)"
-signed_date: "2013-04-24"
-entry_into_force: "2013-04-27"
+publicatiedatum: 2013-04-27
+laatste_update: 2013-04-27
+status: geldig
+toestand: 2013-04-27
+bron: "https://wetten.overheid.nl/BWBR0033336"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 24 april 2013, houdende de instelling van een herinneringsmedaille ter gelegenheid van de inhuldiging van Onze zoon Willem-Alexander
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2013, BZK-2013-0000182885, Directoraat-generaal Bestuur en Koninkrijksrelaties, Directie Arbeidszaken Publieke Sector, Afdeling Politieke Ambtsdragers/Kabinet, gedaan in overeenstemming met het gevoelen van de ministerraad;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -63,5 +37,3 @@ Aan de begiftigde wordt een oorkonde uitgereikt, waaruit de toekenning van de he
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.

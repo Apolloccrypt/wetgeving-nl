@@ -1,38 +1,16 @@
 ---
 title: "Regeling bekendmaking boetetoemeting aangaande bepaalde mededingings- beperkende activiteiten in de installatie-deelsector"
 identifier: "BWBR0033026"
-country: "nl"
-rank: "zbo"
-publication_date: "2005-04-22"
-last_updated: "2005-04-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033026"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12139793"
-version_id: "20258002"
-internal_id: "C28493661"
-label_id: "12111414"
-dtd_version: "2.0"
-original_entry_into_force: "2005-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033026/2005-04-22/0"
-intitule_bron: "Stcrt.2005-78"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-21"
-intitule_published: "2005-04-22"
-intitule_in_force: "2005-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2005-78"
-original_signed_date: "2005-04-21"
-original_published_date: "2005-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2005-78-p34-SC69714"
-entry_into_force_date: "2005-04-22"
-jci_1_3: "jci1.3:c:BWBR0033026&z=2005-04-22&g=2005-04-22"
-jci_1_0: "1.0:c:BWBR0033026&g=2005-04-22"
-citeertitel_status: "redactioneel"
-signed_date: "2005-04-21"
-entry_into_force: "2005-04-22"
+publicatiedatum: 2005-04-22
+laatste_update: 2005-04-22
+status: geldig
+toestand: 2005-04-22
+bron: "https://wetten.overheid.nl/BWBR0033026"
+opgehaald: 2026-08-19
 ---
+
 # Regeling bekendmaking boetetoemeting aangaande bepaalde mededingings- beperkende activiteiten in de installatie-deelsector
 
 ### I. Inleiding en definities
@@ -43,25 +21,49 @@ entry_into_force: "2005-04-22"
 
 3. Zoals vermeld in de Bekendmaking boetetoemeting in de GWW-deelsector, onderzoekt de NMa verschillende deelsectoren van de bouwnijverheid. Vanwege de omvang van het gebleken kartelgedrag en de complexiteit van de onderzoeken in de deelsectoren alsmede de aard en samenhang binnen de deelsectoren, kan de NMa deze niet alle tegelijk afwikkelen. Afwikkeling vindt daarom per deelsector plaats. De NMa kan in één rapport meer overtredingen constateren. Tevens kan de d-g NMa in één besluit meer rapporten en meer overtredingen afdoen.
 
-4. In deze Bekendmaking wordt onder **Installatiewerken** verstaan werktuigbouwkundige, elektrotechnische en sprinklerinstallatiewerken, welke omvatten het ontwerpen, berekenen, leveren, aanbrengen, onderhouden en repareren van in ieder geval (centrale)verwarming, ventilatie, luchtbehandeling, koeling, olieopslagtanks, airconditioning, sanitair, lichten krachtstroom, noodstroom, hoogen middenspanning, (openbare) verlichting, zonne-energie, tele- en datacommunicatie, ICT solutions, telematica voorzieningen, beveiligingssystemen, parkeersystemen, gebouwautomatisering, procesbesturing, verkeerssystemen, verkeersregelinstallaties, signaalgevers, brandpreventie- en brandblusinstallaties, water- en zuiveringsinstallaties, drink- en afvalwaterinstallaties, gemalen en pompinstallaties (hierna: Installatiewerken).
+4. In deze Bekendmaking wordt onder *Installatiewerken* verstaan werktuigbouwkundige, elektrotechnische en sprinklerinstallatiewerken, welke omvatten het ontwerpen, berekenen, leveren, aanbrengen, onderhouden en repareren van in ieder geval (centrale)verwarming, ventilatie, luchtbehandeling, koeling, olieopslagtanks, airconditioning, sanitair, lichten krachtstroom, noodstroom, hoogen middenspanning, (openbare) verlichting, zonne-energie, tele- en datacommunicatie, ICT solutions, telematica voorzieningen, beveiligingssystemen, parkeersystemen, gebouwautomatisering, procesbesturing, verkeerssystemen, verkeersregelinstallaties, signaalgevers, brandpreventie- en brandblusinstallaties, water- en zuiveringsinstallaties, drink- en afvalwaterinstallaties, gemalen en pompinstallaties (hierna: Installatiewerken).
 
 5. Of een werk als Installatiewerk moet worden beschouwd, wordt bepaald op projectniveau. Indien een project meer omvattend is, dan wordt dit project als geheel als Installatiewerk beschouwd indien de Installatiewerk-activiteiten overheersend zijn. Dit betekent dat als de overige activiteiten een onderdeel vormen van en ondergeschikt zijn aan een project dat overwegend uit Installatiewerk-activiteiten bestaat en als zodanig is aanbesteed, dat project in het geheel als Installatiewerk wordt gekwalificeerd.
 
 6. Per onderneming baseert de d-g NMa de boete op de aanbestedingsomzet. De d-g NMa baseert de boete op de aanbestedingsomzet, aangezien deze direct verband houdt met de betrokken gedragingen. Tevens wordt de aanbestedingsomzet geacht de mate van betrokkenheid van ondernemingen bij de verboden mededingingsafspraken afdoende te reflecteren. De d-g NMa acht 2001 een representatief ijkjaar voor de overtredingen waarvan de boete op grond van deze Bekendmaking zal worden vastgesteld.
 
-7. Onder **Aanbestedingsomzet 2001** wordt verstaan de totale contractwaarde van alle opdrachten ter uitvoering van Installatiewerken in Nederland die de onderneming in 2001 in aanbesteding heeft verworven (hierna: Aanbestedingsomzet 2001). Onder Aanbestedingsomzet 2001 valt ook de waarde van opdrachten die de onderneming in aanbesteding heeft verworven in 2001 in combinatie met één of meer andere ondernemingen, naar rato van de deelname van de onderneming in de betreffende combinatie.
+7. Onder *Aanbestedingsomzet 2001* wordt verstaan de totale contractwaarde van alle opdrachten ter uitvoering van Installatiewerken in Nederland die de onderneming in 2001 in aanbesteding heeft verworven (hierna: Aanbestedingsomzet 2001). Onder Aanbestedingsomzet 2001 valt ook de waarde van opdrachten die de onderneming in aanbesteding heeft verworven in 2001 in combinatie met één of meer andere ondernemingen, naar rato van de deelname van de onderneming in de betreffende combinatie.
 
-8. Onder **Aanbesteding** wordt verstaan de, al dan niet gelijktijdige, uitnodiging van een opdrachtgever aan twee of meer ondernemingen om een offerte in te dienen voor een opdracht tot de uitvoering van een Installatiewerk (hierna: Aanbesteding). Een enkelvoudige (onderhandse) opdrachtverlening, waarvoor geen twee of meer offertes zijn aangevraagd, valt daarmee buiten het begrip Aanbesteding. De persoon of hoedanigheid van de opdrachtgever is in dit kader niet relevant. Opdrachten die in onderaanneming in aanbesteding zijn verkregen, vallen eveneens onder het begrip Aanbesteding.
+8. Onder *Aanbesteding* wordt verstaan de, al dan niet gelijktijdige, uitnodiging van een opdrachtgever aan twee of meer ondernemingen om een offerte in te dienen voor een opdracht tot de uitvoering van een Installatiewerk (hierna: Aanbesteding). Een enkelvoudige (onderhandse) opdrachtverlening, waarvoor geen twee of meer offertes zijn aangevraagd, valt daarmee buiten het begrip Aanbesteding. De persoon of hoedanigheid van de opdrachtgever is in dit kader niet relevant. Opdrachten die in onderaanneming in aanbesteding zijn verkregen, vallen eveneens onder het begrip Aanbesteding.
 
-9. Onder **Contractwaarde** wordt verstaan het bedrag waarvoor de gehele uitvoering van het werk door de opdrachtgever in 2001 is aanvaard, exclusief BTW, ten tijde van de opdrachtverwerving (datum gunning) (hierna: Contractwaarde).4Zoals bijvoorbeeld is vastgesteld in een contract of overeenkomst, in een (opdracht)brief van de opdrachtgever waarbij de opdracht aan de onderneming is gegund of bevestigd, of in een ondertekende offerte. Ook mondelinge afspraken tellen mee.In geval van zogeheten ‘regiewerk’5Regiewerk is werk waarvoor, in plaats van een vaste aanneemsom, is overeengekomen dat de definitieve prijs bestaat uit de daadwerkelijke besteding.geldt als contractwaarde het totaalbedrag dat op de (slot)factu(u)r(en) is vermeld (exclusief BTW), ook indien deze pas na 2001 is/zijn uitgebracht.
+9. Onder *Contractwaarde* wordt verstaan het bedrag waarvoor de gehele uitvoering van het werk door de opdrachtgever in 2001 is aanvaard, exclusief BTW, ten tijde van de opdrachtverwerving (datum gunning) (hierna: Contractwaarde).4Zoals bijvoorbeeld is vastgesteld in een contract of overeenkomst, in een (opdracht)brief van de opdrachtgever waarbij de opdracht aan de onderneming is gegund of bevestigd, of in een ondertekende offerte. Ook mondelinge afspraken tellen mee.In geval van zogeheten ‘regiewerk’5Regiewerk is werk waarvoor, in plaats van een vaste aanneemsom, is overeengekomen dat de definitieve prijs bestaat uit de daadwerkelijke besteding.geldt als contractwaarde het totaalbedrag dat op de (slot)factu(u)r(en) is vermeld (exclusief BTW), ook indien deze pas na 2001 is/zijn uitgebracht.
 
 ### II. Opgave Aanbestedingsomzet 2001
 
-10. De onderneming dient opgave te doen van de Aanbestedingsomzet 2001, waarbij de onderneming de keuze heeft tussen een **volledige opgave en een beperkte opgave met een forfaitaire verhoging van maximaal 15%**.
+10. De onderneming dient opgave te doen van de Aanbestedingsomzet 2001, waarbij de onderneming de keuze heeft tussen een *volledige opgave en een beperkte opgave met een forfaitaire verhoging van maximaal 15%*.
 
-11. Bij **volledige opgave** van de Aanbestedingsomzet 2001 geeft de onderneming de totale Contractwaarde op van alle opdrachten ter uitvoering van Installatiewerken in Nederland die de onderneming in 2001 in Aanbesteding heeft verworven. Volledige opgave dient te geschieden met behulp van een ondernemersverklaring (zie [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=I&z=2005-04-22&g=2005-04-22): model Verklaring opgave aanbestedingsomzet 2001), ondersteund door een rapport van feitelijke bevindingen opgesteld door een accountant (zie [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=II&z=2005-04-22&g=2005-04-22): model Rapport van feitelijke bevindingen).
+11. Bij *volledige opgave* van de Aanbestedingsomzet 2001 geeft de onderneming de totale Contractwaarde op van alle opdrachten ter uitvoering van Installatiewerken in Nederland die de onderneming in 2001 in Aanbesteding heeft verworven. Volledige opgave dient te geschieden met behulp van een ondernemersverklaring (zie [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=I&z=2005-04-22&g=2005-04-22): model Verklaring opgave aanbestedingsomzet 2001), ondersteund door een rapport van feitelijke bevindingen opgesteld door een accountant (zie [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=II&z=2005-04-22&g=2005-04-22): model Rapport van feitelijke bevindingen).
 
 12. Bij beperkte opgave van de Aanbestedingsomzet 2001 geeft de onderneming:
+
+- i. in geval van ondernemingen die in 2001 op grond van de Deelnemersovereenkomst waren aangesloten bij de Stichting Aanbestedingsvraagstukken Installatietechniek (hierna: Savi), een bij Savi op te vragen overzicht van afgemelde omzet 20016Zoals bedoeld in artikel 15 van de Deelnemersovereenkomst van Savi zoals in 2001 van kracht.uit meervoudige werken7Dit zijn werken waarop meerdere Savi-leden zich hebben ingeschreven dan wel een prijsaanbieding hebben gedaan., ondersteund door een ‘Rapport van bevindingen inzake afgemelde omzet 2001’ van Ernst & Young Accountants (de accountant van Savi), of;
+
+- ii. in de overige gevallen, een ondernemersverklaring (zie [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=I&z=2005-04-22&g=2005-04-22): model Verklaring opgave aanbestedingsomzet 2001), ondersteund door een rapport van feitelijke bevindingen opgesteld door een accountant (zie [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0033026&bijlage=II&z=2005-04-22&g=2005-04-22): model Rapport van feitelijke bevindingen), waarbij buiten beschouwing worden gelaten:
+
+   - 1. opdrachten met een Contractwaarde van minder dan NLG 50.000;
+
+   - 2. opdrachten waarvan de opdrachtgever een natuurlijk persoon is en die uitsluitend dienen ten behoeve van privé-doeleinden van de opdrachtgever en niet zijn bestemd voor het uitoefenen van bedrijf of beroep;
+
+   - 3. opdrachten betreffende:
+
+      - a. water-en zuiveringsinstallaties, drink- en afvalwaterinstallaties, gemalen en pompinstallaties;
+
+      - b. telematica- en beveiligingsinstallaties, ict-solutions en datacommunicatie, tenzij deze deel uitmaken van een totaalproject;
+
+      - c. woningbouw (waaronder begrepen sanitair), dat wil zeggen een ruimte voor (semi-)permanente bewoning waarbij geen gemeenschappelijke facilitaire voorzieningen zijn opgenomen;
+
+      - d. sanitair in overige gebouwen dan woningbouw, tenzij dit deel uitmaakt van een totaalproject;
+
+      - e. installaties in kassen en warenhuizen voor gewassen en in zeeschepen, binnenvaartuigen en off-shore;
+
+      - f. parkeer- en verkeerssystemen;
+
+      - g. olie-opslagtanks, tenzij deze deel uitmaken van een totaalproject.
 
 13. Indien een onderneming kiest voor een beperkte opgave, dan past de d-g NMa ter bepaling van de Aanbestedingsomzet 2001 van de desbetreffende onderneming een algemeen geldende forfaitaire verhoging toe van maximaal 15%. De d-g NMa is van oordeel dat met dit percentage het verschil tussen de Aanbestedingsomzet 2001 en de beperkte opgave wordt opgeheven. De d-g NMa verlaagt de hoogte van dit forfaitaire percentage uitsluitend indien onverkorte handhaving voor de branche als geheel evident onredelijk zal blijken te zijn.
 
@@ -83,22 +85,22 @@ entry_into_force: "2005-04-22"
 
 20. Gelet op de stand van het onderzoek en de informatie waarover de NMa reeds beschikte nadat het eerste clementieverzoek was ingediend, bedraagt met betrekking tot de overtreding als bedoeld in randnummer 17 het clementiepercentage voor ondernemingen die in aanmerking komen voor een clementietoezegging krachtens randnummer 7 van de [Richtsnoeren Clementietoezegging](https://wetten.overheid.nl/jci1.3:c:BWBR0033330) (Categorie C, boetevermindering 10% tot en met 50%) maximaal 40%. Meer in het bijzonder wordt voor de laatstbedoelde categorie ondernemingen het clementiepercentage als volgt bepaald:
 
+- (1) voor een toereikend gespecificeerde kennisgeving van een mededingingsbeperkende afspraak of gedraging wordt een boetevermindering toegekend van 16% van de boete als voortvloeiend uit randnummers 17 en 18 van deze Bekendmaking. Hiertoe dient een toereikende beschrijving te zijn gegeven van de soort opdrachten waarop de afspraak of gedraging betrekking had en het type afspraak of afstemmingen dat met betrekking tot dat soort opdrachten plaatsvond;
+
+- (2) voor het opgeven van andere ondernemingen die bij de gedraging(en) betrokken waren, wordt een boetevermindering toegekend van 8% van de boete als berekend volgens randnummers 17 en 18 van deze Bekendmaking;
+
+- (3) voor het opgeven van concrete werken (opdrachten) waarop de gedraging(en) betrekking had(den), wordt een boetevermindering toegekend van 8% van de boete zoals voortvloeiend uit randnummers 17 en 18 van deze Bekendmaking;
+
+- (4) voor het verlenen van verdergaande medewerking dan waartoe de onderneming wettelijk is gehouden, wordt een boetevermindering toegekend van 8% van de boete als berekend volgens randnummers 17 en 18 van deze Bekendmaking. Ook ondernemingen die zich beschikbaar hebben gehouden voor nadere medewerking komen voor deze categorie boetevermindering in aanmerking, ongeacht of de NMa daarvan gebruik heeft gemaakt.
+
 21. Indien sprake is van een gedraging die de onderzoeksactiviteiten van de NMa kan belemmeren, kan de d-g NMa ingevolge de [Richtsnoeren clementietoezegging](https://wetten.overheid.nl/jci1.3:c:BWBR0033330) besluiten dat dientengevolge aan de desbetreffende onderneming geen boetevermindering wordt toegezegd, dan wel dat dientengevolge de aan die onderneming toekomende boetevermindering wordt verlaagd. De d-g NMa beschouwt als een gedraging die onderzoeksactiviteiten van de NMa kan belemmeren in de zin van de Richtsnoeren onder meer het aan derden, anders dan bevoegde autoriteiten, openbaar maken van informatie met betrekking tot het clementieverzoek en de inhoud van de (voorwaardelijke) clementietoezegging.
 
 ### V. Vermindering van de boete overig
 
-22. De hoogte van de boete zoals voortvloeiend uit de randnummers 17 en 18 van deze Bekendmaking wordt met 15% verminderd voor een onderneming die heeft deelgenomen aan een door de d-g NMa voorgestelde versnelde procedure voor de afwikkeling van rapporten in de installatiedeelsector. In een voorkomend geval wordt dit percentage opgeteld bij de vermindering toegekend op basis van de [Richtsnoeren clementietoezegging](https://wetten.overheid.nl/jci1.3:c:BWBR0033330), zoals beschreven onder IV.
+22. De hoogte van de boete zoals voortvloeiend uit de randnummers 17 en 18 van deze Bekendmaking wordt met 15% verminderd voor een onderneming die heeft deelgenomen aan een door de d-g NMa voorgestelde versnelde procedure voor de afwikkeling van rapporten in de installatiedeelsector. In een voorkomend geval wordt dit percentage opgeteld bij de vermindering toegekend op basis van de [Richtsnoeren clementietoezegging](https://wetten.overheid.nl/jci1.3:c:BWBR0033330), zoals beschreven onder [IV](https://wetten.overheid.nl/BWBR0033026).
 
 23. Bij de vaststelling van de boete kan de d-g NMa tevens andere boeteverlagende omstandigheden in aanmerking nemen, waaronder de schadeloosstellingen van de ondernemingen aan degenen die schade hebben geleden. De d-g NMa bepaalt in redelijkheid de mate waarin de betrokken omstandigheid leidt tot een verlaging van de boete, waarbij mutatis mutandis aansluiting zal worden gezocht bij hetgeen in eerdere/andere besluiten van de d-g NMa is bepaald.
 
 ### VI. Vaststelling van de boete
 
 24. De d-g NMa stelt de boete vast volgens deze Bekendmaking en met inachtneming van de beginselen van behoorlijk bestuur. De d-g NMa kan van deze Bekendmaking afwijken indien onverkorte toepassing ervan tot evidente onbillijkheden leidt.
-
-## Bijlage I. Model Verklaring opgave aanbestedingsomzet 2001
-
-(wordt hier niet gepubliceerd)
-
-## Bijlage II. Model Rapport van feitelijke bevindingen
-
-(wordt hier niet gepubliceerd)

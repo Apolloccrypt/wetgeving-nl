@@ -1,70 +1,42 @@
 ---
 title: "Algemeen reglement Nederlands Letterenfonds"
 identifier: "BWBR0032735"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032735"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12039183"
-version_id: "20052052"
-internal_id: "C28175681"
-label_id: "12011064"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032735/2013-01-01/0"
-intitule_bron: "Stcrt.2013-683"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-01-15"
-intitule_in_force: "2013-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-683"
-original_published_date: "2013-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-683"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032735&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032735&g=2013-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032735"
+opgehaald: 2026-08-19
 ---
+
 # Algemeen reglement Nederlands Letterenfonds
-
-Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifieke cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Gelet op de statuten van de Stichting Nederlands Letterenfonds;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- 1. **aanvraag:** een aanvraag voor een subsidie;
+- 1. *aanvraag:* een aanvraag voor een subsidie;
 
-- 2. **bestuur:** het bestuur van het Letterenfonds;
+- 2. *bestuur:* het bestuur van het Letterenfonds;
 
-- 3. **deelregeling:** een op dit Algemeen reglement gebaseerde regeling waarin nadere regels worden gesteld over de aard, omvang en samenstelling van subsidies, alsmede over het aanvragen, beoordelen, verlenen en vaststellen van subsidies;
+- 3. *deelregeling:* een op dit Algemeen reglement gebaseerde regeling waarin nadere regels worden gesteld over de aard, omvang en samenstelling van subsidies, alsmede over het aanvragen, beoordelen, verlenen en vaststellen van subsidies;
 
-- 4. **het Letterenfonds:** de Stichting Nederlands Letterenfonds;
+- 4. *het Letterenfonds:* de Stichting Nederlands Letterenfonds;
 
-- 5. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- 5. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- 6. **project:** een activiteit met een incidenteel en in tijd beperkt karakter op het terrein van de literatuur;
+- 6. *project:* een activiteit met een incidenteel en in tijd beperkt karakter op het terrein van de literatuur;
 
-- 7. **raad van advies:** een raad als bedoeld in het Huishoudelijk reglement van het Letterenfonds;
+- 7. *raad van advies:* een raad als bedoeld in het Huishoudelijk reglement van het Letterenfonds;
 
-- 8. **subsidie:** een subsidie in de zin van [artikel 4:21, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) (hierna Awb);
+- 8. *subsidie:* een subsidie in de zin van [artikel 4:21, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) (hierna Awb);
 
-- 9. **uniform subsidiekader:** [Regeling vaststelling Aanwijzingen voor subsidieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0027023) van 15 december 2009;
+- 9. *uniform subsidiekader:*
+ [Regeling vaststelling Aanwijzingen voor subsidieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0027023) van 15 december 2009;
 
-- 10. **wet:** de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
+- 10. *wet:* de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -295,5 +267,3 @@ Het bestuur kan met inachtneming van deze regeling, buiten het toepassingsgebied
 6. In afwijking van het vorige lid blijft het Algemeen Reglement zoals vastgesteld op 23 november 2000 van toepassing ten aanzien van voor het tijdstip van inwerkingtreding van deze regeling tijdig ingestelde bezwaar- en beroepsschriften.
 
 7. Deze regeling wordt aangehaald als Algemeen reglement Nederlands Letterenfonds.
-
-Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Letterenfonds (www.letterenfonds.nl).

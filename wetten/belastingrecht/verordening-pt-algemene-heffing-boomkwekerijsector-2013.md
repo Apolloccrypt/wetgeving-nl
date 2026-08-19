@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de boomkwekerijsector voor het jaar 2013 (Verordening PT algemene heffing boomkwekerijsector 2013)"
+citeertitel: "Verordening PT algemene heffing boomkwekerijsector 2013"
 identifier: "BWBR0033108"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033108"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12168743"
-version_id: "20318952"
-internal_id: "C28583821"
-label_id: "12140334"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033108/2013-09-22/0"
-intitule_bron: "Vbbo.2013-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-03-29"
-intitule_in_force: "2013-03-29"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-15"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-03-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-03-31"
-jci_1_3: "jci1.3:c:BWBR0033108&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033108&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing boomkwekerijsector 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-03-31"
+publicatiedatum: 2013-03-31
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033108"
+opgehaald: 2026-08-19
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de boomkwekerijsector voor het jaar 2013 (Verordening PT algemene heffing boomkwekerijsector 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor boomkwekerijproducten d.d. 14 december 2012;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

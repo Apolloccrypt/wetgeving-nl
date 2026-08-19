@@ -1,50 +1,45 @@
 ---
-title: "Besluit handhaving en overige zaken Wet dieren"
+title: "Besluit van 2 november 2012, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Besluit handhaving en overige zaken Wet dieren)"
+citeertitel: "Besluit handhaving en overige zaken Wet dieren"
 identifier: "BWBR0032334"
 categorie: "Overig"
-publicatiedatum: 2023-10-07
-laatste_update: 2023-10-07
+soort: "AMvB"
+publicatiedatum: 2013-01-01
+laatste_update: 2026-07-07
 status: geldig
+toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0032334"
+opgehaald: 2026-08-19
 ---
 
 # Besluit van 2 november 2012, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Besluit handhaving en overige zaken Wet dieren)
 
-Op de voordracht van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 12 juli 2012 , nr. 283318, Directie Wetgeving en Juridische Zaken;
-
-Gelet op de [artikelen 7.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.8) en [10.8 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.8) en [artikel 1:1, zesde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 7 september 2012, nr. W15.12.0296/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 31 oktober 2012, nr. WJZ / 12339223, Directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepaling
+##### Artikel 1.1. Begripsbepaling
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Raad:** Raad voor dierenaangelegenheden, bedoeld in [artikel 10.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.8);
+- – *Raad:* Raad voor dierenaangelegenheden, bedoeld in [artikel 10.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.8);
 
-- –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
+- – *wet:*
+ [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
 
-- –. **verordening (EU) nr. 2017/625:** verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (Pb EU 2017 L 95);
+- – *verordening (EU) nr. 2017/625:* verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (Pb EU 2017 L 95);
 
-- –. **verordening (EU) nr. 2016/429:** verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84).
+- – *verordening (EU) nr. 2016/429:* verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84).
 
 ### Hoofdstuk 2. De bestuurlijke boete
 
-#### Artikel 2.1. Begripsbepalingen
+##### Artikel 2.1. Begripsbepalingen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **overtreder:** overtreder als bedoeld in [artikel 8.6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.6);
+- – *overtreder:* overtreder als bedoeld in [artikel 8.6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.6);
 
-- –. **overtreding:** overtreding als bedoeld in [artikel 8.6, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.6).
+- – *overtreding:* overtreding als bedoeld in [artikel 8.6, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.6).
 
-#### Artikel 2.2. Boetecategorieën
+##### Artikel 2.2. Boetecategorieën
 
 1. De hoogte van de bestuurlijke boete die Onze Minister aan een overtreder voor een overtreding kan opleggen wordt overeenkomstig de volgende boetecategorieën vastgesteld:
 
@@ -64,21 +59,21 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 4. In de regeling, bedoeld in het derde lid, kan worden bepaald dat de hoogte van de bestuurlijke boete voor een overtreding wordt vastgesteld op het bedrag behorende bij de naasthogere boetecategorie ten opzichte van de categorie, bedoeld in het derde lid, indien bij de betreffende gedraging een in die regeling vastgesteld percentage dieren van het totaal aantal betrokken dieren was betrokken op een in die regeling aangewezen wijze.
 
-#### Artikel 2.3. Gevolgen volksgezondheid, diergezondheid en dierenwelzijn
+##### Artikel 2.3. Gevolgen volksgezondheid, diergezondheid en dierenwelzijn
 
 Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu:
 
-- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), gehalveerd;
+- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2026-07-07&g=2026-07-07), gehalveerd;
 
-- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), verdubbeld.
+- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2026-07-07&g=2026-07-07), verdubbeld.
 
-#### Artikel 2.4. Overtreding door particulier
+##### Artikel 2.4. Overtreding door particulier
 
-Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2023-10-07&g=2023-10-07) op te leggen boetebedrag gehalveerd.
+Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2026-07-07&g=2026-07-07) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2026-07-07&g=2026-07-07) op te leggen boetebedrag gehalveerd.
 
-#### Artikel 2.5. Recidive
+##### Artikel 2.5. Recidive
 
-1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2023-10-07&g=2023-10-07) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2023-10-07&g=2023-10-07) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
+1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2026-07-07&g=2026-07-07), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2026-07-07&g=2026-07-07) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2026-07-07&g=2026-07-07) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
 
 2. Bij ministeriële regeling kunnen overtredingen worden aangewezen die soortgelijk zijn aan daarbij aangewezen andere overtredingen.
 
@@ -86,7 +81,7 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 ### Hoofdstuk 3. Raad voor dierenaangelegenheden
 
-#### Artikel 3.1. Leden RDA
+##### Artikel 3.1. Leden RDA
 
 1. De Raad bestaat uit een voorzitter en ten hoogste 49 andere leden.
 
@@ -94,7 +89,7 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 3. De leden worden benoemd voor een periode van vier jaar.
 
-4. Na afloop van de benoemingsperiode, bedoeld in het tweede lid, kunnen de leden eenmaal worden herbenoemd voor de in dat lid bedoelde termijn.
+4. Na afloop van de benoemingsperiode, bedoeld in het derde lid, kunnen de leden eenmaal worden herbenoemd voor de in dat lid bedoelde termijn.
 
 5. De leden kunnen door Onze Minister:
 
@@ -102,7 +97,7 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 - b. in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, om zwaarwegende reden worden geschorst en ontslagen.
 
-#### Artikel 3.2. Secretaris en adjunct-secretaris
+##### Artikel 3.2. Secretaris en adjunct-secretaris
 
 1. Onze Minister benoemt de secretaris en de adjunct-secretaris van de Raad.
 
@@ -110,7 +105,7 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 3. Voor de uitoefening van hun taak zijn de secretaris en de adjunct-secretaris uitsluitend verantwoording schuldig aan de Raad.
 
-#### Artikel 3.3. Raadsvergaderingen
+##### Artikel 3.3. Raadsvergaderingen
 
 1. De voorzitter roept de Raad bijeen:
 
@@ -120,7 +115,7 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 2. Na een verzoek als bedoeld in het eerste lid, onderdeel b, roept de voorzitter de Raad bijeen binnen één maand nadat het verzoek door de voorzitter is ontvangen.
 
-#### Artikel 3.4. Werkwijze
+##### Artikel 3.4. Werkwijze
 
 1. De Raad voert op verzoek van Onze Minister of uit eigen beweging overleg over de in [artikel 10.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.8) bedoelde vraagstukken.
 
@@ -130,103 +125,63 @@ Indien een overtreding is begaan anders dan in de uitoefening van een beroep of 
 
 4. Het verslag wordt ter kennis gebracht van Onze Minister. Indien het verslag mede het belang van de volksgezondheid raakt, wordt dit ook ter kennis gebracht aan Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 3.5. Reglement van werkwijze
+##### Artikel 3.5. Reglement van werkwijze
 
 1. De Raad stelt zijn werkwijze nader vast in een reglement.
 
 2. Het reglement, bedoeld in het eerste lid, wordt na vaststelling toegezonden aan Onze Minister.
 
-#### Artikel 3.6. Begroting
+##### Artikel 3.6. Begroting
 
 De Raad stelt jaarlijks voor zijn werkzaamheden in het komende begrotingsjaar een ontwerpbegroting op en legt deze voor 1 april voor aan Onze Minister.
 
-#### Artikel 3.7. Verslag
+##### Artikel 3.7. Verslag
 
 De Raad doet jaarlijks voor 1 april schriftelijk verslag van zijn werkzaamheden aan Onze Minister.
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 4.1. Evaluatie bestuurlijke boete
+##### Artikel 4.1. Evaluatie bestuurlijke boete
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2023-10-07&g=2023-10-07) in de praktijk.
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2026-07-07&g=2026-07-07) in de praktijk.
 
-#### Artikel 4.2. Evaluatie Raad voor dierenaangelegenheden
+##### Artikel 4.2. Evaluatie Raad voor dierenaangelegenheden
 
 De Raad brengt iedere zes jaren een rapport uit aan Onze Minister waarin de taakvervulling van de Raad aan een onderzoek wordt onderworpen.
 
-#### Artikel 4.3. Overgangsrecht bestuurlijke boete
+##### Artikel 4.3. Overgangsrecht bestuurlijke boete
 
 Indien een overtreding is begaan voor het tijdstip van inwerkingtreding van dit besluit en als gevolg van die inwerkingtreding, in samenhang met de op dit besluit gebaseerde regels, een andere bestuurlijke boete kan worden opgelegd dan de bestuurlijke boete die voor die overtreding kon worden opgelegd op grond van de voor dat tijdstip geldende regels, worden de voor de overtreder gunstigste bepalingen toegepast.
 
-#### Artikel 4.4. Intrekken beoordeling gids voor goede praktijken
+##### Artikel 4.4. Intrekken beoordeling gids voor goede praktijken
 
 Bij ministeriële regeling kunnen regels worden gesteld over de intrekking van een beoordeling van een nationale gids voor goede praktijken als bedoeld in [artikel 8.44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.44).
 
-### Hoofdstuk 5. Aanpassing andere regelgeving
-
-#### Artikel 5.1. Wijziging [bijlage Algemene douanewet](onbekend)
-
-Wijzigt de Algemene douanewet.
-
-#### Artikel 5.2
-
-Wijzigt het Besluit inbeslaggenomen voorwerpen.
-
-#### Artikel 5.3
-
-Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten.
-
-#### Artikel 5.4
-
-Wijzigt het Uitvoeringsbesluit Meststoffenwet.
-
-#### Artikel 5.5
-
-Wijzigt het Opiumwetbesluit.
-
-### Hoofdstuk 6. Slotbepalingen
-
-#### Artikel 6.1. Inwerkingtreding
-
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-#### Artikel 6.2. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit handhaving en overige zaken Wet dieren.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 4.5. (tweede analyse)
+##### Artikel 4.5. (tweede analyse)
 
 Onze Minister is bevoegd besluiten te nemen als bedoeld in artikel 35, derde lid, van verordening (EU) 2017/625.
 
-#### Artikel 4.6. (coördinerende instantie artikel 4, tweede lid, onder b, verordening (EU) nr. 2017/625)
+##### Artikel 4.6. (coördinerende instantie artikel 4, tweede lid, onder b, verordening (EU) nr. 2017/625)
 
 Onze Minister is de coördinerende instantie, bedoeld in artikel 4, tweede lid, onder b, verordening (EU) 2017/625.
 
-#### Artikel 4.7. (overgangsrecht bestuurlijke maatregel verordening (EU) nr. 882/2004)
+##### Artikel 4.7. (overgangsrecht bestuurlijke maatregel verordening (EU) nr. 882/2004)
 
-Op een besluit dat vanwege een geconstateerde niet-naleving is genomen en dat is gebaseerd of mede gebaseerd op artikel 19, eerste lid, of artikel 54, eerste en tweede lid, van verordening (EU) nr. 882/2004 van het Europees Parlement en de Raad van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU 2004, L 165), dat is genomen voor 14 december 2019 en waartegen bezwaar is gemaakt, of beroep is ingesteld, wordt besloten met toepassing van die verordening zoals die luidde voor 14 december 2019.
+Op een besluit dat vanwege een geconstateerde niet-naleving is genomen en dat is gebaseerd of mede gebaseerd op artikel 19, eerste lid, of artikel 54, eerste en tweede lid, van verordening (EU) nr. 882/2004 van het Europees Parlement en de Raad van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU 2004, L 165), dat is genomen voor 14 december 2019 en waartegen bezwaar is gemaakt, of beroep is ingesteld, wordt besloten met toepassing van die verordening zoals die luidde voor 14 december 2019.
 
-### Hoofdstuk 5. Aanpassing andere regelgeving
+##### Artikel 4.8. Besluiten ter uitvoering van verordening (EU) nr. 2016/429 en verordening (EU) nr. 2017/625
 
-### Hoofdstuk 6. Slotbepalingen
+Onze Minister is bevoegd besluiten te nemen ter uitvoering van aan een lidstaat gerichte bindende en niet-bindende onderdelen van verordening (EU) nr. 2016/429 of verordening (EU) nr. 2017/625 of op één van die verordening gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die bindende en niet-bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.15, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22), [3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.2), 4.8, vierde lid, [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 4.9. Algemene regels ter uitvoering van verordening (EU) nr. 2016/429 en verordening (EU) nr. 2017/625
 
-#### Artikel 4.8. Besluiten ter uitvoering van verordening (EU) nr. 2016/429 en verordening (EU) nr. 2017/625
+Bij ministeriële regeling kunnen regels worden gesteld voor de uitvoering van niet-bindende onderdelen van een op verordening (EU) nr. 2016/429 of op verordening (EU) nr. 2017/625 gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die niet-bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.15, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22), [3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.2), 4.8, vierde lid, [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
 
-Onze Minister is bevoegd besluiten te nemen ter uitvoering van aan een lidstaat gerichte bindende en niet-bindende onderdelen van verordening (EU) nr. 2016/429 of verordening (EU) nr. 2017/625 of op één van die verordening gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die bindende en niet-bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.15, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22), [3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.2), 4.8, vierde lid, [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
-
-#### Artikel 4.9. Algemene regels ter uitvoering van verordening (EU) nr. 2016/429 en verordening (EU) nr. 2017/625
-
-Bij ministeriële regeling kunnen regels worden gesteld voor de uitvoering van niet-bindende onderdelen van een op verordening (EU) nr. 2016/429 of op verordening (EU) nr. 2017/625 gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die niet-bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.15, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22), [3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.2), [4.8, vierde lid](onbekend), [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
-
-#### Artikel 4.10. Inrichtingen en wijze van onderzoek
+##### Artikel 4.10. Inrichtingen en wijze van onderzoek
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over laboratoria waar en de wijze waarop laboratoriumanalyses, -tests, en -diagnoses plaatsvinden ten behoeve van:
 
-- a. officiële controles of andere officiële activiteiten als bedoeld in artikel 2 van verordening (EU) nr. 2017/625;
+- a. officiële controles of andere officiële activiteiten als bedoeld in artikel 2 van verordening (EU) nr. 2017/625;
 
 - b. de afgifte van certificaten voor het buiten Nederland brengen van dieren of dierlijke producten;
 
@@ -248,26 +203,42 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de uitvoering van n
 
 5. Bij ministeriële regeling worden regels gesteld over de gevallen waarin een erkenning wordt geschorst of ingetrokken.
 
-#### Artikel 4.11. Besluiten ter uitvoering van verordening (EU) nr. 2019/4 en verordening (EU) nr. 2019/6
+##### Artikel 4.11. Besluiten ter uitvoering van verordening (EU) nr. 2019/4 en verordening (EU) nr. 2019/6
 
-Onze Minister is bevoegd besluiten te nemen ter uitvoering van aan een lidstaat gerichte bindende onderdelen van verordening (EU) nr. 2019/4 of verordening (EU) nr. 2019/6 of een op die verordeningen gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
+Onze Minister is bevoegd besluiten te nemen ter uitvoering van aan een lidstaat gerichte bindende onderdelen van verordening (EU) nr. 2019/4 of verordening (EU) nr. 2019/6 of een op die verordeningen gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
 
-### Hoofdstuk 5. Aanpassing andere regelgeving
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 4.11. Schorsing en intrekking besluiten
+##### Artikel 4.12. Schorsing en intrekking besluiten
 
 Indien bij ministeriële regeling onder toepassing van [artikel 7.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1) is bepaald dat een besluit tot verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring, vrijstelling, ontheffing, algemeen verbindend verklaring of certificering is vereist, kunnen bij die ministeriële regeling regels worden gesteld over de gevallen waarin een besluit als bedoeld in die regeling wordt geschorst of ingetrokken.
 
 ### Hoofdstuk 5. Aanpassing andere regelgeving
 
+##### Artikel 5.1. Wijziging bijlage Algemene douanewet
+
+*Wijzigt de Algemene douanewet.*
+
+##### Artikel 5.2
+
+*Wijzigt het Besluit inbeslaggenomen voorwerpen.*
+
+##### Artikel 5.3
+
+*Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten.*
+
+##### Artikel 5.4
+
+*Wijzigt het Uitvoeringsbesluit Meststoffenwet.*
+
+##### Artikel 5.5
+
+*Wijzigt het Opiumwetbesluit.*
+
 ### Hoofdstuk 6. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 6.1. Inwerkingtreding
 
-#### Artikel 4.12. Schorsing en intrekking besluiten
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-Indien bij ministeriële regeling onder toepassing van [artikel 7.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1) is bepaald dat een besluit tot verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring, vrijstelling, ontheffing, algemeen verbindend verklaring of certificering is vereist, kunnen bij die ministeriële regeling regels worden gesteld over de gevallen waarin een besluit als bedoeld in die regeling wordt geschorst of ingetrokken.
+##### Artikel 6.2. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit handhaving en overige zaken Wet dieren.

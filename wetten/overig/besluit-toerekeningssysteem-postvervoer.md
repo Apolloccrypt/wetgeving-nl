@@ -1,38 +1,16 @@
 ---
 title: "Besluit toerekeningssysteem postvervoer"
 identifier: "BWBR0033380"
-country: "nl"
-rank: "zbo"
-publication_date: "2001-02-09"
-last_updated: "2001-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033380"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12246263"
-version_id: "20490352"
-internal_id: "C28820441"
-label_id: "12217654"
-dtd_version: "2.0"
-original_entry_into_force: "2001-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033380/2001-02-09/0"
-intitule_bron: "Stcrt.2001-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-21"
-intitule_published: "2001-01-04"
-intitule_in_force: "2001-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2001-3"
-original_signed_date: "2000-12-21"
-original_published_date: "2001-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2001-3-p15-SC27246"
-entry_into_force_date: "2001-01-04"
-jci_1_3: "jci1.3:c:BWBR0033380&z=2001-02-09&g=2001-02-09"
-jci_1_0: "1.0:c:BWBR0033380&g=2001-02-09"
-citeertitel_status: "redactioneel"
-signed_date: "2000-12-21"
-entry_into_force: "2001-01-04"
+publicatiedatum: 2001-01-04
+laatste_update: 2001-02-09
+status: geldig
+toestand: 2001-02-09
+bron: "https://wetten.overheid.nl/BWBR0033380"
+opgehaald: 2026-08-19
 ---
+
 # Besluit toerekeningssysteem postvervoer
 
 ### 1. Inleiding
@@ -43,21 +21,31 @@ entry_into_force: "2001-01-04"
 
 3. Overeenkomstig [onderdeel 6.5 van paragraaf 6 van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=6), zoals dat heeft gegolden tot 1 juni 2000, heeft Koninklijke PTT Nederland N.V., de toenmalige houder van de postconcessie, een toerekeningssysteem vastgesteld ten behoeve van de door [onderdeel 6.4 van het oude Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=6) vereiste gescheiden financiële verantwoording. Met het besluit van 27 november 19963Instemming met het door KPN vastgestelde toerekeningssysteem voor kosten en opbrengsten, Staatscourant 1996, nr. 238.heeft de Minister van Verkeer en Waterstaat, als rechtsvoorganger van het college, ingestemd met dit toerekeningssysteem. De instemming gold voor een periode van drie jaar, ingaande boekjaar 1996. De instemming met het toerekeningssysteem is door het college op 28 juni 1999 bij wijze van automatisme verlengd tot het moment dat overeenkomstig de gewijzigde postregelgeving een nieuw toerekeningssysteem in werking treedt. Er bestond op het moment van de verlenging van de instemming geen aanleiding om de bepalingen in het toerekeningssysteem aan te passen.
 
-4. De opbouw van het onderhavige besluit is als volgt. In hoofdstuk 2 wordt het wettelijk kader geschetst dat als basis dient voor de beoordeling van het toerekeningssysteem. Hoofdstuk 3 geeft een beschrijving op hoofdlijnen van het door TPG vastgestelde toerekeningssysteem. In hoofdstuk 4 wordt de wijze waarop de toetsing van het toerekeningssysteem heeft plaatsgevonden beschreven. Hoofdstuk 5, tenslotte, bevat het dictum van het besluit.
+4. De opbouw van het onderhavige besluit is als volgt. In [hoofdstuk 2](https://wetten.overheid.nl/BWBR0033380) wordt het wettelijk kader geschetst dat als basis dient voor de beoordeling van het toerekeningssysteem. [Hoofdstuk 3](https://wetten.overheid.nl/BWBR0033380) geeft een beschrijving op hoofdlijnen van het door TPG vastgestelde toerekeningssysteem. In [hoofdstuk 4](https://wetten.overheid.nl/BWBR0033380) wordt de wijze waarop de toetsing van het toerekeningssysteem heeft plaatsgevonden beschreven. [Hoofdstuk 5](https://wetten.overheid.nl/BWBR0033380), tenslotte, bevat het dictum van het besluit.
 
 ### 2. Wettelijk kader
 
-**Europese regelgeving**
+*Europese regelgeving*
 
 5. De Postrichtlijn geeft gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Europese Gemeenschap en de verbetering van de kwaliteit van de dienst. De uit deze richtlijn voortvloeiende rechten en verplichtingen zijn geïmplementeerd in de op 1 juni 2000 in werking getreden [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423), [Postbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011334) en [Besluit algemene richtlijnen post](https://wetten.overheid.nl/jci1.3:c:BWBR0004452).
 
 6. Artikel 14 van de Postrichtlijn geeft regels voor de leverancier van de universele dienst met betrekking tot de financiële administratie. De regels worden in de leden 2 en 3 van artikel 14 specifiek ingevuld. In artikel 14, lid 2 van de Postrichtlijn is bepaald dat de leverancier van de universele dienst in zijn ‘interne boekhouding’ afzonderlijke rekeningen dient bij te houden voor alle diensten die tot de voorbehouden sector behoren enerzijds en alle diensten die tot de niet-voorbehouden sector behoren anderzijds. In de rekeningen voor de niet-voorbehouden diensten moet een duidelijk onderscheid worden gemaakt tussen de diensten die onder de universele dienst vallen (de overig opgedragen diensten) en de diensten die er niet onder vallen (de vrije dienstverlening). De interne boekhoudingen moeten steunen op consequent toegepaste en objectief gerechtvaardigde normen van bedrijfsadministratie. In artikel 14, lid 3 van de Postrichtlijn zijn regels opgenomen voor de wijze waarop kosten dienen te worden toegerekend aan de voorbehouden en de niet-voorbehouden diensten. Deze regels zijn als volgt:
 
+- a) kosten die rechtstreeks kunnen worden toegerekend aan een bepaalde dienst worden aldus toegerekend;
+
+- b) gemeenschappelijke kosten, d.w.z. kosten die niet rechtstreeks kunnen worden toegerekend aan een bepaalde dienst, worden als volgt toegerekend:
+
+   - i) indien mogelijk worden gemeenschappelijke kosten toegerekend op basis van een rechtstreekse analyse van de herkomst van kosten;
+
+   - ii) indien rechtstreekse analyse niet mogelijk is, worden de gemeenschappelijke kostencategorieën toegerekend op basis van een onrechtstreekse binding met een andere kostencategorie of groep van kostencategorieën waarvoor een rechtstreekse toerekening mogelijk is; de onrechtstreekse binding wordt gebaseerd op vergelijkbare kostenstructuren;
+
+   - iii) indien rechtstreekse noch onrechtstreekse kostentoerekening mogelijk is, moet de kostencategorie worden toegerekend op basis van een algemene kostenverdeling die wordt berekend op grond van de verhouding tussen alle uitgaven die rechtstreeks of onrechtstreeks worden toegerekend aan de andere diensten anderzijds.
+
 7. Het is de leverancier van de universele dienst, op grond van het vierde lid van artikel 14 van de Postrichtlijn, toegestaan een systeem van bedrijfsadministratie toe te passen dat afwijkt van de in artikel 14, lid 3 van de Postrichtlijn opgestelde regels. In dat geval moeten ze wel in overeenstemming zijn met het tweede lid van artikel 14 (zie punt 6, hiervoor), en goedgekeurd door de nationale regelgevende instantie. De Europese Commissie moet vóór de toepassing ervan worden ingelicht.
 
 8. In de ‘Mededeling van de Commissie over de toepassing van de mededingingsregels op de postsector en over de beoordeling van bepaalde overheidsmaatregelen met betrekking tot postdiensten’ (98/C 39/02) worden in paragraaf 3.4 bepaalde eisen gesteld ter zake van de vaststelling van prijzen. Deze eisen gelden voor exploitanten die naast voorbehouden diensten, vrije diensten leveren. De prijs van de vrije dienstverlening moet tenminste gelijk zijn aan de gemiddelde kosten voor het verrichten ervan. Dit betekent dat de directe kosten gedekt moeten zijn, plus een passend deel van de gemeenschappelijke en de overheadkosten van de exploitant. Dit is een nadere uitwerking van het integraliteitsbeginsel.
 
-**Nationale regelgeving**
+*Nationale regelgeving*
 
 9. Op 1 juni 2000 zijn de [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423)4Besluit van 15 mei 2000, Stb. 201., het [Postbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011334)5Besluit van 28 april 2000, Stb. 200. en het [Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452)6Besluit van 25 mei 2000, Stcrt. 101. in werking getreden. De aanpassing van deze wettelijke voorschriften was nodig ter implementatie van de Postrichtlijn. In [onderdeel 6.2 van paragraaf 6 van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=6) is voor TPG de verplichting opgenomen tot het opstellen van een financiële verantwoording, die is uitgesplitst over: (a) activiteiten van voorbehouden postvervoer bedoeld in [artikel 2a van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=2a), en (b) overige activiteiten van postvervoer, en die is gescheiden van de andere activiteiten van de houder van de postconcessie. Onderdeel 6.3, sub a van paragraaf 6 van het Barp verplicht TPG tot de vaststelling van een toerekeningssysteem dat moet worden gebruikt bij de, op grond van onderdeel 6.2 van het Barp, op te stellen financiële verantwoording. Dit toerekeningssysteem dient te voldoen aan artikel 14, derde lid van de Postrichtlijn en moet in overeenstemming daarmee, beantwoorden aan de beginselen van marktconformiteit, proportionaliteit en integraliteit (onderdeel 6.3 van het Barp). Deze beginselen voor het toerekeningssysteem zijn, blijkens de toelichting op onderdeel 6.3 van het Barp, opgenomen ter uitvoering van de aanbeveling inzake het toerekeningssysteem in het rapport ‘Markt en Overheid-Toets op postmarkt’7Markt en Overheid-Toets op postmarkt, Eindrapportage, Utrecht maart 1999, Werkgroep Markt en Overheidstoets Postmarkt.
 
@@ -76,6 +64,12 @@ entry_into_force: "2001-01-04"
 15. De verantwoording van de opbrengsten is gebaseerd op de categorie waar een dienst op basis van het [Postbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011334) thuishoort. Het [Postbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011334), in combinatie met de [Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423), is bepalend voor de inhoud van het opgedragen en voorbehouden postvervoer. Bij transacties worden zowel de externe omzet als de interne omzet geboekt op basis van het marktconformiteitsbeginsel. Verantwoording naar elk van de drie wettelijke categorieën (voorbehouden postvervoer, overig opgedragen postvervoer en andere diensten) vindt volgens TPG op een administratief controleerbare wijze plaats.
 
 16. Het toerekeningssysteem bevat ook regels voor fusies en overnames. Belangrijk hierbij is dat voor elke fusie of overname een dossier wordt gevormd. Dit dossier, dat aan de Raad van Bestuur en de Raad van Commissarissen wordt voorgelegd, bevat tenminste de volgende drie onderdelen:
+
+- – een beschrijving van de business case;
+
+- – een financiële meerjarenprojectie;
+
+- – een berekening van de netto contante waarde.
 
 Fusies en overnames dienen te voldoen aan vooraf gestelde eisen. De door het college aangewezen accountant ziet erop toe dat de dossiers beschikbaar zijn en dat er wordt gehandeld overeenkomstig de vooraf gestelde eisen.
 
@@ -117,4 +111,28 @@ Fusies en overnames dienen te voldoen aan vooraf gestelde eisen. De door het col
 
 Met betrekking tot het toerekeningssysteem geeft het college de volgende voorschriften:
 
+- 1. Het college zal jaarlijks, door middel van geselecteerde gevallen (deelwaarnemingen genoemd), de werking en toepassing van het toerekeningssysteem beoordelen.
+
+- 2. Het college zal de werkzaamheden van de door het college aangewezen accountant door middel van een ‘peer review’ laten beoordelen door een tweede accountant, indien de door het college aangewezen accountant tevens werkzaamheden verricht voor de TPG-groep.
+
+- 3. TPG moet jaarlijks het rendement dat behaald is uit de opdracht rapporteren. Als kengetal moet het rendement waarbij het resultaat wordt gerelateerd aan de opbrengsten worden gehanteerd. Daarnaast moet informatie worden verstrekt over het resultaat behaald uit het voorbehouden postvervoer en het overig opgedragen postvervoer, waarbij het resultaat moet worden gerelateerd aan het in het voorbehouden postvervoer en het overig opgedragen postvervoer werkzame vermogen. De verplichting tot het rapporteren van het rendement is reeds in [onderdeel 7.3 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=7) opgenomen.
+
+- 4. TPG moet binnen twee maanden na de datum van het goedkeuringsbesluit de onderstaande wijzigingen doorvoeren in de beschrijving van het toerekeningssysteem:
+
+   - a. Indien TPG bedrijfsmiddelen die gemeenschappelijk worden gebruikt volledig toerekent aan de opgedragen dienstverlening, moet in de toerekening van kosten aan de vrije dienstverlening ook een marktconform percentage worden opgenomen als winstopslag als vergoeding van de vermogenskosten van het eigen vermogen.
+
+   - b. In de beschrijving van het toerekeningssysteem moet een overzicht worden opgenomen van productiefactoren die primair worden toegerekend aan de opgedragen dienstverlening.
+
+   - c. TPG moet bij de invulling van het principe van de ABC-methode aangeven welke kostendrijvers worden gebruikt en hoe de kostenverdeelsleutels, die voor de toerekening aan de voorbehouden, overige opgedragen diensten en vrije diensten van belang zijn, worden bepaald.
+
+   - d. TPG moet een systeem ontwikkelen voor de statistische meting van de poststromen ter onderscheiding van voorbehouden, overig opgedragen en vrije diensten.
+
+   - e. Indien er sprake is van een sfeerovergang geldt, indien de activiteit binnen vijf jaren na de overgang wordt vervreemd, dat de resterende boekwaarde van de bij overgang bepaalde goodwill ten gunste van de opgedragen activiteiten moet worden gebracht.
+
+- 5. Binnen twee maanden na de datum van het goedkeuringsbesluit dient TPG een vertrouwelijke en een openbare versie van de beschrijving van het toerekeningssysteem aan te leveren, met inachtneming van de onder voorschrift 4 door te voeren aanpassingen.
+
 Naast de verklaring van de accountant, bedoeld in de [onderdelen 6.2 en 6.3, sub c, van paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=6) en [onderdeel 7.5 van paragraaf 7 van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0004452&artikel=7), dient de accountant:
+
+- a) bij zijn controle gebruik te maken van de controle-uitgangspunten op te stellen door het college,
+
+- b) een rapport van bevindingen over de toepassing van het toerekeningssysteem aan het college aan te bieden.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 april 2013, nr. IENM/BSK-2013/72460, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Rotterdam The Hague Airport, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Rotterdam The Hague Airport)"
+citeertitel: "Omzettingsregeling luchthaven Rotterdam The Hague Airport"
 identifier: "BWBR0033333"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-05-01"
-last_updated: "2013-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033333"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12232743"
-version_id: "20458802"
-internal_id: "C28760051"
-label_id: "12204244"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033333/2013-05-01/0"
-intitule_bron: "Stcrt.2013-11153"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-19"
-intitule_published: "2013-04-26"
-intitule_in_force: "2013-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-11153"
-original_signed_date: "2013-04-19"
-original_published_date: "2013-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-11153"
-entry_into_force_date: "2013-05-01"
-jci_1_3: "jci1.3:c:BWBR0033333&z=2013-05-01&g=2013-05-01"
-jci_1_0: "1.0:c:BWBR0033333&g=2013-05-01"
-citeertitel_status: "officieel"
-short_title: "Omzettingsregeling luchthaven Rotterdam The Hague Airport"
-signed_date: "2013-04-19"
-entry_into_force: "2013-05-01"
+publicatiedatum: 2013-05-01
+laatste_update: 2013-05-01
+status: geldig
+toestand: 2013-05-01
+bron: "https://wetten.overheid.nl/BWBR0033333"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 april 2013, nr. IENM/BSK-2013/72460, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Rotterdam The Hague Airport, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Rotterdam The Hague Airport)
-
-Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,39 +20,40 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **ATC-slot (Air Traffic Control-slot):** een door de luchtverkeersleiding opgegeven CTOT (Calculated Take-Off Time). Dit is een nominale tijd met een tolerantie van 5 minuten voor tot 10 minuten na het opgegeven slot-tijdstip;
+- – *ATC-slot (Air Traffic Control-slot):* een door de luchtverkeersleiding opgegeven CTOT (Calculated Take-Off Time). Dit is een nominale tijd met een tolerantie van 5 minuten voor tot 10 minuten na het opgegeven slot-tijdstip;
 
-- –. **circuitvlucht:** vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen als onderdeel van het lesvliegen;
+- – *circuitvlucht:* vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen als onderdeel van het lesvliegen;
 
-- –. **exploitant:** de exploitant van de luchthaven Rotterdam The Hague Airport zijnde de N.V. Luchthaven Schiphol;
+- – *exploitant:* de exploitant van de luchthaven Rotterdam The Hague Airport zijnde de N.V. Luchthaven Schiphol;
 
-- –. **hoofdstuk 2-vliegtuig:** vliegtuig waarvoor door het bevoegd gezag een verklaring is afgegeven dat het geluidgecertificeerd is overeenkomstig de bepalingen en voorschriften van Boekdeel I, deel 2, hoofdstuk 2, van Bijlage 16 bij het Verdrag inzake de internationale burgerluchtvaart;
+- – *hoofdstuk 2-vliegtuig:* vliegtuig waarvoor door het bevoegd gezag een verklaring is afgegeven dat het geluidgecertificeerd is overeenkomstig de bepalingen en voorschriften van Boekdeel I, deel 2, hoofdstuk 2, van Bijlage 16 bij het Verdrag inzake de internationale burgerluchtvaart;
 
-- –. **hoofdstuk 3-vliegtuig:** vliegtuig waarvoor door het bevoegd gezag een verklaring is afgegeven dat het geluidgecertificeerd is overeenkomstig de bepalingen en voorschriften van Boekdeel I, deel 2, hoofdstuk 3, van Bijlage 16 bij het Verdrag inzake de internationale burgerluchtvaart.
+- – *hoofdstuk 3-vliegtuig:* vliegtuig waarvoor door het bevoegd gezag een verklaring is afgegeven dat het geluidgecertificeerd is overeenkomstig de bepalingen en voorschriften van Boekdeel I, deel 2, hoofdstuk 3, van Bijlage 16 bij het Verdrag inzake de internationale burgerluchtvaart.
 
-- –. **lesvlucht:** vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;
+- – *lesvlucht:* vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;
 
-- –. **oefenvlucht:** solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
+- – *oefenvlucht:* solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
 
-- –. **overlandvlucht:** vlucht waarbij de start en de daarop volgende landing niet op dezelfde luchthaven plaatsvinden;
+- – *overlandvlucht:* vlucht waarbij de start en de daarop volgende landing niet op dezelfde luchthaven plaatsvinden;
 
-- –. **positievlucht:** een vlucht zonder lading (passagiers, vracht, post) van een luchthaven om vanaf de volgende luchthaven een vlucht met lading uit te voeren;
+- – *positievlucht:* een vlucht zonder lading (passagiers, vracht, post) van een luchthaven om vanaf de volgende luchthaven een vlucht met lading uit te voeren;
 
-- –. **regeringsvlucht:** vlucht ten behoeve van staatshoofden of regeringsfunctionarissen, dan wel in hun opdracht;
+- – *regeringsvlucht:* vlucht ten behoeve van staatshoofden of regeringsfunctionarissen, dan wel in hun opdracht;
 
-- –. **verdrag:** Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+- – *verdrag:* Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
-- –. **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928);
+- – *wet:*
+ [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928);
 
-- –.
+- –
 
-- 1°. een intercontinentale of continentale vlucht met een zakelijk doel, ten behoeve van het in de Rotterdams-Haagse regio gevestigde bedrijfsleven, uitgevoerd met een luchtvaartuig ingericht voor personenvervoer, te weten:
+   - 1° een intercontinentale of continentale vlucht met een zakelijk doel, ten behoeve van het in de Rotterdams-Haagse regio gevestigde bedrijfsleven, uitgevoerd met een luchtvaartuig ingericht voor personenvervoer, te weten:
 
-- a. een eigen vliegtuig voor het vervoer van personen ten behoeve van het eigen bedrijf; of
+      - a. een eigen vliegtuig voor het vervoer van personen ten behoeve van het eigen bedrijf; of
 
-- b. een vliegtuig van derden, dat ingehuurd wordt op grond van een huurovereenkomst met een gelegenheidskarakter, en waarmee personen worden vervoerd ten behoeve van het bedrijf van de huurder; of
+      - b. een vliegtuig van derden, dat ingehuurd wordt op grond van een huurovereenkomst met een gelegenheidskarakter, en waarmee personen worden vervoerd ten behoeve van het bedrijf van de huurder; of
 
-- 2°. een zakelijke spoedvlucht met een passagiersvliegtuig voor het vervoer van kleine pakketjes zoals computeronderdelen.
+   - 2° een zakelijke spoedvlucht met een passagiersvliegtuig voor het vervoer van kleine pakketjes zoals computeronderdelen.
 
 2. Het gebruiksjaar betreft de periode van 1 november van enig jaar tot 1 november van het daarop volgende jaar.
 
@@ -120,17 +95,17 @@ Besluit:
 
 - b. het uitvoeren van landingen tussen 23.00 uur en 24.00 uur plaatselijke tijd door vluchten die volgens schema eerder dan 23.00 uur plaatselijke tijd hadden moeten arriveren, voor zover sprake is van:
 
-- 1°. onverwachte vertragende omstandigheden, die op het moment van het vertrek redelijkerwijs niet voorzien hadden kunnen worden, of
+   - 1°. onverwachte vertragende omstandigheden, die op het moment van het vertrek redelijkerwijs niet voorzien hadden kunnen worden, of
 
-- 2°. vertragingen veroorzaakt door toekenning van ATC-slots;
+   - 2°. vertragingen veroorzaakt door toekenning van ATC-slots;
 
 - c. het uitvoeren van starts tussen 23.00 uur en 24.00 uur door vluchten die volgens schema eerder dan 23.00 uur plaatselijke tijd hadden moeten vertrekken, voor zover sprake is van:
 
-- 1°. een technische storing van het luchtvaartuig dan wel van de luchtvaarttechnische gronduitrusting;
+   - 1°. een technische storing van het luchtvaartuig dan wel van de luchtvaarttechnische gronduitrusting;
 
-- 2°. extreme meteorologische omstandigheden die een vertraging van de start volgens het schema rechtvaardigen; of
+   - 2°. extreme meteorologische omstandigheden die een vertraging van de start volgens het schema rechtvaardigen; of
 
-- 3°. een zodanige toekenning van ATC-slots op de luchthaven van bestemming dat de vlucht bij een vertrek vóór 23.00 uur plaatselijke tijd kunstmatig lang zou worden;
+   - 3°. een zodanige toekenning van ATC-slots op de luchthaven van bestemming dat de vlucht bij een vertrek vóór 23.00 uur plaatselijke tijd kunstmatig lang zou worden;
 
 - d. spoedeisende vluchten voor het transport van zieken, gewonden, organen of medische hulpmiddelen;
 
@@ -140,21 +115,21 @@ Besluit:
 
 - g. het uitvoeren van landingen in de periode van 23.00 uur tot 24.00 uur plaatselijke tijd door:
 
-- 1°. hoofdstuk 3-vliegtuigen waarvan het verschil tussen de som van de gecertificeerde geluidsniveaus en de som van de hoofdstuk 3 limietwaarden groter of gelijk is aan 10 EPN dB;
+   - 1°. hoofdstuk 3-vliegtuigen waarvan het verschil tussen de som van de gecertificeerde geluidsniveaus en de som van de hoofdstuk 3 limietwaarden groter of gelijk is aan 10 EPN dB;
 
-- 2°. hoofdstuk 5-vliegtuigen waarvan het verschil tussen de som van de gecertificeerde geluidsniveaus en de som van de hoofdstuk 3 limietwaarden groter of gelijk is aan 10 EPN dB;
+   - 2°. hoofdstuk 5-vliegtuigen waarvan het verschil tussen de som van de gecertificeerde geluidsniveaus en de som van de hoofdstuk 3 limietwaarden groter of gelijk is aan 10 EPN dB;
 
-- 3°. hoofdstuk 4-vliegtuigen; of
+   - 3°. hoofdstuk 4-vliegtuigen; of
 
-- 4°. door een turboprop aangedreven vliegtuigen met een maximaal toegelaten startmassa tussen de 6000 en 9000 kg;
+   - 4°. door een turboprop aangedreven vliegtuigen met een maximaal toegelaten startmassa tussen de 6000 en 9000 kg;
 
 - h. het uitvoeren van landingen in de periode van 24.00 uur tot 01.00 uur plaatselijke tijd door in onderdeel g genoemde vliegtuigen die volgens schema eerder dan 24.00 uur plaatselijke tijd hadden moeten arriveren, voor zover sprake is van:
 
-- 1°. een technische storing van het luchtvaartuig dan wel van de luchtvaarttechnische gronduitrusting;
+   - 1°. een technische storing van het luchtvaartuig dan wel van de luchtvaarttechnische gronduitrusting;
 
-- 2°. extreme meteorologische omstandigheden, die een vertraging van de landing rechtvaardigen; of
+   - 2°. extreme meteorologische omstandigheden, die een vertraging van de landing rechtvaardigen; of
 
-- 3°. een onverwachte vertraging veroorzaakt door toekenning van een ATC-slot op de luchthaven van vertrek;
+   - 3°. een onverwachte vertraging veroorzaakt door toekenning van een ATC-slot op de luchthaven van vertrek;
 
 - i. regeringsvluchten ten behoeve van personenvervoer.
 
@@ -197,11 +172,3 @@ Deze regeling treedt in werking met ingang van 1 mei 2013.
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Rotterdam The Hague Airport.
-
-## Bijlage 1. bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=2&artikel=2&z=2013-05-01&g=2013-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=2&artikel=3&z=2013-05-01&g=2013-05-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=3&artikel=7&z=2013-05-01&g=2013-05-01) van de Omzettingsregeling Rotterdam The Hague Airport: ligging van de baan en plaats van de handhavingspunten, grenswaarden in de handhavingspunten
-
-## Bijlage 2. bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=4&artikel=9&z=2013-05-01&g=2013-05-01) van de Omzettingsregeling luchthaven Rotterdam The Hague Airport: het beperkingengebied ten gevolge van de Ke-zone
-
-## Bijlage 3. bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=4&artikel=9&z=2013-05-01&g=2013-05-01) van de Omzettingsregeling luchthaven Rotterdam The Hague Airport: het beperkingengebied ten gevolge van de Bkl-zone
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

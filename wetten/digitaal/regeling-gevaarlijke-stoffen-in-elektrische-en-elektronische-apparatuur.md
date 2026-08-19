@@ -1,120 +1,99 @@
 ---
 title: "Regeling van de Staatssecretaris van Milieu van 11 december 2012, nr. IENM/BSK-2012/218548 houdende regels met betrekking tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur)"
+citeertitel: "Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur"
 identifier: "BWBR0032405"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032405"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "11941853"
-version_id: "29338712"
-internal_id: "C41869301"
-label_id: "11913894"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032405/2024-01-01/0"
-intitule_bron: "Stcrt.2012-23695"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-11"
-intitule_published: "2012-12-12"
-intitule_in_force: "2012-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-10014"
-original_signed_date: "2023-04-06"
-original_published_date: "2023-04-14"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-10014"
-entry_into_force_date: "2023-04-19"
-jci_1_3: "jci1.3:c:BWBR0032405&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0032405&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur"
-signed_date: "2023-04-06"
-entry_into_force: "2023-04-19"
+publicatiedatum: 2023-04-19
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0032405"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Staatssecretaris van Milieu van 11 december 2012, nr. IENM/BSK-2012/218548 houdende regels met betrekking tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur)
 
-Gelet op [richtlijn nr. 2011/65](32011L0065)/EU van het Europees Parlement en de Raad van 8 juni 2011 betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (PbEU 2011, L 174/88) en de [artikelen 9.2.2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
-
-Besluit:
-
-#### § 1. **Begripsbepalingen en reikwijdte**
+#### § 1. Begripsbepalingen en reikwijdte
 
 ##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+- a. *aanbieder van diensten van de informatiemaatschappij:* aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
 
-- b. **actief implanteerbaar medisch hulpmiddel:** actief implanteerbaar medisch hulpmiddel in de zin van artikel 1, tweede lid, onder c, van [richtlijn 90/385/EEG](31990L0385) van de Raad van 20 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake actieve implanteerbare medische hulpmiddelen (PbEU 1990, L 189);
+- b. *actief implanteerbaar medisch hulpmiddel:* actief implanteerbaar medisch hulpmiddel in de zin van artikel 1, tweede lid, onder c, van richtlijn 90/385/EEG van de Raad van 20 juni 1990 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake actieve implanteerbare medische hulpmiddelen (PbEU 1990, L 189);
 
-- c. **CE-markering:** markering waarmee de fabrikant aangeeft dat het product in overeenstemming is met alle toepasselijke eisen van de harmonisatiewetgeving van de Europese Unie die in het aanbrengen ervan voorziet;
+- c. *CE-markering:* markering waarmee de fabrikant aangeeft dat het product in overeenstemming is met alle toepasselijke eisen van de harmonisatiewetgeving van de Europese Unie die in het aanbrengen ervan voorziet;
 
-- d. **conformiteitsbeoordeling:** proces waarin wordt aangetoond of voldaan is aan de eisen van [richtlijn nr. 2011/65](32011L0065)/EU met betrekking tot elektrische en elektronische apparatuur;
+- d. *conformiteitsbeoordeling:* proces waarin wordt aangetoond of voldaan is aan de eisen van richtlijn nr. 2011/65/EU met betrekking tot elektrische en elektronische apparatuur;
 
-- e. **beschikbaarheid van een vervangende stof:** mogelijkheid om een vervangende stof te vervaardigen en leveren binnen een tijdsbestek dat redelijk is vergeleken met de tijd die nodig is om de in bijlage II van [richtlijn nr. 2011/65](32011L0065)/EU genoemde stoffen te vervaardigen en te leveren;
+- e. *beschikbaarheid van een vervangende stof:* mogelijkheid om een vervangende stof te vervaardigen en leveren binnen een tijdsbestek dat redelijk is vergeleken met de tijd die nodig is om de in bijlage II van richtlijn nr. 2011/65/EU genoemde stoffen te vervaardigen en te leveren;
 
-- f. **betrouwbaarheid van een vervangende stof:** waarschijnlijkheid dat elektrische en elektronische apparatuur die gebruik maakt van die vervangende stof, in geijkte omstandigheden een vereiste functie voor een bepaalde periode foutloos vervult;
+- f. *betrouwbaarheid van een vervangende stof:* waarschijnlijkheid dat elektrische en elektronische apparatuur die gebruik maakt van die vervangende stof, in geijkte omstandigheden een vereiste functie voor een bepaalde periode foutloos vervult;
 
-- g. **distributeur:** natuurlijke of rechtspersoon in de toeleveringsketen, niet zijnde de fabrikant of de importeur, die elektrische en elektronische apparatuur op de markt aanbiedt;
+- g. *distributeur:* natuurlijke of rechtspersoon in de toeleveringsketen, niet zijnde de fabrikant of de importeur, die elektrische en elektronische apparatuur op de markt aanbiedt;
 
-- h. **elektrische en elektronische apparatuur:** apparaten die, om ten minste één beoogde functie te vervullen, elektrische stromen of elektromagnetische velden nodig hebben om naar behoren te kunnen werken en apparaten voor het opwekken, overbrengen en meten van die stromen en velden en die bedoeld zijn voor gebruik met een spanning van ten hoogste 1000 volt bij wisselstroom en 1500 volt bij gelijkstroom;
+- h. *elektrische en elektronische apparatuur:* apparaten die, om ten minste één beoogde functie te vervullen, elektrische stromen of elektromagnetische velden nodig hebben om naar behoren te kunnen werken en apparaten voor het opwekken, overbrengen en meten van die stromen en velden en die bedoeld zijn voor gebruik met een spanning van ten hoogste 1000 volt bij wisselstroom en 1500 volt bij gelijkstroom;
 
-- i. **fabrikant:** natuurlijke of rechtspersoon die elektrische en elektronische apparatuur vervaardigt of laat ontwerpen of vervaardigen en onder zijn naam of handelsmerk verhandelt;
+- i. *fabrikant:* natuurlijke of rechtspersoon die elektrische en elektronische apparatuur vervaardigt of laat ontwerpen of vervaardigen en onder zijn naam of handelsmerk verhandelt;
 
-- j. **fulfilmentdienstverlener:** fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van de EU-verordening markttoezicht;
+- j. *fulfilmentdienstverlener:* fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van de EU-verordening markttoezicht;
 
-- k. **geharmoniseerde norm:** norm die, op grond van een door de Commissie ingediend verzoek, overeenkomstig artikel 6 van [richtlijn 98/34/EG](31998L0034) van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Pb EG 1998, L 204/37) is vastgesteld door een van de in bijlage I bij die richtlijn genoemde Europese normalisatie-instellingen;
+- k. *geharmoniseerde norm:* norm die, op grond van een door de Commissie ingediend verzoek, overeenkomstig artikel 6 van richtlijn 98/34/EG van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Pb EG 1998, L 204/37) is vastgesteld door een van de in bijlage I bij die richtlijn genoemde Europese normalisatie-instellingen;
 
-- l. **gemachtigde:** in de Europese Unie gevestigde natuurlijke of rechtspersoon die schriftelijk door een fabrikant is gemachtigd om namens hem specifieke taken te vervullen;
+- l. *gemachtigde:* in de Europese Unie gevestigde natuurlijke of rechtspersoon die schriftelijk door een fabrikant is gemachtigd om namens hem specifieke taken te vervullen;
 
-- m. **grote, niet-verplaatsbare industriële installaties:** groot geheel van machines, apparatuur of onderdelen die samenwerken voor een bepaalde toepassing, op een vaste plaats door vakmensen worden geïnstalleerd of afgebroken en door vakmensen worden gebruikt en onderhouden in een industriële productieomgeving of een centrum voor onderzoek en ontwikkeling;
+- m. *grote, niet-verplaatsbare industriële installaties:* groot geheel van machines, apparatuur of onderdelen die samenwerken voor een bepaalde toepassing, op een vaste plaats door vakmensen worden geïnstalleerd of afgebroken en door vakmensen worden gebruikt en onderhouden in een industriële productieomgeving of een centrum voor onderzoek en ontwikkeling;
 
-- n. **grote, vaste installatie:** grootschalig samenstel van diverse typen apparaten en eventueel andere hulpmiddelen die door vakmensen wordt gemonteerd en geïnstalleerd en bestemd is voor permanent gebruik op een vooraf bepaalde en speciaal daarvoor bestemde plaats, en die door vakmensen afgebroken wordt;
+- n. *grote, vaste installatie:* grootschalig samenstel van diverse typen apparaten en eventueel andere hulpmiddelen die door vakmensen wordt gemonteerd en geïnstalleerd en bestemd is voor permanent gebruik op een vooraf bepaalde en speciaal daarvoor bestemde plaats, en die door vakmensen afgebroken wordt;
 
-- o. **het terugroepen:** maatregel waarmee wordt beoogd een product te doen terugkeren dat al aan de eindgebruiker ter beschikking is gesteld;
+- o. *het terugroepen:* maatregel waarmee wordt beoogd een product te doen terugkeren dat al aan de eindgebruiker ter beschikking is gesteld;
 
-- p. **het uit de handel nemen:** maatregel waarmee wordt beoogd te voorkomen dat een product dat zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;
+- p. *het uit de handel nemen:* maatregel waarmee wordt beoogd te voorkomen dat een product dat zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;
 
-- q. **homogeen materiaal:** hetzij één materiaal van uniforme samenstelling, hetzij een materiaal dat uit een combinatie van materialen bestaat en niet in afzonderlijke materialen van elkaar kan worden losgemaakt of kan worden gescheiden door mechanische handelingen zoals losschroeven, snijden, verbrijzelen, malen en slijpen;
+- q. *homogeen materiaal:* hetzij één materiaal van uniforme samenstelling, hetzij een materiaal dat uit een combinatie van materialen bestaat en niet in afzonderlijke materialen van elkaar kan worden losgemaakt of kan worden gescheiden door mechanische handelingen zoals losschroeven, snijden, verbrijzelen, malen en slijpen;
 
-- r. **importeur:** in de Europese Unie gevestigde natuurlijke of rechtspersoon die elektrische en elektronische apparatuur uit een derde land in de handel brengt in de Europese Unie;
+- r. *importeur:* in de Europese Unie gevestigde natuurlijke of rechtspersoon die elektrische en elektronische apparatuur uit een derde land in de handel brengt in de Europese Unie;
 
-- s. **in de handel brengen:** voor het eerst in de Europese Unie op de markt aanbieden van elektrische en elektronische apparatuur;
+- s. *in de handel brengen:* voor het eerst in de Europese Unie op de markt aanbieden van elektrische en elektronische apparatuur;
 
-- t. **industriële meet- en regelapparatuur:** meet- en regelapparatuur die uitsluitend voor gebruik voor industriële of professionele doeleinden is ontworpen;
+- t. *industriële meet- en regelapparatuur:* meet- en regelapparatuur die uitsluitend voor gebruik voor industriële of professionele doeleinden is ontworpen;
 
-- u. **kabels:** kabels voor een spanning van minder dan 250 volt die als verbindings- en verlengsnoer dienen om elektrische en elektronische apparatuur met een stopcontact of twee of meer elektrische en elektronische apparaten te verbinden;
+- u. *kabels:* kabels voor een spanning van minder dan 250 volt die als verbindings- en verlengsnoer dienen om elektrische en elektronische apparatuur met een stopcontact of twee of meer elektrische en elektronische apparaten te verbinden;
 
-- v. **marktdeelnemers:** fabrikant, gemachtigde, importeur of distributeur;
+- v. *marktdeelnemers:* fabrikant, gemachtigde, importeur of distributeur;
 
-- w. **markttoezicht:** activiteiten en maatregelen van het bevoegd gezag om ervoor te zorgen dat elektrische en elektronische apparatuur voldoet aan de eisen die zijn opgenomen in [richtlijn nr. 2011/65](32011L0065)/EU en dat die apparatuur geen gevaar oplevert voor de gezondheid en veiligheid of andere aspecten van de bescherming van het openbaar belang;
+- w. *markttoezicht:* activiteiten en maatregelen van het bevoegd gezag om ervoor te zorgen dat elektrische en elektronische apparatuur voldoet aan de eisen die zijn opgenomen in richtlijn nr. 2011/65/EU en dat die apparatuur geen gevaar oplevert voor de gezondheid en veiligheid of andere aspecten van de bescherming van het openbaar belang;
 
-- x. **medisch hulpmiddel:** medisch hulpmiddel in de zin van artikel 1, tweede lid, onder a, van [Richtlijn 93/42/EEG](31993L0042) van de Raad van 14 juni 1993 betreffende medische hulpmiddelen (PbEG 1993, L 169), dat ook elektrische en elektronische apparatuur is;
+- x. *medisch hulpmiddel:* medisch hulpmiddel in de zin van artikel 1, tweede lid, onder a, van Richtlijn 93/42/EEG van de Raad van 14 juni 1993 betreffende medische hulpmiddelen (PbEG 1993, L 169), dat ook elektrische en elektronische apparatuur is;
 
-- y. **medisch hulpmiddel voor in-vitrodiagnostiek:** medisch hulpmiddel voor in-vitrodiagnostiek in de zin van artikel 1, tweede lid, onder b, van [richtlijn 98/79/EG](31998L0079) van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitrodiagnostiek (PbEU 1998, L 331/1);
+- y. *medisch hulpmiddel voor in-vitrodiagnostiek:* medisch hulpmiddel voor in-vitrodiagnostiek in de zin van artikel 1, tweede lid, onder b, van richtlijn 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitrodiagnostiek (PbEU 1998, L 331/1);
 
-- z. **niet voor de weg bestemde en uitsluitend voor het beroepsmatig gebruik beschikbaar gestelde mobiele machine:** machine met een interne krachtbron of met tractieaandrijving door een externe krachtbron, waarvan de bediening ofwel mobiliteit vereist, ofwel permanente of semi- permanente verplaatsing tussen een reeks vaste werklocaties tijdens het werk, en die uitsluitend beschikbaar wordt gesteld voor beroepsmatig gebruik;
+- z. *niet voor de weg bestemde en uitsluitend voor het beroepsmatig gebruik beschikbaar gestelde mobiele machine:* machine met een interne krachtbron of met tractieaandrijving door een externe krachtbron, waarvan de bediening ofwel mobiliteit vereist, ofwel permanente of semi- permanente verplaatsing tussen een reeks vaste werklocaties tijdens het werk, en die uitsluitend beschikbaar wordt gesteld voor beroepsmatig gebruik;
 
-- aa. **op de markt aanbieden:** in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van elektrische en elektronische apparatuur met het oog op distributie, consumptie of gebruik op de markt in de Europese Unie;
+- aa. *op de markt aanbieden:* in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van elektrische en elektronische apparatuur met het oog op distributie, consumptie of gebruik op de markt in de Europese Unie;
 
-- bb. **reserveonderdeel:** onderdeel van elektrische en elektronische apparatuur dat een deel van een de elektrische en elektronische apparatuur kan vervangen, waarbij:
+- bb. *reserveonderdeel:* onderdeel van elektrische en elektronische apparatuur dat een deel van een de elektrische en elektronische apparatuur kan vervangen, waarbij:
 
-- 1°. zonder dat onderdeel de elektrische en elektronische apparatuur niet kan werken als bedoeld, en
+   - 1° zonder dat onderdeel de elektrische en elektronische apparatuur niet kan werken als bedoeld, en
 
-- 2°. de werkzaamheid van de elektrische en elektronische apparatuur wordt hersteld of verbeterd als het deel wordt vervangen;
+   - 2° de werkzaamheid van de elektrische en elektronische apparatuur wordt hersteld of verbeterd als het deel wordt vervangen;
 
-- cc. **richtlijn nr. 2011/65/EU:** [richtlijn nr. 2011/65](32011L0065)/EU van het Europees Parlement en de Raad van 8 juni 2011 betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (PbEU 2011, L 174/88);
+- cc. *richtlijn nr. 2011/65/EU:*
+ richtlijn nr. 2011/65/EU van het Europees Parlement en de Raad van 8 juni 2011 betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (PbEU 2011, L 174/88);
 
-- dd. **technische specificatie:** document dat de technische voorschriften bepaalt waaraan een product, een proces of een dienst moet voldoen.
+- dd. *technische specificatie:* document dat de technische voorschriften bepaalt waaraan een product, een proces of een dienst moet voldoen.
 
 2. Voor de toepassing van deze regeling wordt, voor zover dat voor de toepassing van de EU-verordening markttoezicht noodzakelijk is, verstaan onder gemachtigde en marktdeelnemer hetgeen daaronder in artikel 3, onderdelen 12 en 13, van die verordening wordt verstaan.
 
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
+
 ##### Artikel 2
 
-1. Deze regeling is van toepassing op alle elektrische en elektronische apparatuur die valt binnen de in bijlage I van [richtlijn nr. 2011/65](32011L0065)/EU genoemde categorieën.
+1. Deze regeling is van toepassing op alle elektrische en elektronische apparatuur die valt binnen de in bijlage I van richtlijn nr. 2011/65/EU genoemde categorieën.
 
 2. Deze regeling is in afwijking van het eerste lid niet van toepassing op:
 
@@ -140,11 +119,27 @@ Besluit:
 
 - k. pijporgels.
 
-#### § 2. **Verbodsbepalingen**
+#### § 2. Verbodsbepalingen ter uitvoering van de EU-verordening markttoezicht
+
+##### Artikel 2a
+
+1. Het is verboden elektrische en elektronische apparatuur in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van elektrische en elektronische apparatuur, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
+
+3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
+
+##### Artikel 2b
+
+1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt aanbieden van elektrische en elektronische apparatuur, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van elektrische en elektronische apparatuur, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
+
+#### § 2a. Verbodsbepalingen ter implementatie van richtlijn nr. 2011/65/EU
 
 ##### Artikel 3
 
-1. Het in de handel brengen van elektrische en elektronische apparatuur, met inbegrip van kabels en reserveonderdelen voor het repareren, het hergebruiken, het aanpassen van de functionele aspecten of het verbeteren van de capaciteit ervan, is verboden indien deze in bijlage II van [richtlijn nr. 2011/65](32011L0065)/EU opgenomen stoffen bevat, waarbij in een homogeen materiaal de in bedoelde bijlage II genoemde maximale concentratiewaarden worden overschreden.
+1. Het in de handel brengen van elektrische en elektronische apparatuur, met inbegrip van kabels en reserveonderdelen voor het repareren, het hergebruiken, het aanpassen van de functionele aspecten of het verbeteren van de capaciteit ervan, is verboden indien deze in bijlage II van richtlijn nr. 2011/65/EU opgenomen stoffen bevat, waarbij in een homogeen materiaal de in bedoelde bijlage II genoemde maximale concentratiewaarden worden overschreden.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -154,7 +149,7 @@ Besluit:
 
 - c. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur, en
 
-- d. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was.
+- d. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was.
 
 3. Het eerste lid is niet van toepassing op kabels of reserveonderdelen voor reparatie, het hergebruik, het aanpassen van de functionele aspecten of het verbeteren van de capaciteit van:
 
@@ -168,25 +163,25 @@ Besluit:
 
 - e. vóór 22 juli 2017 in de handel gebrachte industriële meet- en regelapparatuur,
 
-- f. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was, en
+- f. vóór 22 juli 2019 in de handel gebrachte andere elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013, niet van toepassing was, en
 
 - g. elektrische en elektronische apparatuur die voordeel gehad heeft van een door de Europese Commissie verleende vrijstelling en die voor het tijdstip waarop de vrijstelling eindigt in de handel is gebracht, voor zover het die specifieke vrijstelling betreft.
 
 4. Het eerste lid is, mits het hergebruik plaatsvindt in controleerbare, gesloten business-to-business inruilsystemen en de consument in kennis wordt gesteld van het hergebruik van reserveonderdelen, niet van toepassing op hergebruikte reserveonderdelen:
 
-- a. die worden herwonnen uit elektrische en elektronische apparatuur die vóór 1 juli 2006 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 1 juli 2016 in de handel is gebracht,
+- a. die worden herwonnen uit elektrische en elektronische apparatuur die vóór 1 juli 2006 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 1 juli 2016 in de handel is gebracht,
 
-- b. die worden herwonnen uit medische hulpmiddelen of meet- en regelapparatuur die vóór 22 juli 2014 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2024 in de handel is gebracht,
+- b. die worden herwonnen uit medische hulpmiddelen of meet- en regelapparatuur die vóór 22 juli 2014 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2024 in de handel is gebracht,
 
-- c. die worden herwonnen uit medische hulpmiddelen voor in-vitrodiagnostiek die vóór 22 juli 2016 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2026 in de handel is gebracht,
+- c. die worden herwonnen uit medische hulpmiddelen voor in-vitrodiagnostiek die vóór 22 juli 2016 in de handel zijn gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2026 in de handel is gebracht,
 
-- d. die worden herwonnen uit industriële meet- en regelapparatuur die vóór 22 juli 2017 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2027 in de handel is gebracht, en
+- d. die worden herwonnen uit industriële meet- en regelapparatuur die vóór 22 juli 2017 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2027 in de handel is gebracht, en
 
-- e. die worden herwonnen uit alle overige elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013 niet van toepassing was en die vóór 22 juli 2019 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2029 in de handel is gebracht.
+- e. die worden herwonnen uit alle overige elektrische en elektronische apparatuur waarop [artikel 2 van het Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990&artikel=2) zoals dat luidde vóór 2 januari 2013 niet van toepassing was en die vóór 22 juli 2019 in de handel is gebracht en worden gebruikt in elektrische en elektronische apparatuur die vóór 22 juli 2029 in de handel is gebracht.
 
-5. Het eerste lid is niet van toepassing op de in de bijlagen III en IV van [richtlijn nr. 2011/65](32011L0065)/EU genoemde toepassingen.
+5. Het eerste lid is niet van toepassing op de in de bijlagen III en IV van richtlijn nr. 2011/65/EU genoemde toepassingen.
 
-#### § 3. **Verplichtingen marktpartijen**
+#### § 3. Verplichtingen marktpartijen
 
 ##### Artikel 4. Verplichtingen van fabrikanten
 
@@ -196,9 +191,9 @@ Besluit:
 
 - b. voeren de vastgestelde interne productiecontroles overeenkomstig module A van bijlage II bij besluit nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad (PbEU 2008, L 218/101) uit of laten deze uitvoeren,
 
-- c. stellen een EU-conformiteitsverklaring op bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), wanneer met de onder b bedoelde procedures is aangetoond dat de elektrische en elektronische apparatuur voldoet aan de toepasselijke eisen en brengen de CE-markering aan op het eindproduct.
+- c. stellen een EU-conformiteitsverklaring op bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), wanneer met de onder b bedoelde procedures is aangetoond dat de elektrische en elektronische apparatuur voldoet aan de toepasselijke eisen en brengen de CE-markering aan op het eindproduct.
 
-2. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste zo streng is als de procedures bedoeld in het eerste lid, onder b, kan het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), worden geleverd in die procedure en volstaat opstelling van één enkele technische documentatie.
+2. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste zo streng is als de procedures bedoeld in het eerste lid, onder b, kan het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), worden geleverd in die procedure en volstaat opstelling van één enkele technische documentatie.
 
 3. Een fabrikant bewaart de technische documentatie en de EU-conformiteitsverklaring van elektrische en elektronische apparatuur tot ten minste 10 jaar nadat deze in de handel is gebracht;
 
@@ -226,13 +221,13 @@ Besluit:
 
 1. Een fabrikant kan met een schriftelijk mandaat een gemachtigde aanstellen die ten minste de volgende taken verricht:
 
-- a. het bewaren van de EU-conformiteitsverklaring en de technische documentatie tot ten minste 10 jaar na het in de handel brengen van elektrische en elektronische apparatuur bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01),
+- a. het bewaren van de EU-conformiteitsverklaring en de technische documentatie tot ten minste 10 jaar na het in de handel brengen van elektrische en elektronische apparatuur bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01),
 
-- b. het op een met redenen omkleed verzoek van het bevoegd gezag verstrekken van alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen als bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), en
+- b. het op een met redenen omkleed verzoek van het bevoegd gezag verstrekken van alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen als bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), en
 
-- c. het op verzoek van het bevoegd gezag verlenen van medewerking aan genomen maatregelen om te zorgen dat elektrische en elektronische apparatuur onder het mandaat voldoet aan deze regeling bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01).
+- c. het op verzoek van het bevoegd gezag verlenen van medewerking aan genomen maatregelen om te zorgen dat elektrische en elektronische apparatuur onder het mandaat voldoet aan deze regeling bedoeld in [artikel 4, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01).
 
-2. De verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) en het opstellen van technische documentatie maken geen deel uit van het mandaat van de gemachtigde.
+2. De verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) en het opstellen van technische documentatie maken geen deel uit van het mandaat van de gemachtigde.
 
 ##### Artikel 6. Verplichtingen van importeurs
 
@@ -244,9 +239,9 @@ Besluit:
 
 - c. de elektrische en elektronische apparatuur is voorzien van de vereiste CE-markering en vergezeld gaat van de vereiste documenten, en
 
-- d. de fabrikant aan [artikel 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), heeft voldaan.
+- d. de fabrikant aan [artikel 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), heeft voldaan.
 
-2. Indien een importeur van mening is dat of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
+2. Indien een importeur van mening is dat of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
 
 3. Een importeur vermeldt zijn naam, geregistreerde handelsnaam of geregistreerde merknaam en contactadres op de elektrische en elektronische apparatuur, of wanneer dit niet mogelijk is, op de verpakking of een bij de elektrische en elektronische apparatuur gevoegd document.
 
@@ -274,7 +269,7 @@ Besluit:
 
 - b. de fabrikant of de importeur aan de [artikelen 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01), en [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), heeft voldaan.
 
-2. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
+2. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde elektrische en elektronische apparatuur niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) draagt hij zorg dat het in de handel brengen van deze de elektrische en elektronische apparatuur niet plaatsvindt dan nadat deze in overeenstemming is gebracht met dat artikel en de fabrikant en het bevoegd gezag daarvan op de hoogte zijn gebracht.
 
 3. Indien een distributeur van mening is of redenen heeft om aan te nemen dat bepaalde door hem in de handel gebrachte elektrische en elektronische apparatuur niet voldoet aan deze regeling:
 
@@ -286,7 +281,7 @@ Besluit:
 
 4. Een distributeur verstrekt op een met redenen omkleed verzoek van het bevoegd gezag, alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen, en verleent op verzoek van het bevoegd gezag medewerking aan alle genomen maatregelen om te zorgen dat de door hem in de handel gebrachte elektrische en elektronische apparatuur voldoet aan deze regeling.
 
-#### § 4. **Identificatie en markering**
+#### § 4. Identificatie en markering
 
 ##### Artikel 8. Gevallen waarin de verplichtingen van fabrikanten van toepassing zijn op importeurs en distributeurs
 
@@ -302,19 +297,19 @@ Marktdeelnemers verstrekken op verzoek van het bevoegd gezag gedurende een perio
 
 ##### Artikel 10. Eu-conformiteitsverklaring
 
-1. In de EU-conformiteitsverklaring bij elektrische en elektronische apparatuur wordt vermeld dat aangetoond is dat niet in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) is gehandeld.
+1. In de EU-conformiteitsverklaring bij elektrische en elektronische apparatuur wordt vermeld dat aangetoond is dat niet in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) is gehandeld.
 
-2. De structuur van de EU-conformiteitsverklaring komt overeen met het model in bijlage VI van [richtlijn nr. 2011/65](32011L0065)/EU, bevat de daarin vermelde elementen en wordt voortdurend bijgewerkt.
+2. De structuur van de EU-conformiteitsverklaring komt overeen met het model in bijlage VI van richtlijn nr. 2011/65/EU, bevat de daarin vermelde elementen en wordt voortdurend bijgewerkt.
 
 3. Een EU-conformiteitsverklaring voor in Nederland in de handel brengen of op de markt aanbieden van elektrische en elektronische apparatuur is gesteld in het Nederlands of Engels.
 
-4. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste net zo streng is als deze regeling, kan voor het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), worden volstaan met die procedure en de opstelling van één enkele technische documentatie.
+4. Indien andere toepasselijke wetgeving van de Europese Unie de toepassing van een procedure voor conformiteitsbeoordeling vereist die ten minste net zo streng is als deze regeling, kan voor het bewijs dat is voldaan aan de eisen van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), worden volstaan met die procedure en de opstelling van één enkele technische documentatie.
 
 5. Door het opstellen van een EU-conformiteitsverklaring neemt de fabrikant de verantwoordelijkheid voor de conformiteit van de elektrische en elektronische apparatuur met deze regeling.
 
 ##### Artikel 11. Algemene beginselen van de CE-markering
 
-De CE-markering van elektrische en elektronische apparatuur voldoet aan de algemene beginselen die zijn vastgesteld in artikel 30 van [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EEG) nr. 339/93](31993R0339) (PbEU 2008, L 218/30).
+De CE-markering van elektrische en elektronische apparatuur voldoet aan de algemene beginselen die zijn vastgesteld in artikel 30 van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU 2008, L 218/30).
 
 ##### Artikel 12. Eisen voor het aanbrengen van de CE-markering
 
@@ -326,19 +321,19 @@ De CE-markering van elektrische en elektronische apparatuur voldoet aan de algem
 
 1. Indien het bewijs van het tegendeel ontbreekt, wordt door het bevoegd gezag verondersteld dat elektrische en elektronische apparatuur die van een CE-markering is voorzien, voldoet aan deze regeling.
 
-2. Materialen, componenten en elektrische en elektronische apparatuur die proeven en metingen hebben ondergaan waarbij is gebleken dat wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), of die zijn beoordeeld overeenkomstig in EU-verband geharmoniseerde normen, waarvan de referenties zijn gepubliceerd in het Publicatieblad van de Europese Unie, gelden als in overeenstemming met deze regeling.
+2. Materialen, componenten en elektrische en elektronische apparatuur die proeven en metingen hebben ondergaan waarbij is gebleken dat wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01), of die zijn beoordeeld overeenkomstig in EU-verband geharmoniseerde normen, waarvan de referenties zijn gepubliceerd in het Publicatieblad van de Europese Unie, gelden als in overeenstemming met deze regeling.
 
-#### § 4*. **Overgangsrecht**
+#### § 4*. Overgangsrecht
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
-#### § 5. **Slotbepalingen**
+#### § 5. Slotbepalingen
 
 ##### Artikel 15
 
-Een wijziging van de bijlagen bij [richtlijn nr. 2011/65](32011L0065)/EU gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van de bijlagen bij richtlijn nr. 2011/65/EU gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 16
 
@@ -347,47 +342,3 @@ Deze regeling treedt in werking op 2 januari 2013.
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
-
-#### § 2. Verbodsbepalingen ter uitvoering van de EU-verordening markttoezicht
-
-#### § 3. **Verplichtingen marktpartijen**
-
-#### § 4. **Identificatie en markering**
-
-#### § 4*. **Overgangsrecht**
-
-#### § 5. **Slotbepalingen**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Het is verboden elektrische en elektronische apparatuur in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van elektrische en elektronische apparatuur, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
-
-3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
-
-##### Artikel 2b
-
-1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt aanbieden van elektrische en elektronische apparatuur, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van elektrische en elektronische apparatuur, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
-
-#### § 2a. Verbodsbepalingen ter implementatie van [richtlijn nr. 2011/65/EU](32011L0065)
-
-#### § 3. **Verplichtingen marktpartijen**
-
-#### § 4. **Identificatie en markering**
-
-#### § 4*. **Overgangsrecht**
-
-#### § 5. **Slotbepalingen**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

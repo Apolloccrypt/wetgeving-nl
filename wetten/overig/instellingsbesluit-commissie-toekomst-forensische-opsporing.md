@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Veiligheid en Justitie van 1 maart 2013 nr. 1700483, houdende instelling van de Commissie Toekomst Forensisch Onderzoek (Instellingsbesluit Commissie Toekomst Forensisch Onderzoek)"
+citeertitel: "Instellingsbesluit Commissie Toekomst Forensische Opsporing"
 identifier: "BWBR0033233"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-16"
-last_updated: "2013-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033233"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12203253"
-version_id: "20416152"
-internal_id: "C28699341"
-label_id: "12174704"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033233/2013-04-16/0"
-intitule_bron: "Stcrt.2013-9733"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-01"
-intitule_published: "2013-04-15"
-intitule_in_force: "2013-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-9733"
-original_signed_date: "2013-03-01"
-original_published_date: "2013-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-9733"
-entry_into_force_date: "2013-04-16"
-jci_1_3: "jci1.3:c:BWBR0033233&z=2013-04-16&g=2013-04-16"
-jci_1_0: "1.0:c:BWBR0033233&g=2013-04-16"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Toekomst Forensische Opsporing"
-signed_date: "2013-03-01"
-entry_into_force: "2013-04-16"
+publicatiedatum: 2013-04-16
+laatste_update: 2013-04-16
+status: geldig
+toestand: 2013-04-16
+bron: "https://wetten.overheid.nl/BWBR0033233"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Minister van Veiligheid en Justitie van 1 maart 2013 nr. 1700483, houdende instelling van de Commissie Toekomst Forensisch Onderzoek (Instellingsbesluit Commissie Toekomst Forensisch Onderzoek)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **de Commissie:** de Commissie Toekomst Forensisch Onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=2&z=2013-04-16&g=2013-04-16)
+- b. *de Commissie:* de Commissie Toekomst Forensisch Onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=2&z=2013-04-16&g=2013-04-16)
 
 ##### Artikel 2. Instelling
 
@@ -129,5 +103,3 @@ waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013.
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Toekomst Forensische Opsporing.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

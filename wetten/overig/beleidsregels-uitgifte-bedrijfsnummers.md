@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels uitgifte bedrijfsnummers"
 identifier: "BWBR0033303"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033303"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12224203"
-version_id: "20444422"
-internal_id: "C28736231"
-label_id: "12195514"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033303/2013-04-01/0"
-intitule_bron: "Stcrt.2008-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-04-11"
-intitule_in_force: "2008-04-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-71"
-original_published_date: "2008-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-71-p21-SC85370"
-entry_into_force_date: "2008-03-24"
-jci_1_3: "jci1.3:c:BWBR0033303&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0033303&g=2013-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-03-24"
+publicatiedatum: 2008-03-24
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0033303"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels uitgifte bedrijfsnummers
-
-De Autoriteit Consument en Markt maakt hierbij op grond van haar bevoegdheden uit [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4) beleidsregels bekend over de uitgifte van nummers voor toegang tot ondernemingen en instellingen (088-nummers). Deze beleidsregels treden per 24 maart 2008 in werking. Deze beleidsregels vervangen de [in de bekendmaking van 6 september 2004 onder B genoemde beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033297) (OPTA/NER/2004/203044).
-
-Treedt in werking op het tijdstip waarop artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt in werking treedt.
 
 In het kader van een snelle behandeling van aanvragen, efficiënt nummerbeheer en het tegengaan van nummerhandel hanteert Autoriteit Consument en Markt de volgende regels bij de uitgifte van nummers voor toegang tot ondernemingen en instellingen (kortweg: bedrijfsnummers):
 
@@ -47,6 +24,8 @@ In het kader van een snelle behandeling van aanvragen, efficiënt nummerbeheer e
 - 4. de hoofdregel bij de uitgifte van aanvragen voor meer dan honderd nummers voor toegang tot ondernemingen en instellingen is dat dit zoveel mogelijk plaatsvindt in aaneengesloten reeksen. Aanvragers met een voorkeur voor een niet aaneengesloten reeks moeten bij hun aanvraag deze voorkeur toelichten. Autoriteit Consument en Markt kan op grond van het belang van een aanvrager van de hoofdregel afwijken en niet aaneengesloten reeksen uitgeven in het geval de aanvrager in zijn toelichting aannemelijk maakt dat op die manier zijn huidige interne nummerplan zoveel mogelijk kan worden gehandhaafd. Voor aanvragen voor minder dan honderd nummers wijst Autoriteit Consument en Markt alleen aaneengesloten blokken van honderd nummers toe.
 
 - 5. de in tabel 1 genoemde nummerblokken worden slechts als blokken van 10.000 nummers uitgegeven aan aanvragers die deze hoeveelheid nummers nodig hebben. Aanvragen voor minder dan 10.000 nummers worden alleen gehonoreerd uit reeds aangebroken blokken van 10.000 nummers.
+
+Tabel 1.
 
 Bedrijfsnummers die beginnen met onderstaande cijfers worden alleen als 10.000-blok toegekend.
 

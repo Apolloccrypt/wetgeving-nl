@@ -1,49 +1,20 @@
 ---
 title: "Wet van 28 januari 2013 inzake implementatie van richtlijn nr. 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (Aanbestedingswet op defensie- en veiligheidsgebied)"
+citeertitel: "Aanbestedingswet op defensie- en veiligheidsgebied"
 identifier: "BWBR0032898"
-country: "nl"
-rank: "wet"
-publication_date: "2019-04-18"
-last_updated: "2019-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032898"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12106463"
-version_id: "20191502"
-internal_id: "C28399871"
-label_id: "12080344"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032898/2019-04-18/0"
-intitule_bron: "Stb.2013-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-01-28"
-intitule_published: "2013-02-15"
-intitule_in_force: "2013-02-15"
-intitule_status: "goed"
-original_publication: "Stb.2013-44"
-original_signed_date: "2013-01-28"
-original_published_date: "2013-02-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "32768"
-original_url_id: "stb-2013-44"
-entry_into_force_date: "2013-02-16"
-jci_1_3: "jci1.3:c:BWBR0032898&z=2019-04-18&g=2019-04-18"
-jci_1_0: "1.0:c:BWBR0032898&g=2019-04-18"
-citeertitel_status: "officieel"
-short_title: "Aanbestedingswet op defensie- en veiligheidsgebied"
-signed_date: "2013-01-28"
-entry_into_force: "2013-02-16"
+publicatiedatum: 2013-02-16
+laatste_update: 2019-04-18
+status: geldig
+toestand: 2019-04-18
+bron: "https://wetten.overheid.nl/BWBR0032898"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 28 januari 2013 inzake implementatie van richtlijn nr. 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (Aanbestedingswet op defensie- en veiligheidsgebied)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om te voorzien in wettelijke regels om uitvoering te geven aan [richtlijn nr. 2009/81/EG](32009L0081) van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van [richtlijnen 2004/17/EG](32004L0017) en [2004/18/EG](32004L0018) (PbEU L 216);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-## Deel 1. **Algemene bepalingen**
+## Deel 1. Algemene bepalingen
 
 ### Hoofdstuk 1.1. Begripsbepalingen
 
@@ -51,117 +22,119 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanbestedende dienst:** de staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen;
+- *aanbestedende dienst:* de staat, een provincie, een gemeente, een waterschap of een publiekrechtelijke instelling dan wel een samenwerkingsverband van deze overheden of publiekrechtelijke instellingen;
 
-- **aanbestedingsstukken:** alle documenten in een aanbestedingsprocedure die door de aanbestedende dienst of het speciale-sectorbedrijf in de procedure zijn gebracht;
+- *aanbestedingsstukken:* alle documenten in een aanbestedingsprocedure die door de aanbestedende dienst of het speciale-sectorbedrijf in de procedure zijn gebracht;
 
-- **aankoopcentrale:** een aanbestedende dienst of een openbare instantie van de Europese Unie, die voor aanbestedende diensten onderscheidenlijk speciale-sectorbedrijven bestemde leveringen of diensten verwerft of met betrekking tot voor aanbestedende diensten of speciale-sectorbedrijven bestemde werken, leveringen of diensten opdrachten plaatst;
+- *aankoopcentrale:* een aanbestedende dienst of een openbare instantie van de Europese Unie, die voor aanbestedende diensten onderscheidenlijk speciale-sectorbedrijven bestemde leveringen of diensten verwerft of met betrekking tot voor aanbestedende diensten of speciale-sectorbedrijven bestemde werken, leveringen of diensten opdrachten plaatst;
 
-- **aannemer:** een ieder die de uitvoering van werken op de markt aanbiedt;
+- *aannemer:* een ieder die de uitvoering van werken op de markt aanbiedt;
 
-- **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **CPV:** de Gemeenschappelijke Woordenlijst Overheidsopdrachten, vastgesteld bij [verordening (EG) nr. 2195/2002](32002R2195) van het Europees Parlement en de Raad van 5 november 2002 betreffende de gemeenschappelijke woordenlijst overheidsopdrachten (CPV) (PbEG L 340);
+- *CPV:* de Gemeenschappelijke Woordenlijst Overheidsopdrachten, vastgesteld bij verordening (EG) nr. 2195/2002 van het Europees Parlement en de Raad van 5 november 2002 betreffende de gemeenschappelijke woordenlijst overheidsopdrachten (CPV) (PbEG L 340);
 
-- **crisissituatie:** een gewapend conflict, een oorlog of een andere situatie als gevolg waarvan zich een schadelijke gebeurtenis voordoet die de omvang van een schadelijke gebeurtenis van het dagelijks leven duidelijk overstijgt en die een ernstige bedreiging of belemmering vormt voor het leven of de gezondheid van mensen, of substantiële gevolgen heeft voor materiële goederen van grote waarde, of maatregelen vereist om de bevolking van eerste levensbehoeften te voorzien, dan wel een situatie waarbij een dergelijke schadelijke gebeurtenis zich naar verwachting op zeer korte termijn zal voordoen;
+- *crisissituatie:* een gewapend conflict, een oorlog of een andere situatie als gevolg waarvan zich een schadelijke gebeurtenis voordoet die de omvang van een schadelijke gebeurtenis van het dagelijks leven duidelijk overstijgt en die een ernstige bedreiging of belemmering vormt voor het leven of de gezondheid van mensen, of substantiële gevolgen heeft voor materiële goederen van grote waarde, of maatregelen vereist om de bevolking van eerste levensbehoeften te voorzien, dan wel een situatie waarbij een dergelijke schadelijke gebeurtenis zich naar verwachting op zeer korte termijn zal voordoen;
 
-- **dienstverlener:** een ieder die diensten op de markt aanbiedt;
+- *dienstverlener:* een ieder die diensten op de markt aanbiedt;
 
-- **eigen verklaring:** een verklaring als bedoeld in [artikel 2.74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.74&z=2019-04-18&g=2019-04-18);
+- *eigen verklaring:* een verklaring als bedoeld in [artikel 2.74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.74&z=2019-04-18&g=2019-04-18);
 
-- **elektronisch systeem voor aanbestedingen:** het elektronisch systeem voor aanbestedingen, bedoeld in [artikel 4.13 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13);
+- *elektronisch systeem voor aanbestedingen:* het elektronisch systeem voor aanbestedingen, bedoeld in [artikel 4.13 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13);
 
-- **elektronische factuur:** factuur die is opgesteld, verzonden en ontvangen in een gestructureerde elektronische vorm die automatische en elektronische verwerking ervan mogelijk maakt;
+- *elektronische factuur:* factuur die is opgesteld, verzonden en ontvangen in een gestructureerde elektronische vorm die automatische en elektronische verwerking ervan mogelijk maakt;
 
-- **elektronische veiling:** een zich herhalend elektronisch proces voor de presentatie van nieuwe, verlaagde prijzen of van nieuwe waarden voor bepaalde elementen van de inschrijvingen, dat plaatsvindt na de eerste volledige beoordeling van de inschrijvingen en dat klassering op basis van elektronische verwerking mogelijk maakt;
+- *elektronische veiling:* een zich herhalend elektronisch proces voor de presentatie van nieuwe, verlaagde prijzen of van nieuwe waarden voor bepaalde elementen van de inschrijvingen, dat plaatsvindt na de eerste volledige beoordeling van de inschrijvingen en dat klassering op basis van elektronische verwerking mogelijk maakt;
 
-- **gedragsverklaring aanbesteden:** een verklaring als bedoeld in [artikel 4.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.1);
+- *gedragsverklaring aanbesteden:* een verklaring als bedoeld in [artikel 4.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.1);
 
-- **gegadigde:** een ondernemer die bij toepassing van de niet-openbare procedure, de procedure van de concurrentiegerichte dialoog of de onderhandelingsprocedure heeft verzocht om toegelaten te worden tot de procedure;
+- *gegadigde:* een ondernemer die bij toepassing van de niet-openbare procedure, de procedure van de concurrentiegerichte dialoog of de onderhandelingsprocedure heeft verzocht om toegelaten te worden tot de procedure;
 
-- **gerubriceerde gegevens:** gegevens of materiaal, ongeacht de vorm, aard, of wijze van verzending ervan, waaraan een bepaald niveau van veiligheidsclassificatie of een beveiligingsniveau is toegekend en die in het belang van de nationale veiligheid en uit hoofde van wettelijke voorschriften, van bindende aanwijzingen gegeven vanwege het Rijk of van bestuursrechtelijke besluiten, beschermd moeten worden tegen ontvreemding, vernietiging, verwijdering, onthulling, verlies of toegang tot die gegevens of dat materiaal door een onbevoegde, of tegen enige andere vorm van compromittering;
+- *gerubriceerde gegevens:* gegevens of materiaal, ongeacht de vorm, aard, of wijze van verzending ervan, waaraan een bepaald niveau van veiligheidsclassificatie of een beveiligingsniveau is toegekend en die in het belang van de nationale veiligheid en uit hoofde van wettelijke voorschriften, van bindende aanwijzingen gegeven vanwege het Rijk of van bestuursrechtelijke besluiten, beschermd moeten worden tegen ontvreemding, vernietiging, verwijdering, onthulling, verlies of toegang tot die gegevens of dat materiaal door een onbevoegde, of tegen enige andere vorm van compromittering;
 
-- **gevoelig materiaal:** materiaal bestemd voor veiligheidsdoeleinden dat op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat zelf gerubriceerde gegevens bevat;
+- *gevoelig materiaal:* materiaal bestemd voor veiligheidsdoeleinden dat op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat zelf gerubriceerde gegevens bevat;
 
-- **gevoelig werk:** een werk bestemd voor veiligheidsdoeleinden dat op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat zelf gerubriceerde gegevens bevat;
+- *gevoelig werk:* een werk bestemd voor veiligheidsdoeleinden dat op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat zelf gerubriceerde gegevens bevat;
 
-- **gevoelige dienst:** een dienst bestemd voor veiligheidsdoeleinden die op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat gerubriceerde gegevens bevat;
+- *gevoelige dienst:* een dienst bestemd voor veiligheidsdoeleinden die op gerubriceerde gegevens betrekking heeft, dat gerubriceerde gegevens noodzakelijk maakt, of dat gerubriceerde gegevens bevat;
 
-- **gunningsbeslissing:** de keuze van de aanbestedende dienst of het speciale sectorbedrijf voor de ondernemer met wie hij voornemens is de overeenkomst waarop de procedure betrekking had te sluiten, waaronder mede wordt verstaan de keuze om geen overeenkomst te sluiten;
+- *gunningsbeslissing:* de keuze van de aanbestedende dienst of het speciale sectorbedrijf voor de ondernemer met wie hij voornemens is de overeenkomst waarop de procedure betrekking had te sluiten, waaronder mede wordt verstaan de keuze om geen overeenkomst te sluiten;
 
-- **inschrijver:** een ondernemer die een inschrijving heeft ingediend;
+- *inschrijver:* een ondernemer die een inschrijving heeft ingediend;
 
-- **levenscyclus:** de opeenvolgende fasen die een product doorloopt, bestaande uit onderzoek en ontwikkeling, industriële ontwikkeling, productie, reparatie, modernisering, aanpassing, onderhoud, logistiek, opleiding, testen, buiten gebruik stellen en afstoting;
+- *levenscyclus:* de opeenvolgende fasen die een product doorloopt, bestaande uit onderzoek en ontwikkeling, industriële ontwikkeling, productie, reparatie, modernisering, aanpassing, onderhoud, logistiek, opleiding, testen, buiten gebruik stellen en afstoting;
 
-- **leverancier:** een ieder die producten op de markt aanbiedt;
+- *leverancier:* een ieder die producten op de markt aanbiedt;
 
-- **lidstaat:** lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
+- *lidstaat:* lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- **mededeling van de gunningsbeslissing:** een schriftelijke kennisgeving die voldoet aan de in [artikel 2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.121&z=2019-04-18&g=2019-04-18) gestelde eisen;
+- *mededeling van de gunningsbeslissing:* een schriftelijke kennisgeving die voldoet aan de in [artikel 2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.121&z=2019-04-18&g=2019-04-18) gestelde eisen;
 
-- **militair materiaal:** materiaal dat specifiek is ontworpen voor of aangepast aan militaire doeleinden en dat bedoeld is voor gebruik als wapen, munitie of oorlogsmateriaal;
+- *militair materiaal:* materiaal dat specifiek is ontworpen voor of aangepast aan militaire doeleinden en dat bedoeld is voor gebruik als wapen, munitie of oorlogsmateriaal;
 
-- **niet-openbare procedure:** procedure waarbij alle ondernemers een verzoek mogen doen tot deelneming, maar alleen de door de aanbestedende dienst of het speciale-sectorbedrijf geselecteerde ondernemers mogen inschrijven;
+- *niet-openbare procedure:* procedure waarbij alle ondernemers een verzoek mogen doen tot deelneming, maar alleen de door de aanbestedende dienst of het speciale-sectorbedrijf geselecteerde ondernemers mogen inschrijven;
 
-- **onderhandelingsprocedure:** procedure waarbij de aanbestedende dienst of het speciale-sectorbedrijf met door hem geselecteerde ondernemers overleg pleegt en door middel van onderhandelingen met een of meer van hen de voorwaarden voor de opdracht vaststelt;
+- *onderhandelingsprocedure:* procedure waarbij de aanbestedende dienst of het speciale-sectorbedrijf met door hem geselecteerde ondernemers overleg pleegt en door middel van onderhandelingen met een of meer van hen de voorwaarden voor de opdracht vaststelt;
 
-- **ondernemer:** een aannemer, leverancier of dienstverlener;
+- *ondernemer:* een aannemer, leverancier of dienstverlener;
 
-- **onderzoek en ontwikkeling:** alle activiteiten die fundamenteel onderzoek, toegepast onderzoek en experimentele ontwikkeling inhouden, waarbij experimentele ontwikkeling de totstandkoming kan omvatten van technologische demonstratiemodellen, inhoudende middelen om de prestaties te tonen van een nieuw concept of een nieuwe technologie in een relevante of een representatieve omgeving;
+- *onderzoek en ontwikkeling:* alle activiteiten die fundamenteel onderzoek, toegepast onderzoek en experimentele ontwikkeling inhouden, waarbij experimentele ontwikkeling de totstandkoming kan omvatten van technologische demonstratiemodellen, inhoudende middelen om de prestaties te tonen van een nieuw concept of een nieuwe technologie in een relevante of een representatieve omgeving;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- **opdracht:** een opdracht voor werken, een opdracht voor leveringen, een opdracht voor diensten of een raamovereenkomst;
+- *opdracht:* een opdracht voor werken, een opdracht voor leveringen, een opdracht voor diensten of een raamovereenkomst;
 
-- **opdracht voor diensten:** een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer dienstverleners en een of meer aanbestedende diensten of speciale-sectorbedrijven en die:
+- *opdracht voor diensten:* een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer dienstverleners en een of meer aanbestedende diensten of speciale-sectorbedrijven en die:
 
-- a. uitsluitend betrekking heeft op het verrichten van in bijlage I of II van [richtlijn nr. 2009/81/EG](32009L0081) aangewezen diensten,
+   - a. uitsluitend betrekking heeft op het verrichten van in bijlage I of II van richtlijn nr. 2009/81/EG aangewezen diensten,
 
-- b. betrekking heeft op het leveren van producten en het verrichten van diensten als bedoeld in onderdeel a, indien de waarde van die diensten hoger is dan de waarde van de te leveren producten, of
+   - b. betrekking heeft op het leveren van producten en het verrichten van diensten als bedoeld in onderdeel a, indien de waarde van die diensten hoger is dan de waarde van de te leveren producten, of
 
-- c. betrekking heeft op het verrichten van in bijlage I of II van [richtlijn nr. 2009/81/EG](32009L0081) aangewezen diensten en die slechts zijdelings betrekking hebben op werkzaamheden die in het kader van afdeling 45 van de CPV zijn aangewezen;
+   - c. betrekking heeft op het verrichten van in bijlage I of II van richtlijn nr. 2009/81/EG aangewezen diensten en die slechts zijdelings betrekking hebben op werkzaamheden die in het kader van afdeling 45 van de CPV zijn aangewezen;
 
-- **opdracht voor leveringen:** een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer leveranciers en een of meer aanbestedende diensten of speciale-sectorbedrijven en die betrekking heeft op:
+- *opdracht voor leveringen:* een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer leveranciers en een of meer aanbestedende diensten of speciale-sectorbedrijven en die betrekking heeft op:
 
-- a. de aankoop, leasing, huur of huurkoop, met of zonder koopoptie, van producten of
+   - a. de aankoop, leasing, huur of huurkoop, met of zonder koopoptie, van producten of
 
-- b. de levering van producten en die slechts zijdeling betrekking heeft op werkzaamheden voor het aanbrengen en installeren van die levering;
+   - b. de levering van producten en die slechts zijdeling betrekking heeft op werkzaamheden voor het aanbrengen en installeren van die levering;
 
-- **opdracht voor werken:** een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer aannemers en een of meer aanbestedende diensten of specialesectorbedrijven en die betrekking heeft op:
+- *opdracht voor werken:* een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een of meer aannemers en een of meer aanbestedende diensten of specialesectorbedrijven en die betrekking heeft op:
 
-- a. de uitvoering of het ontwerp en de uitvoering van werken in het kader van in afdeling 45 van de CPV aangewezen werkzaamheden,
+   - a. de uitvoering of het ontwerp en de uitvoering van werken in het kader van in afdeling 45 van de CPV aangewezen werkzaamheden,
 
-- b. de uitvoering of het ontwerp en de uitvoering van een werk, of
+   - b. de uitvoering of het ontwerp en de uitvoering van een werk, of
 
-- c. het laten uitvoeren met welke middelen dan ook van een werk dat aan de door de aanbestedende dienst of het speciale-sectorbedrijf vastgestelde eisen voldoet;
+   - c. het laten uitvoeren met welke middelen dan ook van een werk dat aan de door de aanbestedende dienst of het speciale-sectorbedrijf vastgestelde eisen voldoet;
 
-- **opdracht in onderaanneming:** een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een inschrijver waaraan een opdracht is gegund en één of meer ondernemers ten behoeve van de uitvoering van die opdracht en die betrekking heeft op werken, leveringen van producten of het verrichten van diensten;
+- *opdracht in onderaanneming:* een schriftelijke overeenkomst onder bezwarende titel die is gesloten tussen een inschrijver waaraan een opdracht is gegund en één of meer ondernemers ten behoeve van de uitvoering van die opdracht en die betrekking heeft op werken, leveringen van producten of het verrichten van diensten;
 
-- **procedure van de concurrentiegerichte dialoog:** procedure waarbij alle ondernemers een verzoek mogen doen tot deelneming en waarbij de aanbestedende dienst of het speciale-sectorbedrijf een dialoog voert met de tot de procedure toegelaten ondernemers, teneinde een of meer oplossingen te zoeken die aan de behoeften van de aanbestedende dienst of het speciale-sectorbedrijf beantwoorden en op grond waarvan de geselecteerde ondernemers zullen worden uitgenodigd om in te schrijven;
+- *procedure van de concurrentiegerichte dialoog:* procedure waarbij alle ondernemers een verzoek mogen doen tot deelneming en waarbij de aanbestedende dienst of het speciale-sectorbedrijf een dialoog voert met de tot de procedure toegelaten ondernemers, teneinde een of meer oplossingen te zoeken die aan de behoeften van de aanbestedende dienst of het speciale-sectorbedrijf beantwoorden en op grond waarvan de geselecteerde ondernemers zullen worden uitgenodigd om in te schrijven;
 
-- **publiekrechtelijke instelling:** een instelling die specifiek ten doel heeft te voorzien in behoeften van algemeen belang, anders dan van industriële of commerciële aard, die rechtspersoonlijkheid bezit en waarvan:
+- *publiekrechtelijke instelling:* een instelling die specifiek ten doel heeft te voorzien in behoeften van algemeen belang, anders dan van industriële of commerciële aard, die rechtspersoonlijkheid bezit en waarvan:
 
-- a. de activiteiten in hoofdzaak door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling worden gefinancierd,
+   - a. de activiteiten in hoofdzaak door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling worden gefinancierd,
 
-- b. het beheer is onderworpen aan toezicht door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling of
+   - b. het beheer is onderworpen aan toezicht door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling of
 
-- c. de leden van het bestuur, het leidinggevend of toezichthoudend orgaan voor meer dan de helft door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling zijn aangewezen;
+   - c. de leden van het bestuur, het leidinggevend of toezichthoudend orgaan voor meer dan de helft door de staat, een provincie, een gemeente, een waterschap of een andere publiekrechtelijke instelling zijn aangewezen;
 
-- **raamovereenkomst:** een schriftelijke overeenkomst tussen een of meer aanbestedende diensten of speciale-sectorbedrijven en een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden inzake te plaatsen opdrachten vast te leggen;
+- *raamovereenkomst:* een schriftelijke overeenkomst tussen een of meer aanbestedende diensten of speciale-sectorbedrijven en een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden inzake te plaatsen opdrachten vast te leggen;
 
-- **richtlijn nr. 2009/81/EG:** [richtlijn 2009/81/EG](32009L0081) van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van [richtlijnen 2004/17/EG](32004L0017) en [2004/18/EG](32004L0018) (PbEU L 216);
+- *richtlijn nr. 2009/81/EG:*
+ richtlijn 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (PbEU L 216);
 
-- **richtlijn 2014/55/EU:** [richtlijn 2014/55](32014L0055)/EU van het Europees Parlement en de Raad van 16 april 2014 inzake elektronische facturering bij overheidsopdrachten (PbEU 2014, L 133);
+- *richtlijn 2014/55/EU:*
+ richtlijn 2014/55/EU van het Europees Parlement en de Raad van 16 april 2014 inzake elektronische facturering bij overheidsopdrachten (PbEU 2014, L 133);
 
-- **schriftelijk:** elk uit woorden of cijfers bestaand geheel dat kan worden gelezen, gereproduceerd en vervolgens medegedeeld, daaronder begrepen met elektronische middelen overgebrachte of opgeslagen informatie;
+- *schriftelijk:* elk uit woorden of cijfers bestaand geheel dat kan worden gelezen, gereproduceerd en vervolgens medegedeeld, daaronder begrepen met elektronische middelen overgebrachte of opgeslagen informatie;
 
-- **speciale-sectorbedrijf:** een speciale-sectorbedrijf als bedoeld in [artikel 1.1 van Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1);
+- *speciale-sectorbedrijf:* een speciale-sectorbedrijf als bedoeld in [artikel 1.1 van Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1);
 
-- **werk:** het product van het geheel van bouwkundige of civieltechnische werken dat ertoe bestemd is als zodanig een economische of technische functie te vervullen.
+- *werk:* het product van het geheel van bouwkundige of civieltechnische werken dat ertoe bestemd is als zodanig een economische of technische functie te vervullen.
 
 ##### Artikel 1.2
 
-1. Een wijziging van bijlage I of bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) gaat voor de toepassing van de in deze wet gegeven omschrijving van opdracht voor diensten gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+1. Een wijziging van bijlage I of bijlage II van richtlijn nr. 2009/81/EG gaat voor de toepassing van de in deze wet gegeven omschrijving van opdracht voor diensten gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
@@ -197,11 +170,11 @@ Een aanbestedende dienst of een speciale-sectorbedrijf stelt bij de voorbereidin
 
 Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet binnen de Europese Unie gevestigd zijn van deelname aan een aanbestedingsprocedure uitsluiten, tenzij dit niet is toegestaan op grond van een voor Nederland verbindend verdrag of besluit.
 
-## Deel 2. **Opdrachten**
+## Deel 2. Opdrachten
 
 ### Hoofdstuk 2.1. Reikwijdte
 
-### Afdeling 2.1.1. Toepassingsgebied en -bereik
+#### Afdeling 2.1.1. Toepassingsgebied en -bereik
 
 #### § 2.1.1.1. Toepassingsgebied
 
@@ -233,15 +206,15 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 1. Het bepaalde bij of krachtens deze wet is van toepassing op opdrachten voor:
 
-- a. leveringen en diensten waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel a, van [richtlijn nr. 2009/81/EG](32009L0081) genoemde bedrag, exclusief omzetbelasting;
+- a. leveringen en diensten waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel a, van richtlijn nr. 2009/81/EG genoemde bedrag, exclusief omzetbelasting;
 
-- b. werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel b, van [richtlijn nr. 2009/81/EG](32009L0081) genoemde bedrag, exclusief omzetbelasting.
+- b. werken waarvan de geraamde waarde gelijk is aan of hoger is dan het in artikel 8, onderdeel b, van richtlijn nr. 2009/81/EG genoemde bedrag, exclusief omzetbelasting.
 
 2. Ongeacht de geraamde waarde van een opdracht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2019-04-18&g=2019-04-18) zijn de [hoofdstukken 1.2 tot en met 1.4 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&hoofdstuk=1.2) daarop niet van toepassing.
 
 ##### Artikel 2.4
 
-1. Een wijziging van de bedragen, genoemd in artikel 8 van [richtlijn nr. 2009/81/EG](32009L0081) gaat voor de toepassing van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.2&artikel=2.3&z=2019-04-18&g=2019-04-18) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+1. Een wijziging van de bedragen, genoemd in artikel 8 van richtlijn nr. 2009/81/EG gaat voor de toepassing van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.2&artikel=2.3&z=2019-04-18&g=2019-04-18) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
@@ -251,7 +224,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 2. In het in het eerste lid bedoelde geval heeft de desbetreffende aanbestedende dienst of het speciale-sectorbedrijf voldaan aan de voor hem geldende verplichtingen op grond van deze wet.
 
-### Afdeling 2.1.2. Raming van de waarde
+#### Afdeling 2.1.2. Raming van de waarde
 
 #### § 2.1.2.1. Algemene bepalingen
 
@@ -329,7 +302,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van opdrac
 
 - b. de geraamde totale waarde van de soortgelijke opeenvolgende opdrachten voor leveringen of voor diensten over de twaalf maanden die volgen op de eerste levering of dienstverrichting of over het boekjaar van de eerste levering of dienstverrichting, indien dat boekjaar zich over meer dan twaalf maanden uitstrekt.
 
-### Afdeling 2.1.3. Uitgezonderde opdrachten
+#### Afdeling 2.1.3. Uitgezonderde opdrachten
 
 ##### Artikel 2.15
 
@@ -371,7 +344,7 @@ In afwijking van de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 2.2. Procedures voor het plaatsen van opdrachten
 
-### Afdeling 2.2.1. Niet-openbare procedure en onderhandelingsprocedure met aankondiging
+#### Afdeling 2.2.1. Niet-openbare procedure en onderhandelingsprocedure met aankondiging
 
 ##### Artikel 2.18
 
@@ -431,7 +404,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 - l. maakt de aankondiging van de gegunde opdracht bekend.
 
-### Afdeling 2.2.2. Uitzonderingen op de toepassing van de niet-openbare procedure en onderhandelingsprocedure met aankondiging
+#### Afdeling 2.2.2. Uitzonderingen op de toepassing van de niet-openbare procedure en onderhandelingsprocedure met aankondiging
 
 #### § 2.2.2.1. Procedure van de concurrentiegerichte dialoog
 
@@ -503,9 +476,9 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de procedure van d
 
 - c. voor door de oorspronkelijke leverancier verrichte aanvullende leveringen die bestemd zijn:
 
-- 1°. voor gedeeltelijke vervanging van leveringen of installaties voor courant gebruik, of
+   - 1°. voor gedeeltelijke vervanging van leveringen of installaties voor courant gebruik, of
 
-- 2°. voor de uitbreiding van bestaande leveringen of installaties, indien verandering van leverancier de aanbestedende dienst of het speciale-sectorbedrijf ertoe zou verplichten materiaal aan te schaffen met andere technische eigenschappen die niet verenigbaar zijn met de technische eigenschappen van reeds geleverd materiaal of zich bij gebruik en onderhoud van aan te schaffen materiaal onevenredige technische moeilijkheden voordoen,
+   - 2°. voor de uitbreiding van bestaande leveringen of installaties, indien verandering van leverancier de aanbestedende dienst of het speciale-sectorbedrijf ertoe zou verplichten materiaal aan te schaffen met andere technische eigenschappen die niet verenigbaar zijn met de technische eigenschappen van reeds geleverd materiaal of zich bij gebruik en onderhoud van aan te schaffen materiaal onevenredige technische moeilijkheden voordoen,
 
 - d. voor op een grondstoffenmarkt genoteerde en aangekochte leveringen, of
 
@@ -557,9 +530,9 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 ##### Artikel 2.29
 
-1. De aanbestedende dienst of het speciale-sectorbedrijf kan voor een opdracht betreffende diensten die zijn opgenomen in bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) de procedure voor bijlage II diensten toepassen.
+1. De aanbestedende dienst of het speciale-sectorbedrijf kan voor een opdracht betreffende diensten die zijn opgenomen in bijlage II van richtlijn nr. 2009/81/EG de procedure voor bijlage II diensten toepassen.
 
-2. Indien de opdracht, bedoeld in het eerste lid, zowel betrekking heeft op diensten als bedoeld in bijlage I van [richtlijn nr. 2009/81/EG](32009L0081) als op diensten als bedoeld in bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) kan de aanbestedende dienst of het speciale-sectorbedrijf de procedure voor bijlage II diensten toepassen indien de geraamde waarde van de bijlage II diensten gelijk is aan of hoger is dan die van de bijlage I diensten.
+2. Indien de opdracht, bedoeld in het eerste lid, zowel betrekking heeft op diensten als bedoeld in bijlage I van richtlijn nr. 2009/81/EG als op diensten als bedoeld in bijlage II van richtlijn nr. 2009/81/EG kan de aanbestedende dienst of het speciale-sectorbedrijf de procedure voor bijlage II diensten toepassen indien de geraamde waarde van de bijlage II diensten gelijk is aan of hoger is dan die van de bijlage I diensten.
 
 ##### Artikel 2.30
 
@@ -575,7 +548,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 3. In afwijking van het tweede lid maakt de aanbestedende dienst of het speciale-sectorbedrijf een aankondiging van het voornemen tot het plaatsen van de opdracht bekend op het elektronische systeem voor aanbestedingen, indien die opdracht een duidelijk grensoverschrijdend belang heeft.
 
-### Afdeling 2.2.3. Bijzondere procedure voor het sluiten van een raamovereenkomst
+#### Afdeling 2.2.3. Bijzondere procedure voor het sluiten van een raamovereenkomst
 
 ##### Artikel 2.31
 
@@ -617,7 +590,7 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil 
 
 ### Hoofdstuk 2.3. Regels inzake aankondiging, uitsluiting, selectie en gunning
 
-### Afdeling 2.3.1. Algemeen
+#### Afdeling 2.3.1. Algemeen
 
 #### § 2.3.1.1. Ondernemers
 
@@ -669,7 +642,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf neemt passende maatregele
 
 2. Onverminderd het in deze wet bepaalde maakt een aanbestedende dienst of een speciale-sectorbedrijf geen informatie openbaar uit aanbestedingsstukken of andere documenten die de dienst heeft opgesteld in verband met een aanbestedingsprocedure, indien die informatie kan worden gebruikt om de mededinging te vervalsen.
 
-### Afdeling 2.3.2. Aankondigingen
+#### Afdeling 2.3.2. Aankondigingen
 
 #### § 2.3.2.1. Vooraankondiging
 
@@ -765,7 +738,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf stelt de termijn voor het 
 
 3. Indien de aanbestedende dienst of het speciale-sectorbedrijf een vooraankondiging als bedoeld in [paragraaf 2.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&z=2019-04-18&g=2019-04-18) heeft gedaan, kan hij de termijn voor het indienen van de inschrijvingen, bedoeld in het tweede lid, inkorten tot 36 dagen, maar in geen geval tot minder dan 22 dagen.
 
-4. Het inkorten van de termijn, bedoeld in het derde lid, is uitsluitend toegestaan, indien de vooraankondiging alle informatie bevat die in de aankondiging van de opdracht, bedoeld in bijlage IV van [richtlijn nr. 2009/81/EG](32009L0081), wordt verlangd, voor zover deze informatie beschikbaar is op het tijdstip dat de vooraankondiging wordt bekendgemaakt en mits deze vooraankondiging ten minste 52 dagen en ten hoogste 12 maanden voor de verzenddatum van de aankondiging van de opdracht ter bekendmaking is verzonden.
+4. Het inkorten van de termijn, bedoeld in het derde lid, is uitsluitend toegestaan, indien de vooraankondiging alle informatie bevat die in de aankondiging van de opdracht, bedoeld in bijlage IV van richtlijn nr. 2009/81/EG, wordt verlangd, voor zover deze informatie beschikbaar is op het tijdstip dat de vooraankondiging wordt bekendgemaakt en mits deze vooraankondiging ten minste 52 dagen en ten hoogste 12 maanden voor de verzenddatum van de aankondiging van de opdracht ter bekendmaking is verzonden.
 
 ##### Artikel 2.55
 
@@ -779,11 +752,11 @@ Indien de tijdig aangevraagde aanbestedingsstukken en de aanvullende stukken of 
 
 Indien om dringende redenen de in de [artikelen 2.54 tot en met 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.54&z=2019-04-18&g=2019-04-18) bepaalde termijnen niet in acht kunnen worden genomen, kan een aanbestedende dienst of een speciale-sectorbedrijf bij een niet-openbare procedure, de procedure van de concurrentiegerichte dialoog of een onderhandelingsprocedure met aankondiging, de volgende termijnen vaststellen:
 
-- a. een termijn voor het indienen van de verzoeken tot deelneming van ten minste vijftien dagen, te rekenen vanaf de verzenddatum van de aankondiging van de opdracht, of tien dagen indien de aankondiging elektronisch is verzonden overeenkomstig het model in het derde punt van bijlage VI van [richtlijn nr. 2009/81/EG](32009L0081);
+- a. een termijn voor het indienen van de verzoeken tot deelneming van ten minste vijftien dagen, te rekenen vanaf de verzenddatum van de aankondiging van de opdracht, of tien dagen indien de aankondiging elektronisch is verzonden overeenkomstig het model in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG;
 
 - b. in het geval van de niet-openbare procedure en de procedure van de concurrentiegerichte dialoog, een termijn voor het indienen van de inschrijvingen van ten minste tien dagen, te rekenen vanaf de verzenddatum van de uitnodiging tot het indienen van een inschrijving.
 
-### Afdeling 2.3.3. Bestek
+#### Afdeling 2.3.3. Bestek
 
 #### § 2.3.3.1. Technische specificaties
 
@@ -1007,7 +980,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 5. Bij procedures voor het gunnen van opdrachten voor leveringen of opdrachten voor diensten wijst een aanbestedende dienst of een speciale-sectorbedrijf die varianten heeft toegestaan, een variant niet af uitsluitend omdat deze variant, indien deze werd gekozen, veeleer tot een opdracht voor diensten dan tot een opdracht voor leveringen, dan wel veeleer tot een opdracht voor leveringen dan tot een opdracht voor diensten zou leiden.
 
-### Afdeling 2.3.4. Eigen verklaring
+#### Afdeling 2.3.4. Eigen verklaring
 
 ##### Artikel 2.74
 
@@ -1023,7 +996,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf kan een ondernemer uitsluitend verzoeken bewijsstukken bij zijn eigen verklaring te voegen die geen betrekking hebben op gegevens en inlichtingen die in de eigen verklaring gevraagd kunnen worden, tenzij het bewijsstukken betreft die genoemd zijn in [artikel 2.83, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.83&z=2019-04-18&g=2019-04-18).
 
-### Afdeling 2.3.5. Uitsluiting
+#### Afdeling 2.3.5. Uitsluiting
 
 #### § 2.3.5.1. Uitsluitingsgronden
 
@@ -1041,7 +1014,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 - d. terroristisch misdrijf of strafbaar feit in verband met terroristische activiteiten in de zin van respectievelijk de artikelen 1 en 3 van het Kaderbesluit van de Raad inzake terrorismebestrijding (PbEG 2002, L 164), dan wel uitlokking van, medeplichtigheid aan of poging tot het plegen van een dergelijk misdrijf of strafbaar feit als bedoeld in artikel 4 van dat Kaderbesluit;
 
-- e. witwassen van geld en financiering van terrorisme in de zin van artikel 1 van [richtlijn nr. 2005/60/EG](32005L0060) van het Europees Parlement en de Raad van 26 oktober 2005 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en de financiering van terrorisme (PbEU L 309).
+- e. witwassen van geld en financiering van terrorisme in de zin van artikel 1 van richtlijn nr. 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en de financiering van terrorisme (PbEU L 309).
 
 3. Als veroordelingen als bedoeld in het tweede lid worden in ieder geval aangemerkt veroordelingen op grond van [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140a), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [226](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=226), [227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227a), [227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227b), [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), of [323a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=323a), [328ter, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328ter), [420bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), [420ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420ter) of [420quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420quater) of veroordelingen wegens overtreding van de in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) bedoelde misdrijven, indien aan het bepaalde in dat artikel is voldaan.
 
@@ -1087,7 +1060,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 4. Een aanbestedende dienst of een speciale-sectorbedrijf aan welke een gegadigde of inschrijver gegevens overlegt ten bewijze dat de uitsluitingsgronden, bedoeld in [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.76&z=2019-04-18&g=2019-04-18) of [artikel 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18), niet op hem van toepassing zijn, aanvaardt ook gegevens en bescheiden uit een andere lidstaat die een gelijkwaardig doel dienen of waaruit blijkt dat de uitsluitingsgrond niet op hem van toepassing is.
 
-### Afdeling 2.3.6. Geschiktheidseisen en selectiecriteria
+#### Afdeling 2.3.6. Geschiktheidseisen en selectiecriteria
 
 #### § 2.3.6.1. Geschiktheidseisen
 
@@ -1231,7 +1204,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 2. Bij toepassing van het eerste lid kan de aanbestedende dienst of het speciale-sectorbedrijf de ondernemer vragen de uit hoofde van de [artikelen 2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.75&z=2019-04-18&g=2019-04-18) en [2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.79&z=2019-04-18&g=2019-04-18) en de [artikelen 2.81 tot en met 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.81&z=2019-04-18&g=2019-04-18) overgelegde verklaringen en bescheiden nader toe te lichten en aan te vullen.
 
-### Afdeling 2.3.7. Mededeling van uitsluiting en afwijzing
+#### Afdeling 2.3.7. Mededeling van uitsluiting en afwijzing
 
 ##### Artikel 2.94
 
@@ -1255,7 +1228,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat een mededeling als
 
 - d. afbreuk zou kunnen doen aan de eerlijke mededinging tussen ondernemers.
 
-### Afdeling 2.3.8. Gunningsfase
+#### Afdeling 2.3.8. Gunningsfase
 
 #### § 2.3.8.1. Uitnodiging tot inschrijving
 
@@ -1583,9 +1556,9 @@ De aanbestedende dienst of het speciale-sectorbedrijf stelt over de gunning van 
 
 - j. in geval van de onderhandelingsprocedure zonder aankondiging, de in [paragraaf 2.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&z=2019-04-18&g=2019-04-18) genoemde omstandigheden die de toepassing van de procedure rechtvaardigen en, indien van toepassing een motivering voor de overschrijding:
 
-- 1°. van de termijn van vijf jaren, bedoeld in [artikel 2.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.24&z=2019-04-18&g=2019-04-18) of [artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.26&z=2019-04-18&g=2019-04-18);
+   - 1°. van de termijn van vijf jaren, bedoeld in [artikel 2.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.24&z=2019-04-18&g=2019-04-18) of [artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.26&z=2019-04-18&g=2019-04-18);
 
-- 2°. van de 50 procent van het bedrag van de oorspronkelijke opdracht, bedoeld in [artikel 2.25, ten derde](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.25&z=2019-04-18&g=2019-04-18);
+   - 2° van de 50 procent van het bedrag van de oorspronkelijke opdracht, bedoeld in [artikel 2.25, ten derde](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.25&z=2019-04-18&g=2019-04-18);
 
 - k. in geval van uitzonderlijke omstandigheden als bedoeld in [artikel 2.129, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.129&z=2019-04-18&g=2019-04-18), een motivering voor een langere looptijd van een raamovereenkomst dan zeven jaar;
 
@@ -1619,7 +1592,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf maakt bepaalde gegevens be
 
 ### Hoofdstuk 2.4. Voorschriften voor de bijzondere procedures
 
-### Afdeling 2.4.1. Bijzondere voorschriften bij het plaatsen van een opdracht via een raamovereenkomst
+#### Afdeling 2.4.1. Bijzondere voorschriften bij het plaatsen van een opdracht via een raamovereenkomst
 
 ##### Artikel 2.128
 
@@ -1653,15 +1626,15 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 - b. indien niet alle voorwaarden in de raamovereenkomst zijn bepaald, door de partijen opnieuw tot mededinging op te roepen onder de in de raamovereenkomst of in de aanbestedingsstukken van de raamovereenkomst bepaalde voorwaarden, volgens de onderstaande procedure:
 
-- 1°. voor een te gunnen opdracht raadpleegt de aanbestedende dienst of het speciale-sectorbedrijf schriftelijk de ondernemers die in staat zijn de opdracht uit te voeren,
+   - 1°. voor een te gunnen opdracht raadpleegt de aanbestedende dienst of het speciale-sectorbedrijf schriftelijk de ondernemers die in staat zijn de opdracht uit te voeren,
 
-- 2°. de aanbestedende dienst of het speciale-sectorbedrijf stelt een voldoende lange termijn vast voor het indienen van inschrijvingen voor een specifieke opdracht, waarbij hij rekening houdt met elementen zoals de complexiteit van het voorwerp van de opdracht en de benodigde tijd voor de toezending van de inschrijvingen,
+   - 2°. de aanbestedende dienst of het speciale-sectorbedrijf stelt een voldoende lange termijn vast voor het indienen van inschrijvingen voor een specifieke opdracht, waarbij hij rekening houdt met elementen zoals de complexiteit van het voorwerp van de opdracht en de benodigde tijd voor de toezending van de inschrijvingen,
 
-- 3°. de inschrijvingen worden schriftelijk ingediend en de inhoud ervan blijft vertrouwelijk totdat de vastgestelde indieningstermijn is verstreken,
+   - 3°. de inschrijvingen worden schriftelijk ingediend en de inhoud ervan blijft vertrouwelijk totdat de vastgestelde indieningstermijn is verstreken,
 
-- 4°. de aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht aan de inschrijver die op grond van de in de aanbestedingsstukken van de raamovereenkomst vastgestelde gunningscriteria de beste inschrijving heeft ingediend.
+   - 4°. de aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht aan de inschrijver die op grond van de in de aanbestedingsstukken van de raamovereenkomst vastgestelde gunningscriteria de beste inschrijving heeft ingediend.
 
-### Afdeling 2.4.2. Bijzondere voorschriften bij het plaatsen van een opdracht in onderaanneming
+#### Afdeling 2.4.2. Bijzondere voorschriften bij het plaatsen van een opdracht in onderaanneming
 
 #### § 2.4.2.1. Algemene bepalingen en toepasselijkheid
 
@@ -1701,19 +1674,19 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 ##### Artikel 2.137
 
-1. Een aankondiging van een opdracht in onderaanneming als bedoeld in [artikel 2.136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.136&z=2019-04-18&g=2019-04-18), bevat de informatie, bedoeld in bijlage V van [richtlijn nr. 2009/81/EG](32009L0081) en, indien nodig met goedkeuring van de aanbestedende dienst of het speciale-sectorbedrijf, alle andere informatie die de inschrijver nuttig acht.
+1. Een aankondiging van een opdracht in onderaanneming als bedoeld in [artikel 2.136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.136&z=2019-04-18&g=2019-04-18), bevat de informatie, bedoeld in bijlage V van richtlijn nr. 2009/81/EG en, indien nodig met goedkeuring van de aanbestedende dienst of het speciale-sectorbedrijf, alle andere informatie die de inschrijver nuttig acht.
 
-2. Een aankondiging van een opdracht in onderaanneming wordt opgesteld door middel van het formulier dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van [richtlijn nr. 2009/81/EG](32009L0081) bedoelde procedure is vastgesteld.
+2. Een aankondiging van een opdracht in onderaanneming wordt opgesteld door middel van het formulier dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van richtlijn nr. 2009/81/EG bedoelde procedure is vastgesteld.
 
 ##### Artikel 2.138
 
-1. Een aankondiging van een opdracht in onderaanneming wordt met gebruikmaking van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), ter bekendmaking naar de Europese Commissie langs elektronische weg op de wijze, bedoeld in het derde punt van bijlage VI van [richtlijn nr. 2009/81/EG](32009L0081) of met andere middelen verzonden.
+1. Een aankondiging van een opdracht in onderaanneming wordt met gebruikmaking van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), ter bekendmaking naar de Europese Commissie langs elektronische weg op de wijze, bedoeld in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG of met andere middelen verzonden.
 
 2. De bekendmaking van de aankondiging, bedoeld in het eerste lid, kan geschieden door middel van het elektronisch systeem voor aanbestedingen.
 
 ##### Artikel 2.139
 
-1. Een door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van [richtlijn nr. 2009/81/EG](32009L0081) bedoelde procedure vastgestelde wijziging van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), of van de wijze van verzending, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.138&z=2019-04-18&g=2019-04-18), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+1. Een door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van richtlijn nr. 2009/81/EG bedoelde procedure vastgestelde wijziging van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), of van de wijze van verzending, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.138&z=2019-04-18&g=2019-04-18), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
@@ -1761,25 +1734,63 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 5. Een inschrijver als bedoeld in het eerste lid gebruikt een raamovereenkomst niet om de mededinging te hinderen, te beperken of te vervalsen en maakt geen oneigenlijk gebruik van een raamovereenkomst.
 
-## Deel 3. **Overige bepalingen**
+## Deel 3. Overige bepalingen
 
 ### Hoofdstuk 3.1. Overige bepalingen
 
-### Afdeling 3.1.1. Nadere regels ter uitvoering van [richtlijn nr. 2009/81/eg](32009L0081)
+#### Afdeling 3.1.1. Nadere regels ter uitvoering van richtlijn nr. 2009/81/eg
 
 ##### Artikel 3.1
 
-1. Ter uitvoering van [richtlijn nr. 2009/81/EG](32009L0081) en [richtlijn 2014/55](32014L0055)/EU worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld omtrent:
+1. Ter uitvoering van richtlijn nr. 2009/81/EG en richtlijn 2014/55/EU worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld omtrent:
 
 - a. het gebruik van de elektronische weg: voorwaarden die de aanbestedende dienst of het speciale-sectorbedrijf voor het gebruik daarvan kan stellen;
 
 - b. communicatie tussen aanbestedende dienst of het speciale-sectorbedrijf en ondernemer: de middelen, de wijze waarop gegevens aangeboden en opgeslagen worden, elektronisch indienen van inschrijvingen, elektronisch indienen van certificaten, de wijze waarop verzoeken tot deelneming kunnen worden gedaan en het ontvangen en verwerken van elektronische facturen.
 
-2. Ter uitvoering van [richtlijn nr. 2009/81/EG](32009L0081) kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld omtrent de instelling, afgifte en bewijskracht van certificaten dan wel de instelling van, opname in en bewijskracht van de opname op een erkenningslijst.
+2. Ter uitvoering van richtlijn nr. 2009/81/EG kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld omtrent de instelling, afgifte en bewijskracht van certificaten dan wel de instelling van, opname in en bewijskracht van de opname op een erkenningslijst.
+
+#### Afdeling 3.1.2. Het elektronisch systeem voor aanbesteden
+
+##### Artikel 3.1a
+
+1. Onze Minister draagt er zorg voor dat de met behulp van het elektronisch systeem voor aanbestedingen te vervullen functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a tot en met d, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) tevens strekken tot uitvoering van deze wet en richtlijn nr. 2009/81/EG.
+
+2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toegang tot en aansluiting op het elektronische systeem voor aanbestedingen ten behoeve van het vervullen van de functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a en b, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) ter uitvoering van deze wet en richtlijn nr. 2009/81/EG.
+
+##### Artikel 3.1b
+
+1. Onze Minister stelt door middel van het elektronisch systeem van aanbesteden de door de Europese Commissie met inachtneming van de artikelen 52, tweede lid, en 69 van richtlijn nr. 2009/81/EG vastgestelde formulieren beschikbaar voor:
+
+- a. de vooraankondiging van een opdracht;
+
+- b. de aankondiging van een opdracht;
+
+- c. de aankondiging van een opdracht in onderaanneming;
+
+- d. de aankondiging door middel van een kopersprofiel;
+
+- e. de aankondiging van een gegunde opdracht;
+
+- f. rectificatie van een aankondiging;
+
+- g. de aankondiging, bedoeld in [artikel 3.3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.3&z=2019-04-18&g=2019-04-18),
+
+overeenkomstig het model dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van richtlijn nr. 2009/81/EG bedoelde procedure is vastgesteld.
+
+2. Op verzoek van de aanbestedende dienst of het speciale-sectorbedrijf wijst Onze Minister de Europese Commissie op gegevens die niet voor publicatie bestemd zijn. Deze gegevens worden niet door middel van het elektronisch systeem van aanbesteden bekendgemaakt.
+
+3. Onze Minister draagt er zorg voor dat door middel van het elektronisch systeem van aanbesteden de mededelingen, genoemd in het eerste lid, langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG.
+
+4. Een wijziging van een formulier, bedoeld in artikel 69 van richtlijn nr. 2009/81/EG gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
+
+5. Onze Minister is verwerkingsverantwoordelijke.
+
+6. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het vierde lid.
 
 ### Hoofdstuk 3.2. Vernietigbaarheid en boete
 
-### Afdeling 3.2.1. Vernietigbaarheid
+#### Afdeling 3.2.1. Vernietigbaarheid
 
 ##### Artikel 3.2
 
@@ -1795,9 +1806,9 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 - a. voor het verstrijken van een periode van 30 kalenderdagen ingaande op de dag na de datum waarop
 
-- –. de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging van de gegunde opdracht bekendmaakte overeenkomstig de [artikelen 2.125 tot en met 2.127](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.125&z=2019-04-18&g=2019-04-18) op voorwaarde dat deze aankondiging ook de rechtvaardiging bevat van de beslissing van de aanbestedende dienst of het speciale-sectorbedrijf om de opdracht te gunnen zonder voorafgaande bekendmaking van een aankondiging van de opdracht, of
+   - – de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging van de gegunde opdracht bekendmaakte overeenkomstig de [artikelen 2.125 tot en met 2.127](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.125&z=2019-04-18&g=2019-04-18) op voorwaarde dat deze aankondiging ook de rechtvaardiging bevat van de beslissing van de aanbestedende dienst of het speciale-sectorbedrijf om de opdracht te gunnen zonder voorafgaande bekendmaking van een aankondiging van de opdracht, of
 
-- –. de aanbestedende dienst of het speciale-sectorbedrijf aan de betrokken inschrijvers en gegadigden een kennisgeving zond van de sluiting van de overeenkomst, op voorwaarde dat die kennisgeving vergezeld gaat van de relevante redenen voor de gunningsbeslissing;
+   - – de aanbestedende dienst of het speciale-sectorbedrijf aan de betrokken inschrijvers en gegadigden een kennisgeving zond van de sluiting van de overeenkomst, op voorwaarde dat die kennisgeving vergezeld gaat van de relevante redenen voor de gunningsbeslissing;
 
 - b. in andere gevallen dan bedoeld in onderdeel a, voor het verstrijken van een periode van zes maanden, ingaande op de dag na de datum waarop de overeenkomst is gesloten.
 
@@ -1857,7 +1868,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 2. Onze Minister draagt zorg dat afschriften van uitspraken als bedoeld in het eerste lid eenmaal per jaar aan de Europese Commissie worden gezonden.
 
-### Afdeling 3.2.2. Boete
+#### Afdeling 3.2.2. Boete
 
 ##### Artikel 3.8
 
@@ -1881,7 +1892,7 @@ De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 3.8, 
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf is verplicht mee te werken aan de onderzoeken, bedoeld in het tweede lid.
 
-4. Bij overtreding van het derde lid is [artikel 12m, derde lid, van de Instellingswet Autoriteit Consument en Markt](onbekend) van overeenkomstige toepassing.
+4. Bij overtreding van het derde lid is artikel 12m, derde lid, van de Instellingswet Autoriteit Consument en Markt van overeenkomstige toepassing.
 
 ##### Artikel 3.11
 
@@ -1889,7 +1900,7 @@ Indien de overeenkomst, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1
 
 ##### Artikel 3.12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3.13
 
@@ -1907,25 +1918,29 @@ Indien terzake van een aanbestedingsgeschil arbitrage is overeengekomen:
 
 2. Indien een inschrijver met wie een aanbestedende dienst of een speciale-sectorbedrijf als resultaat van een gunningsbeslissing een overeenkomst heeft gesloten voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet een aankondiging tot het aanbesteden van een opdracht in onderaanneming heeft gedaan dan wel een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbestedingsprocedure het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet.
 
+##### Artikel 3.14a
+
+Tot een jaar na het tijdstip van inwerkingtreding van [artikel 3.15, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.3&artikel=3.15&z=2019-04-18&g=2019-04-18), kan een gegadigde of een inschrijver, in afwijking van [artikel 2.79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.79&z=2019-04-18&g=2019-04-18), door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.76&z=2019-04-18&g=2019-04-18) en [2.77, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18), op hem niet van toepassing zijn.
+
 ##### Artikel 3.15
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 3.16
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 3.17
 
-Wijzigt de Aanbestedingswet 2012.
+*Wijzigt de Aanbestedingswet 2012.*
 
 ##### Artikel 3.18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3.19
 
-Wijzigt deze wet en de Algemene wet bestuursrecht.
+*Wijzigt deze wet en de Algemene wet bestuursrecht.*
 
 ##### Artikel 3.20
 
@@ -1934,57 +1949,3 @@ Deze wet treedt in werking op een bij koninklijk besluit bepaald tijdstip, dat v
 ##### Artikel 3.21
 
 Deze wet wordt aangehaald als: Aanbestedingswet op defensie- en veiligheidsgebied.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-### Afdeling 3.1.2. Het elektronisch systeem voor aanbesteden
-
-##### Artikel 3.1a
-
-1. Onze Minister draagt er zorg voor dat de met behulp van het elektronisch systeem voor aanbestedingen te vervullen functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a tot en met d, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) tevens strekken tot uitvoering van deze wet en richtlijn nr. 2009/81/EG.
-
-2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toegang tot en aansluiting op het elektronische systeem voor aanbestedingen ten behoeve van het vervullen van de functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a en b, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) ter uitvoering van deze wet en richtlijn nr. 2009/81/EG.
-
-##### Artikel 3.1b
-
-1. Onze Minister stelt door middel van het elektronisch systeem van aanbesteden de door de Europese Commissie met inachtneming van de artikelen 52, tweede lid, en 69 van richtlijn nr. 2009/81/EG vastgestelde formulieren beschikbaar voor:
-
-- a. de vooraankondiging van een opdracht;
-
-- b. de aankondiging van een opdracht;
-
-- c. de aankondiging van een opdracht in onderaanneming;
-
-- d. de aankondiging door middel van een kopersprofiel;
-
-- e. de aankondiging van een gegunde opdracht;
-
-- f. rectificatie van een aankondiging;
-
-- g. de aankondiging, bedoeld in [artikel 3.3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.3&z=2019-04-18&g=2019-04-18),
-
-overeenkomstig het model dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van richtlijn nr. 2009/81/EG bedoelde procedure is vastgesteld.
-
-2. Op verzoek van de aanbestedende dienst of het speciale-sectorbedrijf wijst Onze Minister de Europese Commissie op gegevens die niet voor publicatie bestemd zijn. Deze gegevens worden niet door middel van het elektronisch systeem van aanbesteden bekendgemaakt.
-
-3. Onze Minister draagt er zorg voor dat door middel van het elektronisch systeem van aanbesteden de mededelingen, genoemd in het eerste lid, langs elektronische weg ter publicatie worden gezonden aan de Europese Commissie overeenkomstig het model en op de wijze, bedoeld in het derde punt van bijlage VI van richtlijn nr. 2009/81/EG.
-
-4. Een wijziging van een formulier, bedoeld in artikel 69 van richtlijn nr. 2009/81/EG gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
-
-5. Onze Minister is verwerkingsverantwoordelijke.
-
-6. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het vierde lid.
-
-### Hoofdstuk 3.2. Vernietigbaarheid en boete
-
-### Afdeling 3.2.1. Vernietigbaarheid
-
-### Afdeling 3.2.2. Boete
-
-### Hoofdstuk 3.3. Overgangs- en slotbepalingen
-
-##### Artikel 3.14a
-
-Tot een jaar na het tijdstip van inwerkingtreding van [artikel 3.15, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.3&artikel=3.15&z=2019-04-18&g=2019-04-18), kan een gegadigde of een inschrijver, in afwijking van [artikel 2.79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.79&z=2019-04-18&g=2019-04-18), door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.76&z=2019-04-18&g=2019-04-18) en [2.77, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18), op hem niet van toepassing zijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

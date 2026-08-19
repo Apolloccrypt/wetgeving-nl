@@ -1,39 +1,17 @@
 ---
 title: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek"
+citeertitel: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2006"
 identifier: "BWBR0033053"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-02-16"
-last_updated: "2006-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033053"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12146843"
-version_id: "20271672"
-internal_id: "C28508421"
-label_id: "12118374"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033053/2006-02-16/0"
-intitule_bron: "Stcrt.2006-34"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-06"
-intitule_published: "2006-02-16"
-intitule_in_force: "2006-02-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-34"
-original_signed_date: "2006-02-06"
-original_published_date: "2006-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-34-p11-SC73948"
-entry_into_force_date: "2006-02-16"
-jci_1_3: "jci1.3:c:BWBR0033053&z=2006-02-16&g=2006-02-16"
-jci_1_0: "1.0:c:BWBR0033053&g=2006-02-16"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2006"
-signed_date: "2006-02-06"
-entry_into_force: "2006-02-16"
+publicatiedatum: 2006-02-16
+laatste_update: 2006-02-16
+status: geldig
+toestand: 2006-02-16
+bron: "https://wetten.overheid.nl/BWBR0033053"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek
 
 ### Algemeen
@@ -62,15 +40,79 @@ De hoogte van de te verbeuren dwangsom is in eerste instantie achtereenvolgens a
 
 •en het responsgedrag4.
 
+| periode | maand5 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | incidenteel |  | regelmatig |  | structureel |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 25 | 500 | 30 | 600 | 45 | 900 |
+| 1 | 30 | 600 | 40 | 800 | 55 | 1.100 |
+| 2 | 40 | 800 | 50 | 1.000 | 65 | 1.300 |
+| 3 | 50 | 1.000 | 65 | 1.300 | 80 | 1.600 |
+| 4 | 75 | 1.500 | 90 | 1.800 | 120 | 2.400 |
+| 5 | 115 | 2.300 | 150 | 3.000 | 230 | 4.600 |
+| 6 | 190 | 3.800 | 250 | 5.000 | 355 | 7.100 |
+| 7 | 300 | 6.000 | 375 | 7.500 | 505 | 10.100 |
+| 8 | 500 | 10.000 | 575 | 11.500 | 700 | 14.000 |
+| 9 | 700 | 14.000 | 825 | 16.500 | 980 | 19.600 |
+
+| periode | kwartaal |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | incidenteel |  | regelmatig |  | structureel |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 30 | 600 | 35 | 700 | 55 | 1.100 |
+| 1 | 35 | 700 | 45 | 900 | 65 | 1.300 |
+| 2 | 45 | 900 | 55 | 1.100 | 75 | 1.500 |
+| 3 | 55 | 1.100 | 70 | 1.450 | 90 | 1.800 |
+| 4 | 80 | 1.600 | 95 | 1.900 | 130 | 2.600 |
+| 5 | 120 | 2.400 | 155 | 3.100 | 240 | 4.800 |
+| 6 | 195 | 3.900 | 255 | 5.100 | 365 | 7.300 |
+| 7 | 305 | 6.100 | 380 | 7.600 | 515 | 10.300 |
+| 8 | 505 | 10.100 | 580 | 11.600 | 710 | 14.200 |
+| 9 | 705 | 14.100 | 830 | 16.600 | 990 | 19.800 |
+
+| periode | jaar |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | incidenteel |  | regelmatig |  | structureel |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 35 | 700 | n.v.t. | n.v.t. | 65 | 1.300 |
+| 1 | 40 | 800 | n.v.t. | n.v.t. | 75 | 1.500 |
+| 2 | 50 | 1.000 | n.v.t. | n.v.t. | 85 | 1.700 |
+| 3 | 60 | 1.200 | n.v.t. | n.v.t. | 100 | 2.000 |
+| 4 | 85 | 1.700 | n.v.t. | n.v.t. | 140 | 2.800 |
+| 5 | 125 | 2.500 | n.v.t. | n.v.t. | 250 | 5.000 |
+| 6 | 200 | 4.000 | n.v.t. | n.v.t. | 375 | 7.500 |
+| 7 | 310 | 6.200 | n.v.t. | n.v.t. | 525 | 10.500 |
+| 8 | 510 | 10.200 | n.v.t. | n.v.t. | 720 | 14.400 |
+| 9 | 715 | 14.300 | n.v.t. | n.v.t. | 1.000 | 20.000 |
+
 Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon binnen twaalf maanden voorafgaand aan de datum van de overtreding voor de eerste maal is ingeschreven in het handelsregister wordt de te verbeuren dwangsom verlaagd met 50%. In uitzonderlijke en bijzondere gevallen kan de te verbeuren dwangsom verhoogd worden tot een bedrag van maximaal € 500.000,-.
 
 1 De begunstigingstermijn is de termijn waarbinnen de onderneming gelast wordt alsnog de gevraagde gegevens te verstrekken.
 
 2 De omvang wordt vastgesteld aan de hand van het aantal werknemers naar arbeidsjaren (grootteklasse aantal werknemers) of indien het gevraagde gegevens betreft over goederenverkeer tussen EU-lidstaten, aan de hand van totale waarde per jaar aan goederen die is geëxporteerd naar de EU of de totale waarde per jaar aan goederen die is geïmporteerd vanuit de EU. In onderstaande tabel is de grootteklasse-indeling voor beide categorieën weergegeven.
 
+| grootteklasse | aantal werknemers in arbeidsjaren | totale waarde in € im- en export |
+| --- | --- | --- |
+| 0 | 0 | - |
+| 1 | > 0 - < 2 | 0 - 79.999 |
+| 2 | 2 - < 5 | 80.000 - 189.999 |
+| 3 | 5 - < 10 | 190.000 - 449.999 |
+| 4 | 10 - < 20 | 450.000 - 899.999 |
+| 5 | 20 - < 50 | 900.000 - 2.249.999 |
+| 6 | 50 - < 100 | 2.250.000 - 11.999.999 |
+| 7 | 100 - < 200 | 12.000.000 - 44.999.999 |
+| 8 | 200 - < 500 | 45.000.000 en meer |
+| 9 | 500 en meer | - |
+
 3 De periode waarop de gegevens betrekking hebben, zijn een maand, een kwartaal en een jaar.
 
 4 Het responsgedrag is het aantal niet nagekomen responsverplichtingen die zijn opgelegd in de periode tussen 1 januari 2005 tot en met de datum waarop de overtreding van het niet nakomen van de responsverplichting door de handhavingsorganisatie is geconstateerd. Er worden per periode de volgende categorieën onderscheiden:
+
+| periode | incidenteel | regelmatig | structureel |
+| --- | --- | --- | --- |
+| maand | 0 - 1 | 2 - 4 | 5 en meer |
+| kwartaal | 0 | 1 | 2 en meer |
+| jaar | 0 | n.v.t. | 1 |
 
 5 Een 4-wekelijkse periode wordt gelijkgesteld met de periode maand.
 
@@ -87,6 +129,19 @@ De hoogte van de bestuurlijke boete is achtereenvolgens afhankelijk van:
 • het aantal overtredingen na de eerste overtreding7 (herhaalde overtreding).
 
 In de onderstaande tabel is voor de verschillende categorieën de bestuurlijke boete weergegeven.
+
+| grootteklasse | 1e herhaalde overtreding | 2e en elke volgende herhaalde overtreding |
+| --- | --- | --- |
+| 0 | 250 | 500 |
+| 1 | 500 | 750 |
+| 2 | 750 | 1.000 |
+| 3 | 1.000 | 1.500 |
+| 4 | 1.250 | 1.750 |
+| 5 | 1.500 | 2.500 |
+| 6 | 2.000 | 3.000 |
+| 7 | 2.500 | 3.500 |
+| 8 | 3.000 | 4.000 |
+| 9 | 4.000 | 5.000 |
 
 Bij een bestuurlijke boete worden geen kortingen verleend omdat pas sprake is van een bestuurlijke boete indien eerder een last onder dwangsom is opgelegd. De onderneming wordt dan immers geacht bekend te zijn met de wettelijke verplichting.
 

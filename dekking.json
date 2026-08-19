@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-08-18",
+ "gegenereerd": "2026-08-19",
  "geverifieerd": true,
- "bwb_regelingen": 46863,
- "bwb_geldend": 22210,
- "site_totaal": 22392,
- "site_geldend": 22207,
+ "bwb_regelingen": 46780,
+ "bwb_geldend": 22212,
+ "site_totaal": 22395,
+ "site_geldend": 22209,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 185,
+ "aantal_ten_onrechte_geldig": 186,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -722,6 +722,10 @@
   {
    "id": "BWBR0052409",
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 5 maart 2026, nr. RT-0000131866, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en in de biologische appelteelt (Tijdelijke vrijstelling voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en biologische appelteelt, 2026)"
+  },
+  {
+   "id": "BWBR0052435",
+   "titel": "Beleidsregel budgetbekostiging spoedeisende hulp"
   },
   {
    "id": "BWBR0052447",

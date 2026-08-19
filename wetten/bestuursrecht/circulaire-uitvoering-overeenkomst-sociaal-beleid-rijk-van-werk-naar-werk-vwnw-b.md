@@ -1,38 +1,16 @@
 ---
 title: "Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid"
 identifier: "BWBR0033486"
-country: "nl"
-rank: "circulaire"
-publication_date: "2013-04-15"
-last_updated: "2013-04-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033486"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "12275933"
-version_id: "20552682"
-internal_id: "C28901221"
-label_id: "12247414"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033486/2013-04-15/0"
-intitule_bron: "Stcrt.2013-14743"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-29"
-intitule_published: "2013-06-07"
-intitule_in_force: "2013-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-14743"
-original_signed_date: "2013-05-29"
-original_published_date: "2013-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-14743"
-entry_into_force_date: "2013-04-15"
-jci_1_3: "jci1.3:c:BWBR0033486&z=2013-04-15&g=2013-04-15"
-jci_1_0: "1.0:c:BWBR0033486&g=2013-04-15"
-citeertitel_status: "redactioneel"
-signed_date: "2013-05-29"
-entry_into_force: "2013-04-15"
+publicatiedatum: 2013-04-15
+laatste_update: 2013-04-15
+status: geldig
+toestand: 2013-04-15
+bron: "https://wetten.overheid.nl/BWBR0033486"
+opgehaald: 2026-08-19
 ---
+
 # Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid
 
 Bijgevoegd treft u de Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid – verder de VWNW-overeenkomst genoemd – zoals die op 11 april jl. in het Sectoroverleg Rijk is vastgesteld. In deze circulaire wordt nadere informatie gegeven die van belang is ten behoeve van de uitvoering van de VWNW-overeenkomst.
@@ -90,137 +68,3 @@ De implementatiewerkzaamheden vanwege de VWNW-overeenkomst zijn in volle gang. O
 ### 10. Intrekken circulaire
 
 De circulaire ‘[Kader handelwijze vanwege aflopen Besluit Sociaal Flankerend Beleid sector Rijk 2008–2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030515)’ van 28 september 2011 met kenmerk 2011-20000427504 wordt per 15 april 2013 ingetrokken. Hierbij wordt opgemerkt dat de hoogte van een schadeloosstelling voor herplaatsingskandidaten bij vrijwillig vertrek – inclusief een eventueel toegekende stimuleringspremie – niet meer mag bedragen dan € 75.000 dan wel niet meer mag bedragen dan twaalf maandsalarissen indien het jaarsalaris (= 12 maandsalarissen) hoger is dan € 75.000.
-
-## Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid
-
-### Overwegingen
-
-### 1. Het VWNW-onderzoek
-
-Het VWNW-onderzoek richt zich op de wensen en ontwikkelmogelijkheden van de deelnemer aan het onderzoek en diens mogelijkheden voor werk binnen en buiten de sector Rijk. Het onderzoek vindt plaats onder onafhankelijke professionele begeleiding. De uitkomst van het onderzoek is eigendom van de ambtenaar en wordt alleen verplicht gedeeld met het bevoegd gezag wanneer het VWNW-onderzoek wordt gebruikt om een VWNW-plan op te stellen dat leidt tot de status van VWNW-kandidaat. Zowel de ambtenaar als het bevoegd gezag kunnen een second opinion vragen naar aanleiding van de uitkomst van het VWNW-onderzoek.
-
-Resultaat van het onderzoek is een realistisch VWNW-plan, opgesteld onder professionele begeleiding, waaruit blijkt welke trajectbegeleiding nodig is, of en zo ja welk opleidingstraject nodig is en of het verrichten van tijdelijk ander werk wenselijk is. De onafhankelijkheid van de begeleiding – inclusief de vormgeving van de second opinion – wordt door partijen op korte termijn uitgewerkt en beschreven in een in het SOR vast te stellen document.
-
-### 2. Het VWNW-plan
-
-Afhankelijk van de uitkomst van het VWNW-onderzoek kunnen tenminste de volgende specifieke voorzieningen door het bevoegd gezag worden toegekend, die worden vastgelegd in het VWNW-plan:
-
-Verder kan in het plan opgenomen worden de wijze waarop andere voorzieningen ingezet worden.
-
-Het vaststellen van het VWNW-plan is individueel maatwerk waarbij ook rekening wordt gehouden met de kansen van de ambtenaar op de regionale arbeidsmarkt en eventuele beperkingen van de ambtenaar vanwege bijvoorbeeld zijn gezondheid.
-
-### 3. Start vrijwillige VWNW-fase
-
-De vrijwillige fase start wanneer het bevoegd gezag een organisatieverandering wenst of noodzakelijk acht die leidt tot krimp in een of meer functiegroepen. De vrijwillige fase start ook indien het bevoegd gezag besluit tot wijziging van de plaats waar de organisatie is gevestigd naar een locatie op een reisafstand van meer dan een half uur per enkele reis van de oorspronkelijke plaats.
-
-De contouren van de gewenste organisatie of de locatiewijziging dient ter advisering aan de OR voorgelegd te worden. Het DGO brengt vervolgens een zwaarwegend advies uit over welke groepen ambtenaren daadwerkelijk aangewezen worden als doelgroep voor VWNW-onderzoek en de duur van de vrijwillige VWNW-fase. Alle ambtenaren in de aangewezen doelgroep voeren het VWNW-onderzoek uit. In het geval dat er sprake is van een vrijwillige fase vanwege het enkele feit van standplaatswijziging – dus zonder krimp in een of meer functiegroepen – bestaat geen aanspraak op de in paragraaf 11 beschreven individuele keuzes.
-
-Na afloop van de duur van de vrijwillige VWNW-fase kan eventueel tot verlenging worden besloten.
-
-### 4. Vrijwillige VWNW-kandidaten
-
-De ambtenaren waarvoor een vrijwillige VWNW-fase loopt kunnen kiezen het VWNW-plan te volgen. Zij worden daarmee vrijwillige VWNW-kandidaat met de bijbehorende rechten en plichten. Ambtenaren die in de vrijwillige fase VWNW-kandidaat zijn geworden kunnen gedurende hun gehele periode van VWNW-begeleiding gebruik blijven maken van de voorzieningen, ook nadat de aanwijzing van de doelgroep is beëindigd.
-
-Ambtenaren waarvoor een vrijwillige VWNW-fase loopt en die ervoor kiezen het VWNW-plan niet te volgen, kunnen de uitkomst van het VWNW-onderzoek desgewenst betrekken bij de reguliere personeelsgesprekken over de gewenste loopbaanontwikkeling.
-
-### 5. Start verplichte VWNW-fase
-
-Wanneer de inspanningen van ambtenaren en bevoegd gezag in het kader van vrijwillig VWNW-beleid niet leiden tot een afdoende oplossing voor de problematiek van boventalligheid, worden de resterende fricties tussen de bestaande en gewenste organisatie doorgevoerd op basis van de bestaande regels van de [WOR](https://wetten.overheid.nl/jci1.3:c:BWBR0002747), het [ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en de [Regeling Procedure bij reorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0007967).
-
-Hoewel een verplichte VWNW-fase in beginsel vooraf dient te worden gegaan door een vrijwillige VWNW-fase, kan het bevoegd gezag daarvan afzien indien de omstandigheden daartoe aanleiding geven. Het DGO brengt daarover een zwaarwegend advies uit. Als partijen het daar niet over eens zijn wordt het geschil ingebracht in het SOR. Indien in het SOR geen overeenstemming wordt bereikt kunnen beide partijen het geschil voorleggen aan de Advies- en Arbitragecommissie (AAC).
-
-### 6. Verplichte VWNW-kandidaten
-
-Uitvoering van het VWNW-plan is verplicht voor:
-
-Deze ambtenaren worden verplicht VWNW-kandidaat en zijn verplicht het VWNW-plan dat eventueel in de vrijwillige VWNW-fase is opgesteld uit te voeren, tenzij er omstandigheden zijn die het nodig of gewenst maken het plan aan te passen. Voor ambtenaren die verplicht VWNW-kandidaat worden gaat een nieuwe periode van VWNW-begeleiding in, ongeacht reeds genoten VWNW-begeleiding als vrijwillige VWNW-kandidaat. Voor de verplichte VWNW-kandidaat waarvan is vastgesteld dat hij zijn functie verliest, kan de periode van VWNW-begeleiding pas ingaan op het moment dat zijn functie daadwerkelijk is vervallen.
-
-### 7. Plichten voor bevoegd gezag en VWNW-kandidaat
-
-Het bevoegd gezag is verplicht de VWNW-kandidaten te begeleiden naar een nieuwe functie door middel van een VWNW-traject met professionele ondersteuning.
-
-VWNW-kandidaten zijn verplicht zich in te spannen om het vastgestelde VWNW-plan uit te voeren. Tevens zijn VWNW-kandidaten verplicht een aangeboden passende functie te aanvaarden die geldt binnen het voor hem geldende plaatsingsbereik (zie paragraaf 8). Op weigering van een aangeboden passende functie door een verplichte VWNW-kandidaat volgt ontslag op grond van [artikel 49l van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=49l). Voor een vrijwillige VWNW-kandidaat vervalt het recht op VWNW-begeleiding en de VWNW-voorzieningen indien hij voor de derde maal een aangeboden passende functie afwijst.
-
-### 8. Zoekbereik en plaatsingsbereik tijdens de VWNW-begeleiding
-
-De periode van VWNW-begeleiding vangt aan na vaststelling van het VWNW-plan en kent drie perioden. Het zoekbereik van een VWNW-kandidaat is in principe onbeperkt, in het VWNW-plan kunnen over het zoekbereik en over de periode van VWNW-begeleiding afspraken worden gemaakt. Het zoekbereik kan anders zijn dan het plaatsingsbereik, maar kan het plaatsingsbereik niet verruimen of beperken. Het plaatsingsbereik waarbinnen een aangeboden functie voor een verplichte VWNW-kandidaat passend is:
-
-Voor een vrijwillige VWNW-kandidaat geldt hetzelfde plaatsingsbereik maar is een functie alleen passend indien deze op tenminste een gelijk niveau is als de oorspronkelijke functie.
-
-Er is sprake van een aangeboden functie indien de VWNW-kandidaat – als hij de functie accepteert – daadwerkelijk op de functie wordt geplaatst. Voor een aangeboden functie buiten het Rijk geldt dat dit een structurele functie moet zijn die wordt aangeboden met een aanstelling voor onbepaalde tijd of met uitzicht op een aanstelling voor onbepaalde tijd.
-
-Iedere periode van de VWNW-begeleiding bedraagt standaard zes maanden. Na zes maanden gaat de volgende periode in, tenzij op advies van deskundige professionele begeleiding door het bevoegd gezag wordt besloten dat de volgende periode niet in kan gaan. Nieuwe inzichten ten opzichte van het VWNW-plan of gebreken in de trajectbegeleiding kunnen reden zijn de volgende periode uit te stellen.
-
-De periode van VWNW-begeleiding wordt in beginsel niet opgeschort voor het verrichten van tijdelijke werkzaamheden. Een uitzondering geldt voor werkzaamheden die door de VWNW-kandidaat op verzoek van het bevoegd gezag worden verricht en de uitvoering van het VWNW-plan ophouden.
-
-Nadere toelichting: de VWNW-kandidaat kan ervoor kiezen om al eerder dan in de derde periode een functie buiten het Rijk te aanvaarden, ook bij organisaties die niet bij het ABP zijn aangesloten. Tevens kan de VWNW-kandidaat ervoor kiezen om een meer dan twee schalen lagere functie te aanvaarden. Dit heeft echter geen gevolgen voor de hoogte van de salarisgarantie of salarissuppletie; deze blijft gebaseerd op maximaal twee schalen lager.
-
-Indien een VWNW-kandidaat wordt geplaatst in een lagere functie dan zijn oorspronkelijke functie dan wordt nog twee jaar VWNW-begeleiding verleend, gericht op het vinden van een functie op het oorspronkelijke niveau.
-
-### 9. Salarisgarantie en salarissuppletie
-
-De eerste twee jaar na plaatsing in een functie op een lager niveau is sprake van automatische salarisgarantie, daarna is sprake van salarissuppletie op verzoek van de voormalige VWNW-kandidaat. De salarisgarantie en de salarissuppletie vullen aan tot 100% van het salaris dat voor de VWNW-kandidaat gold op de dag voordat hij wordt geplaatst in de nieuwe functie.
-
-Bij een plaatsing binnen de sector Rijk wordt de salarisgarantie maandelijks uitgekeerd. Buiten de sector Rijk wordt de salarisgarantie in één keer uitgekeerd. De salarissuppletie kan door de voormalige VWNW-kandidaat jaarlijks worden aangevraagd bij zijn (voormalige) werkgever. De suppletie volgt de algemene salarisontwikkelingen van de sector Rijk en binnen het Rijk is de suppletie pensioengevend.
-
-Bij het bepalen van de hoogte van de salarisgarantie en salarissuppletie wordt uitgegaan van de vaste inkomensbestanddelen. Binnen het Rijk zijn dit het salaris, de vakantie-uitkering en eindejaarsuitkering. Bij een plaatsing buiten het Rijk worden de aldaar geldende vaste inkomensbestanddelen betrokken.
-
-### 10. Overige voorzieningen
-
-Tenzij anders geregeld in deze overeenkomst gelden voorzieningen die nu voor herplaatsingskandidaten zijn geregeld ook voor VWNW-kandidaten. In aanvulling daarop wordt geregeld:
-
-### 11. Individuele keuzes VWNW-kandidaten
-
-VWNW-kandidaten hebben het recht hun aanspraak op de in paragraaf 10 genoemde voorzieningen en hun aanspraak op VWNW-begeleiding te ruilen voor een stimuleringspremie bij ontslag op eigen verzoek2Hoewel besluitvorming over het toekennen van een werkloosheidsuitkering aan het UWV is, wordt erop gewezen dat partijen er van uitgaan dat VWNW-kandidaten die hiervoor kiezen geen aanspraak hebben op een werkloosheidsuitkering of de bovenwettelijke aanvulling op de werkloosheidsuitkering.. Gezien de taakstellingen bij de Rijksoverheid en de situatie op de arbeidsmarkt, wordt voor een dergelijke ruil gedurende de looptijd van de afspraken over het VWNW-beleid de aanspraak op VWNW-begeleiding rekenkundig vastgesteld op:
-
-De hoogte van de stimuleringspremie bedraagt, naar rato van, het aantal resterende rekenkundige maanden VWNW-begeleiding, vermenigvuldigd met het maandsalaris en kan niet meer bedragen dan € 75.000. Deze aftopping geldt totdat er duidelijkheid is over een centraal Sociaal Akkoord. Dan zullen partijen overleggen over aanpassing hiervan en zal hierover overeenstemming moeten worden bereikt. In het departementaal georganiseerd overleg kunnen desgewenst afspraken worden gemaakt over het inruilen van de vertrekstimuleringspremie voor een periode van buitengewoon verlof met behoud van het salaris voorafgaand aan ontslag op eigen verzoek.
-
-Voor VWNW-kandidaten komen voorzieningen om advies in te winnen over het ruilen van de VWNW-begeleiding. De beschikbaarheid daarvan wordt door partijen op korte termijn uitgewerkt.
-
-### 12. Na de derde periode VWNW-begeleiding
-
-Indien de vrijwillige VWNW-kandidaat na afloop van de derde periode van VWNW-begeleiding nog niet definitief is geplaatst in een nieuwe functie, vervalt de status van VWNW-kandidaat.
-
-Indien de verplichte VWNW-kandidaat na afloop van de derde periode van VWNW-begeleiding nog niet definitief is geplaatst in een nieuwe functie en nog steeds in dienst is wordt onder deskundige professionele begeleiding een advies uitgebracht over individueel maatwerk voor een vervolgtraject. Ook het vervolgtraject is in beginsel gericht op plaatsing in een nieuwe functie waarbij wederom een sluitende aanpak het uitgangspunt is. Dit laat onverlet de mogelijkheid om als vervolgtraject een ontslag op grond van [artikel 99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99) af te spreken. Indien de VWNW-kandidaat of het bevoegd gezag zich niet kunnen vinden in het advies voor het vervolgtraject wordt het voorgelegd aan de interdepartementale toetsingscommissie voordat het bevoegd gezag een besluit neemt over het vervolgtraject.
-
-### 13. Voorzieningen bij outsourcing
-
-Indien er sprake is van outsourcing van taken buiten het Rijk wordt met de centrales van overheidspersoneeel een sociaal plan overeengekomen. In beginsel geldt dat de betrokken ambtenaren hun functie volgen. Indien een ambtenaar daarvan wenst af te zien dan kan hij voor de duur van maximaal achttien maanden in dienst bij het Rijk blijven. Indien outsourcing plaatsvindt naar een bij het ABP aangesloten organisatie kan dit maximaal twaalf maanden. Tijdens deze periode krijgt de ambtenaar de status van verplichte VWNW-kandidaat en VWNW-begeleiding. Indien na afloop van de twaalf dan wel achttien maanden herplaatsing niet is geslaagd gaat het bevoegd gezag over tot ontslag. Bij het formaliseren van het VWNW-beleid in de regelgeving wordt daarvoor een nieuwe grond voor eervol ontslag geïntroduceerd.
-
-### 14. Remplaçantenregeling
-
-Het VWNW-traject dan wel de voorzieningen kunnen door het bevoegd gezag tevens van toepassing worden verklaard op andere ambtenaren, voor zover daarmee de plaatsing van een VWNW-kandidaat wordt gerealiseerd.
-
-### 15. Hardheidsclausule
-
-In individuele gevallen waarin toepassing van de maatregelen van het VWNW-beleid tot onbillijke uitkomsten voor de ambtenaar leidt kan het bevoegd gezag daarvan afwijken.
-
-### 16. Ingangsdatum en einde overeenkomst
-
-Het VWNW-beleid gaat in op 15 april 2013. Ambtenaren die in de periode van 1 januari 2012 tot 15 april 2013 herplaatsingskandidaat zijn geworden en dat nog steeds zijn, blijven dat tenzij ze vóór 1 juli 2013 kenbaar maken gebruik te willen maken van het gehele VWNW-beleid. In dat geval wordt de herplaatsingskandidaat een verplichte VWNW-kandidaat en wordt met hen op individuele basis bezien of er een nader VWNW-plan nodig is in aanvulling op of ter vervanging van reeds gemaakte afspraken. De resterende herplaatsingstermijn wordt bij de overgang omgezet in een periode VWNW-begeleiding van dezelfde omvang, die ook op de in paragraaf 11 beschreven wijze kan worden geruild.
-
-Voor ambtenaren die herplaatsingskandidaat zijn geworden met toepassing van het [Besluit sociaal flankerend beleid sector Rijk 2008–2012](https://wetten.overheid.nl/jci1.3:c:BWBR0027815) blijft dat gelden, met dien verstande dat zij hun resterende herplaatsingstermijn kunnen ruilen zoals beschreven in paragraaf 11.
-
-Voorzieningen die voor het einde van de looptijd van deze overeenkomst aan VWNW-kandidaten zijn toegekend blijven voor hen gelden. VWNW-kandidaten waarvan de periode van VWNW-begeleiding doorloopt tot na de looptijd van deze overeenkomst doorlopen hun VWNW-traject op de in deze overeenkomst omschreven wijze, met bijbehorende rechten en plichten.
-
-### 17. Monitoring VWNW-beleid
-
-De monitoring van het VWNW-beleid vindt departementaal plaats en wordt uitgevoerd door een paritair samengestelde commissie (met leden namens het bevoegd gezag en leden namens de centrales van overheidspersoneel). Gemonitord wordt:
-
-Tevens worden bij de commissie gemelde knelpunten gemonitord.
-
-De departementale commissies rapporteren twee maal per jaar aan het Sectoroverleg Rijk en desgewenst tussentijds. Het format voor de rapportage wordt door partijen op korte termijn uitgewerkt.
-
-### 18. Toetsing VWNW-beleid
-
-De toetsing van het VWNW-beleid zoals beschreven in de overwegingen vindt plaats in een interdepartementale commissie. De interdepartementale commissie is paritair van samenstelling (met leden namens het bevoegd gezag en leden namens de centrales van overheidspersoneel).
-
-Toetsingsvragen die aan de commissie kunnen worden voorgelegd zijn:
-
-De toetsingscommissie doet in beginsel binnen vier weken een zwaarwegende uitspraak over de voorgelegde geschillen en brengt jaarlijks verslag van de werkzaamheden uit aan het Sectoroverleg Rijk
-
-### 19. Vwnw-beleid in het sectoroverleg rijk
-
-Aan de hand van de rapportages van de departementale commissies en het verslag van de toetsingscommissie wordt in het Sectoroverleg Rijk de werking van het VWNW-beleid één maal per jaar besproken. Daarbij wordt vastgesteld of het beleid naar behoren functioneert of dat aanwijzingen of aanvullende procedures nodig zijn.
-
-Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.

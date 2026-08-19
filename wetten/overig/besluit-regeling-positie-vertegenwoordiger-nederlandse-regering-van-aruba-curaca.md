@@ -1,52 +1,26 @@
 ---
 title: "Besluit van 4 maart 2013, nr. 13.000385 tot regeling van de positie van de vertegenwoordiger van de Nederlandse regering van Aruba, Curaçao en Sint Maarten"
+citeertitel: "Besluit regeling positie vertegenwoordiger Nederlandse regering van Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0033134"
-country: "nl"
-rank: "kb"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033134"
+categorie: "Overig"
 soort: "KB"
-stam_id: "12174413"
-version_id: "20329922"
-internal_id: "C28599011"
-label_id: "12145904"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033134/2020-01-01/0"
-intitule_bron: "Stcrt.2013-8486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-04"
-intitule_published: "2013-04-04"
-intitule_in_force: "2013-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8486"
-original_signed_date: "2013-03-04"
-original_published_date: "2013-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8486"
-entry_into_force_date: "2013-04-05"
-jci_1_3: "jci1.3:c:BWBR0033134&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0033134&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit regeling positie vertegenwoordiger Nederlandse regering van Aruba, Curaçao en Sint Maarten"
-signed_date: "2013-03-04"
-entry_into_force: "2013-04-05"
+publicatiedatum: 2013-04-05
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0033134"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 4 maart 2013, nr. 13.000385 tot regeling van de positie van de vertegenwoordiger van de Nederlandse regering van Aruba, Curaçao en Sint Maarten
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 februari 2013, 2012-0000711991;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Onze Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **het ministerie:** het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- *het ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
@@ -78,7 +52,7 @@ De vertegenwoordiger is belast met de volgende taken:
 
 - k. het verlenen van consulaire bijstand aan Europese Nederlanders;
 
-- l. het verrichten van taken ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627), zoals deze na de Wet van 20 december 2001 (Stb. 705) is komen te luiden.
+- l. het verrichten van taken ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627), zoals deze na de Wet van 20 december 2001 (Stb. 705) is komen te luiden.
 
 ##### Artikel 4
 
@@ -92,11 +66,11 @@ De vertegenwoordiger is belast met de volgende taken:
 
 ##### Artikel 5
 
-Het koninklijk besluit tot regeling van de positie van de vertegenwoordiger van de Nederlandse regering van de Nederlandse Antillen onderscheidenlijk Aruba van 24 april 1997, nr. 97.0011986, Stcrt, 1997, nr. 97, zoals dit laatstelijk gewijzigd is bij koninklijk besluit van 7 oktober 2002, nr. 02.004597, Stcrt. 2002, nr. 200 wordt ingetrokken.
+Het koninklijk besluit tot regeling van de positie van de vertegenwoordiger van de Nederlandse regering van de Nederlandse Antillen onderscheidenlijk Aruba van 24 april 1997, nr. 97.0011986, Stcrt, 1997, nr. 97, zoals dit laatstelijk gewijzigd is bij koninklijk besluit van 7 oktober 2002, nr. 02.004597, Stcrt. 2002, nr. 200 wordt ingetrokken.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatcourant waarin het wordt geplaatst en werkt terug tot en met 10 oktober 2010.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatcourant waarin het wordt geplaatst en werkt terug tot en met 10 oktober 2010.
 
 ##### Artikel 7
 

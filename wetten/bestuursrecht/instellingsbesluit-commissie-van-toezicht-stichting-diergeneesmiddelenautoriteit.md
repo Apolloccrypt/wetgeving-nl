@@ -1,56 +1,31 @@
 ---
 title: "Instellingsbesluit Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit"
 identifier: "BWBR0033369"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2018-04-07"
-last_updated: "2018-04-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033369"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "12244763"
-version_id: "20487652"
-internal_id: "C28816241"
-label_id: "12216144"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033369/2018-04-07/0"
-intitule_bron: "Stcrt.2013-12795"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-10"
-intitule_in_force: "2013-05-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-12795"
-original_published_date: "2013-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-12795"
-entry_into_force_date: "2012-09-20"
-jci_1_3: "jci1.3:c:BWBR0033369&z=2018-04-07&g=2018-04-07"
-jci_1_0: "1.0:c:BWBR0033369&g=2018-04-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-09-20"
+publicatiedatum: 2012-09-20
+laatste_update: 2018-04-07
+status: geldig
+toestand: 2018-04-07
+bron: "https://wetten.overheid.nl/BWBR0033369"
+opgehaald: 2026-08-19
 ---
+
 # Instellingsbesluit Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit
-
-handelend in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **staatssecretaris:** de Staatssecretaris van Economische Zaken;
+- a. *staatssecretaris:* de Staatssecretaris van Economische Zaken;
 
-- b. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- b. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. **commissie:** Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit;
+- c. *commissie:* Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit;
 
-- d. **SDa:** Stichting Diergeneesmiddelenautoriteit;
+- d. *SDa:* Stichting Diergeneesmiddelenautoriteit;
 
-- e. **bestuur:** bestuur van de Stichting Diergeneesmiddelenautoriteit.
+- e. *bestuur:* bestuur van de Stichting Diergeneesmiddelenautoriteit.
 
 ##### Artikel 2. Instelling van de commissie van toezicht SDa
 

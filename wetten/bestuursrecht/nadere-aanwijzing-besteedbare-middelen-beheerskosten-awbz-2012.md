@@ -1,44 +1,18 @@
 ---
 title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 november 2012, kenmerk Z-3141453, houdende tot nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2012 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012)"
+citeertitel: "Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012"
 identifier: "BWBR0032352"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-12-08"
-last_updated: "2012-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032352"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11931923"
-version_id: "19832092"
-internal_id: "C27857501"
-label_id: "11903834"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032352/2012-12-08/0"
-intitule_bron: "Stcrt.2012-25197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-29"
-intitule_published: "2012-12-07"
-intitule_in_force: "2012-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25197"
-original_signed_date: "2012-11-29"
-original_published_date: "2012-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25197"
-entry_into_force_date: "2012-12-08"
-jci_1_3: "jci1.3:c:BWBR0032352&z=2012-12-08&g=2012-12-08"
-jci_1_0: "1.0:c:BWBR0032352&g=2012-12-08"
-citeertitel_status: "officieel"
-short_title: "Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012"
-signed_date: "2012-11-29"
-entry_into_force: "2012-12-08"
+publicatiedatum: 2012-12-08
+laatste_update: 2012-12-08
+status: geldig
+toestand: 2012-12-08
+bron: "https://wetten.overheid.nl/BWBR0032352"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 november 2012, kenmerk Z-3141453, houdende tot nadere aanwijzing van de besteedbare middelen ter dekking van de beheerskosten AWBZ 2012 (Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012)
-
-Gelet op [artikel 4.3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,5 +29,3 @@ Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte
 ##### Artikel 4
 
 Deze aanwijzing wordt aangehaald als: Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2012.
-
-Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.

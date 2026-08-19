@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2026-07-01
 laatste_update: 2026-07-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-08-17
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052435"
-opgehaald: 2026-07-29
+opgehaald: 2026-08-19
 ---
 
 # Beleidsregel budgetbekostiging spoedeisende hulp

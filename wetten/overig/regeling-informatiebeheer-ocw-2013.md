@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 maart 2013, nr. FMICT/359419, houdende regels op het gebied van het informatiebeheer voor het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Informatiebeheer OCW 2013)"
+citeertitel: "Regeling Informatiebeheer OCW 2013"
 identifier: "BWBR0033170"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-10"
-last_updated: "2013-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033170"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "12182363"
-version_id: "20391052"
-internal_id: "C28669481"
-label_id: "12154114"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033170/2013-04-10/0"
-intitule_bron: "Stcrt.2013-9022"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-18"
-intitule_published: "2013-04-09"
-intitule_in_force: "2013-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-9022"
-original_signed_date: "2013-03-18"
-original_published_date: "2013-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-9022"
-entry_into_force_date: "2013-04-10"
-jci_1_3: "jci1.3:c:BWBR0033170&z=2013-04-10&g=2013-04-10"
-jci_1_0: "1.0:c:BWBR0033170&g=2013-04-10"
-citeertitel_status: "officieel"
-short_title: "Regeling Informatiebeheer OCW 2013"
-signed_date: "2013-03-18"
-entry_into_force: "2013-04-10"
+publicatiedatum: 2013-04-10
+laatste_update: 2013-04-10
+status: geldig
+toestand: 2013-04-10
+bron: "https://wetten.overheid.nl/BWBR0033170"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 maart 2013, nr. FMICT/359419, houdende regels op het gebied van het informatiebeheer voor het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Informatiebeheer OCW 2013)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,121 +20,121 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Actor:** een medewerker die of geformaliseerd collectief van medewerkers dat een activiteit of een reeks van activiteiten in een bedrijfsproces uitvoert in het kader van de aan deze medewerker of dit collectief toegekende taak, waarbij informatie wordt ontvangen of opgemaakt (neerslag);
+- *Actor:* een medewerker die of geformaliseerd collectief van medewerkers dat een activiteit of een reeks van activiteiten in een bedrijfsproces uitvoert in het kader van de aan deze medewerker of dit collectief toegekende taak, waarbij informatie wordt ontvangen of opgemaakt (neerslag);
 
-- **Archief:** het geheel van logisch geordende informatie, ontvangen of opgemaakt door een instelling, persoon of groep personen, dat gebruikt is bij de uitvoering van bedrijfsprocessen en die bestemd is daaronder te berusten;
+- *Archief:* het geheel van logisch geordende informatie, ontvangen of opgemaakt door een instelling, persoon of groep personen, dat gebruikt is bij de uitvoering van bedrijfsprocessen en die bestemd is daaronder te berusten;
 
-- **Archiefbescheiden:**
+- *Archiefbescheiden:*
 
-- •. alle informatie door overheidsorganen ontvangen of opgemaakt welke gebruikt is bij de uitvoering van bedrijfsprocessen en bestemd is daaronder te berusten;
+   - • alle informatie door overheidsorganen ontvangen of opgemaakt welke gebruikt is bij de uitvoering van bedrijfsprocessen en bestemd is daaronder te berusten;
 
-- •. alle informatie, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen welke gebruikt is bij de uitvoering van bedrijfsprocessen en wier rechten of functies op enig overheidsorgaan zijn overgegaan;
+   - • alle informatie, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen welke gebruikt is bij de uitvoering van bedrijfsprocessen en wier rechten of functies op enig overheidsorgaan zijn overgegaan;
 
-- •. alle informatie, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - • alle informatie, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- •. reproducties, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde informatie of welke op grond van het bepaalde in [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
+   - • reproducties, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1°, 2° of 3° bedoelde informatie of welke op grond van het bepaalde in [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
 
-- **Archiefbestanddeel:** het geheel van informatie met een bepaald doel in een archief bijeengebracht en bedoeld om in hun onderlinge samenhang geraadpleegd te kunnen worden;
+- *Archiefbestanddeel:* het geheel van informatie met een bepaald doel in een archief bijeengebracht en bedoeld om in hun onderlinge samenhang geraadpleegd te kunnen worden;
 
-- **Archiefbewaarplaats:** een op grond van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor de blijvende bewaring van archiefbescheiden aangewezen bewaarplaats;
+- *Archiefbewaarplaats:* een op grond van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor de blijvende bewaring van archiefbescheiden aangewezen bewaarplaats;
 
-- **Archiefvormend onderdeel:** een organisatieonderdeel dat bevoegd is te handelen en op grond van de verantwoordelijkheid voor dat handelen gegevens verzamelt, ontvangt, produceert, verzendt en/of beheert;
+- *Archiefvormend onderdeel:* een organisatieonderdeel dat bevoegd is te handelen en op grond van de verantwoordelijkheid voor dat handelen gegevens verzamelt, ontvangt, produceert, verzendt en/of beheert;
 
-- **Archiefvorming:** het geheel van activiteiten waarbij informatie wordt opgeslagen in een informatiesysteem, bedrijfstoepassing of analoog archief;
+- *Archiefvorming:* het geheel van activiteiten waarbij informatie wordt opgeslagen in een informatiesysteem, bedrijfstoepassing of analoog archief;
 
-- **Authenticiteit:** de mate waarin van informatie kan worden aangetoond dat het:
+- *Authenticiteit:* de mate waarin van informatie kan worden aangetoond dat het:
 
-- •. is wat het beweert te zijn;
+   - • is wat het beweert te zijn;
 
-- •. is gecreëerd of verzonden door de persoon of organisatie die beweert het te hebben gecreëerd of verzonden;
+   - • is gecreëerd of verzonden door de persoon of organisatie die beweert het te hebben gecreëerd of verzonden;
 
-- •. is gecreëerd en verzonden op het (de) tijstip (tijdstippen) zoals aangegeven in de informatie;
+   - • is gecreëerd en verzonden op het (de) tijstip (tijdstippen) zoals aangegeven in de informatie;
 
-- **Bedrijfsproces:** een logisch gestructureerde keten van activiteiten die door actoren worden uitgevoerd met als doel een (combinatie van) dienst(en) of product(en) te leveren aan een burger, bedrijf, de eigen of een andere organisatie;
+- *Bedrijfsproces:* een logisch gestructureerde keten van activiteiten die door actoren worden uitgevoerd met als doel een (combinatie van) dienst(en) of product(en) te leveren aan een burger, bedrijf, de eigen of een andere organisatie;
 
-- **Bedrijfstoepassing:** een geautomatiseerd systeem waarmee ten behoeve van bedrijfsprocessen informatie verzameld, bewerkt, beheerd, geanalyseerd, geïntegreerd en gepresenteerd kan worden;
+- *Bedrijfstoepassing:* een geautomatiseerd systeem waarmee ten behoeve van bedrijfsprocessen informatie verzameld, bewerkt, beheerd, geanalyseerd, geïntegreerd en gepresenteerd kan worden;
 
-- **Beheerregime:** een verzameling van Rijksbrede normen en (beheer)regels voor het informatiebeheer;
+- *Beheerregime:* een verzameling van Rijksbrede normen en (beheer)regels voor het informatiebeheer;
 
-- **Beheerregels:** door de Secretaris-generaal, op grond van [artikel 14 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regels voor de regeling en toebedeling van taken en verantwoordelijkheden voor het beheer van informatie;
+- *Beheerregels:* door de Secretaris-generaal, op grond van [artikel 14 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regels voor de regeling en toebedeling van taken en verantwoordelijkheden voor het beheer van informatie;
 
-- **Betrouwbaarheid:** de mate waarin de inhoud van een archief of informatie kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten;
+- *Betrouwbaarheid:* de mate waarin de inhoud van een archief of informatie kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten;
 
-- **Bewaartermijn:** de termijn die bepaalt hoelang neerslag uit bedrijfsprocessen bewaard moet blijven, op grond van een vastgesteld selectiedocument;
+- *Bewaartermijn:* de termijn die bepaalt hoelang neerslag uit bedrijfsprocessen bewaard moet blijven, op grond van een vastgesteld selectiedocument;
 
-- **Classificatie:** systematische identificatie en ordening van bedrijfsprocessen, activiteiten en/of informatie in categorieën overeenkomstig logisch gestructureerde conventies, methoden en procedureregels weergegeven in een classificatiesysteem;
+- *Classificatie:* systematische identificatie en ordening van bedrijfsprocessen, activiteiten en/of informatie in categorieën overeenkomstig logisch gestructureerde conventies, methoden en procedureregels weergegeven in een classificatiesysteem;
 
-- **Concern OCW:** het geheel van archiefvormende onderdelen en informatiebeheerders zoals opgenomen in het [organisatie- en mandaatbesluit OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023543), die onder het zorgdragerschap van OCW vallen;
+- *Concern OCW:* het geheel van archiefvormende onderdelen en informatiebeheerders zoals opgenomen in het [organisatie- en mandaatbesluit OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023543), die onder het zorgdragerschap van OCW vallen;
 
-- **Contextgegevens:** gegevens die nodig zijn om de inhoudelijke informatie in haar ontstaanscontext te kunnen vinden, raadplegen, interpreteren, delen en beheren overeenkomstig het vastgestelde beheerregime;
+- *Contextgegevens:* gegevens die nodig zijn om de inhoudelijke informatie in haar ontstaanscontext te kunnen vinden, raadplegen, interpreteren, delen en beheren overeenkomstig het vastgestelde beheerregime;
 
-- **Conversie:** het proces van omzetten van informatie van het ene formaat naar het andere formaat;
+- *Conversie:* het proces van omzetten van informatie van het ene formaat naar het andere formaat;
 
-- **Dossiereigenaar:** een medewerker die verantwoordelijk is voor de goede, geordende en toegankelijke staat van informatie die de neerslag is van een bedrijfsproces;
+- *Dossiereigenaar:* een medewerker die verantwoordelijk is voor de goede, geordende en toegankelijke staat van informatie die de neerslag is van een bedrijfsproces;
 
-- **Duurzame toegankelijkheid:** de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van informatie gewaarborgd is gedurende de geldende bewaartermijn;
+- *Duurzame toegankelijkheid:* de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van informatie gewaarborgd is gedurende de geldende bewaartermijn;
 
-- **Duurzaamheid:** de mate waarin informatie gedurende de geldende bewaartermijn aan de kwaliteitscriteria blijft voldoen zonder dat noemenswaardige achteruitgang is te constateren;
+- *Duurzaamheid:* de mate waarin informatie gedurende de geldende bewaartermijn aan de kwaliteitscriteria blijft voldoen zonder dat noemenswaardige achteruitgang is te constateren;
 
-- **Emulatie:** techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie;
+- *Emulatie:* techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie;
 
-- **Geautomatiseerd systeem:** het geheel van programmatuur en apparatuur;
+- *Geautomatiseerd systeem:* het geheel van programmatuur en apparatuur;
 
-- **Gegeven:** een losstaand feit of symbool zonder betekenis voor de ontvanger of opsteller;
+- *Gegeven:* een losstaand feit of symbool zonder betekenis voor de ontvanger of opsteller;
 
-- **Generiek Waarderingsmodel:** een selectie- en waarderingsinstrument op basis waarvan een selectiedocument wordt vervaardigd;
+- *Generiek Waarderingsmodel:* een selectie- en waarderingsinstrument op basis waarvan een selectiedocument wordt vervaardigd;
 
-- **Informatie:** een verzameling gegevens die in hun samenhang een bepaalde betekenis hebben voor OCW als ontvanger dan wel opsteller;
+- *Informatie:* een verzameling gegevens die in hun samenhang een bepaalde betekenis hebben voor OCW als ontvanger dan wel opsteller;
 
-- **Informatiebeheer:** het geheel van normen, plannen, procedures, geautomatiseerde en niet-geautomatiseerde hulpmiddelen en activiteiten waarmee informatie wordt verzameld, bewerkt, opgeslagen, verwerkt, beschikbaar wordt gesteld en de daarvoor in aanmerking komende informatie op termijn wordt vernietigd ten behoeve van de ondersteuning van de bedrijfsprocessen van de organisatie;
+- *Informatiebeheer:* het geheel van normen, plannen, procedures, geautomatiseerde en niet-geautomatiseerde hulpmiddelen en activiteiten waarmee informatie wordt verzameld, bewerkt, opgeslagen, verwerkt, beschikbaar wordt gesteld en de daarvoor in aanmerking komende informatie op termijn wordt vernietigd ten behoeve van de ondersteuning van de bedrijfsprocessen van de organisatie;
 
-- **Informatiebeheerder:** degene die is belast met het informatiebeheer;
+- *Informatiebeheerder:* degene die is belast met het informatiebeheer;
 
-- **Informatiebeherend onderdeel:** een dienstonderdeel binnen concern OCW dat als taak heeft werkzaamheden met betrekking tot het informatiebeheer te ondersteunen en deels uit te voeren;
+- *Informatiebeherend onderdeel:* een dienstonderdeel binnen concern OCW dat als taak heeft werkzaamheden met betrekking tot het informatiebeheer te ondersteunen en deels uit te voeren;
 
-- **Informatiebeheersysteem:** het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd tot het beheer van informatie;
+- *Informatiebeheersysteem:* het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd tot het beheer van informatie;
 
-- **Informatiesysteem:** een systeem waarmee ten behoeve van de ondersteuning van bedrijfsprocessen informatie wordt geregistreerd, ontsloten, opgeslagen, door de tijd heen beschikbaar wordt gesteld en waaruit de daarvoor in aanmerking komende informatie op termijn wordt vernietigd;
+- *Informatiesysteem:* een systeem waarmee ten behoeve van de ondersteuning van bedrijfsprocessen informatie wordt geregistreerd, ontsloten, opgeslagen, door de tijd heen beschikbaar wordt gesteld en waaruit de daarvoor in aanmerking komende informatie op termijn wordt vernietigd;
 
-- **Interpreteerbaar:** informatie is interpreteerbaar als zij leesbaar is en als de contextgegevens en de gebruikte taal bekend zijn;
+- *Interpreteerbaar:* informatie is interpreteerbaar als zij leesbaar is en als de contextgegevens en de gebruikte taal bekend zijn;
 
-- **Keten OCW:** Aaneenschakeling van bedrijfsprocessen in de context van beleid, uitvoering en toezicht van concern OCW;
+- *Keten OCW:* Aaneenschakeling van bedrijfsprocessen in de context van beleid, uitvoering en toezicht van concern OCW;
 
-- **Leesbaar:** de mate waarin van gegevens, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd;
+- *Leesbaar:* de mate waarin van gegevens, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd;
 
-- **Metadata:** gegevens die context, inhoud en structuur van informatie en hun beheer door de tijd heen beschrijven;
+- *Metadata:* gegevens die context, inhoud en structuur van informatie en hun beheer door de tijd heen beschrijven;
 
-- **Migratie:** het overzetten van informatie en toepassingsprogrammatuur van het ene systeem en/of platform naar het andere, met behoud van authenticiteit, integriteit, betrouwbaarheid en bruikbaarheid;
+- *Migratie:* het overzetten van informatie en toepassingsprogrammatuur van het ene systeem en/of platform naar het andere, met behoud van authenticiteit, integriteit, betrouwbaarheid en bruikbaarheid;
 
-- **Neerslag:** ontvangen of opgemaakte informatie welke gebruikt is bij de uitvoering van bedrijfsprocessen;
+- *Neerslag:* ontvangen of opgemaakte informatie welke gebruikt is bij de uitvoering van bedrijfsprocessen;
 
-- **Ordening:** het rangschikken van informatie binnen een archief overeenkomstig een vastgestelde systematiek (ordeningsplan);
+- *Ordening:* het rangschikken van informatie binnen een archief overeenkomstig een vastgestelde systematiek (ordeningsplan);
 
-- **Ordeningsplan:** een actuele en complete beschrijving waarin de taak of taken en daarbij horende bedrijfsprocessen van een organisatie zijn opgenomen en die de basis vormt voor de logische indeling en de rangschikking van een voor die organisatie te vormen archief;
+- *Ordeningsplan:* een actuele en complete beschrijving waarin de taak of taken en daarbij horende bedrijfsprocessen van een organisatie zijn opgenomen en die de basis vormt voor de logische indeling en de rangschikking van een voor die organisatie te vormen archief;
 
-- **Overbrenging:** het in eigendom en beheer overdragen van daarvoor in aanmerking komende archieven aan een archiefbewaarplaats;
+- *Overbrenging:* het in eigendom en beheer overdragen van daarvoor in aanmerking komende archieven aan een archiefbewaarplaats;
 
-- **Proceseigenaar:** de verantwoordelijke voor het (laten) ontwerpen en implementeren van bedrijfsprocessen en het monitoren van de resultaten van deze bedrijfsprocessen1**Voor de uitvoerende diensten van OCW geldt dat de proceseigenaar ook verantwoordelijk is voor het eindresultaat van het betreffende proces.**;
+- *Proceseigenaar:* de verantwoordelijke voor het (laten) ontwerpen en implementeren van bedrijfsprocessen en het monitoren van de resultaten van deze bedrijfsprocessen1*Voor de uitvoerende diensten van OCW geldt dat de proceseigenaar ook verantwoordelijk is voor het eindresultaat van het betreffende proces.*;
 
-- **Selectie:** het op grond van een vastgesteld selectiedocument bepalen van de bewaar- en vernietigingstermijnen van in een archief opgeslagen informatie;
+- *Selectie:* het op grond van een vastgesteld selectiedocument bepalen van de bewaar- en vernietigingstermijnen van in een archief opgeslagen informatie;
 
-- **Selectiedocument:** een formeel vastgesteld document met selectiebeslissingen op grond waarvan een informatiebeheerder daadwerkelijk vernietiging of overbrenging naar een andere bewaarplaats kan uitvoeren;
+- *Selectiedocument:* een formeel vastgesteld document met selectiebeslissingen op grond waarvan een informatiebeheerder daadwerkelijk vernietiging of overbrenging naar een andere bewaarplaats kan uitvoeren;
 
-- **Substitutie:** zie vervanging;
+- *Substitutie:* zie vervanging;
 
-- **Taak:** het geheel van samenhangende bedrijfsprocessen van concern OCW dat zijn grondslag vindt in onder andere wet- en regelgeving en algemene bestuursopdrachten;
+- *Taak:* het geheel van samenhangende bedrijfsprocessen van concern OCW dat zijn grondslag vindt in onder andere wet- en regelgeving en algemene bestuursopdrachten;
 
-- **Toegankelijkheid:** de mate waarin een archief of informatie lokaliseerbaar, terugvindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen;
+- *Toegankelijkheid:* de mate waarin een archief of informatie lokaliseerbaar, terugvindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen;
 
-- **Vervanging:** het vervangen van analoge informatie door digitale reproducties daarvan, teneinde de aldus vervangen analoge informatie te vernietigen;
+- *Vervanging:* het vervangen van analoge informatie door digitale reproducties daarvan, teneinde de aldus vervangen analoge informatie te vernietigen;
 
-- **Vernietiging:** het zodanig bewerken van informatie dat deze nadien niet meer te reconstrueren is;
+- *Vernietiging:* het zodanig bewerken van informatie dat deze nadien niet meer te reconstrueren is;
 
-- **Vervreemding:** het overdragen van de zorg en het beheer van informatie aan een andere zorgdrager of civielrechtelijke partij;
+- *Vervreemding:* het overdragen van de zorg en het beheer van informatie aan een andere zorgdrager of civielrechtelijke partij;
 
-- **Zorg:** de algemene bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende informatie in goede, geordende en toegankelijke staat te brengen, te bewaren en om de daarvoor in aanmerking komende informatie op termijn te vernietigen;
+- *Zorg:* de algemene bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende informatie in goede, geordende en toegankelijke staat te brengen, te bewaren en om de daarvoor in aanmerking komende informatie op termijn te vernietigen;
 
-- **Zorgdrager:** degene die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor de informatie van concern OCW.
+- *Zorgdrager:* degene die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor de informatie van concern OCW.
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -174,9 +148,9 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 1. De Secretaris-generaal is namens de minister, gesteld de eisen vanuit vigerende wet en regelgeving en de belangen voor de bedrijfsvoering, verantwoordelijk voor:
 
-- •. de zorg voor en de sturing op het informatiebeheer van het concern OCW;
+- • de zorg voor en de sturing op het informatiebeheer van het concern OCW;
 
-- •. de voorwaarden om een adequaat informatiebeheersysteem en een kwalitatief goed informatiebeheer mogelijk te maken;
+- • de voorwaarden om een adequaat informatiebeheersysteem en een kwalitatief goed informatiebeheer mogelijk te maken;
 
 2. De Secretaris-generaal mandateert de zorg voor het informatiebeheer aan de informatiebeheerders van het concern OCW als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=3&artikel=4&z=2013-04-10&g=2013-04-10).
 
@@ -184,19 +158,19 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 1. Voor het concern OCW worden hierin onderscheiden:
 
-- •. de (plv.) Secretaris-generaal;
+- • de (plv.) Secretaris-generaal;
 
-- •. de hoofden van inspecties;
+- • de hoofden van inspecties;
 
-- •. de hoofden van baten-lastendiensten;
+- • de hoofden van baten-lastendiensten;
 
-- •. de hoofden van buitendiensten;
+- • de hoofden van buitendiensten;
 
-- •. de hoofden van (advies)raden;
+- • de hoofden van (advies)raden;
 
-- •. de hoofden van colleges;
+- • de hoofden van colleges;
 
-- •. secretarissen van (tijdelijke) commissies en andere samenwerkingsverbanden;
+- • secretarissen van (tijdelijke) commissies en andere samenwerkingsverbanden;
 
 2. Gelet op [artikel 11, 1e lid van het organisatie- en mandaatbesluit OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) kunnen de informatiebeheerders hun verantwoordelijkheid voor het uitvoeren van het informatiebeheer ondermandateren aan onder hen ressorterende functionarissen;
 
@@ -232,9 +206,9 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 2. Onder archiefvormende onderdelen worden ook begrepen:
 
-- •. Publiekrechtelijke zelfstandige bestuursorganen zonder rechtspersoonlijkheid;
+- • Publiekrechtelijke zelfstandige bestuursorganen zonder rechtspersoonlijkheid;
 
-- •. Zelfstandige bestuursorganen en geprivatiseerde onderdelen voor zover de archieven van vóór de verzelfstandiging dan wel privatisering onder het zorgdragerschap van OCW vallen;
+- • Zelfstandige bestuursorganen en geprivatiseerde onderdelen voor zover de archieven van vóór de verzelfstandiging dan wel privatisering onder het zorgdragerschap van OCW vallen;
 
 3. De archiefvormende onderdelen verzamelen, ontvangen, produceren en archiveren informatie die nodig is bij de uitvoering van hun bedrijfsprocessen;
 
@@ -260,15 +234,15 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat van de te bewaren informatie te allen tijde kan worden vastgesteld:
 
-- •. de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan, voor zover deze aspecten kenbaar moeten zijn voor de uitvoering van het werkproces;
+- • de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan, voor zover deze aspecten kenbaar moeten zijn voor de uitvoering van het werkproces;
 
-- •. wanneer, van wie, door wie en uit hoofde van welke taak of werkproces de informatie is ontvangen of opgemaakt;
+- • wanneer, van wie, door wie en uit hoofde van welke taak of werkproces de informatie is ontvangen of opgemaakt;
 
-- •. de samenhang met andere ontvangen en opgemaakte informatie;
+- • de samenhang met andere ontvangen en opgemaakte informatie;
 
-- •. de met betrekking tot de informatie uitgevoerde beheersactiviteiten;
+- • de met betrekking tot de informatie uitgevoerde beheersactiviteiten;
 
-- •. de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de informatie wordt bewaard of beheerd;
+- • de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de informatie wordt bewaard of beheerd;
 
 2. Op basis van een uit te voeren risicoanalyse kan het bepaalde in lid 1 ook gelden voor op termijn te vernietigen informatie.
 
@@ -276,21 +250,21 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat van digitaal gecreëerde informatie, naast de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=8&z=2013-04-10&g=2013-04-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=9&z=2013-04-10&g=2013-04-10) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
 
-- •. de oorspronkelijke technische aard van de digitaal gecreëerde informatie, alsmede van de hard- en softwareomgeving daarvan;
+- • de oorspronkelijke technische aard van de digitaal gecreëerde informatie, alsmede van de hard- en softwareomgeving daarvan;
 
-- •. de actuele technische aard van de digitaal gecreëerde informatie, alsmede van de hard- en softwareomgeving daarvan;
+- • de actuele technische aard van de digitaal gecreëerde informatie, alsmede van de hard- en softwareomgeving daarvan;
 
-- •. voor zover gebruik is gemaakt van de digitale handtekening:
+- • voor zover gebruik is gemaakt van de digitale handtekening:
 
-- ○. de houder van de digitale handtekening;
+   - ○ de houder van de digitale handtekening;
 
-- ○. het moment van validiteit van de digitale handtekening, alsmede het resultaat daarvan;
+   - ○ het moment van validiteit van de digitale handtekening, alsmede het resultaat daarvan;
 
-- ○. de voor validatie verantwoordelijke functionaris;
+   - ○ de voor validatie verantwoordelijke functionaris;
 
-- •. voor zover bekend ten tijde van het werkproces:
+- • voor zover bekend ten tijde van het werkproces:
 
-- ○. de identificatie van het certificaat van de digitale handtekening.
+   - ○ de identificatie van het certificaat van de digitale handtekening.
 
 ##### Artikel 11. Voortgang en afdoening
 
@@ -322,11 +296,11 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 4. Archiefvorming geschiedt zodanig:
 
-- •. dat het conform het vastgestelde ordeningsplan is;
+- • dat het conform het vastgestelde ordeningsplan is;
 
-- •. dat selectie op eenvoudige wijze kan geschieden in overeenstemming met het vastgestelde selectiedocument;
+- • dat selectie op eenvoudige wijze kan geschieden in overeenstemming met het vastgestelde selectiedocument;
 
-- •. dat archiefbescheiden, betrekking hebbend op een (keten-)bedrijfsproces, worden samengevoegd in één archiefbestanddeel, tenzij dat niet doelmatig is en als zodanig is gedocumenteerd.
+- • dat archiefbescheiden, betrekking hebbend op een (keten-)bedrijfsproces, worden samengevoegd in één archiefbestanddeel, tenzij dat niet doelmatig is en als zodanig is gedocumenteerd.
 
 ##### Artikel 15. Informatieverstrekking
 
@@ -396,9 +370,9 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat bij een verandering in de bedrijfsprocessen door reorganisatie, opheffing, samenvoeging, splitsing of door overdracht van taken, voorzieningen worden getroffen met betrekking tot:
 
-- •. de verantwoordelijkheid voor en de uitvoering van de betreffende bedrijfsprocessen;
+- • de verantwoordelijkheid voor en de uitvoering van de betreffende bedrijfsprocessen;
 
-- •. de bestemming en het beheer van uit deze bedrijfsprocessen voortvloeiende informatie;
+- • de bestemming en het beheer van uit deze bedrijfsprocessen voortvloeiende informatie;
 
 2. Bij de totstandkoming van de voorzieningen, als bedoeld in het eerste lid, wordt rekening gehouden met het gestelde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004427&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004427&artikel=3) en [4 van het Besluit Archiefoverdrachten Rijksadministratie 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004427&artikel=4) (BARA);
 
@@ -439,5 +413,3 @@ Deze regeling wordt aangehaald als Regeling Informatiebeheer OCW 2013.
 ##### Artikel 28. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

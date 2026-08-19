@@ -1,45 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2012)"
+citeertitel: "Verordening PT vakheffing boomkwekerijproducten 2012"
 identifier: "BWBR0032403"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032403"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "11941333"
-version_id: "19849702"
-internal_id: "C27878951"
-label_id: "11913284"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032403/2013-09-22/0"
-intitule_bron: "Vbbo.2012-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-11-14"
-intitule_published: "2012-11-30"
-intitule_in_force: "2012-11-30"
-intitule_status: "goed"
-original_publication: "Vbbo.2012-64"
-original_signed_date: "2011-11-14"
-original_published_date: "2012-11-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2012-12-02"
-jci_1_3: "jci1.3:c:BWBR0032403&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0032403&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT vakheffing boomkwekerijproducten 2012"
-signed_date: "2011-11-14"
-entry_into_force: "2012-12-02"
+publicatiedatum: 2012-12-02
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0032403"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2012)
-
-gelet op [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-gehoord de Sectorcommissie voor boomkwekerijproducten, d.d. 25 oktober 2011;
-
-BESLUIT:
 
 #### § 1. Begripsbepalingen
 
@@ -50,7 +23,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 | a. | bestuur | : | het bestuur van het Productschap Tuinbouw; |
 | --- | --- | --- | --- |
 | b. | boomkwekerijproducten | : | winterharde en half-winterharde houtgewassen, die niet vervroegd of verlaat zijn, alsmede delen daarvan en voorts vaste planten en wortelstokken; |
-| c. | heffingsgrondslag | : | het verkoopbedrag van de in een kalenderjaar verhandelde en afgeleverde boomkwekerijproducten, verminderd met het inkoopbedrag van de in hetzelfde kalenderjaar ingekochte boomkwekerijproducten. Op dit verschil kunnen in mindering worden gebracht: |
+| c. | heffingsgrondslag | : | het verkoopbedrag van de in een kalenderjaar verhandelde en afgeleverde boomkwekerijproducten, verminderd met het inkoopbedrag van de in hetzelfde kalenderjaar ingekochte boomkwekerijproducten. Op dit verschil kunnen in mindering worden gebracht: 1. de vrachtkosten 2. de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie; |
 | d. | inkoopbedrag | : | het bruto inkoopfactuurbedrag (eindbedrag van de factuur) waarover de BTW wordt berekend; |
 | e. | jaarmutatie | : | inflatie over een jaar in procenten volgens de consumentenprijsindex van het CBS in de maand januari; |
 | f. | kweken van boomkwekerijproducten | : | het ter verkrijging van een oogst van boomkwekerijproducten brengen, hebben of houden in al dan niet overdekte grond van boomkwekerijproducten of van zaden, stekken of ander plantmateriaal daarvan, alsmede het ter bevordering van het verkrijgen van een oogst van boomkwekerijproducten, verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van boomkwekerijproducten, respectievelijk de zaden, stekken of ander plantmateriaal daarvan; |

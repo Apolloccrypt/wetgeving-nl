@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de minister van Financiën van 10 december 2012, kenmerk BEDR/2012/604, tot beperking van de openbaarheid van eerder aan het Nationaal Archief overgebrachte en aldaar aanwezige archief van de Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers"
+citeertitel: "Besluit beperking openbaarheid van eerder aan Nationaal Archief overgebrachte en aldaar aanwezige archief van Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers"
 identifier: "BWBR0032510"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-12-21"
-last_updated: "2012-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032510"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11972743"
-version_id: "19902292"
-internal_id: "C27954211"
-label_id: "11944584"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032510/2012-12-21/0"
-intitule_bron: "Stcrt.2012-26368"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-10"
-intitule_published: "2012-12-20"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26368"
-original_signed_date: "2012-12-10"
-original_published_date: "2012-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26368"
-entry_into_force_date: "2012-12-21"
-jci_1_3: "jci1.3:c:BWBR0032510&z=2012-12-21&g=2012-12-21"
-jci_1_0: "1.0:c:BWBR0032510&g=2012-12-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid van eerder aan Nationaal Archief overgebrachte en aldaar aanwezige archief van Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers"
-signed_date: "2012-12-10"
-entry_into_force: "2012-12-21"
+publicatiedatum: 2012-12-21
+laatste_update: 2012-12-21
+status: geldig
+toestand: 2012-12-21
+bron: "https://wetten.overheid.nl/BWBR0032510"
+opgehaald: 2026-08-19
 ---
-# Besluit van de minister van Financiën van 10 december 2012, kenmerk BEDR/2012/604, tot beperking van de openbaarheid van eerder aan het Nationaal Archief overgebrachte en aldaar aanwezige archief van de Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers
 
-De minister van Financiën heeft het volgende besloten.
+# Besluit van de minister van Financiën van 10 december 2012, kenmerk BEDR/2012/604, tot beperking van de openbaarheid van eerder aan het Nationaal Archief overgebrachte en aldaar aanwezige archief van de Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983 haar taakvoorgangers en taakopvolgers
 
 ### Besluit beperking openbaarheid
 
@@ -44,7 +20,7 @@ De minister van Financiën,
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), genoemde belangen en overeenkomstig het advies van het Nationaal Archief referentie 10.496 d.d. 20 november 2012;
 
-**Besluit:**
+*Besluit:*
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de Stichting Nederlands Kunstbezit (1930) 1945-1951 en 1983.
 

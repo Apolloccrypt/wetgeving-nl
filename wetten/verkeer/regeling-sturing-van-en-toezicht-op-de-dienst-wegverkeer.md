@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241282, houdende vaststelling van regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst Wegverkeer (Regeling sturing van en toezicht op de Dienst Wegverkeer)"
+citeertitel: "Regeling sturing van en toezicht op de Dienst Wegverkeer"
 identifier: "BWBR0032488"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032488"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11967803"
-version_id: "19895492"
-internal_id: "C27938801"
-label_id: "11939864"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032488/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25315"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-05"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25315"
-original_signed_date: "2012-12-05"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25315"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032488&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032488&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling sturing van en toezicht op de Dienst Wegverkeer"
-signed_date: "2012-12-05"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032488"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241282, houdende vaststelling van regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst Wegverkeer (Regeling sturing van en toezicht op de Dienst Wegverkeer)
-
-Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 4l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4l), [4t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4t) en [4u, eerste en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4u);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
-- **de dienst:** de Dienst Wegverkeer.
+- *de dienst:* de Dienst Wegverkeer.
 
 #### § 2. Directie en raad van toezicht van de Dienst Wegverkeer
 
@@ -96,7 +70,7 @@ De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 ##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
-1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze regeling.
+1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de [bijlage](https://wetten.overheid.nl/BWBR0032488) bij deze regeling.
 
 2. De minister informeert de dienst over het voornemen een review van de accountantscontrole te laten uitvoeren door de accountantsdienst van het Rijk. Het besluit tot het uitvoeren van een review van de accountantscontrole wordt vergezeld van een toelichting waaruit de aanleiding blijkt, alsmede de procedure die zal worden gevolgd en de informatie die de dienst ten behoeve van dit onderzoek beschikbaar dient te stellen.
 
@@ -108,7 +82,7 @@ De dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 - c. dat de kostprijzen van de taakclusters zijn berekend op basis van het vastgestelde kostprijscalculatiemodel.
 
-##### Artikel 7. Invulling van [artikel 4l, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4l) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van artikel 4l, derde lid, van de wet juncto artikel 32 van de Kaderwet
 
 1. De dienst behoeft de voorafgaande instemming van de minister voor:
 
@@ -269,11 +243,3 @@ Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op de Diens
 ##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
-
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032488&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) van de Regeling sturing van en toezicht op de Dienst Wegverkeer
-
-### Aandachtspunten voor de accountantscontrole
-
-De volgende elementen zijn aandachtspunten voor de accountantscontrole:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

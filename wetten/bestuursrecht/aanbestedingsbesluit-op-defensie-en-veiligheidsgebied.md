@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet op defensie- en veiligheidsgebied (Aanbestedingsbesluit op defensie- en veiligheidsgebied)"
+citeertitel: "Aanbestedingsbesluit op defensie- en veiligheidsgebied"
 identifier: "BWBR0032903"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-04-18"
-last_updated: "2019-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032903"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12109793"
-version_id: "20193052"
-internal_id: "C28389271"
-label_id: "12081374"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032903/2019-04-18/0"
-intitule_bron: "Stb.2013-46"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-05"
-intitule_published: "2013-02-15"
-intitule_in_force: "2013-02-15"
-intitule_status: "goed"
-original_publication: "Stb.2013-46"
-original_signed_date: "2013-02-05"
-original_published_date: "2013-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-46"
-entry_into_force_date: "2013-02-16"
-jci_1_3: "jci1.3:c:BWBR0032903&z=2019-04-18&g=2019-04-18"
-jci_1_0: "1.0:c:BWBR0032903&g=2019-04-18"
-citeertitel_status: "officieel"
-short_title: "Aanbestedingsbesluit op defensie- en veiligheidsgebied"
-signed_date: "2013-02-05"
-entry_into_force: "2013-02-16"
+publicatiedatum: 2013-02-16
+laatste_update: 2019-04-18
+status: geldig
+toestand: 2019-04-18
+bron: "https://wetten.overheid.nl/BWBR0032903"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 5 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet op defensie- en veiligheidsgebied (Aanbestedingsbesluit op defensie- en veiligheidsgebied)
-
-Op de voordracht van Onze Minister van Economische Zaken van 9 oktober 2012, nr. WJZ / 12330580, gedaan mede namens Onze Minister van Defensie;
-
-Gelet op [richtlijn nr. 2009/81/EG](32009L0081) van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van [richtlijnen 2004/17/EG](32004L0017) en [2004/18/EG](32004L0018) (PbEU L 216) en de [artikelen 2.74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=2.74), en [3.1, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2012, nr. W15.12.0415/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 31 januari 2013, nr. WJZ / 12378942, uitgebracht mede namens Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,17 +20,18 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **eidas-verordening:** verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257);
+- *eidas-verordening:* verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257);
 
-- **Europese lijst van syntaxen:** lijst van syntaxen waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+- *Europese lijst van syntaxen:* lijst van syntaxen waarvan het referentienummer op grond van artikel 3 van richtlijn 2014/55/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
 
-- **Europese norm voor elektronische facturering:** Europese norm als bedoeld in artikel 2, eerste lid, onderdeel b, van verordening (EU) nr. 1025/2012 voor elektronische facturering waarvan het referentienummer op grond van artikel 3 van [richtlijn 2014/55](32014L0055)/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
+- *Europese norm voor elektronische facturering:* Europese norm als bedoeld in artikel 2, eerste lid, onderdeel b, van verordening (EU) nr. 1025/2012 voor elektronische facturering waarvan het referentienummer op grond van artikel 3 van richtlijn 2014/55/EU bekend is gemaakt in het Publicatieblad van de Europese Unie;
 
-- **syntax:** machineleesbare taal of taalvariant die wordt gebruikt om de in een elektronische factuur vervatte gegevenselementen weer te geven;
+- *syntax:* machineleesbare taal of taalvariant die wordt gebruikt om de in een elektronische factuur vervatte gegevenselementen weer te geven;
 
-- **verordening (EU) nr. 1025/2012:** Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de [Richtlijnen 89/686/EEG](31989L0686) en [93/15/EEG](31993L0015) van de Raad alsmede de Richtlijnen [94/4/EG](31994L0004), [94/25/EG](31994L0025), [95/16/EG](31995L0016), [97/23/EG](31997L0023), [98/34/EG](31998L0034), [2004/22/EG](32004L0022), [2007/23/EG](32007L0023), [2009/23/EG](32009L0023) en [2009/105/EG](32009L0105) van het Europees Parlement en de Raad en tot intrekking van Beschikking [87/95/EEG](31987L0095) van de Raad en Besluit nr. [1673/2006/EG](33573L2006) van het Europees Parlement en de Raad (PbEU 2012, L 316);
+- *verordening (EU) nr. 1025/2012:* Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de Richtlijnen 89/686/EEG en 93/15/EEG van de Raad alsmede de Richtlijnen 94/4/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG en 2009/105/EG van het Europees Parlement en de Raad en tot intrekking van Beschikking 87/95/EEG van de Raad en Besluit nr. 1673/2006/EG van het Europees Parlement en de Raad (PbEU 2012, L 316);
 
-- **wet:** [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
+- *wet:*
+ [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
 
 ### Hoofdstuk 2. Eigen verklaring
 
@@ -136,7 +105,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 2. Het eerste lid is niet van toepassing op elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarvan het plaatsen van de opdracht en het uitvoeren van de overeenkomst geheim zijn verklaard of overeenkomstig de geldende wettelijke en bestuursrechtelijke bepalingen met speciale veiligheidsmaatregelen gepaard moet gaan en mits de lidstaat heeft bepaald dat de betrokken wezenlijke belangen niet met minder ingrijpende maatregelen kunnen worden gewaarborgd.
 
-3. Een actualisatie of herziening van de Europese norm voor elektronische facturering of de Europese lijst van syntaxen als bedoeld in artikel 5 van [richtlijn 2014/55](32014L0055)/EU gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken actualisatie of herziening uitvoering moet zijn gegeven.
+3. Een actualisatie of herziening van de Europese norm voor elektronische facturering of de Europese lijst van syntaxen als bedoeld in artikel 5 van richtlijn 2014/55/EU gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken actualisatie of herziening uitvoering moet zijn gegeven.
 
 4. Onze Minister doet mededeling in de Staatscourant van een actualisatie of herziening als bedoeld in het derde lid.
 
@@ -149,5 +118,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Aanbestedingsbesluit op defensie- en veiligheidsgebied.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

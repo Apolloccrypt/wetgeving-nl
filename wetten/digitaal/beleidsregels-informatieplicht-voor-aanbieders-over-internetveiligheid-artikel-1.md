@@ -1,38 +1,16 @@
 ---
 title: "Beleidsregels informatieplicht voor aanbieders over internetveiligheid (artikel 11.3 tweede lid van de Telecommunicatiewet)"
 identifier: "BWBR0033401"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033401"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "12251383"
-version_id: "20501712"
-internal_id: "C28838561"
-label_id: "12223434"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033401/2013-04-01/0"
-intitule_bron: "Stcrt.2009-8"
-intitule_effect: "nieuw"
-intitule_signed: "2009-01-14"
-intitule_published: "2009-01-14"
-intitule_in_force: "2009-01-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-8"
-original_signed_date: "2009-01-14"
-original_published_date: "2009-01-14"
-original_effect: "nieuw"
-original_url_id: "stcrt-2009-585"
-entry_into_force_date: "2009-01-15"
-jci_1_3: "jci1.3:c:BWBR0033401&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0033401&g=2013-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2009-01-14"
-entry_into_force: "2009-01-15"
+publicatiedatum: 2009-01-15
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0033401"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels informatieplicht voor aanbieders over internetveiligheid (artikel 11.3 tweede lid van de Telecommunicatiewet)
 
 ### 1. Inleiding
@@ -71,11 +49,11 @@ Op 22 september 2008 heeft het college zijn voorgenomen beleidsregels gepublicee
 
 Het college constateert dat alle respondenten, met uitzondering van T-Mobile, zich in hoofdlijnen in de voorgenomen beleidsregels kunnen vinden. Een ruime meerderheid van de aanbieders onderschrijft het belang van het verstrekken van adequate informatie aan abonnees over de risico’s van internetgebruik. De voorgestelde manier van handhaving door het college wordt in hoofdlijnen gesteund.
 
-Het college heeft dankbaar gebruik gemaakt van de ontvangen reacties bij het vaststellen van de onderhavige beleidsregels. In een aparte bijlage8Deze bijlage is gepubliceerd op de website van OPTA. bij deze beleidsregels gaat het college in detail in op de ingebrachte op- en aanmerkingen, zodat de respondenten en andere geïnteresseerden kunnen nalezen hoe het college hiermee is omgegaan.
+Het college heeft dankbaar gebruik gemaakt van de ontvangen reacties bij het vaststellen van de onderhavige beleidsregels. In een aparte [bijlage](https://wetten.overheid.nl/BWBR0033401)8Deze bijlage is gepubliceerd op de website van OPTA. bij deze beleidsregels gaat het college in detail in op de ingebrachte op- en aanmerkingen, zodat de respondenten en andere geïnteresseerden kunnen nalezen hoe het college hiermee is omgegaan.
 
 ### 1.7. Leeswijzer
 
-Allereerst beschrijft de Autoriteit Consument en Markt in hoofdstuk 2 waarom hij beleidsregels noodzakelijk acht voor zijn toezicht op de informatieplicht. Vervolgens wordt in hoofdstuk 3 het juridisch kader beschreven. De beleidsregels beginnen in hoofdstuk 4 en 5, waar de Autoriteit Consument en Markt ingaat op wat er aan informatie dient te worden gegeven. In de woorden van [artikel 11.3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.3): welke bijzondere risico’s minimaal zouden moeten worden genoemd en welke middelen in aanmerking komen om deze risico’s tegen te gaan. Vervolgens beschrijft de Autoriteit Consument en Markt in hoofdstuk 6 en 7 voor wie de informatieplicht geldt en wie geïnformeerd dient te worden. Daarna geeft de Autoriteit Consument en Markt aan hoe en wanneer naar zijn mening een aanbieder de informatie dient te verstrekken (hoofdstuk 8) en tot slot beschrijft de Autoriteit Consument en Markt welke handhavingsmethoden hij zal gaan gebruiken (hoofdstuk 9).
+Allereerst beschrijft de Autoriteit Consument en Markt in [hoofdstuk 2](https://wetten.overheid.nl/BWBR0033401) waarom hij beleidsregels noodzakelijk acht voor zijn toezicht op de informatieplicht. Vervolgens wordt in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0033401) het juridisch kader beschreven. De beleidsregels beginnen in [hoofdstuk 4](https://wetten.overheid.nl/BWBR0033401) en [5](https://wetten.overheid.nl/BWBR0033401), waar de Autoriteit Consument en Markt ingaat op wat er aan informatie dient te worden gegeven. In de woorden van [artikel 11.3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.3): welke bijzondere risico’s minimaal zouden moeten worden genoemd en welke middelen in aanmerking komen om deze risico’s tegen te gaan. Vervolgens beschrijft de Autoriteit Consument en Markt in [hoofdstuk 6](https://wetten.overheid.nl/BWBR0033401) en [7](https://wetten.overheid.nl/BWBR0033401) voor wie de informatieplicht geldt en wie geïnformeerd dient te worden. Daarna geeft de Autoriteit Consument en Markt aan hoe en wanneer naar zijn mening een aanbieder de informatie dient te verstrekken ([hoofdstuk 8](https://wetten.overheid.nl/BWBR0033401)) en tot slot beschrijft de Autoriteit Consument en Markt welke handhavingsmethoden hij zal gaan gebruiken ([hoofdstuk 9](https://wetten.overheid.nl/BWBR0033401)).
 
 ### 2. Waarom beleidsregels voor de informatieplicht
 
@@ -93,15 +71,29 @@ De Autoriteit Consument en Markt is daarom van oordeel dat het noodzakelijk is d
 
 ### 3.1. Algemeen
 
-In de Privacy Richtlijn10[Richtlijn 2002/58/EG](32002L0058) van het Europees Parlement en de Raad van 12 juli 2002, L 201/37. (hierna: de Richtlijn) wordt gesteld dat geavanceerde digitale technologieën specifieke eisen stellen aan de bescherming van de persoonsgegevens en de persoonlijke levenssfeer van de gebruiker. In de overwegingen bij deze Richtlijn wordt uitgelegd dat aanbieders van diensten de nodige maatregelen moeten treffen om de beveiliging van hun diensten te garanderen en dat zij de abonnees moeten informeren over eventuele bijzondere risico’s inzake het doorbreken van de beveiliging van de dienst of het netwerk. Artikel 4 van de Richtlijn legt deze verplichting vast. De wetgever heeft dit artikel geïmplementeerd in [artikel 11.3 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.3).
+In de Privacy Richtlijn10Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002, L 201/37. (hierna: de Richtlijn) wordt gesteld dat geavanceerde digitale technologieën specifieke eisen stellen aan de bescherming van de persoonsgegevens en de persoonlijke levenssfeer van de gebruiker. In de overwegingen bij deze Richtlijn wordt uitgelegd dat aanbieders van diensten de nodige maatregelen moeten treffen om de beveiliging van hun diensten te garanderen en dat zij de abonnees moeten informeren over eventuele bijzondere risico’s inzake het doorbreken van de beveiliging van de dienst of het netwerk. Artikel 4 van de Richtlijn legt deze verplichting vast. De wetgever heeft dit artikel geïmplementeerd in [artikel 11.3 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.3).
 
 ### 3.2. De Richtlijn
 
 Artikel 4 van de Richtlijn luidt:
 
-### 3.3. De [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
+Beveiliging
+
+- 1. De aanbieder van een openbare elektronische-communicatiedienst treft passende technische en organisatorische maatregelen om de veiligheid van zijn diensten te garanderen, indien nodig in overleg met de aanbieder van het openbare communicatienetwerk wat de veiligheid van het netwerk betreft. Die maatregelen waarborgen een beveiligingsniveau dat in verhouding staat tot het betrokken risico, rekening houdend met de stand van de techniek en de kosten van uitvoering ervan.
+
+- 2. Indien een bijzonder risico bestaat van inbreuken op de beveiliging van het netwerk, stelt de aanbieder van een openbare elektronische-communicatiedienst de abonnees in kennis van dat risico en, indien het risico tot andere maatregelen noopt dan die waartoe de dienstenaanbieder verplicht is, van de eventuele middelen om dat risico tegen te gaan, met inbegrip van een indicatie van de verwachte kosten.
+
+### 3.3. De Telecommunicatiewet
 
 [Artikel 11.3, Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.3) luidt:
+
+- 1. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.2) bedoelde aanbieders11Bedoeld worden de aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst. treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.
+
+- 2. De in [artikel 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.2) bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over:
+
+   - a. bijzondere risico's voor de doorbreking van de veiligheid of de beveiliging van het aangeboden netwerk of de aangeboden dienst;
+
+   - b. de eventuele middelen waarmee de onder a bedoelde risico's kunnen worden tegengegaan, voor zover het andere maatregelen betreft dan die welke de aanbieder op grond van het eerste lid gehouden is te treffen, alsmede een indicatie van de verwachte kosten.
 
 ### 3.4. Bevoegdheid
 
@@ -115,11 +107,24 @@ In dit hoofdstuk wordt ingegaan op het begrip ‘bijzondere risico’s’ uit de
 
 ### 4.2. Te adresseren risico’s
 
-In de Richtlijn wordt in overweging 20 gesteld:12Overweging 20 bij de [Richtlijn 2002/58/EG](32002L0058) van het Europees Parlement en de Raad van 12 juli 2002, L 201/37.
+In de Richtlijn wordt in overweging 20 gesteld:12Overweging 20 bij de Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002, L 201/37.
+
+‘Het is bijzonder belangrijk voor abonnees en gebruikers van openbare elektronische communicatiediensten om door hun dienstaanbieder volledig op de hoogte te worden gebracht van bestaande veiligheidsrisico’s die van dien aard zijn dat de dienstaanbieder deze zelf niet kan verhelpen.’
 
 Het betreft hier veiligheidsrisico’s die een inbreuk kunnen maken op de persoonsgegevens en de persoonlijke levenssfeer van abonnees en gebruikers. De desbetreffende aanbieders zijn niet gehouden de abonnees te informeren over elk beveiligingsrisico. Het gaat om bijzondere risico’s en dan met name die risico’s die een bijzonder verband hebben met de aard van het betrokken netwerk of de betrokken dienst.13Kamerstukken II, 1996/97, 25 533, nr. 3, p. 119. Zo heeft het risico van ongewenst medegebruik van een draadloze internetverbinding door andere eindgebruikers dan de abonnee een bijzondere band met de dienst internettoegang en houdt dit risico geen verband met een e-maildienst. Een aanbieder van wie de dienstverlening beperkt is tot het verzorgen van een e-maildienst behoeft dus geen informatie te verschaffen over de beveiliging van draadloze routers.
 
 De Autoriteit Consument en Markt acht het noodzakelijk dat de volgende risico’s minimaal geadresseerd worden door de aanbieder van de betreffende dienst.
+
+| Risico | Technische term | Bijzondere band met de dienst |
+| --- | --- | --- |
+| 1. Het binnenkrijgen of (ongemerkt) versturen van grote hoeveelheden ongevraagde berichten). | spam | internettoegang, elektronische berichten |
+| 2. Het gekaapt worden van de eigen computer door een niet-geautoriseerde gebruiker | botnet, zombie | internettoegang |
+| 3. Het binnenkrijgen of (ongemerkt) versturen van berichten die tot doel hebben persoonlijke gegevens van abonnees te achterhalen, bijvoorbeeld bankgegevens, PINcode of inlognaam. | phishing | elektronische berichten |
+| 4. Het binnenkrijgen of (ongemerkt) versturen van software die bedoeld is om te spionneren op (internet)gedrag van abonnees. | spyware | internettoegang, elektronische berichten |
+| 5. Het binnenkrijgen of (ongemerkt) versturen van software die bedoeld is om de computerapparatuur van abonnees zodanig te verstoren dat gegevens verloren gaan of voor de buitenwereld openbaar worden. | trojans en overige malware | internettoegang, elektronische berichten |
+| 6. Het ongewenst medegebruik van de draadloze internetverbinding door andere eindgebruikers, waardoor mogelijk strafbare of anderszins ongewenste activiteiten over deze verbinding aan de betreffende abonnee zouden kunnen worden toegeschreven, of waardoor andere eindgebruikers mogelijk toegang krijgen tot de computer van de abonnee. | beveiliging draadloze router | internettoegang |
+| 7. Het gebruik door anderen van de eigen identiteit, door bijvoorbeeld bekend worden van wachtwoord, e-mailadres, naam- adres- woonplaats- of geboortedatum gegevens. | identiteitskaping | internettoegang, elektronische berichten |
+| 8. Het bereikbaar zijn van of (ongevraagd) geconfronteerd worden met ongewenste websites, zoals websites die niet geschikt zijn voor kinderen. | ongewenste websites | internettoegang |
 
 Bovenstaande tabel bevat slechts voorbeelden. De markt voor internetdiensten is dynamisch en daarom kan een tabel als deze nooit volledig zijn. De Autoriteit Consument en Markt verwacht van aanbieders dat zij nieuwe risico’s in hun informatievoorziening opnemen.
 
@@ -127,7 +132,7 @@ Bovenstaande tabel bevat slechts voorbeelden. De markt voor internetdiensten is 
 
 ### 5.1. Geen middelen in beleidsregel
 
-In het vorige hoofdstuk is ingegaan op de bijzondere risico’s waarover abonnees geïnformeerd dienen te worden door de aanbieders. Volgens de informatieplicht dient een aanbieder tevens de abonnees te informeren over de eventuele middelen waarmee de bijzondere risico’s kunnen worden tegengegaan. De Autoriteit Consument en Markt is van mening dat het niet wenselijk is om in beleidsregels vast te leggen welke informatie over middelen de Autoriteit Consument en Markt als afdoende oordeelt voor een aanbieder om aan de informatieplicht te voldoen. De aanbieder is het best in staat om de juiste middelen te benoemen en op de hoogte te zijn van de verwachte kosten om deze middelen in te zetten. Daarom laat de Autoriteit Consument en Markt deze keuze aan de aanbieder.
+In het [vorige hoofdstuk](https://wetten.overheid.nl/BWBR0033401) is ingegaan op de bijzondere risico’s waarover abonnees geïnformeerd dienen te worden door de aanbieders. Volgens de informatieplicht dient een aanbieder tevens de abonnees te informeren over de eventuele middelen waarmee de bijzondere risico’s kunnen worden tegengegaan. De Autoriteit Consument en Markt is van mening dat het niet wenselijk is om in beleidsregels vast te leggen welke informatie over middelen de Autoriteit Consument en Markt als afdoende oordeelt voor een aanbieder om aan de informatieplicht te voldoen. De aanbieder is het best in staat om de juiste middelen te benoemen en op de hoogte te zijn van de verwachte kosten om deze middelen in te zetten. Daarom laat de Autoriteit Consument en Markt deze keuze aan de aanbieder.
 
 ### 5.2. Mogelijke middelen
 
@@ -147,6 +152,8 @@ De Autoriteit Consument en Markt wil de markt duidelijk maken op welke aanbieder
 
 Overweging 6 van de Richtlijn stelt het volgende:
 
+Het internet vervangt traditionele marktstructuren door te voorzien in een gemeenschappelijke, wereldwijde infrastructuur voor de levering van een breed scala van elektronische-communicatiediensten. Algemeen beschikbare elektronische-communicatiediensten via het internet bieden de gebruikers nieuwe mogelijkheden, maar houden ook nieuwe gevaren in voor de bescherming van hun persoonsgegevens en persoonlijke levenssfeer.
+
 Ook de Autoriteit Consument en Markt is van mening dat de grootste veiligheids- en beveiligingsrisico’s bij abonnees zich voordoen bij diensten die te maken hebben met het internet. Door de technische complexiteit van die diensten lopen de persoonsgegevens en de persoonlijke levenssfeer van abonnees meer gevaar dan bijvoorbeeld bij klassieke vaste of mobiele telefoondiensten. Daarom zal de Autoriteit Consument en Markt zich bij het toezicht concentreren op aanbieders van diensten die te maken hebben met internet en niet op andere aanbieders van openbare elektronische communicatiediensten en -netwerken, zoals klassieke telefoonaanbieders. Hierbij wordt geen onderscheid gemaakt tussen vast en mobiel internet.
 
 ### 6.3. Aanbieders openbare elektronische communicatiediensten
@@ -161,7 +168,7 @@ De abonnees van een openbare elektronische-communicatiedienst kunnen zowel natuu
 
 ### 8.1. Algemeen
 
-In dit hoofdstuk licht de Autoriteit Consument en Markt toe welke criteria hij hanteert voor het beoordelen van de manier waarop de informatie door de aanbieder wordt verstrekt aan zijn abonnees. Zo is de Autoriteit Consument en Markt van mening dat minimaal alle in hoofdstuk 4 genoemde bijzondere risico’s bij de informatieverstrekking expliciet aan de abonnee uitgelegd dienen te worden. Verder zal de Autoriteit Consument en Markt er op toezien dat voor elk van deze risico’s de middelen aan de orde komen, met daarbij een indicatie van de verwachte kosten.17Ter toelichting een voorbeeld: een voorlichtingstekst als ‘Om veilig te kunnen internetten zou u een firewall en een virusscanner moeten installeren op uw computer. U kunt hiervoor bijvoorbeeld het hiernaast afgebeelde pakket bij ons bestellen voor 50 Euro.’ is naar het oordeel van de Autoriteit Consument en Markt niet afdoende. Immers, de abonnee wordt niet voorgelicht over de risico’s die hij loopt als hij geen firewall en virusscanner installeert. Het begrip ‘(on)veilig internetten’ is daarvoor niet expliciet genoeg.
+In dit hoofdstuk licht de Autoriteit Consument en Markt toe welke criteria hij hanteert voor het beoordelen van de manier waarop de informatie door de aanbieder wordt verstrekt aan zijn abonnees. Zo is de Autoriteit Consument en Markt van mening dat minimaal alle in [hoofdstuk 4](https://wetten.overheid.nl/BWBR0033401) genoemde bijzondere risico’s bij de informatieverstrekking expliciet aan de abonnee uitgelegd dienen te worden. Verder zal de Autoriteit Consument en Markt er op toezien dat voor elk van deze risico’s de middelen aan de orde komen, met daarbij een indicatie van de verwachte kosten.17Ter toelichting een voorbeeld: een voorlichtingstekst als ‘Om veilig te kunnen internetten zou u een firewall en een virusscanner moeten installeren op uw computer. U kunt hiervoor bijvoorbeeld het hiernaast afgebeelde pakket bij ons bestellen voor 50 Euro.’ is naar het oordeel van de Autoriteit Consument en Markt niet afdoende. Immers, de abonnee wordt niet voorgelicht over de risico’s die hij loopt als hij geen firewall en virusscanner installeert. Het begrip ‘(on)veilig internetten’ is daarvoor niet expliciet genoeg.
 
 ### 8.2. Voorwaarden informatieverstrekking
 
@@ -175,9 +182,25 @@ Verder is de Autoriteit Consument en Markt van mening dat de betreffende informa
 
 De Autoriteit Consument en Markt hanteert de volgende criteria voor het moment van verstrekken van informatie:
 
+- – op het moment dat (toekomstige) abonnees de website van de aanbieder bezoeken,
+
+- – op het moment dat (toekomstige) abonnees een contract voor een dienst gaan afsluiten of verlengen,
+
+- – nadat er een substantiële wijziging in de bijzondere risico’s optreedt, waarbij de individuele abonnee rechtstreeks benaderd dient te worden en de termijn waarbinnen deze informatie gestuurd wordt, recht doet aan de grootte van het risico.
+
 ### 8.5. Specifieke criteria voor informatie op websites
 
 Sommige informatie kan zowel op papier als digitaal verstrekt worden. Indien de informatie te vinden is op de website van de aanbieder, dan hanteert de Autoriteit Consument en Markt de volgende criteria bij zijn toezicht:
+
+- 1. op de website van de aanbieder is er een speciale pagina ingericht die algemene informatie geeft over veiligheid en beveiliging van internetdiensten;
+
+- 2. op deze pagina worden de bijzondere en actuele veiligheidsrisico’s benoemd en uitgelegd,18Hierbij heeft de aanbieder de vrijheid om inhoudelijke of verdiepende informatie op vervolgpagina’s te vermelden zonder afbreuk te doen aan het overzicht voor de (toekomstige) abonnee. plus (een verwijzing naar) de eventuele middelen waarmee deze risico’s kunnen worden tegengegaan alsmede een indicatie van de kosten;
+
+- 3. op deze pagina staat een uitleg (of wordt verwezen naar een uitleg) van de gebruikte begrippen;
+
+- 4. deze pagina is via maximaal 1 doorverwijzing (‘één muisklik’) te bereiken vanaf die pagina’s waar de (toekomstige) abonnee als eerste terecht kan komen indien hij de dienst van deze aanbieder wil afnemen;19Dit kan bijvoorbeeld de *homepage* van de aanbieder pagina zijn, en/of de pagina van de webmaildienst en/of de pagina die het startpunt is voor de verkoop van internettoegangsdiensten. Het college maakt dit onderscheid, omdat een (toekomstige) abonnee op verschillende webpagina’s van de aanbieder kan belanden. Soms kiest iemand ervoor om de homepage te zoeken, maar soms komt een abonnee via een banner op een andere pagina direct geleid naar een pagina waar een productaanbieding wordt gedaan (*landing page*). In dat geval zal deze *landing**page* dus een doorverwijzing naar de voorlichting moeten bevatten.
+
+- 5. de verwijzingen zijn gemakkelijk te vinden en benoemen duidelijk welke informatie met de verwijzing te vinden valt.
 
 ### 8.6. Overige middelen om informatie te verstrekken
 
@@ -216,7 +239,3 @@ Deze beleidsregels bevatten het OPTA-beleid inzake de handhaving van [artikel 11
 ### 10.3. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na publicatie ervan in de Nederlandse Staatscourant.
-
-## Bijlage
-
-Gepubliceerd op de website van OPTA.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 7 mei 2013, houdende regels ten aanzien van wervings- en reclameactiviteiten, alsmede het preventiebeleid van houders van een vergunning op grond van de Wet op de kansspelen (Besluit werving, reclame en verslavingspreventie kansspelen)"
+citeertitel: "Besluit werving, reclame en verslavingspreventie kansspelen"
 identifier: "BWBR0033412"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033412"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "12256213"
-version_id: "20510892"
-internal_id: "C28967381"
-label_id: "12227644"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033412/2026-01-01/0"
-intitule_bron: "Stb.2013-175"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-07"
-intitule_published: "2013-05-22"
-intitule_in_force: "2013-06-26"
-intitule_status: "goed"
-original_publication: "Stb.2013-175"
-original_signed_date: "2013-05-07"
-original_published_date: "2013-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-175"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033412&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0033412&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit werving, reclame en verslavingspreventie kansspelen"
-signed_date: "2013-05-07"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0033412"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 7 mei 2013, houdende regels ten aanzien van wervings- en reclameactiviteiten, alsmede het preventiebeleid van houders van een vergunning op grond van de Wet op de kansspelen (Besluit werving, reclame en verslavingspreventie kansspelen)
-
-Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 11 januari 2013, nr. 340031;
-
-Gelet op de [artikelen 4a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4a), en [30d, vierde lid, onder b, van de Wet op de Kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30d);
-
-De Afdeling advisering van Raad van State gehoord (advies van 25 februari 2013, nr. W03.13.0005/II);
-
-Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 25 april 2013, nr. 380347;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,35 +20,35 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. *wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- b. *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- c. **raad van bestuur:** de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- c. *raad van bestuur:* de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- d. **vergunninghouders:** houders van een vergunning op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- d. *vergunninghouders:* houders van een vergunning op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- e. **wervings- en reclameactiviteiten:** iedere vorm van communicatie waarmee vergunninghouders, al dan niet met behulp van derden, direct of indirect hun diensten of goederen aanprijzen;
+- e. *wervings- en reclameactiviteiten:* iedere vorm van communicatie waarmee vergunninghouders, al dan niet met behulp van derden, direct of indirect hun diensten of goederen aanprijzen;
 
-- f. **bonus:** een goed of een dienst, waaronder gratis speeltegoed, aangeboden om spelers voor de vergunde kansspelen te werven of te behouden of om reclame voor die kansspelen te maken;
+- f. *bonus:* een goed of een dienst, waaronder gratis speeltegoed, aangeboden om spelers voor de vergunde kansspelen te werven of te behouden of om reclame voor die kansspelen te maken;
 
-- g. **leidinggevenden:**
+- g. *leidinggevenden:*
 
-- 1º. de natuurlijke personen of de bestuurders van een rechtspersoon die de vergunning houden, of hun gevolmachtigden;
+   - 1º. de natuurlijke personen of de bestuurders van een rechtspersoon die de vergunning houden, of hun gevolmachtigden;
 
-- 2º. de natuurlijke personen die algemene leiding geven aan een onderneming waarin de vergunning in een of meer inrichtingen of op afstand wordt geëxploiteerd;
+   - 2º. de natuurlijke personen die algemene leiding geven aan een onderneming waarin de vergunning in een of meer inrichtingen of op afstand wordt geëxploiteerd;
 
-- 3º. de natuurlijke personen die onmiddellijk leiding geven aan de bedrijfsvoering in een dergelijke onderneming of inrichting;
+   - 3º. de natuurlijke personen die onmiddellijk leiding geven aan de bedrijfsvoering in een dergelijke onderneming of inrichting;
 
-- h. **het register:** het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- h. *het register:* het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- i. **burgerservicenummer:** het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- i. *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- j. **kansspelen op afstand:** kansspelen als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- j. *kansspelen op afstand:* kansspelen als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- k. **speelautomatenhal:** inrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
+- k. *speelautomatenhal:* inrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
 
-- l. **speelcasino:** inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g).
+- l. *speelcasino:* inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g).
 
 ### Hoofdstuk 2. Wervings- en reclameactiviteiten
 
@@ -112,6 +80,54 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de toepassing van dit artikel.
 
+##### Artikel 2a
+
+1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand biedt een speler geen bonus aan:
+
+- a. tijdens diens deelname aan een door hem georganiseerd kansspel;
+
+- b. binnen een bij regeling van Onze Minister vastgestelde termijn nadat hij jegens die speler een interventiemaatregel als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=18&z=2026-01-01&g=2026-01-01), heeft getroffen.
+
+2. De vergunninghouder stemt het moment waarop hij een bonus aanbiedt of de aard van de bonus niet af op het individuele speelgedrag van de speler.
+
+3. De vergunninghouder informeert de speler op passende, duidelijke en begrijpelijke wijze over de bonus, de voorwaarden voor de verstrekking van de bonus en voor de uitkering van eventueel daarmee verkregen speelwinst. Hij verstrekt geen bonus aan een speler die de voorwaarden niet uitdrukkelijk heeft aanvaard.
+
+4. De vergunninghouder stelt de speler in de gelegenheid te allen tijde aan te geven dat hij niet meer in aanmerking wil komen voor een bonus.
+
+5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het aanbieden en verstrekken van bonussen.
+
+##### Artikel 2ab
+
+1. De houder van een vergunning tot het organiseren van kansspelen op afstand ontplooit voor die kansspelen:
+
+- a. alleen zodanig specifiek gerichte wervings- en reclameactiviteiten dat deze geen personen bereiken als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- b. geen wervings- en reclameactiviteiten:
+
+   - 1°. via een omroepdienst als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
+
+   - 2°. in kranten, tijdschriften of andere gedrukte, algemeen toegankelijke communicatiemiddelen;
+
+   - 3°. die zijn waar te nemen op een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=1), in een voor het publiek toegankelijk gebouw als bedoeld in [artikel 174, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of op een daarbij behorend erf.
+
+2. Het eerste lid is niet van toepassing op wervings- en reclameactiviteiten via het internet of via een mediadienst op aanvraag als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), indien de houder van de vergunning:
+
+- a. personen gelegenheid heeft gegeven aan te geven dat zij door de wervings- en reclameactiviteiten niet willen worden bereikt;
+
+- b. de best beschikbare maatregelen treft om te voorkomen dat een wervings- of reclameactiviteit een persoon zal bereiken, als bedoeld in onderdeel a of in [artikel 2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01);
+
+- c. met behulp van de best beschikbare technieken aantoont dat ten minste 95% van de personen die door een wervings- of reclameactiviteit zijn bereikt, de leeftijd van 24 jaar had bereikt.
+
+3. De houder van een andere vergunning op grond van de wet dan een vergunning tot het organiseren van kansspelen op afstand, ontplooit voor die andere kansspelen geen wervings- en reclameactiviteiten die:
+
+- a. door vorm, context of doel sterke gelijkenis vertonen met wervings- en reclameactiviteiten voor kansspelen op afstand;
+
+- b. bij het publiek redelijkerwijs de indruk geven dat zij kansspelen op afstand aanprijzen of mede aanprijzen;
+
+- c. het publiek via een URL of website of op enigerlei andere wijze direct of indirect verwijzen naar kansspelen op afstand.
+
+4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de toepassing van het tweede en derde lid.
+
 ##### Artikel 3
 
 1. Agressieve en misleidende wervings- en reclameactiviteiten van vergunninghouders voor kansspelen zijn niet toegestaan.
@@ -131,6 +147,14 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - c. wervings- en reclameactiviteiten voor andere spelen als bedoeld onder a met gebruikmaking van de elektronische communicatiemiddelen waarmee zij kansspelen aanbieden, toe te staan.
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de toepassing van dit artikel.
+
+##### Artikel 3a
+
+1. De houder van een vergunning tot het organiseren een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand stemt zijn wervings- en reclameactiviteiten af op de uitkomsten van de risicoanalyse, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01).
+
+2. De vergunninghouder draagt er zorg voor dat hij te allen tijde verantwoording kan afleggen over de wijze waarop hij uitvoering heeft gegeven aan het eerste lid.
+
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
 ##### Artikel 4
 
@@ -174,7 +198,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het is niet toegestaan om bij de wervings- en reclameactiviteiten aan te geven, dan wel de suggestie te wekken, dat deelnemers of prijswinnaars verplicht zijn medewerking te verlenen aan enige vorm van werving of reclame door de vergunninghouder.
 
-### Hoofdstuk 3. Preventiebeleid
+### Hoofdstuk 3. Verslavingspreventie
+
+#### Afdeling 1. Algemeen
 
 ##### Artikel 6
 
@@ -204,6 +230,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de nadere invulling van dit artikel en worden eisen gesteld aan de bewijsstukken waaruit blijkt dat aan de in dit artikel gestelde eisen wordt voldaan.
 
+#### Afdeling 2. Kansspelen in speelautomatenhallen, speelcasino’s en op afstand
+
+#### Paragraaf 1. Verslavingspreventiebeleid van de vergunninghouder
+
 ##### Artikel 7
 
 1. De houder van een vergunning tot het organiseren een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand draagt er voor zorg dat in zijn organisatie in samenwerking met deskundigen op het gebied van verslavingszorg en ervaringsdeskundigen op het gebied van kansspelen een doeltreffend verslavingspreventiebeleid wordt ontwikkeld, toegepast en onderhouden, dat ten minste voldoet aan de bij of krachtens dit hoofdstuk gestelde bepalingen en dat aansluit op het Nederlandse stelsel van verslavingszorg. In het verslavingspreventiebeleid wordt in ieder geval bijzondere aandacht geschonken aan:
@@ -222,7 +252,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verslavingspreventiebeleid, bedoeld in het eerste lid, de analyses, bedoeld in het tweede lid, en de frequentie en inhoud van de rapportage, bedoeld in het vierde lid.
 
-### Hoofdstuk 3. Verslavingspreventie
+#### Paragraaf 2. Informatie en voorzieningen
 
 ##### Artikel 8
 
@@ -278,6 +308,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de door de houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand in het belang van verslavingspreventie te verstrekken informatie en te treffen maatregelen.
 
+#### Paragraaf 3. Identificatie van spelers
+
 ##### Artikel 11
 
 1. Voordat de houder van een vergunning tot het organiseren van een speelcasino of tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal een persoon toegang verleent tot dat speelcasino of die inrichting:
@@ -305,44 +337,6 @@ Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot d
 7. De vergunninghouder verstrekt degene aan wie hij toegang tot het speelcasino of de inrichting verleent een bewijs van toegang.
 
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede, zesde en zevende lid.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand biedt een speler geen bonus aan:
-
-- a. tijdens diens deelname aan een door hem georganiseerd kansspel;
-
-- b. binnen een bij regeling van Onze Minister vastgestelde termijn nadat hij jegens die speler een interventiemaatregel als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=18&z=2026-01-01&g=2026-01-01), heeft getroffen.
-
-2. De vergunninghouder stemt het moment waarop hij een bonus aanbiedt of de aard van de bonus niet af op het individuele speelgedrag van de speler.
-
-3. De vergunninghouder informeert de speler op passende, duidelijke en begrijpelijke wijze over de bonus, de voorwaarden voor de verstrekking van de bonus en voor de uitkering van eventueel daarmee verkregen speelwinst. Hij verstrekt geen bonus aan een speler die de voorwaarden niet uitdrukkelijk heeft aanvaard.
-
-4. De vergunninghouder stelt de speler in de gelegenheid te allen tijde aan te geven dat hij niet meer in aanmerking wil komen voor een bonus.
-
-5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het aanbieden en verstrekken van bonussen.
-
-##### Artikel 3a
-
-1. De houder van een vergunning tot het organiseren een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand stemt zijn wervings- en reclameactiviteiten af op de uitkomsten van de risicoanalyse, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01).
-
-2. De vergunninghouder draagt er zorg voor dat hij te allen tijde verantwoording kan afleggen over de wijze waarop hij uitvoering heeft gegeven aan het eerste lid.
-
-3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot dit artikel.
-
-### Hoofdstuk 3. Verslavingspreventie
-
-### Afdeling 1. Algemeen
-
-### Afdeling 2. Kansspelen in speelautomatenhallen, speelcasino’s en op afstand
-
-#### Paragraaf 1. Verslavingspreventiebeleid van de vergunninghouder
-
-#### Paragraaf 2. Informatie en voorzieningen
-
-#### Paragraaf 3. Identificatie van spelers
 
 ##### Artikel 12
 
@@ -480,7 +474,7 @@ Bij regeling van Onze Minister worden in het belang van verslavingspreventie nad
 
 9. De vergunninghouder is verwerkingsverantwoordelijke.
 
-### Afdeling 3. Het register
+#### Afdeling 3. Het register
 
 ##### Artikel 21
 
@@ -553,59 +547,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit werving, reclame en verslavingspreventie kansspelen.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2ab
-
-1. De houder van een vergunning tot het organiseren van kansspelen op afstand ontplooit voor die kansspelen:
-
-- a. alleen zodanig specifiek gerichte wervings- en reclameactiviteiten dat deze geen personen bereiken als bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- b. geen wervings- en reclameactiviteiten:
-
-- 1°. via een omroepdienst als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
-
-- 2°. in kranten, tijdschriften of andere gedrukte, algemeen toegankelijke communicatiemiddelen;
-
-- 3°. die zijn waar te nemen op een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=1), in een voor het publiek toegankelijk gebouw als bedoeld in [artikel 174, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of op een daarbij behorend erf.
-
-2. Het eerste lid is niet van toepassing op wervings- en reclameactiviteiten via het internet of via een mediadienst op aanvraag als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1), indien de houder van de vergunning:
-
-- a. personen gelegenheid heeft gegeven aan te geven dat zij door de wervings- en reclameactiviteiten niet willen worden bereikt;
-
-- b. de best beschikbare maatregelen treft om te voorkomen dat een wervings- of reclameactiviteit een persoon zal bereiken, als bedoeld in onderdeel a of in [artikel 2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01);
-
-- c. met behulp van de best beschikbare technieken aantoont dat ten minste 95% van de personen die door een wervings- of reclameactiviteit zijn bereikt, de leeftijd van 24 jaar had bereikt.
-
-3. De houder van een andere vergunning op grond van de wet dan een vergunning tot het organiseren van kansspelen op afstand, ontplooit voor die andere kansspelen geen wervings- en reclameactiviteiten die:
-
-- a. door vorm, context of doel sterke gelijkenis vertonen met wervings- en reclameactiviteiten voor kansspelen op afstand;
-
-- b. bij het publiek redelijkerwijs de indruk geven dat zij kansspelen op afstand aanprijzen of mede aanprijzen;
-
-- c. het publiek via een URL of website of op enigerlei andere wijze direct of indirect verwijzen naar kansspelen op afstand.
-
-4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de toepassing van het tweede en derde lid.
-
-### Afdeling 1. Algemeen
-
-### Afdeling 2. Kansspelen in speelautomatenhallen, speelcasino’s en op afstand
-
-#### Paragraaf 1. Verslavingspreventiebeleid van de vergunninghouder
-
-#### Paragraaf 2. Informatie en voorzieningen
-
-#### Paragraaf 3. Identificatie van spelers
-
-#### Paragraaf 4. Registratie en analyse van speelgedrag
-
-#### Paragraaf 5. Interventie in het speelgedrag
-
-#### Paragraaf 6. Persoonsgegevens
-
-### Afdeling 3. Het register
-
-### Hoofdstuk 4. Slotbepalingen
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

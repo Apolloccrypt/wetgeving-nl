@@ -1,47 +1,18 @@
 ---
 title: "Wet van 28 februari 2013, houdende regels omtrent de instelling van de Autoriteit Consument en Markt (Instellingswet Autoriteit Consument en Markt)"
+citeertitel: "Instellingswet Autoriteit Consument en Markt"
 identifier: "BWBR0033043"
-country: "nl"
-rank: "wet"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033043"
+categorie: "Overig"
 soort: "wet"
-stam_id: "12143843"
-version_id: "21515442"
-internal_id: "C30921271"
-label_id: "12115944"
-dtd_version: "2.0"
-original_entry_into_force: "2014-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033043/2025-09-01/0"
-intitule_bron: "Stb.2013-102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-28"
-intitule_published: "2013-03-21"
-intitule_in_force: "2013-03-21"
-intitule_status: "goed"
-original_publication: "Stb.2014-247"
-original_signed_date: "2014-06-25"
-original_published_date: "2014-07-03"
-original_effect: "structuurwijziging"
-original_dossier: "33622"
-original_url_id: "stb-2014-247"
-entry_into_force_date: "2014-08-01"
-jci_1_3: "jci1.3:c:BWBR0033043&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0033043&g=2025-09-01"
-citeertitel_status: "officieel"
-short_title: "Instellingswet Autoriteit Consument en Markt"
-signed_date: "2014-06-25"
-entry_into_force: "2014-08-01"
+publicatiedatum: 2014-08-01
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0033043"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 28 februari 2013, houdende regels omtrent de instelling van de Autoriteit Consument en Markt (Instellingswet Autoriteit Consument en Markt)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om het toezicht op markten te stroomlijnen ter bevordering van de kwaliteit van het toezicht en de bescherming van het belang van de consument, en daarom regels te stellen die het toezicht zoveel mogelijk onderbrengen bij één onafhankelijke toezichthouder;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,21 +20,22 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01);
+- – *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01);
 
-- –. **bindende aanwijzing:** een zelfstandige last die wegens een overtreding wordt opgelegd;
+- – *bindende aanwijzing:* een zelfstandige last die wegens een overtreding wordt opgelegd;
 
-- –. **marktorganisatie:**
+- – *marktorganisatie:*
 
-- 1°. een rechtspersoon, natuurlijke persoon of andere entiteit handelend in de uitoefening van een beroep of bedrijf, met inbegrip van een onderneming als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;
+   - 1°. een rechtspersoon, natuurlijke persoon of andere entiteit handelend in de uitoefening van een beroep of bedrijf, met inbegrip van een onderneming als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;
 
-- 2°. een organisatie waarin meerdere rechtspersonen, natuurlijke personen of andere entiteiten handelend in de uitoefening van een beroep of bedrijf verenigd zijn, met inbegrip van een ondernemersvereniging als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;
+   - 2°. een organisatie waarin meerdere rechtspersonen, natuurlijke personen of andere entiteiten handelend in de uitoefening van een beroep of bedrijf verenigd zijn, met inbegrip van een ondernemersvereniging als bedoeld in artikel 101 van het Verdrag betreffende de werking van de Europese Unie;
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- – *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- –. **Verordening (EU) 2016/679:** [Verordening (EU) 2016/679](32579R2016) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (Pb EU 2016, L 119);
+- – *Verordening (EU) 2016/679:*
+ Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (Pb EU 2016, L 119);
 
-- –. **zelfstandige last:** de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
+- – *zelfstandige last:* de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
 
 ### Hoofdstuk 2. De Autoriteit Consument en Markt
 
@@ -125,278 +97,6 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister zendt zo spoedig mogelijk zijn bevindingen omtrent het jaarverslag, alsmede de bevindingen van Onze Minister van Infrastructuur en Milieu, aan de beide Kamers der Staten-Generaal.
 
-##### Artikel 7
-
-1. Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01), zijn verkregen mogen uitsluitend worden gebruikt voor zover dat noodzakelijk is voor de uitvoering van die taak of van enige andere taak als bedoeld in artikel 2, tweede lid.
-
-2. Het eerste lid is niet van toepassing voor zover een wettelijk voorschrift het gebruik van verkregen gegevens of inlichtingen regelt.
-
-3. In afwijking van het eerste lid is de Autoriteit Consument en Markt bevoegd gegevens of inlichtingen te verstrekken aan:
-
-- a. een bestuursorgaan, dienst, toezichthouder en andere persoon, belast met de opsporing van strafbare feiten, onderscheidenlijk het toezicht op de naleving van wettelijke voorschriften, indien bij regeling van Onze Minister is bepaald dat verstrekking noodzakelijk is voor de goede vervulling van een aan dat bestuursorgaan, die dienst, die toezichthouder of die andere persoon opgedragen taak,
-
-- b. een buitenlandse instelling, indien het gaat om gegevens of inlichtingen die van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die buitenlandse instelling en die buitenlandse instelling op grond van nationale wettelijke regels is belast met de toepassing van regels op dezelfde gebieden als waarop de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01), betrekking hebben, of
-
-- c. degene op wie de gegevens of inlichtingen betrekking hebben voor zover deze gegevens of inlichtingen door of namens hem zijn verstrekt.
-
-4. Verstrekking aan een bestuursorgaan, dienst, toezichthouder of andere persoon als bedoeld in het derde lid, onder a, of aan een in het derde lid, onder b, bedoelde buitenlandse instelling vindt uitsluitend plaats indien:
-
-- a. de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd, en
-
-- b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
-
-5. Gelet op artikel 9, tweede lid, onderdeel g, van [Verordening (EU) 2016/679](32579R2016) verwerkt de Autoriteit Consument en Markt gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van [Verordening (EU) 2016/679](32579R2016), die noodzakelijk zijn ten behoeve van het toezicht of de taken waarmee de Autoriteit Consument en Markt is belast op grond van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8) en [10 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10), voor zover het de zorgsector betreft, en artikel 2, vierde lid, voor zover het marktonderzoeken en rapportages in de zorgsector betreft.
-
-6. De Autoriteit Consument en Markt verwerkt de gegevens, bedoeld in het vijfde lid, slechts indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5, van [Verordening (EU) 2016/679](32579R2016) is toegepast en vervolgens onafgebroken is gecontinueerd.
-
-7. Gelet op artikel 23, eerste lid, onderdeel e, van [Verordening (EU) 2016/679](32579R2016) is artikel 21, eerste lid, tweede volzin, van [Verordening (EU) 2016/679](32579R2016) bij de verwerking, bedoeld in het vijfde lid, niet van toepassing.
-
-8. Indien toepassing wordt gegeven aan het vijfde lid worden de gegevens over gezondheid alleen verwerkt door personen die uit hoofde van een wettelijk voorschrift dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht.
-
-##### Artikel 8
-
-Onze Minister kan nadere regels vaststellen over de in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) bedoelde verstrekking van gegevens of inlichtingen van de Autoriteit Consument en Markt aan Onze Minister of Onze Minister van Infrastructuur en Milieu en nadere regels over de verstrekking van gegevens of inlichtingen door Onze Minister of Onze Minister van Infrastructuur en Milieu aan de Autoriteit Consument en Markt.
-
-##### Artikel 9
-
-1. Onze Minister en Onze Minister van Infrastructuur en Milieu onthouden zich van instructies die op een individuele zaak betrekking hebben.
-
-2. De leden en het personeel van de Autoriteit Consument en Markt verlangen of ontvangen geen instructies die op een individuele zaak betrekking hebben.
-
-##### Artikel 10
-
-1. In afwijking van [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) kan Onze Minister of Onze Minister van Infrastructuur en Milieu een besluit van de Autoriteit Consument en Markt uitsluitend vernietigen indien het een besluit van algemene strekking betreft en de vernietiging geschiedt wegens onbevoegdheid van de Autoriteit Consument en Markt.
-
-2. [Artikel 10:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:35) is niet van toepassing.
-
-3. Onze Minister of Onze Minister van Infrastructuur en Milieu kan geen besluiten vernietigen op het gebied van energie, post, telecommunicatie en vervoer die de Autoriteit Consument en Markt neemt op grond van het bepaalde bij of krachtens een voor een specifieke marktsector geldende wet of op het gebied van mededinging. [Artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) is op die besluiten niet van toepassing.
-
-4. Onze Minister of Onze Minister van Infrastructuur en Milieu zendt een afschrift van een besluit tot vernietiging aan de Tweede en de Eerste Kamer der Staten-Generaal.
-
-##### Artikel 11
-
-Indien de Autoriteit Consument en Markt bij werkzaamheden ten behoeve van de uitvoering van een wet die valt onder de verantwoordelijkheid van Onze Minister van Infrastructuur en Milieu haar taak ernstig verwaarloost, treft Onze Minister de in [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23) bedoelde voorzieningen na overleg met Onze Minister van Infrastructuur en Milieu.
-
-##### Artikel 12
-
-Onze Minister stelt het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), op na overleg met Onze Minister van Infrastructuur en Milieu.
-
-### Hoofdstuk 3. Wijziging van andere wetten
-
-##### Artikel 13
-
-Wijzigt de Aanbestedingswet 2012.
-
-##### Artikel 14
-
-Wijzigt de Aanbestedingswet op defensie- en veiligheidsgebied.
-
-##### Artikel 15
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel 16
-
-Wijzigt het Burgerlijk Wetboek Boek 3.
-
-##### Artikel 17
-
-Wijzigt de Dienstenwet.
-
-##### Artikel 18
-
-Wijzigt de Drinkwaterwet.
-
-##### Artikel 19
-
-Wijzigt de Elektriciteitswet 1998.
-
-##### Artikel 20
-
-Wijzigt de Gaswet.
-
-##### Artikel 21
-
-Wijzigt de Handelsregisterwet 2007.
-
-##### Artikel 22
-
-Wijzigt de Loodsenwet.
-
-##### Artikel 23
-
-Wijzigt de Mededingingswet.
-
-##### Artikel 24
-
-Wijzigt de Postwet 2009.
-
-##### Artikel 25
-
-Wijzigt de Scheepvaartverkeerswet.
-
-##### Artikel 26
-
-Wijzigt de Spoorwegwet.
-
-##### Artikel 27
-
-Wijzigt de Telecommunicatiewet.
-
-##### Artikel 28
-
-Wijzigt de Warmtewet.
-
-##### Artikel 29
-
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-##### Artikel 30
-
-Wijzigt de Wet handhaving consumentenbescherming.
-
-##### Artikel 31
-
-Wijzigt de Wet implementatie EU-richtlijnen energie-efficiëntie.
-
-##### Artikel 32
-
-Wijzigt de Wet luchtvaart.
-
-##### Artikel 33
-
-Wijzigt de Wet marktordening gezondheidszorg.
-
-##### Artikel 34
-
-Wijzigt de Wet markttoezicht registerloodsen.
-
-##### Artikel 35
-
-Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).
-
-##### Artikel 36
-
-Wijzigt de Wet op het financieel toezicht.
-
-##### Artikel 37
-
-Wijzigt de Wet personenvervoer 2000.
-
-##### Artikel 38
-
-Wijzigt de Wet post BES.
-
-##### Artikel 39
-
-Wijzigt de Wet telecommunicatievoorzieningen BES.
-
-##### Artikel 40
-
-Wijzigt de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten.
-
-##### Artikel 41
-
-Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen en verordeningen op het gebied van elektriciteit en gas).
-
-### Hoofdstuk 3a. Wijziging van andere wetten
-
-##### Artikel 42
-
-1. Besluiten van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aangemerkt als besluiten van de Autoriteit Consument en Markt.
-
-2. Aanvragen en bezwaarschriften, ingediend bij de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aangemerkt als aanvragen en bezwaarschriften, ingediend bij de Autoriteit Consument en Markt.
-
-3. In bestuursrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Autoriteit Consument en Markt in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
-
-4. In civielrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
-
-5. In overeenkomsten treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
-
-6. In samenwerkingsprotocollen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Autoriteit Consument en Markt in de plaats van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
-
-7. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, treedt de Autoriteit Consument en Markt op dat tijdstip in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt respectievelijk de Consumentenautoriteit.
-
-8. Archiefbescheiden van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt en de Consumentenautoriteit worden overgedragen aan de Autoriteit Consument en Markt, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
-
-##### Artikel 43
-
-1. De vaststelling door de Autoriteit Consument en Markt van een begroting als bedoeld in [artikel 25 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=25) vindt voor het eerst plaats ten aanzien van het kalenderjaar na dat waarin deze wet in het Staatsblad is geplaatst.
-
-2. Onze Minister stelt voor de Autoriteit Consument en Markt een voorlopig bestuursreglement vast. Het voorlopig reglement geldt totdat het bestuursreglement van de Autoriteit Consument en Markt de goedkeuring van Onze Minister heeft verkregen.
-
-3. De vaststelling door de Autoriteit Consument en Markt van een jaarverslag als bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) vindt voor het eerst plaats ten aanzien van het kalenderjaar waarin deze wet in het Staatsblad is geplaatst en betreft dan geheel of gedeeltelijk de taakuitoefening van de Nederlandse Mededingingsautoriteit onderscheidenlijk het college voor de post- en telecommunicatiemarkt onderscheidenlijk de Consumentenautoriteit.
-
-##### Artikel 44
-
-1. Met ingang van het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet is het personeel van het college voor de post- en telecommunicatiemarkt aangesteld in algemene dienst van het Rijk.
-
-2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het college voor de post- en telecommunicatiemarkt.
-
-3. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet gaan de vermogensbestanddelen van het college voor de post- en telecommunicatiemarkt onder algemene titel over op de Staat tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
-
-4. Ingeval krachtens het derde lid registergoederen overgaan, doet Onze Minister van Financiën de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
-
-##### Artikel 44a
-
-Op overtredingen van het bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3a&artikel=30&z=2025-09-01&g=2025-09-01) van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip.
-
-##### Artikel 45
-
-Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover de [artikelen 42 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=4&artikel=42&z=2025-09-01&g=2025-09-01) daarin niet voorzien. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.
-
-##### Artikel 45a
-
-Wijzigt de Elektriciteitswet 1998.
-
-##### Artikel 45b
-
-Wijzigt de Gaswet.
-
-##### Artikel 45c
-
-Wijzigt de Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden.
-
-##### Artikel 45d
-
-Wijzigt de Spoorwegwet.
-
-##### Artikel 45e
-
-Wijzigt de Spoorwegwet.
-
-##### Artikel 45f
-
-Wijzigt de Spoorwegwet.
-
-##### Artikel 45g
-
-Wijzigt de Telecommunicatiewet.
-
-##### Artikel 45h
-
-Wijzigt de Wet personenvervoer 2000.
-
-##### Artikel 45i
-
-Vervallen
-
-### Hoofstuk 5. Slotbepalingen
-
-##### Artikel 46
-
-De [Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807) wordt ingetrokken.
-
-##### Artikel 47
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 48
-
-Deze wet wordt aangehaald als: Instellingswet Autoriteit Consument en Markt.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
 ##### Artikel 6a
 
 1. De kosten van de Autoriteit Consument en Markt die samenhangen met de uitvoering van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01), worden ten laste gebracht van marktorganisaties, tenzij bij wettelijk voorschrift anders is bepaald.
@@ -440,6 +140,62 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 3. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
 4. De Autoriteit Consument en Markt draagt er zorg voor dat de wijze waarop zij uitvoering geeft aan het eerste lid zodanig is dat de daaruit voortvloeiende lasten voor marktorganisaties zo laag mogelijk zijn.
+
+##### Artikel 7
+
+1. Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01), zijn verkregen mogen uitsluitend worden gebruikt voor zover dat noodzakelijk is voor de uitvoering van die taak of van enige andere taak als bedoeld in artikel 2, tweede lid.
+
+2. Het eerste lid is niet van toepassing voor zover een wettelijk voorschrift het gebruik van verkregen gegevens of inlichtingen regelt.
+
+3. In afwijking van het eerste lid is de Autoriteit Consument en Markt bevoegd gegevens of inlichtingen te verstrekken aan:
+
+- a. een bestuursorgaan, dienst, toezichthouder en andere persoon, belast met de opsporing van strafbare feiten, onderscheidenlijk het toezicht op de naleving van wettelijke voorschriften, indien bij regeling van Onze Minister is bepaald dat verstrekking noodzakelijk is voor de goede vervulling van een aan dat bestuursorgaan, die dienst, die toezichthouder of die andere persoon opgedragen taak,
+
+- b. een buitenlandse instelling, indien het gaat om gegevens of inlichtingen die van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die buitenlandse instelling en die buitenlandse instelling op grond van nationale wettelijke regels is belast met de toepassing van regels op dezelfde gebieden als waarop de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01), betrekking hebben, of
+
+- c. degene op wie de gegevens of inlichtingen betrekking hebben voor zover deze gegevens of inlichtingen door of namens hem zijn verstrekt.
+
+4. Verstrekking aan een bestuursorgaan, dienst, toezichthouder of andere persoon als bedoeld in het derde lid, onder a, of aan een in het derde lid, onder b, bedoelde buitenlandse instelling vindt uitsluitend plaats indien:
+
+- a. de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd, en
+
+- b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
+
+5. Gelet op artikel 9, tweede lid, onderdeel g, van Verordening (EU) 2016/679 verwerkt de Autoriteit Consument en Markt gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van Verordening (EU) 2016/679, die noodzakelijk zijn ten behoeve van het toezicht of de taken waarmee de Autoriteit Consument en Markt is belast op grond van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8) en [10 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10), voor zover het de zorgsector betreft, en artikel 2, vierde lid, voor zover het marktonderzoeken en rapportages in de zorgsector betreft.
+
+6. De Autoriteit Consument en Markt verwerkt de gegevens, bedoeld in het vijfde lid, slechts indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5, van Verordening (EU) 2016/679 is toegepast en vervolgens onafgebroken is gecontinueerd.
+
+7. Gelet op artikel 23, eerste lid, onderdeel e, van Verordening (EU) 2016/679 is artikel 21, eerste lid, tweede volzin, van Verordening (EU) 2016/679 bij de verwerking, bedoeld in het vijfde lid, niet van toepassing.
+
+8. Indien toepassing wordt gegeven aan het vijfde lid worden de gegevens over gezondheid alleen verwerkt door personen die uit hoofde van een wettelijk voorschrift dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht.
+
+##### Artikel 8
+
+Onze Minister kan nadere regels vaststellen over de in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) bedoelde verstrekking van gegevens of inlichtingen van de Autoriteit Consument en Markt aan Onze Minister of Onze Minister van Infrastructuur en Milieu en nadere regels over de verstrekking van gegevens of inlichtingen door Onze Minister of Onze Minister van Infrastructuur en Milieu aan de Autoriteit Consument en Markt.
+
+##### Artikel 9
+
+1. Onze Minister en Onze Minister van Infrastructuur en Milieu onthouden zich van instructies die op een individuele zaak betrekking hebben.
+
+2. De leden en het personeel van de Autoriteit Consument en Markt verlangen of ontvangen geen instructies die op een individuele zaak betrekking hebben.
+
+##### Artikel 10
+
+1. In afwijking van [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) kan Onze Minister of Onze Minister van Infrastructuur en Milieu een besluit van de Autoriteit Consument en Markt uitsluitend vernietigen indien het een besluit van algemene strekking betreft en de vernietiging geschiedt wegens onbevoegdheid van de Autoriteit Consument en Markt.
+
+2. [Artikel 10:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:35) is niet van toepassing.
+
+3. Onze Minister of Onze Minister van Infrastructuur en Milieu kan geen besluiten vernietigen op het gebied van energie, post, telecommunicatie en vervoer die de Autoriteit Consument en Markt neemt op grond van het bepaalde bij of krachtens een voor een specifieke marktsector geldende wet of op het gebied van mededinging. [Artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) is op die besluiten niet van toepassing.
+
+4. Onze Minister of Onze Minister van Infrastructuur en Milieu zendt een afschrift van een besluit tot vernietiging aan de Tweede en de Eerste Kamer der Staten-Generaal.
+
+##### Artikel 11
+
+Indien de Autoriteit Consument en Markt bij werkzaamheden ten behoeve van de uitvoering van een wet die valt onder de verantwoordelijkheid van Onze Minister van Infrastructuur en Milieu haar taak ernstig verwaarloost, treft Onze Minister de in [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23) bedoelde voorzieningen na overleg met Onze Minister van Infrastructuur en Milieu.
+
+##### Artikel 12
+
+Onze Minister stelt het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), op na overleg met Onze Minister van Infrastructuur en Milieu.
 
 ### Hoofdstuk 3. Handhaving en openbaarmaking
 
@@ -573,13 +329,13 @@ De Autoriteit Consument en Markt kan in geval van overtreding van een wettelijk 
 
 2. De marktorganisatie verleent medewerking aan een onderzoek als bedoeld in het eerste lid.
 
-3. De Autoriteit Consument en Markt kan de marktorganisatie die in strijd handelt met het tweede lid een bestuurlijke boete opleggen van ten hoogste € 900.000.
+3. De Autoriteit Consument en Markt kan de marktorganisatie die in strijd handelt met het tweede lid een bestuurlijke boete opleggen van ten hoogste € 900.000.
 
 4. De bestuurlijke boete die ingevolge het derde lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
 ##### Artikel 12m
 
-1. De Autoriteit Consument en Markt kan aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 1% van de omzet van de marktorganisatie, indien deze een marktorganisatie is als bedoeld in [artikel 1, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan van de gezamenlijke omzet van de aangesloten marktorganisaties, in geval van:
+1. De Autoriteit Consument en Markt kan aan de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 1% van de omzet van de marktorganisatie, indien deze een marktorganisatie is als bedoeld in [artikel 1, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan van de gezamenlijke omzet van de aangesloten marktorganisaties, in geval van:
 
 - a. overtreding van [artikel 6b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=6b&z=2025-09-01&g=2025-09-01),
 
@@ -589,7 +345,7 @@ De Autoriteit Consument en Markt kan in geval van overtreding van een wettelijk 
 
 - d. verbreking, opheffing of beschadiging van een verzegeling als bedoeld in [artikel 12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=1&artikel=12b&z=2025-09-01&g=2025-09-01), het op andere wijze verijdelen van de door die verzegeling beoogde afsluiting of van het door de marktorganisatie achterwege laten van voldoende maatregelen om verijdeling van de door de verzegeling beoogde afsluiting van door haar gebruikte bedrijfsruimten of voorwerpen te voorkomen.
 
-2. De Autoriteit Consument en Markt kan in geval van overtreding van [artikel 12h, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=2&artikel=12h&z=2025-09-01&g=2025-09-01), de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000, of indien dat meer is, van ten hoogste 10% van de omzet van de marktorganisatie, als bedoeld in [artikel 1, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan, van de gezamenlijke omzet van de aangesloten marktorganisaties.
+2. De Autoriteit Consument en Markt kan in geval van overtreding van [artikel 12h, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=2&artikel=12h&z=2025-09-01&g=2025-09-01), de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000, of indien dat meer is, van ten hoogste 10% van de omzet van de marktorganisatie, als bedoeld in [artikel 1, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), dan wel, indien de overtreding door een marktorganisatie als bedoeld in artikel 1, onder 2°, is begaan, van de gezamenlijke omzet van de aangesloten marktorganisaties.
 
 3. Ingeval van een overtreding als bedoeld in het eerste lid, onderdeel a of b kan de Autoriteit Consument en Markt een last onder dwangsom opleggen.
 
@@ -599,7 +355,7 @@ De Autoriteit Consument en Markt kan in geval van overtreding van een wettelijk 
 
 ##### Artikel 12n
 
-1. Indien de Autoriteit Consument en Markt op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) toepassing geeft aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), bedraagt voor de daar bedoelde overtreder de bestuurlijke boete ten hoogste € 900.000.
+1. Indien de Autoriteit Consument en Markt op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) toepassing geeft aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), bedraagt voor de daar bedoelde overtreder de bestuurlijke boete ten hoogste € 900.000.
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
@@ -639,7 +395,7 @@ Onverminderd [artikel 10:3, vierde lid, van de Algemene wet bestuursrecht](https
 
 4. Een vertegenwoordigde marktorganisatie waarvan op grond van het eerste of tweede lid een bestuurlijke boete wordt gevorderd, is niet verplicht tot betaling indien zij aantoont dat zij de beslissing, bedoeld in het eerste lid, niet heeft uitgevoerd en zij hetzij niet op de hoogte was van die beslissing hetzij actief afstand heeft genomen van die beslissing voordat het onderzoek naar de overtreding was aangevangen.
 
-5. Alvorens toepassing te geven aan het eerste lid ten aanzien van een bestuurlijke boete die is opgelegd wegens overtreding van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6), of [24, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24), dan wel de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, verplicht de Autoriteit Consument en Markt een marktorganisatie als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), waarbij betaling als gevolg van insolventie van die marktorganisatie niet mogelijk is, ertoe om bij elk van de marktorganisaties, bedoeld in artikel 1, onder 1°, die bij de eerstbedoelde marktorganisatie waren vertegenwoordigd, binnen een door de Autoriteit Consument en Markt te stellen termijn, bijdragen te vragen ter betaling van de boete. [Artikel 4:125 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:125) is van overeenkomstige toepassing.
+5. Alvorens toepassing te geven aan het eerste lid ten aanzien van een bestuurlijke boete die is opgelegd wegens overtreding van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6), of [24, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=24), dan wel de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, verplicht de Autoriteit Consument en Markt een marktorganisatie als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), waarbij betaling als gevolg van insolventie van die marktorganisatie niet mogelijk is, ertoe om bij elk van de marktorganisaties, bedoeld in artikel 1, onder 1°, die bij de eerstbedoelde marktorganisatie waren vertegenwoordigd, binnen een door de Autoriteit Consument en Markt te stellen termijn, bijdragen te vragen ter betaling van de boete. [Artikel 4:125 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:125) is van overeenkomstige toepassing.
 
 ##### Artikel 12t
 
@@ -649,7 +405,7 @@ Indien een door de Autoriteit Consument en Markt opgelegde last onder dwangsom o
 
 ##### Artikel 12u
 
-1. De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing, niet zijnde een beschikking als bedoeld in [artikel 12v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=4&artikel=12v&z=2025-09-01&g=2025-09-01), openbaar met dien verstande dat gegevens die ingevolge [Artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet voor verstrekking in aanmerking komen, niet openbaar worden gemaakt.
+1. De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing, niet zijnde een beschikking als bedoeld in [artikel 12v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=4&artikel=12v&z=2025-09-01&g=2025-09-01), openbaar met dien verstande dat gegevens die ingevolge [Artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet voor verstrekking in aanmerking komen, niet openbaar worden gemaakt.
 
 2. De openbaarmaking van de beschikking geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop de beschikking aan de overtreder bekend is gemaakt, tenzij de overtreder de beschikking zelf heeft openbaar gemaakt, heeft doen openbaar maken of heeft aangegeven geen bedenkingen te hebben tegen eerdere openbaarmaking.
 
@@ -665,9 +421,9 @@ Indien een door de Autoriteit Consument en Markt opgelegde last onder dwangsom o
 
 - a. gegevens als bedoeld in [artikel 5.1, eerste lid, onderdeel c, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet openbaar worden gemaakt;
 
-- b. gegevens als bedoeld in [artikel 5.1, tweede lid, onderdeel f, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet openbaar worden gemaakt, indien het belang van openbaarheid naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in artikel 5.1, tweede lid, onderdeel f, van de Wet open overheid;
+- b. gegevens als bedoeld in [artikel 5.1, tweede lid, onderdeel f, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet openbaar worden gemaakt, indien het belang van openbaarheid naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in artikel 5.1, tweede lid, onderdeel f, van de Wet open overheid;
 
-- c. namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in [artikel 5.1, tweede lid, onderdeel e, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1);
+- c. namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in [artikel 5.1, tweede lid, onderdeel e, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1);
 
 - d. de naam van de overtredende marktorganisatie altijd openbaar wordt gemaakt, ook indien de naam van een natuurlijke persoon van die naam deel uitmaakt.
 
@@ -681,7 +437,7 @@ Indien een door de Autoriteit Consument en Markt opgelegde last onder dwangsom o
 
 1. De Autoriteit Consument en Markt kan door haar genomen andere besluiten dan beschikkingen tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing openbaar maken, alsmede andere documenten die door haar of in haar opdracht zijn vervaardigd voor de uitvoering van de aan haar bij of krachtens de wet opgedragen taken.
 
-2. Gegevens die ingevolge [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.
+2. Gegevens die ingevolge [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.
 
 3. [Artikel 12u, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=4&artikel=12u&z=2025-09-01&g=2025-09-01), is van overeenkomstige toepassing indien de Autoriteit Consument en Markt op grond van het eerste lid besluit tot openbaarmaking van een besluit.
 
@@ -691,7 +447,165 @@ Indien een door de Autoriteit Consument en Markt opgelegde last onder dwangsom o
 
 6. Het eerste lid is niet van toepassing, voor zover een wettelijk voorschrift de openbaarmaking regelt.
 
+### Hoofdstuk 3a. Wijziging van andere wetten
+
+##### Artikel 13
+
+*Wijzigt de Aanbestedingswet 2012.*
+
+##### Artikel 14
+
+*Wijzigt de Aanbestedingswet op defensie- en veiligheidsgebied.*
+
+##### Artikel 15
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
+##### Artikel 16
+
+*Wijzigt het Burgerlijk Wetboek Boek 3.*
+
+##### Artikel 17
+
+*Wijzigt de Dienstenwet.*
+
+##### Artikel 18
+
+*Wijzigt de Drinkwaterwet.*
+
+##### Artikel 19
+
+*Wijzigt de Elektriciteitswet 1998.*
+
+##### Artikel 20
+
+*Wijzigt de Gaswet.*
+
+##### Artikel 21
+
+*Wijzigt de Handelsregisterwet 2007.*
+
+##### Artikel 22
+
+*Wijzigt de Loodsenwet.*
+
+##### Artikel 23
+
+*Wijzigt de Mededingingswet.*
+
+##### Artikel 24
+
+*Wijzigt de Postwet 2009.*
+
+##### Artikel 25
+
+*Wijzigt de Scheepvaartverkeerswet.*
+
+##### Artikel 26
+
+*Wijzigt de Spoorwegwet.*
+
+##### Artikel 27
+
+*Wijzigt de Telecommunicatiewet.*
+
+##### Artikel 28
+
+*Wijzigt de Warmtewet.*
+
+##### Artikel 29
+
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
+
+##### Artikel 30
+
+*Wijzigt de Wet handhaving consumentenbescherming.*
+
+##### Artikel 31
+
+*Wijzigt de Wet implementatie EU-richtlijnen energie-efficiëntie.*
+
+##### Artikel 32
+
+*Wijzigt de Wet luchtvaart.*
+
+##### Artikel 33
+
+*Wijzigt de Wet marktordening gezondheidszorg.*
+
+##### Artikel 34
+
+*Wijzigt de Wet markttoezicht registerloodsen.*
+
+##### Artikel 35
+
+*Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).*
+
+##### Artikel 36
+
+*Wijzigt de Wet op het financieel toezicht.*
+
+##### Artikel 37
+
+*Wijzigt de Wet personenvervoer 2000.*
+
+##### Artikel 38
+
+*Wijzigt de Wet post BES.*
+
+##### Artikel 39
+
+*Wijzigt de Wet telecommunicatievoorzieningen BES.*
+
+##### Artikel 40
+
+*Wijzigt de Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten.*
+
+##### Artikel 41
+
+*Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen en verordeningen op het gebied van elektriciteit en gas).*
+
 ### Hoofdstuk 4. Overgangs- en samenloopbepalingen
+
+##### Artikel 42
+
+1. Besluiten van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aangemerkt als besluiten van de Autoriteit Consument en Markt.
+
+2. Aanvragen en bezwaarschriften, ingediend bij de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aangemerkt als aanvragen en bezwaarschriften, ingediend bij de Autoriteit Consument en Markt.
+
+3. In bestuursrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Autoriteit Consument en Markt in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
+
+4. In civielrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
+
+5. In overeenkomsten treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
+
+6. In samenwerkingsprotocollen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet de Autoriteit Consument en Markt in de plaats van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
+
+7. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, treedt de Autoriteit Consument en Markt op dat tijdstip in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt respectievelijk de Consumentenautoriteit.
+
+8. Archiefbescheiden van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt en de Consumentenautoriteit worden overgedragen aan de Autoriteit Consument en Markt, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
+
+##### Artikel 43
+
+1. De vaststelling door de Autoriteit Consument en Markt van een begroting als bedoeld in [artikel 25 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=25) vindt voor het eerst plaats ten aanzien van het kalenderjaar na dat waarin deze wet in het Staatsblad is geplaatst.
+
+2. Onze Minister stelt voor de Autoriteit Consument en Markt een voorlopig bestuursreglement vast. Het voorlopig reglement geldt totdat het bestuursreglement van de Autoriteit Consument en Markt de goedkeuring van Onze Minister heeft verkregen.
+
+3. De vaststelling door de Autoriteit Consument en Markt van een jaarverslag als bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) vindt voor het eerst plaats ten aanzien van het kalenderjaar waarin deze wet in het Staatsblad is geplaatst en betreft dan geheel of gedeeltelijk de taakuitoefening van de Nederlandse Mededingingsautoriteit onderscheidenlijk het college voor de post- en telecommunicatiemarkt onderscheidenlijk de Consumentenautoriteit.
+
+##### Artikel 44
+
+1. Met ingang van het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet is het personeel van het college voor de post- en telecommunicatiemarkt aangesteld in algemene dienst van het Rijk.
+
+2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het college voor de post- en telecommunicatiemarkt.
+
+3. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2025-09-01&g=2025-09-01) van deze wet gaan de vermogensbestanddelen van het college voor de post- en telecommunicatiemarkt onder algemene titel over op de Staat tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
+
+4. Ingeval krachtens het derde lid registergoederen overgaan, doet Onze Minister van Financiën de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
+
+##### Artikel 44a
+
+Op overtredingen van het bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3a&artikel=30&z=2025-09-01&g=2025-09-01) van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip.
 
 ##### Artikel 44b
 
@@ -699,7 +613,7 @@ Een besluit als bedoeld in [artikel 49a, eerste lid, van de Mededingingswet](htt
 
 ##### Artikel 44c
 
-Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en [artikel XI, onderdeel AA, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XI) in werking is getreden, blijft [artikel 62 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van genoemd artikel XI, onderdeel AA, van toepassing of van overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van [artikel 12k](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=3&artikel=12k&z=2025-09-01&g=2025-09-01) van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) is opgemaakt.
+Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en [artikel XI, onderdeel AA, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XI) in werking is getreden, blijft [artikel 62 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=62), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van genoemd artikel XI, onderdeel AA, van toepassing of van overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van [artikel 12k](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=3&artikel=12k&z=2025-09-01&g=2025-09-01) van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) is opgemaakt.
 
 ##### Artikel 44d
 
@@ -711,12 +625,62 @@ Indien voor de inwerkingtreding van [artikel 12n](https://wetten.overheid.nl/jci
 
 ##### Artikel 44f
 
-Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en de [artikelen XI, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XI), onderscheidenlijk [XIV, onderdeel U, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XIV) in werking zijn getreden, blijven de [artikelen 63 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=63)onderscheidenlijk [15.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.12), zoals die luidden onmiddellijk voor het tijdstip van inwerkingtreding van de genoemde artikelen XI, onderdeel Q, onderscheidenlijk XIV, onderdeel U, van toepassing of overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van [artikel 12p](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=3&artikel=12p&z=2025-09-01&g=2025-09-01) van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) is opgemaakt.
+Indien het bij koninklijke boodschap van 26 april 2013 ingediende voorstel van wet tot wijziging van de Instellingswet Autoriteit Consument en Markt en enige andere wetten in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Kamerstukken 33 622) tot wet is verheven en de [artikelen XI, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XI), onderscheidenlijk [XIV, onderdeel U, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XIV) in werking zijn getreden, blijven de [artikelen 63 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=63)onderscheidenlijk [15.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.12), zoals die luidden onmiddellijk voor het tijdstip van inwerkingtreding van de genoemde artikelen XI, onderdeel Q, onderscheidenlijk XIV, onderdeel U, van toepassing of overeenkomstige toepassing op beschikkingen van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete voor overtredingen ter zake waarvan voor de inwerkingtreding van [artikel 12p](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=3&artikel=12p&z=2025-09-01&g=2025-09-01) van de Instellingswet Autoriteit Consument en Markt een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) is opgemaakt.
 
 ##### Artikel 44g
 
 Indien voor de inwerkingtreding van [artikel 12s](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&paragraaf=3&artikel=12s&z=2025-09-01&g=2025-09-01) van de Instellingswet Autoriteit Consument en Markt van een overtreding een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) is opgemaakt ter zake van een overtreding, begaan door een marktorganisatie als bedoeld in [artikel 1, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=1&artikel=1&z=2025-09-01&g=2025-09-01), van de Instellingswet Autoriteit Consument en Markt, blijft met betrekking tot de invordering vanwege insolventie van die marktorganisatie, het recht gelden zoals dat luidde onmiddellijk voor inwerkingtreding van genoemd artikel 12s.
 
+##### Artikel 45
+
+Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover de [artikelen 42 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=4&artikel=42&z=2025-09-01&g=2025-09-01) daarin niet voorzien. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.
+
+##### Artikel 45a
+
+*Wijzigt de Elektriciteitswet 1998.*
+
+##### Artikel 45b
+
+*Wijzigt de Gaswet.*
+
+##### Artikel 45c
+
+*Wijzigt de Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden.*
+
+##### Artikel 45d
+
+*Wijzigt de Spoorwegwet.*
+
+##### Artikel 45e
+
+*Wijzigt de Spoorwegwet.*
+
+##### Artikel 45f
+
+*Wijzigt de Spoorwegwet.*
+
+##### Artikel 45g
+
+*Wijzigt de Telecommunicatiewet.*
+
+##### Artikel 45h
+
+*Wijzigt de Wet personenvervoer 2000.*
+
+##### Artikel 45i
+
+*Vervallen*
+
 ### Hoofdstuk 5. Slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 46
+
+De [Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807) wordt ingetrokken.
+
+##### Artikel 47
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 48
+
+Deze wet wordt aangehaald als: Instellingswet Autoriteit Consument en Markt.

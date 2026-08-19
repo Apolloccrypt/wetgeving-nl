@@ -1,97 +1,75 @@
 ---
 title: "Verplaatsingskostenbesluit defensie"
 identifier: "BWBR0032312"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-02-12"
-last_updated: "2021-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032312"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11924493"
-version_id: "19815172"
-internal_id: "C27830341"
-label_id: "11896694"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032312/2021-02-12/0"
-intitule_bron: "Stb.2012-596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-02"
-intitule_published: "2012-11-30"
-intitule_in_force: "2012-11-30"
-intitule_status: "goed"
-original_publication: "Stb.2012-596"
-original_signed_date: "2012-11-02"
-original_published_date: "2012-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-596"
-entry_into_force_date: "2012-12-01"
-jci_1_3: "jci1.3:c:BWBR0032312&z=2021-02-12&g=2021-02-12"
-jci_1_0: "1.0:c:BWBR0032312&g=2021-02-12"
-citeertitel_status: "officieel"
-signed_date: "2012-11-02"
-entry_into_force: "2012-12-01"
+publicatiedatum: 2012-12-01
+laatste_update: 2021-02-12
+status: geldig
+toestand: 2021-02-12
+bron: "https://wetten.overheid.nl/BWBR0032312"
+opgehaald: 2026-08-19
 ---
+
 # Verplaatsingskostenbesluit defensie
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit wordt verstaan onder:
 
-- **achtergebleven kind:** het buiten het land van plaatsing verblijf houdende ongehuwde kind van de defensieambtenaar, dat minderjarig is of voor wie aanspraak bestaat op kinderbijslag dan wel op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453). Voor de toepassing van dit besluit duurt de minderjarigheid voort tot en met 31 december van het kalenderjaar waarin het kind de leeftijd van 18 jaar bereikt.
+- *achtergebleven kind:* het buiten het land van plaatsing verblijf houdende ongehuwde kind van de defensieambtenaar, dat minderjarig is of voor wie aanspraak bestaat op kinderbijslag dan wel op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453). Voor de toepassing van dit besluit duurt de minderjarigheid voort tot en met 31 december van het kalenderjaar waarin het kind de leeftijd van 18 jaar bereikt.
 
-- **afstand:**
+- *afstand:*
 
-- a. bij gebruik van openbaar vervoer: de gebruikelijke reisroute;
+   - a. bij gebruik van openbaar vervoer: de gebruikelijke reisroute;
 
-- b. bij gebruik van ander vervoer dan openbaar vervoer: het aantal kilometers gemeten langs de gebruikelijke openbare weg te bepalen aan de hand van een bij ministeriële regeling vastgestelde routeplanner, met dien verstande dat bij meer dan één plaats van tewerkstelling die zich niet binnen één complex of terrein bevinden de grootste afstand geldt;
+   - b. bij gebruik van ander vervoer dan openbaar vervoer: het aantal kilometers gemeten langs de gebruikelijke openbare weg te bepalen aan de hand van een bij ministeriële regeling vastgestelde routeplanner, met dien verstande dat bij meer dan één plaats van tewerkstelling die zich niet binnen één complex of terrein bevinden de grootste afstand geldt;
 
-- **ambtenaar:** degene die bij het Ministerie van Defensie in burgerlijke openbare dienst is aangesteld.
+- *ambtenaar:* degene die bij het Ministerie van Defensie in burgerlijke openbare dienst is aangesteld.
 
-- **ambts- of dienstwoning:** de door het bevoegde gezag aan de defensieambtenaar in verband met de uitoefening van zijn functie toegewezen woning.
+- *ambts- of dienstwoning:* de door het bevoegde gezag aan de defensieambtenaar in verband met de uitoefening van zijn functie toegewezen woning.
 
-- **bevoegd gezag:** de bij ministeriële regeling als zodanig aangewezen autoriteiten.
+- *bevoegd gezag:* de bij ministeriële regeling als zodanig aangewezen autoriteiten.
 
-- **defensieambtenaar:** de ambtenaar of de militair.
+- *defensieambtenaar:* de ambtenaar of de militair.
 
-- **eigen huishouding voeren:** het anders dan bij de eigen, stief- of pleegouders van de defensieambtenaar of van zijn partner, bewonen van zelfstandige woonruimte, aangetoond door middel van inschrijving in de basisregistratie personen en een rechtsgeldig huurcontract of notariële leveringsakte van de koopwoning op naam van de defensieambtenaar of diens partner.
+- *eigen huishouding voeren:* het anders dan bij de eigen, stief- of pleegouders van de defensieambtenaar of van zijn partner, bewonen van zelfstandige woonruimte, aangetoond door middel van inschrijving in de basisregistratie personen en een rechtsgeldig huurcontract of notariële leveringsakte van de koopwoning op naam van de defensieambtenaar of diens partner.
 
-- **Europa:** Europa inclusief Turkije.
+- *Europa:* Europa inclusief Turkije.
 
-- **gezinsleden:** de partner van de defensieambtenaar en de eigen, stief- of pleegkinderen van de defensieambtenaar zelf of van zijn partner, voor zover zij met hem samenwonen en in geval van vestiging buiten Nederland ter zake goedkeuring is verkregen van de Minister.
+- *gezinsleden:* de partner van de defensieambtenaar en de eigen, stief- of pleegkinderen van de defensieambtenaar zelf of van zijn partner, voor zover zij met hem samenwonen en in geval van vestiging buiten Nederland ter zake goedkeuring is verkregen van de Minister.
 
-- **militair (tenzij uitdrukkelijk anders is bepaald):** De militair in de zin van [artikel 1, eerste lid, onderdeel c, ten eerste, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1), daaronder begrepen hij die is aangesteld in burgerlijke openbare dienst om in de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn.
+- *militair (tenzij uitdrukkelijk anders is bepaald):* De militair in de zin van [artikel 1, eerste lid, onderdeel c, ten eerste, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1), daaronder begrepen hij die is aangesteld in burgerlijke openbare dienst om in de krijgsmacht als geestelijk verzorger doorlopend werkzaam te zijn.
 
-- **Minister:** Onze Minister van Defensie.
+- *Minister:* Onze Minister van Defensie.
 
-- **Partner:** degene die naar Nederlands recht met de defensieambtenaar is gehuwd alsmede degene die mede onder dit begrip wordt verstaan op grond van [artikel 4 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=4) of [artikel 1, derde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1).
+- *Partner:* degene die naar Nederlands recht met de defensieambtenaar is gehuwd alsmede degene die mede onder dit begrip wordt verstaan op grond van [artikel 4 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=4) of [artikel 1, derde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1).
 
-- **plaats van legering:** de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar hem door het bevoegd gezag nachtverblijf van rijkswege wordt geboden.
+- *plaats van legering:* de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar hem door het bevoegd gezag nachtverblijf van rijkswege wordt geboden.
 
-- **plaats van tewerkstelling:** de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de defensieambtenaar gewoonlijk zijn werkzaamheden verricht, dan wel indien de uitoefening van het ambt zich uitstrekt over een bepaald gebied, een door het bevoegd gezag aangewezen plaats.
+- *plaats van tewerkstelling:* de gebruikelijke ingang van het gebouw, gebouwencomplex, terrein of vaartuig waar de defensieambtenaar gewoonlijk zijn werkzaamheden verricht, dan wel indien de uitoefening van het ambt zich uitstrekt over een bepaald gebied, een door het bevoegd gezag aangewezen plaats.
 
-- **rijksdienst:** de organisatie van de rijksoverheid.
+- *rijksdienst:* de organisatie van de rijksoverheid.
 
-- **standplaats:** de gemeente of het bij name genoemde deel van die gemeente, waar de plaats van tewerkstelling van de defensieambtenaar is gelegen, dan wel indien de plaats van tewerkstelling een vaartuig is, de door het bevoegd gezag aangewezen plaats.
+- *standplaats:* de gemeente of het bij name genoemde deel van die gemeente, waar de plaats van tewerkstelling van de defensieambtenaar is gelegen, dan wel indien de plaats van tewerkstelling een vaartuig is, de door het bevoegd gezag aangewezen plaats.
 
-- **verplaatsing:** verandering van standplaats die naar het oordeel van het bevoegd gezag een permanent karakter heeft.
+- *verplaatsing:* verandering van standplaats die naar het oordeel van het bevoegd gezag een permanent karakter heeft.
 
-- **voor het eerst in dienst treden:** in dienst treden bij het Ministerie van Defensie of een van zijn diensten, bedrijven of instellingen, anders dan in geval van overgang binnen een maand:
+- *voor het eerst in dienst treden:* in dienst treden bij het Ministerie van Defensie of een van zijn diensten, bedrijven of instellingen, anders dan in geval van overgang binnen een maand:
 
-- 1. van de ene naar de andere tak van de rijksdienst;
+   - 1. van de ene naar de andere tak van de rijksdienst;
 
-- 2. van een andere overheidsdienst of een door het Rijk bekostigde onderwijsinstelling naar de rijksdienst.
+   - 2. van een andere overheidsdienst of een door het Rijk bekostigde onderwijsinstelling naar de rijksdienst.
 
-- **woongebied:** een zodanig gebied waarbij de afstand van de woning naar de plaats van tewerkstelling niet meer bedraagt dan 25 kilometer, vast te stellen bij gebruik van ander vervoer dan openbaar vervoer, alsmede een bij ministeriële regeling goedgekeurde plaats van vestiging.
+- *woongebied:* een zodanig gebied waarbij de afstand van de woning naar de plaats van tewerkstelling niet meer bedraagt dan 25 kilometer, vast te stellen bij gebruik van ander vervoer dan openbaar vervoer, alsmede een bij ministeriële regeling goedgekeurde plaats van vestiging.
 
-- **zelfstandige woonruimte:** woonruimte voorzien van een eigen toegangsdeur die van binnen en buiten kan worden afgesloten. In de woonruimte moeten in elk geval aanwezig zijn:
+- *zelfstandige woonruimte:* woonruimte voorzien van een eigen toegangsdeur die van binnen en buiten kan worden afgesloten. In de woonruimte moeten in elk geval aanwezig zijn:
 
-- –. een eigen woon(slaap)kamer,
+   - – een eigen woon(slaap)kamer,
 
-- –. een eigen keuken met aanrecht, aan- en afvoer voor water en een aansluitpunt voor een kooktoestel,
+   - – een eigen keuken met aanrecht, aan- en afvoer voor water en een aansluitpunt voor een kooktoestel,
 
-- –. een eigen toilet met waterspoeling.
+   - – een eigen toilet met waterspoeling.
 
 2. Aan dit besluit kunnen geen aanspraken worden ontleend door defensieambtenaren op wie voorzieningen ter zake van verblijf buiten Nederland van toepassing zijn die overeenkomen met aanspraken op grond van het [Reglement Dienst Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0004052).
 
@@ -301,7 +279,7 @@ De militair bedoeld in [artikel 20, onder d of e](https://wetten.overheid.nl/jci
 
 1. De defensieambtenaar die met toekenning van een tegemoetkoming in de verhuiskosten is verhuisd naar een buiten Europa gelegen land, heeft, indien de duur van de plaatsing is gesteld voor een periode langer dan twee jaren, gedurende de plaatsingstermijn eenmaal per periode van twee jaren aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning buiten Nederland en een plaats naar keuze in Nederland voor zichzelf en voor de eveneens in het land van plaatsing gevestigde gezinsleden.
 
-2. De defensieambtenaar die met toekenning van een tegemoetkoming in de verhuiskosten is verhuisd naar een buiten Europa gelegen land, al dan niet tezamen met een of meer gezinsleden heeft – indien de duur van de plaatsing is gesteld op ten minste twee jaren – ter zake van gezinshereniging met een achtergebleven kind, voor dat kind, hemzelf of één van zijn gezinsleden, eenmaal per plaatsingsperiode van 12 maanden aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woonplaats van het kind en de woonplaats van de defensieambtenaar buiten Europa.
+2. De defensieambtenaar die met toekenning van een tegemoetkoming in de verhuiskosten is verhuisd naar een buiten Europa gelegen land, al dan niet tezamen met een of meer gezinsleden heeft – indien de duur van de plaatsing is gesteld op ten minste twee jaren – ter zake van gezinshereniging met een achtergebleven kind, voor dat kind, hemzelf of één van zijn gezinsleden, eenmaal per plaatsingsperiode van 12 maanden aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woonplaats van het kind en de woonplaats van de defensieambtenaar buiten Europa.
 
 ##### Artikel 23. Overdraagbaarheid van reisaanspraken
 
@@ -353,8 +331,8 @@ De Minister kan van de [artikelen 2 tot en met 29](https://wetten.overheid.nl/jc
 
 ##### Artikel 32. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot 1 maart 2012
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot 1 maart 2012
 
 ##### Artikel 33. Citeertitel
 
-Dit besluit wordt aangehaald als **«Verplaatsingskostenbesluit defensie».**
+Dit besluit wordt aangehaald als *«Verplaatsingskostenbesluit defensie».*

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 3 december 2012, DGPOL/Arbeidsvoorwaardenbeleid, nr. 327477, tot het structureel regelen van de nachtdienstontheffing (Regeling nachtdienstontheffing politie)"
+citeertitel: "Regeling nachtdienstontheffing politie"
 identifier: "BWBR0032397"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-17"
-last_updated: "2026-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032397"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "11939963"
-version_id: "19847952"
-internal_id: "C27877181"
-label_id: "11911824"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032397/2026-03-17/0"
-intitule_bron: "Stcrt.2012-25562"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-03"
-intitule_published: "2012-12-12"
-intitule_in_force: "2012-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25562"
-original_signed_date: "2012-12-03"
-original_published_date: "2012-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25562"
-entry_into_force_date: "2012-12-13"
-jci_1_3: "jci1.3:c:BWBR0032397&z=2026-03-17&g=2026-03-17"
-jci_1_0: "1.0:c:BWBR0032397&g=2026-03-17"
-citeertitel_status: "officieel"
-short_title: "Regeling nachtdienstontheffing politie"
-signed_date: "2012-12-03"
-entry_into_force: "2012-12-13"
+publicatiedatum: 2012-12-13
+laatste_update: 2026-03-17
+status: geldig
+toestand: 2026-03-17
+bron: "https://wetten.overheid.nl/BWBR0032397"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 3 december 2012, DGPOL/Arbeidsvoorwaardenbeleid, nr. 327477, tot het structureel regelen van de nachtdienstontheffing (Regeling nachtdienstontheffing politie)
-
-Gelet op [artikel 12, zeventiende lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12) en [artikel 21, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=21);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,7 +28,7 @@ Besluit:
 
 3. Met ingang van de eerste betaalperiode na de dag waarop de in het eerste lid bedoelde ontheffing wordt verleend, ontvangt de ambtenaar een maandelijkse toelage. Bij gedeeltelijke ontheffing wordt de toelage berekend naar rato voor de toelage voor de gehele ontheffing.
 
-4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 3,08 respectievelijk € 0,77 en dat bedrag vervolgens te delen door twaalf.
+4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 3,08 respectievelijk € 0,77 en dat bedrag vervolgens te delen door twaalf.
 
 5. De in het vierde lid genoemde bedragen worden aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.
 
@@ -71,5 +45,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling nachtdienstontheffing politie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

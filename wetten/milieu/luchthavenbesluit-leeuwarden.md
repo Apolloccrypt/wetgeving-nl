@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 mei 2013 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Leeuwarden (Luchthavenbesluit Leeuwarden)"
+citeertitel: "Luchthavenbesluit Leeuwarden"
 identifier: "BWBR0033411"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033411"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12255873"
-version_id: "20510272"
-internal_id: "C28848011"
-label_id: "12227424"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033411/2024-01-01/0"
-intitule_bron: "Stb.2013-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-05-03"
-intitule_published: "2013-05-22"
-intitule_in_force: "2013-05-22"
-intitule_status: "goed"
-original_publication: "Stb.2013-173"
-original_signed_date: "2013-05-03"
-original_published_date: "2013-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-173"
-entry_into_force_date: "2013-06-17"
-jci_1_3: "jci1.3:c:BWBR0033411&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0033411&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Luchthavenbesluit Leeuwarden"
-signed_date: "2013-05-03"
-entry_into_force: "2013-06-17"
+publicatiedatum: 2013-06-17
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0033411"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 3 mei 2013 tot vaststelling van een luchthavenbesluit voor de militaire luchthaven Leeuwarden (Luchthavenbesluit Leeuwarden)
-
-Op de voordracht van Onze Minister van Defensie van 18 maart 2013, nr. BS/2013007938, Directie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Gelet op [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 april 2013, no. W07.13.0082/II);
-
-Gezien het nader rapport van Onze Minister van Defensie van 26 april 2013, nr. BS/2013013084, Directie Juridische Zaken, uitgebracht in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **gebruiksjaar:** de periode van een jaar die loopt van 1 januari tot en met 31 december;
+- a. *gebruiksjaar:* de periode van een jaar die loopt van 1 januari tot en met 31 december;
 
-- b. **recreatief burgerluchtverkeer:** luchthavenluchtverkeer in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen, als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
+- b. *recreatief burgerluchtverkeer:* luchthavenluchtverkeer in de vorm van zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen of zeilvliegen, als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20);
 
-- c. **uniforme daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
+- c. *uniforme daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00' N en 05°00' O op zeeniveau;
 
-- d. **vliegtuigbeweging:** start of landing van een vliegtuig van of op de luchthaven;
+- d. *vliegtuigbeweging:* start of landing van een vliegtuig van of op de luchthaven;
 
-- e. **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- e. *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ### Hoofdstuk 2. Het luchthavengebied en het beperkingengebied
 
@@ -108,7 +77,7 @@ Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire
 
 - a. op maandag tot en met donderdag van de aanvang van de uniforme daglichtperiode tot 24.00 uur;
 
-- b. op vrijdag van de aanvang van de uniforme daglichtperiode tot 16.45 uur.
+- b. op vrijdag van de aanvang van de uniforme daglichtperiode tot 16.45 uur.
 
 2. In afwijking van het eerste lid kan gedurende de nachtelijke uren van maandag 00.00 uur tot vrijdag 07.00 uur door militair luchtverkeer worden gestart en geland ten behoeve van nationale of internationale oefeningen.
 
@@ -158,20 +127,8 @@ Voor het recreatief burgerluchtverkeer, met uitzondering van modelvliegen, geldt
 
 ##### Artikel 5.1
 
-Dit besluit treedt in werking met ingang van 17 juni 2013.
+Dit besluit treedt in werking met ingang van 17 juni 2013.
 
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Leeuwarden.
-
-## Bijlage 1. Kaart luchthavengebied
-
-## Bijlage 2. Kaart beperkingengebied
-
-## Bijlage 3. Kaart geluidszone
-
-## Bijlage 4. Kaart obstakelbeheergebied vliegfunnel en IHCS
-
-## Bijlage 5. Kaart obstakelbeheergebied instrument landingssysteem
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

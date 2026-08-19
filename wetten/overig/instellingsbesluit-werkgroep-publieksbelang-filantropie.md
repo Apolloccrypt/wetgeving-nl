@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)"
+citeertitel: "Instellingsbesluit Werkgroep publieksbelang filantropie"
 identifier: "BWBR0033095"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-03-29"
-last_updated: "2013-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033095"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12165613"
-version_id: "20314172"
-internal_id: "C28578121"
-label_id: "12137184"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033095/2013-03-29/0"
-intitule_bron: "Stcrt.2013-8475"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-19"
-intitule_published: "2013-03-28"
-intitule_in_force: "2013-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8475"
-original_signed_date: "2013-03-19"
-original_published_date: "2013-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8475"
-entry_into_force_date: "2013-03-29"
-jci_1_3: "jci1.3:c:BWBR0033095&z=2013-03-29&g=2013-03-29"
-jci_1_0: "1.0:c:BWBR0033095&g=2013-03-29"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep publieksbelang filantropie"
-signed_date: "2013-03-19"
-entry_into_force: "2013-03-29"
+publicatiedatum: 2013-03-29
+laatste_update: 2013-03-29
+status: geldig
+toestand: 2013-03-29
+bron: "https://wetten.overheid.nl/BWBR0033095"
+opgehaald: 2026-08-19
 ---
-# Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)
 
-Besluit:
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Veiligheid en Justitie;
+- a. *de Minister:* de Minister van Veiligheid en Justitie;
 
-- b. **de Werkgroep:** de Werkgroep publieksbelang filantropie.
+- b. *de Werkgroep:* de Werkgroep publieksbelang filantropie.
 
 ##### Artikel 2. Instelling
 
@@ -58,7 +34,7 @@ De Werkgroep heeft tot taak:
 
 - b. het validatiestelsel, nadat dit is ontwikkeld, aan het toetsingskader te toetsen en;
 
-- c. hierover advies uit te brengen aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘**Ruimte voor geven**’.
+- c. hierover advies uit te brengen aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘*Ruimte voor geven*’.
 
 ##### Artikel 4. Samenstelling
 
@@ -131,5 +107,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep publieksbelang filantropie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

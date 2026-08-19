@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Veiligheid en Justitie van 11 december 2012, nr. 32952, houdende regels over het notarisambt (Regeling op het notarisambt)"
+citeertitel: "Regeling op het notarisambt"
 identifier: "BWBR0032707"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032707"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12033593"
-version_id: "21844352"
-internal_id: "C31356431"
-label_id: "12005524"
-dtd_version: "2.0"
-original_entry_into_force: "2014-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032707/2020-01-01/0"
-intitule_bron: "Stcrt.2012-26483"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-11"
-intitule_published: "2012-12-31"
-intitule_in_force: "2012-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-33807"
-original_signed_date: "2014-11-19"
-original_published_date: "2014-11-27"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-33807"
-entry_into_force_date: "2014-11-19"
-jci_1_3: "jci1.3:c:BWBR0032707&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0032707&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling op het notarisambt"
-signed_date: "2014-11-19"
-entry_into_force: "2014-11-19"
+publicatiedatum: 2014-11-19
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0032707"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Veiligheid en Justitie van 11 december 2012, nr. 32952, houdende regels over het notarisambt (Regeling op het notarisambt)
-
-Gelet op de [artikelen 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24), [25, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25), [25a van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25a), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), de [artikelen 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=4) en [12, zesde lid, van het Besluit op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=12) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **notarisorganisatie:** alle wijzen waarop een notaris zijn werkzaamheden heeft georganiseerd.
+- a. *notarisorganisatie:* alle wijzen waarop een notaris zijn werkzaamheden heeft georganiseerd.
 
-- b. **klein kantoor:** een notarisorganisatie waar gedurende de twee voorgaande boekjaren voldaan is aan (in elk geval) twee van de volgende criteria:
+- b. *klein kantoor:* een notarisorganisatie waar gedurende de twee voorgaande boekjaren voldaan is aan (in elk geval) twee van de volgende criteria:
 
-- 1. door maximaal vier (kandidaat-) notarissen wordt het ondernemersrisico gelopen. In geval van interdisciplinaire samenwerking geldt hierop een uitzondering namelijk dat door maximaal twee (kandidaat-) notarissen met maximaal drie andere zelfstandige beroepsbeoefenaren ondernemersrisico wordt gelopen;
+   - 1. door maximaal vier (kandidaat-) notarissen wordt het ondernemersrisico gelopen. In geval van interdisciplinaire samenwerking geldt hierop een uitzondering namelijk dat door maximaal twee (kandidaat-) notarissen met maximaal drie andere zelfstandige beroepsbeoefenaren ondernemersrisico wordt gelopen;
 
-- 2. de netto omzet van het notarisorganisatie is maximaal € 2.500.000,– per jaar;
+   - 2. de netto omzet van het notarisorganisatie is maximaal € 2.500.000,– per jaar;
 
-- 3. het aantal werknemers, dat bij het notarisorganisatie in dienst is, dan wel op grond van een overeenkomst werkzaamheden verricht, bedraagt maximaal 20 fulltime-equivalents (fte’s).
+   - 3. het aantal werknemers, dat bij het notarisorganisatie in dienst is, dan wel op grond van een overeenkomst werkzaamheden verricht, bedraagt maximaal 20 fulltime-equivalents (fte’s).
 
-- c. **melding:** een melding als bedoeld in [artikel 25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25a);
+- c. *melding:* een melding als bedoeld in [artikel 25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25a);
 
-#### Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht ([artikel 24, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24))
+#### Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht (artikel 24, vierde en vijfde lid, van de wet)
 
 ##### Artikel 2
 
@@ -80,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 6. Het Bureau kan nadere regels stellen voor het leveren van uitgebreidere gegevens of het leveren met een hogere frequentie.
 
-#### Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat ([artikel 8, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8))
+#### Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat (artikel 8, vierde lid van de wet)
 
 ##### Artikel 3
 
-De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8) bedraagt € 1.600,–.
+De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8) bedraagt € 1.600,–.
 
-#### Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden ([artikel 25, zevende lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25))
+#### Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden (artikel 25, zevende lid van de wet)
 
 ##### Artikel 4
 
@@ -112,7 +86,7 @@ In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR003270
 
 - b. over de overdrachtsbelasting gedurende de termijn als bedoeld in de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320).
 
-#### Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris ([artikel 25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25))
+#### Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris (artikel 25a van de wet)
 
 ##### Artikel 8
 
@@ -126,49 +100,55 @@ Als gebeurtenis in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BW
 
 - 2. Langdurige buitengewone omstandigheden die de persoon van de notaris betreffen, waaronder:
 
-- a. afwezigheid in verband met arbeidsongeschiktheid waardoor de continuïteit gevaar kan lopen;
+   - a. afwezigheid in verband met arbeidsongeschiktheid waardoor de continuïteit gevaar kan lopen;
 
-- b. ontstentenis door een andere reden van persoonlijke aard al dan niet buiten de wil van de notaris, waaronder de situatie dat de notaris wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden.
+   - b. ontstentenis door een andere reden van persoonlijke aard al dan niet buiten de wil van de notaris, waaronder de situatie dat de notaris wegens zijn lichamelijke of geestelijke toestand niet in staat is tot het behoorlijk verrichten van zijn werkzaamheden.
 
 - 3. Risico’s inzake de bewaringspositie. Hieronder valt in ieder geval de aanwezigheid van een negatieve bewaringspositie.
 
 - 4. Gebeurtenissen die van nadelige invloed kunnen zijn op de solvabiliteit en/of liquiditeit, ten aanzien van de notarisorganisatie en/of de notaris privé. In ieder geval als sprake is van de aanwezigheid van een negatieve liquiditeits- en/of solvabiliteitspositie, ten aanzien van de notarisorganisatie en/of de notaris privé. En tevens in geval van:
 
-- a. opzegging van krediet-(faciliteiten) of betalingsregeling door de kredietverstrekker;
+   - a. opzegging van krediet-(faciliteiten) of betalingsregeling door de kredietverstrekker;
 
-- b. claims, zowel civiele, strafrechtelijke als fiscale claims/dwangsommen, disputen of geschillen van grote financiële omvang of met een impact die de stabiliteit van het kantoor mogelijk kan schaden (verzekeringsplicht);
+   - b. claims, zowel civiele, strafrechtelijke als fiscale claims/dwangsommen, disputen of geschillen van grote financiële omvang of met een impact die de stabiliteit van het kantoor mogelijk kan schaden (verzekeringsplicht);
 
-- c. betalingsachterstand van meer dan zes maanden na de opeisbaarheid van een vordering.
+   - c. betalingsachterstand van meer dan zes maanden na de opeisbaarheid van een vordering.
 
 - 5. Overige gebeurtenissen die van invloed kunnen zijn op de financiële positie van de notarisorganisatie en/of de notaris privé:
 
-- a. omzetafhankelijkheid van één (on)middellijke opdrachtgever, dat wil zeggen dat 30% of meer van de omzet door één (on)middellijke opdrachtgever wordt gegenereerd;
+   - a. omzetafhankelijkheid van één (on)middellijke opdrachtgever, dat wil zeggen dat 30% of meer van de omzet door één (on)middellijke opdrachtgever wordt gegenereerd;
 
-- b. een aangifte van een strafbaar feit tegen een notaris die verband houdt met zijn ambtsuitoefening;
+   - b. een aangifte van een strafbaar feit tegen een notaris die verband houdt met zijn ambtsuitoefening;
 
-- c. aanwijzingen of vermoedens van fraude of malversaties met betrokkenheid van een (of meer) personen werkzaam binnen de notarisorganisatie.
+   - c. aanwijzingen of vermoedens van fraude of malversaties met betrokkenheid van een (of meer) personen werkzaam binnen de notarisorganisatie.
 
-- d. een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25).
+   - d. een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=25).
 
 ##### Artikel 10
 
-1. Naast de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een de notarisorganisatie en/of de notaris privé kunnen hebben, aan het Bureau melden.
+1. Naast de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een de notarisorganisatie en/of de notaris privé kunnen hebben, aan het Bureau melden.
 
 2. Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=9&z=2020-01-01&g=2020-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032707&artikel=10&z=2020-01-01&g=2020-01-01) eerste lid, melden aan het Bureau.
 
-#### Wijze van indiening gegevens en doen van meldingen aan het Bureau ([artikel 24, vierde en vijfde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24))
+#### Wijze van indiening gegevens en doen van meldingen aan het Bureau (artikel 24, vierde en vijfde lid van de wet)
+
+##### Artikel 10a
+
+De gegevens bedoeld in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24) en de overige gegevens bedoeld in artikel 24, vijfde lid, van de wet, dienen digitaal te worden ingediend via een daartoe door het Bureau beschikbaar gestelde elektronische toepassing.
+
+#### Indiening ontwerp-begroting Bureau
 
 ##### Artikel 11
 
-Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), voor het daarop volgende jaar.
+Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), voor het daarop volgende jaar.
 
-#### Indiening ontwerp-begroting Bureau
+#### Vergoeding reis- en verblijfkosten leden en plaatsvervangend leden Kamers
 
 ##### Artikel 12
 
 De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
-#### Vergoeding reis- en verblijfkosten leden en plaatsvervangend leden Kamers
+#### Vergoeding kosten leden en plaatsvervangend leden van de Commissie toegang notariaat
 
 ##### Artikel 13
 
@@ -178,11 +158,11 @@ De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per v
 
 3. De voorzitter en overige leden van de Commissie ontvangen per vergadering een vergoeding voor reis- en verblijfkosten op grond van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 
-#### Vergoeding kosten leden en plaatsvervangend leden van de Commissie toegang notariaat
+#### Overige bepalingen
 
 ##### Artikel 14
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.
+Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 ##### Artikel 15
 
@@ -191,9 +171,3 @@ Deze regeling wordt aangehaald als: Regeling op het notarisambt.
 ##### Artikel 16
 
 Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
-
-##### Artikel 10a
-
-De gegevens bedoeld in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=24) en de overige gegevens bedoeld in artikel 24, vijfde lid, van de wet, dienen digitaal te worden ingediend via een daartoe door het Bureau beschikbaar gestelde elektronische toepassing.
-
-#### Overige bepalingen

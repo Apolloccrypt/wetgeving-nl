@@ -9,7 +9,7 @@ laatste_update: 2026-08-15
 status: geldig
 toestand: 2026-08-15
 bron: "https://wetten.overheid.nl/BWBR0053034"
-opgehaald: 2026-08-18
+opgehaald: 2026-08-19
 ---
 
 # Regeling van de Minister van Langdurige Zorg, Jeugd en Sport, van 12 augustus 2026, kenmerk 4494559-1102053-DICIO, houdende regels ter uitvoering van de Cyberbeveiligingswet en het Cyberbeveiligingsbesluit voor de sector Gezondheidszorg en de subsector Vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek (Cyberbeveiligingsregeling voor de zorg) [KetenID WGK028136]

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 19 april 2013, nr. WJZ/13071131, houdende vaststelling van de aanvraag- en verdeelprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band, de middengolfband en band III (Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep)"
+citeertitel: "Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep"
 identifier: "BWBR0033308"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-24"
-last_updated: "2013-04-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033308"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12225603"
-version_id: "20446832"
-internal_id: "C28738661"
-label_id: "12197214"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033308/2013-04-24/0"
-intitule_bron: "Stcrt.2013-11065"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-19"
-intitule_published: "2013-04-23"
-intitule_in_force: "2013-04-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-11065"
-original_signed_date: "2013-04-19"
-original_published_date: "2013-04-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-11065"
-entry_into_force_date: "2013-04-24"
-jci_1_3: "jci1.3:c:BWBR0033308&z=2013-04-24&g=2013-04-24"
-jci_1_0: "1.0:c:BWBR0033308&g=2013-04-24"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep"
-signed_date: "2013-04-19"
-entry_into_force: "2013-04-24"
+publicatiedatum: 2013-04-24
+laatste_update: 2013-04-24
+status: geldig
+toestand: 2013-04-24
+bron: "https://wetten.overheid.nl/BWBR0033308"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Economische Zaken van 19 april 2013, nr. WJZ/13071131, houdende vaststelling van de aanvraag- en verdeelprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band, de middengolfband en band III (Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep)
-
-Gelet op [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=11), en [12 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=12);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -46,25 +20,25 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. *minister:* Minister van Economische Zaken;
 
-- b. **bekendmakingsbesluit:** het [besluit van de Minister van Economische Zaken van 19 april 2013, nr. AT-EZ/6807463, inzake de uitgifte van drie vergunningen voor analoge commerciële radio-omroep (voor de kavels A7, B38 en C08) en drie vergunningen voor digitale radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0033305) (Stcrt. 2013, 11036);
+- b. *bekendmakingsbesluit:* het [besluit van de Minister van Economische Zaken van 19 april 2013, nr. AT-EZ/6807463, inzake de uitgifte van drie vergunningen voor analoge commerciële radio-omroep (voor de kavels A7, B38 en C08) en drie vergunningen voor digitale radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0033305) (Stcrt. 2013, 11036);
 
-- c. **vergunning kavel A7:** vergunning als omschreven in [bijlage A van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=A);
+- c. *vergunning kavel A7:* vergunning als omschreven in [bijlage A van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=A);
 
-- d. **vergunning kavel B38:** vergunning als omschreven in [bijlage B van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=B);
+- d. *vergunning kavel B38:* vergunning als omschreven in [bijlage B van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=B);
 
-- e. **vergunning kavel C08:** vergunning als omschreven in [bijlage C van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=C);
+- e. *vergunning kavel C08:* vergunning als omschreven in [bijlage C van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=C);
 
-- f. **vergunning kavel 11C:** vergunning als omschreven in [bijlage I van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=I);
+- f. *vergunning kavel 11C:* vergunning als omschreven in [bijlage I van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=I);
 
-- g. **vergunning allotment 7A:** vergunning als omschreven in [bijlage J van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=J);
+- g. *vergunning allotment 7A:* vergunning als omschreven in [bijlage J van het bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033305&bijlage=J);
 
-- h. **doorgifte-overeenkomst:** een schriftelijke overeenkomst, gesloten tussen een houder van vergunning B38 of van vergunning C08 en een houder van een vergunning voor digitale omroep die betrekking heeft op de frequentieband 219,496-221,208 MHz of op de in de tabel behorende bij nationale voetnoot 002 van het Nationaal Frequentieplan 2005 bedoelde frequentiebanden, voor de gelijktijdige en ongewijzigde doorgifte door de houder van de vergunning voor digitale omroep van radioprogramma’s van de houder van vergunning B38 onderscheidenlijk van vergunning C08;
+- h. *doorgifte-overeenkomst:* een schriftelijke overeenkomst, gesloten tussen een houder van vergunning B38 of van vergunning C08 en een houder van een vergunning voor digitale omroep die betrekking heeft op de frequentieband 219,496-221,208 MHz of op de in de tabel behorende bij nationale voetnoot 002 van het Nationaal Frequentieplan 2005 bedoelde frequentiebanden, voor de gelijktijdige en ongewijzigde doorgifte door de houder van de vergunning voor digitale omroep van radioprogramma’s van de houder van vergunning B38 onderscheidenlijk van vergunning C08;
 
-- i. **bod:** financieel bod voor de vergunning waarop de aanvraag betrekking heeft, bestaande uit een eerste bod en aanvullende biedingen, zoals bedoeld in de biedkaart die deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=1&z=2013-04-24&g=2013-04-24);
+- i. *bod:* financieel bod voor de vergunning waarop de aanvraag betrekking heeft, bestaande uit een eerste bod en aanvullende biedingen, zoals bedoeld in de biedkaart die deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=1&z=2013-04-24&g=2013-04-24);
 
-- j. **groep:** een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
+- j. *groep:* een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b).
 
 2. Onder een groep wordt mede verstaan een rechtspersoon of andere juridische entiteit waarin twee of meer aanvragers gelijke aandelen houden of gelijke juridische zeggenschap hebben.
 
@@ -260,9 +234,9 @@ Een aanvrager beschikt over de vereiste toestemming van het Commissariaat voor d
 
 #### Paragraaf 4. Slotbepalingen
 
-##### Artikel 17. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
+##### Artikel 17. Wijziging Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003
 
-Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
+*Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.*
 
 ##### Artikel 18
 
@@ -275,165 +249,3 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep.
-
-## Bijlage 1
-
-### Model vergunningaanvraag, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep
-
-De aanvrager volgt bij de indiening van zijn aanvraag voor vergunning kavel A7, vergunning B38 of vergunning kavel C08, alsmede vergunning kavel 11C respectievelijk vergunning allotment 7A, het format en de schema’s van deze bijlage.
-
-### Paragraaf 1. Algemene gegevens en documenten
-
-De aanvrager verstrekt de volgende algemene gegevens en documenten:
-
-### Paragraaf 2. Aanvraag met inbegrip van het bod
-
-### Paragraaf 2a. Aanvraag
-
-De aanvraag zelf dient aan de hand van het volgende model te worden opgesteld:
-
-Hiermee dien ik een aanvraag in voor:
-
-*) u dient voor de aanvraag van de vergunning kavel A7 hokje a aan te kruisen. Voor de aanvraag van vergunning kavel B38 dient u hokje b aan te kruisen. Voor de vergunning kavel C08 dient u hokje c aan te kruisen. Op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=2&z=2013-04-24&g=2013-04-24), van deze regeling is het niet mogelijk om zowel de vergunning kavel A7 als de vergunning kavel B38 aan te vragen. U dient te kiezen uit één van beide. De vergunning kavel C08 kunt u in combinatie met hetzij de vergunning kavel A7, hetzij de vergunning kavel B38 aanvragen.
-
-Indien u de vergunning kavel B38 en-of de vergunning kavel C08 aanvraagt en u (lees: de aanvragende rechtspersoon) niet reeds houder bent van ten minste een achttiende deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 188,160 MHz – 189,696 MHz (allotment 7A) of van een vergunning voor ten minste een negende deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 219,584 MHz – 221,120 MHz (kavel 11C), kruist u één van de onderstaande twee digitaliseringsopties aan:
-
-### Paragraaf 2b. Bod
-
-Het bod dient aan de hand van het volgende model te worden opgesteld:
-
-Een bod wordt uitgebracht voor die vergunning waarvoor ook een aanvraag is gedaan (vergunning kavel A7 en/of vergunning kavel B38 en/of vergunning kavel C08)
-
-Een bod wordt uitgebracht in euro’s en het bedrag van het bod wordt:
-
-Het bod omvat
-
-### Biedkaart
-
-**Deelnemer (Naam): ......**
-
-Door de deelnemer in te vullen gegevens:
-
-Indien ik én één of meer andere aanvragers hetzelfde hoogste toewijsbare bod hebben geboden, uitgaand van het eerste bod, verhoog ik mijn eerste bod voor de vergunning kavel A7 en/of voor de vergunning kavel B38 en/of voor de vergunning kavel C08 in eerste instantie met:
-
-Indien het bod met inbegrip van het eerste aanvullende bod van mij én van één of meer andere aanvragers hetzelfde hoogste toewijsbare bod vormt, verhoog ik mijn eerste bod voor de vergunning kavel A7 en/of vergunning kavel B38 en/of voor de vergunning kavel C08 in tweede instantie met:
-
-Indien het bod met inbegrip van het tweede aanvullende bod van mij én van één of meer andere aanvragers hetzelfde hoogste toewijsbare bod vormt, verhoog ik mijn eerste bod voor de vergunning kavel A7 en/of vergunning kavel B38 en/of voor de vergunning kavel C08 in derde instantie met:
-
-### Paragraaf 2c. Wijze van betaling
-
-In de aanvraag maakt de aanvrager kenbaar of hij, voor het geval dat zijn bod als hoogste toewijsbare bod is aangemerkt,
-
-(*) uitstel van betaling houdt kort samengevat in dat het bod in vier gelijke termijnen dient te worden betaald. Een kwart van het bod dient binnen zes weken na de vergunningverlening te worden betaald, terwijl op uiterlijk 1 september van de jaren 2014, 2015 en 2016 ook steeds een kwart van het bod moet worden betaald. In dit geval blijft de gestelde zekerheid gelden totdat ook het laatste deel van het bod is betaald.
-
-### Paragraaf 3. Zekerheidstelling
-
-Indien de aanvrager de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24), van de regeling bedoelde zekerheid verschaft door de verstrekking van een bankgarantie, voegt hij de bankgarantie – opgesteld overeenkomstig het model, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=3&z=2013-04-24&g=2013-04-24) bij de regeling – bij de aanvraag.
-
-### Paragraaf 4. Hoedanigheid als commerciële omroep
-
-De aanvrager voegt bij de aanvraag een kopie van de toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1) (zie [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=8&z=2013-04-24&g=2013-04-24) van de regeling).
-
-### Paragraaf 5. Informatie voor de beoordeling van verbondenheid
-
-Bij de aanvraag wordt gevoegd een beschrijving van de eigendoms- en zeggenschapsverhoudingen die de rechtspersoon raken. De beschrijving moet inzicht geven in alle banden met andere partijen, zodat kan worden nagegaan of er een zodanige verbondenheid is met andere aanvragers van vergunning kavel A7 of vergunning B38 of met bestaande houders van een FM-vergunning dat er sprake is van eenzelfde instelling in de zin van [artikel 6.24, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24).
-
-De beschrijving bevat in elk geval gegevens over (voor zover van toepassing):
-
-De aanvrager voegt in verband met de hiervoor bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
-
-### Paragraaf 6. Schriftelijke verklaringen
-
-## Bijlage 2
-
-### Eisen die aan een doorgifte-overeenkomst worden gesteld op grond van [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep
-
-### I. Algemeen
-
-Indien de aanvrager van vergunning kavel B38 of vergunning kavel C08 bij de aanvraag om verlening gekozen heeft voor de optie van digitalisering door middel van doorgifte, dient hij bij zijn aanvraag een kopie van een doorgifte-overeenkomst als bedoeld in [artikel 1, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=1&artikel=1&z=2013-04-24&g=2013-04-24), van de regeling, te overleggen welke voldoet aan de in deze bijlage gestelde eisen.
-
-Dit betekent dat de doorgifte-overeenkomst ten tijde van de aanvraag om verlening reeds dient te zijn gesloten. Wel kan de overeenkomst gesloten zijn onder de voorwaarde dat de gevraagde vergunning wordt verleend.
-
-De aanvrager van vergunning kavel B38 of vergunning kavel C08 (verder: de vergunninghouder) dient de doorgifte-overeenkomst te hebben gesloten met een partij die houder is van een vergunning voor digitale radio-omroep die betrekking heeft op de frequentieband 219,496-221,208 MHz (kavel 11C) of op een van de frequentiebanden die zijn bedoeld in de tabel behorende bij nationale voetnoot 002 van het Nationaal Frequentieplan 2005 (verder: de opdrachtnemer).
-
-### II. Digitaliseringseisen
-
-De doorgifte-overeenkomst dient aan de volgende eisen te voldoen:
-
-(*) **Planningsnormen**
-
-De van toepassing zijnde planningsnorm voor vergunning B38 is de planningsnorm die is gebruikt bij de uitgifte van FM-vergunningen in 2003 en nadien. Deze planningsnorm is als volgt:
-
-De van toepassing zijnde planningsnorm voor vergunning C08 is de planningsnorm die is gebruikt bij de uitgifte van de middengolfvergunningen in 2003 en nadien. Deze planningsnorm is als volgt:
-
-(**) Deze minimumnormen kunnen als volgt worden toegelicht. Het digitale verzorgingsgebied behoeft slechts voor 80% het ‘analoge’ verzorgingsgebied te overlappen. Omdat de hiervoor bedoelde dekkingsnorm voor vergunninghouders met een relatief groot verzorgingsgebied, bijvoorbeeld middengolfvergunninghouders met een landelijk bereik, onevenredig zwaar zou zijn, wordt ook de mogelijkheid geboden te voldoen aan een oppervlaktenorm in vierkante kilometers. Voor de periode van 1 september 2015 tot 1 januari 2017 moet het verzorgingsgebied minimaal 2988,4 km2 groot zijn en voor de periode van 1 januari 2017 tot 1 september 2017 minimaal 5976,8 km2. Dit komt overeen met een dekking van respectievelijk 40% en 80% van de gemiddelde grootte van een allotment (dus resp. 40% en 80% van een vijfde deel van Nederland). Deze minimumnormen sluiten aan bij de voorschriften die zijn bepaald voor de digitale vergunningen voor gezamenlijke exploitatie van de bovenregionale kavel.
-
-## Bijlage 3
-
-### Model voor een bankgarantie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24) van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep
-
-### I. De ondergetekende
-
-**.... (naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte), statutair gevestigd te ...., mede kantoorhoudende te ...., hierna te noemen: ‘de Bank’;**
-
-In aanmerking nemende:
-
-### II. Verbindt zich tot het navolgende:
-
-### Toelichting
-
-Dit model dient te worden gebruikt voor het stellen van een bankgarantie op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=4&z=2013-04-24&g=2013-04-24) van de regeling. De bankgarantie geldt in beginsel tot aan het tijdstip waarop de aanvraag is afgewezen of tot aan het tijdstip waarop in geval van een toewijzing het financiële bod moet worden voldaan. Als de aanvrager desgevraagd uitstel van betaling wordt verleend, dan geldt de bankgarantie totdat ook het laatste deel van het bod is voldaan, in beginsel uiterlijk 1 september 2016. Er is enige tijd nodig om te kunnen bepalen of aan de betalingsverplichting is voldaan en zo nodig een verklaring als bedoeld onder II.4 af te geven dat de bankgarantie niet vervalt. In verband hiermee is in dit model bepaald dat de bankgarantie een looptijd heeft tot 1 november 2013 of tot 1 november 2016.
-
-## Bijlage 4
-
-### 1. Modelverklaring voor vergunning kavel A7 als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=9&z=2013-04-24&g=2013-04-24), van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7 en B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep,
-
-Ondergetekende verklaart dat hij, indien aan hem vergunning kavel A7 wordt verleend, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat:
-
-Naam aanvrager:
-
-Handtekening:
-
-### 2. Modelverklaring voor vergunning kavel B38 als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=9&z=2013-04-24&g=2013-04-24), van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7 en B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep,
-
-Ondergetekende verklaart dat hij, indien aan hem vergunning kavel B38 wordt verleend, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
-
-Naam aanvrager:
-
-Handtekening:
-
-## Bijlage 5
-
-### Modelverklaring als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=10&z=2013-04-24&g=2013-04-24) van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep
-
-Ondergetekende verklaart dat hij en, indien hij behoort tot een groep, de andere leden van de groep waartoe hij behoort, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich tot en met de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=3&z=2013-04-24&g=2013-04-24), zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager:
-
-Handtekening:
-
-## Bijlage 6
-
-### Modelverklaring inzake financiële draagkracht, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&paragraaf=2&artikel=7&z=2013-04-24&g=2013-04-24), van de Regeling aanvraag- en verdeelprocedure vergunningen kavels A7, B38 en C08 met bijbehorende vergunningen voor digitale radio-omroep
-
-### I. De ondergetekende
-
-**.... (naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte), statutair gevestigd te ...., mede kantoorhoudende te ...., hierna te noemen: ‘de Bank’;**
-
-In aanmerking nemende:
-
-Verklaart hiermee dat
-
-Naam aanvrager voor een vergunning .....
-
-Gevestigd te .....
-
-over zodanige financiële draagkracht beschikt, dat hij
-
-Deze verklaring is uitsluitend bestemd voor de Staat der Nederlanden en kan daarom niet door enig ander persoon dan wel voor enig ander doel worden gebruikt.
-
-Deze verklaring wordt verstrekt naar beste weten, onder uitsluiting van iedere aansprakelijkheid of verplichting van de bank jegens derden
-
-Naar waarheid ingevuld,
-
-Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0033308&bijlage=1&z=2013-04-24&g=2013-04-24) en de toelichting in de Staatscourant worden geplaatst.

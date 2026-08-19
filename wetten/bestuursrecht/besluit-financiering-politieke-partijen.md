@@ -1,60 +1,27 @@
 ---
 title: "Besluit van 28 maart 2013, houdende regels met betrekking tot de werkwijze van de Commissie toezicht financien politieke partijen (Besluit financiering politieke partijen)"
+citeertitel: "Besluit financiering politieke partijen"
 identifier: "BWBR0033216"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033216"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12198683"
-version_id: "20409442"
-internal_id: "C28695421"
-label_id: "12170094"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033216/2023-01-01/0"
-intitule_bron: "Stb.2013-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-28"
-intitule_published: "2013-04-11"
-intitule_in_force: "2013-04-11"
-intitule_status: "goed"
-original_publication: "Stb.2013-132"
-original_signed_date: "2013-03-28"
-original_published_date: "2013-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-132"
-entry_into_force_date: "2013-05-01"
-jci_1_3: "jci1.3:c:BWBR0033216&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0033216&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit financiering politieke partijen"
-signed_date: "2013-03-28"
-entry_into_force: "2013-05-01"
+publicatiedatum: 2013-05-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0033216"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 28 maart 2013, houdende regels met betrekking tot de werkwijze van de Commissie toezicht financien politieke partijen (Besluit financiering politieke partijen)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 november 2012, 2012-000626627, CZW/S&B;
-
-Gelet op [artikel 35, zesde lid, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=35);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 14 november 2012, No. W04.12.0451/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 maart 2013, nr. 2013-0000159315;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet financiering politieke partijen in werking treedt.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004);
+- a. *wet:*
+ [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004);
 
-- b. **commissie:** Commissie toezicht financiën politieke partijen, bedoeld in [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=35).
+- b. *commissie:* Commissie toezicht financiën politieke partijen, bedoeld in [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=35).
 
 ##### Artikel 2
 
@@ -95,5 +62,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet financiering politi
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit financiering politieke partijen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

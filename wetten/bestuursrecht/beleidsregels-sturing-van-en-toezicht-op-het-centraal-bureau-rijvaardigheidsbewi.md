@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2012, nr. IENM/BSK-2012/241271, houdende vaststelling beleidsregels voor de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)"
+citeertitel: "Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen"
 identifier: "BWBR0032468"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2017-01-19"
-last_updated: "2017-01-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032468"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "11961713"
-version_id: "19885712"
-internal_id: "C27923271"
-label_id: "11933764"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032468/2017-01-19/0"
-intitule_bron: "Stcrt.2012-25314"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-06"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25314"
-original_signed_date: "2012-12-06"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25314"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032468&z=2017-01-19&g=2017-01-19"
-jci_1_0: "1.0:c:BWBR0032468&g=2017-01-19"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen"
-signed_date: "2012-12-06"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2017-01-19
+status: geldig
+toestand: 2017-01-19
+bron: "https://wetten.overheid.nl/BWBR0032468"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2012, nr. IENM/BSK-2012/241271, houdende vaststelling beleidsregels voor de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regels wordt verstaan onder:
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **het zbo:** het Centraal Bureau Rijvaardigheidsbewijzen.
+- *het zbo:* het Centraal Bureau Rijvaardigheidsbewijzen.
 
 #### § 2. Directie van het zbo
 
@@ -158,7 +132,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 #### § 4. Financieel toezicht
 
-##### Artikel 10. Tarieven voor taken of taakclusters op grond van de [artikelen 4aa, eerste lid, en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa), en [4am, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4am), alsmede tarieven voor andere op basis van artikel 4aa, derde lid, onderdeel b, van de wet opgedragen taken, voor zover deze taken mede een andere basis hebben in of krachtens de [wet](onbekend)
+##### Artikel 10. Tarieven voor taken of taakclusters op grond van de artikelen 4aa, eerste lid, en derde lid, onderdeel a, en 4am, van de wet, alsmede tarieven voor andere op basis van artikel 4aa, derde lid, onderdeel b, van de wet opgedragen taken, voor zover deze taken mede een andere basis hebben in of krachtens de wet
 
 1. De kostprijzen die ten grondslag liggen aan de tarieven conform het [artikel 4aa, eerste lid, en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa), en [4am, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4am), alsmede aan de tarieven voor andere opgedragen taken op basis van artikel 4aa, derde lid, onderdeel b, van de wet voor zover deze taken mede een andere basis hebben in of krachtens de wet, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald.
 
@@ -176,7 +150,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 4. Het migratietraject naar kostendekkendheid moet een realistisch beeld over de jaren vertonen.
 
-##### Artikel 11. Tarieven voor andere, op basis van [artikel 4aa, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de wet
+##### Artikel 11. Tarieven voor andere, op basis van artikel 4aa, derde lid, onderdeel b, van de wet opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de wet
 
 1. Bij andere, op basis van [artikel 4aa, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) door de minister opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de wet geeft de minister bij het opdragen van die taken aan dat er tarieven voor die taken in rekening worden gebracht en aan welke eisen deze tarieven moeten voldoen.
 
@@ -304,7 +278,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 7. Overige onderwerpen
 
-##### Artikel 18. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 18. Evaluatie conform artikel 39 van de Kaderwet
 
 1. De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de minister van Financiën.
 
@@ -319,5 +293,3 @@ Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op het 
 ##### Artikel 20. Inwerkingtreding
 
 Deze regels treden in werking op 1 januari 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,30 @@
 ---
 title: "Besluit vaststelling subsidieplafonds 2013 enkele deelregelingen Stichting Nederlands Letterenfonds"
 identifier: "BWBR0032659"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-12-28"
-last_updated: "2012-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032659"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12021293"
-version_id: "20007702"
-internal_id: "C28105901"
-label_id: "11992994"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032659/2012-12-28/0"
-intitule_bron: "Stcrt.2012-26959"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-13"
-intitule_published: "2012-12-28"
-intitule_in_force: "2012-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26959"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26959"
-entry_into_force_date: "2012-12-28"
-jci_1_3: "jci1.3:c:BWBR0032659&z=2012-12-28&g=2012-12-28"
-jci_1_0: "1.0:c:BWBR0032659&g=2012-12-28"
-citeertitel_status: "redactioneel"
-signed_date: "2012-12-13"
-entry_into_force: "2012-12-28"
+publicatiedatum: 2012-12-28
+laatste_update: 2012-12-28
+status: geldig
+toestand: 2012-12-28
+bron: "https://wetten.overheid.nl/BWBR0032659"
+opgehaald: 2026-08-19
 ---
+
 # Besluit vaststelling subsidieplafonds 2013 enkele deelregelingen Stichting Nederlands Letterenfonds
 
-Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- 1. [Regeling projectsubsidies voor publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0032647) Voor subsidies als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032647&artikel=2) jo [artikel 9, eerste lid, van de Regeling projectsubsidies voor publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0032647&artikel=9) gelden in 2013 de volgende subsidieplafonds:
 
-Gelet op [artikel 4, zesde lid, Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=4);
+   - a. voor aanvragers die één dan wel twee literaire titels hebben gepubliceerd: € 220.000,–
 
-Besluit:
+   - b. voor aanvragers die minimaal drie literaire werken hebben gepubliceerd en nog geen vijf subsidies hebben ontvangen op basis van deze, of voorgangers van deze, regeling: € 930.000,–
+
+   - c. voor aanvragers die minimaal vijf subsidies hebben ontvangen op basis van deze, of voorgangers van deze, regeling: € 1.000.000,–
+
+- 2. [Regeling reiskosten buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0032528): € 110.000,–
+
+- 3. [Regeling literaire projecten en manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0018121): € 285.000,–
+
+- 4. [Herziene regeling projectwerkbeurzen voor literaire vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0027430): € 1.700.000,–
+
+- 5. [Regeling meerjarige subsidies Nederlands Letterenfonds 2013 –2016](https://wetten.overheid.nl/jci1.3:c:BWBR0030661) Voor manifestatiesubsidies als bedoeld in [artikel 2.2 van de Regeling meerjarige subsidies Nederlands Letterenfonds 2013–2016](https://wetten.overheid.nl/jci1.3:c:BWBR0030661&artikel=2.2) geldt in 2013 het volgende subsidieplafond: € 1.010.000,–

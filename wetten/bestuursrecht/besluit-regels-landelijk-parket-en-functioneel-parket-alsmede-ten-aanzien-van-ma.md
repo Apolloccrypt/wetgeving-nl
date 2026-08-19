@@ -1,26 +1,20 @@
 ---
-title: "Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie"
+title: "Besluit van 6 mei 2013, houdende regels ten aanzien van het landelijk parket en het functioneel parket, alsmede ten aanzien van het mandateren van bevoegdheden van de officier van justitie"
+citeertitel: "Besluit regels landelijk parket en functioneel parket, alsmede ten aanzien van mandateren bevoegdheden officier van justitie"
 identifier: "BWBR0033385"
 categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
+soort: "AMvB"
+publicatiedatum: 2026-04-16
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0033385"
+opgehaald: 2026-08-19
 ---
 
 # Besluit van 6 mei 2013, houdende regels ten aanzien van het landelijk parket en het functioneel parket, alsmede ten aanzien van het mandateren van bevoegdheden van de officier van justitie
 
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 15 maart 2013, nr. 363215;
-
-Gelet op [artikel 126, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=126) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2), en [9, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 april 2013, nr. W03.13.0070/11);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 2 mei 2013, nr. 379352;
-
-Hebben goedgevonden en verstaan:
-
-#### Artikel 1
+##### Artikel 1
 
 De officier van justitie bij het landelijk parket is belast met de vervolging van:
 
@@ -28,21 +22,33 @@ De officier van justitie bij het landelijk parket is belast met de vervolging va
 
 - b. misdrijven die in nationaal of internationaal verband worden gepleegd en waarvoor vervolging door het landelijk parket in aanmerking komt, gezien de taakverdeling tussen de regionale eenheden van de politie en een dienst van een landelijke eenheid van politie die tot taak heeft:
 
-- 1°. het binnen vooraf door het bevoegd gezag vastgestelde aandachtsgebieden verrichten van onderzoeken naar zware en georganiseerde criminaliteit die naar aard of organisatie een landelijk of internationaal karakter hebben en die de rechtsstaat in ernstige mate bedreigen;
+   - 1°. het binnen vooraf door het bevoegd gezag vastgestelde aandachtsgebieden verrichten van onderzoeken naar zware en georganiseerde criminaliteit die naar aard of organisatie een landelijk of internationaal karakter hebben en die de rechtsstaat in ernstige mate bedreigen;
 
-- 2°. het afhandelen van gecompliceerde internationale rechtshulpverzoeken op de door het bevoegd gezag aangewezen aandachtsgebieden van de betreffende dienst van een landelijke eenheid van politie en van gecompliceerde rechtshulpverzoeken die niet zijn terug te brengen op een specifieke regionale eenheid van politie of opsporingsinstantie;
+   - 2°. het afhandelen van gecompliceerde internationale rechtshulpverzoeken op de door het bevoegd gezag aangewezen aandachtsgebieden van de betreffende dienst van een landelijke eenheid van politie en van gecompliceerde rechtshulpverzoeken die niet zijn terug te brengen op een specifieke regionale eenheid van politie of opsporingsinstantie;
 
-- 3°. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de betreffende dienst van een landelijke eenheid van politie.
+   - 3°. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de betreffende dienst van een landelijke eenheid van politie.
 
-#### Artikel 2
+##### Artikel 2
 
-De officier van justitie bij het functioneel parket is belast met de vervolging van de hierna te noemen misdrijven, voor zover deze, gezien hun ernst of frequentie dan wel het georganiseerde verband waarin deze worden gepleegd, een ernstige inbreuk op de rechtsorde maken en voor de bestrijding ervan een hoge mate van deskundigheid noodzakelijk is:
+De officier van justitie bij het functioneel parket is belast met de vervolging van:
 
-- a. de misdrijven waarvan de strafrechtelijke handhaving en opsporing op grond van [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) is opgedragen aan een bijzondere opsporingsdienst als bedoeld in [artikel 1, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1); en
+- a. strafbare feiten waarvan de strafrechtelijke handhaving en opsporing op grond van [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) is opgedragen aan een bijzondere opsporingsdienst als bedoeld in [artikel 1, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1);
 
-- b. milieudelicten.
+- b. milieudelicten en economische delicten die worden opgespoord door andere opsporingsambtenaren dan die, bedoeld in onderdeel a;
 
-#### Artikel 3
+- c. andere strafbare feiten die naar aard, ernst, complexiteit, frequentie of het georganiseerd verband waarin de feiten zijn gepleegd, soortgelijk zijn aan de feiten, bedoeld in onderdeel a, en voor de opsporing en vervolging waarvan bijzondere deskundigheid noodzakelijk is.
+
+##### Artikel 2a
+
+1. De officier van justitie bij het parket centrale verwerking openbaar ministerie is belast met de vervolging van strafbare feiten waarvoor een strafbeschikking kan worden uitgevaardigd.
+
+2. Hij is voorts belast met het bij de rechter aanbrengen en behandelen van strafzaken ingeval:
+
+- a. tegen de in het eerste lid bedoelde strafbeschikking verzet is gedaan;
+
+- b. de in het eerste lid bedoelde strafbeschikking niet of niet volledig ten uitvoer gelegd is kunnen worden.
+
+##### Artikel 3
 
 1. De officier van justitie draagt de uitoefening van een bevoegdheid niet op aan een andere bij het parket werkzame ambtenaar indien de bevoegdheid betrekking heeft op:
 
@@ -80,24 +86,14 @@ De officier van justitie bij het functioneel parket is belast met de vervolging 
 
 - c. de intrekking van hoger beroep of cassatie op grond van [artikel 453, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=453), en [6:6:15, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15).
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit reorganisatie openbaar ministerie en instelling landelijk parket](https://wetten.overheid.nl/jci1.3:c:BWBR0010456) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 4a
+
+Dit besluit berust mede op [artikel 9, derde en vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=9). Het berust niet op [artikel 2, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2).
+
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Artikel 2a
-
-1. De officier van justitie bij het parket centrale verwerking openbaar ministerie is belast met de vervolging van strafbare feiten waarvoor een strafbeschikking kan worden uitgevaardigd.
-
-2. Hij is voorts belast met het bij de rechter aanbrengen en behandelen van strafzaken ingeval:
-
-- a. tegen de in het eerste lid bedoelde strafbeschikking verzet is gedaan;
-
-- b. de in het eerste lid bedoelde strafbeschikking niet of niet volledig ten uitvoer gelegd is kunnen worden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

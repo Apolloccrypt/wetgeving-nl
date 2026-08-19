@@ -1,52 +1,24 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 november 2012-0000044243, tot vaststelling van consumentenprijsindexcijfers voor 2013 voor Caribisch Nederland en op basis daarvan aanpassing van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen en van het maximumdagloon voor de Wet ziekteverzekering BES"
+citeertitel: "Regeling vaststelling consumentenprijsindexcijfers 2013 voor Caribisch Nederland en aanpassing bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen en van het maximumdagloon voor de Wet ziekteverzekering BES"
 identifier: "BWBR0032370"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032370"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "11933943"
-version_id: "19837442"
-internal_id: "C27863351"
-label_id: "11905884"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032370/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-30"
-intitule_published: "2012-12-10"
-intitule_in_force: "2012-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25296"
-original_signed_date: "2012-11-30"
-original_published_date: "2012-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25296"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032370&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032370&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling vaststelling consumentenprijsindexcijfers 2013 voor Caribisch Nederland en aanpassing bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen en van het maximumdagloon voor de Wet ziekteverzekering BES"
-signed_date: "2012-11-30"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032370"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 november 2012-0000044243, tot vaststelling van consumentenprijsindexcijfers voor 2013 voor Caribisch Nederland en op basis daarvan aanpassing van bedragen van tegemoetkomingen en uitkeringen, van het wettelijk minimumuurloon en het bedrag genoemd in de Regeling Pensioenwet BES, alsmede van premiepercentages van werknemersverzekeringen en volksverzekeringen en van het maximumdagloon voor de Wet ziekteverzekering BES
-
-In overeenstemming met de Staatssecretaris van Financiën;
-
-Gelet op de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7), [7a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7a), [7b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7b), en [27 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=27), [11, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11), en [30 van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=30), [13, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=13), [7, vierde lid, van de Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7), [8, derde lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5), en [8, vierde lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8), [21, eerste lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=21), en [artikel 7b, eerste en derde lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b);
-
-Besluit:
 
 ##### Artikel 1. Consumentenprijsindexcijfer Caribisch Nederland
 
 Het consumentenprijsindexcijfer voor 2013 wordt vastgesteld op 2,3%, met dien verstande dat voor Sint Eustatius en Saba het consumentenprijsindexcijfer wordt vastgesteld op respectievelijk 4,6% en 3,0%.
 
-##### Artikel 2. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+##### Artikel 2. Wet algemene ouderdomsverzekering BES
 
 1. Het pensioenbedrag, genoemd in [artikel 7, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7), wordt vastgesteld:
 
@@ -92,7 +64,7 @@ en wordt het bedrag van het gezamenlijk inkomen vastgesteld:
 
 5. Het premiepercentage, bedoeld in [artikel 26, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=26), wordt voor het jaar 2013 vastgesteld op 25%.
 
-##### Artikel 3. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+##### Artikel 3. Wet algemene weduwen- en wezenverzekering BES
 
 1. Het bedrag van het weduwenpensioen, genoemd in [artikel 11, eerste lid, onderdeel a, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11), wordt vastgesteld:
 
@@ -206,7 +178,7 @@ en wordt het bedrag van het wezenpensioen voor een kind, bedoeld in [artikel 9, 
 
 9. Het premiepercentage, bedoeld in [artikel 29, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=29), wordt voor het jaar 2013 vastgesteld op 1,3%.
 
-##### Artikel 4. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
+##### Artikel 4. Wet minimumlonen BES
 
 De bedragen van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, onderdelen a, b en c, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), worden vastgesteld:
 
@@ -216,37 +188,37 @@ De bedragen van het bruto minimumuurloon, genoemd in [artikel 9, eerste lid, ond
 
 - c. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 4,61.
 
-##### Artikel 5. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
+##### Artikel 5. Cessantiawet BES
 
 Het premiepercentage, bedoeld in [artikel 7, derde lid, van de Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7), wordt voor het jaar 2013 vastgesteld op 0,2%.
 
-##### Artikel 6. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+##### Artikel 6. Wet ongevallenverzekering BES
 
 Het premiepercentage, bedoeld in [artikel 8, tweede lid, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8), wordt voor het jaar 2013 vastgesteld op 0,5%.
 
-##### Artikel 7. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
+##### Artikel 7. Wet ziekteverzekering BES
 
 1. Het bedrag van het loon per dag, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5) wordt vastgesteld,
 
 - a. voor de werknemer voor wie een zesdaagse werkweek geldt en:
 
-- 1°. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 101,28;
+   - 1°. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 101,28;
 
-- 2°. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 108,74;
+   - 2°. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 108,74;
 
-- 3°. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 102,64, en
+   - 3°. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 102,64, en
 
 - b. voor de werknemer voor wie een vijfdaagse werkweek of een werkweek van minder dan vijf dagen geldt en:
 
-- 1°. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 121,53;
+   - 1°. indien belanghebbende woonachtig is in het openbaar lichaam Bonaire op USD 121,53;
 
-- 2°. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 130,48;
+   - 2°. indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius op USD 130,48;
 
-- 3°. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 123,17.
+   - 3°. indien belanghebbende woonachtig is in het openbaar lichaam Saba op USD 123,17.
 
 2. Het premiepercentage, bedoeld in [artikel 8, derde lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8), wordt voor het jaar 2013 vastgesteld op 1,6%.
 
-##### Artikel 8. [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595)
+##### Artikel 8. Besluit onderstand BES
 
 1. De basisbedragen van de algemene onderstand, genoemd in [artikel 13 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=13), worden vastgesteld:
 
@@ -298,12 +270,10 @@ Het premiepercentage, bedoeld in [artikel 8, tweede lid, van de Wet ongevallenve
 
 7. Het bedrag van de verhoging van de toeslag, genoemd in [artikel 17, derde lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=17), wordt vastgesteld op USD 34.
 
-##### Artikel 9. [Regeling Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712)
+##### Artikel 9. Regeling Pensioenwet BES
 
-Wijzigt de Regeling Pensioenwet BES.
+*Wijzigt de Regeling Pensioenwet BES.*
 
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

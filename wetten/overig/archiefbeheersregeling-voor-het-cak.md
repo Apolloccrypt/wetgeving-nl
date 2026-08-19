@@ -1,45 +1,17 @@
 ---
 title: "Archiefbeheersregeling voor het CAK"
 identifier: "BWBR0033283"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-04-16"
-last_updated: "2013-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033283"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12220263"
-version_id: "20435192"
-internal_id: "C28719391"
-label_id: "12191824"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033283/2013-04-16/0"
-intitule_bron: "Stcrt.2013-9981"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-04"
-intitule_published: "2013-04-16"
-intitule_in_force: "2013-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-9981"
-original_signed_date: "2013-04-04"
-original_published_date: "2013-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-9981"
-entry_into_force_date: "2013-04-16"
-jci_1_3: "jci1.3:c:BWBR0033283&z=2013-04-16&g=2013-04-16"
-jci_1_0: "1.0:c:BWBR0033283&g=2013-04-16"
-citeertitel_status: "redactioneel"
-signed_date: "2013-04-04"
-entry_into_force: "2013-04-16"
+publicatiedatum: 2013-04-16
+laatste_update: 2013-04-16
+status: geldig
+toestand: 2013-04-16
+bron: "https://wetten.overheid.nl/BWBR0033283"
+opgehaald: 2026-08-19
 ---
+
 # Archiefbeheersregeling voor het CAK
-
-gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-overwegende dat juiste en kwalitatief goede documentaire activiteiten binnen het CAK wenselijk zijn;
-
-besluit vast te stellen de navolgende archiefbeheersregeling:
 
 ### Hoofdstuk I. Begrippenkader
 
@@ -47,73 +19,73 @@ besluit vast te stellen de navolgende archiefbeheersregeling:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- 1. **Archief** Het geheel van archiefbescheiden, ontvangen of opgemaakt door het CAK.
+- 1. *Archief* Het geheel van archiefbescheiden, ontvangen of opgemaakt door het CAK.
 
-- 2. **Archiefbescheiden**
+- 2. *Archiefbescheiden*
 
-- a). bescheiden, ongeacht hun vorm, door het CAK ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - a) bescheiden, ongeacht hun vorm, door het CAK ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- b). bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het CAK zijn overgegaan;
+   - b) bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het CAK zijn overgegaan;
 
-- c). reproducties, ongeacht hun vorm, welke bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats zijn gesteld van de onder a) en b) bedoelde archiefbescheiden.
+   - c) reproducties, ongeacht hun vorm, welke bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats zijn gesteld van de onder a) en b) bedoelde archiefbescheiden.
 
-- 3. **Archiefbestanddelen** Archiefbescheiden die vanwege hun oorzakelijk verband als zodanig bijeen zijn opgeslagen (dossiers).
+- 3. *Archiefbestanddelen* Archiefbescheiden die vanwege hun oorzakelijk verband als zodanig bijeen zijn opgeslagen (dossiers).
 
-- 4. **Archiefbewaarplaats of -ruimte** Ruimte waarin archieven worden opgeslagen en die voldoet aan bij de wet gestelde inrichtingseisen.
+- 4. *Archiefbewaarplaats of -ruimte* Ruimte waarin archieven worden opgeslagen en die voldoet aan bij de wet gestelde inrichtingseisen.
 
-- 5. **Authenticiteit** Het behoud van de inhoud, structuur en verschijningsvorm van archiefbescheiden in hun oorspronkelijke gedaante, dat wil zeggen de gedaante die ze bij hun ontstaan hadden.
+- 5. *Authenticiteit* Het behoud van de inhoud, structuur en verschijningsvorm van archiefbescheiden in hun oorspronkelijke gedaante, dat wil zeggen de gedaante die ze bij hun ontstaan hadden.
 
-- 6. **Beheer** Het in opdracht van de zorgdrager (doen) uitvoeren van de feitelijke werkzaamheden die tot doel hebben de archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te houden.
+- 6. *Beheer* Het in opdracht van de zorgdrager (doen) uitvoeren van de feitelijke werkzaamheden die tot doel hebben de archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te houden.
 
-- 7. **Beheerder** De werknemer of groep van medewerkers die belast is of zijn met het beheer.
+- 7. *Beheerder* De werknemer of groep van medewerkers die belast is of zijn met het beheer.
 
-- 8. **Bestand** Een geheel van gegevens in een zelfde opslagformaat.
+- 8. *Bestand* Een geheel van gegevens in een zelfde opslagformaat.
 
-- 9. **Besturingsprogramma** De programmatuur die bestemd is ter besturing van een informatiesysteem.
+- 9. *Besturingsprogramma* De programmatuur die bestemd is ter besturing van een informatiesysteem.
 
-- 10. **Conversie** Het om- of overzetten van gegevens in een ander opslagformaat.
+- 10. *Conversie* Het om- of overzetten van gegevens in een ander opslagformaat.
 
-- 11. **Documentaire activiteiten** Het creëren, identificeren, verzamelen, vastleggen, ontsluiten, opslaan van documenten, de archiefvorming en het archiefbeheer, alsmede van de toegankelijkheid van de archiefbescheiden met als doel het ter beschikking stellen van die documenten of de daarin opgeslagen informatie aan de eigen organisatie en derden.
+- 11. *Documentaire activiteiten* Het creëren, identificeren, verzamelen, vastleggen, ontsluiten, opslaan van documenten, de archiefvorming en het archiefbeheer, alsmede van de toegankelijkheid van de archiefbescheiden met als doel het ter beschikking stellen van die documenten of de daarin opgeslagen informatie aan de eigen organisatie en derden.
 
-- 12. **Dossier** Het geheel van archiefbescheiden bij de behandeling van een zaak.
+- 12. *Dossier* Het geheel van archiefbescheiden bij de behandeling van een zaak.
 
-- 13. **Dossierordening** Het overeenkomstig een ordeningsplan inrichten van dossiers.
+- 13. *Dossierordening* Het overeenkomstig een ordeningsplan inrichten van dossiers.
 
-- 14. **Duurzaamheid** Het zodanig opslaan en bewaren van archiefbescheiden zodat na ten minste 100 jaar geen noemenswaardige achteruitgang in kwaliteit zal zijn te constateren.
+- 14. *Duurzaamheid* Het zodanig opslaan en bewaren van archiefbescheiden zodat na ten minste 100 jaar geen noemenswaardige achteruitgang in kwaliteit zal zijn te constateren.
 
-- 15. **Emulatie** Bij emulatie blijft de oorspronkelijke omgeving toegankelijk. De oorspronkelijke omgeving bestaat uit het oorspronkelijke besturingssysteem en de oorspronkelijke softwareapplicatie.
+- 15. *Emulatie* Bij emulatie blijft de oorspronkelijke omgeving toegankelijk. De oorspronkelijke omgeving bestaat uit het oorspronkelijke besturingssysteem en de oorspronkelijke softwareapplicatie.
 
-- 16. **Formeel document** Elk object of voorwerp dat gegevens draagt met het doel deze gegevens eraan te ontlenen of te gebruiken, en dat van administratieve, financiële of juridische waarde is voor het CAK.
+- 16. *Formeel document* Elk object of voorwerp dat gegevens draagt met het doel deze gegevens eraan te ontlenen of te gebruiken, en dat van administratieve, financiële of juridische waarde is voor het CAK.
 
-- 17. **Informatiedrager** Het medium waarmee informatie kan worden overgebracht en opgeslagen, bijvoorbeeld papier, elektromagnetische of optische media.
+- 17. *Informatiedrager* Het medium waarmee informatie kan worden overgebracht en opgeslagen, bijvoorbeeld papier, elektromagnetische of optische media.
 
-- 18. **Migratie** Het overzetten van gegevens naar een ander platform.
+- 18. *Migratie* Het overzetten van gegevens naar een ander platform.
 
-- 19. **Opslagformaat** De code waarin digitale archiefbescheiden op een gegevensdrager zijn opgeslagen.
+- 19. *Opslagformaat* De code waarin digitale archiefbescheiden op een gegevensdrager zijn opgeslagen.
 
-- 20. **Ordeningsplan** Het systematisch overzicht van bij een archiefvormende instantie aanwezige archiefbestanden en van de wijze waarop deze bestanden zijn geordend.
+- 20. *Ordeningsplan* Het systematisch overzicht van bij een archiefvormende instantie aanwezige archiefbestanden en van de wijze waarop deze bestanden zijn geordend.
 
-- 21. **Overbrenging** Het door het CAK overbrengen naar een archiefbewaarplaats van afgesloten archieven die voor permanente bewaring in aanmerking komen en ouder zijn dan twintig jaar.
+- 21. *Overbrenging* Het door het CAK overbrengen naar een archiefbewaarplaats van afgesloten archieven die voor permanente bewaring in aanmerking komen en ouder zijn dan twintig jaar.
 
-- 22. **Overdracht** Het in beheer overdragen van archiefbescheiden, bijvoorbeeld van het dynamisch naar het semi-statisch archief.
+- 22. *Overdracht* Het in beheer overdragen van archiefbescheiden, bijvoorbeeld van het dynamisch naar het semi-statisch archief.
 
-- 23. **Platform** Geheel van apparatuur en besturingsprogrammatuur waarop de toepassingsprogrammatuur werkt.
+- 23. *Platform* Geheel van apparatuur en besturingsprogrammatuur waarop de toepassingsprogrammatuur werkt.
 
-- 24. **Selectielijst** Wettelijk voorgeschreven instrument, met een geldigheid van ten hoogste 20 jaar, ten behoeve van de selectie van archieven in blijvend te bewaren en op termijn te vernietigen archiefbescheiden.
+- 24. *Selectielijst* Wettelijk voorgeschreven instrument, met een geldigheid van ten hoogste 20 jaar, ten behoeve van de selectie van archieven in blijvend te bewaren en op termijn te vernietigen archiefbescheiden.
 
-- 25. **Toepassingsprogrammatuur** De programmatuur die bestemd is ter ondersteuning van de uitvoering van een werkproces.
+- 25. *Toepassingsprogrammatuur* De programmatuur die bestemd is ter ondersteuning van de uitvoering van een werkproces.
 
-- 26. **Toezicht** Het vaststellen of de geldende regelgeving al dan niet wordt nageleefd. Voor overheidsorganen wordt dit uitgevoerd door de Rijksarchiefinspectie.
+- 26. *Toezicht* Het vaststellen of de geldende regelgeving al dan niet wordt nageleefd. Voor overheidsorganen wordt dit uitgevoerd door de Rijksarchiefinspectie.
 
-- 27. **Vervanging** Het vervangen van archiefbescheiden door reproducties, op gelijke of andere informatiedragers, welke bij of krachtens [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) in de plaats kunnen worden gesteld voor de originele archiefbescheiden.
+- 27. *Vervanging* Het vervangen van archiefbescheiden door reproducties, op gelijke of andere informatiedragers, welke bij of krachtens [artikel 7 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) in de plaats kunnen worden gesteld voor de originele archiefbescheiden.
 
-- 28. **Vervreemding** Het in eigendom overdragen van archiefbescheiden aan een andere rechtspersoon dan het CAK.
+- 28. *Vervreemding* Het in eigendom overdragen van archiefbescheiden aan een andere rechtspersoon dan het CAK.
 
-- 29. **Zaak** Een eindigend complex van handelingen gericht op een bepaald doel.
+- 29. *Zaak* Een eindigend complex van handelingen gericht op een bepaald doel.
 
-- 30. **Zorg** De bestuurlijke verantwoordelijkheid voor het naleven van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting om de onder de zorgdrager berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen, te houden en te bewaren, alsmede de daarvoor in aanmerking komende archiefbescheiden te vernietigen.
+- 30. *Zorg* De bestuurlijke verantwoordelijkheid voor het naleven van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting om de onder de zorgdrager berustende archiefbescheiden in goede, geordende en toegankelijke staat te brengen, te houden en te bewaren, alsmede de daarvoor in aanmerking komende archiefbescheiden te vernietigen.
 
-- 31. **Zorgdrager** Degene die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) is belast met de zorg voor de archieven.
+- 31. *Zorgdrager* Degene die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) is belast met de zorg voor de archieven.
 
 ### Hoofdstuk II. Reikwijdte
 
@@ -127,27 +99,27 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 1. Het Centraal Administratie Kantoor (CAK)
 
-- a). Het dagelijks bestuur is de zorgdrager in de zin van [artikel 1, lid d, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de archiefbescheiden van het CAK en is derhalve belast met de wettelijke verplichting deze archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren.
+- a) Het dagelijks bestuur is de zorgdrager in de zin van [artikel 1, lid d, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de archiefbescheiden van het CAK en is derhalve belast met de wettelijke verplichting deze archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren.
 
-- b). [Artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=I&artikel=1&z=2013-04-16&g=2013-04-16), blijft van kracht wanneer het dagelijks bestuur taken uitbesteedt. In dat geval dient het CAK duidelijke afspraken vast te leggen met de dienstverlenende instantie.
+- b) [Artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=I&artikel=1&z=2013-04-16&g=2013-04-16), blijft van kracht wanneer het dagelijks bestuur taken uitbesteedt. In dat geval dient het CAK duidelijke afspraken vast te leggen met de dienstverlenende instantie.
 
-- c). Het dagelijks bestuur stelt aanvullende regelingen en algemene voorschriften op het gebied van de documentaire activiteiten vast.
+- c) Het dagelijks bestuur stelt aanvullende regelingen en algemene voorschriften op het gebied van de documentaire activiteiten vast.
 
 2. De bestuursvoorzitter van het CAK
 
-- a). De bestuursvoorzitter is ambtelijk eindverantwoordelijk voor de zorg voor de documentaire activiteiten. Hij/zij is verantwoordelijk voor de aanwezigheid van voldoende middelen voor het archiefbeheer zoals (de opleiding van) deskundig personeel, de aanwezigheid van voldoende financiële middelen en van voldoende, goed geoutilleerde archiefruimten en -systemen.
+- a) De bestuursvoorzitter is ambtelijk eindverantwoordelijk voor de zorg voor de documentaire activiteiten. Hij/zij is verantwoordelijk voor de aanwezigheid van voldoende middelen voor het archiefbeheer zoals (de opleiding van) deskundig personeel, de aanwezigheid van voldoende financiële middelen en van voldoende, goed geoutilleerde archiefruimten en -systemen.
 
-- b). Voor het verrichten van de werkzaamheden en het dagelijks toezicht op het archief wijst de bestuursvoorzitter een unitmanager en zijn/haar medewerkers als dagelijkse beheerders aan.
+- b) Voor het verrichten van de werkzaamheden en het dagelijks toezicht op het archief wijst de bestuursvoorzitter een unitmanager en zijn/haar medewerkers als dagelijkse beheerders aan.
 
-- c). De bestuursvoorzitter is belast met het toezicht op de toepassing van de regels en instrumenten met het oog op goed archiefbeheer.
+- c) De bestuursvoorzitter is belast met het toezicht op de toepassing van de regels en instrumenten met het oog op goed archiefbeheer.
 
 3. Beheerders van het archief
 
-- a). De beheerders zijn belast met de uitvoering van het in deze beheersregeling aangaande de documentaire activiteiten gestelde.
+- a) De beheerders zijn belast met de uitvoering van het in deze beheersregeling aangaande de documentaire activiteiten gestelde.
 
-- b). De beheerders zijn belast met de voorbereiding en het onderhoud van regelingen en algemene voorschriften op het terrein van de documentaire activiteiten.
+- b) De beheerders zijn belast met de voorbereiding en het onderhoud van regelingen en algemene voorschriften op het terrein van de documentaire activiteiten.
 
-- c). De beheerders verrichten adviserende en coördinerende taken waarmee de effectiviteit en efficiëntie van de documentaire activiteiten zijn gediend.
+- c) De beheerders verrichten adviserende en coördinerende taken waarmee de effectiviteit en efficiëntie van de documentaire activiteiten zijn gediend.
 
 ### Hoofdstuk IV. Documentbehandeling
 
@@ -157,19 +129,19 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 2. Van de formele documenten wordt ten minste één van de onderstaande kenmerken geregistreerd:
 
-- a). uniek registratienummer waaronder het stuk is geïndexeerd;
+- a) uniek registratienummer waaronder het stuk is geïndexeerd;
 
-- b). afzender of geadresseerde;
+- b) afzender of geadresseerde;
 
-- c). door afzender of behandelaar toegekend kenmerk;
+- c) door afzender of behandelaar toegekend kenmerk;
 
-- d). datum van stuk en van binnenkomst/verzending;
+- d) datum van stuk en van binnenkomst/verzending;
 
-- e). onderwerp/zaak/werkproces;
+- e) onderwerp/zaak/werkproces;
 
-- f). klantnummer;
+- f) klantnummer;
 
-- g). dossiercode;
+- g) dossiercode;
 
 3. Door de beheerder kunnen documenten van gering belang van registratie worden uitgezonderd.
 
@@ -203,17 +175,17 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 1. Van de zaakdossiers worden ten minste de volgende gegevens geregistreerd:
 
-- a). uniek zaaknummer;
+- a) uniek zaaknummer;
 
-- b). zaakdossieromschrijving;
+- b) zaakdossieromschrijving;
 
-- c). looptijd van het zaakdossier;
+- c) looptijd van het zaakdossier;
 
-- d). indicatie bewaren of vernietigen met het eventuele vernietigingsjaar;
+- d) indicatie bewaren of vernietigen met het eventuele vernietigingsjaar;
 
-- e). werkprocesnummer uit de selectielijst;
+- e) werkprocesnummer uit de selectielijst;
 
-- f). verblijfplaats (indien noodzakelijk).
+- f) verblijfplaats (indien noodzakelijk).
 
 2. Wanneer dat wenselijk is, wordt het ontsluiten van de inhoud van de archiefbescheiden zodanig verricht dat het gebruik van deze gegevens in combinatie met andere informatiebronnen van het CAK mogelijk is.
 
@@ -223,31 +195,31 @@ Deze beheersregeling is van toepassing op het beheer van documenten binnen het g
 
 2. Bij het ontwerpen en het onderhouden van de selectielijst moet rekening worden gehouden met:
 
-- a). de taken van het CAK;
+- a) de taken van het CAK;
 
-- b). de werkprocessen welke van belang zijn voor de uitvoering van de taken van het CAK;
+- b) de werkprocessen welke van belang zijn voor de uitvoering van de taken van het CAK;
 
-- c). de verhouding van het CAK met andere overheidsorganen;
+- c) de verhouding van het CAK met andere overheidsorganen;
 
-- d). de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;
+- d) de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;
 
-- e). het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.
+- e) het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.
 
 3. Bij de totstandkoming of actualisatie van de selectielijst dient onderstaande procedure te worden gevolgd:
 
-- a). Intern vooroverleg: eerste concept-selectielijst;
+- a) Intern vooroverleg: eerste concept-selectielijst;
 
-- b). Strategisch Informatie Overleg (SIO) tussen ten minste de zorgdrager, een externe deskundige op het gebied van de organisatie en de taken van het CAK en het Nationaal Archief;
+- b) Strategisch Informatie Overleg (SIO) tussen ten minste de zorgdrager, een externe deskundige op het gebied van de organisatie en de taken van het CAK en het Nationaal Archief;
 
-- c). indiening van de ontwerplijst bij Nationaal Archief;
+- c) indiening van de ontwerplijst bij Nationaal Archief;
 
-- d). ter inzage legging door het Nationaal Archief voor een periode van zes weken conform de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- d) ter inzage legging door het Nationaal Archief voor een periode van zes weken conform de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- e). eventueel aanpassen van het ontwerp
+- e) eventueel aanpassen van het ontwerp
 
-- f). vaststellingsbeschikking;
+- f) vaststellingsbeschikking;
 
-- i). publicatie van de selectielijst online in de Staatscourant en op de website van het Nationaal Archief.
+- i) publicatie van de selectielijst online in de Staatscourant en op de website van het Nationaal Archief.
 
 4. Geldigheidsduur van de selectielijst
 
@@ -273,39 +245,39 @@ Door de beheerder van het archief wordt tweejaarlijks gecontroleerd of de select
 
 Van permanent te bewaren digitale archiefbescheiden worden ten minste de volgende kenmerken vastgelegd en bewaard.
 
-- a). naast de registratie van formele documenten volgens [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=IV&artikel=4&z=2013-04-16&g=2013-04-16) van deze regeling geldt dat van elk digitaal archiefbescheid het gedrag dient te worden vastgelegd ter waarborg van de authenticiteit;
+- a) naast de registratie van formele documenten volgens [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=IV&artikel=4&z=2013-04-16&g=2013-04-16) van deze regeling geldt dat van elk digitaal archiefbescheid het gedrag dient te worden vastgelegd ter waarborg van de authenticiteit;
 
-- b). de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de digitale archiefbescheiden worden bewaard of beheerd;
+- b) de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de digitale archiefbescheiden worden bewaard of beheerd;
 
-- b). de metagegevens van de digitale archiefbescheiden, omvatten ten minste de volgende gegevens:
+- b) de metagegevens van de digitale archiefbescheiden, omvatten ten minste de volgende gegevens:
 
-- –. de oorspronkelijk technische aard, alsmede van de hard- en softwareomgeving;
+   - – de oorspronkelijk technische aard, alsmede van de hard- en softwareomgeving;
 
-- –. de actuele technische aard, alsmede van de hard- en softwareomgeving, zodanig dat reproductie te allen tijde mogelijk is;
+   - – de actuele technische aard, alsmede van de hard- en softwareomgeving, zodanig dat reproductie te allen tijde mogelijk is;
 
-- –. de houder van de digitale handtekening, met moment van validatie en resultaat door verantwoordelijke functionaris alsmede de identificatie van het certificaat van de handtekening;
+   - – de houder van de digitale handtekening, met moment van validatie en resultaat door verantwoordelijke functionaris alsmede de identificatie van het certificaat van de handtekening;
 
-- –. het opslagformaat;
+   - – het opslagformaat;
 
-- –. in voorkomende gevallen de gebruikte compressietechniek.
+   - – in voorkomende gevallen de gebruikte compressietechniek.
 
 2. Toegankelijkheid en authenticiteit
 
-- a). Van de voor permanente bewaring in aanmerking komende digitale archiefbescheiden dient de authenticiteit te worden gewaarborgd. Dit houdt in dat hun oorspronkelijke inhoud, structuur, verschijningsvorm en gedrag te allen tijde moeten kunnen worden vastgesteld.
+- a) Van de voor permanente bewaring in aanmerking komende digitale archiefbescheiden dient de authenticiteit te worden gewaarborgd. Dit houdt in dat hun oorspronkelijke inhoud, structuur, verschijningsvorm en gedrag te allen tijde moeten kunnen worden vastgesteld.
 
-- b). Het CAK legt functionele eisen vast ten aanzien van de in lid 2a bedoelde inhoud, structuur, verschijningsvorm en het gedrag van de digitale archiefbescheiden.
+- b) Het CAK legt functionele eisen vast ten aanzien van de in lid 2a bedoelde inhoud, structuur, verschijningsvorm en het gedrag van de digitale archiefbescheiden.
 
-- c). Voor zover nodig voor het behoud van de toegankelijkheid en de authenticiteit van de permanent te bewaren digitale archiefbescheiden, is de beheerder van het digitale archief belast met het bewaren van de besturingsprogrammatuur of toepassingsprogrammatuur.
+- c) Voor zover nodig voor het behoud van de toegankelijkheid en de authenticiteit van de permanent te bewaren digitale archiefbescheiden, is de beheerder van het digitale archief belast met het bewaren van de besturingsprogrammatuur of toepassingsprogrammatuur.
 
-- d). De beheerder van het digitale archief controleert jaarlijks of de afgesloten permanent te bewaren digitale gegevensbestanden nog in goede, toegankelijke en geordende staat verkeren.
+- d) De beheerder van het digitale archief controleert jaarlijks of de afgesloten permanent te bewaren digitale gegevensbestanden nog in goede, toegankelijke en geordende staat verkeren.
 
-- e). De unitmanager is er verantwoordelijk voor dat bij het ontwerp van digitale registraties en systemen voor gebruik bij het CAK rekening wordt gehouden met de voor die archiefbescheiden geldende bewaar- of vernietigingscriteria conform de selectielijst.
+- e) De unitmanager is er verantwoordelijk voor dat bij het ontwerp van digitale registraties en systemen voor gebruik bij het CAK rekening wordt gehouden met de voor die archiefbescheiden geldende bewaar- of vernietigingscriteria conform de selectielijst.
 
 3. Conversie en migratie
 
-- a). Indien een gerede kans bestaat dat, als gevolg van wijziging of in onbruik raken van besturingsprogrammatuur of toepassingprogrammatuur niet langer voldaan kan worden aan de toegankelijke en geordende staat van de digitale archiefbescheiden, zorgt de beheerder ervoor dat conversie of migratie dan wel emulatie de archiefbescheiden blijvend kunnen worden gebruikt of geraadpleegd.
+- a) Indien een gerede kans bestaat dat, als gevolg van wijziging of in onbruik raken van besturingsprogrammatuur of toepassingprogrammatuur niet langer voldaan kan worden aan de toegankelijke en geordende staat van de digitale archiefbescheiden, zorgt de beheerder ervoor dat conversie of migratie dan wel emulatie de archiefbescheiden blijvend kunnen worden gebruikt of geraadpleegd.
 
-- b). Van de conversie, migratie of emulatie wordt een door de uitvoeringsverantwoordelijke ondertekende verklaring opgemaakt, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of na conversie of migratie aan de gestelde eisen van geordende en toegankelijke staat wordt voldaan. De beheerder van het digitale archief bewaart een exemplaar van deze verklaring.
+- b) Van de conversie, migratie of emulatie wordt een door de uitvoeringsverantwoordelijke ondertekende verklaring opgemaakt, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of na conversie of migratie aan de gestelde eisen van geordende en toegankelijke staat wordt voldaan. De beheerder van het digitale archief bewaart een exemplaar van deze verklaring.
 
 ### Hoofdstuk VI. Informatieverstrekking
 
@@ -363,13 +335,13 @@ Van een overdracht als bedoeld in het eerste lid binnen het CAK wordt een door d
 
 4. Vervreemding.
 
-- a). De beheerder van het archief is bevoegd over te gaan tot vervreemding van archiefbescheiden die niet in een rijksarchiefbewaarplaats berusten, nadat daarvoor een machtiging is verleend door de minister van Onderwijs, Cultuur en Wetenschappen.
+- a) De beheerder van het archief is bevoegd over te gaan tot vervreemding van archiefbescheiden die niet in een rijksarchiefbewaarplaats berusten, nadat daarvoor een machtiging is verleend door de minister van Onderwijs, Cultuur en Wetenschappen.
 
-- b). Indien vervreemding voortvloeit uit een wettelijke verplichting kan hiertoe zonder machtiging worden overgegaan.
+- b) Indien vervreemding voortvloeit uit een wettelijke verplichting kan hiertoe zonder machtiging worden overgegaan.
 
-- c). Indien de archiefbescheiden ten gevolge van de vervreemding niet zullen worden overgebracht naar een archiefbewaarplaats, betrekt de beheerder van het archief bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als genoemd het derde lid van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=V&artikel=8&z=2013-04-16&g=2013-04-16) van deze beheersregeling.
+- c) Indien de archiefbescheiden ten gevolge van de vervreemding niet zullen worden overgebracht naar een archiefbewaarplaats, betrekt de beheerder van het archief bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden deskundigen als genoemd het derde lid van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033283&hoofdstuk=V&artikel=8&z=2013-04-16&g=2013-04-16) van deze beheersregeling.
 
-- d). Van de vervreemding van archiefbescheiden wordt een door de beheerder van het archief ondertekende verklaring opgemaakt, die ten minste een specificatie van de vervreemde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervreemding is geschied. Een exemplaar van deze verklaring wordt door de beheerder van het archief bewaard.
+- d) Van de vervreemding van archiefbescheiden wordt een door de beheerder van het archief ondertekende verklaring opgemaakt, die ten minste een specificatie van de vervreemde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervreemding is geschied. Een exemplaar van deze verklaring wordt door de beheerder van het archief bewaard.
 
 5. Ter beschikkingstelling.
 

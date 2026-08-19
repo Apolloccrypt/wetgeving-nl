@@ -1,38 +1,17 @@
 ---
 title: "Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)"
 identifier: "BWBR0033122"
-country: "nl"
-rank: "zbo"
-publication_date: "2004-04-18"
-last_updated: "2004-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033122"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12171053"
-version_id: "20324742"
-internal_id: "C28593711"
-label_id: "12142804"
-dtd_version: "2.0"
-original_entry_into_force: "2004-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033122/2004-04-18/0"
-intitule_bron: "Stcrt.2004-73"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-04-16"
-intitule_in_force: "2004-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2004-73"
-original_published_date: "2004-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2004-73-p30-SC64713"
-entry_into_force_date: "2004-04-18"
-jci_1_3: "jci1.3:c:BWBR0033122&z=2004-04-18&g=2004-04-18"
-jci_1_0: "1.0:c:BWBR0033122&g=2004-04-18"
-citeertitel_status: "officieel"
-entry_into_force: "2004-04-18"
+publicatiedatum: 2004-04-18
+laatste_update: 2004-04-18
+status: geldig
+toestand: 2004-04-18
+bron: "https://wetten.overheid.nl/BWBR0033122"
+opgehaald: 2026-08-19
 ---
-# Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)
 
-Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)
+# Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)
 
 ### Hoofdstuk 1. Definities en toepassing
 
@@ -40,21 +19,23 @@ Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **Bureau Bibob:** Bureau, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8) en [9, eerste lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
+- a. *Bureau Bibob:* Bureau, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8) en [9, eerste lid, van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9);
 
-- b. **Minister:** Minister van Verkeer en Waterstaat;
+- b. *Minister:* Minister van Verkeer en Waterstaat;
 
-- c. **Wet Bibob:** [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+- c. *Wet Bibob:*
+ [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
-- d. **Besluit Bibob:** [Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0014964);
+- d. *Besluit Bibob:*
+ [Besluit bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0014964);
 
-- e. **misdrijf:** strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede) en [artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2);
+- e. *misdrijf:* strafbare feiten als bedoeld in het [Tweede Boek van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede) en [artikel 2, eerste, tweede, derde lid en vijfde lid, van de Wet economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2);
 
-- f. **strafbaar feit:** feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
+- f. *strafbaar feit:* feit dat aanleiding kan zijn tot strafvervolging en is bedreigd met een strafrechtelijke sanctie;
 
-- g. **NIWO:** Stichting Nationale en Internationale Wegvervoer Organisatie, als bedoeld in de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443);
+- g. *NIWO:* Stichting Nationale en Internationale Wegvervoer Organisatie, als bedoeld in de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443);
 
-- h. **vergunning:** vergunning als bedoeld in [artikel 5, eerste lid en derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5).
+- h. *vergunning:* vergunning als bedoeld in [artikel 5, eerste lid en derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5).
 
 ##### Artikel 2
 
@@ -94,67 +75,67 @@ Als strafbare feiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c
 
 - 1. De commune delicten uit het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
 
-- a. deelneming aan een criminele organisatie ([140 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde feiten;
+   - a. deelneming aan een criminele organisatie ([140 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde feiten;
 
-- b. omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigde beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 lid 1 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
+   - b. omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigde beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 lid 1 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
 
-- c. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
+   - c. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
 
-- d. het illegaal te werk doen stellen van zich onrechtmatig in Nederland bevindende personen ([197b WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197b));
+   - d. het illegaal te werk doen stellen van zich onrechtmatig in Nederland bevindende personen ([197b WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197b));
 
-- e. valsheid in geschrifte ([225-227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [230 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=230));
+   - e. valsheid in geschrifte ([225-227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [230 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=230));
 
-- f. mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, onder 2 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a));
+   - f. mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, onder 2 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a));
 
-- g. mensenroof ([278 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278));
+   - g. mensenroof ([278 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278));
 
-- h. slavenhandel ([276 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=276));
+   - h. slavenhandel ([276 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=276));
 
-- i. schaking ([281 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281));
+   - i. schaking ([281 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281));
 
-- j. wederrechtelijke vrijheidsberoving ([282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [283 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=283)) en gijzeling ([282a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a));
+   - j. wederrechtelijke vrijheidsberoving ([282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [283 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=283)) en gijzeling ([282a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a));
 
-- k. diefstal en diefstal met geweld ([310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [312 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312));
+   - k. diefstal en diefstal met geweld ([310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [312 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312));
 
-- l. afpersing ([317 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317)) en afdreiging ([318 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=318));
+   - l. afpersing ([317 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317)) en afdreiging ([318 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=318));
 
-- m. verduistering ([321 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321)) en beroepshalve verduistering ([322 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322));
+   - m. verduistering ([321 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321)) en beroepshalve verduistering ([322 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322));
 
-- n. oplichting ([326 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326)) en betalingsbedrog ([326a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326a));
+   - n. oplichting ([326 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326)) en betalingsbedrog ([326a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326a));
 
-- o. verzekeringsoplichting ([328 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328));
+   - o. verzekeringsoplichting ([328 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328));
 
-- p. oneerlijke mededinging door misleiding ([328bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328bis));
+   - p. oneerlijke mededinging door misleiding ([328bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328bis));
 
-- q. de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=330)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, tweede lid WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=331));
+   - q. de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=330)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, tweede lid WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=331));
 
-- r. het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=337)), in het bijzonder het plegen beroepshalve (337, tweede WvSr);
+   - r. het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=337)), in het bijzonder het plegen beroepshalve (337, tweede WvSr);
 
-- s. bankbreuk ([340 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=340)) en bedrieglijke bankbreuk ([341 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=341));
+   - s. bankbreuk ([340 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=340)) en bedrieglijke bankbreuk ([341 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=341));
 
-- t. opzetheling ([416 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416)) en schuldheling ([417bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417bis));
+   - t. opzetheling ([416 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416)) en schuldheling ([417bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417bis));
 
-- u. de medeplichtigheid aan of poging tot het begaan van onder b tot en met t genoemde strafbare feiten.
+   - u. de medeplichtigheid aan of poging tot het begaan van onder b tot en met t genoemde strafbare feiten.
 
 - 2. De delicten uit de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804): Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III ([13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=13); [22, eerste lid, WWM](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22)).
 
 - 3. De delicten uit de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941):
 
-- a. het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3, eerste lid, onder A, B, C en D van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3));
+   - a. het importeren, exporteren, bereiden, telen, bewerken, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3, eerste lid, onder A, B, C en D van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3));
 
-- b. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)).
+   - b. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)).
 
 - 4. De delicten uit de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320):
 
-- a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, sub e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
+   - a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, sub e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
 
-- b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, sub f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
+   - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, sub f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
 
 - 5. De delicten uit de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606):
 
-- a. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3) ([artikel 4, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=4));
+   - a. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3) ([artikel 4, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=4));
 
-- b. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
+   - b. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
 
 ##### Artikel 6
 
@@ -202,53 +183,53 @@ Als strafbare feiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c
 
 - 1. De commune delicten uit het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854):
 
-- a. deelneming aan een criminele organisatie ([140 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
+   - a. deelneming aan een criminele organisatie ([140 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140)), voor zover het betreft organisaties die zich schuldig hebben gemaakt aan de in dit artikel genoemde strafbare feiten;
 
-- b. omkoping van of dwanguitoefening op een ambtenaar, bestuurder en beëdigd beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
+   - b. omkoping van of dwanguitoefening op een ambtenaar, bestuurder en beëdigd beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
 
-- c. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
+   - c. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
 
-- d. mensensmokkel ofwel het behulpzaam zijn bij het onrechtmatig toegang verschaffen tot een land binnen de Europese gemeenschap (179a WvSr),
+   - d. mensensmokkel ofwel het behulpzaam zijn bij het onrechtmatig toegang verschaffen tot een land binnen de Europese gemeenschap (179a WvSr),
 
-- e. slavenhandel ([267 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267));
+   - e. slavenhandel ([267 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267));
 
-- f. mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, sub 2 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a)),
+   - f. mensenhandel, specifiek het vervoeren van personen die worden bewogen tot seksuele handelingen met derden tegen betaling ([250a, eerste lid, sub 2 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250a)),
 
-- g. mensenroof ([278 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278));
+   - g. mensenroof ([278 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=278));
 
-- h. schaking ([281 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281));
+   - h. schaking ([281 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=281));
 
-- i. wederrechtelijke vrijheidsberoving ([282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [283](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=283)) en gijzeling ([282a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a));
+   - i. wederrechtelijke vrijheidsberoving ([282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [283](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=283)) en gijzeling ([282a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a));
 
-- j. beroepshalve verduistering ([322 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322));
+   - j. beroepshalve verduistering ([322 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=322));
 
-- k. de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=330)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, lid 2, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=331));
+   - k. de aflevering van vervalste voedselwaren en geneesmiddelen ([330 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=330)) en het plegen van bedrieglijke handelingen bij de levering van materialen ([331, lid 2, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=331));
 
-- l. het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=337)), in het bijzonder het plegen beroepshalve (337, lid 2, WvSr);
+   - l. het in-, door- of uitvoeren, afleveren en in voorraad hebben van valse waren of merken ([337, eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=337)), in het bijzonder het plegen beroepshalve (337, lid 2, WvSr);
 
-- m. opzetheling ([416](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416)) en schuldheling ([417bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417bis));
+   - m. opzetheling ([416](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416)) en schuldheling ([417bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417bis));
 
-- n. de medeplichtigheid aan of poging tot het begaan van onder b tot en met m genoemde strafbare feiten.
+   - n. de medeplichtigheid aan of poging tot het begaan van onder b tot en met m genoemde strafbare feiten.
 
 - 2. De delicten uit de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804): Het vervoeren, doen binnenkomen of doen uitgaan van wapens van categorieën I, II en III ([13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=13); [22, eerste lid, WWM](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22)).
 
 - 3. De delicten uit de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941):
 
-- a. het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3, eerste lid, onder A, B, C en D Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3));
+   - a. het importeren, exporteren, verwerken, afleveren, verstrekken, vervoeren of aanwezig hebben van verboden middelen ([2, eerste lid, onder A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3, eerste lid, onder A, B, C en D Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3));
 
-- b. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)).
+   - b. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder a bedoelde handelingen ([10a, eerste lid Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=10a)).
 
 - 4. De delicten uit de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320):
 
-- a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
+   - a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
 
-- b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
+   - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
 
 - 5. De delicten uit de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606):
 
-- c. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3) ([artikel 4, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=4));
+   - c. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3) ([artikel 4, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=4));
 
-- d. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
+   - d. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
 
 ##### Artikel 10
 
@@ -296,31 +277,31 @@ Als strafbare feiten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:
 
 - 1. De commune delicten:
 
-- a. omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigd beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
+   - a. omkoping van of dwanguitoefening op een ambtenaar, bestuurder of beëdigd beambte ([177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [183 eerste lid, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=183));
 
-- b. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
+   - b. omkoping van een rechter ([178 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178));
 
-- c. valsheid in geschrifte ([225-227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [230 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=230));
+   - c. valsheid in geschrifte ([225-227](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [230 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=230));
 
-- d. afpersing ([317 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317)) en afdreiging ([318 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=318));
+   - d. afpersing ([317 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317)) en afdreiging ([318 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=318));
 
-- e. oplichting ([326 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326)) en betalingsbedrog ([326a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326a));
+   - e. oplichting ([326 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326)) en betalingsbedrog ([326a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326a));
 
-- f. verzekeringsoplichting ([328a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328));
+   - f. verzekeringsoplichting ([328a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328));
 
-- g. oneerlijke mededinging door misleiding ([328bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328bis));
+   - g. oneerlijke mededinging door misleiding ([328bis WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=328bis));
 
-- h. bankbreuk ([340 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=340)) en bedrieglijke bankbreuk ([341 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=341));
+   - h. bankbreuk ([340 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=340)) en bedrieglijke bankbreuk ([341 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=341));
 
-- i. computervredebreuk ([350b WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350)) of
+   - i. computervredebreuk ([350b WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350)) of
 
-- j. de medeplichtigheid aan of poging tot het begaan van onder a tot en met i genoemde strafbare feiten.
+   - j. de medeplichtigheid aan of poging tot het begaan van onder a tot en met i genoemde strafbare feiten.
 
 - 2. De delicten uit de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320):
 
-- a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
+   - a. het opzettelijk of met grove schuld ontduiken van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder e, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67));
 
-- b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
+   - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
 
 ##### Artikel 14
 

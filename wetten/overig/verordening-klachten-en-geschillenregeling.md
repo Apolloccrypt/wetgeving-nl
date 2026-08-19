@@ -2,43 +2,36 @@
 title: "Verordening Klachten- en geschillenregeling"
 identifier: "BWBR0032565"
 categorie: "Overig"
-publicatiedatum: 2026-07-17
+soort: "pbo"
+publicatiedatum: 2013-01-01
 laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0032565"
+opgehaald: 2026-08-19
 ---
 
 # Verordening Klachten- en geschillenregeling
-
-Overwegende dat het gewenst is regels te stellen betreffende de inrichting van een algemene klachten- en geschillenregeling voor het notariaat, waaronder de instelling van een geschillencommissie;
-
-Gelet op [artikel 55, tweede lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=55);
-
-Gezien het ontwerp van het bestuur met bijbehorende toelichting;
-
-Gezien de adviezen van de ringen;
-
-Stelt de navolgende verordening vast:
 
 ##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
-- a. **De geschillencommissie:**de Geschillencommissie Notariaat, ingesteld en in stand gehouden door de Stichting de Geschillencommissie, overeenkomstig de statuten;
+- a. *De geschillencommissie:*de Geschillencommissie Notariaat, ingesteld en in stand gehouden door de Stichting de Geschillencommissie, overeenkomstig de statuten;
 
-- b. **kantoorklachtenregeling:** de schriftelijk of via de website van de notaris aan de cliënt bekend gemaakte regeling die op het kantoor van de notaris geldt voor de behandeling van klachten van cliënten;
+- b. *kantoorklachtenregeling:* de schriftelijk of via de website van de notaris aan de cliënt bekend gemaakte regeling die op het kantoor van de notaris geldt voor de behandeling van klachten van cliënten;
 
-- c. **notaris:** de notaris, genoemd in [artikel 1 onder a. van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1) alsmede de kandidaat-notaris, genoemd in artikel 1 onder b., daaronder begrepen de rechtsvorm waarin deze zijn praktijk uitoefent en het kantoor waarvan hij deel uitmaakt;
+- c. *notaris:* de notaris, genoemd in [artikel 1 onder a. van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1) alsmede de kandidaat-notaris, genoemd in artikel 1 onder b., daaronder begrepen de rechtsvorm waarin deze zijn praktijk uitoefent en het kantoor waarvan hij deel uitmaakt;
 
-- d. **bestuur:** het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
+- d. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
 
-- e. **cliënt:** de afnemer van de diensten van de notaris;
+- e. *cliënt:* de afnemer van de diensten van de notaris;
 
-- f. **klacht:** een geschil over de totstandkoming of de uitvoering van een opdracht aan de notaris, al dan niet vergezeld van een vordering tot, en over een door de notaris aan de cliënt verzonden declaratie. Waarbij de hoogte van de declaratie of de schade niet hoger is dan € 10.000 inclusief eventueel verschuldigde BTW;
+- f. *klacht:* een geschil over de totstandkoming of de uitvoering van een opdracht aan de notaris, al dan niet vergezeld van een vordering tot, en over een door de notaris aan de cliënt verzonden declaratie. Waarbij de hoogte van de declaratie of de schade niet hoger is dan € 10.000 inclusief eventueel verschuldigde BTW;
 
-- g. **declaratie:** De rekening of het samenstel van rekeningen met betrekking tot de werkzaamheden van de notaris die betrekking hebben op één en hetzelfde dossier;
+- g *declaratie:* De rekening of het samenstel van rekeningen met betrekking tot de werkzaamheden van de notaris die betrekking hebben op één en hetzelfde dossier;
 
-- h. **klachten- en geschillenregeling:** de onderhavige verordening.
+- h. *klachten- en geschillenregeling:* de onderhavige verordening.
 
 ##### Artikel 2
 
@@ -71,5 +64,3 @@ Deze verordening kan worden aangehaald als Verordening Klachten- en geschillenre
 ##### Artikel 8
 
 Deze verordening treedt in werking met ingang van 1 januari 2013 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant is verstreken als bedoeld in [artikel 91, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91).
-
-Vastgesteld door de ledenraad op 23 november 2011 en getekend door de voorzitter van de ledenraad, goedgekeurd door de Minister van Veiligheid en Justitie bij besluit van 7 december 2012

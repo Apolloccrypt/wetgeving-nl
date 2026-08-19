@@ -1,50 +1,26 @@
 ---
 title: "Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)"
+citeertitel: "Instellingsbesluit Bezwaaradviescommissie Wtcg"
 identifier: "BWBR0033432"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-01-22"
-last_updated: "2011-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033432"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12261613"
-version_id: "20520832"
-internal_id: "C28861121"
-label_id: "12233064"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033432/2011-01-22/0"
-intitule_bron: "Stcrt.2011-995"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-01-10"
-intitule_published: "2011-01-21"
-intitule_in_force: "2011-01-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-995"
-original_signed_date: "2011-01-10"
-original_published_date: "2011-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-995"
-entry_into_force_date: "2011-01-22"
-jci_1_3: "jci1.3:c:BWBR0033432&z=2011-01-22&g=2011-01-22"
-jci_1_0: "1.0:c:BWBR0033432&g=2011-01-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Bezwaaradviescommissie Wtcg"
-signed_date: "2011-01-10"
-entry_into_force: "2011-01-22"
+publicatiedatum: 2011-01-22
+laatste_update: 2011-01-22
+status: geldig
+toestand: 2011-01-22
+bron: "https://wetten.overheid.nl/BWBR0033432"
+opgehaald: 2026-08-19
 ---
-# Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)
 
-Besluit:
+# Besluit van het bestuur van het CAK van 10 januari 2011, houdende instelling van een bezwaaradviescommissie (Instellingsbesluit Bezwaaradviescommissie Wtcg)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **het CAK:** de besloten vennootschap CAK, gevestigd te ’s-Gravenhage;
+- a. *het CAK:* de besloten vennootschap CAK, gevestigd te ’s-Gravenhage;
 
-- b. **commissie:** de Bezwaaradviescommissie Wtcg.
+- b. *commissie:* de Bezwaaradviescommissie Wtcg.
 
 ##### Artikel 2. Instelling
 

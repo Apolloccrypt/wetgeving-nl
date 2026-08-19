@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241275, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)"
+citeertitel: "Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster"
 identifier: "BWBR0032469"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032469"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "11962053"
-version_id: "19886072"
-internal_id: "C27923631"
-label_id: "11934104"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032469/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25329"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-05"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25329"
-original_signed_date: "2012-12-05"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25329"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032469&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032469&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster"
-signed_date: "2012-12-05"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032469"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241275, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regels wordt verstaan onder:
 
-- **de Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- *de Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **de wet:** de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463).
+- *de wet:* de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463).
 
 #### § 2. Bestuur van de Dienst
 
@@ -160,7 +134,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 #### § 4. Financieel toezicht
 
-##### Artikel 10. Tarieven voor taken of strategische eenheden op grond van [artikel 3 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3)
+##### Artikel 10. Tarieven voor taken of strategische eenheden op grond van artikel 3 van de Kadasterwet
 
 1. De kostprijzen die ten grondslag liggen aan de tarieven voor taken conform [artikel 3 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3), alsmede aan de tarieven voor andere op basis van een wet opgedragen taken, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald.
 
@@ -290,7 +264,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 7. Overige onderwerpen
 
-##### Artikel 18. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 18. Evaluatie conform artikel 39 van de Kaderwet
 
 1. De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de Minister van Financiën.
 
@@ -305,5 +279,3 @@ Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op de D
 ##### Artikel 20. Inwerkingtreding
 
 Deze regels treden in werking op 1 januari 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

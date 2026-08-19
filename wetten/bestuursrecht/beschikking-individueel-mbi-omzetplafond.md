@@ -1,38 +1,16 @@
 ---
 title: "Beschikking individueel MBI-omzetplafond"
 identifier: "BWBR0032489"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032489"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "11968153"
-version_id: "19895732"
-internal_id: "C27939041"
-label_id: "11940104"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032489/2013-01-01/0"
-intitule_bron: "Stcrt.2012-26418"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-04"
-intitule_published: "2012-12-20"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26418"
-original_signed_date: "2012-12-04"
-original_published_date: "2012-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26418"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032489&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032489&g=2013-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2012-12-04"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032489"
+opgehaald: 2026-08-19
 ---
+
 # Beschikking individueel MBI-omzetplafond
 
 De Nederlandse Zorgautoriteit (NZa) heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) (Wmg), gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [artikel 50 lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) en [artikel 52 aanhef en onder e van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52) en met inachtneming van het bepaalde in de beleidsregel ‘Macrobeheersmodel geriatrische revalidatiezorg’ en de regeling ‘Informatieverstrekking geriatrische revalidatiezorg’ en van de onderstaande definities
@@ -41,7 +19,11 @@ voor elke afzonderlijke instelling die geriatrische revalidatiezorg levert voor 
 
 Deze bovengrens luidt:
 
-**Bovengrens (2013) = omzet (2013)**
+- (a) *Indien de minister aan de NZa zal meedelen dat er geen sprake is van overschrijding van het landelijk MBI-omzetplafond over het jaar 2013:*
+
+*Bovengrens (2013) = omzet (2013)*
+
+- (b) *Indien de minister aan de NZa zal meedelen dat er sprake is van een overschrijding van het landelijk MBI-omzetplafond over het jaar 2013:*
 
 ### Definities
 
@@ -72,6 +54,12 @@ Het door de minister vastgestelde en aan de NZa meegedeelde bedrag dat de NZa al
 ### Werkingssfeer
 
 Voor de toepassing van deze tariefbeschikking wordt een persoon, die
+
+- • krachtens de sociale ziektekostenwetgeving van een andere staat verzekerd is en
+
+- • in Nederland woont of hier tijdelijk verblijft en
+
+- • krachtens een Verordening van de Raad van de Europese Unie, dan wel krachtens enig ander door Nederland gesloten bilateraal of multilateraal verdrag, recht heeft op verstrekkingen overeenkomstig het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), gelijkgesteld met een Zorgverzekeringswet-/AWBZ-verzekerde.
 
 ### Bezwaar/Beroep
 

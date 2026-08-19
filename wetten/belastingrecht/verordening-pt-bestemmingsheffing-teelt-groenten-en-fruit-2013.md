@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van groenten en fruit voor het jaar 2013 (Verordening PT bestemmingsheffing teelt groenten en fruit 2013)"
+citeertitel: "Verordening PT bestemmingsheffing teelt groenten en fruit 2013"
 identifier: "BWBR0033261"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033261"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12214793"
-version_id: "20428392"
-internal_id: "C28711681"
-label_id: "12186254"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033261/2013-09-22/0"
-intitule_bron: "Vbbo.2013-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-04-12"
-intitule_in_force: "2013-04-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-17"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-04-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-04-14"
-jci_1_3: "jci1.3:c:BWBR0033261&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033261&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing teelt groenten en fruit 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-04-14"
+publicatiedatum: 2013-04-14
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033261"
+opgehaald: 2026-08-19
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van groenten en fruit voor het jaar 2013 (Verordening PT bestemmingsheffing teelt groenten en fruit 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor groenten en fruit d.d. 14 december 2012;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -55,7 +28,7 @@ In deze verordening wordt verstaan onder:
 | e. contractteelt | : | de teelt van gewassen ingevolge een overeenkomst waarbij het teeltrisico bij de teler ligt; |
 | f. cultuurgrond | : | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan groente en fruit kunnen worden geteeld; |
 | g. fruit | : | vers fruit; |
-| h. Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en [25 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25). |
+| h. Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet. |
 | i. gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | j. groenten | : | verse groenten, eetbare zwammen, specerijgewassen, aardbeien, aardbeienplanten, consumptiespecerijzaden, groen geoogste landbouwpeulvruchten, noten en kruiden; |
 | k. omzet | : | het totaal van de verkoopfactuurbedragen exclusief BTW; |
@@ -101,9 +74,9 @@ Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voed
 
 4. De bestemmingsheffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per productgroep, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor:
 
-| **Productgroep** | **BRSnr.** | **Tarief** | **Eenh.** |
+| Productgroep | BRSnr. | Tarief | Eenh. |
 | --- | --- | --- | --- |
-| **Glasgroenten** |   |   |   |
+| Glasgroenten |  |  |  |
 | Andijvie (onder glas) | 648 | 0,78 | are |
 | Aubergines | 618 | 9,41 | are |
 | Courgette (onder glas) | 642 | 0,78 | are |
@@ -118,8 +91,8 @@ Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voed
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 1,41 | are |
 | Tomaten - Cherry-tomaten | 606 | 1,41 | are |
 | Overige groenten (inclusief meloenen) | 621 | 0,78 | are |
-|   |   |   |   |
-| **Teelt in open grond** |   |   |   |
+|  |  |  |  |
+| Teelt in open grond |  |  |  |
 | Aardbeien vermeerdering | 431 | 25,00 | ha |
 | Aardbeien wachtbed | 432 | 12,50 | ha |
 | Aardbeien productie | 433 | 45,14 | ha |
@@ -171,8 +144,8 @@ Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voed
 | Wittekool | 473 | 10,83 | ha |
 | Overige niet genoemde bladgewassen | 485 | 0,00 | ha |
 | Overige niet genoemde groenten | 486 | 0,00 | ha |
-|   |   |   |   |
-| **Fruit** |   |   |   |
+|  |  |  |  |
+| Fruit |  |  |  |
 | Appelen in seizoen | 490 | 19,07 | ha |
 | Appelen vóór seizoen | 491 | 19,07 | ha |
 | Blauwe bessen | 494 | 41,51 | ha |
@@ -189,8 +162,8 @@ Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voed
 | Zwarte bessen (Best.Verw.Ind.) | 499 | 9,98 | ha |
 | Overig kleinfruit | 500 | 84,21 | ha |
 | Overige put- en steenvrucht | 501 | 44,69 | ha |
-|   |   |   |   |
-| **Champignons** |   |   |   |
+|  |  |  |  |
+| Champignons |  |  |  |
 | Oppervlakte met de hand geoogst | 702 | 0,00 | m2 |
 | Oppervlakte machinaal geoogst | 703 | 0,00 | m2 |
 

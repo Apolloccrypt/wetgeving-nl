@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken, van 8 januari 2013, nr. 3681777, tot machtiging van de manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden"
+citeertitel: "Besluit machtiging manager Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden"
 identifier: "BWBR0032777"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-20"
-last_updated: "2012-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032777"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12062213"
-version_id: "20098702"
-internal_id: "C28239371"
-label_id: "12033954"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032777/2013-01-20/0"
-intitule_bron: "Stcrt.2013-1031"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-01-08"
-intitule_published: "2013-01-18"
-intitule_in_force: "2013-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-1031"
-original_signed_date: "2013-01-08"
-original_published_date: "2013-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-1031"
-entry_into_force_date: "2013-01-20"
-jci_1_3: "jci1.3:c:BWBR0032777&z=2013-01-20&g=2013-01-20"
-jci_1_0: "1.0:c:BWBR0032777&g=2013-01-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit machtiging manager Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden"
-signed_date: "2013-01-08"
-entry_into_force: "2013-01-20"
+publicatiedatum: 2013-01-20
+laatste_update: 2013-01-20
+status: geldig
+toestand: 2013-01-20
+bron: "https://wetten.overheid.nl/BWBR0032777"
+opgehaald: 2026-08-19
 ---
-# Besluit van de Minister-President, Minister van Algemene Zaken, van 8 januari 2013, nr. 3681777, tot machtiging van de manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden
 
-Besluit:
+# Besluit van de Minister-President, Minister van Algemene Zaken, van 8 januari 2013, nr. 3681777, tot machtiging van de manager van het Expertisecentrum Organisatie en Personeel inzake bezwaar- en beroepsprocedures betreffende personeelsaangelegenheden
 
 ##### Artikel 1
 

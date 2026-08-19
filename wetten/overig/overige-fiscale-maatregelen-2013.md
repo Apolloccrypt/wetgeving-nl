@@ -1,146 +1,122 @@
 ---
 title: "Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2013)"
+citeertitel: "Overige fiscale maatregelen 2013"
 identifier: "BWBR0032671"
-country: "nl"
-rank: "wet"
-publication_date: "2015-06-19"
-last_updated: "2015-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032671"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "12024143"
-version_id: "20018192"
-internal_id: "C28120521"
-label_id: "11996274"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032671/2015-06-19/0"
-intitule_bron: "Stb.2012-669"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2012-12-27"
-intitule_in_force: "2012-12-27"
-intitule_status: "goed"
-original_publication: "Stb.2012-669"
-original_signed_date: "2012-12-20"
-original_published_date: "2012-12-27"
-original_effect: "nieuwe-regeling"
-original_dossier: "33403"
-original_url_id: "stb-2012-669"
-entry_into_force_date: "2013-01-01"
-entry_into_force_dossier: "33403"
-jci_1_3: "jci1.3:c:BWBR0032671&z=2015-06-19&g=2015-06-19"
-jci_1_0: "1.0:c:BWBR0032671&g=2015-06-19"
-citeertitel_status: "officieel"
-short_title: "Overige fiscale maatregelen 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2015-06-19
+status: geldig
+toestand: 2015-06-19
+bron: "https://wetten.overheid.nl/BWBR0032671"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2013)
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel II
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel III
 
-Wijzigt de Wet inkomstenbelasting 2001.
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IVa
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel IVb
 
-Wijzigt de Wet op de loonbelasting 1964.
+*Wijzigt de Wet op de loonbelasting 1964.*
 
 ##### Artikel V
 
-Wijzigt de Wet financiering sociale verzekeringen.
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
 ##### Artikel VI
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
 ##### Artikel VIa
 
-Wijzigt de Wet op de dividendbelasting 1965.
+*Wijzigt de Wet op de dividendbelasting 1965.*
 
 ##### Artikel VII
 
-Wijzigt de Wet op de kansspelen.
+*Wijzigt de Wet op de kansspelen.*
 
 ##### Artikel VIII
 
-Wijzigt de Successiewet 1956.
+*Wijzigt de Successiewet 1956.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
+*Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.*
 
 ##### Artikel X
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+*Wijzigt de Wet op de motorrijtuigenbelasting 1994.*
 
 ##### Artikel XI
 
-Wijzigt de Wet belasting zware motorrijtuigen.
+*Wijzigt de Wet belasting zware motorrijtuigen.*
 
 ##### Artikel XII
 
-Wijzigt de Wet op de accijns.
+*Wijzigt de Wet op de accijns.*
 
 ##### Artikel XIII
 
-Wijzigt de Wet belastingen op milieugrondslag.
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
 ##### Artikel XIV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XV
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
 ##### Artikel XVI
 
-Wijzigt de Invorderingswet 1990.
+*Wijzigt de Invorderingswet 1990.*
 
 ##### Artikel XVII
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ##### Artikel XVIII
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
+*Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.*
 
 ##### Artikel XIX
 
-Wijzigt de Belastingwet BES.
+*Wijzigt de Belastingwet BES.*
 
 ##### Artikel XX
 
-Wijzigt de Douane- en Accijnswet BES.
+*Wijzigt de Douane- en Accijnswet BES.*
 
 ##### Artikel XXI
 
-Wijzigt de Invoeringswet fiscaal stelsel BES.
+*Wijzigt de Invoeringswet fiscaal stelsel BES.*
 
 ##### Artikel XXII
 
-Wijzigt de Wet werken aan winst.
+*Wijzigt de Wet werken aan winst.*
 
 ##### Artikel XXIIa
 
-Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (invoering basisregistratie inkomen en basisregistratie waarde onroerende zaken) (Stb. 2008/269).
+*Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (invoering basisregistratie inkomen en basisregistratie waarde onroerende zaken) (Stb. 2008/269).*
 
 ##### Artikel XXIII
 
@@ -148,19 +124,19 @@ Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (invoering b
 
 ##### Artikel XXIV
 
-Wijzigt de Overige fiscale maatregelen 2011.
+*Wijzigt de Overige fiscale maatregelen 2011.*
 
 ##### Artikel XXV
 
-Wijzigt de Wet uniformering loonbegrip.
+*Wijzigt de Wet uniformering loonbegrip.*
 
 ##### Artikel XXVI
 
-Wijzigt het Belastingplan 2012.
+*Wijzigt het Belastingplan 2012.*
 
 ##### Artikel XXVII
 
-Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
+*Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.*
 
 ##### Artikel XXVIII
 
@@ -168,35 +144,35 @@ Het koninklijk besluit van 24 augustus 2004 tot wijziging van het [Besluit uitsl
 
 ##### Artikel XXVIIIa
 
-Wijzigt de Zorgverzekeringswet.
+*Wijzigt de Zorgverzekeringswet.*
 
 ##### Artikel XXIX
 
-Wijzigt de Wet op de zorgtoeslag.
+*Wijzigt de Wet op de zorgtoeslag.*
 
 ##### Artikel XXX
 
-Wijzigt de Wet op het kindgebonden budget.
+*Wijzigt de Wet op het kindgebonden budget.*
 
 ##### Artikel XXXI
 
-Wijzigt de Wet werk en bijstand.
+*Wijzigt de Wet werk en bijstand.*
 
 ##### Artikel XXXIa
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
 ##### Artikel XXXIb
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
 ##### Artikel XXXIc
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
 ##### Artikel XXXId
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
 ##### Artikel XXXII
 
@@ -214,7 +190,7 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XXXIV
 
-Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
+*Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.*
 
 ##### Artikel XXXV
 
@@ -222,9 +198,9 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 - a. met betrekking tot de heffing van kansspelheffing over tijdvakken die voor 1 januari 2013 zijn geëindigd:
 
-- 1°. [artikel 33f, derde tot en met zesde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, van toepassing blijft;
+   - 1°. [artikel 33f, derde tot en met zesde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, van toepassing blijft;
 
-- 2°. [artikel 33f, derde tot en met zesde lid en achtste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) niet van toepassing is;
+   - 2°. [artikel 33f, derde tot en met zesde lid en achtste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) niet van toepassing is;
 
 - b. aanmaningen of dwangbevelen die door de ontvanger, bedoeld in [artikel 33f, zevende lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, voor 1 januari 2013 zijn verzonden, onderscheidenlijk uitgevaardigd, geacht worden te zijn verzonden, onderscheidenlijk uitgevaardigd, door het met ingang van 1 januari 2013 bevoegde bestuursorgaan;
 
@@ -241,11 +217,3 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 ##### Artikel XXXVI
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2013.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2013 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013"
 identifier: "BWBR0032883"
-country: "nl"
-rank: "zbo"
-publication_date: "2014-02-20"
-last_updated: "2014-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032883"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12102283"
-version_id: "21237332"
-internal_id: "C30499331"
-label_id: "12073924"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032883/2014-02-20/0"
-intitule_bron: "Stcrt.2013-3112"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-02-11"
-intitule_in_force: "2013-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2014-4863"
-original_published_date: "2014-02-18"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2014-4863"
-entry_into_force_date: "2014-02-20"
-jci_1_3: "jci1.3:c:BWBR0032883&z=2014-02-20&g=2014-02-20"
-jci_1_0: "1.0:c:BWBR0032883&g=2014-02-20"
-citeertitel_status: "officieel"
-entry_into_force: "2014-02-20"
+publicatiedatum: 2014-02-20
+laatste_update: 2014-02-20
+status: geldig
+toestand: 2014-02-20
+bron: "https://wetten.overheid.nl/BWBR0032883"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013
-
-gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032800),
-
-heeft in zijn vergadering van 21 januari 2013 besloten:
 
 #### § 1. Algemeen
 
@@ -42,13 +19,13 @@ heeft in zijn vergadering van 21 januari 2013 besloten:
 
 Dit besluit verstaat onder:
 
-- a. **regio:** regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport](https://wetten.overheid.nl/jci1.3:c:BWBR0031940) van 22 augustus 2012 nr. Z-3123635 houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 17683, 31 augustus 2012;
+- a. *regio:* regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport](https://wetten.overheid.nl/jci1.3:c:BWBR0031940) van 22 augustus 2012 nr. Z-3123635 houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 17683, 31 augustus 2012;
 
-- b. **budgethouder:** verzekerde aan wie een persoonsgebonden budget is verleend krachtens [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
+- b. *budgethouder:* verzekerde aan wie een persoonsgebonden budget is verleend krachtens [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
 
-- c. **nieuwe budgethouder:** een budgethouder aan wie op of na 1 januari 2013 een PGB wordt verstrekt;
+- c. *nieuwe budgethouder:* een budgethouder aan wie op of na 1 januari 2013 een PGB wordt verstrekt;
 
-- d. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
+- d. *verbindingskantoor:* een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
 ##### Artikel 2
 
@@ -118,9 +95,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 ##### Artikel 8
 
-Vervallen
-
-#### § 5. Slot
+*Vervallen*
 
 ##### Artikel 9
 
@@ -129,7 +104,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

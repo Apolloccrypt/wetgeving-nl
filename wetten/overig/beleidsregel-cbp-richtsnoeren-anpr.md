@@ -1,38 +1,21 @@
 ---
 title: "Beleidsregel CBP richtsnoeren ANPR"
 identifier: "BWBR0033241"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-07-14"
-last_updated: "2009-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033241"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12204313"
-version_id: "20418152"
-internal_id: "C28701341"
-label_id: "12176574"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033241/2009-07-14/0"
-intitule_bron: "Stcrt.2009-10464"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-07-14"
-intitule_in_force: "2009-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-10464"
-original_published_date: "2009-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-10464"
-entry_into_force_date: "2009-07-14"
-jci_1_3: "jci1.3:c:BWBR0033241&z=2009-07-14&g=2009-07-14"
-jci_1_0: "1.0:c:BWBR0033241&g=2009-07-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-07-14"
+publicatiedatum: 2009-07-14
+laatste_update: 2009-07-14
+status: geldig
+toestand: 2009-07-14
+bron: "https://wetten.overheid.nl/BWBR0033241"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregel CBP richtsnoeren ANPR
 
 ### De toepassing van automatische kentekenherkenning door de politie
+
+Samenvatting
 
 Door middel van automatische nummerplaatherkenning, ANPR, kan de politie gescande kentekens op automatische wijze vergelijken met de kentekens die in bestanden zijn opgeslagen waarover zij reeds beschikt. Als sprake is van een ‘hit’ kan de politie vervolgens direct effectief optreden: een auto in beslag nemen of een boete innen.
 
@@ -40,9 +23,81 @@ In de uitvoering van de dagelijkse politietaak past de politie ANPR in de prakti
 
 Onduidelijkheid over wet- en regelgeving kan ten koste gaan van de bescherming van de gegevens van burgers die door ANPR worden verkregen. Deze publicatie van het College bescherming persoonsgegevens (CBP) geeft invulling aan de wettelijke normen voor correcte en zorgvuldige omgang met persoonsgegevens die bij de toepassing van ANPR moeten worden nageleefd.
 
+Uitgangspunten ANPR-toepassing
+
+- • ANPR is een methode om gescande kentekens op automatische wijze te herkennen en te verge-lijken in het kader van de uitvoering van de dagelijkse politietaak.
+
+- • Een hit is een signaal dat een gescand kenteken voorkomt in het vergelijkingsbestand.
+
+- • Het vergelijkingsbestand bestaat uit een verzameling geselecteerde kentekens, die actueel en juist moeten zijn.
+
+- • Voor opname in het vergelijkingsbestand moet een aanwijsbare reden zijn.
+
+- • Een hit heeft een directe actie tot gevolg waardoor de effectiviteit van de uitvoering van de dagelijkse politietaak toeneemt.
+
+- • Een hit voegt informatie toe aan het kenteken dat in het vergelijkingsbestand is opgenomen. Als een kenteken dat wel is opgenomen in het vergelijkingsbestand niet wordt gescand, komt hieruit ook informatie voort.
+
+- • No-hits zijn gescande kentekens die niet hebben geleid tot een positief resultaat na vergelijking met het vergelijkingsbestand.
+
+De selectie van gegevens
+
+- • Het verwerken van ongelimiteerd binnengehaalde gegevens ten behoeve van de uitvoering van de dagelijkse politietaak is niet in overeenstemming met de wet.
+
+- • Uitgangspunt is dat er een directe actie plaatsvindt naar aanleiding van een hit.
+
+- • Dit vergt, naast voldoende capaciteit om deze acties uit te voeren, een afgewogen selectie van kentekens die in het vergelijkingsbestand ten behoeve van de uitvoering van de dagelijkse politietaak kunnen worden opgenomen: de invulling die aan de politietaak wordt gegeven voor een actie bepaalt de selectie van gegevens per ANPR-toepassing.
+
+- • Kentekens kunnen worden geselecteerd als deze een relatie hebben met voertuigen of personen die gesignaleerd staan.
+
+- • De inzet van ANPR ten behoeve van het opsporen van kentekens behorende bij bekenden van de politie kan alleen als de bekende is gesignaleerd in verband met een concrete en actuele verdenking of indien een situatie zodanig is dat het in het belang van de openbare orde is dat een bekende of een groep van bekenden wordt getraceerd.
+
+- • De kwaliteit van de te selecteren gegevens is van cruciaal belang. De zorgvuldige verwerking van gegevens vereist dat gebruik wordt gemaakt van een vergelijkingsbestand met de meest recente gegevens.
+
+De verwerking van de gescande kentekens
+
+- • Hits die het resultaat zijn van de ANPR-toepassing kunnen worden verwerkt zolang zij nood-zakelijk zijn voor het doel waarvoor zij zijn verwerkt, namelijk om bestaande gegevens te verrijken.
+
+- • Als de noodzaak voor de verwerking van deze gegevens komt te vervallen, moeten de gegevens worden vernietigd.
+
+- • Verdere verwerking van de hits voor andere doelen is alleen mogelijk indien dat is voorzien in de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) (Wpg).
+
+- • Gescande kentekens die niet leiden tot een positief resultaat na vergelijking, de zogenoemde no-hits, moeten direct worden vernietigd. Dit betekent ook dat zij niet bewaard kunnen worden ten behoeve van nog niet bestaande onderzoeken.
+
+- • De gegevens die na de kentekenvergelijking tot verrijking van informatie hebben geleid, zowel de omstandigheid dat een hit heeft plaatsgevonden als de omstandigheid dat het gezochte kenteken niet is gepasseerd, kunnen worden aangewend voor verdere verwerking mits voldaan is aan de daarvoor geldende voorwaarden.
+
+- • Het bewaren van de gegevens die na kentekenvergelijking tot verrijking van informatie hebben geleid, is onrechtmatig als dit alleen ten behoeve van nog niet bestaande onderzoeken plaatsvindt.
+
+- • Alleen op basis van geaggregeerde gegevens kunnen na het scannen van kentekens patronen worden opgesteld. Een risicoanalyse kan vervolgens aanleiding zijn een gerichte actie op te zetten.
+
+Samenwerking tussen politie en andere overheidsorganisaties
+
+- • De gegevens die door de politie bij een ANPR-actie worden verwerkt zijn politiegegevens, waarop de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) van toepassing is.
+
+- • De [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp) is van toepassing als andere overheidsorganisaties voor een goede vervulling van hun publiekrechtelijke taak gegevens willen controleren met passerende voertuigen.
+
+- • Wpg- en Wbp-gegevens dienen strikt gescheiden te worden verwerkt.
+
+- • Indien de andere overheidsorganisatie zelf een grondslag heeft voor het scannen van kentekens, is er vanaf het scannen tot het resultaat sprake van een aparte Wbp-route waarvoor deze overheidsorganisatie verantwoordelijk is.
+
+- • Indien de gescande kentekens door de politie aan een andere overheidsorganisatie worden verstrekt, zijn de voorwaarden die hiervoor gelden op grond van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) van toepassing: er moet in de Wpg een grondslag aanwezig zijn voor de verstrekking, waarbij het zwaarwegend algemeen belang afgewogen moet worden.
+
+- • Uit zowel de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) als de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) volgt dat gescande kentekens die niet leiden tot een hit direct moeten worden vernietigd.
+
+- • Voor beide gescheiden vergelijkingsbestanden geldt dat de kwaliteit van de gegevens goed moet zijn: actueel, juist en niet bovenmatig.
+
+Sancties
+
+- • Verantwoordelijken die in strijd handelen met het bepaalde in de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) kunnen in rechte worden aangesproken.
+
+- • Betrokkenen hebben een aantal mogelijkheden om zelf hun recht te halen, zowel op grond van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) als op grond van de Algemene wet bestuursrecht.
+
+- • Daarnaast heeft het CBP als toezichthouder bestuursrechtelijke mogelijkheden om te handhaven op het bepaalde in de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Hiertoe behoren het opleggen van boetes, het toepassen van bestuursdwang en het opleggen van een last onder dwangsom.
+
+Inleiding
+
 De overheid is, vaak met de beste bedoelingen, geneigd om steeds meer gegevens over burgers te verzamelen, te gebruiken en uit te wisselen. Het risico bestaat dat deze gegevensstromen leiden tot disproportionele monitoring van burgers, zeker omdat de informatie- en communicatietechnologie (ICT) steeds verdergaande mogelijkheden biedt om gegevens te analyseren, te combineren en te verrijken. Dit kan leiden tot oordelen over burgers die niet noodzakelijkerwijs in overeenstemming zijn met de werkelijkheid.
 
-ICT-ontwikkelingen hebben in toenemende mate eveneens gevolgen voor de werkwijze van de politie.1**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 1 e.v. Een van de ICT-toepassingen die de politie steeds vaker inzet is automatische kenteken- of nummerplaatherkenning, naar de Engelse benaming Automatic Number Plate Recognition kortweg aangeduid als ANPR. De ontwikkeling en toepassing van ANPR in de praktijk door de diverse politiekorpsen, waarbij onderling verschillen kunnen optreden, vindt plaats terwijl de juridische aspecten ervan nog niet zijn uitgekristalliseerd. Onduidelijkheid over de toepasselijkheid van wet- en regelgeving kan ten koste gaan van de bescherming van gegevens van burgers en daarmee van het vertrouwen van de burger in politie en justitie.
+ICT-ontwikkelingen hebben in toenemende mate eveneens gevolgen voor de werkwijze van de politie.1*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 1 e.v. Een van de ICT-toepassingen die de politie steeds vaker inzet is automatische kenteken- of nummerplaatherkenning, naar de Engelse benaming Automatic Number Plate Recognition kortweg aangeduid als ANPR. De ontwikkeling en toepassing van ANPR in de praktijk door de diverse politiekorpsen, waarbij onderling verschillen kunnen optreden, vindt plaats terwijl de juridische aspecten ervan nog niet zijn uitgekristalliseerd. Onduidelijkheid over de toepasselijkheid van wet- en regelgeving kan ten koste gaan van de bescherming van gegevens van burgers en daarmee van het vertrouwen van de burger in politie en justitie.
 
 Deze onduidelijkheid is de aanleiding geweest voor het College bescherming persoonsgegevens (CBP) invulling te geven aan de wettelijke normen die bij de toepassing van ANPR moeten worden nageleefd. Het wettelijk kader voor de toepassing van ANPR wordt gevormd door de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) (Wpg), die per 1 januari 2008 de verouderde [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798) (Wpolr) heeft vervangen.
 
@@ -72,7 +127,7 @@ Sinds 2005 is vanuit de Raad van Hoofdcommissarissen een beweging ingezet van lo
 
 ### 3. Kernvragen
 
-Het CBP geeft in zijn rol als toezichthouder in deze richtsnoeren invulling aan de wettelijke normen voor correcte en zorgvuldige omgang met persoonsgegevens die bij de toepassing van ANPR moeten worden nageleefd. De volgende vragen zullen in de hoofdstukken III tot en met V van de richtsnoeren aan bod komen. In de eerste plaats zal de relatie tussen de politietaak en de keuze voor de toepassing van ANPR worden besproken. Welke gevolgen heeft dit voor de selectie van politiegegevens? Vervolgens doet zich de vraag voor hoe moet worden omgegaan met de gescande kentekens na vergelijking. Dit betreft de positieve resultaten van de vergelijking, maar ook de situatie dat een gescand kenteken niet voorkomt in de politiebestanden. Een andere vraag is of de stap kan worden gemaakt naar patroonherkenning.
+Het CBP geeft in zijn rol als toezichthouder in deze richtsnoeren invulling aan de wettelijke normen voor correcte en zorgvuldige omgang met persoonsgegevens die bij de toepassing van ANPR moeten worden nageleefd. De volgende vragen zullen in de [hoofdstukken III tot en met V](https://wetten.overheid.nl/BWBR0033241) van de richtsnoeren aan bod komen. In de eerste plaats zal de relatie tussen de politietaak en de keuze voor de toepassing van ANPR worden besproken. Welke gevolgen heeft dit voor de selectie van politiegegevens? Vervolgens doet zich de vraag voor hoe moet worden omgegaan met de gescande kentekens na vergelijking. Dit betreft de positieve resultaten van de vergelijking, maar ook de situatie dat een gescand kenteken niet voorkomt in de politiebestanden. Een andere vraag is of de stap kan worden gemaakt naar patroonherkenning.
 
 Tot slot komt aan de orde hoe de politie ANPR kan toepassen in samenwerking met andere overheidsorganisaties. De [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) heeft ten opzichte van de [Wpolr](https://wetten.overheid.nl/jci1.3:c:BWBR0004798) voor een ruimer verstrekkingenregime gezorgd, maar hoe blijft een zorgvuldige gegevensverwerking gewaarborgd? Voor de basistoepassing van ANPR gaat het CBP uit van de navolgende beschrijving en uitgangspunten.
 
@@ -92,7 +147,7 @@ Het gescande kenteken wordt op basis van hit/no-hit automatisch vergeleken met d
 
 Het CBP neemt tot uitgangspunt dat effectief politieoptreden meebrengt dat een hit doorgaans direct een actie tot gevolg heeft, in die zin dat het betreffende voertuig tot stilstand wordt gebracht ter afhandeling van de signalering. Een gestolen auto kan direct in beslag genomen worden, een boete kan direct worden geïnd. De inzet van het middel voor dergelijke doelen is immers niet zinvol en niet gerechtvaardigd als een directe actie niet is voorzien. Dat geldt voor zowel de situatie dat een camera in een politievoertuig wordt gebruikt, als voor de situatie dat een vaste camera boven de weg wordt gebruikt.
 
-ANPR toepassen voor andere doelen waarbij een directe actie niet voor de hand ligt, is mogelijk onder voorwaarden die in hoofdstuk IV van deze richtsnoeren zijn opgenomen.
+ANPR toepassen voor andere doelen waarbij een directe actie niet voor de hand ligt, is mogelijk onder voorwaarden die in [hoofdstuk IV](https://wetten.overheid.nl/BWBR0033241) van deze richtsnoeren zijn opgenomen.
 
 ### II. Wettelijk kader
 
@@ -112,11 +167,11 @@ De daadwerkelijke handhaving van de rechtsorde, zoals genoemd in [artikel 2 Polw
 
 Handhaving van de openbare orde betreft het voorkomen of beëindigen van strafbare feiten die invloed hebben op de orde en rust in de openbare of publieke ruimte, net als de algemene, bestuurlijke voorkoming daarvan.8Politiewet 1993, Boek/Van den Haspel, artikel 2 Politiewet 1993, opmerking 3, in: T&C Strafvordering, zevende druk. Het handhaven van de openbare orde kan ook gezien worden als een specifieke vorm van controle op de naleving van wetgeving: het verzekeren dat bepaalde wetgeving wordt nageleefd. Voor de uitoefening van de controlebevoegdheid is geen verdenking vereist. Tijdens de controle kan vervolgens blijken dat wetgeving is overtreden. De stap naar opsporing is dan snel gemaakt; opsporing gaat immers uit van de vooronderstelling dat sprake is of zal zijn van een strafbaar feit.
 
-De politie heeft exclusief dan wel primair een aantal toezichthoudende taken toebedeeld gekregen, waaronder het toezicht op de naleving van bepalingen uit de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) (de Wet Mulder). Deze taken vertonen een relevante samenhang met andere onderdelen van de politietaak. Hierop is de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) van toepassing.9**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 29.De politie heeft echter in bijzondere wetten ook **niet primair** de toezichthoudende taak toebedeeld gekregen. Dan is niet de Wpg van toepassing op de verwerking van gegevens, maar de Wbp; deze verwerking vindt niet plaats in het kader van de uitoefening van de politietaak.
+De politie heeft exclusief dan wel primair een aantal toezichthoudende taken toebedeeld gekregen, waaronder het toezicht op de naleving van bepalingen uit de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) (de Wet Mulder). Deze taken vertonen een relevante samenhang met andere onderdelen van de politietaak. Hierop is de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) van toepassing.9*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 29.De politie heeft echter in bijzondere wetten ook *niet primair* de toezichthoudende taak toebedeeld gekregen. Dan is niet de Wpg van toepassing op de verwerking van gegevens, maar de Wbp; deze verwerking vindt niet plaats in het kader van de uitoefening van de politietaak.
 
 ### 2.1.2. Strafrechtelijke handhaving van de rechtsorde
 
-Het daadwerkelijke voorkomen, de opsporing, de beëindiging, de vervolging en de berechting van strafbare feiten valt onder de noemer strafrechtelijke handhaving van de rechtsorde. Onder strafrechtelijke handhaving valt ook de uitvoering van beslissingen van de rechter of van het Openbaar Ministerie in strafzaken.10**Kamerstukken II** 1985-1986, 19 535, nr. 3, p. 6.
+Het daadwerkelijke voorkomen, de opsporing, de beëindiging, de vervolging en de berechting van strafbare feiten valt onder de noemer strafrechtelijke handhaving van de rechtsorde. Onder strafrechtelijke handhaving valt ook de uitvoering van beslissingen van de rechter of van het Openbaar Ministerie in strafzaken.10*Kamerstukken II* 1985-1986, 19 535, nr. 3, p. 6.
 
 De politietaak ter strafrechtelijke handhaving van de rechtsorde wordt in de jurisprudentie ook gebruikt als grondslag voor strafvorderlijke onderzoeksmethoden. De Hoge Raad heeft geoordeeld dat [artikel 2 Polw. ’93](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2) niet voldoet als wettelijke grondslag indien door de politie met onderzoeksmethoden inbreuk wordt gemaakt op grond- of mensenrechten, zoals het recht op de persoonlijke levenssfeer.11Zie onder meer: HR 19 december 1995, NJ 1996, 249. Om zulke inbreuken te kunnen rechtvaardigen is een meer precieze wettelijke grondslag nodig.
 
@@ -132,7 +187,7 @@ In de tweede plaats vormen de wetten waarop het CBP toezicht houdt het kader voo
 
 Hieruit volgt dat het CBP wel de noodzaak van de gegevensverwerking in het kader van de uitoefening van de politietaak ten volle kan toetsen, meer specifiek de proportionaliteit en subsidiariteit, maar niet het inzetten van bevoegdheden ter invulling van de politietaak zelf. De omvang van de politietaak en de bevoegdheid gegevens te verzamelen zal het CBP dan ook marginaal toetsen.15Zie ook: Brief van het CBP aan de Vaste commissie voor Justitie van de Eerste Kamer der Staten-Generaal inzake het Wetvoorstel tot verruiming van de mogelijkheden ter opsporing en vervolging van terroristische misdrijven (30 164), 2 november 2006 (z2006-01337), www.cbpweb.nl/documenten/adv_z2006-01337.shtml.
 
-### 3. [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+### 3. Wet politiegegevens
 
 ### 3.1. Politiegegevens
 
@@ -150,9 +205,9 @@ Dit ter onderscheiding van de hits.
 
 ### 3.2.1. Noodzakelijk voor het doeleinde van de verwerking
 
-Vereist is dat de verwerking van politiegegevens noodzakelijk is met het oog op het doel waarvoor deze worden verwerkt. Dit volgt uit de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463): de verwerking van politiegegevens met het oog op de uitvoering van de dagelijkse politietaak ([artikel 8 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)) of de gerichte verwerking van gegevens ([artikel 9 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9): onderzoek in verband met de handhaving van de rechtsorde in een bepaald geval, of [artikel 10 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10): inzicht in de betrokkenheid van personen bij bepaalde ernstige bedreigingen van de rechts-orde).19**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 9 e.v. Deze doelen zijn limitatief van aard. 20**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 31: ‘Het wetsvoorstel beoogt limitatief in de doeleinden te voorzien ten behoeve waarvan politiegegevens kunnen worden verwerkt. Zoals reeds uiteen is gezet in paragraaf 6 van deze memorie van toelichting, hebben deze doeleinden betrekking op de uitvoering van de politietaak’. De wet moet uitdrukkelijk voorzien in het gebruik van de verzamelde politiegegevens voor een ander doel. Dit betreft bijvoorbeeld ook de verwerking van politiegegevens ter ondersteuning van de politietaak ([artikel 13 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13)).
+Vereist is dat de verwerking van politiegegevens noodzakelijk is met het oog op het doel waarvoor deze worden verwerkt. Dit volgt uit de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463): de verwerking van politiegegevens met het oog op de uitvoering van de dagelijkse politietaak ([artikel 8 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)) of de gerichte verwerking van gegevens ([artikel 9 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9): onderzoek in verband met de handhaving van de rechtsorde in een bepaald geval, of [artikel 10 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10): inzicht in de betrokkenheid van personen bij bepaalde ernstige bedreigingen van de rechts-orde).19*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 9 e.v. Deze doelen zijn limitatief van aard. 20*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 31: ‘Het wetsvoorstel beoogt limitatief in de doeleinden te voorzien ten behoeve waarvan politiegegevens kunnen worden verwerkt. Zoals reeds uiteen is gezet in paragraaf 6 van deze memorie van toelichting, hebben deze doeleinden betrekking op de uitvoering van de politietaak’. De wet moet uitdrukkelijk voorzien in het gebruik van de verzamelde politiegegevens voor een ander doel. Dit betreft bijvoorbeeld ook de verwerking van politiegegevens ter ondersteuning van de politietaak ([artikel 13 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13)).
 
-Het principe dat gegevens alleen verwerkt kunnen worden indien dat noodzakelijk is voor een bepaald doel, vloeit voort uit het eerdergenoemde Databeschermingsverdrag en het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM).21**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 7 e.v. Onderdeel van het noodzakelijkheidsvereiste is in de eerste plaats de afweging of een verwerking van gegevens proportioneel is in relatie tot het doel. In de tweede plaats moet de subsidiariteit afgewogen worden. Hiertoe moet de vraag worden gesteld of met een andere methode die minder ingrijpend is voor de persoonlijke levenssfeer hetzelfde doel kan worden bereikt.
+Het principe dat gegevens alleen verwerkt kunnen worden indien dat noodzakelijk is voor een bepaald doel, vloeit voort uit het eerdergenoemde Databeschermingsverdrag en het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM).21*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 7 e.v. Onderdeel van het noodzakelijkheidsvereiste is in de eerste plaats de afweging of een verwerking van gegevens proportioneel is in relatie tot het doel. In de tweede plaats moet de subsidiariteit afgewogen worden. Hiertoe moet de vraag worden gesteld of met een andere methode die minder ingrijpend is voor de persoonlijke levenssfeer hetzelfde doel kan worden bereikt.
 
 Indien gegevens niet langer noodzakelijk zijn voor het doel waarvoor ze worden verwerkt of als dit door een wettelijke bepaling wordt vereist, moeten ze worden verwijderd dan wel vernietigd, afhankelijk van het doel waarvoor ze verwerkt zijn. De verantwoordelijke moet daarvoor zorg dragen. Verwijderde gegevens zijn nog vijf jaar beschikbaar, zij het niet voor operationele doeleinden.
 
@@ -166,7 +221,7 @@ De verantwoordelijke heeft zowel onder de [Wpg](https://wetten.overheid.nl/jci1.
 
 De informatieplicht is een uitwerking van het transparantiebeginsel: degene over wie politiegegevens worden verwerkt moet in staat worden gesteld deze gegevens te controleren.
 
-De [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) kent geen verplichting voor de politie om de betrokkene te informeren dat de verwerking van diens gegevens plaatsvindt. Dit is een evident verschil met de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die deze verplichting wel kent. Het verschil houdt verband met de bijzondere positie van de politie ten opzichte van de burger in het kader van de uitoefening van haar taken.23**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 2 e.v.. Het neemt niet weg dat de betrokkene, de burger, onder de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) wel het recht heeft kennis te nemen van de omstandigheid of, en zo ja welke, hem betreffende politiegegevens worden verwerkt. Slechts als sprake is van een van de in [artikel 27, eerste lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=27) genoemde uitzonderingen kan inzage worden geweigerd.
+De [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) kent geen verplichting voor de politie om de betrokkene te informeren dat de verwerking van diens gegevens plaatsvindt. Dit is een evident verschil met de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die deze verplichting wel kent. Het verschil houdt verband met de bijzondere positie van de politie ten opzichte van de burger in het kader van de uitoefening van haar taken.23*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 2 e.v.. Het neemt niet weg dat de betrokkene, de burger, onder de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) wel het recht heeft kennis te nemen van de omstandigheid of, en zo ja welke, hem betreffende politiegegevens worden verwerkt. Slechts als sprake is van een van de in [artikel 27, eerste lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=27) genoemde uitzonderingen kan inzage worden geweigerd.
 
 Naar aanleiding van de kennisneming kan de betrokkene de politie verzoeken de gegevens te verbeteren, aan te vullen, te verwijderen of af te schermen als deze feitelijk onjuist, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift worden verwerkt.
 
@@ -174,7 +229,7 @@ Naar aanleiding van de kennisneming kan de betrokkene de politie verzoeken de ge
 
 ### 3.3.1. Uitvoering van de dagelijkse politietaak
 
-Politiegegevens die worden verwerkt ten behoeve van de uitvoering van de dagelijkse politietaak, ook wel het basispolitiewerk genoemd, kunnen gedurende de periode van een jaar breed binnen de politie worden verwerkt ([artikel 8, eerste lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)). Het gaat om gegevens die worden verwerkt in het kader van surveillance, eenvoudig recherchewerk en het handhaven van wetten en regels. Bovendien: ‘(...) biedt [het] ook de basis voor het verwerken van gegevens ter zake van in omvang en duur beperkte incidenten als eenvoudige, kortdurende opsporingsonderzoeken, zolang in dat kader geen bijzondere opsporingsmiddelen worden ingezet en geen opsporingsteam wordt samengesteld’.24**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 38. Na een jaar kunnen deze gegevens, zolang zij nog noodzakelijk zijn voor de uitvoering van de dagelijkse politietaak, geautomatiseerd worden vergeleken met andere gegevens die worden verwerkt met het oog op de uitvoering van de dagelijkse politietaak ([artikel 8, tweede lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)).
+Politiegegevens die worden verwerkt ten behoeve van de uitvoering van de dagelijkse politietaak, ook wel het basispolitiewerk genoemd, kunnen gedurende de periode van een jaar breed binnen de politie worden verwerkt ([artikel 8, eerste lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)). Het gaat om gegevens die worden verwerkt in het kader van surveillance, eenvoudig recherchewerk en het handhaven van wetten en regels. Bovendien: ‘(...) biedt [het] ook de basis voor het verwerken van gegevens ter zake van in omvang en duur beperkte incidenten als eenvoudige, kortdurende opsporingsonderzoeken, zolang in dat kader geen bijzondere opsporingsmiddelen worden ingezet en geen opsporingsteam wordt samengesteld’.24*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 38. Na een jaar kunnen deze gegevens, zolang zij nog noodzakelijk zijn voor de uitvoering van de dagelijkse politietaak, geautomatiseerd worden vergeleken met andere gegevens die worden verwerkt met het oog op de uitvoering van de dagelijkse politietaak ([artikel 8, tweede lid Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8)).
 
 Wanneer de politiegegevens niet langer noodzakelijk zijn voor de uitvoering van de dagelijkse politietaak worden zij vernietigd. Blijven de gegevens noodzakelijk voor het doel, dan worden zij na uiterlijk vijf jaar verwijderd.
 
@@ -182,19 +237,29 @@ Wanneer de politiegegevens niet langer noodzakelijk zijn voor de uitvoering van 
 
 Het verwerken van gegevens voor een ander doel dan waarvoor ze werden verwerkt, moet voorzien zijn in de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463). Politiegegevens die met het oog op het basispolitiewerk worden verwerkt kunnen verder verwerkt worden ten behoeve van een gericht onderzoek (in het kader van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10)) of ten behoeve van het beheer van informantengegevens ([artikel 12 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12)).25Artikel 8, vierde lid Wpg. Van een gericht onderzoek is sprake als het een gerichte en omvangrijke verwerking van persoonsgegevens betreft.
 
-Het doel van dit onderzoek zal zijn het herstellen van de rechtsorde of het voorkomen van een aantasting daarvan. In ieder geval is sprake van een dergelijke verwerking indien een rechercheonderzoek is aangemeld, een verkennend onderzoek wordt gestart en zodra bijzondere opsporingsmethoden worden ingezet. Dit zal samengaan met het moment waarop om tactische of opsporingstechnische redenen aanleiding bestaat de gegevens binnen de politie af te schermen.26**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 39. Het gaat dus met name om dossiervorming in een bepaald geval, om veel informatie samen te brengen gericht op dat ene geval mits in het belang van het onderzoek. 27**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 43 e.v.. Anderzijds kunnen politiegegevens uit gerichte onderzoeken ter beschikking worden gesteld voor de uitvoering van de dagelijkse politietaak, zij het met instemming van de bevoegd functionaris.
+Het doel van dit onderzoek zal zijn het herstellen van de rechtsorde of het voorkomen van een aantasting daarvan. In ieder geval is sprake van een dergelijke verwerking indien een rechercheonderzoek is aangemeld, een verkennend onderzoek wordt gestart en zodra bijzondere opsporingsmethoden worden ingezet. Dit zal samengaan met het moment waarop om tactische of opsporingstechnische redenen aanleiding bestaat de gegevens binnen de politie af te schermen.26*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 39. Het gaat dus met name om dossiervorming in een bepaald geval, om veel informatie samen te brengen gericht op dat ene geval mits in het belang van het onderzoek. 27*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 43 e.v.. Anderzijds kunnen politiegegevens uit gerichte onderzoeken ter beschikking worden gesteld voor de uitvoering van de dagelijkse politietaak, zij het met instemming van de bevoegd functionaris.
 
 Verdere verwerking van gegevens die worden verwerkt met het oog op de uitvoering van de dagelijkse politietaak kan ook plaatsvinden in het kader van de ondersteuning van de politietaak. Dit ziet met name op de landelijke ontsluiting van politiegegevens: een signalering door een regionaal politiekorps wordt via deze verwerking bekend bij alle andere politiekorpsen. Deze verwerking kan relevant zijn voor:
 
-Daarnaast biedt de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) mogelijkheden om op basis van politiegegevens die worden verwerkt in het kader van een gericht onderzoek een specifieke zoekvraag te plaatsen in een andere verwerking om te zoeken naar overeenkomsten ([artikel 11 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11)). Dit betreft onder meer het zogenaamde automatisch vergelijken. Hierop zijn aanvullende waarborgen van toepassing, namelijk de omstandigheid dat sprake moet zijn van een duidelijke aanleiding voor de zoekvraag, dat deze noodzakelijk moet zijn voor het onderzoek waarvoor de vraag wordt gesteld, dat de vraag ter verificatie dient van gegevens die al bij de politie bekend zijn. Bovendien moeten de autorisaties van het vereiste niveau zijn en is de verdere verwerking van overeenkomende gegevens afhankelijk van de instemming van een daartoe bevoegd functionaris.29**Kamerstukken II**, 2005–2006, 30 327, nr. 3, p. 53.
+- a. het vaststellen van eerdere verwerkingen ten aanzien van eenzelfde persoon of zaak, onder meer ter bepaling van eerdere betrokkenheid bij strafbare feiten;
+
+- b. het ophelderen van strafbare feiten die nog niet herleid konden worden tot een verdachte;
+
+- c. identificatie van personen of zaken;
+
+- d. het onder de aandacht brengen van personen of zaken met het oog op het uitvoeren van een gevraagde handeling dan wel met het oog op een juiste bejegening van personen;
+
+- e. het uitvoeren van taken ten dienste van de justitie.28Artikel 13, eerste lid Wpg. Zie ook artikel 6:2 Bpg. Het signaleren van een subject uit een gericht onderzoek via deze verwerking behoort tot de mogelijkheden. Indien sprake is van een hit kan het kenteken uit het vergelijkingsbestand verrijkt worden met deze gegevens en verder worden verwerkt voor het doel waarvoor het gesignaleerd stond.
+
+Daarnaast biedt de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) mogelijkheden om op basis van politiegegevens die worden verwerkt in het kader van een gericht onderzoek een specifieke zoekvraag te plaatsen in een andere verwerking om te zoeken naar overeenkomsten ([artikel 11 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=11)). Dit betreft onder meer het zogenaamde automatisch vergelijken. Hierop zijn aanvullende waarborgen van toepassing, namelijk de omstandigheid dat sprake moet zijn van een duidelijke aanleiding voor de zoekvraag, dat deze noodzakelijk moet zijn voor het onderzoek waarvoor de vraag wordt gesteld, dat de vraag ter verificatie dient van gegevens die al bij de politie bekend zijn. Bovendien moeten de autorisaties van het vereiste niveau zijn en is de verdere verwerking van overeenkomende gegevens afhankelijk van de instemming van een daartoe bevoegd functionaris.29*Kamerstukken II*, 2005–2006, 30 327, nr. 3, p. 53.
 
 ### 4. Verstrekking van politiegegevens
 
 Verstrekking van politiegegevens aan derden is alleen mogelijk indien de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) of het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) (Bpg) daarvoor een grondslag biedt. In het Bpg worden hiertoe verschillende instellingen met name genoemd, al dan niet met toevoeging van een bepaald doel. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=19) en [20 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) bieden een ruimer kader voor verstrekking, ook aan andere dan de in het Bpg genoemde instellingen. Deze verstrekkingen zien wel op een parallel belang tussen politie en de instelling waaraan verstrekt wordt: de verstrekking is verenigbaar met het doel waarvoor de politie zelf de gegevens verwerkt.
 
-Voor [artikel 19 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=19), de incidentele verstrekking, geldt dat sprake moet zijn van een bijzonder geval. Bij [artikel 20 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) gaat het om een structurele verstrekking in het kader van een samenwerkingsverband. Voor beide bepalingen geldt dat de verstrekking noodzakelijk moet zijn met het oog op een zwaarwegend algemeen belang. Dit houdt in dat ‘de verstrekking voor de samenleving van meer dan gewone betekenis is. Ingevolge de beginselen van proportionaliteit en subsidiariteit dient dit belang dermate zwaarwegend te zijn dat het belang van verstrekking aan derden zwaarder dient te wegen dan het belang van de bescherming van de persoonlijke levenssfeer van degene op wie de politiegegevens betrekking hebben’.30**Kamerstukken II**, 2005–2006, 30 327, nr. 3, p. 76. De verstrekking moet voorts in overeenstemming zijn met het bevoegd gezag. Tot slot is van belang dat de gegevens met een bepaald doel worden verstrekt. Hieronder valt niet alleen het voorkomen en opsporen van strafbare feiten, het handhaven van de openbare orde en het verlenen van hulp aan hen die deze behoeven (zijnde de politietaken) maar ook het uitoefenen van toezicht op het naleven van regelgeving. Voor de toepassing van [artikel 20 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) geldt bovendien dat de beslissing van de verantwoordelijke schriftelijk en gemotiveerd wordt vastgelegd.31Artikel 20, tweede lid Wpg.
+Voor [artikel 19 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=19), de incidentele verstrekking, geldt dat sprake moet zijn van een bijzonder geval. Bij [artikel 20 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) gaat het om een structurele verstrekking in het kader van een samenwerkingsverband. Voor beide bepalingen geldt dat de verstrekking noodzakelijk moet zijn met het oog op een zwaarwegend algemeen belang. Dit houdt in dat ‘de verstrekking voor de samenleving van meer dan gewone betekenis is. Ingevolge de beginselen van proportionaliteit en subsidiariteit dient dit belang dermate zwaarwegend te zijn dat het belang van verstrekking aan derden zwaarder dient te wegen dan het belang van de bescherming van de persoonlijke levenssfeer van degene op wie de politiegegevens betrekking hebben’.30*Kamerstukken II*, 2005–2006, 30 327, nr. 3, p. 76. De verstrekking moet voorts in overeenstemming zijn met het bevoegd gezag. Tot slot is van belang dat de gegevens met een bepaald doel worden verstrekt. Hieronder valt niet alleen het voorkomen en opsporen van strafbare feiten, het handhaven van de openbare orde en het verlenen van hulp aan hen die deze behoeven (zijnde de politietaken) maar ook het uitoefenen van toezicht op het naleven van regelgeving. Voor de toepassing van [artikel 20 Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) geldt bovendien dat de beslissing van de verantwoordelijke schriftelijk en gemotiveerd wordt vastgelegd.31Artikel 20, tweede lid Wpg.
 
-### 5. [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468)
+### 5. Wet bescherming persoonsgegevens
 
 De [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) is van toepassing op gegevensverwerkingen door de politie als zij deze gegevens niet verwerkt in het kader van de uitoefening van de politietaak. Daarnaast is de Wbp de aangewezen wet voor verwerkingen door andere overheidsorganisaties die niet onder de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) of [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) (Wjsg) vallen.
 
@@ -216,7 +281,7 @@ Het resultaat van de automatische vergelijking omvat meer dan van een niet-autom
 
 Dat de automatische kentekenvergelijking voordelen oplevert voor de werkwijze van de politie en meer resultaat tot gevolg heeft, betekent niet dat het middel overal en altijd ingezet kan en moet worden. Uitgangspunt is dat er een directe actie plaatsvindt naar aanleiding van een hit met een kenteken uit het vergelijkingsbestand. Dit vergt, naast voldoende capaciteit om deze acties te doen, een afgewogen selectie van kentekens die in het vergelijkingsbestand ten behoeve van de uitvoering van de dagelijkse politietaak kunnen worden opgenomen: de invulling die aan de politietaak wordt gegeven voor een actie bepaalt de selectie van gegevens per ANPR-toepassing.
 
-Dit betekent dat iedere verwerking van politiegegevens door middel van ANPR, met behulp van een − vaste − camera boven de weg of met behulp van een camera in een politievoertuig, in de eerste plaats zijn grondslag moet vinden in de uitvoering van de dagelijkse politietaak. Deze afweging moet dus per keer gemaakt worden. Dit is van belang voor de rechtmatige verkrijging van gegevens: het verwerken van ongelimiteerd binnengehaalde gegevens ten behoeve van de uitvoering van de dagelijkse politietaak is niet in overeenstemming met de wet.36**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 10: ‘Er zijn echter grenzen aan het mogen verzamelen en met elkaar in verband brengen van deze gegeven voor de verschillende onderdelen van de politietaak. Een zorgvuldige omgang met persoonsgegevens brengt immers mee dat de verwerking van gegevens evenredig is aan het doel waarvoor ze zijn verkregen.’ En p. 39: ‘Zowel het vergaren als verwerken (waaronder vergelijken) van gegevens op grond van dit artikel [8 Wpg] is evenwel gebonden aan de algemene beperkingen die daarvoor gelden op grond van artikel 3, zoals dat de verwerking noodzakelijk moet zijn met het oog op een goede uitvoering van de politietaak en, gelet op de doeleinden waarvoor de gegevens worden verwerkt, ter zake dienend en niet bovenmatig is.’
+Dit betekent dat iedere verwerking van politiegegevens door middel van ANPR, met behulp van een − vaste − camera boven de weg of met behulp van een camera in een politievoertuig, in de eerste plaats zijn grondslag moet vinden in de uitvoering van de dagelijkse politietaak. Deze afweging moet dus per keer gemaakt worden. Dit is van belang voor de rechtmatige verkrijging van gegevens: het verwerken van ongelimiteerd binnengehaalde gegevens ten behoeve van de uitvoering van de dagelijkse politietaak is niet in overeenstemming met de wet.36*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 10: ‘Er zijn echter grenzen aan het mogen verzamelen en met elkaar in verband brengen van deze gegeven voor de verschillende onderdelen van de politietaak. Een zorgvuldige omgang met persoonsgegevens brengt immers mee dat de verwerking van gegevens evenredig is aan het doel waarvoor ze zijn verkregen.’ En p. 39: ‘Zowel het vergaren als verwerken (waaronder vergelijken) van gegevens op grond van dit artikel [8 Wpg] is evenwel gebonden aan de algemene beperkingen die daarvoor gelden op grond van artikel 3, zoals dat de verwerking noodzakelijk moet zijn met het oog op een goede uitvoering van de politietaak en, gelet op de doeleinden waarvoor de gegevens worden verwerkt, ter zake dienend en niet bovenmatig is.’
 
 Uitvoering van de dagelijkse politietaak kan in het concrete geval betekenen dat gecontroleerd wordt op gestolen auto’s of kentekenplaten, of op achterstallige betalingen van boetes. Doel is dan om direct na herkenning van een kenteken een voertuig stil te doen houden ter afwikkeling van de openstaande kwestie. De inzet van het middel is voor dit doel niet zinvol en niet gerechtvaardigd als een directe actie niet is voorzien. De afweging van hoe de politietaak wordt ingevuld is dus ook inherent aan de keuze voor de politiegegevens waarmee wordt vergeleken. De aard van de toepassing heeft gevolgen voor de selectie van de politiegegevens. Deze politiegegevens moeten actueel en accuraat zijn.
 
@@ -224,7 +289,7 @@ Uitvoering van de dagelijkse politietaak kan in het concrete geval betekenen dat
 
 Het toevoegen van politiegegevens aan het vergelijkingsbestand die niet hoeven of zelfs niet moeten leiden tot een directe actie waarvoor het betreffende voertuig wordt stilgehouden, dient ook in lijn te zijn met de politietaak. Hierbij moet gedacht worden aan het vergaren van informatie in het kader van een gericht (opsporings)onderzoek of ten behoeve van een operationele analyse.37Zie verder: hoofdstuk IV − 2. Bij de afweging van het plaatsen van deze gegevens in het vergelijkingsbestand moet rekening worden gehouden met het autorisatieniveau van de uitvoerende politieambtenaar.
 
-**Selectie van gegevens**
+*Selectie van gegevens*
 
 ### 4. Selectie van gegevens
 
@@ -232,9 +297,13 @@ Het toevoegen van politiegegevens aan het vergelijkingsbestand die niet hoeven o
 
 Bij de selectie van politiegegevens ten behoeve van het vergelijkingsbestand gaat het CBP uit van twee categorieën:
 
+- − het kenteken/voertuig wordt gezocht;
+
+- − de kentekenhouder/een persoon die gekoppeld kan worden aan het kenteken wordt gezocht.
+
 Voor de eerste categorie geldt dat het kan gaan om voertuigen die zijn gestolen of worden vermist, of betrokken zijn geweest bij een misdrijf. Ook kan het gestolen of valse kentekenplaten betreffen. De gegevens zijn afkomstig uit regionale of landelijke politiebestanden, maar ook uit het kenteken-register dat de RDW voert. De RDW verstrekt gegevens uit het kentekenregister voor zover de politie deze gegevens nodig heeft voor de goede uitoefening van haar taak.38De RDW bepaalt op welke wijze de gegevens worden verstrekt, ingevolge artikel 43, vijfde lid WVW ‘94. Een on-line/real-time-toepassing, waarbij de gegevens niet verstrekt worden ten behoeve van een vergelijkingsbestand maar gescande kentekens direct worden vergeleken met het kentekenregister, behoort tot de mogelijkheden maar wordt vooralsnog niet (grootschalig) toegepast. Dat betreft onder meer de controle op de registratie van kentekens. Deze controle valt onder het toezicht op naleving zoals bedoeld in [art 158 WVW ‘94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=158). De politie is hiervoor primair aangewezen zodat de controle plaatsvindt in het kader van de uitvoering van de politietaak. 39Het verwerken van gegevens met betrekking tot kentekens is een taak die is opgedragen aan de RDW, op grond van artikel 4b, eerste lid, sub h, WVW ‘94. De RDW houdt daartoe een kentekenregister bij dat geldt als basisregister. De RDW verstrekt uit dat register gegevens aan overheidsorganen, voor zover zij aangeven deze gegevens nodig te hebben voor een goede uitoefening van hun publieke taak (artikel 43, eerste lid WVW ‘94). Het onder deze voorwaarden overheidsorganen voorzien van gegevens uit het kentekenregister, is opgenomen als een van de doeleinden van het verzamelen van gegevens door de RDW (artikel 42, vierde lid onder c WVW ‘94). Met het toezicht op de naleving van het bepaalde bij of krachtens de WVW ‘94, met uitzondering van de hoofdstukken IA, IB en IC, zijn opsporingsambtenaren belast. Dat zijn volgens artikel 159 WVW ‘94 in de eerste plaats ambtenaren in de zin van de artikelen 141 en 142 Wetboek van Strafvordering (waaronder politieambtenaren) en in de tweede plaats de bij AMvB aangewezen ambtenaren van -onder meer- de RDW.
 
-In verband met de uitvoering en handhaving van andere wetten ontvangt de politie ook gegevens uit het kentekenregister, bijvoorbeeld met betrekking tot de tweede categorie. Deze categorie betreft een selectie van personen die aan een kenteken gekoppeld kunnen worden. Het gaat om personen die gesignaleerd staan of anderszins gezocht worden, bijvoorbeeld wegens openstaande boetes. Het zal voornamelijk gaan om de kentekenhouder. Het is echter denkbaar dat bij de politie bekend is dat de gezochte persoon voornamelijk gebruik maakt van een auto die geregistreerd staat op een andere naam. Dit dient wel als zodanig aangetekend te zijn en dus kenbaar voor de betreffende politie-ambtenaar. Binnen het toepassingsbereik van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) valt de verwerking van gegevens voor zover het gaat om de uitoefening van taken ten dienste van Justitie. Een voorbeeld is de controle van openstaande boetes die geregistreerd staan bij het Centraal Justitieel Incassobureau (CJIB). Hiertoe verstrekt het CJIB gegevens aan de politie om deze in de gelegenheid te stellen de betrokkene op te sporen.40**Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 60: ‘Voor zover op grond van artikel 13 gegevens worden verwerkt naar aanleiding van verzoeken van andere instanties (bijvoorbeeld signaleringen op verzoek van het CJIB of van bijzondere opsporingsdiensten) wordt het verzoek daartoe eerst geregistreerd op grond van 8, 9 of 10, waarna verdere verwerking op grond van artikel 13 kan plaatsvinden’.
+In verband met de uitvoering en handhaving van andere wetten ontvangt de politie ook gegevens uit het kentekenregister, bijvoorbeeld met betrekking tot de tweede categorie. Deze categorie betreft een selectie van personen die aan een kenteken gekoppeld kunnen worden. Het gaat om personen die gesignaleerd staan of anderszins gezocht worden, bijvoorbeeld wegens openstaande boetes. Het zal voornamelijk gaan om de kentekenhouder. Het is echter denkbaar dat bij de politie bekend is dat de gezochte persoon voornamelijk gebruik maakt van een auto die geregistreerd staat op een andere naam. Dit dient wel als zodanig aangetekend te zijn en dus kenbaar voor de betreffende politie-ambtenaar. Binnen het toepassingsbereik van de [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) valt de verwerking van gegevens voor zover het gaat om de uitoefening van taken ten dienste van Justitie. Een voorbeeld is de controle van openstaande boetes die geregistreerd staan bij het Centraal Justitieel Incassobureau (CJIB). Hiertoe verstrekt het CJIB gegevens aan de politie om deze in de gelegenheid te stellen de betrokkene op te sporen.40*Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 60: ‘Voor zover op grond van artikel 13 gegevens worden verwerkt naar aanleiding van verzoeken van andere instanties (bijvoorbeeld signaleringen op verzoek van het CJIB of van bijzondere opsporingsdiensten) wordt het verzoek daartoe eerst geregistreerd op grond van 8, 9 of 10, waarna verdere verwerking op grond van artikel 13 kan plaatsvinden’.
 
 ### 4.2. Directe aanleiding voor selectie
 
@@ -245,6 +314,10 @@ Een verdergaande toepassing is dat de signalering niet voortkomt uit een nieuwe 
 Relevant onderdeel van de politietaak is het opsporen van daders van strafbare feiten en het voor-komen van strafbare feiten. Het uit de anonimiteit halen van veelplegers maakt echter niet logischerwijs onderdeel uit van de politietaak zoals omschreven in [artikel 2 Polw. ‘93](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2).42Brief van het CBP van 19 januari 2004 aan de beheerder van het regionaal politiekorps Utrecht (O2004-0004),http://www.cbpweb.nl/downloads_uit/O2004-0004.pdf. Het Nederlandse strafrechtelijke systeem is gericht op resocialisatie. Het Nederlandse strafrecht kent geen bijkomende straf die bepaalt dat een veroordeelde gedurende een bepaalde tijd zonder verdere directe aanleiding gevolgd kan worden op basis van zijn bestaande registraties. Het gericht volgen van personen die ten tijde van dat volgen niet verdacht zijn in de zin van [artikel 27 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27), of anderszins onderwerp zijn van een gericht onderzoek, is dan ook niet in overeenstemming met de geldende wet- en regelgeving. De betreffende gegevens worden in dat geval aangewend voor het nagaan van de gangen van een persoon. Dit mondt uit in een oneigenlijke controle.43HR 19 december 1995, NJ 1996, 249; zie ook Onderzoek inzet ‘Catch-ken’, prof. mr. P.A.M. Mevis, Rotterdam 27 oktober 2005.
 
 Hieruit volgt dat gegevens betreffende een bekende slechts kunnen worden opgenomen in het vergelijkingsbestand in de volgende twee situaties:
+
+- − de bekende is gesignaleerd in verband met een actuele en concrete verdenking;
+
+- − het is in het belang van de handhaving van de openbare orde dat een bekende of een groep van bekenden wordt getraceerd.
 
 De verwerking van gegevens vindt in deze gevallen plaats in het kader van de uitoefening van de politietaak met het oog op een specifiek doel. Gedacht kan worden aan een risicowedstrijd waarbij aannemelijk is dat hooligans van de verschillende clubs van zich zullen laten horen op een wijze die de openbare orde bedreigt of zelfs aantast. Dit voorbeeld illustreert dat per geval dient te worden bezien of de actuele situatie opname in het vergelijkingsbestand legitimeert. In verband hiermee is ook van groot belang dat op het moment dat de vergelijking plaatsvindt de kwaliteit van de gegevens goed is, namelijk actueel en juist. De kwaliteit van de gegevens is een voorwaarde voor een zorgvuldige toepassing van de techniek. Dat houdt in dat voor iedere nieuwe ANPR-actie telkens een actueel en accuraat vergelijkingsbestand moet worden aangelegd. Gegevens die in een ANPR-actie niet tot een hit hebben geleid, kunnen niet een week later opnieuw gebruikt worden zonder dat vooraf wordt beoordeeld of zij nog steeds actueel zijn.
 
@@ -268,11 +341,15 @@ Het resultaat, de hit, verrijkt het kenteken dat in het vergelijkingsbestand voo
 
 Voor de bewaartermijn van de gegevens is dus sprake van een binnengrens en een buitengrens.
 
+- − De binnengrens wordt bepaald door de noodzaak de gegevens te bewaren voor het doel van de verwerking waarbij de gegevens ter zake dienend, toereikend en niet bovenmatig mogen zijn.
+
+- − De buitengrens wordt gevormd door de uiterste wettelijke bewaartermijn.
+
 ### 2. Verdere verwerking van gegevens
 
 Politiegegevens die met het oog op de uitvoering van de dagelijkse politietaak worden verwerkt, kunnen ter beschikking worden gesteld voor verdere verwerking in verband met een gericht onderzoek of ten behoeve van het beheer van informantgegevens. Dat betekent dat ze binnen de politie verstrekt kunnen worden met het oog op een ander doel dan waarvoor de gegevens werden verwerkt. Hierbij kan men denken aan de vraag, ten behoeve van een specifiek (opsporings)onderzoek, of een bepaald kenteken al dan niet gesignaleerd is tijdens de ANPR-actie.
 
-Voornoemde vraag kan betrekking hebben op het vergelijkingsbestand, meer specifiek op de kentekens die daarin opgenomen zijn ter vergelijking en op het resultaat van de vergelijking. Het gaat hier enerzijds om de hits en anderzijds om de kentekens die wel gesignaleerd staan maar niet zijn gepasseerd. De vraag kan alleen worden gesteld als deze dient ter verificatie van gegevens die al bekend zijn in het kader van een onderzoek en de vraag moet noodzakelijk zijn ten behoeve van dat onderzoek.44Artikel 11 Wpg, **Kamerstukken II** 2005–2006, 30 327, nr. 3, p. 11 ev.. Andere vereisten zijn dat de betreffende ambtenaar geautoriseerd is en dat de verdere verwerking van overeenkomende gegevens afhankelijk is van de bevoegd functionaris.
+Voornoemde vraag kan betrekking hebben op het vergelijkingsbestand, meer specifiek op de kentekens die daarin opgenomen zijn ter vergelijking en op het resultaat van de vergelijking. Het gaat hier enerzijds om de hits en anderzijds om de kentekens die wel gesignaleerd staan maar niet zijn gepasseerd. De vraag kan alleen worden gesteld als deze dient ter verificatie van gegevens die al bekend zijn in het kader van een onderzoek en de vraag moet noodzakelijk zijn ten behoeve van dat onderzoek.44Artikel 11 Wpg, *Kamerstukken II* 2005–2006, 30 327, nr. 3, p. 11 ev.. Andere vereisten zijn dat de betreffende ambtenaar geautoriseerd is en dat de verdere verwerking van overeenkomende gegevens afhankelijk is van de bevoegd functionaris.
 
 Dat betekent ook dat niet iedere ANPR-toepassing zich leent voor dergelijke zoekacties.
 
@@ -296,7 +373,7 @@ De gegevens die na de kentekenvergelijking tot verrijking van informatie hebben 
 
 ### 5. Patroonherkenning
 
-De drie kerntaken die voortvloeien uit [artikel 2 Polw. ‘93](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2) zijn de handhaving van de openbare orde, de strafrechtelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die dat behoeven. Hieruit wordt door de Raad van Hoofdcommissarissen een vierde taak afgeleid: signalering en advi-sering. Deze is onlosmakelijk met de drie genoemde kerntaken verbonden, aldus de Projectgroep Opsporing van de Raad van Hoofdcommissarissen in Tegenhouden troef. 45**Tegenhouden troef. Een nadere verkenning van Tegenhouden als alternatieve strategie van misdaadbestrijding**, Projectgroep Opsporing-2, Raad van Hoofdcommissarissen, november 2003, p. 23, http://www.politie.nl/ImagesLandelijk/tegenhoudentroef_tcm31-66185.pdf .
+De drie kerntaken die voortvloeien uit [artikel 2 Polw. ‘93](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2) zijn de handhaving van de openbare orde, de strafrechtelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die dat behoeven. Hieruit wordt door de Raad van Hoofdcommissarissen een vierde taak afgeleid: signalering en advi-sering. Deze is onlosmakelijk met de drie genoemde kerntaken verbonden, aldus de Projectgroep Opsporing van de Raad van Hoofdcommissarissen in Tegenhouden troef. 45*Tegenhouden troef. Een nadere verkenning van Tegenhouden als alternatieve strategie van misdaadbestrijding*, Projectgroep Opsporing-2, Raad van Hoofdcommissarissen, november 2003, p. 23, http://www.politie.nl/ImagesLandelijk/tegenhoudentroef_tcm31-66185.pdf .
 
 Hoewel deze twee taken niet direct zijn terug te leiden tot [artikel 2 Polw. ‘93](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=2), is preventie in de zin van het voorkomen van schendingen van de rechtsorde, dat wel.46Zie ook de conclusie van A-G Vellinga voorafgaand aan HR 23 januari 2007, LJN: AZ3880. Dit zou kunnen plaatsvinden door het uitvoeren van strategische analyses. Uit deze analyses kunnen patronen afgeleid worden, die weer kunnen leiden tot gerichte acties door de politie. Als bijvoorbeeld uit een analyse naar voren komt dat op een bepaald tijdstip in de week veel dezelfde soort niet-Nederlandse auto’s de grens passeert, zou dit aanleiding kunnen zijn om op dat tijdstip gericht te controleren op een delict dat in verband kan worden gebracht met de betreffende nationaliteit.47Voorbeeld: Kmar − @migo: ANPR bij de grensovergang bij Hazeldonk. Het verwerken van ongelimiteerd binnengehaalde gegevens ten behoeve van de uitvoering van de dagelijkse politietaak is in strijd met de wet.48Zie ook hoofdstuk III − 2. Het gebruik van gescande kentekens is echter voor het genereren van strategische analyses niet noodzakelijk. Ook zonder dat de gegevens herleidbaar zijn tot personen is een risicoanalyse uit te voeren door middel van een technische toepassing die de gegevens aggregeert. Hieruit kan worden afgeleid op welk moment een bepaald soort kenteken passeert. Vervolgens kan door middel van een gerichte actie naar tijd en plaats selectiever worden gecontroleerd. Dit betekent dat voor een rechtmatige toepassing van ANPR ten behoeve van signalering en advisering met het oog op de uitvoering van de dagelijkse politietaak een technische mogelijkheid moet worden gezocht om deze analyses uit te voeren op geaggregeerd niveau.
 
@@ -385,6 +462,76 @@ Through the use of Automatic Number Plate Recognition (ANPR), the police can aut
 Within the context of its day-to-day police task, the police force has already been using ANPR in practice for some time, although the legal aspects of ANPR have not yet fully crystallised. There may also be differences in application between the various police forces.
 
 A lack of clarity with respect to legislation and regulations can adversely affect the protection of personal data collected through the use of ANPR. This publication from the Dutch Data Protection Authority (Dutch DPA) [College bescherming persoonsgegevens (CBP)] provides concrete substance to the statutory requirements for the correct and careful processing of personal data that must be observed during the implementation of ANPR.
+
+Starting points concerning the use of ANPR
+
+- • ANPR is a method for automated recognition and comparison of scanned number plates for the performance of the day-to-day police task.
+
+- • A hit is a signal that a scanned number plate is stored in a comparison file.
+
+- • The comparison file is a collection of selected number plates which has to be up-to-date and correct.
+
+- • Entry in the comparison file has to be justified.
+
+- • A hit leads to direct action enhancing the effectiveness of the performance of the day-to-day police task.
+
+- • A hit adds information to the number plate stored in the comparison file. If a number plate which is stored in the comparison file is not scanned, this also provides information.
+
+- • No-hits are scanned number plates which have not lead to a positive result after being checked against the comparison file.
+
+Data selection
+
+- • The processing of unlimited data collected for the performance of the day-to-day police task is not in accordance with the law.
+
+- • The starting point is that immediate action takes place on the basis of a hit.
+
+- • This requires, in addition to sufficient capacity to perform these actions, a considered selection of number plates that can be included in the comparison file for the purpose of the performance of the day-to-day police task: the substance assigned to the police task with respect to an action will determine the selection of data per ANPR implementation.
+
+- • Number plates can be selected if they have a relation with alerted vehicles or persons.
+
+- • The implementation of ANPR for the purpose of tracing number plates belonging to persons who are known to the police is only allowed if the persons known to the police have been alerted in connection with a specific and current suspicion or if it concerns such a situation that it would be in the interest of public order that a person or persons known to the police are traced.
+
+- • The quality of the data to be selected is of crucial importance. Careful processing of data requires that use is made of a comparison file with the most recent data.
+
+Processing scanned number plates
+
+- • Hits produced by ANPR can be processed as long as they are necessary for the purpose for which they have processed, namely to enrich the existing data.
+
+- • The data must be destroyed if the need for their processing ends.
+
+- • Further processing of hits for other purposes is only allowed if this is provided for by law (the [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) (Wpg) [Police Data Act]).
+
+- • Scanned number plates that do not lead to a positive result after comparison, the so-called no-hits, must immediately be destroyed. This also means it is not allowed to store them for investigations that have not yet been instituted.
+
+- • Scanned number plates that have led to information enrichment after the number plate comparison, both in the circumstance that a hit was produced and in the circumstance that the wanted number plate did not pass by, can be used for further processing if the conditions set in that respect have been complied with.
+
+- • Storing data that have led to enrichment of information is wrongful if this takes place solely for the purpose of investigations that have not yet been instituted.
+
+- • Patterns can only be established on the basis of aggregated data after the scanning of number plates has taken place. A risk assessment can subsequently be reason to undertake targeted action.
+
+Cooperation between the police and other government bodies
+
+- • Data processed by the police during an ANPR action are police data to which the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) applies.
+
+- • The [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp) [Dutch Data Protection Act] applies if other government bodies, in the proper fulfilment of their public-law duties, wish to check data against passing cars.
+
+- • [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) data must be processed in strict separation.
+
+- • If another government body has grounds for scanning number plates, there will be a separate [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) process, from the moment of scanning to the result, for which the relevant government body will bear responsibility.
+
+- • If the police force provides scanned number plates to other government bodies, this should be in accordance with the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and the conditions on the basis of this law: the Wpg must provide grounds for the provision, whereby the substantial public interest must be taken into consideration.
+
+- • Both the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and the [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) provide that scanned number plates that do not produce a hit must be destroyed immediately.
+
+- • It applies to both separate comparison files that the data must be of good quality: up-to-date, correct and not excessive.
+
+Sanctions
+
+- • Responsible parties that violate the provisions of the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and the [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) may face legal consequences.
+
+- • There are a number of options open to interested parties to obtain justice for themselves, on the grounds of the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and the [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) as well as on the grounds of the [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb) [General Administrative Law Act].
+
+- • In addition, the Dutch DPA has, in its supervisory capacity, several options under administrative law to enforce the provisions of the [Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) and the [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). These include measures such as imposing penalties, imposing an administrative order and imposing orders for periodic penalty payments.
 
 Het College bescherming persoonsgegevens houdt onder de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) toezicht op de naleving van wetten die het gebruik van persoonsgegevens regelen. Onduidelijkheid over wet- en regelgeving kan ten koste gaan van de bescherming van de gegevens van burgers. Daarom geeft het College in zijn Richtsnoeren ten behoeve van toepassing in de praktijk nadere invulling aan de geldende wettelijke normen.
 

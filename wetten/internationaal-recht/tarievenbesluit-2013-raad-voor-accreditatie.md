@@ -1,45 +1,17 @@
 ---
 title: "Tarievenbesluit 2013 Raad voor Accreditatie"
 identifier: "BWBR0033239"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033239"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12204063"
-version_id: "20416932"
-internal_id: "C28700121"
-label_id: "12175464"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033239/2013-01-01/0"
-intitule_bron: "Stcrt.2013-81"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-18"
-intitule_published: "2013-01-02"
-intitule_in_force: "2013-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-81"
-original_signed_date: "2012-12-18"
-original_published_date: "2013-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-81"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0033239&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0033239&g=2013-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2012-12-18"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0033239"
+opgehaald: 2026-08-19
 ---
+
 # Tarievenbesluit 2013 Raad voor Accreditatie
-
-Het bestuur van de Stichting Raad voor Accreditatie (RvA) heeft, gelet op [artikel 7 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=7) voor haar dienstverlening, op 17 december 2012 het volgende tarievenbesluit vastgesteld.
-
-Besluit vast te stellen het Tarievenbesluit 2013 Raad voor Accreditatie en de daarbij horende tarieventabel.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -70,31 +42,3 @@ De in rekening gebrachte tarieven moeten binnen 30 dagen na dagtekening worden b
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
-
-## Bijlage
-
-| Onderwerp (zie ook de toelichting) | Tarief voor 2013 in € Excl. BTW |
-| --- | --- |
-| **Beoordelingen** |   |
-| Uurtarief teamleider | 158,25 |
-| Uurtarief beoordelaar | 158,25 |
-| Uurtarief vakdeskundige | 141,75 |
-| Kosten voor het inzetten van externe vakdeskundigen hoger dan het geldende dagtarief verminderd met EUR 300,- | meerkosten |
-| Behandelingskosten in verband met het inschakelen van een buitenlandse nationale accreditatie-instelling bij beoordelingen in het buitenland (per uitbestede mensdag) | 419 |
-| **Reis- en verblijfkosten** |   |
-| Beoordeling in Nederland Standaard reiskosten Nederland (per persoon per dag) Reis- en verblijfkosten buitenlandse beoordelaars en/of deskundigen in Nederland | 51 feitelijke kosten |
-| Beoordeling in het Buitenland Verblijfkosten beoordelaars bij beoordelingen in het buitenland Reiskosten beoordelaars bij beoordelingen in het buitenland Overige kosten, zoals bijvoorbeeld voor het inhuren van tolken. | Reisregeling Buitenland (zie link in toelichting) feitelijke kosten feitelijke kosten |
-| **Jaarlijkse accreditatietarieven** |   |
-| Jaarlijks tarief voor een geaccrediteerde instelling | 3.525 |
-| Jaarlijks tarief voor een geaccrediteerde instelling met niet meer dan 3 personen (kleine instelling) | 1.765 |
-| Jaarlijks tarief voor iedere volgende accreditatie binnen eenzelfde juridische entiteit | 1.175 |
-| **Overige kosten** |   |
-| Uurtarief voor voorlichting aan instellingen die accreditatie aanvragen | 158,25 |
-| Uurtarief bureaumedewerkers | 158,25 |
-| Extra accreditatiedocumenten, eerste exemplaar | 51 |
-| Extra accreditatiedocumenten, ieder volgend document binnen dezelfde aanvraag | 10 |
-| Kosten voor vertaling van documenten door erkende vertaler | feitelijke kosten |
-| Administratiekosten annulering > 2 weken voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd | 322 |
-| Administratiekosten annulering 1-2 weken voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd plus 25% van de geannuleerde beoordelingstijd en reistijd volgens het tarief van het desbetreffende teamlid | 322 plus 25% van de geannuleerde beoordelingstijd en reistijd |
-| Administratiekosten annulering < 1 week voor eerste bezoekdatum, per teamlid waarvoor de beoordeling wordt geannuleerd plus 100% van de geannuleerde beoordelingstijd en reistijd volgens het tarief van het desbetreffende teamlid | 322 plus 100% van de geannuleerde beoordelingstijd en reistijd |
-| Overige annuleringskosten bij beoordelingen in het buitenland of beoordelingen door buitenlandse beoordelaars in Nederland | feitelijke kosten |

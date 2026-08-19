@@ -1,43 +1,22 @@
 ---
 title: "Omzetbelasting, AWBZ- en Wmo- geïndiceerde zorg"
 identifier: "BWBR0032650"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032650"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "12016423"
-version_id: "19995932"
-internal_id: "C28093661"
-label_id: "11988434"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032650/2013-01-01/0"
-intitule_bron: "Stcrt.2012-27094"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-21"
-intitule_published: "2012-12-28"
-intitule_in_force: "2012-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-27094"
-original_signed_date: "2012-12-21"
-original_published_date: "2012-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-27094"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032650&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032650&g=2013-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2012-12-21"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032650"
+opgehaald: 2026-08-19
 ---
+
 # Omzetbelasting, AWBZ- en Wmo- geïndiceerde zorg
 
-De staatssecretaris van Financiën heeft het volgende besloten.
-
-**Dit besluit is een actualisering van het besluit van 21 maart 2007, nr.** **2006/2764M. Het besluit bevat goedkeuringen waaronder een nieuwe goedkeuring dat de vrijstelling tot nader order van toepassing blijft op de diensten op het gebied van de AWBZ-en de Wmozorg die tot 1 januari 2013 onder de reikwijdte vielen van** [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) **. Ook bevat het besluit een goedkeuring voor doventolken om een tijdelijke vrijstelling voor sommige prestaties buiten toepassing te laten.**
+*Dit besluit is een actualisering van het besluit van 21 maart 2007, nr.*
+ *2006/2764M. Het besluit bevat goedkeuringen waaronder een nieuwe goedkeuring dat de vrijstelling tot nader order van toepassing blijft op de diensten op het gebied van de AWBZ-en de Wmozorg die tot 1 januari 2013 onder de reikwijdte vielen van*
+ [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)
+ *. Ook bevat het besluit een goedkeuring voor doventolken om een tijdelijke vrijstelling voor sommige prestaties buiten toepassing te laten.*
 
 ### 1. Inleiding
 
@@ -45,7 +24,28 @@ Dit besluit behandelt de vrijstelling voor diensten op het gebied van de AWBZ- e
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
-### 2. [Artikel 11, eerste lid, onderdeel g, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)
+- *Btw:* omzetbelasting
+
+- *Wet:*
+ [wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
+
+- *Besluit:*
+ [Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633)
+
+- *btw-richtlijn:*
+ Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347 van 11 december 2006)
+
+- *AMvB:* Algemene maatregel van bestuur
+
+- *AWBZ:*
+ [algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+
+- *Wmo:*
+ [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031)
+
+- *CIZ:* Centrum Indicatiestelling
+
+### 2. Artikel 11, eerste lid, onderdeel g, 2°, van de wet
 
 ### 2.1. Juridisch kader
 
@@ -60,6 +60,10 @@ Het [Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR001414
 Ik keur onder de volgende voorwaarden goed dat de vrijstelling tot nader order van toepassing blijft op de diensten op het gebied van de AWBZ- en de Wmozorg die tot 1 januari 2013 onder de reikwijdte vielen van [artikel 11, eerste lid, onderdeel g, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
 ### Voorwaarden
+
+- – Als gebruik wordt gemaakt van de goedkeuring moet er voor de btw-heffing vanuit worden gegaan dat de prestaties vrijgesteld zijn. In dat geval kan bijvoorbeeld de aan deze prestaties toerekenbare voorbelasting niet in aftrek worden gebracht.
+
+- – Voor deze goedkeuring geldt overigens nog hetgeen hierna is opgenomen in de [paragrafen 2.2.1](https://wetten.overheid.nl/BWBR0032650) en [2.2.2](https://wetten.overheid.nl/BWBR0032650) onder de daar gestelde voorwaarden.
 
 ### 2.2. Reikwijdte van de vrijstelling
 
@@ -95,8 +99,8 @@ Ik keur goed dat doventolken de vrijstelling buiten toepassing laten zoals die v
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – het [besluit van 21 maart 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021620), nr. CPP2006/2764M.
+
 ### 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2013
-
-Dit besluit wordt in de Staatscourant gepubliceerd.

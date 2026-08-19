@@ -1,38 +1,16 @@
 ---
 title: "CBP Richtsnoeren"
 identifier: "BWBR0033173"
-country: "nl"
-rank: "zbo"
-publication_date: "2009-08-28"
-last_updated: "2009-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033173"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12183023"
-version_id: "20391602"
-internal_id: "C28670031"
-label_id: "12154664"
-dtd_version: "2.0"
-original_entry_into_force: "2009-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033173/2009-08-28/0"
-intitule_bron: "Stcrt.2009-12784"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-08-13"
-intitule_published: "2009-08-28"
-intitule_in_force: "2009-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2009-12784"
-original_signed_date: "2009-08-13"
-original_published_date: "2009-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2009-12784"
-entry_into_force_date: "2009-08-28"
-jci_1_3: "jci1.3:c:BWBR0033173&z=2009-08-28&g=2009-08-28"
-jci_1_0: "1.0:c:BWBR0033173&g=2009-08-28"
-citeertitel_status: "redactioneel"
-signed_date: "2009-08-13"
-entry_into_force: "2009-08-28"
+publicatiedatum: 2009-08-28
+laatste_update: 2009-08-28
+status: geldig
+toestand: 2009-08-28
+bron: "https://wetten.overheid.nl/BWBR0033173"
+opgehaald: 2026-08-19
 ---
+
 # CBP Richtsnoeren
 
 ### Actieve openbaarmaking en eerbiediging van de persoonlijke levenssfeer
@@ -63,15 +41,31 @@ De [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) kent als hoofdregel da
 
 De bepaling stelt een tweetal voorwaarden:
 
+- – de openbaar te maken informatie gaat over het beleid, de voorbereiding en uitvoering daaronder begrepen;
+
+- – de openbaarmaking is in het belang van een goede en democratische bestuursvoering.
+
 Voor beantwoording van de vraag of informatie gaat over beleid met inbegrip van de voorbereiding en uitvoering daarvan, kan worden verwezen naar de rechtspraak omtrent [artikel 3 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=3) en de in dat artikel gebezigde term ‘bestuurlijke aangelegenheid’. Wat betreft de vraag wanneer sprake is van ‘een goede en democratische bestuursvoering’ vermeldt de geschiedenis van de totstandkoming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8):
 
 ’De plicht tot het verstrekken van informatie ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8) ontstaat voor het overheidsorgaan zodra dit in het belang is van een goede en democratische bestuursvoering. Dit is een soepele norm [...]. Exacte criteria voor het uit eigen beweging verstrekken van informatie zijn echter niet te geven.’4TK 1986–1987, 19 859, nr. 3, p. 29.
 
 Het verstrekken van informatie uit eigen beweging is voor elk bestuursorgaan dan ook een verplichting, die ontstaat zodra het verstrekken in het belang is van een goede en democratische bestuursvoering. Wanneer en onder welke voorwaarden daarvan sprake is, staat echter niet vast. Aan het motief van een goede en democratische bestuursvoering vindt geen toetsing plaats, omdat het belang van openbaarheid van overheidsinformatie nu eenmaal uitgangspunt is.5Openbaarheid van bestuur, Koninklijke Vermande, Sdu Uitgevers 2003, toelichting bij artikel 8 van de Wob. Het publieke belang van een goede en democratische bestuursvoering wordt door de Wob namelijk voorondersteld. De naleving van de plicht tot actieve openbaarmaking is echter niet rechtens afdwingbaar.
 
+Bij actieve openbaarmaking is een bestuursorgaan voorts gebonden aan de uitzonderingsgronden van de [artikelen 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10). Dit volgt uit de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 31 mei 2006, waarin de Afdeling overwoog dat:
+
+‘[Artikel 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), dat betrekking heeft op het verstrekken van informatie ingevolge die wet, biedt geen aanknopingspunten voor het oordeel dat de in die bepaling gevergde afweging niet ook dient plaats te vinden indien het bestuur eigener beweging voornemens is tot het openbaar maken, op voet van [artikel 8, eerste lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8), van informatie neergelegd in documenten over een bestuurlijke aangelegenheid, waarbij in [artikel 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) vermelde belangen zijn betrokken. Ook in dat geval dient derhalve met het oog op die belangen een afgewogen besluitvorming plaats te vinden.’6In zaak no. 200505388/1, www.raadvanstate.nl.
+
+In het eerste lid van [artikel 10 van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) zijn de absolute weigeringsgronden neergelegd: wanneer een van de daarin genoemde gevallen zich voordoet, blijft het verstrekken van informatie zonder meer achterwege. Dit is bijvoorbeeld het geval als sprake is van bijzondere persoonsgegevens in de zin van [paragraaf 2 van hoofdstuk 2 van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&paragraaf=2). [Artikel 10, tweede lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=10) vermeldt de relatieve uitzonderingsgronden: vóór het uit eigen beweging verstrekken van informatie moet het bestuursorgaan nagaan of de in het artikel onder a tot en met g genoemde belangen aan openbaarmaking in de weg staan. Een afweging moet worden gemaakt tussen het specifieke belang dat met geheimhouding van de informatie wordt gediend en het publieke belang van de openbaarheid van de gevraagde informatie.
+
+[Artikel 8, tweede lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) stelt voorwaarden aan de vorm waarin en de wijze waarop de overheidsinformatie actief openbaar wordt gemaakt. Volledigheidshalve wordt nog opgemerkt dat [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=9) ten slotte het actief openbaarmaken van adviezen van niet-ambtelijke adviescommissies regelt.
+
 ### II. Eerbiediging van de persoonlijke levenssfeer
 
 Het recht op eerbiediging van de persoonlijke levenssfeer wordt erkend in bijvoorbeeld [artikel 10 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=10) en artikel 8 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: het EVRM). De betekenis van het recht op eerbiediging van de persoonlijke levenssfeer is van verstrekkend belang, met name door de extensieve interpretatie die het Europees Hof voor de rechten van de mens (hierna: het EHRM) daaraan geeft. Artikel 8 eist dat als een inbreuk op het recht van eerbiediging van de persoonlijke levenssfeer plaatsvindt, deze voorzien moet zijn in de wet en noodzakelijk moet zijn op grond van een aantal nader aangegeven gronden.7Tekst en toelichting Wet bescherming persoonsgegevens, T. Hooghiemstra en S. Nouwt, Sdu Uitgevers 2007, p. 16.
+
+Persoonsgegevens maken deel uit van de persoonlijke levenssfeer. Een ieder heeft het recht op bescherming tegen de ongebreidelde vergaring, bewerking en verspreiding van zijn persoonsgegevens. Daartoe strekt kort gezegd de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Dat betekent dat die wet aangeeft wat de rechten zijn van iemand van wie gegevens worden gebruikt en wat de plichten zijn van de instanties of bedrijven die deze gegevens gebruiken. Gegevens moeten op een behoorlijke en zorgvuldige manier en in overeenstemming met de Wbp en toepasselijke andere wetten worden verwerkt. Voordat een verantwoordelijke persoonsgegevens mag verzamelen, moet hij eerst bepalen voor welk doel of doelen hij dat doet. Daarmee vormt de Wbp een uitvloeisel van het recht dat artikel 8 van het EVRM beoogt te waarborgen.
+
+Anders gezegd: de normen die ten grondslag liggen aan artikel 8 van het EVRM liggen ook ten grondslag aan de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), specificiek daar waar het om bescherming van persoonsgegevens gaat. In het bijzonder zijn het proportionaliteits- en subsidiariteitsbeginsel van belang.
 
 ### III. Samenloop actieve openbaarmaking en eerbiediging van de persoonlijke levenssfeer
 
@@ -87,7 +81,19 @@ Sinds de eeuwwisseling is het beleid van de overheid sterk gericht op een optima
 
 In de rechtspraak zijn de volgende, hier relevante, uitgangspunten van de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) ontwikkeld:
 
+- – openbaarheid is hoofdregel;
+
+- – het belang van degene die om de openbaarheid vraagt speelt geen rol;
+
+- – openbaar voor de één betekent openbaar voor een ieder, en
+
+- – eens openbaar, altijd openbaar.
+
 Het eerste uitgangspunt van de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is verwoord in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=2). Informatie over het handelen van de overheid is openbaar, tenzij er redenen zijn om informatie niet openbaar te maken. De [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) geeft daarmee uitvoering aan [artikel 110 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=110).
+
+Ten aanzien van het tweede uitgangspunt overwoog de Afdeling herhaaldelijk:
+
+‘Vooropgesteld wordt dat het recht op openbaarmaking op grond van de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) uitsluitend het publieke belang van een goede en democratische bestuursvoering dient, welk belang de Wob vooronderstelt. Daarom kan ten aanzien van de openbaarmaking geen onderscheid worden gemaakt naar gelang de persoon of de oogmerken van de verzoeker.’11Bijvoorbeeld de uitspraak van de Afdeling van 20 december 2006 in zaak no. 200605082/1, www.raadvanstate.nl.
 
 Niet vereist is dan ook dat bij een verzoek om openbaarheid aangegeven wordt waarom men over de verzochte informatie wenst te beschikken. Het recht op openbaarmaking komt iedere burger voorts in gelijke mate toe. Tot slot kan worden gesteld dat wanneer informatie eenmaal openbaar is gemaakt, deze daarna altijd openbaar is. Hiervoor maakt het geen verschil of die informatie in eerdere instantie op verzoek is verstrekt dan wel uit eigen beweging door het bestuursorgaan openbaar is gemaakt.
 
@@ -97,13 +103,21 @@ Voor de betekenis van het recht op eerbiediging van de persoonlijke levenssfeer 
 
 Van belang is of sprake is van:
 
+- – een inmenging in het privéleven van de betrokkene
+
+- – die noodzakelijk is in een democratische samenleving.
+
 Wat betreft de eerste voorwaarde wordt opgemerkt dat bij actieve openbaarmaking sprake kan zijn van een inmenging. Deze inmenging vindt haar grondslag in [artikel 8, eerste lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8). Verder is van belang dat het begrip ‘privéleven’ dezelfde betekenis heeft als de term ‘persoonlijke levenssfeer’ in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).12Grondrechten: Grondrechten en grondrechtsbescherming in Nederland, P.W.C. Akkermans, C.J. Bax en L.F.M. Verhey, Kluwer 2005, p. 102. De term ‘persoonlijke levenssfeer’, is, zoals gezegd, ruimer dan het begrip ‘persoonsgegeven’, zoals dat in de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) voorkomt. Het omvat onder meer ook de bescherming van het recht op een identiteit, persoonlijke ontwikkeling en het recht om relaties aan te gaan en te ontwikkelen met andere mensen. Daarnaast bestaat er geen principiële reden waarom het begrip ‘persoonlijke levenssfeer’ geen beroeps- of handelsactiviteiten zou omvatten.13Zie bijvoorbeeld de uitspraken van het EHRM van 16 december 1992 (Niemitz tegen Duitsland), 16 februari 2000 (Amann tegen Zwitserland), 4 mei 2000 (Rotaru tegen Roemenië) en 28 januari 2003 (Peck tegen Verenigd Koninkrijk), www.echr.coe.int/echr/.
 
 Bij de tweede voorwaarde spelen het proportionaliteits- en subsidiariteitsbeginsel een belangrijke rol. De inbreuk op het belang van eerbiediging van de persoonlijke levenssfeer mag niet onevenredig zijn in verhouding tot het belang van openbaarheid. Het doel waarvoor de persoonsgegevens worden verwerkt, namelijk dat belang van openbaarheid, moet in redelijkheid niet op een andere, voor de betrokkene minder verstrekkende manier kunnen worden bereikt. Wordt na het maken van deze afweging tot openbaarmaking overgegaan, dan is van belang dat het bestuursorgaan in redelijkheid alle mogelijkheden benut om de inbreuk op het belang van eerbiediging van de persoonlijke levenssfeer te beperken. Deze aldus mede op artikel 8 van het EVRM gestoelde beginselen nemen ook in de Wbp een centrale positie in. Op veel plaatsen in de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) wordt de verwerking van persoonsgegevens aan het noodzakelijkheidscriterium gebonden.14Tekst en toelichting Wet bescherming persoonsgegevens, T. Hooghiemstra en S. Nouwt, Sdu Uitgevers 2007, p. 17. Ook in de rechtspraak komt naar voren dat het toetsingskader van artikel 8 EVRM niet wezenlijk verschilt van het kader dat op grond van de Wbp moet worden gehanteerd.15Uitspraak van de Centrale Raad van Beroep van 10 juli 2008, LJN: BD8005, www.rechtspraak.nl.
 
 ### VI. Toestemming en functionele gegevens
 
+Toestemming
+
 [Artikel 10, derde lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) bepaalt dat toestemming van de betrokkene ertoe leidt dat eerbiediging van zijn of haar persoonlijke levenssfeer per definitie niet in de weg staat aan actieve openbaarmaking. Op grond van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) geldt dat een van betrokkene verkregen toestemming ondubbelzinnig moet zijn. Het bestuursorgaan mag niet uitgaan van het principe ‘wie zwijgt, stemt toe’, maar moet elke twijfel uitsluiten over de vraag of de betrokkene toestemming heeft gegeven, en zo ja, voor welke specifieke verwerkingen die geldt. Een eenmaal gegeven toestemming kan te allen tijde worden ingetrokken. Met het oog op de mogelijkheid tot intrekking van een in eerste instantie verleende toestemming, doet het bestuursorgaan er verstandig aan een adequate technische procedure in te richten om de informatie in dat geval van het internet te kunnen verwijderen.
+
+Beroepshalve functioneren
 
 De persoonlijke levenssfeer van een betrokkene is in het algemeen niet in het geding voor zover het uitsluitend zijn beroepshalve functioneren betreft.16Uitspraken van de Afdeling van 18 december 2002 in zaak nos. 200104209/1 en 200104210/1, LJN: AF2070, JB 2003, 40. Van belang is of het persoonsgegeven te beschouwen is als een aspect van het beroepshalve functioneren. Ten aanzien van het ambtelijk beroepshalve functioneren kan in beginsel geen beroep worden gedaan op de persoonlijke levenssfeer als weigeringsgrond voor openbaarmaking. Bestuurders en ambtenaren in functie worden aangemerkt als publieke personen. Bij het handelen uit hoofde van hun functie komt aan deze publieke functionarissen dus een verminderde aanspraak op bescherming van hun persoonsgegevens toe. Omdat niet elke ambtenaar een even grote rol speelt in het publieke domein, moet rekening worden gehouden met de ‘publieke exposure’ van de betreffende persoon. Dit betekent dat naarmate een ambtenaar meer bij het publiek bekend is, zijn persoonsgegevens minder bescherming genieten. Onderscheid moet dan ook worden gemaakt al naar gelang de publieke bekendheid van de betreffende functionaris.
 
@@ -119,6 +133,12 @@ Voorop staat voorts dat beide rechten nevengeschikt aan elkaar zijn. Het uitgang
 
 Kort gezegd moet er een toetsing plaatsvinden die ertoe leidt dat een van beide rechten, gelet op alle relevante omstandigheden, zwaarder weegt dan het andere recht. De toetsing moet ertoe leiden dat de inbreuk op het andere recht voldoet aan het noodzakelijkheidscriterium van artikel 8 van het EVRM.22Zie ook de uitspraak van de Hoge Raad van 18 januari 2008, LJN: BB3210, www.rechtspraak.nl.
 
+De rechtspraak laat zien dat bij de toetsing een aantal wegingsfactoren van belang kan zijn.
+
+In de situatie waarin openbaarmaking, gelet op eerbiediging van de persoonlijke levenssfeer, achterwege blijft, speelt allereerst de vraag of sprake is van strikt persoonlijke gegevens. Vervolgens rijst de vraag of van de openbaarmaking van die gegevens verdere persoonsgegevens herleidbaar zijn, zodat de betrokkene geïdentificeerd kan worden. Aan de hand van bijvoorbeeld alleen een naam kunnen op internet eenvoudig meer gegevens over een betrokkene worden gevonden. Als dat het geval is, weegt het belang van openbaarheid vaker niet op tegen het belang van eerbiediging van de persoonlijke levenssfeer. De volgende gevallen onderstrepen dat:
+
+NAW-gegevens zittingslijsten huurcommissie:
+
 In dit geval speelde de vraag of zittingslijsten van een huurcommissie openbaar konden worden gemaakt. De Afdeling concludeert dat verstrekking van de naw-gegevens een inbreuk zou maken op de persoonlijke levenssfeer van de betrokken personen. Aan het belang van eerbiediging van de persoonlijke levenssfeer moet dan ook een zwaarder gewicht worden toegekend dan aan het belang van openbaarmaking van de zittingslijsten.
 
 De Afdeling overwoog dat:
@@ -129,6 +149,8 @@ en:
 
 ‘Appellante heeft ter zitting van de Afdeling bepleit dat uitsluitend de adresgegevens openbaar worden gemaakt. Ook in dat geval evenwel zijn de belangen als bedoeld in genoemd artikel in geding, reeds omdat niet valt uit te sluiten dat aan de hand van die adresgegevens de verdere persoonsgegevens van een betrokkene herleidbaar zijn. Derhalve mocht ook ten aanzien van de adresgegevens aan die belangen een zwaarder gewicht worden toegekend dan aan het belang bij openbaarmaking ervan.’23Uitspraak van de Afdeling van 19 september 2007 in zaak no. 200608266/1, www.raadvanstate.nl. Zie ook zaak no. 200300077/1, www.raadvanstate.nl.
 
+Kenteken voertuig
+
 In een geval waarin om openbaarmaking van het kenteken van een voertuig werd gevraagd stelde de Afdeling weer de vraag centraal of de betrokken persoon met het verstrekken van dat gegeven kon worden geïdentificeerd.
 
 De Afdeling overwoog dat:
@@ -136,6 +158,8 @@ De Afdeling overwoog dat:
 ‘[...] openbaarmaking van het kenteken van het voertuig het belang van de eerbiediging van de persoonlijke levenssfeer kan schaden nu de identiteit van de bestuurder van dat voertuig achterhaald zou kunnen worden indien het kenteken openbaar zou worden gemaakt.’24Uitspraak van de Afdeling van 9 juni 2004 in zaak no. 200305162/1, www.raadvanstate.nl.
 
 Om die reden prevaleert volgens de Afdeling het belang van eerbiediging van de persoonlijke levenssfeer.
+
+Tenaamstelling rekening en verdere verstrekking van betalingsomschrijvingen:
 
 Ook de vraag of bij het openbaarmaken van informatie over een betaling alle op een bankafschrift vermelde betalingen en de naam van de persoon om wiens rekening het gaat moeten worden verstrekt, beantwoordde de Afdeling ontkennend.
 
@@ -145,6 +169,8 @@ De Afdeling overwoog dat:
 
 Ter verduidelijking kan worden opgemerkt dat de belangenafweging er zelden toe leidt dat de overheidsinformatie in het geheel niet openbaar wordt gemaakt. Slechts in een enkel geval is dat aan de orde geweest:
 
+Anonieme briefschrijver:
+
 In dit geval ging het om het achterwege laten van openbaarmaking van een met de hand geschreven anonieme tip. Een letterlijke weergave van de inhoud van de anonieme tip werd wel verstrekt.
 
 Mede daarom overwoog de Afdeling dat:
@@ -153,9 +179,13 @@ Mede daarom overwoog de Afdeling dat:
 
 Veelal kan echter worden volstaan met het ‘weglakken’ van de persoonsgegevens. Als het belang van de persoonlijke levenssfeer in het geding is, moet het bestuursorgaan dan ook nagaan of openbaarmaking toch mogelijk is met weglating van gegevens die de persoonlijke levenssfeer kunnen bedreigen dan wel door de openbaarmaking te beperken tot gedeelten van documenten. Met andere woorden: de vraag rijst dan of anonimisering van gegevens of beperking van de openbaarmaking tot gedeelten van deze documenten soelaas kan bieden. Daarvoor is vaak weer van belang of reeds bekend is op welke persoon de gegevens betrekking hebben.
 
+Privé rittenadministratie Minister:
+
 Ten aanzien van de weigering om informatie uit de rittenadministratie van een minister over plaatsen en personen die hij privé bezocht, openbaar te maken overwoog de Afdeling dat:
 
 ‘Hoewel in aanmerking wordt genomen dat de gevraagde informatie dienstig kan zijn aan de mogelijkheid tot controle van het gebruik van publieke middelen en gedragingen van de Minister die zijn functioneren als Minister raken, levert het door NRC aangevoerde geen grond op voor het oordeel dat de Minister zich niet in redelijkheid op het standpunt heeft kunnen stellen dat openbaarmaking van plaatsen en personen die hij privé met de dienstauto heeft bezocht een zodanige inbreuk op zijn persoonlijke levenssfeer zou betekenen, dat het belang dat met het verstrekken van de gevraagde informatie is gediend, hier in dit geval niet tegen opweegt. De Minister stelt zich terecht op het standpunt dat het weglaten van concrete adressen, voor zover deze in de rittenadministratie zijn vermeld, geen oplossing biedt, omdat ook door kennisneming van de plaatsen waarheen de Minister zich beweegt, al dan niet in combinatie met anderszins bekende gegevens, ook het doel van de reis bekend kan worden.’27Uitspraak van de Afdeling van 15 juni 2006 in zaak no. 200601804/1, www.raadvanstate.nl.
+
+Schoolgegevens:
 
 In dit geval speelde de vraag of aan een vader de adresgegevens van de school waarop zijn dochter in een bepaalde periode heeft gezeten openbaar gemaakt konden worden.
 
@@ -165,13 +195,19 @@ De Afdeling overwoog:
 
 Uit de volgende uitspraken blijkt dat in andere gevallen het belang van eerbiediging van de persoonlijke levenssfeer niet aan openbaarmaking in de weg staat:
 
+Integriteit van de overheid:
+
 De integriteit van een gemeente was in het spel bij het (volledig) openbaarmaken van een rapport over mogelijke belangenverstrengeling van een ambtenaar. De Afdeling kende het belang van openbaarheid om die reden een doorslaggevend gewicht toe. Ze overwoog dat:
 
 ‘Ten aanzien van het hoger beroep van het college deelt de Afdeling het oordeel van de rechtbank dat appellant sub 2 een belang heeft, als bedoeld in [artikel 10, tweede lid, aanhef en onder e, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), bij weglating van zijn naam uit het rapport. Anders dan de rechtbank ziet de Afdeling evenwel onvoldoende grond voor het oordeel dat het college hieraan een zwaarder gewicht had moeten toekennen dan het in het bij de rechtbank bestreden besluit heeft gedaan. Bij dit oordeel heeft de Afdeling in aanmerking genomen het uitgangspunt van de [Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en hetgeen door het college in het primaire besluit en het besluit op bezwaar ter motivering van publicatie van de naam van appellant sub 2 is aangevoerd, in het bijzonder de omstandigheid dat in dit geval de integriteit van het openbaar bestuur in geding is, dat daarover in openbaarheid commotie was ontstaan, waarbij ook namen zijn genoemd en dat het daarom van groot belang was het publiek duidelijkheid te verschaffen over wat wel is gebeurd en wat niet. De rechtbank is dan ook ten onrechte overgegaan tot vernietiging van het besluit wegens strijd met artikel 10, tweede lid, aanhef en onder e, van de Wob.’29Uitspraak van de Afdeling van 31 mei 2006 in zaak no. 200505388/1, www.raadvanstate.nl.
 
+Stamboomgegevens:
+
 Een verzoek om openbaarmaking van informatie met betrekking tot het besluit tot inlijving van een bepaalde familie in de Nederlandse adel gaf aanleiding tot het volgende oordeel van de Afdeling:
 
 ‘Daar komt bij dat de Afdeling, na met toepassing van [artikel 8:29 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:29) van de vertrouwelijk overgelegde stukken kennis te hebben genomen, het niet genoegzaam gemotiveerd acht dat het belang van eerbiediging van de persoonlijke levenssfeer ten aanzien van alle documenten moet prevaleren boven het belang van openbaarheid. Dit geldt in het bijzonder de in de stukken voorkomende stamboomgegevens. Hierbij neemt de Afdeling in aanmerking dat aan deze stamboomgegevens bij de bestuurlijke besluitvorming naar aanleiding van een inlijvingsverzoek doorslaggevende betekenis toekomt, en dat de publieke controle van inlijvingsbesluiten wordt bemoeilijkt als openbaarmaking van deze gegevens wordt geweigerd. Daarnaast kent de Afdeling gewicht toe aan de omstandigheid dat degene die een inlijvingsverzoek doet, besluitvorming initieert op grond van gegevens die weliswaar van min of meer persoonlijke aard zijn, doch het privéleven niet in zodanige mate raken dat het belang uit dien hoofde bij geheimhouding zonder meer moet prevaleren boven het belang van openbaarmaking ten dienste van publieke controle van die besluitvorming. Voorts blijkt uit de door [appellant] overgelegde nadere stukken, dat de minister in het verleden naar aanleiding van een ander verzoek om openbaarmaking de stamboomgegevens vervat in een inlijvingsverzoek van een andere familie openbaar heeft gemaakt. De minister heeft niet duidelijk kunnen maken waarom destijds wel tot openbaarmaking is overgegaan en openbaarmaking in dit geval is geweigerd.’30Uitspraak van de Afdeling van 13 augustus 2008 in zaak no. 200800078/1, www.raadvanstate.nl.
+
+Woonplaats en geboortejaar verlofhouders:
 
 In dit geval ging het om informatie over verleende (en geweigerde) verloven tot het voorhanden hebben van een vuurwapen. De Afdeling overwoog dat niet ten aanzien van alle persoonsgegevens het belang van eerbiediging van de persoonlijke levensfeer van de verlofhouders zwaarder moest wegen:
 
@@ -193,6 +229,10 @@ Als het bestuursorgaan toch tot het openbaarmaken van de persoonsgegevens op int
 
 Hier ligt een parallel met de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Op grond van [artikel 11, eerste lid, van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=11) moeten op internet gepubliceerde gegevens namelijk ter zake dienend en niet bovenmatig zijn. Bij beantwoording van de vraag of het openbaarmaken van persoonsgegevens op internet noodzakelijk is, is van belang te beoordelen of het openbaarmaken van (een aantal van) die gegevens niet bovenmatig is aan het doeleinde. Dat kan bijvoorbeeld het geval zijn bij een bsn-nummer, adresgegevens en de ‘natte’ handtekening. Het doel van actieve openbaarmaking, namelijk het belang van openbaarheid, kan in redelijkheid ook bereikt worden door die gegevens weg te lakken.
 
+Een voorbeeld is het publiceren van brieven die burgers aan de gemeenteraad hebben gestuurd.
+
+Vaak worden dat soort brieven onverkort op internet geplaatst. In het licht van het voorgaande leidt de belangenafweging er echter toe dat er geen noodzaak is om ook de naw-gegevens en ‘natte’ handtekening van de afzender van de brief op internet te plaatsen. Ditzelfde geldt voor het op internet plaatsen van bezwaarschriften, zodat de persoonsgegevens van bezwaarmakers openbaar worden gemaakt. Wat betreft de wijze van actief openbaarmaken voldoet het op internet integraal publiceren van ingescande documenten doorgaans niet aan de vereisten van proportionaliteit en subsidiariteit. Het belang van openbaarheid vereist niet dat bekend wordt wie de brief heeft geschreven, waar die persoon woont en hoe zijn/haar handtekening eruit ziet.
+
 Een oplossing bestaat er in dat het bestuursorgaan bijvoorbeeld bij het opstellen en ontwerpen van de betreffende documenten en formulieren rekening houdt met het belang van eerbiediging van de persoonlijke levenssfeer. Bijvoorbeeld door de gegevens bij het inscannen al af te schermen of de documenten te anonimiseren. Ook kan ten aanzien van een aantal gegevens toestemming worden gevraagd voor het actief openbaarmaken.
 
 Als anonimisering van gegevens onvoldoende bijdraagt aan bescherming van de persoonlijke levenssfeer van de betrokkene, bijvoorbeeld omdat al bekend is op wie de gegevens betrekking hebben, kan het doorhalen van delen van documenten (voor het overige) wellicht wel in aanmerking komen. De openbaarmaking wordt dan beperkt tot gedeelten van de overheidsinformatie.
@@ -203,7 +243,19 @@ Zoals gezegd leidt de belangenafweging alleen tot beantwoording van de vraag of 
 
 ### IX. Praktijkvoorbeeld
 
-**‘Dit rechtvaardigt niet zonder meer dat alle persoonsgegevens waarvan de gemeente gebruik heeft gemaakt in de procedure voor het verlenen van de bouwvergunning – gegevens die op goede gronden in het bouwregister voorkomen – opgenomen worden in het via internet toegankelijke Digitaal Bouwarchief. Dat de gemeente bepaalde persoonsgegevens noodzakelijkerwijs mag opnemen (in het analoge archief, red.) betekent namelijk op zich niet dat de gemeente die gegevens ook, al dan niet beperkt, aan anderen ter beschikking mag stellen.’** 35 Rapport College bescherming persoonsgegevens, Ambtshalve onderzoek naar Procedures Online en Digitaal Bouwarchief van de gemeente Nijmegen, 10 maart 2008, z2007-00238.
+Digitaal Bouwarchief
+
+Het onderscheid tussen een wettelijke plicht om bepaalde persoonsgegevens te verzamelen, zoals bij actieve openbaarmaking, en de publicatie ervan op internet speelde een belangrijke rol in het onderzoek dat het CBP in 2005 deed naar de publicatie op internet van (aanvragen voor) bouwvergunningen door de gemeente Nijmegen. De gemeente Nijmegen heeft naar aanleiding van bezwaren van enkele tientallen personen het Digitaal Bouwarchief uiteindelijk aangepast. Het Bouwarchief voldoet nu aan de eisen van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468). Het CBP heeft de gemeente gewezen op het belang van eerbiediging van de persoonlijke levenssfeer van burgers bij het publiceren van gegevens op internet.
+
+De gemeente wilde met het Digitaal Bouwarchief een weergave presenteren van de gebouwde stad. Het Digitale Bouwarchief is dusdanig aangepast dat de aanvraag en bouwvergunning niet bewerkt kunnen worden en ook niet kunnen worden doorzocht. Ook is het Digitaal Bouwarchief onbereikbaar gemaakt voor zoekmachines op internet en kan er alleen worden gezocht op adres en maar op één adres tegelijk.
+
+Er is naar het oordeel van het CBP een wezenlijk verschil tussen een openbaar register en een register publiceren op internet. Het CBP stelde vast dat er wel een wettelijke verplichting was tot het bijhouden van een bouwregister, maar geen wettelijke verplichting om alle documenten integraal op internet te publiceren. In dat onderzoek schreef het CBP:
+
+*‘Dit rechtvaardigt niet zonder meer dat alle persoonsgegevens waarvan de gemeente gebruik heeft gemaakt in de procedure voor het verlenen van de bouwvergunning – gegevens die op goede gronden in het bouwregister voorkomen – opgenomen worden in het via internet toegankelijke Digitaal Bouwarchief. Dat de gemeente bepaalde persoonsgegevens noodzakelijkerwijs mag opnemen (in het analoge archief, red.) betekent namelijk op zich niet dat de gemeente die gegevens ook, al dan niet beperkt, aan anderen ter beschikking mag stellen.’*
+ 35
+ Rapport College bescherming persoonsgegevens, Ambtshalve onderzoek naar Procedures Online en Digitaal Bouwarchief van de gemeente Nijmegen, 10 maart 2008, z2007-00238.
+
+Nieuw aanvraagformulier bouwvergunning
 
 Gemeenten zijn op grond van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) verplicht een openbaar register bij te houden met aantekening van alle aangevraagde en verleende bouwvergunningen. Het is de keuze van het college van burgemeester en wethouders om een digitaal bouwarchief op te zetten en toegankelijk te maken via internet. De gemeente moet een zorgvuldige afweging maken tussen het belang van deze vorm van openbaarheid en het belang van de privacy van de burgers aan wie een bouwvergunning is verleend. Die afweging leidt ertoe dat de persoonsgegevens die de gemeente nodig heeft voor de verlening van een bouwvergunning niet één op één mogen worden opgenomen in het Digitale Bouwarchief. Het is bijvoorbeeld niet noodzakelijk om telefoonnummers en e-mailadressen in dit via internet te raadplegen register op te nemen.
 
@@ -219,4 +271,62 @@ Deze nieuwe richtsnoeren vormen in dat opzicht een aanvulling op de Richtsnoeren
 
 Bestuursorganen die in het kader van hun actieve openbaarmakingsplicht persoonsgegevens op internet willen publiceren, moeten zich op grond van de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan de volgende regels houden, wil sprake zijn van een rechtmatige verwerking, zoals bedoeld in die wet:
 
+Voorafgaand aan publicatie:
+
+- 1. Beoordeel of u op grond van [artikel 8, eerste lid, van de Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8) een plicht tot actieve openbaarmaking heeft (§ I):
+
+   - – Gaat de openbaar te maken informatie over het beleid, de voorbereiding en uitvoering daaronder begrepen?
+
+   - – Is de openbaarmaking in het belang van een goede en democratische bestuursvoering?
+
+- 2. Beoordeel of de eerbiediging van de persoonlijke levenssfeer een rol speelt (§ II):
+
+   - – Bevat de actief openbaar te maken overheidsinformatie bijvoorbeeld persoonsgegevens?
+
+- 3. Weeg het belang van openbaarheid af tegen het belang van eerbiediging van de persoonlijke levenssfeer (§ III/IV/V):
+
+   - – Doe dat per concreet (onderdeel van een) document en
+
+   - – Ten aanzien van de persoonlijke levenssfeer van ieder van de in de overheidsinformatie genoemde personen.
+
+- 4. Ga daarbij na of de betrokkene (ondubbelzinnig) toestemming heeft verleend (§ VI):
+
+   - – Zo nee en bij twijfel: weeg voornoemde belangen af;
+
+   - – Zo ja: eerbiediging van de persoonlijke levenssfeer staat niet in de weg aan actieve openbaarmaking van persoonsgegevens.
+
+- 5. Beoordeel of sprake is van beroepshalve functioneren (§ VI):
+
+   - – Zo nee en bij twijfel: houd rekening met de publieke bekendheid van de betrokkene en het onderscheid tussen functionele en strikt persoonlijke gegevens;
+
+   - – Zo ja: eerbiediging van de persoonlijke levenssfeer staat niet in de weg aan actieve openbaarmaking van persoonsgegevens.
+
+- 6. Maak de belangenafweging ‘Wbp-proof’ (§ VII/VIII):
+
+   - – Pas het proportionaliteits- en subsidiariteitsbeginsel onverkort toe. Vermijd een inbreuk op het recht op eerbiediging van de persoonlijke levenssfeer. Mocht het maken van een inbreuk onvermijdelijk zijn, probeer deze dan in ieder geval te beperken;
+
+   - – Betrek de wijze van openbaarmaking bij de belangenafweging. Is internet het geëigende middel?
+
+   - – Zo ja, anonimiseer de openbaar te maken overheidsinformatie. Maak gegevens als burgerservicenummer, handtekening, naam-, adres- en contactgegevens niet openbaar. Bedenk daarbij dat toestemming mogelijk van belang is.
+
+   - – Is reeds bekend op wie de gegevens betrekking hebben? Maak dan slechts gedeelten van de overheidsinformatie openbaar.
+
+Bij publicatie
+
 Bij deze en de volgende fase zijn de Richtsnoeren I van toepassing. Dat betekent:
+
+- 7. Tref beveiligingsmaatregelen tegen onbevoegd gebruik (hoofdstuk II, § 8 van de Richtsnoeren I).
+
+- 8. Leef de informatieplicht na (hoofdstuk II, § 5 van de Richtsnoeren I).
+
+- 9. Waarborg de kwaliteit en juistheid van de gepubliceerde persoonsgegevens (hoofdstuk II, § 7 van de Richtsnoeren I).
+
+- 10. Ga na of de meldingsplicht van toepassing is op de voorgenomen actieve openbaarmaking (hoofdstuk II, § 6 van de Richtsnoeren I). Bij verwerkingen in het kader van actieve openbaarmaking zal dat, gelet op het Vrijstellingsbesluit, niet vaak het geval zijn.
+
+Volgend op publicatie
+
+- 11. Verwijder onrechtmatig gepubliceerde persoonsgegevens (hoofdstuk II, § 9 van de Richtsnoeren I)
+
+- 12. Voldoe aan verzoeken tot inzage, verwijdering, verbetering, aanvulling of afscherming van persoonsgegevens (hoofdstuk III van de Richtsnoeren I).
+
+- 13. Wees er bewust van dat het stelsel van rechtsbescherming onder de [Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) omvangrijk is. Bovendien kent die wet het CBP middelen, zoals het opleggen van een last onder dwangsom, toe om zijn handhavende taak te vervullen (hoofdstuk VI van de Richtsnoeren I).

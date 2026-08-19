@@ -1,52 +1,26 @@
 ---
 title: "Besluit W.V.C.-commissie bezwaarschriften Awb"
+citeertitel: "Besluit VWS-commissie bezwaarschriften Awb"
 identifier: "BWBR0032632"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-12-28"
-last_updated: "2012-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032632"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "12009693"
-version_id: "19985382"
-internal_id: "C28082781"
-label_id: "11981534"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032632/2012-12-28/0"
-intitule_bron: "Stcrt.2012-27006"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-13"
-intitule_published: "2012-12-27"
-intitule_in_force: "2012-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-27006"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-27006"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBR0032632&z=2012-12-28&g=2012-12-28"
-jci_1_0: "1.0:c:BWBR0032632&g=2012-12-28"
-citeertitel_status: "officieel"
-short_title: "Besluit VWS-commissie bezwaarschriften Awb"
-signed_date: "2012-12-13"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 2012-12-28
+status: geldig
+toestand: 2012-12-28
+bron: "https://wetten.overheid.nl/BWBR0032632"
+opgehaald: 2026-08-19
 ---
+
 # Besluit W.V.C.-commissie bezwaarschriften Awb
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsomschrijving
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **de commissie:** de VWS-commissie bezwaarschriften Awb.
+- b. *de commissie:* de VWS-commissie bezwaarschriften Awb.
 
 ##### Artikel 2
 
@@ -88,7 +62,7 @@ De minister voegt aan de commissie een secretariaat toe. Het secretariaat bestaa
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. Vacatiegelden
 
@@ -104,16 +78,16 @@ Dit besluit wordt aangehaald als: Besluit VWS-commissie bezwaarschriften Awb.
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*

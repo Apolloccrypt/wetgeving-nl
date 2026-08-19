@@ -2,11 +2,14 @@
 title: "Aanwijzing review (tweede beoordeling)"
 identifier: "BWBR0032288"
 categorie: "Overig"
+soort: "beleidsregel"
 publicatiedatum: 2013-01-01
 laatste_update: 2013-01-01
 status: vervallen
+vervallen_op: 2026-06-30
+toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032288"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-19
 ---
 
 # Aanwijzing review (tweede beoordeling)
@@ -27,9 +30,9 @@ Wanneer het strafrechtelijk onderzoek naar zware misdrijven die grote maatschapp
 
 Wanneer het strafrechtelijk onderzoek naar zware misdrijven die grote maatschappelijke beroering teweeg brengen, geen duidelijk resultaat heeft opgeleverd, kunnen benadeelden – terecht of onterecht – met twijfels zitten over de kwaliteit van het onderzoek. Openbaar Ministerie en politie zullen al eerder in het onderzoek voor de vraag komen te staan of alle onderzoeksrichtingen zijn uitgediept. Een review (tweede beoordeling) kan daar uitsluitsel over geven.
 
-**Een review is een diepgaande systematische herbeoordeling van alle onderzoeksinformatie en op grond daarvan genomen beslissingen in zowel opsporings- als vervolgingsfase door deskundigen van OM en politie van buiten de politie-eenheid en het parket die het opsporingsonderzoek in de zaak hebben verricht, indien nodig aangevuld met externe deskundigen.**
+*Een review is een diepgaande systematische herbeoordeling van alle onderzoeksinformatie en op grond daarvan genomen beslissingen in zowel opsporings- als vervolgingsfase door deskundigen van OM en politie van buiten de politie-eenheid en het parket die het opsporingsonderzoek in de zaak hebben verricht, indien nodig aangevuld met externe deskundigen.*
 
-Een review is met andere woorden een **totale**, **integrale** herbeoordeling door **externen** in gevallen waarin **nog geen rechterlijke uitspraak** ligt in de hoofdzaak.
+Een review is met andere woorden een *totale*, *integrale* herbeoordeling door *externen* in gevallen waarin *nog geen rechterlijke uitspraak* ligt in de hoofdzaak.
 
 Doel van een review in niet-opgeloste zaken is derhalve het vinden van nieuwe aanknopingspunten voor nader technisch en/of tactisch en/of informatief onderzoek. In zaken waarin een duidelijke verdachte voorhanden is, is het doel een grondige beoordeling of er voldoende bewijs aanwezig is. Bij twijfel wordt nagegaan of in voldoende mate andere onderzoeksrichtingen kunnen worden uitgesloten.
 
@@ -43,11 +46,23 @@ Indien tot een review is besloten, wordt binnen politie en OM gewerkt conform ee
 
 Een review is een zwaar instrument, waarbij een onderzoeksteam wordt vrijgemaakt om een veelal omvangrijk onderzoek opnieuw te bekijken. Daarom is toespitsing gewenst van de gevallen die voor een review in aanmerking komen.
 
-**Er moet sprake zijn van:**
+*Er moet sprake zijn van:*
 
-**Voorts moet er bij genoemde delicten sprake zijn van:**
+- – *Kapitale delicten als een opzettelijk levensdelict, een zeer ernstig zedendelict, brandstichting met ernstige gevolgen, gijzeling, ontvoering en andere misdrijven tegen de lichamelijke integriteit;*
+
+- – *of ernstige slachtofferloze delicten*
+
+*Voorts moet er bij genoemde delicten sprake zijn van:*
+
+- – *een strafbedreiging van 12 jaar gevangenisstraf of meer én*
+
+- – *veel maatschappelijke beroering en een groot afbreukrisico.*
 
 Het verzoek tot het verrichten van een review kan slechts worden ingediend door:
+
+- a) slachtoffers of nabestaanden bij kapitale delicten, indien een onderzoek is vastgelopen en geen verdachte heeft opgeleverd. Het verzoek tot een tweede beoordeling kan derhalve niet worden gehonoreerd indien dit een lopend opsporingsonderzoek doorkruist, of als het verzoek tot een tweede beoordeling in het bijzonder of mede betrekking heeft op een opsporingsonderzoek dat heeft geleid tot strafvorderlijke beslissingen waartegen rechtsmiddelen openstaan of open hebben gestaan.
+
+- b) de hoofdofficier bij kapitale delicten en slachtofferloze delicten, indien een onderzoek vastloopt of dreigt vast te lopen, dan wel de bewijspositie in hoge mate problematisch is (bijvoorbeeld bij een ingetrokken bekentenis in combinatie met mager technisch bewijs). Bij deze verzoeken staat het maatschappelijk belang van eenduidige vaststelling van het onderzoeksresultaat voorop.
 
 ### 3. Besluitvorming
 
@@ -87,17 +102,29 @@ Onderstaand kader reikt de minimale vereisten en vaste ijkpunten aan voor de inz
 
 ### 1. Omschrijving en inzetcriteria
 
-**Een review is een diepgaande systematische herbeoordeling van alle onderzoeksinformatie en op grond daarvan genomen beslissingen in zowel opsporing- en vervolgingsfase door deskundigen van OM en politie van buiten de politieeenheid en het parket die het opsporingsonderzoek in de zaak hebben verricht , indien nodig aangevuld met externe deskundigen.**
+*Een review is een diepgaande systematische herbeoordeling van alle onderzoeksinformatie en op grond daarvan genomen beslissingen in zowel opsporing- en vervolgingsfase door deskundigen van OM en politie van buiten de politieeenheid en het parket die het opsporingsonderzoek in de zaak hebben verricht , indien nodig aangevuld met externe deskundigen.*
 
 Doel van een review in niet-opgeloste zaken is derhalve het vinden van nieuwe aanknopingspunten voor nader technisch en/of tactisch en/of informatief onderzoek. In zaken waar een duidelijke verdachte voorhanden is, is het doel een grondige beoordeling of er voldoende bewijs aanwezig is. Bij twijfel wordt nagegaan of in voldoende mate andere onderzoeksrichtingen kunnen worden uitgesloten.
 
-Een review is met andere woorden een **totale**, **integrale** herbeoordeling door **externen** in gevallen waarin **nog geen rechterlijke uitspraak** ligt in de hoofdzaak. Om verwarring bij het publiek te voorkomen, worden andere vormen van tussentijdse beoordeling niet met review aangeduid.1Gedacht wordt o.a. aan thema, voortgang en 28-dagentoets.
+Een review is met andere woorden een *totale*, *integrale* herbeoordeling door *externen* in gevallen waarin *nog geen rechterlijke uitspraak* ligt in de hoofdzaak. Om verwarring bij het publiek te voorkomen, worden andere vormen van tussentijdse beoordeling niet met review aangeduid.1Gedacht wordt o.a. aan thema, voortgang en 28-dagentoets.
 
 Het College van procureurs-generaal kan tot een review besluiten bij:
 
+- • kapitale delicten als een opzettelijk levensdelict, een zeer ernstig zedendelict, brandstichting met ernstige gevolgen, gijzeling, ontvoering en andere misdrijven tegen de lichamelijke integriteit;
+
+- • of ernstige slachtofferloze delicten.
+
 Indien er bij genoemde delicten sprake is van:
 
+- • een strafbedreiging van 12 jaar gevangenisstraf of meer én
+
+- • veel maatschappelijke beroering en een groot afbreukrisico.
+
 Op verzoek van:
+
+- • slachtoffers of nabestaanden bij kapitale delicten, indien een onderzoek is vastgelopen en geen verdachte heeft opgeleverd.
+
+- • de hoofdofficier bij kapitale delicten en slachtofferloze delicten, indien een onderzoek vastloopt of dreigt vast te lopen, dan wel de bewijspositie in hoge mate problematisch is (bijvoorbeeld bij een ingetrokken bekentenis in combinatie met mager technisch bewijs).
 
 Aan de hand van een gemotiveerd advies van de hoofdofficier van justitie die verantwoordelijk is voor het opsporingsonderzoek na overleg met diens politiechef.
 
@@ -131,8 +158,40 @@ Een reviewteam maakt gebruik van een stappenplan om het proces van review te doo
 
 Dat leidt tot de volgende werkwijze:
 
+- • Uit het stappenplan worden alle stappen achtereenvolgens doorgenomen.
+
+- • Pas wanneer ieder lid van de teamleiding het erover eens is (consensus) dat alle mogelijk te verrichten werkzaamheden zijn uitgevoerd en de stap daadwerkelijk is afgerond, wordt overgegaan naar de volgende stap in het stappenplan.
+
+- • Niet elke opgenomen activiteit binnen een beschreven stap hoeft in zijn geheel te worden uitgevoerd als blijkt dat het voor dat onderzoek niet noodzakelijk is.
+
+- • Als blijkt dat een stap binnen het onderzoek niet uitgevoerd hoeft te worden, dan wordt ook dit besluit door de voltallige teamleiding genomen.
+
+- • In het afsprakenjournaal wordt vastgelegd:
+
+   - ♦ Het besluit dat een stap is afgerond.
+
+   - ♦ Het besluit dat activiteiten uit een stap worden overgeslagen en de argumenten daarvoor.
+
+   - ♦ Het besluit dat een stap wordt overgeslagen en de argumenten daarvoor.
+
+- • De uitkomsten van de review worden schriftelijk verstrekt aan het College van procureurs-generaal, dat daarop de desbetreffende hoofdofficier verzoekt na overleg met de politiechef hieraan conclusies te verbinden. De hoofdofficier licht de aanvrager in over de uitkomst van de reviewprocedure. Het reviewrapport wordt, samen met de conclusies van de hoofdofficier, aan het onderzoeksdossier toegevoegd. De officier van justitie bepaalt of en welke delen van het rapport worden toegevoegd aan de processtukken.
+
+- • Het onderzoeksmateriaal van de review wordt bewaard bij de politie-eenheid dat het oorspronkelijke onderzoek heeft uitgevoerd.
+
 ### 6. Mediabeleid
 
 Ten aanzien van de contacten met de pers gelden de volgende afspraken:
 
+- • Het reviewteam onderhoudt géén contacten met de media.
+
+- • Gedurende het onderzoek verlopen contacten via de persvoorlichting van het parket-generaal.
+
+- • Met het opleveren van het reviewrapport en nadat het College van procureurs-generaal kennis heeft kunnen nemen van de conclusies van de hoofdofficier gaat de persvoorlichting weer terug naar het desbetreffende parket en politie-eenheid. De hoofdofficier bepaalt na overleg met de politiechef (mede gelet of het onderzoek wel of geen nieuwe aanknopingspunten heeft opgeleverd) hoe over de uitkomsten van de reviewprocedure wordt bericht.
+
 ### 7. Competenties leden reviewteam
+
+- • De teamleiding wordt aangewezen uit de landelijke pool van tegensprekers.
+
+- • Een algemeen externe referent dient zich op zijn of haar vakgebied te hebben onderscheiden, dit ter beoordeling aan het college van PG’s. Indien een bijzonder specialisme is vereist, wordt in eerste aanleg een beroep gedaan op de landelijke-deskundigenmakelaar.
+
+- • De overige leden van het reviewteam (parketsecretaris, analisten, rechercheurs) dienen te voldoen aan de reguliere eisen ten aanzien van hun functie. Zij dienen bovendien in staat en bereid te zijn om voor een langere periode nauwgezet een (verregaand) verricht onderzoek systematisch na te lopen.

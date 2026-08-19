@@ -1,135 +1,44 @@
 ---
 title: "Wet van 13 december 2012, houdende bepalingen over het accountantsberoep, de Nederlandse beroepsorganisatie van accountants en de Commissie eindtermen accountantsopleiding (Wet op het accountantsberoep)"
+citeertitel: "Wet op het accountantsberoep"
 identifier: "BWBR0032573"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032573"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11988023"
-version_id: "19933982"
-internal_id: "C28034811"
-label_id: "11960764"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032573/2021-07-01/0"
-intitule_bron: "Stb.2012-680"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-13"
-intitule_published: "2012-12-21"
-intitule_in_force: "2012-12-21"
-intitule_status: "goed"
-original_publication: "Stb.2012-680"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "33025"
-original_url_id: "stb-2012-680"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032573&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0032573&g=2021-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet op het accountantsberoep"
-signed_date: "2012-12-13"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0032573"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 13 december 2012, houdende bepalingen over het accountantsberoep, de Nederlandse beroepsorganisatie van accountants en de Commissie eindtermen accountantsopleiding (Wet op het accountantsberoep)
 
 ### Hoofdstuk 1. Definities
-
-### Hoofdstuk 1. Definities
-
-### Hoofdstuk 3. Verordeningen en overige besluiten
-
-### Hoofdstuk 2. De nederlandse beroepsorganisatie van accountants
-
-### Hoofdstuk 5. Bestuurlijk toezicht op de beroepsorganisatie
-
-### Hoofdstuk 6. Het accountantsberoep
-
-### Hoofdstuk 7. De opleiding tot accountant
-
-### Hoofdstuk 8. Overige bepalingen
-
-#### § 2.2. De ledenvergadering
-
-#### § 8.2. Beroep
-
-##### Artikel 57
-
-Vervallen
-
-#### § 8.3. Intrekking en wijziging van wetten
-
-#### § 8.4. Overgangsbepalingen
-
-##### Artikel 70
-
-1. De beroepsorganisatie is de rechtsopvolger onder algemene titel van het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten.
-
-2. Het personeel dat op de datum van inwerkingtreding van deze wet in dienst is bij het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountant-Administratieconsulenten, treedt met ingang van die datum, met behoud van rechten, in dienst bij het bureau van de beroepsorganisatie.
-
-##### Artikel 71
-
-1. Binnen zes maanden na de inwerkingtreding van deze wet belegt het bestuur van de beroepsorganisatie een ledenvergadering waarin in ieder geval de volgende besluiten worden genomen:
-
-- a. het benoemen van de bestuursleden;
-
-- b. het vaststellen van de begroting.
-
-2. In afwijking van [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-07-01&g=2021-07-01), kunnen de door de gezamenlijke ledenvergadering benoemde bestuursleden voor een kortere periode dan vier jaar worden benoemd, in verband met het op te stellen rooster, bedoeld in dat artikel.
-
-3. Tot de benoeming van de bestuursleden, bedoeld in het eerste lid, onder a, wordt het bestuur van de beroepsorganisatie gevormd door de gezamenlijke bestuursleden van het opgeheven Nederlands Instituut van Registeraccountants en de opgeheven Nederlandse Orde van Accountants-Administratieconsulenten.
-
-4. Het bestuur neemt beslissingen ten aanzien van de werkwijze van de ledenvergadering, bedoeld in het eerste lid, waarin bij of krachtens de wet niet is voorzien.
-
-5. De verordeningen en nadere voorschriften van het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten blijven op de beroepsorganisatie, de Registeraccountants, respectievelijk de Accountants-Administratieconsulenten en de accountantsorganisaties van kracht tot drie jaar na de inwerkingtreding van deze wet, tenzij de ledenvergadering, respectievelijk het bestuur deze heeft ingetrokken of gewijzigd.
-
-##### Artikel 72
-
-Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=55) of [artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), zoals die artikelen luidden op het moment van inwerkingtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.3&artikel=58&z=2021-07-01&g=2021-07-01) van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. [Artikel 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
-
-##### Artikel 73
-
-De [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374), de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de daarop berustende bepalingen, blijven van kracht op handelingen en gedragingen van natuurlijke en rechtspersonen, die hebben plaatsgevonden voorafgaand aan het intrekken of vervallen van die bepalingen.
-
-##### Artikel 74
-
-1. Indien de inwerkingtreding van deze wet gedurende een boekjaar van het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountants-Administratieconsulenten plaatsvindt, dan gaat de contributieverplichting van de leden van de op te heffen openbare lichamen voor het resterend deel van het boekjaar voor een evenredig deel over op de leden van de beroepsorganisatie.
-
-2. Het boekjaar van het Nederlands Instituut van Registeraccountants loopt van 1 januari tot en met 31 december.
-
-#### § 8.5. Slotbepalingen
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) en de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) te vervangen door de Wet op het accountantsberoep, waarin het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten worden samengevoegd tot één Nederlandse beroepsorganisatie van accountants;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- –. **accountant:** een Registeraccountant of Accountant-Administratieconsulent;
+- – *accountant:* een Registeraccountant of Accountant-Administratieconsulent;
 
-- –. **accountantskamer:** de accountantskamer te Zwolle, bedoeld in [artikel 10 van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
+- – *accountantskamer:* de accountantskamer te Zwolle, bedoeld in [artikel 10 van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
 
-- –. **accountantsorganisatie:** een accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- – *accountantsorganisatie:* een accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- –. **accountantsregister:** het register, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2021-07-01&g=2021-07-01), waarin de accountants zijn ingeschreven;
+- – *accountantsregister:* het register, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2021-07-01&g=2021-07-01), waarin de accountants zijn ingeschreven;
 
-- –. **Autoriteit Financiële Markten:** de Stichting Autoriteit Financiële Markten;
+- – *Autoriteit Financiële Markten:* de Stichting Autoriteit Financiële Markten;
 
-- –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants;
+- – *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants;
 
-- –. **commissie:** de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2021-07-01&g=2021-07-01);
+- – *commissie:* de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2021-07-01&g=2021-07-01);
 
-- –. **Onze Minister:** Onze Minister van Financiën;
+- – *Onze Minister:* Onze Minister van Financiën;
 
-- –. **wettelijke controle:** een wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
+- – *wettelijke controle:* een wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
+
+### Hoofdstuk 2. De nederlandse beroepsorganisatie van accountants
 
 #### § 2.1. Instelling en taken
 
@@ -156,6 +65,8 @@ De beroepsorganisatie heeft de volgende taken:
 ##### Artikel 4
 
 De beroepsorganisatie heeft een ledenvergadering, een bestuur, een voorzitter, ledengroepen en een bureau.
+
+#### § 2.2. De ledenvergadering
 
 ##### Artikel 5
 
@@ -321,7 +232,7 @@ De voorzitter en de plaatsvervangend voorzitter worden jaarlijks door de ledenve
 
 - k. de beroepsprofielen behorend bij de accountantstitels, genoemd in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2021-07-01&g=2021-07-01);
 
-- l. de inrichting, de wijze van afname en de hoogte van de examengelden van het examen, bedoeld in [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2021-07-01&g=2021-07-01), en de voorwaarden voor het verkrijgen van vrijstellingen van onderdelen daarvan;.
+- l. de inrichting, de wijze van afname en de hoogte van de examengelden van het examen, bedoeld in [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2021-07-01&g=2021-07-01), en de voorwaarden voor het verkrijgen van vrijstellingen van onderdelen daarvan;.
 
 - m. de inhoud van het examen ten behoeve van de verklaring van vakbekwaamheid, bedoeld in [artikel 54, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2021-07-01&g=2021-07-01);
 
@@ -389,7 +300,7 @@ De beroepsorganisatie draagt alle kosten en is gerechtigd tot alle baten, uit de
 
 ##### Artikel 27
 
-Het boekjaar van de beroepsorganisatie loopt van 1 januari tot en met 31 december.
+Het boekjaar van de beroepsorganisatie loopt van 1 januari tot en met 31 december.
 
 ##### Artikel 28
 
@@ -425,7 +336,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 1. Het bestuur zendt de vastgestelde begroting voor aanvang van het boekjaar aan Onze Minister.
 
-2. Het bestuur zendt een verslag over de werkzaamheden van de beroepsorganisatie in het afgelopen boekjaar, tezamen met de jaarrekening en de daarbij behorende accountantsverklaring voor 1 augustus van het jaar volgend op het boekjaar aan Onze Minister.
+2. Het bestuur zendt een verslag over de werkzaamheden van de beroepsorganisatie in het afgelopen boekjaar, tezamen met de jaarrekening en de daarbij behorende accountantsverklaring voor 1 augustus van het jaar volgend op het boekjaar aan Onze Minister.
 
 ##### Artikel 34
 
@@ -513,7 +424,7 @@ Verordeningen en nadere voorschriften worden na vaststelling onverwijld medegede
 
 - e. er, gelet op de antecedenten van de aanvrager, gegronde vrees bestaat dat de aanvrager zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn inschrijving in het accountantsregister op andere wijze de eer van de stand van accountants zal schaden.
 
-2. Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2021-07-01&g=2021-07-01), indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).
+2. Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2021-07-01&g=2021-07-01), indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).
 
 ##### Artikel 40
 
@@ -653,7 +564,7 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 1. Het bestuur van de beroepsorganisatie geeft een verklaring van vakbekwaamheid af aan degene die:
 
-- a. beschikt over een bewijsstuk waaruit blijkt dat hij als wettelijke auditor als bedoeld in artikel 2, onderdeel 2, van [richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad van 17 mei 2006, betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad en houdende intrekking van [Richtlijn 84/253/EEG](31984L0253) van de Raad (PbEU 2006, L 157/87), is toegelaten tot het verrichten van controles als bedoeld in artikel 2, onderdeel 1, van voornoemde richtlijn, in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte; of
+- a. beschikt over een bewijsstuk waaruit blijkt dat hij als wettelijke auditor als bedoeld in artikel 2, onderdeel 2, van richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2006, betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEU 2006, L 157/87), is toegelaten tot het verrichten van controles als bedoeld in artikel 2, onderdeel 1, van voornoemde richtlijn, in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte; of
 
 - b. beschikt over een in een ander land dan genoemd in onderdeel a, verkregen diploma of soortgelijk bewijsstuk, waaruit naar het oordeel van het bestuur van de beroepsorganisatie eenzelfde niveau van vakbekwaamheid blijkt als in Nederland, welke blijkt uit het met goed gevolg hebben voltooid van de opleiding tot accountant; en
 
@@ -679,65 +590,105 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 ##### Artikel 56
 
-1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2021-07-01&g=2021-07-01).
+1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2021-07-01&g=2021-07-01).
 
-2. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2021-07-01&g=2021-07-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+2. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2021-07-01&g=2021-07-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-3. De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+3. De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 #### § 8.2. Beroep
+
+##### Artikel 57
+
+*Vervallen*
 
 #### § 8.3. Intrekking en wijziging van wetten
 
 ##### Artikel 58
 
-De [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374), de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de [Wet van 6 augustus 1993, tot wijziging van de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten (wijziging in verband met de invoering van de Achtste Richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht)](https://wetten.overheid.nl/jci1.3:c:BWBR0006107) (Stb. 1993, 465) worden ingetrokken.
+De [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374), de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de [Wet van 6 augustus 1993, tot wijziging van de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten (wijziging in verband met de invoering van de Achtste Richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht)](https://wetten.overheid.nl/jci1.3:c:BWBR0006107) (Stb. 1993, 465) worden ingetrokken.
 
 ##### Artikel 59
 
-Wijzigt de Ambtenarenwet.
+*Wijzigt de Ambtenarenwet.*
 
 ##### Artikel 60
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel 61
 
-Wijzigt de Comptabiliteitswet 2001.
+*Wijzigt de Comptabiliteitswet 2001.*
 
 ##### Artikel 62
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 63
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
 ##### Artikel 64
 
-Wijzigt de Provinciewet.
+*Wijzigt de Provinciewet.*
 
 ##### Artikel 65
 
-Wijzigt de Wegenverkeerswet 1994.
+*Wijzigt de Wegenverkeerswet 1994.*
 
 ##### Artikel 66
 
-Wijzigt de Wet toezicht financiële verslaggeving.
+*Wijzigt de Wet toezicht financiële verslaggeving.*
 
 ##### Artikel 67
 
-Wijzigt de Wet werk en inkomen kunstenaars.
+*Wijzigt de Wet werk en inkomen kunstenaars.*
 
 ##### Artikel 68
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
 ##### Artikel 69
 
-Wijzigt de Wet tuchtrechtspraak accountants.
+*Wijzigt de Wet tuchtrechtspraak accountants.*
 
 #### § 8.4. Overgangsbepalingen
+
+##### Artikel 70
+
+1. De beroepsorganisatie is de rechtsopvolger onder algemene titel van het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten.
+
+2. Het personeel dat op de datum van inwerkingtreding van deze wet in dienst is bij het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountant-Administratieconsulenten, treedt met ingang van die datum, met behoud van rechten, in dienst bij het bureau van de beroepsorganisatie.
+
+##### Artikel 71
+
+1. Binnen zes maanden na de inwerkingtreding van deze wet belegt het bestuur van de beroepsorganisatie een ledenvergadering waarin in ieder geval de volgende besluiten worden genomen:
+
+- a. het benoemen van de bestuursleden;
+
+- b. het vaststellen van de begroting.
+
+2. In afwijking van [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2021-07-01&g=2021-07-01), kunnen de door de gezamenlijke ledenvergadering benoemde bestuursleden voor een kortere periode dan vier jaar worden benoemd, in verband met het op te stellen rooster, bedoeld in dat artikel.
+
+3. Tot de benoeming van de bestuursleden, bedoeld in het eerste lid, onder a, wordt het bestuur van de beroepsorganisatie gevormd door de gezamenlijke bestuursleden van het opgeheven Nederlands Instituut van Registeraccountants en de opgeheven Nederlandse Orde van Accountants-Administratieconsulenten.
+
+4. Het bestuur neemt beslissingen ten aanzien van de werkwijze van de ledenvergadering, bedoeld in het eerste lid, waarin bij of krachtens de wet niet is voorzien.
+
+5. De verordeningen en nadere voorschriften van het Nederlands Instituut van Registeraccountants en de Nederlandse Orde van Accountants-Administratieconsulenten blijven op de beroepsorganisatie, de Registeraccountants, respectievelijk de Accountants-Administratieconsulenten en de accountantsorganisaties van kracht tot drie jaar na de inwerkingtreding van deze wet, tenzij de ledenvergadering, respectievelijk het bestuur deze heeft ingetrokken of gewijzigd.
+
+##### Artikel 72
+
+Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=55) of [artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), zoals die artikelen luidden op het moment van inwerkingtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.3&artikel=58&z=2021-07-01&g=2021-07-01) van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. [Artikel 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
+
+##### Artikel 73
+
+De [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374), de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) en de daarop berustende bepalingen, blijven van kracht op handelingen en gedragingen van natuurlijke en rechtspersonen, die hebben plaatsgevonden voorafgaand aan het intrekken of vervallen van die bepalingen.
+
+##### Artikel 74
+
+1. Indien de inwerkingtreding van deze wet gedurende een boekjaar van het Nederlands Instituut van Registeraccountants of de Nederlandse Orde van Accountants-Administratieconsulenten plaatsvindt, dan gaat de contributieverplichting van de leden van de op te heffen openbare lichamen voor het resterend deel van het boekjaar voor een evenredig deel over op de leden van de beroepsorganisatie.
+
+2. Het boekjaar van het Nederlands Instituut van Registeraccountants loopt van 1 januari tot en met 31 december.
 
 #### § 8.5. Slotbepalingen
 
@@ -745,10 +696,8 @@ Wijzigt de Wet tuchtrechtspraak accountants.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.4&artikel=74&z=2021-07-01&g=2021-07-01), werkt terug tot en met 1 januari 2011.
+2. [Artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.4&artikel=74&z=2021-07-01&g=2021-07-01), werkt terug tot en met 1 januari 2011.
 
 ##### Artikel 76
 
 Deze wet wordt aangehaald als: Wet op het accountantsberoep.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

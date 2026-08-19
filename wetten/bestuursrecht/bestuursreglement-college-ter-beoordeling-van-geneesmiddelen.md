@@ -1,59 +1,38 @@
 ---
 title: "Bestuursreglement van het College ter beoordeling van geneesmiddelen, als bedoeld in artikel 4 Geneesmiddelenwet, houdende de regeling voor de werkwijze van het College"
+citeertitel: "Bestuursreglement College ter beoordeling van geneesmiddelen"
 identifier: "BWBR0033182"
-country: "nl"
-rank: "zbo"
-publication_date: "2012-09-27"
-last_updated: "2012-09-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033182"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12191463"
-version_id: "20401112"
-internal_id: "C28679791"
-label_id: "12163034"
-dtd_version: "2.0"
-original_entry_into_force: "2012-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033182/2012-09-27/0"
-intitule_bron: "Stcrt.2012-19281"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-09-25"
-intitule_in_force: "2012-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19281"
-original_published_date: "2012-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19281"
-entry_into_force_date: "2012-09-27"
-jci_1_3: "jci1.3:c:BWBR0033182&z=2012-09-27&g=2012-09-27"
-jci_1_0: "1.0:c:BWBR0033182&g=2012-09-27"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement College ter beoordeling van geneesmiddelen"
-entry_into_force: "2012-09-27"
+publicatiedatum: 2012-09-27
+laatste_update: 2012-09-27
+status: geldig
+toestand: 2012-09-27
+bron: "https://wetten.overheid.nl/BWBR0033182"
+opgehaald: 2026-08-19
 ---
+
 # Bestuursreglement van het College ter beoordeling van geneesmiddelen, als bedoeld in artikel 4 Geneesmiddelenwet, houdende de regeling voor de werkwijze van het College
-
-Gelet op [artikel 4 Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Definitiebepaling
 
 In dit reglement wordt verstaan onder:
 
-- a. **Richtlijn:** [Richtlijn 2001/83/EG](32001L0083) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik(Pb EG L 136);
+- a. *Richtlijn:*
+ Richtlijn 2001/83/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik(Pb EG L 136);
 
-- b. **Geneesmiddelenwet:** [Wet van 8 februari 2007, Stb. 93, tot vaststelling van een nieuwe Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505);
+- b. *Geneesmiddelenwet:*
+ [Wet van 8 februari 2007, Stb. 93, tot vaststelling van een nieuwe Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505);
 
-- c. **Minister:** de minister van Volksgezondheid, Welzijn en Sport;
+- c. *Minister:* de minister van Volksgezondheid, Welzijn en Sport;
 
-- d. **College:** het College ter beoordeling van geneesmiddelen, genoemd in [artikel 2 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=2);
+- d. *College:* het College ter beoordeling van geneesmiddelen, genoemd in [artikel 2 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=2);
 
-- e. **voorzitter:** de voorzitter van het College;
+- e. *voorzitter:* de voorzitter van het College;
 
-- f. **secretariaat:** het secretariaat, genoemd in [artikel 8 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=8);
+- f. *secretariaat:* het secretariaat, genoemd in [artikel 8 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=8);
 
-- g. **Agentschap:** het agentschap College ter beoordeling van geneesmiddelen dat is opgericht door de Minister van Financiën op grond van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en dat optreedt als baten-lastendienst in de zin van de [Regeling baten-lastendiensten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021362).
+- g. *Agentschap:* het agentschap College ter beoordeling van geneesmiddelen dat is opgericht door de Minister van Financiën op grond van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en dat optreedt als baten-lastendienst in de zin van de [Regeling baten-lastendiensten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021362).
 
 ##### Artikel 2. Taken en bevoegdheden College
 
@@ -85,7 +64,7 @@ In dit reglement wordt verstaan onder:
 
 4. Medewerkers van het secretariaat zijn aangesteld bij het Agentschap.
 
-5. De directeur van het Agentschap is tevens secretaris van het College. Het College maakt hierover afspraken met de minister. Deze afspraken zijn als bijlage bij dit reglement gevoegd.
+5. De directeur van het Agentschap is tevens secretaris van het College. Het College maakt hierover afspraken met de minister. Deze afspraken zijn als [bijlage](https://wetten.overheid.nl/BWBR0033182) bij dit reglement gevoegd.
 
 ##### Artikel 5. Bestuurlijk overleg College-Agentschap
 
@@ -194,19 +173,3 @@ De secretaris draagt er zorg voor dat de bij het College en zijn secretariaat ru
 ##### Artikel 16. Citatie
 
 Dit reglement wordt aangehaald als: Bestuursreglement College ter beoordeling van geneesmiddelen.
-
-## Bijlage. bij Bestuursreglement College ter beoordeling van geneesmiddelen
-
-Afspraak, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033182&artikel=4&z=2012-09-27&g=2012-09-27)
-
-- –. Overwegende dat de directeur van het ACBG wordt benoemd door de minister van VWS en dat daarbij de ABD-procedure wordt gevolgd;
-
-- –. Overwegende dat het wenselijk is dat de directeur van het ACBG tevens secretaris is van het CBG;
-
-- –. Overwegende dat het CBG derhalve belang heeft bij de benoeming van de directeur ACBG;
-
-Spreken af dat in onderling overleg op voordracht van het College een profielschets wordt vastgesteld voor de werving van de functie van directeur ACBG.
-
-Spreken af dat de voorzitter van het CBG deel uitmaakt van de selectiecommissie voor de functie van directeur ACBG.
-
-Spreken af dat geen benoeming van de directeur ACBG zal plaatsvinden, dan nadat de voorzitter van het CBG daarover met de minister van VWS heeft gesproken.

@@ -1,52 +1,30 @@
 ---
 title: "Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2013, nr. 2013-0000217474, omtrent de uitleg van de begrippen ‘bijdrage in natura’ en ‘neveninstelling’ in de Wet financiering politieke partijen (Beleidsregels Wet financiering politieke partijen)"
+citeertitel: "Beleidsregels Wet financiering politieke partijen"
 identifier: "BWBR0033331"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-05-01"
-last_updated: "2013-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033331"
+categorie: "Staatsinrichting en bestuur"
 soort: "beleidsregel"
-stam_id: "12232503"
-version_id: "20458272"
-internal_id: "C28759521"
-label_id: "12203824"
-dtd_version: "2.0"
-original_entry_into_force: "2013-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033331/2013-05-01/0"
-intitule_bron: "Stcrt.2013-11116"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-04-19"
-intitule_published: "2013-04-26"
-intitule_in_force: "2013-04-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-11116"
-original_signed_date: "2013-04-19"
-original_published_date: "2013-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-11116"
-entry_into_force_date: "2013-05-01"
-jci_1_3: "jci1.3:c:BWBR0033331&z=2013-05-01&g=2013-05-01"
-jci_1_0: "1.0:c:BWBR0033331&g=2013-05-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels Wet financiering politieke partijen"
-signed_date: "2013-04-19"
-entry_into_force: "2013-05-01"
+publicatiedatum: 2013-05-01
+laatste_update: 2013-05-01
+status: geldig
+toestand: 2013-05-01
+bron: "https://wetten.overheid.nl/BWBR0033331"
+opgehaald: 2026-08-19
 ---
+
 # Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 april 2013, nr. 2013-0000217474, omtrent de uitleg van de begrippen ‘bijdrage in natura’ en ‘neveninstelling’ in de Wet financiering politieke partijen (Beleidsregels Wet financiering politieke partijen)
 
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 1, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=1), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=5) en [22 van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=22);
+Algemeen
 
-Besluit:
-
-Bij brief van 8 februari 2012 (**Kamerstukken 2011/12,****32 752, nr. 24**) heeft de toenmalige minister van Binnenlandse Zaken en Koninkrijksrelaties (hierna: BZK) aangekondigd dat beleidsregels zullen worden vastgesteld om twee begrippen die in de Wet financiering politieke partijen worden gehanteerd – ‘bijdrage in natura’ en ‘neveninstelling’ – te verduidelijken.
+Bij brief van 8 februari 2012 (*Kamerstukken 2011/12,**32 752, nr. 24*) heeft de toenmalige minister van Binnenlandse Zaken en Koninkrijksrelaties (hierna: BZK) aangekondigd dat beleidsregels zullen worden vastgesteld om twee begrippen die in de Wet financiering politieke partijen worden gehanteerd – ‘bijdrage in natura’ en ‘neveninstelling’ – te verduidelijken.
 
 De minister van BZK houdt toezicht op de registratie door een politieke partij van de ontvangen bijdragen van meer dan € 1 000. Van die bijdragen moeten op grond van [artikel 21, eerste lid, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=21) de naam en het adres van de gever en de datum en het bedrag of de waarde van de bijdrage worden opgenomen in de administratie. Ook bijdragen in natura moeten op deze manier worden geregistreerd. Mocht bij het toezicht blijken dat een partij dit ten onrechte heeft nagelaten, dan kan de minister van BZK een bestuurlijke boete opleggen.
 
 Bij het gebruik van de bevoegdheid een boete op te leggen vanwege het ten onrechte niet registreren van een bijdrage in natura en bij de uitoefening van de bevoegdheid tot aanwijzing van een neveninstelling, zullen voor de invulling van de beoordelingsruimte die de begrippen ‘bijdrage in natura’ en ‘neveninstelling’ bevatten, de hierna volgende kaders worden gehanteerd.
 
-Bijdragen in natura kunnen worden gedaan aan politieke partijen, aan neveninstellingen, aan verenigingen die deelnemen aan de verkiezingen maar nog niet vertegenwoordigd zijn in de Tweede Kamer, en aan kandidaten op de kandidatenlijst. Op grond van [artikel 1, aanhef en onderdeel i, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=1) is een bijdrage in natura een zaak of dienst, op verzoek van een politieke partij aan haar geleverd dan wel door deze aanvaard, waar geen of geen evenredige tegenprestatie tegenover staat. Er wordt bijvoorbeeld **gratis** een vergaderruimte of materiaal ten behoeve van een verkiezingscampagne beschikbaar gesteld, of er is **geen sprake van een evenredige tegenprestatie**. Voor het bepalen van de waarde van de bijdrage is het van belang te bepalen wat de gebruikelijke waarde van de zaak of dienst in het economisch verkeer is. Daarbij kan bijvoorbeeld worden uitgegaan van het standaardtarief of het bedrag dat onder normale omstandigheden in rekening zou worden gebracht voor het huren van vergaderruimte, het inhuren van catering of het beschikbaar stellen van advertentieruimte. De waardering van een bijdrage in natura geschiedt door het verschil te nemen tussen de gebruikelijke waarde van de bijdrage in natura in het economisch verkeer en de waarde van de tegenprestatie van de politieke partij. Als een zaal waar normaal € 400 voor betaald moet worden aan een partij voor € 100 ter beschikking wordt gesteld, dan bedraagt de bijdrage in natura € 300. Wordt de zaal gratis ter beschikking gesteld, dan is de bijdrage € 400.
+Bijdrage in natura
+
+Bijdragen in natura kunnen worden gedaan aan politieke partijen, aan neveninstellingen, aan verenigingen die deelnemen aan de verkiezingen maar nog niet vertegenwoordigd zijn in de Tweede Kamer, en aan kandidaten op de kandidatenlijst. Op grond van [artikel 1, aanhef en onderdeel i, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=1) is een bijdrage in natura een zaak of dienst, op verzoek van een politieke partij aan haar geleverd dan wel door deze aanvaard, waar geen of geen evenredige tegenprestatie tegenover staat. Er wordt bijvoorbeeld *gratis* een vergaderruimte of materiaal ten behoeve van een verkiezingscampagne beschikbaar gesteld, of er is *geen sprake van een evenredige tegenprestatie*. Voor het bepalen van de waarde van de bijdrage is het van belang te bepalen wat de gebruikelijke waarde van de zaak of dienst in het economisch verkeer is. Daarbij kan bijvoorbeeld worden uitgegaan van het standaardtarief of het bedrag dat onder normale omstandigheden in rekening zou worden gebracht voor het huren van vergaderruimte, het inhuren van catering of het beschikbaar stellen van advertentieruimte. De waardering van een bijdrage in natura geschiedt door het verschil te nemen tussen de gebruikelijke waarde van de bijdrage in natura in het economisch verkeer en de waarde van de tegenprestatie van de politieke partij. Als een zaal waar normaal € 400 voor betaald moet worden aan een partij voor € 100 ter beschikking wordt gesteld, dan bedraagt de bijdrage in natura € 300. Wordt de zaal gratis ter beschikking gesteld, dan is de bijdrage € 400.
 
 Het registreren van een bijdrage in natura verloopt uit de aard der zaak op een andere manier dan van een geldelijke bijdrage, omdat eerst de waarde moet worden bepaald. De bijdragen in natura moeten als volgt worden geregistreerd: vermelding van de zaak of dienst die is geleverd met daarbij de waarde die daaraan in het economisch verkeer wordt toegekend, minus de waarde van de tegenprestatie.
 
@@ -58,11 +36,13 @@ Voorbeelden van bijdragen in natura die bij politieke partijen mogelijk aan de o
 
 Voor bijdragen in natura gelden de drempelbedragen voor registratie en openbaarmaking zoals opgenomen in de [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004). Bijdragen in natura van € 1 000 of minder hoeven dus niet te worden geregistreerd. Dit betekent dat kleinschalige activiteiten – zoals het beplakken van borden met verkiezingsaffiches of het rondbrengen van folders – van vrijwilligers die wel betrokken zijn bij een politieke partij, maar niet via een lidmaatschap, over het algemeen niet geregistreerd hoeven te worden.
 
-Bijdragen bestaande uit persoonlijke arbeid of activiteiten van **leden** van de politieke partij worden niet als bijdragen in natura aangemerkt. Het kan daarbij gaan om het verrichten van een activiteit in het kader van een verkiezingscampagne (folderen) of het leveren van een bijdrage aan het opstellen van adviezen aan de politieke partij of van partijprogramma’s. Dit soort activiteiten van partijleden ten behoeve van de partij behoren tot het wezen van een partijorganisatie en worden niet als bijdragen beschouwd waar openbaarmaking met naam en toenaam een bijdrage zou leveren aan meer transparantie over partijfinanciering.
+Bijdragen bestaande uit persoonlijke arbeid of activiteiten van *leden* van de politieke partij worden niet als bijdragen in natura aangemerkt. Het kan daarbij gaan om het verrichten van een activiteit in het kader van een verkiezingscampagne (folderen) of het leveren van een bijdrage aan het opstellen van adviezen aan de politieke partij of van partijprogramma’s. Dit soort activiteiten van partijleden ten behoeve van de partij behoren tot het wezen van een partijorganisatie en worden niet als bijdragen beschouwd waar openbaarmaking met naam en toenaam een bijdrage zou leveren aan meer transparantie over partijfinanciering.
 
 Dit is overigens anders als de arbeid of activiteiten worden verricht door personen in dienst van een lid van een politieke partij of diens bedrijf. Dan valt het voordeel dat de partij daarvan heeft niet onder de uitzonderingsbepaling, omdat de arbeid niet persoonlijk door het partijlid wordt verricht.
 
 Van een bijdrage in natura aan een politieke partij is sprake als de partij de bijdrage heeft aanvaard, de bijdrage op verzoek van de partij is geschied of als de partij ermee heeft ingestemd dat de bijdrage wordt gedaan. Over veel bijdragen in natura zal geen discussie bestaan. Reeds door het daadwerkelijk gebruik maken bijvoorbeeld van vergaderruimte of advertentieruimte die gratis ter beschikking is gesteld of van campagnemateriaal dat gratis is gedrukt, is de instemming een gegeven en is sprake van een bijdrage in natura. Dit geldt ook voor gratis goederen die door de partij worden aangenomen. Indien activiteiten of werkzaamheden worden verricht ten bate van een partij zonder dat de partij daarmee instemt, worden deze niet als bijdrage aan de partij aangemerkt. Een andere benadering zou politieke partijen in een onmogelijke positie brengen en zou ertoe leiden dat ook ongewilde activiteiten ten voordele van een partij onder de registratieverplichting zouden vallen. De partij moet er dan wel direct en expliciet afstand van nemen.
+
+Neveninstellingen
 
 Op grond van [artikel 5 van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=5) wijst een partij een rechtspersoon als neveninstelling aan, indien hij uitsluitend of in hoofdzaak erop is gericht stelselmatig of structureel ten bate van een politieke partij activiteiten of werkzaamheden te verrichten en de partij daar kennelijk voordeel bij heeft. Een rechtspersoon kan slechts door één politieke partij als neveninstelling worden aangewezen en de rechtspersoon dient schriftelijk met de aanwijzing in te stemmen. De partij stelt de minister van BZK schriftelijk in kennis van de aanwijzing en van de instemming van de rechtspersoon. Als een politieke partij een rechtspersoon ten onrechte niet heeft aangewezen als een neveninstelling, dan wijst de minister van BZK deze als zodanig aan.
 
@@ -81,5 +61,7 @@ Andere rechtspersonen die als neveninstelling kunnen worden aangemerkt, zijn rec
 Er kan ook sprake zijn van een neveninstelling als de rechtspersoon na enige tijd weer wordt ontbonden en een tijdelijk karakter heeft. Als sprake is van het incidenteel oprichten van een rechtspersoon die bijvoorbeeld giften verzamelt, kan voor de tijd dat die rechtspersoon bestaat sprake zijn van een neveninstelling. In zo’n situatie kan gedurende een tijdelijke periode namelijk sprake zijn van een organisatie die uitsluitend of in hoofdzaak gericht is op het stelselmatig of structureel ten bate van een politieke partij verrichten van activiteiten.
 
 Als een stichting puur is opgericht om particuliere bijdragen in te zamelen en zij de bijdragen volledig of hoofdzakelijk doorsluist naar één politieke partij, kan worden gesteld dat die stichting in hoofdzaak erop gericht is ten bate van die partij activiteiten te verrichten en dus een neveninstelling is. Als een deel van het geld ook aan een of meerdere andere partijen wordt gegeven, hebben die partijen ook voordeel bij de desbetreffende stichting. Zij kan dan niet worden aangemerkt als neveninstelling van één politieke partij.
+
+Publicatie, inwerkingtreding en citeertitel
 
 Deze beleidsregels worden gepubliceerd in de Staatscourant en kunnen worden aangehaald als Beleidsregels Wet financiering politieke partijen. De beleidsregels treden in werking met ingang van 1 mei 2013.

@@ -1,44 +1,18 @@
 ---
 title: "Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequenties aan KPN als houdster van een vergunning voor GSM"
+citeertitel: "Beschikking toekenning frequenties aan KPN als houdster van een vergunning voor GSM"
 identifier: "BWBR0032236"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-01"
-last_updated: "2012-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032236"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11912183"
-version_id: "19794742"
-internal_id: "C27802141"
-label_id: "11884224"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032236/2012-11-01/0"
-intitule_bron: "Stcrt.2012-19660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-20"
-intitule_published: "2012-09-27"
-intitule_in_force: "2012-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19660"
-original_signed_date: "2012-09-20"
-original_published_date: "2012-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19660"
-entry_into_force_date: "2012-11-01"
-jci_1_3: "jci1.3:c:BWBR0032236&z=2012-11-01&g=2012-11-01"
-jci_1_0: "1.0:c:BWBR0032236&g=2012-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Beschikking toekenning frequenties aan KPN als houdster van een vergunning voor GSM"
-signed_date: "2012-09-20"
-entry_into_force: "2012-11-01"
+publicatiedatum: 2012-11-01
+laatste_update: 2012-11-01
+status: geldig
+toestand: 2012-11-01
+bron: "https://wetten.overheid.nl/BWBR0032236"
+opgehaald: 2026-08-19
 ---
+
 # Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequenties aan KPN als houdster van een vergunning voor GSM
-
-Gelet op de artikelen 13e en 13l van de Wet op de telecommunicatievoorzieningen;
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -82,7 +56,7 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 2. Toekenning van frequenties
 
-1. Indien de vergunning met kenmerk HDTP/95/5447/HP wordt gehouden door één vergunninghouder, zijn voor hem voor de uitvoering van die vergunning de radiofrequenties beschikbaar, genoemd in tabel 1 van de vergunning.
+1. Indien de vergunning met kenmerk HDTP/95/5447/HP wordt gehouden door één vergunninghouder, zijn voor hem voor de uitvoering van die vergunning de radiofrequenties beschikbaar, genoemd in [tabel 1](https://wetten.overheid.nl/BWBR0032236) van de vergunning.
 
 2. Indien de vergunning met kenmerk HDTP/95/5447/HP wordt gehouden door meer dan één vergunninghouder, dan zijn voor iedere vergunninghouder de radiofrequenties, bedoeld in het eerste lid, beschikbaar die aan hem zijn overgedragen als gevolg van een gedeeltelijke overdracht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032236&paragraaf=2&artikel=4&z=2012-11-01&g=2012-11-01), met dien verstande dat voor KPN B.V. ook de radiofrequenties beschikbaar zijn die behoren bij het deel van de vergunning met kenmerk HDTP/95/5447/HP die zij niet heeft overgedragen.
 
@@ -161,81 +135,3 @@ Een toegekende frequentie kan worden ingetrokken indien:
 ##### Artikel 10. Geldigheidsduur
 
 Deze beschikking treedt in werking met ingang van 1 april 1995.
-
-## Bijlage. behorende bij de beschikking van 15 maart 1995 kenmerk HDTP/95/5823/HP
-
-| kanaal | Frequentie (MHz) | Frequentie (MHz) | VOORKEUR in gebied | VOORKEUR in gebied | VOORKEUR in gebied |
-| --- | --- | --- | --- | --- | --- |
-| nummer | Mobiel TX | Basisstation TX | BEL/D/HOL | D/HOL | BEL/HOL |
-| 1 | 890,2 | 935,2 | HOL | HOL | HOL |
-| 2 | 890,4 | 935,4 | HOL | HOL | HOL |
-| 3 | 890,6 | 935,6 | HOL | HOL | HOL |
-| 4 | 890,8 | 935,8 | HOL | HOL | HOL |
-| 5 | 891 | 936 | HOL | HOL | HOL |
-| 6 | 891,2 | 936,2 | HOL | HOL | HOL |
-| 7 | 891,4 | 936,4 | HOL | HOL | HOL |
-| 8 | 891,6 | 936,6 | HOL | HOL | HOL |
-| 9 | 891,8 | 936,8 | HOL | HOL | HOL |
-| 10 | 892 | 937 | HOL | HOL | HOL |
-| 11 | 892,2 | 937,2 | HOL | HOL | HOL |
-| 12 | 892,4 | 937,4 | HOL | HOL | HOL |
-| 13 | 892,6 | 937,6 | HOL | HOL | HOL |
-| 14 | 892,8 | 937,8 | HOL | HOL | HOL |
-| 15 | 893 | 938 | HOL | HOL | HOL |
-| 16 | 893,2 | 938,2 | HOL | HOL | HOL |
-| 17 | 893,4 | 938,4 | HOL | HOL | HOL |
-| 18 | 893,6 | 938,6 | HOL | HOL | HOL |
-| 19 | 893,8 | 938,8 | HOL | HOL | HOL |
-| 20 | 894 | 939 | HOL | HOL | HOL |
-| 66 | 903,2 | 948,2 | D | D | BEL |
-| 67 | 903,4 | 948,4 | D | D | BEL |
-| 68 | 903,6 | 948,6 | D | D | BEL |
-| 69 | 903,8 | 948,8 | D | D | BEL |
-| 70 | 904 | 949 | D | D | BEL |
-| 71 | 904,2 | 949,2 | BEL | D | BEL |
-| 72 | 904,4 | 949,4 | BEL | D | BEL |
-| 73 | 904,6 | 949,6 | BEL | D | BEL |
-| 74 | 904,8 | 949,8 | BEL | D | BEL |
-| 75 | 905 | 950 | BEL | D | BEL |
-| 76 | 905,2 | 950,2 | BEL | D | BEL |
-| 77 | 905,4 | 950,4 | BEL | D | BEL |
-| 78 | 905,6 | 950,6 | BEL | D | BEL |
-| 79 | 905,8 | 950,8 | BEL | D | BEL |
-| 80 | 906 | 951 | BEL | D | BEL |
-| 81 | 906,2 | 951,2 | BEL | D | BEL |
-| 82 | 906,4 | 951,4 | BEL | D | BEL |
-| 83 | 906,6 | 951,6 | BEL | D | BEL |
-| 84 | 906,8 | 951,8 | BEL | D | BEL |
-| 85 | 907 | 952 | BEL | D | BEL |
-| 86 | 907,2 | 952,2 | BEL | D | BEL |
-| 87 | 907,4 | 952,4 | BEL | D | BEL |
-| 88 | 907,6 | 952,6 | BEL | D | BEL |
-| 89 | 907,8 | 952,8 | BEL | D | BEL |
-| 90 | 908 | 953 | BEL | D | BEL |
-| 91 | 908,2 | 953,2 | BEL | D | BEL |
-| 92 | 908,4 | 953,4 | BEL | D | BEL |
-| 93 | 908,6 | 953,6 | BEL | D | BEL |
-| 94 | 908,8 | 953,8 | BEL | D | BEL |
-| 95 | 909 | 954 | BEL | D | BEL |
-| 96 | 909,2 | 954,2 | BEL | D | BEL |
-| 97 | 909,4 | 954,4 | BEL | D | BEL |
-| 98 | 909,6 | 954,6 | BEL | HOL | BEL |
-| 99 | 909,8 | 954,8 | BEL | HOL | BEL |
-| 100 | 910 | 955 | BEL | HOL | HOL |
-| 101 | 910,2 | 955,2 | BEL | HOL | HOL |
-| 102 | 910,4 | 955,4 | BEL | HOL | HOL |
-| 103 | 910,6 | 955,6 | BEL | HOL | HOL |
-| 104 | 910,8 | 955,8 | BEL | HOL | HOL |
-| 105 | 911 | 956 | BEL | HOL | HOL |
-| 106 | 911,2 | 956,2 | BEL | HOL | HOL |
-| 107 | 911,4 | 956,4 | BEL | HOL | HOL |
-
-**Opmerkingen bij de tabellen:**
-
-De bovengenoemde grensgebieden zijn slechts een indicatie; de grootte van de gebieden is afhankelijk van de toe te passen parameters (zie onderstaande frequentie-technische voorwaarden).
-
-De gebiedsindicatie BEL/D/HOL betreft globaal Limburg.
-
-De gebiedsindicatie D/HOL betreft globaal Oost Nederland.
-
-De gebiedsindicatie BEL/HOL betreft globaal Zuid Nederland.

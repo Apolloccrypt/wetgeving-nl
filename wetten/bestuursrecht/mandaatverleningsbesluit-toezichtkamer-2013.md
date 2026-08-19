@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Toezichtkamer van de Sociaal-Economische Raad van 8 februari 2013, houdende mandatering) van enkele bevoegdheden van de Toezichtkamer (Mandaatverleningsbesluit Toezichtkamer 2013)"
+citeertitel: "Mandaatverleningsbesluit Toezichtkamer 2013"
 identifier: "BWBR0032925"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-02-23"
-last_updated: "2013-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032925"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "12114443"
-version_id: "20204352"
-internal_id: "C28422941"
-label_id: "12085964"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032925/2013-02-23/0"
-intitule_bron: "Vbbo.2013-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-08"
-intitule_published: "2013-02-22"
-intitule_in_force: "2013-02-22"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-9"
-original_signed_date: "2013-02-08"
-original_published_date: "2013-02-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-02-23"
-jci_1_3: "jci1.3:c:BWBR0032925&z=2013-02-23&g=2013-02-23"
-jci_1_0: "1.0:c:BWBR0032925&g=2013-02-23"
-citeertitel_status: "officieel"
-short_title: "Mandaatverleningsbesluit Toezichtkamer 2013"
-signed_date: "2013-02-08"
-entry_into_force: "2013-02-23"
+publicatiedatum: 2013-02-23
+laatste_update: 2013-02-23
+status: geldig
+toestand: 2013-02-23
+bron: "https://wetten.overheid.nl/BWBR0032925"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Toezichtkamer van de Sociaal-Economische Raad van 8 februari 2013, houdende mandatering) van enkele bevoegdheden van de Toezichtkamer (Mandaatverleningsbesluit Toezichtkamer 2013)
-
-Gelet op de [Verordening bestuurlijke taken SER](https://wetten.overheid.nl/jci1.3:c:BWBR0032870);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 

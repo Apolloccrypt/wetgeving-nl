@@ -1,46 +1,18 @@
 ---
 title: "Regeling van het Stimuleringsfonds voor de pers van 20 februari 2013, nr. 22928, tot vaststelling van een Tijdelijke subsidieregeling Persinnovatie 2013"
+citeertitel: "Tijdelijke subsidieregeling Persinnovatie 2013"
 identifier: "BWBR0032951"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-03-02"
-last_updated: "2013-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032951"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12123953"
-version_id: "20227622"
-internal_id: "C28455921"
-label_id: "12095604"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032951/2013-03-02/0"
-intitule_bron: "Stcrt.2013-5341"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-02-20"
-intitule_published: "2013-03-01"
-intitule_in_force: "2013-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-5341"
-original_signed_date: "2013-02-20"
-original_published_date: "2013-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-5341"
-entry_into_force_date: "2013-03-02"
-jci_1_3: "jci1.3:c:BWBR0032951&z=2013-03-02&g=2013-03-02"
-jci_1_0: "1.0:c:BWBR0032951&g=2013-03-02"
-citeertitel_status: "redactioneel"
-short_title: "Tijdelijke subsidieregeling Persinnovatie 2013"
-signed_date: "2013-02-20"
-entry_into_force: "2013-03-02"
+publicatiedatum: 2013-03-02
+laatste_update: 2013-03-02
+status: geldig
+toestand: 2013-03-02
+bron: "https://wetten.overheid.nl/BWBR0032951"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van het Stimuleringsfonds voor de pers van 20 februari 2013, nr. 22928, tot vaststelling van een Tijdelijke subsidieregeling Persinnovatie 2013
-
-Handelende na overleg met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
-
-Gelet op [artikel 8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -185,5 +157,3 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 ##### Artikel 14. Evaluatie
 
 Binnen 13 weken na afloop van de datum, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032951&hoofdstuk=3&artikel=7&z=2013-03-02&g=2013-03-02), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

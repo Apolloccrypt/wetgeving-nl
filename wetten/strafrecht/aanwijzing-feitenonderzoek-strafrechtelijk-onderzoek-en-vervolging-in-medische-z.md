@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzing feitenonderzoek / strafrechtelijk onderzoek en vervolging in medische zaken"
 identifier: "BWBR0032580"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032580"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "11992023"
-version_id: "19940802"
-internal_id: "C28015471"
-label_id: "11964294"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032580/2013-01-01/0"
-intitule_bron: "Stcrt.2012-26863"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-04"
-intitule_published: "2012-12-24"
-intitule_in_force: "2012-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26863"
-original_signed_date: "2012-12-04"
-original_published_date: "2012-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26863"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032580&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032580&g=2013-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2012-12-04"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032580"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzing feitenonderzoek / strafrechtelijk onderzoek en vervolging in medische zaken
 
 ### Achtergrond
@@ -51,6 +29,14 @@ Deze aanwijzing stelt regels omtrent de opsporing en vervolging van medische zak
 
 Om de werkingssfeer van de aanwijzing te begrenzen wordt eerst de definitie van een ‘medische zaak’ gegeven die het OM hanteert. Nadat het OM in kennis is gesteld van een strafbaar feit door een of meerdere zorgverleners moet de officier van justitie een aantal afwegingen maken, te weten:
 
+- − of een vermoeden bestaat dat een strafbaar feit is gepleegd;
+
+- − of de Inspectie voor de Gezondheidszorg moet worden geïnformeerd;
+
+- − of de noodzaak bestaat tot het instellen van een feitenonderzoek en/of een strafrechtelijk onderzoek;
+
+- − of een strafrechtelijke vervolging mogelijk en opportuun is.
+
 In deze aanwijzing is ook aangegeven dat zeer terughoudend gebruik zal worden gemaakt van de bevoegdheid gegevens uit VIM te vorderen.
 
 ### Overige
@@ -67,6 +53,14 @@ Op het parket Rotterdam is sinds november 2001 het Expertisecentrum Medische Zak
 
 De belangrijkste taken van dit expertisecentrum zijn:
 
+- − advisering van het OM over de afdoening van medische zaken in al hun facetten;
+
+- − opbouwen, bijhouden en organiseren van expertise;
+
+- − stimuleren en adviseren van de parketten bij het ontwikkelen en realiseren van lokaal beleid en lokale afspraken;
+
+- − bijdragen aan de ontwikkeling van landelijk beleid.
+
 Vóór het instellen van een strafrechtelijke vervolging legt de medisch officier van justitie de zaak in elk geval voor aan dit Expertisecentrum. Zie daarover meer onder het kopje ‘Tegenspraak’.
 
 Het Expertisecentrum Medische Zaken organiseert tenminste een keer per jaar een landelijk overleg ten behoeve van de officieren van justitie en advocaten-generaal belast met medische zaken en de pg-portefeuillehouder.
@@ -75,15 +69,34 @@ Het Expertisecentrum Medische Zaken organiseert tenminste een keer per jaar een 
 
 Deze aanwijzing is alleen van toepassing op strafzaken die op basis van onderstaande, door het OM opgestelde en gehanteerde, definitie beschouwd kunnen worden als een ‘medische zaak’.
 
-**Een medische strafzaak is een zaak waarin het medisch handelen of nalaten van een persoon die werkzaam is in de (geestelijke) gezondheidszorg of de alternatieve gezondheidssector een redelijk vermoeden oplevert van schuld aan enig strafbaar feit zoals bedoeld in** [artikel 27 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27).
+*Een medische strafzaak is een zaak waarin het medisch handelen of nalaten van een persoon die werkzaam is in de (geestelijke) gezondheidszorg of de alternatieve gezondheidssector een redelijk vermoeden oplevert van schuld aan enig strafbaar feit zoals bedoeld in*
+ [artikel 27 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27).
 
 Deze definitie omvat in ieder geval de volgende situaties:
+
+- − de verdachte heeft gehandeld binnen het kader van zijn normale beroepsuitoefening en/of taakopvatting;
+
+- − de verdachte heeft gehandeld terwijl hij wist of redelijkerwijs moest vermoeden dat hij hiervoor niet (voldoende) deskundig en/of bevoegd was;
+
+- − de verdachte heeft nagelaten te handelen terwijl hij, gelet op zijn deskundigheid, redelijkerwijs wél had moeten handelen.
 
 Vorenstaande is ook van toepassing op rechtspersonen opererend in de gezondheidszorg.
 
 Binnen deze definitie vallen bijvoorbeeld de volgende gevallen:
 
+- − een foute medicatietoediening door een arts of verpleegkundige;
+
+- − een fout uitgevoerde operatie door een arts;
+
+- − een alternatief genezer die een bepaalde behandeling voorschrijft terwijl hij of zij daarvoor niet de nodige deskundigheid heeft en die schade kan toebrengen aan de gezondheid van de patiënt;
+
+- − een alternatief genezer die mensen van de reguliere gezondheidszorg ‘afhoudt’.
+
 Buiten deze definitie vallen bijvoorbeeld de volgende gevallen:
+
+- − een arts of verpleegkundige die (in het kader van zijn beroepsuitoefening) een zedendelict pleegt;
+
+- − een arts of verpleegkundige die (in het kader van zijn/haar beroepsuitoefening) een vermogensdelict pleegt.
 
 ### Start van een medische zaak (Pre-opsporing)
 
@@ -109,7 +122,7 @@ De zorginstelling is verplicht iedere ‘calamiteit’ te melden bij de Inspecti
 
 De IGZ kan gedurende de uitvoering van haar toezichthoudende taken stuiten op een feitencomplex op basis waarvan het vermoeden ontstaat dat mogelijk een strafbaar feit is gepleegd. Op grond van [artikel 162 Wetboek van strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162) (Sv) zijn ambtenaren van de IGZ die in de uitoefening van hun bediening kennis krijgen van een misdrijf van de opsporing waarmee zij niet zijn belast, verplicht daarvan onverwijld aangifte te doen.
 
-IGZ en OM hebben afspraken gemaakt over de samenwerking en informatie-uitwisseling vastgelegd in een samenwerkingsprotocol en een informatieprotocol (**Kamerstukken****I** 2008/09, 31 122, nr. H).
+IGZ en OM hebben afspraken gemaakt over de samenwerking en informatie-uitwisseling vastgelegd in een samenwerkingsprotocol en een informatieprotocol (*Kamerstukken**I* 2008/09, 31 122, nr. H).
 
 De IGZ en OM hebben in dit protocol afgesproken dat de IGZ het Expertisecentrum medische zaken zo snel mogelijk informeert over calamiteiten die (mogelijke) medische strafzaken betreffen. Het Expertisecentrum medische zaken informeert zo snel mogelijk de medisch officier van justitie.
 
@@ -131,7 +144,7 @@ Straf-- en bestuursrechtelijke handhaving kunnen naast elkaar plaatsvinden, mits
 
 ### Aangifte en toestemming opvragen medische gegevens
 
-Als de officier van justitie bij de start van het strafrechtelijk onderzoek constateert dat een aangifte ontbreekt, verzoekt hij de patiënt of bij diens overlijden zijn nabestaanden aangifte te doen c.q. een verklaring af te leggen. Tevens vraagt hij de patiënt of diens nabestaanden toestemming een afschrift van de relevante medische gegevens op te vragen. Deze gegevens zijn (vaak) noodzakelijk voor het verdere onderzoek gericht op de waarheidsvinding naar het mogelijk gepleegde strafbare feit. In het medisch dossier staan o.a. de namen van personen betrokken bij de behandeling van de patiënt, de handelingen die zijn verricht, de medicatie die is voorgeschreven. Bedacht moet worden dat de patiënt wel recht heeft op inzage in zijn medische gegevens, maar de nabestaanden niet zonder meer. Het medisch beroepsgeheim wordt namelijk **niet**doorbroken door de dood van de patiënt. Met andere woorden; ook na het overlijden mag de zorgverlener niet zonder meer informatie verstrekken.
+Als de officier van justitie bij de start van het strafrechtelijk onderzoek constateert dat een aangifte ontbreekt, verzoekt hij de patiënt of bij diens overlijden zijn nabestaanden aangifte te doen c.q. een verklaring af te leggen. Tevens vraagt hij de patiënt of diens nabestaanden toestemming een afschrift van de relevante medische gegevens op te vragen. Deze gegevens zijn (vaak) noodzakelijk voor het verdere onderzoek gericht op de waarheidsvinding naar het mogelijk gepleegde strafbare feit. In het medisch dossier staan o.a. de namen van personen betrokken bij de behandeling van de patiënt, de handelingen die zijn verricht, de medicatie die is voorgeschreven. Bedacht moet worden dat de patiënt wel recht heeft op inzage in zijn medische gegevens, maar de nabestaanden niet zonder meer. Het medisch beroepsgeheim wordt namelijk *niet*doorbroken door de dood van de patiënt. Met andere woorden; ook na het overlijden mag de zorgverlener niet zonder meer informatie verstrekken.
 
 Er zijn echter omstandigheden denkbaar waar doorbreking van het medisch beroepsgeheim na de dood van de patiënt gerechtvaardigd en soms zelfs noodzakelijk5Overwegingen HR 21 oktober 2008, LJN BD7817:Het verschoningsrecht van o.m. de arts is echter in zoverre niet absoluut, dat zich zeer uitzonderlijke omstandigheden laten denken waarin het belang dat de waarheid aan het licht komt – ook t.a.v. datgene waarvan de wetenschap hem als zodanig is toevertrouwd – moet prevaleren boven het verschoningsrecht. Bij de beantwoording zal mogen worden gelet op de aard en de ernst van het strafbare feit waarvan de arts wordt verdacht, de aard en de inhoud van het materiaal waarover zich het verschoningsrecht uitstrekt i.v.m. het belang dat door het verschoningsrecht wordt gediend en de mate waarin de betrokken belangen van de patiënten worden geschaad indien het verschoningsrecht wordt doorbroken. Groot gewicht kan daarbij worden toegekend aan de veronderstelde toestemming van een patiënt welke omstandigheid impliceert dat het beroep op het verschoningsrecht niet kan dienen tot bescherming van de persoonlijke levenssfeer van de patiënt en dat door het afwijzen van het beroep op het verschoningsrecht de belangen van de patiënt niet kunnen worden geschaad. Het algemene belang verzet zich in deze zaken ook niet tegen verstrekking aangezien patiënten in het algemeen erop moeten kunnen vertrouwen dat bij een ernstig vermoeden van verwijtbaar ondeskundig handelen van de arts de gegevens die – veelal verplicht – met betrekking tot de medische behandeling in het medisch dossier zijn vastgelegd, voor onderzoek door de justitiële autoriteiten beschikbaar zijn. is. Wanneer de patiënt overleden is, kan de zorgverlener eventueel met behulp van de nabestaanden de toestemming van de patiënt reconstrueren, daarbij uitgaande van de zogeheten veronderstelde toestemming. Het is evident dat de zorgverlener dit slechts kan doen als het verstrekken van informatie in het belang van de patiënt is en indien er bij leven geen aanwijzingen zijn gegeven door de patiënt dat de zorgverlener ook na de dood moet zwijgen.
 
@@ -153,11 +166,19 @@ Het is daarom vaak noodzakelijk een strafrechtelijk feitenonderzoek te starten, 
 
 Er is op dit moment veelal nog geen verdachte in beeld. In dit onderzoek worden zorgverleners, jegens wie dan nog geen gerichte verdenking bestaat, gehoord als getuigen. Hierbij wordt aangegeven dat, als daarvoor aanleiding bestaat, na afronding van het onderzoek een nader strafrechtelijk onderzoek gestart kan worden waarin eerder genoemde zorgverleners wellicht nogmaals gehoord worden. De zorgverlener jegens wie een gerichte verdenking bestaat of is ontstaan, kan als verdachte verhoord worden. Na afronding van het strafrechtelijk feitenonderzoek zijn verschillende conclusies mogelijk:
 
+- – De officier van justitie komt na bestudering van de feiten tot de conclusie dat er geen sprake meer is van een redelijk vermoeden dat een strafbaar feit is gepleegd en seponeert de zaak.8Zie de Aanwijzing gebruik sepotgronden voor het onderscheid tussen sepotcode 01 en 02. In dat geval eindigt de rol9Dit is slechts anders als het Openbaar Ministerie nieuwe feiten of omstandigheden gemeld krijgt die een hernieuwde redelijke verdenking van een gepleegd strafbaar feit doen ontstaan. van het OM in de zaak en stelt het OM de betrokkenen hiervan op de hoogte.
+
+- – De officier van justitie komt tot de conclusie dat een redelijk vermoeden bestaat dat een strafbaar feit is gepleegd, wat een (nader) strafrechtelijk onderzoek rechtvaardigt.
+
 ### Nader strafrechtelijk onderzoek
 
-Het OM kan een nader strafrechtelijk onderzoek starten (eventueel na een strafrechtelijk feitenonderzoek) als uit het feitencomplex blijkt van een **gerichte** verdenking jegens een of meerdere personen of rechtspersonen.
+Het OM kan een nader strafrechtelijk onderzoek starten (eventueel na een strafrechtelijk feitenonderzoek) als uit het feitencomplex blijkt van een *gerichte* verdenking jegens een of meerdere personen of rechtspersonen.
 
 Tijdens het strafrechtelijk onderzoek staan in het merendeel van de zaken twee vragen centraal, namelijk:
+
+- 1. is er sprake van een causaal verband tussen het handelen of nalaten van de zorgverlener en het overlijden/(zwaar) lichamelijk letsel van de patiënt;
+
+- 2. is er sprake van schuld of opzet ten aanzien van het handelen of nalaten van de betreffende zorgverlener dan wel rechtspersoon.
 
 In het strafrechtelijk onderzoek worden de betrokkenen, indien daarvoor aanleiding bestaat, als verdachten verhoord. De officier van justitie kan onderzoekshandelingen door de rechter-commissaris ([artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=181) tot en met [183 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=183)) vorderen; zo kan er aanleiding bestaan om te vorderen dat de rechter-commissaris een of meer medisch deskundigen benoemt met het oog op het opstellen van een deskundigenrapportage.
 
@@ -165,13 +186,13 @@ In het strafrechtelijk onderzoek worden de betrokkenen, indien daarvoor aanleidi
 
 ### OM en gegevens uit VIM
 
-Het OM kan tijdens het nader strafrechtelijk onderzoek op basis van [art. 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=105) of [126nf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf) een vordering tot afgifte van stukken bij de rechter-commissaris indienen. Het OM kan deze bevoegdheid gebruiken om gegevens uit VIM te vorderen. Het ‘nemo tenetur’- beginsel en het **Saunders**-arrest10Arrest **Saunders** van het Europese Hof voor de Rechten van de Mens (**NJ** 1997, 699). Volgens het Hof vereist artikel 6 EVRM, met name het daaraan ten grondslag liggen nemo tenetur beginsel, dat verklaringen die een burger gedwongen was af te leggen niet in het strafproces tegen hem gebruikt kunnen worden. Daarbij maakt het niet uit of de melding al dan niet zelf-beschuldigend is. Deze beperking ligt enkel in het later gebruiken van zo’n melding ten behoeve van de bewijsvoering in een strafzaak tegen de melder. zijn niet van toepassing op de gegevens uit het VIM aangezien er geen wettelijke meldingsplicht bestaat. Daaruit volgt dat, na een vrijwillige incidentmelding, **in beginsel** gegevens uit VIM over dat incident als bewijs gebruikt kunnen worden in een strafzaak tegen de melder.
+Het OM kan tijdens het nader strafrechtelijk onderzoek op basis van [art. 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=105) of [126nf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf) een vordering tot afgifte van stukken bij de rechter-commissaris indienen. Het OM kan deze bevoegdheid gebruiken om gegevens uit VIM te vorderen. Het ‘nemo tenetur’- beginsel en het *Saunders*-arrest10Arrest *Saunders* van het Europese Hof voor de Rechten van de Mens (*NJ* 1997, 699). Volgens het Hof vereist artikel 6 EVRM, met name het daaraan ten grondslag liggen nemo tenetur beginsel, dat verklaringen die een burger gedwongen was af te leggen niet in het strafproces tegen hem gebruikt kunnen worden. Daarbij maakt het niet uit of de melding al dan niet zelf-beschuldigend is. Deze beperking ligt enkel in het later gebruiken van zo’n melding ten behoeve van de bewijsvoering in een strafzaak tegen de melder. zijn niet van toepassing op de gegevens uit het VIM aangezien er geen wettelijke meldingsplicht bestaat. Daaruit volgt dat, na een vrijwillige incidentmelding, *in beginsel* gegevens uit VIM over dat incident als bewijs gebruikt kunnen worden in een strafzaak tegen de melder.
 
 Als het OM echter te vrijelijk gebruik zou maken van de mogelijkheid gegevens uit VIM te vorderen zou dit negatieve gevolgen kunnen hebben voor de meldingsbereidheid en de bereidheid om mee te werken aan het interne onderzoek dat met het VIM wordt beoogd. Het streven van de medische beroepsgroep om mede door middel van VIM de kwaliteit van de medische zorg te vergroten kan daardoor gefrustreerd raken. Dit is ongewenst, te meer daar het OM de stukken uit het VIM uiteindelijk naar verwachting in het merendeel van de zaken niet nodig heeft.
 
-Het OM zal daarom terughoudend gebruik maken van zijn bevoegdheden. De stukken die gebruikt worden in VIM, worden alleen in **bijzondere situaties** gevorderd. Daarbij wordt altijd getoetst of deze vordering voldoet aan de beginselen van proportionaliteit en subsidiariteit. Concreet betekent dit dat de vordering altijd achterwege blijft indien de informatie op een andere, minder belastende, wijze kan worden verkregen. De vordering blijft tevens achterwege indien de ernst van het vermoedelijk gepleegde strafbare feit deze vordering niet kan rechtvaardigen.11Op 7 juni 2010 is het wetsvoorstel Wet Cliëntenrechten zorg aan de Tweede Kamer aangeboden (**Kamerstukken** 32 402), waarin in artikel 11, tweede lid, is neergelegd dat gegevens uit een register alleen dan voor strafrechtelijk bewijs kunnen worden gebruikt indien zij redelijkerwijs niet op een andere manier kunnen worden verkregen.
+Het OM zal daarom terughoudend gebruik maken van zijn bevoegdheden. De stukken die gebruikt worden in VIM, worden alleen in *bijzondere situaties* gevorderd. Daarbij wordt altijd getoetst of deze vordering voldoet aan de beginselen van proportionaliteit en subsidiariteit. Concreet betekent dit dat de vordering altijd achterwege blijft indien de informatie op een andere, minder belastende, wijze kan worden verkregen. De vordering blijft tevens achterwege indien de ernst van het vermoedelijk gepleegde strafbare feit deze vordering niet kan rechtvaardigen.11Op 7 juni 2010 is het wetsvoorstel Wet Cliëntenrechten zorg aan de Tweede Kamer aangeboden (*Kamerstukken* 32 402), waarin in artikel 11, tweede lid, is neergelegd dat gegevens uit een register alleen dan voor strafrechtelijk bewijs kunnen worden gebruikt indien zij redelijkerwijs niet op een andere manier kunnen worden verkregen.
 
-Zoals hierboven al beschreven zijn het medisch dossier zelf en de verklaringen van de betrokken personen de belangrijkste bron van informatie in een medische zaak voor het OM. Uitgangspunt is dat originele stukken in het medisch dossier horen en niet worden opgenomen in VIM. Alleen dan is het OM bereid, behoudens bijzondere situaties, geen gegevens uit VIM te vorderen. Van zo’n bijzondere situatie is **bijvoorbeeld** sprake als een verdachte of een getuige stelt dat hetgeen gedurende het strafrechtelijk onderzoek verklaard is op essentiële onderdelen afwijkt van hetgeen in de procedure van het Veilig Melden door een persoon is verklaard.
+Zoals hierboven al beschreven zijn het medisch dossier zelf en de verklaringen van de betrokken personen de belangrijkste bron van informatie in een medische zaak voor het OM. Uitgangspunt is dat originele stukken in het medisch dossier horen en niet worden opgenomen in VIM. Alleen dan is het OM bereid, behoudens bijzondere situaties, geen gegevens uit VIM te vorderen. Van zo’n bijzondere situatie is *bijvoorbeeld* sprake als een verdachte of een getuige stelt dat hetgeen gedurende het strafrechtelijk onderzoek verklaard is op essentiële onderdelen afwijkt van hetgeen in de procedure van het Veilig Melden door een persoon is verklaard.
 
 Over de vordering op basis van [126nf Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nf) van gegevens uit VIM voert de officier van justitie overleg met de parketleiding. Daaraan voorafgaand vraagt de officier van justitie het Expertisecentrum Medische Zaken om advies. Vervolgens kan de officier van justitie een vordering tot afgifte van stukken bij de rechter-commissaris indienen.
 
@@ -189,9 +210,9 @@ Het ‘voorwaardelijk opzet’ genoemd in [artikel 228](https://wetten.overheid.
 
 ### Schuld
 
-De ‘schuld’ genoemd in de [artikelen 307](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307) en [308 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=308), bestaat in medische zaken uit een verwijtbare handeling of een verwijtbaar nalaten: de zorgverlener heeft aanmerkelijk onvoorzichtig en/of onachtzaam en/of nalatig gehandeld. Kort gezegd moet er sprake zijn van **grove nalatigheid** tijdens de beroepsuitoefening van de zorgverlener.
+De ‘schuld’ genoemd in de [artikelen 307](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307) en [308 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=308), bestaat in medische zaken uit een verwijtbare handeling of een verwijtbaar nalaten: de zorgverlener heeft aanmerkelijk onvoorzichtig en/of onachtzaam en/of nalatig gehandeld. Kort gezegd moet er sprake zijn van *grove nalatigheid* tijdens de beroepsuitoefening van de zorgverlener.
 
-**De zorgverlener moet handelen conform de eisen die gesteld mogen worden aan een redelijk bekwaam beroepsgenoot. Gelet op zijn functie heeft iedere zorgverlener een bijzondere zorgplicht die ingevuld moet worden door de stand van wetenschap ten tijde van het desbetreffende handelen met inachtneming van hetgeen toen in zijn beroepsgroep als professionele norm gold.**
+*De zorgverlener moet handelen conform de eisen die gesteld mogen worden aan een redelijk bekwaam beroepsgenoot. Gelet op zijn functie heeft iedere zorgverlener een bijzondere zorgplicht die ingevuld moet worden door de stand van wetenschap ten tijde van het desbetreffende handelen met inachtneming van hetgeen toen in zijn beroepsgroep als professionele norm gold.*
 
 Voor een strafrechtelijke vervolging (en veroordeling) op basis van [artikel 307](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307)/[309 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=309) wordt bewijs vereist dat de verdachte niet de voorzichtigheid en zorgvuldigheid heeft betracht die hij in acht had behoren te nemen en dat hij onder de omstandigheden anders had kunnen en moeten handelen.13Zie bijv. Rb. Arnhem 20 november 2000, LJN AA8371. De in acht te nemen voorzichtigheid en zorgvuldigheid moet groter zijn naarmate het negatieve gevolg beter voorzienbaar is en daardoor op de zorgverlener een verzwaarde zorgplicht kan rusten.14Zie bijv. Hof Amsterdam 12 oktober 2005, LJN AU4229 voor het begrip aanmerkelijk onvoorzichtig.
 

@@ -1,41 +1,17 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2013"
 identifier: "BWBR0032872"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032872"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12098843"
-version_id: "20164232"
-internal_id: "C28344551"
-label_id: "12070464"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032872/2013-07-01/0"
-intitule_bron: "Stcrt.2013-2784"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-01-15"
-intitule_published: "2013-02-07"
-intitule_in_force: "2013-02-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-2784"
-original_signed_date: "2013-01-15"
-original_published_date: "2013-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-2784"
-entry_into_force_date: "2013-02-08"
-jci_1_3: "jci1.3:c:BWBR0032872&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0032872&g=2013-07-01"
-citeertitel_status: "officieel"
-signed_date: "2013-01-15"
-entry_into_force: "2013-02-08"
+publicatiedatum: 2013-02-08
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0032872"
+opgehaald: 2026-08-19
 ---
-# Beleidsregels UWV normbedragen voorzieningen 2013
 
-Besluit:
+# Beleidsregels UWV normbedragen voorzieningen 2013
 
 ### Hoofdstuk 1. : Wettelijk kader
 
@@ -43,17 +19,17 @@ Besluit:
 
 De normbedragen voor voorzieningen als bedoeld in:
 
-- –. [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
+- – [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35),
 
-- –. [artikel 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23),
+- – [artikel 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 van de Wet Werk en Arbeidsondersteuning Jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23),
 
-- –. [artikel 19a van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a),
+- – [artikel 19a van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a),
 
-- –. [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15a), [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) en [18 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=18),
+- – [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=7), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15a), [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) en [18 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=18),
 
-- –. [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=7) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8),
+- – [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=7) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8),
 
-worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
+worden vastgesteld op de bedragen, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0032872) bij dit besluit.
 
 ### Hoofdstuk 2. : Vervoersvoorzieningen algemeen
 
@@ -160,53 +136,3 @@ Beleidsregels UWV normbedragen voorzieningen 2013.
 ##### Artikel 10. : Datum inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
-
-## Bijlage
-
-| Code | Beschrijving | Toelichting | t/m 30-6-2013 | Vanaf1-7-2013 | Werk* | Onderwijs** |
-| --- | --- | --- | --- | --- | --- | --- |
-| **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** |   |   |
-|   | **Drempelbedrag voorzieningen** |   |   |   |   |   |
-| B11 | Drempelbedrag waar beneden geen vergoeding wordt verleend, inclusief BTW. | Voorzieningen die minder dan dit bedrag kosten, worden niet vergoed. Meerdere aangevraagde voorzieningen die ieder minder kosten dan het drempelbedrag kunnen worden opgeteld en vergoed. | € 127,00 | € 128,00 | X | X |
-| **VERVOERSVOORZIENINGEN** | **VERVOERSVOORZIENINGEN** | **VERVOERSVOORZIENINGEN** | **VERVOERSVOORZIENINGEN** | **VERVOERSVOORZIENINGEN** |   |   |
-|   | **Referentieauto** |   |   |   |   |   |
-| C18-II | Normbedrag referentieauto, inclusief BTW. | Een referentieauto is een gemiddeld type auto met standaardfaciliteiten. | € 21.500,00 | € 21.500,00 | X | X |
-| C18-III | Eigen bijdrage verzekeringskosten bij noodzakelijke aanschaf van een auto boven de kosten van de referentieauto | Dit maandelijkse bedrag wordt op de feitelijke maandelijkse kosten in mindering gebracht (eigen bijdrage). | € 93,25 | € 93,25 | X | X |
-| C18-IV | Eigen bijdrage motorrijtuigenbelasting bij noodzakelijke aanschaf van een auto boven de kosten van een referentieauto | Dit maandelijkse bedrag wordt op de feitelijke maandelijkse kosten in mindering gebracht (eigen bijdrage). | € 32,85 | € 32,85 | X | X |
-|   | **Inkomensgrenzen voor vervoersvoorzieningen voor het woon- werk en het privé vervoer** |   |   |   |   |   |
-| C20-I | Inkomensgrens woon- werk en privé vervoer | Deze inkomensgrens geldt niet voor het woon- schoolvervoer. Boven deze inkomensgrens is, behalve bij (rolstoel)taxivervoer, geen vergoeding mogelijk. | € 36.000,00 | € 36.000,00 | X | X |
-| C20-III | Inkomensgrens woon- werk en privé vervoer als in één gezin meer vervoersvoorzieningen nodig zijn | Deze inkomensgrens geldt niet voor het woon- schoolvervoer. | € 54.000,00 | € 54.000,00 | X | X |
-|   | **Kilometervergoeding bruikleenauto van Welzorg** |   |   |   |   |   |
-| C22 | Kilometervergoeding bruikleenauto | Deze vergoeding is bedoeld voor de brandstofkosten van een auto. De eigen bijdrage (C26-I) gaat hier nog vanaf. | € 0,13 | € 0,13 | X | X |
-|   | **Kilometervergoeding voor auto’s in eigen bezit** |   |   |   |   |   |
-| C25-I | Personenauto | Dit is een vergoeding voor het bezit en gebruik van een eigen auto. De eigen bijdrage (C26-I) gaat hier nog vanaf. | € 0,47 | € 0,47 | X | X |
-| C25-V | Bestelauto/busje | Dit is een vergoeding voor het bezit en gebruik van een eigen bestelauto of busje. De eigen bijdrage (C26-I) gaat hier nog vanaf. | € 0,59 | € 0,59 | X | X |
-|   | **Algemeen gebruikelijke kosten woon-werkvervoer per kilometer** |   |   |   |   |   |
-| C26-I | Algemeen gebruikelijke kosten woon- werkvervoer per kilometer | Gemiddelde kosten van één kilometer openbaar vervoer in Nederland die op het woon- werkvervoer in mindering wordt gebracht. Dit bedrag is de eigen bijdrage. | € 0,14 | € 0,14 | X |   |
-| C26-II | Algemeen gebruikelijke kosten woon- werkvervoer per kilometer boven de inkomensgrens C20-I en C20-III | De kosten zijn gelijk aan de kosten van het bezit en gebruik van een eigen auto. | € 0,47 | € 0,47 | X |   |
-|   | **Vervoerskostenvergoeding voor privé-kilometers** |   |   |   |   |   |
-| C31 | Taxikostenvergoeding | Indien ook een vergoeding is gegeven voor het woon- werk/schoolvervoer. De vergoeding kan niet separaat worden aangevraagd. Het betreft een vast jaarlijks bedrag. | € 3.855,00 | € 3.855,00 | X | X |
-| C32 | Vergoeding voor visueel gehandicapten | Indien ook een vergoeding is gegeven voor het woon- werk/schoolvervoer. De vergoeding kan niet separaat worden aangevraagd. Het betreft een vast jaarlijks bedrag. | € 1.927,00 | € 1.927,00 | X | X |
-| C33 | Rolstoeltaxikostenvergoeding | Indien ook een vergoeding is gegeven voor het woon- werk/schoolvervoer. De vergoeding kan niet separaat worden aangevraagd. Het betreft een vast jaarlijks bedrag. | € 4.713,00 | € 4.713,00 | X | X |
-| C34 | Combinatievergoeding (taxi + overig vervoer) | Indien ook een vergoeding is gegeven voor het woon- werk/schoolvervoer. De vergoeding kan niet separaat worden aangevraagd. Het betreft een vast jaarlijks bedrag. | € 1.718,00 | € 1.718,00 | X | X |
-|   | **Begeleidingskosten** |   |   |   |   |   |
-| C71 | Vergoeding reiskosten begeleider per jaar | Jaarlijkse vergoeding als de arbeidsgehandicapte klant niet zelf kan reizen en de begeleider een deel niet samen kan reizen (bijv. de terugweg). | € 833,00 | € 833,00 | X | X |
-| **VOORZIENINGEN VOOR intermediaire dienstverlening** | **VOORZIENINGEN VOOR intermediaire dienstverlening** | **VOORZIENINGEN VOOR intermediaire dienstverlening** | **VOORZIENINGEN VOOR intermediaire dienstverlening** | **VOORZIENINGEN VOOR intermediaire dienstverlening** |   |   |
-| E17-I | Uurvergoeding geregistreerde tolk gebarentaal of schrijftolk, exclusief BTW. | Registratie van tolk op www.stichtingrtg.nl | € 51,48 | € 51,48 | X | X |
-| E17-III | Uurvergoeding communicatieassistent en overige intermediaire dienstverlener, exclusief BTW. | Vergoeding voor student-tolk is vervallen. | € 18,94 | € 19,05 | X | X |
-| E17-A1 | Reisvergoeding geregistreerde doventolk per kilometer | Inclusief vergoeding voor gereisde werktijd | € 0,67 | € 0,67 | X | X |
-| E17-A3 | Reisvergoeding communicatieassistent en overige intermediaire dienstverlener per kilometer | Inclusief vergoeding voor gereisde werktijd; reisvergoeding voor student-tolk is vervallen. | € 0,30 | € 0,30 | X | X |
-| **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** |   |   |
-| G21 | Daisyspeler, inclusief BTW. | Dit middel moet als algemeen gebruikelijk worden beschouwd en wordt vanaf 2013 niet meer vergoed. | geen vergoeding meer | geen vergoeding meer |   |   |
-| G22-I | Computer/laptop/tablet (één maal per 4 jaar), inclusief BTW. | Deze maximale vergoeding is gericht op een middel zonder aanpassingen. | € 750,00 | € 750,00 | X | X |
-| G23 | Hoortoestel, inclusief BTW. | Met ingang van 1 januari 2013 is de zorgverzekeraar volledig verantwoordelijk voor de verstrekking en eventuele vergoeding van hoortoestellen. | geen vergoeding meer | geen vergoeding meer |   |   |
-| **BRUIKLEENVERSTREKKING** | **BRUIKLEENVERSTREKKING** | **BRUIKLEENVERSTREKKING** | **BRUIKLEENVERSTREKKING** | **BRUIKLEENVERSTREKKING** |   |   |
-| I12 | Een voorziening wordt in bruikleen verstrekt als deze meer kost dan het vastgestelde normbedrag. Beneden dit bedrag wordt er in eigendom verstrekt. Bedrag inclusief BTW. | In geval van bruikleen kunnen additionele kosten als onderhoud en reparatie door UWV worden vergoed. | € 3.477,00 | € 3.477,00 | X | X |
-| **JOBCOACHING/PERSOONLIJKE ONDERSTEUNING (alleen werkvoorziening)** | **JOBCOACHING/PERSOONLIJKE ONDERSTEUNING (alleen werkvoorziening)** | **JOBCOACHING/PERSOONLIJKE ONDERSTEUNING (alleen werkvoorziening)** | **JOBCOACHING/PERSOONLIJKE ONDERSTEUNING (alleen werkvoorziening)** | **JOBCOACHING/PERSOONLIJKE ONDERSTEUNING (alleen werkvoorziening)** |   |   |
-| Q1 | Uurvergoeding voor jobcoaching/ persoonlijke ondersteuning, exclusief BTW. | Voor vergoedingen die zijn toegekend vóór 1-9-2012 geldt tot 1-3-2013 een bedrag van € 78,70 per uur. | € 73,30 | € 73,30 | X |   |
-| **NORMBEDRAGEN VOOR STARTENDE ZELFSTANDIGEN** | **NORMBEDRAGEN VOOR STARTENDE ZELFSTANDIGEN** | **NORMBEDRAGEN VOOR STARTENDE ZELFSTANDIGEN** | **NORMBEDRAGEN VOOR STARTENDE ZELFSTANDIGEN** | **NORMBEDRAGEN VOOR STARTENDE ZELFSTANDIGEN** |   |   |
-| Z1 | Inkomensgrens startende zelfstandigen 3 jaar na de start. | Op basis van het gemiddelde jaarinkomen van de voorgaande drie arbeidsjaren wordt vastgesteld of de zelfstandige nog in aanmerking komt voor vergoeding van voorzieningen. Het gemiddelde jaarinkomen mag dan niet hoger zijn dan het normbedrag Z1. | € 80.478,00 | € 80.478,00 | X |   |
-| Z2 | Vergoeding kosten begeleiding startende zelfstandigen vóór en ná de start, inclusief BTW. | Betreft het maximale bedrag dat kan worden vergoed voor begeleiding vóór de start, waarbij op verantwoorde wijze een start kan worden gemaakt met het zelfstandige beroep of bedrijf en begeleiding ná de start waarbij het starterkrediet toegekend moet zijn door UWV. Begeleiding dat korter duurt dan 4 dagen en langer dan 1 jaar komen niet voor vergoeding in aanmerking. | € 3.621,00 | € 3.621,00 | X |   |
-| Z3 | Voorbereidingskrediet startende zelfstandige. Bedrag vergoeding inclusief BTW. | Dit maximale bedrag is bestemd voor oriënterende activiteiten van de starter zoals netwerkcontacten en vakbeurzen. De indexering van het bedrag Z3 volgt de jaarlijkse indexering van het starterskrediet door SZW. | € 2.832,00 | € 2.832,00 | X |   |
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

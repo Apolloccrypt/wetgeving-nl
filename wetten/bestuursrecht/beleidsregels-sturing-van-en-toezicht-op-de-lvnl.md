@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241278, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Beleidsregels sturing van en toezicht op de Luchtverkeersleiding Nederland)"
+citeertitel: "Beleidsregels sturing van en toezicht op de LVNL"
 identifier: "BWBR0032482"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032482"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "11966473"
-version_id: "19891842"
-internal_id: "C27934601"
-label_id: "11938524"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032482/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25327"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-12"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25327"
-original_signed_date: "2012-12-12"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25327"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032482&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032482&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels sturing van en toezicht op de LVNL"
-signed_date: "2012-12-12"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032482"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 12 december 2012, nr. IENM/BSK-2012/241278, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Luchtverkeersleiding Nederland (Beleidsregels sturing van en toezicht op de Luchtverkeersleiding Nederland)
 
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
-
-#### § 1. **Algemene bepalingen**
+#### § 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regels wordt verstaan onder:
 
-- **common requirements:** uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de [Verordeningen (EG) nr. 482/2008](32008R0482) en (EU) [nr. 691/2010](32010R0691) (PbEU L271);
+- *common requirements:* uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de Verordeningen (EG) nr. 482/2008 en (EU) nr. 691/2010 (PbEU L271);
 
-- **vergoedingenverordening:** verordening (EU) Nr. 1794/2006 van 6 december 2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten PbEU L 341);
+- *vergoedingenverordening:* verordening (EU) Nr. 1794/2006 van 6 december 2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten PbEU L 341);
 
-- **verordening inzake prestatiesturing:** verordening (EU) nr. 691/2010 van 29 juli 2012 tot vaststelling van een prestatieregeling voor luchtvaartnavigatiediensten en netwerkfuncties en tot wijziging van [Verordening (EG) nr. 2096/2005](32005R2096) tot vaststelling van gemeenschappelijk eisen voor de verlening van luchtvaartnavigatiediensten (PbEU L 201);
+- *verordening inzake prestatiesturing:* verordening (EU) nr. 691/2010 van 29 juli 2012 tot vaststelling van een prestatieregeling voor luchtvaartnavigatiediensten en netwerkfuncties en tot wijziging van Verordening (EG) nr. 2096/2005 tot vaststelling van gemeenschappelijk eisen voor de verlening van luchtvaartnavigatiediensten (PbEU L 201);
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **de minister:** de Minister van Infrastructuur en Milieu;
+- *de minister:* de Minister van Infrastructuur en Milieu;
 
-- **de wet:** de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+- *de wet:* de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### § 2. **Bestuur van de LVNL**
+#### § 2. Bestuur van de LVNL
 
 ##### Artikel 2. Goedkeuring bestuursreglement
 
@@ -116,7 +90,7 @@ Voorafgaand aan schorsing of ontslag van de leden van het bestuur informeert de 
 
 Ten behoeve van het vaststellen van de bezoldiging van het bestuur conform [artikel 14, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) verzoekt de minister de raad van toezicht om een voorstel voor de bezoldiging van het bestuur op te stellen, rekening houdend met de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
-#### § 3. **Raad van toezicht van de LVNL**
+#### § 3. Raad van toezicht van de LVNL
 
 ##### Artikel 7. Reglement van de raad van toezicht
 
@@ -164,9 +138,9 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 3. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032482&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01) gevolgd.
 
-#### § 4. **Financieel toezicht**
+#### § 4. Financieel toezicht
 
-##### Artikel 10. Tarieven voor taken grond van de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.20) en [5.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.21)
+##### Artikel 10. Tarieven voor taken grond van de artikelen 5.20 en 5.21 van de wet
 
 1. De tarieven voor vluchten naar, van en in het North Sea Amsterdam area worden berekend op basis van het quotiënt van de in enige jaar te verwachten kosten van de LVNL, verhoogd of verlaagd met de onderdekking of overdekking van de kosten van de LVNL in het tweede daaraan voorafgegane boekjaar en het in datzelfde jaar te verwachten aantal helikoptervluchten.
 
@@ -184,7 +158,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 - f. ontwikkeling van het eigen vermogen van de LVNL, op basis van het jaarverslag van het voorgaande jaar, de geprognosticeerde realisatie van het lopende jaar, en de begroting voor het komende jaar.
 
-##### Artikel 11. Prijzen voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555)
+##### Artikel 11. Prijzen voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de wet
 
 1. Bij andere door de minister opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) geeft de minister bij het opdragen van die taken aan dat er prijzen voor die taken in rekening worden gebracht en aan welke eisen deze prijzen moeten voldoen.
 
@@ -238,7 +212,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 2. Indien de beoordeling door de minister daartoe aanleiding geeft, overlegt de minister met de LVNL en past de LVNL het financieel meerjarenbeleidsplan aan.
 
-#### § 5. **Taakuitoefening**
+#### § 5. Taakuitoefening
 
 ##### Artikel 15. Risicoprofiel en kernprestatie-indicatoren
 
@@ -256,7 +230,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 - c. de kernprestatie-indicatoren zoals bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032482&paragraaf=5&artikel=15&z=2013-01-01&g=2013-01-01).
 
-#### § 6. **Opdracht tot en inkadering van taken en activiteiten**
+#### § 6. Opdracht tot en inkadering van taken en activiteiten
 
 ##### Artikel 17. Instemmingstoets minister
 
@@ -276,9 +250,9 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 6. De minister integreert zijn beslissing over instemming met voorstellen en voornemens zoals bedoeld in het eerste en tweede lid in zijn beslissing over goedkeuring van de begroting, tarieven en financieel meerjarenbeleidsplan, indien die hem zijn voorgelegd in het voorstel voor de begroting, tarieven inclusief het meerjarenbeleidsplan. In andere gevallen wordt een afzonderlijke instemmingsprocedure doorlopen.
 
-#### § 7. **Overige onderwerpen**
+#### § 7. Overige onderwerpen
 
-##### Artikel 18. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 18. Evaluatie conform artikel 39 van de Kaderwet
 
 1. De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de minister van Financiën.
 
@@ -293,5 +267,3 @@ Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op de L
 ##### Artikel 20. Inwerkingtreding
 
 Deze regels treden in werking op 1 januari 2013.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

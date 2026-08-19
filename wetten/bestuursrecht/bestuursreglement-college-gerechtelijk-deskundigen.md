@@ -1,43 +1,17 @@
 ---
 title: "Bestuursreglement College gerechtelijk deskundigen"
 identifier: "BWBR0033149"
-country: "nl"
-rank: "zbo"
-publication_date: "2010-01-06"
-last_updated: "2010-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033149"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "12177643"
-version_id: "20341712"
-internal_id: "C28611091"
-label_id: "12149264"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033149/2010-01-06/0"
-intitule_bron: "Stcrt.2010-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2009-12-11"
-intitule_published: "2010-01-05"
-intitule_in_force: "2010-01-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2010-25"
-original_signed_date: "2009-12-11"
-original_published_date: "2010-01-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2010-25"
-entry_into_force_date: "2010-01-06"
-jci_1_3: "jci1.3:c:BWBR0033149&z=2010-01-06&g=2010-01-06"
-jci_1_0: "1.0:c:BWBR0033149&g=2010-01-06"
-citeertitel_status: "redactioneel"
-signed_date: "2009-12-11"
-entry_into_force: "2010-01-06"
+publicatiedatum: 2010-01-06
+laatste_update: 2010-01-06
+status: geldig
+toestand: 2010-01-06
+bron: "https://wetten.overheid.nl/BWBR0033149"
+opgehaald: 2026-08-19
 ---
+
 # Bestuursreglement College gerechtelijk deskundigen
-
-Gelet op [artikel 9, eerste lid, van het Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=9);
-
-Heeft besloten het volgende bestuursreglement vast te stellen:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -45,21 +19,21 @@ Heeft besloten het volgende bestuursreglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-- a. **de Wet:** de [Wet deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0025251);
+- a. *de Wet:* de [Wet deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0025251);
 
-- b. **het Besluit:** het [Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190);
+- b. *het Besluit:* het [Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190);
 
-- c. **het register:** het landelijk openbaar register, met als volledige benaming het Nederlands register gerechtelijk deskundigen (NRGD), bedoeld in [artikel 51k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51k);
+- c. *het register:* het landelijk openbaar register, met als volledige benaming het Nederlands register gerechtelijk deskundigen (NRGD), bedoeld in [artikel 51k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51k);
 
-- d. **het College:** het College gerechtelijk deskundigen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3);
+- d. *het College:* het College gerechtelijk deskundigen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=3);
 
-- e. **de voorzitter:** de voorzitter van het College;
+- e. *de voorzitter:* de voorzitter van het College;
 
-- f. **het lid:** de voorzitter of een ander lid van het College;
+- f. *het lid:* de voorzitter of een ander lid van het College;
 
-- g. **de secretaris:** de secretaris van het College voor gerechtelijk deskundigen, bedoeld in [artikel 10 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10);
+- g. *de secretaris:* de secretaris van het College voor gerechtelijk deskundigen, bedoeld in [artikel 10 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10);
 
-- h. **het bureau:** het bureau ter ondersteuning van het College voor de gerechtelijke deskundige, bedoeld in [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10) en [11 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11).
+- h. *het bureau:* het bureau ter ondersteuning van het College voor de gerechtelijke deskundige, bedoeld in [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=10) en [11 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11).
 
 ### Hoofdstuk 2. Inrichting
 

@@ -1,61 +1,33 @@
 ---
 title: "Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB)"
 identifier: "BWBR0033046"
-country: "nl"
-rank: "zbo"
-publication_date: "1997-02-07"
-last_updated: "1997-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033046"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12145473"
-version_id: "20266492"
-internal_id: "C28502581"
-label_id: "12117074"
-dtd_version: "2.0"
-original_entry_into_force: "1997-02-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033046/1997-02-07/0"
-intitule_bron: "Stcrt.1997-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-12-19"
-intitule_published: "1997-02-05"
-intitule_in_force: "1997-02-05"
-intitule_status: "goed"
-original_publication: "Stcrt.1997-25"
-original_signed_date: "1996-12-19"
-original_published_date: "1997-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-1997-25-p12-SC8286"
-entry_into_force_date: "1997-02-07"
-jci_1_3: "jci1.3:c:BWBR0033046&z=1997-02-07&g=1997-02-07"
-jci_1_0: "1.0:c:BWBR0033046&g=1997-02-07"
-citeertitel_status: "officieel"
-signed_date: "1996-12-19"
-entry_into_force: "1997-02-07"
+publicatiedatum: 1997-02-07
+laatste_update: 1997-02-07
+status: geldig
+toestand: 1997-02-07
+bron: "https://wetten.overheid.nl/BWBR0033046"
+opgehaald: 2026-08-19
 ---
+
 # Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB)
-
-overwegende,
-
-dat het in het kader van de maatregelen ter bevordering van de binnenvisserij gewenst is in daarvoor in aanmerking komende gevallen subsidies toe te kennen ten behoeve van een duurzame verbetering van het viswater en de visstand door middel van planmatig en zo mogelijk integraal beheer alsmede ter bevordering van de visserijmogelijkheden.
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-**bestuur:** het Bestuur van de Organisatie ter Verbetering van de Binnenvisserij;
+*bestuur:* het Bestuur van de Organisatie ter Verbetering van de Binnenvisserij;
 
-**subsidie:**de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=2&z=1997-02-07&g=1997-02-07) bedoelde subsidie;
+*subsidie:*de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=2&z=1997-02-07&g=1997-02-07) bedoelde subsidie;
 
-**maatregelen:** de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=3&z=1997-02-07&g=1997-02-07) bedoelde plannen en maatregelen;
+*maatregelen:* de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=3&z=1997-02-07&g=1997-02-07) bedoelde plannen en maatregelen;
 
-**binnenvisserij:** de sport- en beroepsvisserij in wateren waarin op grond van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416) de binnenvisserij kan worden uitgeoefend;
+*binnenvisserij:* de sport- en beroepsvisserij in wateren waarin op grond van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416) de binnenvisserij kan worden uitgeoefend;
 
-**visrechthebbende:** rechthebbende op het visrecht overeenkomstig het bepaalde in [artikel 1 lid c van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1);
+*visrechthebbende:* rechthebbende op het visrecht overeenkomstig het bepaalde in [artikel 1 lid c van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1);
 
-**visstandbeheerscommissie:** een representatief samenwerkingsverband van (organisaties van) sport- en beroepsbinnenvissers die met betrekking tot een bepaald water of meerdere wateren de verantwoordelijkheid voor het visstandbeheer tot taak heeft.
+*visstandbeheerscommissie:* een representatief samenwerkingsverband van (organisaties van) sport- en beroepsbinnenvissers die met betrekking tot een bepaald water of meerdere wateren de verantwoordelijkheid voor het visstandbeheer tot taak heeft.
 
 ##### Artikel 2. Subsidies
 
@@ -103,9 +75,9 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 – lid c: f 3.000,–
 
-- a). De subsidie bedraagt een percentage van de daarvoor in aanmerking komende kosten van de maatregel. Dit percentage wordt jaarlijks door het Bestuur vastgesteld en op een geschikte wijze bekend gemaakt.
+3. - a) De subsidie bedraagt een percentage van de daarvoor in aanmerking komende kosten van de maatregel. Dit percentage wordt jaarlijks door het Bestuur vastgesteld en op een geschikte wijze bekend gemaakt.
 
-- b). Het maximum van het subsidiepercentage bedraagt voor maatregelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=3&z=1997-02-07&g=1997-02-07): – lid a: 85% – lid b: 80% – lid c: 75%
+- b) Het maximum van het subsidiepercentage bedraagt voor maatregelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=3&z=1997-02-07&g=1997-02-07): – lid a: 85% – lid b: 80% – lid c: 75%
 
 4. Tot de voor subsidie in aanmerking komende kosten worden gerekend alle noodzakelijke kosten van de maatregel, met uitzondering van de kosten van zelf verrichte arbeid door de aanvragers.
 

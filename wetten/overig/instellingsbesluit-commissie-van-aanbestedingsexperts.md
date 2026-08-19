@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ / 3008668, tot instelling van de Commissie van Aanbestedingsexperts (Instellingsbesluit Commissie van Aanbestedingsexperts)"
+citeertitel: "Instellingsbesluit Commissie van Aanbestedingsexperts"
 identifier: "BWBR0032968"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032968"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12127493"
-version_id: "20234872"
-internal_id: "C28465611"
-label_id: "12099034"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032968/2013-04-01/0"
-intitule_bron: "Stcrt.2013-6182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-04"
-intitule_published: "2013-03-07"
-intitule_in_force: "2013-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-6182"
-original_signed_date: "2013-03-04"
-original_published_date: "2013-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-6182"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0032968&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0032968&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie van Aanbestedingsexperts"
-signed_date: "2013-03-04"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0032968"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ / 3008668, tot instelling van de Commissie van Aanbestedingsexperts (Instellingsbesluit Commissie van Aanbestedingsexperts)
-
-Gelet op [artikel 4.27 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.27);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Economische Zaken;
+- a. *de Minister:* de Minister van Economische Zaken;
 
-- b. **de Commissie:** de Commissie van Aanbestedingsexperts;
+- b. *de Commissie:* de Commissie van Aanbestedingsexperts;
 
-- c. **een klacht:** een uiting van ongenoegen van een partij over het handelen of het nalaten van een andere partij voor zover dat handelen of nalaten binnen de werkingssfeer van de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) valt.
+- c. *een klacht:* een uiting van ongenoegen van een partij over het handelen of het nalaten van een andere partij voor zover dat handelen of nalaten binnen de werkingssfeer van de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) valt.
 
 ##### Artikel 2
 
@@ -123,5 +97,3 @@ Dit besluit treedt in werking op 1 april 2013.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Aanbestedingsexperts.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

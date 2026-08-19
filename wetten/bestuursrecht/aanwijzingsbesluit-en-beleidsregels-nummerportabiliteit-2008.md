@@ -1,38 +1,16 @@
 ---
 title: "Aanwijzingsbesluit en Beleidsregels Nummerportabiliteit 2008"
 identifier: "BWBR0033164"
-country: "nl"
-rank: "zbo"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033164"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12181473"
-version_id: "20367992"
-internal_id: "C28645691"
-label_id: "12152964"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033164/2013-04-01/0"
-intitule_bron: "Stcrt.2008-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-26"
-intitule_published: "2008-02-29"
-intitule_in_force: "2008-02-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2008-43"
-original_signed_date: "2008-02-26"
-original_published_date: "2008-02-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2008-43-p64-SC84798"
-entry_into_force_date: "2008-03-01"
-jci_1_3: "jci1.3:c:BWBR0033164&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0033164&g=2013-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-26"
-entry_into_force: "2008-03-01"
+publicatiedatum: 2008-03-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0033164"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzingsbesluit en Beleidsregels Nummerportabiliteit 2008
 
 ### Inleiding

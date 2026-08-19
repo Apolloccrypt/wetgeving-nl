@@ -1,56 +1,26 @@
 ---
 title: "Wet van 28 maart 2013 tot wijziging van de Wet milieubeheer en de Wet op de economische delicten ten behoeve van de intrekking van het stelsel van handel in NOx-emissierechten (intrekking handel in NOx-emissierechten)"
+citeertitel: "Wijzigingswet Wet milieubeheer, enz. (intrekking handel in NOx-emissierechten)"
 identifier: "BWBR0033232"
-country: "nl"
-rank: "wet"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033232"
+categorie: "Milieu"
 soort: "wet"
-stam_id: "12203133"
-version_id: "20415822"
-internal_id: "C28697511"
-label_id: "12174514"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033232/2014-01-01/0"
-intitule_bron: "Stb.2013-133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-28"
-intitule_published: "2013-04-12"
-intitule_in_force: "2013-04-12"
-intitule_status: "goed"
-original_publication: "Stb.2013-133"
-original_signed_date: "2013-03-28"
-original_published_date: "2013-04-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "33428"
-original_url_id: "stb-2013-133"
-entry_into_force_date: "2014-01-01"
-entry_into_force_dossier: "33428"
-jci_1_3: "jci1.3:c:BWBR0033232&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBR0033232&g=2014-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingswet Wet milieubeheer, enz. (intrekking handel in NOx-emissierechten)"
-signed_date: "2013-03-28"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBR0033232"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 28 maart 2013 tot wijziging van de Wet milieubeheer en de Wet op de economische delicten ten behoeve van de intrekking van het stelsel van handel in NOx-emissierechten (intrekking handel in NOx-emissierechten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de regeling die in de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) is getroffen om handel in emissierechten voor stikstofoxiden mogelijk te maken, wordt ingetrokken;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
 ##### Artikel III
 
@@ -68,10 +38,8 @@ De [wet van 28 april 2005 tot wijziging van de Wet milieubeheer en de Wet op de 
 
 ##### Artikel V
 
-Wijzigt de Wijzigingswet Wet milieubeheer, enz. (vaststelling Verordening (EU) nr. 600/2012 en Verordening (EU) nr. 601/2012 inzake o.m. broeikasgasemissierechten).
+*Wijzigt de Wijzigingswet Wet milieubeheer, enz. (vaststelling Verordening (EU) nr. 600/2012 en Verordening (EU) nr. 601/2012 inzake o.m. broeikasgasemissierechten).*
 
 ##### Artikel VI
 
 De artikelen van deze wet treden met ingang van 1 januari 2014 in de volgorde waarin ze in deze wet zijn opgenomen, in werking.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

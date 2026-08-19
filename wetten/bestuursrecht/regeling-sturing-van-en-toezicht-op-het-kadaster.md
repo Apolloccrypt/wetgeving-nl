@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241276, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Regeling sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)"
+citeertitel: "Regeling sturing van en toezicht op het Kadaster"
 identifier: "BWBR0032460"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032460"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11958183"
-version_id: "19881932"
-internal_id: "C27917441"
-label_id: "11930224"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032460/2022-07-01/0"
-intitule_bron: "Stcrt.2012-25328"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-05"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25328"
-original_signed_date: "2012-12-05"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25328"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032460&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0032460&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling sturing van en toezicht op het Kadaster"
-signed_date: "2012-12-05"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0032460"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241276, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Regeling sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)
-
-Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=31) en [31a van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=31a);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **de Kaderwet:** de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *de Kaderwet:* de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **de wet:** de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463).
+- *de wet:* de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463).
 
 #### § 2. Bestuur en raad van toezicht van de Dienst
 
@@ -64,7 +38,7 @@ De raad van toezicht oefent onafhankelijk van bestuur en minister toezicht uit. 
 
 ##### Artikel 4. Begroting
 
-De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting voor het daaropvolgende jaar aan de Minister en voor 1 oktober de begroting voor het daaropvolgende jaar aan de Minister.
+De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting voor het daaropvolgende jaar aan de Minister en voor 1 oktober de begroting voor het daaropvolgende jaar aan de Minister.
 
 ##### Artikel 5. Meerjarenbeleidsplan
 
@@ -98,7 +72,7 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 ##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
-1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze regeling.
+1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de [bijlage](https://wetten.overheid.nl/BWBR0032460) bij deze regeling.
 
 2. De minister informeert de Dienst over het voornemen een review van de accountantscontrole te laten uitvoeren door de accountantsdienst van het Rijk. Het besluit tot het uitvoeren van een review van de accountantscontrole wordt vergezeld van een toelichting waaruit de aanleiding blijkt, alsmede de procedure die zal worden gevolgd en de informatie die de Dienst ten behoeve van dit onderzoek beschikbaar dient te stellen.
 
@@ -110,19 +84,19 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 - c. dat de kosten van de strategische eenheden zijn gebaseerd op het vastgestelde kostprijscalculatiemodel.
 
-##### Artikel 7. Invulling van [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=13) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van artikel 13, eerste lid, van de wet juncto artikel 32 van de Kaderwet
 
 1. De Dienst behoeft de voorafgaande instemming van de minister voor:
 
 - a. het oprichten van dan wel deelnemen in een rechtspersoon;
 
-- b. het in eigendom verwerven, het vervreemden of het bezwaren van registergoederen waarvan de waarde een bedrag van 10 miljoen euro overschrijdt;
+- b. het in eigendom verwerven, het vervreemden of het bezwaren van registergoederen waarvan de waarde een bedrag van 10 miljoen euro overschrijdt;
 
-- c. het aangaan en beëindigen van overeenkomsten tot verkrijging, vervreemding of bezwaring van registergoederen waarvan de waarde een bedrag van 10 miljoen euro overschrijdt;
+- c. het aangaan en beëindigen van overeenkomsten tot verkrijging, vervreemding of bezwaring van registergoederen waarvan de waarde een bedrag van 10 miljoen euro overschrijdt;
 
-- d. het aangaan en beëindigen van overeenkomsten tot huur, verhuur of pacht van registergoederen waarvan de huur of pacht een bedrag van jaarlijks 10 miljoen euro overschrijdt;
+- d. het aangaan en beëindigen van overeenkomsten tot huur, verhuur of pacht van registergoederen waarvan de huur of pacht een bedrag van jaarlijks 10 miljoen euro overschrijdt;
 
-- e. het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening indien deze afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk een bedrag van 10 miljoen euro overschrijden;
+- e. het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening indien deze afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk een bedrag van 10 miljoen euro overschrijden;
 
 - f. het aangaan van overeenkomsten waarbij de Dienst zich verbindt tot zekerheidstelling met inbegrip van zekerheidstelling voor schulden van derden of waarbij de Dienst zich als borg of hoofdelijk medeschuldenaar verbindt of zich voor een derde sterk maakt;
 
@@ -130,11 +104,11 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 - h. het doen van aangifte tot zijn faillissement of het aanvragen van zijn surséance van betaling.
 
-2. Indien de Dienst een beslissing wil nemen als bedoeld in het eerste lid, onderdelen b, c, d en e, waarvan de bedragen, genoemd in het eerste lid, niet overschreden worden maar waarvan de waarde meer bedraagt dan 5 miljoen euro, informeert de Dienst de minister over de beslissing.
+2. Indien de Dienst een beslissing wil nemen als bedoeld in het eerste lid, onderdelen b, c, d en e, waarvan de bedragen, genoemd in het eerste lid, niet overschreden worden maar waarvan de waarde meer bedraagt dan 5 miljoen euro, informeert de Dienst de minister over de beslissing.
 
-3. De Dienst legt een voorgenomen beslissing als bedoeld in het eerste lid niet voor dan nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben. De Dienst behoeft de voorafgaande instemming van de raad van toezicht voor het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening, indien deze een bedrag afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk van 2,5 miljoen euro overschrijden.
+3. De Dienst legt een voorgenomen beslissing als bedoeld in het eerste lid niet voor dan nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben. De Dienst behoeft de voorafgaande instemming van de raad van toezicht voor het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening, indien deze een bedrag afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk van 2,5 miljoen euro overschrijden.
 
-4. Voor zover de in het eerste lid genoemde voornemens zijn opgenomen in de begroting, bedoeld in [artikel 26 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), hoeven deze niet afzonderlijk ter instemming aan de minister te worden voorgelegd.
+4. Voor zover de in het eerste lid genoemde voornemens zijn opgenomen in de begroting, bedoeld in [artikel 26 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), hoeven deze niet afzonderlijk ter instemming aan de minister te worden voorgelegd.
 
 #### § 4. Informatie-uitwisseling
 
@@ -192,7 +166,7 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 ##### Artikel 10. Toepassing internationale wet- en regelgeving
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. Uitvoeringstoets Dienst
 
@@ -228,7 +202,7 @@ De Dienst verschaft de Minister structureel informatie over lopende dan wel in v
 
 ##### Artikel 14. Integriteit
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 15. Onderzoek door derden ten behoeve van toezicht
 
@@ -266,26 +240,8 @@ Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op het Kada
 
 ##### Artikel 19. Overgangsrecht
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2013.
-
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=3&artikel=6&z=2022-07-01&g=2022-07-01) van de Regeling sturing van en toezicht op de dienst voor het Kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2)
-
-### Aandachtspunten voor de accountantscontrole
-
-De volgende elementen zijn aandachtspunten voor de accountantscontrole:
-
-### 1. Rechtmatigheid
-
-### 2. Tarieven
-
-### 3. Niet-financiële informatie
-
-### 4. In-control-statement
-
-### 5. Informatiebeveiliging
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op 1 januari 2013.

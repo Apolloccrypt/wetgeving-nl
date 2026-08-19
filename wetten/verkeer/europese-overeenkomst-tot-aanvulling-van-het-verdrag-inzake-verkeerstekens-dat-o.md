@@ -1,154 +1,127 @@
 ---
 title: "Europese Overeenkomst tot aanvulling van het Verdrag inzake verkeerstekens dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld"
 identifier: "BWBV0003445"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-11-08"
-last_updated: "1971-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003445"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003534723"
-version_id: "10003584172"
-internal_id: "C10006983621"
-label_id: "10003520434"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003445/2008-11-08/0"
-intitule_bron: "Trb.1974-38"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-03-15"
-intitule_in_force: "2008-04-18"
-intitule_status: "goed"
-original_publication: "Trb.1974-38"
-original_published_date: "1974-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-38"
-entry_into_force_date: "2008-11-08"
-jci_1_3: "jci1.3:c:BWBV0003445&z=2008-11-08&g=2008-11-08"
-jci_1_0: "1.0:c:BWBV0003445&g=2008-11-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-11-08"
+publicatiedatum: 2008-11-08
+laatste_update: 2008-11-08
+status: geldig
+toestand: 2008-11-08
+bron: "https://wetten.overheid.nl/BWBV0003445"
+opgehaald: 2026-08-19
 ---
+
 # Europese Overeenkomst tot aanvulling van het Verdrag inzake verkeerstekens dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld
 
-De Overeenkomstsluitende Partijen, die tevens partij zijn bij het Verdrag inzake verkeerstekens dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld,
+*The Contracting Parties, being also Parties to the Convention on Road Signs and Signals opened for signature at Vienna on 8 November 1968, Desiring to achieve greater uniformity in the rules governing road signs, signals and symbols and road markings in Europe, Have agreed as follows:*
 
-Geleid door de wens een grotere eenvormigheid te bereiken in de regels voor verkeerstekens, -symbolen en verkeerstekens op het wegdek in Europa,
+##### Article 1
 
-Zijn overeengekomen als volgt:
+The Contracting Parties, being also Parties to the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968, shall take appropriate measures to ensure that the system of road signs and signals and of road markings applied in their territories conforms to the provisions of the annex to this Agreement.
 
-##### Artikel 1
+##### Article 2
 
-De Overeenkomstsluitende Partijen, die tevens partij zijn bij het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, nemen passende maatregelen opdat het op hun grondgebieden geldende stelsel van verkeerstekens en van verkeerstekens op het wegdek overeenkomt met de bepalingen in de Bijlage bij deze Overeenkomst.
+1. This Agreement shall be open until 31 December*In conformity with the decision of the Inland Transport Committee at its thirty-first session, the period during which the Agreement would be open for signature has been extended until 31 December 1972. 1972 for signature by States which are signatories to the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968, or have acceded thereto, and are either members of the United Nations Economic Commission for Europe or have been admitted to the Commission in a consultative capacity in conformity with paragraph 8 of the terms of reference of the Commission.
 
-##### Artikel 2
+2. This Agreement shall be subject to ratification after the State concerned has ratified the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968, or has acceded thereto. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-1. Deze Overeenkomst is tot 31 december 1972 opengesteld voor ondertekening door Staten die het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, hebben ondertekend of daartoe zijn toegetreden en die lid zijn van de Economische Commissie voor Europa van de Verenigde Naties of in een adviserende hoedanigheid tot de Commissie zijn toegelaten overeenkomstig paragraaf 8 van het mandaat van de Commissie.
+3. This Agreement shall remain open for accession by any of the States referred to in paragraph 1 of this article which are Parties to the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968. The instruments of accession shall be deposited with the Secretary-General.
 
-2. Deze Overeenkomst dient te worden bekrachtigd nadat de betrokken Staat het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, heeft ondertekend of daartoe is toegetreden. De akten van bekrachtiging dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+##### Article 3
 
-3. Deze Overeenkomst blijft opengesteld voor toetreding door alle Staten bedoeld in het eerste lid van dit artikel die partij zijn bij het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal.
+1. Any State may, at the time of signing or ratifying this Agreement, or of acceding thereto, or at any time thereafter, declare by notification addressed to the Secretary-General that the Agreement shall become applicable to all or any of the territories for the international relations of which it is responsible. The Agreement shall become applicable to the territory or territories named in the notification thirty days after the receipt of the notification by the Secretary-General or on the date of entry into force of the Agreement for the State making the notification, whichever is the later.
 
-##### Artikel 3
+2. Any State which has made a declaration under paragraph 1 of this article may at any time thereafter declare by notification addressed to the Secretary-General that the Agreement shall cease to be applicable to the territory named in the notification and the Agreement shall cease to be applicable to such territory one year from the date of receipt by the Secretary-General of the notification.
 
-1. Elke Staat kan bij de ondertekening of bekrachtiging van deze Overeenkomst, of bij toetreding daartoe, alsook te allen tijde daarna, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat de Overeenkomst van toepassing wordt voor een of meer der gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is.
+##### Article 4
 
-De Overeenkomst wordt van toepassing voor het gebied of de gebieden genoemd in de kennisgeving, dertig dagen na ontvangst van de kennisgeving door de Secretaris-Generaal, dan wel op de datum waarop de Overeenkomst in werking treedt in de Staat die de kennisgeving heeft gedaan, indien dit tijdstip later valt.
+1. This Agreement shall enter into force twelve months after the date of deposit of the tenth instrument of ratification or accession.
 
-2. Iedere Staat die een verklaring heeft afgelegd als bedoeld in het eerste lid van dit artikel, kan op elk later tijdstip, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat de Overeenkomst niet langer van toepassing zal zijn voor het in de kennisgeving genoemde gebied en de Overeenkomst zal dan niet langer van toepassing zijn voor dit gebied met ingang van een jaar te rekenen van de datum waarop de Secretaris-Generaal de kennisgeving heeft ontvangen.
+2. For each State ratifying, or acceding to, this Agreement after the deposit of the tenth instrument of ratification or accession, the Agreement shall enter into force twelve months after the date of deposit by such State of its instrument of ratification or accession.
 
-##### Artikel 4
+3. If the date of entry into force applicable in pursuance of paragraphs 1 and 2 of this article precedes that resulting from the application of [Article 39 of the Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310&artikel=39) opened for signature at Vienna on 8 November 1968, this Agreement shall enter into force within the meaning of paragraph 1 of this article on the later of those two dates.
 
-1. Deze Overeenkomst treedt in werking twaalf maanden na de datum van nederlegging van de tiende akte van bekrachtiging of toetreding.
+##### Article 5
 
-2. Voor elke Staat die deze Overeenkomst bekrachtigt of daartoe toetreedt nadat de tiende akte van bekrachtiging of toetreding is nedergelegd, treedt de Overeenkomst in werking twaalf maanden na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
+Upon its entry into force, this Agreement shall terminate and replace, in relations between the Contracting Parties, the provisions concerning the Protocol on Road Signs and Signals contained in the [European Agreement supplementing the Convention on Road Traffic and the Protocol on Road Signs and Signals of 1949](https://wetten.overheid.nl/jci1.3:c:BWBV0005607), signed at Geneva on 16 September 1950, the Agreement on Signs for Road Works signed at Geneva on 16 December 1955, and the European Agreement on Road Markings signed at Geneva on 13 December 1957.
 
-3. Indien de datum van inwerkingtreding die op grond van het eerste en het tweede lid van dit artikel van toepassing is, voorafgaat aan die welke het gevolg is van de toepassing van [artikel 39 van het Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310&artikel=39) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, treedt deze Overeenkomst in werking in de zin van het eerste lid van dit artikel op die van beide data welke het laatst valt.
+##### Article 6
 
-##### Artikel 5
+1. After this Agreement has been in force for twelve months, any Contracting Party may propose one or more amendments to the Agreement. The text of any proposed amendment, accompanied by an explanatory memorandum, shall be transmitted to the Secretary-General, who shall communicate it to all Contracting Parties. The Contracting Parties shall have the opportunity of informing him within a period of twelve months following the date of its circulation whether they: (a) accept the amendment; or (b) reject the amendment; or (c) wish that a conference be convened to consider the amendment. The Secretary-General shall also transmit the text of the proposed amendment to the other States referred to in article 2 of this Agreement.
 
-Bij zijn inwerkingtreding beëindigt en vervangt deze Overeenkomst in de betrekkingen tussen de Overeenkomstsluitende Partijen de bepalingen betreffende het wegverkeer vervat in de [Europese Overeenkomst houdende aanvulling van het Verdrag nopens het wegverkeer en het Protocol nopens de verkeerstekens van 1949](https://wetten.overheid.nl/jci1.3:c:BWBV0005607) die op 16 september 1950 te Genève werd ondertekend, de Overeenkomst nopens de verkeerstekens ter aanduiding van werken op de weg die op 16 december 1955 te Genève werd ondertekend, en de Europese Overeenkomst betreffende aanduidingen op het wegdek die op 13 december 1957 te Genève werd ondertekend.
+2. - (a) Any proposed amendment communicated in accordance with paragraph 1 of this article shall be deemed to be accepted if within the period of twelve months referred to in the preceding paragraph less than one-third of the Contracting Parties inform the Secretary-General that they either reject the amendment or wish that a conference be convened to consider it. The Secretary-General shall notify all Contracting Parties of each acceptance or rejection of any proposed amendment and of requests that a conference be convened. If the total number of such rejections and requests received during the specified period of twelve months is less than one-third of the total number of Contracting Parties, the Secretary-General shall notify all Contracting Parties that the amendment will enter into force six months after the expiry of the period of twelve months referred to in paragraph 1 of this article for all Contracting Parties except those which, during the period specified, have rejected the amendment or requested the convening of a conference to consider it.
 
-##### Artikel 6
+- (b) Any Contracting Party which, during the said period of twelve months, has rejected a proposed amendment or requested the convening of a conference to consider it may at any time after the end of such period notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Party which has notified its acceptance, six months after the date on which the Secretary-General receives the notification.
 
-1. Nadat deze Overeenkomst twaalf maanden van kracht is geweest, kan elke Overeenkomstsluitende Partij een of meer wijzigingen in de Overeenkomst voorstellen. De tekst van de wijzigingsvoorstellen, vergezeld van een memorie van toelichting, wordt toegezonden aan de Secretaris-Generaal, die deze ter kennis van alle Overeenkomstsluitende Partijen brengt. De Overeenkomstsluitende Partijen hebben de gelegenheid hem, binnen een tijdvak van twaalf maanden te rekenen van de datum van die kennisgeving, mede te delen of zij: (a) de wijziging aanvaarden; of (b) de wijziging verwerpen; of (c) wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal doet de tekst van de voorgestelde wijziging tevens toekomen aan de andere Staten bedoeld in artikel 2 van deze Overeenkomst.
+3. If a proposed amendment has not been accepted in accordance with paragraph 2 of this article and if within the period of twelve months specified in paragraph 1 of this article less than half of the total number of the Contracting Parties inform the Secretary-General that they reject the proposed amendment and if at least one-third of the total number of Contracting Parties, but not less than five, inform him that they accept it or wish a conference to be convened to consider it, the Secretary-General shall convene a conference for the purpose of considering the proposed amendment or any other proposal which may be submitted to him in accordance with paragraph 4 of this article.
 
-- (a). Elke voorgestelde wijziging waarvan overeenkomstig het eerste lid van dit artikel kennis is gegeven, wordt geacht te zijn aanvaard indien, binnen het tijdvak van twaalf maanden bedoeld in het voorgaande lid minder dan een derde van de Overeenkomstsluitende Partijen de Secretaris-Generaal hebben medegedeeld, dat zij de wijziging verwerpen dan wel dat zij wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal stelt alle Overeenkomstsluitende Partijen in kennis van elke aanvaarding of verwerping van elke voorgestelde wijziging en van verzoeken om een conferentie bijeen te roepen. Indien het totale aantal van zodanige verwerpingen en verzoeken die gedurende het voorgeschreven tijdvak van twaalf maanden zijn ontvangen, minder dan een derde bedraagt van het totale aantal Overeenkomstsluitende Partijen, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen ervan in kennis dat de wijziging van kracht zal worden zes maanden na afloop van het tijdvak van twaalf maanden bedoeld in het eerste lid van dit artikel, en wel voor alle Overeenkomstsluitende Partijen met uitzondering van die welke, gedurende het voorgeschreven tijdvak, de wijziging hebben verworpen of de bijeenroeping hebben verzocht van een conferentie om haar te bestuderen.
+4. If a conference is convened in accordance with paragraph 3 of this article, the Secretary-General shall invite to it all the Contracting Parties and the other States referred to in article 2 of this Agreement. He shall request all States invited to the Conference to submit to him, at least six months before its opening date, any proposals which they may wish the Conference to consider in addition to the proposed amendment and shall communicate such proposals, at least three months before the opening date of the conference, to all States invited to the Conference.
 
-- (b). Elke Overeenkomstsluitende Partij die gedurende genoemd tijdvak van twaalf maanden een voorgestelde wijziging heeft verworpen of heeft verzocht een conferentie bijeen te roepen om haar te bestuderen, kan te allen tijde na afloop van bedoeld tijdvak de Secretaris-Generaal er van in kennis stellen dat zij de wijziging aanvaardt en de Secretaris-Generaal deelt deze kennisgeving mede aan alle andere Overeenkomstsluitende Partijen. De wijziging wordt dan ten aanzien van de Overeenkomstsluitende Partij die kennis heeft gegeven van het aanvaarden daarvan, van kracht zes maanden na ontvangst van hun kennisgeving door de Secretaris-Generaal.
+5. - (a) Any amendment to this Agreement shall be deemed to be accepted if it has been adopted by a two-thirds majority of the States represented at the Conference, provided that such majority comprises at least two-thirds of the Contracting Parties represented at the Conference. The Secretary-General shall notify all Contracting Parties of the adoption of the amendment, and the amendment shall enter into force twelve months after the date of this notification for all Contracting Parties except those which during that period have notified the Secretary-General that they reject the amendment.
 
-3. Indien een voorgestelde wijziging niet is aanvaard overeenkomstig het tweede lid van dit artikel en indien binnen het tijdvak van twaalf maanden als bedoeld in het eerste lid van dit artikel minder dan de helft van het totale aantal Overeenkomstsluitende Partijen de Secretaris-Generaal heeft medegedeeld dat zij de voorgestelde wijziging verwerpen en indien tenminste een derde van het totale aantal Overeenkomstsluitende Partijen, maar niet minder dan vijf, hem mededeelt haar te aanvaarden dan wel wenst dat een conferentie wordt bijeengeroepen om haar te bestuderen, roept de Secretaris-Generaal een conferentie bijeen ten einde de voorgestelde wijziging of ieder ander voorstel te bestuderen dat hem wordt voorgelegd overeenkomstig het vierde lid van dit artikel.
+- (b) A Contracting Party which has rejected an amendment during the said period of twelve months may at any time notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Party which has notified its acceptance, six months after receipt by the Secretary-General of the notification or at the end of the said period of twelve months, whichever is later.
 
-4. Indien een conferentie is bijeengeroepen overeenkomstig het derde lid van dit artikel, nodigt de Secretaris-Generaal alle Overeenkomstsluitende Partijen, alsmede de andere Staten bedoeld in artikel 2 van deze Overeenkomst, daartoe uit. Hij verzoekt alle tot de conferentie uitgenodigde Staten hem, uiterlijk zes maanden, voor de openingsdatum van de conferentie, alle voorstellen voor te leggen die zij behalve de voorgestelde wijziging ook door de conferentie wensen te laten bestuderen en hij deelt zodanige voorstellen uiterlijk drie maanden voor de openingsdatum van de conferentie mede aan alle tot de conferentie uitgenodigde Staten.
+6. If the proposed amendment is not deemed to be accepted pursuant to paragraph 2 of this article and if the conditions prescribed by paragraph 3 of this article for convening a conference are not fulfilled, the proposed amendment shall be deemed to be rejected.
 
-- (a). Elke wijziging op deze Overeenkomst wordt geacht te zijn aanvaard indien zij is aanvaard door een twee derde meerderheid van de ter conferentie vertegenwoordigde Staten, mits deze meerderheid ten minste twee derde bedraagt van de ter conferentie vertegenwoordigde Overeenkomstsluitende Partijen. De Secretaris-Generaal stelt alle Overeenkomstsluitende Partijen in kennis van het aanvaarden van de wijziging en de wijziging wordt van kracht twaalf maanden na de datum van deze kennisgeving, en wel voor alle Overeenkomstsluitende Partijen met uitzondering van die, welke gedurende dit tijdvak de Secretaris-Generaal er van in kennis hebben gesteld dat zij de wijziging verwerpen.
+7. Independently of the amendment procedure prescribed in paragraphs 1-6 of this article, the annex to this Agreement may be amended by agreement between the competent administrations of all Contracting Parties. If the administration of a Contracting Party states that its national law obliges it to subordinate its agreement to the grant of a specific authorization or to the approval of a legislative body, the competent administration of the Contracting Party in question shall be considered to have consented to the amendment to the annex only at such time as it notifies the Secretary-General that it has obtained the required authorization or approval. The agreement between the competent administrations may provide that, during a transitional period, the former provisions of the annex shall remain in force, in whole or in part, simultaneously with the new provisions. The Secretary-General shall appoint the date of entry into force of the new provisions.
 
-- (b). Een Overeenkomstsluitende Partij die een wijziging gedurende genoemd tijdvak van twaalf maanden heeft verworpen, kan de Secretaris-Generaal te allen tijde er van in kennis stellen dat zij de wijziging aanvaardt, en de Secretaris-Generaal deelt deze kennisgeving mede aan alle andere Overeenkomstsluitende Partijen. De wijziging wordt ten aanzien van de Overeenkomstsluitende Partij die kennis heeft gegeven van het aanvaarden daarvan, van kracht zes maanden na ontvangst van deze kennisgeving door de Secretaris-Generaal of aan het einde van genoemd tijdvak van twaalf maanden, welke van beide data het laatst valt.
+8. Each State shall, at the time of signing, ratifying, or acceding to, this Agreement, inform the Secretary-General of the name and address of its administration competent in the matter of agreement as contemplated in paragraph 7 of this article.
 
-6. Indien de voorgestelde wijziging niet wordt geacht te zijn aanvaard overeenkomstig het tweede lid van dit artikel, en indien aan de in het derde lid van dit artikel voorgeschreven voorwaarden met betrekking tot het bijeenroepen van een conferentie niet is voldaan, wordt de voorgestelde wijziging geacht te zijn verworpen.
+##### Article 7
 
-7. Onafhankelijk van de wijzigingsprocedure voorgeschreven in het eerste tot en met zesde lid van dit artikel, kan de Bijlage bij deze Overeenkomst bij overeenkomst tussen de bevoegde administraties van alle Overeenkomstsluitende Partijen worden gewijzigd. Indien de administratie van een Overeenkomstsluitende Partij verklaart dat haar nationale wetgeving haar verplicht haar instemming afhankelijk te stellen van de verlening van een bijzondere machtiging of van de goedkeuring van een wetgevend lichaam, wordt de bevoegde administratie van de betrokken Overeenkomstsluitende Partij beschouwd eerst met de wijziging op de Bijlage te hebben ingestemd op het tijdstip waarop zij de Secretaris-Generaal er van in kennis heeft gesteld dat zij de vereiste machtiging of goedkeuring heeft verkregen. De overeenkomst tussen de bevoegde administraties kan bepalen dat tijdens een overgangsperiode de vroegere bepalingen van de Bijlage geheel of gedeeltelijk van kracht zullen blijven naast de nieuwe bepalingen. De Secretaris-Generaal bepaalt de datum van inwerkingtreding van de nieuwe bepalingen.
+Any Contracting Party may denounce this Agreement by written notification addressed to the Secretary-General. The denunciation shall take effect one year after the date of receipt by the Secretary-General of such notification. Any Contracting Party which ceases to be a Party to the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968 shall on the same date cease to be a Party to this Agreement.
 
-8. Elke Staat deelt op het tijdstip van ondertekening of bekrachtiging van of van toetreding tot deze Overeenkomst de Secretaris-Generaal de naam en het adres mede van zijn ter zake van de Overeenkomst bevoegde administratie als bedoeld in het zevende lid van dit artikel.
+##### Article 8
 
-##### Artikel 7
+This Agreement shall cease to be in force if the number of Contracting Parties is less than five for any period of twelve consecutive months, or at such time as the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on 8 November 1968 ceases to be in force.
 
-Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal. Een Overeenkomstsluitende Partij die ophoudt partij te zijn bij het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, houdt op dezelfde datum op partij te zijn bij deze Overeenkomst.
+##### Article 9
 
-##### Artikel 8
+1. Any dispute between two or more Contracting Parties which relates to the interpretation or application of this Agreement and which the Parties in dispute are unable to settle by negotiation or other means of settlement shall be referred to arbitration if any of the Contracting Parties in dispute so requests, and shall, to that end, be submitted to one or more arbitrators selected by mutual agreement between the Parties in dispute. If the Parties in dispute fail, to agree on the choice of an arbitrator or arbitrators within three months after the request for arbitration, any of those Parties may request the Secretary-General of the United Nations to appoint a single arbitrator to whom the dispute shall be submitted for decision.
 
-Deze Overeenkomst houdt op van kracht te zijn indien het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder is dan vijf of op het tijdstip waarop het [Verdrag inzake verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, ophoudt van kracht te zijn.
+2. The award of the arbitrator or arbitrators appointed in accordance with paragraph 1 of this article shall be binding upon the Contracting Parties in dispute.
 
-##### Artikel 9
+##### Article 10
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen met betrekking tot de uitlegging of toepassing van deze Overeenkomst en dat door de partijen bij het geschil niet door onderhandelingen of door andere middelen tot regeling van een geschil kan worden opgelost, wordt onderworpen aan arbitrage indien een der bij het geschil betrokken Overeenkomstsluitende Partijen zulks verzoekt en wordt hiertoe voorgelegd aan een of meer scheidsmannen die in onderlinge overeenstemming tussen de partijen bij het geschil wordt of worden gekozen. Indien de partijen bij het geschil niet binnen drie maanden na het verzoek om arbitrage tot overeenstemming kunnen komen omtrent de keuze van een scheidsman of van scheidsmannen, kan een van die partijen de Secretaris-Generaal van de Verenigde Naties verzoeken een enkele scheidsman te benoemen, aan wie het geschil ter oplossing zal worden voorgelegd.
+Nothing in this Agreement shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and limited to the exigencies of the situation, as it considers necessary to its external or internal security.
 
-2. De uitspraak van de overeenkomstig het eerste lid van dit artikel benoemde scheidsman of scheidsmannen is bindend voor de bij een geschil betrokken Overeenkomstsluitende Partijen.
+##### Article 11
 
-##### Artikel 10
+1. Any State may, at the time of signing this Agreement or of depositing its instrument of ratification or accession, declare that it does not consider itself bound by article 9 of this Agreement. Other Contracting Parties shall not be bound by article 9 with respect to any Contracting Party which has made such a declaration.
 
-Niets in deze Overeenkomst mag zo worden uitgelegd dat een Overeenkomstsluitende Partij daardoor zou worden belet de maatregelen te nemen die deze Partij noodzakelijk acht voor haar buitenlandse of binnenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten der gegeven omstandigheden.
+2. Reservations to this Agreement, other than the reservation provided for in paragraph 1 of this article, shall be permitted on condition that they are formulated in writing and, if formulated before the deposit of the instrument of ratification or accession, are confirmed in that instrument.
 
-##### Artikel 11
+3. Any State shall, at the time of depositing its instrument of ratification of this Agreement or of accession thereto, notify the Secretary-General in writing to what extent any reservation made by it to the Convention on Road Signs and Signals opened for signature at Vienna on 8 November 1968 apply to this Agreement. Any reservations to the Convention on Road Signs and Signals which have not been included in the notification made at the time of depositing the instrument of ratification of this Agreement or of accession thereto shall be deemed to be inapplicable to this Agreement.
 
-1. Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging of toetreding verklaren dat hij zich niet gebonden acht aan artikel 9 van deze Overeenkomst. Andere Overeenkomstsluitende Partijen zijn niet gebonden door artikel 9 met betrekking tot een Overeenkomstsluitende Partij die een zodanige verklaring heeft afgelegd.
+4. The Secretary-General shall communicate the reservations and notifications made pursuant to this article to all States referred to in article 2 of this Agreement.
 
-2. Elk voorbehoud ten aanzien van deze Overeenkomst, met uitzondering van het voorbehoud bedoeld in het eerste lid van dit artikel, is toegestaan, op voorwaarde dat het schriftelijk wordt gemaakt en dat het, indien het is gemaakt voor de nederlegging van de akte van bekrachtiging of van toetreding, in die akte wordt bevestigd.
+5. Any State which has made a declaration, a reservation or a notification under this article may withdraw it at any time by notification addressed to the Secretary-General.
 
-3. Elke Staat stelt bij de nederlegging van zijn akte van bekrachtiging van deze Overeenkomst of bij toetreding daartoe de Secretaris-Generaal schriftelijk er van in kennis in hoeverre een voorbehoud gemaakt ten aanzien van het Verdrag inzake verkeerstekens dat op 8 november 1968 te Wenen voor ondertekening werd opengesteld, tevens op deze Overeenkomst van toepassing is.
+6. Any reservation made in accordance with paragraph 2 or notified in accordance with paragraph 3 of this article,
 
-Voorbehouden ten aanzien van het Verdrag inzake verkeerstekens die niet zijn genoemd in de kennisgeving gedaan bij de nederlegging van de akte van bekrachtiging van deze Overeenkomst of bij toetreding daartoe worden als niet van toepassing op deze Overeenkomst beschouwd.
+- (a) modifies, for the Contracting Party which has made or notified the reservation, the provisions of the Agreement to which the reservation relates, to the extent of the reservation;
 
-4. De Secretaris-Generaal deelt de voorbehouden en kennisgevingen krachtens dit artikel mede aan alle Staten bedoeld in artikel 2 van deze Overeenkomst.
+- (b) modifies those provisions to the same extent for the other Contracting Parties in their relations with the Contracting Party which made or notified the reservation.
 
-5. Elke Staat die een verklaring heeft afgelegd, een voorbehoud heeft gemaakt of een kennisgeving heeft gedaan krachtens dit artikel kan deze te allen tijde intrekken door middel van een tot de Secretaris-Generaal gerichte kennisgeving.
+##### Article 12
 
-6. Elk voorbehoud gemaakt overeenkomstig het tweede lid of ter kennis gebracht overeenkomstig het derde lid van dit artikel
+In addition to the declarations, notifications and communications provided for in articles 6 and 11 of this Agreement, the Secretary-General shall notify the Contracting Parties and the other States referred to in article 2 of the following:
 
-- (a). wijzigt voor de Overeenkomstsluitende Partij die het voorbehoud heeft gemaakt of ter kennis gebracht de bepalingen van de Overeenkomst waarop het voorbehoud betrekking heeft, zulks overeenkomstig de draagwijdte van het voorbehoud;
+- (a) signatures, ratifications and accessions under article 2;
 
-- (b). wijzigt deze bepalingen in dezelfde mate voor de andere Overeenkomstsluitende Partijen ten aanzien van hun betrekkingen met de Overeenkomstsluitende Partij die het voorbehoud heeft gemaakt of ter kennis gebracht.
+- (b) notifications and declarations under article 3;
 
-##### Artikel 12
+- (c) the dates of entry into force of this Agreement in accordance with article 4;
 
-Behalve de verklaringen, kennisgevingen en mededelingen bedoeld in de artikelen 6 en 11 van deze Overeenkomst, stelt de Secretaris-Generaal de Overeenkomstsluitende Partijen en de andere Staten bedoeld in artikel 2 van deze Overeenkomst in kennis van:
+- (d) the date of entry into force of amendments to this Agreement in accordance with article 6, paragraphs 2, 5 and 7;
 
-- (a). ondertekeningen, bekrachtigingen en toetredingen ingevolge artikel 2;
+- (e) denunciations under article 7;
 
-- (b). kennisgevingen en verklaringen ingevolge artikel 3;
+- (f) the termination of this Agreement under article 8.
 
-- (c). de data waarop dit Verdrag in werking treedt overeenkomstig artikel 4;
+##### Article 13
 
-- (d). de datum waarop de wijzigingen van deze Overeenkomst van kracht worden overeenkomstig artikel 6, het tweede, vijfde en zevende lid;
-
-- (e). opzeggingen ingevolge artikel 7;
-
-- (f). de beëindiging van deze Overeenkomst ingevolge artikel 8.
-
-##### Artikel 13
-
-Na 31 december 1972 wordt het oorspronkelijke exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten bedoeld in artikel 2 van deze Overeenkomst.
+After 31 December *In conformity with the decision of the Inland Transport Committee at its thirty-first session, the period during which the Agreement would be open for signature has been extended until 31 December 1972.1972, the original of this Agreement shall be deposited with the Secretary-General of the United Nations, who shall send certified true copies to all the States referred to in article 2 of this Agreement.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.
 

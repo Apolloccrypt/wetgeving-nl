@@ -1,66 +1,38 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 november 2012, MC-U-3140782, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage continuïteit van zorg"
+citeertitel: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage continuïteit van zorg)"
 identifier: "BWBR0032233"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032233"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11911063"
-version_id: "19792292"
-internal_id: "C27796131"
-label_id: "11883034"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032233/2013-01-01/0"
-intitule_bron: "Stcrt.2012-23766"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-13"
-intitule_published: "2012-11-21"
-intitule_in_force: "2012-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-23766"
-original_signed_date: "2012-11-13"
-original_published_date: "2012-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-23766"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032233&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032233&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage continuïteit van zorg)"
-signed_date: "2012-11-13"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032233"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 november 2012, MC-U-3140782, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage continuïteit van zorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 25 mei 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tweede Kamer der Staten-Generaal als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8) (Kamerstukken II 2011/12, 32 393, nr. 17);
-
-Gezien het verslag van 29 juni 2012 van een schriftelijk overleg met de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 32 393, nr. 24);
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- **besluit:** [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
+- *besluit:*
+ [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
 
-- **vangnetaanbieder:** zorgaanbieder die door de minister is opgericht of mede is opgericht ten behoeve van de continuïteit van zorg.
+- *vangnetaanbieder:* zorgaanbieder die door de minister is opgericht of mede is opgericht ten behoeve van de continuïteit van zorg.
 
 ##### Artikel 2. werkingssfeer
 
-Deze aanwijzing is van toepassing op zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub a tot en met e, van de bijlage bij het besluit](onbekend).
+Deze aanwijzing is van toepassing op zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub a tot en met e, van de bijlage bij het besluit](https://wetten.overheid.nl/BWBR0031971).
 
 ##### Artikel 3. opdracht
 
@@ -68,7 +40,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 
 ##### Artikel 4. voorwaarde aan het toekennen van een beschikbaarheidbijdrage
 
-De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub b en c van de bijlage bij het besluit](onbekend) toe onder de voorwaarde dat er geen verslechtering in bereikbaarheid optreedt ten opzichte van de thans bestaande landelijke situatie, uitgaande van de bereikbaarheidsnorm als genoemd in onderdeel A, onder 2, sub b en c van de bijlage bij het besluit.
+De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub b en c van de bijlage bij het besluit](https://wetten.overheid.nl/BWBR0031971) toe onder de voorwaarde dat er geen verslechtering in bereikbaarheid optreedt ten opzichte van de thans bestaande landelijke situatie, uitgaande van de bereikbaarheidsnorm als genoemd in onderdeel A, onder 2, sub b en c van de bijlage bij het besluit.
 
 ##### Artikel 5. toekennen beschikbaarheidbijdrage
 
@@ -90,8 +62,6 @@ De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [arti
 
 ##### Artikel 7. financieringsbron
 
-1. Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor zorg als bedoeld in [onderdeel A, onder 2, sub a tot en met d van het besluit](onbekend).
+1. Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor zorg als bedoeld in [onderdeel A, onder 2, sub a tot en met d van het besluit](https://wetten.overheid.nl/BWBR0031971).
 
-2. Ten laste van het Algemeen Fonds Bijzondere Ziektekosten komen beschikbaarheidbijdragen voor zorg als bedoeld in [onderdeel A, onder 2, sub e van het besluit](onbekend).
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
+2. Ten laste van het Algemeen Fonds Bijzondere Ziektekosten komen beschikbaarheidbijdragen voor zorg als bedoeld in [onderdeel A, onder 2, sub e van het besluit](https://wetten.overheid.nl/BWBR0031971).

@@ -1,72 +1,39 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3145881, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
+citeertitel: "Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
 identifier: "BWBR0032517"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-02-01"
-last_updated: "2013-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032517"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "11973873"
-version_id: "19904292"
-internal_id: "C27956531"
-label_id: "11945744"
-dtd_version: "2.0"
-original_entry_into_force: "2013-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032517/2013-02-01/0"
-intitule_bron: "Stcrt.2012-26374"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-11"
-intitule_published: "2012-12-20"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-26374"
-original_signed_date: "2012-12-11"
-original_published_date: "2012-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-26374"
-entry_into_force_date: "2013-02-01"
-jci_1_3: "jci1.3:c:BWBR0032517&z=2013-02-01&g=2013-02-01"
-jci_1_0: "1.0:c:BWBR0032517&g=2013-02-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
-signed_date: "2012-12-11"
-entry_into_force: "2013-02-01"
+publicatiedatum: 2013-02-01
+laatste_update: 2013-02-01
+status: geldig
+toestand: 2013-02-01
+bron: "https://wetten.overheid.nl/BWBR0032517"
+opgehaald: 2026-08-19
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3145881, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 21 februari 2012 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 25 424, nr. 160) als bedoeld in [artikel 8 van de Wet marktordening gezondheidzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gelet op het verslag van een schriftelijk overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal (Kamerstukken II 2011/12, 25 424, nr. 175) van 16 april 2012;
-
-Gelet op het voortgezet schriftelijk overleg en het voortgezet algemeen overleg van de vaste commissie voor Volksgezondheid, Welzijn en Sport van de Tweede Kamer der Staten-Generaal van 26 april 2012 (Handelingen II 2011/2012, nr. 82, items 8 en 32);
-
-Gelet op de handelingen van de Eerste Kamer der Staten-Generaal van 6 maart 2012 (Handelingen I 2011/12, nr. 21);
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- a. **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- b. *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- c. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- c. *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **geneeskundige geestelijke gezondheidszorg:** zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);
+- d. *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);
 
-- e. **bestuurlijk akkoord:** Bestuurlijk Akkoord toekomst GGZ 2013-2014 (Bijlage bij Kamerstukken II 2011/12, 25 424, nr. 183);
+- e. *bestuurlijk akkoord:* Bestuurlijk Akkoord toekomst GGZ 2013-2014 (Bijlage bij Kamerstukken II 2011/12, 25 424, nr. 183);
 
-- f. **aanwijzing nhc’s:** Aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 12 juli 2011 (Stcrt. 2011, 13319), zoals gewijzigd in de Aanwijzing houdende wijziging van de aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 8 augustus 2011 (Stcrt. 2011, 16189);
+- f. *aanwijzing nhc’s:* Aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 12 juli 2011 (Stcrt. 2011, 13319), zoals gewijzigd in de Aanwijzing houdende wijziging van de aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 8 augustus 2011 (Stcrt. 2011, 16189);
 
-- g. **verrekenbedrag:** bedrag als bedoeld in artikel 8 van de Aanwijzing inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg van 11 juli 2012 (Stcrt. 2012, 14824);
+- g. *verrekenbedrag:* bedrag als bedoeld in artikel 8 van de Aanwijzing inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg van 11 juli 2012 (Stcrt. 2012, 14824);
 
-- h. **gebudgetteerde zorgaanbieder:** zorgaanbieder voor geneeskundige geestelijke gezondheidszorg waarvoor de zorgautoriteit de aanvaardbare kosten op basis van AWBZ-parameters heeft vastgesteld.
+- h. *gebudgetteerde zorgaanbieder:* zorgaanbieder voor geneeskundige geestelijke gezondheidszorg waarvoor de zorgautoriteit de aanvaardbare kosten op basis van AWBZ-parameters heeft vastgesteld.
 
 ##### Artikel 2. werkingssfeer
 
@@ -121,5 +88,3 @@ Ter vaststelling van de individuele grenzen, bedoeld in [artikel 5, eerste lid](
 ##### Artikel 9. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

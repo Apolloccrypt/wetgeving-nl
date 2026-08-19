@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 15 maart 2013, nr. WJZ/12351247, houdende regels omtrent het uitwisselen van gegevens tussen de Autoriteit Consument en Markt en de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu (Regeling gegevensuitwisseling ACM en ministers)"
+citeertitel: "Regeling gegevensuitwisseling ACM en ministers"
 identifier: "BWBR0033092"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-02-16"
-last_updated: "2024-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033092"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "12165013"
-version_id: "20313312"
-internal_id: "C28577171"
-label_id: "12136774"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033092/2024-02-16/0"
-intitule_bron: "Stcrt.2013-8155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-15"
-intitule_published: "2013-03-28"
-intitule_in_force: "2013-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-8155"
-original_signed_date: "2013-03-15"
-original_published_date: "2013-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-8155"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0033092&z=2024-02-16&g=2024-02-16"
-jci_1_0: "1.0:c:BWBR0033092&g=2024-02-16"
-citeertitel_status: "officieel"
-short_title: "Regeling gegevensuitwisseling ACM en ministers"
-signed_date: "2013-03-15"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2024-02-16
+status: geldig
+toestand: 2024-02-16
+bron: "https://wetten.overheid.nl/BWBR0033092"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Economische Zaken van 15 maart 2013, nr. WJZ/12351247, houdende regels omtrent het uitwisselen van gegevens tussen de Autoriteit Consument en Markt en de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu (Regeling gegevensuitwisseling ACM en ministers)
-
-Gelet op [artikel 8 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=8);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,9 +20,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ACM:** de Autoriteit Consument en Markt;
+- a. *ACM:* de Autoriteit Consument en Markt;
 
-- b. **Minister:** de Minister van Economische Zaken.
+- b. *Minister:* de Minister van Economische Zaken.
 
 ##### Artikel 2
 
@@ -57,6 +31,10 @@ In deze regeling wordt verstaan onder:
 2. De Minister of de Minister van Infrastructuur en Milieu verstrekt uit eigen beweging of op verzoek van de ACM zo spoedig mogelijk de gegevens die nodig zijn voor de taakuitoefening van de ACM of waarvan hij redelijkerwijs kan aannemen dat zij voor de taakuitoefening van de ACM nodig zijn.
 
 3. De ACM en de Minister of de Minister van Infrastructuur en Milieu informeren elkaar tijdig over onderwerpen die in de publiciteit kunnen komen en waarvan redelijkerwijs kan worden aangenomen dat het voor de ander van belang is om daarvan op de hoogte te zijn.
+
+##### Artikel 2a
+
+De ACM zendt de Minister jaarlijks voor 1 december een overzicht op hoofdlijnen van de verwachte werkzaamheden per sector voor het daaropvolgende jaar en een vergelijking van de verwachte werkzaamheden met de werkzaamheden van het lopende jaar.
 
 ##### Artikel 3
 
@@ -144,7 +122,7 @@ De Minister informeert de ACM over relevante ontwikkelingen en aanschrijvingen m
 
 ##### Artikel 13
 
-1. De ACM stuurt de Minister jaarlijks voor 1 maart een voorstel voor de bedragen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=9).
+1. De ACM stuurt de Minister jaarlijks voor 1 maart een voorstel voor de bedragen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=9).
 
 2. Het in het eerste lid genoemde voorstel gaat vergezeld van een toelichting waarin wordt ingegaan op:
 
@@ -156,13 +134,19 @@ De Minister informeert de ACM over relevante ontwikkelingen en aanschrijvingen m
 
 - d. mogelijk aan het voorstel verbonden gevoeligheden.
 
-#### § 7. Jaarverslag en rapportage ConsuWijzer
+#### § 7. Jaarverslag, aanvullende financiële gegevens en rapportage ConsuWijzer
 
 ##### Artikel 14
 
 1. De ACM stelt de Minister ten minste vier weken voordat het jaarverslag overeenkomstig [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) aan de Minister wordt gezonden in de gelegenheid kennis te nemen van het ontwerpjaarverslag. De Minister stuurt het ontwerpjaarverslag door naar de Minister van Infrastructuur en Milieu.
 
 2. De Minister stelt de ACM ten minste twee weken voordat hij zijn bevindingen omtrent het jaarverslag aan de beide kamers der Staten-Generaal zendt, in de gelegenheid kennis te nemen van zijn ontwerpbevindingen en de ontwerpbevindingen van de Minister van Infrastructuur en Milieu omtrent het jaarverslag van de ACM.
+
+##### Artikel 14a
+
+1. Onverminderd [artikel 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=30) informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.
+
+2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033092&paragraaf=3&artikel=6&z=2024-02-16&g=2024-02-16), waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
 
 ##### Artikel 15
 
@@ -172,7 +156,7 @@ De ACM zendt de Minister halfjaarlijks een overzicht en specificatie van de via 
 
 ##### Artikel 16
 
-1. De ACM stelt de Minister zo spoedig mogelijk in kennis van een verwijzingsverzoek als bedoeld in artikel 4, vierde en vijfde lid, van [Verordening (EG) nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU 2004, L 24).
+1. De ACM stelt de Minister zo spoedig mogelijk in kennis van een verwijzingsverzoek als bedoeld in artikel 4, vierde en vijfde lid, van Verordening (EG) nr. 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU 2004, L 24).
 
 2. De ACM stelt de Minister in kennis van het voornemen van een kennisgeving aan de Europese Commissie als bedoeld in artikel 9, tweede lid, van de verordening. De kennisgeving aan de Minister geschiedt uiterlijk vijf werkdagen voordat de termijn afloopt waarbinnen de kennisgeving aan de Europese Commissie moet worden gedaan.
 
@@ -196,7 +180,7 @@ De ACM zendt de Minister halfjaarlijks een overzicht en specificatie van de via 
 
 2. De Minister stelt de ACM binnen twee weken in kennis van zijn voornemen opmerkingen te maken bij de ontwerpafspraken. Hij maakt zijn opmerkingen binnen twee weken na die kennisgeving.
 
-#### § 9. Informatie-uitwisseling in relatie tot andere instanties
+#### § 10. Slotbepalingen
 
 ##### Artikel 19
 
@@ -204,38 +188,8 @@ De [Regeling gegevensuitwisseling NMa-EZ](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 20
 
-Deze regeling treedt in werking met ingang van 1 april 2013.
+Deze regeling treedt in werking met ingang van 1 april 2013.
 
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling gegevensuitwisseling ACM en ministers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De ACM zendt de Minister jaarlijks voor 1 december een overzicht op hoofdlijnen van de verwachte werkzaamheden per sector voor het daaropvolgende jaar en een vergelijking van de verwachte werkzaamheden met de werkzaamheden van het lopende jaar.
-
-#### § 2. Werkzaamheden in internationaal verband
-
-#### § 3. Uitvoeringstoets en rapportage inzake effecten voor de mededinging
-
-#### § 4. Beleidsregels
-
-#### § 5. Interne organisatie ACM
-
-#### § 6. Voorstel bedragen doorberekening kosten ACM
-
-#### § 7. Jaarverslag, aanvullende financiële gegevens en rapportage ConsuWijzer
-
-##### Artikel 14a
-
-1. Onverminderd [artikel 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=30) informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.
-
-2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033092&paragraaf=3&artikel=6&z=2024-02-16&g=2024-02-16), waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
-
-#### § 8. Concentraties
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

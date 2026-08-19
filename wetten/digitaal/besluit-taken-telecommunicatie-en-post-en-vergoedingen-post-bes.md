@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 december 2012, houdende regels inzake taken op het terrein van telecommunicatie en post en inzake vergoedingen op het terrein van post met betrekking tot Bonaire, Sint Eustatius en Saba (Besluit taken telecommunicatie en post en vergoedingen post BES)"
+citeertitel: "Besluit taken telecommunicatie en post en vergoedingen post BES"
 identifier: "BWBR0032728"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032728"
+categorie: "Digitaal en privacy"
 soort: "AMvB-BES"
-stam_id: "12037783"
-version_id: "20043942"
-internal_id: "C28152651"
-label_id: "12009554"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032728/2013-04-01/0"
-intitule_bron: "Stb.2012-692"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-19"
-intitule_published: "2012-12-28"
-intitule_in_force: "2012-12-28"
-intitule_status: "goed"
-original_publication: "Stb.2012-692"
-original_signed_date: "2012-12-19"
-original_published_date: "2012-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-692"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032728&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0032728&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit taken telecommunicatie en post en vergoedingen post BES"
-signed_date: "2012-12-19"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0032728"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 19 december 2012, houdende regels inzake taken op het terrein van telecommunicatie en post en inzake vergoedingen op het terrein van post met betrekking tot Bonaire, Sint Eustatius en Saba (Besluit taken telecommunicatie en post en vergoedingen post BES)
-
-Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie, van 30 oktober 2012, nr. WJZ / 12331692;
-
-Gelet op de [artikelen 44b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44b), en [44e, vijfde lid, van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e) en de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=14), en [27, tweede lid, van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=27);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 november 2012, nr. W 15.12.0467/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 13 december 2012, nr. WJZ / 12379616;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -58,11 +26,11 @@ De Autoriteit Consument en Markt heeft tot taak:
 
 - b. het houden van toezicht op de naleving van het bepaalde bij of krachtens de [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469), voor zover het betreft:
 
-- i. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=6), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=30) en [44e, tweede lid, derde lid, tweede volzin, en vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e);
+   - i. het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=6), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=30) en [44e, tweede lid, derde lid, tweede volzin, en vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e);
 
-- ii. het bepaalde bij of krachtens [artikel 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7), uitgezonderd voorwaarden betreffende de te gebruiken frequenties, apparatuur, technologie of technische standaarden;
+   - ii. het bepaalde bij of krachtens [artikel 7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7), uitgezonderd voorwaarden betreffende de te gebruiken frequenties, apparatuur, technologie of technische standaarden;
 
-- iii. het bepaalde bij of krachtens [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=9), voor zover het verplichtingen betreffende het gebruik van nummers betreft;
+   - iii. het bepaalde bij of krachtens [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=9), voor zover het verplichtingen betreffende het gebruik van nummers betreft;
 
 - c. het nemen van besluiten in verband met de toekenning van nummers die in een nummerplan zijn opgenomen overeenkomstig het bepaalde in [artikel 44e van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e).
 
@@ -106,7 +74,7 @@ Binnen drie maanden na de indiening van het verzoek neemt de Autoriteit Consumen
 
 ##### Artikel 9
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 10
 
@@ -119,5 +87,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit taken telecommunicatie en post en vergoedingen post BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

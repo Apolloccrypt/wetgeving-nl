@@ -1,54 +1,30 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12375497, tot aanwijzing van toezichthouders voor de Wet dieren"
+citeertitel: "Besluit aanwijzing toezichthouders Wet dieren"
 identifier: "BWBR0032516"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-18"
-last_updated: "2023-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032516"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "11973763"
-version_id: "27700642"
-internal_id: "C39080941"
-label_id: "11945584"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032516/2023-10-18/0"
-intitule_bron: "Stcrt.2012-26393"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-12"
-intitule_published: "2012-12-20"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-17802"
-original_signed_date: "2021-04-12"
-original_published_date: "2021-04-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-17802"
-entry_into_force_date: "2021-04-12"
-jci_1_3: "jci1.3:c:BWBR0032516&z=2023-10-18&g=2023-10-18"
-jci_1_0: "1.0:c:BWBR0032516&g=2023-10-18"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing toezichthouders Wet dieren"
-signed_date: "2021-04-12"
-entry_into_force: "2021-04-12"
+publicatiedatum: 2021-04-12
+laatste_update: 2023-10-18
+status: geldig
+toestand: 2023-10-18
+bron: "https://wetten.overheid.nl/BWBR0032516"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12375497, tot aanwijzing van toezichthouders voor de Wet dieren
-
-Gelet op [artikel 8.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1);
-
-Besluit:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- –. **verordening (EG) nr. 1/2005:** Verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);
+- – *verordening (EG) nr. 1/2005:* Verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);
 
-- –. **verordening (EU) nr. 2019/6:** [Verordening (EU) 2019/6](31906R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van [Richtlijn 2011/82/EG](32011L0082) (PbEU 2019, L 4);
+- – *verordening (EU) nr. 2019/6:*
+ Verordening (EU) 2019/6 van het Europees Parlement en de Raad van 11 december 2018 betreffende diergeneesmiddelen en tot intrekking van Richtlijn 2011/82/EG (PbEU 2019, L 4);
 
-- –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
+- – *wet:*
+ [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
 
 2. Dit besluit berust mede op [artikel 5.9, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9).
 
@@ -64,63 +40,69 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - d. de ambtenaren van de Inspectie gezondheidszorg en jeugd van het Ministerie van Volksgezondheid, Welzijn en Sport, voor zover het betreft het toezicht op de naleving van:
 
-- 1°. de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met hoofdstuk VI van verordening (EU) nr. 2019/6;
+   - 1°. de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met hoofdstuk VI van verordening (EU) nr. 2019/6;
 
-- 2°. artikel 8, eerste lid, onderdeel b, van [verordening (EU) nr. 2019/6](31906R2019) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage II, inleiding en algemene beginselen, onderdeel 6, van verordening (EU) nr. 2019/6;
+   - 2°. artikel 8, eerste lid, onderdeel b, van verordening (EU) nr. 2019/6 ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage II, inleiding en algemene beginselen, onderdeel 6, van verordening (EU) nr. 2019/6;
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de vrijwillige ambtenaren van de politie, bedoeld in artikel 2, onderdeel c, van de Politiewet 2012, voor zover deze vrijwillige ambtenaren zijn aangesteld voor de uitvoering van de politietaak, met uitzondering van de vrijwilliger-aspirant gedurende het theoretische opleidingsdeel en de vrijwillige ambtenaar in opleiding gedurende het theoretisch opleidingsdeel, bedoeld in het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), voor zover het betreft het bepaalde bij of krachtens:
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de vrijwillige ambtenaren van de politie, bedoeld in artikel 2, onderdeel c, van de Politiewet 2012, voor zover deze vrijwillige ambtenaren zijn aangesteld voor de uitvoering van de politietaak, met uitzondering van de vrijwilliger-aspirant gedurende het theoretische opleidingsdeel en de vrijwillige ambtenaar in opleiding gedurende het theoretisch opleidingsdeel, bedoeld in het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), voor zover het betreft het bepaalde bij of krachtens:
 
-- 1°. de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.23), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.5), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.5), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.6), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.11), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.12), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.13), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.15) en [8.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4); en
+   - 1°. de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.3), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.15), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.23), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.5), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.5), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.6), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.11), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.12), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.13), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.15) en [8.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4); en
 
-- 2°. de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2) en [7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) in samenhang met de onderwerpen waarop de artikelen, genoemd in onderdeel 1°, betrekking hebben;
+   - 2°. de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2) en [7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) in samenhang met de onderwerpen waarop de artikelen, genoemd in onderdeel 1°, betrekking hebben;
 
 - g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenwelzijn, voor zover het betreft het toezicht op de naleving van:
 
-- 1.°. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en [artikel 1.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.3);
+   - 1.° [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en [artikel 1.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.3);
 
-- 2.°. de [artikelen 2.2, tiende lid, onderdeel b, c, d, e, f, g, k, l, m, n, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.6, tweede lid, onderdeel a, b, d, e, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid, onderdeel a, c, d, g, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), in samenhang met [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, onderdeel c, d, e, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), en [7.6, tweede lid, onderdeel c, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), in samenhang met het bepaalde bij of krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) en [paragraaf 3.2 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=2);
+   - 2.° de [artikelen 2.2, tiende lid, onderdeel b, c, d, e, f, g, k, l, m, n, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.6, tweede lid, onderdeel a, b, d, e, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid, onderdeel a, c, d, g, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), in samenhang met [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, onderdeel c, d, e, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), en [7.6, tweede lid, onderdeel c, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), in samenhang met het bepaalde bij of krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) en [paragraaf 3.2 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=2);
 
-- 3.°. [artikel 2.2, zevende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in [artikel 1.20 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.20);
+   - 3.° [artikel 2.2, zevende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in [artikel 1.20 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.20);
 
-- 4.°. [artikel 2.2, tiende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in de [artikelen 1.6 tot en met 1.8 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.6);
+   - 4.° [artikel 2.2, tiende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in de [artikelen 1.6 tot en met 1.8 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.6);
 
-- 5.°. [artikel 2.2, tiende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in de [artikelen 3.1 tot en met 3.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.1);
+   - 5.° [artikel 2.2, tiende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in de [artikelen 3.1 tot en met 3.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.1);
 
-- 6°. [artikel 2.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5) in samenhang met hoofdstuk 4 van de Regeling houders van dieren en verordening (EG) nr. 1/2005;
+   - 6°. [artikel 2.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5) in samenhang met hoofdstuk 4 van de Regeling houders van dieren en verordening (EG) nr. 1/2005;
 
-- 7.°. [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) en [2.16, derde en vierde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16) in samenhang met de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.1), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.5), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) en [2.8 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.8) voor zover het ingrepen betreft ten aanzien van:
+   - 7.° [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) en [2.16, derde en vierde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16) in samenhang met de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.1), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.5), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) en [2.8 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.8) voor zover het ingrepen betreft ten aanzien van:
 
-- –. gezelschapsdieren als bedoeld in [artikel 1.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.1), of
+      - – gezelschapsdieren als bedoeld in [artikel 1.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.1), of
 
-- –. dieren als bedoeld in [bijlage II bij het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II);
+      - – dieren als bedoeld in [bijlage II bij het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II);
 
-- 8.°. [artikel 2.8 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) in samenhang met het bepaalde in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217);
+   - 8.° [artikel 2.8 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) in samenhang met het bepaalde in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217);
 
-- 9.°. [artikel 2.10 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10) ten aanzien van:
+   - 9.° [artikel 2.10 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10) ten aanzien van:
 
-- –. gezelschapsdieren als bedoeld in [artikel 1.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.1), of
+      - – gezelschapsdieren als bedoeld in [artikel 1.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.1), of
 
-- –. dieren als bedoeld in [bijlage II bij het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II);
+      - – dieren als bedoeld in [bijlage II bij het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II);
 
-- 10.°. [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13) en [2.14 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14);
+   - 10.° [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13) en [2.14 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14);
 
-- 11.°. de regels over identificatie en registratie in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217), het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091), de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) en de Regeling diergeneeskundigen ten aanzien van runderen, varkens, schapen, geiten, paarden of honden.
+   - 11.° de regels over identificatie en registratie in het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217), het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091), de [Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248) en de Regeling diergeneeskundigen ten aanzien van runderen, varkens, schapen, geiten, paarden of honden.
 
-- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van de artikelen 77, 78 en 81 van [verordening (EU) nr. 2019/6](31906R2019) en de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.1) en [5.2 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.2);
+- h. de ambtenaren van het Ministerie van Volksgezondheid, Welzijn en Sport, die te werk zijn gesteld bij het aCBG, Bureau Diergeneesmiddelen, voor zover het betreft het toezicht op de naleving van de artikelen 77, 78 en 81 van verordening (EU) nr. 2019/6 en de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.1) en [5.2 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5.2);
 
 - i. dierenartsen en andere personen die voor specifieke toezichtswerkzaamheden door de Minister van Landbouw, Natuur en Voedselkwaliteit worden ingezet;
 
-- j. voor zover het betreft het toezicht op de naleving van de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), of [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), of het bepaalde krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5) of [artikel 6.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), het bij of krachtens het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) bepaalde, het krachtens [artikel 3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6) bepaalde, het krachtens [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9) bepaalde, of [artikel 2.3, tweede en derde lid, van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3):
+- j. voor zover het betreft het toezicht op de naleving van de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.11), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.12), of [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), of het bepaalde krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&hoofdstuk=5) of [artikel 6.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), het bij of krachtens het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) bepaalde, het krachtens [artikel 3.6 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.6) bepaalde, het krachtens [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9) bepaalde, of [artikel 2.3, tweede en derde lid, van het Besluit diergezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3):
 
-- 1°. militairen van de Koninklijke marechaussee;
+   - 1°. militairen van de Koninklijke marechaussee;
 
-- 2°. de door de Minister van Defensie aangewezen overige militairen van de krijgsmacht;
+   - 2°. de door de Minister van Defensie aangewezen overige militairen van de krijgsmacht;
 
-- 3°. de personen werkzaam als radarwaarnemer of verkeersassistent binnen het team verkeershandhaving van een regionale eenheid van de politie;
+   - 3°. de personen werkzaam als radarwaarnemer of verkeersassistent binnen het team verkeershandhaving van een regionale eenheid van de politie;
 
-- 4°. ambtenaren van de Inspectie Leefomgeving en Transport.
+   - 4°. ambtenaren van de Inspectie Leefomgeving en Transport.
+
+##### Artikel 2a
+
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde ambtenaren.
+
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde personen.
 
 ##### Artikel 3
 
@@ -129,13 +111,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde ambtenaren.
-
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde personen.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

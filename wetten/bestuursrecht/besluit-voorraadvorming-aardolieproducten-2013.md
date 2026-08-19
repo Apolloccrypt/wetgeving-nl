@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 maart 2013, houdende regels inzake het aanhouden van voorraden aardolieproducten (Besluit voorraadvorming aardolieproducten 2013)"
+citeertitel: "Besluit voorraadvorming aardolieproducten 2013"
 identifier: "BWBR0033115"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033115"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "12169673"
-version_id: "20321512"
-internal_id: "C28587631"
-label_id: "12141234"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033115/2013-04-01/0"
-intitule_bron: "Stb.2013-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-27"
-intitule_published: "2013-03-29"
-intitule_in_force: "2013-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2013-118"
-original_signed_date: "2013-03-27"
-original_published_date: "2013-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-118"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBR0033115&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBR0033115&g=2013-04-01"
-citeertitel_status: "officieel"
-short_title: "Besluit voorraadvorming aardolieproducten 2013"
-signed_date: "2013-03-27"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBR0033115"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 27 maart 2013, houdende regels inzake het aanhouden van voorraden aardolieproducten (Besluit voorraadvorming aardolieproducten 2013)
-
-Op de voordracht van Onze Minister van Economische Zaken van 14 februari 2013, nr. WJZ / 13014857;
-
-Gelet op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=4), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=5), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=15), [19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=19), en [30 van de Wet voorraadvorming aardolieproducten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=30);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 maart 2013, nr. W15.13.0037/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 25 maart 2013, nr. WJZ /13047008;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -118,9 +86,9 @@ Een verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jc
 
 - g. indien de aardolieproducten niet worden opgeslagen op de vestigingsplaats van de verkrijgende onderneming:
 
-- 1°. de naam, het adres en de vestigingsplaats van degene die verantwoordelijk is voor de opslag van de over te dragen aardolieproducten en
+   - 1°. de naam, het adres en de vestigingsplaats van degene die verantwoordelijk is voor de opslag van de over te dragen aardolieproducten en
 
-- 2°. het adres van de plaats waar de aardolieproducten worden opgeslagen.
+   - 2°. het adres van de plaats waar de aardolieproducten worden opgeslagen.
 
 ##### Artikel 7
 
@@ -134,7 +102,7 @@ Een verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jc
 
 - c. de overdracht, wijziging of verlenging niet in overeenstemming is met de [artikelen 8 tot en met 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=8), of
 
-- d. uit informatie van de bevoegde autoriteit van een andere lidstaat of anderszins blijkt dat de voorgenomen overdracht, wijziging of verlenging, niet in overeenstemming is met de artikelen 7 of 8 van [Richtlijn 2009/119/EG](32009L0119).
+- d. uit informatie van de bevoegde autoriteit van een andere lidstaat of anderszins blijkt dat de voorgenomen overdracht, wijziging of verlenging, niet in overeenstemming is met de artikelen 7 of 8 van Richtlijn 2009/119/EG.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -145,5 +113,3 @@ Dit besluit treedt in werking op 1 april 2013.
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit voorraadvorming aardolieproducten 2013.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,68 +1,40 @@
 ---
 title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep (2011)"
 identifier: "BWBR0033431"
-country: "nl"
-rank: "zbo"
-publication_date: "2011-08-27"
-last_updated: "2011-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033431"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12261463"
-version_id: "20520592"
-internal_id: "C28860881"
-label_id: "12232824"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033431/2011-08-27/0"
-intitule_bron: "Stcrt.2011-15450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2011-08-18"
-intitule_published: "2011-08-25"
-intitule_in_force: "2011-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2011-15450"
-original_signed_date: "2011-08-18"
-original_published_date: "2011-08-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2011-15450"
-entry_into_force_date: "2011-08-27"
-jci_1_3: "jci1.3:c:BWBR0033431&z=2011-08-27&g=2011-08-27"
-jci_1_0: "1.0:c:BWBR0033431&g=2011-08-27"
-citeertitel_status: "redactioneel"
-short_title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep (2011)"
-signed_date: "2011-08-18"
-entry_into_force: "2011-08-27"
+publicatiedatum: 2011-08-27
+laatste_update: 2011-08-27
+status: geldig
+toestand: 2011-08-27
+bron: "https://wetten.overheid.nl/BWBR0033431"
+opgehaald: 2026-08-19
 ---
+
 # Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep
-
-Gezien [artikel 7 van het Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=7) van 15 juni 20101Gepubliceerd in Staatscourant 2010, nr. 12567, 11 augustus 2010., waarbij aan hem/haar mandaat, volmacht en machtiging is verleend voor bevoegdheden in het kader van de afwikkeling van bezwaar- en beroepschriften;
-
-Gelezen de in [artikel 9 van het Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=9) neergelegde toestemming van de algemeen directeur van het CAK aan de manager van de afdeling Bezwaar & Beroep om voor de bevoegdheden in verband met de bezwaarbehandeling ondermandaat te verlenen;
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **het Besluit:** het [Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0033429) van 15 juni 2010.
+- a. *het Besluit:* het [Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0033429) van 15 juni 2010.
 
-- b. **manager:** de manager van de afdeling Bezwaar & Beroep van het CAK.
+- b. *manager:* de manager van de afdeling Bezwaar & Beroep van het CAK.
 
-- c. **senior functionarissen:** de senior functionarissen Bezwaar & Beroep van de afdeling Bezwaar & Beroep van het CAK.
+- c. *senior functionarissen:* de senior functionarissen Bezwaar & Beroep van de afdeling Bezwaar & Beroep van het CAK.
 
-- d. **functionarissen:** de functionarissen Bezwaar & Beroep van de afdeling Bezwaar & Beroep van het CAK.
+- d. *functionarissen:* de functionarissen Bezwaar & Beroep van de afdeling Bezwaar & Beroep van het CAK.
 
 ##### Artikel 2. behandelen bezwaarschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
-- –. voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in [artikel 7 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=7) bedoelde bezwaarbehandeling;
+- – voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in [artikel 7 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=7) bedoelde bezwaarbehandeling;
 
-- –. voor het extern mondeling, schriftelijk en elektronisch uitdragen van standpunten en het verstrekken van informatie met betrekking tot de eigen werkzaamheden;
+- – voor het extern mondeling, schriftelijk en elektronisch uitdragen van standpunten en het verstrekken van informatie met betrekking tot de eigen werkzaamheden;
 
-- –. voor het vertegenwoordigen van het CAK in mediation in het kader van bezwaarprocedures;
+- – voor het vertegenwoordigen van het CAK in mediation in het kader van bezwaarprocedures;
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
@@ -70,7 +42,7 @@ aan de senior functionarissen, alsmede aan de functionarissen.
 
 De manager verleent ondermandaat, volmacht en machtiging
 
-- –. voor het voorbereiden, nemen en bekendmaken van alle beslissingen op bezwaar (inzake de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=2) genoemde eigen bijdragen, de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=3) en [4 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=4) genoemde compensatie/tegemoetkomingen en de in [artikel 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=5) genoemde schadebesluiten en Wob-besluiten);
+- – voor het voorbereiden, nemen en bekendmaken van alle beslissingen op bezwaar (inzake de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=2) genoemde eigen bijdragen, de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=3) en [4 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=4) genoemde compensatie/tegemoetkomingen en de in [artikel 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=5) genoemde schadebesluiten en Wob-besluiten);
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
@@ -78,11 +50,11 @@ aan de senior functionarissen, alsmede aan de functionarissen.
 
 De manager verleent ondermandaat, volmacht en machtiging
 
-- –. voor het vertegenwoordigen van het CAK in bestuursrechtelijke procedures (beroep en hoger beroep), inclusief mediation;
+- – voor het vertegenwoordigen van het CAK in bestuursrechtelijke procedures (beroep en hoger beroep), inclusief mediation;
 
-- –. voor het verrichten van alle noodzakelijke proces- en feitelijke handelingen in het kader van bestuursrechtelijke procedures (beroep en hoger beroep);
+- – voor het verrichten van alle noodzakelijke proces- en feitelijke handelingen in het kader van bestuursrechtelijke procedures (beroep en hoger beroep);
 
-- –. voor het ondertekenen van extern gerichte brieven en andere stukken in het kader van bestuursrechtelijke procedures (beroep en hoger beroep);
+- – voor het ondertekenen van extern gerichte brieven en andere stukken in het kader van bestuursrechtelijke procedures (beroep en hoger beroep);
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
@@ -90,7 +62,7 @@ aan de senior functionarissen, alsmede aan de functionarissen.
 
 De manager verleent ondermandaat, volmacht en machtiging
 
-- –. voor het instellen van hoger beroep bij de Centrale Raad van Beroep, alsmede voor het ondertekenen van de daartoe bestemde hoger beroepschriften;
+- – voor het instellen van hoger beroep bij de Centrale Raad van Beroep, alsmede voor het ondertekenen van de daartoe bestemde hoger beroepschriften;
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 

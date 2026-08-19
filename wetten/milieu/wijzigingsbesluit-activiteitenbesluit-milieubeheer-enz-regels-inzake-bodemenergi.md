@@ -1,78 +1,46 @@
 ---
 title: "Besluit van 25 maart 2013 tot wijziging van een aantal algemene maatregelen van bestuur in verband met regels inzake bodemenergiesystemen en enkele technische verbeteringen"
+citeertitel: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, enz. (regels inzake bodemenergiesystemen en enkele technische verbeteringen)"
 identifier: "BWBR0033099"
-country: "nl"
-rank: "amvb"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033099"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "12166313"
-version_id: "20315162"
-internal_id: "C28579111"
-label_id: "12137874"
-dtd_version: "2.0"
-original_entry_into_force: "2013-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033099/2013-07-01/0"
-intitule_bron: "Stb.2013-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2013-03-25"
-intitule_published: "2013-03-29"
-intitule_in_force: "2013-03-29"
-intitule_status: "goed"
-original_publication: "Stb.2013-112"
-original_signed_date: "2013-03-25"
-original_published_date: "2013-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2013-112"
-entry_into_force_date: "2013-07-01"
-jci_1_3: "jci1.3:c:BWBR0033099&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBR0033099&g=2013-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, enz. (regels inzake bodemenergiesystemen en enkele technische verbeteringen)"
-signed_date: "2013-03-25"
-entry_into_force: "2013-07-01"
+publicatiedatum: 2013-07-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBR0033099"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 25 maart 2013 tot wijziging van een aantal algemene maatregelen van bestuur in verband met regels inzake bodemenergiesystemen en enkele technische verbeteringen
-
-Op de voordracht van Onze Minister van Infrastructuur en Milieu, van 9 juli 2012, nr. IenM/BSK-2012/132287, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op [richtlijn nr. 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEU 2009, L 140) en op de [artikelen 8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), [8.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41), [8.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42), [9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.2.6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.6a), [10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2), [10.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.30), en [11.2, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.2), op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=6), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=8), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=18), en [65, eerste lid, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=65), op [artikel 2.1, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [2.17 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.17) en op de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.3), [6.5, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5), [6.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6), [6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.16), en [6.20, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.20);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 24 september 2012, No. W14.12.0304/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 22 maart 2013, nr. IenM/BSK-2013/53797, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Activiteitenbesluit milieubeheer.
+*Wijzigt het Activiteitenbesluit milieubeheer.*
 
 ##### Artikel II
 
-Wijzigt het Besluit bodemkwaliteit.
+*Wijzigt het Besluit bodemkwaliteit.*
 
 ##### Artikel III
 
-Wijzigt het Besluit hernieuwbare energie vervoer.
+*Wijzigt het Besluit hernieuwbare energie vervoer.*
 
 ##### Artikel IV
 
-Wijzigt het Besluit lozen buiten inrichtingen.
+*Wijzigt het Besluit lozen buiten inrichtingen.*
 
 ##### Artikel V
 
-Wijzigt het Besluit lozing afvalwater huishoudens.
+*Wijzigt het Besluit lozing afvalwater huishoudens.*
 
 ##### Artikel VI
 
-Wijzigt het Besluit omgevingsrecht.
+*Wijzigt het Besluit omgevingsrecht.*
 
 ##### Artikel VII
 
-Wijzigt het Waterbesluit.
+*Wijzigt het Waterbesluit.*
 
 ##### Artikel VIII
 
@@ -119,5 +87,3 @@ Wijzigt het Waterbesluit.
 ##### Artikel X
 
 Dit besluit treedt in werking met ingang van 1 juli 2013.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

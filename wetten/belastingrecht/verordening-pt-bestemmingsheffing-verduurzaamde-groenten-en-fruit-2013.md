@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de sector verduurzaamde groenten en fruit voor het jaar 2013 (Verordening PT bestemmingsheffing verduurzaamde groenten en fruit 2013)"
+citeertitel: "Verordening PT bestemmingsheffing verduurzaamde groenten en fruit 2013"
 identifier: "BWBR0033255"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033255"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12213683"
-version_id: "20426822"
-internal_id: "C28710041"
-label_id: "12185134"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033255/2013-09-22/0"
-intitule_bron: "Vbbo.2013-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-04-12"
-intitule_in_force: "2013-04-12"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-17"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-04-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-04-14"
-jci_1_3: "jci1.3:c:BWBR0033255&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033255&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT bestemmingsheffing verduurzaamde groenten en fruit 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-04-14"
+publicatiedatum: 2013-04-14
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033255"
+opgehaald: 2026-08-19
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de sector verduurzaamde groenten en fruit voor het jaar 2013 (Verordening PT bestemmingsheffing verduurzaamde groenten en fruit 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor groenten en fruit van d.d. 14 december 2012;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 

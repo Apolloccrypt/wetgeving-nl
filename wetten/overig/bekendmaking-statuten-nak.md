@@ -1,40 +1,17 @@
 ---
 title: "Bekendmaking statuten NAK"
 identifier: "BWBR0033078"
-country: "nl"
-rank: "zbo"
-publication_date: "2007-12-14"
-last_updated: "2007-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033078"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12151933"
-version_id: "20297632"
-internal_id: "C28558731"
-label_id: "12123734"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033078/2007-12-14/0"
-intitule_bron: "Stcrt.2007-243"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-12-14"
-intitule_in_force: "2007-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2007-243"
-original_published_date: "2007-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2007-243-p14-SC83661"
-entry_into_force_date: "2007-12-14"
-jci_1_3: "jci1.3:c:BWBR0033078&z=2007-12-14&g=2007-12-14"
-jci_1_0: "1.0:c:BWBR0033078&g=2007-12-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "2007-12-14"
+publicatiedatum: 2007-12-14
+laatste_update: 2007-12-14
+status: geldig
+toestand: 2007-12-14
+bron: "https://wetten.overheid.nl/BWBR0033078"
+opgehaald: 2026-08-19
 ---
+
 # Bekendmaking statuten NAK
-
-**STATUTEN 2007**
-
-van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen (NAK) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit d.d. 27 november 2007
 
 #### Inleidende bepalingen
 
@@ -58,13 +35,13 @@ van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed v
 
 2). Onder de in lid 1 bedoelde werkzaamheden worden in het bijzonder begrepen:
 
-- a). het toezicht op de naleving van de bij of krachtens de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften en de uitvoering van fytosanitaire inspecties en het waarmerken van fytosanitaire en kwaliteitscertificaten
+- a) het toezicht op de naleving van de bij of krachtens de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en [Plantenziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002075) gestelde voorschriften en de uitvoering van fytosanitaire inspecties en het waarmerken van fytosanitaire en kwaliteitscertificaten
 
-- b). door middel van keuringen te bevorderen dat betrouwbaar teeltmateriaal in het verkeer gebracht en verder verhandeld wordt;
+- b) door middel van keuringen te bevorderen dat betrouwbaar teeltmateriaal in het verkeer gebracht en verder verhandeld wordt;
 
-- c). de bevordering van de voortbrenging en het gebruik van betrouwbaar materiaal, alsmede van de verbetering van teeltmateriaal;
+- c) de bevordering van de voortbrenging en het gebruik van betrouwbaar materiaal, alsmede van de verbetering van teeltmateriaal;
 
-- d). de uitvoering van de bij of krachtens wettelijke regelingen vastgestelde voorschriften, voorzover deze aan haar worden opgedragen.
+- d) de uitvoering van de bij of krachtens wettelijke regelingen vastgestelde voorschriften, voorzover deze aan haar worden opgedragen.
 
 3). De NAK is voor de uitvoering van de in lid 1 bedoelde werkzaamheden als inspectie-instelling aangewezen op grond van de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040), dan wel zijn de daartoe bij de NAK in dienst zijnde nader omschreven functionarissen gemandateerd door de minister.
 
@@ -74,21 +51,21 @@ van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed v
 
 De stichting tracht haar doel te bereiken door aanwending van de navolgende middelen:
 
-- a). het uitoefenen van toezicht op kweek-, beproevings-, vermeerderings-, teelt-, bewerkings- en handelsbedrijven van teeltmateriaal, met betrekking tot de naleving van voor de teelt en de afzet vastgestelde voorschriften;
+- a) het uitoefenen van toezicht op kweek-, beproevings-, vermeerderings-, teelt-, bewerkings- en handelsbedrijven van teeltmateriaal, met betrekking tot de naleving van voor de teelt en de afzet vastgestelde voorschriften;
 
-- b). het verstrekken van inlichtingen, adviezen en voorlichting ten aanzien van teeltmateriaal;
+- b) het verstrekken van inlichtingen, adviezen en voorlichting ten aanzien van teeltmateriaal;
 
-- c). het aanmoedigen van de veredeling en het ziektevrij telen van teeltmateriaal;
+- c) het aanmoedigen van de veredeling en het ziektevrij telen van teeltmateriaal;
 
-- d). het bevorderen van het gebruik van goedgekeurd Nederlands teeltmateriaal in binnen- en buitenland;
+- d) het bevorderen van het gebruik van goedgekeurd Nederlands teeltmateriaal in binnen- en buitenland;
 
-- e). het bevorderen van goede gebruiken in het handelsverkeer met betrekking tot teeltmateriaal;
+- e) het bevorderen van goede gebruiken in het handelsverkeer met betrekking tot teeltmateriaal;
 
-- f). het bevorderen van proefnemingen en onderzoeken, bij voorkeur betrekking hebbende op de keuringstechniek;
+- f) het bevorderen van proefnemingen en onderzoeken, bij voorkeur betrekking hebbende op de keuringstechniek;
 
-- g). andere wettige middelen welke tot het gestelde doel kunnen leiden, uitgezonderd het drijven van handel in teeltmateriaal;
+- g) andere wettige middelen welke tot het gestelde doel kunnen leiden, uitgezonderd het drijven van handel in teeltmateriaal;
 
-- h). het verrichten van werkzaamheden ten behoeve van organisaties, bedrijven of groepen van bedrijven.
+- h) het verrichten van werkzaamheden ten behoeve van organisaties, bedrijven of groepen van bedrijven.
 
 #### Bestuur
 
@@ -96,15 +73,15 @@ De stichting tracht haar doel te bereiken door aanwending van de navolgende midd
 
 1). Het bestuur bestaat uit:
 
-- a). een voorzitter;
+- a) een voorzitter;
 
-- b). twee personen, die deskundig worden geacht ten aanzien van het kweken van rassen van landbouwgewassen;
+- b) twee personen, die deskundig worden geacht ten aanzien van het kweken van rassen van landbouwgewassen;
 
-- c). twee personen, die deskundig worden geacht ten aanzien van de vermeerdering van teeltmateriaal;
+- c) twee personen, die deskundig worden geacht ten aanzien van de vermeerdering van teeltmateriaal;
 
-- d). twee personen, die deskundig worden geacht ten aanzien van de bewerking van en de handel in teeltmateriaal;
+- d) twee personen, die deskundig worden geacht ten aanzien van de bewerking van en de handel in teeltmateriaal;
 
-- e). twee personen, die deskundig worden geacht ten aanzien van het gebruik van teeltmateriaal.
+- e) twee personen, die deskundig worden geacht ten aanzien van het gebruik van teeltmateriaal.
 
 2). De voorzitter wordt door het bestuur benoemd, geschorst en ontslagen. De benoeming en het ontslag van de voorzitter behoeft voorafgaande goedkeuring door de Minister. De overige bestuursleden worden, na overleg met de voorzitter, benoemd door de representatieve organisaties van belanghebbenden van de onder b, c, d en e van het eerst lid bedoelde groepen, al naar gelang van het gebied waarop de te benoemen persoon deskundig wordt geacht. In het huishoudelijk reglement worden de bedoelde organisaties met name genoemd.
 
@@ -122,11 +99,11 @@ De stichting tracht haar doel te bereiken door aanwending van de navolgende midd
 
 2). Het bestuur:
 
-- a). stelt de tarieven vast op voorstel van de directie;
+- a) stelt de tarieven vast op voorstel van de directie;
 
-- b). stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring wordt uitgevoerd en de wijze waarop het uitreiken van bewijsstukken en kentekenen plaatsvindt;
+- b) stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring wordt uitgevoerd en de wijze waarop het uitreiken van bewijsstukken en kentekenen plaatsvindt;
 
-- c). besluit om voorstellen tot aanpassing van de voorschriften aan de Minister voor te leggen.
+- c) besluit om voorstellen tot aanpassing van de voorschriften aan de Minister voor te leggen.
 
 De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuring van de Minister.
 
@@ -170,9 +147,9 @@ De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuri
 
 1). Er zijn twee vaste commissies:
 
-- a). één voor pootaardappelen;
+- a) één voor pootaardappelen;
 
-- b). éen voor zaaizaden.
+- b) éen voor zaaizaden.
 
 2). De vaste commissie voor pootaardappelen bestaat uit een onafhankelijke voorzitter, benoemd door het bestuur en vier leden. De voorzitter kan zich laten vervangen door de ondervoorzitter. De ondervoorzitter wordt door de vaste commissie uit haar midden benoemd. De vier leden van de commissie moeten in het bijzonder deskundig zijn ten aanzien van de gewassen, waarvoor de commissie is ingesteld. Verder moet van deze vier leden telkens één lid behoren tot één van de vier groepen bedoeld in [artikel 5, eerste lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0033078&artikel=5&z=2007-12-14&g=2007-12-14).
 
@@ -190,13 +167,13 @@ De ondervoorzitter wordt door de vaste commissie uit haar midden benoemd. De zes
 
 2). De voorzitter van de vaste commissie heeft de bevoegdheid om een besluit inzake maatregelen van een vaste commissie, hetwelk naar zijn mening in strijd is met:
 
-- a). het belang van de stichting;
+- a) het belang van de stichting;
 
-- b). deze statuten;
+- b) deze statuten;
 
-- c). het huishoudelijk reglement of andere algemeen geldende reglementen;
+- c) het huishoudelijk reglement of andere algemeen geldende reglementen;
 
-- d). het (de) belang(en) van het (de) gewas(sen) waarvoor een andere commissie is ingesteld;
+- d) het (de) belang(en) van het (de) gewas(sen) waarvoor een andere commissie is ingesteld;
 
 zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan het bestuur ter beoordeling voor te leggen.
 
@@ -246,13 +223,13 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 1. De geldmiddelen van de stichting bestaan uit:
 
-- a). vergoedingen voor het verrichten van de wettelijke taken;
+- a) vergoedingen voor het verrichten van de wettelijke taken;
 
-- b). subsidies;
+- b) subsidies;
 
-- c). vergoedingen voor overige diensten; en
+- c) vergoedingen voor overige diensten; en
 
-- d). andere baten.
+- d) andere baten.
 
 ##### Artikel 16
 

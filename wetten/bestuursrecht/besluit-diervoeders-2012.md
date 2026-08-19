@@ -1,80 +1,18 @@
 ---
 title: "Besluit van 12 november 2012, houdende regels inzake diervoeders (Besluit diervoeders 2012)"
+citeertitel: "Besluit diervoeders 2012"
 identifier: "BWBR0032346"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-05-05"
-last_updated: "2022-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032346"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "11931053"
-version_id: "19829842"
-internal_id: "C27962451"
-label_id: "11903174"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032346/2022-05-05/0"
-intitule_bron: "Stb.2012-611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-11-12"
-intitule_published: "2012-12-06"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2012-611"
-original_signed_date: "2012-11-12"
-original_published_date: "2012-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2012-611"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032346&z=2022-05-05&g=2022-05-05"
-jci_1_0: "1.0:c:BWBR0032346&g=2022-05-05"
-citeertitel_status: "officieel"
-short_title: "Besluit diervoeders 2012"
-signed_date: "2012-11-12"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2022-05-05
+status: geldig
+toestand: 2022-05-05
+bron: "https://wetten.overheid.nl/BWBR0032346"
+opgehaald: 2026-08-19
 ---
+
 # Besluit van 12 november 2012, houdende regels inzake diervoeders (Besluit diervoeders 2012)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 12 juli 2012, nr. 283165, Directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, en na overleg met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
-
-Gelet op
-
-[Verordening (EG) nr. 999/2001](32001R0999) van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001, L 147);
-
-[Richtlijn 2002/32/EG](32002L0032) van het Europees Parlement en de Raad van 7 mei 2002 inzake ongewenste stoffen in diervoeding (PbEG 2002, L 140);
-
-[Verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
-
-[Verordening (EG) nr. 1829/2003](32003R1829) van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU 2003, L 268);
-
-[Verordening (EG) nr. 1830/2003](32003R1830) van het Europees Parlement en de Raad van 22 september 2003 betreffende de traceerbaarheid en etikettering van genetisch gemodificeerde organismen en de traceerbaarheid van met genetisch gemodificeerde organismen geproduceerde levenmiddelen en diervoeders en tot wijziging van [Richtlijn 2001/18/EG](32001L0018) (PbEU 2003, L 268);
-
-[Verordening (EG) nr. 1831/2003](32003R1831) van het Europees Parlement en de Raad van 22 september 2003 betreffende toevoegingsmiddelen voor diervoeding (PbEU 2003, L 268);
-
-[Verordening (EG) nr. 2160/2003](32003R2160) van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU 2003, L 325);
-
-[Verordening (EG) nr. 882/2004](32004R0882) van Europees Parlement en de Raad van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU 2004, L 191);
-
-[Verordening (EG) nr. 183/2005](32005R0183) van het Europees Parlement en de Raad van 12 januari 2005 tot vaststelling van voorschriften voor diervoederhygiëne (PbEU 2005, L 35);
-
-[Verordening (EG) nr. 396/2005](32005R0396) van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorspong en houdende wijziging van [Richtlijn 91/414/EG](31991L0414) van de Raad (PbEg 2005, L 70);
-
-[Verordening (EG) nr. 834/2007](32007R0834) van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189);
-
-[Verordening (EG) nr. 470/2009](32009R0470) van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152/11);
-
-[Verordening (EG) nr. 767/2009](32009R0767) van het Europees Parlement en de Raad van 13 juli 2009 betreffende het in de handel brengen en het gebruik van diervoeders, tot wijziging van Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 79/373/EEG](31979L0373) van de Raad, [Richtlijn 80/511/EEG](31980L0511) van de Commissie, [Richtlijnen 82/471/EEG](31982L0471), [83/228/EEG](31983L0228), [93/74/EEG](31993L0074), [93/113/EG](31993L0113) en [96/25/EG](31996L0025) van de Raad en Beschikking [2004/217/EG](32004L0217) van de Commissie (PbEU 2009, L 229);
-
-[Verordening (EG) nr. 1069/2009](32009R1069) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009, L 300), en
-
-de [artikelen 2.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.18), [6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3), en [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 7 september 2012, No. W15.12.0295/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 2 november 2012, nr. 12339397, Directie Wetgeving en Juridische Zaken, uitgebracht in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, en na overleg met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -82,35 +20,37 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
-- –. **ongewenste stoffen:** alle stoffen en producten, met uitzondering van ziekteverwekkers, die aanwezig zijn in of op een product dat bedoeld is voor het voederen van dieren en die een potentieel gevaar opleveren voor de gezondheid van mens of dier, of voor het milieu, of die de dierlijke productie ongunstig kunnen beïnvloeden;
+- – *ongewenste stoffen:* alle stoffen en producten, met uitzondering van ziekteverwekkers, die aanwezig zijn in of op een product dat bedoeld is voor het voederen van dieren en die een potentieel gevaar opleveren voor de gezondheid van mens of dier, of voor het milieu, of die de dierlijke productie ongunstig kunnen beïnvloeden;
 
-- –. **Verordening (EG) nr. 999/2001:** Verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001, L 147);
+- – *Verordening (EG) nr. 999/2001:* Verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001, L 147);
 
-- –. **Richtlijn 2002/32/EG:** [Richtlijn 2002/32/EG](32002L0032) van het Europees Parlement en de Raad van 7 mei 2002 inzake ongewenste stoffen in diervoeding (PbEG 2002, L 140);
+- – *Richtlijn 2002/32/EG:*
+ Richtlijn 2002/32/EG van het Europees Parlement en de Raad van 7 mei 2002 inzake ongewenste stoffen in diervoeding (PbEG 2002, L 140);
 
-- –. **Verordening (EG) nr. 178/2002:** Verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
+- – *Verordening (EG) nr. 178/2002:* Verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
 
-- –. **Verordening (EG) nr. 1829/2003:** Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU 2003, L 268);
+- – *Verordening (EG) nr. 1829/2003:* Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEU 2003, L 268);
 
-- –. **Verordening (EG) nr. 1830/2003:** Verordening (EG) nr. 1830/2003 van het Europees Parlement en de Raad van 22 september 2003 betreffende de traceerbaarheid en etikettering van genetisch gemodificeerde organismen en de traceerbaarheid van met genetisch gemodificeerde organismen geproduceerde levenmiddelen en diervoeders en tot wijziging van [Richtlijn 2001/18/EG](32001L0018) (PbEU 2003, L 268);
+- – *Verordening (EG) nr. 1830/2003:* Verordening (EG) nr. 1830/2003 van het Europees Parlement en de Raad van 22 september 2003 betreffende de traceerbaarheid en etikettering van genetisch gemodificeerde organismen en de traceerbaarheid van met genetisch gemodificeerde organismen geproduceerde levenmiddelen en diervoeders en tot wijziging van Richtlijn 2001/18/EG (PbEU 2003, L 268);
 
-- –. **Verordening (EG) nr. 1831/2003:** Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad van 22 september 2003 betreffende toevoegingsmiddelen voor diervoeding (PbEU 2003, L 268);
+- – *Verordening (EG) nr. 1831/2003:* Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad van 22 september 2003 betreffende toevoegingsmiddelen voor diervoeding (PbEU 2003, L 268);
 
-- –. **Verordening (EG) nr. 2160/2003:** Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU 2003, L 325);
+- – *Verordening (EG) nr. 2160/2003:* Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU 2003, L 325);
 
-- –. **Verordening (EG) nr. 183/2005:** Verordening (EG) nr. 183/2005 van het Europees Parlement en de Raad van 12 januari 2005 tot vaststelling van voorschriften voor diervoederhygiëne (PbEU 2005, 35);
+- – *Verordening (EG) nr. 183/2005:* Verordening (EG) nr. 183/2005 van het Europees Parlement en de Raad van 12 januari 2005 tot vaststelling van voorschriften voor diervoederhygiëne (PbEU 2005, 35);
 
-- –. **Verordening (EG) nr. 396/2005:** Verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorspong en houdende wijziging van [Richtlijn 91/414/EG](31991L0414) van de Raad (PbEg 2005, L 70);
+- – *Verordening (EG) nr. 396/2005:* Verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorspong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEg 2005, L 70);
 
-- –. **Verordening (EG) nr. 470/2009:** Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152/11);
+- – *Verordening (EG) nr. 470/2009:* Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van Richtlijn 2001/82/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152/11);
 
-- –. **Verordening (EG) nr. 767/2009:** Verordening (EG) nr. 767/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende het in de handel brengen en het gebruik van diervoeders, tot wijziging van Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 79/373/EEG](31979L0373) van de Raad, [Richtlijn 80/511/EEG](31980L0511) van de Commissie, [Richtlijnen 82/471/EEG](31982L0471), [83/228/EEG](31983L0228), [93/74/EEG](31993L0074), [93/113/EG](31993L0113) en [96/25/EG](31996L0025) van de Raad en Beschikking [2004/217/EG](32004L0217) van de Commissie (PbEU 2009, L 229);
+- – *Verordening (EG) nr. 767/2009:* Verordening (EG) nr. 767/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende het in de handel brengen en het gebruik van diervoeders, tot wijziging van Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 79/373/EEG van de Raad, Richtlijn 80/511/EEG van de Commissie, Richtlijnen 82/471/EEG, 83/228/EEG, 93/74/EEG, 93/113/EG en 96/25/EG van de Raad en Beschikking 2004/217/EG van de Commissie (PbEU 2009, L 229);
 
-- –. **Verordening (EG) nr. 1069/2009:** Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009, L 300);
+- – *Verordening (EG) nr. 1069/2009:* Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU 2009, L 300);
 
-- –. **Stichting Skal:** Stichting Skal te Zwolle;
+- – *Stichting Skal:* Stichting Skal te Zwolle;
 
-- –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
+- – *wet:*
+ [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
 
 ### Hoofdstuk 2. Uitvoering van EU-verordeningen over diervoeders
 
@@ -134,17 +74,17 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.4. Biologische diervoeders voor gezelschapsdieren
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.5. Controles en bewijsstukken
 
-De Stichting Skal is overeenkomstig [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15) en [16, tweede lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16):
+De Stichting Skal is overeenkomstig [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15) en [16, tweede lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16):
 
 - a. belast met het toezicht op de naleving van het bij of krachtens dit besluit gestelde over de biologische productie van diervoeders en de keuring daarvan, of met het toezicht op die keuring;
 
 - b. bevoegd tot het uitreiken van bewijsstukken ten aanzien van de kwaliteit van volgens de biologische productie geproduceerde diervoeders, indien daarover in de ministeriële regeling, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-05-05&g=2022-05-05), regels zijn gesteld.
 
-##### Artikel 2.6. Overeenkomstige toepassing [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755)
+##### Artikel 2.6. Overeenkomstige toepassing Landbouwkwaliteitswet
 
 Op de uitvoering van het toezicht en de keuring, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2022-05-05&g=2022-05-05) door de Stichting Skal, zijn van overeenkomstige toepassing:
 
@@ -152,31 +92,31 @@ Op de uitvoering van het toezicht en de keuring, bedoeld in [artikel 2.4](https:
 
 - b. het [Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252).
 
-### Hoofdstuk 3. [Richtlijn 2002/32/eg](32002L0032) inzake ongewenste stoffen
+### Hoofdstuk 3. Richtlijn 2002/32/eg inzake ongewenste stoffen
 
 ##### Artikel 3.1. Begripsbepalingen
 
 In dit hoofdstuk en daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanvullende diervoeders:** mengsels van diervoeders die een hoog gehalte aan bepaalde stoffen bevatten en door hun samenstelling slechts samen met andere diervoeders een totaal dagrantsoen vormen;
+- – *aanvullende diervoeders:* mengsels van diervoeders die een hoog gehalte aan bepaalde stoffen bevatten en door hun samenstelling slechts samen met andere diervoeders een totaal dagrantsoen vormen;
 
-- –. **dagrantsoen:** totale hoeveelheid diervoeders, omgerekend op een vochtgehalte van 12%, die een dier van een bepaalde soort, gegeven zijn leeftijdsklasse en prestatievermogen, gemiddeld dagelijks nodig heeft om volledig in zijn voederbehoefte te voorzien;
+- – *dagrantsoen:* totale hoeveelheid diervoeders, omgerekend op een vochtgehalte van 12%, die een dier van een bepaalde soort, gegeven zijn leeftijdsklasse en prestatievermogen, gemiddeld dagelijks nodig heeft om volledig in zijn voederbehoefte te voorzien;
 
-- –. **mengvoeders:** mengsels van voedermiddelen, al dan niet met toevoegingsmiddelen en bestemd voor vervoedering in de vorm van volledige diervoeders of aanvullende diervoeders;
+- – *mengvoeders:* mengsels van voedermiddelen, al dan niet met toevoegingsmiddelen en bestemd voor vervoedering in de vorm van volledige diervoeders of aanvullende diervoeders;
 
-- –. **producten die bedoeld zijn voor het voederen van dieren:** voedermiddelen, toevoegingsmiddelen, voormengsels, mengvoeders, aanvullende diervoeders, volledige diervoeders en alle andere producten die bedoeld zijn om te worden gebruikt of gebruikt worden voor het voederen van dieren;
+- – *producten die bedoeld zijn voor het voederen van dieren:* voedermiddelen, toevoegingsmiddelen, voormengsels, mengvoeders, aanvullende diervoeders, volledige diervoeders en alle andere producten die bedoeld zijn om te worden gebruikt of gebruikt worden voor het voederen van dieren;
 
-- –. **toevoegingsmiddelen:** toevoegingsmiddel als bedoeld in artikel 2, tweede lid, onderdeel a, van Verordening (EG) nr. 1831/2003;
+- – *toevoegingsmiddelen:* toevoegingsmiddel als bedoeld in artikel 2, tweede lid, onderdeel a, van Verordening (EG) nr. 1831/2003;
 
-- –. **voedermiddelen:** de verschillende producten van plantaardige of dierlijke oorsprong in natuurlijke staat, vers of verduurzaamd, en de afgeleide producten van de industriële verwerking ervan, alsmede organische of anorganische stoffen, met of zonder toevoegingsmiddelen, en bestemd voor vervoedering, hetzij als zodanig, hetzij na verwerking, voor de bereiding van mengvoeders of als drager bij voormengsels;
+- – *voedermiddelen:* de verschillende producten van plantaardige of dierlijke oorsprong in natuurlijke staat, vers of verduurzaamd, en de afgeleide producten van de industriële verwerking ervan, alsmede organische of anorganische stoffen, met of zonder toevoegingsmiddelen, en bestemd voor vervoedering, hetzij als zodanig, hetzij na verwerking, voor de bereiding van mengvoeders of als drager bij voormengsels;
 
-- –. **voormengsels:** mengsels van toevoegingsmiddelen of mengsels van een of meer toevoegingsmiddelen met stoffen die dragers vormen, die bestemd zijn voor de bereiding van diervoeders;
+- – *voormengsels:* mengsels van toevoegingsmiddelen of mengsels van een of meer toevoegingsmiddelen met stoffen die dragers vormen, die bestemd zijn voor de bereiding van diervoeders;
 
-- –. **volledige diervoeders:** mengsels van diervoeders die door hun samenstelling op zichzelf een totaal dagrantsoen vormen.
+- – *volledige diervoeders:* mengsels van diervoeders die door hun samenstelling op zichzelf een totaal dagrantsoen vormen.
 
 ##### Artikel 3.2. Bijlage maximumgehalte ongewenste stoffen en producten
 
-Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17) verricht, verricht die handeling slechts met een product dat bedoeld is voor het voederen van dieren dat het in bijlage I bij Richtlijn nr. 2002/32/EG vastgestelde gehalte aan ongewenste stoffen niet overschrijdt.
+Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17) verricht, verricht die handeling slechts met een product dat bedoeld is voor het voederen van dieren dat het in bijlage I bij Richtlijn nr. 2002/32/EG vastgestelde gehalte aan ongewenste stoffen niet overschrijdt.
 
 ##### Artikel 3.3. Onderzoek bij overschrijding maximumgehalten
 
@@ -190,7 +130,7 @@ Een ieder die met een diervoeder een handeling als bedoeld in [artikel 2.17, eer
 
 1. Wanneer in producten die bedoeld zijn voor het voederen van dieren, verhoogde gehalten van ongewenste stoffen zijn geconstateerd, verricht Onze Minister onderzoek om de bronnen van ongewenste stoffen te identificeren, daarbij rekening houdend met de achtergrondniveaus.
 
-2. Het onderzoek wordt ingesteld bij overschrijding van een actiedrempel, die bij bijlage II van [Richtlijn 2002/32/EG](32002L0032) is ingesteld.
+2. Het onderzoek wordt ingesteld bij overschrijding van een actiedrempel, die bij bijlage II van Richtlijn 2002/32/EG is ingesteld.
 
 3. Onze Minister betrekt zo mogelijk marktdeelnemers bij het onderzoek, bedoeld in het eerste lid.
 
@@ -202,11 +142,11 @@ Onze Minister zendt jaarlijks informatie over de resultaten van het onderzoek, b
 
 ##### Artikel 3.6. Verdunning
 
-Producten die bedoeld zijn voor het voederen van dieren, met een gehalte aan een ongewenste stof dat het in kolom 3 van de tabel in bijlage I van [Richtlijn 2002/32/EG](32002L0032) vastgestelde maximumgehalte overschrijdt, mogen niet met het oog op verdunning worden vermengd met hetzelfde product of met andere producten die bedoeld zijn voor het voederen van dieren.
+Producten die bedoeld zijn voor het voederen van dieren, met een gehalte aan een ongewenste stof dat het in kolom 3 van de tabel in bijlage I van Richtlijn 2002/32/EG vastgestelde maximumgehalte overschrijdt, mogen niet met het oog op verdunning worden vermengd met hetzelfde product of met andere producten die bedoeld zijn voor het voederen van dieren.
 
 ##### Artikel 3.7. Aanvullende diervoeders
 
-In aanvullende diervoeders mag het gehalte aan de in bijlage I van [Richtlijn 2002/32/EG](32002L0032) genoemde ongewenste stoffen niet hoger zijn dan het voor volledige diervoeders vastgestelde gehalte, rekening houdend met het voor het gebruik ervan voorgeschreven aandeel in een dagrantsoen.
+In aanvullende diervoeders mag het gehalte aan de in bijlage I van Richtlijn 2002/32/EG genoemde ongewenste stoffen niet hoger zijn dan het voor volledige diervoeders vastgestelde gehalte, rekening houdend met het voor het gebruik ervan voorgeschreven aandeel in een dagrantsoen.
 
 ##### Artikel 3.8. Nieuwe gegevens
 
@@ -214,7 +154,7 @@ In aanvullende diervoeders mag het gehalte aan de in bijlage I van [Richtlijn 20
 
 - a. tijdelijk een lager maximumgehalte worden vastgesteld dan het maximumgehalte, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&hoofdstuk=3&artikel=3.2&z=2022-05-05&g=2022-05-05),
 
-- b. een maximumgehalte worden vastgesteld voor een ongewenste stof die niet is genoemd in bijlage I bij [Richtlijn 2002/32/EG](32002L0032), of
+- b. een maximumgehalte worden vastgesteld voor een ongewenste stof die niet is genoemd in bijlage I bij Richtlijn 2002/32/EG, of
 
 - c. de aanwezigheid van een ongewenste stof in producten die bedoeld zijn voor het voederen van dieren worden verboden.
 
@@ -224,7 +164,7 @@ In aanvullende diervoeders mag het gehalte aan de in bijlage I van [Richtlijn 20
 
 ##### Artikel 3.9. Zuiveringsprocedés
 
-Bij ministeriële regeling kunnen regels worden gesteld voor het doen treffen van de nodige maatregelen om te garanderen dat door de Europese Commissie vastgestelde criteria voor de aanvaardbaarheid van zuiveringsprocedés correct worden toegepast en gezuiverde producten die bedoeld zijn voor het voederen van dieren voldoen aan de bepalingen van bijlage I bij [Richtlijn 2002/32/EG](32002L0032).
+Bij ministeriële regeling kunnen regels worden gesteld voor het doen treffen van de nodige maatregelen om te garanderen dat door de Europese Commissie vastgestelde criteria voor de aanvaardbaarheid van zuiveringsprocedés correct worden toegepast en gezuiverde producten die bedoeld zijn voor het voederen van dieren voldoen aan de bepalingen van bijlage I bij Richtlijn 2002/32/EG.
 
 ### Hoofdstuk 4. Overige bepalingen
 
@@ -243,5 +183,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 4.4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit diervoeders 2012.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

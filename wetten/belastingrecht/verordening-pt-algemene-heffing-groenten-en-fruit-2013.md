@@ -1,45 +1,18 @@
 ---
 title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing groenten en fruit voor het jaar 2013 (Verordening PT algemene heffing groenten en fruit 2013)"
+citeertitel: "Verordening PT algemene heffing groenten en fruit 2013"
 identifier: "BWBR0033105"
-country: "nl"
-rank: "pbo"
-publication_date: "2013-09-22"
-last_updated: "2013-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033105"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "12168133"
-version_id: "20318342"
-internal_id: "C28583191"
-label_id: "12139744"
-dtd_version: "2.0"
-original_entry_into_force: "2013-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033105/2013-09-22/0"
-intitule_bron: "Vbbo.2013-15"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-03-29"
-intitule_in_force: "2013-03-29"
-intitule_status: "goed"
-original_publication: "Vbbo.2013-15"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-03-29"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2013-03-31"
-jci_1_3: "jci1.3:c:BWBR0033105&z=2013-09-22&g=2013-09-22"
-jci_1_0: "1.0:c:BWBR0033105&g=2013-09-22"
-citeertitel_status: "officieel"
-short_title: "Verordening PT algemene heffing groenten en fruit 2013"
-signed_date: "2012-12-20"
-entry_into_force: "2013-03-31"
+publicatiedatum: 2013-03-31
+laatste_update: 2013-09-22
+status: geldig
+toestand: 2013-09-22
+bron: "https://wetten.overheid.nl/BWBR0033105"
+opgehaald: 2026-08-19
 ---
+
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing groenten en fruit voor het jaar 2013 (Verordening PT algemene heffing groenten en fruit 2013)
-
-Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
-
-Gehoord de Commissie voor groenten en fruit d.d. 14 december 2012;
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -59,7 +32,7 @@ In deze verordening wordt verstaan onder:
 | i. | cultuurgrond | : | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland en grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan groente en fruit kunnen worden geteeld; |
 | j. | derde land | : | staat, niet zijnde een lidstaat van de Europese Unie; |
 | k. | fruit | : | vers fruit, bewerkt en verwerkt fruit; |
-| I. | Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en [25 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=25); |
+| I. | Gecombineerde opgave | : | het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet; |
 | m. | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | n. | groenten | : | verse, bewerkte en verwerkte groenten, eetbare zwammen, specerijgewassen, aardbeien, aardbeiplanten, consumptiespecerijzaden, groen geoogste landbouwpeulvruchten, noten en kruiden; |
 | o. | handelen | : | het aankopen van verse of bewerkte groenten en fruit, ongeacht de herkomst; |
@@ -105,9 +78,9 @@ In deze verordening wordt verstaan onder:
 
 4. De algemene heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per productgroep, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor verse groenten en fruit:
 
-| **Productgroep (tarieven nog aanpassen)** | **BRSnr.** | **Tarief** | **Eenh.** |
+| Productgroep (tarieven nog aanpassen) | BRSnr. | Tarief | Eenh. |
 | --- | --- | --- | --- |
-| **Glasgroenten** |   |   |   |
+| Glasgroenten |  |  |  |
 | Andijvie | 648 | 0,36 | are |
 | Aubergines | 618 | 0,64 | are |
 | Courgette | 642 | 0,36 | are |
@@ -122,7 +95,7 @@ In deze verordening wordt verstaan onder:
 | Tomaten - Trostomaten (incl. fijne trostomaten) | 604 | 0,64 | are |
 | Tomaten - Cherry-tomaten | 606 | 0,64 | are |
 | Overige groenten (inclusief meloenen) | 621 | 0,36 | are |
-| **Teelt in open grond** |   |   |   |
+| Teelt in open grond |  |  |  |
 | Aardbeien onder glas | 610 | 1,54 | are |
 | Aardbeien plastic tunnel | 611 | 1,54 | are |
 | Aardbeien productie | 433 | 14,34 | ha |
@@ -174,7 +147,7 @@ In deze verordening wordt verstaan onder:
 | Witlof in bakken | 585 | 0,41 | m2 |
 | Witlofwortel | 472 | 2,06 | ha |
 | Wittekool | 473 | 5,14 | ha |
-| **Fruit** |   |   |   |
+| Fruit |  |  |  |
 | Appelen in seizoen | 490 | 8,52 | ha |
 | Appelen vóór seizoen | 491 | 8,52 | ha |
 | Blauwe bessen | 494 | 35,33 | ha |

@@ -1,44 +1,18 @@
 ---
 title: "Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequeties aan MT 2 Mobiele Communicatie B.V. als houder van een vergunning voor GSM"
+citeertitel: "Beschikking toekenning frequeties aan MT 2 Mobiele Communicatie B.V. als houder van een vergunning voor GSM"
 identifier: "BWBR0032235"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2012-11-01"
-last_updated: "2012-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032235"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "11911793"
-version_id: "19794152"
-internal_id: "C27801941"
-label_id: "11883834"
-dtd_version: "2.0"
-original_entry_into_force: "2012-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032235/2012-11-01/0"
-intitule_bron: "Stcrt.2012-19660"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-09-20"
-intitule_published: "2012-09-27"
-intitule_in_force: "2012-09-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-19660"
-original_signed_date: "2012-09-20"
-original_published_date: "2012-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-19660"
-entry_into_force_date: "2012-11-01"
-jci_1_3: "jci1.3:c:BWBR0032235&z=2012-11-01&g=2012-11-01"
-jci_1_0: "1.0:c:BWBR0032235&g=2012-11-01"
-citeertitel_status: "redactioneel"
-short_title: "Beschikking toekenning frequeties aan MT 2 Mobiele Communicatie B.V. als houder van een vergunning voor GSM"
-signed_date: "2012-09-20"
-entry_into_force: "2012-11-01"
+publicatiedatum: 2012-11-01
+laatste_update: 2012-11-01
+status: geldig
+toestand: 2012-11-01
+bron: "https://wetten.overheid.nl/BWBR0032235"
+opgehaald: 2026-08-19
 ---
+
 # Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequeties aan MT 2 Mobiele Communicatie B.V. als houder van een vergunning voor GSM
-
-Gelet op de artikelen 13e en 13l van de Wet op de telecommunicatievoorzieningen;
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -82,7 +56,7 @@ In deze beschikking wordt verstaan onder:
 
 ##### Artikel 2. Toekenning van frequenties
 
-1. Indien deze vergunning wordt gehouden door één vergunninghouder, zijn voor hem voor de uitvoering van deze vergunning de radiofrequenties beschikbaar, genoemd in tabel 1 van de vergunning.
+1. Indien deze vergunning wordt gehouden door één vergunninghouder, zijn voor hem voor de uitvoering van deze vergunning de radiofrequenties beschikbaar, genoemd in [tabel 1](https://wetten.overheid.nl/BWBR0032235) van de vergunning.
 
 2. Indien deze vergunning wordt gehouden door meer dan één vergunninghouder, dan zijn voor iedere vergunninghouder de radiofrequenties, bedoeld in het eerste lid, beschikbaar die aan hem zijn overgedragen met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032235&paragraaf=2&artikel=4&z=2012-11-01&g=2012-11-01), met dien verstande dat voor Vodafone Libertel B.V. ook de radiofrequenties beschikbaar zijn die behoren tot het deel van de vergunning dat zij niet heeft overgedragen.
 
@@ -163,76 +137,3 @@ Een toegekende frequentie kan worden ingetrokken indien:
 ##### Artikel 10. Geldigheidsduur
 
 Deze beschikking treedt in werking met ingang van 1 april 1995.
-
-## Bijlage. behorende bij de beschikking van 15 maart 1995 kenmerk HDTP/95/5822/HP
-
-| kanaal | Frequentie (MHz) | Frequentie (MHz) | VOORKEUR in gebied | VOORKEUR in gebied | VOORKEUR in gebied |
-| --- | --- | --- | --- | --- | --- |
-| nummer | Mobiel TX | Basisstation TX | BEL/D/HOL | D/HOL | BEL/HOL |
-| 21 | 894,2 | 939,2 | HOL | HOL | HOL |
-| 22 | 894,4 | 939,4 | HOL | HOL | HOL |
-| 23 | 894,6 | 939,6 | HOL | HOL | HOL |
-| 24 | 894,8 | 939,8 | HOL | HOL | HOL |
-| 25 | 895 | 940 | HOL | HOL | HOL |
-| 26 | 895,2 | 940,2 | HOL | D | HOL |
-| 27 | 895,4 | 940,4 | HOL | D | HOL |
-| 28 | 895,6 | 940,6 | HOL | D | HOL |
-| 29 | 895,8 | 940,8 | HOL | D | HOL |
-| 30 | 896 | 941 | HOL | D | HOL |
-| 31 | 896,2 | 941,2 | D | D | HOL |
-| 32 | 896,4 | 941,4 | D | D | HOL |
-| 33 | 896,6 | 941,6 | D | D | HOL |
-| 34 | 896,8 | 941,8 | D | D | HOL |
-| 35 | 897 | 942 | D | D | HOL |
-| 36 | 897,2 | 942,2 | D | D | HOL |
-| 37 | 897,4 | 942,4 | D | D | HOL |
-| 38 | 897,6 | 942,6 | D | D | BEL |
-| 39 | 897,8 | 942,8 | D | HOL | BEL |
-| 40 | 898 | 943 | D | HOL | BEL |
-| 41 | 898,2 | 943,2 | D | HOL | BEL |
-| 42 | 898,4 | 943,4 | D | HOL | BEL |
-| 43 | 898,6 | 943,6 | D | HOL | BEL |
-| 44 | 898,8 | 943,8 | D | HOL | BEL |
-| 45 | 899 | 944 | D | HOL | BEL |
-| 46 | 899,2 | 944,2 | D | HOL | BEL |
-| 47 | 899,4 | 944,4 | D | HOL | BEL |
-| 48 | 899,6 | 944,6 | D | HOL | BEL |
-| 49 | 899,8 | 944,8 | D | HOL | BEL |
-| 50 | 900 | 945 | D | HOL | BEL |
-| 51 | 900,2 | 945,2 | D | HOL | BEL |
-| 52 | 900,4 | 945,4 | D | D | BEL |
-| 53 | 900,6 | 945,6 | D | D | BEL |
-| 54 | 900,8 | 945,8 | D | D | BEL |
-| 55 | 901 | 946 | D | D | BEL |
-| 56 | 901,2 | 946,2 | D | D | BEL |
-| 57 | 901,4 | 946,4 | D | D | BEL |
-| 58 | 901,6 | 946,6 | D | D | BEL |
-| 59 | 901,8 | 946,8 | D | D | BEL |
-| 60 | 902 | 947 | D | D | BEL |
-| 61 | 902,2 | 947,2 | D | D | BEL |
-| 62 | 902,4 | 947,4 | D | D | BEL |
-| 63 | 902,6 | 947,6 | D | D | BEL |
-| 64 | 902,8 | 947,8 | D | D | BEL |
-| 65 | 903 | 948 | D | D | BEL |
-| 108 | 911,6 | 956,6 | BEL | HOL | HOL |
-| 109 | 911,8 | 956,8 | BEL | HOL | HOL |
-| 110 | 912 | 957 | HOL | HOL | HOL |
-| 111 | 912,2 | 957,2 | HOL | HOL | HOL |
-| 112 | 912,4 | 957,4 | HOL | HOL | HOL |
-| 113 | 912,6 | 957,6 | HOL | HOL | HOL |
-| 114 | 912,8 | 957,8 | HOL | HOL | HOL |
-| 115 | 913 | 958 | HOL | HOL | HOL |
-| 116 | 913,2 | 958,2 | HOL | HOL | HOL |
-| 117 | 913,4 | 958,4 | HOL | HOL | HOL |
-| 118 | 913,6 | 958,6 | HOL | HOL | HOL |
-| 119 | 913,8 | 958,8 | HOL | HOL | HOL |
-
-**Opmerkingen bij de tabel:**
-
-De bovengenoemde grensgebieden zijn slechts een indicatie; de grootte van de gebieden is afhankelijk van de toe te passen parameters (zie onderstaande frequentie-technische voorwaarden).
-
-De gebiedsindicatie BEL/D/HOL betreft globaal Limburg.
-
-De gebiedsindicatie D/HOL betreft globaal Oost Nederland.
-
-De gebiedsindicatie BEL/HOL betreft globaal Zuid Nederland.

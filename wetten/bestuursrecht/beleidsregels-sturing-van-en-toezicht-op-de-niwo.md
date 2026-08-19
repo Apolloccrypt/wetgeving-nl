@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241286, houdende vaststelling beleidsregels van de Minister van Infrastructuur en Milieu voor de sturing van en het toezicht op de NIWO (Beleidsregels sturing van en toezicht op de NIWO)"
+citeertitel: "Beleidsregels sturing van en toezicht op de NIWO"
 identifier: "BWBR0032465"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032465"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "11960803"
-version_id: "19884552"
-internal_id: "C27922081"
-label_id: "11932734"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032465/2013-01-01/0"
-intitule_bron: "Stcrt.2012-25326"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-05"
-intitule_published: "2012-12-18"
-intitule_in_force: "2012-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2012-25326"
-original_signed_date: "2012-12-05"
-original_published_date: "2012-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2012-25326"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032465&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032465&g=2013-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels sturing van en toezicht op de NIWO"
-signed_date: "2012-12-05"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032465"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241286, houdende vaststelling beleidsregels van de Minister van Infrastructuur en Milieu voor de sturing van en het toezicht op de NIWO (Beleidsregels sturing van en toezicht op de NIWO)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze regels wordt verstaan onder:
 
-- **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **minister:** de Minister van Infrastructuur en Milieu;
+- *minister:* de Minister van Infrastructuur en Milieu;
 
-- **NIWO:** Stichting Nationale en Internationale Wegvervoer Organisatie.
+- *NIWO:* Stichting Nationale en Internationale Wegvervoer Organisatie.
 
 #### § 2. Financieel toezicht
 
@@ -140,7 +115,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 5. Overige onderwerpen
 
-##### Artikel 8. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 8. Evaluatie conform artikel 39 van de Kaderwet
 
 De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de minister van Financiën.
 
@@ -151,5 +126,3 @@ Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op de N
 ##### Artikel 10. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2013.
-
-Deze regels zullen met de toelichting in de Staatscourant worden geplaatst.

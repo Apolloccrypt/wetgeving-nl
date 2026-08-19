@@ -1,39 +1,18 @@
 ---
 title: "Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)"
+citeertitel: "Bekendmaking beleid Stichting Nationale en Internationale Wegvervoer Organisatie"
 identifier: "BWBR0033136"
-country: "nl"
-rank: "zbo"
-publication_date: "2006-07-10"
-last_updated: "2006-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0033136"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "12174703"
-version_id: "20335042"
-internal_id: "C28604391"
-label_id: "12146264"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0033136/2006-07-10/0"
-intitule_bron: "Stcrt.2006-131"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-07-10"
-intitule_in_force: "2006-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2006-131"
-original_published_date: "2006-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2006-131-p20-SC75981"
-entry_into_force_date: "2006-07-10"
-jci_1_3: "jci1.3:c:BWBR0033136&z=2006-07-10&g=2006-07-10"
-jci_1_0: "1.0:c:BWBR0033136&g=2006-07-10"
-citeertitel_status: "redactioneel"
-short_title: "Bekendmaking beleid Stichting Nationale en Internationale Wegvervoer Organisatie"
-entry_into_force: "2006-07-10"
+publicatiedatum: 2006-07-10
+laatste_update: 2006-07-10
+status: geldig
+toestand: 2006-07-10
+bron: "https://wetten.overheid.nl/BWBR0033136"
+opgehaald: 2026-08-19
 ---
-# Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)
 
-De NIWO bepaalt, gelet op de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443), het [Besluit goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005496) en de ministeriële regelingen ter uitvoering van wet en besluit, het navolgende:
+# Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)
 
 ### A. Aanvragen om vergunning
 
@@ -68,6 +47,20 @@ In geval de eigenaar van een eenmanszaak, een partner van de eigenaar waarmee hi
 Het onderzoek richt zich met name op de aard van de werkzaamheden en de daarbij behorende verantwoordelijkheden, het aantal uren dat betrokkene werkzaam is, de honorering van de verrichte werkzaamheden en een eventueel dienstverband elders. Bij de beoordeling wordt rekening gehouden met de omvang en aard van het bedrijf.
 
 De vakbekwaam te achten persoon moet in principe aan de volgende eisen voldoen:
+
+- – loondienstverband, eventueel managementvergoeding;
+
+- – redelijke beloning, waarbij wordt aangesloten bij de relevante functieklassen uit de CAO;
+
+- – volledige volmacht, bij uitzondering beperkte volmacht afhankelijk van de volmachten van de overige bestuurders;
+
+- – inschrijving in Handelsregister;
+
+- – bij grote bedrijven (> 10 vrachtauto’s) fulltime werkzaam in een leidinggevende positie;
+
+- – bij kleine bedrijven (≤ 10 vrachtauto’s) een redelijk aantal uren werkzaam in een leidinggevende positie afhankelijk van de aard en de grootte van het bedrijf;
+
+- – geen functie elders, tenzij de omvang van de betrokken bedrijven dit toelaat en/of de functie in nauwe relatie staat tot het bedrijf.
 
 In het geval dat een bestaand bedrijf door uitbreiding komt te vallen in de categorie grote bedrijven, wordt opnieuw getoetst op de vakbekwaamheid.
 

@@ -1,64 +1,34 @@
 ---
 title: "Wet van 13 december 2012 tot wijziging van de Registratiewet 1970 en enige andere wetten in verband met de invoering van de elektronische registratie van notariële akten en de gedeeltelijke afschaffing van de registratie van onderhandse akten (Wet elektronische registratie notariële akten)"
+citeertitel: "Wet elektronische registratie notariële akten"
 identifier: "BWBR0032526"
-country: "nl"
-rank: "wet"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032526"
+categorie: "Overig"
 soort: "wet"
-stam_id: "11975553"
-version_id: "19907312"
-internal_id: "C27969971"
-label_id: "11947394"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032526/2023-01-01/0"
-intitule_bron: "Stb.2012-648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-13"
-intitule_published: "2012-12-20"
-intitule_in_force: "2012-12-20"
-intitule_status: "goed"
-original_publication: "Stb.2012-648"
-original_signed_date: "2012-12-13"
-original_published_date: "2012-12-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "33406"
-original_url_id: "stb-2012-648"
-entry_into_force_date: "2013-01-01"
-entry_into_force_dossier: "33406"
-jci_1_3: "jci1.3:c:BWBR0032526&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0032526&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet elektronische registratie notariële akten"
-signed_date: "2012-12-13"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0032526"
+opgehaald: 2026-08-19
 ---
+
 # Wet van 13 december 2012 tot wijziging van de Registratiewet 1970 en enige andere wetten in verband met de invoering van de elektronische registratie van notariële akten en de gedeeltelijke afschaffing van de registratie van onderhandse akten (Wet elektronische registratie notariële akten)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo wij in overweging genomen hebben, dat het wenselijk is notariële akten voortaan langs elektronische weg te registreren en langs elektronische weg te doen inschrijven in een door de Koninklijke Notariële Beroepsorganisatie gehouden repertorium alsmede de registratie van onderhandse akten gedeeltelijk af te schaffen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Registratiewet 1970.
+*Wijzigt de Registratiewet 1970.*
 
 ##### Artikel II
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel III
 
-Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.
+*Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.*
 
 ##### Artikel IV
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel V
 
@@ -70,10 +40,8 @@ Wijzigt deze wet.
 
 ##### Artikel VI
 
-Deze wet treedt in werking met ingang van 1 januari 2013.
+Deze wet treedt in werking met ingang van 1 januari 2013.
 
 ##### Artikel VII
 
 Deze wet wordt aangehaald als: Wet elektronische registratie notariële akten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

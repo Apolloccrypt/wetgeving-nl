@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Veiligheid en Justitie nummer 332130 van 20 december 2012, houdende de instelling van de Commissie toegang notariaat (Besluit Instelling Commissie toegang notariaat)"
+citeertitel: "Besluit Instelling Commissie toegang notariaat"
 identifier: "BWBR0032720"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2013-01-01"
-last_updated: "2013-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0032720"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "12035703"
-version_id: "20038892"
-internal_id: "C28146931"
-label_id: "12007414"
-dtd_version: "2.0"
-original_entry_into_force: "2013-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0032720/2013-01-01/0"
-intitule_bron: "Stcrt.2013-507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2012-12-20"
-intitule_published: "2013-01-04"
-intitule_in_force: "2013-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2013-507"
-original_signed_date: "2012-12-20"
-original_published_date: "2013-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2013-507"
-entry_into_force_date: "2013-01-01"
-jci_1_3: "jci1.3:c:BWBR0032720&z=2013-01-01&g=2013-01-01"
-jci_1_0: "1.0:c:BWBR0032720&g=2013-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit Instelling Commissie toegang notariaat"
-signed_date: "2012-12-20"
-entry_into_force: "2013-01-01"
+publicatiedatum: 2013-01-01
+laatste_update: 2013-01-01
+status: geldig
+toestand: 2013-01-01
+bron: "https://wetten.overheid.nl/BWBR0032720"
+opgehaald: 2026-08-19
 ---
+
 # Regeling van de Staatssecretaris van Veiligheid en Justitie nummer 332130 van 20 december 2012, houdende de instelling van de Commissie toegang notariaat (Besluit Instelling Commissie toegang notariaat)
-
-Gelet op [artikel 8, tweede lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=4) en [5 van het Besluit op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&artikel=5);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -66,23 +38,23 @@ Een ieder die betrokken is bij de werkzaamheden van de Commissie en daarbij de b
 
 - b. leden:
 
-- ○. de heer drs. H.G.M. Blocks;
+   - ○ de heer drs. H.G.M. Blocks;
 
-- ○. de heer drs. A. Hoekstra;
+   - ○ de heer drs. A. Hoekstra;
 
-- ○. de heer mr. P. Kole (Bestuurslid Bureau Financieel toezicht);
+   - ○ de heer mr. P. Kole (Bestuurslid Bureau Financieel toezicht);
 
-- ○. de heer mr. J.H. Oomen (Bestuurslid Koninklijke Notariële Beroepsorganisatie);
+   - ○ de heer mr. J.H. Oomen (Bestuurslid Koninklijke Notariële Beroepsorganisatie);
 
 - c. plaatsvervangende leden:
 
-- ○. de heer mr. W.G. Huijgen;
+   - ○ de heer mr. W.G. Huijgen;
 
-- ○. de heer mr. A.L.J. Westerhuis
+   - ○ de heer mr. A.L.J. Westerhuis
 
 - d. secretaris:
 
-- ○. mevrouw mr. K.A.J. van Geest (Koninklijke Notariële Beroepsorganisatie).
+   - ○ mevrouw mr. K.A.J. van Geest (Koninklijke Notariële Beroepsorganisatie).
 
 ##### Artikel 5
 
